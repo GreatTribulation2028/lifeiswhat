@@ -790,11 +790,11 @@
 
 	function autoLoadData(){
 		if(location.protocol==='file:'){
-			document.getElementById('paste-input').placeholder='⚠️ 本機開啟無法自動載入 data.txt\n請用「選擇檔案」或拖放 data.txt 到此處\n\n或用終端機執行：python -m http.server 8000\n再開 http://localhost:8000/monitor.html';
+			document.getElementById('paste-input').placeholder='⚠️ 本機開啟無法自動載入 data.txt\n請用「選擇檔案」或拖放 data.txt 到此處\n\n或用終端機執行：python -m http.server 8000\n再開 http://localhost:8000/monitor03E.html';
 			return;
 		}
 		fetch('data.txt').then(r=>{if(!r.ok)throw new Error();return r.text()}).then(t=>{document.getElementById('paste-input').value=t;loadPastedData()}).catch(()=>{
-			document.getElementById('paste-input').placeholder='⚠️ 未找到 data.txt\n請把 data.txt 放在與 monitor.html 同一資料夾\n或直接貼上/拖放資料到這裡';
+			document.getElementById('paste-input').placeholder='⚠️ 未找到 data.txt\n請把 data.txt 放在與 monitor03E.html 同一資料夾\n或直接貼上/拖放資料到這裡';
 		});
 	}
 
@@ -962,3 +962,4 @@
 </body>
 
 </html>
+
