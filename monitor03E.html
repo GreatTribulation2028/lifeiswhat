@@ -453,13 +453,13 @@
 			<button class="immersive-close" onclick="closeImmersive()">×</button>
 
 			<div class="immersive-stage active" id="stage-1">
-				<div class="immersive-question">你有沒有想過<br>活著，到底是為了什麼？</div>
-				<div class="immersive-sub">工作、賺錢、供樓、養家<br>然後呢？<br>吃、喝、玩、樂、然後有一天<br>我們也會成為新聞裡的一個數字嗎？</div>
+				<div class="immersive-question">有沒有想過<br>活著，到底是為了什麼？</div>
+				<div class="immersive-sub">工作、賺錢、置業、養妻活兒<br>勞錄一生，最後？<br>生命 : 長度 : 濃度，為了甚麼?<br>某天後，我們只能成為一個被記錄的數字嗎？</div>
 				<button class="immersive-btn primary" onclick="nextStage(2)">繼 續</button>
 			</div>
 
 			<div class="immersive-stage" id="stage-2">
-				<div class="immersive-question">如果突然在睡夢中離開<br>最放不下的是什麼呢？</div>
+				<div class="immersive-question">若驀然在睡夢中離去<br>最放不下的是什麼呢？</div>
 				<textarea class="immersive-input" id="input-regret" placeholder="寫下來，只有你自己看得到..." rows="3"></textarea>
 				<div class="immersive-sub">其實...大多數人<br>從來沒有認真想過這個問題<br>直到來不及想的那一天</div>
 				<button class="immersive-btn" onclick="nextStage(1)">返 回</button>
@@ -471,55 +471,55 @@
 				<div class="immersive-choices">
 					<div class="immersive-choice" onclick="selectBelief('nothing')">什麼都沒有，人死如燈滅</div>
 					<div class="immersive-choice" onclick="selectBelief('reincarnation')">輪迴轉世，繼續下一段旅程</div>
-					<div class="immersive-choice" onclick="selectBelief('heaven-hell')">天堂或地獄，靈魂永存</div>
-					<div class="immersive-choice" onclick="selectBelief('unknown')">不知道，從來沒認真想過</div>
+					<div class="immersive-choice" onclick="selectBelief('heaven-hell')">天堂或地獄，靈魂是永存，今生如單程票</div>
+					<div class="immersive-choice" onclick="selectBelief('unknown')">不知道，沒認真想過，也不想思想</div>
 				</div>
 				<button class="immersive-btn" onclick="nextStage(2)">返 回</button>
 			</div>
 
 			<div class="immersive-stage" id="stage-nothing">
-				<div class="immersive-question">如果死後什麼都沒有<br>那你現在的一切掙扎，意義何在？</div>
-				<div class="immersive-sub">如果終點是虛無<br>為什麼你還會恐懼死亡？<br>為什麼你還會在乎被記住？<br><br>也許，你內心深處知道<br>事情沒那麼簡單</div>
+				<div class="immersive-question">如果死後什麼都沒有<br>一生的掙扎，義人的善，惡人的惡，意義何在？</div>
+				<div class="immersive-sub">若終點是虛無<br>為什麼人還會恐懼死亡？<br>為什麼人還會被套著無形的枷鎖？<br><br>也許，眾人的心深處<br>原知道沒那麼簡單</div>
 				<button class="immersive-btn primary" onclick="nextStage(5)">繼 續</button>
 			</div>
 
 			<div class="immersive-stage" id="stage-reincarnation">
-				<div class="immersive-question">如果有輪迴<br>你這一世做了什麼，值得下一世更好？</div>
-				<div class="immersive-sub">輪迴的盡頭是什麼？<br>永遠的循環，今生，你苦夠了嗎？<br>若沒有實在的信心，而只有一次機會。<br>你確定這是希望，還是一場未知的賭博？</div>
+				<div class="immersive-question">輪迴<br>苦海無涯，回頭是岸</div>
+				<div class="immersive-sub">脫離這輪迴苦海的律<br>何不尋一道，直達永恆？<br></div>
 				<button class="immersive-btn primary" onclick="nextStage(5)">繼 續</button>
 			</div>
 
 			<div class="immersive-stage" id="stage-heaven-hell">
-				<div class="immersive-question">如果真的有天堂和地獄<br>你憑什麼去天堂？</div>
-				<div class="immersive-sub">做好人？做善事？<br>多少才算「夠」？誰來定標準？<br><br>如果標準是「完美」<br>你有把握嗎？</div>
+				<div class="immersive-question">如果真的有天堂和地獄<br>入門卷是甚麼？</div>
+				<div class="immersive-sub">好人？善事？<br>份量是多少？誰來定標準？<br><br>你有把握嗎？<br></div>
 				<button class="immersive-btn primary" onclick="nextStage(5)">繼 續</button>
 			</div>
 
 			<div class="immersive-stage" id="stage-unknown">
-				<div class="immersive-question">從來沒認真想過<br>因為鮮有人提說<br>但不代表問題不存在</div>
-				<div class="immersive-sub">我們可以不想<br>但我們可能逃不過去<br><br>死亡是唯一確定會發生的事<br>許多人對死亡，仍然眾說紛紜<br>這不奇怪嗎？</div>
+				<div class="immersive-question">從來沒認真想過<br>世界也鮮有人提真心討論<br>卻不代表問題不存在</div>
+				<div class="immersive-sub">可以不想<br>卻躲不過<br><br>不確死亡的去處<br>但確定，人人都有一死<br>卻眾說紛紜，奇怪嗎？</div>
 				<button class="immersive-btn primary" onclick="nextStage(5)">繼 續</button>
 			</div>
 
 			<div class="immersive-stage" id="stage-5">
-				<div class="immersive-question">其實，每個人都一樣</div>
-				<div class="immersive-sub">我們可能都思考過死亡<br>我們都不知道明天會發生什麼事<br>我們都在忙碌中逃避這個問題<br><br>但問題不會消失<br>死亡，一直讓許多人措手不及...</div>
-				<div class="immersive-wisdom">「其實明天如何，你們還不知道。<br>你們的生命是甚麼呢？<br>你們原來是一片雲霧，出現少時就不見了。」<span class="immersive-ref">— 雅各書 4:14</span></div>
+				<div class="immersive-question">我們都一樣</div>
+				<div class="immersive-sub">可能思考過<br>然後，遺忘于忙碌裡<br><br>卻是一直令我們都措手不及...</div>
+				<div class="immersive-wisdom">「其實明天如何，我們還不知道。<br>我們的生命是甚麼呢？<br>我們原來是一片雲霧，出現少時就不見了。」<span class="immersive-ref">— 雅各書 4:14</span></div>
 				<button class="immersive-btn primary" onclick="nextStage(6)">繼 續</button>
 			</div>
 
 			<div class="immersive-stage" id="stage-6">
-				<div class="immersive-question">有一條路<br>可以讓我們不再懼怕死亡</div>
-				<div class="immersive-sub">不是因為死後什麼都沒有<br>而是因為你知道自己會去哪裡<br><br>不是因為你夠好<br>而是因為有人替你付了代價</div>
+				<div class="immersive-question">有一條路<br>可以不再懼怕</div>
+				<div class="immersive-sub">因為你會清楚知道自己將會去哪裡<br><br>而且，已經有人替你付了路費和代價</div>
 				<div class="immersive-wisdom">「神愛世人，甚至將祂的獨生子賜給他們<br>叫一切信祂的，不致滅亡，反得永生。」<span class="immersive-ref">— 約翰福音 3:16</span></div>
 				<button class="immersive-btn primary" onclick="nextStage(7)">我想知道更多</button>
 				<button class="immersive-btn" onclick="closeImmersive()">讓我再想想</button>
 			</div>
 
 			<div class="immersive-stage" id="stage-7">
-				<div class="immersive-question">這不是宗教，這是關係</div>
-				<div class="immersive-sub">2000 多年前，有一個人<br>祂沒有犯過任何過犯，卻被釘死在十字架上<br>祂說：祂是愛你，甘心為你捨去祂自己<br><br>祂的名字叫耶穌<br>祂死了，但三天後復活了</div>
-				<div class="immersive-wisdom">「我就是道路、真理、生命<br>若不藉著我，沒有人能到父那裡去。」<span class="immersive-ref">— 約翰福音 14:6</span></div>
+				<div class="immersive-question">這是真實的</div>
+				<div class="immersive-sub">2000 多年前，有一個人<br>祂沒有任何過犯，卻被釘死在十字架上<br>祂說：因為愛你，便甘心為你捨去祂自己<br><br>祂的名字叫耶穌<br>祂死了，但三天後復活了</div>
+				<div class="immersive-wisdom">祂說: 「我就是道路、真理、生命<br>若不藉著我，沒有人能到父那裡去。」<span class="immersive-ref">— 約翰福音 14:6</span></div>
 				<button class="immersive-btn primary" onclick="nextStage(8)">我想接受</button>
 				<button class="immersive-btn" onclick="closeImmersive()">讓我再想想</button>
 			</div>
@@ -594,6 +594,7 @@
 	];
 	const wisdomQuotes = [
 		{ text: '生命不在於長短，而在於深度。', source: '愛默生' },
+		{ text: '「有些人25歲就死了，但是要75歲才被埋葬。」(如行屍走肉的一生)', source: '富蘭克林' },
 		{ text: '人生自古誰無死，留取丹心照汗青。', source: '文天祥' },
 		{ text: '死亡不是生命的終結，遺忘才是。', source: '電影《尋夢環遊記》' },
 		{ text: '未知死，焉知生？未知生，焉知死？', source: '孔子' },
@@ -964,7 +965,6 @@
 </body>
 
 </html>
-
 
 
 
