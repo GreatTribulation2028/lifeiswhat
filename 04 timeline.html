@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>PROJECT: TRIBULATION // 七年大災難 2019-2028</title>
+
+<!-- 字體 -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;500;700&family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
+
+<!-- Favicon -->
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚠️</text></svg>">
+
+<style>
+/* ═══════════════════════════════════════════════════════════════════════════
+   CSS 變數
+═══════════════════════════════════════════════════════════════════════════ */
+:root {
+  --c-bg: #0a0a0a;
+  --c-bg-card: rgba(10,10,10,0.85);
+  --c-accent: #00f3ff;
+  --c-accent-dim: rgba(0,243,255,0.3);
+  --c-doom-red: #ff2a2a;
+  --c-blood: #8b0000;
+  --c-warn: #ffae00;
+  --c-success: #00ff41;
+  --c-text: #e8e8e8;
+  --c-text-dim: #aaaaaa;
+  --c-border: rgba(0,243,255,0.2);
+
+  --font-mono: 'Share Tech Mono', monospace;
+  --font-display: 'Orbitron', sans-serif;
+  --font-chinese: 'Noto Sans TC', sans-serif;
+  --font-brush: 'Ma Shan Zheng', cursive;
+
+  --header-height: 80px;
+  --footer-height: 50px;
+  --mobile-nav-height: 60px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--c-bg);
+  color: var(--c-text);
+  font-family: var(--font-chinese);
+  min-height: 100vh;
+  overflow-x: hidden;
+  line-height: 1.6;
+}
+
+/* 全局氛圍層 */
+#matrixCanvas {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  z-index: -1;
+  opacity: 0.4;
+}
+.doom-vignette {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: radial-gradient(ellipse at center, transparent 0%, rgba(50,0,0,0.4) 100%);
+  pointer-events: none;
+  z-index: 9990;
+}
+.scanlines {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.1) 2px, rgba(0,0,0,0.1) 4px);
+  pointer-events: none;
+  z-index: 9991;
+}
+.lightning-flash {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(255,255,255,0.8);
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9989;
+}
+
+/* 頂部橫幅 */
+.top-header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--header-height);
+  background: linear-gradient(180deg, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.8) 100%);
+  border-bottom: 2px solid var(--c-doom-red);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  z-index: 1000;
+  box-shadow: 0 5px 30px rgba(255,0,0,0.2);
+}
+.project-title {
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--c-doom-red);
+  text-shadow: 0 0 20px rgba(255,42,42,0.8);
+  letter-spacing: 2px;
+  animation: title-pulse 3s ease-in-out infinite;
+}
+@keyframes title-pulse {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 1; text-shadow: 0 0 30px rgba(255,42,42,1); }
+}
+
+/* 預言數字 */
+.prophecy-numbers { display: flex; gap: 20px; }
+.prophecy-box {
+  text-align: center;
+  padding: 5px 15px;
+  background: rgba(255,42,42,0.1);
+  border: 1px solid rgba(255,42,42,0.3);
+  border-radius: 4px;
+}
+.prophecy-label { display: block; font-size: 9px; color: var(--c-text-dim); margin-bottom: 2px; }
+.prophecy-value {
+  font-family: var(--font-display);
+  font-size: 24px;
+  font-weight: 900;
+  color: var(--c-doom-red);
+  text-shadow: 0 0 15px rgba(255,42,42,0.8);
+  animation: number-flicker 4s ease-in-out infinite;
+}
+.prophecy-unit { font-size: 10px; color: var(--c-text-dim); margin-left: 3px; }
+@keyframes number-flicker {
+  0%, 90%, 100% { opacity: 1; }
+  92%, 94%, 96% { opacity: 0.5; }
+  93%, 95% { opacity: 1; }
+}
+
+/* 倒數計時 */
+.countdown-box {
+  text-align: center;
+  padding: 8px 15px;
+  background: rgba(0,0,0,0.8);
+  border: 1px solid var(--c-accent);
+  border-radius: 6px;
+  min-width: 160px;
+}
+.countdown-label { font-size: 10px; color: var(--c-accent); letter-spacing: 1px; }
+.countdown-target { font-family: var(--font-mono); font-size: 11px; color: var(--c-text-dim); }
+.countdown-value {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--c-accent);
+  text-shadow: 0 0 15px var(--c-accent);
+  margin: 3px 0;
+}
+.countdown-status { font-size: 9px; color: var(--c-success); letter-spacing: 1px; }
+.countdown-box.alert { border-color: var(--c-warn); animation: alert-pulse 1s ease-in-out infinite; }
+.countdown-box.alert .countdown-value { color: var(--c-warn); text-shadow: 0 0 15px var(--c-warn); }
+.countdown-box.urgent { border-color: var(--c-doom-red); animation: urgent-shake 0.5s ease-in-out infinite; }
+.countdown-box.urgent .countdown-value { color: var(--c-doom-red); text-shadow: 0 0 20px var(--c-doom-red); }
+@keyframes alert-pulse { 0%, 100% { box-shadow: 0 0 10px rgba(255,174,0,0.3); } 50% { box-shadow: 0 0 25px rgba(255,174,0,0.6); } }
+@keyframes urgent-shake { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-2px); } 75% { transform: translateX(2px); } }
+
+/* 主內容區 */
+.main-container {
+  display: grid;
+  grid-template-columns: 300px 1fr 320px;
+  gap: 20px;
+  padding: calc(var(--header-height) + 20px) 20px calc(var(--footer-height) + 20px);
+  min-height: 100vh;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+.column { display: flex; flex-direction: column; gap: 15px; }
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 15px;
+  background: rgba(0,0,0,0.8);
+  border: 1px solid var(--c-border);
+  border-radius: 6px;
+}
+.section-icon { font-size: 18px; }
+.section-title {
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--c-accent);
+  letter-spacing: 2px;
+  text-shadow: 0 0 10px var(--c-accent);
+}
+
+/* 時間軸 */
+.timeline-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  padding: 15px;
+  background: var(--c-bg-card);
+  border: 1px solid var(--c-border);
+  border-radius: 8px;
+  max-height: calc(100vh - 200px);
+  overflow-y: auto;
+}
+.timeline-container::-webkit-scrollbar { width: 4px; }
+.timeline-container::-webkit-scrollbar-track { background: rgba(0,0,0,0.3); }
+.timeline-container::-webkit-scrollbar-thumb { background: var(--c-accent); border-radius: 2px; }
+.timeline-item {
+  display: flex;
+  gap: 12px;
+  padding: 12px 0;
+  border-left: 2px solid var(--c-border);
+  padding-left: 15px;
+  margin-left: 25px;
+  position: relative;
+  transition: all 0.3s;
+}
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -7px; top: 15px;
+  width: 12px; height: 12px;
+  background: var(--c-bg);
+  border: 2px solid var(--c-accent);
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+.timeline-item:hover { background: rgba(0,243,255,0.05); }
+.timeline-item:hover::before { background: var(--c-accent); box-shadow: 0 0 15px var(--c-accent); }
+.timeline-item.current { border-left-color: var(--c-warn); }
+.timeline-item.current::before {
+  border-color: var(--c-warn);
+  background: var(--c-warn);
+  box-shadow: 0 0 15px var(--c-warn);
+  animation: current-pulse 2s ease-in-out infinite;
+}
+@keyframes current-pulse { 0%, 100% { box-shadow: 0 0 10px var(--c-warn); } 50% { box-shadow: 0 0 25px var(--c-warn); } }
+.timeline-item.final { border-left-color: var(--c-doom-red); }
+.timeline-item.final::before { border-color: var(--c-doom-red); }
+.timeline-item.end { border-left-color: var(--c-doom-red); }
+.timeline-item.end::before { border-color: var(--c-doom-red); background: var(--c-doom-red); }
+.timeline-year {
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--c-accent);
+  min-width: 45px;
+  text-shadow: 0 0 10px var(--c-accent);
+}
+.timeline-content { flex: 1; }
+.timeline-title {
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--c-text);
+  letter-spacing: 1px;
+  margin-bottom: 3px;
+}
+.timeline-desc { font-size: 11px; color: var(--c-text-dim); line-height: 1.4; }
+
+/* 資訊卡片 */
+.info-card {
+  background: var(--c-bg-card);
+  border: 1px solid var(--c-border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.card-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 15px;
+  background: rgba(0,0,0,0.5);
+  border-bottom: 1px solid var(--c-border);
+}
+.card-icon { font-size: 16px; }
+.card-title { font-family: var(--font-display); font-size: 11px; font-weight: 700; color: var(--c-accent); letter-spacing: 1px; }
+.card-body { padding: 15px; }
+
+/* 七災年卡片 */
+.tribulation-flow { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 15px; }
+.flow-item { padding: 5px 12px; background: rgba(0,243,255,0.1); border: 1px solid var(--c-accent-dim); border-radius: 4px; font-size: 12px; color: var(--c-accent); }
+.flow-item.fatal { background: rgba(255,42,42,0.2); border-color: var(--c-doom-red); color: var(--c-doom-red); font-weight: 700; }
+.flow-arrow { color: var(--c-text-dim); font-size: 14px; }
+.verse-highlight { padding: 12px; background: rgba(255,42,42,0.1); border-left: 3px solid var(--c-doom-red); font-size: 12px; line-height: 1.6; color: var(--c-text); }
+.verse-ref { display: block; margin-top: 8px; font-size: 10px; color: var(--c-doom-red); text-align: right; }
+
+/* Great Reset 卡片 */
+.reset-list { list-style: none; padding: 0; }
+.reset-list li { padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 11px; color: var(--c-text-dim); padding-left: 15px; position: relative; }
+.reset-list li::before { content: '▸'; position: absolute; left: 0; color: var(--c-accent); }
+.reset-list li:last-child { border-bottom: none; }
+.reset-list li.highlight { color: var(--c-warn); font-weight: 500; }
+
+/* 經文輪播卡片 */
+.verse-rotate-display { font-size: 13px; line-height: 1.8; color: var(--c-doom-red); text-shadow: 0 0 10px rgba(255,42,42,0.3); min-height: 60px; transition: opacity 0.5s; }
+
+/* 獸印警告卡片 */
+.mark-warning { padding: 12px; background: rgba(255,42,42,0.1); border: 1px solid rgba(255,42,42,0.3); border-radius: 4px; font-size: 11px; line-height: 1.6; color: var(--c-text); margin-bottom: 12px; }
+.mark-flow { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; font-size: 10px; color: var(--c-text-dim); }
+.mark-flow span { padding: 3px 8px; background: rgba(0,0,0,0.5); border-radius: 3px; }
+.mark-flow .danger { background: rgba(255,42,42,0.2); color: var(--c-doom-red); font-weight: 700; }
+
+/* 聖經連結 */
+.bible-links { display: flex; flex-direction: column; gap: 8px; padding: 15px; background: var(--c-bg-card); border: 1px solid var(--c-border); border-radius: 8px; }
+.bible-link { display: flex; align-items: center; gap: 10px; padding: 10px 12px; background: rgba(0,0,0,0.5); border: 1px solid transparent; border-radius: 6px; text-decoration: none; transition: all 0.3s; }
+.bible-link:hover { background: rgba(0,243,255,0.1); border-color: var(--c-accent); transform: translateX(5px); }
+.link-icon { font-size: 16px; }
+.link-text { font-size: 12px; color: var(--c-text); }
+.bible-link:hover .link-text { color: var(--c-accent); }
+.bible-link.main-site { background: rgba(255,174,0,0.1); border-color: rgba(255,174,0,0.3); }
+.bible-link.main-site:hover { background: rgba(255,174,0,0.2); border-color: var(--c-warn); }
+.bible-link.main-site .link-text { color: var(--c-warn); }
+
+/* 底部走馬燈 */
+.doom-footer {
+  position: fixed;
+  bottom: 0; left: 0;
+  width: 100%;
+  height: var(--footer-height);
+  background: linear-gradient(90deg, #000 0%, #1a0000 50%, #000 100%);
+  border-top: 2px solid var(--c-doom-red);
+  display: flex;
+  align-items: center;
+  z-index: 1000;
+  overflow: hidden;
+  box-shadow: 0 -5px 30px rgba(255,0,0,0.3);
+}
+.doom-footer::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, var(--c-doom-red), transparent); animation: pulse-line 2s ease-in-out infinite; }
+@keyframes pulse-line { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+.marquee-container { display: flex; width: 100%; overflow: hidden; }
+.marquee-content { display: flex; white-space: nowrap; animation: scroll-marquee 120s linear infinite; }
+.marquee-content:hover { animation-play-state: paused; }
+.marquee-text { display: flex; align-items: center; padding-right: 100px; color: var(--c-doom-red); font-family: var(--font-mono); font-size: 12px; letter-spacing: 1px; text-shadow: 0 0 10px rgba(255,42,42,0.8); }
+.marquee-text .hl-yellow { color: var(--c-warn); font-weight: bold; }
+.marquee-text .hl-cyan { color: var(--c-accent); }
+.marquee-text .sep { color: #444; margin: 0 15px; }
+@keyframes scroll-marquee { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+
+/* 手機版底部導航 */
+.mobile-nav {
+  display: none;
+  position: fixed;
+  bottom: var(--footer-height);
+  left: 0; right: 0;
+  height: var(--mobile-nav-height);
+  background: rgba(0,0,0,0.95);
+  border-top: 1px solid var(--c-border);
+  justify-content: space-around;
+  align-items: center;
+  z-index: 999;
+  backdrop-filter: blur(10px);
+}
+.nav-btn { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 8px 20px; background: transparent; border: none; cursor: pointer; transition: all 0.3s; }
+.nav-btn .nav-icon { font-size: 20px; transition: transform 0.3s; }
+.nav-btn .nav-label { font-family: var(--font-chinese); font-size: 10px; color: var(--c-text-dim); transition: color 0.3s; }
+.nav-btn.active .nav-icon { transform: scale(1.2); }
+.nav-btn.active .nav-label { color: var(--c-accent); }
+.nav-btn:hover .nav-label { color: var(--c-accent); }
+
+/* 返回門戶按鈕 */
+.back-btn {
+  position: fixed;
+  top: calc(var(--header-height) + 10px);
+  left: 10px;
+  padding: 8px 15px;
+  background: rgba(0,0,0,0.8);
+  border: 1px solid var(--c-accent);
+  border-radius: 6px;
+  color: var(--c-accent);
+  text-decoration: none;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  z-index: 100;
+  transition: all 0.3s;
+}
+.back-btn:hover { background: var(--c-accent); color: #000; }
+
+/* 響應式：平板 */
+@media (max-width: 1200px) {
+  .main-container { grid-template-columns: 280px 1fr 280px; gap: 15px; padding: calc(var(--header-height) + 15px) 15px calc(var(--footer-height) + 15px); }
+  .project-title { font-size: 13px; }
+  .prophecy-value { font-size: 20px; }
+  .countdown-box { min-width: 140px; }
+  .countdown-value { font-size: 16px; }
+}
+@media (max-width: 960px) {
+  :root { --header-height: 120px; }
+  .top-header { flex-wrap: wrap; justify-content: center; padding: 10px; gap: 10px; }
+  .header-left { width: 100%; text-align: center; }
+  .header-center, .header-right { flex: 1; display: flex; justify-content: center; }
+  .main-container { grid-template-columns: 1fr 1fr; gap: 15px; }
+  .column-left { grid-column: 1 / -1; order: 1; }
+  .column-center { order: 2; }
+  .column-right { order: 3; }
+  .timeline-container { max-height: 350px; }
+}
+@media (max-width: 768px) {
+  :root { --header-height: 70px; --footer-height: 40px; --mobile-nav-height: 55px; }
+  .top-header { flex-wrap: nowrap; justify-content: space-between; padding: 8px 12px; gap: 8px; }
+  .header-left { width: auto; flex: 1; }
+  .project-title { font-size: 10px; letter-spacing: 1px; }
+  .header-center { display: none; }
+  .header-right { flex: none; }
+  .countdown-box { min-width: auto; padding: 5px 10px; }
+  .countdown-label { font-size: 8px; }
+  .countdown-target { display: none; }
+  .countdown-value { font-size: 14px; }
+  .countdown-status { font-size: 8px; }
+  .main-container { grid-template-columns: 1fr; gap: 15px; padding: calc(var(--header-height) + 10px) 10px calc(var(--footer-height) + var(--mobile-nav-height) + 10px); }
+  .column { display: none; }
+  .column.active { display: flex; }
+  .column-left.active { order: 1; }
+  .mobile-nav { display: flex; }
+  .timeline-container { max-height: calc(100vh - 250px); }
+  .timeline-item { padding: 10px 0; margin-left: 20px; padding-left: 12px; }
+  .timeline-year { font-size: 12px; min-width: 40px; }
+  .timeline-title { font-size: 10px; }
+  .timeline-desc { font-size: 10px; }
+  .section-header { padding: 8px 12px; }
+  .section-title { font-size: 10px; }
+  .card-header { padding: 10px 12px; }
+  .card-title { font-size: 10px; }
+  .card-body { padding: 12px; }
+  .flow-item { padding: 4px 8px; font-size: 10px; }
+  .verse-highlight { padding: 10px; font-size: 11px; }
+  .reset-list li { font-size: 10px; padding: 6px 0; padding-left: 12px; }
+  .verse-rotate-display { font-size: 11px; min-height: 50px; }
+  .mark-warning { font-size: 10px; padding: 10px; }
+  .mark-flow { font-size: 9px; }
+  .bible-links { padding: 12px; gap: 6px; }
+  .bible-link { padding: 8px 10px; }
+  .link-text { font-size: 11px; }
+  .marquee-text { font-size: 10px; }
+  .back-btn { top: auto; bottom: calc(var(--footer-height) + var(--mobile-nav-height) + 10px); left: 50%; transform: translateX(-50%); }
+}
+@media (max-width: 480px) {
+  :root { --header-height: 60px; }
+  .project-title { font-size: 9px; letter-spacing: 0.5px; }
+  .countdown-box { padding: 4px 8px; }
+  .countdown-value { font-size: 12px; }
+  .main-container { padding: calc(var(--header-height) + 8px) 8px calc(var(--footer-height) + var(--mobile-nav-height) + 8px); gap: 10px; }
+  .timeline-container { padding: 10px; max-height: calc(100vh - 220px); }
+  .timeline-item { margin-left: 15px; padding-left: 10px; gap: 8px; }
+  .timeline-year { font-size: 11px; min-width: 35px; }
+  .nav-btn { padding: 6px 15px; }
+  .nav-btn .nav-icon { font-size: 18px; }
+  .nav-btn .nav-label { font-size: 9px; }
+  .marquee-text { font-size: 9px; }
+}
+
+/* 動畫輔助 */
+.fade-in { animation: fadeIn 0.5s ease-out; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+.glow-pulse { animation: glowPulse 2s ease-in-out infinite; }
+@keyframes glowPulse { 0%, 100% { box-shadow: 0 0 10px var(--c-accent); } 50% { box-shadow: 0 0 25px var(--c-accent); } }
+
+/* 滾動條 */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: rgba(0,0,0,0.3); }
+::-webkit-scrollbar-thumb { background: var(--c-accent); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--c-warn); }
+* { scrollbar-width: thin; scrollbar-color: var(--c-accent) rgba(0,0,0,0.3); }
+</style>
+</head>
+<body>
+
+<div class="doom-vignette"></div>
+<div class="scanlines"></div>
+<div class="lightning-flash" id="lightning"></div>
+<canvas id="matrixCanvas"></canvas>
+
+<header class="top-header">
+  <div class="header-left">
+    <span class="project-title">▓▓▓ PROJECT: TRIBULATION ▓▓▓</span>
+  </div>
+  <div class="header-center">
+    <div class="prophecy-numbers">
+      <div class="prophecy-box">
+        <span class="prophecy-label">但以理書 12:11</span>
+        <span class="prophecy-value" id="num1260">1260</span>
+        <span class="prophecy-unit">日</span>
+      </div>
+      <div class="prophecy-box">
+        <span class="prophecy-label">但以理書 12:12</span>
+        <span class="prophecy-value" id="num1290">1290</span>
+        <span class="prophecy-unit">日</span>
+      </div>
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="countdown-box" id="countdownBox">
+      <div class="countdown-label">末次號筒倒數</div>
+      <div class="countdown-target">2027-10-01</div>
+      <div class="countdown-value" id="countdownValue">---</div>
+      <div class="countdown-status" id="countdownStatus">CALCULATING...</div>
+    </div>
+  </div>
+</header>
+
+<a href="index.html" class="back-btn">← 返回門戶</a>
+
+<main class="main-container">
+
+  <!-- 左欄：時間軸 -->
+  <section class="column column-left active">
+    <div class="section-header">
+      <span class="section-icon">📅</span>
+      <span class="section-title">TRIBULATION TIMELINE</span>
+    </div>
+    <div class="timeline-container" id="timelineContainer">
+      <div style="padding: 8px 12px; background: rgba(0,243,255,0.1); border-radius: 4px; margin-bottom: 10px; font-size: 10px; color: var(--c-accent);">
+        ▸ 前三年半：瘟疫→戰爭→經濟衰退→死亡
+      </div>
+      <div class="timeline-item year-2019">
+        <div class="timeline-year">2019</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🦠 白馬・COVID-19</div>
+          <div class="timeline-desc">12/01 首宗新冠・弓(toxon毒素)・mRNA影響DNA</div>
+        </div>
+      </div>
+      <div class="timeline-item year-2020">
+        <div class="timeline-year">2020</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🕊️ 第一印開啟</div>
+          <div class="timeline-desc">12/01 一年通知期結束・尼布甲尼撒進入七期</div>
+        </div>
+      </div>
+      <div class="timeline-item year-2022">
+        <div class="timeline-year">2022</div>
+        <div class="timeline-content">
+          <div class="timeline-title">⚔️ 紅馬・第二印</div>
+          <div class="timeline-desc">02/24 俄烏戰爭・第450日・戰爭與衝突</div>
+        </div>
+      </div>
+      <div class="timeline-item year-2023">
+        <div class="timeline-year">2023</div>
+        <div class="timeline-content">
+          <div class="timeline-title">💸 黑馬・第三印</div>
+          <div class="timeline-desc">04/05 經濟衰退・逾越節・以色列奪埃及金子</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-text-dim);">2023</div>
+        <div class="timeline-content">
+          <div class="timeline-title">💀 灰馬・第四印</div>
+          <div class="timeline-desc">12/31 能登半島地震・指向巴黎奧運・緩慢死亡開始</div>
+        </div>
+      </div>
+      <div style="padding: 8px 12px; background: rgba(255,174,0,0.1); border-radius: 4px; margin: 10px 0; font-size: 10px; color: var(--c-warn);">
+        ▸ 一七之半：獻祭止息・1260日・1290日
+      </div>
+      <div class="timeline-item year-2024">
+        <div class="timeline-year">2024</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🐄 紅母牛獻祭止息</div>
+          <div class="timeline-desc">04/22 逾越節・2000年來首次完美紅母牛卻被止息</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-warn);">2024</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🕍 以色列獨立日</div>
+          <div class="timeline-desc">05/14 第1260日・選擇巴力・一七之半</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-warn);">2024</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🌾 七七節翌日</div>
+          <div class="timeline-desc">06/13 第1290日・死亡收割節開始</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-text-dim);">2024</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🏅 巴黎奧運</div>
+          <div class="timeline-desc">07/26 第1333日・褻瀆暗示・不法隱意展開</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-text-dim);">2024</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🦠 第五印・猴痘</div>
+          <div class="timeline-desc">09/17 Jynneos疫苗・Mpox=440=敵基督眾數</div>
+        </div>
+      </div>
+      <div style="padding: 8px 12px; background: rgba(255,42,42,0.1); border-radius: 4px; margin: 10px 0; font-size: 10px; color: var(--c-doom-red);">
+        ▸ 後三年半：號筒審判・獸印・基督再來
+      </div>
+      <div class="timeline-item year-2025 current">
+        <div class="timeline-year">2025</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🌑 第六印</div>
+          <div class="timeline-desc">01/07 西藏地震・南加州大火・日頭變黑月亮變紅</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-accent);">2025</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🕊️ 第七印</div>
+          <div class="timeline-desc">04/29 天上寂靜二刻・以色列陣亡將士紀念日・90日關稅</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
+        <div class="timeline-content">
+          <div class="timeline-title">⚔️ 以伊戰爭</div>
+          <div class="timeline-desc">06/13 一載後・收割死亡・灰馬加速・刀劍飢荒瘟疫</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🔥 第一號筒</div>
+          <div class="timeline-desc">08/19 贖罪日前夕・冰雹與火・生態三分之一受損</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🌊 第二號筒</div>
+          <div class="timeline-desc">12/09 火燒大山扔海中・海水變血・兩個見證人漸現</div>
+        </div>
+      </div>
+      <div class="timeline-item year-2026">
+        <div class="timeline-year">2026</div>
+        <div class="timeline-content">
+          <div class="timeline-title">☄️ 第三號筒</div>
+          <div class="timeline-desc">03/31 燒著大星墜落・水變苦・敵基督漸顯・獸印啟動</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-warn);">2026</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🌑 第四號筒</div>
+          <div class="timeline-desc">07/21 埃波月第九日・聖殿被毀日・日月星三分之一黑暗</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-warn);">2026</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🦗 第五號筒（一禍）</div>
+          <div class="timeline-desc">11/10 無底坑開・蝗蟲之禍五個月・獸印強制</div>
+        </div>
+      </div>
+      <div class="timeline-item year-2027">
+        <div class="timeline-year">2027</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🐎 第六號筒（二禍）</div>
+          <div class="timeline-desc">03/02 幼發拉底河・馬軍二萬萬・殺三分之一人</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-warn);">2027</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🌾 二載後</div>
+          <div class="timeline-desc">06/13 七七節翌日・快鐮刀收割・義人惡人漸分開</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🎺 第七號筒（三禍）</div>
+          <div class="timeline-desc">06/22 夏至・神之奧祕成全・末次號筒等待吹角節</div>
+        </div>
+      </div>
+      <div class="timeline-item final">
+        <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🎺 吹角節・那真光降臨</div>
+          <div class="timeline-desc">10/01 死人復活・第四十個禧年・基督再來</div>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
+        <div class="timeline-content">
+          <div class="timeline-title">🏺 七碗災難</div>
+          <div class="timeline-desc">10/26 距以色列獨立日1260日・最後審判開始</div>
+        </div>
+      </div>
+      <div class="timeline-item end">
+        <div class="timeline-year">2028</div>
+        <div class="timeline-content">
+          <div class="timeline-title">✨ 1335日・新天新地</div>
+          <div class="timeline-desc">01/09 Asarah B'Tevet・聖殿被毀日・詛咒終變祝福</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 中欄：核心資訊 -->
+  <section class="column column-center">
+    <div class="info-card tribulation-card">
+      <div class="card-header">
+        <span class="card-icon">⚠️</span>
+        <span class="card-title">七災年 2019-2028</span>
+      </div>
+      <div class="card-body">
+        <div class="tribulation-flow">
+          <span class="flow-item">瘟疫</span>
+          <span class="flow-arrow">→</span>
+          <span class="flow-item">戰爭</span>
+          <span class="flow-arrow">→</span>
+          <span class="flow-item">經濟崩潰</span>
+          <span class="flow-arrow">→</span>
+          <span class="flow-item">飢荒</span>
+          <span class="flow-arrow">→</span>
+          <span class="flow-item fatal">死亡</span>
+        </div>
+        <div class="verse-highlight">
+          「我就觀看，見有一匹灰馬，騎在馬上的，名字叫死」<br>
+          <span class="verse-ref">— 啟示錄 6:8</span>
+        </div>
+      </div>
+    </div>
+    <div class="info-card reset-card">
+      <div class="card-header">
+        <span class="card-icon">🌐</span>
+        <span class="card-title">GREAT RESET</span>
+      </div>
+      <div class="card-body">
+        <ul class="reset-list">
+          <li>2017 → 2027 第四次工業革命</li>
+          <li>Great Reset → 電子貨幣化</li>
+          <li class="highlight">"You will own nothing but you will be happy"</li>
+          <li>COVID → mRNA → Nanopatch → Luciferase</li>
+          <li>人自願地被轉化成GMO → 專利下的商品</li>
+        </ul>
+      </div>
+    </div>
+    <div class="info-card verse-card">
+      <div class="card-header">
+        <span class="card-icon">📖</span>
+        <span class="card-title">經文警示</span>
+      </div>
+      <div class="card-body">
+        <div class="verse-rotate-display" id="verseDisplay">
+          「除了那受印記、有了獸名或有獸名數目的，都不得做買賣」— 啟示錄 13:17
+        </div>
+      </div>
+    </div>
+    <div class="info-card feasts-card">
+      <div class="card-header">
+        <span class="card-icon">🕎</span>
+        <span class="card-title">耶和華的七個節期</span>
+      </div>
+      <div class="card-body" style="font-size: 11px;">
+        <div style="color: var(--c-success); margin-bottom: 8px;">✓ 逾越節（彌賽亞死）| ✓ 除酵節（埋葬）| ✓ 初熟節（復活）</div>
+        <div style="color: var(--c-warn); margin-bottom: 8px;">⟳ 七七節（聖靈降臨 — 半應驗，等收藏節完成）</div>
+        <div style="color: var(--c-doom-red);">⏳ 吹角節（死人復活）| ⏳ 贖罪日（以色列得救）| ⏳ 住棚節（神住人間）</div>
+        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--c-border); font-size: 10px; color: var(--c-text-dim);">
+          第一次來三個半節期已應驗<br>
+          第二次來三個半節期尚未應驗<br>
+          主再來時，一切便要成就
+        </div>
+      </div>
+    </div>
+    <div class="info-card">
+      <div class="card-header">
+        <span class="card-icon">📐</span>
+        <span class="card-title">1260 / 1290 / 1335 天</span>
+      </div>
+      <div class="card-body" style="font-size: 11px; line-height: 1.7;">
+        <div style="margin-bottom: 10px;">
+          <strong style="color: var(--c-accent);">1260日</strong>（但以理書 12:7）<br>
+          <span style="color: var(--c-text-dim);">2019/12/01 → 2024/05/14</span><br>
+          新冠首宗 → 以色列獨立日（一七之半）
+        </div>
+        <div style="margin-bottom: 10px;">
+          <strong style="color: var(--c-warn);">1290日</strong>（但以理書 12:11）<br>
+          <span style="color: var(--c-text-dim);">2019/12/01 → 2024/06/13</span><br>
+          新冠首宗 → 七七節翌日（死亡收割開始）
+        </div>
+        <div>
+          <strong style="color: var(--c-doom-red);">1335日</strong>（但以理書 12:12）<br>
+          <span style="color: var(--c-text-dim);">→ 2028/01/09</span><br>
+          Asarah B'Tevet 聖殿被毀日<br>
+          「等到1335日的，那人便為有福」<br>
+          詛咒終變祝福
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 右欄：聖經資源 -->
+  <section class="column column-right">
+    <div class="section-header">
+      <span class="section-icon">📖</span>
+      <span class="section-title">聖經·大災難·資訊</span>
+    </div>
+    <div class="bible-links">
+      <a href="https://e.pcloud.link/publink/show?code=kZt8zaZd7iPCbuRK7mXuE6Lg4fjEJ933Sr7" target="_blank" class="bible-link">
+        <span class="link-icon">📁</span>
+        <span class="link-text">01 資訊總覽</span>
+      </a>
+      <a href="https://e.pcloud.link/publink/show?code=kZU8zaZLBosh9pTrp8O7DGN7wlrDJlU3JDy" target="_blank" class="bible-link">
+        <span class="link-icon">💉</span>
+        <span class="link-text">02 瘟疫中的邪術</span>
+      </a>
+      <a href="https://e.pcloud.link/publink/show?code=kZAeraZu0D0xmF6wNGnlLrXHRYAD2Dj2q8y" target="_blank" class="bible-link">
+        <span class="link-icon">📜</span>
+        <span class="link-text">03 經文對照</span>
+      </a>
+      <a href="https://e.pcloud.link/publink/show?code=kZaeraZlfKYOWNUEAJyoEtqVvIjFknVJHX0" target="_blank" class="bible-link">
+        <span class="link-icon">🎬</span>
+        <span class="link-text">04 影片資源</span>
+      </a>
+      <a href="https://greattribulaton2028.github.io/-/" target="_blank" class="bible-link main-site">
+        <span class="link-icon">🌐</span>
+        <span class="link-text">七年大災難網站</span>
+      </a>
+    </div>
+    <div class="info-card mark-card">
+      <div class="card-header">
+        <span class="card-icon">⛔</span>
+        <span class="card-title">獸印警告</span>
+      </div>
+      <div class="card-body">
+        <div class="mark-warning">
+          「若有人拜獸和獸像，在額上或在手上受了印記，這人也必喝神大怒的酒」
+          <span class="verse-ref">— 啟示錄 14:9-10</span>
+        </div>
+        <div class="mark-flow">
+          <span>DNA</span> → <span>mRNA</span> → <span>Nanopatch</span> → <span class="danger">Luciferase</span> → <span class="danger">晶片</span>
+        </div>
+      </div>
+    </div>
+    <div class="info-card" style="border-color: rgba(168,85,247,0.3);">
+      <div class="card-header" style="border-color: rgba(168,85,247,0.3);">
+        <span class="card-icon">✨</span>
+        <span class="card-title" style="color: #a855f7;">儆醒預備</span>
+      </div>
+      <div class="card-body">
+        <div style="font-family: var(--font-brush); font-size: 14px; color: #e8e8e8; line-height: 1.8; text-align: center;">
+          「看哪，我來像賊一樣。<br>那儆醒、看守衣服、<br>免得赤身而行、<br>叫人見他羞恥的有福了！」
+        </div>
+        <div style="font-size: 10px; color: #a855f7; text-align: center; margin-top: 10px;">— 啟示錄 16:15</div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="doom-footer">
+  <div class="marquee-container">
+    <div class="marquee-content" id="marqueeContent"></div>
+  </div>
+</footer>
+
+<nav class="mobile-nav">
+  <button class="nav-btn active" data-section="timeline">
+    <span class="nav-icon">📅</span>
+    <span class="nav-label">時間軸</span>
+  </button>
+  <button class="nav-btn" data-section="info">
+    <span class="nav-icon">⚠️</span>
+    <span class="nav-label">資訊</span>
+  </button>
+  <button class="nav-btn" data-section="bible">
+    <span class="nav-icon">📖</span>
+    <span class="nav-label">聖經</span>
+  </button>
+</nav>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  initMatrix();
+  initCountdown();
+  initVerseRotation();
+  initMarquee();
+  initMobileNav();
+  initLightning();
+  initProphecyFlicker();
+  console.log('▓▓▓ PROJECT: TRIBULATION 已載入 ▓▓▓');
+});
+
+function initMatrix() {
+  const canvas = document.getElementById('matrixCanvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  const chars = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz猝死意外災難警告危險生死記錄末世七年審判救贖';
+  const colors = ['#00ff41', '#00ff41', '#00ff41', '#00ff41', '#00ff41', '#00ff41', '#00f3ff', '#00f3ff', '#00f3ff', '#ffdd00'];
+  let columns = [];
+  let fontSize = 14;
+  function resizeCanvas() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    const columnCount = Math.floor(canvas.width / fontSize);
+    columns = [];
+    for (let i = 0; i < columnCount; i++) {
+      columns.push({ y: Math.random() * canvas.height, speed: 0.5 + Math.random() * 1.5, color: colors[Math.floor(Math.random() * colors.length)] });
+    }
+  }
+  function draw() {
+    ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    ctx.font = fontSize + 'px "Share Tech Mono", monospace';
+    for (let i = 0; i < columns.length; i++) {
+      const col = columns[i];
+      const char = chars[Math.floor(Math.random() * chars.length)];
+      const x = i * fontSize;
+      ctx.fillStyle = col.color;
+      ctx.globalAlpha = 0.9;
+      ctx.fillText(char, x, col.y);
+      ctx.globalAlpha = 0.3;
+      ctx.fillText(chars[Math.floor(Math.random() * chars.length)], x, col.y - fontSize);
+      ctx.globalAlpha = 1;
+      col.y += fontSize * col.speed;
+      if (col.y > canvas.height && Math.random() > 0.98) {
+        col.y = 0;
+        col.speed = 0.5 + Math.random() * 1.5;
+        col.color = colors[Math.floor(Math.random() * colors.length)];
+      }
+    }
+    requestAnimationFrame(draw);
+  }
+  window.addEventListener('resize', resizeCanvas);
+  resizeCanvas();
+  draw();
+}
+
+function initCountdown() {
+  const targetDate = new Date('2027-10-01T00:00:00+08:00').getTime();
+  const valueEl = document.getElementById('countdownValue');
+  const statusEl = document.getElementById('countdownStatus');
+  const boxEl = document.getElementById('countdownBox');
+  if (!valueEl || !statusEl || !boxEl) return;
+  function update() {
+    const now = Date.now();
+    const diff = targetDate - now;
+    if (diff <= 0) { valueEl.textContent = '已到達'; statusEl.textContent = 'THE END'; boxEl.classList.add('urgent'); return; }
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const mins = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+    valueEl.textContent = `${days}日 ${hours}時 ${mins}分`;
+    boxEl.classList.remove('alert', 'urgent');
+    if (days <= 126) { statusEl.textContent = '⚠️ URGENT ⚠️'; boxEl.classList.add('urgent'); }
+    else if (days <= 252) { statusEl.textContent = '⚡ ALERT ⚡'; boxEl.classList.add('alert'); }
+    else if (days <= 365) { statusEl.textContent = '⏰ WARNING'; }
+    else { statusEl.textContent = 'COUNTING...'; }
+  }
+  update();
+  setInterval(update, 60000);
+}
+
+function initVerseRotation() {
+  const verses = [
+    "「我就觀看，見有一匹灰馬，騎在馬上的，名字叫死」— 啟示錄 6:8",
+    "「案卷展開了，另有一卷展開，就是生命冊」— 啟示錄 20:12",
+    "「國要攻打國，多處必有地震、飢荒」— 馬可福音 13:8",
+    "「你們也要警醒，因為人子來的時候，是你們想不到的」— 馬太福音 24:44",
+    "「他又叫眾人，無論大小、貧富，都在右手上或額上受一個印記」— 啟示錄 13:16",
+    "「除了那受印記的，都不得做買賣」— 啟示錄 13:17",
+    "「若有人拜獸和獸像，在額上或手上受了印記，這人也必喝神大怒的酒」— 啟示錄 14:9-10",
+    "「看哪，我來像賊一樣。那儆醒、看守衣服、免得赤身而行、叫人見他羞恥的有福了！」— 啟示錄 16:15",
+    "「得勝的，我要賜他在我寶座上與我同坐」— 啟示錄 3:21",
+    "「看哪，我必快來！賞罰在我，要照各人所行的報應他」— 啟示錄 22:12"
+  ];
+  const displayEl = document.getElementById('verseDisplay');
+  if (!displayEl) return;
+  let index = 0;
+  function rotate() {
+    displayEl.style.opacity = '0';
+    setTimeout(() => { index = (index + 1) % verses.length; displayEl.textContent = verses[index]; displayEl.style.opacity = '1'; }, 500);
+  }
+  displayEl.style.transition = 'opacity 0.5s';
+  setInterval(rotate, 8000);
+}
+
+function initMarquee() {
+  const content = document.getElementById('marqueeContent');
+  if (!content) return;
+  const marqueeHTML = `
+    <span class="marquee-text">
+      ▓▓▓ <span class="hl-yellow">GREAT RESET</span> ▓▓▓
+      2019 COVID ▓▓▓
+      2020 GLOBAL LOCKDOWN ▓▓▓
+      2021 VACCINE ROLLOUT ▓▓▓
+      2022 WAR ▓▓▓
+      2023 ECONOMIC CRISIS ▓▓▓
+      2024 <span class="hl-cyan">逾越節獻祭被止息</span> ▓▓▓
+      2025 ANTI-CHRIST‧局勢升級 ▓▓▓
+      2026 <span class="hl-yellow">Turning Point</span> ▓▓▓
+      2027 第四十個禧年‧吹角節 ▓▓▓
+      <span class="hl-cyan">AI → Cyber Attack</span> ▓▓▓
+      <span class="sep">║</span>
+      1. 全球大重置 2017→2027 → 第四次工業革命 → 電子貨幣化 ▓▓▓
+      <span class="sep">║</span>
+      2. <span class="hl-yellow">You will own nothing but you will be happy</span> → 你將一無所有？▓▓▓
+      <span class="sep">║</span>
+      3. COVID ＞ DNA → mRNA → Nanopatch → <span class="hl-yellow">Luciferase</span> → 晶片 → 專利下的商品 ▓▓▓
+      <span class="sep">║</span>
+      4. COVID → <span class="hl-cyan">第40個禧年</span> → 末次號筒 → 七年大災難 → <span class="hl-yellow">End...</span> ▓▓▓
+      <span class="sep">║║║</span>
+    </span>
+  `;
+  content.innerHTML = marqueeHTML + marqueeHTML;
+}
+
+function initMobileNav() {
+  const navBtns = document.querySelectorAll('.nav-btn');
+  const columns = { timeline: document.querySelector('.column-left'), info: document.querySelector('.column-center'), bible: document.querySelector('.column-right') };
+  if (!navBtns.length) return;
+
+  function setMobileView() {
+    if (window.innerWidth <= 768) {
+      // 手機版：確保至少一個欄位顯示
+      const hasActive = Object.values(columns).some(col => col && col.classList.contains('active'));
+      if (!hasActive && columns.timeline) {
+        columns.timeline.classList.add('active');
+        navBtns.forEach(btn => btn.classList.toggle('active', btn.dataset.section === 'timeline'));
+      }
+    }
+    // 桌面版不需要處理，CSS 會自動顯示所有欄位
+  }
+
+  setMobileView();
+
+  navBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const section = btn.dataset.section;
+      navBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      Object.values(columns).forEach(col => col && col.classList.remove('active'));
+      if (section === 'timeline' && columns.timeline) columns.timeline.classList.add('active');
+      else if (section === 'info' && columns.info) columns.info.classList.add('active');
+      else if (section === 'bible' && columns.bible) columns.bible.classList.add('active');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+
+  window.addEventListener('resize', setMobileView);
+}
+
+function initLightning() {
+  const lightning = document.getElementById('lightning');
+  if (!lightning) return;
+  function triggerLightning() {
+    const delay = Math.random() * 20000 + 15000;
+    setTimeout(() => {
+      const flashes = Math.floor(Math.random() * 2) + 2;
+      let count = 0;
+      function flash() {
+        if (count < flashes) { lightning.style.opacity = '0.1'; setTimeout(() => { lightning.style.opacity = '0'; count++; setTimeout(flash, 50 + Math.random() * 100); }, 50 + Math.random() * 50); }
+        else { triggerLightning(); }
+      }
+      flash();
+    }, delay);
+  }
+  triggerLightning();
+}
+
+function initProphecyFlicker() {
+  const num1260 = document.getElementById('num1260');
+  const num1290 = document.getElementById('num1290');
+  if (!num1260 || !num1290) return;
+  function flicker(el) { el.style.textShadow = '0 0 30px #ff0000, 0 0 50px #ff4444'; setTimeout(() => { el.style.textShadow = ''; }, 200); }
+  setInterval(() => { flicker(num1260); setTimeout(() => flicker(num1290), 300); }, 5000);
+}
+
+(function highlightCurrentYear() {
+  const currentYear = new Date().getFullYear();
+  const yearClass = '.year-' + currentYear;
+  const currentItem = document.querySelector(yearClass);
+  if (currentItem && !currentItem.classList.contains('current')) {
+    document.querySelectorAll('.timeline-item.current').forEach(el => { el.classList.remove('current'); });
+    currentItem.classList.add('current');
+  }
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>等一下，看看這個數字</title>
+	<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
+	<style>
+	@font-face {
+		font-family: 'DSEG7';
+		src: url('https://cdn.jsdelivr.net/npm/dseg@0.46.0/fonts/DSEG7-Classic/DSEG7Classic-Regular.woff2') format('woff2');
+		font-display: swap;
+	}
+
+	:root {
+		--color-bg: #030405;
+		--color-blood: #ff2a2a;
+		--color-cyan: #00f3ff;
+		--color-gold: #ffd700;
+		--color-text: #e0e0e0;
+		--color-dim: #555;
+	}
+
+	* { margin: 0; padding: 0; box-sizing: border-box; }
+
+	body {
+		font-family: 'Noto Sans TC', sans-serif;
+		background: var(--color-bg);
+		color: var(--color-text);
+		overflow-x: hidden;
+		min-height: 100vh;
+	}
+
+	body::before {
+		content: '';
+		position: fixed; inset: 0;
+		background:
+			radial-gradient(ellipse 80% 60% at 50% 40%, rgba(40,0,0,0.6) 0%, transparent 70%),
+			radial-gradient(ellipse at 0% 100%, rgba(0,0,0,0.95) 0%, transparent 60%),
+			radial-gradient(ellipse at 100% 0%, rgba(0,0,0,0.9) 0%, transparent 55%);
+		pointer-events: none; z-index: 0;
+	}
+
+	body::after {
+		content: '';
+		position: fixed; inset: 0;
+		background: repeating-linear-gradient(
+			0deg, transparent, transparent 3px,
+			rgba(0,0,0,0.06) 3px, rgba(0,0,0,0.06) 4px
+		);
+		pointer-events: none; z-index: 1;
+	}
+
+	.noise {
+		position: fixed; inset: 0; opacity: 0.03;
+		background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 300 300' xmlns='http:%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'%2F%3E%3C%2Ffilter%3E%3Crect width='300' height='300' filter='url(%23n)'%2F%3E%3C%2Fsvg%3E");
+		background-size: 300px 300px;
+		pointer-events: none; z-index: 2;
+	}
+
+	.top-nav {
+		position: fixed; top: 0; left: 0; right: 0;
+		display: flex; justify-content: flex-end;
+		padding: 15px 20px; z-index: 200;
+	}
+
+	.nav-link {
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 0.8rem; color: var(--color-cyan);
+		text-decoration: none;
+		border: 1px solid rgba(0,243,255,0.3);
+		padding: 6px 14px; border-radius: 4px;
+		letter-spacing: 0.05em; transition: all 0.3s;
+	}
+
+	.nav-link:hover {
+		background: rgba(0,243,255,0.08);
+		border-color: var(--color-cyan);
+		box-shadow: 0 0 12px rgba(0,243,255,0.3);
+	}
+
+	#main-screen {
+		position: relative; z-index: 10;
+		min-height: 100vh;
+		display: flex; flex-direction: column;
+		justify-content: center; align-items: center;
+		padding: 20px 20px 50px;
+	}
+
+	.session-counter {
+		position: fixed;
+		top: 52px;
+		left: 50%;
+		transform: translateX(-50%);
+		z-index: 150;
+		font-family: 'Share Tech Mono', monospace;
+		font-size: clamp(0.7rem, 2vw, 0.88rem);
+		color: rgba(255,42,42,0.6);
+		letter-spacing: 0.08em;
+		text-align: center;
+		border: 1px solid rgba(255,42,42,0.18);
+		padding: 8px 22px; border-radius: 4px;
+		background: rgba(3,4,5,0.85);
+		white-space: nowrap;
+	}
+
+	.session-counter .count { color: var(--color-blood); }
+
+	.counter-display {
+		position: relative;
+		display: flex; flex-direction: column; align-items: center;
+	}
+
+	.counter-bg {
+		font-family: 'DSEG7', 'Share Tech Mono', monospace;
+		font-size: clamp(2.6rem, 10vw, 7.2rem);
+		color: rgba(160,0,0,0.13);
+		letter-spacing: 0.06em; line-height: 1;
+		position: absolute; top: 0; left: 0; right: 0;
+		text-align: center;
+		user-select: none; pointer-events: none;
+	}
+
+	.death-counter {
+		font-family: 'DSEG7', 'Share Tech Mono', monospace;
+		font-size: clamp(2.6rem, 10vw, 7.2rem);
+		color: var(--color-blood);
+		text-shadow:
+			0 0 8px rgba(255,0,0,1),
+			0 0 25px rgba(255,0,0,0.9),
+			0 0 60px rgba(255,0,0,0.65),
+			0 0 120px rgba(255,0,0,0.3);
+		letter-spacing: 0.06em; line-height: 1;
+		position: relative;
+		animation: flicker 12s infinite;
+	}
+
+	@keyframes flicker {
+		0%,85%,87%,92%,96%,100% { opacity: 1; }
+		86%  { opacity: 0.80; }
+		88%  { opacity: 0.97; }
+		93%  { opacity: 0.75; }
+		97%  { opacity: 0.92; }
+	}
+
+	.scanline-sweep {
+		position: absolute; left: 0; right: 0; height: 28%;
+		background: linear-gradient(to bottom,
+			transparent 0%, rgba(255,60,60,0.04) 40%,
+			rgba(255,60,60,0.08) 50%, rgba(255,60,60,0.04) 60%,
+			transparent 100%
+		);
+		animation: sweep 6s linear infinite;
+		pointer-events: none;
+	}
+
+	@keyframes sweep { 0% { top: -30%; } 100% { top: 120%; } }
+
+	.counter-label {
+		font-family: 'Share Tech Mono', monospace;
+		font-size: clamp(0.72rem, 2vw, 0.9rem);
+		color: rgba(255,255,255,0.36);
+		margin-top: 16px;
+		letter-spacing: 0.1em;
+		text-align: center;
+	}
+
+	.rate-boxes { display: flex; gap: 16px; margin-top: 18px; }
+
+	.rate-box {
+		border: 1px solid rgba(255,42,42,0.2);
+		border-radius: 6px; padding: 12px 28px;
+		text-align: center;
+		background: rgba(255,42,42,0.04);
+		min-width: 110px;
+	}
+
+	.rate-value {
+		font-family: 'DSEG7', 'Share Tech Mono', monospace;
+		font-size: 1.8rem;
+		color: var(--color-gold);
+		text-shadow: 0 0 10px rgba(255,215,0,0.5);
+		line-height: 1;
+	}
+
+	.rate-label {
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 0.67rem;
+		color: var(--color-dim);
+		margin-top: 6px;
+		letter-spacing: 0.06em;
+	}
+
+	.today-counter {
+		font-family: 'Share Tech Mono', monospace;
+		font-size: clamp(0.67rem, 1.8vw, 0.82rem);
+		color: rgba(255,255,255,0.25);
+		margin-top: 14px;
+		letter-spacing: 0.05em;
+		text-align: center;
+	}
+
+	.today-counter strong { color: rgba(255,255,255,0.48); font-weight: normal; }
+
+	.speed-control {
+		margin-top: 20px;
+		display: flex;
+		align-items: center;
+		gap: 8px;
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 0.72rem;
+		color: rgba(255,255,255,0.3);
+	}
+
+	.speed-btn {
+		background: transparent;
+		border: 1px solid rgba(0,243,255,0.2);
+		color: rgba(0,243,255,0.5);
+		padding: 4px 12px;
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 0.68rem;
+		cursor: pointer;
+		border-radius: 3px;
+		transition: all 0.3s;
+	}
+
+	.speed-btn:hover {
+		border-color: rgba(0,243,255,0.5);
+		color: rgba(0,243,255,0.8);
+	}
+
+	.speed-btn.active {
+		background: rgba(0,243,255,0.12);
+		border-color: var(--color-cyan);
+		color: var(--color-cyan);
+	}
+
+	.source-strip {
+		margin-top: 18px;
+		display: flex; flex-wrap: wrap;
+		justify-content: center; align-items: center;
+		gap: 6px 14px;
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 0.65rem;
+		color: rgba(255,255,255,0.2);
+		letter-spacing: 0.04em;
+		border-top: 1px solid rgba(255,255,255,0.06);
+		padding-top: 12px;
+		max-width: 560px;
+	}
+
+	.source-strip .src-label { color: rgba(255,255,255,0.18); white-space: nowrap; }
+
+	.source-strip a {
+		color: rgba(255,42,42,0.5);
+		text-decoration: none;
+		border-bottom: 1px solid rgba(255,42,42,0.2);
+		transition: color 0.3s, border-color 0.3s;
+		white-space: nowrap;
+	}
+
+	.source-strip a:hover {
+		color: rgba(255,42,42,0.85);
+		border-color: rgba(255,42,42,0.5);
+	}
+
+	.source-strip .sep { color: rgba(255,255,255,0.1); }
+
+	.next-btn {
+		margin-top: 32px;
+		padding: 14px 70px;
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 1rem;
+		letter-spacing: 0.2em;
+		background: transparent;
+		border: 2px solid var(--color-blood);
+		color: var(--color-blood);
+		cursor: pointer;
+		transition: all 0.3s ease;
+		border-radius: 4px;
+		text-transform: uppercase;
+	}
+
+	.next-btn:hover {
+		background: rgba(255,42,42,0.08);
+		box-shadow: 0 0 25px rgba(255,42,42,0.5);
+		transform: scale(1.03);
+	}
+
+	/* 國家區 */
+	#city-section {
+		position: relative; z-index: 10;
+		padding: 60px 20px 80px;
+		max-width: 900px;
+		margin: 0 auto;
+	}
+
+	.section-title {
+		font-family: 'Share Tech Mono', monospace;
+		font-size: clamp(0.9rem, 2.5vw, 1.15rem);
+		color: var(--color-cyan);
+		text-align: center;
+		margin-bottom: 8px;
+		letter-spacing: 0.12em;
+	}
+
+	.section-subtitle {
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 0.7rem;
+		color: var(--color-dim);
+		text-align: center;
+		margin-bottom: 36px;
+		letter-spacing: 0.04em;
+	}
+
+	.city-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(195px, 1fr));
+		gap: 10px;
+	}
+
+	.city-card {
+		background: rgba(5,5,8,0.88);
+		border: 1px solid rgba(255,42,42,0.1);
+		border-radius: 5px;
+		padding: 13px 15px;
+		transition: border-color 0.3s, background 0.3s;
+	}
+
+	.city-card:hover {
+		border-color: rgba(255,42,42,0.32);
+		background: rgba(15,3,3,0.95);
+	}
+
+	.city-name {
+		font-family: 'Noto Sans TC', sans-serif;
+		font-size: 0.78rem;
+		color: rgba(255,255,255,0.48);
+		margin-bottom: 6px;
+	}
+
+	.city-deaths {
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 1.1rem;
+		color: var(--color-blood);
+	}
+
+	.city-deaths-label {
+		font-family: 'Share Tech Mono', monospace;
+		font-size: 0.62rem;
+		color: var(--color-dim);
+		margin-top: 3px;
+	}
+
+	.back-to-top {
+		position: fixed;
+		bottom: 28px;
+		right: 24px;
+		width: 42px;
+		height: 42px;
+		background: rgba(3,4,5,0.9);
+		border: 1px solid rgba(0,243,255,0.3);
+		border-radius: 50%;
+		color: var(--color-cyan);
+		font-size: 1.1rem;
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		opacity: 0;
+		pointer-events: none;
+		transition: opacity 0.4s, box-shadow 0.3s;
+		z-index: 200;
+	}
+
+	.back-to-top.visible { opacity: 1; pointer-events: auto; }
+	.back-to-top:hover { box-shadow: 0 0 14px rgba(0,243,255,0.4); }
+
+	@media (max-width: 600px) {
+		.rate-boxes { gap: 12px; }
+		.rate-box { padding: 10px 18px; min-width: 90px; }
+		.city-grid { grid-template-columns: repeat(auto-fill, minmax(155px, 1fr)); }
+		.source-strip { font-size: 0.6rem; gap: 4px 10px; }
+	}
+	</style>
+</head>
+<body>
+	<div class="noise"></div>
+
+	<nav class="top-nav">
+		<a class="nav-link" href="timeline.html">七災年監察 ↗</a>
+	</nav>
+
+	<section id="main-screen">
+		<div class="session-counter">
+			你進入後，全球已有 <span class="count" id="sessionDeaths">0</span> 人死亡
+		</div>
+
+		<div class="counter-display">
+			<div class="counter-bg" id="counterBg">8,888,888</div>
+			<div class="death-counter" id="yearlyDeaths">0</div>
+			<div class="scanline-sweep"></div>
+		</div>
+
+		<div class="counter-label">本年度全球死亡人數</div>
+
+		<div class="rate-boxes">
+			<div class="rate-box">
+				<div class="rate-value">120</div>
+				<div class="rate-label">每分鐘死亡</div>
+			</div>
+			<div class="rate-box">
+				<div class="rate-value">2.0</div>
+				<div class="rate-label">每秒死亡</div>
+			</div>
+		</div>
+
+		<div class="today-counter">今日全球已有約 <strong id="todayDeaths">0</strong> 人離世</div>
+
+		<div class="speed-control">
+			<span>⚙ 計數速度：</span>
+			<button class="speed-btn active" onclick="setSpeed(1000,this)">正常</button>
+			<button class="speed-btn" onclick="setSpeed(3000,this)">慢速</button>
+			<button class="speed-btn" onclick="setSpeed(6000,this)">極慢</button>
+		</div>
+
+		<div class="source-strip">
+			<span class="src-label">數據來源</span>
+			<span class="sep">·</span>
+			<a href="https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates" target="_blank" rel="noopener">WHO 全球死亡率估算</a>
+			<span class="sep">·</span>
+			<a href="https://www.worldometers.info/zh/" target="_blank" rel="noopener">Worldometers</a>
+			<span class="sep">·</span>
+			<a href="https://deathmeters.info/en" target="_blank" rel="noopener">Deathmeters</a>
+			<span class="sep">·</span>
+			<span class="src-label">每年約 6,600 萬人離世 · 每秒約 2 人</span>
+		</div>
+
+		<button class="next-btn" onclick="window.location.href='index.html'">查看</button>
+	</section>
+
+	<section id="city-section">
+		<div class="section-title">全球 20 大國家 · 今年已估算死亡</div>
+		<div class="section-subtitle">估算 · 國家人口 × 全球平均粗死亡率（~7.875‰/年）· 數據來源：UN World Population Prospects 2024</div>
+		<div class="city-grid" id="cityGrid"></div>
+	</section>
+
+	<button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
+
+	<script>
+	var DEATH_RATE    = 2.0;
+	var SESSION_START = Date.now();
+	var thisYear      = new Date().getFullYear();
+	var YEAR_START    = new Date(thisYear, 0, 1, 0, 0, 0, 0).getTime();
+	var tm = new Date(); tm.setHours(0,0,0,0);
+	var TODAY_START = tm.getTime();
+
+	function updateCounters() {
+		var now = Date.now();
+		var yd  = Math.floor((now - YEAR_START) / 1000 * DEATH_RATE);
+		document.getElementById('yearlyDeaths').textContent = yd.toLocaleString('zh-Hant');
+		var digits = yd.toString().length;
+		document.getElementById('counterBg').textContent = parseInt('8'.repeat(digits)).toLocaleString('zh-Hant');
+		document.getElementById('todayDeaths').textContent =
+			Math.floor((now - TODAY_START) / 1000 * DEATH_RATE).toLocaleString('zh-Hant');
+		document.getElementById('sessionDeaths').textContent =
+			Math.floor((now - SESSION_START) / 1000 * DEATH_RATE).toLocaleString('zh-Hant');
+	}
+
+	var updateInterval = setInterval(updateCounters, 1000);
+	updateCounters();
+
+	function setSpeed(ms, btn) {
+		clearInterval(updateInterval);
+		updateInterval = setInterval(updateCounters, ms);
+		var btns = document.querySelectorAll('.speed-btn');
+		for (var i = 0; i < btns.length; i++) btns[i].classList.remove('active');
+		if (btn) btn.classList.add('active');
+	}
+
+	/* ===== 20 大國家（不含中國大陸及台灣，UN World Population Prospects 2024） ===== */
+	var ANNUAL_RATE = 7.875 / 1000;
+	var MS_PER_YEAR = 365.2425 * 24 * 60 * 60 * 1000;
+
+	var COUNTRIES = [
+		{ name: 'India 印度',                    pop: 1476625576 },
+		{ name: 'United States 美國',             pop: 349035494 },
+		{ name: 'Indonesia 印尼',                 pop: 287886782 },
+		{ name: 'Pakistan 巴基斯坦',              pop: 259299791 },
+		{ name: 'Nigeria 奈及利亞',               pop: 242431832 },
+		{ name: 'Brazil 巴西',                    pop: 213562666 },
+		{ name: 'Bangladesh 孟加拉',              pop: 177818044 },
+		{ name: 'Russia 俄羅斯',                  pop: 143394458 },
+		{ name: 'Ethiopia 衣索比亞',              pop: 138902185 },
+		{ name: 'Mexico 墨西哥',                  pop: 132997658 },
+		{ name: 'Japan 日本',                     pop: 122427731 },
+		{ name: 'Egypt 埃及',                     pop: 120101175 },
+		{ name: 'Philippines 菲律賓',             pop: 117724471 },
+		{ name: 'DR Congo 剛果民主共和國',         pop: 116452162 },
+		{ name: 'Vietnam 越南',                   pop: 102177431 },
+		{ name: 'Iran 伊朗',                      pop: 93168497 },
+		{ name: 'Turkey 土耳其',                  pop: 87926082 },
+		{ name: 'Germany 德國',                   pop: 83644258 },
+		{ name: 'Tanzania 坦尚尼亞',              pop: 72563780 },
+		{ name: 'Thailand 泰國',                  pop: 71559614 }
+	];
+
+	var grid = document.getElementById('cityGrid');
+
+	/* 先建卡片，之後只更新數字，避免每秒重建 DOM */
+	for (var i = 0; i < COUNTRIES.length; i++) {
+		var c = COUNTRIES[i];
+		var card = document.createElement('div');
+		card.className = 'city-card';
+		card.innerHTML =
+			'<div class="city-name">' + c.name + '</div>' +
+			'<div class="city-deaths" data-pop="' + c.pop + '">0</div>' +
+			'<div class="city-deaths-label">今年已估算死亡</div>';
+		grid.appendChild(card);
+	}
+
+	function fracOfYear(nowMs) {
+		return Math.min(1, Math.max(0, (nowMs - YEAR_START) / MS_PER_YEAR));
+	}
+
+	function updateCountryDeaths() {
+		var now = Date.now();
+		var f = fracOfYear(now);
+		var els = grid.querySelectorAll('.city-deaths');
+		for (var j = 0; j < els.length; j++) {
+			var pop = parseInt(els[j].getAttribute('data-pop'));
+			els[j].textContent = Math.floor(pop * ANNUAL_RATE * f).toLocaleString('zh-Hant');
+		}
+	}
+
+	updateCountryDeaths();
+	setInterval(updateCountryDeaths, 1000);
+
+	/* 回頂部 */
+	var backBtn = document.getElementById('backToTop');
+	window.addEventListener('scroll', function() {
+		backBtn.classList.toggle('visible', window.scrollY > 350);
+	});
+
+	function scrollToTop() {
+		window.scrollTo({ top: 0, behavior: 'smooth' });
+	}
+	</script>
+</body>
+</html>
