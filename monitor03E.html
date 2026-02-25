@@ -235,7 +235,7 @@ body.mourning-mode .candle.lit{filter:grayscale(0)!important}
 .immersive-btn:hover{border-color:#fff;color:#fff}
 .immersive-btn.primary{border-color:var(--c-accent);color:var(--c-accent)}
 .immersive-btn.primary:hover{background:var(--c-accent);color:#000}
-#stage-8 > div[style*="display:flex"]{display:none!important}
+#stage-8 > div[style*="display:flex"]{flex-direction:column-reverse!important}
 .immersive-input{width:100%;padding:15px;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.2);border-radius:8px;color:#fff;font-size:1rem;font-family:var(--f-text);margin-bottom:18px;text-align:center}
 .immersive-input:focus{outline:none;border-color:var(--c-soul)}
 .immersive-choices{display:flex;flex-direction:column;gap:12px;margin-bottom:26px}
@@ -286,8 +286,8 @@ header{flex-direction:column;text-align:center;gap:15px}
 <!-- Header -->
 <header>
 <div>
-<div class="brand">生死記錄儀</div>
-<span class="brand-subtitle">VITAL LIFE MONITOR V9.0 | 2019 COVID → 2028 END-TIME?</span>
+<div class="brand">VITAL LIFE MONITOR</div>
+<span class="brand-subtitle">生死記錄儀 V9.0 | 2019 COVID → 2028 END-TIME?</span>
 </div>
 <div id="ecg-container">
 <span class="ecg-label">VITAL SIGNS</span>
@@ -305,7 +305,7 @@ header{flex-direction:column;text-align:center;gap:15px}
 <!-- 生命線卡片 -->
 <div class="lifeline-section">
 <div class="lifeline-card">
-<h3>⏱️ 2027吹角節倒數中...</h3>
+<h3>⏱️ 末次號筒倒數</h3>
 <div class="big-number" id="countdown-days">---</div>
 <div class="unit">天</div>
 <p id="countdown-detail">距離 2027-10-01</p>
@@ -552,8 +552,8 @@ header{flex-direction:column;text-align:center;gap:15px}
 <div class="immersive-wisdom" style="border-left-color:var(--c-hope)">主耶穌基督，我相信祢是獨一的真 神<br>謝謝祢的愛，我相信祢為贖我的罪<br>曾被釘死在十字架上，但已經復活了！<br>我承認自己曾經做錯了許多事，求祢赦免我一切的過犯。<br><br>親愛的主耶穌，我願意接受祢作我唯一的救主。<br><br>我願意打開我的心，求祢進到我的生命裡<br>求祢成為我的救主，我的拯救，永遠與我同在！<br><br>求祢帶領我走在祢永生的路上<br><br>奉主耶穌基督的名禱告，阿們！</div>
 <div class="immersive-sub" style="display:none">如果你真心這樣禱告了。恭喜您! 你已經成為 神的兒女了!<br>死亡不再是終點，而是回天家的大門。願我們在天家裡相見，願主祝福你，阿們<br><br>祂是笑臉幫助我們，是不斥責人的 神，祂以我們的默念為甘甜。<br><br>我們既然藉著主耶穌基督得與　神和好，也就藉著他以　神為樂<br><br>真實地可以與祂一同生活，一起面對所有問題<br><br>相信祂的應許，盼望祂再來的那天來到。<br><br>願主祝福你，使你能夠深深認識祂，相信祂。<br><br>祂必喜悅你以真誠和愛心去回應祂的真情。<br><br>願我們一起同走這永生之路，在天家裡相見，阿們。</div>
 <div style="display:flex;flex-direction:column;gap:10px;margin:20px 0;align-items:center">
-<a href="https://e.pcloud.link/publink/show?code=XZjXXAZdlgXiYWsFqHi9XSF62ULLL7oRwpk" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">📺 福音橋 2025（普通話）</a>
-<a href="https://www.youtube.com/watch?v=fR5dP17uHuY" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">📺 五色的福音（廣東話）</a>
+<a href="https://e.pcloud.link/publink/show?code=XZnHDNZwlvsOG27VGVYCpQrC8xTIylamRK7" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">📺 福音橋 2025（普通話）</a>
+<a href="https://flossy-dish-cfd.notion.site/01-the-Good-News-for-us-2fcf133f651f80a692c9f98ddc7630e3" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">📺 五色的奧秘（廣東話）</a>
 </div>
 
 <button class="immersive-btn primary" onclick="nextStage(9)">阿 們</button>
@@ -562,8 +562,8 @@ header{flex-direction:column;text-align:center;gap:15px}
 <div class="immersive-question">🎉 恭喜您！</div>
 <div class="immersive-sub">如果你真心這樣禱告了。恭喜您! 你已經成為 神的兒女了!<br>死亡不再是終點，而是回天家的大門。願我們在天家裡相見，願主祝福你，阿們<br><br>祂是笑臉幫助我們，是不斥責人的 神，祂以我們的默念為甘甜。<br><br>我們既然藉著主耶穌基督得與　神和好，也就藉著他以　神為樂<br><br>真實地可以與祂一同生活，一起面對所有問題<br><br>相信祂的應許，盼望祂再來的那天來到。<br><br>願主祝福你，使你能夠深深認識祂，相信祂。<br><br>祂必喜悅你以真誠和愛心去回應祂的真情。<br><br>願我們一起同走這永生之路，在天家裡相見，阿們。</div>
 <div style="display:flex;flex-direction:column;gap:10px;margin:20px 0;align-items:center">
-<a href="https://e.pcloud.link/publink/show?code=XZjXXAZdlgXiYWsFqHi9XSF62ULLL7oRwpk" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">📺 福音橋 2025（普通話）</a>
-<a href="https://www.youtube.com/watch?v=fR5dP17uHuY" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">📺 五色的福音（廣東話）</a>
+<a href="https://e.pcloud.link/publink/show?code=XZnHDNZwlvsOG27VGVYCpQrC8xTIylamRK7" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">📺 福音橋 2025（普通話）</a>
+<a href="https://flossy-dish-cfd.notion.site/01-the-Good-News-for-us-2fcf133f651f80a692c9f98ddc7630e3" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">📺 五色的奧秘（廣東話）</a>
 <a href="https://e.pcloud.link/publink/show?code=XZvUaNZT9PeIugWINRO7QN05ftGC7LHFhlX" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-soul);color:var(--c-soul)">🎵 詩歌01 — 永恆的婚誓</a>
 <a href="https://e.pcloud.link/publink/show?code=XZCYYNZ9BIRdIzCx9u3f4uHWs0HuVxfzE0X" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-soul);color:var(--c-soul)">🎵 詩歌02 — 雅歌的心願 MV</a>
 <a href="https://e.pcloud.link/publink/show?code=XZkLwaZLR2qiwdd14hKtYF5uYDpypCxmmQV" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-soul);color:var(--c-soul)">🎵 詩歌03 — 生命的吶喊 MV</a>
@@ -978,25 +978,57 @@ function drawBgP(){
   requestAnimationFrame(drawBgP);
 }
 // ===== 飄浮靈魂 =====
-const soulC=document.getElementById('soul-canvas'),soulCtx=soulC.getContext('2d');
-const souls=[];
-function resizeSoul(){soulC.width=soulC.offsetWidth*2;soulC.height=soulC.offsetHeight*2;soulCtx.setTransform(1,0,0,1,0,0);soulCtx.scale(2,2);initSouls()}
-function initSouls(){
-  souls.length=0;const w=soulC.offsetWidth,h=soulC.offsetHeight;
-  for(let i=0;i<30;i++) souls.push({x:Math.random()*w,y:Math.random()*h,vy:-.3-.6*Math.random(),vx:(Math.random()-.5)*.1,s:4+Math.random()*10,a:.08+Math.random()*.25,c:['#ffffff','#a0a8b4','#7a6e8a','#6688aa','#a855f7'][Math.floor(Math.random()*5)]});
+const soulCanvas = document.getElementById('soul-canvas');
+const soulCtx = soulCanvas.getContext('2d');
+const soulParticles = [];
+function resizeSoul() {
+  soulCanvas.width = soulCanvas.offsetWidth * 2;
+  soulCanvas.height = soulCanvas.offsetHeight * 2;
+  soulCtx.scale(2, 2);
+  initSoulParticles();
 }
-function drawSouls(){
-  const w=soulC.offsetWidth,h=soulC.offsetHeight;
-  soulCtx.clearRect(0,0,w,h);
-  souls.forEach(s=>{
-    s.x+=s.vx;s.y+=s.vy;
-    if(s.y<-s.s*3){s.y=h+s.s*3;s.x=Math.random()*w}
-    if(s.x<0)s.x=w;if(s.x>w)s.x=0;
-    soulCtx.fillStyle=s.c;soulCtx.globalAlpha=s.a;
-    soulCtx.fillRect(s.x-s.s*0.2,s.y-s.s*1.5,s.s*0.4,s.s*3);
-    soulCtx.globalAlpha=1;
+function initSoulParticles() {
+  const w = soulCanvas.offsetWidth;
+  const h = soulCanvas.offsetHeight;
+  soulParticles.length = 0;
+  const count = Math.floor((w * h) / 6000);
+  for (let i = 0; i < count; i++) {
+    soulParticles.push({
+      x: Math.random() * w,
+      y: Math.random() * h,
+      vx: (Math.random() - 0.5) * 0.4,
+      vy: -0.4 - Math.random() * 0.8,
+      size: 1 + Math.random() * 2.5,
+      alpha: 0.2 + Math.random() * 0.5,
+      color: Math.random() > 0.7 ? '#a855f7' : (Math.random() > 0.5 ? '#00f3ff' : '#ffffff')
+    });
+  }
+}
+function drawSoulParticles() {
+  const w = soulCanvas.offsetWidth;
+  const h = soulCanvas.offsetHeight;
+  soulCtx.fillStyle = 'rgba(0,5,10,0.08)';
+  soulCtx.fillRect(0, 0, w, h);
+  soulParticles.forEach(p => {
+    p.x += p.vx;
+    p.y += p.vy;
+    p.alpha += (Math.random() - 0.5) * 0.02;
+    p.alpha = Math.max(0.1, Math.min(0.7, p.alpha));
+    if (p.y < -10) { p.y = h + 10; p.x = Math.random() * w; }
+    if (p.x < 0) p.x = w;
+    if (p.x > w) p.x = 0;
+    const hex = p.color.slice(1);
+    const r = parseInt(hex.substr(0, 2), 16);
+    const g = parseInt(hex.substr(2, 2), 16);
+    const b = parseInt(hex.substr(4, 2), 16);
+    soulCtx.beginPath();
+    soulCtx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+    soulCtx.fillStyle = `rgba(${r},${g},${b},${p.alpha})`;
+    soulCtx.shadowColor = p.color;
+    soulCtx.shadowBlur = 10;
+    soulCtx.fill();
   });
-  requestAnimationFrame(drawSouls);
+  requestAnimationFrame(drawSoulParticles);
 }
 // ===== 回頂端按鈕 =====
 window.addEventListener('scroll',()=>{const b=document.getElementById('back-to-top');if(b)b.classList.toggle('visible',window.scrollY>400)});
@@ -1019,7 +1051,7 @@ function drawECG(){
 window.addEventListener('load',()=>{
   resizePBg();addEventListener('resize',resizePBg);drawBgP();
   resizeECG();addEventListener('resize',resizeECG);drawECG();
-  resizeSoul();addEventListener('resize',resizeSoul);drawSouls();
+  resizeSoul();addEventListener('resize',resizeSoul);drawSoulParticles();
   showDailyContent();updateLifelineCards();calculateLife();
   document.getElementById('total-candles').textContent=totalCandles;
   autoLoadData();startDeathCounter();
