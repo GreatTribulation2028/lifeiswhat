@@ -16,7 +16,7 @@
 <style>
 /* ═══════════════════════════════════════════════════════════════════════════
    CSS 變數
-═══════════════════════════════════════════════════════════════════════════ */
+   ═══════════════════════════════════════════════════════════════════════════ */
 :root {
   --c-bg: #0a0a0a;
   --c-bg-card: rgba(10,10,10,0.85);
@@ -378,6 +378,31 @@ body {
 }
 .back-btn:hover { background: var(--c-accent); color: #000; }
 
+/* 回頂端按鈕 */
+.back-to-top {
+  position: fixed;
+  bottom: calc(var(--footer-height) + 15px);
+  right: 15px;
+  width: 36px;
+  height: 36px;
+  background: rgba(0,0,0,0.7);
+  border: 1px solid var(--c-accent-dim);
+  border-radius: 50%;
+  color: var(--c-accent);
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 998;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(5px);
+}
+.back-to-top.visible { opacity: 0.7; visibility: visible; }
+.back-to-top:hover { opacity: 1; background: var(--c-accent); color: #000; border-color: var(--c-accent); box-shadow: 0 0 15px var(--c-accent); }
+
 /* 響應式：平板 */
 @media (max-width: 1200px) {
   .main-container { grid-template-columns: 280px 1fr 280px; gap: 15px; padding: calc(var(--header-height) + 15px) 15px calc(var(--footer-height) + 15px); }
@@ -435,6 +460,15 @@ body {
   .link-text { font-size: 11px; }
   .marquee-text { font-size: 10px; }
   .back-btn { top: auto; bottom: calc(var(--footer-height) + var(--mobile-nav-height) + 10px); left: 50%; transform: translateX(-50%); }
+  /* 手機版回頂端按鈕：縮小 + 移到導航列上方 */
+  .back-to-top {
+    bottom: calc(var(--footer-height) + var(--mobile-nav-height) + 8px);
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    font-size: 13px;
+  }
+  .back-to-top.visible { opacity: 0.5; }
 }
 @media (max-width: 480px) {
   :root { --header-height: 60px; }
@@ -449,6 +483,7 @@ body {
   .nav-btn .nav-icon { font-size: 18px; }
   .nav-btn .nav-label { font-size: 9px; }
   .marquee-text { font-size: 9px; }
+  .back-to-top { width: 28px; height: 28px; font-size: 12px; }
 }
 
 /* 動畫輔助 */
@@ -504,343 +539,429 @@ body {
 
 <main class="main-container">
 
-  <!-- 左欄：時間軸 -->
-  <section class="column column-left active">
-    <div class="section-header">
-      <span class="section-icon">📅</span>
-      <span class="section-title">TRIBULATION TIMELINE</span>
+<!-- 左欄：時間軸 -->
+<section class="column column-left active">
+  <div class="section-header">
+    <span class="section-icon">📅</span>
+    <span class="section-title">TRIBULATION TIMELINE</span>
+  </div>
+  <div class="timeline-container" id="timelineContainer">
+    <div style="padding: 8px 12px; background: rgba(0,243,255,0.1); border-radius: 4px; margin-bottom: 10px; font-size: 10px; color: var(--c-accent);">
+      ▸ 前三年半：瘟疫→戰爭→經濟衰退→死亡
     </div>
-    <div class="timeline-container" id="timelineContainer">
-      <div style="padding: 8px 12px; background: rgba(0,243,255,0.1); border-radius: 4px; margin-bottom: 10px; font-size: 10px; color: var(--c-accent);">
-        ▸ 前三年半：瘟疫→戰爭→經濟衰退→死亡
-      </div>
-      <div class="timeline-item year-2019">
-        <div class="timeline-year">2019</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🦠 白馬・COVID-19</div>
-          <div class="timeline-desc">12/01 首宗新冠・弓(toxon毒素)・mRNA影響DNA</div>
-        </div>
-      </div>
-      <div class="timeline-item year-2020">
-        <div class="timeline-year">2020</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🕊️ 第一印開啟</div>
-          <div class="timeline-desc">12/01 一年通知期結束・尼布甲尼撒進入七期</div>
-        </div>
-      </div>
-      <div class="timeline-item year-2022">
-        <div class="timeline-year">2022</div>
-        <div class="timeline-content">
-          <div class="timeline-title">⚔️ 紅馬・第二印</div>
-          <div class="timeline-desc">02/24 俄烏戰爭・第450日・戰爭與衝突</div>
-        </div>
-      </div>
-      <div class="timeline-item year-2023">
-        <div class="timeline-year">2023</div>
-        <div class="timeline-content">
-          <div class="timeline-title">💸 黑馬・第三印</div>
-          <div class="timeline-desc">04/05 經濟衰退・逾越節・以色列奪埃及金子</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-text-dim);">2023</div>
-        <div class="timeline-content">
-          <div class="timeline-title">💀 灰馬・第四印</div>
-          <div class="timeline-desc">12/31 能登半島地震・指向巴黎奧運・緩慢死亡開始</div>
-        </div>
-      </div>
-      <div style="padding: 8px 12px; background: rgba(255,174,0,0.1); border-radius: 4px; margin: 10px 0; font-size: 10px; color: var(--c-warn);">
-        ▸ 一七之半：獻祭止息・1260日・1290日
-      </div>
-      <div class="timeline-item year-2024">
-        <div class="timeline-year">2024</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🐄 紅母牛獻祭止息</div>
-          <div class="timeline-desc">04/22 逾越節・2000年來首次完美紅母牛卻被止息</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-warn);">2024</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🕍 以色列獨立日</div>
-          <div class="timeline-desc">05/14 第1260日・選擇巴力・一七之半</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-warn);">2024</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🌾 七七節翌日</div>
-          <div class="timeline-desc">06/13 第1290日・死亡收割節開始</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-text-dim);">2024</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🏅 巴黎奧運</div>
-          <div class="timeline-desc">07/26 第1333日・褻瀆暗示・不法隱意展開</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-text-dim);">2024</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🦠 第五印・猴痘</div>
-          <div class="timeline-desc">09/17 Jynneos疫苗・Mpox=440=敵基督眾數</div>
-        </div>
-      </div>
-      <div style="padding: 8px 12px; background: rgba(255,42,42,0.1); border-radius: 4px; margin: 10px 0; font-size: 10px; color: var(--c-doom-red);">
-        ▸ 後三年半：號筒審判・獸印・基督再來
-      </div>
-      <div class="timeline-item year-2025 current">
-        <div class="timeline-year">2025</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🌑 第六印</div>
-          <div class="timeline-desc">01/07 西藏地震・南加州大火・日頭變黑月亮變紅</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-accent);">2025</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🕊️ 第七印</div>
-          <div class="timeline-desc">04/29 天上寂靜二刻・以色列陣亡將士紀念日・90日關稅</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
-        <div class="timeline-content">
-          <div class="timeline-title">⚔️ 以伊戰爭</div>
-          <div class="timeline-desc">06/13 一載後・收割死亡・灰馬加速・刀劍飢荒瘟疫</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🔥 第一號筒</div>
-          <div class="timeline-desc">08/19 贖罪日前夕・冰雹與火・生態三分之一受損</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🌊 第二號筒</div>
-          <div class="timeline-desc">12/09 火燒大山扔海中・海水變血・兩個見證人漸現</div>
-        </div>
-      </div>
-      <div class="timeline-item year-2026">
-        <div class="timeline-year">2026</div>
-        <div class="timeline-content">
-          <div class="timeline-title">☄️ 第三號筒</div>
-          <div class="timeline-desc">03/31 燒著大星墜落・水變苦・敵基督漸顯・獸印啟動</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-warn);">2026</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🌑 第四號筒</div>
-          <div class="timeline-desc">07/21 埃波月第九日・聖殿被毀日・日月星三分之一黑暗</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-warn);">2026</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🦗 第五號筒（一禍）</div>
-          <div class="timeline-desc">11/10 無底坑開・蝗蟲之禍五個月・獸印強制</div>
-        </div>
-      </div>
-      <div class="timeline-item year-2027">
-        <div class="timeline-year">2027</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🐎 第六號筒（二禍）</div>
-          <div class="timeline-desc">03/02 幼發拉底河・馬軍二萬萬・殺三分之一人</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-warn);">2027</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🌾 二載後</div>
-          <div class="timeline-desc">06/13 七七節翌日・快鐮刀收割・義人惡人漸分開</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🎺 第七號筒（三禍）</div>
-          <div class="timeline-desc">06/22 夏至・神之奧祕成全・末次號筒等待吹角節</div>
-        </div>
-      </div>
-      <div class="timeline-item final">
-        <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🎺 吹角節・那真光降臨</div>
-          <div class="timeline-desc">10/01 死人復活・第四十個禧年・基督再來</div>
-        </div>
-      </div>
-      <div class="timeline-item">
-        <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
-        <div class="timeline-content">
-          <div class="timeline-title">🏺 七碗災難</div>
-          <div class="timeline-desc">10/26 距以色列獨立日1260日・最後審判開始</div>
-        </div>
-      </div>
-      <div class="timeline-item end">
-        <div class="timeline-year">2028</div>
-        <div class="timeline-content">
-          <div class="timeline-title">✨ 1335日・新天新地</div>
-          <div class="timeline-desc">01/09 Asarah B'Tevet・聖殿被毀日・詛咒終變祝福</div>
-        </div>
+    <div class="timeline-item year-2019">
+      <div class="timeline-year">2019</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🦠 白馬・COVID-19</div>
+        <div class="timeline-desc">12/01 首宗新冠・弓(toxon毒素)・mRNA影響DNA</div>
       </div>
     </div>
-  </section>
+    <div class="timeline-item year-2020">
+      <div class="timeline-year">2020</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🕊️ 第一印開啟</div>
+        <div class="timeline-desc">12/01 一年通知期結束・尼布甲尼撒進入七期</div>
+      </div>
+    </div>
+    <div class="timeline-item year-2022">
+      <div class="timeline-year">2022</div>
+      <div class="timeline-content">
+        <div class="timeline-title">⚔️ 紅馬・第二印</div>
+        <div class="timeline-desc">02/24 俄烏戰爭・第450日・戰爭與衝突</div>
+      </div>
+    </div>
+    <div class="timeline-item year-2023">
+      <div class="timeline-year">2023</div>
+      <div class="timeline-content">
+        <div class="timeline-title">💸 黑馬・第三印</div>
+        <div class="timeline-desc">04/05 經濟衰退・逾越節・以色列奪埃及金子</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-text-dim);">2023</div>
+      <div class="timeline-content">
+        <div class="timeline-title">💀 灰馬・第四印</div>
+        <div class="timeline-desc">12/31 能登半島地震・指向巴黎奧運・緩慢死亡開始</div>
+      </div>
+    </div>
+    <div style="padding: 8px 12px; background: rgba(255,174,0,0.1); border-radius: 4px; margin: 10px 0; font-size: 10px; color: var(--c-warn);">
+      ▸ 一七之半：獻祭止息・1260日・1290日
+    </div>
+    <div class="timeline-item year-2024">
+      <div class="timeline-year">2024</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🐄 紅母牛獻祭止息</div>
+        <div class="timeline-desc">04/22 逾越節・2000年來首次完美紅母牛卻被止息</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-warn);">2024</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🕍 以色列獨立日</div>
+        <div class="timeline-desc">05/14 第1260日・選擇巴力・一七之半</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-warn);">2024</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🌾 七七節翌日</div>
+        <div class="timeline-desc">06/13 第1290日・死亡收割節開始</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-text-dim);">2024</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🏅 巴黎奧運</div>
+        <div class="timeline-desc">07/26 第1333日・褻瀆暗示・不法隱意展開</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-text-dim);">2024</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🦠 第五印・猴痘</div>
+        <div class="timeline-desc">09/17 Jynneos疫苗・Mpox=440=敵基督眾數</div>
+      </div>
+    </div>
+    <div style="padding: 8px 12px; background: rgba(255,42,42,0.1); border-radius: 4px; margin: 10px 0; font-size: 10px; color: var(--c-doom-red);">
+      ▸ 後三年半：號筒審判・獸印・基督再來
+    </div>
+    <div class="timeline-item year-2025 current">
+      <div class="timeline-year">2025</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🌑 第六印</div>
+        <div class="timeline-desc">01/07 西藏地震・南加州大火・日頭變黑月亮變紅</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-accent);">2025</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🕊️ 第七印</div>
+        <div class="timeline-desc">04/29 天上寂靜二刻・以色列陣亡將士紀念日・90日關稅</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
+      <div class="timeline-content">
+        <div class="timeline-title">⚔️ 以伊戰爭</div>
+        <div class="timeline-desc">06/13 一載後・收割死亡・灰馬加速・刀劍飢荒瘟疫</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🔥 第一號筒</div>
+        <div class="timeline-desc">08/19 贖罪日前夕・冰雹與火・生態三分之一受損</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🌊 第二號筒</div>
+        <div class="timeline-desc">12/09 火燒大山扔海中・海水變血・兩個見證人漸現</div>
+      </div>
+    </div>
+    <div class="timeline-item year-2026">
+      <div class="timeline-year">2026</div>
+      <div class="timeline-content">
+        <div class="timeline-title">☄️ 第三號筒</div>
+        <div class="timeline-desc">03/31 燒著大星墜落・水變苦・敵基督漸顯・獸印啟動</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-warn);">2026</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🌑 第四號筒</div>
+        <div class="timeline-desc">07/21 埃波月第九日・聖殿被毀日・日月星三分之一黑暗</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-warn);">2026</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🦗 第五號筒（一禍）</div>
+        <div class="timeline-desc">11/10 無底坑開・蝗蟲之禍五個月・獸印強制</div>
+      </div>
+    </div>
+    <div class="timeline-item year-2027">
+      <div class="timeline-year">2027</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🐎 第六號筒（二禍）</div>
+        <div class="timeline-desc">03/02 幼發拉底河・馬軍二萬萬・殺三分之一人</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-warn);">2027</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🌾 二載後</div>
+        <div class="timeline-desc">06/13 七七節翌日・快鐮刀收割・義人惡人漸分開</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🎺 第七號筒（三禍）</div>
+        <div class="timeline-desc">06/22 夏至・神之奧祕成全・末次號筒等待吹角節</div>
+      </div>
+    </div>
+    <div class="timeline-item final">
+      <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🎺 吹角節・那真光降臨</div>
+        <div class="timeline-desc">10/01 死人復活・第四十個禧年・基督再來</div>
+      </div>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
+      <div class="timeline-content">
+        <div class="timeline-title">🏺 七碗災難</div>
+        <div class="timeline-desc">10/26 距以色列獨立日1260日・最後審判開始</div>
+      </div>
+    </div>
+    <div class="timeline-item end">
+      <div class="timeline-year">2028</div>
+      <div class="timeline-content">
+        <div class="timeline-title">✨ 1335日・新天新地</div>
+        <div class="timeline-desc">01/09 Asarah B'Tevet・聖殿被毀日・詛咒終變祝福</div>
+      </div>
+    </div>
+  </div>
+</section>
 
-  <!-- 中欄：核心資訊 -->
-  <section class="column column-center">
-    <div class="info-card tribulation-card">
-      <div class="card-header">
-        <span class="card-icon">⚠️</span>
-        <span class="card-title">七災年 2019-2028</span>
+<!-- 中欄：核心資訊 -->
+<section class="column column-center">
+  <div class="info-card tribulation-card">
+    <div class="card-header">
+      <span class="card-icon">⚠️</span>
+      <span class="card-title">七災年 2019-2028</span>
+    </div>
+    <div class="card-body">
+      <div class="tribulation-flow">
+        <span class="flow-item">瘟疫</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">戰爭</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">經濟衰退</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">飢荒</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item fatal">死亡</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">四印 = 一七之半 &gt; 進入一載 &gt; 二載 &gt; 半載</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">一七後半</span>
       </div>
-      <div class="card-body">
-        <div class="tribulation-flow">
-          <span class="flow-item">瘟疫</span>
-          <span class="flow-arrow">→</span>
-          <span class="flow-item">戰爭</span>
-          <span class="flow-arrow">→</span>
-          <span class="flow-item">經濟崩潰</span>
-          <span class="flow-arrow">→</span>
-          <span class="flow-item">飢荒</span>
-          <span class="flow-arrow">→</span>
-          <span class="flow-item fatal">死亡</span>
-        </div>
-        <div class="verse-highlight">
-          「我就觀看，見有一匹灰馬，騎在馬上的，名字叫死」<br>
-          <span class="verse-ref">— 啟示錄 6:8</span>
-        </div>
+      <div class="tribulation-flow">
+        <span class="flow-item">一七後半(七七節)(翌日)</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">一載後。以伊戰</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">國要攻打國</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">馬可福音13章。接續餘下災難</span>
+      </div>
+      <div class="tribulation-flow">
+        <span class="flow-item">國攻國</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">大地震</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">(人為飢荒)</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item fatal">新瘟疫(死亡)</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">經濟崩潰。數字貨幣</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item">人工晶片</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item fatal">獸印系統</span>
+        <span class="flow-arrow">→</span>
+        <span class="flow-item fatal">2027年底</span>
+      </div>
+      <div class="verse-highlight">
+        「我就觀看，見有一匹灰馬，騎在馬上的，名字叫死」<br>
+        <span class="verse-ref">— 啟示錄 6:8</span>
       </div>
     </div>
-    <div class="info-card reset-card">
-      <div class="card-header">
-        <span class="card-icon">🌐</span>
-        <span class="card-title">GREAT RESET</span>
-      </div>
-      <div class="card-body">
-        <ul class="reset-list">
-          <li>2017 → 2027 第四次工業革命</li>
-          <li>Great Reset → 電子貨幣化</li>
-          <li class="highlight">"You will own nothing but you will be happy"</li>
-          <li>COVID → mRNA → Nanopatch → Luciferase</li>
-          <li>人自願地被轉化成GMO → 專利下的商品</li>
-        </ul>
+  </div>
+  <div class="info-card reset-card">
+    <div class="card-header">
+      <span class="card-icon">🌐</span>
+      <span class="card-title">GREAT RESET</span>
+    </div>
+    <div class="card-body">
+      <ul class="reset-list">
+        <li>2017 → 2027 第四次工業革命</li>
+        <li>Great Reset → 電子貨幣化</li>
+        <li class="highlight">"You will own nothing but you will be happy"</li>
+        <li>COVID → mRNA → Nanopatch → Luciferase</li>
+        <li>人自願地被轉化成GMO → 專利下的商品</li>
+      </ul>
+    </div>
+  </div>
+  <div class="info-card verse-card">
+    <div class="card-header">
+      <span class="card-icon">📖</span>
+      <span class="card-title">經文警示</span>
+    </div>
+    <div class="card-body">
+      <div class="verse-rotate-display" id="verseDisplay">
+        「除了那受印記、有了獸名或有獸名數目的，都不得做買賣」— 啟示錄 13:17
       </div>
     </div>
-    <div class="info-card verse-card">
-      <div class="card-header">
-        <span class="card-icon">📖</span>
-        <span class="card-title">經文警示</span>
-      </div>
-      <div class="card-body">
-        <div class="verse-rotate-display" id="verseDisplay">
-          「除了那受印記、有了獸名或有獸名數目的，都不得做買賣」— 啟示錄 13:17
-        </div>
+  </div>
+  <div class="info-card feasts-card">
+    <div class="card-header">
+      <span class="card-icon">🕎</span>
+      <span class="card-title">耶和華的七個節期</span>
+    </div>
+    <div class="card-body" style="font-size: 11px;">
+      <div style="color: var(--c-success); margin-bottom: 8px;">✓ 逾越節（彌賽亞死）| ✓ 除酵節（埋葬）| ✓ 初熟節（復活）</div>
+      <div style="color: var(--c-warn); margin-bottom: 8px;">⟳ 七七節（聖靈降臨 — 半應驗，等收藏節完成）</div>
+      <div style="color: var(--c-doom-red);">⏳ 吹角節（死人復活）| ⏳ 贖罪日（以色列得救）| ⏳ 住棚節（神住人間）</div>
+      <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--c-border); font-size: 10px; color: var(--c-text-dim);">
+        第一次來三個半節期已應驗<br>
+        第二次來三個半節期尚未應驗<br>
+        主再來時，一切便要成就
       </div>
     </div>
-    <div class="info-card feasts-card">
-      <div class="card-header">
-        <span class="card-icon">🕎</span>
-        <span class="card-title">耶和華的七個節期</span>
+  </div>
+  <div class="info-card">
+    <div class="card-header">
+      <span class="card-icon">📐</span>
+      <span class="card-title">1260 / 1290 / 1335 天</span>
+    </div>
+    <div class="card-body" style="font-size: 11px; line-height: 1.7;">
+      <div style="margin-bottom: 10px;">
+        <strong style="color: var(--c-accent);">1260日</strong>（但以理書 12:7）<br>
+        <span style="color: var(--c-text-dim);">2019/12/01 → 2024/05/14</span><br>
+        新冠首宗 → 以色列獨立日（一七之半）
       </div>
-      <div class="card-body" style="font-size: 11px;">
-        <div style="color: var(--c-success); margin-bottom: 8px;">✓ 逾越節（彌賽亞死）| ✓ 除酵節（埋葬）| ✓ 初熟節（復活）</div>
-        <div style="color: var(--c-warn); margin-bottom: 8px;">⟳ 七七節（聖靈降臨 — 半應驗，等收藏節完成）</div>
-        <div style="color: var(--c-doom-red);">⏳ 吹角節（死人復活）| ⏳ 贖罪日（以色列得救）| ⏳ 住棚節（神住人間）</div>
-        <div style="margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--c-border); font-size: 10px; color: var(--c-text-dim);">
-          第一次來三個半節期已應驗<br>
-          第二次來三個半節期尚未應驗<br>
-          主再來時，一切便要成就
-        </div>
+      <div style="margin-bottom: 10px;">
+        <strong style="color: var(--c-warn);">1290日</strong>（但以理書 12:11）<br>
+        <span style="color: var(--c-text-dim);">2019/12/01 → 2024/06/13</span><br>
+        新冠首宗 → 七七節翌日（死亡收割開始）
+      </div>
+      <div>
+        <strong style="color: var(--c-doom-red);">1335日</strong>（但以理書 12:12）<br>
+        <span style="color: var(--c-text-dim);">→ 2028/01/09</span><br>
+        Asarah B'Tevet 聖殿被毀日<br>
+        「等到1335日的，那人便為有福」<br>
+        詛咒終變祝福
       </div>
     </div>
-    <div class="info-card">
-      <div class="card-header">
-        <span class="card-icon">📐</span>
-        <span class="card-title">1260 / 1290 / 1335 天</span>
-      </div>
-      <div class="card-body" style="font-size: 11px; line-height: 1.7;">
-        <div style="margin-bottom: 10px;">
-          <strong style="color: var(--c-accent);">1260日</strong>（但以理書 12:7）<br>
-          <span style="color: var(--c-text-dim);">2019/12/01 → 2024/05/14</span><br>
-          新冠首宗 → 以色列獨立日（一七之半）
-        </div>
-        <div style="margin-bottom: 10px;">
-          <strong style="color: var(--c-warn);">1290日</strong>（但以理書 12:11）<br>
-          <span style="color: var(--c-text-dim);">2019/12/01 → 2024/06/13</span><br>
-          新冠首宗 → 七七節翌日（死亡收割開始）
-        </div>
-        <div>
-          <strong style="color: var(--c-doom-red);">1335日</strong>（但以理書 12:12）<br>
-          <span style="color: var(--c-text-dim);">→ 2028/01/09</span><br>
-          Asarah B'Tevet 聖殿被毀日<br>
-          「等到1335日的，那人便為有福」<br>
-          詛咒終變祝福
-        </div>
-      </div>
-    </div>
-  </section>
+  </div>
+</section>
 
-  <!-- 右欄：聖經資源 -->
-  <section class="column column-right">
-    <div class="section-header">
-      <span class="section-icon">📖</span>
-      <span class="section-title">聖經·大災難·資訊</span>
+<!-- 右欄：聖經資源 -->
+<section class="column column-right">
+  <div class="section-header">
+    <span class="section-icon">📖</span>
+    <span class="section-title">聖經·大災難·資訊</span>
+  </div>
+  <div class="bible-links">
+    <a href="https://e.pcloud.link/publink/show?code=kZt8zaZd7iPCbuRK7mXuE6Lg4fjEJ933Sr7" target="_blank" class="bible-link">
+      <span class="link-icon">📁</span>
+      <span class="link-text">01 資訊總覽</span>
+    </a>
+    <a href="https://e.pcloud.link/publink/show?code=kZU8zaZLBosh9pTrp8O7DGN7wlrDJlU3JDy" target="_blank" class="bible-link">
+      <span class="link-icon">💉</span>
+      <span class="link-text">02 瘟疫中的邪術</span>
+    </a>
+    <a href="https://e.pcloud.link/publink/show?code=kZAeraZu0D0xmF6wNGnlLrXHRYAD2Dj2q8y" target="_blank" class="bible-link">
+      <span class="link-icon">📜</span>
+      <span class="link-text">03 經文對照</span>
+    </a>
+    <a href="https://e.pcloud.link/publink/show?code=kZaeraZlfKYOWNUEAJyoEtqVvIjFknVJHX0" target="_blank" class="bible-link">
+      <span class="link-icon">🎬</span>
+      <span class="link-text">04 影片資源</span>
+    </a>
+    <a href="https://greattribulaton2028.github.io/-/" target="_blank" class="bible-link main-site">
+      <span class="link-icon">🌐</span>
+      <span class="link-text">七年大災難網站</span>
+    </a>
+  </div>
+  <div class="info-card mark-card">
+    <div class="card-header">
+      <span class="card-icon">⛔</span>
+      <span class="card-title">獸印警告</span>
     </div>
-    <div class="bible-links">
-      <a href="https://e.pcloud.link/publink/show?code=kZt8zaZd7iPCbuRK7mXuE6Lg4fjEJ933Sr7" target="_blank" class="bible-link">
-        <span class="link-icon">📁</span>
-        <span class="link-text">01 資訊總覽</span>
-      </a>
-      <a href="https://e.pcloud.link/publink/show?code=kZU8zaZLBosh9pTrp8O7DGN7wlrDJlU3JDy" target="_blank" class="bible-link">
-        <span class="link-icon">💉</span>
-        <span class="link-text">02 瘟疫中的邪術</span>
-      </a>
-      <a href="https://e.pcloud.link/publink/show?code=kZAeraZu0D0xmF6wNGnlLrXHRYAD2Dj2q8y" target="_blank" class="bible-link">
-        <span class="link-icon">📜</span>
-        <span class="link-text">03 經文對照</span>
-      </a>
-      <a href="https://e.pcloud.link/publink/show?code=kZaeraZlfKYOWNUEAJyoEtqVvIjFknVJHX0" target="_blank" class="bible-link">
-        <span class="link-icon">🎬</span>
-        <span class="link-text">04 影片資源</span>
-      </a>
-      <a href="https://greattribulaton2028.github.io/-/" target="_blank" class="bible-link main-site">
-        <span class="link-icon">🌐</span>
-        <span class="link-text">七年大災難網站</span>
-      </a>
-    </div>
-    <div class="info-card mark-card">
-      <div class="card-header">
-        <span class="card-icon">⛔</span>
-        <span class="card-title">獸印警告</span>
+    <div class="card-body">
+      <div class="mark-warning">
+        「若有人拜獸和獸像，在額上或在手上受了印記，這人也必喝神大怒的酒」
+        <span class="verse-ref">— 啟示錄 14:9-10</span>
       </div>
-      <div class="card-body">
-        <div class="mark-warning">
-          「若有人拜獸和獸像，在額上或在手上受了印記，這人也必喝神大怒的酒」
-          <span class="verse-ref">— 啟示錄 14:9-10</span>
-        </div>
-        <div class="mark-flow">
-          <span>DNA</span> → <span>mRNA</span> → <span>Nanopatch</span> → <span class="danger">Luciferase</span> → <span class="danger">晶片</span>
-        </div>
-      </div>
-    </div>
-    <div class="info-card" style="border-color: rgba(168,85,247,0.3);">
-      <div class="card-header" style="border-color: rgba(168,85,247,0.3);">
-        <span class="card-icon">✨</span>
-        <span class="card-title" style="color: #a855f7;">儆醒預備</span>
-      </div>
-      <div class="card-body">
-        <div style="font-family: var(--font-brush); font-size: 14px; color: #e8e8e8; line-height: 1.8; text-align: center;">
-          「看哪，我來像賊一樣。<br>那儆醒、看守衣服、<br>免得赤身而行、<br>叫人見他羞恥的有福了！」
-        </div>
-        <div style="font-size: 10px; color: #a855f7; text-align: center; margin-top: 10px;">— 啟示錄 16:15</div>
+      <div class="mark-flow">
+        <span>DNA</span> → <span>mRNA</span> → <span>Nanopatch</span> → <span class="danger">Luciferase</span> → <span class="danger">晶片</span>
       </div>
     </div>
-  </section>
+  </div>
+  <div class="info-card" style="border-color: rgba(168,85,247,0.3);">
+    <div class="card-header" style="border-color: rgba(168,85,247,0.3);">
+      <span class="card-icon">✨</span>
+      <span class="card-title" style="color: #a855f7;">儆醒預備</span>
+    </div>
+    <div class="card-body">
+      <div style="font-family: var(--font-brush); font-size: 14px; color: #e8e8e8; line-height: 1.8; text-align: center;">
+        「看哪，我來像賊一樣。<br>那儆醒、看守衣服、<br>免得赤身而行、<br>叫人見他羞恥的有福了！」
+      </div>
+      <div style="font-size: 10px; color: #a855f7; text-align: center; margin-top: 10px;">— 啟示錄 16:15</div>
+    </div>
+  </div>
+
+  <!-- 研習資源卡片（金色） -->
+  <div class="info-card" style="border-color: rgba(255,174,0,0.3);">
+    <div class="card-header" style="border-color: rgba(255,174,0,0.3);">
+      <span class="card-icon">📚</span>
+      <span class="card-title" style="color: #ffae00;">研習資源</span>
+    </div>
+    <div class="card-body" style="padding: 10px;">
+      <div style="display: flex; flex-direction: column; gap: 6px;">
+        <a href="https://flossy-dish-cfd.notion.site/2fdf133f651f808e9c5ef389708d4b78?pvs=74" target="_blank" class="bible-link">
+          <span class="link-icon">📜</span>
+          <span class="link-text">拉比解經</span>
+        </a>
+        <a href="https://flossy-dish-cfd.notion.site/2d9258fc59e744e0ab8b0223dd366e63?v=3b82d912d3f04c579d6c2af678765853" target="_blank" class="bible-link">
+          <span class="link-icon">⏰</span>
+          <span class="link-text">Gematric數字資料庫</span>
+        </a>
+        <a href="https://flossy-dish-cfd.notion.site/2eff133f651f80159350cc0656c72893?pvs=74" target="_blank" class="bible-link">
+          <span class="link-icon">👣</span>
+          <span class="link-text">同行(文章分享)</span>
+        </a>
+        <a href="https://flossy-dish-cfd.notion.site/2fcf133f651f80ac848ee5bb598d651d" target="_blank" class="bible-link">
+          <span class="link-icon">📚</span>
+          <span class="link-text">📚 影片庫</span>
+        </a>
+        <a href="https://flossy-dish-cfd.notion.site/0c78452883434a51a8c7d1ef58ac93ad?pvs=74" target="_blank" class="bible-link">
+          <span class="link-icon">🏭</span>
+          <span class="link-text">第四次工業革命</span>
+        </a>
+        <a href="https://flossy-dish-cfd.notion.site/2f9f133f651f80fa9f3acaa21c25174a" target="_blank" class="bible-link">
+          <span class="link-icon">🕳️</span>
+          <span class="link-text">新聞以外(軼聞)</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 龍蝦專區卡片（紅色） -->
+  <div class="info-card" style="border-color: rgba(239,68,68,0.3);">
+    <div class="card-header" style="border-color: rgba(239,68,68,0.3);">
+      <span class="card-icon">🦞</span>
+      <span class="card-title" style="color: #ef4444;">龍蝦專區</span>
+    </div>
+    <div class="card-body" style="padding: 10px;">
+      <div style="display: flex; flex-direction: column; gap: 6px;">
+        <a href="https://flossy-dish-cfd.notion.site/Moltbook-302f133f651f8032a5bbf2158702c012" target="_blank" class="bible-link">
+          <span class="link-icon">🦞</span>
+          <span class="link-text">龍蝦的自我修養</span>
+        </a>
+        <a href="https://flossy-dish-cfd.notion.site/a87787141a054bc1802aee4d6a55ef34?pvs=74" target="_blank" class="bible-link">
+          <span class="link-icon">📡</span>
+          <span class="link-text">📡 龍蝦情報</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
 
 </main>
 
@@ -865,6 +986,9 @@ body {
   </button>
 </nav>
 
+<!-- 回頂端按鈕 -->
+<button class="back-to-top" id="backToTop" title="回頂端">↑</button>
+
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   initMatrix();
@@ -874,6 +998,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initMobileNav();
   initLightning();
   initProphecyFlicker();
+  initBackToTop();
   console.log('▓▓▓ PROJECT: TRIBULATION 已載入 ▓▓▓');
 });
 
@@ -882,7 +1007,7 @@ function initMatrix() {
   if (!canvas) return;
   const ctx = canvas.getContext('2d');
   const chars = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz猝死意外災難警告危險生死記錄末世七年審判救贖';
-  const colors = ['#00ff41', '#00ff41', '#00ff41', '#00ff41', '#00ff41', '#00ff41', '#00f3ff', '#00f3ff', '#00f3ff', '#ffdd00'];
+  const colors = ['#00ff41','#00ff41','#00ff41','#00ff41','#00ff41','#00ff41','#00f3ff','#00f3ff','#00f3ff','#ffdd00'];
   let columns = [];
   let fontSize = 14;
   function resizeCanvas() {
@@ -932,11 +1057,11 @@ function initCountdown() {
     const now = Date.now();
     const diff = targetDate - now;
     if (diff <= 0) { valueEl.textContent = '已到達'; statusEl.textContent = 'THE END'; boxEl.classList.add('urgent'); return; }
-    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const mins = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
-    valueEl.textContent = `${days}日 ${hours}時 ${mins}分`;
-    boxEl.classList.remove('alert', 'urgent');
+    const days = Math.floor(diff / (1000*60*60*24));
+    const hours = Math.floor((diff % (1000*60*60*24)) / (1000*60*60));
+    const mins = Math.floor((diff % (1000*60*60)) / (1000*60));
+    valueEl.textContent = days + '日 ' + hours + '時 ' + mins + '分';
+    boxEl.classList.remove('alert','urgent');
     if (days <= 126) { statusEl.textContent = '⚠️ URGENT ⚠️'; boxEl.classList.add('urgent'); }
     else if (days <= 252) { statusEl.textContent = '⚡ ALERT ⚡'; boxEl.classList.add('alert'); }
     else if (days <= 365) { statusEl.textContent = '⏰ WARNING'; }
@@ -973,30 +1098,7 @@ function initVerseRotation() {
 function initMarquee() {
   const content = document.getElementById('marqueeContent');
   if (!content) return;
-  const marqueeHTML = `
-    <span class="marquee-text">
-      ▓▓▓ <span class="hl-yellow">GREAT RESET</span> ▓▓▓
-      2019 COVID ▓▓▓
-      2020 GLOBAL LOCKDOWN ▓▓▓
-      2021 VACCINE ROLLOUT ▓▓▓
-      2022 WAR ▓▓▓
-      2023 ECONOMIC CRISIS ▓▓▓
-      2024 <span class="hl-cyan">逾越節獻祭被止息</span> ▓▓▓
-      2025 ANTI-CHRIST‧局勢升級 ▓▓▓
-      2026 <span class="hl-yellow">Turning Point</span> ▓▓▓
-      2027 第四十個禧年‧吹角節 ▓▓▓
-      <span class="hl-cyan">AI → Cyber Attack</span> ▓▓▓
-      <span class="sep">║</span>
-      1. 全球大重置 2017→2027 → 第四次工業革命 → 電子貨幣化 ▓▓▓
-      <span class="sep">║</span>
-      2. <span class="hl-yellow">You will own nothing but you will be happy</span> → 你將一無所有？▓▓▓
-      <span class="sep">║</span>
-      3. COVID ＞ DNA → mRNA → Nanopatch → <span class="hl-yellow">Luciferase</span> → 晶片 → 專利下的商品 ▓▓▓
-      <span class="sep">║</span>
-      4. COVID → <span class="hl-cyan">第40個禧年</span> → 末次號筒 → 七年大災難 → <span class="hl-yellow">End...</span> ▓▓▓
-      <span class="sep">║║║</span>
-    </span>
-  `;
+  const marqueeHTML = '<span class="marquee-text">▓▓▓ <span class="hl-yellow">GREAT RESET</span> ▓▓▓ 2019 COVID ▓▓▓ 2020 GLOBAL LOCKDOWN ▓▓▓ 2021 VACCINE ROLLOUT ▓▓▓ 2022 WAR ▓▓▓ 2023 ECONOMIC CRISIS ▓▓▓ 2024 <span class="hl-cyan">逾越節獻祭被止息</span> ▓▓▓ 2025 ANTI-CHRIST‧局勢升級 ▓▓▓ 2026 <span class="hl-yellow">Turning Point</span> ▓▓▓ 2027 第四十個禧年‧吹角節 ▓▓▓ <span class="hl-cyan">AI → Cyber Attack</span> ▓▓▓ <span class="sep">║</span> 1. 全球大重置 2017→2027 → 第四次工業革命 → 電子貨幣化 ▓▓▓ <span class="sep">║</span> 2. <span class="hl-yellow">You will own nothing but you will be happy</span> → 你將一無所有？▓▓▓ <span class="sep">║</span> 3. COVID ＞ DNA → mRNA → Nanopatch → <span class="hl-yellow">Luciferase</span> → 晶片 → 專利下的商品 ▓▓▓ <span class="sep">║</span> 4. COVID → <span class="hl-cyan">第40個禧年</span> → 末次號筒 → 七年大災難 → <span class="hl-yellow">End...</span> ▓▓▓ <span class="sep">║║║</span></span>';
   content.innerHTML = marqueeHTML + marqueeHTML;
 }
 
@@ -1004,21 +1106,16 @@ function initMobileNav() {
   const navBtns = document.querySelectorAll('.nav-btn');
   const columns = { timeline: document.querySelector('.column-left'), info: document.querySelector('.column-center'), bible: document.querySelector('.column-right') };
   if (!navBtns.length) return;
-
   function setMobileView() {
     if (window.innerWidth <= 768) {
-      // 手機版：確保至少一個欄位顯示
       const hasActive = Object.values(columns).some(col => col && col.classList.contains('active'));
       if (!hasActive && columns.timeline) {
         columns.timeline.classList.add('active');
         navBtns.forEach(btn => btn.classList.toggle('active', btn.dataset.section === 'timeline'));
       }
     }
-    // 桌面版不需要處理，CSS 會自動顯示所有欄位
   }
-
   setMobileView();
-
   navBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       const section = btn.dataset.section;
@@ -1031,7 +1128,6 @@ function initMobileNav() {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
   });
-
   window.addEventListener('resize', setMobileView);
 }
 
@@ -1059,6 +1155,28 @@ function initProphecyFlicker() {
   if (!num1260 || !num1290) return;
   function flicker(el) { el.style.textShadow = '0 0 30px #ff0000, 0 0 50px #ff4444'; setTimeout(() => { el.style.textShadow = ''; }, 200); }
   setInterval(() => { flicker(num1260); setTimeout(() => flicker(num1290), 300); }, 5000);
+}
+
+function initBackToTop() {
+  const btn = document.getElementById('backToTop');
+  if (!btn) return;
+  let ticking = false;
+  window.addEventListener('scroll', () => {
+    if (!ticking) {
+      window.requestAnimationFrame(() => {
+        if (window.scrollY > 300) {
+          btn.classList.add('visible');
+        } else {
+          btn.classList.remove('visible');
+        }
+        ticking = false;
+      });
+      ticking = true;
+    }
+  });
+  btn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
 }
 
 (function highlightCurrentYear() {
