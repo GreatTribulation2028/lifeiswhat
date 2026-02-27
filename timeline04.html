@@ -498,6 +498,37 @@ body {
 ::-webkit-scrollbar-thumb { background: var(--c-accent); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--c-warn); }
 * { scrollbar-width: thin; scrollbar-color: var(--c-accent) rgba(0,0,0,0.3); }
+/* ═══════ Legacy Vertical Timeline (Scoped .lvt) ═══════ */
+.lvt{background:#030305;padding:20px 12px;max-height:800px;overflow-y:auto;line-height:1.6}
+.lvt .en{position:relative;margin-bottom:30px;padding:10px 10px 10px 22px;border-left:2px solid var(--c-accent-dim);transition:background 0.3s}
+.lvt .en::before{content:'';position:absolute;left:-7px;top:14px;width:12px;height:12px;background:var(--c-bg);border:2px solid var(--c-accent);border-radius:50%;z-index:2;box-shadow:0 0 8px var(--c-accent-dim);transition:all 0.3s}
+.lvt .en:hover::before{background:var(--c-accent);box-shadow:0 0 15px var(--c-accent)}
+.lvt .en:hover{background:rgba(0,243,255,0.03)}
+.lvt .yr{font-family:var(--font-display);font-size:10px;color:var(--c-accent);text-shadow:0 0 8px var(--c-accent);margin-bottom:3px;letter-spacing:1px}
+.lvt .et{font-size:13px;font-weight:700;color:var(--c-text);margin-bottom:5px}
+.lvt .ed{font-size:11px;color:var(--c-text-dim);margin-bottom:6px;line-height:1.5}
+.lvt .ei{width:100%;height:130px;overflow:hidden;border:1px solid rgba(255,255,255,0.06);margin-bottom:8px;position:relative}
+.lvt .ei img{width:100%;height:100%;object-fit:cover;filter:grayscale(100%) contrast(1.2);transition:0.3s}
+.lvt .en:hover .ei img{filter:grayscale(0%)}
+.lvt .sl{position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(0deg,rgba(0,0,0,0.15),rgba(0,0,0,0.15) 2px,transparent 2px,transparent 4px);pointer-events:none}
+.lvt .lg{margin-top:6px;border-top:1px solid rgba(255,255,255,0.05);padding-top:4px}
+.lvt .lg summary{color:var(--c-warn);font-family:var(--font-mono);font-size:10px;letter-spacing:1px;list-style:none;cursor:pointer}
+.lvt .lg summary::-webkit-details-marker{display:none}
+.lvt .lg summary:hover{text-shadow:0 0 5px var(--c-warn)}
+.lvt .lgd{margin-top:6px;background:rgba(0,0,0,0.3);padding:6px 8px;border-left:2px solid var(--c-accent-dim)}
+.lvt .lr{display:block;font-family:var(--font-mono);font-size:10px;color:var(--c-text-dim);line-height:1.5;border-bottom:1px dashed rgba(255,255,255,0.03);padding:2px 0}
+.lvt .ll{color:var(--c-accent);margin-right:4px;font-weight:bold}
+.lvt .pw{border-left-color:rgba(255,42,42,0.3)}
+.lvt .pw::before{border-color:var(--c-doom-red);box-shadow:0 0 8px rgba(255,42,42,0.4)}
+.lvt .pw:hover::before{background:var(--c-doom-red)}
+.lvt .pw .yr{color:var(--c-doom-red);text-shadow:0 0 8px rgba(255,42,42,0.5)}
+.lvt .pf{border-left-color:rgba(255,174,0,0.3)}
+.lvt .pf::before{border-color:var(--c-warn);background:var(--c-warn)}
+.lvt .pf .yr{color:var(--c-warn)}
+.lvt a{color:var(--c-accent)}
+.lvt::-webkit-scrollbar{width:4px}
+.lvt::-webkit-scrollbar-track{background:rgba(0,0,0,0.3)}
+.lvt::-webkit-scrollbar-thumb{background:var(--c-doom-red);border-radius:2px}
 </style>
 </head>
 <body>
@@ -844,11 +875,227 @@ body {
         <span style="color: var(--c-text-dim);">→ 2028/01/09</span><br>
         Asarah B'Tevet 聖殿被毀日<br>
         「等到1335日的，那人便為有福」<br>
-        詛咒終變祝福
+                詛咒終變祝福
+      </div>
+    </div>
+  </div>
+  <div class="info-card" style="border-color: rgba(255,42,42,0.3);">
+    <div class="card-header" style="border-color: rgba(255,42,42,0.3);">
+      <span class="card-icon">🔥</span>
+      <span class="card-title" style="color: var(--c-doom-red);">VERTICAL TIMELINE // CLASSIFIED</span>
+    </div>
+    <div class="card-body" style="padding: 0;">
+      <div class="lvt">
+        <div class="en">
+          <div class="yr">2019-12-01 · DAY 000</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://newscenter.lbl.gov/wp-content/uploads/2020/05/49557550781_6b35cff987_o.jpg"/></div>
+          <div class="et">🦠 白馬啟動：七年起點</div>
+          <div class="ed">生:死 · 善:惡:偽善 · 真:假<br>真救贖:假拯救 · 真白馬:假白馬 · 真基督:假基督</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> VERSE:</span>啟示錄 6:2 假白馬騎士持弓投毒</span>
+            <span class="lr"><span class="ll">> POISON:</span>邪術:聖經原文 > 瘟疫中的(藥物)</span>
+            <span class="lr"><span class="ll">> BIO:</span>mRNA刺突蛋白損血管內壁重構內管道</span>
+            <span class="lr"><span class="ll">> MARK:</span>獸印元件一：血管網絡鋪設</span>
+            <span class="lr"><span class="ll">> CODE:</span>Vaccination = 666 (Vac.Sin.Nationing)</span>
+            <span class="lr"><span class="ll">> STATUS:</span>前三年半正式開啟，假白馬時期</span>
+            <span class="lr"><span class="ll">> WEAPON:</span>Toxon（弓＝毒素）→ 疫苗 > 貼片 > 晶片</span>
+          </div></details>
+        </div>
+        <div class="en">
+          <div class="yr">2020-12-01 · 450 DAYS</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://www.aljazeera.com/wp-content/uploads/2020/11/2020-11-09T114528Z_401439984_RC2NZJ9UB98H_RTRMADP_3_HEALTH-CORONAVIRUS-VACCINES-PFIZER.jpg?resize=1920%2C1440"/></div>
+          <div class="et">🕊️ 第一印：大規模爆發</div>
+          <div class="ed">全球疫情爆發 · 疫苗緊急法，救今生，喪永恆<br>路加福音 17:33 凡想要保全生命的，必喪掉生命</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> TIME:</span>尼布甲尼撒七期・人變獸的過程</span>
+            <span class="lr"><span class="ll">> NOTICE:</span>20191201 > 20201201 十二個月通知期結束</span>
+            <span class="lr"><span class="ll">> SYS:</span>健康碼、疫苗護照系統奠基</span>
+            <span class="lr"><span class="ll">> TECH:</span>獸印元件：mRNA → 熒光素酶貼片 → 人工晶片</span>
+          </div></details>
+        </div>
+        <div class="en pw">
+          <div class="yr">2022-02-24 · 405 DAYS</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://www.atlanticcouncil.org/wp-content/uploads/2022/04/2022-04-17T173359Z_1852816522_RC2ZOT9TOINT_RTRMADP_3_UKRAINE-CRISIS-MARIUPOL-scaled-e1650478917345.jpg"/></div>
+          <div class="et">⚔️ 第二印：紅馬：戰爭爆發</div>
+          <div class="ed">俄烏全面戰爭 · 國攻打國，奪去太平<br>全球供應鏈斷裂 · 糧產國的人為戰爭</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> VERSE:</span>啟示錄 6:4 紅馬拿大刀，奪去太平</span>
+            <span class="lr"><span class="ll">> VERSE:</span>馬可福音 13:7 打仗風聲，末期尚未到</span>
+            <span class="lr"><span class="ll">> NEXT:</span>新冠+1年+450日+405日 → 俄烏戰</span>
+            <span class="lr"><span class="ll">> IMPACT:</span>主要糧產國的人為戰爭 · 預備進入黑馬</span>
+          </div></details>
+        </div>
+        <div class="en">
+          <div class="yr">2023-04-05 · 270 DAYS</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://www.shutterstock.com/image-vector/2023-economy-recession-global-business-260nw-2214924103.jpg"/></div>
+          <div class="et">💸 第三印：黑馬：經濟衰退</div>
+          <div class="ed">全球經濟危機 · 加息 QE→QT<br>Recession → Depression → CBDC 電子貨幣的過程</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> VERSE:</span>啟示錄 6:5-6 黑馬；手持天平；一錢銀子買一升麥子</span>
+            <span class="lr"><span class="ll">> VERSE:</span>逾越節：以色列取去埃及的金銀</span>
+            <span class="lr"><span class="ll">> LINK:</span>為後期「不能買賣」獸印系統鋪路</span>
+            <span class="lr"><span class="ll">> TIME:</span>2019新冠 → 2022俄烏 → 2023逾越節</span>
+          </div></details>
+        </div>
+        <div class="en">
+          <div class="yr">2023-12-31 · 135 DAYS</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Damage_of_2023_Noto_earthquake_swarm_01.jpg"/></div>
+          <div class="et">💀 第四印：灰馬：死亡</div>
+          <div class="ed">能登半島大地震<br>Noto peninsula = 705 (Hebrew Gematria)</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> VERSE:</span>啟示錄 6:8 灰馬名為「死」· 權柄殺害地上四分之一</span>
+            <span class="lr"><span class="ll">> CODE:</span>Noto peninsula = 705</span>
+            <span class="lr"><span class="ll">> DECODE:</span>Total collapse of america · Cyber Attack · Olympic Games</span>
+          </div></details>
+        </div>
+        <div class="en pf">
+          <div class="yr">2024-04-22 · PASSOVER</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20230604__33DY7FL__v1__HighRes__IsraelPalestinianConflictReligionJerusalem-1712155456.jpg?w=770&resize=770%2C513&quality=80"/></div>
+          <div class="et">🐄 獻祭止息</div>
+          <div class="ed">2000年來首次合格紅母牛，卻因衝突致使潔淨儀式中斷<br>但以理書 11:31 除掉常獻的燔祭，設立那行毀壞可憎的</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> VERSE:</span>但以理 12:11 除掉常獻燔祭，必有1290日</span>
+            <span class="lr"><span class="ll">> EVENT:</span>逾越節：應獻卻未獻的祭</span>
+            <span class="lr"><span class="ll">> ROOT:</span>2023/10/07 哈馬斯「阿克薩洪水」→ 因紅母牛送抵以色列</span>
+            <span class="lr"><span class="ll">> RESULT:</span>2024/04/22 祭祀和供獻止息</span>
+            <span class="lr"><span class="ll">> WORD:</span>止息 (שָׁבַת) Shabath：暫時中止，非永久終結</span>
+            <span class="lr"><span class="ll">> PROOF:</span>2025/04/15 以色列安排500人逾越節獻祭</span>
+            <span class="lr"><span class="ll">> EVENT:</span>2025年7月 以色列焚燒了紅母牛</span>
+          </div></details>
+        </div>
+        <div class="en pf">
+          <div class="yr">2024-05-14 · DAY 1260</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://www.gov.il/BlobFolder/news/israel-76-years-of-independence-13-may-2024/en/English_HOLIDAYS_2024_Independence-Day-2024.jpg"/></div>
+          <div class="et">🕍 第1260日：一七之半：靈性背棄</div>
+          <div class="ed">以色列獨立日 · 國家選擇了可薩教巴力，而非耶和華<br>前三年半結束 · 由新冠一年後到此，剛好1260日</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> CODE:</span>獨立日數字 668</span>
+            <span class="lr"><span class="ll">> MIRROR:</span>靈性背棄鏡像：後來全家得救</span>
+            <span class="lr"><span class="ll">> STATUS:</span>後三年半開始，兩見證人預備</span>
+            <span class="lr"><span class="ll">> VERSE:</span>但以理書 9:27 一七之半，祭祀與供獻止息</span>
+            <span class="lr"><span class="ll">> FULFILL:</span>回應 2024/04/22 逾越節</span>
+          </div></details>
+        </div>
+        <div class="en pw">
+          <div class="yr">2024-06-13 · DAY 1290</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://images.squarespace-cdn.com/content/v1/64381f7cc440680dc9ed301d/cb0290be-2cee-42b6-abd7-79a1b7b995f7/AdobeStock_622046735.jpeg"/></div>
+          <div class="et">🌾 第1290日：死亡的收割節</div>
+          <div class="ed">七七節翌日 · 假五旬節啟動<br>先是死亡收割，後是生命收藏</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> MIRROR:</span>一七之半落在收割節</span>
+            <span class="lr"><span class="ll">> PROPHECY:</span>兩個見證人已正式出現傳道</span>
+            <span class="lr"><span class="ll">> FOCUS:</span>七七節：一七之半的關鍵分界線</span>
+            <span class="lr"><span class="ll">> ADVENT-I:</span>基督第一次來：僅宣讀以賽亞書「上半句」</span>
+            <span class="lr"><span class="ll">> ADVENT-II:</span>基督第二次來：補全以賽亞書「下半句」</span>
+          </div></details>
+        </div>
+        <div class="en">
+          <div class="yr">2024-07-26 · SIGN</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://upload.cc/i1/2026/01/26/tpEMbI.png"/></div>
+          <div class="et">🏅 褻瀆暗示：五印預影</div>
+          <div class="ed">不法的隱意展開<br>Mpox = 440 (敵基督的眾數) · Jynneos = 食屍者</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> EVENT:</span>Rwanda · MPOX首針</span>
+            <span class="lr"><span class="ll">> CODE:</span>Mpox = 440 (敵基督的眾數)</span>
+            <span class="lr"><span class="ll">> MEANING:</span>Jynneos = 食屍者 = 陰府的隱意</span>
+          </div></details>
+        </div>
+        <div class="en pw">
+          <div class="yr">2025-01-21 · 6TH SEAL</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://static01.nyt.com/images/2025/01/29/multimedia/29catoday-onsite-lhkc/29catoday-onsite-lhkc-articleLarge.jpg?quality=75&auto=webp&disable=upscale"/></div>
+          <div class="et">🌑 第六印：天象異常</div>
+          <div class="ed">西藏地震 + 加州大火 · 日黑月紅<br>死亡從 1/4 蔓延至 1/3</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> VERSE:</span>啟示錄 6:12 大地震，日頭變黑如蒙毛布，滿月變紅</span>
+            <span class="lr"><span class="ll">> EVENT:</span>2025/01/07 上午 西藏日喀則 7.1 級大地震</span>
+            <span class="lr"><span class="ll">> EVENT:</span>2025/01/07 黃昏 南加州帕利塞茲毀滅性大火</span>
+            <span class="lr"><span class="ll">> MATCH:</span>「地大震動」+「日頭變黑像毛布」</span>
+            <span class="lr"><span class="ll">> OBSERVE:</span>從東方(上午)到西方(黃昏)，災難隨日頭軌跡而行</span>
+          </div></details>
+        </div>
+        <div class="en">
+          <div class="yr">2025-04-30 · SILENCE</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://upload.cc/i1/2026/01/26/PERaZ4.png"/></div>
+          <div class="et">🕊️ 第七印：天上寂靜二刻：90日寬限</div>
+          <div class="ed">以色列陣亡將士紀念日 · 短暫的寧靜</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> TIME:</span>約90日的寬限期</span>
+            <span class="lr"><span class="ll">> GEMATRIA:</span>關稅(Tariff) = 紅母牛(Red Heifer)</span>
+            <span class="lr"><span class="ll">> GEMATRIA:</span>委內瑞拉(Venezuela) = 666 : 111</span>
+            <span class="lr"><span class="ll">> GEMATRIA:</span>格陵蘭(Greenland) = 關稅 = 紅母牛</span>
+            <span class="lr"><span class="ll">> SEQUENCE:</span>天上寂靜二刻＝90日 · 關稅兩次延後90日</span>
+            <span class="lr"><span class="ll">> NAME:</span>第一次來 Yeshu(欠缺) → 第二次來 Yeshua(完整)</span>
+            <span class="lr"><span class="ll">> CALC:</span>四印數字＝一七之半 · 十災＝1260 · 七碗＝30＝1290</span>
+            <span class="lr"><span class="ll">> WARNING:</span>獸印便不遠了</span>
+          </div></details>
+        </div>
+        <div class="en pw">
+          <div class="yr">2025-06-13 · WAR</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://static-cdn.toi-media.com/www/uploads/2025/06/AP25166575224202.jpg"/></div>
+          <div class="et">⚔️ 一載後：以伊戰爭</div>
+          <div class="ed">以色列空襲伊朗 · 死亡收割加速<br>關稅通脹與新瘟疫同步</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> VERSE:</span>馬可福音 13:8 國攻打國</span>
+            <span class="lr"><span class="ll">> SEQUENCE:</span>刀劍 → 饑荒 → 新瘟疫</span>
+            <span class="lr"><span class="ll">> DATE:</span>2024/06/13 [1290日] → 2025/06/13 [一載] → 2027/06/13 [二載]</span>
+            <span class="lr"><span class="ll">> DATE:</span>2027/12/13 [半載] → 2028/01/09 [1335日] 終局</span>
+            <span class="lr"><span class="ll">> JUBILEE:</span>2027年：基督受洗後第40個禧年</span>
+          </div></details>
+        </div>
+        <div class="en">
+          <div class="yr">2025-07-01 · RITUAL</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://mycharisma.com/wp-content/uploads/2025/07/Red-heifer.jpg"/></div>
+          <div class="et">🐄 紅母牛：焚燒</div>
+          <div class="ed">2000年來首次焚燃紅母牛，卻稱五頭全失資格<br>和平假象</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> PROPHECY:</span>第三聖殿預期</span>
+            <span class="lr"><span class="ll">> RESULT:</span>「不合格」：選用之牛與地點未達《民數記》標準</span>
+            <span class="lr"><span class="ll">> TENSION:</span>哈馬斯曾稱：紅母牛運入以色列是以哈戰爭導火索之一</span>
+            <span class="lr"><span class="ll">> NEXT:</span>正式儀式將於橄欖山舉行，直視聖殿山</span>
+          </div></details>
+        </div>
+        <div class="en pw">
+          <div class="yr">2025-10-01 · ECOLOGY</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://upload.cc/i1/2026/01/26/cLuBjh.png"/></div>
+          <div class="et">🌊 第二號：海變血</div>
+          <div class="ed">火燒大山扔入海中 · 生態浩劫<br>義與惡徹底分離</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> VERSE:</span>啟示錄 8:8-9</span>
+            <span class="lr"><span class="ll">> TOLL:</span>海中生物死1/3，船隻毀1/3</span>
+            <span class="lr"><span class="ll">> POWER:</span>2026-2028年，將迎來急劇變化</span>
+          </div></details>
+        </div>
+        <div class="en pf">
+          <div class="yr">FUTURE · FINAL</div>
+          <div class="ei"><div class="sl"></div><img alt="" src="https://upload.cc/i1/2026/01/22/S3vlqd.jpeg"/></div>
+          <div class="et">✨ 義惡收割：至快鐮刀</div>
+          <div class="ed">大星墜落，水變苦 · 獸印從勸導轉為強制<br>義惡各自收割</div>
+          <details class="lg"><summary>ACCESS SYSTEM DATA [ + ]</summary>
+          <div class="lgd">
+            <span class="lr"><span class="ll">> EVENT:</span>大星墜落 (第三號) · 獸印完全強制化</span>
+            <span class="lr"><span class="ll">> CHOICE:</span>人的義 vs 神的義</span>
+            <span class="lr"><span class="ll">> WARNING:</span>不要效法世界，看守衣服</span>
+          </div></details>
+        </div>
       </div>
     </div>
   </div>
 </section>
+<!-- 右欄：聖經資源 -->
 
 <!-- 右欄：聖經資源 -->
 <section class="column column-right">
