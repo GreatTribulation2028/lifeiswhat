@@ -1,4 +1,4 @@
-window.DATA_2026 = `
+var DATA_2026 = `
 3/1/2026	https://news.tvb.com/sc/world/6957829bc26d920e364a6f6a/%E5%9B%BD%E9%99%85-%E6%82%89%E5%B0%BC%E6%B5%B7%E7%81%98%E5%85%83%E6%97%A6%E7%99%BC%E7%94%9F%E5%A4%9A%E5%AE%97%E9%81%87%E6%BA%BA%E4%BA%8B%E4%BB%B6-%E4%B8%89%E6%AD%BB%E5%85%A9%E5%A4%B1%E8%B9%A4%E5%8C%85%E6%8B%AC%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9C%8B%E4%BA%BA	(常拍片科普醫學 網紅醫生凌晨猝死 死後漲粉2萬) 
 3/1/2026	https://www.sbs.com.au/language/chinese/zh-hant/article/multiple-drowning-deaths-in-horrendous-start-to-2026/q0uemsyoj	【2026年剛開始】澳洲各地發生多宗遇溺死亡事件
 3/1/2026	https://www.stheadline.com/film-drama/3532077/46%E6%AD%B2%E8%91%97%E5%90%8D%E7%9C%9F%E4%BA%BA%E9%A8%B7%E7%94%B7%E6%98%9F%E9%99%A4%E5%A4%95%E5%A4%9C%E9%9B%A2%E5%A5%87%E6%AD%BB%E4%BA%A1-%E5%B1%8D%E8%BA%AB%E9%80%B2%E8%A1%8C%E8%A7%A3%E5%89%96%E7%A0%94%E7%A9%B6%E6%AD%BB%E5%9B%A0-%E7%AF%80%E7%9B%AE%E9%82%AA%E9%96%80%E4%B8%80%E5%80%8B%E6%9C%88%E5%85%A72%E4%BA%BA%E9%9B%A2%E4%B8%96	46歲著名真人騷男星除夕夜離奇死亡 屍身進行解剖研究死因 節目邪門一個月內2人離世
@@ -867,5 +867,6 @@ window.DATA_2026 = `
 25/2/2026	https://m.sohu.com/a/990181769_355158?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	旅客突發暈倒，列車工作人員緊急救助化險為夷
 25/2/2026	https://www.i-meihua.com/Article/Detail/44364	國情諮文中闡述可能動武理由　川普：伊朗散播恐怖主義、死亡與仇 ｜梅花新聞網 邱啟霖/綜合報導｜ 梅花新聞網
 25/2/2026	https://www.worldjournal.com/wj/story/121341/9345924	港23歲女督察 警署吞槍自盡亡 早上還與同僚一起吃早餐 ｜ 世界新聞網
+
 
 `;
