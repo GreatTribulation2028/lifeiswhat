@@ -1,4 +1,4 @@
-window.DATA_2022 = `
+var DATA_2022 = `
 10/1/2022	https://www.hk01.com/%E7%AA%81%E7%99%BC/722459/%E8%A5%BF%E7%92%B0%E8%A7%80%E9%BE%8D%E6%A8%93%E6%B8%85%E6%BD%94%E5%B7%A5%E5%8D%87%E9%99%8D%E6%A9%9F%E5%85%A7%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	西環觀龍樓清潔工升降機內暈倒　昏迷送院搶救
 12/1/2022	https://www.hk01.com/%E7%AA%81%E7%99%BC/723103/%E5%9F%8E%E5%A4%A7%E5%A5%B3%E7%94%9F%E8%BA%AB%E9%AB%94%E4%B8%8D%E9%81%A9%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2	城大女生身體不適暈倒送院
 15/1/2022	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20220115/s00001/1642243000228/%E7%94%B7%E5%AD%90%E8%B5%A4%E6%9F%B1%E8%A1%8C%E5%B1%B1%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	(男子秀茂坪墮橋昏迷送院) 
@@ -2311,5 +2311,6 @@ window.DATA_2022 = `
 31/12/2022	https://www.hk01.com/article/852825?utm_source=01articlecopy&utm_medium=referral	傳湖南2工人跨年夜被迫清糞池身亡　官方：非強令，僅1人發生意外
 31/12/2022	https://www.epochtimes.com/b5/22/12/30/n13895623.htm	楊寧：唱紅歌要去見毛 南京歌友染疫後一語成讖 ｜ 染疫病亡 ｜ 膜拜毛 ｜ 洗腦 ｜ 大紀元
 31/12/2022	https://hk.on.cc/hk/bkn/cnt/intnews/20221231/bkn-20221231174143549-1231_00992_001.html	榮休教宗本篤十六世病逝　終年95歲
+
 
 `;
