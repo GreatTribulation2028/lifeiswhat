@@ -101,8 +101,7 @@ display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap
 .btn:hover{background:var(--c-accent);color:#000;box-shadow:0 0 25px var(--c-accent)}
 
 /* ===== Main 三欄 ===== */
-main{position:relative;z-index:10;display:grid;grid-template-columns:1fr 340px;gap:10px;padding:10px;min-height:calc(100vh - 200px)}
-main > .panel:first-child{order:3;grid-column:1 / -1}
+main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 340px;gap:10px;padding:10px;min-height:calc(100vh - 200px)}
 main > .panel:nth-child(1){order:1}
 main > .panel:nth-child(2){order:2}
 main > .panel:nth-child(3){order:3}
