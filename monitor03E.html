@@ -89,6 +89,8 @@ display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap
 .life-stat-box .stat-value{font-family:var(--f-head);font-size:1.2rem;color:#fff}
 .life-stat-box .stat-label{font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)}
 .life-card .result{font-size:12px;color:#888;margin-top:10px;line-height:1.6}
+/* 隱藏原位貼上區（已移至頁底） */
+.life-tools + .paste-zone{display:none}
 
 /* ===== 貼上區 ===== */
 .paste-zone{position:relative;z-index:10;background:rgba(10,15,20,.95);padding:20px;border-bottom:1px solid var(--c-border)}
@@ -100,6 +102,9 @@ display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap
 
 /* ===== Main 三欄 ===== */
 main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 340px;gap:10px;padding:10px;min-height:calc(100vh - 200px)}
+main > .panel:nth-child(1){order:3}
+main > .panel:nth-child(2){order:2}
+main > .panel:nth-child(3){order:1}
 .panel{background:var(--c-panel);border:1px solid var(--c-border);border-radius:8px;display:flex;flex-direction:column;overflow:hidden;backdrop-filter:blur(10px)}
 .p-head{background:linear-gradient(90deg,rgba(0,0,0,.6),rgba(10,20,30,.6));padding:12px 16px;border-bottom:1px solid var(--c-border);font-family:var(--f-mono);font-size:12px;color:var(--c-accent);display:flex;justify-content:space-between;align-items:center}
 
@@ -604,6 +609,18 @@ header{flex-direction:column;text-align:center;gap:15px}
 </div>
 </div>
 </div>
+<!-- 貼上區（置底） -->
+<div class="paste-zone">
+<textarea id="paste-input" class="paste-area" placeholder="把資料貼在這裡（日期 TAB 網址 TAB 標題）
+或等待自動載入 data-YYYY.js / data-today.js"></textarea>
+<div class="paste-buttons">
+<button class="btn" onclick="loadPastedData()">📥 載入貼上內容</button>
+<button class="btn" onclick="document.getElementById('file-input').click()">📂 選擇檔案</button>
+<button class="btn" onclick="exportSnapshot()">💾 匯出 HTML</button>
+<button class="btn" onclick="toggleMourningMode()">🕯️ 默哀模式</button>
+<input type="file" id="file-input" accept=".txt,.tsv,.js" style="display:none" onchange="handleFile(event)">
+</div>
+</div>
 <!-- 跑馬燈 -->
 <footer id="doom-footer"><div id="footer-text">◈ 生死只在一線之間，一息尚存萬事可期，一息已斷萬事皆空 ◈ 今生與永恆，警醒與昏沉，你選擇哪一邊？ ◈ 全球大重置 2017→2027 · 第四次工業革命 · Great Reset ◈ (2019-2028) → 瘟疫 → 戰爭 → 持續健康惡化 → 2026-2028 更嚴峻 ◈ 第40個禧年 → 末次號筒 → 七年大災難 ◈ 「其實明天如何，你們還不知道。你們的生命是甚麼呢？你們原來是一片雲霧，出現少時就不見了。」— 雅各書 4:14 ◈ 「人若賺得全世界，賠上自己的生命，有甚麼益處呢？」— 馬太福音 16:26 ◈ 按著定命，人人都有一死，死後且有審判 — 希伯來書 9:27</div></footer>
 <button id="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="回到頂端">↑</button>
@@ -668,7 +685,10 @@ function extractAge(t){
 function safeDecode(s){ try{return decodeURIComponent((s||'').replace(/\+/g,' '))}catch{return s||''} }
 
 function parseData(raw){
-  const lines=(raw||'').split(/\r?\n/).filter(l=>l.trim());
+  // 預處理：去除 URL 的 < > 包裹；將單行資料按日期模式拆分為多行
+  let text = (raw||'').replace(/<(https?:\/\/[^>]+)>/g, '$1');
+  text = text.replace(/ +(?=\d{1,2}\/\d{1,2}\/\d{4}\t)/g, '\n');
+  const lines=text.split(/\r?\n/).filter(l=>l.trim());
   const events=[];
   for(const line of lines){
     if(/^日期/.test(line.trim()))continue;
