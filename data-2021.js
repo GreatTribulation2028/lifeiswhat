@@ -1,4 +1,4 @@
-window.DATA_2021 = `
+var DATA_2021 = `
 18/6/2021	https://www.hk01.com/sns/article/639692	紅磡樂民新村4歲男童昏迷　獲送院搶救
 11/10/2021	https://www.hk01.com/sns/article/687485	13歲女童沙田住所內昏迷　送院後不治
 12/10/2021	https://www.scmp.com/news/hong-kong/law-and-crime/article/3151991/doctor-dies-hong-kong-after-being-found-unconscious	Doctor dies after being found unconscious on Hong Kong hospital bed
@@ -16,4 +16,5 @@ window.DATA_2021 = `
 21/12/2021	https://topick.hket.com/article/3136385/%E3%80%90%E5%B1%8D%E9%AB%94%E7%99%BC%E7%8F%BE%E6%A1%88%E3%80%91%E7%9F%B3%E6%BE%B3%E6%B3%B3%E7%81%98%E7%8F%BE%E8%BA%AB%E4%BB%BD%E4%B8%8D%E6%98%8E%E6%B5%AE%E5%B1%8D%E3%80%80%E6%AD%BB%E5%9B%A0%E6%9C%89%E5%BE%85%E8%AA%BF%E6%9F%A5	【屍體發現案】石澳泳灘現身份不明浮屍　死因有待調查
 23/12/2021	https://www.hk01.com/%E7%AA%81%E7%99%BC/716053/%E7%B2%89%E5%B6%BA%E8%B6%B3%E7%90%83%E5%A0%B4%E5%85%AD%E6%97%AC%E6%BC%A2%E8%B8%A2%E6%B3%A2%E6%9C%9F%E9%96%93%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	粉嶺足球場六旬漢踢波期間暈倒　送院不治
 28/12/2021	https://www.hk01.com/%E7%AA%81%E7%99%BC/717456/%E9%95%B7%E6%B2%99%E7%81%A3%E6%B3%B0%E7%B1%8D%E5%A5%B3%E7%8D%A8%E5%B1%85%E6%B4%97%E8%A1%A3%E5%BA%97-%E5%8F%8B%E4%BA%BA%E7%99%BB%E9%96%80%E6%8F%AD%E4%B8%8D%E6%B2%BB	長沙灣泰籍女獨居洗衣店　友人登門揭不治
+
 `;
