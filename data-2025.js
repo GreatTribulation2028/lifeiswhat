@@ -1,4 +1,4 @@
-window.DATA_2025 = `
+var DATA_2025 = `
 1/1/2025	https://www.hk01.com/article/1089903?utm_source=01articlecopy&utm_medium=referral	好人好事｜美孚新村停車場對開男子抽搐倒地　獲途人急救救一命
 1/1/2025	https://www.hk01.com/article/1089811?utm_source=01articlecopy&utm_medium=referral	西貢萬宜水庫男子偕妻踏單車突暈倒　昏迷送院搶救後不治
 1/1/2025	https://www.hk01.com/article/1090031?utm_source=01articlecopy&utm_medium=referral	機場離境大堂45歲印度婦暈倒　送院後不治
@@ -3536,5 +3536,6 @@ window.DATA_2025 = `
 31/12/2025	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E8%90%BD%E9%A6%AC%E6%B4%B2%E4%B9%9D%E6%97%AC%E5%A9%A6%E9%A3%B2%E6%A9%99%E6%B1%81%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB/632208	落馬洲九旬婦飲橙汁暈倒　送院搶救不治 ｜ am730
 31/12/2025	https://money.udn.com/money/story/122328/9237001?from=edn_search_tag_result	跨年夜低溫又下雨恐釀猝死 醫示警：喝酒狂歡「酒後寒」最危險 ｜ 生活 ｜ 要聞 ｜ 經濟日報
 31/12/2025	https://health.ettoday.net/news/3093244	跨年濕冷喝酒陷「失溫、猝死」危機　出現6症狀速就醫
+
 
 `;
