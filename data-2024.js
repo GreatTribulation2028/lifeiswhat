@@ -1,4 +1,4 @@
-window.DATA_2024 = `
+var DATA_2024 = `
 1/1/2024	https://hk.on.cc/hk/bkn/cnt/news/20240101/bkn-20240101103831432-0101_00822_001.html	山景邨單位傳異味　消防破門揭女子倒斃屋內
 1/1/2024	https://www.hk01.com/article/976621?utm_source=01articlecopy&utm_medium=referral	石鼓洲戒毒中心戒毒漢游水遇溺昏迷　直升機救起送院搶救不治
 1/1/2024	https://udn.com/news/story/121721/7663377	來不及和好、說愛…和爸爸冷戰父卻猝逝 她醒悟「爸媽不會永遠在，說愛要及時！」
@@ -745,5 +745,6 @@ window.DATA_2024 = `
 28/12/2024	https://www.hk01.com/article/60240633?utm_source=01articlecopy&utm_medium=referral	威院地盤工疑中暑亡｜送院身體已僵硬　家屬質疑失救　父泣求交代
 29/12/2024	https://www.hk01.com/article/1089016?utm_source=01articlecopy&utm_medium=referral	擁近300萬粉絲　女網紅「咖啡」患大腸癌抗爭8個月離世　年僅29歲
 31/12/2024	https://www.hk01.com/article/1089368?utm_source=01articlecopy&utm_medium=referral	2024年回顧．圖輯｜細數離世名人　鳥山明Liam Payne驟逝震驚全球
+
 
 `;
