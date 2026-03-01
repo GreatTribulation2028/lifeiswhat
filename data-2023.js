@@ -1,4 +1,4 @@
-window.DATA_2023 = `
+var DATA_2023 = `
 1/1/2023	https://www.163.com/dy/article/HQ1512HH0553Y8ZS.html?f=post2020_dy_recommends	(女銀行家注射Botox針後亡 辯方質疑救護做法不當) 
 1/1/2023	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20230101/s00001/1672535635128/%E5%B0%87%E8%BB%8D%E6%BE%B3%E5%81%A5%E6%98%8E%E9%82%A8%E5%A5%B3%E5%AD%90%E7%96%91%E5%A2%AE%E6%A8%93%E4%BA%A1	(將軍澳峽者女子墮樓 送院不治) 
 1/1/2023	https://tw.news.yahoo.com/%E8%B3%87%E6%B7%B1%E7%94%B7%E6%98%9F-%E5%9C%8B%E6%B0%91%E8%80%81%E7%88%B8-%E5%85%83%E6%97%A6%E7%8C%9D%E9%80%9D-%E4%BA%AB%E5%A3%BD84%E6%AD%B2-%E5%A5%B3%E6%98%9F%E7%97%9B%E5%96%8A-055330135.html	(資深日男星 凌晨猝死 呼吸衰竭身亡 享壽65歲) 
@@ -1342,5 +1342,6 @@ window.DATA_2023 = `
 31/12/2023	https://hk.on.cc/hk/bkn/cnt/news/20231231/bkn-20231231171650958-1231_00822_001.html	跑馬地男子墮樓　送院返魂乏術
 31/12/2023	https://hk.on.cc/hk/bkn/cnt/news/20231231/bkn-20231231160517852-1231_00822_001.html	藍田德田邨八旬翁墮樓　當場斃命
 31/12/2023	https://hk.on.cc/hk/bkn/cnt/news/20231231/bkn-20231231050727931-1231_00822_001.html	寶達邨男子墮樓　倒斃簷篷
+
 
 `;
