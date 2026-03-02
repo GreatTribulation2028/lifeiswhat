@@ -26,8 +26,8 @@
   --c-blood: #8b0000;
   --c-warn: #ffae00;
   --c-success: #00ff41;
-  --c-text: #e8e8e8;
-  --c-text-dim: #aaaaaa;
+  --c-text: #f2f2f2;
+  --c-text-dim: #cccccc;
   --c-border: rgba(0,243,255,0.2);
 
   --font-mono: 'Share Tech Mono', monospace;
@@ -252,13 +252,13 @@ body {
 .timeline-content { flex: 1; }
 .timeline-title {
   font-family: var(--font-display);
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 600;
   color: var(--c-text);
   letter-spacing: 1px;
   margin-bottom: 3px;
 }
-.timeline-desc { font-size: 13px; color: var(--c-text-dim); line-height: 1.4; }
+.timeline-desc { font-size: 14px; color: var(--c-text); line-height: 1.5; }
 
 /* 資訊卡片 */
 .info-card {
@@ -276,29 +276,29 @@ body {
   border-bottom: 1px solid var(--c-border);
 }
 .card-icon { font-size: 16px; }
-.card-title { font-family: var(--font-display); font-size: 12px; font-weight: 700; color: var(--c-accent); letter-spacing: 1px; }
+.card-title { font-family: var(--font-display); font-size: 13px; font-weight: 700; color: var(--c-accent); letter-spacing: 1px; }
 .card-body { padding: 15px; }
 
 /* 七災年卡片 */
 .tribulation-flow { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 15px; }
-.flow-item { padding: 5px 12px; background: rgba(0,243,255,0.1); border: 1px solid var(--c-accent-dim); border-radius: 4px; font-size: 12px; color: var(--c-accent); }
+.flow-item { padding: 5px 12px; background: rgba(0,243,255,0.1); border: 1px solid var(--c-accent-dim); border-radius: 4px; font-size: 13px; color: var(--c-accent); }
 .flow-item.fatal { background: rgba(255,42,42,0.2); border-color: var(--c-doom-red); color: var(--c-doom-red); font-weight: 700; }
 .flow-arrow { color: var(--c-text-dim); font-size: 14px; }
-.verse-highlight { padding: 12px; background: rgba(255,42,42,0.1); border-left: 3px solid var(--c-doom-red); font-size: 12px; line-height: 1.6; color: var(--c-text); }
+.verse-highlight { padding: 12px; background: rgba(255,42,42,0.1); border-left: 3px solid var(--c-doom-red); font-size: 13px; line-height: 1.6; color: var(--c-text); }
 .verse-ref { display: block; margin-top: 8px; font-size: 10px; color: var(--c-doom-red); text-align: right; }
 
 /* Great Reset 卡片 */
 .reset-list { list-style: none; padding: 0; }
-.reset-list li { padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 12px; color: var(--c-text-dim); padding-left: 15px; position: relative; }
+.reset-list li { padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 13px; color: var(--c-text); padding-left: 15px; position: relative; }
 .reset-list li::before { content: '▸'; position: absolute; left: 0; color: var(--c-accent); }
 .reset-list li:last-child { border-bottom: none; }
 .reset-list li.highlight { color: var(--c-warn); font-weight: 500; }
 
 /* 經文輪播卡片 */
-.verse-rotate-display { font-size: 14px; line-height: 1.8; color: var(--c-doom-red); text-shadow: 0 0 10px rgba(255,42,42,0.3); min-height: 60px; transition: opacity 0.5s; }
+.verse-rotate-display { font-size: 15px; line-height: 1.8; color: var(--c-doom-red); text-shadow: 0 0 10px rgba(255,42,42,0.3); min-height: 60px; transition: opacity 0.5s; }
 
 /* 獸印警告卡片 */
-.mark-warning { padding: 12px; background: rgba(255,42,42,0.1); border: 1px solid rgba(255,42,42,0.3); border-radius: 4px; font-size: 12px; line-height: 1.6; color: var(--c-text); margin-bottom: 12px; }
+.mark-warning { padding: 12px; background: rgba(255,42,42,0.1); border: 1px solid rgba(255,42,42,0.3); border-radius: 4px; font-size: 13px; line-height: 1.6; color: var(--c-text); margin-bottom: 12px; }
 .mark-flow { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; font-size: 10px; color: var(--c-text-dim); }
 .mark-flow span { padding: 3px 8px; background: rgba(0,0,0,0.5); border-radius: 3px; }
 .mark-flow .danger { background: rgba(255,42,42,0.2); color: var(--c-doom-red); font-weight: 700; }
@@ -308,7 +308,7 @@ body {
 .bible-link { display: flex; align-items: center; gap: 10px; padding: 10px 12px; background: rgba(0,0,0,0.5); border: 1px solid transparent; border-radius: 6px; text-decoration: none; transition: all 0.3s; }
 .bible-link:hover { background: rgba(0,243,255,0.1); border-color: var(--c-accent); transform: translateX(5px); }
 .link-icon { font-size: 16px; }
-.link-text { font-size: 13px; color: var(--c-text); }
+.link-text { font-size: 14px; color: var(--c-text); }
 .bible-link:hover .link-text { color: var(--c-accent); }
 .bible-link.main-site { background: rgba(255,174,0,0.1); border-color: rgba(255,174,0,0.3); }
 .bible-link.main-site:hover { background: rgba(255,174,0,0.2); border-color: var(--c-warn); }
@@ -508,9 +508,9 @@ body {
 .lvt .en::before{content:'';position:absolute;left:-7px;top:14px;width:12px;height:12px;background:var(--c-bg);border:2px solid var(--c-accent);border-radius:50%;z-index:2;box-shadow:0 0 8px var(--c-accent-dim);transition:all 0.3s}
 .lvt .en:hover::before{background:var(--c-accent);box-shadow:0 0 15px var(--c-accent)}
 .lvt .en:hover{background:rgba(0,243,255,0.03)}
-.lvt .yr{font-family:var(--font-display);font-size:11px;color:var(--c-accent);text-shadow:0 0 8px var(--c-accent);margin-bottom:3px;letter-spacing:1px}
-.lvt .et{font-size:14px;font-weight:700;color:var(--c-text);margin-bottom:5px}
-.lvt .ed{font-size:12px;color:var(--c-text-dim);margin-bottom:6px;line-height:1.5}
+.lvt .yr{font-family:var(--font-display);font-size:12px;color:var(--c-accent);text-shadow:0 0 8px var(--c-accent);margin-bottom:3px;letter-spacing:1px}
+.lvt .et{font-size:15px;font-weight:700;color:var(--c-text);margin-bottom:5px}
+.lvt .ed{font-size:13px;color:var(--c-text);margin-bottom:6px;line-height:1.5}
 .lvt .ei{width:100%;height:130px;overflow:hidden;border:1px solid rgba(255,255,255,0.06);margin-bottom:8px;position:relative}
 .lvt .ei img{width:100%;height:100%;object-fit:cover;filter:grayscale(100%) contrast(1.2);transition:0.3s}
 .lvt .en:hover .ei img{filter:grayscale(0%)}
@@ -520,7 +520,7 @@ body {
 .lvt .lg summary::-webkit-details-marker{display:none}
 .lvt .lg summary:hover{text-shadow:0 0 5px var(--c-warn)}
 .lvt .lgd{margin-top:6px;background:rgba(0,0,0,0.3);padding:6px 8px;border-left:2px solid var(--c-accent-dim)}
-.lvt .lr{display:block;font-family:var(--font-mono);font-size:11px;color:var(--c-text-dim);line-height:1.5;border-bottom:1px dashed rgba(255,255,255,0.03);padding:2px 0}
+.lvt .lr{display:block;font-family:var(--font-mono);font-size:12px;color:var(--c-text);line-height:1.5;border-bottom:1px dashed rgba(255,255,255,0.03);padding:2px 0}
 .lvt .ll{color:var(--c-accent);margin-right:4px;font-weight:bold}
 .lvt .pw{border-left-color:rgba(255,42,42,0.3)}
 .lvt .pw::before{border-color:var(--c-doom-red);box-shadow:0 0 8px rgba(255,42,42,0.4)}
@@ -620,7 +620,7 @@ body {
       </div>
     </div>
     <div style="padding: 8px 12px; background: rgba(255,174,0,0.1); border-radius: 4px; margin: 10px 0; font-size: 10px; color: var(--c-warn);">
-      ▸ 一七之半：獻祭止息・1260日・1290日・(假設以新冠做起點)
+      ▸ 一七之半：獻祭止息・1260日・1290日
     </div>
     <div class="timeline-item year-2024">
       <div class="timeline-year">2024</div>
@@ -681,11 +681,11 @@ body {
         <div class="timeline-desc">2025年06月13日 一載後・收割死亡・灰馬加速・刀劍飢荒瘟疫</div>
       </div>
     </div>
-<!--
+    <!--
     <div class="timeline-item">
       <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
       <div class="timeline-content">
-       <div class="timeline-title">🔥 第一號筒</div>
+        <div class="timeline-title">🔥 第一號筒</div>
         <div class="timeline-desc">08/19 贖罪日前夕・冰雹與火・生態三分之一受損</div>
       </div>
     </div>
@@ -724,7 +724,7 @@ body {
         <div class="timeline-desc">03/02 幼發拉底河・馬軍二萬萬・殺三分之一人</div>
       </div>
     </div>
--->
+    -->
     <div class="timeline-item">
       <div class="timeline-year" style="color: var(--c-warn);">2027</div>
       <div class="timeline-content">
@@ -732,7 +732,7 @@ body {
         <div class="timeline-desc">2027年06/13日 收割節翌日・快鐮刀・</div>
       </div>
     </div>
-<!--
+    <!--
     <div class="timeline-item">
       <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
       <div class="timeline-content">
@@ -740,28 +740,28 @@ body {
         <div class="timeline-desc">06/22 夏至・ 神之奧祕成全・末次號筒等待吹角節</div>
       </div>
     </div>
--->    									
+    -->
     <div class="timeline-item final">
       <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
       <div class="timeline-content">
-        <div class="timeline-title">🎺 吹角節</div>
-        <div class="timeline-desc">2027年10月01日 吹角節・前夕・第四十個禧年</div>
+        <div class="timeline-title">🎺 吹角節・那真光降臨</div>
+        <div class="timeline-desc">10/01 死人復活・第四十個禧年・基督再來</div>
       </div>
     </div>
-<!--
+    <!--
     <div class="timeline-item">
       <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
       <div class="timeline-content">
         <div class="timeline-title">🏺 七碗災難</div>
         <div class="timeline-desc">10/26 距以色列獨立日1260日・最後審判開始</div>
       </div>
-    </div> 
--->
+    </div>
+    -->
     <div class="timeline-item end">
       <div class="timeline-year">2028</div>
       <div class="timeline-content">
-        <div class="timeline-title">一七之半 + ✨ 1335日</div>
-        <div class="timeline-desc">2028年01月09日 Asarah B'Tevet・聖殿被毀日・詛咒終變祝福</div>
+        <div class="timeline-title">✨ 1335日・新天新地</div>
+        <div class="timeline-desc">01/09 Asarah B'Tevet・聖殿被毀日・詛咒終變祝福</div>
       </div>
     </div>
   </div>
@@ -886,36 +886,6 @@ body {
         Asarah B'Tevet 聖殿被毀日<br>
         「等到1335日的，那人便為有福」<br>
                 詛咒終變祝福
-      </div>
-    </div>
-  </div>
-  <!-- 📥 情報庫 -->
-  <div class="info-card" id="dbSection">
-    <div class="card-header">
-      <span class="card-icon">📥</span>
-      <span class="card-title">原始情報庫 · DATABASE</span>
-    </div>
-    <div class="card-body" style="padding: 0;">
-      <iframe src="https://flossy-dish-cfd.notion.site/ebd//5fc4b8676cc0463bbbf41fa93c074cc2?v=00287bc7f260486ab94c91870bbeb192" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="card-body" style="border-top: 1px solid var(--c-border);">
-      <div style="font-size: 12px; color: var(--c-accent); margin-bottom: 10px;">🤖 AI 查詢語法（點擊複製）</div>
-      <div class="copy-syntax">
-        <pre id="aiSyntax">請參照以下 Notion 公開資料庫進行分析：
-📥 原始情報庫：https://flossy-dish-cfd.notion.site/ebd//5fc4b8676cc0463bbbf41fa93c074cc2?v=00287bc7f260486ab94c91870bbeb192
-可用指令：
-/總結 [關鍵字] — 總結相關情報記錄
-/分析 [事件]  — 分析事件與預言對應關係
-/猜想 [主題]  — 根據已有資料推測走向
-/評估 [日期]  — 評估目前進度與預言吻合度
-/對照 [經文]  — 對照聖經經文與時間軸事件
-/近況        — 評估最新局勢發展</pre>
-        <div class="example">
-          <div style="font-size: 10px; color: var(--c-accent); margin-bottom: 6px;">💡 使用範例</div>
-          <div style="font-size: 12px; color: var(--c-text); line-height: 1.6;">
-            「請參照 📥 原始情報庫 [貼上連結]，<strong style="color: var(--c-warn);">/評估</strong> 2025年至今所有與『國攻打國』相關的情報，分析目前中東局勢是否吻合馬可福音13章的預言進度。」
-          </div>
-        </div>
       </div>
     </div>
   </div>
@@ -1133,6 +1103,28 @@ body {
           </div></details>
         </div>
       </div>
+    </div>
+  </div>
+  <!-- 📥 情報庫 -->
+  <div class="info-card" id="dbSection" style="border-color: rgba(0,243,255,0.3);">
+    <div class="card-header" style="border-color: rgba(0,243,255,0.3);">
+      <span class="card-icon">📥</span>
+      <span class="card-title">原始情報庫 · AI 查詢</span>
+    </div>
+    <div class="card-body copy-syntax">
+      <div style="font-size: 12px; color: var(--c-text-dim); margin-bottom: 8px;">▸ 複製以下語法，貼到 Notion AI 聊天中查詢：</div>
+      <pre id="aiSyntax">在「📥 原始情報庫」中搜尋所有與「關鍵字」相關的情報，列出名稱、七災大類、URL</pre>
+      <div class="example">
+        <div style="font-size: 11px; color: var(--c-accent); margin-bottom: 4px;">範例：</div>
+        <div style="font-size: 11px; color: var(--c-text-dim); line-height: 1.6;">
+          ▸ 在「📥 原始情報庫」中搜尋所有與「獸印」相關的情報<br>
+          ▸ 在「📥 原始情報庫」中搜尋七災大類為「S6」的情報<br>
+          ▸ 在「📥 原始情報庫」中搜尋最近新增的情報
+        </div>
+      </div>
+    </div>
+    <div class="card-body" style="padding: 0; border-top: 1px solid var(--c-border);">
+      <iframe src="https://flossy-dish-cfd.notion.site/ebd//5fc4b8676cc0463bbbf41fa93c074cc2?v=6b3186dfc51749fda1663d8eaf0a816e" width="100%" height="400" frameborder="0" style="border-radius: 0 0 8px 8px;"></iframe>
     </div>
   </div>
 </section>
@@ -1472,13 +1464,17 @@ function initBackToTop() {
 function initMobileLayout() {
   function arrange() {
     const vt = document.getElementById('verticalTimeline');
+    const db = document.getElementById('dbSection');
     if (!vt) return;
     if (window.innerWidth <= 768) {
-      const col = document.querySelector('.column-left');
-      if (col) col.appendChild(vt);
+      const colLeft = document.querySelector('.column-left');
+      if (colLeft) colLeft.appendChild(vt);
     } else {
-      const col = document.querySelector('.column-center');
-      if (col) col.appendChild(vt);
+      const colCenter = document.querySelector('.column-center');
+      if (colCenter) {
+        colCenter.appendChild(vt);
+        if (db) colCenter.appendChild(db);
+      }
     }
   }
   arrange();
