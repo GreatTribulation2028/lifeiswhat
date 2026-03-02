@@ -889,7 +889,7 @@ function autoLoadData(){
   for(let y=startYear;y<=endYear;y++){
     loads.push(new Promise(resolve=>{
       const s=document.createElement('script');
-      s.src='data-'+y+'.js';
+      s.src='data_'+y+'.js';
       s.onload=()=>resolve(y);
       s.onerror=()=>resolve(null);
       document.head.appendChild(s);
@@ -898,7 +898,7 @@ function autoLoadData(){
   // 載入 data-today.js（最新未歸檔資料）
   loads.push(new Promise(resolve=>{
     const s=document.createElement('script');
-    s.src='data-today.js';
+    s.src='data_today.js';
     s.onload=()=>resolve('today');
     s.onerror=()=>resolve(null);
     document.head.appendChild(s);
