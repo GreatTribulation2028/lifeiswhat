@@ -1,3 +1,3 @@
-window.DATA_2022 = `
+var DATA_TODAY = `
 
 `;
