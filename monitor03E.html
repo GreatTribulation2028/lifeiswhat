@@ -610,7 +610,7 @@ header{flex-direction:column;text-align:center;gap:15px}
 <!-- 貼上區（置底） -->
 <div class="paste-zone">
 <textarea id="paste-input" class="paste-area" placeholder="把資料貼在這裡（日期 TAB 網址 TAB 標題）
-或等待自動載入 data-YYYY.js / data-today.js"></textarea>
+或等待自動載入 data_YYYY.js / data_today.js"></textarea>
 <div class="paste-buttons">
 <button class="btn" onclick="loadPastedData()">📥 載入貼上內容</button>
 <button class="btn" onclick="document.getElementById('file-input').click()">📂 選擇檔案</button>
@@ -879,7 +879,7 @@ function autoLoadData(){
     document.getElementById('paste-input').placeholder='⚠️ 本機開啟請用 python -m http.server 8000\n再開 http://localhost:8000/monitor03E.html';
     return;
   }
-  // === 自動載入 data-YYYY.js（2021 至今年）+ data-today.js ===
+  // === 自動載入 data_YYYY.js（2021 至今年）+ data-today.js ===
   const startYear=2021, endYear=new Date().getFullYear();
   const loads=[];
   // 載入各年份檔
