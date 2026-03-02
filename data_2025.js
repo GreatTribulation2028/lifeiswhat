@@ -3536,6 +3536,10 @@ var DATA_2025 = `
 31/12/2025	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E8%90%BD%E9%A6%AC%E6%B4%B2%E4%B9%9D%E6%97%AC%E5%A9%A6%E9%A3%B2%E6%A9%99%E6%B1%81%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB/632208	落馬洲九旬婦飲橙汁暈倒　送院搶救不治 ｜ am730
 31/12/2025	https://money.udn.com/money/story/122328/9237001?from=edn_search_tag_result	跨年夜低溫又下雨恐釀猝死 醫示警：喝酒狂歡「酒後寒」最危險 ｜ 生活 ｜ 要聞 ｜ 經濟日報
 31/12/2025	https://health.ettoday.net/news/3093244	跨年濕冷喝酒陷「失溫、猝死」危機　出現6症狀速就醫
-
+30/12/2025	https://www.hk01.com/article/60308050?utm_source=01articlecopy&utm_medium=referral	曹西平在家猝逝享年66歲　縱橫台灣演藝圈40年　財產全給契仔
+31/12/2025	https://www.hk01.com/article/60308431?utm_source=01articlecopy&utm_medium=referral	屯門龍珠島對開船長船上暈倒　直升機吊起送院搶救
+30/12/2025	https://www.hk01.com/article/60308211?utm_source=01articlecopy&utm_medium=referral	落馬洲古洞村屋九旬婦飲橙汁時暈倒　昏迷送院搶救不治
+30/12/2025	https://www.hk01.com/article/60308047?utm_source=01articlecopy&utm_medium=referral	柴灣公園93歲翁疑坐路壆休息　意外向後跌一度昏迷送院搶救
+31/12/2025	https://www.hk01.com/article/60308023?utm_source=01articlecopy&utm_medium=referral	《流星花園》女演員暈倒頭撞地緊急開刀　醒後「頭骨少了一部分」
 
 `;
