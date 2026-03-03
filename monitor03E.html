@@ -395,18 +395,6 @@ header{flex-direction:column;text-align:center;gap:15px}
 </div>
 </div>
 
-<!-- 貼上區 -->
-<div class="paste-zone">
-<textarea id="paste-input" class="paste-area" placeholder="把資料貼在這裡（日期 TAB 網址 TAB 標題）
-或等待自動載入 data.txt"></textarea>
-<div class="paste-buttons">
-<button class="btn" onclick="loadPastedData()">📥 載入貼上內容</button>
-<button class="btn" onclick="document.getElementById('file-input').click()">📂 選擇檔案</button>
-<button class="btn" onclick="exportSnapshot()">💾 匯出 HTML</button>
-<button class="btn" onclick="toggleMourningMode()">🕯️ 默哀模式</button>
-<div id="json-status">🔴 classify_rules.json 未載入（使用內建規則）</div>
-<input type="file" id="file-input" accept=".txt,.tsv,.js" style="display:none" onchange="handleFile(event)">
-</div>
 </div>
 
 <!-- 三欄主區 -->
