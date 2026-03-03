@@ -34,6 +34,26 @@ html{scrollbar-width:none}
 html::-webkit-scrollbar{display:none}
 a{color:var(--c-cyan);text-decoration:none;transition:all .3s}
 a:hover{color:#fff;text-shadow:0 0 10px var(--c-cyan)}
+/* ===== 頂部導航 ===== */
+.top-nav{
+  position:fixed;top:0;left:0;right:0;z-index:9999;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:12px 24px;
+  background:linear-gradient(180deg,rgba(10,0,0,.95),rgba(10,0,0,.7));
+  border-bottom:1px solid rgba(80,20,20,.4);
+  backdrop-filter:blur(8px);
+}
+.nav-brand{
+  font-family:var(--f-head);font-size:clamp(10px,2vw,13px);color:var(--c-accent);
+  letter-spacing:2px;text-shadow:0 0 15px rgba(255,42,42,.4);
+}
+.nav-links{display:flex;gap:16px;align-items:center}
+.nav-links a{
+  font-family:var(--f-mono);font-size:11px;color:#bbb;
+  padding:6px 12px;border:1px solid rgba(255,255,255,.15);border-radius:4px;
+  transition:all .3s;
+}
+.nav-links a:hover{border-color:var(--c-cyan);color:var(--c-cyan);background:rgba(0,243,255,.08)}
 
 /* ===== 粒子背景 ===== */
 #particle-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none}
@@ -42,11 +62,11 @@ a:hover{color:#fff;text-shadow:0 0 10px var(--c-cyan)}
 .hero{
   position:relative;z-index:10;min-height:100vh;
   display:flex;flex-direction:column;align-items:center;justify-content:center;
-  text-align:center;padding:40px 20px 60px;
+  text-align:center;padding:80px 20px 60px;
   background:radial-gradient(ellipse at center bottom,rgba(80,0,0,.4),rgba(10,0,0,.98) 70%);
 }
 .hero-badge{
-  font-family:var(--f-mono);font-size:11px;letter-spacing:4px;color:rgba(255,255,255,.3);
+  font-family:var(--f-mono);font-size:11px;letter-spacing:4px;color:rgba(255,255,255,.5);
   margin-bottom:20px;text-transform:uppercase;
 }
 .hero-counter{
@@ -60,15 +80,15 @@ a:hover{color:#fff;text-shadow:0 0 10px var(--c-cyan)}
 }
 .hero-question{
   font-family:var(--f-serif);font-size:clamp(1.1rem,3vw,1.6rem);
-  color:rgba(255,255,255,.6);line-height:2;margin-top:20px;
+  color:#ddd;line-height:2;margin-top:20px;
   max-width:500px;
 }
 .hero-meta{
-  margin-top:30px;font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.25);
+  margin-top:30px;font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.5);
 }
 .hero-scroll{
   position:absolute;bottom:30px;left:50%;transform:translateX(-50%);
-  font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.25);
+  font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.45);
   animation:pulse 2s ease-in-out infinite;
 }
 @keyframes pulse{0%,100%{opacity:.25}50%{opacity:.7}}
@@ -96,8 +116,8 @@ a:hover{color:#fff;text-shadow:0 0 10px var(--c-cyan)}
   font-family:var(--f-head);font-size:clamp(1.4rem,4vw,2rem);color:#fff;
   text-shadow:0 0 20px rgba(255,42,42,.4);
 }
-.dash-card .dc-label{font-family:var(--f-mono);font-size:10px;color:#888;margin-top:8px;letter-spacing:1px}
-.dash-card .dc-sub{font-size:11px;color:#666;margin-top:6px}
+.dash-card .dc-label{font-family:var(--f-mono);font-size:10px;color:#aaa;margin-top:8px;letter-spacing:1px}
+.dash-card .dc-sub{font-size:11px;color:#999;margin-top:6px}
 .dash-card.fatal{border-color:rgba(255,42,42,.4)}
 .dash-card.fatal .dc-value{color:var(--c-accent)}
 .dash-card.trend{border-color:rgba(255,174,0,.4)}
@@ -138,7 +158,7 @@ a:hover{color:#fff;text-shadow:0 0 10px var(--c-cyan)}
   letter-spacing:3px;margin-bottom:10px;
 }
 .age-section .section-sub{
-  font-size:13px;color:#888;margin-bottom:25px;
+  font-size:13px;color:#bbb;margin-bottom:25px;
 }
 .age-interact{
   max-width:500px;margin:0 auto;
@@ -199,7 +219,7 @@ a:hover{color:#fff;text-shadow:0 0 10px var(--c-cyan)}
 /* ===== Social Proof ===== */
 .proof-bar{
   position:relative;z-index:10;text-align:center;padding:20px;
-  font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.2);
+  font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.5);
   border-top:1px solid rgba(80,20,20,.3);border-bottom:1px solid rgba(80,20,20,.3);
   background:rgba(5,0,0,.95);
 }
@@ -223,7 +243,7 @@ a:hover{color:#fff;text-shadow:0 0 10px var(--c-cyan)}
 .country-flag{font-size:24px}
 .country-info{flex:1}
 .country-name{font-size:14px;color:#ddd}
-.country-rate{font-family:var(--f-mono);font-size:11px;color:#888}
+.country-rate{font-family:var(--f-mono);font-size:11px;color:#aaa}
 .country-bar{height:4px;background:rgba(255,42,42,.15);border-radius:2px;margin-top:4px;overflow:hidden}
 .country-bar-fill{height:100%;background:linear-gradient(90deg,var(--c-accent),var(--c-accent2));border-radius:2px;transition:width 1s ease}
 
@@ -260,6 +280,13 @@ a:hover{color:#fff;text-shadow:0 0 10px var(--c-cyan)}
 <canvas id="particle-bg"></canvas>
 
 <!-- ============ HERO ============ -->
+<nav class="top-nav">
+  <div class="nav-brand">VITAL LIFE MONITOR</div>
+  <div class="nav-links">
+    <a href="index0203.html">📡 生死記錄儀</a>
+    <a href="timeline04.html">⚠️ 七災年監察</a>
+  </div>
+</nav>
 <section class="hero" id="hero">
   <div class="hero-badge">VITAL LIFE MONITOR — PORTAL</div>
   <div class="hero-counter" id="death-since-entry">0</div>
