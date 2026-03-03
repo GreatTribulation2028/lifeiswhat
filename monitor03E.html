@@ -310,7 +310,7 @@ header{flex-direction:column;text-align:center;gap:15px}
 <!-- 生命線卡片 -->
 <div class="lifeline-section">
 <div class="lifeline-card">
-<h3>⏱️ 2027吹角節</h3>
+<h3>⏱️ 末次號筒倒數</h3>
 <div class="big-number" id="countdown-days">---</div>
 <div class="unit">天</div>
 <p id="countdown-detail">距離 2027-10-01</p>
@@ -456,7 +456,7 @@ header{flex-direction:column;text-align:center;gap:15px}
 <div id="keyword-cloud"></div>
 
 <!-- IF IT WERE YOU（置頂於右下欄） -->
-<div id="if-it-were-you" onclick="openImmersive()" role="button" aria-label="IF IT WERE YOU">
+<a id="if-it-were-you" href="GoodNews.html" role="button" aria-label="IF IT WERE YOU" style="text-decoration:none;display:block">
 <div class="iwy-kicker">💭 IF IT WERE YOU</div>
 <div class="iwy-title">如 果 是 你</div>
 <div class="iwy-sub">給自己 3 分鐘<br>認真思考一個你一直逃避的問題<br>靈魂的去處</div>
@@ -610,7 +610,7 @@ header{flex-direction:column;text-align:center;gap:15px}
 <!-- 貼上區（置底） -->
 <div class="paste-zone">
 <textarea id="paste-input" class="paste-area" placeholder="把資料貼在這裡（日期 TAB 網址 TAB 標題）
-或等待自動載入 data_YYYY.js / data_today.js"></textarea>
+或等待自動載入 data-YYYY.js / data-today.js"></textarea>
 <div class="paste-buttons">
 <button class="btn" onclick="loadPastedData()">📥 載入貼上內容</button>
 <button class="btn" onclick="document.getElementById('file-input').click()">📂 選擇檔案</button>
@@ -879,7 +879,7 @@ function autoLoadData(){
     document.getElementById('paste-input').placeholder='⚠️ 本機開啟請用 python -m http.server 8000\n再開 http://localhost:8000/monitor03E.html';
     return;
   }
-  // === 自動載入 data_YYYY.js（2021 至今年）+ data_today.js ===
+  // === 自動載入 data-YYYY.js（2021 至今年）+ data-today.js ===
   const startYear=2021, endYear=new Date().getFullYear();
   const loads=[];
   // 載入各年份檔
@@ -974,19 +974,9 @@ function showDailyContent(){
   document.getElementById('wisdom-source').textContent=`— ${w.source}`;
 }
 function toggleMourningMode(){document.body.classList.toggle('mourning-mode')}
-// ===== 沉浸靈魂旅程 =====
-function openImmersive(){
-  document.getElementById('immersive-overlay').classList.add('active');
-  nextStage(1);
-}
-function closeImmersive(){
-  document.getElementById('immersive-overlay').classList.remove('active');
-  document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));
-  window.scrollTo({top:0,behavior:'smooth'});
-}
-function amenAndReturn(){
-  closeImmersive();
-}
+// ===== 沉浸靈魂旅程（已移至 GoodNews.html） =====
+function openImmersive(){ window.location.href='GoodNews.html'; }
+function closeImmersive(){ window.location.href='monitor03E.html'; }
 function nextStage(n){
   document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));
   const el=document.getElementById(`stage-${n}`);
