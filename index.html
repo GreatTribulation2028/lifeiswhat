@@ -1,554 +1,723 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="zh-HK">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>等一下，看看這個數字</title>
-	<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Noto+Sans+TC:wght@400;700&display=swap" rel="stylesheet">
-	<style>
-	@font-face {
-		font-family: 'DSEG7';
-		src: url('https://cdn.jsdelivr.net/npm/dseg@0.46.0/fonts/DSEG7-Classic/DSEG7Classic-Regular.woff2') format('woff2');
-		font-display: swap;
-	}
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>生死記錄儀 — 每秒2人離世 | Vital Life Monitor</title>
 
-	:root {
-		--color-bg: #030405;
-		--color-blood: #ff2a2a;
-		--color-cyan: #00f3ff;
-		--color-gold: #ffd700;
-		--color-text: #e0e0e0;
-		--color-dim: #555;
-	}
+<!-- ===== SEO + OG Meta ===== -->
+<meta name="description" content="即時追蹤全球死亡數據與香港生死事件。你覺得，呢啲數字同你有幾遠？">
+<meta property="og:type" content="website">
+<meta property="og:title" content="生死記錄儀 — 每秒2人離世">
+<meta property="og:description" content="即時追蹤全球死亡數據。你覺得，呢啲數字同你有幾遠？">
+<meta property="og:image" content="og-preview.png">
+<meta property="og:url" content="https://greattribulaton2028.github.io/lifeiswhat/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="生死記錄儀 — 每秒2人離世">
+<meta name="twitter:description" content="即時追蹤全球死亡數據與香港生死事件。">
+<meta name="twitter:image" content="og-preview.png">
+<link rel="canonical" href="https://greattribulaton2028.github.io/lifeiswhat/">
 
-	* { margin: 0; padding: 0; box-sizing: border-box; }
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Jura:wght@400;600;700&family=Noto+Sans+TC:wght@300;400;700&family=Noto+Serif+TC:wght@400;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+:root{
+  --c-bg:#0a0000;--c-panel:rgba(15,5,5,.95);--c-border:rgba(80,20,20,.5);
+  --c-accent:#ff2a2a;--c-accent2:#ff6644;--c-dim:#3a2020;
+  --c-soul:#a855f7;--c-hope:#8bffb0;--c-cyan:#00f3ff;
+  --f-mono:'Share Tech Mono',monospace;--f-head:'Orbitron',sans-serif;
+  --f-text:'Jura','Noto Sans TC',sans-serif;--f-serif:'Noto Serif TC',serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;overflow-x:hidden;background:var(--c-bg);color:#e0e0e0;font-family:var(--f-text);scroll-behavior:smooth}
+html{scrollbar-width:none}
+html::-webkit-scrollbar{display:none}
+a{color:var(--c-cyan);text-decoration:none;transition:all .3s}
+a:hover{color:#fff;text-shadow:0 0 10px var(--c-cyan)}
 
-	body {
-		font-family: 'Noto Sans TC', sans-serif;
-		background: var(--color-bg);
-		color: var(--color-text);
-		overflow-x: hidden;
-		min-height: 100vh;
-	}
+/* ===== 粒子背景 ===== */
+#particle-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none}
 
-	body::before {
-		content: '';
-		position: fixed; inset: 0;
-		background:
-			radial-gradient(ellipse 80% 60% at 50% 40%, rgba(40,0,0,0.6) 0%, transparent 70%),
-			radial-gradient(ellipse at 0% 100%, rgba(0,0,0,0.95) 0%, transparent 60%),
-			radial-gradient(ellipse at 100% 0%, rgba(0,0,0,0.9) 0%, transparent 55%);
-		pointer-events: none; z-index: 0;
-	}
+/* ===== HERO 區 ===== */
+.hero{
+  position:relative;z-index:10;min-height:100vh;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-align:center;padding:40px 20px 60px;
+  background:radial-gradient(ellipse at center bottom,rgba(80,0,0,.4),rgba(10,0,0,.98) 70%);
+}
+.hero-badge{
+  font-family:var(--f-mono);font-size:11px;letter-spacing:4px;color:rgba(255,255,255,.3);
+  margin-bottom:20px;text-transform:uppercase;
+}
+.hero-counter{
+  font-family:var(--f-head);font-size:clamp(3rem,12vw,7rem);color:#fff;
+  text-shadow:0 0 60px rgba(255,42,42,.6),0 0 120px rgba(255,42,42,.3);
+  line-height:1;margin:10px 0;
+}
+.hero-label{
+  font-family:var(--f-mono);font-size:clamp(12px,2.5vw,16px);color:var(--c-accent);
+  letter-spacing:3px;margin-bottom:30px;
+}
+.hero-question{
+  font-family:var(--f-serif);font-size:clamp(1.1rem,3vw,1.6rem);
+  color:rgba(255,255,255,.6);line-height:2;margin-top:20px;
+  max-width:500px;
+}
+.hero-meta{
+  margin-top:30px;font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.25);
+}
+.hero-scroll{
+  position:absolute;bottom:30px;left:50%;transform:translateX(-50%);
+  font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.25);
+  animation:pulse 2s ease-in-out infinite;
+}
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:.7}}
 
-	body::after {
-		content: '';
-		position: fixed; inset: 0;
-		background: repeating-linear-gradient(
-			0deg, transparent, transparent 3px,
-			rgba(0,0,0,0.06) 3px, rgba(0,0,0,0.06) 4px
-		);
-		pointer-events: none; z-index: 1;
-	}
+/* ===== Dashboard Summary ===== */
+.dashboard{
+  position:relative;z-index:10;padding:40px 20px;
+  background:linear-gradient(180deg,rgba(10,0,0,.98),rgba(15,5,5,.95));
+}
+.dashboard-title{
+  text-align:center;font-family:var(--f-head);font-size:13px;
+  color:var(--c-accent);letter-spacing:3px;margin-bottom:25px;
+}
+.dash-cards{
+  display:grid;grid-template-columns:repeat(3,1fr);gap:15px;
+  max-width:800px;margin:0 auto;
+}
+.dash-card{
+  background:var(--c-panel);border:1px solid var(--c-border);border-radius:12px;
+  padding:24px 16px;text-align:center;transition:all .3s;
+}
+.dash-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
+.dash-card .dc-icon{font-size:1.8rem;margin-bottom:10px}
+.dash-card .dc-value{
+  font-family:var(--f-head);font-size:clamp(1.4rem,4vw,2rem);color:#fff;
+  text-shadow:0 0 20px rgba(255,42,42,.4);
+}
+.dash-card .dc-label{font-family:var(--f-mono);font-size:10px;color:#888;margin-top:8px;letter-spacing:1px}
+.dash-card .dc-sub{font-size:11px;color:#666;margin-top:6px}
+.dash-card.fatal{border-color:rgba(255,42,42,.4)}
+.dash-card.fatal .dc-value{color:var(--c-accent)}
+.dash-card.trend{border-color:rgba(255,174,0,.4)}
+.dash-card.trend .dc-value{color:#ffae00}
+.dash-card.youngest{border-color:rgba(168,85,247,.4)}
+.dash-card.youngest .dc-value{color:var(--c-soul)}
 
-	.noise {
-		position: fixed; inset: 0; opacity: 0.03;
-		background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 300 300' xmlns='http:%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'%2F%3E%3C%2Ffilter%3E%3Crect width='300' height='300' filter='url(%23n)'%2F%3E%3C%2Fsvg%3E");
-		background-size: 300px 300px;
-		pointer-events: none; z-index: 2;
-	}
+/* ===== 圖表區 ===== */
+.charts-section{
+  position:relative;z-index:10;padding:40px 20px;
+  background:linear-gradient(180deg,rgba(15,5,5,.95),rgba(10,0,0,.98));
+}
+.charts-section .section-title{
+  text-align:center;font-family:var(--f-head);font-size:13px;
+  color:var(--c-cyan);letter-spacing:3px;margin-bottom:25px;
+}
+.charts-grid{
+  display:grid;grid-template-columns:1fr 1fr;gap:20px;
+  max-width:900px;margin:0 auto;
+}
+.chart-box{
+  background:var(--c-panel);border:1px solid var(--c-border);border-radius:12px;
+  padding:20px;position:relative;
+}
+.chart-box h4{
+  font-family:var(--f-mono);font-size:12px;color:var(--c-accent);margin-bottom:15px;text-align:center;
+}
+.chart-box canvas{max-height:260px}
 
-	.top-nav {
-		position: fixed; top: 0; left: 0; right: 0;
-		display: flex; justify-content: flex-end;
-		padding: 15px 20px; z-index: 200;
-	}
+/* ===== 年齡互動 ===== */
+.age-section{
+  position:relative;z-index:10;padding:40px 20px;
+  background:linear-gradient(180deg,rgba(10,0,0,.98),rgba(15,5,10,.95));
+  text-align:center;
+}
+.age-section .section-title{
+  font-family:var(--f-head);font-size:13px;color:var(--c-soul);
+  letter-spacing:3px;margin-bottom:10px;
+}
+.age-section .section-sub{
+  font-size:13px;color:#888;margin-bottom:25px;
+}
+.age-interact{
+  max-width:500px;margin:0 auto;
+  background:var(--c-panel);border:1px solid rgba(168,85,247,.3);
+  border-radius:12px;padding:30px 20px;
+}
+.age-interact input[type=number]{
+  width:80px;padding:10px;background:rgba(0,0,0,.6);border:1px solid var(--c-border);
+  color:#fff;font-family:var(--f-head);font-size:1.2rem;border-radius:6px;text-align:center;
+}
+.age-interact input:focus{border-color:var(--c-soul);outline:none;box-shadow:0 0 15px rgba(168,85,247,.3)}
+.age-interact .btn-calc{
+  margin-left:10px;background:rgba(168,85,247,.15);border:1px solid rgba(168,85,247,.4);
+  color:var(--c-soul);padding:10px 20px;font-family:var(--f-head);font-size:12px;
+  cursor:pointer;border-radius:6px;transition:all .3s;
+}
+.age-interact .btn-calc:hover{background:var(--c-soul);color:#000}
+.age-result{
+  margin-top:20px;font-size:14px;color:#cdb6ea;line-height:2;
+  min-height:60px;
+}
+.age-result .highlight{
+  font-family:var(--f-head);font-size:1.4rem;color:#fff;
+  display:block;margin:8px 0;
+}
+.age-bar-wrap{margin-top:20px;height:120px}
 
-	.nav-link {
-		font-family: 'Share Tech Mono', monospace;
-		font-size: 0.8rem; color: var(--color-cyan);
-		text-decoration: none;
-		border: 1px solid rgba(0,243,255,0.3);
-		padding: 6px 14px; border-radius: 4px;
-		letter-spacing: 0.05em; transition: all 0.3s;
-	}
+/* ===== Scripture + CTA ===== */
+.soul-section{
+  position:relative;z-index:10;padding:50px 20px;
+  background:radial-gradient(ellipse at center,rgba(25,0,30,.95),rgba(5,0,5,.98));
+  text-align:center;
+}
+.soul-verse{
+  font-family:var(--f-serif);font-size:clamp(1rem,2.5vw,1.3rem);
+  color:#d4b8e8;line-height:2;max-width:600px;margin:0 auto;
+  font-style:italic;
+}
+.soul-ref{
+  font-family:var(--f-mono);font-size:12px;color:var(--c-soul);margin-top:12px;
+}
+.cta-row{
+  display:flex;gap:15px;justify-content:center;flex-wrap:wrap;margin-top:35px;
+}
+.cta-btn{
+  padding:14px 28px;border-radius:8px;font-family:var(--f-head);font-size:13px;
+  cursor:pointer;transition:all .3s;text-decoration:none;display:inline-block;
+}
+.cta-btn.primary{
+  background:rgba(0,243,255,.1);border:2px solid var(--c-cyan);color:var(--c-cyan);
+}
+.cta-btn.primary:hover{background:var(--c-cyan);color:#000;box-shadow:0 0 30px var(--c-cyan)}
+.cta-btn.secondary{
+  background:rgba(168,85,247,.1);border:2px solid rgba(168,85,247,.5);color:var(--c-soul);
+}
+.cta-btn.secondary:hover{background:var(--c-soul);color:#000;box-shadow:0 0 30px var(--c-soul)}
 
-	.nav-link:hover {
-		background: rgba(0,243,255,0.08);
-		border-color: var(--color-cyan);
-		box-shadow: 0 0 12px rgba(0,243,255,0.3);
-	}
+/* ===== Social Proof ===== */
+.proof-bar{
+  position:relative;z-index:10;text-align:center;padding:20px;
+  font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.2);
+  border-top:1px solid rgba(80,20,20,.3);border-bottom:1px solid rgba(80,20,20,.3);
+  background:rgba(5,0,0,.95);
+}
 
-	#main-screen {
-		position: relative; z-index: 10;
-		min-height: 100vh;
-		display: flex; flex-direction: column;
-		justify-content: center; align-items: center;
-		padding: 20px 20px 50px;
-	}
+/* ===== Top 5 Countries ===== */
+.countries-section{
+  position:relative;z-index:10;padding:40px 20px;
+  background:linear-gradient(180deg,rgba(5,0,5,.98),rgba(10,0,0,.98));
+}
+.countries-section .section-title{
+  text-align:center;font-family:var(--f-head);font-size:13px;
+  color:var(--c-accent);letter-spacing:3px;margin-bottom:25px;
+}
+.country-list{max-width:500px;margin:0 auto}
+.country-row{
+  display:flex;align-items:center;gap:12px;padding:14px 16px;
+  border-bottom:1px solid rgba(80,20,20,.3);transition:all .3s;
+}
+.country-row:hover{background:rgba(255,42,42,.05)}
+.country-rank{font-family:var(--f-head);font-size:18px;color:var(--c-accent);min-width:30px}
+.country-flag{font-size:24px}
+.country-info{flex:1}
+.country-name{font-size:14px;color:#ddd}
+.country-rate{font-family:var(--f-mono);font-size:11px;color:#888}
+.country-bar{height:4px;background:rgba(255,42,42,.15);border-radius:2px;margin-top:4px;overflow:hidden}
+.country-bar-fill{height:100%;background:linear-gradient(90deg,var(--c-accent),var(--c-accent2));border-radius:2px;transition:width 1s ease}
 
-	.session-counter {
-		position: fixed;
-		top: 52px;
-		left: 50%;
-		transform: translateX(-50%);
-		z-index: 150;
-		font-family: 'Share Tech Mono', monospace;
-		font-size: clamp(0.7rem, 2vw, 0.88rem);
-		color: rgba(255,42,42,0.6);
-		letter-spacing: 0.08em;
-		text-align: center;
-		border: 1px solid rgba(255,42,42,0.18);
-		padding: 8px 22px; border-radius: 4px;
-		background: rgba(3,4,5,0.85);
-		white-space: nowrap;
-	}
+/* ===== 跑馬燈 Footer ===== */
+#doom-footer{
+  position:fixed;bottom:0;left:0;right:0;height:40px;
+  background:linear-gradient(90deg,#180000,#300005,#180000);
+  border-top:2px solid var(--c-accent);z-index:9999;
+  overflow:hidden;line-height:40px;
+}
+#footer-text{
+  display:inline-block;white-space:nowrap;padding-left:100%;
+  animation:marquee 120s linear infinite;
+  color:#ff9999;font-family:var(--f-mono);font-size:12px;
+}
+@keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-100%)}}
 
-	.session-counter .count { color: var(--color-blood); }
-
-	.counter-display {
-		position: relative;
-		display: flex; flex-direction: column; align-items: center;
-	}
-
-	.counter-bg {
-		font-family: 'DSEG7', 'Share Tech Mono', monospace;
-		font-size: clamp(2.6rem, 10vw, 7.2rem);
-		color: rgba(160,0,0,0.13);
-		letter-spacing: 0.06em; line-height: 1;
-		position: absolute; top: 0; left: 0; right: 0;
-		text-align: center;
-		user-select: none; pointer-events: none;
-	}
-
-	.death-counter {
-		font-family: 'DSEG7', 'Share Tech Mono', monospace;
-		font-size: clamp(2.6rem, 10vw, 7.2rem);
-		color: var(--color-blood);
-		text-shadow:
-			0 0 8px rgba(255,0,0,1),
-			0 0 25px rgba(255,0,0,0.9),
-			0 0 60px rgba(255,0,0,0.65),
-			0 0 120px rgba(255,0,0,0.3);
-		letter-spacing: 0.06em; line-height: 1;
-		position: relative;
-		animation: flicker 12s infinite;
-	}
-
-	@keyframes flicker {
-		0%,85%,87%,92%,96%,100% { opacity: 1; }
-		86%  { opacity: 0.80; }
-		88%  { opacity: 0.97; }
-		93%  { opacity: 0.75; }
-		97%  { opacity: 0.92; }
-	}
-
-	.scanline-sweep {
-		position: absolute; left: 0; right: 0; height: 28%;
-		background: linear-gradient(to bottom,
-			transparent 0%, rgba(255,60,60,0.04) 40%,
-			rgba(255,60,60,0.08) 50%, rgba(255,60,60,0.04) 60%,
-			transparent 100%
-		);
-		animation: sweep 6s linear infinite;
-		pointer-events: none;
-	}
-
-	@keyframes sweep { 0% { top: -30%; } 100% { top: 120%; } }
-
-	.counter-label {
-		font-family: 'Share Tech Mono', monospace;
-		font-size: clamp(0.72rem, 2vw, 0.9rem);
-		color: rgba(255,255,255,0.36);
-		margin-top: 16px;
-		letter-spacing: 0.1em;
-		text-align: center;
-	}
-
-	.rate-boxes { display: flex; gap: 16px; margin-top: 18px; }
-
-	.rate-box {
-		border: 1px solid rgba(255,42,42,0.2);
-		border-radius: 6px; padding: 12px 28px;
-		text-align: center;
-		background: rgba(255,42,42,0.04);
-		min-width: 110px;
-	}
-
-	.rate-value {
-		font-family: 'DSEG7', 'Share Tech Mono', monospace;
-		font-size: 1.8rem;
-		color: var(--color-gold);
-		text-shadow: 0 0 10px rgba(255,215,0,0.5);
-		line-height: 1;
-	}
-
-	.rate-label {
-		font-family: 'Share Tech Mono', monospace;
-		font-size: 0.67rem;
-		color: var(--color-dim);
-		margin-top: 6px;
-		letter-spacing: 0.06em;
-	}
-
-	.today-counter {
-		font-family: 'Share Tech Mono', monospace;
-		font-size: clamp(0.67rem, 1.8vw, 0.82rem);
-		color: rgba(255,255,255,0.25);
-		margin-top: 14px;
-		letter-spacing: 0.05em;
-		text-align: center;
-	}
-
-	.today-counter strong { color: rgba(255,255,255,0.48); font-weight: normal; }
-
-	.speed-control {
-		margin-top: 20px;
-		display: flex;
-		align-items: center;
-		gap: 8px;
-		font-family: 'Share Tech Mono', monospace;
-		font-size: 0.72rem;
-		color: rgba(255,255,255,0.3);
-	}
-
-	.speed-btn {
-		background: transparent;
-		border: 1px solid rgba(0,243,255,0.2);
-		color: rgba(0,243,255,0.5);
-		padding: 4px 12px;
-		font-family: 'Share Tech Mono', monospace;
-		font-size: 0.68rem;
-		cursor: pointer;
-		border-radius: 3px;
-		transition: all 0.3s;
-	}
-
-	.speed-btn:hover {
-		border-color: rgba(0,243,255,0.5);
-		color: rgba(0,243,255,0.8);
-	}
-
-	.speed-btn.active {
-		background: rgba(0,243,255,0.12);
-		border-color: var(--color-cyan);
-		color: var(--color-cyan);
-	}
-
-	.source-strip {
-		margin-top: 18px;
-		display: flex; flex-wrap: wrap;
-		justify-content: center; align-items: center;
-		gap: 6px 14px;
-		font-family: 'Share Tech Mono', monospace;
-		font-size: 0.65rem;
-		color: rgba(255,255,255,0.2);
-		letter-spacing: 0.04em;
-		border-top: 1px solid rgba(255,255,255,0.06);
-		padding-top: 12px;
-		max-width: 560px;
-	}
-
-	.source-strip .src-label { color: rgba(255,255,255,0.18); white-space: nowrap; }
-
-	.source-strip a {
-		color: rgba(255,42,42,0.5);
-		text-decoration: none;
-		border-bottom: 1px solid rgba(255,42,42,0.2);
-		transition: color 0.3s, border-color 0.3s;
-		white-space: nowrap;
-	}
-
-	.source-strip a:hover {
-		color: rgba(255,42,42,0.85);
-		border-color: rgba(255,42,42,0.5);
-	}
-
-	.source-strip .sep { color: rgba(255,255,255,0.1); }
-
-	.next-btn {
-		margin-top: 32px;
-		padding: 14px 70px;
-		font-family: 'Share Tech Mono', monospace;
-		font-size: 1rem;
-		letter-spacing: 0.2em;
-		background: transparent;
-		border: 2px solid var(--color-blood);
-		color: var(--color-blood);
-		cursor: pointer;
-		transition: all 0.3s ease;
-		border-radius: 4px;
-		text-transform: uppercase;
-	}
-
-	.next-btn:hover {
-		background: rgba(255,42,42,0.08);
-		box-shadow: 0 0 25px rgba(255,42,42,0.5);
-		transform: scale(1.03);
-	}
-
-	/* 國家區 */
-	#city-section {
-		position: relative; z-index: 10;
-		padding: 60px 20px 80px;
-		max-width: 900px;
-		margin: 0 auto;
-	}
-
-	.section-title {
-		font-family: 'Share Tech Mono', monospace;
-		font-size: clamp(0.9rem, 2.5vw, 1.15rem);
-		color: var(--color-cyan);
-		text-align: center;
-		margin-bottom: 8px;
-		letter-spacing: 0.12em;
-	}
-
-	.section-subtitle {
-		font-family: 'Share Tech Mono', monospace;
-		font-size: 0.7rem;
-		color: var(--color-dim);
-		text-align: center;
-		margin-bottom: 36px;
-		letter-spacing: 0.04em;
-	}
-
-	.city-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(195px, 1fr));
-		gap: 10px;
-	}
-
-	.city-card {
-		background: rgba(5,5,8,0.88);
-		border: 1px solid rgba(255,42,42,0.1);
-		border-radius: 5px;
-		padding: 13px 15px;
-		transition: border-color 0.3s, background 0.3s;
-	}
-
-	.city-card:hover {
-		border-color: rgba(255,42,42,0.32);
-		background: rgba(15,3,3,0.95);
-	}
-
-	.city-name {
-		font-family: 'Noto Sans TC', sans-serif;
-		font-size: 0.78rem;
-		color: rgba(255,255,255,0.48);
-		margin-bottom: 6px;
-	}
-
-	.city-deaths {
-		font-family: 'Share Tech Mono', monospace;
-		font-size: 1.1rem;
-		color: var(--color-blood);
-	}
-
-	.city-deaths-label {
-		font-family: 'Share Tech Mono', monospace;
-		font-size: 0.62rem;
-		color: var(--color-dim);
-		margin-top: 3px;
-	}
-
-	.back-to-top {
-		position: fixed;
-		bottom: 28px;
-		right: 24px;
-		width: 42px;
-		height: 42px;
-		background: rgba(3,4,5,0.9);
-		border: 1px solid rgba(0,243,255,0.3);
-		border-radius: 50%;
-		color: var(--color-cyan);
-		font-size: 1.1rem;
-		cursor: pointer;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		opacity: 0;
-		pointer-events: none;
-		transition: opacity 0.4s, box-shadow 0.3s;
-		z-index: 200;
-	}
-
-	.back-to-top.visible { opacity: 1; pointer-events: auto; }
-	.back-to-top:hover { box-shadow: 0 0 14px rgba(0,243,255,0.4); }
-
-	@media (max-width: 600px) {
-		.rate-boxes { gap: 12px; }
-		.rate-box { padding: 10px 18px; min-width: 90px; }
-		.city-grid { grid-template-columns: repeat(auto-fill, minmax(155px, 1fr)); }
-		.source-strip { font-size: 0.6rem; gap: 4px 10px; }
-	}
-	</style>
+/* ===== RWD ===== */
+@media(max-width:768px){
+  body{padding-bottom:45px}
+  .dash-cards{grid-template-columns:1fr}
+  .charts-grid{grid-template-columns:1fr}
+  .cta-row{flex-direction:column;align-items:center}
+  .cta-btn{width:80%;text-align:center}
+  .country-row{padding:12px 10px}
+}
+@media(max-width:480px){
+  .hero-counter{font-size:clamp(2.5rem,15vw,4rem)}
+  .hero-question{font-size:1rem}
+}
+</style>
 </head>
 <body>
-	<div class="noise"></div>
+<canvas id="particle-bg"></canvas>
 
-	<nav class="top-nav">
-		<a class="nav-link" href="https://greattribulaton2028.github.io/lifeiswhat/timeline04.html">七災年監察 ↗</a>
-	</nav>
+<!-- ============ HERO ============ -->
+<section class="hero" id="hero">
+  <div class="hero-badge">VITAL LIFE MONITOR — PORTAL</div>
+  <div class="hero-counter" id="death-since-entry">0</div>
+  <div class="hero-label">你進入後，全球已有這麼多人離世</div>
+  <div class="hero-question">
+    你覺得<br>呢啲數字同你有幾遠？
+  </div>
+  <div class="hero-meta">每秒約 2.0 人 · WHO 全球死亡率估算</div>
+  <div class="hero-scroll">▼ SCROLL ▼</div>
+</section>
 
-	<section id="main-screen">
-		<div class="session-counter">
-			你進入後，全球已有 <span class="count" id="sessionDeaths">0</span> 人死亡
-		</div>
+<!-- ============ DASHBOARD ============ -->
+<section class="dashboard" id="dashboard">
+  <div class="dashboard-title">📊 HONG KONG SNAPSHOT</div>
+  <div class="dash-cards">
+    <div class="dash-card fatal">
+      <div class="dc-icon">☠️</div>
+      <div class="dc-value" id="dc-total">—</div>
+      <div class="dc-label">TOTAL RECORDS</div>
+      <div class="dc-sub">香港生死事件總記錄</div>
+    </div>
+    <div class="dash-card trend">
+      <div class="dc-icon">📈</div>
+      <div class="dc-value" id="dc-trend">—</div>
+      <div class="dc-label">vs LAST MONTH</div>
+      <div class="dc-sub" id="dc-trend-sub">本月 vs 上月</div>
+    </div>
+    <div class="dash-card youngest">
+      <div class="dc-icon">💔</div>
+      <div class="dc-value" id="dc-youngest">—</div>
+      <div class="dc-label">YOUNGEST VICTIM</div>
+      <div class="dc-sub">最年輕紀錄</div>
+    </div>
+  </div>
+</section>
 
-		<div class="counter-display">
-			<div class="counter-bg" id="counterBg">8,888,888</div>
-			<div class="death-counter" id="yearlyDeaths">0</div>
-			<div class="scanline-sweep"></div>
-		</div>
+<!-- ============ CHARTS ============ -->
+<section class="charts-section" id="charts">
+  <div class="section-title">📊 DATA INSIGHTS</div>
+  <div class="charts-grid">
+    <div class="chart-box">
+      <h4>🍩 分類比例 BREAKDOWN</h4>
+      <canvas id="doughnut-chart"></canvas>
+    </div>
+    <div class="chart-box">
+      <h4>📈 月度趨勢 MONTHLY TREND</h4>
+      <canvas id="mom-chart"></canvas>
+    </div>
+  </div>
+</section>
 
-		<div class="counter-label">本年度全球死亡人數</div>
+<!-- ============ AGE INTERACTIVE ============ -->
+<section class="age-section" id="age">
+  <div class="section-title">👤 IF IT WERE YOUR AGE</div>
+  <div class="section-sub">你的年齡層，有幾多人出事？</div>
+  <div class="age-interact">
+    <div>
+      <span style="font-size:14px;color:#aaa">你的年齡：</span>
+      <input type="number" id="user-age" value="40" min="1" max="120">
+      <button class="btn-calc" onclick="calcAge()">查 看</button>
+    </div>
+    <div class="age-result" id="age-result">
+      輸入你的年齡，看看同齡人的數據
+    </div>
+    <div class="age-bar-wrap">
+      <canvas id="age-chart"></canvas>
+    </div>
+  </div>
+</section>
 
-		<div class="rate-boxes">
-			<div class="rate-box">
-				<div class="rate-value">120</div>
-				<div class="rate-label">每分鐘死亡</div>
-			</div>
-			<div class="rate-box">
-				<div class="rate-value">2.0</div>
-				<div class="rate-label">每秒死亡</div>
-			</div>
-		</div>
+<!-- ============ SCRIPTURE + CTA ============ -->
+<section class="soul-section">
+  <div class="soul-verse" id="soul-verse">「其實明天如何，你們還不知道。你們的生命是甚麼呢？你們原來是一片雲霧，出現少時就不見了。」</div>
+  <div class="soul-ref" id="soul-ref">— 雅各書 4:14</div>
+  <div class="cta-row">
+    <a href="monitor.html" class="cta-btn primary">📡 進入完整記錄儀 →</a>
+    <a href="GoodNews.html" class="cta-btn secondary">💭 如果是你 →</a>
+  </div>
+</section>
 
-		<div class="today-counter">今日全球已有約 <strong id="todayDeaths">0</strong> 人離世</div>
+<!-- ============ SOCIAL PROOF ============ -->
+<div class="proof-bar">
+  📍 數據收集自 2021 年至今 | 共 <span id="proof-total">—</span> 宗記錄 | 每日更新
+</div>
 
-		<div class="speed-control">
-			<span>⚙ 計數速度：</span>
-			<button class="speed-btn active" onclick="setSpeed(1000,this)">正常</button>
-			<button class="speed-btn" onclick="setSpeed(3000,this)">慢速</button>
-			<button class="speed-btn" onclick="setSpeed(6000,this)">極慢</button>
-		</div>
+<!-- ============ TOP 5 COUNTRIES ============ -->
+<section class="countries-section">
+  <div class="section-title">🌍 TOP 5 — 全球每日死亡估算</div>
+  <div class="country-list" id="country-list"></div>
+</section>
 
-		<div class="source-strip">
-			<span class="src-label">數據來源</span>
-			<span class="sep">·</span>
-			<a href="https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates" target="_blank" rel="noopener">WHO 全球死亡率估算</a>
-			<span class="sep">·</span>
-			<a href="https://www.worldometers.info/zh/" target="_blank" rel="noopener">Worldometers</a>
-			<span class="sep">·</span>
-			<a href="https://deathmeters.info/en" target="_blank" rel="noopener">Deathmeters</a>
-			<span class="sep">·</span>
-			<span class="src-label">每年約 6,600 萬人離世 · 每秒約 2 人</span>
-		</div>
+<!-- ============ FOOTER ============ -->
+<footer id="doom-footer">
+  <div id="footer-text">◈ 每秒約 2 人離世，每日約 178,000 人 ◈ 生死只在一線之間 ◈ 「人若賺得全世界，賠上自己的生命，有甚麼益處呢？」— 馬太福音 16:26 ◈ 按著定命，人人都有一死，死後且有審判 — 希伯來書 9:27 ◈</div>
+</footer>
 
-		<button class="next-btn" onclick="window.location.href='index0203.html'">查看</button>
-	</section>
-
-	<section id="city-section">
-		<div class="section-title">全球 20 大國家 · 今年已估算死亡</div>
-		<div class="section-subtitle">估算 · 國家人口 × 全球平均粗死亡率（~7.875‰/年）· 數據來源：UN World Population Prospects 2024</div>
-		<div class="city-grid" id="cityGrid"></div>
-	</section>
-
-	<button class="back-to-top" id="backToTop" onclick="scrollToTop()">↑</button>
-
-	<script>
-	var DEATH_RATE    = 2.0;
-	var SESSION_START = Date.now();
-	var thisYear      = new Date().getFullYear();
-	var YEAR_START    = new Date(thisYear, 0, 1, 0, 0, 0, 0).getTime();
-	var tm = new Date(); tm.setHours(0,0,0,0);
-	var TODAY_START = tm.getTime();
-
-	function updateCounters() {
-		var now = Date.now();
-		var yd  = Math.floor((now - YEAR_START) / 1000 * DEATH_RATE);
-		document.getElementById('yearlyDeaths').textContent = yd.toLocaleString('zh-Hant');
-		var digits = yd.toString().length;
-		document.getElementById('counterBg').textContent = parseInt('8'.repeat(digits)).toLocaleString('zh-Hant');
-		document.getElementById('todayDeaths').textContent =
-			Math.floor((now - TODAY_START) / 1000 * DEATH_RATE).toLocaleString('zh-Hant');
-		document.getElementById('sessionDeaths').textContent =
-			Math.floor((now - SESSION_START) / 1000 * DEATH_RATE).toLocaleString('zh-Hant');
-	}
-
-	var updateInterval = setInterval(updateCounters, 1000);
-	updateCounters();
-
-	function setSpeed(ms, btn) {
-		clearInterval(updateInterval);
-		updateInterval = setInterval(updateCounters, ms);
-		var btns = document.querySelectorAll('.speed-btn');
-		for (var i = 0; i < btns.length; i++) btns[i].classList.remove('active');
-		if (btn) btn.classList.add('active');
-	}
-
-	/* ===== 20 大國家（不含中國大陸及台灣，UN World Population Prospects 2024） ===== */
-	var ANNUAL_RATE = 7.875 / 1000;
-	var MS_PER_YEAR = 365.2425 * 24 * 60 * 60 * 1000;
-
-	var COUNTRIES = [
-		{ name: 'India 印度',                    pop: 1476625576 },
-		{ name: 'United States 美國',             pop: 349035494 },
-		{ name: 'Indonesia 印尼',                 pop: 287886782 },
-		{ name: 'Pakistan 巴基斯坦',              pop: 259299791 },
-		{ name: 'Nigeria 奈及利亞',               pop: 242431832 },
-		{ name: 'Brazil 巴西',                    pop: 213562666 },
-		{ name: 'Bangladesh 孟加拉',              pop: 177818044 },
-		{ name: 'Russia 俄羅斯',                  pop: 143394458 },
-		{ name: 'Ethiopia 衣索比亞',              pop: 138902185 },
-		{ name: 'Mexico 墨西哥',                  pop: 132997658 },
-		{ name: 'Japan 日本',                     pop: 122427731 },
-		{ name: 'Egypt 埃及',                     pop: 120101175 },
-		{ name: 'Philippines 菲律賓',             pop: 117724471 },
-		{ name: 'DR Congo 剛果民主共和國',         pop: 116452162 },
-		{ name: 'Vietnam 越南',                   pop: 102177431 },
-		{ name: 'Iran 伊朗',                      pop: 93168497 },
-		{ name: 'Turkey 土耳其',                  pop: 87926082 },
-		{ name: 'Germany 德國',                   pop: 83644258 },
-		{ name: 'Tanzania 坦尚尼亞',              pop: 72563780 },
-		{ name: 'Thailand 泰國',                  pop: 71559614 }
-	];
-
-	var grid = document.getElementById('cityGrid');
-
-	/* 先建卡片，之後只更新數字，避免每秒重建 DOM */
-	for (var i = 0; i < COUNTRIES.length; i++) {
-		var c = COUNTRIES[i];
-		var card = document.createElement('div');
-		card.className = 'city-card';
-		card.innerHTML =
-			'<div class="city-name">' + c.name + '</div>' +
-			'<div class="city-deaths" data-pop="' + c.pop + '">0</div>' +
-			'<div class="city-deaths-label">今年已估算死亡</div>';
-		grid.appendChild(card);
-	}
-
-	function fracOfYear(nowMs) {
-		return Math.min(1, Math.max(0, (nowMs - YEAR_START) / MS_PER_YEAR));
-	}
-
-	function updateCountryDeaths() {
-		var now = Date.now();
-		var f = fracOfYear(now);
-		var els = grid.querySelectorAll('.city-deaths');
-		for (var j = 0; j < els.length; j++) {
-			var pop = parseInt(els[j].getAttribute('data-pop'));
-			els[j].textContent = Math.floor(pop * ANNUAL_RATE * f).toLocaleString('zh-Hant');
-		}
-	}
-
-	updateCountryDeaths();
-	setInterval(updateCountryDeaths, 1000);
-
-	/* 回頂部 */
-	var backBtn = document.getElementById('backToTop');
-	window.addEventListener('scroll', function() {
-		backBtn.classList.toggle('visible', window.scrollY > 350);
-	});
-
-	function scrollToTop() {
-		window.scrollTo({ top: 0, behavior: 'smooth' });
-	}
-	</script>
+<script>
+// ═══════════════════════════════════════════════
+// INDEX V2.0 — PORTAL
+// ═══════════════════════════════════════════════
+const DEATHS_PER_SECOND = 2.0;
+let entryTime = Date.now();
+let allEvents = [];
+// ===== JSON Rules Engine (shared with monitor) =====
+let jsonRules = null;
+let dynCategories = {
+  FATAL:['猝死','自殺','治安','天災'],CRIT:['危殆','暈倒','中暑','肝炎'],
+  ACC:['交通','火警','遇溺','意外'],OTHER:['醫藥','經濟','AI安全','宗教末世','不明']
+};
+let isSpamRegex = [];
+async function loadJsonRules(){
+  try{
+    const res=await fetch('classify_rules.json');
+    if(!res.ok) throw new Error('HTTP '+res.status);
+    jsonRules=await res.json();
+    if(jsonRules.spam&&jsonRules.spam.title_patterns)
+      isSpamRegex=jsonRules.spam.title_patterns.map(p=>new RegExp(p,'i'));
+  }catch(e){console.warn('JSON rules not loaded, using fallback',e)}
+}
+const fbFatalKw=['猝死','死亡','不治','暴斃','身亡','溺斃','離世','心臟驟停','心肌梗塞','送院不治','倒斃'];
+const fbCritKw=['危殆','昏迷','命危','搶救','重傷','暈倒'];
+const fbAccKw=['意外','車禍','火警','墮樓','爆炸','工傷','交通意外'];
+const fbSafeWords=['猝死','死亡','不治','身亡','離世','心臟驟停','送院不治','墮樓','自殺','遇溺','倒斃','車禍','火警'];
+function isSpamFallback(t){
+  t=(t||'').trim();
+  for(const w of fbSafeWords) if(t.includes(w)) return false;
+  if(t.length<4) return true;
+  if(/廣告|優惠|折扣|代購|加盟|貸款|開戶|免費領/.test(t)) return true;
+  return false;
+}
+function categorize(title){
+  const t=(title||'').trim(), tLow=t.toLowerCase();
+  if(jsonRules){
+    const spam=jsonRules.spam; let isSpam=false,isSafe=false;
+    if(spam&&spam.safe_words) isSafe=spam.safe_words.some(w=>t.includes(w));
+    if(!isSafe){
+      if(spam.domains&&spam.domains.some(d=>tLow.includes(d.toLowerCase()))) isSpam=true;
+      if(!isSpam&&spam.brands&&spam.brands.some(b=>tLow.includes(b.toLowerCase()))) isSpam=true;
+      if(!isSpam&&isSpamRegex.some(rx=>rx.test(t))) isSpam=true;
+      if(!isSpam&&spam.combo_keywords){
+        let h=0; spam.combo_keywords.forEach(kw=>{if(t.includes(kw))h++});
+        if(h>=(spam.combo_threshold||2)) isSpam=true;
+      }
+    }
+    if(isSpam) return 'SPAM';
+    if(jsonRules.not_relevant){
+      if(jsonRules.not_relevant.keywords&&jsonRules.not_relevant.keywords.some(kw=>t.includes(kw))) return 'SPAM';
+      if(jsonRules.not_relevant.animal_keywords&&jsonRules.not_relevant.animal_keywords.some(kw=>tLow.includes(kw.toLowerCase()))) return 'SPAM';
+    }
+    let hasSurvival=false;
+    if(jsonRules.survival_signals&&jsonRules.survival_signals.some(w=>t.includes(w))) hasSurvival=true;
+    if(jsonRules.priority&&jsonRules.keywords){
+      for(const cat of jsonRules.priority){
+        const kws=jsonRules.keywords[cat]||[];
+        if(kws.some(kw=>t.includes(kw))){
+          let mapped='OTHER';
+          if(dynCategories.FATAL.includes(cat)) mapped='FATAL';
+          else if(dynCategories.CRIT.includes(cat)) mapped='CRIT';
+          else if(dynCategories.ACC.includes(cat)) mapped='ACC';
+          if(hasSurvival&&mapped==='FATAL') return 'CRIT';
+          return mapped;
+        }
+      }
+    }
+    if(jsonRules.death_confirmed&&jsonRules.death_confirmed.some(w=>t.includes(w))){
+      if(hasSurvival) return 'CRIT'; return 'FATAL';
+    }
+    return 'OTHER';
+  }else{
+    if(isSpamFallback(t)) return 'SPAM';
+    if(fbFatalKw.some(k=>t.includes(k))) return 'FATAL';
+    if(fbCritKw.some(k=>t.includes(k))) return 'CRIT';
+    if(fbAccKw.some(k=>t.includes(k))) return 'ACC';
+    return 'OTHER';
+  }
+}
+function extractAge(t){
+  const ps=[/(\d{1,3})\s*歲/,/(\d{1,2})旬/,/年約\s*(\d{1,3})/,/(\d{1,3})\s*yo/i];
+  for(const p of ps){const m=(t||'').match(p);if(m){let a=parseInt(m[1]);if((t||'').includes('旬')&&a<20)a*=10;if(a>0&&a<150)return a}}
+  return null;
+}
+function safeDecode(s){try{return decodeURIComponent((s||'').replace(/\+/g,' '))}catch{return s||''}}
+function parseData(raw){
+  let text=(raw||'').replace(/<(https?:\/\/[^>]+)>/g,'$1');
+  text=text.replace(/ +(?=\d{1,2}\/\d{1,2}\/\d{4}\t)/g,'\n');
+  const lines=text.split(/\r?\n/).filter(l=>l.trim()), events=[];
+  for(const line of lines){
+    if(/^日期/.test(line.trim()))continue;
+    let t=safeDecode(line),parts=t.split('\t');
+    if(parts.length<3)parts=t.split('|');
+    if(parts.length<3)parts=t.split(/\s{2,}/);
+    if(parts.length<2)continue;
+    let ds=parts[0].trim().replace(/[\[\]]/g,'');
+    let url=parts.find(p=>/^https?:\/\//i.test((p||'').trim()))||'';
+    let title=parts.filter(p=>p!==parts[0]&&p!==url).map(safeDecode).join(' ').trim();
+    if(!ds||!title)continue;
+    const dp=ds.split(/[\/-]/).map(x=>x.trim());
+    if(dp.length!==3)continue;
+    let y,m,d;
+    if(dp[0].length===4){y=dp[0];m=dp[1];d=dp[2]}
+    else if(dp[2].length===4){y=dp[2];m=dp[1];d=dp[0]}
+    else{y='20'+dp[0].padStart(2,'0');m=dp[1];d=dp[2]}
+    ds=`${String(y).padStart(4,'0')}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    if(Number.isNaN(new Date(ds).getTime()))continue;
+    events.push({date:ds,url,title,category:categorize(title),age:extractAge(title)});
+  }
+  const seen=new Set();
+  return events.filter(e=>{const k=e.date+'||'+e.title;if(seen.has(k))return false;seen.add(k);return true})
+    .sort((a,b)=>new Date(b.date)-new Date(a.date));
+}
+// ===== Death Counter =====
+function updateCounter(){
+  const elapsed=(Date.now()-entryTime)/1000;
+  const el=document.getElementById('death-since-entry');
+  if(el) el.textContent=Math.floor(elapsed*DEATHS_PER_SECOND).toLocaleString();
+  requestAnimationFrame(updateCounter);
+}
+// ===== Dashboard Summary =====
+function updateDashboard(events){
+  const nonSpam=events.filter(e=>e.category!=='SPAM');
+  document.getElementById('dc-total').textContent=nonSpam.length.toLocaleString();
+  document.getElementById('proof-total').textContent=nonSpam.length.toLocaleString();
+  const now=new Date();
+  const thisMonth=now.toISOString().slice(0,7);
+  const lastDate=new Date(now.getFullYear(),now.getMonth()-1,1);
+  const lastMonth=lastDate.toISOString().slice(0,7);
+  const thisCount=nonSpam.filter(e=>e.date.startsWith(thisMonth)).length;
+  const lastCount=nonSpam.filter(e=>e.date.startsWith(lastMonth)).length;
+  if(lastCount>0){
+    const pct=((thisCount-lastCount)/lastCount*100).toFixed(0);
+    const sign=pct>=0?'+':'';
+    document.getElementById('dc-trend').textContent=sign+pct+'%';
+    document.getElementById('dc-trend-sub').textContent=thisMonth+': '+thisCount+' 宗 vs '+lastMonth+': '+lastCount+' 宗';
+  }else{
+    document.getElementById('dc-trend').textContent=thisCount+'宗';
+    document.getElementById('dc-trend-sub').textContent=thisMonth+' 本月記錄';
+  }
+  const withAge=nonSpam.filter(e=>e.age&&e.age>0).sort((a,b)=>a.age-b.age);
+  document.getElementById('dc-youngest').textContent=withAge.length?withAge[0].age+'歲':'—';
+}
+// ===== Charts =====
+let doughnutChart=null, momChart=null, ageBarChart=null;
+function renderDoughnut(events){
+  const nonSpam=events.filter(e=>e.category!=='SPAM');
+  const f=nonSpam.filter(e=>e.category==='FATAL').length;
+  const cr=nonSpam.filter(e=>e.category==='CRIT').length;
+  const ac=nonSpam.filter(e=>e.category==='ACC').length;
+  const ot=nonSpam.filter(e=>e.category==='OTHER').length;
+  const canvas=document.getElementById('doughnut-chart');
+  if(!canvas)return;
+  if(doughnutChart)doughnutChart.destroy();
+  Chart.defaults.color='#888';
+  Chart.defaults.font.family='"Share Tech Mono",monospace';
+  doughnutChart=new Chart(canvas.getContext('2d'),{
+    type:'doughnut',
+    data:{
+      labels:['☠️ FATAL 死亡/天災','⚠️ CRITICAL 危殆','🔥 ACCIDENT 意外','📊 OTHER 其他'],
+      datasets:[{
+        data:[f,cr,ac,ot],
+        backgroundColor:['rgba(255,42,42,.8)','rgba(255,174,0,.8)','rgba(0,255,65,.7)','rgba(58,74,90,.7)'],
+        borderColor:['#ff2a2a','#ffae00','#00ff41','#3a4a5a'],
+        borderWidth:2,hoverOffset:8
+      }]
+    },
+    options:{
+      responsive:true,maintainAspectRatio:true,cutout:'55%',
+      plugins:{
+        legend:{position:'bottom',labels:{color:'#aaa',padding:12,font:{size:11}}},
+        tooltip:{
+          backgroundColor:'rgba(0,0,0,.85)',titleColor:'#ff2a2a',bodyFont:{size:13},
+          callbacks:{
+            label:function(ctx){
+              const total=ctx.dataset.data.reduce((a,b)=>a+b,0);
+              const pct=total>0?(ctx.parsed/total*100).toFixed(1):0;
+              return ctx.label+': '+ctx.parsed+' 宗 ('+pct+'%)';
+            }
+          }
+        }
+      }
+    }
+  });
+}
+function renderMoM(events){
+  const nonSpam=events.filter(e=>e.category!=='SPAM');
+  const mm={};
+  nonSpam.forEach(e=>{const ym=e.date.slice(0,7);mm[ym]=(mm[ym]||0)+1});
+  const labels=Object.keys(mm).sort();
+  const values=labels.map(l=>mm[l]);
+  const canvas=document.getElementById('mom-chart');
+  if(!canvas)return;
+  if(momChart)momChart.destroy();
+  momChart=new Chart(canvas.getContext('2d'),{
+    type:'line',
+    data:{
+      labels:labels,
+      datasets:[{
+        label:'死傷宗數',data:values,
+        borderColor:'#ff2a2a',backgroundColor:'rgba(255,42,42,.15)',
+        borderWidth:2,pointBackgroundColor:'#fff',pointBorderColor:'#ff2a2a',
+        pointRadius:2,pointHoverRadius:5,fill:true,tension:0.3
+      }]
+    },
+    options:{
+      responsive:true,maintainAspectRatio:false,
+      plugins:{
+        legend:{display:false},
+        tooltip:{
+          backgroundColor:'rgba(0,0,0,.85)',titleColor:'#ff2a2a',bodyFont:{size:13},
+          displayColors:false,
+          callbacks:{label:(ctx)=>'記錄: '+ctx.parsed.y+' 宗'}
+        }
+      },
+      scales:{
+        x:{grid:{color:'rgba(255,255,255,.05)'},ticks:{maxTicksLimit:8,maxRotation:45}},
+        y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.08)'}}
+      }
+    }
+  });
+}
+// ===== Age Interactive =====
+function calcAge(){
+  const age=parseInt(document.getElementById('user-age').value)||40;
+  const nonSpam=allEvents.filter(e=>e.category!=='SPAM');
+  const sameAge=nonSpam.filter(e=>e.age&&Math.abs(e.age-age)<=5);
+  const total=nonSpam.filter(e=>e.age).length;
+  const pct=total>0?(sameAge.length/total*100).toFixed(1):0;
+  const daysLived=age*365;
+  const daysLeft=Math.max(0,(80-age)*365);
+  const lifePct=(age/80*100).toFixed(1);
+  const el=document.getElementById('age-result');
+  el.innerHTML='在所有有年齡記錄中，<strong>'+age+'±5 歲</strong>佔 '+
+    '<span class="highlight">'+pct+'%（'+sameAge.length+' 宗）</span>'+
+    '你已活了約 <strong>'+daysLived.toLocaleString()+' 天</strong>，生命進度 <strong style="color:var(--c-accent)">'+lifePct+'%</strong><br>'+
+    '假設壽命 80 歲，剩餘約 <strong style="color:var(--c-hope)">'+daysLeft.toLocaleString()+' 天</strong>';
+  renderAgeBar();
+}
+function renderAgeBar(){
+  const canvas=document.getElementById('age-chart');
+  if(!canvas)return;
+  if(ageBarChart)ageBarChart.destroy();
+  const nonSpam=allEvents.filter(e=>e.category!=='SPAM');
+  const buckets=[{l:'<20',min:0,max:19,v:0},{l:'20s',min:20,max:29,v:0},{l:'30s',min:30,max:39,v:0},
+    {l:'40s',min:40,max:49,v:0},{l:'50s',min:50,max:59,v:0},{l:'60s',min:60,max:69,v:0},
+    {l:'70s',min:70,max:79,v:0},{l:'80+',min:80,max:200,v:0}];
+  nonSpam.forEach(e=>{if(e.age){const b=buckets.find(b=>e.age>=b.min&&e.age<=b.max);if(b)b.v++}});
+  const userAge=parseInt(document.getElementById('user-age').value)||40;
+  const userIdx=buckets.findIndex(b=>userAge>=b.min&&userAge<=b.max);
+  const bgColors=buckets.map((_,i)=>i===userIdx?'rgba(168,85,247,.8)':'rgba(255,42,42,.5)');
+  const borderColors=buckets.map((_,i)=>i===userIdx?'#a855f7':'#ff2a2a');
+  ageBarChart=new Chart(canvas.getContext('2d'),{
+    type:'bar',
+    data:{
+      labels:buckets.map(b=>b.l),
+      datasets:[{data:buckets.map(b=>b.v),backgroundColor:bgColors,borderColor:borderColors,borderWidth:1,borderRadius:4}]
+    },
+    options:{
+      responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{display:false},tooltip:{backgroundColor:'rgba(0,0,0,.85)',bodyFont:{size:12},callbacks:{label:(ctx)=>ctx.parsed.y+' 宗'}}},
+      scales:{x:{grid:{display:false}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.08)'},ticks:{display:false}}}
+    }
+  });
+}
+// ===== Top 5 Countries =====
+function renderCountries(){
+  const countries=[
+    {flag:'🇨🇳',name:'中國',rate:30000,pop:'14.1億'},
+    {flag:'🇮🇳',name:'印度',rate:27000,pop:'14.4億'},
+    {flag:'🇺🇸',name:'美國',rate:9000,pop:'3.3億'},
+    {flag:'🇳🇬',name:'尼日利亞',rate:7500,pop:'2.2億'},
+    {flag:'🇷🇺',name:'俄羅斯',rate:6500,pop:'1.4億'},
+  ];
+  const maxRate=countries[0].rate;
+  const el=document.getElementById('country-list');
+  el.innerHTML=countries.map((c,i)=>
+    '<div class="country-row">'+
+    '<div class="country-rank">'+(i+1)+'</div>'+
+    '<div class="country-flag">'+c.flag+'</div>'+
+    '<div class="country-info">'+
+    '<div class="country-name">'+c.name+'（'+c.pop+'）</div>'+
+    '<div class="country-rate">≈ 每日 '+c.rate.toLocaleString()+' 人</div>'+
+    '<div class="country-bar"><div class="country-bar-fill" style="width:'+(c.rate/maxRate*100).toFixed(0)+'%"></div></div>'+
+    '</div></div>'
+  ).join('');
+}
+// ===== Scripture Rotation =====
+function showScripture(){
+  const verses=[
+    {text:'「其實明天如何，你們還不知道。你們的生命是甚麼呢？你們原來是一片雲霧，出現少時就不見了。」',ref:'— 雅各書 4:14'},
+    {text:'「按著定命，人人都有一死，死後且有審判。」',ref:'— 希伯來書 9:27'},
+    {text:'「神愛世人，甚至將祂的獨生子賜給他們，叫一切信祂的，不致滅亡，反得永生。」',ref:'— 約翰福音 3:16'},
+    {text:'「人若賺得全世界，賠上自己的生命，有甚麼益處呢？」',ref:'— 馬太福音 16:26'},
+    {text:'「你們要謹慎行事，不要像愚昧人，當像智慧人。要愛惜光陰，因為現今的世代邪惡。」',ref:'— 以弗所書 5:15-16'},
+  ];
+  const v=verses[new Date().getDate()%verses.length];
+  document.getElementById('soul-verse').textContent=v.text;
+  document.getElementById('soul-ref').textContent=v.ref;
+}
+// ===== Particle Background =====
+const pBg=document.getElementById('particle-bg'),pCtx=pBg.getContext('2d');
+const bgP=[];
+function resizePBg(){pBg.width=innerWidth;pBg.height=innerHeight;initP()}
+function initP(){
+  bgP.length=0;const n=Math.floor(pBg.width*pBg.height/25000);
+  for(let i=0;i<n;i++) bgP.push({x:Math.random()*pBg.width,y:Math.random()*pBg.height,
+    vx:(Math.random()-.5)*.15,vy:-.1-Math.random()*.25,s:.5+Math.random()*1.2,
+    a:.1+Math.random()*.3,c:Math.random()>.8?'#a855f7':Math.random()>.5?'#ff4444':'#ffffff'});
+}
+function drawP(){
+  pCtx.fillStyle='rgba(10,0,0,0.1)';pCtx.fillRect(0,0,pBg.width,pBg.height);
+  bgP.forEach(p=>{
+    p.x+=p.vx;p.y+=p.vy;
+    if(p.y<-10){p.y=pBg.height+10;p.x=Math.random()*pBg.width}
+    if(p.x<0)p.x=pBg.width;if(p.x>pBg.width)p.x=0;
+    pCtx.beginPath();pCtx.arc(p.x,p.y,p.s,0,Math.PI*2);
+    pCtx.fillStyle=p.c;pCtx.globalAlpha=p.a;pCtx.fill();pCtx.globalAlpha=1;
+  });
+  requestAnimationFrame(drawP);
+}
+// ===== Data Loading =====
+function loadAllData(){
+  const startYear=2021,endYear=new Date().getFullYear();
+  const loads=[];
+  for(let y=startYear;y<=endYear;y++){
+    loads.push(new Promise(res=>{
+      const s=document.createElement('script');s.src='data_'+y+'.js';
+      s.onload=()=>res(y);s.onerror=()=>res(null);document.head.appendChild(s);
+    }));
+  }
+  loads.push(new Promise(res=>{
+    const s=document.createElement('script');s.src='data_today.js';
+    s.onload=()=>res('today');s.onerror=()=>res(null);document.head.appendChild(s);
+  }));
+  Promise.all(loads).then(()=>{
+    const parts=[];
+    for(let y=startYear;y<=endYear;y++) if(window['DATA_'+y]) parts.push(window['DATA_'+y]);
+    if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
+    const merged=parts.join('\n');
+    if(merged.trim()){
+      allEvents=parseData(merged);
+      updateDashboard(allEvents);
+      renderDoughnut(allEvents);
+      renderMoM(allEvents);
+      calcAge();
+    }
+  });
+}
+// ===== INIT =====
+window.addEventListener('load',async()=>{
+  resizePBg();addEventListener('resize',resizePBg);drawP();
+  updateCounter();
+  showScripture();
+  renderCountries();
+  await loadJsonRules();
+  loadAllData();
+  addEventListener('resize',()=>{
+    if(allEvents.length){renderDoughnut(allEvents);renderMoM(allEvents);renderAgeBar()}
+  });
+});
+</script>
 </body>
 </html>
-
-
-
-
