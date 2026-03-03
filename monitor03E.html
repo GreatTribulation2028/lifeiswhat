@@ -620,6 +620,7 @@ header{flex-direction:column;text-align:center;gap:15px}
 <button class="btn" onclick="exportSnapshot()">💾 匯出 HTML</button>
 <button class="btn" onclick="toggleMourningMode()">🕯️ 默哀模式</button>
 <input type="file" id="file-input" accept=".txt,.tsv,.js" style="display:none" onchange="handleFile(event)">
+<div id="json-status"></div>
 </div>
 </div>
 <!-- 跑馬燈 -->
@@ -660,12 +661,10 @@ async function loadJsonRules() {
       isSpamRegex = jsonRules.spam.title_patterns.map(p => new RegExp(p, 'i'));
     }
     
-    statusEl.innerHTML = '🟢 JSON 規則載入成功 (v' + (jsonRules._meta?.version||'1.0') + ')';
-    statusEl.style.color = 'var(--c-acc)';
+    if(statusEl){ statusEl.innerHTML = '🟢 JSON 規則載入成功 (v' + (jsonRules._meta?.version||'1.0') + ')'; statusEl.style.color = 'var(--c-acc)'; }
     console.log("JSON 規則表載入完成");
   } catch (err) {
-    statusEl.innerHTML = '🔴 classify_rules.json 載入失敗，使用內建基礎規則 (' + err.message + ')';
-    statusEl.style.color = 'var(--c-fatal)';
+    if(statusEl){ statusEl.innerHTML = '🔴 classify_rules.json 載入失敗，使用內建基礎規則 (' + err.message + ')'; statusEl.style.color = 'var(--c-fatal)'; }
     console.warn("無法載入 classify_rules.json，將退回內建函數", err);
   }
 }
