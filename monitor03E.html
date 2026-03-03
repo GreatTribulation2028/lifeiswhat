@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>生死記錄儀 V9.0 — VITAL LIFE MONITOR</title>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Jura:wght@400;600;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&family=Creepster&display=swap" rel="stylesheet">
+<!-- 引入 Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
 :root{
 --c-bg:#030405;--c-panel:rgba(8,12,18,.95);--c-border:#1a2a3a;
@@ -96,9 +98,10 @@ display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap
 .paste-zone{position:relative;z-index:10;background:rgba(10,15,20,.95);padding:20px;border-bottom:1px solid var(--c-border)}
 .paste-area{width:100%;height:100px;background:rgba(0,0,0,.6);color:#eee;border:1px solid var(--c-border);font-family:var(--f-mono);font-size:12px;padding:12px;resize:vertical;border-radius:6px}
 .paste-area:focus{border-color:var(--c-accent);outline:none}
-.paste-buttons{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap}
+.paste-buttons{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
 .btn{background:rgba(0,243,255,.1);border:1px solid var(--c-accent);color:var(--c-accent);padding:10px 20px;font-family:var(--f-head);font-size:12px;cursor:pointer;transition:all .3s;border-radius:4px}
 .btn:hover{background:var(--c-accent);color:#000;box-shadow:0 0 25px var(--c-accent)}
+#json-status{font-family:var(--f-mono);font-size:11px;color:var(--c-crit);margin-left:auto}
 
 /* ===== Main 三欄 ===== */
 main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 340px;gap:10px;padding:10px;min-height:calc(100vh - 200px)}
@@ -136,8 +139,10 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 .type-CRIT .title a{color:#ffeebb}
 .type-ACC{border-left-color:var(--c-acc);background:rgba(0,255,65,.03)}
 .type-ACC .title a{color:#ccffcc}
-.type-SPAM{border-left-color:#555;opacity:.4;font-style:italic}
+.type-SPAM{border-left-color:#555;opacity:.4;font-style:italic;display:none;} /* 預設隱藏 SPAM */
 .type-SPAM .title a{color:#888}
+.type-OTHER{border-left-color:#3a4a5a;background:rgba(58,74,90,.05)}
+.type-OTHER .title a{color:#a0aabb}
 
 /* ===== 燭光 ===== */
 .candle{position:absolute;right:12px;top:50%;transform:translateY(-50%);font-size:20px;cursor:pointer;opacity:.4;transition:all .3s;filter:grayscale(.8)}
@@ -152,7 +157,7 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 #candle-count{text-align:center;padding:12px;color:var(--c-crit);font-family:var(--f-mono);font-size:13px;border-top:1px solid var(--c-border);background:rgba(0,0,0,.4)}
 
 /* ===== 雷達 ===== */
-.radar-zone{position:relative;display:flex;align-items:center;justify-content:center;min-height:380px;background:radial-gradient(circle,rgba(100,40,160,.4),rgba(50,15,90,.55),rgba(10,5,20,.95));overflow:hidden}
+.radar-zone{position:relative;display:flex;align-items:center;justify-content:center;min-height:300px;background:radial-gradient(circle,rgba(100,40,160,.4),rgba(50,15,90,.55),rgba(10,5,20,.95));overflow:hidden}
 #soul-canvas{position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none}
 .big-stat{position:relative;z-index:10;text-align:center;background:rgba(0,0,0,.85);padding:25px 40px;border-radius:16px;border:2px solid rgba(0,243,255,.4);box-shadow:0 0 50px rgba(0,243,255,.2),inset 0 0 30px rgba(0,243,255,.05)}
 .big-stat .val{font-family:var(--f-head);font-size:clamp(2.5rem,8vw,4rem);color:#fff;text-shadow:0 0 40px var(--c-accent),0 0 80px var(--c-accent)}
@@ -169,10 +174,12 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 .stat-card.crit{border-color:var(--c-crit)}.stat-card.crit .num{color:var(--c-crit);text-shadow:0 0 20px var(--c-crit)}
 .stat-card.acc{border-color:var(--c-acc)}.stat-card.acc .num{color:var(--c-acc);text-shadow:0 0 20px var(--c-acc)}
 
-/* ===== 趨勢圖 ===== */
-#trend-chart-wrap{padding:10px;border-top:1px solid var(--c-border)}
-#trend-chart-wrap h4{font-family:var(--f-mono);font-size:11px;color:var(--c-accent);margin-bottom:8px;text-align:center;letter-spacing:2px}
-#trend-chart{width:100%;height:160px;background:rgba(0,0,0,.4);border:1px solid var(--c-border);border-radius:6px}
+/* ===== 圖表區 ===== */
+.chart-tabs{display:flex;gap:5px;padding:10px 15px 0 15px;justify-content:center}
+.chart-tab-btn{background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-bottom:none;color:#888;padding:8px 16px;font-family:var(--f-mono);font-size:11px;cursor:pointer;border-radius:4px 4px 0 0;transition:all .3s}
+.chart-tab-btn.active{background:rgba(0,243,255,.15);border-color:var(--c-accent);color:var(--c-accent);}
+#trend-chart-wrap{padding:10px;border-top:1px solid var(--c-border);height:280px;position:relative}
+#trend-chart{width:100%;height:100%}
 
 #today-focus{background:linear-gradient(135deg,rgba(50,10,20,.8),rgba(20,5,10,.9));border:1px solid var(--c-fatal);padding:20px;margin:10px;border-radius:10px;text-align:center;position:relative;overflow:hidden}
 #today-focus::before{content:'';position:absolute;top:0;left:-100%;width:100%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,42,42,.1),transparent);animation:focusSweep 4s linear infinite}
@@ -251,6 +258,7 @@ body.mourning-mode .candle.lit{filter:grayscale(0)!important}
 #back-to-top{position:fixed;bottom:55px;right:20px;width:44px;height:44px;background:rgba(0,0,0,.7);border:1px solid var(--c-border);color:#888;font-size:20px;cursor:pointer;border-radius:50%;z-index:9998;display:none;align-items:center;justify-content:center;transition:all .3s;backdrop-filter:blur(5px)}
 #back-to-top:hover{border-color:var(--c-accent);color:var(--c-accent);background:rgba(0,0,0,.9)}
 #back-to-top.visible{display:flex}
+
 /* ===== 時間範圍篩選 ===== */
 .time-range-bar{display:flex;gap:6px;padding:10px 15px;justify-content:center;flex-wrap:wrap;border-top:1px solid var(--c-border)}
 .time-range-btn{background:rgba(0,0,0,.5);border:1px solid var(--c-border);color:#888;padding:8px 16px;font-family:var(--f-mono);font-size:11px;cursor:pointer;border-radius:4px;transition:all .3s}
@@ -266,6 +274,7 @@ header{flex-direction:column;text-align:center;gap:15px}
 .immersive-content{padding:0 8px}
 .immersive-question{font-size:clamp(1.1rem,4.5vw,1.6rem)}
 #back-to-top{width:36px;height:36px;font-size:16px;bottom:60px;right:10px}
+.chart-tabs{flex-wrap:wrap}
 }
 </style>
 </head>
@@ -395,7 +404,8 @@ header{flex-direction:column;text-align:center;gap:15px}
 <button class="btn" onclick="document.getElementById('file-input').click()">📂 選擇檔案</button>
 <button class="btn" onclick="exportSnapshot()">💾 匯出 HTML</button>
 <button class="btn" onclick="toggleMourningMode()">🕯️ 默哀模式</button>
-<input type="file" id="file-input" accept=".txt,.tsv" style="display:none" onchange="handleFile(event)">
+<div id="json-status">🔴 classify_rules.json 未載入（使用內建規則）</div>
+<input type="file" id="file-input" accept=".txt,.tsv,.js" style="display:none" onchange="handleFile(event)">
 </div>
 </div>
 
@@ -427,9 +437,9 @@ header{flex-direction:column;text-align:center;gap:15px}
 </div>
 </div>
 <div class="stats-grid">
-<div class="stat-card fatal"><div class="icon">☠️</div><div class="num" id="stat-fatal">0</div><div class="lbl">FATAL 猝死</div></div>
-<div class="stat-card crit"><div class="icon">⚠️</div><div class="num" id="stat-crit">0</div><div class="lbl">CRITICAL 危殆</div></div>
-<div class="stat-card acc"><div class="icon">🔥</div><div class="num" id="stat-acc">0</div><div class="lbl">ACCIDENT 意外</div></div>
+<div class="stat-card fatal"><div class="icon">☠️</div><div class="num" id="stat-fatal">0</div><div class="lbl">FATAL 死亡/天災</div></div>
+<div class="stat-card crit"><div class="icon">⚠️</div><div class="num" id="stat-crit">0</div><div class="lbl">CRITICAL 危殆/暈倒</div></div>
+<div class="stat-card acc"><div class="icon">🔥</div><div class="num" id="stat-acc">0</div><div class="lbl">ACCIDENT 意外/交通</div></div>
 <div class="stat-card"><div class="icon">📊</div><div class="num" id="stat-other">0</div><div class="lbl">OTHER 其他</div></div>
 </div>
 <div class="time-range-bar">
@@ -439,10 +449,15 @@ header{flex-direction:column;text-align:center;gap:15px}
 <button class="time-range-btn" data-range="year" onclick="filterByTimeRange('year')">一年</button>
 <button class="time-range-btn" data-range="all" onclick="filterByTimeRange('all')">全部</button>
 </div>
+<!-- Chart.js 圖表區 -->
+<div class="chart-tabs">
+  <button class="chart-tab-btn active" onclick="switchChart('mom')">按月趨勢 (MoM)</button>
+  <button class="chart-tab-btn" onclick="switchChart('yoy')">按年對比 (YoY)</button>
+</div>
 <div id="trend-chart-wrap">
-<h4>📈 MONTHLY TREND ─ 月份趨勢</h4>
 <canvas id="trend-chart"></canvas>
 </div>
+
 <div id="today-focus">
 <div class="focus-title">📍 今日聚焦 / TODAY'S FOCUS</div>
 <div class="focus-content">載入資料後顯示...</div>
@@ -625,7 +640,7 @@ header{flex-direction:column;text-align:center;gap:15px}
 
 <script>
 // ═══════════════════════════════════════════════
-// VITAL LIFE MONITOR v9.0 (single-file)
+// VITAL LIFE MONITOR v9.0 (Chart.js + JSON Rules)
 // ═══════════════════════════════════════════════
 let allEvents = [];
 let filteredEvents = [];
@@ -634,6 +649,131 @@ let totalCandles = Object.values(candleCounts).reduce((a, b) => a + b, 0);
 
 const DEATHS_PER_SECOND = 2.0;
 let deathEntryTime = null;
+
+// ===== 動態載入 JSON 規則引擎 =====
+let jsonRules = null;
+let dynCategories = {
+  FATAL: ['猝死', '自殺', '治安', '天災'],
+  CRIT: ['危殆', '暈倒', '中暑', '肝炎'],
+  ACC: ['交通', '火警', '遇溺', '意外'],
+  OTHER: ['醫藥', '經濟', 'AI安全', '宗教末世', '不明']
+};
+let isSpamRegex = [];
+
+async function loadJsonRules() {
+  const statusEl = document.getElementById('json-status');
+  try {
+    const res = await fetch('classify_rules.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    jsonRules = await res.json();
+    
+    // 預編譯 SPAM 正則
+    if (jsonRules.spam && jsonRules.spam.title_patterns) {
+      isSpamRegex = jsonRules.spam.title_patterns.map(p => new RegExp(p, 'i'));
+    }
+    
+    statusEl.innerHTML = '🟢 JSON 規則載入成功 (v' + (jsonRules._meta?.version||'1.0') + ')';
+    statusEl.style.color = 'var(--c-acc)';
+    console.log("JSON 規則表載入完成");
+  } catch (err) {
+    statusEl.innerHTML = '🔴 classify_rules.json 載入失敗，使用內建基礎規則 (' + err.message + ')';
+    statusEl.style.color = 'var(--c-fatal)';
+    console.warn("無法載入 classify_rules.json，將退回內建函數", err);
+  }
+}
+
+// 內建基礎分類（若 JSON 載入失敗的後備）
+const fbFatalKw = ['猝死','死亡','不治','暴斃','身亡','溺斃','離世','心臟驟停','心肌梗塞','送院不治','倒斃'];
+const fbCritKw  = ['危殆','昏迷','命危','搶救','重傷','暈倒'];
+const fbAccKw   = ['意外','車禍','火警','墮樓','爆炸','工傷','交通意外'];
+const fbSafeWords = ['猝死','死亡','不治','身亡','離世','心臟驟停','送院不治','墮樓','自殺','遇溺','倒斃','車禍','火警'];
+
+function isSpamFallback(t) {
+  t=(t||'').trim();
+  for(const w of fbSafeWords) if(t.includes(w)) return false;
+  if(t.length<4) return true;
+  if(/廣告|優惠|折扣|代購|加盟|貸款|開戶|免費領/.test(t)) return true;
+  return false;
+}
+
+// 核心分類邏輯：優先使用 JSON，否則使用後備
+// 完整流程：SPAM domains → brands → regex → combo
+//          → not_relevant (keywords + animal_keywords)
+//          → survival_signals 降級
+//          → priority 關鍵字 → death_confirmed 兜底 → OTHER
+function categorize(title) {
+  const t = (title||'').trim();
+  const tLow = t.toLowerCase();
+  
+  if (jsonRules) {
+    // 1. JSON Spam 檢查
+    const spam = jsonRules.spam;
+    let isSpam = false;
+    let isSafe = false;
+    if (spam && spam.safe_words) {
+      isSafe = spam.safe_words.some(w => t.includes(w));
+    }
+    if (!isSafe) {
+      // 1a. 賭博域名檢查
+      if (spam.domains && spam.domains.some(d => tLow.includes(d.toLowerCase()))) isSpam = true;
+      // 1b. 品牌檢查
+      if (!isSpam && spam.brands && spam.brands.some(b => tLow.includes(b.toLowerCase()))) isSpam = true;
+      // 1c. 正則表達式檢查
+      if (!isSpam && isSpamRegex.some(rx => rx.test(t))) isSpam = true;
+      // 1d. 組合關鍵字檢查
+      if (!isSpam && spam.combo_keywords) {
+        let hits = 0;
+        spam.combo_keywords.forEach(kw => { if(t.includes(kw)) hits++; });
+        if (hits >= (spam.combo_threshold || 2)) isSpam = true;
+      }
+    }
+    if (isSpam) return 'SPAM';
+    
+    // 2. JSON Not Relevant（keywords + animal_keywords 均視為 SPAM 隱藏）
+    if (jsonRules.not_relevant) {
+      if (jsonRules.not_relevant.keywords && jsonRules.not_relevant.keywords.some(kw => t.includes(kw))) return 'SPAM';
+      if (jsonRules.not_relevant.animal_keywords && jsonRules.not_relevant.animal_keywords.some(kw => tLow.includes(kw.toLowerCase()))) return 'SPAM';
+    }
+    
+    // ── 3. Survival Signals 降級檢查 ──
+    let hasSurvival = false;
+    if (jsonRules.survival_signals && jsonRules.survival_signals.some(w => t.includes(w))) {
+      hasSurvival = true;
+    }
+    // ── 4. Priority 順序關鍵字匹配 ──
+    if (jsonRules.priority && jsonRules.keywords) {
+      for (const cat of jsonRules.priority) {
+        const kws = jsonRules.keywords[cat] || [];
+        if (kws.some(kw => t.includes(kw))) {
+          // 映射回 HTML 的 4 大類
+          let mapped = 'OTHER';
+          if (dynCategories.FATAL.includes(cat)) mapped = 'FATAL';
+          else if (dynCategories.CRIT.includes(cat)) mapped = 'CRIT';
+          else if (dynCategories.ACC.includes(cat)) mapped = 'ACC';
+          // 降級：如果有 survival signal 且原本歸 FATAL，降為 CRIT
+          if (hasSurvival && mapped === 'FATAL') return 'CRIT';
+          return mapped;
+        }
+      }
+    }
+    // ── 5. Death Confirmed 兜底 ──
+    if (jsonRules.death_confirmed && jsonRules.death_confirmed.some(w => t.includes(w))) {
+      // 降級：有 survival signal → CRIT
+      if (hasSurvival) return 'CRIT';
+      return 'FATAL';
+    }
+    
+    return 'OTHER';
+    
+  } else {
+    // 後備邏輯
+    if(isSpamFallback(t)) return 'SPAM';
+    if(fbFatalKw.some(k=>t.includes(k))) return 'FATAL';
+    if(fbCritKw.some(k=>t.includes(k))) return 'CRIT';
+    if(fbAccKw.some(k=>t.includes(k))) return 'ACC';
+    return 'OTHER';
+  }
+}
 
 // ===== 經文 / 名言 =====
 const dailyVerses = [
@@ -662,17 +802,6 @@ const wisdomQuotes = [
   { text: '活著時，想到死亡；死亡時，會否想到永生？', source: '佚名' },
   { text: '人終究要死，但問題是：是否真的活過？', source: '電影對白' },
 ];
-
-// ===== 分類關鍵字 =====
-const fatalKw = ['猝死','死亡','不治','暴斃','身亡','溺斃','離世','過身','心臟驟停','心肌梗塞','腦溢血','器官衰竭','送院不治','宣告死亡','倒斃','證實死亡','當場死亡','搶救不治','傷重不治','路邊死亡','墮斃'];
-const critKw  = ['危殆','昏迷','命危','搶救','重傷','心跳停','遇溺','重症','病危','垂危','嚴重受傷','搶救中'];
-const accKw   = ['意外','車禍','火警','跌','墮','爆炸','工傷','失控','翻車','塌陷','撞','起火','倒塌','交通意外','山泥傾瀉'];
-
-// v2.5 SAFE_WORDS：含這些詞的標題不判為 SPAM（共 21 個）
-const SAFE_WORDS=['猝死','死亡','不治','暴斃','身亡','溺斃','離世','過身','心臟驟停','心肌梗塞','腦溢血','器官衰竭','送院不治','宣告死亡','墮樓','自殺','遇溺','倒斃','證實死亡','車禍','火警'];
-const spamPat=[/廣告/,/優惠/,/折扣/,/代購/,/加盟/,/貸款/,/開戶/,/投資回報/,/免費領/,/點擊領取/];
-function isSpam(t){t=(t||'').trim();for(const w of SAFE_WORDS)if(t.includes(w))return false;if(t.length<4)return true;for(const p of spamPat)if(p.test(t))return true;return false}
-function categorize(t){const tl=(t||'').toLowerCase();for(const k of fatalKw)if(tl.includes(k))return'FATAL';for(const k of critKw)if(tl.includes(k))return'CRIT';for(const k of accKw)if(tl.includes(k))return'ACC';if(isSpam(t))return'SPAM';return'OTHER'}
 
 function extractAge(t){
   const ps=[/(\d{1,3})\s*歲/,/(\d{1,2})旬/,/年約\s*(\d{1,3})/,/(\d{1,3})\s*yo/i];
@@ -718,9 +847,21 @@ function parseData(raw){
 }
 
 function getKeywordStats(events){
-  const kws={}, importantWords=['猝死','心臟','車禍','意外','暈倒','昏迷','火警','墮樓','溺斃','工傷','自殺','跳樓','中風','癌症','心肌梗塞','腦溢血','過勞','危殆','病逝','暴斃','不治','身亡','離世','命危','搶救','倒塌','倒斃'];
-  for(const e of events) for(const kw of importantWords) if((e.title||'').includes(kw)) kws[kw]=(kws[kw]||0)+1;
-  return Object.entries(kws).sort((a,b)=>b[1]-a[1]).slice(0,15);
+  // 動態獲取 JSON 內的常用詞，否則用預設
+  let checkWords = ['猝死','心臟','車禍','意外','暈倒','昏迷','火警','墮樓','溺斃','工傷','自殺','跳樓','中風','癌症','心肌梗塞','腦溢血','過勞','危殆','病逝','暴斃','不治','身亡','離世','命危','搶救','倒塌','倒斃'];
+  if (jsonRules && jsonRules.keywords) {
+     let all = [];
+     Object.values(jsonRules.keywords).forEach(arr => all.push(...arr));
+     // 合併 JSON 關鍵字（確定性排序，不隨機）
+     checkWords = [...new Set([...checkWords, ...all])].sort().slice(0, 80);
+  }
+  
+  const kws={};
+  for(const e of events) {
+    if (e.category === 'SPAM') continue;
+    for(const kw of checkWords) if((e.title||'').includes(kw)) kws[kw]=(kws[kw]||0)+1;
+  }
+  return Object.entries(kws).sort((a,b)=>b[1]-a[1]).slice(0,25);
 }
 
 function renderList(events){
@@ -745,16 +886,19 @@ function lightCandle(el){
 }
 
 function updateStats(events){
+  const nonSpam = events.filter(e => e.category !== 'SPAM');
   const f=events.filter(e=>e.category==='FATAL').length, cr=events.filter(e=>e.category==='CRIT').length,
-        ac=events.filter(e=>e.category==='ACC').length, ot=events.length-f-cr-ac;
-  document.getElementById('total-count').textContent=events.length;
+        ac=events.filter(e=>e.category==='ACC').length, ot=events.filter(e=>e.category==='OTHER').length;
+  document.getElementById('total-count').textContent=nonSpam.length;
   document.getElementById('stat-fatal').textContent=f;
   document.getElementById('stat-crit').textContent=cr;
   document.getElementById('stat-acc').textContent=ac;
   document.getElementById('stat-other').textContent=ot;
-  if(events.length>0){
-    const dates=events.map(e=>e.date).sort();
-    document.getElementById('period-display').textContent=`${dates[0]} → ${dates[dates.length-1]} | ${events.length} 宗`;
+  if(nonSpam.length>0){
+    const dates=nonSpam.map(e=>e.date).sort();
+    document.getElementById('period-display').textContent=`${dates[0]} → ${dates[dates.length-1]} | ${nonSpam.length} 宗`;
+  } else {
+    document.getElementById('period-display').textContent=`等待數據載入...`;
   }
 }
 
@@ -769,42 +913,161 @@ function renderKeywordCloud(events){
   }).join('');
 }
 
-function renderTrendChart(events){
-  const canvas=document.getElementById('trend-chart');if(!canvas)return;
-  const ctx=canvas.getContext('2d'),dpr=window.devicePixelRatio||1;
-  canvas.width=canvas.offsetWidth*dpr;canvas.height=canvas.offsetHeight*dpr;
-  ctx.setTransform(1,0,0,1,0,0);ctx.scale(dpr,dpr);
-  const W=canvas.offsetWidth,H=canvas.offsetHeight;
-  ctx.clearRect(0,0,W,H);
-  if(!events.length){ctx.fillStyle='#666';ctx.font='12px "Share Tech Mono",monospace';ctx.textAlign='center';ctx.fillText('載入資料後顯示趨勢圖',W/2,H/2);return}
-  const mm={};events.forEach(e=>{const ym=e.date.slice(0,7);mm[ym]=(mm[ym]||0)+1});
-  const labels=Object.keys(mm).sort(),values=labels.map(l=>mm[l]),mx=Math.max(...values,1);
-  const pL=45,pR=15,pT=20,pB=35,pW=W-pL-pR,pH=H-pT-pB;
-  ctx.strokeStyle='rgba(26,42,58,.6)';ctx.lineWidth=1;
-  for(let i=0;i<=4;i++){
-    const y=pT+pH*(1-i/4);
-    ctx.beginPath();ctx.moveTo(pL,y);ctx.lineTo(W-pR,y);ctx.stroke();
-    ctx.fillStyle='#5a6a7a';ctx.font='10px "Share Tech Mono",monospace';ctx.textAlign='right';
-    ctx.fillText(Math.round(mx*i/4),pL-6,y+3)
-  }
-  const step=labels.length>1?pW/(labels.length-1):pW;
-  ctx.beginPath();ctx.moveTo(pL,pT+pH);
-  labels.forEach((l,i)=>{ctx.lineTo(pL+i*step,pT+pH*(1-values[i]/mx))});
-  ctx.lineTo(pL+(labels.length-1)*step,pT+pH);ctx.closePath();
-  const gd=ctx.createLinearGradient(0,pT,0,pT+pH);gd.addColorStop(0,'rgba(0,243,255,.15)');gd.addColorStop(1,'rgba(0,243,255,0)');
-  ctx.fillStyle=gd;ctx.fill();
-  ctx.beginPath();ctx.strokeStyle='#00f3ff';ctx.lineWidth=2;ctx.shadowColor='#00f3ff';ctx.shadowBlur=8;
-  labels.forEach((l,i)=>{const x=pL+i*step,y=pT+pH*(1-values[i]/mx);i===0?ctx.moveTo(x,y):ctx.lineTo(x,y)});
-  ctx.stroke();ctx.shadowBlur=0;
+
+// ===== CHART.JS 專業互動圖表 =====
+let mainChart = null;
+let currentChartMode = 'mom'; // 'mom' 或是 'yoy'
+
+function switchChart(mode) {
+  currentChartMode = mode;
+  document.querySelectorAll('.chart-tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelector(`.chart-tab-btn[onclick="switchChart('${mode}')"]`).classList.add('active');
+  renderTrendChart(filteredEvents);
 }
+
+function renderTrendChart(events){
+  const canvas = document.getElementById('trend-chart');
+  if(!canvas) return;
+  
+  // 排除 SPAM 數據
+  const dataEvents = events.filter(e => e.category !== 'SPAM');
+  if(!dataEvents.length) return;
+  
+  const ctx = canvas.getContext('2d');
+  
+  // 銷毀舊圖表
+  if (mainChart) mainChart.destroy();
+
+  Chart.defaults.color = '#888';
+  Chart.defaults.font.family = '"Share Tech Mono", monospace';
+
+  if (currentChartMode === 'mom') {
+    // === 按月趨勢 (MoM) ===
+    const mm = {};
+    dataEvents.forEach(e => {
+      const ym = e.date.slice(0,7);
+      mm[ym] = (mm[ym] || 0) + 1;
+    });
+    const labels = Object.keys(mm).sort();
+    const values = labels.map(l => mm[l]);
+
+    mainChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: [{
+          label: '死傷宗數',
+          data: values,
+          borderColor: '#00f3ff',
+          backgroundColor: 'rgba(0, 243, 255, 0.15)',
+          borderWidth: 2,
+          pointBackgroundColor: '#fff',
+          pointBorderColor: '#00f3ff',
+          pointRadius: 3,
+          pointHoverRadius: 6,
+          fill: true,
+          tension: 0.3
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        onClick: (e, activeEls) => {
+          if (activeEls.length > 0) {
+            const idx = activeEls[0].index;
+            const ym = labels[idx];
+            document.getElementById('search-input').value = ym;
+            filterEvents();
+          }
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: 'rgba(0,0,0,0.8)',
+            titleColor: '#00f3ff',
+            bodyFont: { size: 14 },
+            displayColors: false,
+            callbacks: {
+              label: (ctx) => `記錄: ${ctx.parsed.y} 宗`
+            }
+          }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(255,255,255,0.05)' } },
+          y: { beginAtZero: true, grid: { color: 'rgba(255,255,255,0.1)' } }
+        }
+      }
+    });
+
+  } else {
+    // === 按年對比 (YoY) ===
+    const yearMonthData = {};
+    const allYears = new Set();
+    
+    dataEvents.forEach(e => {
+      const y = e.date.slice(0,4);
+      const m = parseInt(e.date.slice(5,7));
+      allYears.add(y);
+      if (!yearMonthData[y]) yearMonthData[y] = Array(12).fill(0);
+      yearMonthData[y][m-1]++;
+    });
+
+    const sortedYears = Array.from(allYears).sort().slice(-4); // 最多顯示最近4年
+    const colors = ['#3a4a5a', '#a855f7', '#ffae00', '#00f3ff'];
+    
+    const datasets = sortedYears.map((y, i) => ({
+      label: `${y}年`,
+      data: yearMonthData[y],
+      backgroundColor: colors[i % colors.length],
+      borderRadius: 4
+    }));
+
+    mainChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+        datasets: datasets
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        onClick: (e, activeEls) => {
+          if (activeEls.length > 0) {
+            const dsIdx = activeEls[0].datasetIndex;
+            const dataIdx = activeEls[0].index;
+            const y = sortedYears[dsIdx];
+            const m = String(dataIdx + 1).padStart(2, '0');
+            document.getElementById('search-input').value = `${y}-${m}`;
+            filterEvents();
+          }
+        },
+        plugins: {
+          legend: { position: 'top', labels: { color: '#e0e6ed', boxWidth: 12 } },
+          tooltip: {
+            backgroundColor: 'rgba(0,0,0,0.8)',
+            bodyFont: { size: 13 }
+          }
+        },
+        scales: {
+          x: { grid: { display: false } },
+          y: { beginAtZero: true, grid: { color: 'rgba(255,255,255,0.1)' } }
+        }
+      }
+    });
+  }
+}
+
 function quickSearch(kw){document.getElementById('search-input').value=kw;filterEvents()}
+
 function showTodayFocus(events){
-  if(!events.length)return;
-  const pool=events.filter(e=>e.category==='FATAL'); const src=pool.length?pool:events;
+  const pool = events.filter(e => e.category === 'FATAL'); 
+  const src = pool.length ? pool : events.filter(e => e.category !== 'SPAM');
+  if(!src.length) return;
   const r=src[Math.floor(Math.random()*src.length)];
   document.querySelector('#today-focus .focus-content').textContent=r.title;
   document.querySelector('#today-focus .focus-date').textContent=r.date;
 }
+
 function filterEvents(){
   const q=(document.getElementById('search-input').value||'').toLowerCase().trim();
   const av=document.getElementById('age-filter').value;
@@ -818,7 +1081,10 @@ function filterEvents(){
     if(av&&ok){const ta=parseInt(av);ok=e.age?Math.abs(e.age-ta)<=5:false}
     return ok;
   });
-  renderList(filteredEvents);updateStats(filteredEvents);renderKeywordCloud(filteredEvents);renderTrendChart(filteredEvents);
+  renderList(filteredEvents);
+  updateStats(filteredEvents);
+  renderKeywordCloud(filteredEvents);
+  renderTrendChart(filteredEvents);
   showTodayFocus(filteredEvents);
   const el=document.getElementById('filter-summary');
   if(el) el.textContent=(q||av||yv||mv)?`顯示 ${filteredEvents.length} / ${allEvents.length} 筆`:'';
@@ -864,6 +1130,7 @@ function populateFilterDropdowns(){
 function loadPastedData(){
   const input=document.getElementById('paste-input');
   if(!input||!input.value.trim())return;
+  // 重新解析數據，這時若 JSON 已載入，就會用 JSON 規則
   allEvents=parseData(input.value); filteredEvents=[...allEvents];
   populateFilterDropdowns();renderAgeDist();
   filterByTimeRange('today');
@@ -874,9 +1141,19 @@ function handleFile(ev){
   r.onload=e=>{document.getElementById('paste-input').value=e.target.result;loadPastedData()};
   r.readAsText(f);
 }
+
+// === 核心啟動流程修改：先讀 JSON，再讀 Data ===
+async function initApp() {
+  // 1. 先非同步載入 JSON
+  await loadJsonRules();
+  
+  // 2. 再載入新聞數據
+  autoLoadData();
+}
+
 function autoLoadData(){
   if(location.protocol==='file:'){
-    document.getElementById('paste-input').placeholder='⚠️ 本機開啟請用 python -m http.server 8000\n再開 http://localhost:8000/monitor03E.html';
+    document.getElementById('paste-input').placeholder='⚠️ 本機開啟請用 python -m http.server 8000\n再開 http://localhost:8000/monitor.html';
     return;
   }
   // === 自動載入 data-YYYY.js（2021 至今年）+ data-today.js ===
@@ -916,6 +1193,7 @@ function autoLoadData(){
     }
   });
 }
+
 function exportSnapshot(){
   const blob=new Blob([document.documentElement.outerHTML],{type:'text/html;charset=utf-8'});
   const url=URL.createObjectURL(blob); const a=document.createElement('a');
@@ -976,7 +1254,7 @@ function showDailyContent(){
 function toggleMourningMode(){document.body.classList.toggle('mourning-mode')}
 // ===== 沉浸靈魂旅程（已移至 GoodNews.html） =====
 function openImmersive(){ window.location.href='GoodNews.html'; }
-function closeImmersive(){ window.location.href='monitor03E.html'; }
+function closeImmersive(){ window.location.href='monitor.html'; }
 function nextStage(n){
   document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));
   const el=document.getElementById(`stage-${n}`);
@@ -1105,7 +1383,11 @@ window.addEventListener('load',()=>{
   resizeSoul();addEventListener('resize',resizeSoul);drawSoulParticles();
   showDailyContent();updateLifelineCards();calculateLife();
   document.getElementById('total-candles').textContent=totalCandles;
-  autoLoadData();startDeathCounter();
+  
+  // 啟動應用
+  initApp();
+  startDeathCounter();
+  
   addEventListener('resize',()=>{if(filteredEvents.length){renderTrendChart(filteredEvents);renderAgeDist()}});
 });
 </script>
