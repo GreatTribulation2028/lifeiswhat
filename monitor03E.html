@@ -639,6 +639,7 @@ let allEvents = [];
 let filteredEvents = [];
 let candleCounts = JSON.parse(localStorage.getItem('candleCounts') || '{}');
 let totalCandles = Object.values(candleCounts).reduce((a, b) => a + b, 0);
+let currentTimeRange = 'today';
 
 const DEATHS_PER_SECOND = 2.0;
 let deathEntryTime = null;
@@ -732,6 +733,9 @@ function categorize(title) {
     if (jsonRules.survival_signals && jsonRules.survival_signals.some(w => t.includes(w))) {
       hasSurvival = true;
     }
+    // ── 3b. Direct SUDDEN keyword override ──
+    const suddenDirect = ['猝死','心臟驟停','心肌梗塞','暴斃'];
+    if (suddenDirect.some(k => t.includes(k))) return 'SUDDEN';
     // ── 4. Priority 順序關鍵字匹配 ──
     if (jsonRules.priority && jsonRules.keywords) {
       for (const cat of jsonRules.priority) {
@@ -1064,8 +1068,7 @@ function showTodayFocus(events){
 }
 
 function getTimeRangeBase(){
-  const active=document.querySelector('.time-range-btn.active');
-  const range=active?active.dataset.range:'all';
+  const range=currentTimeRange||'all';
   if(range==='all') return [...allEvents];
   const now=new Date(),todayStr=now.toISOString().slice(0,10);
   if(range==='today'){
@@ -1113,6 +1116,7 @@ function resetFilters(){
   renderList(filteredEvents);updateStats(filteredEvents);renderKeywordCloud(filteredEvents);renderTrendChart(filteredEvents);showTodayFocus(filteredEvents);
 }
 function filterByTimeRange(range){
+  currentTimeRange=range;
   document.querySelectorAll('.time-range-btn').forEach(b=>b.classList.remove('active'));
   const btn=document.querySelector('.time-range-btn[data-range="'+range+'"]');
   if(btn) btn.classList.add('active');
