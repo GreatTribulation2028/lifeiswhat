@@ -72,7 +72,7 @@ display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap
 .lifeline-card p{font-size:14px;color:#999;margin-top:8px}
 
 /* ===== 四格區塊 ===== */
-.four-grid{position:relative;z-index:10;display:grid;grid-template-columns:repeat(4,1fr);gap:15px;padding:20px;background:rgba(5,10,15,.95)}
+.four-grid{display:none}
 .fg-card{background:var(--c-panel);border:1px solid var(--c-border);border-radius:10px;padding:20px;text-align:center;transition:all .3s}
 .fg-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
 .fg-card .fg-icon{font-size:2.2rem;margin-bottom:10px}
@@ -271,7 +271,12 @@ body.mourning-mode .candle.lit{filter:grayscale(0)!important}
 @media(max-width:1024px){main{grid-template-columns:1fr}.four-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:768px){
 body{padding-bottom:55px}
-header{flex-direction:column;text-align:center;gap:15px}
+#death-counter{padding:4px 8px;gap:6px;min-height:auto}
+.counter-label{font-size:10px}
+.counter-value{font-size:14px;min-width:35px}
+.counter-since{display:none}
+.back-to-portal{padding:3px 8px;font-size:10px}
+header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 .stats-grid{grid-template-columns:repeat(2,1fr)}
 .four-grid{grid-template-columns:repeat(2,1fr)}
 .immersive-content{padding:0 8px}
@@ -489,7 +494,7 @@ header{flex-direction:column;text-align:center;gap:15px}
 
 <div class="immersive-stage active" id="stage-1">
 <div class="immersive-question">有沒有想過<br>活著，到底是為了什麼？</div>
-<div class="immersive-sub">工作、賺錢、置業、養妻活兒<br>勞碌一生<br>生命 : 長度 : 濃度，到底為了甚麼?<br>最後，我們只能成為其中一個被記錄的數字嗎？</div>
+<div class="immersive-sub">工作、賺錢、置業、養妻活兒<br>勞錄一生<br>生命 : 長度 : 濃度，到底為了甚麼?<br>最後，我們只能成為其中一個被記錄的數字嗎？</div>
 <button class="immersive-btn primary" onclick="nextStage(2)">繼 續</button>
 </div>
 
