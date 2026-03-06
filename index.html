@@ -53,6 +53,10 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .splash-recent .srd{color:var(--gold);font-family:var(--f-mono);font-size:clamp(1.4rem,4vw,2rem)}
 .splash-global{margin-top:16px;font-family:var(--f-mono);font-size:14px;color:var(--text-dim);letter-spacing:.5px}
 .splash-global .sgv{color:var(--pulse);font-family:var(--f-head);font-size:18px}
+.splash-refs{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:8px 12px;margin-top:20px}
+.ref-label{font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.2);letter-spacing:1px}
+.ref-link{font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.25);text-decoration:none;padding:3px 10px;border:1px solid rgba(255,255,255,.06);border-radius:12px;transition:all .3s}
+.ref-link:hover{color:var(--accent);border-color:rgba(78,168,222,.3);text-shadow:none}
 .splash-scroll{margin-top:50px;font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.25);animation:breathe 3s ease-in-out infinite;cursor:pointer}
 @keyframes breathe{0%,100%{opacity:.25;transform:translateY(0)}50%{opacity:.6;transform:translateY(6px)}}
 .section{position:relative;z-index:1;max-width:720px;margin:0 auto;padding:100px 24px}
@@ -142,6 +146,13 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 
 <div class="splash-recent" id="recent-days"></div>
 <div class="splash-global">你打開後，全球已有 <span class="sgv" id="dc-since-sub">0</span> 人離世</div>
+<div class="splash-refs">
+<span class="ref-label">參考來源</span>
+<a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)" target="_blank" rel="noopener">WHO • 心血管</a>
+<a class="ref-link" href="https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/sudden-cardiac-death" target="_blank" rel="noopener">AHA • 猝死</a>
+<a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries" target="_blank" rel="noopener">WHO • 交通</a>
+<a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/suicide" target="_blank" rel="noopener">WHO • 自殺</a>
+</div>
 <div class="splash-scroll" onclick="document.getElementById('sec-you').scrollIntoView({behavior:'smooth'})">▼</div>
 </section>
 
@@ -169,24 +180,17 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div class="peer-box">
 <div style="font-size:.9rem;color:var(--text-dim);margin-bottom:8px"><span id="p-range">25-35</span> 歲</div>
 <div class="p-big" id="p-deaths">—</div>
-<div class="p-text">新聞記錄中，同齡（±5年）猝死個案。<br>
+<div class="p-text">本港新聞記錄中，同齡（±5年）猝死個案。<br>
 上月 <strong id="p-lm" style="color:var(--gold)">—</strong> 宗 &nbsp;·&nbsp; 上年 <strong id="p-ly" style="color:var(--gold)">—</strong> 宗</div>
 </div>
-<div class="chart-box" style="margin-top:20px"><h4>猝死年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
+<div class="chart-box" style="margin-top:20px"><h4>本港猝死年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
 </div>
 
 <!-- SEC 3: 分類概覽 + 月度趨勢 -->
 <div class="section fade-in" id="sec-data">
 <div class="s-label">DATA</div>
 <div class="s-title" id="data-date-title">2021 年 — 至今</div>
-<div class="cat-bars" id="cat-bars">
-<h4>📊 猝死佔比（分類比例）</h4>
-<div class="cat-row"><div class="cat-icon">💔</div><div class="cat-name">猝死</div><div class="cat-track"><div class="cat-fill" id="cb-sudden" style="width:0%;background:rgba(212,169,83,.85)"></div></div><div class="cat-count" id="cn-sudden">0</div><div class="cat-pct" id="cp-sudden">0%</div></div>
-<div class="cat-row"><div class="cat-icon">☠️</div><div class="cat-name">致命</div><div class="cat-track"><div class="cat-fill" id="cb-fatal" style="width:0%;background:rgba(230,57,70,.75)"></div></div><div class="cat-count" id="cn-fatal">0</div><div class="cat-pct" id="cp-fatal">0%</div></div>
-<div class="cat-row"><div class="cat-icon">🔥</div><div class="cat-name">意外</div><div class="cat-track"><div class="cat-fill" id="cb-acc" style="width:0%;background:rgba(78,168,222,.6)"></div></div><div class="cat-count" id="cn-acc">0</div><div class="cat-pct" id="cp-acc">0%</div></div>
-<div class="cat-row"><div class="cat-icon">⚠️</div><div class="cat-name">危殆</div><div class="cat-track"><div class="cat-fill" id="cb-crit" style="width:0%;background:rgba(167,139,250,.6)"></div></div><div class="cat-count" id="cn-crit">0</div><div class="cat-pct" id="cp-crit">0%</div></div>
-<div class="cat-row"><div class="cat-icon">📊</div><div class="cat-name">其他</div><div class="cat-track"><div class="cat-fill" id="cb-other" style="width:0%;background:rgba(58,74,90,.6)"></div></div><div class="cat-count" id="cn-other">0</div><div class="cat-pct" id="cp-other">0%</div></div>
-</div>
+
 <div class="chart-box"><h4>📈 月度趨勢</h4><canvas id="mom-chart"></canvas></div>
 <p style="text-align:center;font-family:var(--f-mono);font-size:11px;color:var(--text-dim);margin-top:16px">數據收集自 2021 年至今 · 每日更新 · 共 <span id="proof-total">—</span> 宗記錄</p>
 </div>
