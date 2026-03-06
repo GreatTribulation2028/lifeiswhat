@@ -391,11 +391,11 @@ var sp=jsonRules.spam;var spam=false,safe=false;
 if(sp&&sp.safe_words)safe=sp.safe_words.some(function(w){return t.includes(w)});
 if(!safe){if(sp.domains&&sp.domains.some(function(d){return tL.includes(d.toLowerCase())}))spam=true;if(!spam&&sp.brands&&sp.brands.some(function(b){return tL.includes(b.toLowerCase())}))spam=true;if(!spam&&isSpamRx.some(function(rx){return rx.test(t)}))spam=true;if(!spam&&sp.combo_keywords){var h=0;sp.combo_keywords.forEach(function(kw){if(t.includes(kw))h++});if(h>=(sp.combo_threshold||2))spam=true}}
 if(spam)return'SPAM';
-if(jsonRules.not_relevant){if(jsonRules.not_relevant.keywords&&jsonRules.not_relevant.keywords.some(function(kw){return t.includes(kw)}))return'SPAM';if(jsonRules.not_relevant.animal_keywords&&jsonRules.not_relevant.animal_keywords.some(function(kw){return tL.includes(kw.toLowerCase())}))return'SPAM'}
-var surv=false;if(jsonRules.survival_signals&&jsonRules.survival_signals.some(function(w){return t.includes(w)}))surv=true;
-var suddenDirect=['猝死','心臟驟停','心肌梗塞','暴斃'];if(suddenDirect.some(function(k){return t.includes(k)}))return'SUDDEN';
-if(jsonRules.priority&&jsonRules.keywords){for(var ci=0;ci<jsonRules.priority.length;ci++){var cat=jsonRules.priority[ci];var kws=jsonRules.keywords[cat]||[];if(kws.some(function(kw){return t.includes(kw)})){var m='OTHER';if(dynCat.SUDDEN&&dynCat.SUDDEN.includes(cat))m='SUDDEN';else if(dynCat.FATAL.includes(cat))m='FATAL';else if(dynCat.CRIT.includes(cat))m='CRIT';else if(dynCat.ACC.includes(cat))m='ACC';if(surv&&m==='FATAL')return'CRIT';return m}}}
-if(jsonRules.death_confirmed&&jsonRules.death_confirmed.some(function(w){return t.includes(w)})){if(surv)return'CRIT';return'FATAL'}
+if(jsonRules.not_relevant){if(jsonRules.not_relevant.keywords&&jsonRules.not_relevant.keywords.some(function(kw){return t.includes(kw)}))return'SPAM';if(jsonRules.not_relevant.animal_keywords&&jsonRules.not_relevant.animal_keywords.some(function(kw){return tL.includes(kw.toLowerCase())}))return'SPAM';if(jsonRules.not_relevant.memorial_keywords&&jsonRules.not_relevant.memorial_keywords.some(function(kw){return t.includes(kw)}))return'SPAM'}
+if(jsonRules.survival_signals&&jsonRules.survival_signals.some(function(w){return t.includes(w)})){if(!/\d+死|\d+人(?:遇難|罹難|喪生|死亡)/.test(t))return'SPAM'}
+var suddenForced=jsonRules.sudden_override||['猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝','心臟驟停','心臟停頓','心臟停止','心肌梗塞','心臟病發','心源性猝死','心因性猝死','心源性休克','心因性休克','突然死亡','倒地猝死','猝然倒地','猝然離世','過勞死','OHCA','到院前死亡','心血管猝死','心律不整致死','急性心臟事件','突發心臟病','腦溢血','腦梗塞','腦血管破裂','腦出血','急性腦血管意外','主動脈夾層','急性梗塞','急性心衰','倒斃','路倒','暴病而亡','睡夢中離世','床上暴斃','睡夢中猝死'];if(suddenForced.some(function(k){return t.includes(k)}))return'SUDDEN';
+if(jsonRules.priority&&jsonRules.keywords){for(var ci=0;ci<jsonRules.priority.length;ci++){var cat=jsonRules.priority[ci];var kws=jsonRules.keywords[cat]||[];if(kws.some(function(kw){return t.includes(kw)})){var m='OTHER';if(dynCat.SUDDEN&&dynCat.SUDDEN.includes(cat))m='SUDDEN';else if(dynCat.FATAL.includes(cat))m='FATAL';else if(dynCat.CRIT.includes(cat))m='CRIT';else if(dynCat.ACC.includes(cat))m='ACC';return m}}}
+if(jsonRules.death_confirmed&&jsonRules.death_confirmed.some(function(w){return t.includes(w)}))return'SUDDEN'
 return'OTHER';
 }else{
 if(isSpamFB(t))return'SPAM';
