@@ -434,7 +434,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 </div>
 <div class="stats-grid">
 <div class="stat-card fatal"><div class="icon">☠️</div><div class="num" id="stat-fatal">0</div><div class="lbl">FATAL 死亡/天災</div></div>
-<div class="stat-card sudden"><div class="icon">💔</div><div class="num" id="stat-sudden">0</div><div class="lbl">SUDDEN 猝死</div></div>
+<div class="stat-card sudden"><div class="icon">💔</div><div class="num" id="stat-sudden">0</div><div class="lbl">猝死相關</div></div>
 <div class="stat-card crit"><div class="icon">⚠️</div><div class="num" id="stat-crit">0</div><div class="lbl">CRITICAL 危殆/暈倒</div></div>
 <div class="stat-card acc"><div class="icon">🔥</div><div class="num" id="stat-acc">0</div><div class="lbl">ACCIDENT 意外/交通</div></div>
 <div class="stat-card"><div class="icon">📊</div><div class="num" id="stat-other">0</div><div class="lbl">OTHER 其他</div></div>
@@ -731,38 +731,46 @@ function categorize(title) {
     if (jsonRules.not_relevant) {
       if (jsonRules.not_relevant.keywords && jsonRules.not_relevant.keywords.some(kw => t.includes(kw))) return 'SPAM';
       if (jsonRules.not_relevant.animal_keywords && jsonRules.not_relevant.animal_keywords.some(kw => tLow.includes(kw.toLowerCase()))) return 'SPAM';
+      if (jsonRules.not_relevant.memorial_keywords && jsonRules.not_relevant.memorial_keywords.some(kw => t.includes(kw))) return 'SPAM';
     }
     
-    // ── 3. Survival Signals 降級檢查 ──
-    let hasSurvival = false;
+    // ── 3. Survival Signals（R15: 純存活詞 + 無死亡計數 → 排除）──
     if (jsonRules.survival_signals && jsonRules.survival_signals.some(w => t.includes(w))) {
-      hasSurvival = true;
+      if (!/\d+死|\d+人(?:遇難|罹難|喪生|死亡)/.test(t)) return 'SPAM';
     }
-    // ── 3b. Direct SUDDEN keyword override ──
-    const suddenDirect = ['猝死','心臟驟停','心肌梗塞','暴斃'];
-    if (suddenDirect.some(k => t.includes(k))) return 'SUDDEN';
-    // ── 4. Priority 順序關鍵字匹配 ──
+    // ── 3.5 FORCED SUDDEN（對齊 Python 強制規則）──
+    // 核心猝死關鍵詞：只要命中就直接 SUDDEN，不受 priority 順序影響
+    // 解決「猝死在 priority 第14位導致被自殺/交通/意外搶先」的根本問題
+    const suddenForced = [
+      '猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝',
+      '心臟驟停','心臟停頓','心臟停止','心肌梗塞','心臟病發',
+      '心源性猝死','心因性猝死','心源性休克','心因性休克',
+      '突然死亡','倒地猝死','猝然倒地','猝然離世',
+      '過勞死','OHCA','到院前死亡',
+      '心血管猝死','心律不整致死','急性心臟事件','突發心臟病',
+      '腦溢血','腦梗塞','腦血管破裂','腦出血','急性腦血管意外',
+      '主動脈夾層','急性梗塞','急性心衰',
+      '倒斃','路倒','暴病而亡',
+      '睡夢中離世','床上暴斃','睡夢中猝死'
+    ];
+    if (suddenForced.some(k => t.includes(k))) return 'SUDDEN';
+    // ── 4. Priority 順序關鍵字匹配（非猝死核心詞才走此路）──
     if (jsonRules.priority && jsonRules.keywords) {
       for (const cat of jsonRules.priority) {
         const kws = jsonRules.keywords[cat] || [];
         if (kws.some(kw => t.includes(kw))) {
-          // 映射回 HTML 的 4 大類
           let mapped = 'OTHER';
           if (dynCategories.SUDDEN && dynCategories.SUDDEN.includes(cat)) mapped = 'SUDDEN';
           else if (dynCategories.FATAL.includes(cat)) mapped = 'FATAL';
           else if (dynCategories.CRIT.includes(cat)) mapped = 'CRIT';
           else if (dynCategories.ACC.includes(cat)) mapped = 'ACC';
-          // 降級：如果有 survival signal 且原本歸 FATAL，降為 CRIT
-          if (hasSurvival && mapped === 'FATAL') return 'CRIT';
           return mapped;
         }
       }
     }
-    // ── 5. Death Confirmed 兜底 ──
+    // ── 5. Death Confirmed 兜底 → SUDDEN（對齊 Python R14）──
     if (jsonRules.death_confirmed && jsonRules.death_confirmed.some(w => t.includes(w))) {
-      // 降級：有 survival signal → CRIT
-      if (hasSurvival) return 'CRIT';
-      return 'FATAL';
+      return 'SUDDEN';
     }
     
     return 'OTHER';
