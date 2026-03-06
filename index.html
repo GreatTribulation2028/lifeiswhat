@@ -33,7 +33,7 @@
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;scrollbar-width:none}
 html::-webkit-scrollbar{display:none}
-body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:17px;line-height:1.9;overflow-x:hidden}
+body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:19px;line-height:2.1;overflow-x:hidden}
 a{color:var(--accent);text-decoration:none;transition:all .3s}
 a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 #bg-canvas{position:fixed;inset:0;z-index:0;pointer-events:none}
@@ -49,7 +49,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .splash-counter{font-family:var(--f-head);font-size:clamp(3.5rem,14vw,8rem);color:var(--gold);line-height:1;margin:10px 0;text-shadow:0 0 80px rgba(212,169,83,.35),0 0 160px rgba(212,169,83,.1)}
 .splash-label{font-family:var(--f-zh);font-size:clamp(.9rem,2.5vw,1.1rem);color:var(--text-dim);margin-bottom:30px;letter-spacing:1px}
 .splash-recent{margin-top:0;font-family:var(--f-mono);font-size:clamp(1.4rem,4vw,2rem);color:var(--text);letter-spacing:2px;line-height:2.2}
-.splash-recent .srv{font-family:var(--f-head);font-size:clamp(3rem,10vw,5rem);color:var(--pulse);margin:0 8px;text-shadow:0 0 60px rgba(230,57,70,.3)}
+.splash-recent .srv{font-family:var(--f-head);font-size:clamp(5rem,18vw,9rem);color:var(--pulse);margin:0 8px;text-shadow:0 0 80px rgba(230,57,70,.4);display:block;line-height:1.1}
 .splash-recent .srd{color:var(--gold);font-family:var(--f-mono);font-size:clamp(1.4rem,4vw,2rem)}
 .splash-global{margin-top:16px;font-family:var(--f-mono);font-size:14px;color:var(--text-dim);letter-spacing:.5px}
 .splash-global .sgv{color:var(--pulse);font-family:var(--f-head);font-size:18px}
@@ -155,12 +155,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div class="age-num-wrap"><span class="age-label-txt">輸入年齡</span><input type="text" inputmode="numeric" pattern="[0-9]*" id="age-input" value="30" maxlength="3" placeholder="30"><span class="age-unit">歲</span></div>
 </div>
 </div>
-<div class="dash">
-<div class="dash-card"><div class="dash-icon">⏱️</div><div class="dash-val" id="d-lived">10,950</div><div class="dash-label">已活天數</div></div>
-<div class="dash-card"><div class="dash-icon">⌛</div><div class="dash-val warn" id="d-left">18,250</div><div class="dash-label">剩餘天數</div></div>
-<div class="dash-card"><div class="dash-icon">💓</div><div class="dash-val" id="d-beats">11.4 億</div><div class="dash-label">心跳次數</div></div>
-<div class="dash-card"><div class="dash-icon">🌬️</div><div class="dash-val" id="d-breaths">2.8 億</div><div class="dash-label">呼吸次數</div></div>
-</div>
+
 <div class="life-bar-wrap">
 <div class="life-bar-labels"><span>出生</span><span id="d-pct">37.5% 已消耗</span><span>80 歲</span></div>
 <div class="life-bar-track"><div class="life-bar-fill" id="d-bar" style="width:37.5%"></div></div>
@@ -183,7 +178,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <!-- SEC 3: 分類概覽 + 月度趨勢 -->
 <div class="section fade-in" id="sec-data">
 <div class="s-label">DATA</div>
-<div class="s-title">記錄分類概覽</div>
+<div class="s-title" id="data-date-title">2021 年 — 至今</div>
 <div class="cat-bars" id="cat-bars">
 <h4>📊 猝死佔比（分類比例）</h4>
 <div class="cat-row"><div class="cat-icon">💔</div><div class="cat-name">猝死</div><div class="cat-track"><div class="cat-fill" id="cb-sudden" style="width:0%;background:rgba(212,169,83,.85)"></div></div><div class="cat-count" id="cn-sudden">0</div><div class="cat-pct" id="cp-sudden">0%</div></div>
@@ -202,17 +197,17 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div class="cta-section fade-in">
 <div style="text-align:center;max-width:500px;margin:0 auto">
 <div class="s-label">EXPLORE</div>
-<div class="s-title">你想看哪一個？</div>
+<div class="s-title" style="line-height:2.2;font-size:clamp(1.6rem,5vw,2.4rem)">生命只如你，<br>一滑而過。</div>
 </div>
 <div class="cta-grid">
 <a class="cta-card" href="index0203.html">
 <div class="cta-icon">📡</div>
-<div class="cta-body"><div class="cta-title">生死記錄儀</div><div class="cta-desc">香港即時事件與完整記錄（附猝死新聞連結）</div></div>
+<div class="cta-body"><div class="cta-title">生死記錄儀</div><div class="cta-desc">完整記錄，每日更新</div></div>
 <div class="cta-arrow">→</div>
 </a>
 <a class="cta-card" href="timeline04.html">
 <div class="cta-icon">⚡</div>
-<div class="cta-body"><div class="cta-title">時代觀測站</div><div class="cta-desc">2019 到現在，發生了什麼</div></div>
+<div class="cta-body"><div class="cta-title">時代觀測站</div><div class="cta-desc">六年，世界變了多少</div></div>
 <div class="cta-arrow">→</div>
 </a>
 <a class="cta-card" href="GoodNews.html">
@@ -278,13 +273,7 @@ ageInput.addEventListener('focus',function(){ageInput.select();});
 
 function calcLife(){
 var age=parseInt(slider.value)||30;
-var dl=age*365,dr=Math.max(0,(80-age)*365),pct=((age/80)*100).toFixed(1);
-var beats=dl*24*60*72,breaths=dl*24*60*16;
-var fmtYi=function(n){return (n/1e8).toFixed(1)+' 億'};
-document.getElementById('d-lived').textContent=dl.toLocaleString();
-document.getElementById('d-left').textContent=dr.toLocaleString();
-document.getElementById('d-beats').textContent=fmtYi(beats);
-document.getElementById('d-breaths').textContent=fmtYi(breaths);
+var pct=((age/80)*100).toFixed(1);
 document.getElementById('d-pct').textContent=Math.min(100,pct)+'% 已消耗';
 document.getElementById('d-bar').style.width=Math.min(100,pct)+'%';
 if(allEvents.length){updatePeer(age);renderAgeBar(age);}
@@ -307,7 +296,7 @@ if(rd&&latest2.length){
 var html='';
 latest2.forEach(function(d){
 var parts=d.split('-');
-html+='<span class="srd">'+parts[1]+'/'+parts[2]+'</span> 猝死 <span class="srv">'+dates[d]+'</span> 宗<br>';
+html+='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>猝死 <span class="srv">'+dates[d]+'</span> 宗<br>';
 });
 rd.innerHTML=html;
 }
@@ -449,6 +438,7 @@ if(merged.trim()){
 allEvents=parseData(merged);
 try{updateSplash(allEvents)}catch(e){console.error('Splash',e)}
 try{renderCatBars(allEvents)}catch(e){console.error('CatBars',e)}
+try{var ddt=document.getElementById('data-date-title');if(ddt&&allEvents.length){var fd=allEvents[allEvents.length-1].date,ld=allEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
 try{renderMoM(allEvents)}catch(e){console.error('MoM',e)}
 var age=parseInt(slider.value)||30;
 try{updatePeer(age)}catch(e){console.error('Peer',e)}
