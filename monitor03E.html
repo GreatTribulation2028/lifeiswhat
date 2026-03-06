@@ -411,7 +411,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <div class="panel">
 <div class="p-head"><span>📡 INCOMING FEED</span><span>生死事件流</span></div>
 <div class="filter-row">
-<input type="text" id="search-input" placeholder="🔍 關鍵字" oninput="filterEvents()">
+<input type="text" id="search-input" placeholder="🔍 關鍵字" value="猝死" oninput="filterEvents()">
 <select id="year-filter" class="filter-select" onchange="filterEvents()"><option value="">全部年份</option></select>
 <select id="month-filter" class="filter-select" onchange="filterEvents()"><option value="">全部月份</option></select>
 <input type="number" id="age-filter" placeholder="±5歲" min="1" max="120">
@@ -440,8 +440,8 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <div class="stat-card"><div class="icon">📊</div><div class="num" id="stat-other">0</div><div class="lbl">OTHER 其他</div></div>
 </div>
 <div class="time-range-bar">
-<button class="time-range-btn active" data-range="today" onclick="filterByTimeRange('today')">今天</button>
-<button class="time-range-btn" data-range="week" onclick="filterByTimeRange('week')">一星期</button>
+<button class="time-range-btn" data-range="today" onclick="filterByTimeRange('today')">今天</button>
+<button class="time-range-btn active" data-range="week" onclick="filterByTimeRange('week')">一星期</button>
 <button class="time-range-btn" data-range="month" onclick="filterByTimeRange('month')">一個月</button>
 <button class="time-range-btn" data-range="year" onclick="filterByTimeRange('year')">一年</button>
 <button class="time-range-btn" data-range="all" onclick="filterByTimeRange('all')">全部</button>
@@ -644,7 +644,7 @@ let allEvents = [];
 let filteredEvents = [];
 let candleCounts = JSON.parse(localStorage.getItem('candleCounts') || '{}');
 let totalCandles = Object.values(candleCounts).reduce((a, b) => a + b, 0);
-let currentTimeRange = 'today';
+let currentTimeRange = 'week';
 
 const DEATHS_PER_SECOND = 2.0;
 let deathEntryTime = null;
@@ -1105,7 +1105,7 @@ function filterEvents(){
   });
   renderList(filteredEvents);
   updateStats(filteredEvents);
-  renderKeywordCloud(filteredEvents);
+  renderKeywordCloud(getTimeRangeBase());
   renderTrendChart(filteredEvents);
   showTodayFocus(filteredEvents);
   const el=document.getElementById('filter-summary');
@@ -1118,7 +1118,7 @@ function resetFilters(){
   document.getElementById('month-filter').value='';
   const el=document.getElementById('filter-summary'); if(el) el.textContent='';
   filteredEvents=[...allEvents];
-  renderList(filteredEvents);updateStats(filteredEvents);renderKeywordCloud(filteredEvents);renderTrendChart(filteredEvents);showTodayFocus(filteredEvents);
+  renderList(filteredEvents);updateStats(filteredEvents);renderKeywordCloud(getTimeRangeBase());renderTrendChart(filteredEvents);showTodayFocus(filteredEvents);
 }
 function filterByTimeRange(range){
   currentTimeRange=range;
@@ -1136,7 +1136,7 @@ function filterByTimeRange(range){
   else if(range==='year'){cutoff=new Date(now.getTime()-365*86400000)}
   else{filteredEvents=[...allEvents]}
   if(cutoff){const cs=cutoff.toISOString().slice(0,10);filteredEvents=allEvents.filter(e=>e.date>=cs)}
-  renderList(filteredEvents);updateStats(filteredEvents);renderKeywordCloud(filteredEvents);
+  renderList(filteredEvents);updateStats(filteredEvents);renderKeywordCloud(getTimeRangeBase());
   renderTrendChart(filteredEvents);showTodayFocus(filteredEvents);
   const el=document.getElementById('filter-summary');
   if(el) el.textContent=range!=='all'?`顯示 ${filteredEvents.length} / ${allEvents.length} 筆`:'';
@@ -1156,7 +1156,7 @@ function loadPastedData(){
   // 重新解析數據，這時若 JSON 已載入，就會用 JSON 規則
   allEvents=parseData(input.value); filteredEvents=[...allEvents];
   populateFilterDropdowns();renderAgeDist();
-  filterByTimeRange('today');
+  filterByTimeRange('week');
 }
 function handleFile(ev){
   const f=ev.target.files[0]; if(!f)return;
