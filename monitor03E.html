@@ -63,7 +63,7 @@ display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap
 .wisdom-source{margin-top:10px;font-family:var(--f-mono);font-size:12px;color:var(--c-soul)}
 
 /* ===== 生命線卡片 ===== */
-.lifeline-section{position:relative;z-index:10;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:15px;padding:20px;background:rgba(5,10,15,.95)}
+.lifeline-section{position:relative;z-index:10;display:grid;grid-template-columns:1fr 1.2fr 1.8fr;gap:15px;padding:20px;background:rgba(5,10,15,.95);align-items:stretch}
 .lifeline-card{background:var(--c-panel);border:1px solid var(--c-border);border-radius:10px;padding:20px;text-align:center;transition:all .3s}
 .lifeline-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
 .lifeline-card h3{font-family:var(--f-mono);font-size:16px;color:var(--c-accent);margin-bottom:10px}
@@ -181,7 +181,7 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 .chart-tabs{display:flex;gap:5px;padding:10px 15px 0 15px;justify-content:center}
 .chart-tab-btn{background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-bottom:none;color:#888;padding:8px 16px;font-family:var(--f-mono);font-size:11px;cursor:pointer;border-radius:4px 4px 0 0;transition:all .3s}
 .chart-tab-btn.active{background:rgba(0,243,255,.15);border-color:var(--c-accent);color:var(--c-accent);}
-#trend-chart-wrap{padding:10px;border-top:1px solid var(--c-border);height:280px;position:relative}
+#trend-chart-wrap{padding:10px;border-top:1px solid var(--c-border);height:340px;position:relative}
 #trend-chart{width:100%;height:100%}
 
 #today-focus{background:linear-gradient(135deg,rgba(50,10,20,.8),rgba(20,5,10,.9));border:1px solid var(--c-fatal);padding:20px;margin:10px;border-radius:10px;text-align:center;position:relative;overflow:hidden}
@@ -268,7 +268,7 @@ body.mourning-mode .candle.lit{filter:grayscale(0)!important}
 .time-range-btn:hover{border-color:var(--c-accent);color:var(--c-accent)}
 .time-range-btn.active{background:rgba(0,243,255,.15);border-color:var(--c-accent);color:var(--c-accent);box-shadow:0 0 10px rgba(0,243,255,.2)}
 /* ===== RWD ===== */
-@media(max-width:1024px){main{grid-template-columns:1fr}.four-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:1024px){main{grid-template-columns:1fr}.four-grid{grid-template-columns:repeat(2,1fr)}.lifeline-section{grid-template-columns:1fr 1fr!important}}
 @media(max-width:768px){
 body{padding-bottom:55px}
 #death-counter{padding:4px 8px;gap:6px;min-height:auto}
@@ -283,6 +283,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 .immersive-question{font-size:clamp(1.1rem,4.5vw,1.6rem)}
 #back-to-top{width:36px;height:36px;font-size:16px;bottom:60px;right:10px}
 .chart-tabs{flex-wrap:wrap}
+.lifeline-section{grid-template-columns:1fr!important}
 }
 </style>
 </head>
@@ -327,28 +328,22 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <!-- 生命線卡片 -->
 <div class="lifeline-section">
 <div class="lifeline-card">
-<h3>⏱️ 末次號筒倒數</h3>
+<h3>⏱️ 2027年吹角節倒數</h3>
 <div class="big-number" id="countdown-days">---</div>
 <div class="unit">天</div>
 <p id="countdown-detail">距離 2027-10-01</p>
 </div>
 <div class="lifeline-card">
-<h3>💀 你已活了</h3>
-<div class="big-number" id="days-lived">---</div>
-<div class="unit">天</div>
-<p>每一天都是恩典</p>
+<h3>🔍 同齡過濾器</h3>
+<div style="margin-top:10px">查看：<input type="number" id="peer-age-top" placeholder="年齡" min="1" max="120" style="width:70px;padding:8px;background:rgba(0,0,0,.6);border:1px solid var(--c-border);color:#fff;font-family:var(--f-mono);border-radius:4px;text-align:center"> ± 5歲
+<button class="btn" style="margin-left:8px" onclick="filterByAgeTop()">過 濾</button>
 </div>
-<div class="lifeline-card">
-<h3>⏳ 假設還剩</h3>
-<div class="big-number" id="days-left">---</div>
-<div class="unit">天</div>
-<p>活到 80 歲的話</p>
+<div id="peer-result-top" style="font-size:12px;color:#888;margin-top:10px;line-height:1.6">輸入年齡或點擊年齡段，查看同齡人的記錄</div>
+<p style="margin-top:8px">每一天都是恩典</p>
 </div>
-<div class="lifeline-card">
-<h3>📊 生命進度</h3>
-<div class="big-number" id="life-progress">--%</div>
-<div class="unit">已消耗</div>
-<p>時間不等人</p>
+<div class="lifeline-card" style="padding:15px;display:flex;flex-direction:column">
+<h3 style="margin-bottom:8px">📊 年齡分佈</h3>
+<div style="flex:1;position:relative;min-height:160px"><canvas id="age-dist-main"></canvas></div>
 </div>
 </div>
 
@@ -448,8 +443,13 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 </div>
 <!-- Chart.js 圖表區 -->
 <div class="chart-tabs">
-  <button class="chart-tab-btn active" onclick="switchChart('mom')">按月趨勢 (MoM)</button>
-  <button class="chart-tab-btn" onclick="switchChart('yoy')">按年對比 (YoY)</button>
+  <button class="chart-tab-btn active" onclick="switchChart('mom')">📈 月趨勢</button>
+  <button class="chart-tab-btn" onclick="switchChart('yoy')">📊 年對比</button>
+  <button class="chart-tab-btn" onclick="switchChart('pie')">🥧 分類佔比</button>
+  <button class="chart-tab-btn" onclick="switchChart('doughnut')">🍩 環形圖</button>
+  <button class="chart-tab-btn" onclick="switchChart('stacked')">📚 堆疊趨勢</button>
+  <button class="chart-tab-btn" onclick="switchChart('radar')">🕸️ 雷達圖</button>
+  <button class="chart-tab-btn" onclick="switchChart('polarArea')">🎯 極座標</button>
 </div>
 <div id="trend-chart-wrap">
 <canvas id="trend-chart"></canvas>
@@ -1011,7 +1011,7 @@ function renderTrendChart(events){
       }
     });
 
-  } else {
+  } else if (currentChartMode === 'yoy') {
     // === 按年對比 (YoY) ===
     const yearMonthData = {};
     const allYears = new Set();
@@ -1063,6 +1063,130 @@ function renderTrendChart(events){
         scales: {
           x: { grid: { display: false } },
           y: { beginAtZero: true, grid: { color: 'rgba(255,255,255,0.1)' } }
+        }
+      }
+    });
+  } else if (currentChartMode === 'pie') {
+    // === 分類佔比 (Pie) ===
+    const cats = {FATAL:0, SUDDEN:0, CRIT:0, ACC:0, OTHER:0};
+    dataEvents.forEach(e => { if(cats[e.category] !== undefined) cats[e.category]++; });
+    mainChart = new Chart(ctx, {
+      type: 'pie',
+      data: {
+        labels: ['☠️ FATAL','💔 猝死','⚠️ CRIT','🔥 ACC','📊 OTHER'],
+        datasets: [{
+          data: Object.values(cats),
+          backgroundColor: ['#ff2a2a','#ff6b35','#ffae00','#00ff41','#3a4a5a'],
+          borderColor: '#0a0f14', borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        plugins: {
+          legend: { position: 'right', labels: { color: '#e0e6ed', font: { size: 12 } } },
+          tooltip: { backgroundColor: 'rgba(0,0,0,.85)', bodyFont: { size: 13 } }
+        }
+      }
+    });
+  } else if (currentChartMode === 'doughnut') {
+    // === 環形分析 (Doughnut) ===
+    const cats = {FATAL:0, SUDDEN:0, CRIT:0, ACC:0, OTHER:0};
+    dataEvents.forEach(e => { if(cats[e.category] !== undefined) cats[e.category]++; });
+    mainChart = new Chart(ctx, {
+      type: 'doughnut',
+      data: {
+        labels: ['☠️ FATAL','💔 猝死','⚠️ CRIT','🔥 ACC','📊 OTHER'],
+        datasets: [{
+          data: Object.values(cats),
+          backgroundColor: ['#ff2a2a','#ff6b35','#ffae00','#00ff41','#3a4a5a'],
+          borderColor: '#0a0f14', borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false, cutout: '55%',
+        plugins: {
+          legend: { position: 'right', labels: { color: '#e0e6ed', font: { size: 12 } } },
+          tooltip: { backgroundColor: 'rgba(0,0,0,.85)', bodyFont: { size: 13 } }
+        }
+      }
+    });
+  } else if (currentChartMode === 'stacked') {
+    // === 堆疊趨勢 (Stacked Bar) ===
+    const mm = {};
+    dataEvents.forEach(e => {
+      const ym = e.date.slice(0,7);
+      if (!mm[ym]) mm[ym] = {FATAL:0, SUDDEN:0, CRIT:0, ACC:0, OTHER:0};
+      if (mm[ym][e.category] !== undefined) mm[ym][e.category]++;
+    });
+    const sl = Object.keys(mm).sort();
+    const cn = ['FATAL','SUDDEN','CRIT','ACC','OTHER'];
+    const cc = ['#ff2a2a','#ff6b35','#ffae00','#00ff41','#3a4a5a'];
+    const cl = ['☠️ FATAL','💔 猝死','⚠️ CRIT','🔥 ACC','📊 OTHER'];
+    mainChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: sl,
+        datasets: cn.map((c, i) => ({
+          label: cl[i], data: sl.map(l => mm[l][c] || 0),
+          backgroundColor: cc[i], borderRadius: 2
+        }))
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        plugins: {
+          legend: { position: 'top', labels: { color: '#e0e6ed', boxWidth: 12 } },
+          tooltip: { mode: 'index', intersect: false, backgroundColor: 'rgba(0,0,0,.85)' }
+        },
+        scales: {
+          x: { stacked: true, grid: { display: false } },
+          y: { stacked: true, beginAtZero: true, grid: { color: 'rgba(255,255,255,.1)' } }
+        }
+      }
+    });
+  } else if (currentChartMode === 'radar') {
+    // === 雷達圖 (Radar) ===
+    const now3 = new Date();
+    const thisM = now3.toISOString().slice(0,7);
+    const prevD = new Date(now3.getFullYear(), now3.getMonth() - 1, 1);
+    const prevM = prevD.toISOString().slice(0,7);
+    const cn = ['FATAL','SUDDEN','CRIT','ACC','OTHER'];
+    const td = cn.map(c => dataEvents.filter(e => e.date.startsWith(thisM) && e.category === c).length);
+    const pd = cn.map(c => dataEvents.filter(e => e.date.startsWith(prevM) && e.category === c).length);
+    mainChart = new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels: ['☠️ FATAL','💔 猝死','⚠️ CRIT','🔥 ACC','📊 OTHER'],
+        datasets: [
+          { label: thisM, data: td, borderColor: '#00f3ff', backgroundColor: 'rgba(0,243,255,.15)', pointBackgroundColor: '#00f3ff' },
+          { label: prevM, data: pd, borderColor: '#a855f7', backgroundColor: 'rgba(168,85,247,.15)', pointBackgroundColor: '#a855f7' }
+        ]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        scales: { r: { beginAtZero: true, grid: { color: 'rgba(255,255,255,.1)' }, pointLabels: { color: '#e0e6ed', font: { size: 11 } }, ticks: { color: '#888', backdropColor: 'transparent' } } },
+        plugins: { legend: { position: 'top', labels: { color: '#e0e6ed' } } }
+      }
+    });
+  } else if (currentChartMode === 'polarArea') {
+    // === 極座標 (Polar Area) ===
+    const cats = {FATAL:0, SUDDEN:0, CRIT:0, ACC:0, OTHER:0};
+    dataEvents.forEach(e => { if(cats[e.category] !== undefined) cats[e.category]++; });
+    mainChart = new Chart(ctx, {
+      type: 'polarArea',
+      data: {
+        labels: ['☠️ FATAL','💔 猝死','⚠️ CRIT','🔥 ACC','📊 OTHER'],
+        datasets: [{
+          data: Object.values(cats),
+          backgroundColor: ['rgba(255,42,42,.7)','rgba(255,107,53,.7)','rgba(255,174,0,.7)','rgba(0,255,65,.7)','rgba(58,74,90,.7)'],
+          borderColor: '#0a0f14', borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        scales: { r: { beginAtZero: true, grid: { color: 'rgba(255,255,255,.1)' }, ticks: { color: '#888', backdropColor: 'transparent' } } },
+        plugins: {
+          legend: { position: 'right', labels: { color: '#e0e6ed', font: { size: 12 } } },
+          tooltip: { backgroundColor: 'rgba(0,0,0,.85)' }
         }
       }
     });
@@ -1163,7 +1287,7 @@ function loadPastedData(){
   if(!input||!input.value.trim())return;
   // 重新解析數據，這時若 JSON 已載入，就會用 JSON 規則
   allEvents=parseData(input.value); filteredEvents=[...allEvents];
-  populateFilterDropdowns();renderAgeDist();
+  populateFilterDropdowns();renderAgeDist();renderAgeDistMain();
   filterByTimeRange('week');
 }
 function handleFile(ev){
@@ -1244,9 +1368,9 @@ function calculateLife(){
   document.getElementById('life-percent-box').textContent=pct+'%';
   document.getElementById('to-2027-box').textContent=toTrumpet>0?toTrumpet+'天':'已過';
   document.getElementById('life-result').textContent=`你已活了約 ${daysLived.toLocaleString()} 天，假設壽命 80 歲，剩餘約 ${daysLeft.toLocaleString()} 天。`;
-  document.getElementById('days-lived').textContent=daysLived.toLocaleString();
-  document.getElementById('days-left').textContent=daysLeft.toLocaleString();
-  document.getElementById('life-progress').textContent=pct+'%';
+  const elDL=document.getElementById('days-lived');if(elDL)elDL.textContent=daysLived.toLocaleString();
+  const elDR=document.getElementById('days-left');if(elDR)elDR.textContent=daysLeft.toLocaleString();
+  const elLP=document.getElementById('life-progress');if(elLP)elLP.textContent=pct+'%';
 }
 function filterByAge(){
   const age=parseInt(document.getElementById('peer-age').value);
@@ -1255,6 +1379,14 @@ function filterByAge(){
   filterEvents();
   const count=filteredEvents.length;
   document.getElementById('peer-result').textContent=`找到 ${count} 筆 ${age}±5 歲的記錄`;
+}
+function filterByAgeTop(){
+  const age=parseInt(document.getElementById('peer-age-top').value);
+  if(!age){document.getElementById('peer-result-top').textContent='請輸入年齡';return}
+  document.getElementById('age-filter').value=age;
+  filterEvents();
+  const count=filteredEvents.length;
+  document.getElementById('peer-result-top').textContent=`找到 ${count} 筆 ${age}±5 歲的記錄`;
 }
 function updateLifelineCards(){
   const target=new Date('2027-10-01');
@@ -1316,6 +1448,53 @@ function renderAgeDist(){
     ctx.fillStyle='#5a6a7a';ctx.font='8px "Share Tech Mono",monospace';ctx.textAlign='center';
     ctx.fillText(b.l,x+bw/2,H-1);
     if(b.v){ctx.fillStyle='#aaa';ctx.fillText(b.v,x+bw/2,H-14-h)}
+  });
+}
+// ===== 年齡分佈圖（Chart.js 主版） =====
+let ageDistMainChart = null;
+function renderAgeDistMain(){
+  const canvas=document.getElementById('age-dist-main');if(!canvas)return;
+  const bk=[{l:'<20',min:0,max:19},{l:'20s',min:20,max:29},{l:'30s',min:30,max:39},{l:'40s',min:40,max:49},{l:'50s',min:50,max:59},{l:'60s',min:60,max:69},{l:'70s',min:70,max:79},{l:'80+',min:80,max:200}];
+  bk.forEach(b=>b.v=0);
+  allEvents.forEach(e=>{if(e.age){const b=bk.find(b=>e.age>=b.min&&e.age<=b.max);if(b)b.v++}});
+  const total=bk.reduce((a,b)=>a+b.v,0);
+  if(ageDistMainChart) ageDistMainChart.destroy();
+  const ctx=canvas.getContext('2d');
+  const colors=['#0d4f4f','#0e6b6b','#0f8787','#10a3a3','#11bfbf','#12dbdb','#00f3ff','#66f9ff'];
+  ageDistMainChart=new Chart(ctx,{
+    type:'bar',
+    data:{
+      labels:bk.map(b=>b.l),
+      datasets:[{
+        label:'人數',
+        data:bk.map(b=>b.v),
+        backgroundColor:colors,
+        borderColor:'rgba(0,243,255,.4)',
+        borderWidth:1,
+        borderRadius:4
+      }]
+    },
+    options:{
+      responsive:true,maintainAspectRatio:false,
+      onClick:(e,activeEls)=>{
+        if(activeEls.length>0){
+          const idx=activeEls[0].index;
+          const b=bk[idx];
+          const midAge=b.min===0?15:b.min===80?85:b.min+5;
+          document.getElementById('peer-age-top').value=midAge;
+          filterByAgeTop();
+        }
+      },
+      plugins:{
+        legend:{display:false},
+        tooltip:{backgroundColor:'rgba(0,0,0,.85)',titleColor:'#00f3ff',bodyFont:{size:13},displayColors:false,
+          callbacks:{label:(ctx)=>`${ctx.parsed.y} 人 (${total?(ctx.parsed.y/total*100).toFixed(1):0}%)`}}
+      },
+      scales:{
+        x:{grid:{display:false},ticks:{color:'#8a9aaa',font:{size:10}}},
+        y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.08)'},ticks:{color:'#888',font:{size:10}}}
+      }
+    }
   });
 }
 // ===== 粒子背景（極簡） =====
@@ -1419,7 +1598,7 @@ window.addEventListener('load',()=>{
   initApp();
   startDeathCounter();
   
-  addEventListener('resize',()=>{if(filteredEvents.length){renderTrendChart(filteredEvents);renderAgeDist()}});
+  addEventListener('resize',()=>{if(filteredEvents.length){renderTrendChart(filteredEvents);renderAgeDist();renderAgeDistMain()}});
 });
 </script>
 </body>
