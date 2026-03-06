@@ -293,7 +293,7 @@ if(sc)sc.textContent=mc.toLocaleString();
 var dates={};
 sudden.forEach(function(e){dates[e.date]=(dates[e.date]||0)+1});
 var sorted=Object.keys(dates).sort().reverse();
-var latest2=sorted.slice(0,2);
+var latest2=sorted.slice(0,1);
 var rd=document.getElementById('recent-days');
 if(rd&&latest2.length){
 var html='';
