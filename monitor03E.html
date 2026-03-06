@@ -741,7 +741,7 @@ function categorize(title) {
     // ── 3.5 FORCED SUDDEN（對齊 Python 強制規則）──
     // 核心猝死關鍵詞：只要命中就直接 SUDDEN，不受 priority 順序影響
     // 解決「猝死在 priority 第14位導致被自殺/交通/意外搶先」的根本問題
-    const suddenForced = [
+    const suddenForced = jsonRules.sudden_override || [
       '猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝',
       '心臟驟停','心臟停頓','心臟停止','心肌梗塞','心臟病發',
       '心源性猝死','心因性猝死','心源性休克','心因性休克',
