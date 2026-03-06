@@ -48,9 +48,9 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .splash-sudden-label{font-family:var(--f-mono);font-size:13px;color:var(--gold);letter-spacing:3px;margin-bottom:12px;opacity:.85}
 .splash-counter{font-family:var(--f-head);font-size:clamp(3.5rem,14vw,8rem);color:var(--gold);line-height:1;margin:10px 0;text-shadow:0 0 80px rgba(212,169,83,.35),0 0 160px rgba(212,169,83,.1)}
 .splash-label{font-family:var(--f-zh);font-size:clamp(.9rem,2.5vw,1.1rem);color:var(--text-dim);margin-bottom:30px;letter-spacing:1px}
-.splash-recent{margin-top:18px;font-family:var(--f-mono);font-size:clamp(1.1rem,3vw,1.5rem);color:var(--text-dim);letter-spacing:1px;line-height:2.2}
-.splash-recent .srv{font-family:var(--f-head);font-size:clamp(1.6rem,4vw,2.2rem);color:var(--pulse);margin:0 6px}
-.splash-recent .srd{color:var(--gold);font-family:var(--f-mono);font-size:clamp(1.1rem,3vw,1.5rem)}
+.splash-recent{margin-top:0;font-family:var(--f-mono);font-size:clamp(1.4rem,4vw,2rem);color:var(--text);letter-spacing:2px;line-height:2.2}
+.splash-recent .srv{font-family:var(--f-head);font-size:clamp(3rem,10vw,5rem);color:var(--pulse);margin:0 8px;text-shadow:0 0 60px rgba(230,57,70,.3)}
+.splash-recent .srd{color:var(--gold);font-family:var(--f-mono);font-size:clamp(1.4rem,4vw,2rem)}
 .splash-global{margin-top:16px;font-family:var(--f-mono);font-size:14px;color:var(--text-dim);letter-spacing:.5px}
 .splash-global .sgv{color:var(--pulse);font-family:var(--f-head);font-size:18px}
 .splash-scroll{margin-top:50px;font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.25);animation:breathe 3s ease-in-out infinite;cursor:pointer}
@@ -138,8 +138,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 
 <!-- 首屏：猝死本月記錄 -->
 <section class="main-splash" id="splash">
-<div class="splash-sudden-label">猝死記錄</div>
-<div class="splash-counter" id="sudden-counter">—</div>
+
 
 <div class="splash-recent" id="recent-days"></div>
 <div class="splash-global">你打開後，全球已有 <span class="sgv" id="dc-since-sub">0</span> 人離世</div>
