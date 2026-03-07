@@ -59,17 +59,17 @@ display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap
 
 /* ===== 哲理橫幅 ===== */
 .wisdom-banner{position:relative;z-index:10;background:linear-gradient(90deg,rgba(20,0,30,.9),rgba(40,0,20,.9),rgba(20,0,30,.9));padding:20px;text-align:center;border-bottom:1px solid rgba(168,85,247,.3)}
-.wisdom-quote{font-size:clamp(14px,2.5vw,20px);line-height:1.8;color:#d4b8e8;font-style:italic;max-width:900px;margin:0 auto;text-shadow:0 0 30px rgba(168,85,247,.5)}
-.wisdom-source{margin-top:10px;font-family:var(--f-mono);font-size:12px;color:var(--c-soul)}
+.wisdom-quote{font-size:clamp(14px,2.5vw,20px);line-height:1.8;color:#d4b8e8;font-style:italic;max-width:900px;margin:0 auto;text-shadow:0 0 30px rgba(168,85,247,.5);transition:opacity .6s ease}
+.wisdom-source{margin-top:10px;font-family:var(--f-mono);font-size:12px;color:var(--c-soul);transition:opacity .6s ease}
 
 /* ===== 生命線卡片 ===== */
-.lifeline-section{position:relative;z-index:10;display:grid;grid-template-columns:1fr 1.2fr 1.8fr;gap:15px;padding:20px;background:rgba(5,10,15,.95);align-items:stretch}
+.lifeline-section{position:relative;z-index:10;display:grid;grid-template-columns:1fr 1fr;gap:20px;padding:20px;background:rgba(5,10,15,.95);align-items:stretch}
 .lifeline-card{background:var(--c-panel);border:1px solid var(--c-border);border-radius:10px;padding:20px;text-align:center;transition:all .3s}
 .lifeline-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
 .lifeline-card h3{font-family:var(--f-mono);font-size:16px;color:var(--c-accent);margin-bottom:10px}
 .lifeline-card .big-number{font-family:var(--f-head);font-size:clamp(1.8rem,5vw,2.5rem);color:#fff;text-shadow:0 0 30px var(--c-accent)}
 .lifeline-card .unit{font-size:12px;color:#888;margin-top:4px;font-family:var(--f-mono)}
-.lifeline-card p{font-size:14px;color:#999;margin-top:8px}
+.
 
 /* ===== 四格區塊 ===== */
 .four-grid{display:none}
@@ -179,9 +179,10 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 
 /* ===== 圖表區 ===== */
 .chart-tabs{display:flex;gap:5px;padding:10px 15px 0 15px;justify-content:center}
-.chart-tab-btn{background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-bottom:none;color:#888;padding:8px 16px;font-family:var(--f-mono);font-size:11px;cursor:pointer;border-radius:4px 4px 0 0;transition:all .3s}
-.chart-tab-btn.active{background:rgba(0,243,255,.15);border-color:var(--c-accent);color:var(--c-accent);}
-#trend-chart-wrap{padding:10px;border-top:1px solid var(--c-border);height:340px;position:relative}
+.chart-tab-btn{background:rgba(0,243,255,.06);border:1px solid rgba(0,243,255,.2);color:#8a9aaa;padding:8px 16px;font-family:var(--f-mono);font-size:11px;cursor:pointer;border-radius:20px;transition:all .3s}
+.chart-tab-btn:hover{border-color:var(--c-accent);color:var(--c-accent);background:rgba(0,243,255,.1)}
+.chart-tab-btn.active{background:rgba(0,243,255,.15);border-color:var(--c-accent);color:var(--c-accent);box-shadow:0 0 12px rgba(0,243,255,.25)}
+#trend-chart-wrap{padding:15px;height:380px;position:relative;background:rgba(0,0,0,.3);border-radius:8px;border:1px solid var(--c-border)}
 #trend-chart{width:100%;height:100%}
 
 #today-focus{background:linear-gradient(135deg,rgba(50,10,20,.8),rgba(20,5,10,.9));border:1px solid var(--c-fatal);padding:20px;margin:10px;border-radius:10px;text-align:center;position:relative;overflow:hidden}
@@ -285,6 +286,10 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 .chart-tabs{flex-wrap:wrap}
 .lifeline-section{grid-template-columns:1fr!important}
 }
+/* ===== 新增修補 ===== */
+.lifeline-card p{font-size:14px;color:#999;margin-top:8px}
+.chart-zone{position:relative;z-index:10;padding:20px;background:rgba(5,10,15,.95)}
+.life-tools{display:none!important}
 </style>
 </head>
 <body>
@@ -328,22 +333,39 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <!-- 生命線卡片 -->
 <div class="lifeline-section">
 <div class="lifeline-card">
-<h3>⏱️ 2027年吹角節倒數</h3>
+<h3>⏱️ 末次號筒倒數</h3>
 <div class="big-number" id="countdown-days">---</div>
 <div class="unit">天</div>
 <p id="countdown-detail">距離 2027-10-01</p>
 </div>
 <div class="lifeline-card">
-<h3>🔍 同齡過濾器</h3>
-<div style="margin-top:10px">查看：<input type="number" id="peer-age-top" placeholder="年齡" min="1" max="120" style="width:70px;padding:8px;background:rgba(0,0,0,.6);border:1px solid var(--c-border);color:#fff;font-family:var(--f-mono);border-radius:4px;text-align:center"> ± 5歲
-<button class="btn" style="margin-left:8px" onclick="filterByAgeTop()">過 濾</button>
+<h3>⏳ 生命計算器</h3>
+<div style="margin-top:8px">年齡：<input type="number" id="user-age" value="40" min="1" max="120" style="width:70px;padding:8px;background:rgba(0,0,0,.6);border:1px solid var(--c-border);color:#fff;font-family:var(--f-mono);border-radius:4px;text-align:center"> 歲
+<button class="btn" style="margin-left:8px" onclick="calculateLife()">計算</button>
 </div>
-<div id="peer-result-top" style="font-size:12px;color:#888;margin-top:10px;line-height:1.6">輸入年齡或點擊年齡段，查看同齡人的記錄</div>
-<p style="margin-top:8px">每一天都是恩典</p>
+<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:12px">
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="days-lived-box" style="font-family:var(--f-head);font-size:1.1rem;color:#fff">14,600</div><div style="font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)">已活天數</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="days-left-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-acc)">14,600</div><div style="font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)">剩餘天數</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="life-percent-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-crit)">50.0%</div><div style="font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)">生命已用</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="to-2027-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-fatal)">--</div><div style="font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)">距吹角節</div></div>
 </div>
-<div class="lifeline-card" style="padding:15px;display:flex;flex-direction:column">
-<h3 style="margin-bottom:8px">📊 年齡分佈</h3>
-<div style="flex:1;position:relative;min-height:160px"><canvas id="age-dist-main"></canvas></div>
+<p id="life-result" style="font-size:12px;color:#888;margin-top:8px">輸入你的年齡，計算生命進度</p>
+</div>
+</div>
+<!-- ===== 圖表專區 ===== -->
+<div class="chart-zone">
+<div class="chart-tabs">
+  <button class="chart-tab-btn active" onclick="switchChart('mom')">📈 月趨勢</button>
+  <button class="chart-tab-btn" onclick="switchChart('yoy')">📊 年對比</button>
+  <button class="chart-tab-btn" onclick="switchChart('age')">👤 年齡分佈</button>
+  <button class="chart-tab-btn" onclick="switchChart('pie')">🥧 分類佔比</button>
+  <button class="chart-tab-btn" onclick="switchChart('doughnut')">🍩 環形圖</button>
+  <button class="chart-tab-btn" onclick="switchChart('stacked')">📚 堆疊趨勢</button>
+  <button class="chart-tab-btn" onclick="switchChart('radar')">🕸️ 雷達圖</button>
+  <button class="chart-tab-btn" onclick="switchChart('polarArea')">🎯 極座標</button>
+</div>
+<div id="cz-wrap" style="padding:15px;height:380px;position:relative;background:rgba(0,0,0,.3);border-radius:8px;border:1px solid var(--c-border)">
+<canvas id="cz-canvas" style="width:100%;height:100%"></canvas>
 </div>
 </div>
 
@@ -938,7 +960,7 @@ function switchChart(mode) {
 }
 
 function renderTrendChart(events){
-  const canvas = document.getElementById('trend-chart');
+  const canvas = document.getElementById('cz-canvas') || document.getElementById('trend-chart');
   if(!canvas) return;
   
   // 排除 SPAM 數據
@@ -1108,6 +1130,21 @@ function renderTrendChart(events){
           legend: { position: 'right', labels: { color: '#e0e6ed', font: { size: 12 } } },
           tooltip: { backgroundColor: 'rgba(0,0,0,.85)', bodyFont: { size: 13 } }
         }
+      }
+    });
+  } else if (currentChartMode === 'age') {
+    // === 年齡分佈 ===
+    const bk=[{l:'<20',min:0,max:19},{l:'20s',min:20,max:29},{l:'30s',min:30,max:39},{l:'40s',min:40,max:49},{l:'50s',min:50,max:59},{l:'60s',min:60,max:69},{l:'70s',min:70,max:79},{l:'80+',min:80,max:200}];
+    bk.forEach(b=>b.v=0);
+    dataEvents.forEach(e=>{if(e.age){const b=bk.find(b=>e.age>=b.min&&e.age<=b.max);if(b)b.v++}});
+    const ageColors=['#0d4f4f','#0e6b6b','#0f8787','#10a3a3','#11bfbf','#12dbdb','#00f3ff','#66f9ff'];
+    mainChart = new Chart(ctx, {
+      type:'bar',
+      data:{labels:bk.map(b=>b.l),datasets:[{label:'人數',data:bk.map(b=>b.v),backgroundColor:ageColors,borderColor:'rgba(0,243,255,.4)',borderWidth:1,borderRadius:4}]},
+      options:{responsive:true,maintainAspectRatio:false,
+        onClick:(e,activeEls)=>{if(activeEls.length>0){const idx=activeEls[0].index;const b=bk[idx];const midAge=b.min===0?15:b.min===80?85:b.min+5;document.getElementById('age-filter').value=midAge;filterEvents()}},
+        plugins:{legend:{display:false},tooltip:{backgroundColor:'rgba(0,0,0,.85)',titleColor:'#00f3ff',bodyFont:{size:13},displayColors:false,callbacks:{label:(c)=>{const total=bk.reduce((a,b)=>a+b.v,0);return `${c.parsed.y} 人 (${total?(c.parsed.y/total*100).toFixed(1):0}%)`}}}},
+        scales:{x:{grid:{display:false},ticks:{color:'#8a9aaa',font:{size:11}}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.08)'},ticks:{color:'#888'}}}
       }
     });
   } else if (currentChartMode === 'stacked') {
@@ -1287,7 +1324,7 @@ function loadPastedData(){
   if(!input||!input.value.trim())return;
   // 重新解析數據，這時若 JSON 已載入，就會用 JSON 規則
   allEvents=parseData(input.value); filteredEvents=[...allEvents];
-  populateFilterDropdowns();renderAgeDist();renderAgeDistMain();
+  populateFilterDropdowns();
   filterByTimeRange('week');
 }
 function handleFile(ev){
@@ -1413,6 +1450,25 @@ function showDailyContent(){
   if(dq)dq.textContent=q.replace(/^💭\s*/,'');
   document.getElementById('wisdom-quote').textContent=`「${w.text}」`;
   document.getElementById('wisdom-source').textContent=`— ${w.source}`;
+  // ===== 智慧橫幅自動輪播 =====
+  const allWisdom = [];
+  wisdomQuotes.forEach(w => allWisdom.push({ text: `「${w.text}」`, src: `— ${w.source}` }));
+  dailyVerses.forEach(v => allWisdom.push({ text: `「${v.text}」`, src: `— ${v.ref}` }));
+  dailyQuestions.forEach(q => allWisdom.push({ text: q, src: '— 每日一問' }));
+  let wisdomIdx = d % allWisdom.length;
+  const wqEl = document.getElementById('wisdom-quote');
+  const wsEl = document.getElementById('wisdom-source');
+  setInterval(() => {
+    wqEl.style.opacity = '0';
+    wsEl.style.opacity = '0';
+    setTimeout(() => {
+      wisdomIdx = (wisdomIdx + 1) % allWisdom.length;
+      wqEl.textContent = allWisdom[wisdomIdx].text;
+      wsEl.textContent = allWisdom[wisdomIdx].src;
+      wqEl.style.opacity = '1';
+      wsEl.style.opacity = '1';
+    }, 600);
+  }, 8000);
 }
 function toggleMourningMode(){document.body.classList.toggle('mourning-mode')}
 // ===== 沉浸靈魂旅程（已移至 GoodNews.html） =====
