@@ -72,6 +72,7 @@ display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap
 .
 
 /* ===== 四格區塊 ===== */
+.x{}
 .four-grid{display:none}
 .fg-card{background:var(--c-panel);border:1px solid var(--c-border);border-radius:10px;padding:20px;text-align:center;transition:all .3s}
 .fg-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
@@ -286,7 +287,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 .chart-tabs{flex-wrap:wrap}
 .lifeline-section{grid-template-columns:1fr!important}
 }
-/* ===== 新增修補 ===== */
+/* ===== 補丁 ===== */
 .lifeline-card p{font-size:14px;color:#999;margin-top:8px}
 .chart-zone{position:relative;z-index:10;padding:20px;background:rgba(5,10,15,.95)}
 .life-tools{display:none!important}
@@ -369,31 +370,9 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 </div>
 </div>
 
-<!-- 四格：昏沉 / 甦醒 / 經文 / 一問 -->
-<div class="four-grid">
-<div class="fg-card clickable" style="border-color:rgba(255,42,42,.4)" onclick="toggleMourningMode()">
-<div class="fg-icon">🌑</div>
-<h4 style="color:var(--c-fatal)">昏 沉</h4>
-<p>未曾思索來處<br>不問歸向何方<br>日復一日，年復一年</p>
-</div>
-<div class="fg-card" style="border-color:rgba(0,243,255,.4)">
-<div class="fg-icon">✧</div>
-<h4 style="color:var(--c-acc)">警 醒</h4>
-<p>知道生命有限<br>活出每天的價值<br>為永恆預備</p>
-</div>
-<div class="fg-card" style="border-color:rgba(255,42,42,.4)">
-<div class="fg-icon">📖</div>
-<h4 style="color:var(--c-fatal)">今日經文</h4>
-<p id="daily-verse-text">載入中...</p>
-</div>
-<div class="fg-card" style="border-color:rgba(168,85,247,.4)">
-<div class="fg-icon">💭</div>
-<h4 style="color:var(--c-soul)">每日一問</h4>
-<p id="daily-question-text">載入中...</p>
-</div>
-</div>
 
-<!-- 生命計算器 + 同齡過濾 -->
+
+<!-- [life-tools removed] -->
 <div class="life-tools">
 <div class="life-card">
 <h3>⏳ 你的生命計算器</h3>
@@ -463,19 +442,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <button class="time-range-btn" data-range="year" onclick="filterByTimeRange('year')">一年</button>
 <button class="time-range-btn" data-range="all" onclick="filterByTimeRange('all')">全部</button>
 </div>
-<!-- Chart.js 圖表區 -->
-<div class="chart-tabs">
-  <button class="chart-tab-btn active" onclick="switchChart('mom')">📈 月趨勢</button>
-  <button class="chart-tab-btn" onclick="switchChart('yoy')">📊 年對比</button>
-  <button class="chart-tab-btn" onclick="switchChart('pie')">🥧 分類佔比</button>
-  <button class="chart-tab-btn" onclick="switchChart('doughnut')">🍩 環形圖</button>
-  <button class="chart-tab-btn" onclick="switchChart('stacked')">📚 堆疊趨勢</button>
-  <button class="chart-tab-btn" onclick="switchChart('radar')">🕸️ 雷達圖</button>
-  <button class="chart-tab-btn" onclick="switchChart('polarArea')">🎯 極座標</button>
-</div>
-<div id="trend-chart-wrap">
-<canvas id="trend-chart"></canvas>
-</div>
+
 
 <div id="today-focus">
 <div class="focus-title">📍 今日聚焦 / TODAY'S FOCUS</div>
