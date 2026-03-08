@@ -22,7 +22,8 @@
 --accent:#4ea8de;--glow:#00b4d8;
 --gold:#d4a953;--gold-dim:rgba(212,169,83,.15);
 --pulse:#e63946;--pulse-dim:rgba(230,57,70,.1);
---text:#d8dfe8;--text-dim:#8899aa;--text-bright:#f5f7fb;
+--text:#d7e0ee;--text-dim:#93a4bd;--text-bright:#f7fbff;
+--text-soft:rgba(215,224,238,.78);--text-faint:rgba(215,224,238,.55);
 --card:rgba(10,18,36,.88);--card-border:rgba(78,168,222,.12);
 --f-head:'Orbitron',sans-serif;
 --f-mono:'Share Tech Mono',monospace;
@@ -33,7 +34,7 @@
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;scrollbar-width:none}
 html::-webkit-scrollbar{display:none}
-body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:19px;line-height:2.1;overflow-x:hidden}
+body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:19px;line-height:2.1;overflow-x:hidden;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 a{color:var(--accent);text-decoration:none;transition:all .3s}
 a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 #bg-canvas{position:fixed;inset:0;z-index:0;pointer-events:none}
@@ -120,7 +121,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 #bottom-ticker .btv{color:var(--pulse);font-family:var(--f-head);margin:0 4px}
 .fade-in{opacity:0;transform:translateY(30px);transition:opacity .8s ease,transform .8s ease}
 .fade-in.visible{opacity:1;transform:translateY(0)}
-#back-top{position:fixed;bottom:38px;right:16px;z-index:998;width:40px;height:40px;border-radius:50%;background:rgba(78,168,222,.1);border:1px solid rgba(78,168,222,.2);color:var(--accent);font-size:16px;cursor:pointer;display:none;align-items:center;justify-content:center;transition:all .3s}
+#back-top{position:fixed;bottom:44px;right:16px;z-index:1200;width:42px;height:42px;border-radius:50%;background:rgba(78,168,222,.12);border:1px solid rgba(78,168,222,.26);color:var(--accent);font-size:16px;cursor:pointer;display:none;align-items:center;justify-content:center;transition:all .3s;backdrop-filter:blur(8px)}
 #back-top:hover{background:var(--accent);color:#000}
 #back-top.show{display:flex}
 /* Scrollable SUDDEN list (hero) */
@@ -293,7 +294,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 STILL ALIVE © 2025 — WHO · UN Population Division
 </div>
 
-<button id="back-top" onclick="scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">▲</button>
+<button id="back-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">▲</button>
 <div id="bottom-ticker">每秒約 <span class="btv">2</span> 人離開 · 每天約 <span class="btv">172,000</span> 人</div>
 
 <script>
