@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>STILL ALIVE? 還活著嗎?</title>
+<title>STILL ALIVE 還活著 — 你還在這裡</title>
 <meta name="description" content="在你讀這句話的時間裡，有人永遠停止了呼吸。你還活著。">
 <meta property="og:type" content="website">
 <meta property="og:title" content="STILL ALIVE 還活著">
@@ -202,7 +202,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 </nav>
 
-<!-- 首屏：猝死和相關新聞。本月記錄 -->
+<!-- 首屏：猝死本月記錄 -->
 <section class="main-splash" id="splash">
 
 
@@ -211,13 +211,13 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div class="splash-refs">
 <span class="ref-label">參考來源</span>
 <a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)" target="_blank" rel="noopener">WHO • 心血管</a>
-<a class="ref-link" href="https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/sudden-cardiac-death" target="_blank" rel="noopener">AHA • 猝死和相關新聞</a>
+<a class="ref-link" href="https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/sudden-cardiac-death" target="_blank" rel="noopener">AHA • 猝死</a>
 <a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries" target="_blank" rel="noopener">WHO • 交通</a>
 <a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/suicide" target="_blank" rel="noopener">WHO • 自殺</a>
 </div>
 <!-- Scrollable SUDDEN list -->
 <div class="sudden-box">
-  <div class="sudden-box-title">最新猝死和相關新聞記錄 <span class="hint">（向下滑＝更早）</span></div>
+  <div class="sudden-box-title">最新猝死記錄 <span class="hint">（向下滑＝更早）</span></div>
   <div class="sudden-list" id="sudden-list">載入中…</div>
 </div>
 <div class="splash-scroll" onclick="document.getElementById('sec-you').scrollIntoView({behavior:'smooth'})">▼</div>
@@ -240,17 +240,17 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 </div>
 
-<!-- SEC 2: 你的年齡層 × 猝死和相關新聞 -->
+<!-- SEC 2: 你的年齡層 × 猝死 -->
 <div class="section fade-in" id="sec-peer">
 <div class="s-label">YOUR AGE GROUP</div>
-<div class="s-title">相同年齡，猝死和相關新聞，有多少?</div>
+<div class="s-title">相同年齡，猝死多少?</div>
 <div class="peer-box">
 <div style="font-size:.9rem;color:var(--text-dim);margin-bottom:8px"><span id="p-range">25-35</span> 歲</div>
 <div class="p-big" id="p-deaths">—</div>
-<div class="p-text">本港新聞記錄中，同齡（±5年）猝死和相關新聞個案。<br>
+<div class="p-text">本港新聞記錄中，同齡（±5年）猝死個案。<br>
 上月 <strong id="p-lm" style="color:var(--gold)">—</strong> 宗 &nbsp;·&nbsp; 上年 <strong id="p-ly" style="color:var(--gold)">—</strong> 宗</div>
 </div>
-<div class="chart-box" style="margin-top:20px"><h4>本港猝死和相關新聞，年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
+<div class="chart-box" style="margin-top:20px"><h4>本港猝死年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
 </div>
 
 <!-- SEC 3: 分類概覽 + 月度趨勢 -->
@@ -367,7 +367,7 @@ if(rd&&latest2.length){
 var html='';
 latest2.forEach(function(d){
 var parts=d.split('-');
-html+='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>猝死和死亡相關 <span class="srv">'+dates[d]+'</span> 宗<br>';
+html+='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>猝死 <span class="srv">'+dates[d]+'</span> 宗<br>';
 });
 rd.innerHTML=html;
 }
@@ -477,7 +477,29 @@ box.scrollTop=0;
 var jsonRules=null;var isSpamRx=[];
 var dynCat={FATAL:['自殺','治安','天災'],SUDDEN:['猝死'],CRIT:['危殆','暈倒','中暑','肝炎'],ACC:['交通','火警','遇溺','意外'],OTHER:['醫藥','經濟','AI安全','宗教末世','不明']};
 async function loadJsonRules(){
-try{var r=await fetch('classify_rules.json');if(!r.ok)throw 0;jsonRules=await r.json();if(jsonRules.spam&&jsonRules.spam.title_patterns)isSpamRx=jsonRules.spam.title_patterns.map(function(p){return new RegExp(p,'i')})}catch(e){}
+try{var r=await fetch('classify_rules.json');if(!r.ok)throw 0;jsonRules=await r.json();
+if(jsonRules.spam&&jsonRules.spam.title_patterns)isSpamRx=jsonRules.spam.title_patterns.map(function(p){return new RegExp(p,'i')});
+}catch(e){jsonRules=null;}
+}
+// v2.2+：支援 classify_rules.json 的 force_rules（同 Python 版一致）
+function applyJsonForceRules(title){
+  if(!jsonRules||!jsonRules.force_rules||!title)return null;
+  for(var i=0;i<jsonRules.force_rules.length;i++){
+    var rule=jsonRules.force_rules[i]||{};
+    // 若規則完全無條件，跳過
+    if(!(rule.match_any||rule.context_any||rule.regex))continue;
+    if(rule.match_any&&!(rule.match_any||[]).some(function(kw){return title.includes(kw)}))continue;
+    if(rule.context_any&&!(rule.context_any||[]).some(function(kw){return title.includes(kw)}))continue;
+    if(rule.regex){
+      try{ if(!(new RegExp(rule.regex)).test(title))continue; }
+      catch(e){ continue; }
+    }
+    var excl=(rule.exclude_any||[]);
+    if(rule.exclude_ref&&jsonRules[rule.exclude_ref])excl=jsonRules[rule.exclude_ref];
+    if(excl&&excl.some&&excl.some(function(kw){return title.includes(kw)}))continue;
+    if(rule.result)return rule.result;
+  }
+  return null;
 }
 var fbFatal=['死亡','不治','身亡','溺斃','離世','送院不治','倒斃'];
 var fbCrit=['危殆','昏迷','命危','搶救','重傷','暈倒'];
@@ -487,6 +509,17 @@ function isSpamFB(t){t=(t||'').trim();for(var i=0;i<fbSafe.length;i++)if(t.inclu
 function categorize(title){
 var t=(title||'').trim(),tL=t.toLowerCase();
 if(jsonRules){
+// 0) force_rules（優先級最高：可直接指定「不是」或其他分類）
+var forced=applyJsonForceRules(t);
+if(forced){
+  // 將 JSON「分類」映射到 STILL ALIVE 的大類
+  if(forced==='不是')return 'SPAM';
+  if(dynCat.SUDDEN&&dynCat.SUDDEN.includes(forced))return 'SUDDEN';
+  if(dynCat.FATAL&&dynCat.FATAL.includes(forced))return 'FATAL';
+  if(dynCat.CRIT&&dynCat.CRIT.includes(forced))return 'CRIT';
+  if(dynCat.ACC&&dynCat.ACC.includes(forced))return 'ACC';
+  return 'OTHER';
+}
 var sp=jsonRules.spam;var spam=false,safe=false;
 if(sp&&sp.safe_words)safe=sp.safe_words.some(function(w){return t.includes(w)});
 if(!safe){if(sp.domains&&sp.domains.some(function(d){return tL.includes(d.toLowerCase())}))spam=true;if(!spam&&sp.brands&&sp.brands.some(function(b){return tL.includes(b.toLowerCase())}))spam=true;if(!spam&&isSpamRx.some(function(rx){return rx.test(t)}))spam=true;if(!spam&&sp.combo_keywords){var h=0;sp.combo_keywords.forEach(function(kw){if(t.includes(kw))h++});if(h>=(sp.combo_threshold||2))spam=true}}
