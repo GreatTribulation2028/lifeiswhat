@@ -202,7 +202,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 </nav>
 
-<!-- 首屏：猝死本月記錄 -->
+<!-- 首屏：猝死和相關新聞。本月記錄 -->
 <section class="main-splash" id="splash">
 
 
@@ -211,13 +211,13 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div class="splash-refs">
 <span class="ref-label">參考來源</span>
 <a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)" target="_blank" rel="noopener">WHO • 心血管</a>
-<a class="ref-link" href="https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/sudden-cardiac-death" target="_blank" rel="noopener">AHA • 猝死</a>
+<a class="ref-link" href="https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/sudden-cardiac-death" target="_blank" rel="noopener">AHA • 猝死和相關新聞</a>
 <a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries" target="_blank" rel="noopener">WHO • 交通</a>
 <a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/suicide" target="_blank" rel="noopener">WHO • 自殺</a>
 </div>
 <!-- Scrollable SUDDEN list -->
 <div class="sudden-box">
-  <div class="sudden-box-title">最新猝死記錄 <span class="hint">（向下滑＝更早）</span></div>
+  <div class="sudden-box-title">最新猝死和相關新聞記錄 <span class="hint">（向下滑＝更早）</span></div>
   <div class="sudden-list" id="sudden-list">載入中…</div>
 </div>
 <div class="splash-scroll" onclick="document.getElementById('sec-you').scrollIntoView({behavior:'smooth'})">▼</div>
@@ -240,17 +240,17 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 </div>
 
-<!-- SEC 2: 你的年齡層 × 猝死 -->
+<!-- SEC 2: 你的年齡層 × 猝死和相關新聞 -->
 <div class="section fade-in" id="sec-peer">
 <div class="s-label">YOUR AGE GROUP</div>
-<div class="s-title">相同年齡，猝死多少?</div>
+<div class="s-title">相同年齡，猝死和相關新聞，有多少?</div>
 <div class="peer-box">
 <div style="font-size:.9rem;color:var(--text-dim);margin-bottom:8px"><span id="p-range">25-35</span> 歲</div>
 <div class="p-big" id="p-deaths">—</div>
-<div class="p-text">本港新聞記錄中，同齡（±5年）猝死個案。<br>
+<div class="p-text">本港新聞記錄中，同齡（±5年）猝死和相關新聞個案。<br>
 上月 <strong id="p-lm" style="color:var(--gold)">—</strong> 宗 &nbsp;·&nbsp; 上年 <strong id="p-ly" style="color:var(--gold)">—</strong> 宗</div>
 </div>
-<div class="chart-box" style="margin-top:20px"><h4>本港猝死年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
+<div class="chart-box" style="margin-top:20px"><h4>本港猝死和相關新聞，年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
 </div>
 
 <!-- SEC 3: 分類概覽 + 月度趨勢 -->
