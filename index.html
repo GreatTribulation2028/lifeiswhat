@@ -299,7 +299,12 @@ STILL ALIVE © 2025 — WHO · UN Population Division
 
 <script>
 var DPS=2.0,DPD=172000;
-var entryTime=Date.now(),allEvents=[];
+var entryTime=Date.now(),allEvents=[],indexEvents=[];
+// INDEX 嚴格顯示/統計：只吃「猝死」或「暈倒」（OR），其他一律不計、不顯示
+function hitIndexTitle(t){
+  t=(t||'');
+  return t.includes('猝死') || t.includes('暈倒');
+}
 
 /* Scroll progress */
 window.addEventListener('scroll',function(){
@@ -352,7 +357,7 @@ if(allEvents.length){updatePeer(age);renderAgeBar(age);}
 
 /* Splash: sudden counter + latest 2 days */
 function updateSplash(events){
-var sudden=events.filter(function(e){return e.category==='SUDDEN'});
+var sudden=events.filter(function(e){return hitIndexTitle(e.title)});
 var now=new Date();
 var tm=now.toISOString().slice(0,7);
 var mc=sudden.filter(function(e){return e.date.startsWith(tm)}).length;
@@ -375,7 +380,7 @@ rd.innerHTML=html;
 
 /* Peer */
 function updatePeer(age){
-var sudden=allEvents.filter(function(e){return e.category==='SUDDEN'&&e.age&&e.age>0});
+var sudden=indexEvents.filter(function(e){return hitIndexTitle(e.title)&&e.age&&e.age>0});
 var range=sudden.filter(function(e){return Math.abs(e.age-age)<=5});
 var now=new Date();
 var lm=new Date(now.getFullYear(),now.getMonth()-1,1).toISOString().slice(0,7);
@@ -393,7 +398,7 @@ var ply=document.getElementById('p-ly');if(ply)ply.textContent=lyc;
 var ageChart=null;
 function renderAgeBar(age){
 var cv=document.getElementById('age-bar-chart');if(!cv)return;
-var sudden=allEvents.filter(function(e){return e.category==='SUDDEN'&&e.age&&e.age>0});
+var sudden=indexEvents.filter(function(e){return hitIndexTitle(e.title)&&e.age&&e.age>0});
 var bks=[{l:'<20',mn:0,mx:19,v:0},{l:'20s',mn:20,mx:29,v:0},{l:'30s',mn:30,mx:39,v:0},{l:'40s',mn:40,mx:49,v:0},{l:'50s',mn:50,mx:59,v:0},{l:'60s',mn:60,mx:69,v:0},{l:'70+',mn:70,mx:999,v:0}];
 sudden.forEach(function(e){var b=bks.find(function(b){return e.age>=b.mn&&e.age<=b.mx});if(b)b.v++});
 var ui=bks.findIndex(function(b){return age>=b.mn&&age<=b.mx});
@@ -429,7 +434,8 @@ document.getElementById('proof-total').textContent=total.toLocaleString();
 /* Monthly trend */
 var mChart=null;
 function renderMoM(events){
-var ns=events.filter(function(e){return e.category!=='SPAM'});
+// index 僅顯示猝死/暈倒，不做其他分類
+var ns=events.filter(function(e){return hitIndexTitle(e.title)});
 var mm={};
 ns.forEach(function(e){var ym=e.date.slice(0,7);mm[ym]=(mm[ym]||0)+1});
 var labels=Object.keys(mm).sort();
@@ -443,7 +449,7 @@ mChart=new Chart(cv.getContext('2d'),{type:'line',data:{labels:labels,datasets:[
 function renderSuddenList(events){
 var box=document.getElementById('sudden-list');
 if(!box)return;
-var sudden=events.filter(function(e){return e.category==='SUDDEN'});
+var sudden=events.filter(function(e){return hitIndexTitle(e.title)});
 if(!sudden.length){box.textContent='暫無記錄';return;}
 // group by date; newest date shown first
 var groups={};
@@ -573,11 +579,13 @@ var parts=[];for(var yr=startY;yr<=endY;yr++)if(window['DATA_'+yr])parts.push(wi
 var merged=parts.join('\n');
 if(merged.trim()){
 allEvents=parseData(merged);
-try{updateSplash(allEvents)}catch(e){console.error('Splash',e)}
-try{renderSuddenList(allEvents)}catch(e){console.error('SuddenList',e)}
-try{renderCatBars(allEvents)}catch(e){console.error('CatBars',e)}
-try{var ddt=document.getElementById('data-date-title');if(ddt&&allEvents.length){var fd=allEvents[allEvents.length-1].date,ld=allEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
-try{renderMoM(allEvents)}catch(e){console.error('MoM',e)}
+// index 專用：只保留「猝死 / 暈倒」兩個絕對詞命中
+indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
+try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
+try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
+// 注意：index 不顯示其他分類統計，因此不呼叫 renderCatBars
+try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
+try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
 var age=parseInt(slider.value)||30;
 try{updatePeer(age)}catch(e){console.error('Peer',e)}
 try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
@@ -590,7 +598,7 @@ window.addEventListener('load',async function(){
 requestAnimationFrame(tickCounter);
 calcLife();
 await loadJsonRules();loadAllData();
-addEventListener('resize',function(){if(allEvents.length){renderMoM(allEvents);renderAgeBar(parseInt(slider.value)||30);}});
+addEventListener('resize',function(){if(indexEvents.length){renderMoM(indexEvents);renderAgeBar(parseInt(slider.value)||30);}});
 });
 </script>
 </body>
