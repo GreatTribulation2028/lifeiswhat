@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>STILL ALIVE? 還活著嗎?</title>
+<title>STILL ALIVE? 還活著嗎?悲傷孤獨的世界裡，至少有人仍願意明白您，所以一直記錄著...</title>
 <meta name="description" content="在你讀這句話的時間裡，有人永遠停止了呼吸。你還活著。">
 <meta property="og:type" content="website">
-<meta property="og:title" content="STILL ALIVE? 還活著嗎?">
+<meta property="og:title" content="STILL ALIVE? 還活著嗎?悲傷孤獨的世界裡，至少有人仍願意明白您，所以一直記錄著...">
 <meta property="og:description" content="世界在變，人心依舊？">
 <meta property="og:image" content="https://greattribulaton2028.github.io/lifeiswhat/og-still-alive.png">
 <meta property="og:url" content="https://greattribulaton2028.github.io/lifeiswhat/">
@@ -187,6 +187,17 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .sudden-item:hover{background:rgba(78,168,222,.06)}
 @media(max-width:768px){body{padding-bottom:30px}.section{padding:70px 20px}.dash{grid-template-columns:repeat(2,1fr)}.cta-grid{grid-template-columns:1fr}}
 @media(max-width:380px){.dash{grid-template-columns:1fr}}
+/* 7/14/30 Day Stats */
+.stats-box{position:relative;z-index:1;max-width:720px;margin:0 auto;padding:20px 24px 60px}
+.stats-toggle{display:flex;justify-content:center;gap:8px;margin-bottom:16px}
+.stats-toggle button{font-family:var(--f-mono);font-size:12px;color:var(--text-dim);background:transparent;border:1px solid rgba(255,255,255,.1);border-radius:20px;padding:6px 18px;cursor:pointer;transition:all .3s}
+.stats-toggle button.active{color:var(--pulse);border-color:var(--pulse);background:rgba(230,57,70,.08)}
+.stats-toggle button:hover{border-color:var(--accent);color:var(--accent)}
+.stats-summary{text-align:center;margin-bottom:16px}
+.stats-summary .ss-num{font-family:var(--f-head);font-size:clamp(2rem,6vw,3rem);color:var(--pulse);text-shadow:0 0 40px rgba(230,57,70,.3)}
+.stats-summary .ss-label{font-family:var(--f-zh);font-size:.9rem;color:var(--text-dim);margin-top:4px}
+.stats-chart-wrap{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:20px}
+.stats-chart-wrap canvas{max-height:180px}
 </style>
 </head>
 <body>
@@ -222,6 +233,17 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 <div class="splash-scroll" onclick="document.getElementById('sec-you').scrollIntoView({behavior:'smooth'})">▼</div>
 </section>
+
+<!-- SEC: 近期猝死統計 -->
+<div class="stats-box fade-in" id="sec-stats">
+<div class="stats-toggle">
+<button class="active" onclick="setStatsDays(7)">7 天</button>
+<button onclick="setStatsDays(14)">14 天</button>
+<button onclick="setStatsDays(30)">30 天</button>
+</div>
+<div class="stats-summary"><div class="ss-num" id="ss-num">—</div><div class="ss-label" id="ss-label">過去 7 天猝死相關新聞</div></div>
+<div class="stats-chart-wrap"><canvas id="stats-bar-chart"></canvas></div>
+</div>
 
 <!-- SEC 1: 剩多少時間？ -->
 <div class="section fade-in" id="sec-you">
@@ -299,6 +321,24 @@ STILL ALIVE © 2025 — WHO · UN Population Division
 
 <script>
 var DPS=2.0,DPD=172000;
+var statsDays=7,statsChart=null;
+function setStatsDays(d){
+statsDays=d;
+document.querySelectorAll('.stats-toggle button').forEach(function(b){b.classList.toggle('active',parseInt(b.textContent)===d)});
+if(indexEvents.length)renderStatsBar();
+}
+function renderStatsBar(){
+var cv=document.getElementById('stats-bar-chart');if(!cv)return;
+var now=new Date();var days=[];
+for(var i=statsDays-1;i>=0;i--){var d=new Date(now);d.setDate(d.getDate()-i);days.push(d.toISOString().slice(0,10))}
+var counts=days.map(function(d){return indexEvents.filter(function(e){return e.date===d}).length});
+var total=counts.reduce(function(a,b){return a+b},0);
+document.getElementById('ss-num').textContent=total;
+document.getElementById('ss-label').textContent='過去 '+statsDays+' 天猝死相關新聞';
+var labels=days.map(function(d){var p=d.split('-');return parseInt(p[1])+'/'+parseInt(p[2])});
+if(statsChart)statsChart.destroy();
+statsChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:labels,datasets:[{data:counts,backgroundColor:'rgba(230,57,70,.6)',hoverBackgroundColor:'rgba(230,57,70,.85)',borderWidth:0,borderRadius:3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:function(items){return days[items[0].dataIndex]},label:function(item){return item.raw+' 宗'}}}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{font:{size:10},maxRotation:45}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'},ticks:{stepSize:1}}}}});
+}
 var entryTime=Date.now(),allEvents=[],indexEvents=[];
 // INDEX 嚴格顯示/統計：只吃「猝死」或「暈倒」（OR），其他一律不計、不顯示
 function hitIndexTitle(t){
@@ -589,6 +629,7 @@ try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
 var age=parseInt(slider.value)||30;
 try{updatePeer(age)}catch(e){console.error('Peer',e)}
 try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
+try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
 }
 });
 }
@@ -598,7 +639,7 @@ window.addEventListener('load',async function(){
 requestAnimationFrame(tickCounter);
 calcLife();
 await loadJsonRules();loadAllData();
-addEventListener('resize',function(){if(indexEvents.length){renderMoM(indexEvents);renderAgeBar(parseInt(slider.value)||30);}});
+addEventListener('resize',function(){if(indexEvents.length){renderMoM(indexEvents);renderAgeBar(parseInt(slider.value)||30);renderStatsBar();}});
 });
 </script>
 </body>
