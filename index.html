@@ -190,14 +190,14 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 /* 7/14/30 Day Stats */
 .stats-box{position:relative;z-index:1;max-width:720px;margin:0 auto;padding:20px 24px 60px}
 .stats-toggle{display:flex;justify-content:center;gap:8px;margin-bottom:16px}
-.stats-toggle button{font-family:var(--f-mono);font-size:12px;color:var(--text-dim);background:transparent;border:1px solid rgba(255,255,255,.1);border-radius:20px;padding:6px 18px;cursor:pointer;transition:all .3s}
+.stats-toggle button{font-family:var(--f-mono);font-size:14px;color:var(--text-dim);background:transparent;border:1px solid rgba(255,255,255,.1);border-radius:20px;padding:8px 22px;cursor:pointer;transition:all .3s}
 .stats-toggle button.active{color:var(--pulse);border-color:var(--pulse);background:rgba(230,57,70,.08)}
 .stats-toggle button:hover{border-color:var(--accent);color:var(--accent)}
 .stats-summary{text-align:center;margin-bottom:16px}
-.stats-summary .ss-num{font-family:var(--f-head);font-size:clamp(2rem,6vw,3rem);color:var(--pulse);text-shadow:0 0 40px rgba(230,57,70,.3)}
-.stats-summary .ss-label{font-family:var(--f-zh);font-size:.9rem;color:var(--text-dim);margin-top:4px}
-.stats-chart-wrap{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:20px}
-.stats-chart-wrap canvas{max-height:180px}
+.stats-summary .ss-num{font-family:var(--f-head);font-size:clamp(3rem,10vw,5rem);color:var(--pulse);text-shadow:0 0 60px rgba(230,57,70,.4)}
+.stats-summary .ss-label{font-family:var(--f-zh);font-size:clamp(1rem,2.5vw,1.2rem);color:var(--text-dim);margin-top:8px}
+.stats-chart-wrap{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:28px 24px}
+.stats-chart-wrap canvas{max-height:320px}
 </style>
 </head>
 <body>
@@ -337,7 +337,18 @@ document.getElementById('ss-num').textContent=total;
 document.getElementById('ss-label').textContent='過去 '+statsDays+' 天猝死相關新聞';
 var labels=days.map(function(d){var p=d.split('-');return parseInt(p[1])+'/'+parseInt(p[2])});
 if(statsChart)statsChart.destroy();
-statsChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:labels,datasets:[{data:counts,backgroundColor:'rgba(230,57,70,.6)',hoverBackgroundColor:'rgba(230,57,70,.85)',borderWidth:0,borderRadius:3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:function(items){return days[items[0].dataIndex]},label:function(item){return item.raw+' 宗'}}}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{font:{size:10},maxRotation:45}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'},ticks:{stepSize:1}}}}});
+var barColors=counts.map(function(c,i){
+var hue=0+(i*25)%360;
+var sat=c===0?0:65;
+var light=c===0?20:55;
+return 'hsla('+hue+','+sat+'%,'+light+'%,0.75)';
+});
+var hoverColors=counts.map(function(c,i){
+var hue=0+(i*25)%360;
+return c===0?'hsla(0,0%,30%,0.8)':'hsla('+hue+',70%,65%,0.9)';
+});
+cv.style.height=Math.min(320,Math.max(200,statsDays*10+80))+'px';
+statsChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:labels,datasets:[{data:counts,backgroundColor:barColors,hoverBackgroundColor:hoverColors,borderWidth:0,borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{titleFont:{size:14},bodyFont:{size:14},callbacks:{title:function(items){return days[items[0].dataIndex]},label:function(item){return item.raw+' 宗'}}}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{font:{size:13},maxRotation:45,color:'#b0bec5'}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'},ticks:{stepSize:1,font:{size:13},color:'#b0bec5'}}}}});
 }
 var entryTime=Date.now(),allEvents=[],indexEvents=[];
 // INDEX 嚴格顯示/統計：只吃「猝死」或「暈倒」（OR），其他一律不計、不顯示
