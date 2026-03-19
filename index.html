@@ -8,10 +8,10 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="STILL ALIVE? 還活著嗎?悲傷孤獨的世界裡，至少有人仍願意明白您，所以一直記錄著...">
 <meta property="og:description" content="世界在變，人心依舊？">
-<meta property="og:image" content="https://greattribulaton2028.github.io/lifeiswhat/og-still-alive.png">
-<meta property="og:url" content="https://greattribulaton2028.github.io/lifeiswhat/">
+<meta property="og:image" content="https://greattribulation2028.github.io/lifeiswhat/og-still-alive.png">
+<meta property="og:url" content="https://greattribulation2028.github.io/lifeiswhat/">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="canonical" href="https://greattribulaton2028.github.io/lifeiswhat/">
+<link rel="canonical" href="https://greattribulation2028.github.io/lifeiswhat/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700;900&family=Noto+Serif+TC:wght@400;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Jura:wght@400;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -150,7 +150,9 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
   height:220px;
   overflow:auto;
   padding-right:10px;
-  overscroll-behavior:contain
+  overscroll-behavior:contain;
+  scrollbar-width:thin;
+  scrollbar-color:rgba(78,168,222,.3) transparent
 }
 .sudden-day{padding:8px 0 10px;border-top:1px solid rgba(255,255,255,.06)}
 .sudden-day:first-child{border-top:none;padding-top:0}
@@ -313,7 +315,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 
 <div class="static-footer">
 <div style="font-family:var(--f-zh);font-size:14px;color:rgba(255,255,255,.3);margin-bottom:8px">記錄的，不是數字。<br>是一份對人的記念。</div>
-STILL ALIVE © 2025 — WHO · UN Population Division
+STILL ALIVE © <script>document.write(new Date().getFullYear())</script> — WHO · UN Population Division
 </div>
 
 <button id="back-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">▲</button>
@@ -412,8 +414,7 @@ var sudden=events.filter(function(e){return hitIndexTitle(e.title)});
 var now=new Date();
 var tm=now.toISOString().slice(0,7);
 var mc=sudden.filter(function(e){return e.date.startsWith(tm)}).length;
-var sc=document.getElementById('sudden-counter');
-if(sc)sc.textContent=mc.toLocaleString();
+// sudden-counter element removed — no-op
 var dates={};
 sudden.forEach(function(e){dates[e.date]=(dates[e.date]||0)+1});
 var sorted=Object.keys(dates).sort().reverse();
