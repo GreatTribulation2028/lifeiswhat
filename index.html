@@ -356,7 +356,13 @@ var entryTime=Date.now(),allEvents=[],indexEvents=[];
 // INDEX 嚴格顯示/統計：只吃「猝死」或「暈倒」（OR），其他一律不計、不顯示
 function hitIndexTitle(t){
   t=(t||'');
-  return t.includes('猝死') || t.includes('暈倒');
+  var SUDDEN_EXACT=['猝死','猝斃','猝亡','猝逝'];
+  var COMBO_TRIGGER=['暈倒','昏迷','昏倒'];
+  var DEATH_CONFIRM=['不治','死亡','身亡','離世','倒斃'];
+  if(SUDDEN_EXACT.some(function(w){return t.includes(w)})) return true;
+  if(COMBO_TRIGGER.some(function(w){return t.includes(w)}) &&
+     DEATH_CONFIRM.some(function(w){return t.includes(w)})) return true;
+  return false;
 }
 
 /* Scroll progress */
