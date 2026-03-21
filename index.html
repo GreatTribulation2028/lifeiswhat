@@ -231,7 +231,13 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <!-- Scrollable SUDDEN list -->
 <div class="sudden-box">
   <div class="sudden-box-title">最新猝死記錄 <span class="hint">（向下滑＝更早）</span></div>
-  <div class="sudden-list" id="sudden-list">載入中…</div>
+  <div class="sudden-list" id="sudden-list">
+    <div style="text-align:center;padding:30px 10px;font-family:'Share Tech Mono',monospace;color:rgba(255,255,255,.35);font-size:13px;line-height:2.2">
+      <div style="font-size:1.3rem;margin-bottom:8px;animation:breathe 1.5s ease-in-out infinite">⏳</div>
+      載入數年記錄中，請稍候…
+      <div style="font-size:11px;margin-top:6px;color:rgba(255,255,255,.2)">資料量較大，首次載入需數秒</div>
+    </div>
+  </div>
 </div>
 <div class="splash-scroll" onclick="document.getElementById('sec-you').scrollIntoView({behavior:'smooth'})">▼</div>
 </section>
@@ -535,6 +541,15 @@ html+='</div>';
 }
 box.innerHTML=html;
 box.scrollTop=0;
+// 加入可捲動提示
+var hint=box.parentElement.querySelector('.sudden-scroll-hint');
+if(!hint){
+hint=document.createElement('div');
+hint.className='sudden-scroll-hint';
+hint.style.cssText='text-align:center;font-family:"Share Tech Mono",monospace;font-size:11px;color:rgba(255,255,255,.25);margin-top:8px;letter-spacing:.5px';
+hint.textContent='↑ 上下瀏覽 · 向下滑動查看更早記錄 ↓';
+box.parentElement.appendChild(hint);
+}
 }
 
 /* JSON Rules Engine */
