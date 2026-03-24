@@ -4,17 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>PROJECT: TRIBULATION // 七年大災難 2019-2028</title>
-<meta property="og:title" content="七年大災難時間軸">
-<meta property="og:description" content="聖經預言的七年大災難事件時間線">
-<meta property="og:image" content="og-still-alive.png">
-<meta property="og:type" content="website">
-<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;500;700&family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚠️</text></svg>">
 <style>
-:root{--c-bg:#0a0a0a;--c-bg-card:rgba(10,10,10,0.85);--c-accent:#00f3ff;--c-accent-dim:rgba(0,243,255,0.3);--c-doom-red:#ff2a2a;--c-blood:#8b0000;--c-warn:#ffae00;--c-success:#00ff41;--c-text:#f2f2f2;--c-text-dim:#ccc;--c-border:rgba(0,243,255,0.2);--font-mono:'Share Tech Mono',monospace;--font-display:'Orbitron',sans-serif;--font-chinese:'Noto Sans TC',sans-serif;--font-brush:'Ma Shan Zheng',cursive;--header-height:80px;--footer-height:50px;--mobile-nav-height:60px}
+:root{--c-bg:#0a0a0a;--c-bg-card:rgba(10,10,10,0.85);--c-accent:#00f3ff;--c-accent-dim:rgba(0,243,255,0.3);--c-doom-red:#ff2a2a;--c-blood:#8b0000;--c-warn:#ffae00;--c-success:#00ff41;--c-text:#f2f2f2;--c-text-dim:#ccc;--c-border:rgba(0,243,255,0.2);--font-mono:'Share Tech Mono',monospace;--font-display:'Orbitron',sans-serif;--font-chinese:'Noto Sans TC',sans-serif;--font-brush:'Ma Shan Zheng',cursive;--header-height:40px;--footer-height:50px;--mobile-nav-height:60px}
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);min-height:100vh;overflow-x:hidden;line-height:1.6}
@@ -22,7 +17,10 @@ body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);
 .doom-vignette{position:fixed;top:0;left:0;right:0;bottom:0;background:radial-gradient(ellipse at center,transparent 0%,rgba(50,0,0,0.4) 100%);pointer-events:none;z-index:9990}
 .scanlines{position:fixed;top:0;left:0;right:0;bottom:0;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,0.1) 2px,rgba(0,0,0,0.1) 4px);pointer-events:none;z-index:9991}
 .lightning-flash{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(255,255,255,0.8);opacity:0;pointer-events:none;z-index:9989}
-.top-header{position:fixed;top:0;left:0;right:0;height:var(--header-height);background:linear-gradient(180deg,rgba(0,0,0,0.95) 0%,rgba(0,0,0,0.8) 100%);border-bottom:2px solid var(--c-doom-red);display:flex;align-items:center;justify-content:space-between;padding:0 20px;z-index:1000;box-shadow:0 5px 30px rgba(255,0,0,0.2)}
+.top-header{position:relative;width:100%;height:var(--header-height);background:linear-gradient(180deg,rgba(0,0,0,0.95) 0%,rgba(0,0,0,0.8) 100%);border-bottom:2px solid var(--c-doom-red);display:flex;align-items:center;justify-content:center;padding:0 15px;box-shadow:0 3px 20px rgba(255,0,0,0.15)}
+.index-float-btn{position:fixed;bottom:calc(var(--footer-height)+15px);left:15px;padding:10px 18px;background:rgba(0,0,0,0.85);border:2px solid var(--c-accent);border-radius:8px;color:var(--c-accent);font-family:var(--font-mono);font-size:13px;text-decoration:none;z-index:998;transition:all 0.3s;backdrop-filter:blur(8px);display:flex;align-items:center;gap:6px;letter-spacing:1px}
+.index-float-btn:hover{background:var(--c-accent);color:#000;box-shadow:0 0 20px var(--c-accent)}
+@media(max-width:768px){.index-float-btn{bottom:calc(var(--footer-height)+var(--mobile-nav-height)+10px);left:10px;padding:8px 14px;font-size:11px}}
 .project-title{font-family:var(--font-display);font-size:16px;font-weight:700;color:var(--c-doom-red);text-shadow:0 0 20px rgba(255,42,42,0.8);letter-spacing:2px;animation:title-pulse 3s ease-in-out infinite}
 @keyframes title-pulse{0%,100%{opacity:0.8}50%{opacity:1;text-shadow:0 0 30px rgba(255,42,42,1)}}
 .prophecy-numbers{display:flex;gap:20px}
@@ -31,10 +29,10 @@ body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);
 .prophecy-value{font-family:var(--font-display);font-size:24px;font-weight:900;color:var(--c-doom-red);text-shadow:0 0 15px rgba(255,42,42,0.8);animation:number-flicker 4s ease-in-out infinite}
 .prophecy-unit{font-size:10px;color:var(--c-text-dim);margin-left:3px}
 @keyframes number-flicker{0%,90%,100%{opacity:1}92%,94%,96%{opacity:0.5}93%,95%{opacity:1}}
-.countdown-box{text-align:center;padding:8px 15px;background:rgba(0,0,0,0.8);border:1px solid var(--c-accent);border-radius:6px;min-width:160px}
-.countdown-label{font-size:10px;color:var(--c-accent);letter-spacing:1px}
-.countdown-target{font-family:var(--font-mono);font-size:11px;color:var(--c-text-dim)}
-.countdown-value{font-family:var(--font-display);font-size:20px;font-weight:700;color:var(--c-accent);text-shadow:0 0 15px var(--c-accent);margin:3px 0}
+.countdown-box{display:flex;align-items:center;gap:12px;padding:0;background:transparent;border:none;border-radius:0;min-width:auto}
+.countdown-label{font-size:12px;color:var(--c-accent);letter-spacing:1px;font-family:var(--font-mono)}
+.countdown-target{display:none}
+.countdown-value{font-family:var(--font-display);font-size:18px;font-weight:700;color:var(--c-accent);text-shadow:0 0 15px var(--c-accent);margin:0}
 .countdown-status{font-size:9px;color:var(--c-success);letter-spacing:1px}
 .countdown-box.alert{border-color:var(--c-warn);animation:alert-pulse 1s ease-in-out infinite}
 .countdown-box.alert .countdown-value{color:var(--c-warn);text-shadow:0 0 15px var(--c-warn)}
@@ -42,7 +40,7 @@ body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);
 .countdown-box.urgent .countdown-value{color:var(--c-doom-red);text-shadow:0 0 20px var(--c-doom-red)}
 @keyframes alert-pulse{0%,100%{box-shadow:0 0 10px rgba(255,174,0,0.3)}50%{box-shadow:0 0 25px rgba(255,174,0,0.6)}}
 @keyframes urgent-shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-2px)}75%{transform:translateX(2px)}}
-.main-container{display:grid;grid-template-columns:300px 1fr 320px;gap:20px;padding:calc(var(--header-height)+80px) 20px calc(var(--footer-height)+20px);min-height:100vh;max-width:1600px;margin:0 auto}
+.main-container{display:grid;grid-template-columns:300px 1fr 320px;gap:20px;padding:20px 20px calc(var(--footer-height)+20px);min-height:100vh;max-width:1600px;margin:0 auto}
 .column{display:flex;flex-direction:column;gap:15px}
 .section-header{display:flex;align-items:center;gap:10px;padding:10px 15px;background:rgba(0,0,0,0.8);border:1px solid var(--c-border);border-radius:6px}
 .section-icon{font-size:18px}
@@ -120,9 +118,9 @@ body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);
 .back-to-top.visible{opacity:0.7;visibility:visible}
 .back-to-top:hover{opacity:1;background:var(--c-accent);color:#000;border-color:var(--c-accent);box-shadow:0 0 15px var(--c-accent)}
 @media(max-width:1200px){.main-container{grid-template-columns:280px 1fr 280px;gap:15px;padding:calc(var(--header-height)+55px) 15px calc(var(--footer-height)+15px)}.project-title{font-size:13px}.prophecy-value{font-size:20px}.countdown-box{min-width:140px}.countdown-value{font-size:16px}}
-@media(max-width:960px){:root{--header-height:120px}.top-header{flex-wrap:wrap;justify-content:center;padding:10px;gap:10px}.header-left{width:100%;text-align:center}.header-center,.header-right{flex:1;display:flex;justify-content:center}.main-container{grid-template-columns:1fr 1fr;gap:15px}.column-left{grid-column:1/-1;order:1}.column-center{order:2}.column-right{order:3}.timeline-container{max-height:350px}}
-@media(max-width:768px){:root{--header-height:70px;--footer-height:40px;--mobile-nav-height:55px}.top-header{flex-wrap:nowrap;justify-content:space-between;padding:8px 12px;gap:8px}.header-left{width:auto;flex:1}.project-title{font-size:10px;letter-spacing:1px}.header-center{display:none}.header-right{flex:none}.countdown-box{min-width:auto;padding:5px 10px}.countdown-label{font-size:8px}.countdown-target{display:none}.countdown-value{font-size:14px}.countdown-status{font-size:8px}.main-container{grid-template-columns:1fr;gap:15px;padding:calc(var(--header-height)+50px) 10px calc(var(--footer-height)+var(--mobile-nav-height)+10px)}.column{display:none}.column.active{display:flex}.column-left.active{order:1}.mobile-nav{display:flex}.timeline-container{max-height:calc(100vh - 250px)}.timeline-item{padding:10px 0;margin-left:20px;padding-left:12px}.timeline-year{font-size:12px;min-width:40px}.timeline-title{font-size:11px}.timeline-desc{font-size:12px}.section-header{padding:8px 12px}.section-title{font-size:11px}.card-header{padding:10px 12px}.card-title{font-size:11px}.card-body{padding:12px}.flow-item{padding:4px 8px;font-size:11px}.verse-highlight{padding:10px;font-size:12px}.reset-list li{font-size:11px;padding:6px 0;padding-left:12px}.verse-rotate-display{font-size:12px;min-height:50px}.mark-warning{font-size:11px;padding:10px}.mark-flow{font-size:10px}.bible-links{padding:12px;gap:6px}.bible-link{padding:8px 10px}.link-text{font-size:12px}.marquee-text{font-size:11px}.back-btn{top:auto;bottom:calc(var(--footer-height)+var(--mobile-nav-height)+10px);left:50%;transform:translateX(-50%)}.back-to-top{bottom:calc(var(--footer-height)+var(--mobile-nav-height)+8px);right:10px;width:30px;height:30px;font-size:13px}.back-to-top.visible{opacity:0.5}}
-@media(max-width:480px){:root{--header-height:60px}.project-title{font-size:9px;letter-spacing:0.5px}.countdown-box{padding:4px 8px}.countdown-value{font-size:12px}.main-container{padding:calc(var(--header-height)+48px) 8px calc(var(--footer-height)+var(--mobile-nav-height)+8px);gap:10px}.timeline-container{padding:10px;max-height:calc(100vh - 220px)}.timeline-item{margin-left:15px;padding-left:10px;gap:8px}.timeline-year{font-size:11px;min-width:35px}.nav-btn{padding:6px 15px}.nav-btn .nav-icon{font-size:18px}.nav-btn .nav-label{font-size:9px}.marquee-text{font-size:9px}.back-to-top{width:28px;height:28px;font-size:12px}.lvt .en{padding:12px}.lvt .ei{height:120px}.lvt .et{font-size:14px}}
+@media(max-width:960px){.main-container{grid-template-columns:1fr 1fr;gap:15px}.column-left{grid-column:1/-1;order:1}.column-center{order:2}.column-right{order:3}.timeline-container{max-height:350px}}
+@media(max-width:768px){:root{--header-height:36px;--footer-height:40px;--mobile-nav-height:55px}.countdown-label{font-size:10px}.countdown-value{font-size:14px}.countdown-status{display:none}.main-container{grid-template-columns:1fr;gap:15px;padding:15px 10px calc(var(--footer-height)+var(--mobile-nav-height)+10px)}.column{display:none}.column.active{display:flex}.column-left.active{order:1}.mobile-nav{display:flex}.timeline-container{max-height:calc(100vh - 250px)}.timeline-item{padding:10px 0;margin-left:20px;padding-left:12px}.timeline-year{font-size:12px;min-width:40px}.timeline-title{font-size:11px}.timeline-desc{font-size:12px}.section-header{padding:8px 12px}.section-title{font-size:11px}.card-header{padding:10px 12px}.card-title{font-size:11px}.card-body{padding:12px}.flow-item{padding:4px 8px;font-size:11px}.verse-highlight{padding:10px;font-size:12px}.reset-list li{font-size:11px;padding:6px 0;padding-left:12px}.verse-rotate-display{font-size:12px;min-height:50px}.mark-warning{font-size:11px;padding:10px}.mark-flow{font-size:10px}.bible-links{padding:12px;gap:6px}.bible-link{padding:8px 10px}.link-text{font-size:12px}.marquee-text{font-size:11px}.back-btn{top:auto;bottom:calc(var(--footer-height)+var(--mobile-nav-height)+10px);left:50%;transform:translateX(-50%)}.back-to-top{bottom:calc(var(--footer-height)+var(--mobile-nav-height)+8px);right:10px;width:30px;height:30px;font-size:13px}.back-to-top.visible{opacity:0.5}}
+@media(max-width:480px){:root{--header-height:32px}.countdown-value{font-size:12px}.main-container{padding:12px 8px calc(var(--footer-height)+var(--mobile-nav-height)+8px);gap:10px}.timeline-container{padding:10px;max-height:calc(100vh - 220px)}.timeline-item{margin-left:15px;padding-left:10px;gap:8px}.timeline-year{font-size:11px;min-width:35px}.nav-btn{padding:6px 15px}.nav-btn .nav-icon{font-size:18px}.nav-btn .nav-label{font-size:9px}.marquee-text{font-size:9px}.back-to-top{width:28px;height:28px;font-size:12px}.lvt .en{padding:12px}.lvt .ei{height:120px}.lvt .et{font-size:14px}}
 .fade-in{animation:fadeIn 0.5s ease-out}
 @keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
 .glow-pulse{animation:glowPulse 2s ease-in-out infinite}
@@ -173,33 +171,13 @@ body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);
 <div class="lightning-flash" id="lightning"></div>
 <canvas id="matrixCanvas"></canvas>
 <header class="top-header">
-<div class="header-left">
-<span class="project-title">▓▓▓ PROJECT: TRIBULATION ▓▓▓</span>
-</div>
-<div class="header-center">
-<div class="prophecy-numbers">
-<div class="prophecy-box">
-<span class="prophecy-label">但以理書 12:11</span>
-<span class="prophecy-value" id="num1260">1260</span>
-<span class="prophecy-unit">日</span>
-</div>
-<div class="prophecy-box">
-<span class="prophecy-label">但以理書 12:12</span>
-<span class="prophecy-value" id="num1290">1290</span>
-<span class="prophecy-unit">日</span>
-</div>
-</div>
-</div>
-<div class="header-right">
 <div class="countdown-box" id="countdownBox">
-<div class="countdown-label">2027吹角節倒數</div>
-<div class="countdown-target">2027-10-01</div>
-<div class="countdown-value" id="countdownValue">---</div>
-<div class="countdown-status" id="countdownStatus">CALCULATING...</div>
-</div>
+<span class="countdown-label">🎺 2027 吹角節倒數 · 第40禧年</span>
+<span class="countdown-value" id="countdownValue">---</span>
+<span class="countdown-status" id="countdownStatus">COUNTING...</span>
 </div>
 </header>
-<a href="index.html" class="back-btn">← 返回門戶</a>
+<a href="index.html" class="index-float-btn" id="indexFloat">🏠 返回 INDEX</a>
 <main class="main-container">
 <!-- 左欄：時間軸 -->
 <section class="column column-left active">
@@ -814,18 +792,15 @@ onmouseout="this.style.background='transparent';this.style.color='#00f3ff'">
 <span class="link-icon">💉</span>
 <span class="link-text">02 瘟疫中的邪術</span>
 </a>
-<a href="https://e.pcloud.link/publink/show?code=kZAeraZu0D0xmF6wNGnlLrXHRYAD2Dj2q8y" target="_blank" class="bible-link">
+<a href="https://flossy-dish-cfd.notion.site/173-6-1-340ef529da3845d4afd2f3bf1395dcf6" target="_blank" class="bible-link">
 <span class="link-icon">📜</span>
-<span class="link-text">03 經文對照</span>
+<span class="link-text">03 啟示錄逐句原文</span>
 </a>
-<a href="https://e.pcloud.link/publink/show?code=kZaeraZlfKYOWNUEAJyoEtqVvIjFknVJHX0" target="_blank" class="bible-link">
-<span class="link-icon">🎬</span>
-<span class="link-text">04 影片資源</span>
-</a>
-<a href="https://greattribulaton2028.github.io/-/" target="_blank" class="bible-link main-site">
+<a href="https://flossy-dish-cfd.notion.site/2019-12-01-2020-12-01-628cf5af375c4459b60cacecaf30d2df?pvs=74" target="_blank" class="bible-link">
 <span class="link-icon">🌐</span>
-<span class="link-text">七年大災難網站</span>
+<span class="link-text">七年大災難資訊</span>
 </a>
+
 </div>
 <div class="info-card mark-card">
 <div class="card-header">
@@ -862,7 +837,7 @@ onmouseout="this.style.background='transparent';this.style.color='#00f3ff'">
 </div>
 <div class="card-body" style="padding: 10px;">
 <div style="display: flex; flex-direction: column; gap: 6px;">
-<a href="https://flossy-dish-cfd.notion.site/5fc4b8676cc0463bbbf41fa93c074cc2?v=6b3186dfc51749fda1663d8eaf0a816e" target="_blank" class="bible-link">
+<a href="https://flossy-dish-cfd.notion.site/2fdf133f651f808e9c5ef389708d4b78?pvs=74" target="_blank" class="bible-link">
 <span class="link-icon">📜</span>
 <span class="link-text">拉比解經</span>
 </a>
@@ -943,6 +918,7 @@ initCopySyntax();
 initLightning();
 initProphecyFlicker();
 initBackToTop();
+initHeaderAutoHide();
 console.log('▓▓▓ PROJECT: TRIBULATION 已載入 ▓▓▓');
 });
 function initMatrix() {
@@ -1107,6 +1083,19 @@ ticking = true;
 }
 });
 btn.addEventListener('click', () => { window.scrollTo({ top: 0, behavior: 'smooth' }); });
+}
+function initHeaderAutoHide() {
+const header = document.querySelector('.top-header');
+if (!header) return;
+let lastY = 0;
+let raf = false;
+window.addEventListener('scroll', () => {
+if (!raf) { window.requestAnimationFrame(() => {
+if (window.scrollY > lastY && window.scrollY > 120) { header.classList.add('hidden'); }
+else { header.classList.remove('hidden'); }
+lastY = window.scrollY; raf = false;
+}); raf = true; }
+});
 }
 function initMobileLayout() {
 // VT stays in center/info column on all screen sizes
