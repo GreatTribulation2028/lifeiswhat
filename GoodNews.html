@@ -4,6 +4,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>如果是你 — IF IT WERE YOU | Good News</title>
+<meta property="og:title" content="如果是你 — IF IT WERE YOU">
+<meta property="og:description" content="有沒有想過，活著到底是為了什麼？生命的長度和濃度，到底為了甚麼？">
+<meta property="og:image" content="og-still-alive.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="如果是你 — IF IT WERE YOU">
+<meta name="twitter:description" content="有沒有想過，活著到底是為了什麼？">
+<meta name="twitter:image" content="og-still-alive.png">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Jura:wght@400;600;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&display=swap" rel="stylesheet">
 <style>
 :root{
@@ -67,6 +75,9 @@ padding:80px 20px 40px;z-index:10
 <div class="immersive-content">
 
 <div class="immersive-stage active" id="stage-1">
+<div style="text-align:center;margin-bottom:20px;font-family:var(--f-mono);font-size:0.85rem;color:var(--c-fatal);opacity:0.8">
+  就在你閱讀的這段時間，全球已有 <span id="reading-deaths" style="font-size:1.2rem;font-weight:bold">0</span> 人離世
+</div>
 <div class="immersive-question">有沒有想過<br>活著，到底是為了什麼？</div>
 <div class="immersive-sub">工作、賺錢、置業、養妻活兒<br>勞錄一生<br>生命 : 長度 : 濃度，到底為了甚麼?<br>最後，我們只能成為其中一個被記錄的數字嗎？</div>
 <button class="immersive-btn primary" onclick="nextStage(2)">繼 續</button>
@@ -160,6 +171,11 @@ padding:80px 20px 40px;z-index:10
 <a href="https://e.pcloud.link/publink/show?code=XZwfyIZnU6yu2uJvLYssVSxxTTYmzKg2lHy" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-hope);color:var(--c-hope)">📖 分享 —『愛的修復』第二節（普通話）</a>
 <a href="https://e.pcloud.link/publink/show?code=XZIUPEZSxz3jHIx6ykIwUKptmbOTL7VfvMV" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-fatal);color:var(--c-fatal)">⚠️ 警醒 — 最後一次狼來了（普通話）</a>
 </div>
+<div style="margin-top:30px;padding:20px;border:1px solid var(--c-fatal);border-radius:8px;background:rgba(255,42,42,0.05)">
+  <div style="font-family:var(--f-serif);font-size:1.1rem;color:var(--c-fatal);margin-bottom:10px">⏰ 你知道嗎？</div>
+  <div style="font-size:0.95rem;line-height:1.8;color:#e0e6ed">聖經預言的七年大災難，可能比你想像的更近。<br>願我們都警醒預備，持守到底。</div>
+  <a href="timeline04.html" class="immersive-btn" style="border-color:var(--c-crit);color:var(--c-crit);margin-top:15px">📜 了解七年大災難時間軸</a>
+</div>
 <button class="immersive-btn" onclick="nextStage(8)">返 回</button>
 <button class="immersive-btn primary" onclick="goBack()">阿 們</button>
 </div>
@@ -168,6 +184,15 @@ padding:80px 20px 40px;z-index:10
 </div>
 
 <script>
+// ===== 即時死亡計數器 =====
+// 數據來源：WHO 全球每年約 5900 萬人死亡 ÷ 365 天 ÷ 24 小時 ÷ 3600 秒 ≈ 每秒 1.87 人
+let readingDeaths = 0;
+setInterval(() => {
+  readingDeaths += 1.87;
+  const el = document.getElementById('reading-deaths');
+  if(el) el.textContent = Math.floor(readingDeaths);
+}, 1000);
+
 function nextStage(n){
   document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));
   const el=document.getElementById('stage-'+n);
