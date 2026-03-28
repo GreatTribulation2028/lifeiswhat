@@ -1327,10 +1327,12 @@ function autoLoadData(){
       document.head.appendChild(s);
     }));
   }
-  // 載入 data-today.js（最新未歸檔資料）
+  // 載入 data-today.js（最新未歸檔資料）：加每日版本號防止瀏覽器快取
   loads.push(new Promise(resolve=>{
     const s=document.createElement('script');
-    s.src='data_today.js';
+    const _t=new Date();
+    const _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
+    s.src='data_today.js?v='+_v;
     s.onload=()=>resolve('today');
     s.onerror=()=>resolve(null);
     document.head.appendChild(s);
