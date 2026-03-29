@@ -1315,11 +1315,17 @@ function handleFile(ev){
 
 // === 核心啟動流程修改：先讀 JSON，再讀 Data ===
 async function initApp() {
-  // 1. 先非同步載入 JSON
-  await loadJsonRules();
-  
-  // 2. 再載入新聞數據
-  autoLoadData();
+  // 兩者並行：不 await loadJsonRules，讓 autoLoadData 立即開始
+  loadJsonRules().then(function() {
+    // JSON rules 載入完成後，若 allEvents 已有資料，重新分類並渲染
+    if (allEvents.length > 0) {
+      allEvents = allEvents.map(function(e) {
+        return Object.assign({}, e, { category: categorize(e.title) });
+      });
+      filterByTimeRange(currentTimeRange);
+    }
+  });
+  autoLoadData(); // 立即開始載入資料，不等 JSON rules
 }
 
 function autoLoadData(){
@@ -1354,7 +1360,10 @@ function autoLoadData(){
       document.getElementById('paste-input').value=merged;
       allEvents=parseData(merged); filteredEvents=[...allEvents];
       populateFilterDropdowns();
-      filterByTimeRange(currentTimeRange);
+      // 用 setTimeout(0) 把重渲染推入下一個 task，讓 UI 先呼吸
+      setTimeout(function(){
+        filterByTimeRange(currentTimeRange);
+      }, 0);
     }
   }
 
