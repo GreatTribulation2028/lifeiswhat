@@ -695,6 +695,8 @@ function isSpamFallback(t) {
   return false;
 }
 
+function categorizeQuick(title){var t=(title||'').trim();if(t.length<4)return'SPAM';if(/廣告|優惠|折扣|代購|加盟|貸款|開戶|免費領/.test(t))return'SPAM';if(t.includes('猝死')||t.includes('猝斃')||t.includes('猝逝')||t.includes('猝亡'))return'SUDDEN';if(t.includes('暈倒')||t.includes('昏迷')||t.includes('昏倒'))return'CRIT';if(t.includes('自殺')||t.includes('輕生')||t.includes('墮樓'))return'FATAL';if(t.includes('車禍')||t.includes('交通')||t.includes('火警')||t.includes('遇溺'))return'ACC';if(t.includes('危殆')||t.includes('中暑')||t.includes('肝炎'))return'CRIT';return'OTHER';}
+
 // 核心分類邏輯：優先使用 JSON，否則使用後備
 // 完整流程：SPAM domains → brands → regex → combo
 //          → not_relevant (keywords + animal_keywords)
@@ -850,7 +852,7 @@ function parseData(raw){
     dateStr=`${String(y).padStart(4,'0')}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
     if(Number.isNaN(new Date(dateStr).getTime())) continue;
 
-    events.push({date:dateStr,url,title,category:categorize(title),age:extractAge(title)});
+    events.push({date:dateStr,url,title,category:categorizeQuick(title),age:extractAge(title)});
   }
   const seen=new Set();
   const unique=events.filter(e=>{const k=e.date+'||'+e.title;if(seen.has(k))return false;seen.add(k);return true});
@@ -1317,12 +1319,15 @@ function handleFile(ev){
 async function initApp() {
   // 兩者並行：不 await loadJsonRules，讓 autoLoadData 立即開始
   loadJsonRules().then(function() {
-    // JSON rules 載入完成後，若 allEvents 已有資料，重新分類並渲染
+    // JSON rules 載入完成後，若 allEvents 已有資料，分批重新分類避免主線程凍結
     if (allEvents.length > 0) {
-      allEvents = allEvents.map(function(e) {
-        return Object.assign({}, e, { category: categorize(e.title) });
-      });
-      filterByTimeRange(currentTimeRange);
+      var i=0, batchSize=200;
+      function reclassifyBatch(){
+        var end=Math.min(i+batchSize, allEvents.length);
+        for(;i<end;i++) allEvents[i].category=categorize(allEvents[i].title);
+        if(i<allEvents.length){setTimeout(reclassifyBatch,0);}else{filterByTimeRange(currentTimeRange);}
+      }
+      reclassifyBatch();
     }
   });
   autoLoadData(); // 立即開始載入資料，不等 JSON rules
