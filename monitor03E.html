@@ -1327,43 +1327,51 @@ function autoLoadData(){
     document.getElementById('paste-input').placeholder='⚠️ 本機開啟請用 python -m http.server 8000\n再開 http://localhost:8000/monitor.html';
     return;
   }
-  // === 自動載入 data-YYYY.js（2021 至今年）+ data-today.js ===
-  const startYear=2021, endYear=new Date().getFullYear();
-  const loads=[];
-  // 載入各年份檔
-  for(let y=startYear;y<=endYear;y++){
-    loads.push(new Promise(resolve=>{
+  // === 漸進式載入：先載最近兩年 + today，再背景載入舊年份 ===
+  const endYear=new Date().getFullYear();
+  const recentYears=[endYear-1,endYear];
+  const oldYears=[];
+  for(let y=2021;y<endYear-1;y++) oldYears.push(y);
+
+  function loadScript(src){
+    return new Promise(resolve=>{
       const s=document.createElement('script');
-      s.src='data_'+y+'.js';
-      s.onload=()=>resolve(y);
-      s.onerror=()=>resolve(null);
+      s.src=src;
+      s.onload=()=>resolve(true);
+      s.onerror=()=>resolve(false);
       document.head.appendChild(s);
-    }));
+    });
   }
-  // 載入 data-today.js（最新未歸檔資料）：加每日版本號防止瀏覽器快取
-  loads.push(new Promise(resolve=>{
-    const s=document.createElement('script');
-    const _t=new Date();
-    const _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
-    s.src='data_today.js?v='+_v;
-    s.onload=()=>resolve('today');
-    s.onerror=()=>resolve(null);
-    document.head.appendChild(s);
-  }));
-  Promise.all(loads).then(()=>{
+
+  function mergeAndRender(){
     const parts=[];
-    for(let y=startYear;y<=endYear;y++){
+    for(let y=2021;y<=endYear;y++){
       if(window['DATA_'+y]) parts.push(window['DATA_'+y]);
     }
-    // 合併 data-today.js 的資料
     if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
     const merged=parts.join('\n');
     if(merged.trim()){
       document.getElementById('paste-input').value=merged;
-      loadPastedData();
-    } else {
-      document.getElementById('paste-input').placeholder='⚠️ 未找到任何 data_YYYY.js 或 data_today.js\n請把資料檔放在同一資料夾';
+      allEvents=parseData(merged); filteredEvents=[...allEvents];
+      populateFilterDropdowns();
+      filterByTimeRange(currentTimeRange);
     }
+  }
+
+  // 階段一：先載最近兩年 + today（快速顯示）
+  const recentLoads=recentYears.map(yr=>loadScript('data_'+yr+'.js'));
+  const _t=new Date();
+  const _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
+  recentLoads.push(loadScript('data_today.js?v='+_v));
+
+  Promise.all(recentLoads).then(()=>{
+    mergeAndRender();
+    // 階段二：背景載入舊年份
+    if(oldYears.length===0) return;
+    const oldLoads=oldYears.map(yr=>loadScript('data_'+yr+'.js'));
+    Promise.all(oldLoads).then(()=>{
+      mergeAndRender();
+    });
   });
 }
 
