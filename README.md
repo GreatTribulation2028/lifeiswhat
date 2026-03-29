@@ -72,3 +72,17 @@ lifeiswhat/
 詳見 [`.github/copilot-instructions.md`](.github/copilot-instructions.md) 了解項目的語言風格、神學核心和設計原則。
 
 開發歷史記錄請參閱 [`docs/conversation-log.md`](docs/conversation-log.md)。
+
+。。。
+好的，這是你的 Actions 頁面連結：
+
+👉 **https://github.com/GreatTribulation2028/lifeiswhat/actions**
+
+當 PR 合併之後，你到這個頁面：
+
+1. 左邊欄找到 **「Merge Data Files」**
+2. 右邊會出現 **「Run workflow」** 按鈕
+3. 按下去，等大約 30 秒
+4. `data_merged.js` 就會自動產生並 commit 到你的 repo
+
+之後網頁載入速度應該會大幅改善！🚀
