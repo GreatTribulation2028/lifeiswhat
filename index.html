@@ -236,7 +236,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 <!-- Scrollable SUDDEN list -->
 <div class="sudden-box">
-  <div class="sudden-box-title">最新猝死記錄 <span class="hint">（向下滑＝更早）</span></div>
+  <div class="sudden-box-title">最新猝死記錄 <span class="hint">（向下滑＝更早）</span><span id="old-data-hint" style="font-size:11px;color:rgba(255,255,255,.3);margin-left:8px">舊年份記錄載入中…</span></div>
   <div class="sudden-list" id="sudden-list">
     <div style="text-align:center;padding:60px 10px;font-family:'Share Tech Mono',monospace;color:rgba(255,255,255,.4);font-size:16px;line-height:2.4">
       <div style="font-size:1.8rem;margin-bottom:14px;animation:breathe 1.5s ease-in-out infinite">⏳</div>
@@ -664,27 +664,62 @@ requestAnimationFrame(draw);
 
 /* Data Loading */
 function loadAllData(){
-var startY=2021,endY=new Date().getFullYear(),loads=[];
-for(var y=startY;y<=endY;y++)(function(yr){loads.push(new Promise(function(res){var s=document.createElement('script');s.src='data_'+yr+'.js';s.onload=function(){res(yr)};s.onerror=function(){res(null)};document.head.appendChild(s)}))})(y);
-loads.push(new Promise(function(res){var s=document.createElement('script');var _t=new Date();var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');s.src='data_today.js?v='+_v;s.onload=function(){res('today')};s.onerror=function(){res(null)};document.head.appendChild(s)}));
-Promise.all(loads).then(function(){
-var parts=[];for(var yr=startY;yr<=endY;yr++)if(window['DATA_'+yr])parts.push(window['DATA_'+yr]);if(window.DATA_TODAY)parts.push(window.DATA_TODAY);
-var merged=parts.join('\n');
-if(merged.trim()){
-allEvents=parseData(merged);
-// index 專用：只保留「猝死 / 暈倒」兩個絕對詞命中
-indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
-try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
-try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
-// 注意：index 不顯示其他分類統計，因此不呼叫 renderCatBars
-try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
-try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
-var age=parseInt(slider.value)||30;
-try{updatePeer(age)}catch(e){console.error('Peer',e)}
-try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
-try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
+  var endY=new Date().getFullYear();
+  var recentYears=[endY-1,endY];
+  var oldYears=[];
+  for(var y=2021;y<endY-1;y++) oldYears.push(y);
+
+  function loadScript(src){
+    return new Promise(function(res){
+      var s=document.createElement('script');
+      s.src=src;
+      s.onload=function(){res(true)};
+      s.onerror=function(){res(false)};
+      document.head.appendChild(s);
+    });
+  }
+
+  // 階段一：先載最近兩年 + today（快速顯示）
+  var recentLoads=recentYears.map(function(yr){return loadScript('data_'+yr+'.js')});
+  var _t=new Date();
+  var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
+  recentLoads.push(loadScript('data_today.js?v='+_v));
+
+  Promise.all(recentLoads).then(function(){
+    renderFromLoadedData(2021,endY);
+    // 階段二：背景載入舊年份
+    if(oldYears.length===0){
+      var hint=document.getElementById('old-data-hint');
+      if(hint)hint.style.display='none';
+      return;
+    }
+    var oldLoads=oldYears.map(function(yr){return loadScript('data_'+yr+'.js')});
+    Promise.all(oldLoads).then(function(){
+      renderFromLoadedData(2021,endY);
+      var hint=document.getElementById('old-data-hint');
+      if(hint)hint.style.display='none';
+    });
+  });
 }
-});
+
+function renderFromLoadedData(startY,endY){
+  var parts=[];
+  for(var yr=startY;yr<=endY;yr++) if(window['DATA_'+yr]) parts.push(window['DATA_'+yr]);
+  if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
+  var merged=parts.join('\n');
+  if(!merged.trim()) return;
+  allEvents=parseData(merged);
+  // index 專用：只保留「猝死 / 暈倒」兩個絕對詞命中
+  indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
+  try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
+  try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
+  // 注意：index 不顯示其他分類統計，因此不呼叫 renderCatBars
+  try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
+  try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
+  var age=parseInt(slider.value)||30;
+  try{updatePeer(age)}catch(e){console.error('Peer',e)}
+  try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
+  try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
 }
 
 /* INIT */
