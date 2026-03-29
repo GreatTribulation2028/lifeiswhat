@@ -635,6 +635,7 @@ if(['猝死','心臟驟停','心肌梗塞','暴斃'].some(function(k){return t.i
 if(fbFatal.some(function(k){return t.includes(k)}))return'FATAL';if(fbCrit.some(function(k){return t.includes(k)}))return'CRIT';if(fbAcc.some(function(k){return t.includes(k)}))return'ACC';return'OTHER';
 }
 }
+function categorizeQuick(title){var t=(title||'').trim();if(t.length<4)return'SPAM';if(/廣告|優惠|折扣|代購|加盟|貸款|開戶|免費領/.test(t))return'SPAM';if(t.includes('猝死')||t.includes('猝斃')||t.includes('猝逝')||t.includes('猝亡'))return'SUDDEN';if(t.includes('暈倒')||t.includes('昏迷')||t.includes('昏倒'))return'CRIT';if(t.includes('自殺')||t.includes('輕生')||t.includes('墮樓'))return'FATAL';if(t.includes('車禍')||t.includes('交通')||t.includes('火警')||t.includes('遇溺'))return'ACC';if(t.includes('危殆')||t.includes('中暑')||t.includes('肝炎'))return'CRIT';return'OTHER';}
 function extractAge(t){var ps=[/(\d{1,3})\s*歲/,/(\d{1,2})旬/,/年約\s*(\d{1,3})/,/(\d{1,3})\s*yo/i];for(var i=0;i<ps.length;i++){var m=(t||'').match(ps[i]);if(m){var a=parseInt(m[1]);if((t||'').includes('旬')&&a<20)a*=10;if(a>0&&a<150)return a}}return null}
 function safeDecode(s){try{return decodeURIComponent((s||'').replace(/\+/g,' '))}catch(e){return s||''}}
 function parseData(raw){
@@ -644,7 +645,7 @@ for(var i=0;i<lines.length;i++){var line=lines[i];if(/^日期/.test(line.trim())
 var ds=parts[0].trim().replace(/[\[\]]/g,'');var url=parts.find(function(p){return /^https?:\/\//i.test((p||'').trim())})||'';var title=parts.filter(function(p){return p!==parts[0]&&p!==url}).map(safeDecode).join(' ').trim();if(!ds||!title)continue;
 var dp=ds.split(/[\/\-]/).map(function(x){return x.trim()});if(dp.length!==3)continue;var y,mo,d;if(dp[0].length===4){y=dp[0];mo=dp[1];d=dp[2]}else if(dp[2].length===4){y=dp[2];mo=dp[1];d=dp[0]}else{y='20'+dp[0].padStart(2,'0');mo=dp[1];d=dp[2]}
 ds=String(y).padStart(4,'0')+'-'+String(mo).padStart(2,'0')+'-'+String(d).padStart(2,'0');if(Number.isNaN(new Date(ds).getTime()))continue;
-events.push({date:ds,url:url,title:title,category:categorize(title),age:extractAge(title)});}
+events.push({date:ds,url:url,title:title,category:categorizeQuick(title),age:extractAge(title)});}
 var seen={};return events.filter(function(e){var k=e.date+'||'+e.title;if(seen[k])return false;seen[k]=true;return true}).sort(function(a,b){return new Date(b.date)-new Date(a.date)});
 }
 
@@ -769,10 +770,15 @@ requestAnimationFrame(tickCounter);
 calcLife();
 // 修改一：loadJsonRules 與 loadAllData 並行，不再 await 阻塞
 loadJsonRules().then(function(){
-  // JSON rules 載入完成後，若 allEvents 已有資料，用新規則重新分類並渲染
+  // JSON rules 載入完成後，若 allEvents 已有資料，分批重新分類避免主線程凍結
   if(allEvents.length>0){
-    allEvents.forEach(function(e){e.category=categorize(e.title)});
-    _reRenderWithIndexEvents();
+    var i=0,batchSize=200;
+    function reclassifyBatch(){
+      var end=Math.min(i+batchSize,allEvents.length);
+      for(;i<end;i++) allEvents[i].category=categorize(allEvents[i].title);
+      if(i<allEvents.length){setTimeout(reclassifyBatch,0);}else{_reRenderWithIndexEvents();}
+    }
+    reclassifyBatch();
   }
 });
 loadAllData(); // 立即開始載入，不等 JSON rules
