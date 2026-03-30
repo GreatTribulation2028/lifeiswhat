@@ -12,8 +12,9 @@
 <meta property="og:url" content="https://greattribulation2028.github.io/lifeiswhat/">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://greattribulation2028.github.io/lifeiswhat/">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700;900&family=Noto+Serif+TC:wght@400;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Jura:wght@400;600;700&display=swap" rel="stylesheet">
+<!-- 已停用 Google Fonts（改用系統字型）-->
+<!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+<!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700;900&family=Noto+Serif+TC:wght@400;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Jura:wght@400;600;700&display=swap" rel="stylesheet"> -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
 /* STILL ALIVE V2.2 */
@@ -25,11 +26,11 @@
 --text:#d7e0ee;--text-dim:#93a4bd;--text-bright:#f7fbff;
 --text-soft:rgba(215,224,238,.78);--text-faint:rgba(215,224,238,.55);
 --card:rgba(10,18,36,.88);--card-border:rgba(78,168,222,.12);
---f-head:'Orbitron',sans-serif;
---f-mono:'Share Tech Mono',monospace;
---f-body:'Jura','Noto Sans TC',sans-serif;
---f-zh:'Noto Sans TC',sans-serif;
---f-serif:'Noto Serif TC',serif;
+--f-head:ui-monospace,'Courier New',monospace;
+--f-mono:ui-monospace,'Courier New',monospace;
+--f-body:ui-sans-serif,system-ui,-apple-system,sans-serif;
+--f-zh:ui-sans-serif,system-ui,-apple-system,sans-serif;
+--f-serif:ui-serif,Georgia,serif;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;scrollbar-width:none}
@@ -382,9 +383,9 @@ var entryTime=Date.now(),allEvents=[],indexEvents=[];
 // INDEX 顯示/統計：猝死相關關鍵字命中即計入
 function hitIndexTitle(t){
   t=(t||'');
-  var SUDDEN_EXACT=['猝死','猝斃','猝亡','猝逝','暴斃','驟逝','心臟驟停','心肌梗塞'];
-  var COMBO_TRIGGER=['暈倒','昏迷','昏倒','路倒'];
-  var DEATH_CONFIRM=['不治','死亡','身亡','離世','倒斃','喪命','斃命'];
+  var SUDDEN_EXACT=['猝死','猝斃','猝亡','猝逝'];
+  var COMBO_TRIGGER=['暈倒','昏迷','昏倒'];
+  var DEATH_CONFIRM=['不治','死亡','身亡','離世','倒斃'];
   if(SUDDEN_EXACT.some(function(w){return t.includes(w)})) return true;
   if(COMBO_TRIGGER.some(function(w){return t.includes(w)}) &&
      DEATH_CONFIRM.some(function(w){return t.includes(w)})) return true;
@@ -700,15 +701,19 @@ function loadAllData(){
       }
     }
 
-    // 第二階段：後台載入歷史數據 data_0000.js
-    loadScript('data_0000.js').then(function(){
+    // 第二階段：後台載入歷史數據 data_0000.js（失敗不阻塞畫面）
+    loadScript('data_0000.js').then(function(ok){
       var hint=document.getElementById('old-data-hint');
-      if(hint) hint.textContent='舊年份記錄整理中…';
+      if(!ok||!window.DATA_0000){
+        console.warn('DATA_0000 載入失敗');
+        if(hint) hint.textContent='歷史資料載入失敗，稍後重試';
+        return;
+      }
       var parts=[];
       if(window.DATA_0000) parts.push(window.DATA_0000);
       if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
       var merged=parts.join('\n');
-      if(!merged.trim()) return;
+      if(!merged.trim()){if(hint)hint.style.display='none';return;}
       allEvents=parseData(merged);
       indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
       try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
