@@ -1,6 +1,7 @@
 name: Merge Data Files
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'data_*.js'
