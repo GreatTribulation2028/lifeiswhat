@@ -1354,52 +1354,25 @@ function autoLoadData(){
 
   function mergeAndRender(){
     const parts=[];
-    for(let y=2021;y<=endYear;y++){
-      if(window['DATA_'+y]) parts.push(window['DATA_'+y]);
-    }
+    if(window.DATA_0000) parts.push(window.DATA_0000);
     if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
     const merged=parts.join('\n');
     if(merged.trim()){
       document.getElementById('paste-input').value=merged;
       allEvents=parseData(merged); filteredEvents=[...allEvents];
       populateFilterDropdowns();
-      // 用 setTimeout(0) 把重渲染推入下一個 task，讓 UI 先呼吸
       setTimeout(function(){
+        // 用 setTimeout(0) 把重渲染推入下一個 task，讓 UI 先呼吸
         filterByTimeRange(currentTimeRange);
       }, 0);
     }
   }
 
-  // 修改三：優先嘗試 data_merged.js（1 個請求包含 2021~endYear 全部年份）
-  loadScript('data_merged.js').then(ok=>{
-    if(ok && window['DATA_'+(endYear-1)]){
-      // data_merged.js 成功 → 只需再載 data_today.js（cache-bust）
-      loadScript('data_today.js?v='+_v).then(()=>{ mergeAndRender(); });
-    } else {
-      // fallback: 兩階段漸進式載入
-      _autoLoadTwoStage(endYear,_v,loadScript,mergeAndRender);
-    }
-  });
-}
-
-function _autoLoadTwoStage(endYear,_v,loadScript,mergeAndRender){
-  const recentYears=[endYear-1,endYear];
-  const oldYears=[];
-  for(let y=2021;y<endYear-1;y++) oldYears.push(y);
-
-  // 階段一：先載最近兩年 + today（快速顯示）
-  const recentLoads=recentYears.map(yr=>loadScript('data_'+yr+'.js'));
-  recentLoads.push(loadScript('data_today.js?v='+_v));
-
-  Promise.all(recentLoads).then(()=>{
-    mergeAndRender();
-    // 階段二：背景載入舊年份
-    if(oldYears.length===0) return;
-    const oldLoads=oldYears.map(yr=>loadScript('data_'+yr+'.js'));
-    Promise.all(oldLoads).then(()=>{
-      mergeAndRender();
-    });
-  });
+  // Load data_0000.js (all historical data) + data_today.js (today's data) in parallel
+  Promise.all([
+    loadScript('data_0000.js'),
+    loadScript('data_today.js?v='+_v)
+  ]).then(()=>{ mergeAndRender(); });
 }
 
 function exportSnapshot(){
