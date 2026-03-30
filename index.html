@@ -12,9 +12,8 @@
 <meta property="og:url" content="https://greattribulation2028.github.io/lifeiswhat/">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://greattribulation2028.github.io/lifeiswhat/">
-<!-- 已停用 Google Fonts（改用系統字型）-->
-<!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
-<!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700;900&family=Noto+Serif+TC:wght@400;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Jura:wght@400;600;700&display=swap" rel="stylesheet"> -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700;900&family=Noto+Serif+TC:wght@400;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Jura:wght@400;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
 /* STILL ALIVE V2.2 */
@@ -26,11 +25,11 @@
 --text:#d7e0ee;--text-dim:#93a4bd;--text-bright:#f7fbff;
 --text-soft:rgba(215,224,238,.78);--text-faint:rgba(215,224,238,.55);
 --card:rgba(10,18,36,.88);--card-border:rgba(78,168,222,.12);
---f-head:ui-monospace,'Courier New',monospace;
---f-mono:ui-monospace,'Courier New',monospace;
---f-body:ui-sans-serif,system-ui,-apple-system,sans-serif;
---f-zh:ui-sans-serif,system-ui,-apple-system,sans-serif;
---f-serif:ui-serif,Georgia,serif;
+--f-head:'Orbitron',sans-serif;
+--f-mono:'Share Tech Mono',monospace;
+--f-body:'Jura','Noto Sans TC',sans-serif;
+--f-zh:'Noto Sans TC',sans-serif;
+--f-serif:'Noto Serif TC',serif;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;scrollbar-width:none}
@@ -237,7 +236,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 <!-- Scrollable SUDDEN list -->
 <div class="sudden-box">
-  <div class="sudden-box-title">最新猝死記錄 <span class="hint">（向下滑＝更早）</span><span id="old-data-hint" style="font-size:11px;color:rgba(255,255,255,.3);margin-left:8px">舊年份記錄載入中…</span></div>
+  <div class="sudden-box-title">最新猝死記錄 <span class="hint">（向下滑＝更早）</span></div>
   <div class="sudden-list" id="sudden-list">
     <div style="text-align:center;padding:60px 10px;font-family:'Share Tech Mono',monospace;color:rgba(255,255,255,.4);font-size:16px;line-height:2.4">
       <div style="font-size:1.8rem;margin-bottom:14px;animation:breathe 1.5s ease-in-out infinite">⏳</div>
@@ -326,22 +325,6 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 </div>
 
-<!-- ===== 詩歌影片：雅歌的心願 ===== -->
-<div style="position:relative;z-index:1;padding:40px 24px 20px;text-align:center;border-top:1px solid rgba(78,168,222,0.08)">
-  <div style="font-family:'Orbitron',sans-serif;font-size:11px;color:rgba(78,168,222,0.5);letter-spacing:4px;margin-bottom:20px">♪ 詩 歌</div>
-  <div class="rumble-video-wrap" style="margin:0 auto;max-width:640px;text-align:center">
-    <div style="font-family:'Share Tech Mono',monospace;font-size:13px;color:rgba(255,255,255,0.5);margin-bottom:10px;letter-spacing:2px">▶ 🎵 雅歌的心願</div>
-    <div id="rv-v75jp0w" onclick="this.innerHTML='<iframe class=rumble width=640 height=360 src=https://rumble.com/embed/v75jp0w/?pub=1hzfcc frameborder=0 allowfullscreen style=max-width:100%;border-radius:8px></iframe>'" style="position:relative;width:100%;max-width:640px;aspect-ratio:16/9;background:#111;border-radius:8px;border:1px solid rgba(78,168,222,0.2);cursor:pointer;display:flex;align-items:center;justify-content:center;overflow:hidden">
-      <div style="text-align:center">
-        <div style="width:72px;height:72px;background:rgba(0,0,0,0.75);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto">
-          <span style="color:white;font-size:32px;margin-left:6px">▶</span>
-        </div>
-        <div style="color:rgba(255,255,255,0.5);font-size:13px;margin-top:12px;font-family:ui-monospace,monospace">點擊播放 雅歌的心願</div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="static-footer">
 <div style="font-family:var(--f-zh);font-size:14px;color:rgba(255,255,255,.3);margin-bottom:8px">記錄的，不是數字。<br>是一份對人的記念。</div>
 STILL ALIVE © <script>document.write(new Date().getFullYear())</script> — WHO · UN Population Division
@@ -382,7 +365,7 @@ cv.style.height=Math.min(320,Math.max(200,statsDays*10+80))+'px';
 statsChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:labels,datasets:[{data:counts,backgroundColor:barColors,hoverBackgroundColor:hoverColors,borderWidth:0,borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{titleFont:{size:14},bodyFont:{size:14},callbacks:{title:function(items){return days[items[0].dataIndex]},label:function(item){return item.raw+' 宗'}}}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{font:{size:13},maxRotation:45,color:'#b0bec5'}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'},ticks:{stepSize:1,font:{size:13},color:'#b0bec5'}}}}});
 }
 var entryTime=Date.now(),allEvents=[],indexEvents=[];
-// INDEX 顯示/統計：猝死相關關鍵字命中即計入
+// INDEX 嚴格顯示/統計：只吃「猝死」或「暈倒」（OR），其他一律不計、不顯示
 function hitIndexTitle(t){
   t=(t||'');
   var SUDDEN_EXACT=['猝死','猝斃','猝亡','猝逝'];
@@ -443,7 +426,7 @@ document.getElementById('d-bar').style.width=Math.min(100,pct)+'%';
 if(allEvents.length){updatePeer(age);renderAgeBar(age);}
 }
 
-/* Splash: sudden counter + today's date */
+/* Splash: sudden counter + latest 2 days */
 function updateSplash(events){
 var sudden=events.filter(function(e){return hitIndexTitle(e.title)});
 var now=new Date();
@@ -452,13 +435,15 @@ var mc=sudden.filter(function(e){return e.date.startsWith(tm)}).length;
 // sudden-counter element removed — no-op
 var dates={};
 sudden.forEach(function(e){dates[e.date]=(dates[e.date]||0)+1});
-// 用今天的日期作為首屏顯示，即使沒有數據也顯示 0 宗
-var today=now.toISOString().slice(0,10);
-var todayCount=dates[today]||0;
+var sorted=Object.keys(dates).sort().reverse();
+var latest2=sorted.slice(0,1);
 var rd=document.getElementById('recent-days');
-if(rd){
-var parts=today.split('-');
-var html='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>猝死相關新聞 <span class="srv">'+todayCount+'</span> 宗<br>';
+if(rd&&latest2.length){
+var html='';
+latest2.forEach(function(d){
+var parts=d.split('-');
+html+='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>猝死相關新聞 <span class="srv">'+dates[d]+'</span> 宗<br>';
+});
 rd.innerHTML=html;
 }
 }
@@ -636,7 +621,6 @@ if(['猝死','心臟驟停','心肌梗塞','暴斃'].some(function(k){return t.i
 if(fbFatal.some(function(k){return t.includes(k)}))return'FATAL';if(fbCrit.some(function(k){return t.includes(k)}))return'CRIT';if(fbAcc.some(function(k){return t.includes(k)}))return'ACC';return'OTHER';
 }
 }
-function categorizeQuick(title){var t=(title||'').trim();if(t.length<4)return'SPAM';if(/廣告|優惠|折扣|代購|加盟|貸款|開戶|免費領/.test(t))return'SPAM';if(t.includes('猝死')||t.includes('猝斃')||t.includes('猝逝')||t.includes('猝亡'))return'SUDDEN';if(t.includes('暈倒')||t.includes('昏迷')||t.includes('昏倒'))return'CRIT';if(t.includes('自殺')||t.includes('輕生')||t.includes('墮樓'))return'FATAL';if(t.includes('車禍')||t.includes('交通')||t.includes('火警')||t.includes('遇溺'))return'ACC';if(t.includes('危殆')||t.includes('中暑')||t.includes('肝炎'))return'CRIT';return'OTHER';}
 function extractAge(t){var ps=[/(\d{1,3})\s*歲/,/(\d{1,2})旬/,/年約\s*(\d{1,3})/,/(\d{1,3})\s*yo/i];for(var i=0;i<ps.length;i++){var m=(t||'').match(ps[i]);if(m){var a=parseInt(m[1]);if((t||'').includes('旬')&&a<20)a*=10;if(a>0&&a<150)return a}}return null}
 function safeDecode(s){try{return decodeURIComponent((s||'').replace(/\+/g,' '))}catch(e){return s||''}}
 function parseData(raw){
@@ -646,7 +630,7 @@ for(var i=0;i<lines.length;i++){var line=lines[i];if(/^日期/.test(line.trim())
 var ds=parts[0].trim().replace(/[\[\]]/g,'');var url=parts.find(function(p){return /^https?:\/\//i.test((p||'').trim())})||'';var title=parts.filter(function(p){return p!==parts[0]&&p!==url}).map(safeDecode).join(' ').trim();if(!ds||!title)continue;
 var dp=ds.split(/[\/\-]/).map(function(x){return x.trim()});if(dp.length!==3)continue;var y,mo,d;if(dp[0].length===4){y=dp[0];mo=dp[1];d=dp[2]}else if(dp[2].length===4){y=dp[2];mo=dp[1];d=dp[0]}else{y='20'+dp[0].padStart(2,'0');mo=dp[1];d=dp[2]}
 ds=String(y).padStart(4,'0')+'-'+String(mo).padStart(2,'0')+'-'+String(d).padStart(2,'0');if(Number.isNaN(new Date(ds).getTime()))continue;
-events.push({date:ds,url:url,title:title,category:categorizeQuick(title),age:extractAge(title)});}
+events.push({date:ds,url:url,title:title,category:categorize(title),age:extractAge(title)});}
 var seen={};return events.filter(function(e){var k=e.date+'||'+e.title;if(seen[k])return false;seen[k]=true;return true}).sort(function(a,b){return new Date(b.date)-new Date(a.date)});
 }
 
@@ -665,96 +649,35 @@ requestAnimationFrame(draw);
 })();
 
 /* Data Loading */
-var _scriptsLoading={};
-function loadScript(src){
-  // Deduplicate: return existing promise if already loading/loaded
-  if(_scriptsLoading[src]) return _scriptsLoading[src];
-  var p=new Promise(function(res){
-    var s=document.createElement('script');
-    s.src=src;
-    s.onload=function(){res(true)};
-    s.onerror=function(){res(false)};
-    document.head.appendChild(s);
-  });
-  _scriptsLoading[src]=p;
-  return p;
-}
-
-function _reRenderWithIndexEvents(){
-  indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
-  try{updateSplash(indexEvents)}catch(ex){console.error('Splash',ex)}
-  try{renderSuddenList(indexEvents)}catch(ex){console.error('SuddenList',ex)}
-  try{renderMoM(indexEvents)}catch(ex){console.error('MoM',ex)}
-  try{renderStatsBar()}catch(ex){console.error('StatsBar',ex)}
-}
-
-var _loadAllDataCalled=false;
 function loadAllData(){
-  if(_loadAllDataCalled) return; _loadAllDataCalled=true;
-  var _t=new Date();
-  var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
-
-  // 第一階段：先載入 data_today.js，快速顯示首屏
-  loadScript('data_today.js?v='+_v).then(function(){
-    if(window.DATA_TODAY){
-      var todayEvents=parseData(window.DATA_TODAY);
-      if(todayEvents.length){
-        allEvents=todayEvents;
-        indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
-        try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
-        try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
-        try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
-        var age=parseInt(slider.value)||30;
-        try{updatePeer(age)}catch(e){console.error('Peer',e)}
-        try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
-      }
-    }
-
-    // 第二階段：後台載入歷史數據 data_0000.js（失敗不阻塞畫面）
-    loadScript('data_0000.js').then(function(ok){
-      var hint=document.getElementById('old-data-hint');
-      if(!ok||!window.DATA_0000){
-        console.warn('DATA_0000 載入失敗');
-        if(hint) hint.textContent='歷史資料載入失敗，稍後重試';
-        return;
-      }
-      var parts=[];
-      if(window.DATA_0000) parts.push(window.DATA_0000);
-      if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
-      var merged=parts.join('\n');
-      if(!merged.trim()){if(hint)hint.style.display='none';return;}
-      allEvents=parseData(merged);
-      indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
-      try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
-      try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
-      try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
-      try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
-      var age=parseInt(slider.value)||30;
-      try{updatePeer(age)}catch(e){console.error('Peer',e)}
-      try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
-      try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
-      if(hint) hint.style.display='none';
-  });
+var startY=2021,endY=new Date().getFullYear(),loads=[];
+for(var y=startY;y<=endY;y++)(function(yr){loads.push(new Promise(function(res){var s=document.createElement('script');s.src='data_'+yr+'.js';s.onload=function(){res(yr)};s.onerror=function(){res(null)};document.head.appendChild(s)}))})(y);
+loads.push(new Promise(function(res){var s=document.createElement('script');s.src='data_today.js';s.onload=function(){res('today')};s.onerror=function(){res(null)};document.head.appendChild(s)}));
+Promise.all(loads).then(function(){
+var parts=[];for(var yr=startY;yr<=endY;yr++)if(window['DATA_'+yr])parts.push(window['DATA_'+yr]);if(window.DATA_TODAY)parts.push(window.DATA_TODAY);
+var merged=parts.join('\n');
+if(merged.trim()){
+allEvents=parseData(merged);
+// index 專用：只保留「猝死 / 暈倒」兩個絕對詞命中
+indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
+try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
+try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
+// 注意：index 不顯示其他分類統計，因此不呼叫 renderCatBars
+try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
+try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
+var age=parseInt(slider.value)||30;
+try{updatePeer(age)}catch(e){console.error('Peer',e)}
+try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
+try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
+}
+});
 }
 
 /* INIT */
-window.addEventListener('load',function(){
+window.addEventListener('load',async function(){
 requestAnimationFrame(tickCounter);
 calcLife();
-// 修改一：loadJsonRules 與 loadAllData 並行，不再 await 阻塞
-loadJsonRules().then(function(){
-  // JSON rules 載入完成後，若 allEvents 已有資料，分批重新分類避免主線程凍結
-  if(allEvents.length>0){
-    var i=0,batchSize=200;
-    function reclassifyBatch(){
-      var end=Math.min(i+batchSize,allEvents.length);
-      for(;i<end;i++) allEvents[i].category=categorize(allEvents[i].title);
-      if(i<allEvents.length){setTimeout(reclassifyBatch,0);}else{_reRenderWithIndexEvents();}
-    }
-    reclassifyBatch();
-  }
-});
-loadAllData(); // 立即開始載入，不等 JSON rules
+await loadJsonRules();loadAllData();
 addEventListener('resize',function(){if(indexEvents.length){renderMoM(indexEvents);renderAgeBar(parseInt(slider.value)||30);renderStatsBar();}});
 });
 </script>
