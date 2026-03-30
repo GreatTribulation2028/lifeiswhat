@@ -440,7 +440,7 @@ document.getElementById('d-bar').style.width=Math.min(100,pct)+'%';
 if(allEvents.length){updatePeer(age);renderAgeBar(age);}
 }
 
-/* Splash: sudden counter + latest 2 days */
+/* Splash: sudden counter + today's date */
 function updateSplash(events){
 var sudden=events.filter(function(e){return hitIndexTitle(e.title)});
 var now=new Date();
@@ -449,15 +449,13 @@ var mc=sudden.filter(function(e){return e.date.startsWith(tm)}).length;
 // sudden-counter element removed — no-op
 var dates={};
 sudden.forEach(function(e){dates[e.date]=(dates[e.date]||0)+1});
-var sorted=Object.keys(dates).sort().reverse();
-var latest2=sorted.slice(0,1);
+// 用今天的日期作為首屏顯示，即使沒有數據也顯示 0 宗
+var today=now.toISOString().slice(0,10);
+var todayCount=dates[today]||0;
 var rd=document.getElementById('recent-days');
-if(rd&&latest2.length){
-var html='';
-latest2.forEach(function(d){
-var parts=d.split('-');
-html+='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>猝死相關新聞 <span class="srv">'+dates[d]+'</span> 宗<br>';
-});
+if(rd){
+var parts=today.split('-');
+var html='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>猝死相關新聞 <span class="srv">'+todayCount+'</span> 宗<br>';
 rd.innerHTML=html;
 }
 }
@@ -686,29 +684,42 @@ function loadAllData(){
   var _t=new Date();
   var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
 
-  // Load data_0000.js (all historical data) + data_today.js (today's data) in parallel
-  Promise.all([
-    loadScript('data_0000.js'),
-    loadScript('data_today.js?v='+_v)
-  ]).then(function(){
-    var hint=document.getElementById('old-data-hint');
-    if(hint) hint.style.display='none';
-    // Combine DATA_0000 + DATA_TODAY
-    var parts=[];
-    if(window.DATA_0000) parts.push(window.DATA_0000);
-    if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
-    var merged=parts.join('\n');
-    if(!merged.trim()) return;
-    allEvents=parseData(merged);
-    indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
-    try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
-    try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
-    try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
-    try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
-    var age=parseInt(slider.value)||30;
-    try{updatePeer(age)}catch(e){console.error('Peer',e)}
-    try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
-    try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
+  // 第一階段：先載入 data_today.js，快速顯示首屏
+  loadScript('data_today.js?v='+_v).then(function(){
+    if(window.DATA_TODAY){
+      var todayEvents=parseData(window.DATA_TODAY);
+      if(todayEvents.length){
+        allEvents=todayEvents;
+        indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
+        try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
+        try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
+        try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
+        var age=parseInt(slider.value)||30;
+        try{updatePeer(age)}catch(e){console.error('Peer',e)}
+        try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
+      }
+    }
+
+    // 第二階段：後台載入歷史數據 data_0000.js
+    loadScript('data_0000.js').then(function(){
+      var hint=document.getElementById('old-data-hint');
+      if(hint) hint.style.display='none';
+      var parts=[];
+      if(window.DATA_0000) parts.push(window.DATA_0000);
+      if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
+      var merged=parts.join('\n');
+      if(!merged.trim()) return;
+      allEvents=parseData(merged);
+      indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
+      try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
+      try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
+      try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
+      try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
+      var age=parseInt(slider.value)||30;
+      try{updatePeer(age)}catch(e){console.error('Peer',e)}
+      try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
+      try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
+    });
   });
 }
 
