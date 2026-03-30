@@ -9,8 +9,7 @@
 <meta property="og:image" content="og-still-alive.png">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
-<!-- 已停用 Google Fonts（改用系統字型）-->
-<!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Jura:wght@400;600;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&family=Creepster&display=swap" rel="stylesheet"> -->
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Jura:wght@400;600;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&family=Creepster&display=swap" rel="stylesheet">
 <!-- 引入 Chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
@@ -18,9 +17,9 @@
 --c-bg:#030405;--c-panel:rgba(8,12,18,.95);--c-border:#1a2a3a;
 --c-accent:#00f3ff;--c-fatal:#ff2a2a;--c-crit:#ffae00;--c-acc:#00ff41;
 --c-dim:#6a8a9a;--c-sudden:#ff6b35;--c-soul:#a855f7;--c-hope:#8bffb0;
---f-mono:'Share Tech Mono',ui-monospace,'Courier New',monospace;--f-head:'Orbitron',ui-monospace,monospace;
---f-text:'Jura','Noto Sans TC',system-ui,sans-serif;
---f-serif:'Noto Serif TC',Georgia,serif;
+--f-mono:'Share Tech Mono',monospace;--f-head:'Orbitron',sans-serif;
+--f-text:'Jura','Noto Sans TC',sans-serif;
+--f-serif:'Noto Serif TC',serif;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{height:100%;overflow-x:hidden;background:var(--c-bg);color:#e0e6ed;font-family:var(--f-text)}
@@ -607,21 +606,6 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <a href="https://e.pcloud.link/publink/show?code=kZG8zaZpg5DO5gtmuhmDUrC4tjRCpJ7QT8V" target="_blank">pCloud 連結 →</a>
 </div>
 </div>
-<!-- ===== 詩歌影片：生命的吶喊 ===== -->
-<div style="margin-top:30px;text-align:center">
-  <div style="font-family:'Orbitron',sans-serif;font-size:11px;color:rgba(168,85,247,0.6);letter-spacing:4px;margin-bottom:20px">♪ 詩 歌</div>
-  <div style="margin:0 auto;max-width:640px;text-align:center">
-    <div style="font-family:'Share Tech Mono',monospace;font-size:13px;color:rgba(255,255,255,0.5);margin-bottom:10px;letter-spacing:2px">▶ 🎵 生命的吶喊</div>
-    <div id="rv-v75jow6" onclick="this.innerHTML='<iframe class=rumble width=640 height=360 src=https://rumble.com/embed/v75jow6/?pub=1hzfcc frameborder=0 allowfullscreen style=max-width:100%;border-radius:8px></iframe>'" style="position:relative;width:100%;max-width:640px;aspect-ratio:16/9;background:#111;border-radius:8px;border:1px solid rgba(168,85,247,0.2);cursor:pointer;display:flex;align-items:center;justify-content:center;overflow:hidden">
-      <div style="text-align:center">
-        <div style="width:72px;height:72px;background:rgba(0,0,0,0.75);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto">
-          <span style="color:white;font-size:32px;margin-left:6px">▶</span>
-        </div>
-        <div style="color:rgba(255,255,255,0.5);font-size:13px;margin-top:12px;font-family:ui-monospace,monospace">點擊播放 生命的吶喊</div>
-      </div>
-    </div>
-  </div>
-</div>
 </div>
 <!-- 貼上區（置底） -->
 <div class="paste-zone">
@@ -697,8 +681,6 @@ function isSpamFallback(t) {
   if(/廣告|優惠|折扣|代購|加盟|貸款|開戶|免費領/.test(t)) return true;
   return false;
 }
-
-function categorizeQuick(title){var t=(title||'').trim();if(t.length<4)return'SPAM';if(/廣告|優惠|折扣|代購|加盟|貸款|開戶|免費領/.test(t))return'SPAM';if(t.includes('猝死')||t.includes('猝斃')||t.includes('猝逝')||t.includes('猝亡'))return'SUDDEN';if(t.includes('暈倒')||t.includes('昏迷')||t.includes('昏倒'))return'CRIT';if(t.includes('自殺')||t.includes('輕生')||t.includes('墮樓'))return'FATAL';if(t.includes('車禍')||t.includes('交通')||t.includes('火警')||t.includes('遇溺'))return'ACC';if(t.includes('危殆')||t.includes('中暑')||t.includes('肝炎'))return'CRIT';return'OTHER';}
 
 // 核心分類邏輯：優先使用 JSON，否則使用後備
 // 完整流程：SPAM domains → brands → regex → combo
@@ -855,7 +837,7 @@ function parseData(raw){
     dateStr=`${String(y).padStart(4,'0')}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
     if(Number.isNaN(new Date(dateStr).getTime())) continue;
 
-    events.push({date:dateStr,url,title,category:categorizeQuick(title),age:extractAge(title)});
+    events.push({date:dateStr,url,title,category:categorize(title),age:extractAge(title)});
   }
   const seen=new Set();
   const unique=events.filter(e=>{const k=e.date+'||'+e.title;if(seen.has(k))return false;seen.add(k);return true});
@@ -1320,79 +1302,53 @@ function handleFile(ev){
 
 // === 核心啟動流程修改：先讀 JSON，再讀 Data ===
 async function initApp() {
-  // 兩者並行：不 await loadJsonRules，讓 autoLoadData 立即開始
-  loadJsonRules().then(function() {
-    // JSON rules 載入完成後，若 allEvents 已有資料，分批重新分類避免主線程凍結
-    if (allEvents.length > 0) {
-      var i=0, batchSize=200;
-      function reclassifyBatch(){
-        var end=Math.min(i+batchSize, allEvents.length);
-        for(;i<end;i++) allEvents[i].category=categorize(allEvents[i].title);
-        if(i<allEvents.length){setTimeout(reclassifyBatch,0);}else{filterByTimeRange(currentTimeRange);}
-      }
-      reclassifyBatch();
-    }
-  });
-  autoLoadData(); // 立即開始載入資料，不等 JSON rules
+  // 1. 先非同步載入 JSON
+  await loadJsonRules();
+  
+  // 2. 再載入新聞數據
+  autoLoadData();
 }
 
-var _autoLoadCalled=false;
 function autoLoadData(){
-  if(_autoLoadCalled) return; _autoLoadCalled=true;
   if(location.protocol==='file:'){
     document.getElementById('paste-input').placeholder='⚠️ 本機開啟請用 python -m http.server 8000\n再開 http://localhost:8000/monitor.html';
     return;
   }
-  const endYear=new Date().getFullYear();
-  const _t=new Date();
-  const _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
-
-  var _scriptsLoading={};
-  function loadScript(src){
-    if(_scriptsLoading[src]) return _scriptsLoading[src];
-    var p=new Promise(resolve=>{
+  // === 自動載入 data-YYYY.js（2021 至今年）+ data-today.js ===
+  const startYear=2021, endYear=new Date().getFullYear();
+  const loads=[];
+  // 載入各年份檔
+  for(let y=startYear;y<=endYear;y++){
+    loads.push(new Promise(resolve=>{
       const s=document.createElement('script');
-      s.src=src;
-      s.onload=()=>resolve(true);
-      s.onerror=()=>resolve(false);
+      s.src='data_'+y+'.js';
+      s.onload=()=>resolve(y);
+      s.onerror=()=>resolve(null);
       document.head.appendChild(s);
-    });
-    _scriptsLoading[src]=p;
-    return p;
+    }));
   }
-
-  function mergeAndRender(){
+  // 載入 data-today.js（最新未歸檔資料）
+  loads.push(new Promise(resolve=>{
+    const s=document.createElement('script');
+    s.src='data_today.js';
+    s.onload=()=>resolve('today');
+    s.onerror=()=>resolve(null);
+    document.head.appendChild(s);
+  }));
+  Promise.all(loads).then(()=>{
     const parts=[];
-    if(window.DATA_0000) parts.push(window.DATA_0000);
+    for(let y=startYear;y<=endYear;y++){
+      if(window['DATA_'+y]) parts.push(window['DATA_'+y]);
+    }
+    // 合併 data-today.js 的資料
     if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
     const merged=parts.join('\n');
     if(merged.trim()){
       document.getElementById('paste-input').value=merged;
-      allEvents=parseData(merged); filteredEvents=[...allEvents];
-      populateFilterDropdowns();
-      setTimeout(function(){
-        // 用 setTimeout(0) 把重渲染推入下一個 task，讓 UI 先呼吸
-        filterByTimeRange(currentTimeRange);
-      }, 0);
+      loadPastedData();
+    } else {
+      document.getElementById('paste-input').placeholder='⚠️ 未找到任何 data_YYYY.js 或 data_today.js\n請把資料檔放在同一資料夾';
     }
-  }
-
-  // 第一階段：先載 data_today.js，快速顯示
-  loadScript('data_today.js?v='+_v).then(function(ok){
-    if(window.DATA_TODAY){
-      const parts=[window.DATA_TODAY];
-      const merged=parts.join('\n');
-      if(merged.trim()){
-        document.getElementById('paste-input').value=merged;
-        allEvents=parseData(merged); filteredEvents=[...allEvents];
-        populateFilterDropdowns();
-        setTimeout(function(){ filterByTimeRange(currentTimeRange); }, 0);
-      }
-    }
-    // 第二階段：後台載入歷史數據，失敗不阻塞
-    loadScript('data_0000.js').then(function(ok2){
-      if(ok2&&window.DATA_0000){ mergeAndRender(); }
-    });
   });
 }
 
