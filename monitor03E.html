@@ -1314,41 +1314,38 @@ function autoLoadData(){
     document.getElementById('paste-input').placeholder='⚠️ 本機開啟請用 python -m http.server 8000\n再開 http://localhost:8000/monitor.html';
     return;
   }
-  // === 自動載入 data-YYYY.js（2021 至今年）+ data-today.js ===
-  const startYear=2021, endYear=new Date().getFullYear();
-  const loads=[];
-  // 載入各年份檔
-  for(let y=startYear;y<=endYear;y++){
-    loads.push(new Promise(resolve=>{
-      const s=document.createElement('script');
-      s.src='data_'+y+'.js';
-      s.onload=()=>resolve(y);
-      s.onerror=()=>resolve(null);
-      document.head.appendChild(s);
-    }));
-  }
-  // 載入 data-today.js（最新未歸檔資料）
-  loads.push(new Promise(resolve=>{
-    const s=document.createElement('script');
-    s.src='data_today.js';
-    s.onload=()=>resolve('today');
-    s.onerror=()=>resolve(null);
-    document.head.appendChild(s);
-  }));
-  Promise.all(loads).then(()=>{
-    const parts=[];
-    for(let y=startYear;y<=endYear;y++){
-      if(window['DATA_'+y]) parts.push(window['DATA_'+y]);
-    }
-    // 合併 data-today.js 的資料
-    if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
-    const merged=parts.join('\n');
+  const _t=new Date();
+  const _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
+  function renderData(merged){
     if(merged.trim()){
       document.getElementById('paste-input').value=merged;
       loadPastedData();
-    } else {
-      document.getElementById('paste-input').placeholder='⚠️ 未找到任何 data_YYYY.js 或 data_today.js\n請把資料檔放在同一資料夾';
     }
+  }
+  // Phase 1: 先載入 data_today.js（加 cache-busting），立即渲染首屏
+  new Promise(resolve=>{
+    const s=document.createElement('script');
+    s.src='data_today.js?v='+_v;
+    s.onload=()=>resolve();
+    s.onerror=()=>resolve();
+    document.head.appendChild(s);
+  }).then(()=>{
+    if(window.DATA_TODAY&&window.DATA_TODAY.trim()) renderData(window.DATA_TODAY);
+    // Phase 2: 背景載入 data_0000.js，完成後合併重新渲染
+    new Promise(resolve=>{
+      const s=document.createElement('script');
+      s.src='data_0000.js';
+      s.onload=()=>resolve();
+      s.onerror=()=>resolve();
+      document.head.appendChild(s);
+    }).then(()=>{
+      const parts=[];
+      if(window.DATA_0000) parts.push(window.DATA_0000);
+      if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
+      const merged=parts.join('\n');
+      if(merged.trim()) renderData(merged);
+      else document.getElementById('paste-input').placeholder='⚠️ 未找到任何 data_0000.js 或 data_today.js\n請把資料檔放在同一資料夾';
+    });
   });
 }
 
