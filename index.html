@@ -379,12 +379,12 @@ cv.style.height=Math.min(320,Math.max(200,statsDays*10+80))+'px';
 statsChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:labels,datasets:[{data:counts,backgroundColor:barColors,hoverBackgroundColor:hoverColors,borderWidth:0,borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{titleFont:{size:14},bodyFont:{size:14},callbacks:{title:function(items){return days[items[0].dataIndex]},label:function(item){return item.raw+' 宗'}}}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{font:{size:13},maxRotation:45,color:'#b0bec5'}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'},ticks:{stepSize:1,font:{size:13},color:'#b0bec5'}}}}});
 }
 var entryTime=Date.now(),allEvents=[],indexEvents=[];
-// INDEX 嚴格顯示/統計：只吃「猝死」或「暈倒」（OR），其他一律不計、不顯示
+// INDEX 顯示/統計：猝死相關關鍵字命中即計入
 function hitIndexTitle(t){
   t=(t||'');
-  var SUDDEN_EXACT=['猝死','猝斃','猝亡','猝逝'];
-  var COMBO_TRIGGER=['暈倒','昏迷','昏倒'];
-  var DEATH_CONFIRM=['不治','死亡','身亡','離世','倒斃'];
+  var SUDDEN_EXACT=['猝死','猝斃','猝亡','猝逝','暴斃','驟逝','心臟驟停','心肌梗塞'];
+  var COMBO_TRIGGER=['暈倒','昏迷','昏倒','路倒'];
+  var DEATH_CONFIRM=['不治','死亡','身亡','離世','倒斃','喪命','斃命'];
   if(SUDDEN_EXACT.some(function(w){return t.includes(w)})) return true;
   if(COMBO_TRIGGER.some(function(w){return t.includes(w)}) &&
      DEATH_CONFIRM.some(function(w){return t.includes(w)})) return true;
@@ -703,7 +703,7 @@ function loadAllData(){
     // 第二階段：後台載入歷史數據 data_0000.js
     loadScript('data_0000.js').then(function(){
       var hint=document.getElementById('old-data-hint');
-      if(hint) hint.style.display='none';
+      if(hint) hint.textContent='舊年份記錄整理中…';
       var parts=[];
       if(window.DATA_0000) parts.push(window.DATA_0000);
       if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
@@ -719,7 +719,7 @@ function loadAllData(){
       try{updatePeer(age)}catch(e){console.error('Peer',e)}
       try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
       try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
-    });
+      if(hint) hint.style.display='none';
   });
 }
 
