@@ -9,7 +9,8 @@
 <meta property="og:image" content="og-still-alive.png">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Jura:wght@400;600;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&family=Creepster&display=swap" rel="stylesheet">
+<!-- 已停用 Google Fonts（改用系統字型）-->
+<!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Jura:wght@400;600;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&family=Creepster&display=swap" rel="stylesheet"> -->
 <!-- 引入 Chart.js -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
@@ -17,9 +18,9 @@
 --c-bg:#030405;--c-panel:rgba(8,12,18,.95);--c-border:#1a2a3a;
 --c-accent:#00f3ff;--c-fatal:#ff2a2a;--c-crit:#ffae00;--c-acc:#00ff41;
 --c-dim:#6a8a9a;--c-sudden:#ff6b35;--c-soul:#a855f7;--c-hope:#8bffb0;
---f-mono:'Share Tech Mono',monospace;--f-head:'Orbitron',sans-serif;
---f-text:'Jura','Noto Sans TC',sans-serif;
---f-serif:'Noto Serif TC',serif;
+--f-mono:'Share Tech Mono',ui-monospace,'Courier New',monospace;--f-head:'Orbitron',ui-monospace,monospace;
+--f-text:'Jura','Noto Sans TC',system-ui,sans-serif;
+--f-serif:'Noto Serif TC',Georgia,serif;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{height:100%;overflow-x:hidden;background:var(--c-bg);color:#e0e6ed;font-family:var(--f-text)}
@@ -1333,7 +1334,9 @@ async function initApp() {
   autoLoadData(); // 立即開始載入資料，不等 JSON rules
 }
 
+var _autoLoadCalled=false;
 function autoLoadData(){
+  if(_autoLoadCalled) return; _autoLoadCalled=true;
   if(location.protocol==='file:'){
     document.getElementById('paste-input').placeholder='⚠️ 本機開啟請用 python -m http.server 8000\n再開 http://localhost:8000/monitor.html';
     return;
@@ -1342,14 +1345,18 @@ function autoLoadData(){
   const _t=new Date();
   const _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
 
+  var _scriptsLoading={};
   function loadScript(src){
-    return new Promise(resolve=>{
+    if(_scriptsLoading[src]) return _scriptsLoading[src];
+    var p=new Promise(resolve=>{
       const s=document.createElement('script');
       s.src=src;
       s.onload=()=>resolve(true);
       s.onerror=()=>resolve(false);
       document.head.appendChild(s);
     });
+    _scriptsLoading[src]=p;
+    return p;
   }
 
   function mergeAndRender(){
@@ -1368,11 +1375,23 @@ function autoLoadData(){
     }
   }
 
-  // Load data_0000.js (all historical data) + data_today.js (today's data) in parallel
-  Promise.all([
-    loadScript('data_0000.js'),
-    loadScript('data_today.js?v='+_v)
-  ]).then(()=>{ mergeAndRender(); });
+  // 第一階段：先載 data_today.js，快速顯示
+  loadScript('data_today.js?v='+_v).then(function(ok){
+    if(window.DATA_TODAY){
+      const parts=[window.DATA_TODAY];
+      const merged=parts.join('\n');
+      if(merged.trim()){
+        document.getElementById('paste-input').value=merged;
+        allEvents=parseData(merged); filteredEvents=[...allEvents];
+        populateFilterDropdowns();
+        setTimeout(function(){ filterByTimeRange(currentTimeRange); }, 0);
+      }
+    }
+    // 第二階段：後台載入歷史數據，失敗不阻塞
+    loadScript('data_0000.js').then(function(ok2){
+      if(ok2&&window.DATA_0000){ mergeAndRender(); }
+    });
+  });
 }
 
 function exportSnapshot(){

@@ -663,14 +663,19 @@ requestAnimationFrame(draw);
 })();
 
 /* Data Loading */
+var _scriptsLoading={};
 function loadScript(src){
-  return new Promise(function(res){
+  // Deduplicate: return existing promise if already loading/loaded
+  if(_scriptsLoading[src]) return _scriptsLoading[src];
+  var p=new Promise(function(res){
     var s=document.createElement('script');
     s.src=src;
     s.onload=function(){res(true)};
     s.onerror=function(){res(false)};
     document.head.appendChild(s);
   });
+  _scriptsLoading[src]=p;
+  return p;
 }
 
 function _reRenderWithIndexEvents(){
@@ -681,7 +686,9 @@ function _reRenderWithIndexEvents(){
   try{renderStatsBar()}catch(ex){console.error('StatsBar',ex)}
 }
 
+var _loadAllDataCalled=false;
 function loadAllData(){
+  if(_loadAllDataCalled) return; _loadAllDataCalled=true;
   var _t=new Date();
   var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
 
