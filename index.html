@@ -667,7 +667,7 @@ try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
 new Promise(function(res){var s=document.createElement('script');s.src='data_today.js?v='+_v;s.onload=function(){res()};s.onerror=function(){res()};document.head.appendChild(s)}).then(function(){
 if(window.DATA_TODAY&&window.DATA_TODAY.trim()){allEvents=parseData(window.DATA_TODAY);renderAll(allEvents);}
 // Phase 2: 背景載入 data_0000.js，完成後合併重新渲染
-new Promise(function(res){var s=document.createElement('script');s.src='data_0000.js';s.onload=function(){res()};s.onerror=function(){res()};document.head.appendChild(s)}).then(function(){
+new Promise(function(res){var s=document.createElement('script');s.src='data_0000.js?v='+_v;s.onload=function(){res()};s.onerror=function(){res()};document.head.appendChild(s)}).then(function(){
 var parts=[];if(window.DATA_0000)parts.push(window.DATA_0000);if(window.DATA_TODAY)parts.push(window.DATA_TODAY);
 var merged=parts.join('\n');if(merged.trim()){allEvents=parseData(merged);renderAll(allEvents);}
 });});
