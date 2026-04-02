@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>173 — 最簡單的時間表</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, 'Segoe UI', system-ui, sans-serif;
+    background: linear-gradient(135deg, #0a0a12 0%, #1a1028 100%);
+    color: #e8e8e8;
+    min-height: 100vh;
+    padding: 32px 16px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #ffd700;
+    margin-bottom: 4px;
+  }
+  .sub {
+    text-align: center;
+    color: #999;
+    font-size: 0.8rem;
+    margin-bottom: 32px;
+  }
+  .track {
+    max-width: 700px;
+    margin: 0 auto;
+    position: relative;
+    padding-left: 48px;
+  }
+  .track::before {
+    content: '';
+    position: absolute;
+    left: 20px;
+    top: 0; bottom: 0;
+    width: 3px;
+    background: linear-gradient(to bottom,
+      #ff4444 0%, #ff4444 18%,
+      #ff8c00 18%, #ff8c00 35%,
+      #ffd700 35%, #ffd700 50%,
+      #ff6347 50%, #ff6347 65%,
+      #4169e1 65%, #4169e1 80%,
+      #9370db 80%, #9370db 100%);
+    border-radius: 2px;
+  }
+  .evt {
+    position: relative;
+    margin-bottom: 18px;
+    padding: 14px 16px;
+    border-radius: 12px;
+    border-left: 4px solid;
+    background: rgba(255,255,255,0.04);
+    transition: transform 0.15s;
+  }
+  .evt:hover { transform: translateX(4px); }
+  .dot {
+    position: absolute;
+    left: -38px;
+    top: 16px;
+    width: 16px; height: 16px;
+    border-radius: 50%;
+    border: 3px solid #0a0a12;
+  }
+  .evt .yr {
+    font-family: monospace;
+    font-size: 0.72rem;
+    opacity: 0.6;
+    margin-bottom: 2px;
+  }
+  .evt .ttl {
+    font-size: 0.95rem;
+    font-weight: 700;
+    margin-bottom: 3px;
+  }
+  .evt .desc {
+    font-size: 0.78rem;
+    color: #bbb;
+    line-height: 1.5;
+  }
+  /* color themes */
+  .red   { border-color: #ff4444; }
+  .red   .dot { background: #ff4444; }
+  .orange { border-color: #ff8c00; }
+  .orange .dot { background: #ff8c00; }
+  .gold  { border-color: #ffd700; }
+  .gold  .dot { background: #ffd700; }
+  .fire  { border-color: #ff6347; }
+  .fire  .dot { background: #ff6347; box-shadow: 0 0 8px #ff634788; }
+  .blue  { border-color: #4169e1; }
+  .blue  .dot { background: #4169e1; }
+  .purple { border-color: #9370db; }
+  .purple .dot { background: #9370db; }
+  .green { border-color: #4ade80; }
+  .green .dot { background: #4ade80; box-shadow: 0 0 12px #4ade8066; }
+  .tag {
+    display: inline-block;
+    font-size: 0.65rem;
+    padding: 2px 8px;
+    border-radius: 10px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    font-weight: 600;
+  }
+  .tag-done { background: #4ade8033; color: #4ade80; }
+  .tag-now  { background: #ffd70033; color: #ffd700; }
+  .tag-soon { background: #ff634733; color: #ff6347; }
+  .tag-future { background: #9370db33; color: #9370db; }
+  .divider {
+    text-align: center;
+    padding: 16px 0;
+    color: #555;
+    font-size: 0.7rem;
+    letter-spacing: 3px;
+  }
+  .legend {
+    max-width: 700px;
+    margin: 0 auto 24px;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .legend span {
+    font-size: 0.72rem;
+    color: #999;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  .legend i {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .footer {
+    text-align: center;
+    margin-top: 32px;
+    color: #666;
+    font-size: 0.7rem;
+    line-height: 1.8;
+  }
+  .pulse {
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+  @media (max-width: 500px) {
+    .track { padding-left: 40px; }
+    .dot { left: -30px; }
+    .evt .ttl { font-size: 0.88rem; }
+  }
+</style>
+</head>
+<body>
+
+<h1>🧠 最簡單的末世時間表</h1>
+<p class="sub">給「看不下長文」的你 — 2019 → 2028</p>
+
+<div class="legend">
+  <span><i style="background:#4ade80"></i> 已發生</span>
+  <span><i style="background:#ffd700"></i> 現在</span>
+  <span><i style="background:#ff6347"></i> 快了</span>
+  <span><i style="background:#9370db"></i> 將來</span>
+</div>
+
+<div class="track">
+
+  <!-- ===== 四匹馬 ===== -->
+  <div class="divider">── 四 匹 馬（已全部跑出）──</div>
+
+  <div class="evt red">
+    <div class="dot"></div>
+    <div class="yr">2020年1月</div>
+    <div class="ttl">🤍 白馬：新冠疫情</div>
+    <div class="desc">
+      <span class="tag tag-done">✅ 已發生</span><br>
+      全世界被「征服」了。封城、口罩、疫苗——所有人被控制。
+    </div>
+  </div>
+
+  <div class="evt red">
+    <div class="dot"></div>
+    <div class="yr">2022年2月24日</div>
+    <div class="ttl">❤️ 紅馬：俄烏戰爭</div>
+    <div class="desc">
+      <span class="tag tag-done">✅ 已發生</span><br>
+      太平被奪去。戰爭開始了。到今天還在打。
+    </div>
+  </div>
+
+  <div class="evt orange">
+    <div class="dot"></div>
+    <div class="yr">2023年</div>
+    <div class="ttl">🖤 黑馬：物價飛升、銀行倒閉</div>
+    <div class="desc">
+      <span class="tag tag-done">✅ 已發生</span><br>
+      東西變貴了。FTX歸零。SVB倒閉。瑞信被收購。錢越來越不值錢。
+    </div>
+  </div>
+
+  <div class="evt orange">
+    <div class="dot"></div>
+    <div class="yr">2024–2025年</div>
+    <div class="ttl">💚 灰馬：死亡跟隨</div>
+    <div class="desc">
+      <span class="tag tag-done">✅ 已發生</span><br>
+      戰爭+疾病+災難=持續的死亡。四分之一的地球受影響。
+    </div>
+  </div>
+
+  <!-- ===== 六印 ===== -->
+  <div class="divider">── 第 六 印：天 地 震 動 ──</div>
+
+  <div class="evt fire">
+    <div class="dot"></div>
+    <div class="yr">2025年1月7日</div>
+    <div class="ttl">🌍 大地震 + 大火</div>
+    <div class="desc">
+      <span class="tag tag-done">✅ 已發生</span><br>
+      早上：西藏大地震。<br>
+      黃昏：洛杉磯帕利薩德斯大火。煙霧遮住太陽。月亮變紅。10萬人逃跑。<br>
+      <strong>聖經說：日頭變黑，月亮變紅。</strong>
+    </div>
+  </div>
+
+  <div class="evt fire">
+    <div class="dot"></div>
+    <div class="yr">2025年3月14日</div>
+    <div class="ttl">🌕 普珥節血月</div>
+    <div class="desc">
+      <span class="tag tag-done">✅ 已發生</span><br>
+      猶太人的「命運逆轉」節日。那天，月全食。月亮變紅如血。
+    </div>
+  </div>
+
+  <div class="evt fire">
+    <div class="dot"></div>
+    <div class="yr">2026年2月24日</div>
+    <div class="ttl">🌊 堪察加 8.8級巨震</div>
+    <div class="desc">
+      <span class="tag tag-done">✅ 已發生</span><br>
+      近代最強地震之一。同時觸發洛杉磯海嘯警告。<br>
+      <strong>聖經說：山嶺海島都被挪移。</strong>
+    </div>
+  </div>
+
+  <!-- ===== 七印 ===== -->
+  <div class="divider">── 第 七 印：寂 靜（現在）──</div>
+
+  <div class="evt gold">
+    <div class="dot pulse"></div>
+    <div class="yr">2025年4月 → 現在</div>
+    <div class="ttl">🤫 你 在 這 裡</div>
+    <div class="desc">
+      <span class="tag tag-now">📍 現在</span><br>
+      對等關稅。停火談判。市場反彈。<br>
+      <strong>看起來好像好了。其實是暴風雨前的寧靜。</strong><br>
+      聖經說：「天上寂靜約半小時。」之後，號角就吹了。
+    </div>
+  </div>
+
+  <!-- ===== 號角 ===== -->
+  <div class="divider">── 號 角 序 列（正在 / 即將）──</div>
+
+  <div class="evt fire">
+    <div class="dot"></div>
+    <div class="yr">2025–2026 → 持續中</div>
+    <div class="ttl">🔥 第一號：地被燒</div>
+    <div class="desc">
+      <span class="tag tag-soon">🔥 正在</span><br>
+      地的三分之一被燒。草全部燒光。<br>
+      非洲已燒35%。美以打擊伊朗石油設施。迪拜機場遭攻擊。<br>
+      <strong>全球火點持續增加。這不是偶然。</strong>
+    </div>
+  </div>
+
+  <div class="evt blue">
+    <div class="dot"></div>
+    <div class="yr">2026–2027（預期）</div>
+    <div class="ttl">🌊 第二號：大山掉進海</div>
+    <div class="desc">
+      <span class="tag tag-soon">🔥 快了</span><br>
+      海的三分之一變血。船壞三分之一。<br>
+      湯加火山（2022）已是預演。紅海航運已被攻擊。
+    </div>
+  </div>
+
+  <div class="evt blue">
+    <div class="dot"></div>
+    <div class="yr">2026–2027（預期）</div>
+    <div class="ttl">💧 第三號：水變苦</div>
+    <div class="desc">
+      <span class="tag tag-soon">🔥 快了</span><br>
+      水源被污染——但不只是水。<br>
+      假新聞 = 資訊苦水。數字貨幣 = 金錢苦水。假教會 = 靈魂苦水。
+    </div>
+  </div>
+
+  <div class="evt purple">
+    <div class="dot"></div>
+    <div class="yr">2027（預期）</div>
+    <div class="ttl">🌑 第四號：光變暗</div>
+    <div class="desc">
+      <span class="tag tag-future">🔮 將來</span><br>
+      太陽、月亮、星星，三分之一不發光。<br>
+      人慢慢習慣黑暗。以為黑暗就是正常。
+    </div>
+  </div>
+
+  <div class="evt purple">
+    <div class="dot"></div>
+    <div class="yr">2027（預期）</div>
+    <div class="ttl">🕳️ 第五號：人被機器控制</div>
+    <div class="desc">
+      <span class="tag tag-future">🔮 將來</span><br>
+      腦機接口（Neuralink）普及。人和機器合一。<br>
+      <strong>你失去自由意志。不能再選擇信什麼。</strong>
+    </div>
+  </div>
+
+  <!-- ===== 終局 ===== -->
+  <div class="divider">── 終 局 ──</div>
+
+  <div class="evt green">
+    <div class="dot"></div>
+    <div class="yr">2027年10月2日（推算·吹角節）</div>
+    <div class="ttl">📯 末次號筒：神的國來了</div>
+    <div class="desc">
+      <span class="tag tag-future">🔮 終點</span><br>
+      「世上的國成了我主和主基督的國。」<br>
+      <strong>這一切的苦難，有盡頭。盡頭是光。</strong>
+    </div>
+  </div>
+
+</div>
+
+<div class="footer">
+  📖 數據來源：啟示錄 6–11章 · 但以理書 9–12章<br>
+  🧠 設計原則：前額葉友善 · 每段獨立 · 無需記住前文<br>
+  ✦ 不是預言。是地圖。告訴你：你在哪裡，下一步是什麼。 ✦
+</div>
+
+</body>
+</html>
