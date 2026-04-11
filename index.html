@@ -221,7 +221,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 </nav>
 
-<!-- 首屏：猝死本月記錄 -->
+<!-- 首屏：死亡相關新聞 -->
 <section class="main-splash" id="splash">
 
 
@@ -236,7 +236,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 <!-- Scrollable SUDDEN list -->
 <div class="sudden-box">
-  <div class="sudden-box-title">最新猝死記錄 <span class="hint">（向下滑＝更早）</span></div>
+  <div class="sudden-box-title">最新死亡相關新聞 <span class="hint">（向下滑＝更早）</span></div>
   <div class="sudden-list" id="sudden-list">
     <div style="text-align:center;padding:60px 10px;font-family:'Share Tech Mono',monospace;color:rgba(255,255,255,.4);font-size:16px;line-height:2.4">
       <div style="font-size:1.8rem;margin-bottom:14px;animation:breathe 1.5s ease-in-out infinite">⏳</div>
@@ -248,14 +248,14 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div class="splash-scroll" onclick="document.getElementById('sec-you').scrollIntoView({behavior:'smooth'})">▼</div>
 </section>
 
-<!-- SEC: 近期猝死統計 -->
+<!-- SEC: 近期死亡相關統計 -->
 <div class="stats-box fade-in" id="sec-stats">
 <div class="stats-toggle">
 <button class="active" onclick="setStatsDays(7)">7 天</button>
 <button onclick="setStatsDays(14)">14 天</button>
 <button onclick="setStatsDays(30)">30 天</button>
 </div>
-<div class="stats-summary"><div class="ss-num" id="ss-num">—</div><div class="ss-label" id="ss-label">過去 7 天猝死相關新聞</div></div>
+<div class="stats-summary"><div class="ss-num" id="ss-num">—</div><div class="ss-label" id="ss-label">過去 7 天死亡相關新聞</div></div>
 <div class="stats-chart-wrap"><canvas id="stats-bar-chart"></canvas></div>
 </div>
 
@@ -276,17 +276,17 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 </div>
 
-<!-- SEC 2: 你的年齡層 × 猝死 -->
+<!-- SEC 2: 你的年齡層 × 死亡相關 -->
 <div class="section fade-in" id="sec-peer">
 <div class="s-label">YOUR AGE GROUP</div>
-<div class="s-title">相同年齡，猝死多少?</div>
+<div class="s-title">相同年齡，死亡相關新聞多少?</div>
 <div class="peer-box">
 <div style="font-size:.9rem;color:var(--text-dim);margin-bottom:8px"><span id="p-range">25-35</span> 歲</div>
 <div class="p-big" id="p-deaths">—</div>
-<div class="p-text">本港新聞記錄中，同齡（±5年）猝死個案。<br>
+<div class="p-text">本港新聞記錄中，同齡（±5年）死亡相關個案。<br>
 上月 <strong id="p-lm" style="color:var(--gold)">—</strong> 宗 &nbsp;·&nbsp; 上年 <strong id="p-ly" style="color:var(--gold)">—</strong> 宗</div>
 </div>
-<div class="chart-box" style="margin-top:20px"><h4>本港猝死年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
+<div class="chart-box" style="margin-top:20px"><h4>本港死亡相關年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
 </div>
 
 <!-- SEC 3: 分類概覽 + 月度趨勢 -->
@@ -348,7 +348,7 @@ for(var i=statsDays-1;i>=0;i--){var d=new Date(now);d.setDate(d.getDate()-i);day
 var counts=days.map(function(d){return indexEvents.filter(function(e){return e.date===d}).length});
 var total=counts.reduce(function(a,b){return a+b},0);
 document.getElementById('ss-num').textContent=total;
-document.getElementById('ss-label').textContent='過去 '+statsDays+' 天猝死相關新聞';
+document.getElementById('ss-label').textContent='過去 '+statsDays+' 天死亡相關新聞';
 var labels=days.map(function(d){var p=d.split('-');return parseInt(p[1])+'/'+parseInt(p[2])});
 if(statsChart)statsChart.destroy();
 var barColors=counts.map(function(c,i){
@@ -365,16 +365,45 @@ cv.style.height=Math.min(320,Math.max(200,statsDays*10+80))+'px';
 statsChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:labels,datasets:[{data:counts,backgroundColor:barColors,hoverBackgroundColor:hoverColors,borderWidth:0,borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{titleFont:{size:14},bodyFont:{size:14},callbacks:{title:function(items){return days[items[0].dataIndex]},label:function(item){return item.raw+' 宗'}}}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{font:{size:13},maxRotation:45,color:'#b0bec5'}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'},ticks:{stepSize:1,font:{size:13},color:'#b0bec5'}}}}});
 }
 var entryTime=Date.now(),allEvents=[],indexEvents=[];
-// INDEX 嚴格顯示/統計：只吃「猝死」或「暈倒」（OR），其他一律不計、不顯示
+// INDEX 顯示/統計：死亡相關新聞（必須有「死亡確認詞」）
+// 涵蓋：猝死、意外致死、醫療事故致死 等
 function hitIndexTitle(t){
-  t=(t||'');
-  var SUDDEN_EXACT=['猝死','猝斃','猝亡','猝逝'];
-  var COMBO_TRIGGER=['暈倒','昏迷','昏倒'];
-  var DEATH_CONFIRM=['不治','死亡','身亡','離世','倒斃'];
-  if(SUDDEN_EXACT.some(function(w){return t.includes(w)})) return true;
-  if(COMBO_TRIGGER.some(function(w){return t.includes(w)}) &&
-     DEATH_CONFIRM.some(function(w){return t.includes(w)})) return true;
-  return false;
+  t = (t || '').trim();
+  if(!t) return false;
+
+  // A) 死亡確認詞（必須命中其中之一）
+  var DEATH_CONFIRM = [
+    '死亡','身亡','不治','離世','倒斃','喪生','罹難','遇難','殉職',
+    '證實死亡','當場死亡','宣告死亡',
+    '送院不治','傷重不治','搶救不治','急救無效',
+    '死者','死亡人數'
+  ];
+
+  // B) 事件詞：你想收嘅範圍（死亡 + 意外 + 醫療事故）
+  // 命中這些，再配合死亡確認詞 → 才算入 Index
+  var EVENT_HINT = [
+    // 猝死 / 突發
+    '猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝','心臟驟停','OHCA','到院前死亡',
+
+    // 意外（常見致死場景）
+    '車禍','交通意外','撞車','翻車','墮海','遇溺','溺斃','火警','失火','爆炸','工傷','塌棚','塌樓',
+
+    // 醫療事故 / 醫療相關致死
+    '醫療事故','醫療疏失','醫療失誤','誤診','延誤治療','手術','麻醉','用藥','注射','院內感染','醫院'
+  ];
+
+  // C) 組合觸發：有些標題會寫「暈倒/昏迷」但其實係致死（要配合死亡確認）
+  var COMBO_TRIGGER = ['暈倒','昏迷','昏倒','倒地','送院','搶救','命危','危殆'];
+
+  var hasDeath = DEATH_CONFIRM.some(function(w){ return t.includes(w); });
+  if(!hasDeath) return false;
+
+  // 死亡已確認：只要見到事件線索（猝死/意外/醫療）或組合觸發，就算入 Index
+  if(EVENT_HINT.some(function(w){ return t.includes(w); })) return true;
+  if(COMBO_TRIGGER.some(function(w){ return t.includes(w); })) return true;
+
+  // 兜底：有死亡確認詞就收
+  return true;
 }
 
 /* Scroll progress */
@@ -442,7 +471,7 @@ if(rd&&latest2.length){
 var html='';
 latest2.forEach(function(d){
 var parts=d.split('-');
-html+='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>猝死相關新聞 <span class="srv">'+dates[d]+'</span> 宗<br>';
+html+='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>死亡相關新聞 <span class="srv">'+dates[d]+'</span> 宗<br>';
 });
 rd.innerHTML=html;
 }
@@ -504,7 +533,7 @@ document.getElementById('proof-total').textContent=total.toLocaleString();
 /* Monthly trend */
 var mChart=null;
 function renderMoM(events){
-// index 僅顯示猝死/暈倒，不做其他分類
+// index 僅顯示死亡相關新聞
 var ns=events.filter(function(e){return hitIndexTitle(e.title)});
 var mm={};
 ns.forEach(function(e){var ym=e.date.slice(0,7);mm[ym]=(mm[ym]||0)+1});
