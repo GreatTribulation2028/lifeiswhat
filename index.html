@@ -191,10 +191,10 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
   font-weight:650
 }
 /* Three independent stats: 猝死 / 暈倒 / 自殺 */
-.splash-tri-stats{display:flex;flex-direction:column;align-items:center;gap:6px;margin-bottom:20px}
-.tri-stat-item{text-align:center;line-height:1.2}
-.tri-stat-label{font-family:var(--f-mono);font-size:clamp(.9rem,2.8vw,1.3rem);letter-spacing:2px;opacity:.85;margin-bottom:2px}
-.tri-stat-num{font-family:var(--f-head);font-size:clamp(2.8rem,9vw,5rem);line-height:1;display:block}
+.splash-tri-stats{display:flex;flex-direction:column;align-items:center;gap:18px;margin-bottom:24px}
+.tri-stat-item{text-align:center;line-height:1.3}
+.tri-stat-label{font-family:var(--f-mono);font-size:clamp(.75rem,2vw,1rem);letter-spacing:2px;opacity:.85;margin-bottom:4px}
+.tri-stat-num{font-family:var(--f-head);font-size:clamp(1.8rem,6vw,3rem);line-height:1;display:block}
 .tri-stat-num.tri-sudden{color:#ff6b35;text-shadow:0 0 60px rgba(255,107,53,.4)}
 .tri-stat-num.tri-faint{color:#ffae00;text-shadow:0 0 60px rgba(255,174,0,.4)}
 .tri-stat-num.tri-suicide{color:#a855f7;text-shadow:0 0 60px rgba(168,85,247,.4)}
@@ -585,8 +585,15 @@ function getTitleColor(t){
 }
 // Each counter is independent: a title matching multiple categories increments all counters (intentional)
 function updateTriStats(events){
+  // 找到最新一天的日期
+  var dates={};
+  events.forEach(function(e){dates[e.date]=(dates[e.date]||0)+1});
+  var sorted=Object.keys(dates).sort().reverse();
+  var latestDate=sorted[0]||'';
+  // 只統計最新一天
+  var dayEvents=events.filter(function(e){return e.date===latestDate});
   var sc=0,fc=0,suc=0;
-  events.forEach(function(e){
+  dayEvents.forEach(function(e){
     var t=e.title||'';
     if(matchesKwList(t,TRI_SUDDEN_KW))sc++;
     if(matchesKwList(t,TRI_FAINT_KW))fc++;
