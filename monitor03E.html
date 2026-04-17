@@ -125,6 +125,8 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 .filter-select option{background:#0a0f14;color:#fff}
 .btn-reset{background:rgba(255,42,42,.15);border:1px solid rgba(255,42,42,.4);color:#ff8888;padding:8px 12px;font-family:var(--f-mono);font-size:10px;cursor:pointer;border-radius:4px;transition:all .3s;white-space:nowrap}
 .btn-reset:hover{background:var(--c-fatal);color:#fff}
+.quick-tag{background:rgba(255,107,53,.15);border:1px solid rgba(255,107,53,.4);color:#ffcba4;padding:8px 14px;font-family:var(--f-mono);font-size:12px;cursor:pointer;border-radius:20px;transition:all .3s;white-space:nowrap}
+.quick-tag:hover{background:var(--c-sudden);color:#fff;box-shadow:0 0 15px var(--c-sudden)}
 .filter-summary{width:100%;font-size:10px;color:#666;font-family:var(--f-mono);padding-top:4px}
 
 /* ===== Log Stream ===== */
@@ -411,6 +413,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <select id="month-filter" class="filter-select" onchange="filterEvents()"><option value="">全部月份</option></select>
 <input type="number" id="age-filter" placeholder="±5歲" min="1" max="120">
 <button class="btn-reset" onclick="resetFilters()">🔄 重設</button>
+<button class="quick-tag" onclick="document.getElementById('search-input').value='猝死';filterEvents()">💔 猝死</button>
 <div class="filter-summary" id="filter-summary"></div>
 </div>
 <div id="log-stream"></div>
