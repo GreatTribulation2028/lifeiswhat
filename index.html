@@ -185,11 +185,22 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .sudden-date{font-family:var(--f-mono);font-size:13px;color:rgba(255,255,255,.38);line-height:1.6;padding-top:3px}
 .sudden-link,.sudden-title{
   font-family:var(--f-zh);
-  font-size:16px;
+  font-size:18px;
   line-height:1.85;
   color:rgba(245,247,251,.9);
   font-weight:650
 }
+/* Three independent stats: 猝死 / 暈倒 / 自殺 */
+.splash-tri-stats{display:flex;flex-direction:column;align-items:center;gap:6px;margin-bottom:20px}
+.tri-stat-item{text-align:center;line-height:1.2}
+.tri-stat-label{font-family:var(--f-mono);font-size:clamp(.9rem,2.8vw,1.3rem);letter-spacing:2px;opacity:.85;margin-bottom:2px}
+.tri-stat-num{font-family:var(--f-head);font-size:clamp(2.8rem,9vw,5rem);line-height:1;display:block}
+.tri-stat-num.tri-sudden{color:#ff6b35;text-shadow:0 0 60px rgba(255,107,53,.4)}
+.tri-stat-num.tri-faint{color:#ffae00;text-shadow:0 0 60px rgba(255,174,0,.4)}
+.tri-stat-num.tri-suicide{color:#a855f7;text-shadow:0 0 60px rgba(168,85,247,.4)}
+.tri-stat-label.tri-sudden-lbl{color:#ff8a5c}
+.tri-stat-label.tri-faint-lbl{color:#ffc040}
+.tri-stat-label.tri-suicide-lbl{color:#c084fc}
 .sudden-link{display:inline-block}
 .sudden-link:hover{color:#fff;text-shadow:0 0 10px rgba(0,180,216,.25)}
 .sudden-item:hover{background:rgba(78,168,222,.06)}
@@ -225,6 +236,21 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <section class="main-splash" id="splash">
 
 
+<!-- 三大獨立統計：猝死 / 暈倒昏迷 / 自殺 -->
+<div class="splash-tri-stats" id="tri-stats">
+  <div class="tri-stat-item">
+    <div class="tri-stat-label tri-sudden-lbl">💔 猝死</div>
+    <div class="tri-stat-num tri-sudden" id="tri-sudden">—</div>
+  </div>
+  <div class="tri-stat-item">
+    <div class="tri-stat-label tri-faint-lbl">⚠️ 暈倒 / 昏迷</div>
+    <div class="tri-stat-num tri-faint" id="tri-faint">—</div>
+  </div>
+  <div class="tri-stat-item">
+    <div class="tri-stat-label tri-suicide-lbl">🕊️ 自殺</div>
+    <div class="tri-stat-num tri-suicide" id="tri-suicide">—</div>
+  </div>
+</div>
 <div class="splash-recent" id="recent-days"></div>
 <div class="splash-global">你打開後，全球已有 <span class="sgv" id="dc-since-sub">0</span> 人離世</div>
 <div class="splash-refs">
@@ -545,6 +571,31 @@ Chart.defaults.color='#8899aa';Chart.defaults.font.family='"Share Tech Mono",mon
 mChart=new Chart(cv.getContext('2d'),{type:'line',data:{labels:labels,datasets:[{data:values,borderColor:'rgba(78,168,222,.7)',backgroundColor:'rgba(78,168,222,.08)',borderWidth:1.5,pointRadius:1.5,pointHoverRadius:4,fill:true,tension:0.3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{maxTicksLimit:6,font:{size:11}}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.04)'}}}}}); 
 }
 /* Splash: scrollable list of SUDDEN records (latest day first; scroll to see older) */
+/* Keywords for title color-coding (independent of hitIndexTitle) */
+var TRI_SUDDEN_KW=['猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝','暈倒不治','昏倒不治','倒地不治','送院不治'];
+var TRI_FAINT_KW=['暈倒','昏迷','昏倒','暈厥','倒地','命危','危殆'];
+var TRI_SUICIDE_KW=['自殺','輕生','尋短','墮樓','跳樓','燒炭','上吊','割腕','自縊','投河','跳橋','跳軌','自盡','自焚','吊頸'];
+function matchesKwList(t,kwList){return kwList.some(function(k){return t.includes(k)})}
+// Priority order for color: 猝死 > 暈倒 > 自殺 > default
+function getTitleColor(t){
+  if(matchesKwList(t,TRI_SUDDEN_KW))return '#ff6b35';
+  if(matchesKwList(t,TRI_FAINT_KW))return '#ffae00';
+  if(matchesKwList(t,TRI_SUICIDE_KW))return '#a855f7';
+  return '';
+}
+// Each counter is independent: a title matching multiple categories increments all counters (intentional)
+function updateTriStats(events){
+  var sc=0,fc=0,suc=0;
+  events.forEach(function(e){
+    var t=e.title||'';
+    if(matchesKwList(t,TRI_SUDDEN_KW))sc++;
+    if(matchesKwList(t,TRI_FAINT_KW))fc++;
+    if(matchesKwList(t,TRI_SUICIDE_KW))suc++;
+  });
+  var el1=document.getElementById('tri-sudden');if(el1)el1.textContent=sc.toLocaleString();
+  var el2=document.getElementById('tri-faint');if(el2)el2.textContent=fc.toLocaleString();
+  var el3=document.getElementById('tri-suicide');if(el3)el3.textContent=suc.toLocaleString();
+}
 function renderSuddenList(events){
 var box=document.getElementById('sudden-list');
 if(!box)return;
@@ -569,7 +620,9 @@ var e=arr[j];
 var title=(e.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 var url=(e.url||'').trim();
 var dateShort=(e.date||'').slice(5); // MM-DD
-var tHtml=url?('<a class="sudden-link" href="'+url+'" target="_blank" rel="noopener">'+title+'</a>'):('<span class="sudden-title">'+title+'</span>');
+var titleColor=getTitleColor(e.title||'');
+var colorAttr=titleColor?' style="color:'+titleColor+'"':'';
+var tHtml=url?('<a class="sudden-link"'+colorAttr+' href="'+url+'" target="_blank" rel="noopener">'+title+'</a>'):('<span class="sudden-title"'+colorAttr+'>'+title+'</span>');
 html+='<div class="sudden-item"><div class="sudden-date">'+dateShort+'</div><div>'+tHtml+'</div></div>';
 }
 html+='</div>';
@@ -683,6 +736,7 @@ var _t=new Date();var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).pad
 function renderAll(events){
 indexEvents=events.filter(function(e){return hitIndexTitle(e.title)});
 try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
+try{updateTriStats(indexEvents)}catch(e){console.error('TriStats',e)}
 try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
 // 注意：index 不顯示其他分類統計，因此不呼叫 renderCatBars
 try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
