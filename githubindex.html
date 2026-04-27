@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>STILL ALIVE? — 還活著嗎？</title>
+<meta name="description" content="在你讀這句話的時間裡，有人永遠停止了呼吸。你還活著。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700;900&family=Noto+Serif+TC:wght@400;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Jura:wght@400;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+/* ── Variables ── */
+:root{
+  --bg:#060a12;--bg2:#0a1020;
+  --accent:#4ea8de;--glow:#00b4d8;
+  --gold:#d4a953;--pulse:#e63946;
+  --text:#d7e0ee;--text-dim:#93a4bd;--text-bright:#f7fbff;
+  --text-faint:rgba(215,224,238,.55);
+  --card:rgba(10,18,36,.88);--card-border:rgba(78,168,222,.12);
+  --f-head:'Orbitron',sans-serif;
+  --f-mono:'Share Tech Mono',monospace;
+  --f-body:'Jura','Noto Sans TC',sans-serif;
+  --f-zh:'Noto Sans TC',sans-serif;
+  --f-serif:'Noto Serif TC',serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;scrollbar-width:none}
+html::-webkit-scrollbar{display:none}
+body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:18px;line-height:2;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none;transition:all .3s}
+a:hover{color:#fff;text-shadow:0 0 10px var(--glow)}
+
+/* ── Particle BG ── */
+#bg-canvas{position:fixed;inset:0;z-index:0;pointer-events:none}
+#scroll-progress{position:fixed;top:0;left:0;height:2px;background:linear-gradient(90deg,var(--accent),var(--gold));z-index:9999;width:0%;transition:width .1s}
+
+/* ── Top Bar (simplified) ── */
+.top-bar{
+  position:fixed;top:2px;left:0;right:0;height:44px;z-index:1000;
+  background:rgba(6,10,18,.92);backdrop-filter:blur(12px);
+  display:flex;align-items:center;justify-content:space-between;padding:0 20px;
+  border-bottom:1px solid rgba(78,168,222,.08)
+}
+.tb-counter{font-family:var(--f-mono);font-size:13px;color:var(--text-dim);display:flex;align-items:center;gap:6px}
+.tb-counter .cv{color:var(--pulse);font-family:var(--f-head);font-size:15px}
+.tb-link{font-size:11px;color:var(--text-dim);padding:4px 12px;border:1px solid rgba(255,255,255,.08);border-radius:20px;transition:all .3s}
+.tb-link:hover{border-color:var(--accent);color:var(--accent)}
+
+/* ── Hero ── */
+.hero{
+  position:relative;z-index:1;min-height:100vh;min-height:100svh;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-align:center;padding:70px 24px 60px
+}
+.hero-kicker{font-family:var(--f-mono);font-size:12px;color:rgba(212,169,83,.7);letter-spacing:4px;margin-bottom:14px}
+.hero-death{
+  font-family:var(--f-head);font-size:clamp(4rem,16vw,9rem);
+  color:var(--pulse);line-height:1;
+  text-shadow:0 0 80px rgba(230,57,70,.4),0 0 160px rgba(230,57,70,.12)
+}
+.hero-label{font-family:var(--f-zh);font-size:clamp(.9rem,2.5vw,1.1rem);color:var(--text-dim);margin:12px 0 0;letter-spacing:1px}
+.hero-since{font-family:var(--f-mono);font-size:13px;color:var(--text-faint);margin-top:6px}
+.hero-divider{width:60px;height:1px;background:linear-gradient(90deg,transparent,var(--accent),transparent);margin:36px auto}
+
+/* Three stats */
+.tri-stats{display:flex;gap:28px;justify-content:center;flex-wrap:wrap;margin-bottom:36px}
+.tri-item{text-align:center}
+.tri-lbl{font-family:var(--f-mono);font-size:11px;letter-spacing:2px;margin-bottom:4px;opacity:.8}
+.tri-val{font-family:var(--f-head);font-size:clamp(1.6rem,5vw,2.6rem);line-height:1}
+.tri-val.sudden{color:#ff6b35;text-shadow:0 0 40px rgba(255,107,53,.3)}
+.tri-val.faint{color:#ffae00;text-shadow:0 0 40px rgba(255,174,0,.3)}
+.tri-val.suicide{color:#a855f7;text-shadow:0 0 40px rgba(168,85,247,.3)}
+.tri-lbl.sudden-l{color:#ff8a5c}
+.tri-lbl.faint-l{color:#ffc040}
+.tri-lbl.suicide-l{color:#c084fc}
+
+/* News Box */
+.news-box{
+  width:min(760px,100%);margin:0 auto;
+  background:linear-gradient(180deg,rgba(10,18,36,.85),rgba(6,10,18,.78));
+  border:1px solid rgba(78,168,222,.2);border-radius:18px;
+  box-shadow:0 20px 70px rgba(0,0,0,.45),0 0 40px rgba(78,168,222,.06);
+  backdrop-filter:blur(14px)
+}
+.news-box-hd{
+  display:flex;align-items:center;justify-content:space-between;
+  font-family:var(--f-mono);font-size:13px;letter-spacing:2px;
+  color:rgba(212,169,83,.9);padding:16px 22px 14px;
+  border-bottom:1px solid rgba(212,169,83,.1)
+}
+.news-box-hd .hint{color:rgba(255,255,255,.28);font-size:11px}
+.news-scroll{height:340px;overflow:auto;padding:4px 12px 8px;
+  scrollbar-width:thin;scrollbar-color:rgba(78,168,222,.25) transparent;
+  overscroll-behavior:contain
+}
+.news-day-h{
+  font-family:var(--f-mono);font-size:12px;color:rgba(212,169,83,.55);
+  letter-spacing:1px;padding:10px 8px 8px;
+  position:sticky;top:0;background:rgba(8,12,22,.96);backdrop-filter:blur(8px);
+  border-bottom:1px solid rgba(78,168,222,.08)
+}
+.news-item{
+  display:grid;grid-template-columns:64px 1fr;gap:14px;
+  padding:12px 8px;border-bottom:1px solid rgba(255,255,255,.05);
+  border-radius:6px;transition:background .2s
+}
+.news-item:last-child{border-bottom:none}
+.news-item:hover{background:rgba(78,168,222,.06)}
+.news-date{font-family:var(--f-mono);font-size:12px;color:rgba(255,255,255,.32);line-height:1.6;padding-top:3px}
+.news-link,.news-title{font-family:var(--f-zh);font-size:16px;line-height:1.8;color:rgba(245,247,251,.88);font-weight:600}
+.news-link:hover{color:#fff;text-shadow:0 0 8px rgba(78,168,222,.3)}
+.hero-scroll{
+  margin-top:44px;font-family:var(--f-mono);font-size:11px;
+  color:rgba(255,255,255,.22);animation:breathe 3s ease-in-out infinite;cursor:pointer
+}
+@keyframes breathe{0%,100%{opacity:.22;transform:translateY(0)}50%{opacity:.55;transform:translateY(6px)}}
+
+/* ── Life Section ── */
+.section{position:relative;z-index:1;max-width:680px;margin:0 auto;padding:90px 24px}
+.s-tag{font-family:var(--f-mono);font-size:11px;color:var(--accent);letter-spacing:4px;text-transform:uppercase;margin-bottom:8px;opacity:.7}
+.s-head{font-family:var(--f-zh);font-size:clamp(1.3rem,4vw,2rem);font-weight:900;color:var(--text-bright);margin-bottom:28px;line-height:1.6}
+.life-controls{display:flex;align-items:center;justify-content:center;gap:18px;margin-bottom:20px;flex-wrap:wrap}
+.age-num-wrap{display:flex;align-items:center;gap:8px}
+.age-lbl{font-family:var(--f-zh);font-size:.85rem;color:var(--text-dim)}
+.age-unit{font-family:var(--f-zh);font-size:1.1rem;color:var(--text-dim)}
+#age-slider{-webkit-appearance:none;width:55%;max-width:300px;height:6px;background:rgba(255,255,255,.08);border-radius:3px;outline:none;cursor:pointer}
+#age-slider::-webkit-slider-thumb{-webkit-appearance:none;width:22px;height:22px;background:var(--accent);border-radius:50%;cursor:pointer;box-shadow:0 0 14px rgba(78,168,222,.4)}
+#age-input{width:76px;background:rgba(255,255,255,.1);border:2px solid rgba(78,168,222,.45);border-radius:10px;color:#fff;font-family:var(--f-head);font-size:1.5rem;text-align:center;padding:9px 6px;outline:none;transition:border-color .3s}
+#age-input:focus{border-color:var(--accent)}
+.life-bar-wrap{margin-top:24px}
+.life-bar-labels{display:flex;justify-content:space-between;font-family:var(--f-mono);font-size:12px;color:var(--text-dim);margin-bottom:6px}
+.life-bar-track{height:8px;background:rgba(255,255,255,.05);border-radius:4px;overflow:hidden}
+.life-bar-fill{height:100%;border-radius:4px;transition:width .5s;background:linear-gradient(90deg,var(--accent) 0%,var(--gold) 60%,var(--pulse) 100%)}
+.peer-box{
+  background:linear-gradient(135deg,rgba(212,169,83,.07),rgba(10,16,32,.95));
+  border:1px solid rgba(212,169,83,.14);border-radius:16px;
+  padding:32px 24px;text-align:center;margin-top:36px
+}
+.peer-big{font-family:var(--f-head);font-size:clamp(2rem,6vw,3rem);color:var(--gold);text-shadow:0 0 30px rgba(212,169,83,.2)}
+.peer-text{font-family:var(--f-zh);font-size:.95rem;color:var(--text);margin-top:10px;line-height:2}
+
+/* ── Stats Bar Chart ── */
+.stats-wrap{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:24px 20px;margin-top:24px}
+.stats-toggle{display:flex;justify-content:center;gap:8px;margin-bottom:14px}
+.stats-toggle button{font-family:var(--f-mono);font-size:13px;color:var(--text-dim);background:transparent;border:1px solid rgba(255,255,255,.1);border-radius:20px;padding:7px 20px;cursor:pointer;transition:all .3s}
+.stats-toggle button.active{color:var(--pulse);border-color:var(--pulse);background:rgba(230,57,70,.07)}
+.stats-toggle button:hover{border-color:var(--accent);color:var(--accent)}
+.stats-sum-num{font-family:var(--f-head);font-size:clamp(2.4rem,8vw,4rem);color:var(--pulse);text-shadow:0 0 50px rgba(230,57,70,.35);text-align:center;margin-bottom:4px}
+.stats-sum-lbl{font-family:var(--f-zh);font-size:1rem;color:var(--text-dim);text-align:center;margin-bottom:16px}
+.stats-chart{max-height:260px}
+
+/* ── Single CTA ── */
+.cta-wrap{position:relative;z-index:1;padding:60px 24px 120px;text-align:center}
+.cta-lead{font-family:var(--f-zh);font-size:clamp(1.5rem,5vw,2.2rem);font-weight:900;color:var(--text-bright);line-height:2;margin-bottom:40px}
+.cta-main{
+  display:inline-flex;align-items:center;gap:16px;
+  background:linear-gradient(135deg,rgba(78,168,222,.12),rgba(0,180,216,.06));
+  border:1px solid rgba(78,168,222,.35);border-radius:16px;
+  padding:24px 36px;cursor:pointer;text-decoration:none;
+  transition:all .4s;max-width:480px;width:100%
+}
+.cta-main:hover{border-color:var(--accent);box-shadow:0 16px 50px rgba(0,180,216,.12);transform:translateY(-4px)}
+.cta-icon{font-size:2.2rem;flex-shrink:0}
+.cta-body{flex:1;text-align:left}
+.cta-title{font-family:var(--f-zh);font-size:1.1rem;color:var(--text-bright);font-weight:700}
+.cta-desc{font-family:var(--f-zh);font-size:.85rem;color:var(--text-dim);margin-top:4px}
+.cta-arrow{font-family:var(--f-mono);font-size:18px;color:var(--accent)}
+
+/* ── Footer ── */
+.footer{
+  position:relative;z-index:1;text-align:center;
+  padding:24px 24px 70px;border-top:1px solid rgba(78,168,222,.06);
+  font-family:var(--f-mono);font-size:12px;color:rgba(255,255,255,.2)
+}
+.footer p{margin-bottom:4px}
+#bottom-bar{
+  position:fixed;bottom:0;left:0;right:0;height:32px;z-index:999;
+  background:rgba(6,10,18,.97);border-top:1px solid rgba(78,168,222,.08);
+  display:flex;align-items:center;justify-content:center;
+  font-family:var(--f-mono);font-size:12px;color:var(--text-dim)
+}
+#bottom-bar b{color:var(--pulse);font-family:var(--f-head);margin:0 3px}
+
+/* Fade-in */
+.fade-in{opacity:0;transform:translateY(28px);transition:opacity .8s ease,transform .8s ease}
+.fade-in.visible{opacity:1;transform:none}
+
+/* Back-to-top */
+#btt{position:fixed;bottom:42px;right:16px;z-index:1200;width:40px;height:40px;border-radius:50%;background:rgba(78,168,222,.1);border:1px solid rgba(78,168,222,.22);color:var(--accent);font-size:15px;cursor:pointer;display:none;align-items:center;justify-content:center;transition:all .3s;backdrop-filter:blur(8px)}
+#btt:hover{background:var(--accent);color:#000}
+#btt.show{display:flex}
+
+@media(max-width:600px){
+  .tri-stats{gap:16px}
+  .life-controls{flex-direction:column;gap:12px}
+  #age-slider{width:80%}
+  .cta-main{padding:18px 24px}
+}
+</style>
+</head>
+<body>
+<canvas id="bg-canvas"></canvas>
+<div id="scroll-progress"></div>
+
+<!-- TOP BAR -->
+<nav class="top-bar">
+  <div class="tb-counter">進入後全球已有 <span class="cv" id="dc">0</span> 人離世</div>
+  <a class="tb-link" href="githubmonitor.html">生死記錄儀 →</a>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="hero">
+  <div class="hero-kicker">TODAY'S SUDDEN DEATH NEWS</div>
+
+  <!-- 三大統計 -->
+  <div class="tri-stats">
+    <div class="tri-item">
+      <div class="tri-lbl sudden-l">💔 猝死</div>
+      <div class="tri-val sudden" id="tri-sudden">—</div>
+    </div>
+    <div class="tri-item">
+      <div class="tri-lbl faint-l">⚠️ 暈倒昏迷</div>
+      <div class="tri-val faint" id="tri-faint">—</div>
+    </div>
+    <div class="tri-item">
+      <div class="tri-lbl suicide-l">🕊️ 自殺</div>
+      <div class="tri-val suicide" id="tri-suicide">—</div>
+    </div>
+  </div>
+
+  <!-- 最新一天死亡相關頭條 -->
+  <div class="news-box">
+    <div class="news-box-hd">最新死亡相關新聞 <span class="hint">↕ 向下滑查看更早</span></div>
+    <div class="news-scroll" id="news-scroll">
+      <div style="text-align:center;padding:60px 0;font-family:var(--f-mono);font-size:14px;color:rgba(255,255,255,.3);animation:breathe 1.5s ease-in-out infinite">⏳ 載入中…</div>
+    </div>
+  </div>
+
+  <div class="hero-scroll" onclick="document.getElementById('sec-life').scrollIntoView({behavior:'smooth'})">▼</div>
+</section>
+
+<!-- LIFE SECTION -->
+<div class="section fade-in" id="sec-life">
+  <div class="s-tag">YOUR LIFE</div>
+  <div class="s-head">你還剩多少時間？</div>
+  <div class="life-controls">
+    <input type="range" id="age-slider" min="1" max="100" value="30">
+    <div class="age-num-wrap">
+      <span class="age-lbl">年齡</span>
+      <input type="text" inputmode="numeric" id="age-input" value="30" maxlength="3">
+      <span class="age-unit">歲</span>
+    </div>
+  </div>
+  <div class="life-bar-wrap">
+    <div class="life-bar-labels"><span>出生</span><span id="d-pct">37.5% 已消耗</span><span>80 歲</span></div>
+    <div class="life-bar-track"><div class="life-bar-fill" id="d-bar" style="width:37.5%"></div></div>
+  </div>
+  <div class="peer-box">
+    <div style="font-size:.85rem;color:var(--text-dim);margin-bottom:6px"><span id="p-range">25-35</span> 歲</div>
+    <div class="peer-big" id="p-deaths">—</div>
+    <div class="peer-text">本港新聞記錄中，同齡（±5年）死亡相關個案<br>
+      上月 <strong id="p-lm" style="color:var(--gold)">—</strong> 宗 · 上年 <strong id="p-ly" style="color:var(--gold)">—</strong> 宗
+    </div>
+  </div>
+</div>
+
+<!-- STATS SECTION -->
+<div class="section fade-in" id="sec-stats" style="padding-top:0">
+  <div class="stats-wrap">
+    <div class="stats-toggle">
+      <button class="active" onclick="setDays(7)">7 天</button>
+      <button onclick="setDays(14)">14 天</button>
+      <button onclick="setDays(30)">30 天</button>
+    </div>
+    <div class="stats-sum-num" id="ss-num">—</div>
+    <div class="stats-sum-lbl" id="ss-lbl">過去 7 天死亡相關新聞</div>
+    <canvas id="stats-chart" class="stats-chart"></canvas>
+  </div>
+</div>
+
+<!-- SINGLE CTA -->
+<div class="cta-wrap fade-in">
+  <div class="cta-lead">記錄的，不只是數字<br>是一份對人的記念</div>
+  <a class="cta-main" href="githubmonitor.html">
+    <div class="cta-icon">📡</div>
+    <div class="cta-body">
+      <div class="cta-title">進入生死記錄儀</div>
+      <div class="cta-desc">完整記錄 · 每日更新 · 2021 年至今</div>
+    </div>
+    <div class="cta-arrow">→</div>
+  </a>
+</div>
+
+<div class="footer">
+  <p style="font-family:var(--f-zh);font-size:13px;color:rgba(255,255,255,.28);margin-bottom:10px">數據來源：WHO · UN Population Division · 本港新聞公開報道</p>
+  STILL ALIVE © <script>document.write(new Date().getFullYear())</script>
+</div>
+<button id="btt" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">▲</button>
+<div id="bottom-bar">每秒約 <b>2</b> 人離開 · 每天約 <b>172,000</b> 人</div>
+
+<script>
+// ── Constants ──
+var DPS=2.0, entryTime=Date.now();
+var allEvents=[], statsDays=7, statsChartInst=null, ageChartInst=null;
+
+// ── Death counter ──
+function tickDC(){
+  var n=Math.floor((Date.now()-entryTime)/1000*DPS);
+  var el=document.getElementById('dc');
+  if(el)el.textContent=n.toLocaleString();
+  requestAnimationFrame(tickDC);
+}
+
+// ── Scroll progress ──
+window.addEventListener('scroll',function(){
+  var h=document.documentElement.scrollHeight-innerHeight;
+  document.getElementById('scroll-progress').style.width=(scrollY/h*100)+'%';
+  var b=document.getElementById('btt');if(b)b.classList.toggle('show',scrollY>400);
+});
+
+// ── Fade-in ──
+var obs=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting)e.target.classList.add('visible')})},{threshold:.12});
+document.querySelectorAll('.fade-in').forEach(function(el){obs.observe(el)});
+
+// ── Age inputs ──
+var slider=document.getElementById('age-slider'), ageInp=document.getElementById('age-input');
+slider.addEventListener('input',function(){ageInp.value=slider.value;calcLife()});
+ageInp.addEventListener('input',function(){var v=parseInt(ageInp.value.replace(/\D/g,''));if(isNaN(v)||v<1)return;if(v>100)v=100;slider.value=v;calcLife()});
+ageInp.addEventListener('change',function(){var v=parseInt(ageInp.value)||30;if(v<1)v=1;if(v>100)v=100;ageInp.value=v;slider.value=v;calcLife()});
+ageInp.addEventListener('focus',function(){ageInp.select()});
+
+function calcLife(){
+  var age=parseInt(slider.value)||30;
+  var pct=((age/80)*100).toFixed(1);
+  document.getElementById('d-pct').textContent=Math.min(100,pct)+'% 已消耗';
+  document.getElementById('d-bar').style.width=Math.min(100,pct)+'%';
+  if(allEvents.length){updatePeer(age)}
+}
+
+// ── Keyword sets ──
+var KW_SUDDEN=['猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝','心臟驟停','OHCA','到院前死亡'];
+var KW_FAINT=['暈倒','昏迷','昏倒','暈厥','倒地','命危','危殆'];
+var KW_SUICIDE=['自殺','輕生','尋短','墮樓','跳樓','燒炭','上吊','割腕','自縊','投河','跳橋','跳軌','自盡'];
+var KW_DEATH=['死亡','身亡','不治','離世','倒斃','喪生','罹難','遇難','殉職','送院不治','傷重不治'];
+
+function hasAny(t,kws){return kws.some(function(k){return t.includes(k)})}
+function isDeathNews(t){return hasAny(t,KW_DEATH)||hasAny(t,KW_SUDDEN)}
+
+// ── Tri-stats for latest day ──
+function updateTriStats(events){
+  var dates={};
+  events.forEach(function(e){if(isDeathNews(e.title))dates[e.date]=(dates[e.date]||0)+1});
+  var latestDay=Object.keys(dates).sort().reverse()[0]||'';
+  var dayEvs=events.filter(function(e){return e.date===latestDay&&isDeathNews(e.title)});
+  var sc=0,fc=0,su=0;
+  dayEvs.forEach(function(e){
+    var t=e.title||'';
+    if(hasAny(t,KW_SUDDEN))sc++;
+    if(hasAny(t,KW_FAINT))fc++;
+    if(hasAny(t,KW_SUICIDE))su++;
+  });
+  var e1=document.getElementById('tri-sudden');if(e1)e1.textContent=sc;
+  var e2=document.getElementById('tri-faint');if(e2)e2.textContent=fc;
+  var e3=document.getElementById('tri-suicide');if(e3)e3.textContent=su;
+}
+
+// ── News list ──
+function getTitleColor(t){
+  if(hasAny(t,KW_SUDDEN))return'#ff6b35';
+  if(hasAny(t,KW_FAINT))return'#ffae00';
+  if(hasAny(t,KW_SUICIDE))return'#a855f7';
+  return'';
+}
+function renderNewsList(events){
+  var box=document.getElementById('news-scroll');
+  if(!box)return;
+  var filtered=events.filter(function(e){return isDeathNews(e.title)});
+  if(!filtered.length){box.innerHTML='<div style="text-align:center;padding:40px;color:rgba(255,255,255,.3)">暫無記錄</div>';return;}
+  var groups={};
+  filtered.forEach(function(e){if(!groups[e.date])groups[e.date]=[];groups[e.date].push(e)});
+  var dates=Object.keys(groups).sort().reverse();
+  var html='';
+  dates.forEach(function(d){
+    html+='<div class="news-day-h">'+d+'</div>';
+    groups[d].forEach(function(e){
+      var title=(e.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+      var url=(e.url||'').trim();
+      var col=getTitleColor(e.title||'');
+      var cs=col?' style="color:'+col+'"':'';
+      var ds=(e.date||'').slice(5);
+      var inner=url
+        ?('<a class="news-link"'+cs+' href="'+url+'" target="_blank" rel="noopener">'+title+'</a>')
+        :('<span class="news-title"'+cs+'>'+title+'</span>');
+      html+='<div class="news-item"><div class="news-date">'+ds+'</div><div>'+inner+'</div></div>';
+    });
+  });
+  box.innerHTML=html;
+}
+
+// ── Peer ──
+function updatePeer(age){
+  var aged=allEvents.filter(function(e){return isDeathNews(e.title)&&e.age&&e.age>0});
+  var range=aged.filter(function(e){return Math.abs(e.age-age)<=5});
+  var now=new Date();
+  var lm=new Date(now.getFullYear(),now.getMonth()-1,1).toISOString().slice(0,7);
+  var ly=String(now.getFullYear()-1);
+  var lmc=range.filter(function(e){return e.date.startsWith(lm)}).length;
+  var lyc=range.filter(function(e){return e.date.slice(0,4)===ly}).length;
+  var lo=Math.max(1,age-5),hi=age+5;
+  document.getElementById('p-range').textContent=lo+'-'+hi;
+  document.getElementById('p-deaths').textContent=range.length.toLocaleString();
+  var plm=document.getElementById('p-lm');if(plm)plm.textContent=lmc;
+  var ply=document.getElementById('p-ly');if(ply)ply.textContent=lyc;
+}
+
+// ── Stats bar chart ──
+function setDays(d){
+  statsDays=d;
+  document.querySelectorAll('.stats-toggle button').forEach(function(b){b.classList.toggle('active',parseInt(b.textContent)===d)});
+  if(allEvents.length)renderStats();
+}
+function renderStats(){
+  var cv=document.getElementById('stats-chart');if(!cv)return;
+  var now=new Date(), days=[];
+  for(var i=statsDays-1;i>=0;i--){var d=new Date(now);d.setDate(d.getDate()-i);days.push(d.toISOString().slice(0,10))}
+  var counts=days.map(function(d){return allEvents.filter(function(e){return e.date===d&&isDeathNews(e.title)}).length});
+  var total=counts.reduce(function(a,b){return a+b},0);
+  document.getElementById('ss-num').textContent=total;
+  document.getElementById('ss-lbl').textContent='過去 '+statsDays+' 天死亡相關新聞';
+  var labels=days.map(function(d){var p=d.split('-');return parseInt(p[1])+'/'+parseInt(p[2])});
+  if(statsChartInst)statsChartInst.destroy();
+  Chart.defaults.color='#8899aa';Chart.defaults.font.family='"Share Tech Mono",monospace';Chart.defaults.font.size=11;
+  statsChartInst=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:labels,datasets:[{data:counts,backgroundColor:'rgba(230,57,70,.6)',hoverBackgroundColor:'rgba(230,57,70,.85)',borderWidth:0,borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{maxRotation:45,color:'#8899aa'}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.04)'},ticks:{stepSize:1,color:'#8899aa'}}}}});
+}
+
+// ── Particle BG ──
+(function(){
+  var c=document.getElementById('bg-canvas'),ctx=c.getContext('2d');var W,H,ps=[];
+  function resize(){W=c.width=innerWidth;H=c.height=innerHeight;ps=[];var n=Math.min(30,Math.floor(W*H/45000));for(var i=0;i<n;i++)ps.push({x:Math.random()*W,y:Math.random()*H,r:.3+Math.random()*1,dx:(Math.random()-.5)*.12,dy:(Math.random()-.5)*.08,a:.04+Math.random()*.12})}
+  addEventListener('resize',resize);resize();
+  function draw(){ctx.clearRect(0,0,W,H);ps.forEach(function(p){p.x+=p.dx;p.y+=p.dy;if(p.x<0)p.x=W;if(p.x>W)p.x=0;if(p.y<0)p.y=H;if(p.y>H)p.y=0;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fillStyle='rgba(78,168,222,'+p.a+')';ctx.fill()});for(var i=0;i<ps.length;i++)for(var j=i+1;j<ps.length;j++){var dx=ps[i].x-ps[j].x,dy=ps[i].y-ps[j].y,dist=Math.sqrt(dx*dx+dy*dy);if(dist<110){ctx.beginPath();ctx.moveTo(ps[i].x,ps[i].y);ctx.lineTo(ps[j].x,ps[j].y);ctx.strokeStyle='rgba(78,168,222,'+(0.02*(1-dist/110))+')';ctx.stroke()}}requestAnimationFrame(draw)}draw();
+})();
+
+// ── Data loading (same as index.html) ──
+function safeDecode(s){try{return decodeURIComponent((s||'').replace(/\+/g,' '))}catch(e){return s||''}}
+function extractAge(t){var ps=[/(\d{1,3})\s*歲/,/(\d{1,2})旬/,/年約\s*(\d{1,3})/];for(var i=0;i<ps.length;i++){var m=(t||'').match(ps[i]);if(m){var a=parseInt(m[1]);if(a>0&&a<150)return a}}return null}
+function parseData(raw){
+  var text=(raw||'').replace(/<(https?:\/\/[^>]+)>/g,'$1');
+  var lines=text.split(/\r?\n/).filter(function(l){return l.trim()}),events=[];
+  for(var i=0;i<lines.length;i++){
+    var line=lines[i];if(/^日期/.test(line.trim()))continue;
+    var t=safeDecode(line),parts=t.split('\t');if(parts.length<3)parts=t.split('|');if(parts.length<3)parts=t.split(/\s{2,}/);if(parts.length<2)continue;
+    var ds=parts[0].trim().replace(/[\[\]]/g,'');
+    var url=parts.find(function(p){return /^https?:\/\//i.test((p||'').trim())})||'';
+    var title=parts.filter(function(p){return p!==parts[0]&&p!==url}).map(safeDecode).join(' ').trim();
+    if(!ds||!title)continue;
+    var dp=ds.split(/[\/\-]/).map(function(x){return x.trim()});if(dp.length!==3)continue;
+    var y,mo,d;if(dp[0].length===4){y=dp[0];mo=dp[1];d=dp[2]}else if(dp[2].length===4){y=dp[2];mo=dp[1];d=dp[0]}else{y='20'+dp[0].padStart(2,'0');mo=dp[1];d=dp[2]}
+    ds=String(y).padStart(4,'0')+'-'+String(mo).padStart(2,'0')+'-'+String(d).padStart(2,'0');
+    if(Number.isNaN(new Date(ds).getTime()))continue;
+    events.push({date:ds,url:url,title:title,age:extractAge(title)});
+  }
+  var seen={};return events.filter(function(e){var k=e.date+'||'+e.title;if(seen[k])return false;seen[k]=true;return true}).sort(function(a,b){return new Date(b.date)-new Date(a.date)});
+}
+function renderAll(events){
+  allEvents=events;
+  updateTriStats(events);
+  renderNewsList(events);
+  renderStats();
+  var age=parseInt(slider.value)||30;
+  updatePeer(age);
+}
+window.addEventListener('load',function(){
+  requestAnimationFrame(tickDC);
+  calcLife();
+  var _v=new Date().toISOString().slice(0,10).replace(/-/g,'');
+  new Promise(function(res){var s=document.createElement('script');s.src='data_today.js?v='+_v;s.onload=res;s.onerror=res;document.head.appendChild(s)}).then(function(){
+    if(window.DATA_TODAY&&window.DATA_TODAY.trim())renderAll(parseData(window.DATA_TODAY));
+    new Promise(function(res){var s=document.createElement('script');s.src='data_0000.js?v='+_v;s.onload=res;s.onerror=res;document.head.appendChild(s)}).then(function(){
+      var parts=[];if(window.DATA_0000)parts.push(window.DATA_0000);if(window.DATA_TODAY)parts.push(window.DATA_TODAY);
+      if(parts.join('').trim())renderAll(parseData(parts.join('\n')));
+    });
+  });
+});
+</script>
+</body>
+</html>
