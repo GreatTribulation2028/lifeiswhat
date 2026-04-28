@@ -471,7 +471,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <div class="trib-title">七 災 年</div>
 <div class="trib-subtitle">痛苦漸增的七年</div>
 <div class="trib-years">2019 — 2028</div>
-<a href="https://greattribulation2028.github.io/lifeiswhat/timeline04.html" target="_blank" class="trib-link">GREAT TRIBULATION<br>COUNTDOWN → CLICK</a>
+<a href="gh_timelinefrontpage.html" target="_blank" class="trib-link">七年大災難<br>時間軸 → CLICK</a>
 <div class="trib-verse">「我又看見死了的人，無論大小，都站在寶座前。案卷展開了，並且另有一卷展開，就是生命冊。死了的人，都憑著這些案卷所記載的，照他們所行的受審判。」
 <br><span class="ref">— 啟示錄 20:12</span></div>
 </div>
@@ -1592,9 +1592,9 @@ function drawSoulParticles() {
     if (p.x < 0) p.x = w;
     if (p.x > w) p.x = 0;
     const hex = p.color.slice(1);
-    const r = parseInt(hex.substr(0, 2), 16);
-    const g = parseInt(hex.substr(2, 2), 16);
-    const b = parseInt(hex.substr(4, 2), 16);
+    const r = parseInt(hex.slice(0, 2), 16);
+    const g = parseInt(hex.slice(2, 4), 16);
+    const b = parseInt(hex.slice(4, 6), 16);
     soulCtx.beginPath();
     soulCtx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
     soulCtx.fillStyle = `rgba(${r},${g},${b},${p.alpha})`;
