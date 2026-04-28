@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>七年大災難 · 時間軸 — 2019—2028 真實發生的事</title>
+<meta property="og:title" content="七年大災難 · 時間軸">
+<meta property="og:description" content="2019—2028 — 聖經預言與真實世界事件的對照時間軸">
+<meta property="og:image" content="og-still-alive.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --c-bg:#030405;
+  --c-panel:rgba(8,12,18,.95);
+  --c-border:#1a2a3a;
+  --c-accent:#00f3ff;
+  --c-fatal:#ff2a2a;
+  --c-crit:#ffae00;
+  --c-soul:#a855f7;
+  --c-hope:#8bffb0;
+  --c-warm:#ff6b35;
+  --f-mono:'Share Tech Mono',monospace;
+  --f-head:'Orbitron',sans-serif;
+  --f-text:'Noto Sans TC',sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{min-height:100%;overflow-x:hidden;background:var(--c-bg);color:#e0e6ed;font-family:var(--f-text)}
+html{scrollbar-width:none}
+html::-webkit-scrollbar{display:none}
+a{color:var(--c-accent);text-decoration:none}
+a:hover{color:#fff}
+
+/* ── Canvas BG ── */
+#matrix-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none;opacity:.18}
+
+/* ── Scanlines ── */
+.scanlines{position:fixed;top:0;left:0;width:100%;height:100%;z-index:1;pointer-events:none;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.12) 2px,rgba(0,0,0,.12) 4px)}
+
+/* ── Top Header ── */
+#top-header{
+  position:fixed;top:0;left:0;right:0;z-index:1000;
+  background:linear-gradient(180deg,rgba(3,4,5,.98),rgba(5,8,12,.95));
+  border-bottom:2px solid rgba(0,243,255,.3);
+  display:flex;align-items:center;justify-content:space-between;
+  padding:12px 20px;gap:12px;flex-wrap:wrap;
+  backdrop-filter:blur(12px);
+}
+.header-title-block{display:flex;flex-direction:column;gap:2px}
+.header-title{
+  font-family:var(--f-head);
+  font-size:clamp(14px,3.5vw,22px);
+  color:var(--c-accent);
+  text-shadow:0 0 20px rgba(0,243,255,.6),0 0 40px rgba(0,243,255,.3);
+  letter-spacing:2px;white-space:nowrap;
+}
+.header-sub{font-family:var(--f-mono);font-size:11px;color:#556;letter-spacing:1px}
+.countdown-box{
+  font-family:var(--f-mono);font-size:12px;
+  background:rgba(168,85,247,.1);border:1px solid rgba(168,85,247,.4);
+  border-radius:6px;padding:8px 14px;text-align:center;white-space:nowrap;
+  color:#c899f5;
+}
+.countdown-box .cd-days{
+  font-family:var(--f-head);font-size:clamp(18px,4vw,26px);
+  color:var(--c-soul);
+  text-shadow:0 0 20px rgba(168,85,247,.8);
+  display:block;line-height:1.1;
+}
+.countdown-box .cd-label{font-size:10px;color:#777;margin-top:2px}
+
+/* ── Page body ── */
+.page-body{position:relative;z-index:10;padding-top:100px;padding-bottom:80px}
+
+/* ── Intro banner ── */
+.intro-banner{
+  text-align:center;padding:28px 20px 20px;
+  max-width:700px;margin:0 auto;
+}
+.intro-title{
+  font-family:var(--f-head);
+  font-size:clamp(13px,3vw,18px);
+  color:#8899aa;letter-spacing:1px;margin-bottom:10px;
+}
+.intro-desc{
+  font-size:clamp(12px,2.5vw,14px);
+  color:#6677aa;line-height:1.8;
+}
+
+/* ── Timeline wrapper ── */
+.timeline-wrapper{
+  position:relative;max-width:700px;
+  margin:0 auto;padding:20px 20px 40px;
+}
+
+/* Vertical line */
+.timeline-line{
+  position:absolute;
+  left:calc(50% - 1px);
+  top:0;bottom:0;width:2px;
+  background:linear-gradient(180deg,var(--c-accent),var(--c-warm),var(--c-fatal),var(--c-soul),var(--c-hope));
+  transform-origin:top;
+  animation:line-draw 1.8s cubic-bezier(.4,0,.2,1) forwards;
+}
+@keyframes line-draw{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+
+/* Mobile: line on left */
+@media(max-width:540px){
+  .timeline-line{left:28px}
+}
+
+/* ── Node card ── */
+.tl-node{
+  position:relative;
+  display:flex;gap:18px;
+  margin-bottom:32px;
+  opacity:0;
+  animation:fade-in-up .6s ease forwards;
+}
+.tl-node:nth-child(1){animation-delay:.3s}
+.tl-node:nth-child(2){animation-delay:.5s}
+.tl-node:nth-child(3){animation-delay:.7s}
+.tl-node:nth-child(4){animation-delay:.9s}
+.tl-node:nth-child(5){animation-delay:1.1s}
+.tl-node:nth-child(6){animation-delay:1.3s}
+.tl-node:nth-child(7){animation-delay:1.5s}
+.tl-node:nth-child(8){animation-delay:1.7s}
+
+@keyframes fade-in-up{
+  from{opacity:0;transform:translateY(24px)}
+  to{opacity:1;transform:translateY(0)}
+}
+
+/* Dot column */
+.tl-dot-col{
+  display:flex;flex-direction:column;align-items:center;
+  flex-shrink:0;width:56px;
+  position:relative;z-index:2;
+}
+.tl-dot{
+  width:18px;height:18px;border-radius:50%;
+  border:2px solid currentColor;
+  background:var(--c-bg);
+  margin-top:6px;flex-shrink:0;
+  transition:box-shadow .3s;
+  position:relative;z-index:3;
+}
+.tl-dot.dot-current{
+  width:24px;height:24px;margin-top:3px;
+  animation:pulse-dot 1.5s ease-in-out infinite;
+}
+@keyframes pulse-dot{
+  0%,100%{box-shadow:0 0 0 0 currentColor;opacity:1}
+  50%{box-shadow:0 0 0 10px transparent;opacity:.8}
+}
+.tl-year{
+  font-family:var(--f-mono);font-size:10px;
+  color:#556;margin-top:6px;white-space:nowrap;
+}
+
+/* Card */
+.tl-card{
+  flex:1;background:var(--c-panel);
+  border:1px solid var(--c-border);
+  border-radius:10px;padding:14px 16px;
+  transition:border-color .3s,box-shadow .3s;
+  position:relative;overflow:hidden;
+}
+.tl-card::before{
+  content:'';position:absolute;top:0;left:0;right:0;height:2px;
+  background:currentColor;opacity:.6;
+}
+.tl-card:hover{border-color:currentColor;box-shadow:0 0 20px rgba(0,0,0,.4)}
+
+.tl-node.is-past .tl-card{opacity:.72}
+.tl-node.is-current .tl-card{
+  border-color:var(--c-crit) !important;
+  box-shadow:0 0 24px rgba(255,174,0,.2),0 0 8px rgba(255,174,0,.15) !important;
+  opacity:1 !important;
+}
+
+.current-badge{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:var(--f-mono);font-size:11px;
+  color:var(--c-crit);
+  background:rgba(255,174,0,.1);
+  border:1px solid rgba(255,174,0,.4);
+  border-radius:20px;padding:3px 10px;
+  margin-bottom:8px;
+  animation:badge-glow 2s ease-in-out infinite;
+}
+@keyframes badge-glow{
+  0%,100%{box-shadow:0 0 6px rgba(255,174,0,.3)}
+  50%{box-shadow:0 0 18px rgba(255,174,0,.7)}
+}
+
+.tl-card-top{display:flex;align-items:flex-start;gap:10px;margin-bottom:8px}
+.tl-icon{font-size:clamp(20px,4vw,26px);line-height:1;flex-shrink:0;margin-top:2px}
+.tl-title{
+  font-family:var(--f-head);
+  font-size:clamp(13px,2.8vw,16px);
+  color:#e8eef4;letter-spacing:.5px;line-height:1.3;
+}
+.tl-plain{
+  font-size:clamp(12px,2.5vw,14px);
+  color:#aabbc0;line-height:1.7;margin-bottom:8px;
+}
+.tl-prophecy{
+  font-family:var(--f-mono);font-size:11px;
+  color:#556677;line-height:1.5;
+  border-left:2px solid rgba(255,255,255,.12);
+  padding-left:8px;
+}
+
+/* Mobile adjustments */
+@media(max-width:540px){
+  .tl-dot-col{width:40px}
+  .tl-node{gap:12px}
+  .tl-card{padding:12px}
+  .timeline-wrapper{padding:20px 12px 40px 8px}
+}
+
+/* ── Bottom CTA ── */
+.bottom-cta{
+  position:relative;z-index:10;
+  max-width:700px;margin:0 auto;
+  padding:10px 20px 24px;
+  display:flex;flex-direction:column;gap:14px;align-items:center;
+}
+.verse-block{
+  text-align:center;
+  background:rgba(168,85,247,.07);
+  border:1px solid rgba(168,85,247,.2);
+  border-radius:10px;padding:16px 20px;
+  max-width:600px;width:100%;
+}
+.verse-text{
+  font-size:clamp(13px,2.5vw,15px);
+  color:#c4b0e0;line-height:1.9;
+  font-style:italic;
+}
+.verse-src{
+  font-family:var(--f-mono);font-size:11px;
+  color:var(--c-soul);margin-top:6px;
+}
+.cta-btns{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;width:100%;margin-top:6px}
+.cta-btn{
+  display:inline-flex;align-items:center;gap:8px;
+  padding:13px 22px;border-radius:8px;
+  font-family:var(--f-mono);font-size:13px;
+  border:1px solid;transition:all .3s;
+  white-space:nowrap;text-align:center;
+}
+.cta-btn:hover{transform:translateY(-2px);filter:brightness(1.2)}
+.cta-primary{
+  color:var(--c-accent);border-color:rgba(0,243,255,.5);
+  background:rgba(0,243,255,.08);
+}
+.cta-primary:hover{background:rgba(0,243,255,.18);box-shadow:0 0 20px rgba(0,243,255,.3)}
+.cta-red{
+  color:#ff8888;border-color:rgba(255,42,42,.5);
+  background:rgba(255,42,42,.08);
+}
+.cta-red:hover{background:rgba(255,42,42,.18);box-shadow:0 0 20px rgba(255,42,42,.3)}
+.cta-dim{
+  color:#667788;border-color:rgba(100,120,140,.3);
+  background:rgba(100,120,140,.05);
+}
+.cta-dim:hover{color:#aabbcc;border-color:rgba(100,180,220,.4)}
+
+/* ── Footer ── */
+#doom-footer{
+  position:fixed;bottom:0;left:0;right:0;height:38px;
+  background:linear-gradient(90deg,rgba(3,4,5,.97),rgba(8,12,20,.97));
+  border-top:2px solid rgba(0,243,255,.25);
+  z-index:9999;overflow:hidden;line-height:38px;
+}
+#footer-text{
+  display:inline-block;white-space:nowrap;padding-left:100%;
+  animation:marquee 90s linear infinite;
+  color:#446677;font-family:var(--f-mono);font-size:11px;
+}
+@keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-100%)}}
+</style>
+</head>
+<body>
+
+<!-- Matrix canvas background -->
+<canvas id="matrix-bg"></canvas>
+<div class="scanlines"></div>
+
+<!-- Top header -->
+<header id="top-header">
+  <div class="header-title-block">
+    <div class="header-title">七年大災難 · 時間軸</div>
+    <div class="header-sub">2019 — 2028 · 真實發生的事</div>
+  </div>
+  <div class="countdown-box">
+    🎺 <span class="cd-days" id="days-left">---</span>
+    <div class="cd-label">天後 · 2027 吹角節</div>
+  </div>
+</header>
+
+<!-- Page body -->
+<div class="page-body">
+
+  <div class="intro-banner">
+    <div class="intro-title">預言 · 事件 · 你</div>
+    <div class="intro-desc">你不需要信教，才能看懂這條時間軸。<br>這裡只記錄：聖經幾千年前寫下的事，與你親眼看見的新聞，如何一一對應。</div>
+  </div>
+
+  <div class="timeline-wrapper">
+    <div class="timeline-line"></div>
+    <div id="timeline-nodes"></div>
+  </div>
+
+  <div class="bottom-cta">
+    <div class="verse-block">
+      <div class="verse-text">「你們要謹慎行事，不要像愚昧人，當像智慧人。要愛惜光陰，因為現今的世代邪惡。」</div>
+      <div class="verse-src">— 以弗所書 5:15-16</div>
+    </div>
+    <div class="cta-btns">
+      <a href="gh_timelineLite.html" class="cta-btn cta-primary">📖 完整預言時間軸 →</a>
+      <a href="gh_sudden.html" class="cta-btn cta-red">💔 猝死數據記錄 →</a>
+      <a href="index.html" class="cta-btn cta-dim">🏠 返回首頁 →</a>
+    </div>
+  </div>
+
+</div>
+
+<!-- Footer -->
+<footer id="doom-footer">
+  <div id="footer-text">◈ 你不需要是基督徒，才能看見這些事正在發生 ◈ 「這些事發生之前，我先告訴你們，叫你們信。」— 約翰福音 14:29 ◈ 2019 瘟疫 · 2022 戰爭 · 2023 經濟 · 2025 地震大火 · 時間軸正在展開 ◈ 謹慎行事，愛惜光陰 ◈ 你不需要是基督徒，才能看見這些事正在發生 ◈ 「這些事發生之前，我先告訴你們，叫你們信。」— 約翰福音 14:29 ◈ 2019 瘟疫 · 2022 戰爭 · 2023 經濟 · 2025 地震大火 · 時間軸正在展開 ◈ 謹慎行事，愛惜光陰 ◈</div>
+</footer>
+
+<script>
+// ── Timeline data ──────────────────────────────────────────────
+const NODES = [
+  {
+    date: '2019-12-01',
+    year: '2019',
+    icon: '🦠',
+    title: '新冠病毒爆發',
+    plain: '全球有史以來規模最大的瘟疫之一，超過 700 萬人死亡，數十億人封城隔離',
+    prophecy: '啟示錄 6:2 — 白馬騎士持弓，征服全球',
+    color: '#00f3ff',
+    alwaysShow: true
+  },
+  {
+    date: '2022-02-24',
+    year: '2022',
+    icon: '⚔️',
+    title: '俄烏全面戰爭',
+    plain: '歐洲自二戰以來最大規模的地面戰爭，數十萬士兵傷亡，數百萬難民流離失所',
+    prophecy: '啟示錄 6:4 — 紅馬奪去太平，使人互相殺戮',
+    color: '#ff6b35',
+    alwaysShow: true
+  },
+  {
+    date: '2023-04-01',
+    year: '2023',
+    icon: '💸',
+    title: '全球經濟危機',
+    plain: '通脹失控、加息浪潮席捲全球，矽谷銀行於 48 小時內倒閉，信貸危機蔓延',
+    prophecy: '啟示錄 6:5-6 — 黑馬持天平，一日工資只夠買少量食物',
+    color: '#ffae00',
+    alwaysShow: true
+  },
+  {
+    date: '2024-05-14',
+    year: '2024',
+    icon: '🕍',
+    title: '以色列建國 76 周年',
+    plain: '以色列在中東局勢最緊張時刻慶祝建國，哈以衝突持續，伊朗首次直接攻擊以色列本土',
+    prophecy: '但以理書 9:27 — 一七之半，第 1260 日的起算基準',
+    color: '#ffae00',
+    alwaysShow: true
+  },
+  {
+    date: '2025-01-07',
+    year: '2025',
+    icon: '🌑',
+    title: '西藏大地震 + 加州大火',
+    plain: '同一天：晨間西藏發生 7.1 級大地震逾百死，黃昏南加州史上最慘烈野火同步爆發',
+    prophecy: '啟示錄 6:12 — 第六印：地大震動，日頭變黑，月亮變紅',
+    color: '#ff2a2a',
+    alwaysShow: true
+  },
+  {
+    date: '2025-06-13',
+    year: '2025',
+    icon: '⚔️',
+    title: '以伊戰爭爆發',
+    plain: '以色列空襲伊朗核設施，伊朗導彈反擊，中東局勢全面升級，多國捲入衝突',
+    prophecy: '馬可福音 13:8 — 國要攻打國，民要攻打民，多處必有地震、饑荒',
+    color: '#ff2a2a',
+    alwaysShow: true
+  },
+  {
+    date: '2027-10-01',
+    year: '2027',
+    icon: '🎺',
+    title: '2027 吹角節',
+    plain: '基督受洗後第 40 個禧年 — 聖經的關鍵預言時間點，多位末世學者指向此窗口',
+    prophecy: '利未記 25:9-10 — 第 40 個禧年吹角，宣告釋放與歸回',
+    color: '#a855f7',
+    alwaysShow: false
+  },
+  {
+    date: '2028-01-09',
+    year: '2028',
+    icon: '✨',
+    title: '第 1335 日',
+    plain: '詛咒終止之日 — 按但以理書計算，黑暗轉為光明的時間點',
+    prophecy: '但以理書 12:12 — 等到一千三百三十五日的，那人便為有福',
+    color: '#8bffb0',
+    alwaysShow: false
+  }
+];
+
+// ── Compute current node & countdown ──────────────────────────
+const now = new Date();
+
+function shouldShow(node) {
+  if (node.alwaysShow) return true;
+  return now >= new Date(node.date);
+}
+
+const visibleNodes = NODES.filter(shouldShow);
+
+// "current" = last visible node whose date has passed
+let currentIdx = -1;
+visibleNodes.forEach((n, i) => {
+  if (now >= new Date(n.date)) currentIdx = i;
+});
+
+// Countdown to 2027-10-01
+const TARGET = new Date('2027-10-01T00:00:00');
+const diffMs = TARGET - now;
+const daysLeft = diffMs > 0 ? Math.ceil(diffMs / 86400000) : 0;
+document.getElementById('days-left').textContent = daysLeft > 0 ? daysLeft.toLocaleString() : '已到';
+
+// ── Render nodes ───────────────────────────────────────────────
+const container = document.getElementById('timeline-nodes');
+
+visibleNodes.forEach((node, i) => {
+  const isPast = now >= new Date(node.date);
+  const isCurrent = (i === currentIdx);
+
+  const el = document.createElement('div');
+  el.className = 'tl-node' + (isCurrent ? ' is-current' : (isPast ? ' is-past' : ' is-future'));
+  el.style.setProperty('color', node.color);
+  if (isCurrent) el.id = 'current-node';
+
+  el.innerHTML = `
+    <div class="tl-dot-col">
+      <div class="tl-dot${isCurrent ? ' dot-current' : ''}" style="color:${node.color};border-color:${node.color};${isCurrent ? 'box-shadow:0 0 12px '+node.color : ''}"></div>
+      <div class="tl-year">${node.year}</div>
+    </div>
+    <div class="tl-card" style="color:${node.color}">
+      ${isCurrent ? '<div class="current-badge"><span>▶</span> 你現在在這裡</div>' : ''}
+      <div class="tl-card-top">
+        <span class="tl-icon">${node.icon}</span>
+        <span class="tl-title" style="color:#e8eef4">${node.title}</span>
+      </div>
+      <div class="tl-plain">${node.plain}</div>
+      <div class="tl-prophecy">${node.prophecy}</div>
+    </div>
+  `;
+
+  container.appendChild(el);
+});
+
+// Scroll to current node after animation
+setTimeout(() => {
+  const cur = document.getElementById('current-node');
+  if (cur) cur.scrollIntoView({behavior:'smooth', block:'center'});
+}, 2000);
+
+// ── Matrix canvas animation ────────────────────────────────────
+(function(){
+  const canvas = document.getElementById('matrix-bg');
+  const ctx = canvas.getContext('2d');
+
+  function resize(){
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  }
+  resize();
+  window.addEventListener('resize', resize);
+
+  const chars = '01アイウエオカキクケコ█▓▒░';
+  const fontSize = 13;
+  let cols;
+  let drops = [];
+
+  function init(){
+    cols = Math.floor(canvas.width / fontSize);
+    drops = Array.from({length: cols}, () => Math.random() * -100);
+  }
+  init();
+  window.addEventListener('resize', init);
+
+  function draw(){
+    ctx.fillStyle = 'rgba(3,4,5,0.05)';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = '#00f3ff';
+    ctx.font = fontSize + 'px monospace';
+
+    for(let i = 0; i < drops.length; i++){
+      const char = chars[Math.floor(Math.random() * chars.length)];
+      ctx.fillStyle = i % 5 === 0 ? 'rgba(168,85,247,0.7)' : 'rgba(0,243,255,0.5)';
+      ctx.fillText(char, i * fontSize, drops[i] * fontSize);
+      if(drops[i] * fontSize > canvas.height && Math.random() > 0.975) drops[i] = 0;
+      drops[i]++;
+    }
+  }
+
+  setInterval(draw, 60);
+})();
+</script>
+</body>
+</html>
