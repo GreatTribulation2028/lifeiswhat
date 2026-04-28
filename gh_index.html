@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>生死·永恆 — 旅程入口</title>
+<meta property="og:title" content="生死·永恆 — 旅程入口">
+<meta property="og:description" content="你還在嗎？從今日死亡數字，到永恆的問題。選擇你的旅程。">
+<meta property="og:image" content="og-still-alive.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&family=Noto+Serif+TC:wght@400;700;900&display=swap" rel="stylesheet">
+<style>
+:root{
+  --c-bg:#030405;
+  --c-panel:rgba(8,12,18,.95);
+  --c-border:#1a2a3a;
+  --c-accent:#00f3ff;
+  --c-fatal:#ff2a2a;
+  --c-crit:#ffae00;
+  --c-soul:#a855f7;
+  --c-hope:#8bffb0;
+  --c-warm:#ff6b35;
+  --f-mono:'Share Tech Mono',monospace;
+  --f-head:'Orbitron',sans-serif;
+  --f-text:'Noto Sans TC',sans-serif;
+  --f-serif:'Noto Serif TC',serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{min-height:100%;overflow-x:hidden;background:var(--c-bg);color:#e0e6ed;font-family:var(--f-text)}
+html{scrollbar-width:none}
+html::-webkit-scrollbar{display:none}
+a{color:var(--c-accent);text-decoration:none}
+a:hover{color:#fff}
+
+/* ── Canvas BG ── */
+#particle-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none}
+
+/* ── Scanlines ── */
+.scanlines{position:fixed;top:0;left:0;width:100%;height:100%;z-index:1;pointer-events:none;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,.10) 2px,rgba(0,0,0,.10) 4px)}
+
+/* ── Top Header ── */
+#top-header{
+  position:fixed;top:0;left:0;right:0;z-index:1000;
+  background:linear-gradient(180deg,rgba(3,4,5,.98),rgba(5,8,12,.95));
+  border-bottom:2px solid rgba(0,243,255,.25);
+  display:flex;align-items:center;justify-content:space-between;
+  padding:12px 20px;gap:12px;
+  backdrop-filter:blur(12px);
+}
+.header-brand{
+  font-family:var(--f-head);
+  font-size:clamp(13px,3vw,18px);
+  color:var(--c-accent);
+  text-shadow:0 0 20px rgba(0,243,255,.6),0 0 40px rgba(0,243,255,.3);
+  letter-spacing:2px;white-space:nowrap;
+}
+.header-sub{font-family:var(--f-mono);font-size:10px;color:#445;letter-spacing:1px;margin-top:3px}
+
+/* ── Page ── */
+.page-body{position:relative;z-index:10;padding-top:80px;padding-bottom:80px}
+
+/* ── Hero ── */
+.hero{
+  text-align:center;
+  padding:44px 24px 32px;
+  max-width:720px;margin:0 auto;
+}
+.hero-eyebrow{
+  font-family:var(--f-mono);font-size:11px;color:#556;
+  letter-spacing:4px;text-transform:uppercase;margin-bottom:14px;
+}
+.hero-title{
+  font-family:var(--f-head);
+  font-size:clamp(18px,5vw,34px);
+  color:#fff;
+  text-shadow:0 0 40px rgba(0,243,255,.35);
+  letter-spacing:2px;line-height:1.3;margin-bottom:16px;
+}
+.hero-title span{color:var(--c-accent)}
+.hero-desc{
+  font-size:clamp(13px,2.5vw,15px);
+  color:#6888aa;line-height:1.9;
+  font-family:var(--f-serif);max-width:520px;margin:0 auto;
+}
+
+/* ── Divider ── */
+.divider{
+  display:flex;align-items:center;gap:12px;
+  max-width:600px;margin:0 auto 10px;padding:0 24px;
+}
+.divider-line{flex:1;height:1px;background:linear-gradient(90deg,transparent,rgba(0,243,255,.2),transparent)}
+.divider-label{font-family:var(--f-mono);font-size:10px;color:#445;letter-spacing:3px;white-space:nowrap}
+
+/* ── Journey (Main Flow) ── */
+.journey-section{
+  max-width:620px;margin:0 auto;padding:16px 24px 32px;
+}
+.journey-label{
+  font-family:var(--f-mono);font-size:10px;color:#556;
+  letter-spacing:3px;text-transform:uppercase;margin-bottom:18px;
+  text-align:center;
+}
+.journey-flow{
+  display:flex;flex-direction:column;gap:0;
+}
+.journey-step{
+  display:flex;align-items:stretch;gap:0;
+  position:relative;
+}
+.journey-connector{
+  display:flex;flex-direction:column;align-items:center;
+  width:32px;flex-shrink:0;
+}
+.journey-connector .dot{
+  width:10px;height:10px;border-radius:50%;
+  background:var(--c-accent);
+  box-shadow:0 0 10px var(--c-accent);
+  flex-shrink:0;margin-top:20px;
+}
+.journey-connector .line{
+  width:1px;flex:1;
+  background:linear-gradient(180deg,rgba(0,243,255,.4),rgba(0,243,255,.1));
+}
+.journey-card{
+  flex:1;
+  background:var(--c-panel);
+  border:1px solid var(--c-border);
+  border-radius:12px;
+  padding:16px 18px;
+  margin:6px 0;
+  display:flex;align-items:center;gap:14px;
+  transition:all .35s;
+  cursor:pointer;
+  text-decoration:none;
+  color:inherit;
+}
+.journey-card:hover{
+  border-color:var(--c-accent);
+  background:rgba(0,243,255,.05);
+  transform:translateX(4px);
+  box-shadow:0 4px 24px rgba(0,243,255,.1);
+}
+.jc-num{
+  font-family:var(--f-head);
+  font-size:18px;color:rgba(0,243,255,.25);
+  flex-shrink:0;width:28px;text-align:center;
+  line-height:1;
+}
+.jc-icon{font-size:1.4rem;flex-shrink:0}
+.jc-body{flex:1}
+.jc-title{
+  font-family:var(--f-text);font-size:15px;
+  color:#dde8f0;font-weight:700;margin-bottom:4px;
+}
+.jc-desc{font-family:var(--f-mono);font-size:11px;color:#4a6a7a}
+.jc-arrow{
+  font-family:var(--f-mono);font-size:14px;
+  color:var(--c-accent);flex-shrink:0;
+  opacity:.6;transition:opacity .3s;
+}
+.journey-card:hover .jc-arrow{opacity:1}
+
+/* ── Step end dot (no line after) ── */
+.journey-step:last-child .journey-connector .line{display:none}
+
+/* ── Side Section ── */
+.side-section{
+  max-width:620px;margin:0 auto;padding:8px 24px 40px;
+}
+.side-label{
+  font-family:var(--f-mono);font-size:10px;color:#445;
+  letter-spacing:3px;text-transform:uppercase;margin-bottom:14px;
+  text-align:center;
+}
+.side-flow{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center}
+.side-card{
+  background:var(--c-panel);
+  border:1px solid rgba(168,85,247,.25);
+  border-radius:10px;
+  padding:14px 18px;
+  display:flex;align-items:center;gap:10px;
+  transition:all .35s;
+  cursor:pointer;
+  text-decoration:none;
+  color:inherit;
+  min-width:180px;
+}
+.side-card:hover{
+  border-color:var(--c-soul);
+  background:rgba(168,85,247,.06);
+  transform:translateY(-2px);
+  box-shadow:0 4px 20px rgba(168,85,247,.12);
+}
+.sc-icon{font-size:1.2rem;flex-shrink:0}
+.sc-body{flex:1}
+.sc-title{font-family:var(--f-text);font-size:14px;color:#c8b8e8;font-weight:700;margin-bottom:3px}
+.sc-desc{font-family:var(--f-mono);font-size:10px;color:#5a4a6a}
+.side-arrow{font-family:var(--f-mono);font-size:13px;color:rgba(168,85,247,.5);flex-shrink:0}
+
+/* ── Footer verse ── */
+.footer-verse{
+  text-align:center;padding:28px 24px 60px;
+  max-width:560px;margin:0 auto;
+}
+.fv-text{
+  font-family:var(--f-serif);
+  font-size:clamp(12px,2.2vw,14px);
+  color:#4a5a6a;
+  line-height:1.9;
+  font-style:italic;
+}
+.fv-ref{font-family:var(--f-mono);font-size:10px;color:#334455;margin-top:8px}
+
+/* ── Pulse animation ── */
+@keyframes pulse{0%,100%{opacity:.7}50%{opacity:1}}
+.pulse{animation:pulse 2.5s ease-in-out infinite}
+
+/* ── Responsive ── */
+@media(max-width:600px){
+  .journey-card{padding:13px 14px}
+  .jc-num{display:none}
+  .side-flow{flex-direction:column;align-items:stretch}
+  .side-card{min-width:unset}
+}
+</style>
+</head>
+<body>
+<canvas id="particle-bg"></canvas>
+<div class="scanlines"></div>
+
+<!-- TOP HEADER -->
+<header id="top-header">
+  <div>
+    <div class="header-brand">LIFEISWHAT</div>
+    <div class="header-sub">生死·記錄·永恆</div>
+  </div>
+</header>
+
+<!-- PAGE BODY -->
+<main class="page-body">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-eyebrow">SELECT YOUR JOURNEY</div>
+    <h1 class="hero-title">你，<span>還在嗎？</span></h1>
+    <p class="hero-desc">每一個數字背後，都是一個人。<br>從今日的死亡統計，到你自己的永恆問題。<br>選擇你想走的路。</p>
+  </section>
+
+  <!-- MAIN JOURNEY -->
+  <section class="journey-section">
+    <div class="divider"><div class="divider-line"></div><div class="divider-label">主線旅程</div><div class="divider-line"></div></div>
+    <div class="journey-label" style="margin-top:16px">按順序閱讀，效果最佳</div>
+
+    <div class="journey-flow">
+
+      <div class="journey-step">
+        <div class="journey-connector">
+          <div class="dot"></div>
+          <div class="line"></div>
+        </div>
+        <a class="journey-card" href="index0203.html">
+          <div class="jc-num">01</div>
+          <div class="jc-icon">💓</div>
+          <div class="jc-body">
+            <div class="jc-title">今生與永恆</div>
+            <div class="jc-desc">ECG 心跳 · 生命的本質</div>
+          </div>
+          <div class="jc-arrow">→</div>
+        </a>
+      </div>
+
+      <div class="journey-step">
+        <div class="journey-connector">
+          <div class="dot" style="background:var(--c-fatal);box-shadow:0 0 10px var(--c-fatal)"></div>
+          <div class="line" style="background:linear-gradient(180deg,rgba(255,42,42,.4),rgba(255,42,42,.1))"></div>
+        </div>
+        <a class="journey-card" href="gh_monitor03E.html">
+          <div class="jc-num">02</div>
+          <div class="jc-icon">📡</div>
+          <div class="jc-body">
+            <div class="jc-title">生死記錄儀</div>
+            <div class="jc-desc">死亡事件 · 昏迷危殆 · 意外受傷</div>
+          </div>
+          <div class="jc-arrow">→</div>
+        </a>
+      </div>
+
+      <div class="journey-step">
+        <div class="journey-connector">
+          <div class="dot" style="background:var(--c-warm);box-shadow:0 0 10px var(--c-warm)"></div>
+          <div class="line" style="background:linear-gradient(180deg,rgba(255,107,53,.4),rgba(255,107,53,.1))"></div>
+        </div>
+        <a class="journey-card" href="gh_sudden.html">
+          <div class="jc-num">03</div>
+          <div class="jc-icon">💔</div>
+          <div class="jc-body">
+            <div class="jc-title">猝死記錄儀</div>
+            <div class="jc-desc">心臟 · 腦血管 · 嚴格篩選統計</div>
+          </div>
+          <div class="jc-arrow">→</div>
+        </a>
+      </div>
+
+      <div class="journey-step">
+        <div class="journey-connector">
+          <div class="dot pulse" style="background:var(--c-hope);box-shadow:0 0 14px var(--c-hope)"></div>
+        </div>
+        <a class="journey-card" href="GoodNews.html" style="border-color:rgba(139,255,176,.2)">
+          <div class="jc-num">04</div>
+          <div class="jc-icon">💭</div>
+          <div class="jc-body">
+            <div class="jc-title">如果下一個，是你？</div>
+            <div class="jc-desc">給自己 3 分鐘 · 生命的答案</div>
+          </div>
+          <div class="jc-arrow" style="color:var(--c-hope)">→</div>
+        </a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- SIDE BRANCH -->
+  <section class="side-section">
+    <div class="divider"><div class="divider-line"></div><div class="divider-label">時間軸支線</div><div class="divider-line"></div></div>
+    <div class="side-label" style="margin-top:16px">獨立閱讀 · 按讀者自選</div>
+
+    <div class="side-flow">
+      <a class="side-card" href="gh_timelinefrontpage.html">
+        <div class="sc-icon">⚡</div>
+        <div class="sc-body">
+          <div class="sc-title">時代觀測站</div>
+          <div class="sc-desc">2019—2028 精選節點</div>
+        </div>
+        <div class="side-arrow">→</div>
+      </a>
+      <div style="font-family:var(--f-mono);font-size:12px;color:#334">→</div>
+      <a class="side-card" href="gh_timelineLite.html">
+        <div class="sc-icon">📜</div>
+        <div class="sc-body">
+          <div class="sc-title">完整時間軸</div>
+          <div class="sc-desc">七印 · 七號筒 · 七碗</div>
+        </div>
+        <div class="side-arrow">→</div>
+      </a>
+    </div>
+  </section>
+
+  <!-- FOOTER VERSE -->
+  <div class="footer-verse">
+    <div class="fv-text">「你們要警醒，因為不知道那日子、那時辰。」</div>
+    <div class="fv-ref">馬太福音 25:13</div>
+  </div>
+
+</main>
+
+<script>
+// ===== 粒子背景 =====
+const particleBg = document.getElementById('particle-bg');
+const pCtx = particleBg.getContext('2d');
+const bgP = [];
+function resizePBg() { particleBg.width = innerWidth; particleBg.height = innerHeight; initBgP(); }
+function initBgP() {
+  bgP.length = 0;
+  const n = Math.floor(particleBg.width * particleBg.height / 20000);
+  for (let i = 0; i < n; i++) bgP.push({
+    x: Math.random() * particleBg.width, y: Math.random() * particleBg.height,
+    vx: (Math.random() - .5) * .2, vy: -.15 - Math.random() * .35,
+    s: .5 + Math.random() * 1.3, a: .1 + Math.random() * .3,
+    c: Math.random() > .7 ? '#a855f7' : Math.random() > .5 ? '#ff6b35' : '#ffffff'
+  });
+}
+function drawBgP() {
+  pCtx.fillStyle = 'rgba(3,4,5,0.12)';
+  pCtx.fillRect(0, 0, particleBg.width, particleBg.height);
+  bgP.forEach(p => {
+    p.x += p.vx; p.y += p.vy;
+    if (p.y < -10) { p.y = particleBg.height + 10; p.x = Math.random() * particleBg.width; }
+    if (p.x < 0) p.x = particleBg.width;
+    if (p.x > particleBg.width) p.x = 0;
+    pCtx.beginPath(); pCtx.arc(p.x, p.y, p.s, 0, Math.PI * 2);
+    pCtx.fillStyle = p.c; pCtx.globalAlpha = p.a; pCtx.fill(); pCtx.globalAlpha = 1;
+  });
+  requestAnimationFrame(drawBgP);
+}
+window.addEventListener('resize', resizePBg);
+resizePBg();
+drawBgP();
+</script>
+</body>
+</html>
