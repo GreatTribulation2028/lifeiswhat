@@ -316,7 +316,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <span class="counter-label">人離世</span>
 </div>
 <div class="counter-since">（每秒約 2.0 人・WHO 全球死亡率估算）</div>
-<a href="index.html" class="back-to-portal">← 返回首頁</a> | <a href="gh_sudden.html" class="back-to-portal">猝死記錄儀 →</a>
+<a href="gh_index.html" class="back-to-portal">← 返回首頁</a> | <a href="gh_sudden.html" class="back-to-portal">猝死記錄儀 →</a>
 </div>
 
 <!-- Header -->
@@ -459,7 +459,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <div id="keyword-cloud"></div>
 
 <!-- IF IT WERE YOU（置頂於右下欄） -->
-<a id="if-it-were-you" href="GoodNews.html" role="button" aria-label="IF IT WERE YOU" style="text-decoration:none;display:block">
+<a id="if-it-were-you" href="gh_GoodNews.html" role="button" aria-label="IF IT WERE YOU" style="text-decoration:none;display:block">
 <div class="iwy-kicker">💭 IF IT WERE YOU</div>
 <div class="iwy-title">如 果 是 你</div>
 <div class="iwy-sub">給自己 3 分鐘<br>認真思考一個你一直逃避的問題<br>靈魂的去處</div>
@@ -1451,8 +1451,8 @@ function showDailyContent(){
 }
 function toggleMourningMode(){document.body.classList.toggle('mourning-mode')}
 // ===== 沉浸靈魂旅程（已移至 GoodNews.html） =====
-function openImmersive(){ window.location.href='GoodNews.html'; }
-function closeImmersive(){ window.location.href='monitor.html'; }
+function openImmersive(){ window.location.href='gh_GoodNews.html'; }
+function closeImmersive(){ window.location.href='gh_index.html'; }
 function nextStage(n){
   document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));
   const el=document.getElementById(`stage-${n}`);

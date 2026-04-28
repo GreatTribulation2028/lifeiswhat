@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>生死之間 | 今生與永恆</title>
+<meta property="og:title" content="生死之間 — Between Life and Death">
+<meta property="og:description" content="生死，只在一線之差">
+<meta property="og:image" content="og-still-alive.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<style>
+:root {
+  --c-void: #030405;
+  --c-fatal: #ff2a2a;
+  --c-text: #e0e6ed;
+  --c-text-dim: #a0aabb;
+  --c-text-bright: #ffffff;
+  --f-serif: 'Noto Serif TC', serif;
+  --f-tech: 'Share Tech Mono', monospace;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 100%; height: 100%; overflow: hidden; background: #000; color: var(--c-text); font-family: var(--f-serif); }
+
+#main {
+  position: relative; width: 100%; height: 100%;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  cursor: pointer; overflow: hidden;
+}
+#ecg-bg { position: absolute; inset: 0; z-index: 1; }
+
+.content {
+  position: relative; z-index: 10; max-width: 90%; text-align: center;
+  opacity: 0; animation: fadeInSlow 4s ease-out forwards;
+}
+@keyframes fadeInSlow {
+  0% { opacity: 0; transform: translateY(20px); }
+  30% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 1; }
+}
+
+.title {
+  font-size: clamp(1.8rem, 6vw, 3.5rem); font-weight: 900;
+  color: #fff; letter-spacing: 8px; margin-bottom: 15px;
+  text-shadow: 0 2px 30px rgba(255,255,255,0.15);
+}
+.subtitle {
+  font-size: clamp(1rem, 2.5vw, 1.5rem); color: var(--c-text-dim);
+  letter-spacing: 3px; margin-bottom: 40px;
+}
+.divider {
+  width: 120px; height: 2px;
+  background: linear-gradient(90deg, transparent, var(--c-fatal), transparent);
+  margin: 0 auto 35px;
+}
+.main-text {
+  font-size: clamp(1.1rem, 3vw, 1.8rem); font-weight: 700;
+  color: var(--c-text-bright); line-height: 2.1; margin-bottom: 22px;
+}
+.verse {
+  font-size: clamp(0.85rem, 1.8vw, 1rem); color: var(--c-text-dim);
+  font-style: italic; border-left: 2px solid var(--c-fatal);
+  padding-left: 20px; text-align: left;
+  display: inline-block; max-width: 600px;
+}
+.verse-ref {
+  color: var(--c-fatal); font-size: 0.9em; margin-top: 8px; display: block;
+}
+
+.hint {
+  position: absolute; bottom: 8%;
+  font-family: var(--f-tech); font-size: 14px;
+  color: rgba(255,255,255,0.4); letter-spacing: 3px;
+  animation: blink 3s ease-in-out infinite; z-index: 10;
+}
+@keyframes blink { 0%,100% { opacity: 0.3; } 50% { opacity: 0.9; } }
+</style>
+</head>
+<body>
+
+<div id="main" onclick="goBack()">
+  <canvas id="ecg-bg"></canvas>
+  <div class="content">
+    <div class="title">『今生與永恆，警醒與昏沉』</div>
+    <div class="subtitle">生死‧只是一線之差</div>
+    <div class="divider"></div>
+    <div class="main-text" id="main-text"></div>
+    <div class="verse" id="verse"></div>
+  </div>
+  <div class="hint">[ 回 到 生 死 之 間 ]</div>
+</div>
+
+<script>
+/* ===== ECG Heartbeat Background ===== */
+const canvas = document.getElementById('ecg-bg');
+const ctx = canvas.getContext('2d');
+let ecgX = 0, history = [];
+const colors = [
+  { stroke: 'rgba(255,50,50,0.9)', shadow: '#ff3333' },
+  { stroke: 'rgba(50,150,255,0.9)', shadow: '#3399ff' },
+  { stroke: 'rgba(50,255,100,0.9)', shadow: '#33ff66' }
+];
+let ci = 0, ct = Date.now();
+
+function initCanvas() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  ecgX = 0; history = [];
+}
+
+function drawECG() {
+  ctx.fillStyle = 'rgba(0,0,0,0.05)';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+  if (Date.now() - ct > 60000) { ci = (ci + 1) % colors.length; ct = Date.now(); }
+  const cy = canvas.height / 2, cycle = (Date.now() / 1000) % 1.2;
+  let y = cy;
+  if (cycle < 0.1) y = cy;
+  else if (cycle < 0.15) y = cy - 20;
+  else if (cycle < 0.2) y = cy + 10;
+  else if (cycle < 0.35) y = cy - (cycle - 0.2) * 800;
+  else if (cycle < 0.5) y = cy + (0.5 - cycle) * 800 - 120;
+  else y = cy;
+  history.push({ x: ecgX, y: y + (Math.random() - 0.5) * 4 });
+  ecgX += 3;
+  if (ecgX > canvas.width) { ecgX = 0; history = []; }
+  const col = colors[ci];
+  ctx.strokeStyle = col.stroke;
+  ctx.lineWidth = 2;
+  ctx.shadowColor = col.shadow;
+  ctx.shadowBlur = 14;
+  ctx.beginPath();
+  history.forEach(function(p, i) { if (i === 0) ctx.moveTo(p.x, p.y); else ctx.lineTo(p.x, p.y); });
+  ctx.stroke();
+  ctx.shadowBlur = 0;
+  requestAnimationFrame(drawECG);
+}
+
+initCanvas();
+drawECG();
+window.addEventListener('resize', initCanvas);
+
+/* ===== Rotating Messages ===== */
+var messages = [
+  { main: "按著定命，人人都有一死\n死後且有審判", verse: "我所行的路，你必看顧。我腳步若偏離正路，祢必知道。", ref: "— 希伯來書 9:27" },
+  { main: "只要，一息尚存，萬事可期\n不然，一息若斷，萬事皆空", verse: "你們要謹慎行事，不要像愚昧人，當像智慧人。要愛惜光陰，因為現今的世代邪惡。", ref: "— 以弗所書 5:15-16" },
+  { main: "人，還有多少天？\n可歎智慧人死亡，與愚昧人無異", verse: "其實明天如何，你們還不知道。你們的生命是甚麼呢？你們原來是一片雲霧，出現少時就不見了。", ref: "— 雅各書 4:14" },
+  { main: "你要保守你心，勝過保守一切\n因為一生的果效是由心發出", verse: "人還能拿甚麼換生命呢？", ref: "— 馬太福音 16:26" },
+  { main: "我們一生的年日是七十歲\n若是強壯可到八十歲\n但其中所矜誇的不過是勞苦愁煩", verse: "無人有權力掌管生命，將生命留住；也無人有權力掌管死期。", ref: "— 傳道書 8:8" },
+  { main: "生死，到底是甚麼？\n從何而來，往那而去？", verse: "因為生者都必往那裡去，死者卻不能回到這裡來。", ref: "— 傳道書" },
+  { main: "死亡，正靜悄悄地\n在時代巨輪裡不斷加速", verse: "懷著悲傷與敬畏的心，靜默地記錄。願逝者安息，願生者息懷。", ref: "" }
+];
+
+var shown = JSON.parse(localStorage.getItem('shownEternity') || '[]');
+if (shown.length >= messages.length) shown = [];
+var avail = messages.map(function(_, i) { return i; }).filter(function(i) { return shown.indexOf(i) === -1; });
+var idx = avail[Math.floor(Math.random() * avail.length)];
+shown.push(idx);
+localStorage.setItem('shownEternity', JSON.stringify(shown));
+var m = messages[idx];
+document.getElementById('main-text').innerHTML = m.main.replace(/\n/g, '<br>');
+document.getElementById('verse').innerHTML = m.ref ? m.verse + '<span class="verse-ref">' + m.ref + '</span>' : m.verse;
+
+/* ===== Click → Return to Monitor ===== */
+function goBack() {
+  document.getElementById('main').style.transition = 'opacity 2s';
+  document.getElementById('main').style.opacity = '0';
+  setTimeout(function() { window.location.href = 'gh_monitor03E.html'; }, 2000);
+}
+</script>
+</body>
+</html>
+
