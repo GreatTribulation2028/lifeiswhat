@@ -561,7 +561,6 @@ function renderAll(events){
 
 /* ===== 載入數據 ===== */
 function loadAllData(){
-  if(location.protocol==='file:'){return;}
   var _t=new Date();var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
   // Phase 1: 先載入 data_today.js，立即渲染
   new Promise(function(res){var s=document.createElement('script');s.src='data_today.js?v='+_v;s.onload=function(){res()};s.onerror=function(){res()};document.head.appendChild(s)}).then(function(){
