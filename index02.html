@@ -337,7 +337,8 @@ var KW_WITH_DEATH_CONFIRM=[
   '急救無效','搶救無效'
 ];
 // 所有猝死關鍵詞合集（用於過濾新聞列表）
-var ALL_SUDDEN_KW=KW_CORE.concat(KW_CARDIAC).concat(KW_BRAIN).concat(KW_WITH_DEATH_CONFIRM);
+var ALL_SUDDEN_KW=KW_CORE.concat(KW_CARDIAC).concat(KW_BRAIN);
+// KW_WITH_DEATH_CONFIRM 不加入 ALL_SUDDEN_KW，只保留定義備用
 
 // 子分類統計：顯示在「關鍵詞分類統計」中
 var SUBKW_GROUPS=[
@@ -432,11 +433,11 @@ function renderSuddenList(events){
   var box=document.getElementById('sudden-list');
   if(!box)return;
   if(!events.length){box.textContent='暫無記錄';return;}
-  // Cap list to most-recent 90 days relative to the newest data entry (not today),
+  // Cap list to most-recent 365 days relative to the newest data entry (not today),
   // so a stale dataset doesn't show an empty list. Charts and stats still receive
   // the full events array — only this scrollable list is limited.
   var newestDate=events[0]?new Date(events[0].date):new Date();
-  var cutoff=new Date(newestDate);cutoff.setDate(cutoff.getDate()-90);
+  var cutoff=new Date(newestDate);cutoff.setDate(cutoff.getDate()-365);
   var cutoffStr=cutoff.toISOString().slice(0,10);
   var visible=events.filter(function(e){return e.date>=cutoffStr});
   var truncated=events.length-visible.length;
