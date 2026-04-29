@@ -562,12 +562,17 @@ function renderAll(events){
 /* ===== 載入數據 ===== */
 function loadAllData(){
   var _t=new Date();var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
+  // 先快速載入今日數據
   new Promise(function(res){var s=document.createElement('script');s.src='data_today.js?v='+_v;s.onload=function(){res()};s.onerror=function(){res()};document.head.appendChild(s)}).then(function(){
     if(window.DATA_TODAY&&window.DATA_TODAY.trim()){allEvents=parseData(window.DATA_TODAY);renderAll(allEvents);}
-    new Promise(function(res){var s=document.createElement('script');s.src='data_0000.js?v='+_v;s.onload=function(){res()};s.onerror=function(){res()};document.head.appendChild(s)}).then(function(){
-      var parts=[];if(window.DATA_0000)parts.push(window.DATA_0000);if(window.DATA_TODAY)parts.push(window.DATA_TODAY);
-      var merged=parts.join('\n');if(merged.trim()){allEvents=parseData(merged);renderAll(allEvents);}
-    });
+    // 用 fetch 讀取 data_0000.js，在解析前先過濾猝死行數（減少 75% 解析量）
+    fetch('data_0000.js?v='+_v).then(function(r){return r.text()}).then(function(text){
+      var s0=text.indexOf('`'),s1=text.lastIndexOf('`');
+      var raw=s0>=0&&s1>s0?text.slice(s0+1,s1):'';
+      var filtered=raw.split(/\r?\n/).filter(function(line){return ALL_SUDDEN_KW.some(function(k){return line.includes(k)})}).join('\n');
+      var merged=filtered+(window.DATA_TODAY?'\n'+window.DATA_TODAY:'');
+      if(merged.trim()){allEvents=parseData(merged);renderAll(allEvents);}
+    }).catch(function(){});
   });
 }
 
