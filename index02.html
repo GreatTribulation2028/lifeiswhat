@@ -432,11 +432,19 @@ function renderSuddenList(events){
   var box=document.getElementById('sudden-list');
   if(!box)return;
   if(!events.length){box.textContent='暫無記錄';return;}
+  // Cap list to most-recent 90 days relative to the newest data entry (not today),
+  // so a stale dataset doesn't show an empty list. Charts and stats still receive
+  // the full events array — only this scrollable list is limited.
+  var newestDate=events[0]?new Date(events[0].date):new Date();
+  var cutoff=new Date(newestDate);cutoff.setDate(cutoff.getDate()-90);
+  var cutoffStr=cutoff.toISOString().slice(0,10);
+  var visible=events.filter(function(e){return e.date>=cutoffStr});
+  var truncated=events.length-visible.length;
   var groups={};
-  for(var i=0;i<events.length;i++){
-    var d=events[i].date;
+  for(var i=0;i<visible.length;i++){
+    var d=visible[i].date;
     if(!groups[d])groups[d]=[];
-    groups[d].push(events[i]);
+    groups[d].push(visible[i]);
   }
   var dates=Object.keys(groups).sort().reverse();
   var html='';
@@ -457,6 +465,7 @@ function renderSuddenList(events){
     }
     html+='</div>';
   }
+  if(truncated>0){html+='<div style="text-align:center;font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.28);padding:12px 0;letter-spacing:.5px">另有 '+truncated.toLocaleString()+' 宗較早記錄 · 趨勢圖已包含全部數據</div>';}
   box.innerHTML=html;
   box.scrollTop=0;
   var hint=box.parentElement.querySelector('.sudden-scroll-hint');
