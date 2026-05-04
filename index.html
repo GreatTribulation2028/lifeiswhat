@@ -19,12 +19,13 @@
 /* STILL ALIVE V2.2 */
 :root{
 --bg:#060a12;--bg2:#0a1020;
---accent:#4ea8de;--glow:#00b4d8;
+--accent:#ff6b35;--glow:#ff4500;
 --gold:#d4a953;--gold-dim:rgba(212,169,83,.15);
 --pulse:#e63946;--pulse-dim:rgba(230,57,70,.1);
+--sudden:#ff6b35;
 --text:#d7e0ee;--text-dim:#93a4bd;--text-bright:#f7fbff;
 --text-soft:rgba(215,224,238,.78);--text-faint:rgba(215,224,238,.55);
---card:rgba(10,18,36,.88);--card-border:rgba(78,168,222,.12);
+--card:rgba(10,18,36,.88);--card-border:rgba(255,107,53,.12);
 --f-head:'Orbitron',sans-serif;
 --f-mono:'Share Tech Mono',monospace;
 --f-body:'Jura','Noto Sans TC',sans-serif;
@@ -38,10 +39,10 @@ body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:
 a{color:var(--accent);text-decoration:none;transition:all .3s}
 a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 #bg-canvas{position:fixed;inset:0;z-index:0;pointer-events:none}
-#scroll-progress{position:fixed;top:0;left:0;height:2px;background:linear-gradient(90deg,var(--accent),var(--gold));z-index:9999;width:0%;transition:width .1s}
+#scroll-progress{position:fixed;top:0;left:0;height:2px;background:linear-gradient(90deg,var(--sudden),var(--gold));z-index:9999;width:0%;transition:width .1s}
 .top-bar{position:fixed;top:2px;left:0;right:0;height:44px;z-index:1000;background:rgba(6,10,18,.9);backdrop-filter:blur(10px);display:flex;align-items:center;justify-content:space-between;padding:0 16px}
 .tb-counter{font-family:var(--f-mono);font-size:13px;color:var(--text-dim);display:flex;align-items:center;gap:6px}
-.tb-counter .cv{color:var(--pulse);font-family:var(--f-head);font-size:16px;min-width:30px}
+.tb-counter .cv{color:var(--sudden);font-family:var(--f-head);font-size:16px;min-width:30px}
 .tb-links{display:flex;gap:8px}
 .tb-links a{font-size:11px;color:var(--text-dim);padding:4px 10px;border:1px solid rgba(255,255,255,.08);border-radius:20px;transition:all .3s}
 .tb-links a:hover{border-color:var(--accent);color:var(--accent)}
@@ -50,14 +51,14 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .splash-counter{font-family:var(--f-head);font-size:clamp(3.5rem,14vw,8rem);color:var(--gold);line-height:1;margin:10px 0;text-shadow:0 0 80px rgba(212,169,83,.35),0 0 160px rgba(212,169,83,.1)}
 .splash-label{font-family:var(--f-zh);font-size:clamp(.9rem,2.5vw,1.1rem);color:var(--text-dim);margin-bottom:30px;letter-spacing:1px}
 .splash-recent{margin-top:0;font-family:var(--f-mono);font-size:clamp(1.4rem,4vw,2rem);color:var(--text);letter-spacing:2px;line-height:2.2}
-.splash-recent .srv{font-family:var(--f-head);font-size:clamp(5rem,18vw,9rem);color:var(--pulse);margin:0 8px;text-shadow:0 0 80px rgba(230,57,70,.4);display:block;line-height:1.1}
+.splash-recent .srv{font-family:var(--f-head);font-size:clamp(5rem,18vw,9rem);color:var(--sudden);margin:0 8px;text-shadow:0 0 80px rgba(255,107,53,.4);display:block;line-height:1.1}
 .splash-recent .srd{color:var(--gold);font-family:var(--f-mono);font-size:clamp(1.4rem,4vw,2rem)}
 .splash-global{margin-top:16px;font-family:var(--f-mono);font-size:14px;color:var(--text-dim);letter-spacing:.5px}
-.splash-global .sgv{color:var(--pulse);font-family:var(--f-head);font-size:18px}
+.splash-global .sgv{color:var(--sudden);font-family:var(--f-head);font-size:18px}
 .splash-refs{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:8px 12px;margin-top:20px}
 .ref-label{font-family:var(--f-mono);font-size:10px;color:rgba(255,255,255,.2);letter-spacing:1px}
 .ref-link{font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.25);text-decoration:none;padding:3px 10px;border:1px solid rgba(255,255,255,.06);border-radius:12px;transition:all .3s}
-.ref-link:hover{color:var(--accent);border-color:rgba(78,168,222,.3);text-shadow:none}
+.ref-link:hover{color:var(--accent);border-color:rgba(255,107,53,.3);text-shadow:none}
 .splash-scroll{margin-top:50px;font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.25);animation:breathe 3s ease-in-out infinite;cursor:pointer}
 @keyframes breathe{0%,100%{opacity:.25;transform:translateY(0)}50%{opacity:.6;transform:translateY(6px)}}
 .section{position:relative;z-index:1;max-width:720px;margin:0 auto;padding:100px 24px}
@@ -69,14 +70,14 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .age-label-txt{font-family:var(--f-zh);font-size:.85rem;color:var(--text-dim)}
 .age-unit{font-family:var(--f-zh);font-size:1.2rem;color:var(--text-dim)}
 #age-slider{-webkit-appearance:none;width:60%;max-width:320px;height:6px;background:rgba(255,255,255,.08);border-radius:3px;outline:none;cursor:pointer}
-#age-slider::-webkit-slider-thumb{-webkit-appearance:none;width:22px;height:22px;background:var(--accent);border-radius:50%;cursor:pointer;box-shadow:0 0 16px rgba(78,168,222,.4)}
+#age-slider::-webkit-slider-thumb{-webkit-appearance:none;width:22px;height:22px;background:var(--accent);border-radius:50%;cursor:pointer;box-shadow:0 0 16px rgba(255,107,53,.4)}
 #age-slider::-moz-range-thumb{width:22px;height:22px;background:var(--accent);border-radius:50%;cursor:pointer;border:none}
-#age-input{width:80px;background:rgba(255,255,255,.1);border:2px solid rgba(78,168,222,.5);border-radius:10px;color:#fff;font-family:var(--f-head);font-size:1.6rem;text-align:center;padding:10px 6px;outline:none;cursor:text;transition:border-color .3s,box-shadow .3s;caret-color:var(--accent)}
+#age-input{width:80px;background:rgba(255,255,255,.1);border:2px solid rgba(255,107,53,.5);border-radius:10px;color:#fff;font-family:var(--f-head);font-size:1.6rem;text-align:center;padding:10px 6px;outline:none;cursor:text;transition:border-color .3s,box-shadow .3s;caret-color:var(--accent)}
 #age-input::placeholder{color:rgba(255,255,255,.2)}
-#age-input:focus{border-color:var(--accent);box-shadow:0 0 20px rgba(78,168,222,.35);background:rgba(255,255,255,.14)}
+#age-input:focus{border-color:var(--accent);box-shadow:0 0 20px rgba(255,107,53,.35);background:rgba(255,255,255,.14)}
 .dash{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:20px}
 .dash-card{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:24px 16px;text-align:center;transition:all .35s}
-.dash-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,180,216,.06)}
+.dash-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(255,107,53,.06)}
 .dash-icon{font-size:1.6rem;margin-bottom:8px}
 .dash-val{font-family:var(--f-head);font-size:clamp(1.3rem,4vw,1.8rem);color:#fff}
 .dash-val.warn{color:var(--gold)}
@@ -110,19 +111,19 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .cta-section{position:relative;z-index:1;padding:80px 24px 120px}
 .cta-grid{display:grid;grid-template-columns:1fr;gap:14px;max-width:500px;margin:20px auto 0}
 .cta-card{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:24px 20px;display:flex;align-items:center;gap:16px;transition:all .4s;cursor:pointer;text-decoration:none}
-.cta-card:hover{transform:translateY(-3px);border-color:var(--accent);box-shadow:0 12px 40px rgba(0,180,216,.08)}
+.cta-card:hover{transform:translateY(-3px);border-color:var(--accent);box-shadow:0 12px 40px rgba(255,107,53,.08)}
 .cta-card .cta-icon{font-size:2rem;flex-shrink:0}
 .cta-card .cta-body{flex:1}
 .cta-card .cta-title{font-family:var(--f-zh);font-size:1rem;color:var(--text-bright);font-weight:700}
 .cta-card .cta-desc{font-family:var(--f-zh);font-size:.85rem;color:var(--text-dim);margin-top:4px}
 .cta-card .cta-arrow{font-family:var(--f-mono);font-size:14px;color:var(--accent);flex-shrink:0}
-.static-footer{position:relative;z-index:1;text-align:center;padding:30px 24px 80px;border-top:1px solid rgba(78,168,222,.06);font-family:var(--f-mono);font-size:12px;color:rgba(255,255,255,.25)}
-#bottom-ticker{position:fixed;bottom:0;left:0;right:0;height:34px;z-index:999;background:rgba(6,10,18,.95);border-top:1px solid rgba(78,168,222,.1);display:flex;align-items:center;justify-content:center;font-family:var(--f-mono);font-size:13px;color:var(--text-dim);letter-spacing:.5px}
-#bottom-ticker .btv{color:var(--pulse);font-family:var(--f-head);margin:0 4px}
+.static-footer{position:relative;z-index:1;text-align:center;padding:30px 24px 80px;border-top:1px solid rgba(255,107,53,.06);font-family:var(--f-mono);font-size:12px;color:rgba(255,255,255,.25)}
+#bottom-ticker{position:fixed;bottom:0;left:0;right:0;height:34px;z-index:999;background:rgba(6,10,18,.95);border-top:1px solid rgba(255,107,53,.1);display:flex;align-items:center;justify-content:center;font-family:var(--f-mono);font-size:13px;color:var(--text-dim);letter-spacing:.5px}
+#bottom-ticker .btv{color:var(--sudden);font-family:var(--f-head);margin:0 4px}
 .fade-in{opacity:0;transform:translateY(30px);transition:opacity .8s ease,transform .8s ease}
 .fade-in.visible{opacity:1;transform:translateY(0)}
-#back-top{position:fixed;bottom:44px;right:16px;z-index:1200;width:42px;height:42px;border-radius:50%;background:rgba(78,168,222,.12);border:1px solid rgba(78,168,222,.26);color:var(--accent);font-size:16px;cursor:pointer;display:none;align-items:center;justify-content:center;transition:all .3s;backdrop-filter:blur(8px)}
-#back-top:hover{background:var(--accent);color:#000}
+#back-top{position:fixed;bottom:44px;right:16px;z-index:1200;width:42px;height:42px;border-radius:50%;background:rgba(255,107,53,.12);border:1px solid rgba(255,107,53,.26);color:var(--sudden);font-size:16px;cursor:pointer;display:none;align-items:center;justify-content:center;transition:all .3s;backdrop-filter:blur(8px)}
+#back-top:hover{background:var(--sudden);color:#000}
 #back-top.show{display:flex}
 /* Scrollable SUDDEN list (hero) */
 .sudden-box{
@@ -131,9 +132,9 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
   padding:28px 28px 22px;
   text-align:left;
   background:linear-gradient(180deg,rgba(10,18,36,.82),rgba(6,10,18,.76));
-  border:1px solid rgba(78,168,222,.22);
+  border:1px solid rgba(255,107,53,.3);
   border-radius:20px;
-  box-shadow:0 24px 80px rgba(0,0,0,.4), 0 0 50px rgba(78,168,222,.08);
+  box-shadow:0 24px 80px rgba(0,0,0,.4), 0 0 50px rgba(255,107,53,.08);
   backdrop-filter:blur(12px)
 }
 .sudden-box-title{
@@ -154,7 +155,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
   padding-right:10px;
   overscroll-behavior:contain;
   scrollbar-width:thin;
-  scrollbar-color:rgba(78,168,222,.3) transparent
+  scrollbar-color:rgba(255,107,53,.3) transparent
 }
 .sudden-day{padding:8px 0 10px;border-top:1px solid rgba(255,255,255,.06)}
 .sudden-day:first-child{border-top:none;padding-top:0}
@@ -169,7 +170,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
   background:rgba(8,12,22,.94);
   backdrop-filter:blur(10px);
   padding:10px 0;
-  border-bottom:1px solid rgba(78,168,222,.1)
+  border-bottom:1px solid rgba(255,107,53,.1)
 }
 .sudden-item{
   display:grid;
@@ -181,29 +182,18 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
   transition:background .25s
 }
 .sudden-item:last-child{border-bottom:none}
-.sudden-item:hover{background:rgba(78,168,222,.08)}
+.sudden-item:hover{background:rgba(255,107,53,.06)}
 .sudden-date{font-family:var(--f-mono);font-size:13px;color:rgba(255,255,255,.38);line-height:1.6;padding-top:3px}
 .sudden-link,.sudden-title{
   font-family:var(--f-zh);
-  font-size:18px;
+  font-size:16px;
   line-height:1.85;
   color:rgba(245,247,251,.9);
   font-weight:650
 }
-/* Three independent stats: 猝死 / 暈倒 / 自殺 */
-.splash-tri-stats{display:flex;flex-direction:column;align-items:center;gap:18px;margin-bottom:24px}
-.tri-stat-item{text-align:center;line-height:1.3}
-.tri-stat-label{font-family:var(--f-mono);font-size:clamp(.75rem,2vw,1rem);letter-spacing:2px;opacity:.85;margin-bottom:4px}
-.tri-stat-num{font-family:var(--f-head);font-size:clamp(1.8rem,6vw,3rem);line-height:1;display:block}
-.tri-stat-num.tri-sudden{color:#ff6b35;text-shadow:0 0 60px rgba(255,107,53,.4)}
-.tri-stat-num.tri-faint{color:#ffae00;text-shadow:0 0 60px rgba(255,174,0,.4)}
-.tri-stat-num.tri-suicide{color:#a855f7;text-shadow:0 0 60px rgba(168,85,247,.4)}
-.tri-stat-label.tri-sudden-lbl{color:#ff8a5c}
-.tri-stat-label.tri-faint-lbl{color:#ffc040}
-.tri-stat-label.tri-suicide-lbl{color:#c084fc}
 .sudden-link{display:inline-block}
-.sudden-link:hover{color:#fff;text-shadow:0 0 10px rgba(0,180,216,.25)}
-.sudden-item:hover{background:rgba(78,168,222,.06)}
+.sudden-link:hover{color:#fff;text-shadow:0 0 10px rgba(255,107,53,.4)}
+
 @media(max-width:768px){body{padding-bottom:30px}.section{padding:70px 20px}.dash{grid-template-columns:repeat(2,1fr)}.cta-grid{grid-template-columns:1fr}}
 @media(max-width:380px){.dash{grid-template-columns:1fr}}
 /* 7/14/30 Day Stats */
@@ -217,6 +207,27 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .stats-summary .ss-label{font-family:var(--f-zh);font-size:clamp(1rem,2.5vw,1.2rem);color:var(--text-dim);margin-top:8px}
 .stats-chart-wrap{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:28px 24px}
 .stats-chart-wrap canvas{max-height:320px}
+/* === tri-stats === */
+.splash-tri-stats{display:flex;flex-direction:column;align-items:center;gap:18px;margin-bottom:24px}
+.tri-stat-item{text-align:center;line-height:1.3}
+.tri-stat-label{font-family:var(--f-mono);font-size:clamp(.75rem,2vw,1rem);letter-spacing:2px;opacity:.85;margin-bottom:4px}
+.tri-stat-num{font-family:var(--f-head);font-size:clamp(1.8rem,6vw,3rem);line-height:1;display:block}
+.tri-stat-num.tri-cardiac{color:#ff4444;text-shadow:0 0 60px rgba(255,68,68,.4)}
+.tri-stat-num.tri-brain{color:#a855f7;text-shadow:0 0 60px rgba(168,85,247,.4)}
+.tri-stat-num.tri-other{color:#ff8c00;text-shadow:0 0 60px rgba(255,140,0,.4)}
+.tri-stat-label.tri-cardiac-lbl{color:#ff6666}
+.tri-stat-label.tri-brain-lbl{color:#c084fc}
+.tri-stat-label.tri-other-lbl{color:#ffaa44}
+/* === subkw bars === */
+.subkw-box{background:var(--card);border:1px solid rgba(255,107,53,.15);border-radius:16px;padding:24px 20px;margin-top:20px}
+.subkw-box h4{font-family:var(--f-zh);font-size:clamp(1.1rem,3vw,1.4rem);font-weight:700;color:var(--accent);margin-bottom:20px;text-align:center;letter-spacing:1px}
+.subkw-row{display:flex;align-items:center;gap:10px;margin-bottom:12px;font-family:var(--f-mono);font-size:13px}
+.subkw-row:last-child{margin-bottom:0}
+.subkw-icon{font-size:1rem;width:24px;text-align:center;flex-shrink:0}
+.subkw-name{width:120px;color:var(--text-dim);flex-shrink:0;font-size:12px;line-height:1.4}
+.subkw-track{flex:1;height:8px;background:rgba(255,255,255,.04);border-radius:4px;overflow:hidden}
+.subkw-fill{height:100%;border-radius:4px;transition:width 1s ease;background:linear-gradient(90deg,var(--sudden),rgba(212,169,83,.7))}
+.subkw-count{width:44px;text-align:right;color:var(--text-bright);font-family:var(--f-head);font-size:13px;flex-shrink:0}
 </style>
 </head>
 <body>
@@ -225,34 +236,25 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 
 <!-- TOP BAR -->
 <nav class="top-bar">
-<div class="tb-counter"><span class="cv" id="dc-since">0</span> 人離世</div>
+<div class="tb-counter"><span class="cv" id="dc-since">0</span> 人因心血管猝逝</div>
 <div class="tb-links">
 <a href="timeline04.html">時代觀測</a>
 <a href="index0203.html">記錄儀</a>
 </div>
 </nav>
 
-<!-- 首屏：死亡相關新聞 -->
+<!-- 首屏：猝死本月記錄 -->
 <section class="main-splash" id="splash">
 
 
-<!-- 三大獨立統計：猝死 / 暈倒昏迷 / 自殺 -->
+<!-- tri-stats -->
 <div class="splash-tri-stats" id="tri-stats">
-  <div class="tri-stat-item">
-    <div class="tri-stat-label tri-sudden-lbl">💔 猝死</div>
-    <div class="tri-stat-num tri-sudden" id="tri-sudden">—</div>
-  </div>
-  <div class="tri-stat-item">
-    <div class="tri-stat-label tri-faint-lbl">⚠️ 暈倒 / 昏迷</div>
-    <div class="tri-stat-num tri-faint" id="tri-faint">—</div>
-  </div>
-  <div class="tri-stat-item">
-    <div class="tri-stat-label tri-suicide-lbl">🕊️ 自殺</div>
-    <div class="tri-stat-num tri-suicide" id="tri-suicide">—</div>
-  </div>
+<div class="tri-stat-item"><div class="tri-stat-label tri-cardiac-lbl">❤️ 心臟猝死</div><div class="tri-stat-num tri-cardiac" id="tri-cardiac">—</div></div>
+<div class="tri-stat-item"><div class="tri-stat-label tri-brain-lbl">🧠 腦血管猝死</div><div class="tri-stat-num tri-brain" id="tri-brain">—</div></div>
+<div class="tri-stat-item"><div class="tri-stat-label tri-other-lbl">⚡ 其他猝死</div><div class="tri-stat-num tri-other" id="tri-other">—</div></div>
 </div>
 <div class="splash-recent" id="recent-days"></div>
-<div class="splash-global">你打開後，全球已有 <span class="sgv" id="dc-since-sub">0</span> 人離世</div>
+<div class="splash-global">你打開後，全球估計已有 <span class="sgv" id="dc-since-sub">0</span> 人因心血管疾病猝逝</div>
 <div class="splash-refs">
 <span class="ref-label">參考來源</span>
 <a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)" target="_blank" rel="noopener">WHO • 心血管</a>
@@ -262,7 +264,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 <!-- Scrollable SUDDEN list -->
 <div class="sudden-box">
-  <div class="sudden-box-title">最新死亡相關新聞 <span class="hint">（向下滑＝更早）</span></div>
+  <div class="sudden-box-title">最新死亡記錄 <span class="hint">（向下滑＝更早）</span></div>
   <div class="sudden-list" id="sudden-list">
     <div style="text-align:center;padding:60px 10px;font-family:'Share Tech Mono',monospace;color:rgba(255,255,255,.4);font-size:16px;line-height:2.4">
       <div style="font-size:1.8rem;margin-bottom:14px;animation:breathe 1.5s ease-in-out infinite">⏳</div>
@@ -274,14 +276,14 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div class="splash-scroll" onclick="document.getElementById('sec-you').scrollIntoView({behavior:'smooth'})">▼</div>
 </section>
 
-<!-- SEC: 近期死亡相關統計 -->
+<!-- SEC: 近期猝死統計 -->
 <div class="stats-box fade-in" id="sec-stats">
 <div class="stats-toggle">
 <button class="active" onclick="setStatsDays(7)">7 天</button>
 <button onclick="setStatsDays(14)">14 天</button>
 <button onclick="setStatsDays(30)">30 天</button>
 </div>
-<div class="stats-summary"><div class="ss-num" id="ss-num">—</div><div class="ss-label" id="ss-label">過去 7 天死亡相關新聞</div></div>
+<div class="stats-summary"><div class="ss-num" id="ss-num">—</div><div class="ss-label" id="ss-label">過去 7 天死亡相關新聞（嚴格篩選）</div></div>
 <div class="stats-chart-wrap"><canvas id="stats-bar-chart"></canvas></div>
 </div>
 
@@ -302,17 +304,17 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </div>
 </div>
 
-<!-- SEC 2: 你的年齡層 × 死亡相關 -->
+<!-- SEC 2: 你的年齡層 × 猝死 -->
 <div class="section fade-in" id="sec-peer">
 <div class="s-label">YOUR AGE GROUP</div>
-<div class="s-title">相同年齡，死亡相關新聞多少?</div>
+<div class="s-title">相同年齡，突發死亡多少?</div>
 <div class="peer-box">
 <div style="font-size:.9rem;color:var(--text-dim);margin-bottom:8px"><span id="p-range">25-35</span> 歲</div>
 <div class="p-big" id="p-deaths">—</div>
-<div class="p-text">本港新聞記錄中，同齡（±5年）死亡相關個案。<br>
+<div class="p-text">本港新聞記錄中，同齡（±5年）突發死亡個案。<br>
 上月 <strong id="p-lm" style="color:var(--gold)">—</strong> 宗 &nbsp;·&nbsp; 上年 <strong id="p-ly" style="color:var(--gold)">—</strong> 宗</div>
 </div>
-<div class="chart-box" style="margin-top:20px"><h4>本港死亡相關年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
+<div class="chart-box" style="margin-top:20px"><h4>本港突發死亡年齡分佈（新聞記錄）</h4><canvas id="age-bar-chart"></canvas></div>
 </div>
 
 <!-- SEC 3: 分類概覽 + 月度趨勢 -->
@@ -322,6 +324,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 
 <div class="chart-box"><h4>📈 月度趨勢</h4><canvas id="mom-chart"></canvas></div>
 <p style="text-align:center;font-family:var(--f-mono);font-size:11px;color:var(--text-dim);margin-top:16px">數據收集自 2021 年至今 · 每日更新 · 共 <span id="proof-total">—</span> 宗記錄</p>
+<div class="subkw-box"><h4>🔍 突發死亡關鍵詞分類統計</h4><div id="subkw-list"></div></div>
 </div>
 
 
@@ -357,10 +360,30 @@ STILL ALIVE © <script>document.write(new Date().getFullYear())</script> — WHO
 </div>
 
 <button id="back-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">▲</button>
-<div id="bottom-ticker">每秒約 <span class="btv">2</span> 人離開 · 每天約 <span class="btv">172,000</span> 人</div>
+<div id="bottom-ticker">全球每天約 <span class="btv">49,000</span> 人因心血管疾病猝逝 · 每年約 <span class="btv">1,790</span> 萬人</div>
 
 <script>
-var DPS=2.0,DPD=172000;
+var DPS=0.57,DPD=49000;
+/* === 精細猝死關鍵詞 === */
+var KW_CARDIAC=['心臟驟停','心臟停頓','心臟停止','突發心臟停頓','心肌梗塞','心梗','心臟病發','急性心臟事件','突發心臟病','心源性猝死','心因性猝死','心源性休克','心因性休克','急性心衰','心臟衰竭','心血管猝死','心律不整致死','心律不整','急性梗塞','主動脈夾層','OHCA','心跳驟停','無呼吸心跳','失去呼吸心跳'];
+var KW_BRAIN=['腦溢血','腦梗塞','腦血管破裂','腦出血','急性腦血管意外','腦幹梗塞','腦栓塞'];
+var KW_CORE=['猝死','猝斃','猝亡','猝逝','猝然離世','猝然倒地','暴斃','暴卒','驟逝','突然死亡','倒地猝死','過勞死','到院前死亡','倒斃','路倒','暴病而亡','睡夢中猝死','床上暴斃','睡夢中離世','英年早逝'];
+var ALL_SUDDEN_KW=KW_CORE.concat(KW_CARDIAC).concat(KW_BRAIN);
+var SUBKW_GROUPS=[
+{icon:'❤️',name:'猝死 / 暴斃 / 驟逝',kws:['猝死','猝斃','猝亡','猝逝','猝然離世','猝然倒地','暴斃','暴卒','驟逝','倒地猝死']},
+{icon:'🫀',name:'心臟驟停 / OHCA',kws:['心臟驟停','心臟停頓','心臟停止','OHCA','心跳驟停','無呼吸心跳','到院前死亡']},
+{icon:'💉',name:'心肌梗塞 / 心臟病發',kws:['心肌梗塞','心梗','心臟病發','急性心臟事件','突發心臟病','心源性猝死','心因性猝死','心源性休克','心因性休克','急性心衰','心臟衰竭','心血管猝死','心律不整致死','主動脈夾層','急性梗塞']},
+{icon:'🧠',name:'腦溢血 / 腦出血 / 腦梗塞',kws:['腦溢血','腦梗塞','腦血管破裂','腦出血','急性腦血管意外','腦幹梗塞']},
+{icon:'😴',name:'過勞死 / 睡夢猝死',kws:['過勞死','睡夢中猝死','床上暴斃','睡夢中離世','暴病而亡']},
+{icon:'🏃',name:'倒斃 / 路倒 / 當場不治',kws:['倒斃','路倒','到院前死亡','暈倒不治','昏倒不治','倒地不治','送院不治','搶救不治','急救無效']}
+];
+function isSuddenDeath(t){return ALL_SUDDEN_KW.some(function(k){return(t||'').includes(k)})}
+function getSuddenColor(t){
+if(KW_CARDIAC.some(function(k){return t.includes(k)}))return '#ff4444';
+if(KW_BRAIN.some(function(k){return t.includes(k)}))return '#a855f7';
+if(KW_CORE.some(function(k){return t.includes(k)}))return '#ff6b35';
+return '#ffaa44';
+}
 var statsDays=7,statsChart=null;
 function setStatsDays(d){
 statsDays=d;
@@ -374,7 +397,7 @@ for(var i=statsDays-1;i>=0;i--){var d=new Date(now);d.setDate(d.getDate()-i);day
 var counts=days.map(function(d){return indexEvents.filter(function(e){return e.date===d}).length});
 var total=counts.reduce(function(a,b){return a+b},0);
 document.getElementById('ss-num').textContent=total;
-document.getElementById('ss-label').textContent='過去 '+statsDays+' 天死亡相關新聞';
+document.getElementById('ss-label').textContent='過去 '+statsDays+' 天死亡相關新聞（嚴格篩選）';
 var labels=days.map(function(d){var p=d.split('-');return parseInt(p[1])+'/'+parseInt(p[2])});
 if(statsChart)statsChart.destroy();
 var barColors=counts.map(function(c,i){
@@ -391,45 +414,18 @@ cv.style.height=Math.min(320,Math.max(200,statsDays*10+80))+'px';
 statsChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:labels,datasets:[{data:counts,backgroundColor:barColors,hoverBackgroundColor:hoverColors,borderWidth:0,borderRadius:4}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{titleFont:{size:14},bodyFont:{size:14},callbacks:{title:function(items){return days[items[0].dataIndex]},label:function(item){return item.raw+' 宗'}}}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{font:{size:13},maxRotation:45,color:'#b0bec5'}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'},ticks:{stepSize:1,font:{size:13},color:'#b0bec5'}}}}});
 }
 var entryTime=Date.now(),allEvents=[],indexEvents=[];
-// INDEX 顯示/統計：死亡相關新聞（必須有「死亡確認詞」）
-// 涵蓋：猝死、意外致死、醫療事故致死 等
+/* === hitIndexTitle v3: 字義=死 直接通過；事件詞需死亡確認 === */
+var KW_DEATH_CERTAIN=['猝死','猝斃','猝亡','猝逝','猝然離世','暴斃','暴卒','驟逝','突然死亡','倒地猝死','過勞死','到院前死亡','倒斃','暴病而亡','睡夢中猝死','床上暴斃','睡夢中離世','英年早逝','心源性猝死','心因性猝死','心血管猝死','心律不整致死'];
+var KW_NEED_CONFIRM=['心臟驟停','心臟停頓','心臟停止','突發心臟停頓','心肌梗塞','心梗','心臟病發','急性心臟事件','突發心臟病','心源性休克','心因性休克','急性心衰','心臟衰竭','心律不整','急性梗塞','主動脈夾層','OHCA','心跳驟停','無呼吸心跳','失去呼吸心跳','腦溢血','腦梗塞','腦血管破裂','腦出血','急性腦血管意外','腦幹梗塞','腦栓塞','猝然倒地','路倒','暈倒','昏迷','昏倒'];
+var DEATH_CONFIRM_WORDS=['不治','死亡','身亡','離世','喪生','猝逝','猝死','猝斃','暴斃','倒斃','送院不治','搶救不治','急救無效','搶救無效','返魂乏術','宣告不治','當場死亡','傷重不治','到院前死亡','宣佈死亡'];
 function hitIndexTitle(t){
-  t = (t || '').trim();
-  if(!t) return false;
-
-  // A) 死亡確認詞（必須命中其中之一）
-  var DEATH_CONFIRM = [
-    '死亡','身亡','不治','離世','倒斃','喪生','罹難','遇難','殉職',
-    '證實死亡','當場死亡','宣告死亡',
-    '送院不治','傷重不治','搶救不治','急救無效',
-    '死者','死亡人數'
-  ];
-
-  // B) 事件詞：你想收嘅範圍（死亡 + 意外 + 醫療事故）
-  // 命中這些，再配合死亡確認詞 → 才算入 Index
-  var EVENT_HINT = [
-    // 猝死 / 突發
-    '猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝','心臟驟停','OHCA','到院前死亡',
-
-    // 意外（常見致死場景）
-    '車禍','交通意外','撞車','翻車','墮海','遇溺','溺斃','火警','失火','爆炸','工傷','塌棚','塌樓',
-
-    // 醫療事故 / 醫療相關致死
-    '醫療事故','醫療疏失','醫療失誤','誤診','延誤治療','手術','麻醉','用藥','注射','院內感染','醫院'
-  ];
-
-  // C) 組合觸發：有些標題會寫「暈倒/昏迷」但其實係致死（要配合死亡確認）
-  var COMBO_TRIGGER = ['暈倒','昏迷','昏倒','倒地','送院','搶救','命危','危殆'];
-
-  var hasDeath = DEATH_CONFIRM.some(function(w){ return t.includes(w); });
-  if(!hasDeath) return false;
-
-  // 死亡已確認：只要見到事件線索（猝死/意外/醫療）或組合觸發，就算入 Index
-  if(EVENT_HINT.some(function(w){ return t.includes(w); })) return true;
-  if(COMBO_TRIGGER.some(function(w){ return t.includes(w); })) return true;
-
-  // 兜底：有死亡確認詞就收
-  return true;
+  t=(t||'');
+  // 1) 字義=死 → 直接通過
+  if(KW_DEATH_CERTAIN.some(function(w){return t.includes(w)})) return true;
+  // 2) 事件詞 → 需同時含死亡確認詞
+  if(KW_NEED_CONFIRM.some(function(w){return t.includes(w)}) &&
+     DEATH_CONFIRM_WORDS.some(function(w){return t.includes(w)})) return true;
+  return false;
 }
 
 /* Scroll progress */
@@ -445,6 +441,33 @@ var obs=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isInte
 document.querySelectorAll('.fade-in').forEach(function(el){obs.observe(el)});
 
 /* Counter */
+/* tri-stats: 心臟/腦血管/其他 */
+function updateTriStats(events){
+var dates={};events.forEach(function(e){dates[e.date]=(dates[e.date]||0)+1});
+var sorted=Object.keys(dates).sort().reverse();var latestDate=sorted[0]||'';
+var dayEvents=events.filter(function(e){return e.date===latestDate});
+var cardiac=0,brain=0,other=0;
+dayEvents.forEach(function(e){var t=e.title||'';
+if(KW_CARDIAC.some(function(k){return t.includes(k)}))cardiac++;
+else if(KW_BRAIN.some(function(k){return t.includes(k)}))brain++;
+else other++;});
+var e1=document.getElementById('tri-cardiac');if(e1)e1.textContent=cardiac;
+var e2=document.getElementById('tri-brain');if(e2)e2.textContent=brain;
+var e3=document.getElementById('tri-other');if(e3)e3.textContent=other;
+}
+/* subkw bars */
+function renderSubkwBars(events){
+var container=document.getElementById('subkw-list');if(!container)return;
+var grouped=SUBKW_GROUPS.map(function(g){
+var count=events.filter(function(e){return g.kws.some(function(k){return(e.title||'').includes(k)})}).length;
+return{icon:g.icon,name:g.name,count:count};});
+var mx=Math.max.apply(null,grouped.map(function(g){return g.count}))||1;
+var html='';grouped.forEach(function(g){
+var pct=((g.count/mx)*100).toFixed(1);
+html+='<div class="subkw-row"><span class="subkw-icon">'+g.icon+'</span><span class="subkw-name">'+g.name+'</span><div class="subkw-track"><div class="subkw-fill" style="width:'+pct+'%"></div></div><span class="subkw-count">'+g.count.toLocaleString()+'</span></div>';});
+container.innerHTML=html;
+document.getElementById('proof-total').textContent=events.length.toLocaleString();
+}
 function tickCounter(){
 var el=(Date.now()-entryTime)/1000;
 var d=Math.floor(el*DPS);
@@ -497,7 +520,7 @@ if(rd&&latest2.length){
 var html='';
 latest2.forEach(function(d){
 var parts=d.split('-');
-html+='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>死亡相關新聞 <span class="srv">'+dates[d]+'</span> 宗<br>';
+html+='<span class="srd">'+parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日</span><br>突發死亡相關新聞 <span class="srv">'+dates[d]+'</span> 宗<br>';
 });
 rd.innerHTML=html;
 }
@@ -527,7 +550,7 @@ var sudden=indexEvents.filter(function(e){return hitIndexTitle(e.title)&&e.age&&
 var bks=[{l:'<20',mn:0,mx:19,v:0},{l:'20s',mn:20,mx:29,v:0},{l:'30s',mn:30,mx:39,v:0},{l:'40s',mn:40,mx:49,v:0},{l:'50s',mn:50,mx:59,v:0},{l:'60s',mn:60,mx:69,v:0},{l:'70+',mn:70,mx:999,v:0}];
 sudden.forEach(function(e){var b=bks.find(function(b){return e.age>=b.mn&&e.age<=b.mx});if(b)b.v++});
 var ui=bks.findIndex(function(b){return age>=b.mn&&age<=b.mx});
-var colors=bks.map(function(_,i){return i===ui?'rgba(212,169,83,.9)':'rgba(78,168,222,.35)'});
+var colors=bks.map(function(_,i){return i===ui?'rgba(212,169,83,.9)':'rgba(255,107,53,.35)'});
 if(ageChart)ageChart.destroy();
 Chart.defaults.color='#8899aa';Chart.defaults.font.family='"Share Tech Mono",monospace';Chart.defaults.font.size=12;
 ageChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:bks.map(function(b){return b.l}),datasets:[{data:bks.map(function(b){return b.v}),backgroundColor:colors,borderWidth:0,borderRadius:4}]},options:{responsive:true,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'}}}}}); 
@@ -559,7 +582,7 @@ document.getElementById('proof-total').textContent=total.toLocaleString();
 /* Monthly trend */
 var mChart=null;
 function renderMoM(events){
-// index 僅顯示死亡相關新聞
+// index 僅顯示猝死/暈倒，不做其他分類
 var ns=events.filter(function(e){return hitIndexTitle(e.title)});
 var mm={};
 ns.forEach(function(e){var ym=e.date.slice(0,7);mm[ym]=(mm[ym]||0)+1});
@@ -568,72 +591,41 @@ var values=labels.map(function(l){return mm[l]});
 var cv=document.getElementById('mom-chart');if(!cv)return;
 if(mChart)mChart.destroy();
 Chart.defaults.color='#8899aa';Chart.defaults.font.family='"Share Tech Mono",monospace';Chart.defaults.font.size=12;
-mChart=new Chart(cv.getContext('2d'),{type:'line',data:{labels:labels,datasets:[{data:values,borderColor:'rgba(78,168,222,.7)',backgroundColor:'rgba(78,168,222,.08)',borderWidth:1.5,pointRadius:1.5,pointHoverRadius:4,fill:true,tension:0.3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{maxTicksLimit:6,font:{size:11}}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.04)'}}}}}); 
+mChart=new Chart(cv.getContext('2d'),{type:'line',data:{labels:labels,datasets:[{data:values,borderColor:'rgba(255,107,53,.7)',backgroundColor:'rgba(255,107,53,.08)',borderWidth:1.5,pointRadius:1.5,pointHoverRadius:4,fill:true,tension:0.3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{maxTicksLimit:6,font:{size:11}}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.04)'}}}}}); 
 }
 /* Splash: scrollable list of SUDDEN records (latest day first; scroll to see older) */
-/* Keywords for title color-coding (independent of hitIndexTitle) */
-var TRI_SUDDEN_KW=['猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝','暈倒不治','昏倒不治','倒地不治','送院不治'];
-var TRI_FAINT_KW=['暈倒','昏迷','昏倒','暈厥','倒地','命危','危殆'];
-var TRI_SUICIDE_KW=['自殺','輕生','尋短','墮樓','跳樓','燒炭','上吊','割腕','自縊','投河','跳橋','跳軌','自盡','自焚','吊頸'];
-function matchesKwList(t,kwList){return kwList.some(function(k){return t.includes(k)})}
-// Priority order for color: 猝死 > 暈倒 > 自殺 > default
-function getTitleColor(t){
-  if(matchesKwList(t,TRI_SUDDEN_KW))return '#ff6b35';
-  if(matchesKwList(t,TRI_FAINT_KW))return '#ffae00';
-  if(matchesKwList(t,TRI_SUICIDE_KW))return '#a855f7';
-  return '';
-}
-// Each counter is independent: a title matching multiple categories increments all counters (intentional)
-function updateTriStats(events){
-  // 找到最新一天的日期
-  var dates={};
-  events.forEach(function(e){dates[e.date]=(dates[e.date]||0)+1});
-  var sorted=Object.keys(dates).sort().reverse();
-  var latestDate=sorted[0]||'';
-  // 只統計最新一天
-  var dayEvents=events.filter(function(e){return e.date===latestDate});
-  var sc=0,fc=0,suc=0;
-  dayEvents.forEach(function(e){
-    var t=e.title||'';
-    if(matchesKwList(t,TRI_SUDDEN_KW))sc++;
-    if(matchesKwList(t,TRI_FAINT_KW))fc++;
-    if(matchesKwList(t,TRI_SUICIDE_KW))suc++;
-  });
-  var el1=document.getElementById('tri-sudden');if(el1)el1.textContent=sc.toLocaleString();
-  var el2=document.getElementById('tri-faint');if(el2)el2.textContent=fc.toLocaleString();
-  var el3=document.getElementById('tri-suicide');if(el3)el3.textContent=suc.toLocaleString();
-}
 function renderSuddenList(events){
 var box=document.getElementById('sudden-list');
 if(!box)return;
 var sudden=events.filter(function(e){return hitIndexTitle(e.title)});
 if(!sudden.length){box.textContent='暫無記錄';return;}
-// group by date; newest date shown first
+var newestDate=sudden[0]?new Date(sudden[0].date):new Date();
+var cutoff=new Date(newestDate);cutoff.setDate(cutoff.getDate()-365);
+var cutoffStr=cutoff.toISOString().slice(0,10);
+var visible=sudden.filter(function(e){return e.date>=cutoffStr});
+var truncated=sudden.length-visible.length;
 var groups={};
-for(var i=0;i<sudden.length;i++){
-var d=sudden[i].date;
-if(!groups[d])groups[d]=[];
-groups[d].push(sudden[i]);
-}
+for(var i=0;i<visible.length;i++){var d=visible[i].date;if(!groups[d])groups[d]=[];groups[d].push(visible[i]);}
 var dates=Object.keys(groups).sort().reverse();
 var html='';
 for(var di=0;di<dates.length;di++){
 var date=dates[di];
 html+='<div class="sudden-day">';
-html+='<div class="sudden-day-h">'+date+'</div>';
+html+='<div class="sudden-day-h">'+date+'（'+groups[date].length+' 宗）</div>';
 var arr=groups[date];
 for(var j=0;j<arr.length;j++){
 var e=arr[j];
 var title=(e.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 var url=(e.url||'').trim();
-var dateShort=(e.date||'').slice(5); // MM-DD
-var titleColor=getTitleColor(e.title||'');
-var colorAttr=titleColor?' style="color:'+titleColor+'"':'';
+var dateShort=(e.date||'').slice(5);
+var tc=getSuddenColor(e.title||'');
+var colorAttr=tc?' style="color:'+tc+'"':'';
 var tHtml=url?('<a class="sudden-link"'+colorAttr+' href="'+url+'" target="_blank" rel="noopener">'+title+'</a>'):('<span class="sudden-title"'+colorAttr+'>'+title+'</span>');
 html+='<div class="sudden-item"><div class="sudden-date">'+dateShort+'</div><div>'+tHtml+'</div></div>';
 }
 html+='</div>';
 }
+if(truncated>0){html+='<div style="text-align:center;font-family:var(--f-mono);font-size:11px;color:rgba(255,255,255,.28);padding:12px 0">另有 '+truncated.toLocaleString()+' 宗較早記錄 · 趨勢圖已包含全部數據</div>';}
 box.innerHTML=html;
 box.scrollTop=0;
 // 加入可捲動提示
@@ -731,21 +723,28 @@ var N=Math.min(35,Math.floor(W*H/40000));
 for(var i=0;i<N;i++)ps.push({x:Math.random()*W,y:Math.random()*H,r:Math.random()*1.2+.2,dx:(Math.random()-.5)*.15,dy:(Math.random()-.5)*.1,a:Math.random()*.15+.03});
 function draw(){
 ctx.clearRect(0,0,W,H);
-for(var j=0;j<ps.length;j++){var p=ps[j];p.x+=p.dx;p.y+=p.dy;if(p.x<0)p.x=W;if(p.x>W)p.x=0;if(p.y<0)p.y=H;if(p.y>H)p.y=0;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fillStyle='rgba(78,168,222,'+p.a+')';ctx.fill()}
-for(var i2=0;i2<ps.length;i2++)for(var j2=i2+1;j2<ps.length;j2++){var dx=ps[i2].x-ps[j2].x,dy=ps[i2].y-ps[j2].y,dist=Math.sqrt(dx*dx+dy*dy);if(dist<120){ctx.beginPath();ctx.moveTo(ps[i2].x,ps[i2].y);ctx.lineTo(ps[j2].x,ps[j2].y);ctx.strokeStyle='rgba(78,168,222,'+(0.025*(1-dist/120))+')';ctx.stroke()}}
+for(var j=0;j<ps.length;j++){var p=ps[j];p.x+=p.dx;p.y+=p.dy;if(p.x<0)p.x=W;if(p.x>W)p.x=0;if(p.y<0)p.y=H;if(p.y>H)p.y=0;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fillStyle='rgba(255,107,53,'+p.a+')';ctx.fill()}
+for(var i2=0;i2<ps.length;i2++)for(var j2=i2+1;j2<ps.length;j2++){var dx=ps[i2].x-ps[j2].x,dy=ps[i2].y-ps[j2].y,dist=Math.sqrt(dx*dx+dy*dy);if(dist<120){ctx.beginPath();ctx.moveTo(ps[i2].x,ps[i2].y);ctx.lineTo(ps[j2].x,ps[j2].y);ctx.strokeStyle='rgba(255,107,53,'+(0.025*(1-dist/120))+')';ctx.stroke()}}
 requestAnimationFrame(draw);
 }draw();
 })();
 
 /* Data Loading */
 function loadAllData(){
-var _t=new Date();var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
-function renderAll(events){
-indexEvents=events.filter(function(e){return hitIndexTitle(e.title)});
+var startY=2021,endY=new Date().getFullYear(),loads=[];
+for(var y=startY;y<=endY;y++)(function(yr){loads.push(new Promise(function(res){var s=document.createElement('script');s.src='data_'+yr+'.js';s.onload=function(){res(yr)};s.onerror=function(){res(null)};document.head.appendChild(s)}))})(y);
+loads.push(new Promise(function(res){var s=document.createElement('script');var _t=new Date();var _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');s.src='data_today.js?v='+_v;s.onload=function(){res('today')};s.onerror=function(){res(null)};document.head.appendChild(s)}));
+Promise.all(loads).then(function(){
+var parts=[];for(var yr=startY;yr<=endY;yr++)if(window['DATA_'+yr])parts.push(window['DATA_'+yr]);if(window.DATA_TODAY)parts.push(window.DATA_TODAY);
+var merged=parts.join('\n');
+if(merged.trim()){
+allEvents=parseData(merged);
+// index 專用：只保留「猝死 / 暈倒」兩個絕對詞命中
+indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
 try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
-try{updateTriStats(indexEvents)}catch(e){console.error('TriStats',e)}
 try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
-// 注意：index 不顯示其他分類統計，因此不呼叫 renderCatBars
+try{updateTriStats(indexEvents)}catch(e){console.error('TriStats',e)}
+try{renderSubkwBars(indexEvents)}catch(e){console.error('SubkwBars',e)}
 try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
 try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
 var age=parseInt(slider.value)||30;
@@ -753,14 +752,7 @@ try{updatePeer(age)}catch(e){console.error('Peer',e)}
 try{renderAgeBar(age)}catch(e){console.error('AgeBar',e)}
 try{renderStatsBar()}catch(e){console.error('StatsBar',e)}
 }
-// Phase 1: 先載入 data_today.js（加 cache-busting），立即渲染首屏
-new Promise(function(res){var s=document.createElement('script');s.src='data_today.js?v='+_v;s.onload=function(){res()};s.onerror=function(){res()};document.head.appendChild(s)}).then(function(){
-if(window.DATA_TODAY&&window.DATA_TODAY.trim()){allEvents=parseData(window.DATA_TODAY);renderAll(allEvents);}
-// Phase 2: 背景載入 data_0000.js，完成後合併重新渲染
-new Promise(function(res){var s=document.createElement('script');s.src='data_0000.js?v='+_v;s.onload=function(){res()};s.onerror=function(){res()};document.head.appendChild(s)}).then(function(){
-var parts=[];if(window.DATA_0000)parts.push(window.DATA_0000);if(window.DATA_TODAY)parts.push(window.DATA_TODAY);
-var merged=parts.join('\n');if(merged.trim()){allEvents=parseData(merged);renderAll(allEvents);}
-});});
+});
 }
 
 /* INIT */
