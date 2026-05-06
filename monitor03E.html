@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>生死記錄儀 V9.0 — VITAL LIFE MONITOR</title>
+<title>生死記錄儀 V10.0 — VITAL LIFE MONITOR</title>
 <meta property="og:title" content="生死記錄儀 — Death Monitor">
 <meta property="og:description" content="記錄七年大災難中的生死數據">
 <meta property="og:image" content="og-still-alive.png">
@@ -16,7 +16,7 @@
 :root{
 --c-bg:#030405;--c-panel:rgba(8,12,18,.95);--c-border:#1a2a3a;
 --c-accent:#00f3ff;--c-fatal:#ff2a2a;--c-crit:#ffae00;--c-acc:#00ff41;
---c-dim:#6a8a9a;--c-sudden:#ff6b35;--c-soul:#a855f7;--c-hope:#8bffb0;
+--c-dim:#6a8a9a;--c-sudden:#ff6b35;--c-heart:#ff2a2a;--c-brain:#00f3ff;--c-soul:#a855f7;--c-hope:#8bffb0;
 --f-mono:'Share Tech Mono',monospace;--f-head:'Orbitron',sans-serif;
 --f-text:'Jura','Noto Sans TC',sans-serif;
 --f-serif:'Noto Serif TC',serif;
@@ -74,10 +74,8 @@ display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap
 .lifeline-card h3{font-family:var(--f-mono);font-size:16px;color:var(--c-accent);margin-bottom:10px}
 .lifeline-card .big-number{font-family:var(--f-head);font-size:clamp(1.8rem,5vw,2.5rem);color:#fff;text-shadow:0 0 30px var(--c-accent)}
 .lifeline-card .unit{font-size:12px;color:#888;margin-top:4px;font-family:var(--f-mono)}
-.
 
 /* ===== 四格區塊 ===== */
-.x{}
 .four-grid{display:none}
 .fg-card{background:var(--c-panel);border:1px solid var(--c-border);border-radius:10px;padding:20px;text-align:center;transition:all .3s}
 .fg-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
@@ -125,8 +123,6 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 .filter-select option{background:#0a0f14;color:#fff}
 .btn-reset{background:rgba(255,42,42,.15);border:1px solid rgba(255,42,42,.4);color:#ff8888;padding:8px 12px;font-family:var(--f-mono);font-size:10px;cursor:pointer;border-radius:4px;transition:all .3s;white-space:nowrap}
 .btn-reset:hover{background:var(--c-fatal);color:#fff}
-.quick-tag{background:rgba(255,107,53,.15);border:1px solid rgba(255,107,53,.4);color:#ffcba4;padding:8px 14px;font-family:var(--f-mono);font-size:12px;cursor:pointer;border-radius:20px;transition:all .3s;white-space:nowrap}
-.quick-tag:hover{background:var(--c-sudden);color:#fff;box-shadow:0 0 15px var(--c-sudden)}
 .filter-summary{width:100%;font-size:10px;color:#666;font-family:var(--f-mono);padding-top:4px}
 
 /* ===== Log Stream ===== */
@@ -149,6 +145,21 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 .type-ACC .title a{color:#ccffcc}
 .type-SUDDEN{border-left-color:var(--c-sudden);background:rgba(255,107,53,.06)}
 .type-SUDDEN .title a{color:#ffcba4}
+.type-SUDDEN.sub-heart{border-left-color:var(--c-heart);background:rgba(255,42,42,.06)}
+.type-SUDDEN.sub-heart .title a{color:#ffcccc}
+.type-SUDDEN.sub-brain{border-left-color:var(--c-brain);background:rgba(0,243,255,.04)}
+.type-SUDDEN.sub-brain .title a{color:#aaf0ff}
+.type-SUDDEN.sub-other{border-left-color:var(--c-sudden);background:rgba(255,107,53,.06)}
+.type-SUDDEN.sub-other .title a{color:#ffcba4}
+.quick-tag{padding:8px 14px;font-family:var(--f-mono);font-size:12px;cursor:pointer;border-radius:20px;transition:all .3s;white-space:nowrap;border:1px solid}
+.qt-all{background:rgba(255,107,53,.12);border-color:rgba(255,107,53,.4);color:#ffcba4}
+.qt-all:hover,.qt-all.active{background:var(--c-sudden);color:#fff;box-shadow:0 0 15px var(--c-sudden)}
+.qt-heart{background:rgba(255,42,42,.12);border-color:rgba(255,42,42,.4);color:#ffaaaa}
+.qt-heart:hover,.qt-heart.active{background:var(--c-heart);color:#fff;box-shadow:0 0 15px var(--c-heart)}
+.qt-brain{background:rgba(0,243,255,.08);border-color:rgba(0,243,255,.3);color:#aaf0ff}
+.qt-brain:hover,.qt-brain.active{background:var(--c-brain);color:#000;box-shadow:0 0 15px var(--c-brain)}
+.qt-other-sudden{background:rgba(255,107,53,.12);border-color:rgba(255,107,53,.35);color:#ffcba4}
+.qt-other-sudden:hover,.qt-other-sudden.active{background:var(--c-sudden);color:#fff;box-shadow:0 0 15px var(--c-sudden)}
 .type-SPAM{border-left-color:#555;opacity:.4;font-style:italic;display:none;} /* 預設隱藏 SPAM */
 .type-SPAM .title a{color:#888}
 .type-OTHER{border-left-color:#3a4a5a;background:rgba(58,74,90,.05)}
@@ -323,7 +334,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <header>
 <div>
 <div class="brand">VITAL LIFE MONITOR</div>
-<span class="brand-subtitle">生死記錄儀 V9.0 | 2019 COVID → 2028 END-TIME?</span>
+<span class="brand-subtitle">生死記錄儀 V10.0 | 猝死優先版 | 2019 COVID → 2028 END-TIME?</span>
 </div>
 <div id="ecg-container">
 <span class="ecg-label">VITAL SIGNS</span>
@@ -373,34 +384,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 
 
 
-<!-- [life-tools removed] -->
-<div class="life-tools">
-<div class="life-card">
-<h3>⏳ 你的生命計算器</h3>
-<div>你的年齡：<input type="number" id="user-age" value="40" min="1" max="120"> 歲</div>
-<button class="btn" onclick="calculateLife()">計 算</button>
-<div class="life-stats-grid">
-<div class="life-stat-box"><div class="stat-value" id="days-lived-box">14,600</div><div class="stat-label">已活天數</div></div>
-<div class="life-stat-box"><div class="stat-value" id="days-left-box" style="color:var(--c-acc)">14,600</div><div class="stat-label">剩餘天數</div></div>
-<div class="life-stat-box"><div class="stat-value" id="life-percent-box" style="color:var(--c-crit)">50.0%</div><div class="stat-label">生命已用</div></div>
-<div class="life-stat-box"><div class="stat-value" id="to-2027-box" style="color:var(--c-fatal)">--</div><div class="stat-label">距吹角節</div></div>
-</div>
-<div class="result" id="life-result" style="font-size:13px;margin-top:10px">輸入你的年齡，計算生命進度</div>
-</div>
-<div class="life-card">
-<h3>🔍 同齡過濾器</h3>
-<div>查看：<input type="number" id="peer-age" placeholder="年齡" min="1" max="120"> ± 5歲
-<button class="btn" style="margin-left:8px" onclick="filterByAge()">過 濾</button>
-</div>
-<div class="result" id="peer-result">輸入年齡或點擊年齡段，查看同齡人的記錄</div>
-<div style="margin-top:12px">
-<div style="font-family:var(--f-mono);font-size:10px;color:var(--c-accent);margin-bottom:6px">📊 年齡分佈</div>
-<canvas id="age-dist" style="width:100%;height:70px"></canvas>
-</div>
-</div>
-</div>
 
-</div>
 
 <!-- 三欄主區 -->
 <main>
@@ -413,7 +397,10 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <select id="month-filter" class="filter-select" onchange="filterEvents()"><option value="">全部月份</option></select>
 <input type="number" id="age-filter" placeholder="±5歲" min="1" max="120">
 <button class="btn-reset" onclick="resetFilters()">🔄 重設</button>
-<button class="quick-tag" onclick="document.getElementById('search-input').value='猝死';filterEvents()">💔 猝死</button>
+<button class="quick-tag qt-all active" id="qt-all" onclick="quickTagFilter('all')">💔 全部猝死</button>
+<button class="quick-tag qt-heart" id="qt-heart" onclick="quickTagFilter('heart')">❤️ 心臟</button>
+<button class="quick-tag qt-brain" id="qt-brain" onclick="quickTagFilter('brain')">🧠 腦血管</button>
+<button class="quick-tag qt-other-sudden" id="qt-other" onclick="quickTagFilter('other')">⚡ 其他猝死</button>
 <div class="filter-summary" id="filter-summary"></div>
 </div>
 <div id="log-stream"></div>
@@ -542,7 +529,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <div class="immersive-stage" id="stage-6">
 <div class="immersive-question">有一條路<br>不再懼怕</div>
 <div class="immersive-sub">因為...</div>
-<div class="immersive-wisdom">「神愛世人，甚至將祂的獨生子賜給他們<br>叫一切信祂的，不致滅亡，反得永生。」<span class="immersive-ref">— 約翰福音 3:16</span></div>
+<div class="immersive-wisdom">「 神愛世人，甚至將祂的獨生子賜給他們<br>叫一切信祂的，不致滅亡，反得永生。」<span class="immersive-ref">— 約翰福音 3:16</span></div>
 <button class="immersive-btn primary" onclick="nextStage(7)">我想知道更多</button>
 <button class="immersive-btn" onclick="closeImmersive()">讓我再想想</button>
 </div>
@@ -561,7 +548,8 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <div class="immersive-sub" style="display:none">如果你真心這樣禱告了。恭喜您! 你已經成為 神的兒女了!<br>死亡不再是終點，而是回天家的大門。願我們在天家裡相見，願主祝福你，阿們<br><br>祂是笑臉幫助我們，是不斥責人的 神，祂以我們的默念為甘甜。<br><br>我們既然藉著主耶穌基督得與　神和好，也就藉著他以　神為樂<br><br>真實地可以與祂一同生活，一起面對所有問題<br><br>相信祂的應許，盼望祂再來的那天來到。<br><br>願主祝福你，使你能夠深深認識祂，相信祂。<br><br>祂必喜悅你以真誠和愛心去回應祂的真情。<br><br>願我們一起同走這永生之路，在天家裡相見，阿們。</div>
 <div style="display:flex;flex-direction:column;gap:10px;margin:20px 0;align-items:center">
 <a href="https://e.pcloud.link/publink/show?code=XZnHDNZwlvsOG27VGVYCpQrC8xTIylamRK7" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">📺 福音橋 2025（普通話）</a>
-<a href="https://flossy-dish-cfd.notion.site/01-the-Good-News-for-us-2fcf133f651f80a692c9f98ddc7630e3" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">📺 五色的奧秘（廣東話）</a>
+<a href="https://e.pcloud.link/publink/show?code=XZh44AZ3cuBmAxfsw79ndttp2rUzhHhlW8X" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">📺 福音橋（廣東話）</a>
+<a href="https://rumble.com/v77qs7e-436270154.html" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">📺 五色的奧秘（廣東話）</a>
 </div>
 
 <button class="immersive-btn primary" onclick="nextStage(9)">阿 們</button>
@@ -571,7 +559,8 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <div class="immersive-sub">如果你真心這樣禱告了。恭喜您! 你已經成為 神的兒女了!<br>死亡不再是終點，而是回天家的大門。願我們在天家裡相見，願主祝福你，阿們<br><br>祂是笑臉幫助我們，是不斥責人的 神，祂以我們的默念為甘甜。<br><br>我們既然藉著主耶穌基督得與　神和好，也就藉著他以　神為樂<br><br>真實地可以與祂一同生活，一起面對所有問題<br><br>相信祂的應許，盼望祂再來的那天來到。<br><br>願主祝福你，使你能夠深深認識祂，相信祂。<br><br>祂必喜悅你以真誠和愛心去回應祂的真情。<br><br>願我們一起同走這永生之路，在天家裡相見，阿們。</div>
 <div style="display:flex;flex-direction:column;gap:10px;margin:20px 0;align-items:center">
 <a href="https://e.pcloud.link/publink/show?code=XZnHDNZwlvsOG27VGVYCpQrC8xTIylamRK7" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">📺 福音橋 2025（普通話）</a>
-<a href="https://flossy-dish-cfd.notion.site/01-the-Good-News-for-us-2fcf133f651f80a692c9f98ddc7630e3" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">📺 五色的奧秘（廣東話）</a>
+<a href="https://e.pcloud.link/publink/show?code=XZh44AZ3cuBmAxfsw79ndttp2rUzhHhlW8X" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">📺 福音橋（廣東話）</a>
+<a href="https://rumble.com/v77qs7e-436270154.html" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">📺 五色的奧秘（廣東話）</a>
 <a href="https://e.pcloud.link/publink/show?code=XZvUaNZT9PeIugWINRO7QN05ftGC7LHFhlX" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-soul);color:var(--c-soul)">🎵 詩歌01 — 永恆的婚誓</a>
 <a href="https://e.pcloud.link/publink/show?code=XZCYYNZ9BIRdIzCx9u3f4uHWs0HuVxfzE0X" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-soul);color:var(--c-soul)">🎵 詩歌02 — 雅歌的心願 MV</a>
 <a href="https://e.pcloud.link/publink/show?code=XZkLwaZLR2qiwdd14hKtYF5uYDpypCxmmQV" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-soul);color:var(--c-soul)">🎵 詩歌03 — 生命的吶喊 MV</a>
@@ -608,12 +597,20 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <div class="link-title">05 聖經資訊（普通話）</div>
 <a href="https://e.pcloud.link/publink/show?code=kZG8zaZpg5DO5gtmuhmDUrC4tjRCpJ7QT8V" target="_blank">pCloud 連結 →</a>
 </div>
+<div class="link-card">
+<div class="link-title">06 福音橋（廣東話）</div>
+<a href="https://e.pcloud.link/publink/show?code=XZh44AZ3cuBmAxfsw79ndttp2rUzhHhlW8X" target="_blank">觀看 →</a>
+</div>
+<div class="link-card">
+<div class="link-title">07 五色的奧秘（廣東話）</div>
+<a href="https://e.pcloud.link/publink/show?code=XZe9REZXgIOJH7229yC2Sed3eDQdmqR62jX" target="_blank">觀看 →</a>
+</div>
 </div>
 </div>
 <!-- 貼上區（置底） -->
 <div class="paste-zone">
 <textarea id="paste-input" class="paste-area" placeholder="把資料貼在這裡（日期 TAB 網址 TAB 標題）
-或等待自動載入 data-YYYY.js / data-today.js"></textarea>
+或等待自動載入 data_0000.js / data_today.js"></textarea>
 <div class="paste-buttons">
 <button class="btn" onclick="loadPastedData()">📥 載入貼上內容</button>
 <button class="btn" onclick="document.getElementById('file-input').click()">📂 選擇檔案</button>
@@ -629,13 +626,14 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 
 <script>
 // ═══════════════════════════════════════════════
-// VITAL LIFE MONITOR v9.0 (Chart.js + JSON Rules)
+// VITAL LIFE MONITOR v10.0 (Chart.js + JSON Rules)
 // ═══════════════════════════════════════════════
 let allEvents = [];
 let filteredEvents = [];
 let candleCounts = JSON.parse(localStorage.getItem('candleCounts') || '{}');
 let totalCandles = Object.values(candleCounts).reduce((a, b) => a + b, 0);
 let currentTimeRange = 'week';
+let currentSubFilter = 'all';
 
 const DEATHS_PER_SECOND = 2.0;
 let deathEntryTime = null;
@@ -683,6 +681,32 @@ function isSpamFallback(t) {
   if(t.length<4) return true;
   if(/廣告|優惠|折扣|代購|加盟|貸款|開戶|免費領/.test(t)) return true;
   return false;
+}
+
+// ===== 猝死二層偵測（參考 gh_sudden.html）=====
+const L1_HEART = ['心臟驟停','OHCA','過勞死','心肌梗塞','心臟病發','心源性猝死','心因性猝死','心源性休克','心因性休克','急性心臟事件','突發心臟病','心律不整致死','急性梗塞','急性心衰','主動脈夾層'];
+const L1_BRAIN = ['腦溢血','腦出血','腦梗塞','腦血管破裂','急性腦血管意外'];
+const L1_OTHER_SUDDEN = ['猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝','倒地猝死','到院前死亡','倒斃','路倒','暴病而亡','睡夢中離世','床上暴斃','睡夢中猝死'];
+const ALL_L1 = [...L1_HEART, ...L1_BRAIN, ...L1_OTHER_SUDDEN];
+const L2_FAINT = ['暈倒','昏迷','昏倒','倒地'];
+const L2_DEATH = ['不治','搶救無效','急救無效'];
+const L2_EXCL  = ['墮樓','墮下','跳樓','跳橋','跳軌','車禍','車撞','被撞','遭撞','燒炭','自殺','輕生'];
+
+function isSuddenL2(title) {
+  if (ALL_L1.some(w => title.includes(w))) return true;
+  const hasFaint = L2_FAINT.some(w => title.includes(w));
+  const hasDeath = L2_DEATH.some(w => title.includes(w));
+  const hasExcl  = L2_EXCL.some(w => title.includes(w));
+  return hasFaint && hasDeath && !hasExcl;
+}
+
+function subClassify(title) {
+  if (L1_BRAIN.some(w => title.includes(w))) return 'brain';
+  if (L1_HEART.some(w => title.includes(w))) return 'heart';
+  const hasFaint = L2_FAINT.some(w => title.includes(w));
+  const hasDeath = L2_DEATH.some(w => title.includes(w));
+  if (hasFaint && hasDeath && (title.includes('心') || title.includes('心臟'))) return 'heart';
+  return 'other';
 }
 
 // 核心分類邏輯：優先使用 JSON，否則使用後備
@@ -745,6 +769,19 @@ function categorize(title) {
       '睡夢中離世','床上暴斃','睡夢中猝死'
     ];
     if (suddenForced.some(k => t.includes(k))) return 'SUDDEN';
+    // ── 3.6 EXCLUDE: layer-2 + exclusion words → ACC ──
+    const L2_EXCL_WORDS = ['墮樓','墮下','跳樓','跳橋','跳軌','車禍','車撞','被撞','遭撞','燒炭','自殺','輕生'];
+    const hasL2Excl = L2_EXCL_WORDS.some(w => t.includes(w));
+    if (hasL2Excl) {
+      const L1_DIRECT = ['猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝','倒地猝死','OHCA','到院前死亡','過勞死','心臟驟停','腦溢血','腦出血'];
+      if (!L1_DIRECT.some(k => t.includes(k))) {
+        const L2F = ['暈倒','昏迷','昏倒','倒地'];
+        const L2D = ['不治','搶救無效','急救無效'];
+        if (L2F.some(w => t.includes(w)) && L2D.some(w => t.includes(w))) {
+          return 'ACC';
+        }
+      }
+    }
     // ── 4. Priority 順序關鍵字匹配（非猝死核心詞才走此路）──
     if (jsonRules.priority && jsonRules.keywords) {
       for (const cat of jsonRules.priority) {
@@ -759,9 +796,9 @@ function categorize(title) {
         }
       }
     }
-    // ── 5. Death Confirmed 兜底 → SUDDEN（對齊 Python R14）──
+    // ── 5. Death Confirmed 兜底 → FATAL（收緊：非核心猝死詞歸 FATAL）──
     if (jsonRules.death_confirmed && jsonRules.death_confirmed.some(w => t.includes(w))) {
-      return 'SUDDEN';
+      return 'FATAL';
     }
     
     return 'OTHER';
@@ -784,7 +821,7 @@ const dailyVerses = [
   { text: '你們要謹慎行事，不要像愚昧人，當像智慧人。要愛惜光陰，因為現今的世代邪惡。', ref: '以弗所書 5:15-16' },
   { text: '按著定命，人人都有一死，死後且有審判。', ref: '希伯來書 9:27' },
   { text: '凡有血氣的盡都如草；他的美容都像野地的花。草必枯乾，花必凋殘。', ref: '以賽亞書 40:6-7' },
-  { text: '神愛世人，甚至將他的獨生子賜給他們，叫一切信他的，不致滅亡，反得永生。', ref: '約翰福音 3:16' },
+  { text: ' 神愛世人，甚至將他的獨生子賜給他們，叫一切信他的，不致滅亡，反得永生。', ref: '約翰福音 3:16' },
   { text: '人若賺得全世界，賠上自己的生命，有甚麼益處呢？人還能拿甚麼換生命呢？', ref: '馬太福音 16:26' },
 ];
 const dailyQuestions = [
@@ -840,7 +877,9 @@ function parseData(raw){
     dateStr=`${String(y).padStart(4,'0')}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
     if(Number.isNaN(new Date(dateStr).getTime())) continue;
 
-    events.push({date:dateStr,url,title,category:categorize(title),age:extractAge(title)});
+    const cat=categorize(title);
+    const sub=(cat==='SUDDEN')?subClassify(title):null;
+    events.push({date:dateStr,url,title,category:cat,sub:sub,age:extractAge(title)});
   }
   const seen=new Set();
   const unique=events.filter(e=>{const k=e.date+'||'+e.title;if(seen.has(k))return false;seen.add(k);return true});
@@ -869,7 +908,7 @@ function getKeywordStats(events){
 function renderList(events){
   const c=document.getElementById('log-stream'); c.innerHTML='';
   for(const e of events){
-    const div=document.createElement('div'); div.className=`log-item type-${e.category}`;
+    const div=document.createElement('div'); div.className=`log-item type-${e.category}${e.sub?' sub-'+e.sub:''}`;
     const ageBadge=e.age?`<span class="age-badge">約${e.age}歲</span>`:'';
     const eid=`${e.date}-${(e.title||'').slice(0,20)}`;
     const isLit=(candleCounts[eid]||0)>0;
@@ -1232,7 +1271,8 @@ function filterEvents(){
   const av=document.getElementById('age-filter').value;
   const yv=document.getElementById('year-filter').value;
   const mv=document.getElementById('month-filter').value;
-  const base=av?allEvents:getTimeRangeBase();
+  let base=av?allEvents:getTimeRangeBase();
+  if(currentSubFilter!=='all') base=base.filter(e=>e.category==='SUDDEN'&&e.sub===currentSubFilter);
   filteredEvents=base.filter(e=>{
     let ok=true;
     if(q) ok=(e.title||'').toLowerCase().includes(q)||(e.date||'').includes(q);
@@ -1254,9 +1294,18 @@ function resetFilters(){
   document.getElementById('age-filter').value='';
   document.getElementById('year-filter').value='';
   document.getElementById('month-filter').value='';
+  currentSubFilter='all';
+  document.querySelectorAll('.quick-tag').forEach(b=>b.classList.remove('active'));
+  const qtAll=document.getElementById('qt-all'); if(qtAll) qtAll.classList.add('active');
   const el=document.getElementById('filter-summary'); if(el) el.textContent='';
   filteredEvents=[...allEvents];
   renderList(filteredEvents);updateStats(filteredEvents);renderKeywordCloud(getTimeRangeBase());renderTrendChart(filteredEvents);showTodayFocus(filteredEvents);
+}
+function quickTagFilter(sub){
+  currentSubFilter=sub;
+  document.querySelectorAll('.quick-tag').forEach(b=>b.classList.remove('active'));
+  const el=document.getElementById('qt-'+sub); if(el) el.classList.add('active');
+  filterEvents();
 }
 function filterByTimeRange(range){
   currentTimeRange=range;
@@ -1317,6 +1366,7 @@ function autoLoadData(){
     document.getElementById('paste-input').placeholder='⚠️ 本機開啟請用 python -m http.server 8000\n再開 http://localhost:8000/monitor.html';
     return;
   }
+  // === 兩階段載入：data_today.js（快速首屏）→ data_0000.js（完整合併）===
   const _t=new Date();
   const _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
   function renderData(merged){
@@ -1325,7 +1375,7 @@ function autoLoadData(){
       loadPastedData();
     }
   }
-  // Phase 1: 先載入 data_today.js（加 cache-busting），立即渲染首屏
+  // Phase 1: 先載入 data_today.js，立即渲染首屏
   new Promise(resolve=>{
     const s=document.createElement('script');
     s.src='data_today.js?v='+_v;
@@ -1347,7 +1397,7 @@ function autoLoadData(){
       if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
       const merged=parts.join('\n');
       if(merged.trim()) renderData(merged);
-      else document.getElementById('paste-input').placeholder='⚠️ 未找到任何 data_0000.js 或 data_today.js\n請把資料檔放在同一資料夾';
+      else document.getElementById('paste-input').placeholder='⚠️ 未找到 data_0000.js 或 data_today.js\n請把資料檔放在同一資料夾';
     });
   });
 }
