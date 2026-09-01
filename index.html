@@ -38,7 +38,7 @@ html::-webkit-scrollbar{display:none}
 body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:19px;line-height:2.1;overflow-x:hidden;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 a{color:var(--accent);text-decoration:none;transition:all .3s}
 a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
-
+#bg-canvas{position:fixed;inset:0;z-index:0;pointer-events:none}
 #scroll-progress{position:fixed;top:0;left:0;height:2px;background:linear-gradient(90deg,var(--sudden),var(--gold));z-index:9999;width:0%;transition:width .1s}
 .top-bar{position:fixed;top:2px;left:0;right:0;height:44px;z-index:1000;background:rgba(6,10,18,.9);backdrop-filter:blur(10px);display:flex;align-items:center;justify-content:space-between;padding:0 16px}
 .tb-counter{font-family:var(--f-mono);font-size:13px;color:var(--text-dim);display:flex;align-items:center;gap:6px}
@@ -193,14 +193,6 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 }
 .sudden-link{display:inline-block}
 .sudden-link:hover{color:#fff;text-shadow:0 0 10px rgba(255,107,53,.4)}
-/* === 置頂新聞 pin === */
-.pin-box{width:min(780px,100%);margin:0 auto 24px;padding:22px 26px;text-align:left;background:linear-gradient(135deg,rgba(255,107,53,.1),rgba(10,16,32,.9));border:1px solid rgba(255,107,53,.35);border-radius:18px;box-shadow:0 18px 60px rgba(0,0,0,.35),0 0 40px rgba(255,107,53,.1);backdrop-filter:blur(10px)}
-.pin-label{font-family:var(--f-mono);font-size:12px;letter-spacing:3px;color:var(--gold);margin-bottom:10px;display:flex;align-items:center;gap:8px}
-.pin-label::before{content:'📌'}
-.pin-date{font-family:var(--f-mono);font-size:13px;color:rgba(255,255,255,.4);margin-bottom:6px}
-.pin-link{font-family:var(--f-zh);font-size:clamp(1.05rem,3vw,1.35rem);font-weight:700;line-height:1.8;color:var(--text-bright)}
-.pin-link:hover{color:#fff;text-shadow:0 0 14px rgba(255,107,53,.5)}
-.pin-cat{display:inline-block;margin-top:10px;font-family:var(--f-mono);font-size:11px;color:var(--sudden);border:1px solid rgba(255,107,53,.3);border-radius:12px;padding:2px 10px;letter-spacing:1px}
 
 @media(max-width:768px){body{padding-bottom:30px}.section{padding:70px 20px}.dash{grid-template-columns:repeat(2,1fr)}.cta-grid{grid-template-columns:1fr}}
 @media(max-width:380px){.dash{grid-template-columns:1fr}}
@@ -247,7 +239,17 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .cal-detail-item a:hover{text-shadow:0 0 10px rgba(255,107,53,.4)}
 .cal-detail-empty{font-family:var(--f-mono);font-size:13px;color:var(--text-dim);text-align:center;padding:24px}
 @media(max-width:768px){.cal-grid-day{gap:3px}.cal-cell{min-height:50px;padding:3px 1px}.cal-d{font-size:12px}.cal-lunar{font-size:9px}.cal-c{font-size:11px}}
-
+/* === tri-stats === */
+.splash-tri-stats{display:flex;flex-direction:column;align-items:center;gap:18px;margin-bottom:24px}
+.tri-stat-item{text-align:center;line-height:1.3}
+.tri-stat-label{font-family:var(--f-mono);font-size:clamp(.75rem,2vw,1rem);letter-spacing:2px;opacity:.85;margin-bottom:4px}
+.tri-stat-num{font-family:var(--f-head);font-size:clamp(1.8rem,6vw,3rem);line-height:1;display:block}
+.tri-stat-num.tri-cardiac{color:#ff4444;text-shadow:0 0 60px rgba(255,68,68,.4)}
+.tri-stat-num.tri-brain{color:#a855f7;text-shadow:0 0 60px rgba(168,85,247,.4)}
+.tri-stat-num.tri-other{color:#ff8c00;text-shadow:0 0 60px rgba(255,140,0,.4)}
+.tri-stat-label.tri-cardiac-lbl{color:#ff6666}
+.tri-stat-label.tri-brain-lbl{color:#c084fc}
+.tri-stat-label.tri-other-lbl{color:#ffaa44}
 /* === subkw bars === */
 .subkw-box{background:var(--card);border:1px solid rgba(255,107,53,.15);border-radius:16px;padding:24px 20px;margin-top:20px}
 .subkw-box h4{font-family:var(--f-zh);font-size:clamp(1.1rem,3vw,1.4rem);font-weight:700;color:var(--accent);margin-bottom:20px;text-align:center;letter-spacing:1px}
@@ -261,7 +263,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 </style>
 </head>
 <body>
-
+<canvas id="bg-canvas"></canvas>
 <div id="scroll-progress"></div>
 
 <!-- TOP BAR -->
@@ -277,13 +279,12 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <section class="main-splash" id="splash">
 
 
-<!-- 置頂新聞 -->
-<div class="pin-box">
-<div class="pin-label">置頂新聞</div>
-<div class="pin-date" id="pin-date">—</div>
-<a class="pin-link" id="pin-link" href="#" target="_blank" rel="noopener">載入中…</a>
-<div><span class="pin-cat" id="pin-cat">猝死相關</span></div>
+<!-- tri-stats -->
+<div class="splash-tri-stats" id="tri-stats">
+<div class="tri-stat-item"><div class="tri-stat-label tri-other-lbl">⚡ 死亡相關新聞 / 猝死</div><div class="tri-stat-num tri-other" id="tri-other">—</div></div>
 </div>
+<div class="splash-recent" id="recent-days"></div>
+<div class="splash-global">你打開後，全球估計已有 <span class="sgv" id="dc-since-sub">0</span> 人因心血管疾病猝逝</div>
 <div class="splash-refs">
 <span class="ref-label">參考來源</span>
 <a class="ref-link" href="https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)" target="_blank" rel="noopener">WHO • 心血管</a>
@@ -397,6 +398,7 @@ STILL ALIVE © <script>document.write(new Date().getFullYear())</script> — WHO
 </div>
 
 <button id="back-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="Back to top">▲</button>
+<div id="bottom-ticker">全球每天約 <span class="btv">49,000</span> 人因心血管疾病猝逝 · 每年約 <span class="btv">1,790</span> 萬人</div>
 
 <script>
 var DPS=0.57,DPD=49000;
@@ -414,11 +416,11 @@ var SUBKW_GROUPS=[
 {icon:'🏃',name:'倒斃 / 路倒 / 當場不治',kws:['倒斃','路倒','到院前死亡','暈倒不治','昏倒不治','倒地不治','送院不治','搶救不治','急救無效']}
 ];
 function isSuddenDeath(t){return ALL_SUDDEN_KW.some(function(k){return(t||'').includes(k)})}
-var SUDDEN_PALETTE=['#ff6b35','#f59e0b','#10b981','#06b6d4','#ec4899','#8b5cf6','#3b82f6','#f43f5e'];
-function getSuddenColor(t,idx){
+function getSuddenColor(t){
 if(KW_CARDIAC.some(function(k){return t.includes(k)}))return '#ff4444';
 if(KW_BRAIN.some(function(k){return t.includes(k)}))return '#a855f7';
-return SUDDEN_PALETTE[(idx||0)%SUDDEN_PALETTE.length];
+if(KW_CORE.some(function(k){return t.includes(k)}))return '#ff6b35';
+return '#ffaa44';
 }
 /* ===== 萬年曆死亡統計 ===== */
 var calMode='day';
@@ -587,9 +589,9 @@ var parts=ds.split('-');
 var head=parts[0]+'年'+parseInt(parts[1])+'月'+parseInt(parts[2])+'日';
 if(!dayEvents.length){box.innerHTML='<div class="cal-detail-empty">'+head+'：無記錄</div>';return;}
 var html='<div class="cal-detail-h">'+head+' · '+dayEvents.length+' 宗</div>';
-dayEvents.forEach(function(e,ei){
+dayEvents.forEach(function(e){
 var title=(e.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-var tc=getSuddenColor(e.title||'',ei);
+var tc=getSuddenColor(e.title||'');
 var url=(e.url||'').trim();
 var t=url?('<a href="'+url+'" target="_blank" rel="noopener" style="color:'+tc+'">'+title+'</a>'):('<span style="color:'+tc+'">'+title+'</span>');
 html+='<div class="cal-detail-item">'+t+'</div>';
@@ -624,7 +626,20 @@ var obs=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isInte
 document.querySelectorAll('.fade-in').forEach(function(el){obs.observe(el)});
 
 /* Counter */
-
+/* tri-stats: 心臟/腦血管/其他 */
+function updateTriStats(events){
+var dates={};events.forEach(function(e){dates[e.date]=(dates[e.date]||0)+1});
+var sorted=Object.keys(dates).sort().reverse();var latestDate=sorted[0]||'';
+var dayEvents=events.filter(function(e){return e.date===latestDate});
+var cardiac=0,brain=0,other=0;
+dayEvents.forEach(function(e){var t=e.title||'';
+if(KW_CARDIAC.some(function(k){return t.includes(k)}))cardiac++;
+else if(KW_BRAIN.some(function(k){return t.includes(k)}))brain++;
+else other++;});
+var e1=document.getElementById('tri-cardiac');if(e1)e1.textContent=cardiac;
+var e2=document.getElementById('tri-brain');if(e2)e2.textContent=brain;
+var e3=document.getElementById('tri-other');if(e3)e3.textContent=other;
+}
 /* subkw bars */
 function renderSubkwBars(events){
 var container=document.getElementById('subkw-list');if(!container)return;
@@ -674,31 +689,6 @@ document.getElementById('d-bar').style.width=Math.min(100,pct)+'%';
 if(allEvents.length){updatePeer(age);renderAgeBar(age);}
 }
 
-/* 置頂新聞：最新一則猝死／死亡相關新聞 */
-function renderPinnedNews(events){
-  var link=document.getElementById('pin-link');
-  if(!link)return;
-  var sudden=events.filter(function(e){return hitIndexTitle(e.title)});
-  if(!sudden.length){link.textContent='暫無記錄';return;}
-  var e=sudden[0];
-  var title=(e.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  var url=(e.url||'').trim();
-  var dp=(e.date||'').split('-');
-  var dateLabel=dp.length===3?(dp[0]+'年'+parseInt(dp[1])+'月'+parseInt(dp[2])+'日'):(e.date||'');
-  var pd=document.getElementById('pin-date');if(pd)pd.textContent=dateLabel;
-  var tc=getSuddenColor(e.title||'');
-  if(url){link.href=url;link.setAttribute('target','_blank');link.setAttribute('rel','noopener');}
-  else{link.removeAttribute('href');}
-  link.textContent=title;
-  link.style.color=tc;
-  var pc=document.getElementById('pin-cat');
-  if(pc){
-    if(KW_CARDIAC.some(function(k){return(e.title||'').includes(k)}))pc.textContent='心臟猝死';
-    else if(KW_BRAIN.some(function(k){return(e.title||'').includes(k)}))pc.textContent='腦血管猝死';
-    else pc.textContent='猝死相關';
-  }
-}
-
 /* Splash: sudden counter + latest 2 days */
 function updateSplash(events){
 var sudden=events.filter(function(e){return hitIndexTitle(e.title)});
@@ -742,13 +732,13 @@ var ageChart=null;
 function renderAgeBar(age){
 var cv=document.getElementById('age-bar-chart');if(!cv)return;
 var sudden=indexEvents.filter(function(e){return hitIndexTitle(e.title)&&e.age&&e.age>0});
-var bks=[{l:'<20',mn:0,mx:19,v:0},{l:'20s',mn:20,mx:29,v:0},{l:'30s',mn:30,mx:39,v:0},{l:'40s',mn:40,mx:49,v:0},{l:'50s',mn:50,mx:59,v:0},{l:'60s',mn:60,mx:69,v:0},{l:'70+',mn:70,mx:999,v:0];
+var bks=[{l:'<20',mn:0,mx:19,v:0},{l:'20s',mn:20,mx:29,v:0},{l:'30s',mn:30,mx:39,v:0},{l:'40s',mn:40,mx:49,v:0},{l:'50s',mn:50,mx:59,v:0},{l:'60s',mn:60,mx:69,v:0},{l:'70+',mn:70,mx:999,v:0}];
 sudden.forEach(function(e){var b=bks.find(function(b){return e.age>=b.mn&&e.age<=b.mx});if(b)b.v++});
 var ui=bks.findIndex(function(b){return age>=b.mn&&age<=b.mx});
 var colors=bks.map(function(_,i){return i===ui?'rgba(212,169,83,.9)':'rgba(255,107,53,.35)'});
 if(ageChart)ageChart.destroy();
 Chart.defaults.color='#8899aa';Chart.defaults.font.family='"Share Tech Mono",monospace';Chart.defaults.font.size=12;
-ageChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:bks.map(function(b){return b.l}),datasets:[{data:bks.map(function(b){return b.v}),backgroundColor:colors,borderWidth:0,borderRadius:4]},options:{responsive:true,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'}}}}}); 
+ageChart=new Chart(cv.getContext('2d'),{type:'bar',data:{labels:bks.map(function(b){return b.l}),datasets:[{data:bks.map(function(b){return b.v}),backgroundColor:colors,borderWidth:0,borderRadius:4}]},options:{responsive:true,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.05)'}}}}}); 
 }
 
 /* Category bars */
@@ -760,7 +750,7 @@ var f=ns.filter(function(e){return e.category==='FATAL'}).length;
 var ac=ns.filter(function(e){return e.category==='ACC'}).length;
 var cr=ns.filter(function(e){return e.category==='CRIT'}).length;
 var ot=ns.filter(function(e){return e.category==='OTHER'}).length;
-var cats=[{id:'sudden',v:sd},{id:'fatal',v:f},{id:'acc',v:ac},{id:'crit',v:cr},{id:'other',v:ot];
+var cats=[{id:'sudden',v:sd},{id:'fatal',v:f},{id:'acc',v:ac},{id:'crit',v:cr},{id:'other',v:ot}];
 var mx=Math.max.apply(null,cats.map(function(c){return c.v}));
 if(mx===0)return;
 cats.forEach(function(c){
@@ -786,7 +776,7 @@ var values=labels.map(function(l){return mm[l]});
 var cv=document.getElementById('mom-chart');if(!cv)return;
 if(mChart)mChart.destroy();
 Chart.defaults.color='#8899aa';Chart.defaults.font.family='"Share Tech Mono",monospace';Chart.defaults.font.size=12;
-mChart=new Chart(cv.getContext('2d'),{type:'line',data:{labels:labels,datasets:[{data:values,borderColor:'rgba(255,107,53,.7)',backgroundColor:'rgba(255,107,53,.08)',borderWidth:1.5,pointRadius:1.5,pointHoverRadius:4,fill:true,tension:0.3]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{maxTicksLimit:6,font:{size:11}}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.04)'}}}}}); 
+mChart=new Chart(cv.getContext('2d'),{type:'line',data:{labels:labels,datasets:[{data:values,borderColor:'rgba(255,107,53,.7)',backgroundColor:'rgba(255,107,53,.08)',borderWidth:1.5,pointRadius:1.5,pointHoverRadius:4,fill:true,tension:0.3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{maxTicksLimit:6,font:{size:11}}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.04)'}}}}}); 
 }
 /* Splash: scrollable list of SUDDEN records (latest day first; scroll to see older) */
 function renderSuddenList(events){
@@ -803,7 +793,6 @@ var groups={};
 for(var i=0;i<visible.length;i++){var d=visible[i].date;if(!groups[d])groups[d]=[];groups[d].push(visible[i]);}
 var dates=Object.keys(groups).sort().reverse();
 var html='';
-var colorIdx=0;
 for(var di=0;di<dates.length;di++){
 var date=dates[di];
 html+='<div class="sudden-day">';
@@ -814,7 +803,7 @@ var e=arr[j];
 var title=(e.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 var url=(e.url||'').trim();
 var dateShort=(e.date||'').slice(5);
-var tc=getSuddenColor(e.title||'',colorIdx++);
+var tc=getSuddenColor(e.title||'');
 var colorAttr=tc?' style="color:'+tc+'"':'';
 var tHtml=url?('<a class="sudden-link"'+colorAttr+' href="'+url+'" target="_blank" rel="noopener">'+title+'</a>'):('<span class="sudden-title"'+colorAttr+'>'+title+'</span>');
 html+='<div class="sudden-item"><div class="sudden-date">'+dateShort+'</div><div>'+tHtml+'</div></div>';
@@ -911,7 +900,19 @@ events.push({date:ds,url:url,title:title,category:categorize(title),age:extractA
 var seen={};return events.filter(function(e){var k=e.date+'||'+e.title;if(seen[k])return false;seen[k]=true;return true}).sort(function(a,b){return new Date(b.date)-new Date(a.date)});
 }
 
-
+/* Particle BG */
+(function(){
+var c=document.getElementById('bg-canvas'),ctx=c.getContext('2d');var W,H,ps=[];
+function resize(){W=c.width=innerWidth;H=c.height=innerHeight}addEventListener('resize',resize);resize();
+var N=Math.min(35,Math.floor(W*H/40000));
+for(var i=0;i<N;i++)ps.push({x:Math.random()*W,y:Math.random()*H,r:Math.random()*1.2+.2,dx:(Math.random()-.5)*.15,dy:(Math.random()-.5)*.1,a:Math.random()*.15+.03});
+function draw(){
+ctx.clearRect(0,0,W,H);
+for(var j=0;j<ps.length;j++){var p=ps[j];p.x+=p.dx;p.y+=p.dy;if(p.x<0)p.x=W;if(p.x>W)p.x=0;if(p.y<0)p.y=H;if(p.y>H)p.y=0;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fillStyle='rgba(255,107,53,'+p.a+')';ctx.fill()}
+for(var i2=0;i2<ps.length;i2++)for(var j2=i2+1;j2<ps.length;j2++){var dx=ps[i2].x-ps[j2].x,dy=ps[i2].y-ps[j2].y,dist=Math.sqrt(dx*dx+dy*dy);if(dist<120){ctx.beginPath();ctx.moveTo(ps[i2].x,ps[i2].y);ctx.lineTo(ps[j2].x,ps[j2].y);ctx.strokeStyle='rgba(255,107,53,'+(0.025*(1-dist/120))+')';ctx.stroke()}}
+requestAnimationFrame(draw);
+}draw();
+})();
 
 /* Data Loading: data_0000.js (全部歷史) + data_today.js */
 function loadAllData(){
@@ -925,8 +926,9 @@ if(merged.trim()){
 allEvents=parseData(merged);
 // index 專用：只保留「猝死 / 暈倒」兩個絕對詞命中
 indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
-try{renderPinnedNews(indexEvents)}catch(e){console.error('PinnedNews',e)}
+try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
 try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
+try{updateTriStats(indexEvents)}catch(e){console.error('TriStats',e)}
 try{renderSubkwBars(indexEvents)}catch(e){console.error('SubkwBars',e)}
 try{var ddt=document.getElementById('data-date-title');if(ddt&&indexEvents.length){var fd=indexEvents[indexEvents.length-1].date,ld=indexEvents[0].date;var fp=fd.split('-'),lp=ld.split('-');ddt.textContent=fp[0]+'年'+parseInt(fp[1])+'月'+parseInt(fp[2])+'日 — '+lp[0]+'年'+parseInt(lp[1])+'月'+parseInt(lp[2])+'日'}}catch(e){}
 try{renderMoM(indexEvents)}catch(e){console.error('MoM',e)}
