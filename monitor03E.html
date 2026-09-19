@@ -127,7 +127,11 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 .btn-reset:hover{background:var(--c-fatal);color:#fff}
 .quick-tag{background:rgba(255,107,53,.15);border:1px solid rgba(255,107,53,.4);color:#ffcba4;padding:8px 14px;font-family:var(--f-mono);font-size:12px;cursor:pointer;border-radius:20px;transition:all .3s;white-space:nowrap}
 .quick-tag:hover{background:var(--c-sudden);color:#fff;box-shadow:0 0 15px var(--c-sudden)}
-.filter-summary{width:100%;font-size:10px;color:#666;font-family:var(--f-mono);padding-top:4px}
+.age-group-row{display:flex;gap:6px;flex-wrap:wrap;width:100%;padding-top:6px}
+.age-group-btn{background:rgba(0,243,255,.06);border:1px solid rgba(0,243,255,.25);color:#9fd8e8;padding:8px 16px;font-family:var(--f-mono);font-size:13px;cursor:pointer;border-radius:20px;transition:all .3s;white-space:nowrap}
+.age-group-btn:hover{border-color:var(--c-accent);color:var(--c-accent);background:rgba(0,243,255,.12)}
+.age-group-btn.active{background:rgba(0,243,255,.18);border-color:var(--c-accent);color:#fff;box-shadow:0 0 12px rgba(0,243,255,.3)}
+.filter-summary{width:100%;font-size:12px;color:#888;font-family:var(--f-mono);padding-top:6px}
 
 /* ===== Log Stream ===== */
 #log-stream{flex:1;overflow-y:auto;max-height:calc(100vh - 300px);min-height:300px}
@@ -136,9 +140,9 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 #log-stream::-webkit-scrollbar-thumb{background:var(--c-dim);border-radius:3px}
 .log-item{padding:12px 16px;border-bottom:1px solid rgba(30,40,50,.5);border-left:4px solid transparent;position:relative;transition:all .3s;background:transparent}
 .log-item:hover{background:rgba(255,255,255,.03);transform:translateX(3px)}
-.log-item .date{color:#8a9aaa;font-size:13px;font-family:var(--f-mono);display:block;margin-bottom:4px}
-.log-item .age-badge{background:linear-gradient(90deg,rgba(255,174,0,.3),rgba(255,42,42,.3));color:var(--c-crit);padding:2px 8px;border-radius:10px;font-size:10px;margin-left:8px;font-family:var(--f-mono)}
-.log-item .title{font-size:16px;line-height:1.6}
+.log-item .date{color:#8a9aaa;font-size:14px;font-family:var(--f-mono);display:block;margin-bottom:4px}
+.log-item .age-badge{background:linear-gradient(90deg,rgba(255,174,0,.3),rgba(255,42,42,.3));color:var(--c-crit);padding:2px 8px;border-radius:10px;font-size:12px;margin-left:8px;font-family:var(--f-mono)}
+.log-item .title{font-size:17px;line-height:1.6}
 .log-item .title a{color:var(--c-accent);text-decoration:none;transition:all .2s}
 .log-item .title a:hover{color:#fff;text-shadow:0 0 10px var(--c-accent)}
 .type-FATAL{border-left-color:var(--c-fatal);background:rgba(255,42,42,.05)}
@@ -179,7 +183,7 @@ main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 3
 .stat-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
 .stat-card .icon{font-size:24px;margin-bottom:8px}
 .stat-card .num{font-family:var(--f-head);font-size:clamp(1.2rem,3vw,1.8rem);color:#fff}
-.stat-card .lbl{font-size:13px;color:#bbb;text-transform:uppercase;margin-top:5px;font-family:var(--f-mono)}
+.stat-card .lbl{font-size:14px;color:#bbb;text-transform:uppercase;margin-top:5px;font-family:var(--f-mono)}
 .stat-card.fatal{border-color:var(--c-fatal)}.stat-card.fatal .num{color:var(--c-fatal);text-shadow:0 0 20px var(--c-fatal)}
 .stat-card.crit{border-color:var(--c-crit)}.stat-card.crit .num{color:var(--c-crit);text-shadow:0 0 20px var(--c-crit)}
 .stat-card.acc{border-color:var(--c-acc)}.stat-card.acc .num{color:var(--c-acc);text-shadow:0 0 20px var(--c-acc)}
@@ -333,6 +337,18 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 </header>
 
 <!-- 哲理橫幅 -->
+<!-- ===== 圖表專區 ===== -->
+<div class="chart-zone">
+<div class="chart-tabs">
+  <button class="chart-tab-btn active" onclick="switchChart('age')">👤 年齡分佈</button>
+  <button class="chart-tab-btn" onclick="switchChart('radar')">🕸️ 雷達圖</button>
+</div>
+<div id="cz-wrap" style="padding:15px;height:380px;position:relative;background:rgba(0,0,0,.3);border-radius:8px;border:1px solid var(--c-border)">
+<canvas id="cz-canvas" style="width:100%;height:100%"></canvas>
+</div>
+</div>
+
+<!-- 金句橫幅 + 吹角節倒數 + 生命計算器（已移至統計表之後） -->
 <div class="wisdom-banner">
 <div class="wisdom-quote" id="wisdom-quote">「你們要謹慎行事，不要像愚昧人，當像智慧人。要愛惜光陰，因為現今的世代邪惡。」</div>
 <div class="wisdom-source" id="wisdom-source">— 以弗所書 5:15-16</div>
@@ -352,22 +368,12 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <button class="btn" style="margin-left:8px" onclick="calculateLife()">計算</button>
 </div>
 <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:12px">
-<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="days-lived-box" style="font-family:var(--f-head);font-size:1.1rem;color:#fff">14,600</div><div style="font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)">已活天數</div></div>
-<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="days-left-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-acc)">14,600</div><div style="font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)">剩餘天數</div></div>
-<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="life-percent-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-crit)">50.0%</div><div style="font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)">生命已用</div></div>
-<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="to-2027-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-fatal)">--</div><div style="font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)">距吹角節</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="days-lived-box" style="font-family:var(--f-head);font-size:1.1rem;color:#fff">14,600</div><div style="font-size:12px;color:#aaa;margin-top:4px;font-family:var(--f-mono)">已活天數</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="days-left-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-acc)">14,600</div><div style="font-size:12px;color:#aaa;margin-top:4px;font-family:var(--f-mono)">剩餘天數</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="life-percent-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-crit)">50.0%</div><div style="font-size:12px;color:#aaa;margin-top:4px;font-family:var(--f-mono)">生命已用</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="to-2027-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-fatal)">--</div><div style="font-size:12px;color:#aaa;margin-top:4px;font-family:var(--f-mono)">距吹角節</div></div>
 </div>
-<p id="life-result" style="font-size:12px;color:#888;margin-top:8px">輸入你的年齡，計算生命進度</p>
-</div>
-</div>
-<!-- ===== 圖表專區 ===== -->
-<div class="chart-zone">
-<div class="chart-tabs">
-  <button class="chart-tab-btn active" onclick="switchChart('age')">👤 年齡分佈</button>
-  <button class="chart-tab-btn" onclick="switchChart('radar')">🕸️ 雷達圖</button>
-</div>
-<div id="cz-wrap" style="padding:15px;height:380px;position:relative;background:rgba(0,0,0,.3);border-radius:8px;border:1px solid var(--c-border)">
-<canvas id="cz-canvas" style="width:100%;height:100%"></canvas>
+<p id="life-result" style="font-size:13px;color:#999;margin-top:8px">輸入你的年齡，計算生命進度</p>
 </div>
 </div>
 
@@ -414,6 +420,13 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <input type="number" id="age-filter" placeholder="±5歲" min="1" max="120">
 <button class="btn-reset" onclick="resetFilters()">🔄 重設</button>
 <button class="quick-tag" onclick="document.getElementById('search-input').value='猝死';filterEvents()">💔 猝死</button>
+<div class="age-group-row">
+<button class="age-group-btn active" onclick="setAgeGroup(null,this)">全部年齡</button>
+<button class="age-group-btn" onclick="setAgeGroup([0,10],this)">👶 0-10歲</button>
+<button class="age-group-btn" onclick="setAgeGroup([11,30],this)">🧑 11-30歲</button>
+<button class="age-group-btn" onclick="setAgeGroup([31,60],this)">🧔 31-60歲</button>
+<button class="age-group-btn" onclick="setAgeGroup([61,120],this)">👴 61歲以上</button>
+</div>
 <div class="filter-summary" id="filter-summary"></div>
 </div>
 <div id="log-stream"></div>
@@ -636,6 +649,7 @@ let filteredEvents = [];
 let candleCounts = JSON.parse(localStorage.getItem('candleCounts') || '{}');
 let totalCandles = Object.values(candleCounts).reduce((a, b) => a + b, 0);
 let currentTimeRange = 'week';
+let ageGroup = null; // 年齡組合篩選：{min,max} 或 null（全部）
 
 const DEATHS_PER_SECOND = 2.0;
 let deathEntryTime = null;
@@ -1232,13 +1246,14 @@ function filterEvents(){
   const av=document.getElementById('age-filter').value;
   const yv=document.getElementById('year-filter').value;
   const mv=document.getElementById('month-filter').value;
-  const base=av?allEvents:getTimeRangeBase();
+  const base=(av||ageGroup)?allEvents:getTimeRangeBase();
   filteredEvents=base.filter(e=>{
     let ok=true;
     if(q) ok=(e.title||'').toLowerCase().includes(q)||(e.date||'').includes(q);
     if(yv&&ok) ok=(e.date||'').startsWith(yv);
     if(mv&&ok){ const m=(e.date||'').slice(5,7); ok=m===mv; }
     if(av&&ok){const ta=parseInt(av);ok=e.age?Math.abs(e.age-ta)<=5:false}
+    if(ageGroup&&ok){ok=e.age?e.age>=ageGroup.min&&e.age<=ageGroup.max:false}
     return ok;
   });
   renderList(filteredEvents);
@@ -1247,13 +1262,23 @@ function filterEvents(){
   renderTrendChart(filteredEvents);
   showTodayFocus(filteredEvents);
   const el=document.getElementById('filter-summary');
-  if(el) el.textContent=(q||av||yv||mv)?`顯示 ${filteredEvents.length} / ${allEvents.length} 筆`:'';
+  if(el) el.textContent=(q||av||ageGroup||yv||mv)?`顯示 ${filteredEvents.length} / ${allEvents.length} 筆`:'';
+}
+function setAgeGroup(range,btn){
+  ageGroup=range?{min:range[0],max:range[1]}:null;
+  document.querySelectorAll('.age-group-btn').forEach(b=>b.classList.remove('active'));
+  if(btn) btn.classList.add('active');
+  filterEvents();
 }
 function resetFilters(){
   document.getElementById('search-input').value='';
   document.getElementById('age-filter').value='';
   document.getElementById('year-filter').value='';
   document.getElementById('month-filter').value='';
+  ageGroup=null;
+  const firstBtn=document.querySelector('.age-group-btn');
+  document.querySelectorAll('.age-group-btn').forEach(b=>b.classList.remove('active'));
+  if(firstBtn) firstBtn.classList.add('active');
   const el=document.getElementById('filter-summary'); if(el) el.textContent='';
   filteredEvents=[...allEvents];
   renderList(filteredEvents);updateStats(filteredEvents);renderKeywordCloud(getTimeRangeBase());renderTrendChart(filteredEvents);showTodayFocus(filteredEvents);
