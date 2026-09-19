@@ -1,4 +1,5 @@
 var DATA_TODAY = `
+
 9/12/2025	死因不詳！俄駐北韓大使「突然死亡」享壽70歲　金正恩哀慟崩潰	https://www.ettoday.net/news/20251209/3080858.htm
 27/12/2025	俄羅斯前國防部長聖誕節突然死亡 引發揣測	https://www.ntdtv.com/b5/2025/12/27/a104050449.html
 10/5/2026	幼童當場死亡/?variant=zh-hk	https://www.singtao.ca/7500541/2026-05-10/news-北約克高層住宅墮樓意外
@@ -1304,4 +1305,5 @@ var DATA_TODAY = `
 17/9/2026	范瑋琪談陳建州心肌梗塞提及大S 友人稱無意消費逝者	https://www.kinliu.hk/news/hottest/%E8%8C%83%E7%91%8B%E7%90%AA%E8%AB%87%E9%99%B3%E5%BB%BA%E5%B7%9E%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E6%8F%90%E5%8F%8A%E5%A4%A7S-%E5%8F%8B%E4%BA%BA%E7%A8%B1%E7%84%A1%E6%84%8F%E6%B6%88%E8%B2%BB%E9%80%9D%E8%80%85/320146.html?id=94
 17/9/2026	陳建州急性心肌梗塞緊急送院 范瑋琪口快快提大S被批失言	https://www.orangenews.hk/entnews/VVRcELH/%E9%99%B3%E5%BB%BA%E5%B7%9E%E6%80%A5%E6%80%A7%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E7%B7%8A%E6%80%A5%E9%80%81%E9%99%A2-%E8%8C%83%E7%91%8B%E7%90%AA%E5%8F%A3%E5%BF%AB%E5%BF%AB%E6%8F%90%E5%A4%A7S%E8%A2%AB%E6%89%B9%E5%A4%B1%E8%A8%80.shtml
 17/9/2026	倫敦「推人魔」身分曝！維多利亞女王後代涉案　豪宅內離奇猝死	https://www.ettoday.net/news/20260917/3238871.htm
+
 `;		
