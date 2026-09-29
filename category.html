@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>末世新聞分類</title>
+<style>
+/* ============================================================
+   category.html v1.0 — 十一類末世新聞通用模板
+   用法：category.html?cat=econ  （預設 sudden）
+   ============================================================ */
+:root{
+  --bg:#070b10; --panel:#0c1218; --line:#1c2a38;
+  --txt:#cfd8e3; --dim:#5c7086; --acc:#00f3ff;
+  --mono:"Consolas","Courier New",monospace;
+  --sans:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--txt);font-family:var(--sans);min-height:100vh}
+a{color:var(--acc);text-decoration:none}
+a:hover{text-decoration:underline}
+
+/* 掃描線末日感 */
+body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:999;
+  background:repeating-linear-gradient(0deg,rgba(0,0,0,.12) 0 1px,transparent 1px 3px);
+  opacity:.5}
+
+/* ===== 頂欄 ===== */
+.topbar{position:sticky;top:0;z-index:100;background:rgba(7,11,16,.96);
+  border-bottom:1px solid var(--line);backdrop-filter:blur(6px)}
+.topbar-row{display:flex;align-items:center;gap:10px;padding:8px 12px;flex-wrap:wrap}
+.home-btn{font-family:var(--mono);font-size:13px;color:var(--acc);
+  border:1px solid var(--acc);padding:6px 12px;border-radius:4px;white-space:nowrap}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
+.cat-title{font-family:var(--mono);font-size:16px;letter-spacing:2px;color:#fff;white-space:nowrap}
+.cat-title small{color:var(--dim);font-size:11px;margin-left:6px;letter-spacing:0}
+.tabs{display:flex;gap:6px;overflow-x:auto;padding:6px 12px;scrollbar-width:thin}
+.tabs::-webkit-scrollbar{height:4px}
+.tabs a{flex:0 0 auto;font-family:var(--mono);font-size:12px;color:var(--dim);
+  border:1px solid var(--line);padding:5px 10px;border-radius:4px;white-space:nowrap}
+.tabs a:hover{color:var(--acc);border-color:var(--acc);text-decoration:none}
+.tabs a.on{color:#000;background:var(--acc);border-color:var(--acc);font-weight:bold}
+
+/* ===== 主體 ===== */
+.wrap{max-width:1080px;margin:0 auto;padding:14px}
+.hero{background:var(--panel);border:1px solid var(--line);border-radius:8px;
+  padding:18px;text-align:center;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;
+  background:radial-gradient(ellipse at 50% -20%,rgba(0,243,255,.14),transparent 60%);pointer-events:none}
+.hero .big{font-family:var(--mono);font-size:clamp(34px,7vw,58px);color:#fff;
+  text-shadow:0 0 18px var(--acc);line-height:1.1}
+.hero .sub{color:var(--dim);font-size:12px;margin-top:6px;font-family:var(--mono)}
+.hero .range{display:inline-block;margin-top:8px;font-size:11px;color:var(--acc);
+  border:1px solid var(--line);padding:3px 10px;border-radius:20px;font-family:var(--mono)}
+
+/* 子清單計數卡 */
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:8px;margin-top:14px}
+.card{background:rgba(0,0,0,.35);border:1px solid var(--line);border-radius:8px;
+  padding:12px 8px;text-align:center;cursor:pointer;transition:all .25s}
+.card:hover{border-color:var(--acc);transform:translateY(-2px)}
+.card .n{font-family:var(--mono);font-size:24px;color:var(--acc)}
+.card .l{font-size:12px;color:var(--dim);margin-top:4px}
+.card.on{border-color:var(--acc);box-shadow:0 0 12px rgba(0,243,255,.25)}
+.card.on .n{color:#fff}
+
+/* 摺疊統計區 */
+details.stats{margin-top:14px;background:var(--panel);border:1px solid var(--line);
+  border-radius:8px;padding:0}
+details.stats summary{cursor:pointer;padding:12px 16px;font-family:var(--mono);
+  font-size:13px;color:var(--acc);list-style:none;user-select:none}
+details.stats summary::before{content:"▸ ";color:var(--dim)}
+details.stats[open] summary::before{content:"▾ "}
+.stats-body{padding:0 16px 16px}
+.stats-body h4{font-size:12px;color:var(--dim);font-family:var(--mono);margin:12px 0 8px}
+.mbar{display:flex;align-items:center;gap:8px;margin:3px 0;font-size:11px}
+.mbar .ml{width:64px;color:var(--dim);font-family:var(--mono);flex:0 0 auto;text-align:right}
+.mbar .mt{height:14px;background:linear-gradient(90deg,var(--acc),transparent);
+  border-radius:2px;min-width:2px}
+.mbar .mv{width:44px;color:var(--txt);font-family:var(--mono);flex:0 0 auto}
+.subrow{display:flex;justify-content:space-between;font-size:12px;padding:4px 0;
+  border-bottom:1px dashed var(--line);color:var(--txt)}
+.subrow b{color:var(--acc);font-family:var(--mono)}
+
+/* 篩選列 */
+.filter{position:sticky;top:96px;z-index:90;background:rgba(7,11,16,.97);
+  border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin-top:14px}
+.filter input[type=text]{width:100%;padding:9px 12px;background:rgba(0,0,0,.5);
+  border:1px solid var(--line);color:#fff;font-family:var(--mono);border-radius:4px;font-size:14px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.chips button{background:rgba(0,0,0,.5);border:1px solid var(--line);color:var(--dim);
+  padding:5px 12px;font-family:var(--mono);font-size:12px;cursor:pointer;border-radius:14px}
+.chips button:hover{border-color:var(--acc);color:var(--acc)}
+.chips button.on{background:var(--acc);color:#000;border-color:var(--acc);font-weight:bold}
+.count-line{font-size:11px;color:var(--dim);font-family:var(--mono);margin-top:8px}
+
+/* 名單 */
+.feed{margin-top:12px}
+.item{display:flex;gap:10px;align-items:baseline;background:var(--panel);
+  border:1px solid var(--line);border-radius:6px;padding:10px 12px;margin-bottom:6px}
+.item:hover{border-color:var(--acc)}
+.item .dt{font-family:var(--mono);font-size:12px;color:var(--dim);flex:0 0 auto}
+.tag{font-size:10px;padding:2px 7px;border-radius:10px;border:1px solid var(--acc);
+  color:var(--acc);white-space:nowrap;flex:0 0 auto}
+.tag.none{border-color:var(--line);color:var(--dim)}
+.item a.t{color:var(--txt);font-size:14px;line-height:1.5;word-break:break-all}
+.item a.t:hover{color:var(--acc);text-decoration:none}
+.empty{text-align:center;color:var(--dim);padding:40px 0;font-family:var(--mono)}
+
+/* 回置頂 */
+#top{position:fixed;right:14px;bottom:18px;z-index:200;width:42px;height:42px;
+  border-radius:50%;border:1px solid var(--acc);background:rgba(7,11,16,.9);
+  color:var(--acc);font-size:18px;cursor:pointer;display:none;box-shadow:0 0 12px rgba(0,243,255,.3)}
+#top:hover{background:var(--acc);color:#000}
+
+.foot{text-align:center;color:var(--dim);font-size:11px;font-family:var(--mono);
+  padding:26px 0 40px}
+.err{background:#2a0d0d;border:1px solid #f33;color:#faa;padding:14px;border-radius:8px;
+  margin-top:14px;font-family:var(--mono);font-size:13px}
+
+@media(max-width:640px){
+  .filter{top:132px}
+  .item{flex-wrap:wrap}
+  .hero .big{font-size:40px}
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-row">
+    <a class="home-btn" href="index.html">← 回首頁</a>
+    <a class="home-btn" href="monitor03E.html">⚡ 生死記錄儀</a>
+    <div class="cat-title" id="catTitle">LOADING…</div>
+  </div>
+  <nav class="tabs" id="tabs"></nav>
+</div>
+
+<div class="wrap">
+  <div class="hero">
+    <div class="big" id="bigTotal">--</div>
+    <div class="sub" id="heroSub">TOTAL RECORDS</div>
+    <div class="range" id="dateRange">資料載入中…</div>
+    <div class="cards" id="cards"></div>
+  </div>
+
+  <details class="stats" id="statsBox">
+    <summary>📊 統計表（月份走勢・子清單分佈）— 撳開/收合</summary>
+    <div class="stats-body">
+      <h4>月份走勢（最近 24 個月）</h4>
+      <div id="monthly"></div>
+      <h4>子清單分佈</h4>
+      <div id="subStats"></div>
+    </div>
+  </details>
+
+  <div class="filter">
+    <input type="text" id="q" placeholder="🔍 搜尋標題關鍵字…" oninput="render()">
+    <div class="chips" id="timeChips">
+      <button data-t="all" class="on">全部時間</button>
+      <button data-t="today">今天</button>
+      <button data-t="week">一星期</button>
+      <button data-t="month">一個月</button>
+      <button data-t="year">一年</button>
+    </div>
+    <div class="chips" id="subChips"></div>
+    <div class="count-line" id="countLine"></div>
+  </div>
+
+  <div class="feed" id="feed"></div>
+  <div class="foot">末世新聞分類 × build_news_js.py ｜ <span id="footCat"></span></div>
+</div>
+
+<button id="top" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回置頂">▲</button>
+
+<script>
+/* ================= 十一類設定 ================= */
+const CATS={
+  sudden:  {name:'猝死',full:'猝死記錄（含自殺）',varName:'DATA_SUDDEN', color:'#ff4d6d'},
+  econ:    {name:'經濟',full:'經濟末世記錄',varName:'DATA_ECON',    color:'#ffb020'},
+  disaster:{name:'天災',full:'天災記錄',    varName:'DATA_DISASTER', color:'#00d26a'},
+  war:     {name:'戰爭',full:'戰爭衝突記錄', varName:'DATA_WAR',      color:'#ff3355'},
+  plague:  {name:'瘟疫',full:'瘟疫記錄',    varName:'DATA_PLAGUE',   color:'#7CFC00'},
+  social:  {name:'社會',full:'社會動盪記錄', varName:'DATA_SOCIAL',   color:'#c77dff'},
+  food:    {name:'糧食',full:'糧食危機記錄', varName:'DATA_FOOD',     color:'#e8c547'},
+  tech:    {name:'科技',full:'科技末世記錄', varName:'DATA_TECH',     color:'#4dc3ff'},
+  religion:{name:'宗教',full:'宗教末世記錄', varName:'DATA_RELIGION', color:'#ffd166'},
+  politics:{name:'政治',full:'政治末世記錄', varName:'DATA_POLITICS', color:'#f4f1de'},
+  celestial:{name:'天象',full:'天象異兆記錄',varName:'DATA_CELESTIAL',color:'#9d8cff'},
+};
+const ORDER=Object.keys(CATS);
+
+/* ================= 狀態 ================= */
+const params=new URLSearchParams(location.search);
+const cat=CATS[params.get('cat')]?params.get('cat'):'sudden';
+const C=CATS[cat];
+let all=[],view=[],timeRange='all',subFilter='';
+
+document.documentElement.style.setProperty('--acc',C.color);
+document.title=C.full+'｜末世新聞分類';
+document.getElementById('catTitle').innerHTML=C.name+' <small>'+C.full+'</small>';
+document.getElementById('footCat').textContent=C.full;
+document.getElementById('statsBox').open=(innerWidth>900); /* 電腦預設開，手機預設合 */
+
+/* 分類 tab */
+const tabs=document.getElementById('tabs');
+ORDER.forEach(k=>{
+  const a=document.createElement('a');
+  a.href='category.html?cat='+k;
+  a.textContent=CATS[k].name;
+  if(k===cat)a.className='on';
+  tabs.appendChild(a);
+});
+
+/* ================= 資料載入 ================= */
+function localDateStr(d){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+function parseData(text){
+  const out=[];
+  (text||'').split('\n').forEach(line=>{
+    line=line.trim();if(!line)return;
+    const p=line.split('\t');
+    if(p.length<2)return;
+    const dp=p[0].trim().replace(/[\[\]]/g,'').split(/[\/\-.]/);
+    let y,m,d;
+    if(dp[0]&&dp[0].length===4){y=+dp[0];m=+dp[1];d=+dp[2];}
+    else if(dp[2]&&dp[2].length===4){d=+dp[0];m=+dp[1];y=+dp[2];}
+    else{d=+dp[1];m=+dp[0];y=2000+ +dp[2];}
+    if(!y||!m||!d)return;
+    const date=`${y}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    const url=(p.find(x=>/^https?:\/\//i.test(x))||'').trim();
+    const title=p[1].trim();
+    const sub=(p[3]||'').trim();
+    if(title)out.push({date,title,url,sub});
+  });
+  out.sort((a,b)=>b.date.localeCompare(a.date));
+  return out;
+}
+function loadScript(src){return new Promise((res,rej)=>{
+  const s=document.createElement('script');s.src=src;
+  s.onload=res;s.onerror=rej;document.head.appendChild(s);
+});}
+async function loadAll(){
+  const v=localDateStr(new Date()).replace(/-/g,'');
+  const winVar=C.varName;
+  const srcs=[`data_${cat}.js?v=${v}`,`Data/data_${cat}.js?v=${v}`,`data_${cat}.js`];
+  for(const src of srcs){
+    try{await loadScript(src);}catch(e){continue;}
+    if(window[winVar]&&window[winVar].trim()){
+      all=parseData(window[winVar]);
+      break;
+    }
+  }
+  if(!all.length){
+    document.getElementById('feed').innerHTML=
+      '<div class="err">⚠️ 搵唔到資料檔 data_'+cat+'.js<br>請確認已上傳到同一資料夾，或本機預覽時資料放喺 Data\\ 入面。</div>';
+    document.getElementById('dateRange').textContent='無資料';
+    return;
+  }
+  initView();
+}
+function initView(){
+  document.getElementById('bigTotal').textContent=all.length.toLocaleString();
+  const ds=all.map(e=>e.date).sort();
+  document.getElementById('dateRange').textContent=ds[0]+' → '+ds[ds.length-1];
+  buildCards();buildStats();buildSubChips();render();
+}
+
+/* ================= 統計 ================= */
+function subOf(e){return e.sub||'未分類';}
+function buildCards(){
+  const counts={};all.forEach(e=>counts[subOf(e)]=(counts[subOf(e)]||0)+1);
+  const box=document.getElementById('cards');box.innerHTML='';
+  const mk=(label,n,key)=>{
+    const d=document.createElement('div');d.className='card';
+    d.innerHTML=`<div class="n">${n.toLocaleString()}</div><div class="l">${label}</div>`;
+    if(key!==undefined){
+      d.onclick=()=>{subFilter=subFilter===key?'':key;
+        document.querySelectorAll('#subChips button').forEach(b=>b.classList.toggle('on',b.dataset.s===subFilter));
+        document.querySelectorAll('.card').forEach(c=>c.classList.remove('on'));
+        if(subFilter)d.classList.add('on');
+        render();document.getElementById('feed').scrollIntoView({behavior:'smooth'});};
+    }
+    box.appendChild(d);
+  };
+  mk('全部記錄',all.length,undefined);
+  Object.keys(counts).sort((a,b)=>counts[b]-counts[a]).forEach(s=>mk(s,counts[s],s));
+}
+function buildStats(){
+  const mon={};all.forEach(e=>{const k=e.date.slice(0,7);mon[k]=(mon[k]||0)+1;});
+  const keys=Object.keys(mon).sort().slice(-24);
+  const max=Math.max(...keys.map(k=>mon[k]),1);
+  document.getElementById('monthly').innerHTML=keys.map(k=>
+    `<div class="mbar"><span class="ml">${k}</span>`+
+    `<span class="mt" style="width:${Math.round(mon[k]/max*100)}%"></span>`+
+    `<span class="mv">${mon[k]}</span></div>`).join('');
+  const counts={};all.forEach(e=>counts[subOf(e)]=(counts[subOf(e)]||0)+1);
+  document.getElementById('subStats').innerHTML=Object.keys(counts).sort((a,b)=>counts[b]-counts[a])
+    .map(s=>`<div class="subrow"><span>${s}</span><b>${counts[s].toLocaleString()}</b></div>`).join('');
+}
+function buildSubChips(){
+  const set=new Set(all.map(subOf));
+  const box=document.getElementById('subChips');
+  box.innerHTML='<button data-s="" class="on">全部子類</button>';
+  [...set].forEach(s=>{
+    const b=document.createElement('button');b.dataset.s=s;b.textContent=s;
+    b.onclick=()=>{subFilter=subFilter===s?'':s;
+      box.querySelectorAll('button').forEach(x=>x.classList.toggle('on',x.dataset.s===subFilter));
+      document.querySelectorAll('.card').forEach(c=>c.classList.remove('on'));
+      render();};
+    box.appendChild(b);
+  });
+}
+
+/* ================= 時間篩選 ================= */
+document.querySelectorAll('#timeChips button').forEach(b=>{
+  b.onclick=()=>{timeRange=b.dataset.t;
+    document.querySelectorAll('#timeChips button').forEach(x=>x.classList.toggle('on',x===b));
+    render();};
+});
+function timeBase(){
+  if(timeRange==='all')return null;
+  const now=new Date();
+  if(timeRange==='today'){
+    const t=localDateStr(now);
+    const hit=all.filter(e=>e.date===t);
+    if(hit.length)return t;
+    return all.length?all[0].date:'9999';
+  }
+  const days={week:7,month:30,year:365}[timeRange]||0;
+  return localDateStr(new Date(now.getTime()-days*86400000));
+}
+
+/* ================= 名單渲染 ================= */
+function render(){
+  const q=document.getElementById('q').value.trim().toLowerCase();
+  const cut=timeBase();
+  view=all.filter(e=>{
+    if(cut&&e.date<cut)return false;
+    if(subFilter&&subOf(e)!==subFilter)return false;
+    if(q&&!e.title.toLowerCase().includes(q))return false;
+    return true;
+  });
+  document.getElementById('countLine').textContent=
+    `顯示 ${view.length.toLocaleString()} / ${all.length.toLocaleString()} 筆`+
+    (q?`｜搜尋「${q}」`:'')+(subFilter?`｜子類「${subFilter}」`:'');
+  const feed=document.getElementById('feed');
+  if(!view.length){feed.innerHTML='<div class="empty">— 冇符合條件嘅記錄 —</div>';return;}
+  const maxShow=500;
+  feed.innerHTML=view.slice(0,maxShow).map(e=>
+    `<div class="item"><span class="dt">${e.date}</span>`+
+    `<span class="tag ${e.sub?'':'none'}">${subOf(e)}</span>`+
+    (e.url?`<a class="t" href="${e.url}" target="_blank" rel="noopener">${esc(e.title)}</a>`
+         :`<span class="t">${esc(e.title)}</span>`)+`</div>`).join('')+
+    (view.length>maxShow?`<div class="empty">…仲有 ${view.length-maxShow} 筆，請用搜尋或篩選收窄範圍…</div>`:'');
+}
+function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML;}
+
+/* ================= 回置頂 ================= */
+addEventListener('scroll',()=>{
+  document.getElementById('top').style.display=scrollY>500?'block':'none';
+});
+
+loadAll();
+</script>
+</body>
+</html>

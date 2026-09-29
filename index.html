@@ -260,6 +260,22 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .subkw-track{flex:1;height:8px;background:rgba(255,255,255,.04);border-radius:4px;overflow:hidden}
 .subkw-fill{height:100%;border-radius:4px;transition:width 1s ease;background:linear-gradient(90deg,var(--sudden),rgba(212,169,83,.7))}
 .subkw-count{width:44px;text-align:right;color:var(--text-bright);font-family:var(--f-head);font-size:13px;flex-shrink:0}
+
+/* ===== 十一災情導航（Kimi 2026-09-29）===== */
+.catnav{margin:10px auto;max-width:960px;padding:10px 14px;display:flex;
+  align-items:center;gap:12px;flex-wrap:wrap;
+  background:rgba(8,14,22,.92);border:1px solid rgba(255,107,53,.35);
+  border-radius:8px;font-family:'Share Tech Mono',ui-monospace,monospace}
+.catnav-label{color:#ff6b35;font-size:12px;letter-spacing:2px;white-space:nowrap;
+  text-shadow:0 0 8px rgba(255,107,53,.6)}
+.catnav-btns{display:flex;flex-wrap:wrap;gap:6px}
+.catnav-btns a{padding:4px 12px;font-size:13px;color:#cfd8e3;text-decoration:none;
+  border:1px solid rgba(255,255,255,.18);border-radius:4px;
+  background:rgba(255,255,255,.04);transition:all .15s}
+.catnav-btns a:hover{color:#000;background:#ff6b35;border-color:#ff6b35;
+  box-shadow:0 0 12px rgba(255,107,53,.7)}
+@media(max-width:640px){.catnav{flex-direction:column;align-items:flex-start;gap:8px}}
+
 </style>
 </head>
 <body>
@@ -267,6 +283,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div id="scroll-progress"></div>
 
 <!-- TOP BAR -->
+<div class="catnav"><span class="catnav-label">十一災情瞭望</span><div class="catnav-btns"><a href="category.html?cat=econ">經濟</a><a href="category.html?cat=disaster">天災</a><a href="category.html?cat=war">戰爭</a><a href="category.html?cat=plague">瘟疫</a><a href="category.html?cat=social">社會</a><a href="category.html?cat=food">糧食</a><a href="category.html?cat=tech">科技</a><a href="category.html?cat=religion">宗教</a><a href="category.html?cat=politics">政治</a><a href="category.html?cat=celestial">天象</a></div></div>
 <nav class="top-bar">
 <div class="tb-counter"><span class="cv" id="dc-since">0</span> 人因心血管猝逝</div>
 <div class="tb-links">
