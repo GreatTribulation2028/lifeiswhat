@@ -220,19 +220,24 @@ function parseData(text){
     line=line.trim();if(!line)return;
     const p=line.split('\t');
     if(p.length<2)return;
-    const dp=p[0].trim().replace(/[\[\]]/g,'').split(/[\/\-.]/);
-    let y,m,d;
-    if(dp[0]&&dp[0].length===4){y=+dp[0];m=+dp[1];d=+dp[2];}
-    else if(dp[2]&&dp[2].length===4){d=+dp[0];m=+dp[1];y=+dp[2];}
-    else{d=+dp[1];m=+dp[0];y=2000+ +dp[2];}
-    if(!y||!m||!d)return;
-    const date=`${y}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    const ds=p[0].trim().replace(/[\[\]]/g,'');
+    let date='',title,sub;
+    const mk=(y,m,d)=>`${y}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    let dp=null;
+    if(/^\d{4}[\/\-.]\d{1,2}[\/\-.]\d{1,2}$/.test(ds))dp=ds.split(/[\/\-.]/),dp=[+dp[0],+dp[1],+dp[2]];
+    else if(/^\d{1,2}[\/\-.]\d{1,2}[\/\-.]\d{4}$/.test(ds)){const q=ds.split(/[\/\-.]/);dp=[+q[2],+q[1],+q[0]];}
+    else if(/^\d{1,2}[\/\-.]\d{1,2}[\/\-.]\d{2}$/.test(ds)){const q=ds.split(/[\/\-.]/);dp=[2000+ +q[2],+q[1],+q[0]];}
+    if(dp&&dp[0]&&dp[1]&&dp[2]&&dp[1]>=1&&dp[1]<=12&&dp[2]>=1&&dp[2]<=31){
+      date=mk(dp[0],dp[1],dp[2]);
+      title=p[1].trim();sub=(p[3]||'').trim();
+    }else{
+      /* 無日期記錄：title\turl\tsub —— 照樣保留，排最尾 */
+      title=p[0].trim();sub=(p[2]||'').trim();
+    }
     const url=(p.find(x=>/^https?:\/\//i.test(x))||'').trim();
-    const title=p[1].trim();
-    const sub=(p[3]||'').trim();
     if(title)out.push({date,title,url,sub});
   });
-  out.sort((a,b)=>b.date.localeCompare(a.date));
+  out.sort((a,b)=>b.date.localeCompare(a.date)||a.title.localeCompare(b.title));
   return out;
 }
 function loadScript(src){return new Promise((res,rej)=>{
@@ -260,8 +265,8 @@ async function loadAll(){
 }
 function initView(){
   document.getElementById('bigTotal').textContent=all.length.toLocaleString();
-  const ds=all.map(e=>e.date).sort();
-  document.getElementById('dateRange').textContent=ds[0]+' → '+ds[ds.length-1];
+  const ds=all.map(e=>e.date).filter(Boolean).sort();
+  document.getElementById('dateRange').textContent=ds.length?ds[0]+' → '+ds[ds.length-1]:'—';
   buildCards();buildStats();buildSubChips();render();
 }
 
@@ -286,13 +291,16 @@ function buildCards(){
   Object.keys(counts).sort((a,b)=>counts[b]-counts[a]).forEach(s=>mk(s,counts[s],s));
 }
 function buildStats(){
-  const mon={};all.forEach(e=>{const k=e.date.slice(0,7);mon[k]=(mon[k]||0)+1;});
+  const mon={};let nodate=0;all.forEach(e=>{if(!e.date){nodate++;return;}const k=e.date.slice(0,7);mon[k]=(mon[k]||0)+1;});
   const keys=Object.keys(mon).sort().slice(-24);
   const max=Math.max(...keys.map(k=>mon[k]),1);
   document.getElementById('monthly').innerHTML=keys.map(k=>
     `<div class="mbar"><span class="ml">${k}</span>`+
     `<span class="mt" style="width:${Math.round(mon[k]/max*100)}%"></span>`+
-    `<span class="mv">${mon[k]}</span></div>`).join('');
+    `<span class="mv">${mon[k]}</span></div>`).join('')+
+    (nodate?`<div class="mbar"><span class="ml">無日期</span>`+
+    `<span class="mt" style="width:${Math.round(nodate/max*100)}%"></span>`+
+    `<span class="mv">${nodate}</span></div>`:'');
   const counts={};all.forEach(e=>counts[subOf(e)]=(counts[subOf(e)]||0)+1);
   document.getElementById('subStats').innerHTML=Object.keys(counts).sort((a,b)=>counts[b]-counts[a])
     .map(s=>`<div class="subrow"><span>${s}</span><b>${counts[s].toLocaleString()}</b></div>`).join('');
@@ -347,7 +355,7 @@ function render(){
   if(!view.length){feed.innerHTML='<div class="empty">— 冇符合條件嘅記錄 —</div>';return;}
   const maxShow=500;
   feed.innerHTML=view.slice(0,maxShow).map(e=>
-    `<div class="item"><span class="dt">${e.date}</span>`+
+    `<div class="item"><span class="dt">${e.date||'—'}</span>`+
     `<span class="tag ${e.sub?'':'none'}">${subOf(e)}</span>`+
     (e.url?`<a class="t" href="${e.url}" target="_blank" rel="noopener">${esc(e.title)}</a>`
          :`<span class="t">${esc(e.title)}</span>`)+`</div>`).join('')+
