@@ -183,10 +183,17 @@ const CATS={
   plague:  {name:'瘟疫',full:'瘟疫記錄',    varName:'DATA_PLAGUE',   color:'#7CFC00'},
   social:  {name:'社會',full:'社會動盪記錄', varName:'DATA_SOCIAL',   color:'#c77dff'},
   food:    {name:'糧食',full:'糧食危機記錄', varName:'DATA_FOOD',     color:'#e8c547'},
-  tech:    {name:'科技',full:'科技末世記錄', varName:'DATA_TECH',     color:'#4dc3ff'},
+  tech:    {name:'第四次工業革命',full:'第四次工業革命記錄', varName:'DATA_TECH',     color:'#4dc3ff'},
   religion:{name:'宗教',full:'宗教末世記錄', varName:'DATA_RELIGION', color:'#ffd166'},
-  politics:{name:'政治',full:'政治末世記錄', varName:'DATA_POLITICS', color:'#f4f1de'},
+  politics:{name:'世界大局',full:'世界大局記錄', varName:'DATA_POLITICS', color:'#f4f1de'},
   celestial:{name:'天象',full:'天象異兆記錄',varName:'DATA_CELESTIAL',color:'#9d8cff'},
+  tribulation:{name:'七年大災難',full:'七年大災難記錄',varName:'DATA_TRIBULATION',color:'#e94560'},
+  departure:{name:'離世',full:'離世記錄',varName:'DATA_DEPARTURE',color:'#8ecae6'},
+  industry:{name:'工業意外',full:'工業意外記錄',varName:'DATA_INDUSTRY',color:'#fb8500'},
+  traffic:{name:'交通',full:'交通意外記錄',varName:'DATA_TRAFFIC',color:'#ffb703'},
+  fire:{name:'火警',full:'火警記錄',varName:'DATA_FIRE',color:'#e63946'},
+  tragedy:{name:'悲劇',full:'悲劇記錄',varName:'DATA_TRAGEDY',color:'#9d4edd'},
+  sidefx:{name:'藥物副作用',full:'受管制藥物副作用記錄',varName:'DATA_SIDEFX',color:'#06d6a0'},
 };
 const ORDER=Object.keys(CATS);
 
@@ -247,7 +254,7 @@ function loadScript(src){return new Promise((res,rej)=>{
 async function loadAll(){
   const v=localDateStr(new Date()).replace(/-/g,'');
   const winVar=C.varName;
-  const srcs=[`data_${cat}.js?v=${v}`,`Data/data_${cat}.js?v=${v}`,`data_${cat}.js`];
+  const srcs=[`data_${cat}.js?v=${v}`,`Data/data_${cat}.js?v=${v}`,`build_news py/output/data_${cat}.js?v=${v}`,`data_${cat}.js`];
   for(const src of srcs){
     try{await loadScript(src);}catch(e){continue;}
     if(window[winVar]&&window[winVar].trim()){
