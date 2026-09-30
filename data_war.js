@@ -1,4 +1,4 @@
-// 戰爭 | 由 build_news_js.py 生成 | 共 708 條
+// 戰爭 | 由 build_news_js.py 生成 | 共 703 條
 var DATA_WAR = `
 2026-09-30	（有片）卡塔爾首相：內塔尼亞胡是戰爭犯- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZQnZNUmxlbXVRRXdVMHpKT21od0RKUC0xcE1jTVVNaDJQVmc0ZTY5SDRCXzVObmQ3TFV3cTVpd20xaExmel8zZnBUWXdRTjNjS1VMeUNpTTBsQkxFRGRIZnpDczZmcUtBamNQOVUzWU1IeVVaemJDdTNR?oc=5	未分類
 2026-09-30	路透社：俄羅斯2027年國防支出擬大增27% 創俄烏戰爭以來最高	https://news.google.com/rss/articles/CBMilANBVV95cUxOM3ZyaFVWRFhXYUZSSGtzS2JzU05ibmRRejI1d0t0cXBvOWpraXk2dFBwQzVKeUxjX05qUnVaQjBfdlowUy1PdUc4MXhGQ3lnSlc1UUZFdWNxY1RCOGRpV0lyX0ZqMTdIdWM5MG5Xa2d1YXNJdl8zNmpuT2pBSkVpZExBb3FFTEhxTURpLTRCNENQWVpDOEkxcWRKNjFSQUo2QlpHeG8yU3p4ZDhrR3YxS2dWakhMOGt2WVR6NDVOY3YxSk1IY0lFMFNoZnZ6OHVLc2pOdkY3MVRhdmxFeTh2eGZlZFl0Sk11aVh0WkQ1aVRPdUsxd0ZCbVNUclk0Mkoxek5ndENmcndVQ3NUZUpzeHBGS1NiMXJ6UWwyLUtiMFB6MmRfS0RkVWgzOXAzYkFGbDhOcjc3Mm1MeGNvZ2NQQkxqMkktXzNJRi1QVFBZMy0wb0hTR1dnaDZlVDNjRVhjRFhEZU1VZ3cwcVBMYTlsdlJreVR4dG9TU0dOZXNMWlhkMi1DSF9hM090NnRiRHNSX2U3ag?oc=5	未分類
@@ -703,9 +703,4 @@ var DATA_WAR = `
 2022-08-06	以空襲加薩 巴武裝組織司令喪生 conflict	https://hk.on.cc/hk/bkn/cnt/intnews/20220806/bkn-20220806021525077-0806_00992_001.html	開戰衝突
 2022-08-04	台海軍演｜解放軍環繞台灣軍演 軍事專家：把台獨死死困在島內 conflict	https://www.hk01.com/sns/article/800104	軍演動員
 2015-11-22	伊朗兵棋推演「佔領以色列聖殿山」 糗將兩大地標清真寺搞混 | 簡嘉宏 | 新聞	https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xWEk4TXliUHVXSWtYU1ZVZ2ViRDVqRkZJRkRuTFgwbU00LUM3YUt3cjRpR1Y0M3d1LWcwWERRMnhNQkVnV2dDUk53?oc=5	未分類
-	胡塞武裝封鎖沙國！美方攻伊行動未結束 川普威脅炸伊朗鎬山核設施	https://news.ttv.com.tw/wbc/news/Views/115072200023001	核威脅
-	胡塞声称击落沙特无人机，炮弹落在红海过往油轮附近	https://voi.id/zh/news/586697	未分類
-	罕見糧荒下半年來襲 史上最凶聖嬰現象疊加中東與俄烏戰爭	https://www.i-meihua.com/Article/Detail/53969	未分類
-	俄烏互襲波及糧食出口 烏方提議黑海停火	https://www.chinesepress.com/2026/195072.html	未分類
-	不只有石油——伊朗戰爭及中國出口管制正威脅亞洲糧食安全	https://www.thenewslens.com/article/267173	未分類
 `;

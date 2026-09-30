@@ -1,4 +1,4 @@
-// 糧食 | 由 build_news_js.py 生成 | 共 557 條
+// 糧食 | 由 build_news_js.py 生成 | 共 547 條
 var DATA_FOOD = `
 2026-09-30	英媒：特朗普與顧問就柴油出口禁令進行危機磋商 美政府已告知外國盟友供應可能受擾	https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0FjTWo2NDZpXzBTbnIwMWtHcGVWVFY0aVl4a3VIanJxcGtWWUZId1JmR0VaZjNKZzAtN25ENU9ueWpHVUY1U1NNMUdyS2NPOVM4eHFuS3NmYnluYzdhbU4wbmN5YzhRV3A2UWN1eHNkLWhoNlZRZEpTR2xXYUhKdnhTOVhPbTdtcUk4T0tDU3FQcEZ4QjJGZHgwN1F0UnctQk5n?oc=5	出口禁令
 2026-09-29	（有片）世界糧食獎基金會榮譽主席肯尼斯·奎因：袁隆平以一粒種子改變世界- 神州	https://www.wenweipo.com/s/202609/17/AP6aab834de4b01d54a28397cd.html	未分類
@@ -547,14 +547,4 @@ var DATA_FOOD = `
 2022-08-10	全球糧荒未解決 美國周五或降收成預測 Hunger	https://hk.on.cc/hk/bkn/cnt/finance/20220810/bkn-20220810204745336-0810_00842_001.html	歉收饑荒
 2022-05-26	糧食危機再為世界上了一課 Hunger	https://www.hk01.com/sns/article/774776	未分類
 2022-02-10	一片80元雞排背後 糧價新風暴	https://tw.news.yahoo.com/%E7%89%8780%E5%85%83%E9%9B%9E%E6%8E%92%E8%83%8C%E5%BE%8C-%E7%B3%A7%E5%83%B9%E6%96%B0%E9%A2%A8%E6%9A%B4-082330840.html	價格暴漲通脹
-	莫迪出訪印尼 聚焦國防與糧食安全問題	https://www.epochtimes.com/gb/26/7/7/n14804807.htm	未分類
-	聯邦新規生效 紐約市糧食券受益人7月同比減少15萬人	https://www.worldjournal.com/wj/story/121390/9723913	未分類
-	聖嬰現象發威釀全球糧食危機 巴拿馬運河插隊費飆升至1.6億元	https://www.setn.com/news/1905004	未分類
-	聖嬰現象加劇風險 亞洲能源與糧食供應承壓	http://www.msn.com/zh-hk/news/world/聖嬰現象加劇風險-亞洲能源與糧食供應承壓/ar-AA22p2zD	未分類
-	美國聯邦政府停擺糧食援助將暫停 航空交通亦受影響	https://news.tvb.com/sc/801781-美國聯邦政府停擺糧食援助將暫停航空交通亦受影響	未分類
-	糧食券付款出錯率 阿拉斯加州連續第4年全國最高	https://www.worldjournal.com/wj/story/121172/9614041	未分類
-	東協峰會將登場 聚焦能源糧食與僑民安全	http://www.msn.com/zh-tw/news/world/東協峰會將登場-聚焦能源糧食與僑民安全/ar-AA22vOKd	未分類
-	李多慧糗大了! 放棄排隊搶糧食「淪落在家吃泡麵」求助	https://www.msn.com/zh-tw/食物與飲料-/一般/李多慧糗大了-放棄排隊搶糧食-淪落在家吃泡麵-求助/ar-AA27DyRC?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-	世界糧食計劃署：強厄爾尼諾或致嚴重糧食不安全人口新增近4,900萬	https://tw.tradingview.com/news/reuters.com,2026:newsml_L6T44207C:0/	未分類
-	8月全球糧食價格指數攀升1.9% 創2022年底以來新高	https://news.cnyes.com/news/print/6597686	未分類
 `;

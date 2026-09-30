@@ -1,4 +1,4 @@
-// 第四次工業革命 | 由 build_news_js.py 生成 | 共 657 條
+// 第四次工業革命 | 由 build_news_js.py 生成 | 共 650 條
 var DATA_TECH = `
 2026-09-30	美國政府AI聊天機器人藏《Minecraft》彩蛋 回答問題竟冒出神秘詩篇	https://ai.ettoday.net/news/3246305	未分類
 2026-09-29	（有片）AI智能體遭惡意「投毒」 專家解讀網絡安全防護新方法	https://www.wenweipo.com/a/202609/03/AP6a996213e4b0c1e500276792.html	未分類
@@ -650,11 +650,4 @@ var DATA_TECH = `
 2021-04-28	【名家專欄】「大重置」背後的祕密	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OSVRJWW1OQzB3NGlsdWNFYUFhQmM5NUV0QkFnV2FyWTBRZnBidEpoU0RVS0JsTl81SGdZMWhrTkdYa3B1X2h5RkJoY3ZmZTVxaHVRRFluVndZd054NmhPMdIBZkFVX3lxTE9ST0FFNFl5am14SGI0VENMWHBRNTRKQlJXbGM5UFVBaHg0b1FtUVhqT0k3N0wwemc2U0dEU1pmRk8tVWYzb21EbHY2N2dnNjdVdV9nY0k1YzMwT096cDRwQ3M3aUdZUQ?oc=5	大重置
 2021-02-03	【財商天下】達沃斯推大重構 全球精英深層計劃	https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xSVhuLTRHMURCdUdMWUxjVFo3dzNpeWp6UTBQR1lvN3NYcnM4Um93WmZQLXBHM3FlMFp4VWRhZUNwcmw4bnQ0dzdab2xVTzQ2N2NabUJyUzRoeXo5VXQ00gFkQVVfeXFMTnhEZTA1WmFuVDlsVHZoTnZucmRaN0JveGQwUV9uZmVLcGd3Y1NyRDctaGtRSTVQZndiRHE1dGlnZHMxZ3Vib3J4aXVCU2tqYVhUMXlDaHUtSlNGU0psOWpfYVA0Rw?oc=5	大重置
 2021-01-07	【大重置】從二戰後的重整秩序去看大重置（Great Reset）｜江恩小龍專欄	https://news.google.com/rss/articles/CBMijwNBVV95cUxOWjhWR0NUbk5kYW01Rll3eThVVzY5anVLc19QaVQzV0E5dnNadjYteDQyQlJVMTBaU0JFMVpodXVYQjcyN3ZtUERoWUs0YUVjUXNOTzh4U0REOU5uaTZHVkJzQy1OM0lXRG9VczA4S3NEeXBWZk1OSmMyN0tGQWNncVF3bkJjZjlSR2oxRVByeEkzTzlqTUFYYVdhNzcwMkJHT2VDWXVZZjdDNkk2X21mSTFObG5PMW5OVFRkaUl6ZHJrc24tTW9Td0FEdUJFMmMyTVl5Sm81LV9xejhUazZqZWozeVZmVzZNYkZzTElfOEpsWWZ4MU83YXRzd3ZIZkxkd1hFOFQwTHR2alo4bk5rcDhZMFl1RURlZW5NSlB0UGFkQV9XSzhGRWVoamV1T1RzMVFTMTgya0VHZ1FWQzEzaXp1UDUyRnZyeTZhQ1psNFZ5MGFwZjdrZWw1eVluUkVsOWc3R1QxQWI5cjNPYnpMb2xsY3dNNzRvTmdWSnhockFuS2t1dUZ3cExPQkV4d1E?oc=5	大重置
-	科技界領袖與政府對“AI末日”的擔憂意見不一	https://www.tradingview.com/news/reuters.com,2026:newsml_L4T45D0R8:0/	AI末日
-	研究員質疑AI末日論 稱造成現實傷害仍遙遠	https://www.exmoo.com/article/265840.html	AI末日
-	政府機構頻遭網攻暴露漏洞法國正視資安亡羊補牢	https://www.worldjournal.com/wj/story/121480/9706918	未分類
-	工程師殺進AI新商機4／「沒有一天睡得著」房子押到3胎 貴人牽線讓他起死回生 如今成AI小金雞	https://www.ftnn.com.tw/news/572155	未分類
-	人工智能：為什麼科技公司大佬們突然把大裁員歸咎於AI？	https://www.bbc.com/zhongwen/articles/cn4vwyk3np3o/trad	未分類
-	中科院外網遭駭狂寄舊資料驚動國安綠委也坦承不能等閒視之	https://tw.news.yahoo.com/中科院外網遭駭狂寄舊資料驚動國安-綠委也坦承不能等閒視之-044448869.html	未分類
-	AI取代工作…工程師遭裁員陷憂鬱 醫：科技焦慮患者漸增多	https://www.worldjournal.com/wj/amp/story/121617/9684220	AI取代工作
 `;

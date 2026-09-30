@@ -1,4 +1,4 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 78 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 77 條
 var DATA_TRIBULATION = `
 2026-09-29	黃仁勳駁斥AI末日論 稱2030年發生世界末日的機會是零	https://www.moomoo.com/hant/news/post/76509577	末日預兆
 2026-09-29	西藏爆270死重大災難！世界第99高峰冰崩 「半座山消失」成浩劫源頭 | 國際 | CTWANT	https://www.ctwant.com/amp/article/495447/	未分類
@@ -77,5 +77,4 @@ var DATA_TRIBULATION = `
 2018-09-11	宗教機構指紅色小母牛誕生 民眾憂末日預言實現	https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWhCQnR1Z0FydTRoUjdYLUFsUTc2TUdxcUwxUjVObnVXX1FVekl0ekxIcGR3WXd6NzdISGlQZHA5eU9TblNmUGltXzlnY1J3YmZpOWNVRjE0dHFkX1NkS3p1TWxmcUZyWGhSb0N0Y2R1cklDdWJlX1FvbXkxc1NWV0FxTkVnX3JoOFNLZkQ2NA?oc=5	末日預兆
 2018-09-10	紅母牛在以色列誕生 或示《聖經》末日預言	https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tei1naEhfRGxtbm9feTEzR0J0OXN4SURNMS1IZTluZGw0dHd5SngzZ19CdUg5Qk93bEk1MnNoS25fLTY1U25yUmxFNVpUd0RxMGpSWVNuYzg3NmZxdFFxUNIBZkFVX3lxTE1Wc0xuUHY5WU0waUlVRjRlT3A3S1d6cGFDNVhwbFdZdFNaejZrS0tzYmZOdUl5cHYtc0Y4S1lrdlJCSmV2SV84LWFqMy1OWEZQSVhsdDdMb2hib3pOdnJScjNuZEtodw?oc=5	宗教
 2017-06-16	以色列建第三聖殿與敵基督出現	https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6NXdKcGo1TE5KelZxVEV1M0lNWkJxRy13X21VMjFiNjFmTkNRQnZKSVBxbkdRRVU4M0ljQzJEZzRTZmcyVXc?oc=5	宗教
-	再轟AI末日論！黃仁勳：毫無科學依據 嚇人不負責任 2030年世界末日機率為0%	https://news.cnyes.com/news/id/6611539	末日預兆
 `;

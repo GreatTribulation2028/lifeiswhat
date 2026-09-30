@@ -1,4 +1,4 @@
-// 工業意外 | 由 build_news_js.py 生成 | 共 577 條
+// 工業意外 | 由 build_news_js.py 生成 | 共 529 條
 var DATA_INDUSTRY = `
 2026-09-29	💼【HR與管理層必修】工傷處理情理兼備，你做對了嗎？ ...	https://www.instagram.com/p/DZxIj_8ghOp/	未分類
 2026-09-29	麥迪遜廣場花園演唱會 男子墜落高台 送醫不治	https://www.worldjournal.com/wj/amp/story/121469/9582594	未分類
@@ -222,12 +222,10 @@ var DATA_INDUSTRY = `
 2026-08-03	汐止14歲國三少年高樓墜落 頭部重創、全身骨折搶救不治 - NOWnews今日新聞	https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OTVEtSExrLURSbFk3cnFCdmpIQnZZYVdIWjhKZlNOd0xQNlZ1X2tCZnFnUndWc0tPRTRfcFI0ZjFFSkV1LXdkY2JQenPSAVJBVV95cUxORFpYcDJMc1BkQ1RFcGc4MGM1SnNMWm9iMkx4d2VOaERqMUNvcUtLQnRralpiUWtrLXhzRmVMb2RpTHZUUTZLVlNEVGdHdWhkMEtB?oc=5	未分類
 2026-08-03	九龍城地盤致命工業意外 工權會稱死者為安全工作人員	https://news.google.com/rss/articles/CBMib0FVX3lxTFBrQVd3TGJWVTVOZU9iWUpNOGpGclBlU3BsaklEZXJheE1QRHBZX3hQQktPMXhYY3FiTVloNWpDRElCTmRZRmpyd2JteDB1cVkwclA5dlNTbUo5MTU2eWt1VGhEZTliNl9NWmJmOVFRQQ?oc=5	未分類
 2026-07-31	升降機公司：屬安全保護機制，非「自由落體墜落」 #雲南 #升降機 #墮𨋢 #am730	https://www.facebook.com/am730hk/posts/升降機公司屬安全保護機制非自由落體墜落雲南-升降機-墮𨋢-am730/1536555241845406/	未分類
-2026-07-29	疑與男友爭執後輕生 嘉興21歲女子自18樓墜落奇蹟生還	https://www.i-meihua.com/Article/Detail/53356	未分類
 2026-07-28	20歲女孩從18樓墜落奇蹟生還- 中國社會- 新聞	https://www.chinesedaily.com/article/detail-698791.html	未分類
 2026-07-21	土瓜灣發生工業意外 男工人二樓施工時安全帶斷裂墮樓	https://news.google.com/rss/articles/CBMi5wJBVV95cUxPTDQ0TGE0QXhlX0V1QnhEeDlLYjZUU3NEUmF5Q2lTWEIzc0I2bm1pcDVZdjF4QzlSd1Rwby1DUWpiV29MOHgtMzlOSVo5alAxOW0yT0dBd1hLV2lGZ0dvS1VMYnJ6WFhuWmtzaE9DOTF4WXRmNTVLc2FiaVhTcmdqVGVoYks2aEd5VktUZFplaVhpWWZqallJeENMV2hKS3RsOGhVTFVfSENSQnVZNHFjdVdLUUZ6SW5TdERRN00taTdEZUlJdHlXZ2hENFRzcTFpS2I4dVpZNUlPc3pnS3ZKUDd3WEFKVm01ei1RTnVzbGF1TXFzdlNuaVlEWTZtaHc5YmJxbUxvbGF2YUt3RHh1T1Q5UzNKV081Y2JhMkxOZzY0S3c5WWhzdmQtZzJqLW1JT3NTVThlN18yMmlFd3pjSTA2OUVzOGZRSW1ELXdfSnNqVFdJYnpFRVV0a3ZGbS16d1locnhvWQ?oc=5	未分類
 2026-07-14	將軍澳影業路工業意外 工人落挖泥車意外墮逾1米深坑受傷	https://news.google.com/rss/articles/CBMijANBVV95cUxPUGdrUkRrak4wV09UcHVIenVFUEtRX0tNT09tVFlVejhRSVp3eWFCeG5VTTRjRjVic2RhR2NwaUNxSHMzT2R1OUFGS21UTE1hOUladWRPakVPazFDbUNhb0RVMFpsVUtEdE5wTlg2VkFWY3JmSUdNNm1LdjlMV18tcmtXSVVxUWNCd25DRFZ0cTZ2YzBBZUZzYjdEM0c2LTlheS1tT1paTndLeHpqMTg5bnZhOHY4ellzeFBMemxzTU5CVEVUb0NCY3h0WXJqSWxEZWdqR0JmY21GNExPLVhaMmE0SV9JTmkydGh6UHc4Nk80X1VjY05Selk5RkhsRkJPcDRXd05mUzRCajRVZWx1RnZuOHhuZmxwajgwc2gzaVBVZm45dVFQVFh5MFNxSGhfRkl1RVpOdGNPVUk2WUQxVk1KRzVQYnZXN0VoUFNNb1MwS1lNN0lWTTdQNUo5RGlXeFZkTlJmbEVVUVVMNjlFblQtN3F3dHhOR0UxS2lNQUZiOEdobHRrazhVSzU?oc=5	未分類
 2026-07-10	奪命工業意外爆不停 議員︰中小型工地存監管漏洞	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQREJFRTIxN0o1YmU3bXhrQTdGVjBWVmhyYjRpazRsa2NZZUNpT1F3a3F6Q2oySXR1ZXlfaUpjckp5bUMtYUpNeU83aV80NFNwbVJaak5HN2ZOb3pKSDZUNmFNdWZNM21RTk0yWGFyMlVXQUlSb0Q0WmZhOEtpeVAzMXlTR2hpNk9TRjFj?oc=5	未分類
-2026-07-07	地盤意外｜天秤工作守則將有新規 維修工程擬推「4S」智慧工地系統	https://news.hket.com/article/4156834/地盤意外｜天秤工作守則將有新規 維修工程擬推「4S」智慧工地系統	未分類
 2026-07-04	首半年發生逾十宗致命工業意外 建造業界稱趕工文化致地盤犧牲安全	https://news.google.com/rss/articles/CBMirwNBVV95cUxPbEJWXzhJZHY2MWxXSmR1Zk9RTEFSX1FJSmtIS0czYW85VzB3Tm1NcE5qUkZ3X0F0SnpIbm4wVkVpdGRzZVNCa2RYem02M3F2Yk5oZ0FyYm45QzNJbGg0bzI0eVdNN0IxLVZxRXZ3VndmWkdWaDNQejhwSkZFczVUWF9hSTBTcTg3Y1J1TURVYXdKS0F4YU4yUnIxWFNRdGpCb0pjQURaSUk4ZEVHTUtXZjh0RkROQ0l5Ylk0Wk0yVm1UR2EtODY2VlB1WnRLYnZGTTB6LWRXdVRWMEl5MEU3OHQ3b1hTdW1GUzc4QURHUTN2LXh1cmlhTENZdVpuYWVfeS1kX09ZQzJsQUtZMmRIUGRVNFc5anJDb0Z3QXNrR3lNZjU3TnBWN0cwY3BYZ19DbFl3NXhNVWVRMUJCQmlsMS04NGVjNVAxOF85Q3Z4MENLNjFVVDZ0a2J3a0VselcwWDVXc2NUdlhKTnhCUVQta0hfMHlZX3pqejNBWFE5Y2tFT1JBY0lGZW5lVHlkX2FwVEYtdHdnek55V1hYUlBRVzVySmptODMxcS1QaTdvYw?oc=5	未分類
 2026-07-04	西營盤高街地盤發生工業意外 一名男工遭石屎砸斷手指	https://news.google.com/rss/articles/CBMi7wJBVV95cUxNeHFTcjBWd2lRLVhVLVZoRDlFbXM4ZURMTFMwc2FPMTlLX19NM0RQNWFyblVOd3RGNUZERGpiU0IwSWFLV0E0LUNxdVpqNWdFektXcFcxSzVCODYtUW5yOF9lY3Vaczl0ckl5MDh3Tkhod2p6ZHBjck8wdXZEU19DSXlmSjJ1Y0t4bEdYUTdyanpoNTRmMEQ1Nk5Ya2tKcVpRdW1PNERmM1cwRmU4eUVHTXo0V1FaSjB0eXRyYlhpTUI1bUUwNlU4dWVpb3pDVGFPOXQ1cENHQXM5YUtLcmJhTWFDNXVSMTk3Y24tMm95S3YtS2Q2MUw0N2g4Tk1uRWoyNUh3VlBnNTFiQnRxTmpBMEhnQjRmamtxMzVQTDhLY1NVZnVaVTBxVzRBWFNLWjVLM2J4dWlhN2hTNVlRT3hxYzkxeWlEYlMtY3U1TTZxX05wQVY0RkR5REFycjB5bG9qT04xdnBIQzRKbTJQbEFr?oc=5	未分類
 2026-07-04	業界︰今年已有61宗工業意外 建造業佔26宗	https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaYllfdExzLUhISUFkSW0yWjkzRWtLeVNiLTJwTDlPNUFiaG4tamRvTktZWDMxOFFJTmp6WlYweUdpVngxSklxS2piSDhOZW5EVG840gFYQVVfeXFMT3Bydl9YaUNMaWJxV0hUZVNlbDI1d3gtRmFoeWtsci1CRFNQWXlKWXpXYjhlZjJwbVRBNmdOeGRFem5sMERCcFZ5RjFnSmt1U2JGQ0pMZXhMUA?oc=5	未分類
@@ -253,7 +251,6 @@ var DATA_INDUSTRY = `
 2026-06-22	卡塔爾｜LNG工廠爆炸 54傷18人失蹤	https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRXVvT3VvV2JxZHFDZlpUWVdXalVpT1dJU0w4VW9tRkZJcm9SSy1LVndaSlpuaTVyUm96Ym1VOHlZSmtPMm1BUFhvRm5ScG9tVThoeERVYWtjTzBQbVAwOXozSnZqdFFOTWltbjNwWGNzM0ZaU191RHZBUkRENWVTM3NTQi1xYjFMSGZWZk5TY3Q0RDF6a09JWGdzdXFiNVRFS1pPVkxidHE1ZHJRR005eG5feTVTbjZsbXMzWjFXU0pUdEdaNHVLMDBYVmh0dm5hTXJhbVF5SENOcldESExNSWczNWFSeVoza3JPRld3?oc=5	未分類
 2026-06-13	高雄工廠爆炸起火 遭罰124萬停工 - 20260613 - 中國	https://news.google.com/rss/articles/CBMisAJBVV95cUxNQjBYN1hyc2RsNHY4bjV6VFhUS0MxQnFnbDd6NVo2ZHhmekZlZVY3MnBrTXJvU3VrODY5YkRjamJUUkFQR285cnpvRTdjNzR4bWM0b215dWNrUWpTUkljLThuQnZOTng4Uy1tMHprZXp6NDVPNkpiQk1wV3FUNjZubFI1VGFodzdaOFEwN3ZlUHEwNHRDX3lTbmthd1BnUm9McEZGT0luSVNNREFHRmtidUFsbjF3eUN4X1NlYWc2UUY2UG40WmZaUnRYYVQ3QjhxSHNPdFhBNTA5RFFUWkYtZUwyZUNiLWd2RUxMellDWEpuempMOUQ5ejR4TVB0UThFUTRVdUh4SHVpOXJjWlRobjZrQXMzWTFvUlBpT045MnJUVUY3YjRfLXVOTFJqand5?oc=5	未分類
 2026-06-10	屯門奪命工傷｜男工墮斃妻女失依靠「仁間有愛應急錢計劃」 ...	https://www.singtao.ca/7530888/2026-06-10/news-屯門奪命工傷｜男工墮斃妻女失依靠	未分類
-2026-06-09	屯門簡約公屋地盤意外丨33歲男工外牆唧膠失足墮亡 遺9歲及7歲SEN女兒妻聞噩耗感徬徨	https://topick.hket.com/article/4143622/屯門簡約公屋地盤意外丨33歲男工外牆唧膠失足墮亡 遺9歲及7歲SEN女兒妻聞噩耗感徬徨	未分類
 2026-06-08	韓國韓華航空航天工廠爆炸5死2傷 公司CEO被警方禁止出境	https://news.google.com/rss/articles/CBMikgNBVV95cUxPV3E2Um9MbEFqTnRLTWpNZ1p5Y250UFhNQjdlRVhXZ0VPb2wwTmRmVXE4eEF1Z3FfSlpVYk5TVWNLRmdEYzZLcEdDS2JUN2FMYmVsZkdWQXNGdktCQURNZHZXaWt4U1AzSFFyVTYyY1Y4SEprSndJamhhUjQyeWVhc0NNVExWSTRkSUwzcEx0ZHYxd0xZcy1rbWlOZ2s5V3FNVTNCY1pkNXZ2Q1JxOVppQ3N5cUhEWEN2cEN6THZMOWgtMHlILXNESnhOMFNMNWFOU0diNldNZXM5aklMYjJ5bUtSazFNNEtrZ2ItemZmNXNUMGNlY1FCbzN0a3VnYnl4MGtNMHdQLU1HUzM1UVlDamZNWkgwZTlyNm1WRjdkT2k5bWdpZXJqLVczN1hGcW9VXy12T1h4Q1U3cURhQm11QlBtamwzb2s3d3VkbENPcUVtOGlHWlZfX2dSMUQya3RDR0hjNmRtOTI2NHJYZHBQZF8zU2RLNlB4a0MyczNhTk9XSnYzeEE1UFN5Z21WWTZOS1E?oc=5	未分類
 2026-06-08	屯門工業意外｜屯門簡約公屋地盤33歲男工墮斃 勞工處向承建商發出「暫時停工通知書」	https://news.google.com/rss/articles/CBMipgRBVV95cUxNTkI0MHlDWGRqZmJYUndBdS1lTzZIcFBJanVFeFVwb3VMZUliSUkxVmFORFFueTI3T3VJTGtiMW5NUmZFZWpCVUhCS3NGSjI2RnhOcTBrRkR6WU5Sck9WOUhIZ29HcUJLVm1aTkt1QTh6a01jajJaQXBBSmxmcWlOT195bHoyMEdBczJlTWVncmhlSm1ndlY3SW5UVERZMS1vbFE2UUVEN2pma3UyalZ1N0owUFVFTElldnRzeF9GSG53N3hYZmtJdEdYY0RwYnVnc1VpeWQxT2pBbWt6ckEyV0pvUkhtd3lRNDF3TVBCdDFvTElfVmROajdtcDJvWDRINWh4NVlfSTZWVHhneGFjbHV2eWhoTnd5NndFMlhrQVc0ZXYwUGNtcG9aa29zcnVqT2NnQXBxendyWndLZHdoOUpGTUxVdmNtenVSMjgzOVhaanhxYTNQSTh5c3JhZFVTTExEYUJMUlotenpFU2FvdXhSR1BVLU10UXkyMlp3Zk1nc3NQMlZoYkhtRzRxUTJ2c1lId2Rhb2J1cTAtZ0dSODcybVY3bnh0RWZWeUptQnVvZGVQcW5JZ1V0N0R6M2VqTXdMTDlYdm5NOG4wVFdkTEFZRjB6eUp6bTRJaUk0SE5keWg5YjNYcGtKUHhINzRBcnZNOWIyWGdCajV3ejVfaDU5UmdzdU5Bc3JHekFLanNQMzhvRUFhWjFYWU5PeEVfbi1zVzhn?oc=5	未分類
 2026-06-08	【工傷調查】渠務署地盤致命工業意外 發展局：承辦商或致事故已停止承辦商及分判商部分工程投標資格	https://news.google.com/rss/articles/CBMiwgJBVV95cUxNd2dsQ3FxMTRKdUVUZi1OVDFreVdFVVJRVmdpczRzZmNsTWZqbkg0N2pJWUFIMVMyT3lJVGg5Z21JWjZKWnNJYkJtNDg2OVh0OTZ6R2pBUERJSDEtc2JsRkZnRW84RGRvelpVMlJfUW15SmhBUXpxSUxPTUxLZVhBMVF4QjZQeXFBbHdQMDRfQXlMWHNibWtMb1BwOGh0dm9KRlI3OG1VUURCcC1FMDBpWUpjdHBtSGkzc2dvbzdVVTFzZ3pEbWYwY0lqRkNmZjhqQ21IQTdoeEtmSWtaM2VxbmRVTXBhMEU2T3Bob0RDQXJ0QVFCcy1sNE0tbzg5V0hJSEhhS1l0UGZoLUh0dmVlR0l1LTRHczNRZDZMTV9jNHZ1TTNaWHZRb0FOUGZfcDhjRmVBOGZrVnkxdlRjN2d6UzV3?oc=5	未分類
@@ -532,49 +529,4 @@ var DATA_INDUSTRY = `
 2022-08-10	倫敦排屋氣體洩漏大爆炸 全屋粉碎4歲女亡 居民︰兩周前已聞到異味(多圖有片) fire	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/%E5%80%AB%E6%95%A6%E6%8E%92%E5%B1%8B%E6%B0%A3%E9%AB%94%E6%B4%A9%E6%BC%8F%E5%A4%A7%E7%88%86%E7%82%B8-%E5%85%A8%E5%B1%8B%E7%B2%89%E7%A2%8E4%E6%AD%B2%E5%A5%B3%E4%BA%A1-%E5%B1%85%E6%B0%91-%E5%85%A9%E5%91%A8%E5%89%8D%E5%B7%B2%E8%81%9E%E5%88%B0%E7%95%B0%E5%91%B3-%E5%A4%9A%E5%9C%96%E6%9C%89%E7%89%87-/332831	未分類
 2022-07-11	快訊／新莊女14樓墜落爆頭亡 兒聲淚俱下認屍…警查無遺書	https://www.ettoday.net/news/20221107/2374881.htm	未分類
 2019-10-16	【恐怖工傷】蓮塘口岸升降台疑吊運期間飛墮 壓中女工浴血重創	https://www.hk01.com/article/1011381?utm_source=01articlecopy&utm_medium=referral	未分類
-	青磚圍工業意外｜警改列誤殺拘兩人 工權會認為具阻嚇性	https://news.tvb.com/sc/1178775-青磚圍工業意外警改列誤殺拘兩人工權會認為具阻嚇性	未分類
-	青磚圍工業意外｜男工人涉無牌操作挖泥機撞死另一工人 與管工同涉誤殺被捕	https://news.tvb.com/tc/1178755-青磚圍工業意外男工人涉無牌操作挖泥機撞死另一工人與管工同涉誤殺被捕	未分類
-	防範污水槽工安事故 水利局籲落實職安規範防憾事	https://n.yam.com/Article/20260227335444	未分類
-	開學日傳憾事！新莊12歲女童高處墜落 重摔社區中庭命危	https://udn.com/news/amp/story/7320/9338546	未分類
-	結冰路滑 2登山客墜落亡	https://tw.news.yahoo.com/結冰路滑-2登山客墜落亡-071900077.html	未分類
-	汐止大社區20歲男住戶墜落中庭 頭部重創不治	https://hk.on.cc/hk/bkn/cnt/news/20250904/bkn-20250904160046022-0904_00822_001.html	未分類
-	有片｜工人彎位企路中睇文件車輛急扭軚避撞網民轟：搏工傷？	https://www.hk01.com/突發/60358813/有片-工人彎位企路中睇文件-車輛急扭軚避撞-網民轟-搏工傷	未分類
-	曾捲多宗工業意外 精進建築遭入稟清盤 聆訊排期明年3月進行	https://www.bastillepost.com/hongkong/article/15519768-女子堅道被的士撞斃	未分類
-	新莊男子高處急速墜落 頭部重創送醫不治	https://www.msn.com/zh-tw/health/other/新莊男子高處急速墜落-頭部重創送醫不治/ar-AA1HCjLA?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
-	新北女國中生校園5樓墜落 意識模糊緊急送醫	https://tw.news.yahoo.com/新北女國中生校園5樓墜落-意識模糊緊急送醫-050855211.html	未分類
-	新北女14樓墜落撞雲梯車 落地爆頭送醫不治	https://tw.news.yahoo.com/新北女14樓墜落撞雲梯車-落地爆頭送醫不治-081121198.html	未分類
-	政大女學生遭17樓墜落冷氣砸死 老闆認罪賠償800萬獲緩刑工人仍判2年	https://news.housefun.com.tw/news/article/165744481991.html	未分類
-	掛聖誕裝飾從4樓墜落…醫院以「沒錢治療」拒收 女大生失血過多亡	https://tw.news.yahoo.com/以色列女大生掛裝飾品-從4樓墜落-醫院以-沒錢治療-拒收-025918152.html	未分類
-	憾!高雄27歲女12樓墜落地面 送醫不治	https://news.ltn.com.tw/news/society/breakingnews/5144441	未分類
-	快訊／高雄男8F住家墜落倒臥血泊 同屋家人接警通知崩潰傻眼： 他死了	https://www.msn.com/zh-tw/news/national/快訊-高雄男8f住家墜落倒臥血泊-同屋家人接警通知崩潰傻眼-他死了/ar-AA1MsuX5?cvid=E4F1DE4775994CB0ADF564757C8D76C2&ocid=onepro&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-	快訊／高雄女國中生未到校⋯中午竟墜落自家門前急送醫！媽在家睡午覺	https://tw.news.yahoo.com/快訊-高雄女國中生未到校-中午竟墜落自家門前急送醫-媽在家睡午覺-064300883.html	未分類
-	快訊／開學日傳噩耗！新北女童墜落中庭不治	https://news.ebc.net.tw/news/society/538788	未分類
-	快訊／跨年前傳憾事！台中女9 樓墜落柳川旁路面送醫搶救不治	https://www.msn.com/zh-tw/news/other/快訊-跨年前傳憾事-台中女9樓墜落柳川旁路面-送醫搶救不治/ar-AA1wJXhY?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
-	快訊／疑欠工程款陷困境 新北男4樓墜落搶救1 小時不治	http://www.msn.com/zh-tw/news/other/快訊-疑欠工程款陷困境-新北男4樓墜落搶救1小時不治/ar-AA1DmuHF?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-	快訊／板橋男公寓6樓墜落！「肢體變形」 倒臥路面搶救不治	https://www.msn.com/zh-tw/news/other/快訊-板橋男公寓6樓墜落-肢體變形-倒臥路面搶救不治/ar-AA1Ovqov	未分類
-	快訊／板橋14歲女學生國中校內5樓墜落 意識不清送醫搶救中	https://news.ebc.net.tw/news/society/513861	未分類
-	快訊／新莊女搭電梯到16樓頂 墜落社區1 樓廊道雙腿變形送醫亡	https://www.msn.com/zh-tw/news/other/快訊-新莊女搭電梯到16樓頂-墜落社區1樓廊道-雙腿變形送醫亡/ar-AA1V0mTc?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-	快訊／新店某醫院晚間「男子14樓墜落」 卡1F遮雨棚亡	https://www.ettoday.net/news/20251005/3045526.htm	未分類
-	快訊／新北男高樓墜落倒臥車道! 四肢變形 頭部重創送醫不治	https://www.msn.com/zh-tw/news/other/快訊-新北男高樓墜落倒臥車道-四肢變形-頭部重創送醫不治/ar-AA1RPBB8?cvid=7782a6486de348989dbcc438db9b3de2	未分類
-	快訊／新北國二女學生5樓墜落 頭部撕裂傷意識模糊送醫搶救	https://www.ettoday.net/news/20250925/3039783.htm	未分類
-	快訊／左營某大樓停車場女子陳屍！疑高處墜落警方調查中	https://tw.news.yahoo.com/快訊-左營某大樓停車場女子陳屍-疑高處墜落警方調查中-034400164.html	未分類
-	快訊／基隆翁10樓墜落！頭部重創血跡四濺送醫搶救仍不治| 社會	https://www.nownews.com/news/6772062	未分類
-	快訊／台中站前某飯店女房客12樓墜落 卡隔壁3 樓欄杆搶救不治	https://www.msn.com/zh-tw/news/other/快訊-台中站前某飯店女房客12樓墜落-卡隔壁3樓欄杆搶救不治/ar-AA1R4YIu?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-	快訊／台中某社區大樓傳巨響！20多歲男墜落「四肢變形」不治	https://www.msn.com/zh-tw/news/national/快訊-台中某社區大樓傳巨響-20多歲男墜落-四肢變形-不治/ar-AA1Jmiqi?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
-	快訊／台中27歲女「11樓墜落社區中庭」 全身重創送醫不治	https://www.ettoday.net/news/20251023/3055215.htm	未分類
-	快訊／三重天台商圈28歲男18樓墜落9 樓平台頭部重創不治	http://www.msn.com/zh-tw/news/other/快訊-三重天台商圈28歲男18樓墜落9樓平台-頭部重創不治/ar-AA1UVsn7?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-	快訊／三重天台商圈1男18樓墜落 倒臥9 樓平台命危送醫	http://www.msn.com/zh-tw/news/other/快訊-三重天台商圈1男18樓墜落-倒臥9樓平台命危送醫/ar-AA1UUW49?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-	快訊／三重6 旬婦不明原因高樓墜落命危送醫搶救中	https://www.msn.com/zh-tw/news/national/快訊-三重6旬婦不明原因高樓墜落-命危送醫搶救中/ar-AA1GiPeG?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
-	快訊／14歲新北國中女校內5樓墜落 緊急送醫搶救中	https://tw.news.yahoo.com/快訊-14歲新北國中女校內5樓墜落-緊急送醫搶救中-034500385.html	未分類
-	快訊／ 板橋府中商圈男子從高樓墜落頭部重創送醫不治	https://www.msn.com/zh-tw/news/national/快訊-板橋府中商圈男子從高樓墜落-頭部重創送醫不治/ar-AA1O7Rvt	未分類
-	影/五楊高架桃園段35歲男搭小黃喊下車墜落橋下 搶救不治	https://news.pchome.com.tw/society/ctinews/20260221/index-77167223996771309002.html	未分類
-	彰化工地建材11樓墜落 廂型車「瞬間砸扁」！驚悚影片曝	https://www.ettoday.net/news/20260128/3109236.htm	未分類
-	年前憾事！新莊人妻獨上16樓頂墜落 重摔社區廊道送醫不治	https://www.marketersgo.com/media-collaboration/202601/年前憾事！新莊人妻獨上16樓頂墜落 重摔社區廊道/	未分類
-	年初噩耗！ 基隆7旬翁10樓墜落重創不治	https://news.pchome.com.tw/society/ctinews/20260104/index-76751349782458309002.html	未分類
-	台中18歲女大生校內4樓墜落 落安全網幸無傷	https://news.pchome.com.tw/society/ctinews/20251013/index-76034388087808309002.html	未分類
-	冷氣17樓墜落砸死政大女學霸 空調公司老闆賠800萬獲緩刑2年	https://www.ftnn.com.tw/news/525744	未分類
-	佛州罕見寒流 大量鬣蜥凍昏從樹上墜落成奇觀	https://www.ntdtv.com/gb/2026/02/03/a104062751.html	未分類
-	九龍灣致命工業意外 駕駛壓路機工人涉危駕被捕	https://www.881903.com/news/local/2637805	未分類
-	中秋節前夕憾事！基隆男12樓墜落社區中庭 全身骨折喪命	https://news.pchome.com.tw/society/ctinews/20251005/index-75964325486685309002.html	未分類
-	48歲男12樓墜落亡！離家到台北打拚做外送 年邁父母見兒屍淚崩	https://www.ettoday.net/news/20260130/3110231.htm	未分類
 `;

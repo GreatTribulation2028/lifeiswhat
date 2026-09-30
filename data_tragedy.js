@@ -1,4 +1,4 @@
-// 悲劇 | 由 build_news_js.py 生成 | 共 524 條
+// 悲劇 | 由 build_news_js.py 生成 | 共 509 條
 var DATA_TRAGEDY = `
 2026-09-29	（有片）中國夫婦印尼浮潛溺亡水下救援畫面曝光- 國際	https://www.dotdotnews.com/a/202607/16/AP6a58cd83e4b04b6c5d33a1da.html	未分類
 2026-09-29	（有片）3歲女伴母屍4日悲劇懲教員支援在囚父為破碎家庭重燃希望- 香港 - 香港文匯網	https://www.wenweipo.com/s/202606/01/AP6a1d5411e4b0b49ad1bd9e11.html	未分類
@@ -337,7 +337,6 @@ var DATA_TRAGEDY = `
 2026-08-25	老夫婦出海捕蠔被撞妻溺亡 事發逾月拒立案 家屬遭多部門踢皮球	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383163/%E8%80%81%E5%A4%AB%E5%A9%A6%E5%87%BA%E6%B5%B7%E6%8D%95%E8%A0%94%E8%A2%AB%E6%92%9E%E5%A6%BB%E6%BA%BA%E4%BA%A1-%E4%BA%8B%E7%99%BC%E9%80%BE%E6%9C%88%E6%8B%92%E7%AB%8B%E6%A1%88-%E5%AE%B6%E5%B1%AC%E9%81%AD%E5%A4%9A%E9%83%A8%E9%96%80%E8%B8%A2%E7%9A%AE%E7%90%83	未分類
 2026-08-25	東方日報社論｜欠缺關愛人疏離 婚姻觸礁多悲劇｜全文	https://news.tvb.com/tc/1191096-東方日報社論欠缺關愛人疏離婚姻觸礁多悲劇全文	未分類
 2026-08-25	7旬漢撿帽墮「詛咒鬼湖」溺亡 32年奪200命 水下還藏著一座小鎮	https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60383388/7%E6%97%AC%E6%BC%A2%E6%92%BF%E5%B8%BD%E5%A2%AE-%E8%A9%9B%E5%92%92%E9%AC%BC%E6%B9%96-%E6%BA%BA%E4%BA%A1-32%E5%B9%B4%E5%A5%AA200%E5%91%BD-%E6%B0%B4%E4%B8%8B%E9%82%84%E8%97%8F%E8%91%97%E4%B8%80%E5%BA%A7%E5%B0%8F%E9%8E%AE	未分類
-2026-08-24	貴州籃球賽釀悲劇 父親目睹兒子倒地離世 現場缺急救	https://www.ntdtv.com/b5/2026/08/23/a104126612.html	未分類
 2026-08-24	法國6月中至今301人遇溺亡較去年增14% 官員：數據增與高溫有關	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383077/%E6%B3%95%E5%9C%8B6%E6%9C%88%E4%B8%AD%E8%87%B3%E4%BB%8A301%E4%BA%BA%E9%81%87%E6%BA%BA%E4%BA%A1%E8%BC%83%E5%8E%BB%E5%B9%B4%E5%A2%9E14-%E5%AE%98%E5%93%A1-%E6%95%B8%E6%93%9A%E5%A2%9E%E8%88%87%E9%AB%98%E6%BA%AB%E6%9C%89%E9%97%9C	未分類
 2026-08-22	土瓜灣屋苑泳池男童遇溺 及時獲救送院治療	https://news.google.com/rss/articles/CBMid0FVX3lxTFBvX3Nyc0s2aDY3d1ZiRUZmUUpETERuOXZWaVlLcFplOWliSEJSMDNSczlwOEpGYlJQS1pVcWxWX1BkS0FkbnFyQ05od3pwalQyZEZRZGpzWC05dkVMOGhLcmRGOVhNaHhRN0VKRkZGbFN3MFlMOEdr?oc=5	未分類
 2026-08-21	打鼓嶺狗殺人｜33年內3死 1996年鬥牛㹴咬斃7月大BB 港修例規管 打鼓嶺坪洋村一間寵物酒店昨日（20日）發生罕見致命慘劇。一名33歲女負責人在餵食完一隻30公斤重的待領養狗隻後，疑因狗隻拒絕入籠而遭到突發性咬.	https://www.hk01.com/%E7%AA%81%E7%99%BC/60382235/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-33%E5%B9%B4%E5%85%A73%E6%AD%BB-1996%E5%B9%B4%E9%AC%A5%E7%89%9B%E3%B9%B4%E5%92%AC%E6%96%837%E6%9C%88%E5%A4%A7bb-%E6%B8%AF%E4%BF%AE%E4%BE%8B%E8%A6%8F%E7%AE%A1	未分類
@@ -510,18 +509,4 @@ var DATA_TRAGEDY = `
 2022-03-07	多人溺亡！五部門聯合部署	https://china.huanqiu.com/article/4933JIZppT2	未分類
 2022-02-10	西貢塔門海面男子疑浮潛遇溺 由直升機送院亡	https://www.hk01.com/article/821203?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-02-06	大嶼山遇溺兩死│男死者疫情下失業寄情行山 家人泣訴為顧家暖男	https://www.hk01.com/sns/article/777397	未分類
-	鰂魚涌公園男子海邊游泳遇溺 警方消防救起送院	https://www.singtao.ca/7368867/2025-12-22/news-鰂魚涌公園男子海邊游泳遇溺+警方消防救起送院/	未分類
-	高雄「海陸女士官斷魂」慘案最新！指揮部：全力協助辦後事	https://news.pchome.com.tw/society/ctinews/20251126/index-76411467904459309002.html	未分類
-	長照悲歌：母殺思覺失調兒未成，法官嘆人間悲劇判2年8月	https://www.thenewslens.com/article/259339	未分類
-	蛇年悲劇！ 彰化女早晨外出後失聯遺體竟在八堡二圳尋獲	https://www.msn.com/zh-tw/news/national/蛇年悲劇-彰化女早晨外出後失聯-遺體竟在八堡二圳尋獲/ar-AA1yajCN?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
-	秀茂坪曉光街停車場男墮樓亡 妻失聯報警揭發悲劇	https://std.stheadline.com/breaking-news/3531366/秀茂坪曉光街停車場男墮樓亡妻失聯報警揭發悲劇	未分類
-	沙田悲劇！23歲仔疑因財困走上絕路 禾輋邨墮樓遺書內容曝光令人心碎	https://www.weekendhk.com/矚目話題/最新時事速遞-沙田墮樓-珍惜生命-3426297/	未分類
-	東京101人中暑亡 7成「冷氣沒開」悲劇曝光	https://news.hket.com/article/4000852/珍惜生命｜一男子政總危坐企跳 談判專家成功勸服 勞福局證實為該局職員?mtc=20023	未分類
-	天恩邨母子墮樓慘劇 李家超：要求房署考慮個案特質以人性化處理	https://n.kinliu.hk/kinliuhknews/天恩邨母子墮樓慘劇 李家超：要求房署考慮個案/	未分類
-	台灣潛水專家日本礦場遺址遇溺亡 政府被批未負起打撈遺骸責任	https://news.tvb.com/tc/world/698915533f9518a5ccdbe1bb/國際-台灣潛水專家日本礦場遺址遇溺亡政府被批未負起打撈遺骸責任	未分類
-	台中某公園悲劇！58 歲男失蹤妻急開定位心碎見尪倒樹下亡	https://www.msn.com/zh-tw/news/national/台中某公園悲劇-58歲男失蹤妻急開定位-心碎見尪倒樹下亡/ar-AA1KJ8g7?cvid=388efc7494f647fcda9c3eba265154b6&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
-	印度喜馬偕爾邦新聞：比拉斯布爾公交車事故悲劇奪去了一個家庭四名成員的生命	https://citytimes.tw/資訊/印度喜馬偕爾邦新聞：比拉斯布爾公交車事故悲劇/177931/	未分類
-	北投溫泉2死悲劇！20歲兒認父母雙屍 哀痛不語	https://news.pchome.com.tw/society/ctinews/20260210/index-77069064603774309002.html	未分類
-	人倫悲劇！台中狠母「疑餵安眠藥」 6歲、3歲幼子送醫不治	https://tw.news.yahoo.com/人倫悲劇-台中狠母-疑餵安眠藥-6歲-3歲幼子送醫不治-233818747.html	未分類
-	TikTok挑戰又釀悲劇！ 巴西8歲女童模仿「止汗劑挑戰」 吸入過量不治	http://www.msn.com/zh-tw/news/world/tiktok挑戰又釀悲劇-巴西8歲女童模仿-止汗劑挑戰-吸入過量不治/ar-AA1DzUxu?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 `;

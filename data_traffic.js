@@ -1,4 +1,4 @@
-// 交通 | 由 build_news_js.py 生成 | 共 379 條
+// 交通 | 由 build_news_js.py 生成 | 共 373 條
 var DATA_TRAFFIC = `
 2026-09-30	新莊重新堤外道連環車禍！ 波及4車、釀7傷	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QV2pKUjRVODNDTEFZUHk0U1hGWmVlRkNBb0lDcFdsMmFGVFhaSVNvQi1aaE1vQWhFVHlmSEtsaUVlVl9SWGhRNDMwV2k3N0hsOG0yTkl6MlnSAV5BVV95cUxPcG1fZVh4XzZYaWVmS19GUEhxdFVzWFhTWnJUS3ZfYWhvMzg2RWhQSnJzNXlXWEVrdjZsRXhJWmpzQi1tVEhYQjZ6M0N6dGRWTTk1YVQ4OF9RQmo2YWR3?oc=5	未分類
 2026-09-30	忠孝橋連環撞車禍釀多人摔車！機車道塞爆 騎士崩潰：卡3個99秒紅燈 | CTWANT	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wUEU4VVkzSXZUdnpQUUZVVEp4eWJ1OWJ0bFFpaWpkRkkzUDBMaWlsLW5aY3Y5RUZNVGlhTG1CMW9WVjVORW9Gb1ZlNzIxdkJXWmtndjhn?oc=5	未分類
@@ -32,7 +32,6 @@ var DATA_TRAFFIC = `
 2026-09-29	青沙公路車禍｜夫婦無扣安全帶 運輸署：扣安全帶死傷風險減半	https://www.hk01.com/突發/60361207/青沙公路車禍-夫婦無扣安全帶-運輸署-扣安全帶死傷風險減半	未分類
 2026-09-29	青沙公路車禍｜兩死者家屬 由消防處人員陪同認屍 神情哀傷	https://www.hk01.com/突發/60361509/青沙公路車禍-兩死者家屬-由消防處人員陪同認屍-神情哀傷	未分類
 2026-09-29	青沙公路車禍休班消防員偕妻亡 上周三曾於觀塘救回墮海老翁	https://www.orangenews.hk/hongkong/VMlzbyr/青沙公路車禍休班消防員偕妻亡-上周三曾於觀塘救回墮海老翁.shtml	未分類
-2026-09-29	青沙公路致命車禍休班消防員與妻遭拋出車雙亡 貨車司機涉危駕被捕	https://www.bastillepost.com/hongkong/article/16180963-青沙公路致命車禍休班消防員與妻遭拋出車雙亡	未分類
 2026-09-29	青沙公路致命車禍 休班消防員與妻子雙亡	https://hk.news.yahoo.com/青沙公路致命車禍-休班消防員與妻子雙亡-005834644.html	未分類
 2026-09-29	青沙公路發生致命交通意外 兩死兩傷	https://news.rthk.hk/rthk/ch/component/k2/1858773-20260617.htm	未分類
 2026-09-29	青沙公路消防偕新婚妻車禍拋飛亡 親友辦認屍手續帶走二人遺物	https://hk.on.cc/hk/bkn/cnt/news/20260618/bkn-20260618111700351-0618_00822_001.html	未分類
@@ -289,11 +288,10 @@ var DATA_TRAFFIC = `
 2026-06-18	青衣兩死車禍│十多名家屬傷心認屍 消防處派員陪同	https://news.google.com/rss/articles/CBMid0FVX3lxTE54TWtHV2w3bHM0Rmh1SDl6T2EzajhJTXY0X0xJcVNTZjN2eW5senlaTVVrZExmMlNZY1kwWTZKTGdOQUxYNFFoWTJDeERJVkhWQTFxTFlkbjFDMnJtWjR5WmpUcEczdHRrNTdiR1FLbkVHVWNzQ1NR?oc=5	未分類
 2026-06-18	青沙公路車禍｜兩死者家屬 由消防處人員陪同認屍 神情哀傷	https://news.google.com/rss/articles/CBMijgNBVV95cUxOZWw0STNReXNKbkIxU29DVjhtQ0E1MGpRcWx4ZmdGR2Q4cURYSVpPRlNYRG1keHFkV1ZWamplS1lXb20weHZvVmRQVzNpcC0zQ2FDeFpzemNBaFMySnphdm5Zcm45SWlmNURCbm1DT1AwdDJJbGFEVjc3QlkzcF84WTVpMjQ0YWVOSGlnVzZoNVc1N2RfZjU1c1kzamxkeUdWZEVhMks0ampPUWw1VmxhMGVaTElYS0Zyblh2ZTlOdkdoWk9pME8zdGtoeC1neFJ6ZHFjUEdnd0N6MVRFWWE5YlU2MHVnU2JpbjVFazRwbVFyU1dMM1F3UFhXR3hYSE4zVVFkaTFzSTZYazVKSkU4LW15VFFFU3FUUFhFZnh4bG1DVkpjRksyd3VEMnRycGRZQk4xNHVoeGZVVFh5dmJRS1FXRGZwWUd0NEdOSVk3ZGNINlZTaVhqZVloVGVMSjdPVGZLSHhfLW1DUHhDdE1CQ0RwcnNhek16aV91bkFCTXgyb216a3Y1UXVFcGJIUQ?oc=5	未分類
 2026-06-17	青沙公路致命車禍｜兩死者為夫婦關係 男為休班消防員隸屬觀塘局	https://news.google.com/rss/articles/CBMisANBVV95cUxOTGoxMFBkOUhZcGJ1V1c5b3JHdjRFV3VoWFlWU0dNeHJVUFNPN3R2aEt6S3pZUEUwX0VZQzJtSExfczAzWE1OeU5ONHFQdTV2cmlYUkxUM0V5SUFuc2lRMnF1cm0xLVQ5SVk5TTZzRmt5ZXlQVi1VUWhnaHE3VnpPZDY1RjctSVJnVTAxSkpvY2hWYnNySjhhb2NlMmpXeWxBenNRODhhM1dBdGdfQlduNjhDMkdVWDYyTk5SVmhIX2lKbjFXLXRFZWJSd1NrQlljbU9DOUN1Y3FxcC01QVl4SlBSUnVPdzN4ODFwOVpfOXNuU3I1b3pmN18xVWZTYzV2YXQ4VF91V3hRTXJma2lWekdjbXp5aGdZQWdka2RLeVFnd0QxeGpaNkJ5enFoOG45cUdiU2lWRklMZF81WExtRmVzeEc5TVl5ZWtWMkx1NDJ5R1kxQUhGbnZIbksxVHhtWDhySlRYYjY0LXRtbWxLckNVY2s0aUFoZXVOekU3RFJNNFdfVWdBa2NtbFUzQXhsZDNNNlpSa0NhNU9DT3JEQmJ1U0luUmpVQTUtNTFBM2k?oc=5	未分類
+2026-06-17	青沙公路致命車禍休班消防員與妻遭拋出車雙亡 貨車司機涉危駕被捕	https://www.bastillepost.com/hongkong/article/16180963-青沙公路致命車禍休班消防員與妻遭拋出車雙亡	未分類
 2026-06-08	屯門公路車禍｜直擊Audi如平衡木滑壆爆火花 撞斷燈柱墜對面線	https://news.google.com/rss/articles/CBMikgNBVV95cUxQbVZQQzVnLXphS2tzOU14UF9LOWd5SWpFQ1hWZUh1RFBnVDFPQmNKWEFrVDRiWkdKLTYzVWFTVV83THFMQlh3UzYxZXg1YUI1MUV0RlRZUWlXVTczM0hDczItWXJ6MzdWNVlONWtGcnJzcnNTMFNteFl4bllVNEJsamJ5akc5SzBMcXdaOGRKbzZGSXJSclNpZmJ2VDF0QjEzMXdXYUdza2ZlVWVaWjZ4dnVYRzBKenZkTlFadGUtLTZ6R0paX2NlV2g4b01nenM4ak1sNXJ4emJfSi1HeXR1SzdhM1QxeVV2eGFLU2lBZ1dWcVlpVWgwT3ZmUlhTRmNfVXJWcnJ5ZEtqUGU3eVpBUDNZd21mVkJCWF9NVmd4eEVaWDJUemJKaDFmZ056NWFweWpKQXZlSTBabGkxU2lYbmdCZEZJbEhJcGRobEN5QURab3lvQzZkVXRDTXhVd0RCbGJaYXdITW9kbTl3aVM3MlNraENLbTNCSDJTQmNXNjBfVW9KTU9xSDduYWhWeGU4amc?oc=5	未分類
 2026-06-08	屯門公路車禍｜Audi變炮彈 警證出事前非法賽車 另拘一男司機	https://news.google.com/rss/articles/CBMihwNBVV95cUxOQXJtMklyMEE4OHNFZURzb2VhM01oSUlfVkZLM01qVnh6a1o5MDlJVmczM00tcm9yZHpYcTJNT1g0MkNaUVRiMmxsRDJSckhza3ZFcE83ZmlsVlprZi0zX05PT0JoSGM3Ml95WmZmZnFVbnBqSS1ZckJzbVpMem44LUc3RjNnNnF6UW04SjVlWVRUb20za0dIOHc3Z0l0NUZOYVBzNndtTy0wTWRlaXZkSkJFOHpmSWN5SVFPd1FldVVPMUg5TVdqdGc2OVprNVN4ZXJTSFhKY1RYSGtqVnpDT1JQNlYzdUNSQVZobmVkZmNaNi1Uamk3QVg1aHhMMFR0N1k0OXVfSF9MTDdNSW5TMjAxdHZBTWdUTkRyUkREVUF1cUY0S1UzaExxdVBoWUVNWXJhNFVCQUpKZXVSMDJnYldfYWdhbE9iSnRjOENmVWlOZUxfU2l3MnRhSENnaklUZ0NnSFY4UEhZOFlHaTBzcllYelkxQmZRQlF1b2RhalJHUFJPY2lR?oc=5	未分類
 2026-06-01	澳門十歲男童交通意外，為何引發社會公憤、集體哀悼？	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Rd2pZR19VZ0xrb3lGV1Q5LWl3Yl9mSVN2V0xtZUQwOXY5bWwtV0diVHYtRUNZZ1FFWDdLZEtmMTNmVlFPS3BRUGpFV05vb25lYmw4QzVKZ09Dam9HRWM5VVVXQWl0Z9IBa0FVX3lxTE1fZ21oYlNHSTY4WjZpenRMQVhCRXlkaGR0ai05OFVYeXVPMGpoeTZ6cUR5Z0wzZ29Ca3JPN3VkZUsxSWpyenRzNkVUc1Rhcko4UG9MNkxFVjVHS2xZbnhmeDJaRmVpSU96R2Fj?oc=5	未分類
-2026-05-21	牛頭角兩死車禍 七旬的士司機坐輪椅出庭應訊 准5萬元保釋8.13再訊	https://n.kinliu.hk/court/牛頭角兩死車禍 七旬的士司機坐輪椅出庭應訊 /	未分類
-2026-05-19	九龍灣交通意外｜九龍灣輔警總部對開有私家車撞向鐵欄 路邊監察器電池飛脫在馬路起火	https://news.hket.com/article/4131160/九龍灣交通意外｜九龍灣輔警總部對開有私家車撞向鐵欄 路邊監察器電池飛脫在馬路起火?mtc=20023	未分類
 2026-05-15	青馬職員車禍亡｜死者沒有架子 喜歡照顧新人 同事：佢做嘢勤力認真	https://std.stheadline.com/breaking-news/3572703/青馬職員車禍亡死者沒有架子-喜歡照顧新人-同事佢做嘢勤力認真	未分類
 2026-05-14	牛頭角奪命車禍丨的士剷行人路車Cam曝光 38歲女途人斷雙腳亡31歲女右腳甩脫重傷兩人屬同事任職牙科助護	https://topick.hket.com/article/4128724/牛頭角奪命車禍丨的士剷行人路車Cam曝光 38歲女途人斷雙腳亡31歲女右腳甩脫重傷 兩人屬同事任職牙科助護	未分類
 2026-04-17	英超｜前奧地利門將曼寧加車禍逝世 曾助阿仙奴奪英超及足總盃冠軍	https://www.stheadline.com/football-news/3562942/英超前奧地利門將曼寧加車禍逝世-曾助阿仙奴奪英超及足總盃冠軍	未分類
@@ -375,8 +373,4 @@ var DATA_TRAFFIC = `
 2022-12-18	52歲名嘴連出7次車禍 就醫才知「腦癌」病逝	https://tw.news.yahoo.com/52%E6%AD%B2%E5%90%8D%E5%98%B4%E9%80%A3%E5%87%BA7%E6%AC%A1%E8%BB%8A%E7%A6%8D-%E5%B0%B1%E9%86%AB%E6%89%8D%E7%9F%A5-%E8%85%A6%E7%99%8C-%E7%97%85%E9%80%9D-052600227.html	未分類
 2022-12-16	名醫車禍猝逝 親友病患痛心	https://tw.news.yahoo.com/%E5%90%8D%E9%86%AB%E8%BB%8A%E7%A6%8D%E7%8C%9D%E9%80%9D-%E8%A6%AA%E5%8F%8B%E7%97%85%E6%82%A3%E7%97%9B%E5%BF%83-070000727.html	未分類
 2022-12-13	百萬網美「車禍突猝逝」！好友悲痛證實噩耗 得年21歲 ｜ 蕃新聞	https://n.yam.com/Article/20221213293829	未分類
-	越南下龍灣35死船難！3男「抱木椅漂流」 奇蹟生還悲曝罹難者絕望眼神	https://www.msn.com/zh-tw/news/world/越南下龍灣35死船難-3男-抱木椅漂流-奇蹟生還-悲曝罹難者絕望眼神/ar-AA1IXo9H?cvid=CC7D9415ABB64A34881BB9B86ED56B81&ocid=onepro&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-	秀茂坪交通意外｜秀茂坪寶琳路貨車與九巴相撞 10人受傷送院	https://news.hket.com/article/4127490/交通意外｜秀茂坪寶琳路貨車與九巴相撞 10人受傷送院	未分類
-	濟州航空空難｜已辨認174具遺體 死者家屬待全部確認方舉行葬禮	https://www.bastillepost.com/hongkong/article/15520067-中區發生致命交通意外一名女子死亡-的士司機被捕	未分類
-	澳洲昆士蘭電動滑板車事故急增 平均每天逾五名使用者受傷送院	https://news.tvb.com/sc/world/698c24473f9518a5ccf5d4f6/国际-澳洲昆士蘭電動滑板車事故急增-平均每天逾五名使用者受傷送院	未分類
 `;
