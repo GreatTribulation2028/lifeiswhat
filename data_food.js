@@ -1,4 +1,4 @@
-// 糧食 | 由 build_news_js.py 生成 | 共 600 條
+// 糧食 | 由 build_news_js.py 生成 | 共 599 條
 var DATA_FOOD = `
 2026-09-30	英媒：特朗普與顧問就柴油出口禁令進行危機磋商 美政府已告知外國盟友供應可能受擾	https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0FjTWo2NDZpXzBTbnIwMWtHcGVWVFY0aVl4a3VIanJxcGtWWUZId1JmR0VaZjNKZzAtN25ENU9ueWpHVUY1U1NNMUdyS2NPOVM4eHFuS3NmYnluYzdhbU4wbmN5YzhRV3A2UWN1eHNkLWhoNlZRZEpTR2xXYUhKdnhTOVhPbTdtcUk4T0tDU3FQcEZ4QjJGZHgwN1F0UnctQk5n?oc=5	出口禁令
 2026-09-29	（有片）世界糧食獎基金會榮譽主席肯尼斯·奎因：袁隆平以一粒種子改變世界- 神州	https://www.wenweipo.com/s/202609/17/AP6aab834de4b01d54a28397cd.html	未分類
@@ -10,7 +10,6 @@ var DATA_FOOD = `
 2026-09-29	高物價壓力加重 長島蘇福克郡糧食券使用戶增34%	https://www.worldjournal.com/wj/story/121390/9489659	未分類
 2026-09-29	高德曼國會提案 糧食卡將加裝晶片防盜	https://www.worldjournal.com/wj/story/121390/9347927	未分類
 2026-09-29	食鹽、糧食消耗、手機..科學分析【中國真實的人口數】 根本沒有14億人？消失的五億人去哪了？ Kristen Smart (n7QsyxbW0A)	https://mshale.com/1e649b7e/c3377f5eEIjelwE3zWQ	未分類
-2026-07-11	颱風天買糧食撲空 李多慧後悔「人多沒排隊」	https://www.nexttv.com.tw/NextTV/News/Home/Entertainment/2026-07-11/2403115.html	未分類
 2026-09-29	颱風天宣導「囤3天糧食」掀亂象? 戴立綱氣炸開罵： 你以為打仗啊	http://www.msn.com/zh-tw/entertainment/news/颱風天宣導-囤3天糧食-掀亂象-戴立綱氣炸開罵-你以為打仗啊/ar-AA27CHKv?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	領糧食券 未達工作要求 三年最多領三個月	https://www.epochtimes.com/b5/26/8/20/n14833126.htm/amp	未分類
 2026-09-29	響應國際糧食損失和浪費問題宣傳日 新北邀全民從日常實踐惜食行動	https://tw.news.yahoo.com/響應國際糧食損失和浪費問題宣傳日-新北邀全民從日常實踐惜食行動-071428780.html	未分類
@@ -82,7 +81,6 @@ var DATA_FOOD = `
 2026-09-29	糧食券新規 逾4萬紐約人恐失資格	https://www.worldjournal.com/wj/amp/story/121390/9532738	未分類
 2026-09-29	糧食券付款出錯率 阿拉斯加連4年最高	https://www.worldjournal.com/wj/story/121473/9613949	未分類
 2026-09-29	糧食券付款出錯率 阿拉斯加州連續第4年全國最高	https://www.worldjournal.com/wj/amp/story/121172/9614041	未分類
-2026-08-14	糧食出口暴跌近8成 烏克蘭向俄提議「停止攻擊黑海民船」	https://www.ettoday.net/news/20260814/3219031.htm	未分類
 2026-09-29	糧食供應風險增 MOO買得過	https://www.hkej.com/dailynews/investment/article/4505310/糧食供應風險增+MOO買得過	未分類
 2026-09-29	糧食主題ETF震盪走高，糧食ETF浦銀漲超7%、糧食ETF南方、糧食ETF華夏、糧食ETF易方達、糧食ETF廣發等漲超6%。	https://news.futunn.com/hk/flash/20653575/grain-themed-etfs-trended-higher-amid-volatility-with-the-spdb	未分類
 2026-09-29	糧農組織報告指修復森林可應對糧食氣候挑戰	https://metrohk.com.hk/國際/糧農組織報告指修復森林可應對糧食氣候挑戰-cbe38f	未分類
@@ -137,7 +135,6 @@ var DATA_FOOD = `
 2026-09-29	新聞分析丨全球糧食安全面臨三大“灰犀牛”	https://www.chinesepress.com/archives/184234	未分類
 2026-09-29	救飢餓！聯合國世界糧食計劃署羅馬總部揭密| 節目	https://www.setn.com/news/134707	未分類
 2026-09-29	救援糧食危機! 邱園標本解碼茶葉 牛津發現稻米高產基因	https://www.msn.com/zh-tw/news/world/救援糧食危機-邱園標本解碼茶葉-牛津發現稻米高產基因/ar-AA1XvHs4?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-2026-08-27	敏熙報氣象／薩爾瓦多乾旱加劇 農田歉收經濟損失難估計	https://www.4gtv.tv/article/2026082704000034	歉收饑荒
 2026-09-29	政府在齋月之前分發了 11.92 萬億印尼盾的糧食援助	https://citytimes.tw/財經/政府在齋月之前分發了-11-92-萬億印尼盾的糧食援助/708263/	未分類
 2026-09-29	控以色列助俄竊烏糧食! 澤倫斯基：明知故犯	https://www.msn.com/zh-tw/news/world/控以色列助俄竊烏糧食-澤倫斯基-明知故犯/ar-AA21XB3h?cvid=69f25d7e2242480c9c1b58ddb4ffffc7	未分類
 2026-09-29	报告 | 農業糧食系統技術與創新展望 | FAO	https://www.fao.org/agrifood-systems-technologies-innovations/report/zh	未分類
@@ -189,7 +186,6 @@ var DATA_FOOD = `
 2026-09-29	南寧糧食總產量連續六年穩定增長	http://gx.people.com.cn/BIG5/n2/2026/0227/c179430-41510169.html	未分類
 2026-09-29	北韓又見糧食危機！被爆接連餓死人	https://autos.yahoo.com.tw/news/北韓又見糧食危機-被爆接連餓死人-070411976.html	未分類
 2026-09-29	加拿大糧食援助古巴紓緩人道危機- 國際 - 香港文匯網	https://www.wenweipo.com/s/202602/27/AP69a046fde4b04d7d56d5555e.html	未分類
-2026-02-27	加拿大糧食援助古巴紓緩人道危機- 國際	https://www.wenweipo.com/a/202602/27/AP69a0aa5ee4b04d7d56d55d59.html	未分類
 2026-09-29	加州糧食補助新規6月1日生效 26萬人受影響	https://www.worldjournal.com/wj/story/121359/9518864	未分類
 2026-09-29	加州糧食券新規生效洛縣26萬人受波及- 美國要聞- 新聞	https://www.chinesedaily.com/article/detail-691478.html	未分類
 2026-09-29	加州13%、182萬戶家庭領糧食券 月均補助金額全美第七	https://www.worldjournal.com/wj/amp/story/122693/9348135	未分類
@@ -371,6 +367,7 @@ var DATA_FOOD = `
 2026-08-27	特朗普政府鎢廢料出口禁令正式生效，美國鎢礦股本月暴漲	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjQXhiSWpnVkhrVWk0UUw1N3dXdUFGQ0hCRGUtak43MVBKTmJtWlN2SzhEM29EdFFwOW9ZRjM5RTFTbEEtSGhzYS1ISG4zaENsMkVlcXYtNlFtdw?oc=5	出口禁令
 2026-08-27	特朗普政府鎢廢料出口禁令正式生效！美國鎢礦股本月暴漲	https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUtRTHcwV0ozMmc3TmRnNlhfTXY5OW9NRlhJemFVNzNwVDhEYjd4VWhtcUNtbUw0eUtDc25na2ZDbndMdngydW9qbGZTY0VsT1Z1SDNPSE1YUkRYM1FCWUJHWVBSWmVWVWY0Q0MwLWhnZTZLUlByOEp2WEJUWF9kMDVyZnU2T3V2cXBRclQ0SEdkeUc0ZzUtR0NnUTA1N0IxYnZV?oc=5	出口禁令
 2026-08-27	澳洲暫停24國工作假期簽證申請 或影響糧食安全	https://hk.on.cc/hk/bkn/cnt/intnews/20260827/bkn-20260827193040575-0827_00992_001.html	未分類
+2026-08-27	敏熙報氣象／薩爾瓦多乾旱加劇 農田歉收經濟損失難估計	https://www.4gtv.tv/article/2026082704000034	歉收饑荒
 2026-08-26	糧食危機真非危言聳聽？CBOT小麥週三狂飆逾6% 觸發漲停	https://news.google.com/rss/articles/CBMimgFBVV95cUxQS084RkdHQ0JqS3NneExpVFhEdXM3WFg0UDltUmVxUF9jS2tSRHEzck01Qkw2emkzZFRrQUNoT1dnUm1vWF9zRUs2dWlHQ1NkdUFNTWdaYTdjT3pMZmoxSHAta2ZZZVA4dXdOWi0zd05ncndiTzhMVjhIWHBqRC1WYTlqMmdyeXlJVnBTM1RwYUI3TkQ3UUY1OTZB?oc=5	未分類
 2026-08-26	勝利證券：糧食危機催生農業新契機	https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFdOdDFTZlpPbGNTcXVOUlFKRDRpTV80QlNXSzJHMVZ3OUktbnV2XzFvZXVHRlBmWENoSy1kWWN2Vk8yTFY1c0VFWGtjekVmOC1Ia1drODF4UVdCUThOV2dJS3ZoZHdzaFZ2Q3FCaTBnWFpGa0NUN0VRREVMVERxaWFUa0k5cVNoekN0X1lGaw?oc=5	未分類
 2026-08-25	調查：逾86%家辦配置可持續投資糧食農業成最受關注主題- 財經	https://www.wenweipo.com/a/202608/25/AP6a8d268ae4b0c1e50026288e.html	未分類
@@ -388,6 +385,7 @@ var DATA_FOOD = `
 2026-08-17	摩根大通警告霍爾木茲海峽受阻及超級厄爾尼諾或引發全球糧食危機	https://news.google.com/rss/articles/CBMi7gJBVV95cUxNcUxHcWhSTE9uUmlDMjJtZXlVdVhGbGp3UjBZYWhVRXFUMzg1bzhQaU5pZ21aWkVtZmFqY1lEVlEya0laZE40ZjdlaTEwWjRpUlF5Y19iZ2J2WS1hU2pKdUJmWjBlS2FyY2pYNGVqZkRnWlNsZmdyVFYzbG1wYXpOT2ZPYUlWdTZZWTNLek4zN3R1ZE9FY0UyS0lTTEROX1UweExOY2xFbmdVeVNZVjBQTW4xN1YzS0Z2RlFLODN0dkRfTDZmUnFQUUpzYUxhRU5icGt4NXpHY1FLY19mUmhFMmllbTZLLXBpclktU3lpb3g4Q0cyNGRFdXM4dmFJbnpkVXYxNFFSR29yVW5ZanJMbC1LTmxfSG15cWlDRkkzbDhFd3dmZ3RqRUJ5SDZaSlBBU2lQeHh4dFBxZkFJLU5TQXIwT0hQaVpuQjRzTzl4b0JtU0NsWXZmeWxySU5kdGFQY0pTMkRmQ1lKeXFpTHc?oc=5	未分類
 2026-08-17	「全球糧食危機」恐在2027上半年爆發！食品通脹飆至5% 3國家首當其衝	https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oRm8zTGdfUF9lbHpsSHNEUzNXS0VhcXNDRHVhN0l0bFgyc1JxeDRDSktQbElqRDhFTVZDckdHQzNiNGpxcWdBcHlSSEdwU0w3cnc?oc=5	價格暴漲通脹
 2026-08-16	多家機構警告：全球將爆發糧食危機	https://hkcd.com/hkcdweb/content/2026/08/16/content_8769967.html	未分類
+2026-08-14	糧食出口暴跌近8成 烏克蘭向俄提議「停止攻擊黑海民船」	https://www.ettoday.net/news/20260814/3219031.htm	未分類
 2026-08-14	河南兩名兒童將超市糧食混雜致無法出售 引熱議	https://hk.epochtimes.com/news/2026-08-14/43651763	未分類
 2026-08-13	飢餓緬甸：軍政府封鎖，將逾千萬緬甸人推向糧食危機	https://theinitium.com/20260813-international-myanmar-food-crisis-junta-blockade/	未分類
 2026-08-12	全球糧食系統韌性增強 緩衝超級聖嬰衝擊	https://hk.epochtimes.com/news/2026-08-12/16138157	未分類
@@ -425,6 +423,7 @@ var DATA_FOOD = `
 2026-07-13	超級聖嬰恐推升全球糧價 分析師：衝擊可能延續至2028年	https://n.yam.com/Article/20260713135003	價格暴漲通脹
 2026-07-13	曝「最嚴重記憶體飢荒」明年將爆發！SK海力士CEO示警：2030後供不應求仍無解	https://news.google.com/rss/articles/CBMiqANBVV95cUxPMlNIWmZWUTQycmZiYkNlUGhjT21FRWFmY2I1eVdvamdXdVkzYVpkSG5jelpldjF3REhPdld2b0hLb1JHWUszSUVqUzc1aG1BMGxtVEhBV19vcHhPY3ZTTEhTNDBCeENwVGhWdlA1QUtMdS1wMnBvVElJUU5YejloWWx0T0Y5WF9GMDMxYWJNSl9hc0VVZ1llaUN2SW9iTWFuTEdCQldlcTE5M1VYb3VxSXJ4aUNEV1hPRXhtaGdNcVZvWXJBR2c4bEYxWWY0WUs4dXlLSVRDamNPWkhFQmhiaGdCMXlBVlBsdkRqa3FlQi1yS3dPd1JOWTRrN3VWNVZWdlYyOTBPbHUxVmowaG9vSF9zSE4yX0Jzck04NkFaeVZIT0prTXJCMnNYaUkydEwxUDhOczgwQ3l3MG9WYS05RXk5bHNpSnVYR2dpc2RwUXdheTk5N0NKU2NaSXFPUTN4a3F5ZjlzWm04ZWNkRWYwR3Z4TGZvbmF4aGlpNlBZMHNscGxBa19fc3hxSllVeDNiMlk0UEFKN2J3eGpYV3ViSXQ3RHE1azdP?oc=5	歉收饑荒
 2026-07-13	伊朗解除石油化工產品出口禁令- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE1fRUZIcUx4SGhfdFhLUXhQQXluRllCVWl1OW94dDZjSFBBU3Vkam0zdHVRSnY5cE14Q0d4YzFXVnpkaHNEMGMwbWVuVzh2S3lGaFQ1eDRaN1M4YzQwbmZBS05YZzF5bWZUNkZVeE9qTGtvZmxCWWRz?oc=5	出口禁令
+2026-07-11	颱風天買糧食撲空 李多慧後悔「人多沒排隊」	https://www.nexttv.com.tw/NextTV/News/Home/Entertainment/2026-07-11/2403115.html	未分類
 2026-07-10	深糧控股與黑龍江寶清達成糧食產業合作 链接北國糧倉與灣區市場	https://www.hkcd.com.hk/hkcdweb/content_p/2026/07/10/content_200402.html	未分類
 2026-07-10	商務部及海關總署實施氦氣出口禁令	https://news.google.com/rss/articles/CBMibEFVX3lxTE1UZ29IQnpYcDVmWnVmQkpwVEJLa3JlNlFLb2RGNXlWZkJTNzdCTzh1Y0FBeHBOYTY0S2hvTXhDQUNXeDVFdThVbkwtcUs3RXItUmR3TXdnWGhfbm9WM3J5azdkbG1qaEl4V25mMg?oc=5	出口禁令
 2026-07-10	俄實施柴油出口禁令 開始進口石油產品	https://news.google.com/rss/articles/CBMifEFVX3lxTFBsSVNabWVxaUtndGJVRGNDTms0VkNwZy0tTG1mS2NBRDNWdGwxT21SaW80cGh5RnBybm12U0cxR2pYTW5EdW9ZM1NXRU0zZkRkTEM4NnNxZWh2bEdOcjJObnJuYVBmNjZGYlpQbDNwbkFyQVFvVm1uakpEZFk?oc=5	出口禁令
@@ -518,7 +517,7 @@ var DATA_FOOD = `
 2026-02-28	高德曼國會提案 糧食卡將加裝晶片防盜	https://www.worldjournal.com/wj/amp/story/121390/9347927	未分類
 2026-02-28	美國計劃提名世界糧食計劃署署長人選	https://www.epochtimes.com/gb/26/2/28/n14707695.htm	未分類
 2026-02-28	加州13%、182萬戶家庭領糧食券 月均補助金額全美第七	https://www.worldjournal.com/wj/story/122693/9348135	未分類
-2026-02-27	加拿大糧食援助古巴紓緩人道危機- 國際	https://www.wenweipo.com/a/202602/27/AP69a046fde4b04d7d56d5555e.html	未分類
+2026-02-27	加拿大糧食援助古巴紓緩人道危機- 國際	https://www.wenweipo.com/a/202602/27/AP69a0aa5ee4b04d7d56d55d59.html	未分類
 2026-02-25	李強晤默茨 籲維護自由貿易 中德簽氣候及糧食安全協議 (17:53) - 20260225 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260225/s00004/1772013235557/李強晤默茨-籲維護自由貿易-中德簽氣候及糧食安全協議	未分類
 2026-02-20	屢違規阻街旺角兩鮮糧食店釘牌14天 - 香港 - 香港文匯網	https://www.wenweipo.com/a/202602/20/AP69977143e4b04d7d56d44288.html	未分類
 2026-02-01	北韓糧荒	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QNHlxeFZPOHRpVFVRTVYyRUI5NTE2eVJVZHNISURJbUljWUw1RUljNGVWZkYyMEVXM0daeXJpTW1PTVBvNVJKNTlBOFZSd0RwbkxFV3V4alhxa2xWSnJYLQ?oc=5	歉收饑荒
@@ -599,4 +598,5 @@ var DATA_FOOD = `
 2022-08-06	乾涸河床現二戰炸彈 熱浪致多國糧草失收 Hunger	https://hk.on.cc/hk/bkn/cnt/finance/20220806/bkn-20220806100004637-0806_00842_001.html	歉收饑荒
 2022-07-26	熱浪不斷！ 歐洲小麥供應產量減少 全球糧食恐陷危機 Warming	https://news.tvbs.com.tw/world/1859249	未分類
 2022-05-26	糧食危機再為世界上了一課 Hunger	https://www.hk01.com/sns/article/774776	未分類
-2022-02-10	一片80元雞排背後 糧價新風暴	https://tw.news.yahoo.com/%E7%89%8780%E5%85%83%E9%9B%9E%E6%8E%92%E8%83%8C%E5%BE%8C-%E7%B3%A7%E5%83%B9%E6%96%B0%E9%A2%A8%E6%9A%B4-082330840.html	價格暴漲通脹`;
+2022-02-10	一片80元雞排背後 糧價新風暴	https://tw.news.yahoo.com/%E7%89%8780%E5%85%83%E9%9B%9E%E6%8E%92%E8%83%8C%E5%BE%8C-%E7%B3%A7%E5%83%B9%E6%96%B0%E9%A2%A8%E6%9A%B4-082330840.html	價格暴漲通脹
+`;
