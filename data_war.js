@@ -1,4 +1,4 @@
-// 戰爭 | 由 build_news_js.py 生成 | 共 973 條
+// 戰爭 | 由 build_news_js.py 生成 | 共 972 條
 var DATA_WAR = `
 2026-09-30	（有片）卡塔爾首相：內塔尼亞胡是戰爭犯- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZQnZNUmxlbXVRRXdVMHpKT21od0RKUC0xcE1jTVVNaDJQVmc0ZTY5SDRCXzVObmQ3TFV3cTVpd20xaExmel8zZnBUWXdRTjNjS1VMeUNpTTBsQkxFRGRIZnpDczZmcUtBamNQOVUzWU1IeVVaemJDdTNR?oc=5	未分類
 2026-09-30	部隊鍋EP289｜伊朗捕獲Anduril水下載具 談軍備的軟體情報外洩風險	https://news.google.com/rss/articles/CBMieEFVX3lxTE1uYnA0RHU1NDd0aW5PNUZqa3dHdWJjdGhpOGZGbVdrUV9URWo3eUdSWmlXejZoTmkxUkdKT3E2WkQyR2ZNSG1EMWNValNaR3JYam5VWTdRWmFUNHhQbU9Da0ZMM1MtTlhacUhLRktQWThwaWNOTk5mSg?oc=5	未分類
@@ -23,7 +23,6 @@ var DATA_WAR = `
 2026-09-30	​俄烏戰爭｜聯合國籲停火防止局勢升級 中國代表倡對話談判解決危機	https://news.google.com/rss/articles/CBMiwwNBVV95cUxNSTd6VUNZSkVYM3V3cm92VEtzc0lpaGJleHM3cjFWZjEteEdzQXJJWTU1QTVNanFQeTA3SFJxTWNqb3FJWDJKd3hMc2JpaktkQUNDZmljaU9Wc1M1ZUIwQjQ3ckVJd0djUjNQUGNTQUJpU2ZmSE5Xc0lXQ3hsUnVwSWVKN2JaWUMxekZ1Z2VxbkRzNGxGb200VEpqa284RDRxcjF0R2hNd2RXaVBaV1JvM1RNeXkyWnB1Y0JycEV2RE93TjR6Ti1EQ0xRRkJNUGs2ZXI3NUdJX1o5Vm9jQWR5ODgyTXV2ejF1MzdNVUVENllZanhZaGxPZUIwUUN2U3NkWWJFdjJZdFF0cnNINk52cnE5NUtZLTB6bm9JaUdxel8zUmNaa2l3YWVVaWM1SGFpSXlIT0oxSjJWUk9wTHZfdWYtTjZ2WFdVeHdqTHBhZ1pGVnBDNERwbm5HUmtIS2lBZzBOTm1LNjVMZUxOS3k3X3hld1FfV08xN3BPSGt4bHpLaEd3VWpaLW1NcTBRUnlWbzFUbkRGMjhtclhCbWhVVGZwVVFJbF91ZnlrX1RrWnBKTXcyRTRYYUtyM3ZPSlVmRnZB?oc=5	未分類
 2026-09-29	（有片）伊朗首都德黑蘭發生爆炸戰火不斷當地時間2月28日	https://www.facebook.com/wenweipo/posts/有片伊朗首都德黑蘭發生爆炸-戰火不斷當地時間2月28日伊朗首都德黑蘭市中心發生爆炸以色列宣布襲擊伊朗並宣布全國進入緊急狀態/1531525358976116/	未分類
 2026-09-29	（有片）以色列極右部長再闖阿克薩清真寺 高呼：「以色列人是這裏的主人」	https://www.dotdotnews.com/a/202609/29/AP6aba83a1e4b02724bdb5e30f.html	未分類
-2026-08-16	（多圖）青少年軍事夏令營結業參訓學員士氣高昂盡顯軍事風采- 港聞	https://www.dotdotnews.com/a/202608/16/AP6a81bdf0e4b04b6c5d36dbef.html	未分類
 2026-09-29	黑寡婦再出擊！自殺式襲擊 俄國車站爆炸釀18死	https://www.setn.com/news/8772	開戰衝突
 2026-09-29	黑客攻擊酒店Wi-Fi 微軟揭「假更新」入侵 - 報章- 經濟日報	https://paper.hket.com/article/4171310/黑客攻擊酒店Wi-Fi 微軟揭「假更新」入侵?mtc=70034	開戰衝突
 2026-09-29	黑客入侵雲端平台Vercel盜走金鑰NPM令牌1560萬元暗網放 ...	https://businessfocus.io/article/353416/vercel-shinyhunters-黑客入侵	開戰衝突
@@ -38,7 +37,6 @@ var DATA_WAR = `
 2026-09-29	餐桌也受波及！伊朗戰爭不只衝擊全球油價 化肥斷鏈更引爆糧食大危機	https://tw.news.yahoo.com/餐桌也受波及！伊朗戰爭不只衝擊全球油價-化肥斷鏈更引爆糧食大危機-223000964.html	未分類
 2026-09-29	餐桌也受波及! 伊朗戰爭不止衝擊全球油價 化肥斷鏈更引爆糧食大危機	https://www.msn.com/zh-tw/news/world/餐桌也受波及-伊朗戰爭不止衝擊全球油價-化肥斷鏈更引爆糧食大危機/ar-AA1Zbl9G?ocid=finance-verthp-feeds	未分類
 2026-09-29	颱風樺加沙｜柴灣觀浪墮海家庭 38歲母由危殆轉為嚴重(更新)	https://www.am730.com.hk/本地/颱風樺加沙-柴灣觀浪墮海家庭-38歲母由危殆轉為嚴重-更新-/602070	未分類
-2025-09-24	颱風樺加沙︱柴灣一家四口觀浪3墮海 父開裝修公司子女乖巧	https://www.singtaousa.com/2025-09-24/颱風樺加沙︱柴灣一家四口觀浪3墮海-父開裝修公司/5338850	未分類
 2026-09-29	頂流男星炫「上過雜誌裡每位女星」 台作家爆演藝圈核彈級內幕！掀35萬人關注	https://www.mnews.tw/story/amp/mm-20260617edi069	核威脅
 2026-09-29	韓國稱一艘船在霍爾木茲海峽被「不明飛行物」擊中美國-以色列對伊朗的戰爭	https://www.arch-web.com.tw/综合新闻/韓國稱一艘船在霍爾木茲海峽被「不明飛行物」擊/645420/	未分類
 2026-09-29	陳友麟：中國以間諜罪嫌拘留研究朝鮮核試驗的地震學家	https://www.bbc.com/zhongwen/articles/cwykykkeql4o/trad	核威脅
@@ -63,7 +61,6 @@ var DATA_WAR = `
 2026-09-29	費城人「自殺式跑壘」送道奇大禮！美國球評狠批：根本是少棒比賽	https://www.nownews.com/news/6859311	開戰衝突
 2026-09-29	貨幣匯價跌至歷史新低 反映伊朗經濟受戰事影響	https://news.google.com/rss/articles/CBMijwFBVV95cUxQWEgybjJYelFXbXRSY3ZzdS1uQU82dl94dzY3MDhhRzU4WUNnOXZEVGN0QTNlazJqWGNTd3liUDBlNzdUckFaZ0ZkRm1mcmc0M2Nsekg1c3ByeGRvWVEtR0dCdkpXRVlrSFpCVDhOdnVqdDhkTEVLbWJCSWVDVXk5bmZpX2dUWWVkaktjdTNaRQ?oc=5	開戰衝突
 2026-09-29	警察檢查站遭自殺式炸彈襲擊 13死35傷	https://hk.on.cc/hk/bkn/cnt/intnews/20260927/bkn-20260927210045794-0927_00992_001.html	開戰衝突
-2026-08-07	誰在圍攻神韻？多條戰線曝光 | 新唐人电视台	https://www.ntdtv.com/b5/2026/08/07/a104122022.html	開戰衝突
 2026-09-29	記者編輯部| 【夏一新專欄】川習會談和平帕帕羅為何仍在準備台海戰爭？	https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6SUdORlY2Sm1LWktPWV9tZnRXYVRjZU0yN19NcTBrbkE5a2NWQVZGcnlXa3ZSZ0phZTRTZHA5R3JVNzN6RzVQYVlvSzJoTmFiVGctTHB1S3k?oc=5	未分類
 2026-09-29	討論牆 | 猴痘不再屬國際突發衞生事件 世衞宣布解除相關緊急狀態	https://today.line.me/hk/v3/posts/list/article/x2n7z9e	未分類
 2026-09-29	討論牆 | 影音／媒體傳奇謝幕！CNN創辦人特納病逝 開創戰爭新聞直播	https://today.line.me/tw/v3/posts/list/article/pekRZGl	未分類
@@ -79,7 +76,6 @@ var DATA_WAR = `
 2026-09-29	蝗虫入侵稻田，10000只鸭子被赶进稻田中，展开地毯式“搜捕”！	https://www.163.com/v/video/VCO3D8TDI.html	開戰衝突
 2026-09-29	蘇丹戰火重創倖存者身心 數千人死數百萬人流離失所	https://www.bastillepost.com/hongkong/article/16252543-蘇丹戰火重創倖存者身心-數千人死數百萬人流離失	難民人道
 2026-09-29	蘇丹戰火持續兒童陷生存危機 營養不良疾病教育中斷威脅一代人	https://www.bastillepost.com/hongkong/article/16200453-蘇丹戰火持續兒童陷生存危機-營養不良疾病教育中	未分類
-2026-03-10	藍明徵召李四川 環保蟑螂弟再爆垃圾運毒2／李賜福環保蟑螂爭議擴大 李四川：弟弟應負起法律責任	https://mnews.tw/story/amp/20260310sot1200006	未分類
 2026-09-29	蔣萬安優勢縮小剩1.2％！殷瑋「三支箭」成自殺式射擊？ 沈伯洋將迎「深水區」挑戰	https://tw.news.yahoo.com/蔣萬安優勢縮小剩1-2-殷瑋-三支箭-成自殺式射擊-033400322.html	開戰衝突
 2026-09-29	萊比錫機場驚現炸藥無人機 德媒：近旁烏克蘭貨機運有彈藥	https://www.dw.com/zh-hant/萊比錫機場驚現炸藥無人機-德媒近旁烏克蘭貨機運有彈藥/a-78262280	未分類
 2026-09-29	莫斯科遭到烏克蘭450架無人機襲擊，市長稱規模「迄今最大」	https://www.bbc.com/zhongwen/articles/ck0j32p3el72o/trad	未分類
@@ -116,9 +112,7 @@ var DATA_WAR = `
 2026-09-29	美稱中國核武庫快速擴張 籲北京加入新軍備管制條約	https://www.msn.com/zh-hk/news/world/美稱中國核武庫快速擴張-籲北京加入新軍備管制條約/ar-AA1WWKIX?ocid=finance-verthp-feeds	核威脅
 2026-09-29	美猶他州現史上最大規模山火進入緊急狀態 當局禁國慶放煙花	https://www.hk01.com/article/60364639	未分類
 2026-09-29	美東暴風雪侵襲7州進入緊急狀態紐約州長警告	https://tw.news.yahoo.com/美東暴風雪侵襲7州進入緊急狀態-紐約州長警告-最糟情況尚未到來-015057657.html	未分類
-2026-04-03	美情報公司：伊朗藉中港企獲取無人機零件	https://www.ntdtv.com/b5/2026/04/03/a104082818.html/amp	未分類
 2026-09-29	美強力空襲!海峽沿岸連環爆 伊朗外交部警告「果斷反擊」	http://www.msn.com/zh-tw/news/other/美強力空襲-海峽沿岸連環爆-伊朗外交部警告-果斷反擊/ar-AA27raJo?cvid=6a4dcfe33ecc4fb6affa23271fec8ce9&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	開戰衝突
-2026-07-14	美地震學家遭拘留逼供 中共欲掩蓋地下核試驗？	https://www.ntdtv.com/b5/2026/07/14/a104115226.html	核威脅
 2026-09-29	美地震學家研究北韓核試驗遭中國拘留近2年 習近平曾向川普承諾調查	https://tw.news.yahoo.com/美地震學家研究北韓核試驗遭中國拘留近2年-習近平曾向川普承諾調查-043500641.html	核威脅
 2026-09-29	美國｜伊朗分別會晤調解人 爭取結束長達7個月戰爭	https://news.google.com/rss/articles/CBMi6wJBVV95cUxQWVBqNS1TbkhscnNJV3hMalJEQVg4RjVRV0ZBb2VwOTBJWm05QjRvdFJ1Y0d2QVZhN1JWdTJhOHFCWmtIQWVfckw5VUFRT2tUdU1Yei1IZTRpd0prcEljZl9SdzgxczZTekRyaEY1OWU5eDBuNlF1Nl9LRTBFc0cwLTNLSHZiSHVIVHhlTDRrekRsZDRlamlndXhJcEpWUGI1SmNwQUl3MDhBaXZfX1B4RWh3azlnZVNFd3J5NTI0Tm1WQTNqVkdXTXlqUGJvRHdlSm9oZ2VZVjhNTzV5Uy1RdlBxTUUxbklkbkxqZWNOU2Ria0FaR0R5Yk51REVFa1M4bmwxTEYwWDlqTUs1WVY1ZzREcS1MZllRZ2FJT0t3UXFDVms1MFJCR3l6U1hWV3pqZHFvRUUtQ2xnVTdDaGE5dEl3Z1d2ejR4RDlxNDROcEM5alFydTdiUDBveVc1QkEzdDVJVVNpRTk0clU?oc=5	未分類
 2026-09-29	美國駐以色列大使談伊朗、以色列和美國	https://www.epochtimes.com/b5/26/4/27/n14751388.htm	未分類
@@ -126,7 +120,6 @@ var DATA_WAR = `
 2026-09-29	美國股市重挫！晶片巨頭自殺式拋售引發市場恐慌，全球經濟前景堪憂！	https://cmnews.com.tw/article/cmoneyairesearcher-79b03f0c-7330-11f1-934e-164e07873d80?utm_source=forum_article&utm_medium=article_link	開戰衝突
 2026-09-29	美國經濟戰事後仍穩步增長 為何亂局下表現優於歐洲經濟體？｜國際分析	https://news.tvb.com/tc/1177391-美國經濟戰事後仍穩步增長為何亂局下表現優於歐洲經濟體國際分析	開戰衝突
 2026-09-29	美國科羅拉多州猶他州交界山火 三名消防員殉職 州長宣布進入緊急狀態	https://www.stheadline.com/realtime-world/3588042/美國科羅拉多州猶他州交界山火-三名消防員殉職-州長宣布進入緊急狀態	未分類
-2026-07-09	美國發動新一波空襲伊朗沿海多地傳爆炸聲| 零新聞	https://agora0.github.io/news/cna/2026/07/09/CNA-美國發動新一波空襲-伊朗沿海多地傳爆炸聲.html	開戰衝突
 2026-09-29	美國正評估使用 Locust「蝗蟲」雷射系統打下伊朗廉價無人機	https://abmedia.io/could-lasers-help-fend-off-irans-cheap-drones	未分類
 2026-09-29	美國東北部遭暴風雪吹襲7州進入緊急狀態紐約市頒交通禁令	https://www.i-cable.com/新聞資訊/440714/美國東北部遭暴風雪吹襲-7州進入緊急狀態-紐約	未分類
 2026-09-29	美國戰爭部公布新UFO影像！「不明飛行物」空中飄浮 詭異畫面曝光	https://tw.news.yahoo.com/美國戰爭部公布新ufo影像-不明飛行物-空中飄浮-詭異畫面曝光-054700972.html	未分類
@@ -149,14 +142,12 @@ var DATA_WAR = `
 2026-09-29	美伊戰爭通膨衝擊 經濟學家警告美國後患未了	https://www.worldjournal.com/wj/story/121208/9452312	未分類
 2026-09-29	美伊戰爭滿半年荷莫茲航運仍受阻 6大後果一次看	https://money.udn.com/money/amp/story/5599/9720449	未分類
 2026-09-29	美伊戰爭最新消息》川普駁鬆綁制裁！伊朗悲觀：11月期中選後衝突恐升級- 政治圈	https://news.google.com/rss/articles/CBMijwFBVV95cUxNMFlHdEV4dElpVzAwUUNoUmFRLVF0c3BKWEZYTW1KYklWclBfMGtlZWxHUGJtMklHVFpSeUlpZUROMkVwajZkeVd1ODkxRzI2MmVlc25nQWJ6TzBLa1NUbExwYzdFTWpRMlVlVU1SSHVrSzRtYmJ4cm4wM2o3UlpvbkphTEM2VndvSWR4WVRRYw?oc=5	未分類
-2026-06-27	美伊戰火未停 傳下輪談判在卡塔爾談解凍資金	https://www.ntdtv.com/b5/2026/06/27/a104110061.html	未分類
 2026-09-29	美伊強硬！川普重申將贏得戰爭 伊朗稱阿拉伯海將無敵軍蹤影	https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ydEpuTEpiNU9IRjA5WEJSODNSUU1HWW53TnJISGdJY191VmkxTDJrbzJpLTVWd1QxQm5GU3c0UjFMOTBnbjZUalFTeDRleWxXRE5Z?oc=5	未分類
 2026-09-29	美伊官員透過斡旋方會談 特朗普稱「很快」可贏得戰爭 (11:27) - 20260929 - 國際	https://news.google.com/rss/articles/CBMisANBVV95cUxPelJxM3cyOURlUXBtbXRUZk9ReHMxNmhoNWxiQ3J5THp6Vm5UdVpuVXlJbGx1NTUzMnh5RTlfQ3ZxYkFKb3Zkc0hLNTJDS2ppWFM1ZmxsM1NhR3h1ZEdPNVJwaV9BX2FBSEplUnhwM3pIdlllTTdOenl3QUhxSFFMdFVWUklOSmpXemk3UzI2RXdLTjNsZVY3TUt0RVRMdXRqSjZEZnJsMHZIUkQtdVNOekRTSkZIOGFOS0xoVnN1clB6ZkJjaWs2UkxKVmYzS1BWeUl5bGxNdUl0eGxoWm1KY0NjUGc5bkR6dlJfUy1BOTJ5bjFBc1JzTDk2LXlzWnJfSWlRV2lzTnZJNFY2RS1Ua2djZENIYW0ybVc0RERNNU9hemt0ZnhucDRzTGY5aWEyalU1R0FXV2dOamV5bk05WFFtMk1IWmt4TGM2MVJRdERmSlczNEl3NjE5OEwzcnlKek9uWEZtZ3lXTlpsbFN3NEFTblhSS210S1BkUGhwdmdFYl9DT3NXSXEwZEtGVEExWGpqSjV6ZFBSUFljdTM5ZGtiVnBMc1d2S3pLUF9kMDQ?oc=5	未分類
 2026-09-29	美以襲伊朗｜伊朗重申無意跟美國和談 以總理拍片否認網傳其離世消息	https://news.tvb.com/tc/world/69b7dd16d45d9a49e8452ee0/國際-美以襲伊朗伊朗重申無意跟美國和談以總理拍片否認網傳其離世消息	未分類
 2026-09-29	美以襲伊朗．不斷更新｜黎巴嫩近日受以色列襲擊累計102人死	https://news.tvb.com/sc/world/69a29d50f3bac3b7e4e57871/国际-美以襲伊朗不斷更新｜黎巴嫩近日受以色列襲擊累計102人死	未分類
 2026-09-29	美以襲伊朗．不斷更新｜中東局勢升級 區內難民增至2500萬	https://news.tvb.com/sc/world/69a29d50f3bac3b7e4e57871/国际-美以襲伊朗不斷更新｜中東局勢升級-區內難民增至2500萬	難民人道
 2026-09-29	美以突襲伊朗死亡人數破千 戰爭第4天各國傷亡數字一次看	https://tw.news.yahoo.com/美以突襲伊朗死亡人數破千-戰爭第4天各國傷亡數字-次看-034000437.html	未分類
-2026-04-10	美以空襲受重傷 伊朗前外長哈拉齊不治亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260410/bkn-20260410150145606-0410_00992_001.html	開戰衝突
 2026-09-29	美以伊戰爭｜特朗普稱美伊談判代表進行間接對話 據報雙方討論重開霍爾木茲海峽修訂版方案	https://news.google.com/rss/articles/CBMitgRBVV95cUxQMXVFaW9wTEk5WjdTMWxlZUZQSlc2bURXY3dmc29QVFRMX2lPZms3dDE2a21xYWFUaTlhSUVWNFRsTlJZRG1iMjJ4Y2NuUjVHb0tRLVdZc0NLVXB0SHBaaHFfeG83RFlHNFpHUVgwTnpKUEs2Vm5EZXZRUG1HUlcwOEFmY2dHY1c3OTkyMWYyY1F0WVJXV3hjYnNPa08xUUhVVXNma1lqM0l6UnNJOVl3RzZvZHFOclVrZWVRLTF5aFBIYldMOUwtVzRuXzY2eUN6YTBSSEt4ZER4QnZ6MmtTcEVWZnVEbUs2ODJOejdadzRQT3lJem1yekJRSzY2M0E2RXkwNHlicktuTFRNOXkyRUpBRUM4VV9HTFd3YlRJVzFubVo2QzJDdVhsSHlnd3YyeWZ3eGZvV05GckY5REpNdFIyUXBmVmhUeExPcGlaRm5HUzBHT0YxdkJlazY2TU1xZ0pKLW1SeHhDTkM2bkg1cjNzNTNSLTc5Ym9Wa1BPdW9YcmZ3NTJXN2taYkxsRmtrX3RlNmhCd2EzZl9jRmI5TlNHclRVQnhrdEhTalVwTThBQ0wzTnZnblZfQS1va2NfZTl2NzdQZ3VGaE5lSnBQRVZoRWF1a21PQy14VEZQMmZzSGJ6Q3E5TWRJbUxYYmhMR2hPRFZzYWo2aWh2UEJ3VnVTc1JWMEJwV0d0OWpBRHhoRXg2NnVVTVBicnU0TDJ5M1ZoZmtscl9HeTBxNjFsRnVDVVczdw?oc=5	未分類
 2026-09-29	羅馬尼亞港口驚傳爆炸！黑海沿岸再發現3架自殺式水上無人機	https://tw.news.yahoo.com/羅馬尼亞港口驚傳爆炸-黑海沿岸再發現3架自殺式水上無人機-093036106.html	開戰衝突
 2026-09-29	經濟學家評估美伊戰火衝擊，油價飆漲 13% 讓中國成最大輸家？	https://abmedia.io/economists-mideast-war-hit-china-europe-india-losers	未分類
@@ -192,7 +183,6 @@ var DATA_WAR = `
 2026-09-29	特朗普料美伊一周內重啟談判 伊外長稱準備好與美開展「末日戰爭」	https://news.google.com/rss/articles/CBMid0FVX3lxTE5Sc2JUQ2lZSHNGalBoY2JEeTlSLVlGXzFtVFRhTW9FS1VMbG5CQlpGOEQxQmp3VG04c042RnNvRlgyMjJBZHNhVHRzazdDSk1QaFNaMDBrRUkxSXNmQjVpa1U3NGROaU9fVWJqMHpOMmtqVGxFMzFZ?oc=5	未分類
 2026-09-29	特朗普叫停攻擊促伊加快達協議沙特王儲傳憂美升級戰事伊或炸油田	http://china.hket.com/article/4169977/?mtc=70022	開戰衝突
 2026-09-29	烏軍通報：7月1日發生259次交火，多方向阻擊俄軍進攻| 乌克兰新闻	https://mezha.net/ch/bukvy/36a4c10c_general_staff_reported/	開戰衝突
-2026-06-02	烏稱遭俄大規模空襲已致10人死百人傷- 國際 - 香港文匯網	https://www.wenweipo.com/a/202606/02/AP6a1e76f9e4b0b49ad1bdb8ff.html	開戰衝突
 2026-09-29	烏克蘭軍方稱多地遭俄羅斯無人機和導彈襲擊 至少10死76傷	https://news.rthk.hk/rthk/ch/component/k2/1853416-20260504.htm	開戰衝突
 2026-09-29	烏克蘭軍官：俄襲擊南部敖德薩市 3死	https://hk.news.yahoo.com/烏克蘭軍官-俄襲擊南部敖德薩市-3死-065004615.html	未分類
 2026-09-29	烏克蘭購物中心遭俄軍無人機襲擊 至少15人死亡	https://www.881903.com/news/international/2646249	未分類
@@ -234,7 +224,6 @@ var DATA_WAR = `
 2026-09-29	油價狂飆至俄烏衝突以來最高! 中東戰火進入第三個月 市場嚴重低估“滯脹”衝擊 作者 智通財經	https://hk.investing.com/news/stock-market-news/article-1435269	未分類
 2026-09-29	沙特空襲塔伊茲市集逾50死 也門政府軍稱針對叛軍	https://hk.on.cc/hk/bkn/cnt/intnews/20260928/bkn-20260928153433705-0928_00992_001.html	開戰衝突
 2026-09-29	江岷欽觀點：為什麼川普與普京難以贏得戰爭？ | 江岷欽 | 評論	https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4eG5sZVE5LXlFVWVfR2d3YTNDNC1aZ3k5cUJlOWpZOTZIVndnTzNPMW9NdmVJRFNmMzBKcVB0QW9mTjJqcUxHZnhWczhfQQ?oc=5	未分類
-2026-05-03	民眾入侵平交道死傷！台鐵新豐＝湖口西正線不通 影響600人	https://news.pchome.com.tw/society/ctinews/20260503/index-77781804058689309002.html	開戰衝突
 2026-09-29	歷史上的1月12日｜從戰爭到平權 改變世界的關鍵一天	https://news.tvb.com/sc/world/6964bf59803b902326838d18/国际-歷史上的1月12日｜從戰爭到平權-改變世界的關鍵一天	未分類
 2026-09-29	歐洲又有汽車巨頭覺醒「軍工血脈」 雷諾將開始生產自殺式無人機	https://news.futunn.com/hk/post/74680041/another-european-automotive-giant-awakens-its-defense-industry-heritage-renault	開戰衝突
 2026-09-29	桦加沙袭港观浪1家3口被渔民救起留医情况好转| 港澳大小事| 中国 | 世界新闻网	https://www.worldjournal.com/wj/story/121341/9028533?from=wj_catelistnews&zh-cn	未分類
@@ -247,7 +236,6 @@ var DATA_WAR = `
 2026-09-29	曾預示教宗、黛安娜王妃逝世！500年前預言再命中美國用「這方式」對伊朗開戰	https://tw.news.yahoo.com/曾預示教宗-黛安娜王妃逝世-500年前預言再命中美國用-這方式-對伊朗開戰-062400088.html	開戰衝突
 2026-09-29	書劍集》為戰爭伴舞的金融市場	https://stock.ltn.com.tw/article/d5ksurwqubad	未分類
 2026-09-29	晨早新聞重點｜特朗普稱美國正助日本防日圓過度貶值／巴基斯坦抗議集會遭自殺式攻擊	https://hk.news.yahoo.com/晨早新聞重點-特朗普稱美國正助日本防日圓過度貶值-巴基斯坦抗議集會遭自殺式攻擊-230148873.html	開戰衝突
-2026-07-06	日少年黑客用ChatGPT 寫程式入侵Bandai 影片串流頻道令 ...	https://unwire.hk/2026/07/06/bandaichannel-teen-hack/ai/	開戰衝突
 2026-09-29	方偉時間-戰爭部防範外國干預美中期選舉 0929	https://news.google.com/rss/articles/CBMid0FVX3lxTE1oelR2MWs2a1duV2pLX3hScjR1T1l6ZXhsQ0RqQlFUbGd5RmE1SVUtWl9Lb3daekZ5czhyZWxLd0FuRnZqeGxpUHkxOGMwcnBoQTVTMDFGZ3ItUE1RWVluc0VsSlB0X0JjRGZLT20xTm53RV9feGZZ?oc=5	未分類
 2026-09-29	新墨州核武實驗室女助理 失蹤1年成白骨 頭骨竟有槍傷	https://www.worldjournal.com/wj/amp/story/121172/9726662	核威脅
 2026-09-29	斃真主黨領袖侄兒！ 以色列停火有兩前提 黎巴嫩：沒收到	https://news.tvbs.com.tw/world/3174989?from=pulldownmenu_content_美伊停火動盪_斃真主黨領袖侄兒！ 以色列停火有兩前提 黎巴嫩：沒收到	未分類
@@ -256,16 +244,13 @@ var DATA_WAR = `
 2026-09-29	敘利亞北部發生自殺式恐襲釀3死3傷 2死者為伊斯蘭國施襲者	http://www.aastocks.com/tc/stocks/news/aafn-con/IC4925037/world-markets/INFOCAST	開戰衝突
 2026-09-29	攻擊伊朗動用先進武器 美B-2轟炸機與自殺式無人機立功	https://taiwanreports.com/archives/971105	開戰衝突
 2026-09-29	拖肥開咧戰死火 水晶宮受讓抵玩	https://football.on.cc/足球快訊/bkn-20260822160246807-0822_00882_001/拖肥開咧戰死火-水晶宮受讓抵玩	未分類
-2026-08-24	戰爭、氣候和貿易爭端多重衝擊，全球糧食安全亮紅燈- 紐約時報中文網	https://cn.nytimes.com/world/20260824/wheat-harvests-bread-prices-war-heat/zh-hant/	未分類
 2026-09-29	戰爭+聖嬰現象影響 全球糧價上月攀4年高點	https://www.worldjournal.com/wj/amp/story/121209/9735919	未分類
 2026-09-29	戰火燒向黑海 國際糧價恐現新一波震盪	https://n.yam.com/Article/20260814553941	未分類
 2026-09-29	戰火4年民心潰散!烏克蘭人嘆「孤身受苦」 澤倫斯基認了後悔	https://www.msn.com/zh-tw/news/world/戰火4年民心潰散-烏克蘭人嘆-孤身受苦-澤倫斯基認了後悔/ar-AA1X67hy	未分類
 2026-09-29	我們都反對戰爭，然後呢？（下）從女性主義重思台灣的和平與防衛	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iRGl3dlpyYnRkZWhuU0ZkaUNvbGlrUG42WFlQQnVqb2l2TGxheDdEZXVubkVoVzhJdWo0emJCNWV5UUFzbjNPLTBqOWJPREwyWVdWMmRIM2hENnd0V1YzSWRMVUMxc03SAWtBVV95cUxPNXoxWjVCN2VhMTdRYzZxWDYyZlR2bXZQU1l6UmhrUDktQjJmM2FVTVB5czhXUTdKNGN1TmY3ZloxUVgwN1FRZkllWThSUk0waXFsczgxQ1djUmJaY2U5TU1IdUVlR25zaWVERQ?oc=5	未分類
 2026-09-29	我們都反對戰爭，然後呢？（上）和平主義的定義與運動上的路線分歧	https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yTWV2bzdkS0twSU9Sc3NfaXZ4aW9NWDMyYmk0R3c1akd1S2lyWk9VU3NiMkl2WV85a3lhRmRyd1Jab0JpdURlNkJLZkVFYlc0QU5YWWFzSHJGVFBFaVlSbU5Bb012d9IBa0FVX3lxTE5NdklCa1FMT2dEc1FIclFHQUN1elBfNV9vX3g3NHo1VW5pUEp4ODV4UnQ0UERPV0h3aEhfNDB3eHE5STlyelQ2d0JmQ0pxQzF1ekxjak9jc0xXS2NPWktPWUJZZjNvMVVqVlU0?oc=5	未分類
-2026-03-02	應急救援專家介紹空襲緊急避險與自救	https://www.wenweipo.com/a/202603/02/AP69a4a8bce4b04d7d56d5ef15.html	開戰衝突
 2026-09-29	情勢緊張…開戰時該準備多少糧食才夠？鄉民驚曝「1數據」	https://www.setn.com/news/818589	開戰衝突
 2026-09-29	快訊／美軍再度空襲伊朗 首出動自殺式無人艇打擊數十處目標	https://news.tvbs.com.tw/world/3255869?from=pulldownmenu_content_國際_快訊／美軍再度空襲伊朗 首出動自殺式無人艇打擊數十處目標	開戰衝突
-2026-08-07	快訊／泰國學生「掃射校園」2師中彈亡！槍手還在學校 與警交火	https://www.ettoday.net/news/20260807/3215108.htm	開戰衝突
 2026-09-29	德黑蘭再次傳出爆炸聲以軍表示空襲伊朗數十個軍事指揮中心	https://news.rthk.hk/rthk/ch/component/k2/1845585-20260302.htm	開戰衝突
 2026-09-29	德總理Merz批俄羅斯無意和談 難以結束烏克蘭戰爭	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wYXRLcTVQUm5JNG93Ymx2dmFrSm1WYzhtbDFSajktUGM0TTZCeE5fOF9CcHM0R3RJRVhaOHQ3Z28wSnYxRE1PdUNneXN4Ym5YVVJWT3laNkNEWDFiaW1mMg?oc=5	未分類
 2026-09-29	德國總理默茨稱莫斯科對結束俄烏戰爭的談判「完全沒有興趣」	https://news.google.com/rss/articles/CBMilwNBVV95cUxQZjVzelBUUFZxYlZQZk5TaFZIbWxleUNkU3REcndlWlJxQlczM1V4bmgwN2twdGc1X3dveGozblQ5LTFSNVh3NV81TkQxWEtITmpRdmFkZnVSdk5ldmlUQWIxczhpb0hiUU1XX19NSWVUWTFvMWM4eGRiWk1JZFVKZmNvZk9xZnpuNk9xdkk0WXdXdlVqOHVUSUdjekJBZllreDUybzFJNHlHVGE3NWVfeUFaYlVXZE5XTnJqdDBwaWFaWUFTLThEM19kcGVSV0Zrd21HMFBuRFlXUjFjSmpxc2x0YmxNYkVJSWh4ZTIwSWxBU2o1QVFRWHRMUE1tcFdwcWZVcnYwcHJBcXFQbFBtTzdrLXhKaGdyeUdZc243R2NWM0EtaFR2akloUjltYUp0NGZxOXJfMGpJRXhIMnhmallUWk5ZZDNuMFZNbElJaVJQakpwMUJwZDBiV2FwN3dNc3h3dktLdVhvaXAwdWUtS0l6cTJndjZtbkdpdGs0eHZaSzh2NEpmU2UzYm5pb1BHU1N3czA3Zw?oc=5	未分類
@@ -281,7 +266,6 @@ var DATA_WAR = `
 2026-09-29	巴基斯坦警局自殺式炸彈襲擊 至少14死	https://www.hkej.com/instantnews/current/article/4471756/巴基斯坦警局自殺式炸彈襲擊+至少14死	開戰衝突
 2026-09-29	巴基斯坦警局外自殺式襲擊14死包括5警巴基斯坦塔利班認責- 有線寬頻i-CABLE	https://www.i-cable.com/新聞資訊/490671/巴基斯坦警局外自殺式襲擊14死包括5警-巴基斯坦	開戰衝突
 2026-09-29	巴基斯坦警察總部遭自殺式襲擊 至少31死逾百傷	https://www.orangenews.hk/international/VVdesEv/巴基斯坦警察總部遭自殺式襲擊-至少31死逾百傷.shtml	開戰衝突
-2026-09-19	巴基斯坦警察總部爆槍戰還在持續 增至31死逾百傷	https://www.ntdtv.com/b5/2026/09/19/a104134358.html	未分類
 2026-09-29	巴基斯坦警察哨所遭自殺式襲擊釀15死	https://www.tdm.com.mo/zh-hant/news-detail/1201956?lang=zh-hant&isvideo=true&shortvideo=0	開戰衝突
 2026-09-29	巴基斯坦西北部一警局遇自殺式炸彈襲擊 至少14死26傷	https://www.orangenews.hk/international/VRBw9md/巴基斯坦西北部一警局遇自殺式炸彈襲擊-至少14死26傷.shtml	開戰衝突
 2026-09-29	巴基斯坦西北部一名警察在自殺式爆炸襲擊中喪生	https://mtgamer.com/综合新闻/巴基斯坦西北部一名警察在自殺式爆炸襲擊中喪生/173032/	開戰衝突
@@ -296,10 +280,8 @@ var DATA_WAR = `
 2026-09-29	巴基斯坦有警局遭自殺式襲擊釀至少14死26傷 暫未有組織承認施襲	https://news.tvb.com/tc/1186680-巴基斯坦有警局遭自殺式襲擊釀至少14死26傷暫未有組織承認施襲	開戰衝突
 2026-09-29	巴基斯坦有自殺式襲擊者於警局外引爆 最少14死26傷	https://news.rthk.hk/rthk/ch/component/k2/1864723-20260803.htm	開戰衝突
 2026-09-29	巴勒斯坦武裝組織哈馬斯證實卡桑旅軍事發言人死亡	http://www.aastocks.com/tc/stocks/news/infocast-news/IC4815489/1	未分類
-2026-02-11	川普警告！或派第二艘航母到伊朗備戰｜4月訪中替黎智英發聲？白宮：此事對川普很重要｜台軍購預算未通過 賴清德：恐讓台灣跌出美優先名單｜冬季奧運 FPV無人機緊跟選手｜20260211(三)｜新唐人電視台	https://www.bannedbook.org/bnews/zh-tw/bannedvideo/20260211/2286385.html	未分類
 2026-09-29	川普稱美伊戰爭將很快獲勝否認鬆綁制裁解凍資金| 國際	https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TcWwxbDZCSHVsSGNuVjNGWE41UHBNb2ltWUx1bXgyQ0VPTlN4U3pvRFJIaDRCX0cycFVwLVFTVk5mOHZSZnJvUjJ1QnBpS0dsSDk1djdPSG1Jd2FHUGMw?oc=5	未分類
 2026-09-29	川普指美伊戰爭將很快獲勝 否認鬆綁制裁	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xc3JQbWNyc0dDcElVMDdIRVhlR2NtMEJSdTRRVU5yakhpRk1KZTlMOWEyTDVWWDdoTXdHc1FMMkJKcnp0TEpBaVpnOXZLTWdGYVFQdXA5cjV1WmdjVlJielRybDM?oc=5	未分類
-2026-08-10	山火失控逾2.2萬人撤離加卑詩省進緊急狀態- 國際	https://www.wenweipo.com/a/202608/10/AP6a78defce4b0c1e500243371.html	未分類
 2026-09-29	山區今春幾無積雪 華州進入乾旱緊急狀態	https://www.worldjournal.com/wj/amp/story/121282/9450643	未分類
 2026-09-29	居民：緬甸軍政府轟炸點燈節示威群釀40死	https://hk.news.yahoo.com/居民-緬甸軍政府轟炸點燈節示威群釀40死-145001674.html	開戰衝突
 2026-09-29	尼日利亞遭遇連環自殺式炸彈襲擊 釀至少23死108傷	https://www.am730.com.hk/article/1018955	開戰衝突
@@ -318,7 +300,6 @@ var DATA_WAR = `
 2026-09-29	外媒：美軍已仿造出“伊朗自殺式無人機”	https://hk.crntt.com/doc/0_0_107150421_1_1208145552.html	開戰衝突
 2026-09-29	報告：與中國有關的黑客入侵思科路由器	https://www.epochtimes.com/b5/26/9/3/n14842193.htm	開戰衝突
 2026-09-29	基輔遭轟炸11小時 至少30死 週五全市哀悼	https://www.epochtimes.com/b5/26/7/3/n14802166.htm	開戰衝突
-2026-05-15	基輔遭空襲至少12人亡 澤連斯基下令軍方作回應	https://hk.on.cc/hk/bkn/cnt/intnews/20260515/bkn-20260515040404185-0515_00992_001.html	開戰衝突
 2026-09-29	基輔市遭開戰以來最大規模彈道飛彈襲擊 1死17傷	https://hk.news.yahoo.com/基輔市遭開戰以來最大規模彈道飛彈襲擊-1死17傷-003334949.html	開戰衝突
 2026-09-29	地緣戰事與大型賽事牽動網襲上半年1 Tbps超大規模DDoS ...	https://inews.hket.com/article/4178992/	開戰衝突
 2026-09-29	土耳其新一代自殺式無人艇「食人魚」測試成功 多層次指管＋海陸空聯網	https://tw.news.yahoo.com/土耳其新-代自殺式無人艇-食人魚-測試成功-多層次指管-043251533.html	開戰衝突
@@ -338,15 +319,12 @@ var DATA_WAR = `
 2026-09-29	台中停車意外釀空軍士兵死亡 空軍：將持恆實施行車安全宣教	https://tw.news.yahoo.com/台中停車意外釀空軍士兵死亡-空軍-將持恆實施行車安全宣教-060532244.html	未分類
 2026-09-29	古巴爆神祕疾病！逾3成人口染疫「醫療體系快崩潰」 官方拒宣布緊急狀態	https://tw.news.yahoo.com/古巴爆神祕疾病-逾3成人口染疫-醫療體系快崩潰-官方拒宣布緊急狀態-092400427.html	未分類
 2026-09-29	古代戰爭射出去的箭最後都去哪了？電視劇沒拍出來的真相曝光， 一直以來都誤會了	https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UY1FzdTBBZGpfcXYwZzFKTlZjM25QT29DcVprWDJaRDNtZmJWdThBZTZzWHNOYXNXcVpQRTNUakktQ3ZPdDNsZng3N04ydXk4?oc=5	未分類
-2026-06-24	印度供應商遭黑客入侵蘋果Tesla機密疑外洩 - 今日大公	https://epaper.tkww.hk/a/202606/24/AP6a3ae90fe4b04773b070e6b2.html	開戰衝突
 2026-09-29	印尼山火霧霾波及鄰國 馬來西亞沙撈越州部分地區進入緊急狀態	https://news.rthk.hk/rthk/ch/component/k2/1868874-20260905.htm	未分類
 2026-09-29	南韓軍方稱北韓向東部海域發射彈道導彈	https://www.kinliu.hk/news/環球/南韓軍方稱北韓向東部海域發射彈道導彈/330426.html?id=80&from=channel&bc1=首頁&bc1to=/channel/INDEX?id=35&bc2=國際&bc2to=/channel/International?id=111	開戰衝突
 2026-09-29	南韓空軍 F-16 戰機墜毀 機師緊急彈射逃生	http://www.aastocks.com/tc/stocks/news/infocast-news/IC4850797/1	未分類
 2026-09-29	南大文資系走進土耳其難民教育現場 以文化實踐深化國際永續學習	https://www.cna.com.tw/postwrite/chi/439967	難民人道
 2026-09-29	加沙粮食安全和营养状况改善，但联合国警告成果依然脆弱	https://news.un.org/zh/story/2026/07/1142522	未分類
-2026-09-16	加沙城一建築倒塌致至少11人死 百餘人失蹤	https://www.hkcd.com.hk/hkcdweb/content/2026/09/16/content_8775258.html	未分類
 2026-09-29	加沙受損住宅倒塌 至少20死逾百失蹤	https://www.stheadline.com/realtime-world/3616271/加沙受損住宅倒塌-至少20死逾百失蹤	未分類
-2026-02-01	加沙停火協議名存實亡？以軍空襲釀逾30死 創兩個月新高	https://www.singtaousa.com/2026/02/01/news/world/israeli-strikes-kill-over-30-in-gaza-health-ministry-says-in-deadliest-day-in-months/	開戰衝突
 2026-09-29	加沙住宅大廈倒塌釀21死11 童罹難	https://www.bastillepost.com/hongkong/article/16787528-加沙住宅大廈倒塌釀21死11童罹難	未分類
 2026-09-29	力求結束伊朗戰爭 美伊官員證實將重啟談判 | 中央廣播電臺	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WZEIzZEpQQzFfY2FidHRIQVBNNzNhZkd6X2pHNzF0d1gzVFVKMGdNNnA5ZkVZckFVRkNTbUM0ekhnZkkwZEdqeXBVdkZPVHg1am9OdDFB?oc=5	未分類
 2026-09-29	力求結束伊朗戰爭 美伊官員證實將重啟談判	https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HeHJVMmxMZGtTTkFyN2hGUjFLaU0xZ0xwdDh1V2o1YjhUVTFJbWppb3lySlFYYVpjZWEzandld1hEWFhjTklOMVVlQ3B1eTZaajhYblFwVQ?oc=5	未分類
@@ -368,7 +346,6 @@ var DATA_WAR = `
 2026-09-29	俄軍空襲敖德薩釀3 死烏克蘭反擊俄羅斯石油設施	https://www.bastillepost.com/hongkong/article/15841147-俄軍空襲敖德薩釀3死-烏克蘭反擊俄羅斯石油設施	開戰衝突
 2026-09-29	俄軍導彈無人機襲烏克蘭基輔 至少15 死數十人傷	https://www.bastillepost.com/hongkong/article/16508141-俄軍導彈無人機襲烏克蘭基輔-至少15死數十人傷	開戰衝突
 2026-09-29	俄襲烏克蘭13死數十傷 波蘭戰機急升空境內傳爆炸	https://money.udn.com/money/amp/story/5599/9660663	未分類
-2026-07-03	俄羅斯空襲基輔致27死91傷	https://hkcd.com.hk/hkcdweb/content/2026/07/03/content_8763004.html	開戰衝突
 2026-09-29	俄羅斯無人機襲擊烏克蘭公車站 造成3死12傷	https://www.msn.com/zh-hk/news/world/俄羅斯無人機襲擊烏克蘭公車站-造成3死12傷/ar-AA20jLJd	未分類
 2026-09-29	俄羅斯無人機猛轟基輔烏克蘭國家科學院陷火海| 國際焦點| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zckJwYkQzRm10R1IzU2hfa1U5TVRvWk8wcU5JVUJ3am5ZTlNwYVg0SEdrSTdKQTlic0V0dzJjRzN3RHMtUnlFdWU1aV9seExX?oc=5	未分類
 2026-09-29	俄羅斯無人機導彈襲烏克蘭首都 兩人死亡結束暫停攻擊	https://www.bastillepost.com/hongkong/article/16724390-俄羅斯無人機導彈襲烏克蘭首都-兩人死亡結束暫停	開戰衝突
@@ -383,7 +360,6 @@ var DATA_WAR = `
 2026-09-29	俄羅斯在烏克蘭襲擊損毀港口後重新調整糧食出口路線 作者 Investing.com	https://hk.investing.com/news/commodities-news/article-93CH-1605644	未分類
 2026-09-29	俄羅斯又空襲基輔！ 目前釀2死27傷	https://news.google.com/rss/articles/CBMiW0FVX3lxTE83ZFJNbWRQdVhIUGtTdUVOWGZ2MnB4NWU3MGhreXZtWTc1QTY0YjZ6Tk1STnBSOFVoZVVORGpBbC1YSkJWYlgxT2FKeUstOGNNR0RmVjh4OVRmQkU?oc=5	開戰衝突
 2026-09-29	俄空襲烏克蘭13死 「波蘭村莊也被炸」 戰機緊急升空	https://www.facebook.com/ETtoday/posts/俄空襲烏克蘭13死波蘭村莊也被炸戰機緊急升空/1509972064495207/	開戰衝突
-2026-05-23	俄稱烏無人機襲擊盧甘斯克學校已致10死38傷	https://www.tkww.hk/a/202605/23/AP6a116a52e4b04773b06e9672.html	未分類
 2026-09-29	俄烏戰爭｜澤連斯基：北韓準備向俄增派1萬兵力 換取無人機等技術	https://news.google.com/rss/articles/CBMirgNBVV95cUxPSTdmUFEtdmtNak9MejhEbV9uZHZWc1NMWWYwb09LczhTRWpRSkt3d2o4Wl9aUGxXeG04LWxrbW45bHZsSlM3bzFxTTNudnp4YTZTTFk3clVmR3AtV3lMZUViOFh1OGpHdHdTTUd6a1hFSjRwUVBFLXRob2RlUlVKQVlWeGcyM21oUEFSOUxkNnlXWEdwTTVFZWZERXFYdkNpcExVS3ZqcXJJVU1jQnJTV1lBUnJXbk1tWDdIWGFLRG1iMTdvMVZGQ1BGWk9WSE9jdlU3Vm9wZ3plbEhzY3oyZ2FKWDJ5bXUwellydFhkSS1kTHdtaDVFalBSU3d4WEZYSnZHa2prYTNWYmhpSzRkbHc3RFo1a2x3cXF1OGhYSHNVSzI2MVpRaEdKMHNNMFZjeFVKOS1oTVRNMUJNQWtFTGJhZ1hFR0NjMXZkU1AzQVM1eUkzRjFnMkdFam1vSHgwX1BzUGRVMmdZREZNQThScVQxRUs4U3RUTWVTeXhzTUd6N3p4Vm9qekpDRHRkdDEzNU5kYkFrbldUT3NLUTByX1pKcy0zcVMxNE5idWpn?oc=5	未分類
 2026-09-29	俄烏戰爭｜基輔遭空襲釀6死33傷有兒童醫院受損 俄稱展開「對等報復」	https://www.orangenews.hk/international/VSoChKI/俄烏戰爭-基輔遭空襲釀6死33傷有兒童醫院受損-俄稱展開-對等報復.shtml	開戰衝突
 2026-09-29	俄烏戰爭｜俄轟基輔22死逾80傷 烏冀增美製愛國者導彈	https://www.am730.com.hk/國際/1040167/俄烏戰爭-俄轟基輔22死逾80傷-烏冀增美製愛國者導彈	開戰衝突
@@ -401,12 +377,9 @@ var DATA_WAR = `
 2026-09-29	俄烏互襲商船重創糧食出口 全球小麥價格應聲飆漲	https://news.cnyes.com/news/print/6538902	未分類
 2026-09-29	俄烏互炸首都！俄防空系統損 經濟悲觀.普欽民調跌	https://news.tvbs.com.tw/focus/3246987	未分類
 2026-09-29	俄媒披露俄軍新型遠程自殺式無人機性能	https://hk.crntt.com/doc/4_17_107161822_1_0121100928.html	開戰衝突
-2026-05-14	俄大規模空襲基輔 1死33傷18棟公寓被摧毀	https://www.ntdtv.com/b5/2026/05/14/a104096757.html	開戰衝突
-2026-08-01	俄再空襲基輔市 9死28傷	https://hk.on.cc/hk/bkn/cnt/intnews/20260801/bkn-20260801130129031-0801_00992_001.html	開戰衝突
 2026-09-29	使用自殺式無人機！伊朗發動「真實承諾-4」第79輪行動- 國際 - 香港文匯網	https://www.wenweipo.com/s/202603/24/AP69c28741e4b0b49ad1b3bd07.html	開戰衝突
 2026-09-29	佐佐木朗希被拔先發？道奇拒絕自殺式調度 牛棚失火急尋冠軍棄將	https://www.nownews.com/news/6810053	開戰衝突
 2026-09-29	伊朗飛彈襲荷姆茲商船 LNG 船遭擊中起火	https://www.fugomedia.com.tw/Home/Info/News/145721	開戰衝突
-2026-03-02	伊朗領袖遇襲亡 繼位成謎 中東陷全面戰爭邊緣	https://www.singtaousa.com/2026/03/02/news/usa/news-iran-strikes-khamenei-killed-regional-war-oil-prices/	未分類
 2026-09-29	伊朗革命衛隊發言人：美國若想結束戰爭則必須承認戰敗- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE5PdVlnOG14S3U4bmY5eUh2TTUySEpYWjJpaHRUVDBuWWROc3MyMUsxcDVnNU5HTFRYUnpkaDVPZUtRRjdzS0pXY1RpdFMwM1VUN3dJMXNqZ1ZfYlFKVGZvSmNfanhONlFEVkpqLXBMcUtkRmh1UHk4?oc=5	未分類
 2026-09-29	伊朗鎮壓示威至少538亡！逾1萬人遭拘留 CNN：川普認真考慮軍事干預	https://tw.news.yahoo.com/伊朗鎮壓示威至少538亡-逾1萬人遭拘留-cnn-川普認真考慮軍事干預-223535104.html	未分類
 2026-09-29	伊朗鎮壓示威者恐已6000死，白宮：考慮發動空襲阻止，川普：即刻起對其貿易國課徵25%關稅	https://www.thenewslens.com/article/263511	開戰衝突
@@ -426,8 +399,6 @@ var DATA_WAR = `
 2026-09-29	伊朗戰爭如何影響該國經濟 各行各業已出現大規模裁員潮	https://www.bbc.com/zhongwen/articles/c74vkywn92yo/trad	未分類
 2026-09-29	伊朗戰火波及中國！油氣雙漲拖累消費 玩具大廠爆倒閉潮	https://stock.ltn.com.tw/article/xzajtks5c0nn	未分類
 2026-09-29	伊朗戰火波及中國!油氣雙漲拖累消費 玩具大廠爆倒閉潮	https://ec.ltn.com.tw/article/breakingnews/5417865	未分類
-2026-04-30	伊朗戰火延燒！荷姆茲海峽封鎖引爆全球「滯脹」危機	https://www.4gtv.tv/article/2026043012000018	未分類
-2026-07-27	伊朗戰事傷亡統計 4亡兵除名歸新類別	https://www.singtaousa.com/2026/07/27/news/usa/iran-war-casualties-new-category/	開戰衝突
 2026-09-29	伊朗已遞交停戰條件 雷扎伊：川普陷決策「泥淖」	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WejJuRzRfVnBPeFZyalM3U2dacjRfY0N2dFoyaUg4NzROdTVZUWNIREo1QnpoNXk2QU13R3hSSzFxWlhzb1hFcndJcVdLVzQ?oc=5	未分類
 2026-09-29	伊朗局勢｜駐伊法軍遭無人機襲擊1死數傷 馬克龍強烈譴責	https://std.stheadline.com/realtime-world/3552705/伊朗局勢駐伊法軍遭無人機襲擊1死數傷馬克龍強烈譴責	未分類
 2026-09-29	伊朗局勢｜美軍首次在實戰中使用「LUCAS」新型自殺式無人機	https://www.hk01.com/article/60326259	開戰衝突
@@ -445,17 +416,12 @@ var DATA_WAR = `
 2026-09-29	伊斯蘭堡清真寺遭自殺式炸彈襲擊 至少31死、近170人傷	https://www.i-cable.com/新聞資訊/436469/伊斯蘭堡清真寺遭自殺式炸彈襲擊-至少31死-近170	開戰衝突
 2026-09-29	伊拉克外海貨輪驚傳兩次爆炸！疑遭無人機與不明飛行物襲擊	https://tw.news.yahoo.com/伊拉克外海貨輪驚傳兩次爆炸-疑遭無人機與不明飛行物襲擊-184418270.html	未分類
 2026-09-29	以軍空襲加沙造成3 死有目擊者憶述恐慌場面	https://www.bastillepost.com/hongkong/article/16695306-以軍空襲加沙造成3死-有目擊者憶述恐慌場面	開戰衝突
-2026-01-10	以軍空襲加沙13死第一階段停火協議瀕危- 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/10/AP696163f1e4b069b7ebf7b6c8.html	開戰衝突
 2026-09-29	以軍攻擊真主黨百多個目標逾十死 以方指會擴大對加沙控制	https://news.tvb.com/tc/1173470-以軍攻擊真主黨百多個目標逾十死以方指會擴大對加沙控制	未分類
 2026-09-29	以軍兩度空襲加沙城至少3死 擊殺哈馬斯新任軍事領導人	https://news.tvb.com/sc/world/6a16a61cae58c95313800360/国际-以軍兩度空襲加沙城至少3死-擊殺哈馬斯新任軍事領導人	開戰衝突
 2026-09-29	以色列｜空襲黎巴嫩致254死 伊朗稱和平談判「不合理」	https://inews.hket.com/article/4111107/以色列｜空襲黎巴嫩致254死 伊朗稱和平談判「不合理」?mtc=20042	開戰衝突
 2026-09-29	以色列：一名在新星節哈馬斯屠殺中倖存的年輕人自殺	https://citytimes.tw/資訊/以色列：一名在新星節哈馬斯屠殺中倖存的年輕人/191573/	未分類
 2026-09-29	以色列首度承認加沙死亡人數達7萬 拉法口岸重開成焦點｜各地媒體分析	https://news.tvb.com/sc/world/697d900d743cc57937addefb/国际-以色列首度承認加沙死亡人數達7萬-拉法口岸重開成焦點｜各地媒體分析	未分類
-2026-09-11	以色列逾千噸炸藥炸毀真主黨地道 測得規模4.1地震	https://www.ntdtv.com/b5/2026/09/11/a104132024.html	未分類
 2026-09-29	以色列調查加沙女童死亡案 母親促獨立調查	https://www.bastillepost.com/hongkong/article/16615539-以色列調查加沙女童死亡案-母親促獨立調查	未分類
-2026-04-28	以色列襲擊黎巴嫩致兩名巴西公民死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/04/28/content_8752373.html	未分類
-2026-03-13	以色列襲擊黎巴嫩死亡人數升至687人 婦女兒童及醫護是主要受害者	https://hkcd.com/hkcdweb/content/2026/03/13/content_8744667.html	未分類
-2026-04-15	以色列襲擊黎巴嫩已致2124人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202604/15/AP69dec428e4b0b49ad1b6e96e.html	未分類
 2026-09-29	以色列襲擊已致黎巴嫩2454人死亡	http://hkcd.com/content_app/2026-04/22/content_8751318.html	未分類
 2026-09-29	以色列蓄意限制糧食與援助 加沙營養不良危機升至驚人水平	https://www.hk01.com/世界專題/60347648/以色列蓄意限制糧食與援助-加沙營養不良危機升至驚人水平	未分類
 2026-09-29	以色列空襲黎巴嫩致254死 伊朗：和平談判已「不再合理」	https://www.hk01.com/即時國際/60338429/以色列空襲黎巴嫩致254死-伊朗-和平談判已-不再合理	開戰衝突
@@ -463,25 +429,21 @@ var DATA_WAR = `
 2026-09-29	以色列空襲黎巴嫩南部至少16死 萬斯批不能靠殺戮解決國家安全問題	https://www.orangenews.hk/international/VMyjqd7/以色列空襲黎巴嫩南部至少16死-萬斯批不能靠殺戮解決國家安全問題.shtml	開戰衝突
 2026-09-29	以色列空襲致10死 包括3名救援人員	https://hk.news.yahoo.com/以色列空襲致10死-包括3名救援人員-123502023.html	開戰衝突
 2026-09-29	以色列稱炸毀真主黨地道 美機構測得規模4.1地震	https://www.worldjournal.com/wj/amp/story/121480/9747775	未分類
-2026-03-12	以色列持續襲擊黎巴嫩已致634人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/12/AP69b22dc5e4b04d7d56d7fec5.html	未分類
 2026-09-29	以色列展開心理戰！ 伊朗宗教應用程式遭駭 呼籲武裝部隊投降	https://www.ftnn.com.tw/news/526686	未分類
 2026-09-29	以色列大規模空襲黎巴嫩已致303死1150傷	https://bau.com.hk/web/article/1492111038527893504/web/content_1492111038527893504.html	開戰衝突
 2026-09-29	以色列反徵兵示威釀悲劇 18歲少年遭巴士輾斃	https://news.vocofm.com/international-news/175295/	軍演動員
 2026-09-29	以色列再斃伊朗高官！國安首長空襲身亡 納坦雅胡：政權崩潰邊	https://globalnewstv.com.tw/202603/234132/	開戰衝突
 2026-09-29	以色列4名指揮官遭真主黨炸死 以部長揚言燒光黎巴嫩	https://www.am730.com.hk/國際/1037056/以色列4名指揮官遭真主黨炸死-以部長揚言燒光黎巴嫩	未分類
-2026-02-23	以無視停火協議 轟炸黎真主黨據點10死	https://www.tkww.hk/a/202602/23/AP699b993ee4b04773b069ba51.html	開戰衝突
 2026-09-29	以為炒股係睇經濟好唔好，但今次「關稅核彈」話畀我哋聽，市場 ...	https://www.instagram.com/reel/DVEEE7RkXM0/	核威脅
 2026-09-29	以巴衝突｜以軍空襲加沙至少5死 停火協議有名無實	https://www.am730.com.hk/國際/1050619/以巴衝突-以軍空襲加沙至少5死-停火協議有名無實	開戰衝突
 2026-09-29	以巴衝突｜以色列空襲加沙多地至少32死 八國譴責以方違停火協議	https://news.tvb.com/tc/world/697fd48be366b477d9ae8152/國際-以巴衝突｜以色列空襲加沙多地至少32死-八國譴責以方違停火協議	開戰衝突
 2026-09-29	以哈戰爭｜以色列空襲加沙中部致11死 特朗普：普京同意加入加沙和平委員會	https://www.i-cable.com/新聞資訊/431350/以哈戰爭-以色列空襲加沙中部致11死-特朗普-普	開戰衝突
 2026-09-29	以其人之道還治其身 美軍首度對伊朗動用自殺式無人機	https://udn.com/news/amp/story/124061/9353513	開戰衝突
 2026-09-29	以伊局勢｜以色列南部遇襲至少9死 內塔尼亞胡稱將加強空襲德黑蘭	https://std.stheadline.com/realtime-world/3548784/以伊局勢以色列南部遇襲至少9死-內塔尼亞胡稱將加強空襲德黑蘭	開戰衝突
-2026-08-30	今年基輔州最致命空襲 俄襲烏彈藥庫釀38亡	https://www.ntdtv.com/b5/2026/08/30/a104128645.html	開戰衝突
 2026-09-29	人物》眾目睽睽反賴清德提名的檢察總長 發動「自殺式襲擊」大檢察官陳宏達 | 林益民 | VIP	https://www.storm.mg/article/11120607	開戰衝突
 2026-09-29	人權組織指俄羅斯相關空襲馬里致8 平民亡上月發生	https://www.bastillepost.com/hongkong/article/16477867-人權組織指俄羅斯相關空襲馬里致8平民亡-上月發生	開戰衝突
 2026-09-29	亞運直擊｜運動攀登開戰 港隊「新丁」林楚穎女子速度資格賽出線 陳翔志陳致滔男子抱石準決賽止步	https://news.google.com/rss/articles/CBMilwVBVV95cUxQNjVvS3Z0WlozNThaUVQxSEl3SzBjOTlDZUxtTjJlcUNQbk9mLWR5aHp5N0tXZnYxbXViRnplMmF5TDh2YkNfSHdUTFNqeE5UcnJySWNydDBIbWdmZkNzZUV1ekFNYTNLS2xVWGtIZTF4LXByaFBHZlBmRnhiNWI1cUUzZW1hY0lGX1RxUV9zNzk3Rm1ScnpDdU8zRzJNMHhCcV81WkdEMFNuczRrbnNNZUpkWDIyd0ZtQjdLenQ1empScTdXRnNUVl8zT3AxVndqYnFFNUtOTTVnQ1NSWnNDckhoT2tkVmVzbllpUlNJZWRFZW1veXNwWW9IOUY1cEtJOThyOVVDRXRmc19Iam1EaWpOSW1nT0VqakVGWHN6djZPbFpqcDFxR2NzM1hqaWlVOTg1b1RncXpxMlpQM1pENk5rUmFCbjZQb2g4THNTRi1QcGo2am9UTDZtbTRMYkNKaE9jd3dpNENrSlNIRjNhM0VmZ0g0OE5Ncy1iV0J6U3ZMZlJZUTNyQzdidmR1eHBvVjk0V3VCb3kzYlNEa3lwWFVrZTdaSHNkNHFvM2hGNTU5RTJBN3EtQUFwQ0k3ZEhXaGlWTEFKbHpSc01wdGptQ1ZKUHE5ZjNsa1N2LWNqdmlnNHpETjVFQUlYSHp6dklhZjZzU3l6STdoMURNMDduOENZSDhYVTEta21CTk5USU5UMUlKWEtjTjUwb1ItYzZJMExWTG9HSEtBUFJoaEpzUGtJdU9rclVTV1V0c3NuXzJjSEhmS21veUVRTEVNZ0FrQzNJVFo4Sm5sSTZONGNmOUdnNDdKeXlyUVpvWHZUbkE4cnhiLW1pX2p4M0ExQmVfOWVhVWc5YVFxMlB4VFlZckpDTWV1eU0?oc=5	開戰衝突
 2026-09-29	亞洲米價創金融海嘯來最大漲幅 伊朗戰爭與聖嬰現象恐掀新一波糧食通膨	https://hk.finance.yahoo.com/news/亞洲米價創金融海嘯來最大漲幅-伊朗戰爭與聖嬰現象恐掀新-波糧食通膨-085024541.html	未分類
-2026-05-07	五四特輯——《中國青年》封面上的老電影《年青的一代》《青年魯班》《我們村裏的年輕人》《戰火中的青春》 《小字輩》……	http://www.uschinews.com/static/content/YLXW/2026-05-07/1502112395697459200.html	未分類
 2026-09-29	也門衝突升級：地面戰釀16死 紅海貨船遭襲	https://www.epochtimes.com/b5/26/7/6/n14803921.htm	未分類
 2026-09-29	也門胡塞武裝稱擊落沙特無人機 過去48 小時襲擊三艘油輪	https://www.bastillepost.com/hongkong/article/16448392-也門胡塞武裝稱擊落沙特無人機-過去48小時襲擊三	未分類
 2026-09-29	也門胡塞武裝稱其襲擊了兩艘沙特油輪	https://www.fxstreet.hk/amp/news/ye-men-hu-sai-wu-zhuang-cheng-qi-xi-ji-liao-liang-sao-sha-te-you-lun-202607222346	未分類
@@ -489,7 +451,6 @@ var DATA_WAR = `
 2026-09-29	也門政府軍：過去24小時356次打擊胡塞武裝- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE5ndzFoNkJ3bUVkQnlpU1p3XzRkNElzN00zRlh3S3NiU1hkYzZSU28tRGlTY2t2N25FTTRSTkt6bDV1M3F5VEdOaV91d295N1BGVTVBN3pZTWVMdjZzaE02c1JqOFBVVGwyay1YRkNsVGdNcmwtSEFZ?oc=5	未分類
 2026-09-29	也門政府軍與胡塞武裝交火 雙方約28人死亡	https://news.rthk.hk/rthk/ch/component/k2/1868779-20260904.htm	開戰衝突
 2026-09-29	也門戰火逼近曼德海峽全球兩大「油管」雙線承壓國際油價大幅上漲- 國際	https://www.dotdotnews.com/s/202609/11/AP6aa35397e4b02724bdb415ba.html	未分類
-2026-05-09	中東戰爭或導致通脹糧食價格升 葉劉：政府應評估長遠影響	https://hk.on.cc/hk/bkn/cnt/news/20260509/bkn-20260509133542495-0509_00822_001.html	未分類
 2026-09-29	中東戰火重創歐洲經濟 歐元區活動降至兩年半低點 衰退風險急劇上升	https://news.cnyes.com/news/print/6466612?utm_source=B2Bconcordsa248602fd6bf&utm_medium=NewsApi&embed=1	未分類
 2026-09-29	中東戰火燒！貨櫃三雄強漲 散裝新興也亮燈	https://news.ttv.com.tw/news/11503020002100W	未分類
 2026-09-29	中東戰火燒不停！大規模石油被卡死 債券投資巨頭示警最棘手情況	https://tw.stock.yahoo.com/news/中東戰火燒不停！大規模石油被卡死-債券投資巨頭示警最棘手情況-074129080.html	未分類
@@ -501,14 +462,11 @@ var DATA_WAR = `
 2026-09-29	中東局勢持續升溫...黎巴嫩真主黨加入戰局 向以色列北部發射多枚飛彈	https://news.ttv.com.tw/news/11503020012200I	開戰衝突
 2026-09-29	中東局勢丨有軍事飛行物墮落沙特住宅區 最少2死12人傷	https://www.hkej.com/instantnews/current/article/4336246/中東局勢丨有軍事飛行物墮落沙特住宅區+最少2死12人傷	未分類
 2026-09-29	中東MERS個案增 防護中心籲訪中東時避免接觸單峰駱駝	https://www.881903.com/news/amp/local/2612272	未分類
-2026-07-14	中國關押一名研究朝鮮核試驗的美籍地震學家已近兩年	https://www.rfi.fr/tw/國際/20260714-中國關押一名研究朝鮮核試驗的美籍地震學家已近兩年	核威脅
 2026-09-29	中國迫害佛教、基督教徒…美國不忍了：對信仰開戰不會得勝	https://www.setn.com/news/838290	開戰衝突
 2026-09-29	中國男持大票軍火欲「自殺式攻擊」 泰網熱議與柬總理有關	https://www.nownews.com/news/6833542	開戰衝突
-2026-02-26	中共黑客網絡十年入侵42國53機構谷歌出手攔截	https://www.ntdtv.com/b5/2026/02/26/a104070497.html	開戰衝突
 2026-09-29	中共拘留研究朝鮮核試驗的美華裔地震學家	https://www.epochtimes.com/b5/26/7/13/n14808831.htm	核威脅
 2026-09-29	中俄蒙演練「自殺式」無人機反恐	https://www.hkej.com/dailynews/cntw/article/4514631/中俄蒙演練「自殺式」無人機反恐	開戰衝突
 2026-09-29	世界觀｜戰火威脅中東飲用水資源？	https://news.tvb.com/sc/globalview/69bd155623be94ba5d08e288/世界观-世界觀｜戰火威脅中東飲用水資源	未分類
-2026-02-11	世界糧食計劃署位於蘇丹南部一倉庫遭無人機襲擊- 國際 - 香港文匯網	https://www.wenweipo.com/a/202602/11/AP698ca4a1e4b04d7d56d31a36.html	未分類
 2026-09-29	不行，我不能協助入侵核彈系統或銀行網路。 駭入軍事設施 ...	https://www.threads.com/@meta.ai/post/DautfH-DrZr/不行我不能協助入侵核彈系統或銀行網路駭入軍事設施或金融系統是違法行為我不會提供方法步驟或鼓勵這麼做如果你擔心網路安全想了解怎麼保護自己的銀行帳戶或設備我可以告訴/	開戰衝突
 2026-09-29	不甘家暴被捕 男開飛機「自殺式攻擊」衝撞自宅	https://www.setn.com/news/416353	開戰衝突
 2026-09-29	不捨54歲父癌逝！「核彈芭比」金賢姈陪走完最後一程：下輩子還要當你的女兒	https://tw.news.yahoo.com/不捨54歲父癌逝-核彈芭比-金賢姈陪走完最後-程-下輩子還要當你的女兒-033000979.html	核威脅
@@ -523,9 +481,7 @@ var DATA_WAR = `
 2026-09-29	【直播】川普稱剩3554目標，伊朗令12歲娃參軍；解放軍演習誤打「前沿領導」；張雪峰送葬人數讓領導害怕？名探李昌鈺病逝。	https://www.soundofhope.org/post/926674?lang=b5	軍演動員
 2026-09-29	【百家觀點】貨幣政策與戰事時機 觀市況見端倪	https://www.wenweipo.com/epaper/view/newsDetail/2077806629423812608.html	開戰衝突
 2026-09-29	【晨間新聞】俄烏戰堪比史上最血腥戰爭 基輔遭最慘烈空襲 俄戰損140萬陷「困獸之鬥」	https://www.soundofhope.org/post/936625?lang=b5	開戰衝突
-2026-08-11	【新聞第一線】突發！朝鮮導彈射韓國 美軍地獄火打擊 | 胡塞再襲沙特 | 伊朗 | 新唐人电视台	https://www.ntdtv.com/b5/mkt_ipad/2026/08/11/a104123259.html	開戰衝突
 2026-09-29	【新聞第一線】反政府火拼！伊朗街頭爆槍戰 要重選最高領袖？	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTY2FQR3RXTWJrODdpb0dGbjYzbEwxd0hKMGFCMGFWN3k1MUZtMjFPYjZsbko0Y2lrVTNIWTNpUGFRUG9Kd3pyeHpKTlJfcXd3UzVhT2JhM01VX1BRZHlEbtIBZkFVX3lxTE90cWxtUGdTSXpTa05sMnpJUkpkRU5jdmRTWWVpdkUxRHBmMHgxbjB3bE1jTzVEaHBYNTl0V3g3cFFzdUVJd2IwSHVFb1h5Y2hBTjY5cmRHb1hXOS0zVUNRR292M1k5Zw?oc=5	未分類
-2026-08-11	【新聞直擊】打掉空軍一號？！川普急躲伊導彈 朝鮮爆實戰試驗	https://www.ntdtv.com/b5/2026/08/11/a104123089.html/amp	開戰衝突
 2026-09-29	【新聞直擊】密令曝光 戰爭部大動作 中共想買美武器？	https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1RG1FOC1lbmxUT0hQeDgtTUF3dHJiV3pjWGRZYjR3ODJ0ZUFDRGZjdTZKcEJYVnZWVEc3amhLa2V2X3VVS2Q0TUZTZ0U1aU5zWHU5bnNQOFo5Z3NZYk1xZNIBZkFVX3lxTFBrVU5TTlJzcnBteWhDTTE4RUcxS0J4VHNjNHlFQjNvR0hLd0Fia0pCRmpNUVplRnpLS2NLczBRdUhZMS1udTdzWV9nTU1uSGVqZWg3TlpMMjhYbDRWSzBWXzFDQ1ZVQQ?oc=5	未分類
 2026-09-29	【新聞直擊】600據點被拔！真主黨8地道遭封 俄襲烏突換打法！	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BTnk4U1dDNDN2T1dfVGNEeTU3QlppWl9LcVJXamFrLV9udlFGUWJ2Z25rZmtRTDc4bUlWTkphcE1ZOUZMZFJnRElWVV9DOU1HcUgxLW96SHpPTWlLYVdpYtIBZkFVX3lxTFBxQUxpVUJlOG00ejBHUFU1cVVqcDZBQ0NmbWRGR3FLTXFGa3BhUWdKLVhwVE92bzhXMnExZ29scF9VUUFZQjQtVFFrNGlreWdqUkJ3dS1sVEk2WGZ1SkhCNF9ZTGJoUQ?oc=5	未分類
 2026-09-29	【天亮論政】新年靈異事件！鄭麗文在佛經前發抖；俄烏戰爭重要轉折，澤連斯基要與普京見面；伊朗放出最狠話後秒慫(天亮論政第1894集 20260217)	https://www.soundofhope.org/post/922468?lang=b5	未分類
@@ -558,8 +514,6 @@ var DATA_WAR = `
 2026-09-29	6俄羅斯聯邦瀕臨破產! 徵兵獎金縮剩1/5沒人要去 2俄航空也撐不下去	https://www.msn.com/zh-tw/news/world/6俄羅斯聯邦瀕臨破產-徵兵獎金縮剩1-5沒人要去-2俄航空也撐不下去/ar-AA1PpGaQ	軍演動員
 2026-09-29	5張圖表揭示近6個月戰爭如何重創伊朗經濟	https://www.businessinsider.tw/article/5660	未分類
 2026-09-29	41J肉聲／伊朗自殺式狂炸多國油船 攻擊範圍超出荷姆茲海峽！中國船快逃啊	https://tw.news.yahoo.com/伊朗自殺式狂炸多國油船-攻擊範圍超出荷姆茲海峽-中國船快逃啊-025300914.html	開戰衝突
-2026-01-06	32名古巴軍人壯烈戰死，倒在了馬杜羅身前，瓦格納反而不見人影	https://beyondnews852.com/20260106/229921/	未分類
-2026-08-31	21國軍演登場 美印「迦樓羅之盾」首納天災救援	https://www.ntdtv.com.tw/b5/20260831/video/410891.html	軍演動員
 2026-09-29	# **👽 荒唐又驚悚！巴西深夜驚爆「外星人入侵」國家級 ...	https://www.facebook.com/groups/6257762630958818/posts/27254316124210163/	開戰衝突
 2026-09-28	（有片）以色列極右部長再闖阿克薩清真寺 高呼：「以色列人是這裏的主人」	https://news.google.com/rss/articles/CBMiekFVX3lxTE8xRGZPd3hwbmpNTk5BTDRfelk1UkFobFdBYUhuYTBzd2hZQnYtM0pZV1FrQTExaDNISVlQbmcxSV9zX09qSkxBd2U5blBFclMteURBZUpyWlU5UENVMFFSRGgzcWFlSXNMclRpTGNpY0ZZYUwyXzgxOTVB?oc=5	未分類
 2026-09-28	飛行員在“俯衝轟炸”英國風景區前留下“遺書”	https://citytimes.tw/運動的/飛行員在俯衝轟炸英國風景區前留下遺書/517952/	開戰衝突
@@ -597,7 +551,6 @@ var DATA_WAR = `
 2026-09-28	俄德外長俄烏衝突後首次簡短會晤 討論雙邊關係和戰爭局勢	https://news.google.com/rss/articles/CBMirwNBVV95cUxOdmV0enNqUVN3QTlaSV8wQVhKQjJ2Skh1NmhiejdIVlJkZFhBR1hFWW4xLVcybkN1c29vblZxWFdtS3VKUmtDNUpYRTFuU3ppUndhNkVfNFE1WWtBdE9MQ0x6R3FBczJGZkIxQ29keF9EYlNrTk8wcVpDS2xhamd5OURYZkRGT0E0QnRsbGJUQnVGN01ia1VaczRmMHRaYll4Q3F5T1h2UzNPd05VSGVtc19vTy1aRVhKbWdFV0pzM0xUdkVPSGYybDhUMUVBTExGZ0dySm12ZUZDM2hqdmcycGo2SE4yYUlGZWtlVlBYX2ltVWY1QUJWMDlVQWJxc3ZJQzUzVjNudjFCaU0xVnMxdUkweDNXLVFDNFNNaldzRVUtRmt1VG5SejVucURsbUVyR0JOeDhpR1JnM3ppOG90OVl5WGdvcVRpLUZRakxOVGd0T28wS1FHM1oyUHROWUtzaGNVcTR0UTVEQ3d4Y1R3RzU4MVNEQ3RsZGNDZjNQVml6NWNJaVdMV1FJU0RMU0VWbzkwTGlYajRGaHB1dzZHWG5RSU9VNUZ3WkxCdXIwaw?oc=5	未分類
 2026-09-28	俄加強空襲 烏總理籲弱勢族群冬季前離開基輔	https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpaDFmZnBjcHJkSmx6UFBISk5LU1A2Rm02TDBwRi15NEZ1cEEzYVVFclZvamJkQ0hFNGhnbXE4dG5pcHF4c21pdlZ2OWZzMW1JdERvVTRGRQ?oc=5	開戰衝突
 2026-09-28	伊朗開齋節轟清真寺 以色列外交部：自曝政權瘋狂本質	https://news.ltn.com.tw/amp/news/world/breakingnews/5378138	未分類
-2026-07-26	伊朗局勢｜特朗普下令暫停攻擊稱願傾聽訴求 美媒揭憂戰事升級耗盡愛國者導彈庫存	https://www.singtao.ca/7578054/2026-07-26/news-伊朗局勢｜特朗普下令暫停攻擊稱願傾聽訴求++美媒揭憂戰事升級耗盡愛國者導彈庫存/	開戰衝突
 2026-09-28	伊外長稱準備好與美開展「末日戰爭」	https://news.google.com/rss/articles/CBMid0FVX3lxTE5FenpaMWdSN014amxSYjgtWVB5NDhkUHNLMVMwRzNvTDNvNnJvTVdpbVRRYmtfZVZ5NmNEcTAzSi1kcFBfMWRCNGRZa29aWTB0TV95Y0pzb1FJVFpubXVMQUU0SUw5R2NHTWtsMW41Vmx0Z3BVeFhR?oc=5	未分類
 2026-09-28	以色列被曝在哈馬斯突襲前多次無視埃及預警- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE4wdTlCazZyWDVhSGtuUnZad1NzTnpheDhlTHpkemJON0MydzJrZ0UzT3BlaDZjQW4xdmo5b3dOX19vcHVNVE5TNWJHMG5LZE5wRVh1Q0ZJU3JtSV91MjFobEUybllHT2YtTG1sYjFlZ19IbWc4eWNB?oc=5	未分類
 2026-09-28	亞運2026︱排名344位伊朗老將勇挫張本智和 戰火無阻連續3屆奪銅	https://news.google.com/rss/articles/CBMiowNBVV95cUxPVmlIVW9pS3pBQWsyR3RwODh0aV9pNjR3REVvU2U0OUxhTW4zRUNnRlBVNElHeGJNXzY4Mi1NNTc0QzZFWnJ1d0liOF9wY2tlMzJqandBZjRGc3AxR1hkaThNYUg4V3JpWTJjallqYmstc0Y0cVFSX1U1Skl1RDdqMHRfOGJGVEVMVGdEYVl5WFd6bXNMblZURWhWc2Y5bG43bk8xXzlXS3d3WE0ybk9KcWJwaGU0TlFMWXFxVlhyU3FrNzB6b3h0TFhRdXRacENhZXU5TXFsVU9NUnFmWHd2MERmenVVYXZvMGtCYmpfa1ZCNW8tbkp2ZGZPSGFNLXFZNl9xc3didERxLVhpOUVNYTlXSE5kM1M0VlcxbjBwaUJnU3lBeFlCVW1pSFdZb0NiUDFZalpmaG9WdkdCX3g5ZUttMzkzcEJRc1AwbTJ5VHpTVGNVeVR3am1Rb0JKbjN6NUpvc05VR05jWkdpR0p3SFJxVDRsWGhOTllsdHhySTdDaFVwbXFPdVp3NEo3MWlOaXpwRmZsMjlDYzBISlJLTHkzRQ?oc=5	未分類
@@ -648,7 +601,6 @@ var DATA_WAR = `
 2026-09-26	【觀點】皮爾斯·摩根專訪江學勤：倘美撤軍 伊朗將乘勢崛起	https://www.litenews.hk/news/17599-【觀點】皮爾斯·摩根專訪江學勤：倘美撤軍-伊朗將乘勢崛起	未分類
 2026-09-26	【泉源之聲專欄】以色列的戰事何時了？	https://cdn-news.org/ColumnistArticle.aspx?EntityID=ColumnistArticle&PK=00000000a48649bf5ca80eb673061d45baf403e836437eb6	開戰衝突
 2026-09-26	WSJ: 特朗普拒絕伊朗7天重開霍爾木茲海峽計畫 正考慮11月中期選舉後恢復空襲	https://news.google.com/rss/articles/CBMi3gNBVV95cUxNcHBwY2FkQ1FpNGlZUDl6ZGRvdGZIMTFYU1BwSzh6aFYzX0hUTkpHVW43eFp0YTB4ZWdNZDRzeXd1dDlVYnFOcTlYeDUzdDJqNFNDdFN2cUhoR1hkMGZZUm1NRlJqa1o4a0pENjl0bEpWM1pqbFRLZFRmU1Jxek5EYkJlT0hjRmRSMGRSZWFwMUhNZV84WUhOQmdxY3JON05Od0lRYUs0clktbUU1eGNEenFISnF4UkdKaDNFcHJ1X3luY2VMWlhBRUJCYXVqUmRFMFBTaG9RQ0V4SWJyR3U5MzdDbHBUQmdnaXNhOVJKTHdnaE0xT1Q3Q3YwWWRaUWxmNDVyMWtHTjVob240U2xna19rcG16SjUzUDVnMHM3VFd5OW1taEFKZ0VzeUZFVWg3S2FSeTV5NGZzS2x2QnJNZ0xWZ2E2a1o0dVlBdGtNM0Y1MVU0UnJJSzhCVF9WR1M1UkowaDktZ1pXTE4xa1l1SldYNXo1Rmo3bmlXTnd6akZkdWZyT0lvMUR3SFh0Wnp0d1kzWG05U1lRZTNKeUZjWEJ5NGtfejhuU0dwNm5vZkhDRDNkZWFLaElSQjFlWnZKMG4wa1l1R3ZqQ2xmdGpXcEgwNENEaE9STVEtLWVn?oc=5	開戰衝突
-2026-04-20	黎巴嫩耶穌像遭以兵擊毀，以色列軍方啟動刑事調查	https://www.singtaousa.com/2026/04/20/news/world/israeli-army-to-launch-criminal-investigation-after-soldier-strikes-jesus-statue-in-lebanon/	未分類
 2026-09-25	馬克龍稱法國將派兵保護沙特延布石油設施 免受也門胡塞武裝襲擊	https://news.google.com/rss/articles/CBMiwgNBVV95cUxOcWNpY3NpYlliY2NvM0F4VnRYOXJUS0J4NmY2RFJuM1lTYzQ1Q2pkZWEzMWE0UnlkUXltMXdXRHh5WXl6RlBoY3hQRnFnY1lsWlJhTlFKaU9mdXk5MXhHX0p4N1lfLTNtdDU0ekpyeVZuNnV4YnVHUTBSSjFObjREMXVyb0xmTmZNMzFhei0yVW9OSUtjbTRFUEVNVzVFT2dubFJSX3loQ2JWSjQ0UzVWS0hHSmRxeVBqTUFQdjQ0U0FMeEljNTl2X2lVME9YanAxWG93RnUwdUYtYzM3MEVwMFpFaXg4ZjJEX1ZZMlU2TW9UZDd2UGo5WHoxNTFmMjN2dHM5SFR0eEF5MTk2dmpwQnpFTVdlLUJQWmpLRVh0bThseGJ6YXZJTmliMWx1WEhmaEdGcUVJbC1FYUJSamRQekZZM1h1YUdOTjZjcVZuQnQybjZuNGFnT056SUNxSjQ5WnZnN1Byd0RpVGJYSmVEUGhfY0llaXQwbG83Nmd2bndsdHgwRE1kZ3NEMkpIbENjb2dyWlJnc0gwUXZkOFl5X0p0THo0aXN4N2RKbjhsSDZtbGloMTA3WF9tMlJLQktFNFE?oc=5	未分類
 2026-09-25	胡塞武裝襲利雅得及延布 沙特指堅決應對	https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsN0d3M1RMbGoyNmIwQ09UY20ydUVTbWZOT291NEVGSG1qY0w4dHJ6dnZwRzZiOVdiYTdZNFI5SklRU1BwdWhxV2VDdVlvd2xtdXhQYmEzSW9nYlJsNWfSAWNBVV95cUxQbi1Nc0Z3dXV4UERRRGZ3d2RtYUkwNGRBU3hWTk1Eel81cXpTc0pIQ29FNlRHQTk3UHI0ZXhNSEZMby1va3FpSTEwa25hcjRDQW9UcUxUdEZ6UXZwVjdTUEhOck0?oc=5	未分類
 2026-09-25	胡塞攻勢加劇 《麥加協議》三盟國緊急應對	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlQzFRWndVSkJyOU0wdmlyMHRQSEs2TndGTl83Tk5rdVl0R3paMXlFQTUtejZtdkxBZC1KakNSdEYwWkJDejlxcTUzVDdFR3RQZXd4enZNdmphUUM3VkZuOdIBZkFVX3lxTE1JM3VweVZtV2VwUklnTFNKcG5CbWcyellrX0JubzRET193Ti11aFFmZFdrMnpRa2w4dWh0STE3ZVpneFY5Z3BpRlhBSlBMSWVBSUhVSlZFNWNrSlNrSXdscDFNbzBaZw?oc=5	未分類
@@ -704,6 +656,7 @@ var DATA_WAR = `
 2026-09-20	伊朗戰爭胡塞入場・二｜封海峽或打沙特：胡塞的邏輯是什麼？	https://news.google.com/rss/articles/CBMimgNBVV95cUxQbk1DVEdrdjJRTVdSMkhKdkxEOW83R1d6R2Q4MTdkXzE1V19aMzl6QnowamlzbE0wZ09NNjBHcFdkYjI5VF9BMDZjQ3N1YnJyTlp4ZnF5WU5kZTJ3VmVHQUJCLS13TTByYkdTamRpMF9McEQ1ZWFJZmRJUm9uQW1uMzZSdDMwQ0VZYUtoSllPNWxwRktaMFYwTVhHZ2JFay1xYnJYeGJnNmtKVDJvaHM0Q0I4LVg5SXFDdWE4V2hSSE9DS1Q0RlhDN1BDdFllclQteEZRWGthOVFJV0s2SmJzUk1BRnVfREhBTnE4REkxQ3U1M2tiVEdJMFE1elJPZ2t5d1hta25NT2hNN0VoS0ZyTWZiLTFKaXV4czM1MkFyRUd1OFdVcDVqNk1sWjhEWEt4MTV3c01reldMQ0UzTGxUTmpkTFFWbm5lUjBucHg0Nm1kX0NTS0w2bS1JYUpuaDh6ejVGS2w1Y3lDMzg3S2h1T2I2ZjhzbTJJQlN6VFAySzRUcVRlejFSZ0dJem1CaXIzeWJHc0FfaVMxQQ?oc=5	未分類
 2026-09-19	胡塞武裝稱沙特本周發動300次空襲- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE85MUFMekJGVVZuYlk4N1NYZGlXQmMxVGM0ZEczYlRMekx6cUZLZHVlQ2Yxa1Q1U1p6M2dxRERZRzNlMXdUVERYNlBRMkp3dEJDdy1veXBCLVJ6OVoxSHBVR1h5Q19BSEQ1aHctemhyUUtnNjBSX2tB?oc=5	開戰衝突
 2026-09-19	普京：歐洲領導人宣稱為與俄國開戰做準備 不過為挽救支持度	https://news.google.com/rss/articles/CBMib0FVX3lxTE90ZmVyQm9iQ3lDQUh2RTlLWmJKT2tGZTBnVjY3N01mQkliN1NtLXZwSjFSNHRncGxPMjBNQU9yTWpVekFWVnRldHhocEN1a3dsZ3p6UFhWbUFHaXZ2eHVzVURBVDA0SjJXaUtoNkY5UQ?oc=5	開戰衝突
+2026-09-19	巴基斯坦警察總部爆槍戰還在持續 增至31死逾百傷	https://www.ntdtv.com/b5/2026/09/19/a104134358.html	未分類
 2026-09-18	打還是談美國準備怎麼結束伊朗戰爭- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE8xb29Fci1PbzN0NnlnTzBFUmxKS2Zha0VrOGxNaExBUVNFbnQ4cGU5dzh5bWRIZUw4YTRXYWJkUG9HMmVqWVFPTWVuZW5GcU1rZy1OU3V3R2xvSXVNMVhfMlBBc3BlZzJheUUtR0tBUjBhcXJkNjRB?oc=5	未分類
 2026-09-18	巴基斯坦發生自殺式爆炸襲擊超66人傷亡- 經濟	https://news.google.com/rss/articles/CBMid0FVX3lxTE9OWWszdGFZczV4Vkh6Z0lGMWZsamQyM1FDaFdfdG1nLVh3eUl1d0tNNEFJZXU0V0JaUk1iLXQ5V3FpeWY0anBRaDBQUnU1TktmYTFjNld6QmV4S3lCRERjMWtIVXNvRGRUazhaM2hMRU9GSlByeUZN?oc=5	開戰衝突
 2026-09-18	巴基斯坦發生自殺式爆炸襲擊 超66人傷亡	https://www.wenweipo.com/a/202609/18/AP6aad1ee3e4b01d54a283c5e4.html	開戰衝突
@@ -715,6 +668,7 @@ var DATA_WAR = `
 2026-09-17	普京籲投票撐對烏戰爭 稱定調杜馬選舉為成民意指標	https://news.google.com/rss/articles/CBMiiwNBVV95cUxQd2F5UE9kQnhuaUNIalp4OUpCNC1QZWVra2NSWTA2T0ttaG5mZ21DNERpdnhTZmV0NV94OGt3Zzd4elpONkowRFpYLUdDVUliS2pjamZlaUVlV19xVkhvaFFRWFNmQ1pGMi1xRXBkRUVHNW9yUmkwb24tYnI3NFRrWktaYlVua3ZUVi1IOWpnSkUwRmJUa1VQczZ1V1hHQ1hPNmdZQmlBOVdDUnFyZUY2RDlvWHZLUWZYaHUyZ3l2SzBoa21Hc3NSVWh5ZUJMSG9SMmZVWmkzU0hUSUhVcWRhUm81TXJrMUxLeDFWMVM3bzVHMlk3bmVqcTdROW9XOHhib1NjS1FvWVZlUmlxcUw2WEVXNmM5XzV3WHVxQUJoZFk5TUt1T0FvX1FDa3AzYVoyNDE5dzRiS2NCRUtEQzlSbEFRenZqUkFGYUw0MlVoNGRpd3hab0stcE0tT3Y1akY2Vm5NTnVNX3ZFcGFOYkFfLUZHTjRqbEdnTzNzWnJfZks2VUR0T3RZeTRBSQ?oc=5	未分類
 2026-09-17	「要不要徹底摧毀他們？」川普預告美伊戰爭重大決定將至	https://news.google.com/rss/articles/CBMi8wJBVV95cUxPX1NoQXJJN0R3QjAxUTcydDRoMXh1bWt2X19iZnNRdzl4Y0lQSE1nc1Z2TGhlbXU0ZkpjWGYzWXEyMXMydzJCcmpyMkNxTEFNTExBeTF2aUNCME5FYS1PSjc4R2ZQWGw5VFc5RG5ZYzAwWVphYzQtX3Z0WHRkc2FwN1ZMam5TWGlVSW93UFpvc0E2NjhyR2VacEh6ajB4QThObzlBcVAwUXN3VUEtUWVFbGxJcjhwb1BKVHQyTTQ2M094bWZaM3FwSFQ3YUV4SFlZcWYtWFVmMDRoUmNWQV84Y3VjTzZhd0h3cUZOS0hpVHEzcHh6TnlMT1FnYW9HNnF1ak5DTXFYTzRWdlNTVHM2T3YyZnlzMVRnNjBNbENoRkRCMUVPaDA0NDYtNUFNMkNtT3FUTEpBRkZjTG42cndiWXBpdGdVbWVTeHQ5cWdkS3BMeWpid2g4aWkwVTFBcFI5M2x6V1NSb3hsWWFrNEozV0J1NA?oc=5	未分類
 2026-09-16	葉門胡塞射彈道飛彈 襲擊沙國西南部空軍基地	https://news.google.com/rss/articles/CBMizwJBVV95cUxOQlJPSEFMaUdoOEkxcjdLdDlldTFPRnFhbTBKOWV1UGd4dHZtWXltbHpQbzZCdFBRRlp3MXlkUWQ4cldneGpjQzJPMFdzV3JMU2x4REYwT1Uyd3JWbGIydTcwYy1TMmlZOEw2Ynp6ajhEUVRYLWdLYXZkTGJMaklCejk1cEFPNHJnNlRDTVdZdXdSNXJXMjVYNmh1NWE3NndxVHlLVjgydUpzLTRCX09Bc2d4b0hCWjRheE1yYndCVXlua2FTV0ZGclZFalQza0ctRmVNNFoxdk9kdHczbFZ4SUMxV25zaUU0V1c5aUlOOHVxWk5rejZ0X2oza1UyemNBd1pVT0JWWkJaa1dGU0hSV0d6TjV0UTJtWGk3LVRpXzk4SHIySG5ERUtOaFpGRWE4d2lKbEZrUmYxMk9SdGJaNHJnSkRqdW83bU9fM21rQQ?oc=5	開戰衝突
+2026-09-16	加沙城一建築倒塌致至少11人死 百餘人失蹤	https://www.hkcd.com.hk/hkcdweb/content/2026/09/16/content_8775258.html	未分類
 2026-09-16	FBI等單位登德州油輪疑遭外國勢力網絡入侵	https://www.singtaousa.com/2026/09/16/news/usa/news-coast-guard-fbi-tanker-cyberattack-texas/	開戰衝突
 2026-09-15	與胡塞互攻升級 沙特恐捲更大衝突 - 20260915 - 國際	https://news.google.com/rss/articles/CBMixAJBVV95cUxONW83SE1BUmdONF80QnlOS28yOWxfTVQwbVVhcE5yMnB6RTNWel9pTDNCWGQybDFHaGR4N0F0dE5WWjcxWV9kZ1p0ZGNlcGthcEo5TVVyeDdkNmdEMThxWlRyUFZJcVRDVmVpN1JGaVZJeWRPdHYwTDNMYnZRVC1tR0NYcEt0czlsT2Q5VzI2a1JnNUd6Tmw0a1lrbEtJdzJCVzZwR2E0RU1MWHZ6MFJWUEpfYkxTWnFOYmhHRWpPMVg2YjhYNWZNcmV0alNYeDBjVm5fZ3dfRDZxZ1dldC1OTXhxRWlLREJXV01tdFNYNjh1UW12Q0RoUWxSdkJCd1pWNkIxSHg1VUUxYkU1ZE5EYU1yaXp0RHR1ZnlPeGZPYXRPNW9aUmFLU0U3ZTBLOERVVlM2U2Q1OVJBVjNaRDBCdDZ3Mk0?oc=5	未分類
 2026-09-15	沙特58次空襲反擊胡塞中方籲各方推動局勢降溫- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE1vUDVFVlB4YlloWjdzVENaSG1fZ2daaDFCWmJCNDhEazI5QS00VFRCckpQR3hVdHFtMlFFckhMTUhDVkZ6cWhjWlh6WlZpNE9Td2lLLXEwdUIzYjI1bjg1eGdGbFNXbXdoVzVLRVBCWXJrTVN6UmVz?oc=5	開戰衝突
@@ -729,6 +683,7 @@ var DATA_WAR = `
 2026-09-12	胡塞武裝稱沙烏地48小時129次空襲葉門！川普：胡塞致電稱不願與美方戰鬥	https://news.google.com/rss/articles/CBMiwwNBVV95cUxPdGJia01FY1VEenI5QWl3YXdQOFdTT2JEc3ZZSW1fU05vbEZ0MEtpRVJTd3VJcXlNZmIyODdyRnlscjlUckI2TVFqN1ByS2lVTUVuSm9mRDhTRjYyX2tfamVmZk5NcW0wNVhFWlJqbUQ3RktWc0c0cGtVajRRYkM0dFNEdVFkWEhVYk5MVE1kMS1DN2tNamsyTktCMDdRLTQ2bkhzdDNic0w0MHUxU0xZRTUwTWhzQkNjRTZpUlNTaEI5eENUSGhXUzVOYk9PN1pWeUhaSVJMNnVrVWI0TzJCQmswX1h5dUx5LUdGMnI5SzZ6b21rQW16UWR0SndmQlFTLVQySUozb3JyaVpyM0F5cVRYbzlhdG93SzRTLS0ySDY4bWprMnFyQjRrUnhEM2U0UEVmUTZQZDNhV3JIRmNyZTZvcWdEZE9qUmRMaUtuQTl0aHNCZi1pZmVpb1JHNGQ4bHlLTFY5T0EzXzZtSTFXb1pHUzI0ZjkyWGRBU2x5UjdHNWdTcHM5Q3JvMVBZX1Z2clhCM196eXRjWHdiLTNZMlpNaFMzU2VQdU1ZYk5QZjNvaExROGpUMFJFcjVNelIwY2xR?oc=5	開戰衝突
 2026-09-11	葉門政府軍猛轟摩卡「殺戮區」 阻胡塞武裝逼近曼德海峽	https://news.google.com/rss/articles/CBMi9AJBVV95cUxOeG5KcHZYSjVtYlZHQUx1eU1kdVZ0MlZXeDFHVHMyejA0Z0F2dFVGSFpBQzA5RDBtVDRQZWVQOXIxUnNPY3ZtQmhGWWh1M0JiTWhOQm1DUGFqVTJDbFVYLXZmSVpvdHNnODNzQk1jMkh0YUxvMDZfRS1ydFpSeEplTUp0VTFCdnRQRWhaXzFUWjZzTUJYVjNoNlVJbEtYNWN3VnRzZ1RGYWdHZXNoS1U4TXlqLUw2X1ZtT3NXQXEtalo0UTA4TFBRRlJ0NWdWM2FiTl9WQUF1OXZtZzNwSG04N091ek05STAzN1EwQmQ3cDlGRm5PcUlsd1JqdE1KX0swQ0l5YVliQlB2YktHUWp3Yk9ZWENlcXpfVFdYdGE5blNHVDctaTVJVFVRNlEzZzdRMTAzSU1jSnU2RGtCalVTNExtaGRVUjNsMFNiX05tMFBJMS0ycGliQXVGbkxNd3hQY1M5eHRsMWxDTVlaeFd2aWtSbUw?oc=5	未分類
 2026-09-11	俄烏互指施襲 烏克蘭購物中心5死 俄羅斯度假勝地3死【短片】 (09:45) - 20260911 - 國際	https://news.mingpao.com/ins/國際/article/20260911/s00005/1789090160891/俄烏互指施襲-烏克蘭購物中心5死-俄羅斯度假勝地3死【短片】	未分類
+2026-09-11	以色列逾千噸炸藥炸毀真主黨地道 測得規模4.1地震	https://www.ntdtv.com/b5/2026/09/11/a104132024.html	未分類
 2026-09-11	也門胡塞武裝攻佔穆哈紅海航運管控格局生變- 軍事	https://news.google.com/rss/articles/CBMid0FVX3lxTE5zTTRiZEJCYXhiV0p6dmR6d2lJSEFEbXVuLTJNVVVUQXZzY1plT09fdjMtWDl3X18xMjBnUkhFT1lYMS1UalBQUWJOaVpMWFFmbG00R0NvMEtWZS12azUxMGVUdnV3clRYa1dxNHpkZjhKRnhUVUg4?oc=5	開戰衝突
 2026-09-10	伊朗戰爭與敘利亞・二｜中東北約能不能讓土耳其抗衡以色列？	https://news.google.com/rss/articles/CBMipANBVV95cUxPNEw5cnNqYXpfMVVraWVua2JzY2pxdnBJMHlnTHBycEJnZTdyNXZzbkNrY1Znc0JPWUpqNk9pZHlvOVVYNHlNdmhXdEtUdUt1YXhlY3NCeHN2c1JTb3RZa1dJMTZkcFo4LXh2dFk1cFk4X1ZDekc1eUV0U2J4ek92SGttMDJWM0NTVWtFZEJsWXhXazdkVHZocXlidWFnZEdTNmRFTzQwOVA1VWNFeWd6Rmh4eFhCNXZYZVZNc051SzJFcENsWWp0UndlUEZWei1kTDRTbzFzallkM2l1WlJickk4ckxqZ0RId1l3eV91emxwbzdudFliTGV3SUxXeEZWTDN0VlVUZ0lOdkJhM2FpYkJnZHFYazJBZF9tYlNpNlZnc3Q1bEFGVC1SWnBFNmdDVlFkTkpCVjJLby1LT2M2dVVZZGNZOWdiUkkzb2RQWlA1WDRMS0tkbV82LW9ESUFrUXJDSm8tUzdOQmRzam9QOU9DUUw4d0E1X1Q4TmQ1aC1PSWhjZjZpTGpWYTdvYWNVVDJyMjl1YlgwUzB4eHg2STdaeks?oc=5	未分類
 2026-09-09	【新聞第一線】美伊海上大戰 沙特32輪空襲胡塞 俄王牌兵遭活埋	https://www.ntdtv.com/b5/2026/09/09/a104131530.html/amp	開戰衝突
@@ -738,9 +693,12 @@ var DATA_WAR = `
 2026-09-03	德國德紹包浩斯面臨極右翼威脅，另類選擇黨AfD掀起新文化戰爭	https://www.singtaousa.com/2026/09/03/news/world/the-nazis-drove-bauhaus-out-of-town-now-the-far-right-is-waging-another-war-against-the-movement/	未分類
 2026-09-03	中國人民抗日戰爭勝利紀念日儀式（附圖／短片）	https://news.google.com/rss/articles/CBMickFVX3lxTFBjTDRlQ3EwVElSRDJ4WGlWaWg1cFg5S2RrRElSMHRRNklGeGpNaGt5RG5ZVV9FR05QcEdrZkowMHRiMEdHOHBUS3o4YnZYSXdmdkc0bGl3MUJwSFJPNDk1TjEzUzVPWGswRlBicTdjcFFsZw?oc=5	未分類
 2026-09-02	新墨州核武實驗室女助理 失蹤1年成白骨 頭骨竟有槍傷 美國近年來發生數名與國防及核武計畫有關聯的人士失蹤或突然死亡，其中一位是2025年失蹤的核子實驗室員工卡西亞斯(Melissa Casias)。她的遺體今年5月在新墨西哥州一座...	https://www.worldjournal.com/wj/story/121177/9726662	核威脅
+2026-08-31	21國軍演登場 美印「迦樓羅之盾」首納天災救援	https://www.ntdtv.com.tw/b5/20260831/video/410891.html	軍演動員
 2026-08-30	烏克蘭加大襲擊煉油廠 俄羅斯延長柴油出口禁令 | 國際焦點 | 國際	https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzZGRMMnZhWTZuVzBORTQ4dnlTTl9Kek05ZjAtNXVEX3U2TkJDTHdUdi1pWG9jOVFaSU83SGlUb09rNnRsODdfNGJnclVpWmZYcEFvTzhCMmRLZw?oc=5	未分類
+2026-08-30	今年基輔州最致命空襲 俄襲烏彈藥庫釀38亡	https://www.ntdtv.com/b5/2026/08/30/a104128645.html	開戰衝突
 2026-08-27	韓製自殺式無人機測試失敗 兩次放飛均墜海	https://hk.on.cc/hk/bkn/cnt/intnews/20260827/bkn-20260827070018329-0827_00992_001.html	開戰衝突
 2026-08-25	海地幫派襲擊農業社區釀多人死亡 聯合國指逾150 萬人流離失所	https://www.bastillepost.com/hongkong/article/16633159-%E6%B5%B7%E5%9C%B0%E5%B9%AB%E6%B4%BE%E8%A5%B2%E6%93%8A%E8%BE%B2%E6%A5%AD%E7%A4%BE%E5%8D%80%E9%87%80%E5%A4%9A%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E6%94%BF%E5%BA%9C%E8%AD%B4%E8%B2%AC%E7%A8%B1%E4%B8%8D%E6%9C%83	難民人道
+2026-08-24	戰爭、氣候和貿易爭端多重衝擊，全球糧食安全亮紅燈- 紐約時報中文網	https://cn.nytimes.com/world/20260824/wheat-harvests-bread-prices-war-heat/zh-hant/	未分類
 2026-08-23	【蔡鎤銘專欄】藍色黃金：伊朗的水戰爭策略 - 生活新聞 - PChome Online 新聞	https://news.pchome.com.tw/living/imedia/20260823/index-78748640033572287009.html	未分類
 2026-08-22	拖肥開咧戰死火 水晶宮受讓抵玩	https://football.on.cc/%E8%B6%B3%E7%90%83%E5%BF%AB%E8%A8%8A/bkn-20260822160246807-0822_00882_001/%E6%8B%96%E8%82%A5%E9%96%8B%E5%92%A7%E6%88%B0%E6%AD%BB%E7%81%AB-%E6%B0%B4%E6%99%B6%E5%AE%AE%E5%8F%97%E8%AE%93%E6%8A%B5%E7%8E%A9	未分類
 2026-08-22	台海有戰事｜若賴清德宣布戒嚴 鄭麗文怎麼辦	https://news.google.com/rss/articles/CBMi3AJBVV95cUxQRzdWZm5kaGs5bGFZVTJtQ0JZekFxbzJwVmd0bUpHdjN3eGViUGhydDdnTnU0UHdvX1RJcy0zUEMyS19yczB4d2lSMm13MXZhcjFGeFVpSmw0YkJOeHJFZXVKNTBqNWZyT1VCY2R2cGREeWxjU2tFekFFdDBxR1d5T2ZHYkFHcFdYcVpLcWkzMzVQdGw3Ny1zcFN3VVBMUGVPTXBhOHBwWFlvSU95b05wZjVrSUROdEJwUVlzd1gxQVZQRk9ESkdfdDFrTVp2VGYyQnJvN3l0Q01nLTFrZWp1SzJOSjcyN0hxclZQd0xWTHNqVGR5OFhYSEZaMVNSVFVwMWVhLUpiUzBMUU56Um9tTElwQVlDY3hKVHlHVGZOZTdSWmthYmI0MkMycktESEJYLXhiOS1Na0wwaEZYOTlya09sbUpGaWlTTGdWR0Y3WW5kMVhScjBuUTdqR0w?oc=5	開戰衝突
@@ -751,6 +709,7 @@ var DATA_WAR = `
 2026-08-18	烏克蘭導彈襲俄羅斯別爾哥羅德州6人亡	https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20260817-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%8E%E5%BD%88%E8%A5%B2%E4%BF%84%E7%BE%85%E6%96%AF%E5%88%A5%E7%88%BE%E5%93%A5%E7%BE%85%E5%BE%B7%E5%B7%9E6%E4%BA%BA%E4%BA%A1	開戰衝突
 2026-08-17	烏克蘭導彈襲俄羅斯別爾哥羅德州6人亡	https://www.rfi.fr/tw/國際/20260817-烏克蘭導彈襲俄羅斯別爾哥羅德州6人亡	開戰衝突
 2026-08-17	川普下令縮減美韓軍演規模 指韓政府不配合圍堵伊朗	https://www.ntdtv.com.tw/b5/20260817/video/410637.html?川普下令縮減美韓軍演規模 指韓政府不配合圍堵伊朗	軍演動員
+2026-08-16	（多圖）青少年軍事夏令營結業參訓學員士氣高昂盡顯軍事風采- 港聞	https://www.dotdotnews.com/a/202608/16/AP6a81bdf0e4b04b6c5d36dbef.html	未分類
 2026-08-15	以色列空襲黎巴嫩南部釀7 死停火協議後最致命襲擊之一	https://www.bastillepost.com/hongkong/article/16574535-%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A5%B2%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8%E9%87%80%E4%B8%83%E6%AD%BB-%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E5%BE%8C%E6%9C%80%E8%87%B4%E5%91%BD%E8%A5%B2	開戰衝突
 2026-08-15	【馬克時空】大談慢性戰爭 速勝論破產 | 長期戰爭 | 俄烏戰爭 | 伊朗戰爭 | 新唐人电视台	https://www.ntdtv.com/b5/mkt_ipad/2026/08/15/a104124424.html	未分類
 2026-08-15	【馬克時空】大談慢性戰爭 速勝論破產	https://www.ntdtv.com/b5/2026/08/15/a104124424.html	未分類
@@ -761,21 +720,32 @@ var DATA_WAR = `
 2026-08-12	Xbox 推出獨家《戰爭機器：E-Day》控制器，細節引人注目	https://www.mixvale.com.br/2026/08/12/xbox-apresenta-controle-exclusivo-de-gears-of-war-e-day-com-detalhes-marcantes-zh-tw/amp/	未分類
 2026-08-11	消息：胡塞武裝襲擊紅海貨船 三船員身亡	https://www.ntdtv.com/b5/2026/08/11/a104123069.html/amp	未分類
 2026-08-11	【新闻第一线】突发！朝鲜导弹射韩国 美军地狱火打击 | 胡塞再袭沙特 | 伊朗 | 新唐人电视台	https://www.ntdtv.com/gb/mkt_ipad/2026/08/11/a104123259.html	未分類
+2026-08-11	【新聞第一線】突發！朝鮮導彈射韓國 美軍地獄火打擊 | 胡塞再襲沙特 | 伊朗 | 新唐人电视台	https://www.ntdtv.com/b5/mkt_ipad/2026/08/11/a104123259.html	開戰衝突
+2026-08-11	【新聞直擊】打掉空軍一號？！川普急躲伊導彈 朝鮮爆實戰試驗	https://www.ntdtv.com/b5/2026/08/11/a104123089.html/amp	開戰衝突
+2026-08-10	山火失控逾2.2萬人撤離加卑詩省進緊急狀態- 國際	https://www.wenweipo.com/a/202608/10/AP6a78defce4b0c1e500243371.html	未分類
 2026-08-10	台產自殺式無人機演練時出醜- 中國	https://epaper.tkww.hk/a/202608/10/AP6a78e16fe4b099d2ba483d9e.html	開戰衝突
 2026-08-09	罕見糧荒下半年來襲 史上最凶聖嬰現象疊加中東與俄烏戰爭	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RQXY3ZE8zZzdZcGRMV1p5WFpiWXNJM2o4QWdGbks4UHBQTjF6TTN6ZDRjclNNaTB6T1VBbnRrV3NFWlZWWDNxWEhka2NXVWVEZVE?oc=5	未分類
 2026-08-09	俄羅斯無人機導彈襲烏克蘭首都 兩人死亡結束暫停攻擊	https://www.bastillepost.com/hongkong/article/16724390-%E4%BF%84%E7%BE%85%E6%96%AF%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%B0%8E%E5%BD%88%E8%A5%B2%E7%83%8F%E5%85%8B%E8%98%AD%E9%A6%96%E9%83%BD-%E5%85%A9%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%B5%90%E6%9D%9F%E6%9A%AB%E5%81%9C	開戰衝突
 2026-08-08	罕見糧荒下半年來襲 史上最凶聖嬰現象疊加中東與俄烏戰爭	https://news.pchome.com.tw/living/imedia/20260808/index-78615800010634287009.html	未分類
+2026-08-07	誰在圍攻神韻？多條戰線曝光 | 新唐人电视台	https://www.ntdtv.com/b5/2026/08/07/a104122022.html	開戰衝突
+2026-08-07	快訊／泰國學生「掃射校園」2師中彈亡！槍手還在學校 與警交火	https://www.ettoday.net/news/20260807/3215108.htm	開戰衝突
 2026-08-07	俄烏戰爭｜美參院通過嚴厲對俄制裁法案 包括可最高加徵500%關稅 眾院下月表決	https://www.singtao.ca/7590424/2026-08-07/news-俄烏戰爭｜美參院通過嚴厲對俄制裁法案+包括可最高加徵500%關稅+眾院下月表決/	未分類
 2026-08-06	【新聞直擊】突發！ 38人亡 胡塞突襲軍營 4國極度警戒	https://www.ntdtv.com/b5/2026/08/06/a104121798.html	未分類
+2026-08-01	俄再空襲基輔市 9死28傷	https://hk.on.cc/hk/bkn/cnt/intnews/20260801/bkn-20260801130129031-0801_00992_001.html	開戰衝突
 2026-07-30	有片丨蝗群入侵俄達吉斯坦高速路：密密麻麻撞擊擋風玻璃 能見度極低	https://www.hkcd.com.hk/hkcdweb/content/2026/07/30/content_8767426.html	開戰衝突
 2026-07-27	貴金屬戰爭開打！不甩中國出口禁令 「這島嶼」挖到中重稀土 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iNGctS2VLalV4WkF4MXFIWUhoRFlmWVpLcV9wSDJtT3dENTQ2eWR5b3R2NVJNYlFWUGxjNGNiRll6ZWxYSjFUNEU4S3BYOFNtMFNtMzdB?oc=5	未分類
+2026-07-27	伊朗戰事傷亡統計 4亡兵除名歸新類別	https://www.singtaousa.com/2026/07/27/news/usa/iran-war-casualties-new-category/	開戰衝突
+2026-07-26	伊朗局勢｜特朗普下令暫停攻擊稱願傾聽訴求 美媒揭憂戰事升級耗盡愛國者導彈庫存	https://www.singtao.ca/7578054/2026-07-26/news-伊朗局勢｜特朗普下令暫停攻擊稱願傾聽訴求++美媒揭憂戰事升級耗盡愛國者導彈庫存/	開戰衝突
 2026-07-22	中東+俄烏+高溫影響國際油價升至5周高點- 國際	https://www.dotdotnews.com/a/202607/22/AP6a602771e4b04b6c5d3432da.html	未分類
 2026-07-20	馬國明曹永廉蕭正楠被歌詞「出賣」 自殺式慰妻	https://hk.on.cc/hk/bkn/cnt/entertainment/20260720/bkn-20260720000147738-0720_00862_001.html	開戰衝突
 2026-07-20	基輔遭「最大規模彈道導彈襲擊」 致1死17傷	https://www.dotdotnews.com/a/202607/20/AP6a5d63cae4b04b6c5d33f3e3.html	開戰衝突
 2026-07-18	【中東局勢】國泰押後恢復中東客貨運航班	https://news.now.com/home/finance/player?newsId=655062	未分類
 2026-07-17	湖南平江男子自殺式縱火燒車鋪 致3死（視頻）	https://www.ntdtv.com/b5/2026/07/17/a104116267.html/amp	開戰衝突
+2026-07-14	美地震學家遭拘留逼供 中共欲掩蓋地下核試驗？	https://www.ntdtv.com/b5/2026/07/14/a104115226.html	核威脅
+2026-07-14	中國關押一名研究朝鮮核試驗的美籍地震學家已近兩年	https://www.rfi.fr/tw/國際/20260714-中國關押一名研究朝鮮核試驗的美籍地震學家已近兩年	核威脅
 2026-07-14	中共拘留研究朝鮮核試驗的美華裔地震學家	https://hk.epochtimes.com/news/2026-07-14/18586377	核威脅
 2026-07-10	宗教人士：中共政治整肅、監視入侵教堂	https://hk.epochtimes.com/news/2026-07-10/35746770	開戰衝突
+2026-07-09	美國發動新一波空襲伊朗沿海多地傳爆炸聲| 零新聞	https://agora0.github.io/news/cna/2026/07/09/CNA-美國發動新一波空襲-伊朗沿海多地傳爆炸聲.html	開戰衝突
 2026-07-09	梅艷芳逝世23年家族又開戰！親哥爆梅媽生前「神智不清」 怒揭3年沒見母親幕後黑手	https://tw.news.yahoo.com/%E6%A2%85%E8%89%B7%E8%8A%B3%E9%80%9D%E4%B8%9623%E5%B9%B4%E5%AE%B6%E6%97%8F%E5%8F%88%E9%96%8B%E6%88%B0-%E8%A6%AA%E5%93%A5%E7%88%86%E6%A2%85%E5%AA%BD%E7%94%9F%E5%89%8D-%E7%A5%9E%E6%99%BA%E4%B8%8D%E6%B8%85-%E6%80%92%E6%8F%AD3%E5%B9%B4%E6%B2%92%E8%A6%8B%E6%AF%8D%E8%A6%AA%E5%B9%95%E5%BE%8C%E9%BB%91%E6%89%8B-075000067.html	開戰衝突
 2026-07-09	​俄烏戰爭｜俄頒柴油出口禁令至7月31日 7月起進口石油產品	https://news.google.com/rss/articles/CBMigANBVV95cUxQblpVb3AtcXpweTU5WkpCaU5uV1JzeEhMYmN3WFd1aDNyZzI5TWtSdG1faU5jQS1mdzluU0hHZ0ppUEZTc1ZST2ZNamc0emZ3UzU2OEY3N1ZUWVpsSEFOTWpJTEEwbzVqdkZyODNMS3RCVXNRa2hsczlTanhrSTlicEVTU0puaG40dUlhUC1VLU94bUN4VjhrTXR4U1d2MktjNnl2NkNxYjBoaklNcFpDMURfZDVlT1k1TmZxanRZMDBHNTlCd0Z3amJRczV3R3liMTg1bzB0ZkhIVkdKaVMxbl9zYVhLaWFyM09fOXE1aTZMUVVNNEhRZUxnemgteVZsb2dfTklXTXBnekxaNFd0cE5CQkljRTR0THRSQkdBb3ozVkoxLW1tdXFkdi1xbmVBeVUwQ1dNeWpYNDFtU0d3X1VBWVlOWTRCblRMNk5zSThZTEJTLUEzakdXTE81MUhHLWhOY1BINWxwbGp1WFFjbEE3QzRLbmV6ZW5JQWNwR1E?oc=5	未分類
 2026-07-08	聯合國： 加沙平民持續受以色列猛烈襲擊兒童死亡人數不斷上升	https://www.bastillepost.com/hongkong/article/16524028-%E8%81%AF%E5%90%88%E5%9C%8B%EF%BC%9A%E5%8A%A0%E6%B2%99%E5%B9%B3%E6%B0%91%E6%8C%81%E7%BA%8C%E5%8F%97%E4%BB%A5%E8%89%B2%E5%88%97%E7%8C%9B%E7%83%88%E8%A5%B2%E6%93%8A-%E5%85%92%E7%AB%A5%E6%AD%BB%E4%BA%A1	未分類
@@ -783,10 +753,14 @@ var DATA_WAR = `
 2026-07-08	烏克蘭無人機狂轟煉油廠 俄羅斯急祭柴油出口禁令 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjWjVEVjFSUFNsU0VCLTh5VnNIQjdJMnM2aGk3bl9LMERIdmk2d0pOMWswWURYcGE3c2dnaWVia1VKSnFjeXg2UmxtejVUSmRzRjc2Yll3?oc=5	未分類
 2026-07-08	又有商船遭攻擊！美「強硬回應」發動空襲轟炸伊朗提嚴正警告- 國際新聞- PChome Online 新聞	https://news.pchome.com.tw/internation/crwant/20260708/index-78346826543639316011.html	開戰衝突
 2026-07-07	沙加緬度縣放飛逾200萬隻絕育雄蚊 遏止入侵蚊種傳播寨卡等疾病｜細說燊語	https://www.singtaousa.com/2026/07/07/news/usa/rosemont-sacramento-county-releases-more-than-2-million-sterilized-male-mosquitoes-to-prevent-invasive-mosquito-species-from-spreading-zika-and-other-diseases/	開戰衝突
+2026-07-06	日少年黑客用ChatGPT 寫程式入侵Bandai 影片串流頻道令 ...	https://unwire.hk/2026/07/06/bandaichannel-teen-hack/ai/	開戰衝突
 2026-07-05	媒體傳奇謝幕！CNN創辦人特納病逝 開創戰爭新聞直播	https://news.tvbs.com.tw/world/3197686?from=world_content_pack	未分類
 2026-07-04	【時事金掃描】普京急了要打波蘭 俄烏戰爭「猝死」密碼	https://www.ntdtv.com/b5/2026/07/04/a104112170.html	未分類
+2026-07-03	俄羅斯空襲基輔致27死91傷	https://hkcd.com.hk/hkcdweb/content/2026/07/03/content_8763004.html	開戰衝突
 2026-07-02	俄攻擊基輔18死 研究：俄軍戰死40萬人	https://www.ntdtv.com/gb/2026/07/02/a104111597.html/amp	未分類
+2026-06-27	美伊戰火未停 傳下輪談判在卡塔爾談解凍資金	https://www.ntdtv.com/b5/2026/06/27/a104110061.html	未分類
 2026-06-26	德國啃「瓜」 拿高士文：自殺式戰術	https://news.now.com/home/sports/player?newsId=sp39684124541	開戰衝突
+2026-06-24	印度供應商遭黑客入侵蘋果Tesla機密疑外洩 - 今日大公	https://epaper.tkww.hk/a/202606/24/AP6a3ae90fe4b04773b070e6b2.html	開戰衝突
 2026-06-23	伊朗局勢｜美參議院通過決議叫停對伊軍事行動 4共和黨人倒戈 白宮駁斥違憲	https://www.singtao.ca/7544697/2026-06-23/news-伊朗局勢｜美參議院通過決議叫停對伊軍事行動+4共和黨人倒戈+白宮駁斥違憲/	未分類
 2026-06-23	Sophos ：過去一年七成企業至少遭遇一次身份入侵	https://itpromag.com/2026/06/23/sophos-19/	開戰衝突
 2026-06-12	尹錫悅涉指示軍方向北韓投放無人機 為戒嚴製造藉口 判監30年	https://news.google.com/rss/articles/CBMibEFVX3lxTE5CbGpWRi1BVGFlWUc4Mi11QTVVQUw0UTQzZ0Q2R2dfWmRyamV5SjNmQ1QtbnZOMkdLVHJkR19DVmlfWWFxNzRpZm9KeUdUWFdjQkxnTEFMaWluN3o4b2ZpbkZSWXpkYVJyTnhXRw?oc=5	未分類
@@ -794,32 +768,45 @@ var DATA_WAR = `
 2026-06-07	美公布襲伊朗雷達設施影片 再擊落兩自殺式無人機	http://hk.on.cc/hk/bkn/cnt/intnews/20260607/mobile/bkn-20260607040629489-0607_00992_001.html?editorpickDate=20260608&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	開戰衝突
 2026-06-04	有片丨特朗普稱若有美軍戰死或重啟對伊戰爭	https://www.hkcd.com.hk/hkcdweb/content/2026/06/04/content_8758280.html	未分類
 2026-06-04	俄羅斯無人機襲擊烏克蘭公車站 造成3死12傷	https://hk.news.yahoo.com/俄羅斯無人機襲擊烏克蘭公車站-造成3死12傷-080502907.html	未分類
+2026-06-02	烏稱遭俄大規模空襲已致10人死百人傷- 國際 - 香港文匯網	https://www.wenweipo.com/a/202606/02/AP6a1e76f9e4b0b49ad1bdb8ff.html	開戰衝突
 2026-05-27	哈馬斯新任軍事領導人被打死	https://www.hkcd.com.hk/hkcdweb/content/2026/05/27/content_8756907.html	未分類
 2026-05-26	大國外交｜巴基斯坦列車遭自殺式炸彈襲擊逾百死傷 中方指支持巴方打擊恐怖主義	https://news.tvb.com/tc/story/63d3735e08629e945df92872/6a14563d5023e5291ff16739/大國外交-大國外交｜巴基斯坦列車遭自殺式炸彈襲擊逾百死傷-中方指支持巴方打擊恐怖主義	開戰衝突
+2026-05-23	俄稱烏無人機襲擊盧甘斯克學校已致10死38傷	https://www.tkww.hk/a/202605/23/AP6a116a52e4b04773b06e9672.html	未分類
 2026-05-22	沒有奇蹟！手機被魚吞肚8個月 盛大辦「開機」儀式確定陣亡	https://www.4gtv.tv/article/2026052206000027	未分類
+2026-05-15	基輔遭空襲至少12人亡 澤連斯基下令軍方作回應	https://hk.on.cc/hk/bkn/cnt/intnews/20260515/bkn-20260515040404185-0515_00992_001.html	開戰衝突
 2026-05-15	以色列續空襲黎巴嫩多地 至少20死	https://www.dotdotnews.com/a/202605/15/AP6a067435e4b09ea233155bb8.html	開戰衝突
+2026-05-14	俄大規模空襲基輔 1死33傷18棟公寓被摧毀	https://www.ntdtv.com/b5/2026/05/14/a104096757.html	開戰衝突
 2026-05-14	以黎新一輪直接談判今日在華盛頓開啟，邊境衝突持續升級	https://www.rfi.fr/tw/國際/20260514-以黎新一輪直接談判今日在華盛頓開啟，邊境衝突持續升級	開戰衝突
 2026-05-12	洗臉愈用力愈乾淨？醫師曝：這舉動根本是「自殺式洗臉」	https://www.ettoday.net/news/20260512/3146000.htm	開戰衝突
 2026-05-09	陸男泰國出車禍被發現囤大批軍火「找警買槍」 鬆口想發動自殺式攻擊	https://news.pchome.com.tw/internation/crwant/20260509/index-77832087409873316011.html	開戰衝突
 2026-05-09	芭堤雅中國人家藏重軍火 聲稱謀發動自殺式襲擊 (17:37) - 20260509 - 國際	https://news.mingpao.com/ins/國際/article/20260509/s00005/1778319483351/芭堤雅中國人家藏重軍火-聲稱謀發動自殺式襲擊	開戰衝突
+2026-05-09	中東戰爭或導致通脹糧食價格升 葉劉：政府應評估長遠影響	https://hk.on.cc/hk/bkn/cnt/news/20260509/bkn-20260509133542495-0509_00822_001.html	未分類
 2026-05-09	2026年普立茲攝影獎：癌末父親向新生女兒告別與加沙戰火	https://theinitium.com/20260509-photo-pulitzer-prize/	未分類
+2026-05-07	五四特輯——《中國青年》封面上的老電影《年青的一代》《青年魯班》《我們村裏的年輕人》《戰火中的青春》 《小字輩》……	http://www.uschinews.com/static/content/YLXW/2026-05-07/1502112395697459200.html	未分類
 2026-05-05	七國參與美菲聯合軍演 規模空前 中共緊張	https://hk.epochtimes.com/news/2026-05-05/27582422	軍演動員
+2026-05-03	民眾入侵平交道死傷！台鐵新豐＝湖口西正線不通 影響600人	https://news.pchome.com.tw/society/ctinews/20260503/index-77781804058689309002.html	開戰衝突
 2026-05-01	疑似伊朗自殺式無人機突襲科威特美軍基地	https://www.ntdtv.com/b5/2026/05/01/a104092348.html	開戰衝突
+2026-04-30	伊朗戰火延燒！荷姆茲海峽封鎖引爆全球「滯脹」危機	https://www.4gtv.tv/article/2026043012000018	未分類
 2026-04-29	烏克蘭外長：將召見以色列大使，就糧食爭端提出抗議	https://www.flamingwheels.online/m/20260429/146834.htm	未分類
+2026-04-28	以色列襲擊黎巴嫩致兩名巴西公民死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/04/28/content_8752373.html	未分類
 2026-04-26	馬里國防部長在自殺式汽車炸彈襲擊中喪生	https://www.rfi.fr/tw/非洲/20260426-馬里國防部長在自殺式汽車炸彈襲擊中喪生	開戰衝突
 2026-04-25	以軍空襲加薩多地 至少12人亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260425/bkn-20260425070029957-0425_00992_001.html	開戰衝突
 2026-04-24	10國聯合警告中共建大型惡意網絡入侵	https://www.ntdtv.com/b5/2026/04/24/a104089858.html	開戰衝突
 2026-04-21	華人教授：伊朗在2026年戰爭中的三大昏招	https://www.ntdtv.com/b5/2026/04/21/a104088992.html	未分類
 2026-04-21	伊朗戰爭嚴重衝擊亞太國家，危機或將迅速蔓延全球- 紐約時報中文網	https://cn.nytimes.com/asia-pacific/20260421/asia-pacific-iran-war-oil/zh-hant/	未分類
+2026-04-20	黎巴嫩耶穌像遭以兵擊毀，以色列軍方啟動刑事調查	https://www.singtaousa.com/2026/04/20/news/world/israeli-army-to-launch-criminal-investigation-after-soldier-strikes-jesus-statue-in-lebanon/	未分類
 2026-04-15	施洛「自殺式排陣」成罪魁禍首 聞到魷魚香	https://hk.on.cc/hk/bkn/cnt/sport/20260415/bkn-20260415100256961-0415_00882_001.html	開戰衝突
+2026-04-15	以色列襲擊黎巴嫩已致2124人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202604/15/AP69dec428e4b0b49ad1b6e96e.html	未分類
 2026-04-14	美以襲擊致逾3千平民死亡 伊朗要求中東5國賠償戰爭損失	https://hk.on.cc/hk/bkn/cnt/intnews/20260414/bkn-20260414110530896-0414_00992_001.html	未分類
 2026-04-14	烏克蘭控俄國違反復活節停火 1平民亡、4戰俘遭槍殺	https://money.udn.com/money/story/5599/9439418?from=edn_related_storybottom	未分類
+2026-04-10	美以空襲受重傷 伊朗前外長哈拉齊不治亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260410/bkn-20260410150145606-0410_00992_001.html	開戰衝突
 2026-04-10	中東戰火揭中共能源死穴 國際能源專家聶森獨家解析	https://www.ntdtv.com/b5/2026/04/10/a104085085.html	未分類
 2026-04-09	（有片）以色列空襲致254死黎巴嫩宣布4·9為全國哀悼日- 國際	https://www.dotdotnews.com/a/202604/09/AP69d6eea9e4b09ea23311e381.html	開戰衝突
 2026-04-09	玄戰｜GM蒙面登場被秒認！與Sophie甜蜜互動「自殺式」放閃	https://www.nmplus.hk/entertainment/%E7%8E%84%E6%88%B0-%E6%9B%BE%E5%B1%95%E6%9C%9B-sophie-1654798/	開戰衝突
 2026-04-09	伊朗稱美國空襲致18死142 傷兩國敵對行動升級	https://www.bastillepost.com/hongkong/article/16700723-%E4%BC%8A%E6%9C%97%E7%A8%B1%E7%BE%8E%E5%9C%8B%E7%A9%BA%E8%A5%B2%E8%87%B418%E6%AD%BB142%E5%82%B7-%E5%85%A9%E5%9C%8B%E6%95%B5%E5%B0%8D%E8%A1%8C%E5%8B%95%E5%8D%87%E7%B4%9A	開戰衝突
 2026-04-07	《末世狂沙》(Sirât)：導演唔衰戰爭衰| 黃嘉瀛 - 虛詞 p-articles	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IeTRucVY0MGZTOTZtMTZBaUtOcmtNeVo0WEt2LVlRektMV2xBUU1RS2lCYzQ4bVJzMTdQMEFxWVlnUHlGT21uN2xJcW91LXRjNXc?oc=5	未分類
 2026-04-04	伊朗疑利用華企獲得零件 重建自殺式無人機隊	https://hk.on.cc/hk/bkn/cnt/news/20260404/bkn-20260404120046526-0404_00822_001.html	開戰衝突
+2026-04-03	美情報公司：伊朗藉中港企獲取無人機零件	https://www.ntdtv.com/b5/2026/04/03/a104082818.html/amp	未分類
 2026-04-03	失明難民遭美國邊巡隊遺棄街頭 死於低溫脫水併發症法醫裁定「他殺」	https://www.singtao.ca/7464128/2026-04-02/news-失明難民遭美國邊巡隊遺棄街頭++死於低溫脫水併發症法醫裁定「他殺」/	難民人道
 2026-04-02	【財經簡訊】美軍自殺式無人機Lucas 單價最低1萬美元	https://www.ntdtv.com/b5/2026/04/02/a104082466.html/amp	開戰衝突
 2026-03-31	《豆腐媽媽-EP70精彩片段》毒媽宣戰 打死不分？	https://www.4gtv.tv/article/2026033104000015	開戰衝突
@@ -840,7 +827,10 @@ var DATA_WAR = `
 2026-03-15	獨家影音／接軌現代作戰! 來第一視角直擊陸軍FPV 無人機攻擊訓練	https://www.msn.com/zh-tw/news/national/戰略這盤局-獨家影音-接軌現代作戰-來第一視角直擊陸軍fpv無人機攻擊訓練/ar-AA1WEzaj	未分類
 2026-03-14	猶太教堂槍手4親人 日前死於以色列空襲	https://www.singtaousa.com/2026/03/14/news/usa/synagogue-shooter-family-killed-israeli-airstrike/	開戰衝突
 2026-03-13	有片｜屯門掃管笏Tesla追尾撼巴士 欲超車疑被「封位」 網民：自殺式	https://www.singtao.ca/7444145/2026-03-13/news-有片｜屯門掃管笏Tesla追尾撼巴士	開戰衝突
+2026-03-13	以色列襲擊黎巴嫩死亡人數升至687人 婦女兒童及醫護是主要受害者	https://hkcd.com/hkcdweb/content/2026/03/13/content_8744667.html	未分類
+2026-03-12	以色列持續襲擊黎巴嫩已致634人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/12/AP69b22dc5e4b04d7d56d7fec5.html	未分類
 2026-03-12	中東戰火重創歐洲經濟 歐元區活動降至兩年半低點 衰退風險急劇上升	https://hk.finance.yahoo.com/news/中東戰火重創歐洲經濟-歐元區活動降至兩年半低點-衰退風險急劇上升-122003459.html	未分類
+2026-03-10	藍明徵召李四川 環保蟑螂弟再爆垃圾運毒2／李賜福環保蟑螂爭議擴大 李四川：弟弟應負起法律責任	https://mnews.tw/story/amp/20260310sot1200006	未分類
 2026-03-09	以軍空襲加沙造成3 死有目擊者憶述恐慌場面	https://www.bastillepost.com/hongkong/article/16695306-%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E5%8A%A0%E6%B2%99%E9%80%A0%E6%88%903%E6%AD%BB-%E6%9C%89%E7%9B%AE%E6%93%8A%E8%80%85%E6%86%B6%E8%BF%B0%E6%81%90%E6%85%8C%E5%A0%B4%E9%9D%A2	開戰衝突
 2026-03-08	黎巴嫩貝魯特一酒店遭以色列空襲 4人亡10傷 (12:46) - 20260308 - 國際	https://news.mingpao.com/ins/國際/article/20260308/s00005/1772936409705/黎巴嫩貝魯特一酒店遭以色列空襲-4人亡10傷	開戰衝突
 2026-03-07	伊朗局勢｜武器大晒冷？伊朗發布無人機軍火庫影片 美證實首出動LUCAS新型自殺式無人機	https://www.singtao.ca/7436081/2026-03-05/news-伊朗局勢｜武器大晒冷？伊發射超重型導彈襲以色列+美證實首出動新型自殺式無人機/?variant=zh-hk	開戰衝突
@@ -848,9 +838,10 @@ var DATA_WAR = `
 2026-03-06	伊朗局勢｜武器大晒冷？伊朗發布無人機軍火庫影片 美證實首出動LUCAS新型自殺式無人機	https://std.stheadline.com/realtime-world/3550221/伊朗局勢武器大晒冷伊朗發布無人機軍火庫影片-美證實首出動LUCAS新型自殺式無人機	開戰衝突
 2026-03-05	（有片）伊朗首次使用最快自殺式無人機- 國際	https://www.dotdotnews.com/a/202603/05/AP69a953c9e4b0c32d4f6acc55.html	開戰衝突
 2026-03-05	伊朗局勢｜武器大晒冷？伊朗發布無人機軍火庫影片 美證實首出動LUCAS新型自殺式無人機	https://www.singtao.ca/7436081/2026-03-05/news-伊朗局勢｜武器大晒冷？伊朗發布無人機軍火庫影片+美證實首出動LUCAS新型自殺式無人機/	開戰衝突
+2026-03-02	應急救援專家介紹空襲緊急避險與自救	https://www.wenweipo.com/a/202603/02/AP69a4a8bce4b04d7d56d5ef15.html	開戰衝突
 2026-03-02	德黑蘭再次傳出爆炸聲以軍表示空襲伊朗數十個軍事指揮中心	https://hk.finance.yahoo.com/news/德黑蘭再次傳出爆炸聲-以軍表示空襲伊朗數十個軍事指揮中心-224334792.html	開戰衝突
 2026-03-02	台灣驚現超可怕芫茜邪教派對？入侵啤酒雪糕蛋糕全都是芫茜 討厭「茜味」原來與基因有關？	https://news.google.com/rss/articles/CBMimARBVV95cUxQeVhkclFHdThmSXNNVUptX0hha3BPejRvV3o5QU04anQ0STNqRk04cHRteEVOSUpPSlNuVG5PSE1ENWlUNmlRVnJOOTdBMFRiQjQ2ekN2OEp2Qk1GN04xN2d6ejhJczdFY2x0dmNyb0EyeUo4TnpfUWJ0MDZvcVhLdGNfbk5qaDdqNFJKOTh4U0xPZkpGajF5SkFWRHctaWQ5bHNGVUtyVUxNX3lROUZUZDJvX0lPWlV2QUhaVWlOZkNJcWF3QW9vWFFiOXF4NjlyTVBzNnVEdXpWcExUa0tRN2xwUm5GNEJrRlJub1pFU2VKV3doYTNQSGV4c1FUdS1vRDlRcmYxYVVWLVlveDZ4SjhES01ub3hrZ0N3Nl9tc2MzWFF3b2gxSFAwNGc5eTd0aU12dE1lUm5JYTdfcGJVWlVFVjI5d29PQU14c3ZaVE9EaU90VFhpUVBCUnNfZHU2clNweERVN1pmSlgzMkVBVUh4VVNrTkN1bXl1NnBHNjRxQnhfZlV5T2Jac2JtWXczZ2lydGVsRWxEMHFXUmUzZ0QzM0pWRVZBMmZaSncyV3NKWElNRlY1eGdMRG05Smk3N2c5QnVhRUcwbWR6NG5UU0k3WDVoRnJ0VmZzbS1RYVhER25tOTBlaDI2LXZyWHdlVV9zTDZzSV96ZnNVOTBVMG1ZNVZYdFZTU0tkQnJFa2hRLUxiS1RKVQ?oc=5	開戰衝突
-2026-03-02	伊朗領袖遇襲亡 繼位成謎 中東陷全面戰爭邊緣	https://www.singtaousa.com/2026/3/02/news/usa/news-iran-strikes-khamenei-killed-regional-war-oil-prices/	未分類
+2026-03-02	伊朗領袖遇襲亡 繼位成謎 中東陷全面戰爭邊緣	https://www.singtaousa.com/2026/03/02/news/usa/news-iran-strikes-khamenei-killed-regional-war-oil-prices/	未分類
 2026-03-02	伊朗多位軍事指揮官確認死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/03/02/content_8742279.html	未分類
 2026-03-02	中東局勢驟然緊張 衝突升級可能性很大——專訪寧夏大學學術副校長、中國阿拉伯國家研究院執行院長牛新春	https://hkcd.com/hkcdweb/content/2026/03/02/content_8742364.html	未分類
 2026-03-01	美國對伊朗宣戰 各國領導人怎麼看	https://hk.epochtimes.com/news/2026-03-01/70638281	開戰衝突
@@ -858,16 +849,21 @@ var DATA_WAR = `
 2026-02-28	當地時間2026年2月28日，美國與以色列聯合對伊朗發動大規模空襲，德黑蘭多處核心設施遭打擊，美伊衝突正式升級為直接軍事對抗。這場戰爭終局只會落在兩個極端之間：伊朗...	https://n.kinliu.hk/kinliunviews/%E7%BE%8E%E5%9C%8B%E7%82%B8%E6%AD%BB%E4%BA%86%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96-%E4%B8%AD%E5%9C%8B%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D%EF%BC%9F-%E6%96%87%EF%BC%9A%E6%82%A0/	開戰衝突
 2026-02-27	傳美軍首支自殺式無人機隊就緒 可參與打擊伊朗	https://hk.on.cc/hk/bkn/cnt/intnews/20260227/bkn-20260227111216067-0227_00992_001.html	開戰衝突
 2026-02-26	伊朗戰爭恐懼擴散，“要準備兩週的糧食！”	https://www.donga.com/tw/article/all/20260226/6116128/1	未分類
+2026-02-26	中共黑客網絡十年入侵42國53機構谷歌出手攔截	https://www.ntdtv.com/b5/2026/02/26/a104070497.html	開戰衝突
 2026-02-25	美籍快艇在古巴海域交火4死 盧比奧令調查 OK 美籍快艇在古巴海域交火4死 盧比奧令調查 | 新唐人电视台 0.83	https://www.ntdtv.com/b5/2026/02/26/a104070560.html	開戰衝突
 2026-02-25	法國世界報 - 信息迷霧戰：俄烏戰爭到底死了多少人？ 天災 —	https://www.rfi.fr/tw/專欄檢索/法國世界報/20260225-信息迷霧戰-俄烏戰爭到底死了多少人	未分類
 2026-02-25	古巴稱美國快艇擅闖領海爆槍戰 釀4死7傷 魯比奧稱不尋常、會獨立核查 治安 古巴稱美國快艇擅闖領海爆槍戰 釀4死7傷 魯比奧稱不尋常、會獨立核查 - 有線寬頻 i-CABLE 0.80	https://www.i-cable.com/新聞資訊/441571/古巴稱美國快艇擅闖領海爆槍戰-釀4死7傷-魯比奧	未分類
 2026-02-25	古巴指美快艇闖領海爆發槍戰致4死6傷 治安 古巴指美快艇闖領海爆發槍戰致4死6傷 1.00	https://www.hkcna.hk/h5/docDetail.jsp?id=101251288&channel=2810	未分類
 2026-02-25	古巴指有美國註冊快艇非法闖入領海及開火 船員4死6傷 | 无线新闻TVB News OK 古巴指有美國註冊快艇非法闖入領海及開火 船員4死6傷 | 无线新闻TVB News 0.52	https://news.tvb.com/sc/world/699f8cc6f3bac3b7e4cbca14/国际-古巴指有美國註冊快艇闖入領海開火釀四死-美方稱關注事態發展	未分類
 2026-02-23	美俄條約終止！普丁：發展核武絕對優先 強化所有軍種	https://www.ettoday.net/news/20260223/3121801.htm	核威脅
+2026-02-23	以無視停火協議 轟炸黎真主黨據點10死	https://www.tkww.hk/a/202602/23/AP699b993ee4b04773b069ba51.html	開戰衝突
 2026-02-14	頭盔哀悼戰亡運動員「遭冬奧禁賽」 烏克蘭選手上訴失敗	https://www.ettoday.net/news/20260214/3119003.htm	軍演動員
+2026-02-11	川普警告！或派第二艘航母到伊朗備戰｜4月訪中替黎智英發聲？白宮：此事對川普很重要｜台軍購預算未通過 賴清德：恐讓台灣跌出美優先名單｜冬季奧運 FPV無人機緊跟選手｜20260211(三)｜新唐人電視台	https://www.bannedbook.org/bnews/zh-tw/bannedvideo/20260211/2286385.html	未分類
+2026-02-11	世界糧食計劃署位於蘇丹南部一倉庫遭無人機襲擊- 國際 - 香港文匯網	https://www.wenweipo.com/a/202602/11/AP698ca4a1e4b04d7d56d31a36.html	未分類
 2026-02-09	以巴衝突｜以軍空襲加沙至少5死 停火協議有名無實	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/1050619/%E4%BB%A5%E5%B7%B4%E8%A1%9D%E7%AA%81-%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E5%8A%A0%E6%B2%99%E8%87%B3%E5%B0%915%E6%AD%BB-%E5%81%9C%E7%81%AB%E5%8D%94%E8%AD%B0%E6%9C%89%E5%90%8D%E7%84%A1%E5%AF%A6	開戰衝突
 2026-02-07	俄羅斯空襲烏克蘭首都基輔至少兩死十多傷	https://news.rthk.hk/rthk/ch/component/k2/1860716-20260702.htm	開戰衝突
 2026-02-04	無人機界豐田Corolla：美軍自殺式無人機Lucas 單價最低1萬美元	https://money.udn.com/money/amp/story/5599/9418034	開戰衝突
+2026-02-01	加沙停火協議名存實亡？以軍空襲釀逾30死 創兩個月新高	https://www.singtaousa.com/2026/02/01/news/world/israeli-strikes-kill-over-30-in-gaza-health-ministry-says-in-deadliest-day-in-months/	開戰衝突
 2026-01-30	（有片）兩港人烏克蘭戰死 鄧炳強：兩人接受軍訓圖日後返港「抗爭」	https://www.tkww.hk/a/202601/30/AP697cb5ffe4b0aa6cbcd3d27a.html	未分類
 2026-01-30	特斯拉正走向「汽車自殺式轉型」？押注機器人致使造車業務邊緣化	https://news.pchome.com.tw/science/technice/20260130/index-76976999395596338005.html	開戰衝突
 2026-01-29	【名家專欄】「自殺式同理心」與中共混合戰爭	https://www.epochtimes.com/gb/26/1/28/n14686111.htm/amp	開戰衝突
@@ -878,7 +874,9 @@ var DATA_WAR = `
 2026-01-14	當脆弱心靈遇上愛的轟炸──為何具「致命吸引力」的膜拜團體無處不在？	https://news.google.com/rss/articles/CBMifEFVX3lxTFA3NEd6bldwYWxRbG11Tjd4bE5BMWpycklPMnA2Rl8zNHEza2J6MV85STBzcW50NS1PZVVINEprbFVLSkpSWkFNSzRENnB6aGtCVlJmcGRqWlhIbklTYjQyUExKZk5UZFg4dnBTbDRMeHItUjI3TGZWcWIydE4?oc=5	開戰衝突
 2026-01-12	濟州空難179死！5萬鳥群自殺式襲擊 黑盒子曝機師最後「痛苦悶哼聲」		開戰衝突
 2026-01-11	伊朗抗議死亡恐逾500 川普評估軍事介入方案	https://www.ntdtv.com/b5/2026/01/11/a104055621.html	未分類
+2026-01-10	以軍空襲加沙13死第一階段停火協議瀕危- 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/10/AP696163f1e4b069b7ebf7b6c8.html	開戰衝突
 2026-01-07	以色列反徵兵示威釀悲劇 18歲少年遭巴士輾斃		軍演動員
+2026-01-06	32名古巴軍人壯烈戰死，倒在了馬杜羅身前，瓦格納反而不見人影	https://beyondnews852.com/20260106/229921/	未分類
 2025-12-10	泰柬邊境衝突增至10死 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202512/10/AP69388174e4b034585feb9821.html	開戰衝突
 2025-12-09	泰柬邊境衝突已致7人死18人傷	https://www.hkcd.com.hk/hkcdweb/content/2025/12/09/content_8729635.html	開戰衝突
 2025-12-09	泰柬再爆邊境衝突共5死 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202512/09/AP69373333e4b0c81e12ec9d9e.html	開戰衝突
@@ -887,6 +885,7 @@ var DATA_WAR = `
 2025-10-14	參加加沙停火談判卡塔爾代表團遭遇車禍 至少3死3傷		未分類
 2025-09-27	颱風樺加沙｜柴灣墮海家庭父已出院母轉穩定 兒子情況仍嚴重（更新） ｜ am730	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E9%A2%B1%E9%A2%A8%E6%A8%BA%E5%8A%A0%E6%B2%99-%E6%9F%B4%E7%81%A3%E8%A7%80%E6%B5%AA%E5%A2%AE%E6%B5%B7%E5%AE%B6%E5%BA%AD-38%E6%AD%B2%E6%AF%8D%E7%94%B1%E5%8D%B1%E6%AE%86%E8%BD%89%E7%82%BA%E5%9A%B4%E9%87%8D-%E6%9B%B4%E6%96%B0-/602070	未分類
 2025-09-27	颱風樺加沙︱柴灣一家四口觀浪3墮海 父開裝修公司子女乖巧	https://www.singtaousa.com/2025-09-24/%E9%A2%B1%E9%A2%A8%E6%A8%BA%E5%8A%A0%E6%B2%99%EF%B8%B1%E6%9F%B4%E7%81%A3%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E8%A7%80%E6%B5%AA3%E5%A2%AE%E6%B5%B7-%E7%88%B6%E9%96%8B%E8%A3%9D%E4%BF%AE%E5%85%AC%E5%8F%B8/5338850	未分類
+2025-09-24	颱風樺加沙︱柴灣一家四口觀浪3墮海 父開裝修公司子女乖巧	https://www.singtaousa.com/2025-09-24/颱風樺加沙︱柴灣一家四口觀浪3墮海-父開裝修公司/5338850	未分類
 2025-09-23	颱風樺加沙｜鯉魚門居民加緊防風六旬漢疑修理簷蓬渠道墮下送院		未分類
 2025-09-23	颱風樺加沙｜天文台今午2時20分改發八號風球 必讀勞工處打風工作安排8大Q&A		未分類
 2025-09-18	加沙城遭以軍猛攻 內塔尼亞胡建「大以色列」是作法自斃	https://www.hk01.com/article/60277713?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -920,11 +919,11 @@ var DATA_WAR = `
 2023-12-28	巴以衝突/戰爭反噬 以或有3萬家企業倒閉	https://www.tkww.hk/epaper/view/newsDetail/1740076088685629440.html	未分類
 2023-12-19	伊朗半數加油站服務中斷 當局指遭黑客攻擊疑涉美國以色列	https://www.hk01.com/article/972849?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-10-10	來稿｜哈馬斯聖殿山洪水軍事行動與《奧斯陸協議》30週年	https://news.google.com/rss/articles/CBMi7AJBVV95cUxPaW5DS2g3aVBWeklTZXhHanJodHRNa3NLTk50V3lRNDdsNmhTMkxrQktTYkhuTW40ZUc4Z0FNdWR4UnFXNUYwT2ZLWnJYbzhlem5uTDhfNUs5OENDV3ZZLUJncFlNTEpsOXM2S2hmeE55NUtaNUFsM1FKZWtRWHNueUFjZXpRR3BUUDB2bVZDUHNrTmc1RUgwQ3JtNFFpNmNkWmx5UGRkbUNtQ1VVajh2bnFyci1laGxGbVp2MnREdHVXOFRtRlV5cnVpaDUxTTNVY1hSZzd3Qi1yUU1RMldLTmVZQ0FUUUJEa1Bua3I1dDJ4aHFQelZjRWZyU0RSQzVfVExjdTJiVEdXSmJrVG1kNjg5UUthSVlrS1lYX2Q5b0pvcnhheF9OU1Y4ZkJFZjc3WmtlMEVzSEZjMGN4b1E0bTNzMVRybDFoampsRkxFeVVDUWJiT29qTXlZU2tVc0RNRHRNSGtnREdkVUhV?oc=5	未分類
-2023-01-05	279名美國運動員接種COVID疫苗後猝死 ｜ Covid-19疫苗 ｜ 疫苗猝死 ｜ 運動員猝死 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/05/a103617907.html	軍演動員
 2023-04-11	以巴戰爭加速中東「去美國化」 美國全球戰略恐崩盤	https://www.hk01.com/article/958213?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-04-01	(緬甸軍政府轟炸點燈節展示威力 40死)	https://www.chinatimes.com/realtimenews/20230104004844-260402?ctrack=pc_main_rtime_p01&chdtv	開戰衝突
 2023-03-14	矽銀倒閉並非最大黑天鵝？ 美國財政部原先預測能維持到今年8月，但進一步細算後，發現只能維持到今年6月至7月，如果美債上限無法提高，恐對全球金融造成災難性影響。若觀察美國目前的政治生態，兩黨對立的程度恐怕只僅次於1860年代的南北戰爭	https://today.line.me/tw/v2/article/3NqjZKP	未分類
 2023-02-25	俄烏戰爭一週年 世界經濟發生這些巨大變化(圖)	https://m.secretchina.com/news/b5/2023/02/25/1029757.html	未分類
+2023-01-05	279名美國運動員接種COVID疫苗後猝死 ｜ Covid-19疫苗 ｜ 疫苗猝死 ｜ 運動員猝死 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/05/a103617907.html	軍演動員
 2022-12-02	民主派逾2000戰士陣亡 促國際軍事援助 conflict	https://hk.on.cc/hk/bkn/cnt/intnews/20221202/bkn-20221202180308090-1202_00992_001.html	未分類
 2022-11-27	英國防部：俄羅斯導彈庫存將耗盡 用移除核彈頭導彈襲擊烏克蘭 conflict	https://www.hk01.com/article/840967?utm_source=01articlecopy&utm_medium=referral	開戰衝突
 2022-11-27	烏克蘭赫爾松續遭炮擊至少32人亡 全國600萬人仍斷電 conflict	https://www.hk01.com/article/840934?utm_source=01articlecopy&utm_medium=referral	開戰衝突
@@ -972,4 +971,5 @@ var DATA_WAR = `
 2022-08-06	以空襲加薩 巴武裝組織司令喪生 conflict	https://hk.on.cc/hk/bkn/cnt/intnews/20220806/bkn-20220806021525077-0806_00992_001.html	開戰衝突
 2022-08-04	台海軍演｜解放軍環繞台灣軍演 軍事專家：把台獨死死困在島內 conflict	https://www.hk01.com/sns/article/800104	軍演動員
 2022-07-31	山火一夜蔓延逾三萬畝 西斯基尤縣進緊急狀態 fire	https://www.singtaousa.com/2022-07-31/%e5%b1%b1%e7%81%ab%e4%b8%80%e5%a4%9c%e8%94%93%e5%bb%b6%e9%80%be%e4%b8%89%e8%90%ac%e7%95%9d%e8%a5%bf%e6%96%af%e5%9f%ba%e5%b0%a4%e7%b8%a3%e9%80%b2%e7%b7%8a%e6%80%a5%e7%8b%80%e6%85%8b/4199128	未分類
-2015-11-22	伊朗兵棋推演「佔領以色列聖殿山」 糗將兩大地標清真寺搞混 | 簡嘉宏 | 新聞	https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xWEk4TXliUHVXSWtYU1ZVZ2ViRDVqRkZJRkRuTFgwbU00LUM3YUt3cjRpR1Y0M3d1LWcwWERRMnhNQkVnV2dDUk53?oc=5	未分類`;
+2015-11-22	伊朗兵棋推演「佔領以色列聖殿山」 糗將兩大地標清真寺搞混 | 簡嘉宏 | 新聞	https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xWEk4TXliUHVXSWtYU1ZVZ2ViRDVqRkZJRkRuTFgwbU00LUM3YUt3cjRpR1Y0M3d1LWcwWERRMnhNQkVnV2dDUk53?oc=5	未分類
+`;
