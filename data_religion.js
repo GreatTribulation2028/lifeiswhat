@@ -1,18 +1,18 @@
 // 宗教 | 由 build_news_js.py 生成 | 共 55 條
 var DATA_RELIGION = `
 2026-09-30	宗教詐騙披靈性外衣 資深媒體人揭警訊辨識邪教pua	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xMXdlYWpsZ01fbkpyMExnS0dxUVBhSzh6TmxObjlTeThSQldCOWJEVm1kcktVU09NeWhLWjJaVl91a3dlTkxTQWFFUEtIN09MWjBhVGw1aTd3RjlhOVU1eTdCNy1nZ9IBa0FVX3lxTE1uSXkwcUNGTGc5QjZxOTF5Vk4xY1k0Nmp4MTVBbU9vcnRHTWkwcFNIR1NnbVBBaG8zUjU2Z3FMQU5oblBXN3QzOG9ScG5XSWtHS2RhUzRtcDZCa0dpSDBDaUp3a3hyZ1Rfbzg0?oc=5	未分類
-2026-09-29	華爾街早報：英偉達救回AI信仰，通脹又把降息夢按住，糧食危機暗線升溫	https://www.panewslab.com/zh-hant/articles/01a0418a-83cb-76aa-996b-64f22f62e76d	未分類
+2026-08-27	華爾街早報：英偉達救回AI信仰，通脹又把降息夢按住，糧食危機暗線升溫	https://www.panewslab.com/zh-hant/articles/01a0418a-83cb-76aa-996b-64f22f62e76d	未分類
 2026-09-29	極權下的福音奇蹟：伊朗女孩藉AI讓信仰逼迫地區認識耶穌	https://www.gospelherald.com/news/qmau8szu6rvg	未分類
-2026-09-29	李盛林牧師離世｜阿Mo兄長：父以血肉之軀建堤壩助家人擋洪水	https://www.hk01.com/article/60346242	未分類
+2026-05-03	李盛林牧師離世｜阿Mo兄長：父以血肉之軀建堤壩助家人擋洪水	https://www.hk01.com/article/60346242	未分類
 2026-09-29	末世預言警訊？以色列預演紅母牛儀式，迎第三聖殿序曲	https://cdn-news.org/news/N2507150001?openExternalBrowser=1	未分類
 2026-09-29	尼日利亞基督徒迫害加劇 百萬婦女發起全球禱告運動	https://www.gospelherald.com/news/c3kevtva9hok	未分類
 2026-09-29	宏福苑火災累計156死 教會持續禱告紀念 各方行動支援	https://www.gospelherald.com.hk/news/kuyl0wwiuq6o	未分類
-2026-09-29	印尼魯滕教區主教：天主將在地震的黑暗中帶來新的曙光- 梵蒂岡新聞網	https://www.vaticannews.va/zht/church/news/2026-08/caritas-indonesia-mobilizes-in-response-to-flores-earthquake.html	未分類
+2026-08-17	印尼魯滕教區主教：天主將在地震的黑暗中帶來新的曙光- 梵蒂岡新聞網	https://www.vaticannews.va/zht/church/news/2026-08/caritas-indonesia-mobilizes-in-response-to-flores-earthquake.html	未分類
 2026-09-29	以色列建第三聖殿與敵基督出現	https://cdn-news.org/news/11414	未分類
-2026-09-29	以色列展開心理戰！ 伊朗宗教應用程式遭駭 呼籲武裝部隊投降	https://www.ftnn.com.tw/news/526686	未分類
+2026-03-02	以色列展開心理戰！ 伊朗宗教應用程式遭駭 呼籲武裝部隊投降	https://www.ftnn.com.tw/news/526686	未分類
 2026-09-29	主再來近了？就等紅母牛長大，專家估：2024年可迎來第三聖殿的建造	https://cdn-news.org/news/N2303300008	未分類
-2026-09-29	【名家專欄】反擊伊朗和中共宗教狂熱分子	https://www.epochtimes.com/b5/26/7/24/n14816736.htm	未分類
-2026-09-29	9大國運籤一次看！好壞摻半 神明示警「謹慎行事防天災地變」	https://udn.com/news/amp/story/7268/9340821	未分類
+2026-07-24	【名家專欄】反擊伊朗和中共宗教狂熱分子	https://www.epochtimes.com/b5/26/7/24/n14816736.htm	未分類
+2026-02-24	9大國運籤一次看！好壞摻半 神明示警「謹慎行事防天災地變」	https://udn.com/news/amp/story/7268/9340821	未分類
 2026-09-21	德國主流教會衰落 自由福音派受洗人數逆勢暴增76%	https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VVHJ2cGZKS0hWeXpTVVdEbEJkUjRxR3JfSkpXM29JY2xfNHEzektCeFJqY0VoQlZia3lWYk1kb2hIN3BXSVZHbEh3Q1JQSEItTWswaWRjY1k2QQ?oc=5	未分類
 2026-07-19	2026-07-19 - TICBC 主日崇拜講道高清重播- 俄巴底亞書主日講道系列：袖手旁觀的不信者(CC/含字幕	https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LQklQMFJCd1p1OHJBazk1ZjRJWlRQSXNjZ1psZWEwX0ljNERDWGlhbG5iZWRocE1jUC1qRWIwUW1aRkJ2a0RWMA?oc=5	未分類
 2026-07-08	AI是「敵基督」嗎？葉晨星博士：如何在科技浪潮中持守信仰	https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qS0hSeUlsa2E4WFB3UkRXSUkzVW1EalZIQXRMUmlCWm1TX2lra25fMjVLR0xSc0FRdXJWQjNGOFdfNnZXdVMtSUp0VFZyc3ItNkNINnUxNUNLdw?oc=5	未分類
