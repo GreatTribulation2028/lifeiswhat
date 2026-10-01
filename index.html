@@ -37,14 +37,20 @@
    scroll-padding-top 令 scrollIntoView / :target 自動預留頂欄高度。 */
 html{scroll-behavior:smooth;scrollbar-width:none;scroll-padding-top:80px}
 html::-webkit-scrollbar{display:none}
-body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:19px;line-height:2.1;overflow-x:hidden;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+body{background:var(--bg);color:var(--text);font-family:var(--f-body);font-size:19px;line-height:2.1;overflow-x:hidden;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;
+  /* ★ 2026-10-01：.top-bar 係 position:fixed;top:2px;height:44px（佔 0-46px），
+     原本 body 冇 padding-top，令 .catnav 嘅標題被頂欄遮住。
+     呢度補 58px（44+2+12 留白），確保第一屏內容唔會被蓋。 */
+  padding-top:58px}
 a{color:var(--accent);text-decoration:none;transition:all .3s}
 a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 #bg-canvas{position:fixed;inset:0;z-index:0;pointer-events:none}
 #scroll-progress{position:fixed;top:0;left:0;height:2px;background:linear-gradient(90deg,var(--sudden),var(--gold));z-index:9999;width:0%;transition:width .1s}
 .top-bar{position:fixed;top:2px;left:0;right:0;height:44px;z-index:1000;background:rgba(6,10,18,.9);backdrop-filter:blur(10px);display:flex;align-items:center;justify-content:space-between;padding:0 16px}
 .tb-counter{font-family:var(--f-mono);font-size:13px;color:var(--text-dim);display:flex;align-items:center;gap:6px}
-.tb-counter .cv{color:var(--sudden);font-family:var(--f-head);font-size:16px;min-width:30px}
+.tb-counter .cv{color:var(--sudden);font-family:var(--f-mono),'Share Tech Mono',ui-monospace,monospace;font-size:16px;min-width:30px;
+  /* ★ 2026-10-01：頂欄倒數字用等寬 + tabular-nums，避免跳動時字距不齊 */
+  font-variant-numeric:tabular-nums;font-feature-settings:"tnum" 1;letter-spacing:.5px;font-weight:700}
 .tb-links{display:flex;gap:8px}
 .tb-links a{font-size:11px;color:var(--text-dim);padding:4px 10px;border:1px solid rgba(255,255,255,.08);border-radius:20px;transition:all .3s}
 .tb-links a:hover{border-color:var(--accent);color:var(--accent)}
