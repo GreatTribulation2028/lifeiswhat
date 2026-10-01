@@ -1,5 +1,6 @@
-// 天災 | 由 build_news_js.py 生成 | 共 1275 條
+// 天災 | 由 build_news_js.py 生成 | 共 1276 條
 var DATA_DISASTER = `
+2026-10-01	巴基斯坦稱空襲阿富汗恐怖份子營地 塔利班稱死者包括婦女和兒童	https://news.rthk.hk/rthk/ch/component/k2/1872295-20261001.htm	未分類
 2026-10-01	巴基斯坦對阿富汗發動空襲 至少9死11傷	https://www.ettoday.net/news/20261001/3247067.htm	未分類
 2026-10-01	伊朗稱就戰事問題的提議收到美方回應	https://news.rthk.hk/rthk/ch/component/k2/1872213-20261001.htm	未分類
 2026-09-30	雙颱恐夾擊！彩雲颱風周末生成 跨界颱風緊追在後	https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SS3J4cTJDUVFxRUExX0tJVU1YXzJrYjEwMXFCTHRSTmVNZFJoRzBxdk54TWNWTXVoRDEzSTlubzdDaC1GSnlITF9kT0VjZjB4eWhRaA?oc=5	未分類
