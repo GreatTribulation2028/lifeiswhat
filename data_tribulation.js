@@ -1,33 +1,33 @@
 // 七年大災難 | 由 build_news_js.py 生成 | 共 176 條
 var DATA_TRIBULATION = `
-2026-09-29	黃仁勳駁斥AI末日論 稱2030年發生世界末日的機會是零	https://www.moomoo.com/hant/news/post/76509577	未分類
-2026-09-29	西藏爆270死重大災難！世界第99高峰冰崩 「半座山消失」成浩劫源頭 | 國際 | CTWANT	https://www.ctwant.com/amp/article/495447/	未分類
+2026-09-21	黃仁勳駁斥AI末日論 稱2030年發生世界末日的機會是零	https://www.moomoo.com/hant/news/post/76509577	未分類
+2026-08-27	西藏爆270死重大災難！世界第99高峰冰崩 「半座山消失」成浩劫源頭 | 國際 | CTWANT	https://www.ctwant.com/amp/article/495447/	未分類
 2026-09-29	羅傑斯預言成真?史上最慘烈的金融危機將發生,AI泡沫將被戳破	https://min.news/economy/86d10eb919fd70073d88f1575a4be496.html	未分類
-2026-09-29	矽谷AI加速主義者批大廠「末日論」 指控散播心智病毒謀求壟斷	https://tw.stock.yahoo.com/news/矽谷ai加速主義者批大廠-末日論-指控散播心智病毒謀求壟斷-084309660.html	未分類
+2026-09-22	矽谷AI加速主義者批大廠「末日論」 指控散播心智病毒謀求壟斷	https://tw.stock.yahoo.com/news/矽谷ai加速主義者批大廠-末日論-指控散播心智病毒謀求壟斷-084309660.html	未分類
 2026-09-29	直擊龍捲風撲棚！氣象主播播一半嚇壞「急喊逃命」 末日場景駭人畫面曝	https://www.msn.com/zh-tw/news/other/直擊龍捲風撲棚-氣象主播播一半嚇壞-急喊逃命-末日場景駭人畫面曝/ar-AA1WUhFQ	未分類
 2026-09-29	特朗普料美伊一周內重啟談判 伊外長稱準備好與美開展「末日戰爭」	https://news.google.com/rss/articles/CBMid0FVX3lxTE5Sc2JUQ2lZSHNGalBoY2JEeTlSLVlGXzFtVFRhTW9FS1VMbG5CQlpGOEQxQmp3VG04c042RnNvRlgyMjJBZHNhVHRzazdDSk1QaFNaMDBrRUkxSXNmQjVpa1U3NGROaU9fVWJqMHpOMmtqVGxFMzFZ?oc=5	未分類
 2026-09-29	灣仔返工大災難！早上9點女途人慘食「人肉炮彈」！1死2傷現場極恐怖	https://www.weekendhk.com/矚目話題/灣仔墮樓-飛來橫禍-最新港聞速遞-3422818/	未分類
-2026-09-29	曾精準預言新冠來襲、多項天災 泰國神婆曝下半年6大災難	https://tw.news.yahoo.com/曾精準預言新冠來襲-多項天災-泰國神婆曝下半年6大災難-074300819.html	未分類
-2026-09-29	昆明冰雹如末日来袭？密密麻麻鸡蛋大小 场面吓人	https://www.aboluowang.com/amp/2026/0425/2376357.html	未分類
-2026-09-29	專訪《風林火山》金像獎「最佳服裝造型設計」Uma Wang 與 SoMad，詳細拆解服裝末日美學符碼	https://www.voguehk.com/zh/article/fashion/uma-wang-somad-interview-2026-april-issue/	未分類
-2026-09-29	宛如末日！鹿兒島火山噴發白晝市區秒遭黑暗壟罩| 國際	https://www.setn.com/news/392854	未分類
+2026-07-24	曾精準預言新冠來襲、多項天災 泰國神婆曝下半年6大災難	https://tw.news.yahoo.com/曾精準預言新冠來襲-多項天災-泰國神婆曝下半年6大災難-074300819.html	未分類
+2026-04-25	昆明冰雹如末日来袭？密密麻麻鸡蛋大小 场面吓人	https://www.aboluowang.com/amp/2026/0425/2376357.html	未分類
+2026-04-23	專訪《風林火山》金像獎「最佳服裝造型設計」Uma Wang 與 SoMad，詳細拆解服裝末日美學符碼	https://www.voguehk.com/zh/article/fashion/uma-wang-somad-interview-2026-april-issue/	未分類
+2018-06-16	宛如末日！鹿兒島火山噴發白晝市區秒遭黑暗壟罩| 國際	https://www.setn.com/news/392854	未分類
 2026-09-29	官網變404！「三個200」神話幻滅？電動重機新創 Damon 高層大逃亡，品牌面臨倒閉末日！	https://www.supermoto8.com/articles/17105	未分類
-2026-09-29	卑詩山火酷烈 情侶逃生驚呼：如穿越世界末日	https://www.epochtimes.com/b5/26/8/6/n14824395.htm/amp	未分類
-2026-09-29	再轟AI末日論！黃仁勳：毫無科學依據 嚇人不負責任 2030年世界末日機率為0%	https://hk.finance.yahoo.com/news/再轟ai末日論-黃仁勳-毫無科學依據-嚇人不負責任-2030年世界末日機率為0-000025283.html	未分類
+2026-08-07	卑詩山火酷烈 情侶逃生驚呼：如穿越世界末日	https://www.epochtimes.com/b5/26/8/6/n14824395.htm/amp	未分類
+2026-09-21	再轟AI末日論！黃仁勳：毫無科學依據 嚇人不負責任 2030年世界末日機率為0%	https://hk.finance.yahoo.com/news/再轟ai末日論-黃仁勳-毫無科學依據-嚇人不負責任-2030年世界末日機率為0-000025283.html	未分類
 2026-09-29	人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fU1pnZDVaN1l3bWZiZ05xWEdBX3ZtNHVRMFpmSGdPZEVQQ0UtN0xwWVVJa3RLZHd1NGZCZ3ZiNUZMaHVLNEZMNzFCVnBfYnp4WDRkZDJyVGxaTzNuUnZrNWlQZEJtdHPSAWxBVV95cUxQd3pPejZIRERKSGtqWkRwdVNya2hOaWhqWXVfTmItRlNDM19MejRybnNieS0zUENFdi13TnY3dkVaWWNqSnE0emZiNWhLQzRjbHpHQ1VRZGRkX0ZMazItdXlwdmp2clg4UGxjRFQ?oc=5	未分類
-2026-09-29	【這不是巧合，是正在發生的末世預言】 獸名	https://www.threads.com/@tribulation20271002/post/DcB1Biak3UE	未分類
+2027-10-02	【這不是巧合，是正在發生的末世預言】 獸名	https://www.threads.com/@tribulation20271002/post/DcB1Biak3UE	未分類
 2026-09-29	【末日號角聲專欄】末世趨勢觀察：敵基督現象正在全球快速興起中	https://cdn-news.org/article/C2504230001	未分類
-2026-09-29	【未解之謎】伊朗變天！末日預言應驗！第三聖殿要來了？	https://www.epochtimes.com/b5/26/3/7/n14713277.htm	未分類
+2026-03-07	【未解之謎】伊朗變天！末日預言應驗！第三聖殿要來了？	https://www.epochtimes.com/b5/26/3/7/n14713277.htm	未分類
 2026-09-29	【智商稅定係末日？】OpenAI Astra 變身最強駭客！搵0-day ...	https://www.facebook.com/100064560465105/posts/智商稅定係末日openai-astra-變身最強駭客搵-0-day-漏洞仲勁過人各位巴絲打仲記唔記得之前講過-ai-網絡攻擊今次-openai-真係整咗隻怪物出/1481693040659364/	未分類
 2026-09-29	【7/5末日預言倒數35天】南海海槽大地震「規模恐達東日本大震10倍」日本將退回江戶時代？ 富士山再次噴發「癱瘓基礎設施」受災人數超過一半日本人口？【57爆新聞萬象搜奇】 Jessica Alba (1j5o5qH9Ex)	https://mshale.com/79c9b285/487ea89eeV76TjRRZY4	未分類
-2026-09-29	「黑天鵝」作者警告軟體業恐破產 一篇末日報告又引發AI恐慌交易	https://www.worldjournal.com/wj/story/121208/9341074	未分類
+2026-02-23	「黑天鵝」作者警告軟體業恐破產 一篇末日報告又引發AI恐慌交易	https://www.worldjournal.com/wj/story/121208/9341074	未分類
 2026-09-29	Meta 裁員潮前氛圍如「末日」 前員工揭員工狂塞零食、充電器	https://sunmedia.tw/news/Industry-information/1779005716-Meta 裁員潮前氛圍如「末日」 前員工揭員工狂塞零食、充電器	未分類
-2026-09-29	Dragonfly合夥人：DeFi「駭客末日」並未兌現，2026年被盜金額年化僅18.9億美元| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/dragonfly-defi-hacker-end-not-realized-2026-stolen-189-billion-annualized/	未分類
-2026-09-29	Citrini末日預言 2028爆全球智能危機 美股或挫4成 高薪白領齊失業	https://businessfocus.io/article/349320/ai金融海嘯-citrini-2028末日預言	未分類
-2026-09-29	AI世界末日 我不怕死 | 莫灝楠	https://www.stheadline.com/realtime-finance/3615549/AI世界末日-我不怕死-莫灝楠	未分類
+2026-07-14	Dragonfly合夥人：DeFi「駭客末日」並未兌現，2026年被盜金額年化僅18.9億美元| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/dragonfly-defi-hacker-end-not-realized-2026-stolen-189-billion-annualized/	未分類
+2026-02-24	Citrini末日預言 2028爆全球智能危機 美股或挫4成 高薪白領齊失業	https://businessfocus.io/article/349320/ai金融海嘯-citrini-2028末日預言	未分類
+2026-09-15	AI世界末日 我不怕死 | 莫灝楠	https://www.stheadline.com/realtime-finance/3615549/AI世界末日-我不怕死-莫灝楠	未分類
 2026-09-29	AI不是世界末日，而是人類文明的新工具	https://scdaily.com/post/101075	未分類
-2026-09-29	8次空亡卦「3大災難」恐發生！命理師預言柯文哲最終結局	https://tw.news.yahoo.com/8次空亡卦-3大災難-恐發生-命理師預言柯文哲最終結局-074106970.html	未分類
-2026-09-29	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62歲殿堂級歌后猝逝-千禧年代憑多首金曲紅遍中港台-曾成已婚作曲家小三為愛赴內地發展後離婚	未分類
+2026-04-01	8次空亡卦「3大災難」恐發生！命理師預言柯文哲最終結局	https://tw.news.yahoo.com/8次空亡卦-3大災難-恐發生-命理師預言柯文哲最終結局-074106970.html	未分類
+2025-08-21	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62歲殿堂級歌后猝逝-千禧年代憑多首金曲紅遍中港台-曾成已婚作曲家小三為愛赴內地發展後離婚	未分類
 2026-09-28	黃仁勳說不會、聯合國卻嚇瘋！失控AI自主駭入外部網路「矽谷專家驚傳出逃蓋避難所」世界末日危機近了嗎？	https://news.google.com/rss/articles/CBMiakFVX3lxTE5KRGJqUHBCY3ZIVUhPellHeWdvVVpITW55YUpKVl9TTmJ1WkV6UXZUS3ZkMEdJbzYyd1QwLTFfdDJEOFZkUkdaZlVtT2JUNlo2ZnJyQzRiMC1ZWm5CSVM0Nmc5Z2MxbG12a1E?oc=5	未分類
 2026-09-28	伊外長稱準備好與美開展「末日戰爭」	https://news.google.com/rss/articles/CBMid0FVX3lxTE5FenpaMWdSN014amxSYjgtWVB5NDhkUHNLMVMwRzNvTDNvNnJvTVdpbVRRYmtfZVZ5NmNEcTAzSi1kcFBfMWRCNGRZa29aWTB0TV95Y0pzb1FJVFpubXVMQUU0SUw5R2NHTWtsMW41Vmx0Z3BVeFhR?oc=5	未分類
 2026-09-26	亞運／拿銀牌輸南韓如同世界末日！北韓女將同台南韓金牌冷臉僵硬零互動	https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BRnNlWk00dkIwVnhvS1JIVXJxTlNyYmNMYW9TemR1c0lkaEhMSC1wTlpuTUhxUVQtS3I3azJ2UkpQekl3RTN0SkVvcVJrbG5x?oc=5	未分類
