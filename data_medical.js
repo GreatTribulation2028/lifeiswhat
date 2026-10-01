@@ -1,4 +1,4 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 3786 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 3778 條
 var DATA_MEDICAL = `
 2026-09-30	退燒後突發胸痛氣喘？8歲童星流感併發心肌炎猝逝醫生揭兒童4大隱形警號| 健康百科	https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUNCcS1QTEowOW5KeGJJWVQ1TEF4bG1sZHpLdlBwNlpEN2IyVHlpWjZrZmtBYU1MMERZUTFYc0ZORmdhWmhYRDlkNUNUTldQUWNlbk9hdVZvUEwtUnc2a3JyakNsd2VPbVlKQ2x5WHlFTzBzTHpFNUFpTFdTcV9rdnZjZ1ZRay1tanYtdW40MWV1MVRlUEhBZlNSOG5LekQ2QW1HeEZYVldydkVoZ01vRzRaZnlhbk5HSzMyTGVNcU1lVlQwLUlWSUlMWF81UQ?oc=5	未分類
 2026-09-30	衞生防護中心夥非政府組織安排外展猴痘疫苗接種服務	https://news.google.com/rss/articles/CBMi7gJBVV95cUxNcTF5OEVuZ09IUVpnNUJfZncwQmdMd2pJc1pfalRZSXlEV0tCQjA1U1p5dk5WVEprTG1nUDFsTWdmSHNCREJ6a0JFNnZjMkpxYWhiM1ZiY3ZnLTNXSl9YQk5qS0hSMjVXLTBpMXdXUmotRzV4MjBOSmlnTEZIdzRLTjR3dndGRklSZms2Xzg0ZVhMZXVyak01bnhUel9wT3BQN1NaYjg1MnNsZ3dkcTRvVi1BSmxjSTJJaVZJTzBHbDBFUEE1YjB4UVZZaGZ0Nk5Yb1M4b2J5S2JoaHVhNldWdzBtRVpIRkpfTjBJSlBTZUt0b1VMY0xJb0l5dy1WNW5CYnVkMXU4dlliclZuRmRDcnQzTmtDRkdPYU94alZfbVpQaW1RLUJZeUIwRmtueW5RNDdGaEd2MVBac3RwRDB3ZlR1LTBhMXFGOG1YUEdJelJrX2VkVWtZZEpmY1hFS19IMnBXaEVqTUpMVFpQa3c?oc=5	未分類
@@ -27,7 +27,6 @@ var DATA_MEDICAL = `
 2026-09-29	馬斯克完成15歲癌逝少女遺願！曝光最愛動畫是「新海誠神作」令人意外	https://tw.news.yahoo.com/馬斯克完成15歲癌逝少女遺願！曝光最愛動畫是「新海誠神作」令人意外-063513747.html	未分類
 2026-09-29	馬拉威霍亂病故人數激增公立學校維持關閉。	https://tw.news.yahoo.com/馬拉威霍亂病故人數激增-公立學校維持關閉-112854934.html	未分類
 2026-09-29	馬如龍兒猝逝! 遭爆患多重慢性病、 明日相驗	https://www.msn.com/zh-tw/news/national/馬如龍兒猝逝-遭爆患多重慢性病-明日相驗/ar-AA1VzwiL	未分類
-2026-04-22	香港錄今年首宗登革熱本地個案 歐家榮：本地傳播風險屬中等水平	https://www.hkcd.com.hk/hkcdweb/content/2026/04/22/content_8751351.html	未分類
 2026-09-29	香港返台男染Ib型變異株！國內再添4例M痘 疾管署急籲快打2劑疫苗 | CTWANT	https://today.line.me/tw/v3/article/VxKL07g	未分類
 2026-09-29	香港糖尿病婦家中猝逝 精障么女伴屍2天	https://www.worldjournal.com/wj/story/121341/9511367	未分類
 2026-09-29	香港第二殺手 肺炎死亡僅次癌症 20價疫苗一針護命│康健講健康	https://eastweek.stheadline.com/health/16879/香港第二殺手-肺炎死亡僅次癌症-20價疫苗一針護命康健講健康	未分類
@@ -46,7 +45,6 @@ var DATA_MEDICAL = `
 2026-09-29	韓國 YouTuber「有病長壽女孩」28 歲病逝！20 萬粉絲淚崩：「最不想聽到的消息！」	https://kol.juksy.com/article/141272	未分類
 2026-09-29	韋基馬去年因喉癌離世 AI生成影像「翻生」演出新戲首張劇照曝光	https://www.hk01.com/電影/60332528/韋基馬去年因喉癌離世-ai生成影像-翻生-演出新戲首張劇照曝光	未分類
 2026-09-29	非洲獅「二哥」23歲高齡離世！ 勇敢對抗慢性病的堅韌王者	https://pets.ettoday.net/news/3148816	未分類
-2026-08-03	非洲氣候變化影響瘧疾發病區域	https://www.rfi.fr/tw/非洲/20260803-rfi法廣-中文-尼古拉-非洲氣候變化影響瘧疾發病區域	未分類
 2026-09-29	非洲刚果国家内伊博拉疫情确诊者近3千人已有1,309人逝世	https://www.mhwmm.com/index.php/zonghezixun/85433.html	未分類
 2026-09-29	非洲伊波拉病毒大爆發！WHO宣布國際緊急狀態	https://www.pinview.com.tw/News/58532.html	未分類
 2026-09-29	雲林十大死因出爐 癌症持續居冠「這部位疾病攀升1名」	https://health.setn.com/news/1866701	未分類
@@ -54,7 +52,6 @@ var DATA_MEDICAL = `
 2026-09-29	離奇巧合？中共海軍今年已有5將軍接連病亡，全來自同一軍種引猜疑	https://tw.news.yahoo.com/離奇巧合-中共海軍今年已有5將軍接連病亡-全來自同-軍種引猜疑-123400020.html	未分類
 2026-09-29	雙重疫情來襲！ 新冠進入高原期、流感緩升別掉以輕心	https://www.ftvnews.com.tw/news/detail/2026818W0585	未分類
 2026-09-29	雅琴看世界-朱鎔基98歲病逝！改革派象徵走入歷史舞台 0816	https://taiwandaily.net/熱門影音/152465/	未分類
-2026-08-19	隱瞞新冠研究記錄 福奇前顧問認罪	https://www.ntdtv.com/b5/2026/08/19/a104125448.html	未分類
 2026-09-29	隔離令解除確診者病假天數由醫生決定 有醫生指做法與其他呼吸道疾病相同	https://news.tvb.com/tc/855032-隔離令解除確診者病假天數由醫生決定有醫生指做法與其他呼吸道疾病相同	未分類
 2026-09-29	隔夜飯︱男子食隔夜炒飯確診「炒飯綜合症」入ICU險亡專家警告6種隔夜餸勿食嚴重可2小時奪命	https://skypost.hk/article/4036237/隔夜飯-男子食隔夜炒飯確診-炒飯綜合症-入ICU險亡-專家警告6種隔夜餸勿食嚴重可2小時奪命	未分類
 2026-09-29	陸「超女教父」病逝！打造「電視湘軍」傳奇 捧紅李宇春、張靚穎	https://tw.news.yahoo.com/陸-超女教父-病逝-打造-電視湘軍-042716181.html	未分類
@@ -67,14 +64,12 @@ var DATA_MEDICAL = `
 2026-09-29	陳盈潔72歲病逝！中風失智「忘記做1事」引器官衰竭 醫教晨間保命3招	https://tw.news.yahoo.com/陳盈潔72歲病逝-中風失智-忘記做1事-引器官衰竭-醫教晨間保命3招-000000634.html	未分類
 2026-09-29	陳嘉寶自爆19歲家中破產負債 母患癌住ICU靠拍廣告救全家	https://www.hk01.com/即時娛樂/60343463/陳嘉寶自爆19歲家中破產負債-母患癌住icu靠拍廣告救全家	未分類
 2026-09-29	院內感染拉警報! 高雄民生醫院爆6 例登革熱疾管署急組防疫隊進駐	https://www.msn.com/zh-tw/news/living/院內感染拉警報-高雄民生醫院爆6例登革熱-疾管署急組防疫隊進駐/ar-AA25BD3Y?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-2026-05-07	阿根廷汉坦病毒病例增加表明最初重点关注离开乌斯怀亚的船只	https://www.mixvale.com.br/2026/05/07/阿根廷汉坦病毒病例增加表明最初重点关注离开乌-z/	未分類
 2026-09-29	阿忠布袋戲「阿忠師病逝」！噩耗藏1年 暴瘦30公斤沒收入	https://news.tvbs.com.tw/health/3217455	未分類
 2026-09-29	阿Mo父親李盛林牧師病逝 長子繼承父親遺志繼續發代禱信	https://www.orangenews.hk/entnews/VHyEhjN/阿Mo父親李盛林牧師病逝-長子繼承父親遺志繼續發代禱信.shtml	未分類
 2026-09-29	阿Mo李啟言轉頭像悼念病逝父親 莊梅岩心痛阿Mo康復路失摯親陪伴	https://www.hk01.com/即時娛樂/60343935/阿mo李啟言轉頭像悼念病逝父親-莊梅岩心痛阿mo康復路失摯親陪伴	未分類
 2026-09-29	阿Mo李啟言父親李盛林牧師病逝 日前身體不適嘔吐發燒 曾插喉治療	https://std.stheadline.com/film-drama/3565830/阿Mo李啟言康復之路現曙光-父親李盛林卻傳噩耗病逝-兩日前曾插喉治療	未分類
 2026-09-29	阿Mo李啟言父親李盛林牧師病逝 日前身體不適嘔吐發燒 代禱信透露疑有心血管問題	https://www.stheadline.com/film-drama/3565830/阿Mo李啟言父親李盛林牧師病逝-日前身體不適嘔吐發燒-代禱信透露疑有心血管問題	未分類
 2026-09-29	防護中心:新冠病毒活躍度創一年新高	https://m.hkej.com/landing/mobarticle2/id/4459473/防護中心:新冠病毒活躍度創一年新高	未分類
-2026-08-11	防范登革热、猴痘等疾病 中疾控发布健康风险提示	https://finance.sina.cn/2026-08-11/detail-inimxewp0757882.d.html?vt=4	未分類
 2026-09-29	防登革熱! 3類人出國前可領免費防蚊液 返國後主動篩檢再領500元	http://www.msn.com/zh-tw/news/living/防登革熱-3類人出國前可領免費防蚊液-返國後主動篩檢再領500元/ar-AA26Yfmu?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	防春節傳播風險! 新冠疫苗擴大全民接種 限時2個月「明年元旦上路」	http://www.msn.com/zh-tw/news/living/防春節傳播風險-新冠疫苗擴大全民接種-限時2個月-明年元旦上路/ar-AA1ScS5c?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	防日本腦炎重症 桃園即日起提供65歲以上免費接種疫苗	https://n.yam.com/Article/20260812374366	未分類
@@ -96,7 +91,6 @@ var DATA_MEDICAL = `
 2026-09-29	長輩AZ疫苗頻傳猝死…能優先改打莫德納？指揮中心給答案	https://www.setn.com/news/955050	未分類
 2026-09-29	長榮空服員病逝案 座艙長記大過、連降2級拔除管理職	https://tw.news.yahoo.com/長榮空服員病逝案-座艙長記大過、連降2級拔除管理職-083023079.html	未分類
 2026-09-29	長期捱夜增中風風險！醫生拆解「爆血管」4大警號	https://news.tvb.com/tc/1183124-長期捱夜增中風風險醫生拆解爆血管4大警號	未分類
-2026-05-21	長庚研究：乾眼症恐大警訊！ 「早3年」預警自體免疫疾病確診	https://news.pchome.com.tw/healthcare/cnews/20260521/index-77933112475896227012.html	未分類
 2026-09-29	金鐘獎節目主持人王浩一去年突猝逝 37歲愛女驚傳病逝！家屬證實了	https://star.setn.com/news/1810461	未分類
 2026-09-29	金鐘主持人7歲黃婼馡高燒後逝! 醫曝ANEC「4警訊」當心 3 病毒最易出現	https://www.msn.com/zh-tw/entertainment/news/金鐘主持人7歲黃婼馡高燒後逝-醫曝anec-4警訊-當心-3病毒最易出現/ar-AA23Gawk	未分類
 2026-09-29	金鐘7歲主持人突爆腦病變驟逝！兒醫：3病毒感染疑是主因	https://tw.news.yahoo.com/金鐘7歲主持人突爆腦病變驟逝-兒醫-3病毒感染疑是主因-032205739.html	未分類
@@ -121,7 +115,6 @@ var DATA_MEDICAL = `
 2026-09-29	運動做對才有效！3關鍵遠離慢性病 這幾項「劇烈運動」最推	https://health.udn.com/health/amp/story/6033/9423187	未分類
 2026-09-29	逾七成國人處「亞健康」狀態醫師：及早健檢避免慢性病上身| 全國廣播M-Radio	https://www.mradio.com.tw/home/m-news/ContentView/32c4dc89-abc3-4a34-8953-4156f58e3609/false/m-news	未分類
 2026-09-29	連續3日破萬確診 23人疫歿(有1人已接種四劑新冠苗，13人已打3針，4人已打兩針，1人已打一針，4人無打針)	https://hk.news.yahoo.com/連續3日破萬確診-23人疫歿-214500585.html	未分類
-2026-07-21	連17日未休假 過勞中風判賠千萬	https://reader.turnnewsapp.com/ct/20260721/b07aa7/q1rfmjaynja3mjffqtdfnq2/share	未分類
 2026-09-29	退休翁修樹枝打零工 慘遇虎頭蜂螫傷 中風亡	https://tw.news.yahoo.com/退休翁修樹枝打零工-慘遇虎頭蜂螫傷-中風亡-055339014.html	未分類
 2026-09-29	这些不安全性行为，容易传播猴痘病毒	https://www.163.com/dy/article/L2ABCPA60556BXT9.html	未分類
 2026-09-29	近期流感重症、死亡率上升？ 醫師分析曝5大可能原因	https://www.ftnn.com.tw/news/575526	未分類
@@ -132,7 +125,6 @@ var DATA_MEDICAL = `
 2026-09-29	轉衛福部疾管署登革熱及日本腦炎防疫宣導	https://www.gov.taipei/News_Content.aspx?n=D0042A87C2F0270A&sms=78D644F2755ACCAA&s=455953BD5A9C42F2	未分類
 2026-09-29	輝瑞和BioNTech獲得美國食品藥品監督管理局（FDA）批准，用於XFG適應性新冠疫苗	https://www.moomoo.com/hant/news/post/75409943/pfizer-and-biontech-receive-us-fda-approval-for-xfg-adapted	未分類
 2026-09-29	輕輕一貼就接種 美國研發「3D列印疫苗貼片」	https://news.ttv.com.tw/news/11009290001300W	未分類
-2026-05-11	跳傘空降！英軍醫抵達南大西洋火山島處置疑似漢坦病毒病例- 國際	https://www.tkww.hk/a/202605/11/AP6a019a8fe4b04773b06d9b77.html	未分類
 2026-09-29	趙薇破胃癌離世謠言現身同學會！紅髮憔悴同框昔日緋聞對象黃曉明	https://www.nownews.com/news/6817259	未分類
 2026-09-29	趙學煌重癱26年不幸病逝 醫：肺炎是最致命殺手	https://ctinews.com/news/items/89xpm2ggne	未分類
 2026-09-29	趙學煌癱瘓26年病逝！演藝工會證實前一日辦補助妻開口就哽咽	https://stars.udn.com/star/story/10088/9258077	未分類
@@ -228,7 +220,6 @@ var DATA_MEDICAL = `
 2026-09-29	袁惟仁病逝 前妻哭腫眼：太多畫面和複雜心情	https://www.worldjournal.com/wj/story/121234/9305289	未分類
 2026-09-29	袁惟仁曾點名想合作! 中國大咖男星聽聞他病逝悲痛發聲了	https://www.msn.com/zh-tw/entertainment/news/袁惟仁曾點名想合作-中國大咖男星聽聞他病逝悲痛發聲了/ar-AA1VwXaO?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	衞防中心調查一宗猴痘輸入個案 男患者潛伏期在外地有高風險接觸	https://news.rthk.hk/rthk/ch/component/k2/1837917-20251229.htm	未分類
-2025-12-29	衞生防護中心調查一宗猴痘輸入個案 男患者潛伏期在外地有高風險接觸	https://www.hkcd.com/hkcdweb/content/2025/12/29/content_8733184.html	未分類
 2026-09-29	衞生防護中心稱登革熱本地傳播風險屬中等 會加強蚊患監測工作	https://news.rthk.hk/rthk/ch/component/k2/1852010-20260422.htm	未分類
 2026-09-29	衞生防護中心:登革熱本地傳播風險屬中等 風險可控	https://m.hkej.com/landing/mobarticle2/id/4377781/衞生防護中心:登革熱本地傳播風險屬中等 風險可控	未分類
 2026-09-29	衞生局警告世界盃舉行期間出現麻疹傳播的風險偏高	https://am1320.com/焦點新聞/衞生局警告世界盃舉行期間出現麻疹傳播的風險偏/	未分類
@@ -276,7 +267,6 @@ var DATA_MEDICAL = `
 2026-09-29	舊文重貼照樣中肯！林氏璧吐槽新冠報導太誇張：真的不必恐慌 | Newtalk	https://today.line.me/tw/v3/article/1DlJmm2	未分類
 2026-09-29	興大突破性研究：發現抗植物病毒新機制 為全球糧食安全提供新屏障	https://n.yam.com/Article/20260901133256	未分類
 2026-09-29	與新冠肺炎抗爭 印度面臨30年來最嚴重蝗災！	https://www.setn.com/news/761393	未分類
-2026-08-05	與多男曾有高風險接觸 31歲男染猴痘需隔離	https://hk.on.cc/hk/bkn/cnt/news/20260805/bkn-20260805192144076-0805_00822_001.html	未分類
 2026-09-29	與具俊曄重逢不到3年傳出噩耗！大S徐熙媛病逝震驚韓網，韓網友：拜託是假新聞、太心痛了ㅠㅠ	https://www.msn.com/zh-tw/news/other/與具俊曄重逢不到3年傳出噩耗-大s徐熙媛病逝震驚韓網-韓網友-拜託是假新聞-太心痛了ㅠㅠ/ar-AA1yiXfH?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2026-09-29	臺科大AI脈波智慧裝置 失智、癌症等疾病風險1分鐘評估	https://tw.news.yahoo.com/臺科大ai脈波智慧裝置-失智-癌症等疾病風險1分鐘評估-033523197.html	未分類
 2026-09-29	臺科大AI脈波智慧健檢再進化 從慢性病到失智症等25種風險評估一次到位	https://n.yam.com/Article/20260223757064	未分類
@@ -288,7 +278,6 @@ var DATA_MEDICAL = `
 2026-09-29	腸病毒今年首例奪命！南部女童染重症「七天猝逝」	https://tw.news.yahoo.com/腸病毒今年首例奪命-南部女童染重症-七天猝逝-070824121.html	未分類
 2026-09-29	腳跟一直脫皮、乾裂？別只擦乳液，可能是真菌感染！	https://www.epochtimes.com/b5/26/9/2/n14841607.htm/amp	未分類
 2026-09-29	腦部細菌感染,19歲病患醫院墜死	https://guangming.com.my/腦部細菌感染-19歲病患醫院墜死	未分類
-2026-08-15	腦瘤，不必等復發！首款 IDH1/2 標靶治療，開啟神經膠質瘤精準治療新時代	https://news.pchome.com.tw/healthcare/heho/20260815/index-78673314403967323012.html	未分類
 2026-09-29	腦病變| 7歲金鐘獎主持人高燒引急性壞死性腦病變4日病逝母親淚訴：沒能等到你回來- 東張+	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/17300698992909/健康醫美-腦病變---7歲金鐘獎主持人高燒-引急性壞死性腦病變4日病逝-母親淚訴-沒能等到你回來	未分類
 2026-09-29	胃腸胰神經內分泌腫瘤如何用藥？「藥物接力」穩定與疾病共存	https://tw.news.yahoo.com/胃腸胰神經內分泌腫瘤如何用藥-藥物接力-穩定與疾病共存-010000979.html	未分類
 2026-09-29	肺炎鏈球菌已奪19死！醫揭「1」隱憂：小心造成3大嚴重疾病	https://tw.news.yahoo.com/肺炎鏈球菌已奪19死-醫揭-1-隱憂-小心造成3大嚴重疾病-022200808.html	未分類
@@ -312,7 +301,6 @@ var DATA_MEDICAL = `
 2026-09-29	耳朵狂聽到怪聲！40歲男檢查驚「腫瘤長在這」：有猝死可能	https://tw.news.yahoo.com/耳朵狂聽到怪聲-40歲男檢查驚-腫瘤長在這-有猝死可能-111022660.html	未分類
 2026-09-29	老火湯壞處｜47歲婦腦出血中風亡老火湯5危害！飲湯9貼士忌隔夜?	https://www.hk01.com/教煮/60269982/老火湯壞處-47歲婦腦出血中風亡老火湯5危害-飲湯9貼士忌隔夜	未分類
 2026-09-29	老婦等無床病逝 台大急診日減50人 | 自由電子報	https://today.line.me/tw/v3/article/PG559E5	未分類
-2026-03-04	老化和慢性病逐年遽增，小心3大疾病風險！醫籲：營養和生活改善有助遠離	https://news.pchome.com.tw/healthcare/top1health/20260304/index-17725906566397768012.html	未分類
 2026-09-29	習近平在金磚峰會「腦中風」？印度外交部駁斥：造謠 俄媒播放現場畫面闢謠	https://www.i-meihua.com/Article/Detail/56265	未分類
 2026-09-29	習近平健康亮傳聞再起！海外評論員爆「中風後遺症」 稱未來3個月恐成高危期| 國際	https://newtalk.tw/news/view/2026-09-28/1062322	未分類
 2026-09-29	翁染漢他病毒亡！家中2老鼠呈陽性 醫：非常難搞的疾病	https://tw.news.yahoo.com/翁染漢他病毒亡-家中2老鼠呈陽性-醫-非常難搞的疾病-024533002.html	未分類
@@ -324,7 +312,6 @@ var DATA_MEDICAL = `
 2026-09-29	美國登革熱病例數上升 佛州報告首例死亡	https://www.epochtimes.com/b5/26/9/22/n14854511.htm	未分類
 2026-09-29	美國疾控中心簡化兒童疫苗接種計劃	http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1493942/2	未分類
 2026-09-29	美國疫苗委員會將於本周就推遲乙肝疫苗注射進行表決	https://tw.tradingview.com/news/reuters.com,2025:newsml_L4T3X81BP:0/	未分類
-2026-07-20	美國曼哈頓爆退伍軍人症 累計3人亡 料細菌源頭已清除 (14:34) - 20260720 - 國際	https://news.mingpao.com/ins/國際/article/20260720/s00005/1784527330003/美國曼哈頓爆退伍軍人症-累計3人亡-料細菌源頭已清除	未分類
 2026-09-29	美國新冠疫情前高官參院作證、援引憲法拒答逾100次 委員會表決通過藐視國會| 國際焦點	https://www.taisounds.com/news/content/84/281828	未分類
 2026-09-29	美國新一波環孢子蟲病疫情首次確認死亡個案 兩死者均有潛在健康問題	https://news.tvb.com/tc/1186949-美國密歇根州兩人染環孢子蟲病身亡疫情感染源包括TacoBell生菜	未分類
 2026-09-29	美國建立新聯盟 挑戰各地強制接種疫苗措施	https://www.epochtimes.com/b5/26/2/18/n14700572.htm	未分類
@@ -388,7 +375,6 @@ var DATA_MEDICAL = `
 2026-09-29	福華集團第三代 55歲廖國宏腦中風猝逝	https://www.worldjournal.com/wj/amp/story/121223/9739226	未分類
 2026-09-29	福華接班人腦中風驟逝 醫：搭機「3事」恐讓血壓劇烈波動	https://www.worldjournal.com/wj/amp/story/121238/9738378	未分類
 2026-09-29	福奇被爆寫「自戀式日記」 在新冠死亡人數急升時竟然關心「有老奶奶迷戀上我」 | 焦點 | 國安專頁	https://www.bastillepost.com/nls/article/16470468/福奇被爆寫「自戀式日記」 在新冠死亡人數急升時 竟然關心「有老奶奶迷戀上我」/?ms_cat=35	未分類
-2026-08-20	福奇助手就串謀隱瞞新冠研究認罪 國會議員指加州州長候選人隱瞞關鍵證據(美中報道）	http://www.uschinews.com/static/content/JDHT/MGWX/2026-08-20/1540172161732448256.html	未分類
 2026-09-29	福奇前顧問承認隱藏新冠病毒研究記錄	https://www.epochtimes.com/b5/26/8/19/n14832620.htm	未分類
 2026-09-29	福奇前顧問承認隱瞞新冠疫情記錄 面臨最高判囚5年	https://www.hk01.com/即時國際/60382045/福奇前顧問承認隱瞞新冠疫情記錄-面臨最高判囚5年	未分類
 2026-09-29	福奇出席新冠聽證會，100多次援引第五修正案保持沉默	https://cn.wsj.com/articles/福奇出席新冠聽證會-多次援引第五修正案保持沉默-7f13f274	未分類
@@ -421,13 +407,11 @@ var DATA_MEDICAL = `
 2026-09-29	睇錯隨時中毒！隱藏病毒假冒成熱門AI被瘋傳下載一秒被遙 ...	https://ezone.hk/article/20101244/睇錯隨時中毒-隱藏病毒假冒成熱門ai被瘋傳-下載一秒被遙距操控-搬空網銀-教你-步強制排毒	未分類
 2026-09-29	眼前突現飛蚊！19歲女大生半年後猝逝 竟是乳癌釀禍	https://tw.news.yahoo.com/眼前突現飛蚊-19歲女大生半年後猝逝-竟是乳癌釀禍-092900199.html	未分類
 2026-09-29	直播／今本土新增15409例 40病歿、223例境外移入	https://udn.com/news/story/6656/6913825	未分類
-2026-04-24	盧洪洲：向艾滋病功能性治癒發起攻堅，打造大灣區醫療高地	https://www.hkcd.com.hk/hkcdweb/content/2026/04/24/content_8751833.html	未分類
 2026-09-29	百人赴菲遊學團出事！4人快篩「登革熱陽性」 疾管署：團員遍布17縣市 | 太報	https://today.line.me/tw/v3/article/GgwmqlP	未分類
 2026-09-29	登革熱｜菲籍女遊客留醫廣華離世 防護中心列輸入個案	https://www.i-cable.com/新聞資訊/438457/登革熱-菲籍女遊客留醫廣華不治-防護中心列輸	未分類
 2026-09-29	登革熱｜22歲菲律賓女子訪港後6日器官衰竭離世 列輸入個案	https://www.hk01.com/社會新聞/60322297/登革熱-22歲菲律賓女子訪港後6日器官衰竭離世-列輸入個案	未分類
 2026-09-29	登革熱︱22歲菲律賓女子感染 訪港期間病發離世	https://hk.news.yahoo.com/登革熱-22歲菲律賓女子感染-訪港期間病發離世-105946957.html	未分類
 2026-09-29	登革熱決戰境外 高雄市啟動暑期獎勵專案 自東南亞返台快篩採檢拿禮券	https://n.yam.com/Article/20260713543905	未分類
-2026-08-04	登革熱持續！上週增8境外移入「3例柬埔寨群聚」 今年累計病例破百	https://news.pchome.com.tw/healthcare/crwant/20260804/index-78582863625422316012.html	未分類
 2026-09-29	登革热、基孔肯雅热由境外输入及跨省传播引起本地疫情风险上升	https://www.thepaper.cn/newsDetail_forward_33596284	未分類
 2026-09-29	癌症風險｜最新研究揭機師空服員輻射暴露高8大癌症死亡率高50% 工會籲每年檢查皮膚乳房- 東張+	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/17871226500920/癌症風險-最新研究揭機師空服員輻射暴露高-8大癌症死亡率高50--工會籲每年檢查皮膚乳房-	未分類
 2026-09-29	癌症續居雲林十大死因之首！ 腦心血管警訊升高籲全民防治	https://n.yam.com/Article/20260703727995	未分類
@@ -447,8 +431,6 @@ var DATA_MEDICAL = `
 2026-09-29	疫苗抽獎｜海參花膠鮑魚盆菜、餐飲現金劵等獎品豐富 即睇稻苗學會抽獎結果	https://www.healthyd.com/articles/covid19/稻苗學會-疫苗抽獎-抽獎結果	未分類
 2026-09-29	疫苗大家問｜第三問：「心臟不好，打新冠疫苗會不會增加心臟負擔？」	https://health.udn.com/health/amp/story/124043/9783057	未分類
 2026-09-29	疫苗企業縮減研發、大幅裁員	https://news.futunn.com/hk/post/68978052	未分類
-2026-08-19	疫苗ETF国泰（159643）开盘跌0.17%，重仓股复星医药跌0.29%，沃森生物跌0.61%	https://finance.sina.com.cn/money/fund/aiassistant/etfkp/2026-08-19/doc-ininvfsv7044392.shtml	未分類
-2026-08-17	疫苗ETF国泰（159643）开盘涨0.00%，重仓股复星医药涨0.17%，沃森生物涨0.15%	https://finance.sina.com.cn/money/fund/aiassistant/etfkp/2026-08-17/doc-ininqtnu9104376.shtml	未分類
 2026-09-29	疫情｜英國分析：中國單日新增確診或破百萬，單日死亡料逾5,000。	https://www.hk01.com/article/850213?utm_source=01articlecopy&utm_medium=referral	未分類
 2026-09-29	疫情｜美國最少3,544人死因與「長新冠」有關	https://www.hk01.com/即時國際/847566/疫情-美國最少3-544人死因與-長新冠-有關	未分類
 2026-09-29	疫情｜港增20865宗確診，輸入個案佔1176宗，多59名患者離世。今日有61間院舍共錄得90宗院友和16宗員工確診，沒有學校的班級需要停課。再多59名患者離世，第五波疫情累計11,408宗死亡個案。32男27女死者年齡介乎50至100歲，當中21人來自院舍，有6人已接種四劑新冠疫苗、32人已打三針、4人已打兩針、2人已打一針、15人沒有打針。已針人佔74.58%;無針15人佔25.42%;	https://www.am730.com.hk/本地/疫情-港增20865宗確診-輸入個案佔1176宗-多59名患者離世/354744	未分類
@@ -485,7 +467,6 @@ var DATA_MEDICAL = `
 2026-09-29	男童流感「壞死性腦病變」逝！醫嘆： 免疫風暴吞噬了大腦	https://www.msn.com/zh-tw/news/living/男童流感-壞死性腦病變-逝-醫嘆-免疫風暴吞噬了大腦/ar-AA1yOhHk?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2026-09-29	男染疫亡「家人伴屍18個月」！警開門驚見木乃伊妻喊：他還活著	https://tw.news.yahoo.com/男染疫亡-家人伴屍18個月-警開門驚見木乃伊-妻喊-他還活著-004038720.html	未分類
 2026-09-29	男星詹姆士范德比克48歲病逝 曾演出《戀愛世代》、《被出賣的台灣》	https://www.ftvnews.com.tw/news/detail/2026212W0045	未分類
-2025-12-29	男患者现皮疹确诊猴痘潜伏期在外地有高风险接触｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20251229/mobile/bkn-20251229215341087-1229_00822_001_cn.html	未分類
 2026-09-29	男子染退伍軍人症 22學生染流感樣疾病	https://www.tdm.com.mo/en/news-detail/1210727?lang=zh&isvideo=&category=all&shortvideo=0	未分類
 2026-09-29	男子中風倒臥家中苦撐六天，大園警會同房東及時救援。	https://tw.news.yahoo.com/男子中風倒臥家中苦撐六天-大園警會同房東及時救援-160300729.html	未分類
 2026-09-29	男友上月才病逝！《星光》女星突遭「姐姐淨身出戶」聲明回應了- 華人星光	https://www.chinatimes.com/realtimenews/20260126002197-260404	未分類
@@ -559,7 +540,6 @@ var DATA_MEDICAL = `
 2026-09-29	猴痘全球超19万例致529死 疫苗协调机制正式启动	https://molihua.org/mh-1173617/	未分類
 2026-09-29	猴痘入侵台北市！30多歲男「四肢軀幹出現膿疱」確診 急匡18人	https://www.setn.com/news/1261571	未分類
 2026-09-29	牡丹鄉代候選人高嘉香病逝 屏縣選委會：選舉不受影響	https://tw.news.yahoo.com/牡丹鄉代候選人高嘉香病逝-屏縣選委會-選舉不受影響-043805421.html	未分類
-2026-01-30	爺爺蒙冤獄中病亡 孫子考大學讀法律為其翻案	https://www.ntdtv.com/b5/2026/01/30/a104061788.html	未分類
 2026-09-29	爸爸病逝3年...許富凱父親節攻蛋藏洋蔥 單身逾10年佛系找伴	https://news.tvbs.com.tw/entertainment/3183947	未分類
 2026-09-29	父親肝癌吐血驟逝 男星目睹「最後一程」留陰影驚爆罹PTSD | 娛樂 | CTWANT	https://www.ctwant.com/amp/article/487665/	未分類
 2026-09-29	父胰臟癌54歲驟逝 「核彈芭比」返韓奔喪！缺席應援盼外界理解	https://star.setn.com/news/1792879	未分類
@@ -570,14 +550,12 @@ var DATA_MEDICAL = `
 2026-09-29	父在武漢染疫亡，在美親屬急尋王濤。	https://tw.news.yahoo.com/父在武漢染疫亡-在美親屬急尋王濤-071200503.html	未分類
 2026-09-29	父乾咳竟藏「20公分惡瘤」！動刀搶命仍病逝 女星痛揭關鍵病因	https://star.setn.com/news/1850536	未分類
 2026-09-29	爭議延燒… 麻疹危機 賓州求助CDC 促承認4死病例	https://www.worldjournal.com/wj/amp/story/124996/9772004	未分類
-2022-12-10	熬夜看世界杯20歲球迷中風倒地	https://www.sinchew.com.my/20221210/熬夜看世界杯-20岁球迷中风倒地/	未分類
 2026-09-29	無針接種！台灣引進「鼻噴式」流感疫苗 孩子無痛新選擇	https://tw.news.yahoo.com/無針接種-台灣引進-鼻噴式-流感疫苗-孩子無痛新選擇-024148463.html	未分類
 2026-09-29	無畏槍林彈雨就怕打針 肌肉大兵打疫苗竟「驚聲尖叫」	http://www.msn.com/zh-tw/news/national/無畏槍林彈雨就怕打針-肌肉大兵打疫苗竟-驚聲尖叫/ar-AA1WLSyW?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	無明確病史⋯藝人曹西平家中病逝 醫：猝死成因多與心臟疾病有關	https://udn.com/news/amp/story/7266/9234080	未分類
 2026-09-29	為阿Mo打氣｜Mo爸李盛林牧師病逝！守望至最後一刻，197週代禱信背後的最深父愛。三子女強忍悲痛接棒：要完成爸爸未了心願	https://hk.news.yahoo.com/為阿mo打氣-mo爸李盛林牧師病逝-守望至最後-刻-197週代禱信背後的最深父愛-021952989.html	未分類
 2026-09-29	為拯救孩子，父母意外成為藥物研發者	https://www.swissinfo.ch/chi/新疗法/為拯救孩子，父母意外成為藥物研發者/90732009	未分類
 2026-09-29	為拚全球首例想昏頭？《科學》揭露上海6歲女童死於腦部基因編輯試驗	https://global.udn.com/global_vision/amp/story/8662/9653907	未分類
-2026-08-03	為什麼施打疫苗後 手臂會留下疤痕？(圖)	https://m.secretchina.com/news/b5/2026/08/03/amp1101579.html	未分類
 2026-09-29	灭活病毒样本也犯法？特朗普政府逮捕顶尖科学家，小镇居民慌了！	https://www.163.com/dy/article/L2INHLBG0556C1LT.html	未分類
 2026-09-29	灣仔綠山居護老院4人染產碳青霉烯酶腸道桿菌 疑同層人交叉感染	https://www.hk01.com/article/60384367	未分類
 2026-09-29	澳門添88確診75歲翁染疫亡，珠澳72小時檢測通關要求延至下月7日。	https://hk.news.yahoo.com/添88確診75歲翁染疫亡-珠澳72小時檢測通關要求延至下月7日-114755569.html	未分類
@@ -594,14 +572,11 @@ var DATA_MEDICAL = `
 2026-09-29	潤泰證實！總裁尹衍樑今晨北榮病逝	https://www.mirrormedia.mg/external/setn_1844262	未分類
 2026-09-29	潛伏期在泰國曾有高風險接觸 39歲男染猴痘正隔離治療	https://www.bastillepost.com/hongkong/article/16607435-潛伏期在泰國曾有高風險接觸-39歲男染猴痘正隔離	未分類
 2026-09-29	漢坦病毒｜郵輪2確診5疑似被拒靠岸 世衛：船未現鼠蹤 或人傳人	https://www.hk01.com/即時國際/60346826/漢坦病毒-郵輪2確診5疑似被拒靠岸-世衛-船未現鼠蹤-或人傳人	未分類
-2026-05-15	漢坦病毒｜「洪迪厄斯」號大部分船員荷蘭隔離6周 全球已現10病例致3死	https://www.singtao.ca/7505991/2026-05-15/news-漢坦病毒｜「洪迪厄斯」號大部分船員荷蘭隔離6周++全球已現10病例致3死/	未分類
 2026-09-29	漢坦病毒涉疫郵輪增至9宗病例、三死 撤離最後一批乘客後轉往荷蘭	https://news.tvb.com/tc/world/6a0267880e378355ed7561ff/國際-漢坦病毒涉疫郵輪增至9宗病例三死-撤離最後一批乘客後轉往荷蘭	未分類
 2026-09-29	漢他病毒致死 為何遊輪容易爆發疾病？	https://www.epochtimes.com/b5/26/5/7/n14758390.htm	未分類
 2026-09-29	漢他病毒奪3命！郵輪疫情再拉警報 專家揭「海上密閉空間」最可怕真相	https://health.setn.com/news/1834923	未分類
 2026-09-29	漢他病毒「一開始像感冒」 醫示警：死亡率高	https://tw.news.yahoo.com/漢他病毒-開始像感冒-醫示警-死亡率高-005046120.html	未分類
 2026-09-29	準媽媽產檢意外確診「卵巢癌」！ 傳統治療復發率高達7成？ 醫：1合併療法有效降低復發	https://n.yam.com/Article/20260522129292	未分類
-2025-12-10	湖北疫苗受害者長期遭打壓 身心疲憊	https://www.epochtimes.com/gb/25/12/10/n14652536.htm/amp	未分類
-2026-09-01	湖北政府及中國科學院聘美律師所 欲挑戰Covid疫情賠償判決	https://hk.epochtimes.com/news/2026-09-01/32601367	未分類
 2026-09-29	游泳竟遇死劫！8歲女童感染「食腦蟲」生日前夕病逝 家屬心碎證實	https://health.setn.com/news/1894457	未分類
 2026-09-29	游毓蘭》警察打疫苗後猝逝，銓敘部卻認定不予因公撫卹！	https://tw.news.yahoo.com/游毓蘭-這個國家對不起警察-211500432.html	未分類
 2026-09-29	港輸入個案634宗再新高 多13人染疫亡	https://www.bastillepost.com/hongkong/article/11742025-﻿港輸入個案634宗再新高-多13人染疫亡	未分類
@@ -610,7 +585,6 @@ var DATA_MEDICAL = `
 2026-09-29	港大醫學院新影像技術 有助及早判斷糖尿病及冠狀動脈疾病患者心血管問題	https://news.tvb.com/tc/local/696f5652643a18d0a8afcfee/港澳-港大醫學院新影像技術-有助及早判斷糖尿病及冠狀動脈疾病患者心血管問題	未分類
 2026-09-29	港大深圳醫院｜機械臂切除腫瘤不全 二次手術後病人兩年後亡	https://www.stheadline.com/realtime-china/3563318/港大深圳醫院機械臂切除腫瘤不全-二次手術後病人兩年後亡	未分類
 2026-09-29	港大深圳醫院機械臂手術失誤 患者腫瘤未清除兩年後離世	https://www.exmoo.com/article/258988.html	未分類
-2026-05-06	港大創中風急救鼻噴劑 送院前助減八成腦梗體積 擬2030年臨牀 - 20260506 - 港聞	https://news.mingpao.com/pns/港聞/article/20260506/s00002/1777999611754/港大創中風急救鼻噴劑-送院前助減八成腦梗體積-擬2030年臨牀	未分類
 2026-09-29	清迈HIV感染破2.3万平均每日增2人 | 国际 | 2026-07-29	https://guangming.com.my/清迈hiv感染破2-3万-平均每日增2人	未分類
 2026-09-29	涉隱瞞新冠疫情相關文件佛奇前顧問認罪- 國際	https://news.ltn.com.tw/news/world/breakingnews/5544841	未分類
 2026-09-29	涉新冠詐欺逾300億美元 加州府更新技術攔阻	https://www.worldjournal.com/wj/story/123278/9678712	未分類
@@ -647,13 +621,11 @@ var DATA_MEDICAL = `
 2026-09-29	泰國提高防疫層級 武漢肺炎列危險傳染性疾病	https://www.setn.com/news/695800	未分類
 2026-09-29	泰國Plai師傅2026年最新預言｜人工X疾病全球奪命/生物戰開打/災難人禍恐延續至2030	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/16512575503753/生活-泰國Plai師傅2026年最新預言-人工X疾病全球奪命-生物戰開打-災難人禍恐延續至2030	未分類
 2026-09-29	泰勒絲婚禮當天傳噩耗！恩師兼昔日保鑣病逝 22年情誼惹鼻酸	https://tw.news.yahoo.com/泰勒絲婚禮當天傳噩耗-恩師兼昔日保鑣病逝-22年情誼惹鼻酸-051700696.html	未分類
-2026-09-01	法蘭克福機場爆瘧疾釀2死疑毒蚊隨航班偷渡入境專家教6招自保- 國際	https://www.dotdotnews.com/a/202609/01/AP6a968eaae4b02724bdb31731.html	未分類
 2026-09-29	法國傳奇影后Nathalie Baye病逝 曾演《捉智雙雄》里安納度母親	https://www.hk01.com/即時娛樂/60341790/法國傳奇影后nathalie-baye病逝-曾演-捉智雙雄-里安納度母親	未分類
 2026-09-29	法國作家迪迪耶・德官81歲病逝	https://www.mirrordaily.news/external/1247178	未分類
 2026-09-29	治病成死別！移英港男罹癌搭機返港治療 機上突「沒有氣息」猝死	https://tw.news.yahoo.com/治病成死別-移英港男罹癌搭機返港治療-機上突-沒有氣息-猝死-064041404.html	未分類
 2026-09-29	河北老闆含冤入獄病亡 孫子十九年後幫其翻案	https://www.epochtimes.com/b5/26/1/31/n14688084.htm/amp	未分類
 2026-09-29	沒說安慰卻最暖心 莊秀樹病逝傷友淚別	https://www.mirrormedia.mg/external/setn_1787498	未分類
-2026-07-20	沉寂14年的病毒突然苏醒，两个月杀了828人	https://news.qq.com/rain/a/20260720A07I1D00?adChannelId=news_news_top	未分類
 2026-09-29	沈玉琳不捨傅子純疑血癌驟逝 曝「三個月前剛健檢也沒用」	https://tw.news.yahoo.com/沈玉琳不捨傅子純疑血癌驟逝-曝「三個月前剛健檢也沒用」-070311922.html	未分類
 2026-09-29	決戰登革熱！3類人出國前「可免費領防蚊液」 返國篩檢再領500	https://www.msn.com/zh-tw/news/other/決戰登革熱-3類人出國前-可免費領防蚊液-返國篩檢再領500/ar-AA26XLb8	未分類
 2026-09-29	水產養殖疾病疫苗市場2035年預測：疾病壓力升高與抗生素減量帶動成長加速- 新聞與統計	https://www.indexbox.io/zh-hant/blog/aquaculture-disease-vaccines-market-forecast-to-2035-growth-accelerates-on-rising-disease-pressure-and-antibiotic-reduction/	未分類
@@ -661,7 +633,6 @@ var DATA_MEDICAL = `
 2026-09-29	民歌一代宗師韓正皓病逝海葬 遺孀心碎發聲：他真的離開了	https://ent.ltn.com.tw/news/breakingnews/5483531	未分類
 2026-09-29	民得维®唠唠：新冠吃什么药好？怎么提升睡眠效果？	https://mtz.china.com/touzi/2026/0909/265385.html	未分類
 2026-09-29	民主剛果東部衝突升溫 偏逢伊波拉疫情蔓延204死	https://hk.news.yahoo.com/民主剛果東部衝突升溫-偏逢伊波拉疫情蔓延204死-022003333.html	未分類
-2026-08-21	民主剛果埃博拉疫情指數式擴散 超2500人亡	https://www.ntdtv.com/gb/2026/08/21/a104126218.html/amp	未分類
 2026-09-29	比雍正更早封王！康熙最看重的皇子輸在1弱點， 最後幽禁景山病逝	https://www.storm.mg/lifestyle/11166243	未分類
 2026-09-29	比特幣Hyper新聞：Step Finance因27萬美元駭客攻擊而關閉，Pepeto病毒式傳播引發FOMO情緒，而HYPER仍停留在理論階段	https://financefeeds.com/zh-TW/bitcoin-hyper-news-step-finance-shuts-down-after-27-million-hack-pepetos-virality-push-fomo-while-hyper-stays-theoretical/	未分類
 2026-09-29	比利時免疫炎症生物科技公司AgomAb Therapeutics(AGMB.US)申請在美IPO 擬募資1億美元提供者智通財經	https://m.hk.investing.com/news/stock-market-news/article-1274515?ampMode=1	未分類
@@ -691,7 +662,6 @@ var DATA_MEDICAL = `
 2026-09-29	歌壇大姐大陳盈潔病逝	https://star.setn.com/projectnews/10820	未分類
 2026-09-29	次世代疫苗 出現2例死亡	https://tw.news.yahoo.com/次世代疫苗-出現2例死亡-222525486.html	未分類
 2026-09-29	檳+69確診 1人疫歿	https://guangming.com.my/檳69確診-1人疫歿	未分類
-2022-12-16	機械按胸12小時染疫醫生被醫到死。	https://www.chinapress.com.my/20221216/机械按胸-12小时-染疫医生-被医到死/	未分類
 2026-09-29	機場爆麻疹｜同一機場公司3男員工先後確診 料工作地點受到感染	https://www.hk01.com/社會新聞/60342099/機場爆麻疹-同一機場公司3男員工先後確診-料工作地點受到感染	未分類
 2026-09-29	槟城38岁女子车内猝死 法医证实死因肺炎	https://www.8tvnews.my/localnews/bincheng38suinuzicheneicusi-fayizhengshisiyinfeiyan/	未分類
 2026-09-29	極地郵輪暴發病毒致3死，即將靠港歐洲！這病毒什麼來頭？	https://hao.cnyes.com/post/246403	未分類
@@ -722,7 +692,6 @@ var DATA_MEDICAL = `
 2026-09-29	東京新冠病毒感染者 12,332 人，死亡 21 人	https://www.47news.jp/8639469.html	未分類
 2026-09-29	東京感冒疫情嚇壞旅客？醫曝2疾病都在低點：有事我和羅一鈞會主動說	https://udn.com/news/amp/story/7266/9528195	未分類
 2026-09-29	李家鼎前妻施明肺炎離世李泳漢：連最後一面都見唔到- 本地 - 明周娛樂	https://www.mpweekly.com/entertainment/article/李家鼎前妻施明肺炎離世-李泳漢：連最後一面都見	未分類
-2026-08-14	朱鎔基去世次日 前副部級大管家馬忠智病亡	https://hk.epochtimes.com/news/2026-08-14/47013653	未分類
 2026-09-29	朱維德離世丨朱翁三年前曾誤傳死訊 其妻澄清揭丈夫意外跌傷頭確診認知障礙	https://www.stheadline.com/film-drama/3591385/朱維德離世丨朱翁三年前曾誤傳死訊-其妻澄清揭丈夫意外跌傷頭確診認知障礙	未分類
 2026-09-29	本澳流感病毒近期轉趨活躍 居民應加強防範 今（17）日接獲4宗流感樣疾病群集性感染報告	https://www.gcs.gov.mo/detail/zh-hant/N26CQigbjE	未分類
 2026-09-29	本港確診數字持續回落新增個案跌至6261宗 多66患者亡︱疫情	https://hd.stheadline.com/news/realtime/hk/2399321/即時-港聞-本港確診數字持續回落新增個案跌至6261宗-多66患者亡︱疫情	未分類
@@ -765,10 +734,8 @@ var DATA_MEDICAL = `
 2026-09-29	本土+13218 29人染疫亡	https://tw.news.yahoo.com/本土-13218-29人染疫亡-062433906.html	未分類
 2026-09-29	末期病患家屬提取強積金受阻終病逝積金局認溝通存落差正研究酌情處理方法- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/16721034992201/即時新聞-末期病患家屬提取強積金受阻終病逝--積金局認溝通存落差正研究酌情處理方法	未分類
 2026-09-29	未接種疫苗得流感 老翁4天亡	https://tw.news.yahoo.com/未接種疫苗得流感-老翁4天亡-223553065.html	未分類
-2026-07-25	期刊揭6歲女基因編輯試驗後亡 涉事醫學院稱調查中	https://hk.on.cc/hk/bkn/cnt/news/20260725/bkn-20260725110046679-0725_00822_001.html	未分類
 2026-09-29	有藥可醫卻沒命可等？逾2700位罕病患者等不到藥病逝⋯病團提3大倡議	https://www.uho.com.tw/article-68372.html	未分類
 2026-09-29	有心人士還是別打擾了... #陳盈潔 #許常德 #台語歌后 #病逝	https://www.facebook.com/ent.ltn.tw/posts/有心人士還是別打擾了陳盈潔-許常德-台語歌后-病逝/1493073526197937/	未分類
-2026-07-16	有基孔肯雅热聚集性疫情发生风险！国家疾控局提示	https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1354638.shtml	未分類
 2026-09-29	會面自由之家 徐國勇：團促法致台人赴中風險升高	https://www.epochtimes.com/b5/26/8/4/n14822935.htm/amp	未分類
 2026-09-29	會員病逝家屬欲繼承會籍被拒 山姆凍結卡要求持卡人親身到店辦理	https://www.hk01.com/article/60363917	未分類
 2026-09-29	最新疫情｜新增8,810宗本地個案！再多16人離世、20間院舍有人染疫	https://www.etnet.com.hk/www/tc/health/author/healthnews/LA71845	未分類
@@ -778,7 +745,6 @@ var DATA_MEDICAL = `
 2026-09-29	最年輕君主病逝 烏干達土柔王國選定主播任新王	https://money.udn.com/money/story/5599/9746468?from=edn_related_storybottom	未分類
 2026-09-29	曾被封「御用工人」！女星胰臟癌驟逝 製作人悲慟發聲：下輩子再合作	https://star.setn.com/news/1873703	未分類
 2026-09-29	曾與陌生男子有高風險接觸 29歲漢染猴痘	https://www.passiontimes.hk/article/09-21-2026/144944	未分類
-2026-09-10	曾與數男多P染猴痘 31歲男留醫周身出疹	https://hk.on.cc/hk/bkn/cnt/news/20260910/bkn-20260910190716041-0910_00822_001.html	未分類
 2026-09-29	曾精準預言新冠來襲、多項天災 泰國神婆曝下半年6大災難	https://tw.news.yahoo.com/曾精準預言新冠來襲-多項天災-泰國神婆曝下半年6大災難-074300819.html	未分類
 2026-09-29	曾神準預言新冠疫情、洪災！「泰國神婆」今結婚 禮金高達5千萬	https://www.mirrordaily.news/story/86546	未分類
 2026-09-29	曾智希確診新冠體重曾跌破45公斤 發文曝近況	https://www.epochtimes.com/b5/26/9/14/n14849166.htm/amp	未分類
@@ -793,7 +759,6 @@ var DATA_MEDICAL = `
 2026-09-29	暗盤情報 | 「自身免疫性疾病藥物研發公司」天辰生物-B現漲近124%，一手賺5947港元	https://news.futunn.com/hk/post/74077978/grey-market-intelligence-tianchen-bio-b-a-developer-of-autoimmune	未分類
 2026-09-29	暑假疫情升溫 新冠疫苗打了沒？	https://health.udn.com/health/story/5961/9695164	未分類
 2026-09-29	暑假旅遊潮來了！新冠疫情升溫 疾管署呼籲：盡快接種疫苗	https://life.tw/article/暑假旅遊潮來了-新冠疫情升溫-疾管署呼籲-盡快接種疫苗-3080764	未分類
-2026-07-03	暑假出遊當心！恙蟲病確診飆破百例創近年新高去「這兩地區」最危險| 生活	https://newtalk.tw/news/view/2026-07-03/1045071	未分類
 2026-09-29	暑假出遊當心! 恙蟲病確診飆破百例創近年新高 去「這兩地區」 最危險	https://www.msn.com/zh-tw/money/一般/暑假出遊當心-恙蟲病確診飆破百例創近年新高-去-這兩地區-最危險/ar-AA277nsg	未分類
 2026-09-29	暑假出國留意登革熱 WMO預測今年恐現強聖嬰 | EBC 東森新聞	https://today.line.me/tw/v3/article/rmKqqj0	未分類
 2026-09-29	暑假出國小心登革熱！台灣122例、境外移入占9成 「這些國家」疫情升溫	https://www.cmmedia.com.tw/home/articles/62382?utm_source=LINE	未分類
@@ -801,7 +766,6 @@ var DATA_MEDICAL = `
 2026-09-29	時論廣場》新冠再起 提升防疫韌性（張博函、翁瑞宏）	https://www.chinatimes.com/opinion/20260909004520-262104	未分類
 2026-09-29	昨6261宗新增確診續回落 66人病歿 包括103歲人瑞40男26女，年齡介乎56歲至103歲，當中22人來自院舍，17人無打針、4人已打4針、40人已打3針、4人已打兩針、一人已打一針。	https://hk.news.yahoo.com/6261宗新增確診續回落-66人病歿-包括103歲人瑞-214500847.html	未分類
 2026-09-29	春節連假防範呼吸道與腸胃疾病雙重高峰 北醫附醫開設呼吸道傳染病特別門診	https://tw.news.yahoo.com/春節連假防範呼吸道與腸胃疾病雙重高峰-北醫附醫開設呼吸道傳染病特別門診-063219915.html	未分類
-2026-02-18	春節狂歡後私密處冒白點！28歲男子擦藥無效快崩潰醫示警：這病沒疫苗| 生活	http://newtalk.tw/news/view/2026-02-18/1019800	未分類
 2026-09-29	昔腦瘤動開顱手術搶命！29歲女模「血管惡性肉瘤」病逝 弟悲痛證實	https://star.setn.com/news/1784669	未分類
 2026-09-29	昔罹患血癌5年！41 歲人氣喜劇演員驟逝上個禮拜才錄影	http://www.msn.com/zh-tw/entertainment/news/昔罹患血癌5年-41歲人氣喜劇演員驟逝-上個禮拜才錄影/ar-AA1O0T9Z?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	昔為趙紫陽智囊王岐山故交翁永曦病逝- 澳洲看新闻网最新澳洲新闻| 中国新闻| 港台新闻| 国际新闻	https://vct.news/news/昔為趙紫陽智囊-王岐山故交翁永曦病逝	未分類
@@ -843,10 +807,8 @@ var DATA_MEDICAL = `
 2026-09-29	新股首日 | 「自身免疫性疾病藥物研發公司」天辰生物-B首日高開逾50%，一手賺2412港元	https://news.futunn.com/hk/post/74154039/ipo-debut-autoimmune-disease-drug-developer-tianchen-bio-b-surged	未分類
 2026-09-29	新聞傳真／中風被當酒駕強扣4小時 萬華警遭控延誤送醫險害命	https://www.mnews.tw/story/amp/mm-20260419soc001	未分類
 2026-09-29	新症重返四千關 確診4歲童不治	https://hk.news.yahoo.com/新症重返四千關-確診4歲童不治-214500748.html	未分類
-2026-05-05	新疆兵團石河子大學教授孔苑苑病亡 年僅44歲	https://hk.epochtimes.com/news/2026-05-05/67030127	未分類
 2026-09-29	新州首次發現H5禽流感 兩隻本土燕鷗染疫	https://www.epochtimes.com/b5/26/8/10/n14826653.htm/amp	未分類
 2026-09-29	新增猴痘輸入個案 39歲男子潛伏期內於泰國與他人有高風險接觸	https://news.tvb.com/tc/1190344-新增猴痘輸入個案39歲男子潛伏期內於泰國與他人有高風險接觸	未分類
-2025-12-29	新增一宗猴痘輸入個案 男子潛伏期內在外地曾有高風險接觸 (21:13) - 20251229 - 港聞	https://news.mingpao.com/ins/港聞/article/20251229/s00001/1767013991652/新增一宗猴痘輸入個案-男子潛伏期內在外地曾有高風險接觸	未分類
 2026-09-29	新增一宗本地猴痘個案 32歲男與陌生男有高風險接觸	https://hk.news.yahoo.com/新增-宗本地猴痘個案-32歲男與陌生男有高風險接觸-121523422.html	未分類
 2026-09-29	新增8033確診20病歿 首日預約復必泰二價疫苗逾萬	https://skypost.ulifestyle.com.hk/article/3408746/新增8033確診20病歿 首日預約復必泰二價疫苗逾萬	未分類
 2026-09-29	新增34死！流感、新冠疫情大爆發 單週13萬人就醫	https://news.ebc.net.tw/news/living/570303	未分類
@@ -873,7 +835,6 @@ var DATA_MEDICAL = `
 2026-09-29	新冠肺炎疫情已達高峰！未來2週迎高原期 疫苗沒打恐要等10月	https://health.ltn.com.tw/article/breakingnews/5543927	未分類
 2026-09-29	新冠肺炎今本土增1萬8150例、38人死亡 20多歲慢性病男打4劑確診7天亡	https://tw.news.yahoo.com/直播／covid-19-最新疫情-指揮中心下午說明-024348579.html	未分類
 2026-09-29	新冠肺炎今本土1萬8571例、61人死亡 2歲女童沒打疫苗MIS-C	https://tw.news.yahoo.com/新冠肺炎今本土-1-萬-8571-例-61-例死亡-060349476.html	未分類
-2026-09-18	新冠網路熱議TOP5藏錯誤迷思！高風險族10月1日起左流右新	https://news.pchome.com.tw/healthcare/uho/20260918/index-17897154001932459012.html	未分類
 2026-09-29	新冠病毒「又來了」？林氏璧怒斥新聞誇張引恐慌 揭病毒未來走向	https://health.udn.com/health/story/5999/9647854?from=udn-catenewnews_ch1005	未分類
 2026-09-29	新冠疫苗｜推動打針收死亡恐嚇奧地利女醫生自殺亡	https://skypost.ulifestyle.com.hk/article/3315760/新冠疫苗｜推動打針收死亡恐嚇 奧地利女醫生自殺亡	未分類
 2026-09-29	新冠疫苗擴大全民接種剩12天 疾管署籲「非高風險族群」把握	https://health.ettoday.net/news/3227613	未分類
@@ -945,13 +906,10 @@ var DATA_MEDICAL = `
 2026-09-29	新冠、A流升溫！醫示警「沒發燒也會確診」 5情況快篩別拖	https://tw.news.yahoo.com/新冠-a流升溫-醫示警-沒發燒也會確診-5情況快篩別拖-035200712.html	未分類
 2026-09-29	新冠│內地7月新增確診52.2萬宗 重症487宗1死 病例數呈上升趨勢	https://www.hk01.com/即時中國/60379903/新冠-內地7月新增確診52-2萬宗-重症487宗1死-病例數呈上升趨勢	未分類
 2026-09-29	新世代新冠疫苗升級！副作用減半、重症保護力增36％	https://health.ltn.com.tw/article/breakingnews/5551779	未分類
-2026-09-04	文匯專訪｜對話高福：立足微觀世界 以科普打造「社會疫苗」	https://www.tkww.hk/a/202609/04/AP6a9a04b5e4b0911458c34a46.html	未分類
 2026-09-29	數百萬人將湧麥加朝覲！疾管署籲務必「接種」 疫苗保平安	https://www.msn.com/zh-tw/news/living/數百萬人將湧麥加朝覲-疾管署籲務必-接種-疫苗保平安/ar-AA21SmPL?cvid=69f4b5949e7b47d6b1d7584f1c7e4143&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	整理衣物時找到器捐卡！男子急重症病逝家屬完成其生前遺願	https://health.ltn.com.tw/amp/article/breakingnews/5482321	未分類
 2026-09-29	整理包／新冠疫情又來了！7月31日前快打疫苗！8月起「這類人」免費打錯過需自費| 整理包| 專題	https://money.udn.com/money/story/124512/9645778	未分類
-2025-12-10	擔心年輕中風、早發失智？基因定序協助判定風險	https://news.pchome.com.tw/healthcare/5678news/20251210/index-76533282452622214012.html	未分類
 2026-09-29	搖滾天團「月之海」鼓手驟逝！大腸癌纏身6年 生日才許願「健康」	https://money.udn.com/money/amp/story/5648/9338377	未分類
-2025-12-11	揪出年輕型中風、早發失智隱形殺手！2種罕見腦血管疾病有解方？	https://news.pchome.com.tw/healthcare/top1health/20251211/index-17654327162893968012.html	未分類
 2026-09-29	插管2週救不回！男染「新冠併發休克」歿 疾管署揭致命關鍵	https://health.setn.com/news/1911211	未分類
 2026-09-29	提「實踐檢驗真理」作者染疫亡。	https://hd.stheadline.com/news/daily/hk/1012363/日報-港聞-提-實踐檢驗真理-作者染疫亡	未分類
 2026-09-29	控制登革热疫情	https://www.vietnam.vn/zh-cn/kiem-soat-dich-sot-xuat-huyet	未分類
@@ -978,7 +936,6 @@ var DATA_MEDICAL = `
 2026-09-29	慟！網紅媽感冒變肺炎,敗血性休克1天內病逝。沒想到短短幾小時病情就產生急劇變化，歷經3次急救仍無力回天，媽媽的離開讓她忍不住崩潰喊「怎麼會一個好好的人，就在一天內走了」。	https://tw.news.yahoo.com/慟-網紅媽感冒變肺炎-敗血性休克1天內病逝-043800109.html	未分類
 2026-09-29	慟！「惡性腫瘤手術專家」 三總神外主任馬辛一病逝院方回應了	http://www.msn.com/zh-tw/news/living/慟-惡性腫瘤手術專家-三總神外主任馬辛一病逝-院方回應了/ar-AA1RgyNy?cvid=22c57be011e24928d1ffaba1aaf023b5&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	慈濟被騙卻不像受害人？張景森爆10億善款爭議不只疫苗：宗教自由不是財務黑箱	https://tw.news.yahoo.com/慈濟被騙卻不像受害人-張景森爆10億善款爭議不只疫苗-宗教自由不是財務黑箱-053537731.html	未分類
-2026-08-07	慈濟疫苗案燒出治理疑雲！ 張景森揭30年前內湖購地案：重大決策太輕率	https://www.mirrormedia.mg/story/20260807edi057	未分類
 2026-09-29	慈濟採購新冠疫苗遭騙10.6億元 民進黨：要求藍白政治人物為當年詆毀防疫團隊道歉	https://n.yam.com/Article/20260807229200	未分類
 2026-09-29	慈幼6學生集體染流感樣疾病	https://www.tdm.com.mo/en/news-detail/1176143?lang=zh&isvideo=false&category=all&shortvideo=0	未分類
 2026-09-29	感染腦部相關新聞報導第1頁	https://news.tvbs.com.tw/news/searchresult/感染腦部/news	未分類
@@ -1033,7 +990,6 @@ var DATA_MEDICAL = `
 2026-09-29	彰化增1例本土登革熱 疾管署：與菲律賓遊學團群聚無關	https://news.immigration.gov.tw/NewsSection/Detail/b9a54943-5ffc-42cb-94d9-eeccfb697416?lang=TW	未分類
 2026-09-29	強聖嬰要來了？全球登革熱破144萬例 小心孳生源就在身邊	https://ctinews.com/news/items/gGaMDKA4WK	未分類
 2026-09-29	強制軍人接種流感疫苗令 國防部長赫塞斯取消	https://www.worldjournal.com/wj/amp/story/121172/9456704	未分類
-2026-01-31	張又俠事件敏感時刻 三高級將領接連「病亡」	https://www.ntdtv.com/b5/2026/01/31/a104061917.html	未分類
 2026-09-29	張克帆父驚傳猝逝！中國工作「染疫難返台」 煎熬心聲曝光	https://tw.news.yahoo.com/張克帆父驚傳猝逝-中國工作-染疫難返台-煎熬心聲曝光-084503460.html	未分類
 2026-09-29	建築大師弗蘭克蓋瑞 96歲病逝加州	https://tw.news.yahoo.com/建築大師弗蘭克蓋瑞-96歲病逝加州-061118733.html	未分類
 2026-09-29	廣播金鐘主持人病逝 年僅7歲…母痛心公開：只是發燒咳嗽	https://www.worldjournal.com/wj/amp/story/121478/9515950	未分類
@@ -1052,7 +1008,6 @@ var DATA_MEDICAL = `
 2026-09-29	平安夜發燒嘔吐! 台南夫婦遊菲確診登革熱登防中心急清消	https://www.msn.com/zh-tw/news/living/平安夜發燒嘔吐台南夫婦遊菲確診登革熱-登防中心急清消/ar-AA1T9gvf	未分類
 2026-09-29	布魯克推功能蛋白質組學新進展 助藥物研發及疾病研究	https://www.bastillepost.com/hongkong/article/16864721-布魯克推功能蛋白質組學新進展-助藥物研發及疾病	未分類
 2026-09-29	市場傳聞：巴克萊銀行、HSBC和Starling Bank追討新冠疫情期間的貸款違約者	https://news.futunn.com/hk/post/78623346/market-chatter-barclays-hsbc-starling-bank-pursue-covid-era-loan	未分類
-2026-02-26	巴西在 2026 年记录了 90 例 MPOX 病例：了解该病毒性疾病的致命性、严重变异和预防措施	https://www.mixvale.com.br/2026/02/26/巴西在-2026-年记录了-90-例-mpox-病例：了解该病毒性疾病的-zh/	未分類
 2026-09-29	巴拉那州卫生部门正在监测该州三例疑似猴痘病例。	https://omaringa.com.br/zh-CN/新闻/巴拉那州卫生部门正在监测该州三例疑似猴痘病例。/	未分類
 2026-09-29	巴士座椅藏針｜被針刺到可能感染哪些疾病？感染愛滋病風險竟只有0.5% 附刺傷處理方法	https://www.am730.com.hk/健康/1043778/巴士座椅藏針-被針刺到可能感染哪些疾病-感染愛滋病風險竟只有0.5-附刺傷處理方法	未分類
 2026-09-29	已故作家王浩一女兒「打完兩劑AZ確診漸凍症」病逝 疾管署：較可能是時間巧合 | 鏡週刊	https://today.line.me/tw/v3/article/8nXkR2k	未分類
@@ -1064,7 +1019,6 @@ var DATA_MEDICAL = `
 2026-09-29	川渝公安高層 先後突發病逝	https://www.hkej.com/dailynews/cntw/article/4459285/川渝公安高層++先後突發病逝	未分類
 2026-09-29	川普不想再讓大家打這麼多疫苗。本週白宮宣布，調整兒童疫苗接種時程，將全面建議接種的疾病數量大幅縮減，不再要求兒童一生中接受數十針疫苗，而是聚焦核心項目。 川普強調，並沒有要禁止疫苗，而是把政府全面建議與家長自主選擇清楚分開，家長若希望完整接	https://www.facebook.com/yutinghaosfinance/posts/川普不想再讓大家打這麼多疫苗本週白宮宣布調整兒童疫苗接種時程將全面建議接種的疾病數量大幅縮減不再要求兒童一生中接受數十針疫苗而是聚焦核心項目川普強調並沒有要禁止/926188726639148/	未分類
 2026-09-29	島根縣 777 人感染，1 人死亡 第 9 次新冠	https://www.47news.jp/localnews/8672289.html	未分類
-2026-07-02	山西首次舉行口岸輸入性傳染病多部門協同應急演練	https://www.hkcd.com.hk/hkcdweb/content/2026/07/02/content_8762975.html	未分類
 2026-09-29	山西柳林首富確診亡 逾百億債務未償還	https://www.epochtimes.com.tw/n398859/山西柳林首富確診亡-逾百億債務未償還.html	未分類
 2026-09-29	山西32歲大學女講師病逝 村支書：幼時失雙親，本來已在籌備婚禮	https://www.hk01.com/article/60211049?utm_source=01articlecopy&utm_medium=referral	未分類
 2026-09-29	屯院31月大確診女童病歿，現有6幼童染疫留醫，最細僅1個月大。	https://hk.news.yahoo.com/屯院-31-月大確診女童病歿-現有-6-幼童染疫留醫-最細僅-1-個月大-112212225.html	未分類
@@ -1100,7 +1054,6 @@ var DATA_MEDICAL = `
 2026-09-29	季節性流感疫苗接種計劃9·17展開衞生署籲開學季盡快接種- 港聞	https://www.dotdotnews.com/s/202608/31/AP6a950501e4b04b6c5d38644e.html	未分類
 2026-09-29	孟加拉麻疹疫情大爆發一個月內百童病逝| 生活熱話	https://www.ohpama.com/1016881/生活熱話/生活熱話/孟加拉-麻疹-疫情-大爆發-一個月內-百童病逝/	未分類
 2026-09-29	孟加拉近一個月逾百名兒童疑感染麻疹死亡 啟動疫苗接種計劃	https://news.tvb.com/tc/world/69d4bd79cd258827b711d718/國際-孟加拉近一個月逾百名兒童疑感染麻疹死亡--啟動疫苗接種計劃	未分類
-2026-02-27	孟加拉航空机舱蚊患空少挥电蚊拍灭蚊引热议| 世界万象| 東方網馬來西亞東方日報	https://www.orientaldaily.com.my/news/buzz/2026/02/27/800285	未分類
 2026-09-29	孟加拉航空机舱蚊患 空少挥电蚊拍灭蚊引热议	https://www.8world.com/world/mosquito-at-airports-and-onboard-flights-3067036	未分類
 2026-09-29	孟加拉「兩后爭霸」落幕！首位女總理吉亞80歲病逝 曾遭宿敵關押17年	https://news.ltn.com.tw/news/world/breakingnews/5293734	未分類
 2026-09-29	孔繁毅：本地新冠疫情趨嚴重 高危人士重症機會較大	https://www.881903.com/news/local/2641048	未分類
@@ -1108,7 +1061,6 @@ var DATA_MEDICAL = `
 2026-09-29	子宮全切！施可瑩卵巢癌猝逝 歌手男友含淚發聲：她在上面看著我	https://star.setn.com/news/1860906	未分類
 2026-09-29	媽病逝11年 Makiyo指南宮參拜被問「現在才來？」原因曝光 | CTWANT	https://today.line.me/tw/v3/article/x2YYPOq	未分類
 2026-09-29	媒體記者詢問 「為什麼我在乎，過年的病毒🦠感染？」 恰好我正在閱讀：Infection increased heart attack and stroke 3-5 times相關文章 我整理一下，病毒感染之後的一些重點 🦠 【病毒感染後，心臟病與中風風險顯著上升】 美國心臟協會整合分析了 155 項研究，發現一個	https://www.facebook.com/ooihean/posts/媒體記者詢問為什麼我在乎過年的病毒感染恰好我正在閱讀infection-increased-heart-attack-and-stroke-3-5-times相/1587272562870742/	未分類
-2026-05-23	婦追劇易乾眼「確診乾燥症」 本土研究揭乾眼症與自體免疫疾病有關	https://news.pchome.com.tw/healthcare/healthnews/20260523/index-17795124001820820012.html	未分類
 2026-09-29	姊妹不菸不酒「長期疲勞爆肝炎」 醫篩檢確診罕見自體免疫疾病	https://health.ettoday.net/news/3156142	未分類
 2026-09-29	妹妹腫瘤破裂離世6年「孫德榮超自責」 65歲中風曾放話「拒絕插管」	https://tw.news.yahoo.com/妹妹腫瘤破裂離世6年-孫德榮超自責-65歲中風曾放話-拒絕插管-094300666.html	未分類
 2026-09-29	如果我是感染者，你愿意拥抱我吗？深圳防艾科普活动进校园	https://m.sohu.com/a/1073525018_161795?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	未分類
@@ -1126,12 +1078,10 @@ var DATA_MEDICAL = `
 2026-09-29	奧斯卡編劇Tom Stoppard病逝 名咀Piers Morgan發文悼念	https://www.am730.com.hk/娛樂/奧斯卡編劇tom-stoppard病逝-名咀piers-morgan發文悼念/623774	未分類
 2026-09-29	失智症不只和大腦有關？「牙周病、關節炎、糖尿病」16種疾病都增風險	https://health.udn.com/health/amp/story/10695/9325957	未分類
 2026-09-29	失明難民遭美國邊巡隊遺棄街頭 死於低溫脫水併發症法醫裁定「他殺」	https://std.stheadline.com/realtime-world/3558843/失明難民遭美國邊巡隊遺棄街頭-死於低溫脫水併發症法醫裁定他殺	未分類
-2026-07-25	央視前主持人敬一丹被爆病亡 知情者披露病因	https://hk.epochtimes.com/news/2026-07-25/8385862	未分類
 2026-09-29	夫病逝後處裡遺產揭驚人秘密 結婚35年竟冒出「台灣妻」	https://www.chinatimes.com/realtimenews/20260822000975-260402	未分類
 2026-09-29	天熱高溫車內恐曬出毒! 近半數車主罹血癌 譚敦慈示警「2大關鍵」	https://www.msn.com/zh-tw/news/other/天熱高溫車內恐曬出毒-近半數車主罹血癌-譚敦慈示警-2大關鍵/ar-AA21ArMx?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	天然化合物作为猴痘A42R潜在抑制剂的研究：对接分析、动力学特性及能量学研究	https://m.ebiotrade.com/newsf/2026-3/20260328005453815.htm	未分類
 2026-09-29	大雨過後登革熱燒進一家六口！高雄岡山3人確診 全台本土累計10例 | 太報	https://today.line.me/tw/v3/article/WBRz1zR	未分類
-2023-01-01	大陸知名主持人傅大勇病亡，年僅42歲。	https://hk.epochtimes.com/news/2023-01-01/32402277	未分類
 2026-09-29	大陸新冠疫情恐進入高流行 7月新增確診52萬例	https://vct.news/news/大陸新冠疫情恐進入高流行-7月新增確診52萬例	未分類
 2026-09-29	大陸新冠疫情升溫 30家醫院數據被公開	https://www.epochtimes.com/b5/26/7/21/n14814399.htm	未分類
 2026-09-29	大陸9天4名中年高管病亡 43歲董事長猝死	https://www.epochtimes.com/b5/26/8/24/n14836054.htm	未分類
@@ -1171,8 +1121,6 @@ var DATA_MEDICAL = `
 2026-09-29	多114名新冠患者入住隔離設施另添2名老翁染疫亡。	https://hk.news.yahoo.com/多114名新冠患者入住隔離設施-另添2名老翁染疫亡-112508754.html	未分類
 2026-09-29	外籍生悲歌／越南博士生病逝掀開外籍醫療網最大破口| 高教視窗	https://vip.udn.com/vip/story/122866/9646116	未分類
 2026-09-29	外婆罕見腦瘤病逝 《樓上樓下》孟澔淚崩吐遺憾：不要一直等	https://tw.news.yahoo.com/外婆罕見腦瘤病逝-《樓上樓下》孟澔淚崩吐遺憾：不要一直等-220000313.html	未分類
-2026-09-14	外地及在港曾與陌生男子敦倫 31歲漢染猴痘手腳掌及下體出疹	https://hk.on.cc/hk/bkn/cnt/news/20260914/bkn-20260914194045375-0914_00822_001.html	未分類
-2022-12-04	外國新增1866確診6亡例尚有23099活躍病例	https://www.kwongwah.com.my/20221204/【新冠肺炎】全国新增1866确诊6亡例-尚有23099活跃病例/	未分類
 2026-09-29	外來魚類釋放遭惹病毒, 沙巴多區吉羅魚大量死亡	https://www.overseaschinesedailynews.com.my/news/124728/外來魚類釋放遭惹病毒-沙巴多區吉羅魚大量死亡/	未分類
 2026-09-29	外交實務教科書走了！ 前外交部長程建人病逝	http://www.msn.com/zh-tw/news/other/外交實務教科書走了-前外交部長程建人病逝/ar-AA1NooZQ?cvid=68d7d817668943019ecd05727b75c8fe&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	夏季流感爆發！單週破9萬人次就診「70重症12死」 新冠疫情續升溫 | CTWANT	https://today.line.me/tw/v3/article/7Nvw32J	未分類
@@ -1197,15 +1145,12 @@ var DATA_MEDICAL = `
 2026-09-29	基因編輯療法︱6歲女接受試驗後死亡上交大醫學院啟調查堅決反對違背倫理| 生活熱話	https://www.ohpama.com/1037826/生活熱話/生活熱話/基因編輯療法-6歲女-試驗-死亡-大醫學院/	未分類
 2026-09-29	基因編輯療法︱6歲女接受試驗後死亡 上海衛健委介入調查	https://www.stheadline.com/realtime-china/3597962/基因編輯療法6歲女接受試驗後死亡-上海衛健委介入調查	未分類
 2026-09-29	埃及斑蚊是「公務員」？「這群人」破解登革熱抗藥性 連替代役都不想走	https://health.setn.com/news/1800095	未分類
-2026-07-01	埃博拉疫情仍在傳 專家：保持理性客觀不恐慌	https://www.ntdtv.com/b5/2026/07/01/a104111174.html	未分類
 2026-09-29	地盤主管注射新冠疫苗後亡 死因庭裁定死於不幸	https://std.stheadline.com/realtime/article/2031619/即時-港聞-地盤主管注射新冠疫苗後亡-死因庭裁定死於不幸	未分類
 2026-09-29	國泰航機英國曼城返港男子機上猝死 生前患胰臟癌	https://www.stheadline.com/breaking-news/3565366/國泰航機英國曼城返港男子機上猝死-生前患胰臟癌	未分類
 2026-09-29	國家疾控局： 內地新冠病毒總體處低流行水平	https://www.bastillepost.com/hongkong/article/16376110-國家疾控局：內地新冠病毒總體處低流行水平	未分類
 2026-09-29	國內病歿突破1.5萬人，中國恐有2.5億人染疫。	https://tw.news.yahoo.com/國內病歿突破1-5萬人-中國恐有2-5億人染疫-215340655.html	未分類
 2026-09-29	國內爆今年首例「漢他病毒」 北部7旬男感染死亡	https://health.ettoday.net/news/3110705	未分類
 2026-09-29	國內最小重症個案！20天大男嬰染新冠併發肺炎 發病4天進加護搶救 | 黃天如 | 新聞	https://www.storm.mg/article/11162803	未分類
-2023-01-11	國內增加380確診9病殘|中國報	https://www.chinapress.com.my/20230111/◤疫缠第四年◢昨增380确诊-9病殁/	未分類
-2022-12-15	國內增1241確診,6病疫殁	https://www.chinapress.com.my/20221215/◤疫缠第三年◢-国内增1241确诊-6疫殁/	未分類
 2026-09-29	國內今年首例漢他病毒症候群現蹤北市 大安區七旬老翁染疫爆併發症逝	https://www.taiwanhot.net/news/1126873/國內今年首例漢他病毒症候群現蹤北市+大安區七旬老翁染疫爆併發症逝	未分類
 2026-09-29	國光流感疫苗變色原因出爐 初判膠塞瑕疵導致	https://health.ltn.com.tw/article/breakingnews/4830563	未分類
 2026-09-29	國光新劑型破傷風疫苗 進軍東南亞CPHI展	https://www.idn.com.tw/news/news_content.aspx?catid=3&catsid=1&catdid=0&artid=20260714kofang010	未分類
@@ -1215,9 +1160,7 @@ var DATA_MEDICAL = `
 2026-09-29	国家疾控局：南方部分省份存在登革热、基孔肯雅热聚集性疫情发生风险	http://www.cb.com.cn/index/show/jj/cv/cv135405462066	未分類
 2026-09-29	国家疾控局：全国新冠疫情已连续3周下降，流感等学校常见传染病疫情风险有所上升	https://m.sohu.com/a/1071479187_120046696?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	未分類
 2026-09-29	国家疾控局：全国新冠疫情已连续3周下降，流感疫情在低流行水平波动	https://news.ifeng.com/c/8w7WZadi7BR	未分類
-2026-07-13	因應極端氣候 嘉義國中風雨球場動土打造全天候運動空間 - 生活新聞 - PChome Online 新聞	https://news.pchome.com.tw/living/cna/20260713/index-17839088475289518009.html	未分類
 2026-09-29	四大呼吸疾病威脅國人健康 林口長庚籲成人接種疫苗	https://udn.com/news/amp/story/7266/9719541	未分類
-2026-03-14	囚禁女兒900天亡！虎媽移屍「鹽水洗地」辯怕有細菌 法院斥荒謬	https://www.ettoday.net/news/20260314/3132185.htm	未分類
 2026-09-29	嘉義癌末男涉槍砲案被收押！拘留室突口吐白沫猝死...疑吞「氰化毒物」 將解剖釐清死因	https://www.ftnn.com.tw/news/500328	未分類
 2026-09-29	嘉義市現首例境外移入登革熱 籲請民眾加強落實孳生源清除	https://sunmedia.tw/news/collaborative/18cmhwJUr281cm8jxctonsG8tKdrwHQ1dbg9ths3lkpM7fPMKvSL	未分類
 2026-09-29	嘉市出現首例境外移入登革熱確定病例 籲請加強落實孳生源清除	https://n.yam.com/Article/20260720103850	未分類
@@ -1231,11 +1174,9 @@ var DATA_MEDICAL = `
 2026-09-29	哪些變異株是近期新冠疫情的主要傳播者？	https://www.bella.tw/articles/aigc/answer/哪些變異株是-51545697	未分類
 2026-09-29	哈萨克斯坦卫生部：尚未报告猴痘病例	https://cn.inform.kz/news/shengbu-5d27d0/	未分類
 2026-09-29	咳嗽、喉嚨痛別只當感冒！新冠近一年破百死 「淑芳阿姨」籲就醫不等待	https://www.knews.com.tw/news/5176A316FFE5330A6E345019FE322ACD	未分類
-2026-06-27	和迅異體幹細胞五大適應症全面推進 - 財經新聞 - PChome Online 新聞	https://news.pchome.com.tw/finance/idn/20260627/index-78250383226850224003.html	未分類
 2026-09-29	呼吸道感染恐釀失能！醫籲成人疫苗提早布局防線 莫當健康「負」翁	https://www.setn.com/ampnews/1912017	未分類
 2026-09-29	吸金6500萬剛重判73年! 宜蘭縣長林姿妙前秘書許智信今病逝 | Newtalk	https://today.line.me/tw/v3/article/mWRzLWE	未分類
 2026-09-29	吳芮醫生談2026的B型流感	https://n.yam.com/Article/20260223469421	未分類
-2026-05-11	吳芮醫生看我們與漢他病毒疾病的距離	https://news.pchome.com.tw/living/meganews/20260511/index-77845924151625335009.html	未分類
 2026-09-29	吳文忻病逝｜鄭秀文發長文痛悼 公開最後對話：美好的仗你已打過	https://www.hk01.com/即時娛樂/60358745/吳文忻病逝-鄭秀文發長文痛悼-公開最後對話-美好的仗你已打過	未分類
 2026-09-29	吳文忻病逝｜節目指周汶錡「擘大眼講大話」 得罪王晶遭封殺13年	https://www.hk01.com/即時娛樂/60358475/吳文忻病逝-節目指周汶錡-擘大眼講大話-得罪王晶遭封殺13年	未分類
 2026-09-29	吳文忻病逝｜45年摰友吳文忻病逝彭秀慧公開短片淚崩最後一次見證文忻站起來：隔空相約天堂再見	https://topick.hket.com/article/4144193/吳文忻病逝｜45年摰友吳文忻病逝 彭秀慧公開短片淚崩 最後一次見證文忻站起來：隔空相約天堂再見	未分類
@@ -1248,7 +1189,6 @@ var DATA_MEDICAL = `
 2026-09-29	吊繩突斷裂！國中風雨操場施工 烤漆板砸死35歲工人	https://www.ftnn.com.tw/news/549477	未分類
 2026-09-29	吊繩突斷裂! 國中風雨操場施工 烤漆板砸死35 歲工人	https://www.msn.com/zh-tw/news/other/吊繩突斷裂-國中風雨操場施工-烤漆板砸死35歲工人/ar-AA24k4ZB	未分類
 2026-09-29	吃飽就睏慘了！恐「4重病」警訊：糖尿病、心臟衰竭、敗腎	https://health.setn.com/news/1872729	未分類
-2025-12-05	吃錯當心老得快！瑞典研究：長期吃「促發炎飲食」 慢性病累積速度增	https://news.pchome.com.tw/healthcare/healthnews/20251205/index-17649036003533420012.html	未分類
 2026-09-29	史瓦帝尼愛滋感染率26％！展望會助友邦擺脫愛滋與貧困	https://turnnewsapp.com/livenews/life/20260422003778-260405	未分類
 2026-09-29	史丹福大學研究：1疾病疫苗 可望減少罹患失智症風險	https://www.worldjournal.com/wj/amp/story/121238/9187696	未分類
 2026-09-29	史丹福大學和舊金山加大研究：疫情初期加州估漏報1.1萬死亡數	https://www.worldjournal.com/wj/amp/story/121519/9392590	未分類
@@ -1256,8 +1196,6 @@ var DATA_MEDICAL = `
 2026-09-29	史上最小日本腦炎本土個案 未足歲嬰感染源待查	http://www.msn.com/zh-tw/health/other/史上最小日本腦炎本土個案-未足歲嬰感染源待查/ar-AA25KXM2	未分類
 2026-09-29	史上最小新冠重症 20天大男嬰「住院4天轉加護」搶救中	https://health.ettoday.net/news/3233652	未分類
 2026-09-29	台音樂人袁惟仁病逝 20歲女兒袁融心碎宣布「以後不做這件事」	https://www.hk01.com/即時娛樂/60318703/台音樂人袁惟仁病逝-20歲女兒袁融心碎宣布-以後不做這件事	未分類
-2026-06-02	台醫仲介病患赴中器官移植 獲刑2年 丟行醫證	https://www.ntdtv.com/gb/2026/06/02/a104102334.html/amp	未分類
-2026-07-22	台進入新冠流行期 單周4766人次就診5死	https://hk.on.cc/hk/bkn/cnt/news/20260722/bkn-20260722161006821-0722_00822_001.html	未分類
 2026-09-29	台語歌后張秀卿媽小感冒竟病逝！醫：咳超過「這天數」恐內臟在求救	https://health.tvbs.com.tw/medical/363865	未分類
 2026-09-29	台美貿易談判推手顏慧欣53歲病逝 同事：她在經貿辦受長官排擠	https://www.worldjournal.com/wj/story/121221/9401004?from=wj_catelistnews	未分類
 2026-09-29	台美經貿談判功臣顏慧欣病逝 卓榮泰沈痛哀悼： 痛失盡心盡力的夥伴	https://www.msn.com/zh-tw/news/national/台美經貿談判功臣顏慧欣病逝-卓榮泰沈痛哀悼-痛失盡心盡力的夥伴/ar-AA1ZiP4U	未分類
@@ -1271,7 +1209,6 @@ var DATA_MEDICAL = `
 2026-09-29	台灣新增14019宗新冠 今增29死！(1人1針, 4人2針, 7人3針, 1人4針)	https://tw.news.yahoo.com/今增29死-50多歲確診男-多重器官衰竭亡-062100648.html	未分類
 2026-09-29	台灣新冠肺炎今本土增1萬6012例、37死,20歲女慢性病患確診隔天亡	https://tw.news.yahoo.com/新冠肺炎今本土增-1-萬-6012-例、-37-死-20-歲女慢性病患確診隔天亡-060257496.html	未分類
 2026-09-29	台灣新冠疫情急升溫 一周就診近1.9萬人次 重症創單季新高	https://www.kinliu.hk/news/社會/台灣新冠疫情急升溫-一周就診近1.9萬人次-重症創單季新高/208168.html?id=129&from=home&bc1=首頁&bc1to=/	未分類
-2026-08-04	台灣新冠就診人次單周增逾七成 多62宗重症見今年新高 (16:43) - 20260804 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260804/s00004/1785832601545/台灣新冠就診人次單周增逾七成-多62宗重症見今年新高	未分類
 2026-09-29	台灣增逾3萬宗本土確診 多17人死亡	https://www.bastillepost.com/hongkong/article/12006245-台灣疫情再升溫破3萬宗確診-541宗境外輸入創紀錄	未分類
 2026-09-29	台灣單周新增62宗新冠重症創新高	https://www.stheadline.com/daily-china/3601047/台灣單周新增62宗新冠重症創新高	未分類
 2026-09-29	台灣今增24死！40多歲男曾打2劑疫苗，確診兩周身亡。	https://times.hinet.net/news/24325561	未分類
@@ -1296,11 +1233,9 @@ var DATA_MEDICAL = `
 2026-09-29	去年罹漸凍人症 53歲帥氣男星病逝死因曝	https://www.mirrormedia.mg/external/amp/setn_1801501	未分類
 2026-09-29	去年宣布患漸凍人症 《醫人當自強》Eric病逝	https://www.stheadline.com/daily-entertainment/3546174/去年宣布患漸凍人症-醫人當自強Eric病逝	未分類
 2026-09-29	原廣州市長黎子流周三已火化，夫人染疫亡。	https://www.bastillepost.com/hongkong/article/11966648-獨家：原廣州市長黎子流今火化-夫人同日染疫去世	未分類
-2026-08-09	原北京軍區副司令等四名將軍病亡 死因不明	https://www.ntdtv.com/b5/2026/08/09/a104122530.html	未分類
 2026-09-29	印度立百病毒死亡個案! 女護士染疫數週病逝	https://www.msn.com/zh-tw/news/world/印度立百病毒死亡個案-女護士染疫數週病逝/ar-AA1WeQG8?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	印度病毒｜「尼帕病毒」死亡率達75% 武漢病毒研究所發現有效抑制藥「口服核苷藥物VV116」	https://topick.hket.com/article/4076009/	未分類
 2026-09-29	印度尼帕病毒｜死亡率高傳染性低 孔繁毅籲免赴疫區及飲生椰棗汁	https://www.hk01.com/article/60316879	未分類
-2026-03-12	印度婦確診腦死送返家辦後事 救護車猛震「過坑」竟奇蹟蘇醒	https://www.singtao.ca/7443402/2026-03-12/news-印度婦確診腦死送返家辦後事++救護車猛震「過坑」竟奇蹟蘇醒/	未分類
 2026-09-29	印度兩人死於尼帕病毒 亞洲多國加強機場篩查	https://www.epochtimes.com/b5/26/1/28/n14686245.htm/amp	未分類
 2026-09-29	印度乞討婦病逝 家中挖出30多袋紙鈔、硬幣 估計3萬現金	https://www.worldjournal.com/wj/story/121261/9746291	未分類
 2026-09-29	印尼逾2百學生集體食物中毒送院無死亡報告 疑中毒源頭為咖喱魚	https://news.rthk.hk/rthk/ch/component/k2/1866208-20260814.htm	未分類
@@ -1316,7 +1251,6 @@ var DATA_MEDICAL = `
 2026-09-29	南非的下一次病毒出现可能已经存在：未被充分认识的人畜共患和虫媒病毒传播作为一个监测盲点	https://www.ebiotrade.com/newsf/2026-7/20260719231702726.htm	未分類
 2026-09-29	南非沙丁魚染疱疹病毒集體暴斃 致瀕危非洲企鵝糧食告急	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFQlFvck5lSEpSblRKSFJQZVRSWEdDS3g2YWwtcjlsUFJIUmNHU1kzVjR5bGV4RjFFeC1wdXRRWV9DQ2k0QlVVOXFpSDBTaW9r?oc=5	未分類
 2026-09-29	南澳禽流感疫情升級 逾千隻雀鳥疑染H5N1死亡	https://www.sbs.com.au/language/chinese/zh-hant/article/over-1000-birds-found-dead-south-australia-confronts-major-bird-flu-escalation/dy1vocr6w	未分類
-2026-09-14	南澳省瀕危澳洲海獅染H5N1亡 全國首例	https://hk.on.cc/hk/bkn/cnt/intnews/20260914/bkn-20260914081703540-0914_00992_001.html	未分類
 2026-09-29	南投縣府原祕書長病逝 李良珠升任接棒	https://www.chinatimes.com/realtimenews/20260120002592-260407	未分類
 2026-09-29	南投新冠重症增8例並有1死 公費疫苗僅剩400多劑 | 中廣新聞網	https://today.line.me/tw/v3/article/JPnVmeP	未分類
 2026-09-29	华兰生物：控股子公司获新型流感病毒mRNA疫苗临床试验批准	https://cj.sina.cn/articles/view/5115326071/130e5ae77020030q28?vt=4	未分類
@@ -1354,7 +1288,6 @@ var DATA_MEDICAL = `
 2026-09-29	剛果民主共和國伊波拉疫情增至131死 世衛將召開緊急會議	https://news.rthk.hk/rthk/ch/component/k2/1855244-20260519.htm	未分類
 2026-09-29	剛果伊波拉疫情惡化逾506人病逝 醫護揚言罷工恐衝擊防疫	https://www.taiwannews.com.tw/zh/news/6396316	未分類
 2026-09-29	前財部次長戴立寧病逝 金融圈惋惜	https://news.housefun.com.tw/news/article/132202480987.html	未分類
-2026-08-20	前福奇顧問承認試圖隱瞞與新冠起源相關的記錄- 紐約時報中文網	https://cn.nytimes.com/usa/20260820/david-morens-covid-fauci/zh-hant/	未分類
 2026-09-29	前政務司司長許仕仁病逝 曾打低大鱷 受賄入獄 揮霍無度21萬一餐	https://businessfocus.io/article/348272/許仕仁病逝-打敗金融大鱷-貪污判監-揮霍無度	未分類
 2026-09-29	前政務司司長許仕仁病逝	https://www.stheadline.com/daily-hongkong/3540924/前政務司司長許仕仁病逝	未分類
 2026-09-29	前主播吳中純死因非癌症？ 女兒泣「是不是化療害死了我的家人？」	https://udn.com/news/amp/story/7266/9352653	未分類
@@ -1398,15 +1331,12 @@ var DATA_MEDICAL = `
 2026-09-29	全球首款！可检测本迪布焦型埃博拉病毒，供应十二个非洲国家	https://www.163.com/dy/article/L1PG9S400534B3IC.html	未分類
 2026-09-29	全球慢性病管理市場規模上看 206 億美元 年複合成長率達 13.5%	https://n.yam.com/Article/20260316744741	未分類
 2026-09-29	全國多個地區降雨高於正常水平 今年夏季的蚊患或較往年更加嚴重	https://am1320.com/焦點新聞/全國多個地區降雨高於正常水平-今年夏季的蚊患或/	未分類
-2026-02-11	內蒙古疫情肆虐 狂建公墓、殯儀館和醫院	https://www.ntdtv.com/gb/2026/02/11/a104065469.html/amp	未分類
 2026-09-29	內媒報道醫學生染疫身亡、記者病逝，官方通報死亡個案為零惹議。	https://www.hk01.com/即時中國/848340/內媒報道醫學生染疫身亡-記者病逝-官方通報死亡個案為零惹議	未分類
 2026-09-29	內地獨子病逝留87個遊戲帳號！母親想賣掉 法院判准繼承可改實名	https://www.hk01.com/遊戲動漫/60379263/內地獨子病逝留87個遊戲帳號-母親想賣掉-法院判准繼承可改實名	未分類
 2026-09-29	內地新增9543宗本土確診多5人死亡	https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1682760-20230106.htm?spTabChangeable=0	未分類
 2026-09-29	內地新增1.4萬宗新冠確診個案 多3名患者死亡	https://www.bastillepost.com/hongkong/article/12040334-內地新增1-4萬宗新冠確診個案 多3名患者死亡	未分類
-2026-08-07	內地新冠陽性率上升趨緩 南方顯著高於北方	https://hk.on.cc/hk/bkn/cnt/news/20260807/bkn-20260807200556066-0807_00822_001.html	未分類
 2026-09-29	內地增5102宗本土確診，再多1人染疫亡。	https://www.bastillepost.com/hongkong/article/11987863-內地增5102宗本土病例-再多1人死亡	未分類
 2026-09-29	內地去年瘋狗症發病及死亡個案創新高 有專家指不少人被咬傷後未即時接種疫苗	https://news.tvb.com/tc/greaterchina/6978a94857ebf3ef2e12cb4c/兩岸-內地去年瘋狗症發病及死亡個案創新高-有專家指不少人被咬傷後未即時接種疫苗	未分類
-2026-04-01	內地列基孔肯雅熱為乙類傳染病 廣東啟動伊蚊監測	https://hk.on.cc/hk/bkn/cnt/news/20260401/bkn-20260401183001676-0401_00822_001.html	未分類
 2026-09-29	內地6歲女童 基因編輯治療後亡	https://www.hkej.com/dailynews/cntw/article/4465355/內地6歲女童+基因編輯治療後亡	未分類
 2026-09-29	內地6歲女接受基因編輯治療發病亡 上海交大全面調查	https://www.am730.com.hk/article/1043762	未分類
 2026-09-29	兒虐害成年罹患身心疾病 研究：重鬱、偏頭痛、糖尿病風險都上升	https://health.ettoday.net/news/3077104	未分類
@@ -1489,12 +1419,10 @@ var DATA_MEDICAL = `
 2026-09-29	亚利桑那州卫生部门：确认该州首例I型猴痘病毒分支病例；对公众的风险仍然较低。	https://wap.cj.sina.cn/pc/7x24/5003158	未分類
 2026-09-29	五一黃金周｜內地客西貢捉海膽即食惹關注 食安中心 : 生食或會感染食源性疾病	https://std.stheadline.com/society/3568875/五一黃金周內地客西貢捉海膽即食惹關注-食安中心-生食或會感染食源性疾病	未分類
 2026-09-29	二期擴建延宕 現為新冠隔離營	https://www.hkej.com/dailynews/hknews/article/4484924/二期擴建延宕+現為新冠隔離營	未分類
-2026-09-07	九一一事件近25年後 逾400名FBI員工確診相關疾病	https://wchns.net/2026/09/07/九一一事件近25年後-逾400名fbi員工確診相關疾病/	未分類
 2026-09-29	之江生物：猴痘病毒核酸检测试剂盒获国家三类医疗器械注册证	https://wap.eastmoney.com/a/202608193846348780.html	未分類
 2026-09-29	之江生物：猴痘病毒核酸检测试剂盒获III类医疗器械注册证	https://finance.eastmoney.com/a/202608193846378018.html	未分類
 2026-09-29	之江生物(688317.SH)：猴痘病毒核酸检测试剂盒获三类医疗器械注册证	https://finance.eastmoney.com/a/202608193846390495.html	未分類
 2026-09-29	主導血腥屠殺 「波士尼亞屠夫」病逝	https://www.cna.com.tw/video/news/4356163	未分類
-2026-08-03	为什么施打疫苗后 手臂会留下疤痕？(图)	https://m.secretchina.com/news/gb/2026/08/03/amp1101579.html	未分類
 2026-09-29	中風逝者捐器官救6人 醫護列隊致敬	https://www.hkej.com/dailynews/hknews/article/4410332/中風逝者捐器官救6人+醫護列隊致敬	未分類
 2026-09-29	中風心臟病｜港大研發AI工具「未病先知」 一次驗血提早15年預測6種心血管病| 心臟健康	https://www.orientalsunday.hk/心臟健康/港大研究-ai-心血管疾病-cardiomicscore-1680646/	未分類
 2026-09-29	中風後，為什麼我總是擔心疾病會再惡化？	https://www.careonline.com.tw/2026/04/202604090200.html	未分類
@@ -1502,24 +1430,18 @@ var DATA_MEDICAL = `
 2026-09-29	中重症增97例！20多歲男打3劑 確診5日內死亡 指揮中心揭死因	https://times.hinet.net/mobile/news/24373373	未分類
 2026-09-29	中部2歲童已打公費疫苗竟「頭長角」染肺炎鏈球菌亡	https://udn.com/news/story/7266/6761635	未分類
 2026-09-29	中秋連假前流感升溫！上週165人重症、30死 疾管署示警 | Newtalk	https://today.line.me/tw/v3/article/rmpmjEk	未分類
-2026-08-07	中疾控：新冠陽性率超20% 南方顯著高於北方- 兩岸	https://www.dotdotnews.com/a/202608/07/AP6a755954e4b04b6c5d35f70b.html	未分類
 2026-09-29	中市新增1例本土M痘病例 衛生局籲高風險族群儘速完成2劑疫苗接種 | 觀傳媒	https://today.line.me/tw/v3/article/kER9QKw	未分類
 2026-09-29	中山大學附屬腫瘤醫院年輕醫生猝死 年僅34歲	https://www.ohpama.com/969010/生活熱話/生活熱話/嫲嫲離世-game-boy-遊戲-90後/	未分類
 2026-09-29	中央與地方聯手啟動登革熱孳清大動員，沒有積水就沒有登革熱！	https://enews.moenv.gov.tw/page/3b3c62c78849f32f/324cb7b0-4beb-4253-a613-ae6c455c9df9	未分類
 2026-09-29	中天(4128)子公司中天（上海）與合一生技共同研發之SNS812 小核酸新冠新藥第II期人體臨床試驗成果，於國際高影響力 SCI期刊《Journal of Biomedical Science》發表(8/14股價14.8元)	https://www.genetinfo.com/investment/company-news/item/97526.html	未分類
 2026-09-29	中國驚現新病毒！發燒、疲倦、腸胃不適 蜱蟲恐是傳播媒介	https://news.google.com/rss/articles/CBMiZkFVX3lxTE45Y09XdUFmNEZiS0hfUExTclRKR19nUU93T2EwX1NnUEVIdWdMallRb3otU2txWHpkWjM4ZGo3eXh3OXB2TkZvN1VrVHRMcEhmMktIV1R5c29YeWkzT2NuLS1sWXlFZ9IBa0FVX3lxTE16WENEdkJpUGU3UXhDczlPZ2JVejAxWnJtWjdnMF9BWlJSUktIV1ZVaGJRWlNiWFQ2bmFaTUQ2aGpwanFWNmN3SW5iZGNYRmkwVlMxOERKNTMwb2hFaUtxWnRJcjdZdGJwYy1j?oc=5	未分類
 2026-09-29	中國首例「人腦基因編輯」釀女童死亡上海交大瞞悲劇仍登《自然》期刊、家屬砸2700萬換心痛結局	https://tw.news.yahoo.com/中國首例-人腦基因編輯-釀女童死亡-上海交大瞞悲劇仍登-自然-044648220.html	未分類
-2026-05-15	中國農工黨3高官病亡 含副國級高官陳竺前副手	https://hk.epochtimes.com/news/2026-05-15/80870372	未分類
 2026-09-29	中國科研團隊開發無痛注射機械人 疫苗接種更快更輕鬆 | 社會民生 | 焦點縱覽	https://www.ourchinastory.com/zh/3297	未分類
 2026-09-29	中國發布通知 推動登革熱屈公病等蟲類傳染病防控	http://www.msn.com/zh-tw/health/other/中國發布通知-推動登革熱屈公病等蟲類傳染病防控/ar-AA20DERr	未分類
 2026-09-29	中國疾控中心：新冠陽性率超20% 南方顯著高於北方	https://www.bastillepost.com/hongkong/article/16522277-中國疾控中心：新冠陽性率超20-南方顯著高於北方	未分類
 2026-09-29	中國疾控中心：新冠病毒檢測陽性率上周出現下降	https://news.rthk.hk/rthk/ch/component/k2/1866114-20260814.htm	未分類
-2026-01-05	中國疫情蔓延 男女老少接二連三去世	https://www.ntdtv.com/b5/2026/01/05/a104053642.html	未分類
 2026-09-29	中國疫情海嘯 估6億人染疫 20天超過全球3年	https://www.worldjournal.com/wj/story/121474/6880779	未分類
-2025-12-06	中國疫情凶猛 傳播速度快 猝亡者激增 不分年齡	https://www.ntdtv.com/b5/2025/12/06/a104044535.html	未分類
-2026-01-03	中國民眾曝 大量老人和青壯年病亡	https://www.ntdtv.com/b5/2026/01/03/a104052819.html	未分類
 2026-09-29	中國最長壽網紅！「107歲仙翁爺爺」確診，不到12小時猝逝。	https://times.hinet.net/news/24335393	未分類
-2026-08-19	中國新冠病例7月暴增560% 8月衝更高（視頻）	https://www1.renminbao.com/rmb/articles/2026/8/19/96293b.html	未分類
 2026-09-29	中國新冠疫苗受害者的苦與怒	https://www.epochtimes.com/b5/26/5/2/n14754842.htm/amp	未分類
 2026-09-29	中國新冠疫情升高 專家：流行規模遠超官方數字	https://www.epochtimes.com/b5/26/7/28/n14819243.htm	未分類
 2026-09-29	中國放棄清零後病亡人數, 專家估1至2百萬人。	https://tw.news.yahoo.com/中國放棄清零後病亡人數-專家估1至2百萬人-123807949.html	未分類
@@ -1536,12 +1458,7 @@ var DATA_MEDICAL = `
 2026-09-29	中國37歲前職業足球運動員因新冠病毒感染去世 SNS上的焦慮之聲儘管放鬆管制	https://news.yahoo.co.jp/articles/d25662caac92e89717e4c967b0cb374ba4ecd38b	未分類
 2026-09-29	中国疾病预防控制中心：实验室检测的流感病毒阳性标本中 97.3%为甲型H3N2流感病毒	https://app.xinhuanet.com/news/article.html?articleId=76a273f90cdb9a5c8fcf4ad9867a5f00	未分類
 2026-09-29	中国疾控：登革热、 基孔肯雅热由境外输入及跨省传播引起本地疫情风险上升	https://www.msn.com/zh-cn/health/通用/中国疾控-登革热-基孔肯雅热由境外输入及跨省传播引起本地疫情风险上升/ar-AA280kIO?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-2022-12-29	中共黨員、中國名中醫危北海在京病亡。	https://hk.epochtimes.com/news/2022-12-29/21320020	未分類
 2026-09-29	中共無神論學會理事楊烈病亡 年僅49歲	https://www.epochtimes.com/b5/26/3/12/n14717697.htm/amp	未分類
-2026-05-19	中共武器專家方岱寧病亡 官方詭異隱瞞2個月宣布	https://www.ntdtv.com/b5/2026/05/19/a104097986.html	未分類
-2023-01-18	中共國防科技大學前政治委員汪浩病亡	https://www.epochtimes.com/gb/23/1/18/n13909615.htm	未分類
-2023-01-15	中共創建人之一董必武長子董良羽病亡	https://www.epochtimes.com/gb/23/1/15/n13907767.htm	未分類
-2023-01-04	中共上將宋清渭病亡傳青海軍區前司令季佔斌死	https://www.epochtimes.com/gb/23/1/4/n13898933.htm	未分類
 2026-09-29	中共「防火牆」始作俑者方濱興自曝染疫。	https://www.epochtimes.com.tw/n397550/中共防火牆始作俑者方濱興自曝染疫.html	未分類
 2026-09-29	世衞：伊波拉疫情仍在剛果民主共和國快速擴散 逾3千人不治	https://www.kinliu.hk/news/環球/世衞：伊波拉疫情仍在剛果民主共和國快速擴散-逾3千人不治/286805.html?id=80&from=home&bc1=首頁&bc1to=/	未分類
 2026-09-29	世衛：剛果民主共和國伊波拉疫情仍在快速擴散	https://news.rthk.hk/rthk/ch/component/k2/1868604-20260903.htm	未分類
@@ -1574,7 +1491,6 @@ var DATA_MEDICAL = `
 2026-09-29	一年萬人死亡！入冬RSV拉警報 醫示警「2大族群」要提高警覺	https://health.setn.com/news/1763947	未分類
 2026-09-29	一名31歲男子確診猴痘 目前情況穩定	https://news.rthk.hk/rthk/ch/component/k2/1865116-20260805.htm	未分類
 2026-09-29	一只保溫杯用十幾年！男子鉛中毒1年後病逝	https://health.ettoday.net/news/3098619	未分類
-2026-08-15	一個月七名中青年教授病亡 五人是中共黨員	https://hk.epochtimes.com/news/2026-08-15/72735786	未分類
 2026-09-29	【速報】德島縣確診468例新增感染病例，5例死亡病例第9次新冠	https://www.fnn.jp/articles/-/468271	未分類
 2026-09-29	【速報】宮城縣新冠病毒感染3300人，3人死亡	https://www.fnn.jp/articles/-/453649	未分類
 2026-09-29	【速報】和歌山縣確診1288例新感染病例和5例死亡第9次新冠	https://www.fnn.jp/articles/-/468263	未分類
@@ -1582,12 +1498,10 @@ var DATA_MEDICAL = `
 2026-09-29	【速報】京都府確診1434例新增感染9例死亡20次新冠	https://www.fnn.jp/articles/-/473806	未分類
 2026-09-29	【肺癆】肺結核未絕迹 港年逾100人結核病死亡 慎防後遺症	https://health.mingpao.com/肺癆-肺結核未絕迹-港年逾100人結核病死亡-慎防後遺/	未分類
 2026-09-29	【老北京茶館】 第1554集 張又俠兒子反擊：告知世界爹被抓真相？習近平出昏招：威脅全軍政治整肅！美英滅共軍演升級！中共毒奶粉原料全球召回！武毒所又提前出病毒“特效藥”，有事！	https://www.soundofhope.org/post/921871?lang=b5	未分類
-2026-05-10	【突發】4名登上染疫郵輪的加拿大人 將在卑詩省進行隔離	https://www.singtao.ca/7500529/2026-05-10/news-【更新】4名登上染疫郵輪的加拿大人++將在卑詩省進行隔離/	未分類
 2026-09-29	【突發 】日本推理作家東野圭吾病逝 得年68歲 | 2026	https://theculturist.hk/2026/07/展訊/海外資訊/【突發-】日本推理作家東野圭吾病逝-得年68歲-2026/	未分類
 2026-09-29	【確診新冠！陳佩琪曝活到現在最驚悚一天 「大哭大叫文哲你在哪」】 印象中我好像確診過3次 ...（#豬頭皮 第一次最不舒服QQ）	https://www.facebook.com/ETtoday/posts/確診新冠陳佩琪曝活到現在最驚悚一天-大哭大叫文哲你在哪印象中我好像確診過3次-豬頭皮-第一次最不舒服qq/1546571907501889/	未分類
 2026-09-29	【直播】川普稱剩3554目標，伊朗令12歲娃參軍；解放軍演習誤打「前沿領導」；張雪峰送葬人數讓領導害怕？名探李昌鈺病逝。	https://www.soundofhope.org/post/926674?lang=b5	未分類
 2026-09-29	【直播】兒童疫苗諮詢委員會舉辦公開會議	https://www.epochtimes.com/b5/25/12/29/n14664611.htm	未分類
-2025-12-29	【直播】兒童疫苗諮詢委員會舉辦公眾會議	https://www.ntdtv.com/b5/2025/12/29/a104051065.html	未分類
 2026-09-29	【疫情匯報】檳+49確診 77歲老人疫歿	https://guangming.com.my/【疫情匯報】檳49確診-77歲老人疫歿	未分類
 2026-09-29	【疫情匯報】+10疫歿2宗BID	https://guangming.com.my/【疫情匯報】10疫歿2宗bid	未分類
 2026-09-29	【澳洲冬季疫情高峰消失？】專家拆解新冠病毒常態化原因	https://www.sbs.com.au/language/chinese/zh-hant/article/no-peak-australia-bucks-a-years-long-winter-sickness-trend/g6tzgq49j	未分類
@@ -1596,7 +1510,6 @@ var DATA_MEDICAL = `
 2026-09-29	【新冠詳細報告】島根縣1565人感染、鳥取縣1681人、4人死亡、醫療機構等9起群聚7日繼續	https://www.47news.jp/8782426.html	未分類
 2026-09-29	【新冠感染】澳門新增6人染疫亡,其中5人無接種疫苗	https://news.cnyes.com/news/id/5057662	未分類
 2026-09-29	【新冠】確診感染者為鳥取縣298人、島根縣240人、鳥取縣3人死亡、島根縣1人	https://www.fnn.jp/articles/-/454506	未分類
-2026-08-03	【思想領袖】科學與強權角力 新冠起源再爭議	https://www.ntdtv.com/b5/2026/08/03/a104120843.html/amp	未分類
 2026-09-29	【必知】出血期是關鍵！「登革熱」如何避免重症及死亡風險| 生活	https://www.setn.com/news/94036	未分類
 2026-09-29	【影音】 新冠疫情再攀高 新增 72 重症 14 死	https://leho.com.tw/archives/361822	未分類
 2026-09-29	【小心感冒】媽媽感冒演變肺炎敗血性休克驟逝，網紅悲痛：怎麼知道再沒有以後。	https://topick.hket.com/article/3422927/【小心感冒】媽媽感冒演變肺炎敗血性休克驟逝 網紅悲痛：怎麼知道再沒有以後?mtc=10004	未分類
@@ -1607,8 +1520,6 @@ var DATA_MEDICAL = `
 2026-09-29	【吃冰箱剩菜！孕婦「3個月後逝世」 專家警告：小心1細菌】 （#大表哥）	https://www.facebook.com/ETtoday/posts/吃冰箱剩菜孕婦3個月後逝世-專家警告小心1細菌大表哥/1417345633757851/	未分類
 2026-09-29	【即時新聞】諾瓦瓦克斯(NVAX)宣布更新版新冠疫苗獲准！攜手賽諾菲搶攻全球市場	https://cmnews.com.tw/article/newsyoudeservetoknow-6e0b8463-a2ee-11f1-b822-ddab3829191e	未分類
 2026-09-29	【即時新聞】美國衛生部檢討疫苗推薦3大分類，部長甘迺迪推動政策變革引發關注	https://cmnews.com.tw/article/newsyoudeservetoknow-e91203f3-9d95-11f1-a845-0c24a212c1ac	未分類
-2026-02-04	【健康1+1】死率70%！尼帕病毒再現	https://www.ntdtv.com/b5/2026/02/04/a104063173.html	未分類
-2026-05-18	【伊波拉病毒懶人包】 - 香港 - 香港文匯網	https://www.wenweipo.com/a/202605/18/AP6a0b1903e4b0b49ad1bb99d8.html	未分類
 2026-09-29	【一家4口得肺結核 超商店員失去左肺、家人咳血亡】 肺部一次次遭到破壞，最後只能 ...（#豬頭皮）	https://www.facebook.com/ETtoday/posts/一家4口得肺結核-超商店員失去左肺家人咳血亡肺部一次次遭到破壞最後只能-豬頭皮/1556707019821711/	未分類
 2026-09-29	【8年韓經紀公司「老闆病逝」！正式宣布歇業 旗下19藝人全解約】 很突然 ...（#豬頭皮）	https://www.facebook.com/ETtoday/posts/8年韓經紀公司老闆病逝正式宣布歇業-旗下19藝人全解約很突然-豬頭皮/1487563493402731/	未分類
 2026-09-29	【40歲開始，你也開始「慢性病人生」了 很多人以為： 慢性病，是60歲以後的事。 但醫學研究告訴我們一個更現實的事實—— 多數慢性疾病，其實在40歲左右就悄悄開始。 這並不是突然生病，而是身體長期累積的結果。 我的Instagram: https://www.instagram.com/reel/DV	https://www.facebook.com/ooihean/posts/40歲開始你也開始慢性病人生了很多人以為慢性病是60歲以後的事但醫學研究告訴我們一個更現實的事實多數慢性疾病其實在40歲左右就悄悄開始這並不是突然生病而是身體長/1602281714703160/	未分類
@@ -1649,7 +1560,6 @@ var DATA_MEDICAL = `
 2026-09-29	「左流右新」10月開打！新世代新冠疫苗將引進 接種重點一次看	https://www.healthnews.com.tw/article/69422	未分類
 2026-09-29	「小鬼當家」媽媽驟逝！恐怖死因曝光 肺栓塞奪命又罹癌	https://stars.udn.com/star/amp/story/10090/9320083	未分類
 2026-09-29	「小鬼當家」媽媽驟逝 死因曝光：肺栓塞奪命又罹癌	https://www.worldjournal.com/wj/amp/story/121232/9321192	未分類
-2026-07-23	「它」曾年奪40萬條命！醫師揭「人類首次用疫苗」殲滅疾病：拿命豪賭	https://m.4gtv.tv/article/2026072302000023	未分類
 2026-09-29	「好萊塢最強反派」中風病逝！每42分鐘奪1命 決戰秋冬殺手保命4招	https://health.tvbs.com.tw/medical/359517	未分類
 2026-09-29	「國民影帝」安聖基病逝！元旦才過74歲生日 加護病房搶命6天無效	https://stars.udn.com/star/story/10090/9244671	未分類
 2026-09-29	「吃太好」恐怖共病地圖曝光！台灣6大慢性病高風險族群 中風92%、腎病90%出現共同代謝警訊	https://www.wealth.com.tw/articles/63e5c5df-204f-46e6-b2fe-77ee420a9623	未分類
@@ -1696,7 +1606,6 @@ var DATA_MEDICAL = `
 2026-09-29	RSV不只可能傷肺！醫警告「心肌梗塞風險」也恐升 5類人最危險	https://news.google.com/rss/articles/CBMiUEFVX3lxTE42M1Y0dXhRYkhSNEloeXR2Wjk5ZDFzSm8xSjU5UVBVcU9KWUd6WDEwcm9zdF8yT2piSlpCRGpvdEQ0cGN5cEpmRmVNN1V6S1h50gFPQVVfeXFMUEJ3S25Va01CWHVLR1hSQ05aZTlTUGVIc0plckJOOU15UkhtSFVTeWx4TVpsVHBPLU9JR2k5OFdIUGE1ZWdGN1pvNUpMLXd4OA?oc=5	未分類
 2026-09-29	Novavax新冠疫苗剩4千劑 疾管署示警「疫情升溫」：想打要快	https://health.ettoday.net/news/3206518	未分類
 2026-09-29	NFL退役球星鄧普西染疫病逝 居住的安養院有多人確診	https://www.setn.com/news/720495	未分類
-2026-09-09	M痘境外移入病例翻倍！今年30例確診疾管署急喊快打滿2劑 – 醫療	https://pronews.tw/2026/09/09/309021/	未分類
 2026-09-29	ICMR 開發革命性的多疾病診斷測試，以對抗感染延誤，ETHealthworld	https://citytimes.tw/娛樂/icmr-開發革命性的多疾病診斷測試，以對抗感染延誤/565056/	未分類
 2026-09-29	ICE 執法之亂｜5 歲男童遭扣押精神狀態堪憂 殘疾兒病逝父親申奔喪遭拒｜Yahoo	https://hk.news.yahoo.com/ice-執法之亂｜-5-歲男童遭扣押精神狀態堪憂-殘疾兒病逝父親申奔喪遭拒｜yahoo-094144541.html	未分類
 2026-09-29	HPV疫苗改寫子宮頸癌命運！研究：青春期接種者30歲前死亡風險幾近零	https://www.taiwannews.com.tw/zh/news/6385518	未分類
@@ -1722,7 +1631,6 @@ var DATA_MEDICAL = `
 2026-09-29	AI龍頭鐵口直斷：10年內人類治癒絕大多數的疾病 Claude自主發現「基因編輯」新機制 生物學將迎來「指數級成長」	https://www.storm.mg/article/11167449	未分類
 2026-09-29	9月28日丽珠集团涨10.01%，疫苗ETF国泰基金重仓该股	https://m.sohu.com/a/1081837284_115377?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	未分類
 2026-09-29	9人感染食肉菌其中5人死亡 美國路州發警告	https://www.epochtimes.com/b5/26/8/8/n14825728.htm	未分類
-2025-12-03	99%的心血管疾病源自「這4件事」！ 研究：其中1項沒控制好，中風、心衰竭風險恐驟增	https://www.4gtv.tv/article/2025120312000021	未分類
 2026-09-29	90歲微電子泰斗吳德馨病逝	https://www.hkej.com/dailynews/cntw/article/4351779/90%E6%AD%B2%E5%BE%AE%E9%9B%BB%E5%AD%90%E6%B3%B0%E6%96%97%E5%90%B3%E5%BE%B7%E9%A6%A8%E7%97%85%E9%80%9D	未分類
 2026-09-29	8歲童確診併發腦炎亡 醫列4點憂：過去不常見	https://www.chinatimes.com/realtimenews/20230104001625-260405?ctrack=pc_main_recmd_p01&chdtv	未分類
 2026-09-29	8歲童星驚傳離世！染流感併發心肌炎，家長留意5大警訊	https://news.google.com/rss/articles/CBMiU0FVX3lxTE56YVdSM1lUQXYybl9DS0xUdFhEVUxxdjY2X1V5dFJBbmhzdzd4YVMycEQ4OFl1Z3NtNV8zSThrQXROUlpFT3dXUE5YQ3JfMFJidUNF?oc=5	未分類
@@ -1732,11 +1640,8 @@ var DATA_MEDICAL = `
 2026-09-29	8歲偶像練習生猝逝！登台5天後流感併發心肌炎驟逝	https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oZ3d0WDg5QlBZUVQ0czdCQlNMQkVJZnlIUHdOeFNEWkF1WlptR2dzeU9IUy0zMDZ2M0NmLXN4ODNfTDRQa3lwMVhxSzhKR1FYcjM0aw?oc=5	未分類
 2026-09-29	8校65學生集體染流感樣疾病	https://www.tdm.com.mo/zh-hant/news-detail/1200191?lang=zh&isvideo=false&shortvideo=0	未分類
 2026-09-29	8月流感就診人次創10年新高 秋冬公費疫苗10/1起開打	https://news.pts.org.tw/article/824022	未分類
-2026-09-21	8月以来增18宗猴痘防护中心强烈呼吁高风险性接触者提高警觉｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/cnt/news/20260921/bkn-20260921194300602-0921_00822_001_cn.html	未分類
-2026-09-21	8月以來增18宗猴痘 防護中心強烈呼籲高風險性接觸者提高警覺	https://hk.on.cc/hk/bkn/cnt/news/20260921/bkn-20260921194300602-0921_00822_001.html	未分類
 2026-09-29	8学生患流感样疾病 3院友染新冠	https://www.tdm.com.mo/zh-hans/news-detail/1215091?lang=zh&category=all&isvideo=false	未分類
 2026-09-29	8個月逾9千人病歿！今增22死本土＋20160	https://www.chinatimes.com/realtimenews/20220829002539-260405?ctrack=mo_main_life_p04&chdtv	未分類
-2026-02-09	8人疑食物中毒 曾於文華東方酒店進食生蠔等	http://hk.on.cc/hk/bkn/cnt/news/20260209/mobile/bkn-20260209222422213-0209_00822_001.html?editorpickDate=20260210&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	未分類
 2026-09-29	86歲昭和影后孤獨病逝「隔4月才公開」 女兒斷聯10年突收噩耗- 娛樂	https://www.chinatimes.com/realtimenews/20260810001684-260404	未分類
 2026-09-29	85歲影后劉引商罹癌猝逝 女兒淚崩：大家不會忘了她	https://news.ebc.net.tw/news/entertainment/347602	未分類
 2026-09-29	82歲《超人》 女星罹帕金森氏症病逝昔在美國電視劇裸體入鏡	https://www.msn.com/zh-tw/entertainment/news/82歲-超人-女星罹帕金森氏症病逝-昔在美國電視劇裸體入鏡/ar-AA1Zh5cH	未分類
@@ -1779,7 +1684,6 @@ var DATA_MEDICAL = `
 2026-09-29	68歲蔡琴官宣9月演唱會擊潰病逝流言！「我已經復活3次，我還怕什麼？」付諸一笑	https://tw.news.yahoo.com/68歲蔡琴官宣9月演唱會擊潰病逝流言-我已經復活3次-我還怕什麼-付諸-笑-120526204.html	未分類
 2026-09-29	66歲曹西平病逝！派翠克神模仿片段遭挖 「曹西平他六十八」成絕響	https://star.setn.com/news/1772825?utm_campaign=viewallnews	未分類
 2026-09-29	64歲日女星慢性病纏身送院 靠「戒四毒飲食法」改變體質 奶類/甜食也要戒？	https://std.stheadline.com/health-care/3537165/64歲日女星慢性病纏身送院-靠戒四毒飲食法改變體質-奶類甜食也要戒	未分類
-2026-01-20	64歲中共兵器科研院前副院長王小鵬病亡	https://www.ntdtv.com/b5/2026/01/20/a104058314.html/amp	未分類
 2026-09-29	64歲「如花」中風一度命危右身癱瘓 明顯消瘦近況曝光	https://www.nmplus.hk/entertainment/李健仁-如花-中風-周星馳-復健-1628773/	未分類
 2026-09-29	63歲女「30年反覆長腫瘤」! 醫揭罕病	https://www.msn.com/zh-tw/news/national/63歲女-30年反覆長腫瘤-醫揭罕病/ar-AA21lIXt?cvid=69e7c4ddf93f40fa9f6bb4f1c7fec90b&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	61歲歌手中風猝逝！醫聞病因：最致命又難防「好發女性」	https://www.msn.com/zh-tw/news/living/61歲歌手中風猝逝-醫聞病因-最致命又難防-好發女性/ar-AA1xyotD?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
@@ -1797,7 +1701,6 @@ var DATA_MEDICAL = `
 2026-09-29	5旬婦一到下午就「心悸、血壓狂飆」！醫揭「罕見腫瘤」嚴重恐中風猝死	https://health.setn.com/news/1893081	未分類
 2026-09-29	5人死亡，1372人確診新感染（福島縣）	https://www.fnn.jp/articles/-/466060	未分類
 2026-09-29	59歲男染新冠血氧剩82% 加護病房搶救10天脫險	https://www.watchmedia01.com/archives/548180	未分類
-2025-12-02	59歲徐亨長3cm腦瘤靠「1裝置維生」掀開嚇壞全場！親揭「不去中國發展」真相	https://www.4gtv.tv/article/2025120202000008	未分類
 2026-09-29	59歲中風男未打疫苗高燒喘 染COVID-19重症險喪命	https://health.ltn.com.tw/amp/article/breakingnews/5569253	未分類
 2026-09-29	58歲男打BA.1次世代疫苗 2日後頭昏冒冷汗腹脹當日亡	https://udn.com/news/story/7314/6722044	未分類
 2026-09-29	57歲男子流感重症雙側肺炎情況嚴重	https://www.tdm.com.mo/zh-hant/news-detail/1200546?category=all&isvideo=false	未分類
@@ -1837,17 +1740,13 @@ var DATA_MEDICAL = `
 2026-09-29	3校17人集體染流感樣疾病	https://www.tdm.com.mo/zh-hant/news-detail/1198744?lang=zh-hant&isvideo=false&category=27&shortvideo=0	未分類
 2026-09-29	3月被謠傳死亡 以色列總理內唐亞胡證實罹癌已接受治療 | 國際焦點 | 國際	https://money.udn.com/money/story/5599/9463706?from=edn_newest_index	未分類
 2026-09-29	3宗共16人集体染流感样疾病	https://www.tdm.com.mo/zh-hans/news-detail/1205229?lang=zh&category=all&isvideo=false	未分類
-2026-08-29	39歲男染猴痘與2陌生男有高風險接觸- 港聞	https://www.dotdotnews.com/a/202608/29/AP6a929b04e4b04b6c5d383648.html	未分類
 2026-09-29	39歲男染新冠「插管2週」救不回 醫揭致命關鍵	https://tw.news.yahoo.com/39歲男染新冠-插管2週-救不回-醫揭致命關鍵-070032202.html	未分類
 2026-09-29	39歲男子確診猴痘 潛伏期內在港與兩男有高風險接觸	https://www.bastillepost.com/hongkong/article/16664835-39歲男子確診猴痘 潛伏期內在港與兩男有高風險接	未分類
 2026-09-29	39歲男子染猴痘正隔離治療情況穩定 潛伏期在泰國有高風險接觸	https://news.rthk.hk/rthk/ch/component/k2/1866904-20260820.htm	未分類
 2026-09-29	39歲男子染猴痘 潛伏期在泰國有高風險接觸	https://www.881903.com/news/local/2646014	未分類
 2026-09-29	39歲男子染猴痘 曾在泰國與陌生男子有高風險接觸	https://hk.news.yahoo.com/39歲男子染猴痘-曾在泰國與陌生男子有高風險接觸-120826211.html	未分類
-2026-08-29	39歲漢染猴痘 潛伏期與兩陌生男有高風險接觸	https://hk.on.cc/hk/bkn/cnt/news/20260829/bkn-20260829153015489-0829_00822_001.html	未分類
-2026-08-20	39歲漢染猴痘 潛伏期曾在泰國與陌生男有高風險接觸	https://hk.on.cc/hk/bkn/cnt/news/20260820/bkn-20260820182225509-0820_00822_001.html	未分類
 2026-09-29	39歲患腦腫瘤男子 入院後染退伍軍人病離世	https://news.tvb.com/tc/1179762-39歲患腦腫瘤男子入院後染退伍軍人病離世	未分類
 2026-09-29	39岁演员不幸病逝，女儿才3岁，一细节揭死因真相。	https://info.51.ca/articles/1173112	未分類
-2026-08-29	39岁汉染猴痘潜伏期与两陌生男有高风险接触｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260829/bkn-20260829153015489-0829_00822_001_cn.html	未分類
 2026-09-29	39岁博主“哈尼小微”突然离世，亲属：被虫咬后感染，此前多日吃不下饭	https://m.sohu.com/a/1029407679_121284943?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	未分類
 2026-09-29	38歲男猝死｜感冒死亡率低 醫生：同時受繼發性細菌感染增風險	https://www.hk01.com/突發/60338911/38歲男猝死-感冒死亡率低-醫生-同時受繼發性細菌感染增風險	未分類
 2026-09-29	38岁男猝死｜感冒死亡率低 医生：同时受继发性细菌感染增风险	https://global.hk01.com/突发/60338911/38岁男猝死-感冒死亡率低-医生-同时受继发性细菌感染增风险	未分類
@@ -1858,7 +1757,6 @@ var DATA_MEDICAL = `
 2026-09-29	35歲獨子因腫瘤離世 吉林63 歲高齡產婦為重拾生活希望搏命試管誕下女嬰	https://www.bastillepost.com/hongkong/article/15711889-35歲獨子因腫瘤離世-吉林63歲高齡產婦為重拾生活希	未分類
 2026-09-29	33女突倒公司門口、竟是腦中風患失語症 醫：憂鬱及死亡風險高	https://tw.news.yahoo.com/33女突倒公司門口-竟是腦中風患失語症-醫-憂鬱及死亡風險高-025511589.html	未分類
 2026-09-29	32歲男確診猴痘潛伏期曾與多名陌生男子有高風險性行為- 港聞	https://www.dotdotnews.com/s/202608/17/AP6a830b91e4b04b6c5d36f354.html	未分類
-2026-08-17	32歲男染猴痘 潛伏期曾在港與數名陌生男子有高風險接觸	https://hk.on.cc/hk/bkn/cnt/news/20260817/bkn-20260817191608433-0817_00822_001.html	未分類
 2026-09-29	32歲男子確診猴痘 潛伏期曾有高風險接觸	https://www.orangenews.hk/hongkong/VSYrBmI/32歲男子確診猴痘-潛伏期曾有高風險接觸.shtml	未分類
 2026-09-29	32歲男子確診感染猴痘 列本地個案	https://www.881903.com/news/amp/local/2645470	未分類
 2026-09-29	32歲男子感染猴痘情況穩定 潛伏期曾有高風險接觸	https://news.rthk.hk/rthk/ch/component/k2/1866484-20260817.htm	未分類
@@ -1898,7 +1796,6 @@ var DATA_MEDICAL = `
 2026-09-29	29歲女模「血管惡性肉瘤」病逝 5年前戰勝腦瘤撿回一命	https://tw.news.yahoo.com/29歲女模-血管惡性肉瘤-病逝-5年前戰勝腦瘤撿回-命-053421786.html	未分類
 2026-09-29	29歲女模「柯柯」血管惡性肉瘤病逝 胞弟悲慟證實	https://ent.ltn.com.tw/news/breakingnews/5318291	未分類
 2026-09-29	28歲男下體冒白色突起物 醫揪「傳染性軟疣」與猴痘同家族	https://health.ettoday.net/news/3117609	未分類
-2026-01-14	27歲青農腦中風 花蓮慈院跨院接力搶救助重返田野	https://news.pchome.com.tw/living/tcnews/20260114/index-76835866181475280009.html	未分類
 2026-09-29	27歲男星中風暴瘦30公斤！感冒後看臉這3處，秒辨奪命警訊	https://edh.tw/articles/o6RuTUR	未分類
 2026-09-29	27歲因動靜脈腫瘤！《名模生死鬥》 亞軍離世	http://www.msn.com/zh-tw/health/other/27歲因動靜脈腫瘤-名模生死鬥-亞軍離世/ar-AA1CPSah?cvid=335DAD44EFC74C5BAFE6AB94903534B3&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	25歲男子確診猴痘港8月來第17宗個案- 港澳 - 新聞	https://www.chinesedaily.com/article/detail-705827.html	未分類
@@ -1981,7 +1878,6 @@ var DATA_MEDICAL = `
 2026-09-28	日本「傳奇美妝網紅」病逝死因曝光！20年搭檔悲慟：太突然了笨蛋	https://tw.news.yahoo.com/日本-傳奇美妝網紅-病逝死因曝光-20年搭檔悲慟-太突然了笨蛋-090327599.html	未分類
 2026-09-28	日本8歲女偶像突傳死訊！流感併發心肌炎離世 5天前才登台演出	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xRVA5OHFnLUlqUGUxVWhQVVhNRHBWUFhUaXVHMEEwSnBEcElVdEFVQUdudVhuM043QzBYeklMbU9vWlFXSDVlMV9PbmpEbG12UVE?oc=5	未分類
 2026-09-28	慈濟採購疫苗遭削10.6億 張景森發文促公開決策過程、高層道歉下台 | 上報	https://today.line.me/tw/v3/article/LXyZO3n	未分類
-2026-07-15	广东6月传染病共夺129命 新冠复燃 暴增至2.6万宗	https://www.chinapress.com.my/20260715/广东6月传染病共夺129命-新冠复燃-暴增至2-6万宗/	未分類
 2026-09-28	孟加拉麻疹疫情失控！逾500童病逝 疫苗中斷引發「免疫缺口」	https://health.ltn.com.tw/article/breakingnews/5448618	未分類
 2026-09-28	國內新冠重症最小個案曝光！20多天男嬰微燒鼻塞 4天急轉加護 | 信傳媒	https://today.line.me/tw/v3/article/wJax150	未分類
 2026-09-28	国家疾控局： 全国新冠病毒疫情目前处于低流行水平	https://www.msn.com/zh-cn/news/other/国家疾控局-全国新冠病毒疫情目前处于低流行水平/ar-AA280kRm	未分類
@@ -1999,7 +1895,6 @@ var DATA_MEDICAL = `
 2026-09-28	20多歲男一年瘧疾二度上身！ 疾管署揭「間日瘧」躲在肝臟	https://n.yam.com/Article/20260623194274	未分類
 2026-09-27	防秋冬4大呼吸道疾病 醫籲打疫苗	https://tw.news.yahoo.com/防秋冬4大呼吸道疾病-醫籲打疫苗-220029968.html	未分類
 2026-09-27	聯合醫院精神科病房再多9名病人染新冠病毒 正隔離治療情況穩定	https://news.rthk.hk/rthk/ch/component/k2/1864232-20260729.htm	未分類
-2026-09-15	流感突然升溫！單週13.6萬人就醫、92例重症疾管署示警| 生活	https://newtalk.tw/news/view/2026-09-15/1059920	未分類
 2026-09-27	新冠｜聯合醫院精神科女病房爆疫 10病人感染病徵輕微 正在隔離	https://www.hk01.com/社會新聞/60375016/新冠-聯合醫院精神科女病房爆疫-10病人感染病徵輕微-正在隔離	未分類
 2026-09-27	新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思	https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0hfOXdXbEF5bmttNjhSb0ZYZXBrbzhQX3Nwc2ZBU29wTWtNNGIxOTIxWW5iUEQ3ZjRybHBpM05jSGNJcUVhcWhUaU9KOUplelotNVZKYjJXMmNpUG00MXVpUE5HY3FvVjBWWU5hTEJrOGMtU3BRRkhCSWw0bUo1UjRpTdIBYkFVX3lxTFB6dnRYX2k4NjFkSTNGcEpINmNERjBvY1dGRzd4MTd0RnNqYVk4cjFERHdmY2UzSTVyQ2hrU3NtTUw4UExrWHFqbktqbTd5bmlmUXk2ZkFhUkM0UmZxcWswUTdB?oc=5	未分類
 2026-09-27	國外遊戲大廠裁員讓癌末工程師保險、收入全沒了！妻子淚訴「他不只是數字」引執行長致歉	https://tw.news.yahoo.com/國外遊戲大廠裁員讓癌末工程師保險、收入全沒了！妻子淚訴「他不只是數字」引執行長致歉-075503970.html	未分類
@@ -2029,6 +1924,8 @@ var DATA_MEDICAL = `
 2026-09-21	猴痘｜29歲男確診 潛伏期於外地與一陌生男子有性接觸	https://news.google.com/rss/articles/CBMigwNBVV95cUxOaG9NZTZETGM3RUZVa2JZZVZRamVEWHZfN2ZzQi1kWHUyUnZIMWVmajFSWk5tNmtYcWp6akJkelRtUXh0MzVOS1NzMlA4VGdVZ25HNDFsc1B5SUVTMElqTFVCVWMyYVZYRlhvaWRSdlk5U3BsQjhFWG81eGt6dVRLSGo5bTN4ZHVYWDVvaVJpYmdyVDM2Nmk1bUd0YVNFUzljdk9QVGk3c0s4WnkwSDRmOGFUYWYzR2dMUGkzNmtQaDRlMUhITnpVbmpZQy1WM2dvWlMwc0haSGo0RGFfTHFZcmhvOVVERUxHQ2RsdThRRFN0OXBQWWxpMS1SbXZVZkdoLWZuWDNFQ012bFljc0R5U01vSjNkV1p2SlVIT1dGYjhTcXcxMm9RdmFtX3lLbC1sNVY5em5DQ3dlQXkxZW1HaHRPeHR3MDZlSVpWN1FFTE4tTE5nSVYzMTRsUDlPTlNkMktLenBOT3JEbUZXNTBIdkVsMXB5TUtLUktXbE5VeFozSlU?oc=5	未分類
 2026-09-21	影／虛報酸奶大陸走私禽流感疫苗 假「劉德華」今起訴	https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WNnFZSjV6V21tWWlfWW5RMHdXLWlNZEc5RGtvenBWR1lJMklnTThOcjllWDBsandLVnhoSUR2aEgyVkFWOEk0SGdOTG9lNFBP0gFWQVVfeXFMT3NpZl93dWJqaGtobExNU3FhR192NXV4X0VteXlqV2JGWEVKYld1V0tnNFZmTFpSRnhlV0VrM2NNVzJVTFo4LUF6Rld1V25YTkN0QTNENnc?oc=5	未分類
 2026-09-21	mRNA研究下一步？亞太專家齊聚台灣聚焦傳染病、腫瘤與罕病應用- 健康新聞- PChome Online 新聞	https://news.pchome.com.tw/healthcare/healthnews/20260921/index-17899542001050420012.html	未分類
+2026-09-21	8月以来增18宗猴痘防护中心强烈呼吁高风险性接触者提高警觉｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/cnt/news/20260921/bkn-20260921194300602-0921_00822_001_cn.html	未分類
+2026-09-21	8月以來增18宗猴痘 防護中心強烈呼籲高風險性接觸者提高警覺	https://hk.on.cc/hk/bkn/cnt/news/20260921/bkn-20260921194300602-0921_00822_001.html	未分類
 2026-09-21	29歲男確診猴痘被列為輸入個案 潛伏期內曾離港與一名陌生男有高風險接觸 (20:32) - 20260921 - 港聞	https://news.google.com/rss/articles/CBMikwRBVV95cUxNaWVOZXl6bWk4RTY1WEZqMmc1WUxUN0VFZFk1UGNLaGxsZEFHQmRGWHpJYVdvVGtNUUc4NW55X2xCWmc1bjF4Y2JnblV3a0J5OEVpMnhHVTR1U2dIUEE1NHhiS1FFS3ZvLVBzU19IVTFUNmFub1dJVVFncGdyNzk3OWVUS2NmM0hOeE14WXRXMXlwXzBkcXdQaUhRQldaZEg4T00yTHVSejhlaGJabzZGMkh5b0Jfd3Z3c0Z0VVZJaUVfZE43WElVUTExWi1hc193MXdGbkhvVnlKMkJLc1lUbGN2QTQzQjRWQjZTT3hvMF9VTG9HSkh2QWxXaUhLUEM1S0w2aVJOM25QZy05ZTdnMGVHUnlPUno5WVhrRW5NZE9rTzhGSlMxYlVnLXZTWk5UMldJWWk2ZTQtTU5nM0VhZXNYOG5wLUtOTVJVbzRSYVYzV0pnNTJwSzdlTHp0cVktQnVseThTelpRTFEweU40OGV3dW1BWTBWS2NBM25BTlhoQU4xSV9KeUl0LXRnMmJ5ZVBwVTNUUEN3SjlBWnZsVzE1ZGZDQk1oWk52Y2gyQlFBTVc1ejVJdjhIeVp0RkZ3bE5pZURPYmlMSGp4UXl3M0cxejJPU2gzSW1VZ0hBNk1wMlpybE0yemg0ampndzZYQWlpQWpIWUh5ek03VVVXN0RTdnlXU2pudmVGanRuT2dDdlE?oc=5	未分類
 2026-09-21	29歲男子確診猴痘留醫 情況穩定	https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb2VGTTZzcjI5ZVF3UERhOWJ5eVk4T2V0NVk0X1hmSGhXVV91a3V5Rkk1Q3BEOFRMbmo4X2pjaGJrR0Y3RThZWjFPVF9ET3RtRjZLUUp1OEw5aUZxQlJtbWFBZEdEbTZ2WFdxb0daSTdKTm1zVEJwcjN2dlNTTVpIbTNrenNIOW5SNUZjeDROUlE0cHNNN1RVM2hwLUp4WXV5WGlyMU5Ca2ZfQWdEa215b3ptR0lKQjlid0dEbjU5bWY2Tm9ZLU95clNubzhzNFJnMWdXakk1Y0tJRU1uTEpSbFZTcHRoZw?oc=5	未分類
 2026-09-21	29歲男子確診猴痘潛伏期離港有高風險接觸- 香港	https://www.wenweipo.com/a/202609/21/AP6ab123bde4b01d54a284340f.html	未分類
@@ -2047,6 +1944,7 @@ var DATA_MEDICAL = `
 2026-09-18	潛伏期在香港有高風險接觸兩男確診猴痘情況穩定- 香港	https://news.google.com/rss/articles/CBMid0FVX3lxTE92eXRBUXZST3JxYmhjalJXaElkZmx2Qng1ZkpMSTR3WG1PM1lrdWVEdUJiaUNUQXZucnRJN0xGTXZ2NW9YT0VQWm9UUnRkX3NzUXR4dFhxZHBTYWdvX2R1TkF6YTItX0tvVnlndmZnU0w1Q0pEY0dR?oc=5	未分類
 2026-09-18	本港再新增兩宗猴痘確診個案 潛伏期內在港均曾有高風險接觸	https://news.google.com/rss/articles/CBMidkFVX3lxTE5ia2RTVnpyNnBjaWl4T0hhNVFaUEx0Rko1VDNGNXhXLTVvZl8xcm5hTDZ2eTY0ZUtmVkJLYVVNbDFsZW9HRDZQd3hoTDdockRMWXdVNUhpQnNfc3duVXc3b1VsekRuTlNHbS1lOWRCYmVCWEdSVmc?oc=5	未分類
 2026-09-18	新增兩宗猴痘確診個案 上月至今累計16宗均曾進行高風險性行為	https://news.google.com/rss/articles/CBMib0FVX3lxTE1POEpvNy0yUkNGeXU1MVZtbm9NSDNjQ2VxRURNX3BQeWxBa0I3VWhvVlhNb3BieXRYSExmUEpxR3dyUHoxaGVZMEIyckRVVlg2UXV5aDVyeFdDS2NKdGh3dEFfM0NwQmZ2ZUFJZWRYTQ?oc=5	未分類
+2026-09-18	新冠網路熱議TOP5藏錯誤迷思！高風險族10月1日起左流右新	https://news.pchome.com.tw/healthcare/uho/20260918/index-17897154001932459012.html	未分類
 2026-09-18	南非衛生部警告猴痘病例激增	https://news.google.com/rss/articles/CBMikAFBVV95cUxNMkZDdkN2NlRVc2N6RzgwZm1pNjVGUFR0OV9vQXIwOW9JYWdzc0xaNXZYMlhOcm16cVR3NjhZaVdlaHJUbTBIbkpRWHNXSjk3TlhoM2xQTGFWZFJ2N0xpTTY5dkNud25kbUlYOGtaWDJ6Wld1R0wtT0g4X3U0VVExWEp2SXdTYzFVb3E5WVF2SlQ?oc=5	未分類
 2026-09-17	黃大煒病逝！等不到過62歲生日 31年摯愛女友慟揭心聲	https://news.nextapple.com/entertainment/20260917/DEF26E5CE83DC8B69A83D1A76628C5B0	未分類
 2026-09-17	破除新冠網路傳言 醫：打疫苗副作用大幅降低	https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5	未分類
@@ -2060,6 +1958,7 @@ var DATA_MEDICAL = `
 2026-09-15	自8月起猴痘個案數字有所上升 #猴痘 #交友App #am730	https://news.google.com/rss/articles/CBMiwwJBVV95cUxPOWtMRHRzcEFaTWJWT3RQWnQ4UGkzSVRZLWNDdVZUbXJYOXZULVFEOTB2cWJMM0Y1MGZacEFZbUVLTjcwSjg0QWNnOWYyeHBHZnJlN0V0b1dwMHNRbnB0R0pMSFBOXzZiQm5GMDZRQU1GSWozQnBqbDVrNEIyUVZiLVNDWDd0ZXdnOGxzcHhnVjExa05kMkMwRFhKNmRFdk9uWUI4cnVoY0RuZTR6M3FGdlJkUEtrNTJ2Q0pFQzZkNi1oTFNPSG5GdUFmMEotd0QyOVUzYzlyRDFtanFZcDNVQktEeEw4SklGYUxHMTJVS1dmcjUtOTdaeVhORUVlVUMzODBUaGZfcENlOG5oV2E1WWh5cDAyQmpNR1VoRlY2RllBalA5WGU4RXdmd280dHd5YWRvVjhvbGtxNU5RLWFnQ1o2cw?oc=5	未分類
 2026-09-15	維州一企鵝死於H5N1 當局推行禽流感疫苗接種	https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWVXUjhvVlA5WGI2VXQzY2xvY3ZZdExkRGt1UDdCejZ4S0sxOHVDNkJVY3NDODJzUG92RTRpWHV6SlhRcjA1dkdQb3NPZ1BZdUVlX2lVYU9QdGVjT0FYS0tSbDRSSWk4alZBYXJZYzV1d01zcVZXeTVLeE1HU0F5UURXdTd6QkhyZndxQWlRWE0tbHFZTkpKNlBZWHpqWjFtTjdISjFSMmY0N0JiSUI3Rw?oc=5	未分類
 2026-09-15	猴痘｜27歲男子確診 身體現皮疹水泡 曾與兩陌生男有高風險接觸	https://news.google.com/rss/articles/CBMitANBVV95cUxQaDloLVRIc0hEbkZGckpCdEl3VHl5dHdnYWhvMFlJUWg3TzJBaG9jNV94Z0ZDNktublYweDdsVnNsY1lGVXhfd0ItWWxFcFIzVUxseVRpcHF5SjE1dllfVkRqQ2pBUkl5dlZOLWNPbWxtSkRacEdTekRaQkhQeXd0Zm52aXlhamZHRVdQZEVGblFSWnNCS2QyVHVhdUJWOGRRY0ZCNVV5Q1kxMkVVVW9qWkhrTDNwUFhnRWZCc2U3WHFqXzlYX1BWajJCekV6LThXdjhKWmxESVdEaThoX0I4WEVKZGRzTGphZndCVl83dGlJWHNkY1dNeEtQMHdSaGdLSHp0RWdhZFFFUTVTOVg1MWhweXBjZHlKdXBpSFFidzBwOWxTdzUxUFlhU3N0ZC1EYzQ1TzVZOVRGb3EwTW0zU0MyT1lhSDVnUUlCTlY1VlJqX19HNmpZTUZ2Z2dnM1pJcWZyNi1pTlZaak10bUJDel9aNHdqalBMS1lpYWc5MnRSR3ktdzdyel9LMFc0RVY3QTlNSlk2TFVfci1OamQwQUZROXBOeWhZWDZFWHJoUi1Pdm5h?oc=5	未分類
+2026-09-15	流感突然升溫！單週13.6萬人就醫、92例重症疾管署示警| 生活	https://newtalk.tw/news/view/2026-09-15/1059920	未分類
 2026-09-15	死囚林旺仁關22年病逝 全台死刑犯降至34人 | 民視新聞網	https://today.line.me/tw/v3/article/0M5vwDD	未分類
 2026-09-15	夏韶聲暫無意開騷 對雷宇揚病逝感可惜	https://www.singtaousa.com/2026/09/15/entertainment/hsia-shao-sheng-lei-yu-yang/	未分類
 2026-09-15	伊波拉疫情爆發四個月：確診個案突破7,000宗，救援人員繼續築起防疫前線	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NVG1maDJRSldITFhkQ3ZwOGVhQ2lFWTZlOXF2SERqU2Zyb254U2JhQjFhSkRNWVNOUzBwcGF1MGk4VEhkaXBENWxFVTRmWXZpekE?oc=5	未分類
@@ -2070,6 +1969,8 @@ var DATA_MEDICAL = `
 2026-09-14	澳洲海獅驗出H5N1禽流感死亡 當局憂瀕危物種「雪上加霜」	https://www.dotdotnews.com/a/202609/14/AP6aa78f23e4b02724bdb46901.html	未分類
 2026-09-14	澳洲海獅首次驗出H5N1禽流感 當局憂此瀕危物種進一步受威脅	https://news.google.com/rss/articles/CBMiqANBVV95cUxQZ1BXVGVHTXo2WVVibEtnbFFYSVp0SXFqRllKT0ItdXliUmxRdjh5eXItOURoaWZHeXZkenhXaE1YaWtjZ0U2SmhsRTNxYnFPbDkwOEFueVNUZzlRWTZzNXhSU1dhRHdZZUNCcTVlSjhlcE9zOFN5eWkxdEI0R0xSVGt6UlFDcE9DNl9FMjBGOVNvdkpKU0x6TnVJQWtJaWxZY0RvZ05qZm4zbUdaYkktZTJjLXg1OGRHLWd3Z0R2d0lIVG9Tb2Zuek9OWGhVUjlBWkJhQlNnZmYwMXd6c25aZ3VaUjZnbWE4eHUxY3o3bHZ6bG4zNldzLXY0MUxTbUtfUzhEVGtNSm5KZFRXMGhxQVFWSUFTUzNDd0NNb3FPMHBjUHY5MFY4RXZhNnAzMGVzVExOUDJyb2hYMUlKbWpYRFEyX215Q3J2ZC1OczF3TVVocTE3S3hEaWpGOEloNkFjR2FyMmNkVDlrblVSUHUxS3dyb0hqUXkzRnRDUmpBWWRadm0xLURmaHZ3cXRJbXFiYXg1aDlTOTBOZTE1ZW82ZGNQSm8zOVdP?oc=5	未分類
 2026-09-14	海獅染H5N1禽流感病毒死亡 全澳首例	https://hk.on.cc/hk/bkn/cnt/intnews/20260914/bkn-20260914020024494-0914_00992_001.html	未分類
+2026-09-14	外地及在港曾與陌生男子敦倫 31歲漢染猴痘手腳掌及下體出疹	https://hk.on.cc/hk/bkn/cnt/news/20260914/bkn-20260914194045375-0914_00822_001.html	未分類
+2026-09-14	南澳省瀕危澳洲海獅染H5N1亡 全國首例	https://hk.on.cc/hk/bkn/cnt/intnews/20260914/bkn-20260914081703540-0914_00992_001.html	未分類
 2026-09-14	北極熊屍體驗出禽流感病毒 挪威官方確認為歐洲首例	https://news.google.com/rss/articles/CBMiT0FVX3lxTE43MV9Nc09vRkYxZnJHbTNnczJtYUlUeER0UndFenVOWURjSjJISDNQaHlQeHlMUXJqaWlGQUU3bWMxVE1sSTBEdXpoQVdILVE?oc=5	未分類
 2026-09-14	64歲低收男病逝無錢辦後事 枋寮警募8萬助家屬度難關	https://www.ettoday.net/news/20260914/3237177.htm	未分類
 2026-09-14	31歲男子確診猴痘潛伏期在外地及香港有高風險接觸- 香港	https://www.wenweipo.com/a/202609/14/AP6aa7f3b6e4b01d54a283257c.html	未分類
@@ -2086,6 +1987,7 @@ var DATA_MEDICAL = `
 2026-09-11	猴痘｜31歲男子確診 潛伏期內曾在港與數名陌生男子有高風險接觸	https://news.google.com/rss/articles/CBMivwNBVV95cUxPOGh0U3U3WW5GMi1pSW9PLV9MRDhSMUdsNkpVTEFsdGw1UVFFeE1iZFdKV3JjRXVlNzhTWjdKeXNUUWRhM1hzYnM1eV9PM1UwTmIzdlpoNTJfRmtKa3hRa3dwMHJsQTNMazZ6V3Z6TXowdVA0bmxpRlBVQjMxazFJazg4ckxYWGF3YjhhUlI4NldNNlhVUXVwTFo0Yl9SSE9sRzVDUVJ2SXFTLXFSWTJTT1VESzJSNmhvQXl1UTdOb01XYU54MmVMS1ZDYWRDMnZTZFRxS1hDd1hFUE9SUTNRRjdJa0MyVEdlVmhzWl9rUkp3MjVWUThGdGVjZjNPYVlkNXRWWlE4M0l2QW1VYUtUMTNpZmpEMEtFX0dLVC15bVlRSng5c21VMktQQmVudDJNTXlROFBjeXprLXpfMTc1NGdmQ05VQmZXUTZXVzNwaGNoVlF4ekZ2aFpTWFZObHlSbEdsTGpqNHhXcjNMZ1JyYjJMcmJFb1BfbVUxNTltMEFIRGk3XzM1cldUUllmTDZKUFpyeFVwQlh3M1FnV0RDcXoxcmp5RHlDTXQ5YU53cWg3eFg2dUJBWWVBbU5lRlU?oc=5	未分類
 2026-09-11	每週30分鐘就有用！研究：「1運動」降心血管疾病、癌症風險20%	https://tw.news.yahoo.com/每週30分鐘就有用-研究-1運動-降心血管疾病-癌症風險20-072000700.html	未分類
 2026-09-11	本港103宗猴痘個案，全部病人均為男性 #猴痘 #衞生防護中心 #高風險接觸 #am730	https://news.google.com/rss/articles/CBMixwNBVV95cUxPejIySkdKcXk3a3RZUUhrdlludXI2b2g3elV6bDk5YV9GWThDcWNFSVZaSnNWLXR0OGZrWURrTTZEMWhsR1hIQkp1Z3ZSWVFRWmR1dVMzZWh3VnF6c1A0NWJSSXo0VmVUWUdzc3lLM0F6b3pwWWgtaTZLR3BKQVpyckFPMWtzNkdMQTB2d2xJTWJfcVlfNi10OGEzVkh1MEh1bmdzWWJHZHAyVVZvaTRkWVAwQTB1ZDQ0M2RvY1RnQW1MVW1yUVVENGFrcDhfSnpoWnBGRzJLZEZ6UkRQZUQ1a1cwSjV2czJnT1N3VEtqZWZaeWV5RFRIS0VSMnpBRV9zd3h1aHVYUmVLcXRkS3J0ZElxelNlT010dTl1SWdjYmtuTnhqNFdURVpLZjFJSUM3RjZQbEkxdlZUMzJ4VzFEbEpaMXQ1MlFuUWVaelhBalBuVlJyVjIyNUZVaUlQM2c2Ykc5bFlVODhFZ2tOMkNqT3NmSUNGLUVzRkc0NWpWZkl5MmZldVQxek1fOGVaeUFnWE5vMEZLaXFCczgwWG5Pb1k3ckQ4OVdFZmFxNWhxN3RydnhoalozaHg0NktMS1N6N2M0MFFrRQ?oc=5	未分類
+2026-09-10	曾與數男多P染猴痘 31歲男留醫周身出疹	https://hk.on.cc/hk/bkn/cnt/news/20260910/bkn-20260910190716041-0910_00822_001.html	未分類
 2026-09-10	31歲男感染猴痘潛伏期曾在本港與數名男子有高風險接觸- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTE1kZUlWUVNkVzk4aEhHaGIxQzN4NHRrc1NobV9lUWF2RDFRRnIwa3VMUlJHWkljSEwteW5SWThjWldKT3RKRFU2V3dFa3lLREtPbWlmbjNkVjAyQ1otWXJSdW8zSWEyUjBuclVZUG5Ra2l4VFRnTkNzMGNB?oc=5	未分類
 2026-09-10	31歲男子確診猴痘 潛伏期內曾與數名陌生男子高風險接觸	https://news.google.com/rss/articles/CBMiggNBVV95cUxOLUJueHpGdnFKS2JhT3p2TXJScXNjellVdlFjQmpBb3hHOUhUZGJURzRqbWlSNE5tckFqdnZoOGpCcW9Tc0xyX1JCX3M4U2ZLQnRlcFlxSC0zSlg3S25wd3JjOHVRZW95VGJUc0YzX012Q2pJTUFOd3dZWTNzY3haY0FwNC11cTI1NE50NkZYY1FVR1dHMWEtVTNTbXRjUkhYYjJjMWN5ZGUzUVU1M2xjcXpYWjlUNFZkbnQ3QVJsNlFZeklDWFhERnQyWmNqMkJjUGhBbUItLTkxOFRuRThKUHV1VTYxZEpXbmwtUFYwclpiRV8yeWs4ZzRVQ2EwZDc1NVBfNnplR1dHcjQtbDJ5ckdKMzJ1UFJ5UElIWWpOOVlQWXB1UHR4TDgwczY0WEZxajZVQXV0U2ZBZ2hJUFltc3RnYWU0a0JaZVpuX0NQd0tsenpTeHQtS0w4aG11dTBkX0hKNGtrMEdFZGljOVBsZzJ1WUR2NTExbWR5aGllRHEwQQ?oc=5	未分類
 2026-09-10	31歲男子感染猴痘 潛伏期內曾在香港有高風險接觸	https://hkcd.com.hk/hkcdweb/content/2026/09/10/content_8774265.html	未分類
@@ -2099,8 +2001,10 @@ var DATA_MEDICAL = `
 2026-09-09	台灣資深出版人郭重興病逝 創「讀書共和國」涵八旗文化、港人品牌 (23:42) - 20260909 - 兩岸	https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20260909/s00004/1788967950323/%E5%8F%B0%E7%81%A3%E8%B3%87%E6%B7%B1%E5%87%BA%E7%89%88%E4%BA%BA%E9%83%AD%E9%87%8D%E8%88%88%E7%97%85%E9%80%9D-%E5%89%B5%E3%80%8C%E8%AE%80%E6%9B%B8%E5%85%B1%E5%92%8C%E5%9C%8B%E3%80%8D%E6%B6%B5%E5%85%AB%E6%97%97%E6%96%87%E5%8C%96-%E6%B8%AF%E4%BA%BA%E5%93%81%E7%89%8C	未分類
 2026-09-09	兩名男子確診猴痘 潛伏期內兩人分別有高風險接觸	https://news.google.com/rss/articles/CBMib0FVX3lxTE1ONWVKZml2Uld4RDlIOURiaVN1ektvUzJqamg3UTlGV2JlZXh2OEk4RDc3MFFOaERPV29jcXBUWUExMjJaWFRlcXpYejUzODQ5OGphUUIzRGwxTW9TNUxTQktacGRITnBwbVo4bkhZUQ?oc=5	未分類
 2026-09-09	兩名男子分別感染猴痘 潛伏期內均曾有高風險接觸	https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWDFXSTZ3U2NhR1R3SExqSlVtVGdTalh3enJwT2FzTllpVWdkTEZ1Y1d1dDRpZ0hTeHBfMHZxN2YxUlFGVGxMeEMwWFIzb0lIUDBGRS1OR3ByOW1rb0FVYS1ZWlRQTGdQemlTcXJ2cVdCNkdqWDctZGxtZE9MOENlWGg5WGYtRkhfbUxhYUExZ2g0X0JpdEJqTHh3OWZMZ3g2cDRPTmczS1REeWt6bjNWWWRnQTdHaG1JaVlKUFl0aWI5OWtMY1F2bG91d1VHdkpPT3FOQ1B3bjJoWXhqd1B1VmhlQ1hCMkJEOURiV0xLeEJIQmtzQ0hBUHIxSTRoVTRyUDFBTDg2YWx5SzRBN0JGaG5IVUFNOEhUcWdEdVhEQXZ0QkFrNS1rZjdXVFQtd2lmZDVhTzhSWGZpY1BaUGlyQlhscTJWb2E3cWt2ZXpDYkNZQzJqTllHYUNpZG81SHBvUm83Z19VOA?oc=5	未分類
+2026-09-09	M痘境外移入病例翻倍！今年30例確診疾管署急喊快打滿2劑 – 醫療	https://pronews.tw/2026/09/09/309021/	未分類
 2026-09-08	梁小龍「公開反對器官移植」隔天猝逝! 成龍喊「北京天很陰」 引發聯想	https://www.msn.com/zh-tw/entertainment/news/梁小龍-公開反對器官移植-隔天猝逝-成龍喊-北京天很陰-引發聯想/ar-AA1UyjMM?cvid=6971de10a9f2402eaf8b555facc10a1d&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-08	台灣約20歲仔確診猴痘 香港返回後發病列境外傳入個案	https://www.stheadline.com/china-taiwan/3591041/台灣約20歲仔確診猴痘-香港返回後發病列境外傳入個案	未分類
+2026-09-07	九一一事件近25年後 逾400名FBI員工確診相關疾病	https://wchns.net/2026/09/07/九一一事件近25年後-逾400名fbi員工確診相關疾病/	未分類
 2026-09-06	傅子純46歲血癌猝死！沈玉琳揭隱形殺手「3天恐見上帝」 曝4大保命方法	https://health.setn.com/news/1852336?utm_campaign=viewallnews	未分類
 2026-09-06	2院舍1校共13人集體染流感樣疾病	https://www.tdm.com.mo/zh-hant/news-detail/1209903?lang=zh-&isvideo=false&shortvideo=0	未分類
 2026-09-05	胃癌患者参与临床研究，CAR-T输注当日猝死。研方称“化疗所致”，家属疑“药物触发”，4小时护理记录空白成关键悬疑	https://www.medsci.cn/article/show_article.do?id=cd1594983183	未分類
@@ -2113,11 +2017,11 @@ var DATA_MEDICAL = `
 2026-09-05	26歲男子生殖器官現丘疹確診猴痘 潛伏期於海外有高風險接觸	https://hk.on.cc/hk/bkn/cnt/news/20260905/bkn-20260905190751302-0905_00822_001.html	未分類
 2026-09-05	1名中國公民於菲羈押期間離世 家屬：患嚴重糖尿病遭獄方漠視 中國駐菲律賓大使館周四（3日）發表通報，稱一名身患嚴重基礎疾病的中國公民，在菲律賓移民局拘留所被羈押等待遣返期間不幸離世。大使館稱對事件深感震驚和痛惜，...	https://www.stheadline.com/realtime-china/3611584/1%E5%90%8D%E4%B8%AD%E5%9C%8B%E5%85%AC%E6%B0%91%E6%96%BC%E8%8F%B2%E7%BE%88%E6%8A%BC%E6%9C%9F%E9%96%93%E9%9B%A2%E4%B8%96-%E5%AE%B6%E5%B1%AC%E6%82%A3%E5%9A%B4%E9%87%8D%E7%B3%96%E5%B0%BF%E7%97%85%E9%81%AD%E7%8D%84%E6%96%B9%E6%BC%A0%E8%A6%96	未分類
 2026-09-04	施明病逝｜喪禮前夕鼎爺終爆大仔暴力真相 李泳漢怒轟：為咗泳豪個女人抹黑我	https://topick.hket.com/article/4111061/施明病逝｜喪禮前夕鼎爺終爆大仔暴力真相 李泳漢怒轟：為咗泳豪個女人抹黑我	未分類
+2026-09-04	文匯專訪｜對話高福：立足微觀世界 以科普打造「社會疫苗」	https://www.tkww.hk/a/202609/04/AP6a9a04b5e4b0911458c34a46.html	未分類
 2026-09-04	崩潰喊「我要死了」！陳佩琪確診新冠 柯文哲曝最新病況	https://www.ettoday.net/news/20260904/3231639.htm	未分類
 2026-09-03	鼻腔長腫瘤影響歌聲 徐暐翔崩潰自搧6巴掌	https://reader.turnnewsapp.com/ct/20260903/bbc1b1/q1rfmjaynja5mdnfqjffnq2/share	未分類
 2026-09-03	開學傳染病 ｜返學怕中招？兒科醫生拆解4大常見疾病 1種常見補水方法恐令腹瀉惡化 兒童健康｜每逢開學季，幼兒園及中小學學生重返校園，人群密集接觸容易引發傳染病爆發，包括手足口病、呼吸道合胞病毒(RSV)、甲型流感及輪狀病毒等。	https://www.stheadline.com/ohpama/3611187/%E9%96%8B%E5%AD%B8%E5%82%B3%E6%9F%93%E7%97%85-%E8%BF%94%E5%AD%B8%E6%80%95%E4%B8%AD%E6%8B%9B%E5%85%92%E7%A7%91%E9%86%AB%E7%94%9F%E6%8B%86%E8%A7%A34%E5%A4%A7%E5%B8%B8%E8%A6%8B%E7%96%BE%E7%97%85-1%E7%A8%AE%E5%B8%B8%E8%A6%8B%E8%A3%9C%E6%B0%B4%E6%96%B9%E6%B3%95%E6%81%90%E4%BB%A4%E8%85%B9%E7%80%89%E6%83%A1%E5%8C%96	未分類
 2026-09-03	澳洲南澳居民憂鳥糞或傳播禽流感病毒 專家指風險極低	https://news.google.com/rss/articles/CBMi5wJBVV95cUxQRzR5ZkNuRWFMQUpPUEdxWDlBd0hyRm9rcEM1X3N2T0xRYVBZaE1QVjBoZlVnN0oxMGIwRXhEWjdWNWFfRk1SMEdkV0l5UzJmR0FPVjB6S2JlOHRUYVhpYTgzOGJqQjlGdlVyZFM5ZHk4NmtjbXphS1BodC04V3lhQy1ZenJsNHhRMGZtdWM1S1dNa3hQRmlIb1Axd3hjSUYxdzUyeU1TX2t0Smh0aFFvVUR3bWcydElEU0ktMVctbGQzbXcwRGltXzZCZ0QyS3hIcnNJT1dINFlTcWF4cnpuRi1kV2FYdnVCZ1hLMWd2RnpCd3U2Nl9JQWQ2VTRYN2g0Wk9pWnliZ1I5c3NQZ2phQ202VWhPSEdEcWdjWmZRcV9SUTlTc2otTWZnXzFCbmlScGNFQnhjU0RQd2xPRHZ5R3k1NHBwS2twd1hQdHNEZFM5bXRpQVZPX3JWS2lRUzJ6NlJHbkU3OA?oc=5	未分類
-2026-03-09	中科院48歲女博導李新影在埃及病亡 死因曝光	https://www.ntdtv.com/b5/2026/03/09/a104074440.html	未分類
 2026-09-02	赤柱監獄72歲在囚人士病逝 死因庭將研訊	https://hkcd.com.hk/hkcdweb/content/2026/09/02/content_8772832.html	未分類
 2026-09-02	衞生防護中心調查2宗男子猴痘確診個案	https://news.google.com/rss/articles/CBMidkFVX3lxTFBPa3JlbFQ4MzRLNVlmSnBWSEhwak5Gd1dRdkFtRWhFYVN4cUdFZEV0NFQ2LWhMV1d3ZEd5ZHVFZEhQN0taTHdnMS1QcGI0Q3NZdHlSZ2c5Q0NtVkdVQXFhWlUwMmlNTE9GbEszbmtsYmF0b0NTNWc?oc=5	未分類
 2026-09-02	猴痘｜新增2個案 34歲患者潛伏期内與3陌生男子有性接觸	https://news.google.com/rss/articles/CBMihgNBVV95cUxOcGNQOWFKOV82M29CU2k4TGZxOGp6c1hFWnFMUUN2VVp6WUVFWWRHN0JTRDVaaFBrMW1nZktOa1ZETzBsY3RCa1BsMkwyNVVZbmZOR3B3VEFqTVNTa3Rwa2FtTC10Qi15Qm5Xb1k1Si13UDhNWmNUWXNjaHJjN1haM0xCM1YzWDMwQ2hHNkYxc0c0UjVYRTdJNXNFU2FKdUhWM0w5ZVUwMENVN3lDbE9KelV2SGRXQUdUSFpMUkdQc0pOVVNLZXpXNWRKQWdUVHJJYVVLdWFYS3huQms1UGYzaUFyNXM2MWxKRFh4MEwwU296LVRhaWRIT2x4djV5WXhISnp4QzhSelFfenIteDhlc3I4TkJKeUV0VC1mbFBULXgxX2gxOFBNQnIzQ1NhVWZ6dkdUektLcURTa1dUT2xVcjF2dzhMVi1LTjc4b0hTbU5ZeDM0M1YwR0pJQ2RsUHprVEtqT1ZkVzl3cXhLX0tvNFJvWVM5SUVIT2JqRERESEc0cVQ3alE?oc=5	未分類
@@ -2126,6 +2030,8 @@ var DATA_MEDICAL = `
 2026-09-02	健身重訓突頭頸痛 竟是腦動脈血栓中風	https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadWgyZ3VFOXl2ZGItajZLNXY4VEFpSDB6cE1KR2R2ckFVT245TGk5dHA1MFA4SFlQdEhWRG9meWNlbkZIZm1JZDNsazZNcDB1aHRiVUg4MkxabWfSAWBBVV95cUxQbEIwTW1ibk1xMURONWo3U2YyQWdjNlU0bHRqb0lWS051Wi1JSWZKUGoxbUJ3YmltNy11TGdoLWw0cmZpbGVrZWdYbUZNMUdJLWRxczQxd19mVjFWeHlpSVo?oc=5	未分類
 2026-09-01	開學小心呼吸道疾病！ 流感單週10萬人就診、新冠疫苗接種只到9/9 各級學校陸續開學，師生接觸頻繁，導致流感、新冠等呼吸道疾病傳播的風險也隨之增加。疾管署今（1）日表示，近期流感疫情呈現緩升趨勢，第34週（8/23-8/29）類流感門...	https://tw.news.yahoo.com/%E9%96%8B%E5%AD%B8%E5%B0%8F%E5%BF%83%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85-%E6%B5%81%E6%84%9F%E5%96%AE%E9%80%B110%E8%90%AC%E4%BA%BA%E5%B0%B1%E8%A8%BA-%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A8%AE%E5%8F%AA%E5%88%B09-9-070649921.html	未分類
 2026-09-01	菲律賓遊學團分布14縣市！已5人確診登革熱 - 生活新聞 - PChome Online 新聞	https://news.pchome.com.tw/living/nownews/20260901/index-78824927776400207009.html	未分類
+2026-09-01	湖北政府及中國科學院聘美律師所 欲挑戰Covid疫情賠償判決	https://hk.epochtimes.com/news/2026-09-01/32601367	未分類
+2026-09-01	法蘭克福機場爆瘧疾釀2死疑毒蚊隨航班偷渡入境專家教6招自保- 國際	https://www.dotdotnews.com/a/202609/01/AP6a968eaae4b02724bdb31731.html	未分類
 2026-09-01	新冠單週逾2.1萬人次仍在高原期 上週新增69例重症、18人死亡	https://news.nextapple.com/life/20260901/8B807F7F8AA54C7241D3739066A8C380	未分類
 2026-09-01	台中女童猝逝驗出B19病毒 衛生局、疾管署回應說明	https://tw.news.yahoo.com/台中女童猝逝驗出b19病毒-衛生局-疾管署回應說明-081200808.html	未分類
 2026-08-31	香港新增加一宗猴痘确诊个案 男子确诊猴痘曾与俩男子高风险接触	https://news.china.com/socialgd/10000169/20260831/49709746.html	未分類
@@ -2136,9 +2042,11 @@ var DATA_MEDICAL = `
 2026-08-29	突破性研究：發現抗植物病毒新機制為全球糧食安全提供新屏障- 生活新聞- PChome Online 新聞	https://news.pchome.com.tw/living/cna/20260829/index-17879877631981818009.html	未分類
 2026-08-29	猴痘｜39歲男子確診 潛伏期曾在本地與兩名陌生男子有高風險接觸	https://news.google.com/rss/articles/CBMivwNBVV95cUxQeTFHT0E0ZDFlRy1hS3FpQjhEU1lvY3JLRTI3TlppRkI4eURKMktBc3JFcnJUTEhjbFRPRGFkaThxSFl1c3h6a2VfeS01dDR4aEc2Q2RZdGhJZy1zT0xISTlTbWZpUWtfWlUzVDdqc2QwTjdBbXFrakpzVFVpM2tSc0tUMnZZVXpLZkJvM29Wa3hDcFhTQVVRM1dmYmJua1ZtcFV5REhaMkswRzByVFJmclY1amI3Mmg0dTJudVVzdzVoLWVyeXdVbVJjdFR2YUJwZ0xRQVFOcW5uR00zZG5KYlBGTlVxeHBQS3ZyYUNrQ2VaVGZqQUprVzBYN3VmQnZGWkxkU1lPZ25qcmlmUmNXUW8zNHJXYzJiVXBUNXFJaFlDYkwwaFl0bERaY0pLZ3pqMENHSTZJU2k3Nmtra3I2THpCZmVvUndvSE9GSnlPeHVQSjJxRGJvNzBIaUJfTWZjRHhtbHpsazE4WWFZR1kzLUxNQVBYZE91M3lOc1ZJSU4xMndBbXZCUzRld2pYajVzZHFqS19IWGphem9yQnZJRGU5VThVSHJ5VzdrZ0FVTjVDcXFyWTV6dk45QndYSms?oc=5	未分類
 2026-08-29	89歲挪威國王病逝 王儲哈康繼位	https://www.hkej.com/dailynews/international/article/4497462/89%25E6%25AD%25B2%25E6%258C%25AA%25E5%25A8%2581%25E5%259C%258B%25E7%258E%258B%25E7%2597%2585%25E9%2580%259D-%25E7%258E%258B%25E5%2584%25B2%25E5%2593%2588%25E5%25BA%25B7%25E7%25B9%25BC%25E4%25BD%258D	未分類
-2026-08-29	39歲男染猴痘與2陌生男有高風險接觸- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTE5XdHAta2pFd2YwUFRuQXNmMTNEU3R1UE9oQVNGQmtrcmtPX2xzQUdMMmFobkhvYkdyZ1NUa3k1b1FDWUxvaGZUVmpjYjZxNHRDZkVlNXJwSTNpRHJuR25NeEZVNmhtblRDWHhiVndUQ0Fac1hoaTRrMFZB?oc=5	未分類
+2026-08-29	39歲男染猴痘與2陌生男有高風險接觸- 港聞	https://www.dotdotnews.com/a/202608/29/AP6a929b04e4b04b6c5d383648.html	未分類
 2026-08-29	39歲男子確診猴痘情況穩定 潛伏期曾與兩男有高風險接觸	https://news.google.com/rss/articles/CBMid0FVX3lxTE95a05XZVlwWE9PTmd3MHZkRWdxcTVtaE5QemZ1b21idlJtN3JFQWF1VzItNlgtY2NoakJRbkQtNkJsc1RlUWFOdUhlcVdhb3dmR1RId01UTEdmRVozYlRsa0V5NlVCSGdrRWMtaWlBaW8wZDZRTDAw?oc=5	未分類
 2026-08-29	39歲男子確診猴痘 潛伏期與2名陌生男子高風險接觸	https://www.hkcd.com.hk/hkcdweb/content/2026/08/29/content_8772276.html	未分類
+2026-08-29	39歲漢染猴痘 潛伏期與兩陌生男有高風險接觸	https://hk.on.cc/hk/bkn/cnt/news/20260829/bkn-20260829153015489-0829_00822_001.html	未分類
+2026-08-29	39岁汉染猴痘潜伏期与两陌生男有高风险接触｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260829/bkn-20260829153015489-0829_00822_001_cn.html	未分類
 2026-08-28	視力模糊竟是血癌警訊！醫生驚：白血球狂飆15倍	https://www.pinview.com.tw/News/62156.html	未分類
 2026-08-28	挪威國王哈拉爾五世病逝 王儲哈康即時繼位 (15:37) - 20260828 - 國際	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260828/s00005/1787901889947/%E6%8C%AA%E5%A8%81%E5%9C%8B%E7%8E%8B%E5%93%88%E6%8B%89%E7%88%BE%E4%BA%94%E4%B8%96%E7%97%85%E9%80%9D-%E7%8E%8B%E5%84%B2%E5%93%88%E5%BA%B7%E5%8D%B3%E6%99%82%E7%B9%BC%E4%BD%8D	未分類
 2026-08-28	【無國界醫生專欄】伊波拉疫情爆發三個月：站在防疫前線的醫護人員-專欄- 明周文化	https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYXYzVnNud2k0ZmJzZ0xtZ2swaDJiRkNGY1VWSE5nNllXNGxVNTZYdUtOMHdrU1Nodnpmd1lJSGRINUZnM0xmbjZ3S2t2TW9zMzgzQVNoWkJFV3BaQ1pEOTFBMUZkYXZDaEhkU2pxdnpWallVOVhaUWd1Wl9kcWVYdHVIYm5LaGV3enRCYkFEVUE0QWlwdm5wR0Q1c05QTkNORXBmZFFPcmhjWlpNQ2pVR2RZTmtzSWJFVkVLd19rdXlyUXhCYUFfaHVsUzFhYTVZZVpEN2VobHBXX2t0ZVg5ZWZtQmVkUW9RT0NXV0wxZEdjRF9kQ0lMMzNLTmpnZw?oc=5	未分類
@@ -2181,15 +2089,18 @@ var DATA_MEDICAL = `
 2026-08-22	2019冠狀病毒病第5波數據資料庫 自 2019 年 12 月 31 日起，衞生署衞生防護中心累計報告 9524 宗死亡個案。		未分類
 2026-08-21	確診卻「無藥、無卡」神經疾病病友陷醫療困境 20學會聯手推專法	https://tw.news.yahoo.com/%E7%A2%BA%E8%A8%BA%E5%8D%BB-%E7%84%A1%E8%97%A5-%E7%84%A1%E5%8D%A1-%E7%A5%9E%E7%B6%93%E7%96%BE%E7%97%85%E7%97%85%E5%8F%8B%E9%99%B7%E9%86%AB%E7%99%82%E5%9B%B0%E5%A2%83-20%E5%AD%B8%E6%9C%83%E8%81%AF%E6%89%8B%E6%8E%A8%E5%B0%88%E6%B3%95-080657211.html	未分類
 2026-08-21	流感︱11歲男童染甲流併發肺炎心肌炎 留醫PICU情況嚴重	https://news.google.com/rss/articles/CBMingJBVV95cUxPckMzSWdyc0dLTkgxYmprZ2hLZ3dKNThqMmQ2M2htT2NOZGpGSWtTUkRlb2llR3dmQkRiMU5uQ1JFdGNaZEZIU2piM1VNdURzTkJuNENuYWQ4Rzl4dnRrcTdobWRjN3dSdDhhcTlNODAxejNweERyUlpVNnZvM0syQ2MzNTlhYUs0VDZ5c25FcEVnQWtPSl9vQkR5Qkg2Wmc0dzhiTFkyTUdWdy1fbjRmN2xYUURTTnROVzdlLWJZM0VWUGY5Q3Q1TGF6Sld6eTQ4SXNWc1dwdWxtSXBwYko4OXVUbzFTNkFoSnZpQjJFUExkZzI1SmhQOHNXeWxpODVxc2RPX0tZOWFxOG9BdWc1WVB6Q0k1RXZkWkp3ZkNR0gGMAUFVX3lxTE9hZGpKTjJ3Ym5Kc21wQWM0aUhrM3ZmbzFMeGJjcDR5YXBVT1NCdllTS1ZzNzI1aklLXzJPWkVlT2NBUmRkOWhSYXN6ZkxBemp3U3lud3hkVkUxcEtmSnI4bkYySk5qTE9CTEF0bXNGdDVkNGJfWXU3YXAzNVBlLXdodTUzaEdTVjc2NVZH?oc=5	未分類
+2026-08-21	民主剛果埃博拉疫情指數式擴散 超2500人亡	https://www.ntdtv.com/gb/2026/08/21/a104126218.html/amp	未分類
 2026-08-21	染甲流併發嚴重肺炎及心肌炎 11歲男童情況嚴重	https://news.google.com/rss/articles/CBMi0gJBVV95cUxNZjM2LXlVUVBYTjhwazNKZzQyV3RZTGo0YWZONWE1MjRZMnhBa3pGR09LZk81RHNKQ3ZmLXdVRGJJaGlUZkFwQ0xvZEZhMG1iaDRjaUFCRWp2bW44TTdLTFNpTHpWZ09rb29YaW5UZGVxSlIxZk1lZTRBUy1uWWhYUHlCaVRtdjdVdmVFLUlJcTlPeURLQkwwMFVyaGVQMWRLVmFMbWFsemdEX0VJUmZSS3poNENGXzc5NXdfZDVvRTBfSklTWGFLNFlOc2RLOUNxUUI1LU9HY3VTcnJDc3BycFFOeGRNcEp1UXZnWTJXQ3g3WmxSQ1dtS19ZbkVWTGRZdHRDTHBzaHZNUjFsUHdNdVdHTE16LWhxbXNDRmJGNTZOZmdFbzZIYmNEbmszellsZzBUUmlkODA2N2ZGa0FsSlgtQ2Rxc2EzUjcySVcxbjhhdw?oc=5	未分類
 2026-08-21	日本「傳奇美妝網紅」病逝死因曝光！20年搭檔悲慟：太突然了笨蛋	https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC-%E5%82%B3%E5%A5%87%E7%BE%8E%E5%A6%9D%E7%B6%B2%E7%B4%85-%E7%97%85%E9%80%9D%E6%AD%BB%E5%9B%A0%E6%9B%9D%E5%85%89-20%E5%B9%B4%E6%90%AD%E6%AA%94%E6%82%B2%E6%85%9F-%E5%A4%AA%E7%AA%81%E7%84%B6%E4%BA%86%E7%AC%A8%E8%9B%8B-090327599.html	未分類
 2026-08-21	急性疼痛別只靠止痛藥撐過去 教授忍2個月右眼突看不見、3個月病逝	https://tw.news.yahoo.com/%E6%80%A5%E6%80%A7%E7%96%BC%E7%97%9B%E5%88%A5%E5%8F%AA%E9%9D%A0%E6%AD%A2%E7%97%9B%E8%97%A5%E6%92%90%E9%81%8E%E5%8E%BB-%E6%95%99%E6%8E%88%E5%BF%8D2%E5%80%8B%E6%9C%88%E5%8F%B3%E7%9C%BC%E7%AA%81%E7%9C%8B%E4%B8%8D%E8%A6%8B-3%E5%80%8B%E6%9C%88%E7%97%85%E9%80%9D-141101714.html	未分類
 2026-08-21	11歲男童染甲流併發嚴重肺炎及心肌炎 情況嚴重	https://news.google.com/rss/articles/CBMihgRBVV95cUxPZ1BKUVFETWZkWXhtWEp6Um9nOHNYU0NfdG1wWGNyMDZjR2EyT3l3NXV3cFljNElSVHhIbkJDSW9rUmxXcXJ1VjV2Y2ZBTC1nbzhRZVl1bC1PWDlReEFEV1RZbUswTDdVUk1hc0VVQnNCSWszMmRvWFhmVURsQnlHV3BYVkFDczRmOHVJcTNkVGlCRkFSSjM0NWNUUnJYUUNvNmpuaW04SWJWMm1vT1Z5M1JjZkt2ZlI3R2RkM1JRYmZhY3JOWlFjLVhFa0NRVFFVMFhfemQtckN3UDFTZ0RtTGFMREt4bG01MEtGWUdOMnZBdFFIOFVuUEhnZjNERTdPb3BLdU8welBFOUJ5V2owWWhqSHBlVlJ4VDFWOVJfd1VZV3VHX3ZxWjlPamhuVEw5OUdQemUzQjVDenZhVGFlT1RtV1JLNkNva0xaZk91eWQ5S2VUZVQtVmRmT2M3MU9ZYlVweDk5WmR6UW90N01BaUJFYnFQckV2bXVJY3VoUUZkYVhmdlNlZF9XV0pjbDVfNGN1MWcxbkx3dlZ4WGFwOVJ2WUNrT0t1TV9sV0lneU1ZZ2pZMk9naXFZaUFVZGVSWHYtczdXV1VtSEoxSDJLb2JoUkhwSTEybzBmRjFGZWJGWk94c3hoZjNnYlRRbTV0enM1anN5eF9KRUtVSlhpMVVnRXUxZw?oc=5	未分類
 2026-08-21	11歲男童感染甲型流感併發嚴重肺炎及心肌炎 正留醫情況嚴重	https://news.google.com/rss/articles/CBMib0FVX3lxTE95MVE2dk1BRkZ3TE5DMVFza3F4QzBMTUhJeHFyVnRCcWhmTDVlNjdJazFPVVl3cWxjWE1BcmtHeUJJMjlOTGdtSlF3cS1FS3Zsd2lHWFZ4UmxxT2VBZm0wY3JJRmpKSkZnTWZsNVlpYw?oc=5	未分類
 2026-08-21	11歲男童感染甲型流感 併發嚴重肺炎及心肌炎情況嚴重	https://news.google.com/rss/articles/CBMid0FVX3lxTE1DMlVpWWFxMU9fWHRWdktxUXBsS2V0dkNmUmhNNjlzdFh4R1ZxMG9UVHVCbUVIVzRpSHh5bGRsVjRITkQyOHVjazI4dzI2VGZPX0Vxd0w5TVVlUVBDQ01PeWNiVmxrMEluMUsxd0hTcThrQUF3MDU0?oc=5	未分類
+2026-08-20	福奇助手就串謀隱瞞新冠研究認罪 國會議員指加州州長候選人隱瞞關鍵證據(美中報道）	http://www.uschinews.com/static/content/JDHT/MGWX/2026-08-20/1540172161732448256.html	未分類
 2026-08-20	涉嫌隱匿新冠疫情文件！ 佛奇前高級顧問當庭認罪	https://www.mirrormedia.mg/story/amp/20260820edi028	未分類
 2026-08-20	新增猴痘輸入個案 39歲男子潛伏期內於泰國與他人有高風險接觸	https://news.google.com/rss/articles/CBMijgNBVV95cUxOWW9ncUZRbjBFTHpwaDhfOEtWcHNPNHNBU1c2UjlHT0lQa3NIemlWZXNWalRYRTJQTTdfU3NiY3NTelljbnZ5RkN6N1UyLUZTY1g2NEp1b1ZBTHJ3bDhnZ0RrU2YzUWFVV0syc1NtSHFNYnFQRGxYU0dGQzE1Y3VEb2xZUmJPcnU2anN3VkVJWmxwLUtWUllOWE9WQ2FkVmZTZU4tZnZfNEtIeWZTQk0yZXFqbXJHS2R1QUFoTlJ0cFplVEQyUnltZEpPM2tVcHB5T2hPbDVGMlZQLVFDNjNiaHdFVnlhZktfRlNtM3FCREhfeFdKdzVQOGRYenVvWTQ2OUU1dnFDZS1QOFhhUEhQLWp3ZkRoTXYxOTlZZ1ZRcWRjdTQ1VHphQ1NCYVlpV2RISWhNYTV1d0NvSUlHTy04emRrb3JRaWEzZmpqeTl0R3hURGVLWlk5VTc1SXktMFRPMGVCQ1RWWGhLYVFYRDEwUTdlX3Q2d3VwMUk0TS00ZWlBWEQ2amdiaGhGV2JTZw?oc=5	未分類
 2026-08-20	徐懷鈺遭弟爆離家12年 失智母親病逝後要求分身家	https://hk.on.cc/hk/bkn/cnt/entertainment/20260820/bkn-20260820190135688-0820_00862_001.html	未分類
+2026-08-20	前福奇顧問承認試圖隱瞞與新冠起源相關的記錄- 紐約時報中文網	https://cn.nytimes.com/usa/20260820/david-morens-covid-fauci/zh-hant/	未分類
 2026-08-20	保單1.6億她一毛沒拿！姊姊病逝竟背2180萬遺產稅	https://tw.stock.yahoo.com/news/%E4%BF%9D%E5%96%AE1-6%E5%84%84%E5%A5%B9-%E6%AF%9B%E6%B2%92%E6%8B%BF-%E5%A7%8A%E5%A7%8A%E7%97%85%E9%80%9D%E7%AB%9F%E8%83%8C2180%E8%90%AC%E9%81%BA%E7%94%A2%E7%A8%85-122712715.html	未分類
 2026-08-20	72歲《慶餘年》秦焰住院一周病逝 醫揭冠心症惡化3關鍵！這習慣不改支架也白放	https://tw.news.yahoo.com/72%E6%AD%B2-%E6%85%B6%E9%A4%98%E5%B9%B4-%E7%A7%A6%E7%84%B0%E4%BD%8F%E9%99%A2-%E5%91%A8%E7%97%85%E9%80%9D-%E9%86%AB%E6%8F%AD%E5%86%A0%E5%BF%83%E7%97%87%E6%83%A1%E5%8C%963%E9%97%9C%E9%8D%B5-000000334.html	未分類
 2026-08-20	60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管	https://www.stheadline.com/health-care/3606302/60%E6%AD%B2%E7%B3%96%E5%B0%BF%E7%97%85%E7%94%B7%E7%8B%82%E9%A3%B2%E8%8B%A6%E7%93%9C%E6%B1%81%E9%80%81%E9%99%A2%E9%86%AB%E7%94%9F%E6%8F%AD5%E5%A4%A7%E9%99%8D%E8%A1%80%E7%B3%96%E9%A3%9F%E7%89%A9-%E7%AC%AC%E4%B8%80%E5%90%8D%E9%AB%98%E7%BA%96%E8%AD%B7%E8%A1%80%E7%AE%A1	未分類
@@ -2197,21 +2108,30 @@ var DATA_MEDICAL = `
 2026-08-20	39歲男子確診猴痘 潛伏期在泰國與陌生男子有高風險接觸	http://www.hkcd.com/hkcdweb/content/2026/08/20/content_8770740.html	未分類
 2026-08-20	39歲男子染猴痘正隔離治療情況穩定 潛伏期在泰國有高風險接觸	https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeHhYcjAteWR1U0hZclVkNUVnc1BQanRONVNQdEIyZERfYVQ2Z0hTU0liTWlZQk1YUjNEblROaFlVbFh5YnkyY3JfN0JUUVhqTTY1am9GWFhGcDd6UE1lRVVrVjFDTjBnYi1EUm1RWQ?oc=5	未分類
 2026-08-20	39歲男子染猴痘 曾在泰國與陌生男子有高風險接觸	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ueW5YT05JNDNxQUk0dFhTZWNRZ0VzTU1PWEpISEJBVGZpX0h2bW02TVg5blJvaWNub05NclVaeDljaDJYRWtPamNPbnNNTHlMcThKVEt2SXIyVkYxelBBQWhR?oc=5	未分類
+2026-08-20	39歲漢染猴痘 潛伏期曾在泰國與陌生男有高風險接觸	https://hk.on.cc/hk/bkn/cnt/news/20260820/bkn-20260820182225509-0820_00822_001.html	未分類
+2026-08-19	隱瞞新冠研究記錄 福奇前顧問認罪	https://www.ntdtv.com/b5/2026/08/19/a104125448.html	未分類
 2026-08-19	空姐空少患輻射相關癌症死亡比例最高機師排第二| 事事如意生活網站	https://ccue.singtao.ca/2026-08-18/空姐空少患輻射相關癌症死亡比例最高 機師排第/1102446	未分類
+2026-08-19	疫苗ETF国泰（159643）开盘跌0.17%，重仓股复星医药跌0.29%，沃森生物跌0.61%	https://finance.sina.com.cn/money/fund/aiassistant/etfkp/2026-08-19/doc-ininvfsv7044392.shtml	未分類
 2026-08-19	涉隱瞞新冠疫情相關文件 福奇前顧問認罪	https://www.ntdtv.com.tw/b5/20260819/video/410677.html	未分類
 2026-08-19	台新冠疫情達高點 一周逾2.6萬人就診	https://hk.on.cc/hk/bkn/cnt/news/20260819/bkn-20260819210441164-0819_00822_001.html	未分類
+2026-08-19	中國新冠病例7月暴增560% 8月衝更高（視頻）	https://www1.renminbao.com/rmb/articles/2026/8/19/96293b.html	未分類
 2026-08-18	陳盈潔72歲病逝！中風失智「忘記做1事」引器官衰竭 醫教晨間保命3招	https://tw.news.yahoo.com/%E9%99%B3%E7%9B%88%E6%BD%9472%E6%AD%B2%E7%97%85%E9%80%9D-%E4%B8%AD%E9%A2%A8%E5%A4%B1%E6%99%BA-%E5%BF%98%E8%A8%98%E5%81%9A1%E4%BA%8B-%E5%BC%95%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD-%E9%86%AB%E6%95%99%E6%99%A8%E9%96%93%E4%BF%9D%E5%91%BD3%E6%8B%9B-000000634.html	未分類
 2026-08-18	新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hMTJzY0tIV29rVlJaQVNsZlNFWGdqcE9NaVg2eE93WEVURDlGSzM2WEJmc3NfcDdwSndkaGxhYUhRTlVKT3k4ay1uN25wN0NCa2dicWhrMHk?oc=5	未分類
 2026-08-18	32歲男確診猴痘 衞生防護中心調查	https://hk.epochtimes.com/news/2026-08-18/1518583	未分類
 2026-08-17	雅琴看世界-朱鎔基98歲病逝！改革派象徵走入歷史舞台 0816	https://taiwandaily.net/%E7%86%B1%E9%96%80%E5%BD%B1%E9%9F%B3/152465/	未分類
 2026-08-17	菲傭病逝遺體運返鄉 僱主揭保險僅賠三萬 跨境運送費用沉重	https://eastweek.stheadline.com/witness/20913/%E8%8F%B2%E5%82%AD%E7%97%85%E9%80%9D%E9%81%BA%E9%AB%94%E9%81%8B%E8%BF%94%E9%84%89-%E5%83%B1%E4%B8%BB%E6%8F%AD%E4%BF%9D%E9%9A%AA%E5%83%85%E8%B3%A0%E4%B8%89%E8%90%AC-%E8%B7%A8%E5%A2%83%E9%81%8B%E9%80%81%E8%B2%BB%E7%94%A8%E6%B2%89%E9%87%8D	未分類
+2026-08-17	疫苗ETF国泰（159643）开盘涨0.00%，重仓股复星医药涨0.17%，沃森生物涨0.15%	https://finance.sina.com.cn/money/fund/aiassistant/etfkp/2026-08-17/doc-ininqtnu9104376.shtml	未分類
 2026-08-17	剛果金埃博拉疫情死亡達2325人 日新增101宗	https://www.ntdtv.com/b5/2026/08/17/a104124886.html	未分類
 2026-08-17	32歲男確診猴痘 潛伏期內曾在港與數名陌生男有高風險接觸 (22:28) - 20260817 - 港聞	https://news.mingpao.com/ins/港聞/article/20260817/s00001/1786977040090/32歲男確診猴痘-潛伏期內曾在港與數名陌生男有高風險接觸	未分類
+2026-08-17	32歲男染猴痘 潛伏期曾在港與數名陌生男子有高風險接觸	https://hk.on.cc/hk/bkn/cnt/news/20260817/bkn-20260817191608433-0817_00822_001.html	未分類
 2026-08-17	32歲男子確診猴痘情況穩定 潛伏期曾有高風險接觸	https://news.google.com/rss/articles/CBMid0FVX3lxTE0ydTlLLWJ1QS15OGhuaTlJSlNnYldhOW5DRUdsRHZHQXNSWVI2QW0ta2hZcDJBMUZGeWxlQlVpeEFlZmx4TEpJSUNVdzlITlhNSFBua2NQOWNZYWlYbkl6UDExcEpnbFRuZUduYmxsdjFwZWJhcWVj?oc=5	未分類
 2026-08-17	32歲男子感染猴痘情況穩定 潛伏期曾有高風險接觸	https://news.google.com/rss/articles/CBMib0FVX3lxTFB5RldOYXhDdFZESkoxX3BYY0RjQmp0OXBXVGx6OUhSMjVjUm5nQlZWakJGLVgxb3doR1ZGTHcyeldDOEEyQm1jVnVjS0c3Y0lVY3pTTjktTnhhN1hSQ08wUzdicVNlU01SQW1NRkdiQQ?oc=5	未分類
 2026-08-16	隔夜水細菌量飆升近2倍！ 日本實測5大隔夜飲品細菌排行榜1人氣飲品細菌量高達517萬個| 事事如意生活網站	https://ccue.singtao.ca/2026-08-16/隔夜水細菌量飆升近2倍！-日本實測5大隔夜飲品細/1102258	未分類
+2026-08-15	腦瘤，不必等復發！首款 IDH1/2 標靶治療，開啟神經膠質瘤精準治療新時代	https://news.pchome.com.tw/healthcare/heho/20260815/index-78673314403967323012.html	未分類
 2026-08-15	獨家｜冷倉龍頭「裕國」前董座病逝3年 前妻照顧費中斷！告遺孀拿回2076萬	https://news.nextapple.com/local/20260815/8814A8DADF765A0FA3E7C3C766F47D1C	未分類
 2026-08-15	有心人士還是別打擾了... #陳盈潔 #許常德 #台語歌后 #病逝	https://www.facebook.com/ent.ltn.tw/posts/%E6%9C%89%E5%BF%83%E4%BA%BA%E5%A3%AB%E9%82%84%E6%98%AF%E5%88%A5%E6%89%93%E6%93%BE%E4%BA%86%E9%99%B3%E7%9B%88%E6%BD%94-%E8%A8%B1%E5%B8%B8%E5%BE%B7-%E5%8F%B0%E8%AA%9E%E6%AD%8C%E5%90%8E-%E7%97%85%E9%80%9D/1493073526197937/	未分類
+2026-08-15	一個月七名中青年教授病亡 五人是中共黨員	https://hk.epochtimes.com/news/2026-08-15/72735786	未分類
+2026-08-14	朱鎔基去世次日 前副部級大管家馬忠智病亡	https://hk.epochtimes.com/news/2026-08-14/47013653	未分類
 2026-08-14	广东：7月报告新冠感染超7.1万例、流感超43万例	https://finance.sina.com.cn/wm/2026-08-14/doc-ininicvf2727841.shtml	未分類
 2026-08-14	大陸新冠疫情恐進入高流行 7月至少確診52萬	https://hk.epochtimes.com/news/2026-08-14/65878510	未分類
 2026-08-14	內地7月增52.2萬宗確診新冠 呈波動上升趨勢	https://hk.on.cc/hk/bkn/cnt/news/20260814/bkn-20260814150112795-0814_00822_001.html	未分類
@@ -2222,6 +2142,7 @@ var DATA_MEDICAL = `
 2026-08-13	新冠活躍期｜4-5月高峰 新病毒株XFG來襲 孔繁毅：去年46%港人染疫 長者免費打針 - 東張+	https://news.google.com/rss/articles/CBMi5wNBVV95cUxNdHBrLWVabTEtVmdCenprX1BwcGZHQjlDVTFTd1JldE5CVVZYV0t3UVFGdmlmS3NzdUtwZ2c5MDN5U19peUd1RFhQNS1uNkJTT0tRNGZoM3Vob0N6Yi02TGt2MDBvYlczUDM0TjlyRHEwR1FYM09MZlFKYlhPTlYwQTAwbEFOdDk3MW00dU1nYjBXM1hGRWY4SnRZZzlGLXd1VzhjMDJyaDJnSXhndTRHdmRrb2F5MjdjUFNzWXFobmRxd25HYTVWRkR5cldyNlVoQzJlSTNNUGtlaHY5R0ZtWTFaYWxqRTdZbG80ZzZqVFpIRktlOVc4bnZLcVpSNTlDX3lBYnJ2MDBZWW4yYkpVcU85NVFKUG5ndGhwYVZPU3ZQSmRTdEZVYmxZOUMzX1Q5MGV3RlRXcllmR0FzckNEbERralQtS0FaZmR6VW1hM29qeVJtMFBDMHBjSkx5ZTMyWTllZnY2S01EeER6eW5lOGlpbG9kZW12U0VYSHk1Z1Ztd2gtRG95Nl9RMnA3cHdHR2RGbk5XeURMdVF0SzA4OXdJSHROR0JlMnR6Ti13TjBqeDFQcFFYbkx6N3JYV3NHMDNvWE5iZ1BvTXpRVnVVZHRvdnFPNlU2eURfekRvRVdMaXhIMkxv?oc=5	未分類
 2026-08-13	內地獨子病逝留87個遊戲帳號！母親想賣掉 法院判准繼承可改實名	https://www.hk01.com/%E9%81%8A%E6%88%B2%E5%8B%95%E6%BC%AB/60379263/%E5%85%A7%E5%9C%B0%E7%8D%A8%E5%AD%90%E7%97%85%E9%80%9D%E7%95%9987%E5%80%8B%E9%81%8A%E6%88%B2%E5%B8%B3%E8%99%9F-%E6%AF%8D%E8%A6%AA%E6%83%B3%E8%B3%A3%E6%8E%89-%E6%B3%95%E9%99%A2%E5%88%A4%E5%87%86%E7%B9%BC%E6%89%BF%E5%8F%AF%E6%94%B9%E5%AF%A6%E5%90%8D	未分類
 2026-08-13	伊波拉疫情爆發！將評估2國入境延長管制	https://news.google.com/rss/articles/CBMiogJBVV95cUxNVmRockpvWkQ5Uno2S25XV2VYWll2VHhZRXl0T0dIUHNtRjdSeXVub3pTTl9JcTJVb0ZLel9laTNDVnNsLVJ5LXV6RlFjRXNMUEllVV9vVWR1Rk1LMzNBemhzWldnWHVDa045Ujl2NmNRelpVeWl4WXRNQ0U5U005b3VHNVFFTzl3YWlucUVHM2hucWxBLVRLcWpEZGFEeWtiREpXbEpwaER4ZzBfTGpsZ0hJRVVJY21UWGN3UUtFN0pkV3RJeGxBcENpMkFRMmRGaFkzaTQ2ZXBlLTFFS2NYcVBGRlk5WWdWeUVjVUlhZEplZjgzR1FJQzRLMGRsNVVxS3JMdy1ndHlXTW5nNDFVMVNaQUw2ZENWbm1hWndiQzNrQQ?oc=5	未分類
+2026-08-11	防范登革热、猴痘等疾病 中疾控发布健康风险提示	https://finance.sina.cn/2026-08-11/detail-inimxewp0757882.d.html?vt=4	未分類
 2026-08-11	石药集团(01093.HK)猴痘m RNA疫苗在美国获临床试验批准	http://m.capwhale.com/newsfile/mdetails/20260811/mcbfa825770114ec1898c18663c6bbb2b.shtml	未分類
 2026-08-11	新冠超額死亡爭議研究遭撤回 被指助長反疫苗言論 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hOHVpc1JtQmk2Szl4RFh2UWFadmNIVWlNY0Rqdk8xTUlZdUVfd2NtY1YyN1ZtM3h2d1JJY0o2OFhmNFE1YlRBVEp2NkJRVVZ5ekk3OVhn?oc=5	未分類
 2026-08-10	診所看診2／3都新冠 「流感、hMPV」4病毒流竄	https://www.nexttv.com.tw/NextTV/News/Home/Life/2026-08-10/2432276.html	未分類
@@ -2230,6 +2151,7 @@ var DATA_MEDICAL = `
 2026-08-10	健保擴大癌症、血友病患新藥給付！ 提升重大疾病照護	https://tw.news.yahoo.com/健保擴大癌症-血友病患新藥給付-提升重大疾病照護-221809857.html	未分類
 2026-08-10	《慶餘年》戴公公72歲病逝！星友悲悼住院1周就走了	https://news.nextapple.com/entertainment/20260810/1439182E0A3E456F457671B3421D510D	未分類
 2026-08-10	86歲日本昭和女星獨居鹿兒島 病逝兩個月後女兒才得悉噩耗	https://hk.on.cc/hk/bkn/cnt/entertainment/20260810/bkn-20260810151038564-0810_00862_001.html	未分類
+2026-08-09	原北京軍區副司令等四名將軍病亡 死因不明	https://www.ntdtv.com/b5/2026/08/09/a104122530.html	未分類
 2026-08-09	24歲吃播網紅病逝 曾直播食70個皮蛋 遺言籲：身體永遠是第一位	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60387741/24%E6%AD%B2%E5%90%83%E6%92%AD%E7%B6%B2%E7%B4%85%E7%97%85%E9%80%9D-%E6%9B%BE%E7%9B%B4%E6%92%AD%E9%A3%9F70%E5%80%8B%E7%9A%AE%E8%9B%8B-%E9%81%BA%E8%A8%80%E7%B1%B2-%E8%BA%AB%E9%AB%94%E6%B0%B8%E9%81%A0%E6%98%AF%E7%AC%AC%E4%B8%80%E4%BD%8D	未分類
 2026-08-08	關日華指7歲男童確診甲流不治屬個別事 冀不影響市民對疫苗信心 (09:59) - 20260808 - 港聞	https://news.mingpao.com/ins/港聞/article/20260808/s00001/1786154884136/關日華指7歲男童確診甲流不治屬個別事-冀不影響市民對疫苗信心	未分類
 2026-08-08	美國科學家用AI製造出16種新病毒- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE5nTlNGYy13aFZuekgtU3BRUU5wU2pYWEZpOGsxemZtTDdLWENrY3B5QUtMd052Z2QwZDVyZFpONElSaXFkOXU1QUZMLV9Ldk1GdHd5NnRVd1VXZWdlcDdOSWhFZVlPS3Y1STN2MGNfZ2VFd0ZuWVFF?oc=5	未分類
@@ -2242,25 +2164,34 @@ var DATA_MEDICAL = `
 2026-08-07	疫苗ETF招商（561920）大涨4%！首款mRNA流感疫苗获批	https://m.21jingji.com/article/20260807/herald/dff21833dfda4a6e43d228290446607c.html	未分類
 2026-08-07	猴痘｜31歲男確診 潛伏期曾在港與多名陌生男子有性行為	https://news.google.com/rss/articles/CBMijwNBVV95cUxOOEZZRXo2TkRZWkk2b0xqbHNJV1o0MnB3NHo1S2N1LTVHOWEzMjB1LUxndWRkX0tsTVZ0d0lmbGhDalJLRTlsc2E3aXZvaE1zZDduU2l4R1FvbV9WUVVkMURGSlBGSVNEMW5lSmlqeXFZbmZHUXdGM2dNNWk5blJDOFh4MFlGdFlpQk10UjVYa01GNy1ZQ3Z0WnN2dk9IWFJYaF83blJIcGw3aVFyYkpNcVVnWVBXYzhhdFk1RGQ1TmtPaXR4MTh6N1pxU3ZncVhrZHhDN1RaclFjc0dGRnVFZ2ZUV1k3WGhPSG1IVGd6RGd4ZzJlNzkwTDJRSjhjVi02TmJJUHR1bkpTaExIeXpGUlR2a1NfWk4wcjJONl80eWRFdGRGRWg1am05OTlXWkRzQ0o4b05wdXMzaS1MVEdsQjFIM1JhMU45UkVwSFFfdlBQbS1MOE9URFU0Q0NDQ0RhSXU2cm5lckQzUEFDZTdZOURaLW11RmpENWdfSkdCRUxOSFRXMG04UGY0RzNQWW8?oc=5	未分類
 2026-08-07	東方日報C1：76歲黎彼得病逝 許冠傑痛別舊戰友：感恩有您！	https://hk.on.cc/hk/bkn/cnt/entertainment/20260807/bkn-20260807030103018-0807_00862_001.html	未分類
+2026-08-07	慈濟疫苗案燒出治理疑雲！ 張景森揭30年前內湖購地案：重大決策太輕率	https://www.mirrormedia.mg/story/20260807edi057	未分類
 2026-08-07	惜心談心#19｜伊波拉病毒可致心臟衰竭及心肌炎！心臟科專科醫生拆解血管受損機制與最新治療	https://news.google.com/rss/articles/CBMi4wJBVV95cUxQSHRvcmtidkZzT1FyMFZkN2l5cWQ5b3VXM0xYS3RGdDZRUnhHckgtWmEySnZrYllaZ3YtZW5QZVF1TngxczIwTHpKaHVhbl9yak1sMXFPMlZVZkVhNmRrSlhJOVhXWVRHUS1PcUN6dGFscnZHSXV4N1R0Ykd3OV9qNDdRT3NjSnhjd3l4N19nTFIyekRkeVN0M1lsWjd3Z1NRRWJDTHhtMFVmNUVQRE9hUkZibkUtekQtNWFnOFk0VDUwTzhXdDdxM3ctc01iNVI5M2NmRlZ6Z1NXa0Ztc2J1UkZycHVQLXZ4WVpFSWlhbk9WV19vNzJtY3pqWDJSSXZZX2RGY0ExeEZsazN4dG9VdzhsUHBHOFpKSnRoS09fc2ZJR3ZXdVBkU2c0R0ZZOU1DQTVXX081UWI4ZjJwY0VzTE9ud2RoMWV0TDRjS1JCdE4xMVNzWEd4UzNxUl9NMEdmeWJv?oc=5	未分類
+2026-08-07	內地新冠陽性率上升趨緩 南方顯著高於北方	https://hk.on.cc/hk/bkn/cnt/news/20260807/bkn-20260807200556066-0807_00822_001.html	未分類
+2026-08-07	中疾控：新冠陽性率超20% 南方顯著高於北方- 兩岸	https://www.dotdotnews.com/a/202608/07/AP6a755954e4b04b6c5d35f70b.html	未分類
 2026-08-07	AI最新的駭人裡程碑：生成新病毒	https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdmRwRDRnX05DR0RuSmRIeE5GRHpfUVN4Xzh1dndrWS1UZ0loVGNKMUduMzZGQnJXMXFEX05udzFLOEZGTU9PY3Z3VU93TGJIS2ZidFhUR3BncHFZOWpuN3ZsbjlZRVpUY3BpdXd1RkZ5Z3NpQUJCQjY5N0tyVjlhdjN4anpKNW1wbHJndVZJV05Qa0FhS2xOTGUtMWRmTFBGemtGcTF0aGo4MVFabG9lNGljalNWT01fT2JiREJiMWphQnBJbHdvVG1BZ2VLZVg1N1BDWlJNdjlMSkFiVXpVcW44WkVaVWFJdWNUaTlR?oc=5	未分類
 2026-08-07	AI 模型設計出可感染細菌的新病毒 研究引發生物安全擔憂	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZ1pXMC1mNjdNaGR2eWRNTlNTQUh2SHA2Z0E3ZzRnOC1lczl5dTN6TDl3RGtJRlVKTUVMREZZYWNmUTkybzEtVUM2bFlOZmdtcFVNUmJSa3U?oc=5	未分類
 2026-08-07	97萬粉絲料理網紅驚傳病逝！ 團隊發文證實：肥大叔8/5離開了	https://www.mirrormedia.mg/story/20260807edi003	未分類
 2026-08-06	31歲男子確診猴痘 潛伏期內在港與多名陌生男子有高風險接觸	https://news.google.com/rss/articles/CBMimgNBVV95cUxOZHdLbnptdkRudXNsRmlUYmtrX0hqRy1NR2xHNzZDX2RIdUhFWVVHV0Q3ZlEtQ1A1S2I2eC1lVWFEbWZTYlhtT3pVSkc1MTJBRlRFSDd6X3E5dExkLVBwRktXWXNBRFZXLVJEN3RhU3AxOUhTc3M1RVRhT1ktMzZONFBpOWhIc28wS1laY2RwU2h4aVh5cXlROEptSGtTUXJmcUs0WkRtTW0tSmlkcVVZS0YzTlF0M2NnNXBBZlR4TkxITF9FWVUtNGFDNXliUlhYNk0tc096VGtRMzE3cldieGtLZFl0U0dzSXBmU0pzWm44MG5lTEttZWZhX3JfSFNRMkFJME44aXpVbXZJLTY0aXdpLU5HVFhTc0d5M1BMUE5GUWNmSkQ4LTdLbmVENzJfVVJBT3pKMTVWZ1NPT0ZYbVFaR2hHZ2dQRWJqNWh5Rkt2SHU4Si11OWF2YmtvWWx4WWFUdXFDSUZhWG8wblVQTDl1QzN2d3M2bkEzMkUxelYweHRub28ycjN1R01oSzhhOW9MWjAwSWVwUQ?oc=5	未分類
+2026-08-05	與多男曾有高風險接觸 31歲男染猴痘需隔離	https://hk.on.cc/hk/bkn/cnt/news/20260805/bkn-20260805192144076-0805_00822_001.html	未分類
 2026-08-05	知名美儀老師施雅婷病逝 友人不捨	https://www.worldjournal.com/wj/story/121359/9489638	未分類
 2026-08-05	特攝巨星隕落！《宇宙刑事卡邦》大葉健二病逝 曾進軍好萊塢參演《追殺比爾》	https://stars.udn.com/star/story/10091/9488930	未分類
 2026-08-05	31歲男感染猴痘 潛伏期曾在港與多名陌生男子有高風險接觸 (21:05) - 20260805 - 港聞	https://news.mingpao.com/ins/港聞/article/20260805/s00001/1785935263367/31歲男感染猴痘-潛伏期曾在港與多名陌生男子有高風險接觸	未分類
+2026-08-04	登革熱持續！上週增8境外移入「3例柬埔寨群聚」 今年累計病例破百	https://news.pchome.com.tw/healthcare/crwant/20260804/index-78582863625422316012.html	未分類
 2026-08-04	熊本強震| 避難所7旬婦確診新冠官員承認防疫措施有限- 國際	https://www.dotdotnews.com/a/202608/04/AP6a7148b2e4b04b6c5d35a5cc.html	未分類
 2026-08-04	流感新冠雙疫夾擊！香港7歲男童危殆 醫院爆群組感染	https://www.wenweipo.com/a/202608/04/AP6a7139eee4b0c1e5002373a9.html	未分類
 2026-08-04	柬埔寨入境3人確診登革熱！今年病例數破百 - 生活新聞 - PChome Online 新聞	https://news.pchome.com.tw/living/nownews/20260804/index-78582789572366207009.html	未分類
 2026-08-04	新冠疫情連9周升溫 上週2萬人求診疫苗吃緊	https://www.anntw.com/articles/20260804-QNU6	未分類
 2026-08-04	新冠單周新增62重症、就診暴增74.8%創新高 PQ.16.1.1成主流株	https://health.udn.com/health/story/5999/9669943?from=udn-articlemain_ch1005	未分類
+2026-08-04	台灣新冠就診人次單周增逾七成 多62宗重症見今年新高 (16:43) - 20260804 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260804/s00004/1785832601545/台灣新冠就診人次單周增逾七成-多62宗重症見今年新高	未分類
 2026-08-04	中國新冠爆發期來了 病毒變異株更狠 藥店難買藥	https://www.ntdtv.com/b5/2026/08/04/a104121203.html	未分類
 2026-08-04	中國前女首富陳麗華病逝 身家500億 傳4子女各分百億遺產	https://www.worldjournal.com/wj/story/121474/9428103?from=wj_maintab_cate	未分類
 2026-08-04	7歲男童染甲流不治今年首宗兒童流感離世個案- 港聞	https://www.dotdotnews.com/a/202608/04/AP6a71d091e4b04b6c5d35b298.html	未分類
 2026-08-04	7歲男童染甲流不治 今年首宗兒童流感死亡個案	https://www.hkcd.com.hk/hkcdweb/content/2026/08/04/content_8768160.html	未分類
+2026-08-03	非洲氣候變化影響瘧疾發病區域	https://www.rfi.fr/tw/非洲/20260803-rfi法廣-中文-尼古拉-非洲氣候變化影響瘧疾發病區域	未分類
+2026-08-03	為什麼施打疫苗後 手臂會留下疤痕？(圖)	https://m.secretchina.com/news/b5/2026/08/03/amp1101579.html	未分類
+2026-08-03	为什么施打疫苗后 手臂会留下疤痕？(图)	https://m.secretchina.com/news/gb/2026/08/03/amp1101579.html	未分類
 2026-08-03	中大揭固氮細菌可自製肥料 減少農作物依賴化肥	https://hk.on.cc/hk/bkn/cnt/news/20260803/bkn-20260803010050084-0803_00822_001.html	未分類
-2026-08-03	【思想領袖】科學與強權角力 新冠起源再爭議	https://www.epochtimes.com/b5/26/8/3/n14822179.htm/amp	未分類
+2026-08-03	【思想領袖】科學與強權角力 新冠起源再爭議	https://www.ntdtv.com/b5/2026/08/03/a104120843.html/amp	未分類
 2026-08-01	黃日華102歲外母病逝 孫女黃芷晴悼念︰見到媽媽未呀 (12:03) - 20260801	https://ol.mingpao.com/ldy/showbiz/latest/20260801/1785555876316/黃日華102歲外母病逝-孫女黃芷晴悼念-見到媽媽未呀	未分類
 2026-07-31	媒說：“胡錦濤一家食物中毒逝世是真的？”	https://www.rfi.fr/tw/中國/20260731-媒說-胡錦濤一家食物中毒逝世是真的	未分類
 2026-07-30	疫情爆發前 中共軍方科學家向美寄病毒樣本	https://news.google.com/rss/articles/CBMiYEFVX3lxTE96NXBWandqSFFoVDd1SXBYcDFjaGFkdlhMUkVKeUkyYmYtcVQtV0xXMDZ4RVY2aHlUMW1nek9iSVFxeWZJM3VWYXRSdEd2ZGRyZ2ZKLTZHWnBscGxJS2pfN9IBZkFVX3lxTE80cnJ2ekxldDFhcHVXWTZCMmdWWXNDaWYwR1c5b1h3MTE1SXAwZUtWeXB5MEEzY1NTUWYzWmt0eTY0c21NX2g5OFEydTJNT0FHVE1WSjhYaWs4eVFpWS1zY2o4SnJJQQ?oc=5	未分類
@@ -2280,6 +2211,8 @@ var DATA_MEDICAL = `
 2026-07-27	6歲女童接受基因編輯試驗後死亡 衛健委：相關部門人員已介入跟進	https://www.rfi.fr/tw/中國/20260727-6歲女童接受基因編輯試驗後死亡-上海衛健委-相關部門人員已介入跟進	未分類
 2026-07-26	澳洲昆士蘭州確認一宗H5N1禽流感病毒感染個案	https://news.google.com/rss/articles/CBMib0FVX3lxTFBIRnBVMFpJQ19qbDFzaXBqT21BODVMb1VfSWVYZWFScHZfTzhFcUJPZkJEVHByd0padjJsQU5mSUFocnVKZFo3TlBwejFXU0Vwdlk2MVUzSG9zQkNobjdLQUZqWl9vRzhXbkowM1M5RQ?oc=5	未分類
 2026-07-25	癌症心臟病死亡率降 男女平均壽命增加	https://hk.on.cc/hk/bkn/cnt/intnews/20260725/bkn-20260725110032906-0725_00992_001.html	未分類
+2026-07-25	期刊揭6歲女基因編輯試驗後亡 涉事醫學院稱調查中	https://hk.on.cc/hk/bkn/cnt/news/20260725/bkn-20260725110046679-0725_00822_001.html	未分類
+2026-07-25	央視前主持人敬一丹被爆病亡 知情者披露病因	https://hk.epochtimes.com/news/2026-07-25/8385862	未分類
 2026-07-25	8旬嬤白血球飆八萬好驚慌！醫揪慢性淋巴性白血病「這基因」惹禍，精準標靶助穩定病情	https://n.yam.com/Article/20260722903022	未分類
 2026-07-24	超級病毒將現身？泰預言家曾爆下半年6大終極預言	https://www.ntdtv.com/gb/2026/07/24/a104118264.html/amp	未分類
 2026-07-24	衛生局接獲1宗流感樣疾病群集性感染報告	https://www.gov.mo/zh-hant/news/1254642/	未分類
@@ -2289,12 +2222,17 @@ var DATA_MEDICAL = `
 2026-07-23	田啟文親證謝賢7月16日肺炎病逝	https://www.singtaousa.com/2026/07/22/entertainment/tian-qi-wen-confirms-xie-xian-passes/	未分類
 2026-07-23	台北市調處調查官陳屍辦公室 無外力介入疑腦出血病逝 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260723/index-78478975811965309002.html	未分類
 2026-07-23	加州橙縣社區爆發兒童癌症群組 多名兒童及年輕人病逝	https://www.singtaousa.com/2026/07/23/news/usa/heartbroken-families-break-down-in-tears-over-extremely-rare-cancers-in-kids-in-rich-california-enclave/	未分類
+2026-07-23	「它」曾年奪40萬條命！醫師揭「人類首次用疫苗」殲滅疾病：拿命豪賭	https://m.4gtv.tv/article/2026072302000023	未分類
 2026-07-22	衛生局接獲1宗流感樣疾病群集性感染報告	https://www.gov.mo/zh-hant/news/1253873/	未分類
+2026-07-22	台進入新冠流行期 單周4766人次就診5死	https://hk.on.cc/hk/bkn/cnt/news/20260722/bkn-20260722161006821-0722_00822_001.html	未分類
 2026-07-22	剛果金近千人感染埃博拉病亡 一日新增37病患	https://www.ntdtv.com/b5/2026/07/22/a104117904.html	未分類
 2026-07-22	8旬嬤白血球飆八萬好驚慌！醫揪慢性淋巴性白血病「這基因」惹禍，精準標靶助穩定病情	https://news.pchome.com.tw/healthcare/uho/20260722/index-17846856000261159012.html	未分類
+2026-07-21	連17日未休假 過勞中風判賠千萬	https://reader.turnnewsapp.com/ct/20260721/b07aa7/q1rfmjaynja3mjffqtdfnq2/share	未分類
 2026-07-20	香港知名演员意外猝死，两年后遗作问世，收入将捐给防癌基金会	https://www.163.com/dy/article/L288I8AH05563OYC.html	未分類
 2026-07-20	陸新冠確診一週內檢出率升至11.9％ 南方確診率高於北方省份	https://www.ettoday.net/news/20260720/3204518.htm	未分類
+2026-07-20	美國曼哈頓爆退伍軍人症 累計3人亡 料細菌源頭已清除 (14:34) - 20260720 - 國際	https://news.mingpao.com/ins/國際/article/20260720/s00005/1784527330003/美國曼哈頓爆退伍軍人症-累計3人亡-料細菌源頭已清除	未分類
 2026-07-20	港大醫學院：監測兩大國際航空樞紐過境客 可提早3日偵測新冠新變異株 (16:04) - 20260720 - 港聞	https://news.mingpao.com/ins/港聞/article/20260720/s00001/1784533500038/港大醫學院-監測兩大國際航空樞紐過境客-可提早3日偵測新冠新變異株	未分類
+2026-07-20	沉寂14年的病毒突然苏醒，两个月杀了828人	https://news.qq.com/rain/a/20260720A07I1D00?adChannelId=news_news_top	未分類
 2026-07-20	孔繁毅：本地新冠疫情升溫 料未來兩周內達高峰	https://hk.epochtimes.com/news/2026-07-20/63456263	未分類
 2026-07-20	中國新冠又回來了 南方出現高峰 變異株正快速傳播	https://www.ntdtv.com/b5/2026/07/20/a104116853.html/amp	未分類
 2026-07-20	「初戀情人」 傅子純血癌猝逝賴慧如首露面爆哭曝大嫂近況	https://www.msn.com/zh-tw/entertainment/一般/初戀情人-傅子純血癌猝逝-賴慧如首露面爆哭曝大嫂近況/ar-AA25aDTR?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
@@ -2307,20 +2245,22 @@ var DATA_MEDICAL = `
 2026-07-17	「御用工人」87歲梁愛病逝 - 20260717 - 娛樂	https://news.mingpao.com/pns/娛樂/article/20260717/s00016/1784219963327/「御用工人」87歲梁愛病逝	未分類
 2026-07-16	許維恩舊愛楊明學病逝22年...今46歲冥誕 她悲悼： 不會因為時間被遺忘	https://www.msn.com/zh-tw/entertainment/news/許維恩舊愛楊明學病逝22年-今46歲冥誕-她悲悼-不會因為時間被遺忘/ar-AA27E8d9	未分類
 2026-07-16	本港新冠病毒活躍程度創一年新高 衞生防護中心料未來數周維持高水平	http://www.hkcd.com/hkcdweb/content/2026/07/16/content_8765184.html	未分類
+2026-07-16	有基孔肯雅热聚集性疫情发生风险！国家疾控局提示	https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1354638.shtml	未分類
 2026-07-16	新冠疫情升溫！門急診暴增34% 疾管署急籲快做「這1事」	https://n.yam.com/Article/20260716348673	未分類
 2026-07-16	國家疾控局：新冠病毒疫情呈低流行水平	https://www.wenweipo.com/a/202607/16/AP6a587493e4b0b49ad1c39cc4.html	未分類
+2026-07-15	广东6月传染病共夺129命 新冠复燃 暴增至2.6万宗	https://www.chinapress.com.my/20260715/广东6月传染病共夺129命-新冠复燃-暴增至2-6万宗/	未分類
 2026-07-15	中國新冠病例翻倍上升 廣東單月傳染病已破百死	https://www.ntdtv.com/b5/2026/07/15/a104115405.html	未分類
 2026-07-14	足本訪問：施南生因器官衰竭病逝滂沱大雨添傷感徐克淚眼交代前妻死訊寄語將難過思念化作力量「佢嘅精神永遠同我哋一齊！」｜Viu1現場實況	https://news.now.com/home/entertainment/player?newsId=654543&home=1	未分類
 2026-07-14	施南生病逝︱中港台巨星痛心入骨 林青霞悲傷徹夜未眠	https://hk.on.cc/hk/bkn/cnt/entertainment/20260714/bkn-20260714083001401-0714_00862_001.html	未分類
 2026-07-13	聖嬰現象助長病媒蚊繁殖 疾管署籲：落實「這些事」防登革熱	https://www.4gtv.tv/article/2026071304000022?utm_source=popin	未分類
 2026-07-13	糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善 - 健康新聞 - PChome Online 新聞	https://news.pchome.com.tw/healthcare/crwant/20260713/index-78390561419043316012.html	未分類
 2026-07-13	孩童發燒腹痛嘔吐恐非腸胃炎 醫：留意可能是「猛爆性心肌炎」	https://news.google.com/rss/articles/CBMiVkFVX3lxTE96bWxKTWVLZXIwdnVOMkQySzFfQmpyMFNab1BfcWlOdWI4bDVTRWtqOVNOcVRlR21XeTh4UWxoenVteEdnU2ZEbkVkOXA3MFdkWlZxQzRB?oc=5	未分類
+2026-07-13	因應極端氣候 嘉義國中風雨球場動土打造全天候運動空間 - 生活新聞 - PChome Online 新聞	https://news.pchome.com.tw/living/cna/20260713/index-17839088475289518009.html	未分類
 2026-07-12	31州民眾腹瀉 隱孢子蟲疫情爆發 全美確診數千例	https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTF3Wm13bWxMTm1vcUc5eVhkbDNYaVZEZWgwbGJudDFqSkZMSTltUjUyT2xTN0VqbWM5V0VDdTFwNWVfUnZsTHVueU9GSThlaUQtOTFZTW1iQWxVVHJrTkFnMEJjWGhBaXhxYm5kWmpudVdjYUI3Smp2WVRaejh0OVloNDhwY091?oc=5	未分類
 2026-07-11	姑丈肝癌5個月離世 遺憾化動力..天使女孩投入醫界獲獎	https://www.setn.com/news/536212	未分類
 2026-07-10	民主剛果伊波拉疫情肆虐 3天再死百人	https://www.ntdtv.com/b5/2026/07/10/a104114016.html	未分類
 2026-07-10	台灣研究新發現！癌症可能是一種新陳代謝疾病| 生活	https://www.setn.com/news/24758	未分類
 2026-07-09	感染源不明！香港入境20多歲男染M痘Ib型 疾管署籲速打2劑疫苗	https://www.4gtv.tv/article/2026070903000004	未分類
-2026-09-07	九一一事件近25年後 逾400名FBI員工確診相關疾病	https://wchns.net/2026/09/07/%E4%B9%9D%E4%B8%80%E4%B8%80%E4%BA%8B%E4%BB%B6%E8%BF%9125%E5%B9%B4%E5%BE%8C-%E9%80%BE400%E5%90%8Dfbi%E5%93%A1%E5%B7%A5%E7%A2%BA%E8%A8%BA%E7%9B%B8%E9%97%9C%E7%96%BE%E7%97%85/	未分類
 2026-07-09	41歲漢遊台期間發生高風險接觸返港後確診猴痘- 港聞	https://www.dotdotnews.com/a/202607/09/AP6a4f7745e4b04b6c5d32e5d9.html	未分類
 2026-07-08	黎彼得病逝 兒子澄清經濟無問題 許冠傑親筆信道謝：Peter，一路好走！	https://www.orangenews.hk/entnews/VRZkhDx/%E9%BB%8E%E5%BD%BC%E5%BE%97%E7%97%85%E9%80%9D-%E5%85%92%E5%AD%90%E6%BE%84%E6%B8%85%E7%B6%93%E6%BF%9F%E7%84%A1%E5%95%8F%E9%A1%8C-%E8%A8%B1%E5%86%A0%E5%82%91%E8%A6%AA%E7%AD%86%E4%BF%A1%E9%81%93%E8%AC%9D-Peter-%E4%B8%80%E8%B7%AF%E5%A5%BD%E8%B5%B0.shtml	未分類
 2026-07-08	聖嬰現象助長病媒蚊繁殖 防範登革熱疫情升溫	https://news.nextapple.com/local/20260708/B343D598A1FD566202E2D3E1BC178A54	未分類
@@ -2343,14 +2283,17 @@ var DATA_MEDICAL = `
 2026-07-03	袁惟仁病逝靈堂開放首日！資深女歌手第一位現身曝兩人交情 望袁義接棒父親音樂事業	https://news.google.com/rss/articles/CBMinARBVV95cUxObVdGMUdNRXV2NXdLRlNoVUx3d0x3WUc0RDNSRV83cTJSdWt2bHo4b3UyaktIRHYyMDVONHlnX2txVS0tdzBOWHRCUjhJd2N2NUIzZ1hndEc2S0EySVpWR1ozQ2RzWnRmbklvNW1wT2FzQ0F3QjZMSVpQWGZoYnE4TWc5SWhNLWpzbXZmX0RQdkpFNnY4UTlidm13WW5sZk93eTNOeUt6OVNxWlVPTFk3VVkxa1RITFVZNjFoRzZfckVZZXExZGdlcFF6YkxZUW51ZzdpazNKaFY4d3E0Yjl3Y1NFWlpqNEtkWlJCSFE0YUtpMHNMLVNmSklncTNIN2ZPWG94MVlqRzJOa0R0U3k2UnZDXzVQRTBUUTJmN3ZxVmFSVEZyd1NKbTcwTzRrcWhobWVfTGJ0d1Q5ZnptdWRXSHkyYVJ2SGEwV3Ftazk5bzRXUS1zN0NtSGc4cGVWbXlJYkZ6QklwN0JLQTFsZ1l0M24xZVpfMVpHQVRhRUpNNkpVT19jUjVpMFdfNEt2NnR6aWtzeFMxS1hlM0ZsMGUzdmFIa0hXYmEwczZ6U0dXcDdRTVVRbk1WMi1hTzNPZkhva2lfWFgyR2RVUk9od3h2OHM5ZkhTd1VabEtPWks1cF9VQVBrSmZEeVlOMlZ2LVpsR0xhQnlHWWxXcEpzSVNMdGd5a0EyMzVXYzNnQlk5MDViSjBubDFZcDlmN3A?oc=5	未分類
 2026-07-03	眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關	https://health.udn.com/health/amp/story/6008/9356166	未分類
 2026-07-03	深圳羅湖區人民醫院舉辦艾滋病及重點感染性疾病專項培訓	https://www.hkcd.com.hk/hkcdweb/content/2026/07/03/content_8763066.html	未分類
+2026-07-03	暑假出遊當心！恙蟲病確診飆破百例創近年新高去「這兩地區」最危險| 生活	https://newtalk.tw/news/view/2026-07-03/1045071	未分類
 2026-07-03	人氣男偶像驚傳癌逝！「得年僅23歲」 粉絲痛哭湧入IG： 天使請安息	https://www.msn.com/zh-tw/entertainment/news/人氣男偶像驚傳癌逝-得年僅23歲-粉絲痛哭湧入ig-天使請安息/ar-AA1HO3pk?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2026-07-03	《超夜》詹老師病逝!一票人「誤認詹惟中」他急澄清： 活得很好	https://www.msn.com/zh-tw/entertainment/news/超夜-詹老師病逝-一票人-誤認詹惟中-他急澄清-活得很好/ar-AA1WMyEy	未分類
 2026-07-03	92歲林沖病逝「死因曝光」！ 上月才動心臟手術親友悲揭後事安排	https://www.msn.com/zh-tw/entertainment/news/92歲林沖病逝-死因曝光-上月才動心臟手術-親友悲揭後事安排/ar-AA1I9EUO?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2026-07-03	35歲獨子病逝 6旬婦用試管嬰兒技術再懷孕產女：拼了命也要生	https://news.google.com/rss/articles/CBMiqANBVV95cUxOTlIwcTZPRUh3V1R0OVpqR0dwSG54Si1HMXVzamNRaHdOQ3JQZUVNNmE4STJhQWVXSHRuZXZPNE1ZdzhKdWVaOEF5VENoLVNub0gyQm5ackM4UTJUUVp0amRnLWxoNmtlYnNkQUhzZzEyMW94dHZ6VnBJdVlDUzBQbU9DdmhFVEU1eHpwNVYtaFdoWGxTQ0VIMVc4SmpOc1laTDZjMWI2STRWdzhGZ1BMd1FicFFwLTJFWHduU0hkQnVoalVDQ2ZraDRqVDhEdzBXVnYzV3hfaHhKSGM4enk5MUxtc2lnbzVJRXkzWEh2eGlxTjhuaWlMd2l5cnVld2ZQdnJpanpyUHljR2c2eVUxQUtjdGQzdlBURzh5YUQ5blpKLXdmT2NrRFdmZ25KbFk0eGo0Y2JDTDVrRVNLaWVzQUp0cXhhYzFmaTVyd0NJTERBZkItOEhGdkZZdEZPTm1Teld5RmFEa0ZWVjd2ZEUxUjhmRlF3QWh0clI0RExYWFpuRmlVZ0M3dWVHV0xiSDhSYjZLNWdNdnZ3dG81TEhrb1dfdm5UaW5k?oc=5	未分類
+2026-07-02	山西首次舉行口岸輸入性傳染病多部門協同應急演練	https://www.hkcd.com.hk/hkcdweb/content/2026/07/02/content_8762975.html	未分類
 2026-07-02	4歲女童發燒腹痛嘔吐就醫確診猛爆性心肌炎| 生活	https://news.google.com/rss/articles/CBMiX0FVX3lxTE14STluek01ZmszNFh0cHZYdTNzN3lmcVJWNkR3el80eVVHTGhBYUE5TXdlSVVNcW1tVjBYdURDS3hoVElfSEt6T0hZWGp1eFEtSWNlR3ZhdTFmaXctNzY0?oc=5	未分類
-2026-07-01	埃博拉疫情仍在傳 專家：保持理性客觀不恐慌	https://www.ntdtv.com/gb/2026/07/01/a104111174.html	未分類
+2026-07-01	埃博拉疫情仍在傳 專家：保持理性客觀不恐慌	https://www.ntdtv.com/b5/2026/07/01/a104111174.html	未分類
 2026-06-30	阿根廷：出發地採集漢坦病毒變種與郵輪疫情無關	https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNDVXcC05X1JXUTQwZktPSlYtSUxDZjJBV3NxUUFnckFZVzgtbENqRzh1UjJhbzhaOWx2U0dDTmRKSkxyalhCaGR3ZFJ6eTFJWk82LWJobUJBOWxmU3VLY0NGVThuOTltTjBsMjhnRQ?oc=5	未分類
 2026-06-30	阿根廷:出發地採集漢坦病毒變種與郵輪疫情無關	https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVBBOHVwWXVnVWtPNEFRLTJ0ZTZoMFVtOGF3aVZKMEZNc1ppdGFxYlhpdV9CRWhXbEs2aHQ3RHFJSFVpNUZ1bEd6Qm1xZnItekhNOWs3THA5RWNzX0IzM2hxMHg3d3hvQ3cweVlzU2dZdjI4QzA4U2J5QUpJMFpKb19wSlpxc0NqUzV5RXRVLWhqY0NC?oc=5	未分類
+2026-06-27	和迅異體幹細胞五大適應症全面推進 - 財經新聞 - PChome Online 新聞	https://news.pchome.com.tw/finance/idn/20260627/index-78250383226850224003.html	未分類
 2026-06-26	新冠變種病毒｜徐榮中招後日咳夜咳全家輪流病試食大學蟲草後喉嚨不適及夜咳明顯改善- 東張+	https://news.google.com/rss/articles/CBMi9ARBVV95cUxPUGRUU2lnMzkwR01KSmRrZXBvR0d5aDhUUEJ5RmdkZDhONC1JclN4bGU1NklTUnZPZ2ZvYlduZV9Oc1dFOW5TeWpvOV9qdFd3Z3V0c1dvRTZvX0ZHM0l1a2Z6TVpwMjFUVlBhRHdRV3dIc180NHJCd1NhSEM3MEYwalFwR19zaVB5WjlQRllBNzl5LXgweFU3WllRNE4xT3pqSHZVM2IyeHFtNldHTkljZnFDek1NQXhYSlZfa3ozT3locTFHQjVsSzJqUVpaaHctY1YxMjFJRUlZdV9nTFVXOERpYVZoZGNGVUNJRWpKSW9zQ1ZGclFoYkEzS0w1blNZNEEtc2JkYVhxdk1FS2YxakVaV085RnVpdnZtNWh6UGFfc3NpOEkxSV9aNFBKLTl1Zkl2QkhoVndzbzFpeFphN196SUJpN1dUc3lpcHBuNllkRWVHOTRIUU5oNVZYaUZCbFJqUkppWDdIQ1JKMjJtUVFfZHhRQkN4U0hteHp0dDVVMURqMWRVTjlnbmE5Xzlray00SVVPcC1rdzlVR3pDWE1JbGVsN2doc29RSHFOVmVUSnVsYTZpWlktRS16Ul9FN2FaOHRDRXpick85ekM1RE5oSi1zcVhId1dndVhNUF91S3dJSGwyNTFFY05NQjdqUWhmZFJ6djc2QWJleUd4X0VoUEJ0Q0ZvRHB3U3FYZk5zdzBEVXBUaWpuMlVReXdWeU13dW16eGphcjgxVlRWaTREa29nMFYtWGRwUUpDYW9SWjN4VHJYZmZZVW0wVUdJTlE3VUs1RE9nLTYxTmdpNUFQV1F5Sk9HWTl0bHNiUTdGREhs?oc=5	未分類
 2026-06-25	免役體位加嚴-癌症-心臟病-得當兵-退將憂猝死誰擔-新庶民大頭家-完整版-20260625-陳揮文-馬文君-葉元之-chinatvnews	https://www.ctv.com.tw/Article/免役體位加嚴-癌症-心臟病-得當兵-退將憂猝死誰擔-新庶民大頭家-完整版-20260625-陳揮文-馬文君-葉元之-chinatvnews-	未分類
 2026-06-25	優格姐姐蕁麻疹突發過敏性休克 胞弟CPR救命！親揭生死瞬間	https://news.pchome.com.tw/entertainment/crwant/20260625/index-78239286433498316006.html	未分類
@@ -2395,6 +2338,7 @@ var DATA_MEDICAL = `
 2026-06-04	灰狼「蘿拉」病逝! 蔡阿嘎悲痛哀悼「RIP.」網： 錢還是要還	https://www.msn.com/zh-tw/news/living/灰狼-蘿拉-病逝-蔡阿嘎悲痛哀悼-rip-網-錢還是要還/ar-AA200WJ5	未分類
 2026-06-04	本土女星78歲病逝！好友曬「靈堂照」送最後一程	https://tw.news.yahoo.com/本土女星78歲病逝-好友曬-靈堂照-送最後-程-074500667.html	未分類
 2026-06-04	拒媳婦進靈堂！香港女星病逝掀狗血風暴 雙胞胎兒互撕爭1200萬家產黑幕曝光	https://tw.news.yahoo.com/拒媳婦進靈堂-香港女星病逝掀狗血風暴-雙胞胎兒互撕爭1200萬家產黑幕曝光-225000780.html	未分類
+2026-06-02	台醫仲介病患赴中器官移植 獲刑2年 丟行醫證	https://www.ntdtv.com/gb/2026/06/02/a104102334.html/amp	未分類
 2026-06-01	科羅拉多州百日咳病例激增，學童疫苗接種率下降引發公共衛生關注	https://www.singtaousa.com/2026/06/01/lifestyle/health/colorado-sees-increase-in-whooping-cough-cases-after-dropping-to-pandemic-era-lows/	未分類
 2026-06-01	《超夜》詹緒純病逝家中！遺孀曝生前拒插管「右手腫脹一天就走了」	https://tw.news.yahoo.com/超夜-詹緒純病逝家中-遺孀曝生前拒插管-右手腫脹-天就走了-051753614.html	未分類
 2026-05-31	潤泰總裁尹衍樑76歲病逝！年少叛逆進感化院，商場賺千億慨捐95％財富：生命盡頭不在意名利| 幸福熟齡X 今周刊	https://today.line.me/tw/v3/article/9mvXD5E	未分類
@@ -2420,11 +2364,13 @@ var DATA_MEDICAL = `
 2026-05-26	76歲潤泰集團總裁尹衍樑病逝！獨子接掌南山人壽 潤泰公主超狂背景曝	https://news.tvbs.com.tw/money/3213446	未分類
 2026-05-25	衞生防護中心接獲內地通報 調查兩宗猴痘確診個案 均曾到訪旺角同一處所	https://www.hkcd.com.hk/hkcdweb/content/2026/05/25/content_8756628.html	未分類
 2026-05-25	日本超商之父鈴木敏文病逝創7-11零售帝國｜環球晶達拉斯新廠拚量產徐秀蘭：美國市場不可錯過｜黃仁勳訪台將見魏哲家、林百里週三出席總部動土｜老虎等3家券商被重罰專家：中共恐懼資金外流	https://www.ntdtv.com.tw/b5/20260525/video/409143.html?日本超商之父鈴木敏文病逝 創7-11零售帝國｜環球晶達拉斯新廠拚量產 徐秀蘭：美國市場不可錯過｜黃仁勳訪台將見魏哲家、林百里 週三出席總部動土｜老虎等3家券商被重罰 專家：中共恐懼資金外流	未分類
+2026-05-23	婦追劇易乾眼「確診乾燥症」 本土研究揭乾眼症與自體免疫疾病有關	https://news.pchome.com.tw/healthcare/healthnews/20260523/index-17795124001820820012.html	未分類
 2026-05-23	8旬母病逝家中兩日才被發現 日男見屋內亂象才知生活早已崩壞	https://www.bastillepost.com/hongkong/article/16021210-8旬母病逝家中兩日才被發現-日男見屋內亂象才知生	未分類
 2026-05-22	苏丹疑似暴发霍乱猴痘登革热疫情 冲突加剧人道危机	https://military.china.com/news/13004177/20260522/49509137.html	未分類
 2026-05-22	台灣7歲小童星黃婼馡病逝 去年獲頒金鐘獎兒童節目主持 (13:09) - 20260522	https://ol.mingpao.com/ldy/showbiz/latest/20260522/1779426206863/台灣7歲小童星黃婼馡病逝-去年獲頒金鐘獎兒童節目主持	未分類
 2026-05-22	人類腸道芯片揭示炎症性腸病及癌症風險的三大隱藏驅動因素	https://www.techritual.com/2026/05/22/534956/	未分類
 2026-05-21	非洲伊波拉疫情擴散 專家憂變種株經轉機侵台	https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lamZubkFFM21zQW1QVkt6LXAyZ2tJWUJmOE9icEJJaUJKQ3EwWm9NVEdvVkVXakQzUWE1d1NWWW1zdEZwaXhjMFNRVUY5Y203bHNkZGJVdEExRG_SAWBBVV95cUxPSlN1NnJtaUZmNnpPSnVkNk9nbG4zNjdnS3cwVFBiRGlCcEhleXAxMURLSkN1SXEzcko0QVZMZVUwR0stMkdjY3JETGVTMVlPcXBqQUlQYkh3MjJxR0dha0c?oc=5	未分類
+2026-05-21	長庚研究：乾眼症恐大警訊！ 「早3年」預警自體免疫疾病確診	https://news.pchome.com.tw/healthcare/cnews/20260521/index-77933112475896227012.html	未分類
 2026-05-21	金鐘主持人黃婼馡病逝！媽媽寫好企劃等不到她 聽音檔心碎偷哭	https://www.nownews.com/amp/news/6838538	未分類
 2026-05-21	伊波拉疫情爆發139死！世衞揭病毒或已潛伏逾2個月 罕見變種正研發疫苗	https://news.google.com/rss/articles/CBMihgNBVV95cUxQWmFJTENkNFJ2cVkwT3RVcm0tNmpfeTgyMUc4R19SNExManZnYlV1T2t3Y1QtcmwtLW04VE9wekxTelFLOU9YOVhpMm1CaWdwSEpadWp0OElrV05CX1BMRm16NVdFTjF6TWw3OS1XRGp3d1J6MWVHR2Y1dGFWMVpNOHZWTjBqNjMxTWJ3ZnJ2cjdQWmFnaE5VYndjYy0taXJyeFFocC1XM3M4ek93bXFyS21QSE9hNkVqZ0ozcDZqMzNVQkMzbWxOYnNPT3QzUFctOWJkQ2w5eU05YkY5YnN6NHZMVU1nUkgwUUhhc3NBc1B1VzF3Qm90WDQ2SlpJLUxnWWY5bnhMTGNuaGtRNFZkQW1tQVB4NmNxUDdRY1pqX2lhdnB6TXZnYjBFN3FWNDVnZ2ZHVVExd2dORG5rMUpPQ1hiMWxGejRRbUlPTnFrdmFBX2lQQU9yd2RTdlZiZkVPMzJMNHRxT2I2NmluNUVaamJhS1BtZkpFVzFkcmFQLWU2cDNQaEE?oc=5	未分類
 2026-05-21	7歲金鐘小主持人高燒後病逝！兒科名醫示警「急性壞死性腦病變」出現4狀況快就醫	https://www.ftnn.com.tw/news/547416	未分類
@@ -2441,29 +2387,38 @@ var DATA_MEDICAL = `
 2026-05-19	非洲伊波拉疫情增至逾390例逾100死 本迪布焦病毒死亡率40%較扎伊爾毒株低	https://www.am730.com.hk/國際/1031364/非洲伊波拉疫情增至逾390例逾100死-本迪布焦病毒死亡率40-較扎伊爾毒株低	未分類
 2026-05-19	剛果國父遇刺案唯一被告！比利時前外交官 Etienne Davignon 93 歲病逝	https://tw.news.yahoo.com/剛果國父遇刺案唯-被告-比利時前外交官-etienne-davignon-162646224.html	未分類
 2026-05-19	伊波拉新病毒株罕見無藥治、無疫苗防疫難度大增| 世界萬象| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PTks4ZjdEeVVFMnlkajd0MG44LXhvekpYUW5IRXA2MVNjcGNyN2JERjhWRk45Y0xVM1BsdlNPZWNFV0hwNDU5dE91M2tJZDJx?oc=5	未分類
+2026-05-19	中共武器專家方岱寧病亡 官方詭異隱瞞2個月宣布	https://www.ntdtv.com/b5/2026/05/19/a104097986.html	未分類
 2026-05-18	🚨 世衞拉響最高警報！伊波拉病毒跨國爆發，新變種危險性有多高？	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnYlRMUkdDQ0pTdi1lWXNLVDVRUW5EcDUtLWQtYzRVM3d1QUhuMTFnUFM1cFk1RWE1OXdCbW9ha09DcXpxU09NMU9ORlZOaS15RmZvUXRCeTJCOXd2SUx6dlI4MVZuMmh2?oc=5	未分類
 2026-05-18	何超蕸離世｜何超儀首度澄清胞姊死因非乳癌 「全身都有癌」突然離世震撼全家	https://hk.ulifestyle.com.hk/topic/detail/20097278/何超蕸離世-何超儀首度澄清胞姊死因非乳癌-全身都有癌-突然離世震撼全家	未分類
+2026-05-18	【伊波拉病毒懶人包】 - 香港 - 香港文匯網	https://www.wenweipo.com/a/202605/18/AP6a0b1903e4b0b49ad1bb99d8.html	未分類
 2026-05-18	HPV疫苗全解析》子宮頸癌疫苗九價價格、公費對象與副作用	https://edh.tw/articles/CF8pqII	未分類
 2026-05-15	陪伴粉絲30年！毛利蘭聲優山崎和佳奈病逝 青山剛昌悲痛發聲	https://news.pchome.com.tw/internation/pronews/20260515/index-77883461904925353011.html	未分類
+2026-05-15	漢坦病毒｜「洪迪厄斯」號大部分船員荷蘭隔離6周 全球已現10病例致3死	https://www.singtao.ca/7505991/2026-05-15/news-漢坦病毒｜「洪迪厄斯」號大部分船員荷蘭隔離6周++全球已現10病例致3死/	未分類
+2026-05-15	中國農工黨3高官病亡 含副國級高官陳竺前副手	https://hk.epochtimes.com/news/2026-05-15/80870372	未分類
 2026-05-15	《名偵探柯南》「小蘭」聲優山崎和佳奈病逝 青山剛昌悲喊：再也聽不到了 | 太報	https://today.line.me/tw/v3/article/eLKoGMl	未分類
 2026-05-14	情人節的死亡詛咒？「超級孩子王」陳育慧三度罹癌 搏命寫下的教育宣告：死神搶不走我的教鞭！	https://n.yam.com/Article/20260513587581	未分類
 2026-05-13	英國一1700人郵輪疑爆發腸胃疾病暫未同漢坦病毒關聯- 國際 - 香港文匯網	https://www.wenweipo.com/a/202605/13/AP6a048913e4b0b49ad1bad1ef.html	未分類
 2026-05-13	泰國神算Plai師傅2026最新預言 3大新型病毒下半年威脅 好多人死/醫生唔識醫/HIV都有變種？	https://news.google.com/rss/articles/CBMiuARBVV95cUxPZnd5RzRfV3RnSHV5eS0yODQ4YXNmdERRXzFOTkx1czlnUlhscHNWajlQZ2U4UjlDcmttSjJvT0o5RkFvT3VWY083aTQ1VXkwZXYtZTRPSEZZdHdJTEYyWGVSdnZzX1d2WEZaYTBtbFBvMDJkcWpuTFFJRDU1UTZYOTFoVHN1WnhvRXk1dmd2cnd6eXpVRjV6T1hLQk5hTmtlT2RhVlR4YTUzWWVUdkZGaUdWMU1IMUpBVi1VRS1zb0lUNU4tWGczc1dib2FYdy1Uel9iMmdkRkdOSnNhb3NJOWtFZ2xTYldEU2Qyalc4OUM3bE93c3UySmRmWC0xR21nWmxIMzJYZzVib0hHSjBCWnA4c2FCVXlfYlJrMVZBbnQtcmowMnJENWl6ek1neV9iazdvUmRGTndzNGpQbTNfcGhMWGFGeHI2YTEyTWFsMHZhajY0ZXJOTGUtaXdtVC1ORWVmUGxLb3d0ME5KVWIwN1RldFJwVDB4OTFmZ05reDJkZGdxd3oyRTZmSWsxb3hBWXNvWGpVY3pKSjlGa2YwUGhXbXUzQy1WeXpZUlFBYURVWk5saGt3UHlURjV6dnppdFJka3NEWWlWYUtlUHhRWDJrNllqTHRmeFY3LWIwSzgydWgxTFN3ZFFvVG9DR3ZMRlc4ZmdybDZnM1BEaGRPblBHOEN5X296dVV4YWtRRzQ3UWJPcjhhcENkQjdtbWtHY0FfQ0tja0dwaW9zOVkwY1NPQ25hWVlr?oc=5	未分類
 2026-05-13	姊姊病逝遺產3976萬元 弟弟全拿！病殘女兒只得到一支手機	https://news.nextapple.com/international/20260513/23681C762921261A4FACA2ADAC030495	未分類
 2026-05-13	何超蕸病逝｜黎芷珊憶表姊妹情深 嘆走得突然 讚善良無架子 (19:24) - 20260513	https://ol.mingpao.com/ldy/showbiz/latest/20260513/1778670781860/何超蕸病逝-黎芷珊憶表姊妹情深-嘆走得突然-讚善良無架子	未分類
+2026-05-11	跳傘空降！英軍醫抵達南大西洋火山島處置疑似漢坦病毒病例- 國際	https://www.tkww.hk/a/202605/11/AP6a019a8fe4b04773b06d9b77.html	未分類
 2026-05-11	安省擴大藥劑師職能 可接種更多疫苗兼治療更多疾病	https://www.singtao.ca/7501316/2026-05-11/news-安省擴大藥劑師職能 可接種更多疫苗兼治療更多疾病/	未分類
+2026-05-11	吳芮醫生看我們與漢他病毒疾病的距離	https://news.pchome.com.tw/living/meganews/20260511/index-77845924151625335009.html	未分類
 2026-05-10	明搶？南京45歲男子病逝 存款被民政局轉走	https://www.ntdtv.com/b5/2026/05/10/a104094936.html	未分類
+2026-05-10	【突發】4名登上染疫郵輪的加拿大人 將在卑詩省進行隔離	https://www.singtao.ca/7500529/2026-05-10/news-【更新】4名登上染疫郵輪的加拿大人++將在卑詩省進行隔離/	未分類
 2026-05-09	謝霆鋒不忍了！謝賢傳肺炎病逝、4億遺產90%分孫子 怒發聲明槓造謠者	https://www.setn.com/news/1877386	未分類
 2026-05-09	2026年普立茲攝影獎：癌末父親向新生女兒告別與加沙戰火	https://theinitium.com/20260509-photo-pulitzer-prize/	未分類
 2026-05-08	漢他病毒恐現蹤西班牙！女子與病逝乘客同機遭隔離採檢	https://www.4gtv.tv/article/2026050811000027	未分類
 2026-05-08	新冠沒消失！日本最新統計「去年逾2萬人病逝」 最大受害年齡層曝光	https://www.mirrormedia.mg/story/20260508edi051	未分類
+2026-05-07	阿根廷汉坦病毒病例增加表明最初重点关注离开乌斯怀亚的船只	https://www.mixvale.com.br/2026/05/07/阿根廷汉坦病毒病例增加表明最初重点关注离开乌-z/	未分類
 2026-05-07	开创24小时新闻改写媒体史 CNN创办人特纳病逝 - 国际 - 即时国际	https://www.sinchew.com.my/news/20260507/international/7482010?variant=zh-hant	未分類
 2026-05-07	同樣罹患糖尿病！哥大叫後猝死...弟靠2事保命 生活中心／駱瑩倫報導血糖若長期失控，不只會造成代謝異常，更可能逐步損害血管與心臟，進而引發一連串嚴重併發症。家醫科醫師劉晏孜分享臨床案例時提到，她曾遇過一對同樣... 44 分鐘前	https://tw.news.yahoo.com/%E5%90%8C%E6%A8%A3%E7%BD%B9%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85-%E5%93%A5%E5%A4%A7%E5%8F%AB%E5%BE%8C%E7%8C%9D%E6%AD%BB-%E5%BC%9F%E9%9D%A02%E4%BA%8B%E4%BF%9D%E5%91%BD-080755373.html	未分類
 2026-05-07	60秒速報│ 大西洋郵輪淪為「死亡孤島」 罕見病毒打破人傳人禁忌- 首頁 - 香港文匯網	https://www.wenweipo.com/a/202605/07/AP69fc1026e4b0b49ad1b9dbe7.html	未分類
+2026-05-06	港大創中風急救鼻噴劑 送院前助減八成腦梗體積 擬2030年臨牀 - 20260506 - 港聞	https://news.mingpao.com/pns/港聞/article/20260506/s00002/1777999611754/港大創中風急救鼻噴劑-送院前助減八成腦梗體積-擬2030年臨牀	未分類
 2026-05-05	西非豪華郵輪爆發漢他病毒疫情 7人感染已釀3死	https://www.4gtv.tv/article/2026050507000002	未分類
 2026-05-05	男星91歲母病逝！二度中風14年燒800萬 他淚吐：生活重心消失	https://ent.ltn.com.tw/news/breakingnews/5425258	未分類
 2026-05-05	林逸欣癌逝父「薰衣草精油膏」掀排隊潮！官方急發聲了 公開限購方式	https://tw.news.yahoo.com/林逸欣癌逝父-薰衣草精油膏-掀排隊潮-官方急發聲了-公開限購方式-071500510.html	未分類
-2026-05-05	新疆兵團石河子大學教授孔苑苑病亡 年僅44歲	https://www.epochtimes.com/b5/26/5/4/n14756631.htm/amp	未分類
+2026-05-05	新疆兵團石河子大學教授孔苑苑病亡 年僅44歲	https://hk.epochtimes.com/news/2026-05-05/67030127	未分類
 2026-05-05	再見小母！19歲石虎保育大使病逝 粉絲不捨：謝謝妳多年陪伴	https://ctinews.com/news/items/p5W9QdXjWo	未分類
 2026-05-05	【中國觀察】新冠疫苗受害者的苦與怒	https://hk.epochtimes.com/news/2026-05-05/63724828	未分類
 2026-05-04	大西洋郵輪爆發呼吸道疾病疫情！南非衛生部證實：已有2名乘客不幸身亡	https://www.4gtv.tv/article/2026050412000002	未分類
@@ -2493,9 +2448,11 @@ var DATA_MEDICAL = `
 2026-04-25	《我在故宮修文物》導演葉君病逝 他讓年輕人愛上紀錄片 | 小城大事 | 非凡人事	https://www.ourchinastory.com/zh/16774	未分類
 2026-04-24	韩国影帝李南熙病逝 生命最后一刻还在准备舞台剧 - 娱乐 - 国外娱乐 - 日韩	https://www.sinchew.com.my/news/20260424/entertainment/7448324?variant=zh-hant	未分類
 2026-04-24	變種病毒警示｜新冠蟬病毒襲港？港女咳嗽失聲快測陰性，專家揭2類人高危| 健康解「迷」 - 醫學通識- 健康好人生	https://news.google.com/rss/articles/CBMi5wNBVV95cUxOMHFrY00teFVnOVJraC1xUlZTbmpyUW9HQmd3Wk9vTXJKeDJjbDQ3dENiRFd1VUlNYzByOThNcFl2Tllxalh0aHpXZkJ4R1ZPLXhSX3VPc2FGNXRudHdla1hERk5TcXB5NWRsWGpnTkxkR1dmeTlvakVra3lrVW5qQ1F0Zm5JNjFoaWFPekFweFZScWpjMVRJdWFDZ3p1Zzd5UU9FSEZaVWFRX2VQNTZHeU1lRktvTmNqM2NuRzFmMk1mZ2RNYl9tT3UzX1VENnNWMjNnc1h6NUk0cXMzR1hJMEdYRjVMZ1hXemdGQlV2WEl1QjVtOVJ5bU92b3JUaVEtdmRZV0tKa2hEamVYX21odlg2a1ZYaGdyTXRpMGIyTUZtV3FwY2hwem1ZTEh1djJzQWtaUFNBY25JYnhoQXlmb0h5VHNIUU9aTEIwNnJ3YWZzWUU0VXRmaXFxZXlHQ2g1VDdCcnV5TXVXalhwVXEzbVFCOENEdUVOUndaLTI5TE9fc1ZXMXRJLVhkQm9rNUdhWFAzUXZaQTU2aEV4WjBKdEtfMkRIbjJadUZ6bkhsZTdBMU9JWkFxazAtel9TeGlmU2JWSWhTLVpRNDctdVJ5eUgyTjZhY0xDVjdIZVo3aE5sR282N01R?oc=5	未分類
+2026-04-24	盧洪洲：向艾滋病功能性治癒發起攻堅，打造大灣區醫療高地	https://www.hkcd.com.hk/hkcdweb/content/2026/04/24/content_8751833.html	未分類
 2026-04-24	曾交鋒克林頓 前駐美大使李道豫病逝 - 20260424 - 中國	https://news.mingpao.com/pns/中國/article/20260424/s00013/1776963310706/曾交鋒克林頓-前駐美大使李道豫病逝	未分類
 2026-04-23	分屍女建商裝10袋「死囚獄中病逝」 檢察總長仍提非常上訴	http://www.msn.com/zh-tw/news/other/分屍女建商裝10袋-死囚獄中病逝-檢察總長仍提非常上訴/ar-AA21s2Ce?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-04-23	64歲老戲骨病逝！曾參演《黑祭司》 生前仍拚舞台劇演出惹鼻酸	https://stars.udn.com/star/amp/story/10089/9459252	未分類
+2026-04-22	香港錄今年首宗登革熱本地個案 歐家榮：本地傳播風險屬中等水平	https://www.hkcd.com.hk/hkcdweb/content/2026/04/22/content_8751351.html	未分類
 2026-04-22	施明病逝｜鼎爺淚揭月付5萬養大孖一家斥大新抱肚裏三把刀 李泳漢否認：只出萬五蚊人工	https://topick.hket.com/article/4117540/施明病逝｜鼎爺淚揭月付5萬養大孖一家斥大新抱肚裏三把刀 李泳漢否認：只出萬五蚊人工?mtc=10012	未分類
 2026-04-22	新冠變種「蟬病毒」擴散！中國疫情爆「2病毒交叉感染」醫認：更複雜| 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HZVFJZm9haERpQnBqM2ROajNGcDM4TkJjZ21CcU5Ub2I3cjZMLW5rZDVwRzhBa1JUZGluOE1pU3RNdHJvS2hhSHQzM2FHSUtvTnJtcW1n?oc=5	未分類
 2026-04-22	新冠疫情夏季恐反撲 再感染死亡風險飆逾四倍	https://www.epochtimes.com/b5/26/4/17/n14743842.htm	未分類
@@ -2554,6 +2511,7 @@ var DATA_MEDICAL = `
 2026-04-04	「網傳蘿拉病逝？蔡阿嘎急發聲明曬一圖破謠言，網看細節嚇呆	https://tyenews.com/2026/04/1329153/	未分類
 2026-04-03	失明難民遭美國邊巡隊遺棄街頭 死於低溫脫水併發症法醫裁定「他殺」	https://www.singtao.ca/7464128/2026-04-02/news-失明難民遭美國邊巡隊遺棄街頭++死於低溫脫水併發症法醫裁定「他殺」/	未分類
 2026-04-03	「蘿拉病逝」蔡阿嘎哀悼：RIP 留言大歪樓	https://www.ettoday.net/news/20260403/3143221.htm	未分類
+2026-04-01	內地列基孔肯雅熱為乙類傳染病 廣東啟動伊蚊監測	https://hk.on.cc/hk/bkn/cnt/news/20260401/bkn-20260401183001676-0401_00822_001.html	未分類
 2026-03-31	資深藝人施明肺炎離世 前夫李家鼎聞噩耗十分傷心 未能接受前妻死訊	https://hk.news.yahoo.com/資深藝人施明肺炎離世-前夫李家鼎聞噩耗十分傷心-未能接受前妻死訊-231505757.html	未分類
 2026-03-31	資深女港星驚傳病逝 昔當史特龍保鑣成傳奇	https://www.worldjournal.com/wj/story/121617/9413111	未分類
 2026-03-31	罹罕癌左眼失明！42歲男星驚傳病情惡化驟逝 獨留妻顧5歲幼女	https://star.setn.com/news/1815049	未分類
@@ -2627,18 +2585,22 @@ var DATA_MEDICAL = `
 2026-03-15	三總惡性腫瘤外科名醫馬辛一驚傳病逝 院方回應了	http://www.msn.com/zh-tw/news/living/三總惡性腫瘤外科名醫馬辛一驚傳病逝-院方回應了/ar-AA1RhISz?cvid=6929b1f3a464406b87c409c75e472bf4&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-display-admon-bundle	未分類
 2026-03-14	香港富商病逝掀遺產戰！兒子被控偷賣股票吞3.6億 手足跨海提告	https://tw.news.yahoo.com/香港富商病逝掀遺產戰-兒子被控偷賣股票吞3-6億-手足跨海提告-065813789.html	未分類
 2026-03-14	曾憑《玫瑰人生》奪劇后 英女星Jane Lapotaire病逝	https://www.singtaousa.com/2026/03/14/entertainment/jane-lapotaire-actress-dies/	未分類
+2026-03-14	囚禁女兒900天亡！虎媽移屍「鹽水洗地」辯怕有細菌 法院斥荒謬	https://www.ettoday.net/news/20260314/3132185.htm	未分類
 2026-03-14	「拍照只敢躲在最後」238磅女生逆轉人生 一年減掉半個自己 告別糖尿病、多囊：不再自卑	https://ccue.singtao.ca/2026-03-14/「拍照只敢躲在最後」238磅女生逆轉人生-一年減掉/1091852	未分類
 2026-03-13	香港創科｜磁控納米機械人溶血栓治中風 比傳統治療快20倍 | 飛凡香港 | 樂活灣區	https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uYVlFYWdLNHpqajB3MlFPakNRLUh4S0dYZ1JQMXVxbF9jM05lQjFmS05wOEd3MzgwUGxxbnh4dlV1QnVtcExDMlhlQXlVRVU?oc=5	未分類
 2026-03-13	彰化爆「食人菌」群聚感染 一家8口6住院 死亡率最高50%	https://n.yam.com/Article/20260312384669	未分類
+2026-03-12	印度婦確診腦死送返家辦後事 救護車猛震「過坑」竟奇蹟蘇醒	https://www.singtao.ca/7443402/2026-03-12/news-印度婦確診腦死送返家辦後事++救護車猛震「過坑」竟奇蹟蘇醒/	未分類
 2026-03-10	曾演《捉鬼敢死隊》 Jennifer Runyon病逝	https://www.singtaousa.com/2026/03/10/entertainment/jennifer-runyon-ghostbusters-actress-dies/	未分類
 2026-03-10	17 万人，这一次硅谷裁员，超过了「新冠疫情」	https://tech.sina.cn/2026-03-10/detail-inhqnrqq6315359.d.html?oid=谷歌推广收录【电报e10838】google搜索seo.bsh.0911&vt=4&cid=76524&node_id=76524	未分類
 2026-03-09	女子含淚為病逝好友吹嗩吶 無數網友淚崩（視頻）	https://www.ntdtv.com/gb/2026/03/09/a104074454.html/amp	未分類
+2026-03-09	中科院48歲女博導李新影在埃及病亡 死因曝光	https://www.ntdtv.com/b5/2026/03/09/a104074440.html	未分類
 2026-03-09	世衞：伊波拉疫情仍在剛果民主共和國快速擴散 逾3千人不治	https://www.kinliu.hk/news/%E7%92%B0%E7%90%83/%E4%B8%96%E8%A1%9E%EF%BC%9A%E4%BC%8A%E6%B3%A2%E6%8B%89%E7%96%AB%E6%83%85%E4%BB%8D%E5%9C%A8%E5%89%9B%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9C%8B%E5%BF%AB%E9%80%9F%E6%93%B4%E6%95%A3-%E9%80%BE3%E5%8D%83%E4%BA%BA%E4%B8%8D%E6%B2%BB/286805.html?id=80&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
 2026-03-08	防心梗、中風奪命！暖醫揭「終極3招」：還可省下一筆錢	https://www.setn.com/ampnews/1882954	未分類
 2026-03-07	新冠救命藥有「靜脈血栓」隱憂 醫：半年風險增近5倍要小心	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCM0VWVHE5Sk0ta0ljTXpzTWhzbWs3ckx4Q3pIQjNoOWg2X2N2NlhReUhEMFEwVjd1TV9ET29BRHhBWUZhc0stelhnM0VkSHg20gFPQVVfeXFMUE8yc3djZlN0MEJJcjNROHd2MzcwTE1VbTVKLUdQQnhXU2ZyRTN0MFlTZ2hubXdxbmlxcmNtZE4yWlNmZklSZEFBTllXd2UyMA?oc=5	未分類
 2026-03-07	19歲女大生咳血、胸痛驚見3顆肺部腫瘤 竟是罕見「肉芽腫性多血管炎」	https://n.yam.com/Article/20260630529505	未分類
 2026-03-05	記憶力衰退、愈睡愈累，小心腦霧找上門！營養師籲：3大要訣遠離「腦霧」	https://news.pchome.com.tw/healthcare/top1health/20260305/index-17727028733477368012.html	未分類
 2026-03-05	35歲獨子病逝 63歲媽1年後剖腹產把他「生回來」	https://news.nextapple.com/local/20260305/E0185B79FBC9B9392273C64B1B87BFB1	未分類
+2026-03-04	老化和慢性病逐年遽增，小心3大疾病風險！醫籲：營養和生活改善有助遠離	https://news.pchome.com.tw/healthcare/top1health/20260304/index-17725906566397768012.html	未分類
 2026-03-04	沒有疫苗 也沒治療方法 HMPV正襲擊加州——新病毒需知	https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWFE5bW5LSEs4Wko3a3FZYjVXaldzcmhUcWc2N0drRks2SkY5Uk80R1cxQnM4ai0zME85ZVhlT0FaWEp6Y2psTTVNVndlWVRGRC0yMzNUQnRGMVRCUG1NTlo3bGhVNTM1N2hkMHpHZ2dlQmJNckNqUE5BOEhjOFprNUhXRk1Id0dyOURFamt6SWFfbk1ka1lRRUxTT253SFczX0l5NkdTU0V2Q0pWWGhoazlZVDY2LXJMajV2SUplalM?oc=5	未分類
 2026-03-04	「蘿拉」突爆病逝！蔡阿嘎「猛曬1圖急發聲」網一看細節嚇爛：差點…	https://www.ftvnews.com.tw/news/detail/2026403W0055	未分類
 2026-03-04	「蘿拉」突傳病逝！ 蔡阿嘎發聲R.I.P. 網友噴笑......	https://news.ltn.com.tw/news/life/breakingnews/5391799	未分類
@@ -2648,6 +2610,8 @@ var DATA_MEDICAL = `
 2026-02-28	接管金錢豹20多年 董事長王其俊器官衰竭驚傳病逝	https://news.pchome.com.tw/society/ctinews/20260228/index-77223415653508309002.html	未分類
 2026-02-28	掌舵逾20年 台中金錢豹董事長王其俊驚傳病逝	https://news.nextapple.com/local/20260228/50FD8730FDF46E08EA0001360AD570C2	未分類
 2026-02-28	感冒致命併發症 「心肌炎」初期像感冒 呼吸喘、心律不整速就醫	https://news.google.com/rss/articles/CBMiW0FVX3lxTE44VUpZblJhYzNNQWdsVFRackFtNUZ1anFGb3Qzb3ZndjMweVRRaVd3NTlCems5LW1Xa1ZENEU4Nmd0NVV3UzctcndtdkU5bm90Vm92Y2NQeklicVnSAWBBVV95cUxNQlJOcnc5OXpZTVFQcmhVOHdxOGNwU0NmX3NzU1ZrUTR4aVp3OHp2V2hGU1lhS0pxeGQtRlhEYmY4Tjk5eml0QzVQSENES2JKck1ndE9qb1F3d3dpNjBxN3U?oc=5	未分類
+2026-02-27	孟加拉航空机舱蚊患空少挥电蚊拍灭蚊引热议| 世界万象| 東方網馬來西亞東方日報	https://www.orientaldaily.com.my/news/buzz/2026/02/27/800285	未分類
+2026-02-26	巴西在 2026 年记录了 90 例 MPOX 病例：了解该病毒性疾病的致命性、严重变异和预防措施	https://www.mixvale.com.br/2026/02/26/巴西在-2026-年记录了-90-例-mpox-病例：了解该病毒性疾病的-zh/	未分類
 2026-02-25	首位廣播金鐘得主夏琍琍病逝 好友證實：希望不是真的 醫藥 —	https://ctinews.com/news/items/89xpm0RBne	未分類
 2026-02-25	荔枝角收押所患肝癌50歲還押男囚犯留院不治 將進行死因研訊 醫藥 荔枝角收押所患肝癌50歲還押男囚犯留院不治 將進行死因研訊 1.00	https://std.stheadline.com/breaking-news/3547464/荔枝角收押所患肝癌50歲還押男囚犯留院不治-將進行死因研訊	未分類
 2026-02-25	荔枝角收押所年半百男囚 肝癌留醫延至今早不治 醫藥 荔枝角收押所年半百男囚 肝癌留醫延至今早不治 0.95	https://hk.on.cc/hk/bkn/cnt/news/20260225/bkn-20260225163053155-0225_00822_001.html	未分類
@@ -2677,6 +2641,7 @@ var DATA_MEDICAL = `
 2026-02-21	《醫人當自強》艾力丹尼病逝 拍劇演漸凍人症患者籲大眾關注 - 20260221 - 圖片看世界	https://news.mingpao.com/pns/娛樂/photo1/20260221/s00016/1771606134810/1771606134809	未分類
 2026-02-20	許維恩罹患乳癌！前男友楊明學因癌症早逝 兩人同拍王菲MV惹鼻酸	https://www.nownews.com/news/6791969	未分類
 2026-02-18	美國建立新聯盟 挑戰各地強制接種疫苗措施	https://www.epochtimes.com/gb/26/2/18/n14700572.htm	未分類
+2026-02-18	春節狂歡後私密處冒白點！28歲男子擦藥無效快崩潰醫示警：這病沒疫苗| 生活	http://newtalk.tw/news/view/2026-02-18/1019800	未分類
 2026-02-18	尪病逝留1封信！生前租房「養護理師小三」 女醫師崩潰	https://www.msn.com/zh-tw/news/national/尪病逝留1封信-生前租房-養護理師小三-女醫師崩潰/ar-AA1KCWyf?cvid=080a2a8612554a9caba27099a1f35abf&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-02-17	太多人不打疫苗今年春季COVID-19新冠疫情令人擔憂	https://www.singtao.ca/7420866/2026-02-17/news-太多人不打疫苗++今年春季COVID-19新冠疫情令人擔憂/?variant=zh-hk	未分類
 2026-02-14	癌末老翁被兒罵後猝死 醫生:財產別太早給子女 ｜ e南洋	https://www.enanyang.my/news/20260214/Supplement/1166770	未分類
@@ -2686,12 +2651,14 @@ var DATA_MEDICAL = `
 2026-02-12	慈幼6學生集體染流感樣疾病	https://www.tdm.com.mo/zh-hant/news-detail/1176143?lang=zh-&isvideo=&category=all&shortvideo=0	未分類
 2026-02-11	近期屢有與進食生蠔相關的諾如病毒食物中毒個案 衛生防護中心籲勿生食蠔及雙殼類海產 (19:09) - 20260211 - 港聞	https://news.mingpao.com/ins/港聞/article/20260211/s00001/1770808166928/近期屢有與進食生蠔相關的諾如病毒食物中毒個案-衛生防護中心籲勿生食蠔及雙殼類海產	未分類
 2026-02-11	著名語言學家宗福邦病逝 曾編纂《漢語大字典》	https://hk.on.cc/hk/bkn/cnt/news/20260211/bkn-20260211151049693-0211_00822_001.html	未分類
+2026-02-11	內蒙古疫情肆虐 狂建公墓、殯儀館和醫院	https://www.ntdtv.com/gb/2026/02/11/a104065469.html/amp	未分類
 2026-02-11	「核彈芭比」54歲父胰臟癌病逝！她返韓奔喪致歉：不失落是騙人的	https://www.4gtv.tv/article/2026021104000017	未分類
 2026-02-10	慟！無私奉獻39年 《客家雜誌》義工經理張義品病逝	https://hakkanews.tw/2026/02/10/260019/	未分類
 2026-02-10	導演張中一病逝 曾執導94版《三國演義》	https://www.dotdotnews.com/a/202602/10/AP698ae101e4b0c32d4f687d9f.html	未分類
 2026-02-10	大S病逝1年「信義豪宅還在名下」未過戶 地政士揭3種劇本！恐與1關鍵有關	https://www.mirrormedia.mg/story/20260210edi040	未分類
 2026-02-09	日本「首位太空人」秋山豐寬病逝 宇宙連線「脫口而出」成經典	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386106/%E6%97%A5%E6%9C%AC-%E9%A6%96%E4%BD%8D%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E7%A7%8B%E5%B1%B1%E8%B1%90%E5%AF%AC%E7%97%85%E9%80%9D-%E5%AE%87%E5%AE%99%E9%80%A3%E7%B7%9A-%E8%84%AB%E5%8F%A3%E8%80%8C%E5%87%BA-%E6%88%90%E7%B6%93%E5%85%B8	未分類
 2026-02-09	圓點女王草間彌生97歲病逝！9歲幻覺轉化成解藥 以藝術治癒自己和世界	https://tw.news.yahoo.com/%E5%9C%93%E9%BB%9E%E5%A5%B3%E7%8E%8B%E8%8D%89%E9%96%93%E5%BD%8C%E7%94%9F97%E6%AD%B2%E7%97%85%E9%80%9D-9%E6%AD%B2%E5%B9%BB%E8%A6%BA%E8%BD%89%E5%8C%96%E6%88%90%E8%A7%A3%E8%97%A5-%E4%BB%A5%E8%97%9D%E8%A1%93%E6%B2%BB%E7%99%92%E8%87%AA%E5%B7%B1%E5%92%8C%E4%B8%96%E7%95%8C-000000451.html	未分類
+2026-02-09	8人疑食物中毒 曾於文華東方酒店進食生蠔等	http://hk.on.cc/hk/bkn/cnt/news/20260209/mobile/bkn-20260209222422213-0209_00822_001.html?editorpickDate=20260210&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	未分類
 2026-02-08	丈夫病逝留孤兒北港暖警串聯善心助弱勢家庭度難關- 政府消息新聞	https://news.pchome.com.tw/public/pronews/20260208/index-77056123300463353016.html	未分類
 2026-02-07	直播｜本港呼吸道疾病和香港以外地區傳染病記者會	https://www.orangenews.hk/live/VOCFDNC/直播-本港呼吸道疾病和香港以外地區傳染病記者會.shtml	未分類
 2026-02-07	打「媽祖牌」讓6官兵破防！「光頭特務」病逝看守所3軍官確定入獄| 社會焦點	https://www.taisounds.com/news/content/96/265445	未分類
@@ -2715,12 +2682,15 @@ var DATA_MEDICAL = `
 2026-02-04	快訊／馬如龍49歲兒「患多種慢性病」猝逝！今下午相驗查明死因	https://www.ettoday.net/news/20260204/3112974.htm	未分類
 2026-02-04	快訊／馬如龍49歲兒「患多種慢性病」猝逝！ 相驗死因曝光	https://www.ettoday.net/news/20260204/3113306.htm	未分類
 2026-02-04	國際要聞 | 愛潑斯坦信件驚現大疫情模擬計劃，時間為新冠疫情爆發前三年 | 專題透視 - 新聞	https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG05R2ZHN1c4d1FPMllpaGNtaURxSXJFM1REMEpkZmE4S2g2b1RaWXpnTHp2Zy1OZndXX0p4N3VreFBVM0VVQ2FZZTNEVnVuTkJYcld4UUJMd3dzdTdGaTh1UzVmMm42X1NsX1FrMWJzV1hJY3FyRGtlVDl5TXBGdFg0R3puQnhTeGoxU01WQlNXckpJeURELUNMN1ZMRXhMZ1ZETmxVeTdrQ0k?oc=5	未分類
+2026-02-04	【健康1+1】死率70%！尼帕病毒再現	https://www.ntdtv.com/b5/2026/02/04/a104063173.html	未分類
 2026-02-03	超高齡產婦| 因獨子病逝吉林63歲婦再懷孕誕女：我的孩子回來了| 生活熱話	https://www.ohpama.com/1010415/生活熱話/生活熱話/超高齡產婦-獨子病逝-63歲/	未分類
 2026-02-03	相隔一年 袁唯仁與大S同日病逝 兩人緣份曝光	https://hk.epochtimes.com/news/2026-02-03/48563310	未分類
 2026-02-03	台灣資深音樂人袁惟仁病逝 曾創作多首經典歌曲	https://www.ntdtv.com/b5/2026/02/03/a104062694.html	未分類
 2026-02-02	美女主播吳中純淋巴癌逝！生前最後發文曝疲累，醫揭6大致命警訊	https://tw.news.yahoo.com/美女主播吳中純淋巴癌逝-生前最後發文曝疲累-醫揭6大致命警訊-000000439.html	未分類
 2026-02-02	吳中純入院1個月「做1次化療就病逝」 女兒提疑點	https://tw.news.yahoo.com/吳中純入院1個月-做1次化療就病逝-女兒提疑點-052122051.html	未分類
 2026-02-02	前主播吳中純淋巴癌逝！尪心碎「摯愛已遠」 愛女淚崩：怎能說走就走	https://tw.news.yahoo.com/前主播吳中純淋巴癌逝！尪心碎「摯愛已遠」-愛女淚崩：怎能說走就走-093700992.html	未分類
+2026-01-31	張又俠事件敏感時刻 三高級將領接連「病亡」	https://www.ntdtv.com/b5/2026/01/31/a104061917.html	未分類
+2026-01-30	爺爺蒙冤獄中病亡 孫子考大學讀法律為其翻案	https://www.ntdtv.com/b5/2026/01/30/a104061788.html	未分類
 2026-01-30	「改革四君子」翁永曦病逝 見證國家開放	https://m.hkej.com/landing/mobarticle2/id/4307125/%E3%80%8C%E6%94%B9%E9%9D%A9%E5%9B%9B%E5%90%9B%E5%AD%90%E3%80%8D%E7%BF%81%E6%B0%B8%E6%9B%A6%E7%97%85%E9%80%9D%20%E8%A6%8B%E8%AD%89%E5%9C%8B%E5%AE%B6%E9%96%8B%E6%94%BE	未分類
 2026-01-28	獨家 》前財部次長、前證管會主委戴立寧病逝	https://www.facebook.com/ctee.fans/posts/%E7%8D%A8%E5%AE%B6-%E5%89%8D%E8%B2%A1%E9%83%A8%E6%AC%A1%E9%95%B7%E5%89%8D%E8%AD%89%E7%AE%A1%E6%9C%83%E4%B8%BB%E5%A7%94%E6%88%B4%E7%AB%8B%E5%AF%A7%E7%97%85%E9%80%9D/1315739430581465/	未分類
 2026-01-28	洋女婿病逝!賴佩霞悲憤喊「為何這麼好的年輕人離開」： 心裡住了黑猩猩	http://www.msn.com/zh-tw/entertainment/news/%E6%B4%8B%E5%A5%B3%E5%A9%BF%E7%97%85%E9%80%9D-%E8%B3%B4%E4%BD%A9%E9%9C%9E%E6%82%B2%E6%86%A4%E5%96%8A-%E7%82%BA%E4%BD%95%E9%80%99%E9%BA%BC%E5%A5%BD%E7%9A%84%E5%B9%B4%E8%BC%95%E4%BA%BA%E9%9B%A2%E9%96%8B-%E5%BF%83%E8%A3%A1%E4%BD%8F%E4%BA%86%E9%BB%91%E7%8C%A9%E7%8C%A9/ar-AA1URmRw?cvid=69766d054708453a835c05d059f5b7c1&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
@@ -2752,6 +2722,7 @@ var DATA_MEDICAL = `
 2026-01-20	臥床2年病逝留一屋眼淚！弟扛債辦後事 枋寮暖警伸手救急	https://www.ettoday.net/news/20260120/3104176.htm	未分類
 2026-01-20	前總理周恩來侄子周爾均將軍93歲病逝| 兩岸要聞| 兩岸	https://udn.com/news/story/7331/9353811	未分類
 2026-01-20	上車驚叫後猝死! 11歲女童檢出B19病毒 醫： 病程快得不尋常	https://www.msn.com/zh-tw/news/national/%E4%B8%8A%E8%BB%8A%E9%A9%9A%E5%8F%AB%E5%BE%8C%E7%8C%9D%E6%AD%BB-11%E6%AD%B2%E5%A5%B3%E7%AB%A5%E6%AA%A2%E5%87%BAb19%E7%97%85%E6%AF%92-%E9%86%AB-%E7%97%85%E7%A8%8B%E5%BF%AB%E5%BE%97%E4%B8%8D%E5%B0%8B%E5%B8%B8/ar-AA1Uuzfe?cvid=696edf8fdd3f4bc4b0a6ffd54706e86b&ocid=mailsignout	未分類
+2026-01-20	64歲中共兵器科研院前副院長王小鵬病亡	https://www.ntdtv.com/b5/2026/01/20/a104058314.html/amp	未分類
 2026-01-19	獨／11歲女童染「B19病毒」引發急性心肌炎不治 沖繩曾大流行	https://www.ettoday.net/news/20260119/3103696.htm	未分類
 2026-01-19	在沙地病逝 女演员安葬吉达墓园 - 国内 - 全国综合	https://www.sinchew.com.my/news/20260119/nation/7200988?variant=zh-hant	未分類
 2026-01-19	吳中純病逝醫笑說掰掰？女兒控「不知道在開心什麼」 深夜痛揭心理巨大落差	https://www.mnews.tw/external/mirrordaily47377	未分類
@@ -2765,7 +2736,7 @@ var DATA_MEDICAL = `
 2026-01-15	「棋聖」聶衛平病逝 柯潔發文：「聶老一路走好」	https://www.tkww.hk/a/202601/15/AP69685502e4b0eb9195c1bbe9.html	未分類
 2026-01-15	「棋聖」聶衛平病逝 早年連敗多名日本一流棋手 曾培養柯潔等頂尖棋手 (09:58) - 20260115 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260115/s00004/1768438710043/「棋聖」聶衛平病逝-早年連敗多名日本一流棋手-曾培養柯潔等頂尖棋手	未分類
 2026-01-14	世銀：四分一發展中國家 目前較新冠疫情爆發前更貧困 (17:46) - 20260114 - 即時財經新聞	https://news.google.com/rss/articles/CBMiiANBVV95cUxQYnJ0VG9rWUJpaEhTNjVueFpYNXlYMDlZVXRrRUNSR1U3RnVDRjdsSlg4aWtGT2VEdThtdW1pQlRkbWNDU2pOUkN3SnBSenpxS2xNUmlHcTJ1Nlp0YjlhcE9nOFhTR2JRMG5KUzRXeE5yQ0NLUHBNTkV6andOLVpnMVd6QWVhRGlkWWNjZnJuSjNuS3g0UXhmUTdGdk5RLURERmlZWHM4VWx2azRZcm1ndTU1VWxtSUhlQTdMNzcwMkcwbjk1UVVtRDdjQ0JsSUhvWjZBamYwT1RPUnJHOGZrX3BUVU9lampWSXV0M2l2OENnSm5qLVNJa041LTJZVEE1eFB3aGpUc2prNGRycUEwTUFQV2tKXy14MWJ2amdUTmpiVFhpb0FPQldkSkNxVVhBdWRzVmcyVVV3R0VmY3NzT0l6bE10VGxLZmFBS1RXSEtjUE4yUGRoYm1wWUwxMVFBeVR3VHEtMFFZemVNMkZQdG5CZ0RORHNQMDZldTlORUZFRkU4UlpmZw?oc=5	未分類
-2026-01-14	27歲青農腦中風 花蓮慈院跨院接力搶救助重返田野		未分類
+2026-01-14	27歲青農腦中風 花蓮慈院跨院接力搶救助重返田野	https://news.pchome.com.tw/living/tcnews/20260114/index-76835866181475280009.html	未分類
 2026-01-14	11歲女童旅遊返台突猝逝！醫示警：恐病毒引發致命心肌炎	https://www.ettoday.net/news/20260114/3101005.htm	未分類
 2026-01-13	趙學煌重癱26年不幸病逝 醫：肺炎是最致命殺手	https://tw.news.yahoo.com/趙學煌重癱26年不幸病逝-醫-肺炎是最致命殺手-075916548.html	未分類
 2026-01-13	中國又爆鼻病毒 多種病毒疊加流行 猝亡激增	https://www.ntdtv.com/b5/2026/01/13/a104055965.html	未分類
@@ -2782,8 +2753,9 @@ var DATA_MEDICAL = `
 2026-01-06	專家指接連有幼童染疫離世情況不尋常 劉宇隆憂Omicron再現變異	https://news.tvb.com/en/877844-專家指接連有幼童染疫離世情況不尋常劉宇隆憂Omicron再現變異	未分類
 2026-01-06	【江泽民病逝】近300人赴中联办吊唁 大批市民献花	https://news.tvb.com/sc/858258-江泽民病逝近300人赴中联办吊唁大批市民献花	未分類
 2026-01-06	(某生物科技公司文章 2025年10月 - 可能與健康/猝死相關)	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260105/s00001/1767591236364/%E8%80%81%E7%BF%81%E5%B0%96%E6%9D%B1%E9%81%87%E6%BA%BA-%E9%80%94%E4%BA%BA%E8%B7%B3%E6%B5%B7%E6%95%91%E8%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	未分類
+2026-01-05	中國疫情蔓延 男女老少接二連三去世	https://www.ntdtv.com/b5/2026/01/05/a104053642.html	未分類
 2026-01-04	施明病逝｜李家鼎罕談家事自認嚴父 爆前妻為1事霸氣制止打仔︰唔使你肚皮痛！	https://topick.hket.com/article/4108675/施明病逝｜李家鼎罕談家事自認嚴父 爆前妻為1事霸氣制止打仔︰唔使你肚皮痛！	未分類
-2026-01-03	中國民眾曝 大量老人和青壯年病亡	https://www.ntdtv.com/gb/2026/01/03/a104052819.html/amp	未分類
+2026-01-03	中國民眾曝 大量老人和青壯年病亡	https://www.ntdtv.com/b5/2026/01/03/a104052819.html	未分類
 2026-01-03	《功夫》68歲袁祥仁元旦病逝 - 20260103 - 娛樂	https://news.mingpao.com/pns/娛樂/article/20260103/s00016/1767372966777/《功夫》68歲袁祥仁元旦病逝	未分類
 2026-01-02	香港男星袁祥仁病逝 曾出演《黃飛鴻》《功夫》	https://www.ntdtv.com/b5/2026/01/02/a104052473.html	未分類
 2026-01-02	有片丨香港演員袁祥仁病逝 曾於《功夫》飾演神秘乞丐	https://www.hkcd.com.hk/hkcdweb/content/2026/01/02/content_8733723.html	未分類
@@ -2791,8 +2763,12 @@ var DATA_MEDICAL = `
 2025-12-31	孟加拉首女總理齊亞病逝 華致唁電 - 20251231 - 國際	https://news.mingpao.com/pns/國際/article/20251231/s00014/1767113575715/孟加拉首女總理齊亞病逝-華致唁電	未分類
 2025-12-30	防春節傳播風險! 新冠疫苗擴大全民接種 限時2個月「明年元旦上路」	https://www.msn.com/zh-tw/news/living/防春節傳播風險-新冠疫苗擴大全民接種-限時2個月-明年元旦上路/ar-AA1ScS5c?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2025-12-30	無明確病史⋯藝人曹西平家中病逝 醫：猝死成因多與心臟疾病有關	https://udn.com/news/story/7266/9234080	未分類
+2025-12-29	衞生防護中心調查一宗猴痘輸入個案 男患者潛伏期在外地有高風險接觸	https://www.hkcd.com/hkcdweb/content/2025/12/29/content_8733184.html	未分類
+2025-12-29	男患者现皮疹确诊猴痘潜伏期在外地有高风险接触｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20251229/mobile/bkn-20251229215341087-1229_00822_001_cn.html	未分類
 2025-12-29	男子外地感染猴痘返港求診留醫隔離當局通報世衞- 香港 - 香港文匯網	https://www.wenweipo.com/a/202512/29/AP69528991e4b08fa936e7978d.html	未分類
+2025-12-29	新增一宗猴痘輸入個案 男子潛伏期內在外地曾有高風險接觸 (21:13) - 20251229 - 港聞	https://news.mingpao.com/ins/港聞/article/20251229/s00001/1767013991652/新增一宗猴痘輸入個案-男子潛伏期內在外地曾有高風險接觸	未分類
 2025-12-29	北京流感高峰 中共央視原製片人病亡	https://www.ntdtv.com/b5/2025/12/29/a104050958.html	未分類
+2025-12-29	【直播】兒童疫苗諮詢委員會舉辦公眾會議	https://www.ntdtv.com/b5/2025/12/29/a104051065.html	未分類
 2025-12-29	【猴痘警報】16歲少年巴基斯坦染疫返港 無打疫苗曾高風險接觸	https://www.singtaousa.com/2025/12/29/news/china/teenager-monkeypox-pakistan-high-risk-unvaccinated/	未分類
 2025-12-28	大腸癌末期槍砲犯 收押前暴斃	https://www.msn.com/zh-tw/news/national/%E5%A4%A7%E8%85%B8%E7%99%8C%E6%9C%AB%E6%9C%9F%E6%A7%8D%E7%A0%B2%E7%8A%AF-%E6%94%B6%E6%8A%BC%E5%89%8D%E6%9A%B4%E6%96%83/ar-AA1QCs9M?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2025-12-22	食用安全｜男子長期用保溫杯盛1類飲品鉛中毒肺炎亡醫生揭致命關鍵【附7類飲品勿放入保溫杯】		未分類
@@ -2805,16 +2781,23 @@ var DATA_MEDICAL = `
 2025-12-13	空服員病逝「告別式當天還被催請假證明」！ 揪出禍首了長榮航空再道歉	http://www.msn.com/zh-tw/news/living/%E7%A9%BA%E6%9C%8D%E5%93%A1%E7%97%85%E9%80%9D-%E5%91%8A%E5%88%A5%E5%BC%8F%E7%95%B6%E5%A4%A9%E9%82%84%E8%A2%AB%E5%82%AC%E8%AB%8B%E5%81%87%E8%AD%89%E6%98%8E-%E6%8F%AA%E5%87%BA%E7%A6%8D%E9%A6%96%E4%BA%86-%E9%95%B7%E6%A6%AE%E8%88%AA%E7%A9%BA%E5%86%8D%E9%81%93%E6%AD%89/ar-AA1OxUxr?cvid=68f2ee5d2a5748fbb47fa24e3562921b&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2025-12-11	隔夜飯︱男子食隔夜炒飯確診「炒飯綜合症」入ICU險亡專家警告6種隔夜餸勿食嚴重可2小時奪命	https://skypost.hk/article/4036237/%E9%9A%94%E5%A4%9C%E9%A3%AF-%E7%94%B7%E5%AD%90%E9%A3%9F%E9%9A%94%E5%A4%9C%E7%82%92%E9%A3%AF%E7%A2%BA%E8%A8%BA-%E7%82%92%E9%A3%AF%E7%B6%9C%E5%90%88%E7%97%87-%E5%85%A5ICU%E9%9A%AA%E4%BA%A1-%E5%B0%88%E5%AE%B6%E8%AD%A6%E5%91%8A6%E7%A8%AE%E9%9A%94%E5%A4%9C%E9%A4%B8%E5%8B%BF%E9%A3%9F%E5%9A%B4%E9%87%8D%E5%8F%AF2%E5%B0%8F%E6%99%82%E5%A5%AA%E5%91%BD	未分類
 2025-12-11	賴佩霞演唱會遺憾！「女婿美國病逝」才和女兒結婚1年	https://www.tcpttw.com/other/other_entertainment/2025/12/11/226599/	未分類
+2025-12-11	揪出年輕型中風、早發失智隱形殺手！2種罕見腦血管疾病有解方？	https://news.pchome.com.tw/healthcare/top1health/20251211/index-17654327162893968012.html	未分類
 2025-12-11	台東斑鳩林地黑熊受困套索 感染敗血症傷重不治	https://www.msn.com/zh-tw/health/other/%E5%8F%B0%E6%9D%B1%E6%96%91%E9%B3%A9%E6%9E%97%E5%9C%B0%E9%BB%91%E7%86%8A%E5%8F%97%E5%9B%B0%E5%A5%97%E7%B4%A2-%E6%84%9F%E6%9F%93%E6%95%97%E8%A1%80%E7%97%87%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB/ar-AA1EbKtd?ocid=winp1taskbar&pc=test&cvid=80e09702065c4533f31899ff65a32576&ei=13	未分類
 2025-12-11	ATP總決賽悲劇：兩名觀眾在依納爾皮競技場病逝	https://www.gamereactor.cn/tragedy-at-the-atp-finals-two-spectators-die-of-illness-at-the-inalpi-arena-1174093/	未分類
+2025-12-10	湖北疫苗受害者長期遭打壓 身心疲憊	https://www.epochtimes.com/gb/25/12/10/n14652536.htm/amp	未分類
 2025-12-10	桃園「92班停課」！全台破萬人求診、9人病逝 專家示警：1病毒爆發了	https://fuhouse.setn.com/news/1762860	未分類
+2025-12-10	擔心年輕中風、早發失智？基因定序協助判定風險	https://news.pchome.com.tw/healthcare/5678news/20251210/index-76533282452622214012.html	未分類
 2025-12-08	吃飽後想睡覺？營養師揭「醣暈真相」：血糖崩了 3跡象恐是糖尿病	https://news.pchome.com.tw/healthcare/evergreen/20251208/index-76515740079673314012.html	未分類
 2025-12-06	生不如死 傳新冠疫苗受害者留遺書後闖中南海	https://www.ntdtv.com/gb/2025/12/05/a104044496.html	未分類
 2025-12-06	安迪食道癌病逝有前兆！「三大惡習」埋下死亡未爆彈	https://udn.com/news/story/123693/9185068	未分類
+2025-12-06	中國疫情凶猛 傳播速度快 猝亡者激增 不分年齡	https://www.ntdtv.com/b5/2025/12/06/a104044535.html	未分類
 2025-12-05	生不如死 傳新冠疫苗受害者留遺書後闖中南海	https://www.ntdtv.com/b5/2025/12/05/a104044496.html	未分類
+2025-12-05	吃錯當心老得快！瑞典研究：長期吃「促發炎飲食」 慢性病累積速度增	https://news.pchome.com.tw/healthcare/healthnews/20251205/index-17649036003533420012.html	未分類
 2025-12-04	千亿市值“果链”龙头 蓝思科技独董突然病逝 年仅53岁	https://tech.sina.cn/2025-12-02/detail-infzmaxi0345289.d.html?vt=4	未分類
 2025-12-03	病逝清华硕士驻村干部从小家庭困难 缅怀邓桂娟	https://news.china.com/socialgd/10000169/20251203/49041642.html	未分類
+2025-12-03	99%的心血管疾病源自「這4件事」！ 研究：其中1項沒控制好，中風、心衰竭風險恐驟增	https://www.4gtv.tv/article/2025120312000021	未分類
 2025-12-02	千亿市值“果链”龙头 蓝思科技独董突然病逝 年仅53岁	https://finance.sina.com.cn/tech/discovery/2025-12-02/doc-infzmaxi0345289.shtml	未分類
+2025-12-02	59歲徐亨長3cm腦瘤靠「1裝置維生」掀開嚇壞全場！親揭「不去中國發展」真相	https://www.4gtv.tv/article/2025120202000008	未分類
 2025-12-01	花蓮森林護管員放榜！ 榜首淚吐報考動機：延續病逝父連結	https://www.mnews.tw/story/20251201nm019	未分類
 2025-12-01	練跆拳道突發現左手不能動！英14歲最年輕MND男孩病逝 家屬哀悼：我們的小超人	https://www.mirrormedia.mg/story/20251201edi024	未分類
 2025-12-01	來不及救！港星淚籌600萬手術費 愛妻等不到肝臟移植病逝	https://www.mnews.tw/story/20251201nm010	未分類
@@ -2863,6 +2846,7 @@ var DATA_MEDICAL = `
 2025-10-10	外交實務教科書走了！ 前外交部長程建人病逝	http://www.msn.com/zh-tw/news/other/%E5%A4%96%E4%BA%A4%E5%AF%A6%E5%8B%99%E6%95%99%E7%A7%91%E6%9B%B8%E8%B5%B0%E4%BA%86-%E5%89%8D%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%B7%E7%A8%8B%E5%BB%BA%E4%BA%BA%E7%97%85%E9%80%9D/ar-AA1NooZQ?cvid=68d7d817668943019ecd05727b75c8fe&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2025-10-08	玩水致命｜5歲女童游泳浸溫泉後突頭痛嘔吐 竟感染「食腦蟲」死亡率達98%【附醫生4招防蟲保命】	https://topick.hket.com/article/3973555	未分類
 2025-10-08	年仅31岁！时尚网红⚡️整「狐狸眼」感染猝逝！术后照片曝光惹心疼！	https://rojaklah.com/2025/10/08/wanghong-sudden-death-from-surgery-infection-py-081025/	未分類
+2025-10-07	呼吸道疾病不勝防 打疫苗、多快篩、用藥物	https://news.pchome.com.tw/living/awakening/20251007/index-17598244857152743009.html	未分類
 2025-10-02	23歲女婚禮台上熱舞突然倒地亡 200賓客嚇壞「12歲弟同病亡」	https://www.msn.com/zh-tw/news/other/23%E6%AD%B2%E5%A5%B3%E5%A9%9A%E7%A6%AE%E5%8F%B0%E4%B8%8A%E7%86%B1%E8%88%9E%E7%AA%81%E7%84%B6%E5%80%92%E5%9C%B0%E4%BA%A1-200%E8%B3%93%E5%AE%A2%E5%9A%87%E5%A3%9E-12%E6%AD%B2%E5%BC%9F%E5%90%8C%E7%97%85%E4%BA%A1/ar-AA1yIyOZ	未分類
 2025-10-01	邵家臻病逝｜妻子發文指因胃癌手術後現併發症 稍後有安息禮拜	http://www.hk01.com/article/1092673?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-09-30	🌐 數位身分證與疫苗技術	https://www.bbc.co.uk/news/articles/clyl3lzzed2o)	未分類
@@ -2876,6 +2860,7 @@ var DATA_MEDICAL = `
 2025-09-10	光復救災／48歲挖土機超人腿傷感染過世 兒子：以父親為傲	https://www.worldjournal.com/wj/amp/story/121221/9056509	未分類
 2025-09-09	19歲仔體育課跑步猝死 法醫指心肌炎引發心律不正亡 ｜ 討論牆 ｜ LINE TODAY	https://today.line.me/hk/v3/reposts/article/zRRkoP	未分類
 2025-09-05	🕊️ 宗教自由 器官移植	https://www.washingtontimes.com/news/2025/sep/4/xi-jinping-putin-caught-discussing-organ-transplants-immortality-hot/	未分類
+2025-09-04	无人村诡异声响家具都在人没了！90后、00后去世量惊人！医生：新冠阳- - 社会百态	https://www.secretchina.com/news/gb/2025/09/04/1087604.html	未分類
 2025-09-03	Mok Cheng Loon病逝医院 家属受促尽快来认尸	https://penang.chinapress.com.my/20250903/mok-cheng-loon病逝医院-家属受促尽快来认尸/	未分類
 2025-09-02	美國CDC：流感季逾2400萬宗病例1.3萬人離世 2009年以來最嚴重	https://www.hk01.com/article/1101434?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-09-02	中山大學附屬腫瘤醫院年輕醫生猝死 年僅34歲	https://www.ntdtv.com/gb/2025/09/02/a104016379.html	未分類
@@ -2901,7 +2886,6 @@ var DATA_MEDICAL = `
 2025-08-11	澳洲鮮肉弟「活吞蛞蝓」癱瘓8年 嚴重腦炎病逝	https://tw.news.yahoo.com/%E6%BE%B3%E6%B4%B2%E9%AE%AE%E8%82%89%E5%BC%9F-%E6%B4%BB%E5%90%9E%E8%9B%9E%E8%9D%93-%E7%99%B1%E7%98%938%E5%B9%B4-%E5%9A%B4%E9%87%8D%E8%85%A6%E7%82%8E%E7%97%85%E9%80%9D-084200222.html	未分類
 2025-08-10	年增1.8萬人、連20年死亡率奪冠！肺腺癌「關鍵角色」影響存活率	https://tw.news.yahoo.com/%E5%B9%B4%E5%A2%9E1-8%E8%90%AC%E4%BA%BA-%E9%80%A320%E5%B9%B4%E6%AD%BB%E4%BA%A1%E7%8E%87%E5%A5%AA%E5%86%A0-%E8%82%BA%E8%85%BA%E7%99%8C-%E9%97%9C%E9%8D%B5%E8%A7%92%E8%89%B2-124900743.html	未分類
 2025-08-10	导致新冠肺炎患者自杀的原因有哪些？	https://www.gazetaexpress.com/zh-CN/cilat-jane-shkaqet-qe-sjellin-vetevrasjet-e-pacienteve-me-covid-19/	未分類
-2025-10-07	呼吸道疾病不勝防 打疫苗、多快篩、用藥物	https://news.pchome.com.tw/living/awakening/20251007/index-17598244857152743009.html	未分類
 2025-08-09	不滿打新冠疫苗致病 男子槍擊CDC總部殺警	https://hk.on.cc/hk/bkn/cnt/intnews/20250809/bkn-20250809110229045-0809_00992_001.html	未分類
 2025-08-01	荔枝角收押所肝炎41歲還押漢病亡 將進行死因研訊	http://www.hk01.com/article/1092003?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-17	36歲男糖尿病引發心臟衰竭死亡 23歲嫩妻泣訴相識經過：永不改嫁	https://www.hk01.com/article/60257631?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -2910,7 +2894,6 @@ var DATA_MEDICAL = `
 2025-06-19	上海26歲糖尿病患網吧通宵猝死 家屬索賠百萬元 法院判決引熱議	https://www.hk01.com/article/60249163?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-06-10	盛品儒病逝｜盛品儒「回魂夜」蔡一鳳進行49天法事 6歲女不肯入睡跑到客廳求見爸爸	https://topick.hket.com/article/4004633/%E7%9B%9B%E5%93%81%E5%84%92%E7%97%85%E9%80%9D%EF%BD%9C%E7%9B%9B%E5%93%81%E5%84%92%E3%80%8C%E5%9B%9E%E9%AD%82%E5%A4%9C%E3%80%8D%E8%94%A1%E4%B8%80%E9%B3%B3%E9%80%B2%E8%A1%8C49%E5%A4%A9%E6%B3%95%E4%BA%8B%E3%80%806%E6%AD%B2%E5%A5%B3%E4%B8%8D%E8%82%AF%E5%85%A5%E7%9D%A1%E8%B7%91%E5%88%B0%E5%AE%A2%E5%BB%B3%E6%B1%82%E8%A6%8B%E7%88%B8%E7%88%B8	未分類
 2025-06-10	疑打疫苗不適台南仁德競選連任里長驟逝| 討論牆	https://tw.news.yahoo.com/%E9%BB%91%E6%A3%9A%E8%93%8B%E5%B1%8D%E6%8F%9B%E6%93%8B%E6%AD%BB-%E9%AB%98%E9%9B%84%E9%BB%83%E6%98%8F%E5%B8%82%E5%A0%B4%E5%A9%A6%E9%81%AD-%E5%90%8A%E8%BB%8A%E8%BC%BE%E7%88%86%E9%A0%AD-%E9%A0%AD%E4%B8%83%E7%8F%BE%E5%A0%B4%E5%81%9A1%E4%BA%8B-005500895.html	未分類
-2025-09-04	无人村诡异声响家具都在人没了！90后、00后去世量惊人！医生：新冠阳- - 社会百态	https://www.secretchina.com/news/gb/2025/09/04/1087604.html	未分類
 2025-06-10	方大同病逝！陸媒曝他臨終前狀態： 將止痛藥說明書折成千紙鶴	https://www.msn.com/zh-tw/entertainment/news/%E6%96%B9%E5%A4%A7%E5%90%8C%E7%97%85%E9%80%9D-%E9%99%B8%E5%AA%92%E6%9B%9D%E4%BB%96%E8%87%A8%E7%B5%82%E5%89%8D%E7%8B%80%E6%85%8B-%E5%B0%87%E6%AD%A2%E7%97%9B%E8%97%A5%E8%AA%AA%E6%98%8E%E6%9B%B8%E6%8A%98%E6%88%90%E5%8D%83%E7%B4%99%E9%B6%B4/ar-AA1A3VOu?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2025-06-10	心衰竭併腦感染！可憐印尼妹遭逼賣淫亡 人蛇恐嚇嫖客狠話曝	https://www.msn.com/zh-tw/news/national/%E9%99%B3%E4%BD%A9%E7%90%AA%E6%9B%9D-%E9%80%81%E8%8F%9C%E9%A9%9A%E6%82%9A%E8%A8%98-%E6%86%82%E6%9F%AF%E6%96%87%E5%93%B2%E6%9A%B4%E6%96%83%E7%8D%84%E4%B8%AD/ar-AA1Hrofi?cvid=3EE7F5A1B1EA419D80379D04DBA453B2&ocid=onepro&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2025-06-10	大S病逝41天出殯！ 安葬金寶山這一園區坐擁海天一色無敵景觀	https://www.msn.com/zh-tw/entertainment/news/%E5%A4%A7s%E7%97%85%E9%80%9D41%E5%A4%A9%E5%87%BA%E6%AE%AF-%E5%AE%89%E8%91%AC%E9%87%91%E5%AF%B6%E5%B1%B1%E9%80%99%E4%B8%80%E5%9C%92%E5%8D%80-%E5%9D%90%E6%93%81%E6%B5%B7%E5%A4%A9%E4%B8%80%E8%89%B2%E7%84%A1%E6%95%B5%E6%99%AF%E8%A7%80/ar-AA1AXGbf?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
@@ -2941,7 +2924,6 @@ var DATA_MEDICAL = `
 2025-01-03	38歲越南返港男子染麻疹 傳染期到體院餐廳 衞生署設熱線供查詢	https://www.hk01.com/article/60215585?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-12-29	擁近300萬粉絲 女網紅「咖啡」患大腸癌抗爭8個月離世 年僅29歲	https://www.hk01.com/article/1089016?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-12-06	鄭秀文經理人郭啟華上月中風一度留醫ICU 現進展良好可落床行路	https://www.hk01.com/article/1028249?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-01-11	上月全球萬人染新冠亡 世衞稱仍是一大威脅	https://hk.on.cc/hk/bkn/cnt/intnews/20240111/bkn-20240111052646681-0111_00992_001.html	未分類
 2024-10-28	42歲滬網紅赴瑞士安樂死 ｢不死癌症｣紅斑狼瘡能治癒嗎？	https://www.hk01.com/article/1070582?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-10-26	學者宋立功病逝 過去活躍評論時政為人熟悉	https://www.hk01.com/article/1070042?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-10-25	地盤主管注射新冠疫苗後亡 死因庭裁定死於不幸	https://std.stheadline.com/realtime/article/2031619/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E5%9C%B0%E7%9B%A4%E4%B8%BB%E7%AE%A1%E6%B3%A8%E5%B0%84%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%BE%8C%E4%BA%A1-%E6%AD%BB%E5%9B%A0%E5%BA%AD%E8%A3%81%E5%AE%9A%E6%AD%BB%E6%96%BC%E4%B8%8D%E5%B9%B8	未分類
@@ -2963,8 +2945,8 @@ var DATA_MEDICAL = `
 2024-09-10	汪建民病逝｜生前欠債千萬台幣 傳家屬付不出喪葬費要政府出手	http://www.hk01.com/article/1064814?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-08-30	連續返工104天僅休1天！油漆工過勞病亡 法院判公司賠40萬	https://www.hk01.com/article/1052738?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-08-22	深圳｢民辦高中第一｣ 厚德書院爆雷倒閉 800多個中產家庭遭遇失學。2019-2021年，厚德高考連續三年全民辦高中第一，成立於2016年7月，學生佔有率在國際教育方面達40%。學生近2000人，教師約300。每學期包含住宿費需94000元。一年純學費收入約1.9億，還有其他雜費等等。 但拖欠教師300名教師多月工資，連社保也沒供。拖欠業主1000萬元租金。除上述外，法院早前已裁定厚德欠款約1.7億元。 一個疫情，殺退了許多學生，家庭和人生的美夢。	https://www.hk01.com/article/1050390?utm_source=01articlecopy&utm_medium=referral	未分類
+2024-08-05	大陸疫情再升溫 民眾：猝死高發 ｜ 中國疫情 ｜ 新變異株 ｜ 中共疾控中心 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2024/08/05/a103903262.html	未分類
 2024-08-03	徐少強病逝｜拍《天蠶變》甩底臨時換人勁詭異 多年後揭失場真相	https://www.trtworld.com/video/digital/sacrificing-red-cows-the-jewish-prophecy-to-replace-al-aqsa-17442985	未分類
-2024-01-08	遼寧白肺猝死多 官方隱瞞疫情 ｜ 中國疫情 ｜ 心梗 ｜ 腦梗 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2024/01/08/a103841414.html	未分類
 2024-07-17	16歲少年染流感3天後猝死 母：他幾乎從未生病 專家籲接種疫苗	https://www.hk01.com/article/1037463?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-06-26	天水圍連爆兩宗本地登革熱 23個政府部門及機構特別會議商討滅蚊	https://www.hk01.com/article/1032499?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-06-26	國內病毒「異常大爆發」！ 醫示警感染風險增：越熱越嚴重	https://www.hk01.com/article/1032578?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -2975,7 +2957,6 @@ var DATA_MEDICAL = `
 2024-06-17	登革熱｜港現2宗本地個案 亞美州個案上升 醫生籲外遊做好防蚊	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60289971/%E8%81%BE%E5%95%9E%E6%BC%A2%E9%81%8E%E8%B7%AF%E8%A2%AB%E6%92%9E%E6%96%83-%E9%83%B5%E6%94%BF%E5%8F%B8%E6%A9%9F%E6%9B%BE%E9%9F%BF%E5%92%B9%E4%BD%86%E6%9C%AA%E6%B8%9B%E9%80%9F%E8%A3%81%E5%8D%B1%E9%A7%95%E7%BD%AA%E6%88%90-%E5%88%A4%E5%9B%9A1%E5%B9%B4	未分類
 2024-06-17	登革熱｜54歲婦坐E37上班被蚊叮確診 龍運：未見蚊患會定期巡查	https://www.msn.com/zh-tw/news/other/%E8%AD%B0%E5%93%A1%E9%99%B3%E8%8A%B3%E7%9B%88%E9%81%AD%E9%80%86%E5%90%91%E8%BB%8A%E6%92%9E%E9%A3%9B%E9%87%8D%E6%91%94-%E5%B7%A6%E7%9C%BC%E8%BF%91%E5%85%A8%E7%9B%B2-%E6%81%90%E9%95%B7%E6%9C%9F%E5%BE%A9%E5%81%A5/ar-AA1v9Xoz?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2024-06-09	慘吞日本7蛋同晚 國足球迷｢桂二牛｣病逝 曾因輸波怒砸17寸電視	https://www.hk01.com/article/1055012?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-08-05	大陸疫情再升溫 民眾：猝死高發 ｜ 中國疫情 ｜ 新變異株 ｜ 中共疾控中心 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2024/08/05/a103903262.html	未分類
 2024-05-19	(流感升溫 2老人重症亡)	https://guangming.com.my/%E7%82%BA%E8%A6%8B%E8%AD%B0%E5%93%A1%E6%9C%AC%E5%B0%8A%E5%8F%83%E8%88%87%E6%B4%BB%E5%8B%95-%E8%B7%A8%E5%B7%9E%E8%B7%91%E6%AD%A5%E8%BB%8D%E4%BA%BA%E7%8C%9D%E6%AD%BB	未分類
 2024-05-07	菲律賓38歲吃播網紅中風亡 醫：飲食多肉過鹹致血管堵塞 ｜ am730	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/%E8%8F%B2%E5%BE%8B%E8%B3%9338%E6%AD%B2%E5%90%83%E6%92%AD%E7%B6%B2%E7%B4%85%E4%B8%AD%E9%A2%A8%E4%BA%A1-%E9%86%AB-%E9%A3%B2%E9%A3%9F%E5%A4%9A%E8%82%89%E9%81%8E%E9%B9%B9%E8%87%B4%E8%A1%80%E7%AE%A1%E5%A0%B5%E5%A1%9E/467162	未分類
 2024-04-26	6歲女染甲流不治 流感季節持續	https://paper.hket.com/article/3749744?r=cpsdlc	未分類
@@ -2996,7 +2977,9 @@ var DATA_MEDICAL = `
 2024-01-20	感動！26歲外傭突腦中風入院恐成負累 僱主推遲裝修留錢付醫藥費	https://www.hk01.com/article/982729?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-01-16	新冠病毒｜2022年1.4萬人染疫亡 港人平均預期壽命失守全球第一	https://www.hk01.com/article/981455?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-01-14	惠英紅疑受細菌和病毒感染發燒抽筋 無奈臨時缺席微博之夜	https://www.hk01.com/article/980855?utm_source=01articlecopy&utm_medium=referral	未分類
+2024-01-11	上月全球萬人染新冠亡 世衞稱仍是一大威脅	https://hk.on.cc/hk/bkn/cnt/intnews/20240111/bkn-20240111052646681-0111_00992_001.html	未分類
 2024-01-09	「隨地倒」越來越多 傳大陸新冠後猝死者年輕化(組圖) - 社會百態 -	https://www.secretchina.com/news/b5/2024/01/09/1053193.html	未分類
+2024-01-08	遼寧白肺猝死多 官方隱瞞疫情 ｜ 中國疫情 ｜ 心梗 ｜ 腦梗 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2024/01/08/a103841414.html	未分類
 2024-01-05	男子半裸下身暴斃廁所 因流感及併發症猝死	https://hk.on.cc/hk/bkn/cnt/cnnews/20240105/bkn-20240105060158518-0105_00952_001.html	未分類
 2023-12-31	日本13歲女偶像驚傳肺炎猝逝 粉絲悲痛：太年輕了	https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC13%E6%AD%B2%E5%A5%B3%E5%81%B6%E5%83%8F%E9%A9%9A%E5%82%B3%E8%82%BA%E7%82%8E%E7%8C%9D%E9%80%9D-%E7%B2%89%E7%B5%B2%E6%82%B2%E7%97%9B-%E5%A4%AA%E5%B9%B4%E8%BC%95%E4%BA%86-081134687.html	未分類
 2023-12-30	染肺炎猝逝！日本13歲女偶像從小學開始追夢…粉慟喊：沒辦法相信 ｜ 中天新聞網 ｜ LINE TODAY	https://today.line.me/hk/v2/article/kEXRZW2	未分類
@@ -3004,11 +2987,7 @@ var DATA_MEDICAL = `
 2023-12-22	(新冠疫情專題報導 2022年12月)	https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20231222/s00002/1703182171175/%E5%85%AD%E6%97%AC%E5%8F%B8%E6%A9%9F%E7%8C%9D%E6%AD%BB%E5%AE%A2%E8%B2%A8%E8%BB%8A	未分類
 2023-12-18	商湯創始人湯曉鷗病逝 股價曾挫18%創新低	https://hk.on.cc/hk/bkn/cnt/finance/20231218/bkn-20231218101319019-1218_00842_001.html	未分類
 2023-12-10	美國企業破產今年大增 速度直逼疫情最嚴重時期	https://udn.com/news/story/6811/7500168	未分類
-2023-01-11	軍方將領密集病亡 中將劉鶴翹死訊20天后公佈 ｜ 38軍 ｜ 任桂蘭 ｜ 薑學福 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/11/n13904779.htm	未分類
 2023-12-01	王家衛御用綠葉陳萬雷病逝 《墮落天使》飾演金城武父親	https://www.hk01.com/article/856610?utm_source=01articlecopy&utm_medium=referral	未分類
-2023-01-11	為中共做出“突出貢獻” 紅色藝術家新年後紮堆去世 ｜ 名人 ｜ 染疫 ｜ 狼牙山五壯士 ｜ 新唐人電視臺	https://www.ntdtv.com/gb/2023/01/11/a103622810.html	未分類
-2023-01-12	快訊／本土+22653「連兩天降逾2成」另增48死 20多歲男染疫亡	https://www.ettoday.net/news/20230112/2421555.htm	未分類
-2023-01-12	中共三代領導人專機機長 國航前總裁徐柏齡病亡	https://www.ntdtv.com/b5/2023/01/12/a103623166.html	未分類
 2023-12-01	「傻子瓜子」創始人病逝 被譽為中國第一商販 鄧小平曾三度提及	https://www.hk01.com/article/856614?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-11-28	死亡率達97%！哥國10歲女童「飯店泳池」感染食腦蟲 耳痛發燒慘喪命 ｜ 中天新聞網	https://ctinews.com/news/items/qXWQbMyraR	未分類
 2023-11-27	幼稚園結業｜教大幼兒發展中心兩年半後停辦 稱因疫情及人口變化	https://www.hk01.com/article/965861?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -3024,7 +3003,6 @@ var DATA_MEDICAL = `
 2023-11-01	A組鏈球菌感染者增 15病亡 ｜ 澳洲 ｜ 大紀元	https://www.epochtimes.com/b5/23/1/11/n13904156.htm	未分類
 2023-11-01	2019冠狀病毒病專題網站 - 同心抗疫 - 死亡個案報告初步分析數據資料庫數據資料庫	https://www.coronavirus.gov.hk/chi/death_analysis.html	未分類
 2023-10-03	心酸！3歲女不知母病逝 見生前婚照開心喊媽媽 1童心舉動更催淚	https://www.hk01.com/article/874972?utm_source=01articlecopy&utm_medium=referral	未分類
-2023-01-10	梅蘭芳關門弟子 著名京劇表演藝術家畢谷雲染疫去世	https://www.ntdtv.com/b5/2023/01/10/a103621308.html	未分類
 2023-10-01	新增9379宗確診 多75人染疫亡	https://www.bastillepost.com/hongkong/article/12049286-%E7%96%AB%E6%83%85%EF%BD%9C%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E9379%E5%AE%97%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88-%E5%86%8D%E5%A4%9A75%E4%BA%BA%E7%97%85%E6%AD%BF	未分類
 2023-10-01	山西柳林首富確診亡 逾百億債務未償還｜ 台灣大紀元	https://www.epochtimes.com.tw/n398859/%E5%B1%B1%E8%A5%BF%E6%9F%B3%E6%9E%97%E9%A6%96%E5%AF%8C%E7%A2%BA%E8%A8%BA%E4%BA%A1-%E9%80%BE%E7%99%BE%E5%84%84%E5%82%B5%E5%8B%99%E6%9C%AA%E5%84%9F%E9%82%84.html	未分類
 2023-09-16	日本食物銀行愈來愈多學生排隊：疫情導致的青年貧窮悲歌	https://www.hk01.com/article/939845?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -3036,39 +3014,27 @@ var DATA_MEDICAL = `
 2023-09-01	疫情｜港增11641宗確診 323宗為輸入個案 多64名患者離世 ｜ am730	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E7%96%AB%E6%83%85-%E6%B8%AF%E5%A2%9E11641%E5%AE%97%E7%A2%BA%E8%A8%BA-323%E5%AE%97%E7%82%BA%E8%BC%B8%E5%85%A5%E5%80%8B%E6%A1%88-%E5%A4%9A64%E5%90%8D%E6%82%A3%E8%80%85%E9%9B%A2%E4%B8%96/356300	未分類
 2023-09-01	疫情｜今增11641宗確診包括323宗輸入 多64患者亡	https://hd.stheadline.com/news/realtime/hk/2397953/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E7%96%AB%E6%83%85-%E4%BB%8A%E5%A2%9E11641%E5%AE%97%E7%A2%BA%E8%A8%BA%E5%8C%85%E6%8B%AC323%E5%AE%97%E8%BC%B8%E5%85%A5-%E5%A4%9A64%E6%82%A3%E8%80%85%E4%BA%A1	未分類
 2023-09-01	疫情｜仁濟醫院內科療養病房15人中招當中3人亡 兩病人情況嚴重	https://hd.stheadline.com/news/realtime/hk/2398011/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E7%96%AB%E6%83%85-%E4%BB%81%E6%BF%9F%E9%86%AB%E9%99%A2%E5%85%A7%E7%A7%91%E7%99%82%E9%A4%8A%E7%97%85%E6%88%BF15%E4%BA%BA%E4%B8%AD%E6%8B%9B%E7%95%B6%E4%B8%AD3%E4%BA%BA%E4%BA%A1-%E5%85%A9%E7%97%85%E4%BA%BA%E6%83%85%E6%B3%81%E5%9A%B4%E9%87%8D	未分類
-2023-01-09	快訊／今本土+16902、40死！40多歲女「確診當天心肺衰竭亡」	https://www.ettoday.net/news/20230109/2419102.htm	未分類
 2023-09-01	內地新增1.4萬宗新冠確診個案 多3名患者死亡	https://www.bastillepost.com/hongkong/article/12040334-%E5%85%A7%E5%9C%B0%E6%96%B0%E5%A2%9E1-4%E8%90%AC%E5%AE%97%E6%96%B0%E5%86%A0%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88%E3%80%80%E5%A4%9A3%E5%90%8D%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1	未分類
 2023-09-01	內地增7072宗本土確診多2人死 衛健委：大城市疫情到頂 ｜ 商台新聞 ｜ LINE TODAY	https://today.line.me/hk/v2/article/l2M8Qyg	未分類
-2023-01-09	中共已故中將梁興初之妻任桂蘭病亡	https://www.epochtimes.com/gb/23/1/9/n13902621.htm	未分類
 2023-09-01	【速報】大阪府第9次新冠確診5661例新增感染、26例死亡	https://www.fnn.jp/articles/-/468245	未分類
-2023-01-10	◤疫纏第四年◢ 國內增383確診 8疫歿 ｜ 中國報 China Press	https://www.chinapress.com.my/20230110/%E2%97%A4%E7%96%AB%E7%BC%A0%E7%AC%AC%E5%9B%9B%E5%B9%B4%E2%97%A2-%E5%9B%BD%E5%86%85%E5%A2%9E383%E7%A1%AE%E8%AF%8A-8%E7%96%AB%E6%AE%81/	未分類
 2023-08-29	今年第2季增93人染愛滋病毒 逾4成經同性或雙性性接觸	https://hk.on.cc/hk/bkn/cnt/news/20230829/bkn-20230829110833999-0829_00822_001.html	未分類
 2023-08-27	兩託兒所7幼童染腸病毒 其中1人高燒不退需留醫	https://hk.on.cc/hk/bkn/cnt/news/20230827/bkn-20230827170009478-0827_00822_001.html	未分類
 2023-08-24	亞洲開發銀行：疫情和物價上漲 導致額外數千萬人陷入極端貧困	https://www.hk01.com/article/933399?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-08-01	疫情｜本港新增14113宗確診包括431宗輸入 多66患者亡	https://hd.stheadline.com/news/realtime/hk/2397728/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E7%96%AB%E6%83%85-%E5%A2%9E14113%E5%AE%97%E7%A2%BA%E8%A8%BA%E5%8C%85%E6%8B%AC431%E5%AE%97%E8%BC%B8%E5%85%A5-%E5%A4%9A66%E6%82%A3%E8%80%85%E4%BA%A1	未分類
 2023-08-01	本港新增新冠確診14113宗: 再多66名患者死亡 其中36名死者死因與新冠有關	https://www.metroradio.com.hk/news/live.aspx?NewsID=20230109035624&subject=%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A2%BA%E8%A8%BA14113%E5%AE%97:%20%E5%86%8D%E5%A4%9A66%E5%90%8D%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1%20%E5%85%B6%E4%B8%AD36%E5%90%8D%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E8%88%87%E6%96%B0%E5%86%A0%E6%9C%89%E9%97%9C	未分類
-2023-01-08	台今增逾2.3萬宗本土新冠 多36人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230108/bkn-20230108140017679-0108_00952_001.html	未分類
 2023-08-01	279名美國運動員 接種COVID疫苗後猝死 ｜ COVID-19 ｜ 大紀元	https://www.epochtimes.com/b5/23/1/8/n13902330.htm	未分類
 2023-08-01	1/8本土+23080、境外331例、36病歿	https://fongnews.net/breaknews/68783/	未分類
 2023-07-01	本土+24132、境外+290 30多歲男確診家中猝逝│TVBS新聞網	https://news.tvbs.com.tw/life/2011374	未分類
-2023-01-07	台今增逾2.4萬宗本土新冠 多61人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230107/bkn-20230107140008336-0107_00952_001.html	未分類
-2023-01-07	內地昨增逾萬宗本土新冠及3死 稱有與國際分享數據	https://hk.on.cc/hk/bkn/cnt/cnnews/20230107/bkn-20230107101841325-0107_00952_001.html	未分類
 2023-06-26	英國逾 25% 成年人怕打疫苗，「疫苗貼片」成針頭恐懼患者福音	https://technews.tw/2023/06/26/vaxxas-hd-map-hexapro/	未分類
 2023-06-11	伊院外科病房多2病人帶耳念珠菌 並無感染徵狀	https://www.hk01.com/article/958947?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-06-10	產後出血｜嫁台港女產後大出血 成植物人1年後病逝 丈夫盼為亡妻爭公義	https://skypost.ulifestyle.com.hk/article/3627412/%E7%94%A2%E5%BE%8C%E5%87%BA%E8%A1%80-%E5%AB%81%E5%8F%B0%E6%B8%AF%E5%A5%B3%E7%94%A2%E5%BE%8C%E5%A4%A7%E5%87%BA%E8%A1%80-%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA1%E5%B9%B4%E5%BE%8C%E7%97%85%E9%80%9D-%E4%B8%88%E5%A4%AB%E7%9B%BC%E7%82%BA%E4%BA%A1%E5%A6%BB%E7%88%AD%E5%85%AC%E7%BE%A9	未分類
 2023-06-03	悲！媽媽擠奶餵母乳做漏1件事 滿月男嬰染惡菌亡 4大須知勿做漏 男嬰母親使用的餵食器及吸乳器未有清潔消毒乾淨，且時常在器具仍潮濕狀況下使用，結果遭「阪崎氏腸桿菌」污染，最終導致男嬰感染該種桿菌而致命。	https://www.hk01.com/article/873844?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-06-01	武漢肺炎》香港連2天1.6萬例 澳門104確診5病歿 - 國際 - 自由時報電子報	https://news.ltn.com.tw/news/world/breakingnews/4174985	未分類
 2023-06-01	本土新冠1/6增27281例、62例死亡 40多歲女染疫後9天猝逝	https://tw.news.yahoo.com/%E6%9C%AC%E5%9C%9F%E6%96%B0%E5%86%A01-6%E5%A2%9E27281%E4%BE%8B-62%E4%BE%8B%E6%AD%BB%E4%BA%A1-40%E5%A4%9A%E6%AD%B2%E5%A5%B3%E6%9F%93%E7%96%AB%E5%BE%8C9%E5%A4%A9%E7%8C%9D%E9%80%9D-065410580.html	未分類
-2023-01-06	台今增逾2.7萬宗本土新冠 多62人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230106/bkn-20230106140608030-0106_00952_001.html	未分類
-2023-01-06	內地昨增9543宗本土新冠 再多5人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230106/bkn-20230106094249751-0106_00952_001.html	未分類
 2023-06-01	498死創新高！日本單日暴增23.1萬例確診 重症病床爆滿 - 國際 - 自由時報電子報	https://news.ltn.com.tw/news/world/breakingnews/4176262	未分類
 2023-05-09	輝瑞和BioNTech 在日本獲得COVID-19 疫苗的新批准	https://geneonline.news/pfizer-bnt-omicron-xbb15-vaccine/	未分類
 2023-05-01	疫情｜日本駐華領事館增病歿個案 70多歲確診男子死亡	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/853325/%E7%96%AB%E6%83%85-%E6%97%A5%E6%9C%AC%E9%A7%90%E9%87%8D%E6%85%B6%E9%A0%98%E9%A4%A870%E5%A4%9A%E6%AD%B2%E7%94%B7%E5%AD%90%E7%A2%BA%E8%A8%BA%E6%96%B0%E5%86%A0%E5%BE%8C%E6%AD%BB%E4%BA%A1	未分類
-2023-01-04	獨家！老父伸冤 爆27歲兒染疫7天亡過程 - 新唐人亞太電視台	https://www.ntdtv.com.tw/b5/20230104/video/354099.html?%E7%8D%A8%E5%AE%B6%EF%BC%81%E8%80%81%E7%88%B6%E4%BC%B8%E5%86%A4%20%E7%88%8627%E6%AD%B2%E5%85%92%E6%9F%93%E7%96%AB7%E5%A4%A9%E4%BA%A1%E9%81%8E%E7%A8%8B	未分類
-2023-01-04	浙江畫院原院長潘鴻海病亡 曾作毛澤東連環畫 ｜ 毛澤東遊西湖 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/4/n13898973.htm	未分類
-2023-01-05	桃園高齡中風婦倒臥家中哀鳴 大溪警巡邏經過及時救援	https://www.ettoday.net/news/20230105/2416300.htm	未分類
 2023-05-01	本港新增18422宗新冠確診 再多68人染疫亡	https://www.bastillepost.com/hongkong/article/12014051-%E7%96%AB%E6%83%85%EF%BD%9C%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E18422%E5%AE%97%E7%A2%BA%E8%A8%BA-%E5%86%8D%E5%A4%9A68%E4%BA%BA%E7%97%85%E6%AD%BF	未分類
-2023-01-04	新年僅過四天 至少16名中共官員相繼去世 ｜ 中共黨員 ｜ 染疫 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/4/n13899537.htm	未分類
 2023-05-01	大連理工大學去年119教授及職工病逝 12月暴增	https://www.epochtimes.com/b5/23/1/4/n13899490.htm	未分類
 2023-05-01	增逾16000新症 3月大女嬰仍危殆 11人無打新冠疫苗，9人已打4針、38人已打3針、13人已打兩針、4人已打一針。	https://hk.news.yahoo.com/%E5%A2%9E%E9%80%BE16000%E6%96%B0%E7%97%87-3%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%AC%B0%E4%BB%8D%E5%8D%B1%E6%AE%86-214500164.html	未分類
 2023-05-01	上將不敵病毒 多名共軍亡｜ 台灣大紀元	https://www.epochtimes.com.tw/n398413/%E4%B8%8A%E5%B0%87%E4%B8%8D%E6%95%B5%E7%97%85%E6%AF%92-%E5%A4%9A%E5%90%8D%E5%85%B1%E8%BB%8D%E4%BA%A1.html	未分類
@@ -3078,7 +3044,6 @@ var DATA_MEDICAL = `
 2023-04-01	設計中共國徽的藝術家周令釗在疫情中去世 ｜ 毛澤東像 ｜ 中共黨員 ｜ 大紀元	https://www.epochtimes.com/b5/23/1/3/n13898602.htm	未分類
 2023-04-01	本港增16022宗本地個案 多63人染疫亡	https://www.bastillepost.com/hongkong/article/12007374-%E6%B8%AF%E6%96%B0%E5%A2%9E%E9%80%BE%E6%9C%AC%E5%9C%B0%E9%99%BD%E6%80%A7%E5%80%8B%E6%A1%88%E9%80%A3%E7%BA%8C2%E6%97%A5%E5%B0%91%E6%96%BC2%E8%90%AC-%E5%85%A8%E6%97%A563%E4%BA%BA%E9%9B%A2%E4%B8%96	未分類
 2023-04-01	台灣增逾3萬宗本土確診 多17人死亡	https://www.bastillepost.com/hongkong/article/12006245-%E5%8F%B0%E7%81%A3%E7%96%AB%E6%83%85%E5%86%8D%E5%8D%87%E6%BA%AB%E7%A0%B43%E8%90%AC%E5%AE%97%E7%A2%BA%E8%A8%BA-541%E5%AE%97%E5%A2%83%E5%A4%96%E8%BC%B8%E5%85%A5%E5%89%B5%E7%B4%80%E9%8C%84	未分類
-2023-01-03	內地昨增4804宗本土新冠 再多3人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230103/bkn-20230103092832964-0103_00952_001.html	未分類
 2023-04-01	今爆17死！打過三劑40歲女赴中國重複感染 返台三天猝死家中	https://tw.news.yahoo.com/%E4%BB%8A%E7%88%8617%E6%AD%BB-%E6%89%93%E9%81%8E%E4%B8%89%E5%8A%9140%E6%AD%B2%E5%A5%B3%E8%B5%B4%E4%B8%AD%E5%9C%8B%E9%87%8D%E8%A4%87%E6%84%9F%E6%9F%93-%E8%BF%94%E5%8F%B0%E4%B8%89%E5%A4%A9%E7%8C%9D%E6%AD%BB%E5%AE%B6%E4%B8%AD-061352185.html	未分類
 2023-04-01	中國疫情爆發 已3名在中日本人確診亡 - 國際 - 自由時報電子報	https://news.ltn.com.tw/news/world/breakingnews/4174740	未分類
 2023-04-01	中共上將宋清渭病亡 傳青海軍區前司令季占斌死 ｜ 司令員 ｜ 坦克十二師老師長 ｜ 疫情 ｜ 大紀元	https://www.epochtimes.com/b5/23/1/4/n13898933.htm	未分類
@@ -3096,10 +3061,10 @@ var DATA_MEDICAL = `
 2023-03-01	新增16186宗確診 單日75人染疫亡創大半年來新高	https://www.bastillepost.com/hongkong/article/12000928-%E7%96%AB%E6%83%85%EF%BD%9C%E6%9C%AC%E6%B8%AF%E5%A2%9E16186%E5%AE%97%E7%A2%BA%E8%A8%BA-%E5%A4%9A75%E4%BA%BA%E6%9F%93%E7%96%AB%E4%BA%A1%E5%89%B5%E5%A4%A7%E5%8D%8A%E5%B9%B4%E4%BE%86%E6%96%B0%E9%AB%98	未分類
 2023-03-01	新冠1/3增24649人確診 23例因染疫亡	https://tyenews.com/2023/01/330031/	未分類
 2023-03-01	台灣增16524宗新冠本土個案多26名患者離世	https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1682235-20230102.htm	未分類
-2023-01-02	傳中共外交部50多人病亡 趙立堅1個月未露面 - 新唐人亞太電視台	https://www.ntdtv.com.tw/b5/20230102/video/353853.html	未分類
 2023-03-01	中共高官密集病亡 煤炭部前副部長范維唐病逝 ｜ 刁金祥 ｜ 劉雙全 ｜ 厲志成 ｜ 大紀元	https://www.epochtimes.com/b5/23/1/3/n13898674.htm	未分類
 2023-02-25	新北女裸癱浴缸暴斃 送醫測出新冠陽性	https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E5%A5%B3%E8%A3%B8%E7%99%B1%E6%B5%B4%E7%BC%B8%E6%9A%B4%E6%96%83-%E9%80%81%E9%86%AB%E6%B8%AC%E5%87%BA%E6%96%B0%E5%86%A0%E9%99%BD%E6%80%A7-090100101.html	未分類
 2023-02-23	11歲女染H5N1禽流感死亡 9年來首宗	https://hk.on.cc/hk/bkn/cnt/intnews/20230223/bkn-20230223204550712-0223_00992_001.html	未分類
+2023-02-22	沙田青衣兩幼園爆上呼吸道感染 48學童中招25人需求醫	https://hk.on.cc/hk/bkn/cnt/news/20230222/bkn-20230222181827168-0222_00822_001.html	未分類
 2023-02-21	小學緊急停課4天 官方稱學生患流感非新冠	https://hk.on.cc/hk/bkn/cnt/cnnews/20230221/bkn-20230221180134832-0221_00952_001.html	未分類
 2023-02-09	今增307宗化驗所核酸確診個案 多6患者離世	https://hk.on.cc/hk/bkn/cnt/news/20230209/bkn-20230209171110498-0209_00822_001.html	未分類
 2023-02-07	今增284宗化驗所核酸確診個案 多8患者離世	https://hk.on.cc/hk/bkn/cnt/news/20230207/bkn-20230207181411112-0207_00822_001.html	未分類
@@ -3111,12 +3076,7 @@ var DATA_MEDICAL = `
 2023-02-01	多114名新冠患者入住隔離設施 另添2名老翁染疫亡	https://hk.news.yahoo.com/%E5%A4%9A114%E5%90%8D%E6%96%B0%E5%86%A0%E6%82%A3%E8%80%85%E5%85%A5%E4%BD%8F%E9%9A%94%E9%9B%A2%E8%A8%AD%E6%96%BD-%E5%8F%A6%E6%B7%BB2%E5%90%8D%E8%80%81%E7%BF%81%E6%9F%93%E7%96%AB%E4%BA%A1-112508754.html	未分類
 2023-02-01	單週確診升逾4成旅紐5旬男入境不適搶救10天逝。	https://times.hinet.net/news/24337658	未分類
 2023-02-01	前中聯辦副主任染疫亡 傳中國兩院上月多達24院士逝世 - 國際 - 自由時報電子報	https://news.ltn.com.tw/news/world/breakingnews/4172334	未分類
-2023-01-02	內蒙古高校副書記王濤染疫亡 年僅52歲(圖) - 新聞 蒙古 - 看中國新聞網 - 海外華人 歷史秘聞 官吏 -	https://www.secretchina.com/news/b5/2023/01/02/1025495.html	未分類
-2023-01-04	內地昨增7685宗本土新冠及5死 傳北京建簡易火化爐	https://hk.on.cc/hk/bkn/cnt/cnnews/20230104/bkn-20230104101310515-0104_00952_001.html	未分類
-2023-01-02	傳中共外交系統50多人染疫亡 趙立堅1個月未露面(圖) - 動向 -	https://www.secretchina.com/news/b5/2023/01/02/1025488.html	未分類
 2023-02-01	中聯辦前副主任鄭坤生北京病逝	https://www.hk01.com/article/852942?utm_source=01articlecopy&utm_medium=referral	未分類
-2023-01-01	◤疫纏第四年◢ 國內增420確診 4疫歿 ｜ 中國報 China Press	https://www.chinapress.com.my/20230101/%E2%97%A4%E7%96%AB%E7%BC%A0%E7%AC%AC%E5%9B%9B%E5%B9%B4%E2%97%A2-%E5%9B%BD%E5%86%85%E5%A2%9E420%E7%A1%AE%E8%AF%8A/	未分類
-2023-01-02	2023年伊始3段噩耗 周恩來侄女婿拉蘇榮病亡(圖) - 新聞 蒙古 - 看中國新聞網 - 海外華人 歷史秘聞 影視娛樂 - 楊天姿	https://www.secretchina.com/news/gb/2023/01/02/1025535.html	未分類
 2023-01-31	隔離令取消｜飲食業稱只能勸喻確診客買外賣 員工病假不扣勤工獎	https://www.hk01.com/article/861995?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-01-31	大陸醫生：1週簽80份死亡證明 過去1個月一兩份 ｜ 中國疫情大爆發 ｜ 染疫死亡 ｜ 死亡潮 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/30/a103638381.html	未分類
 2023-01-31	今增361宗化驗所新冠確診 另多15患者離世	https://hk.on.cc/hk/bkn/cnt/news/20230131/bkn-20230131163450770-0131_00822_001.html	未分類
@@ -3152,6 +3112,7 @@ var DATA_MEDICAL = `
 2023-01-18	快訊／本土+20768！增26死 4歲童染疫併發腦炎亡	https://www.ettoday.net/news/20230118/2425678.htm	未分類
 2023-01-18	單日確診報350病例 5人染疫病歿 ｜ The Malaysian Insight	https://www.themalaysianinsight.com/chinese/s/423724	未分類
 2023-01-18	原中共中央軍委辦公廳主任李際均病亡(圖) - 官吏 - - (移動版)	https://m.secretchina.com/news/b5/2023/01/18/1026712.html	未分類
+2023-01-18	中共國防科技大學前政治委員汪浩病亡	https://www.epochtimes.com/gb/23/1/18/n13909615.htm	未分類
 2023-01-17	本港新增3843宗確診46人病歿 本地再添一宗XBB.1.5個案｜疫情	https://www.stheadline.com/society/3189186/%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E3843%E5%AE%97%E7%A2%BA%E8%A8%BA46%E4%BA%BA%E7%97%85%E6%AD%BF-%E6%9C%AC%E5%9C%B0%E5%86%8D%E6%B7%BB%E4%B8%80%E5%AE%97XBB15%E5%80%8B%E6%A1%88%E7%96%AB%E6%83%85	未分類
 2023-01-17	張克帆父驚傳猝逝！中國工作「染疫難返台」 煎熬心聲曝光	https://tw.news.yahoo.com/%E5%BC%B5%E5%85%8B%E5%B8%86%E7%88%B6%E9%A9%9A%E5%82%B3%E7%8C%9D%E9%80%9D-%E4%B8%AD%E5%9C%8B%E5%B7%A5%E4%BD%9C-%E6%9F%93%E7%96%AB%E9%9B%A3%E8%BF%94%E5%8F%B0-%E7%85%8E%E7%86%AC%E5%BF%83%E8%81%B2%E6%9B%9D%E5%85%89-084503460.html	未分類
 2023-01-17	差很大! 中官方稱6萬病歿 外媒估死58.4萬人 - 華視新聞網	https://news.cts.com.tw/cts/international/202301/202301172133279.html	未分類
@@ -3172,46 +3133,68 @@ var DATA_MEDICAL = `
 2023-01-15	台今增逾2萬宗本土新冠 多31人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230115/bkn-20230115140042357-0115_00952_001.html	未分類
 2023-01-15	力撐官方估算新冠死亡數字 胡錫進：客觀努力 ，實際的新冠死亡者當時已經接近1,500萬人。	https://hk.on.cc/hk/bkn/cnt/cnnews/20230115/bkn-20230115210003548-0115_00952_001.html	未分類
 2023-01-15	今增6261宗確診 輸入佔170宗 另多66患者離世。另外多66名新冠患者離世，涉40男26女，年齡介乎56歲至103歲，當中有22人來自院舍。死者中有17人無打針、4人已打4針、40人已打3針、 4人已打2針，餘下1人已打1針。第5波截至目前累計12,600名新冠死者。根據初步分析，當中27名病人的死因與新冠有關。	https://hk.on.cc/hk/bkn/cnt/news/20230115/bkn-20230115170232537-0115_00822_001.html	未分類
+2023-01-15	中共創建人之一董必武長子董良羽病亡	https://www.epochtimes.com/gb/23/1/15/n13907767.htm	未分類
 2023-01-15	一路走好！2天内6位名人去世，猝死、多人感染新冠，最小者才46岁	https://www.sohu.com/a/630148694_121050403	未分類
 2023-01-14	流感奪命｜無外遊的4歲女感染甲型流感後亡 為近三年來首宗	https://www.hk01.com/article/857215?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-01-14	安徽男醫護新冠未痊癒 帶病上班猝死廁所 年僅32歲	https://www.hk01.com/article/857109?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-01-13	台今增2.1萬宗本土新冠 多53人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230113/bkn-20230113140254277-0113_00952_001.html	未分類
 2023-01-13	Alphabet旗下生物科技及機械人部門裁員近300人	https://www.hk01.com/article/856905?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-01-12	重慶3名高官去世 疫情下中共官員接連死亡 ｜ 中國疫情 ｜ 四川官員 ｜ 董文平 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/12/a103623048.html	未分類
+2023-01-12	快訊／本土+22653「連兩天降逾2成」另增48死 20多歲男染疫亡	https://www.ettoday.net/news/20230112/2421555.htm	未分類
+2023-01-12	中共三代領導人專機機長 國航前總裁徐柏齡病亡	https://www.ntdtv.com/b5/2023/01/12/a103623166.html	未分類
 2023-01-12	上海交大58歲教授離世 傳染疫轉陰後突然不適	https://hk.epochtimes.com/news/2023-01-12/76164241	未分類
 2023-01-12	31歲甜美女星驚傳病逝！9天前曾發文：不要忘記我｜東森娛樂	https://news.ebc.net.tw/news/entertainment/394194	未分類
 2023-01-11	遼寧錦州原宣傳部副部長謝樹凡染疫死亡	https://hk.epochtimes.com/news/2023-01-11/41717584	未分類
+2023-01-11	軍方將領密集病亡 中將劉鶴翹死訊20天后公佈 ｜ 38軍 ｜ 任桂蘭 ｜ 薑學福 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/11/n13904779.htm	未分類
+2023-01-11	為中共做出“突出貢獻” 紅色藝術家新年後紮堆去世 ｜ 名人 ｜ 染疫 ｜ 狼牙山五壯士 ｜ 新唐人電視臺	https://www.ntdtv.com/gb/2023/01/11/a103622810.html	未分類
 2023-01-11	消息：中共前外長助理武韜染疫去世 雙肺全白 ｜ Covid-19 ｜ 中共病毒 ｜ 前駐俄羅斯大使 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/11/a103622291.html	未分類
 2023-01-11	日本全境「1個多月萬人確診亡」疫情再飆 專家曝3原因	https://www.ettoday.net/news/20230111/2420773.htm	未分類
+2023-01-11	國內增加380確診9病殘|中國報	https://www.chinapress.com.my/20230111/◤疫缠第四年◢昨增380确诊-9病殁/	未分類
 2023-01-11	【一線採訪】養老院老人疫亡 死因不寫染疫 ｜ 疫情 ｜ 死亡證明 ｜ 新冠 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/11/n13904494.htm	未分類
 2023-01-11	◤疫纏第四年◢昨增380確診 9病歿 ｜ 中國報 China Press	https://www.chinapress.com.my/20230111/%E2%97%A4%E7%96%AB%E7%BC%A0%E7%AC%AC%E5%9B%9B%E5%B9%B4%E2%97%A2%E6%98%A8%E5%A2%9E380%E7%A1%AE%E8%AF%8A-9%E7%97%85%E6%AE%81/	未分類
 2023-01-10	醫管局：昨日新增400名新冠患者留醫 多19人危殆 - 香港商報	http://www.hkcd.com/hkcdweb/content/2023/01/10/content_1381520.html	未分類
 2023-01-10	疫纏第四年 國內增383確診8瘟疫|中國報	https://www.chinapress.com.my/20230110/◤疫缠第四年◢-国内增383确诊-8疫殁/	未分類
+2023-01-10	梅蘭芳關門弟子 著名京劇表演藝術家畢谷雲染疫去世	https://www.ntdtv.com/b5/2023/01/10/a103621308.html	未分類
 2023-01-10	中共軍級老人任桂蘭去世 疫情下軍中高官接連病亡 ｜ 中國疫情 ｜ 司令員劉雙全 ｜ 司令員季占斌 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/10/a103621398.html	未分類
 2023-01-10	上海導演陳蟬去世 疫情下中國演藝界多人病亡 ｜ 上海電影製片廠 ｜ 中共病毒 ｜ 名人染疫去世 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/10/a103621562.html	未分類
+2023-01-10	◤疫纏第四年◢ 國內增383確診 8疫歿 ｜ 中國報 China Press	https://www.chinapress.com.my/20230110/%E2%97%A4%E7%96%AB%E7%BC%A0%E7%AC%AC%E5%9B%9B%E5%B9%B4%E2%97%A2-%E5%9B%BD%E5%86%85%E5%A2%9E383%E7%A1%AE%E8%AF%8A-8%E7%96%AB%E6%AE%81/	未分類
 2023-01-09	新冠疫歿總數破6萬 僅一個多月增萬人病逝	https://hk.on.cc/hk/bkn/cnt/intnews/20230109/bkn-20230109090008187-0109_00992_001.html	未分類
+2023-01-09	快訊／今本土+16902、40死！40多歲女「確診當天心肺衰竭亡」	https://www.ettoday.net/news/20230109/2419102.htm	未分類
 2023-01-09	今增11641確診 輸入佔323宗 多64名患者病逝	https://hk.on.cc/hk/bkn/cnt/news/20230109/bkn-20230109161117478-0109_00822_001.html	未分類
+2023-01-09	中共已故中將梁興初之妻任桂蘭病亡	https://www.epochtimes.com/gb/23/1/9/n13902621.htm	未分類
 2023-01-08	醫管局：7日新增416名新冠確診病人留醫 多22人危殆 - 香港商報	http://www.hkcd.com/hkcdweb/content/2023/01/08/content_1381205.html	未分類
 2023-01-08	日本新冠病歿者破6萬人！ 短短1個月增1萬人染疫身亡	https://www.ettoday.net/news/20230108/2418596.htm#ixzz7ppBQdq25	未分類
+2023-01-08	台今增逾2.3萬宗本土新冠 多36人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230108/bkn-20230108140017679-0108_00952_001.html	未分類
 2023-01-08	今增14113確診 輸入佔431宗 多66名患者離世	https://hk.on.cc/hk/bkn/cnt/news/20230108/bkn-20230108165843797-0108_00822_001.html	未分類
 2023-01-08	【新冠肺炎】累計確診502萬9908宗 我國1月4日再有4病亡｜光華網	https://www.kwongwah.com.my/20230108/%E3%80%90%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E3%80%91%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A502%E4%B8%879908%E5%AE%97-%E6%88%91%E5%9B%BD1%E6%9C%884%E6%97%A5%E5%86%8D%E6%9C%894%E7%97%85%E4%BA%A1/	未分類
 2023-01-08	【新冠肺炎】累積診斷502萬9908宗我國1月4日再有4病|光華網	https://www.kwongwah.com.my/20230108/【新冠肺炎】累计确诊502万9908宗-我国1月4日再有4病亡/	未分類
+2023-01-07	台今增逾2.4萬宗本土新冠 多61人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230107/bkn-20230107140008336-0107_00952_001.html	未分類
+2023-01-07	內地昨增逾萬宗本土新冠及3死 稱有與國際分享數據	https://hk.on.cc/hk/bkn/cnt/cnnews/20230107/bkn-20230107101841325-0107_00952_001.html	未分類
 2023-01-06	昨添89確診9染疫亡 社局熱線求助個案逐步回落	https://hk.on.cc/hk/bkn/cnt/news/20230106/bkn-20230106163642024-0106_00822_001.html	未分類
+2023-01-06	台今增逾2.7萬宗本土新冠 多62人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230106/bkn-20230106140608030-0106_00952_001.html	未分類
+2023-01-06	內地昨增9543宗本土新冠 再多5人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230106/bkn-20230106094249751-0106_00952_001.html	未分類
 2023-01-06	今增19722確診 輸入佔195宗 另多55患者離世	https://hk.on.cc/hk/bkn/cnt/news/20230106/bkn-20230106164845592-0106_00822_001.html	未分類
 2023-01-05	紅色畫家杜滋齡去世 疫情下4天9名畫家病亡 ｜ 中共病毒 ｜ 劉文選 ｜ 周令釗 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/05/a103617525.html	未分類
 2023-01-05	添102確診兩翁病歿 當局不排除通關後爆小規模疫情	https://hk.on.cc/hk/bkn/cnt/news/20230105/bkn-20230105202102153-0105_00822_001.html	未分類
+2023-01-05	桃園高齡中風婦倒臥家中哀鳴 大溪警巡邏經過及時救援	https://www.ettoday.net/news/20230105/2416300.htm	未分類
 2023-01-05	今增18422確診 輸入佔164宗 多68患者離世	https://hk.on.cc/hk/bkn/cnt/news/20230105/bkn-20230105163142044-0105_00822_001.html	未分類
 2023-01-05	279名美國運動員接種COVID疫苗後猝死 ｜ Covid-19疫苗 ｜ 疫苗猝死 ｜ 運動員猝死 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/05/a103617907.html	未分類
+2023-01-04	獨家！老父伸冤 爆27歲兒染疫7天亡過程 - 新唐人亞太電視台	https://www.ntdtv.com.tw/b5/20230104/video/354099.html?%E7%8D%A8%E5%AE%B6%EF%BC%81%E8%80%81%E7%88%B6%E4%BC%B8%E5%86%A4%20%E7%88%8627%E6%AD%B2%E5%85%92%E6%9F%93%E7%96%AB7%E5%A4%A9%E4%BA%A1%E9%81%8E%E7%A8%8B	未分類
+2023-01-04	浙江畫院原院長潘鴻海病亡 曾作毛澤東連環畫 ｜ 毛澤東遊西湖 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/4/n13898973.htm	未分類
+2023-01-04	新年僅過四天 至少16名中共官員相繼去世 ｜ 中共黨員 ｜ 染疫 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/4/n13899537.htm	未分類
 2023-01-04	南京大學江靜病亡 年僅60歲 ｜ 中國疫情 ｜ 南京大學教授 ｜ 博士生導師 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616644.html	未分類
+2023-01-04	內地昨增7685宗本土新冠及5死 傳北京建簡易火化爐	https://hk.on.cc/hk/bkn/cnt/cnnews/20230104/bkn-20230104101310515-0104_00952_001.html	未分類
 2023-01-04	今增16423確診 輸入佔401宗 多63患者離世	https://hk.on.cc/hk/bkn/cnt/news/20230104/bkn-20230104165758184-0104_00822_001.html	未分類
 2023-01-04	中國多地現嬰兒危重肺炎 7個月嬰器官衰竭亡(視頻) ｜ 中國嬰兒 ｜ 中國疫情大爆發 ｜ 重症肺炎 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616985.html	未分類
 2023-01-04	中共部級高層病亡 多次換器官 器官來源成謎 ｜ 高占祥病亡 ｜ 周令釗 ｜ 中國疫情 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616418.html	未分類
 2023-01-04	中共外交官朱祖壽染疫病亡 傳外交部已死多人 ｜ 中共外交部 ｜ 中共病毒 ｜ 中國疫情 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616319.html	未分類
+2023-01-04	中共上將宋清渭病亡傳青海軍區前司令季佔斌死	https://www.epochtimes.com/gb/23/1/4/n13898933.htm	未分類
 2023-01-04	上海中醫學院原院長陸德銘教授病亡 ｜ 中共病毒 ｜ 新唐人電視臺	https://www.ntdtv.com/gb/2023/01/04/a103616548.html	未分類
 2023-01-04	【禁聞】記者直擊：安徽27歲青年染疫亡 父訴詳情 ｜ 年輕人染疫死亡 ｜ 新冠感染 ｜ 殯儀館 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616893.html	未分類
 2023-01-03	雲南39歲派出所長劉開去世 疫情期間大量員警死亡 ｜ Covid-19 ｜ 中共病毒 ｜ 新冠病毒 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/03/a103615341.html	未分類
 2023-01-03	日本駐中總領事館又增1病歿！ 70多歲日籍男確診死亡	https://www.ettoday.net/news/20230103/2414536.htm	未分類
 2023-01-03	山東高校36歲教師病亡 校方稱“發熱導致” ｜ 中國疫情 ｜ 山東大學（威海）藝術學院 ｜ 死亡 ｜ 新唐人電視臺	https://www.ntdtv.com/gb/2023/01/03/a103615569.html	未分類
+2023-01-03	內地昨增4804宗本土新冠 再多3人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230103/bkn-20230103092832964-0103_00952_001.html	未分類
 2023-01-03	今增16186確診 多75名患者離世 再破新高	https://hk.on.cc/hk/bkn/cnt/news/20230103/bkn-20230103164222320-0103_00822_001.html	未分類
 2023-01-03	【新冠肺炎】全國新增360確診1亡例 尚有11807活躍病例｜光華網	https://www.kwongwah.com.my/20230103/%E3%80%90%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E3%80%91%E5%85%A8%E5%9B%BD%E6%96%B0%E5%A2%9E360%E7%A1%AE%E8%AF%8A1%E4%BA%A1%E4%BE%8B-%E5%B0%9A%E6%9C%8911807%E6%B4%BB%E8%B7%83%E7%97%85%E4%BE%8B/	未分類
 2023-01-03	【新冠肺炎】全国新增360确诊1亡例尚有11807活跃病例。	https://www.kwongwah.com.my/20230103/【新冠肺炎】全国新增360确诊1亡例-尚有11807活跃病例/	未分類
@@ -3220,11 +3203,16 @@ var DATA_MEDICAL = `
 2023-01-02	多5名長者染新冠病逝 均患慢性病 當中1人已接種疫苗	https://hk.on.cc/hk/bkn/cnt/news/20230102/bkn-20230102170604883-0102_00822_001.html	未分類
 2023-01-02	印度醫學留學生 中國帶病實習 病逝ICU ｜ 中國報 China Press	https://www.chinapress.com.my/20230102/%E5%8D%B0%E5%BA%A6%E5%8C%BB%E5%AD%A6%E7%95%99%E5%AD%A6%E7%94%9F-%E4%B8%AD%E5%9B%BD%E5%B8%A6%E7%97%85%E5%AE%9E%E4%B9%A0-%E7%97%85%E9%80%9Dicu/	未分類
 2023-01-02	印度医学留学生中国带病实习病逝ICU。	https://www.chinapress.com.my/20230102/印度医学留学生-中国带病实习-病逝icu/	未分類
+2023-01-02	內蒙古高校副書記王濤染疫亡 年僅52歲(圖) - 新聞 蒙古 - 看中國新聞網 - 海外華人 歷史秘聞 官吏 -	https://www.secretchina.com/news/b5/2023/01/02/1025495.html	未分類
+2023-01-02	傳中共外交部50多人病亡 趙立堅1個月未露面 - 新唐人亞太電視台	https://www.ntdtv.com.tw/b5/20230102/video/353853.html	未分類
+2023-01-02	傳中共外交系統50多人染疫亡 趙立堅1個月未露面(圖) - 動向 -	https://www.secretchina.com/news/b5/2023/01/02/1025488.html	未分類
 2023-01-02	何炅主持跨年晚會灑淚舞臺 疑因其父染疫去世 ｜ 父親染疫去世	https://www.epochtimes.com/gb/23/1/2/n13898127.htm	未分類
+2023-01-02	2023年伊始3段噩耗 周恩來侄女婿拉蘇榮病亡(圖) - 新聞 蒙古 - 看中國新聞網 - 海外華人 歷史秘聞 影視娛樂 - 楊天姿	https://www.secretchina.com/news/gb/2023/01/02/1025535.html	未分類
 2023-01-01	英機構：陸單日染疫死亡恐達2.5萬人	https://tw.stock.yahoo.com/news/%E8%8B%B1%E6%A9%9F%E6%A7%8B-%E9%99%B8%E5%96%AE%E6%97%A5%E6%9F%93%E7%96%AB%E6%AD%BB%E4%BA%A1%E6%81%90%E9%81%942-5%E8%90%AC%E4%BA%BA-201000089.html?bcmt=1	未分類
 2023-01-01	痛惜! 學醫14年 華裔醫生猝死! 生前因新冠疫苗遭死亡威脅 有家不能回! ｜ 紐西蘭中文先驅網	https://www.chineseherald.co.nz/news/education/doctor-dies/	未分類
 2023-01-01	病毒不分年幼，年僅36歲985大學教師去世，學校大膽披露死因	https://k.sina.com.cn/article_7682432285_1c9e89d1d001010hrp.html	未分類
 2023-01-01	惨烈：江西省前副省长和政协前副主席双双病亡。	https://info.51.ca/articles/1172970	未分類
+2023-01-01	大陸知名主持人傅大勇病亡，年僅42歲。	https://hk.epochtimes.com/news/2023-01-01/32402277	未分類
 2023-01-01	大陸導演韋廉去世 曾執導多部紅色電影 ｜ 中國疫情 ｜ 中共宣傳片 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/01/a103613327.html	未分類
 2023-01-01	多114名新冠患者入住隔離設施 另添2名老翁染疫亡	https://hk.on.cc/hk/bkn/cnt/news/20230101/bkn-20230101192508304-0101_00822_001.html	未分類
 2023-01-01	內地增5102宗本土確診 再多1人染疫亡	https://www.bastillepost.com/hongkong/article/11987863-%e5%85%a7%e5%9c%b0%e5%a2%9e5102%e5%ae%97%e6%9c%ac%e5%9c%9f%e7%97%85%e4%be%8b-%e5%86%8d%e5%a4%9a1%e4%ba%ba%e6%ad%bb%e4%ba%a1	未分類
@@ -3233,6 +3221,7 @@ var DATA_MEDICAL = `
 2023-01-01	今增20死！50多歲男返台確診 搶救10天不治	https://tw.news.yahoo.com/%E4%BB%8A%E5%A2%9E20%E6%AD%BB-50%E5%A4%9A%E6%AD%B2%E7%94%B7%E8%BF%94%E5%8F%B0%E7%A2%BA%E8%A8%BA-%E6%90%B6%E6%95%9110%E5%A4%A9%E4%B8%8D%E6%B2%BB-070018239.html	未分類
 2023-01-01	中重症134、死亡19！ 40多歲女「新冠併敗血性休克」亡	https://tw.news.yahoo.com/%E4%B8%AD%E9%87%8D%E7%97%87134-%E6%AD%BB%E4%BA%A119-40%E5%A4%9A%E6%AD%B2%E5%A5%B3-%E6%96%B0%E5%86%A0%E4%BD%B5%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B-%E4%BA%A1-071517875.html	未分類
 2023-01-01	【翻牆必看】傳中共上將染疫 吃特效藥身亡 ｜ 宋清渭 ｜ 染疫身亡 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/1/n13896722.htm	未分類
+2023-01-01	◤疫纏第四年◢ 國內增420確診 4疫歿 ｜ 中國報 China Press	https://www.chinapress.com.my/20230101/%E2%97%A4%E7%96%AB%E7%BC%A0%E7%AC%AC%E5%9B%9B%E5%B9%B4%E2%97%A2-%E5%9B%BD%E5%86%85%E5%A2%9E420%E7%A1%AE%E8%AF%8A/	未分類
 2023-01-01	39岁演员不幸病逝女儿才3岁一细节揭死因真相。	https://www.bcbay.com/ent/2023/01/01/836332.html	未分類
 2022-12-31	台灣本土+25674，38人染疫亡。	https://tw.news.yahoo.com/%E6%9C%AC%E5%9C%9F-25674-38%E4%BA%BA%E6%9F%93%E7%96%AB%E4%BA%A1-062010248.html	未分類
 2022-12-31	台女作家華嚴病逝 祖父為清末翻譯家嚴復	https://hk.on.cc/hk/bkn/cnt/cnnews/20221231/bkn-20221231142530025-1231_00952_001.html	未分類
@@ -3263,6 +3252,7 @@ var DATA_MEDICAL = `
 2022-12-29	共軍罕見公佈前部長病故 工程院半月15院士亡 - 新唐人亞太電視台	https://www.ntdtv.com.tw/b5/20221229/video/353383.html?%E5%85%B1%E8%BB%8D%E7%BD%95%E8%A6%8B%E5%85%AC%E5%B8%83%E5%89%8D%E9%83%A8%E9%95%B7%E7%97%85%E6%95%85%20%E5%B7%A5%E7%A8%8B%E9%99%A2%E5%8D%8A%E6%9C%8815%E9%99%A2%E5%A3%AB%E4%BA%A1	未分類
 2022-12-29	內地多位名人病逝 分別來自藝術和飲食界	https://hk.on.cc/hk/bkn/cnt/cnnews/20221229/bkn-20221229180159698-1229_00952_001.html	未分類
 2022-12-29	傳中共導彈專家李君龍染疫亡 知情者：震驚 ｜ 感染新冠死亡 ｜ 大紀元	https://www.epochtimes.com/b5/22/12/29/n13893955.htm	未分類
+2022-12-29	中共黨員、中國名中醫危北海在京病亡。	https://hk.epochtimes.com/news/2022-12-29/21320020	未分類
 2022-12-29	中共副部級高官黎子流染疫亡 妻子也染疫去世 ｜ 廣州市長 ｜ 死亡 ｜ 火化 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2022/12/29/a103609250.html	未分類
 2022-12-29	【翻牆必看】相識者爆中共50後導彈專家病亡 ｜ 李君龍 ｜ 大紀元	https://www.epochtimes.com/gb/22/12/29/n13894110.htm	未分類
 2022-12-29	20多歲女多重慢性病沒打過疫苗 當天確診隔日亡	https://tw.news.yahoo.com/20%E5%A4%9A%E6%AD%B2%E5%A5%B3%E5%A4%9A%E9%87%8D%E6%85%A2%E6%80%A7%E7%97%85%E6%B2%92%E6%89%93%E9%81%8E%E7%96%AB%E8%8B%97-%E7%95%B6%E5%A4%A9%E7%A2%BA%E8%A8%BA%E9%9A%94%E6%97%A5%E4%BA%A1-070102409.html	未分類
@@ -3407,6 +3397,7 @@ var DATA_MEDICAL = `
 2022-12-16	英美甲型鏈球菌疫情最少21兒童亡 盤尼西林短缺	https://hk.on.cc/hk/bkn/cnt/intnews/20221216/bkn-20221216223313572-1216_00992_001.html	未分類
 2022-12-16	英國爆發甲型鏈球菌疫情19名兒童死亡 抗生素盤尼西林出現短缺	https://www.hk01.com/article/847620?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-12-16	流感高峰︳13歲英國返港女童疑染甲型流感 面腫噁心神智不清留醫瑪麗危殆	https://skypost.ulifestyle.com.hk/article/3422886/%E6%B5%81%E6%84%9F%E9%AB%98%E5%B3%B0%EF%B8%B313%E6%AD%B2%E8%8B%B1%E5%9C%8B%E8%BF%94%E6%B8%AF%E5%A5%B3%E7%AB%A5%E7%96%91%E6%9F%93%E7%94%B2%E5%9E%8B%E6%B5%81%E6%84%9F%E3%80%80%E9%9D%A2%E8%85%AB%E5%99%81%E5%BF%83%E7%A5%9E%E6%99%BA%E4%B8%8D%E6%B8%85%E7%95%99%E9%86%AB%E7%91%AA%E9%BA%97%E5%8D%B1%E6%AE%86	未分類
+2022-12-16	機械按胸12小時染疫醫生被醫到死。	https://www.chinapress.com.my/20221216/机械按胸-12小时-染疫医生-被医到死/	未分類
 2022-12-16	機械按胸 12小時 染疫醫生 被醫到死 ｜ 中國報 China Press	https://www.chinapress.com.my/20221216/%E6%9C%BA%E6%A2%B0%E6%8C%89%E8%83%B8-12%E5%B0%8F%E6%97%B6-%E6%9F%93%E7%96%AB%E5%8C%BB%E7%94%9F-%E8%A2%AB%E5%8C%BB%E5%88%B0%E6%AD%BB/	未分類
 2022-12-16	增15726宗確診 連續10日破萬	https://hk.news.yahoo.com/news/%E5%A2%9E15726%E5%AE%97%E7%A2%BA%E8%A8%BA-%E9%80%A3%E7%BA%8C10%E6%97%A5%E7%A0%B4%E8%90%AC-214500121.html	未分類
 2022-12-16	【小心感冒】媽媽感冒演變肺炎敗血性休克驟逝 網紅悲痛：怎麼知道再沒有以後	https://topick.hket.com/article/3422927/%E3%80%90%E5%B0%8F%E5%BF%83%E6%84%9F%E5%86%92%E3%80%91%E5%AA%BD%E5%AA%BD%E6%84%9F%E5%86%92%E6%BC%94%E8%AE%8A%E8%82%BA%E7%82%8E%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B%E9%A9%9F%E9%80%9D%E3%80%80%E7%B6%B2%E7%B4%85%E6%82%B2%E7%97%9B%EF%BC%9A%E6%80%8E%E9%BA%BC%E7%9F%A5%E9%81%93%E5%86%8D%E6%B2%92%E6%9C%89%E4%BB%A5%E5%BE%8C?mtc=10004	未分類
@@ -3418,7 +3409,7 @@ var DATA_MEDICAL = `
 2022-12-15	疫情連6天上升,20歲男月內併敗血性休克不治	https://tw.news.yahoo.com/%E7%96%AB%E6%83%85%E9%80%A36%E5%A4%A9%E4%B8%8A%E5%8D%87-20%E6%AD%B2%E7%94%B7%E6%9C%88%E5%85%A7%E4%BD%B5%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B%E4%B8%8D%E6%B2%BB-160041523.html	未分類
 2022-12-15	本港增17080宗確診含831宗輸入,多19人染疫亡。12男7女死者年齡介乎53至97歲，當中4人來自院舍，有2人已接種四劑新冠疫苗、9人已打三針、3人已打兩針、1人已打一針、4人沒有打針。已針15人佔78.95%，無針4人佔21.05%	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E7%96%AB%E6%83%85-%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E17080%E5%AE%97%E7%A2%BA%E8%A8%BA-%E8%BC%B8%E5%85%A5%E5%80%8B%E6%A1%88%E4%BD%94831%E5%AE%97-%E5%A4%9A19%E5%90%8D%E6%82%A3%E8%80%85%E9%9B%A2%E4%B8%96/353030	未分類
 2022-12-15	慟！網紅媽感冒變肺炎,敗血性休克1天內病逝。沒想到短短幾小時病情就產生急劇變化，歷經3次急救仍無力回天，媽媽的離開讓她忍不住崩潰喊「怎麼會一個好好的人，就在一天內走了」。	https://tw.news.yahoo.com/%E6%85%9F-%E7%B6%B2%E7%B4%85%E5%AA%BD%E6%84%9F%E5%86%92%E8%AE%8A%E8%82%BA%E7%82%8E-%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B1%E5%A4%A9%E5%85%A7%E7%97%85%E9%80%9D-043800109.html	未分類
-2022-12-15	國內增1241確診,6病疫殁	https://www.chinapress.com.my/20221215/%E2%97%A4%E7%96%AB%E7%BC%A0%E7%AC%AC%E4%B8%89%E5%B9%B4%E2%97%A2-%E5%9B%BD%E5%86%85%E5%A2%9E1241%E7%A1%AE%E8%AF%8A-6%E7%96%AB%E6%AE%81/	未分類
+2022-12-15	國內增1241確診,6病疫殁	https://www.chinapress.com.my/20221215/◤疫缠第三年◢-国内增1241确诊-6疫殁/	未分類
 2022-12-15	台灣新冠肺炎今本土增1萬6012例、37死,20歲女慢性病患確診隔天亡	https://tw.news.yahoo.com/%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E4%BB%8A%E6%9C%AC%E5%9C%9F%E5%A2%9E-1-%E8%90%AC-6012-%E4%BE%8B%E3%80%81-37-%E6%AD%BB-20-%E6%AD%B2%E5%A5%B3%E6%85%A2%E6%80%A7%E7%97%85%E6%82%A3%E7%A2%BA%E8%A8%BA%E9%9A%94%E5%A4%A9%E4%BA%A1-060257496.html	未分類
 2022-12-15	南韓今增逾7萬宗新冠確診,多58人死亡	https://hk.on.cc/hk/bkn/cnt/intnews/20221215/bkn-20221215120045977-1215_00992_001.html	未分類
 2022-12-14	高燒後無法呼吸,南充31歲女死前恐怖視頻傳出。心肌炎」。	https://www.ntdtv.com/b5/2022/12/14/a103598257.html	未分類
@@ -3441,29 +3432,41 @@ var DATA_MEDICAL = `
 2022-12-12	COVID-19確診12/12公佈10824本土29境外31亡 疫情已到穀底	https://www.thehubnews.net/archives/173502	未分類
 2022-12-11	疫情｜新增14918宗確診個案 24人離世 34間院舍爆疫	https://www.singtao.ca/6114148/2022-12-11/news-疫情｜新增14918宗確診個案+24人離世+34間院舍爆疫/?variant=zh-hk	未分類
 2022-12-11	疫情︱新冠並非傷風感冒 葉柏強：再有染疫童離世令人傷心	https://www.hk01.com/article/835598?utm_source=01articlecopy&utm_medium=referral	未分類
-2022-11-12	台今增逾1.9萬宗本土新冠 多60人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221112/bkn-20221112140017302-1112_00952_001.html	未分類
+2022-12-11	添106確診 99宗屬社區中發現 年齡最細僅6歲	https://hk.on.cc/hk/bkn/cnt/news/20221211/bkn-20221211173730383-1211_00822_001.html	未分類
 2022-12-11	全台250萬人罹糖尿病 死亡數年增11%「這些人」是高風險群│甜蜜危機糖尿病之島│TVBS新聞網	https://news.tvbs.com.tw/life/1960775	未分類
 2022-12-11	今增14918確診 輸入佔685宗 另多24患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221211/bkn-20221211164307612-1211_00822_001.html	未分類
+2022-12-11	22個月大男嬰確診 情況危殆留醫伊院	https://hk.on.cc/hk/bkn/cnt/news/20221211/bkn-20221211181201259-1211_00822_001.html	未分類
 2022-12-10	這種病毒已造成英國16人死亡！啥情況？ ｜ 每經網	https://www.nbd.com.cn/articles/2022-12-10/2589018.html	未分類
-2022-10-12	打第4針前疑已染疫 裡長心肌梗塞亡	https://hk.on.cc/hk/bkn/cnt/cnnews/20221012/bkn-20221012160225367-1012_00952_001.html	未分類
+2022-12-10	熬夜看世界盃 20歲球迷中風倒地 - 國際 - 即時國際	https://www.sinchew.com.my/20221210/%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF-20%E5%B2%81%E7%90%83%E8%BF%B7%E4%B8%AD%E9%A3%8E%E5%80%92%E5%9C%B0/	未分類
+2022-12-10	熬夜看世界杯20歲球迷中風倒地	https://www.sinchew.com.my/20221210/熬夜看世界杯-20岁球迷中风倒地/	未分類
+2022-12-10	台今增逾1.4萬宗本土新冠 多24人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221210/bkn-20221210140528100-1210_00952_001.html	未分類
 2022-12-10	前晚剛打次世代疫苗！台南裡長猝逝 院方一篩「呈陽性」│TVBS新聞網	https://news.tvbs.com.tw/life/1931429	未分類
 2022-12-10	今增14377宗確診 輸入佔698宗 另多21患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221210/bkn-20221210165223971-1210_00822_001.html	未分類
 2022-12-10	上兩月多26人針後懷疑面癱 無人接種疫苗後兩周內亡	https://hk.on.cc/hk/bkn/cnt/news/20221210/bkn-20221210155418127-1210_00822_001.html	未分類
 2022-12-10	【新冠肺炎】全國新增1597確診6亡例尚有20468活躍病例|光華網	https://www.kwongwah.com.my/20221210/【新冠肺炎】全国新增1597确诊6亡例-尚有20468活跃病例/	未分類
 2022-12-10	【新冠肺炎】全國新增1597確診6亡例 尚有20468活躍病例｜光華網	https://www.kwongwah.com.my/20221210/%E3%80%90%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E3%80%91%E5%85%A8%E5%9B%BD%E6%96%B0%E5%A2%9E1597%E7%A1%AE%E8%AF%8A6%E4%BA%A1%E4%BE%8B-%E5%B0%9A%E6%9C%8920468%E6%B4%BB%E8%B7%83%E7%97%85%E4%BE%8B/	未分類
+2022-12-09	禽流感肆虐撲殺鵝鴨 鵝肝醬聖誕新年供不應求	https://hk.on.cc/hk/bkn/cnt/intnews/20221209/bkn-20221209003104277-1209_00992_001.html	未分類
 2022-12-09	本土BA.5佔比過半！漸取代BA.2成主流 60多歲女確診3天亡	https://tw.news.yahoo.com/%E6%9C%AC%E5%9C%9Fba-5%E4%BD%94%E6%AF%94%E9%81%8E%E5%8D%8A-%E6%BC%B8%E5%8F%96%E4%BB%A3ba-2%E6%88%90%E4%B8%BB%E6%B5%81-60%E5%A4%9A%E6%AD%B2%E5%A5%B3%E7%A2%BA%E8%A8%BA3%E5%A4%A9%E4%BA%A1-075600820.html	未分類
 2022-12-09	南韓新增逾3.6萬宗確診 再多22名患者不治	https://hk.news.yahoo.com/%E5%8D%97%E9%9F%93%E6%96%B0%E5%A2%9E%E9%80%BE3-6%E8%90%AC%E5%AE%97%E7%A2%BA%E8%A8%BA-%E5%86%8D%E5%A4%9A22%E5%90%8D%E6%82%A3%E8%80%85%E4%B8%8D%E6%B2%BB-014639621.html	未分類
 2022-12-08	台增逾1.5萬宗本土新冠 醫療應變組副組長確診	https://hk.on.cc/hk/bkn/cnt/cnnews/20221208/bkn-20221208140201053-1208_00952_001.html	未分類
 2022-12-08	兩度中風32歲女夥機械人重投職場 建自信築人際關係：有人關心我	https://www.hk01.com/sns/article/802531	未分類
+2022-12-07	港陸路口岸昨4019次快測 10跨境司機驗出新冠或不確定	https://hk.on.cc/hk/bkn/cnt/news/20221207/bkn-20221207190100484-1207_00822_001.html	未分類
+2022-12-07	柔增40確診 2患者疫歿 - 地方 - 大柔佛焦點	https://www.sinchew.com.my/20221207/%E6%9F%94%E5%A2%9E40%E7%A1%AE%E8%AF%8A-2%E6%82%A3%E8%80%85%E7%96%AB%E6%AE%81/	未分類
 2022-12-07	柔佛州40確診2患者死亡	https://www.sinchew.com.my/20221207/柔增40确诊-2患者疫殁/	未分類
 2022-12-07	今增11981宗確診 輸入佔703宗 另多22患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221207/bkn-20221207164731559-1207_00822_001.html	未分類
+2022-12-06	內地昨增逾2.7萬宗本土新冠 北京特定場所不查核酸證明	https://hk.on.cc/hk/bkn/cnt/cnnews/20221206/bkn-20221206091102371-1206_00952_001.html	未分類
+2022-12-05	內地昨增29724宗本土新冠 多地今起放寬防控措施	https://hk.on.cc/hk/bkn/cnt/cnnews/20221205/bkn-20221205082537065-1205_00952_001.html	未分類
 2022-12-05	今增9508宗確診 輸入佔665宗 另多20患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221205/bkn-20221205165240107-1205_00822_001.html	未分類
 2022-12-05	三重縣1607人感染，2人死亡	https://www.isenp.co.jp/2022/12/05/85335/	未分類
+2022-12-04	外國新增1866確診6亡例尚有23099活躍病例	https://www.kwongwah.com.my/20221204/【新冠肺炎】全国新增1866确诊6亡例-尚有23099活跃病例/	未分類
 2022-12-04	今增9487宗確診 輸入佔657宗 另多16患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221204/bkn-20221204163624616-1204_00822_001.html	未分類
 2022-12-04	【新冠肺炎】全國新增1866確診6亡例 尚有23099活躍病例｜光華網	https://www.kwongwah.com.my/20221204/%E3%80%90%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E3%80%91%E5%85%A8%E5%9B%BD%E6%96%B0%E5%A2%9E1866%E7%A1%AE%E8%AF%8A6%E4%BA%A1%E4%BE%8B-%E5%B0%9A%E6%9C%8923099%E6%B4%BB%E8%B7%83%E7%97%85%E4%BE%8B/	未分類
 2022-12-03	確診隔日再破萬 另多17患者離世 22月大男童命危	https://hk.on.cc/hk/bkn/cnt/news/20221203/bkn-20221203164009558-1203_00822_001.html	未分類
 2022-12-03	台今增逾1.3萬宗本土新冠 多33人死亡(其中4人2針, 9人3針, 3人4針)	https://hk.on.cc/hk/bkn/cnt/cnnews/20221203/bkn-20221203140009662-1203_00952_001.html	未分類
+2022-12-02	結婚24周年！劉以達受疫情打擊3年冇工開	https://hk.on.cc/hk/bkn/cnt/entertainment/20221202/bkn-20221202182218146-1202_00862_001.html	未分類
 2022-12-02	多一名七旬婦染類鼻疽 患糖尿病住長沙灣 其家人曾於9月確診	https://hk.on.cc/hk/bkn/cnt/news/20221202/bkn-20221202125055347-1202_00822_001.html	未分類
+2022-12-02	台今增逾1.4萬宗本土新冠 多29人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221202/bkn-20221202140038060-1202_00952_001.html	未分類
+2022-12-02	今增9996確診 輸入佔637宗 另多11患者亡	https://hk.on.cc/hk/bkn/cnt/news/20221202/bkn-20221202170247687-1202_00822_001.html	未分類
 2022-12-02	01獨家｜4歲童疑染新冠猝死 鄰居女童曾結伴玩耍 家長急帶檢測	https://www.hk01.com/sns/article/734877	未分類
 2022-12-01	槙週四增82確診3宗屬重症1人病亡	https://www.kwongwah.com.my/20221201/【新冠肺炎】槟周四增82确诊-3宗属重症1人病亡/	未分類
 2022-12-01	今增10137確診 輸入佔606宗 多15患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221201/bkn-20221201155704478-1201_00822_001.html	未分類
@@ -3542,11 +3545,10 @@ var DATA_MEDICAL = `
 2022-11-13	台今增逾1.8萬宗本土新冠 多61人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221113/bkn-20221113140007480-1113_00952_001.html	未分類
 2022-11-13	今增6575宗確診 輸入佔467宗 多9名患者逝世	https://hk.on.cc/hk/bkn/cnt/news/20221113/bkn-20221113164235490-1113_00822_001.html	未分類
 2022-11-13	《航站情緣》本尊航廈裡病逝 曾困居戴高樂機場18年│TVBS新聞網	https://news.tvbs.com.tw/world/1960960	未分類
-2022-12-11	添106確診 99宗屬社區中發現 年齡最細僅6歲	https://hk.on.cc/hk/bkn/cnt/news/20221211/bkn-20221211173730383-1211_00822_001.html	未分類
 2022-11-12	比上週增加8.1%！本土+14034、增38死 各縣市確診曝│TVBS新聞網	https://news.tvbs.com.tw/life/1987178	未分類
 2022-11-12	死亡38！40多歲女確診隔日亡 莊人祥：短期本土確診低於萬例恐較難	https://tw.news.yahoo.com/%E6%AD%BB%E4%BA%A138-40%E5%A4%9A%E6%AD%B2%E5%A5%B3%E7%A2%BA%E8%A8%BA%E9%9A%94%E6%97%A5%E4%BA%A1-%E8%8E%8A%E4%BA%BA%E7%A5%A5-%E7%9F%AD%E6%9C%9F%E6%9C%AC%E5%9C%9F%E7%A2%BA%E8%A8%BA%E4%BD%8E%E6%96%BC%E8%90%AC%E4%BE%8B%E6%81%90%E8%BC%83%E9%9B%A3-081031758.html	未分類
 2022-11-12	本土＋14034例 較上周日大增8.1％ 38人病歿	https://tw.news.yahoo.com/%E6%9C%AC%E5%9C%9F-14034%E4%BE%8B-%E8%BC%83%E4%B8%8A%E5%91%A8%E6%97%A5%E5%A4%A7%E5%A2%9E8-1-38%E4%BA%BA%E7%97%85%E6%AD%BF-060335035.html	未分類
-2022-12-11	22個月大男嬰確診 情況危殆留醫伊院	https://hk.on.cc/hk/bkn/cnt/news/20221211/bkn-20221211181201259-1211_00822_001.html	未分類
+2022-11-12	台今增逾1.9萬宗本土新冠 多60人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221112/bkn-20221112140017302-1112_00952_001.html	未分類
 2022-11-11	台灣新增20269宗新冠本土病例 多62人不治	https://hk.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E5%A2%9E20269%E5%AE%97%E6%96%B0%E5%86%A0%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B-%E5%A4%9A62%E4%BA%BA%E4%B8%8D%E6%B2%BB-070058450.html	未分類
 2022-11-11	今增5599宗確診 輸入佔398宗 多10名患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221111/bkn-20221111161716113-1111_00822_001.html	未分類
 2022-11-10	今增5697確診 輸入佔495宗 多9名患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221110/bkn-20221110164314106-1110_00822_001.html	未分類
@@ -3556,6 +3558,12 @@ var DATA_MEDICAL = `
 2022-11-09	打完BA.5次世代疫苗後死亡！ 日40多歲女接種5分鐘後「出現異狀」	https://www.ettoday.net/news/20221109/2376661.htm	未分類
 2022-11-07	女嬰3個月生2公斤腫瘤...	https://www.chinapress.com.my/20221107/屁股长出2公斤巨瘤-女婴奇迹存活下来/	未分類
 2022-11-07	今增5198確診 輸入佔564宗再創新高 多5名患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221107/bkn-20221107163243152-1107_00822_001.html	未分類
+2022-11-05	台今增逾2.5萬宗本土新冠 多67人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221105/bkn-20221105140002497-1105_00952_001.html	未分類
+2022-11-05	今增5111確診 多18名患者亡 本地再揭4宗XBB	https://hk.on.cc/hk/bkn/cnt/news/20221105/bkn-20221105165213763-1105_00822_001.html	未分類
+2022-11-04	今增4516確診 多11名患者亡 本地添3宗XBB	https://hk.on.cc/hk/bkn/cnt/news/20221104/bkn-20221104164728508-1104_00822_001.html	未分類
+2022-11-02	市長候選人突染疫亡 選舉料改期	https://hk.on.cc/hk/bkn/cnt/cnnews/20221102/bkn-20221102172228689-1102_00952_001.html	未分類
+2022-11-02	妙齡女突然中風 或因頸部按摩傷及動脈內膜	https://hk.on.cc/hk/bkn/cnt/cnnews/20221102/bkn-20221102010037806-1102_00952_001.html	未分類
+2022-11-01	台今增逾3.4萬宗本土新冠 多46人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221101/bkn-20221101140026494-1101_00952_001.html	未分類
 2022-10-31	聘六成殘疾員工撐傷健共融 良心Cafe不敵疫情結業	https://hk.news.yahoo.com/%E8%81%98%E5%85%AD%E6%88%90%E6%AE%98%E7%96%BE%E5%93%A1%E5%B7%A5%E6%92%90%E5%82%B7%E5%81%A5%E5%85%B1%E8%9E%8D-%E8%89%AF%E5%BF%83cafe%E4%B8%8D%E6%95%B5%E7%96%AB%E6%83%85%E7%B5%90%E6%A5%AD-203105855.html	未分類
 2022-10-31	今增4766宗確診 輸入佔446宗 多12名患者離世	https://hk.on.cc/hk/bkn/cnt/news/20221031/bkn-20221031162317135-1031_00822_001.html	未分類
 2022-10-30	今增5210宗確診 輸入佔478宗 再多12名患者死亡	https://hk.on.cc/hk/bkn/cnt/news/20221030/bkn-20221030164147284-1030_00822_001.html	未分類
@@ -3591,9 +3599,8 @@ var DATA_MEDICAL = `
 2022-10-13	解封首日破5萬！本土53356、29死 確診累計破700萬│TVBS新聞網	https://news.tvbs.com.tw/life/1932391	未分類
 2022-10-13	13縣市本土破千例 8歲童染疫1個月突發燒、心包膜積水│TVBS新聞網	https://news.tvbs.com.tw/life/1932406	未分類
 2022-10-12	連續3日破萬確診 23人疫歿	https://hk.news.yahoo.com/%E9%80%A3%E7%BA%8C3%E6%97%A5%E7%A0%B4%E8%90%AC%E7%A2%BA%E8%A8%BA-23%E4%BA%BA%E7%96%AB%E6%AD%BF-214500585.html	未分類
-2022-12-10	熬夜看世界盃 20歲球迷中風倒地 - 國際 - 即時國際	https://www.sinchew.com.my/20221210/%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF-20%E5%B2%81%E7%90%83%E8%BF%B7%E4%B8%AD%E9%A3%8E%E5%80%92%E5%9C%B0/	未分類
+2022-10-12	打第4針前疑已染疫 裡長心肌梗塞亡	https://hk.on.cc/hk/bkn/cnt/cnnews/20221012/bkn-20221012160225367-1012_00952_001.html	未分類
 2022-10-12	少年高燒兩日確診暴發性心肌炎 一度心臟停止	https://hk.on.cc/hk/bkn/cnt/cnnews/20221012/bkn-20221012032156287-1012_00952_001.html	未分類
-2022-12-10	台今增逾1.4萬宗本土新冠 多24人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221210/bkn-20221210140528100-1210_00952_001.html	未分類
 2022-10-12	20多歲男二度確診 發燒、嘔吐進加護病房5日後亡│TVBS新聞網	https://news.tvbs.com.tw/life/1986484	未分類
 2022-10-12	(大馬昨日5人染疫 1宗送院前死亡)	https://guangming.com.my/%E5%A4%A7%E9%A6%AC%E6%98%A8%E5%A0%B16%E4%BA%BA%E7%96%AB%E6%AD%BF-%E5%85%B6%E4%B8%AD1%E5%AE%97bid	未分類
 2022-10-11	氣候危機使58%的傳染病更嚴重 研究籲減碳才是根本解方 Warming	https://e-info.org.tw/node/235162	未分類
@@ -3602,13 +3609,14 @@ var DATA_MEDICAL = `
 2022-10-10	比上週少3.9%！本土32068、病歿57 8歲女童紅疹紅眼疑MIS-C	https://tw.news.yahoo.com/%E6%AF%94%E4%B8%8A%E9%80%B1%E5%B0%913-9-%E6%9C%AC%E5%9C%9F32068-%E7%97%85%E6%AD%BF57-8%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%B4%85%E7%96%B9%E7%B4%85%E7%9C%BC%E7%96%91mis-063649614.html	未分類
 2022-10-10	(牡丹鄉代候選人高嘉祥癌症病逝 屏縣選委會：選舉不受影響)	https://www.chinatimes.com/realtimenews/20221010000988-260402?chdtv	未分類
 2022-10-09	本港增9787確診 再多8人離世 21歲腦癱男染疫亡	https://hk.news.yahoo.com/%E6%9C%AC%E6%B8%AF%E5%A2%9E-9787-%E7%A2%BA%E8%A8%BA-%E5%86%8D%E5%A4%9A-8-%E4%BA%BA%E9%9B%A2%E4%B8%96-21-%E6%AD%B2%E8%85%A6%E7%99%B1%E7%94%B7%E6%9F%93%E7%96%AB%E4%BA%A1-084149165.html	未分類
+2022-10-09	台今增逾4.4萬宗本土新冠 多62人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221009/bkn-20221009140006020-1009_00952_001.html	未分類
 2022-10-08	疫情｜增4593宗多4死 87歲婦腸臟破裂腹膜炎惡化不治 已打三針	https://www.hk01.com/sns/article/802430	未分類
-2022-08-10	嘉市49歲男發燒隔天不治 死因與確診相關聯 ｜ 中央社 ｜ Newtalk新聞	https://newtalk.tw/news/view/2022-08-10/799522	未分類
 2022-10-08	今增4900確診 多13患者離世 第5波累計逾萬人病亡	https://hk.on.cc/hk/bkn/cnt/news/20221008/bkn-20221008163705530-1008_00822_001.html	未分類
 2022-10-08	中重症+85 30多歲男酒精性肝硬化、就醫三天後亡│TVBS新聞網	https://news.tvbs.com.tw/life/1873239	未分類
 2022-10-07	疫情｜增9宗BA.4/5 殺入北角老牌豪宅恆景園 2院舍長者不治	https://www.hk01.com/sns/article/790843	未分類
 2022-10-07	今增4369人染疫 輸入病例佔386宗 多2患者死亡	https://hk.on.cc/hk/bkn/cnt/news/20221007/bkn-20221007155554499-1007_00822_001.html	未分類
 2022-10-05	今增3642確診 另有10患者逝世 其中7人已打3針	https://hk.on.cc/hk/bkn/cnt/news/20221005/bkn-20221005161729125-1005_00822_001.html	未分類
+2022-10-04	今增3286確診 多8疫患亡 BA.4或5疑似個案佔逾90%	https://hk.on.cc/hk/bkn/cnt/news/20221004/bkn-20221004162743240-1004_00822_001.html	未分類
 2022-10-03	【吹角節金門列國特會之三】極端氣候、疫情引發全球恐慌尚君璽：基督徒當儆醒以行動發揮末世影響力	https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ec2JmMmV0bTJGS2NuQ3ZlVGctY05aWTZtQlRyYkRKUHhUaHZObW1aQ2U5bXFkSWhzU0J5bWVBdEpaUVlrOWFtaDAxNnhpTDdIc2ZUR0tSRnRJdm1oQjB6ZzIxM0hzZFVtcUE?oc=5	未分類
 2022-10-01	今增3907宗確診 輸入佔226宗 另添6名疫患離世	https://hk.on.cc/hk/bkn/cnt/news/20221001/bkn-20221001163142660-1001_00822_001.html	未分類
 2022-09-30	本土+43280、病歿50例 2歲女童確診1個月出現「發燒、草莓舌」治療中	https://tw.news.yahoo.com/%E6%9C%AC%E5%9C%9F-43280-%E7%97%85%E6%AD%BF50%E4%BE%8B-2%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%A2%BA%E8%A8%BA1%E5%80%8B%E6%9C%88%E5%87%BA%E7%8F%BE-%E7%99%BC%E7%87%92-062648207.html	未分類
@@ -3650,7 +3658,6 @@ var DATA_MEDICAL = `
 2022-09-13	台灣疫情｜新增2.5萬本土個案多28死 60多歲婦成第2名BA.5死者	https://www.hk01.com/sns/article/814402?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-09-13	台今增逾4.6萬宗本土新冠 多17人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20220913/bkn-20220913140004271-0913_00952_001.html	未分類
 2022-09-13	(大馬新增4人染疫 柔佛2 吉隆坡1)	https://guangming.com.my/%E5%A4%A7%E9%A6%AC%E6%98%A8%E5%A0%B15%E4%BA%BA%E7%96%AB%E6%AD%BF-1%E5%AE%97%E9%80%81%E9%99%A2%E5%89%8D%E6%AD%BB%E4%BA%A1	未分類
-2022-12-09	禽流感肆虐撲殺鵝鴨 鵝肝醬聖誕新年供不應求	https://hk.on.cc/hk/bkn/cnt/intnews/20221209/bkn-20221209003104277-1209_00992_001.html	未分類
 2022-09-12	疫情．12.9｜增13924宗確診 教育局長蔡若蓮家人染疫 快測陰性	https://www.hk01.com/article/845107?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-09-12	宜縣新冠至12/9累計167984確診315亡 4/1-12/8篩檢陽性率近四成 ｜ 蕃新聞	https://n.yam.com/Article/20221209640448	未分類
 2022-09-12	國內12/9新增14295人確診 32例因染疫亡	https://tyenews.com/2022/12/324846/	未分類
@@ -3662,7 +3669,6 @@ var DATA_MEDICAL = `
 2022-09-11	單日新增個案降逾25% 40多歲肝硬化男確診3天亡	https://tw.news.yahoo.com/%E5%96%AE%E6%97%A5%E6%96%B0%E5%A2%9E%E5%80%8B%E6%A1%88%E9%99%8D%E9%80%BE25-40%E5%A4%9A%E6%AD%B2%E8%82%9D%E7%A1%AC%E5%8C%96%E7%94%B7%E7%A2%BA%E8%A8%BA3%E5%A4%A9%E4%BA%A1-061646998.html	未分類
 2022-09-10	疫情｜增4890宗確診3人離世 7日平均死亡率續回落至0.149%	https://www.hk01.com/article/823523?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-09-10	打3劑疫苗 30多歲女確診亡	https://tw.news.yahoo.com/%E6%89%933%E5%8A%91%E7%96%AB%E8%8B%97-30%E5%A4%9A%E6%AD%B2%E5%A5%B3%E7%A2%BA%E8%A8%BA%E4%BA%A1-131421479.html	未分類
-2022-10-09	台今增逾4.4萬宗本土新冠 多62人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221009/bkn-20221009140006020-1009_00952_001.html	未分類
 2022-09-10	(103歲染疫女瑞亞博暈迷 送院後亡)	https://www.worldjournal.com/wj/story/121238/6671255	未分類
 2022-09-09	媽媽嫌13歲兒子太胖逼減肥 跳繩5分鐘「眼斜半癱」 竟是腦中風	https://www.hk01.com/sns/article/812832?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-09-09	9歲女童染疫亡！急性腦炎併腦幹損傷 住院搶救2個月仍不治	https://www.ettoday.net/news/20220909/2334812.htm	未分類
@@ -3694,6 +3700,7 @@ var DATA_MEDICAL = `
 2022-08-12	單日染疫又破萬 22病歿 1人曾打4針	https://hk.news.yahoo.com/%E5%96%AE%E6%97%A5%E6%9F%93%E7%96%AB%E5%8F%88%E7%A0%B4%E8%90%AC-22%E7%97%85%E6%AD%BF-1%E4%BA%BA%E6%9B%BE%E6%89%934%E9%87%9D-214500662.html	未分類
 2022-08-11	淡水警罹癌不敵病魔離世 同僚錯愕不捨	https://tw.news.yahoo.com/%E6%B7%A1%E6%B0%B4%E8%AD%A6%E7%BD%B9%E7%99%8C%E4%B8%8D%E6%95%B5%E7%97%85%E9%AD%94%E9%9B%A2%E4%B8%96-%E5%90%8C%E5%83%9A%E9%8C%AF%E6%84%95%E4%B8%8D%E6%8D%A8-030234159.html	未分類
 2022-08-11	再多一名長期病長者染類鼻疽離世 今年累計9人染疫亡	https://www.bastillepost.com/hongkong/article/11648866-%E9%A1%9E%E9%BC%BB%E7%96%BD%EF%BD%9C%E5%86%8D%E5%A4%9A%E4%B8%80%E5%90%8D%E6%82%A3%E9%95%B7%E6%9C%9F%E7%97%85%E7%94%B7%E5%AD%90%E6%AD%BB%E4%BA%A1-%E4%BB%8A%E5%B9%B4%E7%B4%AF%E8%A8%889%E4%BA%BA%E6%9F%93	未分類
+2022-08-10	嘉市49歲男發燒隔天不治 死因與確診相關聯 ｜ 中央社 ｜ Newtalk新聞	https://newtalk.tw/news/view/2022-08-10/799522	未分類
 2022-08-07	第三例猴痘個案狀況曝 仍有出疹、膿疱分泌物	https://www.setn.com/news/1158025	未分類
 2022-08-05	再多4名新冠患者離世 70歲女死者打齊3針 氣促送院搶救不治	https://hk.on.cc/hk/bkn/cnt/news/20220805/bkn-20220805163006365-0805_00822_001.html	未分類
 2022-08-02	嚴重流失水分 可致急性腎衰竭亡 Warming	https://hk.on.cc/hk/bkn/cnt/news/20220802/bkn-20220802005923162-0802_00822_001.html	未分類
@@ -3709,8 +3716,6 @@ var DATA_MEDICAL = `
 2022-07-19	疫情｜增3436宗確診多4人死 已打2針無長期病99歲老婦離世	https://www.hk01.com/sns/article/794057	未分類
 2022-07-12	英媒：中國取消清零 冬季感染潮死亡數破百萬│TVBS新聞網	https://news.tvbs.com.tw/world/1983594	未分類
 2022-07-12	確診逼1.2萬宗創0+3後新高 多22死 七天平均輸入個案數同創新高	https://www.hk01.com/article/844201?utm_source=01articlecopy&utm_medium=referral	未分類
-2022-12-07	港陸路口岸昨4019次快測 10跨境司機驗出新冠或不確定	https://hk.on.cc/hk/bkn/cnt/news/20221207/bkn-20221207190100484-1207_00822_001.html	未分類
-2022-12-07	柔增40確診 2患者疫歿 - 地方 - 大柔佛焦點	https://www.sinchew.com.my/20221207/%E6%9F%94%E5%A2%9E40%E7%A1%AE%E8%AF%8A-2%E6%82%A3%E8%80%85%E7%96%AB%E6%AE%81/	未分類
 2022-07-12	本土16694、病歿26 疫情持續下降比上週減5.5%	https://tw.news.yahoo.com/%E6%9C%AC%E5%9C%9F16694-%E7%97%85%E6%AD%BF26-%E7%96%AB%E6%83%85%E6%8C%81%E7%BA%8C%E4%B8%8B%E9%99%8D%E6%AF%94%E4%B8%8A%E9%80%B1%E6%B8%9B5-5-061926728.html	未分類
 2022-07-12	動保處主動監測禽流感 路竹1養鴨場日前完成撲殺2060隻鴨	https://www.chinatimes.com/realtimenews/20221207004594-260421?chdtv	未分類
 2022-07-12	12/7新冠增16694例本土 26人因染疫亡	https://tyenews.com/2022/12/324319/	未分類
@@ -3720,7 +3725,6 @@ var DATA_MEDICAL = `
 2022-06-28	歲半童染新冠後引發腦炎 搶救7天後不治	https://hk.on.cc/hk/bkn/cnt/intnews/20220628/bkn-20220628130014223-0628_00992_001.html	未分類
 2022-06-26	大欖女懲教所還押女囚患腎衰竭 公立醫院離世	https://www.hk01.com/sns/article/785796	未分類
 2022-06-25	修樹工中暑亡｜死者原本內地過退休生活 因疫情留港再打工	https://www.hk01.com/sns/article/785496	未分類
-2022-12-06	內地昨增逾2.7萬宗本土新冠 北京特定場所不查核酸證明	https://hk.on.cc/hk/bkn/cnt/cnnews/20221206/bkn-20221206091102371-1206_00952_001.html	未分類
 2022-06-12	3人染疫病歿 柔佛報2宗全國居首 ｜ The Malaysian Insight	https://www.themalaysianinsight.com/chinese/s/415619	未分類
 2022-06-11	疫情｜增4988宗確診13人離世 新患者住院數佔8.8%創一個多月新低	https://www.hk01.com/article/833393?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-06-11	3度腦中風！《三國演義》男星65歲暴瘦模樣曝：話都說不出│TVBS新聞網	https://news.tvbs.com.tw/entertainment/1954922	未分類
@@ -3738,17 +3742,12 @@ var DATA_MEDICAL = `
 2022-05-12	奈良県內の新規感染1111人 死亡3人確認 - 新型コロナ｜奈良新聞デジタル	https://www.nara-np.co.jp/news/20221205215535.html	未分類
 2022-05-12	南韓增逾2.3萬宗新冠確診 再多40人不治	https://hk.news.yahoo.com/%E5%8D%97%E9%9F%93%E5%A2%9E%E9%80%BE2-3%E8%90%AC%E5%AE%97%E6%96%B0%E5%86%A0%E7%A2%BA%E8%A8%BA-%E5%86%8D%E5%A4%9A40%E4%BA%BA%E4%B8%8D%E6%B2%BB-015156214.html	未分類
 2022-05-12	創222天新低！本土＋10209例 22人病歿	https://tw.news.yahoo.com/%E7%9B%B4%E6%92%AD-%E6%98%8E%E5%B9%B41%E6%9C%88%E7%88%86%E6%96%B0-%E6%B3%A2%E7%96%AB%E6%83%85-%E7%8E%8B%E5%BF%85%E5%8B%9D%E6%9C%80%E6%96%B0%E8%AA%AA%E6%98%8E-055428515.html	未分類
-2022-12-05	內地昨增29724宗本土新冠 多地今起放寬防控措施	https://hk.on.cc/hk/bkn/cnt/cnnews/20221205/bkn-20221205082537065-1205_00952_001.html	未分類
-2022-11-05	台今增逾2.5萬宗本土新冠 多67人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221105/bkn-20221105140002497-1105_00952_001.html	未分類
-2022-11-05	今增5111確診 多18名患者亡 本地再揭4宗XBB	https://hk.on.cc/hk/bkn/cnt/news/20221105/bkn-20221105165213763-1105_00822_001.html	未分類
 2022-05-10	青旅背包客少不敵疫情業者嘆：每10間倒2間	https://tw.news.yahoo.com/%E9%9D%92%E6%97%85%E8%83%8C%E5%8C%85%E5%AE%A2%E5%B0%91%E4%B8%8D%E6%95%B5%E7%96%AB%E6%83%85-%E6%A5%AD%E8%80%85%E5%98%86-%E6%AF%8F10%E9%96%93%E5%80%922%E9%96%93-101844204.html	未分類
 2022-05-08	南非首宗與新冠疫苗有因果關係死亡病例 接種者出現罕見病症	https://www.hk01.com/sns/article/800800	未分類
 2022-04-12	本港新增9487宗新冠病毒確診 再多16宗死亡個案	https://hk.news.yahoo.com/%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E9487%E5%AE%97%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E7%A2%BA%E8%A8%BA-%E5%86%8D%E5%A4%9A16%E5%AE%97%E6%AD%BB%E4%BA%A1%E5%80%8B%E6%A1%88-112053432.html	未分類
 2022-04-12	新增29人病歿 30多歲女打3劑在家猝逝 本土＋12981	https://tw.news.yahoo.com/%E6%96%B0%E5%A2%9E29%E4%BA%BA%E7%97%85%E6%AD%BF-30%E5%A4%9A%E6%AD%B2%E5%A5%B3%E6%89%933%E5%8A%91%E5%9C%A8%E5%AE%B6%E7%8C%9D%E9%80%9D-%E6%9C%AC%E5%9C%9F-12981-060431685.html	未分類
 2022-04-12	增9487宗確診含657宗輸入 多16人染疫亡	https://www.bastillepost.com/hongkong/article/11820616-%e7%96%ab%e6%83%85%ef%bd%9c%e6%96%b0%e5%a2%9e9487%e5%ae%97%e7%a2%ba%e8%a8%ba%e5%8c%85%e6%8b%ac657%e5%ae%97%e8%bc%b8%e5%85%a5-%e5%a4%9a16%e6%82%a3%e8%80%85%e9%9b%a2%e4%b8%96	未分類
 2022-04-12	30多歲女曾打三劑疫苗 快篩陽、4天後在家猝逝│TVBS新聞網	https://news.tvbs.com.tw/life/1980714	未分類
-2022-11-04	今增4516確診 多11名患者亡 本地添3宗XBB	https://hk.on.cc/hk/bkn/cnt/news/20221104/bkn-20221104164728508-1104_00822_001.html	未分類
-2022-10-04	今增3286確診 多8疫患亡 BA.4或5疑似個案佔逾90%	https://hk.on.cc/hk/bkn/cnt/news/20221004/bkn-20221004162743240-1004_00822_001.html	未分類
 2022-04-08	約30名非洲抵港人士疑感染瘧疾送院 部分要入住深切治療病房	https://www.hk01.com/sns/article/800337	未分類
 2022-04-08	精壯男工作到一半竟「熱中風」	https://www.ctwant.com/article/199083	未分類
 2022-04-08	湖北60歲農民工得熱射病亡曝中暑後仍要工作女兒我的天塌了	https://www.hk01.com/sns/article/800288	未分類
@@ -3762,19 +3761,13 @@ var DATA_MEDICAL = `
 2022-03-10	6大連鎖店難敵疫情已消失許留山/優之良品遊客來港已經無緣再見	https://www.hk01.com/article/821630?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-03-08	四旬男染疫3天在家亡 增2兒童重症 腦炎、MIC各1例｜元氣網	https://health.udn.com/health/story/120950/6509228?from=udn-catenewnews_ch1005	未分類
 2022-03-07	倪匡離世｜倪匡身患多個疾病患皮膚癌唔肯去做化療：死咗一大半	https://www.hk01.com/sns/article/788328	未分類
-2023-02-22	沙田青衣兩幼園爆上呼吸道感染 48學童中招25人需求醫	https://hk.on.cc/hk/bkn/cnt/news/20230222/bkn-20230222181827168-0222_00822_001.html	未分類
 2022-02-22	新冠康復後連踩16日返工 28歲男宿舍內暴斃 公司：死者申請加班	https://www.hk01.com/article/870139?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-02-15	疫情｜3歲女童及100歲女人瑞今晚同不治 225死者中最小及最老	https://www.hk01.com/sns/article/736212	未分類
-2022-12-02	結婚24周年！劉以達受疫情打擊3年冇工開	https://hk.on.cc/hk/bkn/cnt/entertainment/20221202/bkn-20221202182218146-1202_00862_001.html	未分類
 2022-02-12	確診數續降！本土+14019、病歿29 指揮中心：病例比上週少0.8%	https://tw.news.yahoo.com/%E7%A2%BA%E8%A8%BA%E6%95%B8%E7%BA%8C%E9%99%8D-%E6%9C%AC%E5%9C%9F-14019-%E7%97%85%E6%AD%BF29-%E6%8C%87%E6%8F%AE%E4%B8%AD%E5%BF%83-062617801.html	未分類
 2022-02-12	增9996宗染疫11人離世 確診後腦水腫5歲男童不治	https://hk.news.yahoo.com/%E5%A2%9E9996%E5%AE%97%E6%9F%93%E7%96%AB11%E4%BA%BA%E9%9B%A2%E4%B8%96-%E7%A2%BA%E8%A8%BA%E5%BE%8C%E8%85%A6%E6%B0%B4%E8%85%AB5%E6%AD%B2%E7%94%B7%E7%AB%A5%E4%B8%8D%E6%B2%BB-214500724.html	未分類
 2022-02-12	台灣新增14019宗新冠 今增29死！(1人1針, 4人2針, 7人3針, 1人4針)	https://tw.news.yahoo.com/%E4%BB%8A%E5%A2%9E29%E6%AD%BB-50%E5%A4%9A%E6%AD%B2%E7%A2%BA%E8%A8%BA%E7%94%B7-%E5%A4%9A%E9%87%8D%E5%99%A8%E5%AE%98%E8%A1%B0%E7%AB%AD%E4%BA%A1-062100648.html	未分類
-2022-12-02	台今增逾1.4萬宗本土新冠 多29人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221202/bkn-20221202140038060-1202_00952_001.html	未分類
-2022-12-02	今增9996確診 輸入佔637宗 另多11患者亡	https://hk.on.cc/hk/bkn/cnt/news/20221202/bkn-20221202170247687-1202_00822_001.html	未分類
 2022-02-12	(接種疫苗後死因不明 費小姐母聲請國賠)	https://www.ftvnews.com.tw/news/detail/2022C02W0131	未分類
 2022-02-11	快訊／今本土＋33116！另增53死 30多歲女「發燒濃痰」確診10天亡	https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E4%BB%8A%E6%9C%AC%E5%9C%9F-33116-%E5%8F%A6%E5%A2%9E53%E6%AD%BB-30%E5%A4%9A%E6%AD%B2%E5%A5%B3-060759605.html	未分類
-2022-11-02	市長候選人突染疫亡 選舉料改期	https://hk.on.cc/hk/bkn/cnt/cnnews/20221102/bkn-20221102172228689-1102_00952_001.html	未分類
-2022-11-02	妙齡女突然中風 或因頸部按摩傷及動脈內膜	https://hk.on.cc/hk/bkn/cnt/cnnews/20221102/bkn-20221102010037806-1102_00952_001.html	未分類
 2022-02-11	增4709宗確診含430宗輸入 再多8人染疫亡	https://www.bastillepost.com/hongkong/article/11609104-%e7%96%ab%e6%83%85%ef%bd%9c%e5%a2%9e4709%e5%ae%97%e7%a2%ba%e8%a8%ba-%e5%8c%85%e6%8b%ac430%e5%ae%97%e8%bc%b8%e5%85%a5-%e5%a4%9a8%e4%ba%ba%e9%9b%a2%e4%b8%96	未分類
 2022-02-10	台灣疫情｜新增4.3萬宗本土個案 連續7天高於上周同期 另增62死	https://www.hk01.com/article/821200?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-01-12	確診逼近9000大關 16患者病歿	https://hk.news.yahoo.com/%E7%A2%BA%E8%A8%BA%E9%80%BC%E8%BF%919000%E5%A4%A7%E9%97%9C-16%E6%82%A3%E8%80%85%E7%97%85%E6%AD%BF-214500014.html	未分類
@@ -3782,7 +3775,6 @@ var DATA_MEDICAL = `
 2022-01-12	5歲男童確診新冠併發腦水腫危殆 3歲男童染流感同命危須用呼吸機	https://www.hk01.com/article/842530?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-01-11	眼前突現飛蚊！19歲女大生半年後猝逝 竟是乳癌釀禍	https://tw.news.yahoo.com/%E7%9C%BC%E5%89%8D%E7%AA%81%E7%8F%BE%E9%A3%9B%E8%9A%8A-19%E6%AD%B2%E5%A5%B3%E5%A4%A7%E7%94%9F%E5%8D%8A%E5%B9%B4%E5%BE%8C%E7%8C%9D%E9%80%9D-%E7%AB%9F%E6%98%AF%E4%B9%B3%E7%99%8C%E9%87%80%E7%A6%8D-092900199.html	未分類
 2022-01-11	死亡+46、中重症71例 30多歲女打四劑確診後亡│TVBS新聞網	https://news.tvbs.com.tw/life/1949694	未分類
-2022-11-01	台今增逾3.4萬宗本土新冠 多46人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20221101/bkn-20221101140026494-1101_00952_001.html	未分類
 2022-01-10	1歲童突燒抽搐亡 「細菌性腦膜腦炎」惡化快	https://today.line.me/tw/v2/article/YanXgea	未分類
 2021-06-25	新冠肺炎與「大重設」：一個世界重建提議如何變成了陰謀論	https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxTURjdkEzemw0bDVRZUs3VmFjeEpva01ZSUwwS1VjblhWS1JsYnJiaGRabWJST0VmOFhsYzdVeEZRZll2ZWhKc3d1bVFJLWstQ3dxZHBKMERrazFa0gFiQVVfeXFMTUFZbGNtV1VKRzRvMXZPdW8xT3hjWWltWEE3Q1ZFTGp3LWJuNURTY3dDLWFzdkM3amFKNFlVWDFFdlc4UUdNbklLZVBvb2F6WTdTMS1QT3c3QUE4VmpCVzg2X1E?oc=5	未分類
 2020-11-02	陰謀敗露！邪惡勢力竟利用病毒進行全球「大重構」(組圖) - 談古論今 - 宋唐 編譯 - (移動版)	https://news.google.com/rss/articles/CBMiakFVX3lxTE0yNXR5b3ZsZG9lWnRWNVFqMTAzSzdEcFFnMWlpM1hQZV9WclEyWThzeGNHdS1PLWZFOU1ZNWdpZ3F1dXFlUHRVMlpNSEtzLVN6R2JFQ3dSR2hka2lCMUhPeFV2TVFacVF3UXc?oc=5	未分類`;
