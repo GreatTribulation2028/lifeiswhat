@@ -1,4 +1,4 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 3753 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 3751 條
 var DATA_MEDICAL = `
 2026-10-01	成淵87師生食物中毒沒去慰問！蔣萬安：目前行程很多	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JQUpfZ0tVRDRuRVJabzljX2pTTzNnVjZhcVh2bWkzTG1oMjQtOExobnNibnlUdXNmQ1lZRXZDMGhrOHNhdUxCZ3BoTkY2MmdDdlHSAVJBVV95cUxNSUFKX2dLVUQ0bkVSWm85Y19qU08zZ1Y2YXFYdm1pM0xtaDI0LThMaG5zYm55VHVzZkNZWUV2QzBoazhzYXVMQmdwaE5GNjJnQ3ZR?oc=5	未分類
 2026-10-01	成淵87人食物中毒沒去慰問蔣萬安：目前行程很多| NOW政治	https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wdi1FWlJvRVY0VGZrek5iSXVvZWlHckZEczdiT3ZhWlQzZ0I2ckRVSml6M0l0UWtiVFFudk11eUdpR2sxSDJwekt4VQ?oc=5	未分類
@@ -397,7 +397,6 @@ var DATA_MEDICAL = `
 2026-09-29	破除新冠網路傳言 醫：打疫苗副作用大幅降低	https://tw.news.yahoo.com/破除新冠網路傳言-醫-打疫苗副作用大幅降低-031729130.html	未分類
 2026-09-29	研究：慢性病不只一個器官壞 其他疾病恐已在排隊	https://www.soundofhope.org/post/923992?lang=b5	未分類
 2026-09-29	研究曝青蔥粥助逼汗排痰？男確診新冠吃2次竟痊癒 營養師打臉	https://news.tvbs.com.tw/health/4014126	未分類
-2026-09-29	矽谷AI加速主義者批大廠「末日論」 指控散播心智病毒謀求壟斷	https://tw.stock.yahoo.com/news/矽谷ai加速主義者批大廠-末日論-指控散播心智病毒謀求壟斷-084309660.html	未分類
 2026-09-29	石藥集團猴痘mRNA疫苗獲美FDA批准 在美展開臨床試驗	https://finance.biggo.com.tw/news/11b45727-168f-49ea-b482-4e1aa8460768	未分類
 2026-09-29	石药集团(01093)：SYS 6037注射液(猴痘m RNA疫苗)在美国获临床试验批准	https://i.ifeng.com/c/8vTs4RaCk3j	未分類
 2026-09-29	石药创新：子公司合作药物猴痘mRNA疫苗临床试验获FDA批准	https://finance.eastmoney.com/a/202608103836598153.html	未分類
@@ -3639,7 +3638,6 @@ var DATA_MEDICAL = `
 2022-08-23	再多10名新冠患者離世 只有兩人已打3針疫苗	https://hk.on.cc/hk/bkn/cnt/news/20220823/bkn-20220823163012859-0823_00822_001.html	未分類
 2022-08-21	添3男長者染疫亡 年齡最大81歲 均屬長期病患	https://hk.on.cc/hk/bkn/cnt/news/20220821/bkn-20220821163017569-0821_00822_001.html	未分類
 2022-08-21	七月份 加拿大共六位醫生突然去世 ｜ 加拿大醫生 ｜ 醫生去世和疫苗 ｜ 大紀元	https://www.epochtimes.com/b5/22/8/1/n13793443.htm	未分類
-2022-08-21	10歲男童困後車廂逾1小時休克！送醫確診恐怖「熱射病」	https://www.ettoday.net/news/20220822/2321537.htm	未分類
 2022-08-19	增32死「40多歲男性無慢性病」突發燒、抽搐 當日猝逝確診│TVBS新聞網	https://news.tvbs.com.tw/life/1881998	未分類
 2022-08-19	健康食油排名｜橄欖油第1麻油第2 配牛油果護心防中風點食最好？ Hunger	https://www.hk01.com/sns/article/670471?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-08-18	銀娛取消業績記者招待會 稱本港新冠疫情反覆	https://www.hk01.com/sns/article/805160	未分類
