@@ -185,6 +185,8 @@ details.stats[open] summary::before{content:"▾ "}
 <script>
 /* ================= 十一類設定 ================= */
 const CATS={
+  religion:{name:"宗教",full:"宗教記錄",varName:'DATA_RELIGION',color:"#ffd166"},
+  tribulation:{name:"七年大災難",full:"七年大災難記錄",varName:'DATA_TRIBULATION',color:"#e94560"},
   suicide:{name:"自殺",full:"自殺事件記錄",varName:'DATA_SUICIDE',color:"#ff4d6d"},
   security:{name:"治安",full:"治安與暴力犯罪",varName:'DATA_SECURITY',color:"#c77dff"},
   traffic:{name:"交通",full:"交通意外",varName:'DATA_TRAFFIC',color:"#ffb703"},
@@ -195,15 +197,20 @@ const CATS={
   medical:{name:"醫藥",full:"疫情、疫苗、醫療",varName:'DATA_MEDICAL',color:"#7CFC00"},
   economy:{name:"經濟",full:"經濟與金融",varName:'DATA_ECONOMY',color:"#ffb020"},
   ai_safety:{name:"AI安全",full:"AI 安全與監控",varName:'DATA_AI_SAFETY',color:"#00f3ff"},
-  religion:{name:"宗教",full:"宗教記錄",varName:'DATA_RELIGION',color:"#ffd166"},
-  apocalypse:{name:"末世預言",full:"末世預言記錄",varName:'DATA_APOCALYPSE',color:"#e94560"},
-  heatstroke:{name:"中暑",full:"中暑",varName:'DATA_HEATSTROKE',color:"#f77f00"},
+  heatstroke:{name:"中暑昏迷",full:"中暑",varName:'DATA_HEATSTROKE',color:"#f77f00"},
   sudden:{name:"猝死",full:"猝死記錄",varName:'DATA_SUDDEN',color:"#ff4d6d"},
-  faint:{name:"暈倒",full:"暈倒",varName:'DATA_FAINT',color:"#8ecae6"},
 };
-/* 15 類平級（依 priority 順序：自殺>治安>交通>火警>遇溺>天災>意外>醫藥>經濟>AI安全>宗教>末世預言>中暑>猝死>暈倒）*/
+/* 14 類平級（依 priority 順序：宗教>七年大災難>自殺>治安>交通>火警>遇溺>天災>意外>醫藥>經濟>AI安全>中暑昏迷>猝死）*/
 const ORDER=Object.keys(CATS);
 const GROUP_ORDER=['ALL'];
+const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};
+const CAT2GROUP={};
+ORDER.forEach(k=>{CAT2GROUP[k]='ALL';});
+
+const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};
+const CAT2GROUP={};
+ORDER.forEach(k=>{CAT2GROUP[k]='ALL';});
+
 const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};
 const CAT2GROUP={};
 ORDER.forEach(k=>{CAT2GROUP[k]='ALL';});
