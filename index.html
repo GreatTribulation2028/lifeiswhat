@@ -261,20 +261,34 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .subkw-fill{height:100%;border-radius:4px;transition:width 1s ease;background:linear-gradient(90deg,var(--sudden),rgba(212,169,83,.7))}
 .subkw-count{width:44px;text-align:right;color:var(--text-bright);font-family:var(--f-head);font-size:13px;flex-shrink:0}
 
-/* ===== 十一災情導航（Kimi 2026-09-29）===== */
-.catnav{margin:10px auto;max-width:960px;padding:10px 14px;display:flex;
-  align-items:center;gap:12px;flex-wrap:wrap;
+/* ===== 災情報告導航 v2（9 大分類 → 18 類 → 89 小分類，2026-10-01）===== */
+.catnav{margin:10px auto;max-width:960px;padding:10px 14px;
   background:rgba(8,14,22,.92);border:1px solid rgba(255,107,53,.35);
   border-radius:8px;font-family:'Share Tech Mono',ui-monospace,monospace}
+.catnav-row1{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding-bottom:8px;
+  border-bottom:1px dashed rgba(255,255,255,.12)}
+.catnav-row2{display:flex;align-items:flex-start;gap:12px;flex-wrap:wrap;padding-top:8px}
 .catnav-label{color:#ff6b35;font-size:12px;letter-spacing:2px;white-space:nowrap;
   text-shadow:0 0 8px rgba(255,107,53,.6)}
-.catnav-btns{display:flex;flex-wrap:wrap;gap:6px}
-.catnav-btns a{padding:4px 12px;font-size:13px;color:#cfd8e3;text-decoration:none;
-  border:1px solid rgba(255,255,255,.18);border-radius:4px;
+.catnav-label2{color:#5c7086;font-size:11px;letter-spacing:1.5px;white-space:nowrap;padding-top:3px}
+.catnav-groups{display:flex;flex-wrap:wrap;gap:6px;flex:1}
+.catnav-groups a.grp{display:flex;align-items:center;gap:5px;padding:5px 11px;font-size:13px;
+  color:#cfd8e3;text-decoration:none;border:1px solid rgba(255,107,53,.3);border-radius:4px;
+  background:rgba(255,107,53,.08);font-weight:bold;transition:all .15s}
+.catnav-groups a.grp .gi{font-size:14px;line-height:1}
+.catnav-groups a.grp:hover{color:#000;background:#ff6b35;border-color:#ff6b35;
+  box-shadow:0 0 12px rgba(255,107,53,.7)}
+.catnav-btns{display:flex;flex-wrap:wrap;gap:5px;flex:1}
+.catnav-btns a{padding:3px 10px;font-size:12px;color:#cfd8e3;text-decoration:none;
+  border:1px solid rgba(255,255,255,.18);border-radius:3px;
   background:rgba(255,255,255,.04);transition:all .15s}
 .catnav-btns a:hover{color:#000;background:#ff6b35;border-color:#ff6b35;
   box-shadow:0 0 12px rgba(255,107,53,.7)}
-@media(max-width:640px){.catnav{flex-direction:column;align-items:flex-start;gap:8px}}
+@media(max-width:640px){
+  .catnav{padding:8px 10px}
+  .catnav-row1,.catnav-row2{flex-direction:column;align-items:flex-start;gap:6px}
+  .catnav-label2{padding-top:0}
+}
 
 </style>
 </head>
