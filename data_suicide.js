@@ -1,4 +1,4 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3642 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3633 條
 var DATA_SUICIDE = `
 2026-10-01	無照保母虐1歲嬰呼巴掌、K頭奪命 眼睛上吊還說「應該沒事」	https://www.ettoday.net/news/20261001/3247062.htm	未分類
 2026-09-30	（有片）以媒：預警客機飛行員或意圖墜機 當局循「自殺未遂或試圖蓄意墜機」調查	https://news.google.com/rss/articles/CBMiekFVX3lxTE1pamg3cUhwM2RzLWl0OEZma2pYZ2lkYmRCTlZLX3g0OThNNjZ0VEdhQ1VqLThTZ0V2N2JEYXZwZnpCbHUzZWlyR3J4Y2JacTlBZTA5U1B0dVg1Z2R0OXQyeVJ4S1doN2JvazNfVTJsS19UdjhzUGYzQ3B3?oc=5	未分類
@@ -96,7 +96,6 @@ var DATA_SUICIDE = `
 2026-09-29	阿滴昔陷憂鬱症！還原「2度試圖輕生」傳遺書告別嚇壞滴妹： 不覺得會好	https://www.msn.com/zh-tw/health/other/阿滴昔陷憂鬱症-還原-2度試圖輕生-傳遺書告別嚇壞滴妹-不覺得會好/ar-AA1IMK78?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2026-09-29	阿根廷飛行教練奪門跳機自殺 22歲女學員臨危不亂安全降落	https://www.stheadline.com/realtime-world/3591799/阿根廷飛行教練奪門跳機自殺-22歲女學員臨危不亂安全降落	未分類
 2026-09-29	阿根廷一名哨兵 在總統官邸外自殺	https://www.worldjournal.com/wj/story/121480/9210382	未分類
-2026-09-29	阿富汗宗教活動遭自殺攻擊 釀逾50死80傷	https://www.setn.com/news/459536	未分類
 2026-09-29	阿富汗南部「自殺炸彈」襲軍警釀5死數十學童婦孺遭殃| 國際	https://www.setn.com/news/286288	未分類
 2026-09-29	防止自殺會：25年整體自殺率2020年以來最低 兒童青少年自殺率近10 年最高	https://www.bastillepost.com/hongkong/article/16469773-防止自殺會：25年整體自殺率2020年以來最低-兒童青少	未分類
 2026-09-29	防止自殺會拓家長支援 防子女自殺	https://www.hkej.com/dailynews/hknews/article/4505239/防止自殺會拓家長支援+防子女自殺	未分類
@@ -139,7 +138,6 @@ var DATA_SUICIDE = `
 2026-09-29	過去3年91宗學童自殺 中學生佔9成	https://www.881903.com/news/amp/local/2637350	未分類
 2026-09-29	過去3年91宗中小學生自殺身亡 本學年轉介醫管局個案達330宗已超去年	https://www.orangenews.hk/hongkong/VNRQHpV/過去3年91宗中小學生自殺身亡-本學年轉介醫管局個案達330宗已超去年.shtml	未分類
 2026-09-29	過去3學年錄85宗中小學生自殺個案 蔡若蓮：暫無計劃增加學校社工人手	https://www.orangenews.hk/hongkong/V0MEdrJ/過去3學年錄85宗中小學生自殺個案-蔡若蓮-暫無計劃增加學校社工人手.shtml	未分類
-2026-09-29	逾千項研究整合顯示：長期穩定宗教參與減低自殺、憂鬱風險	https://www.gospelherald.com/news/ia2lnsassa7y	未分類
 2026-09-29	通緝犯畏罪燒炭自盡未成 警救援並查出毒品偽牌	https://tw.news.yahoo.com/通緝犯畏罪燒炭自盡未成-警救援並查出毒品偽牌-065641328.html	未分類
 2026-09-29	這是在拉尼盧格自殺的科索沃警察	https://indeksonline.net/zh-TW/ky-eshte-polici-kosovar-qe-kreu-vetevrasje-ne-ranillug6/	未分類
 2026-09-29	迪士尼世界客人在當代度假村“明顯自殺”身亡	https://citytimes.tw/娛樂/迪士尼世界客人在當代度假村明顯自殺身亡/209795/	未分類
@@ -1183,7 +1181,6 @@ var DATA_SUICIDE = `
 2026-09-29	安樂死合法化？石崇良直言「加工自殺」：台灣尚無共識	https://tw.news.yahoo.com/安樂死合法化-石崇良直言-加工自殺-台灣尚無共識-032527547.html	未分類
 2026-09-29	安徽13歲男孩疑電梯內自慰 遭鄰居舉報後墮樓亡 留控訴家暴遺言	https://www.hk01.com/大國小事/60293279/安徽13歲男孩疑電梯內自慰-遭鄰居舉報後墮樓亡-留控訴家暴遺言	未分類
 2026-09-29	守護長者心靈-佳里榮家攜手七股區衛生所辦理自殺防治宣導講座	https://www.fclnews.com/185729/	未分類
-2026-09-29	守護心靈之光：正視香港學界自殺問題的6個成因與出路 ︳高主教書院前校長楊世德專欄	https://std.stheadline.com/parenting/3531433/守護心靈之光正視香港學界自殺問題的6個成因與出路-高主教書院前校長楊世德專欄	未分類
 2026-09-29	學霸自殺… 華裔博士揭華人家長盲點忽略孩子憂鬱警訊| 美國綜合| 美國 | 世界新聞網	https://www.worldjournal.com/wj/amp/story/121172/9549462	未分類
 2026-09-29	學童自殺︱過去3年近百宗中小學生自殺 九成為中學生 25/26學年至今轉介個案已超越上學年	https://www.stheadline.com/society/3586402/學童自殺過去3年近百宗中小學生自殺-九成為中學生-2526學年至今轉介個案已超越上學年	未分類
 2026-09-29	學童自殺率高 教育改革急切 「科技鐵三角」催生歪風	https://www.hkej.com/dailynews/culture/article/4519041/%E5%AD%B8%E7%AB%A5%E8%87%AA%E6%AE%BA%E7%8E%87%E9%AB%98-%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9%E6%80%A5%E5%88%87--%E7%A7%91%E6%8A%80%E9%90%B5%E4%B8%89%E8%A7%92-%E5%82%AC%E7%94%9F%E6%AD%AA%E9%A2%A8	未分類
@@ -1393,7 +1390,6 @@ var DATA_SUICIDE = `
 2026-09-29	刑事特搜／前妻結交已婚男引殺機 醋男砍死情敵再燒炭輕生	https://tw.news.yahoo.com/刑事特搜-前妻結交已婚男引殺機-醋男砍死情敵再燒炭輕生-222859112.html	未分類
 2026-09-29	凱莉·安德伍德在“美國偶像”自殺致敬試鏡中哭泣	https://citytimes.tw/資訊/凱莉·安德伍德在美國偶像自殺致敬試鏡中哭/589417/	未分類
 2026-09-29	凱施餅店創辦人蕭偉堅追賊墮樓亡！從麵包大亨變破產老翁	https://businessfocus.io/article/355036/凱施餅店-蕭偉堅-麵包大亨	未分類
-2026-09-29	凝視自殺者遺族心中濃霧──陳韶君《吹得到海風的地方》告別與告解之行	https://www.twreporter.org/a/tidf-2026-where-the-sea-breeze-blows	未分類
 2026-09-29	六旬翁因離婚圖自殺向破門消防潑通渠水 判囚32個月	https://www.am730.com.hk/article/1024864	未分類
 2026-09-29	六旬翁因離婚圖自殺 見消防破門潑通渠水 認淋腐液罪囚32月	https://www.hk01.com/article/60340000	未分類
 2026-09-29	六四36週年 黃國昌po 罹難者遺書反極權	https://www.msn.com/zh-tw/news/opinion/六四36週年-黃國昌po罹難者遺書反極權/ar-AA1G2g4F?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t	未分類
@@ -1560,7 +1556,6 @@ var DATA_SUICIDE = `
 2026-09-29	「中國搶奪我們資源！」巴國自殺炸彈客攻擊中國領事館	https://www.setn.com/news/460784	未分類
 2026-09-29	《鐵拳教育》現實版！韓師遭家長逼道歉後輕生 留遺書：我沒說謊	https://www.nownews.com/news/6859869	未分類
 2026-09-29	《親愛的X》結局劇版&漫畫6差異！漫畫白雅珍毀容，尹俊瑞割碗自殺，這人氣角色竟沒死	https://www.beauty321.com/amp/post/70539	未分類
-2026-09-29	《紅人榜》蔡恩霖27歲弟驟逝！救回輕生哥卻換他先走 病房禱告心碎「忍痛放手」	https://tw.news.yahoo.com/紅人榜-蔡恩霖27歲弟驟逝-救回輕生哥卻換他先走-病房禱告心碎-忍痛放手-050300298.html	未分類
 2026-09-29	《當你所愛的人想不開》：六個關於自殺的迷思，這些錯誤觀念正在傷害你最愛的人	https://www.thenewslens.com/article/266453	未分類
 2026-09-29	《父母爱情》原著：军官太太安杰生7子，上吊自杀一生痛苦	https://yule.360.com/detail/4763594	未分類
 2026-09-29	《深度安靜》女主角其實沒自殺？！林依晨：她很想活下去！	https://tw.news.yahoo.com/《深度安靜》女主角其實沒自殺？！林依晨：她很想活下去！-115132081.html	未分類
@@ -2601,7 +2596,6 @@ var DATA_SUICIDE = `
 2026-03-25	《豆腐媽媽》替身墜樓酬勞曝！未婚妻控「民視播出事故畫面」：二度傷害	https://tw.news.yahoo.com/豆腐媽媽-替身墜樓酬勞曝-未婚妻控-民視播出事故畫面-二度傷害-020800063.html	未分類
 2026-03-25	IG驚見友人尋短宣言，永康警深夜奔波阻憾事	https://n.yam.com/Article/20260325817030	未分類
 2026-03-23	薩爾塔市在不到 24 小時內發生了 5 起自殺事件，情況令人震驚	https://www.arch-web.com.tw/综合新闻/薩爾塔市在不到-24-小時內發生了-5-起自殺事件，情況/584629/	未分類
-2026-03-22	高雄教會60歲婦人墜樓重傷 從6樓空中花園墜落2樓天井送醫	https://tw.news.yahoo.com/高雄教會60歲婦人墜樓重傷-從6樓空中花園墜落2樓天井送醫-071112143.html	未分類
 2026-03-22	《豆腐媽媽》替身墜樓1 個月未婚妻開頻道曝未來動向	https://www.msn.com/zh-tw/entertainment/news/豆腐媽媽-替身墜樓1個月-未婚妻開頻道曝未來動向/ar-AA1WPkQS?cvid=90bf02807fc04022d5e00a8e26ca26a4&ocid=backredirect2vlp&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-03-21	開學日成悲劇! 新北12 歲女童墜樓亡警排除外力介入教育局啟動關懷機制	https://www.msn.com/zh-tw/news/national/開學日成悲劇-新北12歲女童墜樓亡-警排除外力介入教育局啟動關懷機制/ar-AA1WRHDb?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-03-21	蘇格蘭議會否決協助自殺合法化 病患權益再受關注	http://www.msn.com/zh-hk/news/world/蘇格蘭議會否決協助自殺合法化-病患權益再受關注/ar-AA1YSwWe	未分類
@@ -2633,7 +2627,6 @@ var DATA_SUICIDE = `
 2026-03-14	談判變情殺！她遭狠男友割頸亡 養母認屍錯愕：不認識他	https://news.pchome.com.tw/society/ctinews/20260314/index-77346037665804309002.html	未分類
 2026-03-14	紅磡邨老翁難忍病魔折磨 單位洗手間自縊亡	https://hk.on.cc/hk/bkn/cnt/news/20260314/bkn-20260314202745211-0314_00822_001.html	未分類
 2026-03-14	珍惜生命｜葵涌華荔邨婦人洗手間自縊 丈夫深夜揭發惜返魂無術	https://std.stheadline.com/breaking-news/3552699/珍惜生命葵涌華荔邨婦人洗手間自縊-丈夫深夜揭發惜返魂無術	未分類
-2026-03-14	方力申太太｜港大舉行自傳分享會大談被邪教洗腦過程 葉萱剖白走出尋死低谷：女兒是最大力量	https://news.google.com/rss/articles/CBMi1gRBVV95cUxQT1J3RjM4UDlRMVlDSXFhTC1JMHJvQ1N6V1NGd0ozcHpvR0ZCRGRHbHk4RFIxNV9HUktlSG1oMkhOQ0lDWXJISm96a3YyeHV4N1JCSEZYeVlYbjFySGRkMUdjZ0wtOFF1UWpsSko3a3VLQkMxWUFoUVNONVpTZmdrOUZiU0ZWc0Vyc1dlaWM4OERWRWt5bjgwcTA3N3hjbVZ4WGJkQjBzSUMzN0JVd19iVFo2aVVMcS1VSUNoaEtnRTZtWDVjTmdSdWNvU256VnFkRzhjaU5jeW0wY1piRy0zWlNRblBjc09VcExmVlZKQjRXUnNrcW1GOWlsU0ZhUGVsXzlYTWJHdENiTHAta01pSEhZYnZ5VXFNUWx6NEtVYU9wZU9CSGUzTmY5M1dBOVlIQXpiTUdYWGF1NlFrNEhSNkduR2h1ZU1PbEFmR0RiZ09WOGVEaUVEcnhtYjRhdy12XzQxUDI2RmlGbUh4UVduZU4zWXFDQ1VpSjFUcVAyUEZKbjUyNnR3ZTJCVmkzM3RJYTIwMGpsRHVRRmZTNGljcTBFelZZNzRFOVVYT190Z2ExUXc2Q2NJVTg4azhKQ2Q1TFpqNTBvTWxuRE9UQ1RQc2owdkxjWkh3cldGbUxaMGR1ZjZGX2VjaEtPbE5LV2xhOEMwLS1tUzAwNGktaDM2TVgta0d6djNqODltM0d2MjE5Y2VZdlFXS09pYmJjaXI0b1V3X19hU290QV9TRTFlTGE4R1dKMUwzZTB3dkJ0NGowQjAtM1Z0N0tMaktSOWpuSk13ZmRB?oc=5	未分類
 2026-03-14	印度軟體工程師疑因工作壓力輕生，IT 業過勞與心理健康再受關注	https://news.pchome.com.tw/finance/sunmedia/20260314/index-77348486934917329003.html	未分類
 2026-03-14	今日信報- 港聞- 精神復原人士照顧者兩成有自殺自殘念頭- 信報網站hkej.com	https://www.hkej.com/dailynews/hknews/article/4341039/精神復原人士照顧者--兩成有自殺自殘念頭	未分類
 2026-03-13	研究指精神復元人士照顧者壓力較高 更曾現自殺念頭 倡加強支援服務認知	https://www.i-cable.com/新聞資訊/446181/研究指精神復元人士照顧者壓力較高-更曾現自殺	未分類
@@ -2867,7 +2860,6 @@ var DATA_SUICIDE = `
 2025-12-24	長沙灣山坡男子自縊 行山客揭發證當場氣絕	https://hk.on.cc/hk/bkn/cnt/news/20251224/bkn-20251224081246275-1224_00822_001.html	未分類
 2025-12-24	男子長沙灣山坡上吊亡 (10:21) - 20251224 - 港聞	https://news.mingpao.com/ins/港聞/article/20251224/s00001/1766542690927/男子長沙灣山坡上吊亡	未分類
 2025-12-24	上環財困婦以領呔上吊 家人解下惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20251224/bkn-20251224203743347-1224_00822_001.html	未分類
-2025-12-23	南卡牧師被控網絡跟蹤亡妻，自殺悲劇揭開驚人細節	https://www.singtaousa.com/2025/12/23/news/usa/south-carolina-pastor-charged-with-allegedly-cyberstalking-wife-before-she-died-by-suicide/	未分類
 2025-12-22	詹姆斯兰索恩上吊自杀去世 曾出演《火线》等	https://www.bannedbook.org/bnews/yule/20251222/2268026.html	未分類
 2025-12-22	粉嶺男子家庭問題自縊 妻子發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20251222/bkn-20251222174746854-1222_00822_001.html	未分類
 2025-12-22	好莱坞知名男星家中去世，初步判定为上吊自杀(美中報道）	http://www.uschinews.com/static/content/WHT/2025-12-22/1452775613060382720.html	未分類
@@ -2980,7 +2972,6 @@ var DATA_SUICIDE = `
 2025-10-13	裝死躲過哈馬斯屠殺！目睹女友命喪槍口、媽輕生亡 他2年後走絕路	https://news.pchome.com.tw/internation/crwant/20251012/index-76025606860101316011.html	未分類
 2025-10-13	珍惜生命｜壽山村道女子吊頸輕生7月大女兒倒斃房內丈夫揭發報案- 港聞	https://www.dotdotnews.com/a/202510/13/AP68ecc15ce4b08d290539fd54.html	未分類
 2025-10-13	快訊／ 北市寧夏夜市內男子墜樓命危送醫搶救無效身亡	https://www.msn.com/zh-tw/news/national/%E5%BF%AB%E8%A8%8A-%E5%8C%97%E5%B8%82%E5%AF%A7%E5%A4%8F%E5%A4%9C%E5%B8%82%E5%85%A7%E7%94%B7%E5%AD%90%E5%A2%9C%E6%A8%93%E5%91%BD%E5%8D%B1%E9%80%81%E9%86%AB-%E6%90%B6%E6%95%91%E7%84%A1%E6%95%88%E8%BA%AB%E4%BA%A1/ar-AA1MNYE2?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-2025-10-13	來不及說再見！台中「男子教會旁墜樓身亡」	https://news.pchome.com.tw/society/ctinews/20251012/index-76023916547253309002.html	未分類
 2025-10-12	凌晨手持麻绳爬树 外劳上吊自缢	https://eastcoast.chinapress.com.my/20251012/凌晨手持麻绳爬树-外劳上吊自缢/	未分類
 2025-10-10	麦浚龙被曝拍“真上吊”戏，替身演员被悬挂1分钟之久，任贤齐当场罢演，武指熊欣欣斥其心理变态	https://www.cnhan.com/html/yule/20251009/1125218.htm	未分類
 2025-10-10	男子板橋府中商圈墜樓命危 現場留大片血跡路人嚇壞	https://news.pchome.com.tw/society/crwant/20251009/index-76000345491058316002.html	未分類
