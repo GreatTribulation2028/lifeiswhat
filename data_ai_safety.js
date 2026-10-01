@@ -1,4 +1,4 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 731 條
+// AI安全 | 由 build_news_js.py 生成 | 共 729 條
 var DATA_AI_SAFETY = `
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5cWtMY1hYWG5VTXVycGU5YzY1NjQyblFYOVZBWjctNFlaeTJoZTE2TTRkXzIyT3UzWHB0bnhHS2lMRkxoUk5PTlZPSE94QVctaXFqcjFrVVA?oc=5	未分類
 2026-10-01	Citrix NetScaler漏洞被用於攻擊北美與歐洲組織，駭客藉此散布惡意程式WhipShot與SlapShot	https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPdzJyTUhHQUxFZVJjQjJDMVM3TElUeGxXSlhoaURMaHNmN3pKVlBuVXdKdXRUYlFEUURHemxyNDZ4Q2dLXzlQNGtnUUpSUQ?oc=5	未分類
@@ -373,7 +373,6 @@ var DATA_AI_SAFETY = `
 2026-09-29	【資安日報】7月3日，駭客利用Azure CLI發動大規模密碼噴灑攻擊	https://www.ithome.com.tw/news/177072	未分類
 2026-09-29	【網絡安全】結好自爆伺服器遭網絡攻擊、期貨電子交易尚未 ...	https://inews.hket.com/article/4165033/【網絡安全】結好自爆伺服器遭網絡攻擊、期貨電子交易尚未恢復 未有證據顯示資料被誤用	未分類
 2026-09-29	【有能源公司遭網絡攻擊數百萬客戶資料或外洩】 ...	https://www.facebook.com/SBSCantonese/posts/有能源公司遭網絡攻擊-數百萬客戶資料或外洩能源公司origin-energy證實遭受網絡攻擊數百萬名客戶的個人資料可能已被黑客盜取黑客透過傳媒表示資料包含銀行戶/1583098773827403/	未分類
-2026-09-29	【智商稅定係末日？】OpenAI Astra 變身最強駭客！搵0-day ...	https://www.facebook.com/100064560465105/posts/智商稅定係末日openai-astra-變身最強駭客搵-0-day-漏洞仲勁過人各位巴絲打仲記唔記得之前講過-ai-網絡攻擊今次-openai-真係整咗隻怪物出/1481693040659364/	未分類
 2026-09-29	【小心⚠️】網絡安全研究機構VulnCheck 發出警告，指控 ...	https://www.instagram.com/p/DbsJwRFD4kR/	未分類
 2026-09-29	【專訪】從漏洞揭露到實戰利用只剩幾小時！AWS 安全與基礎設施副總裁Hart Rossman：駭客攻擊自動化，企業如何重構安全防線？	https://www.inside.com.tw/article/42263-aws_securityinfra_hartrossman	未分類
 2026-09-29	【大型醫療機構遭網絡攻擊延遲逾三星期通報】 一個在雪梨和 ...	https://www.facebook.com/SBSCantonese/posts/大型醫療機構遭網絡攻擊-延遲逾三星期通報一個在雪梨和墨爾本等多個城市都有診所的醫療集團在上月底遭到網絡攻擊病人的個人資訊外洩專家批評由事件發生到通知受影響人士相/1577314084405872/	未分類
@@ -476,7 +475,6 @@ var DATA_AI_SAFETY = `
 2026-09-29	FBI與CISA更新Signal通訊軟體釣魚攻擊警示，備份金鑰成為俄羅斯駭客最新攻擊目標	https://www.ithome.com.tw/news/176929	未分類
 2026-09-29	Dropbox股價盤後下跌，駭客入侵事件引發市場憂慮 作者 Investing.com	https://hk.investing.com/news/stock-market-news/article-93CH-1638283	未分類
 2026-09-29	Drift駭客將4,440萬美元ETH轉入Tornado Cash	https://financefeeds.com/zh/drift-hacker-285m-tornado-cash-move/	未分類
-2026-09-29	Dragonfly合夥人：DeFi「駭客末日」並未兌現，2026年被盜金額年化僅18.9億美元| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/dragonfly-defi-hacker-end-not-realized-2026-stolen-189-billion-annualized/	未分類
 2026-09-29	DigiCert資料外洩事故傳出是中國駭客GoldenEyeDog旗下子團體所為	https://www.ithome.com.tw/news/177429	未分類
 2026-09-29	DSE 放榜選科建言投身香港網絡安全產業	https://it.ctgoodjobs.hk/columnist/174-48087/dse-放榜選科建言-投身香港網絡安全產業	未分類
 2026-09-29	DDoS攻擊是什麼？如何進行DDoS防禦防護？攻擊原理手法 ...	https://sites.google.com/qpfb.pzongx.com/yznc2w/	未分類
