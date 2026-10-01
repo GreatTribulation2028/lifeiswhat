@@ -261,7 +261,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .subkw-fill{height:100%;border-radius:4px;transition:width 1s ease;background:linear-gradient(90deg,var(--sudden),rgba(212,169,83,.7))}
 .subkw-count{width:44px;text-align:right;color:var(--text-bright);font-family:var(--f-head);font-size:13px;flex-shrink:0}
 
-/* ===== 災情報告分類網格（2026-10-01 重排）===== */
+/* ===== 災情報告分類網格（2026-10-01）===== */
 .catnav{margin:14px auto;max-width:1080px;padding:16px 18px;
   background:rgba(8,14,22,.94);border:1px solid rgba(255,107,53,.30);
   border-radius:10px;font-family:'Share Tech Mono',ui-monospace,monospace}
@@ -270,10 +270,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .catnav-label{color:#ff6b35;font-size:15px;letter-spacing:3px;font-weight:bold;
   text-shadow:0 0 10px rgba(255,107,53,.5)}
 .catnav-meta{color:#5c7086;font-size:11.5px;letter-spacing:1px}
-
-.catnav-grid{display:grid;gap:9px;
-  grid-template-columns:repeat(auto-fill,minmax(126px,1fr))}
-
+.catnav-grid{display:grid;gap:9px;grid-template-columns:repeat(auto-fill,minmax(126px,1fr))}
 .cc{display:flex;flex-direction:column;align-items:center;justify-content:center;
   gap:3px;padding:13px 8px 11px;text-decoration:none;border-radius:8px;
   border:1px solid color-mix(in srgb, var(--c) 42%, transparent);
@@ -287,7 +284,6 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .cc-n{font-size:14px;color:#e6edf3;font-weight:bold;letter-spacing:1px;
   text-shadow:0 0 8px color-mix(in srgb, var(--c) 45%, transparent)}
 .cc-c{font-size:10.5px;color:var(--c);opacity:.92;letter-spacing:.5px}
-
 @media(max-width:860px){.catnav-grid{grid-template-columns:repeat(auto-fill,minmax(104px,1fr))}
   .cc{padding:11px 6px 9px}.cc-i{font-size:21px}.cc-n{font-size:12.5px}}
 @media(max-width:460px){.catnav{padding:12px 12px}
@@ -304,23 +300,23 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <nav class="catnav">
   <div class="catnav-head">
     <span class="catnav-label">災情報告分類</span>
-    <span class="catnav-meta">15 類 · 27,921 條 · rules v3.20-SD</span>
+    <span class="catnav-meta">15 類 · 27,580 條 · rules v3.20-SD+ollie-1412</span>
   </div>
   <div class="catnav-grid">
-    <a class="cc" href="category.html?cat=economy" style="--c:#ffb020"><span class="cc-i">💰</span><span class="cc-n">經濟</span><span class="cc-c">4,773</span></a>
-    <a class="cc" href="category.html?cat=sudden" style="--c:#ff4d6d"><span class="cc-i">💀</span><span class="cc-n">猝死</span><span class="cc-c">4,755</span></a>
-    <a class="cc" href="category.html?cat=suicide" style="--c:#ff4d6d"><span class="cc-i">⚰️</span><span class="cc-n">自殺</span><span class="cc-c">4,161</span></a>
-    <a class="cc" href="category.html?cat=medical" style="--c:#7CFC00"><span class="cc-i">🏥</span><span class="cc-n">醫藥</span><span class="cc-c">3,778</span></a>
-    <a class="cc" href="category.html?cat=security" style="--c:#c77dff"><span class="cc-i">🚨</span><span class="cc-n">治安</span><span class="cc-c">2,591</span></a>
-    <a class="cc" href="category.html?cat=traffic" style="--c:#ffb703"><span class="cc-i">🚗</span><span class="cc-n">交通</span><span class="cc-c">2,512</span></a>
-    <a class="cc" href="category.html?cat=accident" style="--c:#fb8500"><span class="cc-i">⚡</span><span class="cc-n">意外</span><span class="cc-c">1,413</span></a>
-    <a class="cc" href="category.html?cat=disaster" style="--c:#00d26a"><span class="cc-i">🌋</span><span class="cc-n">天災</span><span class="cc-c">1,220</span></a>
-    <a class="cc" href="category.html?cat=fire" style="--c:#e63946"><span class="cc-i">🔥</span><span class="cc-n">火警</span><span class="cc-c">1,140</span></a>
-    <a class="cc" href="category.html?cat=drowning" style="--c:#4dc3ff"><span class="cc-i">🌊</span><span class="cc-n">遇溺</span><span class="cc-c">802</span></a>
-    <a class="cc" href="category.html?cat=ai_safety" style="--c:#00f3ff"><span class="cc-i">🤖</span><span class="cc-n">AI安全</span><span class="cc-c">678</span></a>
-    <a class="cc" href="category.html?cat=heatstroke" style="--c:#f77f00"><span class="cc-i">🌡️</span><span class="cc-n">中暑</span><span class="cc-c">88</span></a>
-    <a class="cc" href="category.html?cat=religion" style="--c:#ffd166"><span class="cc-i">⛪</span><span class="cc-n">宗教末世</span><span class="cc-c">9</span></a>
-    <a class="cc" href="category.html?cat=hepatitis" style="--c:#a0c4ff"><span class="cc-i">🩺</span><span class="cc-n">肝炎</span><span class="cc-c">1</span></a>
+    <a class="cc" href="category.html?cat=economy" style="--c:#ffb020"><span class="cc-i">💰</span><span class="cc-n">經濟</span><span class="cc-c">4,811</span></a>
+    <a class="cc" href="category.html?cat=sudden" style="--c:#ff4d6d"><span class="cc-i">💀</span><span class="cc-n">猝死</span><span class="cc-c">4,767</span></a>
+    <a class="cc" href="category.html?cat=medical" style="--c:#7CFC00"><span class="cc-i">🏥</span><span class="cc-n">醫藥</span><span class="cc-c">3,696</span></a>
+    <a class="cc" href="category.html?cat=suicide" style="--c:#ff4d6d"><span class="cc-i">⚰️</span><span class="cc-n">自殺</span><span class="cc-c">3,642</span></a>
+    <a class="cc" href="category.html?cat=security" style="--c:#c77dff"><span class="cc-i">🚨</span><span class="cc-n">治安</span><span class="cc-c">2,534</span></a>
+    <a class="cc" href="category.html?cat=traffic" style="--c:#ffb703"><span class="cc-i">🚗</span><span class="cc-n">交通</span><span class="cc-c">2,452</span></a>
+    <a class="cc" href="category.html?cat=accident" style="--c:#fb8500"><span class="cc-i">⚡</span><span class="cc-n">意外</span><span class="cc-c">1,430</span></a>
+    <a class="cc" href="category.html?cat=fire" style="--c:#e63946"><span class="cc-i">🔥</span><span class="cc-n">火警</span><span class="cc-c">1,289</span></a>
+    <a class="cc" href="category.html?cat=disaster" style="--c:#00d26a"><span class="cc-i">🌋</span><span class="cc-n">天災</span><span class="cc-c">1,275</span></a>
+    <a class="cc" href="category.html?cat=drowning" style="--c:#4dc3ff"><span class="cc-i">🌊</span><span class="cc-n">遇溺</span><span class="cc-c">831</span></a>
+    <a class="cc" href="category.html?cat=ai_safety" style="--c:#00f3ff"><span class="cc-i">🤖</span><span class="cc-n">AI安全</span><span class="cc-c">732</span></a>
+    <a class="cc" href="category.html?cat=heatstroke" style="--c:#f77f00"><span class="cc-i">🌡️</span><span class="cc-n">中暑</span><span class="cc-c">121</span></a>
+    <a class="cc" href="category.html?cat=religion" style="--c:#ffd166"><span class="cc-i">⛪</span><span class="cc-n">宗教</span><span class="cc-c">0</span></a>
+    <a class="cc" href="category.html?cat=apocalypse" style="--c:#e94560"><span class="cc-i">🔥</span><span class="cc-n">末世預言</span><span class="cc-c">0</span></a>
     <a class="cc" href="category.html?cat=faint" style="--c:#8ecae6"><span class="cc-i">😵</span><span class="cc-n">暈倒</span><span class="cc-c">0</span></a>
   </div>
 </nav>
