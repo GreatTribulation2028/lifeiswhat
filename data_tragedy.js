@@ -1,8 +1,5 @@
 // 悲劇 | 由 build_news_js.py 生成 | 共 535 條
 var DATA_TRAGEDY = `
-2026-09-01	（有片）火炭麗峰花園遇溺意外女死者為全球大型社交媒體高層- 香港	https://www.wenweipo.com/a/202609/01/AP6a965575e4b0c1e50027109d.html	未分類
-2026-05-18	（有片）深水埗富昌邨婦人猝死患病細女伴屍兩日胞姊報警揭悲劇- 香港 - 香港文匯網	https://www.wenweipo.com/a/202605/18/AP6a0abca1e4b0b49ad1bb8cb7.html	未分類
-2026-07-07	（有片）慘絕人寰！泰緬「死亡鐵路」親歷者講述日本侵略罪行- 國際 - 香港文匯網	https://www.wenweipo.com/a/202607/07/AP6a4cd1c8e4b0b49ad1c25b76.html	未分類
 2026-09-29	（有片）3歲女伴母屍4日悲劇懲教員支援在囚父為破碎家庭重燃希望- 香港 - 香港文匯網	https://www.wenweipo.com/s/202606/01/AP6a1d5411e4b0b49ad1bd9e11.html	未分類
 2026-09-29	黑龍江樓房凌晨坍塌 釀7死2傷慘劇	https://www.hk01.com/即時中國/60335550/黑龍江樓房凌晨坍塌-釀7死2傷慘劇	未分類
 2026-09-29	鰂魚涌公園69歲老翁游泳疑遇溺 獲救送院	https://www.am730.com.hk/本地/鰂魚涌公園69歲老翁游泳疑遇溺-獲救送院/630486	未分類
@@ -25,7 +22,6 @@ var DATA_TRAGEDY = `
 2026-09-29	遇溺自救｜仰漂比水母漂更能救命 專家：能保存體力增加存活概率	https://www.hk01.com/親子/60308532/遇溺自救-仰漂比水母漂更能救命-專家-能保存體力增加存活概率	未分類
 2026-09-29	跨國婚姻悲劇！韓男賣計程車娶小30歲越南妻 婚後90天猝逝	https://tw.news.yahoo.com/跨國婚姻悲劇-韓男賣計程車娶小30歲越南妻-婚後90天猝逝-233216482.html	未分類
 2026-09-29	贪玩险令儿子遇溺史匹堡封杀宾佬| 娱乐 | 2026-01-20	https://guangming.com.my/贪玩险令儿子遇溺-史匹堡封杀宾佬	未分類
-2025-09-21	警方通報于朦朧酒後意外墜樓身亡事件- 內地	https://www.tkww.hk/a/202509/21/AP68d00541e4b0f2e743958b69.html	未分類
 2026-09-29	謝賢勇救遇溺男童往事曝光 事主公開感激四哥救命之恩 還原救人一刻 身份惹關注	https://www.sundaykiss.com/熱話/謝賢-四哥-遇溺男童-救命恩人-姜中平-姜中平女兒-2415167/	未分類
 2026-09-29	討論牆 | 命運捉弄！名醫成就巔峰時「卻罹惡癌」 55歲病逝...2部位腫塊要當心	https://today.line.me/tw/v3/posts/list/article/1DeyWy8	未分類
 2026-09-29	西門町旅館男子暴斃 疑毒品濫用釀悲劇	http://www.msn.com/zh-tw/news/national/西門町旅館男子暴斃-疑毒品濫用釀悲劇/ar-AA1IY8iW?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
@@ -53,8 +49,6 @@ var DATA_TRAGEDY = `
 2026-09-29	福建4名小學生溺亡 傳其中3人是親姐弟	https://www.epochtimes.com/b5/26/4/29/n14752443.htm/amp	未分類
 2026-09-29	短剧·君以假死谋半生-第21集-豪门千金姜晚棠惊悉丈夫闻景州意外亡故，却意外发现，留下遗书的亡夫大哥闻江衍，正是假死换身	http://k.sina.com.cn/article_7879923865_m1d5ae189903301aopu.html	未分類
 2026-09-29	病婦猝逝細女伴屍兩天長女報警揭悲劇- 香港 - 香港文匯網	https://www.wenweipo.com/s/202605/19/AP6a0b76cbe4b0b49ad1bb9e9b.html	未分類
-2026-07-20	疑上岸後跣腳墮河 少年景區玩漂流遇溺亡	https://hk.on.cc/hk/bkn/cnt/news/20260720/bkn-20260720190529723-0720_00822_001.html	未分類
-2026-08-18	男子紀念日狂歡失足墮亡 演唱會墮樓慘劇列為意外	https://www.singtaousa.com/2026/08/18/news/usa/man-falls-death-concert-accident/	未分類
 2026-09-29	男子大美督三鐵賽疑遇溺亡 大會稱事發時現場合適開賽	https://www.orangenews.hk/hongkong/VRC6Kfv/男子大美督三鐵賽疑遇溺亡-大會稱事發時現場合適開賽.shtml	未分類
 2026-09-29	產後精神病釀悲劇？母親殺死3幼子 陪審團1票卡關恐重新審判	https://udn.com/news/amp/story/6813/9735927	未分類
 2026-09-29	瑪琉岩瀑布｜女子玩懸崖鞦韆意外墜亡 出發前狂喊安全繩「沒綁緊」	https://www.stheadline.com/realtime-china/3569253/瑪琉岩瀑布女子玩懸崖鞦韆意外墜亡-出發前狂喊安全繩沒綁緊	未分類
@@ -83,7 +77,6 @@ var DATA_TRAGEDY = `
 2026-09-29	河南暴雨8隻巨禽慘遭急流沖走 網民直擊遇溺畫面揭露最終驚人下場	https://www.gotrip.hk/人氣話題/河南暴雨-鴕鳥漂流-鴕堅強-1902089/	未分類
 2026-09-29	河南女河中遇溺狂掙扎 8歲兒哭着扯母上岸救命：媽媽還在真好	https://www.hk01.com/大國小事/60365599/河南女河中遇溺狂掙扎-8歲兒哭着扯母上岸救命-媽媽還在真好	未分類
 2026-09-29	沙田城門河女子疑遇溺呼救 途人聞聲報警求助	https://www.am730.com.hk/本地/沙田城門河女子疑遇溺呼救-途人聞聲報警求助/618440	未分類
-2026-05-09	江蘇一遊樂場風車船側翻 6學生落水2人溺亡	https://www.ntdtv.com/b5/2026/05/09/a104094498.html	未分類
 2026-09-29	母親帶女嬰浸藥浴治感冒 4個月大女嬰長時間浸泡高溫藥浴釀悲劇	https://www.hk01.com/親子/60317198/母親帶女嬰浸藥浴治感冒-4個月大女嬰長時間浸泡高溫藥浴釀悲劇	未分類
 2026-09-29	殯儀館老闆遭剪式升降台夾死 單獨操作釀慘劇	https://www.am730.com.hk/國際/1021013/殯儀館老闆遭剪式升降台夾死-單獨操作釀慘劇	未分類
 2026-09-29	歐洲提早現熱浪 英法打破5 月最熱紀錄多人消暑遇溺亡	https://www.bastillepost.com/hongkong/article/16065638-歐洲熱浪破紀錄多國發警告-倫敦錄罕見熱帶夜	未分類
@@ -149,7 +142,6 @@ var DATA_TRAGEDY = `
 2026-09-29	家居慘劇｜屋內異常安靜 哥國母驚見4歲兒洗衣機溺斃 - singtao.ca	https://news.google.com/rss/articles/CBMi8wJBVV95cUxOZi1YZkg1WVBQNnlmY0czOXJxUzRMbEtpQ3lIZFhPbGh3akwtaTJEeDRwWVI1ekI2ZEtFZFBXMV9OalBwQkR4b09jYmE5Q1JLYUpCSFNHdTRKQTRTLXNMSE15WHR4b0ZPR0VwZWVWMkJyMXFSUEh6VFV1ZDRranN6Z1hOQlQ3M1drc2pEZkNobGNfREdOcFAyXzZ1Q25DSWxlSjAtbGRZZmxwVDNpTUNhRXhyTnJFbmw3eUNXb2YyUzhqYmZEdmltQm4teTJWOG41SDRkT0tITkhacDROOTZORXJpZ051OS1hLWxLMTBnWnhfR1VMUnZScFhkU0k3N1BiZldHeUNqbnFjOFVmNFh1bzJ5Sm5lZWtVZlIxeUZYZlQ4UDRSaWgzRU15ZWhCU2dDZ1J6ZWFuYndmUVJXRU5mQVpYS0NYRlhYVzlrOTVPYUt2RkIycEtzZXNyZkdtejBzbk9RNFB3QTVUR014enp3QVY3UdIBigFBVV95cUxPVHdRUTg0RW9lajZETGIwc081SmJhRVZCa1V3aU1jMXAtaUJ2TDlLWmtYd0JFNXFMYm5Vblg2RTR6SXVLLWpIUC03ZWFXM0lHMU43VFR1V21LUVNYWk1MUmQxN3R3YTRrWGJPRk81TlhtR29YN2E4RlRuM091V2JZT0w4V29EcEVkNkE?oc=5	未分類
 2026-09-29	宏福苑聽證會｜火勢20秒由低層直撲31樓 專組歸納五大原因釀慘劇	https://www.stheadline.com/society/3586488/宏福苑聽證會火勢20秒由低層直撲31樓-專組歸納五大原因釀慘劇	未分類
 2026-09-29	好市民奖｜港男无惧台风驾艇救起3遇溺者 屈臣氏外籍高层勇救堕海女子	https://www.stheadline.com/zh-hans/tv/tv-news/3552797/好市民奖港男无惧台风驾艇救起3遇溺者-屈臣氏外籍高层勇救堕海女子	未分類
-2026-09-16	女子黃河畔約會後失蹤溺亡 其母認為有疑點	https://hk.on.cc/hk/bkn/cnt/news/20260916/bkn-20260916040552137-0916_00822_001.html	未分類
 2026-09-29	女大生新竹遭泥水沖倒！頭卡護欄溺亡 嘉義大學回應了	https://tw.news.yahoo.com/女大生新竹遭泥水沖倒-頭卡護欄溺亡-嘉義大學回應了-054625615.html	未分類
 2026-09-29	奋不顾身跳河救出遇溺父女 女子获颁英勇奖章	https://info.vanpeople.com/1904242.html	未分類
 2026-09-29	太古城母女墮樓慘劇 女童早上曾送院警通報社署跟進 其後由父陪同回家	https://www.bastillepost.com/hongkong/article/16146280-太古城母女墮樓慘劇-女童早上曾送院警通報社署跟	未分類
@@ -185,7 +177,6 @@ var DATA_TRAGEDY = `
 2026-09-29	印度東部寺廟發生人踩人慘劇 至少7人亡	https://www.kinliu.hk/news/環球/印度東部寺廟發生人踩人慘劇-至少7人亡/232570.html?id=80&from=home&bc1=首頁&bc1to=/	未分類
 2026-09-29	卑詩今年42人溺亡 公園設救生衣借用站未獲批	https://www.epochtimes.com/b5/26/9/8/n14844945.htm	未分類
 2026-09-29	北漂孫親睹100歲爺爺遭溺亡 暫不火化淚批：光復早在預警範圍！	https://tw.news.yahoo.com/北漂孫親睹100歲爺爺遭溺亡-暫不火化淚批-光復早在預警範圍-140557118.html	未分類
-2026-01-25	北京跟團遊悲劇｜六旬漢連續兩日清晨集合猝死 家屬告贏旅行社獲賠35萬	https://www.singtaousa.com/2026/01/25/news/china/tourist-dies-after-early-morning-tours-beijing/	未分類
 2026-09-29	加拿大少女澳洲克加里島遇溺亡 驗屍指死前曾遭野狗追咬	https://news.tvb.com/en/1146791-加拿大少女澳洲克加里島遇溺亡驗屍指死前曾遭野狗追咬	未分類
 2026-09-29	加密貨幣暴跌傳悲劇！ 烏克蘭知名交易員「頭部中彈」陳屍藍寶堅尼	https://tw.news.yahoo.com/加密貨幣暴跌傳悲劇-烏克蘭知名交易員-頭部中彈-陳屍藍寶堅尼-123700066.html	未分類
 2026-09-29	六旬漢鰂魚涌游早泳 疑抽筋遇溺獲救	https://www.i-cable.com/新聞資訊/422311/六旬漢鰂魚涌游早泳-疑抽筋遇溺獲救	未分類
@@ -211,7 +202,6 @@ var DATA_TRAGEDY = `
 2026-09-29	东张西望｜三妙龄女子坠海险遇溺 演员白梓轩即除衫落海救人	https://global.hk01.com/即时娱乐/60339136/东张西望-三妙龄女子坠海险遇溺-演员白梓轩即除衫落海救人	未分類
 2026-09-29	世足／妹妹被下藥！19歲新星淚曝亡妹悲劇：每顆進球都為她而踢	https://tw.news.yahoo.com/世足-妹妹被下藥-19歲新星淚曝亡妹悲劇-每顆進球都為她而踢-144700332.html	未分類
 2026-09-29	不谙泳术却下水 男遇溺获救吐血	https://www.zaobao.com.sg/news/singapore/story20260806-9480403	未分類
-2026-07-12	上西城收容所驚傳慘劇 16月大女嬰暴斃房內	https://www.singtaousa.com/2026/07/12/news/usa/west-side-shelter-tragedy-baby-death/	未分類
 2026-09-29	上海男幼師溺亡｜室友控訴遭家長園長施壓 官方全盤否認	https://std.stheadline.com/realtime-china/3582665/上海男幼師溺亡室友控訴遭家長園長施壓-官方全盤否認	未分類
 2026-09-29	三項鐵人賽悲劇 退休水警遇溺亡 議員促檢視指引	https://eastweek.stheadline.com/witness/20643/三項鐵人賽悲劇-退休水警遇溺亡-議員促檢視指引	未分類
 2026-09-29	三項鐵人賽6旬漢遇溺亡 主辦方：事發時具開賽條件 安排22 人水上救援	https://www.bastillepost.com/hongkong/article/16492669-三項鐵人賽6旬漢遇溺亡-主辦方：事發時具開賽條	未分類
@@ -220,7 +210,6 @@ var DATA_TRAGEDY = `
 2026-09-29	【2026世界盃】約旦首次踢入世足決賽 大批民眾搶觀賽卻爆踩踏悲劇1死8傷	https://www.i-meihua.com/Article/Detail/51388	未分類
 2026-09-29	U-Safe 遙控救生圈希望能更快速拯救遇溺泳客	https://autos.yahoo.com.tw/news/the-u-safe-self-propelled-buoy-saves-drowning-swimmers-so-you-dont-have-to-100042676.html	未分類
 2026-09-29	Trader Joe's竊案追捕釀悲劇 1嫌亡2警傷	https://www.worldjournal.com/wj/amp/story/121368/9564108	未分類
-2026-02-20	8名中國遊客在貝加爾湖落水1人獲救7人溺亡- 國際	https://www.dotdotnews.com/a/202602/20/AP699840f0e4b0c32d4f695666.html	未分類
 2026-09-29	8分鐘灌酒1公升釀悲劇 竹科工程師猝逝！衛福部：「量杯」原則成保命關鍵	https://tw.news.yahoo.com/8分鐘灌酒1公升釀悲劇-竹科工程師猝逝-衛福部-量杯-原則成保命關鍵-101915181.html	未分類
 2026-09-29	89歲嫗晨泳遇溺 魂斷近水灣	https://orientaldaily.on.cc/content/要聞港聞/odn-20260928-0928_00176_263/89歲嫗晨泳遇溺--魂斷近水灣	未分類
 2026-09-29	7旬漢撿帽墮「詛咒鬼湖」溺亡 32年奪200命 水下還藏著一座小鎮	https://www.hk01.com/熱爆話題/60383388/7旬漢撿帽墮-詛咒鬼湖-溺亡-32年奪200命-水下還藏著一座小鎮	未分類
@@ -248,7 +237,6 @@ var DATA_TRAGEDY = `
 2026-09-28	检查船艇螺旋桨遇溺 华裔渔民遗体今早寻获	https://news.seehua.com/post/1461979	未分類
 2026-09-28	天津之眼︱4口家河邊散步6歲弟落水 家屬救人遇溺母死兄亡	https://www.stheadline.com/realtime-china/3601649/天津之眼4口家河邊散步6歲弟落水-家屬救人遇溺母死兄亡	未分類
 2026-09-28	夏日游泳如何避開鯊魚? 專家: 遇溺風險其實更高	https://news.google.com/rss/articles/CBMixwFBVV95cUxOcS1YZlpKSE16dS0zeEFYM3FVUFRXeUFTT2dSX3dBUmtVbmJnQzVYNUlqS3U2SUItamRBdVVqUXIwUFhBWVQ1TmpUeG0xZnpYTFF3cXo1UmR3eEluSklmV3NGZk42c3BwS3pobF90RHY5SFUyemVNRlBRUml0REZBYjlVWjUya0NmcVpUdzYycDRKSUpMTHE0THlDaDlfTnRwTVdZRTJxNnpxTWxjVEpDMmVIVWtlOFdvSkxnUWdGT000THFydnRN?oc=5	未分類
-2025-12-07	下班未回家！高雄聯結車司機暴斃駕駛座 遠端監控揭悲劇	https://news.pchome.com.tw/society/ctinews/20251207/index-76507841996685309002.html	未分類
 2026-09-27	前主持人「褲子套一半」猝死馬桶上！疑「太猛」釀悲劇	https://tw.news.yahoo.com/前主持人-褲子套-半-猝死馬桶上-疑-013132944.html	未分類
 2026-09-27	89歲嫗晨泳遇溺 魂斷近水灣	https://news.google.com/rss/articles/CBMirAJBVV95cUxPVV9BMXNfVW9HOTZCbEJIaDY2NkRhQkVVVjVtZ19aRDZfLTRzczB0dkNXdnM3eTduVTZXbTVXdXZuRDVya0NvdlI0Y1VnX29FdEtmcmEzaE5rZ1JCWXF2c2M5VzQ4SlNaM054bVV6YnV3d3p0Y0YyQlZnNEZuZUJsejYydVpOWHV6bmZTUGoyaVhtOUZqYnc3MkdhT0R6TDZyQ2ZIT2pJUWNBbGtmd3A3SVJmaW9QQ3NzQUM2bFdESWIwcnZwS3R4eExGSVFMLUs5c0dxWFFSSG1vdWhSRnNBcGlsUXY5dVZjU3lEQzZycEtrUlBhMTNMM2lPZFExV3hSNVJSdmdPdk9pRjJsQVU3bDZTcnl3RnB4RkZRYUptVEZyVFVOTXlRLUUtQnM?oc=5	未分類
 2026-09-25	安徽七旬婆婆勇救遇溺青年 事後悄然離開獲讚揚	https://www.bastillepost.com/hongkong/article/16455801-安徽七旬婆婆勇救遇溺青年-事後悄然離開獲讚揚	未分類
@@ -263,6 +251,7 @@ var DATA_TRAGEDY = `
 2026-09-22	荷里活廣場命案｜官形容為悲劇 盼兩死者母親接受輔導、勿以痛苦記念女兒 讚揚英勇廚師 - i-cable.com	https://news.google.com/rss/articles/CBMi6gJBVV95cUxQeVdHdkhZQlVlMXEwZFFTNDJTS0xzeENNTGMyRFRpXzVqWF90d0RjdklNbUtjeHZaamZ1RGRyMlVrMjc2SW5weFpWSXd4Q0RPUW56YTRRZE9DbTZOcmcwUkFFWjFPUXhNVC1QcDVyblNTTjFqZ3d4aVFDczJxWHpOSWhLYS1NOXVsQ1BqLWxQTVZIUlpoNjI4bEFYamMzOGlBMFNMM3hKT3RFYVpMZnN5OVU4bDJ4cmEyU3JxUlZoVFJ5bVlvb2Qxako1UWVpQUVrY3NFb3FtcWdwWjIxSWw0LWk3VVpvNXM0SnppaFBMam93UkhiV2pkenhuZFB3THV3bFB5V1NjUF8yTjJLMkRpV3dGalFfVlVtM2FzeThMR3FucDJpUnVXbWstTmNPbklqU3pYZGJCNEJuR1FMTjNhSmJfWGVnV3N3czlhTGVzZ18yLVBnWS1zUGJuU0IyZDVNSmU3Ny1FeWczdw?oc=5	未分類
 2026-09-21	奮不顧身跳河救出遇溺父女 女子獲頒英勇獎章	https://www.singtao.ca/7633212/2026-09-21/news-奮不顧身跳河救出遇溺父女 女子獲頒英勇獎章/	未分類
 2026-09-16	女子黄河畔约会后失踪溺亡其母认为有疑点｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260916/bkn-20260916040552137-0916_00822_001_cn.html?refer=hn2	未分類
+2026-09-16	女子黃河畔約會後失蹤溺亡 其母認為有疑點	https://hk.on.cc/hk/bkn/cnt/news/20260916/bkn-20260916040552137-0916_00822_001.html	未分類
 2026-09-14	陪女友江邊看日落見長者遇溺 重慶體育老師逆流救人受傷仍感無悔	https://news.google.com/rss/articles/CBMi7wJBVV95cUxOUmZxbkwwVDUyQzNLQlVRRzBXSlVKcC14a1UzZlJpRkpHZ2RjRXlxNURJNlFRa2VqVzBadzRKNlk4Q3lPdmwzeENkVXhxS05JY1ljdWJqUjdpcXdWb1NhZVI2VEdMbGJHSFZZQUUwRmdSTlE5aXB2aXFsZzE1b1Rma1dIc2ZYdDEwOGc5Q1g2VnBJZ1hXbjlXbW11UUhVWHdXQkhVUWQzODFHYmlmMkJDbmU4cXRmcUxiU0gtQ0RtUFo0R3FKWkhOdWVtMmdROVRfVTEyTTJjaGk4MEJHQWZQTk1MRjFubk1BZEU5QkJISGdneTgydE9ZVDh6bVFRS3ZBZ0tlNDBBVVRhVTRielo5Q2E3enFLUGMxTXVCX0pSMUVVcDhxMnhGSDNyMndhOGZVcGMzenZ5cjhvN3ZzZHg0VnNIQXJTb2Qwc0VDQ3JzMncydTgzRmc2Z0RNU1JWZTlSNVdaWjBUMVoxbksyNUpj?oc=5	未分類
 2026-09-12	女子西貢廈門灣泳灘遇溺 清醒送院 (16:04) - 20260912 - 港聞	https://news.mingpao.com/ins/港聞/article/20260912/s00001/1789201023586/女子西貢廈門灣泳灘遇溺-清醒送院	未分類
 2026-09-04	馬灣女子爬出礁石灘 遇上潮漲被困海中 水警救人送院檢查 昨晚（3日）10時許，警方接獲途人報案指，一名女子在馬灣舊碼頭礁石灘離岸約10米海面位置懷疑遇溺，新界南總區衝鋒隊和水警接報到場，由水警救人，	https://www.hk01.com/%E7%AA%81%E7%99%BC/60386648/%E9%A6%AC%E7%81%A3%E5%A5%B3%E5%AD%90%E7%88%AC%E5%87%BA%E7%A4%81%E7%9F%B3%E7%81%98-%E9%81%87%E4%B8%8A%E6%BD%AE%E6%BC%B2%E8%A2%AB%E5%9B%B0%E6%B5%B7%E4%B8%AD-%E6%B0%B4%E8%AD%A6%E6%95%91%E4%BA%BA%E9%80%81%E9%99%A2%E6%AA%A2%E6%9F%A5	未分類
@@ -274,6 +263,7 @@ var DATA_TRAGEDY = `
 2026-09-02	火炭屋苑七旬婦遇溺亡 她為公益廣告女王倫潔瑩	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlc1azJqVkhnTmlIQUhXS2duZlRuNlJuYlBjaHF4Y0JhN21YWHAtZFVHZlVXd0lRMXFkRkRNZ3RIMnllaTg0TTUtTmtyMlhYTnk1aF8zLWZ5UHNIQmhOR0swZjAwUXI1Nm5JbDA3dWRZRy0zd2tSNlRrZms1dUVOQ3VaNVVjSGU3dVRZ?oc=5	未分類
 2026-09-02	火炭屋苑七旬妇遇溺亡消息指死者为全球大型社交媒体高层｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260902/bkn-20260902000054403-0902_00822_001_cn.html?refer=hn2	未分類
 2026-09-02	戏水遇溺 2少年获救 4人仍失踪	https://www.orientaldaily.com.my/news/society/2026/09/02/844870	未分類
+2026-09-01	（有片）火炭麗峰花園遇溺意外女死者為全球大型社交媒體高層- 香港	https://www.wenweipo.com/a/202609/01/AP6a965575e4b0c1e50027109d.html	未分類
 2026-09-01	（有片）火炭麗峰花園遇溺意外 女死者為全球大型社交媒體高層	https://news.google.com/rss/articles/CBMid0FVX3lxTFA1ekdzZkdHRTR0V1d6Y2R3R1hhdHVYMy1SVW5IekZTRWM1ZTFSS19ZalA2d044WWd4T3VQSjRob2YxMzdnR1VuRnpFRFZZMFBiWEhCYU53Zy1hY0gycUdRRDBuXzRhYTVlNXV5NnVTQUFQc3BlQ1pj?oc=5	未分類
 2026-09-01	火炭麗峰花園遇溺意外女死者為全球大型社交媒體高層- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTE5jVEpMTXRIXy1pcmFqbUliS0hrMVlQNGlfeGxHbEdBSzdJaUNKQ1pvcGNkbDdRRGpmQk12blFxLVRncWlYTWhTSzNvVFpHdWNuNkRyVXgyRzFKT3hVYlZfa1NESkFWTnZIcTI0Ukt3MUFFczRxZnkycnV3?oc=5	未分類
 2026-08-31	海边戏水遇溺 4人被民众救上岸 （哥打丁宜31日讯）父亲趁国庆日假期，带着儿子及侄女到海边戏水，不料4人不慎溺水，所幸民众及时将他们救上岸，4人皆平安。此事于昨日上午时段，在柏呐哇镇SPP露营处...	https://www.chinapress.com.my/20260831/%E6%B5%B7%E8%BE%B9%E6%88%8F%E6%B0%B4%E9%81%87%E6%BA%BA-4%E4%BA%BA%E8%A2%AB%E6%B0%91%E4%BC%97%E6%95%91%E4%B8%8A%E5%B2%B8/	未分類
@@ -298,6 +288,7 @@ var DATA_TRAGEDY = `
 2026-08-21	打鼓嶺狗殺人｜33年內3死 1996年鬥牛㹴咬斃7月大BB 港修例規管 打鼓嶺坪洋村一間寵物酒店昨日（20日）發生罕見致命慘劇。一名33歲女負責人在餵食完一隻30公斤重的待領養狗隻後，疑因狗隻拒絕入籠而遭到突發性咬.	https://www.hk01.com/%E7%AA%81%E7%99%BC/60382235/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-33%E5%B9%B4%E5%85%A73%E6%AD%BB-1996%E5%B9%B4%E9%AC%A5%E7%89%9B%E3%B9%B4%E5%92%AC%E6%96%837%E6%9C%88%E5%A4%A7bb-%E6%B8%AF%E4%BF%AE%E4%BE%8B%E8%A6%8F%E7%AE%A1	未分類
 2026-08-21	打鼓嶺狗咬人亡慘劇 涉事狗舍未有營業 場內狗隻被運走	https://hk.on.cc/hk/bkn/cnt/news/20260821/bkn-20260821132618725-0821_00822_001.html	未分類
 2026-08-19	喜事變喪事 四川鄉村辦升學宴牆體倒塌 釀5死17傷慘劇｜有片	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381399/%E5%96%9C%E4%BA%8B%E8%AE%8A%E5%96%AA%E4%BA%8B-%E5%9B%9B%E5%B7%9D%E9%84%89%E6%9D%91%E8%BE%A6%E5%8D%87%E5%AD%B8%E5%AE%B4%E7%89%86%E9%AB%94%E5%80%92%E5%A1%8C-%E9%87%805%E6%AD%BB17%E5%82%B7%E6%85%98%E5%8A%87-%E6%9C%89%E7%89%87	未分類
+2026-08-18	男子紀念日狂歡失足墮亡 演唱會墮樓慘劇列為意外	https://www.singtaousa.com/2026/08/18/news/usa/man-falls-death-concert-accident/	未分類
 2026-08-17	愛爾蘭｜高速公路逆線行駛釀慘劇 5青少年死4重傷 (13:15) - 20260817 - 國際	https://news.mingpao.com/ins/國際/article/20260817/s00005/1786942615102/愛爾蘭-高速公路逆線行駛釀慘劇-5青少年死4重傷	未分類
 2026-08-17	印度東部寺廟發生人踩人慘劇 至少7人亡	https://www.kinliu.hk/news/%E7%92%B0%E7%90%83/%E5%8D%B0%E5%BA%A6%E6%9D%B1%E9%83%A8%E5%AF%BA%E5%BB%9F%E7%99%BC%E7%94%9F%E4%BA%BA%E8%B8%A9%E4%BA%BA%E6%85%98%E5%8A%87-%E8%87%B3%E5%B0%917%E4%BA%BA%E4%BA%A1/232570.html?id=80&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
 2026-08-16	有片｜長洲泳客遇溺 救生員協力分半鐘救起 網民讚：似飛魚上身	https://news.google.com/rss/articles/CBMimwNBVV95cUxPSnRickpyOVJZVDJ5YkFjdVhOSTZIVzhJVDlnZFJWZGp0NGNQc0hYeTljN013OFpadFNPb29zYktWc3k1WU9mLTNGcG9IWFh5VmNlSWFMR3ktQjdDOWdSU0hNc1VXYnNJRC1YUW84VHE5bmtMT0d2WUVPRDFCN1VCMHl6bE1WOUJRckZmbDBONDQyYXBxOVI1Z0YtUEVKRGhabVNaQ213N01UMzRKdmI2Ymg5eUFTdV9LNWp3QjZQRk4xWVF3RHYtdUd3czFib2J6ekliWkl2TzVIRWVxYTJKNDJUSF9OSk1vRmx0Yy1NdFdJMnhQY2dCNTUzV3BYTlgxNENNZzVjUi12YzN5RlcyRDg4WkVFam9sRnJWcUZZeE9LcVoySjNCajdhV0JYanlycWx4cU1YSV96ekVaa2ROUzBULVViTUJBQTlicDh5X3ZOYlVpYlhXQVdJS2pmcElaSU9wZm81ZS0yR2VQQl9PX2pHNGlsR0hGbG0zTFY4TG1wMmdHUmJaYjE5WDBrRy04azNwaXdwQUtRc2M?oc=5	未分類
@@ -323,6 +314,7 @@ var DATA_TRAGEDY = `
 2026-07-23	1人遇溺4人跳河救援遭急流滅頂全罹難- 國際	https://www.dotdotnews.com/s/202607/22/AP6a60710de4b04b6c5d343a97.html	未分類
 2026-07-22	1人遇溺4人跳河救援遭急流滅頂全罹難- 國際	https://www.dotdotnews.com/a/202607/22/AP6a60710de4b04b6c5d343a97.html	未分類
 2026-07-21	世界盃｜西班牙狂歡生悲劇爬高慶祝壓毀噴泉致13歲少年亡- 國際	https://www.dotdotnews.com/a/202607/20/AP6a5e1751e4b04b6c5d340e70.html	未分類
+2026-07-20	疑上岸後跣腳墮河 少年景區玩漂流遇溺亡	https://hk.on.cc/hk/bkn/cnt/news/20260720/bkn-20260720190529723-0720_00822_001.html	未分類
 2026-07-20	疑上岸后跣脚堕河少年景区玩漂流遇溺亡｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260720/bkn-20260720190529723-0720_00822_001_cn.html	未分類
 2026-07-20	夏靖庭嚇到「傅子純那麼年輕」 猝逝面對生命無常嘆能怎麼樣	https://www.msn.com/zh-tw/entertainment/%E5%90%8D%E4%BA%BA/%E5%A4%8F%E9%9D%96%E5%BA%AD%E5%9A%87%E5%88%B0-%E5%82%85%E5%AD%90%E7%B4%94%E9%82%A3%E9%BA%BC%E5%B9%B4%E8%BC%95-%E7%8C%9D%E9%80%9D-%E9%9D%A2%E5%B0%8D%E7%94%9F%E5%91%BD%E7%84%A1%E5%B8%B8%E5%98%86%E8%83%BD%E6%80%8E%E9%BA%BC%E6%A8%A3/ar-AA25bdxv	未分類
 2026-07-19	河流戏水遇溺 15岁少年魂断河中	https://www.orientaldaily.com.my/news/society/2026/07/19/834317	未分類
@@ -330,10 +322,12 @@ var DATA_TRAGEDY = `
 2026-07-16	（有片）中國夫婦印尼浮潛溺亡水下救援畫面曝光- 國際	https://www.dotdotnews.com/a/202607/16/AP6a58cd83e4b04b6c5d33a1da.html	未分類
 2026-07-13	迫害從未停止 5359個生命悲歌背後的世紀暴行（多圖）	https://renminbao.com/rmb/articles/2026/7/13/95873b.html	未分類
 2026-07-12	东甲金山瀑布戏水遇溺 20岁青年遗体被消拯人员寻获	https://www.orientaldaily.com.my/news/society/2026/07/12/832600	未分類
+2026-07-12	上西城收容所驚傳慘劇 16月大女嬰暴斃房內	https://www.singtaousa.com/2026/07/12/news/usa/west-side-shelter-tragedy-baby-death/	未分類
 2026-07-09	跨國婚姻悲劇！韓男賣計程車娶小30歲越南妻 婚後90天猝逝	https://tw.news.yahoo.com/%E8%B7%A8%E5%9C%8B%E5%A9%9A%E5%A7%BB%E6%82%B2%E5%8A%87-%E9%9F%93%E7%94%B7%E8%B3%A3%E8%A8%88%E7%A8%8B%E8%BB%8A%E5%A8%B6%E5%B0%8F30%E6%AD%B2%E8%B6%8A%E5%8D%97%E5%A6%BB-%E5%A9%9A%E5%BE%8C90%E5%A4%A9%E7%8C%9D%E9%80%9D-233216482.html	未分類
 2026-07-09	西半山屋苑泳池女子遇溺 獲救清醒送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260709/bkn-20260709102150506-0709_00822_001.html	未分類
 2026-07-08	湖北龍捲風釀高樓墜亡慘劇 倖存少年盼尋回存有全家福手機	https://www.singtaousa.com/2026/07/08/news/china/hubei-tornado-family-killed-survivor-seeks-phone/	未分類
 2026-07-08	天津一家四口河邊散步6歲弟落水家屬救人遇溺母死兄亡| 生活熱話	https://www.ohpama.com/1039474/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E6%B2%B3%E9%82%8A%E6%95%A3%E6%AD%A56%E6%AD%B2%E5%BC%9F%E8%90%BD%E6%B0%B4-%E5%AE%B6%E5%B1%AC%E6%95%91%E4%BA%BA%E9%81%87%E6%BA%BA%E6%AF%8D%E6%AD%BB/	未分類
+2026-07-07	（有片）慘絕人寰！泰緬「死亡鐵路」親歷者講述日本侵略罪行- 國際 - 香港文匯網	https://www.wenweipo.com/a/202607/07/AP6a4cd1c8e4b0b49ad1c25b76.html	未分類
 2026-07-02	柴灣游泳池泳客遇溺 獲救清醒拒送院	https://hk.on.cc/hk/bkn/cnt/news/20260702/bkn-20260702083844081-0702_00822_001.html	未分類
 2026-06-30	情侣以为有人遇溺奋力救人惊见巨鳄噬杀28岁男子| 世界万象| 東方網馬來西亞東方日報	https://www.orientaldaily.com.my/news/buzz/2026/06/30/829374	未分類
 2026-06-29	閩刺刀峽探險 9人遇溺5亡	https://www.hkej.com/dailynews/cntw/article/4443294/閩刺刀峽探險+9人遇溺5亡	未分類
@@ -366,7 +360,9 @@ var DATA_TRAGEDY = `
 2026-05-20	男子路邊休息猝逝 搖搖椅事件引發網民對生命無常的討論	https://www.singtaousa.com/2026/05/20/news/china/man-dies-on-rocking-chair-roadside/	未分類
 2026-05-20	大陸男路邊搖搖椅上猝死 網友感嘆生命無常	https://www.ntdtv.com/b5/2026/05/20/a104098262.html	未分類
 2026-05-19	西班牙倫常慘劇！25歲男子槍殺父母致2死4傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202605/19/AP6a0c1a9ee4b0b49ad1bbb6ba.html	未分類
+2026-05-18	（有片）深水埗富昌邨婦人猝死患病細女伴屍兩日胞姊報警揭悲劇- 香港 - 香港文匯網	https://www.wenweipo.com/a/202605/18/AP6a0abca1e4b0b49ad1bb8cb7.html	未分類
 2026-05-09	湖南一鎮政府幹部溺亡 手機存大量領導違紀證據	https://hk.epochtimes.com/news/2026-05-09/45131112	未分類
+2026-05-09	江蘇一遊樂場風車船側翻 6學生落水2人溺亡	https://www.ntdtv.com/b5/2026/05/09/a104094498.html	未分類
 2026-05-06	瑪琉岩瀑布｜女子玩懸崖鞦韆意外墜亡 出發前狂喊安全繩「沒綁緊」	https://www.singtao.ca/7495331/2026-05-05/news-瑪琉岩瀑布｜女子玩懸崖鞦韆意外墜亡+出發前狂喊安全繩「沒綁緊」/	未分類
 2026-04-30	七旬翁龍尾泳灘疑遇溺亡 (10:43) - 20260430 - 港聞	https://news.mingpao.com/ins/港聞/article/20260430/s00001/1777515626265/七旬翁龍尾泳灘疑遇溺亡	未分類
 2026-04-28	痛心！福州閩清4名兒童不幸溺亡	https://www.ntdtv.com/b5/2026/04/28/a104091101.html	未分類
@@ -386,10 +382,12 @@ var DATA_TRAGEDY = `
 2026-02-22	7華客貝加爾湖溺亡 俄外長向王毅表示慰問 (11:24) - 20260222 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260222/s00004/1771726880960/7華客貝加爾湖溺亡-俄外長向王毅表示慰問	未分類
 2026-02-20	更新｜7名中國遊客沉入貝加爾湖溺亡	https://hkcd.com/hkcdweb/content/2026/02/20/content_8741001.html	未分類
 2026-02-20	整車沉沒貝加爾湖 7名中國遊客溺亡、僅1人逃生 ｜ 大陸政經 ｜ 兩岸 ｜ 經濟日報	https://money.udn.com/money/story/5603/9335835	未分類
+2026-02-20	8名中國遊客在貝加爾湖落水1人獲救7人溺亡- 國際	https://www.dotdotnews.com/a/202602/20/AP699840f0e4b0c32d4f695666.html	未分類
 2026-02-18	度假村觀光船側翻 4人遇溺2死	https://hk.on.cc/hk/bkn/cnt/news/20260218/bkn-20260218081210060-0218_00822_001.html	未分類
 2026-02-17	影音／陸春節連環悲劇! 爆竹店炸8死、遊船翻覆4 溺斃驚動國務院		未分類
 2026-02-13	22歲中國男子峇裡島溺亡 原定除夕前回國和家人團圓	https://www.stheadline.com/zh-hans/realtime-china/3544851/22?中?男子峇里?溺亡-原定除夕前回?和家人??	未分類
 2026-02-07	墨西哥海灘傳呼救聲 加州情侶以為有人遇溺 趕至現場驚見巨鱷噬殺1男	https://www.bastillepost.com/hongkong/article/16273888-墨西哥海灘傳呼救聲-加州情侶以為有人遇溺-趕至現	未分類
+2026-01-25	北京跟團遊悲劇｜六旬漢連續兩日清晨集合猝死 家屬告贏旅行社獲賠35萬	https://www.singtaousa.com/2026/01/25/news/china/tourist-dies-after-early-morning-tours-beijing/	未分類
 2026-01-24	悲劇！男駕農耕車倒車輾斃母親 「內心極大自責」 獲緩刑	http://www.msn.com/zh-tw/news/other/悲劇-男駕農耕車倒車輾斃母親-內心極大自責-獲緩刑/ar-AA1RsSIJ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-01-19	悲劇！男駕農耕車倒車輾斃母親 「內心極大自責」 獲緩刑		未分類
 2026-01-17	巴西水上樂園︱救生員幫客撿婚戒 吸入排水口受困15分鐘溺亡		未分類
@@ -411,6 +409,7 @@ var DATA_TRAGEDY = `
 2025-12-18	大學生在校內溺亡 疑遊戲時不慎墮湖	https://hk.on.cc/hk/bkn/cnt/news/20251218/bkn-20251218080029484-1218_00822_001.html	未分類
 2025-12-12	健身房慘案！35歲壯漢「運動前喝1物」 練到一半倒地暴斃	http://www.msn.com/zh-tw/health/other/%E5%81%A5%E8%BA%AB%E6%88%BF%E6%85%98%E6%A1%88-35%E6%AD%B2%E5%A3%AF%E6%BC%A2-%E9%81%8B%E5%8B%95%E5%89%8D%E5%96%9D1%E7%89%A9-%E7%B7%B4%E5%88%B0%E4%B8%80%E5%8D%8A%E5%80%92%E5%9C%B0%E6%9A%B4%E6%96%83/ar-AA1I98pM?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2025-12-11	ATP總決賽悲劇：兩名觀眾在依納爾皮競技場病逝	https://www.gamereactor.cn/tragedy-at-the-atp-finals-two-spectators-die-of-illness-at-the-inalpi-arena-1174093/	未分類
+2025-12-07	下班未回家！高雄聯結車司機暴斃駕駛座 遠端監控揭悲劇	https://news.pchome.com.tw/society/ctinews/20251207/index-76507841996685309002.html	未分類
 2025-12-06	女兒叢林小屋猝死！失明母伴屍6天靠爬行2天求救 人倫悲劇震撼社會	https://tw.news.yahoo.com/女兒叢林小屋猝死-失明母伴屍6天靠爬行2天求救-人倫悲劇震撼社會-120643387.html	未分類
 2025-12-05	女兒叢林小屋猝死！失明母伴屍6天靠爬行2天求救 人倫悲劇震撼社會	https://news.pchome.com.tw/internation/crwant/20251205/index-76493640751546316011.html	未分類
 2025-12-01	悲劇！男駕農耕車倒車輾斃母親 「內心極大自責」獲緩刑	https://www.ettoday.net/news/20251201/3076538.htm	未分類
@@ -441,6 +440,7 @@ var DATA_TRAGEDY = `
 2025-09-27	北漂孫親睹100歲爺爺遭溺亡 暫不火化淚批：光復早在預警範圍！	https://tw.news.yahoo.com/%E5%8C%97%E6%BC%82%E5%AD%AB%E8%A6%AA%E7%9D%B9100%E6%AD%B2%E7%88%BA%E7%88%BA%E9%81%AD%E6%BA%BA%E4%BA%A1-%E6%9A%AB%E4%B8%8D%E7%81%AB%E5%8C%96%E6%B7%9A%E6%89%B9-%E5%85%89%E5%BE%A9%E6%97%A9%E5%9C%A8%E9%A0%90%E8%AD%A6%E7%AF%84%E5%9C%8D-140557118.html	未分類
 2025-09-23	Hallmark明星邁克爾·赫斯林（MichaelHeslin），他在拉斯維加斯悲劇性旅行後35歲被殺，據說球隊未能執行RCP		未分類
 2025-09-22	大陸男星于朦朧意外身亡！網友回顧直播內容竟發現「藏頭詩」求救訊號	https://news.pchome.com.tw/living/innews/20250922/index-75850643333770284009.html	未分類
+2025-09-21	警方通報于朦朧酒後意外墜樓身亡事件- 內地	https://www.tkww.hk/a/202509/21/AP68d00541e4b0f2e743958b69.html	未分類
 2025-09-18	琉球國中釀猝死悲劇！正義師遭霸淩 代理教師工會籲「啟動調查」 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/crwant/20250917/index-75807994321633316002.html	未分類
 2025-09-18	台中某公園悲劇！58 歲男失蹤妻急開定位心碎見尪倒樹下亡	https://www.msn.com/zh-tw/news/national/%E5%8F%B0%E4%B8%AD%E6%9F%90%E5%85%AC%E5%9C%92%E6%82%B2%E5%8A%87-58%E6%AD%B2%E7%94%B7%E5%A4%B1%E8%B9%A4%E5%A6%BB%E6%80%A5%E9%96%8B%E5%AE%9A%E4%BD%8D-%E5%BF%83%E7%A2%8E%E8%A6%8B%E5%B0%AA%E5%80%92%E6%A8%B9%E4%B8%8B%E4%BA%A1/ar-AA1KJ8g7?cvid=388efc7494f647fcda9c3eba265154b6&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2025-09-18	南部2縣市爆悲劇！ 蘭潭男「四肢發黑」、女魂斷澄清湖	https://news.pchome.com.tw/society/ctinews/20250917/index-75809098764531309002.html	未分類
@@ -454,6 +454,7 @@ var DATA_TRAGEDY = `
 2025-09-10	印度喜馬偕爾邦新聞：比拉斯布爾公交車事故悲劇奪去了一個家庭四名成員的生命	https://citytimes.tw/%E8%B3%87%E8%A8%8A/%E5%8D%B0%E5%BA%A6%E5%96%9C%E9%A6%AC%E5%81%95%E7%88%BE%E9%82%A6%E6%96%B0%E8%81%9E%EF%BC%9A%E6%AF%94%E6%8B%89%E6%96%AF%E5%B8%83%E7%88%BE%E5%85%AC%E4%BA%A4%E8%BB%8A%E4%BA%8B%E6%95%85%E6%82%B2%E5%8A%87/177931/	未分類
 2025-09-09	巴西五人足球三個月內兩悲劇：兩名球員相繼被「省中」後猝死 - FanPiece	https://football.fanpiece.com/stadiumnews/%E5%B7%B4%E8%A5%BF%E4%BA%94%E4%BA%BA%E8%B6%B3%E7%90%83%E4%B8%89%E5%80%8B%E6%9C%88%E5%85%A7%E5%85%A9%E6%82%B2%E5%8A%87-%E5%85%A9%E5%90%8D%E7%90%83%E5%93%A1%E7%9B%B8%E7%B9%BC%E8%A2%AB-%E7%9C%81%E4%B8%AD-%E5%BE%8C%E7%8C%9D%E6%AD%BB-c1475227.html	未分類
 2025-09-09	42岁汉服文化推广者“子非鱼”，意外逝世		未分類
+2025-09-06	河邊釣魚救落水老婦 17歲少年溺亡	https://hk.on.cc/hk/bkn/cnt/news/20250906/bkn-20250906070213373-0906_00822_001.html	未分類
 2025-09-06	「借浴室洗澡」19 歲男深夜遭撞亡家中停水釀悲劇		未分類
 2025-09-05	為賺173元賭注！ 他當眾跳河「下秒遭湍流捲走」溺亡	https://www.ettoday.net/news/20250905/3028354.htm	未分類
 2025-09-04	東京101人中暑亡 7成「冷氣沒開」 悲劇曝光	https://hk.on.cc/hk/bkn/cnt/news/20250904/bkn-20250904230010184-0904_00822_001.html	未分類
@@ -485,7 +486,6 @@ var DATA_TRAGEDY = `
 2025-06-10	《輕音部》大咖聲優傳悲劇！「丈夫送醫猝逝」豐崎愛生宣布暫停工作	https://star.setn.com/news/1704678	未分類
 2025-06-10	60岁老人勇救落水父子后体力透支溺亡：离退休仅剩23天，儿子刚刚结婚	https://www.sohu.com/a/941333280_120388781?edtsign=C4F2FC6F3C61943551660216189E69F64BFFDBD6&edtcode=GlpUypdz%2Fo7EEJFbmXnCRA%3D%3D&scm=thor.280_14-200000.0.0.&spm=smpc.home.top-news2.17.1759676400020A5oXoZw_1467&_trans_=060008_lym	未分類
 2025-06-09	討論牆 ｜ 雷暴警告下深井屯門兩七旬長者遇溺 一死一獲救 ｜ LINE TODAY	https://today.line.me/hk/v3/posts/list/article/0ZaOEL	未分類
-2025-09-06	河邊釣魚救落水老婦 17歲少年溺亡	https://hk.on.cc/hk/bkn/cnt/news/20250906/bkn-20250906070213373-0906_00822_001.html	未分類
 2025-04-27	內地水族館「美人魚」暈眩遇溺險死 肺部恐受感染留醫ICU	https://www.hk01.com/article/60233200?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-04-01	將軍澳中年婦遇溺 送院命殞	https://hk.on.cc/hk/bkn/cnt/news/20250401/bkn-20250401200741862-0401_00822_001.html	未分類
 2025-03-31	男子搭飛機不幸暴斃！降落仍緊扣安全帶 空服員叫喚無反應揭悲劇	https://www.hk01.com/article/60223400?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -495,8 +495,8 @@ var DATA_TRAGEDY = `
 2024-09-19	省財政廳廳長意外身亡 傳遭兩漢綑綁扔落樓	https://hk.on.cc/hk/bkn/cnt/cnnews/20240919/bkn-20240919172102614-0919_00952_001.html	未分類
 2024-09-13	省財政廳廳長意外身亡 傳遭兩漢綑綁扔落樓	https://www.hk01.com/article/1057128?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-08-09	內地27歲健身男網紅意外溺亡 擁10萬粉絲 曾獲多個健體比賽冠軍	https://www.hk01.com/article/1055424?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-04-23	無家者長沙灣足球場猝死 「鄰居」發現遺未吃晚餐飯盒揭悲劇	https://www.hk01.com/article/1012803?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-05-12	人間悲劇！台南男付不出醫藥費出院「家中猝逝」 兒沒錢幫他下葬	https://www.ettoday.net/news/20240512/2737402.htm	未分類
+2024-04-23	無家者長沙灣足球場猝死 「鄰居」發現遺未吃晚餐飯盒揭悲劇	https://www.hk01.com/article/1012803?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-11-21	慘劇！法明奴爸爸家庭旅行期間猝死	https://hk.on.cc/hk/bkn/cnt/sport/20231120/bkn-20231120140108012-1120_00882_001.html	未分類
 2023-10-27	沙田翠榕橋底男子遇溺 獲救昏迷送院亡	https://www.singtao.ca/6427499/2023-10-27/news-沙田翠榕橋底男子遇溺+獲救昏迷送院亡/?variant=zh-hk	未分類
 2023-10-06	女遊客溺亡！涉事景區回應	https://portal.sina.com.hk/news-china/sina/2023/10/06/557914/女遊客溺亡！涉事景區回應/	未分類
@@ -534,4 +534,5 @@ var DATA_TRAGEDY = `
 2022-05-08	【救儿父丧命】枫树岭父亲救遇溺儿子结果儿子获救父亡(图)	https://www.iask.ca/news/321171	未分類
 2022-04-06	內地電視劇《一路向前》2名劇組人員溺亡 暫停拍攝	https://www.hk01.com/sns/article/778175	未分類
 2022-03-07	多人溺亡！五部門聯合部署	https://china.huanqiu.com/article/4933JIZppT2	未分類
-2022-02-06	大嶼山遇溺兩死│男死者疫情下失業寄情行山 家人泣訴為顧家暖男	https://www.hk01.com/sns/article/777397	未分類`;
+2022-02-06	大嶼山遇溺兩死│男死者疫情下失業寄情行山 家人泣訴為顧家暖男	https://www.hk01.com/sns/article/777397	未分類
+`;
