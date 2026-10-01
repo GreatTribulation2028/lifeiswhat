@@ -205,7 +205,12 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .stats-toggle button.active{color:var(--pulse);border-color:var(--pulse);background:rgba(230,57,70,.08)}
 .stats-toggle button:hover{border-color:var(--accent);color:var(--accent)}
 .stats-summary{text-align:center;margin-bottom:16px}
-.stats-summary .ss-num{font-family:var(--f-head);font-size:clamp(3rem,10vw,5rem);color:var(--pulse);text-shadow:0 0 60px rgba(230,57,70,.4)}
+.stats-summary .ss-num{font-family:var(--f-mono),'Share Tech Mono',ui-monospace,monospace;
+  font-size:clamp(3rem,10vw,5rem);color:var(--pulse);text-shadow:0 0 60px rgba(230,57,70,.4);
+  /* ★ 2026-10-01：數字用等寬 + tabular-nums，避免字距不齊睇唔出 */
+  font-variant-numeric:tabular-nums;font-feature-settings:"tnum" 1,"lnum" 1;
+  letter-spacing:2px;font-weight:700;line-height:1.05;
+  -webkit-font-smoothing:antialiased;text-rendering:geometricPrecision}
 .stats-summary .ss-label{font-family:var(--f-zh);font-size:clamp(1rem,2.5vw,1.2rem);color:var(--text-dim);margin-top:8px}
 .stats-chart-wrap{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:28px 24px}
 .stats-chart-wrap canvas{max-height:320px}
@@ -227,7 +232,10 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .cal-c{font-family:var(--f-head);font-size:13px;color:#fff;line-height:1.1;margin-top:1px}
 .cal-month-cell{min-height:78px;gap:4px}
 .cal-month-cell .cal-d{font-size:16px}
-.cal-month-cell .cal-c{font-size:15px}
+/* ★ 2026-10-01：月曆數字（3353 之類）用 tabular-nums + 等寬，避免睇唔清 */
+.cal-month-cell .cal-c{font-size:15px;font-variant-numeric:tabular-nums;
+  font-feature-settings:"tnum" 1;letter-spacing:.5px;font-weight:600;
+  font-family:var(--f-mono),'Share Tech Mono',ui-monospace,monospace}
 .cal-year-bars{display:flex;flex-direction:column;gap:10px;margin-top:8px}
 .cal-year-row{display:flex;align-items:center;gap:12px;cursor:pointer;padding:8px;border-radius:10px;transition:background .25s}
 .cal-year-row:hover{background:rgba(255,107,53,.06)}
@@ -285,7 +293,10 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .cc-i{font-size:24px;line-height:1.1;filter:drop-shadow(0 0 6px color-mix(in srgb, var(--c) 60%, transparent))}
 .cc-n{font-size:14px;color:#e6edf3;font-weight:bold;letter-spacing:1px;
   text-shadow:0 0 8px color-mix(in srgb, var(--c) 45%, transparent)}
-.cc-c{font-size:10.5px;color:var(--c);opacity:.92;letter-spacing:.5px}
+.cc-c{font-size:10.5px;color:var(--c);opacity:.92;letter-spacing:.5px;
+  /* ★ 2026-10-01：分類卡片數字用等寬 + tabular-nums */
+  font-variant-numeric:tabular-nums;font-feature-settings:"tnum" 1;
+  font-family:var(--f-mono),'Share Tech Mono',ui-monospace,monospace;font-weight:600}
 @media(max-width:860px){.catnav-grid{grid-template-columns:repeat(auto-fill,minmax(104px,1fr))}
   .cc{padding:11px 6px 9px}.cc-i{font-size:21px}.cc-n{font-size:12.5px}}
 @media(max-width:460px){.catnav{padding:12px 12px}
@@ -986,12 +997,18 @@ return;
 var merged=window.DATA_TODAY||'';
 if(merged.trim()){
 allEvents=parseData(merged);
-// index 專用：只保留「猝死 / 暈倒」兩個絕對詞命中
-indexEvents=allEvents.filter(function(e){return hitIndexTitle(e.title)});
-if(!indexEvents.length){
-// 冇命中就顯示全部，避免空畫面
-indexEvents=allEvents;
-}
+// ★ 2026-10-01 修：原本硬篩只顯示「死亡」新聞（hitIndexTitle），
+//   令其他 13 類喺首頁完全睇唔到。
+//   現在：顯示全部 14 類，排序仍然「死亡優先 → 最新」。
+indexEvents=allEvents.slice().sort(function(a,b){
+  // 死亡新聞優先（KW_DEATH_CERTAIN / KW_NEED_CONFIRM 命中）
+  var da=hitIndexTitle(a.title)?0:1;
+  var db=hitIndexTitle(b.title)?0:1;
+  if(da!==db)return da-db;
+  // 同組內按日期倒序
+  if(a.date!==b.date)return a.date<b.date?1:-1;
+  return 0;
+});
 try{updateSplash(indexEvents)}catch(e){console.error('Splash',e)}
 try{renderSuddenList(indexEvents)}catch(e){console.error('SuddenList',e)}
 try{updateTriStats(indexEvents)}catch(e){console.error('TriStats',e)}
