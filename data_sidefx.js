@@ -1,4 +1,4 @@
-// 藥物副作用 | 由 build_news_js.py 生成 | 共 418 條
+// 藥物副作用 | 由 build_news_js.py 生成 | 共 412 條
 var DATA_SIDEFX = `
 2026-09-30	退燒後突發胸痛氣喘？8歲童星流感併發心肌炎猝逝醫生揭兒童4大隱形警號| 健康百科	https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUNCcS1QTEowOW5KeGJJWVQ1TEF4bG1sZHpLdlBwNlpEN2IyVHlpWjZrZmtBYU1MMERZUTFYc0ZORmdhWmhYRDlkNUNUTldQUWNlbk9hdVZvUEwtUnc2a3JyakNsd2VPbVlKQ2x5WHlFTzBzTHpFNUFpTFdTcV9rdnZjZ1ZRay1tanYtdW40MWV1MVRlUEhBZlNSOG5LekQ2QW1HeEZYVldydkVoZ01vRzRaZnlhbk5HSzMyTGVNcU1lVlQwLUlWSUlMWF81UQ?oc=5	心血管
 2026-09-30	蘿莉塔認了「一度吃10年避孕藥」！肚痛才檢查出恐怖副作用：以前都不知	https://star.ettoday.net/news/3246357	生殖其他
@@ -7,7 +7,6 @@ var DATA_SIDEFX = `
 2026-09-29	高雄新手媽媽產後3天「肺栓塞」過世！寶寶蹦蹦第一張一家三口的合照，竟成了唯一的一張，令人不捨	https://www.msn.com/zh-tw/health/topic/高雄新手媽媽產後3天-肺栓塞-過世-寶寶蹦蹦第一張一家三口的合照-竟成了唯一的一張-令人不捨/ar-AA1AJlGx?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	心血管
 2026-09-29	高血壓不只易致中風/心臟病！研究揭易患1大疾病 糖尿病患者亦高危	https://std.stheadline.com/health-care/3518908/高血壓不只易致中風心臟病研究揭易患1大疾病-糖尿病患者亦高危	心血管
 2026-09-29	高溫肆虐！歐洲6月下旬「超額死亡人數」破萬	https://chaiwanbenpost.net/article/高溫肆虐！歐洲6月下旬「超額死亡人數」破萬/4695	未分類
-2026-07-13	高溫肆虐 歐洲6月下旬「超額死亡人數」破萬	https://www.hkcd.com.hk/hkcdweb/content/2026/07/13/content_8764541.html	未分類
 2026-09-29	體質易發多處腫瘤 罕見疾病折磨身心	https://tw.news.yahoo.com/體質易發多處腫瘤-罕見疾病折磨身心-042032407.html	免疫癌症
 2026-09-29	香港糖尿病婦家中猝逝 精障么女伴屍2天	https://www.worldjournal.com/wj/story/121341/9511367	代謝神經
 2026-09-29	香港居民免費驗糖尿病+高血壓！現正接受報名！即睇參加方法	https://hk.ulifestyle.com.hk/topic/detail/20019629/慢病共治計劃現已接受報名-免費驗糖尿病-高血壓-即睇資助金額及參加方法	代謝神經
@@ -17,7 +16,6 @@ var DATA_SIDEFX = `
 2026-09-29	雲林十大死因出爐 癌症持續居冠「這部位疾病攀升1名」	https://health.setn.com/news/1866701	免疫癌症
 2026-09-29	金融理專罹長新冠腦霧險丟工作醫：血管雷射與復健改善治癒	https://tw.news.yahoo.com/news/金融理專罹長新冠腦霧險丟工作-醫-血管雷射與復健改善治癒-123600072.html	代謝神經
 2026-09-29	醫療給付「不要齊頭式平等」 衛福部擬推糖尿病等慢性病治療分級給付	https://udn.com/news/amp/story/7266/9678880	代謝神經
-2026-09-05	酷暑熱浪期間 法國超額死亡人數達7000人	https://hk.epochtimes.com/news/2026-09-05/66818768	未分類
 2026-09-29	这3种明星中成药别乱吃！国家保密配方虽管用，副作用藏隐患-yeeyi	https://www.yeeyi.com/news/details/2896511/	生殖其他
 2026-09-29	超加工食品恐讓肌肉變「油花牛排」！研究：吃越多增心血管疾病、糖尿病風險	https://www.taiwannews.com.tw/zh/news/6341602	代謝神經
 2026-09-29	認識蘋果病 11歲女染併發心肌炎亡	https://tw.news.yahoo.com/認識蘋果病-11歲女染併發心肌炎亡-111715138.html	心血管
@@ -29,7 +27,6 @@ var DATA_SIDEFX = `
 2026-09-29	血糖狂掉到30！竟是罕見「腫瘤在偷吃糖」	https://n.yam.com/Article/20260410209969	免疫癌症
 2026-09-29	血糖只是第一站 - 看懂「心血管腎臟代謝症候群」疾病軌跡，才能讓慢性病停在起點 門診裡很常出現一個場景 : 有人拿著健康檢查報告來找我，指著血糖那一行說：「醫師，我血糖比較高，但還沒有糖尿病，那就先追蹤看看吧。」 這幾乎是很多人的第一個反應。 當看到「前期	https://www.facebook.com/cmgenome/posts/血糖只是第一站-看懂心血管腎臟代謝症候群疾病軌跡才能讓慢性病停在起點門診裡很常出現一個場景-有人拿著健康檢查報告來找我指著血糖那一行說醫師我血糖比較高但還沒有糖/1356341199629545/	代謝神經
 2026-09-29	莫德納癌症疫苗實現突破，股價暴漲只是開始？	https://hao.cnyes.com/post/264061	免疫癌症
-2026-07-16	荷蘭高溫期間兩周內超額死亡人數超900	https://www.wenweipo.com/a/202607/16/AP6a584fdce4b0b49ad1c39908.html	未分類
 2026-09-29	臺科大AI脈波智慧裝置 失智、癌症等疾病風險1分鐘評估	https://tw.news.yahoo.com/臺科大ai脈波智慧裝置-失智-癌症等疾病風險1分鐘評估-033523197.html	免疫癌症
 2026-09-29	胃腸胰神經內分泌腫瘤如何用藥？「藥物接力」穩定與疾病共存	https://tw.news.yahoo.com/胃腸胰神經內分泌腫瘤如何用藥-藥物接力-穩定與疾病共存-010000979.html	免疫癌症
 2026-09-29	肺栓塞其實離你很近 振興醫院7/29免費講座助民眾了解久坐潛藏風險	https://n.yam.com/Article/20260720109932	心血管
@@ -40,7 +37,6 @@ var DATA_SIDEFX = `
 2026-09-29	糖尿病醫生不要看《最喜歡大食！望月小姐》動畫化確定 靠餐後嗜睡絕頂升天↗️	https://www.4gamers.com.tw/news/detail/81112/toho-new-animation-project	代謝神經
 2026-09-29	糖尿病年輕化 7成易酮酸中毒	https://www.msn.com/zh-tw/sports/other/糖尿病年輕化-7成易酮酸中毒/ar-AA1Qopm5?cvid=69168def62664b87a0aeb572ebc584da	代謝神經
 2026-09-29	糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善 | 生活 | CTWANT	https://www.ctwant.com/amp/article/488975/	代謝神經
-2026-07-13	糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善 - 健康新聞 - PChome Online 新聞	https://news.pchome.com.tw/healthcare/crwant/20260713/index-78390561419043316012.html	代謝神經
 2026-09-29	空服員常過勞？林予晞曾當空姐「罹甲狀腺腫瘤」 兵家綺遇3 次空難身心壓力大	http://www.msn.com/zh-tw/entertainment/news/空服員常過勞-林予晞曾當空姐-罹甲狀腺腫瘤-兵家綺遇3次空難身心壓力大/ar-AA1OqzR5?cvid=4387b148432a4af0a3b5d7b270265d91&ocid=uxbndlbing&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
 2026-09-29	科大聯合開發機械人納米探針 為神經退行性疾病及癌症治療研究開拓新方向	https://www.eurekalert.org/news-releases/1112272?language=chinese	免疫癌症
 2026-09-29	破除新冠網路傳言 醫：打疫苗副作用大幅降低	https://tw.news.yahoo.com/破除新冠網路傳言-醫-打疫苗副作用大幅降低-031729130.html	生殖其他
@@ -53,20 +49,16 @@ var DATA_SIDEFX = `
 2026-09-29	熱浪乾旱襲歐洲 今夏至少3.2萬人超額死亡	https://www.stheadline.com/realtime-world/3607077/熱浪乾旱襲歐洲-今夏至少32萬人超額死亡	未分類
 2026-09-29	熱浪下超額死亡多少人？法國公布了	https://www.chinesepress.com/archives/185819	未分類
 2026-09-29	災害級熱浪… 日高溫飆41.1℃逾萬人中暑 法5764人超額死亡	https://www.worldjournal.com/wj/amp/story/121488/9647978	未分類
-2026-03-25	湯建 張雪峰猝逝 外界懷疑疫情疫苗後遺症	https://www.ntdtv.com/b5/2026/03/25/a104079882.html	生殖其他
 2026-09-29	港大醫學院研新技術 治療二型糖尿病患者心血管疾病	https://www.i-cable.com/新聞資訊/430634/港大醫學院研新技術-治療二型糖尿病患者心血管	代謝神經
 2026-09-29	港大醫學院新影像技術 有助及早判斷糖尿病及冠狀動脈疾病患者心血管問題	https://news.tvb.com/tc/local/696f5652643a18d0a8afcfee/港澳-港大醫學院新影像技術-有助及早判斷糖尿病及冠狀動脈疾病患者心血管問題	代謝神經
 2026-09-29	港大深圳醫院｜機械臂切除腫瘤不全 二次手術後病人兩年後亡	https://www.stheadline.com/realtime-china/3563318/港大深圳醫院機械臂切除腫瘤不全-二次手術後病人兩年後亡	免疫癌症
 2026-09-29	流感太致命！日本偶像併發心肌炎猝逝 年僅8歲家屬悲痛公開心聲	https://www.nownews.com/news/6878872	心血管
 2026-09-29	法熱浪超額死亡個案逾5700宗	https://www.wenweipo.com/epaper/view/newsDetail/mobile/2080346670230540288.html	未分類
 2026-09-29	法國高溫致3天超額死亡逾千例	https://chaiwanbenpost.net/article/法國高溫致3天超額死亡逾千例/4674	未分類
-2026-09-17	法國遇百年來最熱夏季 「超額死亡」已近8000例	https://www.wenweipo.com/a/202609/17/AP6aac074de4b01d54a283a809.html	未分類
-2026-07-23	法國6月至7月初熱浪期間全因超額死亡5764人	https://www.dotdotnews.com/a/202607/23/AP6a617f46e4b04b6c5d344cd0.html	未分類
 2026-09-29	法国婴儿奶粉事件最新进展：昂热27天女婴死亡，检测出“异常剂量”毒素 ...	https://www.xinouzhou.com/detail/fa-guo-ying-er-nai-fen-shi-jian-zui-xin-jin-zhan-ang-re-2-7-tian-nv-ying-si-wang-jian-ce-chu-yi-chang-ji-liang-du-su.html	藥物副作用
 2026-09-29	沈玉琳不捨傅子純疑血癌驟逝 曝「三個月前剛健檢也沒用」	https://tw.news.yahoo.com/沈玉琳不捨傅子純疑血癌驟逝-曝「三個月前剛健檢也沒用」-070311922.html	免疫癌症
 2026-09-29	比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來	https://health.setn.com/news/1804603	免疫癌症
 2026-09-29	歐洲熱浪｜6月底錄過萬超額死亡 9成為長者	https://inews.hket.com/article/4160014/歐洲熱浪｜6月底錄過萬超額死亡 9成為長者	未分類
-2026-07-13	歐洲極端熱浪太可怕！7天竟有逾1萬人「超額死亡」 - 國際新聞 - PChome Online 新聞	https://news.pchome.com.tw/internation/crwant/20260713/index-78391396610480316011.html	未分類
 2026-09-29	歐洲6月底熱浪期間錄得逾萬例超額死亡	https://www.epochtimes.com/b5/26/7/13/n14808396.htm	未分類
 2026-09-29	梅雨季來襲 醫：體內「除濕機」失靈恐成慢病幫兇！血栓5疾病風險大增	https://tw.news.yahoo.com/梅雨季來襲-醫-體內-除濕機-失靈恐成慢病幫兇-025300316.html	心血管
 2026-09-29	服甲亢藥女子副作用亡 醫生梁鑫暉失當罪成除牌半年	https://thewitnesshk.com/服甲亢藥女子副作用亡-醫生梁鑫暉失當罪成除牌半/	生殖其他
@@ -100,7 +92,6 @@ var DATA_SIDEFX = `
 2026-09-29	小腹凸出 ≠ 危險! 醫曝「這種肥」很健康：不會害人心梗、糖尿病	https://www.msn.com/zh-tw/news/other/小腹凸出-危險-醫曝-這種肥-很健康-不會害人心梗-糖尿病/ar-AA20PNc8	代謝神經
 2026-09-29	媽祖叫你請假！保全低血糖路倒 暖男送紅包	https://news.ebc.net.tw/news/living/543840	代謝神經
 2026-09-29	妻子患嚴重糖尿病和柏金遜症 #屯門市廣場 #企跳 #照顧者 #am730	https://www.facebook.com/am730hk/posts/妻子患嚴重糖尿病和柏金遜症屯門市廣場-企跳-照顧者-am730/1421473100020288/	代謝神經
-2026-01-22	女童疑遭「蘋果病」B19病毒奪命 疾管署：若併發心肌炎致死率達3成	https://news.pchome.com.tw/healthcare/healthnews/20260122/index-17690472009508620012.html	心血管
 2026-09-29	女童染B19病毒併發心肌炎猝逝引發關注！專家籲：家長提高警覺但勿恐慌	https://tw.news.yahoo.com/女童染b19病毒併發心肌炎猝逝引發關注-專家籲-家長提高警覺但勿恐慌-022939087.html	心血管
 2026-09-29	失智症不只和大腦有關？「牙周病、關節炎、糖尿病」16種疾病都增風險	https://health.udn.com/health/amp/story/10695/9325957	代謝神經
 2026-09-29	天熱高溫車內恐曬出毒! 近半數車主罹血癌 譚敦慈示警「2大關鍵」	https://www.msn.com/zh-tw/news/other/天熱高溫車內恐曬出毒-近半數車主罹血癌-譚敦慈示警-2大關鍵/ar-AA21ArMx?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
@@ -116,7 +107,6 @@ var DATA_SIDEFX = `
 2026-09-29	前主播吳中純死因非癌症？ 女兒泣「是不是化療害死了我的家人？」	https://udn.com/news/amp/story/7266/9352653	免疫癌症
 2026-09-29	初中生2天玩36小时手机突然晕倒：长期熬夜暴发性心肌炎	https://news.mydrivers.com/1/1106/1106495.htm	心血管
 2026-09-29	兒虐害成年罹患身心疾病 研究：重鬱、偏頭痛、糖尿病風險都上升	https://health.ettoday.net/news/3077104	代謝神經
-2026-06-25	免役體位加嚴-癌症-心臟病-得當兵-退將憂猝死誰擔-新庶民大頭家-完整版-20260625-陳揮文-馬文君-葉元之-chinatvnews	https://www.ctv.com.tw/Article/免役體位加嚴-癌症-心臟病-得當兵-退將憂猝死誰擔-新庶民大頭家-完整版-20260625-陳揮文-馬文君-葉元之-chinatvnews-	免疫癌症
 2026-09-29	傅子純血癌驟逝！昔《多情城市》戰勝病魔 網嘆戲裡戲外不同結局	https://tw.news.yahoo.com/傅子純血癌驟逝-昔-多情城市-戰勝病魔-網嘆戲裡戲外不同結局-023500546.html	免疫癌症
 2026-09-29	傅子純血癌猝逝！白冰冰悲痛 與遺孀私下交情曝光	https://www.ftnn.com.tw/news/552387	免疫癌症
 2026-09-29	傅子純血癌猝逝「最後錄影畫面曝光」 網揪心：怎麼可能會出事	https://news.tvbs.com.tw/entertainment/3226696	免疫癌症
@@ -135,7 +125,6 @@ var DATA_SIDEFX = `
 2026-09-29	不是肌肉! 研究曝「1處緊實」超健康：能防猝死、糖尿病	https://www.msn.com/zh-tw/news/other/不是肌肉-研究曝-1處緊實-超健康-能防猝死-糖尿病/ar-AA1YSqOU	代謝神經
 2026-09-29	《新兵日記》男星傅子純急性血癌猝逝！46歲突失呼吸心跳	https://www.pinview.com.tw/News/59280.html	免疫癌症
 2026-09-29	“拍照只敢躲在最后”238磅女生逆转人生一年减掉半个自己告别糖尿病、多囊：不再自卑	https://info.vanpeople.com/1847214.html	代謝神經
-2026-09-21	mRNA研究下一步？亞太專家齊聚台灣聚焦傳染病、腫瘤與罕病應用- 健康新聞- PChome Online 新聞	https://news.pchome.com.tw/healthcare/healthnews/20260921/index-17899542001050420012.html	免疫癌症
 2026-09-29	Polpharma Biologics與Tuteur簽署自身免疫性疾病生物相似藥授權協議	https://www.businesswire.com/news/home/20260521567045/zh-HK	免疫癌症
 2026-09-29	8歲童星平田琉七感冒引發心肌炎猝逝 經理人公司沉痛證實 家屬悲悼：人生三分之一在當偶像	https://news.google.com/rss/articles/CBMi1AJBVV95cUxPWnd6V2Y4cllZT3VMcmdqbk9wbWlYOEZEUV9DcmFBZ1gyV19XS2R5SHB4RW5wbkQ1a29HaWNLd2hraXZRSlNKaXFoZE11VlAyRzJuZ1pfaHhZeUtLZC1EdFBvcGpWZVk0Z2xqSlE4d2pGWEVLemFjRmZXUngzNDJBREgxWjh4Q0V1ckNVUDM1WlNDZEdTSUVQMHNzZEFaUlBYc18zWWk1OWZFUEh5SkN2UW1LNGE5NmlFc3hVMXJXa205UXNqQjM2NGtqd3RBSjA5OFlPODg2LTcwZk1Vb1Y4dk1zdHRFNHRyWGs0Ul9mZFhpRlVtM1Z0UENGajNLeEdUTFZlSUFvbGJsVzF5aUZiV0xfRzhNV3oyWnhDVTZGSDFteExDQTZCckZyaEIyQnl0Y19QZzlwVlk1YWVCQmo0M1VYZHg4bDNGT3RXSzlvRFRVV0JT?oc=5	心血管
 2026-09-29	6旬婦罹罕病逢希伯-林道症候群 多個器官易反覆出現腫瘤或病變	https://news.pts.org.tw/article/804664	免疫癌症
@@ -152,9 +141,7 @@ var DATA_SIDEFX = `
 2026-09-29	2005年真实故事改编：7岁小女孩身患白血病，一封捐赠遗书， 感动了亿万观众！ #微博视频号迎新计划# ​	https://k.sina.com.cn/article_7879923747_m1d5ae182303301e7o0.html?cre=tianyi&mod=pcent&loc=16&r=0&rfunc=30&tj=cxvertical_pc_ent&tr=12&from=news	免疫癌症
 2026-09-29	18歲女「胸痛肺栓塞」險猝死 元凶竟是調經藥！	https://tw.news.yahoo.com/18歲女-胸痛肺栓塞-險猝死-元凶竟是調經藥-091433115.html	心血管
 2026-09-29	11歲女童買包子後車內尖叫猝死 法醫驚爆：感冒恐引發致命心肌炎	https://www.pinview.com.tw/News/53866.html	心血管
-2026-01-14	11歲女童旅遊返台突猝逝！醫示警：恐病毒引發致命心肌炎	https://www.ettoday.net/news/20260114/3101005.htm	心血管
 2026-09-29	11歲女童旅遊返台「大叫一聲」猝逝 醫：心肌炎病程快恐致命	https://tw.news.yahoo.com/11歲女童旅遊返台猝逝-醫-心肌炎病程快恐致命-080146089.html	心血管
-2026-01-16	11歲女童「大叫一聲」後猝死 高大成推測：恐心肌炎	https://news.pchome.com.tw/society/ctinews/20260116/index-76853124068818309002.html	心血管
 2026-09-29	11歲女童「大叫」猝逝！高大成揭心肌炎致命關鍵「很罕見」	https://tw.news.yahoo.com/11歲女童-大叫-猝逝-高大成揭心肌炎致命關鍵-很罕見-090948375.html	心血管
 2026-09-28	男童腹脹、全身瘀青！醫以為家暴一驗竟是血癌 4異狀快就醫	https://news.ebc.net.tw/news/living/565968	免疫癌症
 2026-09-28	爬山喘是心梗前兆！高階公務員劇烈胸悶 醫抽3次奪命血栓保命	https://news.google.com/rss/articles/CBMifkFVX3lxTE9zb3ZuV0tqMHpoZzdjaWJxd1czblEzeGhpUjRNVUZ0QUZNa0hvMU1ScGJCeENia3VmdU8wd2xTUEs1TU56RWllWWtrYzFZSDJLWkVUSkdxSFdHRDdWblhfTjV4SjJfeHJkNGl2cTE3b25IaWRBUEZXN09SbW9EUQ?oc=5	心血管
@@ -167,10 +154,11 @@ var DATA_SIDEFX = `
 2026-09-24	「超級聖嬰」恐增45.1萬人熱超額死亡 專家稱數字偏保守	https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zMDJMYzRnUlZzaEJXTHF4Nmx0eTJvM3Q2VV9PRThpc0trQzgtNlpCaWVpU3Y0aDFjdjBKd1VYY2w3U0tZdDhtTmczV2h5MGJR?oc=5	未分類
 2026-09-23	超級聖嬰引發極端高溫 美研究估增45.1萬例超額死亡	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rSWlCdUZJalBaNFFRVmxYQUE2LWFCei1SVG00c043SWtQUGZmQ3l1bmV0LXktZ2Z1bXVybUtPVVE5ZzB4SzVBSjAyOVplSG9TdXJkR0pidkdkVWQ3YnlHT1NnUy1KUdIBa0FVX3lxTFAxRXpaZWN2RmRoYkhKZXdQN3Q5LTc3a2x2V25YdlpnNmtINnBRVHRDLWJnaDBpR2V3bWI0cXAxdWtBdThTZE1ma3Y0WHlza2JyTExybUZWN0QwTkktcnJNSTBmYXd3QXVmYlBv?oc=5	未分類
 2026-09-22	10萬年來最高溫...今年8月是有紀錄以來最熱的一個月 歐洲超額死亡3.2萬人	https://news.google.com/rss/articles/CBMiggFBVV95cUxObG5xYjlKYWxMYXZTME5VbkNKMHh4bzUybUJSQjk4S3pUMEFlcGREdDY3UkgyUWF3WmRXano5V00yNUJBUHA0Y3h1V3BFLWV5aVFqbm5tTGpWdWFEaExWYkZYdC1MODF1QmdSTmk1Mk4tZWd5dGFUM1BVbl9kTVNuYUV30gFkQVVfeXFMTjNOVUpjRFhpeU1tN1g5NmdBNFE3WXZnSTU1YTRfYjc5ckU0VVdId2F4RndLbTIxMVlWa3VUUm95QzJNQURSdmZjckZsd1g5N3dXd3hxd2xManRsUjRwR1NCYXlvQw?oc=5	未分類
+2026-09-21	mRNA研究下一步？亞太專家齊聚台灣聚焦傳染病、腫瘤與罕病應用- 健康新聞- PChome Online 新聞	https://news.pchome.com.tw/healthcare/healthnews/20260921/index-17899542001050420012.html	免疫癌症
 2026-09-19	新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思- 健康	https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYlQtQnlxdm5QNF9kSlgwUnlxcXZPSkRoMDdDanRtRFBFWERzcElGeGlMQmJ1NzVGLW10QlZrWGRCUXpGNUlsU0JpaWN2bDU3a1dmZ3RzZl9oYjh6QmY0RHZxYkYwTXlFNWdhSFdn?oc=5	生殖其他
 2026-09-17	破除新冠網路傳言 醫：打疫苗副作用大幅降低	https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5	生殖其他
 2026-09-17	疫苗副作用討論度最高！專家搖頭：網友認知停在疫情時代	https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VbEhMS2ZDUDdhSHk3YmtMT2VkalExSXdUa0JIVFI1ZlVGd3NTQ1psR0VqYzhUczVxMXA2WF9VMFJ6dkdod3FaM0E0VzNsYkcwWGhYeWdYWkRYRms3UkI1Zjk4VHXSAWpBVV95cUxNd3Z5QUtJY1BBSHpPOE9jMjlEQi1CRDd4OWY0NTNZc1ppNU51Q3huSXJNOExhOFVoRE5vcXpQUlJubFN5ejFfM3RwZkl4SFZTdFVReXdYTGZpOWRGUExWWU5JOVRxRHp1MDh3?oc=5	生殖其他
-2026-09-17	法國遇百年來最熱夏季 「超額死亡」已近8000例	https://news.google.com/rss/articles/CBMid0FVX3lxTFBNNG1JV1NHUXNFS2Nia3ZUdGwwTk90U084Zm5ndlFPVEI3QU9fSXRUaUlPc3lYTC14MFNMQW5mbi1ZVnJFcVlmMlkyYm1lT2dESDMwdFBOQ2J4MHJfbndhM291TURFLXpCNlZiejN3eDVrNy10VV9r?oc=5	未分類
+2026-09-17	法國遇百年來最熱夏季 「超額死亡」已近8000例	https://www.wenweipo.com/a/202609/17/AP6aac074de4b01d54a283a809.html	未分類
 2026-09-17	民眾擔心打新冠得癌症 醫師：副作用少很多了 - 健康新聞 - PChome Online 新聞	https://news.pchome.com.tw/healthcare/awakening/20260917/index-17896319413819443012.html	免疫癌症
 2026-09-16	泰合生技10月下旬轉上市 抗血栓口溶膜搶攻292億美元藥品市場	https://news.google.com/rss/articles/CBMiUkFVX3lxTE15RlhPc1p4MzN0UW9kVHdrUjJ0VmZHM0dTUFJYeUlrUVUzSy0zZnZoSkNtdFJ4YVJJelJUTmlSVkZzX01DSWxmRjIxZFdRcVNsalHSAVBBVV95cUxPTmQyOThraHpFdDZfVi1yTWtXUWpTTURaX21FS0VNbFhaeUw1V0NST1R5eGUwaGNoSVRiZlR2ODJjN19VUU12NGc3d3dIRzdneg?oc=5	心血管
 2026-09-16	泰合抗血栓藥進入上市前短兵攻防，原廠態度成關鍵- 新聞	https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGZQYXdwbFVRUG9maWt3RnlTY0RxLTJxZXRzVW9CbVA3T18yMmZkTjk4Tmg0VHp5RXVOWHNRWi1TVGM1aS1ISS1DeG9JQm1IS0dxbWhYMU5lQzl0MzZQcU9rQ21fUV8taEFWTjAyNVY5LXdITlZHVG5PSGt6X3UzWV96a291VHlpVWk1eTEyRnVLZw?oc=5	心血管
@@ -186,7 +174,7 @@ var DATA_SIDEFX = `
 2026-09-11	9/11恐襲25周年 創傷後遺症持續浮現	https://www.worldjournal.com/wj/amp/story/121390/9748027	生殖其他
 2026-09-06	傅子純46歲血癌猝死！沈玉琳揭隱形殺手「3天恐見上帝」 曝4大保命方法	https://health.setn.com/news/1852336?utm_campaign=viewallnews	免疫癌症
 2026-09-06	健康網》55歲廖國宏腦血栓驟逝！ 營養師教6大飲食保護血管	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtVF9YSkZOV09OdDdLVWRna3Y4RXZOaGNMamlmN25ZUmN4bld5amRSVVprM0lZOTIwdW1uS1dtdnIyWXNsUUYxNnNWMGhRbzdsVV9tNXNLTHZQeHNFd2ROaDA1cFrSAWpBVV95cUxOa2d0cDliYU1UekVtUWxNSmYxNkpPNEJ1VGNtMmsxLTNfR3lVcWYxQ2V4bkQ5ODFnd045RUxlQ2x3WkdackJRbHZjSGVQdFA3elBYRjdjVm1sLUQxYXVtSUZnZjZ4WG1MNmNB?oc=5	心血管
-2026-09-05	酷暑熱浪期間 法國超額死亡人數達7000人	https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fY1B0anF3VXdQNmF3NlFRRU5MWHJha1hlanBkd1pSWjlVT2FPTjZtOS1EYkdFWENtZ1NqVXZSUHZidldjSXBJbFRuUEpZLTRUaEdTSFFKbG9kanpYVndF?oc=5	未分類
+2026-09-05	酷暑熱浪期間 法國超額死亡人數達7000人	https://hk.epochtimes.com/news/2026-09-05/66818768	未分類
 2026-09-04	酷暑熱浪期間 法國超額死亡人數達7000人	https://news.google.com/rss/articles/CBMiX0FVX3lxTE02OTBEQW8wNjdLaHl5RHdVRURJQm80MVVmSEdvS0tqcU9HamxneWg2T0wxckdfR3p3NWJHWDFTLW1CS1MyYXpLMGpuVTRiSnRHWlMtMWNJbnhyb3E5TUpN0gFkQVVfeXFMTnJOVEpVOTFZdjcza0Nma2JvWWJNVlc2dk8xaFhIOWJoR0JWX241ckN4V2gtd0poVlBkcEMwOUt4QVBzWWhuYWNfVUZQcXE3cTRCYm9lb3dhTmdxdkozcEZYblpaUg?oc=5	未分類
 2026-09-04	7組早餐讓「血糖坐雲霄飛車」！營養師：下一餐早24分鐘餓	https://health.ettoday.net/news/3231558	代謝神經
 2026-09-03	鼻腔長腫瘤影響歌聲 徐暐翔崩潰自搧6巴掌	https://reader.turnnewsapp.com/ct/20260903/bbc1b1/q1rfmjaynja5mdnfqjffnq2/share	免疫癌症
@@ -236,7 +224,7 @@ var DATA_SIDEFX = `
 2026-07-24	法熱浪超額死亡個案逾5700宗	https://news.google.com/rss/articles/CBMid0FVX3lxTE5yaExQRnNxOXByM2l1VVpiNjRCbEJWN09ZYmhSYk1HY19MRFdDaDNrWm8yN25rN0FJeUFaNDB3MFhwQ21jdGhIX29GTEN1YVFXRC01NURSNFYwX09rcUVkVEg4RjJWSzhRektTYzBabnA5SjlySmxV?oc=5	未分類
 2026-07-24	法熱浪超額死亡5764人 逾半發生在其中3日	https://news.google.com/rss/articles/CBMi7AJBVV95cUxNU1lWUXFrLXctV2NEdXRkNE9NMk45cHRIbEpFODNHbWpoaFhFalZ2T09pdnpibkhmemdjRUltVGhWZVRwQTdVRnF0Y0lnZmp1SHRhcmw1LTZyWnZ4X1Y0RXNlQmJRRWtXZ29aamFKemV4N3dITG1NSjZCdk9mUENGUHEycjZVT19IRHhhWGc4SEFTbnVuTEdEa0FpeVNDZm1kY0NHNkpWamdkTDRzQTFsbDBDVEp1WkZrU2hmYzBHaFVqVlNPamQ2TnY1b2tNWU1KRUdoNW5BdTJxSzRuRldwemtxT3JJQm9pNUgtYWtNREJ0dzZpdS1ERzFVNEJWLTE5Rms0R1JfRWhOSDJnV0pjNnBfY2dOdmljdWFaVjU1aWlGaHF2NjdXaFNFRTVNTENQNTZJU3J5aGNjOHJYcmVqLUlwcXI2SXhxWk1xbVFqeDRTbGxvRHpuNnBJZjB1Qkt3a0NERkVNNDB5SWw3?oc=5	未分類
 2026-07-24	法國熱浪肆虐 超額死亡5764宗	https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUXFnaVhGTndYVU5NY1M1QVhPMG5iZElWWU8zeU9YalprRWhIUVhtelJIM1BQa0FnTFJHdHN3Y2NsOHpJVTdSd0FQVDVFWUxMbGZzQUd0cHlXbFpkV3E4NHpUcVNZMFBtZUQzZWY3WW52OGlDTjNfejExOUdya2FIYmxhQnl3LThoa3U4LWdUamQzRzBjX3VfVkJkdTBwbFo0d1Vaa0Utc3dNTHUwR2NTclFtWDRLb2lDOU52MkhLX3RRMkhJVlRUMDhoUFdVbTlpT0tUYWNlSDlvNktRc2l3WWNRZGFlRkU4SURqTA?oc=5	未分類
-2026-07-23	法國6月至7月初熱浪期間全因超額死亡5764人	https://news.google.com/rss/articles/CBMiekFVX3lxTE1CeExxaEVqTnVCb1dXMmtPUDVWbEpaUW1XSFZJRzBvZERPVFAwYnhzVFZVR1VEcjRkRzgyc0FtOUNzTVE2RDJwRzFFbjRYaVlXR05sbTM5N3JJcU5iRDBXM3RzT0ludzVZckp4YUNhQXBrd1dORDNJWnF3?oc=5	未分類
+2026-07-23	法國6月至7月初熱浪期間全因超額死亡5764人	https://www.dotdotnews.com/a/202607/23/AP6a617f46e4b04b6c5d344cd0.html	未分類
 2026-07-23	NBA》年初血栓驚魂後積極治療！Bosh自曝健康狀況已好轉「我現在很好」	https://news.google.com/rss/articles/CBMilgNBVV95cUxOWk82bWEwWUFKem8ySEdwb3lJaFpqbXRPaWRnbnVjNER1WWVJbHE3OXhlWTRDSU1IOG9IME43cURNUy1oRXpCYWRxaHI3NDBQR0Z1bEhUWWJzbGdNVEFuNjIzUFUxX2tER0xwbTNJWXg3b2V0V0w2TEpfSFJqYzdiWEV3VnIxRjJIZC1XNVBTaC1Vem9sc2lmU05QMGxaaUFHSmVjMWVQR0NoOXBGRS1GSHZVRUMyaVF1WkozWTBhM2VXS2VjV1NOS1VPLS1zZDRIY2RYNXRWa3FOYkE0Z2lKWHhqRWJJQjBXMTNLX0hyUUNOQ3ZjVENvbXh0VHNNNWZadzV1UWFhdkpITk41UElTT204aFpfek91T0sxa3dndkZYckEwSjJFNWJ5ekhURUdUbzhyU2xlQkhwQndJdXBUMk10TGN6elNNSDd2YmpFUG1XUXluTDV2cW1lWjJBWVZLNGVfVFZxd3VsU1AtdDFFb0Nmd1Y2clpLczFlcHRYUmpyNV9lWWZ0Z3VzMjBHVU4zWk1qT2pR?oc=5	心血管
 2026-07-23	6月歷史性熱浪下 法國「超額死亡」人數近6千	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XZ0RRZ20xNWlod0xkajhXOV9taUhMbm81X2duTlpzbzdVOXlCdUZ0M3pYUldSdDJwajhzbW9ITlZERkhZSWVkYjctWVhDZ0NQVHpVeWt2N015LU5MX2h3a9IBZkFVX3lxTFAwbFhYQ0MtOGxmNHZidEtlS3ZtSXhsUWkwRDVQMXBmNGNSYUpoenNHdnhLWVBaZWtWMWdXdlJpdVVLLXI0QXNzVE5mLWU0UFlWbkkxQlNaUlhoZXlqdlF4RVA4Uk14dw?oc=5	未分類
 2026-07-22	高溫肆虐！歐洲6月下旬「超額死亡人數」破萬	https://news.google.com/rss/articles/CBMiwwJBVV95cUxQY3lSYXdRaU5odGFOS19WeGZyb04wY29tN2JhbnAwT3dzMGFITE8xZlRsOEVBTEo0QzhYSWxSbVRjRjhxcFZ1UkdvSk9nXzNES1Z2dTRrVUVOLVExMS1hazBZSjBWQi1oZ0pzaFBnTmVKQ3dhWTkzTW5DS1RPWE1JQVJpblhGN1NYNXQ1c2VFa201dmJYQ0tkQXRLaDJXNGJXdjQ3UjBPUDJuUDN3TjhLMWotSWVqaGlqTUwtUDJGclk4SkhuTFBkRnkzLW9jUFFYNmd5TDhKX2tFNVc1ZjNOcjQ0M0ZRWnBxa3gtbTB3WU0tQmQ3SnhEUkVwUzBCU29kR3hXMjlHNlktRjBHMjFtN3RyMkJHZ0tIX2lRV21HU0VCbS1PclVZVlprX0IyYUt4UmNTRWZDUGxNNWkwNGdhcGtSYw?oc=5	未分類
@@ -245,7 +233,7 @@ var DATA_SIDEFX = `
 2026-07-20	「初戀情人」 傅子純血癌猝逝賴慧如首露面爆哭曝大嫂近況	https://www.msn.com/zh-tw/entertainment/一般/初戀情人-傅子純血癌猝逝-賴慧如首露面爆哭曝大嫂近況/ar-AA25aDTR?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
 2026-07-20	8旬婦長期服抗凝血藥仍中風 心臟藏4公分巨大血栓、一度誤認腫瘤	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SRzhpS1VVdy1xbXVnS3ZHS2VQdTFFdlhTTFptSHJOUC1yeWd2WkIwZnJPdTgxaDVNUmYwM29XNjlSTTNHZEhTZmFLSTZzcG9Bc3htaEhn?oc=5	心血管
 2026-07-18	小腹凸出 ≠ 危險! 醫曝「這種肥」很健康：不會害人心梗、糖尿病	https://www.msn.com/zh-tw/health/diet/小腹凸出-危險-醫曝-這種肥-很健康-不會害人心梗-糖尿病/ar-AA20PNc8?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	代謝神經
-2026-07-16	荷蘭高溫期間兩周內超額死亡人數超900	https://news.google.com/rss/articles/CBMid0FVX3lxTE5nUTJoYXF3aHRDMkdUUXp6UEkxMDN5Mmh1Uk5NMjhfV0FiVkttS0NlanRIWUdfc3ljTlJuSWpKYU44NmdSc0F6bHZyUHhMcFJqMVdUTEI1bWV6d0M4OTBwTlJqb1ZROERMX3N3cXF2T0F2bUZVV2tJ?oc=5	未分類
+2026-07-16	荷蘭高溫期間兩周內超額死亡人數超900	https://www.wenweipo.com/a/202607/16/AP6a584fdce4b0b49ad1c39908.html	未分類
 2026-07-16	荷蘭兩周內超額死亡人數超900 高溫或成「兇手」	https://news.google.com/rss/articles/CBMidEFVX3lxTE5aa1R6Wmpia1BNdlJHM2Jad0Y0MFhzbnM1Y0NrM1p0LTVqcjFKdkg4NUVRejF4cGx5QTI5bk9ueDlBUk1MMHdyR0xFTXBfdExjV2tuS21yNFBncHFyVmhsWXVxWjk1TWVXeUpIdWN6M3ZTQ2pX?oc=5	未分類
 2026-07-15	靜脈曲張拖10年不看醫生！老翁腿部藏40厘米巨型血栓 脫落恐致命	https://news.google.com/rss/articles/CBMitgNBVV95cUxOaHBNakotT3EzbkxrOGtqaXBYTjRrQnRFTmQ1NURfNUNENElZTVJKUC00ZlA1VUg4bjMzSzNLLVRWbXRyNUF6djdXM0hiUHA4WTVocGQ1V0VJSUhiTkc4ckFxYXdtcEhwaUJlMG1hdWpZcUpfMlF1U242V0FOTTJLUFRqdEU1aVU5aGExY190V3ZJeEtKUS1FS1E5S3pFTVR3d3ZCUmJtSzBZYWdmV2NPdHdzY1FRN3l4SzFuX24xcEZ6WVpPU3d3dy1XTTRBQkpVaS1EbVJIWE1iVGl4Z0hRU0JsdDUyQ0I0RUplY2hURVVhTjdpSk9fbEoyUzZvbHAxQVNmbFMtOHlsU3I0U1ZxMUdKNUFqcXJGa1VHODEwRmJaRzNkMzZkSXotTkhSVnNpUXpCZTBpLU8xeFZvTVRFYS1PMkFSbkkwMXlNUHFyQ2tOWjZ5WGZwWDdkTTVsTTE0Tng3Z2MyazZDeE5mZzdqSTJwWWh6c09VQmxjLXVPb0hGNFFVNy1nSHdpbnRXV2hnc2lHUTZqa01Yd0FwV0lTOFVicGtUQ2gySXVYMl9haEtvdDMyWGc?oc=5	心血管
 2026-07-15	熱浪襲歐6月下旬逾萬人超額死亡- 國際	https://m.dotdotnews.com/s/202607/14/AP6a559c32e4b04b6c5d335132.html	未分類
@@ -253,13 +241,15 @@ var DATA_SIDEFX = `
 2026-07-14	歐洲熱浪 釀27國逾萬人超額死亡	https://www.ntdtv.com/b5/2026/07/13/a104114760.html	未分類
 2026-07-14	北半球多地酷暑 歐超額死亡人數破萬	https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUY4VG51cWJQVHR1QTlQUHJ4dENPSVBhMExvdUxsMlYtc05jOUhSZDloZFpKZzdxbnF1VEVZT0tEWHJCbmpwYnBpU2dGVzlBYVg5aXZhN2NodmxsbEFwb1FRRFFtRnc2MXl6LW9aTFFTZWNwM2dieGZjZGsxNlVjQy1nNHlzZw?oc=5	未分類
 2026-07-14	創紀錄高溫肆虐 歐洲6月下旬「超額死亡人數」破萬	https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kcU5veFdtT1V2NzBCcWVMZjdBeXhFQWpFY2xxOWpxYjRyWVhwRHFHQ2w3YUlHTzRyaWZiM0JvZklfRVlHckhFbDJLS2E5aHpqa0dsdFpDY3lRcVVfRHc3LUNCazI?oc=5	未分類
-2026-07-13	高溫肆虐 歐洲6月下旬「超額死亡人數」破萬	https://news.google.com/rss/articles/CBMidkFVX3lxTE5rM29RLUZFa3hnYVlxUFpMQjA0N3lZVWl6V3B4RFFQXzZCeFNreEUyeTJnUXExV1R0TFNzcVFKQjVWdEdhd3ZsWlJGQllhYnJyUE1YdXpyQXVUeDVweHQzRlpkNDdUdWx1OW8tZUQ3eWVpQTd6VlE?oc=5	未分類
+2026-07-13	高溫肆虐 歐洲6月下旬「超額死亡人數」破萬	https://www.hkcd.com.hk/hkcdweb/content/2026/07/13/content_8764541.html	未分類
+2026-07-13	糖尿病、心臟病4大慢性病是共通元凶 醫曝2招有助改善 - 健康新聞 - PChome Online 新聞	https://news.pchome.com.tw/healthcare/crwant/20260713/index-78390561419043316012.html	代謝神經
 2026-07-13	熱浪襲歐洲 一周內“超額死亡人數”破萬	https://news.google.com/rss/articles/CBMiZkFVX3lxTE90Smc4MVV0V1F4cGdjeHJYR2hMWkM4NEI1ODVhMXh5OGJKeVpaWUg0dGUtSW1Iay1HYWw2ZFhXZFRoRVp4cEFkRFp3XzlCS3BfekhRS1lJaVZGRnVVVTNCTXpjZXRCdw?oc=5	未分類
 2026-07-13	熱浪席捲歐洲 6月下旬錄逾1萬宗超額死亡	https://news.google.com/rss/articles/CBMi4gJBVV95cUxNcjhJR1Bzei0wZjhDS1NBYnpha1NoeHU4NnQyNXdlNHNRRmIzdlZfNndYZnlWdzVuQnE0TFJBUEpFbWMtYlQxbzNQaGdnTm00UDhQXzFEaktMT3BLcTZoVVlYd3VPS2FyaFlZT0VIX25RR2FHT0FpX3NoYkE3ajRtYmlBQjdyb0Z3bGt3bm5zVFExbUJnX0JaQ2E5QUNMeG5KTER5ekVvTDJ2MXVlM0owT2JlTzk1NWpPNTVDRFRGY3lRZ2hZZHk2NGVvTEVUUGEwVHJoWEhtT3U3ZXRjUjNvQlNab3JLZzAzODgtN19CZXpCYVd1X2RWOHhyLTFTNVBKazhlbUNmQ3NEMHlhd1E0Q2QxM3ZfeFZraWNTNVY1Q0hzbE9IUjFrblc4OGlDTHRlSTh1bkpJbTFwcTRDa2NkaGFMMHRUd3ZsSjVEQWVuZjhPM0lDQTl4VzR0Y1YyOUtRc3c?oc=5	未分類
 2026-07-13	歐洲熱浪｜6月底錄過萬超額死亡 9成為長者	https://news.google.com/rss/articles/CBMirwJBVV95cUxPRWZuejFaMnJBb0hBMEhuV3ZxbWFnRWxEWENiYW1XQTlTVHp6bzR0eENQcDhRSXIzUFdOTmtwdGZaOF9aM1N4eWxNSDFReDNkNnBHMURGMTJPUERLU0oxR01ic0docVZyWWFkY0pINE9Mekh4d3ZLaThaOWR3UDk3VnBsYmtqV0V2VWVqdmhEYU9NdHl5cjMxTERPd0UtNVZBcmxqanpjYmdQWFUzZVhOUW0yV0dIVEwyUjRnc2lUWklIQXpPU1hQUHJSalB4cVpLZG1FWDhBNURKLW9sdXNVRjFFNndzY0JYYUFpSjdvWE4xS21nS2tRMUZzZERJaUpwU3l5VXpDUzNBSUoyTS1zOFZUZzNMQ0lVOFo1QUh2RndZOVNQNm9UMUxDdjlfTjg?oc=5	未分類
 2026-07-13	歐洲熱浪奪命 一週逾萬人超額死亡 9成是長者	https://news.google.com/rss/articles/CBMiYEFVX3lxTE91VGN1NlZBTk00ZkZHVWl3TTViUkZIejI3bEVvRHc2Ukx0X1hKODNCVmpjSXpUT002RC1pMjB3bjZTY241LVd5U3pGQlhqUjEtUmF2NFFJTjZNNnFHeUpfV9IBZkFVX3lxTE5oMU96QlJRNXE0VDZ5WXU0aWJralRibEFRQl85VWtDTlZqLUFKSjNmakk5cWV3RUc3dGFZLW5kV2tubWZhWGlPNW9xQXFrNzhicmppSmdoRnIwSDlxWDF4VTZLZ2Z4dw?oc=5	未分類
 2026-07-13	歐洲熱浪丨6月下旬逾萬人超額死亡	https://news.google.com/rss/articles/CBMilAJBVV95cUxOMXZXaHU5NXpEV3FlcjNyMy1OUnoyemVMVUNBNHZOdTdKckgzWnpoZE00MkhJdmF4MFpaWUhvbThWaVlTX0VFdVpSaVo0U180VG1IbVNaNEJsVFNTT0RoUWNmLS0tMzNMbTNCbmtYYVdfWjh3ZWkzLW44bko2dWdvR2dJYWxmcHU5Wi1ReV8yZVY3Z2pKYWxrb0R4LVFJRENpdUdWZHNibHpGNUtUZThVZnlBSm5OTUFtQnMyUHVmVGl1Tkk0dUVBQ0JiWW04MWhmbklSMTlsX1JPV1dKMzdiSFM0MUkzTkFxN3I4eExGVmVhX0FLcXpyRS11QUpHcDJwM3JVclBtVGpyWmxHTEtxbFNDdHM?oc=5	未分類
 2026-07-13	歐洲熱浪 | 歐洲多國1周內超額死亡破萬 英至少2700人熱死	https://news.google.com/rss/articles/CBMi8AJBVV95cUxOazlEWnpUcU4xM3NvSGpoQVBqYlJkZ3gxZnYzakU1QkpTVDFzQjJYRmpPWTJCOHplLUtvTnBKRU4yUWx6dFBBUWloSW82M2RFYzNBcHd2N2U2cDB6NERGbGtwLVpsTE5faUw4UElNcTlXVnY1X09janRLcEdNSUdrTF9zU01RdVFOQ2w2OEwyc01tdUROUFU3bUpFdU5ZU2FzaE9HOTZ3MUJabURxUkcwcHhFSHJJZ1BxemZ6bzdtWjRWS2tPY3JEZjhtZWpsa2VOMERNTF9QNFgtU2I3czN4LVNqLWJOZTlFUG9CS1BxTFVfWFFHWmR4SXZlekcyXzhocEFFOFFnbW5xUFYtYzV3ZHRuOGVUWHc3dVptZUxfcV9aWXMtbklnUHhPZjVHMXg1eFZsa3FmcFVPMFI3TGJsYUZCWDdZVjRScmJXTXJnMUladU5BbzBCUG9qeDNBbUJhcnotUGVYNEJyd2lQNUYwWA?oc=5	未分類
+2026-07-13	歐洲極端熱浪太可怕！7天竟有逾1萬人「超額死亡」 - 國際新聞 - PChome Online 新聞	https://news.pchome.com.tw/internation/crwant/20260713/index-78391396610480316011.html	未分類
 2026-07-13	歐洲6月底熱浪期間錄得逾萬例超額死亡	https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DU0RWVU9qTi1IbVpYdllBQVJfTEdFM1EwY0dqcUxJN3RkRGk2X1BlQ3h0ZmpWZVBKMFFidTIzcnZ5RmxnbUs4V1BjWWFSM1UxVldiZC1hQVd0YndPRzVN?oc=5	未分類
 2026-07-13	歐洲6月下旬熱浪致逾萬宗超額死亡 逾九成為65歲或以上長者 (13:25) - 20260713 - 熱點	https://news.google.com/rss/articles/CBMiwANBVV95cUxOV3BNTWE1dnE1b2JQSmotR2lHbmN3ZzAwRUVUQXB1eG9jMkdsSlZXQWVFNl9hN1JsMHlDTFFraHVIWjlwNmlwMll3UlZMQ2lOMHUzaGk4bC1iN2EtR2ExQVJZd2hlU0ZVaG0tYlZnUlZBSlNGTGxlMzFXeTFQZ0RJLVhfUFQ0N2JmbnBUYWl3UTZDV3V5V2hrbDE0dnBNckhLSmIyeklTZW8tM0VlOXVCVnNEMG1ucGdUMEl3V1ZEbHNfZy05SFpuSkJTUmpWcmxoWXBjRW53OVFJQUZSOWZoU2oxZWdXUmYtdWVkY2VjeXJiMXNPT1gzMEVpTFh0YjVYNkNfTXR0Z3N4ZjMzeVlWNHA5bm9fT1Z1TkFENDlXQ0lXaFVPN29nV2JtTDFEczBueFpTbHhWMXAxeXhDRS1SYk9iVmVFSHZTeWR6alh2Z2hFZ082SlF6aXZlTUM0dXBhN3hlbmhyazhoUW9EeXFWejhhN0EyaDh4ak4xUFFmb0RYV1F3elBkZDZ4OHVEZDFkOUtfRXBJbWtmdDBPYnoxaVBDNTlLSU9nbkxtLUV3dGM5czQ4Q0ZsT1hvemJNQ0lF?oc=5	未分類
 2026-07-13	歐洲6月下旬熱浪一週內錄逾萬宗超額死亡 九成爲65歲及以上長者	https://news.google.com/rss/articles/CBMivwNBVV95cUxPZE9zczEyQW5NdTEwTGxlMU1Ec2d0ZnY0MTVQaGlQX1FkM3BGd1d6TnI1cmdqM0JaNDJDdG9iU3BkeVg3NEpxN3N3M3pZZS11N1Q5VVBvdlVYTmU3alRZOWdvaHJOQ2RCQlpmbU1JaTJfUGR2akR1VmI4TDBkVll1RktIX3FkeFBueXVMOUQ1d0dHYW55Wl9NTUdnMVRGVkpsY3BDWTNBRGxRUFJxekV3TXpKejRFWDZUZjA4aUJVbE8yaWd1RHlhWUo2SlJvT2ZlMHZOTGo0WGpuemZraTRYZ05UUTlpeW54bk9CY2tHM011QU1YOFVTbmQ0SVRxNkJnY1gydWJGWHZrdlcxLUcxb0JUaUdwUnNHcnVnVEZTRlVVRDFRRVhfUEhGRmZsNG1NM2tXcDhTbmVtNHFxeXpSWXZEUV9TQmdHUm92alVEbGhuSVFuVUJDZVBneDdGamt0bElFZFphZTdXa3JBc3NNNWpvMVktbTdkdjNpWDYxMFdERkJ3VlJSTklpYV90OVhSYS00MWstNzMzQjMyUUV2V0dFNFhfU3FERTdFanlvMkh4Q0tFOGdSUVg5Q2hwMUE?oc=5	未分類
@@ -295,6 +285,7 @@ var DATA_SIDEFX = `
 2026-06-28	世衛: 歐洲已記錄高溫相關逾1300宗超額死亡	https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVltWEFSQWlqN1p4dEFVcGxPbTVrR0Ytb0E4NzhnYnRWLThpUi12NklBNS1YQ3hpOHBiUkVYSEtqTGRiOXdNU1dFSEVpY0pxWTkwaXJNWU9heWJzZkJBcFpOTGRjSnp1UTM1eUwzWDNQUlFYOEF6eDF5eWZiVEU2MExTN0ZPRXlOeVZsRzRYVkRXN1RzWUxSN0pteV9ZaUk?oc=5	未分類
 2026-06-28	世紀熱浪︱法國錄約千宗超額死亡 歐洲多國破高溫紀錄 世衛警告歐洲成升溫最快地區	https://news.google.com/rss/articles/CBMimwRBVV95cUxNSjlsVzlFZ2F3S0JaenpHVmY4TXp0SEY0Wmt4WnZoSGlMa0wyTHR1QThuOFgtcFpXRmFyQ3ZzVkEtQzc5ODh2SHZDeGUzRk9CM0QtZGk3WjBFenNoTG0wWWFxdFVMU1Y2c0FMYTY0UnJuLVpqSTNkMUYtRU82ZllPQTV6am9SUHVQbl9PaTlkX0toNDJnYXdvaWt2dFNpMUNfTkc1THRDbEhGZHE4UVFMZ0RnUFh3MWhYbDlvdmFhSkJrZG5pcy1UTy03ZDl3OFZKWEJGdTBsZVFqYTZBazZUSEVocEQ5dkM5YzdWdld0NE5COHZ4cUtaX0lFc0Z2THJDMzVURVVmcnBjZE00UE01RWxjNHVLbEczQkdYcGxOQXhNaWhhX3V4NjhHbkZtMTFZcjZJdGlWRmdMTFBCbzRSQ0xGNWxVbzI4Tml6NjgwWTNZa25sYllYbEtUWGFtTmRmQ2JIYzhmTHFLZmoxcHRUZDBWbzAzZWxlVWpLeXJ3RGlvS081SE9jWGR2VU5sVWNZZnlrZGxXQkltcHRZbVpPN1JmajNZeXRnY1o5QUxkRWx6Y1NXT3l4RlFKaHd4cTczUXM4TmhkanRnTlR2Q1pRc2VQRThDME1WeWZQTlBfM3BuX25vR3pYNVk2RWF2XzItc1k0eHVoTWpyR1c4T29BNUxuZklyV2ZNT0RsdHZidlVEZ1E2UjNTQklIUdIBigFBVV95cUxOWVBEdVhCZGFGbGlZS1g1aXE5ZUM4MmV6ekNIdk5HQ182OFlyNEptN1FXalhWc19aX2Z3aDBRcG9TRWo4bDRlSkJjLWdHQTh5bHpULVRoRHMzZ25RUFI0dnJfdmhNZURtU0JBSjJSVzVOOE00N1FpVkxFZE1CVndjdUlyZXg1dlkzb3c?oc=5	未分類
 2026-06-25	坐飛機衣著｜空姐警告勿穿5種衣服 恐深層靜脈血栓！1種港人常穿	https://news.google.com/rss/articles/CBMinANBVV95cUxOZUlLS3c5YzB0X1ZXdzByRXFDc0lCeWt0QVJMcTNLdW1jVXhrT1g3QVlrX1ZPT2FnLUtMYjUxWGx6eXVZdTNxaEhqclg5TDFMcFVfeHNEVTJWZFJQZDRFZ05TQ01aZThmcnJNOWxDeEZpS0l3S1ExdUZVbTBHdTBFTnJGM2NSam5JU0haZG0zMDlXWk9aZzNGU2wwT2hoT3hlYU1pbWJSa3V0dkJ6TXVTa1NUOHdVWUxJMExaZThEX3BvWEhLT0tNZWdPVFJpNHIxaHRxMGI2TEF5Uk5GcHJfRHBNcGtOanNabFNKTEdqbjhvcldocE53YlJZLUhhY211MkZYNFFHaUE0dUdsaDVOX1FmZU5ONEdPZFJhelRLa0JOM3pzNVBMQWJOTnlXdWJEaFd0YnBoaVFSWFNMUjQzNUVVSV9nVmFfdXM2UENXTVoxOXdZNG44MlY3M084REZhWmtxVTlrYi1LcnlRN2NWN2lfOUoteVg3UGRVOVI3aUtGUHVpd1NuRnJyODJTcnlTS2hkd0dYb09PUUNm?oc=5	心血管
+2026-06-25	免役體位加嚴-癌症-心臟病-得當兵-退將憂猝死誰擔-新庶民大頭家-完整版-20260625-陳揮文-馬文君-葉元之-chinatvnews	https://www.ctv.com.tw/Article/免役體位加嚴-癌症-心臟病-得當兵-退將憂猝死誰擔-新庶民大頭家-完整版-20260625-陳揮文-馬文君-葉元之-chinatvnews-	免疫癌症
 2026-06-24	女生低血糖晕倒在公安局门口，民警、市民接力救助	https://sichuan.scol.com.cn/ggxw/202606/83276175.html	代謝神經
 2026-06-23	癌症連44年居國人頭號死因！癌逝人數連4年攀升	https://www.rmim.com.tw/news-detail-44730	免疫癌症
 2026-06-18	脂蛋白(a)比壞膽固醇更易血栓	https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUw4Qi1IZlpfNllkRGxMRFJUZVI3eUtnOVhkRGpaT19ZemVIa19ZOHFMN011MS1aMGhfMFJnVWZ1TU5hTVNVVFR6RDZuR2VxSWVhaFJTa0tDcUxFWVBKcHF0bkdVWnlNTWdyMkN0cExWRENmdGF5MkhvQm9iZnBaYTZkTVlnVEk3aHl0UmRxV1NKTEFHOFRtakt5TnRwLXp4Y050Z29WMXJDWExmVS1yQkdBNU9iSEM3aHExdXdzc2Rhek1iOHR2Y0kwWkpsWDllbmVlMGxlMDdVRUxzV1BOYnR0RzU?oc=5	心血管
@@ -334,6 +325,7 @@ var DATA_SIDEFX = `
 2026-04-14	產後第一次下床最危險？醫師：小心血栓風險	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvaUhTZWxJNFFmVFBzNTlfOThqaTRNV1dWMkE4a0YyZ3VJYVI3VXF6Y1lLUHNGMWJuSldfZVJ5eVBEcWJta3h4RFZQbXBOU3dKSWVUU1ln?oc=5	心血管
 2026-04-14	最美抗癌女神29歲淋巴癌逝！血液疾病年輕化？醫：晚睡熬夜小心免疫崩潰	https://tw.news.yahoo.com/最美抗癌女神29歲淋巴癌逝-血液疾病年輕化-醫-晚睡熬夜小心免疫崩潰-000000845.html	免疫癌症
 2026-04-04	醫起看／感冒運動逼汗是玩命？醫示警：恐引爆病毒性心肌炎	https://news.ebc.net.tw/news/health/544130	心血管
+2026-03-25	湯建 張雪峰猝逝 外界懷疑疫情疫苗後遺症	https://www.ntdtv.com/b5/2026/03/25/a104079882.html	生殖其他
 2026-03-24	腸病毒重症增2例 南部女童併心肌炎不治	https://tw.news.yahoo.com/腸病毒重症增2例-南部女童併心肌炎不治-065330206.html	心血管
 2026-03-24	才43歲！OnlyFans千億富豪癌症驟逝「日賺6千萬致富祕辛曝光」	https://stars.udn.com/star/amp/story/120661/9398774	免疫癌症
 2026-03-24	以為感冒！男童發燒4天「變心肌炎」險沒命 醫示警5異常快看病	https://news.google.com/rss/articles/CBMi-wJBVV95cUxOc0l4VVFuZ2FxRnIwZDJvSlJUNU1tdmtENUwxWGcwLXFkRnlxLXNiUE1mZV96X2V1cFQtNXNpdWVVUVpyM09MZ1IzUmtiMlpPbUtJT1k2eTdxVVJ3VXhZZHRCbk03YURjWmhZNGdfdHpyZFNjM0ZFemd0QTh2cUVQMEJVRTRnTlE1UktPZ0k5OFlXTzExQkhsSlpIQVFMbHFkQkVLSWpCVDNMTFI2Z2lxeXZzN3lXUmY3ZDhSWE5tS1I3akVfYUVSOVZyMjYtLTFMRjJjWENYUnJUVlQ4RzZKSW80RmhmN1FFbG1iMEFrTENZYVdVZnRmSW53OE5LcHc3alZGLW96dHJESVQtdkxNWjlhRVRoMkU4ZHNVLUlHdms3RXdIWG41NWszMFB5cnVXam01UFRiVVhmeWFLeENLM3gzbG5OUnFJZUV5emZKeXpIWTNDQTNDMHpVeHduQnRnSWFKWlp3Sm1VaV9iRlBXdHJJTHhaNXdqZ0RF?oc=5	心血管
@@ -366,20 +358,22 @@ var DATA_SIDEFX = `
 2026-01-26	低溫和流感疊加致葡萄牙近4000例「超額死亡」	https://news.google.com/rss/articles/CBMid0FVX3lxTE4ySG1MektVeFhBTXhaYVp0WjA4VVJZRm5la0ZENUVvc0NzMUFsT3BELU9kcVJsMzdmT1VWQl91QlB2ODh5U0t5VkhteG9tWmg4X3FfOGUyQ3d3N2gxV3VxdlRVaXFaNVhJMG93OXlPeGVVWElzX2NZ?oc=5	未分類
 2026-01-23	低血糖昏過去!男昏厥自撞分隔島 警破窗搶救	https://tw.news.yahoo.com/%E4%BD%8E%E8%A1%80%E7%B3%96%E6%98%8F%E9%81%8E%E5%8E%BB-%E7%94%B7%E6%98%8F%E5%8E%A5%E8%87%AA%E6%92%9E%E5%88%86%E9%9A%94%E5%B3%B6-%E8%AD%A6%E7%A0%B4%E7%AA%97%E6%90%B6%E6%95%91-092803696.html	代謝神經
 2026-01-22	從「慢性疲勞」到癌細胞侵腦僅2個月！56歲前主播淋巴癌逝…醫籲：體重驟減、夜間盜汗別再撐	https://tw.news.yahoo.com/從-慢性疲勞-到癌細胞侵腦僅2個月-56歲前主播淋巴癌逝-醫籲-010001798.html	免疫癌症
+2026-01-22	女童疑遭「蘋果病」B19病毒奪命 疾管署：若併發心肌炎致死率達3成	https://news.pchome.com.tw/healthcare/healthnews/20260122/index-17690472009508620012.html	心血管
 2026-01-21	婦產科名醫林禹宏63歲逝世！抗血癌10年仍堅守醫界 兒淚喊：上天派來的天使	https://www.ftnn.com.tw/news/527213	免疫癌症
 2026-01-21	「蘋果病」引發心肌炎 致死率達3成	https://news.google.com/rss/articles/CBMiW0FVX3lxTE01RG1qNVBrYlJDLUVHUmR4NWd3SW92T2lQU0ZJQUliU0pIemNKa3dtdGpVMFpJQ09QVGhBeWNWVF83ekdKYjgzTGFTdEVVX2R4cm9mazVzVXRpWlnSAWBBVV95cUxNWnpURG5RTmhTdzZieDRZUkY4bGRXX0pVZV9QYlFnaVNGVFVtVGs1NXM2TWZmc0hLbmhRbGF5QkxZdGoySnhrTHFrdmRqR1d4UGpNNmVESGdkQmNnSHB5eGw?oc=5	心血管
-2026-01-16	11歲女童「大叫一聲」後猝死 高大成推測：恐心肌炎	https://tw.news.yahoo.com/11歲女童-大叫-聲-後猝死-高大成推測-024040352.html	心血管
+2026-01-16	11歲女童「大叫一聲」後猝死 高大成推測：恐心肌炎	https://news.pchome.com.tw/society/ctinews/20260116/index-76853124068818309002.html	心血管
 2026-01-16	11歲女童「大叫」猝逝！高大成揭心肌炎致命關鍵「很罕見」	https://tw.news.yahoo.com/11%E6%AD%B2%E5%A5%B3%E7%AB%A5-%E5%A4%A7%E5%8F%AB-%E7%8C%9D%E9%80%9D-%E9%AB%98%E5%A4%A7%E6%88%90%E6%8F%AD%E5%BF%83%E8%82%8C%E7%82%8E%E8%87%B4%E5%91%BD%E9%97%9C%E9%8D%B5-%E5%BE%88%E7%BD%95%E8%A6%8B-090948375.html	心血管
+2026-01-14	11歲女童旅遊返台突猝逝！醫示警：恐病毒引發致命心肌炎	https://www.ettoday.net/news/20260114/3101005.htm	心血管
 2025-12-31	黃國昌秀健身成果！醫曝「1處變小」超重要：能防猝死、糖尿病	https://tw.news.yahoo.com/%E9%BB%83%E5%9C%8B%E6%98%8C%E7%A7%80%E5%81%A5%E8%BA%AB%E6%88%90%E6%9E%9C-%E9%86%AB%E6%9B%9D-1%E8%99%95%E8%AE%8A%E5%B0%8F-%E8%B6%85%E9%87%8D%E8%A6%81-%E8%83%BD%E9%98%B2%E7%8C%9D%E6%AD%BB-052000089.html	代謝神經
 2025-12-31	才挺过血癌 韩影帝吃饭噎到进ICU	https://uniteddaily.my/zh/331f1e32-ee12-4e9d-8419-c1e4f12580a9/%E6%89%8D%E6%8C%BA%E8%BF%87%E8%A1%80%E7%99%8C%E9%9F%A9%E5%BD%B1%E5%B8%9D%E5%90%83%E9%A5%AD%E5%99%8E%E5%88%B0%E8%BF%9BICU	免疫癌症
 2025-12-08	吃飽後想睡覺？營養師揭「醣暈真相」：血糖崩了 3跡象恐是糖尿病	https://news.pchome.com.tw/healthcare/evergreen/20251208/index-76515740079673314012.html	代謝神經
 2025-11-10	獨家／50歲歌手驚爆失憶！頭部遭重擊「記憶回不來」 留嚴重後遺症	https://www.msn.com/zh-tw/health/other/%E7%8D%A8%E5%AE%B6-50%E6%AD%B2%E6%AD%8C%E6%89%8B%E9%A9%9A%E7%88%86%E5%A4%B1%E6%86%B6-%E9%A0%AD%E9%83%A8%E9%81%AD%E9%87%8D%E6%93%8A-%E8%A8%98%E6%86%B6%E5%9B%9E%E4%B8%8D%E4%BE%86-%E7%95%99%E5%9A%B4%E9%87%8D%E5%BE%8C%E9%81%BA%E7%97%87/ar-AA1NR31Y	生殖其他
-2025-10-11	併發腦病變心肌炎 13歲女童染流感危殆	https://epaper.tkww.hk/a/202510/11/AP68e96b74e4b0f2e743963c64.html	心血管
 2025-11-09	42岁男子家中突发心脏停跳，医生： 罪魁祸首是糖尿病的这个并发症	https://www.msn.com/zh-cn/news/other/42%E5%B2%81%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E5%81%9C%E8%B7%B3-%E5%8C%BB%E7%94%9F-%E7%BD%AA%E9%AD%81%E7%A5%B8%E9%A6%96%E6%98%AF%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%E8%BF%99%E4%B8%AA%E5%B9%B6%E5%8F%91%E7%97%87/ar-AA1LZoEM	代謝神經
 2025-10-23	女子突发低血糖晕倒在消防站，接下来的一幕幕好暖-视频中心	http://www.qlwb.com.cn/videoDetail/26781434.html	代謝神經
 2025-10-18	成人藥減半就是兒童劑量？專家揭「3大錯誤觀念」恐釀嚴重副作用	https://news.pchome.com.tw/healthcare/healthnews/20251017/index-17607024001739020012.html	生殖其他
 2025-10-15	她生產隔日下床昏厥險喪命 醫示警剖腹產「靜脈血栓」比例增	https://health.ettoday.net/news/3050016	心血管
 2025-10-11	天氣驟冷危機加劇！重症醫警告： 猝死與血栓風險提高	https://www.msn.com/zh-tw/health/other/%E5%A4%A9%E6%B0%A3%E9%A9%9F%E5%86%B7%E5%8D%B1%E6%A9%9F%E5%8A%A0%E5%8A%87-%E9%87%8D%E7%97%87%E9%86%AB%E8%AD%A6%E5%91%8A-%E7%8C%9D%E6%AD%BB%E8%88%87%E8%A1%80%E6%A0%93%E9%A2%A8%E9%9A%AA%E6%8F%90%E9%AB%98/ar-AA1uP0hW?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	心血管
+2025-10-11	併發腦病變心肌炎 13歲女童染流感危殆	https://epaper.tkww.hk/a/202510/11/AP68e96b74e4b0f2e743963c64.html	心血管
 2025-10-09	不斷更新／高端開打2日2例猝死 接種後不良事件整理 ｜ 討論牆 ｜ LINE TODAY	https://today.line.me/tw/v3/reposts/article/p75YQ6	未分類
 2025-10-02	女子地铁站内低血糖晕倒 民警施救 迅速反应获赞	https://news.china.com/socialgd/10000169/20251002/48875650.html	代謝神經
 2025-09-27	高雄新手媽媽產後3天「肺栓塞」過世！寶寶蹦蹦第一張一家三口的合照，竟成了唯一的一張，令人不捨	https://www.msn.com/zh-tw/health/topic/%E9%AB%98%E9%9B%84%E6%96%B0%E6%89%8B%E5%AA%BD%E5%AA%BD%E7%94%A2%E5%BE%8C3%E5%A4%A9-%E8%82%BA%E6%A0%93%E5%A1%9E-%E9%81%8E%E4%B8%96-%E5%AF%B6%E5%AF%B6%E8%B9%A6%E8%B9%A6%E7%AC%AC%E4%B8%80%E5%BC%B5%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E7%9A%84%E5%90%88%E7%85%A7-%E7%AB%9F%E6%88%90%E4%BA%86%E5%94%AF%E4%B8%80%E7%9A%84%E4%B8%80%E5%BC%B5-%E4%BB%A4%E4%BA%BA%E4%B8%8D%E6%8D%A8/ar-AA1AJlGx?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	心血管
@@ -406,15 +400,16 @@ var DATA_SIDEFX = `
 2022-12-15	疫情｜美國最少3,544人死因與「長新冠」有關	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/847566/%E7%96%AB%E6%83%85-%E7%BE%8E%E5%9C%8B%E6%9C%80%E5%B0%913-544%E4%BA%BA%E6%AD%BB%E5%9B%A0%E8%88%87-%E9%95%B7%E6%96%B0%E5%86%A0-%E6%9C%89%E9%97%9C	未分類
 2022-12-14	高燒後無法呼吸,南充31歲女死前恐怖視頻傳出。心肌炎」。	https://www.ntdtv.com/b5/2022/12/14/a103598257.html	心血管
 2022-12-11	全台250萬人罹糖尿病 死亡數年增11%「這些人」是高風險群│甜蜜危機糖尿病之島│TVBS新聞網	https://news.tvbs.com.tw/life/1960775	代謝神經
-2022-10-12	少年高燒兩日確診暴發性心肌炎 一度心臟停止	https://hk.on.cc/hk/bkn/cnt/cnnews/20221012/bkn-20221012032156287-1012_00952_001.html	心血管
+2022-12-10	上兩月多26人針後懷疑面癱 無人接種疫苗後兩周內亡	https://hk.on.cc/hk/bkn/cnt/news/20221210/bkn-20221210155418127-1210_00822_001.html	代謝神經
+2022-12-02	多一名七旬婦染類鼻疽 患糖尿病住長沙灣 其家人曾於9月確診	https://hk.on.cc/hk/bkn/cnt/news/20221202/bkn-20221202125055347-1202_00822_001.html	代謝神經
 2022-11-22	男大生血糖過低癱倒廁所 捷運警急相助	https://tw.news.yahoo.com/%E7%94%B7%E5%A4%A7%E7%94%9F%E8%A1%80%E7%B3%96%E9%81%8E%E4%BD%8E%E7%99%B1%E5%80%92%E5%BB%81%E6%89%80-%E6%8D%B7%E9%81%8B%E8%AD%A6%E6%80%A5%E7%9B%B8%E5%8A%A9-124046335.html	代謝神經
 2022-11-07	女嬰3個月生2公斤腫瘤...	https://www.chinapress.com.my/20221107/屁股长出2公斤巨瘤-女婴奇迹存活下来/	免疫癌症
 2022-10-16	耳朵狂聽到怪聲！40歲男檢查驚「腫瘤長在這」：有猝死可能	https://tw.news.yahoo.com/%E8%80%B3%E6%9C%B5%E7%8B%82%E8%81%BD%E5%88%B0%E6%80%AA%E8%81%B2-40%E6%AD%B2%E7%94%B7%E6%AA%A2%E6%9F%A5%E9%A9%9A-%E8%85%AB%E7%98%A4%E9%95%B7%E5%9C%A8%E9%80%99-%E6%9C%89%E7%8C%9D%E6%AD%BB%E5%8F%AF%E8%83%BD-111022660.html	免疫癌症
-2022-12-10	上兩月多26人針後懷疑面癱 無人接種疫苗後兩周內亡	https://hk.on.cc/hk/bkn/cnt/news/20221210/bkn-20221210155418127-1210_00822_001.html	代謝神經
+2022-10-12	少年高燒兩日確診暴發性心肌炎 一度心臟停止	https://hk.on.cc/hk/bkn/cnt/cnnews/20221012/bkn-20221012032156287-1012_00952_001.html	心血管
 2022-10-09	五旬漢針後亡 另66歲翁接種後疑脊髓炎 雙腿麻痹無力	https://hk.on.cc/hk/bkn/cnt/news/20221009/bkn-20221009202634377-1009_00822_001.html	未分類
 2022-09-27	男星心肌炎！暴瘦10公斤 醫警告猛爆性恐「2天猝死」│TVBS新聞網	https://news.tvbs.com.tw/entertainment/1917515	心血管
+2022-09-01	兩名20多歲女「發病7天亡」！死因猛爆性心肌炎、腦下垂體中風	https://www.ettoday.net/news/20220901/2329187.htm	心血管
 2022-08-26	日本美智子上皇后爆「深部靜脈血栓」！緊急送往宮內廳醫院	https://www.ettoday.net/news/20220826/2324869.htm	心血管
 2022-08-25	金融理專罹長新冠腦霧險丟工作 醫：血管雷射與復健改善治癒	https://tw.news.yahoo.com/news%2F%E9%87%91%E8%9E%8D%E7%90%86%E5%B0%88%E7%BD%B9%E9%95%B7%E6%96%B0%E5%86%A0%E8%85%A6%E9%9C%A7%E9%9A%AA%E4%B8%9F%E5%B7%A5%E4%BD%9C-%E9%86%AB-%E8%A1%80%E7%AE%A1%E9%9B%B7%E5%B0%84%E8%88%87%E5%BE%A9%E5%81%A5%E6%94%B9%E5%96%84%E6%B2%BB%E7%99%92-123600072.html	代謝神經
 2022-08-10	切腫瘤3年再復發！37歲女星「腦水腫」頭暈跌倒 病況曝│TVBS新聞網	https://news.tvbs.com.tw/entertainment/1928026	免疫癌症
-2022-12-02	多一名七旬婦染類鼻疽 患糖尿病住長沙灣 其家人曾於9月確診	https://hk.on.cc/hk/bkn/cnt/news/20221202/bkn-20221202125055347-1202_00822_001.html	代謝神經
-2022-09-01	兩名20多歲女「發病7天亡」！死因猛爆性心肌炎、腦下垂體中風	https://www.ettoday.net/news/20220901/2329187.htm	心血管`;
+`;
