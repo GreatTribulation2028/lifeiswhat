@@ -1,7 +1,6 @@
 // 瘟疫 | 由 build_news_js.py 生成 | 共 1174 條
 var DATA_PLAGUE = `
 2026-09-30	衞生防護中心夥非政府組織安排外展猴痘疫苗接種服務	https://news.google.com/rss/articles/CBMi7gJBVV95cUxNcTF5OEVuZ09IUVpnNUJfZncwQmdMd2pJc1pfalRZSXlEV0tCQjA1U1p5dk5WVEprTG1nUDFsTWdmSHNCREJ6a0JFNnZjMkpxYWhiM1ZiY3ZnLTNXSl9YQk5qS0hSMjVXLTBpMXdXUmotRzV4MjBOSmlnTEZIdzRLTjR3dndGRklSZms2Xzg0ZVhMZXVyak01bnhUel9wT3BQN1NaYjg1MnNsZ3dkcTRvVi1BSmxjSTJJaVZJTzBHbDBFUEE1YjB4UVZZaGZ0Nk5Yb1M4b2J5S2JoaHVhNldWdzBtRVpIRkpfTjBJSlBTZUt0b1VMY0xJb0l5dy1WNW5CYnVkMXU4dlliclZuRmRDcnQzTmtDRkdPYU94alZfbVpQaW1RLUJZeUIwRmtueW5RNDdGaEd2MVBac3RwRDB3ZlR1LTBhMXFGOG1YUEdJelJrX2VkVWtZZEpmY1hFS19IMnBXaEVqTUpMVFpQa3c?oc=5	瘟疫與疫苗
-2026-01-27	（有片）印度爆發尼帕病毒疫情死亡率高達75% 暫無藥可醫- 新聞 - 香港文匯網	https://www.wenweipo.com/a/202601/27/AP6978ac80e4b04d7d56d08b0e.html	爆發疫情
 2026-09-29	鼻塞微燒不能輕忽！20多天男嬰染新冠重症併發肺炎 4天急轉加護病房 | 鏡週刊	https://today.line.me/tw/v3/article/x2ExL0j	未分類
 2026-09-29	麻疹疫情致百童死亡 孟加拉急推疫苗接種	https://www.epochtimes.com/b5/26/4/8/n14736946.htm/amp	瘟疫與疫苗
 2026-09-29	高端(6547)與 Vaxess 合作開發[新冠病毒貼片疫苗] 最快2022年進入人體臨床試驗- 生技投資第一站	https://www.genetinfo.com/investment/featured/item/53509.html	瘟疫與疫苗
@@ -157,7 +156,6 @@ var DATA_PLAGUE = `
 2026-09-29	猴痘列「第二類法定傳染病」！疑似病例24小時通報	https://www.setn.com/news/1135017	瘟疫與疫苗
 2026-09-29	猴痘全球超19万例致529死 疫苗协调机制正式启动	https://molihua.org/mh-1173617/	瘟疫與疫苗
 2026-09-29	猴痘入侵台北市！30多歲男「四肢軀幹出現膿疱」確診 急匡18人	https://www.setn.com/news/1261571	瘟疫與疫苗
-2026-08-04	熊本強震| 避難所7旬婦確診新冠官員承認防疫措施有限- 國際	https://www.dotdotnews.com/a/202608/04/AP6a7148b2e4b04b6c5d35a5cc.html	未分類
 2026-09-29	無針接種！台灣引進「鼻噴式」流感疫苗 孩子無痛新選擇	https://tw.news.yahoo.com/無針接種-台灣引進-鼻噴式-流感疫苗-孩子無痛新選擇-024148463.html	瘟疫與疫苗
 2026-09-29	火山爆發或是引發歐洲致命黑死病瘟疫的原因	https://www.bbc.com/zhongwen/articles/cly0mz5y64yo/trad	瘟疫與疫苗
 2026-09-29	澳門添88確診75歲翁染疫亡，珠澳72小時檢測通關要求延至下月7日。	https://hk.news.yahoo.com/添88確診75歲翁染疫亡-珠澳72小時檢測通關要求延至下月7日-114755569.html	未分類
@@ -171,7 +169,6 @@ var DATA_PLAGUE = `
 2026-09-29	漢他病毒奪3命！郵輪疫情再拉警報 專家揭「海上密閉空間」最可怕真相	https://health.setn.com/news/1834923	爆發疫情
 2026-09-29	涉隱瞞新冠疫情相關文件佛奇前顧問認罪- 國際	https://news.ltn.com.tw/news/world/breakingnews/5544841	爆發疫情
 2026-09-29	涉嫌隱匿新冠疫情文件！佛奇前顧問莫倫斯認罪，最高恐判5年徒刑 | 中央社 | 新聞	https://www.storm.mg/article/11157760	爆發疫情
-2026-09-14	海獅染H5N1禽流感病毒死亡 全澳首例	https://hk.on.cc/hk/bkn/cnt/intnews/20260914/bkn-20260914020024494-0914_00992_001.html	瘟疫與疫苗
 2026-09-29	流感｜11歲女童感染併發腦病變 點解「傷風感冒」變奪命疾病？	https://www.hk01.com/健康Easy/60300544/流感-11歲女童感染併發腦病變-點解-傷風感冒-變奪命疾病	未分類
 2026-09-29	流感︱噴鼻式疫苗無痛較易讓兒童接受 專家倡加強宣傳提高接種率	https://www.stheadline.com/society/3350279/流感噴鼻式疫苗無痛較易讓兒童接受-專家倡加強宣傳提高接種率	瘟疫與疫苗
 2026-09-29	流感疫苗「沉澱混濁」查屬個案 醫勸常規接種：6成長者誤判風險	https://health.ettoday.net/news/3156246	瘟疫與疫苗
@@ -198,7 +195,6 @@ var DATA_PLAGUE = `
 2026-09-29	桃園新冠12/5增10209人確診 22人因染疫亡	https://times.hinet.net/mobile/news/24290729	未分類
 2026-09-29	桃園「92班停課」！全台破萬人求診、9人病逝 專家示警：1病毒爆發了	https://health.setn.com/news/1762860	爆發疫情
 2026-09-29	柴油價格翻倍、海運能力驟減15%…美企哀號「比新冠疫情更嚴重的危機」	https://finance.biggo.com.tw/news/172377a3-3186-4a33-a9fc-787753477f35	爆發疫情
-2022-12-28	柔佛州新增22宗冠病確診，2病歿2縣零確診。	https://www.sinchew.com.my/20221228/柔昨新增22宗冠病确诊-2病殁2县零确诊/	未分類
 2026-09-29	染疫會導致失聲？中醫：長新冠有多種併發症	https://www.epochtimes.com/b5/26/9/8/n14845186.htm	未分類
 2026-09-29	東京新冠病毒感染者 12,332 人，死亡 21 人	https://www.47news.jp/8639469.html	未分類
 2026-09-29	本澳流感病毒近期轉趨活躍 居民應加強防範 今（17）日接獲4宗流感樣疾病群集性感染報告	https://www.gcs.gov.mo/detail/zh-hant/N26CQigbjE	未分類
@@ -462,7 +458,6 @@ var DATA_PLAGUE = `
 2026-09-29	今年累計111例登革熱！3人一起去柬埔寨…回台後全確診	https://ctinews.com/news/items/v7x3wd99xj	瘟疫與疫苗
 2026-09-29	今年A流恐「雙株夾擊」！當心開學季流感群聚風險升溫 流感常態化 鼻噴式流感疫苗「無痛」免挨針成「長效」新武器	https://www.uho.com.tw/article-67455.html	瘟疫與疫苗
 2026-09-29	今增8260確診 輸入佔228宗 本地首現XBB.1.5變種 另外再多71名患者離世，包括9宗殮房個案、62宗醫管局呈報個案；公院的死亡病例中，分別為37男25女，年齡介乎48至103歲，當中有27人為院友，另有3人已打4針疫苗、33人已打3針。第5波疫情累計12,480人染疫亡。	https://hk.sports.yahoo.com/news/今增8260確診-輸入佔228宗-首現xbb-1-5變種-084736932.html	爆發疫情
-2022-12-31	今增29207確診，直逼3萬大關，另再多52名患者離世，分別為26男26女，年齡介乎37歲至97歲，當中12人來自院舍。死者中有6人已打4針、29人打3針；第5波疫情累計11,594人病亡。	https://hk.on.cc/hk/bkn/cnt/news/20221231/bkn-20221231172644569-1231_00822_001.html	爆發疫情
 2026-09-29	亚利桑那州卫生部门：确认该州首例I型猴痘病毒分支病例；对公众的风险仍然较低。	https://wap.cj.sina.cn/pc/7x24/5003158	瘟疫與疫苗
 2026-09-29	乍得首都霍亂疫情持續蔓延 累計75宗確診8人死亡	https://www.orangenews.hk/international/VRUID4L/乍得首都霍亂疫情持續蔓延-累計75宗確診8人死亡.shtml	爆發疫情
 2026-09-29	之江生物：猴痘病毒核酸检测试剂盒获国家三类医疗器械注册证	https://wap.eastmoney.com/a/202608193846348780.html	瘟疫與疫苗
@@ -649,6 +644,7 @@ var DATA_PLAGUE = `
 2026-09-15	27歲男子感染猴痘 潛伏期內曾與兩名陌生男子有高風險接觸	https://news.google.com/rss/articles/CBMieEFVX3lxTFBzeEtTNURPRV9UNklkTk04QVROdUxjUlY0SWVJc0VpaG1VVHFhV2p1bU8zMUprb3hab3pZU1FSSU1ndzRjaDZVbzFYcHdnNFpNenRYQms3NTBqNkNQQUJ5YXdBVG1mVWMwbG43SVVWdXBGaHpOMFE5bA?oc=5	瘟疫與疫苗
 2026-09-14	猴痘｜31歲男子確診 曾在外地及香港與陌生男子有高風險接觸	https://news.google.com/rss/articles/CBMipwNBVV95cUxQSjRpX3gzSmFWb2dnMUt2UmcwNlZBR3ppbHNpTFdrUWszSU1JcV9GRXpNWVhLV01JUU9jWUdqTFBzeW9LWkF4cXBFUDdHT25tVEw4dHBUSkp2T1A2bnlwRDN0UGs3al90N2RSZ1ZYZDdfWmJGMDdQOElXdWRuU3dlYTdfRS1RbVptYUZVZTduYnlrRE9mT1pRMW90dlF4NFgtVlM1U1BFSUI4RHRQNWxVUms4VUdKRm9WamxEVW9IZlQ0MVRaQWJteWdHUnlxTml1MWp5bkZCQjFjZHNTV05iVS1OZ01EbnIwekZkdldmeFFxLWlMZk13aVhVYWM1bkVnMlBvc2VUSFNzY1ZQdkY2OWdvZmwwNUdKR1VnYy1oZXl0ZEh6Ri1LWXRXcS1GZHRuMlBwNVBCYWZtY0JLRlJkYnh4TjJST1RhaXFsT0dkSEdkc2Zwa2dEUlA4YUFUaVdlbjhKdG1XNlVYR2ZRNk1wNTN5eXdoWUtma09PMkpNS2FMdF96OXNEVnlOY3g2MlR5NzdRZHZXYW1DMG0yRDNKcVgyeTNSY2M?oc=5	瘟疫與疫苗
 2026-09-14	澳洲海獅首次驗出H5N1禽流感 當局憂此瀕危物種進一步受威脅	https://news.google.com/rss/articles/CBMiqANBVV95cUxQZ1BXVGVHTXo2WVVibEtnbFFYSVp0SXFqRllKT0ItdXliUmxRdjh5eXItOURoaWZHeXZkenhXaE1YaWtjZ0U2SmhsRTNxYnFPbDkwOEFueVNUZzlRWTZzNXhSU1dhRHdZZUNCcTVlSjhlcE9zOFN5eWkxdEI0R0xSVGt6UlFDcE9DNl9FMjBGOVNvdkpKU0x6TnVJQWtJaWxZY0RvZ05qZm4zbUdaYkktZTJjLXg1OGRHLWd3Z0R2d0lIVG9Tb2Zuek9OWGhVUjlBWkJhQlNnZmYwMXd6c25aZ3VaUjZnbWE4eHUxY3o3bHZ6bG4zNldzLXY0MUxTbUtfUzhEVGtNSm5KZFRXMGhxQVFWSUFTUzNDd0NNb3FPMHBjUHY5MFY4RXZhNnAzMGVzVExOUDJyb2hYMUlKbWpYRFEyX215Q3J2ZC1OczF3TVVocTE3S3hEaWpGOEloNkFjR2FyMmNkVDlrblVSUHUxS3dyb0hqUXkzRnRDUmpBWWRadm0xLURmaHZ3cXRJbXFiYXg1aDlTOTBOZTE1ZW82ZGNQSm8zOVdP?oc=5	瘟疫與疫苗
+2026-09-14	海獅染H5N1禽流感病毒死亡 全澳首例	https://hk.on.cc/hk/bkn/cnt/intnews/20260914/bkn-20260914020024494-0914_00992_001.html	瘟疫與疫苗
 2026-09-14	北極熊屍體驗出禽流感病毒 挪威官方確認為歐洲首例	https://news.google.com/rss/articles/CBMiT0FVX3lxTE43MV9Nc09vRkYxZnJHbTNnczJtYUlUeER0UndFenVOWURjSjJISDNQaHlQeHlMUXJqaWlGQUU3bWMxVE1sSTBEdXpoQVdILVE?oc=5	瘟疫與疫苗
 2026-09-14	31歲男子確診猴痘潛伏期在外地及香港有高風險接觸- 香港	https://www.wenweipo.com/a/202609/14/AP6aa7f3b6e4b01d54a283257c.html	瘟疫與疫苗
 2026-09-14	31歲男子確診猴痘 潛伏期曾在外地及香港與陌生男子有高風險接觸	https://www.hkcd.com.hk/hkcdweb/content/2026/09/14/content_8774936.html	瘟疫與疫苗
@@ -750,6 +746,7 @@ var DATA_PLAGUE = `
 2026-08-07	AI 模型設計出可感染細菌的新病毒 研究引發生物安全擔憂	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZ1pXMC1mNjdNaGR2eWRNTlNTQUh2SHA2Z0E3ZzRnOC1lczl5dTN6TDl3RGtJRlVKTUVMREZZYWNmUTkybzEtVUM2bFlOZmdtcFVNUmJSa3U?oc=5	新病毒
 2026-08-06	31歲男子確診猴痘 潛伏期內在港與多名陌生男子有高風險接觸	https://news.google.com/rss/articles/CBMimgNBVV95cUxOZHdLbnptdkRudXNsRmlUYmtrX0hqRy1NR2xHNzZDX2RIdUhFWVVHV0Q3ZlEtQ1A1S2I2eC1lVWFEbWZTYlhtT3pVSkc1MTJBRlRFSDd6X3E5dExkLVBwRktXWXNBRFZXLVJEN3RhU3AxOUhTc3M1RVRhT1ktMzZONFBpOWhIc28wS1laY2RwU2h4aVh5cXlROEptSGtTUXJmcUs0WkRtTW0tSmlkcVVZS0YzTlF0M2NnNXBBZlR4TkxITF9FWVUtNGFDNXliUlhYNk0tc096VGtRMzE3cldieGtLZFl0U0dzSXBmU0pzWm44MG5lTEttZWZhX3JfSFNRMkFJME44aXpVbXZJLTY0aXdpLU5HVFhTc0d5M1BMUE5GUWNmSkQ4LTdLbmVENzJfVVJBT3pKMTVWZ1NPT0ZYbVFaR2hHZ2dQRWJqNWh5Rkt2SHU4Si11OWF2YmtvWWx4WWFUdXFDSUZhWG8wblVQTDl1QzN2d3M2bkEzMkUxelYweHRub28ycjN1R01oSzhhOW9MWjAwSWVwUQ?oc=5	瘟疫與疫苗
 2026-08-05	31歲男感染猴痘 潛伏期曾在港與多名陌生男子有高風險接觸 (21:05) - 20260805 - 港聞	https://news.mingpao.com/ins/港聞/article/20260805/s00001/1785935263367/31歲男感染猴痘-潛伏期曾在港與多名陌生男子有高風險接觸	瘟疫與疫苗
+2026-08-04	熊本強震| 避難所7旬婦確診新冠官員承認防疫措施有限- 國際	https://www.dotdotnews.com/a/202608/04/AP6a7148b2e4b04b6c5d35a5cc.html	未分類
 2026-08-04	流感新冠雙疫夾擊！香港7歲男童危殆 醫院爆群組感染	https://www.wenweipo.com/a/202608/04/AP6a7139eee4b0c1e5002373a9.html	未分類
 2026-08-04	柬埔寨入境3人確診登革熱！今年病例數破百 - 生活新聞 - PChome Online 新聞	https://news.pchome.com.tw/living/nownews/20260804/index-78582789572366207009.html	瘟疫與疫苗
 2026-08-04	新冠疫情連9周升溫 上週2萬人求診疫苗吃緊	https://www.anntw.com/articles/20260804-QNU6	瘟疫與疫苗
@@ -877,6 +874,7 @@ var DATA_PLAGUE = `
 2026-02-11	近期屢有與進食生蠔相關的諾如病毒食物中毒個案 衛生防護中心籲勿生食蠔及雙殼類海產 (19:09) - 20260211 - 港聞	https://news.mingpao.com/ins/港聞/article/20260211/s00001/1770808166928/近期屢有與進食生蠔相關的諾如病毒食物中毒個案-衛生防護中心籲勿生食蠔及雙殼類海產	未分類
 2026-02-04	國際要聞 | 愛潑斯坦信件驚現大疫情模擬計劃，時間為新冠疫情爆發前三年 | 專題透視 - 新聞	https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG05R2ZHN1c4d1FPMllpaGNtaURxSXJFM1REMEpkZmE4S2g2b1RaWXpnTHp2Zy1OZndXX0p4N3VreFBVM0VVQ2FZZTNEVnVuTkJYcld4UUJMd3dzdTdGaTh1UzVmMm42X1NsX1FrMWJzV1hJY3FyRGtlVDl5TXBGdFg0R3puQnhTeGoxU01WQlNXckpJeURELUNMN1ZMRXhMZ1ZETmxVeTdrQ0k?oc=5	爆發疫情
 2026-01-28	尼帕病毒｜印度稱已遏制疫情爆發	https://news.google.com/rss/articles/CBMibEFVX3lxTE5qLU1TUndZSlA2X195Vzl0TVFEdW1HUWF1d0EzbDF5bGFiWVE3VlZ2WGpma09CTU9GUDl6cU1wZ3lFQl9tYWUzMWQwVWJKUDRIY1ZmdmR5dWdVZXk0UWhSSENadFBZREpVRjhLYg?oc=5	爆發疫情
+2026-01-27	（有片）印度爆發尼帕病毒疫情死亡率高達75% 暫無藥可醫- 新聞 - 香港文匯網	https://www.wenweipo.com/a/202601/27/AP6978ac80e4b04d7d56d08b0e.html	爆發疫情
 2026-01-26	日82歲翁「喉嚨痛」確診新冠亡！竟是喉嚨卡12cm鑰匙 X 光照曝	https://www.msn.com/zh-tw/news/other/%E6%97%A582%E6%AD%B2%E7%BF%81-%E5%96%89%E5%9A%A8%E7%97%9B-%E7%A2%BA%E8%A8%BA%E6%96%B0%E5%86%A0%E4%BA%A1-%E7%AB%9F%E6%98%AF%E5%96%89%E5%9A%A8%E5%8D%A112cm%E9%91%B0%E5%8C%99-x%E5%85%89%E7%85%A7%E6%9B%9D/ar-AA1IooJF?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2026-01-26	尼帕病毒｜印度現感染群組 無疫苗可人傳人死亡率高達75%｜即睇如何避免病從口入	https://news.tvb.com/tc/world/6976d27e82dea93ecb7b442b/%E5%9C%8B%E9%9A%9B-%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%EF%BD%9C%E5%8D%B0%E5%BA%A6%E7%8F%BE%E6%84%9F%E6%9F%93%E7%BE%A4%E7%B5%84-%E7%84%A1%E7%96%AB%E8%8B%97%E5%8F%AF%E4%BA%BA%E5%82%B3%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%8E%87%E9%AB%98%E9%81%9475%EF%BD%9C%E5%8D%B3%E7%9D%87%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E7%97%85%E5%BE%9E%E5%8F%A3%E5%85%A5	瘟疫與疫苗
 2026-01-26	印度出現尼帕病毒疫情 感染者死亡率達40%以上	https://www.tkww.hk/a/202601/26/AP6976e910e4b0aa6cbcd3bc33.html	爆發疫情
@@ -940,7 +938,6 @@ var DATA_PLAGUE = `
 2024-01-14	惠英紅疑受細菌和病毒感染發燒抽筋 無奈臨時缺席微博之夜	https://www.hk01.com/article/980855?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-12-26	中國疫情再起！死亡病例攀升 排隊火葬場景又重演	https://www.ftvnews.com.tw/news/detail/2023C26I07M1	爆發疫情
 2023-12-22	(新冠疫情專題報導 2022年12月)	https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20231222/s00002/1703182171175/%E5%85%AD%E6%97%AC%E5%8F%B8%E6%A9%9F%E7%8C%9D%E6%AD%BB%E5%AE%A2%E8%B2%A8%E8%BB%8A	爆發疫情
-2023-01-11	【一線採訪】養老院老人疫亡 死因不寫染疫 ｜ 疫情 ｜ 死亡證明 ｜ 新冠 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/11/n13904494.htm	爆發疫情
 2023-11-01	日本第8波新冠疫情肆虐 近1個多月已逾萬人病故│TVBS新聞網	https://news.tvbs.com.tw/world/2014753	爆發疫情
 2023-11-01	日本第8波新冠疫情肆虐 1個多月逾萬人亡	https://hd.stheadline.com/news/realtime/wo/2398463/%E5%8D%B3%E6%99%82-%E5%9C%8B%E9%9A%9B-%E6%97%A5%E6%9C%AC%E7%AC%AC8%E6%B3%A2%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%82%86%E8%99%90-1%E5%80%8B%E5%A4%9A%E6%9C%88%E9%80%BE%E8%90%AC%E4%BA%BA%E4%BA%A1	爆發疫情
 2023-11-01	COVID-19確診1/11公佈25245本土46亡 縣市染疫數新北5264最高	https://www.thehubnews.net/archives/183666	未分類
@@ -952,10 +949,8 @@ var DATA_PLAGUE = `
 2023-09-01	【速報】大阪府第9次新冠確診5661例新增感染、26例死亡	https://www.fnn.jp/articles/-/468245	未分類
 2023-08-01	疫情｜本港新增14113宗確診包括431宗輸入 多66患者亡	https://hd.stheadline.com/news/realtime/hk/2397728/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E7%96%AB%E6%83%85-%E5%A2%9E14113%E5%AE%97%E7%A2%BA%E8%A8%BA%E5%8C%85%E6%8B%AC431%E5%AE%97%E8%BC%B8%E5%85%A5-%E5%A4%9A66%E6%82%A3%E8%80%85%E4%BA%A1	爆發疫情
 2023-08-01	本港新增新冠確診14113宗: 再多66名患者死亡 其中36名死者死因與新冠有關	https://www.metroradio.com.hk/news/live.aspx?NewsID=20230109035624&subject=%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A2%BA%E8%A8%BA14113%E5%AE%97:%20%E5%86%8D%E5%A4%9A66%E5%90%8D%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1%20%E5%85%B6%E4%B8%AD36%E5%90%8D%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E8%88%87%E6%96%B0%E5%86%A0%E6%9C%89%E9%97%9C	未分類
-2023-01-08	日本新冠病歿者破6萬人！ 短短1個月增1萬人染疫身亡	https://www.ettoday.net/news/20230108/2418596.htm#ixzz7ppBQdq25	未分類
 2023-06-26	英國逾 25% 成年人怕打疫苗，「疫苗貼片」成針頭恐懼患者福音	https://technews.tw/2023/06/26/vaxxas-hd-map-hexapro/	瘟疫與疫苗
 2023-06-01	武漢肺炎》香港連2天1.6萬例 澳門104確診5病歿 - 國際 - 自由時報電子報	https://news.ltn.com.tw/news/world/breakingnews/4174985	未分類
-2023-01-05	添102確診兩翁病歿 當局不排除通關後爆小規模疫情	https://hk.on.cc/hk/bkn/cnt/news/20230105/bkn-20230105202102153-0105_00822_001.html	爆發疫情
 2023-05-01	本港新增18422宗新冠確診 再多68人染疫亡	https://www.bastillepost.com/hongkong/article/12014051-%E7%96%AB%E6%83%85%EF%BD%9C%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E18422%E5%AE%97%E7%A2%BA%E8%A8%BA-%E5%86%8D%E5%A4%9A68%E4%BA%BA%E7%97%85%E6%AD%BF	未分類
 2023-05-01	增逾16000新症 3月大女嬰仍危殆 11人無打新冠疫苗，9人已打4針、38人已打3針、13人已打兩針、4人已打一針。	https://hk.news.yahoo.com/%E5%A2%9E%E9%80%BE16000%E6%96%B0%E7%97%87-3%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%AC%B0%E4%BB%8D%E5%8D%B1%E6%AE%86-214500164.html	瘟疫與疫苗
 2023-05-01	(疫情 新增14918宗確診 24人離世 34間醫院舍爆疫)	https://www.iask.ca/news/427065	爆發疫情
@@ -995,14 +990,17 @@ var DATA_PLAGUE = `
 2023-01-13	今增8260確診 輸入佔228宗 本地首現XBB.1.5變種 另外再多71名患者離世，包括9宗殮房個案、62宗醫管局呈報個案；公院的死亡病例中，分別為37男25女，年齡介乎48至103歲，當中有27人為院友，另有3人已打4針疫苗、33人已打3針。第5波疫情累計12,480人染疫亡。	https://hk.sports.yahoo.com/news/%E4%BB%8A%E5%A2%9E8260%E7%A2%BA%E8%A8%BA-%E8%BC%B8%E5%85%A5%E4%BD%94228%E5%AE%97-%E9%A6%96%E7%8F%BExbb-1-5%E8%AE%8A%E7%A8%AE-084736932.html	爆發疫情
 2023-01-11	消息：中共前外長助理武韜染疫去世 雙肺全白 ｜ Covid-19 ｜ 中共病毒 ｜ 前駐俄羅斯大使 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/11/a103622291.html	未分類
 2023-01-11	日本全境「1個多月萬人確診亡」疫情再飆 專家曝3原因	https://www.ettoday.net/news/20230111/2420773.htm	爆發疫情
+2023-01-11	【一線採訪】養老院老人疫亡 死因不寫染疫 ｜ 疫情 ｜ 死亡證明 ｜ 新冠 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/11/n13904494.htm	爆發疫情
 2023-01-10	疫纏第四年 國內增383確診8瘟疫|中國報	https://www.chinapress.com.my/20230110/◤疫缠第四年◢-国内增383确诊-8疫殁/	瘟疫與疫苗
 2023-01-10	中共軍級老人任桂蘭去世 疫情下軍中高官接連病亡 ｜ 中國疫情 ｜ 司令員劉雙全 ｜ 司令員季占斌 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/10/a103621398.html	爆發疫情
 2023-01-10	上海導演陳蟬去世 疫情下中國演藝界多人病亡 ｜ 上海電影製片廠 ｜ 中共病毒 ｜ 名人染疫去世 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/10/a103621562.html	爆發疫情
 2023-01-08	醫管局：7日新增416名新冠確診病人留醫 多22人危殆 - 香港商報	http://www.hkcd.com/hkcdweb/content/2023/01/08/content_1381205.html	未分類
+2023-01-08	日本新冠病歿者破6萬人！ 短短1個月增1萬人染疫身亡	https://www.ettoday.net/news/20230108/2418596.htm#ixzz7ppBQdq25	未分類
 2023-01-08	【新冠肺炎】累計確診502萬9908宗 我國1月4日再有4病亡｜光華網	https://www.kwongwah.com.my/20230108/%E3%80%90%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E3%80%91%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A502%E4%B8%879908%E5%AE%97-%E6%88%91%E5%9B%BD1%E6%9C%884%E6%97%A5%E5%86%8D%E6%9C%894%E7%97%85%E4%BA%A1/	瘟疫與疫苗
 2023-01-08	【新冠肺炎】累積診斷502萬9908宗我國1月4日再有4病|光華網	https://www.kwongwah.com.my/20230108/【新冠肺炎】累计确诊502万9908宗-我国1月4日再有4病亡/	未分類
 2023-01-06	昨添89確診9染疫亡 社局熱線求助個案逐步回落	https://hk.on.cc/hk/bkn/cnt/news/20230106/bkn-20230106163642024-0106_00822_001.html	未分類
 2023-01-05	紅色畫家杜滋齡去世 疫情下4天9名畫家病亡 ｜ 中共病毒 ｜ 劉文選 ｜ 周令釗 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/05/a103617525.html	爆發疫情
+2023-01-05	添102確診兩翁病歿 當局不排除通關後爆小規模疫情	https://hk.on.cc/hk/bkn/cnt/news/20230105/bkn-20230105202102153-0105_00822_001.html	爆發疫情
 2023-01-04	南京大學江靜病亡 年僅60歲 ｜ 中國疫情 ｜ 南京大學教授 ｜ 博士生導師 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616644.html	爆發疫情
 2023-01-04	中國多地現嬰兒危重肺炎 7個月嬰器官衰竭亡(視頻) ｜ 中國嬰兒 ｜ 中國疫情大爆發 ｜ 重症肺炎 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616985.html	爆發疫情
 2023-01-04	中共部級高層病亡 多次換器官 器官來源成謎 ｜ 高占祥病亡 ｜ 周令釗 ｜ 中國疫情 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616418.html	瘟疫與疫苗
@@ -1019,6 +1017,7 @@ var DATA_PLAGUE = `
 2023-01-01	多114名新冠患者入住隔離設施 另添2名老翁染疫亡	https://hk.on.cc/hk/bkn/cnt/news/20230101/bkn-20230101192508304-0101_00822_001.html	未分類
 2023-01-01	內地增5102宗本土確診 再多1人染疫亡	https://www.bastillepost.com/hongkong/article/11987863-%e5%85%a7%e5%9c%b0%e5%a2%9e5102%e5%ae%97%e6%9c%ac%e5%9c%9f%e7%97%85%e4%be%8b-%e5%86%8d%e5%a4%9a1%e4%ba%ba%e6%ad%bb%e4%ba%a1	未分類
 2023-01-01	【翻牆必看】傳中共上將染疫 吃特效藥身亡 ｜ 宋清渭 ｜ 染疫身亡 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/1/n13896722.htm	未分類
+2022-12-31	今增29207確診，直逼3萬大關，另再多52名患者離世，分別為26男26女，年齡介乎37歲至97歲，當中12人來自院舍。死者中有6人已打4針、29人打3針；第5波疫情累計11,594人病亡。	https://hk.on.cc/hk/bkn/cnt/news/20221231/bkn-20221231172644569-1231_00822_001.html	爆發疫情
 2022-12-30	楊寧：唱紅歌要去見毛 南京歌友染疫後一語成讖 ｜ 染疫病亡 ｜ 膜拜毛 ｜ 洗腦 ｜ 大紀元	https://www.epochtimes.com/b5/22/12/30/n13895623.htm	瘟疫與疫苗
 2022-12-30	四天三名馬克思主義教授病亡 均為中共黨員 ｜ 瘟疫 ｜ 趨吉避凶 ｜ 魔鬼撒旦 ｜ 大紀元	https://www.epochtimes.com/b5/22/12/29/n13894656.htm	瘟疫與疫苗
 2022-12-30	2歲女童確診2日內過世 指揮中心揭死因：新冠病毒感染合併敗血性休克	https://tw.news.yahoo.com/2%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%A2%BA%E8%A8%BA2%E6%97%A5%E5%85%A7%E9%81%8E%E4%B8%96-%E6%8C%87%E6%8F%AE%E4%B8%AD%E5%BF%83%E6%8F%AD%E6%AD%BB%E5%9B%A0-%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E5%90%88%E4%BD%B5%E6%95%97%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B-065355308.html	未分類
@@ -1030,6 +1029,7 @@ var DATA_PLAGUE = `
 2022-12-28	藥企高管陳可傑染疫死於上海 40多歲無基礎病 ｜ 中共隱瞞疫情 ｜ 染疫死亡 ｜ 製藥企業 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2022/12/27/a103608185.html	爆發疫情
 2022-12-28	檳州33確診病例，1人疫歿。	https://guangming.com.my/%E6%AA%B333%E7%A2%BA%E8%A8%BA%E7%97%85%E4%BE%8B-1%E4%BA%BA%E7%96%AB%E6%AD%BF	爆發疫情
 2022-12-28	柔昨新增22宗冠病確診 2病歿2縣零確診 - 地方 - 大柔佛焦點	https://www.sinchew.com.my/20221228/%E6%9F%94%E6%98%A8%E6%96%B0%E5%A2%9E22%E5%AE%97%E5%86%A0%E7%97%85%E7%A1%AE%E8%AF%8A-2%E7%97%85%E6%AE%812%E5%8E%BF%E9%9B%B6%E7%A1%AE%E8%AF%8A/	未分類
+2022-12-28	柔佛州新增22宗冠病確診，2病歿2縣零確診。	https://www.sinchew.com.my/20221228/柔昨新增22宗冠病确诊-2病殁2县零确诊/	未分類
 2022-12-28	中共黨員、兒童文學作家葛翠琳在北京病亡 ｜ 三退 ｜ 中共病毒 ｜ 中國疫情 ｜ 新唐人電視臺	https://www.ntdtv.com/gb/2022/12/28/a103608498.html	爆發疫情
 2022-12-28	3人仍在ICU治療，霹靂16冠病2瘟疫。	https://www.sinchew.com.my/20221228/3人仍在icu治疗-霹增16冠病2疫殁/	瘟疫與疫苗
 2022-12-27	疫情｜內地增5136宗本地個案 多3人病亡	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/851301/%E7%96%AB%E6%83%85-%E5%85%A7%E5%9C%B0%E5%A2%9E5136%E5%AE%97%E6%9C%AC%E5%9C%B0%E5%80%8B%E6%A1%88-%E5%A4%9A3%E4%BA%BA%E7%97%85%E4%BA%A1	爆發疫情
@@ -1173,4 +1173,5 @@ var DATA_PLAGUE = `
 2022-02-12	(接種疫苗後死因不明 費小姐母聲請國賠)	https://www.ftvnews.com.tw/news/detail/2022C02W0131	瘟疫與疫苗
 2022-02-11	增4709宗確診含430宗輸入 再多8人染疫亡	https://www.bastillepost.com/hongkong/article/11609104-%e7%96%ab%e6%83%85%ef%bd%9c%e5%a2%9e4709%e5%ae%97%e7%a2%ba%e8%a8%ba-%e5%8c%85%e6%8b%ac430%e5%ae%97%e8%bc%b8%e5%85%a5-%e5%a4%9a8%e4%ba%ba%e9%9b%a2%e4%b8%96	未分類
 2022-01-12	5歲男童確診新冠併發腦水腫危殆 3歲男童染流感同命危須用呼吸機	https://www.hk01.com/article/842530?utm_source=01articlecopy&utm_medium=referral	未分類
-2021-06-25	新冠肺炎與「大重設」：一個世界重建提議如何變成了陰謀論	https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxTURjdkEzemw0bDVRZUs3VmFjeEpva01ZSUwwS1VjblhWS1JsYnJiaGRabWJST0VmOFhsYzdVeEZRZll2ZWhKc3d1bVFJLWstQ3dxZHBKMERrazFa0gFiQVVfeXFMTUFZbGNtV1VKRzRvMXZPdW8xT3hjWWltWEE3Q1ZFTGp3LWJuNURTY3dDLWFzdkM3amFKNFlVWDFFdlc4UUdNbklLZVBvb2F6WTdTMS1QT3c3QUE4VmpCVzg2X1E?oc=5	未分類`;
+2021-06-25	新冠肺炎與「大重設」：一個世界重建提議如何變成了陰謀論	https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxTURjdkEzemw0bDVRZUs3VmFjeEpva01ZSUwwS1VjblhWS1JsYnJiaGRabWJST0VmOFhsYzdVeEZRZll2ZWhKc3d1bVFJLWstQ3dxZHBKMERrazFa0gFiQVVfeXFMTUFZbGNtV1VKRzRvMXZPdW8xT3hjWWltWEE3Q1ZFTGp3LWJuNURTY3dDLWFzdkM3amFKNFlVWDFFdlc4UUdNbklLZVBvb2F6WTdTMS1QT3c3QUE4VmpCVzg2X1E?oc=5	未分類
+`;
