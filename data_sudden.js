@@ -1,4 +1,4 @@
-// 猝死 | 由 build_news_js.py 生成 | 共 4757 條
+// 猝死 | 由 build_news_js.py 生成 | 共 4755 條
 var DATA_SUDDEN = `
 2026-09-30	美國40歲摔角明星猝死 觀眾曾指肌肉不自然膨脹	https://news.google.com/rss/articles/CBMi1gJBVV95cUxOLTBzdmZ5LU1JeDVNcHAzTW81el8xYVBXWGliM1l1UWs3UmwtM0pKdmxCLWctbjV0akZhME9ia1Y3UUFGTVB6eEJwM1B6RnZ0OFNYdFJVaVl6YVdnSmhWcEJWN212N05UNDRUb3pTa3p5RFdQV1ZQTGNZdzZPSkpsMll6cHZrVDJlUWtyMkJlZDRpVDJMbGlDcFpiQTdVTENyc1FqRjJOcUtBR2ZibGR4Um9NdFVWbmRIRTN2OEFJTzhkOTBQdkplRzZjSElEWmUyb2RSODlKSW5XM2tiU1hfZk5lUmt3WEdaM281OW1yU1I3OGpIU3JrYTRIeVJCREtjMm9RWTNpX3hvTm41Q0lrM0hWZXNGNmRYaThlVFd6Ry15UVNfNG0zOU84VjFRZUNkaGc0QVRKVlpLOUJ0M3Q3MUFydlE1WXAzZDJUcWRQWUxvVi05TUE?oc=5	未分類
 2026-09-29	龍千玉愛女猝逝! 淚訴真實死因 檢驗報告出爐無奈嘆： 老天的安排	http://www.msn.com/zh-tw/entertainment/news/龍千玉愛女猝逝-淚訴真實死因-檢驗報告出爐無奈嘆-老天的安排/ar-AA1SqEq5?cvid=6941f72bc99d46b3b57de10d45cb6285&ocid=wispr&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
@@ -1864,7 +1864,6 @@ var DATA_SUDDEN = `
 2026-09-29	63歲偶像教父開會猝死搶救無效 醫揭怕心臟奪命「要做這檢查」	https://tw.news.yahoo.com/63歲偶像教父開會猝死搶救無效-醫揭怕心臟奪命-要做這檢查-000000679.html	未分類
 2026-09-29	63歲「大陸偶像教父」猝逝 曾狀告鞠婧禕！粉絲團發聲	https://tw.news.yahoo.com/63歲-大陸偶像教父-猝逝-曾狀告鞠婧禕-粉絲團發聲-080351642.html	未分類
 2026-09-29	63歲「大陸偶像教父」猝逝 曾狀告鞠婧禕! 粉絲團發聲	https://www.msn.com/zh-tw/entertainment/news/63歲-大陸偶像教父-猝逝-曾狀告鞠婧禕-粉絲團發聲/ar-AA210P4N?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
-2026-09-29	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62歲殿堂級歌后猝逝-千禧年代憑多首金曲紅遍中港台-曾成已婚作曲家小三為愛赴內地發展後離婚	未分類
 2026-09-29	62岁大娘猝死真相，吃药多年血压稳，3 个坏习惯却要了命	https://www.msn.com/zh-cn/news/other/62岁大娘猝死真相-吃药多年血压稳-3个坏习惯却要了命/ar-AA1KZKDH	未分類
 2026-09-29	61歲婦痔瘡手術後9天猝死 「醫院僅賠4.5萬」家屬難接受	https://health.setn.com/news/1820674	未分類
 2026-09-29	60歲男猝死公車3天無人知！ 遺體冰存擇日解剖｜#鏡新聞	https://tw.news.yahoo.com/60歲男猝死公車3天無人知-遺體冰存擇日解剖-鏡新聞-104600228.html	未分類
@@ -4125,7 +4124,6 @@ var DATA_SUDDEN = `
 2025-06-10	DJ音樂太大聲！少年「站在音響前」突暴斃 母崩潰： 大家還在跳舞	https://www.msn.com/zh-tw/news/world/dj%E9%9F%B3%E6%A8%82%E5%A4%AA%E5%A4%A7%E8%81%B2-%E5%B0%91%E5%B9%B4-%E7%AB%99%E5%9C%A8%E9%9F%B3%E9%9F%BF%E5%89%8D-%E7%AA%81%E6%9A%B4%E6%96%83-%E6%AF%8D%E5%B4%A9%E6%BD%B0-%E5%A4%A7%E5%AE%B6%E9%82%84%E5%9C%A8%E8%B7%B3%E8%88%9E/ar-AA1su8iq?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2025-06-10	80歲男星彭海義猝逝！超商廣告的阿伯就是他…同框Selina當臉書封面	https://star.ettoday.net/news/3019831	未分類
 2025-06-10	75歲翁再娶「小40歲三寶媽」 新婚隔天竟猝死！	https://tw.news.yahoo.com/75%E6%AD%B2%E7%BF%81%E5%86%8D%E5%A8%B6-%E5%B0%8F40%E6%AD%B2%E4%B8%89%E5%AF%B6%E5%AA%BD-%E6%96%B0%E5%A9%9A%E9%9A%94%E5%A4%A9%E7%AB%9F%E7%8C%9D%E6%AD%BB-053712482.html	未分類
-2025-06-10	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62%E6%AD%B2%E6%AE%BF%E5%A0%82%E7%B4%9A%E6%AD%8C%E5%90%8E%E7%8C%9D%E9%80%9D-%E5%8D%83%E7%A6%A7%E5%B9%B4%E4%BB%A3%E6%86%91%E5%A4%9A%E9%A6%96%E9%87%91%E6%9B%B2%E7%B4%85%E9%81%8D%E4%B8%AD%E6%B8%AF%E5%8F%B0-%E6%9B%BE%E6%88%90%E5%B7%B2%E5%A9%9A%E4%BD%9C%E6%9B%B2%E5%AE%B6%E5%B0%8F%E4%B8%89%E7%82%BA%E6%84%9B%E8%B5%B4%E5%85%A7%E5%9C%B0%E7%99%BC%E5%B1%95%E5%BE%8C%E9%9B%A2%E5%A9%9A	未分類
 2025-06-10	58岁男登山途中猝死 案列自然猝死案	https://news.seehua.com/post/1373839	未分類
 2025-06-10	50歲男泡漫畫店6天！今早叫不醒猝死多天驚人身分曝光| 社會焦點	https://www.taisounds.com/news/content/96/208983	未分類
 2025-06-10	42歲九寶爸突離世 一家10口陷入困境 | 中廣新聞網	https://star.setn.com/news/1715214	未分類
