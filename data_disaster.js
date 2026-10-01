@@ -1,4 +1,4 @@
-// 天災 | 由 build_news_js.py 生成 | 共 2556 條
+// 天災 | 由 build_news_js.py 生成 | 共 2551 條
 var DATA_DISASTER = `
 2026-09-30	颱風將接近日本伊豆群島 千葉災區搶修堤防	https://news.google.com/rss/articles/CBMigAFBVV95cUxPcjlMblF6WENGaF9NQ2I3c2tHVy1OQnpqYzBXbi1lU2wyTlpia0pHYW9UWHRiaHdXS2YweHJwSkZjUm1tMWNRNDc0VnNFRDl2RUFuU2NiSUQ3S0paTEE3ZzZTVDVYbWtBVUl1MkxaSHBVWlZyWjhtT3JfanJDOTNqd9IBX0FVX3lxTE10NnNRZ0dDQ0N2ZVpGYV8xc0E3cEI0eTNERWE2eW9GT3V1YmtiTjFUdE1ySTZjbjc5endWUTZNb05VVWdhMzlxd0pqYTNBbnJLckVSckdReDlCdzU3bzBB?oc=5	颱風
 2026-09-30	雙颱恐夾擊！彩雲颱風周末生成 跨界颱風緊追在後	https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SS3J4cTJDUVFxRUExX0tJVU1YXzJrYjEwMXFCTHRSTmVNZFJoRzBxdk54TWNWTXVoRDEzSTlubzdDaC1GSnlITF9kT0VjZjB4eWhRaA?oc=5	颱風
@@ -14,10 +14,7 @@ var DATA_DISASTER = `
 2026-09-30	「彩雲」颱風最快明生成！ 粉專：強度上看強烈颱風 | 自由電子報	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBETXhETFFHM3hHZ0g2a29QZk16bzkzNThuVzR3UnlzbmtKNGhFZjJVbEhSeHZNNFJ1OUU3ckxvYkNmU3ZsUlBmVzRjOXV6ejdzVl9vYWJR?oc=5	颱風
 2026-09-30	「只是去逛個街」！緬甸內戰空襲若開邦 50人死在市場裡	https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1RVLWw2TC1wd3NzblhPVktrSmVxaHZZalI1TFFRNDlhZUh6eW5UZFIteTFjM25VNEZMam1qbi1TUW5HZV94RG5uMThqZl9zU1VVSXFJX2lyMFlTRFJJSWg1cVBsYWRDNE1DQ08xMTNMcFVWMS1JVGc3UjlYVEtYNjBJTzhfSkRlZHc?oc=5	未分類
 2026-09-30	Tether 首曝凍結伊朗USDT戰績！一年凍 5.5 億鎂，參議員報告揭伊朗影子銀行	https://news.google.com/rss/articles/CBMigwFBVV95cUxNN09Sb1IxR2tqR2VMcXJOSGdiZldXN1o3RTFaOFN1b1EzbEk5QWJhRG90WE9VWmpaTzZIN0tFakJMWTNDWWxWNS1lQTByYWFpeHY0TDJLd2JucjNsdWlXVnNUemVOV0NnVm9pNzdJaklRLVk1Q3pOZkpWLU40WjlXZ2hPWQ?oc=5	未分類
-2026-03-06	（有片）美以襲擊伊朗一兒童遊樂場 已致20死	https://www.dotdotnews.com/a/202603/06/AP69aa97dfe4b0c32d4f6aea14.html	未分類
-2026-03-06	（有片）最新！美以襲擊已致伊朗1332人死亡- 國際	https://www.dotdotnews.com/a/202603/06/AP69aaa9a3e4b0c32d4f6aec52.html	未分類
 2026-09-29	龐貝古城：AI 重塑火山爆發遇難者面貌揭示歷史災難新視角	https://www.bastillepost.com/hongkong/article/15929594-龐貝古城ai重塑火山罹難者容貌-助了解歷史災難	火山
-2026-07-08	龍捲風重創黃岡市4死 男子遭大風吸走從12樓墮下	https://hk.on.cc/hk/bkn/cnt/news/20260708/bkn-20260708111136080-0708_00822_001.html	極端天氣
 2026-09-29	黑海糧道戰火升級 糧食危機恐衝擊全球	https://www.hkej.com/dailynews/commentary/article/4484131/黑海糧道戰火升級+糧食危機恐衝擊全球	未分類
 2026-09-29	黎巴嫩續遭以軍空襲逾200亡3維和人員傷	https://www.tdm.com.mo/en/news-detail/1183068?lang=zh&isvideo=false&category&shortvideo=0	未分類
 2026-09-29	黎巴嫩稱以軍大規模空襲已致254人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/s/202604/09/AP69d6e886e4b0b49ad1b605b0.html	地震
@@ -38,7 +35,6 @@ var DATA_DISASTER = `
 2026-09-29	高溫、乾旱、AI需求：美國電網今夏面臨「五級警報」	https://cn.wsj.com/articles/高溫-乾旱-ai需求-美國電網今夏面臨-五級警報-96064b8b	乾旱
 2026-09-29	高溫+山火 體感最高45℃ 加拿大進入火烤模式	https://www.chinesepress.com/archives/181707	山火
 2026-09-29	高架橋拆到一半突崩塌 韓國首爾爆工安意外3死3傷 | 國際 | CTWANT	https://www.ctwant.com/amp/article/482767/	未分類
-2026-05-26	高架橋拆到一半突崩塌 韓國首爾爆工安意外3死3傷 - 國際新聞 - PChome Online 新聞	https://news.pchome.com.tw/internation/crwant/20260526/index-77979129587082316011.html	未分類
 2026-09-29	高市視察熊本地震災區影片在X上挨批	https://tchina.kyodonews.net/articles/-/11831	地震
 2026-09-29	高市早苗到熊本縣視察地震災情	https://news.rthk.hk/rthk/ch/component/k2/1864791-20260803.htm	地震
 2026-09-29	高市在熊本地震後首次視察災區	https://tchina.kyodonews.net/articles/-/11677	地震
@@ -68,7 +64,6 @@ var DATA_DISASTER = `
 2026-09-29	預言2026｜泰國神婆Mor Plai點名一地區將有大地震！年末恐迎極端天災 呼籲做好呢件事	https://hk.ulifestyle.com.hk/topic/detail/20107311/泰國神婆mor-plai驚爆最新預言-點名一地區大地震危機不可不防-年末恐迎極端天災	地震
 2026-09-29	響應防治沙漠化與乾旱世界日 新北邀全民種下一棵樹 守護土地與水源	https://www.taiwannews.com.tw/zh/news/6384845	乾旱
 2026-09-29	韓綜大地震！jbtc申請破產，《認識的哥哥》等多檔節目驚傳「全面停錄」 ！僅2檔逃過死劫	https://www.koreastardaily.com/tc/amp/163065	地震
-2026-05-26	韓國首爾傳嚴重工安意外 高架橋崩塌釀3死3傷	https://www.eracom.com.tw/EraNews/Home/WorldNews/m/2026-05-26/2358611.html	未分類
 2026-09-29	韓國熱浪持續 首爾逾40%地區發布高溫重大警報	https://money.udn.com/money/amp/story/5599/9671673	極端天氣
 2026-09-29	韓國持續酷熱 當局連續四天通報懷疑與高溫相關死亡個案	https://news.rthk.hk/rthk/ch/component/k2/1865143-20260806.htm	極端天氣
 2026-09-29	非常強聖嬰影響全面展開 賈新興：高溫少雨機率高 下周關注颱風發展	https://udn.com/news/amp/story/7266/9745420	颱風
@@ -80,7 +75,6 @@ var DATA_DISASTER = `
 2026-09-29	青海接連發生5.7級、5.8級地震 多地震感明顯	https://www.epochtimes.com/b5/26/7/28/n14818694.htm	地震
 2026-09-29	青森深夜強震！各國旅客半夜驚慌逃生避難	https://news.ebc.net.tw/news/world/526366	地震
 2026-09-29	靈能者預言「4/26毀滅性地震」日本因此滅國？！規模8.3大地震「海底山狂震」專家曝發生機率...【57爆新聞萬象搜奇】 @57BreakingNews Denaturalization (ye0NWcPIhi)	https://mshale.com/aacfbffd/06434a4eoApH5aa0QsU	地震
-2026-05-19	霍爾木茲海峽遭伊朗封鎖，英國外相警告全球糧食危機與生活成本壓力加劇	https://www.singtaousa.com/2026/05/19/news/world/uk-lawmaker-warns-of-global-food-crisis-urges-immediate-reopening-for-strait-of-hormuz/	未分類
 2026-09-29	雷暴警告連發！ 10級狂風+雷雨冰雹 越南下龍灣遊船翻38死	https://www.msn.com/zh-tw/news/world/雷暴警告連發-10級狂風-雷雨冰雹-越南下龍灣遊船翻38死/ar-AA1IVlbM?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	冰雹
 2026-09-29	雲林文蛤暴斃逾7成! 豪雨高溫夾攻中秋烤肉恐買不到	https://www.msn.com/zh-tw/news/living/雲林文蛤暴斃逾7成-豪雨高溫夾攻-中秋烤肉恐買不到/ar-AA26beMG?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	水災
 2026-09-29	雲南西雙版納景洪市4.6級地震 有民眾稱感受到整棟樓震動	https://news.tvb.com/tc/greaterchina/699551d2060723efc0824200/兩岸-雲南西雙版納景洪市4.6級地震-有民眾稱感受到整棟樓震動	地震
@@ -118,7 +112,6 @@ var DATA_DISASTER = `
 2026-09-29	長者酷熱｜綠色和平調查 5.5% 曾因酷熱不適送院 18.9% 長者「從不」開冷氣	https://thecollectivehk.com/長者酷熱｜綠色和平調查 5-5-曾因酷熱不適送院 18-9/	極端天氣
 2026-09-29	野火肆虐 損失慘重	https://www.hkej.com/dailynews/international/article/4490299/野火肆虐+損失慘重	山火
 2026-09-29	野火地圖聚焦：波士尼亞與赫塞哥維納火災	https://www.iqair.com/tw/newsroom/wildfire-map-spotlight-bosnia-and-herzegovina-fires	大火
-2026-07-17	重慶彭水山體滑坡 至少8死34失蹤	https://www.rfi.fr/tw/中國/20260717-重慶彭水山體滑坡-至少8死34失蹤	未分類
 2026-09-29	重慶山泥傾瀉｜事故造成8死34失聯 山體崩塌前後對比圖公布	https://www.hk01.com/即時中國/60371188/重慶山泥傾瀉-事故造成8死34失聯-山體崩塌前後對比圖公布	水災
 2026-09-29	重慶、達州洪水 農村受災嚴重 民被大水捲走	https://news.google.com/rss/articles/CBMiYEFVX3lxTE13NzJMRWlGUGVOZHp2M3pHaFIzLTdIM0xuM09taVlzYkVzZEhyQVFVUEZDa0ROXzJvdkNVdUFHV2tnUWxCamV0eGZUV2dmNWpvalJFeWlUYjRuS0VHaG5CYtIBZkFVX3lxTE5xVFdWMWZvQnFqQi1RXzlEejlVZ1NkeEdDU3lua1BmaUp6OEFNWTc1LWlQb1RXbDYyTWdyd2V1aHJMVmtOOTU0a29la2tpQXZXSHFVeTF4LTYyV1d3T2J5MlRVN0lxQQ?oc=5	水災
 2026-09-29	釀50死多人傷！緬甸內戰「市場遭空襲」婦女、兒童也受害	https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1X3FOYmJRN25oNDNFMjVwUWtVb0tQZkd0QXI4MzVJUjJtV084MHp5UUNSbExoMkYwaVM1TW5lamNoZl9UQkJxcXpqQVVvMDkxZGZr?oc=5	未分類
@@ -156,7 +149,6 @@ var DATA_DISASTER = `
 2026-09-29	詳訊2：山梨縣發生M5.6級地震 富士山無異常變化	https://tchina.kyodonews.net/articles/-/10134	地震
 2026-09-29	記者編輯部| 【楊楚光專欄】淹水、爆炸天災還是人禍？	https://www.i-meihua.com/Article/Detail/54840	水災
 2026-09-29	規模6.3地震襲擊阿拉斯加州尼科爾斯基地區 作者 Investing.com	https://hk.investing.com/news/economy-news/article-93CH-1662676	地震
-2026-01-12	要聞分析 - 伊朗示威死亡恐達數千 伊朗願與美國談判 神棍體制還能撐多久？	https://www.rfi.fr/tw/專欄檢索/要聞分析/20260112-伊朗示威死亡恐達數千-伊朗願與美國談判-神棍體制還能撐多久	未分類
 2026-09-29	西西里島「埃特納火山」連日噴發！遊客瘋朝聖、火山灰導致機場停擺	https://globalnewstv.com.tw/202608/236986/	火山
 2026-09-29	西藏泥石流｜逾1200人死數千人仍失蹤 尼泊爾擬重建山泥傾瀉預警系統	https://www.stheadline.com/realtime-china/3611192/西藏泥石流逾1200人死數千人仍失蹤-尼泊爾擬重建山泥傾瀉預警系統	水災
 2026-09-29	西藏泥石流｜尼泊爾山洪倖存者妻兒盡亡 自責痛哭：就我活了下來	https://www.hk01.com/article/60384574	水災
@@ -221,7 +213,6 @@ var DATA_DISASTER = `
 2026-09-29	聯大聚焦AI及戰事 川普揚「毀滅」伊朗	https://news.ttv.com.tw/news/11509290000800W	未分類
 2026-09-29	聯合國： 巴基斯坦阿富汗衝突致近五百平民亡逾千人傷	https://www.bastillepost.com/hongkong/article/16455357-聯合國：巴基斯坦阿富汗衝突致近五百平民亡-逾千	未分類
 2026-09-29	聯合國駐黎巴嫩維和人員接連遇襲亡 古特雷斯：或構成戰爭罪	https://www.hk01.com/即時國際/60341835/聯合國駐黎巴嫩維和人員接連遇襲亡-古特雷斯-或構成戰爭罪	未分類
-2026-09-04	聯合國糧農組織：乾旱與戰爭推升8月食品價格	https://www.rfi.fr/tw/中國/20260904-聯合國糧農組織-乾旱與戰爭推升8月食品價格	乾旱
 2026-09-29	聖誕節｜教宗發表任內首份聖誕文告 籲信眾關注飽受戰火及天災蹂躪地區	https://news.tvb.com/sc/1141943-聖誕節教宗發表任內首份聖誕文告籲信眾關注飽受戰火及天災蹂躪地區	其他災害
 2026-09-29	聖嬰現象重現 美國要警覺天災人禍	https://www.worldjournal.com/wj/amp/story/121201/9614119	其他災害
 2026-09-29	联合国发出警告：全球变暖超过1.5℃已不可避免。联合国秘书长：山火和洪水都是警告！	https://m.sohu.com/a/1071461854_120952561?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	山火
@@ -288,15 +279,10 @@ var DATA_DISASTER = `
 2026-09-29	美國中南部連日酷熱天氣 4000萬人受極端高溫警告	https://www.bastillepost.com/hongkong/article/16445522-美國中部南部連日酷熱天氣-數千萬人接極端高溫警	極端天氣
 2026-09-29	美國「感到絕望」？伊朗媒體：美軍試圖炸死失聯飛行員美股US Stocks Quote - 外圍新聞內容Golbal News Content	https://www.aastocks.com/share/news/anue/AN6407555?lang=chi	未分類
 2026-09-29	美国夏威夷火山再现“熔岩喷泉”	https://m.sohu.com/a/1081938683_114988?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	火山
-2026-06-26	美国和伊朗停火后，霍尔木兹海峡再传袭击，油轮掉头折返	https://www.jpchinapress.com/static/content/SS/2026-06-26/1520062019155566592.html	未分類
-2026-03-21	美国使馆设施连续遭6次袭击，现场燃起大火！伊朗称同时打击5处美军基地，特朗普：可以对话，但我不想停火	https://finance.sina.cn/china/gjcj/2026-03-21/detail-inhrtipv7354961.d.html?oid=WA 0821 7001 0763 (FORTRESS) Pintu Rumah Minimalis 1 Pintu Keritang Indragiri Hilir&vt=4	大火
 2026-09-29	美公布第7名殉職官兵！26歲中士傷重不治 范斯痛心哀悼	https://news.ebc.net.tw/news/world/541240	未分類
 2026-09-29	美伊停火 | 伊朗前外長遇空襲傷重不治 德黑蘭住所被炸 妻子當場喪命	https://std.stheadline.com/realtime-world/3560837/美伊停火-伊朗前外長遇空襲傷重不治-德黑蘭住所被炸-妻子當場喪命	未分類
 2026-09-29	美以襲擊鄰近霍爾木茲海峽的伊朗碼頭 致5人死亡	https://bau.com.hk/web/article/1487901819519954944/web/content_1487901819519954944.html	未分類
-2026-03-27	美以襲擊致伊朗超1900人死亡至少2萬人受傷- 國際	https://www.dotdotnews.com/a/202603/27/AP69c6873ee4b0c32d4f6d3dcd.html	未分類
 2026-09-29	美以襲擊已致伊朗787人死亡	https://bau.com.hk/web/article/1478687435195518976/web/content_1478687435195518976.html	未分類
-2026-03-24	美以襲擊已致伊朗208名未成年人死亡 最小僅出生3天	https://www.dotdotnews.com/a/202603/24/AP69c230dfe4b0c32d4f6cd92b.html	未分類
-2026-03-18	美以襲擊伊朗居民區 致7死56傷	https://www.tkww.hk/a/202603/18/AP69ba5844e4b04773b06a3355.html	未分類
 2026-09-29	美以襲擊伊朗一廣播電台致1死1傷	https://hkcd.com/content_app/2026-03/23/content_8746184.html	未分類
 2026-09-29	美以襲伊朗｜美軍有加油機墜毀釀六死 有參議員要求防長就炸中小學引咎辭職	https://news.tvb.com/tc/world/69b4ec64d45d9a49e82cbff5/國際-美以襲伊朗｜美軍有加油機墜毀釀六死-有參議員要求防長就炸中小學引咎辭職	未分類
 2026-09-29	美以襲伊朗｜據悉哈梅內伊德黑蘭地堡被摧毀 黎巴嫩稱以色列施襲釀逾兩百死	https://news.tvb.com/sc/world/69ab788e101d7dfc2602bdbc/国际-美以襲伊朗｜據悉哈梅內伊德黑蘭地堡被摧毀-黎巴嫩稱以色列施襲釀逾兩百死	未分類
@@ -307,7 +293,6 @@ var DATA_DISASTER = `
 2026-09-29	美以襲伊朗．不斷更新｜伊朗有13間醫療設施受襲 4名醫護死亡	https://news.tvb.com/sc/world/69a29d50f3bac3b7e4e57871/国际-美以襲伊朗不斷更新｜伊朗有13間醫療設施受襲-4名醫護死亡	未分類
 2026-09-29	美以聯手攻打伊朗並殺死了哈梅內伊，社會上反應兩極化。剛上任紐約市長的馬姆達尼公開反對美國的做法。 #SBSCantonese #伊朗戰爭 #環球薈報 #馬姆達尼 #紐約市市長 #哈梅內伊	https://www.facebook.com/SBSCantonese/posts/美以聯手攻打伊朗並殺死了哈梅內伊社會上反應兩極化剛上任紐約市長的馬姆達尼公開反對美國的做法sbscantonese-伊朗戰爭-環球薈報-馬姆達尼-紐約市市長-哈/1455642536573028/	未分類
 2026-09-29	美以續襲伊朗 據報最少已有1330人死亡	https://news.rthk.hk/rthk/ch/component/k2/1846304-20260306.htm	未分類
-2026-03-26	美以空袭伊朗｜美军摧毁伊朗 逾60%军火产线 92%大型海军船舰	https://www.chinapress.com.my/20260326/美以空袭伊朗｜美军摧毁伊朗-逾60军火产线-92大型海/	未分類
 2026-09-29	美以炸死哈梅內伊 伊朗大報復	https://hk.finance.yahoo.com/news/美以炸死哈梅內伊-伊朗大報復-183000142.html	未分類
 2026-09-29	美以攻伊進入第10天！美軍新增1人戰亡 伊朗議長：不停火	https://tw.news.yahoo.com/美以攻伊進入第10天-美軍新增1人戰亡-伊朗議長-不停火-001412046.html	未分類
 2026-09-29	美以伊戰事｜ 伊逾1230人死亡 傳俄供情報攻擊美軍	https://www.881903.com/news/international/2621881	未分類
@@ -316,7 +301,6 @@ var DATA_DISASTER = `
 2026-09-29	緬甸內戰｜政府軍轟若開軍鬧市至少50死58傷 被指「有史以來最嚴重空襲」	https://news.google.com/rss/articles/CBMitgNBVV95cUxPNlVNS2thWlptRzlYQURjMVZjUXZJSG5ieTRuR25fcm5rcmMxMkhjU29YYnh2Rzh4Uy1WYk5UZmppSl9ib1NhQVlxdFY0dVo0WGxmeDN3aGhQS05NcWtRc0ktUGRSMy1YVEMwS2lCbGVmVFkzcWJkM2xheWxiYTlwRkJoRkJFbXJaQkkzcWIxVDVOZXA2THdWM3pDbHYxTHRQRndTeFl1UlZ2WnN2SGNKZFg2Qm05SmJSQ2dyMll6eHU2VHd1ZVBWbFBCQkNkZXdfZURxWmNhakJyQ2tvRjBlUk10REViRG43ZEZFUFVSOWNxYU5vdGpjLWRuUFMwYm5mUzJKUUZoSVE0NnJmSUZRY0g0ejV0cmptNWxCeTgyYW1rcUhmby1ZcDUzUFktWkREdXVuNUs0eTJpaDdXNVQ0eHRtMy00ZkFwaTg4Nlg3dU5WUkhzWmFmNVh3bEtVR0l0akxsMU1HOXpJNjQwXzdSMF8yU1dlU3VQazY0TkRGR2pIZVc3MmFnYy1BVDlXc0QtQ05lR19MOXlHRzNoenBxdll6ckNOelBHTHV1N3YxZ2c2VWw4S0E?oc=5	未分類
 2026-09-29	網紅科學家曾精準預測哥倫比亞強震 再發警告：加州恐面臨大地震	https://www.hk01.com/環球趣聞/60379876/網紅科學家曾精準預測哥倫比亞強震-再發警告-加州恐面臨大地震	地震
 2026-09-29	維蘇威火山於西元1世紀爆發，形成著名的龐貝遺跡。許多遊客不熟悉的是，附近的赫古拉尼翁古城也遭火山掩埋，因此有「小龐貝」之稱。古城遺跡保存良好，甚至可見碳化木製品與有機食材。	https://www.facebook.com/cnanewstaiwan/videos/維蘇威火山於西元1世紀爆發形成著名的龐貝遺跡許多遊客不熟悉的是附近的赫古拉尼翁古城也遭火山掩埋因此有小龐貝之稱古城遺跡保存良好甚至可見碳化木製品與有機食材/1655379942771279/	火山
-2022-12-02	維州海軍基地軍人接連4名軍人自殺 軍方被指責未正視精神健康	https://www.singtaousa.com/2022-12-02/維州海軍基地軍人接連自殺軍方被指責未正視精神/4346959	未分類
 2026-09-29	組圖：美中西部遭龍捲風吹襲 至少2死多傷 | 美國 | 強風暴 | 印第安納州	https://www.epochtimes.com/b5/26/3/12/n14717102.htm	極端天氣
 2026-09-29	組圖：法國野火持續肆虐奪兩命 數千人急撤	https://www.epochtimes.com/b5/26/7/23/n14815470.htm	山火
 2026-09-29	組圖：哥倫比亞強震至少164死數百傷	https://www.epochtimes.com/b5/26/8/11/n14827419.htm	地震
@@ -358,7 +342,6 @@ var DATA_DISASTER = `
 2026-09-29	破紀錄高溫暑熱警告仍最低級別許澤森稱「我都有好多問號」研優化機制調整門檻| 獨媒報導	https://www.inmediahk.net/node/政經/破紀錄高溫暑熱警告仍最低級別-許澤森稱「我都有好多問號」研優化機制調整門檻	未分類
 2026-09-29	破紀錄高溫僅發黃色工作暑熱警告惹爭議 勞工處長稱「好多問號」將調整系統敏感度	https://www.orangenews.hk/hongkong/VRwx3sK/破紀錄高溫僅發黃色工作暑熱警告惹爭議-勞工處長稱-好多問號-將調整系統敏感度.shtml	未分類
 2026-09-29	破紀錄熱浪席捲美國 多地國慶假期迎高溫警報	https://www.epochtimes.com/b5/26/7/2/n14801249.htm	極端天氣
-2026-08-18	短片：歐美多地山火持續 加拿大火勢蔓延 比利時山火失控 (13:26) - 20260818 - 熱點	https://news.mingpao.com/ins/熱點/article/20260818/s00024/1787027277919/短片-歐美多地山火持續-加拿大火勢蔓延-比利時山火失控	山火
 2026-09-29	睇電視發現自己「死」在伊朗 猶太女震驚：從未去過伊朗(有片)	https://www.am730.com.hk/國際/1007034/睇電視發現自己-死-在伊朗-猶太女震驚-從未去過伊朗-有片-	未分類
 2026-09-29	省首席衛生官就山火煙霧發出警告 另外省府呼籲公眾支持省內受山火影響的農民	https://am1320.com/焦點新聞/省首席衛生官就山火煙霧發出警告-另外省府呼籲公/	山火
 2026-09-29	直擊日本熊本地震災區：余震、高溫、斷水等帶來多重考驗--日本頻道--人民網	http://japan.people.com.cn/BIG5/n1/2026/0803/c35421-40772771.html	地震
@@ -382,7 +365,6 @@ var DATA_DISASTER = `
 2026-09-29	特朗普警告伊朗 報復將再受重擊夥以軍空襲釀逾200亡 多國被牽連	https://www.hkej.com/dailynews/article?id=4328580	未分類
 2026-09-29	特朗普料穆傑塔巴仍然生存但負傷 法軍士兵伊拉克遇襲亡｜最新	https://www.hk01.com/即時國際/60328462/伊朗戰爭最新消息-特朗普增兵航母-伊朗狂炸油輪封霍爾木茲海峽	未分類
 2026-09-29	特朗普捅了中东马蜂窝，大火烧到了美国身上，彻底逼反伊朗主和派	https://m.sohu.com/a/1047543594_122105407?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	大火
-2026-06-26	特朗普指責伊朗愚蠢地違反”停火協議	https://www.rfi.fr/tw/美洲/20260626-特朗普指責伊朗愚蠢地違反-停火協議	未分類
 2026-09-29	牡丹江镜泊湖火山熔岩台地的清晨	https://m.sohu.com/a/1071783487_121627717?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	火山
 2026-09-29	燒傷、高溫、戰火：走私者穿越巴基斯坦邊境運送伊朗燃料	https://www.bbc.com/zhongwen/articles/cj0gz198j9po/trad	未分類
 2026-09-29	熱浪襲美 紐約等地發高溫預警	https://www.tdm.com.mo/zh-hant/news-detail/1216415?lang=zh-hant&isvideo=false&category=all&shortvideo=0	極端天氣
@@ -471,13 +453,11 @@ var DATA_DISASTER = `
 2026-09-29	熊本7.1強震恐引阿蘇火山「連鎖效應」 郭鎧紋：餘震規模6以上	https://www.setn.com/news/1879951	地震
 2026-09-29	熊本7.1強震已13死 高市早苗：全力搜救失聯者	https://amp.dw.com/zh-hant/熊本71強震已13死高市早苗全力搜救失聯者/a-78152497	地震
 2026-09-29	煙霾+高溫臭氧 3措施防空汙傷害呼吸道	https://www.worldjournal.com/wj/amp/story/121390/9633364	未分類
-2026-06-16	無繩攀火山淪死亡直播「也門蜘蛛俠」墜落火山口- 國際	https://www.dotdotnews.com/a/202606/16/AP6a310a6de4b09ea2331898a4.html	火山
 2026-09-29	烏軍高層大地震！澤倫斯基撤換總司令｜掀日本輿論！高市早苗自曝「每天只睡0到3小時」｜2026/07/22 中央社全球午間快報	https://www.cna.com.tw/video/globalview/4355466	地震
 2026-09-29	烏稱俄空襲釀8死 澤連斯基籲復活節停火	https://www.tdm.com.mo/zh-hant/news-detail/1191225?category=all&isvideo=false	未分類
 2026-09-29	烏克蘭軍政大地震 連拔防長、總司令 議員譏：國家通往崩潰	https://www.worldjournal.com/wj/amp/story/121256/9646171	地震
 2026-09-29	烏克蘭無人機襲擊俄羅斯南部港口 釀1死3傷引發大火	https://tw.news.yahoo.com/烏克蘭無人機襲擊俄羅斯南部港口-釀1死3傷引發大火-065930965.html	大火
 2026-09-29	炼狱!BC度假村多栋建筑被野火烧毁	https://www.westca.com/News/article/sid=1222070/lang=schinese.html	山火
-2026-03-26	為什麼說：伊朗要麼亡教，要麼亡國？深度解析伊朗的死局	https://beyondnews852.com/20260326/237661/	未分類
 2026-09-29	火山警報！日本淺間火山噴發 氣象廳發「降灰」預警	https://www.setn.com/news/582843	火山
 2026-09-29	火山突然噴發 遊客崩潰急逃！最新情況曝光	https://www.teepr.com/1902152/liz-tsai/火山擊中遊客/	火山
 2026-09-29	火山爆發骨牌效應引發一場完美風暴黑死病失控擴散- 地球村 - 新聞	https://www.chinesedaily.com/article/detail-676996.html	火山
@@ -488,7 +468,6 @@ var DATA_DISASTER = `
 2026-09-29	澳廣視新聞｜委國強震增至近2300死全國哀悼七日｜	https://www.tdm.com.mo/zh-hant/news-detail/1216335?lang=zh-hant&isvideo=&category=all&shortvideo=0	地震
 2026-09-29	湖南石門遭遇極端暴雨已致6死10失聯 受災人口達10.48萬人	https://www.orangenews.hk/china/VKKZrcq/湖南石門遭遇極端暴雨已致6死10失聯-受災人口達10-48萬人.shtml	水災
 2026-09-29	湖南石門縣強降雨23個鄉鎮區場受災 至少5人死亡11人失蹤	https://news.tvb.com/sc/greaterchina/6a0d37c47bae7429fb1a8701/两岸-湖南石門縣強降雨23個鄉鎮區場受災-至少5人死亡11人失蹤	未分類
-2026-07-07	湖北多地雷暴大風8人亡 部分鄉鎮現龍捲風 (09:17) - 20260707 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260707/s00004/1783385459270/湖北多地雷暴大風8人亡-部分鄉鎮現龍捲風	極端天氣
 2026-09-29	深度》海鯤號怕颱風被酸不能打仗? 翻開二戰史：美軍最強艦隊曾遭「這場天災奇襲」痛失3戰艦、800官兵!	https://www.msn.com/zh-tw/news/national/深度-海鯤號怕颱風被酸不能打仗-翻開二戰史-美軍最強艦隊曾遭-這場天災奇襲-痛失3戰艦-800官兵/ar-AA26b4D9	颱風
 2026-09-29	海軍司令被炸死！伊朗最高領袖、總統發唁電	https://hk.finance.yahoo.com/news/海軍司令被炸死-伊朗最高領袖-總統發唁電-004240927.html	未分類
 2026-09-29	海沃斷層2043年前6.7級地震機率估33% 灣區盆地重災	https://www.worldjournal.com/wj/story/121519/9537950	地震
@@ -506,8 +485,6 @@ var DATA_DISASTER = `
 2026-09-29	泰國多地洪災已致8人死亡 180萬人受災	https://www.hkcd.com.hk/content_app/2026-09/28/content_8777505.html	水災
 2026-09-29	泰國地震｜曼谷宣布為「災區」 大廈倒塌、BTS捷運停駛 香港樓有冇抗地震設計? (有片)	https://ps.hket.com/article/4086994/泰國地震｜曼谷傳大廈倒塌、酒店天際泳池變「瀑布」 香港樓有冇抗地震設計- -有片-	地震
 2026-09-29	泰國南部邊境檢查站遭炸彈襲擊 造成五名士兵死亡	https://www.orangenews.hk/international/VQAoMKD/泰國南部邊境檢查站遭炸彈襲擊-造成五名士兵死亡.shtml	未分類
-2026-05-27	法多地刷新5月最高溫紀錄7人死亡與熱浪襲歐有關- 國際 - 香港文匯網	https://www.wenweipo.com/a/202605/27/AP6a1600cce4b0b49ad1bce040.html	極端天氣
-2026-06-25	法國高溫破紀錄熱浪席捲西歐，多國發布紅色警報並造成多人死亡	https://www.singtaousa.com/2026/06/25/news/world/france-records-hottest-day-ever-as-europe-suffers-brutal-heat-wave/	極端天氣
 2026-09-29	法國部分地區錄破紀錄高溫 英國料本周三及四氣溫或高達39度	https://news.tvb.com/sc/1178656-法國部分地區錄破紀錄高溫英國料本周三及四氣溫或高達39度	未分類
 2026-09-29	法國遭異常乾旱、熱浪重創農業！乳製品減產2成 部分地區玉米0收成	https://ubrand.udn.com/ubrand/amp/story/123658/9641334	乾旱
 2026-09-29	法國西班牙山火或燃燒至11月初 當地迎新一輪熱浪 增加救火困難	https://www.hk01.com/即時國際/60374269/法國西班牙山火或燃燒至11月初-當地迎新一輪熱浪-增加救火困難	山火
@@ -550,8 +527,6 @@ var DATA_DISASTER = `
 2026-09-29	歐洲預報中心：今年聖嬰30 年最強洪水乾旱野火威脅	https://www.msn.com/zh-hk/news/world/歐洲預報中心-今年聖嬰30年最強-洪水乾旱野火威脅/ar-AA27r1ey	山火
 2026-09-29	歐洲野火頻傳！ 法國南部小鎮逾150公頃林地遭吞噬	https://news.vocofm.com/國際新聞/199917/	山火
 2026-09-29	歐洲野火極端化！ 高溫乾旱催生火龍捲科學家揭致命漩渦形成機制	https://www.bastillepost.com/hongkong/article/16605351-歐洲野火極端化！高溫乾旱催生火龍捲 科學家揭	山火
-2026-08-01	歐洲野火持續蔓延德國南部大火失控- 國際	https://www.dotdotnews.com/a/202608/01/AP6a6d98e7e4b04b6c5d3564ab.html	大火
-2026-08-14	歐洲遭極端高溫與戰爭夾擊 今年或損失GDP 1%	https://hkcd.com.hk/hkcdweb/content/2026/08/14/content_8769773.html	極端天氣
 2026-09-29	歐洲近年高溫乾旱 研究顯示：逾2000年來最嚴重	https://www.setn.com/news/911075	乾旱
 2026-09-29	歐洲迎新一波熱浪 高溫預計破40℃	https://news.pts.org.tw/article/813922	極端天氣
 2026-09-29	歐洲第五波熱浪威脅1.5億人英格蘭七成地區陷乾旱- 國際	https://www.dotdotnews.com/s/202608/15/AP6a7fdfaae4b04b6c5d36bb25.html	乾旱
@@ -642,7 +617,6 @@ var DATA_DISASTER = `
 2026-09-29	最高領袖哈米尼妻子傷重亡 伊朗矢言不惜代價捍衛國土	https://tw.news.yahoo.com/最高領袖哈米尼妻子傷重亡-伊朗矢言不惜代價捍衛國土-003640659.html	未分類
 2026-09-29	最高6成6受災! 1至2月乾旱重傷南投竹筍 農業部4/28 前供現金救助	https://www.msn.com/zh-tw/news/other/最高6成6受災-1至2月乾旱重傷南投竹筍-農業部428前供現金救助/ar-AA21eMjH	乾旱
 2026-09-29	最早抽到國運下下籤!高雄雲天宮抽「關聖帝君38籤」： 恐天災人禍的一年	https://www.msn.com/zh-tw/news/living/最早抽到國運下下籤-高雄雲天宮抽-關聖帝君38籤-恐天災人禍的一年/ar-AA1WuW44	其他災害
-2026-03-05	最新！美以襲擊已致伊朗1230人死亡- 國際	https://www.dotdotnews.com/a/202603/05/AP69a96c3ce4b0c32d4f6acecc.html	未分類
 2026-09-29	最新研究！日本311大地震後 「全境東移」最多5.5毫米	https://news.ebc.net.tw/news/world/557613	地震
 2026-09-29	曼谷酒吧火災丨增至30死75傷 暫無中國公民傷亡報告	https://www.hkej.com/instantnews/current/article/4456750/曼谷酒吧火災丨增至30死75傷+暫無中國公民傷亡報告	大火
 2026-09-29	曼谷水浸｜致23死超180萬人受災損失逾$25億 鱷魚出逃民眾街頭衝浪	https://news.google.com/rss/articles/CBMilgNBVV95cUxOVEhIRVBBY3hkZ2c0OGdqR1VYclVoVS1mS0FkbjhPbFFTVXBMLXFYaWVUN0NHLVIwdFlqZzFHYWVYRGpxWWdtTzNNaUxxcUFOM0VvSU9hcXpPX0FBVG9vb3BFY2V4SWpjNlZzN0hWYThpOXFza2l3SzhSZW1kMEtNX3RRb0p0TjlVNDdTeHpjblNmTVJZS1lmamhyNVZOV3NQaFpQd09YZTNLUDBzYmFkU1BDZWtWdjZJR0ZNdXl5ZDJlck9kcDByTTNWaWRmX0NOQjdvVzg1NzhLd1gwQ0dVMGZXMnFScl9mU1BxZk5NSjVvWEtBUkxJWWhaYlRfTFJCRUdDUjRNb1U0UF9nWnBmdFR4akRwSUtUaGU3WkcwZFI2MEtTTV81TUYtMHZRRGY1VmtZNDAxcmxYOXJ0a19DYldaNG5QTGxiX2FiczEzajhWUzBLN2JWS3UxQXdWZUhjWUNnUDJYYndiMVJ6eUdaYU9IdTVscC0taVdmSXF3c1lCVUIzQ0poeXM2LXNFTUNyWnZ5bm5R?oc=5	水災
@@ -745,7 +719,6 @@ var DATA_DISASTER = `
 2026-09-29	日旅遊警戒 「這地區」恐有規模9強震	https://news.ebc.net.tw/news/living/537370	地震
 2026-09-29	日政府發布首都直下型地震最新預測！7級強震恐釀1.8萬死、經濟損失83 萬億日圓	https://www.bastillepost.com/hongkong/article/15680829-日政府發布首都直下型地震最新預測！7級強震恐釀1	地震
 2026-09-29	日政府最新預測：東京都若爆發7級地震 經濟損失4萬億1.8萬人死	https://www.hk01.com/即時國際/60301069/日政府最新預測-東京都若爆發7級地震-經濟損失4萬億1-8萬人死	地震
-2026-04-26	日岩手縣山火失控焚燒5日 居民嘆：大火比海嘯更絕望	https://www.singtao.ca/7486757/2026-04-26/news-日岩手縣山火失控焚燒5日++居民嘆：大火比海嘯更絕望/?variant=zh-hk	大火
 2026-09-29	新／台東近海20：25規模4.8極淺層地震 最大震度4級	https://www.setn.com/news/1841651	地震
 2026-09-29	新西蘭暴雨引發山泥傾瀉 最少兩死包括一名中國公民	https://news.tvb.com/tc/greaterchina/6972d21e82dea93ecb59ff9a/兩岸-新西蘭暴雨引發山泥傾瀉-最少兩死包括一名中國公民	水災
 2026-09-29	新華社： 伊朗前總統艾哈邁迪內賈德遇襲亡	https://www.bastillepost.com/hongkong/article/15695740-新華社：伊朗前總統艾哈邁迪內賈德遇襲亡	未分類
@@ -782,7 +755,6 @@ var DATA_DISASTER = `
 2026-09-29	意大利熱浪乾旱重創稻米種植業 糧食安全響警號	https://www.bastillepost.com/hongkong/article/16336783-意大利熱浪乾旱重創稻米種植業-糧食安全響警號	乾旱
 2026-09-29	意大利氣候威脅兩極化 北部水災南部乾旱	https://www.bastillepost.com/hongkong/article/16814664-意大利氣候威脅兩極化-北部水災南部乾旱	水災
 2026-09-29	意大利斯特龙博利火山爆发瞬间，常年活跃火山持续喷发	https://k.sina.com.cn/article_1864696473_m6f250299033019m40.html	火山
-2026-08-17	意大利埃特納火山雷擊事件：29歲美國遊客攀登時遭閃電擊中身亡	https://www.singtaousa.com/2026/08/17/news/world/american-killed-by-lightning-while-climbing-italian-volcano/	火山
 2026-09-29	意大利埃特納火山噴發釀悲劇！ 美國男遊客闖禁區遭雷擊致死	https://www.bastillepost.com/hongkong/article/16597434-意大利埃特納火山噴發釀悲劇！美國男遊客闖禁區	火山
 2026-09-29	意大利埃特納火山噴發 遊客靠近炙熱熔岩拍照引發當地嚮導擔憂	https://www.hk01.com/article/60379827	火山
 2026-09-29	意大利南部海域發生6.2級地震	https://news.rthk.hk/rthk/ch/component/k2/1856885-20260602.htm	地震
@@ -852,7 +824,6 @@ var DATA_DISASTER = `
 2026-09-29	巴基斯坦醫院大火奪14嬰 基督徒護士冒死救嬰獲譽「全民英雄」	https://www.gospelherald.com/news/so6di20kzpk9	大火
 2026-09-29	巴基斯坦邊境安檢站遭炸彈襲擊1死18傷	https://www.tdm.com.mo/zh-hant/news-detail/1183083?lang=zh&isvideo=false&shortvideo=0	未分類
 2026-09-29	巴基斯坦警署遭電單車炸彈襲擊 釀2死多傷	https://www.am730.com.hk/國際/1012001/巴基斯坦警署遭電單車炸彈襲擊-釀2死多傷	未分類
-2026-09-18	巴基斯坦西北部發生爆炸襲擊致16人死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/09/18/content_8775926.html	未分類
 2026-09-29	巴基斯坦西北部檢查站遇襲致15死 尚無組織宣布負責	https://www.orangenews.hk/international/VQouBgR/巴基斯坦西北部檢查站遇襲致15死-尚無組織宣布負責.shtml	未分類
 2026-09-29	巴基斯坦西北部兩宗襲擊釀3警亡20 傷官員指暴力升級	https://www.bastillepost.com/hongkong/article/16372964-巴基斯坦西北部兩宗襲擊釀3警亡20傷-官員指暴力升	未分類
 2026-09-29	巴基斯坦補習班屋頂塌 14名學童罹難、多數不到9歲｜20260701 公視午間新聞	https://news.pts.org.tw/video/20162	未分類
@@ -864,10 +835,7 @@ var DATA_DISASTER = `
 2026-09-29	巴基斯坦清真寺爆炸31死170傷! ISIS背包炸彈客衝入引爆釀重大傷亡 總理譴責	https://tw.news.yahoo.com/巴基斯坦清真寺爆炸31死170傷-isis背包炸彈客衝入引爆釀重大傷亡-總理譴責-043201649.html	未分類
 2026-09-29	巴基斯坦對阿富汗發動空襲和地面行動 至少28名平民死亡｜外媒焦點·英國	https://news.tvb.com/tc/1179871-巴基斯坦對阿富汗發動空襲和地面行動至少28名平民死亡外媒焦點英國	未分類
 2026-09-29	巴基斯坦喀拉蚩高溫近46℃ 中暑民眾擠滿急診室	https://news.pts.org.tw/article/806905	未分類
-2026-01-21	巴基斯坦商場大火釀慘劇 16出口鎖死13個 倖存者憶述絕望求救	https://www.singtaousa.com/2026/01/21/news/world/gul-plaza-survivors-tell-of-pakistan-mall-fire-horror-bbc-news/	大火
-2026-01-19	巴基斯坦商場大火焚燒逾一日 增至14死65人失蹤 (15:39) - 20260119 - 國際	https://news.mingpao.com/ins/國際/article/20260119/s00005/1768806274323/巴基斯坦商場大火焚燒逾一日-增至14死65人失蹤	大火
 2026-09-29	巴基斯坦商場大火增至67死	https://www.hkej.com/dailynews/international/article/4304138/巴基斯坦商場大火增至67死	大火
-2026-02-28	巴基斯坦向阿富汗宣戰兩國互轟逾320人亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202602/28/AP69a1f993e4b04d7d56d586ee.html	未分類
 2026-09-29	巨型「混合風暴」將於美國形成 多州洪災風險升	https://www.singtaousa.com/2026/09/28/news/usa/huge-hybrid-storm-will-form-in-the-united-states-flooding-risks-rise-in-many-states/	水災
 2026-09-29	川普裁減駐德美軍恐加深與盟軍嫌隙，伊朗不對稱作戰「蚊子艦隊」威脅仍存	https://www.thenewslens.com/article/267510	未分類
 2026-09-29	川普把伊朗核問題重新端上桌，美伊邊打邊談仍難達成停火協議	https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yX1gwT2w4cEtFdVlXU3IzZjkwTmdYMGxVZ3JyYUlFdWkxb0ZVU0daUkkxSUx3VkZuaU5SVk53b1NMRnJ3aTdRQlR6dE9weGoxYW5LOQ?oc=5	未分類
@@ -875,11 +843,9 @@ var DATA_DISASTER = `
 2026-09-29	岩漿噴發的前兆！坎拉翁火山首次出現「可見的火山口輝光」	https://www.nownews.com/news/6833260	火山
 2026-09-29	岩手山火Day4! 估燒毀「1.04個大安區」 面積乾旱天氣加劇蔓延	https://www.msn.com/zh-tw/news/world/岩手山火day4-估燒毀-1-04個大安區-面積-乾旱天氣加劇蔓延/ar-AA21GPik?cvid=ad38a8322a644b6fc321416385dd8596&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	大火
 2026-09-29	山陀兒颱風吹飛鐵皮砸鄰宅喊天災 法官一看「隔壁還在」判賠	https://udn.com/news/amp/story/7321/9769685	颱風
-2026-07-25	山西洪洞山體崩塌 一戶民宅被埋 多人死傷	https://www.ntdtv.com/b5/2026/07/25/a104118502.html/amp	未分類
 2026-09-29	山西大廈火災3死23傷 黑龍江建築坍塌困7人	https://www.stheadline.com/daily-china/3557647/山西大廈火災3死23傷-黑龍江建築坍塌困7人	大火
 2026-09-29	山火致加拿大多處空氣質素惡化 有列車一度遭山火包圍	https://news.rthk.hk/rthk/ch/component/k2/1862432-20260716.htm	山火
 2026-09-29	山梨強震!日本氣象廳： 富士山無異常	http://www.msn.com/zh-tw/news/world/山梨強震日本氣象廳-富士山無異常/ar-AA26ChwT?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	地震
-2025-12-02	屯門安定邨火警情侶送院女子刀傷亡男子涉謀殺被捕- 香港 - 香港文匯網	https://www.wenweipo.com/a/202512/02/AP692e4eafe4b0b42c2c426c0a.html	大火
 2026-09-29	屏東豪雨農損逾4千萬 縣府籲農民用天災App通報	https://www.msn.com/zh-tw/news/national/屏東豪雨農損逾4千萬-縣府籲農民用天災app通報/ar-AA25Xp82	水災
 2026-09-29	屏東啟動3措施防鼠、印尼杜科諾火山噴發讓3死、伊朗石油樞紐哈格島傳漏油	https://e-info.org.tw/node/243408	火山
 2026-09-29	尽管温度下降，但游客被要求远离凯利穆图火山火山口	https://voi.id/zh/news/583367	火山
@@ -1012,7 +978,6 @@ var DATA_DISASTER = `
 2026-09-29	報復美方攻擊！伊朗宣稱襲擊85處美軍目標 巴林科威特響警報	https://www.i-meihua.com/Article/Detail/52200	未分類
 2026-09-29	基隆遇豪雨淹水！她砲轟「不叫天災叫治理失能」 氣象社群逆風發聲	https://tw.news.yahoo.com/基隆遇豪雨淹水-她砲轟-不叫天災叫治理失能-氣象社群逆風發聲-225400540.html	水災
 2026-09-29	城市降溫不能只靠冷氣，種樹或種傘更不是該是二選一！倫敦氣候週被迫放高溫假：城市要如何在極端高溫中生存？	https://csr.cw.com.tw/article/44747	極端天氣
-2026-07-19	城市淹水雷暴肆虐 中國多個城市同時進入「看海模式」(視頻)	https://renminbao.com/rmb/articles/2026/7/19/95953b.html	水災
 2026-09-29	埃特纳火山灰影响持续 意大利卡塔尼亚机场连续三天停航	https://www.jpchinapress.com/static/content/SS/2026-09-28/1554287407511412736.html	火山
 2026-09-29	埃特納火山 | 美遊客闖意火山禁區 遭雷擊身亡	https://www.stheadline.com/realtime-world/3605556/埃特納火山-美遊客闖意火山禁區-遭雷擊身亡	火山
 2026-09-29	埃特納火山 | 美遊客闖意火山禁區 遭雷擊身	https://std.stheadline.com/realtime-world/3605556/埃特納火山-美遊客闖意火山禁區-遭雷擊身	火山
@@ -1257,25 +1222,14 @@ var DATA_DISASTER = `
 2026-09-29	俄羅斯空襲烏克蘭首都地區 造成至少11 人死亡	https://www.bastillepost.com/hongkong/article/16681683-俄羅斯空襲烏克蘭首都地區-造成至少11人死亡	未分類
 2026-09-29	俄羅斯堪察加半島連環地震 當局發出海嘯警報	https://www.am730.com.hk/國際/1037057/俄羅斯堪察加半島連環地震-當局發出海嘯警報	地震
 2026-09-29	俄堪察加半島沿海多次地震 當局發海嘯預警	https://www.tdm.com.mo/en/news-detail/1213035?lang=zh&isvideo=&category=all&shortvideo=0	地震
-2026-03-26	伊朗：美以造成伊朗至少1750人死亡逾2萬人受傷- 國際	https://www.dotdotnews.com/a/202603/26/AP69c4a0a1e4b0c32d4f6d0ef9.html	未分類
-2026-03-06	伊朗：美以襲擊已造成1332名伊朗人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/06/AP69aa96b9e4b04d7d56d6ecfe.html	未分類
-2026-03-06	伊朗：美以襲擊已造成1332名伊朗人死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/03/06/content_8743385.html	未分類
-2026-03-05	伊朗：美以襲擊已造成1230名伊朗人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/05/AP69a97d46e4b04d7d56d6c457.html	未分類
-2026-03-19	伊朗：美以襲擊司法機構致14死50傷	https://www.hkcd.com.hk/hkcdweb/content/2026/03/19/content_8745600.html	未分類
 2026-09-29	伊朗部隊在接壤巴基斯坦邊境斃多名武裝分子	https://www.881903.com/news/international/2628403	未分類
 2026-09-29	伊朗證實哈米尼死訊 澳洲總理：不會有人為他哀悼	https://money.udn.com/money/story/5599/9352015	未分類
 2026-09-29	伊朗西北部爆規模4.5地震 震源深度僅10公里	https://news.tvbs.com.tw/world/3198844	地震
-2026-09-02	伊朗襲擊美軍基地 川普下令開火 打擊革命衛隊	https://www.ntdtv.com/gb/2026/09/02/a104129259.html	未分類
 2026-09-29	伊朗襲擊科威特海水化淡廠 揭中東乾旱地區供水脆弱	https://www.bastillepost.com/hongkong/article/16386150-伊朗襲擊科威特海水化淡廠-揭中東水資源脆弱性	乾旱
-2026-07-14	伊朗襲擊海峽2艘油輪1死8傷 阿聯：全面反擊	https://www.ntdtv.com/b5/2026/07/14/a104115091.html/amp	未分類
-2026-07-17	伊朗袭击致油轮受损、一名儿童受伤，美军打击伊朗政权的军事基础设施	https://www.voachinese.com/amp/oil-tanker-hit-child-injured-in-iranian-attacks-as-us-military-targets-regime-s-military-infrastructure-20260717/8172937.html	未分類
 2026-09-29	伊朗續示威最少45死 政府斷互聯網應對 哈梅內伊斥取悅美 特威脅軍事干預	https://paper.hket.com/article/4066100/伊朗續示威最少45死 政府斷互聯網應對	未分類
-2026-03-02	伊朗紅新月會：伊朗死亡人數已升至555人	https://www.singtaousa.com/2026/03/02/news/world/iran-death-toll-reaches-555-as-us-israel-escalate-attacks/	未分類
 2026-09-29	伊朗系武装鸟枪换炮，以军被炸懵了：FPV毫不留情杀死以色列士兵	https://m.sohu.com/a/1027425284_122105407?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	未分類
 2026-09-29	伊朗稱霍爾木茲海峽一艘商船遭襲	https://www.fxstreet.hk/amp/news/yi-lang-cheng-huo-er-mu-zi-hai-xia-sao-shang-chuan-zao-xi-202609132308	未分類
 2026-09-29	伊朗稱美軍近期打擊已致55人亡	https://www.tdm.com.mo/zh-hant/news-detail/1222485?lang=zh-hant&isvideo=false&shortvideo=0	未分類
-2026-03-09	伊朗稱美國襲擊「德納」號護衛艦已造成104死32傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/09/AP69ae0c8ce4b04d7d56d762c0.html	未分類
-2026-03-25	伊朗稱美以襲擊一鐵路員工宿舍已致7人死亡- 國際	https://www.dotdotnews.com/a/202603/25/AP69c395aee4b0c32d4f6cfb03.html	未分類
 2026-09-29	伊朗稱導彈襲以總理辦公室 以軍指打死多名伊朗情報部門高級官員	https://news.rthk.hk/rthk/ch/component/k2/1845698-20260302.htm	未分類
 2026-09-29	伊朗示威｜美人權組織稱近500示威者死亡 逾萬人被拘留 伊朗全國哀悼3天	https://www.i-cable.com/新聞資訊/427949/伊朗示威-美人權組織稱近500示威者死亡-逾萬人	未分類
 2026-09-29	伊朗示威｜增至逾500死逾萬人被捕 德黑蘭警告反擊以色列及美軍基地	https://std.stheadline.com/realtime-world/3534599/伊朗示威增至逾500死逾萬人被捕-德黑蘭警告反擊以色列及美軍基地	未分類
@@ -1288,10 +1242,7 @@ var DATA_DISASTER = `
 2026-09-29	伊朗校園再爆示威 喊「哈梅內伊去死」	https://www.hkej.com/dailynews/international/article/4323828/%E4%BC%8A%E6%9C%97%E6%A0%A1%E5%9C%92%E5%86%8D%E7%88%86%E7%A4%BA%E5%A8%81-%E5%96%8A-%E5%93%88%E6%A2%85%E5%85%A7%E4%BC%8A%E5%8E%BB%E6%AD%BB-	未分類
 2026-09-29	伊朗最高領袖被炸死 對中東局勢有何影響？	https://hk.finance.yahoo.com/news/伊朗最高領袖被炸死-對中東局勢有何影響-000006654.html	未分類
 2026-09-29	伊朗最高領袖哈梅內伊逝世哀悼40天	https://citytimes.tw/世界資訊/伊朗最高領袖哈梅內伊逝世哀悼40天/948391/	未分類
-2026-01-09	伊朗最高領袖哈梅內伊誓言鎮壓抗議 死亡人數破60	https://www.singtaousa.com/2026/01/09/news/world/iran-supreme-leader-signals-upcoming-crackdown-on-protesters-ruining-their-own-streets-for-trump/	未分類
 2026-09-29	伊朗最高領袖哈梅內伊死亡 阿里雷扎・阿拉菲暫代最高精神領袖職責｜不斷更新｜Yahoo	https://hk.news.yahoo.com/live/伊朗最高領袖哈梅內伊死亡-阿里雷扎・阿拉菲暫代最高精神領袖職責｜不斷更新｜yahoo-003349278.html	未分類
-2026-03-20	伊朗最新傷亡：204名兒童死於美以襲擊逾1.8萬平民受傷- 國際	https://www.dotdotnews.com/a/202603/20/AP69bcbcdbe4b0c32d4f6c6828.html	未分類
-2026-01-05	伊朗抗議驚傳三童死亡，安全部隊被控「無差別」鎖定平民	https://www.singtaousa.com/2026/01/05/news/world/three-children-dead-in-iran-protests-as-security-forces-accused-of-indiscriminate-targeting/	未分類
 2026-09-29	伊朗戰爭｜拉里賈尼離世 曾任議會議長12年 深得哈梅內伊信任	https://www.hk01.com/即時國際/60331566/伊朗戰爭-拉里賈尼離世-曾任議會議長12年-深得哈梅內伊信任	未分類
 2026-09-29	伊朗戰爭丨陣亡美軍增至7人 以軍首承認有士兵死亡	https://www.hkej.com/instantnews/current/article/4336335/伊朗戰爭丨陣亡美軍增至7人+以軍首承認有士兵死亡	未分類
 2026-09-29	伊朗德黑蘭地區發生4.6級地震震源深度10公里 - 國際 - 香港文匯網	https://www.wenweipo.com/s/202605/13/AP6a03b393e4b0b49ad1baaf66.html	地震
@@ -1365,7 +1316,6 @@ var DATA_DISASTER = `
 2026-09-29	以色列擴大黎巴嫩南部攻勢 聯合國維和部隊遇襲1死1重傷	https://tw.news.yahoo.com/以色列擴大黎巴嫩南部攻勢-聯合國維和部隊遇襲1死1重傷-235652541.html	未分類
 2026-09-29	以色列意外空襲造成加薩四人死亡，其中三人為兒童	https://www.gamereactor.cn/an-unexpected-israeli-air-strike-leaves-four-dead-in-gaza-three-of-them-children-1398703/	未分類
 2026-09-29	以色列兩士兵黎巴嫩陣亡 停火後首次有以軍死亡	https://www.bastillepost.com/hongkong/article/16515338-以色列兩士兵黎巴嫩陣亡-停火後首次有以軍死亡	未分類
-2026-06-05	以漫畫為伊朗作證：《我在伊朗長大》作者瑪嘉・莎塔碧56歲逝世｜Whatsnew	https://theinitium.com/20260605-whatnew-persepolis-author-marjane-satrapi-dies/	未分類
 2026-09-29	以巴衝突｜以軍空襲加沙 稱打死哈馬斯安全機構多名高級成員	https://www.orangenews.hk/international/VLdV5DR/以巴衝突-以軍空襲加沙-稱打死哈馬斯安全機構多名高級成員.shtml	未分類
 2026-09-29	以巴衝突｜以軍再度空襲加沙 打死兩名哈馬斯指揮官	https://www.orangenews.hk/international/VRI0fp0/以巴衝突-以軍再度空襲加沙-打死兩名哈馬斯指揮官.shtml	未分類
 2026-09-29	今高溫飆38度熱爆！午後變天「雨最大地區曝」 專家：海神颱風壽命很短	https://tw.news.yahoo.com/今高溫飆38度熱爆-午後變天-雨最大地區曝-專家-海神颱風壽命很短-223100565.html	颱風
@@ -1398,7 +1348,6 @@ var DATA_DISASTER = `
 2026-09-29	世界氣象組織：全球多地未來數月熱浪及乾旱等極端天氣可能性增加	https://news.rthk.hk/rthk/ch/component/k2/1860952-20260704.htm	極端天氣
 2026-09-29	三颶風齊聚太平洋強烈聖嬰助長極端天氣- 南加社區- 新聞	https://www.chinesedaily.com/article/detail-703795.html	颱風
 2026-09-29	三重天災肆虐 颱風.暴雨.地震襲擊日本東岸	https://news.tvbs.com.tw/focus/3241832	地震
-2026-08-22	一駐日美軍士兵疑車內開槍自殺日本警方展開調查- 國際	https://www.dotdotnews.com/a/202608/22/AP6a89486be4b04b6c5d37787a.html	未分類
 2026-09-29	一週大事／全台豪雨三天災情 萬里溪堰塞湖撤離（2026.6.22-6.28）	https://news.pts.org.tw/article/815102	水災
 2026-09-29	一座年輕的火星火山在地表下隱藏著強大的岩漿引擎	https://citytimes.tw/科技/一座年輕的火星火山在地表下隱藏著強大的岩漿引/868771/	火山
 2026-09-29	一場豪雨讓花生「泡湯」 陳素月籲納天災救助範圍	https://n.yam.com/Article/20260617846246	水災
@@ -1411,23 +1360,18 @@ var DATA_DISASTER = `
 2026-09-29	【週五鋒面通過東北季風增強 各地轉雨 外出記得攜帶雨具】 今天東北季風減弱，各地清晨仍略有涼意，低溫17-20度；白天起氣溫回升。預測北部至東部雲量偏多、天色較陰，但大致無顯著降雨，高溫約24-26度，低溫約17-20度。中南部為晴時多雲天氣，高溫約27-30度，低	https://www.facebook.com/WeatherRisk.Co/posts/週五鋒面通過東北季風增強-各地轉雨-外出記得攜帶雨具今天東北季風減弱各地清晨仍略有涼意低溫17-20度白天起氣溫回升預測北部至東部雲量偏多天色較陰但大致無顯著降/1323026419863703/	未分類
 2026-09-29	【菲律賓地震】菲律賓7.8級地震逾百人死傷 建築物倒塌 (有片)	https://www.mpweekly.com/culture/社會/菲律賓-菲律賓地震-地震-268929	地震
 2026-09-29	【華爾街大地震】香櫞研究創辦人 Andrew Left 證券欺詐罪成 面臨逾20年監禁	https://www.edigest.hk/news/citron-research-andrew-left-convicted-securities-fraud-fbi-即時財經-2011478/	地震
-2026-04-08	【美伊停火】鱷王：勿被短暫停火沖昏頭腦 距離世界大戰僅....	https://hk.on.cc/hk/bkn/cnt/finance/20260408/bkn-20260408175509310-0408_00842_001.html	未分類
 2026-09-29	【直播】泥石流是天災還是人禍？近百人S亡、遊客失聯！4颱風同時逼近中國；百草枯外賣遭闢謠，甲醛白菜後續；美突停全球簽證	https://www.soundofhope.org/post/942234?lang=b5	颱風
 2026-09-29	【極端高溫】45.5度高溫下散步 女護士疑被活生生熱死	https://hk.news.yahoo.com/極端高溫-45-5度高溫下散步-女護士疑被活生生熱死-110000636.html	極端天氣
-2026-08-25	【東方日報世界視線】氣候戰爭雙惡化 全球現糧荒危機	https://hk.on.cc/hk/bkn/cnt/intnews/20260825/bkn-20260825030031112-0825_00992_001.html	未分類
 2026-09-29	【有片】印尼杜科諾火山噴發釀3死20人失聯含新加坡籍 10公里火山灰柱衝天	https://tw.news.yahoo.com/有片-印尼杜科諾火山噴發釀3死20人失聯含新加坡籍-10公里火山灰柱衝天-063000200.html	火山
-2010-06-02	【暗網大地震】Apple、Tesla 供應鏈出事！Tata 證實遭黑客入侵20 萬份機密流出專家：新 iPhone、電動車敏感資料看光光？	https://ezone.hk/article/20100602/暗網大地震-apple-tesla-供應鏈出事-tata-證實遭黑客入侵-萬份機密流出-專家-新-iphone-電動車敏感資料看光光	地震
 2026-09-29	【時政春秋】中俄聯盟西線崩塌 伊朗變數諸多	https://www.epochtimes.com/b5/26/3/2/n14709026.htm/amp	未分類
 2026-09-29	【明起漸回溫，初四水氣稍增，週末陽光露臉】 今天受大陸冷氣團影響，北部及東部為多雲至陰局部有短暫雨天氣，下午起北部雨勢將趨緩；氣溫仍偏涼，約14-18度。中南部白天舒適溫暖，高溫約21-26度，但夜晚清晨仍感覺有涼意，低溫約14-18度，日夜溫差大，早出晚歸	https://www.facebook.com/WeatherRisk.Co/posts/明起漸回溫初四水氣稍增週末陽光露臉今天受大陸冷氣團影響北部及東部為多雲至陰局部有短暫雨天氣下午起北部雨勢將趨緩氣溫仍偏涼約14-18度中南部白天舒適溫暖高溫約2/1316171520549193/	未分類
 2026-09-29	【日本颱風】颱風杜鵑襲日本、爆土石流災情4死6失蹤 東京成田特快等多條鐵路停駛	https://inews.hket.com/article/4197856/【日本颱風】颱風杜鵑襲日本、爆土石流災情4死6失蹤 東京成田特快等多條鐵路停駛	颱風
-2026-05-08	【新聞第一線】伊朗突襲！ 美軍港口開火 多地爆炸火沖天	https://www.ntdtv.com/b5/2026/05/08/a104094138.html	未分類
 2026-09-29	【成田機場7000人滯留】千葉世紀暴雨單日雨量350毫米破紀錄港客瞓機場淪難民拆解旅遊保險天災索償盲點	https://www.edigest.hk/最新財經消息/旅遊保險-航班延誤-2032444/	水災
 2026-09-29	【快訊／新竹縣嚴重淹水釀「1死1失聯」！ 女受困車內滅頂亡】 嚴重淹水災情...（#豬頭皮）	https://www.facebook.com/ETtoday/posts/快訊新竹縣嚴重淹水釀1死1失聯-女受困車內滅頂亡嚴重淹水災情豬頭皮/1475371124621968/	水災
 2026-09-29	【快訊／找到了！阿蘇火山口「發現3人」 疑直升機罹難者】 在阿蘇火山口「發現3人」... (#史蒂芬周)	https://www.facebook.com/ETtoday/posts/快訊找到了阿蘇火山口發現3人-疑直升機罹難者在阿蘇火山口發現3人-史蒂芬周/1357045896454492/	火山
 2026-09-29	【天災將至？4公尺「發光地震魚」現蹤印尼海灘 詭異畫面曝】 （圖／翻攝自X） 俗稱「末日之魚」。(#起啵)	https://www.facebook.com/ETtoday/posts/天災將至4公尺發光地震魚現蹤印尼海灘-詭異畫面曝圖翻攝自x俗稱末日之魚起啵/1539095778249502/	地震
 2026-09-29	【堅有片】以軍用1100噸炸藥毀真主黨戰略隧道 巨大爆炸引發4.1級地震	https://www.kinliu.hk/news/堅有片/【堅有片】以軍用1100噸炸藥毀真主黨戰略隧道-巨大爆炸引發4.1級地震/306115.html?id=69&from=home&bc1=首頁&bc1to=/	地震
 2026-09-29	【全球大頭條】熊本7.1強震已知34人亡 日相高市早苗將赴災區視察｜#鏡新聞	https://tw.news.yahoo.com/全球大頭條-熊本7-1強震已知34人亡-日相高市早苗將赴災區視察-鏡新聞-020112700.html	地震
-2026-01-05	【伊朗示威第九天】全國多省民眾持續上街至少20死 特朗普：若再有示威者死亡 伊朗將遭非常沉重打擊	https://www.singtao.ca/7379761/2026-01-05/news-【伊朗示威第九天】全國多省民眾持續上街至少20死++特朗普：若再有示威者死亡++伊朗將遭非常沉重打擊/	未分類
 2026-09-29	【伊朗示威】伊朗大學新學期重燃反政府示威高呼「自由」民眾街頭舉行「四十日」傳統祭奠悼念逝者-社會- 明周文化	https://www.mpweekly.com/culture/社會/伊朗-德黑蘭-伊朗國際-264871	未分類
 2026-09-29	【伊朗危機】川普籲使用解凍資金專買美國糧食 伊朗：無此義務	https://www.i-meihua.com/Article/Detail/51316	未分類
 2026-09-29	【伊朗危機】伊朗封鎖荷姆茲海峽 陸媒轉而關注油價及經濟衝擊	https://www.i-meihua.com/Article/Detail/44556	未分類
@@ -1477,7 +1421,6 @@ var DATA_DISASTER = `
 2026-09-29	NEXON宣布支援令和8年熊本地震災區。透過日本紅十字會捐贈救災款1,000萬日圓	https://saiganak.com/zh/news/nexon-donations-for-kumamoto-earthquake-support/	地震
 2026-09-29	M&M’s 兩顏色即將消失？！曾是美軍軍糧？100度高溫下都不溶化	https://www.ulifestyle.com.hk/video/12725	未分類
 2026-09-29	Labor Day長週末來了！灣區哪裡玩？山火、地震、AI登山迷路｜灣區有約	https://www.soundofhope.org/post/943146?lang=b5	地震
-2026-07-11	IMF和美聯儲均關注伊朗戰爭、AI投資等風險	https://hk.epochtimes.com/news/2026-07-11/45805344	未分類
 2026-09-29	FAO：戰爭與極端氣候引發「完美風暴」 全球糧食價格攀升至3年新高	https://hk.finance.yahoo.com/news/fao-戰爭與極端氣候引發-完美風暴-全球糧食價格攀升至3年新高-125011708.html	極端天氣
 2026-09-29	F1》義大利站高溫警報！氣溫恐飆35度、座艙破40度 官方列「高溫危險賽事」	https://tw.sports.yahoo.com/news/f1-義大利站高溫警報-氣溫恐飆35度-座艙破40度-官方列-044000034.html	未分類
 2026-09-29	ETtoday新聞雲. . 16秒畫面曝光！ 美軍空襲涉嫌運毒船...累積182死 影音授權：ANADOLU AGENCY／路透社	https://www.facebook.com/ETtoday/videos/16秒畫面曝光-美軍空襲涉嫌運毒船累積182死/944118441941380/	未分類
@@ -1504,8 +1447,6 @@ var DATA_DISASTER = `
 2026-09-29	19歲網紅與表弟登山遇暴雪亡 鬥牛㹴雪地伴屍4天守護	https://www.am730.com.hk/article/1008113	極端天氣
 2026-09-29	17縣市反毒油大串聯！盧秀燕拋出5大改革：食安風暴要比照天災	https://www.nownews.com/news/6858710	其他災害
 2026-09-29	11縣市防36度以上高溫 颱風巴威強度列今年風王估周五起距台最近	https://www.i-meihua.com/Article/Detail/52089	颱風
-2026-09-11	1100噸炸藥！以色列狂炸黎真主黨地堡 美監測機構「記錄到4.1級地震」	https://www.dotdotnews.com/a/202609/11/AP6aa38a97e4b02724bdb41b90.html	地震
-2026-09-10	(影) 東南亞接連船難！菲渡輪大火5死86失聯 印尼火山又傳快艇8失蹤	https://newtalk.tw/news/view/2026-09-10/1058972	大火
 2026-09-29	"咸阳、密阳接连发生大型山火，受灾面积达400公顷，比起数量，""大型化""更为严重，一半以上的山火都是失火、焚烧造成的。"	https://www.mk.co.kr/cn/society/11971593	山火
 2026-09-29	"世界最大活火山爆發！噴發大量""火山玻璃絲"" 美國密切關注"	https://autos.yahoo.com.tw/news/世界最大活火山爆發-噴發大量-火山玻璃絲-美國密切關注-061000359.html	火山
 2026-09-28	（有片）伊朗要求美國解釋為何拒絕「7日停火」	https://news.google.com/rss/articles/CBMiekFVX3lxTE81dVZoMDhGYk5PMktzSnF0X3pCQWxEdjJYRzk5am9ndTdNMzFSMDRET1NZdkcxM2RSV081Zl9wQkJ5RnYydHkySXp5RVRrc29leWRuNWlsaXZQM29Gd1o4aTN3ZFpBQnBSRDc3RkZxRERMTDFWSTdMWEZB?oc=5	未分類
@@ -1603,6 +1544,7 @@ var DATA_DISASTER = `
 2026-09-19	秋篠宮家長子悠仁首次訪問東日本大地震災區	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aQWRDNTZ2cFlTakNobDkzVTZHUkRJc2dvWm4tRVZrRzg5MUc0eXpsNFFDNzRDLWpVbUxBcDdKU0lRczV2MWZmemxIX1dIdmVsODJLUkptd1M?oc=5	地震
 2026-09-18	歐洲極端高溫乾旱重創馬鈴薯收成薯條恐面臨「縮水」兼加價- 國際	https://www.dotdotnews.com/a/202609/18/AP6aacd2f3e4b02724bdb4db3e.html	乾旱
 2026-09-18	歐洲乾旱高溫衝擊馬鈴薯收成 四國預估減產 310 萬噸	https://n.yam.com/Article/20260918610823	乾旱
+2026-09-18	巴基斯坦西北部發生爆炸襲擊致16人死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/09/18/content_8775926.html	未分類
 2026-09-18	地震、颱風風險高！張峻推全民意外險：花蓮縣民最高保障100萬	https://newtalk.tw/news/view/2026-09-18/1060600	地震
 2026-09-17	澳洲移民政策大地震！這六類人受影響	https://www.ntdtv.com/b5/2026/09/17/a104133826.html/amp	地震
 2026-09-17	新疆克孜勒蘇州阿克陶縣發生3.1級地震 震源深度10公里	https://www.wenweipo.com/a/202609/17/AP6aabd114e4b01d54a283a245.html	地震
@@ -1618,16 +1560,18 @@ var DATA_DISASTER = `
 2026-09-14	內戰期間犯戰爭罪與反人類罪 敘利亞前總統阿塞德遭判死刑	https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yekE0OGNsbzNiZUFTZ2FuMmhfbHdHR2tGN0l3ME51ME9kS1R6em5wRmFoU2xWN1hUM0Q3YkZIRG5ZMzZIRmVzSFJQbzJJeXc?oc=5	未分類
 2026-09-11	貴州畢節市威寧縣發生3.2級地震震源深度10千米- 神州	https://www.wenweipo.com/a/202609/11/AP6aa33d02e4b01d54a282ae4d.html	地震
 2026-09-11	以軍用1100噸炸藥毀真主黨戰略隧道 觸發4.1級地震	https://hk.on.cc/hk/bkn/cnt/intnews/20260911/bkn-20260911112236810-0911_00992_001.html	地震
+2026-09-11	1100噸炸藥！以色列狂炸黎真主黨地堡 美監測機構「記錄到4.1級地震」	https://www.dotdotnews.com/a/202609/11/AP6aa38a97e4b02724bdb41b90.html	地震
 2026-09-10	天災人禍官逼民反 民怨沸騰警世寓言 The Uprising 起義	https://www.singtaousa.com/2026/09/10/news/usa/natural-disasters-uprising/	其他災害
 2026-09-10	一連三天熱浪襲灣區 氣象局高溫預警生效	https://www.singtaousa.com/2026/09/10/news/usa/heat-wave-bay-area-warning/	極端天氣
 2026-09-10	【氣候挑戰】比颱風更致命！再談「暑熱警告系統」高溫破紀錄為何只發黃色警告？	https://www.pcmarket.com.hk/column-weather-challenge-20260910-heat-stress-warning-system-reform/	颱風
+2026-09-10	(影) 東南亞接連船難！菲渡輪大火5死86失聯 印尼火山又傳快艇8失蹤	https://newtalk.tw/news/view/2026-09-10/1058972	大火
 2026-09-09	​美國防部數據：美軍在伊朗戰事中累計傷亡人數達838人 其中18死	https://www.orangenews.hk/international/VUhYb2e/%E7%BE%8E%E5%9C%8B%E9%98%B2%E9%83%A8%E6%95%B8%E6%93%9A-%E7%BE%8E%E8%BB%8D%E5%9C%A8%E4%BC%8A%E6%9C%97%E6%88%B0%E4%BA%8B%E4%B8%AD%E7%B4%AF%E8%A8%88%E5%82%B7%E4%BA%A1%E4%BA%BA%E6%95%B8%E9%81%94838%E4%BA%BA-%E5%85%B6%E4%B8%AD18%E6%AD%BB.shtml	未分類
 2026-09-08	東方教練團突傳大地震	https://news.google.com/rss/articles/CBMibEFVX3lxTE5kcC1FLUc5UWJDcjZnOHBFZTJuSm5ERXJtcm54cHBZbkVOSDJrSERYTDdLRlVNdDk5OHVuZ0dQcTBoSk1GeXloRGpzbkZ1V01CbkI4bkRVTDNUZVFZQzBwVnFBLWt5bDRhdmV0aA?oc=5	地震
 2026-09-07	以色列空襲黎南部致至少11人死亡- 國際	https://www.wenweipo.com/a/202609/07/AP6a9e6578e4b01d54a2822cd3.html	未分類
 2026-09-05	喀拉喀托火山持續噴發 周邊3公里劃為禁區	https://hk.on.cc/hk/bkn/cnt/intnews/20260905/bkn-20260905130013492-0905_00992_001.html	火山
 2026-09-05	以色列空襲黎巴嫩 至少3人死亡23人受傷	https://www.rfi.fr/tw/政治/20260905-以色列空襲黎巴嫩-至少3人死亡23人受傷	未分類
 2026-09-04	青海海西州直轄區發生5.1級地震 震源深度10公里	https://www.wenweipo.com/a/202609/04/AP6a99fd13e4b01d54a281ba72.html	地震
-2026-09-04	聯合國糧農組織：乾旱與戰爭推升8月食品價格	https://money.udn.com/money/amp/story/5599/9735472	乾旱
+2026-09-04	聯合國糧農組織：乾旱與戰爭推升8月食品價格	https://www.rfi.fr/tw/中國/20260904-聯合國糧農組織-乾旱與戰爭推升8月食品價格	乾旱
 2026-09-04	美地質局：未來30年 加洲灣區大地震機率增至74%	https://hk.epochtimes.com/news/2026-09-04/73147758	地震
 2026-09-04	熊本地震八代工廠煙囪倒塌 拆除到一半起火	https://www.ntdtv.com/b5/2026/09/04/a104130049.html	地震
 2026-09-04	海西州5.1級地震 水利部啟動抗震救災指揮機制	https://hk.on.cc/hk/bkn/cnt/news/20260904/bkn-20260904154025933-0904_00822_001.html	地震
@@ -1645,6 +1589,7 @@ var DATA_DISASTER = `
 2026-09-02	湖南炎陵遭遇極端強降雨已致2人死亡2人失聯- 神州	https://www.wenweipo.com/a/202609/02/AP6a97dae0e4b0c1e500273de4.html	未分類
 2026-09-02	泥石流巨災丨中尼增至逾1,127人死 吉隆口岸陸路救援通道基本打通 中國與尼泊爾邊境的特大泥石流，增至超過1100人遇難，5100多人失蹤。其中尼泊爾的死亡人數增至1127人，4600多人失蹤，另有超過1.1萬人獲救。吉隆口岸的陸路救援通道已...	https://www.kinliu.hk/news/%E7%86%B1%E8%A9%B1/%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%A8%E7%81%BD%E4%B8%A8%E4%B8%AD%E5%B0%BC%E5%A2%9E%E8%87%B3%E9%80%BE1%2C127%E4%BA%BA%E6%AD%BB-%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E9%99%B8%E8%B7%AF%E6%95%91%E6%8F%B4%E9%80%9A%E9%81%93%E5%9F%BA%E6%9C%AC%E6%89%93%E9%80%9A/284207.html?id=82&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	水災
 2026-09-02	快訊：伊朗多地爆炸 美軍開始空襲革命衛隊目標	https://www.bannedbook.org/bnews/zh-tw/topimagenews/20260902/2355099.html/amp	未分類
+2026-09-02	伊朗襲擊美軍基地 川普下令開火 打擊革命衛隊	https://www.ntdtv.com/gb/2026/09/02/a104129259.html	未分類
 2026-09-02	伊朗稱打擊約旦境內美軍基地 造成「大量美軍士兵死亡」	https://www.wenweipo.com/a/202609/02/AP6a97de54e4b0c1e500273e9a.html	未分類
 2026-09-01	日本火山喷发现场 樱岛火山多次喷发	https://military.china.com/news/13004177/20260901/49711681.html	火山
 2026-09-01	日本「防災日」演習模擬發生8級以上大地震 高市稱絕不容忍散布假消息	https://news.google.com/rss/articles/CBMipANBVV95cUxPZEp2STJVWHVUYzhLVUt1VzMtNkROODctWUVqRzNlbnFyTWFIbmtvZDBuZGZqRmFKaVF5VmpHV2NuTlN5Nk02RGFiZnBIajhKV2h4UFo1VkVJLWdyOTVhTVZTVzNVdVp5dmR4cEQ5MFFDbW1jc05QVHBFWTZGcDB3N3pVb1doYUlnQmozNWFyclVLbHNvZ2lBdjdMdHRyWnp6c2pJR0dGSFd3VVpfWVhKM1pIVm5IMDBjTjFLOU5CaXc3Tk5wcEZoRTlJejVwSmY1RVYxSkItUUVibDBQMHBUNXk3WU81c1BhLUpDMkpQRmR1WUtBZ2EtaWhGbjF6dW5jS1VaeU80UURiREpNZFpSM2lBdWJEbTBYemRZWWdNbHdsY0NwSGVoaElsNTVTb25LSnZyYXJjZHkxenpKb2VJb3RIMTBLTEh3elZCYlRMdTRDVy1Oc0pKN2VqdnF0MVhrbGRPSDROdUdGSmZ1TFhVMTB3XzZkdFVZWHFtY3l0NDVTU0dNOExOYi1Wc2NfMDdwSm42bkpzTVlDd1BkQmdDTjQ1UGw?oc=5	地震
@@ -1694,7 +1639,7 @@ var DATA_DISASTER = `
 2026-08-25	瓦努阿圖火山噴發 日本正評估有無海嘯風險	https://news.google.com/rss/articles/CBMibEFVX3lxTE5WeUNCcUsxYVR2Yi1hMXdVQ1lDeVZFekVwRUZ3WnBhVWtnSjduSUplOHdwZEVReDltU0tyQktlbU5SREt5a2xDVTZuUWJvSUNrZGptcTdaOVd4dVFabmhnaWRKN20wUlRXQzNsMg?oc=5	水災
 2026-08-25	快訊／15:00東南部海域規模5.8「極淺層地震」 最大震度4級	https://www.ettoday.net/news/20260825/3225417.htm	地震
 2026-08-25	台灣東南外海5.8級超淺層地震 17縣市響警報	https://hk.on.cc/hk/bkn/cnt/news/20260825/bkn-20260825151236352-0825_00822_001.html	地震
-2026-08-25	【東方日報世界視線】氣候戰爭雙惡化 全球現糧荒危機	https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDZidzdEakRKT0ZYS0wzQXQ4SjlNT2U3S213Vndka04xQzJBTDI0NkNLRlhYYTV1dDRaRFpyVUVXOHRSTnNpN1FCZmIzVzhIR3NKYVVUdU5LNWdSVVNSOGhoYUFVbDAtcmtEdG56UU5NZ2xwM3dKSjU2RjlmamlzZVh0c3UwZWJlVUNQb3YyQQ?oc=5	未分類
+2026-08-25	【東方日報世界視線】氣候戰爭雙惡化 全球現糧荒危機	https://hk.on.cc/hk/bkn/cnt/intnews/20260825/bkn-20260825030031112-0825_00992_001.html	未分類
 2026-08-24	長者酷熱｜綠色和平調查 5.5% 曾因酷熱不適送院 18.9% 長者「從不」開冷氣 八月香港錄得破記錄高温，長者及弱勢群體首當其衝。綠色和平今（24日）公布《長者高溫風險評估及社區支援問卷調查》 顯示，有三成半長者表示酷熱時「從不」或「很少」...	https://thecollectivehk.com/%E9%95%B7%E8%80%85%E9%85%B7%E7%86%B1%EF%BD%9C%E7%B6%A0%E8%89%B2%E5%92%8C%E5%B9%B3%E8%AA%BF%E6%9F%A5%E3%80%805-5-%E6%9B%BE%E5%9B%A0%E9%85%B7%E7%86%B1%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2%E3%80%8018-9/	極端天氣
 2026-08-24	警方搗破屯門雙單位毒窟 首揭「毒水浸衣」新式藏毒手法	https://www.singtaousa.com/2026/08/24/news/china/drug-den-double-unit-clothing-soaked/	水災
 2026-08-24	火山引擎副总裁杨立伟：目前国内估值Top 20的头部具身智能企业中，已有15家与火山引擎达成深度合作	https://finance.sina.cn/2026-08-24/detail-inipmhfp0021714.d.html?oid=WA 0821 7001 0763 (FORTRESS) Pintu Rumah Ada Kacanya Airpura Pesisir Selatan&vt=4	火山
@@ -1707,6 +1652,7 @@ var DATA_DISASTER = `
 2026-08-22	特朗普稱對伊朗轉向經濟戰 不意味美軍事選項受限	https://hk.on.cc/hk/bkn/cnt/intnews/20260822/bkn-20260822110544572-0822_00992_001.html	未分類
 2026-08-22	熱怒症｜情緒都會中暑？天氣酷熱易暴躁效率下降自測情緒中暑恐誘心血管疾病3類人高危- 東張+ 熱怒症/情緒/中暑/天氣/酷熱/暴躁/效率】綜合內媒報道，盛夏時節，中暑的可能不只身體，還有情緒。最近有許多人發現自己似乎易發脾氣、心煩意亂、做事效率低，...	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/17858341160941/%E7%86%B1%E6%80%92%E7%97%87-%E6%83%85%E7%B7%92%E9%83%BD%E6%9C%83%E4%B8%AD%E6%9A%91-%E5%A4%A9%E6%B0%A3%E9%85%B7%E7%86%B1%E6%98%93%E6%9A%B4%E8%BA%81%E6%95%88%E7%8E%87%E4%B8%8B%E9%99%8D-%E8%87%AA%E6%B8%AC%E6%83%85%E7%B7%92%E4%B8%AD%E6%9A%91%E6%81%90%E8%AA%98%E5%BF%83%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%853%E9%A1%9E%E4%BA%BA%E9%AB%98%E5%8D%B1	極端天氣
 2026-08-22	東部海域5.1級地震 宜蘭等地有震感	https://hk.on.cc/hk/bkn/cnt/news/20260822/bkn-20260822114222289-0822_00822_001.html	地震
+2026-08-22	一駐日美軍士兵疑車內開槍自殺日本警方展開調查- 國際	https://www.dotdotnews.com/a/202608/22/AP6a89486be4b04b6c5d37787a.html	未分類
 2026-08-21	红警游戏：大批伊朗飞天小摩托自杀式无人机扑向美军航母战斗群，伯克级驱逐舰发射昂贵的防空...	https://news.qq.com/rain/a/20260821V001QX00	未分類
 2026-08-21	烏克蘭首都遭空襲 死亡人數升至15人	https://www.wenweipo.com/a/202608/21/AP6a879fd8e4b0c1e50025a449.html	未分類
 2026-08-20	非法金礦山泥傾瀉坍塌 逾100人亡多人被困	https://hk.on.cc/hk/bkn/cnt/intnews/20260820/bkn-20260820111834853-0820_00992_001.html	水災
@@ -1727,6 +1673,7 @@ var DATA_DISASTER = `
 2026-08-19	【新聞第一線】歐洲備戰！北約突反擊伊朗 以軍大轟炸6人亡	https://www.ntdtv.com/b5/2026/08/19/a104125414.html	未分類
 2026-08-18	闖埃特納火山禁區遠足美國男遊客遭雷擊喪命- 國際	https://www.dotdotnews.com/a/202608/18/AP6a841d1ee4b04b6c5d3707ea.html	火山
 2026-08-18	美國男攀歐洲最活躍火山遭雷擊！不治身亡	https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B%E7%94%B7%E6%94%80%E6%AD%90%E6%B4%B2%E6%9C%80%E6%B4%BB%E8%BA%8D%E7%81%AB%E5%B1%B1%E9%81%AD%E9%9B%B7%E6%93%8A-%E4%B8%8D%E6%B2%BB%E8%BA%AB%E4%BA%A1-051015397.html	火山
+2026-08-18	短片：歐美多地山火持續 加拿大火勢蔓延 比利時山火失控 (13:26) - 20260818 - 熱點	https://news.mingpao.com/ins/熱點/article/20260818/s00024/1787027277919/短片-歐美多地山火持續-加拿大火勢蔓延-比利時山火失控	山火
 2026-08-18	獨攀歐洲最活躍火山 美籍登山客闖禁區「遭雷擊身亡」	https://www.ettoday.net/news/20260818/3221107.htm	火山
 2026-08-18	日本千葉豪雨增至13死 約2700輛泡水車成路障	https://www.stheadline.com/realtime-world/3605608/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E8%B1%AA%E9%9B%A8%E5%A2%9E%E8%87%B313%E6%AD%BB-%E7%B4%842700%E8%BC%9B%E6%B3%A1%E6%B0%B4%E8%BB%8A%E6%88%90%E8%B7%AF%E9%9A%9C	水災
 2026-08-18	哥倫比亞1/3面積在地震中受災 華緊急援助物資啟運	https://hk.on.cc/hk/bkn/cnt/news/20260818/bkn-20260818140224455-0818_00822_001.html	地震
@@ -1737,6 +1684,7 @@ var DATA_DISASTER = `
 2026-08-17	阿苏火山喷火警戒升级或放弃吊挂台湾游客遗体作业｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260817/mobile/bkn-20260817022333968-0817_00822_001_cn.html	大火
 2026-08-17	歐洲多地山火持續三國聯合撲救比利時創紀錄山火- 國際	https://www.wenweipo.com/a/202608/17/AP6a828a72e4b0c1e500252bae.html	山火
 2026-08-17	日本關東地區強降雨已致10人死亡	http://hkcd.com/hkcdweb/content/2026/08/17/content_8770099.html	未分類
+2026-08-17	意大利埃特納火山雷擊事件：29歲美國遊客攀登時遭閃電擊中身亡	https://www.singtaousa.com/2026/08/17/news/world/american-killed-by-lightning-while-climbing-italian-volcano/	火山
 2026-08-17	埃特納火山 | 美遊客闖意火山禁區 遭雷擊身亡	https://www.singtao.ca/7600494/2026-08-17/news-埃特納火山+|+美遊客闖意火山禁區+遭雷擊身亡/	火山
 2026-08-17	印尼一火山发生喷发 火山灰柱高约800米	https://news.cctv.com/2026/08/17/ARTIIre0Gp7esbpuaUOWdWXt260817.shtml	火山
 2026-08-16	【直播】7.7級強震至少51 人亡 印尼東努沙登加拉省佛羅勒斯島	https://www.ntdtv.com/b5/2026/08/16/a104124548.html	地震
@@ -1756,6 +1704,7 @@ var DATA_DISASTER = `
 2026-08-14	西部7.4級地震增至281死3971傷 379人失蹤	https://hk.on.cc/hk/bkn/cnt/intnews/20260814/bkn-20260814131518130-0814_00992_001.html	地震
 2026-08-14	西西里島「埃特納火山」再噴發！ 進入高度活躍期	https://www.nexttv.com.tw/NextTV/News/Home/WorldNews/2026-08-14/2436532.html	火山
 2026-08-14	浙江長興突發山洪泥石流致1死3失聯- 神州	https://www.wenweipo.com/a/202608/14/AP6a7ec78ee4b0c1e50024d7e9.html	水災
+2026-08-14	歐洲遭極端高溫與戰爭夾擊 今年或損失GDP 1%	https://hkcd.com.hk/hkcdweb/content/2026/08/14/content_8769773.html	極端天氣
 2026-08-14	日本千葉縣強降雨已致6人死亡超2.2萬戶停電- 國際	https://www.wenweipo.com/a/202608/14/AP6a7e877ee4b0c1e50024cd9f.html	未分類
 2026-08-14	日本千葉暴雨增至8死 再有人受困車內淹死 氣象廳預警或降暴雨	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60379967/%E6%97%A5%E6%9C%AC%E5%8D%83%E8%91%89%E6%9A%B4%E9%9B%A8%E5%A2%9E%E8%87%B38%E6%AD%BB-%E5%86%8D%E6%9C%89%E4%BA%BA%E5%8F%97%E5%9B%B0%E8%BB%8A%E5%85%A7%E6%B7%B9%E6%AD%BB-%E6%B0%A3%E8%B1%A1%E5%BB%B3%E9%A0%90%E8%AD%A6%E6%88%96%E9%99%8D%E6%9A%B4%E9%9B%A8	水災
 2026-08-14	城鎮韌性演習 台東揮扇快熱昏 2026城鎮韌性防空演習12日在花東區進行，台東縣長饒慶鈴與花蓮縣長徐榛蔚均親自視導，演習過程大致順暢，民眾多配合疏散，不過午後高溫炎熱卻成現場「最大魔王」，...	https://reader.turnnewsapp.com/ct/20260813/b04aa4/q1rfmjaynja4mtnfqtrfna2/share	未分類
@@ -1846,6 +1795,7 @@ var DATA_DISASTER = `
 2026-08-01	（有片）熊本強震｜死亡人數升至36人逾1500棟房屋受損- 國際	https://www.dotdotnews.com/a/202608/01/AP6a6d4a85e4b04b6c5d355cb0.html	地震
 2026-08-01	那不勒斯火山區4.7級地震 釀4傷	https://hk.on.cc/hk/bkn/cnt/intnews/20260801/bkn-20260801121849992-0801_00992_001.html	地震
 2026-08-01	熊本地震增至36死 至少1500間房屋受損 (11:59) - 20260801 - 國際	https://news.mingpao.com/ins/國際/article/20260801/s00005/1785555813055/熊本地震增至36死-至少1500間房屋受損	地震
+2026-08-01	歐洲野火持續蔓延德國南部大火失控- 國際	https://www.dotdotnews.com/a/202608/01/AP6a6d98e7e4b04b6c5d3564ab.html	大火
 2026-08-01	日本青森縣附近海域5.8級地震 暫未發海嘯警報	https://news.google.com/rss/articles/CBMizgJBVV95cUxQcWM3OW9kVDZ6NDlYcy1hSEV2N1Z1M0k1UnBtYzRldHE4VEpWUXZTZEN4RkQ3bWtuU0NUVkZvZEloWXZlNHpMRVZjUW5YeUhNaFRfTHlpYTZYUWZQbXR6YTVzUkZjTmZuSTd5QlI1OU01dUNDck0yODhoek9kRFJvbUhRdjdTaG9iZHZOYXBOLUh6c1lxYlZIbUU1ZUxYbEM3LVJiVDR2dUg5UDNmdy1JMzNELTRBMTlvTklYTnhNTHpfSWNNMzdBVjIwOFdOcnFiWC1YN0VRaDVkUDdDQUtERFNYWjZfbHZVQkpYX3J3b09sR0trSU5tYjR3V2xuZXJoVGx3WFE0NUtWc09idTFVdW5ZcnczcGQ2TWUzdGh5cUhFTk05U3YxeHZ3X0hEcDB4eGVldHBNMkVxOWFvbnowRHlJVTAyZ0RwbFZXUEZn?oc=5	地震
 2026-08-01	日本青森外海5.8級地震 未發海嘯警報 熊本強震增至36死 - i-cable.com	https://news.google.com/rss/articles/CBMi4gJBVV95cUxOcG15REMwcXRHTVMzSjBNZ3BxcTFrbEpuaFJ1YXd2bFlyd0dYZ1hJdzhuU3lqbkZIbzJIZGJFTHlZUTNhcjBmbG9EaW1OQ0lhNHdaSGZuUm1JNzhkd25rYWtDa3NjVlZQRURDcy1UT0pwQ1BxTDduQ3h2aXhsVUl3aTdPT2c0TEl2aG1TM3BqZ3JyWE5NS1I0WWJNb05SYkRjVkljYTJmbEp6SzQ4WmpwMm1ORUZWMkZ5Zzc0TFl2TWhOLTBJVTFIWXlLcDVOdUdhX25fdUVHOWxodWU5WTI4QjdmNDdlSGRkTTFUMEFNMlc3a1ppY0JicmU1VHBNamNVQkJNWDdGanppM2dmUW52U1JudnVTVUtpY2JOeS1OV3pmODBuTjNnRV9MclpmMVB6WF8zOWhBa2xNWlg3RGRUOFFMck1KZGVyakkwX3hlU1ZxTHJMUVpOMG9JSFBPdnBKOHc?oc=5	地震
 2026-08-01	日本熊本發生4.7級地震無引發海嘯風險- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE54SG1kMUhaeXNJcXJyYW8xWVlsVjUxMjl1aFpCTl9feHQ3V0drVzZUdjZhZ2I4RzAxUjdKaUZ0dE5oSUx6NzNkUmlzVzhFWmdVM29NbEhuUGZFYnR3blMzWm5EWkFXQjJLVzlCTWlSYXI5RG40Ni1KaUVn?oc=5	地震
@@ -1908,6 +1858,7 @@ var DATA_DISASTER = `
 2026-07-26	法國西班牙野火狂燒 逾30萬人撤離避難	https://www.ntdtv.com/b5/2026/07/26/a104118817.html/amp	山火
 2026-07-26	世紀熱浪︱法國山火逼近葡萄酒名城波爾多 山火焚毀面積創歷史紀錄	https://www.singtao.ca/7578638/2026-07-26/news-世紀熱浪︱法國山火逼近葡萄酒名城波爾多++山火焚毀面積創歷史紀錄/	山火
 2026-07-25	颱風+暴雨+高溫+強對流！中央氣象台四預警齊發- 神州	https://www.wenweipo.com/a/202607/25/AP6a63eec0e4b0c1e500221b3d.html	颱風
+2026-07-25	山西洪洞山體崩塌 一戶民宅被埋 多人死傷	https://www.ntdtv.com/b5/2026/07/25/a104118502.html/amp	未分類
 2026-07-24	日本熱浪 東京單日453送院 全國一周14人因高溫亡 - 20260724 - 國際	https://news.mingpao.com/pns/國際/article/20260724/s00014/1784824886310/日本熱浪-東京單日453送院-全國一周14人因高溫亡	極端天氣
 2026-07-24	伊朗稱五省遭襲 已致4死7傷	https://www.hkcd.com.hk/hkcdweb/content/2026/07/24/content_8766433.html	未分類
 2026-07-23	短片：法國西班牙山火肆虐 居民遊客疏散 巴西南部暴雨致水災 (17:17) - 20260723 - 熱點	https://news.mingpao.com/ins/熱點/article/20260723/s00024/1784779632903/短片-法國西班牙山火肆虐-居民遊客疏散-巴西南部暴雨致水災	水災
@@ -1931,14 +1882,17 @@ var DATA_DISASTER = `
 2026-07-20	伊朗西部地區發生5.5級地震- 國際	https://www.wenweipo.com/a/202607/20/AP6a5da803e4b0b49ad1c41823.html	地震
 2026-07-20	乾旱豪雨接連重創埔里百香果 一期果減產估達四成 鎮長廖志城籲中央啟動天然災害現金救助	https://news.pchome.com.tw/society/hoomedia/20260720/index-78452747519656344002.html	水災
 2026-07-20	一美軍引爆伊朗無人機時喪生 累計17美軍於美伊戰事亡 (09:25) - 20260720 - 國際	https://news.mingpao.com/ins/國際/article/20260720/s00005/1784508892071/一美軍引爆伊朗無人機時喪生-累計17美軍於美伊戰事亡	未分類
+2026-07-19	城市淹水雷暴肆虐 中國多個城市同時進入「看海模式」(視頻)	https://renminbao.com/rmb/articles/2026/7/19/95953b.html	水災
 2026-07-18	墨西哥海域7.3級淺層大地震 美國預警系統發海嘯警報	https://news.google.com/rss/articles/CBMigwNBVV95cUxON2E0RkNIdWJuS0V0OWtCdDVyV3dUOFFnV3lET0dDRXJsbE1ZU3JpU1FpZGN0a3pyX3UwdGlFSzlpVWxpTXNXM0N6M0NYcHhLT0lwM2FoX0IwWDNiMVZiVzI0LXQ4WjJWS0k3LW83TDJkbXl2OFVvN1lJeGswampJd3RmUW9JNy1QYlk5c0l0d1hXc1M3ekU4MFkySEk0dWdvbU5LT24xdXdPdWQxdElNQjk4RndzeFIzcnk2ai0wcFI3UGVLLXU5T0dJMFZsTU9CQWwtRGVHX2p2QTRxRkhxNWJ0WG0zdFVmTEE3NDk1cHZBTVBtUHVzZGxPdmg1RGZYem9LVXNKMEpNdGIxRUtnRTJHZWFNSGJUS3h5UXR6ZHJnMHpjYng3OXVQUmZBeXdHVGVWeGpzQUpuMDdvNmN2bE5VcS1FdzdjYTY0U05vbkZYSDZIRnlsQVNtNHhjVk5lcHZGSEFqZlBjaWxHcjhaSTBQOTBNdGFoWUl2MUYtSHBXMW8?oc=5	地震
 2026-07-18	墨西哥對開海域發生7.4級地震 美國發出海嘯警報 - i-cable.com	https://news.google.com/rss/articles/CBMi7AJBVV95cUxPdzlncG8yX1k3RjdzZDljZFZxOEJNa0d6dFVZVzFBYzZ5TExjVHY4U0hlWmlzVHp2RUtTbkZwRVJKLXdGR0hqVWtOZk1YRE5TUWdHOXBHNkw3NWxVUmhLTzItR3UtSUdYRVRBeHdOQ29WeGw0UzJvdWZjTUdxOXlTdFM5MlFhTVZVVUdXYXFsZnhjLXZWYUxodE5weUVOTHZMOWk3RnJBVUV3emxRX1FOM2N0M0lubEE0SmN3ZU1LVEtmTGZLUk15OWF2amgxUnFYc0JYZjVtSmVWeXdzS3Vzb3cyUGhGY0IzU0FEcFB2WDA0ZVRjZ2RIRW9STll4V1pOSjI0OHUwdzI2SXh0aGY1aWdHVlFaYmpHcnc0dHY5eFNNdWZpczFsSUV2OXJpZGdUc3h1WHcxNE9GRWZfNXE4NlRidXFyS2dMYm5xZGVwY1dhdVNXRm84a3RWSE5oX18wdm9NVnRTMEpwa0lp?oc=5	地震
 2026-07-18	墨西哥南部錄7.3 級淺層地震海嘯警告一度生效暫未接傷亡報告	https://news.google.com/rss/articles/CBMiogNBVV95cUxOdU8yNlRXbVpoR3Y4Y3gxOFN1ZE9FUzBoVzl2TWNDeW1hbjZCcXBRazdUN3BSN0VHcnVEcVlzMUp2cUJTbFItTkEwbHNFQkk3TEY3TXpNcGl6QVpLV0F4akcxRjVnLWdXcWowX3ZqWEZoOVkydUg2UGlrZE51MU43VGlaeVZUelJWY3JuWUp2YlRPUV9nTDh6WGFsUF9za2pwaGQzUldhVGY3S2FYQnhORFR4YzBydk84eXp1NmFpVmJqZ3QyRjAzX3dIUWVzUVRtRzgtQS1nc2tJMnhoMU5mU29MTUZuV0JVU0UwbHM3bjYzNDBySXFreFBrMEs3VDB0MXBwQVRRVklZSHlpNFJ3Ym5aNUdwYlhQUW41YTdfLW1XNFBnX3ItOExGMkhvMlRYdlVuU1ZGaGVSSXcxRjJOclY4WVIwR2tib3lseWRORWcxdkk3VFpNQnl4N3BjQ1dORjh4MEMxX3lLLVF2a2xzZjhSS29uVm5mdmREVmRsU3gwMlFlbGw4NjdUanN4OEhDTzdxVEZndmtxMkx3NUJ6SWNR?oc=5	地震
 2026-07-18	墨西哥南部外海7.4級地震 一度發出海嘯預警 (10:11) - 20260718 - 國際	https://news.mingpao.com/ins/國際/article/20260718/s00005/1784340832750/墨西哥南部外海7-4級地震-一度發出海嘯預警	地震
+2026-07-17	重慶彭水山體滑坡 至少8死34失蹤	https://www.rfi.fr/tw/中國/20260717-重慶彭水山體滑坡-至少8死34失蹤	未分類
 2026-07-17	超強熱浪席捲美加 逾億人處高溫預警	https://www.wenweipo.com/a/202607/17/AP6a593a1ce4b0b49ad1c3adc9.html	極端天氣
 2026-07-17	規模7.4強震襲墨西哥！氣象署發「海嘯警報」：將嚴密監視後續影響	https://news.google.com/rss/articles/CBMihwNBVV95cUxNMC1KTHQxQldWcDcxNWg2THlmd3RRaWZTdjBtNW9XV2xFRVR2UjdOUUplZDdYenFSZ0hncE1acFFHSG05VF90RXByVVhFQjhzdUFHQTk0TWpfeUpjNWVLYXRibkJidjFPclRjWlY0RXI2MmtUUy1tYWtBMGFrT19vdXhvaGYzbEo3WVg5YmpxcE5qTjJxTGlqTlN3NkhUQUJzOUhMRjFWQThoa1ZqekNwaGtDN3hGbXY4Z0VEcmNYdFN1dEhldEVBQnNhU3JHYTZYaTJ6RWMtLTlEZUc2bzlXRVoweXRaNjVkX1h1R3VDQnJSUzFSNk0zRHBuc01fTllSWDJkQkxvbFo4VzhlUEE3OFdfVm8wdTJ6ZURSRnpRRjc1M2pJQzVXeTRjQ0l2MGRFQnBYb0kwVWJEVFlydHJoRWV0YXNlUDdnWmJhTTRJYWltXzB0a0M5OHMzSW8wbFFMTnRpS3NxMGJHWWdUQkdJMVVEelY5OUhlN0lXdFozQVh4cHFhdTdz?oc=5	地震
 2026-07-17	墨西哥恰帕斯州沿岸近海發生7.2級地震- 國際	https://www.dotdotnews.com/a/202607/17/AP6a5a44b1e4b04b6c5d33bf1b.html	地震
 2026-07-17	墨西哥南部恰帕斯州近海7.4級地震 美國發布海嘯預警	https://news.google.com/rss/articles/CBMib0FVX3lxTE1FcWdiU1YtZHpsS0ZuSmtTUWhBdGl3X0x2TjBMN1kyS1VoSlZHdjRMUXRxbEc3dEU3T0NfVExtZXRCSEt3MVhRY3VBUmdEbWtaMnlLTExzSkhtM3M0djVNY3VhOThsVi1TdGtUalBfQQ?oc=5	地震
+2026-07-17	伊朗袭击致油轮受损、一名儿童受伤，美军打击伊朗政权的军事基础设施	https://www.voachinese.com/amp/oil-tanker-hit-child-injured-in-iranian-attacks-as-us-military-targets-regime-s-military-infrastructure-20260717/8172937.html	未分類
 2026-07-17	【新聞第一線】中東命脈遇襲 科威特水源告急 美軍狂轟6大橋	https://www.ntdtv.com/b5/2026/07/17/a104116176.html	未分類
 2026-07-16	高溫雷暴狂風令卑詩山火失控 烈焰幾分鐘吞噬山頭畫面曝光	https://www.singtao.ca/7568616/2026-07-16/news-高溫雷暴狂風令卑詩山火失控++烈焰幾分鐘吞噬山頭畫面曝光/	山火
 2026-07-16	委內瑞拉強震死亡升至4829 1.8萬人流離失所	https://www.ntdtv.com/b5/2026/07/16/a104115787.html	地震
@@ -1952,6 +1906,7 @@ var DATA_DISASTER = `
 2026-07-14	美方披露美伊衝突美軍傷亡：累計已有14人死亡、414人受傷	https://hkcd.com.hk/hkcdweb/content/2026/07/14/content_8764685.html	未分類
 2026-07-14	消防飛行員殉職 科州野火「進入災難緊急狀態」	https://www.singtaousa.com/2026/07/14/news/usa/firefighter-dies-colorado-wildfire/	山火
 2026-07-14	曼谷酒吧大火增至30死 暫無中國公民傷亡報告	https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IQW5hUi1UQ19jcjlkeURCdGlyeEhPWnh2dy1oXzNTc0pjR3VZd3hqcHdiemVULV9oMEdpZURqeGNZNUF2X0pmR1BXV2txcFhWS2s1M0xKS042UHQzdVHSAWNBVV95cUxNLVJtbzZtRVdJS1UyWlB0SDZoTDhRdFJTVG1NcmROOHp2a28zVjlmZWdIc1ExdEV6dTVPdXU1emtpUnRVX2pkbGl6RzVjTGUwdUhpbjZqcEJwVkh4dEhpRllNUzg?oc=5	大火
+2026-07-14	伊朗襲擊海峽2艘油輪1死8傷 阿聯：全面反擊	https://www.ntdtv.com/b5/2026/07/14/a104115091.html/amp	未分類
 2026-07-14	【每日油氣】法國熱浪重創核電輸出 各地發布紅色高溫警報	https://hk.epochtimes.com/news/2026-07-14/46886601	極端天氣
 2026-07-14	【嘉賓連線】巴威登陸多省市洪水 廣西水庫潰壩 天災？人禍？	https://www.ntdtv.com/b5/2026/07/14/a104115282.html	水災
 2026-07-14	3月乾旱花蓮文旦柚傳災情 公告災害救助每公頃9萬5	https://www.ettoday.net/news/20260714/3200695.htm	乾旱
@@ -1966,6 +1921,7 @@ var DATA_DISASTER = `
 2026-07-11	強震增至4118人死亡 逾1.6萬人受傷	https://hk.on.cc/hk/bkn/cnt/intnews/20260711/bkn-20260711071026067-0711_00992_001.html	地震
 2026-07-11	委內瑞拉雙強震4000多人罹難 重建計畫艱難！政府發起國際募款	https://news.pchome.com.tw/internation/crwant/20260711/index-78375191927802316011.html	地震
 2026-07-11	委內瑞拉強震已致4118死國際足聯基金會撥款援助- 國際	https://www.dotdotnews.com/a/202607/11/AP6a5187b8e4b04b6c5d33096b.html	地震
+2026-07-11	IMF和美聯儲均關注伊朗戰爭、AI投資等風險	https://hk.epochtimes.com/news/2026-07-11/45805344	未分類
 2026-07-10	颱風「天災不可抗力」天條破了 丹娜絲受災戶告贏獲國賠7.6萬	https://www.ettoday.net/news/20260710/3198515.htm	颱風
 2026-07-10	德國熱浪逾5千人亡 西班牙野火奪11命	https://www.ntdtv.com/b5/2026/07/10/a104114169.html	山火
 2026-07-09	（有片）四川宜賓高縣地震頻發今早再有4.8級地震- 兩岸	https://www.dotdotnews.com/a/202607/09/AP6a4ee6f3e4b04b6c5d32d16b.html	地震
@@ -1977,12 +1933,14 @@ var DATA_DISASTER = `
 2026-07-09	天災與制裁的雙重夾擊：委內瑞拉強震傷亡慘重 代總統致函英王求「金」援	https://www.heatalk.com/20260709/13590/	地震
 2026-07-09	四川宜賓市高縣發生4.8級地震 (09:20) - 20260709 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260709/s00004/1783559502040/四川宜賓市高縣發生4-8級地震	地震
 2026-07-09	卑詩度假村多棟建物遭山火吞噬 業主受打擊稱「地獄風暴」	https://www.singtao.ca/7561177/2026-07-09/news-卑詩度假村多棟建物遭山火吞噬++++業主受打擊稱「地獄風暴」/	山火
+2026-07-08	龍捲風重創黃岡市4死 男子遭大風吸走從12樓墮下	https://hk.on.cc/hk/bkn/cnt/news/20260708/bkn-20260708111136080-0708_00822_001.html	極端天氣
 2026-07-08	酷熱丨南韓連續5日錄疑似高溫致死病例	https://m.hkej.com/landing/mobarticle2/id/4477850/%E9%85%B7%E7%86%B1%E4%B8%A8%E5%8D%97%E9%9F%93%E9%80%A3%E7%BA%8C5%E6%97%A5%E9%8C%84%E7%96%91%E4%BC%BC%E9%AB%98%E6%BA%AB%E8%87%B4%E6%AD%BB%E7%97%85%E4%BE%8B	極端天氣
 2026-07-08	連環強震增至3685亡 16740人受傷	https://hk.on.cc/hk/bkn/cnt/intnews/20260708/bkn-20260708153347999-0708_00992_001.html	地震
 2026-07-08	日本岩手縣附近海域發生4.4級地震- 國際	https://www.dotdotnews.com/a/202607/08/AP6a4e0343e4b04b6c5d32c382.html	地震
 2026-07-08	四川宜賓高縣8日連發9次地震3人受輕微傷- 神州 - 香港文匯網	https://www.wenweipo.com/a/202607/08/AP6a4dc59be4b0b49ad1c275f4.html	地震
 2026-07-08	四川宜賓市高縣發生5級地震 (10:27) - 20260708 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260708/s00004/1783477783333/四川宜賓市高縣發生5級地震	地震
 2026-07-07	美熱浪至少25死西歐山火肆虐- 國際 - 香港文匯網	https://www.wenweipo.com/a/202607/07/AP6a4c0b64e4b0b49ad1c24175.html	山火
+2026-07-07	湖北多地雷暴大風8人亡 部分鄉鎮現龍捲風 (09:17) - 20260707 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260707/s00004/1783385459270/湖北多地雷暴大風8人亡-部分鄉鎮現龍捲風	極端天氣
 2026-07-07	歐洲多國山火肆虐 希臘北部火災產生毒煙	https://hk.epochtimes.com/news/2026-07-07/86786262	大火
 2026-07-07	廣西防城港史上罕見洪災 官方封鎖傷亡人數	https://www.ntdtv.com/b5/2026/07/07/a104113110.html/amp	水災
 2026-07-07	委強震增至3342亡 代總統強調社會穩定	https://www.tdm.com.mo/pt/news-detail/1217499?lang=zh&category=all&isvideo=false	地震
@@ -2031,13 +1989,16 @@ var DATA_DISASTER = `
 2026-06-27	委內瑞拉強震已致920人死 還有逾5萬人失蹤	https://www.hkcd.com.hk/hkcdweb/content/2026/06/27/content_8761976.html	地震
 2026-06-26	（有片）日本千葉縣5.8級地震東京地區震感強烈- 國際	https://www.dotdotnews.com/a/202606/26/AP6a3df922e4b04b6c5d318538.html	地震
 2026-06-26	霍爾木茲海峽再遭襲 川普稱以「絕對實力」與伊朗談判	https://www.ntdtv.com/b5/2026/06/26/a104109695.html	未分類
+2026-06-26	美国和伊朗停火后，霍尔木兹海峡再传袭击，油轮掉头折返	https://www.jpchinapress.com/static/content/SS/2026-06-26/1520062019155566592.html	未分類
 2026-06-26	猶他州野火失控發布歷史性「紅色預警」	https://www.singtaousa.com/2026/06/26/news/usa/utah-under-historic-red-flag-weather-warning-amid-dangerous-wildfires/	山火
+2026-06-26	特朗普指責伊朗愚蠢地違反”停火協議	https://www.rfi.fr/tw/美洲/20260626-特朗普指責伊朗愚蠢地違反-停火協議	未分類
 2026-06-26	熱浪侵襲歐洲多國 法國多地破紀錄高溫	https://www.tdm.com.mo/en/news-detail/1214398?lang=zh&isvideo=&shortvideo=0	極端天氣
 2026-06-26	日本發生5.6級地震 熱帶風暴致122次航班停運	https://www.ntdtv.com/b5/2026/06/26/a104109828.html	地震
 2026-06-26	日本千葉縣5.8級地震 無海嘯風險 東京震感強烈 (12:04) - 20260626 - 國際	https://news.mingpao.com/ins/國際/article/20260626/s00005/1782446389407/日本千葉縣5-8級地震-無海嘯風險-東京震感強烈	地震
 2026-06-26	委內瑞拉地震增至235死逾千人傷 兩中國公民遇難 (09:37) - 20260626 - 國際	https://news.mingpao.com/ins/國際/article/20260626/s00005/1782436503405/委內瑞拉地震增至235死逾千人傷-兩中國公民遇難	地震
 2026-06-26	委內瑞拉7.5級地震｜死者增至920人 5萬人失蹤 災民徒手挖瓦礫悲喊「要起重機」	https://www.singtao.ca/7548048/2026-06-26/news-委內瑞拉7.5級地震｜死者增至920人+5萬人失蹤+災民徒手挖瓦礫悲喊「要起重機」/	地震
 2026-06-26	外交部：已有2名中國公民在地震中遇難- 國際 - 香港文匯網	https://www.wenweipo.com/a/202606/26/AP6a3e2d48e4b0b49ad1c0e1ff.html	地震
+2026-06-25	法國高溫破紀錄熱浪席捲西歐，多國發布紅色警報並造成多人死亡	https://www.singtaousa.com/2026/06/25/news/world/france-records-hottest-day-ever-as-europe-suffers-brutal-heat-wave/	極端天氣
 2026-06-25	日本岩手縣近海7.2級地震 暫無海嘯風險 (10:39) - 20260625 - 國際	https://news.google.com/rss/articles/CBMi1AJBVV95cUxPQUtfanVaZWdFYUk2RFRKS1hXaUx5UHFJZVUtc1BSVzBJS05Zb0ctU2VvdklvbTZ5TVJodUFiMVRQUW50TFpYV2NkMlVaNHRBOW5jN0FrdUx6Z21mbDl1cFFmMnVfc2s4SGxpRWE0LTRkSGIxRGQ4RFhFME8xd3NQcVZrUmc2bldNOEluWjctNkpCUGFjN0VDenpiTXlTUFptSUNwQ1VUN0piQ0tIY2VCQ1pXbHh4cVp1dERaZjNJVVBlVnZZbVdLT25FOFI3UFczRXlndjVjVk9LYzRnd19hWTBHSlBhV3R0bWw3bERwX05QclFiajFoVFpsYmRRN0NNN1ozVmxHbUpCVHZEWGhsYXN0UUtDcjZXYnB1cWMzVlhZQVFfaEl6ZDFXd0REdk52NWYzOXU1STBmUjkxVmFDdGM0UFFQYTZteFhoNHBVQmJWME02?oc=5	地震
 2026-06-25	委內瑞拉強震已致至少32人死亡、700人受傷	https://www.hkcd.com.hk/hkcdweb/content/2026/06/25/content_8761666.html	地震
 2026-06-25	委內瑞拉強震已致32人死亡700人受傷特朗普、馬杜羅發聲- 國際	https://www.dotdotnews.com/a/202606/25/AP6a3cb68be4b04b6c5d3169f4.html	地震
@@ -2070,6 +2031,7 @@ var DATA_DISASTER = `
 2026-06-17	中國天災人禍不斷 地震、冰雹、洪水齊發	https://www.ntdtv.com/b5/2026/06/17/a104106845.html	地震
 2026-06-17	中國地震冰雹洪水天災不斷 百姓：是天的警告	https://www.ntdtv.com/b5/2026/06/17/a104106988.html	地震
 2026-06-17	一場豪雨讓花生「泡湯」 陳素月籲納天災救助範圍 - 政府消息新聞 - PChome Online 新聞	https://news.pchome.com.tw/public/pronews/20260617/index-78170786187684353016.html	水災
+2026-06-16	無繩攀火山淪死亡直播「也門蜘蛛俠」墜落火山口- 國際	https://www.dotdotnews.com/a/202606/16/AP6a310a6de4b09ea2331898a4.html	火山
 2026-06-13	特朗普：美軍打死「阿拉瓜火車」組織首領尼尼奧·格雷羅- 國際 - 香港文匯網	https://www.wenweipo.com/a/202606/13/AP6a2cb739e4b0b49ad1bf2aa5.html	未分類
 2026-06-12	美軍襲油輪致3印度船員死亡- 國際	https://epaper.tkww.hk/a/202606/12/AP6a2b178fe4b04773b0700d4e.html	未分類
 2026-06-12	增至55死1120傷 菲律賓南部強震後餘震超3860次	https://www.dotdotnews.com/a/202606/12/AP6a2b8f91e4b09ea233182a0e.html	地震
@@ -2096,6 +2058,7 @@ var DATA_DISASTER = `
 2026-06-08	2026年6月8日菲律賓棉蘭老島南部近岸7.8級大地震｜香港天文台(HKO)｜天文台網誌	https://news.google.com/rss/articles/CBMi6AJBVV95cUxNSFI0SnhPRUpjai1GUmRrNkk4VjRObXdZMF8zUEx6RXNaZmk1VjZzZlJaMDFKLTBiNTdBeGpYUnVRQWd4bTljMTZ2Q0ZDQnpKeDZTdEJBSTM1MDZ6UDNzTEFjMEU4UlJwNnpyVC1RQ2I0WndYTjBkT1ZBazRVaDZsdFhZUlZjalFGNGcwSFVmT3JWaDItam5mNW9YcHpRZWRSTDRmUGZjbmJDQ2tlR19zdVF3UHA3UHhBX29wQTUxZHllSnZ2ZUJFeTN3VzhUZHFNM2pEZzFSekd6ZmRfaEZ0OEhIVUUzSEw2WXJvekZyeWZWVjFvcFhDMkMtbmphRTBKbDM1ZUs2UThIZlBIdjhhMHhHRHNiM2hEdTBFN3pfQjNDYUNmMGJpRVREMU45Um9MdE5RNS1pSWFkR19IX3pHWUN1VjZxTzd6N2ozLUZQWXprQVkzZjJsQTJwUWNMeHRJa1lpd0JLajg?oc=5	地震
 2026-06-06	有片丨以軍在約旦河西岸打死一名巴勒斯坦嬰兒	https://www.hkcd.com.hk/hkcdweb/content/2026/06/06/content_8758626.html	未分類
 2026-06-05	日本三陸海域地殼正「慢滑移」 311東日本大地震前亦出現	https://news.google.com/rss/articles/CBMihANBVV95cUxObVNQNnFFaE5lSmcwejJLYzJneEdIUkNEUUNNdWFDWWFNNTFJN0k4d3RHUlh4d0MyU2ZGOGJaOXpLbjhXblZOOENWT3N1YVBVMzhqOXZNR2IwbDd3UjhfaTRLNS15RXh2NXNGRU5LUzhMbTdaYlhJWWxZNFBPU254WW5laF9UU1hjeTRJamFQNGN4OUgzUm9TakczVlBzQnZvSEY4dWFjTVB2QVJfaFoyLS05MzNvampqODE2ZkxTOUVYUU5oR3NiWnBuakxGUkgwSUZwTnc0ZzRkVnpuOUVkVVlWOXoyRVJwTkNLanpabmN0TnhGRjdfUlhUQWp4ZDJSY2JPMVFOdnB6VVJRQ1ZzRHE1YmJYZHVRdlg5ejZIY1o1MENhMzBPT0hYa2ZTakFBQVRmNElIeFFNMHhTY1RKRG0zSDRMYVNNb0pvdGI4RkVpWXFmWWxCdGZpMDJMQTRkZ1QyaFU5NTg0V0pTVHBhYlBMNlotdVM4Y2FBb29kWTJDTldU?oc=5	地震
+2026-06-05	以漫畫為伊朗作證：《我在伊朗長大》作者瑪嘉・莎塔碧56歲逝世｜Whatsnew	https://theinitium.com/20260605-whatnew-persepolis-author-marjane-satrapi-dies/	未分類
 2026-06-04	消息稱以色列空襲加沙城多處民宅至少9人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202606/04/AP6a20f48de4b0b49ad1bdf91c.html	未分類
 2026-06-03	以軍襲擊黎南部多地致10死131傷	https://www.hkcd.com.hk/hkcdweb/content/2026/06/03/content_8758064.html	未分類
 2026-06-02	快訊／義大利南部外海爆「規模6.2強震」 暫無海嘯威脅	https://www.ettoday.net/news/20260602/3176016.htm	地震
@@ -2109,9 +2072,11 @@ var DATA_DISASTER = `
 2026-05-29	暴雨襲湖北！ 上萬隻鴨被洪水沖走 農民心淌血：60年來最慘	https://www.nexttv.com.tw/NextTV/News/Home/China/2026-05-29/2361325.html	水災
 2026-05-29	新疆吐魯番市5級地震 震源深度20公里	https://hk.on.cc/hk/bkn/cnt/news/20260529/bkn-20260529151115830-0529_00822_001.html	地震
 2026-05-29	印尼塞梅鲁火山发生喷发，火山灰柱高约1000米	https://news.bjd.com.cn/2026/05/29/11773450.shtml	火山
+2026-05-27	法多地刷新5月最高溫紀錄7人死亡與熱浪襲歐有關- 國際 - 香港文匯網	https://www.wenweipo.com/a/202605/27/AP6a1600cce4b0b49ad1bce040.html	極端天氣
 2026-05-27	以軍：哈馬斯新任軍事領導人被打死- 國際	https://www.dotdotnews.com/a/202605/27/AP6a168b16e4b09ea233169443.html	未分類
 2026-05-27	以軍稱已打死哈馬斯新任軍事領導人- 國際 - 香港文匯網	https://www.wenweipo.com/a/202605/27/AP6a16a360e4b0b49ad1bcf5be.html	未分類
-2026-05-26	韓國首爾傳嚴重工安意外 高架橋崩塌釀3死3傷	https://www.nexttv.com.tw/NextTV/News/Home/WorldNews/2026-05-26/2358608.html	未分類
+2026-05-26	高架橋拆到一半突崩塌 韓國首爾爆工安意外3死3傷 - 國際新聞 - PChome Online 新聞	https://news.pchome.com.tw/internation/crwant/20260526/index-77979129587082316011.html	未分類
+2026-05-26	韓國首爾傳嚴重工安意外 高架橋崩塌釀3死3傷	https://www.eracom.com.tw/EraNews/Home/WorldNews/m/2026-05-26/2358611.html	未分類
 2026-05-25	飢餓戰術成戰爭手段糧食危機恐持續惡化| 國際焦點| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvY2kxUm9tTlBlRkZJZlBJaC0wQkFBZENJSHVsMkhRVnpKdHYwVzRtay11MktBektOa2xLZjNibUxyb3k5TzVfMktfck5KZzBC?oc=5	未分類
 2026-05-21	強降雨致湖南石門6人死亡、10人失聯- 神州 - 香港文匯網	https://www.wenweipo.com/a/202605/21/AP6a0eb145e4b0b49ad1bc039b.html	未分類
 2026-05-21	廣西柳州又地震 震級3.7 震源深度5千米	https://hk.epochtimes.com/news/2026-05-21/83260183	地震
@@ -2125,6 +2090,7 @@ var DATA_DISASTER = `
 2026-05-20	日本沖繩縣附近發生5.9級地震	https://www.hkcd.com/hkcdweb/content/2026/05/20/content_8755743.html	地震
 2026-05-20	台灣台東縣海域發生4.1級地震全台10縣市有震感- 兩岸	https://www.dotdotnews.com/a/202605/20/AP6a0d1843e4b09ea23315d79b.html	地震
 2026-05-20	南加野火持續延燒 美國多地同遭風暴與熱浪侵襲	https://www.singtaousa.com/2026/05/20/news/usa/news-southern-california-wildfires-storms-heatwave-tornadoes/	山火
+2026-05-19	霍爾木茲海峽遭伊朗封鎖，英國外相警告全球糧食危機與生活成本壓力加劇	https://www.singtaousa.com/2026/05/19/news/world/uk-lawmaker-warns-of-global-food-crisis-urges-immediate-reopening-for-strait-of-hormuz/	未分類
 2026-05-18	廣西柳州發生5.2級地震已致2死1失聯- 內地	https://www.tkww.hk/a/202605/18/AP6a0a7a36e4b04773b06e29f6.html	地震
 2026-05-16	日本東北地區發生6.4級地震	https://hk.epochtimes.com/news/2026-05-16/54351434	地震
 2026-05-16	岑智明料今年酷熱暴雨或更頻密籲公眾關注熱浪致命風險- 香港	https://www.tkww.hk/a/202605/16/AP6a07e8bee4b04773b06e04a2.html	極端天氣
@@ -2143,6 +2109,7 @@ var DATA_DISASTER = `
 2026-05-09	沙德爾暴雨釀泥石流 江西吉安1死11 人失蹤	https://www.bastillepost.com/hongkong/article/16708483-%E6%B2%99%E5%BE%B7%E7%88%BE%E6%9A%B4%E9%9B%A8%E9%87%80%E6%B3%A5%E7%9F%B3%E6%B5%81-%E6%B1%9F%E8%A5%BF%E5%90%89%E5%AE%891%E6%AD%BB11%E4%BA%BA%E5%A4%B1%E8%B9%A4	水災
 2026-05-08	熊本地震Aeon 2女店員被炸死 商戶高層認下指令折返：我深感後悔	https://www.hk01.com/即時國際/60376724/熊本地震aeon-2女店員被炸死-商戶高層認下指令折返-我深感後悔	地震
 2026-05-08	伊朗發生4.5級地震- 國際 - 香港文匯網	https://www.wenweipo.com/a/202605/08/AP69fd7dd3e4b0b49ad1ba060b.html	地震
+2026-05-08	【新聞第一線】伊朗突襲！ 美軍港口開火 多地爆炸火沖天	https://www.ntdtv.com/b5/2026/05/08/a104094138.html	未分類
 2026-05-07	菲律宾马荣火山持续活跃 再次形成火山碎屑流	https://news.bjd.com.cn/2026/05/07/90083079.shtml	火山
 2026-05-07	以軍在停火期間突襲貝魯特致2死7傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202605/07/AP69fbec0be4b0b49ad1b9d5fd.html	未分類
 2026-05-07	以軍在停火期間突襲貝魯特 以媒稱炸死真主黨精銳武裝指揮官	https://www.hkcd.com.hk/hkcdweb/content/2026/05/07/content_8753819.html	未分類
@@ -2169,6 +2136,7 @@ var DATA_DISASTER = `
 2026-04-27	美軍稱在東太平洋打擊「販毒船」致3人死亡	https://hkcd.com/content_app/2026-04/27/content_8752188.html	未分類
 2026-04-27	日本北海道地震規模6.1 最大震度為5強未發海嘯警報	https://www.ntdtv.com/b5/2026/04/27/a104090663.html	地震
 2026-04-27	新疆阿克蘇地區庫車市發生3.7級地震震源深度16公里 - 神州 - 香港文匯網	https://www.wenweipo.com/a/202604/27/AP69ef47d0e4b0b49ad1b89ea9.html	地震
+2026-04-26	日岩手縣山火失控焚燒5日 居民嘆：大火比海嘯更絕望	https://www.singtao.ca/7486757/2026-04-26/news-日岩手縣山火失控焚燒5日++居民嘆：大火比海嘯更絕望/?variant=zh-hk	大火
 2026-04-25	雲南昆明遭強冰雹襲擊 如末日災難片 場面嚇人（視頻）	https://www.ntdtv.com/b5/2026/04/25/a104090114.html/amp	冰雹
 2026-04-25	宜蘭縣近海規模4.8地震 氣象署：3天內留意餘震	https://www.epochtimes.com/gb/26/4/25/n14749458.htm/amp	地震
 2026-04-24	不是万斯，美代表将赴巴基斯坦同伊朗外长谈判	https://www.bcbay.com/news/2026/04/24/1015791.html	未分類
@@ -2200,6 +2168,7 @@ var DATA_DISASTER = `
 2026-04-09	伊朗局勢｜美軍炸婚禮現場釀4死50傷 萬斯指「有時難免」稱正在調查	https://www.orangenews.hk/international/VUDYXvS/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2-%E7%BE%8E%E8%BB%8D%E7%82%B8%E5%A9%9A%E7%A6%AE%E7%8F%BE%E5%A0%B4%E9%87%804%E6%AD%BB50%E5%82%B7-%E8%90%AC%E6%96%AF%E6%8C%87-%E6%9C%89%E6%99%82%E9%9B%A3%E5%85%8D-%E7%A8%B1%E6%AD%A3%E5%9C%A8%E8%AA%BF%E6%9F%A5.shtml	未分類
 2026-04-09	伊朗局勢︱美導彈襲婚禮場地致4死67傷 萬斯極其懷疑：有時難免意外	https://www.stheadline.com/realtime-world/3611099/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E7%BE%8E%E5%B0%8E%E5%BD%88%E8%A5%B2%E5%A9%9A%E7%A6%AE%E5%A0%B4%E5%9C%B0%E8%87%B44%E6%AD%BB67%E5%82%B7-%E8%90%AC%E6%96%AF%E6%A5%B5%E5%85%B6%E6%87%B7%E7%96%91%E6%9C%89%E6%99%82%E9%9B%A3%E5%85%8D%E6%84%8F%E5%A4%96	未分類
 2026-04-08	以軍襲擊黎巴嫩一救護車致4人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202604/08/AP69d5ea08e4b0b49ad1b5e9cf.html	未分類
+2026-04-08	【美伊停火】鱷王：勿被短暫停火沖昏頭腦 距離世界大戰僅....	https://hk.on.cc/hk/bkn/cnt/finance/20260408/bkn-20260408175509310-0408_00842_001.html	未分類
 2026-04-07	（有片）伊朗多處民用設施遭襲伊媒：以軍轟居民區致18人死亡- 國際	https://www.dotdotnews.com/a/202604/07/AP69d4cba9e4b09ea23311b684.html	未分類
 2026-04-07	伊朗一鐵路橋遭襲已致2死3傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202604/07/AP69d4f0c1e4b0b49ad1b5cd3f.html	未分類
 2026-04-05	邱毅：川普若被樂的衝昏頭 決定地面作戰美軍重大傷亡免不了	https://www.ettoday.net/news/20260405/3144319.htm	未分類
@@ -2213,14 +2182,24 @@ var DATA_DISASTER = `
 2026-04-02	印尼附近海域7.4級地震 當局收到高約0.3米海嘯	https://news.google.com/rss/articles/CBMib0FVX3lxTE5LbXRtWTI4ekFKZktrd2ZHaE1QUXQzclhTWFlUcjRPWWlKcTRIQzdLME00dnRKVXdZUDlxdnNFem0zS3pNUkZnTmt1bHVSYkR4djRVNnNlbnRTUFhIMTZESXpOeUI2LWZvNlFrX0hkRQ?oc=5	地震
 2026-04-02	印尼發生7.4級強震1人亡 加州同日4.6級地震	https://www.ntdtv.com/b5/2026/04/02/a104082654.html	地震
 2026-04-01	美軍被指用新型導彈襲伊朗小學致21死	https://www.tkww.hk/a/202604/01/AP69cc5b54e4b04773b06a6b05.html	未分類
+2026-03-27	美以襲擊致伊朗超1900人死亡至少2萬人受傷- 國際	https://www.dotdotnews.com/a/202603/27/AP69c6873ee4b0c32d4f6d3dcd.html	未分類
 2026-03-27	伊朗庫姆市遭襲已致15死10傷	https://www.dotdotnews.com/a/202603/27/AP69c657b7e4b0c32d4f6d36ec.html	未分類
+2026-03-26	美以空袭伊朗｜美军摧毁伊朗 逾60%军火产线 92%大型海军船舰	https://www.chinapress.com.my/20260326/美以空袭伊朗｜美军摧毁伊朗-逾60军火产线-92大型海/	未分類
+2026-03-26	為什麼說：伊朗要麼亡教，要麼亡國？深度解析伊朗的死局	https://beyondnews852.com/20260326/237661/	未分類
+2026-03-26	伊朗：美以造成伊朗至少1750人死亡逾2萬人受傷- 國際	https://www.dotdotnews.com/a/202603/26/AP69c4a0a1e4b0c32d4f6d0ef9.html	未分類
+2026-03-25	伊朗稱美以襲擊一鐵路員工宿舍已致7人死亡- 國際	https://www.dotdotnews.com/a/202603/25/AP69c395aee4b0c32d4f6cfb03.html	未分類
+2026-03-24	美以襲擊已致伊朗208名未成年人死亡 最小僅出生3天	https://www.dotdotnews.com/a/202603/24/AP69c230dfe4b0c32d4f6cd92b.html	未分類
 2026-03-24	昆州北部遭颶風襲擊 衛生廳發布致命疾病警報	https://www.epochtimes.com/b5/26/3/23/n14725613.htm	颱風
 2026-03-22	美西暖冬讓雪量不足 今春恐陷缺水、野火危機	https://www.worldjournal.com/wj/amp/story/121172/9396538	山火
+2026-03-21	美国使馆设施连续遭6次袭击，现场燃起大火！伊朗称同时打击5处美军基地，特朗普：可以对话，但我不想停火	https://finance.sina.cn/china/gjcj/2026-03-21/detail-inhrtipv7354961.d.html?oid=WA 0821 7001 0763 (FORTRESS) Pintu Rumah Minimalis 1 Pintu Keritang Indragiri Hilir&vt=4	大火
 2026-03-20	美國熱浪破紀錄 氣候變遷致亞利桑那州三月高溫	https://www.singtaousa.com/2026/03/20/news/usa/records-shattered-as-summer-heat-hits-southwest-in-march-this-is-what-climate-change-looks-like/	極端天氣
 2026-03-20	瓦努阿圖群島發生6.0級地震震源深度10公里 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/20/AP69bcc0b8e4b04d7d56d95958.html	地震
 2026-03-20	台灣花蓮縣發生4.1級地震- 台海	https://www.tkww.hk/a/202603/20/AP69bd51b7e4b04773b06a3d0a.html	地震
+2026-03-20	伊朗最新傷亡：204名兒童死於美以襲擊逾1.8萬平民受傷- 國際	https://www.dotdotnews.com/a/202603/20/AP69bcbcdbe4b0c32d4f6c6828.html	未分類
 2026-03-20	伊朗南部法爾斯省發生4.1級地震- 國際	https://www.dotdotnews.com/a/202603/20/AP69bceef6e4b0c32d4f6c6e76.html	地震
+2026-03-19	伊朗：美以襲擊司法機構致14死50傷	https://www.hkcd.com.hk/hkcdweb/content/2026/03/19/content_8745600.html	未分類
 2026-03-18	（有片）以防長：伊朗情報部長死於以軍襲擊- 國際	https://www.dotdotnews.com/a/202603/18/AP69ba81bfe4b0c32d4f6c3830.html	未分類
+2026-03-18	美以襲擊伊朗居民區 致7死56傷	https://www.tkww.hk/a/202603/18/AP69ba5844e4b04773b06a3355.html	未分類
 2026-03-18	伊朗戰爭可能引發一場全球糧食危機- 戈瓦埃茨（Bram Govaerts）、伯克（Sharon Burke） - Project-Syndicate	https://news.google.com/rss/articles/CBMinwJBVV95cUxQNU9wSnFya3A0V3Jya3g0bXNhMTh0dXJTV1VEa0d4NW8xWVNrRU15VHRBWF9aV083dmk5UXFWRDhwNklneS1veHdiY2R4UC1aWm9mVFltWWszTDBvb1FzYkpXQXJ2V3gyT3BmeHZSTWVic2RzcUJSTGQ5NHpKb0Y4ZVE1Z21GRXBQQzJjRWRjQlhiNl8tbl9pbEZITnJyUTNsbE5UUW94UWhZT3FtVHBlNmVyMkxvOVFhQkZSS3JpdUZKRzROZlF1VFZmWXdWTHZvRWZSQ25DVm1Ia2l0TC02bVh4VVhiaUNQLWpiX1F2c0loNWlnd3F1RUtmeE1iRnRIU3V2OGF6a3F1cTNjbHV1S0xuU1R0bnMyZF8xYkRIbw?oc=5	未分類
 2026-03-18	伊朗戰爭可能引發一場全球糧食危機 ProjectSyndicate - 專題	https://news.google.com/rss/articles/CBMisgJBVV95cUxNci13UmFZYkhHeFJhVDJORWdCelJXSnM4RG5PTXRTUDl1bHJIUzdkTXo0VU1yc3lIdk1iRFBSeWZOSlVQbXliM1luTUdxUWZvSTdNalE2NzVSZ00tR3l0V013WURJbHBOc3AycXJUTEc5cFVBQ01nUDA4OWttTjYzN1g1Tk5ZNjk2V0treVQzQU9uUWdsYUNkOEZIdUZOdXlEMFBzbk54aG1IcFNBM2I0QXIzOGVlc1oxWnRaYTdfWTNDaTgyM1JpTXcwM2NKUTR1NWtGclVBVTgxMzJnNUd4TTZjX2t5Tno1Q1ZZd1FvaFdjcnpyZ3hCRjhxV0xfa1RWbDZwQ3RyNC0taUY1c2M1aDJWNHBja2tyNVZvQUdpTkoxelVoOFl6TTBQMlFhWnVGcXc?oc=5	未分類
 2026-03-17	阿富汗指巴基斯坦空襲首都大型醫院 釀至少400死 巴方否認 (14:22) - 20260317 - 國際	https://news.mingpao.com/ins/國際/article/20260317/s00005/1773728528884/阿富汗指巴基斯坦空襲首都大型醫院-釀至少400死-巴方否認	未分類
@@ -2234,9 +2213,16 @@ var DATA_DISASTER = `
 2026-03-12	北海道恐爆311規模強震 專家：巨大能量可掀20米海嘯奪10萬人命	https://news.google.com/rss/articles/CBMiogNBVV95cUxObTlXTzl5eWNBYzF2cDVDRnhPc2x6Vi02dEFQZ1E3cUwwYWNBM2pUVzhCY0NlQk5DVVUzdGdkT09aMmxZS0hOYnlkNnR3UU1DcUMtRVhrM1hoU3N3WjItUnpZRU4xaFlpM1dTVk04YW1RaG5aTTZKenlKOWk3NDE4QWRQd1g5QzA3M25vRlU0RzJ2YnowdkNHQkswMFBNeXdoUVRNZGdyWTlKd3FzalNWLWhWNG9QcjdZVExXRkxiME11UnJVRWZlY2JKamExVjRpOGp1bVU2OVdiMHlIeEhRZkVwYjZNa3BxLVVXVXpHU2ZfT3dHbHkyUGEzXzZVbWEyZEN4ZGMxN1hsU25SRFVqWFRkSWZXaUNWb05GYy1sZlJXSUhZYjE4ajJPUmMwcUxJSzFRbGJnSldHMWVLQm5HZUdTbldSYVJvT1FPZFdZRTl6UXU2am16VFEzaDVORTZZTFFaWnVEbXlZRzA5emk2Q3Ayb3pjRXRwVE5UOVBUVWZ0dHlrdWxxOHhoV1k3Y01KZ0VmTGpsdlJiaWYxUXNHZlZn?oc=5	地震
 2026-03-09	西藏泥石流｜逾1200人死數千人仍失蹤 尼泊爾擬重建山泥傾瀉預警系統	https://www.stheadline.com/realtime-china/3611192/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E9%80%BE1200%E4%BA%BA%E6%AD%BB%E6%95%B8%E5%8D%83%E4%BA%BA%E4%BB%8D%E5%A4%B1%E8%B9%A4-%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%93%AC%E9%87%8D%E5%BB%BA%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89%E9%A0%90%E8%AD%A6%E7%B3%BB%E7%B5%B1	水災
 2026-03-09	尼泊爾山洪災逾1100人亡! CNN：川普去年曾削減山崩監測計畫資金	https://tw.news.yahoo.com/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA%E7%81%BD%E9%80%BE1100%E4%BA%BA%E4%BA%A1-cnn-%E5%B7%9D%E6%99%AE%E5%8E%BB%E5%B9%B4%E6%9B%BE%E5%89%8A%E6%B8%9B%E5%B1%B1%E5%B4%A9%E7%9B%A3%E6%B8%AC%E8%A8%88%E7%95%AB%E8%B3%87%E9%87%91-085245321.html	水災
+2026-03-09	伊朗稱美國襲擊「德納」號護衛艦已造成104死32傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/09/AP69ae0c8ce4b04d7d56d762c0.html	未分類
 2026-03-08	（有片）伊朗小學遭襲至少175死 特朗普竟稱「伊朗炸的」	https://www.dotdotnews.com/a/202603/08/AP69ad2715e4b0c32d4f6b20d5.html	未分類
 2026-03-07	美軍暴行 伊朗小學被炸釀175死	https://epaper.tkww.hk/a/202603/07/AP69ab3620e4b04773b069f854.html	未分類
 2026-03-07	緬省60歲婦駕SUV撞入商場亡 現場宛如地震過後	https://www.singtao.ca/7438219/2026-03-07/news-緬省60歲婦駕suv撞入商場亡++現場宛如地震過後/	地震
+2026-03-06	（有片）美以襲擊伊朗一兒童遊樂場 已致20死	https://www.dotdotnews.com/a/202603/06/AP69aa97dfe4b0c32d4f6aea14.html	未分類
+2026-03-06	（有片）最新！美以襲擊已致伊朗1332人死亡- 國際	https://www.dotdotnews.com/a/202603/06/AP69aaa9a3e4b0c32d4f6aec52.html	未分類
+2026-03-06	伊朗：美以襲擊已造成1332名伊朗人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/06/AP69aa96b9e4b04d7d56d6ecfe.html	未分類
+2026-03-06	伊朗：美以襲擊已造成1332名伊朗人死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/03/06/content_8743385.html	未分類
+2026-03-05	最新！美以襲擊已致伊朗1230人死亡- 國際	https://www.dotdotnews.com/a/202603/05/AP69a96c3ce4b0c32d4f6acecc.html	未分類
+2026-03-05	伊朗：美以襲擊已造成1230名伊朗人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/05/AP69a97d46e4b04d7d56d6c457.html	未分類
 2026-03-04	（有片）美軍轟炸伊朗小學致165死民眾為遇難學生舉行葬禮- 國際	https://www.dotdotnews.com/a/202603/04/AP69a7902fe4b0c32d4f6a958a.html	未分類
 2026-03-04	美軍備戰伊朗 指揮官引聖經末日論稱特朗普受耶穌膏立	https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlZWcTBsMHNDb0tzbDdEM0pZd2xkYk9hS3ZFM1JrQ2ZiT2JyMVdzbGF6M3JqcEFTSWZqWTRiV29SVWlhZUdiT1Vid2RFWTF5S01GLVRGTVBTbEdLZTBGWEZzVHlvSGZPZkZjM1RxRkxKRlowano1YjZzcFpsY0NZVTBIcFdsQkZiMmstSmdZQXFMbVhDQkJEWVQ0TmtSLTBmWHB6WVhTbkhqc2o5WmVFd3BZVDJITDZkcTc5eUFiWXJCQ09Hc0YxWUl5MA?oc=5	未分類
 2026-03-04	美國公布死亡美軍詳細信息 最細僅20歲	https://www.tkww.hk/a/202603/04/AP69a79d46e4b04773b069e704.html	未分類
@@ -2254,6 +2240,7 @@ var DATA_DISASTER = `
 2026-03-02	特朗普警告伊朗 報復將再受重擊夥以軍空襲釀逾200亡 多國被牽連	https://www.hkej.com/dailynews/international/article/4328580/特朗普警告伊朗+報復將再受重擊	未分類
 2026-03-02	浙江泰順發生4.2級地震？ 浙江地震局闢謠	https://www.singtao.ca/7431832/2026-03-01/news-浙江泰順發生4.2級地震？+浙江地震局闢謠/	地震
 2026-03-02	哈米尼亡！伊朗人盼獲自由 全球街頭歡呼舞旗	https://tw.news.yahoo.com/哈米尼亡-伊朗人盼獲自由-全球街頭歡呼舞旗-155600125.html	未分類
+2026-03-02	伊朗紅新月會：伊朗死亡人數已升至555人	https://www.singtaousa.com/2026/03/02/news/world/iran-death-toll-reaches-555-as-us-israel-escalate-attacks/	未分類
 2026-03-02	以軍襲擊黎巴嫩已致31死149傷	https://www.wenweipo.com/a/202603/02/AP69a52b3ce4b04d7d56d60649.html	未分類
 2026-03-02	三名美軍士兵在美伊衝突中死亡，凸顯美國戰爭風險- 紐約時報中文網	https://cn.nytimes.com/usa/20260302/iran-war-troops-deaths-casualties/zh-hant/	未分類
 2026-03-01	美以襲伊朗 | 新華社：伊朗前總統艾哈邁迪內賈德遇襲亡 (21:50) - 20260301 - 國際	https://news.mingpao.com/ins/國際/article/20260301/s00005/1772373046450/美以襲伊朗-新華社-伊朗前總統艾哈邁迪內賈德遇襲亡	未分類
@@ -2261,6 +2248,7 @@ var DATA_DISASTER = `
 2026-03-01	伊朗局勢︱美軍首用秘密武器LUCAS無人機 原來「山寨」伊朗產品	https://www.singtao.ca/7431225/2026-03-01/news-伊朗局勢︱美軍首用秘密武器lucas無人機++原來「山寨」伊朗產品？/	未分類
 2026-03-01	伊朗導彈反擊｜革命衛隊稱美軍已逾560人死傷 中情局6高官亡	https://www.singtao.ca/7431939/2026-03-01/news-伊朗導彈反擊｜革命衛隊稱美軍已逾560人死傷+中情局6高官亡/?variant=zh-hk	未分類
 2026-03-01	亂套了！民眾收到浙江4.2級地震預警 浙江否認	https://www.ntdtv.com/b5/2026/03/01/a104071813.html	地震
+2026-02-28	巴基斯坦向阿富汗宣戰兩國互轟逾320人亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202602/28/AP69a1f993e4b04d7d56d586ee.html	未分類
 2026-02-27	菲律宾坎拉翁火山爆炸性喷发 火山灰柱达2500米	https://www.jpchinapress.com/static/content/SS/2026-02-27/1476993984105681563.html	火山
 2026-02-27	石門水庫今年第二次人工增雨 北水分署成立旱災應變小組	https://news.pchome.com.tw/society/tyenews/20260227/index-77215630515932343002.html	乾旱
 2026-02-27	有片｜米蘭市中心電車出軌撞入商店窗櫥 釀2死約40傷 乘客：以為地震	https://www.singtao.ca/7429696/2026-02-27/news-有片｜米蘭市中心電車出軌撞入商店窗櫥	地震
@@ -2305,21 +2293,26 @@ var DATA_DISASTER = `
 2026-02-05	以軍襲擊加沙多地造成至少18人死亡-新華網	http://big5.news.cn/gate/big5/www.news.cn/world/20260205/037a8816d4304e408969ce2749df501f/c.html	未分類
 2026-02-04	日本連日暴雪增至30死 多人除雪時遇難	https://epaper.tkww.hk/a/202602/04/AP698256e5e4b0aa6cbcd3e3b5.html	極端天氣
 2026-02-02	巴基斯坦俾路支省反恐行動打死145名恐怖分子	https://www.hkcd.com.hk/hkcdweb/content/2026/02/02/content_8738363.html	未分類
-2026-03-02	伊朗紅新月會：伊朗死亡人數已升至555人	https://www.singtaousa.com/2026/3/02/news/world/iran-death-toll-reaches-555-as-us-israel-escalate-attacks/	未分類
 2026-02-01	19歲網紅與表弟登山遇暴雪亡 鬥牛㹴雪地伴屍4天守護		極端天氣
 2026-01-26	美軍直升機著陸 日本教師遭旋風吹倒死亡	https://std.stheadline.com/realtime-world/3538922/%E7%BE%8E%E8%BB%8D%E7%9B%B4%E5%8D%87%E6%A9%9F%E8%91%97%E9%99%B8-%E6%97%A5%E6%9C%AC%E6%95%99%E5%B8%AB%E9%81%AD%E6%97%8B%E9%A2%A8%E5%90%B9%E5%80%92%E6%AD%BB%E4%BA%A1	未分類
 2026-01-26	死亡旋風︱美軍直升機著陸 日本女教師遭吹倒不治	https://www.stheadline.com/realtime-world/3538922/%E6%AD%BB%E4%BA%A1%E6%97%8B%E9%A2%A8%E7%BE%8E%E8%BB%8D%E7%9B%B4%E5%8D%87%E6%A9%9F%E8%91%97%E9%99%B8-%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%95%99%E5%B8%AB%E9%81%AD%E5%90%B9%E5%80%92%E4%B8%8D%E6%B2%BB	未分類
 2026-01-25	美軍直升機著陸 日本教師遭旋風吹倒死亡		未分類
 2026-01-25	死亡旋風︱美軍直升機著陸 日本女教師遭吹倒不治		未分類
 2026-01-22	阿富汗避戰人民被遣返 加劇國內糧食危機	https://news.google.com/rss/articles/CBMiT0FVX3lxTE56WGN1ZncxbmpCVHRoNXNvaEJUVXlRZFJTek5DV0pWekp5TzJiaUxWakNvckk0YWpPSjNBaG8ydHpjUUlCYUdtRnNyRUs3SG8?oc=5	未分類
+2026-01-21	巴基斯坦商場大火釀慘劇 16出口鎖死13個 倖存者憶述絕望求救	https://www.singtaousa.com/2026/01/21/news/world/gul-plaza-survivors-tell-of-pakistan-mall-fire-horror-bbc-news/	大火
+2026-01-19	巴基斯坦商場大火焚燒逾一日 增至14死65人失蹤 (15:39) - 20260119 - 國際	https://news.mingpao.com/ins/國際/article/20260119/s00005/1768806274323/巴基斯坦商場大火焚燒逾一日-增至14死65人失蹤	大火
 2026-01-19	伊朗局勢︱特朗普：軍事行動或持續四周 中國外交部：有公民在德黑蘭死亡︱不斷更新	https://www.stheadline.com/realtime-world/3548402/伊朗局勢特朗普軍事行動或持續四周-中國外交部有公民在德黑蘭死亡不斷更新	未分類
+2026-01-12	要聞分析 - 伊朗示威死亡恐達數千 伊朗願與美國談判 神棍體制還能撐多久？	https://www.rfi.fr/tw/專欄檢索/要聞分析/20260112-伊朗示威死亡恐達數千-伊朗願與美國談判-神棍體制還能撐多久	未分類
 2026-01-09	美國大峽谷暴雨引發山洪致2死1失蹤 目擊者：火車聲般的巨響	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/499894/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B3%BD%E8%B0%B7%E6%9A%B4%E9%9B%A8%E5%BC%95%E7%99%BC%E5%B1%B1%E6%B4%AA%E8%87%B42%E6%AD%BB1%E5%A4%B1%E8%B9%A4-%E7%9B%AE%E6%93%8A%E8%80%85-%E7%81%AB%E8%BB%8A	水災
 2026-01-09	俄羅斯空襲烏克蘭首都地區 造成至少11 人死亡	https://www.bastillepost.com/hongkong/article/16681683-%E4%BF%84%E7%BE%85%E6%96%AF%E7%A9%BA%E8%A5%B2%E7%83%8F%E5%85%8B%E8%98%AD%E9%A6%96%E9%83%BD%E5%9C%B0%E5%8D%80-%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%9111%E4%BA%BA%E6%AD%BB%E4%BA%A1	未分類
+2026-01-09	伊朗最高領袖哈梅內伊誓言鎮壓抗議 死亡人數破60	https://www.singtaousa.com/2026/01/09/news/world/iran-supreme-leader-signals-upcoming-crackdown-on-protesters-ruining-their-own-streets-for-trump/	未分類
 2026-01-08	美軍襲擊委內瑞拉已致100死包括平民- 國際	https://www.dotdotnews.com/a/202601/08/AP695f12dce4b0c32d4f65622a.html	未分類
 2026-01-08	法國遭寒潮暴雪襲擊 多地交通事故至少5死		極端天氣
 2026-01-08	快訊／委內瑞拉：美軍突襲抓馬杜洛「造成100人死亡」	https://www.ettoday.net/news/20260108/3097481.htm	未分類
 2026-01-07	（有片）襲擊釀80死 委內瑞拉居民樓被美軍導彈命中 民眾回憶「驚魂一刻」	https://www.dotdotnews.com/a/202601/07/AP695e0a24e4b0c32d4f6551b4.html	未分類
 2026-01-07	沙特空襲也門致4人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/07/AP695e00dbe4b0431d8d0fc587.html	未分類
+2026-01-05	伊朗抗議驚傳三童死亡，安全部隊被控「無差別」鎖定平民	https://www.singtaousa.com/2026/01/05/news/world/three-children-dead-in-iran-protests-as-security-forces-accused-of-indiscriminate-targeting/	未分類
+2026-01-05	【伊朗示威第九天】全國多省民眾持續上街至少20死 特朗普：若再有示威者死亡 伊朗將遭非常沉重打擊	https://www.singtao.ca/7379761/2026-01-05/news-【伊朗示威第九天】全國多省民眾持續上街至少20死++特朗普：若再有示威者死亡++伊朗將遭非常沉重打擊/	未分類
 2026-01-04	空襲委內瑞拉 | 美軍空襲波及民宅 有平民死亡 社區房屋受損	https://www.singtao.ca/7379183/2026-01-04/news-空襲委內瑞拉+|+美軍空襲波及民宅+有平民死亡+社區房屋受損/?variant=zh-hk&appedition=vancouver	未分類
 2026-01-03	瑞士酒吧大火增至47死意大利16歲高爾夫球手罹難- 國際	https://www.dotdotnews.com/a/202601/03/AP69588c5ae4b0c32d4f64ea43.html	大火
 2026-01-03	墨西哥南部6.5級地震釀最少兩死 (11:09) - 20260103 - 國際	https://news.mingpao.com/ins/國際/article/20260103/s00005/1767410020701/墨西哥南部6-5級地震釀最少兩死	地震
@@ -2329,6 +2322,7 @@ var DATA_DISASTER = `
 2025-12-08	泰柬再爆邊境衝突 泰方指柬方施襲致泰兵死亡 派戰機空襲還擊 (09:56) - 20251208 - 國際	https://news.mingpao.com/ins/國際/article/20251208/s00005/1765158777180/泰柬再爆邊境衝突-泰方指柬方施襲致泰兵死亡-派戰機空襲還擊	未分類
 2025-12-08	印度夜總會火警至少25死 無中國公民傷亡		大火
 2025-12-06	阿富汗媒體：阿巴邊境衝突造成阿富汗4死4傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202512/06/AP6933c7bce4b019322230a6f0.html	未分類
+2025-12-02	屯門安定邨火警情侶送院女子刀傷亡男子涉謀殺被捕- 香港 - 香港文匯網	https://www.wenweipo.com/a/202512/02/AP692e4eafe4b0b42c2c426c0a.html	大火
 2025-12-01	塔吉克阿富汗邊境五名中國人被打死	https://www.rfi.fr/tw/中國/20251201-塔吉克阿富汗邊境五名中國人被打死	未分類
 2025-11-10	24小時降雨量突破歷史極值 福建上杭縣暴雨已致4死 6.6萬人受災	https://hk.on.cc/cnt/news/20251110/bkn-20251110121320244-1110_00822_001.html	水災
 2025-11-08	南韓蔚山火電廠鍋爐塔坍塌事故罹難者增至3人 有2人仍下落不明		山火
@@ -2379,6 +2373,7 @@ var DATA_DISASTER = `
 2022-12-04	伊朗示威｜官方首通報示威逾200死 伊朗檢討女性戴頭巾規定 conflict	https://skypost.ulifestyle.com.hk/article/3413767/%E4%BC%8A%E6%9C%97%E7%A4%BA%E5%A8%81%EF%BD%9C%E5%AE%98%E6%96%B9%E9%A6%96%E9%80%9A%E5%A0%B1%E7%A4%BA%E5%A8%81%E9%80%BE200%E6%AD%BB%20%E4%BC%8A%E6%9C%97%E6%AA%A2%E8%A8%8E%E5%A5%B3%E6%80%A7%E6%88%B4%E9%A0%AD%E5%B7%BE%E8%A6%8F%E5%AE%9A	未分類
 2022-12-03	快訊/印尼又發生規模6.4地震 尚無人員傷亡傳出 quake	https://tw.news.yahoo.com/%E5%BD%B1-%E5%BF%AB%E8%A8%8A-%E5%8D%B0%E5%B0%BC%E5%8F%88%E7%99%BC%E7%94%9F%E8%A6%8F%E6%A8%A16-4%E5%9C%B0%E9%9C%87-%E5%B0%9A%E7%84%A1%E4%BA%BA%E5%93%A1%E5%82%B7%E4%BA%A1%E5%82%B3%E5%87%BA-114009205.html	地震
 2022-12-03	印尼西爪哇發生5.7級地震 暫無受傷或嚴重損毀報告 quake	https://news.rthk.hk/rthk/ch/component/k2/1678334-20221203.htm	地震
+2022-12-02	維州海軍基地軍人接連4名軍人自殺 軍方被指責未正視精神健康	https://www.singtaousa.com/2022-12-02/維州海軍基地軍人接連自殺軍方被指責未正視精神/4346959	未分類
 2022-12-01	陶波5.6级地震后引发了海啸，会不会发生更强烈的地震？ quake	https://www.chineseherald.co.nz/news/new-zealand/expert-weighs-in/	地震
 2022-12-01	歐盟高層：烏克蘭逾10萬軍人陣亡 兩萬平民喪生 conflict	https://hk.on.cc/hk/bkn/cnt/intnews/20221201/bkn-20221201160047807-1201_00992_001.html	未分類
 2022-11-29	高溫上看33度 入夜北台灣變天 明起3天濕冷低溫降至16度 freeze	https://udn.com/news/story/7266/6800482	未分類
@@ -2554,5 +2549,6 @@ var DATA_DISASTER = `
 2022-06-20	廣西暴雨28條河現超警洪水 國家防總工作組指導珠江流域防汛工作 Rainstorm Flood	https://www.hk01.com/sns/article/783651	水災
 2022-06-17	猴子饑餓到襲擊人類 持續乾旱非洲陷糧食危機 俄烏戰爭加劇缺糧 Hunger	https://www.hk01.com/sns/article/782506	乾旱
 2022-03-08	兩會｜水利部：今年內地北部及南部較大可能有洪水 中部或乾旱 No Water	https://www.hk01.com/sns/article/744537	水災
-2022-12-02	維州海軍基地軍人接連4名軍人自殺 軍方被指責未正視精神健康	https://www.singtaousa.com/2022-12-02/%e7%b6%ad%e5%b7%9e%e6%b5%b7%e8%bb%8d%e5%9f%ba%e5%9c%b0%e8%bb%8d%e4%ba%ba%e6%8e%a5%e9%80%a3%e8%87%aa%e6%ae%ba%e8%bb%8d%e6%96%b9%e8%a2%ab%e6%8c%87%e8%b2%ac%e6%9c%aa%e6%ad%a3%e8%a6%96%e7%b2%be%e7%a5%9e/4346959	未分類
-2013-10-03	熱浪來襲，是天災還是人禍？ Warming	https://pansci.asia/archives/54475	極端天氣`;
+2013-10-03	熱浪來襲，是天災還是人禍？ Warming	https://pansci.asia/archives/54475	極端天氣
+2010-06-02	【暗網大地震】Apple、Tesla 供應鏈出事！Tata 證實遭黑客入侵20 萬份機密流出專家：新 iPhone、電動車敏感資料看光光？	https://ezone.hk/article/20100602/暗網大地震-apple-tesla-供應鏈出事-tata-證實遭黑客入侵-萬份機密流出-專家-新-iphone-電動車敏感資料看光光	地震
+`;
