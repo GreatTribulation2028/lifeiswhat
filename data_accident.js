@@ -1,4 +1,4 @@
-// 意外 | 由 build_news_js.py 生成 | 共 1285 條
+// 意外 | 由 build_news_js.py 生成 | 共 1288 條
 var DATA_ACCIDENT = `
 2026-10-01	老翁二度跌倒眼角流血還想硬撐走 警耐心勸導擦藥送返家	https://news.ltn.com.tw/news/society/breakingnews/5591695	未分類
 2026-10-01	宜蘭農婦「種菜失足踩空」墜70米懸崖 卡山壁2小時奇蹟獲救	https://www.ettoday.net/news/20261001/3247038.htm	未分類
@@ -611,6 +611,7 @@ var DATA_ACCIDENT = `
 2026-05-23	已致90人死亡！山西煤礦爆炸涉事企業曾被列入「全國災害嚴重生產煤礦名單」 - 神州 - 香港文匯網	https://www.wenweipo.com/a/202605/23/AP6a1154bbe4b0b49ad1bc5472.html	未分類
 2026-05-23	山西礦難｜山西煤礦氣體爆炸 增至逾90人死 (14:05) - 20260523 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260523/s00004/1779504855975/山西礦難-山西煤礦氣體爆炸-增至逾90人死	未分類
 2026-05-23	山西煤矿爆炸事故幸存者讲述遇险经过：没听见任何响声，就是出现一股烟，跑的过程中晕倒了，躺了一个多小时自己醒过来	https://news.qq.com/rain/a/20260523A06J8C00?adChannelId=news_news_top	未分類
+2026-05-22	大角咀凍肉舖工業意外 男工遭切肉機切斷食指	https://news.google.com/rss/articles/CBMizwJBVV95cUxOdFBOc1liZ2Y0UjlaSFJwQUJHYzJnMDNfTW40RTd2Z3ppQlJfazUtZjZObFNkM2oxMExPcllJRGNWa25GeFVVMk5lWFBMaldnM1FuR0dOTVByUWdVNGpDcW9BNEk3YXlITUxHa01SXzR0Z0NVLXdXaGx1bVI1YlFrVDRVcUh4d2NPWGF3Q2R4NFpjOGVlZ1Y5TlpYUnpJZDRIbFVmTkVKeHl2bVRQMnJ1azdpdUgxb2dpc3FOY0s5NFFScnZiYkN5OFN4c1ZGSzBuLTI5VGM3QWhwNG95OXZZcjFXZEdWYlcwR0dlMWZmTW51Y19wSGVQdnpnNmhwVm5wbkFPcXd6dnZWU282MGZiQ0lmWVhab2RQR3E5RmF6ZGhtTUN5WDZBMDFJR1ZjOHp6dHk2VnBka3R6dHlxTzdpamZHQXdkWFEwTWI5R1c2Zw?oc=5	未分類
 2026-05-21	【投稿】陳錦聲﹕兩宗地盤意外看香港職安困局	https://news.google.com/rss/articles/CBMixwJBVV95cUxQQkQyRC03NGhKZjYtQ3c2M1RfME9rRDFyN1BmWk5pc0cyaTJBbkVWR19qSXBNUHZhMlJZQWFwZUk5cEdVem05Rk8tWXlocUpzbDc1ckdkNUVQMkwycmdRZ29PeFNHdEtwVXktMlFKSE1wa1ZyeUZqSEFVYzZRd2toLUJTa0pnVzRJSkl3enRxVHFEanBXdmxHVlVYbnV6eHdQSjRiSWFVSEw3NWpIQ2NDYlBKS2g2SGZUVHh1T2I5cVhEam9fTE9KQzFMQ3c0M0hRem1vY0lsQVVtMXdid1plZUpjWVJ2WEYxQ3J6ZDdKT0tDSXRrYlFFVW5nTjAwX0NBa2VwWi1fOWtRTjE4dFlsWHl5NEotQVR0Y0R2bDJFOF9HcXAtaGVGUDhwZlczZ2lSRDBzaDlPSFBqYWdZQ1Z2YUxleFRWM1E?oc=5	未分類
 2026-05-20	沙田乙明邨61歲男子失足 單位露台墮下亡 重案組跟進調查	https://www.singtao.ca/7510389/2026-05-20/news-沙田乙明邨61歲男子墮樓亡+重案組跟進調查/	未分類
 2026-05-20	來稿｜應作「安全示範工程」的政府地盤 為何屢爆工業意外？	https://news.google.com/rss/articles/CBMi-gJBVV95cUxQcFhLSlZXTDd5elBXQXBVT1RRWTUzZW1BZjhGa0g4Z0tzSThmYlFnSVZCV2ZaOUpNS014UHNvbG9TbGc5b1hQWHIzNDdyMlZMTDgtdU5hMVhmZGdXUFNybzVYSEpUV2pMT0FFQlREODlZQ1RybXk0SlZidEQyRFM3emdQdWdwYUlBTTlGc3pVUWU4djBrdW5uNHVXcHhQMkxtanBuUm5TZnRZOXo0RURmNU1LTXRxVXRQZWJmLW5WNXVBa0ltdEVtX2FBQmt5cVNVYjIxR1M2QmVfVUhCN1o2ZlVacXhRbHAxLVdkc1luWXJSVWtRT2VWUkVfenRmXy1iZTlRRjNrM0NQTDF2R1dvRlBUb0tOWENuTS0zT2p6Q1FQQnZHX0hYckM5cnZVR08wa2JaU1ZhUnVuSGpkZDBtWDFCSjFVWGlabGpMMlA3aVI2VDlCUTlBaEk0Rzl0dXhPOThPc2dQdVJJcTZMYnhfeEw0MnJrZDRXc0E?oc=5	未分類
@@ -627,6 +628,7 @@ var DATA_ACCIDENT = `
 2026-05-05	（有片）湖南瀏陽煙花廠爆炸 增至21死61傷	https://www.dotdotnews.com/a/202605/05/AP69f9420fe4b09ea233145cc0.html	未分類
 2026-05-05	湖南瀏陽煙花廠爆炸事故已致26人死亡61人受傷- 神州 - 香港文匯網	https://www.wenweipo.com/a/202605/05/AP69f986cae4b0b49ad1b99bb9.html	未分類
 2026-05-05	抑鬱遊客穿玻璃天幕墮酒店大堂亡 壓傷婦人 - 20260505 - 港聞	https://news.mingpao.com/pns/港聞/article/20260505/s00002/1777917676022/抑鬱遊客穿玻璃天幕墮酒店大堂亡-壓傷婦人	未分類
+2026-05-05	勞工處高度關注赤柱浪琴園致命工業意外 已發出暫時停工通知書	https://news.google.com/rss/articles/CBMi7wJBVV95cUxNTWdWRFJtaUh0NWthUkRSWXRLZ2lWUzZZdk5ES2paNnU1b1ktRks4YVNrbjB5UnNRc3hHVXFGTnVidkVDTzFLSjFOX2NaMzV1d1BEQ0dReW9kcHQ1VkpJbnNKV1FReFVreVdsMUNURFZBWDdqOThpOVFTa1hEdXc5U1NVRTNiM0JZTUhGMzJkRlRxLTF1dkktbnpiRmwyaG1BbmozTkUwbjN1a1RhbVZzMlJSM0FXRl9wa1VoWENaR1ZIM1QtVmtOTFFhQUs2TUFjWkh6Z0plZlhvM25ycVRyRjJ5aWFBcmtQNUN5TXNHRDV1MVRoU2N6U2hDZ09vZFlpeDVVdHBXTmY1UTJINV9uWm05REkwbmRUQjNKcXBpeUxyaVJHTUR2UlRlWWV5TmxLSmxkWllmdjBnc1M0d1VjU2RuNTR3cC11MjVPb25rMlNtTUVSdUo1dEJLZFFvMGJHTmJPaTUyT1RmRFg3aDdj?oc=5	未分類
 2026-05-05	兩港人攀日本飛驒山脈被困日媒指當中22歲居日男不治- 香港 - 香港文匯網	https://www.wenweipo.com/a/202605/05/AP69f9ba98e4b0b49ad1b9a188.html	未分類
 2026-05-04	（有片+多圖）外籍婦灣仔飛墮酒店大堂亡1女子慘遭壓傷- 港聞	https://www.dotdotnews.com/a/202605/04/AP69f8028be4b09ea2331446b8.html	未分類
 2026-05-01	領航工落錨失足墮海亡 - 20260303 - 港聞	https://news.mingpao.com/pns/港聞/article/2026033/s00002/1772475434871/領航工落錨失足墮海亡	未分類
@@ -664,6 +666,7 @@ var DATA_ACCIDENT = `
 2026-03-26	未充电电动牙刷突爆炸 女子惊险逃命	https://www.chinapress.com.my/20260326/未充电电动牙刷突爆炸-女子惊险逃命/	未分類
 2026-03-25	疑沒拉手掣拖頭撞拖架 司機夾斃 - 20260325 - 港聞	https://news.mingpao.com/pns/港聞/article/20260325/s00002/1774375565627/疑沒拉手掣拖頭撞拖架-司機夾斃	未分類
 2026-03-25	疑沒拉手掣拖頭撞拖架 司機夾斃 - 20260325 - 圖片看世界	https://news.mingpao.com/pns/港聞/photo1/20260325/s00002/1774375565627/1774375565626	未分類
+2026-03-23	工業意外飆 倡調高平安卡課時下限	https://news.google.com/rss/articles/CBMi2gJBVV95cUxOZGIzY0FNMWNQTVFkbVUzcVFMRDVOYUw1bHE4emdHUUVSNzNjTS1rNDhHaURBM0ZNaTR4RGZEWXpCa2o5amRwSHBaREFQX1NqckJMQWdtTmxlZ0R1aTV4MmZWUmtpQ2xfZ1VodXVuTHJEbWJ6dWlXOElkdExOdWcxdkVEc3YxWTFiWkltOVl4azF3M3NqbGpSU2QyZUlNVVZkQXRhck1hSmJELXM4djkwM1BQbW5qVDB4TWlNUktVcU9xTTN3NkpYS3lmbnB1OHloWEd4b2VibTBJMWlNa2l1ZVZMeXFXSXdNY1Rmd2d1a19wX3N1Mk05c3NXY2taSlM2V1R5UDhiZVpIZDNsTlVUUlUwOFAzNEQ2bHQ3QVNrOTY5ZkgzbnhvZkEzU3ZOWGUxelo4TndmUW9jb0lrLTFhSDRKd196dFczdEF1bG9MZmc1OVJiODhMLTN3?oc=5	未分類
 2026-03-21	山西馬騮仔失足跌落山爆頭亡 義氣猴群阻管理員執屍︱有片	https://std.stheadline.com/china-topics/3554697/山西馬騮仔失足跌落山爆頭亡-義氣猴群阻管理員執屍有片	未分類
 2026-03-12	秘境「巨人之手」工安意外！工人沒安全繩摔死 工地主任判6月	https://www.ettoday.net/news/20260312/3131050.htm	未分類
 2026-03-12	教育界憂學童過早接觸電子產品成「電子奶嘴」 倡加強監管網絡	https://www.hk01.com/社會新聞/60347654/教育界憂學童過早接觸電子產品成-電子奶嘴-倡加強監管網絡	未分類
