@@ -1,4 +1,4 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3633 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3635 條
 var DATA_SUICIDE = `
 2026-10-01	無照保母虐1歲嬰呼巴掌、K頭奪命 眼睛上吊還說「應該沒事」	https://www.ettoday.net/news/20261001/3247062.htm	未分類
 2026-09-30	（有片）以媒：預警客機飛行員或意圖墜機 當局循「自殺未遂或試圖蓄意墜機」調查	https://news.google.com/rss/articles/CBMiekFVX3lxTE1pamg3cUhwM2RzLWl0OEZma2pYZ2lkYmRCTlZLX3g0OThNNjZ0VEdhQ1VqLThTZ0V2N2JEYXZwZnpCbHUzZWlyR3J4Y2JacTlBZTA5U1B0dVg1Z2R0OXQyeVJ4S1doN2JvazNfVTJsS19UdjhzUGYzQ3B3?oc=5	未分類
@@ -1788,6 +1788,7 @@ var DATA_SUICIDE = `
 2026-09-15	兩男女芝麻灣疑車內燒炭亡 (17:22) - 20260915 - 港聞	https://news.mingpao.com/ins/港聞/article/20260915/s00001/1789464190738/兩男女芝麻灣疑車內燒炭亡	未分類
 2026-09-14	絕望困局/退伍軍人陷自殺貧困雙重危機- 國際	https://epaper.tkww.hk/a/202609/14/AP6aa70499e4b05bea531727c2.html	未分類
 2026-09-14	珍惜生命｜深水埗丽阁邨79岁翁堕楼 当场不治	https://global.hk01.com/突发/60389576/珍惜生命-深水埗丽阁邨79岁翁堕楼-当场不治	未分類
+2026-09-14	密室逃脫員工扮上吊鬼失去意識 業者違反多項職安規定遭停業	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sZ1NiRnY2cV9OWG1JamIyUnlIQVZPZmVRdVZiTkY2akNJNzRpZF9raXp1T215elZpMEFydjV3SXgwVnhIUUFJeGZrbzR2djQ?oc=5	未分類
 2026-09-14	前夫詐巨款遭通緝 女星3度輕生獲救 隔壁床竟是冤家	https://www.worldjournal.com/wj/amp/story/121478/9752488	未分類
 2026-09-14	兩周七宗學童輕生背後——我們的教育出了什麼問題？	https://news.google.com/rss/articles/CBMi8wJBVV95cUxNNTRMbExjdXVmc3d6aGdiYlV3M3dYYlZMZWI3MlpMa2oxbG5kaEl0Y0gyNUNVd3dkbDhPZ25sNjBiOF84N1RjMzl0NC1DTE9qbktFYXN4U3RpX2FhY3BhVWUtT2FtMVpBWFowalZHNmxNbjJjZ0c4bDhjNmpUN3IzVXlaMmpuZGlYZFZpX29TcGVwX2hTRVRIYmVPbFdCWC1qOEN3RjVQdWt0d1pKNjVTRWFXN3JEU05FYmdYVVlaRFdHTVB1TmhCQ3VCR3d0aC1TVWl0Y1BYS2thOVBBbzMyTWcybld5VEhab1RCNzR1VFJQdlF2SllseXNFdDk3LXEzWXF4aG5ZMXAwNWlTRTNXRXVnam9nUWdiQ2l3UENQdF9wc0h5UmctNUhVQVRLRDZxVlhONC1BanhQa2hzYmpxb1I0TklISlNQa0tHVkdINGhPZ280c1JWOTU5dnpHdnhpZUNWTWN3WDNFcHdpMUtKWGlIZw?oc=5	未分類
 2026-09-13	黃大仙財困男 尼龍繩自縊亡	https://hk.on.cc/hk/bkn/cnt/news/20260913/bkn-20260913222205633-0913_00822_001.html	未分類
@@ -2846,6 +2847,7 @@ var DATA_SUICIDE = `
 2026-01-02	AOA前成員珉娥自殺未遂 長文揭多年創傷與輿論壓力	https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZeUNUV29adXpMcUhjWFVsTHRoRDJQSnVVWFRjT3BYZEpGMC0yNlRHRTFkZXVuaUdReGZSNGFrM1I0MU9TaDdGLW5XVDZmcXpUbG15Tw?oc=5	未分類
 2026-01-01	珍惜生命│葵涌貨櫃物流中心停車場 44歲男司機車內燒炭亡	https://www.singtao.ca/7376727/2026-01-01/news-葵涌貨櫃物流中心停車場+40多歲男司機昏倒車內當場不治/?variant=zh-hk&appedition=toronto	未分類
 2026-01-01	對當年被欺凌感委屈 珉娥自爆再試圖自殺獲救	https://news.google.com/rss/articles/CBMilwFBVV95cUxQenhlaXlNcnlUZmc2UUlEVmtvdUljUmNfTmpGVnVNZzV4U21wYkdhY0JVTmNxU1pMLXJoT2VfWEVRT3RiNUJqenV2WldtSi1HMk5pUmtYVGQyMGJicmpVYkhQN1ExTlBBTGJ4cnktcXl4Q1NXcUk0WDhVWEs4MUM1Y0FneVZ3aDJrbU94MndGRFRMNlBraXpj?oc=5	未分類
+2026-01-01	前AOA成員珉娥元旦驚傳輕生 曾失去意識2小時後獲救再發文自責：毀掉了自己	https://news.google.com/rss/articles/CBMi1ANBVV95cUxOcEJNRUpYclVQUE93dDBIN3VYNnl0eklEbDZtbWxjMnN3b1lKX0F0LWlWaEhDak9HYlZLNjRVVWpxbkhnY09fYmRXeXJkMGRDMkFIU2pzV2QwZEUwRHJsbjNlbWVGWVVVR0lLNGFCcGFtdWs5eWtGMThlWUhYX3Z1OU5meXkxeUcyM0tVQlJHNjRSRzUyZ3kwTGFBXzlTbzlDN3ZNRmNZMFVCRFhkU2RhRGtGdk1UU2dXVW1zd2ZpZHlDcmR0RWV0c0VhTk9PQzFnNXhhbGhyTVBfazFDR2RrdE5OVExuT2IxYnZTVmxpOHJyTEliSDZoRHNMUGVKZkR3Y1ZoSFJYTVh3VVlJdS14alFxQkZZUVBGZWZ5dndzQXlELTVhdjBwbU1JMFZBQWZzWllqcnFSWXRLclp4NmxRVHAtblcycEFvTzB2bG5VdnAzY0VNcmF3eXZCVkFTMFhfbm1uVnQ4LVZyYzVISFhfemMtRWhZTXpRQ3pkcjZLQ3l1WWN3OGduNkctY1ZJWDd0bWN1clQzRnEtaE1icXFwVEd1b1liVVM4c2U5OHgzd2ZySUlDeE1EVHMxVzhNTEVmWUR6d25EV3g2SWQtdUl1N2F5cUQ?oc=5	未分類
 2025-12-31	沒臉笑美國 : 中國農村老人自殺率全球第一（多圖）	https://renminbao.com/rmb/articles/2025/12/31/93527b.html	未分類
 2025-12-30	珍惜生命｜牛頭角院舍93歲翁自縊 送院不治	https://www.singtao.ca/7373924/2025-12-29/news-珍惜生命｜牛頭角院舍93歲翁自縊+送院不治/	未分類
 2025-12-30	中國嚴規AI保兒童安全，防止自殺與暴力：中國簡報20251230	https://6do.world/t/ai-20251230/827589	未分類
