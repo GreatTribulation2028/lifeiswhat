@@ -185,58 +185,39 @@ details.stats[open] summary::before{content:"▾ "}
 <script>
 /* ================= 十一類設定 ================= */
 const CATS={
-  sudden:  {name:'猝死',full:'猝死記錄（含自殺）',varName:'DATA_SUDDEN', color:'#ff4d6d'},
-  econ:    {name:'經濟',full:'經濟末世記錄',varName:'DATA_ECON',    color:'#ffb020'},
-  disaster:{name:'天災',full:'天災記錄',    varName:'DATA_DISASTER', color:'#00d26a'},
-  war:     {name:'戰爭',full:'戰爭衝突記錄', varName:'DATA_WAR',      color:'#ff3355'},
-  plague:  {name:'瘟疫',full:'瘟疫記錄',    varName:'DATA_PLAGUE',   color:'#7CFC00'},
-  social:  {name:'社會',full:'社會動盪記錄', varName:'DATA_SOCIAL',   color:'#c77dff'},
-  food:    {name:'糧食',full:'糧食危機記錄', varName:'DATA_FOOD',     color:'#e8c547'},
-  tech:    {name:'第四次工業革命',full:'第四次工業革命記錄', varName:'DATA_TECH',     color:'#4dc3ff'},
-  religion:{name:'宗教',full:'宗教末世記錄', varName:'DATA_RELIGION', color:'#ffd166'},
-  politics:{name:'世界大局',full:'世界大局記錄', varName:'DATA_POLITICS', color:'#f4f1de'},
-  celestial:{name:'天象',full:'天象異兆記錄',varName:'DATA_CELESTIAL',color:'#9d8cff'},
-  tribulation:{name:'七年大災難',full:'七年大災難記錄',varName:'DATA_TRIBULATION',color:'#e94560'},
-  departure:{name:'離世',full:'離世記錄',varName:'DATA_DEPARTURE',color:'#8ecae6'},
-  industry:{name:'工業意外',full:'工業意外記錄',varName:'DATA_INDUSTRY',color:'#fb8500'},
-  traffic:{name:'交通',full:'交通意外記錄',varName:'DATA_TRAFFIC',color:'#ffb703'},
-  fire:{name:'火警',full:'火警記錄',varName:'DATA_FIRE',color:'#e63946'},
-  tragedy:{name:'悲劇',full:'悲劇記錄',varName:'DATA_TRAGEDY',color:'#9d4edd'},
-  sidefx:{name:'藥物副作用',full:'受管制藥物副作用記錄',varName:'DATA_SIDEFX',color:'#06d6a0'},
+  suicide:{name:"自殺",full:"自殺事件記錄",varName:'DATA_DATA_SUICIDE',color:"#ff4d6d"},
+  security:{name:"治安",full:"治安與暴力犯罪",varName:'DATA_DATA_SECURITY',color:"#c77dff"},
+  traffic:{name:"交通",full:"交通意外",varName:'DATA_DATA_TRAFFIC',color:"#ffb703"},
+  fire:{name:"火警",full:"火警與火災",varName:'DATA_DATA_FIRE',color:"#e63946"},
+  drowning:{name:"遇溺",full:"遇溺與溺水",varName:'DATA_DATA_DROWNING',color:"#4dc3ff"},
+  disaster:{name:"天災",full:"自然災害",varName:'DATA_DATA_DISASTER',color:"#00d26a"},
+  accident:{name:"意外",full:"工業與日常意外",varName:'DATA_DATA_ACCIDENT',color:"#fb8500"},
+  medical:{name:"醫藥",full:"疫情、疫苗、醫療",varName:'DATA_DATA_MEDICAL',color:"#7CFC00"},
+  economy:{name:"經濟",full:"經濟與金融",varName:'DATA_DATA_ECONOMY',color:"#ffb020"},
+  ai_safety:{name:"AI安全",full:"AI 安全與監控",varName:'DATA_DATA_AI_SAFETY',color:"#00f3ff"},
+  religion:{name:"宗教末世",full:"宗教與末世預言",varName:'DATA_DATA_RELIGION',color:"#ffd166"},
+  heatstroke:{name:"中暑",full:"中暑",varName:'DATA_DATA_HEATSTROKE',color:"#f77f00"},
+  hepatitis:{name:"肝炎",full:"肝炎",varName:'DATA_DATA_HEPATITIS',color:"#a0c4ff"},
+  sudden:{name:"猝死",full:"猝死記錄",varName:'DATA_DATA_SUDDEN',color:"#ff4d6d"},
+  faint:{name:"暈倒",full:"暈倒",varName:'DATA_DATA_FAINT',color:"#8ecae6"},
 };
+
+/* 15 類平級（依 priority 順序：自殺>治安>交通>火警>遇溺>天災>意外>醫藥>經濟>AI安全>宗教末世>中暑>肝炎>猝死>暈倒）*/
 const ORDER=Object.keys(CATS);
+const GROUP_ORDER=['ALL'];
+const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};
+const CAT2GROUP={};
+ORDER.forEach(k=>{CAT2GROUP[k]='ALL';});
+
+
 
 /* ============================================================
    大分類（Group）架構 — 與 build_news py\category_structure.js 一致
    9 大分類 → 18 類 → 89 小分類
    ============================================================ */
-const GROUPS={
-  death:   {name:'死亡記錄', icon:'☠️'},
-  disaster:{name:'意外災害', icon:'🌋'},
-  health:  {name:'疾病醫藥', icon:'🦠'},
-  conflict:{name:'戰爭衝突', icon:'⚔️'},
-  society: {name:'社會動盪', icon:'🏙️'},
-  nature:  {name:'天象宇宙', icon:'🌌'},
-  tech:    {name:'科技工業', icon:'🤖'},
-  life:    {name:'離世與悲劇', icon:'🕊️'},
-  prophecy:{name:'末世預言', icon:'🔥'}
-};
 /* 類別 → 大分類 映射 */
-const CAT2GROUP={
-  sudden:'death',
-  disaster:'disaster', econ:'disaster', food:'disaster',
-  industry:'disaster', traffic:'disaster', fire:'disaster',
-  plague:'health', sidefx:'health',
-  war:'conflict',
-  social:'society', politics:'society', religion:'society',
-  celestial:'nature',
-  tech:'tech',
-  departure:'life', tragedy:'life',
-  tribulation:'prophecy'
-};
 /* 18 類排序（大分類為主）*/
 const GROUP_ORDER=['death','disaster','health','conflict','society','nature','tech','life','prophecy'];
-const ORDER2=GROUP_ORDER.flatMap(g=>ORDER.filter(k=>CAT2GROUP[k]===g));
 
 /* ================= 狀態 ================= */
 const params=new URLSearchParams(location.search);
