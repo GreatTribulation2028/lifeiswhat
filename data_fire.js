@@ -1,4 +1,4 @@
-// 火警 | 由 build_news_js.py 生成 | 共 1288 條
+// 火警 | 由 build_news_js.py 生成 | 共 1286 條
 var DATA_FIRE = `
 2026-10-01	萬華民宅清晨火警 4女子及時獲救	https://news.ltn.com.tw/news/society/breakingnews/5591898	未分類
 2026-10-01	國3竹南段火燒車 土方半聯結車傳動軸起火濃煙直竄	https://news.ltn.com.tw/news/society/breakingnews/5591805	未分類
@@ -162,7 +162,6 @@ var DATA_FIRE = `
 2026-09-29	泰国曼谷酒吧夺命大火 部分罹难者恐走错出口困于洗手间	https://news.seehua.com/post/1514223	未分類
 2026-09-29	法槌下的温情：一场大火烧不毁的邻里情	https://www.163.com/dy/article/L1SURB860514N324.html	未分類
 2026-09-29	法國波爾多突發毀滅級大火 10000名遊客連夜緊急大逃亡背後極度驚險	https://www.weekendhk.com/矚目話題/法國大火-熱浪災情-旅遊安全-3471033/	未分類
-2026-09-29	法國和西班牙：教會陪伴毀滅性大火下的災民- 梵蒂岡新聞網	https://www.vaticannews.va/zht/church/news/2026-07/the-church-accompanies-wildfire-victims-across-southern-europe.html	未分類
 2026-09-29	法國吉倫特省山火進入第八天新增7處起火點 楓丹白露森林出現復燃	https://www.orangenews.hk/international/VQog9l9/法國吉倫特省山火進入第八天新增7處起火點-楓丹白露森林出現復燃.shtml	未分類
 2026-09-29	法国枫丹白露森林遭遇大火，火势“规模罕见”	https://www.163.com/dy/article/L1O7IHFQ0514DG98.html	未分類
 2026-09-29	法国多地火情持续	https://m.sohu.com/a/1058228611_267106?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	未分類
@@ -941,7 +940,6 @@ var DATA_FIRE = `
 2026-01-19	巴基斯坦商場大火焚燒逾一日 增至14死65人失蹤 (15:39) - 20260119 - 國際	https://news.mingpao.com/ins/國際/article/20260119/s00005/1768806274323/巴基斯坦商場大火焚燒逾一日-增至14死65人失蹤	未分類
 2026-01-17	泰國高鐵施工起重機砸中列車 出軌起火釀22死80傷		未分類
 2026-01-17	宏福苑大火168死 香港擬修法「工地全面禁菸」	https://www.ettoday.net/news/20260117/3102686.htm	未分類
-2026-01-17	地鐵尿袋起火 捷運車廂瞬間全是煙 乘客紛紛驚逃「如世界末日」	https://news.google.com/rss/articles/CBMisgNBVV95cUxPV1JMTExJZUxHVHFqVmNkUWtnZlQtR0MwVllIb28zZDQ3NjZlV3NwYXB5QU5FZk5OaGZNOGtaeUhoWXJLQlV0Vm1kWjhWaEpYSXJGWHlWQVJWeDdNNm04eVJPVmhmMkN6ZXBsanF5eEhVWWViaThZOFJXdWVrbXNtTHNJRGQwMHRUOGhtMm1kRkpXdHlsUGw3UzNVNTMyS2xxN2RaeUNIa2JEZFZDY0NmRDczbXF0QVUyN1pKdzRMYXVpeHBEZlg1V05JekVpYUhKbjFTcGdJLXZWYjlURFV5YmthZ0hjN2ctX09nNXFaMjJCU0NnY3hpb3JLS1ZZdzhzdEdUNFROREdQN3JpN3htcTdYVGZLMDRkWXgxcGdKU3hvQ0RvYnA4a3llQ2k3Z3R2eVItSWRvOTdvam9DU0VfMG1NLXdNLVhPeU1ENDNkeUExMklLaDRBamJuQTBaVjBsU3FKQ3pFVV9RVElXbkh3b1MtejF4Nm9yWlJpRHRQVUhoLW93TzVhQjRHRFEtbnNNV19TRnNDYXU4RC1TMEJUMEg4clJwMWNCMFRlcTZfNHRydw?oc=5	未分類
 2026-01-16	居民家中起火，消防、社区多方联动成功营救卧床老人	https://finance.sina.com.cn/tech/roll/2026-01-16/doc-inhhnzaw0647750.shtml?froms=ggmp	未分類
 2026-01-15	基隆民宅火警! 父女互救嗆昏送醫插管治療	http://www.msn.com/zh-tw/news/national/基隆民宅火警-父女互救嗆昏送醫插管治療/ar-AA1TVByb?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-01-12	貴州居民樓起火業主損失近10萬 長期不拔充電器釀禍	https://news.google.com/rss/articles/CBMiggNBVV95cUxOeFpoa29QQk5tTUJXSGlGZDlwanl0M3pnYndUTXEtWTFQaTFJTnFvOEtiNFctZC1mWGNYZXYzbERjclhWNEw0QTNlaXBWOWM0SmsybEl0X0ZzY3ZjdEotRzhyN0xSQ0FXb005b3BWLVg0S3NsXzB1dUdVQ3dQUjhyRDhZUXBHa3lDNzVzZWZ3UV9hQU9IclBqNFJBaGhYeWtZVnM5MWZnVHNqaF9xOWR0Wm5uN0w2bk4tQlIwNHRUQzJpNWRyX1NnN1dGdzdYdmRDd0NrVC1sSDNubDFQNlRsOFpVWGJ6U2hFbVJ1RDBDX0M1c2I0LXhXZ1pJUVJSTTNfMlBFU0dIbHYtNzF3eUVjN3hQNWpVaTNOT0FNdFByUFRVMXNzai1WaXhleDZyWl8ydVJCdWVEeFB3bXBxRlJRWGotT2J1bThDdWtqZERpY1doZE8wZURodXZvWXAzVjM3UVB5U3VZRWNFQUNQcGFNWjNxR3ZhVExPMXp4Qm9zeGJaZw?oc=5	未分類
