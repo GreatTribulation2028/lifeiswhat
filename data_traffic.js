@@ -1,4 +1,4 @@
-// 交通 | 由 build_news_js.py 生成 | 共 2452 條
+// 交通 | 由 build_news_js.py 生成 | 共 2450 條
 var DATA_TRAFFIC = `
 2026-10-01	行駛碧潭橋遭前車掉落蚊香擊中？女騎士失控釀追撞受傷	https://news.ltn.com.tw/news/society/breakingnews/5591899	未分類
 2026-10-01	旅美首季受震撼！今井達也坦言日美實力差距：「完全不同世界」	https://sports.ettoday.net/news/3246919	未分類
@@ -1069,7 +1069,6 @@ var DATA_TRAFFIC = `
 2026-09-29	Tesla司機衝黃燈撞斃不依燈號過路少女 承認危駕致死罪判監22個月	https://www.kinliu.hk/news/社會/Tesla司機衝黃燈撞斃不依燈號過路少女-承認危駕致死罪判監22個月/322578.html?id=58&from=channel&bc1=首頁&bc1to=/channel/INDEX?id=35&bc2=法庭&bc2to=/channel/Courts?id=107	未分類
 2026-09-29	Tesla司機衝黃燈撞斃19歲少女 官斥過路處加速不負責任 囚22月	https://www.hk01.com/article/60390959	未分類
 2026-09-29	Pejagan收费公路的交通事故导致来自Bekasi的4名旅行者死亡	https://voi.id/zh/amp/565518	未分類
-2026-09-29	Netflix重啟震撼懸案！30歲牧師妻墜落離奇死亡 前夫跟蹤黑歷史全被起底	https://www.juksy.com/article/150512	未分類
 2026-09-29	NBC新聞直升機洛杉磯墜毀3死 女記者空中報道交通意外遇難｜有片	https://www.hk01.com/即時國際/60390655/nbc新聞直升機洛杉磯墜毀3死-女記者空中報道交通意外遇難-有片	未分類
 2026-09-29	NBA震撼彈! 灰熊29 歲前鋒克拉克驚傳驟逝球團悲痛證實死因成謎	http://www.msn.com/zh-tw/news/world/nba震撼彈-灰熊29歲前鋒克拉克驚傳驟逝-球團悲痛證實死因成謎/ar-AA231OeN?cvid=6a0b5b1facbf4cd0b26c290bf19212cb&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-09-29	MISSION附近兩車相撞意外一人死亡	https://am1320.com/焦點新聞/mission附近兩車相撞意外一人死亡/	未分類
@@ -1619,7 +1618,6 @@ var DATA_TRAFFIC = `
 2026-05-05	深水灣道箭豬遭車輾斃 伏屍山坡旁	https://hk.on.cc/hk/bkn/cnt/news/20260505/bkn-20260505053947899-0505_00822_001.html	未分類
 2026-05-05	台南女警遭追撞輾斃怒火燒校方 民眾揚言抗議 惡搞維基百科	http://www.msn.com/zh-tw/news/national/台南女警遭追撞輾斃怒火燒校方-民眾揚言抗議-惡搞維基百科/ar-AA22gyJF?cvid=69f702ddfbac489fbdcd0acec98911cb&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-05-05	42歲作曲家LeeZu驚傳離世！生前才道歉感謝粉絲 死訊震撼粉絲	https://www.nownews.com/news/6822808	未分類
-2026-05-04	華人新移民新州觀神韻震撼：我非常自豪| 神韻環球藝術團| 新澤西州紐瓦克市| 信仰 | 新唐人电视台	https://www.ntdtv.com/b5/2026/05/04/a104093073.html	未分類
 2026-05-04	乌克兰士兵骨瘦如柴照片震撼世界	https://news.creaders.net/world/2026/05/04/3000190.html	未分類
 2026-05-03	台南女警遭輾斃！未婚夫看監視器見「生前掙扎」心碎	https://news.pchome.com.tw/society/ctinews/20260503/index-77779002801712309002.html	未分類
 2026-05-02	台南女警遭輾斃！女大生今現身靈堂 「90度鞠躬」致歉	https://news.pchome.com.tw/society/ctinews/20260502/index-77768973348106309002.html	未分類
