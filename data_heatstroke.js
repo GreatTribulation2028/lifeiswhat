@@ -3,29 +3,29 @@ var DATA_HEATSTROKE = `
 2026-09-30	旅遊劇烈頭痛以為中暑差點沒命！49歲香港女遊九份腦動脈瘤破裂 基隆長庚救回	https://news.google.com/rss/articles/CBMiU0FVX3lxTE84Y0Fnd0J5eFBMVWJuZ0piLUF1SmROTlpCWkxIdkhZVmItSTQ1cTd6TGlPTFdnRklKdC10Vm0yLUJkNlhoVEhselI4dm55MnNISmN3?oc=5	未分類
 2026-09-30	快訊》酷暑來襲7縣市！氣象署：嚴防熱傷害與熱衰竭| 生活	https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MQUM0NGVyUzdKS20tSjFqVEJNNGtOU28zb0ZCb2I0dWJmZXRlbVlBVUVOZ0VhZDg4UHo1YnlUWEcyS2p0LXRLMFJhX1VlUkNJSklDT0dvQzBSMzg?oc=5	未分類
 2026-09-29	高溫狂拍舞曲畢書盡脫水鼓鼓中暑- 台灣影藝- 新聞	https://www.chinesedaily.com/article/detail-703898.html	未分類
-2026-09-29	酷熱天氣｜長者中暑入院或死亡10年增16倍 劏房戶逾半不敢開冷氣	https://www.hk01.com/社會新聞/60383043/酷熱天氣-長者中暑入院或死亡10年增16倍-劏房戶逾半不敢開冷氣	未分類
-2026-09-29	端午連假飆高溫！日本人流傳1招防中暑	https://tw.news.yahoo.com/端午連假飆高溫-日本人流傳1招防中暑-065943906.html	未分類
-2026-09-29	熱怒症｜情緒都會中暑？天氣酷熱易暴躁效率下降自測情緒中暑恐誘心血管疾病3類人高危- 東張+	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/17858341160941/熱怒症-情緒都會中暑-天氣酷熱易暴躁效率下降-自測情緒中暑恐誘心血管疾病3類人高危	未分類
-2026-09-29	熱中暑死亡率高達八成，做工的人首當其衝！【獨立特派員】	https://news.pts.org.tw/article/825306	未分類
-2026-09-29	烈日下辦婚禮中暑送醫 「南加百度高溫至少還要燒十天」	https://www.worldjournal.com/wj/amp/story/121359/9666866	未分類
-2026-09-29	模範律師團丨陳煒高溫開工中暑不適何廣沛劉佩玥讚前輩羅嘉良私下好盞鬼- 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/17869687370310/模範律師團丨陳煒高溫開工中暑不適-何廣沛劉佩玥讚前輩羅嘉良私下好盞鬼	未分類
+2026-08-24	酷熱天氣｜長者中暑入院或死亡10年增16倍 劏房戶逾半不敢開冷氣	https://www.hk01.com/社會新聞/60383043/酷熱天氣-長者中暑入院或死亡10年增16倍-劏房戶逾半不敢開冷氣	未分類
+2026-06-19	端午連假飆高溫！日本人流傳1招防中暑	https://tw.news.yahoo.com/端午連假飆高溫-日本人流傳1招防中暑-065943906.html	未分類
+2026-08-22	熱怒症｜情緒都會中暑？天氣酷熱易暴躁效率下降自測情緒中暑恐誘心血管疾病3類人高危- 東張+	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/17858341160941/熱怒症-情緒都會中暑-天氣酷熱易暴躁效率下降-自測情緒中暑恐誘心血管疾病3類人高危	未分類
+2026-09-03	熱中暑死亡率高達八成，做工的人首當其衝！【獨立特派員】	https://news.pts.org.tw/article/825306	未分類
+1969-12-31	烈日下辦婚禮中暑送醫 「南加百度高溫至少還要燒十天」	https://www.worldjournal.com/wj/amp/story/121359/9666866	未分類
+2026-08-17	模範律師團丨陳煒高溫開工中暑不適何廣沛劉佩玥讚前輩羅嘉良私下好盞鬼- 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/17869687370310/模範律師團丨陳煒高溫開工中暑不適-何廣沛劉佩玥讚前輩羅嘉良私下好盞鬼	未分類
 2026-09-29	朝“問”健康｜大暑時節高溫高濕 這份中暑防治指南請查收	https://bau.com.hk/web/article/1530150755966050304/web/content_1530150755966050304.html	未分類
-2026-09-29	早上6點就熱爆！日本迎「災害級」高溫！多地恐飆40°C 東京單日162人中暑送醫	https://tw.news.yahoo.com/早上6點就熱爆-日本迎-災害級-高溫-多地恐飆40-024200175.html	未分類
-2026-09-29	日本迎高溫40℃「酷暑日」 4名長者疑因中暑喪命	https://tw.news.yahoo.com/日本迎高溫40-酷暑日-4名長者疑因中暑喪命-043207110.html	未分類
-2026-09-29	日本熱爆 | 日本廣泛地區持續高溫 上周逾萬人中暑送院 多地發中暑警報	https://www.kinliu.hk/news/日本熱爆-日本廣泛地區持續高溫-上周逾萬人中暑送院-多地發中暑警報/188672.html?id=80&from=home&bc1=首頁&bc1to=/	未分類
-2026-09-29	日本本州高溫警報：夏日天氣持續，當局籲嚴防中暑	https://n.yam.com/Article/20260511849594	未分類
+2026-07-21	早上6點就熱爆！日本迎「災害級」高溫！多地恐飆40°C 東京單日162人中暑送醫	https://tw.news.yahoo.com/早上6點就熱爆-日本迎-災害級-高溫-多地恐飆40-024200175.html	未分類
+2026-07-22	日本迎高溫40℃「酷暑日」 4名長者疑因中暑喪命	https://tw.news.yahoo.com/日本迎高溫40-酷暑日-4名長者疑因中暑喪命-043207110.html	未分類
+2026-07-23	日本熱爆 | 日本廣泛地區持續高溫 上周逾萬人中暑送院 多地發中暑警報	https://www.kinliu.hk/news/日本熱爆-日本廣泛地區持續高溫-上周逾萬人中暑送院-多地發中暑警報/188672.html?id=80&from=home&bc1=首頁&bc1to=/	未分類
+2026-05-11	日本本州高溫警報：夏日天氣持續，當局籲嚴防中暑	https://n.yam.com/Article/20260511849594	未分類
 2026-09-29	日本有3人疑中暑亡 氣象廳料東海至九州等地今日仍高溫	https://news.tvb.com/tc/world/68b0e6b55038aced1ac152e0/國際-日本有3人疑中暑亡-氣象廳料東海至九州等地今日仍高溫	未分類
-2026-09-29	日本停車場驚見7旬翁陳屍車內 遺體腐敗變色 疑高溫中暑致死	https://www.hk01.com/即時國際/60373281/日本停車場驚見7旬翁陳屍車內-遺體腐敗變色-疑高溫中暑致死	未分類
-2026-09-29	新州至少29人因高溫死亡 紐約379人因中暑看急診	https://www.epochtimes.com/b5/26/7/8/n14805394.htm/amp	未分類
-2026-09-29	打破122年紀錄！南韓42.5℃熱死13人 急發高溫警報 專家教6招防中暑	https://www.stheadline.com/health-care/3600578/打破122年紀錄南韓425熱死13人-急發高溫警報-專家教6招防中暑	未分類
-2026-09-29	快訊／小心別中暑！「11縣市」高溫警示 午後降雨熱區曝	https://www.setn.com/news/1670454	未分類
+2026-07-24	日本停車場驚見7旬翁陳屍車內 遺體腐敗變色 疑高溫中暑致死	https://www.hk01.com/即時國際/60373281/日本停車場驚見7旬翁陳屍車內-遺體腐敗變色-疑高溫中暑致死	未分類
+2026-07-08	新州至少29人因高溫死亡 紐約379人因中暑看急診	https://www.epochtimes.com/b5/26/7/8/n14805394.htm/amp	未分類
+2026-08-06	打破122年紀錄！南韓42.5℃熱死13人 急發高溫警報 專家教6招防中暑	https://www.stheadline.com/health-care/3600578/打破122年紀錄南韓425熱死13人-急發高溫警報-專家教6招防中暑	未分類
+2025-06-11	快訊／小心別中暑！「11縣市」高溫警示 午後降雨熱區曝	https://www.setn.com/news/1670454	未分類
 2026-09-29	快訊》6縣市熱如烤箱！氣象署：嚴防熱傷害與中暑| 生活	https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzN0ZTOGliLVMycWVTOURxY0hnRnctZXhhQ29GNG1kYlNqNlVGeVF4RG82THFqeElLeklqa3RLbGducUJfS1F0bmNyRzdDTklJaFVIZE1vZ25KV0k?oc=5	未分類
-2026-09-29	徐暐翔頂高溫穿玩偶裝！一度擔心中暑 自爆連坐摩天輪都會怕	https://tw.news.yahoo.com/徐暐翔頂高溫穿玩偶裝-度擔心中暑-自爆連坐摩天輪都會怕-061300112.html	未分類
-2026-09-29	小心中暑！5縣市高溫特報 台南恐熱飆38度	https://tw.news.yahoo.com/小心中暑-5縣市高溫特報-台南恐熱飆38度-054539773.html	未分類
+2026-09-11	徐暐翔頂高溫穿玩偶裝！一度擔心中暑 自爆連坐摩天輪都會怕	https://tw.news.yahoo.com/徐暐翔頂高溫穿玩偶裝-度擔心中暑-自爆連坐摩天輪都會怕-061300112.html	未分類
+2026-05-21	小心中暑！5縣市高溫特報 台南恐熱飆38度	https://tw.news.yahoo.com/小心中暑-5縣市高溫特報-台南恐熱飆38度-054539773.html	未分類
 2026-09-29	中暑危機｜慳家父堅持不開冷氣在家中暑猝死 櫃桶底藏發霉存摺 揭儲131萬巨額遺產予愛兒	http://www.msn.com/zh-tw/health/other/沈玉琳3個月前驗血正常-確診前-暈眩狂吐-走5步就累/ar-AA1L06Me?cvid=AC29265834EE461DA7D1937EA29C5E53&ocid=hpmsn&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	未分類
 2026-09-29	【日職】日職二軍賽遭高溫影響取消！羅德和田康士朗疑中暑不適39度酷暑下緊急中斷｜日本職棒	https://www.dazn.com/zh-TW/news/棒球/日職日職二軍賽遭高溫影響取消羅德和田康士朗疑中暑不適-39度酷暑下緊急中斷日本職棒/odvli0uybial1ad5lcyos00pv	未分類
 2026-09-29	Azusa警車內身亡男子被定為意外中暑死亡- 南加社區- 新聞	https://www.chinesedaily.com/article/detail-691529.html	未分類
-2026-09-29	35℃高溫吹風扇仔更易中暑？日本專家揭熱風效應：配合1物快速降溫	https://www.hk01.com/開罐/60378899/35-高溫吹風扇仔更易中暑-日本專家揭熱風效應-配合1物快速降溫	未分類
+2026-08-12	35℃高溫吹風扇仔更易中暑？日本專家揭熱風效應：配合1物快速降溫	https://www.hk01.com/開罐/60378899/35-高溫吹風扇仔更易中暑-日本專家揭熱風效應-配合1物快速降溫	未分類
 2026-09-28	討論牆 | 熱衰竭勇消醒了！衝地下室救火 副隊長曝驚險過程：體感溫度達70、80度	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PYndNZ2ZadGVrUlE0TzRTRFVITmdvZTNIZ2tlbjJZQU1yMjdMal9wUk5pajZ1WmVGS05DRlJIRTM5ZVBwaHFpcG9BenlOZUpiSF90WVpfZE1MbEVpbDA5MUpHNHM?oc=5	未分類
 2026-09-28	討論牆 | 消防員清理殘火 疑熱衰竭插管轉加護病房	https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wdUltM3g5TE0tcDVSQzQ1VjZjemlhdExiWXhaUnZMeGZKQVFUUzlFbFRqY1RiR2ZSSzFFbUh1ckoyUFdNMXBqTF9rb1QxR0htNkdBQllLUHRPVmtqeVRrUWNsRVk?oc=5	未分類
 2026-09-28	討論牆 | 搏命救火突發熱衰竭！北市消防員體溫飆41度插管急救 目前已清醒	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWRHhqMkNYblBPdGItZFU0V2ktaFVKdDNnd0UxRGRMZVpIYnViYUxDSXByeEtUd3FyZUl4M3NNUkczaXZZOEhpVG9xUkUwZ1JYNGdEbHJGX1h1MVVUZ3FlY2ItVzg?oc=5	未分類
