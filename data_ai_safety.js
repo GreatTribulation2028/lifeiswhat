@@ -1,4 +1,4 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 729 條
+// AI安全 | 由 build_news_js.py 生成 | 共 732 條
 var DATA_AI_SAFETY = `
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5cWtMY1hYWG5VTXVycGU5YzY1NjQyblFYOVZBWjctNFlaeTJoZTE2TTRkXzIyT3UzWHB0bnhHS2lMRkxoUk5PTlZPSE94QVctaXFqcjFrVVA?oc=5	未分類
 2026-10-01	Citrix NetScaler漏洞被用於攻擊北美與歐洲組織，駭客藉此散布惡意程式WhipShot與SlapShot	https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPdzJyTUhHQUxFZVJjQjJDMVM3TElUeGxXSlhoaURMaHNmN3pKVlBuVXdKdXRUYlFEUURHemxyNDZ4Q2dLXzlQNGtnUUpSUQ?oc=5	未分類
@@ -563,6 +563,7 @@ var DATA_AI_SAFETY = `
 2026-09-26	進化的惡意程式改由 AI 模型投票決策，駭客不必下指令也能竊取資料	https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcE5QWnFobVlnNEZGWkUzNmpFVHNLejh6elNaMFM1dUI4VUZiekh5bGdtdkhXQmNIcmVmenV0QVp0VG5nMUtaSVFobzYzYnBxcnpPa2w1TzZYMFBuSDdKamhVeEQtTGlrRkJDcHNnejNiZmI1WkhmeUxER3BTOFJsMkxGU3FPcEpZMS04TGVRZFJhc2ZmaTJrUVBuREZTOGpWaFJNVXlKWDlSZ1pEX2x4SVdBc09WdzZW?oc=5	未分類
 2026-09-26	失控AI又出事 OpenAI代理再度爆發自動駭客入侵事件	https://www.worldjournal.com/wj/story/122160/9657317	未分類
 2026-09-26	上銀義大利子公司資訊系統遭駭客攻擊 對營運無重大影響	https://es.tradingview.com/news/cnyes:0bb65b81bacdf:0/	未分類
+2026-09-24	進化的惡意程式改由 AI 模型投票決策，駭客不必下指令也能竊取資料 | 科技新報	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jc1FuUFRJLXpleWRYWl9mYUF3V014WGtJclRIQW4yZEpScHBnVTYxTi02Q3dqQUZ2MDVRYWpQdHN3Nk9Wb0hkZ2ZzenhkUmhDVzBxODVn?oc=5	未分類
 2026-09-23	陷數據洩露風波！Deepseek、月之暗面傳遭陸官方調查	https://news.google.com/rss/articles/CBMib0FVX3lxTFA1c1ZYdWZ3YzNCby1fLVJadDh6SV9TSTVxR0c1LVFGS1MxTVU0MG4yQ3YzRy1rVWk5Z0hwdnR6MVZiUVh5bDlIbmZBWGhwUTh0bG1wSVhqUHlpbDhuZFptZzhyNS1WZUEtRG80V190TQ?oc=5	未分類
 2026-09-23	美國企業面臨網絡攻擊激增的局面	https://news.google.com/rss/articles/CBMid0FVX3lxTE1IS3d4Q3NYSU5xaDVmdURvYzNxOUQySkdoWndldUlQMi1NckRWbmdwVlRCd0w5Nm14cWNxNEUzb0VkRGNLbFJwTUxlM1lFYzhqcmpKc0JxbzdzT2pfdU5MV091YUhURWNYLWhrNjVMOXl0cm9HMmRB?oc=5	未分類
 2026-09-23	異動股丨阿里走低4% 關注數據洩露風險報道	https://news.google.com/rss/articles/CBMivgJBVV95cUxQZmtad0lnYldDODV1V2Nib2ZJeDhad2V5Z3l6Q2F6QTNZY05JeUJ2RG1JUFM2dDlQRlAtMmVZOXhHUzlNWTZWMGRDSk1EVm5jdlQ3RUx4dXAzVDRZelhrZERZZlNFYkxka1NSZWFtYzg5czgtV2Q2cTZCcVdRSHJhLWRPSVo4ZXZuZ2N2U1c5TkJ2V2pnWk9JRlJXMnhtLUxGTF9oTi1qWWZSajlyblgxVkVRZHVoYmduVkZhUTFmSFlta3J3MF9waXJNNEFVR01EcXZERy1FcjRIQjBPeWVyTWtFUVpRZWJUXzh3Q25RQjV2S0ZwRlhOQy1CRUpLTGoyVklBbWw0akZEM2gzNmpQU25MdElpQXdoazlHYVU5NWNQbnh5UlI2bDhTc2c1aFNvQ3JmTzhpN2owc3ktdGc?oc=5	未分類
@@ -658,6 +659,7 @@ var DATA_AI_SAFETY = `
 2026-07-21	ThreatBook：亞太地區網絡安全風險構性上升	https://itpromag.com/2026/07/21/threatbook-apac-tjreat-25-26/	未分類
 2026-07-21	Accenture 與安永證實發生資安事件 駭客宣稱竊取 35GB 敏感資料	https://netmag.tw/2026/07/21/accenture-confirms-cyber-incident	未分類
 2026-07-20	叫外賣洩行蹤兩黑客癱瘓倫敦交通系統囚5 年半	https://unwire.hk/2026/07/20/tfl-hackers-arrested/tech-secure/	未分類
+2026-07-18	新型 Mac 惡意軟件 ClickLock Stealer 利用虛假登錄框鎖定用户設備	https://news.google.com/rss/articles/CBMiWEFVX3lxTE40LWE2ZkFRdWRfTTFCYW5VQlB0dk1hLW0xX1JJcmNhNUx3Ykhua1c3NVl0aWg2OFRkLVExYmotMTNjZm5FTUNBaGYtWXduMkw3alpRM3NRR18?oc=5	未分類
 2026-07-17	拍付國際資料外洩調查結果出爐 願補償500元然影響人數不明	https://www.mnews.tw/story/amp/mm-20260717-177fin-215827	未分類
 2026-07-17	微軟停用駭客受害帳號，用戶數位資產擁有權再引關注 - 財經新聞 - PChome Online 新聞	https://news.pchome.com.tw/finance/sunmedia/20260717/index-78421851641594329003.html	未分類
 2026-07-16	網絡安全｜79%勒索軟件攻擊源於身份盜用 靠身份憑證存取系統	https://news.google.com/rss/articles/CBMimANBVV95cUxPRVp0RkFBWExEal9mNVVqSVIya2g5OWtfTUoyemZLYWJuZVVsMW5Id1JoZlIzN3g4cy1kSVRQV05IYl9ZMG03LUtqbWRBYlYza3llWlRxRHNVWWxKT2dGUjVjOUdZcjlLX051VTVuZTJnd2JRTTJMbmRRdF9FUE4zRlpsQi1iMHhGeVNJMWdFVklMcEhILXlub1hEd0VWbHdPRk9QNU1lRnZQb3RpYWMxRjMtMDlIQ3Bwa0NoSVVnREtIaUE5MUZiUFlMWmZWR3JMcDhtQ29NQTFESWNEMmk4cXota1E0Q0JBb2RWZzJ1T2RNVk96UjBKVE55QTVDQ3pUUFNWaFYtWkdiV0tPU1N5cmN6TVFPWC1PYkU3T1U2VTM2dGp4N2ZaQ2UwNENhb1UzbmFMRDhTeFFLR0hqRTIwRWdSeTl2dTgwN3JuQm5Tbm1YN2YxN2t2WktpNGVGY3h1Q00ydThCRlFEZElBdl9QaXhlUTNpT0JvMTc3SmRHTGt5alVOdWpBcS1jd1VmU0o2eDNzLUtkVUY?oc=5	未分類
@@ -692,6 +694,7 @@ var DATA_AI_SAFETY = `
 2026-05-14	BTS田柾國帳戶遭駭客盜用 近百億韓元股票「險全空」	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-05-14/2344597.html	未分類
 2026-05-13	鴻海證實北美廠區遭駭客攻擊 緊急發重訊「目前營運正常」	https://www.4gtv.tv/article/2026051302000018	未分類
 2026-05-13	港大科創中心夥青年科創學院辦大灣區醫療科技駭客松 十強隊伍亞醫峰會展示成果 NOVOMI VAX奪冠	https://www.wenweipo.com/a/202605/13/AP6a04523de4b0b49ad1bac682.html	未分類
+2026-05-12	惡意軟體框架PCPJack鎖定雲端基礎設施，封鎖駭客團體TeamPCP的存取權限	https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1dU96dHRZaDI2WGkycHp0NDRpbGxGUFJaV0FRNTJmcG5BZzRaQXpvMkxCUjJ5aXJteV84bXJYZ0RLazRpaElCVnZ2blNiZw?oc=5	未分類
 2026-05-10	跨國網絡攻擊引發大批校園出現混亂	https://news.google.com/rss/articles/CBMiZkFVX3lxTE43UlVScl9CVXpBUXJzWFVkQnR5NlpXUHcyZ1hUX3g5NnN1VWNSQUtWeXktRTlLVFJiTnZDOTJMT1RfTUlSb2hYVGRMRF9wNnR1TXNRUmQyT1U3MlVSZHRtN2ZSMW50UdIBa0FVX3lxTE1kTUFzRnp2ZVQxNTM0cGZrVjdEZk9md0pqQWJReFZTaUpITG5ZUU8tVFU5OTBfcXNoQjhCYXFrVmVCdzVmWlN2SzEzXzdiVjgwNkdKM3RCUFhHQjdRc3gtV0w0LTdpRWtiMmc4?oc=5	未分類
 2026-05-08	駭客結合 Claude AI 攻擊水務及排水系統	https://unwire.pro/2026/05/08/claude-ai/security/	未分類
 2026-05-08	美國教育平台 Canvas 遭駭客攻擊 逾九千所學校個資恐外洩	https://news.pchome.com.tw/finance/sunmedia/20260508/index-77822086151819329003.html	未分類
