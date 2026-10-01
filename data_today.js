@@ -1,12 +1,9 @@
 var DATA_TODAY = `
 2026-10-01	老翁二度跌倒眼角流血還想硬撐走 警耐心勸導擦藥送返家	https://news.ltn.com.tw/news/society/breakingnews/5591695
 2026-10-01	宜蘭農婦「種菜失足踩空」墜70米懸崖 卡山壁2小時奇蹟獲救	https://www.ettoday.net/news/20261001/3247038.htm
-2026-09-30	自由說新聞》烏克蘭「大反攻」前線赫見台灣！俄轟炸機墜毀爆炸畫面直擊 | 自由電子報	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FdjEtV2dZWm1qU09uQ3BIdWVDQU9WRS1tWVdKVjdWMzBibnZWeXRyeEZRMERnSHAxVmF6TzFKbU9OLS01UDhYbHN4X3hJT2lia21aZVdR?oc=5
 2026-09-30	據了解警方國安處拘兩人涉散播煽動訊息 包括網媒「爆炸頭」成員	https://news.rthk.hk/rthk/ch/component/k2/1872110-20260930.htm
 2026-09-29	💼【HR與管理層必修】工傷處理情理兼備，你做對了嗎？ ...	https://www.instagram.com/p/DZxIj_8ghOp/
 2026-09-29	（有片）四川長寧村民辦升學宴期間 外牆倒塌釀5死17傷	https://www.bastillepost.com/hongkong/article/16597089-（有片）四川長寧村民辦升學宴期間-外牆倒塌釀5死
-2026-09-29	（外代一线）巴基斯坦西北部自杀式爆炸袭击造成至少5人死亡	https://m.sohu.com/a/979494149_267106?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
-2026-09-29	黑龍江樓房凌晨坍塌 內有火鍋店等 9人被困	https://www.epochtimes.com/b5/26/3/29/n14729907.htm/amp
 2026-09-29	黎巴嫩住宅大樓倒塌最少五死 居民批政府疏於管理殘舊設施	https://news.tvb.com/tc/world/698907923f9518a5ccdb7288/國際-黎巴嫩住宅大樓倒塌最少五死居民批政府疏於管理殘舊設施
 2026-09-29	鴨脷洲有工業大廈外牆棚架倒塌 3人清醒送院	https://news.rthk.hk/rthk/ch/component/k2/1851531-20260417.htm
 2026-09-29	高雄鋼鐵廠驚傳工安意外！51歲工人15米高處墜落亡	https://n.yam.com/Article/20260810528172
@@ -23,12 +20,10 @@ var DATA_TODAY = `
 2026-09-29	馬灣女子遇水漲被困石灘 警方救起送院檢查	https://www.stheadline.com/breaking-news/3611464/馬灣女子遇水漲被困石灘-警方救起送院檢查
 2026-09-29	馬灣女子爬出礁石灘 遇上潮漲被困海中 水警救人送院檢查	https://www.hk01.com/突發/60386648/馬灣女子爬出礁石灘-遇上潮漲被困海中-水警救人送院檢查
 2026-09-29	馬灣24歲女子爬出礁石 遇潮漲被困海中 水警救人送院檢查	https://www.hk01.com/突發/60386648/馬灣24歲女子爬出礁石-遇潮漲被困海中-水警救人送院檢查
-2026-09-29	馬如龍兒子跌倒猝逝！警床邊尋獲藥袋今相驗查死因 姊淚：以後沒靠山了	https://star.setn.com/news/1790543
 2026-09-29	香港殉职消防员何伟豪最后照片首次公开，为救人误入宏泰阁被困，调查组：其氧气瓶仍可使用约30分钟，有时间离开，他在试图救人时献出生命	https://www.163.com/dy/article/L24JRSEN05561G0D.html
 2026-09-29	飛驒山脈2港男被困｜22歲居日男死亡 30歲男清醒獲救 料往上高地途中遇險	https://www.stheadline.com/breaking-news/3569156/飛驒山脈2港男被困22歲居日男死亡-30歲男清醒獲救-料往上高地途中遇險
 2026-09-29	风雪真宝鼎8小时生死救援 桂林全州警方解救被困驴友	https://m.sohu.com/a/980650170_123753?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 2026-09-29	韓華航太工廠爆炸5死2傷 李在明：全力救災	https://hk.news.yahoo.com/韓華航太工廠爆炸5死2傷-李在明-全力救災-052005589.html
-2026-09-29	韓聯參：邊境非軍事區發生爆炸 3名韓國士兵受傷 疑地雷引起	https://www.hk01.com/即時國際/60392100/韓聯參-邊境非軍事區發生爆炸-3名韓國士兵受傷-疑地雷引起
 2026-09-29	韓國韓華航空航天工廠爆炸5死2傷 公司CEO被警方禁止出境	https://www.hk01.com/即時國際/60358092/韓國韓華航空航天工廠爆炸5死2傷-公司ceo被警方禁止出境
 2026-09-29	韓國韓華航空航天公司工廠爆炸 造成五死兩傷	https://news.rthk.hk/rthk/ch/component/k2/1856803-20260601.htm
 2026-09-29	青磚圍工業意外｜警改列誤殺拘兩人 工權會認為具阻嚇性	https://news.tvb.com/en/1178775-青磚圍工業意外警改列誤殺拘兩人工權會認為具阻嚇性
@@ -38,14 +33,10 @@ var DATA_TODAY = `
 2026-09-29	青磚圍奪命工傷｜65歲男工人遭壓斃警改列誤殺拘管工及挖 ...	https://www.stheadline.com/breaking-news/3586560/青磚圍奪命工傷65歲男工人遭壓斃-警改列誤殺拘管工及挖泥車操作員
 2026-09-29	青磚圍奪命工傷│死者為顧家好爸爸妻昨曾要求不上班提早 ...	https://www.stheadline.com/breaking-news/3584454/青磚圍奪命工傷死者為顧家好爸爸-妻昨曾要求不上班提早做節
 2026-09-29	電線杆倒塌引發恐慌 印度神廟踩踏意外釀7死	https://news.ttv.com.tw/news/11508170020200N
-2026-09-29	電梯技工疑連做60小時猝逝 家屬控訴僱主拒認工傷 工權會促訂立過勞補償制度	https://www.i-cable.com/新聞資訊/381830/電梯技工疑連做60小時猝逝-家屬控訴僱主拒認工傷
 2026-09-29	電工學徒觸電亡 4承辦商共罰逾320萬 官稱涉人命判刑要具阻嚇性	https://www.orangenews.hk/hongkong/VVSP7Es/電工學徒觸電亡-4承辦商共罰逾320萬-官稱涉人命判刑要具阻嚇性.shtml
 2026-09-29	電工學徒科學園觸電亡 家屬入稟向5工程公司索償	https://thewitnesshk.com/電工學徒科學園觸電亡-家屬入稟向5工程公司索償/
 2026-09-29	電工學徒科學園觸電亡 4公司判罰41.7萬至90.8萬元 工權會：外判工程不等於責任外判	https://thewitnesshk.com/電工學徒科學園觸電亡-4公司判罰41萬至90萬元-工會外/
-2026-09-29	電工學徒3年前觸電亡 遺產管理人入稟提傷亡索償	https://www.stheadline.com/society/3612879/電工學徒3年前觸電亡-遺產管理人入稟提傷亡索償
 2026-09-29	陝西夫婦在雨中先後觸電身亡	https://www.epochtimes.com/b5/26/7/25/n14817126.htm
-2026-09-29	陝西26歲設計師凌晨公司猝死 此前已加班19日 因打機被拒認工傷	https://www.hk01.com/article/60343529
-2026-09-29	阿富汗喀中餐廳爆炸 中國公民1死1重傷 伊斯蘭國認施襲	https://www.i-cable.com/新聞資訊/430545/阿富汗喀中餐廳爆炸-中國公民1死1重傷-伊斯蘭國
 2026-09-29	長洲碼頭水手疑失足墮海 受傷送院	https://www.am730.com.hk/本地/1007323/長洲碼頭水手疑失足墮海-受傷送院
 2026-09-29	長洲碼頭水手失足墮海 獲救送院治理	https://www.hk01.com/突發/60317204/長洲碼頭水手失足墮海-獲救送院治理
 2026-09-29	長沙灣男子疑拍攝他人惹衝突 跌倒受傷送院治理	https://www.hk01.com/突發/60366225/長沙灣男子疑拍攝他人惹衝突-跌倒受傷送院治理
@@ -57,20 +48,16 @@ var DATA_TODAY = `
 2026-09-29	重慶一條施工中隧道發生爆炸 造成4人死亡	https://news.rthk.hk/rthk/ch/component/k2/1849422-20260331.htm
 2026-09-29	酒店廚房雪櫃恐怖大爆炸 20歲廚師爆頭亡 驚悚畫面瘋傳	https://www.stheadline.com/realtime-world/3580184/酒店廚房雪櫃恐怖大爆炸-20歲廚師爆頭亡-驚悚畫面瘋傳
 2026-09-29	遼寧本溪臨街商舖爆炸致2死13傷 疑石油氣洩漏 路過車輛遭波及	https://www.hk01.com/即時中國/60357295/遼寧本溪臨街商舖爆炸致2死13傷-疑石油氣洩漏-路過車輛遭波及
-2026-09-29	連續140天高強度工作 37歲科技男猝死 公司1理由：不算工傷	https://www.worldjournal.com/wj/amp/story/121344/9576658
 2026-09-29	載油棕苗羅厘丹咬公路失控, 撞向山壁司機當場夾斃	https://www.overseaschinesedailynews.com.my/news/123456/
 2026-09-29	躲执法检查失足坠楼 按摩女技师四楼坠亡	https://www.8tvnews.my/localnews/duozhifajianchashizuzhuilou-anmonujishisilouzhuiwang/
 2026-09-29	跑4圈突倒地！17歲高中生體育課心跳驟停 三度電擊救回	https://news.ebc.net.tw/news/society/539572
-2026-09-29	跌倒腦出血 「古惑仔」港星李道瑜58歲離世	https://www.worldjournal.com/wj/story/121341/9424220
 2026-09-29	跌倒成致命危機！8旬嬤膝蓋「啪」一聲竟二度骨折 「1疾病」成無形殺手	https://health.setn.com/news/1823300
 2026-09-29	赤柱浪琴園維修升降機意外 𨋢槽男工被金屬部件擊斃 重案組跟進	https://www.hk01.com/突發/60346416/赤柱浪琴園維修升降機意外-𨋢槽男工被金屬部件擊斃-重案組跟進
 2026-09-29	貴州女童玩「拼豆」 熨燙觸電離世 央視曝安全隱患	https://www.worldjournal.com/wj/amp/story/121344/9433305
-2026-09-29	貴州24歲騎手感冒後送外賣猝死 家屬申請工傷認定	https://www.hk01.com/大國小事/60291933/貴州24歲騎手感冒後送外賣猝死-家屬申請工傷認定
 2026-09-29	貨車司機卸木材遭壓斃 涉案物流公司判罰20萬元 官：裁決難以撫平親人傷感	https://thewitnesshk.com/貨車司機卸木材遭壓斃-涉案物流公司判罰20萬元-官/
 2026-09-29	貨櫃碼頭南路工人被困30米高龍門架 消防救下送院	https://www.stheadline.com/breaking-news/3590992/貨櫃碼頭南路工人被困30米高龍門架-消防救下送院
 2026-09-29	豐原下水道工程意外5名工人身體不適送醫| 社會	https://newtalk.tw/news/view/2026-09-28/1062326
 2026-09-29	警方拘捕一名駕駛壓路機男工涉九龍灣運動場致命工業意外	https://news.rthk.hk/rthk/ch/component/k2/1860107-20260627.htm
-2026-09-29	記者編輯部| 【楊楚光專欄】淹水、爆炸天災還是人禍？	https://www.i-meihua.com/Article/Detail/54840
 2026-09-29	討論牆 | 捷運木柵機廠旁鐵工廠傳工安意外 200公斤重鋼條掉落重擊工人亡	https://today.line.me/tw/v3/posts/list/article/PGepYp5
 2026-09-29	觀塘藍田邨單位煤氣爐爆炸 女住戶4成燒傷送院 疏散約80居民	https://www.stheadline.com/tv/tv-news/3577437/觀塘藍田邨單位煤氣爐爆炸-女住戶4成燒傷送院-疏散約80居民
 2026-09-29	觀塘偉業街變壓站外鑽地 男工誤觸電纜燒傷送院	https://www.i-cable.com/新聞資訊/447526/觀塘偉業街變壓站外鑽地-男工誤觸電纜燒傷送院
@@ -79,7 +66,6 @@ var DATA_TODAY = `
 2026-09-29	西貢六旬女清潔工跌倒受傷 由直升機救起送院	https://www.am730.com.hk/本地/1012974/西貢六旬女清潔工跌倒受傷-由直升機救起送院
 2026-09-29	西班牙工安意外 歌劇院附近建築部分倒塌釀4死｜#鏡新聞	https://tw.news.yahoo.com/西班牙工安意外-歌劇院附近建築部分倒塌釀4死-鏡新聞-083100890.html
 2026-09-29	裝修工人觸電離世 4間工程公司被法庭罰款2萬至23.4萬元｜本地｜商業電台 881903	https://www.881903.com/news/local/2601557
-2026-09-29	被譽為「也門蜘蛛俠」 極限攀岩者徒手攀120 米火山口失足墜高溫硫磺湖亡	https://www.bastillepost.com/hongkong/article/16170008-被譽為「也門蜘蛛俠」-極限攀岩者徒手攀120米火山
 2026-09-29	衣櫃倒塌奪命！英國女子遭壓頸亡 百年飯店遭市議會提告	https://udn.com/news/amp/story/6812/9448562
 2026-09-29	蘋果手錶「跌倒偵測」	https://hk.epochtimes.com/tag/蘋果手錶「跌倒偵測」
 2026-09-29	藍田邨藍碧樓有單位疑氣體爆炸 女子身體燒傷送院	https://news.tvb.com/tc/1173485-藍田邨藍碧樓有單位疑氣體爆炸女子身體燒傷送院
@@ -98,7 +84,6 @@ var DATA_TODAY = `
 2026-09-29	莫斯科有火車站外不明裝置爆炸 一名警員及施襲者喪生	http://www.aastocks.com/tc/stocks/news/infocast-news/IC4849187/1
 2026-09-29	荃灣墮梯工傷｜65歲男工留醫一日亡 年邁父嘆：無辦法啦……意外嘢	https://www.hk01.com/突發/60335171/荃灣墮梯工傷-65歲男工留醫一日亡-年邁父嘆-無辦法啦-意外嘢
 2026-09-29	茅台護士倒在崗位搶救10天亡 人社局稱不符工傷 網炸鍋	https://www.worldjournal.com/wj/story/121344/9777416
-2026-09-29	臨時工疑連續加班宿舍猝死 公司：僅出勤4天半，願配合申請工傷	https://www.hk01.com/大國小事/60330980/臨時工疑連續加班宿舍猝死-公司-僅出勤4天半-願配合申請工傷
 2026-09-29	老人误入江滩深处被困整夜：是以前和妻子每天走的路	https://news.ifeng.com/c/8r5FdtNHoKE
 2026-09-29	義大利警方赴農舍執行驅逐任務遇爆炸 3死	https://hk.news.yahoo.com/義大利警方赴農舍執行驅逐任務遇爆炸-3死-095001797.html
 2026-09-29	義大利情人拱門「情人節當天」突倒塌 接吻傳說成絕響 殘骸畫面曝光	https://www.worldjournal.com/wj/amp/story/121617/9333270
@@ -123,7 +108,6 @@ var DATA_TODAY = `
 2026-09-29	粉嶺私家車「自炒」四輪朝天 女司機受傷送院	https://std.stheadline.com/breaking-news/3607537/粉嶺私家車自炒四輪朝天-女司機受傷送院
 2026-09-29	竹縣某國中生遭籃球框架壓傷不治 家屬擬提國賠 (圖)	https://tw.news.yahoo.com/竹縣某國中生遭籃球框架壓傷不治-家屬擬提國賠-圖-075359410.html
 2026-09-29	竹東自強國中爆嚴重意外！男籃隊學生「收籃球架遭壓傷不治」	https://tw.news.yahoo.com/竹東自強國中爆嚴重意外-男籃隊學生-收籃球架遭壓傷不治-072341651.html
-2026-09-29	突猝死宿舍！23歲男「連上13天夜班」又超時 公司撇清：死因非工傷	https://tw.news.yahoo.com/突猝死宿舍-23歲男-連上13天夜班-又超時-公司撇清-022406546.html
 2026-09-29	秘境「巨人之手」工安意外! 工人沒安全繩摔死 工地主任判6月	https://www.msn.com/zh-tw/news/other/秘境-巨人之手-工安意外-工人沒安全繩摔死-工地主任判6月/ar-AA1YrOFO
 2026-09-29	科學園電工學徒觸電亡 承建商及分判商涉未採措施裁罪成	https://www.hk01.com/article/60374624
 2026-09-29	科學園工程電工觸電亡 官斥多層判商均忽視責任 罰4公司314萬	https://www.hk01.com/社會新聞/60391056/科學園工程電工觸電亡-官斥多層判商均忽視責任-罰4公司314萬
@@ -146,14 +130,9 @@ var DATA_TODAY = `
 2026-09-29	玻利维亚军营烟花库大爆炸 波及周边民居 至少2死14失踪82伤	https://www.stheadline.com/zh-hans/realtime-world/3611893/玻利维亚军营烟花库大爆炸-波及周边民居-至少2死14失踪82伤
 2026-09-29	獨／竹東自強國中傳意外 14歲學生收籃球架遭壓傷不治	https://udn.com/news/amp/story/7320/9705901
 2026-09-29	獨居長者室內跌倒危機多！改善居家環境結合緊急救援系統 把握黃金救援時機避免憾事	https://www.pinview.com.tw/News/53761.html
-2026-09-29	獨家／馬如龍兒子跌倒猝逝！小兒子悲慟發聲 70歲沛小嵐現況曝光	https://star.setn.com/news/1790663
-2026-09-29	獨家／馬如龍兒子在家跌倒49歲猝逝！四女兒哭曝：一度恢復心跳	https://star.setn.com/news/1790295
 2026-09-29	特朗普的船隻爆炸事件：美國長期以來如何使用“雙擊”打擊	https://mtgamer.com/全球資訊/特朗普的船隻爆炸事件：美國長期以來如何使用/174895/
 2026-09-29	父送兒子上學「遺忘女兒在車上」 3歲女被困50℃高溫車內活活熱死	https://www.hk01.com/article/60252697?utm_source=01articlecopy&utm_medium=referral
 2026-09-29	爆炸使尤蒂卡在加時賽中無法反彈	https://citytimes.tw/運動的/爆炸使尤蒂卡在加時賽中無法反彈/764267/
-2026-09-29	熱浪襲歐洲｜荷蘭首發高溫「紅色警報」 法國再有幼童被困車內焗死	https://news.tvb.com/tc/1179141-熱浪襲歐洲荷蘭首發高溫紅色警報法國再有幼童被困車內焗死
-2026-09-29	熱浪襲歐 意工會警告極端高溫成致命工傷	https://www.tdm.com.mo/zh-hant/news-detail/1214977?lang=zh-hant&isvideo=true&shortvideo=0
-2026-09-29	熊本地震︱Aeon Mall爆炸崩塌疑燃氣外泄引發 永旺首發聲明：4員工下落不明	https://www.stheadline.com/realtime-world/3598677/熊本地震Aeon-Mall爆炸崩塌疑燃氣外泄引發-永旺首發聲明4員工下落不明
 2026-09-29	煙火爆炸造成中國東部至少8人死亡	https://www.gamereactor.cn/fireworks-explosion-kills-at-least-8-in-eastern-china-1244043/
 2026-09-29	無牌電工學徒3年前工作期間觸電亡4承辦商判罰41.7萬至90.8萬元官批大判犯極大錯誤對涉案工程忽視屬嚴重類別	https://hkcourtnews.com/無牌電工學徒3年前工作期間觸電亡 4承辦商判罰41-7/
 2026-09-29	無人機空運電擊器 可縮短心臟救援時間	https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tckh3VTNkZ0NYM0l0V0pvQUh3ZENUdjRTRlJlajZaUFUxMzRkeW1pWDU2dWVJbHJMRjFjOHVWY2tPRGVMZDZPWTlrcUtzSC00TjdCRWRIaw?oc=5
@@ -173,23 +152,19 @@ var DATA_TODAY = `
 2026-09-29	港鐵尖東站內男子跌倒 頭傷清醒送院	https://hk.news.yahoo.com/中年男港鐵站內跌倒-頭傷清醒送院-032922852.html
 2026-09-29	港鐵堅尼地城站扶手梯意外 女子失平衡 兩長者遭撞跌受傷送院	https://www.hk01.com/突發/60386065/港鐵堅尼地城站扶手梯意外-女子失平衡-兩長者遭撞跌受傷送院
 2026-09-29	港鐵堅尼地城站扶手梯意外 兩男女跌倒受傷送院	https://www.hk01.com/突發/60386065/港鐵堅尼地城站扶手梯意外-兩男女跌倒受傷送院
-2026-09-29	港真东盟｜干拉旺火山“爆炸性喷发”_苏里南_新闻	http://www.52hrtt.com/sln/n/w/info/ifm2026022007590812794833
 2026-09-29	深夜，师宗一男子被困三轮车	https://m.sohu.com/a/982013884_120815119?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 2026-09-29	深圳知名景区发生意外！6名学生夜里被困，1人滚下山坡！消防紧急赶赴现场	https://m.sohu.com/a/986263915_161795?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 2026-09-29	深圳一工业园内危墙倒塌致1死，涉事公司被查出超范围经营	https://m.mp.oeeee.com/a/BAAFRD0000202601071505939.html
-2026-09-29	深圳39歲程式員猝死公司馬桶上 不算工傷？ 網友炸鍋	https://www.worldjournal.com/wj/story/121344/9691508
 2026-09-29	涉九龍灣運動場致命工業意外 駕駛壓路機男工人遭警方拘捕	https://www.orangenews.hk/hongkong/VNheQKS/涉九龍灣運動場致命工業意外-駕駛壓路機男工人遭警方拘捕.shtml
 2026-09-29	泰國曼谷附近起重機倒塌壓毀汽車 至少2死、5傷	http://www.aastocks.com/tc/stocks/news/aafn-con/IC4825945/world-markets/INFOCAST
 2026-09-29	泰國曼谷郊區吊機倒塌致2死5傷 兩天內第二宗同類意外	https://www.hk01.com/即時國際/60312992/泰國曼谷郊區吊機倒塌致2死5傷-兩天內第二宗同類意外
 2026-09-29	泰國列車被倒塌吊臂擊中 至少19死約80傷	https://news.tvb.com/tc/world/69672b18803b9023269817a7/國際-泰國列車被倒塌吊臂擊中-至少19死約80傷
 2026-09-29	泰國再發生起重機倒塌意外 砸2車已知2死5傷｜#公視新聞網 #Shorts	https://news.pts.org.tw/video/15977
-2026-09-29	法國山火引爆疑似二戰德軍遺留彈藥庫 據報現場發生逾百次爆炸	https://www.orangenews.hk/international/VQvk73r/法國山火引爆疑似二戰德軍遺留彈藥庫-據報現場發生逾百次爆炸.shtml
 2026-09-29	油麻地奪命工傷｜遺屬愁過中秋久未平伏 姊盼目擊者提供資料影片	https://www.hk01.com/article/1059075?utm_source=01articlecopy&utm_medium=referral
 2026-09-29	油麻地京士柏道屋苑工業意外 62歲男工遭電鋸割傷手指送院	https://www.stheadline.com/breaking-news/3612942/油麻地京士柏道屋苑工業意外-62歲男工遭電鋸割傷手指送院
 2026-09-29	沙田威爾斯醫院地盤工業意外 男工人頭部受傷送院	https://news.rthk.hk/rthk/ch/component/k2/1838689-20260105.htm
 2026-09-29	沙田城門河男子墮河 獲救清醒送院	https://std.stheadline.com/breaking-news/3619224/沙田城門河男子墮河-獲救清醒送院
 2026-09-29	沙田6個月大女嬰半夜離奇死亡 家人懷疑被3歲哥哥壓斃 警調查後另有原因	https://www.msn.com/zh-tw/entertainment/news/沈玉琳-怕比小17歲老婆早逝-曾被撞見陽台痛哭/ar-AA1Jy2iY?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
-2026-09-29	江西玉山居民樓發生爆炸 傷亡不明	https://www.epochtimes.com/b5/26/7/30/n14819999.htm
 2026-09-29	江蘇鹽城有興建中大橋倒塌 至少五死	https://news.tvb.com/tc/greaterchina/6981782fe366b477d9bc49bb/兩岸-江蘇鹽城有興建中大橋倒塌-至少五死
 2026-09-29	江蘇鹽城有大橋施工期間倒塌釀5死	https://www.i-cable.com/新聞資訊/中國在線/435138/江蘇鹽城有大橋施工期間倒塌-至少2死3失蹤
 2026-09-29	江蘇湖北先後有煙花店爆炸釀20死 國務院安委辦指暴露出5突出問題 要求各地開展排查整治	https://www.i-cable.com/新聞資訊/中國在線/440075/江蘇湖北先後有煙花店爆炸釀20死-國務院安委辦指
@@ -199,10 +174,8 @@ var DATA_TODAY = `
 2026-09-29	水塘馬路男鐵騎士疑自炒送院搶救	https://www.tdm.com.mo/zh-hant/news-detail/1178918?lang=zh&isvideo=false&shortvideo=0
 2026-09-29	民眾騎車突暈眩跌倒 | 暖警緊急協助送醫	https://tw.news.yahoo.com/民眾騎車突暈眩跌倒-暖警緊急協助送醫-042547275.html
 2026-09-29	母嬰健康院保安遭閘門壓斃 辯方引行政上訴委員會裁決書抗辯 官押明年1.4裁決	https://thewitnesshk.com/母嬰健康院保安遭閘門壓斃-辯方引行政上訴委員會/
-2026-09-29	母半夜跌倒頭撞牆！ 驚罹腦溢血急手術搶救不治崔佩儀崩潰大哭	https://www.msn.com/zh-tw/health/other/母半夜跌倒頭撞牆-驚罹腦溢血急手術搶救不治-崔佩儀崩潰大哭/ar-AA1Momv0?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
 2026-09-29	武漢地鐵起重機倒塌 壓扁轎車釀1死1傷	https://news.ebc.net.tw/news/world/535690
 2026-09-29	武漢地鐵工地龍門吊倒塌 砸中車輛致1死1傷	https://www.epochtimes.com/b5/26/2/2/n14689072.htm/amp
-2026-09-29	歌仔戲大師跌倒猝逝2天顯靈！她「聽見阿嬤聲音」託夢過程曝	https://tw.news.yahoo.com/歌仔戲大師跌倒猝逝2天顯靈-她-聽見阿嬤聲音-託夢過程曝-233828177.html
 2026-09-29	機動遊戲半空倒塌 警員搶救傷者慘遭砸死(有片)	https://www.am730.com.hk/國際/1010034/機動遊戲半空倒塌-警員搶救傷者慘遭砸死-有片-
 2026-09-29	楊梅7旬婦熱昏頭跌倒受傷 警消即刻救援	https://www.marketersgo.com/uncategorized/202605/楊梅7旬婦熱昏頭跌倒受傷-警消即刻救援/
 2026-09-29	梅窩度假屋57歲地盤工嬉水後 疑全身濕透摘野莓觸碰燈柱觸電亡	https://hk.news.yahoo.com/梅窩度假屋57歲地盤工嬉水後-疑全身濕透摘野莓觸碰燈柱觸電亡-030600649.html
@@ -214,11 +187,9 @@ var DATA_TODAY = `
 2026-09-29	杭州百丈岭看雪爆火，每天多人被困求救	https://pic.hangzhou.com.cn/hzyx/content/content_9158608.html
 2026-09-29	李千娜強忍淚水談顏正國逝世 生活受到影響「腦袋快要爆炸」	https://tw.news.yahoo.com/李千娜強忍淚水談顏正國逝世-生活受到影響-腦袋快要爆炸-113346702.html
 2026-09-29	本·拉登人生最后的清醒时刻：听到爆炸声后他告诉家人回楼下睡觉，不要开灯，又转头对妻子说美国人来了，随后一切在枪声中终结	https://m.sohu.com/a/1063886298_121982400?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
-2026-09-29	未爆彈藥爆炸 伊朗伊斯蘭革命衛隊14人死亡	https://www.worldjournal.com/wj/amp/story/121480/9477067
 2026-09-29	有片｜西貢西灣六旬女清潔工跌倒受傷 直升機協助吊起送院	https://www.hk01.com/突發/60324096/有片-西貢西灣六旬女清潔工跌倒受傷-直升機協助吊起送院
 2026-09-29	有片｜工人彎位企路中睇文件車輛急扭軚避撞網民轟：搏工傷？	https://www.hk01.com/article/60358813
 2026-09-29	有片｜內地女被困西半山斜坡4小時 獲飛行服務隊游繩救起	https://www.hk01.com/突發/60283253/有片-內地女被困西半山斜坡4小時-獲飛行服務隊游繩救起
-2026-09-29	有片／猶如火山爆發！ 馬爾他煙火工廠大爆炸全島都聽見、至今2人傷	https://tw.news.yahoo.com/有片-猶如火山爆發-馬爾他煙火工廠大爆炸全島都聽見-至今2人傷-095007987.html
 2026-09-29	有片︱屯門公路近小秀村3車撞有司機一度被困出荃灣交通擠塞	https://www.hk01.com/突發/60362119/有片-屯門公路近小秀村3車撞-有司機一度被困-出荃灣交通受阻
 2026-09-29	有片丨緬甸炸藥倉庫爆炸至少55人死半空現巨大蘑菇雲300間房屋受損- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17361150060748/重點新聞-有片丨緬甸炸藥倉庫爆炸至少55人死-半空現巨大蘑菇雲-300間房屋受損
 2026-09-29	春節不平靜！中國湖北爆竹店爆炸12死 3天內連2起累計20死 | 兩岸傳真 | 全球	https://www.nownews.com/news/6787753
@@ -235,7 +206,6 @@ var DATA_TODAY = `
 2026-09-29	收籃球架慘遭壓傷 新竹縣14歲國中生送醫不治	https://tw.news.yahoo.com/收籃球架慘遭壓傷-新竹縣14歲國中生送醫不治-065817812.html
 2026-09-29	摩洛哥大城費茲2棟公寓接連倒塌 至少22死16傷	https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=043a8904-2f74-4db3-9227-9ba5b02cff29
 2026-09-29	摩洛哥兩幢相連住宅大樓倒塌至少19死16傷 或因僭建肇事	https://www.aastocks.com/tc/stocks/news/infocast-news/IC4806210/1
-2026-09-29	搶救時還被要求工作…32歲程序員猝死認定工傷 曝生前畫面	https://www.worldjournal.com/wj/amp/story/121344/9378178
 2026-09-29	掃管笏龍珠島花園57歲男疑意外跌倒 頭部重創倒斃寓所廚房	https://www.hk01.com/突發/60274511/掃管笏龍珠島花園57歲男疑意外跌倒-頭部重創倒斃寓所廚房
 2026-09-29	指何文田自由道4號一個建築地盤內發生工業意外，一輛工程 ...	https://www.threads.com/@kong.news/post/DaJ174JgYOZ/今日29日上午9時許警方接獲報案指何文田自由道4號一個建築地盤內發生工業意外一輛工程車疑吊運鐵通期間突然翻側鐵通墮下並壓向一名男工人救援人員接報趕至證實該名工人/
 2026-09-29	持续干旱 日本部分地区蔬菜生长受限俄公布莫斯科火车站爆炸案视频，普京：爆炸装置被远程引爆	https://www.52hrtt.com/ec/n/w/infoVideo/G1770704168259
@@ -245,21 +215,15 @@ var DATA_TODAY = `
 2026-09-29	房间门一闭一开 被困者情况迥异	https://m.sohu.com/a/972860988_163278?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334&spm=smwp.channel_247.block2_307_epwR4p_1_fd.11.1767646800010DA5oXoZ_324
 2026-09-29	懶人火鍋變炸彈？聖保羅學生操作失誤致爆炸 10學生燙傷耳鳴送院 附7大安全使用貼士	https://ufood.com.hk/restaurant/news/detail/20097054/懶人火鍋變炸彈-聖保羅學生操作失誤致爆炸-學生燙傷耳鳴送院-附-大安全使用貼士
 2026-09-29	慶尋新職→死亡之旅！他站12m高自拍「失足頭撞石亡」 老爹哭：不該是我埋他	https://tw.news.yahoo.com/慶尋新職-死亡之旅-他站12m高自拍-失足頭撞石亡-老爹哭-033948192.html
-2026-09-29	悲！住家水浸, 3姐妹同觸電暴斃死狀悽慘, 家屬揭更驚人死亡內情。	https://www.hk01.com/article/848678?utm_source=01articlecopy&utm_medium=referral
 2026-09-29	恐怖！印度酒店雪櫃爆炸！20歲廚師爆頭亡離鄉養家入職僅1 ...	https://www.hk01.com/article/60357959
 2026-09-29	恐怖工業意外●有片│工人被強行捲入研磨機 攪成肉碎亡 悽厲尖叫	https://www.hk01.com/人氣話題/60349166/恐怖工業意外-有片-工人被強行捲入研磨機-攪成肉碎亡-悽厲尖叫
 2026-09-29	快訊／男疑修電線觸電摔亡！ 多日無人發現 鄰居聞臭才揭悲劇	https://www.facebook.com/ETtoday/posts/快訊男疑修電線觸電摔亡多日無人發現鄰居聞臭才揭悲劇/1570630681762678/
-2026-09-29	快訊／川普才警告! 伊朗阿巴斯港驚傳大爆炸 至少1死14傷	https://www.msn.com/zh-tw/news/other/快訊-川普才警告-伊朗阿巴斯港驚傳大爆炸-至少1死14傷/ar-AA1Vo0PG?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-09-29	快訊／女子龍洞攀岩失足墜落10米! 頭部重創搶救不治	https://www.msn.com/zh-tw/news/other/快訊-女子龍洞攀岩失足墜落10米-頭部重創搶救不治/ar-AA22dglQ?cvid=69f6a51bb5ea4bc5bf446019f6899307&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
-2026-09-29	快訊／台中工安意外！19歲男20樓墜落 無呼吸心跳搶救中	https://tw.news.yahoo.com/快訊-台中工安意外-19歲男20樓墜落-無呼吸心跳搶救中-050800968.html
 2026-09-29	快訊》 澎湖縣長陳光復疑似失足摔下樓頭部重創在醫院急救中	https://www.msn.com/zh-tw/news/national/快訊-澎湖縣長陳光復疑似失足摔下樓-頭部重創在醫院急救中/ar-AA1Wvc8t
 2026-09-29	德拉加什煤氣罐爆炸，一名婦女死亡	https://www.gazetaexpress.com/zh-TW/shperthen-bombola-e-gazit-vdes-nje-grua-ne-dragash/
-2026-09-29	德州13歲少年打機遭雷擊險死 身體瞬間轟飛胸口留電擊痕跡	https://www.hk01.com/即時國際/60368501/德州13歲少年打機遭雷擊險死-身體瞬間轟飛胸口留電擊痕跡
 2026-09-29	德国指责俄罗斯制造爆炸无人机事件，采取关闭总领事馆和文化院等报复措施。	https://www.mk.co.kr/cn/world/12146592
 2026-09-29	徐暐翔「高音唱不上去」壓力爆炸 竟狂甩自己巴掌！鼻腔驚見腫塊	https://stars.udn.com/star/amp/story/10092/9730727
-2026-09-29	影／孟加拉實彈演習意外 坦克射擊時突爆炸！2士兵死亡1軍官重傷	https://www.marketersgo.com/media-collaboration/202609/影／孟加拉實彈演習意外 坦克射擊時突爆炸！2士/
 2026-09-29	影／嚴重工安意外！工人被龍門銑床捲入 瞬間騰空高速狂轉	https://www.teepr.com/1892521/mollylin/工廠意外-2/
-2026-09-29	影音／驚悚倒塌瞬間!首爾高架橋坍塌 砸中車3死3傷	https://www.msn.com/zh-tw/news/world/驚悚倒塌瞬間-首爾高架橋坍塌-砸中車3死3傷/ar-AA245skQ
 2026-09-29	影音／何篤霖哥哥打籃球突倒地！ 警負傷急救電擊成功從鬼門關救回	https://www.msn.com/zh-tw/news/national/影音-何篤霖哥哥打籃球突倒地-警負傷急救電擊-成功從鬼門關救回/ar-AA21mDhE
 2026-09-29	彰化工安意外！吊板材11樓墜下砸爛2車居民嚇傻：以為是炸彈| 社會	https://www.nownews.com/news/6780734
 2026-09-29	張敬軒韓國遇意外棚架倒塌壓毀座駕 幸遲到保命：架車total loss	https://www.hk01.com/即時娛樂/60335710/張敬軒韓國遇意外棚架倒塌壓毀座駕-幸遲到保命-架車total-loss
@@ -267,28 +231,21 @@ var DATA_TODAY = `
 2026-09-29	廣西興安縣發生爆炸事件造成7死17傷	https://news.rthk.hk/rthk/ch/component/k2/1858072-20260611.htm
 2026-09-29	廣西興安縣爆炸7死17傷 正調查事故原因	https://www.i-cable.com/新聞資訊/中國在線/473354/廣西興安縣爆炸7死17傷-正調查事故原因
 2026-09-29	廣西桂林屋苑凌晨爆炸7死17傷 有陽台炸毀 居民：聽到兩聲爆炸	https://www.hk01.com/即時中國/60359063/廣西桂林屋苑凌晨爆炸7死17傷-有陽台炸毀-居民-聽到兩聲爆炸
-2026-09-29	廣州32歲程式員猝死：生前過勞、死後仍收工作訊息 官方認定工傷	https://www.hk01.com/大國小事/60330443/廣州32歲程式員猝死-生前過勞-死後仍收工作訊息-官方認定工傷
 2026-09-29	廢液桶槽結晶「撒旦之母」突爆炸！ 桃園工人清理遭炸死 | 社會 | CTWANT	https://www.ctwant.com/amp/article/460698/
 2026-09-29	广东一男子因滑翔伞失控坠落海边礁石，右脚受伤被困，消防紧急救援	https://m.sohu.com/a/986534542_162522?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 2026-09-29	幾內亞首都最大垃圾堆填區倒塌 至少30死22傷	https://www.orangenews.hk/international/VTAy3y4/幾內亞首都最大垃圾堆填區倒塌-至少30死22傷.shtml
 2026-09-29	巴黎迪士尼鬼屋觸電奪命案 電工過世10年終開審 非首次工業意外	https://www.hk01.com/熱爆話題/60370752/巴黎迪士尼鬼屋觸電奪命案-電工過世10年終開審-非首次工業意外
 2026-09-29	巴西女登山友噴防蚊液失足墮30米懸崖喪命- 國際	https://www.dotdotnews.com/s/202606/19/AP6a35047ee4b09ea23318f0c3.html
-2026-09-29	巴基斯坦首都有石油氣罐爆炸 最少8死7傷	https://news.tvb.com/tc/world/6964060b803b9023267d8590/國際-巴基斯坦首都有石油氣罐爆炸-最少8死7傷
-2026-09-29	巴基斯坦西南部發生爆炸 造成1死16傷	https://news.rthk.hk/rthk/ch/component/k2/1838716-20260106.htm
-2026-09-29	巴基斯坦西南部煤礦爆炸至少34名礦工死亡	https://news.rthk.hk/rthk/ch/component/k2/1864452-20260731.htm
 2026-09-29	巴基斯坦煤礦爆炸釀32死10 人被困當局料死亡人數或再增	https://www.bastillepost.com/hongkong/article/16473279-巴基斯坦煤礦爆炸至少11死31人被困-甲烷氣體積聚引
 2026-09-29	巴基斯坦煤礦爆炸至少34死 多名礦工被困	https://www.am730.com.hk/國際/1044917/巴基斯坦煤礦爆炸至少34死-多名礦工被困
 2026-09-29	已勒令工地全面停工並助傷者跟進賠償兩局高度重視工傷事故	http://www.vakiodaily.com/news/view/id/702897
 2026-09-29	工業意外｜落馬洲廢物回收場52歲工人被困拋光機 救出後送院	https://news.tvb.com/tc/1152637-工業意外落馬洲廢物回收場52歲工人被困拋光機救出後送院
-2026-09-29	工業意外｜準爸爸開工猝死遺懷孕妻，遺孀早產母子平安：重燃希望，感激善長人翁雪中送炭	https://hk.news.yahoo.com/工業意外-準爸爸開工猝死遺懷孕妻-遺孀早產母子平安-重燃希望-感激善長人翁雪中送炭-092337208.html
 2026-09-29	工業意外｜水泥工人遭夾死 勞工處停用啟德承豐里地盤升降工作台	https://news.hket.com/article/4068847/工業意外｜水泥工人遭夾死 勞工處停用啟德承豐里地盤升降工作台?mtc=20023
 2026-09-29	工業意外｜水泥工人遭地盤升降台夾斃 建造業議會停涉事泥水分包商註冊資格	https://news.hket.com/article/4069843/工業意外｜水泥工人遭地盤升降台夾斃 建造業議會停涉事泥水分包商註冊資格
 2026-09-29	工業意外｜啟德醫院工人疑遭一噸重組裝件壓斃 醫管局促總承建商嚴肅跟進	https://www.am730.com.hk/article/1026482
 2026-09-29	工業意外去年奪42命 團體促改善工地環境	https://www.tkww.hk/epaper/view/newsDetail/2016578115811282944.html
 2026-09-29	工安意外釀1死長春化工廠停工- 台灣社會- 新聞	https://www.chinesedaily.com/article/detail-679697.html
 2026-09-29	工安意外奪命…女工沒綁安全帶修屋頂摔死 雇主遭判賠家屬447萬	https://tw.news.yahoo.com/工安意外奪命-女工沒綁安全帶修屋頂摔死-雇主遭判賠家屬447萬-092437240.html
-2026-09-29	工傷｜建造業議會：催工文化最危害安全 去年猝死個案工友佔3成	https://www.hk01.com/社會新聞/60269763/工傷-建造業議會-催工文化最危害安全-去年猝死個案工友佔3成
-2026-09-29	工作過勞｜電梯工連做59小時疑「過勞死」 公司未認工傷 遺孀：係咪死喺𨋢槽先算？	https://skypost.hk/article/3997040/工作過勞-電梯工連做59小時疑-過勞死-公司未認工傷-遺孀-係咪死喺-槽先算
 2026-09-29	山西長治市沁源縣煤礦爆炸 新華社︰超過50死	https://news.tvb.com/sc/greaterchina/6a1132325023e5291fd74301/两岸-山西長治市沁源縣煤礦爆炸-新華社超過50死
 2026-09-29	山西爆炸煤礦90死 公司曾有多次被罰記錄 涉事企業負責人被控制	https://www.hk01.com/即時中國/60352888/山西爆炸煤礦90死-公司曾有多次被罰記錄-涉事企業負責人被控制
 2026-09-29	山西煤礦爆炸死亡人數增至82人 習近平強調要全力救治傷者	https://news.tvb.com/sc/greaterchina/6a1132325023e5291fd74301/两岸-山西煤礦爆炸死亡人數增至82人-習近平強調要全力救治傷者
@@ -335,13 +292,9 @@ var DATA_TODAY = `
 2026-09-29	女子带11岁儿子山中追雪被困！接连2起雪夜救援，网友：该收费！	https://m.sohu.com/a/973609312_349247?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 2026-09-29	奪命工傷．拆局｜半月3死「血色開年」 千萬罰則淪為紙老虎？	https://www.hk01.com/政情/60313314/奪命工傷-拆局-半月3死-血色開年-千萬罰則淪為紙老虎
 2026-09-29	奪命工傷3日3宗紮鐵男遭砸斃	https://www.stheadline.com/daily-hongkong/3535615/奪命工傷3日3宗紮鐵男遭砸斃
-2026-09-29	失常男发狂殴母 突跌倒猝死	https://guangming.com.my/失常男发狂殴母-突跌倒猝死
 2026-09-29	夫妻觸電驟逝！留倆兄弟背210萬債務 銀行暖心全免助其保住房子	https://www.nownews.com/news/6869066
-2026-09-29	天灾碰上硬茬了！8000学生被困洪水3天，60吨巨无霸直接杀进校园	https://c.m.163.com/news/a/L1I22CSD0556830W.html?spss=backflow-index-hotlist
-2026-09-29	天灾无情人有情！柳州地震后螺蛳粉店免费送粉 目前最后一名被困者已经获救！	https://m.sohu.com/a/1024820099_121627717?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334&spm=smwp.channel_247.block2_307_epwR4p_1_fd.17.1779192000010DA5oXoZ_324
 2026-09-29	天水圍貨櫃停車場貨車溜前撞拖架 司機夾斃	https://www.hkej.com/instantnews/current/article/4350630/天水圍貨櫃停車場貨車溜前撞拖架+司機夾斃
 2026-09-29	天冷體力不支險跌倒 台中警巡邏即時救援獨居阿伯	https://17news.net/archives/310794
-2026-09-29	大陸黑龍江省1處樓房坍塌 9人被困	https://money.udn.com/money/story/5603/9409901
 2026-09-29	大陸「拼豆」玩具藏隱患 貴州女孩觸電離世	https://www.epochtimes.com/b5/26/4/10/n14738532.htm/amp
 2026-09-29	大欖涌男女行山客失足墮山 出動直升機搜救送院	https://www.mytvsuper.com/tc/scoopplus/scoop/hot-topic/5903926707534/東張焦點-大欖涌男女行山客失足墮山-出動直升機搜救送院
 2026-09-29	大学生寒假爬山被困 石嘴山消防紧急营救	https://www.nxnews.net/tp/tjxw/202601/t20260113_1403335.html
@@ -350,7 +303,6 @@ var DATA_TODAY = `
 2026-09-29	大埔回收場爆炸｜增至4危殆 包括送貨員及3職員 皆全身多處燒傷	https://std.stheadline.com/breaking-news/3556786/大埔回收場爆炸增至4危殆-包括送貨員及3職員-皆全身多處燒傷
 2026-09-29	墨西哥小鎮發生煙花爆炸 至少10死64傷	https://www.epochtimes.com/b5/26/9/7/n14844121.htm
 2026-09-29	堅尼地城站兩男女搭扶手梯 跌倒受傷送院	https://www.stheadline.com/breaking-news/3610809/堅尼地城站兩男女搭扶手梯-跌倒受傷送院
-2026-09-29	基隆街地盤工傷｜61歲男工猝死遺妻兒 事發時進行天花間隔工程	https://www.hk01.com/突發/60359081/基隆街地盤工傷-61歲男工猝死遺妻兒-事發時進行天花間隔工程
 2026-09-29	基隆民宅竄火爆炸 視障婦遭困女兒嚇昏	https://tw.news.yahoo.com/基隆民宅竄火爆炸-視障婦遭困女兒嚇昏-024300968.html
 2026-09-29	坠落火山惨死 | 女登山客失足坠落火山 被困3日寻获尸体「证实死亡」 ...	https://www.mytvsuper.com/sc/scoopplus/shorts/15472235506124/墜落火山慘死---女登山客失足墜落火山-被困3日尋獲屍體-證實死亡-
 2026-09-29	地盤意外｜天秤工作守則將有新規 維修工程擬推「4S」智慧工地系統	https://news.hket.com/article/4156834/地盤意外｜天秤工作守則將有新規 維修工程擬推「4S」智慧工地系統
@@ -377,16 +329,13 @@ var DATA_TODAY = `
 2026-09-29	啟德地盤工人遭平台板夾斃 1死1傷	https://www.881903.com/news/local/2614472
 2026-09-29	啟德地盤工人疑遭平台板夾斃 日內第二宗致命工業意外	https://m.hkej.com/landing/mobarticle2/id/4297510/啟德地盤工人疑遭平台板夾斃 日內第二宗致命工業意外
 2026-09-29	啟德65歲地盤男工被升降台夾斃 日內第二宗致命工業意外	https://www.stheadline.com/breaking-news/3535499/啟德65歲地盤男工被升降台夾斃-日內第二宗致命工業意外
-2026-09-29	哥倫比亞地震｜94歲老婦被困兩日獲救 全國進入經濟緊急狀態、否認拒絕外國援助	https://www.i-cable.com/新聞資訊/493931/哥倫比亞地震-94歲老婦被困兩日獲救-全國進入經
 2026-09-29	哈薩克咖啡店漏煤氣爆炸 7死19傷	https://www.am730.com.hk/國際/1014384/哈薩克咖啡店漏煤氣爆炸-7死19傷
 2026-09-29	吹風機3年沒用！10歲女童吹頭髮觸電亡 奶奶痛哭：還沒帶她出遊	https://www.msn.com/zh-tw/news/world/吹風機3年沒用-10歲女童吹頭髮觸電亡-奶奶痛哭-還沒帶她出遊/ar-AA1OjWbR?cvid=68ec3009567e41db95de6d8fbbbb7f93
 2026-09-29	吹風機3年沒用！10歲女童吹頭髮觸電亡 奶奶痛哭： 還沒帶她出遊 - MSN	https://news.google.com/rss/articles/CBMi_gRBVV95cUxPblFzbVRtMEVMVEVJbUdMTlRzN1B3RzJqZlpvNVh3cE1icjQ2RVltQnhPczVFVTBCVkhrRDNPMTV1Zko3UTBiNDV2UW9ZWmRwRFJxNjRlZy14VjlUV3c3ODZvZ3hranhob3RRbUY3TDZqc2Fncy0zR2RoQTdOUmpxSlprTnpJOHdueHlaYlZ1VldiRmJOTko4bXpBOFJKZVpObGhYZHBvVXZ6c0NxaVdZcy1iQktIY1AwakcyYlREYnBpRm9VdmZFX1J0eXBELUU1NDVmcVNVSHNhdzl0TUNPazFPRG1IdGVka2NWekVieTlUSXhucWNQcnhpelBIcTJ5bXhfU0tGZ2JWQzQzaUdaNkh0aDRDdG5adzBXdHR3QlV4TkN2ZmR1Y2lfUzRJcVBqMmZWQW8zVU5URi1HWUhWc1lHdUNNSWpKT2ZpeVhidERTSG5wamJPQ0tjUlBQNVMzSkh5YTlVUlBnSDdiSHBldDBkajBCenk3TEJHakJkOWlJZUhBYURVYm93Yy02ZElWd0pPM0lBVkRRSnUxTmFUeVdzaTh4RTQ2TEdoT0Z6MWlsS2JrWHdxaW5wamJVVm1IbjgxM0t6WW5vanlodEt3Zk40TVBtRE41RWVuSk02QUZIZVAtRktJYWdac1dOeFAzWEktdEpKbDkxd1Y0alg5bFdDOWJmV3NleWhNMm1PVHBKLWd3N1NaY2FWamFNMEVfbnJVM2dUX3dQVGpXeDFsLXV0ZU1rRXZfNVJQbmhPcjZfaTc1Wm1MaFRWbXo2Qll2Q3BScTdtNkVjN0hRM2g3UkRyeTdZTjRuZFhzNEI4V3Z0UXhid0ttQ2txbXByQQ?oc=5
 2026-09-29	名醫與疾病的對話／訪日跌倒骨折讓醫者變患者 王正旭：台灣亟需無障礙路徑	https://health.udn.com/health/amp/story/6001/9403159
-2026-09-29	台電工安意外！鐵塔絕緣裝置「礙子」掉落 1員工頭部重傷亡	https://news.tvbs.com.tw/local/3167490
 2026-09-29	台船工安意外以撫卹家屬、施工作業檢討為要 持續按計劃進度施工	https://finance.ettoday.net/news/3241567
 2026-09-29	台積電嘉義廠區工安意外1死 承包商遭起訴	https://news.ebc.net.tw/news/society/569429
 2026-09-29	台中1日2工安意外 1死1命危	https://tw.news.yahoo.com/台中1日2工安意外-1死1命危-201000713.html
-2026-09-29	台中19歲士兵遭壓死 軍方： 助家屬處理後事	https://www.msn.com/zh-tw/news/national/台中19歲士兵遭壓死-軍方-助家屬處理後事/ar-AA1XKan9?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-09-29	受強聖嬰現象及海水高溫影響 南韓濟州島軟珊瑚大面積倒塌	https://news.pts.org.tw/article/826630
 2026-09-29	及時雨 - 元朗村屋塌牆壓斃女工 3名在學子女失母愛 | 及時雨	https://www.stheadline.com/columnists/lifestyle/3525817/及時雨-元朗村屋塌牆壓斃女工-3名在學子女失母愛-及時雨
 2026-09-29	厨房着火！民警徒手掰开卷帘门救出被困老人	https://www.yangtse.com/news/jiangsu/202512/t20251210_298757.html
@@ -394,7 +343,6 @@ var DATA_TODAY = `
 2026-09-29	印度煙花廠爆炸 最少25死	https://www.am730.com.hk/國際/1025919/印度煙花廠爆炸-最少25死
 2026-09-29	印度廚師專心工作 下秒被冰箱爆炸碎片打死	https://www.msn.com/zh-tw/news/world/印度廚師專心工作-下秒被冰箱爆炸碎片打死/ar-AA24Xurg
 2026-09-29	印度3日內再發生煙花廠爆炸 13人死	https://www.am730.com.hk/國際/1026417/印度3日內再發生煙花廠爆炸-13人死
-2026-09-29	印尼杜科諾火山爆發 至少2死約20人被困	http://www.aastocks.com/tc/stocks/news/aafn-con/IC4898089/world-markets/INFOCAST
 2026-09-29	卡塔爾天然氣設施爆炸13死66傷 當局證意外並不影響出口	https://www.am730.com.hk/article/1037515
 2026-09-29	卡塔爾天然氣廠爆炸 釀13死66傷｜外媒焦點·俄羅斯	https://news.tvb.com/tc/1178407-卡塔爾天然氣廠爆炸釀13死66傷外媒焦點俄羅斯
 2026-09-29	卡塔爾天然氣工廠爆炸已致13人死亡	https://www.hkcd.com.hk/content_app/2026-06/23/content_8761261.html
@@ -406,7 +354,6 @@ var DATA_TODAY = `
 2026-09-29	南港工安意外19F→B5墜地! 工人軀幹斷裂亡	http://www.msn.com/zh-tw/news/national/南港工安意外19f-b5墜地工人軀幹斷裂亡/ar-AA1YStbn?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-09-29	南亞塑膠林口廠工安意外！外包工修鐵捲門觸電慘死勞檢處介入釐清責任| 社會	https://www.setn.com/news/1898168
 2026-09-29	半山羅便臣道屋苑53歲男工 由棚架失足墮地受傷 送院救治	https://www.stheadline.com/breaking-news/3610069/半山羅便臣道屋苑53歲男工-由棚架失足墮地受傷-送院救治
-2026-09-29	午飯時間去公司指定健身室運動猝死 內地法院2原因判：算工傷	https://www.hk01.com/大國小事/60337898/午飯時間去公司指定健身室運動猝死-內地法院2原因判-算工傷
 2026-09-29	北邁阿密海灘沙洲可能發生船隻爆炸，造成 11 人受傷	https://www.arch-web.com.tw/综合新闻/北邁阿密海灘沙洲可能發生船隻爆炸，造成-11-人受/644918/
 2026-09-29	北溪管道爆炸案一名嫌疑人在克羅地亞被捕- 國際	https://www.wenweipo.com/s/202608/19/AP6a858a36e4b0c1e500257753.html
 2026-09-29	北海道滑雪場奪命! 5歲男童跌倒捲入魔毯「母急按停」45 分鐘後拉出不治	http://www.msn.com/zh-tw/news/world/北海道滑雪場奪命-5歲男童跌倒捲入魔毯-母急按停-45分鐘後拉出不治/ar-AA1Tba9H?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
@@ -414,10 +361,6 @@ var DATA_TODAY = `
 2026-09-29	北宜城煙花爆竹專營店爆炸 12人死亡	https://www.881903.com/news/china/2619687
 2026-09-29	北京门头沟消防42小时连续“雪”战，救出15名登山被困者	https://www.bjnews.com.cn/detail/1768997297168995.html
 2026-09-29	勞工處稱嚴肅跟進天秤倒塌事件 將向承建商發暫時停工通知書	https://news.rthk.hk/rthk/ch/component/k2/1848023-20260319.htm
-2026-09-29	加沙住宅大廈倒塌釀21死11 童罹難	https://www.bastillepost.com/hongkong/article/16787528-加沙住宅大廈倒塌釀21死11童罹難
-2026-09-29	加拿大卑詩省山火迅速蔓延 逾2萬人逃離家園 省長：火勢如爆炸	https://www.hk01.com/即時國際/60378374/加拿大卑詩省山火迅速蔓延-逾2萬人逃離家園-省長-火勢如爆炸
-2026-09-29	加拿大卑詩省山火快速蔓延 省長： 破壞程度似炸彈爆炸	https://www.bastillepost.com/hongkong/article/16538161-加拿大卑詩省山火快速蔓延 省長：破壞程度似炸
-2026-09-29	加拿大卑詩省山火快速蔓延 省長形容破壞程度好像炸彈爆炸	https://news.rthk.hk/rthk/ch/component/k2/1865601-20260810.htm
 2026-09-29	加拿大13歲明星長頸鹿｜意外遭門夾斃 無緣見孩子出世！	https://www.gotrip.hk/網絡熱話/長頸鹿-動物園意外-多倫多動物園-1857797/
 2026-09-29	冬季守护｜寒冬暮色三位八旬老人被困途中，济南民警暖心护送	https://www.163.com/dy/article/KGEEFLDB0514CFC7.html
 2026-09-29	六旬婦屯門行山失足墮5米深坑 腳部受傷送院	https://www.mytvsuper.com/tc/scoopplus/local-news/hongkong/5905056011532/香港新聞-六旬婦屯門行山失足墮5米深坑-腳部受傷送院
@@ -428,15 +371,11 @@ var DATA_TODAY = `
 2026-09-29	健康博覽2026｜下周五開鑼即睇兩大亮點$398體驗3大熱門AI健康檢測項目跌倒風險評估、足部健康檢測及慢性疾病風險普測	https://www.am730.com.hk/健康/1034062/健康博覽2026-下周五開鑼-即睇兩大亮點-398體驗3大熱門ai健康檢測項目-跌倒風險評估-足部健康檢測及慢性疾病風險普測
 2026-09-29	保險索償｜男子雨天跌倒後死亡 保險公司一度稱非純意外拒賠 保險投訴局介入後賠82萬	https://news.hket.com/article/4113869/保險索償｜男子雨天跌倒後死亡 保險公司一度稱非純意外拒賠 保險投訴局介入後賠82萬?mtc=j0001
 2026-09-29	俄襲烏克蘭13死數十傷 波蘭戰機急升空境內傳爆炸	https://money.udn.com/money/amp/story/5599/9660663
-2026-09-29	佛州驚見「震源深度5公分」神秘地震！ 疑海軍爆炸實驗引恐慌	https://news.tvbs.com.tw/world/3260076?from=pulldownmenu_content_國際_佛州驚見「震源深度5公分」神秘地震！ 疑海軍爆炸實驗引恐慌
 2026-09-29	何文田自由道4號一地盤今早（29日）發生奪命工業意外。 ...	https://www.instagram.com/p/DaJ44fsm25d/
 2026-09-29	何文田地盤挖泥車翻則 鐵通壓斃40歲男工 機手受傷	https://www.am730.com.hk/article/1038863
 2026-09-29	佐治亞州高中高爾夫球手哈登·凱利（Haden Kelly）突然跌倒後死亡	https://mtgamer.com/運動的/佐治亞州高中高爾夫球手哈登·凱利（haden-kelly）突然跌/4035/
 2026-09-29	佐敦男子留宿朋友家意外反鎖屋內 冒險爬外牆出街失足墮後巷受傷	https://www.hk01.com/突發/60347752/佐敦男子留宿朋友家意外反鎖屋內-冒險爬外牆出街失足墮後巷受傷
 2026-09-29	众星被困中东不到24小时，出现“恶心”一幕，担心的事发生了	https://m.sohu.com/a/992369151_121948372?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
-2026-09-29	伊朗革命衛隊14成員處理美空投炸彈時遇爆炸死亡	https://www.881903.com/news/international/2629737
-2026-09-29	伊朗南部海岸傳出劇烈爆炸聲！緊鄰全球石油咽喉「荷姆茲海峽」 | 民視新聞網	https://today.line.me/tw/v3/article/vXayg8l
-2026-09-29	伊拉克外海貨輪驚傳兩次爆炸！疑遭無人機與不明飛行物襲擊	https://tw.news.yahoo.com/伊拉克外海貨輪驚傳兩次爆炸-疑遭無人機與不明飛行物襲擊-184418270.html
 2026-09-29	以巴衝突｜加沙受損住宅凌晨倒塌至少21死 或百人被困瓦礫	https://www.am730.com.hk/國際/1053607/以巴衝突-加沙受損住宅凌晨倒塌至少21死-或百人被困瓦礫
 2026-09-29	今日新聞8分鐘｜男子疑持利器跑｜淘寶購充電器爆炸 夫婦燒傷	https://www.hk01.com/article/60341669
 2026-09-29	五股工安意外！30 歲外籍移工疑觸電命危勞檢處介入	https://www.msn.com/zh-tw/news/national/五股工安意外-30歲外籍移工疑觸電命危-勞檢處介入/ar-AA1R2pWJ
@@ -458,16 +397,13 @@ var DATA_TODAY = `
 2026-09-29	一家三口被困台州一处险峻崖壁，父亲在垂直岩壁上悬吊近两小时……多亏他们出手	https://m.sohu.com/a/972491416_121124620?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 2026-09-29	一家三口登山女子摔伤被困，消防员用担架抬下山	https://www.bjnews.com.cn/detail/1767527669168688.html
 2026-09-29	一家三口元旦假期登山，女子摔伤被困！怀柔消防紧急救援	https://cj.sina.cn/articles/view/1893892941/70e2834d02001wl46?froms=ggmp
-2026-09-29	一周看天下丨巴基斯坦自杀式爆炸袭击致15名警察死亡	https://i.ifeng.com/c/8tAY8EU8HTB
 2026-09-29	一名安老院舍院友被困大廈外牆 消防救出送院治理	https://news.rthk.hk/rthk/ch/component/k2/1849736-20260402.htm
-2026-09-29	【新聞大家談】伊朗大爆炸 革命衛隊14人死亡	https://www.epochtimes.com/b5/26/5/2/n14754673.htm
 2026-09-29	【投稿】陳錦聲﹕兩宗地盤意外看香港職安困局 - 輕新聞	https://www.litenews.hk/news/17804-【投稿】陳錦聲﹕兩宗地盤意外看香港職安困局
 2026-09-29	【Cardi B跟機器人貼身熱舞 結果兩個一起大跌倒XD】	https://www.facebook.com/ETtoday/posts/cardi-b跟機器人貼身熱舞-結果兩個一起大跌倒xd/1348755870616828/
 2026-09-29	【2026最新】香港工傷程序指南：意外後必知6步自保法	https://www.aaa-hk.org/work-injury-procedure-guide-hk工傷程序/
 2026-09-29	「黃蜂女」透露昏厥跌倒近況 腦功能多處衰退	https://www.epochtimes.com/b5/26/1/4/n14668846.htm/amp
 2026-09-29	「中國金都」山東招遠一金礦工安意外致7死 事發企業涉瞞報	https://money.udn.com/money/amp/story/5603/9321019
 2026-09-29	「1族群」不怕熱！省錢不吹冷氣悶出病 醫示警：一跌倒恐致命	https://news.tvbs.com.tw/health/3256374
-2026-09-29	《原神》過完年傳工程師復工猝死憾事！米哈遊只願認「意外離世」掀熱議，網搖頭：「確實難認工傷」	https://tw.news.yahoo.com/《原神》過完年傳工程師復工猝死憾事！米哈遊只願認「意外離世」掀熱議，網搖頭：「確實難認工傷」-073057995.html
 2026-09-29	“黑夜、大雪、悬崖，一失足就是粉身碎骨。”被困“京西小鳌太”的15人安全下山，消防员“冰爪”断裂、吃雪、出现幻觉……	https://m.sohu.com/a/979229950_162522?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 2026-09-29	“恐惧”但不恐慌！黄金被困在5000心理迷宫，谁将打破僵局？	https://www.gold678.com/C/202602201134219100
 2026-09-29	“很多人被困住” 瑞士酒吧火灾现场视频公布	https://www.ctdsb.net/c1476_202601/2630449.html
@@ -488,19 +424,15 @@ var DATA_TODAY = `
 2026-09-29	373名乘客被困机舱12小时，有人因高温晕倒	https://news.ifeng.com/c/8uzVzqr2neF
 2026-09-29	33歲南亞裔地盤工疑遭13噸水缸壓斃	https://www.i-cable.com/新聞資訊/428189/33歲南亞裔地盤工疑遭13噸水缸壓斃
 2026-09-29	25歲大馬男「爬20樓公寓」找女友！失足爆頭亡 躺屍7小時才被發現	http://www.msn.com/zh-tw/news/other/26歲女子心臟衰竭-甲亢-是禍源-員榮醫院救回一命/ar-AA1L2rxJ?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
-2026-09-29	24歲女星浴室跌倒猝逝！「浴缸1設計」狠奪命： 男女老少都中	https://www.msn.com/zh-tw/entertainment/news/24歲女星浴室跌倒猝逝-浴缸1設計-狠奪命-男女老少都中/ar-AA1GhHL4?cvid=106ba49efacd413585525d485a7a2889&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-09-29	20多岁情侣杭州登山看雪景被困：只带了零食和水，鞋子也不防滑，男友是攀岩教练，女孩摔倒导致骨折：“再也不敢来了”	https://m.sohu.com/a/973613096_162522?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 2026-09-29	2015年曼谷四面佛爆炸案致20人死 兩名維族被告被判死刑	https://www.orangenews.hk/international/VMI9EL9/2015年曼谷四面佛爆炸案致20人死-兩名維族被告被判死刑.shtml
 2026-09-29	14人被困电梯18层，潍坊临朐公安大年初一火速营救！	https://m.sohu.com/a/988640423_121218495?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 2026-09-29	13歲仔屋企打機畀雷劈險死 電流穿全身胸口留電擊痕(有片)	https://www.am730.com.hk/國際/1040878/13歲仔屋企打機畀雷劈險死-電流穿全身胸口留電擊痕-有片-
 2026-09-29	13噸重水缸壓斃巴裔地盤工	https://www.stheadline.com/daily-hongkong/3534982/13噸重水缸壓斃巴裔地盤工
 2026-09-29	10人被困電梯，保安違規開門，女子逃生時墜亡	https://www.chinesepress.com/archives/169158
-2026-09-28	電工學徒3年前觸電亡 4承辦公司罰款41萬至90萬元 官指：涉及人命傷亡案件判刑須具阻嚇性	https://www.stheadline.com/society/3616369/電工學徒3年前觸電亡-4承辦公司罰款41萬至90萬元-官指涉及人命傷亡案件判刑須具阻嚇性
 2026-09-28	豐原自來水管線工程意外5工人送醫中市府：要求停工並裁罰| 地方	https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5RTh2SWF1amhqZEVhanl1RXRkNEdVdmxIMjVWRWg3TzBxZmlMQmtIakhjZTBZOVVlTmVfR3lYQTF4cUZiY3R6UmZqT0Z4X3ZjLWdIeXBWYjQzU0VsRXFJ?oc=5
 2026-09-28	豐原下水道工程意外5名工人身體不適送醫| 社會	https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDYmVYX3Nsd2VIYlNTZjlsRVljRTRFc2ZVc1dhSlZyeTJqUUh4TnM4cDhfWHV5Q1B3MUtnQWZ4cURqRkx4aElwYWs2MlJnZlZZSUF3MDhQNXdHcWJ3cGx3?oc=5
-2026-09-28	快訊/新竹工安意外！工人倒臥化糞池無呼吸心跳 救援現場曝	https://ctinews.com/news/items/rPnv4wPGaY
 2026-09-28	大寮長春化工廠工安意外釀1死3傷 勞檢勒令停工追究雇主責任	https://udn.com/news/amp/story/7320/9356871
-2026-09-28	報復！烏克蘭空襲俄國首都煉油廠 設施爆炸畫面曝光｜#鏡新聞	https://tw.news.yahoo.com/報復-烏克蘭空襲俄國首都煉油廠-設施爆炸畫面曝光-鏡新聞-085909099.html
 2026-09-28	台中地下水道管線爆工程意外 4工人意識不清 1人仍受困地下	https://news.google.com/rss/articles/CBMibkFVX3lxTE5GaFlwMEM3RjFJMXNYQnRYUkF0VWUwaElheEFINkd1Q01CYm9xaWJoMW5mckdzSlI4amR3dGp2VTZ4UVJxamxYNWhvSjhCWDVtVHluRldtc25HS1BLd01RNmdkeU9Dek9Xbkt2OTJR?oc=5
 2026-09-28	兩港男被困日本飛驒山脈 30歲男獲救 22歲男死亡	https://www.hk01.com/即時國際/60346649/兩港男被困日本飛驒山脈-30歲男獲救-22歲男死亡
 2026-09-28	9人爬野山被困，还有3名儿童，怀柔消防寒夜营救	https://m.sohu.com/a/970914630_163278?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
@@ -527,7 +459,6 @@ var DATA_TODAY = `
 2026-09-11	勞工處正調查深水埗致命工業意外原因	https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcGxkSWRCMlZZZ3hraURHTjdHY0tSU3U1V1FDR3AzZ2VvZldmYkROdTQzal9QRTJkRURlNGNxSGVWV0R2R3RBOTlLV0wxaXBIOUpiQWpSaVkySk1JSTRCWldHOUdDMy1yUWtwSHhyNA?oc=5
 2026-09-10	中國製坦克突發爆炸 孟加拉演習2死1重傷	https://www.ntdtv.com/b5/2026/09/10/a104131953.html/amp
 2026-09-09	電工學徒3年前觸電亡 遺產管理人入稟提傷亡索償 38歲電工男學徒在科學園進行太陽能板工程時，於倉房觸電死亡，總承辦商等4間公司去年被裁定「沒有採取措施以防止發生電力危險」等傳票罪成。死者遺產管理人昨入稟高等...	https://www.singtao.ca/7620865/2026-09-07/news-%E9%9B%BB%E5%B7%A5%E5%AD%B8%E5%BE%923%E5%B9%B4%E5%89%8D%E8%A7%B8%E9%9B%BB%E4%BA%A1+%E9%81%BA%E7%94%A2%E7%AE%A1%E7%90%86%E4%BA%BA%E5%85%A5%E7%A8%9F%E6%8F%90%E5%82%B7%E4%BA%A1%E7%B4%A2%E5%84%9F/
-2026-09-09	電工學徒3年前觸電亡 遺產管理人入稟提傷亡索償	https://www.singtao.ca/7620865/2026-09-07/news-電工學徒3年前觸電亡+遺產管理人入稟提傷亡索償/
 2026-09-09	菲律賓女歌手浴室跌倒頭部重創 救護車遲遲未到家人推輪椅送院仍不治	https://www.bastillepost.com/hongkong/article/16619369-%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%A5%B3%E6%AD%8C%E6%89%8B%E6%B5%B4%E5%AE%A4%E8%B7%8C%E5%80%92%E9%A0%AD%E9%83%A8%E9%87%8D%E5%89%B5-%E5%AE%B6%E4%BA%BA%E8%A6%8B%E6%95%91%E8%AD%B7%E8%BB%8A%E9%81%B2%E9%81%B2
 2026-09-08	維修太陽能板工友觸電不治 3年後遺產管理人入稟索償	https://hk.on.cc/hk/bkn/cnt/news/20260908/bkn-20260908151631663-0908_00822_001.html
 2026-09-08	烏克蘭首都基輔再響起強烈爆炸聲 已致2死7傷	https://www.dotdotnews.com/a/202609/08/AP6a9f6b2de4b02724bdb3c265.html
@@ -564,7 +495,6 @@ var DATA_TODAY = `
 2026-08-21	山東臨沂一社區發生爆炸致1人死亡2人失聯- 神州	https://www.wenweipo.com/a/202608/21/AP6a885b07e4b0c1e50025bab3.html
 2026-08-20	沙浦道工業意外死者遺孀簽收善款	https://news.google.com/rss/articles/CBMikwJBVV95cUxNWTZ1VmdpOEVWZXdVZ2xMQ3pFc3VVMjNmLWZtV1g5SlVOSU9rM2JDdngyZzdhRmZBSHVYT0NGbTFCaUVGY1BZS2pyT2JtREQwYkl4WEliSjd3SkFRT2ZEYXJBVGxrX1FtTllTZmFNSncwOU5UVlpQc2NHVkJFakVTVFZYQ2VqWWNKTGl4OThuSGkxY1RBUU00a2lNcnVkQ3hrWUhSTGJsQnNiZHg0czRaeFhyRzVTTE01XzVHbkJzVU9YRVhueXBzdi1tZ0k1ZEVkcEFGbHZRd2htM0MyRW1OVTY4ekI0VmQxWVZEQnVWR1pZZkFwN0haRTM3eFNIWVl2RWFGUTN0MVlSSzVXNTJOX0NnUQ?oc=5
 2026-08-19	（有片）四川長寧村民辦升學宴期間 外牆倒塌釀5死17傷	https://www.bastillepost.com/hongkong/article/16597089-%EF%BC%88%E6%9C%89%E7%89%87%EF%BC%89%E5%9B%9B%E5%B7%9D%E9%95%B7%E5%AF%A7%E6%9D%91%E6%B0%91%E8%BE%A6%E5%8D%87%E5%AD%B8%E5%AE%B4%E6%9C%9F%E9%96%93-%E5%A4%96%E7%89%86%E5%80%92%E5%A1%8C%E9%87%805%E6%AD%BB
-2026-08-19	青海大柴旦5.6級地震：消防救援力量赴震中巡查暫無人員被困- 神州	https://www.wenweipo.com/a/202608/19/AP6a851287e4b0c1e500256764.html
 2026-08-19	石家莊居民樓爆炸 至少3死1傷（視頻）	https://www.ntdtv.com/gb/2026/08/19/a104125560.html/amp
 2026-08-19	定力驚人！蘇州5旬女墮河 唔識游水靠全身放鬆仰漂1小時獲救	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60381294/%E5%AE%9A%E5%8A%9B%E9%A9%9A%E4%BA%BA-%E8%98%87%E5%B7%9E5%E6%97%AC%E5%A5%B3%E5%A2%AE%E6%B2%B3-%E5%94%94%E8%AD%98%E6%B8%B8%E6%B0%B4%E9%9D%A0%E5%85%A8%E8%BA%AB%E6%94%BE%E9%AC%86%E4%BB%B0%E6%BC%821%E5%B0%8F%E6%99%82%E7%8D%B2%E6%95%91
 2026-08-19	四川長寧辦升學宴墻體倒塌5死17傷 主家為低保戶本不想辦席	https://www.orangenews.hk/china/VSiyYXK/%E5%9B%9B%E5%B7%9D%E9%95%B7%E5%AF%A7%E8%BE%A6%E5%8D%87%E5%AD%B8%E5%AE%B4%E5%A2%BB%E9%AB%94%E5%80%92%E5%A1%8C5%E6%AD%BB17%E5%82%B7-%E4%B8%BB%E5%AE%B6%E7%82%BA%E4%BD%8E%E4%BF%9D%E6%88%B6%E6%9C%AC%E4%B8%8D%E6%83%B3%E8%BE%A6%E5%B8%AD.shtml
@@ -573,23 +503,16 @@ var DATA_TODAY = `
 2026-08-19	四川長寧升學宴發生牆體倒塌事故 釀5死17傷	https://www.dotdotnews.com/a/202608/19/AP6a850d9ce4b04b6c5d371751.html
 2026-08-19	四川升學宴倖存者：兩旁鄰居當場遇難現場慘烈（視頻） | 牆體倒塌| 雨棚積水| 受傷 | 新唐人电视台	https://www.ntdtv.com/b5/mkt_ipad/2026/08/19/a104125335.html
 2026-08-19	喜事變喪事 四川鄉村辦升學宴牆體倒塌 釀5死17傷慘劇｜有片	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381399/%E5%96%9C%E4%BA%8B%E8%AE%8A%E5%96%AA%E4%BA%8B-%E5%9B%9B%E5%B7%9D%E9%84%89%E6%9D%91%E8%BE%A6%E5%8D%87%E5%AD%B8%E5%AE%B4%E7%89%86%E9%AB%94%E5%80%92%E5%A1%8C-%E9%87%805%E6%AD%BB17%E5%82%B7%E6%85%98%E5%8A%87-%E6%9C%89%E7%89%87
-2026-08-17	深圳程式員打卡後如廁 猝死未認定工傷	https://hk.on.cc/hk/bkn/cnt/news/20260817/bkn-20260817080455658-0817_00822_001.html
 2026-08-17	更新｜元朗奪命工業意外 起重機墮鋼筋擊斃7旬男工人 - 東張+	https://news.google.com/rss/articles/CBMigwNBVV95cUxOVGFhcy1kX1pfTDZXNGhRaDdVQUNaVDVoVXJRUVpQa3IzeTlUMElqcG9mTmhxLWYyZHZYQ1pLLTFhb0F5RzJrdEQ2dGZJRWRlWWVUTjB2WVcydGZNQVY4UWxRTEFNdUtNR29ES2g2Zm5IOEZqT1lPOXhvMnlmSzNQZnZvbmcxNXh1SWpQXzZLVDREMXVYbDN2TG9UTVZhdnUxczJ4LXF1TmdvSERiR0Z1VkpuZTd4ZUJFa2FMaUd6SE5fVEV4Q281bzN6XzV0ZkpQLVdUUF9BUWMtOXFna241RHF1Zm92Y21INkppWWp6UWtVUlNJSFFwWTBIV2lyUlNxZzNoZUVLR2ljd3lXRl9mNWpLMHk0SGl0aVg5TnFVRm5KWlZGSVpoYl9GZ1Fqc2tNZEV2XzRmLTJReVFQTmFBNzd2VXB6VWFRaG93T1JnSERWVjdBZTdBOTRzakFyck5tT2VJTmM2ZnNUaFFobmJrcDZwN1lHZHF0bHNPVEFjS01tdDA?oc=5
 2026-08-16	半山般咸道天降鋁架 工人被砸中肩受傷送院 警列工業意外	https://news.google.com/rss/articles/CBMiiwNBVV95cUxNSG5QQXVGVU1GUVZHSkVSOFVMblJxNHpDRTBRQnl2ekQyVTZFdHY1bzVkVnVtM05lSVpHN0JzNjJLLS1tTTFTXzlwQUJPV0RXbHdJWmZfN2d0U2tpMS01NnBmblZBSi01b2dfbFg3NUh4TW1VbGJPNmFha3gtb250bGc1SGdtbHBHekM2LUlSd005VElqN203Q19rSS1tcF8wNkkwVmJCMG9NMGxIWjhmTWVXVTVjYWVIY3h0VlRBWHU0ZGx1RjlHdU5RejdWNTlnUjRCLTFybW04YmwtN0ZUTkt2aGxwTGJNQldUUm9uNTlhVjZyUV9zN1pjQzIwZmN4Rk5YZDJmRWo1cDVaVnJpdWxITnZtSTdDcDVpZ2NVLXF1d2dkaUJhY0prMnV5cWsydTZCbkRtMW9YYkVBMW5HNUxFT1l5c2p3Q1BQOU51VWs1TnBWX0lvbzdEM2wwSnV1dG42ZG1XdkVVTWxjRG5YREpqWW1FXzRoaVVrRlNISHBfS3dYQ19kcG55c9IBigFBVV95cUxPaHVEaTVZNWttaDZpZmlFTkJ5Z3phTzNXSEZkend4OUwtVll4NktDYldVd2VRUEh4OUpNS3M2WmpXbGNjckE0VEhZWVBpQ3dfcnVCNF9qZFB3ZGwtanJDUlF1SldTc1loTWdHZUJndEI2RjA5c3dQNTRFaFZxaENXVFVhTnY2RUt5UlE?oc=5
-2026-08-14	深圳工程師猝死公司厠所 官方稱未到工位不算工傷 | 深圳市 | 中國工程師 | 人社局 | 新唐人电视台	https://www.ntdtv.com/b5/mkt_ipad/2026/08/14/a104124076.html
 2026-08-14	意大利羅馬近郊有軍工廠爆炸 據報所有員工安全疏散	https://news.google.com/rss/articles/CBMi2wJBVV95cUxQWVRXX2IyWTlzc3NZdUZrNzRUaHVKX1RsdHpqOFFlNWFxVW04UjBPZ2FNdDhsYlcxbTRHTm1wNkNSdFQ4SElXVTA1VnRocWNTQzg2TWlDV0JtdjBKZ0gzYlJQTnE4VGRXcThITklQTXJSRnNJQmZEb1VHY21FRG5CbS05WEVRZFN2dUxFUko3c0VYWFA0U3VXMmswa08wSkZIY3pwOVRTZW02Q2pvODQ1aC1jOWdIejFndUU3SkRtWWtTOTJxSlNBUHFpendYMDNIaGNpQ1pfbGVjZ3lSWWg0X3IxcFhqTDQyVjlLVklMb3cwT2hzdENIUGJiYUFpamNEY0QwVklSQ2JldlRKcDdDdFpwRVQ3TS1DVnJMNnRpVEROdWxvcVI3YmpaZVV6bThHRHFUdHRWR3FnUWMwNUtDLTAyckhybmstQ0VGTGRTNnhPRFZiVmstR1NYUQ?oc=5
-2026-08-14	39歲陸工程師「猝死公司馬桶上」 政府單位：沒在座位不算工傷	https://www.ettoday.net/news/20260814/3219196.htm
-2026-08-14	39歲工程師打卡後去廁所「猝逝馬桶上」 1關鍵遭當局拒認工傷	https://news.pchome.com.tw/china/crwant/20260814/index-78669825484403316022.html
-2026-08-13	男子上班腦出血亡非工傷 家屬起訴人社局遭駁回	https://hk.on.cc/hk/bkn/cnt/news/20260813/bkn-20260813121136273-0813_00822_001.html?refer=hn1
 2026-08-12	緬因州木材廠爆炸聯邦報告指消防戰術助長火勢	https://news.google.com/rss/articles/CBMi4wJBVV95cUxNVEtkRGt2Rk8zTWJreHhpUkM4Y2hMVVNMSXdLaEMzbFp4bTFWek1zTXpIaXNpdjRScXZpejNCSHBHano5Y0Q1ZmRMRjNZNHJfenQ4X0tueFZmNFZwV0prTjI4MUpua2x4SHFJNkNCVU80djMtNktDejM4NFdwQ0QtYjJVUkxCV1pnZXBjVmVrdGxMNVllRXBRZEdYalkwMmdFeUhBNktFbkRhZ0dDSWFiY3RGWkNWQ1E5QUd2NUdpYzhBcmwwMG9raHEzTmVYYXZFOTI3RzBjc3JOMVRpYnk1alFVNWw2MDhRNHkzV002UlpzTVFtNkgwRXBLZ2dVYVNKZVhzZXRqT3lqby1fS05VY3ZLcC1ROXBsMnBRSTRsb25ueUpWTnVqY1dDd1lCTnBfRWIxNnRhRDVhclp5UWdKSjFhUDgxQkxJNjRKcVl6MHBlcjAybXF0REMxS3BZVXV1ZTdj?oc=5
 2026-08-10	驚悚15米高空墜落！燕巢工廠外包工施工失足51歲男當場身亡- 社會新聞- PChome Online 新聞	https://news.pchome.com.tw/society/crwant/20260810/index-78633914340010316002.html
 2026-08-10	恐怖工業意外●有片│男工人被卡切紙機 雙手遭整齊切斷 痛苦掙扎	https://news.google.com/rss/articles/CBMivwNBVV95cUxNTjByb3pUNGtSOGRRb2JKWkxGUnJEUFROc0dDVTJwa1JycEY2Y0hTS3ZiZW12b01UR0p0UDBnbmJhSjN4b09FRjlQLXUtUGltZnc2WTVUTkt0QkszR2hWMnBnYndVLUFhclZWbzVKNHc0VENuWjNGNE95a285M3V6Vm56UXBfUzM2UUJBSlZaOUpNazUzMk03c05uaHpyVDFwcDA4WEViVGwxTGprUUxOX2RiM2tLNGZtZXpnUkM2dFJ5V2JzNzhuTXNmWklGOVVrMkh5LVdBNnFiRUhUWVRWdVJPUGs1OVNXaTdyQ3ZYOTNWc0p2SVRTck8wS2o0cFEyOWphcDZGamhIZmx3TG0wRjZBbldDM3BfVWVQT3hWNXRIVms5eEtWa00xRjgybU82TTRtWVU4U3BCenJFdHFkSWNPOTlrUnpTTThYTDV2aXpJZktLQmRiQktGMW1lMGhyNVYwLXJsVXRUQ2VucU56Q1BkT1pDQmxLX2VmMzBpRjZQaXp5amRiMERMUjhyWC1rOE4zdzYxZEJaQ2taZVc0SXA5MDFiWVZiMW9ZQVF0RktWZEJacWdSQjBIUU9WSTg?oc=5
 2026-08-10	【新聞直擊】中共火箭爆炸 金正恩遭羞辱 怒斬20人	https://www.ntdtv.com/b5/2026/08/10/a104122802.html/amp
 2026-08-09	電工學徒科學園觸電亡 家屬入稟向5工程公司索償	https://thewitnesshk.com/%E9%9B%BB%E5%B7%A5%E5%AD%B8%E5%BE%92%E7%A7%91%E5%AD%B8%E5%9C%92%E8%A7%B8%E9%9B%BB%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E5%85%A5%E7%A8%9F%E5%90%915%E5%B7%A5%E7%A8%8B%E5%85%AC%E5%8F%B8%E7%B4%A2%E5%84%9F/
-2026-08-09	電工學徒3年前觸電亡 遺產管理人入稟提傷亡索償	https://www.stheadline.com/society/3612879/%E9%9B%BB%E5%B7%A5%E5%AD%B8%E5%BE%923%E5%B9%B4%E5%89%8D%E8%A7%B8%E9%9B%BB%E4%BA%A1-%E9%81%BA%E7%94%A2%E7%AE%A1%E7%90%86%E4%BA%BA%E5%85%A5%E7%A8%9F%E6%8F%90%E5%82%B7%E4%BA%A1%E7%B4%A2%E5%84%9F
 2026-08-09	油麻地京士柏道屋苑工業意外 62歲男工遭電鋸割傷手指送院	https://www.stheadline.com/breaking-news/3612942/%E6%B2%B9%E9%BA%BB%E5%9C%B0%E4%BA%AC%E5%A3%AB%E6%9F%8F%E9%81%93%E5%B1%8B%E8%8B%91%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-62%E6%AD%B2%E7%94%B7%E5%B7%A5%E9%81%AD%E9%9B%BB%E9%8B%B8%E5%89%B2%E5%82%B7%E6%89%8B%E6%8C%87%E9%80%81%E9%99%A2
 2026-08-07	急彎自炒 鐵騎士拋出山坡送院 - 20260807 - 港聞	https://news.mingpao.com/pns/港聞/article/20260807/s00002/1786038342642/急彎自炒-鐵騎士拋出山坡送院
-2026-08-06	熊本商場地震後爆炸 或液化石油氣導致	https://hk.on.cc/hk/bkn/cnt/intnews/20260806/bkn-20260806110004813-0806_00992_001.html
 2026-08-06	停泊德國機場 烏運輸機附近現搭載爆炸品無人機	https://hk.on.cc/hk/bkn/cnt/intnews/20260806/bkn-20260806120617032-0806_00992_001.html
 2026-08-05	湖南長沙煙花廠爆炸增至37死 公安機關傳喚涉事8人到案	https://news.rthk.hk/rthk/ch/component/k2/1853985-20260508.htm
 2026-08-05	湖南瀏陽煙花廠爆炸事故 死亡人數增至37人 最高檢掛牌督辦	https://www.i-cable.com/新聞資訊/中國在線/462298/湖南瀏陽煙花廠爆炸事故-死亡人數增至37人-最高
@@ -607,19 +530,15 @@ var DATA_TODAY = `
 2026-07-25	373人困機艙10小時 阿聯酋航空被困杭州機場	https://www.ntdtv.com/b5/2026/07/25/a104118449.html/amp
 2026-07-23	“空调故障，乘客晕倒”，空客A380备降杭州，373名乘客被困机舱超11小时	https://finance.sina.com.cn/wm/2026-07-23/doc-iniiufve8327137.shtml
 2026-07-23	373名乘客被困机舱一整夜 有人晕倒 长时间等待引争议	https://news.china.com/socialgd/10000169/20260723/49629539.html
-2026-07-21	霍峡油轮又遇袭 伊朗：2油轮爆炸！	https://www.chinapress.com.my/20260721/霍峡油轮又遇袭-伊朗：2油轮爆炸！/
 2026-07-21	土瓜灣一中校維修工程意外男工人2樓墮下受傷送院- 香港	https://www.wenweipo.com/a/202607/21/AP6a5f08a6e4b0c1e500219900.html
-2026-07-18	重慶山泥傾瀉｜謠傳「鞭炮廠爆炸引發山崩」 彭水女網友遭批評教育	https://news.google.com/rss/articles/CBMipANBVV95cUxNclUyQjY3MHlFWWR6a25DS2dYSl9kd2pTc0YyMGNsNFJKTWFQdml6SS1TZlNTMTdRRGJjcnJ0aWswWllDSUtlUjA0Ykh0OGNkUGk0cTFDcWRwTVNEQWwtdGFFZjBHRXhkV0g5NmVPbDhXSVBzUnlsTUgxSnFXdm52Y1IwcWZMajJLVk1Gb3FOd2Y5TGFLaXJGYlY2aVZQX0k2T0R3RHl0ZFd5STlfWkpPamZRZWlYT1cyaHpwd3otdGdDVVkzTFZDcExMbmpHdmRkWVFKTzR0NjhOVW9Ra09CZjNkNWVGSmV5RUVYelBNOGYwaFFnaXhsTGtreDRUVjFvbnpTRk10bmxRMGF5YmViMUJ2emN1MWVtSDNtclRJckRETUpjZWZ4d0NQU1V0TXE4NDRZR2pFcF9GUFBQLTBaMVdxV3VQZzNNVGFQU1lCaTZQY1Jnb0ptOFh2b09kUGh1VEt0bDNHY1lIcjF3c3hWa1ZWR19WN1RRaFhpUFBYaDBlZGdzN1JpMjNzdWh4Zm1EMmh2V19ZLV9Vdkc5TzQtcU1QdG0?oc=5
 2026-07-18	屯門公路貨車自炒翻側 兩男被困輕傷送院 (09:17) - 20260718 - 港聞	https://news.mingpao.com/ins/港聞/article/20260718/s00001/1784339326215/屯門公路貨車自炒翻側-兩男被困輕傷送院
 2026-07-18	台中意外死亡！ 法警爬梯修樹失足墜地送醫不治	https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4d3c4UzF1OVVZdldBMS1ZaWFsQkxqanlidzc3MmY0cF9USEI3UTJ1U0gxcmRMYjlURFM1TjJSX0FZY1JMN2hQOEpVSQ?oc=5
 2026-07-17	【新聞第一線】美開轟基建！伊機場大橋全毀 通信塔大爆炸	https://www.ntdtv.com/b5/2026/07/17/a104116105.html
-2026-07-16	香格里拉一景區內突發泥石流 大量車輛被困	https://www.ntdtv.com/gb/2026/07/16/a104116031.html/amp
 2026-07-14	將軍澳影業路工業意外 工人落挖泥車意外墮逾1米深坑受傷	https://news.google.com/rss/articles/CBMijANBVV95cUxPUGdrUkRrak4wV09UcHVIenVFUEtRX0tNT09tVFlVejhRSVp3eWFCeG5VTTRjRjVic2RhR2NwaUNxSHMzT2R1OUFGS21UTE1hOUladWRPakVPazFDbUNhb0RVMFpsVUtEdE5wTlg2VkFWY3JmSUdNNm1LdjlMV18tcmtXSVVxUWNCd25DRFZ0cTZ2YzBBZUZzYjdEM0c2LTlheS1tT1paTndLeHpqMTg5bnZhOHY4ellzeFBMemxzTU5CVEVUb0NCY3h0WXJqSWxEZWdqR0JmY21GNExPLVhaMmE0SV9JTmkydGh6UHc4Nk80X1VjY05Selk5RkhsRkJPcDRXd05mUzRCajRVZWx1RnZuOHhuZmxwajgwc2gzaVBVZm45dVFQVFh5MFNxSGhfRkl1RVpOdGNPVUk2WUQxVk1KRzVQYnZXN0VoUFNNb1MwS1lNN0lWTTdQNUo5RGlXeFZkTlJmbEVVUVVMNjlFblQtN3F3dHhOR0UxS2lNQUZiOEdobHRrazhVSzU?oc=5
 2026-07-12	觀塘偉業街地盤意外 疑吊運工字鐵撞傷工人腿部致骨折	https://news.google.com/rss/articles/CBMi_wJBVV95cUxNeF9qRzRSN0ZMRUVVbWgxalE2UUNpR2R4WkNHa0ZrbUFXT0V2eE03T3VZc0p6ZktUWkpiMEVCZHN6WjFPVXhud1FLMEtrczZsc2w1QzJJLXVfXzBPeFBXdmkwMVBvdG1OSVdUTUFuZzNJUjZYYXh3dWs3Q0h2eTJxWWU3V2ljbURzNXd0eHVuR3FuUFhoR2Z0TnB5TkpPTEJHRlBKbUV2TG8wQXVESVVsRjIxeUZIQlNuSkt5ZWloY0FnQnBaaXJSME1GR3FPY2ozMnR5SnhhVEJqZS1DYllJZm5ybG53QWwybFNoejFHeVBUNXBRN3haVnJCSkZzVEx1akVvQU9oYVFtd0xKdVhBc2NWVFJnUkVZTVFxRTFEa2NjbHR3eDQtWEhEazZlOHFna1JUMTY5Ry14SnNMTDlzbWlSMVpEU2IzNERjdTFrbDdxSHQxTDR2cmJ4aGxEaFZUYi1NUHhlTjdBM2ZwODMtdDktQVJUUHpzWGhaT2JIdw?oc=5
 2026-07-11	巴威風掌強襲！新竹巨樹遭吹垮倒塌 驚悚「貫穿民宅」 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260711/index-78375057148416309002.html
 2026-07-10	奪命工業意外爆不停 議員︰中小型工地存監管漏洞	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQREJFRTIxN0o1YmU3bXhrQTdGVjBWVmhyYjRpazRsa2NZZUNpT1F3a3F6Q2oySXR1ZXlfaUpjckp5bUMtYUpNeU83aV80NFNwbVJaak5HN2ZOb3pKSDZUNmFNdWZNM21RTk0yWGFyMlVXQUlSb0Q0WmZhOEtpeVAzMXlTR2hpNk9TRjFj?oc=5
 2026-07-09	微软大裁员：被困在绩优主义中的主机厂	https://finance.sina.cn/stock/jdts/2026-07-09/detail-inihefve8214473.d.html?vt=4
-2026-07-09	廣西洪災上萬師生被困 民間救援受阻	https://www.ntdtv.com/b5/2026/07/09/a104113940.html/amp
 2026-07-08	蘋果手錶「跌倒偵測」	https://hk.epochtimes.com/tag/%E8%98%8B%E6%9E%9C%E6%89%8B%E9%8C%B6%E3%80%8C%E8%B7%8C%E5%80%92%E5%81%B5%E6%B8%AC%E3%80%8D
 2026-07-07	葵涌貨櫃碼頭工人受傷被困高處 獲救清醒送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260707/bkn-20260707130824609-0707_00822_001.html
 2026-07-07	葵涌碼頭工人高處受傷被困 腳傷送院 (15:25) - 20260707 - 港聞	https://news.mingpao.com/ins/港聞/article/20260707/s00001/1783406886755/葵涌碼頭工人高處受傷被困-腳傷送院
@@ -669,17 +588,14 @@ var DATA_TODAY = `
 2026-06-08	【工傷調查】渠務署地盤致命工業意外 發展局：承辦商或致事故已停止承辦商及分判商部分工程投標資格	https://news.google.com/rss/articles/CBMiwgJBVV95cUxNd2dsQ3FxMTRKdUVUZi1OVDFreVdFVVJRVmdpczRzZmNsTWZqbkg0N2pJWUFIMVMyT3lJVGg5Z21JWjZKWnNJYkJtNDg2OVh0OTZ6R2pBUERJSDEtc2JsRkZnRW84RGRvelpVMlJfUW15SmhBUXpxSUxPTUxLZVhBMVF4QjZQeXFBbHdQMDRfQXlMWHNibWtMb1BwOGh0dm9KRlI3OG1VUURCcC1FMDBpWUpjdHBtSGkzc2dvbzdVVTFzZ3pEbWYwY0lqRkNmZjhqQ21IQTdoeEtmSWtaM2VxbmRVTXBhMEU2T3Bob0RDQXJ0QVFCcy1sNE0tbzg5V0hJSEhhS1l0UGZoLUh0dmVlR0l1LTRHczNRZDZMTV9jNHZ1TTNaWHZRb0FOUGZfcDhjRmVBOGZrVnkxdlRjN2d6UzV3?oc=5
 2026-06-06	哥倫比亞一煤礦發生爆炸已致7人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202606/06/AP6a2372a0e4b0b49ad1be336c.html
 2026-06-04	蘇州工廠爆炸 火光沖天現蘑菇雲 有人全身燒傷皮膚脫落｜有片	https://news.google.com/rss/articles/CBMisgNBVV95cUxNR0xNeElWb1FrcFI3RE9hNzFzOGtFcW1Zb0NqNEpDcWcwSlhMeExVZ19XTm5qck5nTXFEODc0STZjVGxTTXMxaFRDSkNiSjRLREtEUkNldHVpM1BlMlpqX2xLN1lYU2FFVU1FS3BMWXRVMkNuMGxkTVRubE9idDBBZGtsdWswWjY4U0N3QUp2NkhXY2JMQTdKSGxYTlRoM2Yxb0NZMWxtdEltN0w2WHdnSXRmRWZMSkRsdkJWNVV6NVQ2N3J1ZXdwbzd4X2puVm5fdW56aTNLVzdrZE54UEdsSDVmbDgyaGF2bTJVSG9uakFmUlprNFJGQ0ZBclQ1RnFFMWJ4N19DZGpNVzQ5NUpnaVBwX1Z4bUFuUnVMTTg4dXRtQmh6bl9WZi1Cemlqd2l3UEZiNjNiOTItREJPbmtla1hIbmJPX1VoeWd6QzZwS0hieFVwR1ZJVWNzeW5QVmY1bm1tTTVqNUEtN1FYWnhhV3hSci1kdU9wLXNzb0o1V0wyWE5VLWduczlRLWtrRU5pZFpicGZYSXI0eF9vMFJ3c01pV2ZrcFJsWE5wRVpSTFQ2Zw?oc=5
-2026-06-04	「古惑仔」男星驚傳驟逝 「消失18年」醉酒跌倒腦出血 好友證死訊	https://www.worldjournal.com/wj/story/121233/9424138
 2026-06-02	韓華航空航天公司工廠爆炸 集團成立特別應對工作小組善後	https://news.google.com/rss/articles/CBMib0FVX3lxTE5xZXRMMnlMcmNXNVJBVi1GTkdnalNIaUJTSHgtX0Jhal84ZzMwcTFKaHBnQ2NfRWdQT2FpcDdKRTBoZDRXVVJUM3JjcVdmM3k1c0V3SHg2eUhObEIwdS1SVENIajUwcG5MNVdESmhwNA?oc=5
 2026-06-02	韓國航天工廠爆炸5死2傷	https://epaper.tkww.hk/a/202606/02/AP6a1de7ede4b04773b06f4bf1.html
 2026-06-01	韓國韓華航空航天公司工廠爆炸 造成五死兩傷	https://news.google.com/rss/articles/CBMib0FVX3lxTE9YTXJZTXN1ZlUxMXFxRmdhVWpfRzNmN19rZF9WZmxwc3hYSW8ySGM1dDgwNDNZVTc2LUVCWWRPakpzbWxxaEhiTGY3SVVnVlM4N0psQUFaYUxFRjBLQzlyQ19JWW5tV1h4eFpNV3FSdw?oc=5
 2026-06-01	華盛頓州日資造紙廠爆炸增至11死	https://news.google.com/rss/articles/CBMidEFVX3lxTFBDN0xfQzFwQV9ZdzJXWkNqemJROHNMWTBqZi1QMTFid0MxUjlEYXdhQkdNQnA2X3NaTVRZVS1sQXpzZXdTTDNpM2dhYzNNdlo5eE1wWUJKeW5qbG1PUVh6cXNXejlDSW9XNS02c2hpZkFxNXVJ?oc=5
-2026-06-01	影音／驚悚倒塌瞬間!首爾高架橋坍塌 砸中車3死3傷	https://www.msn.com/zh-tw/news/world/影音-驚悚倒塌瞬間-首爾高架橋坍塌-砸中車3死3傷/ar-AA245skQ
 2026-06-01	南韓｜韓華航太工廠爆炸 致5死2傷	https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUldMbDJrVWlHcDBNQ3FIOEtBblI3VTUwUTRncDEzUTZIWHI2NVlBZ2ROVE9NZjBKemxzcUw2UnNJb2pHUVRmcldWcTN4dUdycUQ2S2c4UjdESkFGVXZyOWhmY2tnSlFqN0gzb2VqMmxlWFUzY1NOb19aVDJGWFhHRFFtSHlGRkdtX0w2NDR1RUJ6V2U0ZDczU1U0VjcwNElNQmtndlo1cW9zOEd0c3pwbmJ0QjRjUDlldV80R1RxZXo0Vy1hR0hsdDdDM0FWZmN0Y21XTHNTLTFwN2FJelYzaUg1Z0o0R1hlZ0Y3dnhLc0tqbXZDaGgxUzJvOUdPbkk?oc=5
 2026-06-01	南韓大田市軍工廠發生爆炸 至少5死2傷	http://www.aastocks.com/tc/stocks/news/aafn-con/IC4913842/world-markets/INFOCAST
 2026-06-01	南韓大田市軍工廠爆炸 釀至少5死2傷 料清理火箭推進劑肇禍 - i-cable.com	https://news.google.com/rss/articles/CBMi7AJBVV95cUxNQzN4VDlYNEl5M1ZiUlpaMGdOcnhmcHhxVS1FZmlIMkVjVlVJNzNjejNoaXdiUDFBU0dJOF9tcmJHTFc3Q1F5VXNQUWlBLWoyeERQbVF2c3ZDdHNURFc1VFFvU25Ld0R4c1RhU0Q5OG9wemR1bnBYTUY3Zlg0cVNjSFRYZnBTelB2R0VFUEVRWHdnb1ZCRjgxQlIzazBWcU1JeTFFcE8yaGxqMzZvWWwtRHdnR05JUHdqV25sNDlxaWVLYU04QV9MTmhSNUZDak9kV3FQZ3ZRaVdiLWJCYjhLYWszNWZ3N0VrM2c2czhWbkgwb3FBdV91U2l6azNwUUVyZDVwZmtCTVZCbDNHTkVSRkdaMXQ0M2dlaXVqTGJjMXBaaDc1YmI4WlVuM1FWdnlDNldVM01vWmVZbFU2OWo0bUd0eTdmbVJBM1FKZUdwaHRRUFB2aTIzczFIVGM5WnByZkM5TW90N3V1aHAt?oc=5
 2026-06-01	南韓大田市軍工廠爆炸 5死2傷	https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOFBmZ0ZSOWpramd5RDduaTNmZVN0cFdFWHpsbnZtc0VKZFdSVFpWUkpZVkRhNEZKd01uLWtJeFJPMEJ0UlRxaXFCRXo4WDZidndNVWN3SnNGZ2xWOGZNbmVxdUlVMnhlX0JjMg?oc=5
-2026-06-01	【新聞直擊】突發！海灣劇烈爆炸 伊朗嚴重誤判！	https://www.ntdtv.com/b5/2026/06/01/a104101973.html/amp
 2026-05-29	藍田邨單位疑氣體爆炸 女子燒傷送院 (11:37) - 20260529 - 港聞	https://news.mingpao.com/ins/港聞/article/20260529/s00001/1780025772219/藍田邨單位疑氣體爆炸-女子燒傷送院
 2026-05-29	藍田邨住宅爆炸 女子四成燒傷送院	https://www.hkcd.com.hk/hkcdweb/content/2026/05/29/content_8757263.html
 2026-05-29	嘉義校園工程意外！布繩斷裂烤漆板砸工人「臟器外露」亡 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260529/index-78002650702484309002.html
@@ -698,14 +614,12 @@ var DATA_TODAY = `
 2026-05-20	沙田乙明邨61歲男子失足 單位露台墮下亡 重案組跟進調查	https://www.singtao.ca/7510389/2026-05-20/news-沙田乙明邨61歲男子墮樓亡+重案組跟進調查/
 2026-05-20	來稿｜應作「安全示範工程」的政府地盤 為何屢爆工業意外？	https://news.google.com/rss/articles/CBMi-gJBVV95cUxQcFhLSlZXTDd5elBXQXBVT1RRWTUzZW1BZjhGa0g4Z0tzSThmYlFnSVZCV2ZaOUpNS014UHNvbG9TbGc5b1hQWHIzNDdyMlZMTDgtdU5hMVhmZGdXUFNybzVYSEpUV2pMT0FFQlREODlZQ1RybXk0SlZidEQyRFM3emdQdWdwYUlBTTlGc3pVUWU4djBrdW5uNHVXcHhQMkxtanBuUm5TZnRZOXo0RURmNU1LTXRxVXRQZWJmLW5WNXVBa0ltdEVtX2FBQmt5cVNVYjIxR1M2QmVfVUhCN1o2ZlVacXhRbHAxLVdkc1luWXJSVWtRT2VWUkVfenRmXy1iZTlRRjNrM0NQTDF2R1dvRlBUb0tOWENuTS0zT2p6Q1FQQnZHX0hYckM5cnZVR08wa2JaU1ZhUnVuSGpkZDBtWDFCSjFVWGlabGpMMlA3aVI2VDlCUTlBaEk0Rzl0dXhPOThPc2dQdVJJcTZMYnhfeEw0MnJrZDRXc0E?oc=5
 2026-05-18	北大嶼山醫院地盤致命工傷 寶嘉建築被罰逾15萬元 (18:59) - 20260518 - 港聞	https://news.mingpao.com/ins/港聞/article/20260518/s00001/1779100673124/北大嶼山醫院地盤致命工傷-寶嘉建築被罰逾15萬元
-2026-05-16	深圳福田爆工業意外 疑超重堆料致結構坍塌 兩工人6樓墮亡	https://news.google.com/rss/articles/CBMipgNBVV95cUxPaV91SHNaWGFraW1hRFA0aXJPeS1ya1d0bHNEZ19NaFgyYmZKQllVeTdVV2xiRWdJLWVHaXNla05wbGx4OVRIRXlkMW5tNDZWYkxvQXZUeEQtS3RrQVJVMllxRFlESy1yb2tvSmVqMDhibGxtajA5czB1M2tLUTJETVNEa29lWTVpQWtRYklpV2twRFlvWjVxM0tlcmNqYmtrZEZob0xJdXAyTzBaRVBIc2gxbEZvQjhnazBwQXZNT2s4M2V3TU1hVEJaT3F4UXFkalcwSV9pZnp1QXJUaDhSN0ZGTkU4dkFubG9xbGppYzE5c0d4UVNIbDlFaTR2TGFCUEpRcEdNYThHWGxZLTV4a0lGU19PQmxfQkJlY0d6TUpDMTZRM2d4U0Ixdk1yQzVHVlFGWC10MTBjV1NDQS1tUFpwLUZQenBpRmdpWmhET0NoT05UeUZrR2xsUTd2Vk5rMDJnUFNKWHVIcVJTRVllZlF5Sm1QQ25wUi1xdlhrSUVVekxkMlNsWHdxUFV6RmZsRkdEaGlkcDhDMlFNeEx4UzluNFRudw?oc=5
 2026-05-15	浪琴園月初發生奪命工業意外 發展局今停承建商投標資格	https://news.google.com/rss/articles/CBMiiwNBVV95cUxNTmloUTRnWVptc1dLU05hNjMtRUhpdDVpUHBnQm5uaUg1TzJwazlWNTAzempzbGZDUzFZMU9vSGo2WEVrSjY4N0lVcXZJSTJMUmd6NlBaUmZVMkd2NEpUeHduNTlvaFEtTENuQXl3UDduckI0TlRnZlc2R284VHZPMU8yd2dVakl1YURhb3RDWmU3SXMtSmJkMTRCUzVWVkNpSlhMNVFlcFRkNXVpSWI3alI2T3BqaTNsUkk5ZWtYSmZKVVJRZnRRRWl6aDN1RENjckFuN0ZjNUxNYXo0ZWRoQ2w4d2VlZjktS3ZBbXdJUExDaTlCZXdHcHNsOEotdl9xZEVVUDMwbXU4VURPY0VTS2tsbTlocHEyX183VzEwbFNiNmFBTENFLXBDelN1cXRjYm13T20xNnlWTWFQckRBR1Z6YWVabXBSRkZJV1AxRFFvRE43OEpJZnRpcmVLZXZDTjBKQTQzYmpoVERKa0JfREhhNl9NNWFyY2dfZV91QkVteHNGMVZNRnZfdw?oc=5
 2026-05-11	韓籍貨輪荷莫茲海峽爆炸 疑遭不明飛行體擊中	https://news.pchome.com.tw/internation/pronews/20260511/index-77843448620775353011.html
 2026-05-10	瀏陽煙花廠爆炸事故傷員病情向好已有18人出院- 內地	https://news.google.com/rss/articles/CBMicEFVX3lxTE02NjZGaEl3dlRlT3VfVVJRQUR4SHNqbWhsaW5uYmp1a0taV1NXSmM1VFdKaXA0NmRMUXRyQ1hLUFJFT3MtelV5YjYtUmtkNVBjdm5WUEw2MXJTdzBuWnJ5MDlLUlNqcE9NbkNJZklydm0?oc=5
 2026-05-09	湖南煙花廠爆炸增至37亡 涉事企屢爆隱患反覆違規 國務院成立事故調查組 要求地方政府汲取教訓舉一反三排查整治	https://www.wenweipo.com/a/202605/09/AP69fe4645e4b0b49ad1ba1d87.html
 2026-05-09	奪命工業意外頻發發展局：按機制嚴肅處理- 港聞	https://news.google.com/rss/articles/CBMidEFVX3lxTE9HQmNINGt3Q3hxMXpmWmFldUZLVjlkallUQktNOUUySFpodFAyX3Z3YjdHR2RMZlNzbWpOV21KSE5Vejc3Um5CWE9BbmFFTnRIWE9Dd1VJVlA0ZUtZWkY2X1E1X19DOFpnVUhYOFJUcEh1VHk2?oc=5
 2026-05-09	奪命工業意外頻發 發展局：按機制嚴肅處理	https://news.google.com/rss/articles/CBMidkFVX3lxTE9OdmpqM19hLU5KaFFGWl9UMU00dWVPTGNBalM1blNuMlVwM2tpRFFVTmJpUDdYaWJtRFVDOWlGTEFQaUJBcDRLVVptRmdOaVFjcFFQTmRqRndJdk5FS3d5QllDc21KOThxZWM3YTBQVktWOVB6Smc?oc=5
-2026-05-09	兩次電擊除顫！深圳地鐵員工接力搶救心臟驟停乘客	https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ROG96U25lX0hib0RqOHRlRFZtazFxTWYxNGw5X0daTVlZZTR6MGdoTXNhR1dGMnhnbHB6Um9INTItUGU0TkJzaEVOZlRuc2JpUVRiaWxMM3BpT1NRR2c?oc=5
 2026-05-08	（有片）湖南瀏陽煙花廠爆炸已致37死 1人失聯- 兩岸	https://www.dotdotnews.com/a/202605/08/AP69fd6559e4b09ea23314a79e.html
 2026-05-08	湖南長沙煙花廠爆炸增至37人死亡 (12:55) - 20260508 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260508/s00004/1778215817699/湖南長沙煙花廠爆炸增至37人死亡
 2026-05-06	湖南瀏陽煙花廠爆炸致26人死亡61人受傷- 紐約時報中文網	https://cn.nytimes.com/china/20260506/china-fireworks-factory-explosion/zh-hant/
@@ -750,7 +664,6 @@ var DATA_TODAY = `
 2026-03-25	疑沒拉手掣拖頭撞拖架 司機夾斃 - 20260325 - 港聞	https://news.mingpao.com/pns/港聞/article/20260325/s00002/1774375565627/疑沒拉手掣拖頭撞拖架-司機夾斃
 2026-03-25	疑沒拉手掣拖頭撞拖架 司機夾斃 - 20260325 - 圖片看世界	https://news.mingpao.com/pns/港聞/photo1/20260325/s00002/1774375565627/1774375565626
 2026-03-21	山西馬騮仔失足跌落山爆頭亡 義氣猴群阻管理員執屍︱有片	https://std.stheadline.com/china-topics/3554697/山西馬騮仔失足跌落山爆頭亡-義氣猴群阻管理員執屍有片
-2026-03-12	（有片）2油輪在伊拉克領海遭襲爆炸 已致1死	https://www.tkww.hk/a/202603/12/AP69b241e6e4b04773b06a1750.html
 2026-03-12	秘境「巨人之手」工安意外！工人沒安全繩摔死 工地主任判6月	https://www.ettoday.net/news/20260312/3131050.htm
 2026-03-12	教育界憂學童過早接觸電子產品成「電子奶嘴」 倡加強監管網絡	https://www.hk01.com/社會新聞/60347654/教育界憂學童過早接觸電子產品成-電子奶嘴-倡加強監管網絡
 2026-03-12	加士居道天橋工業意外 男工人腳傷清醒送院	https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVG9lSndRaFZDQ0NnMWpJNlp5bTVvUjI0SngwYjVqOTNKNmtiY1dMRlg4Y2M0alpwWmo3MEVtaGNqTVNKeHV4aHpJUTN2LW4zeExqMEg2WU1IbUliVWZsRW5FNS1wYllIbHdwWmQydXN2VEFRdEl6MGQxZ1dwRm5sZTRnSjRLY0JXbUpIQUVjR25KX0tLdkFTTmJuU1ljd01MVUJZZXg4blN2S3JJTTlGRXplU0dXZWhoTUpacW5vRW4zMXJQZVIwZjduTWMzUjFTdTY0Q0d0MmQwZ29RaWsyQWxXMlpmNzhJM2phLTVYUmVoUHM3azg5VFU5TUJQbl9BX3E1a2pVUnZ0Y0M1enpYTVRpYlhtOUJpd20tb1hSdW0zQ0gtYjZKZ01fSkZaYzU5UjltbFM4X0UtREpJb1lQQ2lxUQ?oc=5
@@ -812,8 +725,6 @@ var DATA_TODAY = `
 2026-02-08	黎巴嫩住宅大樓倒塌最少五死 居民批政府疏於管理殘舊設施	
 2026-02-08	男疑工地跌倒「鋼筋插眼」 「自行拔出」急送醫搶救	https://www.singtao.ca/7412520/2026-02-08/news-觀塘道六旬婦推紙皮過路捱貨車撞+送院搶救不治/
 2026-02-08	機動遊戲半空倒塌 警員搶救傷者慘遭砸死(有片)	
-2026-02-07	我駐巴使館：暫無中國公民在巴基斯坦清真寺爆炸事件中死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202602/07/AP6986975be4b04d7d56d249b0.html
-2026-02-07	巴基斯坦清真寺爆炸事件已致32人死亡	https://big5.cctv.com/gate/big5/news.cctv.com/2026/02/07/ARTIZBcSTmAizgAh9QLWcMUT260207.shtml
 2026-02-07	何文田奪命工傷│挖泥機翻側壓斃男雜工 家屬傷心認屍	https://std.stheadline.com/breaking-news/3589172/何文田奪命工傷挖泥機翻側壓斃男雜工-家屬傷心認屍
 2026-02-06	屯門珠海學院對開的士自炒撞燈箱指示牌 司機乘客被困獲救送院	
 2026-02-03	施工中的江蘇鹽城市月港大橋倒塌 釀至少五死	
@@ -836,9 +747,7 @@ var DATA_TODAY = `
 2026-01-25	四川威远：轿车坠河三人被困 民警与消防员火速驰援化险情	
 2026-01-24	金鐘男子扶手電梯意外跌倒釀4傷	
 2026-01-24	載油棕苗羅厘丹咬公路失控, 撞向山壁司機當場夾斃	
-2026-01-24	巴基斯坦西北部自杀式爆炸袭击致5人死亡	https://news.bjd.com.cn/2026/01/24/11543242.shtml
 2026-01-24	“黑夜、大雪、悬崖，一失足就是粉身碎骨。”被困“京西小鳌太”的15人安全下山，消防员“冰爪”断裂、吃雪、出现幻觉……	
-2026-01-23	程式員在家辦公猝死 掀「工傷」定義爭議 - 20260123 - 中國	https://news.mingpao.com/pns/中國/article/20260123/s00013/1769098979157/程式員在家辦公猝死-掀「工傷」定義爭議
 2026-01-23	將軍澳尚德邨七旬翁疑被床夾斃 警方刑偵探員接手調查有否可疑	
 2026-01-23	將軍澳尚德邨七旬翁疑被凳夾斃 警方刑偵探員接手調查有否可疑	
 2026-01-23	將軍澳七旬翁疑被梳化床夾斃 警調查是否有可疑	
@@ -848,17 +757,11 @@ var DATA_TODAY = `
 2026-01-22	女子被困火场，邻居架梯救出	
 2026-01-22	印度一鋼鐵廠發生爆炸已致6死4傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/22/AP6971d242e4b04d7d56cfb6c8.html
 2026-01-22	協盛建築男工航天城地盤觸電亡法院覆核裁決提高罰款- 港聞	
-2026-01-21	阿富汗中餐館爆炸致七人死亡，伊斯蘭國宣稱對事件負責- 紐約時報中文網	https://cn.nytimes.com/world/20260121/isis-kabul-bomb-china/zh-hant/
-2026-01-21	西班牙暴雨擋土牆倒塌 致火車脫軌1死37傷 (11:25) - 20260121 - 國際	https://news.mingpao.com/ins/國際/article/20260121/s00005/1768965455607/西班牙暴雨擋土牆倒塌-致火車脫軌1死37傷
 2026-01-21	協盛建築男工航天城地盤觸電亡法院覆核裁決提高罰款- 港聞	https://www.dotdotnews.com/a/202601/21/AP6970a09ee4b0c32d4f66a35d.html
 2026-01-21	中市府防建築工地墜落職業災害啟動專案檢查| 地方	https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5QjRLMHlXTGpKMndETDdpeWZUbXdfUEZhSkQzRjZMSGljdmhLMDB3QWU0akVZRWtZdHVJMGQ1WFFCRkVITENTM3pLeG5kbE9CcVJMaXdoVFdHUmZzZE5J?oc=5
-2026-01-20	（有片）阿富汗首都發生爆炸一名中國公民死亡- 兩岸	https://www.dotdotnews.com/a/202601/20/AP696edcb2e4b0c32d4f668067.html
-2026-01-20	（有片）阿富汗喀布爾爆炸事件致中國公民1死1重傷	https://www.tkww.hk/a/202601/20/AP696ee711e4b0aa6cbcd3a19b.html
-2026-01-20	點聞1分鐘｜阿富汗首都爆炸至少7死13傷 中國公民一死一重傷	https://www.dotdotnews.com/a/202601/20/AP696f1056e4b0c32d4f66859c.html
 2026-01-20	北海道滑雪場奪命! 5歲男童跌倒捲入魔毯「母急按停」45 分鐘後拉出不治	
 2026-01-20	包鋼板材廠爆炸事故已確認9人死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/01/20/content_8736285.html
 2026-01-20	內蒙古包鋼板材廠爆炸6死4失聯- 內地 - 香港文匯網	https://www.wenweipo.com/a/202601/20/AP696e9416e4b04d7d56cf556f.html
-2026-01-20	一名中國公民在阿富汗首都爆炸事件中死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/20/AP696ec5a7e4b04d7d56cf58b5.html
 2026-01-19	包鋼廠區爆炸已致2死8失聯84傷	https://www.hkcd.com.hk/hkcdweb/content/2026/01/19/content_8736065.html
 2026-01-17	香港政府新聞網- 高度關注接連三宗致命工業意外	https://news.google.com/rss/articles/CBMieEFVX3lxTFBYRTRqTlJCaF9FYmxfUGVvMEFTdlB5blVHd2VpT0RNQTVvdnh2V25wUzFMMExvY0xESU1Wc3didnR4XzJpeTVkQThoeVJ1T0hSc2s1ckR3VWZsbVpoR1lBNkVrbFdHdXE3MDFBSTVSYmtIaE54Y0dCcQ?oc=5
 2026-01-17	泰國再發生起重機倒塌意外 砸2車已知2死5傷｜#公視新聞網 #Shorts	
@@ -897,7 +800,6 @@ var DATA_TODAY = `
 2026-01-07	女游客带11岁儿子山中追雪被困数小时！接连2起救援	https://finance.sina.com.cn/jjxw/2026-01-07/doc-inhfmycz2354036.shtml
 2026-01-06	銅鑼灣63歲船家疑酒後失足墮海 獲救送院（更新） ｜ am730	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E9%8A%85%E9%91%BC%E7%81%A3%E7%94%B7%E5%AD%90%E5%A2%AE%E6%B5%B7-%E7%8D%B2%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86/633723
 2026-01-06	沙田威爾斯醫院地盤工業意外 男工人頭部受傷送院	
-2026-01-06	巴基斯坦西南部發生爆炸 造成1死16傷	https://www.bastillepost.com/hongkong/article/15559147-巴基斯坦西南部發生爆炸 造成1死16傷
 2026-01-06	威院重建地盤意外 升降台工人撞石屎橫樑 送院搶救情況危殆	
 2026-01-06	土瓜灣塌籃球架壓傷20歲青年康文署：上月中巡查時未覺有異樣- 國際	
 2026-01-05	瑞士酒吧跨年夜爆炸40人亡！死者身分全數釐清 半數以上是青少年	https://www.ettoday.net/news/20260105/3095503.htm
@@ -934,7 +836,6 @@ var DATA_TODAY = `
 2025-12-17	常州粉塵爆炸事故 涉事公司廠長等7人被司法機關採取強制措施	https://hk.on.cc/hk/bkn/cnt/news/20251217/bkn-20251217165817572-1217_00822_001.html
 2025-12-15	路滑引发车祸致两名行人被困，消防15分钟紧急救援	
 2025-12-14	尖沙咀地盤奪命工業意外 男工遭鋼筋壓斃 涉案公司及負責人否認兩項傳票罪	https://www.wenweipo.com/a/202512/14/AP693e9304e4b0ea5e4746ea22.html
-2025-12-12	韓國光州工地坍塌事故增至2死 仍有2人未救出	
 2025-12-12	韓光州新圖書館地盤工業意外 鐵製構造物坍塌1死3被困 (18:05) - 20251211 - 國際	
 2025-12-12	長沙灣青山道女途人捱的士撞 被困車身與欄杆之間 由消防救出	
 2025-12-12	工業意外丨​打鼓嶺堆填區擴建地盤55歲男工遭吊運物擊中 後腦受傷腳骨折送院治理	
@@ -976,7 +877,6 @@ var DATA_TODAY = `
 2025-11-15	葵涌男工遭石膏板壓傷 送院搶救後不治	
 2025-11-15	葵涌男工人搬石膏板遭壓斃勞工處發停工通知書- 港聞	
 2025-11-15	葵涌停車場男工遭石膏板壓斃 勞工處展開調查 發暫時停工通知書	
-2025-11-15	科大訊飛38歲高級工程師在家猝死 家屬阻塞公司大門冀認定為工傷	https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20251115/s00002/1763143603086/%E7%9A%84%E5%A3%AB%E5%95%9F%E5%BE%B7%E5%A4%B1%E6%8E%A7%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-3%E4%BA%BA%E9%80%81%E9%99%A2
 2025-11-15	尖沙咀地盤鋼筋壓斃工人 涉案公司及負責人被票控 12.4開審將傳召專家證人	https://www.wenweipo.com/a/202511/15/AP6917dc26e4b06e541e26ccfa.html
 2025-11-14	西半山吊船奪命工業意外案揭外牆無安全網 兩公司及董事被票控15罪	https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20251114-%E7%91%9E%E5%85%B8-%E6%96%AF%E5%BE%B7%E5%93%A5%E7%88%BE%E6%91%A9%E5%A4%9A%E5%90%8D%E8%A1%8C%E4%BA%BA%E8%A2%AB%E5%85%AC%E4%BA%A4%E8%BB%8A%E6%92%9E%E5%80%92%EF%BC%8C%E8%AD%A6%E6%96%B9%E7%A8%B1%E8%87%B3%E5%B0%91%E4%B8%89%E4%BA%BA%E6%AD%BB%E4%BA%A1
 2025-11-14	元朗塌牆奪命工傷｜慘遭壓斃女雜工遺3在學子女 「邵氏基金會緊急支援基金」助家屬渡難關	
@@ -993,7 +893,6 @@ var DATA_TODAY = `
 2025-11-08	泰國5歲童盪鞦韆觸電亡！家屬怒指校方隱瞞失職釀人禍	
 2025-11-08	村屋清拆塌牆壓斃女工 工權會：家屬經濟上承受巨大壓力 籲社會伸出援手 (16:38) - 20251107 - 港聞	
 2025-11-07	連日爆工傷水電工墮7米深地庫重創	
-2025-11-07	突发！澳洲桥梁坍塌突发！货车撞击后乘客被困	
 2025-11-07	接連多宗致命工業意外 勞工處明展開執法行動 打擊違規作業	
 2025-11-07	惊险！小货车撞破二楼墙体悬空卡住，消防员紧急营救被困司机	
 2025-11-07	工業意外︱勞工處明展開全港性執法行動 發現違規即下令停工檢控	
@@ -1022,7 +921,6 @@ var DATA_TODAY = `
 2025-10-21	電工樂頤居觸電亡 僱主等認罪共罰逾73萬元 求情稱管工沒匯報電源未斷	
 2025-10-21	葵涌醫院地盤意外｜發展局暫停承建商工務投標資格 須先安全審核	https://www.chinapress.com.my/20251021/80%E5%B2%81%E8%80%81%E7%BF%81%E9%A9%BE%E8%B4%A7%E5%8D%A1%E5%A4%B1%E6%8E%A7%E5%9D%A0%E8%B0%B7%E3%80%80%E5%BD%93%E5%9C%BA%E5%A4%B9%E6%AF%99%E8%BA%AB%E4%BA%A1/
 2025-10-21	粗心父回家打機獨留2歲女車內睡覺女童被困43℃車廂3小時慘遭高溫熱斃| 生活熱話	
-2025-10-20	政務司司長陳國基:倘有人違法致工人傷亡 必從嚴處理 2022年安達臣道地盤塌天秤意外，造成3死6傷的慘劇，警方昨日以誤殺罪拘捕涉事地盤總承建商一名時任項目經理，並通緝一名外判註冊結構工程師。	https://hk.on.cc/hk/bkn/cnt/news/20251020/mobile/bkn-20251020010103647-1020_00822_001_cn.html
 2025-10-20	啟德體育園地盤工業意外 男工搬運物料傷手指	https://news.china.com/socialgd/10000169/20251020/48920758.html
 2025-10-19	安達臣道奪命工傷｜陳國基：誤殺一罪反映非純粹意外 人命寶貴須從嚴處理	https://hk.on.cc/hk/bkn/cnt/news/20251019/bkn-20251019162036493-1019_00822_001.html
 2025-10-18	貨車司機卸木材遭壓斃涉案物流公司判罰20萬元(18:37) - 20251017 - 港聞- 即時新聞	
@@ -1059,8 +957,6 @@ var DATA_TODAY = `
 2025-10-06	粉嶺電工維修冷氣觸電亡 妻子傷心食不下嚥 子女半夜哭醒喚爸爸	
 2025-10-06	男工疑觸電亡遺兩年幼子女 工權會：遺孀承受巨大經濟壓力 籲各界伸援手 (17:47) - 20250914 - 港聞	
 2025-10-06	爬公寓外墙找女友 男子失足坠楼身亡	
-2025-10-06	日本2士官「殉職水泥建築內」自衛隊宣布因雷擊觸電喪命	
-2025-10-06	工傷｜建造業議會：催工文化最危害安全 去年猝死個案工友佔3成	
 2025-10-06	大學實驗室鋰電池爆炸 學生受傷送院	
 2025-10-06	大同山觀景台出人命！ 疑登山客觸電釀火燒山慘成焦屍斷電才能送醫	
 2025-10-06	在巴黎的“巴黎”的船員中倒塌後	
@@ -1109,7 +1005,6 @@ var DATA_TODAY = `
 2025-09-27	高雄岡山工廠意外！女員工墜落「遭鋼筋壓傷」 頭部重創死亡	
 2025-09-27	旺角男子2米高棚架失足墮地 受傷送院	
 2025-09-27	土耳其歌手古利（Gülli）死於悲劇陽台倒塌後的51年	
-2025-09-27	24歲女星浴室跌倒猝逝！「浴缸1設計」狠奪命： 男女老少都中	http://www.msn.com/zh-tw/entertainment/news/24%E6%AD%B2%E5%A5%B3%E6%98%9F%E6%B5%B4%E5%AE%A4%E8%B7%8C%E5%80%92%E7%8C%9D%E9%80%9D-%E6%B5%B4%E7%BC%B81%E8%A8%AD%E8%A8%88-%E7%8B%A0%E5%A5%AA%E5%91%BD-%E7%94%B7%E5%A5%B3%E8%80%81%E5%B0%91%E9%83%BD%E4%B8%AD/ar-AA1GhHL4?cvid=F1E1F2D5008D4688A26D4180D3C9B98D&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2025-09-23	鯉魚門男子維修簷篷失足墮下受傷送院	
 2025-09-23	苗栗化工廠工安意外 六工人疑甲苯中毒送醫|社會|CTWANT	
 2025-09-22	粉嶺技工維修冷氣觸電亡 機電署: 事主無註冊疑換電掣時未斷電	
@@ -1123,14 +1018,12 @@ var DATA_TODAY = `
 2025-09-17	太古城六旬工人誤觸電鋸腳背慘遭割傷濺血送院- 香港 - 香港文匯網	
 2025-09-17	大屿山伯公坳行山翁跌倒头伤 直升机救起交救护车送院	
 2025-09-16	粉嶺電工維修冷氣觸電亡 妻子傷心食不下嚥 子女半夜哭醒喚爸爸	
-2025-09-16	母半夜跌倒頭撞牆！ 驚罹腦溢血急手術搶救不治崔佩儀崩潰大哭	https://www.msn.com/zh-tw/health/other/%E6%AF%8D%E5%8D%8A%E5%A4%9C%E8%B7%8C%E5%80%92%E9%A0%AD%E6%92%9E%E7%89%86-%E9%A9%9A%E7%BD%B9%E8%85%A6%E6%BA%A2%E8%A1%80%E6%80%A5%E6%89%8B%E8%A1%93%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB-%E5%B4%94%E4%BD%A9%E5%84%80%E5%B4%A9%E6%BD%B0%E5%A4%A7%E5%93%AD/ar-AA1Momv0?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
 2025-09-16	大嶼山伯公坳行山翁跌倒頭傷 直升機救起交救護車送院	
 2025-09-16	七旬老人被困河中 吳川警方緊急涉水救援	https://gd.sina.cn/news/2025-09-15/detail-infqqqee6276588.d.html?vt=4&cid=56304&node_id=56304
 2025-09-14	油塘55歲鐵器工首日開工 風煤切工字後 工字鐵下墮 工人慘被工字鐵壓斃	https://www.wenweipo.com/a/202509/14/AP68c6ccb7e4b0427c0511cd9d.html
 2025-09-13	工字鐵壓斃工人 控方覆核 精進分判罰款倍增至28.3萬 - 20250912 - 圖片看世界	
 2025-09-13	上水一技工校內維修冷氣疑觸電送院亡	
 2025-09-12	油塘工字鐵壓斃工人意外 精進及分判商等罰款 由13萬增至28.3萬	
-2025-09-11	高雄茄萣魚塭工寮觸電意外 7旬翁「手握電線」明顯死亡	
 2025-09-11	西貢水警基地漁護署船隻加油時爆炸釀2傷 船長兩成皮膚燒傷	
 2025-09-11	油塘工字鐵壓斃工人意外 精進及分判商等罰款 由13萬增至28.3萬	
 2025-09-11	33歲女遭10噸重鋼筋壓死！姊衝醫院悲痛認屍 雇主移送檢方究責	
@@ -1157,19 +1050,13 @@ var DATA_TODAY = `
 2025-08-28	干德道大廈棚架倒塌兩工人受傷(14:49) - 20250827 - 港聞- 即時新聞	
 2025-08-27	工業意外｜港島西半山慧明苑棚架倒塌 2名工人受傷	
 2025-08-27	外地司乘人员遇山体滑坡被困，湖北保康警民齐力施救助其脱险！	https://today.line.me/tw/v3/reposts/article/zNo0JZ7
-2025-08-26	工傷｜建造業議會：催工文化最危害安全 去年猝死個案工友佔3成	
 2025-08-26	奪命工業意外頻繁 今歲至少10單	
-2025-08-25	工傷｜建造業議會：催工文化最危害安全 去年猝死個案工友佔3成	
 2025-08-24	28歲男深夜線上開會後疑過勞倒地亡 人社局未認定工傷家屬提申訴	https://www.hk01.com/article/60269545?utm_source=01articlecopy&utm_medium=referral
 2025-08-23	通風不良吸入沼氣！鶯歌下水道傳工安意外 越南移工1死1傷	
 2025-08-23	貨車滑動遭夾斃！台中工人修車卡車頭救出已來不及| 討論牆	
-2025-08-23	新北鶯歌傳工安意外！2移工倒臥下水道吸入沼氣 一人OHCA急救中 | 太報	
 2025-08-23	才要搬新家！新天堂樂園停車場「火燒車爆炸」 43 歲駕駛亡	
 2025-08-23	快訊／新北工安意外！2工人倒臥4米下水道 1人命危搶救中 | TVBS	
 2025-08-22	勞工處｜「工傷僱員復康先導計劃」9月底停申請 孫玉菡引述同事：很多受傷工友傾向公營醫療	
-2025-08-21	電梯技工疑連做60小時猝逝 家屬控訴僱主拒認工傷 工權會促訂立過勞補償制度 - 有線寬頻 i-CABLE	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/381830/%E9%9B%BB%E6%A2%AF%E6%8A%80%E5%B7%A5%E7%96%91%E9%80%A3%E5%81%9A60%E5%B0%8F%E6%99%82%E7%8C%9D%E9%80%9D-%E5%AE%B6%E5%B1%AC%E6%8E%A7%E8%A8%B4%E5%83%B1%E4%B8%BB%E6%8B%92%E8%AA%8D%E5%B7%A5%E5%82%B7
-2025-08-21	日2自衛隊員訓練失聯 勘驗確認因雷擊觸電亡	
-2025-08-21	工業意外｜準爸爸開工猝死遺懷孕妻，遺孀早產母子平安：重燃希望，感激善長人翁雪中送炭	https://hk.news.yahoo.com/%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%BA%96%E7%88%B8%E7%88%B8%E9%96%8B%E5%B7%A5%E7%8C%9D%E6%AD%BB%E9%81%BA%E6%87%B7%E5%AD%95%E5%A6%BB-%E9%81%BA%E5%AD%80%E6%97%A9%E7%94%A2%E6%AF%8D%E5%AD%90%E5%B9%B3%E5%AE%89-%E9%87%8D%E7%87%83%E5%B8%8C%E6%9C%9B-%E6%84%9F%E6%BF%80%E5%96%84%E9%95%B7%E4%BA%BA%E7%BF%81%E9%9B%AA%E4%B8%AD%E9%80%81%E7%82%AD-092337208.html
 2025-08-21	(上環14歲女童意外墜海)	https://newstaiwan.net/2025/08/21/350380/
 2025-08-20	安達臣道天秤倒塌釀3死6傷 傷者入稟向精進等7公司及3相關人士索償	
 2025-08-20	安達臣道地盤天秤倒塌釀3死6傷慘劇 傷者入稟向承建商「精進」及起重機供應商等多間公司及人士索償	
@@ -1194,19 +1081,11 @@ var DATA_TODAY = `
 2025-08-04	赤鱲角的士自炒再捱撞 55歲的哥留醫3日不治	https://hk.on.cc/hk/bkn/cnt/news/20250804/bkn-20250804230345547-0804_00822_001.html
 2025-08-03	大浪灣泳灘男子被困石隙 當場不治	https://www.hk01.com/article/60217669?utm_source=01articlecopy&utm_medium=referral
 2025-07-28	秀茂坪私家車自炒翻側 男司機被困	https://www.hk01.com/article/60261012?utm_source=01articlecopy&utm_medium=referral
-2025-07-21	經理午休與領導打波猝死 判屬非工傷	https://hk.on.cc/hk/bkn/cnt/news/20250721/bkn-20250721080359101-0721_00822_001.html
 2025-07-18	八鄉地盤男工人觸電 清醒送院治理	https://news.tvb.com/sc/local/698f467bbade8eb62c01be9f/港澳-牛頭角男途人被的士撞倒最終不治
 2025-07-15	渣甸山豪宅男工疑失足從1.7米高平台墮下 送院救治	https://news.rthk.hk/rthk/ch/component/k2/1843812-20260214.htm
-2025-07-15	(程序員在家辦公猝死 掀「工傷」定義爭議)	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20250715/s00001/1752571944117
 2025-07-14	羅馬仕高層傳已潛逃｜行動電源爆炸工廠停擺員工無糧出硬接爛攤子	https://www.hk01.com/article/60256641?utm_source=01articlecopy&utm_medium=referral
-2025-07-11	貴州24歲騎手感冒後送外賣猝死 家屬申請工傷認定	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60291933/%E8%B2%B4%E5%B7%9E24%E6%AD%B2%E9%A8%8E%E6%89%8B%E6%84%9F%E5%86%92%E5%BE%8C%E9%80%81%E5%A4%96%E8%B3%A3%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E7%94%B3%E8%AB%8B%E5%B7%A5%E5%82%B7%E8%AA%8D%E5%AE%9A
-2025-07-10	沙田衝突警員遭襲擊 當局支付工傷 律政司向4示威者索償逾200萬	https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20250710/s00002/1752083204696
 2025-07-08	父送兒子上學「遺忘女兒在車上」 3歲女被困50℃高溫車內活活熱死	https://www.i-cable.com/新聞資訊/438501/牛頭角得寶花園對開的士撞途人-傷者重傷昏迷送
 2025-07-07	新油麻地公眾貨物裝卸區工業意外 六旬男工船上8米高墮下送院	https://www.mytvsuper.com/tc/scoopplus/news/headlines/16764892341134/即時新聞-有片---牛頭角的士撞斃八旬男途人--擋風玻璃碎裂
-2025-06-16	陳屍公司16hrs沒人發現！他剛上班突暴斃 1關鍵遭認定「不算工傷」 ｜ 易軍堯 ｜ 全解析	https://www.storm.mg/article/11045895
-2025-06-15	員工到公司停車場猝逝！遭認定「不算工傷」家屬怒告 法院判決關鍵曝 ｜ 國際 ｜ CTWANT	https://www.ctwant.com/article/424171/
-2025-06-11	貴州24歲騎手感冒後送外賣猝死 家屬申請工傷認定	https://www.hk01.com/article/60291933?utm_source=01articlecopy&utm_medium=referral
-2025-06-10	工作過勞｜電梯工連做59小時疑「過勞死」 公司未認工傷 遺孀：係咪死喺𨋢槽先算？	https://skypost.hk/article/3997040/%E5%B7%A5%E4%BD%9C%E9%81%8E%E5%8B%9E-%E9%9B%BB%E6%A2%AF%E5%B7%A5%E9%80%A3%E5%81%9A59%E5%B0%8F%E6%99%82%E7%96%91-%E9%81%8E%E5%8B%9E%E6%AD%BB-%E5%85%AC%E5%8F%B8%E6%9C%AA%E8%AA%8D%E5%B7%A5%E5%82%B7-%E9%81%BA%E5%AD%80-%E4%BF%82%E5%92%AA%E6%AD%BB%E5%96%BA-%E6%A7%BD%E5%85%88%E7%AE%97
 2025-06-07	葵涌打磚坪街工廈 男子觸電不適送院	https://std.stheadline.com/realtime-world/3543128/尼日利亞車禍-卡車失控衝出公路撞毀-至少30死多人重傷-
 2025-06-06	荔枝角麗昌工廠大廈冷氣機疑爆炸 碎片四散墮地	https://www.i-cable.com/新聞資訊/436828/觀塘推紙皮婦遭貨車撞飛數十米-送院搶救不治
 2025-05-07	港鐵藍田站男子搭扶手梯不適向後跌 途人按緊急掣 4人跌倒受傷	https://www.hk01.com/article/60253856?utm_source=01articlecopy&utm_medium=referral
@@ -1245,7 +1124,6 @@ var DATA_TODAY = `
 2024-12-30	西九站上蓋地盤致命工業意外 何啟明：不排除展開全港突擊檢查	https://www.881903.com/news/local/2610864
 2024-12-29	高鐵西九上蓋工傷｜助移位斷繩索 1.2噸玻璃幕牆壓斃53歲男工	https://www.881903.com/news/international/2610881
 2024-12-24	上水奪命工傷｜家屬傷心路祭 遺孀哭斷腸：你要跟啲仔返屋企呀	https://news.rthk.hk/rthk/ch/component/k2/1836709-20251219.htm
-2024-12-13	發展局倡加強涉地盤意外罰則 導致或可能導致傷亡等最高罰款增至三百萬	https://news.rthk.hk/rthk/ch/component/k2/1836395-20251217.htm
 2024-12-06	荃灣吊船下降突傾斜 2工人被困1傷 疑摩打故障肇禍	https://www.hk01.com/article/60303757
 2024-12-04	上水公屋地盤七旬男工亡 房署指無證據顯示涉工業意外	https://www.sundaykiss.com/%E7%86%B1%E8%A9%B1/%E5%B1%AF%E9%96%80-%E9%9B%99%E5%B1%A4%E5%B7%B4%E5%A3%AB-%E6%A0%A1%E5%B7%B4-%E5%8F%B8%E6%A9%9F-%E4%BF%9D%E5%A7%86-%E5%AD%B8%E7%AB%A5-%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-2327270/
 2024-12-03	扶手梯意外3周6宗｜港鐵油塘站拉車仔婦人跌倒 頭部朝下倒臥梯級	https://www.hk01.com/%E7%AA%81%E7%99%BC/60303604/%E5%B1%AF%E9%96%80%E5%A4%A9%E5%90%8E%E8%B7%AF%E5%B7%B4%E5%A3%AB%E5%8F%8A%E6%A0%A1%E5%B7%B4%E7%9B%B8%E6%92%9E-6%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E5%8C%85%E6%8B%AC4%E5%90%8D%E7%94%B7%E7%AB%A5
@@ -1266,7 +1144,6 @@ var DATA_TODAY = `
 2024-10-02	長沙灣疑有手提火槍的卡式石油氣樽爆炸 女子處理中藥時全身燒傷	https://www.worldjournal.com/wj/story/121480/9145955?from=wj_maintab_cate
 2024-09-23	羅便臣道前年工業意外 承建商及技術人員被判緩刑及社會服務令	https://www.tdm.com.mo/zh-hans/news-detail/1152966?lang=zh&isvideo=false&shortvideo=0
 2024-09-21	貨車尾板直插辦公室 女會計險夾斃	https://www.stheadline.com/realtime-world/3518044/%E6%96%AF%E5%BE%B7%E5%93%A5%E7%88%BE%E6%91%A9%E5%B8%82%E4%B8%AD%E5%BF%83%E5%B7%B4%E5%A3%AB%E6%92%9E%E7%AB%99%E4%BA%AD%E9%87%803%E6%AD%BB%E5%A4%9A%E5%82%B7-%E8%AD%A6%E6%96%B9%E7%A8%B1%E7%84%A1%E6%B6%89%E6%81%90%E8%A5%B2
-2024-09-20	女傭住家工作一周後猝死 二審獲認定工傷	https://www.stheadline.com/realtime-world/3517732/%E6%92%BC%E9%86%89%E9%A7%95%E5%AE%A2%E8%B2%A8%E8%BB%8A-%E7%A7%98%E9%AD%AF%E5%B7%B4%E5%A3%AB%E5%A2%AE%E8%B0%B737%E6%AD%BB
 2024-09-20	前年大埔機械倉庫致命工業意外 公司東主被判罰7.9萬元	https://www.stheadline.com/breaking-news/3520809/%E6%97%BA%E8%A7%92%E6%B4%97%E8%A1%A3%E8%A1%97%E6%97%85%E9%81%8A%E5%B7%B4%E8%BC%BE%E6%96%83%E9%81%8E%E8%B7%AF%E5%A9%A6-%E7%B4%99%E7%9A%AE%E9%9B%9C%E7%89%A9%E6%95%A3%E8%90%BD%E4%B8%80%E5%9C%B0-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95
 2024-09-06	尖沙咀麗晶酒店工業意外 女職員4隻手指遭機器夾近20分鐘	https://www.msn.com/zh-tw/news/world/%E8%BB%8A%E7%A6%8D%E6%98%8F%E8%BF%B7%E6%95%B8%E6%9C%88%E7%AA%81%E6%B8%85%E9%86%92-%E9%A9%9A%E7%88%86-%E4%BA%8B%E6%95%85%E9%9D%9E%E6%84%8F%E5%A4%96%E6%98%AF%E6%87%B7%E5%AD%95%E5%A5%B3%E5%8F%8B%E6%95%85%E6%84%8F%E5%8A%A0%E9%80%9F%E6%92%9E%E6%A8%B9-%E5%BE%8C%E5%8E%BB%E4%B8%96/ar-AA1R1B94?cvid=6925005a777b484495be230fff7305d0&ocid=onepro
 2024-08-28	達美航空拆卸輪胎發生爆炸 釀2死1重傷	https://www.msn.com/zh-tw/news/national/%E7%84%A1%E8%99%95%E5%AE%89%E6%94%BE%E7%9A%84%E5%AD%A4%E7%8D%A8%E8%88%87%E6%95%B8%E4%BD%8D%E4%BE%9D%E6%88%80-%E5%85%A9%E8%B5%B7%E8%87%AA%E6%AE%BA%E6%82%B2%E5%8A%87%E5%BE%8C-character-ai%E7%82%BA%E4%BD%95%E9%80%BC%E5%AD%A9%E5%AD%90%E8%88%87%E6%9C%80%E8%A6%AA%E5%AF%86%E7%9A%84%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%81%93%E5%88%A5/ar-AA1R6sCE
@@ -1283,7 +1160,6 @@ var DATA_TODAY = `
 2024-07-12	沙田坳道近法藏寺地盤工業意外 男工跌落斜坡 頭傷送院	https://news.tvb.com/sc/local/69247df0e435294129157eba/%E6%B8%AF%E6%BE%B3-%E6%97%BA%E8%A7%9279%E6%AD%B2%E8%80%81%E5%A9%A6%E9%81%AD%E6%97%85%E9%81%8A%E5%B7%B4%E8%BC%BE%E9%81%8E%E9%A0%AD%E9%83%A8%E9%87%8D%E5%82%B7%E6%AD%BB%E4%BA%A1-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95%E6%93%9A%E6%82%89%E7%84%A1%E9%85%92%E9%A7%95
 2024-06-25	油麻地船員失足墮8米深艙底 消防救起送院	https://www.hk01.com/article/1032005?utm_source=01articlecopy&utm_medium=referral
 2024-06-25	日本重大工業意外 新潟縣地下配管工程突爆炸 1死5傷	https://www.hk01.com/article/1030021?utm_source=01articlecopy&utm_medium=referral
-2024-06-18	科大訊飛38歲高級工程師在家猝死 家屬阻塞公司大門冀認定為工傷	https://www.hk01.com/article/1030116?utm_source=01articlecopy&utm_medium=referral
 2024-06-14	般咸道地盤工業意外 兩工人棚架墮下送院救治	https://www.bastillepost.com/hongkong/article/15406855-%E7%BE%85%E9%A6%AC%E5%B0%BC%E4%BA%9E%E5%8D%97%E9%83%A8%E6%9C%89%E7%81%AB%E8%BB%8A%E8%88%87%E6%B1%BD%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%80%A0%E6%88%90%E5%9B%9B%E4%BA%BA%E6%AD%BB%E4%BA%A1
 2024-06-12	西九地盤奪命工業意外｜工地「大判」、「二判」被控誤殺 還柙近9個月後獲准保釋 案件9.13再訊	http://www.msn.com/zh-tw/news/national/%E9%A8%8E%E8%BB%8A%E9%97%96%E7%B4%85%E7%87%88-%E5%B1%8F%E6%9D%B1%E5%A5%B3%E5%A4%A7%E7%94%9F%E8%A1%9D%E6%92%9E%E9%85%92%E9%A7%95%E5%96%AE%E8%BB%8A%E9%A8%8E%E5%A3%AB-8%E6%97%AC%E7%BF%81%E6%90%B6%E6%95%912%E5%A4%A9%E4%B8%8D%E6%B2%BB/ar-AA1FbA3B?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2024-06-01	越南恐怖工業意外！男子捲進攪拌機 手腳瞬間扯斷｜有片・慎入	https://www.worldjournal.com/wj/story/121267/9110595
@@ -1295,7 +1171,6 @@ var DATA_TODAY = `
 2024-05-10	建造業議會已暫停涉啟德地盤工業意外註冊公司資格	https://n.yam.com/Article/20251109229936
 2024-05-09	長沙灣維修工遭送貨工撞倒 雙雙飛墮𨋢槽 一人頭傷一度被困	https://www.hk01.com/article/1054647?utm_source=01articlecopy&utm_medium=referral
 2024-05-09	啟德體育園工傷︱勞工處：死者被夾於升降工作台與金屬構築物之間	https://tw.news.yahoo.com/%E9%AB%98%E9%80%9F%E6%92%9E%E5%81%9C%E7%AD%893%E8%BB%8A-%E5%A5%B3%E9%A7%95%E9%A7%9B%E6%98%8F%E8%BF%B7-140901347.html
-2024-05-09	啟德工業意外｜體育園地盤工人猝逝 遺孀悲痛欲絕：我要返個老公！	https://sunmedia.tw/news/collaborative/wvdCXiJith4rq778xwJkHzxrdaet6mBoHz2oTkMmWlsB1X4TDsaAZ7NVixfoQlyludFJmv
 2024-05-06	灣仔食肆工業意外 廚工遭麵粉機夾傷手指	https://www.msn.com/zh-hk/news/national/%E9%A6%96%E5%B8%AD%E9%87%91%E8%9E%8D%E5%A5%B3%E8%AA%BF%E6%9F%A5%E5%B8%AB%E8%BB%8A%E7%A6%8D%E4%BA%A1-%E9%99%B0%E8%AC%80%E8%AB%96-%E7%84%A1%E5%BD%B1%E5%83%8F%E7%B4%80%E9%8C%84-%E5%9C%8B%E9%81%93%E8%AD%A6%E5%9B%9E%E6%87%89%E4%BA%86/ar-AA1vmUE2?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
 2024-05-06	【工業意外】灣仔廚師遭壓麵條機夾手 消防救出送院敷治	https://newswav.com/article/%E7%BE%8E%E5%9B%BD%E4%BD%9B%E5%B7%9E%E8%87%B4%E5%91%BD%E8%BD%A6%E7%A5%B8-%E6%B1%BD%E8%BD%A6%E5%86%B2%E5%85%A5%E9%85%92%E5%90%A7%E9%85%BF4%E6%AD%BB11%E4%BC%A4-A2511_qmpjrg
 2024-05-03	銅鑼灣地盤工業意外 南亞裔工人飛墮2層樓受傷送院	https://news.rthk.hk/rthk/ch/component/k2/1830947-20251110.htm
@@ -1305,7 +1180,6 @@ var DATA_TODAY = `
 2024-04-30	銅鑼灣地盤工業意外 男工飛墮2層樓 頭傷送院治理	http://www.msn.com/zh-tw/news/national/%E7%94%B7%E5%AD%90%E9%87%91%E9%96%80%E9%85%92%E9%A7%95%E8%A1%9D%E6%92%9E%E5%A5%B3%E9%A8%8E%E5%A3%AB%E8%87%B4%E6%AD%BB-%E7%8A%AF%E5%BE%8C%E9%80%83%E9%80%B8%E9%81%AD%E7%BE%88%E6%8A%BC%E7%A6%81%E8%A6%8B/ar-AA1OKXA8
 2024-04-30	安達臣道冧天秤倒塌致3死6傷 警拘承建商時任項目經理	https://www.msn.com/zh-tw/news/other/%E5%BF%AB%E8%A8%8A-%E5%89%8D%E6%B4%8B%E5%9F%BA%E5%BC%B7%E6%89%93%E6%8D%95%E6%89%8B%E8%BB%8A%E7%A6%8D%E9%9B%A2%E4%B8%96-%E4%BA%AB%E5%B9%B435%E6%AD%B2-%E7%90%83%E9%9A%8A%E6%82%B2%E7%97%9B%E8%AD%89%E5%AF%A6/ar-AA1OMNKu?cvid=68f960b7d616483ba0f1330172878d93&ocid=hpmsn
 2024-04-30	【工業意外】銅鑼灣地盤工33樓墮至31樓 頭傷送院救治	https://www.msn.com/zh-tw/news/national/%E7%BD%95%E8%A6%8B%E5%88%A4%E6%B1%BA-%E7%84%A1%E7%85%A7%E9%A8%8E%E8%BB%8A%E8%AC%9B%E9%9B%BB%E8%A9%B1%E6%B2%92%E6%89%93%E6%96%B9%E5%90%91%E6%8F%9B%E9%81%93%E9%87%80%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E9%A8%8E%E5%A3%AB%E7%84%A1%E7%BD%AA/ar-AA1NPC5s?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
-2024-04-25	山豬敗血休克猝逝！周曉涵悲吐他生前「異狀內幕」：很容易跌倒 ｜ 娛樂星聞	https://star.setn.com/news/1459023
 2024-04-23	沙田硫化氫意外｜消息﹕3人疑為救被困同事先後落沙井 釀2死2傷	https://www.stheadline.com/breaking-news/3513824/%E6%9C%89%E7%89%87%E9%9D%92%E6%9C%97%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%AD%A6%E5%AF%9F%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%AD%A6%E5%93%A1%E5%80%92%E5%9C%B0%E5%85%B13%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2
 2024-04-23	沙田渠務奪命工傷｜密閉空間沼氣致命意外頻生 3年3宗奪6命	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/%E5%8D%B0%E5%BA%A6%E5%85%A9%E7%81%AB%E8%BB%8A%E8%BF%BD%E6%92%9E%E6%84%8F%E5%A4%96-%E6%9C%80%E5%B0%9111%E6%AD%BB20%E5%82%B7-%E9%90%B5%E8%B7%AF%E5%85%AC%E5%8F%B8%E6%AD%A3%E8%AA%BF%E6%9F%A5%E5%8E%9F%E5%9B%A0/615388
 2024-04-23	沙田奪命工傷｜工人原毋須進沙井工作 渠務署即時暫停同類工程	https://luminews.my/zh/news/3677417
@@ -1320,7 +1194,6 @@ var DATA_TODAY = `
 2024-03-28	馬鞍山地盤意外 男工人失足跌倒傷膝送院	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E5%A4%A7%E7%AA%A9%E5%8F%A3%E5%B9%B3%E6%B2%BB%E5%89%B7%E5%A3%86%E8%B6%8A%E7%B7%9A%E6%92%BC%E8%B2%A8%E8%BB%8A-%E7%94%B7%E5%8F%B8%E6%A9%9F%E5%8D%8A%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2/615201
 2024-03-28	【工業意外】火炭點心舖女工遭機器夾斷中指 送院搶救	https://www.hk01.com/%E7%AA%81%E7%99%BC/60292654/%E5%A4%A7%E5%9F%94%E6%B1%80%E8%A7%92%E8%B7%AF%E5%A4%96%E8%B3%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%96%91%E5%A4%B1%E4%BA%8B%E8%87%AA%E7%82%92-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB
 2024-03-27	元朗朗屏路工業意外 六旬男工人遭鐵板夾到小腿送院	https://www.hk01.com/%E7%AA%81%E7%99%BC/60290469/%E5%A4%A7%E5%9F%9455%E6%AD%B2%E7%94%B7%E6%8D%B1%E5%AE%A2%E8%B2%A8%E8%BB%8A%E6%92%9E%E9%87%8D%E5%89%B5-%E7%95%99%E9%86%AB%E8%BF%91%E5%85%A9%E6%97%A5%E5%BE%8C%E7%B5%82%E4%B8%8D%E6%B2%BB
-2024-02-16	知名企業家兒「初一跌倒猝逝」 千字文悼：當你出國｜東森新聞	https://news.ebc.net.tw/news/world/405481
 2024-02-01	天水圍地盤疑重物墮下 壓傷男工肩膊	http://www.msn.com/zh-tw/news/national/%E6%A9%9F%E8%BB%8A%E5%B9%BE%E4%B9%8E%E8%A7%A3%E9%AB%94-%E7%94%B7%E5%A4%A7%E7%94%9F%E9%A8%8E%E8%BB%8A%E9%9B%99%E8%BC%89%E8%87%AA%E6%92%9E%E4%BA%A1-%E6%AA%A2%E8%AD%A6%E7%A0%94%E5%88%A4%E8%B6%85%E9%80%9F%E5%A5%AA%E5%91%BD/ar-AA1s605z?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2024-01-23	屯門工業意外 男子切割鐵桶時燒傷臉部 本地 發佈時間	https://www.stheadline.com/tv/tv-news/3506933/%E5%BB%A3%E8%A5%BF%E5%8D%97%E5%AF%A7%E5%8C%97%E5%A4%A7%E6%A9%8B%E7%9E%AC%E9%96%93%E5%9C%B0%E9%99%B7-1300%E5%A4%9A%E4%BA%BA%E9%80%A3%E5%A4%9C%E6%90%B6%E4%BF%AE%E6%9C%89%E7%89%87
 2024-01-18	吊棚工程意外11年奪17命	https://news.ebc.net.tw/news/society/516551
@@ -1329,7 +1202,6 @@ var DATA_TODAY = `
 2024-01-08	天眼直擊：元朗Tesla避狗自炒墮明渠 司機受傷一度被困	https://hk.on.cc/hk/bkn/cnt/news/20240108/bkn-20240108004746627-0108_00822_001.html
 2023-12-28	赤鱲角機場地勤設備工程大樓奪命意外 男工遭升降台車夾斃	https://www.msn.com/zh-tw/news/national/%E5%96%AE%E8%A6%AA%E5%A5%B3%E4%BB%A3%E6%9B%B8%E9%81%AD%E5%AE%AE%E5%BB%9F%E8%A9%9016%E5%84%84%E8%B2%A0%E5%82%B5%E5%A2%9C%E6%A8%93-%E5%AE%B6%E5%B1%AC%E5%98%86-%E8%99%94%E8%AA%A0%E4%BB%98%E5%87%BA%E4%B8%80%E5%88%87/ar-AA1O4mYo?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2023-12-28	赤鱲角奪命工傷｜工程師：疑沒用工具支撐升降台 單獨工作添風險	https://mtgamer.com/%E5%A8%9B%E6%A8%82/%E9%84%89%E6%9D%91%E6%98%8E%E6%98%9F%E8%88%87-cmt-%E7%96%BE%E7%97%85%E4%BD%9C%E9%AC%A5%E7%88%AD%EF%BC%8C%E8%89%BE%E5%80%AB%C2%B7%E5%82%91%E5%85%8B%E9%81%9C-alan-jackson-%E5%AE%A3%E5%B8%83%E4%BB%96/35741/
-2023-12-28	今年工業意外奪25命 工作間猝死佔四分三 工權會促改補償機制	https://www.msn.com/zh-tw/news/national/%E7%B4%AB%E9%9D%88%E5%AE%AE%E5%A7%8A%E5%A6%B93%E4%BA%BA%E9%A3%AD%E5%9B%9E-1-6%E5%84%84%E6%8A%95%E8%B3%87%E5%8F%97%E5%AE%B3%E8%80%85%E6%8E%A7-%E5%90%B3%E5%A7%93%E4%BB%A3%E9%8A%B7%E5%91%A2/ar-AA1ObMiX
 2023-12-26	打鼓嶺堆填區男工遭車夾斃 勞工處高度關注 已發暫時停工通知書	https://more-news.tw/425198/
 2023-12-14	大埔男跟車工人跌倒傷後腦 留醫半個月後亡 遺孀嘆擔心	https://www.msn.com/zh-tw/news/national/%E5%9F%BA%E9%9A%86%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D-%E7%94%B7%E9%96%8B%E8%BB%8A%E7%AA%81%E6%98%8F%E8%BF%B7%E9%80%86%E5%90%91%E8%A1%9D%E6%92%9E%E9%A8%8E%E5%A3%AB-%E8%82%87%E4%BA%8B%E9%A7%95%E9%A7%9B%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB/ar-AA1zNvwB?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
 2023-12-06	六旬漢駕挖泥機墮塘 兩小時尋回屍體 房協樂頤居院舍電工疑觸電不治	https://guangming.com.my/%E8%BD%BF%E8%BD%A6%E7%8C%9B%E6%92%9E%E7%BD%97%E9%87%8C-%E5%8F%B8%E6%9C%BA%E5%A4%B9%E6%AF%99
@@ -1337,7 +1209,6 @@ var DATA_TODAY = `
 2023-12-03	荃青交匯處私家車自炒 疑小童突開車門 兩童與家傭跌出車受傷	https://www.hk01.com/article/876421?utm_source=01articlecopy&utm_medium=referral
 2023-11-28	印度隧道倒塌 41人全部獲救	https://www.msn.com/zh-tw/news/living/%E9%87%8D%E6%A9%9F%E9%A8%8E%E5%A3%AB%E5%8F%B03%E7%B7%9A%E7%8D%85%E6%BD%AD%E9%81%8E%E5%BD%8E-%E6%91%94%E9%80%B2%E6%8E%92%E6%B0%B4%E6%BA%9D-%E9%80%81%E9%86%AB%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB/ar-AA1COl4A?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
 2023-11-20	流浮山換渠蓋工程疑誤鑿地下電纜致爆炸 3男工人燒傷送院	https://star.setn.com/news/1732925?utm_campaign=viewallnews
-2023-11-20	廣東男子連上23天班後猝死 不算工傷惹議 ｜ 4分鐘 ｜ 佛山 ｜ 大紀元	https://www.epochtimes.com/b5/23/11/19/n14119777.htm
 2023-11-12	4天內第3宗嚴重工業意外 4名工人被鋼筋壓傷	https://guangming.com.my/%E5%8D%97%E5%8C%97%E5%A4%A7%E9%81%93%E8%BF%9E%E7%8E%AF%E6%92%9E-14%E5%B2%81%E5%90%8E%E5%BA%A7%E9%AA%91%E5%A3%AB%E8%A2%AB3%E8%BD%A6%E8%BE%97%E6%AF%99
 2023-11-11	沙田美田路工人鋸樹 樹幹被侵蝕倒塌 連人帶樹10米高墮地腳骨折	https://citytimes.tw/%E8%B3%87%E8%A8%8A/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%9C%A8%E6%89%BF%E8%AA%8D-utv-%E8%BB%8A%E7%A6%8D%E5%B0%8E%E8%87%B4-17-%E6%AD%B2%E9%9D%92%E5%B0%91%E5%B9%B4%E6%AD%BB%E4%BA%A1%E5%BE%8C%E4%B8%8D%E6%9C%83%E9%9D%A2%E8%87%A8/214735/
 2023-10-30	元朗奪命工傷｜七旬工起重機運鋼筋 疑機件故障致擊中頭部墮地亡	https://hk.news.yahoo.com/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E4%B9%9D%E5%B7%B4%E8%BB%8A%E9%95%B7%E9%A7%95%E8%BB%8A%E6%9C%9F%E9%96%93%E6%9A%88%E5%80%92-%E7%8C%9B%E6%92%BC%E8%B7%AF%E7%89%8C-%E5%BA%A6%E8%A2%AB%E5%9B%B0-042247267.html
@@ -1354,7 +1225,6 @@ var DATA_TODAY = `
 2023-10-10	佐敦奪命工傷｜「精進」原遭禁標至今年底 發展局研進一步規管	https://tw.news.yahoo.com/8%E6%AD%B2%E7%94%B7%E7%AB%A5%E6%9A%B4%E6%96%83%E7%96%91%E9%81%AD%E9%95%B7%E6%9C%9F%E5%8F%97%E8%99%90-%E9%BB%83%E7%93%8A%E6%85%A7%E7%AB%9F%E5%97%86%E7%A4%BE%E5%B7%A5-%E7%A4%BE%E7%BE%A4%E9%81%AD%E7%B6%B2%E7%81%8C%E7%88%86%E6%B4%97%E7%89%88-123226305.html
 2023-10-08	將軍澳創新園先進製造業中心非主力牆倒塌 總承建商金門全面檢查	https://health.udn.com/health/amp/story/6021/9072007
 2023-10-06	奪命工傷頻生 工程師學會倡用「4S」系統作風險預警	https://tw.news.yahoo.com/25%E6%AD%B2%E7%B6%B2%E7%B4%85-%E9%95%B7%E6%9C%9F%E4%B8%8D%E5%90%83%E6%97%A9%E9%A4%90-%E8%83%83%E7%99%8C%E6%AD%BB-%E9%86%AB-%E5%A4%AA%E6%84%9B%E5%90%83%E8%BE%A3%E6%9B%B4%E9%97%9C%E9%8D%B5-005845951.html
-2023-09-21	洪水橋地盤3噸石屎預製件鬆綁時塌下 壓斃貨車司機	https://www.tvb.com/dramanews-c/%E9%87%91%E5%BC%8F%E6%A3%AE%E6%9E%97%E7%AC%AC%E4%BA%8C%E9%9B%86%EF%BD%9C%E9%83%AD%E6%99%89%E5%AE%89%E9%99%B3%E6%9B%89%E8%8F%AF%E9%81%AD%E9%81%87%E8%BB%8A%E7%A6%8D-%E7%BE%85%E5%A4%A9%E5%AE%87%E7%99%BC%E5%8A%9F%E5%8A%A9%E4%BD%95%E5%BB%A3%E6%B2%9B%E6%8B%86%E5%BD%88-1009306
 2023-08-29	夫婦街燈下觸電喪生 孩子目睹父母身亡	https://hk.on.cc/hk/bkn/cnt/cnnews/20230829/bkn-20230829090422779-0829_00952_001.html
 2023-08-26	屯門52歲男船員從3米高貨櫃失足墮下 消防救起送院	https://www.yeeyi.com/news/details/2826508/
 2023-08-23	印度興建中鐵路橋樑倒塌 至少17人喪生	https://www.hk01.com/article/932962?utm_source=01articlecopy&utm_medium=referral
@@ -1363,7 +1233,6 @@ var DATA_TODAY = `
 2023-08-03	為救同事墮深坑 沙頭角18歲男工傷脊骨恐半癱 父憂康復路漫長	https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%A9%A6%E9%81%8E%E9%A6%AC%E8%B7%AF%E9%81%AD%E8%B2%A8%E8%BB%8A%E6%92%9E%E4%BA%A1-%E9%9B%B2%E6%9E%97%E9%A8%8E%E5%A3%AB%E9%A8%8E%E4%BA%BA%E8%A1%8C%E9%81%93%E8%87%AA%E6%91%94-045744657.html
 2023-07-09	元朗塌牆壓斃男工｜屋宇署：1982前年寮屋不受規管 毋需批准拆卸	https://www.hk01.com/article/938608?utm_source=01articlecopy&utm_medium=referral
 2023-07-09	(貨車司機卸木材遭壓斃 涉案物流公司判20萬元 官)	https://udn.com/news/story/7320/7422239?from=udn-ch1_breaknews-1-0-news
-2023-07-03	歌仔戲大師跌倒猝逝2天顯靈！她「聽見阿嬤聲音」託夢過程曝	https://tw.news.yahoo.com/%E6%AD%8C%E4%BB%94%E6%88%B2%E5%A4%A7%E5%B8%AB%E8%B7%8C%E5%80%92%E7%8C%9D%E9%80%9D2%E5%A4%A9%E9%A1%AF%E9%9D%88-%E5%A5%B9-%E8%81%BD%E8%A6%8B%E9%98%BF%E5%AC%A4%E8%81%B2%E9%9F%B3-%E8%A8%97%E5%A4%A2%E9%81%8E%E7%A8%8B%E6%9B%9D-233828177.html
 2023-05-03	智利男駕車「暴衝」收費亭 座駕瞬間爆炸遭拋車外斃命	https://www.hk01.com/article/873860?utm_source=01articlecopy&utm_medium=referral
 2023-05-01	嗨過頭？洗殘廢澡突頭暈跌倒 小姐1句老司機虧：果然菜鳥│TVBS新聞網	https://news.tvbs.com.tw/life/2009423
 2023-03-16	油麻地母嬰健康院鐵閘倒塌意外 僱主及處所佔用人被票控案6月訊	https://www.msn.com/zh-tw/news/national/%E8%AD%A6%E5%93%A1%E5%9F%B7%E5%8B%A4%E9%81%AD%E6%92%9E%E6%98%8F%E8%BF%B7-%E5%90%8C%E4%BA%8B%E6%9B%9D-%E4%BB%96%E6%83%B3%E8%81%BD%E4%BA%94%E6%9C%88%E5%A4%A9/ar-AA1IuKNa?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
@@ -1378,11 +1247,9 @@ var DATA_TODAY = `
 2023-02-15	荃錦公路七人車自炒撼山 乘客一度被困釀7傷送院	https://www.hk01.com/article/867698?utm_source=01articlecopy&utm_medium=referral
 2023-01-29	8歲男童到海邊戲水慘遭閃電擊中 當場沒呼吸心跳緊急送醫│TVBS新聞網	https://news.tvbs.com.tw/world/2028202
 2023-01-18	悲！3歲女兒被困洗衣機送院不治 5寶爸崩潰 初步調查死因係咁	https://www.hk01.com/article/857942?utm_source=01articlecopy&utm_medium=referral
-2023-01-09	突猝死宿舍！23歲男「連上13天夜班」又超時 公司撇清：死因非工傷	https://tw.news.yahoo.com/%E7%AA%81%E7%8C%9D%E6%AD%BB%E5%AE%BF%E8%88%8D-23%E6%AD%B2%E7%94%B7-%E9%80%A3%E4%B8%8A13%E5%A4%A9%E5%A4%9C%E7%8F%AD-%E5%8F%88%E8%B6%85%E6%99%82-%E5%85%AC%E5%8F%B8%E6%92%87%E6%B8%85-022406546.html
 2023-01-09	夫口提供毫無疑問 警方確認華妃失足倒塌樓|中國報	https://www.chinapress.com.my/20230109/丈夫口供没可疑-警确认华妇失足坠楼/
 2023-01-03	疑和夫爭執 妻不慎失足 8樓墜下亡 ｜ 中國報 China Press	https://www.chinapress.com.my/20230103/%E7%96%91%E5%92%8C%E5%A4%AB%E4%BA%89%E6%89%A7-%E5%A6%BB%E4%B8%8D%E6%85%8E%E5%A4%B1%E8%B6%B3-8%E6%A5%BC%E5%9D%A0%E4%B8%8B%E4%BA%A1/
 2023-01-03	疑和夫妻爭執妻子不惜失足8樓塌下亡。	https://www.chinapress.com.my/20230103/疑和夫争执-妻不慎失足-8楼坠下亡/
-2022-12-30	兒低溫心肌梗塞亡 母跌倒撞頭陳屍屋外	https://hk.on.cc/hk/bkn/cnt/cnnews/20221230/bkn-20221230032118101-1230_00952_001.html
 2022-12-23	(干德道大廈棚架倒塌 兩工人受傷)	https://3g.163.com/dy/article_cambrian/HP9GUN080553P43V.html
 2022-11-24	5歲女上堂跌倒嘔吐送院亡 家長投訴校方疏忽延誤救援：不聞不問	https://www.hk01.com/article/839196?utm_source=01articlecopy&utm_medium=referral
 2022-11-23	耶路撒冷连续发生两起爆炸 恐袭已致1死18伤 conflict	https://www.nbd.com.cn/articles/2022-11-23/2564248.html
@@ -1391,23 +1258,16 @@ var DATA_TODAY = `
 2022-11-20	俄羅斯天然氣管道爆炸！火球直衝天際 俄當局 :推測是管道故障	https://tw.news.yahoo.com/%E4%BF%84%E7%BE%85%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%A3%E7%AE%A1%E9%81%93%E7%88%86%E7%82%B8-%E7%81%AB%E7%90%83%E7%9B%B4%E8%A1%9D%E5%A4%A9%E9%9A%9B-%E4%BF%84%E7%95%B6%E5%B1%80-%E6%8E%A8%E6%B8%AC%E6%98%AF%E7%AE%A1%E9%81%93%E6%95%85%E9%9A%9C-070638545.html
 2022-11-19	廣西旱情難解 上千船隻被困「黃金水道」 No Water	https://news.tvbs.com.tw/china/1966758
 2022-11-15	慶尋新職→死亡之旅！他站12m高自拍「失足頭撞石亡」 老爹哭：不該是我埋他	https://tw.news.yahoo.com/%E6%85%B6%E5%B0%8B%E6%96%B0%E8%81%B7-%E6%AD%BB%E4%BA%A1%E4%B9%8B%E6%97%85-%E4%BB%96%E7%AB%9912m%E9%AB%98%E8%87%AA%E6%8B%8D-%E5%A4%B1%E8%B6%B3%E9%A0%AD%E6%92%9E%E7%9F%B3%E4%BA%A1-%E8%80%81%E7%88%B9%E5%93%AD-033948192.html
-2022-11-11	“新職場”來了，居家辦公猝死算工傷嗎 - 今日關注 - 湖南線上 - 華聲線上	https://hunan.voc.com.cn/article/202211/202211110705158824.html
 2022-11-10	杭州冰雪大世界爆炸致6死 事故原因：電焊違章操作 8人被刑拘 Fire	https://www.hk01.com/article/834973?utm_source=01articlecopy&utm_medium=referral
-2022-10-25	程式師在距離公司一公里健身房猝死 法院：可認定工傷	https://news.mydrivers.com/1/867/867440.htm
 2022-10-16	天水圍單車婦疑失控自炒 頭傷送院命危	https://www.hk01.com/article/825945?utm_source=01articlecopy&utm_medium=referral
 2022-10-13	路邊變電箱爆炸蔓延民宅 女住戶喪命 Fire	https://hk.on.cc/hk/bkn/cnt/cnnews/20221013/bkn-20221013112942078-1013_00952_001.html
 2022-10-12	男子倒斃小西灣海旁 疑晨運失足跌死 ｜ 商台新聞 ｜ LINE TODAY	https://today.line.me/hk/v2/article/LXR2e8M
 2022-10-09	克里米亞大橋爆炸 中國外交部回應 conflict	https://www.hk01.com/article/823525?utm_source=01articlecopy&utm_medium=referral
-2022-09-24	阿富汗清真寺汽車爆炸 至少7死41傷 conflict	https://www.hk01.com/article/818350?utm_source=01articlecopy&utm_medium=referral
-2022-09-20	居家辦公時猝死 也應認定為工傷 _ 證券時報網	https://news.stcn.com/pl/202209/t20220920_4869114.html
 2022-09-17	手機床邊充電突爆炸 8月大女嬰慘遭燒傷不治 Fire	https://www.bastillepost.com/hongkong/article/11339380-%E6%89%8B%E6%A9%9F%E6%94%BE%E5%BA%8A%E5%85%85%E9%9B%BB%E7%AA%81%E7%88%86%E7%82%B8-8%E5%80%8B%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%AC%B0%E5%9A%B4%E9%87%8D%E7%87%92%E5%82%B7%E4%B8%8D%E6%B2%BB
 2022-08-30	曹公潭康樂中心機房爆炸 冷氣技工受傷送院 Fire	https://www.hk01.com/sns/article/809515?utm_source=01articlecopy&utm_medium=referral
 2022-08-28	開學第1天被雷劈！閃電正中女大生胸部 衣服手錶全爆炸 Thunder	https://news.tvbs.com.tw/world/1889737
 2022-08-23	黎巴嫩大爆炸兩年後 貝魯特港口北區穀倉倒塌 外媒：喚起夢魘	https://www.hk01.com/sns/article/807201
 2022-08-20	酒店引爆炸彈 青年黨武裝分子與警駁火12死 conflict	https://hk.on.cc/hk/bkn/cnt/intnews/20220820/bkn-20220820192531042-0820_00992_001.html
-2022-08-18	阿富汗喀布爾清真寺爆炸 最少10死 conflict	https://www.hk01.com/sns/article/805106
-2022-08-18	阿富汗喀布爾清真寺爆炸 增至21死 conflict	https://www.hk01.com/sns/article/805407
-2022-08-18	喀布爾清真寺爆炸 最少35死傷 conflict	https://hk.on.cc/hk/bkn/cnt/intnews/20220818/bkn-20220818020005241-0818_00992_001.html
 2022-08-17	首都煙花倉庫爆炸增至16死60傷 全國哀悼兩天 fire	https://hk.on.cc/hk/bkn/cnt/intnews/20220817/bkn-20220817050610406-0817_00992_001.html
 2022-08-17	51歲巴西男被困荒島 靠食檸檬和木炭充飢差點絕望 終奇蹟獲救	https://www.hk01.com/sns/article/804827
 2022-08-13	勞資公義．三｜「無血工傷」卻「無從補償」 誰為工人撐起保護傘	https://www.hk01.com/sns/article/801396
@@ -1417,8 +1277,6 @@ var DATA_TODAY = `
 2022-08-10	倫敦排屋氣體洩漏大爆炸 全屋粉碎4歲女亡 居民︰兩周前已聞到異味(多圖有片) fire	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/%E5%80%AB%E6%95%A6%E6%8E%92%E5%B1%8B%E6%B0%A3%E9%AB%94%E6%B4%A9%E6%BC%8F%E5%A4%A7%E7%88%86%E7%82%B8-%E5%85%A8%E5%B1%8B%E7%B2%89%E7%A2%8E4%E6%AD%B2%E5%A5%B3%E4%BA%A1-%E5%B1%85%E6%B0%91-%E5%85%A9%E5%91%A8%E5%89%8D%E5%B7%B2%E8%81%9E%E5%88%B0%E7%95%B0%E5%91%B3-%E5%A4%9A%E5%9C%96%E6%9C%89%E7%89%87-/332831
 2022-08-08	寶達邨3歲男童抽筋跌倒 送院治理	https://www.hk01.com/sns/article/801441
 2022-08-07	古巴油庫遭雷電擊中爆炸起火 1死121傷 fire	https://www.hk01.com/sns/article/801105
-2022-07-31	(失常男發狂毆母 突跌倒猝死)	https://guangming.com.my/%E5%A4%B1%E8%81%AF3%E5%A4%A9%E9%A3%84%E7%95%B0%E5%91%B3-%E7%8D%A8%E5%B1%85%E7%94%B7%E5%AD%90%E6%88%BF%E9%96%93%E6%9A%B4%E6%96%83
-2022-04-12	雲林刑大副大隊長林振順跌倒亡 真正死因竟是心肌梗塞 - 社會 - 自由時報電子報	https://news.ltn.com.tw/news/society/breakingnews/4144612
 2022-04-12	悲痛！著名表演藝術家方輝逝世，一個月前她因跌倒和骨折住院	https://www.sohu.com/a/613442436_121127676
 2022-03-12	大欖湧男女行山客失足墮山 出動直升機搜救送院 - 東張+	https://www.mytvsuper.com/tc/scoopplus/scoop/hot-topic/5903926707534/%E6%9D%B1%E5%BC%B5%E7%84%A6%E9%BB%9E-%E5%A4%A7%E6%AC%96%E6%B6%8C%E7%94%B7%E5%A5%B3%E8%A1%8C%E5%B1%B1%E5%AE%A2%E5%A4%B1%E8%B6%B3%E5%A2%AE%E5%B1%B1-%E5%87%BA%E5%8B%95%E7%9B%B4%E5%8D%87%E6%A9%9F%E6%90%9C%E6%95%91%E9%80%81%E9%99%A2
 2022-03-12	六旬婦屯門行山失足墮5米深坑 腳部受傷送院	https://www.mytvsuper.com/tc/scoopplus/local-news/hongkong/5905056011532/%E9%A6%99%E6%B8%AF%E6%96%B0%E8%81%9E-%E5%85%AD%E6%97%AC%E5%A9%A6%E5%B1%AF%E9%96%80%E8%A1%8C%E5%B1%B1%E5%A4%B1%E8%B6%B3%E5%A2%AE5%E7%B1%B3%E6%B7%B1%E5%9D%91-%E8%85%B3%E9%83%A8%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2
@@ -1799,7 +1657,6 @@ var DATA_TODAY = `
 2026-09-29	【資安日報】7月3日，駭客利用Azure CLI發動大規模密碼噴灑攻擊	https://www.ithome.com.tw/news/177072
 2026-09-29	【網絡安全】結好自爆伺服器遭網絡攻擊、期貨電子交易尚未 ...	https://inews.hket.com/article/4165033/【網絡安全】結好自爆伺服器遭網絡攻擊、期貨電子交易尚未恢復 未有證據顯示資料被誤用
 2026-09-29	【有能源公司遭網絡攻擊數百萬客戶資料或外洩】 ...	https://www.facebook.com/SBSCantonese/posts/有能源公司遭網絡攻擊-數百萬客戶資料或外洩能源公司origin-energy證實遭受網絡攻擊數百萬名客戶的個人資料可能已被黑客盜取黑客透過傳媒表示資料包含銀行戶/1583098773827403/
-2026-09-29	【智商稅定係末日？】OpenAI Astra 變身最強駭客！搵0-day ...	https://www.facebook.com/100064560465105/posts/智商稅定係末日openai-astra-變身最強駭客搵-0-day-漏洞仲勁過人各位巴絲打仲記唔記得之前講過-ai-網絡攻擊今次-openai-真係整咗隻怪物出/1481693040659364/
 2026-09-29	【小心⚠️】網絡安全研究機構VulnCheck 發出警告，指控 ...	https://www.instagram.com/p/DbsJwRFD4kR/
 2026-09-29	【專訪】從漏洞揭露到實戰利用只剩幾小時！AWS 安全與基礎設施副總裁Hart Rossman：駭客攻擊自動化，企業如何重構安全防線？	https://www.inside.com.tw/article/42263-aws_securityinfra_hartrossman
 2026-09-29	【大型醫療機構遭網絡攻擊延遲逾三星期通報】 一個在雪梨和 ...	https://www.facebook.com/SBSCantonese/posts/大型醫療機構遭網絡攻擊-延遲逾三星期通報一個在雪梨和墨爾本等多個城市都有診所的醫療集團在上月底遭到網絡攻擊病人的個人資訊外洩專家批評由事件發生到通知受影響人士相/1577314084405872/
@@ -1902,7 +1759,6 @@ var DATA_TODAY = `
 2026-09-29	FBI與CISA更新Signal通訊軟體釣魚攻擊警示，備份金鑰成為俄羅斯駭客最新攻擊目標	https://www.ithome.com.tw/news/176929
 2026-09-29	Dropbox股價盤後下跌，駭客入侵事件引發市場憂慮 作者 Investing.com	https://hk.investing.com/news/stock-market-news/article-93CH-1638283
 2026-09-29	Drift駭客將4,440萬美元ETH轉入Tornado Cash	https://financefeeds.com/zh/drift-hacker-285m-tornado-cash-move/
-2026-09-29	Dragonfly合夥人：DeFi「駭客末日」並未兌現，2026年被盜金額年化僅18.9億美元| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/dragonfly-defi-hacker-end-not-realized-2026-stolen-189-billion-annualized/
 2026-09-29	DigiCert資料外洩事故傳出是中國駭客GoldenEyeDog旗下子團體所為	https://www.ithome.com.tw/news/177429
 2026-09-29	DSE 放榜選科建言投身香港網絡安全產業	https://it.ctgoodjobs.hk/columnist/174-48087/dse-放榜選科建言-投身香港網絡安全產業
 2026-09-29	DDoS攻擊是什麼？如何進行DDoS防禦防護？攻擊原理手法 ...	https://sites.google.com/qpfb.pzongx.com/yznc2w/
@@ -2157,10 +2013,6 @@ var DATA_TODAY = `
 2024-10-01	美證交會未批比特幣ETF 稱X帳號受黑客攻擊	https://www.bastillepost.com/hongkong/article/13758655-%E7%BE%8E%E8%AD%89%E4%BA%A4%E6%9C%83%E6%9C%AA%E6%89%B9%E6%AF%94%E7%89%B9%E5%B9%A3etf-%E7%A8%B1x%E5%B8%B3%E8%99%9F%E5%8F%97%E9%BB%91%E5%AE%A2%E6%94%BB%E6%93%8A
 2023-09-26	港幣商Mixin：遭黑客竊取2億美元 停客戶提取資金	https://www.hk01.com/article/944893?utm_source=01articlecopy&utm_medium=referral
 2022-11-22	FTX駭客又想砸盤》再轉移「2億美元」ETH！以太跌破1,100、比特幣破15,500	https://www.blocktempo.com/ftx-hackers-just-transferred-most-of-the-eth-balance-to-a-new-and-different-address/
-2026-09-29	【末日號角聲專欄】末世趨勢觀察：敵基督現象正在全球快速興起中	https://cdn-news.org/article/C2504230001
-2026-09-14	AI 發展太快是否會引發人類大災難 「末世危機論」黃仁勳不認同	https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Na0FlemdudWw1amJoRi1zV3d5THN3cUw5TFlycDF1Q2ExSUx2UmhLd3p6b2F3Z3ZYWjB0Ty11ZzVVOWxENzZXd244T2hVdzVlR24zeE85MFNLelV00gFiQVVfeXFMTTluMk5xREdZTGlhVURQZ2MwMEFJLTVrZ2tMTExXQWY5UllSNkdJdTdyaDJja2JCRWRIUFhiYktUYUZBYTZtWE9NMVFWNHl1VHZSX1YzbnZqTHFUVVFyREw2dWc?oc=5
-2026-08-22	任何概念都有正面和負面，光明面和黑暗面。啟示錄早就啟示了一個負面的「三聯體」次序，這也是一個「新世界次序」，啟16:13稱其為「三個污穢的靈」，出自龍，獸和假先知。當然，假先知總是以先知自稱，否則不能迷惑人。這個負面三聯體的數字之和正好是666： 數字表	
-2023-03-09	【專家之眼】哈米吉多頓的世界末日戰爭	https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tWERTdGRZNHB3VnJhRF9HczRUTHZWZGZGOTYwRkEwb2R1eVNMSkVURFhRX2ZrZml6UExkYW53aWJWbDRYR2pkMnctNk1fUzQxZ0HSAVhBVV95cUxNd1ptVHVlcjdIS0VpblRlNmNBcEdYT2xMZFVPNzVzMUVZZGxtSnF2bVZ3ODZKWW9USjYzLURyMWpPd0dLNkRiRmt5Y0YwRzlBd1BTWmFnSms4?oc=5
 2026-10-01	巴基斯坦對阿富汗發動空襲 至少9死11傷	https://www.ettoday.net/news/20261001/3247067.htm
 2026-10-01	伊朗稱就戰事問題的提議收到美方回應	https://news.rthk.hk/rthk/ch/component/k2/1872213-20261001.htm
 2026-09-30	雙颱恐夾擊！彩雲颱風周末生成 跨界颱風緊追在後	https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SS3J4cTJDUVFxRUExX0tJVU1YXzJrYjEwMXFCTHRSTmVNZFJoRzBxdk54TWNWTXVoRDEzSTlubzdDaC1GSnlITF9kT0VjZjB4eWhRaA?oc=5
@@ -4833,7 +4685,6 @@ var DATA_TODAY = `
 2026-09-29	羅淑佩檢閱警結業會操 稱十五五規劃帶來發展機會 警角色更關鍵	https://www.hk01.com/社會新聞/60368893/羅淑佩檢閱警結業會操-稱十五五規劃帶來發展機會-警角色更關鍵
 2026-09-29	羅淑佩勉結業學警 做市民信任守護者	https://www.wenweipo.com/epaper/view/newsDetail/2075993781710229504.html
 2026-09-29	羅啟豪長文盡現不捨情記錄家姐法式餐館結業- 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/17164434710281/娛樂-羅啟豪長文盡現不捨情-記錄家姐法式餐館結業
-2026-09-29	羅傑斯預言成真?史上最慘烈的金融危機將發生,AI泡沫將被戳破	https://min.news/economy/86d10eb919fd70073d88f1575a4be496.html
 2026-09-29	罷工才結束 舊金山聯合學區擬裁員42人	https://www.worldjournal.com/wj/amp/story/121368/9341381
 2026-09-29	置地裁員｜傳置地內地大裁員 涉住宅開發業務全部員工 僅保留部份高端商業營運團隊	https://hk.finance.yahoo.com/news/置地裁員-傳置地內地大裁員-涉住宅開發業務全部員工-僅保留部份高端商業營運團隊-080000509.html
 2026-09-29	罕見裁員｜蘋果罕見裁員 傳涉及整個銷售部門 將更多銷售轉交第三方經銷商	https://hk.finance.yahoo.com/news/罕見裁員-蘋果罕見裁員-傳涉及整個銷售部門-將更多銷售轉交第三方經銷商-032815761.html
@@ -5756,7 +5607,6 @@ var DATA_TODAY = `
 2026-09-29	宜蘭縣銀髮族健康促進指導員培訓結業	https://www.lnanews.com/news/467/8863
 2026-09-29	宜蘭TEAM台灣青年營圓滿結業 蕭美琴偕林國漳勉青年投入公共事務	https://tw.news.yahoo.com/宜蘭team台灣青年營圓滿結業-蕭美琴偕林國漳勉青年投入公共事務-092326564.html
 2026-09-29	宜家母公司Inter IKEA裁員850人，應對需求下滑挑戰 作者 Investing.com	https://hk.investing.com/news/company-news/article-93CH-1466893
-2026-09-29	官網變404！「三個200」神話幻滅？電動重機新創 Damon 高層大逃亡，品牌面臨倒閉末日！	https://www.supermoto8.com/articles/17105
 2026-09-29	宏都拉斯蝦業慘虧65家廠商倒閉 外交部：隨時準備迎接老朋友	https://tw.news.yahoo.com/宏都拉斯蝦業慘虧65家廠商倒閉-外交部-隨時準備迎接老朋友-125012323.html
 2026-09-29	宏福苑收購︱網傳政府收購公司將破產 房屋局斥不實：資金充足 已與550業主簽約	https://www.stheadline.com/society/3593251/宏福苑收購網傳政府收購公司將破產-房屋局斥不實資金充足-已與550業主簽約
 2026-09-29	宏福苑丨收購公司傳隨時破產 房屋局:屬惡意中傷 強調資金充足	https://m.hkej.com/landing/mobarticle2/id/4456164/宏福苑丨收購公司傳隨時破產 房屋局:屬惡意中傷 強調資金充足
@@ -6255,7 +6105,6 @@ var DATA_TODAY = `
 2026-09-29	【9961】傳攜程因罰款招致大裁員 公司否認：人才盤點為HR正常工作	https://inews.hket.com/article/4124851/【9961】傳攜程因罰款招致大裁員 公司否認：人才盤點為HR正常工作
 2026-09-29	【22:51 即時新聞】Meta Platforms(META)跌約5%／AI裁員歧視訴訟與短線獲利了結壓力	https://cmnews.com.tw/article/cmoneyairesearcher-fff302f2-81ee-11f1-a4e1-6fa5b79e13c6
 2026-09-29	【#財經風向球】大陸禁美光反制得分?美國6月暫停升息台灣跟進?下半年降息別太期待銀行倒閉比美債違約影響更大20230523@中天新聞CtiNews​@中天財經頻道CtiFinance​ Madison Keys (ftxasnV16A)	https://mshale.com/a1880e15/afd9815cWCkhVDMsV1teKTQ
-2026-09-29	「黑天鵝」作者警告軟體業恐破產 一篇末日報告又引發AI恐慌交易	https://www.worldjournal.com/wj/story/121208/9341074
 2026-09-29	「香港第一」生記粥麵鰂魚涌店2月尾結業！已故美食家蔡瀾最愛魚鰾粥、煎魚餅、炒米粉	https://www.orangenews.hk/mycookey/VCIK7uu/香港第一-生記粥麵鰂魚涌店2月尾結業-已故美食家蔡瀾最愛魚鰾粥-煎魚餅-炒米粉.shtml
 2026-09-29	「韓流」走下坡？債務龐大 SKINFOOD瀕臨破產	https://www.setn.com/news/441259
 2026-09-29	「韓國藝匠」驚傳倒閉！苦主衝現場揭慘況：超過分	https://tw.news.yahoo.com/韓國藝匠-驚傳倒閉-苦主衝現場揭慘況-超過分-014030244.html
@@ -6455,7 +6304,6 @@ var DATA_TODAY = `
 2026-09-29	Meta全球裁員約8000人 新加坡員工凌晨4點接獲通知、工程和產品部門受衝擊	https://hk.finance.yahoo.com/news/meta全球裁員約8000人-新加坡員工凌晨4點接獲通知-工程和產品部門受衝擊-011802955.html
 2026-09-29	Meta全球裁員8 千新加坡辦公室最早接到通知	http://www.msn.com/zh-tw/news/techandscience/meta全球裁員8千-新加坡辦公室最早接到通知/ar-AA23HueR
 2026-09-29	Meta(META.US)全球裁員8,000人 主要集中工程及產品團隊	http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1525356/2
-2026-09-29	Meta 裁員潮前氛圍如「末日」 前員工揭員工狂塞零食、充電器	https://sunmedia.tw/news/Industry-information/1779005716-Meta 裁員潮前氛圍如「末日」 前員工揭員工狂塞零食、充電器
 2026-09-29	Meta 斥資收購 AI 社交平台 Moltbook 強化 AI 布局，同時裁員 8 千人	https://tw.stock.yahoo.com/news/meta-斥資收購-ai-社交平台-moltbook-234743381.html
 2026-09-29	Meta 前員工回憶裁員內幕！祖克柏AI 蒸餾引爆內部反彈⋯⋯組內量化人才被砍光，質性研究員也將被取代？｜前 Meta 資料科學家Jimmy【塞掐Side Chat】E417	https://www.inside.com.tw/feature/side-chat/41989-side-chat-e417
 2026-09-29	Meta AI模型Llama 3傳延遲 部門裁員與新模型並行引關注	https://tw.stock.yahoo.com/news/meta-ai模型llama-3傳延遲-部門裁員與新模型並行引關注-060616367.html
@@ -6540,7 +6388,6 @@ var DATA_TODAY = `
 2026-09-29	Cloudflare財測軟、擬大幅裁員聚焦AI 盤後崩	https://www.ttv.com.tw/finance/view/default.asp?i=0520260809067BF5041886C44F658021C3E16EB376C9A1BB&from=587
 2026-09-29	Cloudflare大裁員 創辦人曝：我如何決定哪些員工以AI取代	https://www.worldjournal.com/wj/amp/story/121172/9519378
 2026-09-29	Cloudflare執行長談如何打擊機器人流量、使用AI分析進行裁員爭議	https://news.google.com/rss/articles/CBMicEFVX3lxTFBoOHdQMk1FY3l1Rks2VDNDUERFVU43cmdfbk5ITGRTQURRWmR5UElUaHVuLVl0V1FpUTZ0SmRJU0k0SmE2ZFJvbFl1MzVaSDdjNGh4S2ZYRVV2aV9hVWpJYkVDSG5NOXk2TXNzUmEtWDk?oc=5
-2026-09-29	Citrini末日預言 2028爆全球智能危機 美股或挫4成 高薪白領齊失業	https://businessfocus.io/article/349320/ai金融海嘯-citrini-2028末日預言
 2026-09-29	Circle執行長：AI引發的裁員潮恐只是冰山一角	http://www.aastocks.com/tc/usq/quote/stock-news-content.aspx?symbol=NET&id=AN6454455&source=ANUE
 2026-09-29	Chiikawa熱潮減退？ #朗豪坊 #Chiikawa #拉麵 #結業 #am730	https://www.facebook.com/am730hk/posts/chiikawa熱潮減退朗豪坊-chiikawa-拉麵-結業-am730/1527601042740826/
 2026-09-29	Chiikawa拉麵香港店9月結業！開業初期一位難求/粉絲嘆：真係唔捨得	https://ufood.com.hk/restaurant/news/detail/20103027/chiikawa拉麵香港店-月結業-開業初期一位難求-粉絲嘆-真係唔捨得
@@ -7427,7 +7274,6 @@ var DATA_TODAY = `
 2026-05-28	中經濟衰退！ 網紅曬台徵人廣告 抖音遭禁言影片被刪	https://www.nexttv.com.tw/NextTV/News/Home/China/2026-05-28/2360946.html
 2026-05-27	黃仁勳稱企業用AI當裁員藉口「太懶惰」，OpenAI執行長：不至於引發全球性「失業末日」	https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HWVNuWXM1eFFiVHdZTlJkc1czOFFkVG9CVUpDMUZLbFhWNmU0WHc2T1F3Q0tZSjlkamVIZVozNzJKOHVPQ0NjSTVSMWlpNVdjbVRMWg?oc=5
 2026-05-27	美參議員再推法案 禁止數字人民幣在美流通	https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ySnVQMHBHY3p0NUs4cnJWV1phaUU4ZE5wTFZramFvWTZ2YzFnRHdyTnh1ZTkwbWFGc1l2dlFTd2oxZEhRX3ZudWdBUGhrRlZ5ZjlOUF93dXNkMnJaSjhmNdIBZkFVX3lxTE1RVzVuUmRLb0tIeE4wS2pRQUY4Z2M4OUFKcTRIaHg2RklMNV8wTldyNjhBa3ppTk1DMWZwTkJJcDdZdDFEQjd0dUQwQkhKdjA1RWxCVDVKUkNadVlTMHQ5SzJzS1prdw?oc=5
-2026-05-26	OpenAI 執行長：AI 不致引發失業末日 人際互動難被取代	https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQzJmYkZfa0w4OFBQVExoX0lrZlBQUUdQYXVpc3dRWFlGTGk4VTJpR3JYNGF6X1BMTTl2eERSTjB5M2lGcUIwNUx3TUdkdUJSOC1sNUJFUWZZUdIBX0FVX3lxTE45eUd0Uk9UVWdlbkkteXFjaUJlMktnSFRsWF8yZ1dld0NCM21ua0ZiMWlwTVhpakpQMW13RDd5T3RXdW1FQWotTGF1Q1hYZjlZYjdadDhjSTNuWHdtZzRZ?oc=5
 2026-05-26	Nvidia黃仁勳罕見說重話 反擊AI導致失業論：這樣做是嚇唬大家	https://news.google.com/rss/articles/CBMilwNBVV95cUxORjA2ZHVDa2lGTnhvYzJkWV9SVUtwOFNtNGdnQ3hnSTV1R3ZDQkQzV2paTnFJanpNb1JyVGl6cE04YTAtMm9Sa1k0STBqQjZyTlVmRVV2NkFZUDVzVHZwZC1sbldpNk9fbzdOLVF6Qnc4QldBd0YwVW1Bbkt4RUVIdEFJR0wzX1dMcHdxNkVRSGR3Mzc3QWNqeTVxWEFEMFA0RC1Pb0w5OXVveHN3bHRqQXB3U3d2cG91Qlk0SUxGeEY3UXpOUW5qY0p5ZG5iZWdOdlhnMGEzX2U4N0NUX0w3S2JtaVdYaDdON1hrWVhFSkZVMm5OLTgtbDY1WGxiRWxFZFA2UUxoOXh2bGZDLVZWbU9TbWJDRkNVMFhaYVI1eEFwd2dYcVluR29VYU44TlBNYmFDcTFLdkFsLWZyTDZUblZPRWlKRXpid01GQy1HZ2sxNlBLcmNzM0IwLXBfTmFQck5UVk5DWWpLSWJsWDJaRE42QU42VVM2WFptOHhSRG10R0J3ZnpYNmpXdFpRcUxJNW9CQWJaNA?oc=5
 2026-05-26	AI裁員潮來襲K型經濟下的階級重組| 封面故事| 全球中央	https://www.cna.com.tw/newsworld/article/20260526n003/
 2026-05-26	AI取代人類？黃仁勳狠批企業不負責任：把AI和裁員聯繫起來的說法太懶惰	https://news.google.com/rss/articles/CBMiywNBVV95cUxQZW9uSlRqNzhFTjltNExnWnpUemtXUkc0M3FSU1N6dTBhQ2FMZGRQZlVOVlYzQW41a01qQmNURExHYTNoVTRRZVZaUFFOd29Dc3RUMUtta2ZnbjVKdG8wOEJsRklldmxGcGFmc0lubFZsaDg1QVRGT3JiTlZkRHFhVEcwby14ckMwdWZoMnR6OWl2c2x2NnluX3F1RkE0M3Q4WDdoclE0UU1wVmxTemdaLVBNUnpER2s1dXhUTk1vV0FDOHVSYTh0SzB0dFZ3WDBNTWlIZUZTQ20tUDZJWXV3OHRtZy1OOFFWTkZCNXdRenNIUjc3Rm5jNFpHMG9oNDFnQjZkT2U3YWRTR3Vqa3lQTU04aGc5TEQyVjBPcVZ3cWVGSWlMdVRwSVRTZk9PM3lJYkkzUXk0LV80Q3E3SkJyck0yRHBnTWQ4ZmtyR05VWllkQkpJbGZ3UnpiWGxEVXdaaGl3eldSdXUxY01VWXBlTV82OUtlSF9rdWJlOUtqTmFCaEVLUWFZaVhobHlHSzdtZE5zVi1QSnQzV1A0bzRzRDF5V04xWDJPTHVFZk1nampsUjJXRllPeHg3bGItenNNV2RSY2pvM3JSUmc?oc=5
@@ -8542,7 +8388,6 @@ var DATA_TODAY = `
 2023-09-19	美通脹加息 衰退 不着陸 最終爆冷收場?	https://invest.hket.com/article/3616923/%E7%BE%8E%E9%80%9A%E8%84%B9%E5%8A%A0%E6%81%AF
 2023-09-19	知名投資人：油價持續飆漲 美經濟衰退機率增	https://hk.finance.yahoo.com/news/%E7%9F%A5%E5%90%8D%E6%8A%95%E8%B3%87%E4%BA%BA-%E6%B2%B9%E5%83%B9%E6%8C%81%E7%BA%8C%E9%A3%86%E6%BC%B2-%E7%BE%8E%E7%B6%93%E6%BF%9F%E8%A1%B0%E9%80%80%E6%A9%9F%E7%8E%87%E5%A2%9E-080354054.html
 2023-09-19	決策分析：美聯儲本週暫停加息概率接近100% 市場焦點轉向最新點陣圖 油價觸及95美元加劇通脹擔憂	https://hk.investing.com/news/forex-news/article-382787
-2023-09-19	末日博士：美國需進一步加息 2%通脹目標屬不可能完成任務	https://www.hk01.com/article/942451?utm_source=01articlecopy&utm_medium=referral
 2023-09-19	帝京酒店花月庭結業 原址變殿大喜屋 豪華日式放題 推任食時令榴槤菜單	https://hk.news.yahoo.com/%E5%B8%9D%E4%BA%AC%E9%85%92%E5%BA%97-%E8%8A%B1%E6%9C%88%E5%BA%AD-%E6%AE%BF%E5%A4%A7%E5%96%9C%E5%B1%8B-%E6%94%BE%E9%A1%8C-000046505.html
 2023-09-19	今年企業破產 將達13年新高	https://www.worldjournal.com/wj/story/121208/7448988
 2023-09-18	石家莊近200家4S店遭強拆 經銷商面臨破產倒閉	https://www.ntdtv.com/b5/2023/09/18/a103787187.html
@@ -8819,7 +8664,6 @@ var DATA_TODAY = `
 2022-12-12	受多種因素困擾 又一建築公司倒閉	https://www.epochtimes.com/b5/22/12/12/n13883128.htm
 2022-12-12	【職場熱話】打工仔年過半百裁員轉工 6天工作月入僅1.4萬 公司一規定「MEAN到不得了」	https://inews.hket.com/article/3419162/%E3%80%90%E8%81%B7%E5%A0%B4%E7%86%B1%E8%A9%B1%E3%80%91%E6%89%93%E5%B7%A5%E4%BB%94%E5%B9%B4%E9%81%8E%E5%8D%8A%E7%99%BE%E8%A3%81%E5%93%A1%E8%BD%89%E5%B7%A5%20%206%E5%A4%A9%E5%B7%A5%E4%BD%9C%E6%9C%88%E5%85%A5%E5%83%851.4%E8%90%AC%20%20%E5%85%AC%E5%8F%B8%E4%B8%80%E8%A6%8F%E5%AE%9A%E3%80%8CMEAN%E5%88%B0%E4%B8%8D%E5%BE%97%E4%BA%86%E3%80%8D
 2022-12-12	【外圍一周前瞻】「超級議息周」及通脹數據來襲 美英歐央行料齊加息0.5厘（附表）	https://inews.hket.com/article/3418978/%E3%80%90%E5%A4%96%E5%9C%8D%E4%B8%80%E5%91%A8%E5%89%8D%E7%9E%BB%E3%80%91%E3%80%8C%E8%B6%85%E7%B4%9A%E8%AD%B0%E6%81%AF%E5%91%A8%E3%80%8D%E5%8F%8A%E9%80%9A%E8%84%B9%E6%95%B8%E6%93%9A%E4%BE%86%E8%A5%B2%E3%80%80%E7%BE%8E%E8%8B%B1%E6%AD%90%E5%A4%AE%E8%A1%8C%E6%96%99%E9%BD%8A%E5%8A%A0%E6%81%AF0.5%E5%8E%98%EF%BC%88%E9%99%84%E8%A1%A8%EF%BC%89
-2022-12-12	「倒閉潮」預言成真！廖老大北市分店全沒了...	https://ent.ltn.com.tw/news/breakingnews/4152725
 2022-12-12	2萬人將被裁，亞馬遜史上最大裁員潮來襲	https://www.36kr.com/p/2040509847055623
 2022-12-11	加密貨幣「雷曼時刻」來臨？ 幣安趙長鵬：預見更多公司倒閉	https://finance.ettoday.net/news/2378791
 2022-12-11	全球高通脹揮之不去 最壞情況尚未到來	https://hk.epochtimes.com/news/2022-12-11/22863340
@@ -9236,7 +9080,6 @@ var DATA_TODAY = `
 2026-09-29	泰国曼谷酒吧夺命大火 部分罹难者恐走错出口困于洗手间	https://news.seehua.com/post/1514223
 2026-09-29	法槌下的温情：一场大火烧不毁的邻里情	https://www.163.com/dy/article/L1SURB860514N324.html
 2026-09-29	法國波爾多突發毀滅級大火 10000名遊客連夜緊急大逃亡背後極度驚險	https://www.weekendhk.com/矚目話題/法國大火-熱浪災情-旅遊安全-3471033/
-2026-09-29	法國和西班牙：教會陪伴毀滅性大火下的災民- 梵蒂岡新聞網	https://www.vaticannews.va/zht/church/news/2026-07/the-church-accompanies-wildfire-victims-across-southern-europe.html
 2026-09-29	法國吉倫特省山火進入第八天新增7處起火點 楓丹白露森林出現復燃	https://www.orangenews.hk/international/VQog9l9/法國吉倫特省山火進入第八天新增7處起火點-楓丹白露森林出現復燃.shtml
 2026-09-29	法国枫丹白露森林遭遇大火，火势“规模罕见”	https://www.163.com/dy/article/L1O7IHFQ0514DG98.html
 2026-09-29	法国多地火情持续	https://m.sohu.com/a/1058228611_267106?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
@@ -10015,7 +9858,6 @@ var DATA_TODAY = `
 2026-01-19	巴基斯坦商場大火焚燒逾一日 增至14死65人失蹤 (15:39) - 20260119 - 國際	https://news.mingpao.com/ins/國際/article/20260119/s00005/1768806274323/巴基斯坦商場大火焚燒逾一日-增至14死65人失蹤
 2026-01-17	泰國高鐵施工起重機砸中列車 出軌起火釀22死80傷	
 2026-01-17	宏福苑大火168死 香港擬修法「工地全面禁菸」	https://www.ettoday.net/news/20260117/3102686.htm
-2026-01-17	地鐵尿袋起火 捷運車廂瞬間全是煙 乘客紛紛驚逃「如世界末日」	https://news.google.com/rss/articles/CBMisgNBVV95cUxPV1JMTExJZUxHVHFqVmNkUWtnZlQtR0MwVllIb28zZDQ3NjZlV3NwYXB5QU5FZk5OaGZNOGtaeUhoWXJLQlV0Vm1kWjhWaEpYSXJGWHlWQVJWeDdNNm04eVJPVmhmMkN6ZXBsanF5eEhVWWViaThZOFJXdWVrbXNtTHNJRGQwMHRUOGhtMm1kRkpXdHlsUGw3UzNVNTMyS2xxN2RaeUNIa2JEZFZDY0NmRDczbXF0QVUyN1pKdzRMYXVpeHBEZlg1V05JekVpYUhKbjFTcGdJLXZWYjlURFV5YmthZ0hjN2ctX09nNXFaMjJCU0NnY3hpb3JLS1ZZdzhzdEdUNFROREdQN3JpN3htcTdYVGZLMDRkWXgxcGdKU3hvQ0RvYnA4a3llQ2k3Z3R2eVItSWRvOTdvam9DU0VfMG1NLXdNLVhPeU1ENDNkeUExMklLaDRBamJuQTBaVjBsU3FKQ3pFVV9RVElXbkh3b1MtejF4Nm9yWlJpRHRQVUhoLW93TzVhQjRHRFEtbnNNV19TRnNDYXU4RC1TMEJUMEg4clJwMWNCMFRlcTZfNHRydw?oc=5
 2026-01-16	居民家中起火，消防、社区多方联动成功营救卧床老人	https://finance.sina.com.cn/tech/roll/2026-01-16/doc-inhhnzaw0647750.shtml?froms=ggmp
 2026-01-15	基隆民宅火警! 父女互救嗆昏送醫插管治療	http://www.msn.com/zh-tw/news/national/基隆民宅火警-父女互救嗆昏送醫插管治療/ar-AA1TVByb?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-01-12	貴州居民樓起火業主損失近10萬 長期不拔充電器釀禍	https://news.google.com/rss/articles/CBMiggNBVV95cUxOeFpoa29QQk5tTUJXSGlGZDlwanl0M3pnYndUTXEtWTFQaTFJTnFvOEtiNFctZC1mWGNYZXYzbERjclhWNEw0QTNlaXBWOWM0SmsybEl0X0ZzY3ZjdEotRzhyN0xSQ0FXb005b3BWLVg0S3NsXzB1dUdVQ3dQUjhyRDhZUXBHa3lDNzVzZWZ3UV9hQU9IclBqNFJBaGhYeWtZVnM5MWZnVHNqaF9xOWR0Wm5uN0w2bk4tQlIwNHRUQzJpNWRyX1NnN1dGdzdYdmRDd0NrVC1sSDNubDFQNlRsOFpVWGJ6U2hFbVJ1RDBDX0M1c2I0LXhXZ1pJUVJSTTNfMlBFU0dIbHYtNzF3eUVjN3hQNWpVaTNOT0FNdFByUFRVMXNzai1WaXhleDZyWl8ydVJCdWVEeFB3bXBxRlJRWGotT2J1bThDdWtqZERpY1doZE8wZURodXZvWXAzVjM3UVB5U3VZRWNFQUNQcGFNWjNxR3ZhVExPMXp4Qm9zeGJaZw?oc=5
@@ -10427,6 +10269,7 @@ var DATA_TODAY = `
 2026-08-12	議員倡暑熱警告與氣溫掛鈎 將中暑列職業病	https://news.google.com/rss/articles/CBMiwwJBVV95cUxPNzBfQVJUbFRYdHc4elhOU1F0R29tNjlXZ1FlNm1aM1doT016WDRlRktWbmoxUmpIbk8xVFJ6SkoyMTJQSVZfaFYwdU02dkUxWC1DSXdNandMRVZxeERvQm9oaGJJa3JORk5UV3NualBVUDVIWF9LVWtsNUpwa21zNTBMZ3EzRUFDc3dMSDVySzFRWHlwOXQ1MW9vOTE4dmdkSEpDYUx6TnR4Z245QWdoV2FyQ2xGSThGQlp2Rzh1ZEU0VHB1Qm5iYUc3YW5PUW1ZMjlYTGRDbkdaSjFLVHN4Z2xEbkN6ci0td0RSQzRrSV9TNFZDaUh4Um85SjQ1NTEwUWZGaFFzMXpWeGRvb1JuZmJjbFRUN29meTFCRjNpR1V3U1I0RnVWcjRHQzk4N1FMbTN2NlNhYzgyVTdDamZGaUNPUQ?oc=5
 2026-08-12	熱衰竭｜老翁疲累皮膚乾體溫高以為感冒揭患熱衰竭引腎損傷感冒/熱衰竭/中暑分別3步急救勿灌冰水- 東張+	https://news.google.com/rss/articles/CBMirwVBVV95cUxQWVdVTkRnREQtMnZrUVctYTRtTXY5ZUVnNV82NzJXRG5hWVcydXdIUUdFZlNMeVh2RWtoZ2VtZVowbmw4R1F3eHRaMzZwM09UT2FCTEVLNHpGUWFyMjJVYmhaSFppVl9QOTZLd2FhbGNxRHExY2w5Q0h3OHZIejgyR1NoQ1h6LUlabHkyalpMbWtOOEtPQktVbGVMR2hIdjJVU0dIVm1YY1lCUlJJTWY5T09fS21GdUVVT3laNHBNSm9wQjhaXzZyV1libDZfb0x4c0w5b05rcVZyLUVFQW1PSkh5QXhGZWRjdy1LVnRLWklWbk5jeDU4MldCRm5HVkJVNUdiWHFrRE0yUHhxNDhCNkpQUmYwTDdoWWRNVUlJSGdNX1FlMXdZbk12cVI1VlhKUlBlaDQwWmlxMXZxTERRMjJzSUJCT1ZKT29qTDZLX3NTT0FvbWVFY0JHT2NsMDVIdG5vRUI0d3l5Ykg4cWVBUVBRWDRlUG95NEdGcUh6TWJ4R25UaUlIUHBkRzAzcW1zbTZuS1M4MXlfR2Jyb2pNb3I3YWhxdm9adzk5aVJkSHdVbHkybExnN0N3ME9ta2IwT09NQnV2T1AxV3lXdlFvcEVUanFERkIyWlBvM2dGbUNyUFBMNERqcHNiUnZ3WnBaWUtXcFdPRHNOdGFnb3R0WkFfclBFQ2oxRjVIdUtxTzhfc19jU2tiYzhBTFVraXlWS3k0Wm9DVXhQaFA4am1feWdzMUVtLTc1VFhnaFFRblBkRk82bkRCSGNHd1dwdlVqMTFFQmZvcGdjc3A3ek9LYUlTYnZ0OFJuZHptanlOSklMeVdqeHpLbEJiSG1veGFwZmdSNHJVTWhadUY5SzJFS3FmUXkzel9fZnZPaWxORDFTOTZ1bzM4azNINXZjelU?oc=5
 2026-08-12	天氣酷熱！如何識別中暑/熱衰竭 附急救懶人包 切勿等口渴先飲水	https://news.google.com/rss/articles/CBMioANBVV95cUxPb2M3NGloRDZFV0l4bHZwbVhRWXRPRmdpcVNwajlSelMzMFc3eTdWV0Etalo5emkwbzBpR2Nza0VNNUl6T1dzM2planFvdV8tVDJ5UU1HR1BPRFM3bHp4M3BqenJwN3lNblRDVWVjb0JGZ2pLRFAxQ0l6QmdZZ25raC00aUhsWnZqWkExN0Y1NV9KdVI0SnZ1TGYwQ0RaUGRjRlBINkhOeWh5bDE5NjlPRWoxS2hNTlllM28wRC1aa1hjYllFOEpoZnJiSURxTXREU1RMbkxzZzFKbjlEMld4a0hQSUNTQlZ1U09admhpTFYwd1dkRzdVcUN0Y3JZaXltZF93NmFsWkhqNnlEd0I1b2NjMFczU3YwQ09uWlN4TkZVeDdfVE1GZGp2MWcydUhUUjE2ZkhvaGdJNGVsb3ZXcy1oZXBrMGEzb0o4cmhDcDBXTkdFOHA5cFdlMEZlaFVyWWEyX0l0RE9PTE53UUdfczVrUGFlSWlEYzFIVWcwWG53MGU5ZWNVN2toRWVtN2JILWVwenZEaFUtVFJ0eV9GMg?oc=5
+2026-08-12	受極端天氣影響，香港持續多日酷熱，高溫破百年紀錄，周日(9日)更有行山人士中暑後死亡，但讓戶外工作工人停工的法定工作暑熱警告，卻未有跟隨氣溫上升而升級至停工...	https://www.rfi.fr/tw/港澳台/20260812-港持續高溫暑熱警告未升級-前天文台長揭-某部門-阻公開暑熱數據
 2026-08-12	中暑警號｜專家教熱適應訓練＋5大補水法 高溫天防熱衰竭降中暑風險	https://news.google.com/rss/articles/CBMixgNBVV95cUxPMGlBUWUzaGdxbElPYldoV1VJQTBFYWtOd3VURFZEUW0tbWFmVlAyOFQxdmw0TTY1NV9zRmFEM2dVTkFiemZoSWh1Uko3elUtQ2hCUkdCa1B2N3JFT0VZMU5ZVmV3NmZlRm9CY2lQUEx0UWVMbEtvS0wtcDNHcHRBemd4UEc1ekhrQnZqalctbmZKdEFFMHpUaEVac054RmdBZ0prWFlnVDYzS1E3SVdtQ2REZHlxbFpUTHhLRUF3WEU5b1BLWmhyLXZXMmRremNSUDVCMXJIV210TXB4WEh0RXlReUxZOFBFM0VCbUJBSm5KZmllRlMzUVVaRG41azlPMXQ3R1hhbHVOUFdYZmE0WmdzNHI1cXRxUXNReTMzWXpiZDVvR2FoVS1oUXl6U0ZUNnlkdGJ0RzJsZUZnczFsRzZBUUZBT1JpMUkzSUY5Mzdwa01hVk5lcUJsUjA3MnVCZVRPOGo2eEVrNndPQUF1UDB1QXdDVHBxYzBiZkc0M3FKYi1EWmRaalpGY2dGRjVBMG1hQkZHSjVLX0NlYm5XUWQwMmUtMDA1LVg1TUcyRU9SVFYzWGstMUN3a2JqS1d0dlhZWW9n?oc=5
 2026-08-12	35℃高溫吹風扇仔更易中暑？日本專家揭熱風效應：配合1物快速降溫	https://news.google.com/rss/articles/CBMingNBVV95cUxPRl96NUNBUUYzdUNid1ZjSWJxd0RVV3JUajQ0aF9TNDZCLVV6RndxYklfa21JOE4xYTFubGtVcUkxazV5SGlRY2lUTUZYbjdsdDFrdHVud3dHYTYycXFPNExoOFBBaHRCVHFRaTZSeTdtMmd6RzBqSVFFVlMxckJqN3FlUUxaVk1SNENZVWpXb2VaeVpFalZKWmJNWkNFNzNPRXh5ZFVsMEdQR01hTVRMOHAyR3hIV0t3X2V3YTBSZmJPU1BNYnAtdUNqLS1iMVlkeU9aSDlJR2dyUmEtN1hoWnhMejNISG9fLWFfNF9LTTRHZ2V5V2gxWERxb0V2M014VVBoNGloVkZzQ3lFT0FqY1FINk0zTENwbEUxUmZCYWlXRGFRa3RnN3ZiRUZOZnFJaWFzM0FjWDdab25mdHJTYUtyTkloanYyeExYZkFMY0lvOE9qSW1IWi1vbXA0b0hKcXliNGRlcDhFZE0wbDRLaXZqT05hNy1XSF9sREFpUzBfdjk0SmJNVmczQzBfNTZWaURxQURQVUJnd0N5N3c?oc=5
 2026-08-11	工傷制度沒排斥中暑？工會批制度嚴苛 遺孀：夫中暑亡 僱主拒賠	https://news.google.com/rss/articles/CBMiswNBVV95cUxNZmMyTENPZFdpLWFVSWUtRFlseWhNcVJzTmttamh3cnFwa1hVQjNEVWNVUlN5WlpxaVdVV2tRMjYzUWZoSTc3c2VIbDFySTRxSG41ZjFScWE0LTR0MFFOSlVlYkd4djdZSmpGYzctbkNFWXlwbEpMMXNOU1ZBYkJCd052elllbkJvWVo5LTVndTBreWYzQ3AtMFJqVWVRak0wVzBCRUNxYXlIZ082ZWNCU0VnRjJHYzl1VHNHV3pCWDRObFZuZm5GTFgxenc1NXJYYnJFWVMzY1dKa2lmekg0cGZtM1pTbHNiVTRST19nTDVwUlZYOXUxQ1R5MFJOUDFsQkwzQ0Y1MlJUcnNPOTdQNmJCTWpBWHZ3N0ZfcEJaVDhkc1FoZG5NOFhzNDRDb0cyQXpkNjQ4TkNXSjZsaXQySXZqTjE5RV9vSENZdU15eUlobzhCb3Z4eDRxbV9vUFBHYkpuYzVDaTZEWkJJWTdncEtjZTZ2Q3FKYnU5UG1Kdldmc1ltNTAwcEN6S3FSRTd5bXlFMGZ4dDFRR1d0emFLQ3hwSGR4V3NUREs3VzBQcTlYSlk?oc=5
@@ -10483,6 +10326,7 @@ var DATA_TODAY = `
 2022-07-30	死亡+6040多歲男解隔上班中暑40.9度亡	https://news.tvbs.com.tw/life/1863141
 2022-07-13	多地多人中暑浙江四川出現死亡病例	https://hd.stheadline.com/news/realtime/chi/2354471/%E5%8D%B3%E6%99%82-%E4%B8%AD%E5%9C%8B-%E5%A4%9A%E5%9C%B0%E5%A4%9A%E4%BA%BA%E4%B8%AD%E6%9A%91-%E6%B5%99%E6%B1%9F%E5%9B%9B%E5%B7%9D%E5%87%BA%E7%8F%BE%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B
 2022-07-04	男子高溫下卸貨中暑亡 全國今夏首例	https://hk.on.cc/hk/bkn/cnt/intnews/20220704/bkn-20220704111111114-0704_00992_001.html
+2022-04-08	湖北60歲農民工得熱射病亡曝中暑後仍要工作女兒我的天塌了	https://www.hk01.com/sns/article/800288
 2026-10-01	成淵87師生食物中毒沒去慰問！蔣萬安：目前行程很多	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JQUpfZ0tVRDRuRVJabzljX2pTTzNnVjZhcVh2bWkzTG1oMjQtOExobnNibnlUdXNmQ1lZRXZDMGhrOHNhdUxCZ3BoTkY2MmdDdlHSAVJBVV95cUxNSUFKX2dLVUQ0bkVSWm85Y19qU08zZ1Y2YXFYdm1pM0xtaDI0LThMaG5zYm55VHVzZkNZWUV2QzBoazhzYXVMQmdwaE5GNjJnQ3ZR?oc=5
 2026-10-01	成淵87人食物中毒沒去慰問蔣萬安：目前行程很多| NOW政治	https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wdi1FWlJvRVY0VGZrek5iSXVvZWlHckZEczdiT3ZhWlQzZ0I2ckRVSml6M0l0UWtiVFFudk11eUdpR2sxSDJwekt4VQ?oc=5
 2026-10-01	九旬老婦意外發現肝腫瘤 微創手術加精準麻醉無痛戰勝肝癌	https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmUzODR1c0t1VWFHanFSS0ZySTFOMTlLOVFrVWdac3pIYzdHTVQzZUhNX095QnctVFZfclpXYlhfWjF4bUFwVlVwLWcxNHhHUFVxQlhSb0VDVEFhaHNmQTJUSTIxWldQRTlDZDZpRktxR3MxRjFUbjNOSWFIQlRkdHJ3?oc=5
@@ -10880,7 +10724,6 @@ var DATA_TODAY = `
 2026-09-29	破除新冠網路傳言 醫：打疫苗副作用大幅降低	https://tw.news.yahoo.com/破除新冠網路傳言-醫-打疫苗副作用大幅降低-031729130.html
 2026-09-29	研究：慢性病不只一個器官壞 其他疾病恐已在排隊	https://www.soundofhope.org/post/923992?lang=b5
 2026-09-29	研究曝青蔥粥助逼汗排痰？男確診新冠吃2次竟痊癒 營養師打臉	https://news.tvbs.com.tw/health/4014126
-2026-09-29	矽谷AI加速主義者批大廠「末日論」 指控散播心智病毒謀求壟斷	https://tw.stock.yahoo.com/news/矽谷ai加速主義者批大廠-末日論-指控散播心智病毒謀求壟斷-084309660.html
 2026-09-29	石藥集團猴痘mRNA疫苗獲美FDA批准 在美展開臨床試驗	https://finance.biggo.com.tw/news/11b45727-168f-49ea-b482-4e1aa8460768
 2026-09-29	石药集团(01093)：SYS 6037注射液(猴痘m RNA疫苗)在美国获临床试验批准	https://i.ifeng.com/c/8vTs4RaCk3j
 2026-09-29	石药创新：子公司合作药物猴痘mRNA疫苗临床试验获FDA批准	https://finance.eastmoney.com/a/202608103836598153.html
@@ -14122,7 +13965,6 @@ var DATA_TODAY = `
 2022-08-23	再多10名新冠患者離世 只有兩人已打3針疫苗	https://hk.on.cc/hk/bkn/cnt/news/20220823/bkn-20220823163012859-0823_00822_001.html
 2022-08-21	添3男長者染疫亡 年齡最大81歲 均屬長期病患	https://hk.on.cc/hk/bkn/cnt/news/20220821/bkn-20220821163017569-0821_00822_001.html
 2022-08-21	七月份 加拿大共六位醫生突然去世 ｜ 加拿大醫生 ｜ 醫生去世和疫苗 ｜ 大紀元	https://www.epochtimes.com/b5/22/8/1/n13793443.htm
-2022-08-21	10歲男童困後車廂逾1小時休克！送醫確診恐怖「熱射病」	https://www.ettoday.net/news/20220822/2321537.htm
 2022-08-19	增32死「40多歲男性無慢性病」突發燒、抽搐 當日猝逝確診│TVBS新聞網	https://news.tvbs.com.tw/life/1881998
 2022-08-19	健康食油排名｜橄欖油第1麻油第2 配牛油果護心防中風點食最好？ Hunger	https://www.hk01.com/sns/article/670471?utm_source=01articlecopy&utm_medium=referral
 2022-08-18	銀娛取消業績記者招待會 稱本港新冠疫情反覆	https://www.hk01.com/sns/article/805160
@@ -14237,22 +14079,32 @@ var DATA_TODAY = `
 2020-07-12	【新冠肺炎】病毒變種1傳4 梁卓偉指港面臨持續本土爆發	https://news.google.com/rss/articles/CBMi2AJBVV95cUxPSjFPZHB2M2hZRE8wMThvMy1KSTNQbkx6bm9ZMUVlUW9EREpqLWE0RFA4UXNuYWJtVWhPRmpLd3BGYkVEbHJKdVBIQXZpMXViSUJGaFVMWllfRTRySjhDbmZKMHQ4Ry1YbXVVMVhSaTFrcmFiMzd4T1M5OVk0RlltY3ZQNEk3aUQyNlRaUjAxUE9GNnlHWW9jUkdOTEdoUFdkTmhaNllaaE9WZENoMThsaVozQWlXN25NTlhucGNNRmlFNExyVmRYZ3R6WmQzdmZLSjRBd09QSVpLWUx0QzJzWDBPZHI3N0llMlJRdkszWmxlMGE1eFVqVnVZM2dlcU9EMFY0UmN6R1YtcW1CeExaUUI5bUdNRHNhWXd3WlFYcXMzb2ZGMTNTRlFNeExiek1heEtfMkgxRGVuVkJqMmhrZVRMNi03OXlWVHZoMTdaLWFDVXJ1UHYyNQ?oc=5
 2020-06-15	中疾控專家初步判斷 北京疫情是歐洲新冠病毒變種	https://news.google.com/rss/articles/CBMi6gJBVV95cUxNMDhvVWQzT1QwZVB3Ymh6c0JXQTRQbzc5ejVfRlJiUHMzNmFiX2d1RHdlaGd4c042Vm1hWnJLY205MUp6eFFuUFBiX1duZEZjbmZLQ0FhdlFSY05udzA4N2tiZ25EY1JZelItY2VnNThYZlVyb3IxdFV3SzI5V1RMWFplVE9WVm43b1M5ZnNXT0lQMXJESGhkeXRKUUtmamcwdXFnWWJiZjRFTE5KSzZZVmpLSFB6Rm9KX3hfYkl1N2NCNWJfazd2WG0yTW1YMDlEeFdzOUsxRENRcEpiVjRqbDRWeVNObHJ2bld5NERkTWQ4M0IwaE1VXzFxVGpSbVpWT1RmQ3VJd19Ba0syWDBGelpEUTRpeDU3cWQ1S2dPNVBPazRHMVFVMmxuNk1hd1Y1U2ZWc0tGX2RxbDM4QTdob3VyTXFkbVVzSm43SmxjLVBzbkgxS2VhZ3hGT1ViMGRQVlFJbWNOYnY0UQ?oc=5
 2026-09-30	宗教詐騙披靈性外衣 資深媒體人揭警訊辨識邪教pua	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xMXdlYWpsZ01fbkpyMExnS0dxUVBhSzh6TmxObjlTeThSQldCOWJEVm1kcktVU09NeWhLWjJaVl91a3dlTkxTQWFFUEtIN09MWjBhVGw1aTd3RjlhOVU1eTdCNy1nZ9IBa0FVX3lxTE1uSXkwcUNGTGc5QjZxOTF5Vk4xY1k0Nmp4MTVBbU9vcnRHTWkwcFNIR1NnbVBBaG8zUjU2Z3FMQU5oblBXN3QzOG9ScG5XSWtHS2RhUzRtcDZCa0dpSDBDaUp3a3hyZ1Rfbzg0?oc=5
+2026-09-29	華爾街早報：英偉達救回AI信仰，通脹又把降息夢按住，糧食危機暗線升溫	https://www.panewslab.com/zh-hant/articles/01a0418a-83cb-76aa-996b-64f22f62e76d
+2026-09-29	極權下的福音奇蹟：伊朗女孩藉AI讓信仰逼迫地區認識耶穌	https://www.gospelherald.com/news/qmau8szu6rvg
+2026-09-29	李盛林牧師離世｜阿Mo兄長：父以血肉之軀建堤壩助家人擋洪水	https://www.hk01.com/article/60346242
 2026-09-29	末世預言警訊？以色列預演紅母牛儀式，迎第三聖殿序曲	https://cdn-news.org/news/N2507150001?openExternalBrowser=1
 2026-09-29	尼日利亞基督徒迫害加劇 百萬婦女發起全球禱告運動	https://www.gospelherald.com/news/c3kevtva9hok
 2026-09-29	宏福苑火災累計156死 教會持續禱告紀念 各方行動支援	https://www.gospelherald.com.hk/news/kuyl0wwiuq6o
+2026-09-29	印尼魯滕教區主教：天主將在地震的黑暗中帶來新的曙光- 梵蒂岡新聞網	https://www.vaticannews.va/zht/church/news/2026-08/caritas-indonesia-mobilizes-in-response-to-flores-earthquake.html
 2026-09-29	以色列建第三聖殿與敵基督出現	https://cdn-news.org/news/11414
+2026-09-29	以色列展開心理戰！ 伊朗宗教應用程式遭駭 呼籲武裝部隊投降	https://www.ftnn.com.tw/news/526686
 2026-09-29	主再來近了？就等紅母牛長大，專家估：2024年可迎來第三聖殿的建造	https://cdn-news.org/news/N2303300008
+2026-09-29	【名家專欄】反擊伊朗和中共宗教狂熱分子	https://www.epochtimes.com/b5/26/7/24/n14816736.htm
+2026-09-29	9大國運籤一次看！好壞摻半 神明示警「謹慎行事防天災地變」	https://udn.com/news/amp/story/7268/9340821
 2026-07-08	AI是「敵基督」嗎？葉晨星博士：如何在科技浪潮中持守信仰	https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qS0hSeUlsa2E4WFB3UkRXSUkzVW1EalZIQXRMUmlCWm1TX2lra25fMjVLR0xSc0FRdXJWQjNGOFdfNnZXdVMtSUp0VFZyc3ItNkNINnUxNUNLdw?oc=5
 2026-04-26	守護癱瘓舞者兒多年！牧師父親突驟逝 港網全淚崩 香港唱跳男團「MIRROR」於2022 年7 月紅館開唱時發生意外，舞者阿Mo（李啟言）不幸遭大型螢幕墜落壓傷導致癱瘓，目前仍在積極復健中。然而，始終守候在身邊的父親李盛林牧師... 53 分鐘前	https://tw.news.yahoo.com/%E5%AE%88%E8%AD%B7%E7%99%B1%E7%98%93%E8%88%9E%E8%80%85%E5%85%92%E5%A4%9A%E5%B9%B4-%E7%89%A7%E5%B8%AB%E7%88%B6%E8%A6%AA%E7%AA%81%E9%A9%9F%E9%80%9D-%E6%B8%AF%E7%B6%B2%E5%85%A8%E6%B7%9A%E5%B4%A9-113833573.html
 2026-04-26	【移加港人】阿Mo李啟言父親李盛林牧師猝逝 日前嘔吐發燒曾插喉治療| 事事如意生活網站 曾於加拿大生活多年並在1994年多倫多誕下幼子李啟言（阿Mo）的李盛林牧師逝世。 李盛林牧師歷經MIRROR演唱會墮屏意外，三年多來不離不棄照顧兒子阿Mo，在兒子康復路出現... 2 小時前	https://ccue.singtao.ca/2026-04-25/%E3%80%90%E7%A7%BB%E5%8A%A0%E6%B8%AF%E4%BA%BA%E3%80%91%E9%98%BFmo%E6%9D%8E%E5%95%9F%E8%A8%80%E7%88%B6%E8%A6%AA%E6%9D%8E%E7%9B%9B%E6%9E%97%E7%89%A7%E5%B8%AB%E7%8C%9D%E9%80%9D-%E6%97%A5/1094939
 2026-03-21	年僅四歲的「宣教士」：牧師愛子翁牧禾因癌離世 生命觸動生命	https://www.gospelherald.com/news/mttxpccx1rt8
 2025-07-15	末世預言警訊？以色列預演紅母牛儀式，迎第三聖殿序曲	https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HeGJpZWJndUdYaWNzMFk4MHFSVGplOGdrbVpnTU01STR2NkpfaGtSTlhoOFdEaU95NTgzMW12UnM2aElYTWVVWndoTmxtY09RVDFR?oc=5
+2025-04-22	教宗方濟各逝世｜教廷：死於中風及心臟衰竭 將葬於羅馬聖母大殿	https://www.hk01.com/article/60231511?utm_source=01articlecopy&utm_medium=referral
 2025-04-16	# 紅母牛與第三聖殿的探討 📚	https://www.jns.org/the-red-heifer-catalyst-for-war-or-harbinger-of-global-peace/
+2024-11-25	教派衝突釀至少82死 政府調停達成停火7天	http://hk.on.cc/hk/bkn/cnt/intnews/20241125/bkn-20241125060525253-1125_00992_001.html
 2024-04-23	以色列什麼時候宰殺紅母牛？檢驗宗教預言	https://rgkarmch-org.translate.goog/when-will-israel-slaughter-the-red-heifer/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp#google_vignette
 2024-04-17	真正的末世戰爭還沒有開始 張清泉牧師：為以色列求平安 先要為他們得救恩禱告	https://news.google.com/rss/articles/CBMiakFVX3lxTFBEdS1CMGdpUkxQc1BOWHBxYm5DaloyOU1XVF9OQ19zOFhSYjVsQXFDRVJfOHZlN3lkSmFnN0wtbzdXdGNoRnlfY1o4SzEtUHU5VVhJRy1TWnN5elVtc1ljcEZPaHhJRHVGQUE?oc=5
 2023-03-30	主再來近了？就等紅母牛長大，專家估：2024年可迎來第三聖殿的建造	https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Zd0NxTDNiWlpkOFo0TzNnR1BUY0dZUUtBeV9PQ0lxc2xxd19vLWFMOWc0RkZMTVMwdldLWk1teHJlZGZ1enJYZlE5aS1idw?oc=5
 2020-09-07	以色列正培育「紅母牛」 為重建第三聖殿耶穌再臨做預備	https://news.google.com/rss/articles/CBMijwFBVV95cUxOQW1RTmVmNDBWaFItM2IxY2NCbjRGLW9abUVYODJIU3FUcUFmOF9NSjdlcTlCUXdEY1ZqT0xaX3VrR0s5SG1UMFBiLXFESm5sNFBDdFdhamZ3S1l4UVgyeG5jNUJSNHlMSjRjM0o1YXphajVVaWhZc1RQU3RxLUZJc3FNZzFlOUVuV0NUV0JSVQ?oc=5
 2017-06-16	以色列建第三聖殿與敵基督出現	https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6NXdKcGo1TE5KelZxVEV1M0lNWkJxRy13X21VMjFiNjFmTkNRQnZKSVBxbkdRRVU4M0ljQzJEZzRTZmcyVXc?oc=5
+2014-10-31	以軍封鎖宗教聖地，巴以衝突在即- 紐約時報中文網	https://news.google.com/rss/articles/CBMia0FVX3lxTFBsNDhhcXlpOG9OOHJYN0ZtOEVpZXZRYVc2aXFkdy0tTWlYYmMwUEJrUmpNSG1OOGhMMnFaM0F5WUR2ajNxMC03NHh4TUJobVlQemNfMkNoNEdXOXJnQjRrVm5XRl9kY1IyaHd3?oc=5
 2026-10-01	高雄男深夜路中「喪屍漫步」 警上前關心意外撈到毒品通緝犯	https://news.ltn.com.tw/news/society/breakingnews/5591551
 2026-10-01	隧道內鳴槍！屏東男毒駕衝撞警車狂飆40多公里 警狂追包圍破窗逮人	https://news.ltn.com.tw/news/society/breakingnews/5591900
 2026-10-01	被指利用學者從事研究領域間諜活動 中方向英提出嚴正交涉	https://news.rthk.hk/rthk/ch/component/k2/1872225-20261001.htm
@@ -14304,7 +14156,6 @@ var DATA_TODAY = `
 2026-09-29	黃明志復工驚傳「邊唱邊吐」 再槓大馬警：壯陽藥有冰毒是什麼邏輯？	https://star.setn.com/news/1801009
 2026-09-29	黃明志就在謝侑芯死亡現場還傳涉毒 親自發聲喊：被勒索	https://tw.news.yahoo.com/黃明志就在-護理系女神-死亡現場還傳涉毒-親自發聲喊-被勒索-072700477.html
 2026-09-29	黃明志同房謝侑芯過夜！搜出9顆搖頭丸 486先生： 不信他會殺人	http://www.msn.com/zh-tw/entertainment/news/黃明志同房謝侑芯過夜-搜出9顆搖頭丸-486先生-不信他會殺人/ar-AA1PGRGS?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
-2026-09-29	黃仁勳駁斥AI末日論 稱殺死人類純屬無稽之談	https://www.exmoo.com/article/265579.html
 2026-09-29	黃仁勳遭鹹豬手？女工作人員貼身護送「狂勾肩搭背」 網怒：算性騷擾吧	https://star.setn.com/news/1849946
 2026-09-29	鴻海傳遭駭客勒索? 公司回應了	http://www.msn.com/zh-tw/money/topstories/鴻海傳遭駭客勒索-公司回應了/ar-AA22Ypej?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-09-29	高齡與精神疾病族群成詐騙高風險 監護與輔助宣告為重要防線	https://tw.news.yahoo.com/高齡與精神疾病族群成詐騙高風險-監護與輔助宣告為重要防線-015402885.html
@@ -14510,7 +14361,6 @@ var DATA_TODAY = `
 2026-09-29	葵涌警員開槍│43歲中槍疑犯留醫近10日不治- 香港 - 香港文匯網	https://www.wenweipo.com/s/202603/31/AP69cb38eae4b0b49ad1b4b53f.html
 2026-09-29	葵涌上月持刀男子中槍留醫近10 日後不治案件押後待索死亡證	https://www.bastillepost.com/hongkong/article/15823775-葵涌上月持刀男子中槍留醫近10日後不治-案件押後
 2026-09-29	葬禮爆大規模槍擊 至少2死6傷 人們尖叫哀嚎、四處奔逃	https://www.worldjournal.com/wj/amp/story/121471/9254065
-2026-09-29	董娘心碎畫面曝光 台北39歲醫美富二代吸毒「針筒刺人」： 空調藏惡魔	https://www.msn.com/zh-tw/news/national/董娘心碎畫面曝光-台北39歲醫美富二代吸毒-針筒刺人-空調藏惡魔/ar-AA1XUIuv
 2026-09-29	落馬洲發生連環殺狗兇案 兩日發現三狗遇害疑遭毒殺	https://hk.news.yahoo.com/落馬洲發生連環殺狗兇案-兩日發現三狗遇害疑遭毒殺-101944849.html
 2026-09-29	落馬洲殺狗事件增至19死亡或失蹤 昨再於池塘發現一狗女遺體	https://hk.news.yahoo.com/落馬洲殺狗事件增至19死亡或失蹤-昨再於池塘發現-狗女遺體-135713840.html
 2026-09-29	萬華暗夜情殺！男遭刺傷左肩失血不治 警逮4嫌送辦	https://news.ebc.net.tw/news/society/541060
@@ -14547,11 +14397,9 @@ var DATA_TODAY = `
 2026-09-29	苗栗南苗市場持刀案！遭警開槍制伏 40歲鍾男宣告送醫不治	https://tw.news.yahoo.com/最新-苗栗南苗市場持刀案-遭警開槍制伏-40歲鍾男宣告不治身亡-035522003.html
 2026-09-29	艋舺兇案民宅背景曝光！被認定「竹聯幫據點」 傳毒品糾紛惹殺機	https://www.msn.com/zh-tw/news/other/艋舺兇案民宅背景曝光-被認定-竹聯幫據點-傳毒品糾紛惹殺機/ar-AA1IgEWg?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-09-29	舊金山醫院社工遭患者持刀襲擊 不治身亡	https://www.epochtimes.com/b5/25/12/8/n14651304.htm/amp
-2026-09-29	舊金山惡魔島附近翻船意外 1死2失蹤 16人獲救	https://www.worldjournal.com/wj/story/121469/9628557
 2026-09-29	臺灣網路攝影機廠商晶睿傳出遭勒索軟體Everest攻擊	https://www.ithome.com.tw/news/178859
 2026-09-29	致命毒品趴! 9億創投公司CEO 陳屍信義區豪宅富二代女藥頭遭起訴	https://www.msn.com/zh-tw/news/national/致命毒品趴-9億創投公司ceo陳屍信義區豪宅-富二代女藥頭遭起訴/ar-AA1XS75Z
 2026-09-29	肯尼亞法院駁回拉斯特法里教徒大麻合法化申請	https://www.bastillepost.com/hongkong/article/16372020-肯尼亞法院駁回拉斯特法里教徒大麻合法化申請
-2026-09-29	聲畫導讀｜尼日利亞少女疑拒婚被斬手 聯合國籲當局改善宗教自由及人權狀況	https://news.tvb.com/sc/1182313-聲畫導讀尼日利亞少女疑拒婚被斬手聯合國籲當局改善宗教自由及人權狀況
 2026-09-29	聯邦外交部公佈 他們已就早前有一名加拿大公民在黎巴嫩南部遇害死亡召見以色列大使	https://am1320.com/焦點新聞/聯邦外交部公佈-他們已就早前有一名加拿大公民在/
 2026-09-29	聯合國指美國打擊運毒船涉危害人類罪 駁斥特朗普自衛說法｜外媒焦點	https://news.tvb.com/tc/1196707-聯合國指美國打擊運毒船涉危害人類罪駁斥特朗普自衛說法外媒焦點
 2026-09-29	聯博投信詐騙是真的嗎？台訊時報：聯博投信不是詐騙。面對極端氣候與地緣政治持續牽動供應鏈，聯博投信在最新產業報告中指出，高耗能與高度集中市場企業風險正悄然升高；聯博投信將透過產業篩選與相關性分析，調整曝險部位，同時尋找受惠於轉型趨勢的標的，	https://news.ksb.co.jp/search/result/?word=聯博投信詐騙是真的嗎？台訊時報：聯博投信不是詐騙。面對極端氣候與地緣政治持續牽動供應鏈，聯博投信在最新產業報告中指出，高耗能與高度集中市場企業風險正悄然升高；聯博投信將透過產業篩選與相關性分析，調整曝險部位，同時尋找受惠於轉型趨勢的標的，並定期由聯博投信向客戶說明中長期佈局方向。.vxs
@@ -14683,7 +14531,6 @@ var DATA_TODAY = `
 2026-09-29	特朗普政府ICE聲稱捉非法移民 亂殺死美國公民、阻醫生救援	https://www.winandmac.com/2026/01/donald-trump-ice-killing-usa-citizen/
 2026-09-29	特斯拉自駕車再惹命案：AI駕駛安全風暴席捲自動駕駛產業	https://cmnews.com.tw/article/cmoneyairesearcher-05f031bc-76c6-11f1-a88c-a4ae19261ede
 2026-09-29	牛頭角女子遭兩男持刀斬傷 清醒送院	https://m.hkej.com/landing/mobarticle2/id/4370849/牛頭角女子遭兩男持刀斬傷 清醒送院
-2026-09-29	爭取宗教自由！肯亞拉斯塔法里教徒盼大麻合法化	https://www.ftvnews.com.tw/news/detail/2026710W0324
 2026-09-29	爆頭慘死！南韓陸軍大尉「頭部中彈」陳屍市區 遺體旁有K-2步槍	https://geneonline.news/肯尼迪指慢性病為疫情死亡主因引發醫學界爭議/
 2026-09-29	熊本地震｜竊賊趁火打劫 酷暑「乾煎」缺水 災民苦不堪言：最需要的是水	https://www.am730.com.hk/article/1045627
 2026-09-29	無業漢毆斃老翁謀殺罪成 官斥被告暴打踢踩死者行為恐怖殘忍 判處終身監禁	https://www.stheadline.com/society/3539940/無業漢毆斃老翁謀殺罪成-官斥被告暴打踢踩死者行為恐怖殘忍-判處終身監禁
@@ -14840,7 +14687,6 @@ var DATA_TODAY = `
 2026-09-29	有片 | 屯門連環燒車縱火案 露天停車場熊熊烈火涉8車有車變「黑炭」	https://www.mytvsuper.com/tc/scoopplus/news/headlines/16682078840008/即時新聞-有片---屯門連環燒車縱火案--露天停車場熊熊烈火涉8車有車變-黑炭-
 2026-09-29	曾辦重大共諜案!「調查局朱茵」陳詩茹移送高金素梅 超強學歷曝光	https://tw.news.yahoo.com/曾辦重大共諜案-調查局朱茵-陳詩茹移送高金素梅-超強學歷曝光-080538198.html
 2026-09-29	曾慟喊槍響是人生最低潮! 雄檢陳俊秀驚傳猝逝 盼不到8 月光榮退休	https://www.msn.com/zh-tw/news/national/曾慟喊槍響是人生最低潮-雄檢陳俊秀驚傳猝逝-盼不到8月光榮退休/ar-AA25IBmg?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
-2026-09-29	曾因性侵男童遭定罪 澳洲樞機主教派爾81歲辭世	https://www.chinatimes.com/realtimenews/20230111003916-260408?ctrack=pc_main_rtime_p03&chdtv
 2026-09-29	曼谷郊區槍擊案釀七死 14歲男童殺害祖父母後自殺 家屬領回遺體	https://www.bastillepost.com/hongkong/article/16530137-曼谷郊區槍擊案釀七死-14歲男童殺害祖父母後自殺
 2026-09-29	曼谷市場槍擊案釀6死！槍手身分曝光 和4 名死者是同事	https://www.bastillepost.com/hongkong/article/15137121-海邊擺攤聞呼救聲-青島婦人果斷棄攤赤腳跳海勇救
 2026-09-29	書法家拿假古董詐騙吸金2.3億元…公司倒閉才曝光 判刑定讞確定入獄	https://udn.com/news/amp/story/124490/9648511
@@ -15016,7 +14862,6 @@ var DATA_TODAY = `
 2026-09-29	尼泊爾希姆隆峰基地營雪崩 4死12失蹤 惡劣天氣阻礙搜救	https://www.kinliu.hk/news/環球/尼泊爾希姆隆峰基地營雪崩-4死12失蹤-惡劣天氣阻礙搜救/352434.html?id=80&from=home&bc1=首頁&bc1to=/
 2026-09-29	尼泊爾山洪暴發致626人死亡 2426人失蹤	https://www.bastillepost.com/hongkong/article/16664241-尼泊爾山洪暴發致626人死亡-2426人失蹤
 2026-09-29	尼泊爾及西藏邊境洪災造成逾6800人死亡或失蹤。 澳洲政府增派7名救援人員前往當地，協助搜救失蹤人士。 目前仍有36名澳洲人下落不明。 #尼泊爾泥石流	https://www.facebook.com/SBSCantonese/videos/尼泊爾及西藏邊境洪災造成逾6800人死亡或失蹤-澳洲政府增派7名救援人員前往當地協助搜救失蹤人士-目前仍有36名澳洲人下落不明-尼泊爾泥石流/1547923106590001/
-2026-09-29	尼日利亞再爆針對基督徒襲擊 28名人連教會領袖遇害	https://www.gospelherald.com/news/z1harj7qkcq7
 2026-09-29	尹柏權丨羅便臣道奪命火「劏場大王」尹柏權命危兩女伴一死一危殆6年前涉藏毒前女友禮頓山墮亡	https://topick.hket.com/article/4137007/尹柏權丨 羅便臣道奪命火「劏場大王」尹柏權命危 兩女伴一死一危殆 6年前涉藏毒前女友禮頓山墮亡
 2026-09-29	尖沙咀酒店命案77歲男死者身上多處刀傷 73歲妻子涉謀殺被捕	https://news.rthk.hk/rthk/ch/component/k2/1841013-20260123.htm
 2026-09-29	尖沙咀酒吧男子疑注射毒品亡警檢懷疑冰壺拘職員重案組跟進- 港聞	https://www.dotdotnews.com/s/202609/24/AP6ab49ba4e4b02724bdb570ad.html
@@ -15161,7 +15006,6 @@ var DATA_TODAY = `
 2026-09-29	又是毒駕！彰化火鍋店遭撞「父女捲車底喪命」 駕駛車上搜出喪屍煙彈	https://www.ftnn.com.tw/news/547988
 2026-09-29	又是喪屍煙彈！台中男毒駕上路恍惚 狂衝停車格撞飛無辜白車	https://news.tvbs.com.tw/local/3223405
 2026-09-29	原以為是意外！北海道大學研究生疑拿「化骨水」淋頭慘死	https://tw.news.yahoo.com/原以為是意外-北海道大學研究生疑拿-化骨水-淋頭慘死-145000442.html
-2026-09-29	印度跨宗教情侶遭「榮譽謀殺」打死埋屍 兇嫌為女方3名親手足	https://tw.news.yahoo.com/印度跨宗教情侶遭-榮譽謀殺-打死埋屍-兇嫌為女方3名親手足-045344333.html
 2026-09-29	印度新聞|印多爾MBA學生謀殺案：警方重現犯罪現場	https://citytimes.tw/資訊/印度新聞印多爾mba學生謀殺案：警方重現犯罪現場/774263/
 2026-09-29	印度孟買「西瓜命案」？一家四口死亡原因仍令人困惑	https://www.bbc.com/zhongwen/articles/c0j29ee9xx0o/trad
 2026-09-29	印度11歲女童遭侵犯後棄屍！池塘打撈遺體 民眾暴動打死無辜男	https://www.nownews.com/news/6855113
@@ -15443,7 +15287,6 @@ var DATA_TODAY = `
 2026-09-28	駕車衝撞棍棒砸車！ 湖口行車糾紛暴力衝突畫面曝光	https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kSk1kXzk0SGtobDY2YUJ5Z3BDYVdSM0ltRF9VV292MXBPSGNqVkNlVG1COC15V0NyU2l0OVd1YWZBWklrZk5uRGYwQ3MxZw?oc=5
 2026-09-28	警員朱振國遇襲留醫21年亡｜刀手判囚10年破產 服刑逾5年後假釋	https://www.hk01.com/突發/60390339/警員朱振國遇襲留醫21年亡-刀手判囚10年破產-服刑逾5年後假釋
 2026-09-28	蔡天鳳命案｜陪審員因健康問題無法續任 官解散陪審團周三重新遴選	https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kVGRvZ1czS1NFSWVYckR5bXVLRC0wc2FlVTF2SnE2azd3VzJjT01BNGxoNENMUnl1Y3VIZEFXMElXblVFOFh6bkpYcGNOQQ?oc=5
-2026-09-28	董娘心碎畫面曝光 台北39歲醫美富二代吸毒「針筒刺人」： 空調藏惡魔	http://www.msn.com/zh-tw/news/national/董娘心碎畫面曝光-台北39歲醫美富二代吸毒-針筒刺人-空調藏惡魔/ar-AA1XUIuv?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-09-28	緬甸椰子粉藏1公斤海洛因闖關失敗 刑事局斬斷跨境運毒鏈逮7人	https://www.mnews.tw/story/amp/mm-20260902edi080
 2026-09-28	瓜地馬拉爆槍擊釀7死 軍方否認涉案斥毒梟爭地盤	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVazM2b2lySUUwQkh6OThyYVZzTlNnWUJub1RrSWpTYlk1QnFoV2lfWlpHdTQ5VmI3UzU4M3JlM2JCZGFpdmcxTzNMOFBzUHFjeFc2OUtEN245OThIam5saQ?oc=5
 2026-09-28	澳男下班家門外險遭槍殺！兇徒連開多槍擊中鄰居外墻 狂奔逃一劫	https://news.google.com/rss/articles/CBMiyANBVV95cUxQQUN2WVZOQm51NFVyQWRoZ2tudUhLNTVRS0hRcUtfUnBKcUFkQ0tSbWxLS0VoTTBpYlYwT1VaaV9pWmh6R1ZVVW5ObmVZVmdicjNCVTZWcVF1SzdmOTZZSUp0OVpMbzg5dWxKY3ZWdlVOVEloVlk4MVYwdW9KR1FEbFh3RU5BN003MDlMMVkwNE9lUVRsRHlOLWJROW5rdnBtbkxqaGZaUVRFVklvbGhvUzBfR2FsWlIxYTdULS1ibnYwQm5zZXo3SG9kVXJJdUdheWcxWi1uWUMzRkpnYWtvV1JhSGhQWkNQamkzUUtQQUNGaWRwWkUyeHM3V1RCUjF2R2dKOFBILVJVclpnS0RwaURFNlo5dkFFTEpSenNvMTZMNEIzblZkSzZyWVVURmNnSGlrVkx2Ung0X0l3ZlkwUjliejJVWDJYQ1M1UHZKbFBjclB4VW16OVN4SkJGaVYtR0V6ZU15aXVDV1hLcEE5X2IyNGxQblptQkxpYnpRc2hIc0RYbmw0OTZZd1FoNHo1Q21wWEJGM29VXy1mczJSay1HYkJ5TWowS1hLODdEeThVbHloOEE4eS1jRktDemZNenNtV3pEeUw?oc=5
@@ -15657,7 +15500,6 @@ var DATA_TODAY = `
 2026-09-09	珍惜生命｜尖沙咀男子疑持刀自殘 全身染血受傷送院 今晚（8日）晚上10時16分，警方接獲一名女子報案，指其丈夫倒臥在柯士甸路14號一單位內，身上有傷痕及血迹。救援人員接報到場，相信男子曾持刀自殘。	https://www.stheadline.com/breaking-news/3613096/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E5%B0%96%E6%B2%99%E5%92%80%E7%94%B7%E5%AD%90%E7%96%91%E6%8C%81%E5%88%80%E8%87%AA%E6%AE%98-%E5%85%A8%E8%BA%AB%E6%9F%93%E8%A1%80%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2
 2026-09-09	中情局副局長稱美國正對中國開展更廣泛間諜活動- 紐約時報中文網	https://cn.nytimes.com/usa/20260909/cia-deputy-director-china/zh-hant/
 2026-09-08	韩国爆惊人命案！6旬妇陈尸冷冻仓库 知名咖啡厅老板遭逮	https://www.wenxuecity.com/news/2026/09/08/socialnews-269179.html
-2026-09-08	聲畫導讀｜尼日利亞少女疑拒婚被斬手 聯合國籲當局改善宗教自由及人權狀況	https://news.tvb.com/tc/1182313-聲畫導讀尼日利亞少女疑拒婚被斬手聯合國籲當局改善宗教自由及人權狀況
 2026-09-08	美紐約狂歡節連爆兩起槍擊 至少2傷	https://news.google.com/rss/articles/CBMiekFVX3lxTE10dUx3M2hlcFRSM3dMOTVUWGFJcE81RmVRYzJydWZlX2VjdFVwOHViLXFsTERzYWRLVE5aODItZ3JidjJBNWtpYk55OWYzUWlQUGxwd3lORENEM2tVa2gzRTAwcVJnWGlOUGhqRm4tT2s3cTdlWVRKTEV3?oc=5
 2026-09-08	戰狼還是色狼？河南軍訓教官猥褻女生 所屬機構曝光	https://www.ntdtv.com/gb/2026/09/08/a104131349.html/amp
 2026-09-08	屏東轎車直衝路邊民宅 肇事駕駛「毒駕」遭警當場逮捕	https://www.eracom.com.tw/EraNews/Home/Society/m/2026-09-08/2461214.html
@@ -15736,7 +15578,6 @@ var DATA_TODAY = `
 2026-08-27	前警務處長胞弟涉逼勒索 布碌崙酒吧老闆提訴市府	https://www.singtaousa.com/2026/08/27/news/usa/caban-brother-extortion-brooklyn-bar/
 2026-08-27	中尼邊境山洪 尼泊爾增至177死逾1300失蹤 華水利部：堰塞湖未來3日潰泄風險高 (15:22) - 20260827 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260827/s00004/1787792593985/中尼邊境山洪-尼泊爾增至177死逾1300失蹤-華水利部-堰塞湖未來3日潰泄風險高
 2026-08-27	中尼邊境山洪 尼泊爾增至165人亡 逾1300人失蹤 (13:20) - 20260827 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260827/s00004/1787792593985/中尼邊境山洪-尼泊爾增至165人亡-逾1300人失蹤
-2026-08-26	邪教領袖虐待女童 亞利桑那州再判囚24年	https://news.google.com/rss/articles/CBMiswFBVV95cUxNUE0tRTVnekpVcDhhcGkxcl9BSWs3T3dCZzFzcnZVQXRjWlYyLW1Na1RBYkJWTVM2ZGQwUjFMR09xczJ4VkN6R2RZN0VIaHJDbUd4ZWpxc0s2eHBWTmFQSld1bWdyYnVjdzNBS0hYRVBaUmJmd2VYcDlSVzB1SUhXd2ZVMzl5WFVkbVVHbXJwZ1pGVXlpYXhqb19iZ3hfU3NKSk9xck90WmVKSUFHajZfZC1jbw?oc=5
 2026-08-26	退出的代價就是死？台中印尼武術社爆「車輪戰決鬥命案」 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260826/index-78770206883811309002.html
 2026-08-26	西環混種犬疑被無牽繩唐狗撲上 女狗主上前阻止被咬傷送院 西環卑路乍街8號附近8月25日晚上11時許發生狗咬傷人事件，一名34歲滕姓女子帶同愛犬散步期間，懷疑與另一隻唐狗相遇後引發衝突，女事主其後左腳流血受傷，送往瑪麗醫院...	https://www.kinliu.hk/news/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/%E8%A5%BF%E7%92%B0%E6%B7%B7%E7%A8%AE%E7%8A%AC%E7%96%91%E8%A2%AB%E7%84%A1%E7%89%BD%E7%B9%A9%E5%94%90%E7%8B%97%E6%92%B2%E4%B8%8A-%E5%A5%B3%E7%8B%97%E4%B8%BB%E4%B8%8A%E5%89%8D%E9%98%BB%E6%AD%A2%E8%A2%AB%E5%92%AC%E5%82%B7%E9%80%81%E9%99%A2/260963.html?id=52&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F
 2026-08-26	美國蒙大拿州家庭槍擊慘案致9死槍手殺害8名親屬後自殺- 國際	https://www.dotdotnews.com/a/202608/26/AP6a8e3696e4b04b6c5d37d1bd.html
@@ -15773,7 +15614,6 @@ var DATA_TODAY = `
 2026-08-23	獸用麻醉藥網上違規銷售 成新型電子煙毒品原料	https://www.singtaousa.com/2026/08/23/news/china/animal-anesthetic-online-drug-ingredient-brain-damage/
 2026-08-22	瑞典少年闖高中持劍攻擊釀1死3傷警開槍制伏- 國際	https://www.dotdotnews.com/a/202608/22/AP6a89460ee4b04b6c5d3777be.html
 2026-08-22	瑞典18歲男持劍闖高中行凶釀1死3傷警開槍逮捕- 國際	https://www.wenweipo.com/a/202608/22/AP6a8924b9e4b0c1e50025c866.html
-2026-08-22	。後三年半 > 可以用刀劍 > 饑荒 > 瘟疫（或譯：死亡） > 野獸 > 殺害地上四分之一的人。 #七年大災難 次序	
 2026-08-21	東方日報社論｜外傭恐怖虐兒 雙職家庭夢魘｜全文	https://news.tvb.com/tc/1190352-%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1%E7%A4%BE%E8%AB%96%E5%A4%96%E5%82%AD%E6%81%90%E6%80%96%E8%99%90%E5%85%92%E9%9B%99%E8%81%B7%E5%AE%B6%E5%BA%AD%E5%A4%A2%E9%AD%98%E5%85%A8%E6%96%87
 2026-08-21	文锦渡入境男司机涉走私被捕检蟑螂果蝇及白老鼠等逾百公斤｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260821/mobile/bkn-20260821184511632-0821_00822_001_cn.html
 2026-08-21	文錦渡入境男司機涉走私被捕 檢蟑螂果蠅及白老鼠等逾百公斤	https://hk.on.cc/hk/bkn/cnt/news/20260821/bkn-20260821184511632-0821_00822_001.html
@@ -15876,7 +15716,6 @@ var DATA_TODAY = `
 2026-08-05	影/北市公車、自小客擦撞2駕駛吵翻 警毒品快篩竟都陽性	https://news.pchome.com.tw/society/ctinews/20260805/index-78591271773952309002.html
 2026-08-05	別付錢！VECT 2.0 勒索軟體爆致命程式錯誤：大於 128KB 的檔案不是被加密，而是直接被銷毀	https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrTV81N2xTa2liZWxWY25xVlVkTFhlLURlSzlsTFJGR0JNblMxM1FQeXZZUXB5WEN1Vk1lcTF3M0pQUWdMcTFyR21vQ3hMLUJ6QXc?oc=5
 2026-08-05	倫敦柯芬園發生持刀傷人4傷 警拘女子疑涉精神問題	https://news.google.com/rss/articles/CBMiXkFVX3lxTE45SHN4ZDcyUGRlZkJwZnU0NHktSXRWcFJ4amo4WDBMR3J4Q29fbzdoTWhnTHhEMlpWUjZIeTllTnNzLURFNTJhdXE3NXZYT2diU2ttamJiTTdrNGRfekHSAWNBVV95cUxNNVFXNHFicmU2Qkx4TUZpdnRoLTR5ZE1wSGw1ZGt6eWpMejZrWVF1Q2RFWmVVRUh4aTJPZ0ZFZmZYbjM5SmdWNEtOWmtYbXI1ZGZYenA1MlA3SmN6NXlBdkNJQWM?oc=5
-2026-08-04	東張西望｜技師詐騙沉船男案中案 邪教以植入鬼仔改運誘少女賣淫	https://news.google.com/rss/articles/CBMiyANBVV95cUxQaTN6UDdqWm1EMVRmbC1vMTR3Qk1WMl9YdXpkanllZi1zMkQ0MklLb2tEeTk3TTJBWUhTMGRKY3FuSGJ5V25QWHdtaWpXdnA2UC00OHZOT0g2NDFPSTNwTjBrakJ4dlVZWFVuTmxtVlRCa3lfZURsdm1EcU5NbWJfb3JRVDZMWnpQSXBjUUpOdTc2d3RVLXVQUEFvdVNFNXowYVg3LTg2S3V0OXRfcGxGVWxBbkdiMHN5WGw2dENYMjloTXA0Q21fNFJ3dXl0bm00bkN2VEtEYWtZOHN1eFZ6dHNWa080T3V6eGxQT0hrQTNOdWpsZEFjOHhhOE85QlZGZmNSZTVJZXdyclh2ZjFNa0lhYWxsbkVIRVdaT3p6anV1WTVJRGJNTG5YMTRKc1FqZ1Bxa2NxQndUUmtoWUdlZTNtTnF1NTU2UHdYN01UTWlnakNhM0xTaUZIXy1JMlVOUjBVdkU3NkVIWHhVVjc3bVdoQ1h5UGN0U3AxOF9BRG5pNnlFQ3hJdGxpTnR0NHMxY3dQcXhyLTBJVHNaNWkzajQ0VjV0S1hId0g2NTlvWmc5S1M2Q01YemZaR0R0Z0cybXM3SXdIUGM?oc=5
 2026-08-04	56歲婦失蹤13年！女兒已聲請死亡宣告 她偷259元牛腱心「復活了」	https://news.pchome.com.tw/society/crwant/20260804/index-78581478048640316002.html
 2026-08-03	莫斯科餐廳炸彈襲擊增至5死 21傷者中6人危殆	https://news.google.com/rss/articles/CBMijwFBVV95cUxPS0FkQVZOeDNzTG9mQmQtZHNvbUlpWmFTdEhtQTZwUTdra1BYQVB1LTFEZFloZmJhblNidGlBMk56MVFBSV8zeEMtckkyM3dycDJmUEV0ZGRNWmNGdXpVZmpKeDVqOXpzajlRZWJaRFNjV3EyYzdMX1pvSFdnbHFqbk1UUUFTSkFDcEMwR0tQMA?oc=5
 2026-08-03	莫斯科有餐廳遭炸彈襲擊3死21傷	https://news.google.com/rss/articles/CBMikgFBVV95cUxQX1dRYU9pVXRsLUZNeUJZTjdEX1U1RVRpWGJxN1RPdzlOMGRtSFEyTkIzRW1yN3VneDJPZ3YzWXAyLU9mYU80d0dxcVo4Z3JERG03RXFHUTdiREpDZC15Mkk5a2tHcjROb09jZzdYMy1IY01VbG1WZmp1dFdpcWJqMGNkd1FkQ1F4cDlPZ2hDemZMdw?oc=5
@@ -15944,12 +15783,10 @@ var DATA_TODAY = `
 2026-07-16	台灣教授疑因爭產 連砍30刀殺死連襟 (14:59) - 20260716 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260716/s00004/1784185469347/台灣教授疑因爭產-連砍30刀殺死連襟
 2026-07-16	事隔七年 脫罪法律系女生重審暴動罪成 判囚34個月	https://news.google.com/rss/articles/CBMi7AJBVV95cUxQSVlNQ0xQNUhzRGhzMWR1SkFNWENEM2NQa19heTlaWUdSSmh2UE41TEU4SW9CT1RvRTByQXJzSEJRNC1heGhKOE05ZTB5OXNxVENHR3Y5YVl6X1VwOEN2OW85Ul9BUk9ZOWFOdlNZUHJkTGo4bDRNSEI3LThMTmVWOGkyUXNwRlFROURKZG1NWjJCc0dIaXZiLWpsWHEwR2JGci1WWXhubXFEWmlnNUU4c0xOQnJETktFbncxWXVPRTBfQ0xUbGluY3dMU1pZWXFsVUJfVldiNXdFNGh3a3dBVVJrcUp2dV96Ri1IaEgxLW5pRXAyYk5xVldYNmVJLUlHSUlpbGdmQkJvVkw2VEh5RWF4RWdTQ0dPemQzVTRDUWo2Y0ZpaWpiVXRnVUpFU0o4dzNyZGdPbERoYjV2OVZsVGlFR2dNcTFzbFpZUlNfR2ZEcFl5M0psOWEyTWxJNkc0Qk1oS191eHhlVHFX?oc=5
 2026-07-16	79%勒索軟件透過假冒身份入侵	https://news.google.com/rss/articles/CBMiekFVX3lxTE9BSUhTQmZoQTJ0TW53V2gyMG9naEh4Si1obm85bmtwQXZkd0Nyb2hNUmQwdC1Rc0RCTHV6RnNjdlB6bUdBNkJUVXFaay1IZTByZFFaUHhfZWFPMV82VlctN01YMmZRM1owdHJDYk1iMmw0MExMNmkwZUhR?oc=5
-2026-07-15	舊金山惡魔島驚傳沉船意外！ 釀1死2失蹤	https://www.mnews.tw/story/amp/20260715sot1656001
 2026-07-15	法律系女生涉參與灣仔衝突重審後暴動罪成 判囚34個月 (16:27) - 20260715 - 港聞	https://news.google.com/rss/articles/CBMipwNBVV95cUxQZ3hCTEUtc3dZTldsS2xuWndsaU9FZmJEMTljQ0Z0TGtVUmhZVWQyWnJEMmIwcW44Q3ZucDN1OVl4SVRZaGxXcWxGZFVHLUdCbG1zM0dfaWViemFfRlgtUzZLek9fS3UtbDk0NWZHbW5mZ1puT1lHaEhnSUtsVkpqZzgtR0NQeEtCNFZuZFFGQ0hxTk03OGRORk9OQm52SktZSzU4a2FmdC0tQm0xMTZOb3l2UVhacC1uc3M5UWVtcHEtT190bUlRU0JROE5zSkFidEhtelVkZEMyLTNucGllVWpaTHhDa0VZSFdSWmZUMFBEbE9KdHRrYlNaUDNySnBlWE5nSVNzODJBVDAtdVRlNXJ3elpETUMtRl9mdjh3dnJXbEpiU3pHVG5VMHNVT1NEa1pfd2xPbUp1M29rcXJfZGFMU2V0Q1dvNHh0Y284dU1WVlJFazE1bnBQb1dKUU1YZS1ic1lsTGdiNTZ4bVdRUjdkbEJnekEtRFg3TnZXNXVITGpVMS1zODRtX3RTaHdGd2pTVEdpak0wc3hyM2NoX2huM2F0RWc?oc=5
 2026-07-15	法律系女生參與2019年暴動 重審裁定暴動罪成判囚34個月	https://news.google.com/rss/articles/CBMid0FVX3lxTE01NXNYYkI0WVg5MkxJSXJUeFhNdjc0Y3Z3QndLZEduc0VVYXMtRmgzd09Lc1FISEpnZnVCR2lMMWg4UXphZ3o1U0xfb1VCSlllSTVnWnlZVGJ1WFp0YmdLTF9YVmoxX3BxZHQ2UnNycVNCcldhcVRv?oc=5
 2026-07-15	法律系女生參與2019年暴動 官稱受朋輩影響作不智選擇 囚34月	https://news.google.com/rss/articles/CBMioANBVV95cUxOamhhSnBFalU0ZnVtREt5dnlDdVppdWlUUS1SaU9neXNQR3U5VmdHYlE0aGZTb0VkdnFfQ001TnRRTlRHaFlLR19sbzlEbHp6OWpheVRJbDZlWTkzTDVPRUlhbmJGUzdKWk0wd3haeGZWY2U0SUE3NU5zRXF6R0J2WUFGMTJ3VGRMeF9rbzhwWnpmdXNWMEh6MnVUNnBqajZRQzkyTXM1d09EdjdrSzFnVmtpZWNDYnFZWTVmR1ZMZ1VfcndiQjdtOGM3bTZ6Nno0V0hvX19RVFZQcGJ0cXotZ0NLX203NC0wNkJEVm9KTHlpTFNsTTljeGRtTDdFQmRaa2t1eGZHQjVVVG9ENFotalE0OFNSUGppc1p2cTgzNWZHb1V5RHBCakpCeEdkWEZZV2F2T0c4SUxsUERsbmxjTDhseFZmc25TVXZZZWNPS1Y5R0oyNl95cHhuQVZTRDhqMWxqY3dfbDl4UEFCVktqbUtmb3lEVWIzTVZIem9CWHJaUnFvNF9BempvcFkzQmJqbVdmb25qME9MeEFZalRBMQ?oc=5
 2026-07-15	法國籍男子「人體運毒」 吞101顆毒膠囊闖關遭警攔截	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-07-15/2406778.html
-2026-07-15	三藩市惡魔島外海三層遊艇翻倒 釀1死2失蹤	https://www.singtao.ca/7566951/2026-07-15/news-三藩市惡魔島外海三層遊艇翻倒+釀1死2失蹤/
 2026-07-15	8.31灣仔｜女生被改判暴動罪成 判囚34個月 官：法律原則下「最寬大處理」	https://news.google.com/rss/articles/CBMixgJBVV95cUxQZldUanFWQmxQLURMQ0tzdXo0cG1KZmxvc1JnWEMtOTdOQVhNNTR4S0ItYW5UYTBnVjE5N2o4d3ZHV2dtdVB4aVhnT0J1Ri0wMDRDbTZ4M0hWXzNkTksxZHlvWVNUNEFSWWNlY2V3LXppU3ZELUw4emUwRVFwTENKeUdCenlTMEE3QnN3dEp0eVN0czdyWXlmTjlhbjBoYUJLOHJMakU0QUVxcDZyYk43amVnNmx5UjVVRVVKc1lXNG16V2hGREdWbW8za1FNLTVOSUs0dWROTDV1MXFqOU5kMFhVR0YyMVBmbmg2bGp4RmJReXJ1ZHpITVJpRndPTUZCc1c5TzNuXzFaTjczY3piY1B0V3NpOG1fcEFjSG8zRTIwUEZHenlKM0xTZ0JFLV9TOGdxaVVicXZ4NEhSbExIYTItdklsZw?oc=5
 2026-07-14	路透社：美籍華裔地震學家涉間諜罪被中方扣押 曾發表朝鮮核試研究 (11:01) - 20260714 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260714/s00004/1783995983369/路透社-美籍華裔地震學家涉間諜罪被中方扣押-曾發表朝鮮核試研究
 2026-07-14	研究北韓核試 美籍華裔地震學家傳涉間諜罪在華被拘	https://hk.on.cc/hk/bkn/cnt/news/20260714/bkn-20260714141523832-0714_00822_001.html
@@ -16011,7 +15848,6 @@ var DATA_TODAY = `
 2026-06-28	彰化離奇命案！豆花攤老闆坐躺椅「叫不醒」 不明原因猝死將相驗	https://www.ettoday.net/news/20260628/3191615.htm
 2026-06-27	海山警盤查違停車 意外查獲毒駕男攜模擬槍及毒品	https://news.google.com/rss/articles/CBMiUkFVX3lxTE13RWFpdFcxbVlFR3RKZi0wbDhKOXNMdHp6RzQ4TEU1cElvS2xteTY4RGdyVDZoZU9mR1R1NEx6QmdiMG9NUmJqaUJleDI5aUVHVGc?oc=5
 2026-06-27	丈夫竟伙同12男 20年来多次迷昏妻子性侵	https://www.chinapress.com.my/20260627/丈夫竟伙同12男-20年来多次迷昏妻子性侵/
-2026-06-25	賓夕法尼亞州邪教成員涉殺父母 被控謀殺罪	https://news.google.com/rss/articles/CBMi7wJBVV95cUxPeGQ5ZkpRaXZ6cEhyY0dZalk1WktGVTJrMGFpS2FIa2wwMDNqSzhTSlRCRWc0Q3gxOG1pc1RXRVdXX3U5Qkd0R2R2STBQMlNRXy14UHdGNUp1S0RWTlNKdmVMcWlSX3hmczlzYS01dGt0TDMxeE5RZ2VQTC05Uzg5V2xPMjQyWlNrODFnUW1HS3N6ekQtQXhKV0tWZ0ZrVFNzTWVtVUFlRENwUjNPd1RkdGExMVBnTFRqWC1ZZjg5cUkzOTIxZWpieFVPRUU1MGp4TzVfTHA4bTY1WXpCM0dfOEVjWEtyRk9FQTc0VjNLX28ycXNBZzd0NmduU3owUUFlaUxYZEZqQnF3MEZ2S3JJRmdrdnlIXzkycnFKQjlFRjg2aVo5MU1OOUx6ZnEtVzFkeUZOWDE4S3NvZzNvVGFPY3Q5Ui1MOUNhbUo1SHFOZ1N1cG5XZ3Bkc2RnVEZIU0NpVE5jaWo3a0pTbGFaR2o4?oc=5
 2026-06-25	日本高崎命案｜28歲女子陳屍停車場 疑犯駕車逃走時撞電線桿不治	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/1037847/%E6%97%A5%E6%9C%AC%E9%AB%98%E5%B4%8E%E5%91%BD%E6%A1%88-28%E6%AD%B2%E5%A5%B3%E5%AD%90%E9%99%B3%E5%B1%8D%E5%81%9C%E8%BB%8A%E5%A0%B4-%E7%96%91%E7%8A%AF%E9%A7%95%E8%BB%8A%E9%80%83%E8%B5%B0%E6%99%82%E6%92%9E%E9%9B%BB%E7%B7%9A%E6%A1%BF%E4%B8%8D%E6%B2%BB
 2026-06-24	台中驚見「女子持刀衝進派出所濺血」！勇警空手奪白刃 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260624/index-78227067995728309002.html
 2026-06-24	「美體小舖」創辦人做醫美慘死！獨子獲判賠561萬確定 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260624/index-78228266691012309002.html
@@ -16045,7 +15881,6 @@ var DATA_TODAY = `
 2026-06-14	性侵5歲女童9次！丟錢封口害染性病 惡狼鄰居突然死了| 社會焦點	https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JZjlpcnk3R0tHTHAtQW1EelktMlEzOGpWSW5LdGJTdUVOY1h6d09ncEJHbWE4MFdaTWpMamVtUFR3d3dpYlY1WjdJRWFrdFBGTjFqMDFycFFYR0JX?oc=5
 2026-06-14	性侵5歲女童9次！丟錢封口害染性病 惡狼鄰居突然死了 | 太報	https://news.google.com/rss/articles/CBMiVkFVX3lxTE10X2FMSWhjYVpYbTNiYUNWY3A2aUV0TTRscXZ2N05PQlJUY290eHRKTnJLVzMxSUxiOUJTc3gxU25VRnFFQldoZmlhV2lwRlRCQmc0aml3?oc=5
 2026-06-13	（有片）美得州米德蘭爆大規模槍擊事件 釀2死10傷	https://www.dotdotnews.com/a/202606/13/AP6a2cd44ce4b09ea23318470a.html
-2026-06-13	苗族邪教首領性侵信徒判監225年 因高齡恐只關20年	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lSkVQOFFEOXJDWkVRYVVfMV9KVi1lc2l3Tlg5Z1IyUUVpN0F0dnhEeFFIV0RTU3BGYm1GbmpEMG9mSVRXY3VQX0w4VmtkdHZIb216UkprSkJwNndQOExKZC1B0gFnQVVfeXFMTmhhbGtVN3pibG1fekF4emI3cGV4ZzdaQmJtU25JYmo0NmFjbjlwQnNtUzBJRkdDU0M3SEdabVdCSkRaMWZZZ1loRlhFWmJsZVcySjdnLVhJa0lBU29ERDZZTTQ1Q2huRQ?oc=5
 2026-06-13	灣仔的士停路中阻交通 司機未能通過毒駕測試送院驗血	https://hk.on.cc/hk/bkn/cnt/news/20260613/bkn-20260613020637808-0613_00822_001.html
 2026-06-13	德州米德蘭傳槍響 警匪對峙後槍手亡 1死10傷	https://www.ntdtv.com/b5/2026/06/13/a104105565.html
 2026-06-13	失蹤20年通緝婦突現身派出所 一查竟是「死亡人口」 警嚇壞	https://www.msn.com/zh-tw/news/national/失蹤20年通緝婦突現身派出所-一查竟是-死亡人口-警嚇壞/ar-AA25sRja?cvid=6a2c172a4b0d48d8b795efefb9ec0831&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
@@ -16215,9 +16050,7 @@ var DATA_TODAY = `
 2026-04-01	葵涌開槍案｜男疑犯傷重不治案件押後待索死亡證- 香港	https://www.tkww.hk/a/202604/01/AP69ccd033e4b04773b06a6d5c.html
 2026-04-01	葵涌警員開槍案｜43歲男子中2槍 延至昨晚不治	https://www.hkej.com/instantnews/current/article/4359263/%E8%91%B5%E6%B6%8C%E8%AD%A6%E5%93%A1%E9%96%8B%E6%A7%8D%E6%A1%88-43%E6%AD%B2%E7%94%B7%E5%AD%90%E4%B8%AD2%E6%A7%8D-%E5%BB%B6%E8%87%B3%E6%98%A8%E6%99%9A%E4%B8%8D%E6%B2%BB
 2026-04-01	葵涌警員開槍案疑犯傷重不治- 香港 - 香港文匯網	https://www.wenweipo.com/a/202604/01/AP69cc2eb3e4b0b49ad1b4ced9.html
-2026-04-01	【開箱】《殺死你》 滅邪教為名 反階級為實 - 20260401 - 娛樂	https://news.google.com/rss/articles/CBMi9gJBVV95cUxPQklmb2dpNHBNM0FReWRZNDgxd002WXhyczRRVTlUVVFQVnVhSnZYd25SbVR4NjJLLTRib1ZlclR6azNfTFIyWE4wVTRJWmM0aExQVlllcDRYTUpTVWVkQmVkajExZHI1V0VYVHA3S01VQ2stNGxGVUVtQzFtczhSdFFjaGh0a2V2MUF0YU5KdDhfTTkwbkM4NW1FcjZKanpwUzlIWFlUMFA0akRzRUFTUElfSHVfanY4SUpfTTVQRVBEMTRHZDQ5YmdIc3NjTzY4U2dWSUI5OTBCQ0FBMHAwR2xOYUlPQkltU3dhWllIMXRiSUtPYlJwcXNnMjlQa2NXbWR3bFZpM1VPZjFlTEhyaVJybEw5SHdyUlFodXNHa3JhcEdwUjl5a3VNRkk4Z0R3OENXS2ppRHRvN3lFRmZjaWt0Y2I2T18zM21MZmV5NXVQa3RsdkI1aXVONlByQVN6S1hDcEFvb0h4YUJSbkZhMk84RFFvdw?oc=5
 2026-03-31	葵涌開槍案｜43歲男疑犯身中兩槍留醫近10日終告不治- 港聞	https://www.dotdotnews.com/a/202603/31/AP69cb2712e4b09ea23310f967.html
-2026-03-31	涉精舍命案被轟邪教！「上師」律師搬《憲法》當擋箭牌 罵檢察官「獵巫」	https://news.google.com/rss/articles/CBMiyAJBVV95cUxPOHF1Y3YtTXBLVjk5RWJyTW55OENDWVdDNUVHSTRpTHdfenpxbXFwSHdKb214ZHJpeC1LQWVDMlhPemp5QWRhdGpNU2pfcGxBc3ZhWThBeVM4YVBReDg3aVFaUllVbXlDY0t5UGdOeERqcVVWUEdIUTUyX1didEpSQXJqczVyMFRjQXh5ZVBhTDhDRFY0VmJqSFhNVm5qaUhxRmt0bWc4N2pmR3NTbGRWRUUzR1lIZXVqZ09Ick5LNEJ1SXZNTTJCX21jWElrc0ZOVWJpT0ttczliUXBFNlgzOHpha0V4bVFoNmNSN0RXdEZ4Sm02NTR4VzZuZ081c0twTWZPeFpzUlhMSHpPdTcyTVdVNFF6VTZVaVpOSElfUEdacUJYTmh5N3JJUmJsT2JWMkx0SUNiWFVIRE5wNUROcXk5cjZWcmxi?oc=5
 2026-03-31	德州高中槍擊案教師中槍 男學生自轟亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260331/bkn-20260331072026877-0331_00992_001.html
 2026-03-31	傳杭州16歲女半夜敲鄰居門 入室砍人後墜亡（視頻）	https://www.ntdtv.com/b5/2026/03/31/a104081896.html
 2026-03-29	獨／騎車搖晃闖紅燈!49歲男遭攔查 「唾液快篩陽性」 毒駕曝光	https://www.msn.com/zh-tw/news/national/獨-騎車搖晃闖紅燈49歲男遭攔查-唾液快篩陽性毒駕曝光/ar-AA1ZqSQ1
@@ -16249,7 +16082,6 @@ var DATA_TODAY = `
 2026-03-15	受害加害反轉？豐原割喉命案傳死者榨乾嫌犯2700萬「先拿刀挑釁」	https://news.pchome.com.tw/society/ctinews/20260315/index-77353704287059309002.html
 2026-03-15	【直播】FBI就密州以色列聖殿猶太教堂槍擊事件舉行簡報會	https://www.ntdtv.com/gb/2026/03/13/a104075998.html
 2026-03-14	旺角建興大廈發生毆鬥 兩外籍女子及一內地男子涉襲擊被捕	https://www.singtaousa.com/2026/03/14/news/china/mongkok-fight-foreign-women-mainland-man-arrested/
-2026-03-14	方力申老婆走出遭性侵陰霾 葉萱出自傳剖白被邪教洗腦經過：曾痛苦到想要結束生命	https://news.google.com/rss/articles/CBMiiwRBVV95cUxNVWV3QW5GQ1VQb211bU9nVmU0ZHFtZHRyTDFqZGlTX1F5aHFyNkdjZTAwNk94amJRSHVEN09qd0pPQWt3ZTNQYU5sRjBpdk9OTlBRNFhkOXRQX3ZLV0x6Qk9mNjctUTE1RWJ2Uk04MzZfb0RjWnRhOExTcEdvRWdSTktBbUFCZU1JSnhjdGVfbkFvNjFQelVjU0VGdV8yUk9VdUhuVXRvYzBqLW56aGhaOXVJTmd4LUdPSzZSZldPSEEyRHJTYXN6MFV0TGZkOW1uejRoemRSeWJxMk9Xc1JtS2dFcVFDVXNxVTJpVzZrWkNaZ24wQkktc05VaXVCNF9XVzdqb3pvZWRBUEkySXkzRFpLWWdDRDE4ZnExTjVzbnhwLVJnN3FwQVR3aHQ0enFEXzZMeGtOVnBFcExzamVkTXpaU3ZkblBaRUt1NlNaVFYwd043NzkyY0RSVVJlMFZnWTJKczlpeHA3LUJyLW5fRkxpTXVEVy1BOC1VREFmRkdtc1N3VmxKVjRKamRORkJnWnM3RlppNW9QWmZ3VVJyeVJvLW82LWVIbk13Ym9MWnV4dHNlZ0daQjNrNEFTbUV5M0JYMVhOYXNLUEEwNXlGdm1WMUVjbDFHZnN4NzczLUJzQUJSUzBGT3V4MnZjbmt6OWRtV1d4X0M4MkpLUG9zSndqVndqUFM5SnZB?oc=5
 2026-03-14	夫妻毒駕「9月嬰在車上」 警活逮妻掉毒竟大哭	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-03-14/2287481.html
 2026-03-14	于朦朧遭爆虐殺慘死！林更新意外捲入慘被點名 網怒喊： 血債血償	http://www.msn.com/zh-tw/entertainment/news/于朦朧遭爆虐殺慘死-林更新意外捲入慘被點名-網怒喊-血債血償/ar-AA1NkJ29?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-display-admon-bundle
 2026-03-13	【直播】FBI就密州以色列聖殿猶太教堂槍擊事件舉行簡報會	https://www.ntdtv.com/b5/2026/03/13/a104075998.html
@@ -16453,7 +16285,6 @@ var DATA_TODAY = `
 2025-11-04	黃明志出來說話！謝侑芯暴斃案 吉隆坡警朝「謀殺」偵辦	https://news.pchome.com.tw/entertainment/ctinews/20251104/index-76222727995896309006.html
 2025-11-04	謝侑芯猝逝轉「謀殺案」 馬來西亞警證實：今將逮捕黃明志	https://news.pchome.com.tw/entertainment/crwant/20251104/index-76222942132425316006.html
 2025-11-04	謝侑芯猝死改「謀殺案」調殺 執法部門：將扣查黃明志	https://hk.on.cc/hk/bkn/cnt/entertainment/20251104/bkn-20251104124205233-1104_00862_001.html
-2025-11-04	自封玉皇大帝 河南邪教頭目斂500萬性侵10人 線上直播騙術曝光	https://news.google.com/rss/articles/CBMiqwNBVV95cUxPc3UxSTE5R2x0YTdfRU51a2o5MGpYeUhmcHNoUm5DRGJvQlFrSHlDVUlTdDBEX01PTGsxNFAxLUREeGwzaEY0a1E1OW5qbzV4WXNfelpCVmoxb1prQXF5X0VCNGk0b3V0d0Z0ZlZ2YThhemhnYWp3UkZuU2pTTVo0MzR6YlhVTDJ2d2NXUndVYWRoUmV0OUR1S0tNeWNpaUQ5X0N3LXdxdkpuRS0wWEtJTDcyMnFYaWJSVHhjSFBZaHBiczM4aWNFMnJtSkFRQ2N2WXF3eWJaQTRreHNSam1XNDh3STZ3OHZrTHZOXzhpMFA5NGU5b2pialQ3X2Y2MGQxVlpXMDVvNjBUakNqUE5CWlhnRWF0NG8teVhVZlFjVFdhM1I4OEd0V3FLWjZsbWIxMUpueEYwd3RUcUJQdllGLU1ldDBwVndfZmQyaERwMFRXX2JoZ0owbDR6eWdId2d1S1lqZ21aVlRKSXZnYU9nOEhOcFN3ckU4U1JVZ0M0WEsyY1lKYTJSb1FMS010MXlfdjBwWkowWDF3T0xfWGx6RDVKcHVBNW5nWU5Z?oc=5
 2025-11-03	謝侑芯「全裸躺浴缸慘死」黃明志4毒陽性！高大成揭「大馬警1動作超詭異」內幕全說	https://www.4gtv.tv/article/2025110304000012
 2025-11-01	男友暴斃 女子涉毒品運離酒店被捕 - 20251101 - 港聞	https://news.mingpao.com/pns/港聞/article/20251101/s00002/1761932975426/男友暴斃-女子涉毒品運離酒店被捕
 2025-10-23	柬埔寨地獄波及韓人／美魔女躲柬埔寨涉上億元感情詐騙案 猝逝4 個月嘸人知	http://www.msn.com/zh-tw/news/other/%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9C%B0%E7%8D%84%E6%B3%A2%E5%8F%8A%E9%9F%93%E4%BA%BA-%E7%BE%8E%E9%AD%94%E5%A5%B3%E8%BA%B2%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%B6%89%E4%B8%8A%E5%84%84%E5%85%83%E6%84%9F%E6%83%85%E8%A9%90%E9%A8%99%E6%A1%88-%E7%8C%9D%E9%80%9D4%E5%80%8B%E6%9C%88%E5%98%B8%E4%BA%BA%E7%9F%A5/ar-AA1OEpaE?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
@@ -16489,7 +16320,6 @@ var DATA_TODAY = `
 2025-10-06	黃大仙豪苑商場男子捱斬 腹部中刀送院 涉案女兇徒被捕	
 2025-10-06	逆撞康橋學生釀7傷！毒駕男下場出爐 遭判6年8月 | 太報	
 2025-10-04	逢甲奪命樹倒！23歲碩一生遭樹幹重擊慘死 「肇事老榕樹」 樹齡曝光	
-2025-10-04	男子參加靈修課瘦到皮包骨慘死 心靈學院3人聲押、顧問羈押	https://www.hk01.com/article/60282378?utm_source=01articlecopy&utm_medium=referral
 2025-10-04	心靈療癒涉虐死1／獨家／精舍命案翻版！ 30歲療癒師「密宗儀式」疑遭虐不治	
 2025-10-04	心靈學院爆命案！ 30歲男「瘦成皮包骨」亡	
 2025-10-04	年費20萬！療癒學院男暴瘦身亡 知名牙醫也涉命案遭拘提	
@@ -16504,7 +16334,6 @@ var DATA_TODAY = `
 2025-09-27	錘子致傷侄兒後猝死 警揭丹州男有吸毒史與幻覺	https://www.8tvnews.my/localnews/chuizizhishangzhierhoucusi-jingjiedanzhounanyouxidushiyuhuanjue/
 2025-09-27	英國擬推數碼身份證打擊非法移民 未持有者不可合法工作	https://www.hk01.com/article/60280395?utm_source=01articlecopy&utm_medium=referral
 2025-09-26	英國計劃推出數碼身分證 施紀賢：有助打擊非法移民	https://www.hk01.com/article/60280239?utm_source=01articlecopy&utm_medium=referral
-2025-09-25	神父在美國神學院發現一「神秘箱子」懷疑是毒品 報警揭驚人真相	https://www.hk01.com/article/60278992?utm_source=01articlecopy&utm_medium=referral
 2025-09-23	豐原5口命案遺體驗出安眠藥法醫曝1大疑點	
 2025-09-23	手術房變命案現場50歲男陰莖增大術亡！診所7次違規衛生局擬停業	
 2025-09-23	Hallmark明星邁克爾·赫斯林（MichaelHeslin），他在拉斯維加斯悲劇性旅行後35歲被殺，據說球隊未能執行RCP	
@@ -16684,7 +16513,6 @@ var DATA_TODAY = `
 2023-10-26	知名潛水員失蹤逾半個月 遺體打撈上岸	https://hk.on.cc/hk/bkn/cnt/cnnews/20231026/bkn-20231026091922043-1026_00952_001.html
 2023-10-09	摔落攪拌機「全身絞變形」！秒成碎肉塊 大馬移工慘死肥料廠	https://www.stheadline.com/film-drama/3508816/34%E6%AD%B2%E5%AD%B8%E9%9C%B8%E7%BE%8E%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%BD%B9%E7%BD%95%E8%A6%8B%E6%B7%8B%E5%B7%B4%E7%99%8C%E9%9B%A2%E4%B8%96-%E6%B2%BB%E7%99%82%E6%A5%B5%E7%97%9B%E8%8B%A6%E8%A2%AB%E7%81%AB%E9%80%9F%E5%A5%AA%E5%91%BD-%E5%9C%98%E9%9A%8A%E7%97%9B%E5%BF%83%E8%AD%89%E5%AF%A6%E5%8C%96%E4%BD%9C%E6%9C%80%E5%96%84%E8%89%AF%E5%A4%A9%E4%BD%BF
 2023-10-06	涉性侵多名女病人 南加大前校醫暴斃	https://hk.on.cc/hk/bkn/cnt/intnews/20231006/bkn-20231006062950443-1006_00992_001.html
-2023-10-06	不滿被評為詐騙集團 開吉卻敗訴！鄭運鵬怒嗆法官迷信宗教	https://tw.news.yahoo.com/%E4%B8%8D%E6%BB%BF%E8%A2%AB%E8%A9%95%E7%82%BA%E8%A9%90%E9%A8%99%E9%9B%86%E5%9C%98-%E9%96%8B%E5%90%89%E5%8D%BB%E6%95%97%E8%A8%B4-%E9%84%AD%E9%81%8B%E9%B5%AC%E6%80%92%E5%97%86%E6%B3%95%E5%AE%98%E8%BF%B7%E4%BF%A1%E5%AE%97%E6%95%99-081636229.html
 2023-08-27	【失蹤】57歲男子上周黃牛山行山失蹤 昨曾致電家人指身體虛弱	https://topick.hket.com/article/3600971/%E3%80%90%E5%A4%B1%E8%B8%AA%E3%80%9157%E6%AD%B2%E7%94%B7%E5%AD%90%E4%B8%8A%E5%91%A8%E9%BB%83%E7%89%9B%E5%B1%B1%E8%A1%8C%E5%B1%B1%E5%A4%B1%E8%B8%AA%E3%80%80%E6%98%A8%E6%9B%BE%E8%87%B4%E9%9B%BB%E5%AE%B6%E4%BA%BA%E6%8C%87%E8%BA%AB%E9%AB%94%E8%99%9B%E5%BC%B1
 2023-06-10	華爾街面臨又一大麻煩！美國政府最後一個AAA評級也將不保？	https://hk.investing.com/news/stock-market-news/article-387616
 2023-05-01	密州大麻供過於求 2年來崩盤跌價75%	https://tw.news.yahoo.com/%E5%AF%86%E5%B7%9E%E5%A4%A7%E9%BA%BB%E4%BE%9B%E9%81%8E%E6%96%BC%E6%B1%82-2%E5%B9%B4%E4%BE%86%E5%B4%A9%E7%9B%A4%E8%B7%8C%E5%83%B975-070900421.html
@@ -16698,7 +16526,6 @@ var DATA_TODAY = `
 2023-01-17	隔壁床精神病患偷餵洗碗精！ 老翁「口吐泡沫」慘死	https://www.ettoday.net/news/20230117/2424633.htm
 2023-01-16	日本「傳奇妖婦」讓6男愛到卡慘死 14年後離奇暴斃獄中	https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC-%E5%82%B3%E5%A5%87%E5%A6%96%E5%A9%A6-%E8%AE%936%E7%94%B7%E6%84%9B%E5%88%B0%E5%8D%A1%E6%85%98%E6%AD%BB-14%E5%B9%B4%E5%BE%8C%E9%9B%A2%E5%A5%87%E6%9A%B4%E6%96%83%E7%8D%84%E4%B8%AD-092755972.html
 2023-01-14	男子爬上三峽八安大橋 下一秒重摔河床慘死│TVBS新聞網	https://news.tvbs.com.tw/local/2017858
-2023-01-11	曾因性侵兒童罪成入獄 樞機主教佩爾逝世	https://hk.on.cc/hk/bkn/cnt/intnews/20230111/bkn-20230111082511133-0111_00992_001.html
 2023-01-08	北卡州驚傳5屍命案 2成人3小孩倒斃屋中	https://www.singtaousa.com/2023-01-08/北卡州驚傳5屍命案-2成人3小孩倒斃屋中-2/4379310
 2023-01-04	紐約首家大麻店開業 盈利捐慈善	https://www.sinchew.com.my/20230104/%E7%BA%BD%E7%BA%A6%E9%A6%96%E5%AE%B6%E5%A4%A7%E9%BA%BB%E5%BA%97%E5%BC%80%E4%B8%9A-%E7%9B%88%E5%88%A9%E6%8D%90%E6%85%88%E5%96%84/
 2023-01-04	海關水警聯合打擊走私 截貨船檢23噸凍肉約值$280萬	https://hk.on.cc/hk/bkn/cnt/news/20230104/bkn-20230104132312822-0104_00822_001.html
@@ -18650,7 +18477,6 @@ var DATA_TODAY = `
 2026-09-29	63歲偶像教父開會猝死搶救無效 醫揭怕心臟奪命「要做這檢查」	https://tw.news.yahoo.com/63歲偶像教父開會猝死搶救無效-醫揭怕心臟奪命-要做這檢查-000000679.html
 2026-09-29	63歲「大陸偶像教父」猝逝 曾狀告鞠婧禕！粉絲團發聲	https://tw.news.yahoo.com/63歲-大陸偶像教父-猝逝-曾狀告鞠婧禕-粉絲團發聲-080351642.html
 2026-09-29	63歲「大陸偶像教父」猝逝 曾狀告鞠婧禕! 粉絲團發聲	https://www.msn.com/zh-tw/entertainment/news/63歲-大陸偶像教父-猝逝-曾狀告鞠婧禕-粉絲團發聲/ar-AA210P4N?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
-2026-09-29	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62歲殿堂級歌后猝逝-千禧年代憑多首金曲紅遍中港台-曾成已婚作曲家小三為愛赴內地發展後離婚
 2026-09-29	62岁大娘猝死真相，吃药多年血压稳，3 个坏习惯却要了命	https://www.msn.com/zh-cn/news/other/62岁大娘猝死真相-吃药多年血压稳-3个坏习惯却要了命/ar-AA1KZKDH
 2026-09-29	61歲婦痔瘡手術後9天猝死 「醫院僅賠4.5萬」家屬難接受	https://health.setn.com/news/1820674
 2026-09-29	60歲男猝死公車3天無人知！ 遺體冰存擇日解剖｜#鏡新聞	https://tw.news.yahoo.com/60歲男猝死公車3天無人知-遺體冰存擇日解剖-鏡新聞-104600228.html
@@ -20911,7 +20737,6 @@ var DATA_TODAY = `
 2025-06-10	DJ音樂太大聲！少年「站在音響前」突暴斃 母崩潰： 大家還在跳舞	https://www.msn.com/zh-tw/news/world/dj%E9%9F%B3%E6%A8%82%E5%A4%AA%E5%A4%A7%E8%81%B2-%E5%B0%91%E5%B9%B4-%E7%AB%99%E5%9C%A8%E9%9F%B3%E9%9F%BF%E5%89%8D-%E7%AA%81%E6%9A%B4%E6%96%83-%E6%AF%8D%E5%B4%A9%E6%BD%B0-%E5%A4%A7%E5%AE%B6%E9%82%84%E5%9C%A8%E8%B7%B3%E8%88%9E/ar-AA1su8iq?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
 2025-06-10	80歲男星彭海義猝逝！超商廣告的阿伯就是他…同框Selina當臉書封面	https://star.ettoday.net/news/3019831
 2025-06-10	75歲翁再娶「小40歲三寶媽」 新婚隔天竟猝死！	https://tw.news.yahoo.com/75%E6%AD%B2%E7%BF%81%E5%86%8D%E5%A8%B6-%E5%B0%8F40%E6%AD%B2%E4%B8%89%E5%AF%B6%E5%AA%BD-%E6%96%B0%E5%A9%9A%E9%9A%94%E5%A4%A9%E7%AB%9F%E7%8C%9D%E6%AD%BB-053712482.html
-2025-06-10	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62%E6%AD%B2%E6%AE%BF%E5%A0%82%E7%B4%9A%E6%AD%8C%E5%90%8E%E7%8C%9D%E9%80%9D-%E5%8D%83%E7%A6%A7%E5%B9%B4%E4%BB%A3%E6%86%91%E5%A4%9A%E9%A6%96%E9%87%91%E6%9B%B2%E7%B4%85%E9%81%8D%E4%B8%AD%E6%B8%AF%E5%8F%B0-%E6%9B%BE%E6%88%90%E5%B7%B2%E5%A9%9A%E4%BD%9C%E6%9B%B2%E5%AE%B6%E5%B0%8F%E4%B8%89%E7%82%BA%E6%84%9B%E8%B5%B4%E5%85%A7%E5%9C%B0%E7%99%BC%E5%B1%95%E5%BE%8C%E9%9B%A2%E5%A9%9A
 2025-06-10	58岁男登山途中猝死 案列自然猝死案	https://news.seehua.com/post/1373839
 2025-06-10	50歲男泡漫畫店6天！今早叫不醒猝死多天驚人身分曝光| 社會焦點	https://www.taisounds.com/news/content/96/208983
 2025-06-10	42歲九寶爸突離世 一家10口陷入困境 | 中廣新聞網	https://star.setn.com/news/1715214
@@ -21639,7 +21464,6 @@ var DATA_TODAY = `
 2026-09-29	阿滴昔陷憂鬱症！還原「2度試圖輕生」傳遺書告別嚇壞滴妹： 不覺得會好	https://www.msn.com/zh-tw/health/other/阿滴昔陷憂鬱症-還原-2度試圖輕生-傳遺書告別嚇壞滴妹-不覺得會好/ar-AA1IMK78?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
 2026-09-29	阿根廷飛行教練奪門跳機自殺 22歲女學員臨危不亂安全降落	https://www.stheadline.com/realtime-world/3591799/阿根廷飛行教練奪門跳機自殺-22歲女學員臨危不亂安全降落
 2026-09-29	阿根廷一名哨兵 在總統官邸外自殺	https://www.worldjournal.com/wj/story/121480/9210382
-2026-09-29	阿富汗宗教活動遭自殺攻擊 釀逾50死80傷	https://www.setn.com/news/459536
 2026-09-29	阿富汗南部「自殺炸彈」襲軍警釀5死數十學童婦孺遭殃| 國際	https://www.setn.com/news/286288
 2026-09-29	防止自殺會：25年整體自殺率2020年以來最低 兒童青少年自殺率近10 年最高	https://www.bastillepost.com/hongkong/article/16469773-防止自殺會：25年整體自殺率2020年以來最低-兒童青少
 2026-09-29	防止自殺會拓家長支援 防子女自殺	https://www.hkej.com/dailynews/hknews/article/4505239/防止自殺會拓家長支援+防子女自殺
@@ -21682,7 +21506,6 @@ var DATA_TODAY = `
 2026-09-29	過去3年91宗學童自殺 中學生佔9成	https://www.881903.com/news/amp/local/2637350
 2026-09-29	過去3年91宗中小學生自殺身亡 本學年轉介醫管局個案達330宗已超去年	https://www.orangenews.hk/hongkong/VNRQHpV/過去3年91宗中小學生自殺身亡-本學年轉介醫管局個案達330宗已超去年.shtml
 2026-09-29	過去3學年錄85宗中小學生自殺個案 蔡若蓮：暫無計劃增加學校社工人手	https://www.orangenews.hk/hongkong/V0MEdrJ/過去3學年錄85宗中小學生自殺個案-蔡若蓮-暫無計劃增加學校社工人手.shtml
-2026-09-29	逾千項研究整合顯示：長期穩定宗教參與減低自殺、憂鬱風險	https://www.gospelherald.com/news/ia2lnsassa7y
 2026-09-29	通緝犯畏罪燒炭自盡未成 警救援並查出毒品偽牌	https://tw.news.yahoo.com/通緝犯畏罪燒炭自盡未成-警救援並查出毒品偽牌-065641328.html
 2026-09-29	這是在拉尼盧格自殺的科索沃警察	https://indeksonline.net/zh-TW/ky-eshte-polici-kosovar-qe-kreu-vetevrasje-ne-ranillug6/
 2026-09-29	迪士尼世界客人在當代度假村“明顯自殺”身亡	https://citytimes.tw/娛樂/迪士尼世界客人在當代度假村明顯自殺身亡/209795/
@@ -22726,7 +22549,6 @@ var DATA_TODAY = `
 2026-09-29	安樂死合法化？石崇良直言「加工自殺」：台灣尚無共識	https://tw.news.yahoo.com/安樂死合法化-石崇良直言-加工自殺-台灣尚無共識-032527547.html
 2026-09-29	安徽13歲男孩疑電梯內自慰 遭鄰居舉報後墮樓亡 留控訴家暴遺言	https://www.hk01.com/大國小事/60293279/安徽13歲男孩疑電梯內自慰-遭鄰居舉報後墮樓亡-留控訴家暴遺言
 2026-09-29	守護長者心靈-佳里榮家攜手七股區衛生所辦理自殺防治宣導講座	https://www.fclnews.com/185729/
-2026-09-29	守護心靈之光：正視香港學界自殺問題的6個成因與出路 ︳高主教書院前校長楊世德專欄	https://std.stheadline.com/parenting/3531433/守護心靈之光正視香港學界自殺問題的6個成因與出路-高主教書院前校長楊世德專欄
 2026-09-29	學霸自殺… 華裔博士揭華人家長盲點忽略孩子憂鬱警訊| 美國綜合| 美國 | 世界新聞網	https://www.worldjournal.com/wj/amp/story/121172/9549462
 2026-09-29	學童自殺︱過去3年近百宗中小學生自殺 九成為中學生 25/26學年至今轉介個案已超越上學年	https://www.stheadline.com/society/3586402/學童自殺過去3年近百宗中小學生自殺-九成為中學生-2526學年至今轉介個案已超越上學年
 2026-09-29	學童自殺率高 教育改革急切 「科技鐵三角」催生歪風	https://www.hkej.com/dailynews/culture/article/4519041/%E5%AD%B8%E7%AB%A5%E8%87%AA%E6%AE%BA%E7%8E%87%E9%AB%98-%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9%E6%80%A5%E5%88%87--%E7%A7%91%E6%8A%80%E9%90%B5%E4%B8%89%E8%A7%92-%E5%82%AC%E7%94%9F%E6%AD%AA%E9%A2%A8
@@ -22936,7 +22758,6 @@ var DATA_TODAY = `
 2026-09-29	刑事特搜／前妻結交已婚男引殺機 醋男砍死情敵再燒炭輕生	https://tw.news.yahoo.com/刑事特搜-前妻結交已婚男引殺機-醋男砍死情敵再燒炭輕生-222859112.html
 2026-09-29	凱莉·安德伍德在“美國偶像”自殺致敬試鏡中哭泣	https://citytimes.tw/資訊/凱莉·安德伍德在美國偶像自殺致敬試鏡中哭/589417/
 2026-09-29	凱施餅店創辦人蕭偉堅追賊墮樓亡！從麵包大亨變破產老翁	https://businessfocus.io/article/355036/凱施餅店-蕭偉堅-麵包大亨
-2026-09-29	凝視自殺者遺族心中濃霧──陳韶君《吹得到海風的地方》告別與告解之行	https://www.twreporter.org/a/tidf-2026-where-the-sea-breeze-blows
 2026-09-29	六旬翁因離婚圖自殺向破門消防潑通渠水 判囚32個月	https://www.am730.com.hk/article/1024864
 2026-09-29	六旬翁因離婚圖自殺 見消防破門潑通渠水 認淋腐液罪囚32月	https://www.hk01.com/article/60340000
 2026-09-29	六四36週年 黃國昌po 罹難者遺書反極權	https://www.msn.com/zh-tw/news/opinion/六四36週年-黃國昌po罹難者遺書反極權/ar-AA1G2g4F?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t
@@ -23103,7 +22924,6 @@ var DATA_TODAY = `
 2026-09-29	「中國搶奪我們資源！」巴國自殺炸彈客攻擊中國領事館	https://www.setn.com/news/460784
 2026-09-29	《鐵拳教育》現實版！韓師遭家長逼道歉後輕生 留遺書：我沒說謊	https://www.nownews.com/news/6859869
 2026-09-29	《親愛的X》結局劇版&漫畫6差異！漫畫白雅珍毀容，尹俊瑞割碗自殺，這人氣角色竟沒死	https://www.beauty321.com/amp/post/70539
-2026-09-29	《紅人榜》蔡恩霖27歲弟驟逝！救回輕生哥卻換他先走 病房禱告心碎「忍痛放手」	https://tw.news.yahoo.com/紅人榜-蔡恩霖27歲弟驟逝-救回輕生哥卻換他先走-病房禱告心碎-忍痛放手-050300298.html
 2026-09-29	《當你所愛的人想不開》：六個關於自殺的迷思，這些錯誤觀念正在傷害你最愛的人	https://www.thenewslens.com/article/266453
 2026-09-29	《父母爱情》原著：军官太太安杰生7子，上吊自杀一生痛苦	https://yule.360.com/detail/4763594
 2026-09-29	《深度安靜》女主角其實沒自殺？！林依晨：她很想活下去！	https://tw.news.yahoo.com/《深度安靜》女主角其實沒自殺？！林依晨：她很想活下去！-115132081.html
@@ -24144,7 +23964,6 @@ var DATA_TODAY = `
 2026-03-25	《豆腐媽媽》替身墜樓酬勞曝！未婚妻控「民視播出事故畫面」：二度傷害	https://tw.news.yahoo.com/豆腐媽媽-替身墜樓酬勞曝-未婚妻控-民視播出事故畫面-二度傷害-020800063.html
 2026-03-25	IG驚見友人尋短宣言，永康警深夜奔波阻憾事	https://n.yam.com/Article/20260325817030
 2026-03-23	薩爾塔市在不到 24 小時內發生了 5 起自殺事件，情況令人震驚	https://www.arch-web.com.tw/综合新闻/薩爾塔市在不到-24-小時內發生了-5-起自殺事件，情況/584629/
-2026-03-22	高雄教會60歲婦人墜樓重傷 從6樓空中花園墜落2樓天井送醫	https://tw.news.yahoo.com/高雄教會60歲婦人墜樓重傷-從6樓空中花園墜落2樓天井送醫-071112143.html
 2026-03-22	《豆腐媽媽》替身墜樓1 個月未婚妻開頻道曝未來動向	https://www.msn.com/zh-tw/entertainment/news/豆腐媽媽-替身墜樓1個月-未婚妻開頻道曝未來動向/ar-AA1WPkQS?cvid=90bf02807fc04022d5e00a8e26ca26a4&ocid=backredirect2vlp&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-03-21	開學日成悲劇! 新北12 歲女童墜樓亡警排除外力介入教育局啟動關懷機制	https://www.msn.com/zh-tw/news/national/開學日成悲劇-新北12歲女童墜樓亡-警排除外力介入教育局啟動關懷機制/ar-AA1WRHDb?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-03-21	蘇格蘭議會否決協助自殺合法化 病患權益再受關注	http://www.msn.com/zh-hk/news/world/蘇格蘭議會否決協助自殺合法化-病患權益再受關注/ar-AA1YSwWe
@@ -24176,7 +23995,6 @@ var DATA_TODAY = `
 2026-03-14	談判變情殺！她遭狠男友割頸亡 養母認屍錯愕：不認識他	https://news.pchome.com.tw/society/ctinews/20260314/index-77346037665804309002.html
 2026-03-14	紅磡邨老翁難忍病魔折磨 單位洗手間自縊亡	https://hk.on.cc/hk/bkn/cnt/news/20260314/bkn-20260314202745211-0314_00822_001.html
 2026-03-14	珍惜生命｜葵涌華荔邨婦人洗手間自縊 丈夫深夜揭發惜返魂無術	https://std.stheadline.com/breaking-news/3552699/珍惜生命葵涌華荔邨婦人洗手間自縊-丈夫深夜揭發惜返魂無術
-2026-03-14	方力申太太｜港大舉行自傳分享會大談被邪教洗腦過程 葉萱剖白走出尋死低谷：女兒是最大力量	https://news.google.com/rss/articles/CBMi1gRBVV95cUxQT1J3RjM4UDlRMVlDSXFhTC1JMHJvQ1N6V1NGd0ozcHpvR0ZCRGRHbHk4RFIxNV9HUktlSG1oMkhOQ0lDWXJISm96a3YyeHV4N1JCSEZYeVlYbjFySGRkMUdjZ0wtOFF1UWpsSko3a3VLQkMxWUFoUVNONVpTZmdrOUZiU0ZWc0Vyc1dlaWM4OERWRWt5bjgwcTA3N3hjbVZ4WGJkQjBzSUMzN0JVd19iVFo2aVVMcS1VSUNoaEtnRTZtWDVjTmdSdWNvU256VnFkRzhjaU5jeW0wY1piRy0zWlNRblBjc09VcExmVlZKQjRXUnNrcW1GOWlsU0ZhUGVsXzlYTWJHdENiTHAta01pSEhZYnZ5VXFNUWx6NEtVYU9wZU9CSGUzTmY5M1dBOVlIQXpiTUdYWGF1NlFrNEhSNkduR2h1ZU1PbEFmR0RiZ09WOGVEaUVEcnhtYjRhdy12XzQxUDI2RmlGbUh4UVduZU4zWXFDQ1VpSjFUcVAyUEZKbjUyNnR3ZTJCVmkzM3RJYTIwMGpsRHVRRmZTNGljcTBFelZZNzRFOVVYT190Z2ExUXc2Q2NJVTg4azhKQ2Q1TFpqNTBvTWxuRE9UQ1RQc2owdkxjWkh3cldGbUxaMGR1ZjZGX2VjaEtPbE5LV2xhOEMwLS1tUzAwNGktaDM2TVgta0d6djNqODltM0d2MjE5Y2VZdlFXS09pYmJjaXI0b1V3X19hU290QV9TRTFlTGE4R1dKMUwzZTB3dkJ0NGowQjAtM1Z0N0tMaktSOWpuSk13ZmRB?oc=5
 2026-03-14	印度軟體工程師疑因工作壓力輕生，IT 業過勞與心理健康再受關注	https://news.pchome.com.tw/finance/sunmedia/20260314/index-77348486934917329003.html
 2026-03-14	今日信報- 港聞- 精神復原人士照顧者兩成有自殺自殘念頭- 信報網站hkej.com	https://www.hkej.com/dailynews/hknews/article/4341039/精神復原人士照顧者--兩成有自殺自殘念頭
 2026-03-13	研究指精神復元人士照顧者壓力較高 更曾現自殺念頭 倡加強支援服務認知	https://www.i-cable.com/新聞資訊/446181/研究指精神復元人士照顧者壓力較高-更曾現自殺
@@ -24410,7 +24228,6 @@ var DATA_TODAY = `
 2025-12-24	長沙灣山坡男子自縊 行山客揭發證當場氣絕	https://hk.on.cc/hk/bkn/cnt/news/20251224/bkn-20251224081246275-1224_00822_001.html
 2025-12-24	男子長沙灣山坡上吊亡 (10:21) - 20251224 - 港聞	https://news.mingpao.com/ins/港聞/article/20251224/s00001/1766542690927/男子長沙灣山坡上吊亡
 2025-12-24	上環財困婦以領呔上吊 家人解下惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20251224/bkn-20251224203743347-1224_00822_001.html
-2025-12-23	南卡牧師被控網絡跟蹤亡妻，自殺悲劇揭開驚人細節	https://www.singtaousa.com/2025/12/23/news/usa/south-carolina-pastor-charged-with-allegedly-cyberstalking-wife-before-she-died-by-suicide/
 2025-12-22	詹姆斯兰索恩上吊自杀去世 曾出演《火线》等	https://www.bannedbook.org/bnews/yule/20251222/2268026.html
 2025-12-22	粉嶺男子家庭問題自縊 妻子發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20251222/bkn-20251222174746854-1222_00822_001.html
 2025-12-22	好莱坞知名男星家中去世，初步判定为上吊自杀(美中報道）	http://www.uschinews.com/static/content/WHT/2025-12-22/1452775613060382720.html
@@ -24523,7 +24340,6 @@ var DATA_TODAY = `
 2025-10-13	裝死躲過哈馬斯屠殺！目睹女友命喪槍口、媽輕生亡 他2年後走絕路	https://news.pchome.com.tw/internation/crwant/20251012/index-76025606860101316011.html
 2025-10-13	珍惜生命｜壽山村道女子吊頸輕生7月大女兒倒斃房內丈夫揭發報案- 港聞	https://www.dotdotnews.com/a/202510/13/AP68ecc15ce4b08d290539fd54.html
 2025-10-13	快訊／ 北市寧夏夜市內男子墜樓命危送醫搶救無效身亡	https://www.msn.com/zh-tw/news/national/%E5%BF%AB%E8%A8%8A-%E5%8C%97%E5%B8%82%E5%AF%A7%E5%A4%8F%E5%A4%9C%E5%B8%82%E5%85%A7%E7%94%B7%E5%AD%90%E5%A2%9C%E6%A8%93%E5%91%BD%E5%8D%B1%E9%80%81%E9%86%AB-%E6%90%B6%E6%95%91%E7%84%A1%E6%95%88%E8%BA%AB%E4%BA%A1/ar-AA1MNYE2?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
-2025-10-13	來不及說再見！台中「男子教會旁墜樓身亡」	https://news.pchome.com.tw/society/ctinews/20251012/index-76023916547253309002.html
 2025-10-12	凌晨手持麻绳爬树 外劳上吊自缢	https://eastcoast.chinapress.com.my/20251012/凌晨手持麻绳爬树-外劳上吊自缢/
 2025-10-10	麦浚龙被曝拍“真上吊”戏，替身演员被悬挂1分钟之久，任贤齐当场罢演，武指熊欣欣斥其心理变态	https://www.cnhan.com/html/yule/20251009/1125218.htm
 2025-10-10	男子板橋府中商圈墜樓命危 現場留大片血跡路人嚇壞	https://news.pchome.com.tw/society/crwant/20251009/index-76000345491058316002.html
@@ -26254,7 +26070,6 @@ var DATA_TODAY = `
 2026-09-29	Tesla司機衝黃燈撞斃不依燈號過路少女 承認危駕致死罪判監22個月	https://www.kinliu.hk/news/社會/Tesla司機衝黃燈撞斃不依燈號過路少女-承認危駕致死罪判監22個月/322578.html?id=58&from=channel&bc1=首頁&bc1to=/channel/INDEX?id=35&bc2=法庭&bc2to=/channel/Courts?id=107
 2026-09-29	Tesla司機衝黃燈撞斃19歲少女 官斥過路處加速不負責任 囚22月	https://www.hk01.com/article/60390959
 2026-09-29	Pejagan收费公路的交通事故导致来自Bekasi的4名旅行者死亡	https://voi.id/zh/amp/565518
-2026-09-29	Netflix重啟震撼懸案！30歲牧師妻墜落離奇死亡 前夫跟蹤黑歷史全被起底	https://www.juksy.com/article/150512
 2026-09-29	NBC新聞直升機洛杉磯墜毀3死 女記者空中報道交通意外遇難｜有片	https://www.hk01.com/即時國際/60390655/nbc新聞直升機洛杉磯墜毀3死-女記者空中報道交通意外遇難-有片
 2026-09-29	NBA震撼彈! 灰熊29 歲前鋒克拉克驚傳驟逝球團悲痛證實死因成謎	http://www.msn.com/zh-tw/news/world/nba震撼彈-灰熊29歲前鋒克拉克驚傳驟逝-球團悲痛證實死因成謎/ar-AA231OeN?cvid=6a0b5b1facbf4cd0b26c290bf19212cb&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-09-29	MISSION附近兩車相撞意外一人死亡	https://am1320.com/焦點新聞/mission附近兩車相撞意外一人死亡/
@@ -26804,7 +26619,6 @@ var DATA_TODAY = `
 2026-05-05	深水灣道箭豬遭車輾斃 伏屍山坡旁	https://hk.on.cc/hk/bkn/cnt/news/20260505/bkn-20260505053947899-0505_00822_001.html
 2026-05-05	台南女警遭追撞輾斃怒火燒校方 民眾揚言抗議 惡搞維基百科	http://www.msn.com/zh-tw/news/national/台南女警遭追撞輾斃怒火燒校方-民眾揚言抗議-惡搞維基百科/ar-AA22gyJF?cvid=69f702ddfbac489fbdcd0acec98911cb&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-05-05	42歲作曲家LeeZu驚傳離世！生前才道歉感謝粉絲 死訊震撼粉絲	https://www.nownews.com/news/6822808
-2026-05-04	華人新移民新州觀神韻震撼：我非常自豪| 神韻環球藝術團| 新澤西州紐瓦克市| 信仰 | 新唐人电视台	https://www.ntdtv.com/b5/2026/05/04/a104093073.html
 2026-05-04	乌克兰士兵骨瘦如柴照片震撼世界	https://news.creaders.net/world/2026/05/04/3000190.html
 2026-05-03	台南女警遭輾斃！未婚夫看監視器見「生前掙扎」心碎	https://news.pchome.com.tw/society/ctinews/20260503/index-77779002801712309002.html
 2026-05-02	台南女警遭輾斃！女大生今現身靈堂 「90度鞠躬」致歉	https://news.pchome.com.tw/society/ctinews/20260502/index-77768973348106309002.html
@@ -27637,4 +27451,153 @@ var DATA_TODAY = `
 2016-11-06	韓國遊覽車翻覆事故至少4人罹難- 國際	https://news.google.com/rss/articles/CBMibkFVX3lxTFA0WWxWSlY1OWVLaWFHdHhUNklWYXBva2t6azRjQ09rVlRlenZDeVNTYlZnNVlOdnBNSWl6ODBUXzRiSEVoRkRwUXo4am9JRlRZUnp3bG5wQk5kaFhpYXlseUNJM1lXWHVrd2hyYlJn?oc=5
 2016-07-07	疑自駕系統失靈！Tesla 又傳車禍翻覆事故	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tS2RhV1cyVzJxdGdUdnJTd2diM3F3bEdGa08wZWRYeExiUzVQS1o3U2UtcDRvNkRIdG5uTDJmV25JRlJKc05yNtIBTkFVX3lxTE5tZ1dZOFdDdjJnOUQzbjc5UFlkaGl4OVlaNFZfQXdYclV3RkVqWi1GS0xTWmZaR3cxWjJFYXlZODF1d3NacC1oM1R1Sm1kdw?oc=5
 2016-01-05	女工遭運輸帶輾斷臂 美心脫罪	https://www.hk01.com/article/1011353?utm_source=01articlecopy&utm_medium=referral
+2026-09-29	黃仁勳駁斥AI末日論 稱2030年發生世界末日的機會是零	https://www.moomoo.com/hant/news/post/76509577
+2026-09-29	西藏爆270死重大災難！世界第99高峰冰崩 「半座山消失」成浩劫源頭 | 國際 | CTWANT	https://www.ctwant.com/amp/article/495447/
+2026-09-29	羅傑斯預言成真?史上最慘烈的金融危機將發生,AI泡沫將被戳破	https://min.news/economy/86d10eb919fd70073d88f1575a4be496.html
+2026-09-29	矽谷AI加速主義者批大廠「末日論」 指控散播心智病毒謀求壟斷	https://tw.stock.yahoo.com/news/矽谷ai加速主義者批大廠-末日論-指控散播心智病毒謀求壟斷-084309660.html
+2026-09-29	直擊龍捲風撲棚！氣象主播播一半嚇壞「急喊逃命」 末日場景駭人畫面曝	https://www.msn.com/zh-tw/news/other/直擊龍捲風撲棚-氣象主播播一半嚇壞-急喊逃命-末日場景駭人畫面曝/ar-AA1WUhFQ
+2026-09-29	特朗普料美伊一周內重啟談判 伊外長稱準備好與美開展「末日戰爭」	https://news.google.com/rss/articles/CBMid0FVX3lxTE5Sc2JUQ2lZSHNGalBoY2JEeTlSLVlGXzFtVFRhTW9FS1VMbG5CQlpGOEQxQmp3VG04c042RnNvRlgyMjJBZHNhVHRzazdDSk1QaFNaMDBrRUkxSXNmQjVpa1U3NGROaU9fVWJqMHpOMmtqVGxFMzFZ?oc=5
+2026-09-29	灣仔返工大災難！早上9點女途人慘食「人肉炮彈」！1死2傷現場極恐怖	https://www.weekendhk.com/矚目話題/灣仔墮樓-飛來橫禍-最新港聞速遞-3422818/
+2026-09-29	曾精準預言新冠來襲、多項天災 泰國神婆曝下半年6大災難	https://tw.news.yahoo.com/曾精準預言新冠來襲-多項天災-泰國神婆曝下半年6大災難-074300819.html
+2026-09-29	昆明冰雹如末日来袭？密密麻麻鸡蛋大小 场面吓人	https://www.aboluowang.com/amp/2026/0425/2376357.html
+2026-09-29	專訪《風林火山》金像獎「最佳服裝造型設計」Uma Wang 與 SoMad，詳細拆解服裝末日美學符碼	https://www.voguehk.com/zh/article/fashion/uma-wang-somad-interview-2026-april-issue/
+2026-09-29	宛如末日！鹿兒島火山噴發白晝市區秒遭黑暗壟罩| 國際	https://www.setn.com/news/392854
+2026-09-29	官網變404！「三個200」神話幻滅？電動重機新創 Damon 高層大逃亡，品牌面臨倒閉末日！	https://www.supermoto8.com/articles/17105
+2026-09-29	卑詩山火酷烈 情侶逃生驚呼：如穿越世界末日	https://www.epochtimes.com/b5/26/8/6/n14824395.htm/amp
+2026-09-29	再轟AI末日論！黃仁勳：毫無科學依據 嚇人不負責任 2030年世界末日機率為0%	https://hk.finance.yahoo.com/news/再轟ai末日論-黃仁勳-毫無科學依據-嚇人不負責任-2030年世界末日機率為0-000025283.html
+2026-09-29	人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fU1pnZDVaN1l3bWZiZ05xWEdBX3ZtNHVRMFpmSGdPZEVQQ0UtN0xwWVVJa3RLZHd1NGZCZ3ZiNUZMaHVLNEZMNzFCVnBfYnp4WDRkZDJyVGxaTzNuUnZrNWlQZEJtdHPSAWxBVV95cUxQd3pPejZIRERKSGtqWkRwdVNya2hOaWhqWXVfTmItRlNDM19MejRybnNieS0zUENFdi13TnY3dkVaWWNqSnE0emZiNWhLQzRjbHpHQ1VRZGRkX0ZMazItdXlwdmp2clg4UGxjRFQ?oc=5
+2026-09-29	【這不是巧合，是正在發生的末世預言】 獸名	https://www.threads.com/@tribulation20271002/post/DcB1Biak3UE
+2026-09-29	【末日號角聲專欄】末世趨勢觀察：敵基督現象正在全球快速興起中	https://cdn-news.org/article/C2504230001
+2026-09-29	【未解之謎】伊朗變天！末日預言應驗！第三聖殿要來了？	https://www.epochtimes.com/b5/26/3/7/n14713277.htm
+2026-09-29	【智商稅定係末日？】OpenAI Astra 變身最強駭客！搵0-day ...	https://www.facebook.com/100064560465105/posts/智商稅定係末日openai-astra-變身最強駭客搵-0-day-漏洞仲勁過人各位巴絲打仲記唔記得之前講過-ai-網絡攻擊今次-openai-真係整咗隻怪物出/1481693040659364/
+2026-09-29	【7/5末日預言倒數35天】南海海槽大地震「規模恐達東日本大震10倍」日本將退回江戶時代？ 富士山再次噴發「癱瘓基礎設施」受災人數超過一半日本人口？【57爆新聞萬象搜奇】 Jessica Alba (1j5o5qH9Ex)	https://mshale.com/79c9b285/487ea89eeV76TjRRZY4
+2026-09-29	「黑天鵝」作者警告軟體業恐破產 一篇末日報告又引發AI恐慌交易	https://www.worldjournal.com/wj/story/121208/9341074
+2026-09-29	Meta 裁員潮前氛圍如「末日」 前員工揭員工狂塞零食、充電器	https://sunmedia.tw/news/Industry-information/1779005716-Meta 裁員潮前氛圍如「末日」 前員工揭員工狂塞零食、充電器
+2026-09-29	Dragonfly合夥人：DeFi「駭客末日」並未兌現，2026年被盜金額年化僅18.9億美元| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/dragonfly-defi-hacker-end-not-realized-2026-stolen-189-billion-annualized/
+2026-09-29	Citrini末日預言 2028爆全球智能危機 美股或挫4成 高薪白領齊失業	https://businessfocus.io/article/349320/ai金融海嘯-citrini-2028末日預言
+2026-09-29	AI世界末日 我不怕死 | 莫灝楠	https://www.stheadline.com/realtime-finance/3615549/AI世界末日-我不怕死-莫灝楠
+2026-09-29	AI不是世界末日，而是人類文明的新工具	https://scdaily.com/post/101075
+2026-09-29	8次空亡卦「3大災難」恐發生！命理師預言柯文哲最終結局	https://tw.news.yahoo.com/8次空亡卦-3大災難-恐發生-命理師預言柯文哲最終結局-074106970.html
+2026-09-29	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62歲殿堂級歌后猝逝-千禧年代憑多首金曲紅遍中港台-曾成已婚作曲家小三為愛赴內地發展後離婚
+2026-09-28	黃仁勳說不會、聯合國卻嚇瘋！失控AI自主駭入外部網路「矽谷專家驚傳出逃蓋避難所」世界末日危機近了嗎？	https://news.google.com/rss/articles/CBMiakFVX3lxTE5KRGJqUHBCY3ZIVUhPellHeWdvVVpITW55YUpKVl9TTmJ1WkV6UXZUS3ZkMEdJbzYyd1QwLTFfdDJEOFZkUkdaZlVtT2JUNlo2ZnJyQzRiMC1ZWm5CSVM0Nmc5Z2MxbG12a1E?oc=5
+2026-09-28	伊外長稱準備好與美開展「末日戰爭」	https://news.google.com/rss/articles/CBMid0FVX3lxTE5FenpaMWdSN014amxSYjgtWVB5NDhkUHNLMVMwRzNvTDNvNnJvTVdpbVRRYmtfZVZ5NmNEcTAzSi1kcFBfMWRCNGRZa29aWTB0TV95Y0pzb1FJVFpubXVMQUU0SUw5R2NHTWtsMW41Vmx0Z3BVeFhR?oc=5
+2026-09-26	亞運／拿銀牌輸南韓如同世界末日！北韓女將同台南韓金牌冷臉僵硬零互動	https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BRnNlWk00dkIwVnhvS1JIVXJxTlNyYmNMYW9TemR1c0lkaEhMSC1wTlpuTUhxUVQtS3I3azJ2UkpQekl3RTN0SkVvcVJrbG5x?oc=5
+2026-09-24	世界末日躲哪裡？研究揭全球最安全國家	https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kM3docFpCcl9GOWw1eXlQUnVuNGd4RTNzWjlWM1JlUGJjVnlxd0tGb2JiaHdCQjZPRkV1elR3RldYeE5hYzNmMlZDM3FPQ081bkNyY0M5TXFKZ9IBX0FVX3lxTE8tTjgyNEVmQnNqY1RFbW5RUnp3b2hlMm5PYnhrMG9WTDlDVUxrYndIOGQ3UlptSUdSbzNzbG5hdHVBczJZZ19VOGh2bVRTU0dWQkJHOHJpdDJ5dG9BNTUw?oc=5
+2026-09-22	黃仁勳發聲：2030年不可能是世界末日- 中國日報焦點- 新聞	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qVGlhM3lFcFE1WmJUVTAxWmR4Nk9pTzNrc0lqR28wTTZtN0lJWkN1dk82MTlUMDdLeDNrYnl3WjJsdThUUHZueHBNelh6T0pJTno2MlcwT3J3QUJBRUVRMVFWX2RCdw?oc=5
+2026-09-21	黃仁勳駁斥AI末日論 稱2030年發生世界末日的機會是零	https://news.google.com/rss/articles/CBMiWkFVX3lxTE44R2ZWM0pSc0tHc29pTDBCRWMweGdrbGJlSEZwaWpRWWc5bThPeGJUNUhjR200cGl3VHBKRnZvLTl5WFNtMVRJUi1TTHpPQ1NMcVpuMDlLSWtsdw?oc=5
+2026-09-21	黃仁勳稱AI世界末日說不負責任 企業有能力與誘因確保安全	https://news.google.com/rss/articles/CBMijgFBVV95cUxQajJsT0JNOW8zUHpBd2hOQmlBN2d6VVdWdVRUN3NoS1ZoLXdiVi1FWHBmWUdEOUU3Z1l1eDNreG1CNnkwZkZvUXpLbU0tRFBOY3Q0Sk5hZmxSSlpZWjJOcXRYdEh2bE1XbmpLMUp0UGRRUHByNGdqa1U4eFdvWWRiN0RSVVJaRDNtV2dlZkN3?oc=5
+2026-09-21	再轟AI末日論！黃仁勳：毫無科學依據 嚇人不負責任 2030年世界末日機率為0%	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlanZSVDhZOW02ZF9XM09iRGpiczI3S3lILXNCVzNKX1lWclI0NENJeFpaTkx4c05FcHpGa3QxT1k0V0ZlY0d0UlpmOHR3MmM?oc=5
+2026-09-21	AI恐釀世界末日? 科技巨頭籲政府管制	https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5Rl9DdGZzLXhTMnhlRTZ1WngzcmlxT195amR0S2xQZk9GQ2NUOE9xdTJYanI2cDV1QmVsaF81WElzX0Rjbno2VmpEUUlIWkRzZGNteV85cw?oc=5
+2026-09-21	2030會是世界末日？！ 黃仁勳批「嚇唬人」揭AI巨頭真正盤算	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRNUJwbGUxUGRFU1VHT2Z0Q2IxRDBHa3hvbGRMTUI2TDhzRW5GQW4waTMzQUVjakxaWUotbTJGNTI5TGV0TElSRHlrMGVRdXJsZzVnR2ZBUWZmdw?oc=5
+2026-09-20	討論牆 | 黃仁勳：AI不會毀滅世界 2030年世界末日說 機率是零	https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SYVdsSUplR0pkWFByTXJwQkhScnJtTlNDZHNqRDFxVXhxWHFiT2RDVWdXcl9kT1g4SGNISC1aOW1jQ2NfRUZwVFJaUXVZOTRvRTRCNzd2clprVUFvSng4aHNHTWE?oc=5
+2026-09-20	討論牆 | 世界末日躲哪裡？研究揭全球最安全國家	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNQ1RFT0diMWFXNlNfVDFVYjUzelJRRVBoNXNSYlI5cGZCSWJGeW5UbmNPTm9RZmxqV0JYM3NjaUJWVWJ1b05iZ2ZPbDhPRUZNRm9wWnZFY0piYkplNjhpUldQMFM?oc=5
+2026-09-20	再轟AI末日論！黃仁勳：毫無科學依據 嚇人不負責任 2030年世界末日機率為0%	https://news.google.com/rss/articles/CBMivANBVV95cUxONnQ3ZUhvaTBld3l3MW0xSnhLa01VbUhSRGxfaElEdWFVVTBlTEFmN3JmRVRremYxaVlhOFFLMkdSTWZLdWM0THg5RU42TTc5dmJ1WS1SY3h4NFNEZ0RtcjctLXkxTWt1bUR3TE1XQWpOVzNCOEY5dmNXaDBPbG5fY3FUZHhDRnV6YVdEOGlJT3BiLWJXdjFWRjZGWDZZUE5PWTVHT1dQQ05XN0Y0Y2hMUnFGN0hrUEhpYWlCOEtZRlpuUG9Td28wanpacHdWR2dvc0thLVcyNVlBcjR5bnZweWN4V09yWVBNNzhuWElzb182dVVpUVVEcHRaWWVwRDJaakhKQUpveDdBY0V0MWVuQzJ5Zm5YZXVjU1lHcXVOQkdyM1BKR21JQmpVX2ZtQkM5ckwtZmN0cVFhMFhydFlITjQyTkFYY3pOeVFUWXR2dkhpMW1LaGpFU1lld0tiUTI3M3A1dHhNMzhZa3VLbnZfbFFpX0JwNXRoUE1HdXVBd3ZqMVB1MHhtQldMNDExeEpwcXNXNWtUWFExNXQtc1l2MlRhWXdBdGpzM2lTLXIzVGNjX1k0WExhYWhkUkE?oc=5
+2026-09-20	世界末日躲哪裡可以活比較久？最新研究揭全球最安全國家- 股市爆料同學會	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GcHRhX2MybmNKTnNZLUZ4NUROYWxLb09qa0tNX0NCTVQwSUJucXlHYjlaZTBXWUc3ZmQ1TTA0OWUtWmpxSHNoekgyaElLTHVtS09JRFBBS2c?oc=5
+2026-09-20	AI會毀滅人類？黃仁勳給答案：2030年世界末日「機率0%」	https://news.google.com/rss/articles/CBMiigFBVV95cUxNR2R4c3gzdFI3WmpjY1NSNlpfT1RtamJobnNKMEdEZEQ3ZnJ2U0FBMFpjWFVzNk4xUVhIWVJ2ZXFURTM3NUpid0lKSjV1QS1vTTRYMjRTbmpnN3AtRmxfcXVVZTM2TktZSFRMSjliaUdXaHlreFZta1dhTUtIX2dlOVJ3QlFSM3IwVFE?oc=5
+2026-09-19	黃仁勳：AI不會毀滅世界 2030年世界末日說 機率是零 | 自由電子報	https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dF9LaTRKMTNBVVFKMnVqaGw0TXVXWVpfbDVTTzV3TGVtNVdCUlNtVVpxS3RlSzJfbmNsX1pjNmc1dEtDT2xTNVRtelpUeHdybVE1d3R3?oc=5
+2026-09-19	黃仁勳：AI 滅世機率是 0% 2030 年不會是世界末日 特朗普「騙局論」獲認同	https://news.google.com/rss/articles/CBMieEFVX3lxTE41LVUyazluTS1WTkc0azhRdjF4a1pmb2RrZmw4VlBQdmVFLWNHMjhXZ1R2OHJldGZkSkdLREh1OHpLa1k4XzljWkdGOXRQYXM4OHh5RUNYZEtubVFoNUloUm85SmY2SVlVNlhmbTVaYzRFbVBFVDhfeQ?oc=5
+2026-09-19	黃仁勳再度駁斥“AI末日論”：2030年世界末日概率爲零 作者 智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTFBqR1VfcV95YXpvN3lDVVBId2xLZS1kSkFWQUNvWmN3Q1JCSl9majJsaUN5R2ZHVDhWRmkxLTdmUW9yMmlkV2xVZlhXMVlxc3dFU0ZFenJTSVpsbTFCYlpoLS03S0VYQnJsN1ZBMDQ5ZGU?oc=5
+2026-09-19	黃仁勳再反駁AI末日論 「2030年世界末日機會是零」	https://news.google.com/rss/articles/CBMiwwJBVV95cUxPakZPNmJobXhYYzZTWjFzVTU0UFAxbnFQQkF1Q01HNkpLTjRYWjA1S0tiZWIxWW5ib0ZfZXZ2Q21kUjEtQk9RaWZkYjZ3Y0xmMTlDblFrWWo1dXZ3OWRtekJTcUl1MXRMWUhXWHpLUHBiYW0tN2NtZi1FWUlhaVNsQ012ZDVfclhkSlhvcUhtYk96ZHFiSGpaSU5OU2QzSzNUdV9TMmhfUlA5Zy11dWhUQ2s0SG9jWTFtSjhiMWktVzJYNHljazJaVzd6bzBjMkhGQ2VfOV90ei1PTlZiSHNCckdDYm9ZUWN4OTFZMlI3aWZLNUdveHQ3Z2RjX1pfT2kwVUhhYnBTU0RaekZmRnNsOUZvMXNMTVIyZWtqSHRqOUpGaG1FR2hZNnZhN1BVdURnR0NCaHVERW5TenNLNGNxX041Zw?oc=5
+2026-09-19	AI 該放慢腳步否則世界末日將至？黃仁勳：No，應儘可能全速發展	https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3Zk1FMUZaaTZORzBCTmdDYlQ3SEdtb1FGMEg5azZ5ZlpRNGxKb1Iwa1liQU4zU3FPd3ZkWmxVeWxyczRLU3g3eFdfeDVPeWhKcW1NMDZBTUNfUdIBX0FVX3lxTE9nU3lNSjN6aTY4cDhVOUMwVnFTSUtTRmFQeFY1cUFZQkducXZmTWs0Y0FhVkdPdnhNanB1cnBDNkRLUTBmbzU1dUtxZlMyLVkzaC1hcVkxZlcwQ2w1dDRZ?oc=5
+2026-09-17	又吹世界末日	https://news.google.com/rss/articles/CBMidEFVX3lxTE5McUpZTmI0emM1UFhGamlFSU1Uak5fRlVVb0g3VnlCYmlfWDFiZWFNbUR1dzdveExaaF9ZeDJHVVdwVG1LeEExcmpYdkhzYm5aQ2FVWjhzcV8yNk5RSGVCT1E3SHNyd3Y0b1hDS3FKWk5CZ2RO?oc=5
+2026-09-17	世界末日隔天還能通行的全球貨幣 創投人士看好它	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmQldYRlJJSzRnbEJYNkFZdTFTa1c5a2d3ME83Ty1ITlhqaEpab0tKcTh1blJDZTllOGxBZEt4Z3BjVnZVUUtZcGVMWGtYenRxLXNueUF3ZHBIcGxvRDU1VGhn0gFnQVVfeXFMUERlTmJVTG5TanRpUkR2VWwtZDQ0aUFIbGFaVFNhdmktRWh0VXpYMzNXSjc1VEZ2dk9FMktXN1ZjZFVUMUd6ZFZjazRQaVprTnVRUnl2MFBxRlBmd2JJOEEyT29aeFVVVQ?oc=5
+2026-09-17	世界末日躲哪？澳洲獲評全球最具韌性 專家示警「別躲都會區」	https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YYjdIM0cyYWt5eXdwRXpxc0x6Tk1TQ3hHblZQV19ad2lySHppWVRoS2lnN1ZUSThMU3p5WFl1al90S2ZTeVUxZ2dsQk4tYW4wSDR4aEhSdVl1c25lRlHSAUtBVV95cUxPVGx3azBmYzlSbGlDMTV2X2JtNkxKb0NXQzJnNERlWHF2Q0ZGMnlrQU90dHdGVGpsQUVaX29MMHFNd3lfaTIwQ3d0aWM?oc=5
+2026-09-17	世界末日躲哪裡？研究指澳洲「這原因」最能存活	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZeVpEUU5Zb1JvMnBSVTVuaXdVSFFlRWZEZEExTUd6UndwZWJ5UHhXMXVzY2MwTE5USGp5MzYxOUJnYVh6LVJwSF9WX29xWmJkSTl1TWJUbW5PWW0yRjlyaFFJc3FkQdIBa0FVX3lxTE0xaFl6cnhjUmpzS1ZnNWhaN01rYUt4N085eERFc29RVUpjSWZjemxqWTZRMi0tdUZHcW1XeXc4NDZ4X09hNFNyb3p1VnNHSEtiM200VHpKN3BScmdrbzhTSUx0OWhEd0JJeFRJ?oc=5
+2026-09-16	世界末日躲哪裡？研究點名「最能活」地點 澳洲塔斯馬尼亞上榜	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwWU53a1lqUkkyVk0yMWZXMjJ4Ui1MWWNidExndEVGaUdlakU3WllUUE5pWFFtak4tbmtDbkRaZ0plMEpNUzRQYjZSU3BlUHhu0gFWQVVfeXFMUEhmeVRSbWpzWXE2aWYzUWc4SGY0Z0RnWG5tWTlIU2VFckxETThrbXJpVjlHRnFWTzBPTnduX2YzVTRnbS1qNDFWQnZEdnNpWXVzRU9yc0E?oc=5
+2026-09-16	世界末日躲哪活最久？ 最新研究：這個島「最有韌性」	https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qeXQzVWNPU3ppTnV5SVk0V1NkaWdxV2lHaHhMaGUxQXFjbTdUVVlkTXdkbE9hUnJ4emt4U2pnZ1V3VmxsVmlVM0liMmJBQWhQTXQtSjQ2OEpHR3ZY?oc=5
+2026-09-15	AI世界末日 我不怕死 | 莫灝楠	https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSTRhMTUzdnVBbGNZLU9DYVhRZm5rVmtqQ3N3NkZnVi04VUpLSWZWQTRIdndxSnRZeVFXWXM5YnY5ck1ISnZxWUNySUlhM0pNdllUc2JpSzU4b2ZTRXdKX0k0NHlQcUFDZmhJVG9QbENUbGd2Ni1UdVdPWmFVdzNVMElrLV9zUXVYVnV2b05tYkVkZTJLc1c3UEVvb2hqOW5pY1l6WF9MLWxxNERMNWkwdnBqUm43Tl9INVdEay1CZUZjMXpNMmFmZ19HaFZVMjJqRnhWaXA3b3h4Tmlraks1ZVpRSzVIbDk5MUcw0gGMAUFVX3lxTE40SUYyd2JVWFk4OUg3VW45TnI1V1JVTEJ2VkwyVVJDcDk1LVltTzJRaGlQNWxjdVc0TWR4MEZSVXRLZlVxUkRXVThHc1ZOVm1qcDg0VDBaaThYTHh2LV9kNFlINC1aZkpva1ZKcV9NUlJFeVlkQW5sTFEyM29HR0E5MHpleml1R2dQNjV1?oc=5
+2026-09-14	AI 發展太快是否會引發人類大災難 「末世危機論」黃仁勳不認同	https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Na0FlemdudWw1amJoRi1zV3d5THN3cUw5TFlycDF1Q2ExSUx2UmhLd3p6b2F3Z3ZYWjB0Ty11ZzVVOWxENzZXd244T2hVdzVlR24zeE85MFNLelV00gFiQVVfeXFMTTluMk5xREdZTGlhVURQZ2MwMEFJLTVrZ2tMTExXQWY5UllSNkdJdTdyaDJja2JCRWRIUFhiYktUYUZBYTZtWE9NMVFWNHl1VHZSX1YzbnZqTHFUVVFyREw2dWc?oc=5
+2026-09-11	Miraizaka的Torimero III變身為「後世界末日酒吧」！ Miraizaka的Torimero和動畫「北斗之拳」的合作活動將於9月16日開始！	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ocXZjTm5lc0hySTFQMG1fT0xiWlBiTm1UbC0yNTBlRmYyMTVaWThUZXNNU3UyWDdZeUZJY1ozUVhqWGJNSC01QUEtNDMwSV9fTndFWV9hT1JtbU9OOTR6SA?oc=5
+2026-09-08	萬斯：敵基督或就在我們中間保守作家指為共和黨票源信念	https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHdxVEotcnB6c24xbllwa0syRUozQVhYRk9LeUpvaVhGU255UmRBNGU0Sl84MUhnWnhwbDhYTmRkUlRsZnJkZ3B5a1Zfc05qRWg3QmhieXk3YzVtZkF3OGJDcHpLaXhVbjc3eEtkMUxsbGlCanZrcEh2UTl2bUN4T0Y4U0hNMUVOVGY1OVJpLURHLWVKS1g0RkNJc2NmTFFKZnBCN1dvampJczFwYWJkS3BfeVZ5UE9MR3c?oc=5
+2026-09-07	麗塔·塞加托著《世界末日時期的身體》 - Universidad de Guadalajara (UDG)	https://news.google.com/rss/articles/CBMijgFBVV95cUxPS1o5aUc0Y0lzTDFpNjNSUXhJWnBIS2hIVml1NUdHY25mOUtSUHpxak85TlZhaFU2TjR5Si14cUZ2S1RTOEtUWVNITVV3eXA1eXlMUDUwQTZnV214RUFBOHJQMllsWjBCNWFZRWNjSGdhYXlDVnY0RS04ZS1wWkdpaVcxWktpTDV5aE5la0t3?oc=5
+2026-09-01	《希望：末日血戰》：在世界末日，與困獸一起等待	https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzWEotVnJIU1UwekI0V2VqV0N3Z2d4NnNMaGtoZzNqTUs1eDQtbkxnVldhT3NmTmdnSWpMNHlxX2VVSHlJaUhDd0VUS1ViOVRmTWhYcE5qbkpPUlh3ZkptbXZWOA?oc=5
+2026-08-31	【異靈異異】梁錦祥｜ 透過8.26大災難重温漢卡克理論	https://hk.epochtimes.com/news/2026-08-31/66058763
+2026-08-28	西藏土石流彷彿世界末日！人車瞬間被吞噬駭人畫面曝 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ITDVkOWJUSVRfeUJaaGR0TGdVOHdqTzAtcDVuVVFncnRTNHplZE9UODRIdHRUY04zeFFoX0JCbGlaM1F4NC0wNUNMY2NSVHA0WmlJMjVR?oc=5
+2026-08-28	西藏土石流彷彿世界末日！人車瞬間被吞噬駭人畫面曝	https://news.google.com/rss/articles/CBMi6AJBVV95cUxQcG8zaXBCX0lLN0xpbGg2SlN5elBtQ000eldpWnhjV0d5eUxNNGxhX3hsVk81aE04NnRKWnNYeHRIbkdEUEY5c1FjdTFIbGJ6SjZha1FXM0tFZXZ5dTQ5SjY2ZXZrY2ZDZE4zY2xTaHhDTU5qZVZOUlhNVXV4YkpjMmVDckRJM2ItbG85LXQ4aTNlcTNnRl9xMS1Ld2psZWFKVk1NaDZwN1RQdDV1MzRubUJwa0V0c2NyekJncjRMckswZHhjLUFIdmFLbGF4WHJMQmtlOW5pbG9XZ0lqYjA3OUVhRXZab1NudkxIMUFydndZWGFPaDluMWFTejBWdHBtdEVVcXdYem96Wm43VkdsSkhvWThob2k5YWs2X01mUFZ1QXhURTJnSlgzS3FlcWxDaU0yNEVvMlVYeFI2OWdVeVlBRXQ5MmdvVWNDZFA2Wm50WnQtdHF1UXdpcUhEejFpZVRNUl9SSWM?oc=5
+2026-08-27	如世界末日...尼泊爾山洪最新畫面曝 工人40秒絕地逃生 泥流如猛獸追趕	https://news.google.com/rss/articles/CBMitgNBVV95cUxPZ00yS1pPS1g4YjRBNXkwYzNJaWp2VjNpMEJrellSWVkxQk1yelpQMnFYUTVqZEQzaldnOWNNMlNnVVhCNm0zeTBESGczNmVOaTNFZHJ6d0JITlZiRUhrU0JaQUxUQUZEWWtQa0xXOUh1R3lvZUNQTU1idTI2ZUJTMU9ETEIxcU5MaGZUbm1POHpHb01INnNiOENvN1ltYXFEanhUY09hRTg2WTNEQ3NHWkVUanRzMDZCWHY4SjZqNnMySEZlT1hJcHNBM1dSS2VYZ0lKMUhLNFQwMnlOZkV2Q2Nta0R0RlNjSmN5NWZNSlhXVTZiTE5JRi1qZFFiS2tremhhaE5YcTJsWVh0MUhqZkZQUmI3am9UN1p2aWo0eXBhQnlybkc1WVdMdzZ6OFdnWnZjY1F4TG5teS1VTWx4OVZWTUdlcVI0ckNUSFpvb3YtaUNYbFVaejZmSXpnRjl6OURjc1F6ZTBrRXdjR1ZrX0J3amY3d1pXNXo3bjd3Y2hrd0tSYlF1aDJNbldodVZDRmtlb05NVTlXRnBPYno0UUdHQ1dlc043Z24wUG1mdU1Oekw2dEE?oc=5
+2026-08-26	影／彷彿世界末日！ 西藏土石流驚悚畫面曝光：人車瞬間被吞噬	https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VbGZUVmp2NXV3UDhpdUNaY2s3cTJCSUlSSjUyVTR5WEJjdnFxRnVqeWZPS25ZSWFCZnR5OW5LUzBYWE9rSnNyVGtsbm43YXN1Q1REckhjU3NSZjVTN2fSAUtBVV95cUxOZXVyZjkyM3ZSUDVybkg2RklqNGRybUVVaERlUWQ1Y2VTby02d3paQjFERDBrTjlaRXBHc0ZCZE1MMmh1dDFrX2JNRU0?oc=5
+2026-08-22	龍，獸，假先知 數字表	
+2026-08-22	持續的經濟衰退下行 #七年大災難資訊	
+2026-08-22	如同持續緩慢地進行的死亡1/4 #七年大災難資訊	
+2026-08-22	任何概念都有正面和負面，光明面和黑暗面。啟示錄早就啟示了一個負面的「三聯體」次序，這也是一個「新世界次序」，啟16:13稱其為「三個污穢的靈」，出自龍，獸和假先知。當然，假先知總是以先知自稱，否則不能迷惑人。這個負面三聯體的數字之和正好是666： 數字表	
+2026-08-22	。前三年半 > 瘟疫 > 戰爭 > 經濟衰退 > 持續漸增的死亡1/4 #七年大災難 次序	
+2026-08-20	當世界走向末日，反而是戀愛的契機——法國卡堡影展最佳影片《世界末日愛上你》08/28上映	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdDJYaHlLNFFVS3BWZGlvVkREenFweTNUWjR2TGpDTTZyRG1DM0NqTjUyTVVZVUs4cVFxRTZOUEVOSFpOYUhQTmVnX3RLMnhOajVGOHRMRUpSWTdNcWtFLdIBZkFVX3lxTE0tUGhaMlpEd2pjWlRTbk9qWllpdnZDejdtR3JZSUk0ZHh6Qm42V05DZGM4ajRLMmYtYUliMjdJUnl6aE4wRUdkckVfY3BNUzZpdks5V3pwVHViMXhxQUNBdkl3UjFEZw?oc=5
+2026-08-11	世界末日愛上你| 院線電影	https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hbWI5RXNBNHVEX2h6RktJQThmM1JON1FXLTJGWXdOcE5vUE9rTDVoSVNpeVZmMFk0dzdTdnFMcHMyTG9ZekRwcjNEV3FFNnlnRVRZ?oc=5
+2026-08-11	世界末日愛上你 (正式預告) | 電影預告	https://news.google.com/rss/articles/CBMiigJBVV95cUxQOTJPSV9xbGFHZ0lfRzNfS3cxQ3l4b3ZGcXRfVXRVdDFvZXJ3dUc0SmZVdWd5YmtCekxYNXJXWTVwWVFROUdsZjhFNGIwZVJ2UjNvc3VuYUNOYU9KYXZhMGlOdlNHNHZ1Qkt4ek9HWFlTdHVuZE45WlJwSGphZlN3ZE4xV0h6TGZyakRfbmVZbnZsT1JOVUgwcDVzQjJURUtOQ2s4ekl5ZlI0QXMxMDZTSWpPRzd6Yjh3UnVCRjRhUTFhRDhZWk9fUEtTZHJPMmFJNlk1UWpSaVZiSGRBc3k1SkFMYVVfeWx6dkM1LS1rRVVOUEUwVVhXNEtpcTM1UEVZa3ZVRFNqWnVudw?oc=5
+2026-08-10	網民影 Megabox 露台 話自己初學執相執出世界末日 他人回應: 影到今日氣溫	https://news.google.com/rss/articles/CBMiakFVX3lxTE1oZ1VnWHRfT3ZXNzZNVWVlRjAyVEl6R2ZWZGJJSG5MczRVWEdTcmV6S3NnZGx4bUNuRDRKZDhkLW5vRl8tMnk0em1lSG1GdHVETHdVdUVxcFN1STBsZVBCV2N4bWotY3NMb0E?oc=5
+2026-08-08	人工智慧害世界末日？AI設計出「16種全新病毒成功」 專家警告恐成生物武器	https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyNTZlSXozRVZwNkVnSm5pc0dJUl9YTnhibDhNeFA4eVhOWHZicW9ULXZwWjVwZ3poRkIwbnVGbmNKTmlfdTNGMkdKLWxnMEZXOXc?oc=5
+2026-07-30	東京上野突落冰雹 網民狼狽避難：像世界末日︱有片	https://news.google.com/rss/articles/CBMi3AJBVV95cUxOX3JxQ1p5NGpFTTIzeUlWSGFXaV9pdmo3Sm0tYXBzMy1Wangwc2x3bUd4S2tKZ2lpVFhISzRDeFZkTmFrVldmaTdJYmEyM0ZHVVgtdDV2YmQ3MUpFUUh0bzJQaVFiLUVFenp5eTBsN183MlpjTDBlczJJdTlFcDJUaHpHWmcxcDljWjM1MlY0M3N0NVMzdzZRanN1ZEN5b21qNkFCZlRlQTlub3pnNmRiX1JfcUVSLVRlOEN0M09uOWJxTGplR2piaTk1OWtzNGtHc1N6bzJMRDRCYVpDdEYyM1Npenl2T285ZGs0TGY5R3U3QkxmSzVIMUtjZzc1Ym8tNnBUajFFSl81ZmFqcmRmaG9hR1Nnc0JGenpRWXJUenhOMlFqVzBieFlPX2N4YmljUVZKbklHZGVVZW9aVEpZN3RsVUY2WWRMbjZVenJldTVlb3NLNEZ4ZnZfamY?oc=5
+2026-07-24	曾精準預言新冠來襲、多項天災 泰國神婆曝下半年6大災難	https://www.ettoday.net/news/20260724/3207145.htm
+2026-07-18	警察沒考上先遇上「世界末日」 寶萊塢兩大男神徒步大逃亡 逼哭坎城9分鐘	https://news.google.com/rss/articles/CBMiwANBVV95cUxNVUVxWVFxOG1iQmJKdjdtMzU4N29vOHlYM1lkZ0wtUy0ySHYxb2ZyZGRSazUyM19DTTI2WEk5aHpQSjduYk11N0w4T01JVjZha2pEZkJVeWdFQXctTVRDMzM4Q2s2b3V5MUtFSEM3VGo2OTRRTURSUGxuVFZmUE5ZcjYzTDNrcjRWa3pUQjhhYzVXc1BvaktfZGhQRGRDNUtGR19QU01obFVGcWtzUXV4R2ctTXp3VzFYUkZNcFNtNEhfSWY2VW1MNklaVVJ6ZlN5cl9NdHZwMjU0RGluR1NLSFgyTUhWUVN0RVctTkJMTWdSOTJzYi1WTDR0a3VTUEk1dm9YOXNPN2ZOLVdjUHRScGJyV0hWTHRuVDR0U2ZRNjdnUDBVVXlNVHFIRHBzc2N1V2lEUFN6aERCNU1GR3o2TFk4NXZLR0ZrWl9pRkdxX0xjWkJXZU1FMHhfOVUyU3FZRHdjUGE1RkRudDNUVWtRaGVHb25lZU1QNThUeWFjVjRyVFhhYVE1dWhES0kxS2hPWnMwTHhheXJHS0dER1EzV280d0R0T2ZKaHhEMzI1ckpUNU5pZmdHZ1BJbl94c05t?oc=5
+2026-07-16	志願者曝廣西災情：災區如「世界末日」	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pczZmZ3Z2TVJwcldsNFl4RTE4UENCTDJOSUtlcDZDbmk5QTB2b1ZsOUdJVGwzcThia1JRdWJfMVczNE1xOU12VmI5UHo1di1NRUR4NWVNNmtoV3FqY1UxNNIBZkFVX3lxTFBTbjAxMmF5ZzlQUWZBTlRyTWZqeU9YS2ozcVJZem16eVNmMldIa1VkS3VQV2RVYUg5R3gtWU55YVZpNmE4RmpLeHk0ZEJFUUZUTlFSbWduY0dRNkZzSVNRWG1mRkZlQQ?oc=5
+2026-07-16	世界末日只剩蟑螂和它？M2五零機槍百年不退役的祕密| 軍武科技	https://news.google.com/rss/articles/CBMiV0FVX3lxTE01dUYtME5YdERkOHljVVVOVndNS2Jzb0JibFdHN0lWWi14elFxRVlEYjRjVXViUHJYRnVSMjFGQS12RWF4UTB0X2ZNcGJlMlM0T0Z2VjFqQQ?oc=5
+2026-07-07	世界末日？ 西歐熱浪沒完來野火 西班牙已毀7大安森林公園 | TVBS	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OTlRPd21ES2t2YjVOSWh4WFVhc1E4ZW82SGZpYjY2cVRFYlk2M21nenNJZHprRFV5QzRvMkhETWU5RmRaVFVWV2dUbnRFb21zd3ZhMUFR?oc=5
+2026-06-28	獨留歐告在家「哭成淚汪」 委屈狂抓門宛如世界末日	https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BQzYxZXN6eEJmSWV5RFlkV1NzT2hOSUFob1VHTVcwV2ZyZHNHbFNNZVdPQmh6SnFxZ1I1SXpuZUFZRG9JbVBMcl8yYzhrUdIBTEFVX3lxTE9XT0xHNXQyb19hTFZqTUQyOE15anc4bURtck5RNDFXb2VOeVNwU0ZrbDI5SDRMQnJCdFI3RWVvaGkycU1ndEFLRDAyOUo?oc=5
+2026-06-25	一場末日浩劫：被世界遺忘的緬甸內戰- 紐約時報中文網	https://news.google.com/rss/articles/CBMikwFBVV95cUxQRk01LVBiTEpTVjhLQTdvcUJDV0d1dHZXNWRWT1drWFA2SDhDRWFhZXlYR2V5SnhQazV6SHhPV2s5WjJZVzkzblVZUm1zMUZHS2xpYlpMbi1YRFlCUENrQVdqdUtna1FaLVlEbTRKSFNUeXBoMENjR1QtM3BrQ1BBSTZqTk0yN2JHZWplWXZ4Q1Vfa2s?oc=5
+2026-06-12	王柏傑、柯佳嬿分手16年罕見同框 昔喊「世界末日都不會分手」	https://news.google.com/rss/articles/CBMi-gJBVV95cUxOaGhBUDZhMWh5dmVoYjdnWGdFNUxjeHFTMnJsanlJaEpmSDc5Qk1fc2RZQWktOERUUmR3NkhobkU5amdwc0swOVFNekJ1ckJEWUo1NHZBdlVBRnhjMXVjWkFDdnlSX1FyVFlGSXBRZThBbTB5aEZ3Z29qTXZMTUY0UHo4RlVud1E1TlVWRXpqemZBc3NURjhMcm5XTklPd3VoanEwVlJQemo1T2thdlNIZWIwM3lxMGRlQVJiM0dNOTc1dzFFbW5vRnZwbUlfWXJVNkhORVBMSjdZS2NzUS00NFd2SEZJeWJTMzFVY1BJTG5NWGZKenR0bFc1QVY1ZEJ1UzRIOHQ0bHpDZFlJemFteUV0ekdRLWFYaTBmT3BGWnFsZ1haYXFLZDdjR2JJaDB4em42WVJ6M2tDTkpyYW53Ry1PaW5UblFfb2tvUDRQdjJFWkZuRnBiaWd2TFY5aXdJY2ZSLU9MLVNXV1dVa3kxYnVEMmJyVHNUYkE?oc=5
+2026-06-12	(影) 「完工就是世界末日」144年魔咒打破！聖家堂封頂教宗親揭最高教堂面紗| 國際	https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ISWdkaXA2VDdfYjJMWEJ1cnc3MGVyemtVeThtdEd0RmJfWUVyMVVQWXRYYVhJTERic1kySmtTVm0zckxrU3l6eGcteUptWkZLbVMyaFNPeEt3ZTg?oc=5
+2026-06-08	跌一下就在世界末日？大盤沒有回檔20％根本稱不上恐慌…小師傅：天大的加碼機會擺在眼前| 台股雜談| 股市	https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wTUppdmQ2REE1OHNsSXZaeUUxRjlDNGRvazBxSV9NbVBmUHZCZnprdHBUMUhXbGJFbHZKM2xzMlU3bndmaUYzeVhzd21BZWVYUXc?oc=5
+2026-06-02	面對喪屍也要賺流量？卓芭子《即使世界末日也要閃閃發光》 的腦洞大開旅程|未分類	https://news.google.com/rss/articles/CBMiS0FVX3lxTE56QTlTMzAwTHk1LVBfUkJNbE54c1Z0VzJJTXdmd3B4VS1yM1JoXzJlbk1JVFlSS3hndlVBU1Fib29fUUFvUGxQSHJoYw?oc=5
+2026-06-02	烏克蘭遭大規模空襲11死逾百傷 民眾悲嘆宛如世界末日 | 中央廣播電臺	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RMHRWZlhQQS1DVFNaY0JUTmZ0VUwyMUZibnIxNk55QzFIOGZFYjhHeVZVYmJTdWtZQkRzalhvMnNubmFONkhYX3VTMTZXMFV1bG9WZ3FR?oc=5
+2026-06-02	俄猛轟烏多地釀10死百傷民眾：現場如世界末日| 國際	https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQanFFY2NQaThmbDYtVmlaLXJWdVF2SkhuRDE1bkFlWDE1SlZxSzdFRWk1bUdtRkpzcDZscDlPX0VRZG9WLWZXRVotWl9Rc2JkUFFFQ19MLWlQUHBKMUlv?oc=5
+2026-06-01	有片｜哈爾濱遭遇罕見強沙塵暴 一秒天黑 市民驚呼「世界末日」	https://news.google.com/rss/articles/CBMilANBVV95cUxOZ1JDSUdCZm9yTS11Qm5YQlpqV0pSWG5IdVlmZS1hbXBFMlJfQTRYdTVnOWQzUENCR0NlRk1VbklMMUVDV1J3TERobUVOMEVVSjBBclRpZndDOGlOSnVSdmZZSnd5dFJJYXpUTUJJMUdTeVhvTXhtaWx6d1k3MGRTbUt6UVptRFI5cHRnNlVtc0hWYzk2WmJSLW80blFXeDVETWpmblZ3MlduWEVwbW5kTEF1M0dCSnBhTEpmM0pLMVBfNDRucDcxZGZKbFdjRGpuWlFTQUVLLWpFaVVZdU53LUo3ZlZOcHJZcUo1OWlRZ3lyaENCanVjUHoyRXQ4V00tYTMzRzNweXhkMlNLanQ3VDZUTUw0dFdQZU50N3dHenZLajRVbVAyNzlZeDk4Vnp4bWpnZUJmSDczb1hMOFhmSGRLSDYxRElEX1BtUnI1TEh2LVZMdFpwZHhibUdqTUdNRDFvVlBtUWM2UjJ6aTlPMlZaRlJjU3EyVEJKMmJuQ1VRUHFMVHJZSW5PNUVqQWNIdmQ1Zw?oc=5
+2026-05-28	立威廉囡囡遭傳染甲流高燒40.2度 極罕撰文怒轟自私家長： 錯過考試不是世界末日	https://news.google.com/rss/articles/CBMi6AJBVV95cUxNaWdIVEFXaEJ5WDNyR21ra3dxaFU3LWdpNEJNazFYNkJXbXlhNDBiSnRnSjNxc3hWRVBYRXhWN3hNRk1YQ2kweDNEQ3BObnl0NUwwUlM2aUJWQjFqWEtiUzVCSEt5aEo0c1lQeTBpQ2JqMTNmX2ZkMUN1ek9FWi05QjE5ZVNXMGQ1dWhNX05iakJJdUctNUttQlBnWlNSRlUtNzBMb21ITTNBV2tZS2tPQ3dxQnVjd0wxTDV2VUp0NmVvZEZxZUZMSldiWGNFQUxwYXN4SU5LTjdTT0FQWnpwbnp5dndZdmc4THlCVExRc1hTNUxZYmtYYkFTQXZHeWpxVzlrQnRGS25QdDFvS0hXM043amdfZUJTVV9JUkt3NlFURTQwMER4Z2d6T1BBQzlkbW9fY1daMVlLREd1UTdTa1lYbXZJdnBEVS1xeXRCS0hzbDdad0JsSDk1RnNEWHpuc2NXNk5jdV8?oc=5
+2026-05-26	【試玩】世界末日前你會打電話給誰？冒險新作《薛丁格的電話》帶領玩家探討後悔與救贖《Schrödinger's Call》	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UT0xIbWxDYzRDb0MzeXBobFZqQy0xajM4TmNza3MyYmIzUm5UWTJ0R2xSVDl3WHJSb0xoaWF4eUNtR3JWWThNU2tXR2RMXy1jWHVJeW9idWk?oc=5
+2026-05-26	OpenAI 執行長：AI 不致引發失業末日 人際互動難被取代	https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQzJmYkZfa0w4OFBQVExoX0lrZlBQUUdQYXVpc3dRWFlGTGk4VTJpR3JYNGF6X1BMTTl2eERSTjB5M2lGcUIwNUx3TUdkdUJSOC1sNUJFUWZZUdIBX0FVX3lxTE45eUd0Uk9UVWdlbkkteXFjaUJlMktnSFRsWF8yZ1dld0NCM21ua0ZiMWlwTVhpakpQMW13RDd5T3RXdW1FQWotTGF1Q1hYZjlZYjdadDhjSTNuWHdtZzRZ?oc=5
+2026-05-24	【BitS26】荒謬時空冒險《雷吉與世界末日》試玩 以重力跑酷修復崩壞未來	https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NEhERzZ0WERhdWR3QzNEMEcwbFJ0TlBDMDZpbGIxU2UtUEViLVhDeXpld2Q5TDJZXzlIS0NDdk9Ib3hLZjVlWFV6dmowdmswcHRzVlNlbG0?oc=5
+2026-05-20	歐美爆紅的「AI 災難片」！Harry Styles〈Sign of times〉成世界末日專屬 BGM - COOL-STYLE 潮流生活網	https://news.google.com/rss/articles/CBMi6AJBVV95cUxNa0pOdFhHRjBHV1U5aHJWWXh6NzU1R3kwSHFLdE0zZzFFQ3JzM1BsN09iY3hScW1tRGtRTXZBRWFFeU9qMGV1Q2lROWlVcEF2WU5WY01jZVdnVzVFdVZMczV4TG1kNVRWckNqMmdsTFNhelhubHpYd2NIVGJGQkpiZk5uZ1pISEJnUHgtUjJQNV9UdWJIRF80TzJqRkhzWTZ1VUNZQk42OWktSXJtZ0U3SWluT2JUaTZVZ0pkRnpfbmZoOXU4MlhoRWFGTHA0X2ZqazFHcUVzcVAwbnMyeUM1SUdCTU9aVFFBRERtbDMtQ2djMGdyRF9TN2oyYW4wX3QwRUx1Y3hBV3lkUER5WHVXRTdGM2Rad0tCQXBfczJrT2tFU0dpdE52WjAtWkpSLTROWEdyd3RPQ0JhTWF0Ml9wZ1JQQV9XQ01URkpKTzVKMHRla0JNeUROVFA4cThGYzVEWG1VZjhFSFTSAe4CQVVfeXFMTXB1SFRUQkVWVlh3Mnh5eV9QMFpLcUFBbGRJMmZqckF5MDZ3Z0x5UHJGaXkyYlpNNHl1RVlUX0JtT3Z0S252TmlOS2Z3NE9Gdlg1ZkdLVFVnRFo5OU1ZZTlkY09jcDJkZVAwc2hHWmNrTEZNNFF1Z1Rjd3hkcTAteXVkNEpTM0RVWndKYkhsRG9uNlRUY21mbHhOeDk0RUJVakcxekJYcVpjZHZSZ2JqUEkwcWN2RkpLeVlDVGdtYU8tNVo4SV9JZjlaaTZIdlNZMUZQSnRHVkcyMDI1TFhscXA4aGNGMzNNWnVKczNrRXpqRGhHczNrN0VVSEJ4NXBfUmJTUGR1YXR6RE8xajE5STVOaGR6bWdpeloxUkIxbVIzaFpIWmFfRjczVC1lcjZEdUhzQmdrVmRJN0ltT3pGMnljMkE5LUJOaXBHTGVVYVZ2Mm1kVkFOeUQ1UFhZTUdHVDE4TjlyOVQ5bzl1SFFn?oc=5
+2026-05-15	獨家訪問：劇迷大受打擊：簡直係世界末日！ 全城難捨《愛．回家》 劉丹號召𢱑撈重聚	https://news.google.com/rss/articles/CBMi2gRBVV95cUxOTHlQRklHOGlQT1d2YlNPaTNPZjNUWkV5SHdPZVNSckxmMVNnaGI5UTBBZ0N1dzZzamxMY3RZM3ZBcV9wX0hUMnJVSkNoWkdKekF5eTduZk1pUnl1Q0pTSzZLbWVNNHlrd2hQZ0JXem5HQ3FCLXNCU012eEk5UG5vaXBnejdPdEE3WVozZGdiSUk0R3RJeWRwbkMwcGQ0eUVjZjJMWWlSX043cG5WRFE0bS05cTNOVTRnSlZ1WXdSUmZvNTZVVWJ4YVhocDVoaEd6UjRscXloTE1HeWY2dl9FSjh0cGo2dXE3S2NBMnFXQUx6V0RaUnNxRFRhZjVXb0tzQlVobHQzc05SSTZYd1h6MEs0eHpObnpaQ3ZMS3Z1Z0lZWHJEUGRrMldpd3ZtLVlWTGdhX2hfV2ZlUFJIamxPNURlTHFGQ25vVFJuSkQtU01TUDl3dUxLNG1RbmFyMThkcVVlWmhWUU9BZmFRUnJQZGpxOUN5elVHeEZJdlFLUTFjS2piTXk5Ni1TZ0tsTVlxdmRfSENJaThwR3BBY1loNjVzczk0dDhodnVBUGdLcXl4d2NNWmQ4V1o2OGFyZEJHeGpyc0M5LXd3LXBpNm1pWTljX095WGRfMGowR3Z2czcxMzhNdG50c183OXROeXJUemxtT1FhOHNfOHczZnNXeE9JWE84d2wwUnRGYkJKempBODZWcmQwUk5zc3c5N08zeTc5VU9xMVF5VEhKOEM0ZHlDeW13QzVQdVN0MjFUaUkwNlB4UnUxemYtMFlCck5mTnVyN185Vkh2dw?oc=5
+2026-05-01	全球知名導演克里斯多福.魯賓睽違7年回歸TIFA 柏林德意志劇院《不過就是世界末日》5月登臺拆解家庭記憶| 大媒體	https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0WVgxUmxzWVo5ajdBNlU3Y0k3YkVWUXVuZmQ5dTltdnFpdFJqU0RsNXZUVTBGajdydVR0R2c3WXBHWE1GQVE3bkl0WEhlaXNRaFVaZVlR?oc=5
+2026-04-30	魯賓執導「不過就是世界末日」 呈現斷裂家庭關係| 文化	https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZWGVBaHNpbWxZcTFCdEhNWW5Nbi10Qm84bnVHdHFoOHJab3dVN2RCYW9LdXQ2V3ZxOFpUT1Vld2x2bS1zNWNZT01OU3VkUE9VWWNNYUJnb0luZF85VTd3?oc=5
+2026-04-30	魯賓執導「不過就是世界末日」 呈現斷裂家庭關係	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WclRILXhjeHh4ZVNUVTVVSEhQMEJIcHlwdEcyNlNuQXVROWFxdE1La2N5R0RQM1ZfcGM2VUx4N1U4NUVnNFE1Qk84Q1NhSVZKcEE?oc=5
+2026-04-30	一場返家告別失語 魯賓《世界末日》揭家庭裂縫	https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NcFdWX29mN182T1FxMndnZkNNOHJvTWg3S1JpWEk2VzFCYmxRbmI1aDRTQk5BdUlxMm02bjRaalp2eTh1OWxITmJHVU02MG9Mc0luRDZDbw?oc=5
+2026-04-24	相信我：假先知真面目	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IR3dFLUlWcmlmZVNLUDFWRWNxS0dpaUQwbFJtWmJWaDBCVGJPWVRkT20zTVNhVUlfcFdfRlFUYlFfZVdraVJGdDBuYjM5dWo2czNN?oc=5
+2026-04-23	世界末日｜NASA預警地球末日提早40億年 揭人類會缺氧滅絕：僅餘1物種生還	https://news.google.com/rss/articles/CBMizwNBVV95cUxOWnBCOVREeXZrY2RGUWVYX3J5VW1wekpfV1owUEtFWW8wS01TWGZiaVpsNnpGblVZbEZHaHV3SHlUa1Z1TFpJOXVhQnU4NDc2eUJoQVRXZlZDdUMtb0djT0ZMQjl0ck9sOGNIMVJlSGNsVU55U09ZYU41THIySFhhV0xGQ3QwRmFrd3M1Q2QxblB2VE5sX3p3QkxpYXdIRlBvMUpiVWVxbnFnU2U2QW9CSTA1WTduejdNU2pienpUTlNYMFhKdjkwXzZ0YmR6ajdDY0RWQzZXOVNrb19QZTdWYTdGbjlQYVAzZFAzVVBGclo3cUxPNUZhV3hFb0c4M3N1S3ZQeUpRZnc0Qkx2SEw3c2RHYW5jay1ETU5NM3hJT3ItSmFyQ3RvXy14NUxKR2FvelgyQjVXQjIxRlhYaUtfakJzc3ROOEtLUnhQMzVxNGQ4V25ienJnZVhXMjNGVDFacjRWMXRucGFONGtJc2lfWEdZaXdZSXoybmNua014dk5fZU9lRWNYMFNOaUhleDVoRENYaC11Z0VTdFZubXNEbExjdFBwYnNvcGE0Ry04dEVuSG1SbWtjYkpsT1ZHVU56YWhWcXdVRUJWZzFXdE04?oc=5
+2026-04-19	世界末日提前到來？NASA揭地球毀滅倒數 最大凶手是它 | EBC 東森新聞	https://news.google.com/rss/articles/CBMiVkFVX3lxTE52bVFCZWdPcnc2ZnBfWW41T3I3M0RQTjFtemUxVTBWU0s3S1BCTC1JalJmdERwcHNpaXRMRnNadGdKT0ZWOXBrRjlleWppZElvejFBaVB3?oc=5
+2026-04-18	像世界末日 新疆現沙塵暴 數百米高沙牆遮天蔽日（視頻）	https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2Wjl0a1pVbkp0a21XRGh4VmNPWExqWGFyb3NYeDIyWFJwWU5ZTVhXUlRzeVY4TmxlR3lORVZKNUh1WkZiSkxOd2FrcS1tanpDc252bS03WDNGNXhfM0VRWdIBZkFVX3lxTE1VWTY2b1g5ZW40c3g1TU9HQ09XQW1oYW1aRHpQbXd0LVJ4TXNSVXk1RTFYNTZVd2tiaW1ZMFgxYnllal9pSFN4NFpmMnZ3WUdUbVhFbXZ2N1RvTlJiSmZ2QXEwRlZXQQ?oc=5
+2026-04-07	《末世狂沙》(Sirât)：導演唔衰戰爭衰| 黃嘉瀛 - 虛詞 p-articles	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IeTRucVY0MGZTOTZtMTZBaUtOcmtNeVo0WEt2LVlRektMV2xBUU1RS2lCYzQ4bVJzMTdQMEFxWVlnUHlGT21uN2xJcW91LXRjNXc?oc=5
+2026-04-03	災厄時代！沙塵暴抹紅天空如世界末日 希臘狂風洪水致1死 | 太報	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nTlFvNXRGTVRpSy1SX29ldllxa3VlYl9fUTA5SWh4UF9NVkN5WEpWbmpGTGF1VktxT1VFZThEQjZ2cU0zN2o5QU1LQzgyNHBuZVdlanVR?oc=5
+2026-04-02	第三次世界末日！意大利連續12年無緣世界盃	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPVk5TOUJneW9BdGdubGdDdmgxYnhNdHVSVjBsMjNRdFVMdWo4dmRKYU5MOUFSQjFVZmhta21NQkU1NzZ1ME1UcVlTdk9UWnVzbHhiTkhRZmc4ZmREUnp1TtIBZkFVX3lxTFBOTXpneDJXVXNHRGtWS3AtS28yNTRRS1g5YmRaTzVMd3REUDZRbU5oU0JVNGctUl9VVzY0d09NSWlrNklGaktuUGdDT2hPWHRlenRBZkpfdWV3MUFIN1c3ZnpYbTlUUQ?oc=5
+2026-03-31	澳洲驚見「血色天空」！如「世界末日」專家說話了 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnTDFvU2RDQm9hWUtGUlZNMmdtOE9zSDFLX2VLQll3Q0xIZUZ1VzAydVZES3huM09GUE5OckE2Ym50Vm9scHFyeXlmblAzZS1HRTcwVTJR?oc=5
+2026-03-15	【2026TIFA】《不過就是世界末日》：多藍與魯賓，電影與劇場的經典文本重現	https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NS1hqVEl5M0MwenpNMjBEbnFoY1RneUowNl90cWpBOGlGcnQ1THNzUFY2c1FWRF9zNnlvUkNnN3lkaF9yczVOd0ZOeWlZRTNtWXR2Tg?oc=5
+2026-03-13	墨西哥海灘驚現9米長地震魚 詭異畫面民眾直呼：世界末日近了？	https://news.google.com/rss/articles/CBMisgNBVV95cUxQZTlSdFY3cVExampRdXd2MjN1VjN3dm5xRng1ZUp5bHBka2JqajVyZnJLd3B6bWZ6NmwwNVRsQTFxbG54Y0JPNVJ0NFZMcmlXUm1CdW9XNVFscTZEaXo3WWFPTnJVdlFLQTgyMFg3REllaWx5dl80Zld4NS01WVdhZDFES19vX0hWMU1WenN6cGppejA3bmR5a3g1YUhUWGZqY0VZc0RNNmlBc0pCNDVyRXdhSFpfakx1N2ZSU1pySjNHbWJaNlVZd2FGVWNxZDYtRFlRQzJfcUI3RzlsZUUzX3FTTHpJY1dhbEhxdnl0QkxRYUw3T1RsZWl1MDc5Q3FpaWpwNmlvd2ZTWm4wS1hqY2ZLb1d0YW1pOExKVUlyYm5ONDE3eG9FTEh4V01hQ2hzNWVUQXBCcjJrb2wxNVdxUGdVZ3c5Y1pmZ09aQjlXZWl2cU5DbFQ4QUFwbDgxX3o1VEhFdTVnTXcwNFFtXzU1RmpLdmN3c3JwLWhFRVVwU1RwbUhIN1RsYWRhcFVGVmpQVFRhQlhZT0JMazhtejNNTEpwOVRpNWJXSVB0dlFpenNyZw?oc=5
+2026-03-09	克宮警告「世界末日將至」！普丁發言人痛批：國際法已崩潰	https://news.google.com/rss/articles/CBMi6wJBVV95cUxQcG1TV3Jlbms1emVoTnlOTUtRWFhpZjE5amUxQTNXcnVXTTQ3NVdCcWRVNkV0Q1o3NmJNblVzY0tLemFLQXBTdUFQa3d6TE9lczBqWS1kaTRELV9oQlI1QUF0cVBVX2xHcnVkQXlNZ1hqdUs2emhFZExpUVZxeWI4QS1MSzg0WThERU1vN3AwMkQyT3VKc0VHc2Y3YnU3dGJoU3lRaGdVM1RzUXR1M0RLajUwTXBWQmQwUzFXSFdPOXQtMHJxeE9WdDV5bkZVU0ZQcjZIZGktWElyd0Q1RGlKbTJEVTlra0cwaVJ1TFZtZzlEckF2bFhWLWFRREx1M1BpaVk0b3Q5a0V4SEV0bk50RHAyZHJuc0VEUmthM2l4RW9zWnhUS20zdlJkaGFmdVRMeEEtMXVtaDBPcXZzT0NWNHM5TGpKUTNBUWcxR3p3R3N4WTVfMHNmekd2U2Y3OGI0TW91U0JNWHNfSFk?oc=5
+2026-03-07	【未解之謎】伊朗變天！末日預言應驗！第三聖殿要來了？	https://news.google.com/rss/articles/CBMiX0FVX3lxTE00QU9sci1SOEZlaXIxdnI4bVJPUTV5QlRnX1ExN1VmUTVNWjRvRm51RlIweEI5VlVEd2FSM01nSTZLODZuSWo3bE5iNS1Gdktvdkp4dy04d1FKNDE0ZzJF0gFkQVVfeXFMTk1OaGFwR0RMVVNFYmdKR3NiWDctOGNPTUF6TGhCa3A3SzBQOExjLUpyVkpYUDhPMDl2NUJUOHQ5NE9LVU01eTFzNi1Vd2VrWE1LeDJ1SzJLRVpxRm1EMUg2bDQ1Tw?oc=5
+2026-03-07	【未解之謎】伊朗變天 末日預言應驗！	https://www.ntdtv.com/b5/2026/03/07/a104073860.html
+2026-02-14	分辨SaaS世界末日下贏家|香港經濟日報	https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYU1iSEthQlhXTVg2WDRuaEFOMHB0ZndUZmhSV1lUTGtuS1d6SFAxNVpWODBGQzdiSHNpb3UzZmFvM3g2emVfU2kyN3VPVFdTOFRjNHpmbUFMTzZUamNWUnE3ZXZyYXc2MFQxdHlKZE9sQkxCMzZsM1JuOXR6a1hjaFhpV1hVMlE5SVlSRWpabklwT1JBYUp5OGNFWnA3ek5KVlY1SzdGSnEzbDZoc3BHeFdFZUJWY2txT2xzNzRwaFBkRTg?oc=5
+2026-02-04	2026年世界末日？物理學家預言「呢日」全球滅絕 、《科學》期刊揭元兇非核戰	https://news.google.com/rss/articles/CBMi2ANBVV95cUxQdG5MZzBUaEZmR00xVUc1eXRLbnY0RzJiSWxyWXdwUUZoZmNuazRITWFkVUtKQ3h3bHZEaTlUZmgyRldpc193TWdZSTZpSGxyc1otVmpvS2FRVFkzRVNhdHJIZFVYMEZBV2o1TzhxeG9EdXNpSnhwOE1XczIzQ0FKZHdmOXlFUDJ4V0sxOVBoQjgxVmJFSnhxZmotcXhvQXNJb1FfMUZ3WXpnRHREWENHRGVab2t6UFBUZEk2cUhsd2ZmRVo2eE95T2M2a295M1lTNzJxM1l6NThCVWsyV1BmQllwUzA4R2tfZjVnS3cwTlpsT0ZLZlFiNm8wN2Q2d1NqTFNxTzVERFk0OGZEVXNKZ0JiWTlyblUwcXhUM29pUkZHWWM4V2J1MlNCcTVPbHJabVNrZ3UzSUljSWtKejJCcFFrMmVXM1pCdWZYX1NDZm0xME0wbFBXSnIxTHV1bzc4V0JuOGdWcnZZc1lpcTFRVi1Ta1Q5NXp5ZkFlc2Q5bkthSS1SQlJSS1dHUDdKT2xHaHhCVnBaMmFWc1pnNlA4QlhxZV9xa1RCd3ZZN0pZOTBhZHM3NUFYaTJnanRQTzVuZU5PZE14NGlEYkN1S19LbE5fRGVuSkNq?oc=5
+2026-02-02	獨家專欄》鄭宗哲屢被DFA不是世界末日！那些曾被DFA的超級巨星| 眼鏡哥看體育	https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0U1FKYmhPbkdBRmRJUVY3TUtEc25NNkw3VFM2aFRXTElOYlBqdDFVcE9objFoSUpNQkRpdmgtVHNncDQ5VDdqQXBLWW9jU0xab3R1MDBB?oc=5
+2026-01-29	末日鐘再撥快 4 秒 僅餘 85 秒 戰爭、氣候、AI 威脅 世界末日漸近	https://news.google.com/rss/articles/CBMi3wJBVV95cUxNUHhlSFlJMVBXLWJ1aWdHcEc4eWxJYk9KRWpyS0tsMTU1N2djRDdrZ2dtLUVaUWFRNVRWaWcxT2lqT2JwdjVmbEptM2lSSml4Y0xub3NmZ2ZSU0poWTJkZVllTHFNajdIVkM2SnFoLWUwOENySDVfdXFnU1YzejFHeWc5UkRiRzZZMEtkdjNTWjdPNXljNGgwNWhuNGhHTGIyeGJLRTQ2UTF3UUVkTHNVVDNsRS1rTlo3MGp4SnhTSU11RkxvU1pSR3lYV1VEQ3NVNHcxLUFrcEVSbU5NNFZfMWs2OVkyTEY1OXhKd3I1QzUwR2xJOWJQM3d5MWlDcHhZWE1MWlFUeF9IaFNDM2NLRHhTZG9ZMjR5cUNkS01WT2R1ZXFpV0hsdWI5ZHd5cDAyb0RSTHB3eXRjbm0wX2tLa2lCc2hITE9YSjJVN1R1Xzd1Y29VdzlLT2FLR1VnUGM?oc=5
+2026-01-28	「末日鐘」撥快4秒 距世界末日僅85秒 大國侵略升溫、核戰風險、AI威脅等所致 (16:17) - 20260128 - 國際	https://news.google.com/rss/articles/CBMigwRBVV95cUxPb0M1NUw5YVNYZ2JQODVkc0Rwbkd4Wi1XSVV6amF6VzhxbVIwdWR1YllGZTdTSGJ4VXQtbXI4TXBxd0c0LW1mMXd2Q2h4VjE3aXRiZzFCQ25oMUh6MUtEV0NjZ0tUdnJGYzVndmxCLThNdUZ0MkY1RWRoeXNZZEhnVWZOZ3F2eDZqSWZOR2E4NnQyUXFWMml0bFFGM01DZ1FWeXlnYlRZRUpuM2Z3S3cxbTV4UXQ2R2Zna2VQWmFibGhVcVhNMEZPTnZoZ0xUSjdyaExBNE1WMUdQbWdVNjR0UF9NSUZpS2ViNE1rQlAwQVVCUXREVGtxZjNrN3Bad1Q3MGRMOUZZOS1LTC14a01RQXVRQzQ2YU5tNFJHMmZ2TEtuRHEtLTBEY1o5aFZ5bmhrYmV4N242akNSUU1HVDRQLWg5MnNjdU5UTDVkVFpaM19NMW5PZXdsVjFiTjNQWVdGYmJTVWdZZElsYXpSczZmdjNHX0ZXREpjLVAzNjBtTUpQQ2FocmlISGg0SE9rX2RBT0tLenR2b1drelh6b0hlREg4eW1qSHk3T2M3bzlvWFV2N09hNkZLYVhFR0o5dFE4dmJUaFVHUDM5cnF1QnhEUm5lUmpFMWxEeWkwdjlHeEtyWlZMYUc4UUFMT1pxTW9uSDVJaVpoa2gwYTJQejJDSlhYcw?oc=5
+2026-01-17	NBA／輸球就像世界末日？霍姆葛倫笑談回應球隊低潮與雜音	https://news.google.com/rss/articles/CBMiWEFVX3lxTE91TGZNQ2ZTVnRRd1ZFaDNlTXVydDg5cFhKZE5feU9kb3ZpNmtJRTZGQTkyOVZ1aE1KZUFqYU1qNi1zdWlWWFRXR0lWOEF5T0xiRGg2TTNFUTfSAV5BVV95cUxOeVpkUnBJY3FBdmduUXBoWmxPT3dzUWlpaXF3NEZ5QUNOcDd5dlBiY0VZTjNVUUp5WG9rSUJEWDdINWRDaTVYQXdtUW1KbC1qZlF4V0NEMWlBdWEwTUNR?oc=5
+2026-01-15	台灣KFC宣布經典原味葡撻停售 網民大驚「世界末日來了嗎？」	https://news.google.com/rss/articles/CBMi-AJBVV95cUxQRnd4bmJ4LXJCOG1iWFVYQzF4cWFzSGlIdDZDaHh3cWFWakVUSC1BMjQ4Y2lEMl9feHFJNUpiRVB1NldzWmhqVWw4N2lsTHZMU2E2dWRJblVaRkV2MXZXc0ltcXlZdXp0bTh5eldCblprSnBudUVlQUZwMGE0WUVRQkhFWlFDbDREY0p4M0tPYkxTUEVfMmh6cnVjaDBwRVE4Y0gyZUhSMno2NVYwWkhleHpjWWNuX05QZkd6QnpzWkE2Z2NPbU1sXzJYVDlTVjM3UXBDdU1YTEpzR01ldVFNQjZKV3BtVmhvenFBMjJmdnNpRUFYNTFudnJjQ0JOVWJOS0h1R3JXRzRzREJjZFFzWTN6Q0ZodGgzNVhZTUNYY2M1MDVUNGFqbTVKN0dCdGkwcDBQcmhIQW9rMVhXZy02aXQ3WjBfVGtLUUhOaC1IMU9iZFpZY2VxV18xM3k0TkZZVVU4dXlyZ1Q0cWk0YVYzOHVxbElUdlZY?oc=5
+2026-01-02	物理學家66年前預言「2026世界末日」：人類被自己擠死	https://news.google.com/rss/articles/CBMiwgJBVV95cUxObDVPeHN0WmZPbFV3elFVWW5EUXBvd2JBWldMcjU2T3RhT01DVDV0ZDBpRmlGNjFpM0gwbExJVjBUdXM1bDNoTUs0aXpPM3hJSjhvVEdJVklodkdERWc2TG9kT3BIc1RzaXhFR0NPbTE5Zm5uckVmVjNMSmpsNk9INzhhb1hPU29wV0ptbnNyM2R3N3lUeExXRVpnTWJpYnNvQ21LemlSdUY0MXJKQlVaX29aeHowVTNDWHpfWEI4TGlKQjl0RnNoYS1xYmRKdmJvamEwTWFxNXVPU01BTXZWU2JINHVNMnRiQ1RQU19HbjhyYlhKaTBMeEZHMXNuOE93ZDFFbVZyZktTQWpHck1ndXZSbGRzbTB3b0hHZ1VDRC01WS1aN1RpSUtNampVVFNIMDhsMjFqRUlNZk5HQVhEdjVn?oc=5
+2026-01-02	2026年11/13世界末日預言「科學死法」難逃？恐比盲眼龍婆還準	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWbUlKMnJXRzBSczFJUmFhNm14VUI2Q3ZaQ0FRMk5UWDcyblhCdE5BZVNlS3VJN2hodDlPanY2alpvNXZ2YTh4elhJcF9DbHc?oc=5
+2026-01-01	2026世界末日？物理學家預言：人類被擠死	https://news.google.com/rss/articles/CBMijwJBVV95cUxOcWhpWG91dkVIWm1VaGRGZ2UxVmhxbTQ4Wk1BTU1IbWJKVlFNVExoalR6V0RxVVdrTEtVQmhEMjdYRXFQbWtaaFJuTVRYMDFzaGdLRnpoamtfNXF0Z1E1c2dCanpHMkNJLUFvZmpnVlhnckRzMU4zcS1Fa2c2YlphX2hwT1ZkamZUZ1lhOThMNnpKSUh1cHRzUkhfajE0Nm44YWZCS3VXMG4wS2ljRlUwTVJTaXF1aEl5SUt0Mkp3WWFjYkZKZ01EWThVNjhtQUdQNVdNeUprWnE5UDZWTjljMnp1S0gzWFpkcWZJOTJpdzMycEMzZG5vbU5kTGJnaTVMQXpCYzEzMVl5SDlNOHVF?oc=5
+2025-12-30	【世界末日！？】「茄價」暴漲冇蕃茄炒蛋食？	https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QakZJVGUyQ3F5cUhzQzVEaWVnMEdlNGM3UUpNZFk0WEZ0Q0VLcDZpM1J0NU5YNEtuTVlMcG82RGN1bmFqeDhDN1BPblk0WGRWMllSbERrMHV3V28?oc=5
+2025-12-10	【未解之謎】預言中的七年大災難要來了嗎？	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDcXE2T1FXYUQ5TEZPVUVGXzdnbWxVTXJlOXVBRnJMcGYwNlFVVzEzRTBMZGFpUVU1R0lwVVVCeGVvQWgtTWpHTFpvV2tTS0xjd3Q3Z0pzaW9XWEctUW16ZtIBZkFVX3lxTFBneWtBRmdfOGZvZ2dyZFV2cFc4Z0lRYVYyNXpxNUdMNFhYcS1ZSU9XNEhjNkdobDNISTM4M0tlZnJrd0U0V1Y0dUxNQlNoX1AwVjBUWW4wbVR4eVNUTHZKY095ZkppUQ?oc=5
+2025-11-03	王君馨「世界末日論」9月23日審判已過 ：耶穌佢話會隨時返嚟	https://news.google.com/rss/articles/CBMikgNBVV95cUxNUEtOS3dXWmt1SjA3eFZyR0lWdVQ5d3BJMWdob1cwM25qUHV3WlJLQVpTUG9ic3BUTVh6b1huM0VWcnNvY3Q4MVRaNFNBOUpmaDFJcmtwdzl4ZFZRN2xNcS03MnBkcDhLeXY3NnpibGVqSGlEdW1JS3dPcVNtWjZSSVpEVXlkOFo5MzBtdFExd0hNSnEtaEJtamlwNUN4TEhEZFZkSkRweW1vNlRzQUVzQWtzbW9xOFV6b1hxVmY2RUJ1bHY1MFh0RkxTQ01PRkJPVzR2UXhwX3dXM1lROERmQUptUWgzazEtd1p1QnowRkFDWUdHdWlxLUR1X3RJVGZINXdCQlA0WUxUekY3TEQyM0h1NC1TRUpPWFZaTV9qbVkzWlFJNXVaOE5ZMGVlM1VCYmN0YUNLMDRadTllUjlOYkNwMmJZdHRabDdMR2luaWVTOV9TWndjbnhUM0J1M2hGbG5HWU54X0VJelFUandiLW1LSWpPbzZBUURDdkdYblBVT2w0R01fdEx2Yko2VnU3TUE?oc=5
+2025-11-02	《末日危機：喪屍來襲的末世戰爭掛機AFK RPG》 Zombie Strike Idle RPG 美漫3D卡牌畫風召集英雄對抗喪屍大軍| 建立最強生存戰隊組合職業與陣型策略制霸末日戰場	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2MS1rUjVpUHhNZnd4cTJpZEJZRVJ3VmxwOUNKbmo4WVM5ZjZWb0hyMnItekhYbVU2WnJMeUpvVDN4SE1iMGdzWDZUb05uV0JEU3N6SnAxbFhOXzRVVktuc25aZ2FQZU0?oc=5
+2025-08-04	七年大災難 2025-08-04	
+2025-06-18	劍與橄欖枝之間 全球牽一髮動全身 以伊等戰火點燃末世焦慮？	https://news.google.com/rss/articles/CBMiakFVX3lxTFBUNl9oMTh1cU9qdENTbVpzUHpXUWVWRkZpaXVoaFhMYkVPZFRjVVJDVlE3RkJiMVFxVS12Tk4taG4zcG4xYzZIWHhGaEVhX3NTRDlDT2tSY3BYZy1TSnEwQ3gyZkx0dDhYd2c?oc=5
+2025-06-10	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62%E6%AD%B2%E6%AE%BF%E5%A0%82%E7%B4%9A%E6%AD%8C%E5%90%8E%E7%8C%9D%E9%80%9D-%E5%8D%83%E7%A6%A7%E5%B9%B4%E4%BB%A3%E6%86%91%E5%A4%9A%E9%A6%96%E9%87%91%E6%9B%B2%E7%B4%85%E9%81%8D%E4%B8%AD%E6%B8%AF%E5%8F%B0-%E6%9B%BE%E6%88%90%E5%B7%B2%E5%A9%9A%E4%BD%9C%E6%9B%B2%E5%AE%B6%E5%B0%8F%E4%B8%89%E7%82%BA%E6%84%9B%E8%B5%B4%E5%85%A7%E5%9C%B0%E7%99%BC%E5%B1%95%E5%BE%8C%E9%9B%A2%E5%A9%9A
+2024-12-06	屯門安定麥當勞6月中結業 街坊痛失24小時麥記呻如「世界末日」	https://hk.ulifestyle.com.hk/activity/detail/20034919/%E5%B1%AF%E9%96%80%E5%AE%89%E5%AE%9A%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%B5%90%E6%A5%AD%E8%87%B36%E6%9C%88%E4%B8%AD-%E8%A1%97%E5%9D%8A%E7%97%9B%E5%A4%B124%E5%B0%8F%E6%99%82%E9%BA%A5%E8%A8%98%E5%91%BB%E5%A6%82-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5/2
+2024-10-27	Anti-Christ (Dajjal) 敵基督者	http://www.islamicity.org/topics/anti-christ-dajjal/
+2024-09-11	停戰是「預兆」？七年大災難的開始(圖) - 預言未來 - - (移動版)	https://news.google.com/rss/articles/CBMia0FVX3lxTE5mZVFFS0J5U2kyYzJqMlU3NE9yZHUyVFdHVXI2aE1JRW9pNXJaRnREb1p2N0lOQVpXR1MwbzJEZGZnWEdicUptRzV1SzQ2dG1tLTFLZU55QXlIREoxX0Y0ZFNxcmdteF9UN3dz?oc=5
+2024-09-10	人氣爆谷店Garrett Popcorn本月撤出香港 網民稱世界末日紛挽留	http://www.hk01.com/article/1064583?utm_source=01articlecopy&utm_medium=referral
+2023-09-19	末日博士：美國需進一步加息 2%通脹目標屬不可能完成任務	https://www.hk01.com/article/942451?utm_source=01articlecopy&utm_medium=referral
+2023-07-21	阿拉伯國家結盟整合快，正應驗以西結書末世預言中歌革和瑪各之戰？	https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSaUJDU003UUttQ0g3eHk2bDBBbzZrOG41YlUwUVZkblU1TnFqeFBiTkZUaGxkMExRbjFZT3hlbW0tdGhaUlZwSGZmdFQwdw?oc=5
+2023-03-09	【專家之眼】哈米吉多頓的世界末日戰爭	https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tWERTdGRZNHB3VnJhRF9HczRUTHZWZGZGOTYwRkEwb2R1eVNMSkVURFhRX2ZrZml6UExkYW53aWJWbDRYR2pkMnctNk1fUzQxZ0HSAVhBVV95cUxNd1ptVHVlcjdIS0VpblRlNmNBcEdYT2xMZFVPNzVzMUVZZGxtSnF2bVZ3ODZKWW9USjYzLURyMWpPd0dLNkRiRmt5Y0YwRzlBd1BTWmFnSms4?oc=5
+2022-12-12	「倒閉潮」預言成真！廖老大北市分店全沒了...	https://ent.ltn.com.tw/news/breakingnews/4152725
+2022-09-26	德州成功培育5頭「紅母牛」送往以色列，「末世訊號」再度引發討論	https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFNC16SFdUeEhiT1JLaFJSN3FqMUZDSVpfaWdicmo5bURlZzJGbXFrNTQ4Qm4xS0VFeC1UemtWQmxaQUc0UHRTSmJHMGs1Zw?oc=5
+2022-09-12	葡萄牙里斯本洪水泛濫成災 居民：像末日	https://tw.news.yahoo.com/%E8%91%A1%E8%90%84%E7%89%99%E9%87%8C%E6%96%AF%E6%9C%AC%E6%B4%AA%E6%B0%B4%E6%B3%9B%E6%BF%AB%E6%88%90%E7%81%BD-%E5%B1%85%E6%B0%91-%E5%83%8F%E6%9C%AB%E6%97%A5-020929809.html
+2022-09-07	非洲乾旱恐爆世紀飢荒 南極「末日冰川」快融裂 No Water	https://tw.news.yahoo.com/%E9%9D%9E%E6%B4%B2%E4%B9%BE%E6%97%B1%E6%81%90%E7%88%86%E4%B8%96%E7%B4%80%E9%A3%A2%E8%8D%92-%E5%8D%97%E6%A5%B5-%E6%9C%AB%E6%97%A5%E5%86%B0%E5%B7%9D-%E5%BF%AB%E8%9E%8D%E8%A3%82-140915547.html
+2021-09-27	以色列育紅母牛 為《聖經》末日預言做準備(圖) - 預言未來 - - (移動版)	https://news.google.com/rss/articles/CBMiakFVX3lxTFBHa3BqS056WFllWGhGMlVVNmpsOGxSMXFJaWV1bVY4MTZXMmR4QXR3ZWdVbTRual9zamxzQzcxX1doaDEtU1VsYUZQWVBEcmM2N1lZRkZ2SWdtbjBaamtlTjNna3NETXY1OHc?oc=5
+2021-06-24	【末日號角聲專欄】以巴衝突的歷史必然(三)：大災難中的假和平	https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UdnJhZmhTcWExUHhMV3EzOHdiSU1tVFJnYlViUmpzSGJEMDYzTE9hd2Zac1c2Y0U1TGV4a3hpUnFHX2FjS1UwNk9DQQ?oc=5
+2020-08-26	準備迎接「聖經末日」？以色列聖殿研究所培育「紅母牛」	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BVG9YakJOUWxZOGdJclUxWFhJYmFxclpfUDc5TXBIbjlqX3AwUktlUE1uX3lsRF9CcW1sT2xtWEhOQWFhbHpFeVY3T2ZvVkc3X2M5dllCcEsxd2xtTzNUZ2RtS2NvUQ?oc=5
+2020-08-26	以色列培育紅母牛 為《聖經》末日預言準備	https://news.google.com/rss/articles/CBMiX0FVX3lxTE04ZDZuRHA2S0ZiZEJIbWg4NkhSWkI1bFY1aHhrNFRQOTBMMEFpNTRzdlM3NS04RjVFdTc5ZTVLXzNGbGp3RkVLM1VsMDFHZ0pzSm00VjFpWEZRTEtmNzZn?oc=5
+2020-08-26	《聖經》末日預言中的紅母牛或已出現 彌賽亞即將現身？	https://news.google.com/rss/articles/CBMiW0FVX3lxTE93R1Q5M3FObHRidVRmOW5FTVBORExSeFRaUEJZdjE1aFY1UWl5ZmdEREkwR3JQbm52TFEtTFRjWjFTeGR2Q3JfVm1FMEJmSEdDTGg0X1BJa2N1V1U?oc=5
+2020-08-24	以色列培育紅母牛 為《聖經》末日預言準備	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEVUhTWnJkdllsV0ZZOUdIV1ZMUXZDZENBa3RTTmlVaXB5UFdDeXcxSHQ3blVST29Sb3NuanNzRndpNmI5N3VGN0ZKTFBIbWtoLVZxNVIwLWZNNV9TUldtZtIBZkFVX3lxTE12UDFLRHFJWjBhVU9XSjBBTWVST3RWSXVBV0NCckJIOUZvNXhtc3RmTXJFS1F3bXpNWWxYWXR3eS1XeW9zX2Q4ZUlWQXB4cVNZakhmQkZNWXl4Z1AyUHN4X254YkI0Zw?oc=5
+2020-07-03	猶太拉比：中共為邪惡之首 或引發末世戰爭	https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5M01WbGtJWnd6dmhQM0VuRmtsbUY1NGdMX0xXQmxiVlQyLWpTcU1GMkhtYV9CLTludmFPWlhmS0ktWll4dm0xZkNveWxJRnhoS1BNWXpnOENlanUzeUR30gFkQVVfeXFMTld4V2ZDZXdvSERvOVlpRzVwYUhWQkUtcjFUZ2ZwSHRRdnM5X2NaZXdla09ERTRpa25HVWZaSEdnNF9SUlRSdk9XNGgwLTZ1TG82ZDhLX1JHTHhCU1dLVEFSUmIxdw?oc=5
+2018-09-10	紅母牛在以色列誕生 或示《聖經》末日預言	https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tei1naEhfRGxtbm9feTEzR0J0OXN4SURNMS1IZTluZGw0dHd5SngzZ19CdUg5Qk93bEk1MnNoS25fLTY1U25yUmxFNVpUd0RxMGpSWVNuYzg3NmZxdFFxUNIBZkFVX3lxTE1Wc0xuUHY5WU0waUlVRjRlT3A3S1d6cGFDNVhwbFdZdFNaejZrS0tzYmZOdUl5cHYtc0Y4S1lrdlJCSmV2SV84LWFqMy1OWEZQSVhsdDdMb2hib3pOdnJScjNuZEtodw?oc=5
 `;
