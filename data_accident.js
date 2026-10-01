@@ -1426,5 +1426,4 @@ var DATA_ACCIDENT = `
 2022-03-09	印度奪命瀑布遊玩！姊妹自拍失足 全家下水救變6具屍體│TVBS新聞網	https://news.tvbs.com.tw/world/1895915	未分類
 2022-02-12	民眾騎車突暈眩跌倒 ｜ 暖警緊急協助送醫	https://tw.news.yahoo.com/%E6%B0%91%E7%9C%BE%E9%A8%8E%E8%BB%8A%E7%AA%81%E6%9A%88%E7%9C%A9%E8%B7%8C%E5%80%92-%E6%9A%96%E8%AD%A6%E7%B7%8A%E6%80%A5%E5%8D%94%E5%8A%A9%E9%80%81%E9%86%AB-042547275.html	未分類
 2022-02-12	北大武驚傳山難 山友「倒栽蔥式」倒臥步道 疑失足喪命	https://www.chinatimes.com/realtimenews/20221202004722-260402?chdtv	未分類
-2019-10-16	【恐怖工傷】蓮塘口岸升降台疑吊運期間飛墮 壓中女工浴血重創	https://www.hk01.com/article/1011381?utm_source=01articlecopy&utm_medium=referral	未分類
-`;
+2019-10-16	【恐怖工傷】蓮塘口岸升降台疑吊運期間飛墮 壓中女工浴血重創	https://www.hk01.com/article/1011381?utm_source=01articlecopy&utm_medium=referral	未分類`;
