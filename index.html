@@ -431,7 +431,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div class="s-label">DATA</div>
 <div class="s-title" id="data-date-title">2021 年 — 至今</div>
 
-<div class="chart-box"><h4>📈 月度趨勢</h4><canvas id="mom-chart"></canvas></div>
+<div class="chart-box" id="year-curve-box" style="margin-top:20px"><h4>📊 年度死亡時間曲線（2019 → 今日）</h4><div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px"><button class="ycf-btn" data-ycf="ALL" style="padding:4px 10px;cursor:pointer">全部</button></div><canvas id="year-curve"></canvas><div id="year-curve-note" style="font-size:12px;opacity:.7;margin-top:8px"></div></div><div class="chart-box"><h4>📈 月度趨勢</h4><canvas id="mom-chart"></canvas></div>
 <p style="text-align:center;font-family:var(--f-mono);font-size:11px;color:var(--text-dim);margin-top:16px">數據收集自 2021 年至今 · 每日更新 · 共 <span id="proof-total">—</span> 宗記錄</p>
 <div class="subkw-box"><h4>🔍 突發死亡關鍵詞分類統計</h4><div id="subkw-list"></div></div>
 </div>
@@ -985,10 +985,106 @@ requestAnimationFrame(draw);
 }draw();
 })();
 
-/* Data Loading: data_today.js（15 類合併，由 upload_to_github.py 動態生成）
+/* Data Loading: data_timeline.js（4.7KB 輕量，首屏用）
+   + data_today.js（已剝走 URL，6.37MB → 2.22MB，延遲載）
+   ★ 2026-10-02：原本一次過載 6.37MB 造成塞車，已改分層載入。
+   --- 舊註解：data_today.js（15 類合併，由 upload_to_github.py 動態生成）
    ★ 2026-10-01 修：原本仲引用 data_0000.js（已刪，404）→ Promise 永遠唔 resolve
      → 頁面卡喺「資料載入中…」。而且 L975 斷句令 script 標籤殘留、JS 語法爆。
    現在淨讀 data_today.js，onerror 會顯示錯誤訊息而不是無限 loading。*/
+
+/* ═══════════════════════════════════════════════════════════════
+   ★ 2026-10-02 新增：年度死亡時間曲線
+   用 data_timeline.js（4.7 KB）畫，唔使等 6 MB 資料載完。
+   資料來自 build_slim_data.py 預先統計，唔係前端即場計。
+   ═══════════════════════════════════════════════════════════════ */
+var YCF_CATS=null, YCF_CUR='ALL';
+
+function renderYearCurve(cat){
+  var TL=window.DATA_TIMELINE;
+  if(!TL||!TL.perYear){return;}
+  YCF_CUR=cat||YCF_CUR||'ALL';
+  if(!YCF_CATS){
+    YCF_CATS=Object.keys(TL.perCat||{});
+    var box=document.querySelector('#'+MARK+' > div');
+    if(box){
+      YCF_CATS.forEach(function(c){
+        var b=document.createElement('button');
+        b.className='ycf-btn';
+        b.setAttribute('data-ycf',c);
+        b.textContent=c;
+        b.style.cssText='padding:4px 10px;cursor:pointer';
+        b.onclick=function(){renderYearCurve(c)};
+        box.appendChild(b);
+      });
+    }
+  }
+  var years=Object.keys(TL.perYear).sort();
+  var vals=years.map(function(y){
+    if(YCF_CUR==='ALL'){return TL.perYear[y];}
+    return (TL.perYearCat[y]&&TL.perYearCat[y][YCF_CUR])||0;
+  });
+  var note=document.getElementById('year-curve-note');
+  if(note){
+    note.textContent='共 '+TL.total.toLocaleString()+' 條有真實日期　'
+      +TL.first+' → '+TL.last
+      +(YCF_CUR==='ALL'?'　（全部類別）':'　（'+YCF_CUR+'）');
+  }
+  var cv=document.getElementById('year-curve');
+  if(!cv||typeof Chart==='undefined'){
+    if(cv){
+      var ctx=cv.getContext('2d');
+      var w=cv.parentNode.clientWidth||600, h=220;
+      cv.width=w; cv.height=h;
+      ctx.clearRect(0,0,w,h);
+      var mx=Math.max.apply(null,vals)||1, pad=30, bw=(w-pad*2)/years.length;
+      ctx.fillStyle='#e8e8e8'; ctx.font='11px monospace';
+      ctx.fillText('年度死亡新聞條數　最高 '+mx, 8, 14);
+      ctx.strokeStyle='#888'; ctx.beginPath();
+      for(var i=0;i<years.length;i++){
+        var v=vals[i], bh=(v/mx)*(h-50);
+        ctx.fillStyle=(YCF_CUR==='ALL')?'#c0392b':'#2c7fb8';
+        ctx.fillRect(pad+i*bw+1, h-20-bh, Math.max(bw-2,1), bh);
+        if(years.length<=16){
+          ctx.save(); ctx.translate(pad+i*bw+bw/2, h-6);
+          ctx.rotate(-Math.PI/4); ctx.fillStyle='#ccc';
+          ctx.fillText(years[i],0,0); ctx.restore();
+        }
+      }
+      ctx.fillStyle='#aaa'; ctx.font='10px monospace';
+      ctx.fillText('（Chart.js 未載入，用後備繪圖）', 8, h-4);
+    }
+    return;
+  }
+  if(window.__ycf){window.__ycf.destroy();}
+  window.__ycf=new Chart(cv.getContext('2d'),{
+    type:'bar',
+    data:{labels:years,datasets:[{label:(YCF_CUR==='ALL'?'全部類別':YCF_CUR),
+      data:vals,backgroundColor:(YCF_CUR==='ALL')?'rgba(192,57,43,.75)':'rgba(44,127,184,.75)'}]},
+    options:{responsive:true,maintainAspectRatio:false,
+      scales:{y:{beginAtZero:true,title:{display:true,text:'新聞條數'}},
+              x:{title:{display:true,text:'年份'}}},
+      plugins:{legend:{display:false}}}
+  });
+}
+
+/* 輕量檔載入器：4.7 KB，畫完曲線先載大檔 */
+function loadTimelineFirst(cb){
+  var t=new Date();
+  var v=t.getFullYear()+String(t.getMonth()+1).padStart(2,'0')+String(t.getDate()).padStart(2,'0');
+  var s=document.createElement('script');
+  s.src='data_timeline.js?v='+v;
+  s.onload=function(){
+    try{renderYearCurve('ALL');}catch(e){console.error('yearCurve',e);}
+    if(cb)cb(true);
+  };
+  s.onerror=function(){
+    console.error('data_timeline.js 載入失敗');
+    if(cb)cb(false);
+  };
+  document.head.appendChild(s);
+}
+
 function loadAllData(){
 var loads=[];
 var _t=new Date();
@@ -1036,7 +1132,11 @@ if(d2)d2.textContent='⚠ data_today.js 內容為空';
 window.addEventListener('load',async function(){
 requestAnimationFrame(tickCounter);
 calcLife();
-await loadJsonRules();loadAllData();
+await loadJsonRules();
+  /* ★ 2026-10-02：先載 4.7 KB 輕量檔即刻畫到年度曲線，
+     大檔（data_today.js 2.22 MB）延後載，首屏唔再塞車 */
+  loadTimelineFirst();
+  loadAllData();
 addEventListener('resize',function(){if(indexEvents.length){renderMoM(indexEvents);renderAgeBar(parseInt(slider.value)||30);renderCalendar();}});
 });
 </script>
