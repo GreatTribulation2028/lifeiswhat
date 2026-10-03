@@ -1,4 +1,4 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 509 條
+// AI安全 | 由 build_news_js.py 生成 | 共 510 條
 var DATA_AI_SAFETY = `
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5cWtMY1hYWG5VTXVycGU5YzY1NjQyblFYOVZBWjctNFlaeTJoZTE2TTRkXzIyT3UzWHB0bnhHS2lMRkxoUk5PTlZPSE94QVctaXFqcjFrVVA?oc=5	未分類
 2026-10-01	惡意軟件 CloudSyncD 以 Zoom 安裝程式為掩護進行資訊竊取	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DbjNHb2xYSEJlU2lTU0ZiYnFMaGtUUWNkYThRYnZyVW4yVXE1OGZ2c3doajBVd1ZvcDFQZ2lKcFFlUHdUbmxqQllUWkNZUTQwcTEwajM4Z0M?oc=5	未分類
@@ -493,6 +493,7 @@ var DATA_AI_SAFETY = `
 2023-06-13	AI失控入侵Hugging Face OpenAI：屬前所未有網絡安全事故	https://www.wepro180.com/內測變攻擊｜ai失控入侵hugging-face openai：屬前所未有網絡安/	未分類
 2022-11-22	FTX駭客又想砸盤》再轉移「2億美元」ETH！以太跌破1,100、比特幣破15,500	https://www.blocktempo.com/ftx-hackers-just-transferred-most-of-the-eth-balance-to-a-new-and-different-address/	未分類
 2021-10-25	駭客攻擊？南韓最大電信公司系統癱瘓 網路、通訊全掛了	https://www.setn.com/news/1016997	未分類
+2021-08-31	一銀駭客盜領案 主嫌安德魯5年期滿出獄	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ERTVyYmZDY2F0a3pMTm0xX19GTHM3WV9OT2hNTGRUa09ISUQ2S2F2QkhTeWdJVGdFNTRxYUp3YlA5bUVwZmlPN2g3SjhkbEZyZ2tKS3pGOGtKM3Q1U2dtRm5wZHdUQQ?oc=5	未分類
 2021-08-31	Nyxlab以香港為總部打造以AI 為本網絡安全新勢力	https://www.investhk.gov.hk/zh-hk/our-clients/nyxlab	未分類
 2021-07-12	網絡攻擊	https://zh-yue.wikipedia.org/wiki/網絡攻擊	未分類
 2021-02-18	抗議軍事政變！緬甸駭客攻擊政府網站 軍方封鎖網路	https://www.setn.com/news/898935	未分類
