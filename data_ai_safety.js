@@ -1,4 +1,4 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 512 條
+// AI安全 | 由 build_news_js.py 生成 | 共 509 條
 var DATA_AI_SAFETY = `
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5cWtMY1hYWG5VTXVycGU5YzY1NjQyblFYOVZBWjctNFlaeTJoZTE2TTRkXzIyT3UzWHB0bnhHS2lMRkxoUk5PTlZPSE94QVctaXFqcjFrVVA?oc=5	未分類
 2026-10-01	惡意軟件 CloudSyncD 以 Zoom 安裝程式為掩護進行資訊竊取	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DbjNHb2xYSEJlU2lTU0ZiYnFMaGtUUWNkYThRYnZyVW4yVXE1OGZ2c3doajBVd1ZvcDFQZ2lKcFFlUHdUbmxqQllUWkNZUTQwcTEwajM4Z0M?oc=5	未分類
@@ -284,7 +284,6 @@ var DATA_AI_SAFETY = `
 2026-07-23	結好控股(00064.HK)：結好證券交易系統因網絡攻擊曾中斷	https://news.google.com/rss/articles/CBMi2wJBVV95cUxPbFF3WjZXZzU4TnZaaEFqTHFiWmRNOHlicW40U0RSd01vUkdVVlVJYjlNSjU3LUdFTHY4eVJqTUJoM3dOYXFNTDRaWlN5dnctRmNLOW1rNTROR09JYnBjU2piX3loUmotYnhMMkplUU9OZzdEWlhTYS1UelZxNGZCdm5VNGJTMlMtOUR5eDlvb2tSREVjRDd6SFBxS1VqVFloLUpfNlM1VXc3djBFSlUyMmV1S2RUVmNUcVkyMkRra1hDZUhJM2NUSFFNLTZnSEd2a1ZBbTY4RDlNTkwxakhEMG5zSVdhalFnMWExcUhWWEF0SDhXU1JMb3BCTDd1bGdXWlpoQ1FPUTJ4dXA2Y0FxWWpoeTVhRFVjekE4U2JfTWRWSF9Sek9IX3hxbk9hNUtTdk13cDNON01FZUJoNklmTGM2TnRQdlI3andSWVZZUEJXcnJ4el9zSm12NA?oc=5	未分類
 2026-07-23	有能源公司遭網絡攻擊數百萬客戶資料或外洩	https://www.sbs.com.au/language/chinese/zh-hant/article/origin-energy-hacked-millions-of-australian-customer-details-potentially-exposed/uex1xik5y	未分類
 2026-07-23	一場沒有駭客的攻擊：AI 為了「作弊」駭進 Hugging Face	https://www.panewslab.com/zh-hant/articles/019f8e47-c66c-7653-ae65-beb9195d4381	未分類
-2026-07-23	【有能源公司遭網絡攻擊數百萬客戶資料或外洩】 ...	https://www.facebook.com/SBSCantonese/posts/有能源公司遭網絡攻擊-數百萬客戶資料或外洩能源公司origin-energy證實遭受網絡攻擊數百萬名客戶的個人資料可能已被黑客盜取黑客透過傳媒表示資料包含銀行戶/1583098773827403/	未分類
 2026-07-23	OpenAI測試新模型期間自主發動網絡攻擊 遭制裁中國開源模型意外成為救場關鍵	https://news.google.com/rss/articles/CBMi1ANBVV95cUxOSC1MR1pmOHBlMUJ2QVExUjBmMGt5Q3ZfYWdzZjVtdEoxTG1wb1h0RTMtRktZMjM0T0RtZUVKdWN4WnlibjVzVExLazAxVmFRblZqcWxYeVNRWlRBckY1V2NxSFRMdEFlY29LQnZZVDhSTzZSeGVSTU9wV0RzUUZmQ3BOOE5ySFFzb1FmTGpUUnVEQUdQWHQzU3NLYmwybXo1YjFIZ1ZqSHE4cUtfYnp4eHJma19wRmJGSFYyVk9neFE3VzdtNER4MkY0MW5KUDhpOTRTMlhKQ0NlamJqTmF5YllJSzhWLTBJZnU3ME0zN1ljNWNwV0VLNjMxaXlwQ3FSZ2s2bFRSZ0hQUWtQZmxDUUhERnpKSmh5MHI2TWNLclNhVWJKZWFuRlh0dFRjSzcxdVgxeHZJMGo5X2FVNjJkTURteXBrS0lEdG1LQkNHTm5qS1ZWN3ZVREZwMC0wU2c5WVlieFMwS2h0Y0R4WG1ZdlBCRFc1UXBqdERham9Hbk91LXl6SHVianpBOTBqeUV4UWhCRS03NlJHNDVjaHpzNExKX29Ec1ZVc1dHVHEzekNPSnV4WDE1V2hrbHVncTVrWURFV3ZjZEJyNDM2SjhjQndCWW0?oc=5	未分類
 2026-07-23	OpenAI模型「爆走逃脫」！自己上網駭企業 駭客要2周它只用幾小時	https://money.udn.com/money/amp/story/5599/9645825	未分類
 2026-07-22	首例AI自主駭客攻擊 OpenAI證實自家AI Agent越獄入侵企業系統 | 李靖棠 | 新聞	https://www.storm.mg/article/11150954	未分類
@@ -336,7 +335,6 @@ var DATA_AI_SAFETY = `
 2026-07-10	Immunefi：2026上半年加密駭客攻擊數量創新高，總損失不到10億美元	https://www.blocktempo.com/immunefi-h1-2026-crypto-hack-attacks-record-high-loss-under-1billion/	未分類
 2026-07-09	艾之星集團旗下品牌亮相紐約生物駭客世界大會	https://www.singtaousa.com/2026/07/09/news/usa/aizhixing-groups-brands-appear-at-the-biohacking-world-conference-in-new-york-2/	未分類
 2026-07-09	中國駭客狂轟美5000水廠！台海若開戰 救人還是援台逼出兩難	https://tw.news.yahoo.com/中國駭客狂轟美5000水廠-台海若開戰-救人還是援台逼出兩難-074900220.html	未分類
-2026-07-09	中國駭客狂轟美5000水廠! 台海若開戰救人還是援台逼出兩難	http://www.msn.com/zh-tw/news/national/中國駭客狂轟美5000水廠-台海若開戰-救人還是援台逼出兩難/ar-AA27xCnc?cvid=6a4fc73f89ad44c9a92fabdce3528c88&ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-07-09	Gate 交易所大戶失竊 170 萬鎂指控是平台系統漏洞！官方反擊：「駭客連支付寶錄影都有」，疑用戶設備遭控	https://www.blocktempo.com/gate-io-responds-to-1-7m-user-hack-alipay-device-compromised/	未分類
 2026-07-08	駭客團體UAT-7810打造新的惡意軟體架設ORB網路	https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BSmVWSlpWWVJvRnZXY2RwYkVYeTUxZVNVbmFfaGVRcWFIQnQ1cWt2UTBzUm5TNEx5WEdZbHNqY1VqRE9yYU5qMFgtRTYyUQ?oc=5	未分類
 2026-07-08	跨部門網絡安全演習應對AI挑戰- 港聞- 今日大公	https://epaper.tkww.hk/a/202607/08/AP6a4d6156e4b04773b071e7fa.html	未分類
@@ -479,7 +477,6 @@ var DATA_AI_SAFETY = `
 2026-02-11	【反恐演練】海關聯手空運業界模擬極端份子網絡攻擊癱瘓 ...	https://www.singtaousa.com/2026/02/11/news/china/customs-air-cargo-cyber-terror-drill/	未分類
 2026-02-10	全球DDoS攻擊量翻倍增長Aisuru-Kimwolf 殭屍網絡突破防禦極限	https://technow.com.hk/business/1055211/	未分類
 2025-11-21	LLM 生成惡意程式能力提升 但與全自動網絡攻擊仍有距離	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WWnVueXNtRHltRk1JSmZocjU0aGgzYl9qTWhvV2huV3lVbUlkUFlySjFJMmpGRG85SWM1dmtJdURxejU0Sm1rTko0cWdNakQyaHRHQzlmdWk0THluNWVkZnNB?oc=5	未分類
-2025-08-26	網傳小鳥喝光電板紅水暴斃 環境部澄清假影片：已報請檢察機關追查 ｜ CTWANT ｜ LINE TODAY	https://today.line.me/tw/v3/article/aGQBPWn	未分類
 2025-07-29	Claude Mythos：Anthropic 的網絡安全前沿模型	https://www.eigent.ai/zh-HK/blog/claude-mythos	未分類
 2025-04-29	西班牙停電宣布緊急狀態 葡萄牙電網：無證據顯示涉網絡攻擊	https://www.hk01.com/article/60233692?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-09-23	防禦數據外洩和網絡攻擊的6大重要提示	https://www.hkbnes.com/web/tc/thought-leadership/6-essential-tips-to-defend-against-data-loss-and-cyber-attacks/	未分類
