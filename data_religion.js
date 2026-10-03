@@ -1,4 +1,4 @@
-// 宗教 | 由 build_news_js.py 生成 | 共 49 條
+// 宗教 | 由 build_news_js.py 生成 | 共 47 條
 var DATA_RELIGION = `
 2026-09-30	宗教詐騙披靈性外衣 資深媒體人揭警訊辨識邪教pua	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xMXdlYWpsZ01fbkpyMExnS0dxUVBhSzh6TmxObjlTeThSQldCOWJEVm1kcktVU09NeWhLWjJaVl91a3dlTkxTQWFFUEtIN09MWjBhVGw1aTd3RjlhOVU1eTdCNy1nZ9IBa0FVX3lxTE1uSXkwcUNGTGc5QjZxOTF5Vk4xY1k0Nmp4MTVBbU9vcnRHTWkwcFNIR1NnbVBBaG8zUjU2Z3FMQU5oblBXN3QzOG9ScG5XSWtHS2RhUzRtcDZCa0dpSDBDaUp3a3hyZ1Rfbzg0?oc=5	未分類
 2026-09-21	德國主流教會衰落 自由福音派受洗人數逆勢暴增76%	https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VVHJ2cGZKS0hWeXpTVVdEbEJkUjRxR3JfSkpXM29JY2xfNHEzektCeFJqY0VoQlZia3lWYk1kb2hIN3BXSVZHbEh3Q1JQSEItTWswaWRjY1k2QQ?oc=5	未分類
@@ -9,7 +9,6 @@ var DATA_RELIGION = `
 2026-07-08	AI是「敵基督」嗎？葉晨星博士：如何在科技浪潮中持守信仰	https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qS0hSeUlsa2E4WFB3UkRXSUkzVW1EalZIQXRMUmlCWm1TX2lra25fMjVLR0xSc0FRdXJWQjNGOFdfNnZXdVMtSUp0VFZyc3ItNkNINnUxNUNLdw?oc=5	未分類
 2026-07-02	教宗震怒！天主教團體擅自任命新主教 教廷祭「絕罰」處分驅逐	https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hbHZ5NXgyemJjT243UzUtcEJfWWdSeURCQWc0Q1h6ZERnaC1Qc0xYMENYN1JxNFV2Zjg2ZWhYdkxwZktNZVR6WjlLLUxXbHEzSGpj?oc=5	未分類
 2026-06-12	是時候放下分裂！五旬節紀錄片《願他們合而為一》：實現耶穌對合一的禱告，將迎來覺醒與復興	https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxQWp3NGRhQWxHRDdrWm1kdTFZTXc1SG5PUWp4dHZqSnlpVFJIWXZEU3J2ZjBjNTlNbFhFMWtHR2JjNmlVTW9iS254OTJNZw?oc=5	未分類
-2026-05-03	李盛林牧師離世｜阿Mo兄長：父以血肉之軀建堤壩助家人擋洪水	https://www.hk01.com/article/60346242	未分類
 2026-04-25	守護癱瘓舞者兒多年！牧師父親突驟逝 港網全淚崩 香港唱跳男團「MIRROR」於2022 年7 月紅館開唱時發生意外，舞者阿Mo（李啟言）不幸遭大型螢幕墜落壓傷導致癱瘓，目前仍在積極復健中。然而，始終守候在身邊的父親李盛林牧師... 53 分鐘前	https://tw.news.yahoo.com/%E5%AE%88%E8%AD%B7%E7%99%B1%E7%98%93%E8%88%9E%E8%80%85%E5%85%92%E5%A4%9A%E5%B9%B4-%E7%89%A7%E5%B8%AB%E7%88%B6%E8%A6%AA%E7%AA%81%E9%A9%9F%E9%80%9D-%E6%B8%AF%E7%B6%B2%E5%85%A8%E6%B7%9A%E5%B4%A9-113833573.html	未分類
 2026-04-25	【移加港人】阿Mo李啟言父親李盛林牧師猝逝 日前嘔吐發燒曾插喉治療| 事事如意生活網站 曾於加拿大生活多年並在1994年多倫多誕下幼子李啟言（阿Mo）的李盛林牧師逝世。 李盛林牧師歷經MIRROR演唱會墮屏意外，三年多來不離不棄照顧兒子阿Mo，在兒子康復路出現... 2 小時前	https://ccue.singtao.ca/2026-04-25/%E3%80%90%E7%A7%BB%E5%8A%A0%E6%B8%AF%E4%BA%BA%E3%80%91%E9%98%BFmo%E6%9D%8E%E5%95%9F%E8%A8%80%E7%88%B6%E8%A6%AA%E6%9D%8E%E7%9B%9B%E6%9E%97%E7%89%A7%E5%B8%AB%E7%8C%9D%E9%80%9D-%E6%97%A5/1094939	未分類
 2026-03-21	年僅四歲的「宣教士」：牧師愛子翁牧禾因癌離世 生命觸動生命	https://www.gospelherald.com/news/mttxpccx1rt8	未分類
@@ -19,7 +18,6 @@ var DATA_RELIGION = `
 2025-07-18	【陳思國專欄】教會分裂，神看了很難過...我們不是敵人撒但才是！	https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YMWxCSVBIMVFWdGxVZ1JEcjJ4a2JnN2VzdGhJNzEybjdTdW5FTFBtUzVqVkN4WGVlc2pjaV9BSzBsX1NjdDlQZ25ucGhMUFdGQVJqT1Ffbw?oc=5	未分類
 2025-07-15	末世預言警訊？以色列預演紅母牛儀式，迎第三聖殿序曲	https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HeGJpZWJndUdYaWNzMFk4MHFSVGplOGdrbVpnTU01STR2NkpfaGtSTlhoOFdEaU95NTgzMW12UnM2aElYTWVVWndoTmxtY09RVDFR?oc=5	未分類
 2025-04-30	教廷秘密會議5/7登場 教宗選舉背後如何上演教會權勢之爭？	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKWTJkaEhuYlBOdUJMN1k0cVZVNnpHNnM1ZlRaejRqc3c3MjVybkdlTDlNUHJYc1F5QlZRNXJ4T2pEUDVnbmlFZDVWcjRxTjA?oc=5	未分類
-2025-04-22	教宗方濟各逝世｜教廷：死於中風及心臟衰竭 將葬於羅馬聖母大殿	https://www.hk01.com/article/60231511?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-04-16	# 紅母牛與第三聖殿的探討 📚	https://www.jns.org/the-red-heifer-catalyst-for-war-or-harbinger-of-global-peace/	未分類
 2025-03-26	正教會普世牧首： 1054年教會分裂「非無法超越」	https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1BOWGZYbDNIYnhoUTFRV1NoV2k2T0JPUm1xdHBDWFdLZVIzcEFrNGJob0NaaklNQVJSUk9xYTdldFd5TWhuTlRmaXV2cTVCM3JKTExmWXh1d052RmhCX2hjOE5rZ3VYaDFEbUJ0Yi1PUmxLMDUzQXZDa2tnQUpOeEpGRktwM0NlOWo1NjJsTmQ1U01DQnllaHJoOGV5YmE4VnBRV2dIanNmVm5qd0FpdlRrMTlXbG9LVFE?oc=5	未分類
 2025-02-26	回顧循道衛理聯合50年歷史邢福增：教會合一需考慮現實處境	https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDVDQWl0NzdTbThyN2VVcE9KMWZZV0E2aGdrVktkX1NqTEcxNTNZLVY0MVVZTndDWFZ0OFRxTXRNd1B0SHBpWWM2UWJhQVJ1YS1wa01LM3FXR2pyRnFKaU9CMXBCaDl6UmFENGl3ZE4xeTdNQU1BRGVhLTAwX3prUUNfaUR6cGJjOXdJUlZPZ0stMXMxbEE0T2M3OTJwSDNfZ1B6TTUzSDkwY3BVQzRtdExpbHBGMEZHQUE?oc=5	未分類
