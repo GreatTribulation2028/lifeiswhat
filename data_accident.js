@@ -1,4 +1,4 @@
-// 意外 | 由 build_news_js.py 生成 | 共 882 條
+// 意外 | 由 build_news_js.py 生成 | 共 881 條
 var DATA_ACCIDENT = `
 2026-10-01	老翁二度跌倒眼角流血還想硬撐走 警耐心勸導擦藥送返家	https://news.ltn.com.tw/news/society/breakingnews/5591695	未分類
 2026-10-01	宜蘭農婦「種菜失足踩空」墜70米懸崖 卡山壁2小時奇蹟獲救	https://www.ettoday.net/news/20261001/3247038.htm	未分類
@@ -401,7 +401,6 @@ var DATA_ACCIDENT = `
 2026-02-27	哈薩克斯坦一咖啡廳爆炸致7人死亡- 國際	https://www.wenweipo.com/a/202602/27/AP69a144dce4b04d7d56d57382.html	未分類
 2026-02-27	哈薩克咖啡店漏煤氣爆炸 7死19傷	https://www.am730.com.hk/國際/1014384/哈薩克咖啡店漏煤氣爆炸-7死19傷	未分類
 2026-02-27	北投工安意外！業主和水電顧問2人癱倒水槽 送醫恢復意識	https://udn.com/news/amp/story/7320/9348359	未分類
-2026-02-26	花蓮7旬婦超商旁搬物品疑失足「摔5米深邊坡」 頭部撕裂傷送醫不治 意外 花蓮7旬婦超商旁搬物品疑失足「摔5米深邊坡」 頭部撕裂傷送醫不治-台視新聞網 0.91	https://news.ttv.com.tw/news/11502260012600N	未分類
 2026-02-26	機場地盤男工失平衡墮地受傷 送院後回復清醒 (20:26) - 20260226 - 港聞	https://news.mingpao.com/ins/港聞/article/20260226/s00001/1772108845967/機場地盤男工失平衡墮地受傷-送院後回復清醒	未分類
 2026-02-25	大埔食品廠搭棚工疑失足墮亡 勞工處徹查 意外 大埔食品廠搭棚工疑失足墮亡 勞工處徹查 0.97	https://std.stheadline.com/daily-hongkong/3547284/大埔食品廠搭棚工疑失足墮亡-勞工處徹查	未分類
 2026-02-25	7歲童意外摔出7樓「24公尺高空墜落」 清潔工神反應接人畫面曝 意外 MSN —	https://www.msn.com/zh-tw/news/other/7歲童意外摔出7樓-24公尺高空墜落-清潔工神反應接人畫面曝/ar-AA1WWAcD?cvid=699db275100e4773bc03490c00a8c80b&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
