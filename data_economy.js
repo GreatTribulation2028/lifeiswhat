@@ -1,4 +1,4 @@
-// 經濟 | 由 build_news_js.py 生成 | 共 3954 條
+// 經濟 | 由 build_news_js.py 生成 | 共 4011 條
 var DATA_ECONOMY = `
 2026-10-02	香港餐廳星輝閣結業 員工稱欠薪數月	https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813114532123-0813_00822_001.html	未分類
 2026-10-02	2萬人將被裁，亞馬遜史上最大裁員潮來襲	https://www.36kr.com/p/2040509847055623	未分類
@@ -354,6 +354,25 @@ var DATA_ECONOMY = `
 2026-08-23	三人小組產出抵 40 人，AI 未釀失業潮卻悄悄顛覆勞動市場遊戲規則	https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTYyVVBXRkNwSmVBMXhMWVh4T0tOTlc2TjdEcGlQRmhDaExja3lVRlIwMW80UU1ZVUUzMGc5dHJFMzN3NzBtZ3NmNHBDV0FhX2h6QVZZdEZ4OUVsTVcyLWpjWWxudTBvZlRuVU9vemVqdVprakRkdUp4Q25uMGh2QlduZEZ3di1UWlZTbnpBM3BCZnphdkFXbm0xVUVqa09uRG94bW1qUk1KTV84WWlCNWVUMA?oc=5	未分類
 2026-08-22	長沙灣老店對決｜樂園結業全因被「頂死」？網民嘆對手坤記太強：$39雞髀撈麵加奇招點鬥	https://www.stheadline.com/food/3606889/長沙灣老店對決樂園結業全因被頂死網民嘆對手坤記太強39雞髀撈麵加奇招點鬥	未分類
 2026-08-22	蘋果裁員影響超過200人——彭博新聞	https://www.moomoo.com/hant/news/flash/23066778/apple-job-cuts-affect-more-than-200-people-bloomberg-news	未分類
+2026-08-22	結業潮2025｜7.Mamma Mia Gelato沙田店 意式雪糕店剩餘6間分店		未分類
+2026-08-22	結業潮2025｜69.Mr.cool凍肉舖全線結業 曾獲良心業主兩度減租		未分類
+2026-08-22	結業潮2025｜65.HUE Dining 香港藝術館澳洲菜		未分類
+2026-08-22	結業潮2025｜61.天澗居酒屋 街坊小店曾推$1鍋物優惠		未分類
+2026-08-22	結業潮2025｜54.博多拉麵別天神 12年老店不敵3大難關		未分類
+2026-08-22	結業潮2025｜50.醬油老字號大孖醬園 1953年創立旺角分店結業		未分類
+2026-08-22	結業潮2025｜46.Jacomax上環本店 開業14年意大利人主理薄餅店		未分類
+2026-08-22	結業潮2025｜42.新鳳凰餅店 屹立52年北角老字號		未分類
+2026-08-22	結業潮2025｜38.海景粥店茶餐廳 曾為海皇粥店競爭對手		未分類
+2026-08-22	結業潮2025｜34.雲南風味過橋小鍋米綫結業 深水埗30年歷史元祖級餐廳		未分類
+2026-08-22	結業潮2025｜3.燉奶佬 44年歷史全盛時逾24分店		未分類
+2026-08-22	結業潮2025｜24.Dodam Chicken 韓國過江龍炸雞專門店		未分類
+2026-08-22	結業潮2025｜22.燈籠滷味九龍灣店 台灣過江龍僅餘2分店		未分類
+2026-08-22	結業潮2025｜18.八月堂 台灣殿堂級牛角包		未分類
+2026-08-22	結業潮2025｜15.意粉屋The Spaghetti House 15年歷史灣仔分店結業		未分類
+2026-08-22	結業潮2025｜11.沙嗲軒 信和酒店旗下星馬菜餐廳		未分類
+2026-08-22	結業潮2025餐廳盤點		未分類
+2026-08-22	結業潮2025年｜老字號餐廳		未分類
+2026-08-22	結業潮2025年｜特色小店		未分類
 2026-08-22	橋水基金 Ray Dalio：「美國破產」倒數三年！籲拋售美債、快買黃金與比特幣避險	https://www.blocktempo.com/ray-dalio-warns-us-debt-crisis-buy-gold-bitcoin/	未分類
 2026-08-22	旺旺傳裁員目標達千人	https://www.hkej.com/dailynews/finnews/article/4490223/旺旺傳裁員目標達千人	未分類
 2026-08-22	日核心通脹升至1.8% 料9月加息	https://www.hkej.com/dailynews/international/article/4490293/日核心通脹升至1.8%+料9月加息	未分類
@@ -362,6 +381,8 @@ var DATA_ECONOMY = `
 2026-08-22	大陸駕校掀倒閉潮 十年銳減四成	https://hk.epochtimes.com/news/2026-08-22/3513474	未分類
 2026-08-22	全民普發1萬反欠債28萬？作家曝6.9兆國債「勞保破產風險」：發錢根本以債養債 | 李瑋萱 | 新聞	https://www.storm.mg/article/11158506	未分類
 2026-08-22	價真棧何文田店8.24結業！街坊嘆可惜：以前門口排哂隊 網民分析2大致命傷	https://www.stheadline.com/lifetips/3607060/價真棧何文田店824結業街坊嘆可惜以前門口排哂隊-網民分析2大致命傷	未分類
+2026-08-22	3. 🍽️ La Serre玻璃屋餐廳12月31日結業。		未分類
+2026-08-22	1. 🏬 U購Select翠灣邨店結業。		未分類
 2026-08-21	香港結業潮盤點：多個行業受衝擊，經濟學者剖析市場轉型原因	https://www.singtaousa.com/2026/08/21/news/china/business-closures-hong-kong-analysis/	未分類
 2026-08-21	蘭陽文藝營結業式 學員展成果	https://tw.news.yahoo.com/蘭陽文藝營結業式-學員展成果-124206346.html	未分類
 2026-08-21	蘋果在Siri和Vision Pro團隊裁員，資源轉向AI與新設備	https://tw.tradingview.com/news/gelonghui:f0bdd68d3acdf:0/	未分類
@@ -373,6 +394,7 @@ var DATA_ECONOMY = `
 2026-08-21	旺旺傳計劃裁員目標約1000人 蔡衍明稱公司陷重大經營危機	https://news.google.com/rss/articles/CBMickFVX3lxTFBBdWtNaEtlQVFMeEFPN2VNTDJmSE9wTlhHRDFDWXp5QXpXU0ZoTXBBYXdPVC1Qc0VreGdtUWVuWGtYQkJJeElTMHdDb1pJVVFqSk01aE1uZG16dFFTUzFZWEZwWlVtbzdpc0NCSWgweDIzdw?oc=5	未分類
 2026-08-21	日本國債收益率沖向3%，高市早苗的“花錢計劃”要破產了？	https://nai500.com/zh-hant/blog/2026/08/日本債券拋售令高市經濟計劃承壓/	未分類
 2026-08-21	廖偉雄由破產變富豪 霸氣自認有「兩億」身家 移居大馬進軍飲食賣魚蛋賣到發達	https://www.singtao.ca/7603904/2026-08-21/news-廖偉雄由破產變富豪++霸氣自認有「兩億」身家++移居大馬進軍飲食賣魚蛋賣到發達/	未分類
+2026-08-21	差點破產的台灣高鐵，十年後是怎麼活過來逆勢成為績優股的？	https://www.wantgoo.com/blog/98845/post/413	未分類
 2026-08-21	差點破產的台灣高鐵 十年後是怎麼活過來逆勢成為績優股的	https://www.moneyweekly.com.tw/ArticleData/Info/Article/244156	未分類
 2026-08-21	創業年收破億！ 10多年後卻瀕臨破產 56歲大叔靠「1關鍵」重拾幸福	https://tw.news.yahoo.com/創業年收破億-10多年後卻瀕臨破產-56歲大叔靠-1關鍵-重拾幸福-122500509.html	未分類
 2026-08-21	【銀行裁員】滙豐據報5億元遣散134名MRT高級員工 為08年金融風暴後最大規模	https://inews.hket.com/article/4180789/【銀行裁員】滙豐據報5億元遣散134名MRT高級員工 為08年金融風暴後最大規模	未分類
@@ -1524,6 +1546,7 @@ var DATA_ECONOMY = `
 2026-06-03	虛擬資產專法進立院！穩定幣、USDT、CBDC怎麼管？先思考３大挑戰| 雜誌	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LRW1zeHJOZ2pzcnRHU056WW85QmR3aUhnOHdzMF9nNE5qOUYtM1FocV9LbG8xWEtyZWxVMHAxZHdoaUk1eVV5RTFvZEhmY0hm?oc=5	未分類
 2026-06-03	聽▶︎港聞｜領退休金公務員增至約17萬 去年逾一成青年失業｜2026年6月3日	https://news.google.com/rss/articles/CBMiigNBVV95cUxQcEtmSVAzN1gyLVdIYTRRZkh0YXZFMm5qUlYyanhWRmJOQ05qMENUUFdGSmgwbElGV1gxbzYxWE4yQ2U0V2pHOUlBanNpZmF6cExvSHNTNDhRYjRjaVJNbVBsTG9Ha0thamxpemduTTVMNklLSnAtS2p3WWhPbWpaOEpsRGdIbVlJdjd5NUxpRjd6MktvclBOVUlWd3pkcGRCckEtTnp2MndqVmVmbmZKYi1ETldsQTBjWXlXQ1Izc3AwMDJPbHByRmRqcFEtd1poU3hRVWZQVTV4elJBTm83LVc2QmVOay1XOHNYcUVqd3k0bkkwYnBoc0xvZ2VZZ1FDa29DU0VjSkt3RXhBWDNRY2xtZEl0WVJFX2hmTEhSdnB2RVVLWGRyTVNWd09MWnZ2S3NJR3UtZmdmd0Rwbk9XN0NNWTdOVzkxc2RGdWZBRGFSODZPcG9oYnBGcXR4Q1JGOHIyT0JxRGF6dXBiRU9OeHVreVZYWm50Z2ExVm91ei05THRLTzdUelB3?oc=5	未分類
 2026-06-03	宮廟普渡贊助百桌！台中知名連鎖火鍋驚傳倒閉 負責人疑捲款上億神隱	https://www.setn.com/news/1849612	未分類
+2026-06-03	宮廟普渡贊助百桌! 台中知名連鎖火鍋驚傳倒閉 負責人疑捲款上億神隱	https://www.msn.com/zh-tw/money/一般/宮廟普渡贊助百桌-台中知名連鎖火鍋驚傳倒閉-負責人疑捲款上億神隱/ar-AA24IRgl?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-06-03	【FINTERVIEW】AI會引爆金融風暴？(下)	https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTEs0MTFLYjZ5dDV1bms5ck1lZWZJNHVHSGxlX00wN2JBWjlneFFsd2xmTlVkNnVOLTBNaHRTWU92Snp6OEtVRGxEQURHYlZ2Z1RsdGQzVG45TGs?oc=5	未分類
 2026-06-02	隨着經濟衰退擔憂加劇，我會買入的2只防御型加拿大股票	https://www.moomoo.com/hant/news/post/70883192/2-defensive-canadian-stocks-i-d-buy-as-recession-fears	未分類
 2026-06-02	澳門舉辦中葡央行數字貨幣研討會 探索跨境金融合作新路徑	https://news.google.com/rss/articles/CBMingFBVV95cUxNVFNVUmVnZ1F4bEt2Vnk5YWhTZXplbWdFYk5mZllDODJqVjVYOGFMbDQ5aVk3dkxkbXc0eV9mWUtweHg3azUzM2pVdmZhRTdBeXowMFlJblBERmZodk1Bb0JUYzM2aExmNU5WS09vX05tUXZ6ZVlFNnBLT0NRbEd4c2RTNVhNbzd0MGRPMG5WTmxUZWJCTEFiYTlVcEhwdw?oc=5	未分類
@@ -1648,6 +1671,7 @@ var DATA_ECONOMY = `
 2026-05-15	【康港劉影】逐漸消失的花鞋店 旺角榮華花鞋將結業	https://hk.epochtimes.com/news/2026-05-15/77538620	未分類
 2026-05-15	《NBA 2K》開發商 Visual Concepts 傳裁員 《WWE 2K》團隊受創最深	https://sunmedia.tw/news/Industry-information/1778802473-《NBA 2K》開發商 Visual Concepts 傳裁員 《WWE 2K》團隊受創最深	未分類
 2026-05-15	Dune Analytics 裁員25% 轉向AI與機構市場	https://www.blocktempo.com/dune-analytics-layoffs-ai-institutions-2026/	未分類
+2026-05-15	AI裁員潮席捲美企！從軟體、零售到車廠都在重洗人力牌	https://www.marketersgo.com/media-collaboration/sunmedia/202605/ai裁員潮席捲美企！從軟體、零售到車廠都在重洗人/	未分類
 2026-05-15	AI「吞噬」底特律白領崗位！三大車企已裁員超2萬人	https://www.bitget.com/zh-TC/amp/news/detail/12560605414080	未分類
 2026-05-14	開業60年首間港式西餅店 超羣餅店太子店5.17結業	https://www.orangenews.hk/hongkong/VJa01nJ/開業60年首間港式西餅店-超羣餅店太子店5-17結業.shtml	未分類
 2026-05-14	通用汽車裁員 應對多重挑戰	https://www.singtaousa.com/2026/05/14/news/usa/gm-layoffs-multiple-challenges/	未分類
@@ -1677,6 +1701,7 @@ var DATA_ECONOMY = `
 2026-05-12	美心URBAN Café Commune旺角MOKO店結業 高峰期有4店 悉數告別	https://www.hk01.com/社會新聞/60349050/美心urban-café-commune旺角moko店結業-高峰期有4店-悉數告別	未分類
 2026-05-12	結業潮｜開業11年高峰期擁4間分店 美心集團旗下URBAN Café Commune 全線結業	https://std.stheadline.com/society/3571537/結業潮開業11年高峰期擁4間分店-美心集團旗下URBAN-Caf-Commune-全線結業	未分類
 2026-05-12	市場傳聞：Westpac在轉向單一投資平台後將裁員94人。	https://www.moomoo.com/hant/news/post/69797905/market-chatter-westpac-cutting-94-jobs-after-transitioning-to-single	未分類
+2026-05-12	Circle執行長：AI引發的裁員潮恐只是冰山一角	http://www.aastocks.com/tc/usq/quote/stock-news-content.aspx?symbol=NET&id=AN6454455&source=ANUE	未分類
 2026-05-11	觀塘「祥榮茶冰廳」結業！開業60年隨花園大廈重建告別 TVB劇集御用冰室取景地	https://www.stheadline.com/food/3571156/觀塘祥榮茶冰廳結業開業60年隨花園大廈重建告別-TVB劇集御用冰室取景地	未分類
 2026-05-11	西環海傍好景記士多月底結業 高質燒賣襯絕美夕陽景成絕唱? 網民：之前要排隊估唔到	https://www.stheadline.com/food/3571294/西環海傍好景記士多月底結業-高質燒賣襯絕美夕陽景成絕唱-網民之前要排隊估唔到	未分類
 2026-05-11	聖宜診所桃園2店遭搜索！檢查扣多設備 消費者嘆「怕倒閉」排退費	https://news.tvbs.com.tw/local/3201144	未分類
@@ -1725,6 +1750,7 @@ var DATA_ECONOMY = `
 2026-05-08	Lost Stars Livehouse宣布5月底結業！易址重開不足2年曾嘆「餐飲寒冬艱難」 鄧建明/劉以達為座上客	https://www.stheadline.com/lifetips/3570275/Lost-Stars-Livehouse宣布5月底結業易址重開不足2年-曾嘆餐飲寒冬艱難-鄧建明劉以達為座上客	未分類
 2026-05-08	Cloudflare裁員千人 戰略轉型佈局「代理AI時代」	https://news.pchome.com.tw/science/sunmedia/20260508/index-77821148444847329005.html	未分類
 2026-05-08	AI續掀美國裁員潮 上月逾2.1萬人被「打爛飯碗」 專業和商業服務成重災區	https://std.stheadline.com/macroeconomics/3570170/AI續掀美國裁員潮-上月逾21萬人被打爛飯碗-專業和商業服務成重災區	未分類
+2026-05-08	AI浪潮下企業主兩難 員工面臨裁員或超時勞動	https://enn.tw/724377/	未分類
 2026-05-07	陸藥店掀倒閉潮！一年淨減2.2萬家 中小藥店加速出局	https://turnnewsapp.com/livenews/chinav3/20260507002574-260409	未分類
 2026-05-07	美國廉航Spirit倒閉 網民眾籌收購已突破34億 盼實現沒高薪CEO航企	https://www.stheadline.com/macroeconomics/3569837/美國廉航Spirit倒閉-網民眾籌收購已突破34億-盼實現沒高薪CEO航企	未分類
 2026-05-07	美國廉航Spirit倒閉 網民發起眾籌救公司	https://www.am730.com.hk/財經/1029168/美國廉航spirit倒閉-網民發起眾籌救公司	未分類
@@ -1791,6 +1817,7 @@ var DATA_ECONOMY = `
 2026-04-30	僱員憂「標時」令酒樓成本急升致倒閉- 香港 - 香港文匯網	https://www.wenweipo.com/a/202604/30/AP69f26e6be4b0b49ad1b8ef92.html	未分類
 2026-04-30	企業裁員潮恐致勞資雙輸局面，研究建議：應開徵 AI 自動化稅	https://abmedia.io/ai-automation-tax-economic-crisis	未分類
 2026-04-30	「被裁員爆紅一波！」主播吳安琪告別28年TVBS：迅速辦手續、迅速離開	https://www.setn.com/news/1831720	未分類
+2026-04-30	「被裁員爆紅一波!」主播吳安琪告別28年TVBS：迅速辦手續、 迅速離開	https://www.msn.com/zh-tw/entertainment/news/被裁員爆紅一波-主播吳安琪告別28年tvbs-迅速辦手續-迅速離開/ar-AA226myU?cvid=69f7fd313b3e4cb799d7478c2de88245&ocid=hpmsn	未分類
 2026-04-30	Premier Inn 老闆將裁員 3,800 人歸咎於職場稅上漲	https://www.arch-web.com.tw/世界新聞/premier-inn-老闆將裁員-3800-人歸咎於職場稅上漲/637146/	未分類
 2026-04-30	EA一邊說 AI 只是加持，但一邊卻被爆出裁員消息，你覺得大家會買單嗎？	https://www.superdope.games/archives/31039	未分類
 2026-04-29	香港最新失業率3.7% 減薪裁員「家用」要照畀？4步驟同父母坦白	https://www.hk01.com/開罐/60248853/香港最新失業率3-7-減薪裁員-家用-要照畀-4步驟同父母坦白	未分類
@@ -1962,6 +1989,7 @@ var DATA_ECONOMY = `
 2026-03-26	傳將軍澳店9月底結業居民憂失集體回憶千色Citistore澄清：沒有結業計劃(11:02) - 20260326 - 即時財經新聞	https://finance.mingpao.com/fin/instantf/20260326/1774494135217/傳將軍澳店9月底結業-居民憂失集體回憶-千色citistore澄清-沒有結業計劃	未分類
 2026-03-26	【美國經濟】進口物價飆升 市場憂經濟衰退風險	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeXpKem9sSlNEenNRR1J5UEM2T19mV3h2Vk9BRXNOODVwd2lUeEJ5ajI5SmtOLTBXSzRzaVJRT2RpWUwwYWtaOEkwZkFYSUtJNDlLZUExRm9uVGwxazB2d2dGaTE?oc=5	未分類
 2026-03-26	Meta裁員數百人！同時砸千億美元擴大AI投資	https://tw.news.yahoo.com/meta裁員數百人-同時砸千億美元擴大ai投資-034534268.html	未分類
+2026-03-26	Meta裁員數百人! 同時砸千億美元擴大AI投資	https://www.msn.com/zh-tw/news/world/meta裁員數百人-同時砸千億美元擴大ai投資/ar-AA1Zq38z	未分類
 2026-03-26	Meta裁員700人 推高額股權激勵留才	https://www.singtaousa.com/2026/03/26/news/usa/meta-layoffs-stock-options/	未分類
 2026-03-26	Epic公司裁員 貝爾維尤辦公室受影響	https://www.epochtimes.com/b5/26/3/26/n14727484.htm/amp	未分類
 2026-03-26	AI成裁員「擋箭牌」？ 官媒：企業享受紅利時也要履行責任	https://www.am730.com.hk/article/1021362	未分類
@@ -2004,6 +2032,7 @@ var DATA_ECONOMY = `
 2026-03-22	蘋果50年五次轉型，Apple如何透過「信念接力」從瀕臨破產走向全球市值之巔？	https://csr.cw.com.tw/article/44627	未分類
 2026-03-22	知名診所爆欠薪倒閉 百人受害申訴求償	https://news.ebc.net.tw/news/living/543288	未分類
 2026-03-22	情歌女王自嘲無生意命！開店接連慘賠倒閉 感嘆「跟創業沒什麼緣分」	https://news.tvbs.com.tw/entertainment/3158110?from=pulldownmenu_content_娛樂_情歌女王自嘲無生意命！開店接連慘賠倒閉 感嘆「跟創業沒什麼緣分」	未分類
+2026-03-22	情歌女王自嘲無生意命!開店接連慘賠倒閉 感嘆「跟創業沒什麼緣分」	https://www.msn.com/zh-tw/entertainment/news/情歌女王自嘲無生意命-開店接連慘賠倒閉-感嘆-跟創業沒什麼緣分/ar-AA1Z9iln	未分類
 2026-03-22	情歌女王白智榮自爆開店接連倒閉悲慘內幕 嘆：和創業沒什麼緣分	https://star.setn.com/news/1811089	未分類
 2026-03-22	台灣「老牌診所」爆倒閉！欠薪捲款、醫師集體失聯，法務局證實：人去樓空、 逾百名受害者	https://www.storm.mg/lifestyle/11113573	未分類
 2026-03-22	傳受AI衝擊 B站裁員60% 研發人員集體罷工抗議	https://www.ntdtv.com/b5/2026/03/21/a104078611.html	未分類
@@ -2035,6 +2064,7 @@ var DATA_ECONOMY = `
 2026-03-20	哥倫比亞廣播公司新聞部裁員6%	https://www.ntdtv.com/b5/2026/03/20/a104078291.html	未分類
 2026-03-20	公司欠薪數十億韓圜 THE BOYZ 9成員求解約	https://www.singtaousa.com/2026/03/20/entertainment/the-boyz-contract-termination/	未分類
 2026-03-20	健身房倒閉 武漢教練「負責到底」 上完學員877節課	https://www.worldjournal.com/wj/amp/story/121343/9392527	未分類
+2026-03-20	交易邏輯改變全球爆發「衰退交易」與隱形金融風暴	https://www.aastocks.com/tc/stocks/news/anue-news/AN6392143/1	未分類
 2026-03-20	【永續新聞快訊】從「水資源破產」到治理失衡，全球水危機升級	https://csrone.com/news/9830	未分類
 2026-03-20	「銅博士」與黃金同步重挫 經濟衰退陰雲籠罩全球	https://hk.finance.yahoo.com/news/銅博士-與黃金同步重挫-經濟衰退陰雲籠罩全球-054007401.html	未分類
 2026-03-20	Ubisoft《全境封鎖：烽火戰地》開發商Red Storm Entertainment 裁員百人停止自研遊戲	https://www.4gamers.com.tw/news/detail/77803/ubisoft-reportedly-lays-off-105-employees-at-red-storm-entertainment	未分類
@@ -2260,6 +2290,7 @@ var DATA_ECONOMY = `
 2026-02-19	台灣1產業要掀倒閉潮!政府預算卡關沒錢付，專家曝「最快4月撐不住」全台大停工	https://www.storm.mg/lifestyle/11102716	未分類
 2026-02-18	預算缺口大 洛杉磯聯合學區擬裁員六百餘人	https://www.epochtimes.com/b5/26/2/18/n14700555.htm/amp	未分類
 2026-02-18	過年又被逼婚！年輕人1句話「長輩嚇倒閉嘴」 萬人驚呆：真的有效	https://www.ettoday.net/news/20260218/3120202.htm	未分類
+2026-02-18	過年又被逼婚! 年輕人1句話「長輩嚇倒閉嘴」萬人驚呆： 真的有效	https://www.msn.com/zh-tw/news/other/過年又被逼婚-年輕人1句話-長輩嚇倒閉嘴-萬人驚呆-真的有效/ar-AA1WyIyq?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-02-18	蘇民峰2026生肖運程｜屬鼠沖太歲多變化或破財被裁員肖虎太歲三合有2個重桃花月【鼠、牛、虎】	https://topick.hket.com/article/4059008/蘇民峰2026生肖運程｜屬鼠沖太歲多變化或破財被裁員 肖虎太歲三合有2個重桃花月【鼠、牛、虎】	未分類
 2026-02-18	英國：隨著CPI接近目標，通貨膨脹減緩路徑依然存在 – 德意志銀行	https://www.fxstreet.hk/amp/news/ying-guo-sui-zhu-cpijie-jin-mu-biao-tong-huo-peng-zhang-jian-huan-lu-jing-yi-ran-cun-zai-de-yi-zhi-yin-xing-202602180935	未分類
 2026-02-18	英國失業率見五年高位 英鎊兌美元曾跌穿1.35水平	https://news.tvb.com/tc/finance/6994c973060723efc07e05ae/財經-英國失業率見五年高位-英鎊兌美元曾跌穿1.35水平	未分類
@@ -2496,6 +2527,10 @@ var DATA_ECONOMY = `
 2025-09-09	戴爾傳在華第四度裁員：從龍頭到「others」 PC出貨量已跌出前五	https://www.hk01.com/article/60274726?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-09-09	取代人類？｜ 澳洲銀行裁45名「多餘」員工 被裁員工揭其最後工作 竟是親手訓練AI接替自己？！	https://hk.finance.yahoo.com/news/取代人類-澳洲銀行裁45名-多餘-員工-被裁員工揭其最後工作-080132801.html	未分類
 2025-09-09	傳數碼通上周五裁員約30人 涉及總經理及助理經理等職級	https://hk.finance.yahoo.com/news/傳數碼通-00315-hk-上周五裁員約30人-涉及總經理及助理經理等職級-013334062.html	未分類
+2025-09-07	💸 數字人民幣動態 ….		未分類
+2025-09-07	💵 數字人民幣 ….		未分類
+2025-09-07	1. 🏦 中國央行發行的數字貨幣 ….		未分類
+2025-09-07	1. 🇨🇳 數字人民幣試點全球最大 ….		未分類
 2025-09-06	大富豪關連茶餐廳「尖東小廚」20員工被欠薪$70萬 勞工處接求助	https://www.hk01.com/article/60273771?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-09-04	業主未住過即破產 粉嶺山麗苑銀主盤150萬推拍、全屋清水無間隔	https://www.hk01.com/article/60272746?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-09-01	拍賣市場湧現銀主盤 部份折讓達50% 揭3大按揭避雷位｜曹德明	https://www.stheadline.com/realtime-property/3495117/	未分類
@@ -2533,13 +2568,28 @@ var DATA_ECONOMY = `
 2025-08-11	新西蘭央行據報擬未來2個月裁員兩成 涉逾140人	https://hk.on.cc/hk/bkn/cnt/finance/20250811/bkn-20250811114010073-0811_00842_001.html	未分類
 2025-08-11	AI｜美國科企裁員潮 電腦科學系畢業生「金飯碗」不再	https://inews.hket.com/article/3991685/AI｜美國科企裁員潮 電腦科學系畢業生「金飯碗」不再	未分類
 2025-08-10	餐飲業連番執笠 建造業高失業率 議員促監管破欠基金免遭濫用	https://hk.on.cc/hk/bkn/cnt/news/20250810/bkn-20250810170556608-0810_00822_001.html	未分類
+2025-08-10	結業潮2025｜52.居酒屋漁獲浜燒 銅鑼灣開業10年曾獲視節目推介 2025-08-10		未分類
+2025-08-10	結業潮2025｜5.火鍋撚 8年歷史旺角分店結業 2025-08-10		未分類
+2025-08-10	結業潮2025｜48.上環球哥燉湯 經營10年不敵業主逆市加租 2025-08-10		未分類
+2025-08-10	結業潮2025｜44.深水埗源興美食 26年歷史兩餸飯始祖 2025-08-10		未分類
+2025-08-10	結業潮2025｜40.大角咀車品品 25年歷史賣55年陳皮紅豆沙 2025-08-10		未分類
+2025-08-10	結業潮2025｜36.新美廉食品批發公司 元朗30載人情味零食老店 2025-08-10		未分類
+2025-08-10	結業潮2025｜1.大班麵包西餅 首創冰皮月餅41年歷史 2025-08-10		未分類
 2025-08-10	內地人在港物業連環淪為銀主盤 低至買價4折推拍	https://hk.on.cc/hk/bkn/cnt/finance/20250810/bkn-20250810191229895-0810_00842_001.html	未分類
+2025-08-09	結業潮2025｜9. 燒肉男 日式燒肉全線結業 2025-08-09		未分類
+2025-08-09	結業潮2025｜63.泰鳩 Mirror+Error泰國餐廳 2025-08-09		未分類
+2025-08-09	結業潮2025｜59.和順記雞脾王 巨無霸生炸雞髀 2025-08-09		未分類
+2025-08-09	結業潮2025｜56.新斗記 開業逾10年曾獲米芝蓮一星級榮譽 2025-08-09		未分類
+2025-08-09	結業潮2025｜20.吉列牛忌廉烏冬 韓國過江龍Kobekyu全線結業 2025-08-09		未分類
 2025-08-09	影／越南版「DOGE」行政改革！蘇林大刀闊斧整併部會 裁員40萬人	https://www.nownews.com/news/6717665?srsltid=AfmBOop3B9_elVR_kvFDfbuIZULJ6NOJw6_MJb9HODab_i8gpx3XXELi	未分類
+2025-08-08	結業潮2025｜26.銅鑼灣變形金剛餐廳 沉浸式用餐2月結業 2025-08-08		未分類
+2025-08-08	結業潮2025｜16.日本金田家拉麵 攻港11年高峰曾開7間分店 2025-08-08		未分類
 2025-08-08	撐不下去了！日本爆發「員工離職企業破產」 今年恐破百間創新高| 國際	https://www.setn.com/news/1700759	未分類
 2025-08-08	修訂監獄規則｜私飯商星藝廚坊結業 勞工處收10員工求助欠薪百萬	https://www.hk01.com/article/60264934?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-08-08	修訂監獄規則｜私飯供應商失生意 星藝廚坊疑結業 20員工遭拖糧	https://www.hk01.com/article/60264643?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-08-05	首間真人密室逃脫「逃出香港」9.10結業 開業13年高峰期7間分店	https://www.hk01.com/article/60263904?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-08-05	蔣萬安爆北市2800家企業受衝擊 「這類公司」已有停單：恐現無薪假、裁員	https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E7%88%86%E5%8C%97%E5%B8%822800%E5%AE%B6%E4%BC%81%E6%A5%AD%E8%A1%9D%E6%93%8A-%E9%80%99%E9%A1%9E%E5%85%AC%E5%8F%B8-%E5%B7%B2%E6%9C%89%E5%81%9C%E5%96%AE-%E6%81%90%E7%8F%BE%E7%84%A1%E8%96%AA%E5%81%87-%E8%A3%81%E5%93%A1-091500817.html	未分類
+2025-08-05	結業潮2025｜31.朗豪坊馬莎M&S 屹立十年曾為亞洲最大食品專門店 2025-08-05		未分類
 2025-08-03	短命餐廳｜長沙灣福哥茶記開張2日即停業 街坊：不驚訝會結業	https://www.hk01.com/article/60263136?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-08-03	北角52年麵包店新鳳凰結業在即 必食招牌腿蛋包/芝士雞批/曲奇皮蛋撻	https://hk.news.yahoo.com/%E6%96%B0%E9%B3%B3%E5%87%B0-%E7%86%B1%E8%A9%B1-%E7%B5%90%E6%A5%AD-%E5%8C%97%E8%A7%92%E7%BE%8E%E9%A3%9F-%E6%B8%AF%E5%BC%8F%E9%BA%B5%E5%8C%85-%E8%9B%8B%E6%92%BB-233042322.html	未分類
 2025-08-02	759阿信屋港鐵將軍澳站店8.5結業！開業13年終退場 兩個月內執2間	https://www.stheadline.com/food/3486727/	未分類
@@ -2571,8 +2621,12 @@ var DATA_ECONOMY = `
 2025-07-12	海茵莊園變「蟹茵莊園」狂撻訂41伙 發展商債務危機隨時爆｜燈神	https://www.hk01.com/article/60255716?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-11	新思維｜領展裁員事件反映公共資源私人牟利的不義之舉	https://www.hk01.com/01論壇/60255531/新思維-領展裁員事件反映公共資源私人牟利的不義之舉	未分類
 2025-07-10	新斗記結業︱勞工處：已聯絡管理層妥善處理員工欠薪及解僱補償	https://www.hk01.com/article/60255575?utm_source=01articlecopy&utm_medium=referral	未分類
+2025-07-09	💸 數字人民幣動態 ….		未分類
+2025-07-09	💵 數字人民幣 ….		未分類
 2025-07-09	美國最高法院推翻判決 允許政府機構大裁員	https://www.dw.com/zh-hant/美國最高法院推翻判決-允許政府機構大裁員/a-73215537	未分類
 2025-07-09	結業2025〡香港結業餐廳名單 未夠半年已有20間餐廳倒閉？變形金剛餐廳/Eggslut/文苑飯莊	https://news.google.com/rss/articles/CBMi2wJBVV95cUxNcFJjX0lLd0J6aVhFM0l5bW5NLXVTc1hKdzhTeldsN0YwSkpGbGhaLTNSN0tZOXljUmx6UG1YNFNpYXJwd0tidURYbjVuSmc4cGdLd2QxcHk2UXptX2ZraUcwSHg0YzRxcnRyd1FEaC1iWkJEQm1qeUNEUVJ3a0U3eHFWLXRVRHRfWWUwUHYwY0NzcWYzMXdfaUtoRDhCUUdaV29NX0diWGExTmdFOHlJT28zV1Q0bDhDejg2UHF6VHpjZ0EwZ1hzbWFpWldkalM0T2dQMy1NLVBvTjN1cHp1YnhCai1MeHRLbFhsdEJHWXBjdVJuYVViWEx2SGZZZWloQ25vMWVSZmdhTG4zc0pBNGltSS1WYmhfS2EtUG9nWUtYN01scnJTc3ltS3dGTDVKLXo3NVQ5YndiNEI5UHJHVzlUNVdxMVRkMDBLNy1OSk9ndVhqU3N2WjJ4RQ?oc=5	未分類
+2025-07-09	1. 🏦 中國央行發行的數字貨幣 ….		未分類
+2025-07-09	1. 🇨🇳 數字人民幣試點全球最大 ….		未分類
 2025-07-08	有汗出無糧出｜九龍灣常悅道商廈工程 三判工追二判百萬元欠薪	https://www.hk01.com/article/60254519?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-08	名都酒樓結業︱坐落金鐘統一中心35年 員工證9.27最後營業：無奈	https://www.hk01.com/article/60254497?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-08	中國電動品牌內捲帶來倒閉潮，最新研究中國129家電動車品牌2030年只會剩15家	https://autos.yahoo.com.tw/news/中國電動品牌內捲帶來倒閉潮-最新研究中國129家電動車品牌2030年只會剩15家-030720065.html	未分類
@@ -2619,6 +2673,7 @@ var DATA_ECONOMY = `
 2025-06-02	裁員潮殺到？專家Son姐教「保命」3招 打工仔轉危為機：居安思危	https://www.hk01.com/開罐/60241798/裁員潮殺到-專家son姐教-保命-3招-打工仔轉危為機-居安思危	未分類
 2025-06-02	百分百個人貸款壞帳率逾19% 料進一步增加 有人每月70元不還終破產	https://www.singtaousa.com/2025-06-02/%e7%99%be%e5%88%86%e7%99%be%e5%80%8b%e4%ba%ba%e8%b2%b8%e6%ac%be%e5%a3%9e%e5%b8%b3%e7%8e%8719-3-%e6%96%99%e9%80%b2%e4%b8%80%e6%ad%a5%e5%a2%9e%e5%8a%a0-%e6%9c%89%e4%ba%ba%e6%af%8f%e6%9c%8870%e5%85%83/5243783#google_vignette	未分類
 2025-05-30	藝人林夏薇遭山頂物業的業主申請破產 案8.26高院提訊	https://www.hk01.com/article/60243176?utm_source=01articlecopy&utm_medium=referral	未分類
+2025-05-27	沃爾沃在瑞典裁員3,000，日產全球再裁1.1萬， 中國電動車大範圍降價	https://www.msn.com/zh-tw/news/other/沃爾沃在瑞典裁員3000-日產全球再裁11萬-中國電動車大範圍降價/ar-AA1FxdaY?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2025-05-27	大埔馬窩路住宅地盤 工人追討400萬欠薪	https://hk.on.cc/hk/bkn/cnt/news/20250527/bkn-20250527182237529-0527_00822_001.html	未分類
 2025-05-26	🍜結業潮｜連鎖車仔麵店「火雞姐嗱喳麵」北角店結業 9個月執3間分店 全港最後一間在這區...	https://ps.hket.com/article/3925509	未分類
 2025-05-26	裁員潮｜失業點算？2大緊急失業援助計劃 即睇申請資格＋方法＋援助金額	https://www.mytvsuper.com/tc/scoopplus/lifestyle/home/15306113435401/	未分類
@@ -3903,10 +3958,12 @@ var DATA_ECONOMY = `
 2022-07-05	追欠薪曠日持久 幫打工族須提速提效	https://www.hk01.com/sns/article/788823	未分類
 2022-07-01	數碼浪潮淹沒紙媒 美國平均每週2間報社倒閉	https://www.hk01.com/sns/article/787801	未分類
 2022-07-01	工會指亞太餐飲多間食肆結業兼欠工資 積金局︰高度重視個案	https://www.hk01.com/sns/article/787877	未分類
+2022-06-14	港滙持續觸及7.85弱方兌換保證 6		未分類
 2022-06-12	美妝巨頭「露華濃」傳將破產！股價腰斬1天崩跌53％	https://www.setn.com/news/1129703	未分類
 2022-06-10	經濟衰退是長期傷害！美400位CEO驚吐真話：考慮大裁員	https://tw.news.yahoo.com/%E7%B6%93%E6%BF%9F%E8%A1%B0%E9%80%80%E6%98%AF%E9%95%B7%E6%9C%9F%E5%82%B7%E5%AE%B3-%E7%BE%8E400%E4%BD%8Dceo%E9%A9%9A%E5%90%90%E7%9C%9F%E8%A9%B1-%E8%80%83%E6%85%AE%E5%A4%A7%E8%A3%81%E5%93%A1-220009790.html	未分類
 2022-06-09	最悲觀的預測 華爾街“大空頭”：如果出現經濟衰退，標普500恐跌至3000	https://hk.investing.com/news/stock-market-news/article-253119	未分類
 2022-06-08	優之良品結業｜租金減得慢 業界看淡今年前景 倡聚焦本地人市場	https://www.hk01.com/sns/article/778931	未分類
+2022-05-16	強制公司清盤案及破產案統計數字 5		未分類
 2022-05-12	Zeek拖150員工糧涉逾千萬 車手遭欠薪18萬須借貸養家	https://www.etnet.com.hk/mobile/tc/lifestyle/internationalaffairs/news/81800	未分類
 2022-04-10	Terra倒閉，殃及新加坡「加密天堂」地位不再	https://big5.ftchinese.com/interactive/85254?topnav=china&exclusive	未分類
 2022-03-12	《國際金融》明年經濟衰退在即 投資人紛尋找資金避風港	https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E9%87%91%E8%9E%8D-%E6%98%8E%E5%B9%B4%E7%B6%93%E6%BF%9F%E8%A1%B0%E9%80%80%E5%9C%A8%E5%8D%B3-%E6%8A%95%E8%B3%87%E4%BA%BA%E7%B4%9B%E5%B0%8B%E6%89%BE%E8%B3%87%E9%87%91%E9%81%BF%E9%A2%A8%E6%B8%AF-063248782.html	未分類
