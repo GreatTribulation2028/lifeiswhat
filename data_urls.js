@@ -19331,6 +19331,7 @@ var DATA_URLS = `
 2025-11-24	https://news.pchome.com.tw/society/ctinews/20251124/index-76397719922097309002.html
 2025-11-24	https://tw.news.yahoo.com/台人猝死中國-兒稱-失聯23年-拒認屍-遺體冰存廈門陷僵局-021619970.html
 2025-11-24	https://www.hk01.com/台灣新聞/60297145/68歲港婦高雄夢時代餐廳用餐突失去呼吸心跳-經搶救留醫icu
+2025-11-23	https://www.marketersgo.com/media-collaboration/202511/致命迷思：沒有慢性病就不會「猝死」？-冬季猝-2/
 2025-11-23	https://www.ntdtv.com/b5/2025/11/23/a104040870.html/amp
 2025-11-23	https://hk.news.yahoo.com/油麻地幸運大廈七旬翁食麵鯁喉-送院搶救惜返魂乏術-095737668.html
 2025-11-23	https://hk.on.cc/hk/bkn/cnt/news/20251123/bkn-20251123125402915-1123_00822_001.html
@@ -19837,6 +19838,7 @@ var DATA_URLS = `
 2025-08-29	https://news.tvb.com/tc/world/68b0e6b55038aced1ac152e0/%E5%9C%8B%E9%9A%9B-%E6%97%A5%E6%9C%AC%E6%9C%893%E4%BA%BA%E7%96%91%E4%B8%AD%E6%9A%91%E4%BA%A1-%E6%B0%A3%E8%B1%A1%E5%BB%B3%E6%96%99%E6%9D%B1%E6%B5%B7%E8%87%B3%E4%B9%9D%E5%B7%9E%E7%AD%89%E5%9C%B0%E4%BB%8A%E6%97%A5%E4%BB%8D%E9%AB%98%E6%BA%AB
 2025-08-29	https://www.bannedbook.org/bnews/zh-tw/baitai/20250829/2228732.html
 2025-08-28	https://www.msn.com/zh-tw/news/national/%E5%BF%AB%E8%A8%8A-%E5%8F%B065%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E8%B2%A8%E8%BB%8A%E7%9B%B4%E6%92%9E%E5%AE%A2%E9%81%8B-%E5%A5%B3%E5%89%AF%E9%A7%95%E6%85%98%E6%AD%BB/ar-AA1I30NZ?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
+2025-08-28	https://www.msn.com/zh-tw/news/world/生日之旅成悲劇-美父返家班機突猝逝-家屬急籌錢送遺體回國/ar-AA1LnTni
 2025-08-28	https://today.line.me/hk/v3/reposts/article/aGLnv0P
 2025-08-28	https://today.line.me/tw/v3/article/oq7J2Ko
 2025-08-28	https://www.msn.com/zh-tw/news/national/%E5%8F%B0%E4%B8%AD%E9%80%80%E8%AD%A6%E7%8C%9D%E6%AD%BB%E8%B6%85%E5%95%86%E9%A8%8E%E6%A8%93-%E7%94%9F%E5%89%8D%E6%9A%96%E5%BF%83%E4%BA%8B%E8%B9%9F%E6%9B%9D-%E5%8A%A9%E8%BF%B7%E9%80%9490%E6%AD%B2%E9%98%BF%E5%AC%A4%E5%9B%9E%E5%AE%B6-%E7%8D%B2%E8%A1%A8%E6%8F%9A/ar-AA1LeLU5
