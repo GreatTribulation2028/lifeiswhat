@@ -1,4 +1,4 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 334 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 315 條
 var DATA_TRIBULATION = `
 2026-09-26	亞運／拿銀牌輸南韓如同世界末日！北韓女將同台南韓金牌冷臉僵硬零互動	https://news.tvbs.com.tw/sports/4027701	未分類
 2026-09-25	當人類故事裝上新引擎，我們往哪裡去？──紀錄片《我如何在末世成為樂觀主義者》觀影筆記	https://news.google.com/rss/articles/CBMiakFVX3lxTE1qSkQ4QWxORHNNSlRJRW8xYVJvUTJmcXE3RHFWbXRaa0pieE85cUlqZ21mVFQ4R1I5VVBrUlc3ZkZyZXFaVWZnbWp1dWxmaVV0U3cxWjlRVG9sR25mcmlFNnN4TW9FU05lSmc?oc=5	未分類
@@ -136,13 +136,13 @@ var DATA_TRIBULATION = `
 2026-08-06	畫面如〈出埃及記〉10災駭人 蝗蟲大軍「密麻遮天」像末日	https://tw.news.yahoo.com/畫面如-出埃及記-10災駭人-蝗蟲大軍-密麻遮天-065602687.html	未分類
 2026-08-06	俄羅斯遭「蝗蟲大軍」壓境 驚悚景象宛如末日來臨	https://www.nexttv.com.tw/NextTV/News/Home/WorldNews/2026-08-06/2428805.html	未分類
 2026-08-06	俄羅斯蝗害肆虐！鋪天蓋地襲來宛如末日網驚：聖經十災| 國際	https://www.setn.com/news/1885236	未分類
-2026-08-06	〈出埃及記〉10災真實上演…蝗蟲大軍強襲「密麻遮天」 宛如末日驚悚畫面曝光	https://www.mnews.tw/story/amp/mm-20260806edi020	未分類
+2026-08-06	〈出埃及記〉10災真實上演…蝗蟲大軍強襲「密麻遮天」 宛如末日驚悚畫面曝光	https://www.ftnn.com.tw/news/567670	未分類
 2026-08-04	賞您《末世橡樹街》優先場戲票30張｜東周JETSO	https://eastweek.stheadline.com/jetso/20599/%E8%B3%9E%E6%82%A8%E6%9C%AB%E4%B8%96%E6%A9%A1%E6%A8%B9%E8%A1%97%E5%84%AA%E5%85%88%E5%A0%B4%E6%88%B2%E7%A5%A830%E5%BC%B5%E6%9D%B1%E5%91%A8JETSO	未分類
 2026-08-03	安妮夏菲維 X 伊雲麥葵格兩大巨星首度聯手！《末世橡樹街》 逃出絕境家園	https://www.bastillepost.com/hongkong/article/16489280-%E5%AE%89%E5%A6%AE%E5%A4%8F%E8%8F%B2%E7%B6%AD-x-%E4%BC%8A%E9%9B%B2%E9%BA%A5%E8%91%B5%E6%A0%BC%E5%85%A9%E5%A4%A7%E5%B7%A8%E6%98%9F%E9%A6%96%E5%BA%A6%E8%81%AF%E6%89%8B%EF%BC%81%E3%80%8A%E6%9C%AB	未分類
 2026-07-31	新北馬拉松接力賽12/6開跑666隊即日開放報名| 地方	https://www.cna.com.tw/news/aloc/202607310263.aspx	未分類
 2026-07-30	東京上野突落冰雹 網民狼狽避難：像世界末日︱有片	https://www.stheadline.com/realtime-world/3599362/%E6%9D%B1%E4%BA%AC%E4%B8%8A%E9%87%8E%E7%AA%81%E8%90%BD%E5%86%B0%E9%9B%B9-%E7%B6%B2%E6%B0%91%E7%8B%BC%E7%8B%BD%E9%81%BF%E9%9B%A3%E5%83%8F%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E6%9C%89%E7%89%87	未分類
 2026-07-28	智原Q2獲利年增666％ Q3因供應鏈緊縮呈現季減	https://ec.ltn.com.tw/article/breakingnews/5520425	未分類
-2026-07-24	曾精準預言新冠來襲、多項天災 泰國神婆曝下半年6大災難	https://www.ettoday.net/news/20260724/3207145.htm	未分類
+2026-07-24	曾精準預言新冠來襲、多項天災 泰國神婆曝下半年6大災難	https://tw.news.yahoo.com/曾精準預言新冠來襲-多項天災-泰國神婆曝下半年6大災難-074300819.html	未分類
 2026-07-24	666億募資額，位列A股歷史第三，2010年以來最大規模IPO：長鑫科技下周一上市，造富與抽血誰更兇猛？	https://hao.cnyes.com/post/260637	未分類
 2026-07-18	警察沒考上先遇上「世界末日」 寶萊塢兩大男神徒步大逃亡 逼哭坎城9分鐘	https://tw.news.yahoo.com/%E8%AD%A6%E5%AF%9F%E6%B2%92%E8%80%83%E4%B8%8A%E5%85%88%E9%81%87%E4%B8%8A-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E5%AF%B6%E8%90%8A%E5%A1%A2%E5%85%A9%E5%A4%A7%E7%94%B7%E7%A5%9E%E5%BE%92%E6%AD%A5%E5%A4%A7%E9%80%83%E4%BA%A1-%E9%80%BC%E5%93%AD%E5%9D%8E%E5%9F%8E9%E5%88%86%E9%90%98-183100725.html	未分類
 2026-07-17	港股異動 | 黃仁勛再次駁斥AI末日論，AI硬科技股齊走高！廣合科技大漲13%，勝宏科技漲逾5%，華虹宏力、中際旭創漲逾3%	https://www.hstong.com/news/hk/detail/26091809502395938	未分類
@@ -188,7 +188,7 @@ var DATA_TRIBULATION = `
 2026-06-06	今天就是！千載難逢「超級666日」降臨 命理師曝開運招財秘訣	https://udn.com/news/story/7268/9549450	未分類
 2026-06-05	錯過要等下輩子！明逢千載難逢「666大吉日」 命理師揭開運秘訣	https://www.nownews.com/news/6843712	未分類
 2026-06-05	明迎罕見666！教戰「快拜1物」大吉轉運日	https://www.mirrormedia.mg/external/setn_1850599	未分類
-2026-06-05	快設定截圖！錯過等下輩子！明逢罕見「666」大吉日 專家教戰：快拜1物	https://www.setn.com/news/1850599	未分類
+2026-06-05	快設定截圖！錯過等下輩子！明逢罕見「666」大吉日 專家教戰：快拜1物	https://tw.news.yahoo.com/%E8%B6%85%E5%BC%B7%E8%BD%89%E9%81%8B%E6%97%A5-%E9%8C%AF%E9%81%8E%E7%AD%89%E4%B8%8B%E8%BC%A9%E5%AD%90-%E6%98%8E%E9%80%A2%E8%B6%85%E7%BD%95%E8%A6%8B-666-%E5%A4%A7%E5%90%89%E6%97%A5-065100857.html	未分類
 2026-06-05	千載難逢「一路6到底」！本週六超級666神巧合 民俗專家加碼開運秘招	https://news.ltn.com.tw/news/life/breakingnews/5461604	未分類
 2026-06-05	0050年化報酬113%「獲利僅666元！」他曬超狂對帳單 網一看本金笑噴	https://tw.news.yahoo.com/0050%E5%B9%B4%E5%8C%96%E5%A0%B1%E9%85%AC113-%E7%8D%B2%E5%88%A9%E5%83%85666%E5%85%83-%E4%BB%96%E6%9B%AC%E8%B6%85%E7%8B%82%E5%B0%8D%E5%B8%B3%E5%96%AE-%E7%B6%B2-%E7%9C%8B%E6%9C%AC%E9%87%91%E7%AC%91%E5%99%B4-112300825.html	未分類
 2026-06-04	六六大順日！百年一遇“最6”周六來襲，兩岸網友刷屏666	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zTVJoQUlFanBwdTRNMGY0OFZlWVVOY0kteXZFMFRFVUZ4R0U5TzAxN1Bpc3JxcEcyeVlKS3NRZ1Q3VlJtUWZtd00ta2hVMTdpbDk4YlJIR3R2OV9BUzNKV0lHWmJKdw?oc=5	未分類
@@ -240,11 +240,11 @@ var DATA_TRIBULATION = `
 2026-04-01	8次空亡卦「3大災難」恐發生！命理師預言柯文哲最終結局	https://tw.news.yahoo.com/8次空亡卦-3大災難-恐發生-命理師預言柯文哲最終結局-074106970.html	未分類
 2026-03-31	澳洲驚見「血色天空」！如「世界末日」專家說話了 | 民視新聞網	https://today.line.me/tw/v3/article/VxXYKNy	未分類
 2026-03-26	大家樂荃新天地店周日結業！惠顧四市即送優惠券 網民慨嘆：有啲唔捨得	https://www.stheadline.com/food/3556730/大家樂荃新天地店周日結業惠顧四市即送優惠券-網民慨嘆有啲唔捨得	未分類
-2026-03-23	最高法院審理魁省世俗法案 聚焦「但書條款」爭議	https://www.singtao.ca/7452447/2026-03-23/news-最高法院審理魁省世俗法案	未分類
+2026-03-23	最高法院審理魁省世俗法案 聚焦「但書條款」爭議	https://www.singtao.ca/7452447/2026-03-23/news-最高法院審理魁省世俗法案 +聚焦「但書條款」爭議 /	未分類
 2026-03-15	【2026TIFA】《不過就是世界末日》：多藍與魯賓，電影與劇場的經典文本重現	https://www.thenewslens.com/article/265529	未分類
 2026-03-13	墨西哥海灘驚現9米長地震魚 詭異畫面民眾直呼：世界末日近了？	https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60330092/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B5%B7%E7%81%98%E9%A9%9A%E7%8F%BE9%E7%B1%B3%E9%95%B7%E5%9C%B0%E9%9C%87%E9%AD%9A-%E8%A9%AD%E7%95%B0%E7%95%AB%E9%9D%A2%E6%B0%91%E7%9C%BE%E7%9B%B4%E5%91%BC-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E8%BF%91%E4%BA%86	未分類
 2026-03-09	克宮警告「世界末日將至」！普丁發言人痛批：國際法已崩潰	https://tw.news.yahoo.com/%E5%85%8B%E5%AE%AE%E8%AD%A6%E5%91%8A-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%B0%87%E8%87%B3-%E6%99%AE%E4%B8%81%E7%99%BC%E8%A8%80%E4%BA%BA%E7%97%9B%E6%89%B9-%E5%9C%8B%E9%9A%9B%E6%B3%95%E5%B7%B2%E5%B4%A9%E6%BD%B0-221000617.html	未分類
-2026-03-07	【未解之謎】伊朗變天！末日預言應驗！第三聖殿要來了？	https://news.google.com/rss/articles/CBMiX0FVX3lxTE00QU9sci1SOEZlaXIxdnI4bVJPUTV5QlRnX1ExN1VmUTVNWjRvRm51RlIweEI5VlVEd2FSM01nSTZLODZuSWo3bE5iNS1Gdktvdkp4dy04d1FKNDE0ZzJF0gFkQVVfeXFMTk1OaGFwR0RMVVNFYmdKR3NiWDctOGNPTUF6TGhCa3A3SzBQOExjLUpyVkpYUDhPMDl2NUJUOHQ5NE9LVU01eTFzNi1Vd2VrWE1LeDJ1SzJLRVpxRm1EMUg2bDQ1Tw?oc=5	未分類
+2026-03-07	【未解之謎】伊朗變天！末日預言應驗！第三聖殿要來了？	https://www.epochtimes.com/b5/26/3/7/n14713277.htm	未分類
 2026-03-07	【未解之謎】伊朗變天 末日預言應驗！	https://www.ntdtv.com/b5/2026/03/07/a104073860.html	未分類
 2026-03-04	高盛︰AI每年恐取代超400萬崗位 但不會引發「就業末日」	https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327108/%E9%AB%98%E7%9B%9B-ai%E6%AF%8F%E5%B9%B4%E6%81%90%E5%8F%96%E4%BB%A3%E8%B6%85400%E8%90%AC%E5%B4%97%E4%BD%8D-%E4%BD%86%E4%B8%8D%E6%9C%83%E5%BC%95%E7%99%BC-%E5%B0%B1%E6%A5%AD%E6%9C%AB%E6%97%A5	未分類
 2026-02-27	Salesforce CEO马克·贝尼奥夫反驳“软件末日论”：又不是第一次了	https://tech.ifeng.com/c/8r5UKl48KTp	未分類
@@ -256,7 +256,6 @@ var DATA_TRIBULATION = `
 2026-02-04	2026年世界末日？物理學家預言「呢日」全球滅絕 、《科學》期刊揭元兇非核戰	https://hk.ulifestyle.com.hk/topic/detail/20088435/2026-%E6%9C%AB%E6%97%A5%E9%A0%90%E8%A8%80-%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B6-%E9%A6%AE%E4%BD%9B%E6%96%AF%E7%89%B9-%E7%A7%91%E5%AD%B8%E6%9C%9F%E5%88%8A-%E4%BA%BA%E5%8F%A3%E7%88%86%E7%82%B8-%E6%9C%AB%E6%97%A5%E9%90%98-11%E6%9C%8813%E6%97%A5-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-2026	未分類
 2026-02-02	獨家專欄》鄭宗哲屢被DFA不是世界末日！那些曾被DFA的超級巨星| 眼鏡哥看體育	https://today.line.me/tw/v3/article/RB8D7Vm	未分類
 2026-01-28	「末日鐘」撥快4秒 距世界末日僅85秒 大國侵略升溫、核戰風險、AI威脅等所致 (16:17) - 20260128 - 國際	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260128/s00005/1769588223915/%E3%80%8C%E6%9C%AB%E6%97%A5%E9%90%98%E3%80%8D%E6%92%A5%E5%BF%AB4%E7%A7%92-%E8%B7%9D%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%83%8585%E7%A7%92-%E5%A4%A7%E5%9C%8B%E4%BE%B5%E7%95%A5%E5%8D%87%E6%BA%AB-%E6%A0%B8%E6%88%B0%E9%A2%A8%E9%9A%AA-ai%E5%A8%81%E8%84%85%E7%AD%89%E6%89%80%E8%87%B4	未分類
-2026-01-20	事情太亂、壓力太大？好萊塢明星也在做的「21天但以理式生活」，讓你身心更強大	https://cdn-news.org/news/N2601180001	未分類
 2026-01-17	《白宮淪陷》謝拉畢拿×《死侍》莫蓮娜芭卡琳 《末世綠洲2：絕地遷徙》 末日世界逼近現實亂局	https://www.bastillepost.com/hongkong/article/15588501-《白宮淪陷》謝拉畢拿x《死侍》莫蓮娜芭卡琳攜	未分類
 2026-01-17	NBA／輸球就像世界末日？霍姆葛倫笑談回應球隊低潮與雜音	https://tw-nba.udn.com/nba/story/7002/9271596	未分類
 2026-01-15	台灣KFC宣布經典原味葡撻停售 網民大驚「世界末日來了嗎？」	https://www.orangenews.hk/mycookey/V8LzUuN/%E5%8F%B0%E7%81%A3KFC%E5%AE%A3%E5%B8%83%E7%B6%93%E5%85%B8%E5%8E%9F%E5%91%B3%E8%91%A1%E6%92%BB%E5%81%9C%E5%94%AE-%E7%B6%B2%E6%B0%91%E5%A4%A7%E9%A9%9A-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E4%BE%86%E4%BA%86%E5%97%8E.shtml	未分類
@@ -270,31 +269,21 @@ var DATA_TRIBULATION = `
 2025-11-03	王君馨「世界末日論」9月23日審判已過 ：耶穌佢話會隨時返嚟	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60290974/%E7%8E%8B%E5%90%9B%E9%A6%A8-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E8%AB%96-9%E6%9C%8823%E6%97%A5%E5%AF%A9%E5%88%A4%E5%B7%B2%E9%81%8E-%E8%80%B6%E7%A9%8C%E4%BD%A2%E8%A9%B1%E6%9C%83%E9%9A%A8%E6%99%82%E8%BF%94%E5%9A%9F	未分類
 2025-11-02	《末日危機：喪屍來襲的末世戰爭掛機AFK RPG》 Zombie Strike Idle RPG 美漫3D卡牌畫風召集英雄對抗喪屍大軍| 建立最強生存戰隊組合職業與陣型策略制霸末日戰場	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2MS1rUjVpUHhNZnd4cTJpZEJZRVJ3VmxwOUNKbmo4WVM5ZjZWb0hyMnItekhYbVU2WnJMeUpvVDN4SE1iMGdzWDZUb05uV0JEU3N6SnAxbFhOXzRVVktuc25aZ2FQZU0?oc=5	未分類
 2025-10-11	科技界億萬富翁們似乎正為「世界末日」做準備，我們應該擔心嗎？	https://www.bbc.com/zhongwen/articles/ce3yd5eeeyvo/trad	未分類
-2025-09-22	樺加沙更強？天鴿、山竹襲港災情片瘋傳！網民呼恐怖：似世界末日	https://news.google.com/rss/articles/CBMiswNBVV95cUxQN0tXd09mMlh1c2tzN3Z5a3Njbzc3dFROek1PZTgwZVVORVg2V091LUhaX0p2eXRKR2NWamhpQndOWFJGQmhHRHpUUVdlaU5UeGhGYkxuc3lBT2haUEtoLTFnaUFNNy1uU2JPX2xVM2dRZlJtYzYxMDlRY2xvdUl1TXNTU2gzZWNYX2YzYlBHTk4tUUVHeExxeUJ1UTdVVkJtdDAwRmJzSGpRaDVTWEZhejZ2NzEyeFM3TVhwQllmZXkwZ3IzbU1jSzJzNk9LRDFZUjdFOFpQaENVcVdFNVh4VzkzVk5hNWsyTWNmME9kcHpTT185emN6YVRteGJ6ZGRBWFIzZDFCT1JfZW8xYXlpZUVSZm5ITkZPc19fbHRfTkg0a2twZ0VjamhPS3doWDMxV19lTWNhTmxaanl4LThvTldRZGEyeGJlaFFZS05YMnVrUTlVelM0TkNneENrQ1d3eGZIM29zZXJnRXE4cXVhaHgwWklydzRRWEVuOWxhc3FjZEprZmN6NlEyamRZZXRVTmh6UEI4cnl3STZPUnUxREpQNUF1TmRKcnd2bmhIZ2hrZmM?oc=5	未分類
 2025-09-09	突然去世的油管博主已故大图书馆(本名罗东贤)将长眠于此。9日上午8点，古代图书馆的出殡仪式将在建国大学医院殡仪馆举行。 墓地是首尔市立升华院。 在故人的灵堂里,前妻油管博主李彩媛和故人的妹妹一起被提名..	https://www.mk.co.kr/cn/society/11414311	未分類
-2025-07-02	7月5日預言｜盲眼龍婆也預測2025大地震 「4大災難」已說中這些	https://news.google.com/rss/articles/CBMiiwNBVV95cUxPa3hxZDZDYkZYdmhLMl8wRXN2MUNpRXdNZVE4YkVsNWE3dklMYU1BNlBUcWtEeVFZQ2tPM2V3YUx4dnBueXlUU3oxckhLMmxoNkpqTEFUdWRacmt5ZGFUb3FmOEZsOVhfZHlodXM3N0gxaHBVMHJlQVZTa18wV0NiZEgzcFU5dUMzcFM4WDhfeTVoaFN6SG5jdnNBUjdOVVNXemFrSnZPN1RNRE1MT0NKaXNGZi1KbExoUElrMjRDUzY4cWxvRDBVRkItcTNtcVhnaHlMd25Ua0VBajB1Q0xRajE5RWNRSHNRTUt0U2s1cXdXanpKZUlBWEtsdlIycW9VZTZXWjVzTld1NW9fcGN4SjV0ZmRNOEtSQ3Y4bUtnTGNkc0pUMzEzNS1vckU4TmFBOHBETW9ibmR0M25QM1R6U1Q4MFFqRzZqUlRRQ1pHelJtbkNOWEQ4MGhWaU9zX0U2QnlNaHQ4US05SzVMakpYNEVfM2xHMlZBYksxT2RVODMxQURGT2dlTzlJNA?oc=5	未分類
 2025-06-18	哈米吉多頓的戰場真的來了？ 世界兩大勢力對峙「牽一髮動全身」	https://news.google.com/rss/articles/CBMiakFVX3lxTE4xTTNza0NsNWlESXlMSFZyVGtXOFlJUHJES0U3ekYxWmFyS1l0dXJQX2FleFUxRERLOXVkeG5hRHgzcHhwVDFPLVJYSXF5MEFJWHF6WldfdmstbVM2cDQtRUFIUnhLRm1rUmc?oc=5	未分類
 2025-06-18	劍與橄欖枝之間 全球牽一髮動全身 以伊等戰火點燃末世焦慮？	https://news.google.com/rss/articles/CBMiakFVX3lxTFBUNl9oMTh1cU9qdENTbVpzUHpXUWVWRkZpaXVoaFhMYkVPZFRjVVJDVlE3RkJiMVFxVS12Tk4taG4zcG4xYzZIWHhGaEVhX3NTRDlDT2tSY3BYZy1TSnEwQ3gyZkx0dDhYd2c?oc=5	未分類
-2025-05-16	4大預言家神測2025年有真正大災難？日本毁滅式地震有埋準確日子	https://news.google.com/rss/articles/CBMinANBVV95cUxQUHJ3enFwdUpMUWlhYmNJV3NNbmNlZTB4Tk9DcTRDck9hMXJ0TDdJNzdCYU1QX3BlY1lzaVVhT2owWmozaVl6eGl2VjBfd3J5MXhDeUxPN1RsNlloZmJqTEZmM3hWdTJuMmoxVGQxRVJldlhnSWtXVjBpM0hBUU1wTzYtMlZqR0hueDdiZmZFc3dFbFlwb1A3dDVaYi02NmF3bUNld0ZKN2FhX09ZaTJCcm9wTFVtN1JkZHQ5M0NleXgweDhzYVBUM3M0M2ZYb3ExWURMLUVOVXNndksxVTZheXJWYkdkdVJnX1NJTVVoTUZpSjU0aFBvSV9NQjlOLWljbXNpRGxsRUh4UEViMUM2ZXowLXREMk1RaVFISWFPYnN3UXlsVUxSNkhHRm52Mmp0NEJ1aGNOalp4MzFYSFRZZmpUN1JVT2Y5amJRc1c3RmlUNVhJVXg0bTJ4ZUFoeE5ZV1FuRm9zcTFVVFRKU09vNXdyd3lOWWlaU0V6MEZfcFFybzVWMElrRHVVc0pCNWxBZTJpQzJfcXFoRFRO?oc=5	未分類
-2025-03-26	被擄狂想曲：學者從後殖民主義析「尼布甲尼撒向但以理下拜」之謎	https://www.gospelherald.com/news/br79mnv7makx	未分類
 2025-03-24	美貿易署今對華貨船徵港口費開聽證會 彭博：業界憂貿易末日將至	https://www.hk01.com/article/60222860?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-03-03	聖經密碼再掀熱議：牛頓揭密「聖經藏有驚人末日預言」？基督徒教授：運用科學工具研究末日，助人更了解聖經、向世人傳福音	https://cdn-news.org/news/N2503030002	未分類
 2025-02-11	【雁默專欄】關稅大棒的本質，與台股的末日	https://tw.news.yahoo.com/%E9%9B%81%E9%BB%98%E5%B0%88%E6%AC%84-%E9%97%9C%E7%A8%85%E5%A4%A7%E6%A3%92%E7%9A%84%E6%9C%AC%E8%B3%AA-%E8%88%87%E5%8F%B0%E8%82%A1%E7%9A%84%E6%9C%AB%E6%97%A5-065801548.html	未分類
-2025-01-09	洛杉磯山火｜已增至6處火頭 拜登批准加州重大災難聲明	https://news.google.com/rss/articles/CBMijANBVV95cUxNRTdDQXFZd0hFQmZtenNwamdjT0w2ZHZBWDZvNTh0bGF5bVJHaDNzZ1pJMXBhSmt2M1pFWmdKeXB5UkxmMmszMnIycGRUWEZmVkNnX3FHTkN2dlU0QndpVmtueXJFc2hGOFA5YlN0NlhrMXBtNjlJRlZ6a2tDRTVhclFMQktiSDdOWnhiTzNGV0VualUwUmRHT0RsdFk4Ty0xOUZJWDFUaElnYU82N1BRVXZheWNONEdsaVFxTnFBdDM0b2hhTERPZ2VuZzI1dGZ0WHV1WVVJelRiUTlrZTFPeW1PUmFjTTBTRC00UExnNWx2b0lsampXcEJHZ3FiVXFyZXZUZ0JnSi1QSXVEZktKY1M5dk42dUZOSlNrd1R6WDFfd0I1aE5UeEQtam9SOHYzckhhMzhsV184RTVaNU44Q0RwaXhIanRMaU9nR1hZdHUydWRmS3Z1UTBoOGdGdktsR2lUb0dCUEIwUE51aVdXbF9RNHh2VXhsQmZDbnBRNmgwOG9jaUJxVk1XZF8?oc=5	未分類
 2024-10-09	人氣爆谷店Garrett Popcorn本月撤出香港 網民稱世界末日紛挽留	http://www.hk01.com/article/1064583?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-09-11	停戰是「預兆」？七年大災難的開始(圖) - 預言未來 - - (移動版)	https://news.google.com/rss/articles/CBMia0FVX3lxTE5mZVFFS0J5U2kyYzJqMlU3NE9yZHUyVFdHVXI2aE1JRW9pNXJaRnREb1p2N0lOQVpXR1MwbzJEZGZnWEdicUptRzV1SzQ2dG1tLTFLZU55QXlIREoxX0Y0ZFNxcmdteF9UN3dz?oc=5	未分類
-2024-09-10	【泉源之聲專欄】基督徒為何要讀「但以理書」？	https://cdn-news.org/article/C2409100002	未分類
-2024-08-12	盲眼龍婆預言末日2025年開始 2024恐面臨3大危機！歐洲被點名	https://news.google.com/rss/articles/CBMi0AJBVV95cUxOem5XSmVneGluZ25GMndfaWpiOXhqOVRQS3h5eXJvb29jSHZoQVY3QmJDdG9tZG0xdHRzZFVwSzNQUUlJVVZURmlQRVl6VGlBT0d4OTd4aWVEZUt5WTJjaW9oTUJKMGt4OEc3XzBHaEtOWEszS0pjT25yN1ZIcmpSRHhlRm9BcXgxOHdySWoxcUE1c1NjUEJ3Zm1NbXZPMEVSbjlUS0EwS1kwc2N0bzhiZmRYbXllejgxR21LT1p4MUJmaXctRnFuVnRQU1lNemZtVzVlOG5Yal9HN1N4b3h5d0N5UWIzRjN3Q3VfNk0xVnIzNzVURjg0TUMwdGRCUUlibXVhWXJiRm8tQmpKNHJncGJiTUFHekJlLUNBb1EtbnFpeDVDVmhWQnh0a05NbURabUlHQWNGaFNJcUgzZ1p4M1puUkVyTFBUaWVmVUxxR0U?oc=5	未分類
 2024-07-22	foodpanda推「奧運應援箱」 有望用666入手4500元跑鞋	https://www.setn.com/news/1502943	未分類
 2024-06-12	屯門安定麥當勞6月中結業 街坊痛失24小時麥記呻如「世界末日」	https://hk.ulifestyle.com.hk/activity/detail/20034919/%E5%B1%AF%E9%96%80%E5%AE%89%E5%AE%9A%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%B5%90%E6%A5%AD%E8%87%B36%E6%9C%88%E4%B8%AD-%E8%A1%97%E5%9D%8A%E7%97%9B%E5%A4%B124%E5%B0%8F%E6%99%82%E9%BA%A5%E8%A8%98%E5%91%BB%E5%A6%82-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5/2	未分類
 2024-04-25	香港已玩完？創業板漸漸歸零 謝金河：有點末日景象	https://tw.stock.yahoo.com/news/%E9%A6%99%E6%B8%AF%E5%B7%B2%E7%8E%A9%E5%AE%8C-%E5%89%B5%E6%A5%AD%E6%9D%BF%E6%BC%B8%E6%BC%B8%E6%AD%B8%E9%9B%B6-%E8%AC%9D%E9%87%91%E6%B2%B3-%E6%9C%89%E9%BB%9E%E6%9C%AB%E6%97%A5%E6%99%AF%E8%B1%A1-024000339.html	未分類
 2024-03-19	美國大城市商廈樓價暴跌、稅收鋭減 引發「末日循環」擔憂	https://www.hk01.com/article/1001680?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-02-15	「末日消費」觀念盛行︰一世難買樓儲蓄 Z世代瘋狂購買奢侈品 認命不再博	https://dynamic.hket.com/article/zmtU6zxpL3ZgtyMDA?r=cpsdlc	未分類
 2024-02-12	馬東石新片末世求生再展身手 老友朴星雄期待睇勁揪場面 - 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/8304725540744/%E9%A6%AC%E6%9D%B1%E7%9F%B3%E6%96%B0%E7%89%87%E6%9C%AB%E4%B8%96%E6%B1%82%E7%94%9F%E5%86%8D%E5%B1%95%E8%BA%AB%E6%89%8B-%E8%80%81%E5%8F%8B%E6%9C%B4%E6%98%9F%E9%9B%84%E6%9C%9F%E5%BE%85%E7%9D%87%E5%8B%81%E6%8F%AA%E5%A0%B4%E9%9D%A2	未分類
-2023-10-12	假彌賽亞的蒞臨	https://youtu.be/9AX9SOXrMLo?si=3suQ0lhXwZixqhJO	未分類
 2023-09-19	末日博士：美國需進一步加息 2%通脹目標屬不可能完成任務	https://www.hk01.com/article/942451?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-03-09	【專家之眼】哈米吉多頓的世界末日戰爭	https://udn.com/news/story/10930/7019039	未分類
-2023-02-06	餘震如「末日審判」 解析土耳其敘利亞大地震	https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ielRoaHlleXRkZW1uVWJRSG93Q3h6SDFwMXpaemJYeHZSSmV5MUw5NmF5aEc3aDVxLWQybU5NYlcyUmF0VWctZVpKdUdGUEI0Wmc1QWc0SGFuYWM5TlNJ0gFkQVVfeXFMTXBKWVBNdVNzNkFHWk9xeTVjajQycmxUZGFuM1IzZFJxV19nNGRjNHpyZDVJRzVWLWVXdElrWDgyeXNOVDFoQ0kzS1dKeVhJbkNrUHdBbkFJRHZMckFmUDZOUTdEQQ?oc=5	未分類
 2022-12-28	特斯拉上海工廠停工啟示錄	https://www.eettaiwan.com/20221228nt61-tesla-shanghai-factory-shutdown%E5%95%9F%E7%A4%BA%E9%8C%84/	未分類
 2022-12-12	「倒閉潮」預言成真！廖老大北市分店全沒了...	https://ent.ltn.com.tw/news/breakingnews/4152725	未分類
 2022-12-09	葡萄牙里斯本洪水泛濫成災 居民：像末日	https://tw.news.yahoo.com/%E8%91%A1%E8%90%84%E7%89%99%E9%87%8C%E6%96%AF%E6%9C%AC%E6%B4%AA%E6%B0%B4%E6%B3%9B%E6%BF%AB%E6%88%90%E7%81%BD-%E5%B1%85%E6%B0%91-%E5%83%8F%E6%9C%AB%E6%97%A5-020929809.html	未分類
@@ -307,14 +296,10 @@ var DATA_TRIBULATION = `
 2022-09-07	南極末日冰川銷融快於預期 恐危及4成全球人口 Warming	https://udn.com/news/story/6809/6595050?from=udn-ch1_breaknews-1-0-news	未分類
 2022-09-06	南極「末日冰川」5年內恐融化 科學家 : 只靠「指尖」在死撐 Warming	https://newtalk.tw/news/view/2022-09-06/812740	未分類
 2022-09-05	南極「末日冰川」岌岌可危 Warming	https://www.worldjournal.com/wj/story/121257/6591926	未分類
-2022-07-19	極端高温燜燒地球 「氣候末日」不再是天方夜譚	https://news.google.com/rss/articles/CBMi2gJBVV95cUxNcnkzQUNfQV9rbFlCSl9ZSmY2QTNZUnFUUk9NOTI0QnhzYktIVEN0dVEwUnR6eVhKRjZFeG1ZaDZuVlNtS0ttN0tjUWRydzRJU1pwbktYNFdIR3hrSlZJUFF2bGJuS3JSMHVLcW55Nzh4TXVZMGd0WTJocXNRdi1RUU9RN1FVanZhUkpYbjhhaTF2NlZwaU1nVFVrNzdvNUZSWjlVWGptZWJpVnphblJGeEJPYWJtUjNOLWYwRnJoMkdaWkdlRUJ2THZ1d3NsYlJlZERqUWpnUDNYenBxRVdOREstSEhvQWNEQ0dtWDJrcXMtQnp0WmJHT3l3VWlTZTEybUh6aFl3dEotRjJISmN3MlVIb3R1aGR6VmJHUFVIdnR0a2Z5QVpQVjdXeVMwcHJMa05NOHd4MEZuZVhlMjNhR3F3Z1FmdFhrdGxHR183bWxScDRkY3htMXVR?oc=5	未分類
-2022-03-24	【末日號角聲專欄】2020年會是歐盟裂解元年嗎？	https://cdn-news.org/article/C2203240002	未分類
 2022-01-07	紐約聯合國總部「末日野獸」爭議雕塑已被撤下	https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkswLVNxaFh2MXRLaHdwS1VVc0NVRVE5TzNQWTZPeC1ZTHdidnVzUDZ3Q3ROVnRSeEtua2FyOXJrLWNBcjM2QWVpR1dfU2tyNEVrRGo1cmZhcm5UajNYdHZQN1hKQ041U21RLVFPMHlnc2xiZDBYSUh6OUhkWlFwU3FsY3JBYURCUlpWVzNn?oc=5	未分類
-2021-12-24	聯合國矗立新雕像，啟示錄提到的「獸」出現了嗎？ 撒但在末世會大行迷惑，二秘訣勝過	https://cdn-news.org/news/00000029064	未分類
 2021-10-14	《歡迎來到末日戰場哈米吉多頓》：芝加哥考古隊在米吉多的工作，正式展開不到一星期竟差點夭折	https://www.thenewslens.com/article/157146	未分類
 2021-09-27	以色列育紅母牛 為《聖經》末日預言做準備(圖) - 預言未來 - - (移動版)	https://www.secretchina.com/news/b5/2021/09/27/983772.html	未分類
 2021-08-20	當但以理遇上以斯帖羅秉祥：與帝國合作不等於顛倒是非	https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM08xT2dVbzRSLUdOcGZCR3FseGVkbGJ5ZTdDdzd6RDJreVBxLVJ3ZHFWMjRpcXQtbUVPX3NiOFVWV0FGSjZmMVI4ZjEtcmN5VDNhdmZFUWxVYThJOEdTeVF4b0xmUGV0T1RrZ1JWQmdZWmJlSi1XRTFNTDhXSXpuN2NKU2h4UE1mZXh4bEExeGE4T2duRHowZFVnVllOdF9KXzdHWG9zYi0zaXlwY2xZal9HblZKWW9RcmFv?oc=5	未分類
-2021-08-19	【末日號角聲專欄】末世的強國（一）	https://cdn-news.org/news/27424	未分類
 2021-06-16	台彩獎金大放送 3星彩開666全台399注中正彩	https://www.setn.com/news/954712	未分類
 2021-05-26	超級月亮、血月、月全食三種天象同登場 解讀聖經啟示錄 牧者：不需與災難做聯想	https://news.google.com/rss/articles/CBMiakFVX3lxTFBpU2pMM1FlcmlVbTNvaW1qTDA4NTdLVmJzMXJObWp4SXpHUkVDTkxnOWhmNEN1UDZqVGxhbUg1b3JBSWJtdV9mUEpoNGh3cndHLVZQVDVpelRiMWZzWmJ4RENjd3FTdjNTNVE?oc=5	未分類
 2021-01-01	10月31日-11月6日。但以理書第1～6章：「沒有別神能……施行拯救」	https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/45?lang=zho	未分類
@@ -324,12 +309,8 @@ var DATA_TRIBULATION = `
 2020-08-24	以色列培育紅母牛為《聖經》末日預言準備| 大紀元	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEVUhTWnJkdllsV0ZZOUdIV1ZMUXZDZENBa3RTTmlVaXB5UFdDeXcxSHQ3blVST29Sb3NuanNzRndpNmI5N3VGN0ZKTFBIbWtoLVZxNVIwLWZNNV9TUldtZg?oc=5	未分類
 2020-08-24	以色列培育紅母牛 為《聖經》末日預言準備	https://www.epochtimes.com/b5/20/8/24/n12353478.htm	未分類
 2020-07-03	猶太拉比：中共為邪惡之首 或引發末世戰爭	https://www.epochtimes.com/b5/20/7/3/n12229948.htm	未分類
-2020-04-11	[泰國清邁山火] 生態大災難 空氣污染爆燈	https://news.google.com/rss/articles/CBMikgJBVV95cUxPenJPcjlkQ2VtQml0bDZvcEtvSXV6eGZiaVFMeGtiSFdOMVZfLVlRMXo4SjlXMkstaFhCSllERG1xUEtXVlBVS1F2dlpoQUJPSGp2bHFJVUltTlN0STFLbmU2dWFRb2NnRERaSEZpRjFxSWI1NGhIdWxKMGlVdUNndGpRaHFUMHJKZ200Tk5RSHpVRDZUNUhvUVI5SEJoUi05NVp5U1p2V1c4M21fdVBJUDBIYzBkVlJmWXBFaXlTLUtDTTc3ekt5dlVNc0V3NnN1RzlpWXFnRTd1Sk91Q1BvSDAxQUJ4dy1xa29sSWxuYXRfVGJzRkJNaWJEZ2hLNERwSjVPR3h6ZjRBVld4dGFleGRB?oc=5	未分類
 2020-02-24	以色列頭痛！南韓「新天地」揪團朝聖過…2百名師生被隔離	https://www.setn.com/news/695487	未分類
-2020-01-27	【高比拜仁墜機亡】7年前Twitter死亡預言成真 網民：我很抱歉！	https://news.google.com/rss/articles/CBMi_gJBVV95cUxQNWNyYnRKZHA0NWJIbllabTZwSVh5WnQxV1VJUjEwa0xPcUdkMi1mUWQwTFpoNkhmSUg1LXIwQlRjVUZaZzVDMTFDQm5XZ3MwWS13M3k5LWZGMFViZTFZVDZmUlBNTTNZQ1BlcUV5bzJuNjdwb05rdjRIQWR3N0RUZENPMFBxeFZTNzYyQklwUml4a0lFZDE5VHRTQnlKU0ttOHU5djNNQXlwRjl5U3lyMVRaQUREYS1kU3B1TzY5NFNKX3g5N3JwVFRGREdqbkVVYWpsZWhPRUFRRVJOSng1UkNsaDh2dnpYTk9qTmZ4TUhGSVpqaEEwZXdxUHFta0xmc3AtSXlvcC1tUmFjZUpmR0lUaTFIUHgtODZkalhDMFdoRHJ1ZWw5TkNGa0VLUVBZa2podkNab0tJbDN3aWNkZmlTcmJqbjFReXpQWlJ1TXlsT3BGWE1id25YUThZM0UzcUsxdlk2dTVvanV1YWI4SUtqckxWaDMybThfa1Z3?oc=5	未分類
-2019-10-29	別讓「『壞鬼』釋經」誤了讀經！ 3個重點讀懂但以理書等預言性經文	https://www.cdn-news.org/news/19800	未分類
 2019-05-24	梁國權：如迫害臨到，但以理書可成鼓勵 「篤信力行」講座剖析但以理書信息	https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZm9GZ2lYZmhON2xYTDVldk05eUg1WW4wNlI2eEFOTTRWMWhmSlhLbmx0TE55OTZXMlhRbWRkbk1TQm1sN1dUa09ycXVWVENaV2JJLW9yd2c5MVJuWEN6aldVYmlCWHlTUTBGYkF0emZ1MnJoRW1wVGd6WUdHLVV5OXdWX3dqc21abzQ3N3pkLXlnTGpjMHAtc20yM2F3cUtPSVZSQWpYZ2Z5dmw1ejVsUGZSZW5vTTZJR25Z?oc=5	未分類
-2019-04-23	「至高者在人的國中掌權」 從但以理書學習遠離傲慢	https://www.cdn-news.org/news/17589	未分類
 2018-09-10	紅母牛在以色列誕生 或示《聖經》末日預言	https://www.epochtimes.com/b5/18/9/10/n10703645.htm	未分類
 2018-06-16	宛如末日！鹿兒島火山噴發白晝市區秒遭黑暗壟罩| 國際	https://www.setn.com/news/392854	未分類
 2018-05-20	題目： 【聖經微播】 第66集：點解話但以理一生出入皇宮	https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3Y5dlBBOVp1RVVNX293OVAwMTJXbEljejBkTlBXMkpkU0h1UDd2QmpmMW1NYWVuZXZ2eDV5bHZmYS1WZkNSOVRjenEwWmRXckRmbVJob1hrcUVFSTlMbDhIRGMyXzdGQTZ5RkRtNzNLMm5IbXM1MHd6SHduMU1FZXVvSWZoclN2NW9LWjFnSzYyZFlSNGdzS1JvOFRrNHhsWnhMNWhMQU5lSjJzUHdoQ2JrMTc4Zw?oc=5	未分類
