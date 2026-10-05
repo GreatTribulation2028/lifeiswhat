@@ -1,4 +1,4 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 507 條
+// AI安全 | 由 build_news_js.py 生成 | 共 505 條
 var DATA_AI_SAFETY = `
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://tchina.kyodonews.net/articles/-/14296	未分類
 2026-10-01	惡意軟件 CloudSyncD 以 Zoom 安裝程式為掩護進行資訊竊取	https://www.techritual.com/2026/10/01/587285/	未分類
@@ -405,10 +405,9 @@ var DATA_AI_SAFETY = `
 2026-05-13	鴻海證實北美廠區遭駭客攻擊 緊急發重訊「目前營運正常」	https://www.4gtv.tv/article/2026051302000018	未分類
 2026-05-13	港大科創中心夥青年科創學院辦大灣區醫療科技駭客松 十強隊伍亞醫峰會展示成果 NOVOMI VAX奪冠	https://www.wenweipo.com/a/202605/13/AP6a04523de4b0b49ad1bac682.html	未分類
 2026-05-13	BTS柾國險遭盜84億韓元疑犯落網 中國黑客跨國作案多名藝人受害	https://www.hk01.com/即時娛樂/60349471/bts柾國險遭盜84億韓元疑犯落網-中國黑客跨國作案多名藝人受害	未分類
-2026-05-12	惡意軟體框架PCPJack鎖定雲端基礎設施，封鎖駭客團體TeamPCP的存取權限	https://www.ithome.com.tw/news/175704	未分類
 2026-05-11	Canvas遭黑客入侵致2.75億用戶資料外洩機構籲本地院校 ...	https://www.am730.com.hk/本地/1029808/canvas遭黑客入侵致2.75億用戶資料外洩-機構籲本地院校檢視系統安全	未分類
 2026-05-11	Canvas資料外洩｜網絡安全事故協調中心即時建議院校停用	https://www.i-cable.com/新聞資訊/463056/canvas資料外洩-網絡安全事故協調中心即時建議院校	未分類
-2026-05-10	跨國網絡攻擊引發大批校園出現混亂	https://tw.news.yahoo.com/跨國網絡攻擊引發大批校園出現混亂-072540447.html	未分類
+2026-05-10	跨國網絡攻擊引發大批校園出現混亂	https://www.bbc.com/zhongwen/articles/cqxpe08p27do/trad	未分類
 2026-05-08	駭客結合 Claude AI 攻擊水務及排水系統	https://unwire.pro/2026/05/08/claude-ai/security/	未分類
 2026-05-08	美國教育平台 Canvas 遭駭客攻擊 逾九千所學校個資恐外洩	https://news.pchome.com.tw/finance/sunmedia/20260508/index-77822086151819329003.html	未分類
 2026-05-08	學習系統疑遭大規模網絡攻擊 據報涉全球9千學校數十億條訊息	https://news.rthk.hk/rthk/ch/component/k2/1854044-20260508.htm	未分類
@@ -490,7 +489,6 @@ var DATA_AI_SAFETY = `
 2023-06-13	AI失控入侵Hugging Face OpenAI：屬前所未有網絡安全事故	https://www.wepro180.com/內測變攻擊｜ai失控入侵hugging-face openai：屬前所未有網絡安/	未分類
 2022-11-22	FTX駭客又想砸盤》再轉移「2億美元」ETH！以太跌破1,100、比特幣破15,500	https://www.blocktempo.com/ftx-hackers-just-transferred-most-of-the-eth-balance-to-a-new-and-different-address/	未分類
 2021-10-25	駭客攻擊？南韓最大電信公司系統癱瘓 網路、通訊全掛了	https://www.setn.com/news/1016997	未分類
-2021-08-31	一銀駭客盜領案 主嫌安德魯5年期滿出獄	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ERTVyYmZDY2F0a3pMTm0xX19GTHM3WV9OT2hNTGRUa09ISUQ2S2F2QkhTeWdJVGdFNTRxYUp3YlA5bUVwZmlPN2g3SjhkbEZyZ2tKS3pGOGtKM3Q1U2dtRm5wZHdUQQ?oc=5	未分類
 2021-08-31	Nyxlab以香港為總部打造以AI 為本網絡安全新勢力	https://www.investhk.gov.hk/zh-hk/our-clients/nyxlab	未分類
 2021-07-12	網絡攻擊	https://zh-yue.wikipedia.org/wiki/網絡攻擊	未分類
 2021-02-18	抗議軍事政變！緬甸駭客攻擊政府網站 軍方封鎖網路	https://www.setn.com/news/898935	未分類
