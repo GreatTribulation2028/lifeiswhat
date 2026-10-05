@@ -1,20 +1,5 @@
-// 治安 | 由 build_news_js.py 生成 | 共 1991 條
+// 治安 | 由 build_news_js.py 生成 | 共 1816 條
 var DATA_SECURITY = `
-2026-10-04	毒品不分藍綠！沈伯洋點名蔣萬安：別為選舉把減害說成鼓勵吸毒	https://www.ettoday.net/news/20261004/3248607.htm	未分類
-2026-10-04	殷瑋反擊沈伯洋！「他講的是社區中心發毒品」	https://www.ettoday.net/news/20261004/3248605.htm	未分類
-2026-10-03	高雄權利車行「車廂藏屍」命案9人送辦、4人羈押	https://news.ltn.com.tw/news/society/breakingnews/5594156	未分類
-2026-10-03	警方拘6人涉25宗爆竊案 雙程證夫婦疑操控非法入境者犯案	https://news.rthk.hk/rthk/ch/component/k2/1872558-20261003.htm	未分類
-2026-10-03	蠟燭包古柯鹼運毒 劉喬安跨海視訊教融蠟取毒	https://news.ltn.com.tw/news/society/breakingnews/5594668	未分類
-2026-10-03	男子台中毒駕失控撞天橋 3大學生晨跑遭波及	https://news.ltn.com.tw/news/society/breakingnews/5594137	未分類
-2026-10-03	獨家》蠟燭藏古柯鹼運毒 「太陽花女神」劉喬安運輸第一級毒品罪起訴	https://news.ltn.com.tw/news/society/breakingnews/5594617	未分類
-2026-10-03	涉毒駕尿檢超標！男辯「停好車才吸」 法官判無罪	https://news.ltn.com.tw/news/society/breakingnews/5594264	未分類
-2026-10-03	毒駕暴衝天橋撞傷3晨跑體大生 囂張嗆「我家很有錢」…中檢聲押	https://news.ltn.com.tw/news/society/breakingnews/5594687	未分類
-2026-10-03	政治人物惡意標籤化毒品矯治 桃市議員魏筠：對得起基層公務員嗎？	https://news.ltn.com.tw/news/society/breakingnews/5594581	未分類
-2026-10-03	撞3台體大生還嗆「我家很有錢」！副駕竟頂替駕駛 毒駕男遭聲押	https://www.ettoday.net/news/20261003/3248584.htm	未分類
-2026-10-03	捷運驚傳男子持刀 警兩小時查出竟是這東西	https://news.ltn.com.tw/news/society/breakingnews/5594628	未分類
-2026-10-03	捷運驚傳「持刀男」 他一路低頭走路…警追查竟是在剪指甲	https://www.ettoday.net/news/20261003/3248579.htm	未分類
-2026-10-03	年輕吸毒坐牢沒養女！晚年討每月2.2萬 法院：免扶養	https://www.ettoday.net/news/20261003/3248555.htm	未分類
-2026-10-03	8月假冒客服案明顯增 有新詐騙手法包括誘使下載程式盜用信用卡	https://news.rthk.hk/rthk/ch/component/k2/1872562-20261003.htm	未分類
 2026-10-02	花蓮男毒駕肇事還載7歲兒 警方通報社工介入	https://news.ltn.com.tw/news/society/breakingnews/5593147	未分類
 2026-10-02	毒駕罰9萬離職逃扣薪 房產被法拍	https://news.ltn.com.tw/news/society/breakingnews/5593304	未分類
 2026-10-02	控方稱閉路電視揭蔡天鳳坐大伯車接女兒放學 推斷車上已暈或遇害	https://news.rthk.hk/rthk/ch/component/k2/1872416-20261002.htm	未分類
@@ -94,7 +79,6 @@ var DATA_SECURITY = `
 2026-09-24	民進黨18人違紀參選遭除名 朱政騏涉共諜案5月已遭開除	https://news.ttv.com.tw/fifa/news/Views/11509240003100W	未分類
 2026-09-24	歐洲大繞路運毒！3台人行李藏50公斤K他命 路線「太異常」羅馬機場遭逮	https://www.ftnn.com.tw/news/581849	未分類
 2026-09-24	杜鵑襲日｜死亡人數升至11人 4人失蹤- 國際	https://www.dotdotnews.com/a/202609/24/AP6ab49433e4b02724bdb56fd5.html	未分類
-2026-09-24	尖沙咀酒吧男子疑注射毒品亡警檢懷疑冰壺拘職員重案組跟進- 港聞	https://www.dotdotnews.com/a/202609/24/AP6ab49ba4e4b02724bdb570ad.html	未分類
 2026-09-24	尖沙咀酒吧男子疑注射毒品亡被棄屍街頭 男職員涉非法搬移屍體被捕	https://hk.on.cc/hk/bkn/cnt/news/20260924/bkn-20260924024244746-0924_00822_001.html	未分類
 2026-09-24	尖沙咀酒吧男子疑注射毒品亡 遺體連櫈遭抬落樓棄街上 職員被帶走助查	https://www.stheadline.com/breaking-news/3618733/尖沙咀酒吧男子疑注射毒品亡-遺體連櫈遭抬落樓棄街上-職員被帶走助查	未分類
 2026-09-24	尖沙咀酒吧男子疑注射毒品亡 遺體坐凳被抬落樓棄街 警帶走職員	https://www.hk01.com/突發/60393179/尖沙咀酒吧男子疑注射毒品亡-遺體坐凳被抬落樓棄街-警帶走職員	未分類
@@ -126,7 +110,6 @@ var DATA_SECURITY = `
 2026-09-22	荷里活廣場命案 男子原被控謀殺 控方接納神志失常為基礎認誤殺 判無限期醫院令	https://thewitnesshk.com/%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4%E5%91%BD%E6%A1%88-39%E6%AD%B2%E7%94%B7%E5%8E%9F%E8%A2%AB%E6%8E%A7%E8%AC%80%E6%AE%BA-%E4%BB%A5%E7%A5%9E%E5%BF%97%E5%A4%B1%E5%B8%B8%E7%82%BA%E7%94%B1/	未分類
 2026-09-22	荷里活廣場命案 男子原被控謀殺 以神志失常為由改認誤殺 判無限期醫院令	https://thewitnesshk.com/荷里活廣場命案-39歲男原被控謀殺-以神志失常為由/	未分類
 2026-09-22	荷里活廣場兇殺案 精神病男隨機斬死兩女子 認罪判無限期醫院令	https://www.hk01.com/社會新聞/60392269/荷里活廣場兇殺案-精神病男隨機斬死兩女子-認罪判無限期醫院令	未分類
-2026-09-22	聽▶︎港聞｜鑽石山斬人案被告判醫院令 國慶日半價戲票優惠｜2026年9月22日	https://news.google.com/rss/articles/CBMilANBVV95cUxNNmt4cEJISDJNUFFYRTZqRFV4MHJUOWh5eTkzWXNINXdHU0ZHZmtZWHFRS3dzWVg2WnVXZ2FwVnhMcDVWMU9Bam5OT0hJRm5RUUtkX09LOVBkaXIxRGRUSEM3THRXdGdQRjI0N29HamZLWmZpckE2ZnE3RXR5cTRwVUxxWk9zYzY5LVZPcnRPVFRsTXVfemV3NEhrQldteWpzWVhleVA1OGM0alppaHk4OEM0d1BiMkhreGZNbEtUTk90VEI4bG9FLS1HNzFLdTV6eUEySW9ac0xMT2xrQXdCN0ZyWDlZUTRFZWlTU1Q0M1phZ29McEs0WldKYmFGR3Vld25aYnVpS01YUWZDLWsxTHktNlI3SlIzZ2VDX3h1UzQzcDV3cEIxR3NjY183cVJSYUVWWmhMTFhvYXVScy1jUXN4Xy1ZZmRtWEhwZlB2UmJLZ0x2VTFXSnVVTERFN1V1SWE0MGluWFA1T1o3UkVJZy14TnRhcDNpYjEtY3VHMUZNUTlHWkswb0VsTjNzc3M2YVVtNw?oc=5	未分類
 2026-09-22	聯合國指美國打擊運毒船涉危害人類罪 駁斥特朗普自衛說法｜外媒焦點	https://news.tvb.com/tc/1196707-聯合國指美國打擊運毒船涉危害人類罪駁斥特朗普自衛說法外媒焦點	未分類
 2026-09-22	杜鵑吹襲日本關東 至少4死6失蹤	https://m.hkej.com/landing/mobarticle2/id/4519975/杜鵑吹襲日本關東 至少4死6失蹤	未分類
 2026-09-22	影/台東新港海巡見「他表情怪異」 意外揪到毒品通緝犯 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260922/index-79006505243887309002.html	未分類
@@ -150,11 +133,10 @@ var DATA_SECURITY = `
 2026-09-19	俄軍滑翔炸彈襲擊烏克蘭蘇米住宅大樓 釀2死7傷	https://www.ftvnews.com.tw/news/detail/2026919W0035	未分類
 2026-09-19	中國留學生瑞士持刀襲擊3童 判囚15年 (16:31) - 20260919 - 兩岸	https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20260919/s00004/1789806677546/%E4%B8%AD%E5%9C%8B%E7%95%99%E5%AD%B8%E7%94%9F%E7%91%9E%E5%A3%AB%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A3%E7%AB%A5-%E5%88%A4%E5%9B%9A15%E5%B9%B4	未分類
 2026-09-18	（有片）菲律賓校園槍擊事件已致6死17傷	https://www.wenweipo.com/s/202609/18/AP6aad07e6e4b01d54a283c2e0.html	未分類
-2026-09-18	藉標會借貸落氰化物劫財泰國女子涉毒殺14人連環命案被捕- 國際	https://www.dotdotnews.com/s/202609/18/AP6aacf1ede4b02724bdb4dee2.html	未分類
 2026-09-18	菲律賓高中校園槍擊三死八傷 16歲學生槍手亡 3個月內第3宗	https://www.i-cable.com/新聞資訊/505212/菲律賓高中校園槍擊三死八傷-16歲學生槍手亡-3	未分類
 2026-09-18	菲律賓南部校園槍擊案 16歲學生向多名同學開槍後自盡	https://news.rthk.hk/rthk/ch/component/k2/1870665-20260918.htm	未分類
 2026-09-18	菲律賓南部一間中學發生槍擊案 疑兇在內3死、8傷	https://news.tvb.com/tc/1196043-%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%8D%97%E9%83%A8%E4%B8%80%E9%96%93%E4%B8%AD%E5%AD%B8%E7%99%BC%E7%94%9F%E6%A7%8D%E6%93%8A%E6%A1%88%E7%96%91%E5%85%87%E5%9C%A8%E5%85%A73%E6%AD%BB8%E5%82%B7	未分類
-2026-09-18	氰化物女魔頭｜8年涉毒殺14人 泰國32歲媽媽離奇猝死揭連環命案	https://www.stheadline.com/realtime-world/3616673/%E6%B0%B0%E5%8C%96%E7%89%A9%E5%A5%B3%E9%AD%94%E9%A0%AD8%E5%B9%B4%E6%B6%89%E6%AF%92%E6%AE%BA14%E4%BA%BA-%E6%B3%B0%E5%9C%8B32%E6%AD%B2%E5%AA%BD%E5%AA%BD%E9%9B%A2%E5%A5%87%E7%8C%9D%E6%AD%BB%E6%8F%AD%E9%80%A3%E7%92%B0%E5%91%BD%E6%A1%88	未分類
+2026-09-18	氰化物女魔頭｜8年涉毒殺14人 泰國32歲媽媽離奇猝死揭連環命案	https://www.stheadline.com/realtime-world/3616673/氰化物女魔頭8年涉毒殺14人-泰國32歲媽媽離奇猝死揭連環命案	未分類
 2026-09-18	氰化物女魔頭｜8年涉毒殺14人 32歲媽媽離奇猝死揭連環命案	https://www.stheadline.com/realtime-world/3616673/氰化物女魔頭8年涉毒殺14人32歲媽媽離奇猝死揭連環命案	未分類
 2026-09-18	杏花邨謀殺案｜51歲男被告提堂 暫毋須答辯還柙至12月再訊	https://news.tvb.com/tc/1195993-杏花邨謀殺案51歲男被告提堂暫毋須答辯還柙至12月再訊	未分類
 2026-09-18	杏花邨命案 51歲男被控謀殺妻子 還押12.11再訊	https://thewitnesshk.com/%E6%9D%8F%E8%8A%B1%E9%82%A8%E5%91%BD%E6%A1%88-51%E6%AD%B2%E7%94%B7%E8%A2%AB%E6%8E%A7%E8%AC%80%E6%AE%BA%E5%A6%BB%E5%AD%90-%E9%82%84%E6%8A%BC12-11%E5%86%8D%E8%A8%8A/	未分類
@@ -174,7 +156,7 @@ var DATA_SECURITY = `
 2026-09-16	高雄職校驚傳「學生持刀傷人」！學長學弟鬥毆 1人遭刺腹	https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%81%B7%E6%A0%A1%E9%A9%9A%E5%82%B3-%E5%AD%B8%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-%E5%AD%B8%E9%95%B7%E5%AD%B8%E5%BC%9F%E9%AC%A5%E6%AF%86-1%E4%BA%BA%E9%81%AD%E5%88%BA%E8%85%B9-114200308.html	未分類
 2026-09-16	警員朱振國遇襲留醫21年亡｜刀手判囚10年破產 服刑逾5年後假釋	https://www.hk01.com/突發/60390339/警員朱振國遇襲留醫21年亡-刀手判囚10年破產-服刑逾5年後假釋	未分類
 2026-09-16	死有對証｜李海銅預告角色將慘死 意外與「前男友」馬貫東再同框 網民笑：另一個時空嘅相遇	https://www.tvb.com/dramanews-c/死有對証-李海銅預告角色將慘死-意外與-前男友-馬貫東再同框-網民笑-另一個時空嘅相遇-1015998	未分類
-2026-09-16	土耳其伊斯坦布爾槍擊案最少3死1傷 一名疑兇被捕	https://news.google.com/rss/articles/CBMib0FVX3lxTE42UTB4V3hjeF9BZklmcVRGTG5WQjE2YlhPV2FWamhOcjZnUk1xVmttR0thMXU1VVNZZlZ2bHgyckQxOHZpYmxBbHgwNkdGNTBjY1E5VFpzM0RFSkRUYXZNNk9pbk1fcEdxczNrek1nbw?oc=5	未分類
+2026-09-16	土耳其伊斯坦布爾槍擊案最少3死1傷 一名疑兇被捕	https://news.rthk.hk/rthk/ch/component/k2/1870133-20260916.htm	未分類
 2026-09-16	「幸福空間」負責人陳屍辦公室 生前曾遭詐騙	https://news.ebc.net.tw/news/society/571594	未分類
 2026-09-16	7000米雪山3死2失蹤 新疆慕士塔格峰連續山難 藏嚮導證買賣黑幕	https://www.hk01.com/即時中國/60390590/7000米雪山3死2失蹤-新疆慕士塔格峰連續山難-藏嚮導證買賣黑幕	未分類
 2026-09-15	廣州驚爆恐怖隨機殺人 凶手持刀專刺路人眼睛！多人受傷一人臉插刀倒地	https://tw.news.yahoo.com/%E5%BB%A3%E5%B7%9E%E9%A9%9A%E7%88%86%E6%81%90%E6%80%96%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA-%E5%87%B6%E6%89%8B%E6%8C%81%E5%88%80%E5%B0%88%E5%88%BA%E8%B7%AF%E4%BA%BA%E7%9C%BC%E7%9D%9B-%E5%A4%9A%E4%BA%BA%E5%8F%97%E5%82%B7-%E4%BA%BA%E8%87%89%E6%8F%92%E5%88%80%E5%80%92%E5%9C%B0-061800026.html	未分類
@@ -198,7 +180,6 @@ var DATA_SECURITY = `
 2026-09-14	Revolut 遭駭客公開客戶資料 勒索 1 萬枚比特幣	https://yellow.com/zh-tw/news/revolut-遭駭客公開客戶檔案-勒索-1-萬枚比特幣	未分類
 2026-09-14	Revolut 遭勒索！客戶護照、自拍開始被公開，駭客揚言「每天加碼外洩」	https://blockcast.it/2026/09/14/revolut-hit-by-extortion-attempt/	未分類
 2026-09-13	英國海上貿易行動辦公室：一艘船隻在霍爾木茲海峽遇襲- 國際	https://hkcd.com.hk/content_app/2026-09/13/content_8774670.html	未分類
-2026-09-13	印尼載有243人的客輪懷疑失事 至少1人死亡 過百人失蹤	https://news.google.com/rss/articles/CBMibEFVX3lxTE91UklRM2NWdWtVTy1DRVFZd2ZFVm52UFNMdkRkS3ZPREx1ck9QOFJwRHpkSUhybWtQYkN5TFZaTnlCYVVPTm1NMWRiTE9LeEs1cm1fSi16eXZUTHdRYkxzYS02eWZ4TTBMa2JWcw?oc=5	未分類
 2026-09-13	前夫涉詐騙百億案件 何璦芸感慨萬千	https://www.singtaousa.com/2026/09/13/entertainment/ex-husband-fraud-case/	未分類
 2026-09-12	奧地利婦遭丈夫迷昏供其他男人性侵 全身浴血陳屍家中水床	https://www.stheadline.com/tv/tv-news/3614443/奧地利婦遭丈夫迷昏供其他男人性侵-全身浴血陳屍家中水床	未分類
 2026-09-11	轟高金素梅瞎扯戒嚴兩大荒謬！律師：共諜直接槍斃！連批「戒嚴」的機會都沒有| 政治	https://newtalk.tw/news/view/2026-09-11/1059245	未分類
@@ -214,16 +195,13 @@ var DATA_SECURITY = `
 2026-09-11	前湖人球員和教練Byron Scott 申請破產，性侵民事審訊被迫暫停| No Look Pass	https://basketball.fanpiece.com/nolookpass/前湖人球員和教練-Byron-Scott-申請破產-性侵民事審訊被迫暫停-c1503984.html	未分類
 2026-09-11	克羅地亞有學校發生持刀傷人 涉襲擊學生被捕	https://news.tvb.com/tc/1194700-%E5%85%8B%E7%BE%85%E5%9C%B0%E4%BA%9E%E6%9C%89%E5%AD%B8%E6%A0%A1%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E6%B6%89%E8%A5%B2%E6%93%8A%E5%AD%B8%E7%94%9F%E8%A2%AB%E6%8D%95	未分類
 2026-09-11	倫敦持刀襲擊案釀4傷 警方拘捕7人	https://news.tvb.com/tc/1194578-%E5%80%AB%E6%95%A6%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E6%A1%88%E9%87%804%E5%82%B7%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%957%E4%BA%BA	未分類
-2026-09-10	資安業者揭露大型假電商詐騙網路，攻擊者架設11.9萬個網站竊取信用卡資料	https://www.ithome.com.tw/news/178843	未分類
 2026-09-10	警方通告失蹤7天後死亡 阿里前高管死因成謎	https://hk.epochtimes.com/news/2026-09-10/23303310	未分類
-2026-09-10	花蓮警局傳槍響！36歲員警倒臥停車棚 頭部中彈搶救不治	https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3lsaExTSmZRMmVwdW1yUS1XaUZFVWxsSmJlZE9wQ29HM2hsb3cwYjJJRkZIbi03RVhNcmd5TEVoQ0RnX3l4LUFWMmoxLUxhaEVJVUNscmFVakdVRDRaX2VVYnBXWEJKX21ZbGxocDkzOUw0bFZ4SkFqalo0NFlvUzRfc1BMdw?oc=5	未分類
 2026-09-10	泰國東部幼兒園槍擊案一位教師遇害 據報槍手為死者丈夫	https://news.tvb.com/tc/1194330-%E6%B3%B0%E5%9C%8B%E6%9D%B1%E9%83%A8%E5%B9%BC%E5%85%92%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%88%E4%B8%80%E4%BD%8D%E6%95%99%E5%B8%AB%E9%81%87%E5%AE%B3%E6%93%9A%E5%A0%B1%E6%A7%8D%E6%89%8B%E7%82%BA%E6%AD%BB%E8%80%85%E4%B8%88%E5%A4%AB	未分類
 2026-09-10	兩內地男涉6宗爆竊案被捕 針對工廈和倉庫偷現金及金器 (16:53) - 20260910 - 港聞	https://news.mingpao.com/ins/港聞/article/20260910/s00001/1789030022541/兩內地男涉6宗爆竊案被捕-針對工廈和倉庫偷現金及金器	未分類
 2026-09-10	「新幣擔保」中文在線交易平台詐騙美國人 華府聯邦檢方查封	https://www.worldjournal.com/wj/story/121172/9745497	未分類
 2026-09-10	5男涉與14歲少女非法性交 事主稱因猜錯其中一被告年紀遭毆打 (16:33) - 20260910 - 港聞	https://news.mingpao.com/ins/港聞/article/20260910/s00001/1789026468185/5男涉與14歲少女非法性交-事主稱因猜錯其中一被告年紀遭毆打	未分類
 2026-09-09	馬州勞工節遊行 民眾籲驅逐中共跨國鎮壓間諜	https://www.epochtimes.com/b5/26/9/8/n14845185.htm	未分類
 2026-09-09	送餐途中遇醉漢持刀傷人 青海外賣員英勇騎車撞倒對方 途人上前協助制服	https://www.bastillepost.com/hongkong/article/16619368-%E9%80%81%E9%A4%90%E9%80%94%E4%B8%AD%E9%81%87%E9%86%89%E6%BC%A2%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-%E9%9D%92%E6%B5%B7%E5%A4%96%E8%B3%A3%E5%93%A1%E8%8B%B1%E5%8B%87%E9%A8%8E%E8%BB%8A%E6%92%9E%E5%80%92	未分類
-2026-09-09	來論｜面對逃車不輕易開槍：專業警務背後的風險權衡與法治原則- 來論	https://www.dotdotnews.com/s/202609/09/AP6aa0fbb1e4b02724bdb3eab0.html	未分類
 2026-09-09	中情局副局長稱美國正對中國開展更廣泛間諜活動- 紐約時報中文網	https://cn.nytimes.com/usa/20260909/cia-deputy-director-china/zh-hant/	未分類
 2026-09-08	韩国爆惊人命案！6旬妇陈尸冷冻仓库 知名咖啡厅老板遭逮	https://www.wenxuecity.com/news/2026/09/08/socialnews-269179.html	未分類
 2026-09-08	美紐約狂歡節連爆兩起槍擊 至少2傷	https://www.dotdotnews.com/a/202609/08/AP6a9f67cae4b02724bdb3c21b.html	未分類
@@ -242,27 +220,27 @@ var DATA_SECURITY = `
 2026-09-06	口角爭執引暴力衝突 男青遭非女棒球棍毆打割傷	https://www.singtaousa.com/2026/09/06/news/usa/violent-conflict-baseball-bat/	未分類
 2026-09-05	黃明志才擺脫命案風波！近況曝光差點凍死 飛蒙古工作受困低溫荒漠	https://star.setn.com/news/1902002	未分類
 2026-09-05	產後精神病釀悲劇？母親殺死3幼子 陪審團1票卡關恐重新審判	https://udn.com/news/amp/story/6813/9735927	未分類
-2026-09-05	死有對証｜法醫團隊陣容曝光！毒舌老油條韋家雄領軍強迫症女法醫陳曉華＋陳熹潼破命案還原真相	https://www.tvb.com/dramanews-c/%E6%AD%BB%E6%9C%89%E5%B0%8D%E8%A8%BC-%E6%B3%95%E9%86%AB%E5%9C%98%E9%9A%8A%E9%99%A3%E5%AE%B9%E6%9B%9D%E5%85%89-%E6%AF%92%E8%88%8C%E8%80%81%E6%B2%B9%E6%A2%9D%E9%9F%8B%E5%AE%B6%E9%9B%84%E9%A0%98%E8%BB%8D%E5%BC%B7%E8%BF%AB%E7%97%87%E5%A5%B3%E6%B3%95%E9%86%AB%E9%99%B3%E6%9B%89%E8%8F%AF-%E9%99%B3%E7%86%B9%E6%BD%BC-%E7%A0%B4%E5%91%BD%E6%A1%88%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8-1015799	未分類
-2026-09-05	尼泊爾泥石流累計1342人死亡4898人失蹤 1270具遺體身份未明	https://www.orangenews.hk/international/VUJMDVp/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%B4%AF%E8%A8%881342%E4%BA%BA%E6%AD%BB%E4%BA%A14898%E4%BA%BA%E5%A4%B1%E8%B9%A4-1270%E5%85%B7%E9%81%BA%E9%AB%94%E8%BA%AB%E4%BB%BD%E6%9C%AA%E6%98%8E.shtml	未分類
+2026-09-05	死有對証｜法醫團隊陣容曝光！毒舌老油條韋家雄領軍強迫症女法醫陳曉華＋陳熹潼破命案還原真相	https://www.tvb.com/dramanews-c/死有對証-法醫團隊陣容曝光-毒舌老油條韋家雄領軍強迫症女法醫陳曉華-陳熹潼-破命案還原真相-1015799	未分類
+2026-09-05	尼泊爾泥石流累計1342人死亡4898人失蹤 1270具遺體身份未明	https://www.orangenews.hk/international/VUJMDVp/尼泊爾泥石流累計1342人死亡4898人失蹤-1270具遺體身份未明.shtml	未分類
 2026-09-05	吉安市山泥傾瀉12幢房屋受損 1死11失蹤	https://hk.on.cc/hk/bkn/cnt/news/20260905/bkn-20260905114603854-0905_00822_001.html	未分類
-2026-09-05	《社會大代誌》女老師昏倒「保全CPR變襲胸」？！ 畫面曝「沒急救」全猥褻？！	https://www.ctv.com.tw/Article/-%E7%A4%BE%E6%9C%83%E5%A4%A7%E4%BB%A3%E8%AA%8C-%E5%A5%B3%E8%80%81%E5%B8%AB%E6%98%8F%E5%80%92-%E4%BF%9D%E5%85%A8CPR%E8%AE%8A%E8%A5%B2%E8%83%B8-%E7%95%AB%E9%9D%A2%E6%9B%9D-%E6%B2%92%E6%80%A5%E6%95%91-%E5%85%A8%E7%8C%A5%E8%A4%BB-	未分類
-2026-09-05	"女老師昏倒""保全CPR變襲胸""?! 畫面曝""沒急救""全猥褻?!│中視新聞 20260904"	https://www.ctv.com.tw/Article/%E5%A5%B3%E8%80%81%E5%B8%AB%E6%98%8F%E5%80%92-%E4%BF%9D%E5%85%A8CPR%E8%AE%8A%E8%A5%B2%E8%83%B8-%E7%95%AB%E9%9D%A2%E6%9B%9D-%E6%B2%92%E6%80%A5%E6%95%91-%E5%85%A8%E7%8C%A5%E8%A4%BB-%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E-20260904	未分類
+2026-09-05	《社會大代誌》女老師昏倒「保全CPR變襲胸」？！ 畫面曝「沒急救」全猥褻？！	https://www.ctv.com.tw/Article/-社會大代誌-女老師昏倒-保全CPR變襲胸-畫面曝-沒急救-全猥褻-	未分類
+2026-09-05	"女老師昏倒""保全CPR變襲胸""?! 畫面曝""沒急救""全猥褻?!│中視新聞 20260904"	https://www.ctv.com.tw/Article/女老師昏倒-保全CPR變襲胸-畫面曝-沒急救-全猥褻-中視新聞-20260904	未分類
 2026-09-04	韓男東京街頭刺斃前女友 法院認定故意殺人判監20年	https://www.dotdotnews.com/a/202609/04/AP6a9aac1be4b02724bdb371dc.html	未分類
 2026-09-04	昏倒女老師控保全「假CPR真猥褻」 無罪改判8月	https://www.ettoday.net/news/20260904/3231328.htm	未分類
 2026-09-04	旁遮普省一名65岁阿赫迈迪教徒遇害。人们担忧针对少数群体的暴力事件	https://www.asianews.it/zh/south-asia/pakistan/旁遮普省一名65岁阿赫迈迪教徒遇害人们担忧针对少数群体的暴力事件	未分類
-2026-09-04	尼泊爾泥石流死亡人數增至1,259人 災難管理署：約5,083 人失蹤	https://www.bastillepost.com/hongkong/article/16702154-%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8%E5%A2%9E%E8%87%B31259%E4%BA%BA-%E7%81%BD%E9%9B%A3%E7%AE%A1%E7%90%86%E7%BD%B2%EF%BC%9A%E7%B4%845083%E4%BA%BA	未分類
-2026-09-04	尼泊爾泥石流1280死5624失蹤 進災區極困難 考慮無人機挑夫送援	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386700/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%811280%E6%AD%BB5624%E5%A4%B1%E8%B9%A4-%E9%80%B2%E7%81%BD%E5%8D%80%E6%A5%B5%E5%9B%B0%E9%9B%A3-%E8%80%83%E6%85%AE%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%8C%91%E5%A4%AB%E9%80%81%E6%8F%B4	未分類
+2026-09-04	尼泊爾泥石流死亡人數增至1,259人 災難管理署：約5,083 人失蹤	https://www.bastillepost.com/hongkong/article/16702154-尼泊爾泥石流死亡人數增至1259人-災難管理署：約5083人	未分類
+2026-09-04	尼泊爾泥石流1280死5624失蹤 進災區極困難 考慮無人機挑夫送援	https://www.hk01.com/即時國際/60386700/尼泊爾泥石流1280死5624失蹤-進災區極困難-考慮無人機挑夫送援	未分類
 2026-09-04	台中四寶爸狠虐兒子7年...國小打到高中只能吃營養午餐少年罹重鬱	https://udn.com/news/amp/story/7321/9734147	未分類
 2026-09-04	北市飯店騎樓命案！她轉頭摸男友「手腳全冰了」	https://news.ebc.net.tw/news/society/569666	未分類
 2026-09-03	阿爾及利亞山火肆虐 總統特本倡恢復死刑懲罰縱火犯	https://www.bastillepost.com/hongkong/article/16696666-阿爾及利亞山火肆虐-總統特本倡恢復死刑懲罰縱火	未分類
 2026-09-03	苗栗苑裡雙煞！ 縱火燒茶行、磚砸銀樓 搶跑路費碰壁狼狽落網	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-03/2456153.html	未分類
 2026-09-03	美國明尼阿波利斯槍擊案釀3死！目擊者：至少聽到25至30聲槍響	https://udn.com/news/amp/story/6813/9731229	未分類
-2026-09-03	美國明尼阿波利斯市槍擊案 造成包括槍手在內3人死	https://m.hkej.com/landing/mobarticle2/id/4504197/%E7%BE%8E%E5%9C%8B%E6%98%8E%E5%B0%BC%E9%98%BF%E6%B3%A2%E5%88%A9%E6%96%AF%E5%B8%82%E6%A7%8D%E6%93%8A%E6%A1%88%20%E9%80%A0%E6%88%90%E5%8C%85%E6%8B%AC%E6%A7%8D%E6%89%8B%E5%9C%A8%E5%85%A73%E4%BA%BA%E6%AD%BB	未分類
+2026-09-03	美國明尼阿波利斯市槍擊案 造成包括槍手在內3人死	https://m.hkej.com/landing/mobarticle2/id/4504197/美國明尼阿波利斯市槍擊案 造成包括槍手在內3人死	未分類
 2026-09-03	紐約時報廣場發生隨機殺人案 美銀美女副總裁身亡 警方坦承曾多次接觸凶嫌	https://tw.news.yahoo.com/%E7%B4%90%E7%B4%84%E6%99%82%E5%A0%B1%E5%BB%A3%E5%A0%B4%E7%99%BC%E7%94%9F%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E6%A1%88-%E7%BE%8E%E9%8A%80%E7%BE%8E%E5%A5%B3%E5%89%AF%E7%B8%BD%E8%A3%81%E8%BA%AB%E4%BA%A1-%E8%AD%A6%E6%96%B9%E5%9D%A6%E6%89%BF%E6%9B%BE%E5%A4%9A%E6%AC%A1%E6%8E%A5%E8%A7%B8%E5%87%B6%E5%AB%8C-084753372.html	未分類
 2026-09-03	紐約時報廣場爆持刀攻擊案1死1傷 美國銀行女副總裁遇難	https://www.eracom.com.tw/EraNews/Home/WorldNews/2026-09-03/2455891.html	未分類
 2026-09-03	泥石流在尼泊爾造成1204人死亡 4200多人失蹤	https://news.rthk.hk/rthk/ch/component/k2/1868596-20260903.htm?spTabChangeable=0	未分類
 2026-09-03	尼泊爾洪災滿一週 1114人死亡近4千失蹤	https://www.ntdtv.com/b5/2026/09/02/a104129665.html	未分類
-2026-09-03	尼泊爾泥石流增至1252死 搜救隊續尋逾4800失蹤者	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386499/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%A2%9E%E8%87%B31252%E6%AD%BB-%E6%90%9C%E6%95%91%E9%9A%8A%E7%BA%8C%E5%B0%8B%E9%80%BE4800%E5%A4%B1%E8%B9%A4%E8%80%85	未分類
+2026-09-03	尼泊爾泥石流增至1252死 搜救隊續尋逾4800失蹤者	https://www.hk01.com/即時國際/60386499/尼泊爾泥石流增至1252死-搜救隊續尋逾4800失蹤者	未分類
 2026-09-03	女童後院玩耍聞到芬太尼煙霧昏迷 父惱火支援房屋惡鄰毒害他人	https://www.singtao.ca/7617674/2026-09-03/news-女童後院玩耍聞到芬太尼煙霧昏迷++++父惱火支援房屋惡鄰毒害他人/	未分類
 2026-09-03	又是毒駕！土城55歲男駕車狠衝Alphard「車頭變形」釀3傷	https://news.pchome.com.tw/society/ctinews/20260903/index-78841828689599309002.html	未分類
 2026-09-02	鄰住買泄3.3萬客資料6人中伏遭假客服詐騙共失30萬	https://news.mingpao.com/pns/港聞/article/20260902/s00002/1788285406211/鄰住買泄3-3萬客資料-6人中伏-遭假客服詐騙-共失30萬	未分類
@@ -271,14 +249,13 @@ var DATA_SECURITY = `
 2026-09-02	美婦殺害3幼子案陷僵局 陪審團重啟第5天評議	https://www.4gtv.tv/article/2026090211000028	未分類
 2026-09-02	緬甸椰子粉藏1公斤海洛因闖關失敗 刑事局斬斷跨境運毒鏈逮7人	https://www.mnews.tw/story/amp/mm-20260902edi080	未分類
 2026-09-02	紐約爆持刀襲擊美銀副總裁遇害- 國際	https://www.wenweipo.com/a/202609/02/AP6a97303ce4b0c1e50027259b.html	未分類
-2026-09-02	紐約時代廣場隨機斬人1死1傷死者生前任美國銀行高層- 國際	https://www.dotdotnews.com/s/202609/02/AP6a97764de4b02724bdb325e1.html	未分類
 2026-09-02	紐約時代廣場持刀襲擊案1死 死者為美國銀行女高層剛放完產假	https://www.hk01.com/article/60386080	未分類
 2026-09-02	泥石流巨災丨中尼增至逾1,127人死 吉隆口岸陸路救援通道基本打通 中國與尼泊爾邊境的特大泥石流，增至超過1100人遇難，5100多人失蹤。其中尼泊爾的死亡人數增至1127人，4600多人失蹤，另有超過1.1萬人獲救。吉隆口岸的陸路救援通道已...	https://www.kinliu.hk/news/%E7%86%B1%E8%A9%B1/%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%A8%E7%81%BD%E4%B8%A8%E4%B8%AD%E5%B0%BC%E5%A2%9E%E8%87%B3%E9%80%BE1%2C127%E4%BA%BA%E6%AD%BB-%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E9%99%B8%E8%B7%AF%E6%95%91%E6%8F%B4%E9%80%9A%E9%81%93%E5%9F%BA%E6%9C%AC%E6%89%93%E9%80%9A/284207.html?id=82&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
 2026-09-02	時報廣場隨機砍人1死1傷 美銀女副總產假完 慘遭橫禍	https://www.worldjournal.com/wj/story/121382/9728895	未分類
 2026-09-02	影/緬甸椰粉包裹藏1公斤海洛因 警瓦解運毒集團逮7人 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260902/index-78835593005789309002.html	未分類
 2026-09-02	吃個早餐驚見「身邊是遺體」！鳳山男子慘死涼亭長椅上 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260902/index-78832986258817309002.html	未分類
 2026-09-02	口角爭執升級暴力衝突 男子華埠酒吧外遭割臉	https://www.singtaousa.com/2026/09/02/news/usa/violent-conflict-chinatown-bar/	未分類
-2026-09-02	39歲內地漢泰國曼谷飛抵香港 海關揭行李藏$100萬大麻花	https://www.hk01.com/%E7%AA%81%E7%99%BC/60386281/39%E6%AD%B2%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%B3%B0%E5%9C%8B%E6%9B%BC%E8%B0%B7%E9%A3%9B%E6%8A%B5%E9%A6%99%E6%B8%AF-%E6%B5%B7%E9%97%9C%E6%8F%AD%E8%A1%8C%E6%9D%8E%E8%97%8F-100%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E6%8B%89%E4%BA%BA	未分類
+2026-09-02	39歲內地漢泰國曼谷飛抵香港 海關揭行李藏$100萬大麻花	https://www.hk01.com/突發/60386281/39歲內地漢泰國曼谷飛抵香港-海關揭行李藏-100萬大麻花拉人	未分類
 2026-09-01	（有片）紐約時報廣場爆持刀襲擊1死	https://www.wenweipo.com/a/202609/01/AP6a96e751e4b0c1e500272337.html	未分類
 2026-09-01	香港快運航班現機艙盜竊 內地男子涉偷竊被捕 乘客拍片舉證	https://www.singtaousa.com/2026/09/01/news/china/hk-express-flight-theft-passenger-video/	未分類
 2026-09-01	觀光勝地驚爆命案 台人目睹現場嚇壞	https://news.ebc.net.tw/news/world/569234	未分類
@@ -297,48 +274,45 @@ var DATA_SECURITY = `
 2026-09-01	新墨州核武實驗室女助理 失蹤1年成白骨 頭骨竟有槍傷	https://www.worldjournal.com/wj/amp/story/121172/9726662	未分類
 2026-09-01	俄克拉荷馬州大麻提煉廠爆炸兩死 一男子被控謀殺	https://www.bastillepost.com/hongkong/article/16678390-%E4%BF%84%E5%85%8B%E6%8B%89%E8%8D%B7%E9%A6%AC%E5%B7%9E%E5%A4%A7%E9%BA%BB%E6%8F%90%E7%85%89%E5%BB%A0%E7%88%86%E7%82%B8%E5%85%A9%E6%AD%BB-%E4%B8%80%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8E%A7%E8%AC%80%E6%AE%BA	未分類
 2026-09-01	中尼泥石流逾千人亡 5100多人仍失蹤	https://www.singtaousa.com/2026/09/01/news/world/more-than-1000-people-died-in-mudslides-in-china-and-nepal-and-more-than-5100-people-are-still-missing/	未分類
-2026-09-01	​尼泊爾泥石流災害增至1010死 約590名外國公民失蹤	https://www.orangenews.hk/international/VTwLC1G/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BD%E5%AE%B3%E5%A2%9E%E8%87%B31010%E6%AD%BB-%E7%B4%84590%E5%90%8D%E5%A4%96%E5%9C%8B%E5%85%AC%E6%B0%91%E5%A4%B1%E8%B9%A4.shtml	未分類
-2026-08-31	美國大峽谷突發山洪爆發至少1人死亡、15人失蹤- 國際	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RNU9sOFlYWU44OU1rRFp1WEo3YjlZeE1wQ1c1ZFNkb2lPZFJjc3pMd1BfbjF1VGdjQzU4Sjkyb2RZam51MloyckRtYWkxMUtIbUZjbkZldHRDWWJOaUE3ckJyRHFmQQ?oc=5	未分類
-2026-08-31	美國大峽谷國家公園山洪暴發 1死、15失蹤	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/499358/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%B3%BD%E8%B0%B7%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92%E5%B1%B1%E6%B4%AA%E6%9A%B4%E7%99%BC-%E9%80%BE20%E4%BA%BA%E7%96%91%E5%A4%B1%E8%B9%A4	未分類
-2026-08-31	瑞士派對槍擊 一意大利女子亡	https://www.hkej.com/dailynews/international/article/4498729/%25E7%2591%259E%25E5%25A3%25AB%25E6%25B4%25BE%25E5%25B0%258D%25E6%25A7%258D%25E6%2593%258A-%25E4%25B8%2580%25E6%2584%258F%25E5%25A4%25A7%25E5%2588%25A9%25E5%25A5%25B3%25E5%25AD%2590%25E4%25BA%25A1	未分類
+2026-09-01	​尼泊爾泥石流災害增至1010死 約590名外國公民失蹤	https://www.orangenews.hk/international/VTwLC1G/尼泊爾泥石流災害增至1010死-約590名外國公民失蹤.shtml	未分類
+2026-08-31	美國大峽谷國家公園山洪暴發 1死、15失蹤	https://www.i-cable.com/新聞資訊/499358/美國大峽谷國家公園山洪暴發-逾20人疑失蹤	未分類
+2026-08-31	瑞士派對槍擊 一意大利女子亡	https://www.hkej.com/dailynews/international/article/4498729/%E7%91%9E%E5%A3%AB%E6%B4%BE%E5%B0%8D%E6%A7%8D%E6%93%8A-%E4%B8%80%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E5%AD%90%E4%BA%A1	未分類
 2026-08-31	濟州島再傳休假軍官釣魚失聯死亡連續命案衝擊當地觀光產業- 國際	https://www.dotdotnews.com/a/202608/31/AP6a94fafae4b04b6c5d386314.html	未分類
 2026-08-31	泥石流巨災｜尼泊爾增至903人亡 失蹤大增至逾4千人 中國與尼泊爾邊境26日發生的特大泥石流，增至超過900人死亡，另外超過4000人失蹤。尼泊爾公布，當地截至今早已增至903人死亡，失蹤上數亦大幅上調至4247人，...	https://www.kinliu.hk/news/%E7%86%B1%E8%A9%B1/%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%A8%E7%81%BD%EF%BD%9C%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%A2%9E%E8%87%B3903%E4%BA%BA%E4%BA%A1-%E5%A4%B1%E8%B9%A4%E5%A4%A7%E5%A2%9E%E8%87%B3%E9%80%BE4%E5%8D%83%E4%BA%BA/275352.html?id=82&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
 2026-08-31	泥石流巨災｜尼泊爾增至903人亡 失蹤大增至逾4千人	https://www.kinliu.hk/news/熱話/泥石流巨災｜尼泊爾增至903人亡-失蹤大增至逾4千人/275352.html?id=82&from=home&bc1=首頁&bc1to=/	未分類
 2026-08-31	恐怖山洪狂襲美國大峽谷瞬間煉獄 河床炸裂改變地貌一死15人失蹤仍未尋獲	https://n.yam.com/Article/20260831221365	未分類
-2026-08-31	尼泊爾泥石流災害增至903死4247失蹤 部分地區死亡失蹤人數仍未確定	https://www.orangenews.hk/international/VTqcpOi/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BD%E5%AE%B3%E5%A2%9E%E8%87%B3903%E6%AD%BB4247%E5%A4%B1%E8%B9%A4-%E9%83%A8%E5%88%86%E5%9C%B0%E5%8D%80%E6%AD%BB%E4%BA%A1%E5%A4%B1%E8%B9%A4%E4%BA%BA%E6%95%B8%E4%BB%8D%E6%9C%AA%E7%A2%BA%E5%AE%9A.shtml	未分類
+2026-08-31	尼泊爾泥石流災害增至903死4247失蹤 部分地區死亡失蹤人數仍未確定	https://www.orangenews.hk/international/VTqcpOi/尼泊爾泥石流災害增至903死4247失蹤-部分地區死亡失蹤人數仍未確定.shtml	未分類
 2026-08-31	尼泊爾泥石流災害共已造成950人死亡，近4500人失蹤	https://www.rfi.fr/tw/亞洲/20260831-尼泊爾泥石流災害共已造成950人死亡，近4500人失蹤	未分類
-2026-08-31	大峽谷突發罕見暴雨山洪致至少2死逾十人失蹤	https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMk9SaFdxRUxyTzhxUi1COUNuYkVncFJhNFFLLXFnbm5QR0gzLWI4SHQ3Y2RSaHFieU1waXZzcXd5TGhGWUFjMFZYZHFERnA0T0VWUjRKUW1TQzIzM2w4bUNJeUtncWhUS0VGZk83WTBNUkNqZWdtdHlMZGhQdE5kcHhrUDdrWUJjNjBCSnJpYmZTYkN3TDBCa01VUlcyMFBEQjliYk84TWJFRUxYOXF6ZENmcDVLcDZHVVpnSmw0WHJoNEpuMTBRUnNBSDQ3NXNIRXU4?oc=5	未分類
 2026-08-31	中尼泥石流｜尼泊爾增至903人死亡 失蹤大增至逾4千人	https://www.881903.com/news/international/2647639	未分類
 2026-08-30	瑞士阿勞音樂節突發槍擊 警方展開大搜捕	https://www.dw.com/zh-hant/%E7%91%9E%E5%A3%AB%E9%98%BF%E5%8B%9E%E6%B4%BE%E5%B0%8D%E6%A7%8D%E6%93%8A%E8%87%B41%E6%AD%BB5%E5%82%B7-%E8%AD%A6%E6%96%B9%E8%B7%A8%E5%9C%8B%E8%BF%BD%E5%85%87/a-78562378	未分類
 2026-08-30	瑞士發生槍擊案造成1死5傷 警方大規模搜捕槍手	https://news.rthk.hk/rthk/ch/component/k2/1868149-20260830.htm	未分類
-2026-08-29	西藏泥石流｜增至626死 近2500人失蹤 尼泊爾總理否認拒絕外援	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384797/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%A2%9E%E8%87%B3626%E6%AD%BB-%E8%BF%912500%E4%BA%BA%E5%A4%B1%E8%B9%A4-%E5%B0%BC%E6%B3%8A%E7%88%BE%E7%B8%BD%E7%90%86%E5%90%A6%E8%AA%8D%E6%8B%92%E7%B5%95%E5%A4%96%E6%8F%B4	未分類
-2026-08-29	西藏中尼邊境泥石流 7死554 人失蹤	https://www.bastillepost.com/hongkong/article/16663232-%E8%A5%BF%E8%97%8F%E4%B8%AD%E5%B0%BC%E9%82%8A%E5%A2%83%E6%B3%A5%E7%9F%B3%E6%B5%81-7%E6%AD%BB554%E4%BA%BA%E5%A4%B1%E8%B9%A4	未分類
+2026-08-29	西藏泥石流｜增至626死 近2500人失蹤 尼泊爾總理否認拒絕外援	https://www.hk01.com/即時國際/60384797/西藏泥石流-增至626死-近2500人失蹤-尼泊爾總理否認拒絕外援	未分類
+2026-08-29	西藏中尼邊境泥石流 7死554 人失蹤	https://www.bastillepost.com/hongkong/article/16663232-西藏中尼邊境泥石流-7死554人失蹤	未分類
 2026-08-29	泥石流在尼泊爾增至579死近2千人失蹤 政府稱暫不需外國搜救	https://news.rthk.hk/rthk/ch/component/k2/1868006-20260829.htm	未分類
 2026-08-29	柏林市府「5.8TB機密」遭竊！駭客勒索7400萬 市長拒付贖金	https://www.ettoday.net/news/20260829/3227748.htm	未分類
-2026-08-29	尼泊爾洪災增至最少579人死亡 逾1900人失蹤	https://www.orangenews.hk/international/VTdqKvS/%E5%B0%BC%E6%B3%8A%E7%88%BE%E6%B4%AA%E7%81%BD%E5%A2%9E%E8%87%B3%E6%9C%80%E5%B0%91579%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E9%80%BE1900%E4%BA%BA%E5%A4%B1%E8%B9%A4.shtml	未分類
-2026-08-29	尼泊爾山洪暴發致626人死亡 2426人失蹤	https://www.bastillepost.com/hongkong/article/16664241-%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA%E6%9A%B4%E7%99%BC%E8%87%B4626%E4%BA%BA%E6%AD%BB%E4%BA%A1-2426%E4%BA%BA%E5%A4%B1%E8%B9%A4	未分類
-2026-08-29	中尼邊境泥石流｜尼泊爾增至626人死 兩國近3000人失蹤 (14:49) - 20260829 - 兩岸	https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20260829/s00004/1787964779999/%E4%B8%AD%E5%B0%BC%E9%82%8A%E5%A2%83%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%A2%9E%E8%87%B3626%E4%BA%BA%E6%AD%BB-%E5%85%A9%E5%9C%8B%E8%BF%913000%E4%BA%BA%E5%A4%B1%E8%B9%A4	未分類
-2026-08-29	中尼邊境泥石流 兩地增至最少626死逾2400人失蹤	https://www.kinliu.hk/news/%E7%86%B1%E8%A9%B1/%E4%B8%AD%E5%B0%BC%E9%82%8A%E5%A2%83%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%85%A9%E5%9C%B0%E5%A2%9E%E8%87%B3%E6%9C%80%E5%B0%91626%E6%AD%BB%E9%80%BE2400%E4%BA%BA%E5%A4%B1%E8%B9%A4/271428.html?id=82&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
+2026-08-29	尼泊爾洪災增至最少579人死亡 逾1900人失蹤	https://www.orangenews.hk/international/VTdqKvS/尼泊爾洪災增至最少579人死亡-逾1900人失蹤.shtml	未分類
+2026-08-29	尼泊爾山洪暴發致626人死亡 2426人失蹤	https://www.bastillepost.com/hongkong/article/16664241-尼泊爾山洪暴發致626人死亡-2426人失蹤	未分類
+2026-08-29	中尼邊境泥石流｜尼泊爾增至626人死 兩國近3000人失蹤 (14:49) - 20260829 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260829/s00004/1787964779999/中尼邊境泥石流-尼泊爾增至626人死-兩國近3000人失蹤	未分類
+2026-08-29	中尼邊境泥石流 兩地增至最少626死逾2400人失蹤	https://www.kinliu.hk/news/熱話/中尼邊境泥石流-兩地增至最少626死逾2400人失蹤/271428.html?id=82&from=home&bc1=首頁&bc1to=/	未分類
 2026-08-28	（有片）屯門輕鐵MMA 4老爭關愛座拄拐肉搏送院治理同被捕- 港聞 今日（28日）上午11時15分，警方接獲報案，指屯門藍地輕鐵站有人打鬥。警員接報到場，經初步調查後，分別於藍地輕鐵站及鍾屋村輕鐵站，以涉嫌「在公眾地方打鬥」，...	https://www.dotdotnews.com/s/202608/28/AP6a9174c7e4b04b6c5d38237a.html	未分類
 2026-08-28	許淑華哽咽轟「猥褻案」傷口撒鹽蔣：依標準安置- 政治	https://news.cts.com.tw/cts/politics/202608/202608283072391.html	未分類
 2026-08-28	荷蘭情報機構擬獲全面擴權 直擊中俄伊間諜	https://www.epochtimes.com/b5/26/8/28/n14838747.htm	未分類
 2026-08-28	糖廠恐怖意外！25歲新手爸「跌入沸騰糖漿」慘死 監視器畫面曝	https://www.facebook.com/ETtoday/posts/%E7%B3%96%E5%BB%A0%E6%81%90%E6%80%96%E6%84%8F%E5%A4%9625%E6%AD%B2%E6%96%B0%E6%89%8B%E7%88%B8%E8%B7%8C%E5%85%A5%E6%B2%B8%E9%A8%B0%E7%B3%96%E6%BC%BF%E6%85%98%E6%AD%BB-%E7%9B%A3%E8%A6%96%E5%99%A8%E7%95%AB%E9%9D%A2%E6%9B%9D/1538719204953826/	未分類
 2026-08-28	德國校園襲擊案釀兩死18歲女學生遭前男友殺害救人者同場喪命- 國際	https://www.dotdotnews.com/a/202608/28/AP6a9108e8e4b04b6c5d38187e.html	未分類
 2026-08-28	尼泊爾西藏洪災472死 30多國失蹤人數一覽	https://www.epochtimes.com/b5/26/8/28/n14838321.htm	未分類
-2026-08-28	喜馬拉雅山區洪災升至近600人死亡 約2500人失蹤	https://www.rfi.fr/tw/中國/20260828-喜馬拉雅山區洪災升至近600人死亡-約2500人失蹤	未分類
-2026-08-28	原以為是意外！北海道大學研究生疑拿「化骨水」淋頭慘死	https://tw.news.yahoo.com/%E5%8E%9F%E4%BB%A5%E7%82%BA%E6%98%AF%E6%84%8F%E5%A4%96-%E5%8C%97%E6%B5%B7%E9%81%93%E5%A4%A7%E5%AD%B8%E7%A0%94%E7%A9%B6%E7%94%9F%E7%96%91%E6%8B%BF-%E5%8C%96%E9%AA%A8%E6%B0%B4-%E6%B7%8B%E9%A0%AD%E6%85%98%E6%AD%BB-145000442.html	未分類
+2026-08-28	喜馬拉雅山區洪災升至近600人死亡 約2500人失蹤	https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20260828-%E5%96%9C%E9%A6%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E5%8D%80%E6%B4%AA%E7%81%BD%E5%8D%87%E8%87%B3%E8%BF%91600%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E7%B4%842500%E4%BA%BA%E5%A4%B1%E8%B9%A4	未分類
+2026-08-28	原以為是意外！北海道大學研究生疑拿「化骨水」淋頭慘死	https://tw.news.yahoo.com/原以為是意外-北海道大學研究生疑拿-化骨水-淋頭慘死-145000442.html	未分類
 2026-08-28	休達危機｜逾5千難民滯留引發暴力衝突 市議會：情況極端瀕臨崩潰	https://www.singtao.ca/7612038/2026-08-28/news-%E4%BC%91%E9%81%94%E5%8D%B1%E6%A9%9F%EF%BD%9C%E9%80%BE5%E5%8D%83%E9%9B%A3%E6%B0%91%E6%BB%AF%E7%95%99%E5%BC%95%E7%99%BC%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81++%E5%B8%82%E8%AD%B0%E6%9C%83%EF%BC%9A%E6%83%85%E6%B3%81%E6%A5%B5%E7%AB%AF%E7%80%95%E8%87%A8%E5%B4%A9%E6%BD%B0/	未分類
 2026-08-28	中尼邊境泥石流｜尼泊爾增至逾460死900多人失蹤半數為遊客 新形成堰塞湖隨時決堤	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/498753/%E4%B8%AD%E5%B0%BC%E9%82%8A%E5%A2%83%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%A2%9E%E8%87%B3%E9%80%BE460%E6%AD%BB900%E5%A4%9A%E4%BA%BA%E5%A4%B1%E8%B9%A4%E5%8D%8A%E6%95%B8	未分類
-2026-08-28	中尼邊境泥石流｜尼泊爾增至469死 兩國逾1400人失蹤【短片】 (10:55) - 20260828 - 國際	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260828/s00005/1787881921105/%E4%B8%AD%E5%B0%BC%E9%82%8A%E5%A2%83%E6%B3%A5%E7%9F%B3%E6%B5%81-%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%A2%9E%E8%87%B3469%E6%AD%BB-%E5%85%A9%E5%9C%8B%E9%80%BE1400%E4%BA%BA%E5%A4%B1%E8%B9%A4%E3%80%90%E7%9F%AD%E7%89%87%E3%80%91	未分類
+2026-08-28	中尼邊境泥石流｜尼泊爾增至469死 兩國逾1400人失蹤【短片】 (10:55) - 20260828 - 國際	https://news.mingpao.com/ins/國際/article/20260828/s00005/1787881921105/中尼邊境泥石流-尼泊爾增至469死-兩國逾1400人失蹤【短片】	未分類
 2026-08-28	【甲洞一家四口命案】夫留遗书揭妻陷“网恋诈骗” 疑背债26万酿悲剧	https://www.orientaldaily.com.my/news/society/2026/08/28/843806	未分類
-2026-08-28	​尼泊爾山洪增至389死 910人失蹤包括517名外國公民	https://www.orangenews.hk/international/VTY6drG/%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA%E5%A2%9E%E8%87%B3389%E6%AD%BB-910%E4%BA%BA%E5%A4%B1%E8%B9%A4%E5%8C%85%E6%8B%AC517%E5%90%8D%E5%A4%96%E5%9C%8B%E5%85%AC%E6%B0%91.shtml	未分類
+2026-08-28	​尼泊爾山洪增至389死 910人失蹤包括517名外國公民	https://www.orangenews.hk/international/VTY6drG/尼泊爾山洪增至389死-910人失蹤包括517名外國公民.shtml	未分類
 2026-08-28	10歲女童遭猥褻！蔣萬安扯社工 沈伯洋嗆：認錯是止血，不檢討會內出血	https://www.setn.com/ampnews/1897773	未分類
 2026-08-27	組圖：尼泊爾西藏洪災 至少168死近1500失蹤	https://www.epochtimes.com/b5/26/8/27/n14837618.htm	未分類
-2026-08-27	法國卡昂26歲男子駕車撞人致2死10傷 疑事前曾與他人發生打鬥	https://www.orangenews.hk/international/VTTjEBN/%E6%B3%95%E5%9C%8B%E5%8D%A1%E6%98%8226%E6%AD%B2%E7%94%B7%E5%AD%90%E9%A7%95%E8%BB%8A%E6%92%9E%E4%BA%BA%E8%87%B42%E6%AD%BB10%E5%82%B7-%E7%96%91%E4%BA%8B%E5%89%8D%E6%9B%BE%E8%88%87%E4%BB%96%E4%BA%BA%E7%99%BC%E7%94%9F%E6%89%93%E9%AC%A5.shtml	未分類
+2026-08-27	法國卡昂26歲男子駕車撞人致2死10傷 疑事前曾與他人發生打鬥	https://www.orangenews.hk/international/VTTjEBN/法國卡昂26歲男子駕車撞人致2死10傷-疑事前曾與他人發生打鬥.shtml	未分類
 2026-08-27	德國柏林校園襲擊命案 18歲女學生與相救男子遇害亡 19歲疑犯被捕 德國首都柏林附近城鎮發生一宗震撼當地的校園命案。據德國傳媒8月27日報道，當地一間學校突發嚴重襲擊事件，造成兩人當場死亡，警方接報趕至現場後，已成功拘留一名19...	https://www.singtao.ca/7610660/2026-08-27/news-%E5%BE%B7%E5%9C%8B%E6%9F%8F%E6%9E%97%E6%A0%A1%E5%9C%92%E8%A5%B2%E6%93%8A%E5%91%BD%E6%A1%88+18%E6%AD%B2%E5%A5%B3%E5%AD%B8%E7%94%9F%E8%88%87%E7%9B%B8%E6%95%91%E7%94%B7%E5%AD%90%E9%81%87%E5%AE%B3%E4%BA%A1+19%E6%AD%B2%E7%96%91%E7%8A%AF%E8%A2%AB%E6%8D%95/	未分類
 2026-08-27	德國柏林校園襲擊命案 18歲女學生與相救男子遇害亡 19歲疑犯被捕	https://www.singtao.ca/7610660/2026-08-27/news-德國柏林校園襲擊命案+18歲女學生與相救男子遇害亡+19歲疑犯被捕/	未分類
 2026-08-27	尼泊爾：山洪死亡人數升至165人 826人失蹤- 國際	https://www.wenweipo.com/a/202608/27/AP6a8fcc3ae4b0c1e500266e6a.html	未分類
-2026-08-27	尼泊爾與西藏邊境洪災死亡人數升至 273人，1300人失蹤 涵30多國遊客	https://news.google.com/rss/articles/CBMipgNBVV95cUxOMEdPMjMzOEFJalJCTkVfQTNTZkdXN0JCRmRuRWpUZ0R1MzI0NHVNS3VYVWNTX1EzTzNQdUxabUU0YTcxVHk2TWdwWHlFZ3piamJMY2tCVzRXUV82dUdiX2xEekMzb1EyWkZRNEZpNUktSWF5Ri1IXzBZVG5hUzhvNEk0MTRCLTJvSFVGaXE3ZS1NY0Y4ekMxTmg5SmJ4VTNpMXM0aUpFdE5LYmd2Ynd5M2xYbGstVlhNZzBwSlFtaGdLXy1DalVxWkRqN1pyYXVHUnpYVnRzc0VCcTNrR3hmQjRwclBlOGROTC1rWDFHRTB4QzVld2xEdG5wS1lXYnd3djI5dW1QY3kwYXNBdHBlMHVRRXROYmM4azYxX3hVcEJlV25kclR6bFRaTFBhYmFvb0hNSnhWU0NJS0MtbkVCSWQyb05ic1lRVnRYNFBNWE9PU09TemZfSTgwb3pncVA3enpPQUphY1diS0JsbExjdjZOSE5RQ0F0d1kyWE11RWxvV3Q5M1lDbjUtUTk5dUU2U19DXzdmaHVGOWRMOFFxbGF2US1JQQ?oc=5	未分類
 2026-08-27	尼泊爾泥石流增至逾160人死亡 480多名遊客失蹤	https://news.rthk.hk/rthk/ch/component/k2/1867756-20260827.htm	未分類
 2026-08-27	尼泊爾山洪增至165死 826人失蹤- 國際	https://www.dotdotnews.com/a/202608/27/AP6a8fcaa8e4b04b6c5d37faa1.html	未分類
 2026-08-27	前警務處長胞弟涉逼勒索 布碌崙酒吧老闆提訴市府	https://www.singtaousa.com/2026/08/27/news/usa/caban-brother-extortion-brooklyn-bar/	未分類
@@ -349,44 +323,43 @@ var DATA_SECURITY = `
 2026-08-26	退出的代價就是死？台中印尼武術社爆「車輪戰決鬥命案」 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260826/index-78770206883811309002.html	未分類
 2026-08-26	西環混種犬疑被無牽繩唐狗撲上 女狗主上前阻止被咬傷送院 西環卑路乍街8號附近8月25日晚上11時許發生狗咬傷人事件，一名34歲滕姓女子帶同愛犬散步期間，懷疑與另一隻唐狗相遇後引發衝突，女事主其後左腳流血受傷，送往瑪麗醫院...	https://www.kinliu.hk/news/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/%E8%A5%BF%E7%92%B0%E6%B7%B7%E7%A8%AE%E7%8A%AC%E7%96%91%E8%A2%AB%E7%84%A1%E7%89%BD%E7%B9%A9%E5%94%90%E7%8B%97%E6%92%B2%E4%B8%8A-%E5%A5%B3%E7%8B%97%E4%B8%BB%E4%B8%8A%E5%89%8D%E9%98%BB%E6%AD%A2%E8%A2%AB%E5%92%AC%E5%82%B7%E9%80%81%E9%99%A2/260963.html?id=52&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
 2026-08-26	美國蒙大拿州家庭槍擊慘案致9死槍手殺害8名親屬後自殺- 國際	https://www.dotdotnews.com/a/202608/26/AP6a8e3696e4b04b6c5d37d1bd.html	未分類
-2026-08-26	男子墮斃油麻地大廈平台 生前報案稱與人結怨遭追斬 3人認勒索及傷人等罪囚16至36個月	https://std.stheadline.com/society/3608390/%E7%94%B7%E5%AD%90%E5%A2%AE%E6%96%83%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%A4%A7%E5%BB%88%E5%B9%B3%E5%8F%B0-%E7%94%9F%E5%89%8D%E5%A0%B1%E6%A1%88%E7%A8%B1%E8%88%87%E4%BA%BA%E7%B5%90%E6%80%A8%E9%81%AD%E8%BF%BD%E6%96%AC-3%E4%BA%BA%E8%AA%8D%E5%8B%92%E7%B4%A2%E5%8F%8A%E5%82%B7%E4%BA%BA%E7%AD%89%E7%BD%AA%E5%9B%9A16%E8%87%B336%E5%80%8B%E6%9C%88	未分類
-2026-08-26	李頴彰｜葵涌邨命案與奧賽羅症候群：長者絕望猜疑，推向雙亡悲劇	https://www.hk01.com/01%E5%B0%88%E6%AC%84/60383636/%E6%9D%8E%E9%A0%B4%E5%BD%B0-%E8%91%B5%E6%B6%8C%E9%82%A8%E5%91%BD%E6%A1%88%E8%88%87%E5%A5%A7%E8%B3%BD%E7%BE%85%E7%97%87%E5%80%99%E7%BE%A4-%E9%95%B7%E8%80%85%E7%B5%95%E6%9C%9B%E7%8C%9C%E7%96%91-%E6%8E%A8%E5%90%91%E9%9B%99%E4%BA%A1%E6%82%B2%E5%8A%87	未分類
-2026-08-26	摻劇毒鬆餅送男友人日女涉企圖謀殺被捕- 國際	https://m.dotdotnews.com/s/202608/26/AP6a8eac66e4b04b6c5d37de73.html	未分類
+2026-08-26	男子墮斃油麻地大廈平台 生前報案稱與人結怨遭追斬 3人認勒索及傷人等罪囚16至36個月	https://std.stheadline.com/society/3608390/男子墮斃油麻地大廈平台-生前報案稱與人結怨遭追斬-3人認勒索及傷人等罪囚16至36個月	未分類
+2026-08-26	李頴彰｜葵涌邨命案與奧賽羅症候群：長者絕望猜疑，推向雙亡悲劇	https://www.hk01.com/01專欄/60383636/李頴彰-葵涌邨命案與奧賽羅症候群-長者絕望猜疑-推向雙亡悲劇	未分類
 2026-08-26	墨西哥奔牛節爆意外！放21頭牛街頭狂奔 2人「遭牛角刺穿」慘死	https://news.pchome.com.tw/internation/m00361/20260826/index-78772151527811361011.html	未分類
 2026-08-26	土瓜灣巴裔男交收衣物 被女子帶上單位 遭3男持刀襲擊強迫轉帳	https://www.hk01.com/%E7%AA%81%E7%99%BC/60383883/%E5%9C%9F%E7%93%9C%E7%81%A3%E5%B7%B4%E8%A3%94%E7%94%B7%E4%BA%A4%E6%94%B6%E8%A1%A3%E7%89%A9-%E8%A2%AB%E5%A5%B3%E5%AD%90%E5%B8%B6%E4%B8%8A%E5%96%AE%E4%BD%8D-%E9%81%AD3%E7%94%B7%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E5%BC%B7%E8%BF%AB%E8%BD%89%E5%B8%B3	未分類
 2026-08-26	口角爭執引暴力衝突 男乘客月台遭毆臉	https://www.singtaousa.com/2026/08/26/news/usa/violent-conflict-subway-platform/	未分類
 2026-08-26	債仔遭黑幫追債墮樓亡 3男女參與行動 認傷人勒索等囚16至36月	https://www.hk01.com/社會新聞/60383868/債仔遭黑幫追債墮樓亡-3男女參與行動-認傷人勒索等囚16至36月	未分類
-2026-08-25	葵涌邨夫婦命案｜死者三親友到殮房認屍 冒雨黯然離去	https://www.hk01.com/%E7%AA%81%E7%99%BC/60383323/%E8%91%B5%E6%B6%8C%E9%82%A8%E5%A4%AB%E5%A9%A6%E5%91%BD%E6%A1%88-%E6%AD%BB%E8%80%85%E4%B8%89%E8%A6%AA%E5%8F%8B%E5%88%B0%E6%AE%AE%E6%88%BF%E8%AA%8D%E5%B1%8D-%E5%86%92%E9%9B%A8%E9%BB%AF%E7%84%B6%E9%9B%A2%E5%8E%BB	未分類
-2026-08-25	美軍事隔2個月再炸「運毒船」釀2死 南方之矛行動累積221人亡	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/1049229/%E7%BE%8E%E8%BB%8D%E4%BA%8B%E9%9A%942%E5%80%8B%E6%9C%88%E5%86%8D%E7%82%B8-%E9%81%8B%E6%AF%92%E8%88%B9-%E9%87%802%E6%AD%BB-%E5%8D%97%E6%96%B9%E4%B9%8B%E7%9F%9B%E8%A1%8C%E5%8B%95%E7%B4%AF%E7%A9%8D221%E4%BA%BA%E4%BA%A1	未分類
+2026-08-25	葵涌邨夫婦命案｜死者三親友到殮房認屍 冒雨黯然離去	https://www.hk01.com/突發/60383323/葵涌邨夫婦命案-死者三親友到殮房認屍-冒雨黯然離去	未分類
+2026-08-25	美軍事隔2個月再炸「運毒船」釀2死 南方之矛行動累積221人亡	https://www.am730.com.hk/國際/1049229/美軍事隔2個月再炸-運毒船-釀2死-南方之矛行動累積221人亡	未分類
 2026-08-25	泰國南部78處遭縱火與炸彈襲擊 至少三人傷	https://hk.epochtimes.com/news/2026-08-25/71470668	未分類
 2026-08-25	毒販男嗆警「憑什麼抓我」！ 車上雖沒藏毒、但住家如毒窟	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-08-25/2447530.html	未分類
 2026-08-25	槍擊畫面曝！毒蟲狂催油門衝撞 台中警破窗狂轟16槍…他屁股吃「慶記」	https://www.setn.com/ampnews/1895310	未分類
 2026-08-25	新店警「好鼻師」聞違規車內香水味有異毒駕男遭逮還搜出毒品與吸食器| 社會	https://www.setn.com/ampnews/1895069	未分類
 2026-08-25	拒捕衝撞警車！台中警東區緝毒狂轟16槍 毒嫌臀部中彈昏迷送醫 台中市東區今（25日）上午驚傳槍響！台中市警察局第六分局偵辦毒品案件，上午前往十甲路一帶查緝涉案男子，不料對方疑拒捕並駕車衝撞警方，員警為制止其逃逸，...	https://tw.news.yahoo.com/%E6%8B%92%E6%8D%95%E8%A1%9D%E6%92%9E%E8%AD%A6%E8%BB%8A-%E5%8F%B0%E4%B8%AD%E8%AD%A6%E6%9D%B1%E5%8D%80%E7%B7%9D%E6%AF%92%E7%8B%82%E8%BD%9F16%E6%A7%8D-%E6%AF%92%E5%AB%8C%E8%87%80%E9%83%A8%E4%B8%AD%E5%BD%88%E6%98%8F%E8%BF%B7%E9%80%81%E9%86%AB-032900066.html	未分類
-2026-08-25	拒捕衝撞警車！台中警東區緝毒狂轟16槍 毒嫌臀部中彈昏迷送醫	https://tw.news.yahoo.com/拒捕衝撞警車-台中警東區緝毒狂轟16槍-毒嫌臀部中彈昏迷送醫-032900066.html	未分類
+2026-08-25	拒捕衝撞警車！台中警東區緝毒狂轟16槍 毒嫌臀部中彈昏迷送醫	https://www.mnews.tw/story/amp/mm-20260825edi059	未分類
 2026-08-25	影/新北賓士男違規迴轉遭攔查 車上太香露餡毒駕遭逮	https://news.pchome.com.tw/society/ctinews/20260825/index-78766755642434309002.html	未分類
 2026-08-25	影/台中毒品犯拒捕「警連開16槍」！臀部中彈意識不清 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260825/index-78762913704290309002.html	未分類
-2026-08-25	失蹤3個月成腐屍！張美蘭疑勒頸亡 男友悲喊：她沒遇難關	https://tw.news.yahoo.com/%E5%A4%B1%E8%B9%A43%E5%80%8B%E6%9C%88%E6%88%90%E8%85%90%E5%B1%8D-%E5%BC%B5%E7%BE%8E%E8%98%AD%E7%96%91%E5%8B%92%E9%A0%B8%E4%BA%A1-%E7%94%B7%E5%8F%8B%E6%82%B2%E5%96%8A-%E5%A5%B9%E6%B2%92%E9%81%87%E9%9B%A3%E9%97%9C-133900094.html	未分類
+2026-08-25	失蹤3個月成腐屍！張美蘭疑勒頸亡 男友悲喊：她沒遇難關	https://tw.news.yahoo.com/失蹤3個月成腐屍-張美蘭疑勒頸亡-男友悲喊-她沒遇難關-133900094.html	未分類
 2026-08-25	只因買水起爭執 泰國30歲男子槍殺店主致2死2傷	https://www.dotdotnews.com/a/202608/25/AP6a8d11cde4b04b6c5d37bbfc.html	未分類
 2026-08-25	三重「五燈獎小吃店」遭冒用販毒 竹聯幫弘仁會年撈3千萬	https://www.nexttv.com.tw/NextTV/News/Home/Society/m/2026-08-25/2447403.html	未分類
 2026-08-24	警謊稱尋回失蹤者 今發現另一人遺體 總統命徹查	https://hk.on.cc/hk/bkn/cnt/intnews/20260824/bkn-20260824145101135-0824_00992_001.html	未分類
 2026-08-24	警方搗破屯門雙單位毒窟 首揭「毒水浸衣」新式藏毒手法	https://www.singtaousa.com/2026/08/24/news/china/drug-den-double-unit-clothing-soaked/	未分類
-2026-08-24	葵涌邨命案｜鄰居指男死者孤僻鮮見與妻同行 曾因大聲播歌遭投訴	https://www.hk01.com/%E7%AA%81%E7%99%BC/60382968/%E8%91%B5%E6%B6%8C%E9%82%A8%E5%91%BD%E6%A1%88-%E9%84%B0%E5%B1%85%E6%8C%87%E7%94%B7%E6%AD%BB%E8%80%85%E5%AD%A4%E5%83%BB%E9%AE%AE%E8%A6%8B%E8%88%87%E5%A6%BB%E5%90%8C%E8%A1%8C-%E6%9B%BE%E5%9B%A0%E5%A4%A7%E8%81%B2%E6%92%AD%E6%AD%8C%E9%81%AD%E6%8A%95%E8%A8%B4	未分類
+2026-08-24	葵涌邨命案｜鄰居指男死者孤僻鮮見與妻同行 曾因大聲播歌遭投訴	https://www.hk01.com/突發/60382968/葵涌邨命案-鄰居指男死者孤僻鮮見與妻同行-曾因大聲播歌遭投訴	未分類
 2026-08-24	葵涌邨命案｜夫墮樓亡妻伏屍屋內 警列謀殺及自殺 重案組調查 葵涌邨發生雙屍命案，昨（23日）晚11時許，警方接獲葵涌邨春葵樓有人報案，指一名男子倒臥在上址大廈對開。警方及救援人員接報到場，證實一名年約8.	https://www.hk01.com/article/60382900	未分類
-2026-08-24	老翁用剪刀刺傷遊戲機中心女職員企圖謀殺罪成 判囚7年	https://news.tvb.com/tc/1191009-%E8%80%81%E7%BF%81%E7%94%A8%E5%89%AA%E5%88%80%E5%88%BA%E5%82%B7%E9%81%8A%E6%88%B2%E6%A9%9F%E4%B8%AD%E5%BF%83%E5%A5%B3%E8%81%B7%E5%93%A1%E4%BC%81%E5%9C%96%E8%AC%80%E6%AE%BA%E7%BD%AA%E6%88%90%E5%88%A4%E5%9B%9A7%E5%B9%B4	未分類
+2026-08-24	老翁用剪刀刺傷遊戲機中心女職員企圖謀殺罪成 判囚7年	https://news.tvb.com/tc/1191009-老翁用剪刀刺傷遊戲機中心女職員企圖謀殺罪成判囚7年	未分類
 2026-08-24	泰國南部周六爆逾50宗縱火炸彈襲擊 一度宵禁 軍方指圖製造不穩 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/497377/%E6%B3%B0%E5%9C%8B%E5%8D%97%E9%83%A8%E5%91%A8%E5%85%AD%E7%88%86%E9%80%BE50%E5%AE%97%E7%B8%B1%E7%81%AB%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E4%B8%80%E5%BA%A6%E5%AE%B5%E7%A6%81-%E8%BB%8D	未分類
 2026-08-24	泰國南部78處遭縱火與炸彈襲擊 至少3人傷	https://www.epochtimes.com/b5/26/8/24/n14835575.htm	未分類
 2026-08-24	暗殺拜倫？伊朗聲稱「全面監控」揚言懸賞千萬元	https://www.worldjournal.com/wj/story/121469/9711863	未分類
 2026-08-24	強化公部門安全防護能力 竹市警前進環保局宣導重大暴力事件及天災應變	https://n.yam.com/Article/20260824986969	未分類
 2026-08-24	勒索軟件攻擊：210 萬監管代價	https://www.ud.hk/zh-Hant/blogs/insight/article/ransomware-sfc-fine-hong-kong	未分類
-2026-08-24	《毛骨悚然的戀愛》結局劇透！朴恩斌解除詛咒 邕聖祐殺人全曝光	https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60383146/%E6%AF%9B%E9%AA%A8%E6%82%9A%E7%84%B6%E7%9A%84%E6%88%80%E6%84%9B-%E7%B5%90%E5%B1%80%E5%8A%87%E9%80%8F-%E6%9C%B4%E6%81%A9%E6%96%8C%E8%A7%A3%E9%99%A4%E8%A9%9B%E5%92%92-%E9%82%95%E8%81%96%E7%A5%90%E6%AE%BA%E4%BA%BA%E5%85%A8%E6%9B%9D%E5%85%89	未分類
+2026-08-24	《毛骨悚然的戀愛》結局劇透！朴恩斌解除詛咒 邕聖祐殺人全曝光	https://www.hk01.com/電影/60383146/毛骨悚然的戀愛-結局劇透-朴恩斌解除詛咒-邕聖祐殺人全曝光	未分類
 2026-08-23	突尼斯附近海域非法移民船傾覆已致11人死亡- 國際	https://www.wenweipo.com/a/202608/23/AP6a8b103fe4b0c1e50025f518.html	未分類
 2026-08-23	獸用麻醉藥網上違規銷售 成新型電子煙毒品原料	https://www.singtaousa.com/2026/08/23/news/china/animal-anesthetic-online-drug-ingredient-brain-damage/	未分類
 2026-08-22	瑞典少年闖高中持劍攻擊釀1死3傷警開槍制伏- 國際	https://www.dotdotnews.com/a/202608/22/AP6a89460ee4b04b6c5d3777be.html	未分類
 2026-08-22	瑞典18歲男持劍闖高中行凶釀1死3傷警開槍逮捕- 國際	https://www.wenweipo.com/a/202608/22/AP6a8924b9e4b0c1e50025c866.html	未分類
 2026-08-22	溯溪失蹤8天奇蹟生還！日56 歲婦靠少量糧食支撐獲救	https://www.bastillepost.com/hongkong/article/16599424-溯溪失蹤8天奇蹟生還！日56歲女靠少量糧食撐獲救	未分類
 2026-08-21	詐騙集團瘋用AI 加密犯罪AI採用指數飆至54分	https://yellow.com/zh-hk/news/詐騙集團瘋用ai-加密犯罪ai採用指數飆至54分	未分類
-2026-08-21	東方日報社論｜外傭恐怖虐兒 雙職家庭夢魘｜全文	https://news.tvb.com/tc/1190352-%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1%E7%A4%BE%E8%AB%96%E5%A4%96%E5%82%AD%E6%81%90%E6%80%96%E8%99%90%E5%85%92%E9%9B%99%E8%81%B7%E5%AE%B6%E5%BA%AD%E5%A4%A2%E9%AD%98%E5%85%A8%E6%96%87	未分類
+2026-08-21	東方日報社論｜外傭恐怖虐兒 雙職家庭夢魘｜全文	https://news.tvb.com/tc/1190352-東方日報社論外傭恐怖虐兒雙職家庭夢魘全文	未分類
 2026-08-21	文锦渡入境男司机涉走私被捕检蟑螂果蝇及白老鼠等逾百公斤｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260821/mobile/bkn-20260821184511632-0821_00822_001_cn.html	未分類
 2026-08-21	文錦渡入境男司機涉走私被捕 檢蟑螂果蠅及白老鼠等逾百公斤	https://hk.on.cc/hk/bkn/cnt/news/20260821/bkn-20260821184511632-0821_00822_001.html	未分類
 2026-08-21	打鼓嶺狗殺人｜33年內3死 1996年鬥牛㹴咬斃7月大BB 港修例規管 打鼓嶺坪洋村一間寵物酒店昨日（20日）發生罕見致命慘劇。一名33歲女負責人在餵食完一隻30公斤重的待領養狗隻後，疑因狗隻拒絕入籠而遭到突發性咬.	https://www.hk01.com/%E7%AA%81%E7%99%BC/60382235/%E6%89%93%E9%BC%93%E5%B6%BA%E7%8B%97%E6%AE%BA%E4%BA%BA-33%E5%B9%B4%E5%85%A73%E6%AD%BB-1996%E5%B9%B4%E9%AC%A5%E7%89%9B%E3%B9%B4%E5%92%AC%E6%96%837%E6%9C%88%E5%A4%A7bb-%E6%B8%AF%E4%BF%AE%E4%BE%8B%E8%A6%8F%E7%AE%A1	未分類
@@ -409,13 +382,13 @@ var DATA_SECURITY = `
 2026-08-18	詐騙案暴增！白委爆監所擠爆、管理員「過勞熱昏」：政府應立即補足戒護人力	https://www.i-meihua.com/Article/Detail/54530	未分類
 2026-08-18	菲律賓南部校園槍擊案 包括槍手在內兩死另有9傷	https://news.rthk.hk/rthk/ch/component/k2/1866579-20260818.htm	未分類
 2026-08-18	網絡安全｜Apple向110個市場發出間諜攻擊警告籲用戶留意 ...	https://inews.hket.com/article/4178115/網絡安全｜Apple向110個市場發出間諜攻擊警告 籲用戶留意iPhone有否遭入侵	未分類
-2026-08-18	有片｜菲律賓9年級生持槍闖高中直播射殺 一學生中槍亡 槍手行兇後自盡	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/495501/%E8%8F%B2%E5%BE%8B%E8%B3%939%E5%B9%B4%E7%B4%9A%E7%94%9F%E6%8C%81%E6%A7%8D%E9%97%96%E9%AB%98%E4%B8%AD%E7%9B%B4%E6%92%AD%E5%B0%84%E6%AE%BA-%E4%B8%80%E5%AD%B8%E7%94%9F%E4%B8%AD%E6%A7%8D%E4%BA%A1	未分類
+2026-08-18	有片｜菲律賓9年級生持槍闖高中直播射殺 一學生中槍亡 槍手行兇後自盡	https://www.i-cable.com/新聞資訊/495501/菲律賓9年級生持槍闖高中直播射殺-一學生中槍亡	未分類
 2026-08-18	OPATRA London發聲明「從未詐騙婦人多次蓄意滋擾」公開退還金額多間分店極速結業網民推測內情	https://www.sundaykiss.com/熱話/opatralondon-聲明-詐騙-英國總公司-新城市廣場-元朗yoho-美容-美-2425625/	未分類
 2026-08-18	5年增逾萬人！詐騙案猖獗監所擠爆 民眾黨團5訴求顧管理員權益	https://turnnewsapp.com/livenews/politicsv3/20260818002285-260407	未分類
 2026-08-17	有片｜軍事夏令營結業禮 香港學員步操刺殺剛勁有力、英姿盡顯	https://www.hkcd.com.hk/hkcdweb/content/2026/08/17/content_8770101.html	未分類
 2026-08-17	屯門山景邨男子因欠債企圖自殺及殺害妻兒 判囚5年4個月 男子因欠債，前年在屯門山景邨住所企圖自殺及殺害妻兒，四項企圖謀殺罪判囚5年4個月。案發於前年6月，在屯門山景邨景安樓，一名44歲女子報警，稱與三名13至16歲女兒感...	https://news.tvb.com/tc/1189495-%E5%B1%AF%E9%96%80%E5%B1%B1%E6%99%AF%E9%82%A8%E7%94%B7%E5%AD%90%E5%9B%A0%E6%AC%A0%E5%82%B5%E4%BC%81%E5%9C%96%E8%87%AA%E6%AE%BA%E5%8F%8A%E6%AE%BA%E5%AE%B3%E5%A6%BB%E5%85%92%E5%88%A4%E5%9B%9A5%E5%B9%B44%E5%80%8B%E6%9C%88	未分類
 2026-08-17	屯門山景邨男子因欠債企圖自殺及殺害妻兒 判囚5年4個月 一名男子因為欠債，前年在屯門山景邨住所燒炭，企圖殺害妻女，就四項企圖謀殺罪，被判囚5年4個月。事發在2024年6月，住在山景邨景安樓的被告黃栢廷，因生意失敗欠債...	https://news.tvb.com/sc/1189495-%E5%B1%AF%E9%96%80%E5%B1%B1%E6%99%AF%E9%82%A8%E7%94%B7%E5%AD%90%E5%9B%A0%E6%AC%A0%E5%82%B5%E4%BC%81%E5%9C%96%E8%87%AA%E6%AE%BA%E5%8F%8A%E6%AE%BA%E5%AE%B3%E5%A6%BB%E5%85%92%E5%88%A4%E5%9B%9A5%E5%B9%B44%E5%80%8B%E6%9C%88	未分類
-2026-08-17	商人自覺走投無路 為妻女製最後晚餐準備同死 認企圖謀殺囚64月	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380664/%E5%95%86%E4%BA%BA%E8%87%AA%E8%A6%BA%E8%B5%B0%E6%8A%95%E7%84%A1%E8%B7%AF-%E7%82%BA%E5%A6%BB%E5%A5%B3%E8%A3%BD%E6%9C%80%E5%BE%8C%E6%99%9A%E9%A4%90%E6%BA%96%E5%82%99%E5%90%8C%E6%AD%BB-%E8%AA%8D%E4%BC%81%E5%9C%96%E8%AC%80%E6%AE%BA%E5%9B%9A64%E6%9C%88	未分類
+2026-08-17	商人自覺走投無路 為妻女製最後晚餐準備同死 認企圖謀殺囚64月	https://www.hk01.com/社會新聞/60380664/商人自覺走投無路-為妻女製最後晚餐準備同死-認企圖謀殺囚64月	未分類
 2026-08-16	肯亞大選前爆暴力衝突 反對派集會前法新社記者遭襲 | 民視新聞網	https://today.line.me/tw/v3/article/EXr5Pyv	未分類
 2026-08-16	肯亞大選前夕爆暴力衝突 反對派集會前驚傳暴徒持刀封路 | 民視新聞網	https://today.line.me/tw/v3/article/9mG5Z3R	未分類
 2026-08-16	肯亞反對派集會前爆暴力衝突 法新社記者遭毆搶器材 | 民視新聞網	https://today.line.me/tw/v3/article/OpBG9Wm	未分類
@@ -423,11 +396,11 @@ var DATA_SECURITY = `
 2026-08-16	浸大疑遭勒索軟件入侵校方指有關網頁內容已移除未接任何 ...	https://www.hk01.com/社會新聞/60380491/浸大疑遭勒索軟件入侵-校方指有關網頁內容已移除-未接任何索求	未分類
 2026-08-16	浸大疑遭勒索軟件入侵 校方指有關網頁內容已移除 未接任何索求	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60380491/%E6%B5%B8%E5%A4%A7%E7%96%91%E9%81%AD%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E5%85%A5%E4%BE%B5-%E6%A0%A1%E6%96%B9%E6%8C%87%E6%9C%89%E9%97%9C%E7%B6%B2%E9%A0%81%E5%85%A7%E5%AE%B9%E5%B7%B2%E7%A7%BB%E9%99%A4-%E6%9C%AA%E6%8E%A5%E4%BB%BB%E4%BD%95%E7%B4%A2%E6%B1%82	未分類
 2026-08-16	浸大疑被勒索軟件組織入侵 校方稱有關網頁內容已移除 無接獲任何索求	https://www.stheadline.com/society/3604980/%E6%B5%B8%E5%A4%A7%E7%96%91%E8%A2%AB%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E7%B5%84%E7%B9%94%E5%85%A5%E4%BE%B5-%E6%A0%A1%E6%96%B9%E7%A8%B1%E6%9C%89%E9%97%9C%E7%B6%B2%E9%A0%81%E5%85%A7%E5%AE%B9%E5%B7%B2%E7%A7%BB%E9%99%A4-%E7%84%A1%E6%8E%A5%E7%8D%B2%E4%BB%BB%E4%BD%95%E7%B4%A2%E6%B1%82	未分類
-2026-08-15	美國密歇根州爆槍擊案 至少5死1重傷 疑犯一度逃逸後陳屍森林	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60380220/%E7%BE%8E%E5%9C%8B%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E7%88%86%E6%A7%8D%E6%93%8A%E6%A1%88-%E8%87%B3%E5%B0%915%E6%AD%BB1%E9%87%8D%E5%82%B7-%E7%96%91%E7%8A%AF%E4%B8%80%E5%BA%A6%E9%80%83%E9%80%B8%E5%BE%8C%E9%99%B3%E5%B1%8D%E6%A3%AE%E6%9E%97	未分類
+2026-08-15	美國密歇根州爆槍擊案 至少5死1重傷 疑犯一度逃逸後陳屍森林	https://www.hk01.com/即時國際/60380220/美國密歇根州爆槍擊案-至少5死1重傷-疑犯一度逃逸後陳屍森林	未分類
 2026-08-15	美國密歇根州槍擊事件釀6死疑犯一度逃逸後陳屍林區- 國際	https://www.dotdotnews.com/a/202608/15/AP6a7fd56fe4b04b6c5d36ba1a.html	未分類
 2026-08-14	美國企業將獲准對網路犯罪分子發動網路攻擊	https://www.dw.com/zh-hant/美國企業將獲准對網路犯罪分子發動網路攻擊/a-78368664	未分類
 2026-08-14	快訊／中山警分局「36歲警頭部中彈」！ 倒樓梯間當場死亡	https://www.ettoday.net/news/20260814/3218968.htm	未分類
-2026-08-14	中方批評新西蘭捏造指控 將正常交流污稱為間諜及干預活動	https://www.kinliu.hk/news/%E7%86%B1%E8%A9%B1/%E4%B8%AD%E6%96%B9%E6%89%B9%E8%A9%95%E6%96%B0%E8%A5%BF%E8%98%AD%E6%8D%8F%E9%80%A0%E6%8C%87%E6%8E%A7-%E5%B0%87%E6%AD%A3%E5%B8%B8%E4%BA%A4%E6%B5%81%E6%B1%A1%E7%A8%B1%E7%82%BA%E9%96%93%E8%AB%9C%E5%8F%8A%E5%B9%B2%E9%A0%90%E6%B4%BB%E5%8B%95/223601.html?id=82&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
+2026-08-14	中方批評新西蘭捏造指控 將正常交流污稱為間諜及干預活動	https://www.kinliu.hk/news/熱話/中方批評新西蘭捏造指控-將正常交流污稱為間諜及干預活動/223601.html?id=82&from=home&bc1=首頁&bc1to=/	未分類
 2026-08-14	AI生成猥褻與私密影像入罪 新加坡強化網路保護	https://www.worldjournal.com/wj/story/121480/9692776	未分類
 2026-08-14	70歲國手毒梟逼人體運毒「1次吞483g海洛因」 高大成：毒球破1個就死	https://www.setn.com/ampnews/1889295	未分類
 2026-08-13	紐約史島住宅槍響 男女雙亡	https://www.worldjournal.com/wj/story/121470/9690715	未分類
@@ -473,40 +446,37 @@ var DATA_SECURITY = `
 2026-08-09	天后16歲仔暈倒廁所 保安報警揭單位藏大麻花鐵蓮花 6人被捕最細得13歲	https://www.stheadline.com/breaking-news/3602614/天后16歲仔暈倒廁所-保安報警揭單位藏大麻花鐵蓮花-6人被捕最細得13歲	未分類
 2026-08-09	哥倫比亞新總統就職翌日 西南部遭汽車炸彈襲擊	https://www.bastillepost.com/hongkong/article/16532395-%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%B8%BD%E7%B5%B1%E5%B0%B1%E8%81%B7%E7%BF%8C%E6%97%A5%E9%81%87%E6%B1%BD%E8%BB%8A%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E8%BB%8D%E6%96%B9%E6%8C%87farc%E7%95%B0	未分類
 2026-08-09	北角少年暈倒單位 警搜屋檢大麻花及鐵蓮花 6男女被捕最細13歲	https://www.wenweipo.com/a/202608/09/AP6a78575ce4b0c1e500242a9a.html	未分類
-2026-08-09	北角少年單位暈倒 警搜屋檢大麻花及鐵蓮花 6男女被捕最細13歲	https://www.dotdotnews.com/s/202608/09/AP6a786869e4b04b6c5d362eda.html	未分類
 2026-08-09	16歲少年北角單位內暈倒 警到場檢懷疑大麻花及鐵蓮花 6人被捕年齡最小13歲	https://www.bastillepost.com/hongkong/article/16535653-16歲少年北角單位內暈倒-警到場檢懷疑大麻花及鐵	未分類
-2026-08-08	逼脫至全裸火燒體毛 日女找朋友殘酷虐死前男友 主犯判無期徒刑	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60378032/%E9%80%BC%E8%84%AB%E8%87%B3%E5%85%A8%E8%A3%B8%E7%81%AB%E7%87%92%E9%AB%94%E6%AF%9B-%E6%97%A5%E5%A5%B3%E6%89%BE%E6%9C%8B%E5%8F%8B%E6%AE%98%E9%85%B7%E8%99%90%E6%AD%BB%E5%89%8D%E7%94%B7%E5%8F%8B-%E4%B8%BB%E7%8A%AF%E5%88%A4%E7%84%A1%E6%9C%9F%E5%BE%92%E5%88%91	未分類
-2026-08-08	車佳媛錄音曝光揚言搞死李昇基 拒退5900萬港元按金涉詐騙被捕	https://www.stheadline.com/film-drama/3602309/%E8%BB%8A%E4%BD%B3%E5%AA%9B%E9%8C%84%E9%9F%B3%E6%9B%9D%E5%85%89%E6%8F%9A%E8%A8%80%E6%90%9E%E6%AD%BB%E6%9D%8E%E6%98%87%E5%9F%BA-%E6%8B%92%E9%80%805900%E8%90%AC%E6%B8%AF%E5%85%83%E6%8C%89%E9%87%91%E6%B6%89%E8%A9%90%E9%A8%99%E8%A2%AB%E6%8D%95	未分類
-2026-08-08	美國15歲少年涉隨機殺人 穿小丑裝刺死八旬老翁	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/1046325/%E7%BE%8E%E5%9C%8B15%E6%AD%B2%E5%B0%91%E5%B9%B4%E6%B6%89%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA-%E7%A9%BF%E5%B0%8F%E4%B8%91%E8%A3%9D%E5%88%BA%E6%AD%BB%E5%85%AB%E6%97%AC%E8%80%81%E7%BF%81	未分類
-2026-08-08	澳廣視新聞｜陝西柞水泥石流增至2死1人仍失蹤｜	https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1FJUGZYWmFmcmpQSjd3SjFSVFJ5U1l3RGRmUjRSR05LVXo1UkdrMzNCcDhFYjVZUWJuRXU5d2ZjQWdmTzFiZExFVkpobGFoZHhPWFozRWdoSXRFMzlNU3B5ak5Eek9zWjNUUERWNTlSYXdyTjJiTjFzWnc0eEJZRE1OYWs5UVZfUmhNbmlhUUQ4dmNRUEdvZVVQZjJORWM?oc=5	未分類
+2026-08-08	逼脫至全裸火燒體毛 日女找朋友殘酷虐死前男友 主犯判無期徒刑	https://www.hk01.com/即時國際/60378032/逼脫至全裸火燒體毛-日女找朋友殘酷虐死前男友-主犯判無期徒刑	未分類
+2026-08-08	車佳媛錄音曝光揚言搞死李昇基 拒退5900萬港元按金涉詐騙被捕	https://www.stheadline.com/film-drama/3602309/車佳媛錄音曝光揚言搞死李昇基-拒退5900萬港元按金涉詐騙被捕	未分類
+2026-08-08	美國15歲少年涉隨機殺人 穿小丑裝刺死八旬老翁	https://www.am730.com.hk/國際/1046325/美國15歲少年涉隨機殺人-穿小丑裝刺死八旬老翁	未分類
 2026-08-08	洛杉矶县法医部：NBA球员克拉克死于海洛因和可卡因	https://www.zaobao.com.sg/news/sports/story20260808-9490947	未分類
-2026-08-08	泰國校園槍擊升至8死 政府擬推更嚴格槍支管控方案	https://www.orangenews.hk/international/VRfMUwE/%E6%B3%B0%E5%9C%8B%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E5%8D%87%E8%87%B38%E6%AD%BB-%E6%94%BF%E5%BA%9C%E6%93%AC%E6%8E%A8%E6%9B%B4%E5%9A%B4%E6%A0%BC%E6%A7%8D%E6%94%AF%E7%AE%A1%E6%8E%A7%E6%96%B9%E6%A1%88.shtml	未分類
+2026-08-08	泰國校園槍擊升至8死 政府擬推更嚴格槍支管控方案	https://www.orangenews.hk/international/VRfMUwE/泰國校園槍擊升至8死-政府擬推更嚴格槍支管控方案.shtml	未分類
 2026-08-08	泰國校園槍擊8死逾20傷羅敏莊澄清非移民：香港仍是我家- 國際	https://www.dotdotnews.com/a/202608/08/AP6a7693d0e4b04b6c5d360c78.html	未分類
 2026-08-08	泰國暖武里府槍擊案增至9死 據報槍手長期受霸凌疑心生怨恨犯案	https://news.google.com/rss/articles/CBMibEFVX3lxTE9iRThRTlQ0VDkwMHZUY2EyX2wtTlZKR0FHMVlqUm0yQlZfZ256OE5NMXhzazFORmFZMDNCclpKYUJsUWNHXzU1UEE0RmVMcDhjRGZzd0RNLWRmZlZMZ3RaTGZGbFZXV0pDZHZxMw?oc=5	未分類
 2026-08-08	泰國暖武里府槍擊案 據報槍手長期受霸凌疑心生怨恨犯案	https://news.google.com/rss/articles/CBMibEFVX3lxTFBYZkFFVHp6SEVDVUxfZi1taVc0VjB5MmNTZkoyajhrY1lkOGxnckFnNXYtUjJraFZ1UmE0a2RhbVZER1hNSXl1OXZ1U203ekZmYndmdnBCT2NuNDRrOGhUdzJnRzBDbUpiMFpoNQ?oc=5	未分類
 2026-08-08	泰國中學爆發槍擊案共8死槍手曾發布槍支照- 國際	https://www.wenweipo.com/a/202608/08/AP6a76896de4b0c1e500240057.html	未分類
-2026-08-08	未婚先孕︱印度狠父為「遮家醜」浸死18歲女 謊報其失蹤遭警識破	https://www.singtao.ca/7590649/2026-08-08/news-%E6%9C%AA%E5%A9%9A%E5%85%88%E5%AD%95%EF%B8%B1%E5%8D%B0%E5%BA%A6%E7%8B%A0%E7%88%B6%E7%82%BA%E3%80%8C%E9%81%AE%E5%AE%B6%E9%86%9C%E3%80%8D%E6%B5%B8%E6%AD%BB18%E6%AD%B2%E5%A5%B3++%E8%AC%8A%E5%A0%B1%E5%85%B6%E5%A4%B1%E8%B9%A4%E9%81%AD%E8%AD%A6%E8%AD%98%E7%A0%B4/	未分類
-2026-08-08	曼谷郊區槍擊案釀七死 14歲男童殺害祖父母後自殺 家屬領回遺體	https://www.bastillepost.com/hongkong/article/16530137-%E6%9B%BC%E8%B0%B7%E9%83%8A%E5%8D%80%E6%A7%8D%E6%93%8A%E6%A1%88%E9%87%80%E4%B8%83%E6%AD%BB-14%E6%AD%B2%E7%94%B7%E7%AB%A5%E6%AE%BA%E5%AE%B3%E7%A5%96%E7%88%B6%E6%AF%8D%E5%BE%8C%E8%87%AA%E6%AE%BA	未分類
+2026-08-08	未婚先孕︱印度狠父為「遮家醜」浸死18歲女 謊報其失蹤遭警識破	https://www.singtao.ca/7590649/2026-08-08/news-未婚先孕︱印度狠父為「遮家醜」浸死18歲女++謊報其失蹤遭警識破/	未分類
+2026-08-08	曼谷郊區槍擊案釀七死 14歲男童殺害祖父母後自殺 家屬領回遺體	https://www.bastillepost.com/hongkong/article/16530137-曼谷郊區槍擊案釀七死-14歲男童殺害祖父母後自殺	未分類
 2026-08-08	哥倫比亞西南部汽車炸彈襲擊 新總統德拉埃斯普列拉就職翌日發生	https://www.singtaousa.com/2026/08/08/news/world/a-car-bomb-attack-targets-southwest-colombia-a-day-after-conservative-president-takes-office/	未分類
 2026-08-07	（有片）泰國校園槍擊案｜槍手先殺祖父母後到校園行兇 飲彈自盡前曾開26槍	https://www.dotdotnews.com/a/202608/07/AP6a75920ee4b04b6c5d35fc31.html	未分類
-2026-08-07	馬鞍山花心坑發現失蹤半月58歲男子遺體- 港聞	https://www.dotdotnews.com/s/202608/07/AP6a758492e4b04b6c5d35fb64.html	未分類
 2026-08-07	美國華盛頓州山火案 疑犯認策劃數週縱火 研究「有利」天氣下手	https://www.hk01.com/即時國際/60377907/美國華盛頓州山火案-疑犯認策劃數週縱火-研究-有利-天氣下手	未分類
 2026-08-07	美國華盛頓州山火嫌疑人承認多次縱火- 國際	https://www.wenweipo.com/a/202608/07/AP6a75ad16e4b0c1e50023ef43.html	未分類
 2026-08-07	泰國槍擊案致8死 包括學校2名教師3名職員	https://money.udn.com/money/amp/story/5599/9677969	未分類
 2026-08-07	泰國校園槍擊案｜學生槍手轟斃7人後自盡亡 泰首相：行動有預謀疑在校「承受壓力」 (18:23) - 20260807 - 國際 泰國首都曼谷以北暖武里府（Nonthaburi）的Debsirin Nonthaburi中學周五（7日）發生槍擊案，14歲槍手先在家奪去祖父的手槍，轟斃祖父母後再持槍闖進校園開火，導致多人...	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260807/s00005/1786076490739/%E6%B3%B0%E5%9C%8B%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%88-%E5%AD%B8%E7%94%9F%E6%A7%8D%E6%89%8B%E8%BD%9F%E6%96%837%E4%BA%BA%E5%BE%8C%E8%87%AA%E7%9B%A1%E4%BA%A1-%E6%B3%B0%E9%A6%96%E7%9B%B8-%E8%A1%8C%E5%8B%95%E6%9C%89%E9%A0%90%E8%AC%80%E7%96%91%E5%9C%A8%E6%A0%A1%E3%80%8C%E6%89%BF%E5%8F%97%E5%A3%93%E5%8A%9B%E3%80%8D	未分類
 2026-08-07	泰國校園槍擊案增至8死逾20傷 當局稱槍手是14歲學生	https://news.rthk.hk/rthk/ch/component/k2/1865378-20260807.htm	未分類
-2026-08-07	泰國校園槍擊案丨槍殺祖父母後入校再槍殺6師生 學生槍手自盡亡	https://www.hkej.com/instantnews/current/article/4478350/%E6%B3%B0%E5%9C%8B%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%88%E4%B8%A8%E6%A7%8D%E6%AE%BA%E7%A5%96%E7%88%B6%E6%AF%8D%E5%BE%8C%E5%85%A5%E6%A0%A1%E5%86%8D%E6%A7%8D%E6%AE%BA6%E5%B8%AB%E7%94%9F+%E5%AD%B8%E7%94%9F%E6%A7%8D%E6%89%8B%E8%87%AA%E7%9B%A1%E4%BA%A1++	未分類
-2026-08-07	泰國校園槍擊案7死15傷 學生槍手伏屍教室疑自殺 行兇動機未明警調查中	https://www.kinliu.hk/news/%E7%92%B0%E7%90%83/%E6%B3%B0%E5%9C%8B%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%887%E6%AD%BB15%E5%82%B7-%E5%AD%B8%E7%94%9F%E6%A7%8D%E6%89%8B%E4%BC%8F%E5%B1%8D%E6%95%99%E5%AE%A4%E7%96%91%E8%87%AA%E6%AE%BA-%E8%A1%8C%E5%85%87%E5%8B%95%E6%A9%9F%E6%9C%AA%E6%98%8E%E8%AD%A6%E8%AA%BF%E6%9F%A5%E4%B8%AD/211469.html?id=80&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
-2026-08-07	泰國校園槍擊7死15傷 倖存學生躲教室半小時：槍手從教室旁走過	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60377821/%E6%B3%B0%E5%9C%8B%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A7%E6%AD%BB15%E5%82%B7-%E5%80%96%E5%AD%98%E5%AD%B8%E7%94%9F%E8%BA%B2%E6%95%99%E5%AE%A4%E5%8D%8A%E5%B0%8F%E6%99%82-%E6%A7%8D%E6%89%8B%E5%BE%9E%E6%95%99%E5%AE%A4%E6%97%81%E8%B5%B0%E9%81%8E	未分類
-2026-08-07	泰國校園槍擊 | 學生校內開槍釀死傷 至少2死20人受傷	https://www.stheadline.com/realtime-world/3601923/%E6%B3%B0%E5%9C%8B%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E5%AD%B8%E7%94%9F%E9%96%8B%E6%A7%8D%E9%87%80%E8%87%B3%E5%B0%912%E6%AD%BB20%E5%82%B7-%E7%96%91%E4%BC%BC%E6%A7%8D%E6%89%8B%E7%85%A7%E7%89%87%E6%B5%81%E5%87%BA	未分類
+2026-08-07	泰國校園槍擊案丨槍殺祖父母後入校再槍殺6師生 學生槍手自盡亡	https://www.hkej.com/instantnews/current/article/4478350/泰國校園槍擊案丨槍殺祖父母後入校再槍殺6師生+學生槍手自盡亡++	未分類
+2026-08-07	泰國校園槍擊案7死15傷 學生槍手伏屍教室疑自殺 行兇動機未明警調查中	https://www.kinliu.hk/news/環球/泰國校園槍擊案7死15傷-學生槍手伏屍教室疑自殺-行兇動機未明警調查中/211469.html?id=80&from=home&bc1=首頁&bc1to=/	未分類
+2026-08-07	泰國校園槍擊7死15傷 倖存學生躲教室半小時：槍手從教室旁走過	https://www.hk01.com/即時國際/60377821/泰國校園槍擊7死15傷-倖存學生躲教室半小時-槍手從教室旁走過	未分類
+2026-08-07	泰國校園槍擊 | 學生校內開槍釀死傷 至少2死20人受傷	https://www.stheadline.com/realtime-world/3601923/泰國校園槍擊學生開槍釀至少2死20傷-疑似槍手照片流出	未分類
 2026-08-07	槍殺祖父母後闖學校行兇6死20傷 男生自殺亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260807/bkn-20260807114334037-0807_00992_001.html	未分類
 2026-08-07	快訊／泰國學生「掃射校園」2師中彈亡！槍手還在學校 與警交火	https://www.ettoday.net/news/20260807/3215108.htm	未分類
-2026-08-07	德33歲女遭囚虐4個月！性侵、暴打逼食糞 半裸綁露台被鄰居揭發	https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60376630/%E5%BE%B733%E6%AD%B2%E5%A5%B3%E9%81%AD%E5%9B%9A%E8%99%904%E5%80%8B%E6%9C%88-%E6%80%A7%E4%BE%B5-%E6%9A%B4%E6%89%93%E9%80%BC%E9%A3%9F%E7%B3%9E-%E5%8D%8A%E8%A3%B8%E7%B6%81%E9%9C%B2%E5%8F%B0%E8%A2%AB%E9%84%B0%E5%B1%85%E6%8F%AD%E7%99%BC	未分類
+2026-08-07	德33歲女遭囚虐4個月！性侵、暴打逼食糞 半裸綁露台被鄰居揭發	https://www.hk01.com/熱爆話題/60376630/德33歲女遭囚虐4個月-性侵-暴打逼食糞-半裸綁露台被鄰居揭發	未分類
 2026-08-07	勒索軟件組織襲全球中招包括本港5機構- 東方日報	https://orientaldaily.on.cc/content/要聞港聞/odn-20260807-0807_00176_061/勒索軟件組織襲全球--中招包括本港5機構	未分類
 2026-08-07	勒索軟件組織襲全球 中招包括本港5機構	https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20260807-0807_00176_061/%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E7%B5%84%E7%B9%94%E8%A5%B2%E5%85%A8%E7%90%83--%E4%B8%AD%E6%8B%9B%E5%8C%85%E6%8B%AC%E6%9C%AC%E6%B8%AF5%E6%A9%9F%E6%A7%8B	未分類
 2026-08-07	勒索軟件組織Orova襲港5企業疑中招洩資料- 港聞	https://news.google.com/rss/articles/CBMidEFVX3lxTFBuNGNqa3F2d0tSSkRPSTdqZWd1dzdmYUsxOHpIQkduMUtOa0J4VnphUldBcllHR0FGRDQ2ck16SW5nWWZjcUpLU3hpUHdPRWRYTmpIOXUwcjdQX0NCMTdNNWp3aDJTYjBzc1hDV25HUVJVeV8w?oc=5	未分類
 2026-08-07	勒索軟件組織Orova襲港5企業疑中招洩資料	https://epaper.tkww.hk/a/202608/07/AP6a74eeece4b04773b073f93c.html	未分類
-2026-08-07	NBA球星克拉克過世 法醫證實死於毒品意外	https://tw.sports.yahoo.com/news/nba%E7%90%83%E6%98%9F%E5%85%8B%E6%8B%89%E5%85%8B%E9%81%8E%E4%B8%96-%E6%B3%95%E9%86%AB%E8%AD%89%E5%AF%A6%E6%AD%BB%E6%96%BC%E6%AF%92%E5%93%81%E6%84%8F%E5%A4%96-231406697.html	未分類
+2026-08-07	NBA球星克拉克過世 法醫證實死於毒品意外	https://tw.sports.yahoo.com/news/nba球星克拉克過世-法醫證實死於毒品意外-231406697.html	未分類
 2026-08-06	香港5歲男童長期受母親虐待 死亡時僅9.7公斤	https://www.epochtimes.com/b5/26/8/6/n14824466.htm	未分類
 2026-08-06	首見AI「自主詐騙」！一人飾多角 誘裝惡意軟體	https://udn.com/news/story/6809/9673452	未分類
 2026-08-06	澳洲隨機殺人！亞裔少年遭車撞砍30刀亡 被告辯稱魯莽駕駛遭駁斥	https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60375241/%E6%BE%B3%E6%B4%B2%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA-%E4%BA%9E%E8%A3%94%E5%B0%91%E5%B9%B4%E9%81%AD%E8%BB%8A%E6%92%9E%E7%A0%8D30%E5%88%80%E4%BA%A1-%E8%A2%AB%E5%91%8A%E8%BE%AF%E7%A8%B1%E9%AD%AF%E8%8E%BD%E9%A7%95%E9%A7%9B%E9%81%AD%E9%A7%81%E6%96%A5	未分類
@@ -542,9 +512,6 @@ var DATA_SECURITY = `
 2026-08-03	將軍澳女子離家後失蹤多日鯉魚門安聯村斜坡尋回清醒送院- 港聞	https://www.dotdotnews.com/a/202608/03/AP6a704ad4e4b04b6c5d359471.html	未分類
 2026-08-03	土瓜灣男子遇襲受傷清醒 救護車送院治理 (19:33) - 20260803 - 港聞	https://news.mingpao.com/ins/港聞/article/20260803/s00001/1785757851590/土瓜灣男子遇襲受傷清醒-救護車送院治理	未分類
 2026-08-03	商人尖沙嘴酒吧被毆斃 「左口」被控謀殺 與另一男同伙周二提堂 (22:50) - 20260803 - 港聞	https://news.mingpao.com/ins/港聞/article/20260803/s00001/1785768841072/商人尖沙嘴酒吧被毆斃-「左口」被控謀殺-與另一男同伙周二提堂	未分類
-2026-08-03	三項鐵人賽死者失蹤7小時後1處尋回 身份惹關注 持拯溺牌曾奪鐵人賽冠軍 附主辦方回應	https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb2N0dmJIWGM2UEFFaC1uUlZSVVdtcWgxSmR6cWhHcU5LaWtlLVVFcWRTbDR1U1hLVUw4TkkxdzNRTXFmY1FuUk1aZk9vWl82Qkp5TlVGd01XaFhfSndKYmtNZXZKbWtWT2EwRkVIQ0otTnRqcDREMFQ0N29URXBheElhU05aWjA4V3pjZ3dpZ3c2Q1kybkpwU3BDcUsxcTg5MjAyZW81SnhlNlo0NjhHNnVlZXFFTGhISzlvN01TcV9YZ2lQbEJGcWFSaldZdDVpYURVVHRYLTk4X0JxaDlCYzQxdnU4eldXU2ZaWjU2YlgtdXNtdURPQl84ZTFnLU05TkhhbW1sdjYwUzZHRkh5U0lkY0dwdm5Rcm9KV2NKRExjd2wxbFF5MUJUUVJpMk1faHpiVEx3SkYzUjZrSUxpWHREeExBb0JKZDQtVDc1bEpZbTBZVFFYMW45RUIyUW1mZjVpSjlHcUR6Ml9K?oc=5	未分類
-2026-08-02	澳廣視新聞｜莫斯科有餐廳遭炸彈襲擊3死21傷｜	https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHRhM1BMWktJZDdBV0VsQndOVEtzaHRJbEY4RUV1YTBlcW43cnRIYmt3eFh5V3hVbGdSaFJQUUNackNQMlJScUQ5a1liTzhKTDQ3aF93UU85eU9salpiM2NsODRHZ1hkcC1DT3JndHB3eEJFRi01dmxPMTdkTlJ4OFJzdnZDTjFiYmZZQVR1R0lwTGZiRW5BdGV5Rm1qMnc?oc=5	未分類
-2026-08-02	三項鐵人賽失蹤｜60歲男選手送院亡 體能優異為退休水警 外號大隻佬多次參賽	https://news.google.com/rss/articles/CBMi4wNBVV95cUxQUWRBS2t2Q2sxY3BodlpqOWREZF9pNGZRaWlKelNCeTMxRXNGeGxRVnRPZ0dEOFQtN19qcE81V2FmenBKYTN3X1dCNnVKU3l5SGZBR2QwWm5oZFFMeVc0WHF6UzJyMVpUMFhXNGE2UVY2WXhlOHlsemsyYlEtUXotQW5vX0RMX284U3dZb0tZaDlQbjM5Ym1Sdzh6cXJpekRRWENYQ3huaEdVbE40dzVKVGkzSm5La2EwQWNOMkJMSTZOczBNM2R1WllYaDJsUWY4Wk1jVmdrOXRQLUtJQTRSNnk2eFI2dExnUm9lOUVPd3A2dFpsZnRmMUtKREItYTc1M2kzaVVkUmFKZlFpcEQzdGJsNlFZNnlJVnlXU2xvaW56TEV6S2U1WUZ0UFdEY1dXeFltbUFsWC1aMng1eHJiRVJoamYxQlJoRnJuUXYzV1g1c2RWcS1kNFZkTDZDVVhycU1BczJKSUFzZEpXR2NBOEVOT0R3SjlvWXhuUXo2NGRKLUZjeVFCd1c0YmllVmtTZXRZNWxHWW4xUVJ2TGxVQjJwT3pqU1pOdUFRSDk1ZWlaVVNxNDcyT1ZWNmVZVGdYX2Fnc3M0SzVkRmFrUUZ5N2ZQbmlOT2tIVXdYbndySnp6cDQ?oc=5	未分類
 2026-08-01	趁山火打劫 狂加關稅 美議員揚言吞併加拿大 | 國際解碼	https://eastweek.stheadline.com/witness/20495/趁山火打劫-狂加關稅-美議員揚言吞併加拿大-國際解碼	未分類
 2026-08-01	西班牙飛地非法移民潮增至57死 意大利及法國等採取措施應對	https://news.rthk.hk/rthk/ch/component/k2/1864556-20260801.htm	未分類
 2026-08-01	莫斯科餐廳驚傳炸彈襲擊 釀3死21傷女炸彈客當場身亡 | 民視新聞網	https://today.line.me/tw/v3/article/j7R02Gr	未分類
@@ -554,7 +521,6 @@ var DATA_SECURITY = `
 2026-07-31	深圳女網戀墮殺豬盤慘破產 詐騙團夥假扮香港背景 逾200人受騙	https://www.hk01.com/大國小事/60375474/深圳女網戀墮殺豬盤慘破產-詐騙團夥假扮香港背景-逾200人受騙	未分類
 2026-07-31	密西根男子槍殺全家8人縱火亡! 兩養女來自中國 才剛結束赴中旅遊	https://tw.news.yahoo.com/密西根男子槍殺全家8人縱火亡-兩養女來自中國-才剛結束赴中旅遊-055230367.html	未分類
 2026-07-30	非份之罪｜恐怖情人真人真事改編、2012年美國網戀致命案	https://www.hk01.com/即時娛樂/60374047/非份之罪-恐怖情人真人真事改編-2012年美國網戀致命案	未分類
-2026-07-30	尖沙咀傷人｜更多細節曝光 好友生日派對散場後 傷者Issac留下再飲出事	https://news.google.com/rss/articles/CBMitwNBVV95cUxObl82V1dLVmZEMndFQWhuUHdlbk43TDNZODQwMnNYZ1FlSVI3dDE3enBzeEkxLVZ0Yll2UWRNeWY2WUxySFFvOHlsVlVYS195TVZDWkVwUTZwMF9sNXZlS2ZxODBEeGEzU2tTR2xKQkNqVl9pbS12NVdTRlc3WUVRUnp3SGNMeDdGMTdlRlVkYzlscHo0bXI2ZlNDRzdZSld3dnRGUDJQTDNlTEk0MHVkb1NZN1UzOFA0UlMwMlNPZ283V2FJRkpNYkVwOE5IVzlrdXNyQzZxOGdkRkVIdmhkMEJpZUI4WnM3TlpoeW1LU2NXaDV2OW0tUVdlMUsxQmgycHFjRFl2NEpSN1BvSVJrS3psRkNZZ0NaUGFoWTNFakNiZm1XTW5neVVxZ3pCUndTSGJNejZvYVR5Vk9jWlV0UUhic1RWWXd6VVVESnF4VU1VSnVqcDhSNU9aMFB6OXF3blBudUhacEJYczRiQ25qel9IeVp0anB5NlAtdk5BaFhQYzF5Z2ZoMGIweTlLeG1zZGJmSjhJRFRIOGhfSWJTdk9PN3Z4UEFxSzg2YXQ5OExKa20ycTZN?oc=5	未分類
 2026-07-30	尖沙咀傷人案｜疑酒吧與黑幫人馬爭執 傷者Issac部分腦幹已死亡	https://eastweek.stheadline.com/witness/20594/尖沙咀傷人案疑酒吧與黑幫人馬爭執傷者Issac部分腦幹已死亡	未分類
 2026-07-30	世界盃決賽後暴力衝突5人受控包括1西班牙球員 阿根廷足總4宗罪	https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60375075/%E4%B8%96%E7%95%8C%E7%9B%83%E6%B1%BA%E8%B3%BD%E5%BE%8C%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%815%E4%BA%BA%E5%8F%97%E6%8E%A7%E5%8C%85%E6%8B%AC1%E8%A5%BF%E7%8F%AD%E7%89%99%E7%90%83%E5%93%A1-%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%B3%E7%B8%BD4%E5%AE%97%E7%BD%AA	未分類
 2026-07-29	金融危機「吹哨人」駁斥聯儲局加息論：美國經濟四季度會有大麻煩！	https://www.moomoo.com/hant/news/post/73688677/whistleblower-on-the-financial-crisis-refutes-the-fed-s-rate	未分類
@@ -580,7 +546,7 @@ var DATA_SECURITY = `
 2026-07-28	密州1家8口命案 警判「殺人後自殺」 2養女疑來自中國	https://www.worldjournal.com/wj/story/121359/9655511	未分類
 2026-07-28	天水圍38歲男子遭5刀手襲擊 身上多處受傷送院	https://hk.on.cc/hk/bkn/cnt/news/20260728/bkn-20260728013013260-0728_00822_001.html	未分類
 2026-07-28	天恒邨38歲男子捱斬 多處受傷送院治理	https://www.hk01.com/突發/60374237/天恒邨38歲男子捱斬-多處受傷送院治理	未分類
-2026-07-27	輝達內鬼現形3／走私晶片水好深 台積電、輝達都傳滅口死亡巧合	https://www.mnews.tw/story/amp/mm-20260727inv005	未分類
+2026-07-27	輝達內鬼現形3／走私晶片水好深 台積電、輝達都傳滅口死亡巧合	https://tw.news.yahoo.com/輝達內鬼現形3-走私晶片水好深-台積電-輝達都傳滅口死亡巧合-222856756.html	未分類
 2026-07-27	西雅圖美食節驚爆槍擊 眾人恐慌奔逃 至少3死4傷	https://www.stheadline.com/realtime-world/3598010/西雅圖美食節驚爆槍擊-眾人恐慌奔逃-至少3死4傷	未分類
 2026-07-27	西雅圖美食節槍擊至少3死 搶手1人被捕.1人仍在逃	https://www.4gtv.tv/article/2026072706000033?utm_source=popin	未分類
 2026-07-27	西雅圖中心美食節爆槍擊案2死5傷 疑犯被拘 (13:52) - 20260727 - 國際	https://news.mingpao.com/ins/國際/article/20260727/s00005/1785131202900/西雅圖中心美食節爆槍擊案2死5傷-疑犯被拘	未分類
@@ -642,7 +608,6 @@ var DATA_SECURITY = `
 2026-07-19	消失的歷史．專題｜同一場六七暴動，如何被寫成兩個世界	https://pulsehknews.com/20260719riot1967/	未分類
 2026-07-19	新北應召女控馬伕持槍抵太陽穴性侵！「不做愛就斃了妳」二審判決大逆轉	https://tw.news.yahoo.com/新北應召女控馬伕持槍抵太陽穴性侵-不做愛就斃了妳-二審判決大逆轉-073824383.html	未分類
 2026-07-19	器官掮客詐騙實錄：《報導者》與「地下移植公司」的3週對話	https://www.twreporter.org/a/illegal-cross-border-organ-transplantation-scam	未分類
-2026-07-19	又是毒駕！台中豐原7車事故釀1死5傷 肇事女驗出多種毒品	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsNU0tZUUwUmdoNlZKaHlaN2FHWnFTLXZLemNOY25kZzVFbEtOa1Z6bDZmOWpSbGNNaFVHXzRJd0RQUVBPT1RWUThKR3NNaTNZaUNRdlgwWkNqMUFuYnZJR0d0NHViZ0g30gFuQVVfeXFMTlRBdzh1ZGxLNWZJQ1NxczJDdF9ra2ZwMk5FMzFsZUhNQTFhUXV3UWR2Y2RUOVoxZEhDS0VIcEpBdVAzYjhONTdodERnTi1pcTlLRGlVQTViRklMbmJNTVpxbTZkZzE4RmdaZFV5bnc?oc=5	未分類
 2026-07-18	重慶山泥傾瀉造成8死34失蹤 當局指大量岩石砸毀民居搜救難度大	https://news.tvb.com/tc/1183600-重慶山泥傾瀉造成8死34失蹤當局指大量岩石砸毀民居搜救難度大	未分類
 2026-07-18	六旬翁離英皇道住所後失蹤 晚上柴灣墮海獲救 半清醒送院	https://www.stheadline.com/breaking-news/3594960/六旬翁離英皇道住所後失蹤-晚上柴灣墮海獲救-半清醒送院	未分類
 2026-07-17	非份之罪劇情｜16-20集危險遊戲結局 吳偉豪被殺真兇因一件事誓要復仇	https://www.nmplus.hk/entertainment/非份之罪-劇情-結局-吳偉豪-危險遊戲-16-20集-1648161/	未分類
@@ -650,7 +615,6 @@ var DATA_SECURITY = `
 2026-07-17	重慶彭水山體滑坡 至少8死34失蹤	https://www.rfi.fr/tw/中國/20260717-重慶彭水山體滑坡-至少8死34失蹤	未分類
 2026-07-17	疑爭產反目 台教授30刀砍斃連襟 一度拒捕 警開4槍制服 - 20260717 - 中國	https://news.mingpao.com/pns/中國/article/20260717/s00013/1784219947022/疑爭產反目-台教授30刀砍斃連襟-一度拒捕-警開4槍制服	未分類
 2026-07-17	橡皮艇閃爆 7死5傷1失蹤	https://hk.on.cc/hk/bkn/cnt/news/20260717/bkn-20260717150537334-0717_00822_001.html	未分類
-2026-07-17	月初屯門官中學生被推跌昏迷事件 14歲男同學涉「傷人」被捕	https://www.wenweipo.com/s/202607/17/AP6a59a62ce4b0b49ad1c3ba90.html	未分類
 2026-07-17	影/北市男騎車違規迴轉遭警攔檢 一查竟無照兼毒駕	https://news.pchome.com.tw/society/ctinews/20260717/index-78429699596920309002.html	未分類
 2026-07-17	屯門官立中學傷人案 | 男生昏迷兩周由危殆轉嚴重 一涉案男學生被捕	https://eastweek.stheadline.com/witness/20326/屯門官立中學傷人案-男生昏迷兩周由危殆轉嚴重-一涉案男學生被捕	未分類
 2026-07-17	屯門官立中學16歲男生昏迷危殆轉嚴重 警拘14歲男同學涉傷人	https://www.stheadline.com/breaking-news/3594653/屯門官立中學16歲男生昏迷危殆轉嚴重-警拘14歲男同學涉傷人	未分類
@@ -665,7 +629,7 @@ var DATA_SECURITY = `
 2026-07-16	防毒軟件頂唔住？黑客主要靠2途徑勒索攻擊 逾半受害者被迫選擇付贖金 【贖金高達百萬美金】	https://ezone.hk/article/20102617/防毒軟件頂唔住-黑客主要靠-途徑勒索攻擊-逾半受害者被迫選擇付贖金-贖金高達百萬美金	未分類
 2026-07-16	逾期滯台又吸毒⋯越南移工「搭小黃遇攔檢」心虛狂奔！警街頭肉搏釀3傷	https://www.setn.com/ampnews/1873305	未分類
 2026-07-16	迷昏網友洗劫手機 警循線逮2人查獲安毒與喪屍菸彈	https://news.pchome.com.tw/politics/cnews/20260716/index-78420074990386227001.html	未分類
-2026-07-16	赴網約卻遭遭注射藥物迷昏洗劫 警破門逮2嫌再查扣大量毒品	https://www.mnews.tw/story/amp/mm-20260716edi035	未分類
+2026-07-16	赴網約卻遭遭注射藥物迷昏洗劫 警破門逮2嫌再查扣大量毒品	https://www.ftnn.com.tw/news/561640	未分類
 2026-07-16	法國楓丹白露山火蔓延 2人涉縱火被捕	https://www.am730.com.hk/國際/1041745/法國楓丹白露山火蔓延-2人涉縱火被捕	未分類
 2026-07-16	板橋「洗劫雙煞」僅認識一周！ 皆有毒品前科 疑預謀洗劫網友	https://www.nexttv.com.tw/NextTV/News/Home/Society/m/2026-07-16/2408419.html	未分類
 2026-07-16	台灣教授疑因爭產 連砍30刀殺死連襟 (14:59) - 20260716 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260716/s00004/1784185469347/台灣教授疑因爭產-連砍30刀殺死連襟	未分類
@@ -678,7 +642,7 @@ var DATA_SECURITY = `
 2026-07-15	法律系女生涉參與灣仔衝突重審後暴動罪成 判囚34個月 (16:27) - 20260715 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260715/s00001/1784103834694/%E6%B3%95%E5%BE%8B%E7%B3%BB%E5%A5%B3%E7%94%9F%E6%B6%89%E5%8F%83%E8%88%87%E7%81%A3%E4%BB%94%E8%A1%9D%E7%AA%81%E9%87%8D%E5%AF%A9%E5%BE%8C%E6%9A%B4%E5%8B%95%E7%BD%AA%E6%88%90-%E5%88%A4%E5%9B%9A34%E5%80%8B%E6%9C%88	未分類
 2026-07-15	法律系女生參與2019年暴動 重審裁定暴動罪成判囚34個月	https://www.wenweipo.com/a/202607/15/AP6a578204e4b0b49ad1c38834.html	未分類
 2026-07-15	法律系女生參與2019年暴動 官稱受朋輩影響作不智選擇 囚34月	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60370282/%E6%B3%95%E5%BE%8B%E7%B3%BB%E5%A5%B3%E7%94%9F%E5%8F%83%E8%88%872019%E5%B9%B4%E6%9A%B4%E5%8B%95-%E5%AE%98%E7%A8%B1%E5%8F%97%E6%9C%8B%E8%BC%A9%E5%BD%B1%E9%9F%BF%E4%BD%9C%E4%B8%8D%E6%99%BA%E9%81%B8%E6%93%87-%E5%9B%9A34%E6%9C%88	未分類
-2026-07-15	法國籍男子「人體運毒」 吞101顆毒膠囊闖關遭警攔截	https://www.eracom.com.tw/EraNews/Home/Society/2026-07-15/2406775.html	未分類
+2026-07-15	法國籍男子「人體運毒」 吞101顆毒膠囊闖關遭警攔截	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-07-15/2406778.html	未分類
 2026-07-15	新竹音樂教室殺人案 美籍教授攑刀刜同門	https://news.pts.org.tw/article/817792	未分類
 2026-07-15	台名牌大學教授20多刀斬死襟兄弟！警員開4槍制伏 顯赫背景曝光	https://www.hk01.com/台灣新聞/60370053/台名牌大學教授20多刀斬死襟兄弟-警員開4槍制伏-顯赫背景曝光	未分類
 2026-07-15	中國以間諜罪名拘留美國地震學家	https://cn.wsj.com/articles/中國以間諜罪拘留美國地震學家-3c1c1a2c	未分類
@@ -686,7 +650,7 @@ var DATA_SECURITY = `
 2026-07-14	阿聯酋兩艘運油輪在霍爾木茲海峽遇襲 1死8傷	https://news.rthk.hk/rthk/ch/component/k2/1862123-20260714.htm	未分類
 2026-07-14	路透社：美籍華裔地震學家涉間諜罪被中方扣押 曾發表朝鮮核試研究 (11:01) - 20260714 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260714/s00004/1783995983369/路透社-美籍華裔地震學家涉間諜罪被中方扣押-曾發表朝鮮核試研究	未分類
 2026-07-14	研究北韓核試 美籍華裔地震學家傳涉間諜罪在華被拘	https://hk.on.cc/hk/bkn/cnt/news/20260714/bkn-20260714141523832-0714_00822_001.html	未分類
-2026-07-14	歐盟、英國聯手制裁俄羅斯網路間諜指控長年發動對歐網攻	https://today.line.me/tw/v3/article/oqKymZ6	未分類
+2026-07-14	歐盟、英國聯手制裁俄羅斯網路間諜 指控長年發動對歐網攻	https://news.tvbs.com.tw/tech/3256805	未分類
 2026-07-14	從AI 釣魚攻擊到Deepfake 詐騙：以Thales 身份安全方案強化 ...	https://www.amidas.com.hk/post/thales-identity-platform	未分類
 2026-07-14	"女人为了爱情冲昏头脑 舍弃浑身本领就为了给人当小妾！#微博二创视频创作季##﻿金牌剪刀手# ​"	https://k.sina.com.cn/article_7879923866_m1d5ae189a03301llic.html?cre=tianyi&mod=pcent&loc=4&r=0&rfunc=12&tj=cxvertical_pc_ent&tr=12&from=mood	未分類
 2026-07-13	英國警方改循恐怖襲擊方向調查前國會議員韋黛琴遇害案	https://news.google.com/rss/articles/CBMibEFVX3lxTE45MHN2enFTTmEyZ1RoQThHcVVGM1BJNEQ1R1N1Y1J0aGJDczl6bThHeGVYcHFSeXZOQTRaRVNDb3NNc0I3b00xODBITkUxWWxOVkxDSk5VQ25TLWNZYWpCMGYyc1pHVWlrczhVeQ?oc=5	未分類
@@ -702,8 +666,6 @@ var DATA_SECURITY = `
 2026-07-11	青衣男遭菲傭丈夫持刀襲擊 頭部7處割傷 兇手落網	https://hkcd.com/content_app/2026-07/11/content_8764310.html	未分類
 2026-07-11	西班牙山火釀12死23失蹤 死者多為外國遊客 犯致命錯誤魂斷異鄉	https://www.stheadline.com/realtime-world/3592496/西班牙山火釀12死23失蹤-死者多為外國遊客-犯致命錯誤魂斷異鄉	未分類
 2026-07-11	西班牙山火死亡人數增至12死23失蹤（多圖）	https://hk.epochtimes.com/news/2026-07-11/450237	未分類
-2026-07-11	西班牙山火12死23失蹤 官方稱死者大多未有「就地避難」	https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wZnlqN183ckhYdXhvX3NmWnFOYU9sdlFmWTVSbTJna2ZRa3pIU1hSeXkyQ2VzTVZHMDNVb3c4ZjhST2IwRDZVeWlwblhhQ2FFUGc?oc=5	未分類
-2026-07-11	西班牙嚴重山火12死23失蹤 死者多為當地度假外國人	https://news.google.com/rss/articles/CBMibEFVX3lxTE5zdWdLWWlFU2FIaVlvbnBvVjF4R0s4ZTdaQUNTdWxUM01fd3lfd2p5MllDbkJ4czNaWkE4d1dTVk1CNW1HdmxFd0JyWVFqZi1IQWNWNzR4cHhSRDRyZU5QeXVmU0I1TmVwcy16Qg?oc=5	未分類
 2026-07-11	組圖：西班牙野火死亡人數增至12死23失蹤	https://www.epochtimes.com/b5/26/7/11/n14807484.htm	未分類
 2026-07-11	女儿女婿自杀后妈妈投身防性侵宣传 失职母亲的救赎之路	https://news.china.com/socialgd/10000169/20260711/49603152.html	未分類
 2026-07-11	南部山火增至12死 23人失蹤	https://hk.on.cc/hk/bkn/cnt/intnews/20260711/bkn-20260711080027715-0711_00992_001.html	未分類
@@ -784,7 +746,6 @@ var DATA_SECURITY = `
 2026-06-26	駭人聽聞！英國一丈夫竟夥同12名男子 20年來多次迷昏妻子性侵	https://udn.com/news/amp/story/6810/9591303	未分類
 2026-06-26	隱身民宅、車行大麻工廠 竹檢查扣868株植株	https://www.chinatimes.com/realtimenews/20260626003815-260402	未分類
 2026-06-26	男剪刀插喉亡！高雄旗津傳命案 警方介入釐清	https://udn.com/news/amp/story/7320/9590014	未分類
-2026-06-26	新興合成毒品激增 聯合國警示全球吸毒人數攀升	https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yWkdUbjJQT1JwdEl0WXdhYnBPam5ZVnhocUpURExlV1hkWkpFS2dxblc3VUJmdko1dl80aGVWeDFMREQyY01QUVBtcmQ4UVZmdENWT2Nkdw?oc=5	未分類
 2026-06-24	邵子風直播遇襲血流披面送院 今晨甫自拍照曝光傷勢 (13:46) - 20260624	https://ol.mingpao.com/ldy/showbiz/latest/20260624/1782280046698/邵子風直播遇襲血流披面送院-今晨甫自拍照曝光傷勢	未分類
 2026-06-24	美國加州圖書館爆槍擊案釀兩死 18歲槍手被捕	https://www.i-cable.com/新聞資訊/477535/美國加州圖書館爆槍擊案釀兩死-18歲槍手被捕	未分類
 2026-06-24	台中驚見「女子持刀衝進派出所濺血」！勇警空手奪白刃 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260624/index-78227067995728309002.html	未分類
@@ -796,7 +757,6 @@ var DATA_SECURITY = `
 2026-06-23	歲半童遭父親女友踢爆肝亡 生母質疑故意殺人	https://hk.on.cc/hk/bkn/cnt/news/20260623/bkn-20260623200402982-0623_00822_001.html	未分類
 2026-06-23	少年拘留中心暴動 持械鬥毆15人送院	https://www.singtaousa.com/2026/06/23/news/usa/juvenile-center-riot/	未分類
 2026-06-23	NBC主播母親被綁架五個月 綁匪指已死去埋屍荒野	https://www.singtao.ca/7544633/2026-06-23/news-NBC主播母親疑被綁架五個月	未分類
-2026-06-21	機場七百萬元黃金劫案八人被捕 警方相信部分涉案人士已潛逃內地	https://news.google.com/rss/articles/CBMiowNBVV95cUxNVkJxQlJGaVNLTXBZaV9heFFwUGpzQTdQbFRPckZpMFlmNk5zRnJHMjNPaXo5c2ZKQ0lQUU9xQl9EcWNxMUpvblNlLS1DaEUwVzNGc0JfdWJoR3FSczFxbWN1djRWNFRlNi1FSEdhZWg1ZEoyUkU2OXNIcTN3WE5YRHdzT3FINGxmVk5OSVM5RnAwT25IRDFYTEt3MkNMQ0FrNlB4SS1naGJGdENtRElPOVpXbHY4UnhPYmdIa2F6VXd3WlBnMkU1QWdlb0FRRWJ0RDRhSGI2X2xsNzMxdnhmNW81LVk4ajVtVVhyV3pNZHctQ2pOQVBCdmRZcjI1dXRuZllkTlFsZW41emhybmJzQzB0VHZZRVEzSjN6SWV1dW1NRFd6MVR6Y3BkSUVtUFJ0MFdHZXduSk5HRGd4Tk5iQU0wbmpfMVFxanZ5OHpXVW9CZTZKMG1OS3FHdDJNUFlsa0hsZmFYY1NUVEdLb2dWODlxbzhPZW5pWUZiLTJXQzB0M2pqcVhvMDhsMl9yT29rQkgzQmdsOFdZMWZzOUZmVlVhcw?oc=5	未分類
 2026-06-20	無牌騎士神色異常遭攔查 彰化員林警查獲毒駕送辦 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260620/index-78193851991081309002.html	未分類
 2026-06-20	機場黃金劫案｜4男3女涉串謀搶劫等罪被捕 警方將交代案情	https://www.am730.com.hk/article/1037074	未分類
 2026-06-19	解讀｜ 英國北愛騷亂：是誰在暴動，為甚麼在暴動？	https://theinitium.com/20260619-international-belfast-anti-immigrant-riots/	未分類
@@ -806,7 +766,7 @@ var DATA_SECURITY = `
 2026-06-19	流浮山農場遭爆竊失270萬元財物警拘9人起回部分贓物(18:23) - 20260619 - 港聞- 即時新聞	https://news.mingpao.com/ins/港聞/article/20260619/s00001/1781864627638/流浮山農場遭爆竊失270萬元財物-警拘9人起回部分贓物	未分類
 2026-06-19	一名加拿大公民在南非意外中槍死亡	https://am1320.com/%E7%84%A6%E9%BB%9E%E6%96%B0%E8%81%9E/%E4%B8%80%E5%90%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%85%AC%E6%B0%91%E5%9C%A8%E5%8D%97%E9%9D%9E%E6%84%8F%E5%A4%96%E4%B8%AD%E6%A7%8D%E6%AD%BB%E4%BA%A1/	未分類
 2026-06-18	（多圖）屯門邨屋模擬持刀傷人案 警方房署等跨部門演練提升協調應變	https://www.wenweipo.com/a/202606/18/AP6a340adee4b0b49ad1bfe8d7.html	未分類
-2026-06-18	男子酒駕接女友下班體力不支「滾下車」！ 跪趴路中央差點被撞「毒品快篩陽性」	https://www.mnews.tw/story/amp/mm-20260618edi043	未分類
+2026-06-18	男子酒駕接女友下班體力不支「滾下車」！ 跪趴路中央差點被撞「毒品快篩陽性」	https://www.ftnn.com.tw/news/554346	未分類
 2026-06-18	時事全方位｜企業遭勒索軟件攻擊(一)	https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUGM2elZGMGFzRjNRZkRGYjY4eXRFVFEtZHYyYnd1QlFDZ3NQeUxmU2JKN2Z2eUhnaHNZMVRiVXRNY01yeXNmcEpEMzdNcDlldEdBRV93V1lPdU03VVpZZ25n?oc=5	未分類
 2026-06-18	失業率居全球首位掀排外潮 南非反移民暴動釀5死	https://news.pts.org.tw/article/813590	未分類
 2026-06-18	Google又殺死兩款產品 Nest Mini與Nest Audio正式消失	https://www.winandmac.com/2026/06/google-terrible-nest-mini-nest-audio-gone/	未分類
@@ -839,7 +799,7 @@ var DATA_SECURITY = `
 2026-06-13	新店民宅藏喪屍煙彈工廠！毒蟲拒捕跳窗「卡遮雨棚」尷尬落網 | TVBS	https://today.line.me/tw/v3/article/YaKOj3P	未分類
 2026-06-13	德州米德蘭傳槍響 警匪對峙後槍手亡 1死10傷	https://www.ntdtv.com/b5/2026/06/13/a104105565.html	未分類
 2026-06-13	向警民開槍釀1死10傷 德州通緝犯身亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260613/bkn-20260613110021501-0613_00992_001.html	未分類
-2026-06-12	華人家庭2人中槍亡 疑殺人後自殺 網傳死者為知名奶茶店老闆	https://www.worldjournal.com/wj/amp/story/121360/9561972	未分類
+2026-06-12	華人家庭2人中槍亡 疑殺人後自殺 網傳死者為知名奶茶店老闆	https://www.worldjournal.com/wj/amp/story/122693/9561972	未分類
 2026-06-12	失蹤20年通緝婦突現身派出所 一查竟是「死亡人口」警嚇壞	https://news.tvbs.com.tw/local/3229123	未分類
 2026-06-12	太古城母女命案｜母任社工惜踏上不歸路 社總：社工都只是普通人	https://www.hk01.com/突發/60359755/太古城母女墮樓-母任社工惜踏上不歸路-社總-社工都只是普通人	未分類
 2026-06-12	太古城母女命案｜母任社工惜踏上不归路 社总：社工都只是普通人	https://global.hk01.com/突发/60359755/太古城母女堕楼-母任社工惜踏上不归路-社总-社工都只是普通人	未分類
@@ -927,7 +887,6 @@ var DATA_SECURITY = `
 2026-05-22	美18岁少女遭生父性侵后自杀 信任破碎悲剧收场	https://news.china.com/socialgd/10000169/20260522/49508258.html	未分類
 2026-05-22	會計文員稱墮電騙陷阱轉走3100萬公款 判囚55個月 官：被告理應可辨詐騙電話 (18:05) - 20260522 - 港聞	https://news.mingpao.com/ins/港聞/article/20260522/s00001/1779443272264/會計文員稱墮電騙陷阱轉走3100萬公款-判囚55個月-官-被告理應可辨詐騙電話	未分類
 2026-05-22	吸毒兒交通罰單欠繳 7旬父重回職場還清21萬：只想換他一個未來	https://www.mnews.tw/story/amp/20260522nm010	未分類
-2026-05-21	自由日日Shoot》長期心理虐待逼死1家5口 詐財極惡劣 李團長判11年	https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qWkNQTkVZeWtKN1ZtT1lLT0pYWHZBT2pkcGk5TktiZktUaGl2NktRN1lQeDJoVzk4NmFybTNvMU55UVJrMXp3MzVHTGdsVkFrMHFCOXJIWU5MWmVnLWdB0gFkQVVfeXFMTVhmWFoxUnYwMDBoWXBvV2RRRFZxSTVRRmxpR2hNeHlYVkJnTUF3TDFKZDVHT0pUdU5QRFJxUmZtTDY0T3I0bHRuWDRXNjQ3aTFOcTY1V1MyZzU2S1hoVHNKZ005aw?oc=5	未分類
 2026-05-21	烏克蘭醫生男友被認間諜遭扣留高雄6旬婦解壽險保單拯救結局曝| 時事	https://video.udn.com/news/1323273	未分類
 2026-05-21	按需殺人取器官！國會聽證會揭中共恐怖黑幕	https://www.ntdtv.com.tw/b5/20260521/video/409060.html	未分類
 2026-05-20	豐原5口遭詐亡主嫌判11年！老鄰居痛心怒轟：難怪台灣詐騙猖獗	https://tw.news.yahoo.com/豐原5口遭詐亡主嫌判11年-老鄰居痛心怒轟-難怪台灣詐騙猖獗-053800818.html	未分類
@@ -975,7 +934,6 @@ var DATA_SECURITY = `
 2026-05-09	西班牙隨機斬人｜42歲中國女子遭割喉亡 警方稱嫌犯疑精神病發作	https://www.hk01.com/article/60348236	未分類
 2026-05-09	網店濫用AI大搞「情感勒索」 虛構50年老匠退休 偽造店舖全毀博同情 學者警告極易中招	https://std.stheadline.com/realtime-finance/3570634/網店濫用AI大搞情感勒索-虛構50年老匠退休-偽造店舖全毀博同情-學者警告極易中招	未分類
 2026-05-09	屯門發生倫常血案 17歲青年斬傷14歲胞弟被捕	https://hk.on.cc/hk/bkn/cnt/news/20260509/bkn-20260509221225339-0509_00822_001.html	未分類
-2026-05-09	大阪酒店驚傳命案女住客疑遭男性友人殺害- 國際	https://www.dotdotnews.com/s/202605/09/AP69fee42ce4b09ea23314c195.html	未分類
 2026-05-08	快訊／印尼火山爆發！ 登山客「無視禁令擅闖」釀3死10失蹤	https://www.ettoday.net/news/20260508/3162611.htm	未分類
 2026-05-08	宏福苑聽證會｜下輪聆訊料6月中至下旬舉行委員會明言圍標涉黑社會滲透唔相信有能力可以傳召【持續更新】	https://news.hket.com/article/4125780/宏福苑聽證會｜下輪聆訊料6月中至下旬舉行 委員會明言圍標涉黑社會滲透 唔相信有能力可以傳召【持續更新】?mtc=10009	未分類
 2026-05-08	太古暴動罪成男生提上訴 稱被大狀誘導 上訴庭法官駁回指「避重就輕」	https://thewitnesshk.com/%E5%A4%AA%E5%8F%A4%E6%9A%B4%E5%8B%95%E7%BD%AA%E6%88%90%E7%94%B7%E7%94%9F%E6%8F%90%E4%B8%8A%E8%A8%B4-%E7%A8%B1%E8%A2%AB%E5%A4%A7%E7%8B%80%E8%AA%98%E5%B0%8E-%E4%B8%8A%E8%A8%B4%E5%BA%AD%E6%B3%95%E5%AE%98/	未分類
@@ -1018,7 +976,6 @@ var DATA_SECURITY = `
 2026-04-27	水泉澳邨街市兩男捱斬1人頸部受傷送院- 港聞	https://www.dotdotnews.com/a/202604/27/AP69eedb70e4b09ea23313af91.html	未分類
 2026-04-27	水泉澳邨街市兩「豬肉佬」捱斬 受傷送院「魚佬」被捕	https://hk.news.yahoo.com/水泉澳邨街市兩「豬肉佬」捱斬-受傷送院「魚佬」被捕-040956312.html	未分類
 2026-04-27	東村食雜店員工深夜遭槍擊亡 嫌犯疑受傷	https://www.worldjournal.com/wj/story/121381/9466248	未分類
-2026-04-27	台南左鎮「三屍命案」！母叮囑「明天回家」成遺言二女兒推門驚見至親已冰冷| 社會	https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nQWx6LXp5S2N3ZG9aY1JhckN0djZaOWtXZENnbHRSWDVyLUtsMDRjQlozQnZ0VlBKRTFlLTRXSkpHZFA1b05oY1NNUUtJOVdRb3JzT2oxTldFVUE?oc=5	未分類
 2026-04-27	前FBI高層：科學家離奇死亡失蹤 研究項目都被中俄覬覦	https://www.worldjournal.com/wj/story/121469/9467722	未分類
 2026-04-27	乍得東部發生暴力衝突 42死10傷	https://www.hkcd.com.hk/hkcdweb/content/2026/04/27/content_8752136.html	未分類
 2026-04-25	身藏冰毒及依托咪酯煙彈男子暈倒跑馬地公廁	https://www.881903.com/news/local/2628780	未分類
@@ -1061,7 +1018,7 @@ var DATA_SECURITY = `
 2026-04-21	美北卡公園鬥毆槍擊 2死3傷 嫌犯在逃	https://www.ntdtv.com/b5/2026/04/20/a104088670.html	未分類
 2026-04-21	狱警虐待服刑人员获刑8个月 非正常死亡案现转机	https://news.china.com/socialgd/10000169/20260421/49435759.html	未分類
 2026-04-21	安徽監獄犯人遭獄警虐殺 家屬申訴9年	https://www.ntdtv.com/b5/2026/04/20/a104088541.html/amp	未分類
-2026-04-21	安徽服刑者被獄警虐死 涉事人被判8個月引熱議	https://www.epochtimes.com/gb/26/4/20/n14745909.htm/amp	未分類
+2026-04-21	安徽服刑者被獄警虐死 涉事人被判8個月引熱議	https://www.epochtimes.com/b5/26/4/20/n14745909.htm/amp	未分類
 2026-04-21	墨西哥｜旅遊勝地爆槍擊 釀1死13傷	https://inews.hket.com/article/4117111/墨西哥｜旅遊勝地爆槍擊 釀1死13傷?mtc=20033	未分類
 2026-04-21	上海「3歲男童遭生父女友虐死案」一審宣判被告人趙雨蝶被判死緩- 神州 - 香港文匯網	https://www.wenweipo.com/a/202604/21/AP69e70ecbe4b0b49ad1b7c775.html	未分類
 2026-04-21	上海3歲男童遭生父女友虐死體無完膚 兇手判死緩	https://www.hk01.com/大國小事/60342201/上海3歲男童遭生父女友虐死體無完膚-兇手判死緩	未分類
@@ -1097,12 +1054,10 @@ var DATA_SECURITY = `
 2026-04-17	老翁上環遇襲中多刀受傷 清醒送院 (12:37) - 20260417 - 港聞	https://news.mingpao.com/ins/港聞/article/20260417/s00001/1776400137866/老翁上環遇襲中多刀受傷-清醒送院	未分類
 2026-04-17	徐至琦遭控滑雪團詐騙！ 暴瘦至47公斤備百項證物提告	https://www.4gtv.tv/article/2026041706000021	未分類
 2026-04-17	小三通走私5公斤毒品原料 男子遭金門檢方聲押禁見獲准	https://mnews.tw/story/amp/20260417nm028	未分類
-2026-04-17	京都男童失蹤死亡案 日媒：繼父認「衝動下勒頸殺害」	https://std.stheadline.com/realtime-world/3563015/京都男童失蹤死亡案-日媒繼父認衝動下勒頸殺害	未分類
-2026-04-17	京都男童命案｜日警分析繼父手機定位 鎖定棄屍地點	https://news.google.com/rss/articles/CBMibEFVX3lxTE84Y094MmQ0WTdya2Q3V1piejJjeWxkVldObS00OTRYYTJhM2syMmxweFBlU0VuMlJYdjU0VjJZRG85VlRmdjlQSXdqYUhVTThUcmFTUmt4YUF5ckM2NlpXbWw3VldxRy16Q2w0VA?oc=5	未分類
+2026-04-17	京都男童失蹤死亡案 日媒：繼父認「衝動下勒頸殺害」	https://www.ohpama.com/1019197/生活熱話/生活熱話/京都-男童-失蹤-死亡案-日媒-繼父-衝動-勒頸殺害/	未分類
 2026-04-17	京都11歲男童失蹤死亡繼父供認上學途中勒殺棄屍- 有線寬頻i-CABLE	https://www.i-cable.com/新聞資訊/456185/京都11歲男童失蹤死亡-繼父供認上學途中勒殺棄屍	未分類
 2026-04-17	上環老翁遭持刀襲擊受傷送院 警方正追查涉案兇手	https://hk.epochtimes.com/news/2026-04-17/33873656	未分類
 2026-04-17	上環中遠大廈外79歲男子遭斬傷送院、兇徒遁去 傳事主為訊匯金融聯合創辦人謝兆凱	https://inews.hket.com/article/4115704/上環中遠大廈外79歲男子遭斬傷送院、兇徒遁去 傳事主為訊匯金融聯合創辦人謝兆凱?mtc=80023	未分類
-2026-04-17	(有片) 爆竊觀塘工廈遊戲卡牌店警拘兩男檢電鑽鐵筆- 香港 - 香港文匯網	https://www.wenweipo.com/s/202604/17/AP69e1fe0be4b0b49ad1b7444f.html	未分類
 2026-04-16	神廟命案！17歲少女點燈遭千斤橫樑砸斃 母親直擊女兒倒臥血泊中	https://www.hk01.com/人氣話題/60339532/神廟命案-17歲少女點燈遭千斤橫樑砸斃-母親直擊女兒倒臥血泊中	未分類
 2026-04-16	男童失蹤亡！繼父殺害棄屍黑歷史曝 揭求學「暴走扔桌」火爆性格	https://www.ettoday.net/news/20260416/3150279.htm	未分類
 2026-04-16	日本京都警方拘捕男子 涉殺死11歲兒子並懷疑棄屍	https://news.rthk.hk/rthk/ch/component/k2/1851306-20260416.htm	未分類
@@ -1155,9 +1110,7 @@ var DATA_SECURITY = `
 2026-04-01	不倫姊夫成箱屍3／殺人棄屍裝沒事 他留在小姨子床上一私密物成不倫鐵證	https://mnews.tw/story/amp/mm-20260330soc005	未分類
 2026-03-31	阿根廷發生校園槍擊案 最少1死2傷	https://news.rthk.hk/rthk/ch/component/k2/1849395-20260331.htm	未分類
 2026-03-31	葵涌警員開槍案 持刀男子中槍留醫延至昨晚不治	https://news.rthk.hk/rthk/ch/component/k2/1849454-20260331.htm	未分類
-2026-03-31	葵涌警員開槍│43歲中槍疑犯留醫近10日不治- 香港 - 香港文匯網	https://www.wenweipo.com/s/202603/31/AP69cb38eae4b0b49ad1b4b53f.html	未分類
 2026-03-31	德州高中槍擊案教師中槍 男學生自轟亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260331/bkn-20260331072026877-0331_00992_001.html	未分類
-2026-03-29	英國德比市汽車衝撞路人致多人重傷司機涉嫌謀殺未遂被捕- 國際	https://m.dotdotnews.com/s/202603/29/AP69c8e89fe4b09ea23310ce21.html	未分類
 2026-03-29	毒駕男誤闖輕軌 嗆警「處理啊！」 遭噴辣椒水壓制	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-03-29/2301056.html	未分類
 2026-03-29	東約克兇殺案致27歲男子死亡 一名疑犯被捕	https://www.singtao.ca/7459919/2026-03-29/news-東約克兇殺案致27歲男子死亡 一名疑犯被捕/	未分類
 2026-03-29	大溫城市屋鳴槍30響男子亡 鄰居驚述目睹兩蒙面人行兇	https://www.singtao.ca/7460109/2026-03-29/news-大溫城市屋鳴槍30響男子亡++鄰居驚述目睹兩蒙面人行兇/?variant=zh-hk	未分類
@@ -1186,7 +1139,7 @@ var DATA_SECURITY = `
 2026-03-21	葵涌警員開槍案｜持刀男中兩槍送院 警：開槍屬艱難決定 對方衝向警員大叫「斬死你」	https://www.i-cable.com/新聞資訊/448665/葵涌警員開槍案-持刀男中兩槍送院-警-開槍屬	未分類
 2026-03-21	葵涌男街頭持刀遭警開5槍制服 昏迷送院 警交代詳情	https://www.hk01.com/突發/60332722/葵涌男街頭持刀遭警開5槍制服-昏迷送院-警交代詳情	未分類
 2026-03-21	葵涌男持刀街頭徘徊 遭警開5槍制服 胸口大腿中彈昏迷送院搶救	https://www.stheadline.com/breaking-news/3554977/葵涌男持刀街頭徘徊-遭警開5槍制服-胸口大腿中彈昏迷送院搶救	未分類
-2026-03-21	葵涌有男子持刀徘徊 警員開槍男子昏迷送院	https://www.bastillepost.com/hongkong/article/15770395-葵涌有男子持刀徘徊 警員開槍男子昏迷送院	未分類
+2026-03-21	葵涌有男子持刀徘徊 警員開槍男子昏迷送院	https://news.rthk.hk/rthk/ch/component/k2/1848194-20260321.htm	未分類
 2026-03-21	直播｜葵涌男街頭持刀遭警開5槍制服 昏迷送院 警交代詳情	https://www.hk01.com/突發/60332722/直播-葵涌男街頭持刀遭警開5槍制服-昏迷送院-警交代詳情	未分類
 2026-03-21	「高獲利低風險」都是陷阱！旗山警揭假投資詐騙真相	https://news.pchome.com.tw/society/hoomedia/20260321/index-77402520893697344002.html	未分類
 2026-03-20	深圳車行暴力事件：網紅協助追討法拉利訂金遭圍毆	https://www.singtaousa.com/2026/03/20/news/china/car-dealer-violence-consumer-rights-influencer/	未分類
@@ -1213,7 +1166,7 @@ var DATA_SECURITY = `
 2026-03-14	夫妻毒駕「9月嬰在車上」 警活逮妻掉毒竟大哭	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-03-14/2287481.html	未分類
 2026-03-14	大20歲男友冷血割喉亡！美女議員志工慘死車內 坎坷身世曝光	https://tw.news.yahoo.com/大20歲男友冷血割喉亡-美女議員志工慘死車內-坎坷身世曝光-045600556.html	未分類
 2026-03-14	吉娜·格申回憶起與殺害多蘿西·斯特拉滕的兇手的“令人不寒而栗”的遭遇	https://www.arch-web.com.tw/娛樂/吉娜·格申回憶起與殺害多蘿西·斯特拉滕的兇手/578669/	未分類
-2026-03-14	【直播】FBI就密州以色列聖殿猶太教堂槍擊事件舉行簡報會	https://www.ntdtv.com/b5/2026/03/13/a104075998.html	未分類
+2026-03-14	【直播】FBI就密州以色列聖殿猶太教堂槍擊事件舉行簡報會	https://www.ntdtv.com/gb/2026/03/13/a104075998.html	未分類
 2026-03-13	母逝父吸毒！南投女童4歲遭性侵 無人認養法院緊急延長安置	https://tw.news.yahoo.com/母逝父吸毒-南投女童4歲遭性侵-無人認養法院緊急延長安置-045842645.html	未分類
 2026-03-13	密州猶太會堂槍擊1死 維州大學槍擊 2死2傷	https://news.tvbs.com.tw/focus/3150537	未分類
 2026-03-13	女童校園遇襲亡家屬告洛杉磯校區	https://www.singtaousa.com/2026/03/13/news/usa/girl-dies-school-attack-lawsuit/	未分類
@@ -1299,7 +1252,7 @@ var DATA_SECURITY = `
 2026-03-02	得州槍擊案3死14傷 FBI指事件或涉恐怖主義	https://news.tvb.com/tc/world/69a4b580f3bac3b7e4f698d2/國際-得州槍擊案3死14傷-FBI指事件或涉恐怖主義	未分類
 2026-03-02	多國爆反美示威 巴基斯坦警民衝突9死	https://www.wenweipo.com/a/202603/02/AP69a4a7a3e4b04d7d56d5eef9.html	未分類
 2026-03-02	以色列特拉維夫遇襲當地華人：使館安排撤僑，需到埃及乘機 ...	https://www.hk01.com/article/60326404	未分類
-2026-03-01	【直播】3亡14傷 奧斯丁官方就西六街槍擊事件舉行記者會	https://www.ntdtv.com/b5/2026/3/01/a104071891.html	未分類
+2026-03-01	【直播】3亡14傷 奧斯丁官方就西六街槍擊事件舉行記者會	https://www.ntdtv.com/b5/2026/03/01/a104071891.html	未分類
 2026-02-28	通緝犯拒檢撞警車！警方搏鬥敲窗30mins逮人 還搜出毒品	https://news.pchome.com.tw/society/ctinews/20260228/index-77223606686225309002.html	未分類
 2026-02-28	資料外洩｜昂坪360遭軟件攻擊勒索報警年票賓客租戶及員工 ...	https://www.orangenews.hk/hongkong/VCU42Zs/資料外洩-昂坪360遭軟件攻擊勒索報警-年票賓客租戶及員工資料受影響.shtml	未分類
 2026-02-27	昂坪360資料外泄遭勒索已報警涉年票賓客、供應商及租戶 ...	https://www.hk01.com/社會新聞/60325850/昂坪360資料外泄遭勒索已報警-涉年票賓客-供應商及租戶等資料	未分類
@@ -1320,7 +1273,7 @@ var DATA_SECURITY = `
 2026-02-25	觀塘警署23歲女督察自轟 頭部中槍身亡 OK 觀塘警署23歲女督察自轟 頭部中槍身亡 0.95	https://www.hk01.com/突發/60324778/觀塘警署23歲女督察自轟-頭部中槍身亡	未分類
 2026-02-25	臥底嬌娃｜仙氣女神李海銅慘死！戲外獲陳瀅貼心照顧 網民熱捧潛力She She CP？ OK 臥底嬌娃｜仙氣女神李海銅慘死！戲外獲陳瀅貼心照顧 網民熱捧潛力She She CP？ 1.00	https://www.weekendhk.com/entertainment/臥底嬌娃-李海銅-陳瀅-3373647/	未分類
 2026-02-25	臥底嬌娃丨陳瀅「黃金 32C」畫面引爆迴響含淚懷緬故友晒喊功「仙氣小花」李海銅出場兩集即慘死網民嗌不捨 OK 臥底嬌娃丨陳瀅「黃金 32C」畫面引爆迴響 含淚懷緬故友晒喊功 「仙氣小花」李海銅出場兩集即慘死網民嗌不捨 0.98	https://std.stheadline.com/film-drama/3547424/臥底嬌娃丨陳瀅黃金-32C畫面引爆迴響-含淚懷緬故友晒喊功-仙氣小花李海銅出場兩集即慘死網民嗌不捨	未分類
-2026-02-25	臥底嬌娃丨陳瀅「黃金 32C」畫面引爆迴響含淚懷緬故友晒喊功「仙氣小花」李海銅出場兩集即慘死網民嗌不捨	https://www.singtao.ca/7427498/2026-02-25/news-%E8%87%A5%E5%BA%95%E5%AC%8C%E5%A8%83%E4%B8%A8%E9%99%B3%E7%80%85%E3%80%8C%E9%BB%83%E9%87%91+32C%E3%80%8D%E7%95%AB%E9%9D%A2%E5%BC%95%E7%88%86%E8%BF%B4%E9%9F%BF+%E5%90%AB%E6%B7%9A%E6%87%B7%E7%B7%AC%E6%95%85%E5%8F%8B%E6%99%92%E5%96%8A%E5%8A%9F+%E3%80%8C%E4%BB%99%E6%B0%A3%E5%B0%8F%E8%8A%B1%E3%80%8D%E6%9D%8E%E6%B5%B7%E9%8A%85%E5%87%BA%E5%A0%B4%E5%85%A9%E9%9B%86%E5%8D%B3%E6%85%98%E6%AD%BB%E7%B6%B2%E6%B0%91%E5%97%8C%E4%B8%8D%E6%8D%A8/?variant=zh-hk&appedition=vancouver	未分類
+2026-02-25	臥底嬌娃丨陳瀅「黃金 32C」畫面引爆迴響 含淚懷緬故友晒喊功 「仙氣小花」李海銅出場兩集即慘死網民嗌不捨	https://www.singtao.ca/7427498/2026-02-25/news-臥底嬌娃丨陳瀅「黃金+32c」畫面引爆迴響+含淚懷緬故友晒喊功+「仙氣小花」李海銅出場兩集即慘死網民嗌不捨/?variant=zh-hk	未分類
 2026-02-25	極端氣候再釀悲劇！巴西暴雨釀至少30死39失蹤 救難人員與時間賽跑 | 國際 | CTWANT	https://www.ctwant.com/amp/article/471235/	未分類
 2026-02-25	極端氣候再釀悲劇！巴西暴雨釀至少30死39失蹤 救難人員與時間賽跑	https://news.pchome.com.tw/internation/crwant/20260225/index-77202517211173316011.html	未分類
 2026-02-25	導演洛連納夫婦被割喉亡 兒子上庭否認控罪 OK 導演洛連納夫婦被割喉亡 兒子上庭否認控罪 0.95	https://hk.on.cc/hk/bkn/cnt/entertainment/20260225/bkn-20260225230154248-0225_00862_001.html	未分類
@@ -1339,8 +1292,6 @@ var DATA_SECURITY = `
 2026-02-22	泰國清邁驚傳72虎慘死！封園14天清消 致命關鍵曝	https://news.ebc.net.tw/news/world/538739	未分類
 2026-02-22	借4萬多買點數!前男友「欠過年」 女偕現任持刀討債釀3傷	https://news.ttv.com.tw/news/11502220016300N	未分類
 2026-02-22	【專訪】救不回吸毒愛子！傷心媽不哭了靠「咖啡」闖天下：我會一直做到老	https://tw.news.yahoo.com/專訪-救不回吸毒愛子-傷心媽不哭了靠-咖啡-闖天下-030000144.html	未分類
-2026-02-21	旺角奶路臣街男子从单位爬出棚架堕毙 屋内检$1200蓝精灵毒品	https://global.hk01.com/突发/60323855/旺角奶路臣街男子从单位爬出棚架堕毙-屋内检-1200蓝精灵毒品	未分類
-2026-02-21	快訊／五楊高架離奇命案…男搭計程車「半路吼一聲」墜落匝道死亡！	https://tw.news.yahoo.com/快訊-五楊高架離奇意外-男搭計程車-半路吼-聲-102600194.html	未分類
 2026-02-21	強制舉報虐兒生效半個月 收逾40宗舉報 涉身體虐待性侵犯等	https://hk.on.cc/hk/bkn/cnt/news/20260221/bkn-20260221120732761-0221_00822_001.html	未分類
 2026-02-21	偕兒嬉水失蹤 中國男遺體今尋獲 ｜ e南洋	https://www.enanyang.my/news/20260221/State/1172232	未分類
 2026-02-20	落馬洲殺狗事件增至19死亡或失蹤 昨再於池塘發現一狗女遺體	https://hk.news.yahoo.com/落馬洲殺狗事件增至19死亡或失蹤-昨再於池塘發現-狗女遺體-135713840.html	未分類
@@ -1357,7 +1308,7 @@ var DATA_SECURITY = `
 2026-02-17	辯稱精神疾病遭駁回 本拿比鐵道鎮殺害女友男子判囚終身	https://www.singtao.ca/7421107/2026-02-17/news-辯稱精神疾病遭駁回++++本拿比鐵道鎮殺害女友男子判囚終身/	未分類
 2026-02-17	美國東北城鎮體育賽發生槍擊案 3死包括槍手 (09:30) - 20260217 - 國際	https://news.mingpao.com/ins/國際/article/20260217/s00005/1771291534820/美國東北城鎮體育賽發生槍擊案-3死包括槍手	未分類
 2026-02-16	非常檢控觀劇情｜1-25集線上看 第2單元何廣沛殺人填命！更新古董血案追兇	https://www.weekendhk.com/entertainment/非常檢控觀-劇情-線上看-角色-演員-單元故事-3345030/	未分類
-2026-02-16	箭毒蛙毒素是什麼？英指控俄國用該毒劑殺害反對派領袖納瓦爾尼	https://www.bbc.com/zhongwen/articles/crk8ep1e5mno/trad	未分類
+2026-02-16	箭毒蛙毒素是什麼？英指控俄國用該毒劑殺害反對派領袖納瓦爾尼	https://www.bbc.com/zhongwen/articles/crk8ep1e5mno/trad.amp	未分類
 2026-02-16	男疑毒駕拒測想溜 竟跳「10米深水溝」摔骨折	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-02-16/2265196.html	未分類
 2026-02-16	影/北市警溯源破獲毒品分裝場 逮3嫌查扣各式毒品	https://news.pchome.com.tw/society/ctinews/20260216/index-77124566092996309002.html	未分類
 2026-02-16	7旬翁失蹤宣告死亡 Google Earth一張水底陰影照意外偵破9 年懸案	https://www.chinatimes.com/realtimenews/20260216001437-260405	未分類
@@ -1399,17 +1350,15 @@ var DATA_SECURITY = `
 2026-02-04	台南市派出所外隨機襲擊案 情困男持足療刀刺傷一男一女	https://www.hk01.com/台灣新聞/60319015/台南市派出所外隨機襲擊案-情困男持足療刀刺傷一男一女	未分類
 2026-02-04	利比亞狂人卡達菲次子遇刺亡 4槍手入屋行兇	https://www.am730.com.hk/國際/1008828/利比亞狂人卡達菲次子遇刺亡-4槍手入屋行兇	未分類
 2026-02-03	鯉魚門廣場店舖失手機現金 前職員涉爆竊舊東家被捕	https://hk.on.cc/hk/bkn/cnt/news/20260203/bkn-20260203222757021-0203_00822_001.html	未分類
-2026-02-03	鬧大了中籍非法移民義大利奪槍襲警頭部中彈昏迷| 社會事件簿| 中國 | 世界新聞網	https://www.worldjournal.com/wj/amp/story/121344/9305343	未分類
 2026-02-03	男子意圖強姦大嫂入獄 出獄持刀報復意外刺死熱心村民二審判死刑	https://www.hk01.com/大國小事/60318748/男子意圖強姦大嫂入獄-出獄持刀報復意外刺死熱心村民二審判死刑	未分類
 2026-02-03	演唱會倒數5天！人氣天團成員「家中搜出毒品」遭逮 演出急喊停	https://star.setn.com/news/1790313	未分類
 2026-02-03	中國留學生涉嫌7項謀殺未遂 德法院開審	https://www.epochtimes.com/b5/26/2/2/n14689633.htm/amp	未分類
 2026-02-02	米蘭襲保安搶槍與警駁火 華非法移民中彈昏迷 (19:00) - 20260202 - 國際	https://news.mingpao.com/ins/國際/article/20260202/s00005/1770029169516/米蘭襲保安搶槍與警駁火-華非法移民中彈昏迷	未分類
-2026-02-02	在義大利奪槍襲警 中籍非法移民頭部中彈昏迷	https://www.worldjournal.com/wj/story/121488/9305177	未分類
 2026-02-01	日狠母持刀殺子女！4歲童昏迷命危、8歲童「渾身是血」跑出求救	https://tw.news.yahoo.com/日狠母持刀殺子女-4歲童昏迷命危-8歲童-渾身是血-跑出求救-090118470.html	未分類
 2026-02-01	日狠母持刀殺子女 8歲仔浴血跑出求救 4歲女昏迷命危	https://std.stheadline.com/realtime-world/3540806/日狠母持刀殺子女-8歲仔浴血跑出求救-4歲女昏迷命危	未分類
 2026-01-31	誰殺死了 USDe？80 億美元大撤退真相：定價主權與協議的結構性矛盾	https://abmedia.io/who-killed-usde-ethena-binance	未分類
 2026-01-31	台中母疑餵安眠藥2幼兒死亡 法醫稱幼童臟器不成熟：故意殺人	https://www.hk01.com/台灣新聞/60317981/台中母疑餵安眠藥2幼兒死亡-法醫稱幼童臟器不成熟-故意殺人	未分類
-2026-01-30	馬籍女大生命案凶手逃死 馬國校友會：衝擊對台安全信心	https://www.epochtimes.com/gb/26/1/30/n14687567.htm/amp	未分類
+2026-01-30	馬籍女大生命案凶手逃死 馬國校友會：衝擊對台安全信心	https://www.epochtimes.com/b5/26/1/30/n14687567.htm/amp	未分類
 2026-01-30	馬國女大生命案 凶手更二審逃死	https://reader.turnnewsapp.com/ct/20260130/B01AA1/Q1RfMjAyNjAxMzBfQTFfMg2/share	未分類
 2026-01-30	飛鵝山男子失蹤 救援隊伍山坡尋獲遺體	https://hk.on.cc/cnt/news/20260130/bkn-20260130115617345-0130_00822_001.html	未分類
 2026-01-30	藍山露營失蹤 16歲少年被發現已死亡	https://www.epochtimes.com/b5/26/1/30/n14687372.htm	未分類
@@ -1421,17 +1370,16 @@ var DATA_SECURITY = `
 2026-01-29	性侵殺害馬國女大生三度判死！凶嫌更二審逆轉判無期理由曝光| 法律前線| 社會	https://udn.com/news/amp/story/7321/9295727	未分類
 2026-01-29	快訊／馬籍女大生命案更二審 惡嫌梁育誌判無期再逃死	https://tw.news.yahoo.com/快訊-馬籍女大生命案更二審-惡嫌梁育誌判無期再逃死-012300481.html	未分類
 2026-01-28	遭美掃毒名義擊沉船隻亡 中美洲島國漁民家屬提告	https://news.pts.org.tw/article/792877	未分類
-2026-01-28	美國1歲童行車中左轉被甩飛！粗心母遭控虐兒被捕 驚險畫面曝光	https://www.hk01.com/即時國際/60316898/美國1歲童行車中左轉被甩飛-粗心母遭控虐兒被捕-驚險畫面曝光	未分類
 2026-01-28	無業漢深水埗街頭毆斃老翁 高院陪審團一致裁定謀殺罪成	https://hk.on.cc/hk/bkn/cnt/news/20260128/bkn-20260128205037747-0128_00822_001.html	未分類
-2026-01-27	離奇命案！26歲女模「嘴塞襪、窗簾綑綁」亡 男友稱：她中邪了	https://tw.news.yahoo.com/%E9%9B%A2%E5%A5%87%E5%91%BD%E6%A1%88-26%E6%AD%B2%E5%A5%B3%E6%A8%A1-%E5%98%B4%E5%A1%9E%E8%A5%AA-%E7%AA%97%E7%B0%BE%E7%B6%91%E7%B6%81-%E4%BA%A1-012900261.html	未分類
+2026-01-27	離奇命案！26歲女模「嘴塞襪、窗簾綑綁」亡 男友稱：她中邪了	https://tw.news.yahoo.com/離奇命案-26歲女模-嘴塞襪-窗簾綑綁-亡-012900261.html	未分類
 2026-01-27	紐約警海灘轟斃浣熊惹議 隨身鏡頭揭開槍真相？	https://www.singtaousa.com/2026/01/27/news/usa/officer-placed-on-modified-duty-after-fatally-shooting-raccoon-at-a-nyc-beach/	未分類
 2026-01-27	卑詩疾病控制中心警告 由於非法毒品供應渠道出現變化 令吸毒過量事故增加	https://am1320.com/%E7%84%A6%E9%BB%9E%E6%96%B0%E8%81%9E/%E5%8D%91%E8%A9%A9%E7%96%BE%E7%97%85%E6%8E%A7%E5%88%B6%E4%B8%AD%E5%BF%83%E8%AD%A6%E5%91%8A-%E7%94%B1%E6%96%BC%E9%9D%9E%E6%B3%95%E6%AF%92%E5%93%81%E4%BE%9B%E6%87%89%E6%B8%A0%E9%81%93%E5%87%BA%E7%8F%BE/	未分類
-2026-01-27	46歲男涉持棍毆斃客人 稱代買單車後對方拒付800元 否認謀殺指「一時戇居同佢打」 (16:07) - 20260127 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260127/s00001/1769500821301/46%E6%AD%B2%E7%94%B7%E6%B6%89%E6%8C%81%E6%A3%8D%E6%AF%86%E6%96%83%E5%AE%A2%E4%BA%BA-%E7%A8%B1%E4%BB%A3%E8%B2%B7%E5%96%AE%E8%BB%8A%E5%BE%8C%E5%B0%8D%E6%96%B9%E6%8B%92%E4%BB%98800%E5%85%83-%E5%90%A6%E8%AA%8D%E8%AC%80%E6%AE%BA%E6%8C%87%E3%80%8C%E4%B8%80%E6%99%82%E6%88%87%E5%B1%85%E5%90%8C%E4%BD%A2%E6%89%93%E3%80%8D	未分類
+2026-01-27	46歲男涉持棍毆斃客人 稱代買單車後對方拒付800元 否認謀殺指「一時戇居同佢打」 (16:07) - 20260127 - 港聞	https://news.mingpao.com/ins/港聞/article/20260127/s00001/1769500821301/46歲男涉持棍毆斃客人-稱代買單車後對方拒付800元-否認謀殺指「一時戇居同佢打」	未分類
 2026-01-26	墨西哥足球場遇襲 槍手開火致11死12傷	https://www.ntdtv.com/b5/2026/01/26/a104060528.html/amp	未分類
-2026-01-26	墨西哥足球場傳槍響！槍擊事件至少11死12傷	https://tw.news.yahoo.com/%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%B6%B3%E7%90%83%E5%A0%B4%E5%82%B3%E6%A7%8D%E9%9F%BF-%E6%A7%8D%E6%93%8A%E4%BA%8B%E4%BB%B6%E8%87%B3%E5%B0%9111%E6%AD%BB12%E5%82%B7-041047330.html	未分類
-2026-01-26	墨西哥槍擊 | 槍手闖球場施襲釀11死12傷 朝球員、觀眾隨機開槍	https://std.stheadline.com/realtime-world/3538941/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%A7%8D%E6%93%8A-%E6%A7%8D%E6%89%8B%E9%97%96%E7%90%83%E5%A0%B4%E6%96%BD%E8%A5%B2%E9%87%8011%E6%AD%BB12%E5%82%B7-%E6%9C%9D%E7%90%83%E5%93%A1%E8%A7%80%E7%9C%BE%E9%9A%A8%E6%A9%9F%E9%96%8B%E6%A7%8D	未分類
+2026-01-26	墨西哥足球場傳槍響！槍擊事件至少11死12傷	https://tw.news.yahoo.com/墨西哥足球場傳槍響-槍擊事件至少11死12傷-041047330.html	未分類
+2026-01-26	墨西哥槍擊 | 槍手闖球場施襲釀11死12傷 朝球員、觀眾隨機開槍	https://std.stheadline.com/realtime-world/3538941/墨西哥槍擊-槍手闖球場施襲釀11死12傷-朝球員觀眾隨機開槍	未分類
 2026-01-26	墨西哥一足球場發生槍擊事件已致11死12傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/26/AP6976e3cfe4b04d7d56d04a41.html	未分類
-2026-01-26	坪洲老翁遇襲臉流血送院 警員到場調查	https://www.hk01.com/%E7%AA%81%E7%99%BC/60316234/%E5%9D%AA%E6%B4%B2%E8%80%81%E7%BF%81%E9%81%87%E8%A5%B2%E8%87%89%E6%B5%81%E8%A1%80%E9%80%81%E9%99%A2-%E8%AD%A6%E5%93%A1%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5	未分類
+2026-01-26	坪洲老翁遇襲臉流血送院 警員到場調查	https://www.hk01.com/突發/60316234/坪洲老翁遇襲臉流血送院-警員到場調查	未分類
 2026-01-25	旺角鳳姐遭刀匪叉頸打劫 損失1400元現金	https://hk.on.cc/cnt/news/20260125/bkn-20260125173016676-0125_00822_001.html	未分類
 2026-01-24	美軍東太平洋打擊販毒船釀兩死 搜尋一名倖存者	https://www.bastillepost.com/hongkong/article/15608038-美軍東太平洋打擊販毒船釀兩死 搜尋一名倖存者	未分類
 2026-01-24	尖沙咀酒店謀殺及企圖自殺案 73歲女子被暫控謀殺下周一提堂	https://news.rthk.hk/rthk/ch/component/k2/1841211-20260124.htm	未分類
@@ -1457,7 +1405,6 @@ var DATA_SECURITY = `
 2026-01-22	尖沙咀有長期病患年長夫婦酒店內昏迷 據悉疑女方謀殺丈夫	https://news.tvb.com/sc/local/697242a482dea93ecb557ca2/港澳-尖沙咀有長期病患年長夫婦酒店內昏迷-據悉疑女方謀殺丈夫	未分類
 2026-01-21	日本中學生鎖喉小學生幾近昏迷又推落海 議員怒轟：這是殺人未遂	https://www.hk01.com/即時國際/60314734/日本中學生鎖喉小學生幾近昏迷又推落海-議員怒轟-這是殺人未遂	未分類
 2026-01-21	南丫海難裁非法被殺 即睇非法被殺是什麼？死因裁判官可判什麼？	https://www.hk01.com/社會新聞/60314763/南丫海難裁非法被殺-即睇非法被殺是什麼-死因裁判官可判什麼	未分類
-2026-01-21	南丫海難死因研訊裁定39名死難者屬非法被殺	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fUlBmdFhoSGpYb29FcVE1SW5Qd182eUJkQzFlcUlTbG9OR09LVlF5R3FiOS1Tb25zNTJPczZIYWZrbVQtSjhONXhfVHpBQkhVdzRvRURobFVvaENsSVFweGxR?oc=5	未分類
 2026-01-21	千百度：河南青少年密集失蹤 細思極恐	https://www.ntdtv.com/b5/2026/01/21/a104058524.html/amp	未分類
 2026-01-20	懷疑虐兒｜4個月大男嬰昏迷疑遭搖晃 警方拘兩外籍女子 重案組跟進調查	https://news.hket.com/article/4071728/懷疑虐兒｜4個月大男嬰昏迷疑遭搖晃 警方拘兩外籍女子 重案組跟進調查	未分類
 2026-01-20	女醫失蹤藏家變2／2度被報失蹤協尋1年 女醫心酸吐「不自殺聲明」	https://tw.news.yahoo.com/女醫失蹤藏家變2-2度被報失蹤協尋1年-女醫心酸吐-不自殺聲明-222857540.html	未分類
@@ -1469,8 +1416,6 @@ var DATA_SECURITY = `
 2026-01-19	油麻地單位疑遭入屋打劫女住客呼吸困難不適送院- 香港 - 香港文匯網	https://www.wenweipo.com/a/202601/19/AP696e50cfe4b04d7d56cf521f.html	未分類
 2026-01-19	油麻地上海街單位疑遭入屋行劫 43歲女住客不適送院	https://www.hk01.com/%E7%AA%81%E7%99%BC/60314227/%E6%9F%B4%E7%81%A3%E6%96%B0%E6%A5%AD%E8%A1%9748%E6%AD%B2%E8%B7%9F%E8%BB%8A%E7%94%B7%E5%B7%A5%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
 2026-01-19	42歲男星涉毒案升級改控持有冰毒 上庭後首發聲反擊：壯陽藥裡有冰毒？	https://www.stheadline.com/film-drama/3536975/42歲男星涉毒案升級改控持有冰毒-上庭後首發聲反擊壯陽藥裡有冰毒	未分類
-2026-01-17	遭轟斃漢有濫藥史缺席覆診 親友稱「好純」不解警開槍 - 20260117 - 要聞	https://news.mingpao.com/pns/要聞/article/20260117/s00001/1768585796203/遭轟斃漢有濫藥史缺席覆診-親友稱「好純」不解警開槍	未分類
-2026-01-17	遭轟斃漢有濫藥史缺席覆診 親友稱「好純」不解警開槍 - 20260117 - 圖片看世界	https://news.mingpao.com/pns/要聞/photo1/20260117/s00001/1768585796203/1768585796202	未分類
 2026-01-16	港男持刀挾持遭警連開2槍亡 嫌犯母喊：好心痛	https://news.ebc.net.tw/news/world/532892	未分類
 2026-01-16	海關天水圍搗破依托咪酯製毒工場 檢值1000萬元毒品拘兩人 (12:39) - 20260116 - 港聞	https://news.mingpao.com/ins/港聞/article/20260116/s00001/1768538167530/海關天水圍搗破依托咪酯製毒工場-檢值1000萬元毒品拘兩人	未分類
 2026-01-16	彩雲邨19歲青年遭母親用菜刀斬 54歲母涉傷人被捕 同告受傷送院	https://www.hk01.com/突發/60313517/彩雲邨19歲青年遭母親用菜刀斬-54歲母涉傷人被捕-同告受傷送院	未分類
@@ -1484,7 +1429,7 @@ var DATA_SECURITY = `
 2026-01-15	高雄老翁報案「兒子失蹤」！警在住家天井發現遺體 初判無外力介入	https://news.pchome.com.tw/society/ctinews/20260115/index-76848317321039309002.html	未分類
 2026-01-15	男子於屯門持刀挾持途人被開槍制服後不治 警方：不排除有人受毒品影響下犯案	https://tmhk.org/2026/01/15/男子於屯門持刀挾持途人被開槍制服後不治-警方：/	未分類
 2026-01-15	油麻地男子疑吸毒后晕倒被弃街头亡扫荡毒窟拘男主持等12人｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260115/bkn-20260115072256980-0115_00822_001_cn.html?view=d	未分類
-2026-01-15	有片‧屯門開槍制服刀手｜疑犯送院搶救後死亡 據悉是本地人有刑事紀錄	https://news.tvb.com/tc/1145246-%E6%9C%89%E7%89%87%E5%B1%AF%E9%96%80%E9%96%8B%E6%A7%8D%E5%88%B6%E6%9C%8D%E5%88%80%E6%89%8B%E7%96%91%E7%8A%AF%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E6%AD%BB%E4%BA%A1%E6%93%9A%E6%82%89%E6%98%AF%E6%9C%AC%E5%9C%B0%E4%BA%BA%E6%9C%89%E5%88%91%E4%BA%8B%E7%B4%80%E9%8C%84	未分類
+2026-01-15	有片‧屯門開槍制服刀手｜疑犯送院搶救後死亡 據悉是本地人有刑事紀錄	https://news.tvb.com/tc/local/6968d590803b902326a69cf5/港澳-有片屯門開槍制服刀手｜疑犯送院搶救後死亡-據悉是本地人有刑事紀錄	未分類
 2026-01-15	明尼蘇達男遭ICE槍擊送院 國土安全部：疑犯揮鐵鏟襲擊執法人員	https://www.hk01.com/即時國際/60312949/明尼蘇達男遭ice槍擊送院-國土安全部-疑犯揮鐵鏟襲擊執法人員	未分類
 2026-01-15	屯門警員開槍制服持刀漢 消息:疑犯送院後不治	https://m.hkej.com/landing/mobarticle2/id/4298685/屯門警員開槍制服持刀漢 消息:疑犯送院後不治	未分類
 2026-01-15	屯門發生警員開槍事件 持刀男子中槍昏迷送院	https://www.881903.com/news/local/2614687/屯門發生警員開槍事件-持刀男子中槍昏迷送院	未分類
@@ -1504,7 +1449,7 @@ var DATA_SECURITY = `
 2026-01-09	美國聯邦政府人員於波特蘭市開槍 2人受傷送院	https://www.881903.com/news/international/2613642	未分類
 2026-01-09	才返台投案！竹聯幫「豆漿」驚傳癌逝曾恐嚇江蕙、走私50億毒品| 社會	https://www.nownews.com/news/6773815	未分類
 2026-01-09	台中七期豪宅虐殺案 主嫌「以虐為樂」一審判無期徒刑	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-01-09/2230264.html	未分類
-2026-01-09	中國男子澳洲浮潛抓龍蝦失蹤 疑遭鯊魚攻擊 數日後頭顱被沖上岸	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60311127/%E4%B8%AD%E5%9C%8B%E7%94%B7%E5%AD%90%E6%BE%B3%E6%B4%B2%E6%B5%AE%E6%BD%9B%E6%8A%93%E9%BE%8D%E8%9D%A6%E5%A4%B1%E8%B9%A4-%E7%96%91%E9%81%AD%E9%AF%8A%E9%AD%9A%E6%94%BB%E6%93%8A-%E6%95%B8%E6%97%A5%E5%BE%8C%E9%A0%AD%E9%A1%B1%E8%A2%AB%E6%B2%96%E4%B8%8A%E5%B2%B8	未分類
+2026-01-09	中國男子澳洲浮潛抓龍蝦失蹤 疑遭鯊魚攻擊 數日後頭顱被沖上岸	https://www.hk01.com/article/60311127	未分類
 2026-01-08	葬禮爆大規模槍擊 至少2死6傷 人們尖叫哀嚎、四處奔逃	https://www.worldjournal.com/wj/amp/story/121471/9254065	未分類
 2026-01-08	美國猶他州鹽湖城發生槍擊事件致2死3傷槍手在逃- 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/08/AP695f2e40e4b069b7ebf77df9.html	未分類
 2026-01-08	特朗普政府ICE聲稱捉非法移民 亂殺死美國公民、阻醫生救援	https://www.winandmac.com/2026/01/donald-trump-ice-killing-usa-citizen/	未分類
@@ -1516,12 +1461,11 @@ var DATA_SECURITY = `
 2026-01-05	麥當勞女工讀生案 家屬提民事求償今開庭 「涉案主管爆失蹤」	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-01-05/2225825.html	未分類
 2026-01-05	隱瞞高官性侵少女5月 高市衛生局長千字文發聲：選擇先保住那個孩子的命 | 社會 | CTWANT	https://www.ctwant.com/amp/article/464777/	未分類
 2026-01-05	狼官性侵少女「醜聞封口半年」 高雄衛生局長黃志中親曝原因	https://news.tvbs.com.tw/local/3091313	未分類
-2026-01-05	尼日利亞約貝州一船隻傾覆 造成25死14失蹤	https://big5.cctv.com/gate/big5/news.cctv.cn/2026/01/05/ARTIedOcz8NgzyUu5qoVLooo260104.shtml	未分類
 2026-01-05	"过去发生的""配角集体性暴力事件""再次受到关注。截至5日晚8时，国会国民同意请愿公告栏上上传的""关于配角集体性暴力事件的听证会及特检请求的请愿""同意人数突破了4万人。请愿人A某在上个月26日写道:""曾是.."	https://www.mk.co.kr/cn/society/11923731	未分類
 2026-01-04	眼見廂型車蛇行飄移 警活逮「毒駕」現行犯	https://www.eracom.com.tw/EraNews/Home/Society/2026-01-04/2225365.html	未分類
 2026-01-04	目睹跨年蹦迪吸大麻「嗨過頭」 華人留學生嚇傻	https://www.worldjournal.com/wj/amp/story/121471/9244999	未分類
 2026-01-04	影/新北三峽喪屍邊吸邊開 街頭毒駕蛇行吞17萬罰單	https://news.pchome.com.tw/society/ctinews/20260104/index-76751509759084309002.html	未分類
-2026-01-03	六旬投資公司東主薄扶林水塘失蹤 海陸空搜索四日後尋回清醒送院 (10:49) - 20260103 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260103/s00001/1767409028597/%E5%85%AD%E6%97%AC%E6%8A%95%E8%B3%87%E5%85%AC%E5%8F%B8%E6%9D%B1%E4%B8%BB%E8%96%84%E6%89%B6%E6%9E%97%E6%B0%B4%E5%A1%98%E5%A4%B1%E8%B9%A4-%E6%B5%B7%E9%99%B8%E7%A9%BA%E6%90%9C%E7%B4%A2%E5%9B%9B%E6%97%A5%E5%BE%8C%E5%B0%8B%E5%9B%9E%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2	未分類
+2026-01-03	六旬投資公司東主薄扶林水塘失蹤 海陸空搜索四日後尋回清醒送院 (10:49) - 20260103 - 港聞	https://news.mingpao.com/ins/港聞/article/20260103/s00001/1767409028597/六旬投資公司東主薄扶林水塘失蹤-海陸空搜索四日後尋回清醒送院	未分類
 2026-01-03	上水牛雜店付款糾紛變持刀對峙 女顧客狂砍群警盾牌被捕送院	https://www.stheadline.com/breaking-news/3532180/上水牛雜店付款糾紛變持刀對峙-女顧客狂砍群警盾牌被捕送院	未分類
 2026-01-02	尋人｜70歲老婦陳偉艷無著鞋離開那打素醫院後失蹤 職員報警	https://www.am730.com.hk/本地/尋人-70歲老婦陳偉艷無著鞋離開那打素醫院後失蹤-職員報警/632924	未分類
 2025-12-30	警樂華南邨垃圾房蒐證 據了解查失蹤案揭35歲女子死亡 正追緝一名男子	https://www.i-cable.com/新聞資訊/424408/觀塘樂華南邨大批警員蒐證-據了解查失蹤案揭35歲	未分類
@@ -1531,7 +1475,6 @@ var DATA_SECURITY = `
 2025-12-30	據悉35歲失蹤女子死亡 警搜查樂華南邨垃圾房及追緝一名懷疑涉案男子	https://news.tvb.com/sc/local/6953d8d4d6adf87a9be95567/港澳-據悉35歲失蹤女子死亡-警搜查樂華南邨垃圾房及追緝一名懷疑涉案男子	未分類
 2025-12-28	印尼熱門旅遊點有觀光船惡劣天氣中翻沉 7人獲救4人失蹤	https://news.tvb.com/en/1142221-印尼熱門旅遊點有觀光船惡劣天氣中翻沉7人獲救4人失蹤	未分類
 2025-12-27	高壓水槍失控！男子遭800km/h水流「割喉」 頸噴鮮血被緊急送院	https://www.ntdtv.com/b5/2025/12/27/a104050498.html/amp	未分類
-2025-12-27	驚！7-11「賣貨便」成詐團新目標 詐騙手法曝光	https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yeTBPRDFxWldSRHR0TFlSM1BQZXBub2hnXzBPUUhTemxZYUYtWkVVVEZwNzN4UmpXUGxNbkdJZGwtdzZHc0RIQzlKdjhIY2NkNzdBX2w3M3hMbS1XTjBycDR5RS1BSGhJ0gFuQVVfeXFMTjNoeTNBU1JGRk5vU1pGc1ZJUS1hNGZKUFZsR01ZYUNyc3pFUmpmcVB1X0lBZWNWOGcyNk53Sk0wcEJ6SXpNVUR0WXBiYlpNWUd1ZmdtbWFJdWd2aVdlTmg3RUFPWG05MlBaUkw1N1E?oc=5	未分類
 2025-12-27	欠薪3千殺人棄屍！冷血工頭隔天照吃年夜飯 邀妻跑路被拒絕	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20251227/s00005/1766805934323/%E6%97%A5%E6%9C%AC%E7%BE%A4%E9%A6%AC%E7%B8%A3%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E8%BB%8A%E7%A6%8D%E6%B6%8957%E8%BC%9B%E8%BB%8A-2%E6%AD%BB26%E5%82%B7%E3%80%90%E7%9F%AD%E7%89%87%E3%80%91	未分類
 2025-12-26	觀塘工廈男吸毒後報案稱輕生 昏迷送院後涉藏毒被捕	https://www.singtao.ca/7371773/2025-12-26/news-觀塘工廈男吸毒後報案稱輕生+昏迷送院後涉藏毒被捕 /	未分類
 2025-12-23	陸軍司令部出事！士官長「魂斷雲林」慘死車內	https://news.pchome.com.tw/society/ctinews/20251223/index-76647556403588309002.html	未分類
@@ -1584,31 +1527,28 @@ var DATA_SECURITY = `
 2025-12-01	精神分裂男涉斧頭劈斃老翁 被捕稱「天狼星人」叫他殺人	https://hk.on.cc/hk/bkn/cnt/news/20251201/bkn-20251201194721576-1201_00822_001.html	未分類
 2025-12-01	無業漢涉隨機砍死七旬翁 警誡下自稱拉瑪轉世 與天狼星人心靈感應後執行殺人任務	https://www.singtaousa.com/2025-12-01/無業漢涉隨機砍死七旬翁-警誡下自稱拉瑪轉世-與天/5392097	未分類
 2025-12-01	海關截遠洋船往印尼貨櫃 檢$1.95億醫療設備等走私貨	https://www.singtaousa.com/2025-12-01/海關截遠洋船往印尼貨櫃-檢1-95億醫療設備等走私貨/5392135	未分類
-2025-11-30	印尼蘇門答臘水災 最少303人死亡279人失蹤	https://news.google.com/rss/articles/CBMibEFVX3lxTE9WNl9XbWdpT0lYUFNjUWVNVmFUNDVZTDBEdDN3SWJJWHM5UUhPSExidHF0VFpwSVJVVmpMZDI3MGtielpKcVhfVFh5QTdhLTAtc0ZncEtWOFowcDIwcXZjSC1GeUttdjZrbUd1Mg?oc=5	未分類
-2025-11-25	南投角頭「瘋寬」心臟中彈身亡 11/27解剖確認死因	https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wc3lVX0k4XzlHbXZZak1jaHlpT2hhNGQtWGZrdXUyQjFqWTRtb2RCVUhQTzM3YzJLUnlrMnZnYzUyb3JPUTR6WXl2UnYtQlVnWFhMQUpOZjNYSlN5VWZza0E4b0YxOXR50gFuQVVfeXFMTkdBcF9uYmlfTWRKczBRTTJxeFduUHZMYWhwbGZxeFlqdHo0TjJadUo1Z1VEZUpwb2tQRHEyeURwbkYtWExXS0I0TGpENUlnN0F1Q3MzUnI2M1o2cmRrc1VmX0lfcmN5WENFZzliNnc?oc=5	未分類
 2025-11-25	33歲女子倒臥旺角單位內死亡 男子涉管有吸毒工具及經營賭檔被捕	https://news.tvb.com/sc/local/6925c511e4352941292044bd/港澳-33歲女子倒臥旺角單位內死亡-男子涉管有吸毒工具及經營賭檔被捕	未分類
 2025-11-24	駭人！15歲少女打工 上半身「捲進揉麵機」當場慘死	https://www.dotdotnews.com/a/202511/24/AP692414c5e4b0c32d4f5fe4d0.html	未分類
 2025-11-17	國4延伸工程重大意外！巨量鋼筋突傾倒 移工遭掩埋當場慘死	https://www.hk01.com/article/60295051	未分類
-2025-11-14	黃明志謝侑芯命案懶人包｜大馬警方轉謀殺方向調查 罪成可判死刑	https://www.hk01.com/%E9%96%8B%E7%BD%90/60290957/%E9%BB%83%E6%98%8E%E5%BF%97%E6%A1%88%E6%87%B6%E4%BA%BA%E5%8C%85-%E8%AC%9D%E4%BE%91%E8%8A%AF%E7%96%91%E6%80%A7%E4%BA%A4%E5%BE%8C%E6%AD%BB%E4%BA%A1-%E8%AD%A6%E8%AD%894%E6%AF%92%E5%93%81%E9%99%BD%E6%80%A7%E5%8F%8D%E6%87%89-%E5%8D%B3%E6%99%82	未分類
-2025-11-14	傳血照、嗆找「神經病」殺人！逼死豐原一家五口 女團購主變態手法曝	https://news.google.com/rss/articles/CBMiaEFVX3lxTE95bzlkYUI3SzFVa0tWa1IxYXlaeUxOZUtCY25vM0NLcV90ZDMtRTdTSDVtdGxtdEJOeE12WnVEQmpybWRCWEtEd1ZDcVNzSUdwTVVQM3QwZFlicHlpaGFmWF9tWW9WemhC0gFuQVVfeXFMTlZHYkJsTkNCa3pNVEtmcDQxVFdXSGNpM0tQU3BodXZKekwwYjdycWx2R2hybC1hendqQjMtemlWb0s2TXIwZF9pdUxlV3dWQnlTQ0tyVEg5TTUyQ1d2VzdUbWNFVUkzZDlOSzZNR1E?oc=5	未分類
+2025-11-14	黃明志謝侑芯命案懶人包｜大馬警方轉謀殺方向調查 罪成可判死刑	https://www.hk01.com/開罐/60290957/黃明志案懶人包-謝侑芯疑性交後死亡-警證4毒品陽性反應-即時	未分類
 2025-11-12	在韓附近海域傾覆兩中國漁船2死12失蹤 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202511/12/AP69139984e4b06ffa303b7a7a.html	未分類
-2025-11-11	黃明志被續押三天 助查台女網紅命案	https://www.hkej.com/dailynews/cntw/article/4245219/黃明志被續押三天++助查台女網紅命案	未分類
-2025-11-10	馬來西亞：載百名羅興亞人偷渡船沉沒 7死13人獲救 其餘失蹤	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60292889/%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E-%E8%BC%89%E7%99%BE%E5%90%8D%E7%BE%85%E8%88%88%E4%BA%9E%E4%BA%BA%E5%81%B7%E6%B8%A1%E8%88%B9%E6%B2%89%E6%B2%92-7%E6%AD%BB13%E4%BA%BA%E7%8D%B2%E6%95%91-%E5%85%B6%E9%A4%98%E5%A4%B1%E8%B9%A4	未分類
+2025-11-11	黃明志被續押三天 助查台女網紅命案	https://www.hkej.com/dailynews/cntw/article/4245219/%E9%BB%83%E6%98%8E%E5%BF%97%E8%A2%AB%E7%BA%8C%E6%8A%BC%E4%B8%89%E5%A4%A9++%E5%8A%A9%E6%9F%A5%E5%8F%B0%E5%A5%B3%E7%B6%B2%E7%B4%85%E5%91%BD%E6%A1%88	未分類
+2025-11-10	馬來西亞：載百名羅興亞人偷渡船沉沒 7死13人獲救 其餘失蹤	https://www.hk01.com/即時國際/60292889/馬來西亞-載百名羅興亞人偷渡船沉沒-7死13人獲救-其餘失蹤	未分類
 2025-11-10	開漏藥誘乙肝 鄧桂思裁死於不幸 官指兩醫違謹慎責任未至惡劣 未予非法被殺選項	https://guangming.com.my/%E8%BD%BF%E8%BD%A6%E5%A4%B1%E6%8E%A7%E9%97%AF%E5%85%A5%E5%8F%8D%E6%96%B9%E5%90%91%E8%BD%A6%E9%81%93-79%E5%B2%81%E8%80%81%E7%BF%81%E4%B8%8D%E5%B9%B8%E8%A2%AB%E5%A4%B9%E6%AF%99	未分類
 2025-11-10	泫雅跳舞暈倒！身材再掀「太胖太瘦」爭論 粉絲嗆酸民：別再用外貌傷人	https://www.setn.com/news/1748949	未分類
 2025-11-10	ChatGPT教唆致多名用户自杀：已出现七宗诉讼！OpenAI：无比痛心	https://finance.sina.com.cn/tech/discovery/2025-11-10/doc-infwvpzm2145864.shtml	未分類
 2025-11-09	黃明志捲台灣網紅謝侑芯命案 大馬警擬申請延長扣留	https://star.setn.com/news/1748775	未分類
 2025-11-09	一中國漁船在韓國附近公海傾覆 已致2人死亡3人失蹤	https://www.rfi.fr/tw/%E7%A4%BE%E6%9C%83/20251109-%E4%B8%80%E4%B8%AD%E5%9C%8B%E6%BC%81%E8%88%B9%E5%9C%A8%E9%9F%93%E5%9C%8B%E9%99%84%E8%BF%91%E5%85%AC%E6%B5%B7%E5%82%BE%E8%A6%86-%E5%B7%B2%E8%87%B42%E6%AD%BB3%E5%A4%B1%E8%B9%A4	未分類
-2025-11-06	黃明志涉毒捲謝侑芯離奇命案 猝逝案變謀殺案 一片看清驚人轉折	https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60292098/%E9%BB%83%E6%98%8E%E5%BF%97%E6%B6%89%E6%AF%92%E6%8D%B2%E8%AC%9D%E4%BE%91%E8%8A%AF%E9%9B%A2%E5%A5%87%E5%91%BD%E6%A1%88-%E7%8C%9D%E9%80%9D%E6%A1%88%E8%AE%8A%E8%AC%80%E6%AE%BA%E6%A1%88-%E4%B8%80%E7%89%87%E7%9C%8B%E6%B8%85%E9%A9%9A%E4%BA%BA%E8%BD%89%E6%8A%98	未分類
+2025-11-06	黃明志涉毒捲謝侑芯離奇命案 猝逝案變謀殺案 一片看清驚人轉折	https://www.hk01.com/台灣新聞/60292098/黃明志涉毒捲謝侑芯離奇命案-猝逝案變謀殺案-一片看清驚人轉折	未分類
 2025-11-06	巴爾的摩塌橋｜搜救行動宣告暫停 警：失蹤6人存活可能微乎其微	https://www.chinesepress.com/2025/11/06/%E5%A3%AB%E5%98%89%E5%A0%A1%E7%9A%AE%E5%8D%A1%E8%BD%A6%E5%8F%91%E7%94%9F%E5%8D%95%E8%BD%A6%E8%BD%A6%E7%A5%B8%EF%BC%8C%E4%B8%80%E5%90%8D%E5%A5%B3%E5%AD%90%E5%BD%93%E5%9C%BA%E6%AD%BB%E4%BA%A1%E3%80%81/	未分類
-2025-11-05	黃明志謝侑芯懶人包｜黃明志一度失蹤被通輯！轉謀殺罪最高可判死刑 家屬強調死因有可疑	https://hk.ulifestyle.com.hk/topic/detail/20080272/%E9%BB%83%E6%98%8E%E5%BF%97-%E8%AC%9D%E4%BE%91%E8%8A%AF-%E4%BA%8B%E4%BB%B6%E6%87%B6%E4%BA%BA%E5%8C%85-%E9%A9%97%E6%AF%92-%E7%B6%B2%E7%B4%85	未分類
+2025-11-05	黃明志謝侑芯懶人包｜黃明志一度失蹤被通輯！轉謀殺罪最高可判死刑 家屬強調死因有可疑	https://hk.ulifestyle.com.hk/topic/detail/20080272/黃明志-謝侑芯-事件懶人包-驗毒-網紅	未分類
 2025-11-05	護理女神浴缸離奇亡！謝侑芯命案登歐美媒體 黃明志同行成焦點	https://www.ettoday.net/news/20251105/3062476.htm	未分類
 2025-11-05	委內瑞拉非法金礦突坍塌 鏡頭拍下恐怖瞬間 30死逾百失蹤｜慎入	https://www.dotdotnews.com/a/202511/05/AP690acaf3e4b0b4fa5c140f3d.html	未分類
 2025-11-04	護理系女神謝侑芯飯店猝命案最新進展！馬來西亞警方證實此案將以「謀殺案」偵辦	https://www.ttshow.tw/article/112229	未分類
-2025-11-04	謝侑芯之死變謀殺案！ 經紀人「至少提告黃明志3大罪」驚曝委託人遭跟蹤	https://tw.news.yahoo.com/謝侑芯之死變謀殺案-經紀人-至少提告黃明志3大罪-驚曝委託人遭跟蹤-051000022.html	未分類
+2025-11-04	謝侑芯之死變謀殺案！ 經紀人「至少提告黃明志3大罪」驚曝委託人遭跟蹤	https://tw.news.yahoo.com/%E8%AC%9D%E4%BE%91%E8%8A%AF%E4%B9%8B%E6%AD%BB%E8%AE%8A%E8%AC%80%E6%AE%BA%E6%A1%88-%E7%B6%93%E7%B4%80%E4%BA%BA-%E8%87%B3%E5%B0%91%E6%8F%90%E5%91%8A%E9%BB%83%E6%98%8E%E5%BF%973%E5%A4%A7%E7%BD%AA-%E9%A9%9A%E6%9B%9D%E5%A7%94%E8%A8%97%E4%BA%BA%E9%81%AD%E8%B7%9F%E8%B9%A4-051000022.html	未分類
 2025-11-03	謝侑芯「全裸躺浴缸慘死」黃明志4毒陽性！高大成揭「大馬警1動作超詭異」內幕全說	https://www.4gtv.tv/article/2025110304000012	未分類
-2025-11-02	黃明志就在謝侑芯死亡現場還傳涉毒 親自發聲喊：被勒索	https://tw.news.yahoo.com/%E9%BB%83%E6%98%8E%E5%BF%97%E5%B0%B1%E5%9C%A8-%E8%AD%B7%E7%90%86%E7%B3%BB%E5%A5%B3%E7%A5%9E-%E6%AD%BB%E4%BA%A1%E7%8F%BE%E5%A0%B4%E9%82%84%E5%82%B3%E6%B6%89%E6%AF%92-%E8%A6%AA%E8%87%AA%E7%99%BC%E8%81%B2%E5%96%8A-%E8%A2%AB%E5%8B%92%E7%B4%A2-072700477.html	未分類
-2025-11-02	謝侑芯飯店全裸亡！黃明志被驗「4毒品陽性」警方全說了	https://tw.news.yahoo.com/謝侑芯飯店全裸亡-黃明志被驗-4毒品陽性-警方全說了-095628769.html	未分類
+2025-11-02	黃明志就在謝侑芯死亡現場還傳涉毒 親自發聲喊：被勒索	https://tw.news.yahoo.com/黃明志就在-護理系女神-死亡現場還傳涉毒-親自發聲喊-被勒索-072700477.html	未分類
+2025-11-02	謝侑芯飯店全裸亡！黃明志被驗「4毒品陽性」警方全說了	https://tw.news.yahoo.com/%E8%AC%9D%E4%BE%91%E8%8A%AF%E9%A3%AF%E5%BA%97%E5%85%A8%E8%A3%B8%E4%BA%A1-%E9%BB%83%E6%98%8E%E5%BF%97%E8%A2%AB%E9%A9%97-4%E6%AF%92%E5%93%81%E9%99%BD%E6%80%A7-%E8%AD%A6%E6%96%B9%E5%85%A8%E8%AA%AA%E4%BA%86-095628769.html	未分類
 2025-10-22	日本大分鋼鐵廠職員失蹤 廠內高溫鋼水鍋發現人骨	https://www.enanyang.my/news/20251022/Nation/1039399	未分類
 2025-10-21	梅州暴雨成災 梅縣及蕉嶺縣9死6失蹤 共逾9.7萬人受災	https://www.hk01.com/article/60287253?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-10-19	新北林口命案！女13樓墜2樓露台、倒臥血泊 鄰居目睹嚇壞急忙報警	https://tw.news.yahoo.com/新北林口命案-女13樓墜2樓露台-倒臥血泊-鄰居目睹嚇壞急忙報警-064500281.html	未分類
@@ -1616,46 +1556,44 @@ var DATA_SECURITY = `
 2025-10-17	快訊／昨夜才通報失蹤！台鐵內灣支線「17歲少年倒臥鐵軌亡」	https://www.ettoday.net/news/20251017/3051630.htm	未分類
 2025-10-16	妻冷眼看尪虐死2歲兒 狠心雙親開庭認罪 | 社會 | CTWANT	https://www.ctwant.com/amp/article/451930/	未分類
 2025-10-16	台中摩鐵驚悚命案！淫男「滴管餵毒」性侵偷拍 害傳播女昏迷致死	https://n.yam.com/Article/20251016362839	未分類
-2025-10-16	享齊人之福仍伸魔爪 強姦非禮二奶女兒 親女忍辱7年自殺揭父獸行 六旬廚師認9罪候刑	https://www.stheadline.com/society/3509052/%E4%BA%AB%E9%BD%8A%E4%BA%BA%E4%B9%8B%E7%A6%8F%E4%BB%8D%E4%BC%B8%E9%AD%94%E7%88%AA-%E5%BC%B7%E5%A7%A6%E9%9D%9E%E7%A6%AE%E4%BA%8C%E5%A5%B6%E5%A5%B3%E5%85%92-%E8%A6%AA%E5%A5%B3%E5%BF%8D%E8%BE%B17%E5%B9%B4%E8%87%AA%E6%AE%BA%E6%8F%AD%E7%88%B6%E7%8D%B8%E8%A1%8C-%E5%85%AD%E6%97%AC%E5%BB%9A%E5%B8%AB%E8%AA%8D9%E7%BD%AA%E5%80%99%E5%88%91	未分類
+2025-10-16	享齊人之福仍伸魔爪 強姦非禮二奶女兒 親女忍辱7年自殺揭父獸行 六旬廚師認9罪候刑	https://www.stheadline.com/society/3509052/享齊人之福仍伸魔爪-強姦非禮二奶女兒-親女忍辱7年自殺揭父獸行-六旬廚師認9罪候刑	未分類
 2025-10-15	美司法部凍結逾1200億元比特幣 偵破華人柬埔寨殺豬盤詐騙集團	https://www.hk01.com/article/60285449?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-10-15	竹园北邨男子持刀与装修工爆冲突 两败俱伤同惹官非	https://hk.on.cc/hk/bkn/cnt/news/20251015/mobile/bkn-20251015103659264-1015_00822_001_cn.html	未分類
 2025-10-15	當「上所」成為資本遊戲：誰在殺死Web3的星星大海？	https://www.panewslab.com/zh-hant/articles/dfc72ade-7a09-428a-b177-d623ed8aaefc	未分類
 2025-10-15	摔落攪拌機「全身絞變形」！秒成碎肉塊 大馬移工慘死肥料廠	https://www.stheadline.com/film-drama/3508816/34%E6%AD%B2%E5%AD%B8%E9%9C%B8%E7%BE%8E%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%BD%B9%E7%BD%95%E8%A6%8B%E6%B7%8B%E5%B7%B4%E7%99%8C%E9%9B%A2%E4%B8%96-%E6%B2%BB%E7%99%82%E6%A5%B5%E7%97%9B%E8%8B%A6%E8%A2%AB%E7%81%AB%E9%80%9F%E5%A5%AA%E5%91%BD-%E5%9C%98%E9%9A%8A%E7%97%9B%E5%BF%83%E8%AD%89%E5%AF%A6%E5%8C%96%E4%BD%9C%E6%9C%80%E5%96%84%E8%89%AF%E5%A4%A9%E4%BD%BF	未分類
-2025-10-15	妻冷眼看尪虐死2歲兒 狠心雙親開庭認罪	https://tw.news.yahoo.com/妻冷眼看尪虐死2歲兒-狠心雙親開庭認罪-221954592.html	未分類
+2025-10-15	妻冷眼看尪虐死2歲兒 狠心雙親開庭認罪	https://tw.news.yahoo.com/%E5%A6%BB%E5%86%B7%E7%9C%BC%E7%9C%8B%E5%B0%AA%E8%99%90%E6%AD%BB2%E6%AD%B2%E5%85%92-%E7%8B%A0%E5%BF%83%E9%9B%99%E8%A6%AA%E9%96%8B%E5%BA%AD%E8%AA%8D%E7%BD%AA-221954592.html	未分類
 2025-10-15	台北車站大廳驚傳「女遭當眾性侵10分鐘」 遊客嚇傻報案！警逮1男竟是通緝犯	https://www.mirrormedia.mg/story/20251015edi007	未分類
 2025-10-14	高雄民宅槍響！男子「太陽穴中彈」浴血…一旁還有槍…送醫仍不治	https://tw.news.yahoo.com/快訊-高雄民宅槍響-男倒臥血泊-旁還有槍枝-緊急送醫仍不治-033000286.html	未分類
 2025-10-14	美執法部門據報用全身拘束器押解非法移民 不排除與多宗死亡案例有關	https://news.tvb.com/tc/799513-%E7%BE%8E%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%93%9A%E5%A0%B1%E7%94%A8%E5%85%A8%E8%BA%AB%E6%8B%98%E6%9D%9F%E5%99%A8%E6%8A%BC%E8%A7%A3%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E4%B8%8D%E6%8E%92%E9%99%A4%E8%88%87%E5%A4%9A%E5%AE%97%E6%AD%BB%E4%BA%A1%E6%A1%88%E4%BE%8B%E6%9C%89%E9%97%9C	未分類
-2025-10-14	居民接連死亡失蹤 美鬼鎮荒廢百年靈異傳聞不斷 試膽者稱曾遭鬼手觸摸	https://www.bastillepost.com/hongkong/article/15339003-%E5%B1%85%E6%B0%91%E6%8E%A5%E9%80%A3%E6%AD%BB%E4%BA%A1%E5%A4%B1%E8%B9%A4-%E7%BE%8E%E9%AC%BC%E9%8E%AE%E8%8D%92%E5%BB%A2%E7%99%BE%E5%B9%B4%E9%9D%88%E7%95%B0%E5%82%B3%E8%81%9E%E4%B8%8D%E6%96%B7-%E8%A9%A6	未分類
+2025-10-14	居民接連死亡失蹤 美鬼鎮荒廢百年靈異傳聞不斷 試膽者稱曾遭鬼手觸摸	https://www.bastillepost.com/hongkong/article/15339003-居民接連死亡失蹤-美鬼鎮荒廢百年靈異傳聞不斷-試	未分類
 2025-10-14	23歲男揪「玩俄羅斯輪盤」朝同齡女子開槍 她胸口中彈慘死 | 國際 | CTWANT	https://www.ctwant.com/amp/article/451650/	未分類
 2025-10-13	加密貨幣暴跌 烏克蘭知名交易員兼網紅疑自殺 烏媒： 有其他歐洲投資者遭謀殺或綁架	https://www.bastillepost.com/hongkong/article/15339322-加密貨幣暴跌-烏克蘭知名交易員兼網紅疑自殺 烏	未分類
-2025-10-12	拘留所深夜惊魂 通缉犯割喉自杀	https://atvnewsonline.com/world/%E6%8B%98%E7%95%99%E6%89%80%E6%B7%B1%E5%A4%9C%E6%83%8A%E9%AD%82-%E9%80%9A%E7%BC%89%E7%8A%AF%E5%89%B2%E5%96%89%E8%87%AA%E6%9D%80/	未分類
+2025-10-12	拘留所深夜惊魂 通缉犯割喉自杀	https://atvnewsonline.com/world/拘留所深夜惊魂-通缉犯割喉自杀/	未分類
 2025-10-12	加密貨幣暴跌傳悲劇！ 烏克蘭知名交易員「頭部中彈」陳屍藍寶堅尼	https://tw.news.yahoo.com/加密貨幣暴跌傳悲劇-烏克蘭知名交易員-頭部中彈-陳屍藍寶堅尼-123700066.html	未分類
 2025-10-11	高雄男墜12樓爆頭身亡 身上留字條「生前疑遭詐騙」	https://www.ettoday.net/news/20251011/3048365.htm	未分類
 2025-10-11	因糾紛持刀行兇釀1死1傷 六旬翁遭拘留	https://hk.on.cc/hk/bkn/cnt/news/20251011/bkn-20251011100714801-1011_00822_001.html	未分類
-2025-10-10	2名中國籍遊客馬來西亞離奇失蹤六日 最後行程浮潛畫面曝光	https://www.hk01.com/大國小事/60284235/2名中國籍遊客馬來西亞離奇失蹤六日-最後行程浮潛畫面曝光	未分類
+2025-10-10	2名中國籍遊客馬來西亞離奇失蹤六日 最後行程浮潛畫面曝光	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60284235/2%E5%90%8D%E4%B8%AD%E5%9C%8B%E7%B1%8D%E9%81%8A%E5%AE%A2%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E9%9B%A2%E5%A5%87%E5%A4%B1%E8%B9%A4%E5%85%AD%E6%97%A5-%E6%9C%80%E5%BE%8C%E8%A1%8C%E7%A8%8B%E6%B5%AE%E6%BD%9B%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89	未分類
 2025-10-09	華漢新西蘭潛水失蹤裁定死亡 兩年僅尋獲一根遺骨	https://hk.on.cc/hk/bkn/cnt/news/20251009/bkn-20251009120230879-1009_00822_001.html	未分類
 2025-10-09	色令智昏 美外交官戀上中共間諜被火速開除	https://www.ntdtv.com/b5/2025/10/09/a104028338.html	未分類
 2025-10-09	男子打賭扛200公斤水泥贏手機下秒脊椎受損慘死- 國際	https://m.dotdotnews.com/s/202510/09/AP68e76057e4b08d290539940b.html	未分類
 2025-10-09	屍水從天而降！父化白骨女毙客廳 新加坡國宅爆孤死命案 | 國際 | CTWANT	https://www.ctwant.com/amp/article/450684/	未分類
-2025-10-08	組圖：颱風「麥德姆」襲越南 已致8死5失蹤	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MZHlJOVdKZDNVOGZoLU5sekkwSkg0dmZIWEdod2tPeDlEVVNjV01melA3VTZaYUtiMVpaVXU0U1R3QlNYZVRPakY0Z2hOYm10R0tvalZPM2RPZ3ZKQ2oyNNIBZkFVX3lxTE16MVN0b2dLVjdWTTJIbE1odVRnc01MSG5kZDRyRjJaQVNzUVd5NXNWc0hPUHBSWEFaRU9EVXRXODJqSE4zT014STlTRkd4V2F1UEl2VnU3SmtHLTdwXy1POS1WNE5NQQ?oc=5	未分類
 2025-10-08	生前爆器官發黑！于朦朧再爆虐殺內幕 「屍斑超驚悚」網紅發聲	https://star.setn.com/news/1732674	未分類
-2025-10-08	佐敦道5車意外、7人受傷 男子被控販毒、無牌駕駛 還押候訊	https://thewitnesshk.com/%E4%BD%90%E6%95%A6%E9%81%935%E8%BB%8A%E6%84%8F%E5%A4%967%E4%BA%BA%E5%8F%97%E5%82%B7-%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8E%A7%E8%B2%A9%E6%AF%92%E7%84%A1%E7%89%8C%E9%A7%95%E9%A7%9B-%E9%82%84%E6%8A%BC/	未分類
+2025-10-08	佐敦道5車意外、7人受傷 男子被控販毒、無牌駕駛 還押候訊	https://thewitnesshk.com/佐敦道5車意外7人受傷-男子被控販毒無牌駕駛-還押/	未分類
 2025-10-07	母親說，不知道死者有吸食毒品的習慣 #將軍澳 #吸毒 #am730	https://www.facebook.com/am730hk/posts/%E6%AF%8D%E8%A6%AA%E8%AA%AA%E4%B8%8D%E7%9F%A5%E9%81%93%E6%AD%BB%E8%80%85%E6%9C%89%E5%90%B8%E9%A3%9F%E6%AF%92%E5%93%81%E7%9A%84%E7%BF%92%E6%85%A3%E5%B0%87%E8%BB%8D%E6%BE%B3-%E5%90%B8%E6%AF%92-am730/1276693731164893/	未分類
 2025-10-07	將軍澳40歲男子疑吸毒後墮樓亡 醫生指過量吸食某些毒品易致幻覺	https://news.tvb.com/tc/local/68e52f3b50e07596eb299209/港澳-將軍澳40歲男子疑吸毒後墮樓亡-醫生指過量吸食某些毒品易致幻覺	未分類
-2025-10-06	多瑙河翻船悲劇：中國非法移民越境途中遇險 一人死亡	https://www.dw.com/zh-hant/%E5%A4%9A%E7%91%99%E6%B2%B3%E7%BF%BB%E8%88%B9%E6%82%B2%E5%8A%87%E4%B8%AD%E5%9C%8B%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91%E8%B6%8A%E5%A2%83%E9%80%94%E4%B8%AD%E9%81%87%E9%9A%AA-%E4%B8%80%E4%BA%BA%E6%AD%BB%E4%BA%A1/a-74253138	未分類
-2025-10-05	背景通天 殺人如麻！于朦朧案帶出這些明星走的令人膽寒	https://news.google.com/rss/articles/CBMidkFVX3lxTE9Od2NHUklUWW1RSXp5WDYyR042TU94QXBtSlY0bXNKVlFwOUF2bno3bGlqNkpCWnFZaDVlbkFKaHU0c0czVkpXblpaSjViZ195bnJ5SjdzV0x3Y2NmRm5lRGJ3VUhkZWotTlJnRXd1Q0R6WU9yLUHSAXtBVV95cUxQZGxLWmVMTlRKMXZwTmlJemRUZUhrSHNma0g2QVpwT0xxRHY0WTFDR0F5RjRPTWdJMmk2VHh1LVdjZ1k2MDZLYzB0QmM1Z3NVbHB3dFJJRGQ3S0t6S0xPNFI5a2ZxYVBqaEdEakh4T3l3MGNwV1lwSFB0djA?oc=5	未分類
+2025-10-06	多瑙河翻船悲劇：中國非法移民越境途中遇險 一人死亡	https://www.dw.com/zh-hant/多瑙河翻船悲劇中國非法移民越境途中遇險-一人死亡/a-74253138	未分類
 2025-10-04	年費20萬！療癒學院男暴瘦身亡 知名牙醫也涉命案遭拘提	https://www.taisounds.com/news/content/92/217579	未分類
-2025-10-03	驚嚇畫面瘋傳！爆紅女星表演中途突然向後倒地 曾自爆患精神分裂、吸毒	https://www.stheadline.com/film-drama/3505296/驚嚇畫面瘋傳爆紅女星表演中途突然向後倒地-曾自爆患精神分裂吸毒	未分類
+2025-10-03	驚嚇畫面瘋傳！爆紅女星表演中途突然向後倒地 曾自爆患精神分裂、吸毒	https://www.stheadline.com/film-drama/3505296/%E9%A9%9A%E5%9A%87%E7%95%AB%E9%9D%A2%E7%98%8B%E5%82%B3%E7%88%86%E7%B4%85%E5%A5%B3%E6%98%9F%E8%A1%A8%E6%BC%94%E4%B8%AD%E9%80%94%E7%AA%81%E7%84%B6%E5%90%91%E5%BE%8C%E5%80%92%E5%9C%B0-%E6%9B%BE%E8%87%AA%E7%88%86%E6%82%A3%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%E5%90%B8%E6%AF%92	未分類
 2025-10-03	心靈學院爆命案！ 30歲男「瘦成皮包骨」亡	https://news.tvbs.com.tw/local/3007165	未分類
 2025-10-03	不只于朦朧、喬任梁！《赴山海》男星驟逝遭「虐殺活摘」內幕曝	https://tw.news.yahoo.com/不只于朦朧-喬任梁-赴山海-男星驟逝遭-虐殺活摘-123300631.html	未分類
-2025-10-02	西貢鳳秀路獨立屋疑遭爆竊 失5隻手錶	https://www.hk01.com/突發/60282035/西貢鳳秀路獨立屋疑遭爆竊-失5隻手錶	未分類
+2025-10-02	西貢鳳秀路獨立屋疑遭爆竊 失5隻手錶	https://www.hk01.com/%E7%AA%81%E7%99%BC/60282035/%E8%A5%BF%E8%B2%A2%E9%B3%B3%E7%A7%80%E8%B7%AF%E7%8D%A8%E7%AB%8B%E5%B1%8B%E7%96%91%E9%81%AD%E7%88%86%E7%AB%8A-%E5%A4%B15%E9%9A%BB%E6%89%8B%E9%8C%B6	未分類
 2025-10-02	曼徹斯特猶太教堂遇襲 以色列駐英國大使館譴責「贖罪日」暴力	https://www.hk01.com/article/60282031?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-10-02	台中虎媽疑因「太像婆婆」虐死21歲女兒 23年前是驚世媳婦	https://www.ettoday.net/news/20251002/3043543.htm	未分類
 2025-09-29	快訊／興達電廠傳命案！36歲男陳屍辦公室｜東森新聞	https://news.ebc.net.tw/news/society/514534	未分類
 2025-09-29	27歲女演員「空中飛人」當場墜地慘死！ 80觀眾目睹死亡瞬間	https://www.ettoday.net/news/20250929/3041797.htm	未分類
 2025-09-27	英國擬推數碼身份證打擊非法移民 未持有者不可合法工作	https://www.hk01.com/article/60280395?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-09-26	英國計劃推出數碼身分證 施紀賢：有助打擊非法移民	https://www.hk01.com/article/60280239?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-09-22	男牛排館昏倒！竟遭誤認遊民 被丟到街頭一夜慘死	https://tw.news.yahoo.com/%E7%94%B7%E7%89%9B%E6%8E%92%E9%A4%A8%E6%98%8F%E5%80%92-%E7%AB%9F%E9%81%AD%E8%AA%A4%E8%AA%8D%E9%81%8A%E6%B0%91-%E8%A2%AB%E4%B8%9F%E5%88%B0%E8%A1%97%E9%A0%AD-%E5%A4%9C%E6%85%98%E6%AD%BB-024900440.html	未分類
+2025-09-22	男牛排館昏倒！竟遭誤認遊民被丟到街頭一夜慘死	https://tw.news.yahoo.com/男牛排館昏倒-竟遭誤認遊民-被丟到街頭-夜慘死-024900440.html	未分類
 2025-09-22	吃牛排突然昏倒 男被店员拖到街上惨死	https://info.51.ca/articles/1467932	未分類
 2025-09-21	翻版于朦胧 涉娱乐圈​​​​​​​淫乱 3名离奇惨死的中国男演员(组图 - 影视娱乐 - (移动版)	https://www.secretchina.com/news/gb/2025/09/21/1088375.html	未分類
 2025-09-20	被指于朦朧案翻版 十年來三名男藝人離奇慘死	https://www.ntdtv.com/b5/2025/09/20/a104021884.html	未分類
@@ -1666,9 +1604,7 @@ var DATA_SECURITY = `
 2025-09-19	据越南媒体《VN Express》18日报道，台湾一名50多岁的男子花费超过40万台币（1800万韩元）接受"阴茎扩大"手术仅几个小时就死亡。对此,当地警方拘留了主刀手术的外科医生。据VN Expre..	https://www.mk.co.kr/cn/world/11424429	未分類
 2025-09-19	93歲老婦失蹤竟是遭棄屍金色海岸 媳婦認了：怕被罵 ｜ 社會 ｜ CTWANT	https://www.ctwant.com/amp/article/446550/	未分類
 2025-09-17	半夜趕海結果喪命……灘塗趕海5年來共造成38人死亡或失蹤	https://www.donga.com/tw/article/all/20250917/5852656/1	未分類
-2025-09-14	驚！台灣吸大麻藏高黑數	https://news.google.com/rss/articles/CBMiX0FVX3lxTE41dGlGSDNrUXg2UVZzVElkTTJFVTZSLW1vdUNGWEE1NnVKaHo2elh4YkFlcXJGdE85bGc2dktBRW5FVk5yenFnMl85WnYwUFJjeFIwMnlTc3pmUUxQQjI00gFkQVVfeXFMT1hsVlQ5NHF5aE5LdVlxX1ZLNS1wcGtQUHo2VFk1T2Q0SFJodV9NV0FJQzZnbWM3LUZ1TktrT3RUZ3RsSnlTaXBXNTh1dnJqRW5DbVBDaldvYWxsY3VlYmNfM0loZw?oc=5	未分類
 2025-09-08	耶路撒冷槍擊案致6死逾10傷 兩巴勒斯坦槍手被擊斃｜有片	https://www.hk01.com/article/60274427?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-09-08	快訊／沖繩那霸國際通酒店爆兇殺 男子遭砍心臟驟停送醫	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ib1JRME5Zbkg1VS0ybl96OXlaUFRxeWVqQ1VlT25JMDAzRHZNYmtBem9LaVJmT2ZtLUFncW9Bb0ZLcWMzWmFkR2tIVEJkaUE?oc=5	未分類
 2025-09-08	執勤中出意外！警車衝出橋面 失控墜河1死2失蹤｜東森新聞	https://news.ebc.net.tw/news/world/511072	未分類
 2025-09-05	爆頭慘死！南韓陸軍大尉「頭部中彈」陳屍市區 遺體旁有K-2步槍	https://geneonline.news/肯尼迪指慢性病為疫情死亡主因引發醫學界爭議/	未分類
 2025-09-03	首爾餐廳砍人事件3死1傷 嫌疑人為老闆 行兇後企圖自殺未果	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60272936/%E9%A6%96%E7%88%BE%E9%A4%90%E5%BB%B3%E7%A0%8D%E4%BA%BA%E4%BA%8B%E4%BB%B63%E6%AD%BB1%E5%82%B7-%E5%AB%8C%E7%96%91%E4%BA%BA%E7%82%BA%E8%80%81%E9%97%86-%E8%A1%8C%E5%85%87%E5%BE%8C%E4%BC%81%E5%9C%96%E8%87%AA%E6%AE%BA%E6%9C%AA%E6%9E%9C	未分類
@@ -1689,21 +1625,20 @@ var DATA_SECURITY = `
 2025-08-26	遛狗男被槍殺亡身分「竟是通緝犯」…鄰居錯愕曝為人：和善有禮貌的好人	https://www.setn.com/news/1709583	未分類
 2025-08-26	樟湖吊橋19歲男大生戲水失蹤 校方說話了 ｜ 中天新聞網	https://ctinews.com/news/items/ogxwD5djnG	未分類
 2025-08-25	舊金山知名水上公園 35歲泳將下水後失蹤	https://tw.news.yahoo.com/35%E6%AD%B2%E6%B3%B3%E5%B0%87-%E6%B0%B4%E4%B8%8A%E5%85%AC%E5%9C%92%E4%B8%8B%E6%B0%B4%E5%BE%8C%E5%A4%B1%E8%81%AF-061800508.html	未分類
-2025-08-25	直播曝性侵受害者惹議！「賓賓哥」驚傳暈倒 員工哽咽：因圤智雨指控心力交瘁	https://tw.news.yahoo.com/%E7%9B%B4%E6%92%AD%E6%9B%9D%E6%80%A7%E4%BE%B5%E5%8F%97%E5%AE%B3%E8%80%85%E6%83%B9%E8%AD%B0-%E8%B3%93%E8%B3%93%E5%93%A5-%E9%A9%9A%E5%82%B3%E6%9A%88%E5%80%92-%E5%93%A1%E5%B7%A5%E5%93%BD%E5%92%BD-%E5%9B%A0%E5%9C%A4%E6%99%BA%E9%9B%A8%E6%8C%87%E6%8E%A7%E5%BF%83%E5%8A%9B%E4%BA%A4%E7%98%81-063100108.html	未分類
+2025-08-25	直播曝性侵受害者惹議！「賓賓哥」驚傳暈倒 員工哽咽：因圤智雨指控心力交瘁	https://tw.news.yahoo.com/直播曝性侵受害者惹議-賓賓哥-驚傳暈倒-員工哽咽-因圤智雨指控心力交瘁-063100108.html	未分類
 2025-08-25	不滿「前男友」變成別人寶貝？ 女持刀自傷 男奪刀濺血	https://news.tvbs.com.tw/local/2970548	未分類
 2025-08-23	17歲少年遭打死棄屍 海軍中士承認「揮2拳」！涉殺人案恐丟軍職 ｜ 太報 ｜ LINE TODAY	https://today.line.me/tw/v3/article/EX28e6m	未分類
 2025-08-22	饒舌天王Lil Nas X淩晨穿底褲周街走 疑吸毒過量被送院	https://hk.on.cc/hk/bkn/cnt/entertainment/20250822/bkn-20250822120108783-0822_00862_001.html	未分類
 2025-08-22	持刀狂飆夜市！22歲男甩尾騎車「單手揮舞開山刀」 女友分手失控嚇壞民眾	https://today.line.me/tw/v3/article/vXGlypl	未分類
-2025-08-22	怡保建筑工地酿命案 8岁与9岁兄弟坠水池溺毙	https://www.chinapress.com.my/20250822/怡保建筑工地酿命案-8岁与9岁兄弟坠水池溺毙/	未分類
+2025-08-22	怡保建筑工地酿命案 8岁与9岁兄弟坠水池溺毙	https://www.chinapress.com.my/20250822/%E6%80%A1%E4%BF%9D%E5%BB%BA%E7%AD%91%E5%B7%A5%E5%9C%B0%E9%85%BF%E5%91%BD%E6%A1%88-8%E5%B2%81%E4%B8%8E9%E5%B2%81%E5%85%84%E5%BC%9F%E5%9D%A0%E6%B0%B4%E6%B1%A0%E6%BA%BA%E6%AF%99/	未分類
 2025-08-22	寄艙行李藏$470萬大麻花 曼谷抵港兩男子被捕	https://www.singtaousa.com/2025-12-08/寄艙行李藏470萬大麻花-曼谷抵港兩男子被捕/5397191	未分類
 2025-08-22	供過於求大麻跌價 密歇根跌幅達75%	https://www.singtaousa.com/2022-12-26/%e4%be%9b%e9%81%8e%e6%96%bc%e6%b1%82%e5%a4%a7%e9%ba%bb%e8%b7%8c%e5%83%b9%e5%af%86%e6%ad%87%e6%a0%b9%e8%b7%8c%e5%b9%85%e9%81%9475/4367751	未分類
-2025-08-21	高雄「醫院暖男社工」慘死屏東家鄉！同事慟：他正要圓夢	https://tw.news.yahoo.com/高雄-醫院暖男社工-慘死屏東家鄉-同事慟-他正要圓夢-020454550.html	未分類
+2025-08-21	高雄「醫院暖男社工」慘死屏東家鄉！同事慟：他正要圓夢	https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84-%E9%86%AB%E9%99%A2%E6%9A%96%E7%94%B7%E7%A4%BE%E5%B7%A5-%E6%85%98%E6%AD%BB%E5%B1%8F%E6%9D%B1%E5%AE%B6%E9%84%89-%E5%90%8C%E4%BA%8B%E6%85%9F-%E4%BB%96%E6%AD%A3%E8%A6%81%E5%9C%93%E5%A4%A2-020454550.html	未分類
 2025-08-21	悲劇！梨泰院30歲消防員救災走不出創傷 失蹤10天後陳屍橋下	https://tw.nextapple.com/finance/20250821/264A9933DEE28FA8B9EEB582D8E0B17E	未分類
 2025-08-20	馬修培利死亡 毒品拆家認罪有機會被判入獄45年	https://hk.on.cc/hk/bkn/cnt/entertainment/20250820/bkn-20250820230120603-0820_00862_001.html	未分類
 2025-08-20	因救援梨泰院慘案患抑鬱症... 消防員留言「抱歉」後失蹤10天，最終被發現身亡	https://thekdaily.com/article/251855/梨泰院事故-消防員-失蹤	未分類
 2025-08-19	日本兩名自衛隊員訓練時失蹤 被發現時「完整」身亡 死因未明	https://www.hk01.com/article/60268041?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-08-17	葵湧情侶倒斃浴室檢毒品 不排除吸毒過量身亡	https://hk.on.cc/hk/bkn/cnt/news/20250817/bkn-20250817041352043-0817_00822_001.html	未分類
-2025-08-17	葵涌情侶倒斃浴室檢毒品 不排除吸毒過量身亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFU0anFHdTZPLW5BOFlGWmQ5dGt0TjRpU01vNUdZS3dxbnNTOXBCN05CYjdTenV3NUFEQjNtR0pRcHRweDB4bGt2OFQ3MDk1LUo4TzVxSW1tMzVBVE9LTkdtcElZM09jdlRsZldPMnh4OXVsREV5UnhuWm05WUxSWVQ5N1dOUHltVGln?oc=5	未分類
 2025-08-15	離家失蹤八旬翁墮海亡(09:41) - 20250815 - 港聞- 即時新聞	https://news.mingpao.com/ins/港聞/article/20250815/s00001/1755221385673/離家失蹤八旬翁墮海亡	未分類
 2025-08-14	灣仔貨車司機「暈倒」突停車嚇煞途人 警揭涉毒駕身藏可卡因	https://www.hk01.com/article/60266612?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-08-14	涉毒駕身藏可卡因灣仔貨車突停司機疑暈倒車內- 港聞	https://m.dotdotnews.com/s/202508/14/AP689da059e4b08d290532d4c5.html	未分類
@@ -1718,8 +1653,6 @@ var DATA_SECURITY = `
 2025-07-28	今日新聞8分鐘｜悅來命案好友籲停止起底｜19歲男北河街追斬女子	https://www.hk01.com/article/60261152?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-27	烏蛟騰男子一度失蹤 政府飛行服務隊直升機出動尋人	https://www.hk01.com/article/60260660?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-25	杏花邨16歲少年猝死 警檢煙彈及毒品 17歲友人曾探訪涉販毒被捕	https://www.hk01.com/article/60260435?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-07-24	內蒙國企礦廠突發事故 6大學生實習墜礦漿池慘死	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBUDhGaHdvaGhxVzExZExQbHN6Y1lVZm4xQWs5LWZFdmY3NThmNm5NazU5MmUyampEQU1FUllWMGRMOGdTeDVaZmZzRC1HMUNUSmxIa0NuQzY5Q1ZLTzVDUtIBZkFVX3lxTFBQeTVpRkFvV3ItV3dnNTc1M3Y2cmdBTElWY21VMGJwalZaQ193MWxobEJBU0Ffd0NwY3I5blhTcE5PYzBDd2tRb3VTdXlRejcyNXNOS24wbGJnWDYtQ2dxS2tmOVNadw?oc=5	未分類
-2025-07-22	韋帕10號風球｜家長帶子女追風犯法？ 大律師：可構成虐兒罪	https://news.google.com/rss/articles/CBMikANBVV95cUxOTzN6VFBDaHB4S09ScnIzblAtVzAza2QwQVdNZUVhYk1LWnRjekx3bVM1X1U1TjBWNGtNd0Jhc1hQSlA1X2Qxc3lHTTBNeGItSEc4X2NhOWtqbUdNSFRCVm53ajhVLUJGRi13aHYtcDJzaHp2LWxtWE1sa21scVpqSUo3Ti1MUUZmX3Vpd1FDRDhjS2ZUSDhKazRhaXZzdGlTTUQwZjNQLXdwUXdzSTRJTEdObjZRb1FfbmxkSjVyNHd5d2MxWkp3Q0hBUnZRWm81eUNrbmlLYWhOQjM2NGRaMzY5a1BrcVhBWEtHSFNfbGFnU2RONWZhX05fTEFDbDYxdjFlUGp2eXZhUVRvOUx6T1MyeUZTM3dCSFg3aE4zeUg1Z0FNdVB4ZldGQzdyWjNISnd2Y1hXcEltNlFlal8yaTcxRE5HN1BHUWxmNC1KVHRlVmw5UHJnVDQ2RHlIUmgyQ2tvM2cyTEl6Yk1TRmkybDA0amRWTm5vM0s3QnloOXUzZUFpTXI2aTd1cHVWc3dR?oc=5	未分類
 2025-07-21	蘇屋邨17歲巴籍少年暈倒送院亡 家中檢太空油大麻K仔疑與案有關	https://www.hk01.com/article/60258960?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-19	24歲男一號風球到蒲台島 稱無船回市區求救 調查後相信無人失蹤	https://www.hk01.com/article/60258391?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-18	加薩教堂遇襲3死 以色列對誤擊深表遺憾	https://hk.on.cc/hk/bkn/cnt/intnews/20250718/bkn-20250718075526905-0718_00992_001.html	未分類
@@ -1736,11 +1669,9 @@ var DATA_SECURITY = `
 2025-05-10	求職遇詐騙慘負債！17歲處女再被騙賣淫 馬伕「試車」性侵奪初夜	https://www.hk01.com/article/60235203?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-04-18	趙麗穎新劇爆欠薪5個月 嚴寒拍夏天戲疑虐待臨記	https://hk.on.cc/hk/bkn/cnt/entertainment/20250418/bkn-20250418110135072-0418_00862_001.html	未分類
 2025-04-14	順豐今起所有快件自取改用APP通知 停止SMS取件提示 防詐騙訊息	https://www.hk01.com/article/60229257?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-04-11	猥褻未成年遭判刑6個月！《原子少年》小孩拚復出 消失3年「現身」了	https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zcnVWejQ3LUwxSmQtem9aNkVMQ0VndGFMdDdYQm9zWERRNWQ3cnNNOXlaVlhhLWlUX05OSW9aNjlUbDJRUmhXVTRR0gFfQVVfeXFMT2w1NnUxeWdaN3FRS0Zuc1VjRjJIZVBxOXZrNThRci1zTmY0VVA2Y1NSZFZSa0JfTXJySzJDT0w5RWxhaDVuTGU5UUt3R0Z1SVpaY19fT0U0c2Iwb2lrbVE?oc=5	未分類
 2025-04-07	警旺角上海街單位搗毒窟拘6人 檢$2900可卡因海洛英及冰毒	https://www.hk01.com/article/60227301?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-04-07	移英港人疑墮求職騙局 「先入錢後出糧」被質疑詐騙	https://www.dotdotnews.com/s/202504/07/AP67f37b4ce4b0e343b0e5b564.html	未分類
 2025-04-03	將軍澳72歲男子失蹤 5日後魂斷彩明商場平台	https://hk.on.cc/hk/bkn/cnt/news/20250403/bkn-20250403113602129-0403_00822_001.html	未分類
-2025-03-25	金賽綸韌帶全斷「多次割喉」照片曝光！前男友怒揭內幕：家人不管不問與金秀賢無關	https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5NGdZZHhxbEdLWDN0OTlCSGt1Z0pRVGtjTGI1Y2s4S1FlNEZYNHdJVXIxQmotTEYzUkR4cHRvTkMySENrLWlWNW9PQWM2QlEyMXFNdFZSc2M?oc=5	未分類
 2025-03-25	西貢傲瀧連錄9宗撻大訂 眾買家被殺訂4200萬 個別劈價四成重推	https://www.hk01.com/article/60222966?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-03-22	客戶遭起底、廠房被縱火燒光Tesla股東耐性 馬斯克知衰急補鑊？	https://www.hk01.com/article/60221769?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-03-19	廉署起訴機電署2監工及1供應商 涉採購維修零件串謀詐騙今午應訊	https://www.hk01.com/article/60221189?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -1752,15 +1683,11 @@ var DATA_SECURITY = `
 2025-01-23	【推倒重來】（2）社工涉暴動及襲警等罪獲註冊局輕輕放過	https://www.kinliu.hk/news/%E5%A0%85%E5%B0%88%E9%A1%8C/%E3%80%90%E6%8E%A8%E5%80%92%E9%87%8D%E4%BE%86%E3%80%91%EF%BC%882%EF%BC%89%E7%A4%BE%E5%B7%A5%E6%B6%89%E6%9A%B4%E5%8B%95%E5%8F%8A%E8%A5%B2%E8%AD%A6%E7%AD%89%E7%BD%AA%E7%8D%B2%E8%A8%BB%E5%86%8A%E5%B1%80%E8%BC%95%E8%BC%95%E6%94%BE%E9%81%8E/60589.html?id=49&from=channe	未分類
 2025-01-16	求職陷阱！單親爸遭「賣豬仔」柬埔寨詐騙園 因「3不會」獲釋放	https://www.hk01.com/article/1093699?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-01-15	非法風箏線含鋒利玻璃粉 2男騎車「突然被割喉」 大量出血身亡	https://www.ettoday.net/news/20250115/2892648.htm	未分類
-2025-01-05	房客賭博吸毒被抓，房東也有連帶責任嗎？1情形房東逃也逃不掉| 網路溫度計DailyView | 風生活	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qUzhjU3dTeVdIUmRhZ3ctTjVEZ3pOQUtaVy1ZOHc0LS1qVEN6NmY0UHFiZm12UlpGUTR4b1JXampoSG5rNnFHeVJ3N3owa00?oc=5	未分類
-2024-12-19	直播亂象 上海女網紅被粉絲持刀入室殺害	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tX3VHTmdhT3NCS05zTzJ5NHdyWFIxVHY3eHUyRklvZG1EaUYwZUdNdDdyeHFLX3ZxOXFBUl9UVUlsUjNBcmE4b1NWSUFUS3RNWlprN05Qb0hyN2E2VEZGSNIBZkFVX3lxTE1nQ0luR29WR0dWWUpHbWxCeVljY3VaVEl6aFlmeFF6V0llZzlRNEJGRFJqdXc1d3B2VHpjY1Zpd2s0eXJjUE5JaTQ1c1VBS3AzMm52U21MQkZ5ZkZfS0hpVVVKVzhJUQ?oc=5	未分類
-2024-12-18	壹蘋10點強打｜別讓他們白白犧牲！「2024十大命案」詐騙害死母女最惡2樁滅門最慘林士傑案最詭	https://news.google.com/rss/articles/CBMif0FVX3lxTE5nZmJLTE1FUGVabkk5eUlveWExQ1o5dXRDYjVvcFFHa0kyTzlOVWdOMjBKODVzNHhmNE05SHBDOHBhbnZJT0xHdnJYT1JocTh3ZFpncU9HSWZTcnkwWGxrV29xZ0EtUDB6TmF2bjNoYl9yaVdhYWFiUkszWlZMYTA?oc=5	未分類
 2024-11-28	鄭州安置房地盤疑欠薪 工人討薪持刀殺害承包商班組長 官方回應	http://www.hk01.com/article/1080070?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-11-28	中國15歲少女新加坡失蹤 拐至馬來西亞關丹獲救 22歲華男被捕	https://www.hk01.com/article/1080161?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-11-26	元朗院舍傷人｜20歲男子遭鎅刀插頸 昏迷送院 警拘56歲男院友	https://www.hk01.com/article/1079399?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-11-19	麗都灣泳灘附近引水道驚現男屍 警調查證為40歲失蹤男子	https://www.hk01.com/article/1077372?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-11-19	特朗普稱上任後宣布美國進入緊急狀態 出動軍隊驅逐非法移民	http://www.hk01.com/article/1077311?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-11-15	毅行者2024│開賽前六號檢查站物資被馬騮圍搶 網民嘲：真‧走私坳	https://news.google.com/rss/articles/CBMikwNBVV95cUxQNWRfYThmbkkzUERrRXVMUTVXVE91ZzlzUGdNX3dYZUJkU0Q5cmFhM2lQYy1jeTkwOGQxYmpzM3gwZ1FhRk1mOThERUlseWVtVFlJb19mZ3A3XzhtV2Y1QU56WlM5NW1GTGR6YjBxeTdyaVlOMnlwZ2Z2c2wtTFVDNV9VM1pfVUZZU2ZtbkZqNU5BN2FOUVRyUnc4Slg1VVFwMUdLajVDQUU5aWdXR25kVFgzc2ZEcDVzT3hLbnNBTEwyWGhZYjRSTmE1c2xyZFdoVEVkYl9nZVp0UGp5elpqMUpSMW13cFZ3Zzg5emh0TVJocjZURGFtSFUwUnpFTEl3aVYtdGpoM1VhMUFEZF9nV1dNVEhpNTdmVzIzNXhwOWFHbF9aaVJTNjVjb0RmM1Q1UnlNSGJod1dnQW1kaEZhQTllRXVpNFpObnd0cVhLSC1rWFFsZTlBMDJ2MkMzbHFKUUVZal96NGFqbjBScVEyck13RW1IdXZZVmZTQ3RDZkdlZ2xuLVVGNDdMU2ZUWFJTYXdF?oc=5	未分類
 2024-11-15	死神來了｜男子健身離奇失蹤 「陳屍曬燈機」3日後傳屍臭才發現	https://www.hk01.com/article/1076338?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-10-23	兩港男認涉「KK園區」騙案 有事主被賣至緬甸 拒詐騙遭困籠4天	http://www.hk01.com/article/1069272?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-10-02	仁濟醫院女童縫針案 女護士及病人助理被控虐兒 准保釋至12.23	https://www.hk01.com/article/1062513?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -1768,53 +1695,25 @@ var DATA_SECURITY = `
 2024-09-21	5歲男童家中撿到真槍！以為玩具開槍轟頭斃命 人父聞聲趕至崩潰	https://www.hk01.com/article/1055310?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-09-05	上海3歲半男童疑遭生父女友虐待致死 醫生稱曾被咬到血肉模糊	https://www.hk01.com/article/1054696?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-08-26	移民加拿大港女遭綁架燒屍亡 任地產經紀活躍政商界 警拘3少年	https://www.hk01.com/article/1051044?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-08-17	快新聞／南州傳奇角頭「鴨頭」遭槍殺身亡 槍手昨夜遭羈押禁見	https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPdDcxQzZoWjJnWTVreXpfZkNLTEV0VDRCeklMSWthWlZlV0JIQjZqdmFPdk96bTQyLWRIVTZxYkY5Q3otRE1QLWUybjJYaWhMWUlHekFUZERzcEpFREtZeUNiNHBxdw?oc=5	未分類
 2024-08-04	元朗男子赴大棠農莊後失蹤 同事翌日報案 救援人員搜索尋獲遺體	https://www.hk01.com/article/1044538?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-07-30	【東方日報產評】美國黑天鵝頻現 亂世買金求避險 美國政治亂局未完，距離今年底總統大選仍有一段不短時間，在特朗普經歷槍擊暗殺、民主黨換人等「黑天鵝」事件後，美國的政治局勢仍未明朗。市場一直對於選舉結果抱持不同程度的擔憂，特別是美國債務上限暫停至明年1月1日，意味着大選結果出爐後不久，新一屆政府就要開始為美債危機奔走。到明年初，美元儲備貨幣地位、美國金融霸權亦勢必又一次迎來考驗！	https://hk.on.cc/hk/bkn/cnt/finance/20240730/bkn-20240730030031560-0730_00842_001.html	未分類
-2024-07-13	【Hello World】川普賓州造勢遭刺殺槍傷：20歲槍手身亡，共和黨大會前夕美國選情大震盪	https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2cGprN3VFZjRHU2lSYkowR005WEZNV0hWQk00cHhSMnpnYktVMGtmVXFuel96VHRONHBNT2xibDM5cEpCa1U3Vk14cUtaSkdtdWxrLWpTa09QWDg3QnpBTQ?oc=5	未分類
 2024-07-11	上嵐33伙貨尾劈45% 折實每呎11049 貨尾割喉式減價 折實呎價9800起 去年有買家2.05萬入市	https://www.orangenews.hk/property/1230417/?utm_source=newscopy&utm_medium=referral	未分類
 2024-07-07	Elon Musk遭惡意Deepfake｜3萬人見證假Tesla頻道推銷加密幣詐騙	https://hk.on.cc/hk/bkn/cnt/entertainment/20240707/bkn-20240707103208638-0707_00862_001.html	未分類
 2024-06-30	日出康城兇殺及企圖自殺案 32歲女子被控謀殺罪明日提堂	https://news.tvb.com/tc/824362-%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E%E5%85%87%E6%AE%BA%E5%8F%8A%E4%BC%81%E5%9C%96%E8%87%AA%E6%AE%BA%E6%A1%8832%E6%AD%B2%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8E%A7%E8%AC%80%E6%AE%BA%E7%BD%AA%E6%98%8E%E6%97%A5%E6%8F%90%E5%A0%82	未分類
-2024-06-28	石壁監獄販毒男囚犯昏迷 送院死亡	https://news.google.com/rss/articles/CBMikwJBVV95cUxObVhjdlg1VXB1TzFpV0J4RGkxdm5qMjNjeXlkNEp6TktILWZFWG9yRDlDNFVkeHdVZXJOcUJCVV9iRXhicGlRcm9uaXJGdXl0ZTJ1Q2ZYQ1g2bE5YZXRSdWRCYkY0LTFyWDBfcVNja1dwVUNmQVlDcTNtZFNjbkRhRExTdjRGZi1zZERlQU52c1lnN2VhVkZtTmRCa0JudEFEbzlJZVJrWmkwTFFBQnRYNUdXV2ZhX0wxZ3BfbWM0X256b0xTOHBMMml3bWJKckQ5UUJGN1IycGlFZmkzRU1QbHZKZ3BybEtNN2lMSm1VaS1LUldtX2QtVDJETElRcWM0WnFfSldlbllyMG4tcUNUZmtiSQ?oc=5	未分類
-2024-06-10	快新聞／日本大分縣商場爆命案！ 84歲女顧客遭刺脖身亡	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KWHZ6RE9mTXRENXpSMWU5Z0JKVVhoSTVkSExxTFJ5T25zd25GRzRXcHRtMnhhYlM4MVU1X2tyYlJZdGxqMVUxV3owVEZ4OUVKV0NCbnhDYTVWanZPajNxMTUxME8tdw?oc=5	未分類
 2024-06-03	土瓜灣工廈命案｜死者酒後暈倒黑工竇 疑有人怕單位曝光運走屍體	https://www.hk01.com/article/1025272?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-05-31	警破兩賊黨拘6人 4匪蠱惑奇招扮睇樓 圖趁機爆竊大埔私樓事敗	https://www.hk01.com/article/1024681?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-05-30	有片慎入 | 市長侯選人被槍殺爆頭亡 競選季已有 22 侯選人被謀殺 - 東張+	https://www.mytvsuper.com/tc/scoopplus/top-picks/world/13310419429705/%E6%9C%89%E7%89%87%E6%85%8E%E5%85%A5---%E5%B8%82%E9%95%B7%E4%BE%AF%E9%81%B8%E4%BA%BA%E8%A2%AB%E6%A7%8D%E6%AE%BA%E7%88%86%E9%A0%AD%E4%BA%A1-%E7%AB%B6%E9%81%B8%E5%AD%A3%E5%B7%B2%E6%9C%89-22-%E4%BE%AF%E9%81%B8%E4%BA%BA%E8%A2%AB%E8%AC%80%E6%AE%BA	未分類
-2024-05-12	悲傷母親求真相！中國校車事故女童慘死 官方刪消息引眾怒	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FZ0pwVEpCdndnQ1NIYm9oWkRtYm9udm9PUmdzZ1MyTVB1TG1yRHYzVENmYWZxcUwxNWo3TEc5Y2U4dVZsM0c2eVhxdmkxaFhKczdIZWk2LTItcmN4Q0dyNmdxTnRld9IBa0FVX3lxTFBkdHluU2R4QTAxVlZfUUVGbUx1c004TnhIOWFhLUVqUE5kUklGTjFNZWFnVUJSS19oNTRQdVVEYkh4OC1JVi02cEo0dGp3ZjNoZHlCN010WmM5clJKR1BwdVctbTZWRlI5QVJJ?oc=5	未分類
-2024-04-30	嘉義警躲摩鐵吸毒！分局揪「自家毒蟲」送法辦 2大過免職	https://news.google.com/rss/articles/CBMibkFVX3lxTE40SktGVHRtY2VxMHJuYjdONkRDM0lMelZndXFlNWsyUHplaWRqUWRuTFZCUWJYWF9WTjdUT0ZBRHRhVEFuRUJTVnZ3Ni16YlNoSGVtQ2ZBdXZ3TWRfTlZQSDc1NEM5TWdwMHhxdjVn?oc=5	未分類
-2024-04-11	進屋不到3分鐘！台中大雅縱火釀3死 林男2樓跳下唯一生還	https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rcGYxdE8yX0dpQ004Zmc4QzMwYzI1clp5QjJ1bEJPN091WkpVYmtqU0xaVzRTUnI5c0hMdlJxN2d3ZGVmRFctNlhpRU9uYTZPMjEzTEJsbnluaUV0bWxKaUF2aUdsWWY50gFuQVVfeXFMTlREZGJHZTNWY0JfeFJKSnJZSlFoVXRfLVVXSTl2Ry1ob1A5X0dycThGLXJKS1RsTlVRSFZsZHdJM3YtUk9rd2E5S3ZmSVBlbXZjUEk4cFRYYndQMDhhYy1YZFplNUxpUTM4T3VJZ3c?oc=5	未分類
-2024-04-11	台中大雅惡火3死！男疑不滿房屋點交縱火 買主姐和律師無辜喪命	https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HS24wSVJIaUI5a0pHMUZpcC1CRXlnSThhaHE3VWNVYVVKRnUybjVrOEhLdU45b1p0UThsd3lxa0FYNVoxXy1wMWR2ZkNiY2ptRWl4MFRScUFtVjR0UkhmZDdrMmJvT1VO0gFuQVVfeXFMT1RBTUNDOVF2N0MwSWxVdF9iZnZzd3cyaHF0ZXR3TGpmbG1oci1WWmlRYkRxMlNINXk1blBaZlc5Yy1neHl2d1VEczZ3ckhjdWp4VjJMNTZkWXV1TFlWaEF3LW1jVDFiNElwZW9QNlE?oc=5	未分類
+2024-05-30	有片慎入 | 市長侯選人被槍殺爆頭亡 競選季已有 22 侯選人被謀殺 - 東張+	https://www.mytvsuper.com/tc/scoopplus/top-picks/world/13310419429705/有片慎入---市長侯選人被槍殺爆頭亡-競選季已有-22-侯選人被謀殺	未分類
 2024-03-26	4歲童浴缸暈倒 母涉虐兒保釋候訊	https://paper.hket.com/article/3731388?r=cpsdlc	未分類
 2024-03-24	九龍城虐兒案｜38歲母替4歲女沖涼中途離開 長子揭胞妹暈倒浴缸	https://www.hk01.com/article/1003625?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-02-08	失蹤10天 車內找到遺體 卓家希證實死亡	https://guangming.com.my/失蹤10天-車內找到遺體-卓家希證實死亡	未分類
 2024-01-26	垃圾徵費｜防物管趁火打劫 環境局將設指引列明大型家俬收費詳情	https://www.hk01.com/article/984837?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-01-23	美芝加哥連環槍擊案釀8死 兇嫌與警方槍戰後飲彈自盡	https://news.pts.org.tw/article/677725	未分類
-2023-12-30	【2023回顧】氣候殺手和街頭暴力 卑詩年度大挑戰	https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZHoxOHNFcVFOcm9wdHhMazQ0UFJScnVHRXBPdkRpZ1VkZlBHOFJQVENZX0tRR3ZyV1FtbGJabEFDSWtldHVFWDRTZGh1cXJ1c19zNzhTRlVIMlEtOUEyUjFiNUF1NmFSNjEtOTd4U1NsSEl5RGZhZU1CbE11aTY5dlNoTzVPWkFkS3BHYUtDcnJpR05tTkdEaHNpbE1pS0tYX1d0MW5LR0NldlA2T1V1bDFpdjRFdlljeUVrN29RLVlWbkYydll3V2xLMWUwaHhCNGhXUWNQaFRjRDhEOHA5Q05kd2tOMUNlTVdTSXJSaTBXRDFwVjJNbXVwUDlOcl9jV0Y4ZWVwdU5sRmRXMzZ5RDVhcUJnaXZTVWxoUFN3S1JrU2VzWktNcUY0a1YyWkIwaXYtZjJfa3pqdWtGM1hRSkFxWmlCb0NKVjNqLTdhYlhxWmfSAYwBQVVfeXFMTzlRT1JxYzBXOHVMY0xZdzVuVThPa0VmYmJLWnk1R1dCeVlMQ05DZUNPT09JMWpHOWNPZDREMWlDcmFTdHQ4QVBLeW9rbDBtS3hSb1lhRXRoMlJ0QWUxazRfMGhGUXRmdzA2ZVZhaU1rN1lLWHljeU1LV3I3MFdtQ0JYZXUwLXFZRkhiN0E?oc=5	未分類
-2023-12-27	割喉案被害國中生搶救不治 行凶學生不排除改以殺人罪送辦	https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0S01OaTN3Nm0xV29TSFlvS25nMmJXcjNMeURuYkF2VFF5R2wtV1d5aGxST1h1YzVyUDJRbGhHNGNJMmc2VlQ3b1IyYW5HMjljT2x2bDdTbkhFMkxiOWNrblg0OHRmM1Fo0gFuQVVfeXFMTm9vNkUxcTNJdDlLVVRoSlR6YjRVbHpNbXNfZHY0ZFUxRFgwbE5ieDhmblAzcGpsUlJuZ2dvU2RhRW1rVGF1QWRUQlFmNnVTeUNwcGZyWFNNQl9wdFk2Z2k3SlpSRFZPczJ1UlM4eUE?oc=5	未分類
-2023-12-27	內地碩士生交友App應約粉嶺圍派對 被2男注射冰毒後死亡棄屍空地	https://news.google.com/rss/articles/CBMipgNBVV95cUxNVmVoLUZZTE8yckRCdDJhZGpSTWFfd0JkaEplWXZyeGhJU0JlbzJMN1U0UkxVU0JzLVhGWl9IeXpGUWc0a0h3M3NheDRGeHBockVQczQ1b19vdkFBcHh0RVozcWFMTnBlTEhxbllDSGNsWXh3M3BpRU9NcGFmYXdPY1JVc0hqOU5fTXFla2I1UDZxMkJ2MV9aZDFQeExCUXJXUVNvR0lkWHNUNWI2RWtjLV9CTVNISG0yUXNHU0RVQ2FqMWk1WEE4RWdVekNaaWVmSnVUTWdpTTV0c01UQ0lvLTdmSjRYSkNZOE1pcWNhbE1vRnVhXzNUa3FFTGZSWW5SMnBCdkUycEU2YUNMTVRVN2NoVTRVdG1kRFMzMHpnZjRicy1mcm1hellTMmZ6cDRjR2RVTVppM1JkMDRYZEZqbTl5R2E0T3BXTzR5OFhta2tvbURyVlZvc3lRQ0RPX05EdWhmYk9GRGpRZldJSU8wRkhaaTJyejBjeU1lWVA0M2xxak5BR1pyNTN3Tk1QOTRxbXVEUGZWRXktTWpXR1lwU3RFcjNyUQ?oc=5	未分類
-2023-12-27	《寄生蟲》男主演車內死亡 此前陷吸毒風波	https://news.google.com/rss/articles/CBMinAJBVV95cUxOYTZrV24xbm0ydktncEUzU29VcUdzcVYtXzJ1OWs0cUJudlBFNkVNaTZna0thbmFZa2Z4LUFkdWxvc1AtU3ZlazExTjhyejJKc0dCOHJhSlJqVFVZcVhmUUpzSmIxeUFiY05NY3VQLUVuem15a3JFbGlZMnRYOHZnYVgydGhVUy0xaGpzdVdTTjg2cnM3c25TRjEzX2pjam9MRVNCY05WQzhiT2ZrbmVYMF9vWEdfeC1xS2ZOdHAxOHdZRV9hRjF5V2Z3THpTTVdPbTRxaGVzWUJCWmY1TUpRUUdGMWo5TEprY1FTb1Z1ZVpOdWxrUWdaX3U4dDZXcVoxMXZEU0VhVFFwa2l3anY0eW5mR0ZTXzdKVERlSdIBnAJBVV95cUxPa21NSTI4THlDaV85Wkc4V0ptRUJsdEZzUTZvYUZWbk0taHVBRk5sbzBUbjh5aDl2bEJ6WHg2bjlMSk83RmtoRS01R1FNUFV3Wjh6NDcwYWR0NkhGMG8td3hnWHluR2VjRVJ1UGJHRk9QT1JFbXhSbkJReFV0azF0aHNPdXd2bDBKM3R2OUpick4tVGdiSjk0eEliM2RJYWsxUlc2SlI1bnRGdVpvRU41OTl2a2xPd0U1bVJXTmptZ3hrU3FjOUxlck5WNGxoUWVrMDhmSWZxQTRCRnFDUmJMdUxXazlUZlY1YkNBeFZCRC1HQkFWLVRDZG1WT294cWF6LXhUXzF3Z09hclpHb3lqcjdMaDYtVEJIeWdrbg?oc=5	未分類
-2023-12-26	壹蘋10點強打｜2023十大命案！5億高中生結婚離奇死 富二代為6萬弒名師姨	https://news.google.com/rss/articles/CBMif0FVX3lxTE8xeEZZMTBPd1c3bkxucFh5MHdUd3ZKdGVuc0xjSHpBaXVWdmcybVFGU2x3a21XY0NrWFpXQ2VwVmNpdXU1cW1Id2wyc0pRaTlvaThPVzd4WnlmaWNQVGZ5RkNRVEx1ellrQWdjYnJhMm5CbUJNcjdXX2RmX2RZeG8?oc=5	未分類
-2023-12-07	親俄前議員莫斯科遭暗殺身亡 基輔承認動手	https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3WDVrTWlXSzNCX3NueE9sM3Z1dHJZajIxMDM2R0hJcmRSbWJaM1luSGZocGpJOWJOMzhtWXlqUmhSNndZcmF6X2VQVG5pQ1BobV9EVDUyYkJOWHlQOVpONNIBZkFVX3lxTE5NMXU5Z3ZaQkVWWjIxNVBmREpNYjRRWFlka0hldkxuX29JOHNySTI5SU5CRkNmTUZKelRQalJwOW5RWERIeW4xdUZrX1BoTnI4VWUtWVJ6YjdXSTU3SUJRdjhVbmxXUQ?oc=5	未分類
-2023-11-28	60歲廚房工40年前強姦13歲女童 判囚7年	https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3U2RuTkZmX3JBejltWFhLSVRVazZTRlRXanB6Vm9iMTFaVVlLM3YyVFNMX1g3VVYwQlQ5WXgwMkpMTWstNVEyWHhlODZhT2tOWnQ3LTFjcGxyWXRRUEdoeUdB?oc=5	未分類
-2023-11-15	【錯誤】美國海陸司令遭哈瑪斯狙擊？頭部中彈？杜撰內容！並未前往加薩或遭狙擊	https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmcVQ5OEVETm0tTkdDM19VSU5icURSV3AtVHVYdm1VZ1BjWmtCTndWblFZQ1FBMFA4VFprUEV2NUFNM0xYLUVyZUJscjlpN0U4dE9WQkswbWNyLTA?oc=5	未分類
-2023-11-14	遭爆動作誇張、講話模糊全因吸毒！GD首出面解釋「7大質疑」：其實很傷心 | 古靜兒 | 風生活	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ya2tyNklzNGRRY0F6VUxJSl9yYVdDREtMYlF6Nnc0VHMyVXByWl9Va2NiLWZuUVFSbGdKSUlod0FXQ0RmdlhTclNPMFBVd28?oc=5	未分類
 2023-10-26	知名潛水員失蹤逾半個月 遺體打撈上岸	https://hk.on.cc/hk/bkn/cnt/cnnews/20231026/bkn-20231026091922043-1026_00952_001.html	未分類
-2023-10-08	西藏希夏邦馬峰雪崩，兩人死亡 兩人失蹤	https://news.google.com/rss/articles/CBMiuAJBVV95cUxNc3ZiMmhFdXV3ejhBeWNXREJEeTUtV3hsTl9CSUlQcFFYVkI2cXNJQ1dhdlRRb2Y3R3lscXVUZVkwTG4wakVrY1kteDZhNVFOeDlDMVo2UHFIN21EZTFSaEJwMUNNZDNNRS14UzhfemhYaHIwV2hYVFYzRE1ISXppSm5YbGJNSGhIc3czTHVCUFNYYXdlREZ0a251RkstWVU0RkhJVjdwRnV3TFFvVm1MQWQwWHJjd054QWxfd1lKY1BNTGJMMEZFcHlKcEVDTjE2NEkyYlZWNDQwNHNHc0VYQjNsRnBOQkJaT2VNNmN5WHVDeEhkZlVVay1jWkM4UHJyclRYa1VfR1o2eGtlcWtXckJZVjhFZjNESHUyTWxMU3RQdDBNMFVxYk96Y0hvNWhmQ1V5WjNTQ18?oc=5	未分類
-2023-09-06	大埔太和邨命案 一男一女身亡	https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tN2wzbnJySllUYmJLSkoxd1MzUlhFdGlhY29wdmZCenZneHIzQzNKNnVQWk8xNFFwRzRhMUFvSGFSR2RJenhmS3NBRVBYOUtVZlozOFVOV3REY25HMXpNeFdR?oc=5	未分類
-2023-09-06	大埔太和邨兩死命案 舅父疑因業權問題殺死外甥女	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuallPNXN1Q0dyN3NQS2FybmlMTDI2UHctMEF5MWxXMFFaXzhZdDZsUDh2SlBKTVFRUGhORnZTSzEzTEV1VjhkWEJtRlVtcUJiekdOQ0ptcFlQOVlicVdsVHBn?oc=5	未分類
-2023-08-31	有片| 61年前「溫黛」襲港釀成183死、388傷及108人失蹤- 東張+	https://news.google.com/rss/articles/CBMigwNBVV95cUxNUDlUQ1kyYXZJTnk3UVBJRldCc1VETGliYVJBMlVtZHJwOUQ3LWdTSjh5MVBUOGltT1g1dl9TeWJ0alJlOHlmUjhJUFVLWlp4am1GOVBfekNZYWVyVUdzZnY1OGFJeUhPOVY5OU5qc25XZVNYNTJ2dGhod0tSelFQZ05vWnhCVWd4T2dXSUQzTE9YQVRBeDlPeC02WFF5cjZrTEVxNFlDRUIxUldZSkl3bWRrZFRtLXRuSFF5alAzVzFqVVJBV2ZzcVJUS0ZHdlBnUTBlUGpZRjd5dC0wdmwyUmQtaEFudUtIYTNoeWMwY3V5ejdaaDZiWkNHQ0hDSm41NWMtc1NrVWRkTHZ4RjFEYzlEQjk1LURHeUhENzk2VzRNdG9kUTBzUHpWRG5raDR2WmNDR3dLdE4xNEpmajVzbW8zTzI5YVR4elRtdXpkYXZhUXZrVWhyajJtVlE2NGZ0ZlcxMG9HeGtrS1JNbUxHVjMzZ2c0VExYVUdud2JMYVpxX0U?oc=5	未分類
 2023-08-27	【失蹤】57歲男子上周黃牛山行山失蹤 昨曾致電家人指身體虛弱	https://topick.hket.com/article/3600971/%E3%80%90%E5%A4%B1%E8%B8%AA%E3%80%9157%E6%AD%B2%E7%94%B7%E5%AD%90%E4%B8%8A%E5%91%A8%E9%BB%83%E7%89%9B%E5%B1%B1%E8%A1%8C%E5%B1%B1%E5%A4%B1%E8%B8%AA%E3%80%80%E6%98%A8%E6%9B%BE%E8%87%B4%E9%9B%BB%E5%AE%B6%E4%BA%BA%E6%8C%87%E8%BA%AB%E9%AB%94%E8%99%9B%E5%BC%B1	未分類
-2023-08-24	慈正邨一男一女命案 警列謀殺及自殺案	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yRjVqWkI4MmFyYlgzMFM1UXI5UG9GUTdBZklsVUNJTFZ6bXBDWnE4cV9yOW5hMDVHVjRfMEVBSnpYeFNRVFg0cUZLRjZTTVpaTlNMWmdMa3l2M0RKUmhOdFJn?oc=5	未分類
-2023-08-23	慈雲山慈正邨命案 一男一女先後死亡	https://news.google.com/rss/articles/CBMiYkFVX3lxTE82TXpCVnJEdkRpSW5HekZ3XzkxM21KLWRCdk1GMlE4cnY0cG9EYVBnS2Y0QkZ1T192bHFVRFFZbGszUXZRQmxkWkY1RUtXY2prVnNYMWFhVW9iQjVLc3RIOEpR?oc=5	未分類
-2023-08-23	希臘山火釀26死 其中18具焦屍疑為非法移民	https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hcWdFXzZyRG9mTnJFNXc4dV9ZUi1YZTJXQzZlZ0ZXWVJXRHR5aUVXZkVaRlBkUVFucWRBb1E3cWNwYm45TEhvUnhCLW1nTlVBWFM4?oc=5	未分類
-2023-08-15	雲林民宅疑遭縱火 21歲女及5歲男童死亡	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzSmJVeV9wbENjc2p1N1RsZ0FDUHREZUJ2dGJTLVNoV1dhYVIxQUlTU0tOTVdtZGtQRFA2OXh2M21SeWFNM0lDdXZENGM1cDYzZ0d4S0tiOUQxZXEyRlJVUGhMQy1yYkox0gFuQVVfeXFMTy1tMlRadkRSdlZJZ0JpaHpnNGlmT0lNRXk2TmNhN0FQbnI3NldEUmlraThWRjBxaklIUWppWlRxb1pFVDJXYUZTcnpKVllfanhvRE9FWlBqeHRKZ3hPY24yX01uZHA2WnpGd3l1ZFE?oc=5	未分類
-2023-07-17	業界指有條文已列明吸毒死亡是不可獲得保險賠償	https://news.google.com/rss/articles/CBMi8AJBVV95cUxPWTJubGxRcEcxaFFnWTJTZTV5bWdXX2JHSnJwSm16Q2VhbDNOckxDaGp6U2NVR2lLQjJTWEd0NVVEb3NVUlhSdmFtcWJZMmktSXFVZ2FCbVNSUURLSFFzd1dvZkJucmR2ZHhCSkttOEFmTHdMNFB4MGxoM0o5bnU3ZDBkcVhxRkx1azFjV1UzelVTWWFETmEtU3VaQi15TC1GMjFrQ1dNVk5lV2lTTlAwSXRHQ1BzMlVZVFNzUlByWERKV3F5c3FpOERkVWh0dDdGaWpFNnZqa0JsNEcwaUZKV01UUHJBV0NXdUFnaUdFTkZwdVBHcWxnajlEdGhtNDA4eEVsRWZVVTlsSWZYVWJtQTVJbWZLby05ZVhhOUtPaVhZcGlEZFV1bm1fVlcyR3o5TjVVODRHeVBDcWpJOWpPMUJGeGhfdDJsRVFkUmNLZ1JLN2tMVFZiTmEzaGRfVUl6dTROMGlON0dwLTFteUlJdw?oc=5	未分類
 2023-06-13	浸大疑遭勒索軟件組織入侵1877名師生職員資料外泄	https://www.wepro180.com/正在調查｜浸大疑遭勒索軟件組織入侵 1877名師生/	未分類
 2023-06-10	華爾街面臨又一大麻煩！美國政府最後一個AAA評級也將不保？	https://hk.investing.com/news/stock-market-news/article-387616	未分類
-2023-06-08	傳瀋陽搶攤位當街砍人 一家三口被滅門（視頻）	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZWRwemtTdWkwV0tDWmdhS01BN2FySWVueDVKLURDNWNHY0RDYTVkOWZ1Y1ZZM1ZRUnBudlhsbGdiLXpEa3pfV190NlZpVzd2eWhSR2ZtRE1lSXlKUzNtNdIBZkFVX3lxTFBMeUU4Q24zSjNfZjhCd1hvM0t6aFAxWHV5bW9LRUpHSkhZS2tXbnFmMHFNdV9XOFpYSHFnczV1QlBQT2E3RUpEdjhjVE94Z0J1cmx5TU5RODhwcllKZDFteFlNa3dDdw?oc=5	未分類
 2023-03-11	SVB｜聯儲局加息竟「殺死」矽谷銀行 十家潛在銀行恐步其後塵？	https://www.hk01.com/article/876215?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-02-21	六旬翁田灣失蹤 救援人員通宵搜索 香港仔水塘尋回遺體	https://www.hk01.com/article/869341?utm_source=01articlecopy&utm_medium=referral	未分類
-2023-01-26	美國大規模槍擊案飆升 驚人數字背後的社會深層原因	https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WVElNYndya3NfX0xHN0VDbWZJU1QzLVZQa2YxT2g3Tk45dFh0N1dtOGdzMkVWUjFzOS15ZG5pWkdKSmU3U3RzUUNOMWVSbEM3WEJLb084R0N6SUd00gFiQVVfeXFMUHkxNVZYa3ctNHV0d19ONjdialVQRG9GQ1dhVEhEcVlQblgwNTQ0aElzRnVBOXVpUkVPemgyWU10WkRjdFRSS2lURmh0dHJzVkJraGp3YUo1XzRxZWtxZDNIdUE?oc=5	未分類
 2023-01-25	有片｜坪洲開槍警調查期間突暈倒在地 中槍43歲菲漢涉襲警被捕	https://www.hk01.com/article/860517?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-01-23	犯罪率上升、遊民問題增加 大通銀行宣布紐約部分區域ATM只開到傍晚	https://tw.news.yahoo.com/%E7%8A%AF%E7%BD%AA%E7%8E%87%E4%B8%8A%E5%8D%87-%E9%81%8A%E6%B0%91%E5%95%8F%E9%A1%8C%E5%A2%9E%E5%8A%A0-%E5%A4%A7%E9%80%9A%E9%8A%80%E8%A1%8C%E5%AE%A3%E5%B8%83%E7%B4%90%E7%B4%84%E9%83%A8%E5%88%86%E5%8D%80%E5%9F%9Fatm%E5%8F%AA%E9%96%8B%E5%88%B0%E5%82%8D%E6%99%9A-073156480.html	未分類
 2023-01-19	極恐怖！行李篋驚藏男屍 被斬成7塊裝箱棄路邊 警調查揭身份是…	https://www.hk01.com/article/858270?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -1855,31 +1754,24 @@ var DATA_SECURITY = `
 2022-12-12	快訊／北市大同區驚傳命案 中年男墜社區中庭當場死亡｜東森新聞	https://news.ebc.net.tw/news/society/348003	未分類
 2022-12-08	深水埗警掃毒品黑點 拘9男女檢海洛英及百粒「藍精靈」市值逾100萬	https://www.singtao.ca/6112438/2022-12-08/news-%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%AD%A6%E6%8E%83%E6%AF%92%E5%93%81%E9%BB%91%E9%BB%9E+%E6%8B%989%E7%94%B7%E5%A5%B3%E6%AA%A2%E6%B5%B7%E6%B4%9B%E8%8B%B1%E5%8F%8A%E7%99%BE%E7%B2%92%E3%80%8C%E8%97%8D%E7%B2%BE%E9%9D%88%E3%80%8D%E5%B8%82%E5%80%BC%E9%80%BE100%E8%90%AC/?variant=zh-hk	未分類
 2022-12-07	元朗警搗酒店房間檢40萬毒品 拘3女涉販毒	https://www.singtao.ca/6111012/2022-12-07/news-%E5%85%83%E6%9C%97%E8%AD%A6%E6%90%97%E9%85%92%E5%BA%97%E6%88%BF%E9%96%93%E6%AA%A240%E8%90%AC%E6%AF%92%E5%93%81+%E6%8B%983%E5%A5%B3%E6%B6%89%E8%B2%A9%E6%AF%92/?variant=zh-hk	未分類
-2022-12-06	淡水「塵封命案現場」求售 網友開幹：人坐在馬桶上沒退租賣啥	https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUg4OWJ4eDZLejlrcnMyMC1nMFQxdUp4VldYSElWejNjU0dNTXBiVHRBb3ZLWGNlYm9EQ0FMQnkzS3o5dGhmbnZQRm95NmcxZmFWU3kxUFk3UnJVZk4zVGhlanVnaDdpWm5USHVMYXVwNW9KNklDVkw5NUg4VVBLZWxCUQ?oc=5	未分類
-2022-12-05	毒蟲爬窗重摔地面亡 吸毒遇警臨檢	https://tw.news.yahoo.com/毒蟲爬窗重摔地面亡-吸毒遇警臨檢-111029774.html	未分類
+2022-12-05	毒蟲爬窗重摔地面亡 吸毒遇警臨檢	https://tw.news.yahoo.com/%E6%AF%92%E8%9F%B2%E7%88%AC%E7%AA%97%E9%87%8D%E6%91%94%E5%9C%B0%E9%9D%A2%E4%BA%A1-%E5%90%B8%E6%AF%92%E9%81%87%E8%AD%A6%E8%87%A8%E6%AA%A2-111029774.html	未分類
 2022-12-04	深水埗警區「犁庭掃穴」打擊三合會 接線報拘一男檢90萬元毒品	https://www.hk01.com/article/843321?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-12-03	海關機場檢獲850克懷疑可卡因 市值約73萬元	http://www.hkcd.com/hkcdweb/content/2022/12/03/content_1376283.html	未分類
 2022-12-02	黑幫操控18歲青年販毒 租用荃灣工廈作儲存倉 警檢50公斤可卡因市值4300萬	https://www.singtao.ca/6106563/2022-12-02/news-%E9%BB%91%E5%B9%AB%E6%93%8D%E6%8E%A718%E6%AD%B2%E9%9D%92%E5%B9%B4%E8%B2%A9%E6%AF%92+%E7%A7%9F%E7%94%A8%E8%8D%83%E7%81%A3%E5%B7%A5%E5%BB%88%E4%BD%9C%E5%84%B2%E5%AD%98%E5%80%89+%E8%AD%A6%E6%AA%A250%E5%85%AC%E6%96%A4%E5%8F%AF%E5%8D%A1%E5%9B%A0%E5%B8%82%E5%80%BC4300%E8%90%AC/?variant=zh-hk	未分類
 2022-12-02	登山客發現風化乾屍 揭死者已失蹤1年	https://hk.on.cc/hk/bkn/cnt/cnnews/20221202/bkn-20221202010002029-1202_00952_001.html	未分類
 2022-12-02	灣仔縱火兇案｜大廈斷電逾一日 民政處設臨時庇護中心 fire	https://www.hk01.com/article/842817?utm_source=01articlecopy&utm_medium=referral	未分類
-2022-12-01	大角咀謀殺｜癮君子遭淋腐液斬死 曾涉「白粉麗」殺人案獲保釋	https://news.google.com/rss/articles/CBMijANBVV95cUxPRjRvLVFhU2NCNHQ3TmdIUDRycWh0MXZleUhqRmFDWUpQa3VkN3czNzlGdnY5TG12SGtQVVlYUEhYTFJHbHdGenJwVmFuWXlNT3FTVVdfXzUwNThvSnJHbXc4aXlQMFdsME5odEk3a3FZaGotVy1NWjhqYWFuSnNMNjlycnZDUHRmN2lCSms2VV8tUng4dzVWcjdJek1HZmU3dzFMVU1zSVVEQmVxd3FaLXNENHhFdEF0bVp4Tm5CY0NUeWNXRnNOZXZRMVpQZ0duZTBrUEpUYjhFcXJvUWdEWHVaaHhNRTFFWjFhbU1iX1AtdVhVd1Btdk1ZN0ZHZWhiTGdwa0o4ZEJHTWpDdk5BRENRc1JOSmMxUGFPV2RxZVBoblp0TnlrWTFkVHRCU0M5YzFRSGxsb0ZOaEtNU3oydmtSN0JiSmxkR2l4bHJPZE5oRmVyWHU2TnZsUnVVa2U1UHRXN3NfUUJKdjdtRGZZS2hKVng5ek9POFc1dlhzemVHV0FyNHR6RkJoQUw?oc=5	未分類
 2022-12-01	世界盃｜伊朗示威者慶祝國家隊出局 傳1人中槍身亡 conflict	https://www.hk01.com/article/842314?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-11-28	意大利伊斯基亞島山泥傾瀉 至少7死5人仍失蹤 Rainstorm Flood	https://www.hk01.com/article/841101?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-11-24	俄再空襲基輔.出生2日嬰兒亡 烏平民助攻暗殺俄軍 conflict	https://news.tvbs.com.tw/focus/1971585	未分類
 2022-11-22	海關檢6400萬枝私煙市值$1.8億 今年內第二大宗 涉「二次走私」	https://www.hk01.com/article/839170?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-11-21	越南抵港貨櫃藏$1600萬毒品 調味包、護膚品作掩飾 51歲男被捕	https://www.hk01.com/article/838887?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-11-21	走私紀念版貴州茅台等烈酒 710支市值$460萬 海關搜出充公	https://www.hk01.com/article/838843?utm_source=01articlecopy&utm_medium=referral	未分類
-2022-11-19	秋冬獨自行山失蹤死亡率急升 當局籲下載「郊野樂行」程式助追蹤定位	https://news.google.com/rss/articles/CBMiuwNBVV95cUxNdGdPeVVIRUplY1g0RnhobzlxMlRvWHYxTDd2RHF6TzlGSkFabHpzQ1c0MG04dFdkOWdNYktic2pPcGVHN1dCTnBWamQ3aF9DNmtVRTk0dW5WOVJQaFMwSHllOEpPUDBYN1JQOXZLTW5zZXBudjN6Q2RsYXQ5bkF5bGdpLUNDZmQ3ZURCUlR3ZFFITWNNNXJZeUNqV0hOdTFaTkxJMEV0a0g4VEtNazhXSnlmZmRaM29yaUlUZV80T0phSmhybjVVbWUxc2lsQ25RYlR0TXIwM19UN2tveVpuTzFER3lyUDhqTEUyNWRjVTJMLTBiNUdmWEVuY2ZJTDB0MTFxR0VxbG1MRkdwNXYzRnRlalVpdTZoS21mRl9iNmViLVZwcC1mS2RaazduUHJ3RTNELU45UHR1UldRSHFPVVlxWjFBeTBTX0tabjlhRXZVUUVORmYxQnFpeXZhX3FTeVV6S25QeDh5SkRVRTJ1YUF2dlVyRmhxS2N1cUhveF9VdmRXekdWQklCdlltQkpjdlphX1pKNUlQRENDRmdydzZvbnMzMnJzRE8wb19pTktPd3RNWUZVY29ETQ?oc=5	未分類
 2022-11-19	O記巡查西九龍多個娛樂場所 拘21人其中5人與多宗傷人案有關	https://hk.on.cc/hk/bkn/cnt/news/20221119/bkn-20221119095733596-1119_00822_001.html	未分類
-2022-11-12	興南夜市旁驚見男屍！翁失蹤2週 竟卡超窄防火巷內身亡	https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyaFlyRzRuSDh5Sk9uam1VOFB2VlpXZUpnSEZRODZNR2t5QlRuUk02WFFVWTlEVHpqLTNCVnhkQkpwMkY5MElIWGxXWlV2SlRKYUxnTmY3TmdBRUtEbG4yaHNHSkpoNVlk0gFuQVVfeXFMUGhQS05NYVdFYlkwWGhjRTF3Ql9RUUxwcUhYVTkxNkZkZ0h6N1lxX05LSU1ack5tYTdmRFcwOUIyYldVeTI3UFcxYXNuSnE0MzZoRHNZTW5oTllJbHd0bXJMV2Y1NzFmZDdmcUpIOVE?oc=5	未分類
 2022-11-12	的哥昨日灣仔失蹤 今被發現伏屍的士車廂	https://hk.on.cc/hk/bkn/cnt/news/20221112/bkn-20221112113515866-1112_00822_001.html	未分類
-2022-11-08	陝西男子故意殺人 致7死2傷後跳河自殺死亡	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGNEluYmtra3Z6Q3loUDhMVWhlMEpEQkFOVjRrVHFyME1PbjEtNjJhUzNiZlNPR214UXlzV0M3aElneFRTQXNZV1hQWkcxVVRLRG1vNW9adUV2STd1TU1RZtIBZkFVX3lxTE96Q1FCUTdOZExmUDlabHBVbm8wUWRHYzlRSnZEWHFxSFNKek81bk9oc1FXenhwR3NlaHA3b1ZlVVNfbGFYTTRHUlI3MjAwb2pITGhoSGpVd3dmNmxUcTJxTE1oeUs4dw?oc=5	未分類
 2022-11-03	沙灘驚見全裸女屍 家屬曾通報失蹤	https://hk.on.cc/hk/bkn/cnt/cnnews/20221103/bkn-20221103072147401-1103_00952_001.html	未分類
 2022-11-03	丹素華盛頓新片有員工死亡 警方突擊檢查搜出毒品	https://hk.on.cc/hk/bkn/cnt/entertainment/20221103/bkn-20221103110133427-1103_00862_001.html	未分類
-2022-10-19	未成年嗑太多猝死！警逮「電競直播主販毒」 搜出116克大麻	https://tw.news.yahoo.com/%E6%9C%AA%E6%88%90%E5%B9%B4%E5%97%91%E5%A4%AA%E5%A4%9A%E7%8C%9D%E6%AD%BB-%E8%AD%A6%E9%80%AE-%E9%9B%BB%E7%AB%B6%E7%9B%B4%E6%92%AD%E4%B8%BB%E8%B2%A9%E6%AF%92-%E6%90%9C%E5%87%BA116%E5%85%8B%E5%A4%A7%E9%BA%BB-053549033.html	未分類
-2022-10-19	23歲女遭大型攪拌機卡住慘死 黑心企業5年37宗意外冷處理惹眾憤	https://news.google.com/rss/articles/CBMimwNBVV95cUxQd216RXNLcTk1N3ZvMldLMVJYR3FFaXI0WVdoQVlCRmhhcTU2WDdkVkJ5cnFCVUlDUGoyZ2ZhNGRrUkZFa3RtOFNVMkxsanVBX2wyLXRwNFluQ0NpREpqalloVFJsMGMtZEZxU2F4RVlnQVQtOEVmcVExVk84VWpvV3BwaEYwRjlYQ0ZKT2NQdnZMb0d4YmExSDdXbzlwSWVLaFZhNnMzOWtmTUNsMFFXQXRPQndSZHpOcG51NmtMVFlvak9hdGZOOGtNMnhxOElRNmd3U0twT19TMGhnOFNSbFhFdHhDWjdZdjE5TE8tSE03eGhpZGw1QlRDY0ltOGVfVHZ2cWpYTDZRQ2xXYXdKQWs4c211OGVtNU5IX3BwdUFyaGlGTGl2NnZOV1g1dThCc2lJaVZyQ243bGVwaWNHb1FtX0ZVbHptSFNFUHdmU2lTVWl5a1ZGeWI4U3dlTDUwd2haU2wxbFZsNVBLLXJPclI1ZlI5elo2Q2lPTGc2YmZpcHg3Y2xYWFBxOXFrUFV3dzE1UGgwbTNSS00?oc=5	未分類
+2022-10-19	未成年嗑太多猝死！警逮「電競直播主販毒」 搜出116克大麻	https://tw.news.yahoo.com/未成年嗑太多猝死-警逮-電競直播主販毒-搜出116克大麻-053549033.html	未分類
 2022-10-12	元朗公廁內一度暈倒 消防破門檢針筒海洛英 尼泊爾男涉藏毒被捕	https://www.hk01.com/article/824732?utm_source=01articlecopy&utm_medium=referral	未分類
-2022-10-06	泰國突發托兒所槍擊案 至少36死 疑兇槍殺妻兒後飲彈自盡	https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkFuMnlDZG1EdEM5UnBqRnNtN3ZZXzlQUFpFTmFkN29zT21oVFJQYlJWYnUwbFdiSXdCaWN5amlLbU1zNkNWd3REU3h6UVMtOXllTXlzQUpPbkdkTmpQYWlFQk5ZRkxaWGwwRnVPZmx5VkZmSnRjRllaZnVyTlBmNWJhc3ppQ1ZBSGk3S1QyQmpkS2R2OVgyTGRabW5jTWFhTWfSAaQBQVVfeXFMTk84OGl2Q21NTFhjeEU1S0Z4dkxJU1dmSGNuV3FORVNmeVlDSFNMMmI5Smh5UDZiT1NxT1A2VnI0VHdqVGwwYVh2WjVuQWdTelRXdzY2aEpCVlVvTEJra09hUV9BXzctLWpoamlSSEIzS2FNRFU0VGhlZ2hVVWpRSUcwbl9sS29oaUtIR3FLY1ZMUlJvakV4ZjRXOHhxdVJSSGw3bUk?oc=5	未分類
 2022-10-05	【有片】驚駭！數以萬計三文魚慘死 Warming	https://www.singtao.ca/6042448/2022-10-05/news-%E3%80%90%E6%9C%89%E7%89%87%E3%80%91%E9%A9%9A%E9%A7%AD%EF%BC%81%E6%95%B8%E4%BB%A5%E8%90%AC%E8%A8%88%E4%B8%89%E6%96%87%E9%AD%9A%E6%85%98%E6%AD%BB/?variant=zh-hk	未分類
 2022-10-01	俄烏局勢｜扎波羅熱平民車隊遇襲 至少30死88傷 conflict	https://www.hk01.com/article/820907?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-09-27	印度15歲「賤民」少年串錯字遭老師毆打後喪命 北方邦爆發示威 conflict	https://www.hk01.com/article/819530?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -1888,18 +1780,11 @@ var DATA_SECURITY = `
 2022-09-12	接壤烏克蘭邊境 俄羅斯警衞軍士兵中槍亡 conflict	https://hk.on.cc/hk/bkn/cnt/intnews/20220912/bkn-20220912070003560-0912_00992_001.html	未分類
 2022-09-12	再有扣留所命案 男子拘留期間昏迷斃命 ｜ The Malaysian Insight	https://www.themalaysianinsight.com/chinese/s/400717	未分類
 2022-09-06	強颱軒嵐諾過境2死10失蹤 逾2900人避險 Warming	https://hk.on.cc/hk/bkn/cnt/intnews/20220906/bkn-20220906040114160-0906_00992_001.html	未分類
-2022-09-04	油麻地兇殺案｜警再拘一印裔男涉斬死巴漢 被押返現場案情重組	https://news.google.com/rss/articles/CBMiogNBVV95cUxPc0pvb0pDTDZQUEZLdC11dDh3anRJZlhLMS1LckZpTTZzd3NCSkp2SVlLZUtxRjVZVVVtTjJqMFA1cXJfRkd4T19mRHpPT1pVcDZmZHFsX0trSklaZFkxQjJqTFFtd3RISFQtbWRZOS1GTm9pWWtLREY0U2laeWdKdURtdE9hSjRiTVRBUldycFZuRVd2d2tQeWo0N3dGeTVUT2hpVXVjRV9qNnZqYzZldGhwV1JmZ0t6MVZpVUtObVVmQnJTVExVdVlxLUJkdEdMaDI3SU56LXA1eTYtbzMyZmstLWNSWk5RNTd4cUpFU0xkeHRON2VzZEZwTEJiUHJvdU9qRU9SUkhpa3lxeXJib3FiVXQ5ZTlCQ0VQZVc4Ujl4bG1sYkFoLXJEU3J1VE5WaFdZYXAwV01ZdGJLRDVIQW8wSHFzSHZKQm5ZNk9RZUFsTVM2TC15VF9LYUJ3dzNJdkQ3UENJUHpYUnhhNmNycmc2S3hOU1BiRjlDRjNwb2JSaWFJd1dHMERGZzBKa2x0MXpZQnN5UkRXTjZvckgtRzZB?oc=5	未分類
-2022-09-04	佐敦南亞裔男子謀殺案 警方押疑犯重組案情	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xNXBwSjdJQzhseEZVSmVFdEtqNWxfQ1A0Y3JQeTMxdkJnRERSY1BKVGtLUFd0Z0x5U3FlYUdBQU9tVmZCMnJBWHlqUGNNTWl2Y3kwNE9KdVdjTTlzbXVNejB3?oc=5	未分類
-2022-09-03	石硤尾五歲男童昏迷送院亡 警列謀殺案調查	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JQ21GaGlTa3d3YVA2SUlWbDd4V2R5RDBEVTNRYVllQTYxamxNLU56Mm9xeG0yMGJpOTVtVGpYaEhSSkkzUk9wSnh0aFNjdWMyT3BvMHo4OWMxN09SbnBzeXZn?oc=5	未分類
 2022-09-03	深水埗男童兇殺案｜死者皮黃骨瘦5歲如2歲 揭四母子坎坷人生	https://www.hk01.com/sns/article/810936?utm_source=01articlecopy&utm_medium=referral	未分類
-2022-09-03	深水埗五歲男童昏迷送院亡 警列謀殺案拘男童母親	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EdFVHX3lxVm1jY1E4TGJxMUJ5VmJWUjJ5VEtScUd2Qmt6VVl1a00xSHQtano5NnJrY1NnY3N0QTZuYjJSU1h4Y1ZwOXRkdllrdXYwWU12MjBYM0FDX1UyZjhn?oc=5	未分類
-2022-09-01	西貢斬竹灣墮海失蹤男子獲救昏迷送院	https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tc3VuWVJ4X0NFUzFUa1gwQnhtN1VpZGFBMHhVcFVENUkzV0JiU3QyZlRrYzhYZ05aNVdMdG9MdURPbU5OV3hjR0NadXdWeUFZNmJMb3h1Tlo4VEJJUDhJQ2ln?oc=5	未分類
 2022-09-01	海東市山泥傾瀉埋11人 5死3人失蹤 Warming	https://hk.on.cc/hk/bkn/cnt/cnnews/20220901/bkn-20220901091457832-0901_00952_001.html	未分類
-2022-08-29	快訊／高雄摩鐵命案！63歲男倒臥浴室已無生命跡象	https://tw.news.yahoo.com/快訊-高雄摩鐵命案-63歲男倒臥浴室-已無生命跡象-060700605.html	未分類
+2022-08-29	快訊／高雄摩鐵命案！63歲男倒臥浴室 已無生命跡象	https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%AB%98%E9%9B%84%E6%91%A9%E9%90%B5%E5%91%BD%E6%A1%88-63%E6%AD%B2%E7%94%B7%E5%80%92%E8%87%A5%E6%B5%B4%E5%AE%A4-%E5%B7%B2%E7%84%A1%E7%94%9F%E5%91%BD%E8%B7%A1%E8%B1%A1-060700605.html	未分類
 2022-08-29	埋伏行兇！恐怖前男友持刀亂砍 女倒地徒手抓刀刃反抗	https://news.tvbs.com.tw/local/1891045	未分類
 2022-08-28	中陽縣山洪搜救16天 5名失蹤者死亡 Rainstorm Flood	https://hk.on.cc/hk/bkn/cnt/cnnews/20220828/bkn-20220828120753342-0828_00952_001.html	未分類
-2022-08-24	警方查油麻地命案揭死者曾吸毒列非法處理屍體	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Bdml6S3FodDRCSDB3SG0ydVlEVDJ3R1poVHlFTVJ0Wm1seDZPYzNsSjhXM0dqVWhCdUV1cWlQT3FVRkU5dG9KRjNLb3Y5MldMVkJFQ1RfdDBfSmNWRzBmSGR3?oc=5	未分類
-2022-08-24	F1往事︱比利時站最激一幕 舒密加怒斥古達：「你想殺死我？」	https://news.google.com/rss/articles/CBMipwJBVV95cUxOdVBkZEdBZnRPRS1XMmRtZ2pVeW9zdHk3Vm9kNENaRzl3X1RqVHd0dXVsVEx3R2hKdkFqSTRCRENCNWs1cEdNLW9Cc3E1d1gzVzJNaGwxLWR4U0FaLU9zaXVQNVVVXzNiUmpza05EVXZkeElOSU1BakhHMU9xYjlHbmp0cTNNR3h2ZW9Idm15MndibFM1dmdNUnRJRXhMRXFkVmZhQ3dKdWR2VHEwQ2VjclZJMGF4WEwtczRhQ2dWWVNUQ1lZR2hQS0hpV21LX3BtNXhWMFA5enkwUWZZYkxsb3dxLW5JNWtVeHY0S2xIa05DazhLMXR4eWRqX3ozd1BkZkwxVDRsVFBsa05rRUVFOXlhZE1xRTA1dnVoU3FQZE5wejYtTlVJ?oc=5	未分類
 2022-08-23	杜金回應女兒被殺 稱是烏克蘭納粹政權恐怖行為 conflict	https://hk.on.cc/hk/bkn/cnt/intnews/20220823/bkn-20220823052124988-0823_00992_001.html	未分類
 2022-08-23	失蹤男難抵病魔煎熬 蹈城門河了結餘生	https://hk.on.cc/hk/bkn/cnt/news/20220823/bkn-20220823071041477-0823_00822_001.html	未分類
 2022-08-19	青海西寧發生山洪災害 至少17死17失蹤 Rainstorm Flood	https://www.hk01.com/sns/article/805571	未分類
@@ -1917,74 +1802,14 @@ var DATA_SECURITY = `
 2022-08-10	首爾暴雨破115年紀錄 16人死亡或失蹤 Rainstorm Flood	https://hk.on.cc/hk/bkn/cnt/intnews/20220810/bkn-20220810110411732-0810_00992_001.html	未分類
 2022-08-07	深水埗男租客失蹤多時 業主上門揭伏屍屋內	https://www.hk01.com/sns/article/801149	未分類
 2022-08-02	肯塔基州洪災增至37死 數百人仍失蹤 Rainstorm Flood	https://hk.on.cc/hk/bkn/cnt/intnews/20220802/bkn-20220802043016317-0802_00992_001.html	未分類
-2022-07-26	遭5.5米巨蟒勒頸！警開槍射穿蛇頭男4天後腦缺氧亡| TVBS	https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mektWT3BINmI3RVlTOFU4VVlvRHRjTEt2WGVPaUh5TVh0VlIxdGZ0el81VG9tdzB5NHJmTjNQU002QnpwcU05ZG9kYlBvU2pZdkJqM1J3?oc=5	未分類
-2022-07-24	西貢快艇船長救人慘死 家屬與死者受僱公司商討賠償問題	https://news.google.com/rss/articles/CBMiiANBVV95cUxOYjlPM1I5NVFqMnhUeHVLdVJuRHhTbkVTVXdxQjdMRmEzdnk0cXpwN2RkaGRiaFdTbzBKb3lzMm5MXzhvQjRjQ0tNTTJBZ0NMcUo5cjA2WUtNVHNJak1pU09YT1ZQOG91UUVKTzRiQzBSYzB4SDVfUjF4ZVZSRzNURWlBVzZkZmszNmgyMzNmLVpkTnF3NkJJaHNORjVoQjlwYTFuZnkwUFlUSjVHQWk2Z0FwTnZDcXE3YklXR0g0akJXMnFwYmtqZjFmMGREZXV1VmJtZmFsRXFMSEY0b2VjZ2l5Y0RES2FwMFlNSFJmcnhHTlpnbHZkMFRkQXlITlVBZnFPVXctRDVkXzNFWVhYdTJQZDVCMzNmZ2JHOUxHTVVzdDRjMjFKc1N6OXFHQWRFbWJXRmxPcGJUWTZzUS1ERXNFdHBDbEJ3OG5udkpTc1lwd1pJM1hoRFVYbHBaWGIzWjdTcVM1Rkd0SFpDbUZUWXpTMHduZjVjdm5TbVdYOF91WlpiakVqYQ?oc=5	未分類
 2022-07-11	45歲男子西貢橋咀島潛水失蹤 今早尋回遺體	https://std.stheadline.com/realtime/article/1853934/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-45%E6%AD%B2%E7%94%B7%E5%AD%90%E8%A5%BF%E8%B2%A2%E6%A9%8B%E5%92%80%E5%B3%B6%E6%BD%9B%E6%B0%B4%E5%A4%B1%E8%B9%A4-%E4%BB%8A%E6%97%A9%E5%B0%8B%E5%9B%9E%E9%81%BA%E9%AB%94	未分類
-2022-07-08	安倍晉三街頭演說中槍傳命危 疑兇向他左胸開多槍 一槍似擊中頸	https://news.google.com/rss/articles/CBMixgNBVV95cUxQX1ZMVVUtZndFd0VZbTcyZlN5SHR3aXpzaVBqYWs3bVpSS2psWmJfY18ySS04dXJFaWxMUm5sT3FfMHF1eVhPU2pPSkJ2V0pYcnhUMFJnV2VTY1Z2U2h2OUwwR2pDbTd0ZnFmSmh5NndFbzdoRWFfaWZmdEgtR1pqeVdGM0RsT25pdFphWE9vck1ybUl2NG4xYzJtbjI1ODJhVFM0alE4WGZrTUljbzNaczFZYWV0azh1eHdWZHRaV3hnaGlNN1o3QnA3X3pGUTFYY1VLblpuQk12M3JGdDZvbTcxNG1kYUtkbk1UbzhoTDh2c2FCX3ZIbWI3NVlDWFhLTWdMcWwxU2VFMVh6V1l4LTRjYUNsdjRPaTdYa3BHTW96dWJHMDY2R3YwM2ZvUG5OMEllRWQ1UXZXWWJhUjNHbHFpQVh4eHpWRkRBYnNFVEdUT3pZYm5NMndQV1pBb2tmaE5wSWR5NDlfclRRa0laRmowTjQ4eHB1cU15X1dRQUEzNHRTc1VxaExuVWQwbVpyNklyWU5NOGw3Y1VVNFhTQzFKS0FjbUxZRkFCRV8wSGRtZTFtTlBSRklNbFRFS1cxUFl6dlBB?oc=5	未分類
 2022-07-04	意大利阿爾卑斯山冰川崩塌 至少6死15失蹤 Warming	https://www.hk01.com/sns/article/788355	未分類
-2022-06-20	泰國女星Tangmo墜河命案懶人包 遺體驗出迷姦水？死後fb竟發文申冤？ - i-cable.com	https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNW5qTEViUUJnVU00OHVHUk15Ykk1NnRLVHktUGpTMmREZ3VOWG1kZkZwbDY5RDNKX2RpUnI1V0FUQTBhOS1DSXpKY3NobU50MUhxd1lndWdKT212WGtoeGIzOU9QRG5YQmcwd1JWc0l1QzJPdDh6ZDJKZGQwWFVSYWVkYXEydmdseWxwVG1Mb0tsc2RHQThhWGhxUkFpR0NKUlB1aFlISlpYVHZvWkRWUjJtU3psZ2N0WllkdS15NHllNjF6akhzbDRob0dQclNRTl94ck1SQzFELUh5TUJoUW1vM0p4YTBJcDltVzNvT2dDc1ltMkZqczhZUXU0dHN1ZDdPR1BBYkZCYTFIMUd3VG15dnFPZ1JJSl9JLVJCMDBTUWw2ODNqVnU1NmFFMU5oZzBUek43Y2J4dnVsTExkbzY2T1pTRGJHRGhhTUdsRW9yNlZNcWdnTEN4TlZMQTFpekxFT3N1NmF2dExHNk9CVGFZU0VuRnVKX2Nn?oc=5	未分類
 2022-05-02	(離家失蹤八旬翁墮海亡)	https://m.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20220502/s00002/1651427999866/%E9%9B%A2%E5%B3%B6%E5%8D%80%E8%AD%B0%E5%93%A1%E6%9B%BE%E7%A7%80%E5%A5%BD%E5%80%92%E6%96%83%E8%AD%B0%E8%BE%A6	未分類
-2022-04-29	元朗田廈路謀殺案 男疑兇用板車搬運女屍	https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1cmN6T1ZJZDFFOE1XRVFKOWlTaENaR1g3R0pFREZzTHhHbGNBemN4dnQ1SENJQUhIOWw2TVBWMFBXdkxEUWRDTzB4OUl5dkpKRmt1LWFDSkdVNDgwRHJyMnBR?oc=5	未分類
-2022-04-29	元朗田廈路揭發謀殺案一漢被捕	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NNnQxWXU4WDBVVE5ROFJZN19ULXVPSTBETzJZTGU1aF9wMkFHNUh2b0tfZWF1a2xsZlJIWGV4VlZrZlN3aERTYV80a1Bkd05YR0xBZGJ1LWtGSDBqVTl4dzd3?oc=5	未分類
-2022-04-13	【錯誤】4.11高雄街頭槍戰1死？誤導貼文！影片為2018年警方圍捕畫面	https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yaVpIYjByVVRONktDZTIzbEtjUkNTMXI3eU1SZzJJVDU2MnZNMFBkUDJHa2k1eDVmVXJNU2dONFdwUUx2S2Z2TFpPWjljNmlmc0JTeVdvU2UwVGFJRkFPTg?oc=5	未分類
-2022-03-29	17歲少女KTV酒醉遭性侵自殘 惡男達成和解仍被判刑	https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lNGJyS240X1pPcm4ya01uZ2pEYnlTOTl4QV9tR3BzbkJiTDg3MlFEbjRGWmFmRjgwVVVGdzRBRGlwdEhmRlQ4aWk5UW1ZemVIb2FpTEVNOWNKR1YtN0pJY1VSeVczNnlu0gFuQVVfeXFMTmVIV0ZqU2ozOGZDSGFZMG5VMkhudU5HOElMaVhneDlQdHZoMGtaOXc2Nm1RRWxpbm1NczluMEF2OVY3a212cld1eVp3N0dtYUZ6MV82bGNBR2l0WFVsaFctdGhNVU9VZ2tnajJZbkE?oc=5	未分類
-2022-02-13	職業士兵殺2幼子！ 長子疑割喉亡次子恐悶死- 社會	https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bGlUT3BZUmthTGcxRG94eTBIZU1PUGR4UkI2R09HNkc5UFI4UEl6eTBJOHRlLTdleVE1dlFqeWx3bGtIMi1qeGRwemZReDFxZ3J3TWdLMG1ZbTIwbEtEX2MyU2hIVEYt?oc=5	未分類
-2022-02-13	曝章亞若曾涉緋聞命案還改名！分析蔣經國不認章孝嚴、孝慈 黃澎孝：得知真相覺得被欺騙	https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tRXAyRkJUVXNWUVZBX1U3TUpVU2hqYURZMlpFQm1aaG5VNXpKRnZfNkNKTnU0ZEUxTVctTXYtLU9NOGdtVlo2aDZVZXNxbFdzNVE?oc=5	未分類
-2022-01-05	埔里臥龍洞離奇命案最新進展！家屬曝1封信：3 人是含冤而死	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fV0NvcnpKcXpFaWk0MjZvUWZzeUNwRC1FcjBpZnFhaHdEdmh1RmlzT1RpbDV3eFJkMG9NQWNfMG5jUTZiQlRYdVktY2tRU2M?oc=5	未分類
-2022-01-04	南投臥龍古道「1死2失蹤」！1關鍵讓高大成喊：疑似他殺	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qN3pvR2FZU1JMLWFSS0wycEZSVEI4Y0Y3a2I0dFFLelBXam42MGphSmtzN3lIb3JXZkROakRFQUVKZkFhLVh0RWdrRm9RcHRBdFRjODkyTHh4MFViWTViczZrOGZxZw?oc=5	未分類
-2021-11-04	遭殺害包養男是詐騙集團成員酒店妹全家狠綁40公斤重物棄屍畫面曝光- 社會	https://news.google.com/rss/articles/CBMiaEFVX3lxTE50UTFfZ3BrRF9jRnR2a1E2OVJZNGN3UGpZUllPLXJyYm90SFhiN05uZm1ucVBQRTQzOVdBS3ZaVGduSzBnYzhhcVBBQ2hXem5DX2tfOWUzWXJMbjBuWjVIWm9OVUtEdHJy?oc=5	未分類
-2021-10-14	不排除遭縱火！高雄城中城大樓惡火 已知46死41傷	https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2MUxLUkg5dGJiZHJtcEdfRTFiWkd4TTh6aWw5c3g0X1RzcU1vQl9USG9WWjBPcElUeWVrdVFfbGRRYksyZVdVRVB2YWo1TXpxdUVEUzNyNWRGYVZxYnhHQU44dFpQWUpQ?oc=5	未分類
-2021-08-31	大角咀拳館謀殺案再多7人被捕 勝和大家姐粉嶺落網	https://news.google.com/rss/articles/CBMi5gJBVV95cUxQcUh2TzF0Z0doZGI5cVg0dnZuanN4VWxpNlZWd05nOThucng1S3MxdUdCbEdDdlphNGtuYWtaTjRjZ1l3aGZxRmswanJNOFAxU3JhMVUtazNvOVhkdURQRjJ3ZXQxOTVrd2tmTU45QUdmWDcxVUpzY2NvX2tyY196ajVYelR0X3JLRno3Sm9GZk45Z1U0VUtPaGNUQnl4dFRBN0hFZ2tkYWJiUGJfV083SmNQZkxpbm10WDhmRzRkdDA3WUVId3o4M1ZKOVplZGVQbG84dVhBcFFrV1dTOW9ETjVTWGlxb3hMTVhqcUhnVGJXbmtjM3BsSlpxWXdzSUdrSDJJVE5UekRLNExPNFJzVWlUTnpjcmRQbnI1cjlSakY2YkdvazJOajNqZHNpbXdtOVhDYk5JZDdKRWxLN2xOa2htUUw3R3BaU3RZd1pVTEg5MkRaVnc0R05HQWZ6bzYtYXVsaUxn?oc=5	未分類
-2021-08-17	男子涉38年前屯門強姦女童提堂 不准保釋十月再訊	https://news.google.com/rss/articles/CBMiYkFVX3lxTE05VFU4b1dzeTlwN0NWdkRDYmJOWTBtMUVxQUtIMGRUOTNDR1FmOGNTQVJwakRNRmJuYWNYV19GVnoxZzZQNDItZTF6Z05zTklHeVZVYmQ1WHlvWDR0bEEtVkt3?oc=5	未分類
-2021-08-06	屯門謀殺案 警方指疑兇無精神病紀錄 與死者不相識	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EN192a0ZYTTEwelhNWjdRV29DZEFZekVVT1FhT1VjeWFuemN1VHJieGhCRTBZaHkwVnNfNkdmWTNpQWtKNFU2VjJveW9kM3c2d2R5OVBYRHE3ZmRnWVdLVVFn?oc=5	未分類
-2021-08-06	屯門謀殺案 警員追捕疑兇時曾擎槍警告	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Tay1ZY1JHOVZvV18yanh6V3NxbU93UDZxZEV6RTk4YjBFUC1TRTAyTTBrb2VxT0RQdUdvQ1FWNHFoQldFRml1MDJZcDc2dzA1TGpILWhSQTdKdnltenRUZEt3?oc=5	未分類
-2021-07-21	28歲失蹤男子倒斃油麻地酒店房 頸有刀傷惹兇殺疑雲	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWo0ZjJlQzZDMXl4dU9PRmNRZDhSZVAzR25NQ1V5MV80dnVTSXlEZmREVE5zSW5maUlUOWloRjRjc3RjZDk4XzlZM3FsOEFyc1l0V1ZDVnNoR0c3RzhYV0RZRVZyQUw5ZFBjeGFsZU84WnR6dTBGVlItbVFEdVNlanFKRURrUDJXci1J?oc=5	未分類
 2021-07-16	強腕遏止外國駭客勒索 美懸賞近3億要線索	https://www.setn.com/news/968273?p=0	未分類
-2021-06-19	婦登抹茶山失蹤3個月尋獲半截遺體- 綜合	https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWGMtYklFUEtoNkY0ZHdsa2JZQWNVVXIydEc3eFBTV3haRkhzdVVGR2NlOU1seXhQQzUyYWhTNG5mcW1NeFRnM1p6czlHSnFWZWRZdGhVUnE2cDhWRGxJTkRhNXpJWUNzMVZUUF8wR1o?oc=5	未分類
-2021-05-27	盤點2021年美國大規模槍擊案- 紐約時報中文網	https://news.google.com/rss/articles/CBMickFVX3lxTE9MQXBuVzU2T3pSM2JXZDBESHdBN2RqNW44ZE5LUVl3TWRKNFlTTURQaWJKc3pSTHNzRVgzSEJVcktFY05LdGpXNDY2aGtHRVdBT2RPZ3V6NklxcUJpSGZISHp6WTNTX21ySnItY2d2VG84QQ?oc=5	未分類
-2021-05-25	22歲女失蹤4日 揭東涌年輕男女雙屍案 警暫列兇殺及自殺案	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHZ2U2NRWEdfVW9fU0FzalFzdHQtTDZyS21HeFRoaUdaTHFIQTBlTEdzUUQ5NFU4Y3BpNTlPQTJYMTd5SWd5bnhSSS1zRHpQQi1TUXF1OE12VE9kLXQ3OUtiUWg3VWFnUndnTU9hN0ZNV3VpQ05oSGtzdnpleGE5SENJSDRpYndrZUVn?oc=5	未分類
-2021-04-08	沙田開槍｜沙田私家車避警截查狂飆 警長開槍打中司機右肩	https://news.google.com/rss/articles/CBMiigNBVV95cUxOS3lOc3d4eVdGVlZQUFFSZ2ZYdmV3NW5kZFE2VUp1bm5MTGlPM2J0SE5lQ3NtR04zWmswWDQxZXRFdi1LMlJHWFNNQkpvMTN5aWFqTFptdUR5VFdwSjBGSXlSWFdFUk42bnNiXy1TdFBLeFVsbWxyUW1hZGxxem12eElKaGhpZVR0LW5Od2QyaWVPTHdLRUczVHJyeUJLR3JwYWkyekE0a0FLXzR3Sjd2VEpjQWdWNmhmcXN1TGFpR0pMTzFiVW5iTXJkUE05bEZ6bzkyeFJEZVN2R2I0cjVsWHdVR1YzNGFBaTRKSm9HSVJVak02X1piaEdKQnhFZGFtN2NrWFM0b29KLUlzYXF0M2J1dkY1eG51UDEySXhfQndmQjlrUnFERExhUjZHVGdpVWs5b0RKUC1GM0oxbDktWGdpNWNyNVFPZU1rQktUOTcyQnlNdG5kQXlicmhCOHZXVnUxNk9qcU9zbUpRbTBGWF9YN3lCTzBaOTd3R3RDT1RKWGlLRnpfdFBn?oc=5	未分類
-2021-03-19	道士涉謀殺21歲學障女案 死者母被控教唆非禮 交高院審	https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXJpZDhTUGJOOEtJNjhwUVZ3WVpWZHpOWE1wUXBQQXlhdGFPRUdFV3Q5RzB0T09hQ3FlRHBRRDFiU3J1TTJXTFE0X283TnVvX1JyMG1wYzF1a0hEUEhGbl83ekV3STItcHpmWEJOY0JUckpEMlNEa0pqaWoybE9SNTNQZXdXLW5NRFNoNEJB?oc=5	未分類
-2021-03-08	陀槍師姐2021｜Apple被迫吸毒亡演技有驚喜 劉嘉琪做足八年閒角	https://news.google.com/rss/articles/CBMilgNBVV95cUxORmZYQ2JHbF9wMVNENVY2NElrOUktai00djVEV0xBMUtqMWFzRVRaZEtMT3JtLWFnRUhYazd6NTdfNUJHSjBtVWMyNi1kd2k2SWJsQnd0TDY2MnUwaW84ZWNIXzQ1RHFpZmJaLU9YOVM0b0RhYXBhWng2eUF6enlKcHJjWUR0aHFsY1BUcFNLcTBBN2FrQWtaSWJocUQzV19zSlBaNEQ3dUZJdEFwbG5ENzEwemwxMkNsZHVRYlZ3cUpOY2FxMnFhMmpRUDhPZEl5UUVQaHFJdzJfZEFfcndDajkxTHI4V2trcHFjTzA3VWRLRmF2WnBocVo1SmlLUGNxRjNRcE5Xd1NpVGhKYzR3Ni04NVd1Q0xDMWpyRnpyTEZMVmw3VTFqNXYteGhaX1huTENGYjNJZDJIV2NjZm5Xa1BHUXhkdlkyOXZjZWJFM0ZNemRLTWp1aWwtaWhYQWp4d0tKYy1TYThndVVPZXFZUkFDcUVtTWZhTFBwSXJtbGpUUGswYTc4VFJjVzRKaEhIenNIOHdB?oc=5	未分類
-2021-03-02	高市美術館附近傳槍聲 警匪駁火嫌犯中彈身亡	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhNFVBa1NDOWF1dzB4bHEtNXREWTVRSFc5aHozMXl5eEVYYmtrZ05zV1lfUlVRRzhlSFFXWmVZLXlNRXBqOHQ0V0ZWYWNuSEhQMnNxMzFteTNnU3BQYVVpeHI1d1dOVThM0gFuQVVfeXFMUEhLc1F2bkpIYWRidVJyLVFOZjg4M3I2ekR0ekVlMlh6cWVvR0UtMjdSR1hGQ3hMR0kzbHpmaVVXZjBqX3lKVWk5Z19WcWZqeXlULU10UHVuVkRBMzZxbnFKanZYbHgwdW9ock8ya2c?oc=5	未分類
-2021-01-12	被殺死 5 萬次、去世前都是跑龍套：福本清三，卻是日本影壇最敬重的傳奇	https://news.google.com/rss/articles/CBMibEFVX3lxTE10VFUwZFhkVDJRMDY5RENlclJ3UEFOczh4eDJyZlFOWHBVY3p0MzNRVXJ0RXZhbWp6OTl2RmRPOVEzUWhuRDM1Y2dmWjlKV0ozc3kyb01OQWdoUldWUEYwcFhvV1BUSTJGX0JmbA?oc=5	未分類
-2020-11-03	旺角謀殺案｜友人上周六登門慶生 稱女死者獲夫贈鏈 兩人無異樣	https://news.google.com/rss/articles/CBMiowNBVV95cUxQekdGUXU2T1B0ZEJic3ludkxCNUNpYk52a1pRRnQ1NDBMWFJZZ2YzTnp4a3g5OFJ3aUU1QlMtcUpBUEpxRUJvbDhhaDB3LTh6YU5ONmV5MXh0bk9hcm9xT1VwQjFhWVNUWXZiWnB0czF3SF83SW5IbjlGYlk0cmNtY19LelVsc0tOTGkzbFlWWndhclVnUmpqZFU5c0pXOHJlLWFxX1BvOUY0LTBpd3pWWDdzYU8zdTFCRmFYY2swUzY4VkNtbUdvWTl6cHpBSnU2cFg4eUs5QXAwWTNQT2czd2ZHY1pQa3JfRTRkOVJmOEJFZjlQZ0I2dldzbU1aRS0zcE9reW1Hc0U3WFV0bGJvQXJXaUNDVEVjTS1MOTQzbnNqNl95QzJEeTNtcWRuV19tZERwVG04SWktaklpUVItNDlQY3ZSS1Q2XzZHN0dtdzdMaHY1ZlAybjRVYWxIRERLN3VPNDlGWU4wVDNQX0c2enAxbHZFT3JvZ1VxWkdvSy1RU2RHR0VxSUc3bkZrU0R1LV8xbWl3Ri1BYUE3cXViSDBNOA?oc=5	未分類
-2020-11-03	旺角發生謀殺案 死者兒子遺留屋內兩日才被發現	https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yYlo0SVk4Y3lQRVV4MktaSDcxZldSWmNDVU9nNHpWZWRUZkl3TjJ3Y0VqNlBBZHg3WWMweEVDOFFtaWFNM2JDT09VbEYyc3o5T0FWY2NhajdnT0tzM2txWld3?oc=5	未分類
-2020-10-29	北市瑤山宮虐殺命案大逆轉！死者生前吸毒嘔吐又被痛毆導致窒息- 社會	https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IUGpleEE1YmwzeVRpWGtuRFF3Z3J6VDF3N2ZkWC1pSE4zTGZIRV9qZzVEMG1CV256SXlhZlJtaVlEQVFyN3d6UktPQ1JrTTR6V21EYzhGdXhvSW8wV1BHUlN6bE1VRTRW?oc=5	未分類
-2020-10-21	女檢察官給了溫暖與希望1句話救了性侵被害者的人生- 社會	https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYXY5ZG5NZGNiNUt0RVF3RWlkM2JBdjhma3V3YVRsYkRTbTJXVnFqZllZM2ZDYy1HM1JtSDRza0VWNFJ6d1dtSDgybWpTWXd0czkzYy03aGowYzZmN1dPTHJwTTBHNjli?oc=5	未分類
-2020-10-10	尖沙咀酒吧打鬥案多兩人被捕 警方今早到現場重組案情	https://news.google.com/rss/articles/CBMi5gJBVV95cUxQdXkwSG1VZzhQQTB2MlFWbE5uWjhaRG1hVGlzV0x5b2ZnemlIaGtKZEJsb2lPTV9BZ0M0OE5Zcm1zVEk2UVNsM2tkN2w3VmZsbXp5SGhJM1ZJRWNIVzRQVTJSSXA2UExUNmJFbHhJQlRTRGV3cmY5MTdSOUhvNTZlZ21MUGkzV3NUdUdhbDlRd0poTnZta2kxTVU2NE01ajVZM3oxcmszeFR3allfUlhEbnZ2QlBrcEVvWWlZUk9Wd19MUkoxdEpfaFVIMGhNTXd0eV9ua2psNVFnanZudDY3R1g3cGd5QVBtUkFnRXVScUNWc0FGVDQzNWpQcS1sSTY3N1otZXNoZGVYVlZwR3p0OFpnemY0QTB2ZWcwbXAyWktFanFvNS1RZjVZNUl5QjNkN1BZdmdwbmRONFUwNkJHNmhHd0kyV09XWmg5ZGhXR3FDUHNUSzlLakZ6R3ZZc2ZpNlE0b1hR?oc=5	未分類
-2020-10-07	酒吧兇殺案｜尖沙咀20惡客不滿限聚令打烊 狂毆酒吧職員 1死3傷	https://news.google.com/rss/articles/CBMikANBVV95cUxORmpsWmRYRmVDN3dFSE9VV0laRENOTEx1aTNLVW1rWThpSGh5SGtWaHdHZHVHTzBZa1VxXzRZVzlRT1BqRVJkUUpWUWJXMWtkMzduNlR0YWo0SEczVE1Yc2llSGtwalBGQnlGY1V0d1ItNVkySk9yUk50ZElrU0ZjT3NzbzhNZFZSMWZDVGNMVjh5UU5yOTdjb2ktUTBzWVFLZTJrcFFpV3U3WjRBT3ZHSDh6aFQtZzRncWxtdHVoWHNJaGMyN2dQbWItVW5iV1I4TzVSZ2U1SzEwVk4wWXFYTFBmU25xbDlYdEhJSG5FcWh4b1RCdEYwOTBTYlptaDBfZFAzTzZxM0Q3NmpZTHJqbkxwTHY0YWZEUTJZeFg1MkRwMlVlVTdiZFlYeHNEd3JLOEJVZGg3anp5WTd4MVV6UVJ3NlhubW4yRzRzUlZRMmZVdUphOWh1Yi00SmJvTE0tSXhWbkR5MVVzMGpMWHZWNHpFQk04S3E4WldLTTZTay1reXdlSFJqeEpjd2xYXzV1?oc=5	未分類
-2020-09-05	葵涌邨謀殺｜3年5宗父母殺子女案 母吸毒後殺女 頭顱放電飯煲內	https://news.google.com/rss/articles/CBMimgNBVV95cUxNQ2NSWU1pd1dXY0hMYURGeUVZN19CeG5zVWIwR1YxU1N4VGJFQzZYU2Q4X2ZGQXV6dzJGaTBmbEdNYkxWNXpZTU53a0RVT29fXzdadHVCYVM2TUZpbUV5dGFwX0ZTNFBaRExmei00RmVNd2tURHk0Z0VoYlJFWEVhR1laS3oyRy1Lblo0T2s2YnQ5S3VsQzJiT1U1dWZaWlNNX3lFa3pKeVFnTzZyS3FDcEdlSFg5YlFGc05pS1h6MmNvc2ZQZ3p1X1JVTWZqc3U3RmpDZFZrVWRGQkRIQUtOZGpFYUR0RmdESVVXRlVEZzJ3SHpwRFFyN29MUG9fS21wcUUzZG95NVNGSXpZQ2FueDZlUlBDdG44MF8tUzluWGliYVFMTkg3QmszSmRpaVF1RjRsZkFJa0FCdXo5VDhvVmxPbHVoUnNZVE9GYnZIelVVOVJ6V2VURGY5YlkxSHY0bF9zVmJ0NUFLMDlCQ0lGN05LYVNBdE0zalRUSmJwc09qS2FCYjdhWUhCS09vbTJFVFZtR1NFNVJSZw?oc=5	未分類
-2020-08-31	慘！債務沒喬成命卻沒了 淡水喬債男誤扣扳機自轟腹部慘死	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoV1UzU1JNQUkzZ1NmRFVhMEdFX0tQQTlFZDJVampLLUJLUm13M3AzbUFZRTJONVpqTVhqdmlrdm8wZEs2TFdMR2FXX0Radm9yb2o4ZUVkREl6U180VVktLVRlMlU?oc=5	未分類
-2020-08-30	黃聿斐／吸毒弒母無罪背後，處在精神醫療與司法判決交界的多重困境	https://news.google.com/rss/articles/CBMid0FVX3lxTFB3Q1VXazNFRFo2N0FIQkdEYmJPRWRhSVhybVotYTBSLU44QW1iSENZVzBMSFZNUzBNSW1Scl9uNU90a281TzA5VURyTU9vdW9uLWdCR3JnVHJxM1pRMnpwd09hSnVuZ2UwdHVMa1FnUjItT0cyaEdN?oc=5	未分類
-2020-07-28	疑27歲同居女友墮樓亡 單位檢可卡因「劏場大王」涉販毒被捕	https://news.google.com/rss/articles/CBMi-gJBVV95cUxNcTM0NTZuSzZSMURmT3ByaUZXN2xjRHJWb2h5VDZrb2VHSkFpcDhoR3hJWWo0aEVhMVk3V2xBZ1MtVS1zQjNDdlF5eUlPSnJIY01JSjFLc0QxazJ5bkRUS0NPR1lpY0Y3U1ZBWlF1cXB0Y19oVGNVR2hPNXVveHgydkxJcWV5T2k1bm03bU1ZTWtoZ0VZQWdheXRweHYyejgtdFlrZ0tNYkhGQ3NsQkFWRGVMQlRReFNJVjZpYnI3WTYyajlkV0g5bGlnVlVGTHk4Ym5zb0JuUnl3NWQtLXZWU0VWQUdrMjYxOHlOTXdTQW5BVGt4d3FMeEd3WWpxNWNWeHRpMXNqWkY3WmNrYkhUaFZXOXY5VFlINnZONzl2UThQMFJLQVE4T2hHT0puRWtKY09EcnRtajRRWUp5Zld2eE8xY2Fsellzc3Bobm5QX3NfWWNlSnVXcGdzd1ROQ1I4bTdkUzdlWkpjc21HWEdyVFdJZHgzSUh1eWc?oc=5	未分類
 2020-07-21	法輪功遭迫害21年 蓬佩奧籲中共立即停止虐待	https://www.setn.com/news/783117	未分類
-2020-07-19	黑幫屯門仇殺｜街頭追斬釀命案 21歲男遭車輛輾斃 公路遺血肉	https://news.google.com/rss/articles/CBMijgNBVV95cUxPU1I2X0RNazFTVzY2RFM4RTdIZl9JU1k3aDNkX1NGVzJST0RFZ0V3ZnVCQkxzVmhNMjAxZy1MZ0dHQ1RQbWFjT2w0Z2lRRldkQS1rSTdtbGloVWJOLXN0YVRYVUdOVmtZN1N2VkxjNjZKNkJjLUZDYmllSXlQTGExNjJVYlExVHBaZVRXMXlRZTVESmJLZ0xmVEdIU1hHRDB5cTJ6Uk5wRjgxaHlraDUwWTRZa0dfSnJhbFdtNWFQQ0tucGJjRWlBNjBxbTFZdU5LajVWWTJLX0ZTYWN5WDJUN0FRRmdxMW9zVVRlMHVFWTFfWU1IWXMtcTRkSHJ5eGswdUtnSHJ2bTdWWkFqTFVjYlJzUXhTM09VaFlMbTV2TWlqRFhvUkhFTnZ5U0NVdXR0djBHaUl5bUg4eWJWZmoybi1jVXktWFFadmxGdUxqX2RaVEdvVnUzcUFvcWNTS2M0dkh4X0NYMVNjSDdiOTNSVTlkYjFoX3VCUm1TYnlSSmhIT0MxMTY0OFRiOXJmUQ?oc=5	未分類
-2020-07-06	獨家》案情逆轉？台南關廟祖孫3代4死2傷疑感情糾紛縱火- 社會	https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jYlJmMGRCN2xJck1mNUJBem9NVnQ0SU9XdUhYZGtsSXU5RzVreVBmbDdfTWhsY0Rya01UVWxZZ3dwYmU5UjNJZ0ZwSWlKakhLd2dsSWxobHJnWW83ZUQ4TmpCTVlzQjcz?oc=5	未分類
 2020-06-26	女留學生去廁所遭性侵…「全身血」昏迷 色魔還反咬她一口	https://www.setn.com/news/768385	未分類
-2020-05-04	亞洲暴徒來襲外來種巨大「殺人蜂」首次入侵美國| 國際	https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YVHY5TDdhWS01RU45dWMzMVJMYko3ZXdQbjBIWnNPaFNJOUZQZGJ3SDJxUHlQcl85Q0NkVDYxN3h5c0VJME5sLUcxWlZSRjduS0hmTkpveVAwdw?oc=5	未分類
-2020-04-24	警方尖沙咀搗破懷疑無牌經營酒吧 檢獲一批毒品拘43人	https://news.google.com/rss/articles/CBMi3AJBVV95cUxNU3p1dFlQQzFhVkdLZUh4bGhTQWY2QVpCNmk5RElETFJ6cE5tbzdtUjJIdzg1OHgzWk1MMDZWUlRKd1ByR1oxX0p6MzJwSGlTeUhCTm9vNlVpdXZyc1plYmwzOTZnNUF6cnczbnBlZmlmN0V5VTVqa3dzbFFDMFNRRkc3NTAzRDMyaGR1RHdCRl8tVXBpRXdzdDVQb3J2M3FaSDlBdEVUd1JxcENqYlpGVWRnQm90Z2E0SDlOeERSbG5ldUFmc3c2V19GQUgyb1BjTjh2a1N4S2RneDRqdk5yeW11Z1BkZVRjbmRaMjd4MTlYTUxMQzVJNHEteTkxMGZUVjdzYjBSNmJSM3JLalZUY1RjaTlNUHV3enJCZE9rZnlPWEszZzNoX0dFX0l2UHp2QWQ0Z21BRGpNSV96R080b2FiQ0pQNUM0M1JqMjc4cnoxcFBNLWItN1ZOUWU?oc=5	未分類
-2019-12-25	警方拘捕一名男子 涉與黃大仙近期九宗爆竊案有關	https://news.google.com/rss/articles/CBMizgJBVV95cUxQT3VPSjl0RVNSMXR3UjlPcHc4SVotdlNNRDhaUVBrMEdwcHY4cGFoSUxMdEE1TEdiY2J5UVF4YkR1WVZrOVJ3VnNoZlhiRmZnYm5WTzhFOEVXOFh1QVpUamxGanR3SUZrRy00TDFtOVI0dm1NbUdxNVRCZmd6Y1BQNzktb1pGczhQa1ozREJCTDFzRnUxYlY2OTl5T214cVlmZkxuTTR5eFFmXzd4cmVkbWloWE52THVsbEhINy01QXhQbnZ5U1N0Z3Z1Wm4wSVFTU0xhMC1KdlNIZnVES2lWWlNFdDJ5YUFsQmNtRURfMjFHOGNtWTR4Z29OM3hYYTFaUEUwSnNETUswRHR4WjBOSWVDUUkxVEFsNWF5SzlQMXB5d01OTUt3NGtldTZ5eV9uTzRwTER6UGZkVGtQUE1Ca1ZRZjYtVmRha3hidUln?oc=5	未分類
-2019-12-19	失蹤男子腳綁啞鈴 屍浮土瓜灣海面	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZzkta1JMeDk5T29zMW9PTHNDSkU1V0JJN3BVb2FPZEV5REFEQUhwUzFuY0UtS2pFZXh1SmFUS0FuUzJ3NDBHRlFtcF9mMUNlX0VjQ0k1YWE1dk5feXBFYmRSQmlWaGhBOUtoMHBldFRscjhEckc1QnRtV1dUSk1Ga3duTXM2T0pLVDc0?oc=5	未分類
-2019-12-10	【飛磚謀殺】上水七旬清潔工遭磚擊斃 警懸紅80萬元緝兇	https://news.google.com/rss/articles/CBMi6AJBVV95cUxNRThDd0dhcmpMLURPNjZGcVI1QmFpS0daVlFET2QxdDNrNXFnSVBFVi1LRVYtaFhYY2p2Z1lfVHVkMFZaMFJWT29pa3NXUVNzbXRwcXROWmdOZDhvcjl2M0daZ0lXaklzc3E2OGYxNzNHV2dLWlczZmJkTlR1UkE1eUR1OC1Ta0NRZDNsalFZQjNDa3E3X0RfV1VSLXZrYmgxdUJvc09LUHE0c0VsXzl3b1k3bjJZaEdMalNYYjBjX1NxWXp5cEY3YmZ1V0JXY0xuSURIeEFScUV6ZTNrQVJ3bUE5RGlUSjdSbnlERG1ZWllsS25fMWxFVnlUaUdrLVdDRERHNS1yMUljZ2gyLXQ2RUp5T3NfWTYzSXRWRVRSZmpqelJqRkRHeDVfZDhqQzNsTFhhdlVWOER2dG5PTGN2SkxBOGhibkxUVmRCWGZlcFIzWlBQSHhseEtBcmhxYnprZ1d5SzA4V0s?oc=5	未分類
-2019-10-26	港人揭港警暴行：4警輪姦女國中生 男生也被性侵	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oTl9CdHZ3c29UY2g0QmpDem4xemZUQXBiYkNvUlBKVXVwQmVwbGxaZHZ3RE4ybE1HZnkzMlp4b3lYMjUwMUZIS0JwTG1hU0dFOXJCR1pGbXFCZFkyR1dQONIBZkFVX3lxTFBFaHFLenhRR2p5eFp0RmZSVnR4aTZJa0RPT3ItNk1Ic2xEQnRxMVhaQndacnhhNUlxdDJfaF9yUmlJQW85X2UyR0hvMWpJWkFEbFdXSUUwclBRdGNFVV9NZ1A2V0U3dw?oc=5	未分類
-2019-10-14	「哈吉貝」颱風重創東日本 釀37死189傷17失蹤	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vbnpiVUx6bjExam9wWlg3Z1M1WS05MUxIcHduQ3FFMzU4TFZzSDdZaXVBZVVBZGhfWkQ1QXZ5a2xKV0JuYUxIcllQTDhpZlRnRHNURFc3R09LSWFtdzk0c25WbWdUQdIBa0FVX3lxTE9TTnVKZVFYY1k0WXBkVndfMjFJWHROSTdKXzlDcFlYSkM5a2NBa2t6VnlPSnk5R0JFSTF0Mzczcm5BNHJIclMyelV3bXl5VFJnNXIwN05iSkt2b1hkb2hKUkJ3aVYxcHBvRVNn?oc=5	未分類
-2019-10-13	袁斌：殺人拋屍 中共在香港犯下的驚天罪惡	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SbWJQMnVMTUJMdDAtR3ZqNVIyRGMzT3QwQlJCb1VTWE9lenpKMnVEVGNiUHU1M2FOQWJDLU5NVUo4SF9SSFJXaFdtaXNDOFdZTnZLN1BJdmpIY2ZPSlAxZmZ30gFnQVVfeXFMTkxKd3NlRDNONE4tckFQR2dlZ19NQ2lvSjdDcURUbzJOTTVQM1JuV191V2hubUEwU3pwOUJDY0g2MldWbDloOHJaSlpya1liM2ZfTkNSMldwTzFfNFpueE05amZVaGMySQ?oc=5	未分類
-2019-09-10	「Kill標王越野山賽」失蹤參賽者郭遠雄 證實魂斷九肚山	https://news.google.com/rss/articles/CBMi3wJBVV95cUxNZk56QlBfRlVNNWx2Ry16aUQwR0FTUFpLRFBzTllWWDl6SUZQWGZsRWRlWTdJZ2loblYzU2gwMGRBX25rbEFVM3pPTjJ5Ym92dkZKZ09BbGx3cVRsQzV0TXlocG42eWJ3WXN6WnN1MUtfS2I4bTR2QWx3U1g0ckdsWEw2RXZ4aWpBUF92aG90V09EREN2aTYwR1BlTzNhNFBHdFJzUTZONS1BY085RzBNcENfX0RUb0ZERk5hOVRQcGt2dTlac0NkdVBFZFVOSDNoNUtfYm1ZSVdwZGM1VVBkSEFBbkp2U0o2V1ZyWXE3aW5FcGk3QTVNWFBwZVFsb0tGNE1hX2RDeHd0NUEtTzdvbndxTXZncUFtaUVEcS1TLU05WV9haDFOcUN3TndqYUpEQ2hKZ09tUEhDVzhXMkdaaXlFWnBJOGdaX21JQmplNW9WZ2xLbi0tc3M0cnJpZkE?oc=5	未分類
-2019-09-05	法庭：學障女命案 道士控謀殺	https://news.google.com/rss/articles/CBMibEFVX3lxTE42TGVZa0VtZWJ2MnkwYzdWa1FFM1lsZC1ETV80LVFfWVhpcDJ1aFJER0IwYVZnTzgzSXlYZjF5R0xRa2RXb2VnT19NYy1sNHcyYmZXbDlPUVhkdzl2cWNNM3FTSUhqVHZjUlB6Tg?oc=5	未分類
-2019-07-20	港鐵縱火案：死因庭裁定 疑犯精神混亂下縱火自殺	https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aeDZuNFBGMS1LQkN6emFDOXE5N2I5SUt1WTRJaTNITVRYRDhwVVZEb01HODc0QlMwdzZMaTU3ODE4NUVqTnpVSk5VNlVDRWVpVDcxdWVTUExoWlNZZGFPVlVHcw?oc=5	未分類
-2019-07-19	日本京都動畫公司「京阿尼」遭縱火、33人死亡 全球動漫迷同哀	https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBUX25nbVhyd2pXLWZ5ZERaXzJadVpWUmd6bFVBQkFHcUZvNDIxV0R6UWpCNnJ2X0Z3ZFlsZG9mcnBFQjg?oc=5	未分類
-2019-07-19	平成以來最惡縱火！ 日本「京阿尼」33死各界悼	https://news.google.com/rss/articles/CBMi3AJBVV95cUxQRGFiUnRGcEtPX3J6SjhMUmY3MGpnYTZzNlFUR0xBb3pGUlY0b3RJZkxzZ2V5aVJ3ZmRoR1hMVFcyeXBnSGdVZWFpQ1NjejY5anF4VVc2Ti1qQTVFQVN3cHdZbk0xaURlYzVKZk9oeEVKY3U1ZXlpb1NyQUd0TF9hM0c5aWQ1SWIwZjhwMm5BTWtTV092R1ltcUtpUXhPSEtkMUlJU2cyTWlXTUN6dGpRUDJyb1ZvODNaYTFWb1FMdnRDdXg0SlNuaTJYZ3YxVC1vejZ6RkxDRWxEc3hNZnI5NFpBd1kwSzQtNHQzSzBGTzRfNVhQREg2cHlvRWI4NjRGWHFiX1czcG56NnlQS1BhS3JmNUZxZDcyR2tRaDB1RlM5b1g4ZE9saEZZUUdWVXpoelVxejR2RWdfbGJtd3hNRWZsMzFTT2Fib2t6eUZLRHpFbTl1TEFLMkxmRy0?oc=5	未分類
-2019-07-19	「京阿尼」慘案33死：悲劇5小時，平成以來最惡縱火的犯案謎團| 過去24小時	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NTS1GR1JTTEFDbUc2cUI3UDA0OHZJM0ZnZnZpNk16bHFkMlFLWV9ia2JOdTI3S1MxekdpZlhPWmFyT1ItbDRkR0E5SzVNdVNMWHdxTUlEdi1CbGwyWkNWRzI0NlpOUQ?oc=5	未分類
-2019-05-27	男子大埔夜潛捉蟹失蹤 16小時後消防蛙人撈起屍體	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDVfSXRnc05QQTV6TFBvY0cxRE52ZmUtMkZqSmJJTG5SeXRVUzRVVVUwVmYtU19ldnBuUkhRNk1Oc1ptWG1xM0V5SkdlMThSUmpBRVNYcV9adFhRWHVLRGpMbGZpUHBYc2FrMlhJYjFpYmFkR1ZESGhUeGhhV28tNjRhMlQ2aWZnX0hn?oc=5	未分類
-2019-05-14	專業醫師與家人，協助吸毒者有效戒斷藥癮	https://news.google.com/rss/articles/CBMiU0FVX3lxTE82dkM1U282V2dvTnRCZGlEMndHM1ZXMkh0RVFCcFRvenRjMlF3OHpEOVdTcXFSYW5BSC1mUk5VM3VfQjJsRC0wZHdadlhROUlFdzJn?oc=5	未分類
-2019-05-01	失蹤四日地政測量師伏屍山邊	https://news.google.com/rss/articles/CBMibEFVX3lxTE1paS1CUjhaNkNkd1Q0SFQ3MWVsTktSTWc1UXRLR2lLcU0tVkdfcjNPV3RnRHU4SktyMzNWYlB1czgteXNFQXgxVjBpLUkxREV0M3N6VVdobUg1S2dEcU5tdUhQOHNfbzltbURHRA?oc=5	未分類
 2019-04-24	泰山姐弟命案／父疑行兇後跳海亡 警探：真相恐更加難查	https://www.setn.com/news/531699	未分類
-2019-04-22	泰山小姊弟命案 今相驗研判疑似窒息身亡	https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FcC1VZDRzZVNweXN1ejNVWXB3a29IbGdqT29lbm56dGlsbWtJSmNqQTZZV0JPanVlemp4U1lNakdrR3loM2gwbUlRYzFSYnF5dXpxM2xTOXBMZ0lhN3ZDOEtaM0drRTQt0gFuQVVfeXFMUEg1UmZGcW9LZHdLc21JdUhtZ1hIUDRZQzNoMmphbThENm1KYWN6bVkxRnZrcEZKRDNqN2xXR2FQZ1owMThJWTZ5YWhCaldlanhTdWwyQXdzU0g4Z3ItRmRPSThvS2JOMl9xR3kzRnc?oc=5	未分類
-2019-04-17	北韓美女炸毀南韓班機115人慘死！卻被外界生活嚇到崩潰，全盤托出金氏政權「恐怖內幕」	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yZ0JKMmhFelFQZFBMbUx6X2NINzFZcDFXeXdsVVpoa3hOQVlHNDdTRkRVc2VLa2s5UnpZS0NFNldNVU9ST1I1Sk0waWtPV1U?oc=5	未分類
-2019-04-16	男子大鬧醫院被保全員與員警壓制後死亡 檢：濫用毒品所致	https://news.google.com/rss/articles/CBMiaEFVX3lxTE51M3QweUs3V25STlNvN1N1UG43VmdoeEpEQ2VRV2ZMN3hWWW52YXlKc1RTQzlxR1hVUEVuWERucG1aMFAyaC1QelZCT2toWDRYWEd6WFNEbk1NZTg5UWdTbXpIVG95dFZa0gFuQVVfeXFMT2huODdQeV9rNVpzYmxwT25WTVpRTEhXejgyUXh2bU9YdGxvcE9HZXhnc2JKS2hoWnBRSlB1T0pteUFVQnRZWTdneFNSc1pMQ1IwSkhQQWFUWFJPd1p1TTlDZGpsUk0xNXF3VWNWZ2c?oc=5	未分類
 2019-03-17	她慘遭迷昏性侵「內褲全是血」 報警後關鍵證據竟全被消失	https://www.setn.com/news/513504	未分類
-2019-02-17	孟加拉貧民窟大火400屋燬9死逾50傷人權團體控縱火- 國際	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Hbk1kYndjNDRVbUphMGlzcEVNRC10Q3pSQ1d1bm1mWDcxWDF3OG9sdlJqNVRQS3FiODdBTVpuMFpPWFJJb3c5YUJvdjdpOXNqNlNmaENKTk5MWE1sTFRCTGZYMS0xZw?oc=5	未分類
 2018-09-24	連11名高級科學家離奇失蹤死亡 陰謀論叢生 侵侵承諾調查	https://news.hongkongmetas.com/articles/3d/2026-04-20-連11名高級科學家離奇失蹤死亡-陰謀論叢生-侵侵承諾調查/	未分類
 2018-05-28	下毒敲昏再肢解？桃園殺妻分屍案檢察官下午解剖檢驗| 社會	https://www.setn.com/news/385295	未分類
 2017-08-17	為愛沖昏頭！台女想當敘利亞將軍夫人…遭詐騙66萬	https://www.setn.com/news/284307	未分類
