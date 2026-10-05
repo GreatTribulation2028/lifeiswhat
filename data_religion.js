@@ -1,4 +1,4 @@
-// 宗教 | 由 build_news_js.py 生成 | 共 175 條
+// 宗教 | 由 build_news_js.py 生成 | 共 160 條
 var DATA_RELIGION = `
 2026-09-30	宗教詐騙披靈性外衣 資深媒體人揭警訊辨識邪教pua	https://www.mirrormedia.mg/story/20260930-171soc-105447	未分類
 2026-09-30	一名錫安教會被捕牧師妻子的流亡、煎熬與信仰- 紐約時報中文網	https://cn.nytimes.com/china/20260929/china-zion-church-pastor-detained-family/zh-hant/	未分類
@@ -6,13 +6,12 @@ var DATA_RELIGION = `
 2026-09-24	朴軫永 J.Y. Park 宗教團體陷異端疑雲親自回應了！同時砸 5.5 億韓元助墨西哥病童！	https://www.juksy.com/article/151817	未分類
 2026-09-22	國產獨立邪教村恐怖戀愛ADV《血百合克蘇魯神話》預告影片公開《Blood Lily Cthulhu Mythos》	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EMWtSS1lrTm5pRmlJV2llRlBaZ1g5VGN6X18tVU5CTkx4ZWoyd0VodzRSeEl1T0dmOC1TX0FIdEt5UDRsd2Jfek1vNUs3bU1pc1hTcmVsMlY?oc=5	未分類
 2026-09-21	綠營轟徐欣瑩宗教法人關係基金會駁：無政界人士任董監事| 2026九合一選舉	https://udn.com/vote2026/story/124652/9767806	未分類
-2026-09-21	德國主流教會衰落 自由福音派受洗人數逆勢暴增76%	https://www.gospelherald.com/news/cnjg3y78j4or	未分類
 2026-09-20	（影）被傳異端邪教！JYP朴軫永不忍了 正面回應「教派疑雲」	https://ent.ltn.com.tw/news/breakingnews/5580517	未分類
 2026-09-16	《非基》宣言問世60年後：教會再倡導反仇恨與分裂的對話- 梵蒂岡新聞網	https://www.vaticannews.va/zht/vatican-city/news/2026-09/nostra-aetate-60th-anniversary-vatican-journey-to-hope.html	未分類
 2026-09-15	王丹專欄：中共強化「打擊邪教」動機何在？	https://www.mirrordaily.news/story/85405	未分類
 2026-09-14	自稱活佛轉世「清水治百病」！邪教女主謀誘越配攜子來台做苦工救出4童	https://tw.news.yahoo.com/%E8%87%AA%E7%A8%B1%E6%B4%BB%E4%BD%9B%E8%BD%89%E4%B8%96-%E6%B8%85%E6%B0%B4%E6%B2%BB%E7%99%BE%E7%97%85-%E9%82%AA%E6%95%99%E5%A5%B3%E4%B8%BB%E8%AC%80%E8%AA%98%E8%B6%8A%E9%85%8D%E6%94%9C%E5%AD%90%E4%BE%86%E5%8F%B0%E5%81%9A%E8%8B%A6%E5%B7%A5%E6%95%91%E5%87%BA4%E7%AB%A5-025300503.html	未分類
 2026-09-14	安华谈AI挑战 “科技进步不能牺牲信仰人性”	https://www.enanyang.my/news/20260914/Nation/1380258	未分類
-2026-09-05	王薀宛如邪教主 信徒不得直視	https://news.ltn.com.tw/news/society/paper/1769417	未分類
+2026-09-05	王薀宛如邪教主 信徒不得直視	https://news.ltn.com.tw/amp/news/society/paper/1769417	未分類
 2026-09-05	替錫安教會辯護遭迫害 中國律師王夏紅赴台尋庇護	https://vct.news/news/替錫安教會辯護遭迫害-中國律師王夏紅赴台尋庇護	未分類
 2026-09-03	《星際：異端先知》關鍵拍攝完成！頑皮狗曬主角動捕幕後照| 遊戲情報站	https://gank.fanpiece.com/gamenews/%E6%98%9F%E9%9A%9B-%E7%95%B0%E7%AB%AF%E5%85%88%E7%9F%A5-%E9%97%9C%E9%8D%B5%E6%8B%8D%E6%94%9D%E5%AE%8C%E6%88%90-%E9%A0%91%E7%9A%AE%E7%8B%97%E6%9B%AC%E4%B8%BB%E8%A7%92%E5%8B%95%E6%8D%95%E5%B9%95%E5%BE%8C%E7%85%A7-c1502375.html	未分類
 2026-09-01	微短劇今起劃紅線不得有邪教拜金等內容- 內地	https://www.wenweipo.com/a/202609/01/AP6a95e186e4b0c1e5002701c8.html	未分類
@@ -24,12 +23,12 @@ var DATA_RELIGION = `
 2026-08-28	錫安教會創辦人金明日談中國信仰自由：在調查過程中並未要求放棄信仰	https://news.pchome.com.tw/politics/newstaiwandigi/20260828/index-78791932889665279001.html	未分類
 2026-08-27	華爾街早報：英偉達救回AI信仰，通脹又把降息夢按住，糧食危機暗線升溫	https://www.panewslab.com/zh-hant/articles/01a0418a-83cb-76aa-996b-64f22f62e76d	未分類
 2026-08-26	中國持續打壓宗教北京錫安教會牧師遭控詐欺恐面臨10年重刑- 國際	https://news.ltn.com.tw/news/world/breakingnews/5552261	未分類
-2026-08-25	拿宗教背書？她轟五熊一句話踩地雷 「把自己搞得像異端一樣」	https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0ZUp3X01XN3RaOGIyVExXUG1nbmg2VGZ3dWQ0NlBZQVdOaXN2QVdDNjBDZWhUR0NYOEtfQmdYd1FUdldEVWVjQXpJS0lMT09ocWQzaVl5QkdZcmtv?oc=5	未分類
+2026-08-25	拿宗教背書？她轟五熊一句話踩地雷 「把自己搞得像異端一樣」	https://ent.ltn.com.tw/news/breakingnews/5550988	未分類
 2026-08-25	五熊潑油非惡意？德州媽媽狠批「很神經」 再揭「邪教特徵」：慎選教會	https://tw.news.yahoo.com/%E4%BA%94%E7%86%8A%E6%BD%91%E6%B2%B9%E9%9D%9E%E6%83%A1%E6%84%8F-%E5%BE%B7%E5%B7%9E%E5%AA%BD%E5%AA%BD%E7%8B%A0%E6%89%B9-%E5%BE%88%E7%A5%9E%E7%B6%93-%E5%86%8D%E6%8F%AD-%E9%82%AA%E6%95%99%E7%89%B9%E5%BE%B5-102900180.html	未分類
 2026-08-24	紐約法輪功千人遊行反迫害美民眾：所有人應挺身而出| 法輪功學員| 打倒中共惡魔| 新唐人电视台	https://www.ntdtv.com/b5/mkt_ipad/2026/08/24/a104126818.html	未分類
 2026-08-24	批五熊「把自己搞得像異端」 德州媽媽：拿著宗教名義背書	https://tw.news.yahoo.com/%E6%89%B9%E4%BA%94%E7%86%8A-%E6%8A%8A%E8%87%AA%E5%B7%B1%E6%90%9E%E5%BE%97%E5%83%8F%E7%95%B0%E7%AB%AF-%E5%BE%B7%E5%B7%9E%E5%AA%BD%E5%AA%BD-%E6%8B%BF%E8%91%97%E5%AE%97%E6%95%99%E5%90%8D%E7%BE%A9%E8%83%8C%E6%9B%B8-034458860.html	未分類
 2026-08-24	奇異果連皮食被封邪教食法？網民大讚排便變順暢 營養師揭膳食纖維多50%兼穩血糖	https://www.singtao.ca/7607034/2026-08-24/news-%E5%A5%87%E7%95%B0%E6%9E%9C%E9%80%A3%E7%9A%AE%E9%A3%9F%E8%A2%AB%E5%B0%81%E9%82%AA%E6%95%99%E9%A3%9F%E6%B3%95%EF%BC%9F%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E6%8E%92%E4%BE%BF%E8%AE%8A%E9%A0%86%E6%9A%A2+%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD%E8%86%B3%E9%A3%9F%E7%BA%96%E7%B6%AD%E5%A4%9A50%25%E5%85%BC%E7%A9%A9%E8%A1%80%E7%B3%96/	未分類
-2026-08-24	信仰合理化行為？轟五熊潑油冒犯 德州媽媽狠批：搞得像異端	https://tw.news.yahoo.com/%E4%BF%A1%E4%BB%B0%E5%90%88%E7%90%86%E5%8C%96%E8%A1%8C%E7%82%BA-%E8%BD%9F%E4%BA%94%E7%86%8A%E6%BD%91%E6%B2%B9%E5%86%92%E7%8A%AF-%E5%BE%B7%E5%B7%9E%E5%AA%BD%E5%AA%BD%E7%8B%A0%E6%89%B9-%E6%90%9E%E5%BE%97%E5%83%8F%E7%95%B0%E7%AB%AF-020700633.html	未分類
+2026-08-24	信仰合理化行為？轟五熊潑油冒犯 德州媽媽狠批：搞得像異端	https://www.setn.com/news/1894346	未分類
 2026-08-21	頑皮狗六年沒新作主因《最後生還者 Online》中止後人力轉往《星際：異端先知》開發中	https://www.4gamers.com.tw/news/detail/81544/the-last-of-us-online-naughty-dog-main-project-intergalactic-heretic-prophet-staff-shift	未分類
 2026-08-21	奇異果連皮食被封邪教食法？網民大讚排便變順暢 營養師揭膳食纖維多50%兼穩血糖	https://www.stheadline.com/health-care/3605541/%E5%A5%87%E7%95%B0%E6%9E%9C%E9%80%A3%E7%9A%AE%E9%A3%9F%E8%A2%AB%E5%B0%81%E9%82%AA%E6%95%99%E9%A3%9F%E6%B3%95%E7%B6%B2%E6%B0%91%E5%A4%A7%E8%AE%9A%E6%8E%92%E4%BE%BF%E8%AE%8A%E9%A0%86%E6%9A%A2-%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%8F%AD%E8%86%B3%E9%A3%9F%E7%BA%96%E7%B6%AD%E5%A4%9A50%E5%85%BC%E7%A9%A9%E8%A1%80%E7%B3%96	未分類
 2026-08-17	印尼魯滕教區主教：天主將在地震的黑暗中帶來新的曙光- 梵蒂岡新聞網	https://www.vaticannews.va/zht/church/news/2026-08/caritas-indonesia-mobilizes-in-response-to-flores-earthquake.html	未分類
@@ -44,8 +43,7 @@ var DATA_RELIGION = `
 2026-08-03	東張西望｜銀行精英沉船女技師借逾百萬 女方爆受邪教操控賣淫呃錢 主謀竟是年輕閨密？	https://www.stheadline.com/film-drama/3600608/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B%E9%8A%80%E8%A1%8C%E7%B2%BE%E8%8B%B1%E6%B2%89%E8%88%B9%E5%A5%B3%E6%8A%80%E5%B8%AB%E5%80%9F%E9%80%BE%E7%99%BE%E8%90%AC-%E5%A5%B3%E6%96%B9%E7%88%86%E5%8F%97%E9%82%AA%E6%95%99%E6%93%8D%E6%8E%A7%E8%B3%A3%E6%B7%AB%E5%91%83%E9%8C%A2-%E4%B8%BB%E8%AC%80%E7%AB%9F%E6%98%AF%E5%B9%B4%E8%BC%95%E9%96%A8%E5%AF%86	未分類
 2026-07-24	【名家專欄】反擊伊朗和中共宗教狂熱分子	https://www.epochtimes.com/b5/26/7/24/n14816736.htm	未分類
 2026-07-20	中國達人秀男星變邪教主！逼女信徒簽身體之約 她慘遭封嘴塞箱裡身亡	https://star.setn.com/news/1875255	未分類
-2026-07-20	《中國達人秀》劉凱瀟成邪教教主 涉女信徒死亡案多項罪成	https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nR1F2UUJWMkF5aFJiZTZjZmt3bDdjbll4Q3lZUGxOT1ZDdXVIeko2MUNfSVY3OFlCdlkyQ3RmaHF0WW1QVVlGbkVTNDZjZXdqSWQ4?oc=5	未分類
-2026-07-19	2026-07-19 - TICBC 主日崇拜講道高清重播- 俄巴底亞書主日講道系列：袖手旁觀的不信者(CC/含字幕	https://youtu.be/q3lQFvJd_pY?t=11	未分類
+2026-07-20	《中國達人秀》劉凱瀟成邪教教主 涉女信徒死亡案多項罪成	https://www.exmoo.com/article/263055.html	未分類
 2026-07-18	陸《達人秀》選手淪邪教主！涉殺70歲女信徒 紐國法院判罪成	https://ctinews.com/news/items/9pWzQX2pnv	未分類
 2026-07-17	上海「噴水人像」宛如邪教儀式！網嚇瘋驚呼： 誤闖冥界	https://www.bastillepost.com/hongkong/article/16376353-%E4%B8%8A%E6%B5%B7%E3%80%8C%E5%99%B4%E6%B0%B4%E4%BA%BA%E5%83%8F%E3%80%8D%E5%AE%9B%E5%A6%82%E9%82%AA%E6%95%99%E5%84%80%E5%BC%8F%EF%BC%81%E7%B6%B2%E5%9A%87%E7%98%8B%E9%A9%9A%E5%91%BC%EF%BC%9A%E8%AA%A4	未分類
 2026-07-16	中共升級鎮壓神韻 美前宗教自由大使籲多國積極反制	https://hk.epochtimes.com/news/2026-07-16/71048570	未分類
@@ -58,15 +56,13 @@ var DATA_RELIGION = `
 2026-07-03	年底大選恐變天？命理師驚曝政壇變數：「教皇級男領袖」降臨	https://www.teepr.com/1907398/mollylin/星座運勢-5/	未分類
 2026-07-02	教宗震怒！天主教團體擅自任命新主教 教廷祭「絕罰」處分驅逐	https://ctinews.com/news/items/JmxNmYeNa8	未分類
 2026-06-30	富足教會醜聞風暴！10受害者控牧師「心靈控制、性騷、詐千萬」 金流疑雲一次燒開	https://www.mirrormedia.mg/external/amp/mirrordaily_70142	未分類
-2026-06-29	世界盃2026︱南韓出局引公憤 主教練洪明甫收「死亡威脅」宣佈辭職	https://news.google.com/rss/articles/CBMikgNBVV95cUxPbzRNcGl2azV4a2Z6TjNPTmF3cmtaaFpEQUZWNFc3M1NXT3VlaThXSVRmcldRU1NTMTh6NTdGWnlhQkt5UGtUdlAzRWg4b3dTRnU4ZElhM1RKcHp6X0JsZ2xrNFBQRnIyclM4OUtQMllhUVVCenRYMl9GV09KVlJmZ0tHUmFkZk1Ga3B3NzFlb0tUQ21ZS2lIWmVUeXV1RENadnI4VWRTR3VrNXFHRG4walQ2eU1MMHFja3MxbEE3OTF2ZndjdmlOWW56Uzh4c0o2SlBKOHZYRWlEOFJLb0wwdFhQMkhKMHJPTGZKVlZfVXVWNUd5RTZOcnlHV1d3QkFtampsNjRYX0JXY0pPT05PelVaX3N0Mmp5Y25rVG1wNDFFWFk1VWJlcXlVUWlvOHl5bDVQbTZpZlFSWXJYSmFEWjJqS2RaeWpLWHRjcUo0dE9ITkI2Ul9KYlhIeHk0WkdVVlktbTFJX0ZieUQ0LU5BX1RjWGRYbncwM0hpWE1OMGlrYVJjTWtjYm9NLV9fV2pLRVE?oc=5	未分類
 2026-06-27	阿拉斯加航空宗教歧視案再審 被指不當解僱員工	https://www.epochtimes.com/b5/26/6/26/n14797457.htm/amp	未分類
 2026-06-22	挨轟邪教！尬電濟顛禪師回嗆「你媽也邪教」 親迎踢館哽咽：連師父都不認了	https://tw.news.yahoo.com/%E6%8C%A8%E8%BD%9F%E9%82%AA%E6%95%99-%E5%B0%AC%E9%9B%BB%E6%BF%9F%E9%A1%9B%E7%A6%AA%E5%B8%AB%E5%9B%9E%E5%97%86-%E4%BD%A0%E5%AA%BD%E4%B9%9F%E9%82%AA%E6%95%99-%E8%A6%AA%E8%BF%8E%E8%B8%A2%E9%A4%A8%E5%93%BD%E5%92%BD-%E9%80%A3%E5%B8%AB%E7%88%B6%E9%83%BD%E4%B8%8D%E8%AA%8D%E4%BA%86-043600510.html	未分類
 2026-06-21	易海華：中共是人類歷史上最大的邪教組織	https://www.ntdtv.com/b5/2026/06/18/a104107339.html	未分類
 2026-06-20	易海華：中共是人類歷史上最大的邪教組織	https://www.epochtimes.com/b5/26/6/20/n14792763.htm/amp	未分類
-2026-06-17	陸委會證實中共將一貫道列邪教 已17台灣信眾赴陸遭關押	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jQ3FCYXk4bTE0bUdScEhRV010aHhiaTFpZDV2N210QzlGSVVHRW9MM3Rta2t2SGI0VGtKWGw5YXg0clc0T1dmN2dkVURxSzA?oc=5	未分類
+2026-06-17	陸委會證實中共將一貫道列邪教 已17台灣信眾赴陸遭關押	https://news.pts.org.tw/article/813462	未分類
 2026-06-17	邱垂正證實「一貫道」被中共定義為邪教，道親17人遭逮捕關押恐判3年重刑	https://tw.news.yahoo.com/%E9%82%B1%E5%9E%82%E6%AD%A3%E8%AD%89%E5%AF%A6-%E8%B2%AB%E9%81%93-%E8%A2%AB%E4%B8%AD%E5%85%B1%E5%AE%9A%E7%BE%A9%E7%82%BA%E9%82%AA%E6%95%99-%E9%81%93%E8%A6%AA17%E4%BA%BA%E9%81%AD%E9%80%AE%E6%8D%95%E9%97%9C%E6%8A%BC%E6%81%90%E5%88%A43%E5%B9%B4%E9%87%8D%E5%88%91-065503874.html	未分類
 2026-06-17	一貫道在中國遭列邪教 陸委會證實17人無法返台：恐面臨3年以上刑責	https://tw.news.yahoo.com/%E8%B2%AB%E9%81%93%E5%9C%A8%E4%B8%AD%E5%9C%8B%E9%81%AD%E5%88%97%E9%82%AA%E6%95%99-%E9%99%B8%E5%A7%94%E6%9C%83%E8%AD%89%E5%AF%A617%E4%BA%BA%E7%84%A1%E6%B3%95%E8%BF%94%E5%8F%B0-%E6%81%90%E9%9D%A2%E8%87%A83%E5%B9%B4%E4%BB%A5%E4%B8%8A%E5%88%91%E8%B2%AC-031500687.html	未分類
-2026-06-12	是時候放下分裂！五旬節紀錄片《願他們合而為一》：實現耶穌對合一的禱告，將迎來覺醒與復興	https://cdn-news.org/news/N2605190002	未分類
 2026-06-08	化身邪教教主！《歡迎入教 JOIN US》2027 年 3 月推出	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XbmdEbHcwdXZGWGlKQUpKeHEyWGs2Z2J5R3BHTGlWUzROYVhjMlU3MW0ySzRZVHZ3OEFrOWM3aE9aNG1qeFBtYmFrSmUwWDhpVUZhQ01nVmg?oc=5	未分類
 2026-06-07	四人合作邪教生存模擬《JOIN US》2027年3月推出 壯大觸手邪教組織更有警察找麻煩	https://www.4gamers.com.tw/news/detail/79842/join-us-cult-simulato	未分類
 2026-06-06	李盛林牧師安息禮｜阿Mo李啟言「給爸爸的信」：願在天家站著抱你	https://www.hk01.com/即時娛樂/60357592/李盛林牧師安息禮-阿mo李啟言-給爸爸的信-願在天家站著抱你	未分類
@@ -124,23 +120,20 @@ var DATA_RELIGION = `
 2026-01-12	蔡依林演唱會遭網民舉報！指控巨蛇「吸運」涉邪教 要求停辦巡演	https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60311783/%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E6%9C%83%E9%81%AD%E7%B6%B2%E6%B0%91%E8%88%89%E5%A0%B1-%E6%8C%87%E6%8E%A7%E5%B7%A8%E8%9B%87-%E5%90%B8%E9%81%8B-%E6%B6%89%E9%82%AA%E6%95%99-%E8%A6%81%E6%B1%82%E5%81%9C%E8%BE%A6%E5%B7%A1%E6%BC%94	未分類
 2026-01-12	蔡依林演唱會慘遭檢舉涉邪教儀式感內地網民聲稱巨蛇「吸運」要求停辦巡演- 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/16583869010829/%E5%A8%9B%E6%A8%82-%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E6%9C%83%E6%85%98%E9%81%AD%E6%AA%A2%E8%88%89%E6%B6%89%E9%82%AA%E6%95%99%E5%84%80%E5%BC%8F%E6%84%9F-%E5%85%A7%E5%9C%B0%E7%B6%B2%E6%B0%91%E8%81%B2%E7%A8%B1%E5%B7%A8%E8%9B%87-%E5%90%B8%E9%81%8B-%E8%A6%81%E6%B1%82%E5%81%9C%E8%BE%A6%E5%B7%A1%E6%BC%94	未分類
 2026-01-08	蔡依林演唱會遭內地博主指涉「邪教」 出道26年不再忍首次告黑粉	https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60310751/%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E6%9C%83%E9%81%AD%E5%85%A7%E5%9C%B0%E5%8D%9A%E4%B8%BB%E6%8C%87%E6%B6%89-%E9%82%AA%E6%95%99-%E5%87%BA%E9%81%9326%E5%B9%B4%E4%B8%8D%E5%86%8D%E5%BF%8D%E9%A6%96%E6%AC%A1%E5%91%8A%E9%BB%91%E7%B2%89	未分類
-2025-12-29	瘟疫驅邪到豐收祈願 澎湖竹灣村秋末獨特祭典「拜煙墩」習俗	https://star.setn.com/news/1772320	未分類
+2025-12-29	瘟疫驅邪到豐收祈願 澎湖竹灣村秋末獨特祭典「拜煙墩」習俗	https://tw.news.yahoo.com/瘟疫驅邪到豐收祈願-澎湖竹灣村秋末獨特祭典-拜煙墩-習俗-070500763.html	未分類
 2025-12-03	新聞女王2｜張松枝演技爆發撞樣孔劉 邪教騙局改編自真實事件？	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60300050/%E6%96%B0%E8%81%9E%E5%A5%B3%E7%8E%8B2-%E5%BC%B5%E6%9D%BE%E6%9E%9D%E6%BC%94%E6%8A%80%E7%88%86%E7%99%BC%E6%92%9E%E6%A8%A3%E5%AD%94%E5%8A%89-%E9%82%AA%E6%95%99%E9%A8%99%E5%B1%80%E6%94%B9%E7%B7%A8%E8%87%AA%E7%9C%9F%E5%AF%A6%E4%BA%8B%E4%BB%B6	未分類
 2025-11-25	山上徹也受審：右翼政客與邪教骯髒交易卻逃過拷問	https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60297412/%E5%B1%B1%E4%B8%8A%E5%BE%B9%E4%B9%9F%E5%8F%97%E5%AF%A9-%E5%8F%B3%E7%BF%BC%E6%94%BF%E5%AE%A2%E8%88%87%E9%82%AA%E6%95%99%E9%AA%AF%E9%AB%92%E4%BA%A4%E6%98%93%E5%8D%BB%E9%80%83%E9%81%8E%E6%8B%B7%E5%95%8F	未分類
-2025-09-28	2025-09-28 - TICBC - 主日崇拜講道高清重播- 4K- 真的時不我與嗎？Are We Not Of This World? - （CC/含字幕）	https://youtu.be/Eukn2dgZwgM?t=11	未分類
 2025-09-05	🕊️ 宗教自由 器官移植	https://www.washingtontimes.com/news/2025/sep/4/xi-jinping-putin-caught-discussing-organ-transplants-immortality-hot/	未分類
 2025-08-28	23歲槍手闖天主教小學掃射釀2死 曾發影片透露情緒不穩、槍枝寫滿要犯名字 ｜ 太報 ｜ LINE TODAY	https://today.line.me/tw/v3/article/wJMZNJG	未分類
 2025-08-22	AI耶穌上線「互動1關鍵」讓學者驚呼！傳非教會人士所創	https://today.line.me/tw/v3/article/JPOZkjX	未分類
 2025-08-12	AI冲击殡葬传统 宗教学者揭示科技与灵性如何共存	https://www.orientaldaily.com.my/news/north/2025/08/12/753734	未分類
 2025-08-07	台中某教會工地傳意外！34歲工人「工程梯上墜落」 送醫搶救仍死亡	https://www.setn.com/news/1700715	未分類
-2025-07-18	【陳思國專欄】教會分裂，神看了很難過...我們不是敵人撒但才是！	https://www.cdn-news.org/article/C2507180004	未分類
 2025-05-05	特朗普批犯罪分子荼毒美國太久 擬重啟「惡魔島」囚最暴力罪犯	https://www.hk01.com/article/60235479?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-04-30	教廷秘密會議5/7登場 教宗選舉背後如何上演教會權勢之爭？	https://news.pts.org.tw/article/748985	未分類
 2025-03-26	正教會普世牧首： 1054年教會分裂「非無法超越」	https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1BOWGZYbDNIYnhoUTFRV1NoV2k2T0JPUm1xdHBDWFdLZVIzcEFrNGJob0NaaklNQVJSUk9xYTdldFd5TWhuTlRmaXV2cTVCM3JKTExmWXh1d052RmhCX2hjOE5rZ3VYaDFEbUJ0Yi1PUmxLMDUzQXZDa2tnQUpOeEpGRktwM0NlOWo1NjJsTmQ1U01DQnllaHJoOGV5YmE4VnBRV2dIanNmVm5qd0FpdlRrMTlXbG9LVFE?oc=5	未分類
 2025-02-26	回顧循道衛理聯合50年歷史邢福增：教會合一需考慮現實處境	https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDVDQWl0NzdTbThyN2VVcE9KMWZZV0E2aGdrVktkX1NqTEcxNTNZLVY0MVVZTndDWFZ0OFRxTXRNd1B0SHBpWWM2UWJhQVJ1YS1wa01LM3FXR2pyRnFKaU9CMXBCaDl6UmFENGl3ZE4xeTdNQU1BRGVhLTAwX3prUUNfaUR6cGJjOXdJUlZPZ0stMXMxbEE0T2M3OTJwSDNfZ1B6TTUzSDkwY3BVQzRtdExpbHBGMEZHQUE?oc=5	未分類
 2025-02-13	公安部整治邪教 嚴厲打擊藉「靈修」等名義從事非法培訓活動	https://www.hk01.com/article/1103041?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-01-17	浙江再拆十字架 三自教會分裂 | 鄒思聰 | 風生活	https://www.storm.mg/lifestyle/38771	未分類
-2024-12-27	【李協聰專欄】教會產生分裂跟它有關，一切不冷不熱狀態要完全離開！	https://cdn-news.org/article/C2412270004	未分類
 2024-11-25	教派衝突釀至少82死 政府調停達成停火7天	http://hk.on.cc/hk/bkn/cnt/intnews/20241125/bkn-20241125060525253-1125_00992_001.html	未分類
 2024-05-27	「這是我們敬拜的好地方！」桃基盟桃青盟跨代聯結宣告聖靈在桃園教會要明白神對城市國家的心意成為守望和祝福	https://news.google.com/rss/articles/CBMieEFVX3lxTFA5ZW5Ib0QxeExZWG1sb256TTlUdzZiaFRuRmlzZWM0TzZsdm5udW1fUHE0QnlIcnoxUG5SMVBUelgzUWJiQTZiVmpQSWZRUzJ0bkZHREdHMUJDOWJPRXo5QVEycHVVN3hpdzJqaHhSR3dsajFpSXB5Tg?oc=5	未分類
 2024-04-23	以色列什麼時候宰殺紅母牛？檢驗宗教預言	https://rgkarmch-org.translate.goog/when-will-israel-slaughter-the-red-heifer/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp#google_vignette	未分類
@@ -155,16 +148,11 @@ var DATA_RELIGION = `
 2022-07-17	以貧窮和疾病為號召！盤點11個歷史上的「新興宗教」， 統一教資歷竟然最淺	https://www.storm.mg/lifestyle/4426237	未分類
 2022-05-18	俄羅斯東正教牧首支持出兵烏克蘭，引發教會分裂危機，教宗方濟各：不要淪為普亭的「輔祭男童」	https://www.thenewslens.com/article/167002	未分類
 2021-12-05	要聞解說 - 拉近與東正教的距離 方濟各：要探訪“所有人，不只是天主教徒”	https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20211205-%E6%8B%89%E8%BF%91%E8%88%87%E6%9D%B1%E6%AD%A3%E6%95%99%E7%9A%84%E8%B7%9D%E9%9B%A2-%E6%96%B9%E6%BF%9F%E5%90%84-%E8%A6%81%E6%8E%A2%E8%A8%AA-%E6%89%80%E6%9C%89%E4%BA%BA%EF%BC%8C%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%A4%A9%E4%B8%BB%E6%95%99%E5%BE%92	未分類
-2021-10-16	【2021地方教會差傳年會】日本宣教士林婷見證「為主而活！」 同學一句「耶穌愛你！」 改變想自殺的她的一生	https://news.google.com/rss/articles/CBMiaEFVX3lxTE8taFBWdXZHM2YyblI2QkJkaEZsUHpYZE01UU1FRHowb19CampGenQ1ZW9SUGpRMVNtUER1WmJmbW5ZTGRCaERLc0p6VTZMWEFyOE1QVjgtczUza1pxZzZ2OFd5dk1RTDI5?oc=5	未分類
-2021-09-22	邪教引誘信徒的秘密：滲透生活各個角落的語言	https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ibVgzc1lUd20xYUJaWlJGZVlGTVVYNnJFeEU0UEFHelRvSXNldkJGX0lRQXBpVHJqWEdFaS1GUV83WFppaEZWZDAwQ2p5bDBfblFmaUR3MnJwM24y0gFiQVVfeXFMT0o3ckZaLUg1QlE5X09BQmhnWGh4NklOZmNLUVFyLXBQUDlrWmNnRHlNd3RXM3N0YWV3dkUyenpZbWNWQjh3LVhrcUlLSWEtazRlZTF0QklIbTdGeVFiQVF5Z3c?oc=5	未分類
 2021-09-06	日月潭耶穌堂建堂50週年暨吹角節歡慶 祈願成禱告祭壇	https://news.google.com/rss/articles/CBMieEFVX3lxTE1zUk9YdXBKTGd6dGJ5dm1VNkhfSmt3ZXJuemh0UkhwTWNsS0U1ZHVRWWVyTzhvYldPR2Z5QkQyaF9PSEs2WFVOZUt1UHJkSU5JMmVnQ3ZiQ2dJVmxSdy1HNUVrdVVkbTdYQWtoVEFGSjFkMEl0RUhJXw?oc=5	未分類
 2021-05-13	美國務卿布林肯報告「譴責中國宗教迫害」 再增制裁官員	https://www.setn.com/news/938410	未分類
 2021-05-12	為什麼佛教徒要攻擊其他宗教	https://dq.yam.com/post/996	未分類
-2021-03-23	連續颱風吹毀了菲律賓教堂 患難中教會就像尼希米，一手做工一手拿兵器「重建聖殿」！	https://cdn-news.org/news/25418	未分類
 2020-10-27	中國迫害佛教、基督教徒…美國不忍了：對信仰開戰不會得勝	https://www.setn.com/news/838290	未分類
 2020-09-07	以色列正培育「紅母牛」 為重建第三聖殿耶穌再臨做預備	https://news.google.com/rss/articles/CBMijwFBVV95cUxOQW1RTmVmNDBWaFItM2IxY2NCbjRGLW9abUVYODJIU3FUcUFmOF9NSjdlcTlCUXdEY1ZqT0xaX3VrR0s5SG1UMFBiLXFESm5sNFBDdFdhamZ3S1l4UVgyeG5jNUJSNHlMSjRjM0o1YXphajVVaWhZc1RQU3RxLUZJc3FNZzFlOUVuV0NUV0JSVQ?oc=5	未分類
-2020-07-14	牧師兒大學未婚生子 他們悔改、為主見證成為祝福，媳婦全家信主	https://cdn-news.org/news/22716	未分類
-2019-11-17	今屆培靈奮興大會圓滿結束 明年李思敬牧師擔任講員	https://christianweekly.net/2019/ta2038651.html	未分類
 2019-09-25	齊齊哈爾主教：地下教會失存在意義	https://orientaldaily.on.cc/cnt/china_world/20190925/mobile/odn-20190925-0925_00178_007.html	未分類
 2019-09-23	中國魏景儀主教受訪：中梵協議是聖神的恩典 - 梵蒂岡新聞網	https://www.vaticannews.va/zht/church/news/2019-09/intervista-mons-wei-agreement-holy-see-china.html	未分類
 2018-12-16	俄烏東正教會歷史性分裂 基輔自立牧首	https://hk.on.cc/hk/bkn/cnt/aeanews/20181216/bkn-20181216110011088-1216_00912_001.html	未分類
@@ -172,7 +160,4 @@ var DATA_RELIGION = `
 2017-06-16	以色列建第三聖殿與敵基督出現	https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6NXdKcGo1TE5KelZxVEV1M0lNWkJxRy13X21VMjFiNjFmTkNRQnZKSVBxbkdRRVU4M0ljQzJEZzRTZmcyVXc?oc=5	未分類
 2017-02-03	「旅行禁令」遭批川普辯：為確保美國宗教自由| 國際	https://www.setn.com/news/221453	未分類
 2017-01-26	挺同、反同長老教會意見分歧 總會書記：若教會分裂，會有很大傷害 | 謝珮琪 | 新聞	https://www.storm.mg/article/217221	未分類
-2014-10-31	以軍封鎖宗教聖地，巴以衝突在即- 紐約時報中文網	https://cn.nytimes.com/world/20141031/c31jerusalem/zh-hant/	未分類
-2008-07-22	荃葵青研經培靈佈道會展開張永信：啟示文學信息強勁 （7月22日消息）	https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0N2WFc5ckJBckRLdUo2N0tYNTZVTW9xRDF6NmpYMkhlTEdvZV9NWGFyX0h1SklZVElqVUdVWDlaYXdkM2pxOXNILVhscEZnLW1SREhwaERodUlXcGRoVlBDU3dGak5vRkJxNk1SeE95WmhMTW1BV0c2RmJIQ2YwRlZ4V1YtcG5objVZRTRZZENONXdNNFY3ZDNFSGh0VHFXMktrQUMyTVdsWnhHV2VZdm5Dam0?oc=5	未分類
-2006-08-31	坎伯雷特大主教竭力避免聖公會陷於分裂	https://www.gospelherald.com/news/56eaqgf9dn59	未分類
 `;
