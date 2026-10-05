@@ -1,26 +1,26 @@
-// 遇溺 | 由 build_news_js.py 生成 | 共 899 條
+// 遇溺 | 由 build_news_js.py 生成 | 共 809 條
 var DATA_DROWNING = `
 2026-09-26	西貢黃石碼頭發生墮海意外 一名男子遇溺昏迷送院	https://www.singtaousa.com/2026/09/26/news/china/man-falls-into-sea-sai-kung/	未分類
 2026-09-26	西貢黃石碼頭男子墮海遇溺 昏迷送院搶救	https://www.singtao.ca/7638680/2026-09-26/news-%E8%A5%BF%E8%B2%A2%E9%BB%83%E7%9F%B3%E7%A2%BC%E9%A0%AD%E7%94%B7%E5%AD%90%E5%A2%AE%E6%B5%B7%E9%81%87%E6%BA%BA+%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91/	未分類
 2026-09-26	荃灣近水灣泳灘九旬婦遇溺 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260927/bkn-20260927053009341-0927_00822_001.html	未分類
 2026-09-26	荃灣近水灣9旬婦游早水遇溺 消防救起 昏迷送院搶救	https://www.singtao.ca/7638863/2026-09-26/news-%E8%8D%83%E7%81%A3%E8%BF%91%E6%B0%B4%E7%81%A39%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%97%A9%E6%B0%B4%E9%81%87%E6%BA%BA+%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7+%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91/	未分類
-2026-09-24	金牌泳將童年遇溺	https://www.hkej.com/dailynews/culture/article/4516224/%25E9%2587%2591%25E7%2589%258C%25E6%25B3%25B3%25E5%25B0%2587%25E7%25AB%25A5%25E5%25B9%25B4%25E9%2581%2587%25E6%25BA%25BA	未分類
+2026-09-24	金牌泳將童年遇溺	https://www.hkej.com/dailynews/culture/article/4516224/金牌泳將童年遇溺	未分類
 2026-09-24	維園泳池8旬嫗遇溺	https://orientaldaily.on.cc/content/要聞港聞/odn-20260924-0924_00176_264/維園泳池8旬嫗遇溺	未分類
 2026-09-24	不滿鄰居童向妹妹撒沙 山東13歲少年推5歲男童入水致溺斃	https://www.hk01.com/大國小事/60393423/不滿鄰居童向妹妹撒沙-山東13歲少年推5歲男童入水致溺斃	未分類
 2026-09-23	美演员在首尔汉江 救起险遇溺中学生	https://www.chinapress.com.my/20260923/美演员在首尔汉江-救起险遇溺中学生/	未分類
 2026-09-23	维园泳池女泳客疑遇溺 获救送院治理	https://global.hk01.com/突发/60392799/维园泳池女泳客疑遇溺-获救送院治理	未分類
 2026-09-23	维园泳池女子遇溺一度昏迷送院救治｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260923/bkn-20260923074844651-0923_00822_001_cn.html	未分類
-2026-09-23	維園泳池女泳客疑遇溺 獲救送院治理	https://www.hk01.com/%E7%AA%81%E7%99%BC/60392799/%E7%B6%AD%E5%9C%92%E6%B3%B3%E6%B1%A0%E5%A5%B3%E6%B3%B3%E5%AE%A2%E7%96%91%E9%81%87%E6%BA%BA-%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86	未分類
+2026-09-23	維園泳池女泳客疑遇溺 獲救送院治理	https://www.hk01.com/突發/60392799/維園泳池女泳客疑遇溺-獲救送院治理	未分類
 2026-09-23	維園泳池女子遇溺 一度昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260923/bkn-20260923074844651-0923_00822_001.html	未分類
-2026-09-23	維園泳池六旬女泳客疑遇溺 獲救生員救起送院	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XVi1FVE1RSWlRbjlNUHV3Z2pUdWJyZHlOYnIwYnpnTjBaS25xSk5aSXlZYjBOcTRISXNxUlVQamw0UzA0ZGJnV3dVZ0luMWxfTnc?oc=5	未分類
+2026-09-23	維園泳池六旬女泳客疑遇溺 獲救生員救起送院	https://www.am730.com.hk/article/1054663	未分類
 2026-09-21	马国柔甲森三州人工降雨驱散烟霾 确保水坝供水稳定	https://www.zaobao.com.sg/news/sea/story20260921-9710782	未分類
 2026-09-21	奮不顧身跳河救出遇溺父女 女子獲頒英勇獎章	https://www.singtao.ca/7633212/2026-09-21/news-奮不顧身跳河救出遇溺父女 女子獲頒英勇獎章/	未分類
 2026-09-18	屯门蝴蝶湾泳滩六旬男泳客疑遇溺 昏迷送院抢救	https://global.hk01.com/突发/60391406/屯门蝴蝶湾泳滩六旬男泳客疑遇溺-昏迷送院抢救	未分類
 2026-09-18	屯门蝴蝶湾泳滩六旬汉遇溺昏迷送院抢救｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260918/mobile/bkn-20260918155510111-0918_00822_001_cn.html	未分類
 2026-09-18	屯门蝴蝶湾泳滩66岁男遇溺 昏迷送院抢救	https://www.stheadline.com/zh-hans/breaking-news/3616872/屯门蝴蝶湾泳滩66岁男遇溺-昏迷送院抢救	未分類
-2026-09-18	屯門蝴蝶灣泳灘六旬男泳客疑遇溺 昏迷送院搶救	https://www.hk01.com/%E7%AA%81%E7%99%BC/60391406/%E5%B1%AF%E9%96%80%E8%9D%B4%E8%9D%B6%E7%81%A3%E6%B3%B3%E7%81%98%E5%85%AD%E6%97%AC%E7%94%B7%E6%B3%B3%E5%AE%A2%E7%96%91%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
+2026-09-18	屯門蝴蝶灣泳灘六旬男泳客疑遇溺 昏迷送院搶救	https://www.hk01.com/突發/60391406/屯門蝴蝶灣泳灘六旬男泳客疑遇溺-昏迷送院搶救	未分類
 2026-09-18	屯門蝴蝶灣泳灘六旬漢遇溺 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20260918/bkn-20260918155510111-0918_00822_001.html	未分類
-2026-09-18	屯門蝴蝶灣泳灘66歲男遇溺 昏迷送院搶救	https://www.stheadline.com/breaking-news/3616872/%E5%B1%AF%E9%96%80%E8%9D%B4%E8%9D%B6%E7%81%A3%E6%B3%B3%E7%81%9866%E6%AD%B2%E7%94%B7%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
+2026-09-18	屯門蝴蝶灣泳灘66歲男遇溺 昏迷送院搶救	https://www.stheadline.com/breaking-news/3616872/屯門蝴蝶灣泳灘66歲男遇溺-昏迷送院搶救	未分類
 2026-09-18	六旬漢屯門龍門路泳灘遇溺 昏迷送院 (17:25) - 20260918 - 港聞	https://news.mingpao.com/ins/港聞/article/20260918/s00001/1789721957727/六旬漢屯門龍門路泳灘遇溺-昏迷送院	未分類
 2026-09-18	“超级工程”官路水库正式下闸蓄水	https://finance.sina.cn/2026-09-18/detail-inisewtm3396073.d.html?vt=4&cid=76729&node_id=76729	未分類
 2026-09-17	新西蘭男子網購深圳製「潛水神器」 浴缸試用翌日出海潛5米溺斃	https://www.hk01.com/熱爆話題/60389615/新西蘭男子網購深圳製-潛水神器-浴缸試用翌日出海潛5米溺斃	未分類
@@ -28,17 +28,17 @@ var DATA_DROWNING = `
 2026-09-16	帶狗爬山當心！女子救落水愛犬雙亡 專家警告飼主「1心態」很危險	https://pets.udn.com/pets/amp/story/124350/9757806	未分類
 2026-09-16	女子黄河畔约会后失踪溺亡其母认为有疑点｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260916/bkn-20260916040552137-0916_00822_001_cn.html?refer=hn2	未分類
 2026-09-15	「TVB小花」 李海銅唔識游水硬著頭皮扮浮屍 自爆入行3年死咗3次 ： 一點男人就會死	https://hk.news.yahoo.com/「tvb小花」-李海銅唔識游水硬著頭皮扮浮屍-自爆入行3年死咗3次-：-一點男人就會死-035217468.html	未分類
-2026-09-14	陪女友江邊看日落見長者遇溺 重慶體育老師逆流救人受傷仍感無悔	https://www.bastillepost.com/hongkong/article/16484605-%E9%99%AA%E5%A5%B3%E5%8F%8B%E6%B1%9F%E9%82%8A%E7%9C%8B%E6%97%A5%E8%90%BD%E8%A6%8B%E9%95%B7%E8%80%85%E9%81%87%E6%BA%BA-%E9%87%8D%E6%85%B6%E9%AB%94%E8%82%B2%E8%80%81%E5%B8%AB%E9%80%86%E6%B5%81%E6%95%91	未分類
+2026-09-14	陪女友江邊看日落見長者遇溺 重慶體育老師逆流救人受傷仍感無悔	https://www.bastillepost.com/hongkong/article/16484605-陪女友江邊看日落見長者遇溺-重慶體育老師逆流救	未分類
 2026-09-12	西貢清水灣二灘8旬女泳客遇溺 獲救昏迷送院亡	https://www.stheadline.com/breaking-news/3614492/西貢清水灣二灘8旬女泳客遇溺-獲救昏迷送院亡	未分類
 2026-09-12	清水灣女子遇溺昏迷送院搶救 (11:07) - 20260912 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260912/s00001/1789182900280/%E6%B8%85%E6%B0%B4%E7%81%A3%E5%A5%B3%E5%AD%90%E9%81%87%E6%BA%BA%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
 2026-09-12	清水灣二灘女子遇溺 救回岸上昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260912/bkn-20260912103901475-0912_00822_001.html	未分類
 2026-09-12	女子西貢廈門灣泳灘遇溺 清醒送院 (16:04) - 20260912 - 港聞	https://news.mingpao.com/ins/港聞/article/20260912/s00001/1789201023586/女子西貢廈門灣泳灘遇溺-清醒送院	未分類
-2026-09-11	西貢清水灣二灘8旬女泳客遇溺 獲救昏迷送院	https://www.singtao.ca/7624934/2026-09-11/news-西貢清水灣二灘8旬女泳客遇溺+獲救昏迷送院/	未分類
+2026-09-11	西貢清水灣二灘8旬女泳客遇溺 獲救昏迷送院	https://www.singtao.ca/7624934/2026-09-11/news-%E8%A5%BF%E8%B2%A2%E6%B8%85%E6%B0%B4%E7%81%A3%E4%BA%8C%E7%81%988%E6%97%AC%E5%A5%B3%E6%B3%B3%E5%AE%A2%E9%81%87%E6%BA%BA+%E7%8D%B2%E6%95%91%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2/	未分類
 2026-09-09	英德石门台水库大坝封顶 优质水即将流进千家万户	https://gd.sina.com.cn/news/zhuazhan/2026-09-09/detail-inirfqcu8504808.shtml	未分類
 2026-09-08	卑詩今年42人溺亡 公園設救生衣借用站未獲批	https://www.epochtimes.com/b5/26/9/8/n14844945.htm	未分類
 2026-09-05	北加造價60億水庫 面臨抽水限制	https://www.worldjournal.com/wj/amp/story/121368/9736163	未分類
 2026-09-04	【少年结伴戏水遇溺】丹绒峇劳海滩“隐形杀手” 地形如排水沟易形成强离岸流	https://www.orientaldaily.com.my/news/society/2026/09/04/845525	未分類
-2026-09-04	23歲中國女留學生意大利意外溺亡 同行人稱「跳入湖中瞬間消失」	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60386817/23%E6%AD%B2%E4%B8%AD%E5%9C%8B%E5%A5%B3%E7%95%99%E5%AD%B8%E7%94%9F%E6%84%8F%E5%A4%A7%E5%88%A9%E6%84%8F%E5%A4%96%E6%BA%BA%E4%BA%A1-%E5%90%8C%E8%A1%8C%E4%BA%BA%E7%A8%B1-%E8%B7%B3%E5%85%A5%E6%B9%96%E4%B8%AD%E7%9E%AC%E9%96%93%E6%B6%88%E5%A4%B1	未分類
+2026-09-04	23歲中國女留學生意大利意外溺亡 同行人稱「跳入湖中瞬間消失」	https://www.hk01.com/即時中國/60386817/23歲中國女留學生意大利意外溺亡-同行人稱-跳入湖中瞬間消失	未分類
 2026-09-03	馬灣碼頭海面女子遇溺 獲救送院	https://hk.on.cc/hk/bkn/cnt/news/20260903/bkn-20260903225718048-0903_00822_001.html	未分類
 2026-09-03	中国留学生意大利溺亡：距岸边仅约5米，当地出动潜水专业人员乘直升机赶赴现场	https://news.ifeng.com/c/8w7BpJMdXby	未分類
 2026-09-03	【少年结伴戏水遇溺】搜救队寻获第二具遗体 16岁少年塔奇夫证实罹难	https://www.orientaldaily.com.my/news/society/2026/09/03/845237	未分類
@@ -50,8 +50,7 @@ var DATA_DROWNING = `
 2026-09-01	（有片）火炭麗峰花園遇溺意外女死者為全球大型社交媒體高層- 香港	https://www.wenweipo.com/a/202609/01/AP6a965575e4b0c1e50027109d.html	未分類
 2026-09-01	（有片）火炭麗峰花園遇溺意外 女死者為全球大型社交媒體高層	https://news.google.com/rss/articles/CBMid0FVX3lxTFA1ekdzZkdHRTR0V1d6Y2R3R1hhdHVYMy1SVW5IekZTRWM1ZTFSS19ZalA2d044WWd4T3VQSjRob2YxMzdnR1VuRnpFRFZZMFBiWEhCYU53Zy1hY0gycUdRRDBuXzRhYTVlNXV5NnVTQUFQc3BlQ1pj?oc=5	未分類
 2026-09-01	火炭麗峰花園遇溺意外女死者為全球大型社交媒體高層- 港聞	https://www.dotdotnews.com/s/202609/01/AP6a9664b2e4b04b6c5d388187.html	未分類
-2026-09-01	火炭麗峯花園71歲婦游泳遇溺亡 消息：為全球知名社交媒體高層	https://www.hk01.com/%E7%AA%81%E7%99%BC/60385813/%E7%81%AB%E7%82%AD%E9%BA%97%E5%B3%AF%E8%8A%B1%E5%9C%9271%E6%AD%B2%E5%A9%A6%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA%E4%BA%A1-%E6%B6%88%E6%81%AF-%E7%82%BA%E5%85%A8%E7%90%83%E7%9F%A5%E5%90%8D%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E9%AB%98%E5%B1%A4	未分類
-2026-08-31	火炭麗峰花園七旬婦遇溺亡 消息指死者為全球大型社交媒體高層	https://news.google.com/rss/articles/CBMiwgJBVV95cUxPT3FGYXY5THd4R2RJY3J5OTY3WlA3WE92VkowbjFqMF84THFBSzRMUk9jcVp1cm9pYUJ4blQwd2dpZzBuU185ZmlDcXM5aFg1NWZkaURYZ1l3SW5VZTV3OGJkbTNsajJObEhtQ2FxWTRSYjBVMGlRLTU4Q3Zqbk0ycF9qMXJJX29LRTY3alhQNzR5SWlSMW9VN1V0eDVtLVM5WWJBZ180Z3dORG1wQkxELXBaSTgzRGxlRUJhbldKcEhtYmpvcDZ2R3JsT3FvampVNlBTV3R6WUtLVmEwNGw3UWJQVlNMd2pzWDNGVmF6YkJOZVQ1cnI1Mk8zSlRiczBpMWJxWUItWWphVWl3RmEySW56LWo3MjlpMkhVZ1duazg2RUlsa2ZUdExEMk1KZngwVFJaTXhBVmVsdWF4MURjUzVR0gGMAUFVX3lxTE9iSm43cFRieU5OSDZhcDZkRlE5ZmtVSl9VRWdrWTEyUVFpSzJUNjE4NU5ueHJXY2dtUW0xR3pFQVpKYmVGRUxJU25BbmY5VVo1anR4bkIwRUtuU3MzVWVIcnhsR0ZwZjI2R0pDUXdSRXcza1VMb0dfUTVNa2dla2tfQVdnZGM3SmJpUU9Y?oc=5	未分類
+2026-09-01	火炭麗峯花園71歲婦游泳遇溺亡 消息：為全球知名社交媒體高層	https://www.hk01.com/突發/60385813/火炭麗峯花園71歲婦游泳遇溺亡-消息-為全球知名社交媒體高層	未分類
 2026-08-31	火炭婦人游泳遇溺 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20260831/bkn-20260831181317328-0831_00822_001.html	未分類
 2026-08-31	海边戏水遇溺 4人被民众救上岸 （哥打丁宜31日讯）父亲趁国庆日假期，带着儿子及侄女到海边戏水，不料4人不慎溺水，所幸民众及时将他们救上岸，4人皆平安。此事于昨日上午时段，在柏呐哇镇SPP露营处...	https://www.chinapress.com.my/20260831/%E6%B5%B7%E8%BE%B9%E6%88%8F%E6%B0%B4%E9%81%87%E6%BA%BA-4%E4%BA%BA%E8%A2%AB%E6%B0%91%E4%BC%97%E6%95%91%E4%B8%8A%E5%B2%B8/	未分類
 2026-08-31	海边戏水遇溺 4人被民众救上岸	https://www.chinapress.com.my/20260831/海边戏水遇溺-4人被民众救上岸/	未分類
@@ -60,11 +59,11 @@ var DATA_DROWNING = `
 2026-08-30	元朗游泳池妇人遇溺昏迷送院抢救｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260830/mobile/bkn-20260830163624400-0830_00822_001_cn.html	未分類
 2026-08-30	元朗游泳池六旬婦游泳遇溺 昏迷送院搶救 今日（30日）下午2時許，一名63歲姓阮女子在元朗體育路10號元朗游泳池游泳，其間懷疑遇溺，救生員遂將她救起，惟她已陷昏迷。救護人員隨即將她送往博愛醫院搶救，警.	https://www.singtao.ca/7612966/2026-08-30/news-%E5%85%83%E6%9C%97%E6%B8%B8%E6%B3%B3%E6%B1%A0%E5%85%AD%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA	未分類
 2026-08-30	元朗游泳池六旬婦游泳遇溺 昏迷送院搶救 今日（30日）下午2時許，一名63歲姓阮女子在元朗體育路10號元朗游泳池游泳，其間懷疑遇溺，救生員遂將她救起，惟她已陷昏迷。救護人員隨即將她送往博愛醫院搶救，...	https://www.stheadline.com/breaking-news/3609744/%E5%85%83%E6%9C%97%E6%B8%B8%E6%B3%B3%E6%B1%A0%E5%85%AD%E6%97%AC%E5%A9%A6%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
-2026-08-30	元朗游泳池六旬婦游泳遇溺 昏迷送院搶救	https://www.singtao.ca/7612966/2026-08-30/news-元朗游泳池六旬婦游泳遇溺	未分類
+2026-08-30	元朗游泳池六旬婦游泳遇溺 昏迷送院搶救	https://www.stheadline.com/breaking-news/3609744/元朗游泳池六旬婦游泳遇溺-昏迷送院搶救	未分類
 2026-08-30	元朗游泳池六旬妇游泳遇溺 昏迷送院抢救 今日（30日）下午2时许，一名63岁姓阮女子在元朗体育路10号元朗游泳池游泳，其间怀疑遇溺，救生员遂将她救起，惟她已陷昏迷。救护人员随即将她送往博爱医院抢救，...	https://www.stheadline.com/zh-hans/breaking-news/3609744/%E5%85%83%E6%9C%97%E6%B8%B8%E6%B3%B3%E6%B1%A0%E5%85%AD%E6%97%AC%E5%A6%87%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%8A%A2%E6%95%91	未分類
 2026-08-30	元朗游泳池六旬妇游泳遇溺 昏迷送院抢救	https://www.stheadline.com/zh-hans/breaking-news/3609744/元朗游泳池六旬妇游泳遇溺-昏迷送院抢救	未分類
 2026-08-30	元朗游泳池63歲女泳客疑遇溺 昏迷送院搶救	https://www.hk01.com/%E7%AA%81%E7%99%BC/60385040/%E5%85%83%E6%9C%97%E6%B8%B8%E6%B3%B3%E6%B1%A063%E6%AD%B2%E5%A5%B3%E6%B3%B3%E5%AE%A2%E7%96%91%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
-2026-08-29	河南暴雨8隻巨禽慘遭急流沖走 網民直擊遇溺畫面揭露最終驚人下場	https://www.gotrip.hk/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8-%E9%B4%95%E9%B3%A5%E6%BC%82%E6%B5%81-%E9%B4%95%E5%A0%85%E5%BC%B7-1902089/	未分類
+2026-08-29	河南暴雨8隻巨禽慘遭急流沖走 網民直擊遇溺畫面揭露最終驚人下場	https://www.gotrip.hk/人氣話題/河南暴雨-鴕鳥漂流-鴕堅強-1902089/	未分類
 2026-08-28	銀礦灣泳灘男童遇溺 及時發現清醒救回岸上	https://hk.on.cc/hk/bkn/cnt/news/20260828/bkn-20260828130539801-0828_00822_001.html	未分類
 2026-08-28	梅窩銀礦灣泳灘7歲男童參與活動期間遇溺 及時獲救 大嶼山梅窩有小童遇溺獲救。今日（28日）中午約12時43分，一名年約7歲男童，在東灣頭路銀礦灣泳灘游泳期間遇溺，救生員及時將男童救起及報警，他幸.	https://www.hk01.com/%E7%AA%81%E7%99%BC/60384560/%E6%A2%85%E7%AA%A9%E9%8A%80%E7%A4%A6%E7%81%A3%E6%B3%B3%E7%81%987%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%8F%83%E8%88%87%E6%B4%BB%E5%8B%95%E6%9C%9F%E9%96%93%E9%81%87%E6%BA%BA-%E5%8F%8A%E6%99%82%E7%8D%B2%E6%95%91	未分類
 2026-08-28	梅窩銀礦灣泳灘7歲男童參與活動期間遇溺 及時獲救	https://www.hk01.com/突發/60384560/梅窩銀礦灣泳灘7歲男童參與活動期間遇溺-及時獲救	未分類
@@ -72,22 +71,21 @@ var DATA_DROWNING = `
 2026-08-28	梅窩銀礦灣泳灘6歲女童學游泳期間遇溺 及時獲救	https://www.hk01.com/突發/60384560/梅窩銀礦灣泳灘6歲女童學游泳期間遇溺-及時獲救	未分類
 2026-08-28	梅窝银矿湾泳滩7岁男童参与活动期间遇溺 及时获救 大屿山梅窝有小童遇溺获救。今日（28日）中午约12时43分，一名年约7岁男童，在东湾头路银矿湾泳滩游泳期间遇溺，救生员及时将男童救起及报警，他幸.	https://global.hk01.com/%E7%AA%81%E5%8F%91/60384560/%E6%A2%85%E7%AA%9D%E9%93%B6%E7%9F%BF%E6%B9%BE%E6%B3%B3%E6%BB%A97%E5%B2%81%E7%94%B7%E7%AB%A5%E5%8F%82%E4%B8%8E%E6%B4%BB%E5%8A%A8%E6%9C%9F%E9%97%B4%E9%81%87%E6%BA%BA-%E5%8F%8A%E6%97%B6%E8%8E%B7%E6%95%91	未分類
 2026-08-28	梅窝银矿湾泳滩7岁男童参与活动期间遇溺 及时获救	https://global.hk01.com/突发/60384560/梅窝银矿湾泳滩7岁男童参与活动期间遇溺-及时获救	未分類
-2026-08-28	6歲女童銀礦灣泳灘學游水遇溺幸及時發現救回岸上- 港聞	https://www.dotdotnews.com/a/202608/28/AP6a914c41e4b04b6c5d381f24.html	未分類
 2026-08-26	豪雨停了高雄依然有噩耗！興達港「浮屍海上漂流2天」 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260826/index-78772489890749309002.html	未分類
 2026-08-26	爾灣亞裔男童泳池溺水警員緊急施救- 南加社區- 新聞	https://www.chinesedaily.com/article/detail-702604.html	未分類
 2026-08-26	澳洲去年遇溺人數破紀錄 男性佔八成	https://ufood.com.hk/restaurant/news/detail/20074566/前列腺藥副作用-台男服藥後低血壓暈倒送院-醫生教改吃-食物改善	未分類
-2026-08-26	女遊客印尼粉紅沙灘浮潛溺斃 打卡點暗流多已有3名中國遊客遇難	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60383910/%E5%A5%B3%E9%81%8A%E5%AE%A2%E5%8D%B0%E5%B0%BC%E7%B2%89%E7%B4%85%E6%B2%99%E7%81%98%E6%B5%AE%E6%BD%9B%E6%BA%BA%E6%96%83-%E6%89%93%E5%8D%A1%E9%BB%9E%E6%9A%97%E6%B5%81%E5%A4%9A%E5%B7%B2%E6%9C%893%E5%90%8D%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E9%81%87%E9%9B%A3	未分類
-2026-08-25	7旬漢撿帽墮「詛咒鬼湖」溺亡 32年奪200命 水下還藏著一座小鎮	https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60383388/7%E6%97%AC%E6%BC%A2%E6%92%BF%E5%B8%BD%E5%A2%AE-%E8%A9%9B%E5%92%92%E9%AC%BC%E6%B9%96-%E6%BA%BA%E4%BA%A1-32%E5%B9%B4%E5%A5%AA200%E5%91%BD-%E6%B0%B4%E4%B8%8B%E9%82%84%E8%97%8F%E8%91%97%E4%B8%80%E5%BA%A7%E5%B0%8F%E9%8E%AE	未分類
+2026-08-26	女遊客印尼粉紅沙灘浮潛溺斃 打卡點暗流多已有3名中國遊客遇難	https://www.hk01.com/即時中國/60383910/女遊客印尼粉紅沙灘浮潛溺斃-打卡點暗流多已有3名中國遊客遇難	未分類
+2026-08-25	7旬漢撿帽墮「詛咒鬼湖」溺亡 32年奪200命 水下還藏著一座小鎮	https://www.hk01.com/熱爆話題/60383388/7旬漢撿帽墮-詛咒鬼湖-溺亡-32年奪200命-水下還藏著一座小鎮	未分類
 2026-08-25	7旬汉捡帽堕“诅咒鬼湖”溺亡 32年夺200命 水下还藏著一座小镇	https://global.hk01.com/article/60383388	未分類
-2026-08-24	老夫婦出海捕蠔被撞妻溺亡 事發逾月拒立案 家屬遭多部門踢皮球	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60383163/%E8%80%81%E5%A4%AB%E5%A9%A6%E5%87%BA%E6%B5%B7%E6%8D%95%E8%A0%94%E8%A2%AB%E6%92%9E%E5%A6%BB%E6%BA%BA%E4%BA%A1-%E4%BA%8B%E7%99%BC%E9%80%BE%E6%9C%88%E6%8B%92%E7%AB%8B%E6%A1%88-%E5%AE%B6%E5%B1%AC%E9%81%AD%E5%A4%9A%E9%83%A8%E9%96%80%E8%B8%A2%E7%9A%AE%E7%90%83	未分類
+2026-08-24	老夫婦出海捕蠔被撞妻溺亡 事發逾月拒立案 家屬遭多部門踢皮球	https://www.hk01.com/大國小事/60383163/老夫婦出海捕蠔被撞妻溺亡-事發逾月拒立案-家屬遭多部門踢皮球	未分類
 2026-08-24	破边洲试行预约制 叶傲冬：若“甩底”严重 可考虑收费或收按金 渔护署将会在9月5日至10月7日期间的周末、中秋节及国庆黄金周，于西贡万宜水库东坝的万宜地质步道破边洲段试行实施预约制度。每日总名额2000人， 6 小時前aJWbwf href n0jPhd UqSP2b OSrXXb	https://global.hk01.com/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB/60382944/%E7%A0%B4%E8%BE%B9%E6%B4%B2%E8%AF%95%E8%A1%8C%E9%A2%84%E7%BA%A6%E5%88%B6-%E5%8F%B6%E5%82%B2%E5%86%AC-%E8%8B%A5-%E7%94%A9%E5%BA%95-%E4%B8%A5%E9%87%8D-%E5%8F%AF%E8%80%83%E8%99%91%E6%94%B6%E8%B4%B9%E6%88%96%E6%94%B6%E6%8C%89%E9%87%91	未分類
-2026-08-24	法國6月中至今301人遇溺亡較去年增14% 官員：數據增與高溫有關	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383077/%E6%B3%95%E5%9C%8B6%E6%9C%88%E4%B8%AD%E8%87%B3%E4%BB%8A301%E4%BA%BA%E9%81%87%E6%BA%BA%E4%BA%A1%E8%BC%83%E5%8E%BB%E5%B9%B4%E5%A2%9E14-%E5%AE%98%E5%93%A1-%E6%95%B8%E6%93%9A%E5%A2%9E%E8%88%87%E9%AB%98%E6%BA%AB%E6%9C%89%E9%97%9C	未分類
+2026-08-24	法國6月中至今301人遇溺亡較去年增14% 官員：數據增與高溫有關	https://www.hk01.com/即時國際/60383077/法國6月中至今301人遇溺亡較去年增14-官員-數據增與高溫有關	未分類
 2026-08-24	法国6月中至今301人遇溺亡较去年增14% 官员：数据增与高温有关	https://global.hk01.com/即时国际/60383077/法国6月中至今301人遇溺亡较去年增14-官员-数据增与高温有关	未分類
 2026-08-24	汕頭漁船遭撞翻女子溺亡 事發逾月未獲立案	https://hk.on.cc/hk/bkn/cnt/news/20260824/bkn-20260824140201023-0824_00822_001.html	未分類
 2026-08-22	龙鼓滩舢舨“反肚”男子遇溺失踪今晨寻获遗体家属跪地痛哭｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260822/bkn-20260822090438802-0822_00822_001_cn.html	未分類
 2026-08-22	聖馬刁水源區新步道24日開放 高架走廊一覽水庫壯觀	https://www.worldjournal.com/wj/amp/story/121368/9707389	未分類
-2026-08-22	土瓜灣男童屋苑泳池遇溺 一度昏迷送院救治	https://www.stheadline.com/breaking-news/3607110/%E5%9C%9F%E7%93%9C%E7%81%A3%E7%94%B7%E7%AB%A5%E5%B1%8B%E8%8B%91%E6%B3%B3%E6%B1%A0%E9%81%87%E6%BA%BA-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB	未分類
-2026-08-22	土瓜灣會所泳池男童遇溺一度昏迷 幸回復清醒送院治理	https://www.hk01.com/%E7%AA%81%E7%99%BC/60382620/%E5%9C%9F%E7%93%9C%E7%81%A3%E6%9C%83%E6%89%80%E6%B3%B3%E6%B1%A0%E7%94%B7%E7%AB%A5%E9%81%87%E6%BA%BA%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7-%E5%B9%B8%E5%9B%9E%E5%BE%A9%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86	未分類
+2026-08-22	土瓜灣男童屋苑泳池遇溺 一度昏迷送院救治	https://www.stheadline.com/breaking-news/3607110/土瓜灣男童屋苑泳池遇溺-一度昏迷送院救治	未分類
+2026-08-22	土瓜灣會所泳池男童遇溺一度昏迷 幸回復清醒送院治理	https://www.hk01.com/突發/60382620/土瓜灣會所泳池男童遇溺一度昏迷-幸回復清醒送院治理	未分類
 2026-08-22	土瓜灣屋苑泳池男童遇溺 及時獲救送院治療	https://www.wenweipo.com/a/202608/22/AP6a89790ee4b0c1e50025ceeb.html	未分類
 2026-08-22	土瓜湾男童屋苑泳池遇溺 一度昏迷送院救治 土瓜湾常盛街近天光道一私人屋苑，今日（8月22日）下午近3时，一名男童于泳池遇溺，一度人事不省，所幸迅速获救，并恢复意识。救护车接报赶至，将男童送往伊利沙伯医院...	https://www.stheadline.com/zh-hans/breaking-news/3607110/%E5%9C%9F%E7%93%9C%E6%B9%BE%E7%94%B7%E7%AB%A5%E5%B1%8B%E8%8B%91%E6%B3%B3%E6%B1%A0%E9%81%87%E6%BA%BA-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB	未分類
 2026-08-22	土瓜湾男童屋苑泳池遇溺 一度昏迷送院救治	https://www.stheadline.com/zh-hans/breaking-news/3607110/土瓜湾男童屋苑泳池遇溺-一度昏迷送院救治	未分類
@@ -96,9 +94,9 @@ var DATA_DROWNING = `
 2026-08-22	何文田私人屋苑男童遇溺 一度昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260822/bkn-20260822151046246-0822_00822_001.html	未分類
 2026-08-22	1名男子疑在龍鼓灘對開海面遇溺 搜救行動繼續	https://www.881903.com/news/local/2646244	未分類
 2026-08-20	金鿋花園泳池女子遇溺 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260820/bkn-20260820094425002-0820_00822_001.html	未分類
-2026-08-20	水管突爆裂 清遠21歲水上飛人教練溺斃 死前推開遊客以保護對方	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60381825/%E6%B0%B4%E7%AE%A1%E7%AA%81%E7%88%86%E8%A3%82-%E6%B8%85%E9%81%A021%E6%AD%B2%E6%B0%B4%E4%B8%8A%E9%A3%9B%E4%BA%BA%E6%95%99%E7%B7%B4%E6%BA%BA%E6%96%83-%E6%AD%BB%E5%89%8D%E6%8E%A8%E9%96%8B%E9%81%8A%E5%AE%A2%E4%BB%A5%E4%BF%9D%E8%AD%B7%E5%B0%8D%E6%96%B9	未分類
-2026-08-20	大圍金禧花園泳池女泳客遇溺 救生員救起 昏迷送院搶救	https://news.google.com/rss/articles/CBMigANBVV95cUxNVDJua1ZEZWJNbmRzZXlvRk91QUVIQ0FUNGFFWndHU0FLUjhsdlB0U3pZY3Mya2RjZzVfRGd1WlBOWmQteDY3SkFEdVktTVRlenB0V0FSUGNKYy1YR3V0aVFiX0QwbThBampicms2RWkzYVo0ZTIxOW8xUDlXOG5aV0hkZ2U2SjZBNFZzbUVnLTRkbGJYRlA0eWFOS3dGM0lXNFpib2JtMm5ta2RtM3o0RUVqaHFJWl9aOEVxY0IxNWQtUWlaeDVGbkJMTkpMR1NaTkFOZ2ZpWWJDMXFobUYtcl9lXzVmZVlYOHVOTTFyUzNxbWkxbjJEUnlJSml3Vnd1UjA4Z2cwQnNzejV1VDBDVUNaN3d5LXdKcEgwVmxtTm5TdDByV3hsS0dRX2d1RUlzVWNJSVk5Q0lDbTV0U1M2dzZMZGY0WnB4TW1vVFhxb2psV1U4N19LWjA5VWY2TVJFU2JJeTk4Wk1BdHg3eF9oUFZVc2d2OFpEVTZqa1lrX2E?oc=5	未分類
-2026-08-20	大圍金禧花園泳池女子遇溺 昏迷送院搶救	https://www.hk01.com/%E7%AA%81%E7%99%BC/60381801/%E5%A4%A7%E5%9C%8D%E9%87%91%E7%A6%A7%E8%8A%B1%E5%9C%92%E6%B3%B3%E6%B1%A0%E5%A5%B3%E5%AD%90%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
+2026-08-20	水管突爆裂 清遠21歲水上飛人教練溺斃 死前推開遊客以保護對方	https://www.hk01.com/即時中國/60381825/水管突爆裂-清遠21歲水上飛人教練溺斃-死前推開遊客以保護對方	未分類
+2026-08-20	大圍金禧花園泳池女泳客遇溺 救生員救起 昏迷送院搶救	https://www.hk01.com/突發/60381801/大圍金禧花園泳池女泳客遇溺-救生員救起-昏迷送院搶救	未分類
+2026-08-20	大圍金禧花園泳池女子遇溺 昏迷送院搶救	https://www.hk01.com/突發/60381801/大圍金禧花園泳池女子遇溺-昏迷送院搶救	未分類
 2026-08-20	大圍金禧花園女泳客遇溺 昏迷送院搶救	https://www.stheadline.com/breaking-news/3606287/大圍金禧花園女泳客遇溺-昏迷送院搶救	未分類
 2026-08-20	大围金鿋花园泳池女子遇溺昏迷送院救治｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260820/mobile/bkn-20260820094425002-0820_00822_001_cn.html	未分類
 2026-08-20	大围金禧花园泳池女泳客遇溺 救生员救起 昏迷送院抢救	https://global.hk01.com/突发/60381801/大围金禧花园泳池女泳客遇溺-救生员救起-昏迷送院抢救	未分類
@@ -107,7 +105,7 @@ var DATA_DROWNING = `
 2026-08-19	大圍金禧花園女泳客遇溺 昏迷送院搶救	https://www.singtao.ca/7602437/2026-08-19/news-大圍金禧花園女泳客遇溺	未分類
 2026-08-18	溺水亡送太平間 亞利桑納州1歲半男童奇蹟生還	https://www.worldjournal.com/wj/story/121177/9696356	未分類
 2026-08-18	2岁童浴缸溺水险丧命！医警告：“倒立控水”看似救命实则送命	https://global.hk01.com/article/60376367	未分類
-2026-08-17	卡利亞里小將泳池昏迷遇溺	https://hk.sports.yahoo.com/news/%E5%8D%A1%E5%88%A9%E4%BA%9E%E9%87%8C%E5%B0%8F%E5%B0%87%E6%B3%B3%E6%B1%A0%E6%98%8F%E8%BF%B7%E9%81%87%E6%BA%BA-134225149.html	未分類
+2026-08-17	卡利亞里小將泳池昏迷遇溺	https://hk.sports.yahoo.com/news/卡利亞里小將泳池昏迷遇溺-134225149.html	未分類
 2026-08-15	長洲東灣男子遇溺 救生員迅速救起送回岸上	https://hk.on.cc/hk/bkn/cnt/news/20260815/bkn-20260815135736088-0815_00822_001.html	未分類
 2026-08-15	有片｜長洲泳客遇溺 救生員協力分半鐘救起 網民讚：似飛魚上身	https://www.hk01.com/%E7%AA%81%E7%99%BC/60380298/%E6%9C%89%E7%89%87-%E9%95%B7%E6%B4%B2%E6%B3%B3%E5%AE%A2%E9%81%87%E6%BA%BA-%E6%95%91%E7%94%9F%E5%93%A1%E5%8D%94%E5%8A%9B%E5%88%86%E5%8D%8A%E9%90%98%E6%95%91%E8%B5%B7-%E7%B6%B2%E6%B0%91%E8%AE%9A-%E4%BC%BC%E9%A3%9B%E9%AD%9A%E4%B8%8A%E8%BA%AB	未分類
 2026-08-15	有片│长洲男泳客遇溺 救生员极速救人获赞 网民：好似飞鱼上身	https://www.stheadline.com/zh-hans/tv/tv-news/3604660	未分類
@@ -115,34 +113,31 @@ var DATA_DROWNING = `
 2026-08-14	慘劇釀兩屍三命 #屯門 #新咖啡灣 #遇溺 #am730	https://www.facebook.com/am730hk/posts/%E6%85%98%E5%8A%87%E9%87%80%E5%85%A9%E5%B1%8D%E4%B8%89%E5%91%BD%E5%B1%AF%E9%96%80-%E6%96%B0%E5%92%96%E5%95%A1%E7%81%A3-%E9%81%87%E6%BA%BA-am730/1549387627228834/	未分類
 2026-08-14	巴裔夫婦遇溺釀兩屍三命哀歌 屯門新咖啡灣上周五晚發生夫婦遇溺事件。一對年輕巴基斯坦裔夫婦在燒烤場附近岸邊疑嬉水期間遇溺，其後由泳客及消防員救起，兩人昏迷送院搶救，其中20歲女事主翌日中午...	https://www.stheadline.com/daily-hongkong/3604222/%E5%B7%B4%E8%A3%94%E5%A4%AB%E5%A9%A6%E9%81%87%E6%BA%BA%E9%87%80%E5%85%A9%E5%B1%8D%E4%B8%89%E5%91%BD%E5%93%80%E6%AD%8C	未分類
 2026-08-14	巴裔夫婦遇溺釀兩屍三命哀歌	https://www.stheadline.com/daily-hongkong/3604222/巴裔夫婦遇溺釀兩屍三命哀歌	未分類
-2026-08-13	新咖啡灣夫婦溺斃｜遷入新居數月 夫略懂廣東話 曾請街坊食咖喱	https://www.hk01.com/%E7%AA%81%E7%99%BC/60379797/%E6%96%B0%E5%92%96%E5%95%A1%E7%81%A3%E5%A4%AB%E5%A9%A6%E6%BA%BA%E6%96%83-%E9%81%B7%E5%85%A5%E6%96%B0%E5%B1%85%E6%95%B8%E6%9C%88-%E5%A4%AB%E7%95%A5%E6%87%82%E5%BB%A3%E6%9D%B1%E8%A9%B1-%E6%9B%BE%E8%AB%8B%E8%A1%97%E5%9D%8A%E9%A3%9F%E5%92%96%E5%96%B1	未分類
+2026-08-13	新咖啡灣夫婦溺斃｜遷入新居數月 夫略懂廣東話 曾請街坊食咖喱	https://www.hk01.com/突發/60379797/新咖啡灣夫婦溺斃-遷入新居數月-夫略懂廣東話-曾請街坊食咖喱	未分類
 2026-08-13	屯門／新咖啡灣／遇溺意外丨屯門新咖啡灣上周五（7日）晚上發生年青夫婦遇溺案，一對巴基斯坦裔夫婦在燒烤場附近岸邊，懷疑在嬉水期間遇溺，被救起後雙雙已陷昏迷，...	https://topick.hket.com/article/4175974/屯門新咖啡灣丨 年輕夫婦疑嬉水遇溺不治 20歲妻懷孕6個月身亡 23歲夫延至昨日離世?mtc=10004	未分類
-2026-08-13	屯門新咖啡灣遇溺│兩夫妻與街坊關係和睦 鄰居難忘男死者送咖喱報答幫忙	https://www.stheadline.com/breaking-news/3604074/%E5%B1%AF%E9%96%80%E6%96%B0%E5%92%96%E5%95%A1%E7%81%A3%E9%81%87%E6%BA%BA%E5%85%A9%E5%A4%AB%E5%A6%BB%E8%88%87%E8%A1%97%E5%9D%8A%E9%97%9C%E4%BF%82%E5%92%8C%E7%9D%A6-%E9%84%B0%E5%B1%85%E9%9B%A3%E5%BF%98%E7%94%B7%E6%AD%BB%E8%80%85%E9%80%81%E5%92%96%E5%96%B1%E5%A0%B1%E7%AD%94%E5%B9%AB%E5%BF%99	未分類
-2026-08-13	屯門年輕夫婦海中遇溺命危 20歲太太先尖叫 目擊者揭經過：23歲男事主當時不知所終	https://www.sundaykiss.com/%E7%86%B1%E8%A9%B1/%E5%B1%AF%E9%96%80%E5%A4%AB%E5%A9%A6-%E9%81%87%E6%BA%BA-%E6%96%B0%E5%92%96%E5%95%A1%E7%81%A3-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%A3%94-20%E6%AD%B2-23%E6%AD%B2-%E6%B5%B7%E7%81%98-2421602/	未分類
+2026-08-13	屯門新咖啡灣遇溺│兩夫妻與街坊關係和睦 鄰居難忘男死者送咖喱報答幫忙	https://www.stheadline.com/breaking-news/3604074/屯門新咖啡灣遇溺兩夫妻與街坊關係和睦-鄰居難忘男死者送咖喱報答幫忙	未分類
+2026-08-13	屯門年輕夫婦海中遇溺命危 20歲太太先尖叫 目擊者揭經過：23歲男事主當時不知所終	https://www.sundaykiss.com/熱話/屯門夫婦-遇溺-新咖啡灣-巴基斯坦裔-20歲-23歲-海灘-2421602/	未分類
 2026-08-12	二14岁少年雨中戏水疑溺水 搜寻行动因天候暂停	https://www.orientaldaily.com.my/news/society/2026/08/12/839978	未分類
 2026-08-11	16岁少年不满被分手，强行抱女友跳河自杀，自己呛水难受爬上岸却放任女友溺亡，潜逃17年后归案	https://www.cqnews.net/web/content_1536753479973949440.html	未分類
-2026-08-10	屯門藍地水塘男子疑遇溺亡重案組到場調查- 港聞	https://www.dotdotnews.com/s/202608/10/AP6a79b50fe4b04b6c5d364634.html	未分類
 2026-08-10	5個月大女嬰母女落水亡！父親獲救崩潰痛哭	https://tw.news.yahoo.com/5個月大女嬰母女落水亡-父親獲救崩潰痛哭-080657326.html	未分類
 2026-08-08	非華裔夫婦新咖啡灣遇溺 昏迷送院 一對非華裔夫婦晚上在屯門青山公路新咖啡灣泳灘遇溺，昏迷送院搶救。 警方晚上8時許接報有人遇溺。兩名年齡20及23歲的事主，分別由途人及消防救起，昏迷送往屯門醫院。	https://www.881903.com/news/local/2644108	未分類
 2026-08-08	非華裔夫婦新咖啡灣遇溺 昏迷送院	https://www.881903.com/news/amp/local/2644108	未分類
 2026-08-08	新咖啡灣水中親熱 夫婦遇溺昏迷 - 20260808 - 港聞	https://news.mingpao.com/pns/港聞/article/20260808/s00002/1786125079746/新咖啡灣水中親熱-夫婦遇溺昏迷	未分類
 2026-08-07	西貢吊鐘洲中年漢遇溺 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20260807/bkn-20260807145013345-0807_00822_001.html	未分類
-2026-08-07	西貢吊鐘洲50多歲中年漢遇溺海中浮沉 水警救起昏迷送院	https://std.stheadline.com/breaking-news/3602001/%E8%A5%BF%E8%B2%A2%E5%90%8A%E9%90%98%E6%B4%B250%E5%A4%9A%E6%AD%B2%E4%B8%AD%E5%B9%B4%E6%BC%A2%E9%81%87%E6%BA%BA%E6%B5%B7%E4%B8%AD%E6%B5%AE%E6%B2%89-%E6%B0%B4%E8%AD%A6%E6%95%91%E8%B5%B7%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	未分類
+2026-08-07	西貢吊鐘洲50多歲中年漢遇溺海中浮沉 水警救起昏迷送院	https://std.stheadline.com/breaking-news/3602001/西貢吊鐘洲50多歲中年漢遇溺海中浮沉-水警救起昏迷送院	未分類
 2026-08-07	桃機公司攜手石門水庫邀兒少體驗綠色農遊認識永續環境| 樂活情報	https://howlife.cna.com.tw/life/20260807s005.aspx	未分類
 2026-08-07	桃機兒少關懷融入環境保育 孩童走進石門水庫農地探索竹筍生態	https://more-news.tw/687795/	未分類
 2026-08-07	年輕夫婦屯門新咖啡灣嬉水同遇溺昏迷	https://www.wenweipo.com/a/202608/07/AP6a75ef2de4b0c1e50023f5c5.html	未分類
-2026-08-07	屯門新咖啡灣夫婦疑嬉水遇溺 雙雙昏迷送院	https://www.hk01.com/%E7%AA%81%E7%99%BC/60377973/%E5%B1%AF%E9%96%80%E6%96%B0%E5%92%96%E5%95%A1%E7%81%A3%E5%A4%AB%E5%A9%A6%E7%96%91%E5%AC%89%E6%B0%B4%E9%81%87%E6%BA%BA-%E9%9B%99%E9%9B%99%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	未分類
+2026-08-07	屯門新咖啡灣夫婦疑嬉水遇溺 雙雙昏迷送院	https://www.hk01.com/突發/60377973/屯門新咖啡灣夫婦疑嬉水遇溺-雙雙昏迷送院	未分類
 2026-08-07	屯門新咖啡灣南亞夫婦同遇溺昏迷送院 泳灘橫額稱無救生員籲勿落水 屯門新咖啡灣泳灘，周五（8月7日）晚上8時許有一對巴基斯坦裔夫婦遇溺。其中女方20歲、男方23歲，先後由附近市民及消防救起，惟皆失去意識。救護員趕至將他們送屯門...	https://www.stheadline.com/breaking-news/3602127/%E5%B1%AF%E9%96%80%E6%96%B0%E5%92%96%E5%95%A1%E7%81%A3%E5%8D%97%E4%BA%9E%E5%A4%AB%E5%A9%A6%E5%90%8C%E9%81%87%E6%BA%BA%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2-%E6%B3%B3%E7%81%98%E6%A9%AB%E9%A1%8D%E7%A8%B1%E7%84%A1%E6%95%91%E7%94%9F%E5%93%A1%E7%B1%B2%E5%8B%BF%E8%90%BD%E6%B0%B4	未分類
-2026-08-07	屯門新咖啡灣南亞夫婦同遇溺昏迷送院 泳灘橫額稱無救生員籲勿落水	https://www.singtao.ca/7590047/2026-08-07/news-屯門新咖啡灣泳灘落水女叫救命	未分類
-2026-08-07	屯門新咖啡灣兩男女遇溺 雙雙昏迷送院	https://www.bastillepost.com/hongkong/article/16526365-%E5%B1%AF%E9%96%80%E6%96%B0%E5%92%96%E5%95%A1%E7%81%A3%E5%85%A9%E7%94%B7%E5%A5%B3%E9%81%87%E6%BA%BA%E3%80%80%E9%9B%99%E9%9B%99%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	未分類
+2026-08-07	屯門新咖啡灣南亞夫婦同遇溺昏迷送院 泳灘橫額稱無救生員籲勿落水	https://www.stheadline.com/breaking-news/3602127/屯門新咖啡灣南亞夫婦同遇溺昏迷送院-泳灘橫額稱無救生員籲勿落水	未分類
+2026-08-07	屯門新咖啡灣兩男女遇溺 雙雙昏迷送院	https://www.bastillepost.com/hongkong/article/16526365-屯門新咖啡灣兩男女遇溺 雙雙昏迷送院	未分類
 2026-08-07	屯門新咖啡灣兩男女遇溺 獲救俱昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260807/bkn-20260807204830485-0807_00822_001.html	未分類
 2026-08-07	屯門新咖啡灣一男一女遇溺獲救 男子昏迷	https://news.rthk.hk/rthk/ch/component/k2/1865406-20260807.htm	未分類
-2026-08-07	天津之眼河邊一家四口散步弟弟意外落水 媽媽哥哥下水救人溺亡	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60377731/%E5%A4%A9%E6%B4%A5%E4%B9%8B%E7%9C%BC%E6%B2%B3%E9%82%8A%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E6%95%A3%E6%AD%A5%E5%BC%9F%E5%BC%9F%E6%84%8F%E5%A4%96%E8%90%BD%E6%B0%B4-%E5%AA%BD%E5%AA%BD%E5%93%A5%E5%93%A5%E4%B8%8B%E6%B0%B4%E6%95%91%E4%BA%BA%E6%BA%BA%E4%BA%A1	未分類
-2026-08-07	天津一家四口河邊散步6歲弟落水家屬救人遇溺母死兄亡| 生活熱話	https://www.ohpama.com/1039474/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E6%B2%B3%E9%82%8A%E6%95%A3%E6%AD%A56%E6%AD%B2%E5%BC%9F%E8%90%BD%E6%B0%B4-%E5%AE%B6%E5%B1%AC%E6%95%91%E4%BA%BA%E9%81%87%E6%BA%BA%E6%AF%8D%E6%AD%BB/	未分類
-2026-08-07	吊鐘洲男子溺斃｜死者迪士尼開園工作至今 偕同事出海疑遇浪喪生	https://news.google.com/rss/articles/CBMisANBVV95cUxNZ2ZiQ3lXSlc2NTRRZUhDQzhUeVp5eGFTSUR3Mm9sT25xMEZEdFZGWkZ6MkYtc19TX29acE9RQ2xtTUloWmVveEVWY1dha3ZNX2NpV3pyMG04VHJEd09sSlc0bnlWWFFGY1g4VDRQR1FFUXI3Z2R6U3JseTlmQlNCUjN6VW1vajkwbUVDTUdiNldpcE5FUUF5Y1J0Z3ozd1BsLTJnM0I5YkRJQ3ljVFF6bWJWNGMyQkZuZ0RmX3psNzdFZXdMdXdHR0p2NFI5Y0FjenVHLTlpUmdJYmNyUDQtUTNDZnBUd1IzTS1Cb00tVk5FRlZKTzZDT2lHYUR4S3oyR2FhR3hNQnVkcUVyWDN2UjRZTktYVDlIMEROcktjTFVXeDBZSmVOWkJwak9lRlQyaHVDYjI2NHFyUlJfZzBUaTVJSm9qTi1LT3F5OFk5R0h4N3kxcmZua0pZYV84SEFxeGVhU19EODZGTnlrVmRfSG03QkU1VS1STHAtQnJjbGFBZDVzZ2V6YWRXdUg5REgxZjl3cWJGNm16M1F3ay1fSlY0Nm5tYnI3dG1wV0YxRHY?oc=5	未分類
-2026-08-07	中年漢吊鐘洲玩浮潛遇溺亡 死者為職迪士尼木偶師	https://news.google.com/rss/articles/CBMikwNBVV95cUxQMlZGQnpKdFJCNkctY2xPTGxwaFlkckpZSXVhN3RkSWxwdjAzb0NjNHVpNHBKd2ZqdlNfNWUySG5OcU1mS0pHaGZOcFZGdW5oV0lVRlRSQTdIcjJJNlQ0TmtxQ2lZRVBxeHVGM0x5cVQwR3g2QTlEMnFZWllBX0YtVm1oOG1WczQ1dTl2cHdPNTB0bkxoamtRSVZVQTZnWFNna1JHOXF1SzgxSFJmSm5JX3k3T3h1ZVBhSlpQZ21OS0dSSjhPTEFOSUFmM3IxTk9KN2c0YnctZ0kxdkUxWjdGSktIRDVEaVdUVFZFekQ5eDlOR0RnTC14VzQwUjROSWhUTDQ1clJyWnRQRm9paXZHbWVBeHhZUHFZM2xWYlVPTjBRYzA4V21BbTVUVEVMUU5zeHlTRldFVExUcGFUaTVHTy1PMTRpVjBUUlRJbDNSeURWREx0YmJ1Vk9HY2hPTmVuc3Y2cEJUTDNHUlY2V0FTbl9NVEdTbEE4TWh4eVpxdDNuM3BpX01pSFNPSmJjbXdpS0hF?oc=5	未分類
+2026-08-07	天津之眼河邊一家四口散步弟弟意外落水 媽媽哥哥下水救人溺亡	https://www.hk01.com/大國小事/60377731/天津之眼河邊一家四口散步弟弟意外落水-媽媽哥哥下水救人溺亡	未分類
+2026-08-07	天津一家四口河邊散步6歲弟落水家屬救人遇溺母死兄亡| 生活熱話	https://www.ohpama.com/1039474/生活熱話/生活熱話/天津一家四口河邊散步6歲弟落水-家屬救人遇溺母死/	未分類
 2026-08-06	葵涌货柜码头海面浮尸 男子疑游泳遇溺亡 身份未明警吁提供资料	https://global.hk01.com/突发/60377296/葵涌货柜码头海面浮尸-男子疑游泳遇溺亡-身份未明警吁提供资料	未分類
-2026-08-06	葵涌貨櫃碼頭海面浮屍 男子疑游泳遇溺亡 身份未明警籲提供資料	https://www.hk01.com/%E7%AA%81%E7%99%BC/60377296/%E8%91%B5%E6%B6%8C%E8%B2%A8%E6%AB%83%E7%A2%BC%E9%A0%AD%E6%B5%B7%E9%9D%A2%E6%B5%AE%E5%B1%8D-%E7%94%B7%E5%AD%90%E7%96%91%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA%E4%BA%A1-%E8%BA%AB%E4%BB%BD%E6%9C%AA%E6%98%8E%E8%AD%A6%E7%B1%B2%E6%8F%90%E4%BE%9B%E8%B3%87%E6%96%99	未分類
+2026-08-06	葵涌貨櫃碼頭海面浮屍 男子疑游泳遇溺亡 身份未明警籲提供資料	https://www.hk01.com/突發/60377296/葵涌貨櫃碼頭海面浮屍-男子疑游泳遇溺亡-身份未明警籲提供資料	未分類
 2026-08-06	天津之眼︱4口家河邊散步6歲弟落水 家屬救人遇溺母死兄亡	https://www.stheadline.com/realtime-china/3601649/天津之眼4口家河邊散步6歲弟落水-家屬救人遇溺母死兄亡	未分類
 2026-08-06	不谙泳术却下水 男遇溺获救吐血	https://www.zaobao.com.sg/news/singapore/story20260806-9480403	未分類
 2026-08-05	男子圣淘沙海滩溺水 同伴奋身施援 - 地方 - 狮城二三事	https://johor.sinchew.com.my/news/20260805/johor/7731344?variant=zh-hant	未分類
@@ -153,8 +148,6 @@ var DATA_DROWNING = `
 2026-08-03	男子大美督三鐵賽疑遇溺亡 大會稱事發時現場合適開賽	https://www.orangenews.hk/hongkong/VRC6Kfv/男子大美督三鐵賽疑遇溺亡-大會稱事發時現場合適開賽.shtml	未分類
 2026-08-03	庆北警察厅3日表示，2日下午4点30分左右，庆山警察署所属的A警监（50多岁）在庆南昌宁郡都泉面某水库附近被发现死亡。	https://www.mk.co.kr/cn/society/12115266	未分類
 2026-08-03	大美督三項鐵人賽遇溺｜鄭泳舜倡改良GPS追蹤 逾時未上水發預警	https://www.hk01.com/社會新聞/60376147/大美督三項鐵人賽遇溺-鄭泳舜倡改良gps追蹤-逾時未上水發預警	未分類
-2026-08-03	大美督三項鐵人賽遇溺｜死者為退休水警 體能優異常參與拯溺工作	https://news.google.com/rss/articles/CBMisANBVV95cUxPNW1vWXpBNDg2UjBPYVRNV0UzSFVjd3R6N0w2enpfT3pnRkpQYkhKeE5YUUUtV1RvWEFuU213Qnhob3RVTmp3Ti00NkFLWVR5SU1GZWliMF81NmlIVEFNemZLTUE3NTJOV0JGdmRvOUI1VDY4RWV6emdSMU50VjAwTFhoUXp2WjNTaTJVUFNvYnNHeWFIUkN6cjZDd0R3OU1VaVI4Y29sbm5qTFM3eTA0Vmgyalc4YTZEdFBrZWF2UHdFRGd1UC1SdGlyZm9LTWotazZ1ZGR2bzkySEJ4WS1vUW16RWhPcFU2TmtZU252bDRDV2lMQ0t4Y2psbWV5N0ZYT1ZxMmVmSEFlMS11QUcyanRUTEUtYVJDMkRsMmpndkdPd3pqcDBPYlM2ZmRfa3RPeC04cE5LbjlpaTFWcGxDc1VzRk9PSk5sSkR1ekFfRDl0MF9ZMExMX2d2bW5MZTRfUUtMV2tXc3VsdHNFTUFQcG00MloxX0EwN01ndnNjeTZkZnJqUmRDVjZJZDlBdzNyeG9rVTM3TEVId2lJNFVZZEJRSXJrbXBlREhoSlA5UVk?oc=5	未分類
-2026-08-03	大美督三項鐵人賽遇溺｜大會指符合條件開賽 設22人救援隊巡視	https://news.google.com/rss/articles/CBMimwNBVV95cUxPR0hlemVZSzRqSVh0aEN0aUswZkNBR3M0N2ticmdfNmFxbGdOVTR2Vm10cTJUd25fMUQ2VlBoZGZnTnpDUWJtb0ZxSkVxc2g4MnBQSk1IcWt0NW9FMmNqREwtQ05xc19tb0dNUW9HTXVJZzEwUE9LNmlFU1BOOF9WbU1tdk84bUVzWHVUX3ZUMTlEeEV2c0dIR3VmVEtGTjVNeDE1aUdZT2Y3bkctWE1pckdrOHJET0pwYkhQRXNvd2JnUkJZZjJDQjd0NkRJUF9PMDVNMFVGbDFIcDRjZUd4Nl9XS09YWDdYclF5d2xmQlhrWDJ0eG1HeV80bmx6VUJzWG00MDFKRTRUWWY2aWlzSnY2blUtaUV6VEhZMzFuZkc4NDM0YUdSUERvQlZKOExadEFBNHpVQmY2WkpYYW9vZVBJMjA1akNFRnVTSmJobzh5cWZuS0ZkUnBVMmtrbG9iZjlsM0dlcGttYmdPQjRaQmNLY0M0WjZyLWlLNTJzTVJHZlZTODRvQVpxajc2S0ZjN2lBN0JldWdTWjQ?oc=5	未分類
 2026-08-03	大美督三鐵賽遇溺｜主辦方：事發時具備開賽條件設22人救援隊巡視- 港聞	https://www.dotdotnews.com/a/202608/03/AP6a6ffc18e4b04b6c5d358cc3.html	未分類
 2026-08-03	大美督三鐵賽男選手遇溺亡 鄭泳舜：天氣反常下主辦方應及早預警	https://www.kinliu.hk/news/社會新聞/大美督三鐵賽男選手遇溺亡-鄭泳舜：天氣反常下主辦方應及早預警/203672.html?id=52&from=home&bc1=首頁&bc1to=/	未分類
 2026-08-03	六旬退休警出戰三鐵賽疑遇溺亡 議員倡GPS記錄參賽者位置	https://hk.on.cc/hk/bkn/cnt/news/20260803/bkn-20260803111311876-0803_00822_001.html	未分類
@@ -164,8 +157,6 @@ var DATA_DROWNING = `
 2026-08-02	男子三項鐵人賽遇溺 救援人員全力搜救	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VUWdRdjRRdGVlSUtBc1M2WDdwbDVrWnVCUmdIUHZuNWlaMmhldTZiM0U4dVVEa2F0VmZ3cHR5TXRrRkpsaWktck9nNTBxbUVMSzVTN3JUdnlfOC1kNnZtQUxn?oc=5	未分類
 2026-08-02	大美督三鐵賽遇溺｜雷雄德料黃雨非主因不排除心臟出事- 港聞	https://www.dotdotnews.com/a/202608/02/AP6a6f5d44e4b04b6c5d358469.html	未分類
 2026-08-02	大美督三鐵賽溺亡男為退休水警生前熱愛運動持拯溺牌照- 港聞	https://www.dotdotnews.com/a/202608/02/AP6a6f29c0e4b04b6c5d35805c.html	未分類
-2026-08-02	大埔大美督三項鐵人賽男子疑遇溺 消防水警到場搜救	https://news.google.com/rss/articles/CBMi8wJBVV95cUxNdlVIZGtvenhlYUM3WFpmRTAwVm1PeDB2T3JWb2hUd0JjSHJqUTBSNldmVkJTSXRTY214VWxCMHNBNUhYVmh2S0JUNE5CQmJNN1RvN0gxdXpHYlJOSTVab043aEJJa1RjYkhMaENLWEV5c3ByV0hRUGZRQ2FiSWNoTkFMcENmSEJmdFJIM0E4WFhPMFJXR3BBajZxeFJnNFdCTXdtYVVIZHo0X21scUV0VXRNb25lYVlSZnlvc1k0VlhZT1ZuODJ2LV9QRGNvUGItZG90SS1mS1VfWHh4SHByOTZzRTBiLVpJWDJJd2dWWVlib3NpT0tPcnF2dWw5QVIwOXJWZlZmR2R6UThXU3lYOGhvTUZqTWs1OGdOV1FnMmV2YnFZX0xTdDEtWkE3cmNrbGNJUzN0QUVDc2lHOU5ZUzF3cW4yeUVXTlRPOF9jRlp1NmFwMVFicXNEM2Naa085azQ5cHE3MTBuY0lfSG9UQmlZNA?oc=5	未分類
-2026-08-02	大埔三項鐵人賽男子溺亡 何敬康促滴水不漏查體能 看天氣改賽程	https://news.google.com/rss/articles/CBMisANBVV95cUxPQXRuODZnSkQ5NXNKVWpEcTRZOU9oc2lQNEpIV1JWaUNnLVZKeGU5MmItaG42eDM0Z0ZJeElQdjZDXzhUUnJWaGp3X2hTRG9wQjdiWHdXUVNKYTk4TnRRbURaRWxHWC1tdEQ0MHRlYklERWtkVk5PSGtFb2MwUUEzSjluMUhVUjRZV3VoSFRNenpMa2Z3ZVEyVlZWbzh4TGJPalQ1ZUFfXzNzemJLYk1qUjVLc3l0eFhhUEhONUs4bllweV9meG9PUnRIR1dVUk0xMlNpQ2NKa0QxTnUzZ2ZKamt0VWJZWWZsa2w3ZkRJN3N3c1Q5ODZicDlOYUc3bzhsdzR4aEExelNRQmZXQzNOQmlwVWxiTFdtbmFFT2ZNaGpsZjhidmxMLWU3ZWNCSjJoUUNYNzJMWDF5UHhKV3pZT2xScFhUanRDVlV1OUhubmZ5N2IyczFpQmx1NThlZkJqTjh6SVFlTUVhY0EwQmlOVks0cFhlYldxdElzSEVnc3hxSW9rcXBwd3VZS2dpT21fX0Q4Tl9DM1E4SVhURllFOWZNbEpEMHZaX0xNbnhUYlA?oc=5	未分類
 2026-07-31	美俄亥俄州郊遊悲劇兩對夫婦跳河救遇溺友全同滅頂遺2孤雛| 生活熱話	https://www.ohpama.com/1038658/生活熱話/生活熱話/美俄亥俄州-郊遊悲劇-兩對夫婦跳河救-遇溺友全同/	未分類
 2026-07-30	求婚數小時後天人永隔 美警員跳河救未婚妻自己卻遭急流捲走溺斃	https://www.bastillepost.com/hongkong/article/16430217-求婚數小時後天人永隔-美警員跳河救未婚妻自己卻	未分類
 2026-07-29	王藏2歲內侄離奇溺亡 村支書埋屍3年不給家屬	https://www.ntdtv.com/b5/2026/07/28/a104119364.html/amp	未分類
@@ -181,14 +172,14 @@ var DATA_DROWNING = `
 2026-07-24	謝賢勇救遇溺男童往事曝光 事主公開感激四哥救命之恩 還原救人一刻 身份惹關注	https://www.sundaykiss.com/熱話/謝賢-四哥-遇溺男童-救命恩人-姜中平-姜中平女兒-2415167/	未分類
 2026-07-23	屯門加多利灣泳灘老翁遇溺 泳客救起昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260723/bkn-20260723195636355-0723_00822_001.html	未分類
 2026-07-23	屯門加多利灣泳灘發生遇溺事故 八旬老翁昏迷送院搶救	https://www.singtaousa.com/2026/07/23/news/china/elderly-drowning-tuen-mun-beach-rescue/	未分類
-2026-07-23	屯門加多利灣泳灘八旬翁遇溺 昏迷送院搶救	https://www.singtao.ca/7575250/2026-07-23/news-屯門加多利灣泳灘八旬翁遇溺+昏迷送院搶救/	未分類
+2026-07-23	屯門加多利灣泳灘八旬翁遇溺 昏迷送院搶救	https://www.stheadline.com/breaking-news/3596868/屯門加多利灣泳灘八旬翁遇溺-昏迷送院搶救	未分類
 2026-07-23	屯門加多利灣泳灘八旬男泳客遇溺 獲救昏迷送院	https://www.hk01.com/突發/60373030/屯門加多利灣泳灘八旬男泳客遇溺-獲救昏迷送院	未分類
 2026-07-23	九龙公园游泳池女子遇溺获救清醒送院治理｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260723/bkn-20260723071850382-0723_00822_001_cn.html	未分類
 2026-07-23	九龍公園游泳池女子遇溺 獲救清醒送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260723/bkn-20260723071850382-0723_00822_001.html	未分類
 2026-07-22	美俄亥俄州郊遊悲劇 兩對夫婦跳河救遇溺友全同滅頂 遺2孤雛	https://www.stheadline.com/realtime-world/3596223/美俄亥俄州郊遊悲劇-兩對夫婦跳河救遇溺友全同滅頂-遺2孤雛	未分類
 2026-07-22	河北11歲男童遭泳池排水口吸住溺斃 警以重大責任事故立案 |	https://www.ohpama.com/1037112/生活熱話/河北-11歲男童-泳池排水口-溺斃/	未分類
 2026-07-22	厄尔尼诺致国内多地缺水 水坝蓄水量持续减少	https://www.metrotvnews.com/cn/read/2026/07/22/50011	未分類
-2026-07-22	1人遇溺4人跳河救援遭急流滅頂全罹難- 國際	https://www.dotdotnews.com/a/202607/22/AP6a60710de4b04b6c5d343a97.html	未分類
+2026-07-22	1人遇溺4人跳河救援遭急流滅頂全罹難- 國際	https://www.dotdotnews.com/s/202607/22/AP6a60710de4b04b6c5d343a97.html	未分類
 2026-07-21	美國俄亥俄州救人溺水慘劇5人亡 包括兩對父母 (13:09) - 20260721 - 國際	https://news.mingpao.com/ins/國際/article/20260721/s00005/1784609583464/美國俄亥俄州救人溺水慘劇5人亡-包括兩對父母	未分類
 2026-07-21	美俄亥俄州郊遊慘劇 1人遇溺4人跳河救人全浸死 遺下兩名小孩	https://www.am730.com.hk/article/1042954	未分類
 2026-07-21	河北11歲男孩遭泳池回水管吸住溺斃 職員在旁玩手機現場無救生員	https://www.hk01.com/大國小事/60372177/河北11歲男孩遭泳池回水管吸住溺斃-職員在旁玩手機現場無救生員	未分類
@@ -214,7 +205,6 @@ var DATA_DROWNING = `
 2026-07-16	廣西無牌救生員睇漏眼、家人只顧篤電話 4歲女童泳池溺水逾6分鐘亡	https://www.stheadline.com/realtime-china/3594410/%E5%BB%A3%E8%A5%BF%E7%84%A1%E7%89%8C%E6%95%91%E7%94%9F%E5%93%A1%E7%9D%87%E6%BC%8F%E7%9C%BC%E5%AE%B6%E4%BA%BA%E5%8F%AA%E9%A1%A7%E7%AF%A4%E9%9B%BB%E8%A9%B1-4%E6%AD%B2%E5%A5%B3%E7%AB%A5%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B4%E9%80%BE6%E5%88%86%E9%90%98%E4%BA%A1	未分類
 2026-07-14	女大生新竹遭泥水沖倒！頭卡護欄溺亡 嘉義大學回應了	https://tw.news.yahoo.com/女大生新竹遭泥水沖倒-頭卡護欄溺亡-嘉義大學回應了-054625615.html	未分類
 2026-07-13	熱浪襲德國 民眾下水消暑 當局指6月近百人溺斃多為年輕男	https://www.hk01.com/article/60369318	未分類
-2026-07-12	灣仔摩理臣山游泳池泳客疑體力不支 遇溺獲救昏迷送院	https://www.wenweipo.com/a/202607/12/AP6a537921e4b0b49ad1c31052.html	未分類
 2026-07-12	灣仔摩理臣山泳池男泳客遇溺昏迷 送院搶救後甦醒	https://www.singtaousa.com/2026/07/12/news/china/man-drowns-morrison-hill-pool/	未分類
 2026-07-12	东甲金山瀑布戏水遇溺 20岁青年遗体被消拯人员寻获	https://www.orientaldaily.com.my/news/society/2026/07/12/832600	未分類
 2026-07-11	西貢廈門灣男泳客遇溺 獲救昏迷送院	https://std.stheadline.com/breaking-news/3592529/西貢廈門灣男泳客遇溺-獲救昏迷送院	未分類
@@ -225,7 +215,6 @@ var DATA_DROWNING = `
 2026-07-10	鑽石山星河明居會所泳池3歲男童遇溺 獲救送院	https://www.am730.com.hk/article/1040916	未分類
 2026-07-10	鑽石山星河明居3歲男童遇溺獲救送院治理| 生活熱話	https://www.ohpama.com/1035029/生活熱話/生活熱話/鑽石山-星河明居-3歲男童-遇溺-獲救-送院治理/	未分類
 2026-07-10	鑽石山3歲男童習泳時遇溺 獲救後一度昏迷抽筋	https://hk.on.cc/hk/bkn/cnt/news/20260710/bkn-20260710164810752-0710_00822_001.html	未分類
-2026-07-10	大埔龍尾泳灘男子遇溺 昏迷送院亡	https://www.wenweipo.com/a/202607/10/AP6a50dbcde4b0b49ad1c2d129.html	未分類
 2026-07-09	西半山屋苑泳池女子遇溺 獲救清醒送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260709/bkn-20260709102150506-0709_00822_001.html	未分類
 2026-07-09	少女遇溺無呼吸 南韓男大生解胸圍扣施CPR 救命遭對方家長控性騷索償	https://www.bastillepost.com/hongkong/article/16306376-少女遇溺無呼吸-南韓男大生解胸圍扣施cpr救命 事	未分類
 2026-07-08	解开胸围做CPR救遇溺少女一命 韩男反遭告猥亵索偿 结局大反转	https://www.stheadline.com/zh-hans/realtime-world/3591209/解开胸围做CPR救遇溺少女一命-韩男反遭告猥亵索偿-结局大反转	未分類
@@ -237,18 +226,16 @@ var DATA_DROWNING = `
 2026-07-06	高雄前鎮漁港驚悚一幕！西岸碼頭主航道「撈起刺青男浮屍」 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260706/index-78330522030922309002.html	未分類
 2026-07-06	疑遭惡浪捲走亡！17歲少年身分曝「高中棒球隊員」戲水不慎溺斃 暑假返鄉探親成永別	https://www.ftnn.com.tw/news/558730	未分類
 2026-07-06	少女遇溺没呼吸！男生解胸围做CPR救一命 遭家长控猥亵索偿巨款	https://global.hk01.com/热爆话题/60366655/少女遇溺没呼吸-男生解胸围做cpr救一命-遭家长控猥亵索偿巨款	未分類
-2026-07-05	13歲女童澳大體育館泳池遇溺暈眩送院	https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1V2X0g1bHFvektxQmQ5YmIzeG5tX0JnNzI1Y1NJNDEwRjMtUUtkVl96VjJHUzJmNEZaRzRHV0xSLTJNcThIbUJ5Ui11djllVFRlc3poNlcxZHFaZHBMS3ZRZ1JlQnROVXRFWGljdkRpRmxKTk12VnkteS10OFpnLVM5dm5sbWpvQVc5MjVvZ0ZQRFY4cjZsT3JQQ1ROdw?oc=5	未分類
 2026-07-02	柴灣游泳池泳客遇溺 獲救清醒拒送院	https://hk.on.cc/hk/bkn/cnt/news/20260702/bkn-20260702083844081-0702_00822_001.html	未分類
 2026-07-02	柴湾游泳池女泳客遇溺获救清醒拒送院｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260702/bkn-20260702083844081-0702_00822_001_cn.html?view=d	未分類
 2026-07-02	宜蘭煙波飯店工地意外 外籍移工躲蓄水池溺斃	https://tw.news.yahoo.com/宜蘭煙波飯店工地意外-外籍移工躲蓄水池溺斃-104546155.html	未分類
 2026-07-02	墨西哥海灘傳呼救聲 加州情侶以為有人遇溺 趕至現場驚見巨鱷噬殺1男	https://www.bastillepost.com/hongkong/article/16273888-墨西哥海灘傳呼救聲-加州情侶以為有人遇溺-趕至現	未分類
-2026-07-01	（有片）西貢破邊洲岸邊男子遇溺昏迷直升機送院搶救- 港聞	https://www.dotdotnews.com/s/202607/01/AP6a44d19de4b04b6c5d320d05.html	未分類
+2026-07-01	（有片）西貢破邊洲岸邊男子遇溺昏迷直升機送院搶救- 港聞	https://www.dotdotnews.com/a/202607/01/AP6a44d19de4b04b6c5d320d05.html	未分類
 2026-07-01	西貢破邊洲岸男子遇溺昏迷直升機送院搶救- 香港 - 香港文匯網	https://www.wenweipo.com/a/202607/01/AP6a44b559e4b0b49ad1c19026.html	未分類
-2026-07-01	西貢男子懷疑遇溺昏迷送院	https://news.google.com/rss/articles/CBMiYkFVX3lxTE00bnZaclY4SURGU3pPek5MV21HMWIyM1RhcVYtQ3pVeHpOX2pDTnU2UFQ2Z3NjRUtkV1EyOFc2TEtlT0NLLTZBN0swWnZlQ0kxc1RPbUkzUVEwYi1NSDhwN1NR?oc=5	未分類
 2026-07-01	男子西貢近破邊洲岸邊遇溺 直升機送院搶救	https://www.hkcd.com.hk/hkcdweb/content/2026/07/01/content_8762688.html	未分類
 2026-07-01	河南女河中遇溺狂掙扎 8歲兒哭着扯母上岸救命：媽媽還在真好	https://www.hk01.com/大國小事/60365599/河南女河中遇溺狂掙扎-8歲兒哭着扯母上岸救命-媽媽還在真好	未分類
 2026-06-30	雨彈襲南部水情大回春！曾文水庫從9%衝62%、仁義潭逼近滿庫	https://tw.news.yahoo.com/雨彈襲南部水情大回春-曾文水庫從9-衝62-仁義潭逼近滿庫-050500231.html	未分類
-2026-06-30	閩刺刀峽探險 9人遇溺5亡	https://www.hkej.com/dailynews/cntw/article/4443294/閩刺刀峽探險+9人遇溺5亡	未分類
+2026-06-30	閩刺刀峽探險 9人遇溺5亡	https://www.hkej.com/dailynews/cntw/article/4443294/%E9%96%A9%E5%88%BA%E5%88%80%E5%B3%BD%E6%8E%A2%E9%9A%AA-9%E4%BA%BA%E9%81%87%E6%BA%BA5%E4%BA%A1	未分類
 2026-06-30	西貢白腊男子遇溺昏迷 直升機救起送院	https://www.singtao.ca/7552375/2026-06-30/news-西貢白腊男子遇溺昏迷+直升機救起送院/?variant=zh-hk&appedition=toronto	未分類
 2026-06-30	美國情侶以為有人遇溺走近施救 驚見3.6米巨鱷正噬殺男子	https://www.stheadline.com/realtime-world/3588544/美國情侶以為有人遇溺走近施救-驚見36米巨鱷正噬殺男子	未分類
 2026-06-30	美国情侣以为有人遇溺走近施救 惊见3.6米巨鳄正噬杀男子	https://www.stheadline.com/zh-hans/realtime-world/3588544/美国情侣以为有人遇溺走近施救-惊见36米巨鳄正噬杀男子	未分類
@@ -265,14 +252,14 @@ var DATA_DROWNING = `
 2026-06-26	從缺水到滿水！雷雨狂灌牡丹水庫急洩洪壯觀畫面曝 曾文水庫也大復活	https://tw.news.yahoo.com/從缺水到滿水-雷雨狂灌牡丹水庫急洩洪壯觀畫面曝-曾文水庫也大復活-171753481.html	未分類
 2026-06-26	從缺水到滿水! 雷雨狂灌牡丹水庫急洩洪壯觀畫面曝 曾文水庫也大復活	https://tw.news.yahoo.com/%E5%BE%9E%E7%BC%BA%E6%B0%B4%E5%88%B0%E6%BB%BF%E6%B0%B4-%E9%9B%B7%E9%9B%A8%E7%8B%82%E7%81%8C%E7%89%A1%E4%B8%B9%E6%B0%B4%E5%BA%AB%E6%80%A5%E6%B4%A9%E6%B4%AA%E5%A3%AF%E8%A7%80%E7%95%AB%E9%9D%A2%E6%9B%9D-%E6%9B%BE%E6%96%87%E6%B0%B4%E5%BA%AB%E4%B9%9F%E5%A4%A7%E5%BE%A9%E6%B4%BB-171753481.html	未分類
 2026-06-25	九龍公園游泳池 33歲女泳客游夜水遇溺 昏迷送院搶救命危	https://www.hk01.com/突發/60363634/九龍公園游泳池-33歲女泳客游夜水遇溺-昏迷送院搶救命危	未分類
-2026-06-25	九龍公園泳池女子遇溺 昏迷送院搶救	https://std.stheadline.com/breaking-news/3586735/九龍公園泳池女子遇溺-昏迷送院搶救	未分類
+2026-06-25	九龍公園泳池女子遇溺 昏迷送院搶救	https://www.stheadline.com/breaking-news/3586735/九龍公園泳池女子遇溺-昏迷送院搶救	未分類
 2026-06-24	法國44度高溫 40人跳入水中消暑溺斃 巴黎鐵塔及羅浮宮提前關閉	https://www.hk01.com/即時國際/60363266/法國44度高溫-40人跳入水中消暑溺斃-巴黎鐵塔及羅浮宮提前關閉	未分類
 2026-06-24	歐洲熱浪︱法國44度高溫近80年最熱 40人游泳避暑溺斃 巴黎鐵塔、羅浮宮緊急關閉	https://topick.hket.com/article/4151219/歐洲熱浪︱法國44度高溫近80年最熱 40人游泳避暑溺斃 巴黎鐵塔、羅浮宮緊急關閉	未分類
 2026-06-24	歐洲多國熱浪持續法國錄破紀錄高溫 最少40 人游泳消暑遇溺亡	https://www.bastillepost.com/hongkong/article/16226624-歐洲多國熱浪持續法國錄破紀錄高溫 最少40人游泳	未分類
 2026-06-24	影/小琉球厚石群礁溺斃意外！男下水失聯外海尋獲遺體 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260624/index-78226728522425309002.html	未分類
 2026-06-24	九龍公園游泳池女子遇溺 救生員救起昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260624/bkn-20260624232223142-0624_00822_001.html	未分類
 2026-06-24	九龍公園泳池發生遇溺事件 33歲女泳客昏迷送院搶救	https://www.singtaousa.com/2026/06/24/news/china/kowloon-park-pool-woman-drowning-rescue/	未分類
-2026-06-23	銅鑼灣維園泳池女泳客疑遇溺 昏迷送院搶救	https://www.hk01.com/article/60362891	未分類
+2026-06-23	銅鑼灣維園泳池女泳客疑遇溺 昏迷送院搶救	https://www.hk01.com/突發/60362891/銅鑼灣維園泳池女泳客疑遇溺-昏迷送院搶救	未分類
 2026-06-23	銅鑼灣維園泳池73歲女泳客疑遇溺 昏迷送院搶救	https://www.am730.com.hk/article/1037525	未分類
 2026-06-23	維園泳池女子遇溺 獲救送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260623/bkn-20260623074154840-0623_00822_001.html	未分類
 2026-06-23	維園女泳客疑遇溺 昏迷送院搶救	https://www.stheadline.com/breaking-news/3585924/維園女泳客疑遇溺-昏迷送院搶救	未分類
@@ -281,13 +268,12 @@ var DATA_DROWNING = `
 2026-06-21	臺北國際龍舟賽開戰 SWAG 女神隊參戰	https://live.setn.com/Live/4587	未分類
 2026-06-20	龙湘水库项目建议书初步通过水规总院审查	https://m.fznews.com.cn/fzyw/20260620/l6i3OV77Kq.shtml	未分類
 2026-06-19	青山灣泳灘男子游龍舟水遇溺 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260619/bkn-20260619165557684-0619_00822_001.html	未分類
-2026-06-19	聽▶︎港聞｜不再以貧窮線定義貧窮 端午長假展開多區賽龍舟｜2026年6月19日	https://news.google.com/rss/articles/CBMilANBVV95cUxPSlVocHNNRFFnRnNJS2pXcmNOT1o3anNIdEtmRFRBQXZHTEU1V3phX0JvR2dBU0xUZGRBSFRyMmFGZVpvOEFWNlJkSnRFVVFvbzAyUEpkZ1ctdjRjNVpIaV9lU2tabkNQZncwZzM0aVVNR2tEREJzd0dsVFpFb0xpNWxWLUtKczVjSmt0VGhJS21hWDZtWkM1MVRaeUFoa0NDRktIbEI2NC1HeXhzNzN3c01SeV83V2VNR1FRT0kwNGdaelAyaTN3VTNQVkEzNXFCbndLNnRBTDBoMHhXMy1lTG1LUTdqdzRvekV3Z3R3LVUxbHRMR0dwY01DYTQzZ2I4amJ1OV9vbDZvS1h0X3luSUVsRE1NUXdNUDZQbEFUb3dZOTlMZG9WVmxBemgtenIxdVZTOG1CaVFoRnpBRzUzQzUxOG5YTFUxa3NfZzNscWtiODlVcDkyT3lwcU4zNmZPb0dvS0NHd1Z5RVlWTzBwTVpiYlQ2RUdLWGJONG93ZkxaNjBLTVJKMWFIb0RWemk5cXVnMA?oc=5	未分類
 2026-06-19	端午節｜香港國際龍舟節開鑼 一連13天尖沙咀海濱舉行【圖輯】	https://www.am730.com.hk/article/1037046	未分類
-2026-06-19	端午節｜屯門青山灣泳灘五旬漢游龍舟水遇溺 昏迷送院搶救	https://www.am730.com.hk/本地/1037049/端午節-屯門青山灣泳灘五旬漢游龍舟水遇溺-昏迷送院搶救	未分類
+2026-06-19	端午節｜屯門青山灣泳灘五旬漢游龍舟水遇溺 昏迷送院搶救	https://hk.news.yahoo.com/端午節-屯門青山灣泳灘五旬漢游龍舟水遇溺-昏迷送院搶救-101017259.html	未分類
 2026-06-19	端午節｜屯門青山灣泳灘中年漢游龍舟水遇溺 昏迷送院搶救	https://www.singtao.ca/7540710/2026-06-19/news-端午節｜屯門青山灣泳灘中年漢游龍舟水遇溺+送院搶救後不治/	未分類
 2026-06-19	有片｜青山灣泳灘男子疑游龍舟水遇溺亡 消防拯救岸邊心外壓	https://www.hk01.com/突發/60362035/有片-青山灣泳灘男子疑游龍舟水遇溺亡-消防拯救岸邊心外壓	未分類
-2026-06-19	屯門青山灣泳灘男子疑遇溺 昏迷送院治理	https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Sngyc20xWkJjYmp2Q2JfYkt2M0dNU2UyOHlrcjQ2WHZCUEx6XzYtSjY3X2d1YUVEYThFV3VNaXVFcVhkYVNqQnpCcHVVLTFqUmh1WnFTcFhlWFpZZUcwY1NnREo2UmttLTdNVE5rZw?oc=5	未分類
-2026-06-19	屯門青山灣泳灘有男子遇溺 昏迷送院	https://www.hkcd.com.hk/hkcdweb/content/2026/06/19/content_8760850.html	未分類
+2026-06-19	屯門青山灣泳灘男子疑遇溺 昏迷送院治理	https://news.rthk.hk/rthk/ch/component/k2/1859194-20260619.htm	未分類
+2026-06-19	屯門青山灣泳灘有男子遇溺 昏迷送院	https://hkcd.com/hkcdweb/content/2026/06/19/content_8760850.html	未分類
 2026-06-19	宏福苑對出海面辦龍舟賽 市民「你知我知」形容心情 主辦方料萬人觀賞 (17:34) - 20260619 - 港聞	https://news.mingpao.com/ins/港聞/article/20260619/s00001/1781861188707/宏福苑對出海面辦龍舟賽-市民「你知我知」形容心情-主辦方料萬人觀賞	未分類
 2026-06-18	陸媒揭公務員陪領導釣魚溺亡 醜聞遭全網下架	https://vct.news/news/陸媒揭公務員陪領導釣魚溺亡-醜聞遭全網下架	未分類
 2026-06-18	明德水庫1.6萬自來水用戶改鯉魚潭水庫供應自來水有譜 台水回應了	https://udn.com/news/amp/story/7324/9574081	未分類
@@ -322,7 +308,6 @@ var DATA_DROWNING = `
 2026-05-28	曾文水庫快見底！蓄水率只剩1成 水利署急啟跨區調水	https://www.ftnn.com.tw/news/549317	未分類
 2026-05-28	中環酒店泳池7歲男童遇溺 一度昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260528/bkn-20260528102241337-0528_00822_001.html	未分類
 2026-05-28	中环酒店泳池7岁男童遇溺一度昏迷送院救治｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260528/bkn-20260528102241337-0528_00822_001_cn.html	未分類
-2026-05-27	歐洲熱浪 英法破5月高溫紀錄 多人下水消暑降溫時溺斃 意國限烈日工作 - i-cable.com	https://news.google.com/rss/articles/CBMi6wJBVV95cUxOSlVEVU53RC1OZVFwcXY4LXhtbEI3Rmc4dHYyaXd6UUhueGt4S2I5RDIwNHZSS2ZqREdjMzlOZ0ZiQl92Z0hKZENuMlJhOUNfcTBCN0FQR3JOOHJxSjhtRkpUdmtxR0cxVVo1V1JCdmRJNWxVU2FQRTV1T3hLWlM5T1FJelRFeGJMSnpoZmFVMG52bTJJQWF0TzRMTzNIM09aNzREdzJ4TEZnOXNUMTRjN1NzYWRFb0xxeEpKajRjdC1Sdzg3amFfRFRIVDhVN1NiTmNYZW5Tc3JjMlBlY3k2OXMyOGVBdlpVd0ZVWmlBbTdvX1dmQmlmbzdoMm9GalQ0QllYcEtobkRRRW1xWUt0OWs1ZEl1c2xtSUJ6SmhPRXpUNVRXX2pTR3Jtc2ZDRV9IQ3plNE03UUp5MHRlTEZ6R2MtTUswb1NjcHFXMWhiU2hVME9qMWZxbmNRcVBuWWt6djgzbm12WGpPbEk?oc=5	未分類
 2026-05-27	歐洲熱浪 英法破5月高溫紀錄 多人下水消暑降溫時溺斃 意國限烈日工作	https://www.i-cable.com/新聞資訊/468428/歐洲熱浪-英法破5月高溫紀錄-多人下水消暑降溫	未分類
 2026-05-26	浙江男钓鱼惊见女童遇溺 不会游水仍冒险落河救人 获网民激赞	https://global.hk01.com/大国小事/60353327/浙江男钓鱼惊见女童遇溺-不会游水仍冒险落河救人-获网民激赞	未分類
 2026-05-26	浙江男釣魚驚見女童遇溺 不會游水仍冒險落河救人 獲網民激讚	https://www.hk01.com/大國小事/60353327/浙江男釣魚驚見女童遇溺-不會游水仍冒險落河救人-獲網民激讚	未分類
@@ -334,7 +319,7 @@ var DATA_DROWNING = `
 2026-05-20	石門水庫至新竹聯通管隧道貫通 楊文科籲推寶三水庫、引南勢溪活水	https://n.yam.com/Article/20260520833906	未分類
 2026-05-20	完整珍珠串！ 「石門水庫至新竹聯通管工程計畫」隧道順利貫通	https://turnnewsapp.com/livenews/life/20260520003672-260405	未分類
 2026-05-20	北水也能護神山！ 石門水庫貫通新竹可緊急供水30萬噸	https://www.mnews.tw/story/amp/mm-20260520-181fin-183730	未分類
-2026-05-17	馬爾代夫潛水意外5死 女大生穿上裝備後「秒變卦」成唯一生還者	https://www.hk01.com/article/60350713	未分類
+2026-05-17	馬爾代夫潛水意外5死 女大生穿上裝備後「秒變卦」成唯一生還者	https://www.hk01.com/即時國際/60350713/馬爾代夫潛水意外5死-女大生穿上裝備後-秒變卦-成唯一生還者	未分類
 2026-05-15	泳客活動頻繁遮擋鏡頭 AI遇溺偵測系統有限制	https://std.stheadline.com/daily-hongkong/3572602/泳客活動頻繁遮擋鏡頭-AI遇溺偵測系統有限制	未分類
 2026-05-13	南部水情吃緊！曾文水庫自顧不暇 南化、湖山6水庫蓄水率跌破3成	https://n.yam.com/Article/20260513597295	未分類
 2026-05-10	从丹江口水库出发，这杯水跨越1432公里奔向你	https://www.chinanews.com.cn/sh/shipin/2026/05-10/news1053639.shtml	未分類
@@ -374,7 +359,7 @@ var DATA_DROWNING = `
 2026-04-20	深水埗泳池男子遇溺 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260420/bkn-20260420085427689-0420_00822_001.html	未分類
 2026-04-20	深水埗公園游泳池男子遇溺 昏迷送院搶救	https://www.stheadline.com/breaking-news/3563816/深水埗公園游泳池男子遇溺-昏迷送院搶救	未分類
 2026-04-20	深水埗公園游泳池男子疑遇溺 昏迷送院搶救	https://www.hk01.com/突發/60341763/深水埗公園游泳池男子疑遇溺-昏迷送院搶救	未分類
-2026-04-20	深水埗公園游泳池六旬翁疑遇溺 昏迷送院搶救	https://www.am730.com.hk/article/1025836	未分類
+2026-04-20	深水埗公園游泳池六旬翁疑遇溺 昏迷送院搶救	https://www.am730.com.hk/本地/1025836/深水埗公園游泳池六旬翁疑遇溺-昏迷送院搶救	未分類
 2026-04-20	深水埗公園游泳池六旬男子游早水遇溺昏迷- 香港 - 香港文匯網	https://www.wenweipo.com/a/202604/20/AP69e59b01e4b0b49ad1b79d65.html	未分類
 2026-04-20	深水埗公园游泳池男子遇溺 昏迷送院抢救	https://www.stheadline.com/zh-hans/breaking-news/3563816/深水埗公园游泳池男子遇溺-昏迷送院抢救	未分類
 2026-04-20	深水埗公园游泳池男子疑遇溺 昏迷送院抢救	https://global.hk01.com/突发/60341763/深水埗公园游泳池男子疑遇溺-昏迷送院抢救	未分類
@@ -443,13 +428,13 @@ var DATA_DROWNING = `
 2026-02-21	俄貝加爾湖冰裂汽車落水中國遊客7亡1獲救 - 內地 - 香港文匯網	https://www.wenweipo.com/a/202602/21/AP6998c03be4b04d7d56d4664c.html	未分類
 2026-02-21	俄羅斯貝加爾湖冰裂 車輛墜入湖中 8人溺亡包括7名中國遊客 一人逃生｜Yahoo	https://hk.news.yahoo.com/俄羅斯貝加爾湖冰裂-車輛墜入湖中-8人溺亡包括7名中國遊客-一人逃生｜yahoo-130715361.html	未分類
 2026-02-21	中国男子海滩嬉水遇溺 消拯局展开搜救行动	https://newswav.com/article/中国男子海滩嬉水遇溺-消拯局展开搜救行动-A2602_rR0g5f	未分類
-2026-02-21	7名中國遊客溺斃貝加爾湖 目擊者：司機無視冰面裂縫，加速通過	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60323799/7%E5%90%8D%E4%B8%AD%E5%9C%8B%E9%81%8A%E5%AE%A2%E6%BA%BA%E6%96%83%E8%B2%9D%E5%8A%A0%E7%88%BE%E6%B9%96-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%8F%B8%E6%A9%9F%E7%84%A1%E8%A6%96%E5%86%B0%E9%9D%A2%E8%A3%82%E7%B8%AB-%E5%8A%A0%E9%80%9F%E9%80%9A%E9%81%8E	未分類
+2026-02-21	7名中國遊客溺斃貝加爾湖 目擊者：司機無視冰面裂縫，加速通過	https://www.hk01.com/即時中國/60323799/7名中國遊客溺斃貝加爾湖-目擊者-司機無視冰面裂縫-加速通過	未分類
 2026-02-20	更新｜7名中國遊客沉入貝加爾湖溺亡	https://hkcd.com/hkcdweb/content/2026/02/20/content_8741001.html	未分類
 2026-02-20	整車沉沒貝加爾湖 7名中國遊客溺亡、僅1人逃生 ｜ 大陸政經 ｜ 兩岸 ｜ 經濟日報	https://money.udn.com/money/story/5603/9335835	未分類
 2026-02-20	整車沉沒貝加爾湖 7名中國遊客溺亡、僅1人逃生	https://www.worldjournal.com/wj/story/121474/9335847	未分類
 2026-02-20	小鋼炮2分鐘沉貝加爾湖7中客溺亡 目擊者：冰面滿是裂紋	https://www.worldjournal.com/wj/story/121474/9336213	未分類
 2026-02-20	冰裂致車墜貝加爾湖 中國遊客7死1傷	https://hk.on.cc/hk/bkn/cnt/intnews/20260220/bkn-20260220204243510-0220_00992_001.html	未分類
-2026-02-20	俄貝加爾湖冰裂汽車墜沉 8中國遊客僅一人獲救	https://www.am730.com.hk/article/1012680	未分類
+2026-02-20	俄貝加爾湖冰裂汽車墜沉 8中國遊客僅一人獲救	https://www.am730.com.hk/國際/1012680/俄貝加爾湖冰裂汽車墜沉-8中國遊客僅一人獲救	未分類
 2026-02-20	俄羅斯貝加爾湖汽車墮湖 載8中國客1司機 州長：8人死 僅1脫險	https://www.hk01.com/即時國際/60323712/俄羅斯貝加爾湖汽車墮湖-載8中國客1司機-州長-8人死-僅1脫險	未分類
 2026-02-20	俄羅斯貝加爾湖冰裂 車輛沉入釀8死 7人為中國遊客 (21:40) - 20260220 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260220/s00004/1771594769319/俄羅斯貝加爾湖冰裂-車輛沉入釀8死-7人為中國遊客	未分類
 2026-02-20	8名中國遊客在貝加爾湖落水1人獲救7人溺亡- 國際	https://www.dotdotnews.com/a/202602/20/AP699840f0e4b0c32d4f695666.html	未分類
@@ -468,14 +453,14 @@ var DATA_DROWNING = `
 2026-02-03	迪欣湖溺斃男子身份曝光 湖南抵港即日出事 母正來港認屍 - 大公文匯網	https://www.tkww.hk/a/202602/3/AP6981ad38e4b0aa6cbcd3e1d3.html	未分類
 2026-01-24	加拿大少女澳洲克加里島遇溺亡 驗屍指死前曾遭野狗追咬	https://news.tvb.com/en/1146791-加拿大少女澳洲克加里島遇溺亡驗屍指死前曾遭野狗追咬	未分類
 2026-01-20	贪玩险令儿子遇溺史匹堡封杀宾佬| 娱乐 | 2026-01-20	https://guangming.com.my/贪玩险令儿子遇溺-史匹堡封杀宾佬	未分類
-2026-01-16	巴西水上樂園︱救生員幫客撿婚戒 吸入排水口受困15分鐘溺亡	https://www.stheadline.com/realtime-world/3536131/%E5%B7%B4%E8%A5%BF%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92%E6%95%91%E7%94%9F%E5%93%A1%E5%B9%AB%E5%AE%A2%E6%92%BF%E5%A9%9A%E6%88%92-%E5%90%B8%E5%85%A5%E6%8E%92%E6%B0%B4%E5%8F%A3%E5%8F%97%E5%9B%B015%E5%88%86%E9%90%98%E6%BA%BA%E4%BA%A1	未分類
+2026-01-16	巴西水上樂園︱救生員幫客撿婚戒 吸入排水口受困15分鐘溺亡	https://std.stheadline.com/realtime-world/3536131/巴西水上樂園救生員幫客撿婚戒-吸入排水口受困15分鐘溺亡	未分類
 2026-01-15	銅鑼灣避風塘疑有人遇溺 救援人員到場搜索 (11:55) - 20260115 - 港聞	https://news.mingpao.com/ins/港聞/article/20260115/s00001/1768448155907/銅鑼灣避風塘疑有人遇溺-救援人員到場搜索	未分類
 2026-01-14	高雄「港區浮屍」確認是海軍士官！父母淚崩	https://news.pchome.com.tw/society/ctinews/20260114/index-76836712445231309002.html	未分類
 2026-01-14	男童救人反遇溺 朋友自救上岸	https://eastcoast.chinapress.com.my/20260114/男童救人反遇溺-朋友自救上岸/	未分類
 2026-01-14	獨／高雄浮屍身分曝！海軍士官亡 父母報案協尋等來冰冷遺體	https://www.ettoday.net/news/20260114/3100857.htm	未分類
 2026-01-13	馬里發生獨木舟沉沒事故 至少33人死亡	https://hkcd.com/content_app/2026-01/13/content_8735321.html	未分類
 2026-01-13	邀偷鐵皮被拒 雲南6旬婦悶暈13歲男孩推其落水致溺斃 一審判死	https://www.hk01.com/大國小事/60312023/邀偷鐵皮被拒-雲南6旬婦悶暈13歲男孩推其落水致溺斃-一審判死	未分類
-2026-01-12	3公尺深河段游泳 25歲工程師溺斃 ｜ 中國報 China Press	https://www.chinapress.com.my/20260112/3公尺深河段游泳-25岁工程师溺毙/	未分類
+2026-01-12	3公尺深河段游泳 25歲工程師溺斃 ｜ 中國報 China Press	https://www.chinapress.com.my/20260112/3%E5%85%AC%E5%B0%BA%E6%B7%B1%E6%B2%B3%E6%AE%B5%E6%B8%B8%E6%B3%B3-25%E5%B2%81%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%BA%BA%E6%AF%99/	未分類
 2026-01-11	民宿游池戲水遇溺 1童危殆另1童蘇醒｜光華網	https://www.kwongwah.com.my/20260111/%E6%B0%91%E5%AE%BF%E6%B8%B8%E6%B1%A0%E6%88%8F%E6%B0%B4%E9%81%87%E6%BA%BA-1%E7%AB%A5%E5%8D%B1%E6%AE%86%E5%8F%A61%E7%AB%A5%E8%8B%8F%E9%86%92/	未分類
 2026-01-11	民宿游池戏水遇溺 1童危殆另1童苏醒	https://www.kwongwah.com.my/20260111/民宿游池戏水遇溺-1童危殆另1童苏醒/	未分類
 2026-01-11	到瀑布嬉水 友人遇溺 男子救人 自己反遭沖走 ｜ 中國報 China Press	https://www.chinapress.com.my/20260111/%E5%88%B0%E7%80%91%E5%B8%83%E5%AC%89%E6%B0%B4-%E5%8F%8B%E4%BA%BA%E9%81%87%E6%BA%BA-%E7%94%B7%E5%AD%90%E6%95%91%E4%BA%BA-%E8%87%AA%E5%B7%B1%E5%8F%8D%E9%81%AD%E5%86%B2%E8%B5%B0/	未分類
@@ -483,71 +468,70 @@ var DATA_DROWNING = `
 2026-01-09	台中東勢大排驚見浮屍卡閘門 腫脹難辨身分待查	https://news.pchome.com.tw/society/ctinews/20260109/index-76794127505928309002.html	未分類
 2026-01-07	澳洲新南威爾士接連有民眾遇溺 專家籲宣傳加入辨識暗流等內容	https://news.tvb.com/sc/world/695e0015bc0cbd9033b1d168/国际-澳洲新南威爾士接連有民眾遇溺-專家籲宣傳加入辨識暗流等內容	未分類
 2026-01-07	(澳洲新州海岸34歲男子游泳遇溺)	https://news.tvb.com/sc/world/695e0015bc0cbd9033b1d168/%E5%9B%BD%E9%99%85-%E6%BE%B3%E6%B4%B2%E6%96%B0%E5%8D%97%E5%A8%81%E7%88%BE%E5%A3%AB%E6%8E%A5%E9%80%A3%E6%9C%89%E6%B0%91%E7%9C%BE%E9%81%87%E6%BA%BA-%E5%B0%88%E5%AE%B6%E7%B1%B2%E5%AE%A3%E5%82%B3%E5%8A%A0%E5%85%A5%E8%BE%A8%E8%AD%98%E6%9A%97%E6%B5%81%E7%AD%89%E5%85%A7%E5%AE%B9	未分類
-2026-01-06	2遊客三亞出遊時落水 1人僅7秒沉海溺斃 曾不聽勸阻未穿救生衣	https://global.hk01.com/%E5%A4%A7%E5%9B%BD%E5%B0%8F%E4%BA%8B/60310052/2%E6%B8%B8%E5%AE%A2%E4%B8%89%E4%BA%9A%E5%87%BA%E6%B8%B8%E6%97%B6%E8%90%BD%E6%B0%B4-1%E4%BA%BA%E4%BB%857%E7%A7%92%E6%B2%89%E6%B5%B7%E6%BA%BA%E6%AF%99-%E6%9B%BE%E4%B8%8D%E5%90%AC%E5%8A%9D%E9%98%BB%E6%9C%AA%E7%A9%BF%E6%95%91%E7%94%9F%E8%A1%A3	未分類
+2026-01-06	2遊客三亞出遊時落水 1人僅7秒沉海溺斃 曾不聽勸阻未穿救生衣	https://www.hk01.com/article/60310052	未分類
 2026-01-06	2游客三亚出游时落水 1人仅7秒沉海溺毙 曾不听劝阻未穿救生衣	https://global.hk01.com/大国小事/60310052/2游客三亚出游时落水-1人仅7秒沉海溺毙-曾不听劝阻未穿救生衣	未分類
 2026-01-05	澳洲新州海岸34歲男子游泳遇溺	https://news.tvb.com/tc/world/695b58dfc26d920e366a3aee/國際-澳洲新州海岸34歲男子游泳遇溺	未分類
-2026-01-05	澳洲34歲男子新州海岸游泳遇溺	https://news.tvb.com/tc/world/695b58dfc26d920e366a3aee/%E5%9C%8B%E9%9A%9B-%E6%BE%B3%E6%B4%B234%E6%AD%B2%E7%94%B7%E5%AD%90%E6%96%B0%E5%B7%9E%E6%B5%B7%E5%B2%B8%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA	未分類
+2026-01-05	澳洲34歲男子新州海岸游泳遇溺	https://news.tvb.com/tc/world/695b58dfc26d920e366a3aee/國際-澳洲34歲男子新州海岸游泳遇溺	未分類
 2026-01-05	尖沙咀碼頭老翁疑遇溺 熱心男落水救人兼做心肺復甦	https://www.hk01.com/突發/60309766/尖沙咀碼頭老翁疑遇溺-熱心男落水救人兼做心肺復甦	未分類
 2026-01-05	尖沙咀碼頭八旬老翁疑遇溺 熱心男途人落水救人兼做心肺復甦	https://www.am730.com.hk/本地/尖沙咀碼頭八旬老翁疑遇溺-熱心男途人落水救人兼做心肺復甦/633470	未分類
-2026-01-05	尖沙咀码头老翁疑遇溺 热心男落水救人兼做心肺复苏	https://global.hk01.com/%E7%AA%81%E5%8F%91/60309766/%E5%B0%96%E6%B2%99%E5%92%80%E7%A0%81%E5%A4%B4%E8%80%81%E7%BF%81%E7%96%91%E9%81%87%E6%BA%BA-%E7%83%AD%E5%BF%83%E7%94%B7%E8%90%BD%E6%B0%B4%E6%95%91%E4%BA%BA%E5%85%BC%E5%81%9A%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F	未分類
+2026-01-05	尖沙咀码头老翁疑遇溺 热心男落水救人兼做心肺复苏	https://global.hk01.com/突发/60309766/尖沙咀码头老翁疑遇溺-热心男落水救人兼做心肺复苏	未分類
 2026-01-05	尖沙咀海濱男子墮海遇溺 熱心途人落水救起	https://www.stheadline.com/breaking-news/3532713/尖沙咀海濱男子墮海遇溺-熱心途人落水救起	未分類
 2026-01-05	(澳洲珀斯海灣十二歲女童遇溺暈迷 送院後情況危殆)	https://news.tvb.com/tc/world/695b58dfc26d920e366a3aee/%E5%9C%8B%E9%9A%9B-%E6%BE%B3%E6%B4%B2%E6%96%B0%E5%B7%9E%E6%B5%B7%E5%B2%B834%E6%AD%B2%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA	未分類
 2025-12-26	大埔女子墮魚池遇溺 獲救昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20251226/bkn-20251226110840733-1226_00822_001.html	未分類
-2025-12-26	大埔下黃宜坳村屋六旬婦魚池遇溺 昏迷送院	https://www.hk01.com/%E7%AA%81%E7%99%BC/60307024/%E5%A4%A7%E5%9F%94%E4%B8%8B%E9%BB%83%E5%AE%9C%E5%9D%B3%E6%9D%91%E5%B1%8B%E5%85%AD%E6%97%AC%E5%A9%A6%E9%AD%9A%E6%B1%A0%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	未分類
-2025-12-26	大埔下黃宜坳女子魚池遇溺 消防救起昏迷送院	https://std.stheadline.com/breaking-news/3530183/%E5%A4%A7%E5%9F%94%E4%B8%8B%E9%BB%83%E5%AE%9C%E5%9D%B3%E5%A5%B3%E5%AD%90%E9%AD%9A%E6%B1%A0%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	未分類
-2025-12-25	澳洲珀斯海灘十二歲女童遇溺昏迷 送院後情況危殆	https://news.tvb.com/tc/world/694ce438b392e5851f5f0936/%E5%9C%8B%E9%9A%9B-%E6%BE%B3%E6%B4%B2%E7%8F%80%E6%96%AF%E6%B5%B7%E7%81%98%E5%8D%81%E4%BA%8C%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%87%E6%BA%BA%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E5%BE%8C%E6%83%85%E6%B3%81%E5%8D%B1%E6%AE%86	未分類
-2025-12-23	鰂魚涌公園男子游泳疑遇溺 消防到場救起 送院治理	https://www.hk01.com/%E7%AA%81%E7%99%BC/60306060/%E9%B0%82%E9%AD%9A%E6%B6%8C%E5%85%AC%E5%9C%92%E7%94%B7%E5%AD%90%E6%B8%B8%E6%B3%B3%E7%96%91%E9%81%87%E6%BA%BA-%E6%B6%88%E9%98%B2%E5%88%B0%E5%A0%B4%E6%95%91%E8%B5%B7-%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86	未分類
-2025-12-23	鰂魚涌公園男子海邊游泳遇溺 警方消防救起送院	https://std.stheadline.com/breaking-news/3529384/%E9%B0%82%E9%AD%9A%E6%B6%8C%E5%85%AC%E5%9C%92%E7%94%B7%E5%AD%90%E6%B5%B7%E9%82%8A%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA-%E8%AD%A6%E6%96%B9%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2	未分類
-2025-12-23	鰂魚涌公園69歲老翁游泳疑遇溺 獲救送院	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E9%B0%82%E9%AD%9A%E6%B6%8C%E5%85%AC%E5%9C%9269%E6%AD%B2%E8%80%81%E7%BF%81%E6%B8%B8%E6%B3%B3%E7%96%91%E9%81%87%E6%BA%BA-%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2/630486	未分類
-2025-12-23	六旬漢鰂魚涌游早泳 疑抽筋遇溺獲救	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/422311/%E5%85%AD%E6%97%AC%E6%BC%A2%E9%B0%82%E9%AD%9A%E6%B6%8C%E6%B8%B8%E6%97%A9%E6%B3%B3-%E7%96%91%E6%8A%BD%E7%AD%8B%E9%81%87%E6%BA%BA%E7%8D%B2%E6%95%91	未分類
+2025-12-26	大埔下黃宜坳村屋六旬婦魚池遇溺 昏迷送院	https://www.hk01.com/突發/60307024/大埔下黃宜坳村屋六旬婦魚池遇溺-昏迷送院	未分類
+2025-12-26	大埔下黃宜坳女子魚池遇溺 消防救起昏迷送院	https://std.stheadline.com/breaking-news/3530183/大埔下黃宜坳女子魚池遇溺-消防救起昏迷送院	未分類
+2025-12-25	澳洲珀斯海灘十二歲女童遇溺昏迷 送院後情況危殆	https://news.tvb.com/tc/world/694ce438b392e5851f5f0936/國際-澳洲珀斯海灘十二歲女童遇溺昏迷-送院後情況危殆	未分類
+2025-12-23	鰂魚涌公園男子游泳疑遇溺 消防到場救起 送院治理	https://www.hk01.com/突發/60306060/鰂魚涌公園男子游泳疑遇溺-消防到場救起-送院治理	未分類
+2025-12-23	鰂魚涌公園男子海邊游泳遇溺 警方消防救起送院	https://std.stheadline.com/breaking-news/3529384/鰂魚涌公園男子海邊游泳遇溺-警方消防救起送院	未分類
+2025-12-23	鰂魚涌公園69歲老翁游泳疑遇溺 獲救送院	https://www.am730.com.hk/本地/鰂魚涌公園69歲老翁游泳疑遇溺-獲救送院/630486	未分類
+2025-12-23	六旬漢鰂魚涌游早泳 疑抽筋遇溺獲救	https://www.i-cable.com/新聞資訊/422311/六旬漢鰂魚涌游早泳-疑抽筋遇溺獲救	未分類
 2025-12-22	鰂魚涌公園男子海邊游泳遇溺 警方消防救起送院	https://www.singtao.ca/7368867/2025-12-22/news-%E9%B0%82%E9%AD%9A%E6%B6%8C%E5%85%AC%E5%9C%92%E7%94%B7%E5%AD%90%E6%B5%B7%E9%82%8A%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA+%E8%AD%A6%E6%96%B9%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2/	未分類
 2025-12-18	大學生在校內溺亡 疑遊戲時不慎墮湖	https://hk.on.cc/hk/bkn/cnt/news/20251218/bkn-20251218080029484-1218_00822_001.html	未分類
 2025-12-07	民宿泳池溺水 4歲男童救不回 ｜ 中國報 China Press	https://www.chinapress.com.my/20251207/%E6%B0%91%E5%AE%BF%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B4-4%E5%B2%81%E7%94%B7%E7%AB%A5%E6%95%91%E4%B8%8D%E5%9B%9E/	未分類
-2025-12-07	民宿泳池溺水 4岁男童救不回	https://n9.chinapress.com.my/20251207/民宿泳池溺水-4岁男童救不回/	未分類
+2025-12-07	民宿泳池溺水 4岁男童救不回	https://www.chinapress.com.my/20251207/民宿泳池溺水-4岁男童救不回/	未分類
 2025-12-02	16歲少年救落水女子溺亡 家屬：她獲救後直接離開，不顧恩人性命	https://www.hk01.com/大國小事/60299808/16歲少年救落水女子溺亡-家屬-她獲救後直接離開-不顧恩人性命	未分類
 2025-11-29	轿车受困水中 3人自救 1人遇溺下落不明	https://www.chinapress.com.my/20251129/轿车受困水中-3人自救-1人遇溺下落不明/	未分類
 2025-11-27	老妇遭急流冲走溺亡 “别丢下我”成遗言	https://www.8tvnews.my/localnews/laofuzaojiliuchongzouniwang-biediuxiawochengyiyan/	未分類
 2025-11-24	筲箕灣避風塘發現浮屍 身份及死亡原因待查	https://hk.on.cc/cnt/news/20251124/bkn-20251124144940236-1124_00822_001.html	未分類
 2025-11-23	石鼓洲及石排灣對開接連發現1男1女浮屍 身份未明｜本地｜商業電台 881903	https://www.881903.com/news/amp/local/2606799	未分類
 2025-11-23	彰化兩死意外！ 伸港海尾蚵道兩名釣客落海溺斃	https://www.marketersgo.com/media-collaboration/202511/%E5%BD%B0%E5%8C%96%E5%85%A9%E6%AD%BB%E6%84%8F%E5%A4%96%EF%BC%81%E3%80%80%E4%BC%B8%E6%B8%AF%E6%B5%B7%E5%B0%BE%E8%9A%B5%E9%81%93%E5%85%A9%E5%90%8D%E9%87%A3%E5%AE%A2%E8%90%BD%E6%B5%B7%E6%BA%BA%E6%96%83/	未分類
-2025-11-23	廈門男泳池溺亡 沉水底30分鐘方獲撈起 家屬質疑救生員延遲施救	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60296863/%E5%BB%88%E9%96%80%E7%94%B7%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A1-%E6%B2%89%E6%B0%B4%E5%BA%9530%E5%88%86%E9%90%98%E6%96%B9%E7%8D%B2%E6%92%88%E8%B5%B7-%E5%AE%B6%E5%B1%AC%E8%B3%AA%E7%96%91%E6%95%91%E7%94%9F%E5%93%A1%E5%BB%B6%E9%81%B2%E6%96%BD%E6%95%91	未分類
-2025-11-23	厦门男泳池溺亡 沉水底30分钟方获捞起 家属质疑救生员延迟施救	https://global.hk01.com/%E5%A4%A7%E5%9B%BD%E5%B0%8F%E4%BA%8B/60296863/%E5%8E%A6%E9%97%A8%E7%94%B7%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A1-%E6%B2%89%E6%B0%B4%E5%BA%9530%E5%88%86%E9%92%9F%E6%96%B9%E8%8E%B7%E6%8D%9E%E8%B5%B7-%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E6%95%91%E7%94%9F%E5%91%98%E5%BB%B6%E8%BF%9F%E6%96%BD%E6%95%91	未分類
-2025-11-21	灣仔摩理臣山游泳池男泳客疑遇溺 昏迷送院搶救	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E7%81%A3%E4%BB%94%E6%91%A9%E7%90%86%E8%87%A3%E5%B1%B1%E6%B8%B8%E6%B3%B3%E6%B1%A0%E7%94%B7%E6%B3%B3%E5%AE%A2%E7%96%91%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91/620525	未分類
-2025-11-20	灣仔摩理臣山游泳池疑有人遇溺男泳客昏迷送院搶救- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/16290787429900/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E-%E7%81%A3%E4%BB%94%E6%91%A9%E7%90%86%E8%87%A3%E5%B1%B1%E6%B8%B8%E6%B3%B3%E6%B1%A0%E7%96%91%E6%9C%89%E4%BA%BA%E9%81%87%E6%BA%BA-%E7%94%B7%E6%B3%B3%E5%AE%A2%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
+2025-11-23	廈門男泳池溺亡 沉水底30分鐘方獲撈起 家屬質疑救生員延遲施救	https://www.hk01.com/大國小事/60296863/廈門男泳池溺亡-沉水底30分鐘方獲撈起-家屬質疑救生員延遲施救	未分類
+2025-11-23	厦门男泳池溺亡 沉水底30分钟方获捞起 家属质疑救生员延迟施救	https://global.hk01.com/大国小事/60296863/厦门男泳池溺亡-沉水底30分钟方获捞起-家属质疑救生员延迟施救	未分類
+2025-11-21	灣仔摩理臣山游泳池男泳客疑遇溺 昏迷送院搶救	https://www.am730.com.hk/本地/灣仔摩理臣山游泳池男泳客疑遇溺-昏迷送院搶救/620525	未分類
+2025-11-20	灣仔摩理臣山游泳池疑有人遇溺男泳客昏迷送院搶救- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/16290787429900/即時新聞-灣仔摩理臣山游泳池疑有人遇溺-男泳客昏迷送院搶救	未分類
 2025-11-20	灣仔摩理臣山游泳池男泳客疑遇溺 昏迷送院搶救	https://www.hk01.com/article/60296125?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-11-20	灣仔摩理臣山游泳池男泳客疑遇溺 昏迷送院	https://www.hk01.com/%E7%AA%81%E7%99%BC/60296125/%E7%81%A3%E4%BB%94%E6%91%A9%E7%90%86%E8%87%A3%E5%B1%B1%E6%B8%B8%E6%B3%B3%E6%B1%A0%E7%94%B7%E6%B3%B3%E5%AE%A2%E7%96%91%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
-2025-11-20	灣仔摩理臣山游泳池男泳客疑遇溺 一度昏迷	https://www.hk01.com/%E7%AA%81%E7%99%BC/60296125/%E7%81%A3%E4%BB%94%E6%91%A9%E7%90%86%E8%87%A3%E5%B1%B1%E6%B8%B8%E6%B3%B3%E6%B1%A0%E7%94%B7%E6%B3%B3%E5%AE%A2%E7%96%91%E9%81%87%E6%BA%BA-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7	未分類
+2025-11-20	灣仔摩理臣山游泳池男泳客疑遇溺 一度昏迷	https://www.hk01.com/突發/60296125/灣仔摩理臣山游泳池男泳客疑遇溺-一度昏迷	未分類
 2025-11-20	灣仔摩理臣山游泳池男子遇溺 昏迷送院	https://std.stheadline.com/breaking-news/3519626/%E7%81%A3%E4%BB%94%E6%91%A9%E7%90%86%E8%87%A3%E5%B1%B1%E6%B8%B8%E6%B3%B3%E6%B1%A0%E7%94%B7%E5%AD%90%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	未分類
-2025-11-20	灣仔摩理臣山游泳池67歲男遇溺 一度昏迷	https://www.stheadline.com/breaking-news/3519626/%E7%81%A3%E4%BB%94%E6%91%A9%E7%90%86%E8%87%A3%E5%B1%B1%E6%B8%B8%E6%B3%B3%E6%B1%A067%E6%AD%B2%E7%94%B7%E9%81%87%E6%BA%BA-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7	未分類
+2025-11-20	灣仔摩理臣山游泳池67歲男遇溺 一度昏迷	https://www.stheadline.com/breaking-news/3519626/灣仔摩理臣山游泳池67歲男遇溺-一度昏迷	未分類
 2025-11-20	摩理臣戈泳池男子遇溺 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20251120/bkn-20251120145030484-1120_00822_001.html	未分類
-2025-11-16	將軍澳游泳池有67歲男子懷疑遇溺昏迷	https://news.google.com/rss/articles/CBMiigJBVV95cUxPVGJJQ0ZrTTZJSmRsYWl0Vk9BTmN0SHpfTjE3MHNJTzlxdVdFWVRSVmxLUVlOQUpGSDhUSERRNjhlZmo3SmppMDJMNDh0TFRlT29RQWlsQWJsT1hkZjRSVHBHWEZlYWI5Qm4wdkNzTU9vYjFVU0lZd09zX0g0bVJOT1N2QnRXeUptdXkzS0xrMi1IM1htODFPaGZhWWdMNTg4ZS11UzR3X0hhOGdab2VtSC1KU2o1U3NncTZGZ3ZTVlhVS1BtVGw4YXJqU3ZqeWJjMW9Ha3czUWItNnNzMXppVF9aV3UwQWU1Q1BOOU01SldaQkdTT2lWUXMwaDVzNy1iY2VFZTEtRE5YZw?oc=5	未分類
-2025-11-14	沙田城門河女子疑遇溺呼救 途人聞聲報警求助	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E6%B2%99%E7%94%B0%E5%9F%8E%E9%96%80%E6%B2%B3%E5%A5%B3%E5%AD%90%E7%96%91%E9%81%87%E6%BA%BA%E5%91%BC%E6%95%91-%E9%80%94%E4%BA%BA%E8%81%9E%E8%81%B2%E5%A0%B1%E8%AD%A6%E6%B1%82%E5%8A%A9/618440	未分類
-2025-11-13	四川男溺亡被同伴运回家摆成睡姿 家属质疑隐瞒死讯是否犯罪	https://global.hk01.com/%E5%A4%A7%E5%9B%BD%E5%B0%8F%E4%BA%8B/60294133/%E5%9B%9B%E5%B7%9D%E7%94%B7%E6%BA%BA%E4%BA%A1%E8%A2%AB%E5%90%8C%E4%BC%B4%E8%BF%90%E5%9B%9E%E5%AE%B6%E6%91%86%E6%88%90%E7%9D%A1%E5%A7%BF-%E5%AE%B6%E5%B1%9E%E8%B4%A8%E7%96%91%E9%9A%90%E7%9E%92%E6%AD%BB%E8%AE%AF%E6%98%AF%E5%90%A6%E7%8A%AF%E7%BD%AA	未分類
+2025-11-14	沙田城門河女子疑遇溺呼救 途人聞聲報警求助	https://www.am730.com.hk/本地/沙田城門河女子疑遇溺呼救-途人聞聲報警求助/618440	未分類
+2025-11-13	四川男溺亡被同伴运回家摆成睡姿 家属质疑隐瞒死讯是否犯罪	https://global.hk01.com/大国小事/60294133/四川男溺亡被同伴运回家摆成睡姿-家属质疑隐瞒死讯是否犯罪	未分類
 2025-11-10	【致命慘劇】 墨爾本東南部兩人墮溪溺斃	https://www.sbs.com.au/language/chinese/zh-hant/article/two-dead-including-child-after-drowning-incident-in-dandenong-creek/f36abzcrn	未分類
 2025-11-09	儿游泳课遇溺 昏迷3天 父母泪崩拔管放手！	https://www.chinapress.com.my/20251109/儿游泳课遇溺昏迷3天-父母泪崩拔管放手！/	未分類
 2025-11-03	3岁男童泳池溺亡 警传召母助查 父亲下落不明	https://www.enanyang.my/news/20251103/Nation/1053562	未分類
 2025-11-02	海南海口一渔船遇风浪倾覆，4人脱险1人溺亡	https://finance.sina.com.cn/jjxw/2025-11-02/doc-infvyzht2048269.shtml	未分類
 2025-11-01	女童酒店戲水溺亡 兩企業被罰85萬人民幣	https://hk.on.cc/hk/bkn/cnt/news/20251101/bkn-20251101100314064-1101_00822_001.html	未分類
 2025-10-21	驴友新疆徒步未开发区域溺亡，家属起诉搭子、文体局等索赔85万，法院：驳回	https://news.sina.cn/gn/2025-10-21/detail-infurpnr4448522.d.html?oid=1eDkZt1EimdkZwoTbRAMMuDusepzAY5Y.1130h&vt=4&cid=56261&node_id=56261	未分類
-2025-10-21	赤柱圣士提反湾泳滩女泳客疑遇溺 获救半昏迷送院	https://global.hk01.com/%E7%AA%81%E5%8F%91/60287162/%E8%B5%A4%E6%9F%B1%E5%9C%A3%E5%A3%AB%E6%8F%90%E5%8F%8D%E6%B9%BE%E6%B3%B3%E6%BB%A9%E5%A5%B3%E6%B3%B3%E5%AE%A2%E7%96%91%E9%81%87%E6%BA%BA-%E8%8E%B7%E6%95%91%E5%8D%8A%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	未分類
-2025-10-19	女子上環墮海亡 跑步男落水救人扭傷腳送院	https://www.bastillepost.com/hongkong/article/15355324-%E5%A5%B3%E5%AD%90%E4%B8%8A%E7%92%B0%E5%A2%AE%E6%B5%B7%E4%BA%A1-%E8%B7%91%E6%AD%A5%E7%94%B7%E8%90%BD%E6%B0%B4%E6%95%91%E4%BA%BA%E6%89%AD%E5%82%B7%E8%85%B3%E9%80%81%E9%99%A2	未分類
+2025-10-21	赤柱圣士提反湾泳滩女泳客疑遇溺 获救半昏迷送院	https://global.hk01.com/突发/60287162/赤柱圣士提反湾泳滩女泳客疑遇溺-获救半昏迷送院	未分類
+2025-10-19	女子上環墮海亡 跑步男落水救人扭傷腳送院	https://www.bastillepost.com/hongkong/article/15355324-女子上環墮海亡-跑步男落水救人扭傷腳送院	未分類
 2025-10-19	60歲女子上環墮海亡 男子落水救人腳傷送院｜本地｜商業電台 881903	https://www.881903.com/news/local/2601762	未分類
 2025-10-16	將軍澳浮屍｜恒生銀行經理失聯墮海 身穿西裝多處傷口疑自殘 曾透露工作壓力大	https://www.stheadline.com/breaking-news/3508972/將軍澳浮屍恒生銀行經理失聯墮海-身穿西裝多處傷口疑自殘-曾透露工作壓力大	未分類
 2025-10-16	將軍澳41歲銀行經理失聯浮屍海面 身上多處傷口疑自殘（更新）	https://www.am730.com.hk/本地/將軍澳41歲銀行經理失聯浮屍海面-身上多處傷口疑自殘-更新-/608732	未分類
 2025-10-15	銀行經理參加跑步活動後失聯 翌晨被揭浮屍將軍澳康城路海面	https://www.hk01.com/article/60285474?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-10-15	銀線灣泳灘晨泳婦遇溺 當場命殞	https://hk.on.cc/hk/bkn/cnt/news/20251015/bkn-20251015074049998-1015_00822_001.html	未分類
 2025-10-15	將軍澳男子遇溺 當場斃命	https://hk.on.cc/hk/bkn/cnt/news/20251015/bkn-20251015101819671-1015_00822_001.html	未分類
-2025-10-10	印度婦河邊洗澡突遭巨鱷拖落水溺斃 岸邊村民目睹全程驅趕無果	https://www.bastillepost.com/hongkong/article/15327888-%E5%8D%B0%E5%BA%A6%E5%A9%A6%E6%B2%B3%E9%82%8A%E6%B4%97%E6%BE%A1%E7%AA%81%E9%81%AD%E5%B7%A8%E9%B1%B7%E6%8B%96%E8%90%BD%E6%B0%B4%E6%BA%BA%E6%96%83-%E5%B2%B8%E9%82%8A%E6%9D%91%E6%B0%91%E7%9B%AE%E7%9D%B9	未分類
+2025-10-10	印度婦河邊洗澡突遭巨鱷拖落水溺斃 岸邊村民目睹全程驅趕無果	https://www.bastillepost.com/hongkong/article/15327888-印度婦河邊洗澡突遭巨鱷拖落水溺斃-岸邊村民目睹	未分類
 2025-10-09	操作起重機不慎 基隆港碼頭工人墮海溺斃	https://news.pchome.com.tw/society/ctinews/20251009/index-75997934934059309002.html	未分類
 2025-10-08	西澳父親因救落水兒童溺亡	https://www.epochtimes.com/b5/25/10/8/n14612232.htm/amp	未分類
 2025-10-08	男子馬鞍山游泳池遇溺昏迷送院(22:09) - 20251008 - 港聞- 即時新聞	https://news.mingpao.com/ins/港聞/article/20251008/s00001/1759931179133/男子馬鞍山游泳池遇溺-昏迷送院	未分類
 2025-10-08	男子在馬鞍山游泳池遇溺昏迷送院搶救｜本地｜商業電台 881903	https://www.881903.com/news/amp/local/2600235	未分類
 2025-10-05	小伙河边喝茶时溺亡 涉事茶摊回应 护栏缺失引争议	https://news.china.com/socialgd/10000169/20251005/48880135.html	未分類
 2025-10-05	信阳一小伙河边喝茶时溺亡，涉事茶摊回应-腾讯新闻	https://news.qq.com/rain/a/20251005A03FXF00	未分類
-2025-09-29	赴屏東沙拉灣瀑布戲水 印尼籍男溺水亡	https://tw.news.yahoo.com/%E8%B5%B4%E5%B1%8F%E6%9D%B1%E6%B2%99%E6%8B%89%E7%81%A3%E7%80%91%E5%B8%83%E6%88%B2%E6%B0%B4-%E5%8D%B0%E5%B0%BC%E7%B1%8D%E7%94%B7%E6%BA%BA%E6%B0%B4%E4%BA%A1-115520076.html	未分類
+2025-09-29	赴屏東沙拉灣瀑布戲水 印尼籍男溺水亡	https://tw.news.yahoo.com/赴屏東沙拉灣瀑布戲水-印尼籍男溺水亡-115520076.html	未分類
 2025-09-29	士都?海???裔女子浮屍	https://www.orangenews.hk/hongkong/UyB6Vb4/%E5%9B%9B%E6%97%A5%E4%B8%89%E5%AE%97%E5%9C%B0%E7%9B%A4%E7%8C%9D%E6%AD%BB-%E5%8F%A4%E6%B4%9E%E5%9C%B0%E7%9B%A4%E7%94%B7%E6%96%87%E5%93%A1%E5%80%92%E6%96%83%E5%BB%81%E6%89%80.shtml	未分類
 2025-09-28	(醉漢躍湖溺斃 警今早尋獲屍體)	https://www.bannedbook.org/bnews/cnnews/20250928/2239012.html	未分類
-2025-09-26	北漂孫親睹100歲爺爺遭溺亡 暫不火化淚批：光復早在預警範圍！	https://tw.news.yahoo.com/%E5%8C%97%E6%BC%82%E5%AD%AB%E8%A6%AA%E7%9D%B9100%E6%AD%B2%E7%88%BA%E7%88%BA%E9%81%AD%E6%BA%BA%E4%BA%A1-%E6%9A%AB%E4%B8%8D%E7%81%AB%E5%8C%96%E6%B7%9A%E6%89%B9-%E5%85%89%E5%BE%A9%E6%97%A9%E5%9C%A8%E9%A0%90%E8%AD%A6%E7%AF%84%E5%9C%8D-140557118.html	未分類
+2025-09-26	北漂孫親睹100歲爺爺遭溺亡 暫不火化淚批：光復早在預警範圍！	https://tw.news.yahoo.com/北漂孫親睹100歲爺爺遭溺亡-暫不火化淚批-光復早在預警範圍-140557118.html	未分類
 2025-09-25	稽查員墜河溺斃 梁俊傑遺體送返高淵 ｜ 中國報 China Press	https://www.chinapress.com.my/20250925/249086/	未分類
 2025-09-25	來不及說再見！北投八仙抽水站旁有「妙齡女浮屍」 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20250925/index-75876151831130309002.html	未分類
 2025-09-24	北市關渡基隆河漂現浮屍 女子死亡多時腫脹難辨 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20250924/index-75870248249341309002.html	未分類
@@ -562,7 +546,7 @@ var DATA_DROWNING = `
 2025-09-16	(有片)親身落水拍攝 難忘蔣璐霞險遇溺 林超賢無懼流言 務實求變 - 香港文匯網	https://www.wenweipo.com/a/202509/16/AP68c80e02e4b0d238cfd02cfd.html	未分類
 2025-09-15	摸黑河边洗澡 原住民男遇溺失踪	https://www.chinapress.com.my/?p=4588519	未分類
 2025-09-15	少女玩水溺斃！ 倖存者夢見亡友「邀我一起玩」嚇醒	https://www.ettoday.net/news/20250915/3033619.htm	未分類
-2025-09-14	紅磡渡輪碼頭驚現男浮屍 警調查墮海原因	https://www.hk01.com/article/60276207?utm_source=01articlecopy&utm_medium=referral	未分類
+2025-09-14	紅磡渡輪碼頭驚現男浮屍 警調查墮海原因	https://www.hk01.com/%E7%AA%81%E7%99%BC/60276207/%E7%B4%85%E7%A3%A1%E6%B8%A1%E8%BC%AA%E7%A2%BC%E9%A0%AD%E9%A9%9A%E7%8F%BE%E7%94%B7%E6%B5%AE%E5%B1%8D-%E6%AD%BB%E8%80%85%E8%BA%AB%E4%BB%BD%E5%BE%85%E6%9F%A5	未分類
 2025-09-12	男子西環遇溺亡(11:33) - 20250912 - 港聞- 即時新聞	https://news.mingpao.com/ins/港聞/article/20250912/s00001/1757647856651/男子西環遇溺亡	未分類
 2025-09-06	河邊釣魚救落水老婦 17歲少年溺亡	https://hk.on.cc/hk/bkn/cnt/news/20250906/bkn-20250906070213373-0906_00822_001.html	未分類
 2025-09-05	為賺173元賭注！ 他當眾跳河「下秒遭湍流捲走」溺亡	https://www.ettoday.net/news/20250905/3028354.htm	未分類
@@ -570,19 +554,19 @@ var DATA_DROWNING = `
 2025-09-04	快訊／中興橋傳男子落水「橋上遺留手機拖鞋」 警消急搜救	https://news.tvbs.com.tw/local/2979273	未分類
 2025-09-04	快訊》台大資工碩士泳池溺水休克到院前恢復生命跡象急救中- 社會	https://www.chinatimes.com/realtimenews/20250904001922-260402	未分類
 2025-09-04	中興橋傳男子落水！橋上遺留手機、拖鞋 消防下艇搜尋	https://finance.sina.cn/2025-09-04/detail-infpifim1839984.d.html?vt=4&cid=76729&node_id=76729	未分類
-2025-09-03	30歲男校友清大游泳池溺水 消防搶救恢復生命跡象	https://tw.news.yahoo.com/%E6%B8%85%E5%A4%A7%E6%B8%B8%E6%B3%B3%E6%B1%A0%E9%A9%9A%E5%82%B3%E6%BA%BA%E6%B0%B4-%E7%95%A2%E6%A5%AD%E6%A0%A1%E5%8F%8B%E7%AA%81%E6%98%8F%E8%BF%B7%E6%B5%AE%E6%B0%B4%E9%9D%A2%E6%80%A5%E9%80%81%E9%86%AB%E6%90%B6%E5%91%BD-015342303.html	未分類
+2025-09-03	30歲男校友清大游泳池溺水 消防搶救恢復生命跡象	https://tw.news.yahoo.com/清大游泳池驚傳溺水-畢業校友突昏迷浮水面急送醫搶命-015342303.html	未分類
 2025-09-02	臺北南湖大橋12小時內驚現2浮屍！相隔僅100公尺 身分死因待查 ｜ 新頭殼 ｜ LINE TODAY	https://today.line.me/tw/v3/article/yzYo2Qo	未分類
 2025-09-01	纖維小船出海遇風浪 夫婦雙雙溺斃 ｜ 中國報 China Press	https://www.chinapress.com.my/20250901/%E7%BA%A4%E7%BB%B4%E5%B0%8F%E8%88%B9%E5%87%BA%E6%B5%B7%E9%81%87%E9%A3%8E%E6%B5%AA-%E5%A4%AB%E5%A6%87%E5%8F%8C%E5%8F%8C%E6%BA%BA%E6%AF%99/	未分類
-2025-09-01	槟海滩溺水男子撞石头受伤| 北马| 即时 | 2025-09-01	https://guangming.com.my/%E6%A7%9F%E6%B5%B7%E6%BB%A9%E6%BA%BA%E6%B0%B4-%E7%94%B7%E5%AD%90%E6%92%9E%E7%9F%B3%E5%A4%B4%E5%8F%97%E4%BC%A4	未分類
+2025-09-01	槟海滩溺水男子撞石头受伤| 北马| 即时 | 2025-09-01	https://guangming.com.my/槟海滩溺水-男子撞石头受伤	未分類
 2025-09-01	悚！開學日高雄爆噩耗「大面積刺青女浮屍愛河」 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20250901/index-75668924012386309002.html	未分類
 2025-09-01	國慶日海邊連接悲劇 2名15歲少年同天溺斃 - 地方 - 沙巴要聞	https://sabah.sinchew.com.my/news/20250901/sabah/6829352	未分類
 2025-08-31	藍衣伯載浮載沉！台中烏日驚見浮屍 家屬到場認屍痛哭 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20250831/index-75664128532164309002.html	未分類
 2025-08-31	假期海邊野餐 少年戲水溺斃 ｜ 中國報 China Press	https://www.chinapress.com.my/20250831/%E5%81%87%E6%9C%9F%E6%B5%B7%E8%BE%B9%E9%87%8E%E9%A4%90-%E5%B0%91%E5%B9%B4%E6%88%8F%E6%B0%B4%E6%BA%BA%E6%AF%99/	未分類
 2025-08-30	男子在三?下海游泳溺亡，妻子??崩?大哭_????	https://tw.yahoo.com/autos/video/%E5%BD%B1-%E4%BA%BA%E5%A6%BB%E7%A7%BB%E6%B0%91%E6%BE%B3%E6%B4%B2%E7%9B%BC%E5%88%B0%E5%8F%B0%E7%81%A3%E9%B3%B3%E6%A2%A8-%E5%AF%B6%E5%AF%B6%E5%90%83-%E5%8F%A3-%E5%A5%BD%E5%90%83%E5%88%B0%E6%8B%8D%E6%A1%8C-063119918.html?format=embed	未分類
 2025-08-29	桂林龍脊峽漂流點｜兩人「離隊」遊玩 男子救落水女子雙雙溺亡	https://www.stheadline.com/realtime-china/3494567/桂林龍脊峽漂流點兩人離隊遊玩-男子救落水女子雙雙溺亡	未分類
-2025-08-28	海南三亞有男子下海游泳遇溺 妻子崩潰痛哭：他非要去	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60270831/%E6%B5%B7%E5%8D%97%E4%B8%89%E4%BA%9E%E6%9C%89%E7%94%B7%E5%AD%90%E4%B8%8B%E6%B5%B7%E6%B8%B8%E6%B3%B3%E9%81%87%E6%BA%BA-%E5%A6%BB%E5%AD%90%E5%B4%A9%E6%BD%B0%E7%97%9B%E5%93%AD-%E4%BB%96%E9%9D%9E%E8%A6%81%E5%8E%BB	未分類
+2025-08-28	海南三亞有男子下海游泳遇溺 妻子崩潰痛哭：他非要去	https://www.hk01.com/即時中國/60270831/海南三亞有男子下海游泳遇溺-妻子崩潰痛哭-他非要去	未分類
 2025-08-28	桂林龍脊峽漂流點｜兩人「離隊」遊玩 男子救落水女子雙雙溺亡	https://ctinews.com/news/items/M9n63QKqWR	未分類
-2025-08-28	屯門加多利灣泳灘女泳客遇溺 獲救昏迷送院	https://tw.news.yahoo.com/%E5%A5%B3%E5%A4%A7%E7%94%9F%E8%BF%94%E5%AE%B6%E9%80%94%E4%B8%AD%E8%87%AA%E6%92%9E%E5%BD%A9%E5%88%B8%E8%A1%8C-%E6%98%8F%E8%BF%B7%E9%80%81%E9%86%AB%E7%94%B7%E5%8F%8B%E7%9B%AE%E7%9D%B9%E5%85%A8%E7%A8%8B-024553452.html	未分類
+2025-08-28	屯門加多利灣泳灘女泳客遇溺 獲救昏迷送院	https://tw.news.yahoo.com/女大生返家途中自撞彩券行-昏迷送醫男友目睹全程-024553452.html	未分類
 2025-08-28	上水游泳池6旬女泳客怀疑遇溺 救生员救起送院治理	https://www.blocktempo.com/openai-chatgpt-suicide-lawsuit-ethics/	未分類
 2025-08-27	男子三亞下海游泳遇溺 妻子崩潰痛哭--萬維讀者網	https://news.creaders.net/society/2025/08/27/2908703.html	未分類
 2025-08-27	加多利灣泳灘女泳客懷疑遇溺昏迷 - 香港文匯網	https://www.wenweipo.com/a/202508/27/AP68ae8349e4b0b662de20b759.html	未分類
@@ -597,27 +581,22 @@ var DATA_DROWNING = `
 2025-08-23	鄰居擅帶女童游泳溺亡 遺屬起訴索償	https://hk.on.cc/hk/bkn/cnt/news/20250823/bkn-20250823040802928-0823_00822_001.html	未分類
 2025-08-23	女童戲水池溺斃 排水口隔網斷裂釀禍	https://hk.on.cc/hk/bkn/cnt/news/20250823/bkn-20250823070237003-0823_00822_001.html	未分類
 2025-08-23	交椅洲對開海面驚現女浮屍 警追查身份死因	https://www.hk01.com/article/60269348	未分類
-2025-08-22	托兒所1歲女童溺亡案 父母誓言控經營者疏忽	https://www.singtaousa.com/2025-10-15/托兒所1歲女童溺亡案-父母誓言控經營者疏忽/5354174	未分類
+2025-08-22	托兒所1歲女童溺亡案 父母誓言控經營者疏忽	https://www.singtaousa.com/2025-10-15/%E6%89%98%E5%85%92%E6%89%801%E6%AD%B2%E5%A5%B3%E7%AB%A5%E6%BA%BA%E4%BA%A1%E6%A1%88-%E7%88%B6%E6%AF%8D%E8%AA%93%E8%A8%80%E6%8E%A7%E7%B6%93%E7%87%9F%E8%80%85%E7%96%8F%E5%BF%BD/5354174	未分類
 2025-08-22	女子墮日本驚濤海岸命懸一線 陝西漢捨身爬崖落水救人	https://www.singtaousa.com/2025-09-17/%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%97%A5%E6%9C%AC%E9%A9%9A%E6%BF%A4%E6%B5%B7%E5%B2%B8%E5%91%BD%E6%87%B8%E4%B8%80%E7%B7%9A-%E9%99%9D%E8%A5%BF%E6%BC%A2%E6%8D%A8%E8%BA%AB%E7%88%AC%E5%B4%96%E8%90%BD%E6%B0%B4/5332215	未分類
 2025-08-22	交椅洲對開海面驚現女浮屍 警追查身份死因	https://www.hk01.com/article/60269242?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-08-22	8歲女童被鄰居擅自帶去長江游泳溺亡 家屬批未全力施救索賠109萬	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60269091/8%E6%AD%B2%E5%A5%B3%E7%AB%A5%E8%A2%AB%E9%84%B0%E5%B1%85%E6%93%85%E8%87%AA%E5%B8%B6%E5%8E%BB%E9%95%B7%E6%B1%9F%E6%B8%B8%E6%B3%B3%E6%BA%BA%E4%BA%A1-%E5%AE%B6%E5%B1%AC%E6%89%B9%E6%9C%AA%E5%85%A8%E5%8A%9B%E6%96%BD%E6%95%91%E7%B4%A2%E8%B3%A0109%E8%90%AC	未分類
+2025-08-22	8歲女童被鄰居擅自帶去長江游泳溺亡 家屬批未全力施救索賠109萬	https://www.hk01.com/即時中國/60269091/8歲女童被鄰居擅自帶去長江游泳溺亡-家屬批未全力施救索賠109萬	未分類
 2025-08-21	湖北襄阳一网红水域有儿童不幸溺亡，救援人员：小孩坐在充气小鸭子上掉下来，家长没抓住	https://i.ifeng.com/c/8lzpNvdGyjh	未分類
 2025-08-21	中年男子灣仔金紫荊廣場對開海面遇溺 消防救起 昏迷送院搶救	https://www.hk01.com/突發/60268608/中年男子灣仔金紫荊廣場對開海面遇溺-消防救起-昏迷送院搶救	未分類
 2025-08-21	4歲男童在市政泳池溺斃 父母擬司法投訴	https://hk.on.cc/hk/bkn/cnt/intnews/20250821/bkn-20250821074718181-0821_00992_001.html	未分類
 2025-08-20	四川5旬漢夜釣意外 魚竿被魚拖入水 撈竿時溺斃	https://www.hk01.com/article/60268302?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-08-19	11歲自閉女童溺斃 被游水教練發現	https://hk.on.cc/hk/bkn/cnt/intnews/20250819/bkn-20250819070641589-0819_00992_001.html	未分類
-2025-08-18	有片東張西望報料| 一號風球下石澳泳灘泳客遇溺救生員風高浪急下出動拯救- 東張+	https://news.google.com/rss/articles/CBMiuwRBVV95cUxNTV8wOGZFY1NwV2xwdW5mT19aY1Q2d1RpcjlUT1hnNU1LajZTdXV2cXdhOWJxZ3NDdDcyNm1Uc2hyTkhUbnhfU2lTMlpwUWxfM2JVc3NqNy1yZmhWakxjN1drZVk2MDBxWENXT3FsMmVwYldZWm9pbGwtS1NmR1BZM1ZWTU1rZ281UFdXbGtvQm1ZdlB6SGJITHAwVmNKWGFEQllkc25QdFRvR0NUUW45dUQ0Z0dLRFJwR2dialJVWlNYb0V3akY4bmxaUm9pOXFnbXpHcnJtLS1HTEJsSHZjcGtJQUVFb0xfWFJNSEVxaW9xWUZlT09fa3dfbnFvaFhrSjlhYng0VGJXOE9MZlNfV296SHFaTkRHbWJHU0hkRkxSREFwTkVVdk9ZS1JJRmljcnNScDdzUTltbWFJaVBBRFJ6UTQtT2x2cHZoMDJRSEZNOGo1Njh4QzgyUzktN2lXOV9INkhRTnZvMU5DUHlJdjVnOVI0UjR6VVNXa0IxU3VCeGU3ZWF5WkRaZWpoNDczUDFKaUU0bUNKT2tCZHA3WFd2X3p2Q2xLU055dE5lRlNNaDFHejNkZmd3T2o0NFRBSnpULWtPRTA3ODU1V21oeURlS2ZzdTdNLTg1NUVqTWh0REk3d19kM1d5RHBrYnJMRU1Nd2JEWnlYTm9YU2tNNVJndTZqRkpjZlZPNi0xRVV1cDc1dzJTU0M1Mk5kYjhqOHRYZkFSbFpoU0VabTNkQ2FFYU5fVmZHc0Fj?oc=5	未分類
-2025-08-18	有片东张西望报料 | 一号风球下石澳泳滩泳客遇溺 救生员风高浪急下出动拯救 - 东张+	https://www.mytvsuper.com/sc/scoopplus/scoop/reports/15770663101641/%E6%9C%89%E7%89%87%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B%E5%A0%B1%E6%96%99---%E4%B8%80%E8%99%9F%E9%A2%A8%E7%90%83%E4%B8%8B%E7%9F%B3%E6%BE%B3%E6%B3%B3%E7%81%98%E6%B3%B3%E5%AE%A2%E9%81%87%E6%BA%BA--%E6%95%91%E7%94%9F%E5%93%A1%E9%A2%A8%E9%AB%98%E6%B5%AA%E6%80%A5%E4%B8%8B%E5%87%BA%E5%8B%95%E6%8B%AF%E6%95%91	未分類
+2025-08-18	有片东张西望报料 | 一号风球下石澳泳滩泳客遇溺 救生员风高浪急下出动拯救 - 东张+	https://www.mytvsuper.com/sc/scoopplus/scoop/reports/15770663101641/有片東張西望報料---一號風球下石澳泳灘泳客遇溺--救生員風高浪急下出動拯救	未分類
 2025-08-17	石澳泳灘游水遇溺 男子送院救治	https://hk.on.cc/hk/bkn/cnt/news/20250817/bkn-20250817161407029-0817_00822_001.html	未分類
-2025-08-17	石澳泳灘一號風球「紅旗」下男子遇溺一度昏迷 救生員築人鏈拯救	https://news.google.com/rss/articles/CBMipgNBVV95cUxNV1F6Q3RxaE0xY0hTanBtSkVEeWloY3ctQ3N5WThrLTBRMWxyUHNMYTRvU3VzN281bXFfMzVqWWlpS1EtTEVGa3RnWUIzazFKemkwbFdBVmpTX0cwM0F4QWczdVNvRFNzTFhXSlBPQXp5NWplTDJJYmtpZThxSFdJU3Fvc2F3WUcyTHpJaUlVYTBNaDRVSktRWmxJWEJLRDl2U0dDaDlVMVl3Q1JhbVlyWm1vV2V4ZkZITGhSWmktUmdJMFhxc0JDamxxeWFoRDRVckhDaHRSSFU0MjMxR2RaaC10ZXUzMnZxNG43UnliZXp1Ui1wVF8yQkN2bXJxaHBjWXhQVDVUVTlCamJmRk04V0R2emxJTDNiT0c5bXpWcUtoZjJjVHpiSi0tdEt2Y0x2MlJhOXNCQWNSQ0xnTnBOR0ZaMk16VHhfMHpkeUdZc0djWjRJRGJfWThwTnFkT0JzbTVWUkxzeTZIMFBPWkk2RUx5MHl5cXRHY0hJc1VnejVXZVlLdmdIcmk2aHhSVzRJN3ZzbVFzblJoSmVZZGwxUFVFY3hxQQ?oc=5	未分類
 2025-08-15	西貢碼頭對開發現男浮屍 證實為3日前劃獨木舟失蹤洋漢	https://hk.on.cc/hk/bkn/cnt/news/20250815/bkn-20250815081319202-0815_00822_001.html	未分類
 2025-08-15	西貢公眾碼頭男子浮屍海面 證實為失蹤3日划獨木舟洋漢	https://www.hk01.com/article/60266809?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-08-15	珍惜生命｜外籍男劃獨木舟失蹤 浮屍西貢碼頭海面	https://www.stheadline.com/breaking-news/3490529/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%88%92%E7%8D%A8%E6%9C%A8%E8%88%9F%E5%A4%B1%E8%B9%A4-%E6%B5%AE%E5%B1%8D%E8%A5%BF%E8%B2%A2%E7%A2%BC%E9%A0%AD%E6%B5%B7%E9%9D%A2	未分類
 2025-08-15	珍惜生命｜外籍男划獨木舟失蹤 浮屍西貢碼頭海面	https://www.stheadline.com/breaking-news/3490529/珍惜生命外籍男划獨木舟失蹤-浮屍西貢碼頭海面	未分類
-2025-08-14	陳鍵鋒無懼捲潛水學員溺斃風波影響 赴沙巴潛水新樣曝光變肥大叔	https://news.google.com/rss/articles/CBMi0wNBVV95cUxNcDdSQU1UVExodjQ2U2hoVWYyRmZJZUlTNU1jUWZZcEl1WUpkYTBKMlEyY1NCX21vQmdHNWRhcVFxc0hZOGhEWjhDWHplc2xwYXBqbzNnYUhJcXN0MzV4Z1h3dWx3cXpsY2VUaUZVaTZjSUU0dGNHXzM0ZGMzTkI2NmtZZFFRQVhqS29SelpPXy1oSGlOam0yQW9oVDk0Tk91a0JzX2hJLTIxN1VkUkhrZmNRczBkaFM1bzVzcHZBOFAzM1VDcWtiX0V6SWdwR2dpOHJVbjhBYm1XMlRvUG14S0U3dFJYbm5LUjh6S1FYLUNOTy1Qc3VoYXN6TzdNSmRMdmthNG5sYXpRNFVmVnhGbThtS1RoaEhqS1ZiT01GbS1qOG5SLS1fMnJUQkJ3VWt1YmI0S2NXZU52eTNOLThDbFZhNEtERDcxN3FjblhyZVpNY0hWY3dVSkVLVF9rMVRhN2llaGx0SklUMm1EV1k2WDFPbGRXd1p2NkFHTWdLMUw1SjdSS0FrWWpIZ1NqV3k0RUtCTmxyVDZFN203UDJCWV9HbkZrbXJrak0zcHM1VHdOTG40NU55N0dFampQbGx6X2pmcmI0TjhNOE56OVQ5WU9EMA?oc=5	未分類
 2025-08-13	麗都灣泳灘16歲女遇溺 昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813165327535-0813_00822_001.html	未分類
-2025-08-13	薄扶林花園女泳客溺斃 港島新界一日三宗遇溺兩死一傷	https://news.google.com/rss/articles/CBMid0FVX3lxTE5yRnZTZ0phQ3dyeXg1cVlnTTNaUVVHTjVidDAxQmEwNkVPSVdKQ2s1NlNTajZLREc4OE01Q2k1Y29jVHRfMnllc3BqRU1tMHBRY2lCWUxJWE9zUFlhQ3BsUVNHZzBPWU5SYVVsZW45dC1RQjVoZ1RF?oc=5	未分類
-2025-08-13	男子淺水灣疑遇溺亡 (10:34) - 20250813 - 港聞	https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWHp2OVI3OVRnSDJZTGNpSXlNZFlzT3BKbzNXWDBpTDNjX2x6OWRDOXlUSkNjUWpDX0Yzc2taVzNiT0dWdU5XUnhZZkJybnNjdC1YYU96S0JpQ1BENjdwY0U5V3pRVE43WEZKZjRSSzhaRk95MUJ1eC0zN2tfSWlPS2tsU1AzNE9zdzJKRWcwMFJ6VFF0OGszbDJoSnVRbzd2Q0ZSU283SDAwUE5NQ0lzZXk5dmJTcjZ3Y3ZiMHZjeTdreF9TY0hLOXVzbUdrdm4tRDRBbUx2U2VSVlRUdzJlZ1ZtR0Jfd0RyeWZRQURlU3U5SmotUnlHODRZOA?oc=5	未分類
 2025-08-13	淺水灣泳灘男子晨泳期間遇溺 當場氣絕	https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813065651191-0813_00822_001.html	未分類
 2025-08-13	北角海面驚現數日大女嬰浮屍 身份原因待查	https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813162941850-0813_00822_001.html	未分類
 2025-08-10	酒店戲水池底管道扯腳 6歲女童溺斃	https://hk.on.cc/hk/bkn/cnt/news/20250810/bkn-20250810080020983-0810_00822_001.html	未分類
@@ -628,19 +607,16 @@ var DATA_DROWNING = `
 2025-07-12	檢無人機時掉進海中 中國女遊客溺斃	https://hk.on.cc/hk/bkn/cnt/intnews/20250712/bkn-20250712040027384-0712_00992_001.html	未分類
 2025-07-09	清水灣二灘男泳客疑遇溺 救生員救起昏迷送院亡	https://www.hk01.com/article/60255084?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-08	長洲東灣泳灘女泳客疑遇溺 昏迷不醒 由直升機送院	https://www.hk01.com/article/60254487?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-06-26	蒲台島海面垂釣意外墮海 釣魚郎遇溺送院亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXRyZVV2MHZoZlVIWWlwZFRtY0dtemVLM0s4cTBCdVhtM0hpY2RwQ1hXMklfS0JteU8yWGJCVENzY2hjTVI0dlo1cm92ZDI1ZFdZWjdhM0NIUkpMLUdJSlJibzExNDRyZWVxV1p0eWVOWi1WS2JBM2gzc2N2eF9ZdExyZFZPTk5FWWQ4?oc=5	未分類
 2025-06-09	轎車墜河小姐弟溺斃 遺體預計今午解剖	https://www.8tvnews.my/localnews/jiaochezhuihexiaojiedinibi-yitiyujijinwujiepou/	未分類
 2025-06-03	台東都歷海灘溺水高中生尋獲家屬及學校師生悲慟| 社會	https://www.cna.com.tw/news/asoc/202506030165.aspx	未分類
 2025-05-16	上水屋苑泳池六旬男工人遇溺 昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20250516/bkn-20250516154133581-0516_00822_001.html	未分類
 2025-05-12	顯田游泳池男泳客遇溺 昏迷送院搶救	https://www.hk01.com/article/60237618?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-04-26	三亞遊客非遊覽區域躍入海中遇溺亡 官方排除他殺	https://news.google.com/rss/articles/CBMi6AJBVV95cUxNQjd5SWV1bTJHM1htQlNYazFZTExmb3U4WVZHcURnRlhHRFNEb3Z4N0lTZ1d4TElFMTFoWlhwYWpmVUhoZ2puRTd5TzVTVmtIMXN2UkpGMFh3dUZNZHNDbXZSMnExQjhsbzlmSFltelRlT1I0Z3FwdlBMOEVaYmFGVGxTZlhiS0dyZTFub2ttOUlNQUxoNHpPel8xN2N3SkNDbEZ5bEdOaWFIdHlvcGIwR2FvVmpWRmVBQjh4SGVkM3pvLXVVc0x0UTkzYW9ySjQ3Mnk4dUZHTGgzRVlGcUJYQV9TT3A4WFhwUERzNlpuVWVkQ0h4X1BkUW9WX2dwMmlxRzVzb3pTNkRWRWxSWTdHdmxmLXhjMzY3aThpQUJ4c1oyMU9uUjg2NXh1LXBQbFBoYlpTazdGdnNyNEVPLTRORHlKOHNpS29rUk90ZjlMVWVqZjZ5Q1p5SHU1eTZQUlM2blJtd2hYa3o?oc=5	未分類
 2025-04-24	阿翔女兒倒頭栽跌落泳池！ 「溺水沒人發現」 愛妻跳水急救	https://ent.ltn.com.tw/news/breakingnews/5021878	未分類
 2025-04-24	阿翔8歲小女兒整頭栽進泳池溺水！Grace曝「緊急救命3秒」：千萬要小心	https://www.ftvnews.com.tw/news/detail/2025424W0214	未分類
 2025-04-23	阿翔女兒飯店泳池溺水！倒頭栽進水裡「沒人發現」 Grace急跳水搶救| 三立新聞網	https://today.line.me/tw/v3/article/vX9RyWK	未分類
 2025-04-21	新北驚見男童「運動中心泳池溺水」！ 母「接電話」沒發現	https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E9%A9%9A%E8%A6%8B%E7%94%B7%E7%AB%A5-%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B4-%E6%AF%8D-%E6%8E%A5%E9%9B%BB%E8%A9%B1-%E6%B2%92%E7%99%BC%E7%8F%BE-045420657.html	未分類
 2025-04-01	將軍澳中年婦遇溺 送院命殞	https://hk.on.cc/hk/bkn/cnt/news/20250401/bkn-20250401200741862-0401_00822_001.html	未分類
 2025-03-13	21歲青年浮屍上水梧桐河 警列「屍體發現」處理	https://www.hk01.com/article/60219522?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-03-07	無牌救生員調查｜揭假救生員溺斃、冒名頂替、造假被捕亂象背後	https://news.google.com/rss/articles/CBMinANBVV95cUxPbEU5NmRxbFotVUE4UDE5Ni1rSS1RLUE5aVBYNzhBNUNKU19zaWRLUVB6OUMwNjRGTGdrWVdxUmhEVlhINURtQ2thQUJiVHZId3RjMWlMQU1YU0E4UkY0bEdaMWdEVjhSdEdQelVYdi1aWGVEbmtuZk1qRGJnUndtXzNvcnhidnJSNDhXWEctNTdqTElwQlFEWHhZc3VzOEdnYVJzUnR1RkZYY0UyNGRLWVhjY2U3dDFpb3VTTTdoN1VwUHJpZ3BUa0F1MDY3S0hhN2FBVW5vZHlIZUh2cERkNnBjT3FrSjZzQ3pnWUI5QUNHNjVyaGNZMEV0TXpWc0RfOTNYTVZwMnQzcHhhWFU1VXlPUjNDOGY2LWY2WUdDeUllR0lvNzdYX191UmtQZ1JrLWpuaTl6UnIybVhQTURLQ2t1eUJiZEpqQnQ4aFVYNUUtWTJhOTJBNzJLRXBJYWhDa3YzOEd0YUFoam1KeTFEZzVfRGV3ZHpDVzZjakIwbWVBUVR6ZFhZZUxCN0xJTF9oZGxPRHQ5eWNhMmZs?oc=5	未分類
 2025-02-15	面膜女俠｜女童泳池溺水臉部發青 四川女衝救援：我也是人母｜有片	https://www.stheadline.com/realtime-china/3429119/%E9%9D%A2%E8%86%9C%E5%A5%B3%E4%BF%A0%E5%A5%B3%E7%AB%A5%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B4%E8%87%89%E9%83%A8%E7%99%BC%E9%9D%92-%E5%9B%9B%E5%B7%9D%E5%A5%B3%E8%A1%9D%E6%95%91%E6%8F%B4%E6%88%91%E4%B9%9F%E6%98%AF%E4%BA%BA%E6%AF%8D%E6%9C%89%E7%89%87	未分類
 2025-02-09	民都魯7歲男童溺斃水池 警方排除刑事成分	https://news.seehua.com/post/1367528	未分類
 2025-02-01	金山郊野公园一部车堕九龙水塘 警方怀疑有人遇溺	https://news.tvb.com/sc/811581-金山郊野公园一部车堕九龙水塘警方怀疑有人遇溺	未分類
@@ -651,31 +627,23 @@ var DATA_DROWNING = `
 2025-01-04	西貢橋咀洲20歲內地女疑遇溺昏迷送院 15歲友尋找時遭蠔殼割傷腳	http://www.hk01.com/article/1090821?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-11-28	貴州13歲男童失聯5日河邊發現遺體溺亡 父：每日淩晨3點起床背書	https://www.hk01.com/article/1080091?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-11-23	屯門蝴蝶灣泳灘老翁疑遇溺昏迷 救生員救起送院	https://www.hk01.com/article/1078703?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-10-16	10岁男童石澳泳滩 遇溺 救生员1分钟内迅速救人 获赞：全球最强救生团队	https://www.stheadline.com/zh-hans/columnists/stbusiness/501300089/10%E5%B2%81%E7%94%B7%E7%AB%A5%E7%9F%B3%E6%BE%B3%E6%B3%B3%E6%BB%A9-%E9%81%87%E6%BA%BA-%E6%95%91%E7%94%9F%E5%91%981%E5%88%86%E9%92%9F%E5%86%85%E8%BF%85%E9%80%9F%E6%95%91%E4%BA%BA-%E8%8E%B7%E8%B5%9E%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%BA%E6%95%91%E7%94%9F%E5%9B%A2%E9%98%9F	未分類
-2024-10-08	摩士公園泳池男子懷疑遇溺 昏迷送院 (11:42) - 20241008 - 港聞	https://news.google.com/rss/articles/CBMi0AJBVV95cUxQaGZPd3FGWXBEZFdMZXVBYkhmVUx1cjc5NEZzZndKWjcxWXAyN2hxdmRjSnZ4ZC1BQ1pGVlJVNWpJZS1oYm1MVWUwcVlUVHhrSFBrZnBBSDJXTXJGb2NIUFBrQ1lTLVNpNjNGS2hKeVJRWHp0Q0hDVFpUYm9mUUZEVF9WOFlhc3FsOG1RWWxZcTI2MXA3S3JoQnpQblF3YVUzZUdnelA5VFRTa2dmMmx1UlpaTFRuSERxaXUxTVVYMFRXRHdRbV9ZNEhvbXctMXJ6eTJGTGVVVGtFOWdpMDczLVA3eU9xREhwZDM5LWRJbFdTUVc0eHdySWtuaFlqeHJQVXZScEZUbGhsWjZtTG02T3pERkdDVmdfY3FfcFAzVm4yeUMyNnVlUjNiV0F0WGNHb2RQYUc0dXgyUWtINTRYcExfSmwxdjZRZFdXR1Npdzk?oc=5	未分類
-2024-10-07	英勇救人︱10歲男孩石澳泳灘遇溺 救生員速救用時不足1分鐘獲讚：最有效的救生團隊	https://news.google.com/rss/articles/CBMikgRBVV95cUxORE1ab0V0cVM0d3Q1bHM2RmNkOXZDdmNnMDBSSXJRQzJiTzd2am0xeG96a2R3bnAxWFFETkFXYUpJSktIT0pZTDhWTktSZjBVUzlIUXR4aE9ia0NQV1FJZkJ0cGhETlhnalRWOW9MTHlPeXZ6d3A1QVF6MkNiOHJhd0pRb1hwTHlwVFRFclY3RHhxc0xTcVdHNHloeUpiR0lSMHJVN3N1c1BzZ05CVEVHZG1VV3dpU1JzaEN2UlNrMlFlaTJ2UHVRcThlNjRQb05BeFlBWnhSTUFHQzIyQmR0eFd3dlpHNlY0aTM2bTh3T0JQY0FzYXVzYkdaVlJYeXRqNkVrWGl2LUFVWkwzX1pabjRIUjF0YzdSdWQ3SWJFVHJmX0oycldzbDRfN0lKM3BITV9mSFd1Z1VRY2Z6VEMtM0Nna3BUMGMwNmQwMlhCbHdXLXZ0TmRyU2tqOUZCblRRaUMzdTdxUGItTGdhc3Joc2hnU3dfc3pNTUJSRmxUaW93WGNqdWtmUkZucnA5NFRNaEdXZTJ3cXVmTkY1OGNzN0gxa2tTekEydlAzMWFlUW1kd05rdmdSYUJHazlWdk1BR0lYYlZZODB0b05vaURDTnVEU3hmd2dYeWU0bnY2eUxMYUF1QkVYMU1Ra01uVWRaTW9nYTliMTY2TXdBUDlSOFRGOFFUTENRWnRCMkFVZHh0Zw?oc=5	未分類
+2024-10-16	10岁男童石澳泳滩 遇溺 救生员1分钟内迅速救人 获赞：全球最强救生团队	https://www.stheadline.com/zh-hans/columnists/stbusiness/501300089/10岁男童石澳泳滩-遇溺-救生员1分钟内迅速救人-获赞全球最强救生团队	未分類
 2024-09-29	葵涌永順街海邊現馬騮浮屍 惹有人墮海疑雲 猴屍交食環署處理	https://www.hk01.com/article/1061428?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-09-25	長洲東灣泳灘男子疑遇溺昏迷 與妻周末渡假獨自游水出意外	https://www.hk01.com/article/1060489?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-09-19	1岁女童「倒竖葱」跌入浴盆 遇溺 医生警告：5cm水深、2分钟足以致儿童溺亡	https://www.stheadline.com/zh-hans/columnists/stbusiness/501299893/1%E6%AD%B2%E5%A5%B3%E7%AB%A5%E5%80%92%E8%B1%8E%E8%91%B1%E8%B7%8C%E5%85%A5%E6%B5%B4%E7%9B%86-%E9%81%87%E6%BA%BA-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A5cm%E6%B0%B4%E6%B7%B12%E5%88%86%E9%90%98%E8%B6%B3%E4%BB%A5%E8%87%B4%E5%85%92%E7%AB%A5%E6%BA%BA%E4%BA%A1	未分類
+2024-09-19	1岁女童「倒竖葱」跌入浴盆 遇溺 医生警告：5cm水深、2分钟足以致儿童溺亡	https://www.stheadline.com/zh-hans/columnists/stbusiness/501299893/1歲女童倒豎葱跌入浴盆-遇溺-醫生警告5cm水深2分鐘足以致兒童溺亡	未分類
 2024-09-13	屯門蝴蝶灣泳灘男泳客遇溺 昏迷送院搶救	https://www.hk01.com/article/1056938?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-09-09	大埔龍尾泳灘男子疑練浮潛遇溺 一度昏迷送院搶救	https://www.hk01.com/article/1055730?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-09-08	直升機後送！五星飯店泳池溺水 9歲童命危	https://news.tvbs.com.tw/local/2611679	未分類
 2024-09-08	內地27歲健身男網紅意外溺亡 擁10萬粉絲 曾獲多個健體比賽冠軍	https://www.hk01.com/article/1055424?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-09-02	遊日本沖繩宮古島樂極生悲：65歲中國男玩浮潛 落水僅20分鐘溺斃	https://www.hk01.com/article/1053494?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-08-29	泳池意外｜身高130cm儿童在「60cm水池」 遇溺 昏迷 医生警告：意外当下往往沉默无声	https://www.stheadline.com/zh-hans/columnists/stbusiness/501299707/%E6%B3%B3%E6%B1%A0%E6%84%8F%E5%A4%96%E8%BA%AB%E9%AB%98130cm%E5%85%92%E7%AB%A5%E5%9C%A860cm%E6%B0%B4%E6%B1%A0-%E9%81%87%E6%BA%BA-%E6%98%8F%E8%BF%B7-%E9%86%AB%E7%94%9F%E8%AD%A6%E5%91%8A%E6%84%8F%E5%A4%96%E7%95%B6%E4%B8%8B%E5%BE%80%E5%BE%80%E6%B2%89%E9%BB%98%E7%84%A1%E8%81%B2	未分類
-2024-08-05	一男童疑竹灣酒店泳池遇溺	https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3ZjMkJMYWZMVjI4cDc4N2l1S1c5VlRPQUZNd05XU2hyTGFfc3h0WmFoREdRX0Q5aHZPdGwwZEVHZ2c2eExTU2wyVUllYi1mT0NlX1RaUW81QU44a2lHUmczbXdWZjQwQ3BmN25ySmNqSEVVZHBIRHlXOHdpdmItM3BmNm1Dc0NrV0d2c0E5TnpTaDdwSElFaTF6ekxYTlQzdFV5MTEyOFlSU3JKX3l1U3Rn?oc=5	未分類
+2024-08-29	泳池意外｜身高130cm儿童在「60cm水池」 遇溺 昏迷 医生警告：意外当下往往沉默无声	https://www.stheadline.com/zh-hans/columnists/stbusiness/501299707/泳池意外身高130cm兒童在60cm水池-遇溺-昏迷-醫生警告意外當下往往沉默無聲	未分類
 2024-08-04	西貢甕缸灣42歲男遊船河 游泳時遇溺嗌救命 昏迷送院亡	https://www.hk01.com/article/1044582?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-08-02	据报52岁香港男子周三布吉芭东海滩遇溺亡 其子欲救不果	https://news.tvb.com/sc/822467-据报52岁香港男子周三布吉芭东海滩遇溺亡其子欲救不果	未分類
 2024-07-08	馬鞍山游泳池男泳客遇溺 昏迷送院搶救	https://www.hk01.com/article/1035997?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-07-05	童泳池溺水不見救生員業者嗆"出意外有保險"家長氣炸| 民視新聞網	https://today.line.me/tw/v3/article/PG13zVj	未分類
-2024-07-03	屯門黃金海岸酒店7歲男童泳池遇溺亡 父母認屍相擁痛哭	https://news.google.com/rss/articles/CBMi_wJBVV95cUxQWmZPMUdpaDA2UEUzb01sUHl5RXF0VFdrNGRhb1ZfRTNfOVBLUkNCVWRHVm5OWkRWYmtOUjlwMzBYSm5jWUZOVmRZSWU1TGFFeTJmeWhzXy11dGhrRktmWS14dVdWNVdhS0ZWU0VnR0xfZVRfMndBUXgtN0hIQTY5S3FWSDdSTWV1dUlZSG14ZktOQzJOdnk4MnJqbnZCQm1McDF2UDFLakhhQ2Q5Uk9pZW5mTWhOZndNMnJpQm8ydlZWbUl2ZUtMTGM4RUtIU3lMb00wYnpZTmFybFE2dmVFeTJ2clZYNFQ2NElBWERhNFFub253TEl4VDcyMHZZYnJPOEx4WFlCbDZ3ZGNBVE1zT0pBYXBSTWVhSlJUa0gycVdEYUVaNkI5R0hIaXNkWnRfVXg1R05uenhwWk9TTzh3UUJEWmpqeVozOW11ZDQ5al9YX0JPbXhXVlF3UXRKY2Vwdld1Sy1ia2F0dERyOHBOOU9Hc2F4dG10bnR1WXBWdw?oc=5	未分類
-2024-07-03	7歲男童屯門黃金海岸酒店泳池遇溺亡 父母認屍悲慟相擁	https://news.google.com/rss/articles/CBMigANBVV95cUxNU0tCTlM3N2tKVjNzd3EzRTItNWxRaEQzbTFxRmNNX3ZrODR1eE1pRXVGb2hvWHlpYm5aVFBQbWpTWEk4ZmhKZVAtd0lvR19BVzJNOENuVVJXSXgzbmRxeVdIV3AwREJSemhFOHRjazhXSjIxeXhzVlB2WHFyT1dvQXhsNTV3b3BsY2dNZzdzUzFUTzlGX2dwVzhNMVAxZkVjbnd2dkdGbXVPV0dKdzRVUEdRdy1ITEJRVmtXYkdhWG1QOGZLN2VjVmp3d1lnWGJQSlpQZzNDVGxfQ2JZcmYwZHA4U1kyMkpSODNfMGpJTnlicjlYdk9tR2xqNnJjdHJfTHBYWlgteTNWcHloRXpycHBFd01DUTRYbUtTOTQ2SUtfOEx4bjZ6VFRKc3JBbUN3WFRuMzZiaDRKYUJmSFczbE95VTZNMDV3dGNfbUE3SUlYN01jYWt6VzBnVGNhWTdpVXdVUl96MS02dzRVZ0FFOXMxN0p3S3lnY3llRFdZM28?oc=5	未分類
-2024-07-02	黃金海岸酒店7歲童溺斃 救護疑未攜AED 消防無回應：按機制檢視	https://news.google.com/rss/articles/CBMikgNBVV95cUxNTGt0VF9YOEhST1JBWmJzY0QxMFNGOTNUaE5MVlFtQjdiZ1R4dzZvckU4akpFRFdjT0c1VkxOMnBDMHV0TjZvZ3JiQnVpQ2hHelZrTjNIUjg3bFUzOWFNWW1wMFpBSXExQVJIR1ZfaVpEanB3cERkdUV4MFBTMWlPLVM1OTV4cTdBVG50bGVsTTdyeGNOVDdMT3lSM3dfckxpdDhLaGVJbGNjMVFrem1YeUQ1NDFGMzVYNHBfbk1NdV9Idk9yR3g1Z1Bfa3h3WC1LXzdnSTJpWFhmOW1fM05TaV9YTGh1cTdiOFVPdU9nbUFkNVVqcGtRYV9odUtlNjZqVy1xbUFsNGhmWnVXRzdVd19QZzRoZmNqelQ1NTJjLTNONVVXaTItSkY2bC1PclZsejRQLU5Uc0d2UWJNMW16aHFkYzBta2k2RmpuM2d2a2xCYkVGa1E1bDgtMWw2MmVvMXRzVTMwOVVCdjZUX2JNekxqa0JPS2JxWW9ydTBxZ0Y0OGhGQ1BJS0sydmEwWFExelE?oc=5	未分類
-2024-07-01	屯門黃金海岸酒店7歲男童泳池遇溺亡 警列對所看管兒童忽略 暫無人被捕	https://news.google.com/rss/articles/CBMi1ANBVV95cUxOR3VmUzVNSXhjWE9RazdGYnhoMmRvcVJ5bHhyTEtLNWNLbjhWOUhOTzBGWXBZVTFWY29HbFZRWGZzdVpwVU9RMTl2TTVMZGJjOE1uZHlfWGtycHUtcl9tS3VRemFSNFdXX0pGcGhrTFNPUXdHSC1yckR1dERyNzhiXzJPOUx5RURCRzJyU1RtUWFLVHBtN0hKbW9uMUwtT0JrbHJiSjhGR3JEYVFzVDFHeTR6YTRDN2VtSmRsTkQ5MXgzQ1ZkNndRRjF3S3VsMTFIc19OUExZcVFfZnpJS1FUMy1BSXI5c2E1OFowTnlBSVdqQmhJdWxjV2dxV0NkVnpDZ3FPYW9fZW9KWGpxZThXTk5TdW5YN2lHSlFmYmdSWld3eXliSS1TRGxxM0J2ZFl5Yy1ReXRuZnZLTXFaN2V4YXZ1Zk5DQXZFdWlBTUdVTHZWQlBidkwwMWF5UkRtT2VSVnU0LW92WHY3OWdIMlNLQ3Rqd29DbTE3b0NsSC1TSDI5MHU5LWVzVnFHYlFiSG1mQzI3Tmh0Q1QtTWctLUFJZzRYTGw0Nkc0eE5mTlhOVGJuRThxTEtQWnNNeXhqRVFRelFfeXg5YmVCTDdlSE9uVWhzUk_SAYwBQVVfeXFMTjFEVW1yWUozQTlNbWdFMDdLRUpEbUJGSWYxQWgwT3FjMmpRLVd3bzVwYS1STUxWSXJ0S054ZUtuRzhZSzFRU1ZQRWlDVzRhNHh4YXcwR1ZKOWFSTnFoODlZeHMzYW0tTXBWU21QTWd6MVF6WndDX2kyMDFweTRQTlVXakRpeWdWb0Z2VEE?oc=5	未分類
 2024-06-28	屯門蝴蝶灣泳灘男泳客遇溺 昏迷送院搶救	https://www.hk01.com/article/1033289?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-06-12	后院泳池溺水事件促使安省少年做出AI报警系统	https://dushi.singtao.ca/toronto/%E6%96%B0%E9%97%BB/%E5%8A%A0%E5%9B%BD%E8%A6%81%E9%97%BB/%E5%90%8E%E9%99%A2%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B4%E4%BA%8B%E4%BB%B6%E4%BF%83%E4%BD%BF%E5%AE%89%E7%9C%81%E5%B0%91%E5%B9%B4%E5%81%9A%E5%87%BAai%E6%8A%A5%E8%AD%A6%E7%B3%BB%E7%BB%9F/?variant=zh-hk	未分類
-2024-05-29	专家：家长勿误信小孩溺水识呼救 小孩遇溺不会叫 留意4种溺水的本能反应 避免惨剧发生	https://www.stheadline.com/zh-hans/columnists/stbusiness/501299024/%E4%B8%93%E5%AE%B6%E5%AE%B6%E9%95%BF%E5%8B%BF%E8%AF%AF%E4%BF%A1%E5%B0%8F%E5%AD%A9%E6%BA%BA%E6%B0%B4%E8%AF%86%E5%91%BC%E6%95%91-%E5%B0%8F%E5%AD%A9%E9%81%87%E6%BA%BA%E4%B8%8D%E4%BC%9A%E5%8F%AB-%E7%95%99%E6%84%8F4%E7%A7%8D%E6%BA%BA%E6%B0%B4%E7%9A%84%E6%9C%AC%E8%83%BD%E5%8F%8D%E5%BA%94-%E9%81%BF%E5%85%8D%E6%83%A8%E5%89%A7%E5%8F%91%E7%94%9F	未分類
-2024-05-29	【時事多面睇】食環署設私人泳池溺斃事故通報機制 倡提升急救設備	https://news.google.com/rss/articles/CBMilgNBVV95cUxOMUtVUmlXQUdWbHF3VE5nRnJ4dHJtZkcxc3JKdHRBNFhBNkpIczRJUmoxcnFTdWh5M2dha0xRSzdSNFBvNHJTTXBWN2xpbDEzS2NsUWJRbmJzeVpjWFJuXzRFYXZvaGVlamlLRHJySFpEMFdnNjdHMlpxYWZBM09lV3NaZ2ZwUHVqTzlJVVFzOVhWMGdFX29Ob1VKUVBVYzNtNzR3bFozbHotc3FMODdnbnpCZmpNNFZDdVJtRzVUbXc3NVF2MjFqeVRGRDJVLTFJVUhjN18zTnY5UWd4UXJZSHlvQ3MxZS1fWnBDX2RIMEVfVmlUTm9kRk42ZUVHV25SdGEyTGpMVXdHb1hSS2Q4ejZQX0YwMG5oTUxtb2FtaGVGbnc5YVdVRXRUMXRPMHRRZ2tZckExWnRBUGRlSlRPWmdqZGYyRHN4MWw3WVVNdDJpVzJVUUxoTW9MdUdKc1NzOUIxRmlZX3Y4MGZZSUhCSTdEZFVNMEo1SG9SOFY5TFFKUGxEc2FMZ2NONWNDOTlXTTZETzh3?oc=5	未分類
+2024-05-29	专家：家长勿误信小孩溺水识呼救 小孩遇溺不会叫 留意4种溺水的本能反应 避免惨剧发生	https://www.stheadline.com/zh-hans/columnists/stbusiness/501299024/专家家长勿误信小孩溺水识呼救-小孩遇溺不会叫-留意4种溺水的本能反应-避免惨剧发生	未分類
 2024-05-10	發燒｜5歲女童浸浴溺斃！即睇8大降溫須知 退熱貼、沖涼只能治標	https://www.hk01.com/article/1018262?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-05-01	五一假期菲女偕友赴屯門舊咖啡灣泳灘燒烤 落水玩耍遇溺昏迷命危	https://www.hk01.com/article/1015493?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-03-29	赤鱲角海面現男子浮屍 消防撈起身份待確定	https://hk.on.cc/hk/bkn/cnt/news/20240329/bkn-20240329110336324-0329_00822_001.html	未分類
@@ -683,11 +651,9 @@ var DATA_DROWNING = `
 2024-01-07	中國男遊客泰國浮潛遇溺亡 初判吸入大量海水致窒息	https://www.hk01.com/article/978702?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-12-23	教練媽忙教課…3歲女兒泳池溺水亡！救生員賠50萬換緩刑- 社會	https://www.chinatimes.com/realtimenews/20231223002201-260402	未分類
 2023-11-09	陸百萬網紅仲尼溺斃「妻嚎哭緊抓遺體」鼻酸畫面曝！ 死在兩人初次相遇海灘	https://star.ettoday.net/news/2619218	未分類
-2023-11-09	仲尼去世｜男網紅峇厘遇溺亡生日變死忌 烏克蘭妻卡琳娜傷心痛哭	https://news.google.com/rss/articles/CBMixgNBVV95cUxPWWpXUHVzZWF1T1BqaC05YWVWWEFYS2JhbU9mWlVJTkZlc2hyemk4QVg4V1gwTjRLMjBvbzFxWTNDazQ3RFBPcU5JWWpSM2hWeFB3N3JfMTRCNnNYdFMzYVNGN25Xekx1NU41T1o3MUhzN3FaRTJiUTdlQnRpNkpHWXpzYnBYQTJMeHZwZmQzMU5wTnhwZ3RCV0M0dnN4MmE5QmFjb2JOTk04UE5ESFd4NXdpQ1RIWmZpMVE0T0VlaXhuYXNuQjd5cGxCYW52Vy05bGhJZF8zQmZjUXdBYmRJR3lDRzZqUF9SV040RHI5cjAwaHFSMUZOQzlGdWVuRWQ0TkpJWXJod3FkTzBGMENvT3BLdFdYa2pZQ0RPT0lmRXZGZmJNWXZWNXBzT0JrUFZhOEZPSnVKelVVNDJNc2UxZVRGazlhczZIcTdnSTduclhfUVk4cFNTYnF1U2VKTzdZVHJidG1qVElzNzNKdUxSdElxUTJ0eFFZdVB6UExFODhMLV9BbHBWODB5a1JLc1VreC1DdTFueUpmd1dCN3Z6dmZEUjVJVTlFVTFQTW9mYTQ1c3VHd1RkY1VyaE85LTVBbGFSRDdB?oc=5	未分類
 2023-10-27	沙田翠榕橋底男子遇溺 獲救昏迷送院亡	https://www.singtao.ca/6427499/2023-10-27/news-沙田翠榕橋底男子遇溺+獲救昏迷送院亡/?variant=zh-hk	未分類
 2023-10-06	女遊客溺亡！涉事景區回應	https://portal.sina.com.hk/news-china/sina/2023/10/06/557914/女遊客溺亡！涉事景區回應/	未分類
 2023-09-11	觀塘游泳池41歲男泳客遇溺 吐血昏迷送院搶救	https://www.hk01.com/article/939759?utm_source=01articlecopy&utm_medium=referral	未分類
-2023-09-05	將軍澳19歲救生員抽搐墮池遇溺亡 消息稱患有癲癇症7年	https://news.google.com/rss/articles/CBMi9AJBVV95cUxPV3VkT1dpZUJCR3VFSmFRUWRuSWYwRGFuWmI1bHR6YmpSRzRwZ3huVm5tcjRhSDM3bXNrSWl0bDZTbjVnUkpfUVlYOFp2XzA0elFjdmQ0TXlOSlJ3c2pPVEZya25nMm9YM2NEeWFhbmV1VDN3SHJwc3QzZmpYMFdteHVzQ2FERnBkbFVvWUdyU2hVVEZMRXJVUEtmU3FnQ2NqbFNPZGc0Wl9NUTAtOGl1YXBuWXJ1NDRSNjRZT0tHTE1NQUR4aTlOVUpGbExIQnZ0Y0ZDXzNvRS1iTEpsUS16aG5UUDBZX3hUQ0dmeHlQSFVEWDhUX1pqcUpfenY0ZUV4V2lxLTU3bUhBV200bktBdTZybi1JN3hMQUxwdUJuY3FzbndMWExzT0piWHBMMnJwRjFldDNmbTFoTnhjdzEtR1N2cy1yYUhTbmhXSlJBc1RpdXItcmxZdzNJblE5T19GbU53Qk8xVnNvM3hfT3N5Sy0tOXk?oc=5	未分類
 2023-08-27	西貢八旬翁疑遇溺昏迷 泳客救起轉交救護車送院	https://www.hk01.com/article/934297?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-08-27	清水灣二灘老翁遇溺 昏迷送院搶救	https://www.hk01.com/article/934329?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-08-26	有片｜女子遭强奸后未获警方立案 跳水库自杀 留遗书悲叹：百口莫辩 - 东张+	https://www.mytvsuper.com/sc/scoopplus/top-picks/world/7371451767374/东西热望-有片-女子遭强奸后未获警方立案-跳水库自杀-留遗书悲叹-百口莫辩	未分類
@@ -698,13 +664,11 @@ var DATA_DROWNING = `
 2023-08-08	大慶鐵人三項聯賽一名選手溺亡 賽事煞停	https://hk.on.cc/hk/bkn/cnt/cnnews/20230808/bkn-20230808100122750-0808_00952_001.html	未分類
 2023-08-02	浙江1歲女童深夜溺斃 只因床邊擺放這一物 醫生：搶救機會都無	https://www.hk01.com/article/925872?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-08-01	三亞後海村3人溺亡1人失聯_新廣網	https://news.flyxg.com/shdt/202301/1970746.html	未分類
-2023-07-29	泳池意外｜男童泳池遇溺5次被救生员救起5次 家长全程失踪被炮轰	https://www.stheadline.com/zh-hans/columnists/stbusiness/501295868/%E6%B3%B3%E6%B1%A0%E6%84%8F%E5%A4%96%E7%94%B7%E7%AB%A5%E6%B3%B3%E6%B1%A0%E9%81%87%E6%BA%BA5%E6%AC%A1%E8%A2%AB%E6%95%91%E7%94%9F%E5%93%A1%E6%95%91%E8%B5%B75%E6%AC%A1-%E5%AE%B6%E9%95%B7%E5%85%A8%E7%A8%8B%E5%A4%B1%E8%B9%A4%E8%A2%AB%E7%82%AE%E8%BD%9F	未分類
+2023-07-29	泳池意外｜男童泳池遇溺5次被救生员救起5次 家长全程失踪被炮轰	https://www.stheadline.com/zh-hans/columnists/stbusiness/501295868/泳池意外男童泳池遇溺5次被救生員救起5次-家長全程失蹤被炮轟	未分類
 2023-07-23	男童泳池溺水…救生員出手救5次！家長全程「人間蒸發」	https://www.setn.com/news/1327659	未分類
 2023-07-23	男童在泳池溺水5次「救生員出手5次」 家長卻全程「人間蒸發」 | 國際 | CTWANT	https://www.ctwant.com/article/271538/	未分類
 2023-07-12	7歲男童泳池溺水「大人游過他身邊」！小兄弟變身救生員急搶命 | 國際 | CTWANT	https://www.ctwant.com/article/269252/	未分類
 2023-07-01	(與家人邦喱島潛水 台灣女遊客溺斃)	https://www.mingjingnews.com/article/532040	未分類
-2023-05-21	赤柱正灘男子疑遇溺送院亡	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CWUVlRHM4b3pmUU0wOTJHYzRxXzNvdTYtc1lqTTB0YW1UYldhMVZZdW90V08tQVNTY19ndEVtUHpPRnNVWUhGQzRZYnJ2YzlDYklpX1VXZXlxWHZ2ZUNqQXln?oc=5	未分類
-2023-04-19	死因公布！Aaron Carter因藥物影響下意外溺斃	https://news.google.com/rss/articles/CBMilwFBVV95cUxOLTk1cGFCekQxbkVOcWZTdWlFTnh4MTlVVDEyR2lhQUdxUU5NNERMMzdEeE5xZ0FVc1Z0dmFEdXl1WmltOTl5N21YTXhjSGtwYm4xUW1sR0pFV3BUdndITFZlQXRtR0NDcllKLUdseVZtU2RpLWNXUmdNaFNPUlpvS1FzTFJCRzE2cHdYOWhqOC03aHNfZzVj?oc=5	未分類
 2023-03-21	尖沙咀五星級酒店泳池 內地漢遇溺一度昏迷 獲救送院	https://www.hk01.com/article/879603?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-03-15	男童泳池溺水8分鐘無人救亡補習班遭廢照不服打官司遭駁| 聯合新聞網	https://today.line.me/tw/v3/article/WBWgqBg	未分類
 2023-03-06	顯田游泳池中年婦遇溺 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20230306/bkn-20230306084735360-0306_00822_001.html	未分類
@@ -715,33 +679,33 @@ var DATA_DROWNING = `
 2023-01-16	台南安平運河水域驚見男浮屍 死者為75歲獨居老人	https://udn.com/news/story/7320/6913735?from=udn-catelistnews_ch2	未分類
 2023-01-08	傳奇衝浪手溺斃！遭「4.9km巨浪」擊倒 躺沙灘斷氣│TVBS新聞網	https://news.tvbs.com.tw/world/2012196	未分類
 2023-01-07	斧山道游泳池七旬婦遇溺昏迷 職員救起送院亡	https://www.hk01.com/article/854761?utm_source=01articlecopy&utm_medium=referral	未分類
-2023-01-06	中區政府碼頭發現男浮屍 警調查身分	https://www.stheadline.com/breaking-news/3184952/中區政府碼頭發現男浮屍-警調查身分	未分類
+2023-01-06	中區政府碼頭發現男浮屍 警調查身分	https://www.stheadline.com/breaking-news/3184952/%E4%B8%AD%E5%8D%80%E6%94%BF%E5%BA%9C%E7%A2%BC%E9%A0%AD%E7%99%BC%E7%8F%BE%E7%94%B7%E6%B5%AE%E5%B1%8D-%E8%AD%A6%E8%AA%BF%E6%9F%A5%E8%BA%AB%E5%88%86	未分類
 2023-01-06	中區政府碼頭對開現男浮屍 警方展開調查	https://hk.on.cc/hk/bkn/cnt/news/20230106/bkn-20230106085646644-0106_00822_001.html	未分類
 2023-01-02	醉漢躍湖溺斃 警今早尋獲屍體	https://guangming.com.my/醉漢躍湖溺斃-警今早尋獲屍體	未分類
 2022-12-31	南京漢夜釣溺斃 遺屬入稟供水公司村委會索賠失敗	https://hk.on.cc/hk/bkn/cnt/cnnews/20221231/bkn-20221231020343084-1231_00952_001.html	未分類
 2022-12-29	耶誕節以來 全澳已有11人溺亡 ｜ 救生協會 ｜ 大紀元	https://www.epochtimes.com/gb/22/12/29/n13893967.htm	未分類
-2022-12-22	隨家人到甲一日遊，8歲女溺斃水上樂園。	https://guangming.com.my/%E9%9A%A8%E5%AE%B6%E4%BA%BA%E5%88%B0%E7%94%B2%E4%B8%80%E6%97%A5%E9%81%8A-8%E6%AD%B2%E5%A5%B3%E6%BA%BA%E6%96%83%E6%B0%B4%E4%B8%8A%E6%A8%82%E5%9C%92	未分類
+2022-12-22	隨家人到甲一日遊，8歲女溺斃水上樂園。	https://guangming.com.my/隨家人到甲一日遊-8歲女溺斃水上樂園	未分類
 2022-12-21	旗津海軍造船廠現浮屍 警查多日仍未確認身份	https://hk.on.cc/hk/bkn/cnt/cnnews/20221221/bkn-20221221032102852-1221_00952_001.html	未分類
 2022-12-18	(埃及學生海灣夏令營 6人遇溺24傷)	https://www.fnn.jp/articles/-/460393	未分類
 2022-12-16	海軍造船廠驚現浮屍 遺體雙手遭綁腐爛見骨	https://hk.on.cc/hk/bkn/cnt/cnnews/20221216/bkn-20221216020033277-1216_00952_001.html	未分類
 2022-12-15	高雄軍區海面漂浮屍！背包塞重物手綑綁,紙條僅寫這3字	https://news.tvbs.com.tw/local/1990896	未分類
-2022-12-13	快訊／高雄愛河又有浮屍！40歲男性「載浮載沉」身分待釐清	https://tw.news.yahoo.com/快訊-高雄愛河又有浮屍-40歲男性-載浮載沉-身分待釐清-033458577.html	未分類
+2022-12-13	快訊／高雄愛河又有浮屍！40歲男性「載浮載沉」身分待釐清	https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%AB%98%E9%9B%84%E6%84%9B%E6%B2%B3%E5%8F%88%E6%9C%89%E6%B5%AE%E5%B1%8D-40%E6%AD%B2%E7%94%B7%E6%80%A7-%E8%BC%89%E6%B5%AE%E8%BC%89%E6%B2%89-%E8%BA%AB%E5%88%86%E5%BE%85%E9%87%90%E6%B8%85-033458577.html	未分類
 2022-12-11	宜蘭知名龍潭湖驚見浮屍！8旬婦疑失足落水 手緊握樹枝│TVBS新聞網	https://news.tvbs.com.tw/local/1987231	未分類
-2022-12-08	晨泳婦西環遇溺 醒目家傭及熱心途人合力救回	https://hk.news.yahoo.com/%E6%99%A8%E6%B3%B3%E5%A9%A6%E8%A5%BF%E7%92%B0%E9%81%87%E6%BA%BA-%E9%86%92%E7%9B%AE%E5%AE%B6%E5%82%AD%E5%8F%8A%E7%86%B1%E5%BF%83%E9%80%94%E4%BA%BA%E5%90%88%E5%8A%9B%E6%95%91%E5%9B%9E-021513073.html	未分類
-2022-12-06	驚嚇！北市士林橋下漂「紅衣浮屍」	https://tw.news.yahoo.com/驚嚇-北市士林橋下漂-紅衣浮屍-033747481.html	未分類
+2022-12-08	晨泳婦西環遇溺 醒目家傭及熱心途人合力救回	https://hk.news.yahoo.com/晨泳婦西環遇溺-醒目家傭及熱心途人合力救回-021513073.html	未分類
+2022-12-06	驚嚇！北市士林橋下漂「紅衣浮屍」	https://tw.news.yahoo.com/%E9%A9%9A%E5%9A%87-%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E6%A9%8B%E4%B8%8B%E6%BC%82-%E7%B4%85%E8%A1%A3%E6%B5%AE%E5%B1%8D-033747481.html	未分類
 2022-12-05	垂釣愛好者相約濾水站釣魚 39歲男子不慎落池溺斃 ｜ 社會	https://www.orientaldaily.com.my/news/society/2022/12/05/531537	未分類
 2022-12-03	南部乾旱曾文水庫蓄水剩2成7、南化水庫靠「它」近滿 No Water	https://udn.com/news/story/7326/6812072?from=udn-catelistnews_ch2	未分類
 2022-12-01	移工魂斷異鄉！海邊獨自游泳不幸溺斃 遺體被沖上岸 │TVBS新聞網	https://news.tvbs.com.tw/local/1977774	未分類
 2022-11-27	流亡加拿大畫家華涌遇溺亡	https://news.mingpao.com/ins/兩岸/article/20221127/s00004/1669552400769/流亡加拿大畫家華涌遇溺亡	未分類
 2022-11-22	觀塘碼頭女子遇溺 消防救起送院	https://hk.on.cc/hk/bkn/cnt/news/20221122/bkn-20221122104121824-1122_00822_001.html	未分類
 2022-11-18	東湧新碼頭驚現男浮屍 身孭載有重物背囊 警追查身份及原因	https://www.hk01.com/article/837666?utm_source=01articlecopy&utm_medium=referral	未分類
-2022-11-10	宜蘭員山傳溺斃意外 死因身分待查	https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E5%93%A1%E5%B1%B1%E5%82%B3%E6%BA%BA%E6%96%83%E6%84%8F%E5%A4%96-%E6%AD%BB%E5%9B%A0%E8%BA%AB%E5%88%86%E5%BE%85%E6%9F%A5-100248738.html	未分類
+2022-11-10	宜蘭員山傳溺斃意外 死因身分待查	https://tw.news.yahoo.com/宜蘭員山傳溺斃意外-死因身分待查-100248738.html	未分類
 2022-10-26	離奇！日本七旬翁不慎跌落水溝 水深「僅6公分」仍溺斃│TVBS新聞網	https://news.tvbs.com.tw/world/1944273	未分類
 2022-10-24	台男潛水抽搐遇溺 昏迷送院治療	https://hk.on.cc/hk/bkn/cnt/cnnews/20221024/bkn-20221024072123916-1024_00952_001.html	未分類
 2022-10-24	「假餌卡水底」男子下蘭潭解鉤 反遭魚線捆手溺斃│TVBS新聞網	https://news.tvbs.com.tw/local/1941957	未分類
 2022-10-16	高流灣咀女子潛水遇溺昏迷 直升機送院搶救後命危	https://hk.on.cc/hk/bkn/cnt/news/20221016/bkn-20221016134038917-1016_00822_001.html	未分類
 2022-10-16	西貢高流灣咀女子潛水遇溺 直升機送院後命危	https://www.hk01.com/article/825877?utm_source=01articlecopy&utm_medium=referral	未分類
-2022-10-16	女子西貢塔門疑玩浮潛遇溺半昏迷 直升機送院搶救	https://hk.news.yahoo.com/%E5%A5%B3%E5%AD%90%E8%A5%BF%E8%B2%A2%E5%A1%94%E9%96%80%E7%96%91%E7%8E%A9%E6%B5%AE%E6%BD%9B%E9%81%87%E6%BA%BA%E5%8D%8A%E6%98%8F%E8%BF%B7-%E7%9B%B4%E5%8D%87%E6%A9%9F%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91-063639275.html	未分類
+2022-10-16	女子西貢塔門疑玩浮潛遇溺半昏迷 直升機送院搶救	https://hk.news.yahoo.com/女子西貢塔門疑玩浮潛遇溺半昏迷-直升機送院搶救-063639275.html	未分類
 2022-10-12	淡水河畔發現僅穿內褲浮屍 證實為蘇貞昌幕僚	https://hk.on.cc/hk/bkn/cnt/cnnews/20221012/bkn-20221012083632777-1012_00952_001.html	未分類
 2022-10-12	《遊戲王》作者高橋和希死因出爐 美軍官：為了救人才溺斃│TVBS新聞網	https://news.tvbs.com.tw/world/1931578	未分類
 2022-10-10	憾事！ 親友團遊牛角灣溪秘境 男救少女不幸溺斃│TVBS新聞網	https://news.tvbs.com.tw/local/1929782	未分類
@@ -775,7 +739,7 @@ var DATA_DROWNING = `
 2022-08-29	豐原翁離奇溺斃！排水溝水位僅小腿高 死因待釐清	https://www.ettoday.net/news/20220829/2326950.htm	未分類
 2022-08-29	弟潛水抓魚失聯！ 兄隔天報警 警消劃竹筏尋獲已溺斃│TVBS新聞網	https://news.tvbs.com.tw/local/1891486	未分類
 2022-08-29	台北別以為沒事 翡翠水庫蓄水率 今跌破6成 No Water	https://www.chinatimes.com/amp/realtimenews/20220829000932-260405	未分類
-2022-08-29	2人安大略湖遇溺女子昏迷男童無受傷	https://www.singtao.ca/5994881/2022-08-29/news-2人安大略湖遇溺+女子昏迷+男童無受傷/?variant=zh-hk	未分類
+2022-08-29	2人安大略湖遇溺女子昏迷男童無受傷	https://www.singtao.ca/5994881/2022-08-29/news-2%E4%BA%BA%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96%E9%81%87%E6%BA%BA+%E5%A5%B3%E5%AD%90%E6%98%8F%E8%BF%B7+%E7%94%B7%E7%AB%A5%E7%84%A1%E5%8F%97%E5%82%B7/?variant=zh-hk	未分類
 2022-08-28	小英雄！媽媽泳池癲癇發作險溺斃 十歲童英勇救母畫面曝│TVBS新聞網	https://news.tvbs.com.tw/world/1890239	未分類
 2022-08-28	6歲女上游泳課遇溺亡 母批私人教練不在場	https://hk.on.cc/hk/bkn/cnt/cnnews/20220828/bkn-20220828080531742-0828_00952_001.html	未分類
 2022-08-26	新山水庫蓄水率跌破4成！ 不排除將實施限水 No Water	https://tw.news.yahoo.com/%E6%96%B0%E5%B1%B1%E6%B0%B4%E5%BA%AB%E8%93%84%E6%B0%B4%E7%8E%87%E8%B7%8C%E7%A0%B44%E6%88%90-%E4%B8%8D%E6%8E%92%E9%99%A4%E5%B0%87%E5%AF%A6%E6%96%BD%E9%99%90%E6%B0%B4-105803107.html	未分類
@@ -795,100 +759,46 @@ var DATA_DROWNING = `
 2022-08-14	鬼節｜桃園中元普渡放水燈活動3人溺斃1人命危 最小死者僅15歲	https://www.hk01.com/sns/article/803656	未分類
 2022-08-14	紅磡晨泳婦不敵大風浪遇溺 及時叫救命獲消防員救上岸	https://www.hk01.com/sns/article/803671	未分類
 2022-08-14	大水不到10秒迎面撲來四川山洪7人溺斃+	https://news.tvbs.com.tw/china/1876953	未分類
-2022-08-14	嘗試解開被卡住魚網49歲緬甸男溺水亡	https://guangming.com.my/%E5%98%97%E8%A9%A6%E8%A7%A3%E9%96%8B%E8%A2%AB%E5%8D%A1%E4%BD%8F%E9%AD%9A%E7%B6%B2-49%E6%AD%B2%E7%B7%AC%E7%94%B8%E7%94%B7%E6%BA%BA%E6%B0%B4%E4%BA%A1	未分類
+2022-08-14	嘗試解開被卡住魚網49歲緬甸男溺水亡	https://guangming.com.my/嘗試解開被卡住魚網-49歲緬甸男溺水亡	未分類
 2022-08-11	虎豹潭釀「2大4小溺斃」悲劇 帶隊女嚮導認罪願賠償 Rainstorm Flood	https://news.tvbs.com.tw/local/1874978	未分類
 2022-08-10	快訊／高雄金鞏橋下漂女浮屍 路人嚇壞報案│TVBS新聞網	https://news.tvbs.com.tw/local/1873022	未分類
 2022-08-09	遊客驚見「有人漂在海上」 男溺水一度命危│TVBS新聞網	https://news.tvbs.com.tw/local/1871861	未分類
 2022-08-09	《寄生上流》悲歌！首爾一家3口地下房 遭大雨淹沒溺斃 Rainstorm Flood	https://news.tvbs.com.tw/world/1872268	未分類
 2022-08-08	「紫珊瑚」超吸睛 海底薰衣草森林1男溺斃│TVBS新聞網	https://news.tvbs.com.tw/local/1870994	未分類
-2022-08-06	船河遇溺 7旬翁魂斷浪茄灣	https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTjQ2SjEyVGZzNHRZT2hLLXVleHlyS3VZdW8yUG5LcDhVQkpvYVNrVHFSRGstT0NiTXRkZWlwVDBpTWs2V00tR1VWUk1RZ1NjX0djaGNjU1JUbjAzMkJ4Nm1NRi1CeU9ZNmFNNDhWdDBuTmFxak9DZkNGbms4Sjd2eTdWc3ppSkQ5ZkktNnM2U0xhbzU2Q3hMc3N5cW9PN2s2LVN1bjd1NEI1N200Ym5tSDZSNWVWeG5tMTA3Q093WFlsZHRzZGlMeUpsYTBVTVVzSWJ1OUlrTzNOQ0x6d1BaVXUxdThfTWNOZk9iSTkzTjNBd1JqZlV1Um9zSTA4RU03bm44M0c0Mm1vQlNrVThodXVQcXloendxR2hFb3FqS3lEWVREZDFyQ2ZR?oc=5	未分類
 2022-08-06	大橋附近河流驚現浮屍 死因待查	https://hk.on.cc/hk/bkn/cnt/cnnews/20220806/bkn-20220806070157771-0806_00952_001.html	未分類
 2022-08-05	浪茄灣遊船河樂極生悲 七旬翁游水溺斃	https://hk.on.cc/hk/bkn/cnt/news/20220805/bkn-20220805143517788-0805_00822_001.html	未分類
-2022-08-03	遇溺｜兒童墮蓄水池親人營救不果6人溺斃 拯溺工會：識游水不等於識拯溺（附正確拯救方法）	https://news.google.com/rss/articles/CBMimgRBVV95cUxNVXliOTBBdTdtSGI0SW13N3B1RllKZUxkNmc5Q1kwVmpGN2o1emQ3Tm81YkdjOFNxXzJXX2stX0FOZk5mcnQ0WUJuRkpmX090QS02Mk5LVDA5UTRaMlRvek5VNFZxcTNHY2lKcWlnWU9NQWVrcjdISkFadDJSUnk1UEZOY3F6eEZOM3NIR1VNZGhOQXF4dkdjWktxbkJycWlfajVnZjB0RGx3TzFaTXdHVUMtT25VNlBWWnBpNWZ3Q2Z6R0tSbmRsRnFyd0UyWmliU0VjajJVc0RJV3I3Umtfcm8weUVjblpXN0hmam14NkJYeVdWX21DaVJoRW9aeWxWd0FjRjlCM0hqSmpwRmhhLTlmU21Na1JVWTlXTDhxTnppQjlTYzF4X3psVWYtUW5pNE1NMTNycG1PQl8xWjl6eHlyeENoOEw3akREeWZyRi1qUFE1VFd1OU56Tk84eDZCODVDMUZ5R2daZktoWGZ0WjlnTVQ0TGU2UnJqTGNDWUg0enB1Sm4xdVFIeEV2Qy1BQlFCRmRpanNjLWs2VkZoa0lzblhmZ1FFa2NnQURqQUN3QlFoZUtvMEdpMHM5YWMtN2VaZjFBNTlVeTdDT3YzNmlLRENmazFBUEdaWFU5ZkxTUi1MZEwxVGZBbmZET1RyRklkNmluX0hSeldmN19ST1hHemlRNjg0OWJwM2hVaktQbXVnTk12dmxn?oc=5	未分類
 2022-08-03	快訊／新店碧潭驚見浮屍 死者身分待查│TVBS新聞網	https://news.tvbs.com.tw/local/1866357	未分類
 2022-08-02	貴湖2周2人溺斃最新意外死者年僅14歲	https://www.singtao.ca/5942145/2022-08-02/news-貴湖2周2人溺斃+最新意外死者年僅14歲/?variant=zh-hk	未分類
 2022-08-01	華遊客在韓海水浴場溺斃 警介入調查	https://hk.on.cc/hk/bkn/cnt/intnews/20220801/bkn-20220801192006847-0801_00992_001.html	未分類
 2022-08-01	兒童墮蓄水池 親屬營救不果6人溺斃	https://hk.on.cc/hk/bkn/cnt/cnnews/20220801/bkn-20220801112540895-0801_00952_001.html	未分類
 2022-07-27	沒給呼吸器釀禍？ 22歲女澎湖吉貝嶼浮潛溺斃│TVBS新聞網	https://news.tvbs.com.tw/local/1860240	未分類
 2022-07-26	魁省近期連續5起溺亡 專家籲戲水者小心 ｜ 溺水 ｜ 建築假期 ｜ 魁北克 ｜ 大紀元	https://www.epochtimes.com/b5/22/7/26/n13789502.htm	未分類
-2022-07-26	遇溺大聲呼叫反缺氧 急症醫生教2大遇溺急救關鍵	https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRzdGYXZDVS1DM25TaFV2NEN2Q0YxcFM0MFpGazJQaDd4SXozLTNjOWlwRi1HNzg0Z3dKd2I0OTJCa2JIdE5mTml1a2VNWGUtVXVGcDduNGlRUmhjcWR5U3Bfa0twRFE0UDhqc3dqR3d5TkFYQUl1b2hHMWFaTGVFdkU4VXQ0TncxRDR5YTN3RnZyQ0xqa2RJUGNRQjAwck0zbUJEaEtNMjNBcDZrcHBaVWotcW1WY3o1WGVDLWF5N1VMbE9MS0tBbkYyQnBDMFpBVlVPRC1xMWpLMzV0aVJXSkJyUUtyOXRJM0luUWoxdzM?oc=5	未分類
 2022-07-26	37歲女行山失足落水疑遭急流漩渦吸入 卡進石縫後受困溺斃	https://www.hk01.com/sns/article/796267	未分類
 2022-07-25	3歲童康樂園遇溺亡 祖父打瞌睡裁疏忽照顧 官稱不幸判得直撤罪	https://www.hk01.com/sns/article/796212	未分類
 2022-07-21	西貢女子遊船河期間遇溺 昏迷送院	https://www.hk01.com/sns/article/794917	未分類
 2022-07-21	男童蓮池潭上風帆課 與教練雙雙落水溺斃	https://hk.on.cc/hk/bkn/cnt/cnnews/20220721/bkn-20220721111145804-0721_00952_001.html	未分類
 2022-07-21	清水灣二灘男子遇溺 清醒送院	https://hk.on.cc/hk/bkn/cnt/news/20220721/bkn-20220721142218227-0721_00822_001.html	未分類
 2022-07-16	國際影像｜美國最大人工水庫水位續創新低 沉船重見天日船屋擱淺 No Water	https://www.hk01.com/sns/article/793168	未分類
-2022-07-14	玩直立板石澳遇溺亡二級懲教助理 為人盡責孝順 上月健美賽奪冠	https://news.google.com/rss/articles/CBMirgNBVV95cUxORERJbDkxc3E2TmZ1ZUl2VmJFeTRYb19fSGdTdmZhTFMtVG5sOTBoVWY1a2NrME4tQUQwNG5rSEJyMTZyaWVBVjdWNjNXN19Mb2Njck9wbm5qdy1XNFpJdVB1X1ZxaVp1a1NCSjFBcUtSckpfSHR6RmJnZnJlQkpDdmdvbUd1aHNVcnBuYmR0bkJzSzFGV3h2MzliNXBZdFZZX3R5bklMUnBjaVlJWDVObnJjMXpWQ212Q25JaUl5QS1DVEpyc2UtdlJWSWJHb0Y2emZNWDc3c2NvZHE2cUV2a1NMYmdjTjNnazdLZ2d2OHJhTzZyZ0JyakN3emRFVWRzRTI3OWp3dVNqa3lCcDE0alI0enRTNXM2bmNhU25TQ3FfWC1RZ2pTRF9ZaGxvaWpROUJEbnVUX0lXMnlrbVhEOHJwSjZwajFJX0JGU0R6UXY0NVdlRkFnV0szMklsaDV6b2FQbkYtZEZtYlRSdGJEaWlKN0xlYklaZl80TlRtLUZwNFlLdzY5NS01amZZRDhpaEQxejVqRDJTWGM5dEl6WVd2SkVkLU50LVdzMGp3?oc=5	未分類
 2022-07-13	石澳情人橋兩女泳客疑遇溺 水警到場救起	https://www.hk01.com/sns/article/792026	未分類
-2022-07-11	深水灣泳灘男童遇溺險死	https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY1NmX0hxOEJqVTBSYTJ6cEtRTndGZUhEZWNXRjF0a3pTNUpXM2JzMWZ2U3p4c3pFNjU0eEhOdmJMUG80Q3dxS0lwNGN0WkZpYllHNGhSdC1QQjdSUk5ONWF4Zkd6dURwUUxQckNSVGlzcWVCaVkxal8xYlBDbWlONHh4U2Z2UGFrSURDYjF5MGRKc01oeWJVbERTUVpvdEhqT09oekpVWWE2YjJETjl1eGpGdzQxZHh5ZU9CNG00eW84WENFNjlOZEVGdmlXNjJ4b2laYnBfX3JOcmZvUUJPaHFsbw?oc=5	未分類
 2022-07-10	踩石不慎滑倒 16歲少年溺斃溪中	https://hk.on.cc/hk/bkn/cnt/cnnews/20220710/bkn-20220710103449468-0710_00952_001.html	未分類
 2022-07-10	深水灣泳灘男童遇溺昏迷 救生員心外壓救一命	https://www.hk01.com/sns/article/790844	未分類
 2022-06-28	大嶼山男子浮屍海面 水警列屍體發現案調查	https://www.hk01.com/sns/article/786645	未分類
-2022-06-27	馬鞍山女童泳池溺斃案 負責人及救生員認「夾口供」判社服令、感化令 - i-cable.com	https://news.google.com/rss/articles/CBMi_gJBVV95cUxQX0hQNnhWUV9oT285WjRPN1ljZE5WWllON2VfTnFlY0huTUNTUkktVVJZSWpwTVdkNF93dDF6ajk5TTFTd1pKOERWMm9zMlN6M1A4ZnEyYjUtYXg4NF9GWTZBaERtWE1PWHE2NGRnVThxamd3ZmpZVk1La3BTVHVfNDh6Ql9kQS10eEk4eEdya0ZLLWdlODhrVjlIMjMteEdGRTAyTENmT05HV1BHNWtyam5GMEdQRUlWclBlQnNnVTdSanp0VGFPZHcyRUpuLXdwM3NXU3Y2V2p4QTZXZmVrcE8wRmNwYTc3RGg1dm9aXzZvLUNTZDJ2dlpzeWpGMGh0bDlfT3dFbmVyZ3hTcDBRS0JMX1RiNEJSdUJLM3YtTVV5UlNrbTF6LVJ2Z05hM2NURWRZUjI2NVlsT2pnQUFXRjlHaFhBLXZSVUdpYVhuUzBWajIzeURlQjhCZ016Z0dWZ0Z5QU15aC1lQWN5N2k2NTdDRjRGUzJQbE1JU2p3?oc=5	未分類
-2022-06-27	女童去年泳池遇溺亡 泳池負責人及救生員認誤導警員被判社服令與感化	https://news.google.com/rss/articles/CBMiugNBVV95cUxNNjdVaVFBSlI3S3BFSmtKS0VNU1FNUUlVSkpQRW5QNFNXV2FMM2RhTkJtQ1pfQ3ZFQV95OEstU3BPcjg5dGtlSHE4MEVySFFuR3JYR2Z0VkV6Vko1WUUwb2JxdkpGME1OYTNfNGgwY09laHdNc3BOZFROdVRYMkJlbEZWVERIX3dmUFpzS0t6c2VkNnZYV0FnUjVXM2l0ek93YUtWdEQyeDVleWQ3c0dhcVNwREZNVFktSFNqckVNeS0wVU96N2FEZ1U5WVBLQVdiVGdMUDRQdkJDTjlncUFjX1NtZVpIT0lraTNrcG8yOVFRNTdPNWdINjhTeEY5OHJwUldqLUFSYVg3M1NIWERGRFFnUUFiS1UwVnlaQ0hEbWFkNTdNVVlkVVZEb2RfOGszaUtLUlhCdW5kTEFucVFvN3pEOFdhUWViUnZDVVc0QlktWTlzNXhxM1dRSFZTZm8wOUFsV3dLTWhSRm5STVRFR2N4Um9wR2VVQ0JRcE5UZ2JIVEphc29jX2VwcUNpU0dPSmdxTGo5dDFYZURNVWo2UFJVblNWUmZlTFVkY3lUalk0TVhzZ21YSEx3?oc=5	未分類
 2022-06-25	西貢清水灣二灘老翁遇溺 昏迷送院搶救	https://www.hk01.com/sns/article/785538	未分類
 2022-06-21	33歲男西貢露營灣潛水遇溺 送院危殆	https://www.hk01.com/sns/article/783918	未分類
 2022-06-20	男學生日月潭戲水 疑腳抽筋溺斃	https://hk.on.cc/hk/bkn/cnt/cnnews/20220620/bkn-20220620030910007-0620_00952_001.html	未分類
-2022-06-08	7歲女童會所溺斃 救生員及泳池負責人認夾口供誤導警員候判	https://news.google.com/rss/articles/CBMikANBVV95cUxNNm1kWjhTdFEwdDF0Sy1kdHNlQjJkS3N6ek5YTXVKVzc4Yl9UczdQY1NqWkcxTGdzX1U4WkE3a29yMDVweXlfQzBEbmZ3MmtSQXZteEVRMmtXQkNRWWV2MHdkZXF1R0dvR09tcm1obnVwcHc3N1RUc1hnQ0NtV0ZOTHkwcHp4LUNUV1pXTGtvYlVKSEQxRS1ZZkNSQ2dGcFhlMHZqYlpsZFc5VkEwQWxWekZTdzJrR2xBNmlJOTZWRUZudDhrTlJ1VjhkUVRiWmR6M3lOeE5LVkdKWF9Eb29LUWwwdkc1UHhOd0daalRfNFBpWV9ZQmhNN1RBY29pVTdTZ3dHTlhoS3phNlpvbkRsWTJFalB2LVBwRVRvUXh6ajl4azA3SHJoS0ExOE1NUERoR3JWa210TWdFNmc3WU5Zdm5BV2VHUHNGN2lqS0l5ZlVRcFNqaEVHY0xyN013ZTExYUdHVXFtNWpXVDQzTk83Zk5rZG9aRmhrakxCT2puZG9Kc3dYaVJib09zSk5RRUh5?oc=5	未分類
 2022-06-06	內地電視劇《一路向前》2名劇組人員溺亡 暫停拍攝	https://www.hk01.com/sns/article/778175	未分類
 2022-06-05	赤柱龜背灣女子疑遇溺 送院命危	https://www.hk01.com/sns/article/777979	未分類
 2022-05-31	(男子馬鞍山游泳池遇溺 暈迷送院)	https://guangming.com.my/%E7%94%B7%E5%AD%90%E7%8C%9D%E6%AD%BB%E8%B7%91%E8%BB%8A%E5%85%A7-%E9%81%BA%E9%AB%94%E6%9C%AA%E7%99%BC%E7%8F%BE%E5%82%B7%E5%8F%A3	未分類
-2022-05-30	君臨天下遇溺｜兩女童有家人陪同 當值救生員未聽見呼救聲	https://news.google.com/rss/articles/CBMiigNBVV95cUxQUHhQSjd4MnZBOHhWMUtHeVhGb2VicE5IUGhtU2NlbjVBaTB1RHE4aUFEQ2VRd1BZSzJxNHB6c3U3dEZETzg3YTBMMlJnXzlGdTBJZ0dnQ1NpdEJKLWw3aGd2Q0hqODFyS2QyTlUzdTZwcDQxSFpoZE1mM0pNa2Z2U3RuLWVudGdveDNfd2xvcThzZlZCMUtPN3hMSVlFMWhlWENiTmpybnh4UEIyUnRuQXFqQ0w0bnJBaWR5TkdGSDk0T1RUTW9ldzlZUHAwU3JOdWZCVkpJTzBGUjNSeHF4TG1Vb1hNQlprQUZONDdQeGdsN05QMU1fXzgxVWxReFlqNnFJTkE5eVBfQXd2ZHIwc2k4Y0tZV2l5b0VWWHNQdHA5bmJ4NHhXUG5iRGtTOWEwckVBc2h6MEE0TmREMXNua1VucmRsNXphWWdlY1FOaWpEa194WHBlbnVENThGZ2JKSVdYdHBJeW1qbjE2NFJoTE1vTXFOcmVoNW1RNHRrdC1qVlFSeG93TnNR?oc=5	未分類
-2022-05-29	2名7歲女童君臨天下會所泳池遇溺 1死1危殆	https://news.google.com/rss/articles/CBMiU0FVX3lxTE83SnoxVDh6a1MteVdkdFczYnd2bmJydG1idE1zQUdlZXdpQzNjQUNNX2daVHM4VzFZRUJDYWxrMXZieHhna1hraURiR19Jbk5rRHpJ0gFYQVVfeXFMT3doR1VBYjcyNkxEVTlOQll3LVdULUlTRWh2ZWE2ckRJc0thZU92bEhBazdUTkRFSVB2YW1OanFXSE13eEJiUmNvc3VpVm4xZ1dRWUVUYjlJNg?oc=5	未分類
-2022-05-28	城門水塘女子溺斃 警方調查原因	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmlxWER4M0lfZ3JQYVlYNTdaYnRKTHpLOEN3bktqdmVJLWtXV3NHQjlmNFN6VHcwcjgwNUtsS2tidGs0d001aGM1OGprcUJIVHdNa25xZmhtVUN4U2pnX1FaS3h3UkZaNHIzMnk0NTJrVThleUVCTlQ0aWdjemN6Wnh2V3pMZG4tdGpN?oc=5	未分類
-2022-05-18	帝琴灣女童溺斃案 救生員認誤導警員稱有2人當值 被判社服令	https://news.google.com/rss/articles/CBMirwNBVV95cUxOaUVXdUVDcV9PaVRPc2xEMEJ3YWhzTUxrN05YZmtYR1V1ckNrbTdpWFdPZmZ2NGtQUHhuN1NSRDhvMG9VcVIxS2ZZdjZWRTdybE5EYzZlLUQ4dnR2dS1BSlhnVmRIcnRIa0pvUnZ0Uk1kYWVOUDBRRHR0N0pxdERwZUM5aFUyUE84dUhSTzR3MUNUcHBQaEpHZTRzb3FaYktINHQ2VWd2WGNsd1hld194aXY1OGRxSTJYMG9SaEVxX0g1LXNTajdHT0tUSTh3Mlphb1hPX09pa2JoVFlBNVNSSnQxRXhuNHZhdkttS2Y3RE1VY3p5WldqT2JSdjdBSWRidnBrQWFYR1A1MXpDbVl1T1R6ajgySEV6TnNYMGI3dWtadTUtQVRUV0plM2ZEQ2FqZjJzcW9uczNDREdHbVM5N2pTY0FFS2VpZXB4RExiSkdiSkg5QUtzRnZNSzRxeFFCVTdJX1pBVmVNWjNqak44eDhGN3BCREVWSndCY3VZZTUtWURsdWZ5Ti10b1dPdkJabDlzV3ZRUW1oZkRiWG1tS0dtb0ZKZmxicHEzWXE2QQ?oc=5	未分類
-2022-05-18	七旬婦觀塘泳池溺斃裁定死於意外 官倡康文署設遇溺事故檢討機制	https://news.google.com/rss/articles/CBMiswNBVV95cUxQZE54dXdOR0NCeWVhdVdGYURNTlk3cU1Xb0F0NzZoTk9Gb3YzX1MxYnBaa3loOE1ZQUJOZE9maGZrbUZCWkZHcFNZc2p3VUlEbVhVemc4ME5xV2pPb21hVXdSVW9ESzYwdGU1VVF4anZOS0ZuQ0pGWkRVUzNTTHZYdkFOSnFKcWRhY0dmVU9vTVdvdHVhUWd4eENQYlg3b0tWOUNpbEtTV3haRGRxampnTkJQTnRZZ3pKMEtrakpwRjJyYmhpU3pMR1M1TzNXU19XTnhta2hvOTZGMzdIYnJzWkNJM0FoclJBUzZrWlMxdUZqRFVjQjJuUEk3UkZEdTBJeG8yWXFHaTgxVTdfOWJLYnl5NEZrd0dEbVh6c1pjMC1INElHOHl1Z291OGpibWJTSUZTOE53UVkxbUs4aXowQXE0SlRCdEdTS2gxR2w4RFdpTV9DRWgwWTJfeUdwTWVBdUtSdGE5QkhzdVdmVTJBUmZnQ012RzhCaXhFWVc2QS1nejNPYk5nNjY0OWdoUldlN2Q5YjFrM2d0TnZDQVlNbzczbmplZndGajdOa3Y4QjlENG8?oc=5	未分類
-2022-05-18	七旬婦公眾泳池溺斃 4救生員2人稱當日肚痛及頭暈 裁死於意外	https://news.google.com/rss/articles/CBMisANBVV95cUxNSmJWOW9zQkNidDhsYk9OZ3gwMXpLb1R3TnVRa0wwRmYtUzVvbEVtaVFNT0t1U0t3LVZGeW5oZjhwdFB4TENDNFR5bHFWRWVXLWhpWm41TVAyd1BBOFNoYlJwS2RPcEt4MGtVMjFBYXN3UjFKNEVUQUIyNHc2M3hxS2w5UERvaXZ3elhQS3NaOGtpREpFejluUndQM2h4cHVZbEx2enRic05Zem0wMlRFWVFiWkNKY0g5UncyOWJrcG1LOGROWG9yeGtYVmZqSzF2OVdkUmw4aUVKTURMV1RKdnJybFl0NHNzQnhHWFMzYW9naE9vd0tONnMxUmF3YlFqbFlpVU5URGNVZXNJNVRxVnJWTDk5ZVJRbDVKZ0NkQkhLcGk3UzcydnN0WnVZMFIwM2pTMTVDdFY5elFxekxFZ2tOQ1E0N1NISDZpd2oteEloYmRLMlhsc2pNdkp0MEQwRnRVaXlXRk5kUVdLbTYyTjFhcTJwUi1oZFMxT3FzMy1GVVZGRmRicDRGYjkxT29PQXcxMEt5TjN5VTNCdU95dUtwWUt3ekdPeE16a3VHR3M?oc=5	未分類
-2022-05-13	婦人溺斃死因研訊 康文署人員指不會專門監視泳池閉路電視	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlI0MWJtQ01kNkJqbFdvYU1IajVHVV9GS3hMMG5lSFE0aUJQUDZnWktPMmpGQlV3d2JFM205RFUtTzFGQXZVWlQzU2U0cEcwWG56Sm9oelp3YklIUUtwQTZPckhBcEVYRHVlX3hzenA4dFItaVBHLXdXdWprNElPOVNQRnA5ZTVmOEVV?oc=5	未分類
-2022-05-04	7歲女童屋苑泳池溺斃案 25歲救生員認落假口供候判	https://news.google.com/rss/articles/CBMi1wJBVV95cUxQc2Noa0FzdEphOTZFYndNRl9hcXZKdU9tUDVZTFRzSHJkbTJDV2dJNUxiRUF4bFVxTy1TOGx4MVBDN3VLQzNuZS1rNElmcWNjMHlDdjhxV0dFWERMT0RVSXQzSmNLZWxJbHRFT2tvdFczaklLOVFMaFFzOU11UTdUVTdjelpVLV9FR3lsTHE4cEZYVzVuLWdmU0p3YmxyV2tZbWN5M2ZyVDhWUjBBZDVXTlkwa0VtdDlhaFAyeUgtQXJodzY0bFFvUjNsOU5UTXo0b21wdjFWb3BoSk1pYlVKZE9Kd1Rfa3gzdUJ0RXRlX0hzbXhpajJGcWVXYlNoTFQ4YmppOWNQcU5Ndm1rcE12Q25sV2lacHk4MXp0UG9KaExnWEQ0Z0x3dWJGQXBpWlRaREV6cS16SHFrb2JXVTRmNFNseW90NEFkWFpRakZDamhocDJseEZB?oc=5	未分類
 2022-04-22	世界地球日・圖話｜美國水庫水量跌新低 是食水問題也是能源問題 No Water	https://www.hk01.com/sns/article/762339	未分類
-2022-03-17	去年凱琴居會所女童遇溺亡 負責人及兩救生員涉瞞僅一人當值 被控誤導警務人員罪 - i-cable.com	https://news.google.com/rss/articles/CBMi8wJBVV95cUxQRGNEeTlMWFdwdXlGcURySFlyOC1Zc3NwSTU4c0FWVFViRGpnWTNYVHBEOWpyeUNsclNMUnRabVhob3RGX2ZEbWZrT0h3aEU0VTNiZ3BKcmY4WkNhX3hvZlZfYWpCUXEtZERDcGMtMGduWFZ6XzQyZThwSGprS2Z0Sm9LbHlJcmlZUTJ3bWpieXdJc0U4WnBJSnRkTVlFSGZoN2U3cE0yZGFJLVFlcnpLU1pkUVM2cGdGeHFrd18zdWpuNk1TYkNXUklRRi1ScVhaYVJTWHpkYmlRcF9vb2pHYzFBVERQNUJ4alE2aDI3WUpCOWF2dWM0ZWRMYWZNQTcyTV9VTm81emM0SFBwQm5teXMtY0J5bHFFZFVYTHJTWmtRSjl5RjJQcG5pbTBXcy1YSl9Oc0pFZUlPYXF0YTkzandSUmdfblBuNGtSZG9SckpOcExDV2VPQlIwcUx3TGNlMUwzV1k5VmMyQmQyNDcxVlozcw?oc=5	未分類
-2021-12-20	【屍體發現案】石澳泳灘現身份不明浮屍死因有待調查	https://topick.hket.com/article/3136385/【屍體發現案】石澳泳灘現身份不明浮屍 死因有待調查	未分類
+2021-12-20	【屍體發現案】石澳泳灘現身份不明浮屍 死因有待調查	https://topick.hket.com/article/3136385/%E3%80%90%E5%B1%8D%E9%AB%94%E7%99%BC%E7%8F%BE%E6%A1%88%E3%80%91%E7%9F%B3%E6%BE%B3%E6%B3%B3%E7%81%98%E7%8F%BE%E8%BA%AB%E4%BB%BD%E4%B8%8D%E6%98%8E%E6%B5%AE%E5%B1%8D%E3%80%80%E6%AD%BB%E5%9B%A0%E6%9C%89%E5%BE%85%E8%AA%BF%E6%9F%A5	未分類
 2021-11-23	戲水安全︳2歲女貪玩跌落充氣泳池溺水 母親鎮定做CPR 5分鐘救回一命︳附6步急救遇溺方法	https://skypost.hk/article/3113454/%E6%88%B2%E6%B0%B4%E5%AE%89%E5%85%A8-2%E6%AD%B2%E5%A5%B3%E8%B2%AA%E7%8E%A9%E8%B7%8C%E8%90%BD%E5%85%85%E6%B0%A3%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B4-%E6%AF%8D%E8%A6%AA%E9%8E%AE%E5%AE%9A%E5%81%9ACPR-5%E5%88%86%E9%90%98%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD-%E9%99%846%E6%AD%A5%E6%80%A5%E6%95%91%E9%81%87%E6%BA%BA%E6%96%B9%E6%B3%95	未分類
 2021-09-27	深水灣69歲女子遇溺昏迷 送院治理後清醒	https://news.tvb.com/tc/889262-深水灣69歲女子遇溺昏迷送院治理後清醒	未分類
-2021-09-23	帝琴灣會所7歲女溺斃 父涉疏忽照顧被捕 居民質疑救生員失職	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcU5rLTJ2d3l2V0UtbXNZOHlpeHRsUHdXRDlRYnFYYzh2YmgzRXFtLURuU0tVOWxVZk5zOFZfTVBhZzVaMWIxSmtnVDR5TG1MTC1RdTVmQ0tiWHp3VkFaZFpfNjBYSk5LalREUHdIZjZjZHJ2M3JLR3ktUkRrVzlNd0RrRmxXTmVURmM0?oc=5	未分類
-2021-07-27	退休救生員游早泳溺斃	https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2N0RkhabUtJVDdxSkxsY1Z6TnZISnF1M21lemNXcXBzeHQ1RHhLZDJhUEhsM1d4UGlMTXg3elA0X2cybVg1Z2NiMFVoTy14cDZhX0o3blBPZEozSk01dkdFX3I4VVdzSzl2YnV1enZ4bVYyNFlHcGlId2NrckNuZno5SExIcERULXNDZkJn?oc=5	未分類
-2021-07-25	曹公潭游泳遇溺 尼籍女沉潭底亡	https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSno4YmNFSTQwQzBvRzJnTWUwbnlkUGU5UnhGT0ljTXExU2pfcEI3ckw2V2c3Z0daYnp1T042blVDVXFtMjVsbjZTRG4wSTc2QW9OeXJJbXRHWjBIbkxhd2J3aEh5RzMzYnlubFR6WjRVdmVYV21pZ0VIOWZCUHN1dWFpWWktME9Va2hTblZoZEF1VVNCbS13NFV0SnhwWXI3Z2UwS3lTTjJ0Tk0yRVB1UUc1U3Z0bkFZOGVtUmZoX3NidlhqaHRyT1VONXpIUHp3RTZ5VlE5RW5UQk5FbG9mdDFuNU4yWW0yVldtNU9ONm85S2xsSzdFUEJXWkZOLTg3SE10VTQwaDQ?oc=5	未分類
-2021-07-12	行山意外｜32歲女行青大石澗疑打卡跣腳 5米澗壁墮潭傷頭昏迷遇溺亡	https://news.google.com/rss/articles/CBMiogNBVV95cUxQNlBENDRUdVhIMXNrbFdxcXdSSFk3amNUdElUZ3Q1MVJEN2tieGFqLTJzRUxMSi10TDVrRHI1dnlzd2pvMmtJaXhHSVRqS1BqZ0NXVkpqdFVkbEFSMElpSmNaYV9jS0F5RGtjdmUyc0JDb2xlZm82VWhfVUVScVZlMVUtTHpQOFVsTldPOFozdHJKczFBZjYzdm52bVVmSGt3UjAyQUE5YllCUnR3MmNfb0pyQ1hUb1ppbG5EWHVfeXNaZC1OYjQxOTVFYWtwQUdkTnBlR2pPelJDNnkwc016a3h1cGRrM0wzVGx5MHAyX3E5TjhtU3FMbHd0RUV6aW1TTFhkRUpqb3NiNXBiU0xlZVRjT0Q0dFBINnQxOFlnekEtYzM3UHk0WTNwcmx3MnBMRjl1S3k3dVotcm5iWDBHVWE5WWlzaEVzOXpyZzhOZDZXWXN3YzhvN0FPbm1WRDYwVHNoUk5SN3MxQkNuUUQtM1EtTVRDc1BKQkh2U01DNUktZkJnemtORkM5T3FPTGVoUUcxMTRQM3FwazdjQ3Z1NWl3?oc=5	未分類
-2021-06-10	陳鍵鋒被指一對一教潛水學員溺斃 經理人：無可奉告	https://news.google.com/rss/articles/CBMi_gJBVV95cUxNYnRoMUhHbEtqRkZ3WHhDbDBkOTBfTGlFczRGSUhFcFBlVWJLYVpyUnlDTzYxb0Z4VjJfbU1QQmhYRm0yNWgzOGlmcE9aaWlPM3lRZjcxUTVoM3JVanVkenlFbGtweUdWWXhJWGNLeWYwRXA1SHpoXzBxNnl5VllBRDhIQmVwM0E3dTRGZDlPMnhXZEc2aTNRZzk4LWdnVXdDSFJzeHNsY09SM0ZlWjc4WTNLOFJTRmN4eGRTLVFQejh4My15cFQ4UTMyelR2QS1nYXBWMENsQWtvbDRfQlNKRGN4cExiZ0hJUFZnOWlEN1YxeGpJbkczbWMzNlQ2TzBsMzcxQVVXT3hXMDNuYmxkVTZHYVpXR2t5OExWdWZmV0xVODJSblhzRWhROERDS1FxZm1mUi1nQ0JlNzFsalVyTk5zN1I4b09aNkZEbTQ0UkRYMG1va3A0WFg2cjBmYlhpcjF2UGNsalZ2TlRrYjdldkhsMXduUnJlam01Ql93?oc=5	未分類
-2021-05-31	16歲少年為救朋友不懂游泳奮身跳落水不幸遇溺亡| 生活熱話	https://news.google.com/rss/articles/CBMiqANBVV95cUxQQWNDYUxHWG43UG9pSHIzSUxNRXdhcXZJbnNTLVJ0eWtocW1tNGVnQnZibTBXWUJ3bDdsVnVid0s3NE5naWVjTlRiQ0FkUnF3X3dWdXlkaFBkTHpfOWVfWG4zcnR4N0lVYm5PVUFadjN4dXRiYTlkeDhnZUM3VW84YmZpajhDMEVJQVRmVXpDOTJzdjFKX0ktNWtndG5CS3c3TlVTdklhTnZpelZxMk1ESTJNc2xYeHVtUWdySVNnM0N2YkNmdF85SmNFb1JJWTZjMm4zOVJTZTllQk9XdkkwV2lfR3BBcm1sZnAzYl9BaS1SVVhIdEFmc0hIb1lOYlBxUldGdFI3T0F4TFZVYmNLZU9ESkozVzhEYVhyVUxuWk1zSU9oRzRYWGFrVTVEa0lGSVBNUzdoNml2RERaSk53THFWMmdzNnM4WldPZzdhTjFRYlhxaVBHMXJ5c0h6U0hvTXpwX2dSR2FDSVN2UzJrSWxwWThqendCQnQxS1h0cUk3RFM3TDZGN3RGbk5PQUtyYlRZVWxoZkFBU1l5YVhrUDB2QlExNjNW?oc=5	未分類
-2021-05-23	長洲中年漢游泳溺斃 意外3日2宗	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUV6aU9zMmd3a2M0OHY5X0x2dk5lQkNrV3VsbGR3SHVNRFBzSXZzUTNlOC1UMndhdXBhbklYWGxoeUE1WFNOTzFfRkdzTzk1cjNLeDRwUFZ5OThSRnBIcUlDak5Ka1BsTFQ5MDYxejI1UVZPUjRrdFQtWjd0ZXVpQTdpTUhQUEcyYzRJ?oc=5	未分類
-2021-05-22	女童清水灣二灘遇溺昏迷送院	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jS2tCWXRUOXVrQ2ZPWmhySmlsanJQYzJLUHlPV1A1dkdUXzBMeXFCR1diV09hUzBXc3k4SWNUdVFZYTZGbmEzMnJKSTZ5SVBVclFULThEcy14cFpaME1TRHhn?oc=5	未分類
-2021-05-19	一名女子西貢對開海面遇溺 送院搶救	https://news.google.com/rss/articles/CBMihgJBVV95cUxPX05yQ3RxY2M4a0pzZm9xU2JXQXZpdzVkb0k4bnhpN0VYZ08tQWs5a3d3ajhtVFFYd1RveEhadk1LWGZsaG5ERklWN2J4Y3hQNzBJTTk5ZU5vVWtEa1RlUGcyZnBkeVcyWlBVUEZOTFVIY0ppYVhrbkVPalk1RUdYYmNPeXRDQlFhbWREcXZWTEgybmRuY3ZwUzdielhwRGk4eDBDSmhia3k0eTdVSi0xYk93eGprX2JGVllzTzE0YzgzT2dmWDZxaWplTUxnUC0yd01xT25YLTB0OWhsYmlUVjJrTm81VXZlLWgtWHNIamd1dkI3V1JWdFhHbHJEM1RSRjVOOS13?oc=5	未分類
 2020-11-24	水底燒焊出事 潛水員溺斃	https://orientaldaily.on.cc/cnt/news/20201124/00176_063.html	未分類
-2020-10-06	潛水溺斃｜36歲男遺年幼子女 遺孀奔波辦後事﹕失去了所愛的人	https://news.google.com/rss/articles/CBMijgNBVV95cUxOWG5Zand2dVhGU3R3NjZZVVhHclBLWDdOaUp5SE05aV9DQ1pLTGk4Vi1KOEg2Z1N5RURQTldseFpfXzFDVTd2VlpZVlVkTVdUaHQyUzJtbEVaWFF2dGtuTlhQWHZpanRXbVdRUU1Na1FHNm8xdlJLYWM1eDRGY2FnbEV1cVU4SnlkZHBTSXcwaWpuWTNtT3d4QndmT2kwZ1dUbDY4eDRLRUJNYTBRLWlMR29VMFBWV1pUQ1VyZGtuZVhWMmVULXFSUGJFdy1IV3BzOWJEcDZiUkpLYkVkRFpVcjVtR1QxbzZOSnc4dkxQRm1IZDFlS2F4V0d5TzU5MHhsQ0N5VE5kQXNzUHg2UWIzR2tKM05rX0o1dWpNVzlKbXBBSkt4c1J2M1ZRaUNEaVJCS0ppeGViWnpsS2dHdno5M0lsdldQRlFUQmFRS2pKV1JqYnJERXpqbjE1LXFlNXZ0eTlVNEV2Q2pWQzB3UFdqRkJ5V1FWMUdVbFBPcHRXbUtpZjZuamI2VE1sS0pMQQ?oc=5	未分類
 2020-09-18	大缺水！主要水庫水量不足5成 17年前旱災噩夢恐重演	https://www.setn.com/news/816611	未分類
-2020-09-01	屍體上無致命傷勢 法醫推論陳彥霖為溺斃	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFdwTGZGOWF1TmlnOXpEVDFzYjFkWDltamwyWHlydS02SmhITkFWTVJsQjE4YXoya2xINDNIYTZjV19idlNXM2pBX25VRlp4UnlGS2FCVTRJSnRBZ2hCRFE2a2lpd0VIaXBnVnkta2VfakNSOW1renlZUmdDX0ZkU2J0OTdBcVI1VFFv?oc=5	未分類
-2020-09-01	【陳彥霖死因研訊】法醫未能確定死因不排除以溺斃結案 馬宣立明以專家證人出庭	https://news.google.com/rss/articles/CBMi7wNBVV95cUxQekM1azRIblJrOTNWUUlORWxXZnBNUlY3bUptYU9jUFFDVHNDMF8tazN0M0RSbGRGVnFndW1iRHo2THJ3RzNhclRweWVmMmZJWlpoVkRDcmk4VlBVV3dkc0ZDQjhVUXlveDBZNWgxWXduX194SElULWFzM2hxbG9NY3NtTUN3d1ZhNkdBZWxwdWRQY3dwemJ5Sy1ZM0c2T2VLYXY3MEJ3SXUtbHNOU05xUlRSbTBpZjZJamN4UTFuSjRmSm9BcHlvYktMOV9QNTZsZWFzX0RwbFpjdEJGdXd2M1dmTTRCTlNqaWV4YVBKdmVERzNsSTRMdGVnSllLQ0Y4akxxUWc0WjZjTXZCdGVyUUxFLWF6c3hnNVN2TTdOMkZQd21fbVRKT3Fkajd3Nk00NzNZcDdDNmo0SXUtSFBHUVl2OFQxQV9vdXY5M1F0SkdxU3BWU3dtTXd3cXVldmU4Z2RzcHNfcW9maFdlallFVTl0cEZ4VU1hY1V2TU9tS252V2JnUExiTEl5NHFiVGFfLXl5U0V3NnM4TkhxdWZET2RNakt0cFRBdzdrSXFETGRlMjJNSkFpLU9uNHRzd3lVN2VvTDY0Y0d5ZFhIeDJkWTB4OFJHcHRDWmpIMjlTcjg5OWxiMm5pVHcxc1ZZQjA?oc=5	未分類
-2020-08-30	馬公觀音亭黑T牛仔褲男溺斃 身分不明	https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LQmx1LUZocWlnUENBV0x2dlpIeGptb3lWQklqSXRMUFpjS21EU2ppNllqUWdEZW0wbUt2TlJiTjRLMmJHZlUzdTByYk5HWFNwMmNzdnI4dS16M0kzNmVRYzVNcW5lZDVn0gFuQVVfeXFMUFE4M2RsbEo5QTMzWDFWMXF6RXlnQTdkYU40X25TeDdfRjMzYVNYMjJ2U3hjbFA4RUVBb0N4bTFaZ2JxS3B3aVpFeTFvZmhDSDRMV1VMOGlMckNlTVlaTTNEdS1vOGhMX052MWJyREE?oc=5	未分類
-2020-08-06	桃園大園16歲少年外出 疑掉落水溝溺斃	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdTFybFFPbFZITll1dDlIcW5NS0VMN3pvUEFVd2Q0X01BQ0lFTUJCS3ROeFk5Nnh1U2pvUkVUUV9qSjk3NWg0Vnc5Tkc4TjAzbzlYWmxYcllSUV9fOGhkaHkzQk9IMVl10gFuQVVfeXFMTjBKQzNKTHlVUjYwR0VOMVRNcG1kcjdIamNsSlFPZC1WT2FOWlNsdEt3X2lhUXpvSEpxdUM0cmFWQzNFeHI1QXF6aWkxczFqenZ5TnlhN2JleVhQMl9ld3pKVmVCOWtaamlObklwZGc?oc=5	未分類
-2020-06-16	鋼管舞導師衝浪溺斃 家屬哀傷認屍	https://news.google.com/rss/articles/CBMilAJBVV95cUxPUExpamlvY1M2dGdlOVJ3bXNubnFzdElyTTdwczlCMzBReXdJNEtsdzZBWkk5SlR1Q0VjRDVaek9fOGhna0FVME94dngwN3pvNW5HRjRxRXhrNzdFcnFZcEk4eEM4SDJ3UHI5SkptU0VJWnYxbXlucl9sQnkwb3htU2VTelBLTmJRZFBIWHZkaUtXc2JhTjdjYldubURhNS10OUU1UmRpR3B4cml1aG5uTzc1S3M2NHJMR1ZRVTFPUGdVdGtDTUdZR1JQWEp6bG1COGRaNnBRYk9DbTlvRXZZSllWWGUwcDdkODRncFhLYUhnRl9uZllxY01ua0lZanlrSjlvdGRVZGdvY3JiYkczVDE3Mjg?oc=5	未分類
-2020-06-10	深水灣泳灘男泳客遇溺昏迷送院	https://news.google.com/rss/articles/CBMiYkFVX3lxTE91aDZldmFLZG9UTHh1SzdkT0I4S2R6Ujk3SWNqOEpVblZhcDMwUjNYWC0zaVRMVzJ4UndmbVoyRm9LQzM5M1FfS1E2YjdZR0dLSDc5NnZOc3l6V1ZYaDg3TWJn?oc=5	未分類
 2020-05-31	27歲女子西貢橋咀島浮潛遇溺 送院治療後回復清醒	https://news.tvb.com/en/925447-27歲女子西貢橋咀島浮潛遇溺送院治療後回復清醒	未分類
-2020-04-19	深水灣泳灘一名男泳客遇溺昏迷	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJaXB3UXlBUmNTWkpsUkljZVpteEw4Y3kzMjVaMGFPaWVPV0dQYUVJX2ExcGlXem05Nm9ncy1HY0hZRWJzQ0RtQ0JuV1dmczFaaHRxUUFnU0RhbHFfMURnMEl3?oc=5	未分類
 2020-03-22	快訊／台東出遊住飯店 7歲兒泳池溺水命危	https://www.setn.com/news/712235	未分類
 2019-12-27	兒時泳池溺水留陰影！許光漢不敢洗冷水澡⋯柯佳嬿趕來惜惜	https://www.setn.com/news/661508	未分類
-2019-12-22	香港連傳2男浮屍「膠帶封口、腳綁啞鈴」 警稱無可疑	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CUlNpZGxZb0FKQ1JWNnotY3hmeVNZOFpxMTJER3drZWdxOFc4ckJnS0llNHktc05jYmkwUzBkWVhFdHlhcWhwOEJsUlhMVDBMUHVTS2JDYkozNWtxbUlCVlMwendkQdIBa0FVX3lxTE1Ba2RRTmFldjg4bWZRUkZ6RWhEUkJoUmR2ZFdTMHR3SzdqS1htdHplSXlmY2VzUUlsYU53X1hjRzhDMUZIZVBIdkw1M0dIWk1hdmVFV3ltOXhnSWpodFhycmlaMnBpbTc1VGFv?oc=5	未分類
-2019-12-22	香港浮屍暴增 膠帶封口腳綁啞鈴 警均稱無可疑	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oUVliRGFQUGhBajFmdUFYSERUV0h3alQ5UkUzMnJGR1BUQ2Y2SnFidTZiUm1CNDJqaEFWQlNTT2Zid3VIbzlkQVNmTGgyX1ZjSWJDY0J0TWxzYnVOV3lzZNIBZkFVX3lxTE9XUEJQY01xSVZjN0M1NFdZZk5FZE1ILTBuYmI5T3dDOXlXWXVBbXhJQXVpOTBBVGxZNGlIVUtXS0pfZWFUZnRVcjF6azRrU3pGUDVLSllVeU40cE1PM3BrQ2tESzlrUQ?oc=5	未分類
-2019-12-22	青年溺亡 一日兩宗	https://news.google.com/rss/articles/CBMibEFVX3lxTE1kZVg5ZmF2YjR2SXNTOXdIWlFfczhGaVN2SkN6VERaSU1NTUFhNzg4T3VybWNyMFlBdU9MVFhCOF83VU9LZVZqWnpPYkJiOUd4Xzk5TzdRR2NYZUczaEl0SFlPWUhlU1JOV2RjYQ?oc=5	未分類
-2019-12-20	香港海面驚現黑衣浮屍：雙腳綁啞鈴	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MNWdRX2FXaTJ3TUNrWVFoaWstb0lUb2hJRkI3SklGX2ZXLUxodXh5TGI2a1ZwWHB5eExXaEh2R3FEY0ZaY3NiT2pJUUNHa3JMdFZQd2dMckJZR3hFY0U1cdIBZkFVX3lxTE5pV3NPWWVvZ19fYjM0ZHNNc2FaM3dQWU9rbmYwRFMtdDM0TTUyZkFDV2E3Y3owU0c0TVBIUV93d0xtVnVfRGJPTUFxYW1ScHFiaDViV2VGZHB4dnM5RVBmVzRBY2pSQQ?oc=5	未分類
-2019-11-28	【有片】嬉水遇溺岸邊苦苦掙扎 旁人拍片不施救19歲仔遇溺亡	https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OajU3dXBFcHhDNnlsY183WUh3WGxrMGJkSndSN0Jac3lXQU1teEZSei11bzFrWmVlRTg5bzBSUGxteFJXOVJDRjVOU2dKMkd3czlCaw?oc=5	未分類
-2019-10-11	【警方記者會】15歲女浮屍油塘 警：CCTV拍得她赤腳步向海濱公園	https://news.google.com/rss/articles/CBMi-wJBVV95cUxQMVgwNGQxekZrSjk5VnRlaW56SlRiQmxGVlhOYVVKbkJvdUdnb2NSYU8yWURYLVF4RU93THBrN21BV25mSHpKSWItMjlvZGtCUlZWWWo0UkhHenIyTE9KR1d4NTQxMVlVNlEzYXpmUEFmcUdybGprQktIQklDdVFYX2hkN1JJbF91OWpmSVBYMlRubEdvNXE2X25oRGxZb3JxcVR1c3ZqR0N3WGVWYTBiSWhXYjJvMHBQc0h6dlVQZ2JVSTZTNEowdjdXaTM1aTBvRlcwb01oNjJnaG9FLWFiUE1nTWU1QTZ0aVpjZTNDZzd6bmNZWW9vM2FoR1Fzc2tpSW5hc2kydnVhclU3LXR0RFY5YnVLenpwMzFZLTNhUU9STm9XVWJzUjZjaFRReGhCUFBnSTBYMTlrWFpLaFU1aEVDampqbkxZZlU5YUt4QW80UW9FRUdlbGswdFNuUEd0OXVMUVBHdG9yQkdvd3NGQlRTY3R3UXFJQ1NZ?oc=5	未分類
-2019-10-11	15歲泳將變全裸女浮屍 生前是反送中示威者	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tcllVU2RqVmxiQWtFVUU4U1BDMXBqekNrQ212c3dBT0dab3R3cVd5dEU4UVlNbkEyUXRCdjF3b25pU0pDa2Q5bFk4ZnJrYWFDQTVxZm1LcDBJYUlRdjF1UdIBZkFVX3lxTE5sdWFqa1Z4WmdYdFRTbk5PbWV2VXltR1V0YXNJM1cyR3JhaHJHYWplWV9yMGM3VmxHcEx1dWJhYXZoenpzQ3ZDRjAwTnpCSUNkWHJzVEQzbUsxVGlaNmdaS2l3Tmw1Zw?oc=5	未分類
-2019-08-28	港男西班牙度假溺斃 入境處助家屬善後	https://news.google.com/rss/articles/CBMirAJBVV95cUxORHE4c2ZMXzFHWUxOV1JkcGx5SzN3MzVLME4xNWcxQzNyY1A5d0doQUNCUXlpZ2FNcFF2bHo3UXBGSWVTc1cxZzdPSkFzOGt2dUp5cVZlSXltYlZ1d3dFdHg3eEdjd3A4NDk2OXBDRnk2dXNxWXczUVV5S0pNblNIS2NXRWhUZ1ItVFRLWnpyaVVDSzdRME1yTjRmV1l5ZWwzcUlzanppSTl5TjQwYU9pMHNVRnRDb3RMTXZLR09sQ1dJVDF3SFNyX1lvelo0REFOUU1QbEhSZnRsRzJSMUtLa1FtWlV6UWs1aFJRa0lnZE5FVFdyRUlodEJQaWhGemJoX2tIbG95ckgzTUdDMUNtVVhmXzdyVXhtcXVvZ2Qwb2t1N0JFTmhZb3lBV20?oc=5	未分類
-2019-07-25	夜潛泥啜腳捉蟹男溺斃	https://news.google.com/rss/articles/CBMijgFBVV95cUxOV1dwVzlSVDZQN0NGNDd4Z2NaN1FLWEV0aUhuSDlBRW1ZQVo4dUFyTWkxeXhkTDVwUUV1c3J1dVNfa1luSm9JOGRxT0w2SENIV2lIRFFTU3BHSVloT05yTlI5QUhCNzNiMkJSZjk2enlTekpGOG1qR2w3djRVWkp4TURRNzVaMFpGYnZYRTlR?oc=5	未分類
-2019-07-10	【DSE生溺斃】應屆考生放榜前夕溺斃 青中師生擬製相冊慰家人	https://news.google.com/rss/articles/CBMiggNBVV95cUxNM1c2bUtFRVBESHA2ZTdJd2RrRGItRVk3M0RuS1VFUTZiZm5VX1RuVkJ2dDRzRTcxMHRweU1KTThWZ2VnNGtvZV9odmM0QkZKM1dHLUxZMVdZYnR0MURnRjVZb08wRS1lbzRqdmFENGxhdjd2Um1VbWNyVXNaTDVWckhIdEo5bGdidUlseTV2SExiOWVOdm03Tkg2c2FzdzktdXdLNmFqM0NkcnJ6ejZkNGF2elY0ZGxaYjdSNS1rUFZjTkRJYS1Sampmd3ZFcktSRmY3bkx0QURrWmM5UHplWHk5VDhWRkdnRDh3MDNqYy14d1JleEhxZndPeFY1aGZzRFR0VUNXQ1cyZGlhOFRsZloyVjBYYW91Zlg3dksyUVBWanFtbFhNM0g3bGhNUjVIaTl5d2VBRXItSnJfbWQ5UzhHd2VQdE9CWndQRWdkSUtac0RkU1QtYmw5UmROZGhoaS14ajJKQ3lhTkx2MUFIR29rYjkyS1JVQzRLOW1RUU82UQ?oc=5	未分類
-2019-07-10	【DSE放榜】溺斃考生母姐代領成績單 悲歎:點解唔等埋個好消息？	https://news.google.com/rss/articles/CBMi-wJBVV95cUxQWXpqTG9tY0FRWkF6bFVPNFpFNklRcGdvMjh5cnRDc2x6V2FZeTlPeUJiNkl6aTRMRzdNX1pWYzBUSlZ3NTRxYWVtOXFqeVBRNDdpUFc3VDRxZjhwTnAwQjBYNzNBcmhhTUtWYVZBX3RReUsxOFFGYnVfQnNTUGFjcnFPNVV3Y1BYajB0LTVRQzVKUGc2bFhrQTMybjRwY0RfRGRkT0IzVEU4M3UxYUtVaC1icW5mV09TT1Frb3A3SXg3NlIybHowbHR1aTJSX29LS0NBTDRMSkhTOEV3elN4OEVLUUJweEtvVnl2MFIzbWI3Vklfei1KU3hubWdpM1dfQVVrWHotT2d1eGtWMnIxZDNKbEF2dFA2bkRubnZzYWgtRWVwTmp6WUZrYkZPV1ZxaFhkUjQ0MWpvLWx1VE1sOFc0UGprbkFjWE9lVExfM25ySFNILVlfMGROaVlrWXluV3h4ZnpGZTAzbW1PYkxUaFpZSWtPUmRWR0hF?oc=5	未分類
-2019-07-10	【DSE2019】放榜前遇溺亡陳浩霆考獲20分 母嘆未能自己拎成績	https://news.google.com/rss/articles/CBMi-wJBVV95cUxPU21XYl9RQ3BlYVNjSkNXdUlSVEdpc3l0R3A2bXQ4anY2WkpldmJLMmhZY3dmdjZvOEd1ZlZXSXB2cm54LXNqdUNWOFhBUWgwU3I4OHF0dnpua3JQS0dnZnJRaUpGWnRnYW9uMjdjRzl6aHNnQ1Q2enVjRGxUM2Q1SUdsalFmOUp1aTVDeTdaWGlzV245NGpGc3pldUl3bzQ5Nnh1bjhEekdLYVlZYlA4cGxJdjFLRng2aThjWTBFWHZ0a0hpZ01FdjVmWG00dlkzSzVGeThyUUp3WHpJbHJPeFFvM01Bams3dHZ6MUxESU9SclVMWjlFcTJZR2t4WXlNd0NzQi1EUko3UU5tZ1FMem81dVVteldoeG1fcE43OExyWHlMZllNMWx5OFRZMmVQekRYb1hiVHpkbENKRDZDczlxdU1vMTFHT1RnX09Idk5NVXpjOWdla1BobjBGYXVheWJBVGVRcGQxLXMxeFFDUVdLZmdyZXJaMWw0?oc=5	未分類
-2019-07-09	男童漁排溺斃 姊批主辦方失職	https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOUnRIMlN3Q1RMZWs4czFBZ1p6QlBxblNrV2RXcmlENUtuRF9xTHB4VDk4VE9hckVLR1ZveEJhYjV4YmQ2Zm55dHJxLXl1S2lhUEs4OEc2UmdSa3FlaVVqYmZpRQ?oc=5	未分類
-2019-06-19	印度魔術師綁全身沉恆河 水中逃脫失敗慘變漂流浮屍	https://news.google.com/rss/articles/CBMiiANBVV95cUxPTV9hczV2U3EtdUVnRk56MW5fTGFDdkV3clR4MXZvbzZ2WElPMEtPajNuamlVVEhibkdnUk96TndBMkV1ODhiUEVpMk5tcGNoM1Nkal9jUXRhS19oZGltejZsa2lxSkt6bjZCTk1JTkpwYm5GTl9hS3YwdHFDT0hSUG9VbG1KS1hITjFGVWNqNDc4elVuYVdGQmZCTURXZDlqZld0RjZ0REZoLXFXeXlNWVlDRU1FdjlpS0s3YVl4QzZfZEs3Wlpxd0pBdkxsUnNnMEI3alg4V0dCVG9CZXBBUEhCZ2NBaTRmT2NOSk1EUGQ1RDN4cmR6bHUxdkl0MHBWZnpSRjNRckpGU3dEWXI3NHp1LUtrSWVhaFJxa25fOGVwN2hPWmNvSFlfMWxaTzdWTEdsRzVkZTFXOVpuaU82VUluX0RtT1VVTFBDQ3VyWDlPV0xSM2JIYVdtQ1pxcmVSVmhua3VLdGc2SDFfUmJpZjBKemttZm40Tl90bzFnQTdvQlJUS2RJag?oc=5	未分類
 2019-06-06	四旬漢泳池溺斃案裁定死於意外 裁判官促康文署確保人手	https://news.tvb.com/en/959732-四旬漢泳池溺斃案裁定死於意外裁判官促康文署確保人手	未分類
-2019-06-06	四旬漢公眾泳池溺斃 死因庭裁定死於意外	https://news.google.com/rss/articles/CBMingJBVV95cUxQU0NYeEJQNU45ekhUb2lTZzJXV2F4OW1oVDRGWUctQno0dHh3cENMcGl0Wk5uc0U0Z3FJdEMzUmFVQU1IZmVWVndxU1k3QUZ3Mk1LRmQ3OF96aVdkQnprcXFtUFktZlNxSy1XdmYtQXZsWmtZY0swYXp3MVBQVGZGU0lsUVdNNHVNTE9HQzZSOElPV2YxV3RfTXBVYmhWMzBSdG9ZcjNyQVM5bVFvdVV2YVI2UlVZTkNhejRXUm80V3JDVFZVWEVILTZfM1BhVy1ocUNCcW9PNmE4NklFTVFzdmRmeXNZMndHakp4OWtRblVMYXZ2N25wVzJ2Y3RQdUdfLVJmdzdFT0V0Mkh0RUdOTDR2MmNSVnZJM0dJWWhB?oc=5	未分類
-2019-06-05	【泳客溺斃】康文署認救生員無通知上司屬不理想 死因庭明午裁決	https://news.google.com/rss/articles/CBMimwNBVV95cUxNdVRIWVpHRFBuRkdxZm53enZkTG44VGUzMndkSTJmN3VhTlYxQUlSN0NvdUZTd2lXSUd4aTN5Nl9CcXVJNC1OTU5pWmlocWJBN2lobEF2R0hwbm5iMWtFbkVVTnZoWE95SkQzb1BZQzFVZkd2TlIzbnV2SGpmWXNTbHY1b2VNaU0tcjhBdzY2Q1c0UEF3aFFQZ0huenJBdXZ0YkpheVk4am1GSWJmOWFRcDVzaVd0aGRRdGhqTVVNdHJJdVV0T0lhbVRPa05ObHVfXzZZSTJleENuRS1pSkNGR3ZCLTFhZTdjWDBVMUVIMVhrbXlHR19VdUFIckJOX0FBbDNnZkpGZkd4am9YNTllTTE5NWgxV3RwTHAtVUFKelBXbS1FMEswVl9vOXVhTlNESEx6b2Y2RnZUVF9nelVSdEZIR0xPckNZRUNLSllVN1p5ZmZUWFFkbVo1elFsT1k2T3dRaGFORHNMa2lKa21KNkwtSmx2VVFtQ0dKVkdQSGtkN0FkNmt6VVZHanNUZlpjMUl4dmtuREkyeUk?oc=5	未分類
-2019-06-03	泳客泳池溺斃 遺孀死因庭上斥救生員擅離職守	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTFJtb0NRS0JUaFJRZUFiMkJKLV9hdm9mdUVYa1JGUVppMURWRThTYy0xa2hpTUlGVEJuenFvMGpNMVk2QTkycG54ZlRnYjl5U0dyUnpndUx1RGRnM2F2Nks1blBRX0VJeDF6aktQZERvV2xTd2kwSVZuS0FHTl96YmZTa3FUZ0pORS1V?oc=5	未分類
-2019-05-28	夜潛捉蟹 青年溺斃三門仔	https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2dOSGhPSkRCOTN3VkE5VWdLTFkzajMwOTI2MEItWkhsa2NqQ1B4Sk9PTlB2LWhhdUk5eXpCcVNxMVFNSEp4MnJidFU3U0dzRlR5djVaQmZ0OVRBRFRwdEprRTByZWZSX1IzODhUNXhZb2JSRWg4XzVUd0IwbVV0bXVRT2JHakFkVTNkeVFB?oc=5	未分類
-2019-05-18	【奪命獨木舟】羅國勤遇溺重組 救艇殿後 求救一小時團友始報警	https://news.google.com/rss/articles/CBMilwNBVV95cUxPVmJNSV9QWXYyX2R4N3JYLS1venNCWnQ5NU1kc0c5bnhlc01ENnR5V2daYi1XdEJGX1hKbzFoTHByRTl4eFoyblhQSWlPeFdycE9TV2RLQjRsWEI5MGRHWTJYenpvQnY4VTBDbDRlLVNEdjA4WjRPSjlidFlIY1VwU2pJMjlGd0d2ZnZpOVlDaU1rUW5uMGx2ZDJpNkRKMnh0M1NJTi1nQXUweWt1SVFoRHhWaEJXQlRTczIyVzdhaVVEbEJGNXh3RHdhakFoQXJ1b3VfMlhPNmYyWVF1SmxvRmxmUG5hUEZ4ZnFNNHdGTlR0RHJtZDYyWGZxSWpXMXhHVWdMQzRCSUFmbzhnWjl6ajBGLWlWN0p2U0lROVBLdkJYeEowZVJteG1NdnlseFB3UlEybW1UR0ttQVA0WGY2aWhBRG84TGNJd1N3c0hwZmxMdnlMclJDVS1tdlU1UFRDRG14eTRocy1yYlVzZEcwTVluN2VLVDRyNy1XZXotQU5JZG1wUUZQSWVMM2lJOVp3ek9ydDFNZw?oc=5	未分類
-2019-01-07	夜潛打魚 胖漢溺斃	https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZWHBVSFd1OTFTWi1SMVFnRWR4ZEgxZjUzSUhINmlmWWNEVEw1QmNTbDhfd0NhMW5faW5xNDV3MEZRMFhXaWxvcFBLS2xXOTM5czJXQnZsMHdaOEFybV9QajdRRQ?oc=5	未分類
 2018-11-03	《愛玩客》女星水上跳床反彈 落水後嚇到短暫昏厥	https://star.ettoday.net/news/1297389	未分類
 2017-06-11	正妹護理師墾丁衝浪 熱心CPR搶回溺水者心跳	https://news.ltn.com.tw/news/society/breakingnews/2096915	未分類
 2017-06-10	影／5歲男童泳池溺水掙扎周圍多人竟無察覺| 國際	https://www.setn.com/news/261117	未分類
