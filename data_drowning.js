@@ -1,4 +1,4 @@
-// 遇溺 | 由 build_news_js.py 生成 | 共 809 條
+// 遇溺 | 由 build_news_js.py 生成 | 共 802 條
 var DATA_DROWNING = `
 2026-09-26	西貢黃石碼頭發生墮海意外 一名男子遇溺昏迷送院	https://www.singtaousa.com/2026/09/26/news/china/man-falls-into-sea-sai-kung/	未分類
 2026-09-26	西貢黃石碼頭男子墮海遇溺 昏迷送院搶救	https://www.singtao.ca/7638680/2026-09-26/news-%E8%A5%BF%E8%B2%A2%E9%BB%83%E7%9F%B3%E7%A2%BC%E9%A0%AD%E7%94%B7%E5%AD%90%E5%A2%AE%E6%B5%B7%E9%81%87%E6%BA%BA+%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91/	未分類
@@ -12,7 +12,6 @@ var DATA_DROWNING = `
 2026-09-23	维园泳池女子遇溺一度昏迷送院救治｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260923/bkn-20260923074844651-0923_00822_001_cn.html	未分類
 2026-09-23	維園泳池女泳客疑遇溺 獲救送院治理	https://www.hk01.com/突發/60392799/維園泳池女泳客疑遇溺-獲救送院治理	未分類
 2026-09-23	維園泳池女子遇溺 一度昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260923/bkn-20260923074844651-0923_00822_001.html	未分類
-2026-09-23	維園泳池六旬女泳客疑遇溺 獲救生員救起送院	https://www.am730.com.hk/article/1054663	未分類
 2026-09-21	马国柔甲森三州人工降雨驱散烟霾 确保水坝供水稳定	https://www.zaobao.com.sg/news/sea/story20260921-9710782	未分類
 2026-09-21	奮不顧身跳河救出遇溺父女 女子獲頒英勇獎章	https://www.singtao.ca/7633212/2026-09-21/news-奮不顧身跳河救出遇溺父女 女子獲頒英勇獎章/	未分類
 2026-09-18	屯门蝴蝶湾泳滩六旬男泳客疑遇溺 昏迷送院抢救	https://global.hk01.com/突发/60391406/屯门蝴蝶湾泳滩六旬男泳客疑遇溺-昏迷送院抢救	未分類
@@ -43,14 +42,11 @@ var DATA_DROWNING = `
 2026-09-03	中国留学生意大利溺亡：距岸边仅约5米，当地出动潜水专业人员乘直升机赶赴现场	https://news.ifeng.com/c/8w7BpJMdXby	未分類
 2026-09-03	【少年结伴戏水遇溺】搜救队寻获第二具遗体 16岁少年塔奇夫证实罹难	https://www.orientaldaily.com.my/news/society/2026/09/03/845237	未分類
 2026-09-02	火炭屋苑七旬婦遇溺亡 消息指死者為全球大型社交媒體高層	https://hk.on.cc/hk/bkn/cnt/news/20260902/bkn-20260902000054403-0902_00822_001.html	未分類
-2026-09-02	火炭屋苑七旬婦遇溺亡 她為公益廣告女王倫潔瑩	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlc1azJqVkhnTmlIQUhXS2duZlRuNlJuYlBjaHF4Y0JhN21YWHAtZFVHZlVXd0lRMXFkRkRNZ3RIMnllaTg0TTUtTmtyMlhYTnk1aF8zLWZ5UHNIQmhOR0swZjAwUXI1Nm5JbDA3dWRZRy0zd2tSNlRrZms1dUVOQ3VaNVVjSGU3dVRZ?oc=5	未分類
 2026-09-02	火炭屋苑七旬妇遇溺亡消息指死者为全球大型社交媒体高层｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260902/bkn-20260902000054403-0902_00822_001_cn.html?refer=hn2	未分類
 2026-09-02	戏水遇溺 2少年获救 4人仍失踪	https://www.orientaldaily.com.my/news/society/2026/09/02/844870	未分類
 2026-09-02	71歲廣告巨擘豪宅泳池溺水亡！曾任FB高層	https://www.mirrormedia.mg/external/setn_1900605	未分類
 2026-09-01	（有片）火炭麗峰花園遇溺意外女死者為全球大型社交媒體高層- 香港	https://www.wenweipo.com/a/202609/01/AP6a965575e4b0c1e50027109d.html	未分類
-2026-09-01	（有片）火炭麗峰花園遇溺意外 女死者為全球大型社交媒體高層	https://news.google.com/rss/articles/CBMid0FVX3lxTFA1ekdzZkdHRTR0V1d6Y2R3R1hhdHVYMy1SVW5IekZTRWM1ZTFSS19ZalA2d044WWd4T3VQSjRob2YxMzdnR1VuRnpFRFZZMFBiWEhCYU53Zy1hY0gycUdRRDBuXzRhYTVlNXV5NnVTQUFQc3BlQ1pj?oc=5	未分類
 2026-09-01	火炭麗峰花園遇溺意外女死者為全球大型社交媒體高層- 港聞	https://www.dotdotnews.com/s/202609/01/AP6a9664b2e4b04b6c5d388187.html	未分類
-2026-09-01	火炭麗峯花園71歲婦游泳遇溺亡 消息：為全球知名社交媒體高層	https://www.hk01.com/突發/60385813/火炭麗峯花園71歲婦游泳遇溺亡-消息-為全球知名社交媒體高層	未分類
 2026-08-31	火炭婦人游泳遇溺 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20260831/bkn-20260831181317328-0831_00822_001.html	未分類
 2026-08-31	海边戏水遇溺 4人被民众救上岸 （哥打丁宜31日讯）父亲趁国庆日假期，带着儿子及侄女到海边戏水，不料4人不慎溺水，所幸民众及时将他们救上岸，4人皆平安。此事于昨日上午时段，在柏呐哇镇SPP露营处...	https://www.chinapress.com.my/20260831/%E6%B5%B7%E8%BE%B9%E6%88%8F%E6%B0%B4%E9%81%87%E6%BA%BA-4%E4%BA%BA%E8%A2%AB%E6%B0%91%E4%BC%97%E6%95%91%E4%B8%8A%E5%B2%B8/	未分類
 2026-08-31	海边戏水遇溺 4人被民众救上岸	https://www.chinapress.com.my/20260831/海边戏水遇溺-4人被民众救上岸/	未分類
@@ -95,7 +91,6 @@ var DATA_DROWNING = `
 2026-08-22	1名男子疑在龍鼓灘對開海面遇溺 搜救行動繼續	https://www.881903.com/news/local/2646244	未分類
 2026-08-20	金鿋花園泳池女子遇溺 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260820/bkn-20260820094425002-0820_00822_001.html	未分類
 2026-08-20	水管突爆裂 清遠21歲水上飛人教練溺斃 死前推開遊客以保護對方	https://www.hk01.com/即時中國/60381825/水管突爆裂-清遠21歲水上飛人教練溺斃-死前推開遊客以保護對方	未分類
-2026-08-20	大圍金禧花園泳池女泳客遇溺 救生員救起 昏迷送院搶救	https://www.hk01.com/突發/60381801/大圍金禧花園泳池女泳客遇溺-救生員救起-昏迷送院搶救	未分類
 2026-08-20	大圍金禧花園泳池女子遇溺 昏迷送院搶救	https://www.hk01.com/突發/60381801/大圍金禧花園泳池女子遇溺-昏迷送院搶救	未分類
 2026-08-20	大圍金禧花園女泳客遇溺 昏迷送院搶救	https://www.stheadline.com/breaking-news/3606287/大圍金禧花園女泳客遇溺-昏迷送院搶救	未分類
 2026-08-20	大围金鿋花园泳池女子遇溺昏迷送院救治｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260820/mobile/bkn-20260820094425002-0820_00822_001_cn.html	未分類
@@ -154,7 +149,6 @@ var DATA_DROWNING = `
 2026-08-03	三項鐵人賽遇溺｜大會指符合條件開賽 設22人救援隊巡視	https://www.wenweipo.com/a/202608/03/AP6a6febcce4b0c1e500235111.html	未分類
 2026-08-03	三項鐵人賽悲劇 退休水警遇溺亡 議員促檢視指引	https://eastweek.stheadline.com/witness/20643/三項鐵人賽悲劇-退休水警遇溺亡-議員促檢視指引	未分類
 2026-08-03	三項鐵人賽6旬漢遇溺亡 主辦方：事發時具開賽條件 安排22 人水上救援	https://www.bastillepost.com/hongkong/article/16492669-三項鐵人賽6旬漢遇溺亡-主辦方：事發時具開賽條	未分類
-2026-08-02	男子三項鐵人賽遇溺 救援人員全力搜救	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VUWdRdjRRdGVlSUtBc1M2WDdwbDVrWnVCUmdIUHZuNWlaMmhldTZiM0U4dVVEa2F0VmZ3cHR5TXRrRkpsaWktck9nNTBxbUVMSzVTN3JUdnlfOC1kNnZtQUxn?oc=5	未分類
 2026-08-02	大美督三鐵賽遇溺｜雷雄德料黃雨非主因不排除心臟出事- 港聞	https://www.dotdotnews.com/a/202608/02/AP6a6f5d44e4b04b6c5d358469.html	未分類
 2026-08-02	大美督三鐵賽溺亡男為退休水警生前熱愛運動持拯溺牌照- 港聞	https://www.dotdotnews.com/a/202608/02/AP6a6f29c0e4b04b6c5d35805c.html	未分類
 2026-07-31	美俄亥俄州郊遊悲劇兩對夫婦跳河救遇溺友全同滅頂遺2孤雛| 生活熱話	https://www.ohpama.com/1038658/生活熱話/生活熱話/美俄亥俄州-郊遊悲劇-兩對夫婦跳河救-遇溺友全同/	未分類
@@ -272,7 +266,6 @@ var DATA_DROWNING = `
 2026-06-19	端午節｜屯門青山灣泳灘五旬漢游龍舟水遇溺 昏迷送院搶救	https://hk.news.yahoo.com/端午節-屯門青山灣泳灘五旬漢游龍舟水遇溺-昏迷送院搶救-101017259.html	未分類
 2026-06-19	端午節｜屯門青山灣泳灘中年漢游龍舟水遇溺 昏迷送院搶救	https://www.singtao.ca/7540710/2026-06-19/news-端午節｜屯門青山灣泳灘中年漢游龍舟水遇溺+送院搶救後不治/	未分類
 2026-06-19	有片｜青山灣泳灘男子疑游龍舟水遇溺亡 消防拯救岸邊心外壓	https://www.hk01.com/突發/60362035/有片-青山灣泳灘男子疑游龍舟水遇溺亡-消防拯救岸邊心外壓	未分類
-2026-06-19	屯門青山灣泳灘男子疑遇溺 昏迷送院治理	https://news.rthk.hk/rthk/ch/component/k2/1859194-20260619.htm	未分類
 2026-06-19	屯門青山灣泳灘有男子遇溺 昏迷送院	https://hkcd.com/hkcdweb/content/2026/06/19/content_8760850.html	未分類
 2026-06-19	宏福苑對出海面辦龍舟賽 市民「你知我知」形容心情 主辦方料萬人觀賞 (17:34) - 20260619 - 港聞	https://news.mingpao.com/ins/港聞/article/20260619/s00001/1781861188707/宏福苑對出海面辦龍舟賽-市民「你知我知」形容心情-主辦方料萬人觀賞	未分類
 2026-06-18	陸媒揭公務員陪領導釣魚溺亡 醜聞遭全網下架	https://vct.news/news/陸媒揭公務員陪領導釣魚溺亡-醜聞遭全網下架	未分類
