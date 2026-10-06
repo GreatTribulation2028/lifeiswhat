@@ -1,4 +1,4 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3302 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3297 條
 var DATA_SUICIDE = `
 2026-10-02	秀茂坪男子墮樓 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/2026033/bkn-20260303084545379-0303_00822_001.html	未分類
 2026-10-02	油塘29歲仔寓所內燒炭 母親發現惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20221028/bkn-20221028105001266-1028_00822_001.html	未分類
@@ -31,7 +31,6 @@ var DATA_SUICIDE = `
 2026-09-24	珍惜生命｜八旬翁留遺書失蹤3周 衛奕信徑尋獲遺體	https://www.am730.com.hk/本地/1054895/珍惜生命-八旬翁留遺書失蹤3周-衛奕信徑尋獲遺體	未分類
 2026-09-24	珍惜生命│慈雲山中心男子報稱欲墮樓 母親報警救一命	https://www.singtao.ca/7637422/2026-09-24/news-珍惜生命│慈雲山中心男子報稱欲墮樓+母親報警救一命/	未分類
 2026-09-24	涉侵犯4名未成年女童 其中1名女童自殺令事件曝光 22歲大專生認罪候判 (14:20) - 20260924 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260924/s00001/1790230215355/%E6%B6%89%E4%BE%B5%E7%8A%AF4%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E7%AB%A5-%E5%85%B6%E4%B8%AD1%E5%90%8D%E5%A5%B3%E7%AB%A5%E8%87%AA%E6%AE%BA%E4%BB%A4%E4%BA%8B%E4%BB%B6%E6%9B%9D%E5%85%89-22%E6%AD%B2%E5%A4%A7%E5%B0%88%E7%94%9F%E8%AA%8D%E7%BD%AA%E5%80%99%E5%88%A4	未分類
-2026-09-24	法媒：美軍證實林肯號打擊群8人企圖自殺	https://news.google.com/rss/articles/CBMia0FVX3lxTFA4bEd4emF1VnMtMERvTzJfbE1kbDd2eV9pT1RVeGhMa2l1NWMyYkpWX3FoZ0dITVM4MzZLMVJWT1FqN3Yzb3diZ2Y0blo3dlI5cDdTaHBEcEFNTmw5UU4wb2w5NUo0dGZDNHIw?oc=5	未分類
 2026-09-24	林肯號超長部署對伊朗作戰期間 8水兵自殺未遂	https://hk.on.cc/hk/bkn/cnt/intnews/20260924/bkn-20260924120323344-0924_00992_001.html	未分類
 2026-09-24	林肯號被曝「8起自殺未遂」! 川普、海格塞斯曾斥「假新聞」 海軍意外露餡| 國際	https://newtalk.tw/news/view/2026-09-24/1061756	未分類
 2026-09-24	加拿大華裔協助自殺案判刑聆訊持續 海外死者家屬訴傷痛	https://www.singtao.ca/7637060/2026-09-24/news-加拿大華裔協助自殺案判刑聆訊持續 海外死者家屬訴傷痛/	未分類
@@ -155,7 +154,6 @@ var DATA_SUICIDE = `
 2026-09-10	港大調查顯示去年自殺個案減至976宗 15歲以下男童個案急增至14宗 促媒體網民慎發資訊	https://www.stheadline.com/society/3613706/港大調查顯示去年自殺個案減至976宗-15歲以下男童個案急增至14宗-促媒體網民慎發資訊	未分類
 2026-09-10	港大調查指15歲或以下組別自殺率顯著上升Band 1A學校佔比最高| 獨媒報導	https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E6%B8%AF%E5%A4%A7%E8%AA%BF%E6%9F%A5%E6%8C%8715%E6%AD%B2%E6%88%96%E4%BB%A5%E4%B8%8B%E7%B5%84%E5%88%A5%E8%87%AA%E6%AE%BA%E7%8E%87%E9%A1%AF%E8%91%97%E4%B8%8A%E5%8D%87-band-1a%E5%AD%B8%E6%A0%A1%E4%BD%94%E6%AF%94%E6%9C%80%E9%AB%98	未分類
 2026-09-10	港大研究：去年自殺個案跌 惟青少年自殺率升 葉兆輝籲多關心學生 (16:00) - 20260910 - 港聞	https://news.mingpao.com/ins/港聞/article/20260910/s00001/1789026361092/港大研究-去年自殺個案跌-惟青少年自殺率升-葉兆輝籲多關心學生	未分類
-2026-09-10	港大研究指去年香港自殺率下降 促關注青少年精神健康	https://news.rthk.hk/rthk/ch/component/k2/1869597-20260910.htm	未分類
 2026-09-10	港大指本港整體自殺率下降 但青少年群組有上升	https://www.881903.com/news/amp/local/2649307	未分類
 2026-09-10	昔日「浩劫灣」 灝景灣初代業主捱過沙士嘆當年很多人負資產輕生一街之隔長安邨居民另有睇法︱董建華辭世	https://www.stheadline.com/society/3613737/昔日浩劫灣-灝景灣初代業主捱過沙士-嘆當年很多人負資產輕生-一街之隔長安邨居民另有睇法董建華辭世	未分類
 2026-09-10	15歲或以下自殺率逆勢升 專家促予學生更多空間 籲勿分享自殺資訊	https://www.bastillepost.com/hongkong/article/16739840-15歲或以下自殺率逆勢升-專家促予學生更多空間-籲	未分類
@@ -1172,7 +1170,6 @@ var DATA_SUICIDE = `
 2026-05-09	將軍澳女子燒炭亡 (14:52) - 20260509 - 港聞	https://news.mingpao.com/ins/港聞/article/20260509/s00001/1778310079298/將軍澳女子燒炭亡	未分類
 2026-05-09	ChatGPT 推出防止自殺安全功能 偵測對話風險後通知指定聯絡人	https://unwire.hk/2026/05/09/chatgpt-trusted-contact-openai-safety-feature/ai/	未分類
 2026-05-08	美國紐約：愛潑斯坦遺書終曝光，獄友稱其首次自殺未遂後發現，司法部稱首次見到	https://www.singtaousa.com/2026/05/08/news/usa/epstein-cellmate-says-he-found-a-suicide-note-justice-department-says-its-seeing-it-for-first-time/	未分類
-2026-05-08	疑企圖自殺 旺角山東街女子爬窗墮樓 撞傷八旬翁	https://news.google.com/rss/articles/CBMie0FVX3lxTE1kU1NEUXRnbE8yaXBMX1dCS0g5bmd1Tk4tcnFMU0ZOYS1TcmRCa0VrWFBkZ2N6Z2s4Q0Y0OVBWMXlSRDJfYW5MczhOcWhoN0YwczJMRGxnVTVLMlpwQ29RT0lpbTRjeW93YldCZEM0NlV3Q1JEbG5Lb1NqZw?oc=5	未分類
 2026-05-08	珍惜生命｜黃大仙翠竹花園29歲男子燒炭 母親揭發惜返魂無術	https://www.stheadline.com/breaking-news/3570143/珍惜生命黃大仙翠竹花園29歲男子燒炭-母親揭發惜返魂無術	未分類
 2026-05-08	珍惜生命｜黃大仙翠竹花園29歲男子燒炭 母親回家揭發惜太遲	https://std.stheadline.com/breaking-news/3570143/珍惜生命黃大仙翠竹花園29歲男子燒炭-母親回家揭發惜太遲	未分類
 2026-05-08	珍惜生命｜薄扶林六旬婦留遺書失蹤 被發現水塘內漂浮 送院不治	https://www.hk01.com/突發/60347864/珍惜生命-薄扶林六旬婦留遺書失蹤-被發現水塘內漂浮-送院不治	未分類
@@ -1675,7 +1672,6 @@ var DATA_SUICIDE = `
 2026-02-25	觀塘警署23歲女督察自轟亡 去年9月出學堂 遺書提工作壓力 (更新) | am730 自殺 與431相似 OK 觀塘警署23歲女督察自轟亡 去年9月出學堂 遺書提工作壓力 (更新) | am730 0.39	https://www.am730.com.hk/article/1013572	未分類
 2026-02-25	觀塘警署 23 歲女警疑吞槍自殺亡 現場照片曝光 上彈區遺大灘血跡被圍封｜Yahoo 自殺 觀塘警署 23 歲女警疑吞槍自殺亡 現場照片曝光 上彈區遺大灘血跡被圍封｜Yahoo 1.00	https://hk.news.yahoo.com/觀塘警署-23-歲女警疑吞槍自殺亡-現場照片曝光-上彈區遺大灘血跡被圍封｜yahoo-020824966.html	未分類
 2026-02-25	義工連接兩宗不負責任棄養 一墮樓一重病均徘徊生死邊緣 自殺 義工連接兩宗不負責任棄養 一墮樓一重病均徘徊生死邊緣 1.00	https://hk.news.yahoo.com/義工連接兩宗不負責任棄養-墮樓-重病均徘徊生死邊緣-092039597.html	未分類
-2026-02-25	珍惜生命｜觀塘警署女督察飲彈自盡	https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wTEhfT1pvQ0VObzRIWFExeGdFaWtHLXBZVmJPQkV4aVlkSGpNdUJwVTNURVRYU2k0Z3FBRUlRR1dDWERsdEV4ZEN1ZVl3c212WWJybzJDOXVYemJjbGNF?oc=5	未分類
 2026-02-25	珍惜生命｜消息稱觀塘警署女督察飲彈自盡 自殺 珍惜生命｜觀塘警署女督察飲彈自盡 0.91	https://hk.epochtimes.com/news/2026-02-25/27172156	未分類
 2026-02-25	新北女童開學日墜樓亡 家長泣：生前疑似與同學不和 OK 新北女童開學日墜樓亡 家長泣：生前疑似與同學不和 - 社會新聞 - PChome Online 新聞 0.71	https://news.pchome.com.tw/society/ctinews/20260225/index-77198615862616309002.html	未分類
 2026-02-25	挪威前首相陷愛潑斯坦案醜聞 外媒：上週自殺未遂住院 情況嚴重 自殺 挪威前首相陷愛潑斯坦案醜聞 外媒：上週自殺未遂住院 情況嚴重 0.93	https://www.hk01.com/即時國際/60325117/挪威前首相陷愛潑斯坦案醜聞-外媒-上週自殺未遂住院-情況嚴重	未分類
@@ -2743,7 +2739,6 @@ var DATA_SUICIDE = `
 2024-06-28	中金30歲女員工疑因降薪墮樓自殺 網傳去年剛貸款買上海千萬房產	https://www.hk01.com/article/1033268?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-06-26	珍惜生命︱元朗朗城滙女子疑尋短暈倒屋內 夫揭發報案送院	https://www.hk01.com/article/1032656?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-05-29	台灣25 歲派出所代理所長飲彈自盡疑情關難過輕生	https://www.orangenews.hk/china/1223500/%E5%8F%B0%E7%81%A325%E6%AD%B2%E6%B4%BE%E5%87%BA%E6%89%80%E4%BB%A3%E7%90%86%E6%89%80%E9%95%B7%E9%A3%B2%E5%BD%88%E8%87%AA%E7%9B%A1--%E7%96%91%E6%83%85%E9%97%9C%E9%9B%A3%E9%81%8E%E8%BC%95%E7%94%9F.shtml	未分類
-2024-05-27	警方舉行「守護學童工作坊」 分享處理學生企圖自殺技巧	https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Zd1FfWXozOW1ISVZvMVItTzdITnhVMGFkdWpUbXBiOEkwV3Rvbk9uNXpmR01yUmNtV1l1aUZCbVd2bWlTbFJmRDdodDRGTkVCck1NRXBGQ3I5bUtpNWc?oc=5	未分類
 2024-04-30	五旬夫婦疑因債務問題 相約車內輕生亡	https://hk.on.cc/hk/bkn/cnt/cnnews/20240430/bkn-20240430050416678-0430_00952_001.html	未分類
 2024-04-16	葵涌財困中年漢燒炭 家人發現惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20240416/bkn-20240416214201675-0416_00822_001.html	未分類
 2024-04-15	污水井泄沼氣 兩工人暈倒墮斃	https://www.hk01.com/article/1010337?utm_source=01articlecopy&utm_medium=referral	未分類
