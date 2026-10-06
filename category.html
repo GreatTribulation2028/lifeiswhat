@@ -126,6 +126,22 @@ details.stats[open] summary::before{content:"▾ "}
 .err{background:#2a0d0d;border:1px solid #f33;color:#faa;padding:14px;border-radius:8px;
   margin-top:14px;font-family:var(--mono);font-size:13px}
 
+/* ★ 月度趨勢：全部月份網格顯示（原本只顯示最後 24 個月，令表睇落錯） */
+.mgrid{display:flex;flex-wrap:wrap;gap:3px;align-items:flex-end;padding:4px 0}
+.mcell{display:flex;flex-direction:column;align-items:center;gap:2px;min-width:26px}
+.mh{font-size:9px;color:#8ab4f8;font-family:var(--mono);line-height:1}
+.mb{width:18px;background:linear-gradient(180deg,#e94560,#8b1a2b);border-radius:2px 2px 0 0;
+  min-height:3px;display:block}
+.ml{font-size:8px;color:#5a6b7d;font-family:var(--mono);line-height:1;white-space:nowrap}
+.mcell:hover .mb{background:linear-gradient(180deg,#ffd166,#e94560)}
+.mnote{font-size:10px;color:#5a6b7d;margin-top:8px;font-family:var(--mono)}
+
+/* ★ 分頁載入按鈕 */
+.more{display:block;width:100%;margin-top:14px;padding:12px;background:#1a2432;
+  border:1px solid #2a3a4a;color:#8ab4f8;font-size:13px;cursor:pointer;
+  border-radius:8px;font-family:var(--mono)}
+.more:hover{background:#22303f;border-color:#3a5a7a;color:#c8e0ff}
+
 @media(max-width:640px){
   .filter{top:132px}
   .item{flex-wrap:wrap}
@@ -300,22 +316,31 @@ function parseData(text){
   out.sort((a,b)=>b.date.localeCompare(a.date)||a.title.localeCompare(b.title));
   return out;
 }
-function loadScript(src){return new Promise((res,rej)=>{
-  const s=document.createElement('script');s.src=src;
-  s.onload=res;s.onerror=rej;document.head.appendChild(s);
+function loadScript(src,ms){return new Promise((res,rej)=>{
+  const s=document.createElement('script');s.src=src;s.async=false;
+  let done=false;
+  const fin=(ok)=>{if(done)return;done=true;
+    s.onload=null;s.onerror=null;
+    ok?res():rej();};
+  // ★ GitHub Pages 404 會等 5-10 秒，唔設 timeout 會卡住畫面
+  const to=setTimeout(()=>fin(false),ms||4000);
+  s.onload=()=>{clearTimeout(to);fin(true);};
+  s.onerror=()=>{clearTimeout(to);fin(false);};
+  document.head.appendChild(s);
 });}
 async function loadAll(){
   const v=localDateStr(new Date()).replace(/-/g,'');
   const winVar=C.varName;
-  const srcs=[`data_${cat}.js?v=${v}`,`Data/data_${cat}.js?v=${v}`,`build_news py/output/data_${cat}.js?v=${v}`,`data_${cat}.js`];
+  // ★ 只試最可能嘅路徑，每個最多等 4 秒，唔好讓 404 卡住畫面
+  const srcs=[`data_${cat}.js?v=${v}`,`Data/data_${cat}.js?v=${v}`,`data_${cat}.js`];
+  let loaded='';
   for(const src of srcs){
-    try{await loadScript(src);}catch(e){continue;}
-    if(window[winVar]&&window[winVar].trim()){
-      all=parseData(window[winVar]);
-      break;
-    }
+    try{await loadScript(src,4000);}catch(e){continue;}
+    if(window[winVar]&&window[winVar].trim()){loaded=src;break;}
   }
-  if(!all.length){
+  if(loaded){
+    all=parseData(window[winVar]);
+  }else{
     document.getElementById('feed').innerHTML=
       '<div class="err">⚠️ 搵唔到資料檔 data_'+cat+'.js<br>請確認已上傳到同一資料夾，或本機預覽時資料放喺 Data\\ 入面。</div>';
     document.getElementById('dateRange').textContent='無資料';
@@ -352,15 +377,20 @@ function buildCards(){
 }
 function buildStats(){
   const mon={};let nodate=0;all.forEach(e=>{if(!e.date){nodate++;return;}const k=e.date.slice(0,7);mon[k]=(mon[k]||0)+1;});
-  const keys=Object.keys(mon).sort().slice(-24);
-  const max=Math.max(...keys.map(k=>mon[k]),1);
-  document.getElementById('monthly').innerHTML=keys.map(k=>
-    `<div class="mbar"><span class="ml">${k}</span>`+
-    `<span class="mt" style="width:${Math.round(mon[k]/max*100)}%"></span>`+
-    `<span class="mv">${mon[k]}</span></div>`).join('')+
-    (nodate?`<div class="mbar"><span class="ml">無日期</span>`+
-    `<span class="mt" style="width:${Math.round(nodate/max*100)}%"></span>`+
-    `<span class="mv">${nodate}</span></div>`:'');
+  // ★ 原本 slice(-24) 只顯示最後 24 個月，令「月度趨勢」睇落錯
+  //   而家顯示全部月份，並用網格排列，方便對照
+  const keys=Object.keys(mon).sort();
+  const max=Math.max(...keys.map(k=>mon[k]),nodate,1);
+  document.getElementById('monthly').innerHTML=
+    '<div class="mgrid">'+keys.map(k=>
+      `<div class="mcell" title="${k}：${mon[k]} 條">`+
+      `<span class="mh">${mon[k]}</span>`+
+      `<span class="mb" style="height:${Math.max(3,Math.round(mon[k]/max*46))}px"></span>`+
+      `<span class="ml">${k.slice(2)}</span></div>`).join('')+
+    (nodate?`<div class="mcell"><span class="mh">${nodate}</span>`+
+      `<span class="mb" style="height:${Math.max(3,Math.round(nodate/max*46))}px"></span>`+
+      `<span class="ml">無日期</span></div>`:'')+'</div>'+
+    `<div class="mnote">全部 ${keys.length} 個月（最高 ${max} 條）</div>`;
   const counts={};all.forEach(e=>counts[subOf(e)]=(counts[subOf(e)]||0)+1);
   document.getElementById('subStats').innerHTML=Object.keys(counts).sort((a,b)=>counts[b]-counts[a])
     .map(s=>`<div class="subrow"><span>${s}</span><b>${counts[s].toLocaleString()}</b></div>`).join('');
@@ -413,13 +443,35 @@ function render(){
     (q?`｜搜尋「${q}」`:'')+(subFilter?`｜子類「${subFilter}」`:'');
   const feed=document.getElementById('feed');
   if(!view.length){feed.innerHTML='<div class="empty">— 冇符合條件嘅記錄 —</div>';return;}
-  const maxShow=500;
-  feed.innerHTML=view.slice(0,maxShow).map(e=>
-    `<div class="item"><span class="dt">${e.date||'—'}</span>`+
-    `<span class="tag ${e.sub?'':'none'}">${subOf(e)}</span>`+
-    (e.url?`<a class="t" href="${e.url}" target="_blank" rel="noopener">${esc(e.title)}</a>`
-         :`<span class="t">${esc(e.title)}</span>`)+`</div>`).join('')+
-    (view.length>maxShow?`<div class="empty">…仲有 ${view.length-maxShow} 筆，請用搜尋或篩選收窄範圍…</div>`:'');
+  // ★ 原本一次過 render 500 個 DOM（慢）。而家每次 100 條 + 載入更多
+  const PAGE=100;
+  let shown=PAGE;
+  const render=(append)=>{
+    const frag=document.createDocumentFragment();
+    const end=Math.min(shown,view.length);
+    for(let i=append?Math.min(feed.querySelectorAll('.item').length,PAGE):0;i<end;i++){
+      const e=view[i];
+      const d=document.createElement('div');
+      d.className='item';
+      d.innerHTML=`<span class="dt">${e.date||'—'}</span>`+
+        `<span class="tag ${e.sub?'':'none'}">${subOf(e)}</span>`+
+        (e.url?`<a class="t" href="${e.url}" target="_blank" rel="noopener">${esc(e.title)}</a>`
+               :`<span class="t">${esc(e.title)}</span>`);
+      frag.appendChild(d);
+    }
+    feed.appendChild(frag);
+    let more=feed.querySelector('.more');
+    if(more)more.remove();
+    if(end<view.length){
+      const b=document.createElement('button');
+      b.className='more';
+      b.textContent=`載入更多（已顯示 ${end.toLocaleString()} / ${view.length.toLocaleString()}）`;
+      b.onclick=()=>{shown+=200;render(true);};
+      feed.appendChild(b);
+    }
+  };
+  feed.innerHTML='';
+  render(false);
 }
 function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML;}
 
