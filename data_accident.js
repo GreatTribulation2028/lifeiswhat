@@ -1,4 +1,4 @@
-// 意外 | 由 build_news_js.py 生成 | 共 937 條
+// 意外 | 由 build_news_js.py 生成 | 共 928 條
 var DATA_ACCIDENT = `
 2026-10-01	老翁二度跌倒眼角流血還想硬撐走 警耐心勸導擦藥送返家	https://news.ltn.com.tw/news/society/breakingnews/5591695	未分類
 2026-10-01	宜蘭農婦「種菜失足踩空」墜70米懸崖 卡山壁2小時奇蹟獲救	https://www.ettoday.net/news/20261001/3247038.htm	未分類
@@ -23,7 +23,6 @@ var DATA_ACCIDENT = `
 2026-09-17	科學園工程電工觸電亡 官斥多層判商均忽視責任 罰4公司314萬	https://www.hk01.com/社會新聞/60391056/科學園工程電工觸電亡-官斥多層判商均忽視責任-罰4公司314萬	未分類
 2026-09-17	屯門男船員疑失足墮船艙罅隙 被困近兩小時送院搶救後不治	https://www.orangenews.hk/hongkong/VVRFeWq/屯門男船員疑失足墮船艙罅隙-被困近兩小時送院搶救後不治.shtml	未分類
 2026-09-17	大角嘴男子維修水箱失足墮下 頭傷送院 (23:26) - 20260917 - 港聞	https://news.mingpao.com/ins/港聞/article/20260917/s00001/1789647540333/大角嘴男子維修水箱失足墮下-頭傷送院	未分類
-2026-09-17	大角咀發生工業意外 男工人高處墮下昏迷送院	https://news.rthk.hk/rthk/ch/component/k2/1870484-20260917.htm	未分類
 2026-09-17	以巴衝突｜加沙受損住宅凌晨倒塌至少21死 或百人被困瓦礫	https://www.am730.com.hk/國際/1053607/以巴衝突-加沙受損住宅凌晨倒塌至少21死-或百人被困瓦礫	未分類
 2026-09-14	快訊／東京工廠爆炸 疑瓦斯氣爆玻璃噴飛釀3傷	https://news.tvbs.com.tw/world/4021818	未分類
 2026-09-14	公主道私家車自炒撞欄翻轉 男司機自行爬出 (10:08) - 20260914 - 港聞	https://news.mingpao.com/ins/港聞/article/20260914/s00001/1789352274965/公主道私家車自炒撞欄翻轉-男司機自行爬出	未分類
@@ -42,7 +41,6 @@ var DATA_ACCIDENT = `
 2026-09-08	粉嶺私家車失事炒上石壆 司機被困車內 昏迷送院搶救 粉嶺發生致命交通意外。周二（8日）晚上10時許，一輛私家車沿粉嶺百和路往嘉福邨方向行駛，駛至近蓬瀛仙館對開時，突然失事「自炒」，撞向路邊一石壆，53歲姓冼男司機.	https://www.singtao.ca/7621400/2026-09-08/news-%E7%B2%89%E5%B6%BA%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E4%BA%8B%E7%82%92%E4%B8%8A%E7%9F%B3%E5%A3%86+%E5%8F%B8%E6%A9%9F%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%85%A7+%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB/	未分類
 2026-09-08	科學園工程電工學徒觸電亡 死者家屬向僱主及工程承辦商等索償	https://www.hk01.com/article/60387900	未分類
 2026-09-08	烏克蘭首都基輔再響起強烈爆炸聲 已致2死7傷	https://www.dotdotnews.com/a/202609/08/AP6a9f6b2de4b02724bdb3c265.html	未分類
-2026-09-08	油麻地京士柏道屋苑工業意外 62歲男工遭電鋸割傷手指送院	https://www.stheadline.com/breaking-news/3612942/油麻地京士柏道屋苑工業意外-62歲男工遭電鋸割傷手指送院	未分類
 2026-09-08	德国指责俄罗斯制造爆炸无人机事件，采取关闭总领事馆和文化院等报复措施。	https://www.mk.co.kr/cn/world/12146592	未分類
 2026-09-07	驚悚瞬間！ 墨西哥節慶煙火突爆炸釀10死64傷	https://www.mnews.tw/story/amp/20260907sot1155001	未分類
 2026-09-07	電工學徒3年前觸電亡 遺產管理人入稟提傷亡索償 38歲電工男學徒在科學園進行太陽能板工程時，於倉房觸電死亡，總承辦商等4間公司去年被裁定「沒有採取措施以防止發生電力危險」等傳票罪成。死者遺產管理人昨入稟高等...	https://www.singtao.ca/7620865/2026-09-07/news-%E9%9B%BB%E5%B7%A5%E5%AD%B8%E5%BE%923%E5%B9%B4%E5%89%8D%E8%A7%B8%E9%9B%BB%E4%BA%A1+%E9%81%BA%E7%94%A2%E7%AE%A1%E7%90%86%E4%BA%BA%E5%85%A5%E7%A8%9F%E6%8F%90%E5%82%B7%E4%BA%A1%E7%B4%A2%E5%84%9F/	未分類
@@ -74,13 +72,11 @@ var DATA_ACCIDENT = `
 2026-08-29	南亞塑膠林口廠工安意外！外包工修鐵捲門觸電慘死勞檢處介入釐清責任| 社會	https://www.setn.com/news/1898168	未分類
 2026-08-28	眼難上抬、頻繁跌倒 老翁腦中驚見「蜂鳥」竟是罕見疾病！ - 健康新聞 - PChome Online 新聞	https://news.pchome.com.tw/healthcare/cnews/20260828/index-78788595965867227012.html	未分類
 2026-08-28	俄羅斯石化廠爆炸釀15死 多數為中國員工	https://news.pts.org.tw/article/824657	未分類
-2026-08-27	落馬洲工地工人高處墮下 受傷清醒送院	https://hk.on.cc/hk/bkn/cnt/news/20260827/bkn-20260827100451103-0827_00822_001.html	未分類
 2026-08-27	油麻地女子高處墮下 當場殞命	https://hk.on.cc/hk/bkn/cnt/news/20260827/bkn-20260827061959492-0827_00822_001.html	未分類
 2026-08-27	將軍澳舢舨六旬漁民被雷電擊中 昏迷送院不治 將軍澳有漁民被雷電擊中死亡。今日(27日)早上9時14分，紅色暴雨警告信號及雷暴警告仍然生效期間，將軍澳海濱長廊對開約5...	http://hk.on.cc/hk/bkn/cnt/news/20260827/mobile/bkn-20260827094343451-0827_00822_001.html?editorpickDate=20260828&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	未分類
 2026-08-27	土瓜灣翔龍灣會所男童手被困保齡球機 消防助脫困送院	https://www.hk01.com/突發/60384178/土瓜灣翔龍灣會所男童手被困保齡球機-消防助脫困送院	未分類
 2026-08-26	南投縣府9月開辦「職安卡」訓練全面防範職業災害	https://news.pchome.com.tw/society/news586/20260826/index-78774644071220290002.html	未分類
 2026-08-25	本港今年至今發生15宗致命工業意外 建造業界稱行內存在趕工文化	https://www.orangenews.hk/hongkong/VTHqqo8/%E6%9C%AC%E6%B8%AF%E4%BB%8A%E5%B9%B4%E8%87%B3%E4%BB%8A%E7%99%BC%E7%94%9F15%E5%AE%97%E8%87%B4%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%BB%BA%E9%80%A0%E6%A5%AD%E7%95%8C%E7%A8%B1%E8%A1%8C%E5%85%A7%E5%AD%98%E5%9C%A8%E8%B6%95%E5%B7%A5%E6%96%87%E5%8C%96.shtml	未分類
-2026-08-25	年初至今錄得15宗致命工業意外 商會認為是趕工文化引致	https://news.google.com/rss/articles/CBMiYkFVX3lxTE45a1Ntck9PanAwaFl2Zjdpd3RYR2tSdUNFblJxbG52cjdIOVBBT0Rsc2tMX1JrVjBTWGdIcHNwUzhXZjRNNlFVWlN0QlFjUDRCekg3QnRjZ3U3WktscERmOUFR?oc=5	未分類
 2026-08-25	夫妻觸電驟逝！留倆兄弟背210萬債務 銀行暖心全免助其保住房子	https://www.nownews.com/news/6869066	未分類
 2026-08-25	今年已有15宗致命工業意外 業界承認「趕工」文化間接構成疏忽	https://hk.on.cc/hk/bkn/cnt/news/20260825/bkn-20260825141847057-0825_00822_001.html	未分類
 2026-08-24	粉嶺私家車自炒翻轉四輪朝天 女司機受傷送院 今日（24日）早上接近9時，粉嶺雷鳴路近華明路迴旋處一輛私家車自炒翻轉，女司機其後自行爬出車廂。救援人員到場，事主受輕傷，由救護車送往北區醫院治理。	https://www.hk01.com/%E7%AA%81%E7%99%BC/60382918/%E7%B2%89%E5%B6%BA%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E7%BF%BB%E8%BD%89%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2	未分類
@@ -214,7 +210,6 @@ var DATA_ACCIDENT = `
 2026-06-26	樓搖牆裂如恐怖片 華人被困13歲女亡 - 20260626 - 國際	https://news.mingpao.com/pns/國際/article/20260626/s00014/1782406555237/樓搖牆裂如恐怖片-華人被困13歲女亡	未分類
 2026-06-26	勞工處派員到九龍灣運動場致命工業意外現場調查	https://news.rthk.hk/rthk/ch/component/k2/1860001-20260626.htm	未分類
 2026-06-26	九龍灣運動場致命工業意外 建築署： 已暫停翻新工程責成總承建商進行調查	https://www.bastillepost.com/hongkong/article/16246225-九龍灣運動場致命工業意外-建築署：已暫停翻新工	未分類
-2026-06-26	九龍灣運動場致命工業意外 勞工處向承建商發出暫時停工通知書	https://news.rthk.hk/rthk/ch/component/k2/1860085-20260626.htm	未分類
 2026-06-24	青磚圍工傷｜65歲男工遭機器壓斃 警改列誤殺拘管工及駕駛員	https://www.hk01.com/突發/60363525/青磚圍工傷-65歲男工遭機器壓斃-警改列誤殺拘管工及駕駛員	未分類
 2026-06-24	回應竹園道地盤意外水務署：已要求承建商停工並全力協助調查- 港聞	https://www.dotdotnews.com/a/202606/24/AP6a3bced2e4b04b6c5d315a33.html	未分類
 2026-06-24	【2026世界盃】約旦首次踢入世足決賽 大批民眾搶觀賽卻爆踩踏悲劇1死8傷	https://www.i-meihua.com/Article/Detail/51388	未分類
@@ -224,7 +219,6 @@ var DATA_ACCIDENT = `
 2026-06-23	卡塔爾天然氣設施爆炸13死66傷 當局證意外並不影響出口	https://www.am730.com.hk/article/1037515	未分類
 2026-06-23	卡塔爾天然氣廠爆炸13死66傷	https://epaper.tkww.hk/a/202606/23/AP6a3997d0e4b04773b070d498.html	未分類
 2026-06-23	卡塔爾天然氣廠爆炸 釀13死66傷｜外媒焦點·俄羅斯	https://news.tvb.com/tc/1178407-卡塔爾天然氣廠爆炸釀13死66傷外媒焦點俄羅斯	未分類
-2026-06-23	卡塔爾天然氣工廠爆炸已致13人死亡	https://www.hkcd.com.hk/content_app/2026-06/23/content_8761261.html	未分類
 2026-06-23	卡塔爾天然氣工廠爆炸增至13人喪生 初步判斷為生產事故	https://news.rthk.hk/rthk/ch/component/k2/1859505-20260623.htm	未分類
 2026-06-22	（有片）卡塔爾天然氣廠爆炸 至少13死66傷	https://www.dotdotnews.com/a/202606/22/AP6a394c95e4b09ea233193e4e.html	未分類
 2026-06-20	莫斯科煉油廠大爆炸！紐時：疑是俄軍自家人飛彈誤擊	https://news.tvbs.com.tw/world/3236018	未分類
@@ -276,7 +270,6 @@ var DATA_ACCIDENT = `
 2026-06-02	英國田徑協會遭重罰1400萬！帕運選手訓練意外慘遭鐵籠壓死	https://www.4gtv.tv/article/2026060208000024?utm_source=popin	未分類
 2026-06-02	緬甸撣邦村莊發生爆炸逾55死70傷 反政府武裝：礦用炸藥意外引爆	https://www.hk01.com/即時國際/60355834/緬甸撣邦村莊發生爆炸逾55死70傷-反政府武裝-礦用炸藥意外引爆	未分類
 2026-06-02	有片丨緬甸炸藥倉庫爆炸至少55人死半空現巨大蘑菇雲300間房屋受損- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17361150060748/重點新聞-有片丨緬甸炸藥倉庫爆炸至少55人死-半空現巨大蘑菇雲-300間房屋受損	未分類
-2026-06-01	韓國韓華航空航天公司工廠爆炸 造成五死兩傷	https://news.rthk.hk/rthk/ch/component/k2/1856803-20260601.htm	未分類
 2026-06-01	華盛頓州日資造紙廠爆炸增至11死	https://epaper.tkww.hk/a/202606/01/AP6a1c9670e4b04773b06f3845.html	未分類
 2026-06-01	緬甸爆炸至少55死 疑炸藥庫意外引爆致大量住宅被夷為平地	https://www.am730.com.hk/國際/1033543/緬甸爆炸至少55死-疑炸藥庫意外引爆致大量住宅被夷為平地	未分類
 2026-06-01	緬甸儲存炸藥倉庫發生爆炸 造成至少55人死亡	https://www.orangenews.hk/international/VLFj5yd/緬甸儲存炸藥倉庫發生爆炸-造成至少55人死亡.shtml	未分類
@@ -284,7 +277,6 @@ var DATA_ACCIDENT = `
 2026-06-01	南韓韓華航太工廠爆炸釀5死2傷 初判疑火箭推進劑引發	https://news.pts.org.tw/article/810949	未分類
 2026-06-01	南韓大田軍工企業工廠爆炸 增至6死1傷	https://www.am730.com.hk/article/1033590	未分類
 2026-06-01	南韓大田市軍工廠爆炸 釀至少5死2傷 料清理火箭推進劑肇禍 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/470061/%E5%8D%97%E9%9F%93%E5%A4%A7%E7%94%B0%E5%B8%82%E8%BB%8D%E5%B7%A5%E5%BB%A0%E7%88%86%E7%82%B8-%E9%87%80%E8%87%B3%E5%B0%915%E6%AD%BB2%E5%82%B7-%E6%96%99%E6%B8%85%E7%90%86%E7%81%AB%E7%AE%AD	未分類
-2026-06-01	南韓大田市軍工廠爆炸 5死2傷	https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOFBmZ0ZSOWpramd5RDduaTNmZVN0cFdFWHpsbnZtc0VKZFdSVFpWUkpZVkRhNEZKd01uLWtJeFJPMEJ0UlRxaXFCRXo4WDZidndNVWN3SnNGZ2xWOGZNbmVxdUlVMnhlX0JjMg?oc=5	未分類
 2026-05-29	嘉義校園工程意外！布繩斷裂烤漆板砸工人「臟器外露」亡 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260529/index-78002650702484309002.html	未分類
 2026-05-29	南投縣府辦理三場次協助職業災害勞工重返職場說明會	https://n.yam.com/Article/20260529348409	未分類
 2026-05-29	Mango創始人墜亡案：兒子喬納森否認指控，稱父親墜亡或因膝蓋問題	https://cn.wsj.com/articles/mango創始人墜亡案-兒子喬納森否認指控-稱父親墜亡或因膝蓋問題-7c6e965a	未分類
@@ -403,7 +395,6 @@ var DATA_ACCIDENT = `
 2026-04-02	一名安老院舍院友被困大廈外牆 消防救出送院治理	https://news.rthk.hk/rthk/ch/component/k2/1849736-20260402.htm	未分類
 2026-04-02	72岁老人酒后执意泡澡：意外死亡后家属获赔12万	https://finance.sina.com.cn/tech/discovery/2026-04-02/doc-inhtcspv9313201.shtml?froms=ggmp	未分類
 2026-04-02	60歲王月跌倒二度開顱急救！隔4個月曝現況「慢慢回來了」…年長者防跌5關鍵＋3救援必學	https://tw.news.yahoo.com/60歲王月-跌換來開顱急救-昏迷5天醒來喊-若有事-國修務必來接我-084231123.html	未分類
-2026-04-01	現身說法｜起重機械工業意外	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hbk9FOGt4UFhhSW16QVRpMTdFMEoxbHhsT3lmYUVMT3FjakZWdkdsRWpSNFdzcUVtUGt0TnJ2bDllRkJpVHo2MThCWGhYalJVR1doVXpmMXdfUC1kdXBjWDR3?oc=5	未分類
 2026-03-31	重慶一隧道發生爆炸事故致4人死亡- 神州 - 香港文匯網	https://www.wenweipo.com/a/202603/31/AP69cb16dae4b0b49ad1b4aed8.html	未分類
 2026-03-31	重慶一隧道爆炸釀4死 (08:39) - 20260331 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260331/s00004/1774917615941/重慶一隧道爆炸釀4死	未分類
 2026-03-31	重慶一隧道爆炸事故 釀4死9傷	https://www.hkej.com/instantnews/current/article/4359362/重慶一隧道爆炸事故+釀4死9傷	未分類
