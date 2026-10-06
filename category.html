@@ -216,38 +216,23 @@ const CATS={
   heatstroke:{name:"中暑昏迷",full:"中暑",varName:'DATA_HEATSTROKE',color:"#f77f00"},
   sudden:{name:"猝死",full:"猝死記錄",varName:'DATA_SUDDEN',color:"#ff4d6d"},
 };
-/* 14 類平級（依 priority 順序：宗教>七年大災難>自殺>治安>交通>火警>遇溺>天災>意外>醫藥>經濟>AI安全>中暑昏迷>猝死）*/
+/* 14 類平級（依 priority 順序）*/
 const ORDER=Object.keys(CATS);
+
+/* ★ 2026-10-06 修正：
+   原本呢段 const GROUPS / CAT2GROUP / GROUP_ORDER 重複宣告咗 5-6 次
+   （多個 AI 逐次追加），JavaScript const 重複宣告 = SyntaxError
+   → 成個 <script> 唔行 → 分類頁永遠讀唔到資料。
+   而家只保留一份：14 類平級，全部歸入「全部」大分類。 */
 const GROUP_ORDER=['ALL'];
 const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};
+/* ★ 2026-10-06 補：ORDER2 原本冇定義，但下面 tabs2 用到 ORDER2.filter(...)
+   → ReferenceError 令成個 script 死 → 分類選項完全唔出現。
+   ORDER2 就係 14 類嘅排序清單（平級，全部歸「全部」大分類）。 */
+const ORDER2=Object.keys(CATS);
 const CAT2GROUP={};
-ORDER.forEach(k=>{CAT2GROUP[k]='ALL';});
+ORDER2.forEach(function(k){CAT2GROUP[k]='ALL';});
 
-const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};
-const CAT2GROUP={};
-ORDER.forEach(k=>{CAT2GROUP[k]='ALL';});
-
-const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};
-const CAT2GROUP={};
-ORDER.forEach(k=>{CAT2GROUP[k]='ALL';});
-
-const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};
-const CAT2GROUP={};
-ORDER.forEach(k=>{CAT2GROUP[k]='ALL';});
-
-const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};
-const CAT2GROUP={};
-ORDER.forEach(k=>{CAT2GROUP[k]='ALL';});
-
-
-
-/* ============================================================
-   大分類（Group）架構 — 與 build_news py\category_structure.js 一致
-   9 大分類 → 18 類 → 89 小分類
-   ============================================================ */
-/* 類別 → 大分類 映射 */
-/* 18 類排序（大分類為主）*/
-const GROUP_ORDER=['death','disaster','health','conflict','society','nature','tech','life','prophecy'];
 
 /* ================= 狀態 ================= */
 const params=new URLSearchParams(location.search);
