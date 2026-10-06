@@ -1,5 +1,16 @@
-// 經濟 | 由 build_news_js.py 生成 | 共 3851 條
+// 經濟 | 由 build_news_js.py 生成 | 共 3874 條
 var DATA_ECONOMY = `
+2026-10-06	TWA00 加權指數- 笑死，你想等經濟衰退？ - 股市爆料同學會	https://news.google.com/rss/articles/CBMiWEFVX3lxTE00aWJZbnJFcnZsOEN5TzBncGFBeWxmNWhIY05PTnNzU08tYlhlaGt1NHcxbUVkLTIyLVVrTmp3c3F0RlE0Qm8xdVdRMXhiM0tMMVUxYlBsejQ?oc=5	未分類
+2026-10-05	避免引爆金融危機! 中共出手裁減逾900家銀行創紀錄小銀行成整頓重點| 國際	https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xNklYaUpqamxYTV9HX29TcG42SHFMRmpXbjBoVFR2djRXREZfUmNQOGY4RENKLW9PeWs0clNfWWxKRXJLX0tTb2dCa05nTnRpZ09oR0FSQXRZZ0E?oc=5	未分類
+2026-10-05	法國債券遭猛烈拋售，引發金融危機擴大的恐慌	https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vVExUV3FhNFJQakJCcXRNdmltRGpGRXBaT3djRXlpenU1aUhWbm5ac0Y1dWRHZEMzZU9WQ3BJem9HNVVhVWN0a1JZcmVPbEZVVTRyNl93?oc=5	未分類
+2026-10-05	巴菲特歷久不衰的市場崩盤教戰守則：眾人恐懼我貪婪，逢低買進價值股	https://news.google.com/rss/articles/CBMiekFVX3lxTFBHSlhrMTJDQUlhU2JLQlNPNTB4MkhqTG9nVUxOdzhFV215LVBpSlVaOWpXTzg3TDVPTUFGNi1SUXdHQW5KTGczMFJJTENKdlpiUFYweGt2NGtrQjN1eHF6YnllbjJWMU1ad2tQd0lhWnNtLUtVbjdlNWRR?oc=5	未分類
+2026-10-05	人力資源規劃委員會關注青年失業情況 欣悉政府投放大量資源培訓	https://news.rthk.hk/rthk/ch/component/k2/1872793-20261005.htm	未分類
+2026-10-05	【直播】帶領日本衝破30年經濟停滯！ 高市早苗國會發表重要演講	https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zMnk1TmNUZjhTbG5FOE9LS19BYzZ6dUUxUF9BeVBRQlVhNDVweUwyY2dOVmE4SVJFUHlvanQwalJpS2Y1LVE5VkF2cTZWc25qb0NZaFBEWWU3VnRHMHpOM9IBZkFVX3lxTE16NkdNNXBtNXNTbE54aGNLdGpXQzlJTFAxamJnbnhEU1YySnV0dy1oSTFHQzFyRE94MW9paXAzZjBHeTBaNGhESWxLRmw5azBhdjFaTlFYbmtCc1o1OXRDaVNDYV8zUQ?oc=5	未分類
+2026-10-03	法國報紙摘要 - 債務：法國緣何面臨陷入金融危機威脅	https://news.google.com/rss/articles/CBMiggNBVV95cUxOZkkxQ3dDaFZLaVY4R2ZiUFdjNVJYMDhJQ2NOUm5KaEJzZk9uYnI1UTZBZ3ZNamdDZWpyd0JuUzROdWxhMjF3ck81amVuMklOa3pTbGJiRjd3b05ONnozY1ZQejhXMzRHR1JPc1gyajJqU04xaU1ma2tHYUZvX2plOGN3Y3pWWU1TVEstMVY3cVlNejZtWmRVdTZjRnAwTEdTMFBWckdORVZ0ZXdtTlJpekJOd01kbm93eGJpU2djRXJMbC1IZ2FNaXF6UndLRThyUUlIbHdINkNKbGFHbGF2TEhUejNraVRPQmlwRnh6Z2hGOE1iVWFfRnVaeFlFdkt2aVFjSzVnY2RTZDRGWWtyNXRnTVpoWFZGb29ZNnZMX1A3WDZ3ZXFoNzlidW40R3FUOXJvRW9NS0pETWQ0NEkyM2tidDFaZ216dEl3MkFnalNqQ0d3QWN3REJ1TTZBR3YwaXZzb3ZidzZDYURVSnVfekt6a0NZOWJkUXlnTHRkVUpYZw?oc=5	未分類
+2026-10-03	下一場金融危機恐從金融體系外爆發！地緣政治、網攻成潛在風險	https://news.google.com/rss/articles/CBMiT0FVX3lxTE00MnVuWGdJbmFTa0I2OC1KeVF0OFJZSlJIUzA0OUR3THdfdUVqbUw0T1pNeHlkUmlUVUNfdkFiQ0tlNkozaXVhaDgtTE1LdnM?oc=5	未分類
+2026-10-03	【經濟判讀】經濟衰退機率與資產配置策略報告 1003	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16eG5qSVRkYVFpV3NSN05ZU3BnSV9fYV9mNnVGaG9QRnJxQWVSeDIyTVU5T0F6ZV9zZVh6LVpRWEpVZHVzU0VNVTkxRUdZWlh6WXZHZGg1bUJJYTBCNzhlemlnN0tpbjg?oc=5	未分類
+2026-10-03	NVDA 輝達- 【經濟判讀】經濟衰退機率與資產配置策略報告1003 - 股市爆料同學會	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yV1hYY0dMdmFVQlhpdVZmMFZ5Q3ZuRm1JMTJvU09OYVNObUFwNGktb2gxY0NTalZzbElRcG5PRmpsYjR2THBrem1wRlI1MDhoMVVEdTUwRVI?oc=5	未分類
+2026-10-03	LinkedIn共同創辦人表示，人工智慧基礎設施是「我們尚未陷入經濟衰退的唯一原因」	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XZ0RUREI2NDA0eGkxUWhSd3liT3V6dHlGOUhHOGp3VjBRMkZJYUd3RHhUT2pGalcyVnp4NmRiOUQtNWNUNGUwWURqb0REWHgxTmpLZTZR?oc=5	未分類
 2026-10-02	香港餐廳星輝閣結業 員工稱欠薪數月	https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813114532123-0813_00822_001.html	未分類
 2026-10-02	2萬人將被裁，亞馬遜史上最大裁員潮來襲	https://www.36kr.com/p/2040509847055623	未分類
 2026-10-01	結業潮｜花園街熟食中心11月起關閉14個月迎翻新 十多間人氣食店妹記、松記停業	https://ufood.com.hk/restaurant/news/detail/20092328/結業潮-花園街熟食中心-月起關閉-個月迎翻新-十多間人氣食店妹記-松記停業	未分類
@@ -106,6 +117,7 @@ var DATA_ECONOMY = `
 2026-09-19	台灣CBDC 聚焦批發型研究試驗- 日報	https://www.ctee.com.tw/news/20260919700039-439901	未分類
 2026-09-19	【Emily】中信大家樂結業 政總立會朋友少個飯堂選擇 - 20260919 - 港聞	https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20260919/s00002/1789750141459/%E3%80%90emily%E3%80%91%E4%B8%AD%E4%BF%A1%E5%A4%A7%E5%AE%B6%E6%A8%82%E7%B5%90%E6%A5%AD-%E6%94%BF%E7%B8%BD%E7%AB%8B%E6%9C%83%E6%9C%8B%E5%8F%8B%E5%B0%91%E5%80%8B%E9%A3%AF%E5%A0%82%E9%81%B8%E6%93%87	未分類
 2026-09-18	股市暴跌30%怎麼辦？退休族必備「生活費緩衝區」，專家教你這招保本 | 許恩祐 | 新聞	https://www.storm.mg/article/11165797	未分類
+2026-09-18	股市暴跌30%怎麼辦？退休族必備「生活費緩衝區」，專家教你這招保本	https://news.google.com/rss/articles/CBMikwNBVV95cUxQaUlWWVY2dUlpTEtLQ2dvYUpJN1YweFg5VG1PX3dVdWlVYlJFMURZUm1POHhmdFBFd3pxbTVfZ0x6QkVLbVROeHJZVmZGbFpleHo5NlhXSUNCWXBQY0RDVGV2RmIyWm9UMXNBdzVQN1RKRTJ2cE0tQ3VzN3pzdEQ1dnZpdzJqQ3pGenY1bXg5RHpqcDhGbWxacnFUV0tXWm5OM0dLc0ZuZDJBc016OVNSOE5MRS0wbnFNejlHWGRMU1FHelhQU3RJNWdwbVJERk03THZpX0Zia2pIcnFmM3padEllek5WSC1NME1iUVROX2NYcFpRRDIyenRrVFhMbVplTEJwWXJ6UWJGS09PUFl2SnBkOF9lVWQ0eUtzSTY2amJFUzFlTWRUOEF4dzMzaVhkMTBHdGg1cktjSHB5SWxUalBxOS15cW1lWTZsZFVEcXF2MElJMnQzSkJhSTBVM2xtSFBmY2dIUzFWWlk5UWFhSGNLVnc1d1JDNGtudkRMRXpNUndPcGZwa3A1WXhOU1dBSUxB?oc=5	未分類
 2026-09-18	聯儲局不顧特朗普反對宣布加息 抑制通脹恐揭開美股震盪序幕	https://www.hk01.com/國際分析/60391233/聯儲局不顧特朗普反對宣布加息-抑制通脹恐揭開美股震盪序幕	未分類
 2026-09-18	美債避風港不再丨新債王警告經濟衰退或引爆債務危機 美國大選選情追蹤 - 專題	https://www.hkej.com/features/article/美國大選選情追蹤/1815324222/美債避風港不再丨新債王警告經濟衰退或引爆債務危機	未分類
 2026-09-18	美債恐失避風港地位！「新債王」岡拉克憂國債重組 警告：下次衰退恐引爆債務危機	https://tw.stock.yahoo.com/news/美債恐失避風港地位-新債王-岡拉克憂國債重組-警告-下次衰退恐引爆債務危機-071000817.html	未分類
@@ -203,6 +215,7 @@ var DATA_ECONOMY = `
 2026-09-03	矽谷創新校倒閉 港須守普惠紅綫	https://paper.hket.com/article/4187559/矽谷創新校倒閉 港須守普惠紅綫	未分類
 2026-09-03	知名日本美妝巨頭宣佈撤出港澳百貨專櫃！最後據點9月結業後續安排曝光	https://www.gotrip.hk/人氣話題/日本美妝-專櫃結業-積分兌換-1903438/	未分類
 2026-09-03	曾獲米芝蓮推介太子「第一腸粉」9月結業！15年老店告別街坊招牌菜脯、滷肉腸粉獲影帝劉青雲捧場	https://www.stheadline.com/food/3611303/曾獲米芝蓮推介-太子第一腸粉9月結業15年老店告別街坊-招牌菜脯滷肉腸粉獲影帝劉青雲捧場	未分類
+2026-09-03	日圓跌 美債息率創金融危機以來新高 債市+滙市大風暴如何收科？	https://news.google.com/rss/articles/CBMimgNBVV95cUxQdjZ6UDNUcWJla3BhSTBiYjlTUDZQY0I1bE0zVFU5ejVTN1hNa0J4TlNSQzB4N3IxMUFxQnVZd2VIa3hRWHFCMHdhVW5tNFhneU9ocklJUkRhVG1fbWpUT1lGZUlmaDM4TjBoRkk1YmRGdFdsT0tIUGJfUnhhRHVaSm84SmdUbTFaRWVRLS03TWpCRnRxRklITEF1bVJ3SFFXY2ptdm81UVNOeHNyamJic2VIZWdZMG5iNGV4SUtreE1iczFaSXBXeVluV2N0N2VIb1YxZV95X0J3OWtGMHRXdGVRUVVFUFlFN0NUTG9rT2NFeERJX044MV9SWEYzOVlSWGRJWWlqWEdGUTdOOTJYU0hmWWpKLWpkVEZTdV9sYnNnWW9ocmxPbEZJQWpjYmZBSTVwS0JVMlFnbTh5d3R0bkxKMWxfOXprVGw0VU5XWEhDUjNXMEs5OFhjQ1RfeHdabHRoRHdxb1MwX2o0YzdZbzdVeFNidmlJd2RFWnV0MTI2ZWdHZTdJV2FXVXlPekhsQnQ5aVZUOXlmdw?oc=5	未分類
 2026-09-03	日債失控「日本要破產了」？謝金河直指「中國陷考驗」：正走向通縮的惡循環	https://www.4gtv.tv/article/2026090311000021	未分類
 2026-09-03	大阪8887間民宿恐迎結業潮！市府10月推辣招封殺某類住宿	https://www.weekendhk.com/矚目話題/大阪民宿-日本旅遊-觀光公害-3498484/	未分類
 2026-09-03	地產商Bathla陷破產危機 移民員工簽證堪憂	https://www.epochtimes.com/b5/26/9/3/n14841827.htm	未分類
@@ -296,6 +309,7 @@ var DATA_ECONOMY = `
 2026-08-27	Bill Gates警告AI帶來3風險：各國準備失業潮 劃「人類保留區」	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60384278/bill-gates%E8%AD%A6%E5%91%8Aai%E5%B8%B6%E4%BE%863%E9%A2%A8%E9%9A%AA-%E5%90%84%E5%9C%8B%E6%BA%96%E5%82%99%E5%A4%B1%E6%A5%AD%E6%BD%AE-%E5%8A%83-%E4%BA%BA%E9%A1%9E%E4%BF%9D%E7%95%99%E5%8D%80	未分類
 2026-08-27	AI短劇恐讓真人演員失業？陳昊森不怕被取代 親曝「演員之所以是人」關鍵	https://tw.news.yahoo.com/ai%E7%9F%AD%E5%8A%87%E6%81%90%E8%AE%93%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%93%A1%E5%A4%B1%E6%A5%AD-%E9%99%B3%E6%98%8A%E6%A3%AE%E4%B8%8D%E6%80%95%E8%A2%AB%E5%8F%96%E4%BB%A3-%E8%A6%AA%E6%9B%9D-%E6%BC%94%E5%93%A1%E4%B9%8B%E6%89%80%E4%BB%A5%E6%98%AF%E4%BA%BA-%E9%97%9C%E9%8D%B5-061100779.html	未分類
 2026-08-26	結業潮｜明星雞蛋仔小吃「低調高手」接連有分店退場有結業隱憂？老闆大派定心丸公布好消息- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17877281040028/%E9%87%8D%E9%BB%9E%E6%96%B0%E8%81%9E-%E7%B5%90%E6%A5%AD%E6%BD%AE-%E6%98%8E%E6%98%9F%E9%9B%9E%E8%9B%8B%E4%BB%94%E5%B0%8F%E5%90%83-%E4%BD%8E%E8%AA%BF%E9%AB%98%E6%89%8B-%E6%8E%A5%E9%80%A3%E6%9C%89%E5%88%86%E5%BA%97%E9%80%80%E5%A0%B4%E6%9C%89%E7%B5%90%E6%A5%AD%E9%9A%B1%E6%86%82-%E8%80%81%E9%97%86%E5%A4%A7%E6%B4%BE%E5%AE%9A%E5%BF%83%E4%B8%B8%E5%85%AC%E5%B8%83%E5%A5%BD%E6%B6%88%E6%81%AF	未分類
+2026-08-26	【李浩然專欄】經濟衰退也許正在消亡 但股市必然會崩盤 盲目相信牛市永續 會成為致命錯誤	https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUhoaUp2Z1BPUjU4V29IUmxIb05wUEF6Nk1qTHk1TXFYa3NpUWlRRHlDcVFPZVprOG5TVEtFaTY0emNYZDhyUEtERnNpWU1PZEpyaE12Q1BnRlkySFF4OTRtaXJ2djlrX2U0UkIxNlNHTUx2UkI0S0JSY3lSc3phS0tzdVp1S2hsSC1vZnlNTXVtbUNXTmtTbzlqeV9xc1J0T1U4ZlFGSkRMZ0VDTHoyS29PYw?oc=5	未分類
 2026-08-25	麥迪文與好友賓艾佛力合作 奧斯卡獲獎後竟然窮到破產	https://hk.on.cc/hk/bkn/cnt/entertainment/20260825/bkn-20260825000126784-0825_00862_001.html	未分類
 2026-08-25	食材成本飆升日居酒屋倒閉創近40年新高- 國際	https://www.dotdotnews.com/a/202608/25/AP6a8d021ee4b04b6c5d37b93d.html	未分類
 2026-08-25	美加關係撕破臉！省長嗆川普獨裁「破產之王」：我腳趾都比他有腦	https://www.nownews.com/news/6869038	未分類
@@ -316,9 +330,11 @@ var DATA_ECONOMY = `
 2026-08-24	面臨赤字、裁員、少子化挑戰 芝公校30萬學子今開學	https://www.worldjournal.com/wj/amp/story/121473/9711647	未分類
 2026-08-24	電動車充電業接連倒閉…政府價格管制致成本無法反映	https://finance.biggo.com.tw/news/eec129dd-a0f6-45d8-bd64-f56b7fdeba10	未分類
 2026-08-24	連鎖健身室承租結業酒樓巨舖 EFX24：健身需求增 不憂不回本	https://www.hk01.com/社會新聞/60383186/連鎖健身室承租結業酒樓巨舖-efx24-健身需求增-不憂不回本	未分類
+2026-08-24	股市正逼近史上最高估值 上次如此昂貴時市場崩盤	https://news.google.com/rss/articles/CBMi5wJBVV95cUxQMGxIYzNQYTgyNlpLVHUtTV9SODcwVUgtQVVGNlZ0cDFESHhKRFhKS3BYTl90UHdHY3hSeHJ1SDA1UGZXR21ycWtlbU93OUt1eVF1LU5McDM1a2pNNDZHU29DU1ZGeUo0SHFIZzlVTHVfX0VoMzhNS1FCWEhqRnVtY1BiUWc0cWd3RFU0QjJxQ2ZFSGxQbUREUHNHVENSZHpHYWFISm1UREJMaWlvQ3pRNUp3UmNlRFdnUGJ0dFpDczExaFdPV3phMVd6MV9XWHZUZFRYVGZSbTF2N0FxTUE1eDliT0VaUXpFc3BKb1NndmhLVkItZS1XRzlyOGlMd0lrMjFXa04teEd5S0ZNWXVTaXRPc1pKLVJENlJya2lCNTh3aGlPVlhZeWxSeE5SMnRFNXJER2FYcUdpT2I1U2Nkd0ZaTkNQRVZZTHZhQkdyN2ZwcFR0TnowdWJsQUkxWGtQZ1d3a3liTQ?oc=5	未分類
 2026-08-24	美國在中東破產了 文：悠 然	https://www.kinliu.hk/news/觀察/美國在中東破產了-文：悠-然/254157.html?id=73&from=home&bc1=首頁&bc1to=/	未分類
 2026-08-24	研究金融危機的經濟學家預期美國年底前陷入槓桿引發的衰退	https://www.businessinsider.tw/article/6215	未分類
 2026-08-24	深陷醜聞的澳大利亞畢馬威將裁員近400人，並警告市場形勢嚴峻	https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T44L07G:0/	未分類
+2026-08-24	歐洲央行奇波洛內：經濟停滯和通脹大幅上升的風險相當遙遠	https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN0FRbGJSb05LV3p4VVF0WEcwQlY2aEo0aUhrc0YzWHkwNDFqcjR4NmdaWF9vTmp6cTBvYU5mU194bzVqSmtldXNXY3pmTWdSTkdVR1JHbnFRcy1ERGtYVElBSGJlZHFVR2ZDTTYwMVJJcWVVV3dwV0VvZ1BlTTF3dEhNWU44Nk9tTm1LVWRRMXRtdlVlNGkwbFZ3cjNJcU5JdzAzVjlObXV4WkdPTEpUM2dMcTFjX3d4eHFPQmYzRGdnVTJVZTZiUDg4RTh0VUZNZlc4TnlhWHhyazItU05wMHNtbzhTcHJ2b1dMald5a9IB9AFBVV95cUxQdkZqRkE0aEdUV0ZQVlpfWnFfMzM0UFNVdkNmRnFGUUk2ZHhmd1AxejRaVms4XzlEOU9KUWhkZEw0dFJaY0FxajlXVTMzT0FVRzhCd1FmdTZLdVVMeVFIV0VuUFRqcDUxRkM0Z3RBVTc0Tm90NWx2MC1YcGt5MWJ5X2ZSR2tzUEdJUG50b21Mb0RZZ0JxLXZWWmgtMnpXVUFZbkRleTlZeUw2cG9qWWZxZWt6cWZKX18wTlVqQ2N6cFdpNEp3OGpIQlp1QnRySkg2bU1ySXBUVzNFQ19mekNxZkk3TXRpSDU1QW0tbF9vVUNteW9w?oc=5	未分類
 2026-08-24	東張西望｜美容店上集｜美容店結業前獨家放蛇直擊外國sales劏客奇招前員工斥：賺錢埋沒良心- 東張+	https://www.mytvsuper.com/tc/scoopplus/scoop/catch-up/17875662640591/東張西望-美容店上集-美容店結業前獨家放蛇-直擊外國sales劏客奇招-前員工斥-賺錢埋沒良心	未分類
 2026-08-24	旺角熟食市場9.1起關閉裝修 料11月完工 檔主：部份人乾脆結業	https://www.hk01.com/社會新聞/60383210/旺角熟食市場9-1起關閉裝修-料11月完工-檔主-部份人乾脆結業	未分類
 2026-08-24	恒生私有化後裁員？李樺倫：財管前線人手增兩成 增數家財管中心	https://www.hk01.com/article/60383131	未分類
@@ -338,6 +354,7 @@ var DATA_ECONOMY = `
 2026-08-24	Google購Spirit數據工會入稟保障前員工私隱訓練AI模型需求大倒閉企業內部資料有價	https://paper.hket.com/article/4181030/Google購Spirit數據 工會入稟保障前員工私隱	未分類
 2026-08-24	Apple蘋果裁員200人｜Vision Pro遊戲團隊解散 Siri換血轉向內幕	https://www.hk01.com/數碼生活/60383078/apple蘋果裁員200人-vision-pro遊戲團隊解散-siri換血轉向內幕	未分類
 2026-08-24	AI掀失業潮 憂釀金融危機	https://orientaldaily.on.cc/content/%E7%94%A2%E7%B6%93/odn-20260824-0824_00202_030/AI%E6%8E%80%E5%A4%B1%E6%A5%AD%E6%BD%AE--%E6%86%82%E9%87%80%E9%87%91%E8%9E%8D%E5%8D%B1%E6%A9%9F	未分類
+2026-08-23	韓國散戶追捧高達40%票息產品，歷史性股市暴跌反燃投資熱情 作者 Investing.com - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE8ySmFybUNLVkxsU0FPejhBTS11aU1yM2s3cmI0TGVLcVQ2M1MxTFpzdzBaY1JZQ1BjcGYxNGJac1c1LXBPQmoyOEtUTW9xcEhHMWNhY3Bxd3BMLXB3MXNhUmtLcDdvY1hyNU1pbjVJZXM?oc=5	未分類
 2026-08-23	加美談判破裂 企業憂50%關稅重創生意 部分小企稱恐「被迫結業」	https://www.singtao.ca/7605462/2026-08-23/news-加美談判破裂 企業憂50%關稅重創生意 部分小企稱恐「被迫結業」/	未分類
 2026-08-23	三人小組產出抵 40 人，AI 未釀失業潮卻悄悄顛覆勞動市場遊戲規則	https://technews.tw/2026/08/23/ai-not-causing-job-loss-research-truth-jobs-not-disappearing-vulnerable-positions/	未分類
 2026-08-22	長沙灣老店對決｜樂園結業全因被「頂死」？網民嘆對手坤記太強：$39雞髀撈麵加奇招點鬥	https://www.stheadline.com/food/3606889/長沙灣老店對決樂園結業全因被頂死網民嘆對手坤記太強39雞髀撈麵加奇招點鬥	未分類
@@ -527,6 +544,7 @@ var DATA_ECONOMY = `
 2026-08-12	FTX破產財團出手！解壓逾20萬枚SOL，價值超1500萬美元	https://www.tradingkey.com/zh-hant/analysis/cryptocurrencies/sol/262098253-crypto-solana-sol-price-ftx-alameda-otc-tradingkey	未分類
 2026-08-12	Bitwise裁員14% 加密資產管理公司因應市場低迷調整布局	https://finance.biggo.com.tw/news/a7653059-99f2-4777-9f3a-7e49101a9f67	未分類
 2026-08-12	39歲女星朱銳破產失業 獲趙露思出手相助？	https://www.epochtimes.com/b5/26/8/11/n14828097.htm	未分類
+2026-08-12	10年期美債標售殖利率衝上4.683% 創金融危機以來新高	https://news.google.com/rss/articles/CBMi2AJBVV95cUxOQ213MzRwM3YzbGE2c1RzejRaelR6cFNoSVdfNVp4U1plX3Mydjluazh6cWRlWjQtbGxPRWtkN1lUbzVVMGVfVms5bkFTZ3oteDlRNkVZWTFxWWlyQXNsT1lkUzZzMUlBY3FUWktzRmpaY3Z4bG1qQU55SkVJY1FtalJnLTVKTEFPVUhkMXpBYnhmZi03T1ZlVWdOR2lNdTlRYkIyOW9ubnY0YjRwR1NWQnZub1dqWkJZS1NqV3MwdlJteHVNU2VlclRsU1pWY0k0RTQ4LTVNaXd1cWdncHB6aU1iV3ZsZ0w3Y29qaW5LbDhsTS0yd0ZoRm9LdjNHcUR2Y3pkNFFwWnVBSEJfOVV0Qi1TRXFuemxUemFzMExzODF6d19FM1Q1QTIxb2Zja2VjTzJwanc1TkthOE1wUWFoT2dySU9iMGEtWnJFU3IyNC13bVRTRmdrLQ?oc=5	未分類
 2026-08-11	韓式婚紗「韓國藝匠」無預警停業！網揭倒閉前2異狀，受災準新娘：夢碎了	https://tw.news.yahoo.com/韓式婚紗-韓國藝匠-無預警停業-網揭倒閉前2異狀-受災準新娘-023800468.html	未分類
 2026-08-11	韓國藝匠疑無預警倒閉！門市租約到期負責人神隱，已付款新人自救法一次看| 陳逸群 | 地方新聞	https://www.storm.mg/article/11155632	未分類
 2026-08-11	韓國藝匠惡意倒閉？陳妍希、楊謹華都穿過 負責人聲明、退款方式	https://www.nownews.com/news/6864794	未分類
@@ -638,6 +656,7 @@ var DATA_ECONOMY = `
 2026-08-06	推進地方國立大學免費教育……“私立大學倒閉”有對策嗎？	https://www.donga.com/tw/article/all/20260806/6336796/1	未分類
 2026-08-06	戴利稱聯儲局需收集更多數據 庫克：如通脹仍過高 將支持加息	https://news.rthk.hk/rthk/ch/component/k2/1865192-20260806.htm	未分類
 2026-08-06	將軍澳UNY貨架清空掀結業疑雲！街坊最不捨壽司檔！官方FB解畫揭真正原因...	https://hk.ulifestyle.com.hk/topic/detail/20105023/將軍澳uny貨架清空掀結業疑雲-街坊分析-做唔住-大原因-官方揭真正原因	未分類
+2026-08-06	亞洲科技股波動劇烈 創全球金融危機以來新高	https://news.google.com/rss/articles/CBMizwJBVV95cUxQRDlyQ1JMQjdtdUFRMHRiX0RyX29BOERTMS1BYm52MEdXNmt0bEZSbHlUVl9VcENLbENaVEpyNlFtbnhKWXdZaWY1S2xYUzUxQW9ZZkZTU1lPOGxNcGFDM1N6bG90am1DRVpVUldYOFVjajRSeGE5M2Y4STU0RGJnZ3JTMkNyNGo1SG1tTjRhYXlXQ1VUQ2RKX3l3b3FKR2o0NEJRdGJRQ2hvTFJ0cW9XR1RER29hNjFLVHphVnN6UHhseTl2bndFUWpCaGlPdWJudU56VWEzMGF4ZGZiTk1zMV9kR2RNNzlNSS1oSUppbmlFUExzYmxreGFPUk12UjlnTWhPbktEMlNqdld4d3Y4SW9MbXFDREJ4WHd0QWExUHNkWEZ1WnZaaWV5dWdNMTNMVGZwaU02RlRac2MxdlR4aTFWSUVPcThCUlVoVGsyaw?oc=5	未分類
 2026-08-06	【美國息口】聯儲局理事庫克：通脹若不能放緩 準備好支持加息	https://inews.hket.com/article/4172047/【美國息口】聯儲局理事庫克：通脹若不能放緩 準備好支持加息	未分類
 2026-08-06	Halo Studios 在 Halo: Campaign Evolved 發行後裁員	https://www.gamereactor.cn/halo-studios-lays-off-staff-following-the-release-of-halo-campaign-evolved-1383123/	未分類
 2026-08-06	Block 財報大爆：AI 寫程式逼近 100%，裁員 4,000 人效率翻三倍	https://www.blocktempo.com/block-q2-earnings-beat-ai-coding-nearly-all-code-xyz-2026/	未分類
@@ -1006,6 +1025,7 @@ var DATA_ECONOMY = `
 2026-07-16	黃仁勳東京哽咽謝恩人！揭30年前差點破產：沒有SEGA就沒有輝達	https://tw.news.yahoo.com/黃仁勳東京哽咽謝恩人-揭30年前差點破產-沒有sega就沒有輝達-053904175.html	未分類
 2026-07-16	黃仁勳憶創業低谷：30年前「押錯寶」險倒閉！全靠SEGA看見輝達人才	https://esg.gvm.com.tw/article/121571	未分類
 2026-07-16	黃仁勳感謝世嘉救命投資 500萬美元助輝達走出倒閉危機	https://tw.stock.yahoo.com/news/黃仁勳感謝世嘉救命投資-500萬美元助輝達走出倒閉危機-185200070.html	未分類
+2026-07-16	香港盈富基金：自亞洲金融危機以來一直追蹤恒生指數的ETF巨擘？	https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXBtUWpvYnZtNVJ0b3hpcW1VZHl6XzIxcE55YzdPZENOS01YTXBTbDYxQkdiQU1kc0gwbTJaLWdwSzc1U1pCT3U2blQwUzAtRDdOMWl2WDVnblhtMkM5cE9QcnpKbE05YmdpdXVXUE5VWFJrT0hmV0VMNUd2aFZVTHUtUnRsUU45VWJGb3FBX0U0T01sb3lncnNxNWh0X3dWRkFmREx1QTAxT0hLUzZYUg?oc=5	未分類
 2026-07-16	青衣酒樓開業不足一年無預警結業 25名員工遭拖糧逾百萬元	https://www.orangenews.hk/hongkong/VPUo0t8/青衣酒樓開業不足一年無預警結業-25名員工遭拖糧逾百萬元.shtml	未分類
 2026-07-16	輝達30年前瀕臨破產...黃仁勳親赴東京見救命恩人 送SEGA合作大禮	https://news.ttv.com.tw/news/115071600027001	未分類
 2026-07-16	親子好去處｜歡樂天地MegaBox分店8.20結業 推碰碰車買一送一優惠 預告明年太古開店	https://topick.hket.com/article/4161903/親子好去處｜歡樂天地MegaBox分店8.20結業 推碰碰車買一送一優惠 預告明年太古開店?mtc=10006	未分類
@@ -1296,6 +1316,7 @@ var DATA_ECONOMY = `
 2026-07-01	微軟新一波裁員 傳再砍5500人	https://www.worldjournal.com/wj/amp/story/121208/9601994	未分類
 2026-07-01	微軟傳新一波裁員！預計縮減2.5%員工波及Xbox部門	https://www.4gtv.tv/article/2026070107000010?utm_source=popin	未分類
 2026-07-01	少子女、孕婦高齡化影響 日本8家助產師學校倒閉	https://news.pts.org.tw/article/815683	未分類
+2026-07-01	AI丨英央行官員:智能體興起或引發市場崩盤	https://news.google.com/rss/articles/CBMi3ANBVV95cUxOU2hmcUFFejNRXzJDX25LMkxUWjRPdU5MalJTMWhIYUZqMEYwU3VWR205bjRaOFdEd1o2dnNGN0Q2X3pFN3R0WDJseHY1OXNjT1lZZDh6dUpoYVdKbF9uSXBnZWczX1k1WEctVDFaQl9qX0psVGVuMk4tX1g3XzV2UG9xN255X0gycXR0eWhTenNBMjdlZ0RCTzMtYXVkN28yQ01WMUc0V3F0aWc4eGVnR0lJclFBVEl6cGpINDRFM0l6WWFsRVRKNU5iY2dsaW1FcndsWUlsanZBUG56ZVYtY1dLclp5N0pmam85OFV6YVJEMjFLeHViOGUzSEtKQUctNzJvbHdzdmNmbml0UDlROGVnbGVWTTR5MkRROGFsSko1QzR5QlpsRmxpSzA2bkhvNGlDa0l4TnNoblYyWDY0TGNwdkhnNWQ4QlpUQmY5b3cza2ctUUdZZ2Ria3BMM1hobzBaSXlDTEg1MElSbE93eThOdlNRRTktQ2k1cXo2Zmg3aXlWS3VxdFd5c1NvU2gxcy0tT3lBeGhBV2FKX1loc2wtTVBDd3lGdmNEQXhCWkxOV25ad1RKQ3dCamRVczJaWGs4cWZramgxLTFoNFVSVm1lZ0JDRjBFV3pjOA?oc=5	未分類
 2026-06-30	韓電視台JTBC財困傳倒閉 節目如常錄製 有藝人遭拖欠出騷費	https://www.stheadline.com/film-drama/3588583/韓電視台JTBC財困傳倒閉-節目如常錄製-有藝人遭拖欠出騷費	未分類
 2026-06-30	譚凱琪入稟高院 向監製鄧特希呂晶晶提破產呈請 - 20260630 - 娛樂	https://news.mingpao.com/pns/娛樂/article/20260630/s00016/1782751146257/譚凱琪入稟高院-向監製鄧特希呂晶晶提破產呈請	未分類
 2026-06-30	譚凱琪入稟申請TVB金牌監製鄧特希破產！驚爆與呂晶晶秘婚？昔日閨密對簿公堂	https://www.orangenews.hk/entnews/VNzKopH/譚凱琪入稟申請TVB金牌監製鄧特希破產-驚爆與呂晶晶秘婚-昔日閨密對簿公堂.shtml	未分類
@@ -1322,6 +1343,7 @@ var DATA_ECONOMY = `
 2026-06-29	粉嶺「雅士餐廳」結業！聯和墟45年西餐老字號 罕見懷舊裝修/焗田螺不敵業主加租	https://www.stheadline.com/food/3588095/粉嶺雅士餐廳結業聯和墟45年西餐老字號罕見懷舊裝修焗田螺不敵業主加租	未分類
 2026-06-29	福士擬關閉德國4車廠、裁員擴大至10萬人網民考古2017年CEO揶揄Tesla言論：句句「迴力鏢」...	https://wealth.hket.com/article/4153371/福士擬關閉德國4車廠、裁員擴大至10萬人 網民考古2017年CEO揶揄Tesla言論：句句「迴力鏢」...	未分類
 2026-06-29	布碌崙首屆中文班結業 設獎學金鼓勵學中文	https://www.epochtimes.com/b5/26/6/29/n14798745.htm/amp	未分類
+2026-06-29	告別金融危機時代！資管巨頭：Fed運作環境重回1990年代 利率波動將加劇	https://news.google.com/rss/articles/CBMirwNBVV95cUxNN3FELTVISzFTeGZTNUJqYlptLUNFbmRBMHJaYUp3b3ZXLXNjcnAxR0ZudWljUzJodTNtX3hmSDMyN0xCVGNXV3hpMjRTTEFNSi1SQksza3pweXFRakNDNWc4bW5mNFdHTGktcGxrSERrNWlxM0lfc3cxdHdZa1E0UjlPUG5MTmlmTlExa0xnM0RWNTV5UTdGTTM4cVRaUmNNSV9IMUxiSmFiNEMwdFNwSnZXQXg4S1k2QWNDcDRCS0Ria1hSeVY3V056SWtSUkVnRWpjNE1qOFFEZXR6d2h5TExvdlFMenpXQ3hkWUdwWEFnWkJ4TWpVUWZ4bUFRYUlIQVhCcWF1XzUtYTRoUE9TUnQxMEdQaURqZkJlNzU4bzE4dlBFcWxMZFNQdFpmZWVscGZ4UEd4Z2NScUN0dkFEQl84SlQ1VHllaGpmN3R4VUUtREN5dXBGMHJ6dlhHOUdHdjRreU5mQVVZVFlzQmZQQ0tJQmdSMWwySVNrb19kZDU3SEExaVR4WmxldHN2VllFd3VfNlplS3VtaDd6a1luYXNFWVdyRWc2RGJfMU1rcw?oc=5	未分類
 2026-06-29	千之味刺身壽司香港元朗店6月28日結業 年内連關兩分店	https://www.guandian.hk/article/20260629/569827.html	未分類
 2026-06-29	【AI+泡沫】BIS年度報告：AI過度燒錢恐釀全球衰退 通脹「第二輪效應」發生機率上升	https://inews.hket.com/article/4153578/【AI-泡沫】BIS年度報告：AI過度燒錢恐釀全球衰退 通脹「第二輪效應」發生機率上升	未分類
 2026-06-29	Lucid Motors大幅裁員以降低成本	https://www.highmotor.com/zh-TW/Lucid-Motors大幅裁員以降低成本.html	未分類
@@ -2074,6 +2096,7 @@ var DATA_ECONOMY = `
 2026-03-13	加密法案再延宕！美參院領袖：市場結構法最快四月，CBDC 禁令修正案先闖關	https://www.blocktempo.com/us-senate-thune-crypto-market-structure-bill-april-cbdc-ban/	未分類
 2026-03-13	Meta據報計劃裁員兩成 以抵銷AI設施投資成本	https://www.singtao.ca/7444349/2026-03-13/news-meta據報計劃裁員兩成+以抵銷ai設施投資成本/	未分類
 2026-03-13	Atlassian 裁員1600人轉向AI 聚焦具備轉職技能與AI原生人才	https://tw.stock.yahoo.com/news/atlassian-裁員1600人轉向ai-聚焦具備轉職技能與ai原生人才-190606486.html	未分類
+2026-03-13	2008年金融危機要重演？美銀策略師發出警告	https://news.google.com/rss/articles/CBMisAJBVV95cUxPeVJ2dmpwU3NzdUx4bEJzOVVyeTNWRnlIbXU3eEd3MllsQ3dqM2tObjlxdUV1QkF0VE1wREtaN2FocVF1U0xYS0ZGTHJwQlE3bEx3b3V4UEliaTVjWllTelZITlJtRkoteF92X09QQXYtSEhIbDVQeVM0Z3BOdThPRkY3V2s1d2JDclpxMGgtSjQzVVpoMzBqVENwTm0xUXZmaDF2NE1MY1pfdnR5dkNlMktyWTZBUVVlaVQwRE5kdWxCSVlSRVVKZmcyYTZjUWpDNVE0VElOTHlUdGFXWVA1OTFvR2IyenJfVFNPWGc1Y3d0WmRfVzE5NldXcWlIbjBvdmxQdmd3MTM2OEFMMHgzOG5vaWdZSjVEcll5bVlqbjBRd0tadUd0RnN2SUx5LVBB?oc=5	未分類
 2026-03-11	紅磡豪宅商場淪「高級死場」？百佳旗下Fusion超市結業離場僅剩這家店守得住街坊總結3大致命傷	https://www.stheadline.com/lifetips/3551751/紅磡豪宅商場淪高級死場百佳旗下Fusion超市結業離場-僅剩這家店守得住-街坊總結3大致命傷	未分類
 2026-03-11	Atlassian裁員約10%，稱需適應AI崛起	https://cn.wsj.com/articles/atlassian裁員約10-稱需適應ai崛起-191467f6	未分類
 2026-03-09	美國之音遭大裁減 聯邦法官判川普政府無權裁員	https://www.setn.com/news/1804453	未分類
