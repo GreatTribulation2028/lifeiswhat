@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="zh-HK">
 <head>
 <meta charset="UTF-8">
@@ -431,7 +431,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <div class="s-label">DATA</div>
 <div class="s-title" id="data-date-title">2021 年 — 至今</div>
 
-<div class="chart-box" id="year-curve-box" style="margin-top:20px"><h4>📊 年度死亡時間曲線（2019 → 今日）</h4><div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px"><button class="ycf-btn" data-ycf="ALL" style="padding:4px 10px;cursor:pointer">全部</button></div><canvas id="year-curve"></canvas><div id="year-curve-note" style="font-size:12px;opacity:.7;margin-top:8px"></div></div><div class="chart-box"><h4>📈 月度趨勢</h4><canvas id="mom-chart"></canvas></div>
+<div class="chart-box" id="year-curve-box" style="margin-top:20px"><h4>📊 年度死亡時間曲線（2019 → 今日）</h4><div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px"><button class="ycf-btn" data-ycf="ALL" style="padding:4px 10px;cursor:pointer">全部</button></div><canvas id="year-curve"></canvas><div id="year-curve-note" style="font-size:12px;opacity:.7;margin-top:8px"></div></div><div class="chart-box"><h4>📈 月度趨勢（猝死/暈倒）</h4><canvas id="mom-chart"></canvas><div id="mom-note" style="font-size:11px;opacity:.7;margin-top:8px;font-family:var(--f-mono)"></div></div>
 <p style="text-align:center;font-family:var(--f-mono);font-size:11px;color:var(--text-dim);margin-top:16px">數據收集自 2021 年至今 · 每日更新 · 共 <span id="proof-total">—</span> 宗記錄</p>
 <div class="subkw-box"><h4>🔍 突發死亡關鍵詞分類統計</h4><div id="subkw-list"></div></div>
 </div>
@@ -487,11 +487,17 @@ var SUBKW_GROUPS=[
 {icon:'🏃',name:'倒斃 / 路倒 / 當場不治',kws:['倒斃','路倒','到院前死亡','暈倒不治','昏倒不治','倒地不治','送院不治','搶救不治','急救無效']}
 ];
 function isSuddenDeath(t){return ALL_SUDDEN_KW.some(function(k){return(t||'').includes(k)})}
+/* ★ 標題顏色：Ollie 要求「各自不同地 RANDOM」
+   舊版只有 4 種顏色（心臟/腦/核心/其他），所以啲新聞睇落全部一樣色。
+   而家用標題 hash 做種子，產生 8 種色 → 每條新聞都有自己個色，
+   而且同一條新聞每次 refresh 都係同一個色（唔會亂跳）。 */
+var SUDDEN_PALETTE=['#ff4444','#a855f7','#ff6b35','#ffaa44','#4dd4ac','#5ba8ff','#ff7eb6','#c2e34a'];
+function hashStr(s){var h=0,i;for(i=0;i<s.length;i++){h=((h<<5)-h+s.charCodeAt(i))|0;}return Math.abs(h);}
 function getSuddenColor(t){
-if(KW_CARDIAC.some(function(k){return t.includes(k)}))return '#ff4444';
-if(KW_BRAIN.some(function(k){return t.includes(k)}))return '#a855f7';
-if(KW_CORE.some(function(k){return t.includes(k)}))return '#ff6b35';
-return '#ffaa44';
+  // 先按死亡類型保留語意（心臟=紅、腦=紫），其餘用 hash 分配 8 色
+  if(KW_CARDIAC.some(function(k){return t.includes(k)}))return '#ff4444';
+  if(KW_BRAIN.some(function(k){return t.includes(k)}))return '#a855f7';
+  return SUDDEN_PALETTE[hashStr(t)%SUDDEN_PALETTE.length];
 }
 /* ===== 萬年曆死亡統計 ===== */
 var calMode='day';
@@ -842,12 +848,20 @@ function renderMoM(events){
 var ns=events.filter(function(e){return hitIndexTitle(e.title)});
 var mm={};
 ns.forEach(function(e){var ym=e.date.slice(0,7);mm[ym]=(mm[ym]||0)+1});
-var labels=Object.keys(mm).sort();
-var values=labels.map(function(l){return mm[l]});
+var keys=Object.keys(mm).sort();
+// ★ 原本 141 個月全部擠入一條線，X 軸只有 6 個 tick 睇唔出邊個係邊個月 → 誤以為「表錯了」
+//   而家：X 軸只顯示「年-月」（每年頭一個月 + 最後一個月），資料點全部保留
+var labels=keys.map(function(k){return k.replace('-','/')});
+var values=keys.map(function(k){return mm[k]});
 var cv=document.getElementById('mom-chart');if(!cv)return;
 if(mChart)mChart.destroy();
 Chart.defaults.color='#8899aa';Chart.defaults.font.family='"Share Tech Mono",monospace';Chart.defaults.font.size=12;
-mChart=new Chart(cv.getContext('2d'),{type:'line',data:{labels:labels,datasets:[{data:values,borderColor:'rgba(255,107,53,.7)',backgroundColor:'rgba(255,107,53,.08)',borderWidth:1.5,pointRadius:1.5,pointHoverRadius:4,fill:true,tension:0.3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{maxTicksLimit:6,font:{size:11}}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.04)'}}}}}); 
+// 每個年份的第一個月標籤
+var yearFirst={};
+keys.forEach(function(k,i){var y=k.slice(0,4);if(!(y in yearFirst))yearFirst[y]=i});
+mChart=new Chart(cv.getContext('2d'),{type:'line',data:{labels:labels,datasets:[{data:values,borderColor:'rgba(255,107,53,.7)',backgroundColor:'rgba(255,107,53,.08)',borderWidth:1.5,pointRadius:1.5,pointHoverRadius:5,fill:true,tension:0.3}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{title:function(it){return keys[it[0].dataIndex]||''},label:function(it){return it.parsed.y+' 宗'}}}},scales:{x:{grid:{color:'rgba(255,255,255,.03)'},ticks:{maxRotation:0,autoSkip:false,font:{size:10},callback:function(v,i){return (i in yearFirst)?labels[i]:''}}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.04)'},ticks:{precision:0}}}}}); 
+var note=document.getElementById('mom-note');
+if(note)note.textContent='共 '+keys.length+' 個月（'+keys[0]+' 至 '+keys[keys.length-1]+'），X 軸顯示各年首月';
 }
 /* Splash: scrollable list of SUDDEN records (latest day first; scroll to see older) */
 function renderSuddenList(events){
