@@ -1,4 +1,4 @@
-// 治安 | 由 build_news_js.py 生成 | 共 1816 條
+// 治安 | 由 build_news_js.py 生成 | 共 1817 條
 var DATA_SECURITY = `
 2026-10-02	花蓮男毒駕肇事還載7歲兒 警方通報社工介入	https://news.ltn.com.tw/news/society/breakingnews/5593147	未分類
 2026-10-02	毒駕罰9萬離職逃扣薪 房產被法拍	https://news.ltn.com.tw/news/society/breakingnews/5593304	未分類
@@ -690,6 +690,7 @@ var DATA_SECURITY = `
 2026-07-08	韓男為昏迷女生解胸圍做CPR搶救 反被告性騷擾索賠	https://hk.on.cc/hk/bkn/cnt/intnews/20260708/bkn-20260708131003157-0708_00992_001.html	未分類
 2026-07-08	華富邨謀殺案│二人在小巴已打鬥約兩分鐘 死者被掐頸約三分鐘	https://www.singtao.ca/7560459/2026-07-08/news-華富邨謀殺案｜死者遭扼頸約兩分鐘昏迷+50歲疑兇折返被擒+案件明天提堂/	未分類
 2026-07-08	涉詐騙國際留學生逾12萬元 安省兩人被控多項罪名	https://www.singtao.ca/7559655/2026-07-08/news-涉詐騙國際留學生逾12萬元 安省2人被控多項罪名/	未分類
+2026-07-08	57歲勇男阻嫌犯「肉身擋彈」遭砍亡 妻子哀慟： 他很有正義感	https://www.msn.com/zh-tw/news/national/57歲勇男阻嫌犯-肉身擋彈-遭砍亡-妻子哀慟-他很有正義感/ar-AA1SHsuA?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	未分類
 2026-07-07	韓警方：正調查網上有帖文威脅殺死總統李在明 (14:46) - 20260707 - 國際	https://news.mingpao.com/ins/國際/article/20260707/s00005/1783406809006/韓警方-正調查網上有帖文威脅殺死總統李在明	未分類
 2026-07-07	斯里蘭卡監獄發生大規模暴動 包括7名獄警在內的26人死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/07/07/content_8763555.html	未分類
 2026-07-07	摩納哥郵包炸彈襲擊案疑犯死亡 烏方證執法人員擅自行動	https://news.google.com/rss/articles/CBMibEFVX3lxTE5BbnhjUnA1ZjZUSWVObExPdVRfMG1mZkh2NlJMVUZuVnV2VjVvbXVPNUVGTmFSUmwwd29pQnphRWpVNzl4OGlycC1iX2Jaa1VXSDJXYmJwUEhGcFhSakpWNEJFNHpITmNSZFRpOQ?oc=5	未分類
