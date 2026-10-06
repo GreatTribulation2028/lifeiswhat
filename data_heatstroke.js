@@ -1,9 +1,5 @@
-// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2365 條
+// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2333 條
 var DATA_HEATSTROKE = `
-2026-10-05	黃大仙下邨女子報案揭六旬男不省人事 兩人俱送院	https://news.google.com/rss/articles/CBMi7gJBVV95cUxPZzBCU0diUWRNU195TElCa1lHc2gxbElLaXZ5b3pPbmViWHl1WTZCZzFlX0dMQzNzTDdwWnc3LTBHUDRiOWZjYVF6RWd4LWMwWTRRaXp2bG1jcEo5eVl6UjkwV1pOUEdwal90bHJNLTE3a1FvczFkOEtGeGdCQmdSNDdZT0hoQkhnNWwyaUpvY19YcDN5Z0FZZFlpVEY2cVRZUUhtdmN6bFhnUWN1VHZzQlkxV3V4TEI4SVhMUlBBNDZMaHN6N0lhdFRDeXRsT0JXLS12c1NZYkFmTWJ1RDUxaUVjbzJyaDdpeGNQcHVqaXR1MTVuUXV5U1ZiMG5FU2ZzTmsxVXBhcnVzUXJ1LUU1dlF2MUdueVlDcXdSejhERVY0Q081Z2dFVTc1clNLNnJieWJ4dWhpbC1hNlBvR3lydmFjdzk0SXF4bXVGdTRCZGhpemJ0aGdNMUppX1pra2p4WTRvQ084RDI5ZFdWeEE?oc=5	未分類
-2026-10-05	黃大仙下邨女子報案喊救命揭六旬男不省人事兩人俱送院- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTE5oTVdsa2NuTVQ4YURtaTFqMWtqRmpicTU2aW9nM2loM1l2ZUxMX2ZaTHcwX1BOa1JHcTcxR0YwSDFRYU8xcS00VGlGb0lnV2hPX1NyTmxLNUJ5akVqanlvQmloSUg1cFlLU05NMGtUY2hpTUN4QUJGODl3?oc=5	未分類
-2026-10-04	快訊》高溫燒灼3縣市！氣象署急示警：嚴防熱衰竭上身| 生活	https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MbXg1RW44WDBTV0NLZjdpWG05VUFjUGtCbWZDOFY2VWR3YVplbDBSS3J0b08wZlFiTVJjZ1RlVHZXUXl4YWdoeVI5dnVnMkJXQmU4VjEyQ2drMGs?oc=5	未分類
-2026-10-03	美田納西州注射死刑失敗 死囚失去意識、靠呼吸器維生	https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BVFlqV3F6N2gtREs5WnNzNWwxMjNKSlFxRkxoTWhHZElzLWNSTDA5OTRIa1RMb2szN2tUZm96TlBiRXh0cW1KUGhHRTdZSTdzSmYwX2U5bw?oc=5	未分類
 2026-10-02	韓團SHINee泰民突昏倒送院 演唱會緊急取消	https://hk.on.cc/hk/bkn/cnt/entertainment/20250813/bkn-20250813123045678-0813_00862_001.html	未分類
 2026-09-30	藍黨部主委蔡明顯昏倒摔下台傷勢照曝 左手骨折、臉部多處受傷	https://www.ettoday.net/news/20260930/3246342.htm	未分類
 2026-09-30	旅遊劇烈頭痛以為中暑差點沒命！49歲香港女遊九份腦動脈瘤破裂 基隆長庚救回	https://health.tvbs.com.tw/medical/366345	未分類
@@ -65,7 +61,6 @@ var DATA_HEATSTROKE = `
 2026-09-18	大埔72歲婦過路遭撞昏迷｜68歲司機面臨嚴重指控	https://www.gotrip.hk/人氣話題/大埔交通意外-老婦昏迷-危險駕駛-1906689/	未分類
 2026-09-18	傳習近平出席金磚峰會「昏倒急救」？ 印度官方重話駁斥	https://tw.news.yahoo.com/傳習近平出席金磚峰會-昏倒急救-印度官方重話駁斥-023500991.html	未分類
 2026-09-18	七旬菜贩摆摊突昏倒 小贩急救仍回天乏术	https://www.orientaldaily.com.my/news/society/2026/09/18/848750	未分類
-2026-09-18	MLB｜驚悚意外！大都會一壘手楊恩頭部遭隊友膝蓋重擊一度失去意識 最新傷情曝	https://news.google.com/rss/articles/CBMib0FVX3lxTFB4OVRlcktENzhjNlpwX1VBcWx1VzFvNHBnWUZDMFBtWk9aVTRMRURXSjdWQ0VJOEI1VnhydnYxejMwRTlQLWNVc0FfWGdFLW1oYUVkTnlkUTZoUXp0YXg4ZGVTa29wQ3FMRXVmczlXYw?oc=5	未分類
 2026-09-17	藍田站18歲女生暈倒 送院搶救後恢復意識	https://www.stheadline.com/breaking-news/3616492/藍田站18歲女生暈倒-送院搶救後恢復意識	未分類
 2026-09-17	華人坐郵輪突發昏迷、生死危急 疑食用這些美食惹禍？	https://www.worldjournal.com/wj/story/121360/9760071	未分類
 2026-09-17	習近平印度暈倒？網傳多名領袖金磚峰會生病 官方證實是「他」	https://www.setn.com/news/1908661	未分類
@@ -90,7 +85,6 @@ var DATA_HEATSTROKE = `
 2026-09-14	男子秀茂坪遭的士撞 半昏迷送院 (11:51) - 20260914 - 港聞	https://news.mingpao.com/ins/港聞/article/20260914/s00001/1789356849624/男子秀茂坪遭的士撞-半昏迷送院	未分類
 2026-09-14	校車駕駛疑熱衰竭仍上路釀擦撞 學生機警熄火幸無人受傷｜20260914 公視晚間新聞	https://news.pts.org.tw/video/21998	未分類
 2026-09-14	校車駕駛疑熱衰竭仍上路釀擦撞 學生機警熄火幸無人受傷	https://news.pts.org.tw/article/827033	未分類
-2026-09-14	台南飆高溫2人熱衰竭不幸身亡- 2014年05月19日	https://news.google.com/rss/articles/CBMiT0FVX3lxTE56cjZCalQxUm9QMlBMOWRVOGtkRTdZalp4YWtqWmJVWERuZExHRjY1WjJmbHp6S0dQWFpoT3BnaXZWV3ZwRjhjaEpscU1JSVU?oc=5	未分類
 2026-09-13	防曬補水做不足 入秋也中暑	https://health.ltn.com.tw/article/paper/1770468	未分類
 2026-09-13	荃灣梨木樹商場地下 老翁老婦被發現昏迷 兩人送院搶救後甦醒	https://www.hk01.com/突發/60389586/荃灣梨木樹商場地下-老翁老婦被發現昏迷-兩人送院搶救後甦醒	未分類
 2026-09-13	梨木樹商場老翁老婦倒地昏迷急送醫院搶救- 香港	https://www.wenweipo.com/a/202609/13/AP6aa69688e4b01d54a283012a.html	未分類
@@ -118,7 +112,6 @@ var DATA_HEATSTROKE = `
 2026-09-08	黃瑄重逢離家出走女兒太激動 心絞痛暈倒遇到噗嚨共又慘摔	https://tw.news.yahoo.com/黃瑄重逢離家出走女兒太激動-心絞痛暈倒遇到噗嚨共又慘摔-120400520.html	未分類
 2026-09-08	男綠島深潛疑不慎嗆水失去意識無心跳驚險救回| 社會	https://www.cna.com.tw/news/asoc/202609080337.aspx	未分類
 2026-09-08	八大道上演驚險救援 路人拖出昏迷司機	https://www.epochtimes.com/b5/26/9/8/n14844619.htm/amp	未分類
-2026-09-08	中暑｜夏日行山易墮中暑陷阱！醫生教4大急救保命貼士 點補水先正確？	https://news.google.com/rss/articles/CBMiqANBVV95cUxQcjgwQ3hNSkNRUFVPYW9LQ2hXU2x6M2h3ejFvcUJLemNuNDFDSnVBZVUtNTU4WldzSWRnUDhNWGhPWUdVWTllMjM0MlJ5VU94WFRYZ1duOXpZRnV5NC1Ha3VXT1ZaVGl6cWgwSVFtY2FXc3FXNm5yM0dNN2d2N2UwUjVPQmUyRDRCbWF0TjRIZWc5eUxwMlJmRUVtUkFGRHA5dzdVdzJiQnhzdDJwVGkxZEwxYTljREJUa3dZVFZRV21yOVpFZGZ0c0MweVpnTkktek1ZcUR1Y2V0UHM0YkI0Mmd3TmY1RGpTRVhHUUVtSllScDJBbFBBYndXZjFOWTY3Z0ZucU1pcldCSFlBZjhuQU1MVUhxbVdBRFF6ZGg5NnltSVE5ZXRSTXg4SmNSVjNHMl9nbGdyellUQ20xZ1RrTVpxT1BCNm5GQ29wQzkxaW9LczhZY2VjcXRPcVZPanVIX2Z2UThvdm9fcElrU0hCR3dCMlpTb3ZkRzJRUFJxRVJMWHNGVTRHaFJfUjMtY01lbk1MampRVDdkNTZvS3o0WGVCM1FtN1Vp?oc=5	未分類
 2026-09-07	西灣河印傭屋內昏迷送醫	https://orientaldaily.on.cc/content/要聞港聞/odn-20260907-0907_00176_265/西灣河印傭屋內昏迷送醫	未分類
 2026-09-07	沙田14歲男生校內暈倒 昏迷送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260907/bkn-20260907084749893-0907_00822_001.html	未分類
 2026-09-07	李榮浩粉絲在演唱會上中親簽「激動到暈倒」 網嘆：心酸又好笑	https://www.ettoday.net/news/20260907/3233056.htm	未分類
@@ -138,8 +131,6 @@ var DATA_HEATSTROKE = `
 2026-09-05	賽馬會跑馬地會所83歲老翁暈倒 昏迷送院搶救（更新）	https://hk.news.yahoo.com/賽馬會跑馬地會所83歲老翁暈倒-昏迷送院搶救-更新-033352313.html	未分類
 2026-09-05	西貢滘西洲高球場6旬男打波期間暈倒 直升機送院搶救 西貢賽馬會滘西洲公眾高爾夫球場，今（5日）中午約1時，一名64歲男子在場內打高爾夫球期間，突暈倒墮地撞到頭部，昏迷不醒，職員見狀報警求助，政府飛行服務隊奉召出動...	http://www.stheadline.com/breaking-news/3611955/%E8%A5%BF%E8%B2%A2%E6%BB%98%E8%A5%BF%E6%B4%B2%E9%AB%98%E7%90%83%E5%A0%B46%E6%97%AC%E7%94%B7%E6%89%93%E6%B3%A2%E6%9C%9F%E9%96%93%E6%9A%88%E5%80%92-%E7%9B%B4%E5%8D%87%E6%A9%9F%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
 2026-09-05	西貢滘西洲高球場6旬男打波期間暈倒 直升機送院搶救	http://www.stheadline.com/breaking-news/3611955/西貢滘西洲高球場6旬男打波期間暈倒-直升機送院搶救	未分類
-2026-09-05	藥師下藥致女大生斷片！ 醫師蘇一峰：一顆就不省人事 | 生活 | CTWANT	https://news.google.com/rss/articles/CBMiT0FVX3lxTE01aHY1ZEhocnU1UnBJR2lLdlZhOEVlSk00RENLR1FxaW5RT3JnUHdRT0ZZT2N5SXV1Tm8zLWdIbzQ1N3hBb2pEWGdYSkZoNE3SAVRBVV95cUxOM1laZ0ZKSWszRU13RnRoSVV6LS1iMFBBRloydnBwVnEycU9RN0gyQmZRQ2VQVHpHdy1zc09DQmpPV1FqaUd4d2Z0dS1FU01aZDRHY1Q?oc=5	未分類
-2026-09-05	女大生遭下藥斷片！蘇一峰喊太可怕：一顆就能不省人事	https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMdmY4Q1c2OHNSMGNDaUpvUXNOZWFWN1EyNE45YUxOQ2lGTEwzaDNaT2Y3djhTS0dFY216eHFFbW5DODNZUTZmNDR6MGZHZUNLRHNr?oc=5	未分類
 2026-09-05	北角東廊兩車相撞 Tesla司機疑駕駛時暈倒昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260905/bkn-20260905111440956-0905_00822_001.html	未分類
 2026-09-05	八旬太極導師於馬會山光道會所昏迷 (11:01) - 20260905 - 港聞	https://news.mingpao.com/ins/港聞/article/20260905/s00001/1788577463467/八旬太極導師於馬會山光道會所昏迷	未分類
 2026-09-04	電梯口昏倒！國小女師控噁保全「假CPR真揉胸強吻」 一審無罪高院「這關鍵」大逆轉判8月	https://tw.news.yahoo.com/電梯口昏倒-國小女師控噁保全-假cpr真揉胸強吻-審無罪高院-這關鍵-025200611.html	未分類
@@ -167,7 +158,6 @@ var DATA_HEATSTROKE = `
 2026-09-01	大聯盟主審熱衰竭視線模糊 退場送醫比賽延誤14分鐘 | 民視新聞網	https://today.line.me/tw/v3/article/LXyvnBa	未分類
 2026-09-01	吉林虎園幼崽被飼養員踢昏迷 園方：他被咬後本能甩開	https://www.worldjournal.com/wj/amp/story/121344/9726995	未分類
 2026-09-01	「車模界林志玲」打牛奶針昏迷拔管 閨密控家屬奪產判4月	https://news.ebc.net.tw/news/society/569118	未分類
-2026-09-01	MLB教士隊5比0完封紅人主審熱衰竭退場比賽一度中斷| 民視新聞網	https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmpmVWhTaTJUUUdDenJUQkh2TjhKaERXUlhxektaUFZhcFk2b0RJaVluM3RheFd3Q1JzbWktYmdaOWhlLUI3VWVDTTJESjFuZmhub0EtaVVkTVZKRWRHS3RfVHl1Tlg3Rlo2RTI0M1dYdC04RVBZQ3dxR1Y5dkY5NHo0ZWFER2lr?oc=5	未分類
 2026-08-31	屯門寶田邨中年漢屋內暈倒 保安發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20260831/bkn-20260831212646113-0831_00822_001.html	未分類
 2026-08-30	（有片）珍惜生命｜青衣老翁墮海昏迷送院搶救- 港聞 今日（30日）上午11時36分，警方接獲途人報案，指一名男子於青衣長輝路對出20米海面漂浮。人員接報到場，消防將該名姓蔡（78歲）老翁救起，老翁昏迷被送往仁濟醫院治療...	https://www.dotdotnews.com/s/202608/30/AP6a93e669e4b04b6c5d384e6b.html	未分類
 2026-08-30	青衣9號碼頭對開男子海面漂浮 救援船撈起昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20260830/bkn-20260830113914252-0830_00822_001.html	未分類
@@ -191,7 +181,6 @@ var DATA_HEATSTROKE = `
 2026-08-25	老人棋牌館暈倒 店主幫扶送醫遭家屬索賠10萬 網民：誰敢當好人	https://www.hk01.com/大國小事/60383357/老人棋牌館暈倒-店主幫扶送醫遭家屬索賠10萬-網民-誰敢當好人	未分類
 2026-08-25	湖南老人進店暈倒亡 店家「扶一下」被索賠10萬 結局翻轉	https://www.worldjournal.com/wj/story/121344/9712490	未分類
 2026-08-25	湖南店主救暈倒老人反被屈索償10萬 官方證清白獲2萬慰問金	https://www.kinliu.hk/news/民生/湖南店主救暈倒老人反被屈索償10萬-官方證清白獲2萬慰問金/257421.html?id=83&from=home&bc1=首頁&bc1to=/	未分類
-2026-08-25	33歲寫真女星懷孕21周心碎引產：哭了很久很久安胎換成催生「痛到失去意識」...留下寶寶最後紀念	https://news.google.com/rss/articles/CBMiUkFVX3lxTE93RXcwRHpoUmdMUmM3dVEtb2F0Zm5rWXFCa3ZpcFhEMHU0NzgzS1NHSzIwOVhla0k3Tm5GLUdQaWV1ejY5c0lEV0lOMWVYU3ZJYXc?oc=5	未分類
 2026-08-24	酷熱天氣｜長者中暑入院或死亡10年增16倍 劏房戶逾半不敢開冷氣	https://www.hk01.com/社會新聞/60383043/酷熱天氣-長者中暑入院或死亡10年增16倍-劏房戶逾半不敢開冷氣	未分類
 2026-08-24	酷熱天氣｜長者中暑入院及死亡10年增16倍 劏房戶逾半不敢開冷氣	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383043/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E9%95%B7%E8%80%85%E4%B8%AD%E6%9A%91%E5%85%A5%E9%99%A2%E5%8F%8A%E6%AD%BB%E4%BA%A110%E5%B9%B4%E5%A2%9E16%E5%80%8D-%E5%8A%8F%E6%88%BF%E6%88%B6%E9%80%BE%E5%8D%8A%E4%B8%8D%E6%95%A2%E9%96%8B%E5%86%B7%E6%B0%A3	未分類
 2026-08-24	月初錄世紀高溫 「工作暑熱警告」力爭優化 地盤工民間智慧抗曝曬 承建商倡科技降溫	https://www.stheadline.com/daily-hongkong/3607487/月初錄世紀高溫-工作暑熱警告力爭優化-地盤工民間智慧抗曝曬-承建商倡科技降溫	未分類
@@ -256,7 +245,6 @@ var DATA_HEATSTROKE = `
 2026-08-17	30歲「戒淫邪」女星突然暈倒無意識 用盡力氣站起：唔想去醫院	https://www.hk01.com/即時娛樂/60380767/30歲郭奕芯突然暈倒無意識-用盡力氣站起-唔想去醫院	未分類
 2026-08-16	葵涌石籬清潔女工山邊暈倒 送院治理 葵涌發生工業意外。今日（17日）下午1時40分，一名清潔女工在梨貝街16號石籬（一）邨石俊樓對開山邊工作，其間突然暈倒。救護員接報到場，發現女工陷入半昏迷，隨即.	https://www.singtao.ca/7599377/2026-08-16/news-%E8%91%B5%E6%B6%8C%E7%9F%B3%E7%B1%AC%E6%B8%85%E6%BD%94%E5%A5%B3%E5%B7%A5%E5%B1%B1%E9%82%8A%E6%9A%88%E5%80%92+%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86/	未分類
 2026-08-16	葵涌石籬清潔女工山邊暈倒 送院治理	https://www.singtao.ca/7599377/2026-08-16/news-葵涌石籬清潔女工山邊暈倒+送院治理/	未分類
-2026-08-16	「最熱夜」跟訪倒樓清潔工 行3棟樓150層爆汗 工會：室內熱衰竭屬「更隱形殺手」	https://news.google.com/rss/articles/CBMi_wNBVV95cUxNb0h2YXIxVDlDUzBqSXBPZ3FuSjlxQ0ZXQklhbGY4ZWJ5Ti1HUjRRMmFTTzlGaU9jOG5qY2t3SHdXcUpUOGlfR1VuNFVyd1pPNW96Y1Iya216U2ZBcUg3TWhNNzlaZ2pjQS1nMEJvRV9Qbm0wNTlWYk52dlJrZEIwS29xZGN1TTgweEV0R20xWU1LU0dKZjN6dkJJYXhTZjk2UXJHaTBMYmxUTG9fX2JqZGhqOTJ2OWY4MHY1UVdFYjNTRWExal9JWnNLRGQ4emxPSEhHTkVrbll1d2kwT1pkR1BGRHlxOXNaVXdZOU9RYmJBT2JJMWZILXl3bHpsQllfNU5ZOVNpVzBrVEUxbU5ZanIzTkM5WllZMFV2cmt4ZmdFLU53RG94NkNycF92eXJHZVQ1clFLN1g0YllBZ013QVNza1NienE2bjVNdnk1cjk1NHV0dm95NVdPR1NzMmZSajBRRE1Uclp6SUo4Y05LVmMyaGw2cjBHUk4yXzFfTV9aMm9rT1VaRlpOZVdlR3JoN0g1TXNXRW1RU2hVbVA3Z0xqNF9wZjk3QlpocG1xR2RPSGVRWGtGblY2R1E2cGl6bDFjaHpYWDBhSEFFUEs5elVnOUhhVy1mYnNmUTBKNjhWVDBhbHYxdjNlTlVsQW9lUkNtV2gyMFo4bHJaWVNz?oc=5	未分類
 2026-08-16	#女主滑跪救男主的剧情来了# 万众瞩目的滑跪来啦，丁禹兮昏倒那下为什么演得如此有流动感[捂嘴哭] ​	https://k.sina.com.cn/article_7879924009_m1d5ae192903301eulo.html	未分類
 2026-08-15	天水圍院舍男院友昏迷 送院證實死亡	https://hk.on.cc/hk/bkn/cnt/news/20260815/bkn-20260815145530259-0815_00822_001.html	未分類
 2026-08-15	倪嘉雯扮昏迷唔輕鬆 丁子朗自爆喊足10集	https://www.stheadline.com/daily-entertainment/3604528/倪嘉雯扮昏迷唔輕鬆-丁子朗自爆喊足10集	未分類
@@ -413,7 +401,6 @@ var DATA_HEATSTROKE = `
 2026-07-27	台灣女遊客富士山頂不適昏迷 日本山岳救援隊深夜出動推土機緊急運送下山	https://www.singtaousa.com/2026/07/27/news/china/taiwanese-woman-faints-fujisummit-rescue/	未分類
 2026-07-27	台灣3姐妹揪爬富士山1人登頂竟失去意識 推土機緊急運下山送醫 | 上報	https://today.line.me/tw/v3/article/WBRVW5R	未分類
 2026-07-27	台婦登富士山頂突失去意識 送院救治	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60373897/%E5%8F%B0%E5%A9%A6%E7%99%BB%E5%AF%8C%E5%A3%AB%E5%B1%B1%E9%A0%82%E7%AA%81%E5%A4%B1%E5%8E%BB%E6%84%8F%E8%AD%98-%E9%80%81%E9%99%A2%E6%95%91%E6%B2%BB	未分類
-2026-07-27	台57歲婦登日本富士山抵山頂「失去意識」送醫- 綜合	https://news.google.com/rss/articles/CBMicEFVX3lxTE5wRnQyMVhsQ3BhSmNRTnlYZDRuVlQzWmo2WEJmdVJvNThVX3BTUk5RV2JXdjYxNmF1Nkhxb3p3X2JMcTdUb2EtSHpZLUxYOV9pMVJKNDdaYkRUcnU1V25QVkdHS2RXLWxBWWJ5aFowV3U?oc=5	未分類
 2026-07-27	台57歲婦攻頂富士山突失去意識 日警出動履帶車救下山！急送醫現況曝光	https://tw.news.yahoo.com/台57歲婦攻頂富士山突失去意識-日警出動履帶車救下山-急送醫現況曝光-025600705.html	未分類
 2026-07-27	久躺後起身取外賣突暈倒 昆明女生撞牆後失知覺 疑起身太急兼空腹所致	https://www.bastillepost.com/hongkong/article/16430215-久躺後起身取外賣突暈倒-昆明女生撞牆後失知覺-疑	未分類
 2026-07-27	【健康下一步】極端高溫怎麼辦？熱衰竭、中暑警訊與避暑中心指南（視頻）	https://www.ktsf.com/2026/07/27/health-feature-extreme-heat/	未分類
@@ -468,7 +455,6 @@ var DATA_HEATSTROKE = `
 2026-07-19	日媒：居本港女子沖繩練越野車時反車重傷昏迷	https://www.881903.com/news/local/2640998	未分類
 2026-07-19	宏福苑業主大會｜居民批安排混亂遊花園 八旬翁與女兒分開坐暈倒	https://www.hk01.com/社會新聞/60371390/宏福苑業主大會-居民批安排混亂遊花園-八旬翁與女兒分開坐暈倒	未分類
 2026-07-19	婦人過馬路昏倒 疑天氣太熱中暑	https://tw.news.yahoo.com/婦人過馬路昏倒-疑天氣太熱中暑-114103584.html	未分類
-2026-07-19	婚禮前侵犯女賓客！她拒絕親吻後失去意識「醒來全裸躺床」 新郎照常完婚...1鐵證被捕	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RZlk4T3QybzZzcm1pWnJmRm96dTZ3N1ptczFGWExJaHNMNGtyekE3dDR3aTNPeDdqVDZBMkZXQXEtUnBmTnJaNjlyeVhHOVpuY0E?oc=5	未分類
 2026-07-19	基隆1婦人難耐暑熱 暈倒在斑馬線上	https://tw.news.yahoo.com/基隆1婦人難耐暑熱-暈倒在斑馬線上-083439606.html	未分類
 2026-07-19	世足決戰將登場！ 阿根廷球迷收看轉播太激動昏倒	https://www.4gtv.tv/article/2026071906000011	未分類
 2026-07-19	69歲港婦沖繩玩越野車傷頭昏迷 入境處接獲求助	https://www.hk01.com/即時國際/60371522/69歲港婦沖繩玩越野車傷頭昏迷-入境處接獲求助	未分類
@@ -505,7 +491,6 @@ var DATA_HEATSTROKE = `
 2026-07-12	酷熱天氣下一日6 宗行山求助男子藍地石礦場附近昏迷直升機送院搶救	https://www.bastillepost.com/hongkong/article/16350756-酷熱天氣下一日6宗行山求助-男子藍地石礦場附近昏	未分類
 2026-07-12	男子高温天户外工作昏倒确诊热射病 高温防暑警钟再响	https://news.china.com/socialgd/10000169/20260712/49604451.html	未分類
 2026-07-12	中環過路男子捱撞昏迷送院 九巴車長助警調查 (22:52) - 20260712 - 港聞	https://news.mingpao.com/ins/港聞/article/20260712/s00001/1783869111287/中環過路男子捱撞昏迷送院-九巴車長助警調查	未分類
-2026-07-12	60秒速報 │ 這個夏天能熱死人 慎防「熱射病」	https://news.google.com/rss/articles/CBMid0FVX3lxTFBVZnRFbGhPaWJLb240VHAxRExXbzNfNldBU2d6dGFhTjUzRHlFLWNFYlk0NUpvemFKcGlKZExlUElVMkV3RzBWdERpWXpvdmROQ043Mi1FYmhxWGo5cjBrVTBpeDZtRkR4aTBoUHRXeHYtWWVqSzNZ?oc=5	未分類
 2026-07-12	30歲男子屯門行山疑中暑昏迷 由飛行服務隊直升機送院	https://www.881903.com/news/local/2639932	未分類
 2026-07-11	韓男替昏迷少女CPR「解開內衣」遭家長控性騷、索賠鉅款	https://www.worldjournal.com/wj/story/121261/9611917?from=wj_maintab_cate	未分類
 2026-07-11	的士司機開車途中失去意識吐白沫 女子「果斷開車門」帶幼子逃生	https://www.singtao.ca/7562881/2026-07-11/news-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E9%96%8B%E8%BB%8A%E9%80%94%E4%B8%AD%E5%A4%B1%E5%8E%BB%E6%84%8F%E8%AD%98%E5%90%90%E7%99%BD%E6%B2%AB%E3%80%80%E5%A5%B3%E5%AD%90%E3%80%8C%E6%9E%9C%E6%96%B7%E9%96%8B%E8%BB%8A%E9%96%80%E3%80%8D%E5%B8%B6%E5%B9%BC%E5%AD%90%E9%80%83%E7%94%9F/	未分類
@@ -521,7 +506,6 @@ var DATA_HEATSTROKE = `
 2026-07-09	半山35歲女住宅房間暈倒 家人發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20260709/bkn-20260709212820074-0709_00822_001.html	未分類
 2026-07-09	劉璇｜46歲「體操王后」劉璇暈倒家中 半小時狂嘔15次半夜急送院 藥物過敏全身抽搐極嚇人	https://topick.hket.com/article/4158445/劉璇｜46歲「體操王后」劉璇暈倒家中 半小時狂嘔15次半夜急送院 藥物過敏全身抽搐極嚇人	未分類
 2026-07-08	黃大仙私家車男司機車內暈倒 揭酒精超標涉酒駕被捕	https://www.singtao.ca/7560093/2026-07-08/news-黃大仙私家車男司機車內暈倒+揭酒精超標涉酒駕被捕/	未分類
-2026-07-08	邊荷律舊傷惡化「腳失去知覺」！太痛喊：要找媽媽	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSQVlwQkViMHBjc1RVV3FBWEFxMGd3NWJ3SnlnelhOdVZwX3FyVmMyc2Zkb2dxejRHdVlDSWxZQzdEZmRGNGZYMzJ2emlxclY2OGIzSXUyZVlqRm1zdEtIWg?oc=5	未分類
 2026-07-08	腳失去知覺還不夠！邊荷律治療痛炸崩潰 哭喊「醫生是大騙子」全網心疼	https://star.setn.com/news/1869134	未分類
 2026-07-08	柴灣街頭男子臉淌血昏迷 送院搶救	https://www.stheadline.com/breaking-news/3591270/柴灣街頭男子臉淌血昏迷-送院搶救	未分類
 2026-07-08	柴灣街頭男子疑暈倒跌傷臉淌血 昏迷送院救治	https://www.stheadline.com/breaking-news/3591270/柴灣街頭男子疑暈倒跌傷臉淌血-昏迷送院救治	未分類
@@ -535,8 +519,6 @@ var DATA_HEATSTROKE = `
 2026-07-07	吳明賢昏迷內幕／院長遭科技董娘強灌公杯酒倒下？ 台大醫院：難歸因單一因素	https://tw.news.yahoo.com/吳明賢昏迷內幕-院長遭科技董娘強灌公杯酒倒下-台大醫院-難歸因單-因素-042100581.html	未分類
 2026-07-07	吳明賢昏倒內幕！週刊爆 疑科技董娘灌「公杯酒」？｜#鏡新聞	https://tw.news.yahoo.com/吳明賢昏倒內幕-週刊爆-疑科技董娘灌-公杯酒-鏡新聞-051041655.html	未分類
 2026-07-07	吳明賢昏倒內幕！週刊爆 疑科技董娘灌「公杯酒」？	https://www.mnews.tw/story/amp/20260707sot1309001	未分類
-2026-07-07	27歲邊荷律突爆健康亮紅燈 淚曝：腳都失去知覺！身心重創揭病況	https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vR0dnYlIwMnB0Q3NwZElFM3V0eTNLMUZJRWJNcVJybTVGaHhRYUowbDRRdktNSzZPeXY5RnZuaHBRd0JfOTctWGJ30gFfQVVfeXFMTnN3RUZxZGZDUFhyMEZfRV9LbmwxLTVubURLeDE0bnAzaGJQVTVzTWhsQzQwcW0ta1c2QzlNN29oTFRudzMtUXBHTFJsNEdEQlRTVUZTdjVpM3o0X1BPM0E?oc=5	未分類
-2026-07-07	"抗高溫保單"獲准試辦 中暑.熱衰竭住院賠1萬	https://news.google.com/rss/articles/CBMiuAJBVV95cUxNWERtNk9yeEIxRGNDZVlMdWFWNlpkRkxpajcxZWpvNUFncXh2a0N6U1RfR2tHVEdwY1Q1R0RaR0ktMFBrNXBEY09JbU12djItb3FkVm1LX0hDZWhsVTdvbXJnSnF6UjF5ZC11SnRDRFBXbHgxaFlDYzYzLWhWUkgyeTBGdFlxaTB4U2dGaC1oNTVzQWxtdWt5d2loY3JYQzVvLUVqT2tHUkVWbmp1TnVvX3pLR1dqaUJLV0RZUnpUYzVCQjByYnN1cmxCSTA5YW82X2tBcXpnV3RJRy04MXZvd3lfbVZvNjlraWI0NTdiSW11NVY2T1VlRTFBc2ZMby1Wbk9IeTd0Z010Y01pdHU3aGp0eGpyS2VwUE9lY0p2QkItZG12N3lsVGxsWEhaTnR1S09IeDJ3cXM?oc=5	未分類
 2026-07-06	香港仔運動場跑步徑32歲女暈倒 送院搶救	https://www.stheadline.com/breaking-news/3590762/香港仔運動場跑步徑32歲女暈倒-送院搶救	未分類
 2026-07-06	香港仔運動場35歲女暈倒 昏迷送院搶救	https://www.am730.com.hk/article/1040022	未分類
 2026-07-06	香港仔運動場32歲女跑步徑暈倒 昏迷送院搶救	https://www.hk01.com/突發/60367209/香港仔運動場32歲女跑步徑暈倒-昏迷送院搶救	未分類
@@ -624,7 +606,6 @@ var DATA_HEATSTROKE = `
 2026-06-23	嘉湖山莊中年漢單位內暈倒 妻子揭發送院救唔番	https://hk.on.cc/hk/bkn/cnt/news/20260623/bkn-20260623074002830-0623_00822_001.html	未分類
 2026-06-23	六旬男台中高工打網球突昏倒 救護車到場已無生命跡象	https://udn.com/news/amp/story/7320/9583901	未分類
 2026-06-23	中暑｜天氣酷熱隨時中暑室內都會出事5步急救患者7個無冷氣消暑妙法沖凍水涼飲冰水最錯恐中風- 東張+	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/17440611328651/%E5%81%A5%E5%BA%B7%E9%86%AB%E7%BE%8E-%E4%B8%AD%E6%9A%91-%E5%A4%A9%E6%B0%A3%E9%85%B7%E7%86%B1%E9%9A%A8%E6%99%82%E4%B8%AD%E6%9A%91-%E5%AE%A4%E5%85%A7%E9%83%BD%E6%9C%83%E5%87%BA%E4%BA%8B-5%E6%AD%A5%E6%80%A5%E6%95%91%E6%82%A3%E8%80%85-7%E5%80%8B%E7%84%A1%E5%86%B7%E6%B0%A3%E6%B6%88%E6%9A%91%E5%A6%99%E6%B3%95-%E6%B2%96%E5%87%8D%E6%B0%B4%E6%B6%BC%E9%A3%B2%E5%86%B0%E6%B0%B4%E6%9C%80%E9%8C%AF%E6%81%90%E4%B8%AD%E9%A2%A8	未分類
-2026-06-23	89歲獨居婦在家摔倒失去意識 警研判情況有異找鎖匠開門救人	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJRVJ6eGc4V2gxd2YwSHE5cl8zeEhlSUEzMkw3NmZkVmtrbjFONk12bkZoUGRLSEFmWDJuUmd6WWpzVlMtZUdMQTMwTU5qU1c20gFWQVVfeXFMUG9yWVd5Nm5hNkpDaHctYnVsMkNYWVdJU0NBbGZSNG1QaC1IcjR0VURmS3NvWlQwMi13dDFmbHN4dlZoZGhOMTRPOTRhSFRiVE9Qdnk3S3c?oc=5	未分類
 2026-06-22	菲裔婦駿洋邨住所暈倒 丈夫發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20260622/bkn-20260622154609853-0622_00822_001.html	未分類
 2026-06-22	油麗邨32歲男昏迷屋內 家人發現惜太遲	https://www.am730.com.hk/article/1037305	未分類
 2026-06-22	南投老農疑「熱衰竭」昏倒 2清潔隊員路過急救人	https://tw.news.yahoo.com/南投老農疑-熱衰竭-昏倒-2清潔隊員路過急救人-061321172.html	未分類
@@ -711,7 +692,6 @@ var DATA_HEATSTROKE = `
 2026-06-08	世界盃2026│艾歷臣心臟起搏器救命 暈倒後迅速恢復意識 自行離開球場	https://std.stheadline.com/football-news/3580797/世界盃2026艾歷臣心臟起搏器救命-暈倒後迅速恢復意識-自行離開球場	未分類
 2026-06-08	【有片】艾歷臣再暈倒球場 5年前驚心場面重演	https://football.on.cc/足球快訊/bkn-20260608080059960-0608_00882_001/【有片】艾歷臣再暈倒球場-5年前驚心場面重演	未分類
 2026-06-07	足球｜艾歷臣再暈倒場上 被拍到雙手按胸 隊醫指已恢復知覺將詳細檢查	https://www.sportsroad.hk/archives/628392/足球｜艾歷臣再暈倒場上-被拍到雙手按胸-隊醫指已/	未分類
-2026-06-07	快訊》5縣市如烤箱！氣象署高溫特報，當心熱衰竭| 生活	https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTlR1dy1UXy0zVWdVUERoUHpvWmVFMHIzdmxETGVleUZSY0ZFS2NwVTNkQzlMZnY4bk5uQlNleGtjSzJjaUZQeDN1aFJlY2RqSGY1UW9zTk9kR1k?oc=5	未分類
 2026-06-06	劇毒！誤將「曼陀羅當菠菜」一家三口中毒昏迷	https://www.ntdtv.com/b5/2026/06/06/a104103401.html	未分類
 2026-06-05	韓團台成員出事！許念慈打歌突暈倒 「背離送醫」畫面全曝光	https://tw.news.yahoo.com/韓團台成員出事-許念慈打歌突暈倒-背離送醫-畫面全曝光-130200989.html	未分類
 2026-06-05	長沙灣幸福邨印傭暈倒洗手間 當場殞命	https://www.stheadline.com/breaking-news/3579776/長沙灣幸福邨印傭暈倒洗手間-當場殞命	未分類
@@ -2315,31 +2295,21 @@ var DATA_HEATSTROKE = `
 2021-11-09	深水埗球場50-60歲男子踢波暈倒送院搶救	https://www.hk01.com/突發/698952/深水埗球場中年漢踢波暈倒-送院搶救	未分類
 2021-11-08	休班男警啟德跑步暈倒 昏迷送院留醫ICU	https://www.hk01.com/%E7%AA%81%E7%99%BC/698056/%E4%BC%91%E7%8F%AD%E7%94%B7%E8%AD%A6%E5%95%9F%E5%BE%B7%E8%B7%91%E6%AD%A5%E6%9A%88%E5%80%92-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E7%95%99%E9%86%ABicu	未分類
 2021-11-08	48歲休班男警啟德跑步暈倒昏迷送院留醫ICU	https://www.hk01.com/突發/698056/休班男警啟德跑步暈倒-昏迷送院留醫icu	未分類
-2021-09-14	姜濤暈倒｜香港人工時長壓力大易患慢性疾病 揭工作過勞3大徵狀	https://news.google.com/rss/articles/CBMiqANBVV95cUxQSHMtV3Faa2VjQzNsS3lkMHZlcThiWm9zcFV5NW1tV0swTFFwUV90YlBmYkZVcGZKLW9BWTk4WF82Z1JuZ1I0aVFYVzNPeDV3Nnlucm1Da1diXzkxcU5GaW5HanFRdDdlZ0pyMHlFWkt5SXI2bEIwTUN3ZGpMVWxEdTFWUGZGVEs0NG9TN0tJVnRxbS00LThPYVVKZ3hwclF2YnJqN2RKUkx1dzM0OVRPMUxLX2JyZWJRSzhTSEdrUS14VmNXYlEwcHEwWUhwYm9FMGVDVE4wZTZUX3pja3l4TXk1OHFnOUhFaU93NEVZcGx1NWlSQ1JlRE1mV01qTmhCNFlEOHBZSkZ6WDVTV0xaVi1qU3g4UTlyVV9FcVVobEtBa1c4empLejlqNVJncTRXQnMxaWphRm41VjEyR19PLS1HN0U5SXRYMzNic25MRXFzaTVOUnNUQUM4aUlEY0pKRTJFYWxQbFYxZVVXVjdBNHE0TGNya2g1R0hQaHpleWhlUnNDZDk2SVNWMmRXNE9uQjEwTDhKaWxOM2c2RGlDckRyOXEwMWVS?oc=5	未分類
-2021-09-08	鰂魚涌老婦墮海 昏迷送院搶救	https://news.google.com/rss/articles/CBMi-AFBVV95cUxPU0tJZU50VXVWTDhMVmJvTVVqcmEwMnNTemhwbFF3V1BfeElIRWtCUkt2ME1UX09iRUN6aHBwVG5sRjJIRU9mWDB3cVZiMk5LTTJSdEhMVmRQNWs4b0JzclhNdDg5SGZOT3htaUlfR21VQkRTVDV5ZXFVSzAxS1V6WklqZnVtTjhfQWxRWG9FNm9hNGtCNW5EOXItTWtyenMxQ0FHdDVQdXpMbUNEaWFicjBDVHhNcFhfTjIxMGtzdTFKSWhhb1E3aWNsS19pNlhDZF9Mdi02VmpGOVA2M1BvRkN6WTdLM1cwdFlQUWVFaHJsQTdreXppOQ?oc=5	未分類
-2021-06-20	萬國殯儀館男子昏迷 送院救治	https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOEduYUJQNDFlS21GOHl0SjNfRy1KT1VSM1JNVHAxT21FbUNPLUxQUFVvSVhqdkpkQXk2dklBSkthcVdUa2oyMkkwa1NfNncwdlYtemkySi1JdE16RmJJYURzUlZLSjVVTzRqb1hEazM2UGdscGZXS3RqOGJfU09JUXc1aWo1R1JEM3ZsMElDTUJNQ2hrUGgzZjN4SGNjUEw3ZUxBY0ctRG1KTGstWURUXzBzUlNTV1MyWTBMWk9oZTg4WFJob3JzU1pZTmtDWENfSlR4TlA5aW5jQ2dYSmxpdnJMQVpfU0JETEoxcUFaS19CZ2VWU2twVw?oc=5	未分類
 2021-06-18	紅磡樂民新村4歲男童昏迷 獲送院搶救	https://www.hk01.com/sns/article/639692	未分類
 2021-06-09	送醫搶救！34歲男星驚傳「拍戲昏倒」 摔下樓梯口吐白沫	https://www.setn.com/news/951157	未分類
-2021-06-09	油麻地16歲少女暈倒 昏迷送院	https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejZMWkl0RlFZbWVIZlpiTlNfYlYzZlVVY2thS1A3WHItQnFMTUhIM1laa0hwYVpkbzAwZElGN2hMUTVfRDhxekRqRDlPV0RPVVE3dmR4MmIzZFRNTmJMbGMweEpMYWZuVXl4aTJpaDhhNE9mczBQTDZhbElIb0RuaVlxQXFkajVIUE1KdGozdDhDdnRQT0tnVi1CSjBORzE0ODQ0eDUxMkV2SE44cWxFQVBHS2Rad3NpMTZXbEdFTl9JWmZtWTJlRm5tMUsxMDM3d3pneVRGM0RUbG9pMVNXSTd1NzZVR19BWjJ6Yy1xaw?oc=5	未分類
-2021-05-05	【中暑】頭暈噁心唔理或致心臟衰竭猝死 中暑急救旁身5招救命	https://news.google.com/rss/articles/CBMikANBVV95cUxPaGNtZGtOdmhDbDBKa2R0WkdxNWE0MThIcGVUTGNUU2l1bTFhOWFhbC1qUmpoS1RWUVBXT0tiR2hmZlAtal9PVWd5TDhaLVJ3RUhaOWliLW44MXFCY2JkUllkckI0TWRwV0Fzd3pKc2IwUlhjcDNJQVpUVlFMMXNlX3Y4d0dXWmdFSkxzdjRLZGZHbG5VRXFTNHVOX3dmbkRNZTNKMVhtaEZyTEMya0ZrWHBJNjY4dTJWYXY1b3F6VzZuMk93SGxaWEpodjM4ZUptakhmTVVZWWlkczJReW5YazBFRXJrTXg4NnVwZVRFOTlYWS1JMExoWWxXVVRwT1pxMWZMTzl5RzZieTVjcFIxQmJMODVOdDdMWnlpdjc5M2p1dGlTdGJIT1Bob0NVOWd5bnJmY00tcHFUN1NIa2UtN3p5QzFHU292QXhXRWNiX1JOcjdzOXpoNmg3TFBPZ1Naclp2QlNmYUlRTnEwTjhjZ1E2SWtxdVU0dFFLXzE0ZUtQRW82bWkwU1hnZk9vbk1k?oc=5	未分類
 2021-04-12	張麗善套裝+高跟鞋雙膝跪救昏倒男 醫師：復甦動作很標準	https://www.setn.com/news/924085	未分類
 2021-04-05	掃墓突暈倒！擲筊問才知「阿公來摸頭」 她淚：生前最疼我	https://www.setn.com/news/921040	未分類
 2021-03-01	民主派47人被控違港區國安法 提堂至凌晨有被告不適暈倒	https://news.tvb.com/tc/903787-民主派47人被控違港區國安法提堂至凌晨有被告不適暈倒	未分類
-2020-12-03	海洋公園男員工廁格暈倒送院亡	https://news.google.com/rss/articles/CBMigwJBVV95cUxQYWhFNGtZY2lXZVZGWkN5SV9WNTMyZ1BqaEd1RVg1OHMzNUNXNFRlU1BfdlFyVkhtSklPSGJlQnRzWjhRdS10WmJ4VFJzZTVtS2ViZGZsLUpSU0RvRVpDenlHZ2xteGgwX0tDYzhOcXp6X3VxSl83VVZKVHVfMnkteWFnanRyNTR1WDVZbi1jU1RjVExINy01Rm1OU3ppalYwQmI2N1lwSjFGUVRuc2thd2lRX0RJYXA2Um4xR3A1bFRvankzMkNEZ0l4NDNKNnN3alJYTGhjVUYzY0lKNzFLeGNYaUViX1JyMm1xMkpFbHJ3T21zTGFsQm9TcXNqMU9Xb1dj?oc=5	未分類
-2020-11-09	工字鐵死因｜地盤工被擊中逾半小時才報警 死者父見兒漸步入昏迷	https://news.google.com/rss/articles/CBMixgNBVV95cUxNcWNsRnJaRm1PZ1Iyai0zSGM0c1FwY1ZveGNma1RpS2pLTG4tNEh3a2V3WldJVERCdTBjQ1REdjVTSGpEamFGOWtPb3l0a2FVS3ZtMTRSQldNVFp6aG1fd1hqeTYyalVCb1JkOXdsNl9yX2lpYnF6d0RnRVpXTVUyQXprb2xGWHczY04yTzdPX2NoVGNLQ3pmU1h5YlJxSmtsRzNGV1ZpbnhOeDFwck9FSDJQU3U5VDlWdWh6d0dSWDYxVlNmNUlFZzJjTmFHS3dIQ1VWWjF6REFCT3FGRWFNODhOR2NnXy0zeWZaNlV3YmlRbTJaLURvejcwcXRoenJTMlZoaWRZWHhsYW13SDNqei1adHlYWm81OHdRa0p2eDRiQ3V1VHlvUmRIaVlNX3Z0V09Qb0JVUXZZZGY5Z3JIQUs5MjhMUmRoeWxpMzNOSUhjY0dQcFJ5U2NDbVpUY292SXROcXhyTkxJczB3MThEc0ZxRGhhYWsxb29fQ2JzNzlvR0N4dWxIZHE5dFVvQi1jT3U3MENQd2FlUVBZSjJpaDI5VWdXS09lSXhyd1RGcVYzNmlRNnpxcDVZUWRzR0Y0YjFQa0J3?oc=5	未分類
 2020-10-28	紅磡一學校8歲女童運動後陷昏迷送院治理回復清醒	https://www.hk01.com/sns/article/541398	未分類
-2020-10-03	58歲男沙田踢波後昏迷 送院搶救	https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVHlTVmtIbGQtT3dhREhBWlA1VlZNOW9BOUo2dm9KVDFXTnZNdTZ5eUFXX3pqTzhXVHVoSkJ5TFJuVUhLUzJFVThWZjd4akpXNDZUYVZNdXM0cW9nRHkzVWdFTk9yeE9NSVNyeEdfUmlMMUJndXFsT3RiR0tScXU2ZWtvZURadnphR3REOFN6X3drY1JhMHdXNlBEREUxcWdUUkR0T01kNHhwSDkxU2wwUlBlWkpiWndRY21EMnRVVVczc01pS0dkU0I0S2lIbGQ5UzlIY2JQWFZkTTRLTUxJVnRqbXd2dFRZaUJZeHVORF8tMFVkRm9uWEZycw?oc=5	未分類
 2020-09-04	燒金紙突昏倒！老婦「躺進火坑」 機靈女1動作網讚爆	https://www.setn.com/news/809141	未分類
 2020-09-04	65歲婦暈倒送醫 竟是5公分罕見「心臟黏液瘤」作祟	https://www.setn.com/news/808798	未分類
 2020-06-16	莫名昏倒原因竟是！？醫曝成功救「心」關鍵	https://www.setn.com/news/762334	未分類
-2019-12-24	男子大嶼山行山期間昏迷 直升機送東區醫院治理	https://news.google.com/rss/articles/CBMiwgJBVV95cUxNNG9heWtXeEFlUGpYOFlhbXl0RTdudDdOX3VJNWhuNGZmRlMyeHdSNGU1X0FyRVNiZ2lVX2RBYWFuX1BTUG5wYXNtVlBkR1dyYU55clg0U1U2allIS2l1Um9HWElVakswRXlxY1hTRUhFbjdnTDJqdjhRTzRmMlk3RVhndGNvSjRjZTB1UWJtd1I4WWluMGEtR2dxa2VFYkdtbkQ0MXFoUFhWUW5KOV9Iek0yTUNheDhPcFFIYVA5U2VyX3hCOVdOYkFNYmpkWXNTcWZfQ0k0TTNfX2VZcmVlbHRfUDd4bllYcXRTam0tVzg4a2NvNG5ybEliUHl4QXpVT05wTUdpeExNeTRzWmJzWHZxakNJVERTQUlvT3ZrcUlOSVZkZ0dYNGhhYkdzU3lvNmNsWUhaQk52SmpodE1BNUpR?oc=5	未分類
 2019-12-11	大二女学生深夜宿舍昏倒，急救医生叹息，这2个习惯害了她！	https://www.163.com/v/video/VGV71IMLD.html	未分類
 2019-09-14	清明掃墓突昏倒 連擲4聖筊解謎…竟是「阿公跑來摸她」	https://www.setn.com/news/602310	未分類
 2019-06-12	病翁暈倒「下顎被柵欄刺穿」 無力半跪血流如注	https://tw.yahoo.com/sports/病翁暈倒-下顎被柵欄刺穿-無力半跪血流如注-132238231.html	未分類
 2019-05-07	議員致詞半小時 他女兒頂豔陽聽講昏倒網怒斥：好大的官威	https://www.setn.com/news/537429	未分類
 2019-04-08	昏倒送醫！孫翠鳳再取消記者會…「最新病況」曝光了	https://www.setn.com/news/523986	未分類
 2019-04-08	孫翠鳳驚傳昏倒送醫！ 高雄演出改女兒「代母上陣」	https://www.setn.com/news/523538	未分類
-2019-03-19	男子紅綿路天橋墮下 昏迷送院搶救	https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSjk4SE5QZkowNmg2MFBrbE1EM2VINEZQNzd1eFJZck1MTUxfYjlTaXp3NnRpUmdXTnJ0SXc0Qjh4Y2FFT2VrLXZudlhHN25KcVlPVFRtUVFYY1Z2WGNIM2VTZnJ4aEYzd182UmtVTzNKbnV1Y1laeE82TE9oaTRsNHlpRjN1MERDTWxQTzF3dGR4Rjhyb29NZVdmbjhoNVcxTGZ0V3FieVBadmxHTUEydDYzT0FfM1JNSjJyWms5eFlybExKSWdob0ptQ3RHeG9DallDN2hGTEkwcklPaElFWUpKODdVeGk4dk5PdlZCWTg2dmtQaThqM0ItVng5RjdOWlpzUGI3ZmU?oc=5	未分類
 2019-03-02	與朴志訓擊掌嗨到暈！女粉上台昏倒…偶像前「急救6分鐘」	https://www.setn.com/news/506295	未分類
 2018-12-27	家具百元店夯！女兒排隊昏倒被店員要求重排 家長爆氣開嗆	https://www.setn.com/news/476647	未分類
 2018-08-28	郭炳湘前晚家中暈倒目前仍留醫 胞弟早上到醫院探望	https://news.tvb.com/tc/979759-郭炳湘前晚家中暈倒目前仍留醫胞弟早上到醫院探望	未分類
@@ -2362,7 +2332,5 @@ var DATA_HEATSTROKE = `
 2016-01-30	救人不能等！阿伯血壓飆高暈倒四高中生即刻救援| 生活	https://www.setn.com/news/121762	未分類
 2015-10-15	怯戰？文化部長洪孟啟傳昏倒缺席備詢次長澄清：絕無此事| 政治	https://www.setn.com/news/100450	未分類
 2015-08-21	醫院外暈倒亡事件 報告提過程出現溝通問題	https://news.tvb.com/en/1055611-醫院外暈倒亡事件報告提過程出現溝通問題	未分類
-2015-07-07	媽離開一下 3歲女童浴缸洗澡嗆水昏迷	https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCWTNHakliSzdmdjNOeS1lOEpuTVdCZ3p4MXRuVXdiME1qV0VaTk9SWEhTUTI1eEd1dG9QYXRiRGRSNnBGeHJzVHd5T3VJdw?oc=5	未分類
 2015-03-20	女子推拿針灸後暈倒亡 高永文：情況罕見	https://news.tvb.com/en/1067125-女子推拿針灸後暈倒亡高永文情況罕見	未分類
-2013-04-07	韓庚操練 插水昏迷	https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWJWMjlpNm9XVlNBcUg1ajA4aHpJb1pJY0Fqam03d2NGa1B0R0lwbTZRTnJjem1fRTE4dy1kSU8zRzhUb043T0FXRFpFdmtHTTl1SGNzS0dCRDBsNG9OYjNybVlQdjE2RXN2WmFpY3FTTTdhQjQySm9QeVRUYmZnb3FudC12aVQxRjVURlZsQUN6bW4zVVlQOHpn?oc=5	未分類
 `;
