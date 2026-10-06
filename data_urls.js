@@ -566,6 +566,7 @@ var DATA_URLS = `
 2026-01-13	https://www.bastillepost.com/hongkong/article/15577461-土瓜灣單位爆炸42歲男墮下送院-機電署：單位石油
 2026-01-13	https://www.hk01.com/突發/60312446/土瓜灣唐樓爆炸-鄰居撞門逃生-地方小憂用石油氣危險而用電煲
 2026-01-13	https://www.hk01.com/突發/60312419/土瓜灣唐樓爆炸-石油氣師傅教換罐留意氣閥-漏氣會嘶嘶聲傳烈味
+2026-01-13	https://www.tkww.hk/epaper/view/newsDetail/2010773060608724992.html
 2026-01-13	https://www.wenweipo.com/a/202601/13/AP69655930e4b069b7ebf80918.html
 2026-01-13	https://hk.news.yahoo.com/啟德地盤男工被水缸壓斃-勞工處發暫時停工通知書-兩年7宗吊運意外釀5死｜yahoo-014656093.html
 2026-01-13	https://www.gotrip.hk/網絡熱話/長頸鹿-動物園意外-多倫多動物園-1857797/
@@ -17068,6 +17069,7 @@ var DATA_URLS = `
 2026-07-08	https://hk.on.cc/hk/bkn/cnt/intnews/20260708/bkn-20260708131003157-0708_00992_001.html
 2026-07-08	https://www.singtao.ca/7560459/2026-07-08/news-華富邨謀殺案｜死者遭扼頸約兩分鐘昏迷+50歲疑兇折返被擒+案件明天提堂/
 2026-07-08	https://www.singtao.ca/7559655/2026-07-08/news-涉詐騙國際留學生逾12萬元 安省2人被控多項罪名/
+2026-07-08	https://www.msn.com/zh-tw/news/national/57歲勇男阻嫌犯-肉身擋彈-遭砍亡-妻子哀慟-他很有正義感/ar-AA1SHsuA?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-07-07	https://news.mingpao.com/ins/國際/article/20260707/s00005/1783406809006/韓警方-正調查網上有帖文威脅殺死總統李在明
 2026-07-07	https://www.hkcd.com.hk/hkcdweb/content/2026/07/07/content_8763555.html
 2026-07-07	https://news.google.com/rss/articles/CBMibEFVX3lxTE5BbnhjUnA1ZjZUSWVObExPdVRfMG1mZkh2NlJMVUZuVnV2VjVvbXVPNUVGTmFSUmwwd29pQnphRWpVNzl4OGlycC1iX2Jaa1VXSDJXYmJwUEhGcFhSakpWNEJFNHpITmNSZFRpOQ?oc=5
