@@ -23,7 +23,6 @@ var DATA_URLS = `
 2026-09-17	https://www.hk01.com/社會新聞/60391056/科學園工程電工觸電亡-官斥多層判商均忽視責任-罰4公司314萬
 2026-09-17	https://www.orangenews.hk/hongkong/VVRFeWq/屯門男船員疑失足墮船艙罅隙-被困近兩小時送院搶救後不治.shtml
 2026-09-17	https://news.mingpao.com/ins/港聞/article/20260917/s00001/1789647540333/大角嘴男子維修水箱失足墮下-頭傷送院
-2026-09-17	https://news.rthk.hk/rthk/ch/component/k2/1870484-20260917.htm
 2026-09-17	https://www.am730.com.hk/國際/1053607/以巴衝突-加沙受損住宅凌晨倒塌至少21死-或百人被困瓦礫
 2026-09-14	https://news.tvbs.com.tw/world/4021818
 2026-09-14	https://news.mingpao.com/ins/港聞/article/20260914/s00001/1789352274965/公主道私家車自炒撞欄翻轉-男司機自行爬出
@@ -42,7 +41,6 @@ var DATA_URLS = `
 2026-09-08	https://www.singtao.ca/7621400/2026-09-08/news-%E7%B2%89%E5%B6%BA%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%A4%B1%E4%BA%8B%E7%82%92%E4%B8%8A%E7%9F%B3%E5%A3%86+%E5%8F%B8%E6%A9%9F%E8%A2%AB%E5%9B%B0%E8%BB%8A%E5%85%A7+%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB/
 2026-09-08	https://www.hk01.com/article/60387900
 2026-09-08	https://www.dotdotnews.com/a/202609/08/AP6a9f6b2de4b02724bdb3c265.html
-2026-09-08	https://www.stheadline.com/breaking-news/3612942/油麻地京士柏道屋苑工業意外-62歲男工遭電鋸割傷手指送院
 2026-09-08	https://www.mk.co.kr/cn/world/12146592
 2026-09-07	https://www.mnews.tw/story/amp/20260907sot1155001
 2026-09-07	https://www.singtao.ca/7620865/2026-09-07/news-%E9%9B%BB%E5%B7%A5%E5%AD%B8%E5%BE%923%E5%B9%B4%E5%89%8D%E8%A7%B8%E9%9B%BB%E4%BA%A1+%E9%81%BA%E7%94%A2%E7%AE%A1%E7%90%86%E4%BA%BA%E5%85%A5%E7%A8%9F%E6%8F%90%E5%82%B7%E4%BA%A1%E7%B4%A2%E5%84%9F/
@@ -74,13 +72,11 @@ var DATA_URLS = `
 2026-08-29	https://www.setn.com/news/1898168
 2026-08-28	https://news.pchome.com.tw/healthcare/cnews/20260828/index-78788595965867227012.html
 2026-08-28	https://news.pts.org.tw/article/824657
-2026-08-27	https://hk.on.cc/hk/bkn/cnt/news/20260827/bkn-20260827100451103-0827_00822_001.html
 2026-08-27	https://hk.on.cc/hk/bkn/cnt/news/20260827/bkn-20260827061959492-0827_00822_001.html
 2026-08-27	http://hk.on.cc/hk/bkn/cnt/news/20260827/mobile/bkn-20260827094343451-0827_00822_001.html?editorpickDate=20260828&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news
 2026-08-27	https://www.hk01.com/突發/60384178/土瓜灣翔龍灣會所男童手被困保齡球機-消防助脫困送院
 2026-08-26	https://news.pchome.com.tw/society/news586/20260826/index-78774644071220290002.html
 2026-08-25	https://www.orangenews.hk/hongkong/VTHqqo8/%E6%9C%AC%E6%B8%AF%E4%BB%8A%E5%B9%B4%E8%87%B3%E4%BB%8A%E7%99%BC%E7%94%9F15%E5%AE%97%E8%87%B4%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%BB%BA%E9%80%A0%E6%A5%AD%E7%95%8C%E7%A8%B1%E8%A1%8C%E5%85%A7%E5%AD%98%E5%9C%A8%E8%B6%95%E5%B7%A5%E6%96%87%E5%8C%96.shtml
-2026-08-25	https://news.google.com/rss/articles/CBMiYkFVX3lxTE45a1Ntck9PanAwaFl2Zjdpd3RYR2tSdUNFblJxbG52cjdIOVBBT0Rsc2tMX1JrVjBTWGdIcHNwUzhXZjRNNlFVWlN0QlFjUDRCekg3QnRjZ3U3WktscERmOUFR?oc=5
 2026-08-25	https://www.nownews.com/news/6869066
 2026-08-25	https://hk.on.cc/hk/bkn/cnt/news/20260825/bkn-20260825141847057-0825_00822_001.html
 2026-08-24	https://www.hk01.com/%E7%AA%81%E7%99%BC/60382918/%E7%B2%89%E5%B6%BA%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%87%AA%E7%82%92%E7%BF%BB%E8%BD%89%E5%9B%9B%E8%BC%AA%E6%9C%9D%E5%A4%A9-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2
@@ -214,7 +210,6 @@ var DATA_URLS = `
 2026-06-26	https://news.mingpao.com/pns/國際/article/20260626/s00014/1782406555237/樓搖牆裂如恐怖片-華人被困13歲女亡
 2026-06-26	https://news.rthk.hk/rthk/ch/component/k2/1860001-20260626.htm
 2026-06-26	https://www.bastillepost.com/hongkong/article/16246225-九龍灣運動場致命工業意外-建築署：已暫停翻新工
-2026-06-26	https://news.rthk.hk/rthk/ch/component/k2/1860085-20260626.htm
 2026-06-24	https://www.hk01.com/突發/60363525/青磚圍工傷-65歲男工遭機器壓斃-警改列誤殺拘管工及駕駛員
 2026-06-24	https://www.dotdotnews.com/a/202606/24/AP6a3bced2e4b04b6c5d315a33.html
 2026-06-24	https://www.i-meihua.com/Article/Detail/51388
@@ -224,7 +219,6 @@ var DATA_URLS = `
 2026-06-23	https://www.am730.com.hk/article/1037515
 2026-06-23	https://epaper.tkww.hk/a/202606/23/AP6a3997d0e4b04773b070d498.html
 2026-06-23	https://news.tvb.com/tc/1178407-卡塔爾天然氣廠爆炸釀13死66傷外媒焦點俄羅斯
-2026-06-23	https://www.hkcd.com.hk/content_app/2026-06/23/content_8761261.html
 2026-06-23	https://news.rthk.hk/rthk/ch/component/k2/1859505-20260623.htm
 2026-06-22	https://www.dotdotnews.com/a/202606/22/AP6a394c95e4b09ea233193e4e.html
 2026-06-20	https://news.tvbs.com.tw/world/3236018
@@ -276,7 +270,6 @@ var DATA_URLS = `
 2026-06-02	https://www.4gtv.tv/article/2026060208000024?utm_source=popin
 2026-06-02	https://www.hk01.com/即時國際/60355834/緬甸撣邦村莊發生爆炸逾55死70傷-反政府武裝-礦用炸藥意外引爆
 2026-06-02	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17361150060748/重點新聞-有片丨緬甸炸藥倉庫爆炸至少55人死-半空現巨大蘑菇雲-300間房屋受損
-2026-06-01	https://news.rthk.hk/rthk/ch/component/k2/1856803-20260601.htm
 2026-06-01	https://epaper.tkww.hk/a/202606/01/AP6a1c9670e4b04773b06f3845.html
 2026-06-01	https://www.am730.com.hk/國際/1033543/緬甸爆炸至少55死-疑炸藥庫意外引爆致大量住宅被夷為平地
 2026-06-01	https://www.orangenews.hk/international/VLFj5yd/緬甸儲存炸藥倉庫發生爆炸-造成至少55人死亡.shtml
@@ -284,7 +277,6 @@ var DATA_URLS = `
 2026-06-01	https://news.pts.org.tw/article/810949
 2026-06-01	https://www.am730.com.hk/article/1033590
 2026-06-01	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/470061/%E5%8D%97%E9%9F%93%E5%A4%A7%E7%94%B0%E5%B8%82%E8%BB%8D%E5%B7%A5%E5%BB%A0%E7%88%86%E7%82%B8-%E9%87%80%E8%87%B3%E5%B0%915%E6%AD%BB2%E5%82%B7-%E6%96%99%E6%B8%85%E7%90%86%E7%81%AB%E7%AE%AD
-2026-06-01	https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOFBmZ0ZSOWpramd5RDduaTNmZVN0cFdFWHpsbnZtc0VKZFdSVFpWUkpZVkRhNEZKd01uLWtJeFJPMEJ0UlRxaXFCRXo4WDZidndNVWN3SnNGZ2xWOGZNbmVxdUlVMnhlX0JjMg?oc=5
 2026-05-29	https://news.pchome.com.tw/society/ctinews/20260529/index-78002650702484309002.html
 2026-05-29	https://n.yam.com/Article/20260529348409
 2026-05-29	https://cn.wsj.com/articles/mango創始人墜亡案-兒子喬納森否認指控-稱父親墜亡或因膝蓋問題-7c6e965a
@@ -403,7 +395,6 @@ var DATA_URLS = `
 2026-04-02	https://news.rthk.hk/rthk/ch/component/k2/1849736-20260402.htm
 2026-04-02	https://finance.sina.com.cn/tech/discovery/2026-04-02/doc-inhtcspv9313201.shtml?froms=ggmp
 2026-04-02	https://tw.news.yahoo.com/60歲王月-跌換來開顱急救-昏迷5天醒來喊-若有事-國修務必來接我-084231123.html
-2026-04-01	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Hbk9FOGt4UFhhSW16QVRpMTdFMEoxbHhsT3lmYUVMT3FjakZWdkdsRWpSNFdzcUVtUGt0TnJ2bDllRkJpVHo2MThCWGhYalJVR1doVXpmMXdfUC1kdXBjWDR3?oc=5
 2026-03-31	https://www.wenweipo.com/a/202603/31/AP69cb16dae4b0b49ad1b4aed8.html
 2026-03-31	https://news.mingpao.com/ins/兩岸/article/20260331/s00004/1774917615941/重慶一隧道爆炸釀4死
 2026-03-31	https://www.hkej.com/instantnews/current/article/4359362/重慶一隧道爆炸事故+釀4死9傷
@@ -1054,7 +1045,6 @@ var DATA_URLS = `
 2026-08-26	https://inews.hket.com/article/4182867/網絡安全｜挪威遭大規模DDoS攻擊 10項公共服務癱瘓
 2026-08-26	https://epaper.tkww.hk/a/202608/26/AP6a8dfa2be4b099d2ba495fd5.html
 2026-08-26	https://www.storm.mg/article/11158865
-2026-08-26	https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tSFg1LV9WNGVmR1hWWTFCN3dYbzMtRW9mMWNRZGJtakxNRnJVeGpBRXFid3dPaC02aGxkVWxrTXgzR1RwYW5DLWVBVXo5VU03YUtRWms2YW9fSzJldXJNZlR0Q0JDdmVR?oc=5
 2026-08-26	https://www.cmoney.tw/forum/article/183197529
 2026-08-25	https://tw.news.yahoo.com/駭客已取得-可遊玩-版本-gta6-外流事件可能比預期還要更嚴重-062800674.html
 2026-08-25	https://www.epochtimes.com/b5/26/8/24/n14836019.htm/amp
@@ -1223,7 +1213,6 @@ var DATA_URLS = `
 2026-07-22	https://finance.mingpao.com/fin/instantf/20260722/1784728438187/結好旗下證券及期貨系統周日遭受網絡攻擊-今早證券系統恢復交易
 2026-07-22	https://hk.on.cc/hk/bkn/cnt/finance/20260722/bkn-20260722230136583-0722_00842_001.html
 2026-07-22	https://www.hkej.com/instantnews/announcement/article/4463491/%25E7%25B5%2590%25E5%25A5%25BD%25E4%25BC%25BA%25E6%259C%258D%25E5%2599%25A8%25E9%2581%25AD%25E7%25B6%25B2%25E7%25B5%25A1%25E6%2594%25BB%25E6%2593%258A-%25E6%259C%259F%25E8%25B2%25A8%25E9%259B%25BB%25E5%25AD%2590%25E4%25BA%25A4%25E6%2598%2593%25E4%25BB%258D%25E6%259C%25AA%25E6%2581%25A2%25E5%25BE%25A9
-2026-07-22	https://news.google.com/rss/articles/CBMibEFVX3lxTE8zTjVQQm9JRmRPUHhpeTNWMXpQTTFNT3o3MExrRHA4QmU2VXpOUzJiNFFmeWxLQ3k1LWMtZGpKbVZXbElPM09mOXJhaW9WYmFzblVEa1prTWFTdkFld1Nyemh4MEtPbjBjVEVVSg?oc=5
 2026-07-22	https://tchina.kyodonews.net/articles/-/11129
 2026-07-22	https://www.ntdtv.com/b5/2026/07/21/a104117539.html
 2026-07-22	https://inews.hket.com/article/4165033/%E3%80%90%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8%E3%80%91%E7%B5%90%E5%A5%BD%E8%87%AA%E7%88%86%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E3%80%81%E6%9C%9F%E8%B2%A8%E9%9B%BB%E5%AD%90%E4%BA%A4%E6%98%93%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9%E3%80%80%E6%9C%AA%E6%9C%89%E8%AD%89%E6%93%9A%E9%A1%AF%E7%A4%BA%E8%B3%87%E6%96%99%E8%A2%AB%E8%AA%A4%E7%94%A8
@@ -1538,8 +1527,6 @@ var DATA_URLS = `
 2026-09-26	https://www.singtaousa.com/2026/09/26/news/usa/nor-easter-flood-warning/
 2026-09-26	https://www.ctwant.com/article/499747/
 2026-09-26	https://hk.news.yahoo.com/%E7%BE%8E%E4%BB%A5%E4%BC%8A%E6%88%B0%E7%88%AD-%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E5%9C%8B%E6%8F%90%E8%AD%B0%E4%B8%83%E6%97%A5%E5%85%A7%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD-%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%B5%95-231027796.html
-2026-09-26	https://news.google.com/rss/articles/CBMibEFVX3lxTE1fQW0yWG1zakY3bEdqQV95cGdCMFIyWHZrS1ByT1FNTVVjYmdPZFRxQXdCLVpIMTVQTl9qZngxTnRwNWxCeS1SV1pWMmNwRkFOT3VCeEh2ZjEtMU8wYy04NTF0WTU0WnkxNUFQZw?oc=5
-2026-09-26	https://news.google.com/rss/articles/CBMibEFVX3lxTE5ieGdOU1g4RUFILWY5aXF1MkV4R3pxZlpLeUFJNXJJczV5ZG95RUZCNUJuRHVlR21yazFtMEw5d2xoaE15enhldUpCRmFLaW0td2tIWWZBeFF3aTdZUnJVWktUa0Y4cmFXUmpwVw?oc=5
 2026-09-26	https://tw.news.yahoo.com/%E7%A7%8B%E6%84%8F%E8%A6%81%E4%BE%86%E4%BA%86-2%E6%B3%A2%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E6%8E%A5%E5%8A%9B%E5%A0%B1%E5%88%B0-%E5%B0%88%E5%AE%B6%E6%8F%AD%E6%96%B0%E9%A2%B1%E9%A2%A8-%E9%9D%A0%E8%BF%91%E5%8F%B0%E7%81%A3%E6%A9%9F%E6%9C%83-071700945.html
 2026-09-26	https://www.hk01.com/%E5%9C%8B%E9%9A%9B%E5%88%86%E6%9E%90/60393895/%E7%95%B6%E7%BF%92%E7%89%B9%E6%9C%83%E9%81%87%E4%B8%8A%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD-%E7%BE%8E%E4%BC%8A%E5%88%B0%E5%BA%95%E6%98%AF%E6%88%B0%E6%98%AF%E8%AB%87
 2026-09-26	https://news.rthk.hk/rthk/ch/component/k2/1871653-20260926.htm
@@ -1593,7 +1580,6 @@ var DATA_URLS = `
 2026-09-24	https://www.ftvnews.com.tw/news/detail/2026924W0362
 2026-09-24	https://www.ftvnews.com.tw/news/detail/2026924W0056
 2026-09-24	https://www.ftvnews.com.tw/news/detail/2026924W0688
-2026-09-24	https://news.google.com/rss/articles/CBMibEFVX3lxTE1qZ0d0UEllU2FKTDhERk43UTIwc2FzRXRvWm9EczY4YXY4cFlpQUdtSEVHb1ZYZVpmSnAyQ3RRd0gzQWM0b0RESWVsbnlGc3pYQW1MMGlBTERzQktJWjVPNTZ2S2lrNlJUMGkxMQ?oc=5
 2026-09-24	https://news.cnyes.com/news/id/6615460
 2026-09-24	https://www.chinatimes.com/realtimenews/20260924004108-260408
 2026-09-24	https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60393561/%E7%82%BA%E9%99%8D%E4%BD%8E%E8%88%87%E4%B8%AD%E5%9C%8B%E7%88%86%E7%99%BC%E6%88%B0%E7%88%AD%E7%9A%84%E9%A2%A8%E9%9A%AA-%E7%BE%8E%E5%9C%8B%E6%9C%83%E5%BE%9E%E7%AC%AC%E4%B8%80%E5%B3%B6%E9%8F%88%E6%92%A4%E8%87%B3%E7%AC%AC%E4%BA%8C%E5%B3%B6%E9%8F%88
@@ -1731,7 +1717,6 @@ var DATA_URLS = `
 2026-09-17	https://hk.finance.yahoo.com/news/%E8%A6%81%E4%B8%8D%E8%A6%81%E5%BE%B9%E5%BA%95%E6%91%A7%E6%AF%80%E4%BB%96%E5%80%91-%E5%B7%9D%E6%99%AE%E9%A0%90%E5%91%8A%E7%BE%8E%E4%BC%8A%E6%88%B0%E7%88%AD%E9%87%8D%E5%A4%A7%E6%B1%BA%E5%AE%9A%E5%B0%87%E8%87%B3-173002548.html
 2026-09-16	https://www.chinatimes.com/realtimenews/20260916001719-260408
 2026-09-16	https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20260916/s00004/1789554475130/%E7%9F%AD%E7%89%87-%E5%9B%9B%E5%B7%9D%E8%8C%82%E7%B8%A3%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89-161%E4%BA%BA%E6%8F%90%E5%89%8D%E8%BD%89%E7%A7%BB%E7%84%A1%E5%82%B7%E4%BA%A1
-2026-09-16	https://www.hkcd.com.hk/content_app/2026-09/16/content_8775420.html
 2026-09-16	https://hk.finance.yahoo.com/news/%E4%BB%A5%E8%BB%8D%E7%A9%BA%E8%A5%B2%E5%8A%A0%E6%B2%99%E5%8D%97%E9%83%A8-%E6%8C%87%E6%93%8A%E6%96%83%E5%93%88%E9%A6%AC%E6%96%AF%E6%8B%89%E6%B3%95%E6%97%85%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A5%A7%E8%B2%9D%E5%BE%B7-021629323.html
 2026-09-15	https://www.dotdotnews.com/a/202609/15/AP6aa92b3be4b02724bdb48bc6.html
 2026-09-15	https://www.wenweipo.com/a/202609/15/AP6aa854aae4b01d54a2832acb.html
@@ -1826,8 +1811,6 @@ var DATA_URLS = `
 2026-09-06	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60387253/%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E7%88%86%E7%99%BC-%E9%9B%85%E5%8A%A0%E9%81%94%E6%A9%9F%E5%A0%B4209%E8%88%AA%E7%8F%AD%E5%81%9C%E9%A3%9B-%E5%8C%85%E6%8B%AC%E5%9C%8B%E6%B3%B0%E8%88%AA%E7%8F%AD
 2026-09-06	https://news.tvb.com/tc/1193692-%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC%E9%9B%85%E5%8A%A0%E9%81%94%E6%A9%9F%E5%A0%B4%E9%87%8D%E9%96%8B%E6%99%82%E9%96%93%E5%A4%9A%E6%AC%A1%E6%8A%BC%E5%BE%8C%E9%80%BE200%E7%8F%AD%E6%A9%9F%E5%8F%97%E9%98%BB%E5%8C%85%E6%8B%AC%E4%BE%86%E6%B8%AF%E8%88%AA%E7%8F%AD
 2026-09-06	https://www.881903.com/news/international/2648630
-2026-09-06	https://news.google.com/rss/articles/CBMibEFVX3lxTE1oQzZGOEJzZHZNcnJMUjRrU1lYa3drcTBlZDdmbU5PN2llOUQ4emcyXzVxbHZlZlVlNE9iRjlacF8tcWNUS2ZTOEN5WEJjR2FkNjI2cU1mUzJWQTRRSjh6YXpiRjR5eFNsTlA4SQ?oc=5
-2026-09-06	https://news.google.com/rss/articles/CBMibEFVX3lxTE54WklvZzFkS0FSQTVIanlQYi1YZUtJbVJiNWNmX0w1MEYyT2JPOTJLNlBSNzduRzFiU19EcWV1MFFiYWZJOFEwS1U0eU5BTU9GajV5cko4ZWVDTzhkZWNpYTRQbjBVTGI0UmVMUA?oc=5
 2026-09-06	https://www.orangenews.hk/international/VUQL3pq/%E5%8D%B0%E5%B0%BC%E5%96%80%E6%8B%89%E5%96%80%E6%89%98%E4%B9%8B%E5%AD%90%E7%81%AB%E5%B1%B1%E5%99%B4%E7%99%BC-%E9%9B%85%E5%8A%A0%E9%81%94%E6%A9%9F%E5%A0%B4%E9%97%9C%E9%96%89%E9%80%BE300%E8%88%AA%E7%8F%AD%E5%8F%97%E5%BD%B1%E9%9F%BF.shtml
 2026-09-06	https://news.rthk.hk/rthk/ch/component/k2/1868986-20260906.htm
 2026-09-06	https://www.wenweipo.com/a/202609/06/AP6a9d5183e4b01d54a2821200.html
@@ -1842,7 +1825,6 @@ var DATA_URLS = `
 2026-09-05	https://www.bastillepost.com/hongkong/article/16708171-維謝格拉德國家促歐盟統一行動-紓緩乾旱對農民影
 2026-09-05	https://tchina.kyodonews.net/articles/-/13162
 2026-09-05	https://www.bastillepost.com/hongkong/article/16708483-沙德爾暴雨釀泥石流-江西吉安1死11人失蹤
-2026-09-05	https://news.google.com/rss/articles/CBMibEFVX3lxTE9WbHFMdWNMNk1GRW42UUtrZ3k1LVNXQ2w1TDMyV2NvVFRudWVwMjdSR2k2dnNjTlA2VXBPbzYzNDdsbV9vUkJMYzR3aVZHRC10dDJhTm1ka2hSUndsOVVSQUExQi16cGt1VHJ5bA?oc=5
 2026-09-05	https://news.rthk.hk/rthk/ch/component/k2/1868914-20260905.htm
 2026-09-05	https://www.wenweipo.com/a/202609/05/AP6a9ba137e4b01d54a281e778.html
 2026-09-05	https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20260905/s00004/1788623398250/%E6%B1%9F%E8%A5%BF%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%8911%E5%A4%B1%E8%81%AF%E8%80%85%E8%BA%AB%E5%88%86%E7%A2%BA%E8%AA%8D-%E7%9C%81%E5%A7%94%E6%9B%B8%E8%A8%98%E8%B5%B4%E7%8F%BE%E5%A0%B4%E6%8C%87%E6%8F%AE%E6%95%91%E6%8F%B4
@@ -1888,7 +1870,6 @@ var DATA_URLS = `
 2026-09-04	https://www.ftnn.com.tw/news/576126
 2026-09-04	https://www.881903.com/news/international/2648324
 2026-09-04	https://www.singtaousa.com/2026/09/04/news/usa/central-california-highway-reopens/
-2026-09-04	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OS1N5ZE1QRkJ3UDBocjBZemt6N3AtUVViREE5bDh1LTdTZ3dPeENYWFlieHNBQTdBNGQ4S0lmN0kwSFBfaE8xYzZLOEdsNTl2ODBjaHVpbGpjbGtKYUMyLdIBZkFVX3lxTFB0c3RuVTVDWnFOQ2JHRjZEMWpXZkpnWHRNb3I2MVQ0ZWZHOWp3QTFYZ3pSUUR5eWZUVkt4aE9Uc01LVFBrcUY0cHMxdXI3MnNnNnFiY2pVcHFnOWlJZGRvalBkQ0Y1QQ?oc=5
 2026-09-04	https://www.hkcd.com.hk/hkcdweb/content/2026/09/04/content_8773283.html
 2026-09-04	https://www.soundofhope.org/post/943146?lang=b5
 2026-09-04	https://money.udn.com/money/story/5944/9735040
@@ -1923,7 +1904,6 @@ var DATA_URLS = `
 2026-09-03	https://www.hk01.com/即時中國/60386614/四川綿陽市北川縣發生4-8級地震-震源深度10公里
 2026-09-03	https://news.rthk.hk/rthk/ch/component/k2/1868724-20260903.htm
 2026-09-03	https://news.ttv.com.tw/news/11509030002300W
-2026-09-03	https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad
 2026-09-03	https://www.nownews.com/news/6871766
 2026-09-03	https://www.wenweipo.com/a/202609/03/AP6a98d91de4b0c1e5002756b3.html
 2026-09-03	https://www.bastillepost.com/hongkong/article/16695306-以軍空襲加沙造成3死-有目擊者憶述恐慌場面
@@ -2003,7 +1983,6 @@ var DATA_URLS = `
 2026-08-30	https://www.singtao.ca/7613426/2026-08-30/news-卑詩小鎮山火部分民居未毀 但300部雪櫃發臭報廢/
 2026-08-30	https://reader.turnnewsapp.com/cn/20260830/b11aaa2/q05fmjaynja4mzbfqueyxzu1/share
 2026-08-30	https://www.litenews.hk/news/18121-【博評】shut-the-fake-up：杜奕瑾的「人禍論」-把天災當作政治工具
-2026-08-30	https://www.twreporter.org/a/hello-world-2026-08-31
 2026-08-29	https://news.pchome.com.tw/politics/nownews/20260829/index-78796867248460207001.html
 2026-08-29	https://n.yam.com/Article/20260829538545
 2026-08-29	https://www.cna.com.tw/video/foreign/4356149
@@ -2157,7 +2136,6 @@ var DATA_URLS = `
 2026-08-24	https://www.setn.com/ampnews/1894680
 2026-08-24	https://tw.news.yahoo.com/0825歷史今天-北朝鮮天災饑荒-證嚴上人派員勘災-160100774.html
 2026-08-23	https://www.bastillepost.com/hongkong/article/16625592-歐洲持續乾旱影響供電-核電水電廠受衝擊電價急升
-2026-08-23	https://news.rthk.hk/rthk/ch/component/k2/1867222-20260823.htm
 2026-08-23	https://www.hk01.com/即時國際/60382866/日本北海道發生6-0級地震-無海嘯風險
 2026-08-23	https://renminbao.com/rmb/articles/2026/8/23/96336b.html
 2026-08-23	https://www.hk01.com/即時國際/60382809/巴拿馬運河受厄爾尼諾影響出現乾旱-9月開始減少通行船舶數量
@@ -2305,7 +2283,6 @@ var DATA_URLS = `
 2026-08-17	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/17869549090910/印度神童預言成真-太平洋火環-巨龍甦醒-已爆發10次7級地震--重溫天災預言-下一個巨震時間點-
 2026-08-17	https://news.mingpao.com/ins/國際/article/20260817/s00005/1786931064000/印尼弗洛勒斯島再次地震-強度5-7級
 2026-08-17	https://news.cctv.com/2026/08/17/ARTIIre0Gp7esbpuaUOWdWXt260817.shtml
-2026-08-17	https://news.google.com/rss/articles/CBMibEFVX3lxTE83Ql9HaG9YNTU4NXl3cW4za0t2ODRiVVRLTlhRYUpmRHFianl5NERFWDJYdnRUV0tYZlNuTHVkMkJhY2VYVWtDUEdlVHZtTmJELTV2bXdJa29KLUVyTUg5Q204c2p4Si1heEZpQg?oc=5
 2026-08-17	https://www.orangenews.hk/international/VSXJceG/千葉暴雨-增至10人死亡-引發放射性物質廢液洩漏.shtml
 2026-08-17	https://global.hk01.com/即时国际/60380613/伊朗黑寡妇20年毒杀10夫夺财-自曝记不清杀多少人-遭判10次死刑
 2026-08-17	https://tw.news.yahoo.com/乾旱重創藍寶石-阿爾卑斯野生藍莓飆漲-230317425.html
@@ -2324,7 +2301,6 @@ var DATA_URLS = `
 2026-08-15	https://news.rthk.hk/rthk/ch/component/k2/1866223-20260815.htm
 2026-08-15	https://www.bastillepost.com/hongkong/article/16540541-歐洲熱浪乾旱-德國萊茵河水位創新低-納粹沉船、猛
 2026-08-15	https://www.bastillepost.com/hongkong/article/16571974-檢察官收窄帕利塞茲山火案控罪-疑犯重審前減至兩
-2026-08-15	https://news.rthk.hk/rthk/ch/component/k2/1866246-20260815.htm
 2026-08-15	https://news.mingpao.com/ins/國際/article/20260815/s00005/1786754630617/印尼東部海域7-7級地震
 2026-08-15	https://www.wenweipo.com/a/202608/15/AP6a7fac40e4b0c1e50024ea0f.html
 2026-08-15	https://hk.epochtimes.com/news/2026-08-15/51135485
@@ -2574,7 +2550,6 @@ var DATA_URLS = `
 2026-08-05	https://hk.sports.yahoo.com/news/馬德里西部山火-美斯捐8萬歐元賑災-145105796.html
 2026-08-05	https://money.udn.com/money/amp/story/5599/9671673
 2026-08-05	https://www.dotdotnews.com/a/202608/05/AP6a72bf8de4b04b6c5d35c32f.html
-2026-08-05	https://news.rthk.hk/rthk/ch/component/k2/1865073-20260805.htm
 2026-08-05	https://www.bastillepost.com/hongkong/article/16509307-聯合國警告阿富汗三分一人口嚴重糧食不穩-兒童營
 2026-08-05	https://tw.news.yahoo.com/%E7%93%9C%E5%9C%B0%E9%A6%AC%E6%8B%89%E7%81%AB%E5%B3%B0%E7%81%AB%E5%B1%B1%E7%8C%9B%E7%83%88%E5%99%B4%E7%99%BC-%E6%95%B8%E7%99%BE%E5%B1%85%E6%B0%91%E7%B7%8A%E6%80%A5%E6%92%A4%E9%9B%A2-092544777.html
 2026-08-05	https://www.mnews.tw/story/amp/20260805sot1750001
@@ -2788,7 +2763,6 @@ var DATA_URLS = `
 2026-07-29	https://www.fxstreet.hk/amp/analysis/liang-jian-shi-zhu-dao-shi-chang-bo-dong-ting-huo-he-mei-lian-chu-202607290050
 2026-07-29	https://www.stheadline.com/realtime-world/3598699/世紀熱浪法國山火焚毀240棟房屋引爭議-災民斥當局只救豪宅區犧牲小鎮
 2026-07-29	https://news.tvb.com/tc/1185812-2026葡萄酒好年份山火乾旱夾擊響警號波爾多酒莊被迫提早收成外媒焦點法國
-2026-07-28	https://news.google.com/rss/articles/CBMiekFVX3lxTFBLOFNqOGdRQkR3N2pNQkpYc1plY3hQbk14Y3lYUEZVRjRlRzRPWU5aMlFiQmN4X2dCN2JlYVI4Z2NaWmpZcVNfbmVhcXl3TktwV3Q3YzdUTjRLTDd4YXRIWjRkTC1MSlVKOFFRd050cWdJb1hTSHFYUjZ3?oc=5
 2026-07-28	https://news.tvbs.com.tw/focus/3270272
 2026-07-28	https://news.rthk.hk/rthk/ch/component/k2/1864036-20260728.htm
 2026-07-28	https://www.epochtimes.com/b5/26/7/28/n14818694.htm
@@ -2814,7 +2788,6 @@ var DATA_URLS = `
 2026-07-28	https://hk.on.cc/hk/bkn/cnt/intnews/20260728/bkn-20260728190636237-0728_00992_001.html
 2026-07-28	https://tchina.kyodonews.net/articles/-/11398
 2026-07-28	https://hk.finance.yahoo.com/news/%E5%9C%8B%E9%9A%9B-%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E7%B8%A37-1%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%A4%9A%E5%9C%B0%E5%95%9F%E5%8B%95%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1-090953585.html
-2026-07-28	https://www.bbc.com/zhongwen/articles/cg5lvqre8lzo/trad
 2026-07-28	https://www.orangenews.hk/china/VQeWVvf/唐山大地震50周年全城哀悼同胞-官媒發文緬懷逝者致敬重生.shtml
 2026-07-28	https://hk.on.cc/hk/bkn/cnt/news/20260728/bkn-20260728104317682-0728_00822_001.html
 2026-07-28	https://www.ntdtv.com/gb/2026/07/28/a104119245.html/amp
@@ -2924,7 +2897,6 @@ var DATA_URLS = `
 2026-07-23	https://www.epochtimes.com/b5/26/7/22/n14815242.htm/amp
 2026-07-23	https://www.am730.com.hk/國際/1043206/印尼5.7級地震-震源深度10公里馬來西亞有感
 2026-07-23	https://cn.wsj.com/articles/伊朗危機加劇-美聯準會加息概率上升-美股牛市面臨考驗-22f571eb
-2026-07-23	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DYmsyQnVNNklkTi1LU2hfUENoaGV4c2lxdjh3OF9oRU54VTRBNUVyRVd6YXRXVk1CX0VCSHdoZjN0b2pOaGtVZXBpRWJPeWRyekxVSVY5NHZpSVZYU0JMQXdxOV9wZw?oc=5
 2026-07-23	https://www.ntdtv.com/gb/2026/07/23/a104117993.html/amp
 2026-07-22	https://www.wenweipo.com/a/202607/22/AP6a5ff777e4b0c1e50021b0c9.html
 2026-07-22	https://news.ttv.com.tw/news/115072200023001
@@ -3019,7 +2991,6 @@ var DATA_URLS = `
 2026-07-19	https://www.epochtimes.com/b5/26/7/19/n14812557.htm
 2026-07-19	https://www.stheadline.com/realtime-world/3595037/俄烏戰爭-烏無人機襲俄物流中心-釀7死24傷
 2026-07-18	https://news.rthk.hk/rthk/ch/component/k2/1862739-20260718.htm
-2026-07-18	https://news.google.com/rss/articles/CBMibEFVX3lxTE84ZTZFUVhNbGV5WktTcV9vU0ZHNDg0MjZOcmtTVGIzNXNHaDRwdkNUbF80bzBwaGFoVXMyNmFPNFdCQzdINS1EbWkyaVoyZS1IZEVvNjg3cnFNN3ozU1IyU0NWVURSNF80M19EeA?oc=5
 2026-07-18	https://news.rthk.hk/rthk/ch/component/k2/1862726-20260718.htm
 2026-07-18	https://www.hk01.com/即時中國/60371188/重慶山泥傾瀉-事故造成8死34失聯-山體崩塌前後對比圖公布
 2026-07-18	https://vct.news/news/重慶大規模山體垮塌-多棟居民樓被埋-至少8人亡
@@ -3152,7 +3123,6 @@ var DATA_URLS = `
 2026-07-13	https://e-info.org.tw/node/243642
 2026-07-13	https://news.mingpao.com/ins/港聞/article/20260713/s00001/1783952120748/瑪嘉烈醫院-兩病房共4個水及環境樣本驗出退伍軍人桿菌
 2026-07-13	https://www.weekendhk.com/weather/即時天氣消息-天文台-暴雨紅色預警-遼寧暴雨-停工-3463183/
-2026-07-13	https://news.google.com/rss/articles/CBMiZkFVX3lxTE90Smc4MVV0V1F4cGdjeHJYR2hMWkM4NEI1ODVhMXh5OGJKeVpaWUg0dGUtSW1Iay1HYWw2ZFhXZFRoRVp4cEFkRFp3XzlCS3BfekhRS1lJaVZGRnVVVTNCTXpjZXRCdw?oc=5
 2026-07-13	https://www.kinliu.hk/news/%E7%86%B1%E6%B5%AA%E5%B8%AD%E6%8D%B2%E6%AD%90%E6%B4%B2-6%E6%9C%88%E4%B8%8B%E6%97%AC%E9%8C%84%E9%80%BE1%E8%90%AC%E5%AE%97%E8%B6%85%E9%A1%8D%E6%AD%BB%E4%BA%A1/173683.html?id=80&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F
 2026-07-13	https://inews.hket.com/article/4160014/歐洲熱浪｜6月底錄過萬超額死亡 9成為長者
 2026-07-13	https://m.hkej.com/landing/mobarticle2/id/4455737/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA%E4%B8%A86%E6%9C%88%E4%B8%8B%E6%97%AC%E9%80%BE%E8%90%AC%E4%BA%BA%E8%B6%85%E9%A1%8D%E6%AD%BB%E4%BA%A1
@@ -3380,7 +3350,6 @@ var DATA_URLS = `
 2026-07-03	https://www.881903.com/news/international/2638540
 2026-07-03	https://www.bastillepost.com/hongkong/article/16289883-法國南部山火肆虐-熱浪乾旱加劇火勢
 2026-07-03	https://news.rthk.hk/rthk/ch/component/k2/1860947-20260703.htm
-2026-07-03	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSUdHSkhaUi1SSjh4VWtJX284YVNWNHNPQjM0VG82SjR3V1FjVUdKalI5c1FaaFBLZUZnTXB3MFo0dVprZkFfczBEY2taNjNfS3FtV292VDRWRzE0RWRQWHBpMmVPUQ?oc=5
 2026-07-03	https://money.udn.com/money/story/5599/9605778
 2026-07-03	https://hk.on.cc/hk/bkn/cnt/intnews/20260703/bkn-20260703100008249-0703_00992_001.html
 2026-07-03	https://www.orangenews.hk/international/VOI90Q1/日本宮古島附近海域發生6-4級地震-無需擔心發生海嘯.shtml
@@ -3465,7 +3434,6 @@ var DATA_URLS = `
 2026-06-29	https://www.hk01.com/即時國際/60364771/歐洲熱浪-法國單日死亡超正常4成至1400人-巴黎醫護病人呻難受
 2026-06-29	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/479313/%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA-%E4%B8%96%E8%A1%9B-%E5%B7%B2%E9%81%94-%E8%B6%85%E9%A1%8D%E6%AD%BB%E4%BA%A1-%E8%AD%9A%E5%BE%B7%E5%A1%9E%E4%BF%83%E8%A8%AD
 2026-06-29	https://www.881903.com/news/international/2637955
-2026-06-29	https://news.google.com/rss/articles/CBMibEFVX3lxTE5keUx1Y19hdk9pZ2VLYkVxT1ZQVFhEaUFqWU1lQVBGWlE4NFFJRGFFX3NrN3Y3YUlnWXZHdGMweVREZXJxeHJ1TFFDcDNlYmwwd0ZfQ0tjYTFpZ3VMVzdQQ3pYVmRabWtsYkxSYQ?oc=5
 2026-06-29	https://www.hk01.com/即時國際/60364731/歐洲熱浪向東蔓延-德國捷克等國破紀錄超40度高溫
 2026-06-29	https://udn.com/news/story/6812/9595539
 2026-06-29	https://www.bbc.com/zhongwen/articles/cgevz5p98plo/trad
@@ -3708,7 +3676,6 @@ var DATA_URLS = `
 2026-06-09	https://www.wenweipo.com/a/202606/09/AP6a27d88ae4b0b49ad1bea5a8.html
 2026-06-08	https://www.dotdotnews.com/a/202606/08/AP6a26125ee4b09ea23317a8b9.html
 2026-06-08	https://tchina.kyodonews.net/articles/-/9297
-2026-06-08	https://news.google.com/rss/articles/CBMiZkFVX3lxTE93dTJQU3FHR0EyZWtMVEdhQkhMdWRuWHJXblplUlZxRVV2X0gxVVU3QlBNaWhDd1k2N2dnVTVHWVo2QXhyTnkzMWxSNWZ2TDd3dmpZaUozSG1NQTFPUzRBUzd5bDB0Zw?oc=5
 2026-06-08	https://news.pts.org.tw/article/811981
 2026-06-08	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357887/%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%A3%89%E8%98%AD%E8%80%81%E5%B3%B6%E6%B5%B7%E5%9F%9F7-8%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8D%B0%E5%B0%BC%E5%8F%B0%E7%81%A3%E7%AD%89%E5%9C%B0%E8%A2%AB%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1
 2026-06-08	https://inews.hket.com/article/4143020/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%9C%B0%E9%9C%87%EF%BD%9C%E6%A3%89%E8%98%AD%E8%80%81%E5%B3%B6%E6%B5%B7%E5%9F%9F7.8%E7%B4%9A%E5%9C%B0%E9%9C%87%20%E5%8D%B0%E5%B0%BC%E7%AD%89%E5%9C%B0%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1
@@ -3977,7 +3944,6 @@ var DATA_URLS = `
 2026-05-05	https://finance.sina.cn/usstock/mggd/2026-05-05/detail-inhwvqcc2843430.d.html?vt=4
 2026-05-05	https://www.dotdotnews.com/a/202605/05/AP69f98da6e4b09ea233146334.html
 2026-05-05	https://sunmedia.tw/news/finance/1777937495-伊朗經濟陷困境、油價高漲：美國內外交迫下談判籌碼受考驗
-2026-05-05	https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XbGNZYkNPdnIyNFZfc0U2alJyVXFuWXNtVGxOTVQ5UjNFdXpaNk1EejFaYkg5Mk9KajNKN2o2QTUyQ3NDVjg5eWhNRDExVWN3V0N0YXM0aw?oc=5
 2026-05-05	https://www.worldjournal.com/wj/story/121343/9482915
 2026-05-04	https://www.singtaousa.com/2026/05/04/news/world/iran-war-may-cause-food-shortages-in-africa-worlds-largest-fertiliser-firm-says/
 2026-05-04	https://www.tdm.com.mo/zh-hant/news-detail/1200105?lang=zh-hant&isvideo=false&shortvideo=0
@@ -4009,7 +3975,6 @@ var DATA_URLS = `
 2026-05-02	https://news.ebc.net.tw/news/sport/549707
 2026-05-01	https://www.worldjournal.com/wj/amp/story/121617/9476233
 2026-05-01	https://www.wenweipo.com/a/202605/01/AP69f48472e4b0b49ad1b923d9.html
-2026-05-01	https://news.google.com/rss/articles/CBMid0FVX3lxTE9FTW1HOFRPcEpxemFvTnMta09IQzJCSF95U0pOamhqLVdLZW5heTJ0dl91dU9PX0RIVk84WFRmZ1hIY2tzVVh5WFd5Q3dYcmNpcDRVN2RnaUhVWmZQX1VHYzB1SEx3eGZJUGZwV0RxLXhfYjRuVVcw?oc=5
 2026-05-01	https://www.dotdotnews.com/a/202605/01/AP69f4abe5e4b09ea233141300.html
 2026-05-01	https://hkcd.com/hkcdweb/content/2026/05/01/content_8753128.html
 2026-05-01	https://www.hk01.com/台灣新聞/60345862/台灣宜蘭東部海域6-1級地震-最大震度達4級-台北震感強烈
@@ -4121,7 +4086,6 @@ var DATA_URLS = `
 2026-04-20	https://ztylez.com/living/entertainment/2026/04/20/350439/
 2026-04-20	https://www.bastillepost.com/hongkong/article/15896910-%E6%97%A5%E6%9C%AC%E8%A7%A3%E9%99%A4%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1-%E6%96%B0%E5%B9%B9%E7%B7%9A%E7%BA%8C%E5%8F%97%E5%BD%B1%E9%9F%BF
 2026-04-20	https://www.hk01.com/即時國際/60342076/日本發報北海道和三陸近海地震警報-後續強烈地震可能性增加
-2026-04-20	https://news.rthk.hk/rthk/ch/component/k2/1851758-20260420.htm
 2026-04-20	https://hk.finance.yahoo.com/news/日本東北近海7-4級地震引發海嘯-東京有震感-新幹線部分停運-090928548.html
 2026-04-20	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60341972/%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87-%E9%9C%87%E7%B4%9A%E4%B8%8A%E8%AA%BF%E8%87%B37-5-%E5%B2%A9%E6%89%8B%E7%B8%A3%E5%8C%97%E6%B5%B7%E9%81%93%E6%96%99%E8%BF%8E3%E7%B1%B3%E9%AB%98%E6%B5%B7%E5%98%AF
 2026-04-20	https://news.pts.org.tw/article/804548
@@ -4788,7 +4752,6 @@ var DATA_URLS = `
 2025-11-07	https://news.ttv.com.tw/news/11411070001400W
 2025-11-05	https://www.dotdotnews.com/a/202511/05/AP690b6c7be4b0b4fa5c141f7b.html
 2025-10-30	https://thewitnesshk.com/%E8%B2%A8%E8%BB%8A%E6%92%9E%E6%96%83%E8%81%BE%E4%BA%BA-%E9%A6%99%E6%B8%AF%E9%83%B5%E6%94%BF%E5%A4%96%E5%88%A4%E5%8F%B8%E6%A9%9F%E5%8D%B1%E9%A7%95%E8%87%B4%E6%AD%BB%E7%BD%AA%E6%88%90%E5%9B%9A1%E5%B9%B4/
-2025-10-29	https://news.google.com/rss/articles/CBMifkFVX3lxTE5aTXdhN010dGlQbUpkdUx5WmtwTHJmVGpyc0pROEtpb2JuSlNkbmxMM2pkUW9xekFQWTBfRmQtZTRTUkRzeXMyVk9yN083QW1yQVNwdEh3SnR6LVpETGlTOXdLZDU1WTI4SDNJbXhVMERpVzFMM0dteFNNQVVOQQ?oc=5
 2025-10-23	https://www.arch-web.com.tw/综合新闻/紐約一名前士兵被判處死刑，並誣告一名身份不明/165674/
 2025-10-21	https://video.udn.com/news/1313996
 2025-10-19	https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B0%8F%E9%BB%83%E6%92%9E%E4%B8%8A%E9%97%96%E7%B4%85%E7%87%88%E8%A1%8C%E4%BA%BA%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB-061528144.html
@@ -5281,7 +5244,6 @@ var DATA_URLS = `
 2026-09-23	https://hk.on.cc/hk/bkn/cnt/news/20260923/bkn-20260923074844651-0923_00822_001_cn.html
 2026-09-23	https://www.hk01.com/突發/60392799/維園泳池女泳客疑遇溺-獲救送院治理
 2026-09-23	https://hk.on.cc/hk/bkn/cnt/news/20260923/bkn-20260923074844651-0923_00822_001.html
-2026-09-23	https://www.am730.com.hk/article/1054663
 2026-09-21	https://www.zaobao.com.sg/news/sea/story20260921-9710782
 2026-09-21	https://www.singtao.ca/7633212/2026-09-21/news-奮不顧身跳河救出遇溺父女 女子獲頒英勇獎章/
 2026-09-18	https://global.hk01.com/突发/60391406/屯门蝴蝶湾泳滩六旬男泳客疑遇溺-昏迷送院抢救
@@ -5312,14 +5274,11 @@ var DATA_URLS = `
 2026-09-03	https://news.ifeng.com/c/8w7BpJMdXby
 2026-09-03	https://www.orientaldaily.com.my/news/society/2026/09/03/845237
 2026-09-02	https://hk.on.cc/hk/bkn/cnt/news/20260902/bkn-20260902000054403-0902_00822_001.html
-2026-09-02	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlc1azJqVkhnTmlIQUhXS2duZlRuNlJuYlBjaHF4Y0JhN21YWHAtZFVHZlVXd0lRMXFkRkRNZ3RIMnllaTg0TTUtTmtyMlhYTnk1aF8zLWZ5UHNIQmhOR0swZjAwUXI1Nm5JbDA3dWRZRy0zd2tSNlRrZms1dUVOQ3VaNVVjSGU3dVRZ?oc=5
 2026-09-02	https://hk.on.cc/hk/bkn/cnt/news/20260902/bkn-20260902000054403-0902_00822_001_cn.html?refer=hn2
 2026-09-02	https://www.orientaldaily.com.my/news/society/2026/09/02/844870
 2026-09-02	https://www.mirrormedia.mg/external/setn_1900605
 2026-09-01	https://www.wenweipo.com/a/202609/01/AP6a965575e4b0c1e50027109d.html
-2026-09-01	https://news.google.com/rss/articles/CBMid0FVX3lxTFA1ekdzZkdHRTR0V1d6Y2R3R1hhdHVYMy1SVW5IekZTRWM1ZTFSS19ZalA2d044WWd4T3VQSjRob2YxMzdnR1VuRnpFRFZZMFBiWEhCYU53Zy1hY0gycUdRRDBuXzRhYTVlNXV5NnVTQUFQc3BlQ1pj?oc=5
 2026-09-01	https://www.dotdotnews.com/s/202609/01/AP6a9664b2e4b04b6c5d388187.html
-2026-09-01	https://www.hk01.com/突發/60385813/火炭麗峯花園71歲婦游泳遇溺亡-消息-為全球知名社交媒體高層
 2026-08-31	https://hk.on.cc/hk/bkn/cnt/news/20260831/bkn-20260831181317328-0831_00822_001.html
 2026-08-31	https://www.chinapress.com.my/20260831/%E6%B5%B7%E8%BE%B9%E6%88%8F%E6%B0%B4%E9%81%87%E6%BA%BA-4%E4%BA%BA%E8%A2%AB%E6%B0%91%E4%BC%97%E6%95%91%E4%B8%8A%E5%B2%B8/
 2026-08-31	https://www.chinapress.com.my/20260831/海边戏水遇溺-4人被民众救上岸/
@@ -5364,7 +5323,6 @@ var DATA_URLS = `
 2026-08-22	https://www.881903.com/news/local/2646244
 2026-08-20	https://hk.on.cc/hk/bkn/cnt/news/20260820/bkn-20260820094425002-0820_00822_001.html
 2026-08-20	https://www.hk01.com/即時中國/60381825/水管突爆裂-清遠21歲水上飛人教練溺斃-死前推開遊客以保護對方
-2026-08-20	https://www.hk01.com/突發/60381801/大圍金禧花園泳池女泳客遇溺-救生員救起-昏迷送院搶救
 2026-08-20	https://www.hk01.com/突發/60381801/大圍金禧花園泳池女子遇溺-昏迷送院搶救
 2026-08-20	https://www.stheadline.com/breaking-news/3606287/大圍金禧花園女泳客遇溺-昏迷送院搶救
 2026-08-20	https://hk.on.cc/hk/bkn/cnt/news/20260820/mobile/bkn-20260820094425002-0820_00822_001_cn.html
@@ -5423,7 +5381,6 @@ var DATA_URLS = `
 2026-08-03	https://www.wenweipo.com/a/202608/03/AP6a6febcce4b0c1e500235111.html
 2026-08-03	https://eastweek.stheadline.com/witness/20643/三項鐵人賽悲劇-退休水警遇溺亡-議員促檢視指引
 2026-08-03	https://www.bastillepost.com/hongkong/article/16492669-三項鐵人賽6旬漢遇溺亡-主辦方：事發時具開賽條
-2026-08-02	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VUWdRdjRRdGVlSUtBc1M2WDdwbDVrWnVCUmdIUHZuNWlaMmhldTZiM0U4dVVEa2F0VmZ3cHR5TXRrRkpsaWktck9nNTBxbUVMSzVTN3JUdnlfOC1kNnZtQUxn?oc=5
 2026-08-02	https://www.dotdotnews.com/a/202608/02/AP6a6f5d44e4b04b6c5d358469.html
 2026-08-02	https://www.dotdotnews.com/a/202608/02/AP6a6f29c0e4b04b6c5d35805c.html
 2026-07-31	https://www.ohpama.com/1038658/生活熱話/生活熱話/美俄亥俄州-郊遊悲劇-兩對夫婦跳河救-遇溺友全同/
@@ -5541,7 +5498,6 @@ var DATA_URLS = `
 2026-06-19	https://hk.news.yahoo.com/端午節-屯門青山灣泳灘五旬漢游龍舟水遇溺-昏迷送院搶救-101017259.html
 2026-06-19	https://www.singtao.ca/7540710/2026-06-19/news-端午節｜屯門青山灣泳灘中年漢游龍舟水遇溺+送院搶救後不治/
 2026-06-19	https://www.hk01.com/突發/60362035/有片-青山灣泳灘男子疑游龍舟水遇溺亡-消防拯救岸邊心外壓
-2026-06-19	https://news.rthk.hk/rthk/ch/component/k2/1859194-20260619.htm
 2026-06-19	https://hkcd.com/hkcdweb/content/2026/06/19/content_8760850.html
 2026-06-19	https://news.mingpao.com/ins/港聞/article/20260619/s00001/1781861188707/宏福苑對出海面辦龍舟賽-市民「你知我知」形容心情-主辦方料萬人觀賞
 2026-06-18	https://vct.news/news/陸媒揭公務員陪領導釣魚溺亡-醜聞遭全網下架
@@ -6090,7 +6046,6 @@ var DATA_URLS = `
 2026-09-30	https://www.businessinsider.tw/article/7727
 2026-09-30	https://news.ebc.net.tw/news/world/573529
 2026-09-30	https://cmnews.com.tw/article/cmoneyairesearcher-0683ec42-bc32-11f1-828e-cba1544dd4a4
-2026-09-30	https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVhUYzlGQlFtc3c3TWpNb0FTNTRrYXRjd2p3YnY5YWR3c0wtaTVYc3VzalNjel9QRVRMV0pESWlIT3U4N2JlcWRtRjFNa1F5aGx2YUVMX3dZaFFnRzNib0JWSlY1dzNpLVFpVFg2SF9fYUt1cjlEVTdqbnNSdXVheXlDNHlvOUJDS0dyWVI4SFV0Zw?oc=5
 2026-09-30	https://hk.epochtimes.com/news/2026-09-30/47642681
 2026-09-30	https://finance.technews.tw/2026/09/30/apples-new-ceo-is-considering-layoffs-to-balance-the-pressure/
 2026-09-30	https://hk.finance.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%96%B0%E4%BB%BBceo%E4%B8%8D%E5%BE%97%E4%B8%8D%E8%A3%81%E5%93%A1-%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87%E6%88%90%E6%9C%AC%E9%A3%86%E5%8D%87%E6%88%90%E5%A3%93%E5%8A%9B-003007806.html
@@ -6174,7 +6129,6 @@ var DATA_URLS = `
 2026-09-21	https://hk.finance.yahoo.com/news/%E6%B2%99%E7%89%B9%E5%A4%AE%E8%A1%8C%E8%AD%89%E5%AF%A6%E9%80%80%E5%87%BA%E5%A4%9A%E9%82%8A%E5%A4%AE%E8%A1%8C%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3%E6%A9%8B%E9%A0%85%E7%9B%AE-mbridge-014342654.html
 2026-09-21	https://news.mingpao.com/pns/%E7%B6%93%E6%BF%9F/article/20260921/s00004/1789921716092/%E6%91%A9%E9%80%9A-%E4%BA%9E%E4%BC%81%E6%8A%95%E8%B3%87ai-%E6%9C%AA%E7%8F%BE%E5%A4%A7%E8%A3%81%E5%93%A1
 2026-09-21	https://vct.news/news/受預製菜風波重創-中國知名餐廳西貝傳將倒閉
-2026-09-21	https://news.google.com/rss/articles/CBMid0FVX3lxTE9ycnJkMmZFVzhDN0FVRnF1S3ZpR25OeTdtUnhISzQtV2xWV3pHeERzY0drUXM0b01PNW8yTHNsSE5XRGxYeXludEZlS0dRNE9WZGY2SHV6bDJEQUhpMEJRQXV5ZUZNMGphaElNbGZxSlJLeXJsQ2Z3?oc=5
 2026-09-21	https://www.epochtimes.com/b5/26/9/21/n14854156.htm
 2026-09-21	https://www.techritual.com/2026/09/21/583806/
 2026-09-20	https://www.rfi.fr/tw/%E4%B8%AD%E6%9D%B1/20260920-%E6%B2%99%E7%89%B9%E5%B7%B2%E9%80%80%E5%87%BA%E4%B8%AD%E5%9C%8B%E4%B8%BB%E5%B0%8E%E7%9A%84%E5%A4%9A%E9%82%8A%E5%A4%AE%E8%A1%8C%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3%E8%B7%A8%E5%A2%83%E6%94%AF%E4%BB%98%E7%B6%B2%E7%B5%A1-%E8%B2%A8%E5%B9%A3%E6%A9%8B
@@ -6202,7 +6156,6 @@ var DATA_URLS = `
 2026-09-18	https://cmnews.com.tw/article/cmoneyairesearcher-9bb27813-b313-11f1-b5c7-2b024237fb56
 2026-09-18	https://www.stheadline.com/realtime-finance/3616752/SpaceX據報擬購倒閉初創數據練AI-仿效Google做法-
 2026-09-17	https://more-news.tw/722466/
-2026-09-17	https://news.google.com/rss/articles/CBMicEFVX3lxTE5meUstekx1TVJINDU5Rl9sMTY1YzBINENENy1hODlSSUliRXRWZThjWXhJenVrVkN4anpYVHVwcVpSOWpDcWpvYXNTczh0cnljY2pLXzlsemF2bGNVTkFDYTF1b3l3d0Z6eHZCQmRXYmE?oc=5
 2026-09-17	https://eastweek.stheadline.com/focus/21590/王賢誌胞妹怒斥滿口歪理-曾被舊愛開咪爆料破產內情
 2026-09-17	https://hk.ulifestyle.com.hk/topic/detail/20110332/億富二代被胞妹爆欠-天文數字-巨債-兄妹正式割席怒斥-蘇州屎掉晒俾我哋
 2026-09-17	https://www.bastillepost.com/hongkong/article/16789090-富三代王賢誌破產後移居加拿大-胞妹揭欠債不止300
@@ -6541,7 +6494,6 @@ var DATA_URLS = `
 2026-08-15	https://cmnews.com.tw/article/shenyichen-bfab1285-987b-11f1-9485-3b33d1999fea
 2026-08-15	https://tech.udn.com/tech/amp/story/123152/9686834
 2026-08-15	https://news.tvb.com/tc/1189301-%E5%A4%AE%E8%A6%96%E7%B4%80%E9%8C%84%E7%89%87%E6%B1%9F%E6%BE%A4%E6%B0%91%E6%96%BC%E4%BA%9E%E6%B4%B2%E9%87%91%E8%9E%8D%E9%A2%A8%E6%9A%B4%E5%89%8D%E5%B7%B2%E8%AD%A6%E8%A6%BA%E5%8D%B1%E6%A9%9F%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E9%98%BB%E6%93%8A%E5%9C%8B%E9%9A%9B%E7%82%92%E5%AE%B6%E8%A1%9D%E6%93%8A
-2026-08-15	https://news.google.com/rss/articles/CBMibEFVX3lxTFBEalYzQmNFTWRyY0JJWWl4UWU0QW9FcG1xRU9mM2pCSG5wN2tsSUFMVWlqVVZOLWRDTElUamVLT1VMQ3JWTkF2YXZfczVUWlVXSmdjSGZBMnNJQUNWSjc5N3Ytejd3RnMxUDV3Zw?oc=5
 2026-08-15	https://tw.news.yahoo.com/大學私校倒閉潮來了-教育部曝最慘時間點-修平科大靠這招存活-055400535.html
 2026-08-15	https://www.singtao.ca/7597861/2026-08-15/news-再以檢閱官身份出席輔警結業會操++鄧炳強網誌勉勵：心有所信+勇敢無私/
 2026-08-15	https://www.tkww.hk/a/202608/15/AP6a801c26e4b099d2ba489ff3.html
@@ -6893,7 +6845,6 @@ var DATA_URLS = `
 2026-07-27	https://www.stheadline.com/food/3597980/屯門羊城火鍋海鮮酒家結業一區連執3間-曾推10乳鴿救市不果-網民慨嘆遲啲係咪香港無酒樓了
 2026-07-27	https://hk.on.cc/hk/bkn/cnt/news/20260727/bkn-20260727172214590-0727_00822_001.html
 2026-07-27	https://www.blocktempo.com/storj-labs-chapter-11-bankruptcy-tokenholder-equity-pathway/
-2026-07-27	https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUJGRlBDUW9DN0pNLUY5THhhNHluRjFuamdyQndLUnhwS3hHUTFqQ1VMTmRFUGhralJpbVpDUVNjeHBsemhQa0d6WnpDNVpvZ05MV0hLNi1yRzhfQmVwRHZHRjlXajRiemlWMkhtUWowVnIxcExlS2g0MHR4SW92aDlPUWZ0LUhhcUtKM0J2enNqQQ?oc=5
 2026-07-27	https://www.stheadline.com/property-market/3597724/九龍城舊樓銀主盤350萬開拍-勁蝕72-曾由鄧成波家族持有-錯過收購時機
 2026-07-27	https://www.businessinsider.tw/article/5011
 2026-07-27	https://hk.on.cc/hk/bkn/cnt/news/20260727/bkn-20260727162416622-0727_00822_001.html
@@ -7189,7 +7140,6 @@ var DATA_URLS = `
 2026-07-11	https://www.hkej.com/dailynews/finnews/article/4455044/美團否認大裁員++稱人數少於二千
 2026-07-11	https://www.hk01.com/社會新聞/60368893/羅淑佩檢閱警結業會操-稱十五五規劃帶來發展機會-警角色更關鍵
 2026-07-11	https://www.businesstimes.com.hk/articles/328338/環聯-調查-近三成消費者收入未追上通脹-經濟衰退/
-2026-07-11	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jbkFtUXZRY1RNekFlMkZmclRwMk9JQ0M2NXJPNmp1NDN4UlZOYlF1TzJBdlVldk1xeW9STEFNeUc1WXJVdTJWTnBvd1RvS3ZOcHV0ZUpaLUVvN1VGVlQ3akdqUWVJQQ?oc=5
 2026-07-11	https://www.info.gov.hk/gia/general/202607/11/P2026071100321.htm
 2026-07-11	https://hkcd.com/hkcdweb/content/2026/07/11/content_8764259.html
 2026-07-11	https://vct.news/news/小米與美團接連裁員-涉多個核心業務部門
@@ -7274,7 +7224,6 @@ var DATA_URLS = `
 2026-07-07	https://www.gov.mo/zh-hant/news/1250259/
 2026-07-07	https://news.mingpao.com/pns/娛樂/article/20260707/s00016/1783357964676/王賢誌破產後移居加拿大-拓展網上司儀口才課程
 2026-07-07	https://news.tvbs.com.tw/world/3250763
-2026-07-07	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VeHJhWVNwUGtFZVB5QjZFdS1iZWRSY0ZyWjVjaTFQX3BHNVQyV2h3Rl9SLXdGU25KeGZtYTVGT05zU0F6RG5RZ08wWmhVQnJDZUVKN3JCQW50Rjk4U2RNbGJRakl3Zw?oc=5
 2026-07-07	https://hk.finance.yahoo.com/news/微軟裁員-宣佈裁減4800人-xbox部門佔超過三成-微軟-重新考慮遊戲業務地位-050000626.html
 2026-07-07	https://www.singtaousa.com/2026/07/07/news/usa/microsoft-layoffs-xbox/
 2026-07-07	https://news.pts.org.tw/article/816482
@@ -7539,7 +7488,6 @@ var DATA_URLS = `
 2026-06-20	https://www.881903.com/news/international/2636741
 2026-06-20	https://www.hkcd.com.hk/hkcdweb/content/2026/06/20/content_8760908.html
 2026-06-20	https://www.wenweipo.com/a/202606/20/AP6a35a0cde4b0b49ad1c0079e.html
-2026-06-20	https://news.google.com/rss/articles/CBMid0FVX3lxTE5sTVVRN0F3TDM1WkdpQkpwbTZHWVgzUEU4enJYVF9KZ1oxV19YMDRLVTBiWTJYN3pRV21XdFM2TENXQ2o1YlFBdFNXVDh0U3pmalZRRW02aWdoQnd1b3RYOXg2cDktanRjSmVMeWxQcG50MTBoYzNj?oc=5
 2026-06-19	https://www.bbc.com/zhongwen/articles/cx2de9z1m34o/trad
 2026-06-19	https://vct.news/news/澳洲時尚零售品牌glue-store正式結業
 2026-06-19	https://www.worldjournal.com/wj/amp/story/121469/9577191
@@ -7582,7 +7530,6 @@ var DATA_URLS = `
 2026-06-09	https://www.4gtv.tv/article/2026060903000024
 2026-06-09	https://www.epochtimes.com/b5/26/6/8/n14784334.htm
 2026-06-08	https://hk.investing.com/news/forex-news/article-1498439
-2026-06-08	https://news.google.com/rss/articles/CBMia0FVX3lxTE9aQVRKVDFLQXN6UFM0NFdnTThQOGowanphNDdnM1JBaDBZYWM2VkJLRDVvN093YTFPVHl4Yy1LUjBEMXlZbGFvTzVYZGdCMUZwZUZyNHJSSmtwQzViVXBWNnlXWFc5Q19JbmxJ?oc=5
 2026-06-06	https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60357508/%E8%8A%B1%E6%97%97-%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E7%95%B6%E5%89%8D%E6%B3%A1%E6%B2%AB%E5%8C%96%E7%A8%8B%E5%BA%A6-%E9%81%942008%E5%B9%B4%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E5%8D%B1%E6%A9%9F%E5%BE%8C%E5%B3%B0%E5%80%BC
 2026-06-06	https://www.hkcd.com.hk/content_app/2026-06/06/content_8758672.html
 2026-06-05	https://www.ebc.com/zh/jinrong/299614.html
@@ -7591,7 +7538,6 @@ var DATA_URLS = `
 2026-06-03	https://www.sundaykiss.com/熱話/富臨酒家-長沙灣貿易廣場-結業-酒樓結業-飲茶-酒樓-2391229/
 2026-06-03	https://udn.com/news/story/6842/9542788
 2026-06-03	https://www.setn.com/news/1849612
-2026-06-03	https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTEs0MTFLYjZ5dDV1bms5ck1lZWZJNHVHSGxlX00wN2JBWjlneFFsd2xmTlVkNnVOLTBNaHRTWU92Snp6OEtVRGxEQURHYlZ2Z1RsdGQzVG45TGs?oc=5
 2026-06-02	https://www.moomoo.com/hant/news/post/70883192/2-defensive-canadian-stocks-i-d-buy-as-recession-fears
 2026-06-02	https://big5.zlb.gov.cn/gate/big5/www.zlb.gov.cn/20260602/701261aa6c324b6785f468e04fd63bb9/c.html
 2026-06-02	http://www.guandian.hk/article/20260602/564494.html
@@ -7613,7 +7559,6 @@ var DATA_URLS = `
 2026-05-30	https://topick.hket.com/article/4134225/結業潮｜大圍38年老字號「港興大飯店」宣布6月底結業 八旬老闆痛心：下一代無意接手?mtc=10012
 2026-05-30	https://hk.ulifestyle.com.hk/topic/detail/20098358/結業潮-estée-lauder旗下護膚品牌撤出香港專櫃-月底全線結業-清貨優惠減-送餐具套裝
 2026-05-29	https://ufood.com.hk/restaurant/news/detail/20093783/名人飯堂-樂意扒房-mr-tomahawk-中環美食-最後分店結業-結業潮-周潤發-賭王-最後營業日-結業優惠
-2026-05-29	https://money.udn.com/money/story/5604/9533752
 2026-05-29	https://www.hkej.com/instantnews/current/article/4405723/%E7%B5%90%E6%A5%AD%E6%BD%AE2026%E4%B8%A8%E7%9B%A4%E9%BB%9E%E8%BF%91%E6%9C%88%E9%80%A3%E9%8E%96%E5%BA%97%E5%8F%8A%E8%80%81%E5%BA%97%E7%BA%8C%E9%9B%A2%E5%A0%B4
 2026-05-29	https://www.ntdtv.com/b5/2026/05/29/a104101119.html
 2026-05-29	https://hk.finance.yahoo.com/news/全球銀行業最大整併案後續-瑞銀裁員列車仍未停-163004364.html
@@ -7863,7 +7808,6 @@ var DATA_URLS = `
 2026-04-30	https://topick.hket.com/article/4113957/結業潮｜旺角兆萬「紅火鮮料火鍋」5.3結業 老闆做網紅拍片仍難自救
 2026-04-30	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17180197011853/重點新聞-結業潮持續-蒲台島半世紀海鮮酒家五月底結業-島上唯一酒家老闆嘆家業即將失傳-無人肯做
 2026-04-30	https://cn.wsj.com/articles/畢馬威美國諮詢業務裁員4-6a0c5e30
-2026-04-30	https://www.bbc.com/zhongwen/articles/ckgp5evq70eo/trad
 2026-04-30	https://www.hkej.com/instantnews/hongkong/article/4390389/工總料糧食價格下半年上升推高通脹
 2026-04-30	https://www.wenweipo.com/a/202604/30/AP69f26e6be4b0b49ad1b8ef92.html
 2026-04-30	https://abmedia.io/ai-automation-tax-economic-crisis
@@ -7982,7 +7926,6 @@ var DATA_URLS = `
 2026-04-16	https://www.blocktempo.com/taiwan-central-bank-cbdc-report-wholesale-dvp-trial-retail-no-urgency/
 2026-04-15	https://money.udn.com/money/story/5613/9444509
 2026-04-15	https://news.cnyes.com/news/id/6421756
-2026-04-15	https://news.google.com/rss/articles/CBMiV0FVX3lxTE91VmV4aGZfUkNPZGxWOHJOVFZ6WDdUOUxzbkNQSUR1a1dTWmN4MlVKX191SjdraEpCY05TREJSOXZPVEJZZlZFM2dMcWNzSVM3NDN5OTZ0aw?oc=5
 2026-04-15	https://udn.com/news/story/6897/9442730
 2026-04-14	https://unwire.pro/2026/04/14/toto-halt-orders-naphtha-shortage-iran-war/news/
 2026-04-14	https://www.setn.com/news/1822169
@@ -8020,7 +7963,6 @@ var DATA_URLS = `
 2026-03-28	https://www.blocktempo.com/morgan-stanley-vp-valerie-lockhart-550-job-applications-gofundme-layoff/
 2026-03-28	https://news.pchome.com.tw/finance/sunmedia/20260328/index-77463874776461329003.html
 2026-03-27	https://news.pchome.com.tw/science/technice/20260327/index-77459877328497338005.html
-2026-03-27	https://news.google.com/rss/articles/CBMid0FVX3lxTFBoZGpEZU5obVM1NjJQMXowd0Mydzg2bW00c085UjdKWk91Nk96WFlQTW4wZlpIRFBzeUpFUDhsX2poZzFoNDQyYmxRdFFEUUt2R1pPUk9uZTFrNlVJc1hqazYtUHRPclVUYTZleXk0NHJYSGttZElB?oc=5
 2026-03-27	https://www.wenweipo.com/a/202603/27/AP69c51575e4b0b49ad1b40fb3.html
 2026-03-27	https://news.pchome.com.tw/finance/sunmedia/20260327/index-77460592420483329003.html
 2026-03-27	https://topick.hket.com/article/4106176/結業潮｜大家樂荃新天地分店3.29結業！ 惠顧四市套餐即送優惠券?mtc=10006
@@ -8028,7 +7970,6 @@ var DATA_URLS = `
 2026-03-27	https://www.am730.com.hk/article/1021668
 2026-03-27	https://www.singtaousa.com/2026/03/27/news/usa/kennedy-center-layoffs-executives/
 2026-03-27	https://www.hkej.com/dailynews/finnews/article/4352780/%E5%AE%98%E5%AA%92-%E4%BC%81%E6%A5%AD%E8%97%89AI%E8%A3%81%E5%93%A1%E6%81%90%E9%81%95%E6%B3%95
-2026-03-27	https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NU3U0S2FpQWZLcjZMU3M1SGVsblBvOEN0V29aZUFCX1ZtSHVhMWRVMHEyZmRFNmF5ZGZlaVpFSXVwcC1uMmhZMXViYzZlNHdVbko3Rk1IcHIwYlU?oc=5
 2026-03-27	https://std.stheadline.com/food/3556984/Pierre-Herm中環店331結業品牌進駐13年全面撤出香港-必試招牌馬卡龍
 2026-03-27	https://sunmedia.tw/news/Industry-information/1774618909-Fortnite開發商Epic Games裁員逾千人 遊戲業景氣面臨考驗
 2026-03-26	https://www.bastillepost.com/hongkong/article/15789962-經典地標落幕！西武百貨澀谷店營運近60年將於9月
@@ -9970,14 +9911,12 @@ var DATA_URLS = `
 2026-09-13	https://www.orangenews.hk/international/VV49gqh/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%AE%A2%E8%88%B9%E5%A4%A7%E7%81%AB%E9%81%87%E9%9B%A3%E4%BA%BA%E6%95%B8%E5%A2%9E%E8%87%B376%E4%BA%BA-13%E4%BA%BA%E5%A4%B1%E8%81%AF.shtml
 2026-09-13	https://www.bastillepost.com/hongkong/article/16759196-%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%A4%A7%E5%8D%97%E8%A1%97%E5%94%90%E6%A8%93%E8%B5%B7%E7%81%AB%E4%B8%80%E4%BA%BA%E9%80%81%E9%99%A2-%E7%96%91%E6%B6%89%E5%85%85%E9%9B%BB%E8%A3%9D%E7%BD%AE
 2026-09-13	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/503684/%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%A4%A7%E5%8D%97%E8%A1%97%E5%94%90%E6%A8%93%E8%B5%B7%E7%81%AB-%E4%B8%80%E5%90%8D%E5%A5%B3%E5%AD%90%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2
-2026-09-13	https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYQnlrblI2b1pYTEtGeFdEcEpzV0s3WDBMX1diMi0wRzhOMEJZVnhtckVJcTNDdVpXV2xSY1FFdVQ3Q0wyV2tuUVFISlhhbXJFZzdfMVhlcHdxY3BOUXpjWWpWVjQzUQ?oc=5
 2026-09-13	https://www.wenweipo.com/a/202609/13/AP6aa69bd4e4b01d54a283017b.html
 2026-09-11	https://china.hket.com/article/4192160
 2026-09-11	https://www.wenweipo.com/a/202609/11/AP6aa34d4ae4b01d54a282b09d.html
 2026-09-11	https://www.hkcd.com.hk/content_app/2026-09/11/content_8774499.html
 2026-09-11	https://news.tvb.com/tc/1194620-%E5%B1%B1%E6%9D%B1%E9%9D%92%E5%B3%B6%E8%88%B9%E5%BB%A0%E5%A4%A7%E7%81%AB%E7%95%B6%E5%B1%80%E6%B4%BE%E5%B0%88%E5%AE%B6%E5%88%B0%E7%8F%BE%E5%A0%B4%E8%AA%BF%E6%9F%A5%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0
 2026-09-11	https://news.tvb.com/tc/1194678-%E5%B1%B1%E6%9D%B1%E9%9D%92%E5%B3%B6%E8%88%B9%E5%BB%A0%E5%A4%A7%E7%81%AB%E7%95%B6%E5%B1%80%E6%B4%BE%E5%B0%88%E5%AE%B6%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E6%B6%88%E9%98%B2%E5%93%A1%E7%A8%B1%E7%95%B6%E6%99%82%E7%81%AB%E5%8B%A2%E9%9D%9E%E5%B8%B8%E7%8C%9B%E7%83%88
-2026-09-11	https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdFd0WXd4MXEycS1PUU5GN1ZOZ0VyUDQ4UkJYdEpoejROVXFFNHZBMTNTdTBDdDBCQzNxX1N1d2UwZW9ld2hkNnlfZFZTaXFTVml1MV9Pa1VYUktCeHd2Uy14Vk5DMU9iQ19RRw?oc=5
 2026-09-10	https://www.dotdotnews.com/a/202609/10/AP6aa1fd09e4b02724bdb3fb03.html
 2026-09-10	https://www.hkej.com/instantnews/current/article/4511438/%25E9%259D%2592%25E5%25B3%25B6%25E8%25B2%25A8%25E8%25BC%25AA%25E5%25A4%25A7%25E7%2581%25AB%25E4%25B8%25A8%25E9%2587%258025%25E6%25AD%25BB-%25E7%25BF%2592%25E8%25BF%2591%25E5%25B9%25B3-%25E5%259A%25B4%25E8%2582%2585%25E8%25BF%25BD%25E7%25A9%25B6%25E8%25B2%25AC%25E4%25BB%25BB
 2026-09-10	https://m.hkej.com/landing/mobarticle2/id/4511206/%E9%9D%92%E5%B3%B6%E8%B2%A8%E8%BC%AA%E5%A4%A7%E7%81%AB%E4%B8%A8%E6%9C%80%E5%B0%9120%E6%AD%BB%205%E4%BA%BA%E5%8F%97%E5%82%B7
@@ -10122,7 +10061,6 @@ var DATA_URLS = `
 2026-07-16	https://www.xindb.com/static/content/XYLXW/2026-07-16/1527339690989740032.html
 2026-07-16	https://www.setn.com/ampnews/1873405
 2026-07-16	https://www.epochtimes.com/b5/26/7/15/n14810239.htm
-2026-07-16	https://www.bbc.com/zhongwen/articles/cq6dr76vd3qo/trad
 2026-07-16	https://www.kinliu.hk/news/宏福苑火災聽證會繼續總結陳詞-政府一方指涉承建商及專業人士蓄意違法-居民一方質疑事涉多方失誤/179057.html?id=52&from=home&bc1=首頁&bc1to=/
 2026-07-15	https://tw.news.yahoo.com/自然與藝術的寶庫-法國-楓丹白露森林-大火燒毀逾2000公頃-061000484.html
 2026-07-15	https://www.163.com/dy/article/L1SURB860514N324.html
@@ -10153,8 +10091,6 @@ var DATA_URLS = `
 2026-07-13	https://www.bbc.com/zhongwen/articles/ckg47kxywd7o/trad
 2026-07-13	https://hk.finance.yahoo.com/news/%E6%9B%BC%E8%B0%B7%E9%85%92%E5%90%A7%E5%A4%A7%E7%81%AB%E6%9C%80%E5%B0%9127%E6%AD%BB63%E5%82%B7-%E7%B8%BD%E7%90%86%E9%98%BF%E5%8A%AA%E5%BB%B7%E5%88%B0%E5%A0%B4%E8%A6%96%E5%AF%9F-062441888.html
 2026-07-13	https://www.worldjournal.com/wj/amp/story/121480/9625754
-2026-07-13	https://news.google.com/rss/articles/CBMibEFVX3lxTE56d0hEQmszOUp1c1BlR1hsOHVTWnNwbEF2WnRwTjhNRWVvZl93TXZheFBrbElFWklPY2cwM0RycGhBZ2w0ZEU2X1hDbUxIS19DSTdsSlcwTDQyNldqNW1QenUtYlY1dl9jMFM1OA?oc=5
-2026-07-13	https://news.google.com/rss/articles/CBMibEFVX3lxTE1sNVRzS1BSWkFxb2U1aFBpWGRFSm9wVnItUVRYaENaSU13UXp4bGM1aFFUWDNJalp1LXZvY256V2hwUGlOeWxpTHpqV2FOLWVvZlZDM1JwbWhVYTZKcGtIWU5UdE40YVBaQ1FjRg?oc=5
 2026-07-13	https://www.hk01.com/突發/60369221/旺角唐樓雜物起火冒煙-消防到場救熄-6男2女自行疏散
 2026-07-13	https://www.nownews.com/news/6856037
 2026-07-13	https://hk.on.cc/hk/bkn/cnt/news/20260713/bkn-20260713120136483-0713_00822_001.html
@@ -10206,7 +10142,6 @@ var DATA_URLS = `
 2026-06-24	https://m.hkej.com/landing/mobarticle2/id/4438807
 2026-06-23	https://www.stheadline.com/society/3586139/宏福苑火災後發評論-遭消防處6工協會聯合聲明譴責-冼國林入稟高院提告誹謗
 2026-06-23	https://news.rthk.hk/rthk/ch/component/k2/1859506-20260623.htm
-2026-06-23	https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2bDZVcmZXcWlCdUpCRHJIaFZxR2dsOERkWG05OXdzcU5HdUhES3gxbE5ZNXh1cU95VnQ1ZmtrUWhma0JFYzlsNHRQbHZnOTBEQXY1REN2UVI5a0g0SnhXXzg5Y1hSdw?oc=5
 2026-06-23	https://news.pchome.com.tw/internation/crwant/20260623/index-78219235712192316011.html
 2026-06-22	https://hk.epochtimes.com/news/2026-06-22/45603505
 2026-06-22	https://www.am730.com.hk/中國/1037216/湖南湘溪民房大火6死5傷-起火原因有待調查
@@ -10642,13 +10577,11 @@ var DATA_URLS = `
 2025-12-01	https://hk.on.cc/hk/bkn/cnt/entertainment/20251201/bkn-20251201205757518-1201_00862_001.html
 2025-12-01	https://www.wenweipo.com/a/202512/01/AP692d4711e4b013d8b934d27e.html
 2025-12-01	https://std.stheadline.com/lifetips/3522861/大埔宏福苑五級火太子花墟商戶免費供應白花悼念逝者-網上花店老闆淘不到的心意拼不到的人情味
-2025-12-01	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvY2dnUEJWaEJ0MFBacVdSVHpWYWt2VDFFUUNKSldMQWgyUFlhMXljVUVvYkI5ZkZYR0RNdUpiUjJOZjNZTVNrSDFZLVBuVWRrcTZKSWpJUnduTG8yWHdlekt0SFY?oc=5
 2025-12-01	https://www.edigest.hk/時事/宏福苑-火災-圖輯-全城哀悼-願逝者安息-1968192/
 2025-12-01	https://www.singtaousa.com/2025-12-01/消息稱：國安處邀前區議員廖成利到元朗警署會面/5392081
 2025-12-01	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60299281/2010%E5%B9%B4%E4%B8%8A%E6%B5%B7%E9%AB%98%E6%A8%93%E5%A4%A7%E7%81%AB58%E6%AD%BB-%E4%BA%8B%E5%BE%8C%E7%94%A8%E6%B0%B4%E6%B3%A5%E5%B0%81%E5%AD%98%E6%9C%AA%E6%8B%86%E9%99%A4-%E5%8E%9F%E5%9B%A0%E7%9C%BE%E8%AA%AA%E7%B4%9B%E7%B4%9C
 2025-11-30	https://www.tdm.com.mo/zh-hant/news-detail/1155060?lang=zh&isvideo=false&category&shortvideo=0
 2025-11-30	https://www.info.gov.hk/gia/general/202511/29/P2025113000628.htm
-2025-11-29	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tRVE3OWZZc3VabVBjSy1aald1OGNwMGZyWDFjNDNvb2pfU3RzNHYzSEpjbnVyM001TnYydDQ2Y0hxNjJvUEhYdFFOUHUwWExfVTMyRUk2WVVGTVVkMVR4cG03eEt4dw?oc=5
 2025-11-29	https://www.info.gov.hk/gia/general/202511/29/P2025112900730.htm
 2025-11-28	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60298514/%E7%A6%8F%E5%BB%BA%E5%B1%85%E6%B0%91%E6%A8%93%E7%81%AB%E7%81%BD%E6%BF%83%E7%85%99%E5%B0%81%E6%A8%93%E9%98%BB%E9%80%83%E7%94%9F%E9%80%9A%E9%81%93-%E6%B0%91%E8%AD%A6%E6%A8%93%E9%A0%82%E6%8B%8B%E7%B9%A9%E6%95%914%E6%A8%93%E8%A2%AB%E5%9B%B0%E6%AF%8D%E5%A5%B3
 2025-11-28	http://hkcd.com/content_app/2025-11/28/content_8727640.html
@@ -10666,7 +10599,6 @@ var DATA_URLS = `
 2025-11-27	https://hk.news.yahoo.com/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E8%AD%A6-%EF%BD%9C-%E5%A4%9A%E4%BD%8D%E8%97%9D%E4%BA%BA%E4%BC%B8%E5%87%BA%E6%8F%B4%E6%89%8B-%E5%88%9D%E7%82%BA%E4%BA%BA%E6%AF%8D%E9%BA%A5%E6%98%8E%E8%A9%A9%EF%BC%9A%E5%8F%AF%E4%BB%A5%E5%B9%AB%E6%89%8B%E7%85%A7%E9%A1%A71-2%E4%BD%8D%E5%AC%B0%E5%85%92-081525317.html
 2025-11-27	https://tw.news.yahoo.com/%E5%9B%9E%E6%AD%B8%E5%BE%8C%E9%A6%96%E5%AE%97-%E4%BA%94%E7%B4%9A%E7%81%AB%E8%AD%A6-%E5%A5%AA4%E5%91%BD%E9%87%8055%E5%82%B7-17%E5%B9%B4%E5%BE%8C-%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%83%A1%E7%81%AB%E6%AD%BB%E8%80%85%E5%A2%9E11%E5%80%8D-024100488.html
 2025-11-27	https://www.info.gov.hk/gia/general/202511/27/P2025112700800.htm
-2025-11-26	https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5U2pSc1FTREJ3WnV1TUdoU2h6RllRdFJ0MTVWS2FFSHh3NmlXXzkyV1NZRmJUdXl6TDljbGVMcFpsVDB0d3FzY2RHVEtZMHQ1bzY1UUJ6enFwQV9JZTJscjVmY0IxZw?oc=5
 2025-11-26	https://www.knews.com.tw/news/49756AC3062B6DC2FD3B119F40AE7257
 2025-11-26	https://www.hk01.com/突發/60297831/宏福苑火最新-死亡人數增至168人-望兩三個月內加快拆卸棚架
 2025-11-26	https://www.hk01.com/突發/60297831/最新-大埔宏福苑大火151人死-宏昌閣發現遺體部份燒成灰
@@ -10679,7 +10611,6 @@ var DATA_URLS = `
 2025-11-13	https://www.epochtimes.com/b5/25/11/13/n14635392.htm
 2025-11-10	https://n.yam.com/Article/20251110615813
 2025-11-07	https://tw.news.yahoo.com/%E7%91%9E%E8%8A%B3%E6%A9%9F%E8%BB%8A%E7%8C%9B%E6%92%9E%E8%B2%A8%E6%AB%83%E8%BB%8A-%E9%A8%8E%E5%A3%AB%E9%81%AD%E8%BC%BE%E5%8D%A1%E8%BC%AA%E4%B8%8B%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89-013500938.html
-2025-11-03	https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0OXdQWThQSndYZWdXTmoyeHIwak9hNEZvVHE5YVJkaTJJLXIzUXlqdHJpazRqTU5iT2RwRHhieXhIX1VNd0FhOG5GN09vb3R5d1NOZ0tJNERpTnc1U3ZqSkVB?oc=5
 2025-10-31	https://news.rthk.hk/rthk/ch/component/k2/1829554-20251031.htm
 2025-10-22	https://www.hk01.com/%E7%AA%81%E7%99%BC/60287497/25%E6%AD%B2%E4%BB%94%E4%B9%98%E4%B9%9D%E5%B7%B4%E6%9C%9F%E9%96%93%E5%85%85%E9%9B%BB%E5%99%A8%E8%B5%B7%E7%81%AB%E5%82%B7%E6%89%8B-%E5%8F%B8%E6%A9%9F%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99-%E5%85%A9%E4%BA%BA%E5%90%8C%E9%80%81%E9%99%A2
 2025-10-21	https://hk.on.cc/cnt/news/20251021/bkn-20251021124356829-1021_00822_001_cn.html
@@ -10710,7 +10641,6 @@ var DATA_URLS = `
 2025-06-12	https://www.881903.com/news/local/2582392
 2025-04-14	https://www.setn.com/news/1639986
 2024-12-06	https://www.wenweipo.com/a/202412/06/AP6752bbb0e4b0b13dee8717a2.html
-2024-12-06	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vRVIzNzB0YmNvWEN5WE5sR2ppaXBydU5mYldwMnRPUWlnUGtoMVB6OVU0OHh4NnM4bkYwaGNWYmRRSzBNSzhVTDNIbC01T191UV9DU1lOcFl2NnVSLV9kbGlxbXBlZw?oc=5
 2024-10-14	https://hkcd.com/content_app/2024-10/14/content_8661876.html
 2024-09-23	https://www.hk01.com/article/1059779?utm_source=01articlecopy&utm_medium=referral
 2024-09-22	https://www.hk01.com/article/1059495?utm_source=01articlecopy&utm_medium=referral
@@ -10724,16 +10654,13 @@ var DATA_URLS = `
 2024-04-10	https://www.mytvsuper.com/tc/scoopplus/scoop/catch-up/8634807800842/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E7%9B%B4%E6%92%AD---%E6%B2%B9%E9%BA%BB%E5%9C%B0%E8%8F%AF%E8%B1%90%E5%A4%A7%E5%BB%883%E7%B4%9A%E7%81%AB%E8%AD%A6---%E6%A1%88%E6%83%85%E7%B0%A1%E5%A0%B1--
 2024-03-16	https://www.hk01.com/article/1001104?utm_source=01articlecopy&utm_medium=referral
 2023-11-25	https://www.mytvsuper.com/tc/scoopplus/news/headlines/7877395008525/%E6%9C%89%E7%89%87-%E7%81%A3%E4%BB%94%E5%94%90%E6%A8%93%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-2%E4%BD%8F%E5%AE%A2%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E6%8B%92%E9%80%81%E9%99%A2
-2023-11-14	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSU0dEazJ2Sk5iV25nTHRXMm5MT05WTXNNN0FmSlgzVXNzclBYcE1fQmdZRGpxb1diOWZ2N2p6TWJMdEpRVDFwR3plYVkza0RoRjZiZkplVkZqaEZhY3ZNX2lR?oc=5
 2023-09-26	https://m.secretchina.com/news/b5/2023/09/26/1046141.html
 2023-09-23	https://www.orangenews.hk/hongkong/1193038/%E5%8D%97%E4%B8%AB%E5%B3%B6%E7%99%BC%E9%9B%BB%E5%BB%A0%E6%B8%85%E6%99%A8%E4%BA%8C%E7%B4%9A%E7%81%AB%E8%AD%A6%E7%84%A1%E4%BA%BA%E5%82%B7-%E6%B8%AF%E7%87%88%E6%8C%87%E4%BE%9B%E9%9B%BB%E6%9C%8D%E5%8B%99%E7%B6%AD%E6%8C%81%E6%AD%A3%E5%B8%B8.shtml
 2023-09-23	https://www.hk01.com/%E7%AA%81%E7%99%BC/944066/7%E5%80%8B%E6%9C%88%E7%AC%AC2%E6%AC%A1%E5%A4%B1%E7%81%AB-%E5%8D%97%E4%B8%AB%E7%99%BC%E9%9B%BB%E5%BB%A02%E7%B4%9A%E7%81%AB%E8%AD%A6-%E4%B8%80%E5%BA%A6%E5%82%B3%E5%87%BA%E7%88%86%E7%82%B8%E8%81%B2
 2023-03-24	https://www.mytvsuper.com/tc/scoopplus/scoop/catch-up/6518628534862/%E7%9B%B4%E6%92%AD-%E9%95%B7%E6%B2%99%E7%81%A3%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6---%E6%A1%88%E6%83%85%E7%B0%A1%E5%A0%B1-
 2023-03-24	https://www.ohpama.com/788956/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E9%95%B7%E6%B2%99%E7%81%A3-%E6%BD%A4%E7%99%BC%E5%80%89-%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6/
 2023-03-03	https://www.mytvsuper.com/tc/scoopplus/scoop/catch-up/6399919253833/%E7%9B%B4%E6%92%AD---%E5%B0%96%E6%B2%99%E5%92%80%E4%B8%AD%E9%96%93%E9%81%93%E5%9C%B0%E7%9B%A4%E5%9B%9B%E7%B4%9A%E7%81%AB%E8%AD%A6---%E6%A1%88%E6%83%85%E7%B0%A1%E5%A0%B1-
-2023-03-03	https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KclpnekIxcGRfZHNpd1BBaklzZUphN0FGcUJRZUttZEVkMUxmZm1lSHh5NW5UNm9pRzljcDFlVDI2OG9tRU9ySDNqWUNhd2htbkFESVpCY3AxR0VtZmc?oc=5
 2023-03-03	https://www.hkej.com/instantnews/current/article/3385745/%E5%B0%96%E6%B2%99%E5%92%80%E4%B8%AD%E9%96%93%E9%81%93%E4%B8%80%E5%9C%B0%E7%9B%A4%E7%99%BC%E7%94%9F%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6+%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7
-2023-01-27	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQWVnN2hlTEpydjZra0RGVF9TbHV0VkdPWWZDNG14TmdpMklYRk5Ra05QTHpGWGRfVWZxWURtUUw3S0tPT1VQRzdLblZDQzU0TXRzSHd6XzNBeXo1M1pLMWVB?oc=5
 2023-01-22	https://www.wenweipo.com/a/202301/22/AP63cce534e4b053580de2201d.html
 2023-01-02	https://guangming.com.my/%E5%A6%BB%E9%80%81%E5%A2%B3%E5%A2%93%E8%9B%8B%E7%B3%95%E5%8B%B8%E6%88%92%E7%85%99-%E5%A4%AB10%E5%A4%A9%E5%BE%8C%E6%AD%BB%E4%BA%86
 2022-12-16	https://tw.news.yahoo.com/%E5%85%AB%E5%8D%A6%E5%B1%B1%E5%8D%80%E8%8D%94%E6%9E%9D%E5%9C%92%E7%AA%81%E8%B5%B7%E7%81%AB-%E9%80%B1%E9%82%8A%E7%84%A1%E6%B0%B4%E6%BA%90%E6%B6%88%E9%98%B2%E9%99%B7%E8%8B%A6%E6%88%B0-101002711.html
@@ -10832,7 +10759,6 @@ var DATA_URLS = `
 2022-08-10	https://www.hk01.com/sns/article/802568
 2022-08-08	https://news.tvbs.com.tw/local/1871362
 2022-08-03	https://www.hkcd.com/content_app/2022-08/03/content_1357524.html
-2022-08-03	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WT0Z4WGlHb0pIMWpScV9QRHN5SFRHcXQ1YVVpLTdSYVZSTjN0RVo5QVpZeWhfY3ltWkZYSjFZb3R6eGRNLTFpVGVXeEZzSlZjbFRsckl4cjRGWUY3ejBDYld3?oc=5
 2022-08-03	https://hk.on.cc/hk/bkn/cnt/news/20220803/bkn-20220803055142730-0803_00822_001.html
 2022-08-02	https://news.tvb.com/sc/866676-%E7%B2%89%E5%B6%BA%E6%B2%99%E9%A0%AD%E8%A7%92%E5%85%AC%E8%B7%AF%E9%BE%8D%E8%BA%8D%E9%A0%AD%E6%AE%B5%E8%BB%8D%E5%9C%B0%E5%8C%97%E4%B8%80%E9%96%93%E7%89%A9%E6%B5%81%E8%B2%A8%E5%80%89%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6%E6%B6%88%E9%98%B2%E6%AD%A3%E6%92%B2%E6%95%91
 2022-08-02	https://news.tvb.com/tc/866670-%E7%B2%89%E5%B6%BA%E4%B8%80%E5%80%8B%E8%B2%A8%E5%80%89%E6%B8%85%E6%99%A8%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6%E7%81%AB%E5%A0%B4%E7%99%BC%E7%8F%BE%E4%B8%80%E5%85%B7%E5%B1%8D%E9%AB%94
@@ -10848,10 +10774,7 @@ var DATA_URLS = `
 2021-12-02	http://www.hkcd.com.hk/content_app/2021-12/02/content_1309523.html
 2021-07-15	https://news.tvb.com/tc/894222-%E5%85%83%E6%9C%97%E5%85%AB%E9%84%89%E6%B2%99%E5%9F%94%E6%9D%91%E5%87%8C%E6%99%A8%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6%E8%A2%AB%E6%95%91%E7%86%84%E7%B4%8430%E4%BA%BA%E7%96%8F%E6%95%A3%E7%84%A1%E4%BA%BA%E5%82%B7
 2020-09-24	https://news.tvb.com/tc/915697-%E7%80%9D%E6%BA%90%E9%82%A8%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6%E8%B5%B7%E7%81%AB%E5%96%AE%E4%BD%8D%E7%99%BC%E7%8F%BE%E4%B8%80%E5%85%B7%E5%B1%8D%E9%AB%94%E5%9B%9B%E4%BA%BA%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2
-2020-07-27	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uakhieVI1N2s2MXFZOFl6UkxGN3dlQzRuWldaUHJpS0FfeG5kekdJWmxsaF80cjhuR2x4Q2FBQzE1aDUxYXZhclIxUXNFaHZ4eHlHNy1qbzBiRmVnNWZmRFZ3?oc=5
 2020-07-27	https://www.hkcd.com/content/2020-07/27/content_1203953.html
-2020-07-19	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqbmp6c3B2cDFYeFRJNE1CcmNTX0V5b0pEaExSd0VybG9uWEVkUm1jeFIxZDZlTlU1amxvc0FVc00zVjJ1VmlDN2VHbnQ4RFJKU0VVYzdKeXZTdUUtTk0tM25n?oc=5
-2020-07-19	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iVXZocXplR2xqcGxSZ2Z1bnNnLUdnSGgzVHNJSkhGUXBxZm82bkdHRDBoWXJQLTg1a1pHWFlvblJJS2g1TkhNbWxZNlRaUnhIcWE5MTZ4MDZhR1BLS0FoQlFn?oc=5
 2020-01-03	https://news.tvb.com/sc/938003-%E6%B2%99%E7%94%B0%E9%BE%8D%E8%8F%AF%E9%85%92%E5%BA%97%E6%98%A8%E6%99%9A%E7%99%BC%E7%94%9F%E4%BA%8C%E7%B4%9A%E7%81%AB%E8%AD%A6%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5%E5%BE%8C%E8%AD%89%E5%AF%A6%E7%84%A1%E5%8F%AF%E7%96%91
 2019-03-05	https://www.setn.com/news/507375
 2018-11-22	https://news.tvb.com/tc/local/5bf6b348e603832a3cefdc99/%E6%B8%AF%E6%BE%B3-%E6%B5%B8%E5%A4%A7%E5%AE%BF%E8%88%8D%E4%BA%8C%E7%B4%9A%E7%81%AB%E8%AD%A612%E4%BA%BA%E5%82%B7-%E9%8C%A2%E5%A4%A7%E5%BA%B7%E5%86%80%E5%AD%B8%E7%94%9F%E6%8F%90%E9%AB%98%E5%AE%89%E5%85%A8%E6%84%8F%E8%AD%98
@@ -11173,7 +11096,6 @@ var DATA_URLS = `
 2026-08-09	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378286/%E4%BB%8A%E6%97%A5%E6%96%B0%E8%81%9E8%E5%88%86%E9%90%98-143%E5%B9%B4%E6%9C%80%E7%86%B1%E7%94%B7%E5%AD%90%E8%A1%8C%E5%B1%B1%E4%B8%AD%E6%9A%91%E4%BA%A1-%E5%89%B7%E7%9F%B3%E5%A3%86%E7%B4%85%E7%9A%84%E9%A3%9B%E7%94%A9%E8%BB%8A%E8%BD%86
 2026-08-09	https://www.facebook.com/ETtoday/posts/%E6%9D%8E%E6%A6%AE%E6%B5%A9%E7%B2%89%E7%B5%B2%E5%9C%A8%E6%BC%94%E5%94%B1%E6%9C%83%E4%B8%8A%E4%B8%AD%E8%A6%AA%E7%B0%BD%E6%BF%80%E5%8B%95%E5%88%B0%E6%9A%88%E5%80%92-%E7%B6%B2%E5%98%86%E5%BF%83%E9%85%B8%E5%8F%88%E5%A5%BD%E7%AC%91%E5%9C%96%E7%BF%BB%E6%94%9D%E8%87%AA%E5%BE%AE%E5%8D%9A%E5%98%BB%E5%98%BB%E4%B9%9F%E4%B8%8D%E5%98%BB%E5%98%BB%E8%B5%B7%E5%95%B5/1550348493790897/
 2026-08-09	https://tw.news.yahoo.com/52歲男為養家硬撐到暈倒-送醫驚-雙腎衰退-5大傷腎習慣曝光-210500919.html
-2026-08-08	https://news.google.com/rss/articles/CBMiYkFVX3lxTE53YjRTT2ZoUmZBeVh5cEZDeGhubXhDNFB2MG5YUU9XaDZMTldHQW5wMzRuQ0Z5bXFVd3AyUGNzMWFINXVGTG5wNnpNQkFIUjhiSzRhTTNfUnF1RllBWlhGY2p3?oc=5
 2026-08-08	https://news.tvb.com/tc/1187927-%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3%E4%B8%8B%E5%A4%9A%E8%99%95%E6%9C%89%E8%A1%8C%E5%B1%B1%E4%BA%BA%E5%A3%AB%E7%96%91%E4%B8%AD%E6%9A%91%E6%94%80%E5%B1%B1%E5%B0%88%E5%AE%B6%E7%A8%B1%E6%88%B6%E5%A4%96%E6%9B%9D%E6%9B%AC%E6%98%93%E4%BC%91%E5%85%8B
 2026-08-08	https://news.tvb.com/tc/1187914-%E4%B8%8B%E5%8D%88%E5%A4%9A%E8%99%95%E6%9C%89%E4%BA%BA%E8%A1%8C%E5%B1%B1%E4%B8%8D%E9%81%A9%E7%96%91%E4%B8%AD%E6%9A%91%E5%8C%85%E6%8B%AC7%E6%AD%B2%E5%A5%B3%E7%AB%A5
 2026-08-08	https://www.wenweipo.com/a/202608/08/AP6a76720ce4b0c1e50023fcf1.html
@@ -11333,7 +11255,6 @@ var DATA_URLS = `
 2026-07-16	https://www.knews.com.tw/news/1CA48D4F30D13E1ABB0A0E08E1F785FA
 2026-07-15	https://www.hk01.com/突發/60370345/香港仔深灣道學校裝修-工人意外頭撞橫樑疑一度昏迷-終清醒送院
 2026-07-15	https://www.dotdotnews.com/a/202607/15/AP6a56f380e4b04b6c5d3372b7.html
-2026-07-15	https://news.google.com/rss/articles/CBMibEFVX3lxTFBfaENseGNOVG5WTzJUcmZ4RUNzWEU1ZEdXLTJPTVlxTkZFYWF4cVZwLWY3S1lJSU9FTVB6NnNLdDJWbmdDRW1idExBQ3Z4WUpOUXNIeEZ1THJtQjNMM0pSeVZYeDNfSWNvb055RQ?oc=5
 2026-07-15	https://tw.news.yahoo.com/女子連吃3天綠豆湯陷昏迷-醫點名3類人要避免-061356994.html
 2026-07-15	https://www.worldjournal.com/wj/amp/story/121471/9630856
 2026-07-14	https://www.dotdotnews.com/s/202607/14/AP6a55cd4be4b04b6c5d3356d0.html
@@ -11798,7 +11719,6 @@ var DATA_URLS = `
 2026-04-13	https://www.wenweipo.com/s/202604/13/AP69dcf21ce4b0b49ad1b6bd84.html
 2026-04-13	https://www.dotdotnews.com/a/202604/13/AP69dce63de4b09ea23312614f.html
 2026-04-13	https://www.bastillepost.com/hongkong/article/15868096-56歲男子港鐵藍田站扶手梯旁暈倒-送聯合醫院搶救
-2026-04-12	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kalJRUjQ0b19JZUpOWjNtUUNWMk1RVlA1VUxjX2w2Yl9POHF0QUcxZ3JDTWtMU010VGJzRFg0cUxjR3hwTDNVOTRscVNLNDh0Wk9hYkNCZnFhZlhmdnFxWEFB?oc=5
 2026-04-12	https://www.hk01.com/突發/60339327/東涌42歲城巴司機突暈倒-自炒鏟上行人路-司機昏迷送院亡
 2026-04-10	https://www.singtao.ca/7471879/2026-04-10/news-西營盤九旬婦用膳期間暈倒+送院搶救亡 +本周內第三宗/
 2026-04-10	https://hk.on.cc/hk/bkn/cnt/news/20260410/bkn-20260410173141836-0410_00822_001.html
@@ -12196,7 +12116,6 @@ var DATA_URLS = `
 2026-01-19	https://tw.sports.yahoo.com/news/好心有好報-世界排名112女將及時救助昏倒球僮最終爆冷淘汰種子好手-085712149.html
 2026-01-19	https://tw.news.yahoo.com/吸氦氣-變聲-覺得好玩-業者-很多孩子猛吸缺氧暈倒-102223588.html
 2026-01-19	https://www.arch-web.com.tw/世界新聞/12歲男孩在母親開車時昏倒後救了她的命/488856/
-2026-01-18	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBneENmUzl1UksyUWVtRlA2X2w1MVJxei1yMW1BWU90UnlLcDUzSGRaTWZPcC1VOG9lOWRsamY1QmNNSmN2SThjWU1IdnFQT2IteWJnZDFaVWpyWlhEUnNfR0p3?oc=5
 2026-01-18	https://hk.sports.yahoo.com/news/澳網天氣炎熱球僮暈倒-球賽叫停-120324730.html
 2026-01-17	https://news.china.com/socialgd/10000169/20260117/49172085.html
 2026-01-17	https://tw.news.yahoo.com/媽媽躲起來騙她-女童找嘸人崩潰暈倒亡-舅舅怒揭真相-根本沒躲起來-023400369.html
@@ -13222,7 +13141,6 @@ var DATA_URLS = `
 2026-09-30	https://news.rthk.hk/rthk/ch/component/k2/1872188-20260930.htm
 2026-09-30	https://www.bastillepost.com/hongkong/article/16881070-%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AE%89%E8%80%81%E9%99%A2%E5%85%AB%E6%97%AC%E5%A9%A6%E6%9F%93%E5%A4%A7%E9%BC%A0%E6%88%8A%E5%9E%8B%E8%82%9D%E7%82%8E-%E7%82%BA%E6%97%A9%E5%89%8D91%E6%AD%B2%E6%84%9F
 2026-09-30	https://health.udn.com/health/story/5999/9785188?from=udn-articlemain_ch1005
-2026-09-30	https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xNXhrX1BkVUh1VWlhdTI0aXZFemtUbGtIRWk3aVZnWDdqX1ZMeWt2SzBQZnhYNnNiQzVIUXc1R0hmWlNuZTczN3dmQllWcnp4amkwQXRqVi1Rdy1fZ191a0xn?oc=5
 2026-09-30	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260930/s00001/1790773287454/80%E6%AD%B2%E8%80%81%E5%A9%A6%E6%84%9F%E6%9F%93%E5%A4%A7%E9%BC%A0%E6%88%8A%E5%9E%8B%E8%82%9D%E7%82%8E-%E7%82%BA%E6%97%A9%E5%89%8D%E7%A2%BA%E8%A8%BA%E8%80%81%E7%BF%81%E5%AE%B6%E5%B1%AC
 2026-09-30	https://www.hk01.com/%E8%A6%AA%E5%AD%90/60381174/4%E6%AD%B2%E5%A5%B3%E7%AB%A5%E5%98%94%E5%90%90%E5%97%9C%E7%9D%A1%E9%9A%AA%E5%96%AA%E5%91%BD-%E9%86%AB%E6%8F%AD%E5%85%92%E7%AB%A5%E5%BF%83%E8%82%8C%E7%82%8E4%E5%A4%A7%E8%AD%A6%E8%A8%8A-%E5%88%87%E5%8B%BF%E7%95%B6%E8%85%B8%E8%83%83%E7%82%8E
 2026-09-26	https://hk.ulifestyle.com.hk/topic/detail/20019629/慢病共治計劃現已接受報名-免費驗糖尿病-高血壓-即睇資助金額及參加方法
@@ -13259,7 +13177,6 @@ var DATA_URLS = `
 2026-09-24	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393544/%E7%8C%B4%E7%97%98-36%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E6%9B%BE%E6%96%BC%E9%A6%99%E6%B8%AF%E8%88%87%E5%85%B6%E4%BB%96%E7%94%B7%E5%AD%90%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%80%A7%E6%8E%A5%E8%A7%B8
 2026-09-24	https://www.setn.com/ampnews/1912017
 2026-09-24	https://www.ntdtv.com/b5/2026/09/23/a104135579.html
-2026-09-24	https://news.google.com/rss/articles/CBMikgFBVV95cUxORkJPeHEzRnVNQ1Rnc1pEXzZGTEFOSngzemZtVjJGb1Y3V3ZtNzJvZ3Y2NEtCVFF0N2gzcmluaC1za2RRYTdFZm8tOEsxVWlieWFNc1JLeDFaV2hWWlA4eEctZFUwQVc0TDZ6RzhDeWpsX2FzNU80VEM4NHNCVzd3M2N3QXdTMHhlOHpoNXJOWTYwQQ?oc=5
 2026-09-24	https://www.storm.mg/article/11167449
 2026-09-24	https://udn.com/news/story/7266/9775094
 2026-09-24	https://www.wenweipo.com/a/202609/24/AP6ab52020e4b01d54a284a535.html
@@ -13299,7 +13216,6 @@ var DATA_URLS = `
 2026-09-21	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260921/s00001/1789994244841/29%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E7%8C%B4%E7%97%98%E8%A2%AB%E5%88%97%E7%82%BA%E8%BC%B8%E5%85%A5%E5%80%8B%E6%A1%88-%E6%BD%9B%E4%BC%8F%E6%9C%9F%E5%85%A7%E6%9B%BE%E9%9B%A2%E6%B8%AF%E8%88%87%E4%B8%80%E5%90%8D%E9%99%8C%E7%94%9F%E7%94%B7%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%8E%A5%E8%A7%B8
 2026-09-21	https://news.tvb.com/tc/1196604-29%E6%AD%B2%E7%94%B7%E5%AD%90%E7%A2%BA%E8%A8%BA%E7%8C%B4%E7%97%98%E7%95%99%E9%86%AB%E6%83%85%E6%B3%81%E7%A9%A9%E5%AE%9A
 2026-09-21	https://www.wenweipo.com/a/202609/21/AP6ab123bde4b01d54a284340f.html
-2026-09-21	https://news.google.com/rss/articles/CBMid0FVX3lxTE8xdEhHNDRRZkRoSl9IZ1l1VmgtTUpGdUZ5dXY0VUxPcEJjbVNCOUg0TmEzNXZXTTFxbXJDQW5XU3JXT2poQUZsb1RKZnB1d3puNHlna0xYN2VPZEZRWjI0Q3YzemdyTGlMaVZ3bkRLV3N1Tmx3OXZV?oc=5
 2026-09-21	https://hkcd.com.hk/content_app/2026-09/21/content_8776223.html
 2026-09-20	https://today.line.me/tw/v3/posts/list/article/ML7j7qQ
 2026-09-20	https://www.chinatimes.com/realtimenews/20260920002242-260404
@@ -13340,12 +13256,10 @@ var DATA_URLS = `
 2026-09-16	https://today.line.me/tw/v3/posts/list/article/0M5vwDD
 2026-09-16	https://news.tvb.com/tc/1195466-%E8%A6%8F%E5%8A%83%E6%96%BD%E6%94%BF%E6%9C%9F%E6%9C%9B%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%B7%E6%8B%9B%E5%BD%A5%E7%87%BE%E8%AB%87%E5%B0%8D%E5%89%B5%E7%A7%91%E6%94%BF%E7%AD%96%E6%9C%9F%E6%9C%9B
 2026-09-16	https://news.hket.com/article/4194980/猴痘｜本港再增兩宗後猴痘個案 近期14宗個案有9宗報稱交友APP相識
-2026-09-16	https://www.hkcd.com.hk/content_app/2026-09/16/content_8775460.html
 2026-09-16	https://www.881903.com/news/amp/local/2650404
 2026-09-16	https://www.epochtimes.com/b5/26/9/15/n14850250.htm/amp
 2026-09-16	https://news.pchome.com.tw/healthcare/healthnews/20260916/index-17895456000368320012.html
 2026-09-16	https://www.bastillepost.com/hongkong/article/16781363-再多兩宗猴痘確診個案-兩患者潛伏期內曾在港與其
-2026-09-16	https://news.rthk.hk/rthk/ch/component/k2/1870328-20260916.htm
 2026-09-15	https://www.dotdotnews.com/a/202609/15/AP6aa8e84ae4b02724bdb4848e.html
 2026-09-15	https://tw.news.yahoo.com/防秋冬4大呼吸道疾病-醫籲打疫苗-220029968.html
 2026-09-15	https://www.facebook.com/am730hk/posts/%E8%87%AA8%E6%9C%88%E8%B5%B7%E7%8C%B4%E7%97%98%E5%80%8B%E6%A1%88%E6%95%B8%E5%AD%97%E6%9C%89%E6%89%80%E4%B8%8A%E5%8D%87%E7%8C%B4%E7%97%98-%E4%BA%A4%E5%8F%8Bapp-am730/1581531307347799/
@@ -13384,14 +13298,12 @@ var DATA_URLS = `
 2026-09-14	https://www.881903.com/news/local/2649971
 2026-09-14	https://www.wenweipo.com/a/202609/14/AP6aa7f3b6e4b01d54a283257c.html
 2026-09-14	https://www.hkcd.com.hk/hkcdweb/content/2026/09/14/content_8774936.html
-2026-09-14	https://news.rthk.hk/rthk/ch/component/k2/1869980-20260914.htm
 2026-09-13	https://www.dotdotnews.com/a/202609/13/AP6aa616b7e4b02724bdb44dc1.html
 2026-09-13	https://www.singtaousa.com/2026/09/13/news/usa/pennsylvania-reports-apparent-third-measles-related-death-amid-outbreak/
 2026-09-13	https://www.stheadline.com/realtime-china/3614892/%E7%94%B2%E5%9E%8B%E6%B5%81%E6%84%9F%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E7%88%86%E7%99%BC%E5%B1%A2%E8%A6%8B%E5%8D%8A%E7%8F%AD%E5%AD%B8%E7%94%9F%E6%9F%93%E7%97%85-%E5%A4%9A%E6%A0%A1%E8%A6%81%E5%85%A8%E7%8F%AD%E5%B1%85%E5%AE%B6%E9%9A%94%E9%9B%A2
 2026-09-13	https://news.tvb.com/tc/1194961-%E6%BE%B3%E6%B4%B2%E9%A6%96%E6%AC%A1%E6%96%BC%E6%B5%B7%E7%8D%85%E9%AB%94%E5%85%A7%E9%A9%97%E5%87%BAH5N1%E7%A6%BD%E6%B5%81%E6%84%9F%E7%97%85%E6%AF%92
 2026-09-13	https://www.kinliu.hk/news/%E7%92%B0%E7%90%83/%E6%BE%B3%E6%B4%B2%E9%A6%96%E6%AC%A1%E5%9C%A8%E6%B5%B7%E7%8D%85%E9%AB%94%E5%85%A7%E9%A9%97%E5%87%BAH5N1%E7%A6%BD%E6%B5%81%E6%84%9F%E7%97%85%E6%AF%92/313998.html?id=80
 2026-09-13	https://www.orangenews.hk/hongkong/VV42fH4/%E6%B2%99%E7%94%B0%E5%9C%8D%E5%91%82%E6%98%8E%E6%89%8D%E5%B0%8F%E5%AD%B839%E4%BA%BA%E7%96%91%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E6%98%8E%E6%97%A5%E8%B5%B7%E5%8F%96%E6%B6%88%E7%8F%BE%E5%A0%B4%E5%88%86%E5%8D%88%E8%86%B3.shtml
-2026-09-13	https://news.google.com/rss/articles/CBMibEFVX3lxTE1xYXh0WThqdmpYQ2dzUmUyNjdxZGY1dEdkTVlmNGd6bFJwc0d4ODVDZHV5SXprVk16S09vMkdaVkNIY19KUi10cGw1SGJ2aXJUSnhHODhMeFZndnp2TXg5N0QzWjBLd0Vad0pseA?oc=5
 2026-09-13	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389594/%E6%97%A5%E6%9C%AC%E4%BA%AC%E9%83%BD%E7%94%B0%E5%BE%91%E8%B3%BD%E7%96%91%E7%99%BC%E7%94%9F%E9%9B%86%E9%AB%94%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-28%E4%BA%BA%E5%85%A5%E9%99%A2
 2026-09-13	https://www.881903.com/news/international/2649778
 2026-09-12	https://www.stheadline.com/society/3614632/%E6%B5%B8%E4%BF%A1%E6%9C%83%E6%B2%99%E7%94%B0%E5%9C%8D%E5%91%82%E6%98%8E%E6%89%8D%E5%B0%8F%E5%AD%B8%E7%88%86%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-39%E4%BA%BA%E9%A3%9F%E6%BB%B7%E6%B0%B4%E9%9B%9E%E9%AB%80%E5%92%8C%E9%95%B7%E9%80%9A%E7%B2%89%E5%BE%8C%E8%85%B9%E7%97%9B%E5%8F%8A%E8%85%B9%E7%80%89
@@ -13401,7 +13313,6 @@ var DATA_URLS = `
 2026-09-12	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389415/%E6%B2%99%E7%94%B0%E6%9C%89%E5%B0%8F%E5%AD%B8%E7%88%86%E9%9B%86%E9%AB%94%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-39%E4%BA%BA%E6%A0%A1%E5%85%A7%E9%80%B2%E9%A3%9F%E6%BB%B7%E6%B0%B4%E9%9B%9E%E9%AB%80%E5%8F%8A%E9%95%B7%E9%80%9A%E7%B2%89%E5%BE%8C%E5%B1%99%E5%98%94
 2026-09-12	https://www.dotdotnews.com/a/202609/12/AP6aa551eee4b02724bdb44344.html
 2026-09-12	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/503537/%E6%B2%99%E7%94%B0%E5%9C%8D%E5%91%82%E6%98%8E%E6%89%8D%E5%B0%8F%E5%AD%B839%E5%B8%AB%E7%94%9F%E7%96%91%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E9%80%B2%E9%A3%9F%E4%BE%9B%E6%87%89%E5%95%86%E6%BB%B7
-2026-09-12	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYek1GNWlZeWJWYXBSREZteHJ5Nm5keXktdElDektpbW5vZzduWHRTWkE1YlpnRVc4OXBLTWhsY0xhZ2h0RWdzcXNNY01FcFY3U19ZV3VKSDR3clBiZXZQVXZB?oc=5
 2026-09-12	https://hk.on.cc/hk/bkn/cnt/news/20260912/bkn-20260912204618293-0912_00822_001.html
 2026-09-12	https://news.tvb.com/tc/1194857-%E6%97%A5%E6%9C%AC%E6%9C%89%E9%81%8B%E5%8B%95%E6%9C%83%E7%99%BC%E7%94%9F%E9%9B%86%E9%AB%94%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%9223%E4%BA%BA%E9%80%81%E9%99%A2
 2026-09-11	https://news.nextapple.com/life/20260911/C951209B8394A62164ADEC6190C6CF4D
@@ -13492,7 +13403,6 @@ var DATA_URLS = `
 2026-09-05	https://www.taisounds.com/news/content/71/287073
 2026-09-05	https://today.line.me/tw/v3/article/5y1v2VE
 2026-09-05	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/17871226500920/癌症風險-最新研究揭機師空服員輻射暴露高-8大癌症死亡率高50--工會籲每年檢查皮膚乳房-
-2026-09-05	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEVjV0dmdRQ1hPcXl6N2xLWlpIVlZvdzJFaEhVRmRFQkdNYjNDUnR6RTQ1Vm0tUkJBclRadlR4bW1Sdm9TSkVZcGpFMDFlaEpPb2pYdE1KSEd3Rm5PT2JWMlN3?oc=5
 2026-09-05	https://news.rthk.hk/rthk/ch/component/k2/1868957-20260905.htm
 2026-09-05	https://www.dotdotnews.com/a/202609/05/AP6a9c0c10e4b02724bdb3892c.html
 2026-09-05	https://www.wenweipo.com/a/202609/05/AP6a9c06b0e4b01d54a281f18e.html
@@ -13520,7 +13430,6 @@ var DATA_URLS = `
 2026-09-03	https://news.tvbs.com.tw/health/4016670
 2026-09-03	https://tw.news.yahoo.com/%E5%82%85%E5%AD%90%E7%B4%94%E7%97%85%E9%80%9D%E8%BF%913%E5%80%8B%E6%9C%88-%E5%A5%BD%E5%8F%8B%E8%81%9A%E6%9C%83-%E6%9C%AC%E4%BA%BA-%E4%BB%8D%E7%8F%BE%E8%BA%AB-%E9%99%AA%E6%84%9B%E5%A6%BB%E8%BA%AB%E6%97%81%E6%83%B9%E9%BC%BB%E9%85%B8-150737582.html
 2026-09-03	https://news.rthk.hk/rthk/ch/component/k2/1868604-20260903.htm
-2026-09-03	https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3dXJNY1pSMzFzRGRtRWhpM2ZpdzZFTHlQRUZ4R1M3X3lsNHRrV2xGMkVqejVPUmo4SUw0UnA4V0FTQ05GRDc4TWt4Sm1WTG5NOE55UXhrYnRyZFJZanlSZXZB?oc=5
 2026-09-02	https://www.am730.com.hk/娛樂/1050861/陳觀泰逝世-敖嘉年盼恩師往生淨土-佢係好幽默嘅師傅
 2026-09-02	https://www.ftnn.com.tw/news/575526
 2026-09-02	https://hkcd.com.hk/hkcdweb/content/2026/09/02/content_8772832.html
@@ -13583,7 +13492,6 @@ var DATA_URLS = `
 2026-08-29	https://www.cna.com.tw/video/news/4356163
 2026-08-29	https://ent.ltn.com.tw/news/breakingnews/5556223
 2026-08-29	https://www.hkej.com/dailynews/international/article/4497462/89%25E6%25AD%25B2%25E6%258C%25AA%25E5%25A8%2581%25E5%259C%258B%25E7%258E%258B%25E7%2597%2585%25E9%2580%259D-%25E7%258E%258B%25E5%2584%25B2%25E5%2593%2588%25E5%25BA%25B7%25E7%25B9%25BC%25E4%25BD%258D
-2026-08-29	https://www.dotdotnews.com/a/202608/29/AP6a929b04e4b04b6c5d383648.html
 2026-08-29	https://www.wenweipo.com/a/202608/29/AP6a92a18ce4b0c1e50026b604.html
 2026-08-29	https://www.hkcd.com.hk/hkcdweb/content/2026/08/29/content_8772276.html
 2026-08-29	https://www.bastillepost.com/hongkong/article/16664835-39歲男子確診猴痘 潛伏期內在港與兩男有高風險接
@@ -13707,9 +13615,7 @@ var DATA_URLS = `
 2026-08-20	https://www.stheadline.com/health-care/3606302/60歲糖尿病男狂飲苦瓜汁送院醫生揭5大降血糖食物-第一名高纖護血管
 2026-08-20	https://www.wenweipo.com/a/202608/20/AP6a86d72de4b0c1e50025949d.html
 2026-08-20	http://www.hkcd.com/hkcdweb/content/2026/08/20/content_8770740.html
-2026-08-20	https://news.rthk.hk/rthk/ch/component/k2/1866904-20260820.htm
 2026-08-20	https://www.881903.com/news/local/2646014
-2026-08-20	https://hk.news.yahoo.com/39歲男子染猴痘-曾在泰國與陌生男子有高風險接觸-120826211.html
 2026-08-20	https://hk.on.cc/hk/bkn/cnt/news/20260820/bkn-20260820182225509-0820_00822_001.html
 2026-08-19	https://www.ntdtv.com/b5/2026/08/19/a104125448.html
 2026-08-19	https://today.line.me/tw/v3/article/Ggw6OeY
@@ -13735,7 +13641,6 @@ var DATA_URLS = `
 2026-08-18	https://ccue.singtao.ca/2026-08-18/空姐空少患輻射相關癌症死亡比例最高 機師排第/1102446
 2026-08-18	https://health.ltn.com.tw/article/breakingnews/5543927
 2026-08-18	https://turnnewsapp.com/livenews/life/20260818002739-260405
-2026-08-18	https://www.commonhealth.com.tw/article/94432
 2026-08-18	https://heho.com.tw/archives/385730
 2026-08-18	https://health.ettoday.net/news/3221261
 2026-08-18	https://news.tvbs.com.tw/health/4008921
@@ -13743,7 +13648,6 @@ var DATA_URLS = `
 2026-08-18	https://www.ntdtv.com/b5/2026/08/17/a104124886.html
 2026-08-18	https://hk.epochtimes.com/news/2026-08-18/1518583
 2026-08-18	https://life.tw/article/19天3例境外登革熱-黃偉哲籲旅外民眾提高防蚊警覺-3122608
-2026-08-17	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCOThKQ1VQUWpJVzFnLWVVWXNONGVuZzZ0ZFlPTmc5SVlJdlpuNWt3OWx6eFBmc3MxQXFtM2xnTlo3ZjlCQVRVeGZRVmYxSVRyeGt4SDltSDFnUDRLZVZpSmFDZVk?oc=5
 2026-08-17	https://news.tvb.com/tc/1189468-%E9%87%91%E6%96%AF%E7%91%9E%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E4%B8%AD%E6%9C%9F%E8%99%A7%E6%90%8D%E6%8C%89%E5%B9%B4%E6%94%B6%E7%AA%84%E8%BF%91%E5%85%A9%E6%88%90%E4%B9%9D
 2026-08-17	https://eastweek.stheadline.com/witness/20913/%E8%8F%B2%E5%82%AD%E7%97%85%E9%80%9D%E9%81%BA%E9%AB%94%E9%81%8B%E8%BF%94%E9%84%89-%E5%83%B1%E4%B8%BB%E6%8F%AD%E4%BF%9D%E9%9A%AA%E5%83%85%E8%B3%A0%E4%B8%89%E8%90%AC-%E8%B7%A8%E5%A2%83%E9%81%8B%E9%80%81%E8%B2%BB%E7%94%A8%E6%B2%89%E9%87%8D
 2026-08-17	https://finance.sina.com.cn/money/fund/aiassistant/etfkp/2026-08-17/doc-ininqtnu9104376.shtml
@@ -13762,7 +13666,6 @@ var DATA_URLS = `
 2026-08-17	https://www.wenweipo.com/a/202608/17/AP6a830521e4b0c1e500253a2f.html
 2026-08-17	https://www.orangenews.hk/hongkong/VSYrBmI/32歲男子確診猴痘-潛伏期曾有高風險接觸.shtml
 2026-08-17	https://www.881903.com/news/amp/local/2645470
-2026-08-17	https://news.rthk.hk/rthk/ch/component/k2/1866484-20260817.htm
 2026-08-16	https://taiwandaily.net/%E7%86%B1%E9%96%80%E5%BD%B1%E9%9F%B3/152465/
 2026-08-16	https://ccue.singtao.ca/2026-08-16/隔夜水細菌量飆升近2倍！-日本實測5大隔夜飲品細/1102258
 2026-08-16	https://www.sbs.com.au/language/chinese/zh-hant/article/h5n1-bird-flu-detected-in-penguin-in-victoria/2u9nvpex2
@@ -13809,7 +13712,6 @@ var DATA_URLS = `
 2026-08-12	https://www.tkww.hk/a/202608/12/AP6a7bee4ae4b099d2ba4867f5.html
 2026-08-12	https://www.thenewslens.com/article/269579
 2026-08-12	https://news.ebc.net.tw/news/living/565968
-2026-08-12	https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3cnpkRFZEdl90RVdGcENGbWwtOEV1aW4tQlFBbEJyQ0lNcFctT0Jfc2R3U3hKNUlzdzdkMkYzelhMSFpneVBpZnNuOGJHU1RnWkZRMXVYSElVNUpydndGMjFn?oc=5
 2026-08-12	https://www.singtao.ca/7594781/2026-08-12/news-朱鎔基逝世︱為明太祖朱元璋後人++父母早逝鍛造堅毅意志/
 2026-08-12	https://health.ltn.com.tw/article/breakingnews/5536429
 2026-08-12	https://today.line.me/tw/v3/article/zN8yjwg
@@ -14035,12 +13937,10 @@ var DATA_URLS = `
 2026-07-27	https://www.sjtv.com.tw/articles/91973
 2026-07-27	https://today.line.me/tw/v3/article/JPnVmeP
 2026-07-27	https://hk.on.cc/hk/bkn/cnt/news/20260727/bkn-20260727152140090-0727_00822_001.html
-2026-07-27	https://news.google.com/rss/articles/CBMibEFVX3lxTE5xWWdLMVFidmctZ3lSQVF5MjJacjRiQV9WajVqSF90Q2Z1akR2RHM1NElTT1lFN0dyZkd3MnRYQ2Q2Z0d1VXhHTGJUblJBOTh5RmdXTVNXODNfaGpVdGlicWlfUmJEc1dtOW5hTQ?oc=5
 2026-07-27	https://www.am730.com.hk/article/1043762
 2026-07-27	https://hk.finance.yahoo.com/news/%E4%B8%AD%E5%9C%8B%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%96%E4%BB%A3ai-%E6%88%90%E6%96%B0%E8%88%88%E5%B8%82%E5%A0%B4%E6%88%90%E9%95%B7%E4%BA%A4%E6%98%93%E7%84%A6%E9%BB%9E-030836708.html
 2026-07-27	https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad
 2026-07-27	https://theculturist.hk/2026/07/%E5%B1%95%E8%A8%8A/%E6%B5%B7%E5%A4%96%E8%B3%87%E8%A8%8A/%E3%80%90%E7%AA%81%E7%99%BC-%E3%80%91%E6%97%A5%E6%9C%AC%E6%8E%A8%E7%90%86%E4%BD%9C%E5%AE%B6%E6%9D%B1%E9%87%8E%E5%9C%AD%E5%90%BE%E7%97%85%E9%80%9D-%E5%BE%97%E5%B9%B468%E6%AD%B2-2026/
-2026-07-27	https://news.google.com/rss/articles/CBMibEFVX3lxTE5aSmVBY1ZCY3c3bUxiTHlRVEJhSmlJUy1wNXhUOGU5cVZleDdSaWZOVFNQTzB2MWpCSmhsSEZvNDJveXpNaVZPZ2RfNU9IR0EzSEh3aEpMVTFwbnowMHRFTGx3dU5wall5LVZuZg?oc=5
 2026-07-27	https://www.orangenews.hk/china/VQXZTUA/6歲女童參與仇子龍團隊基因編輯試驗後死亡-家屬耗資巨款-論文相關數據遭刪.shtml
 2026-07-27	https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20260727/s00013/1785087069007/6%E6%AD%B2%E7%AB%A5%E5%9F%BA%E5%9B%A0%E7%B7%A8%E8%BC%AF%E6%B2%BB%E7%99%82%E5%BE%8C%E4%BA%A1-%E4%BA%A4%E5%A4%A7%E9%86%AB%E5%AD%B8%E9%99%A2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E7%B5%84%E8%AA%BF%E6%9F%A5
 2026-07-27	https://www.rfi.fr/tw/中國/20260727-6歲女童接受基因編輯試驗後死亡-上海衛健委-相關部門人員已介入跟進
@@ -14300,7 +14200,6 @@ var DATA_URLS = `
 2026-06-21	https://www.hkcd.com.hk/content_app/2026-06/21/content_8760999.html
 2026-06-20	https://hk.on.cc/hk/bkn/cnt/intnews/20260620/bkn-20260620122444685-0620_00992_001.html
 2026-06-20	https://stars.udn.com/star/story/10092/9577600
-2026-06-20	https://www.sbs.com.au/language/chinese/zh-hant/article/deadly-h5-bird-flu-has-been-confirmed-in-australia-heres-what-it-means/7fakpzuzd
 2026-06-20	https://news.rthk.hk/rthk/ch/component/k2/1859249-20260620.htm
 2026-06-20	https://news.tvbs.com.tw/world/3236171
 2026-06-20	https://www.hk01.com/01%E8%AB%96%E5%A3%87/60357412/%E4%BE%86%E7%A8%BF-%E4%B8%AD%E5%9C%8B%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E7%94%A2%E6%A5%AD%E8%A6%81%E9%80%A0%E4%B8%8B%E4%B8%80%E5%80%8B%E8%90%AC%E5%84%84%E7%B4%9A%E5%B8%82%E5%A0%B4-%E9%A6%99%E6%B8%AF%E6%88%90%E6%9C%80%E4%BD%B3%E8%A9%A6%E9%A9%97%E5%A0%B4
@@ -14430,7 +14329,6 @@ var DATA_URLS = `
 2026-05-21	https://news.pchome.com.tw/healthcare/cnews/20260521/index-77933112475896227012.html
 2026-05-21	https://www.nownews.com/amp/news/6838538
 2026-05-21	https://tw.news.yahoo.com/金鐘7歲主持人突爆腦病變驟逝-兒醫-3病毒感染疑是主因-032205739.html
-2026-05-21	https://news.google.com/rss/articles/CBMibEFVX3lxTE1mX180NXNVWUlaM3JpQThuSFdBSGNHTVRQZmQteWM2S1dvTmVBZTZvaWJCM25rd19iZU1tdzdfVzEwT1oxUjdZZFRPZi1FQ0pOTEM4UHJqQ182dGFvSnlxNzlGdzZHcG1wdVI1dA?oc=5
 2026-05-21	https://hk.ulifestyle.com.hk/topic/detail/20097677/%E4%BC%8A%E6%B3%A2%E6%8B%89-%E7%96%AB%E6%83%85%E7%88%86%E7%99%BC-139%E6%AD%BB-%E4%B8%96%E8%A1%9E-who-%E8%AE%8A%E7%A8%AE%E7%97%85%E6%AF%92-%E7%84%A1%E7%96%AB%E8%8B%97-%E9%A6%99%E6%B8%AF%E5%82%B3%E6%92%AD%E9%A2%A8%E9%9A%AA
 2026-05-21	https://www.techritual.com/2026/05/22/534956/
 2026-05-21	https://star.setn.com/news/1841917
@@ -14469,7 +14367,6 @@ var DATA_URLS = `
 2026-05-18	https://www.wenweipo.com/a/202605/18/AP6a0b1903e4b0b49ad1bb99d8.html
 2026-05-18	https://health.ftvnews.com.tw/news/detail/2026518W0147
 2026-05-18	https://edh.tw/articles/CF8pqII
-2026-05-16	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KbjdXeHNqSWx3VkFqTllycUNPeUxoVF9YejJZcFY2R3FORHJ2a1AySlRTcHMwVTFVaWZYRzF3cXpiRnhjYXBzaDJUYTVQNHNQRWY4bFg5Y1h4aUJnRHRNbll3?oc=5
 2026-05-16	https://www.hkcd.com.hk/hkcdweb/content/2026/05/16/content_8755197.html
 2026-05-16	https://news.rthk.hk/rthk/ch/component/k2/1854927-20260516.htm
 2026-05-16	https://m.ebiotrade.com/newsf/2026-5/20260516000358806.htm
@@ -14567,7 +14464,6 @@ var DATA_URLS = `
 2026-04-28	https://www.worldjournal.com/wj/story/124697/9463379
 2026-04-28	https://www.tkww.hk/a/202604/28/AP69f02f16e4b04773b06c8e65.html
 2026-04-28	https://www.mirrormedia.mg/external/amp/mirrordaily_57835
-2026-04-28	https://news.google.com/rss/articles/CBMiZkFVX3lxTE02cWU2VmZRRHdXRDRwaldXT19zaTlZbl9sdFZvam95NC1LLWc4R0xxWnRKeWRaU2MtZUVPNzhzbkxPdl90Nk1URlQzQUtqRE5ZaXhaVXlpY2hhOWpZeXNjSmlLdkFKQQ?oc=5
 2026-04-28	https://health.ltn.com.tw/article/breakingnews/5418782
 2026-04-28	https://www.singtaousa.com/2026/04/28/entertainment/the-ronettes-last-member-passes/
 2026-04-28	https://www.stheadline.com/health-edu/3565449/29歲網紅罹罕見癌離世-曾樂觀自嘲少女變孕婦了解小圓細胞腫瘤
@@ -14649,11 +14545,9 @@ var DATA_URLS = `
 2026-04-15	https://www.worldjournal.com/wj/story/121233/9444912
 2026-04-15	https://hk.finance.yahoo.com/news/%E9%A0%90%E6%B8%AC-%E7%8F%BE%E5%9C%A8%E8%B2%B7%E5%85%A5%E9%80%99%E9%9A%BB%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E8%82%A1%E6%88%96%E8%B6%B3%E4%BB%A5%E6%94%B9%E5%AF%AB%E4%BD%A0-%E7%94%9F%E8%B2%A1%E5%AF%8C-113500995.html
 2026-04-15	https://www.hk01.com/即時娛樂/60340457/賭王千金何超蕸病逝-何超瓊缺席-法國五月-發佈會
-2026-04-15	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQNUNzOVl2U3NiUC1wUWlHZmxicVYyN3RlaUxmcjJwRVFzYjAxMVo1emlqNHQ2REZEUDJ4NjItaHp1Nkcta3BsWkR5d0hqTnl3dlhsY21SX0VmRUF4N0pwRXhWR09YZ2c?oc=5
 2026-04-15	https://news.pts.org.tw/article/803751
 2026-04-15	https://health.ltn.com.tw/article/breakingnews/5405178
 2026-04-15	https://udn.com/news/story/7266/9444173
-2026-04-15	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNU4wUWhHLTZsRnNIeldDLS1mSVpYQXZOb29mTDlNbDB0UVIzNlhERE8zT09EcjJzekx1T2R2SThZcnRrZTB5X3Z5OHY3QXQ2Z2ROeFRHNkJRZC1zWTQ3ZVlCc3V3YmM?oc=5
 2026-04-14	https://tc.keguanjp.com/kgjp_gongtong/pt20260414000024.html
 2026-04-14	https://vct.news/news/朱鎔基清華同班同學-著名法學家郭道暉病逝
 2026-04-14	https://tw.news.yahoo.com/最美抗癌女神29歲淋巴癌逝-血液疾病年輕化-醫-晚睡熬夜小心免疫崩潰-000000845.html
@@ -14812,7 +14706,6 @@ var DATA_URLS = `
 2026-03-12	https://www.singtao.ca/7443402/2026-03-12/news-印度婦確診腦死送返家辦後事++救護車猛震「過坑」竟奇蹟蘇醒/
 2026-03-12	https://www.orientalsunday.hk/心臟健康/港大研究-ai-心血管疾病-cardiomicscore-1680646/
 2026-03-11	https://www.soundofhope.org/post/923992?lang=b5
-2026-03-11	https://news.google.com/rss/articles/CBMiYkFVX3lxTE51dGlGTGxWMWNBblllTDhDMVZxZVpYUkItVEw0V2JJb3h1a0QweEh0Ri14bkxDSzY2bGZybkduWVlZRnpZemhEQ3VIVnNrNldWS2FlX2pRSU5VVkVBdDJhSnln?oc=5
 2026-03-11	https://news.rthk.hk/rthk/ch/component/k2/1846910-20260311.htm
 2026-03-10	https://www.hkcd.com.hk/content_app/2026-03/10/content_8744192.html
 2026-03-10	https://www.stheadline.com/realtime-finance/3551533/%E9%95%B7%E6%B1%9F%E7%94%9F%E5%91%BD%E7%A7%91%E6%8A%80%E6%88%90%E7%AB%8B%E5%AD%90%E4%BC%81%E9%A0%86%E8%AD%9C%E9%86%AB%E8%97%A5%E7%A7%91%E6%8A%80-%E6%95%B4%E5%90%88%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E7%A0%94%E7%99%BC%E9%A0%85%E7%9B%AE-%E6%93%AC%E5%8C%97%E9%83%BD%E6%8B%93%E7%A0%94%E7%99%BC%E8%A8%AD%E6%96%BD
@@ -14969,7 +14862,6 @@ var DATA_URLS = `
 2026-02-04	https://ent.ltn.com.tw/news/breakingnews/5331752
 2026-02-04	https://today.line.me/tw/v3/article/EXZj6km?view=topic&referral=topic-Barbie-Hsu
 2026-02-04	https://www.nownews.com/news/6783040
-2026-02-04	https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG05R2ZHN1c4d1FPMllpaGNtaURxSXJFM1REMEpkZmE4S2g2b1RaWXpnTHp2Zy1OZndXX0p4N3VreFBVM0VVQ2FZZTNEVnVuTkJYcld4UUJMd3dzdTdGaTh1UzVmMm42X1NsX1FrMWJzV1hJY3FyRGtlVDl5TXBGdFg0R3puQnhTeGoxU01WQlNXckpJeURELUNMN1ZMRXhMZ1ZETmxVeTdrQ0k?oc=5
 2026-02-04	https://www.ntdtv.com/b5/2026/02/04/a104063173.html
 2026-02-03	https://vct.news/news/袁惟仁與大s「同一天」病逝-兩人緣分曝光
 2026-02-03	https://star.setn.com/news/1790220
@@ -15013,7 +14905,6 @@ var DATA_URLS = `
 2026-01-28	https://tw.news.yahoo.com/曾因-十信案-頂撞蔣經國遭拔官-前財部次長戴立寧病逝-053733708.html
 2026-01-28	https://www.singtaousa.com/2026/01/28/entertainment/media-veteran-hu-wanling-mother-passes-away/
 2026-01-28	https://ctinews.com/news/items/4bnb0926aP
-2026-01-28	https://news.google.com/rss/articles/CBMibEFVX3lxTE5qLU1TUndZSlA2X195Vzl0TVFEdW1HUWF1d0EzbDF5bGFiWVE3VlZ2WGpma09CTU9GUDl6cU1wZ3lFQl9tYWUzMWQwVWJKUDRIY1ZmdmR5dWdVZXk0UWhSSENadFBZREpVRjhLYg?oc=5
 2026-01-28	https://hk.news.yahoo.com/尼帕病毒︱亞洲多地提升機場防疫措施-與新冠肺炎同列世衞重點關注疾病︱yahoo-083552433.html
 2026-01-28	https://www.hk01.com/article/60316956
 2026-01-28	https://ps.hket.com/article/4075338/%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E5%8D%B0%E5%BA%A6%E7%88%86%E7%99%BC%20%E6%AD%BB%E4%BA%A1%E7%8E%87%E9%AB%98%E9%81%9475-%20%E8%A1%9E%E7%94%9F%E7%BD%B2%EF%BC%9A%E7%9B%A1%E9%87%8F%E9%81%BF%E5%85%8D%E9%A3%B2%E7%94%A8%E5%85%A9%E7%A8%AE%E6%9E%9C%E6%B1%81
@@ -15029,7 +14920,6 @@ var DATA_URLS = `
 2026-01-27	https://www.epochtimes.com/b5/26/1/27/n14685213.htm
 2026-01-26	https://www.chinatimes.com/realtimenews/20260126002197-260404
 2026-01-26	https://news.rthk.hk/rthk/ch/component/k2/1841413-20260126.htm
-2026-01-26	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wVG9VN0JGVnFoNEhQSFNiRHNTd3ctU3ZNY2l2dGhVMl9lNVFrazY2OV9OMm94U0VOSGdra0U2dWV1VGxRQmJCYmVuUDVreW1IXzliQThLZE10WUh5SGlYRHlB?oc=5
 2026-01-26	https://news.tvb.com/tc/world/6976d27e82dea93ecb7b442b/國際-尼帕病毒｜印度現感染群組-無疫苗可人傳人死亡率高達75｜即睇如何避免病從口入
 2026-01-26	https://www.info.gov.hk/gia/general/202601/26/P2026012600284.htm
 2026-01-26	https://hkcd.com/hkcdweb/content/2026/01/26/content_8737121.html
@@ -15124,7 +15014,6 @@ var DATA_URLS = `
 2026-01-09	https://udn.com/news/story/7315/9254827
 2026-01-09	https://www.mirrormedia.mg/external/mirrordaily_39314
 2026-01-09	https://www.ctwant.com/article/465419/
-2026-01-09	https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3T3hmSDA5Rm1hak9wZEYxVXNGcGJudWJyZjhicHRhekVJbm5zaWw3aE9lVWM2ejRzdno0TkdSSW05dl8wSmpMU2xsWGt3eE14Zmp6NWdvRVlQeVBfSnBLaWlB?oc=5
 2026-01-09	https://newtalk.tw/news/view/2026-01-09/1014089
 2026-01-08	https://www.stheadline.com/opinion/3533520/%E8%BE%9B%E6%AD%A3%E5%85%92-%E6%B5%81%E6%84%9F%E8%AE%8A%E7%A8%AE%E6%95%B2%E9%9F%BF%E5%85%A8%E7%90%83%E8%AD%A6%E9%90%98-%E7%9B%B8%E4%BF%A1%E9%86%AB%E5%AD%B8%E6%89%93%E9%87%9D%E5%88%BB%E4%B8%8D%E5%AE%B9%E7%B7%A9-%E7%A4%BE%E8%AB%96
 2026-01-08	https://hk.on.cc/hk/bkn/cnt/intnews/20260108/bkn-20260108000252952-0108_00992_001.html
@@ -15247,7 +15136,6 @@ var DATA_URLS = `
 2025-11-28	https://today.line.me/tw/v3/article/oq9w6yN
 2025-11-27	https://www.setn.com/news/1757493
 2025-11-25	https://www.stheadline.com/realtime-world/3520993/%E6%97%A5%E6%9C%AC%E6%B5%81%E6%84%9F%E7%88%86%E7%99%BC%E5%89%B5%E5%8D%81%E5%B9%B4%E6%9C%80%E5%BF%AB-%E9%A9%9A%E7%8F%BE%E6%96%B0%E8%AE%8A%E7%A8%AEK%E4%BA%9E%E5%88%86%E6%94%AF-%E5%82%B3%E6%92%AD%E5%8A%9B%E6%88%96%E6%9B%B4%E5%BC%B7
-2025-11-24	https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMEtsMnJNcElZdXh1eUJvcnItLVdDallCSnA1SVRmSTRtTGd0d2RlVVR4SWFmaHRQZW9fTWl2dURFc0Qyb2tieVpTbFd0aXJiVkFnOXdtaHFHazNrX1JVX00wOEhQT29HeDNSQQ?oc=5
 2025-11-20	https://tw.news.yahoo.com/空服員抱病值勤後病逝-勞部認定長榮濫用惰勤考核-115707911.html
 2025-11-20	https://news.pts.org.tw/article/782177
 2025-11-18	https://technews.tw/2025/11/18/flu-warning/
@@ -16223,7 +16111,6 @@ var DATA_URLS = `
 2026-09-30	https://cn.nytimes.com/china/20260929/china-zion-church-pastor-detained-family/zh-hant/
 2026-09-25	https://www.dotdotnews.com/a/202609/25/AP6ab62e07e4b02724bdb591fe.html
 2026-09-24	https://www.juksy.com/article/151817
-2026-09-22	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EMWtSS1lrTm5pRmlJV2llRlBaZ1g5VGN6X18tVU5CTkx4ZWoyd0VodzRSeEl1T0dmOC1TX0FIdEt5UDRsd2Jfek1vNUs3bU1pc1hTcmVsMlY?oc=5
 2026-09-21	https://udn.com/vote2026/story/124652/9767806
 2026-09-20	https://ent.ltn.com.tw/news/breakingnews/5580517
 2026-09-16	https://www.vaticannews.va/zht/vatican-city/news/2026-09/nostra-aetate-60th-anniversary-vatican-journey-to-hope.html
@@ -16235,14 +16122,12 @@ var DATA_URLS = `
 2026-09-03	https://gank.fanpiece.com/gamenews/%E6%98%9F%E9%9A%9B-%E7%95%B0%E7%AB%AF%E5%85%88%E7%9F%A5-%E9%97%9C%E9%8D%B5%E6%8B%8D%E6%94%9D%E5%AE%8C%E6%88%90-%E9%A0%91%E7%9A%AE%E7%8B%97%E6%9B%AC%E4%B8%BB%E8%A7%92%E5%8B%95%E6%8D%95%E5%B9%95%E5%BE%8C%E7%85%A7-c1502375.html
 2026-09-01	https://www.wenweipo.com/a/202609/01/AP6a95e186e4b0c1e5002701c8.html
 2026-09-01	https://www.4gamers.com.tw/news/detail/81766/intergalactic-the-heretic-prophet-has-officially-wrapped-filming
-2026-09-01	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ndWRLTkZnUmpqYmZsNEVPMHVRQlRPT1p2ZEdUT3N1bk5KZWhBMkNNY2dDTnp0UUwtRVV4NEZxenYwVHJ2QzVoVFcwemxzTEw0cG8wVDJkbUc?oc=5
 2026-09-01	https://www.vogue.com.tw/article/jennie-fallen-angel-mv-analysis
 2026-08-30	https://www.hk01.com/01論壇/60384493/來稿-錫安教會金明日獲釋之後-仍待調查釐清信仰自由邊界
 2026-08-29	https://tw.news.yahoo.com/五熊-潑油禱告-燒到張芸京-認了砸百萬再創業-無奈急喊-031000914.html
 2026-08-28	https://news.pchome.com.tw/politics/newstaiwandigi/20260828/index-78791932889665279001.html
 2026-08-27	https://www.panewslab.com/zh-hant/articles/01a0418a-83cb-76aa-996b-64f22f62e76d
 2026-08-26	https://news.ltn.com.tw/news/world/breakingnews/5552261
-2026-08-25	https://ent.ltn.com.tw/news/breakingnews/5550988
 2026-08-25	https://tw.news.yahoo.com/%E4%BA%94%E7%86%8A%E6%BD%91%E6%B2%B9%E9%9D%9E%E6%83%A1%E6%84%8F-%E5%BE%B7%E5%B7%9E%E5%AA%BD%E5%AA%BD%E7%8B%A0%E6%89%B9-%E5%BE%88%E7%A5%9E%E7%B6%93-%E5%86%8D%E6%8F%AD-%E9%82%AA%E6%95%99%E7%89%B9%E5%BE%B5-102900180.html
 2026-08-24	https://www.ntdtv.com/b5/mkt_ipad/2026/08/24/a104126818.html
 2026-08-24	https://tw.news.yahoo.com/%E6%89%B9%E4%BA%94%E7%86%8A-%E6%8A%8A%E8%87%AA%E5%B7%B1%E6%90%9E%E5%BE%97%E5%83%8F%E7%95%B0%E7%AB%AF-%E5%BE%B7%E5%B7%9E%E5%AA%BD%E5%AA%BD-%E6%8B%BF%E8%91%97%E5%AE%97%E6%95%99%E5%90%8D%E7%BE%A9%E8%83%8C%E6%9B%B8-034458860.html
@@ -16254,7 +16139,6 @@ var DATA_URLS = `
 2026-08-15	https://www.dw.com/zh-hant/專訪錫安教會創辦人金明日登上赴美航班後我才知道自己獲釋/a-78353271
 2026-08-08	https://www.singtao.ca/7591155/2026-08-08/news-%E5%A5%87%E6%A1%88%E8%A7%A3%E5%AF%86%EF%B8%B1%E7%BE%85%E6%B9%96%E9%9B%AA%E6%AB%83%E8%97%8F3%E5%B1%8D%E6%B6%89%E9%82%AA%E6%95%99%E6%87%B2%E7%BD%B0%EF%BC%9F++1%E7%97%85%E6%AD%BF2%E9%A4%93%E6%96%83%E8%AD%A6%E6%8B%92%E7%AB%8B%E6%A1%88%E6%B7%BB%E8%AC%8E%E5%9C%98/
 2026-08-07	https://tw.news.yahoo.com/慈濟被騙卻不像受害人-張景森爆10億善款爭議不只疫苗-宗教自由不是財務黑箱-053537731.html
-2026-08-06	https://news.google.com/rss/articles/CBMiWEFVX3lxTE10cVJCYnA3WXpDcHVvVmk2Q0xtSTRBdzF5dk5VV0dyTmtURW95Q1B2aVVoMzhIS1pJV2t0OVNmY1RpVzJYdUlNRVRBQjZnOXZDOUpaSUNiblI?oc=5
 2026-08-05	https://hk.ulifestyle.com.hk/topic/detail/20104707/%E9%8A%80%E8%A1%8C%E9%AB%98%E5%B1%A4-%E6%B2%89%E8%88%B9-%E7%88%86%E6%A1%88%E4%B8%AD%E6%A1%88-%E9%A9%9A%E6%8F%AD%E9%82%AA%E6%95%99%E6%B4%97%E8%85%A6%E6%93%8D%E6%8E%A7%E8%B3%A3%E6%B7%AB%E8%A2%AB%E5%90%9E-%E8%90%AC-%E5%B9%95%E5%BE%8C%E9%BB%91%E6%89%8B%E8%AC%9B%E5%A4%9A%E9%8C%AF%E5%A4%9A
 2026-08-05	https://www.tvb.com/hottopic-c/%E6%B8%AF%E7%94%B7%E6%B2%89%E8%88%B9%E6%A1%88%E7%B5%82%E9%9B%86--%E9%82%AA%E6%95%99Miss-%E7%96%91%E8%AA%98%E5%B0%8E%E5%B0%91%E5%A5%B3%E6%80%A7%E4%BA%A4%E6%98%93%E8%A1%8C%E9%A8%99-%E4%BB%B2%E5%91%83%E5%9F%8B%E5%A5%B3%E6%8A%80%E5%B8%AB200%E8%90%AC%E9%A6%96%E6%9C%9F--1015197
 2026-08-05	https://gnn.gamer.com.tw/detail.php?sn=309404
@@ -16262,7 +16146,6 @@ var DATA_URLS = `
 2026-08-03	https://www.stheadline.com/film-drama/3600608/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B%E9%8A%80%E8%A1%8C%E7%B2%BE%E8%8B%B1%E6%B2%89%E8%88%B9%E5%A5%B3%E6%8A%80%E5%B8%AB%E5%80%9F%E9%80%BE%E7%99%BE%E8%90%AC-%E5%A5%B3%E6%96%B9%E7%88%86%E5%8F%97%E9%82%AA%E6%95%99%E6%93%8D%E6%8E%A7%E8%B3%A3%E6%B7%AB%E5%91%83%E9%8C%A2-%E4%B8%BB%E8%AC%80%E7%AB%9F%E6%98%AF%E5%B9%B4%E8%BC%95%E9%96%A8%E5%AF%86
 2026-07-24	https://www.epochtimes.com/b5/26/7/24/n14816736.htm
 2026-07-20	https://star.setn.com/news/1875255
-2026-07-20	https://www.exmoo.com/article/263055.html
 2026-07-18	https://ctinews.com/news/items/9pWzQX2pnv
 2026-07-17	https://www.bastillepost.com/hongkong/article/16376353-%E4%B8%8A%E6%B5%B7%E3%80%8C%E5%99%B4%E6%B0%B4%E4%BA%BA%E5%83%8F%E3%80%8D%E5%AE%9B%E5%A6%82%E9%82%AA%E6%95%99%E5%84%80%E5%BC%8F%EF%BC%81%E7%B6%B2%E5%9A%87%E7%98%8B%E9%A9%9A%E5%91%BC%EF%BC%9A%E8%AA%A4
 2026-07-16	https://hk.epochtimes.com/news/2026-07-16/71048570
@@ -16282,7 +16165,6 @@ var DATA_URLS = `
 2026-06-17	https://news.pts.org.tw/article/813462
 2026-06-17	https://tw.news.yahoo.com/%E9%82%B1%E5%9E%82%E6%AD%A3%E8%AD%89%E5%AF%A6-%E8%B2%AB%E9%81%93-%E8%A2%AB%E4%B8%AD%E5%85%B1%E5%AE%9A%E7%BE%A9%E7%82%BA%E9%82%AA%E6%95%99-%E9%81%93%E8%A6%AA17%E4%BA%BA%E9%81%AD%E9%80%AE%E6%8D%95%E9%97%9C%E6%8A%BC%E6%81%90%E5%88%A43%E5%B9%B4%E9%87%8D%E5%88%91-065503874.html
 2026-06-17	https://tw.news.yahoo.com/%E8%B2%AB%E9%81%93%E5%9C%A8%E4%B8%AD%E5%9C%8B%E9%81%AD%E5%88%97%E9%82%AA%E6%95%99-%E9%99%B8%E5%A7%94%E6%9C%83%E8%AD%89%E5%AF%A617%E4%BA%BA%E7%84%A1%E6%B3%95%E8%BF%94%E5%8F%B0-%E6%81%90%E9%9D%A2%E8%87%A83%E5%B9%B4%E4%BB%A5%E4%B8%8A%E5%88%91%E8%B2%AC-031500687.html
-2026-06-08	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XbmdEbHcwdXZGWGlKQUpKeHEyWGs2Z2J5R3BHTGlWUzROYVhjMlU3MW0ySzRZVHZ3OEFrOWM3aE9aNG1qeFBtYmFrSmUwWDhpVUZhQ01nVmg?oc=5
 2026-06-07	https://www.4gamers.com.tw/news/detail/79842/join-us-cult-simulato
 2026-06-06	https://www.hk01.com/即時娛樂/60357592/李盛林牧師安息禮-阿mo李啟言-給爸爸的信-願在天家站著抱你
 2026-05-30	https://www.adaymag.com/2026/05/30/aum-shinrikyo-cult-ebola-bio-terrorism.html
@@ -16290,7 +16172,6 @@ var DATA_URLS = `
 2026-05-28	https://today.line.me/tw/v3/article/2DBMOX8
 2026-05-25	https://n.yam.com/Article/20260525701285
 2026-05-23	https://news.pts.org.tw/article/809688
-2026-05-22	https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xQllOaUpiOGhnNFZrcnQ0cGw2MDY3d21HQ0NDRHBoZ1pKcUI5RVgydFZlbXc0X0pHZFBJaDBFYnJwTlJxTklsQ2Q0RE45N1ZySy1maWUxV0w?oc=5
 2026-05-07	https://sounova.com/game/lovers-enigma-steam-release
 2026-05-06	https://www.bastillepost.com/hongkong/article/15969435-美卿訪梵蒂岡強調有很多共同議題-教宗重申教會一
 2026-05-06	https://news.rthk.hk/rthk/ch/component/k2/1853679-20260506.htm?spTabChangeable=0
@@ -16332,8 +16213,6 @@ var DATA_URLS = `
 2026-02-24	https://news.cnyes.com/news/id/6350030
 2026-02-22	https://www.chinaaid.net/2026/02/223.html
 2026-02-12	https://www.epochtimes.com/b5/26/2/12/n14696445.htm
-2026-02-11	https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wd1BwZ1NiYzJ1SFNqc0JtTEYwLW80S1Rtc1Y4OF9CeTRnUHBKRmNkNUlndTV1NkJGbFZEWXFmT1hKMEcwaVVkUWtmRS11U1lyREVqZWRiUFQ?oc=5
-2026-02-10	https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHSWtEdF9uemxnX2tLQ1RGbmlQZnU4OUxmc09FbVB5ZXJidWdUYUxoOWNmX0kwcjBWcDI1Mks1N3dBRzRaZkpGMEIzR3F1RFdsTG9jMWxQN3Q?oc=5
 2026-01-20	https://www.orangenews.hk/china/V8oDq28/%E5%8E%9F%E4%B8%AD%E5%A4%AE%E9%98%B2%E8%8C%83%E5%92%8C%E8%99%95%E7%90%86%E9%82%AA%E6%95%99%E5%95%8F%E9%A1%8C%E9%A0%98%E5%B0%8E%E5%B0%8F%E7%B5%84%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%89%AF%E4%B8%BB%E4%BB%BB%E9%AB%98%E4%BB%A5%E5%BF%B1%E5%9A%B4%E9%87%8D%E9%81%95%E7%B4%80%E9%81%95%E6%B3%95-%E9%96%8B%E9%99%A4%E9%BB%A8%E7%B1%8D.shtml
 2026-01-15	https://tw.news.yahoo.com/%E8%A2%AB%E6%8E%A7%E9%82%AA%E6%95%99%E9%A9%85%E9%AD%94-%E6%8B%8D%E7%97%A7%E6%9D%BF%E6%89%93%E6%AD%BB%E5%A5%B3%E6%95%99%E5%8F%8B-%E4%BA%8C%E5%AF%A9%E5%A4%A7%E9%80%86%E8%BD%89-6%E4%BA%BA%E7%84%A1%E7%BD%AA%E8%AE%8A7%E5%B9%B4%E5%BE%92%E5%88%91-081250099.html
 2026-01-12	https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60311783/%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E6%9C%83%E9%81%AD%E7%B6%B2%E6%B0%91%E8%88%89%E5%A0%B1-%E6%8C%87%E6%8E%A7%E5%B7%A8%E8%9B%87-%E5%90%B8%E9%81%8B-%E6%B6%89%E9%82%AA%E6%95%99-%E8%A6%81%E6%B1%82%E5%81%9C%E8%BE%A6%E5%B7%A1%E6%BC%94
@@ -16349,34 +16228,23 @@ var DATA_URLS = `
 2025-08-07	https://www.setn.com/news/1700715
 2025-05-05	https://www.hk01.com/article/60235479?utm_source=01articlecopy&utm_medium=referral
 2025-04-30	https://news.pts.org.tw/article/748985
-2025-03-26	https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1BOWGZYbDNIYnhoUTFRV1NoV2k2T0JPUm1xdHBDWFdLZVIzcEFrNGJob0NaaklNQVJSUk9xYTdldFd5TWhuTlRmaXV2cTVCM3JKTExmWXh1d052RmhCX2hjOE5rZ3VYaDFEbUJ0Yi1PUmxLMDUzQXZDa2tnQUpOeEpGRktwM0NlOWo1NjJsTmQ1U01DQnllaHJoOGV5YmE4VnBRV2dIanNmVm5qd0FpdlRrMTlXbG9LVFE?oc=5
-2025-02-26	https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDVDQWl0NzdTbThyN2VVcE9KMWZZV0E2aGdrVktkX1NqTEcxNTNZLVY0MVVZTndDWFZ0OFRxTXRNd1B0SHBpWWM2UWJhQVJ1YS1wa01LM3FXR2pyRnFKaU9CMXBCaDl6UmFENGl3ZE4xeTdNQU1BRGVhLTAwX3prUUNfaUR6cGJjOXdJUlZPZ0stMXMxbEE0T2M3OTJwSDNfZ1B6TTUzSDkwY3BVQzRtdExpbHBGMEZHQUE?oc=5
 2025-02-13	https://www.hk01.com/article/1103041?utm_source=01articlecopy&utm_medium=referral
 2025-01-17	https://www.storm.mg/lifestyle/38771
 2024-11-25	http://hk.on.cc/hk/bkn/cnt/intnews/20241125/bkn-20241125060525253-1125_00992_001.html
-2024-05-27	https://news.google.com/rss/articles/CBMieEFVX3lxTFA5ZW5Ib0QxeExZWG1sb256TTlUdzZiaFRuRmlzZWM0TzZsdm5udW1fUHE0QnlIcnoxUG5SMVBUelgzUWJiQTZiVmpQSWZRUzJ0bkZHREdHMUJDOWJPRXo5QVEycHVVN3hpdzJqaHhSR3dsajFpSXB5Tg?oc=5
 2024-04-23	https://rgkarmch-org.translate.goog/when-will-israel-slaughter-the-red-heifer/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp#google_vignette
-2024-04-17	https://news.google.com/rss/articles/CBMiakFVX3lxTFBEdS1CMGdpUkxQc1BOWHBxYm5DaloyOU1XVF9OQ19zOFhSYjVsQXFDRVJfOHZlN3lkSmFnN0wtbzdXdGNoRnlfY1o4SzEtUHU5VVhJRy1TWnN5elVtc1ljcEZPaHhJRHVGQUE?oc=5
-2024-02-01	https://news.google.com/rss/articles/CBMiakFVX3lxTE94c1ViNXdIUlN3cWVNRGk3T2JydHpfZ1phU1hWOFAzZkE2NVBRT0NxVnFmVXhuUVZSdVlBaXo3Wjl1V3QyaWgzYmlDeFVpUVJrekNCNXBFNnBBWFBUUVJ1WEtBcmRMQ3M0dnc?oc=5
-2024-01-12	https://news.google.com/rss/articles/CBMieEFVX3lxTFBxX0psaGhsQ0hNeFEySlFoMzJQRFpycTh5bkJTQzFaSEtkNFVxUlE2Ui1ramZlMW9SanNmWkdNd0hhdHlyN3ltbUFVZzl4YjBLbFN1REJzaU9DSEM1MHgyb190M19hVE9SSmx0REVpOWpSWHZ3ckJHbQ?oc=5
-2023-12-08	https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWpnWUFpM2h4VnplR2dJUkxiUEF1NEx2b2Qydm0wSTFwMHNUblpPVlYxdjJ3RkhfWmVLZG1BUGROcVl2UnZTMjg3aVVkMDQ2bTNuQkxMcVBEUFlNX0RQRTVwTldpMUthYm9DMk9ZRDFFU3VGek9nTXBYQjFrMWViMmh6eHJ2c2laUS16bllzYmZlZlM2VFE5dm56MVQzVExtcVFOTTRSVlBDMWNHQm83akNqMlllUWlSbEdr?oc=5
 2023-08-27	https://www.epochtimes.com/b5/23/8/25/n14061325.htm
-2023-03-30	https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Zd0NxTDNiWlpkOFo0TzNnR1BUY0dZUUtBeV9PQ0lxc2xxd19vLWFMOWc0RkZMTVMwdldLWk1teHJlZGZ1enJYZlE5aS1idw?oc=5
 2022-11-30	https://www.hk01.com/article/842249?utm_source=01articlecopy&utm_medium=referral
 2022-07-31	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/5466729365453/%E5%A7%9A%E6%B7%B3%E8%80%80%E6%96%B0%E5%8A%87%E9%A3%BE%E6%BC%94%E9%82%AA%E6%95%99%E6%95%99%E4%B8%BB-%E8%88%87%E7%82%8E%E4%BA%9E%E7%B6%B8%E4%B8%8A%E6%BC%94%E7%94%B7%E7%94%B7%E6%93%A6%E6%BE%A1%E6%88%B2%E4%BB%BD
 2022-07-17	https://www.storm.mg/lifestyle/4426237
 2022-05-18	https://www.thenewslens.com/article/167002
 2021-12-05	https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20211205-%E6%8B%89%E8%BF%91%E8%88%87%E6%9D%B1%E6%AD%A3%E6%95%99%E7%9A%84%E8%B7%9D%E9%9B%A2-%E6%96%B9%E6%BF%9F%E5%90%84-%E8%A6%81%E6%8E%A2%E8%A8%AA-%E6%89%80%E6%9C%89%E4%BA%BA%EF%BC%8C%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%A4%A9%E4%B8%BB%E6%95%99%E5%BE%92
-2021-09-06	https://news.google.com/rss/articles/CBMieEFVX3lxTE1zUk9YdXBKTGd6dGJ5dm1VNkhfSmt3ZXJuemh0UkhwTWNsS0U1ZHVRWWVyTzhvYldPR2Z5QkQyaF9PSEs2WFVOZUt1UHJkSU5JMmVnQ3ZiQ2dJVmxSdy1HNUVrdVVkbTdYQWtoVEFGSjFkMEl0RUhJXw?oc=5
 2021-05-13	https://www.setn.com/news/938410
 2021-05-12	https://dq.yam.com/post/996
 2020-10-27	https://www.setn.com/news/838290
-2020-09-07	https://news.google.com/rss/articles/CBMijwFBVV95cUxOQW1RTmVmNDBWaFItM2IxY2NCbjRGLW9abUVYODJIU3FUcUFmOF9NSjdlcTlCUXdEY1ZqT0xaX3VrR0s5SG1UMFBiLXFESm5sNFBDdFdhamZ3S1l4UVgyeG5jNUJSNHlMSjRjM0o1YXphajVVaWhZc1RQU3RxLUZJc3FNZzFlOUVuV0NUV0JSVQ?oc=5
 2019-09-25	https://orientaldaily.on.cc/cnt/china_world/20190925/mobile/odn-20190925-0925_00178_007.html
 2019-09-23	https://www.vaticannews.va/zht/church/news/2019-09/intervista-mons-wei-agreement-holy-see-china.html
 2018-12-16	https://hk.on.cc/hk/bkn/cnt/aeanews/20181216/bkn-20181216110011088-1216_00912_001.html
 2017-07-25	https://www.dw.com/zh-hant/%E4%B8%80%E5%A4%AB25%E5%A6%BB%E5%B1%AC%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B3%95%E9%99%A2%E8%AA%AA%E4%B8%8D/a-39823065
-2017-06-16	https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6NXdKcGo1TE5KelZxVEV1M0lNWkJxRy13X21VMjFiNjFmTkNRQnZKSVBxbkdRRVU4M0ljQzJEZzRTZmcyVXc?oc=5
 2017-02-03	https://www.setn.com/news/221453
 2017-01-26	https://www.storm.mg/article/217221
 2026-10-02	https://news.ltn.com.tw/news/society/breakingnews/5593147
@@ -16417,7 +16285,6 @@ var DATA_URLS = `
 2026-10-01	https://news.ltn.com.tw/news/society/breakingnews/5591773
 2026-10-01	https://news.ltn.com.tw/news/society/breakingnews/5591492
 2026-10-01	https://www.arch-web.com.tw/综合新闻/「不明飛行物將軍」失蹤後，眾議院監督部門開始/629911/
-2026-09-30	https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWeERId0FjMG9EWkp2eW9DQ2Y1Mzd5ZHc0amgxVkNKR0thMmdkSXk0a0pXcmRpSUREVDhtNUM3dDFFbS1qZ0h4aFFDWTVqQU5wSjF3OXcxTQ?oc=5
 2026-09-30	https://news.tvb.com/tc/1198282-%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%A9%9F%E5%9B%A0%E5%85%A9%E5%90%8D%E6%A9%9F%E5%B8%AB%E7%99%BC%E7%94%9F%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81%E8%BF%AB%E9%99%8D%E6%B2%99%E7%89%B9
 2026-09-30	https://news.ltn.com.tw/news/society/breakingnews/5590360
 2026-09-30	https://www.kinliu.hk/news/%E7%BE%8E%E5%9C%8B/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%B7%9E%E9%A7%AD%E4%BA%BA%E5%91%BD%E6%A1%88-%E3%80%8A%E7%B4%90%E6%99%82%E3%80%8B%E9%AB%98%E5%B1%A4%E9%81%AD%E8%8F%AF%E8%A3%94%E5%B2%B3%E7%88%B6%E6%AF%8D%E9%96%8B%E6%A7%8D%E6%93%8A%E6%96%83-%E7%96%91%E8%88%87%E5%A6%BB%E7%88%AD%E6%92%AB%E9%A4%8A%E6%AC%8A%E6%9C%89%E9%97%9C/359556.html?id=121&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F
@@ -16473,7 +16340,6 @@ var DATA_URLS = `
 2026-09-23	https://hk.on.cc/hk/bkn/cnt/intnews/20260923/bkn-20260923141115899-0923_00992_001.html
 2026-09-23	https://www.orangenews.hk/hongkong/VW1YY30/%E8%8B%B1%E5%AA%92-%E8%8B%B1%E5%9C%8B%E5%85%A7%E6%94%BF%E9%83%A8%E6%8B%92%E7%B5%95%E8%A7%B8%E7%8A%AF%E6%9A%B4%E5%8B%95%E7%BD%AA%E6%B8%AF%E4%BA%BA%E7%94%B3%E8%AB%8BBNO%E7%B0%BD%E8%AD%89.shtml
 2026-09-23	https://www.am730.com.hk/article/1054762
-2026-09-23	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jZ2NMcnNxbkVCR2NlODVTLWFIYU45bW93Z2JVbHgxVlBGXzhtMFhHYlRSN3BBME1IcFlndDdGeG9VRjZCdE5iWENsZUdTREN4VUtzcVNYR1E2dElYZFdDR2hB?oc=5
 2026-09-23	https://www.hkcd.com.hk/content_app/2026-09/23/content_8776733.html
 2026-09-23	https://www.dotdotnews.com/a/202609/23/AP6ab31780e4b02724bdb54faf.html
 2026-09-23	https://news.rthk.hk/rthk/ch/component/k2/1871216-20260923.htm
@@ -16535,14 +16401,12 @@ var DATA_URLS = `
 2026-09-16	https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%81%B7%E6%A0%A1%E9%A9%9A%E5%82%B3-%E5%AD%B8%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-%E5%AD%B8%E9%95%B7%E5%AD%B8%E5%BC%9F%E9%AC%A5%E6%AF%86-1%E4%BA%BA%E9%81%AD%E5%88%BA%E8%85%B9-114200308.html
 2026-09-16	https://www.hk01.com/突發/60390339/警員朱振國遇襲留醫21年亡-刀手判囚10年破產-服刑逾5年後假釋
 2026-09-16	https://www.tvb.com/dramanews-c/死有對証-李海銅預告角色將慘死-意外與-前男友-馬貫東再同框-網民笑-另一個時空嘅相遇-1015998
-2026-09-16	https://news.rthk.hk/rthk/ch/component/k2/1870133-20260916.htm
 2026-09-16	https://news.ebc.net.tw/news/society/571594
 2026-09-16	https://www.hk01.com/即時中國/60390590/7000米雪山3死2失蹤-新疆慕士塔格峰連續山難-藏嚮導證買賣黑幕
 2026-09-15	https://tw.news.yahoo.com/%E5%BB%A3%E5%B7%9E%E9%A9%9A%E7%88%86%E6%81%90%E6%80%96%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA-%E5%87%B6%E6%89%8B%E6%8C%81%E5%88%80%E5%B0%88%E5%88%BA%E8%B7%AF%E4%BA%BA%E7%9C%BC%E7%9D%9B-%E5%A4%9A%E4%BA%BA%E5%8F%97%E5%82%B7-%E4%BA%BA%E8%87%89%E6%8F%92%E5%88%80%E5%80%92%E5%9C%B0-061800026.html
 2026-09-15	https://utravel.com.hk/news/detail/20109955/%E5%BB%A3%E5%B7%9E%E7%95%AA%E7%A6%BA%E7%81%AB%E9%8D%8B%E5%BA%97%E5%A4%96%E7%AA%81%E7%99%BC%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E6%A1%88-%E6%AD%B2%E7%96%91%E7%8A%AF%E7%95%B6%E5%A0%B4%E8%A2%AB%E6%8D%95-%E8%AD%A6%E6%96%B9%E8%A1%A8%E7%A4%BA%E5%82%B7%E8%80%85%E7%84%A1%E7%94%9F%E5%91%BD%E5%8D%B1%E9%9A%AA
 2026-09-15	https://www.orangenews.hk/china/VVFCx9W/%E5%BB%A3%E5%B7%9E%E7%95%AA%E7%A6%BA%E5%A4%A7%E5%AD%B8%E5%9F%8E%E5%95%86%E5%A0%B4%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-%E8%AD%A6%E6%8B%9835%E6%AD%B2%E7%94%B7%E7%96%91%E7%8A%AF-%E5%82%B7%E8%80%85%E7%84%A1%E7%94%9F%E5%91%BD%E5%8D%B1%E9%9A%AA.shtml
 2026-09-15	https://www.kinliu.hk/news/%E6%B0%91%E7%94%9F/%E5%BB%A3%E5%B7%9E%E7%95%AA%E7%A6%BA%E5%A4%A7%E5%AD%B8%E5%9F%8E%E5%95%86%E5%A0%B4%E7%88%86%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-35%E6%AD%B2%E7%94%B7%E7%84%A1%E5%B7%AE%E5%88%A5%E8%A5%B2%E6%93%8A-%E5%A4%9A%E4%BA%BA%E8%87%89%E9%83%A8%E6%8F%92%E5%88%80/318176.html?id=83
-2026-09-15	https://news.google.com/rss/articles/CBMibEFVX3lxTE9xcTlzbXFsc0gySGZuRTBnMnRhS1FfYTd3RHZTM1JYcVFHdHg2TThGdmdpbm9OVWtsa1MtVkJHemJFTzcydUwzUmJTTTZPQm5jRmM1YWZXanJTY00wcEQxSlA5ejl3ci1La0hDZA?oc=5
 2026-09-15	https://today.line.me/tw/v3/article/KwVqj1o
 2026-09-15	https://www.worldjournal.com/wj/amp/story/121172/9757522
 2026-09-15	https://hk.finance.yahoo.com/news/前google-deepmind研究員補刀-稱ai恐-殺死全人類-避免災難時間-131003769.html
@@ -16594,7 +16458,6 @@ var DATA_URLS = `
 2026-09-07	https://news.mingpao.com/ins/%E5%85%A9%E5%B2%B8/article/20260907/s00004/1788746625252/%E6%B1%9F%E8%A5%BF%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89%E5%A2%9E%E8%87%B34%E6%AD%BB9%E5%A4%B1%E8%B9%A4-%E7%95%B6%E5%B1%80%E7%96%8F%E6%95%A3169%E4%BA%BA
 2026-09-07	https://www.setn.com/news/1903069
 2026-09-07	https://www.ettoday.net/news/20260907/3233052.htm
-2026-09-06	https://news.google.com/rss/articles/CBMibEFVX3lxTE5PWTBXQW9fM1B2a051S3pfMER0amtncVZxNk5WSVhGMmlacGRtNTRyNnJSc2NVc2g2Y19SREdEd01vcW1RdFdVazR4QWIwVjR4NWxCcU1BbHRBYmZiVF9nX3d0WVVYTTZVdnJFdw?oc=5
 2026-09-06	https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20260906/s00013/1788627678706/%E6%B1%9F%E8%A5%BF%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89%E6%90%8D%E6%AF%80%E6%9D%91%E5%B1%8B-1%E6%AD%BB11%E5%A4%B1%E8%B9%A4
 2026-09-06	https://www.singtaousa.com/2026/09/06/news/usa/violent-conflict-baseball-bat/
 2026-09-05	https://star.setn.com/news/1902002
@@ -16644,9 +16507,7 @@ var DATA_URLS = `
 2026-09-01	https://www.bastillepost.com/hongkong/article/16678367-%E6%99%82%E5%A0%B1%E5%BB%A3%E5%A0%B4%E5%A5%B3%E5%AD%90%E6%8F%AE%E5%88%80%E9%81%AD%E8%AD%A6%E9%96%8B%E6%A7%8D%E6%93%8A%E4%B8%AD-%E7%8B%80%E6%B3%81%E6%9C%AA%E6%98%8E
 2026-09-01	https://www.wenweipo.com/a/202609/01/AP6a963fd8e4b0c1e500270e62.html
 2026-09-01	https://news.tvb.com/tc/1192639-%E7%B4%90%E7%B4%84%E6%99%82%E5%A0%B1%E5%BB%A3%E5%A0%B4%E6%9C%89%E5%A5%B3%E5%AD%90%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E5%85%A9%E4%BA%BA%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%93%8A%E6%96%83
-2026-09-01	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NWGlzdW84Y3B6UkliZjhKbjRmb1N2WUFLbXBWS0F3cVRfeDZ3eUgzdUkzRy1KelQ3Y2dqZjN3cmFNV3dBaHVDdlROaDZaTTJKMUZXSGZiZFl0c0FzZEQ4dWNZdHItUQ?oc=5
 2026-09-01	https://www.singtaousa.com/2026/09/01/news/usa/the-victim-of-a-random-knife-attack-in-times-square-new-york-was-confirmed-to-be-a-vice-president-of-bank-of-america/
-2026-09-01	https://news.google.com/rss/articles/CBMibEFVX3lxTFBpTmU5ZURacG9ZUWczbjFtREtNbzg1VW5pOVprYmR0QmFEckJVS1BGTGJZWFVraEoxOEp3SldZQkhWb3d3VjEwTVdObUFPQnJ4RlJiTlJQTUVTaWFDWlNEQTdlcUZ1TU91SkpMSQ?oc=5
 2026-09-01	https://news.rthk.hk/rthk/ch/component/k2/1868402-20260901.htm
 2026-09-01	https://www.worldjournal.com/wj/amp/story/121381/9726625
 2026-09-01	https://www.worldjournal.com/wj/story/121177/9726662
@@ -16832,8 +16693,6 @@ var DATA_URLS = `
 2026-08-08	https://www.zaobao.com.sg/news/sports/story20260808-9490947
 2026-08-08	https://www.orangenews.hk/international/VRfMUwE/泰國校園槍擊升至8死-政府擬推更嚴格槍支管控方案.shtml
 2026-08-08	https://www.dotdotnews.com/a/202608/08/AP6a7693d0e4b04b6c5d360c78.html
-2026-08-08	https://news.google.com/rss/articles/CBMibEFVX3lxTE9iRThRTlQ0VDkwMHZUY2EyX2wtTlZKR0FHMVlqUm0yQlZfZ256OE5NMXhzazFORmFZMDNCclpKYUJsUWNHXzU1UEE0RmVMcDhjRGZzd0RNLWRmZlZMZ3RaTGZGbFZXV0pDZHZxMw?oc=5
-2026-08-08	https://news.google.com/rss/articles/CBMibEFVX3lxTFBYZkFFVHp6SEVDVUxfZi1taVc0VjB5MmNTZkoyajhrY1lkOGxnckFnNXYtUjJraFZ1UmE0a2RhbVZER1hNSXl1OXZ1U203ekZmYndmdnBCT2NuNDRrOGhUdzJnRzBDbUpiMFpoNQ?oc=5
 2026-08-08	https://www.wenweipo.com/a/202608/08/AP6a76896de4b0c1e500240057.html
 2026-08-08	https://www.singtao.ca/7590649/2026-08-08/news-未婚先孕︱印度狠父為「遮家醜」浸死18歲女++謊報其失蹤遭警識破/
 2026-08-08	https://www.bastillepost.com/hongkong/article/16530137-曼谷郊區槍擊案釀七死-14歲男童殺害祖父母後自殺
@@ -16853,7 +16712,6 @@ var DATA_URLS = `
 2026-08-07	https://www.hk01.com/熱爆話題/60376630/德33歲女遭囚虐4個月-性侵-暴打逼食糞-半裸綁露台被鄰居揭發
 2026-08-07	https://orientaldaily.on.cc/content/要聞港聞/odn-20260807-0807_00176_061/勒索軟件組織襲全球--中招包括本港5機構
 2026-08-07	https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20260807-0807_00176_061/%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E7%B5%84%E7%B9%94%E8%A5%B2%E5%85%A8%E7%90%83--%E4%B8%AD%E6%8B%9B%E5%8C%85%E6%8B%AC%E6%9C%AC%E6%B8%AF5%E6%A9%9F%E6%A7%8B
-2026-08-07	https://news.google.com/rss/articles/CBMidEFVX3lxTFBuNGNqa3F2d0tSSkRPSTdqZWd1dzdmYUsxOHpIQkduMUtOa0J4VnphUldBcllHR0FGRDQ2ck16SW5nWWZjcUpLU3hpUHdPRWRYTmpIOXUwcjdQX0NCMTdNNWp3aDJTYjBzc1hDV25HUVJVeV8w?oc=5
 2026-08-07	https://epaper.tkww.hk/a/202608/07/AP6a74eeece4b04773b073f93c.html
 2026-08-07	https://tw.sports.yahoo.com/news/nba球星克拉克過世-法醫證實死於毒品意外-231406697.html
 2026-08-06	https://www.epochtimes.com/b5/26/8/6/n14824466.htm
@@ -16867,7 +16725,6 @@ var DATA_URLS = `
 2026-08-06	https://hk.on.cc/hk/bkn/cnt/news/20260806/bkn-20260806183127557-0806_00822_001.html
 2026-08-06	https://itpromag.com/2026/08/06/hkcert-orova/
 2026-08-06	https://www.am730.com.hk/本地/1045898/orova勒索軟件威脅擴散-港5機構列受害名單
-2026-08-06	https://news.google.com/rss/articles/CBMiWEFVX3lxTE10ZVhFRncxNFpJRzZhU2g1NktMYkgzdG9uQXBJUkxKRlpUSlY0N1BzRjNoY29UWmFXZFdZb2N3RTEta0pHckFoNHkxeENDMkxlUi1tcTdQQWc?oc=5
 2026-08-06	https://m.hkej.com/landing/mobarticle2/id/4476960/5歲童虐死案丨防止虐待兒童會冀保護兒童工作更全面
 2026-08-05	https://www.hk01.com/突發/60376862/西貢男子夜潛捉蟹失蹤影-同伴擔心安危報案-救援人員到場證誤會
 2026-08-05	https://www.ftnn.com.tw/news/567273
@@ -16983,7 +16840,6 @@ var DATA_URLS = `
 2026-07-20	https://beyondnews852.com/20260720/247340/
 2026-07-20	https://www.ntdtv.com/b5/2026/07/20/a104116860.html
 2026-07-20	https://www.epochtimes.com/b5/26/7/20/n14812966.htm/amp
-2026-07-19	https://news.google.com/rss/articles/CBMibEFVX3lxTE03cDVOUGg4YURtbFRONjlEaG16MTh2WE1hbzlSVlI4Z3FCNHBJbjg3MVFoMWtQaTg0b2dLVmFhNjRmZ2VWdDlvck5rTlYxeHQ5VnhsZjBSN2owbUlPSXhSYW1yOG0zTU5oczhfSA?oc=5
 2026-07-19	https://pulsehknews.com/20260719riot1967/
 2026-07-19	https://tw.news.yahoo.com/新北應召女控馬伕持槍抵太陽穴性侵-不做愛就斃了妳-二審判決大逆轉-073824383.html
 2026-07-19	https://www.twreporter.org/a/illegal-cross-border-organ-transplantation-scam
@@ -17032,9 +16888,7 @@ var DATA_URLS = `
 2026-07-14	https://news.tvbs.com.tw/tech/3256805
 2026-07-14	https://www.amidas.com.hk/post/thales-identity-platform
 2026-07-14	https://k.sina.com.cn/article_7879923866_m1d5ae189a03301llic.html?cre=tianyi&mod=pcent&loc=4&r=0&rfunc=12&tj=cxvertical_pc_ent&tr=12&from=mood
-2026-07-13	https://news.google.com/rss/articles/CBMibEFVX3lxTE45MHN2enFTTmEyZ1RoQThHcVVGM1BJNEQ1R1N1Y1J0aGJDczl6bThHeGVYcHFSeXZOQTRaRVNDb3NNc0I3b00xODBITkUxWWxOVkxDSk5VQ25TLWNZYWpCMGYyc1pHVWlrczhVeQ?oc=5
 2026-07-13	https://www.bastillepost.com/hongkong/article/16355504-歐盟制裁俄羅斯情報人員-涉多年網絡間諜活動
-2026-07-13	https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWktBM1dLejVTMThoQVRfbXJIZzJNR3ZFTHpLMzNsVFMwaXNwMGkxWFFyN1ZaeDZMV211RHlMOGtmMGhYd2NyNi1ScHVNTGJLMXAxLWxPNFRMUkNwOWxuTktrNTRtbE9HbGY2ZQ?oc=5
 2026-07-13	https://news.rthk.hk/rthk/ch/component/k2/1862014-20260713.htm
 2026-07-13	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60369284/%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%88%86%E7%B8%A3%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E6%A1%88-4%E4%BA%BA%E5%82%B7-%E8%AD%A6%E6%8B%981%E7%96%91%E7%8A%AF
 2026-07-13	https://www.orangenews.hk/international/VPDuFD3/%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%88%86%E7%B8%A3%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E6%A1%88-44%E6%AD%B2%E7%94%B7%E5%88%BA%E5%82%B74%E4%BA%BA%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%95%B6%E5%A0%B4%E6%8B%98%E6%8D%95.shtml
@@ -17072,7 +16926,6 @@ var DATA_URLS = `
 2026-07-08	https://www.msn.com/zh-tw/news/national/57歲勇男阻嫌犯-肉身擋彈-遭砍亡-妻子哀慟-他很有正義感/ar-AA1SHsuA?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1
 2026-07-07	https://news.mingpao.com/ins/國際/article/20260707/s00005/1783406809006/韓警方-正調查網上有帖文威脅殺死總統李在明
 2026-07-07	https://www.hkcd.com.hk/hkcdweb/content/2026/07/07/content_8763555.html
-2026-07-07	https://news.google.com/rss/articles/CBMibEFVX3lxTE5BbnhjUnA1ZjZUSWVObExPdVRfMG1mZkh2NlJMVUZuVnV2VjVvbXVPNUVGTmFSUmwwd29pQnphRWpVNzl4OGlycC1iX2Jaa1VXSDJXYmJwUEhGcFhSakpWNEJFNHpITmNSZFRpOQ?oc=5
 2026-07-07	https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20260707-%E6%91%A9%E7%B4%8D%E5%93%A5%E7%83%8F%E5%AF%A1%E9%A0%AD%E9%81%AD%E5%8C%85%E8%A3%B9%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A%E6%A1%88-%E5%AB%8C%E7%96%91%E5%A5%B3%E5%AD%90%E9%81%AD%E6%A7%8D%E6%AE%BA-%E5%B1%8D%E9%AB%94%E5%9C%A8%E5%9F%BA%E8%BC%94%E9%99%84%E8%BF%91%E8%A2%AB%E7%99%BC%E7%8F%BE
 2026-07-07	https://www.stheadline.com/realtime-china/3590618/廣西洪災至少4死8失蹤84萬人受災-習近平要求全力救援
 2026-07-07	https://thewitnesshk.com/1112%E4%B8%AD%E7%92%B0-%E6%9A%B4%E5%8B%95%E7%BD%AA%E6%88%90%E5%A5%B3%E5%AD%90%E7%94%B3%E7%B5%82%E6%A5%B5%E4%B8%8A%E8%A8%B4%E8%A2%AB%E6%8B%92-%E7%B5%82%E9%99%A2%E6%8C%87%E7%84%A1%E5%90%88%E7%90%86/
@@ -17106,7 +16959,6 @@ var DATA_URLS = `
 2026-07-01	https://newtalk.tw/news/view/2026-07-01/1044550
 2026-07-01	https://today.line.me/tw/v3/article/VxKR53y
 2026-07-01	https://www.singtao.ca/7552890/2026-07-01/news-印度男抵加6天後7刀刺死妻子++++辯稱「突受挑釁」法官仍判意圖謀殺/
-2026-06-30	https://news.google.com/rss/articles/CBMibEFVX3lxTE9hdUhtVnQ1eXR5ajBSWWFaaTJNUXhZTGpTdkFCd2FYSm93aWpxcUtWTXAtZ1N1alA2YkR2SmNHZnB5WlpoTzl0TldwR0l4clI5Nnp0ZGpGRm4yS1ZGTVVIT2F1RFZSYWp4UnFiSA?oc=5
 2026-06-30	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260630/s00005/1782800159831/%E6%91%A9%E7%B4%8D%E5%93%A5%E8%B1%AA%E5%AE%85%E9%81%87%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E5%AF%8C%E5%95%86%E5%8D%B1%E6%AE%86
 2026-06-30	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/479786/%E6%91%A9%E7%B4%8D%E5%93%A5%E5%85%AC%E5%AF%93%E9%81%87%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E5%AF%8C%E5%95%86%E5%8F%8A%E5%A6%BB%E5%85%92%E5%8F%97%E9%87%8D%E5%82%B7
 2026-06-30	https://hk.news.yahoo.com/德國槍擊案增至6死-料涉監護權糾紛有片-024800175.html
@@ -17147,7 +16999,6 @@ var DATA_URLS = `
 2026-06-19	https://am1320.com/%E7%84%A6%E9%BB%9E%E6%96%B0%E8%81%9E/%E4%B8%80%E5%90%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%85%AC%E6%B0%91%E5%9C%A8%E5%8D%97%E9%9D%9E%E6%84%8F%E5%A4%96%E4%B8%AD%E6%A7%8D%E6%AD%BB%E4%BA%A1/
 2026-06-18	https://www.wenweipo.com/a/202606/18/AP6a340adee4b0b49ad1bfe8d7.html
 2026-06-18	https://www.ftnn.com.tw/news/554346
-2026-06-18	https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUGM2elZGMGFzRjNRZkRGYjY4eXRFVFEtZHYyYnd1QlFDZ3NQeUxmU2JKN2Z2eUhnaHNZMVRiVXRNY01yeXNmcEpEMzdNcDlldEdBRV93V1lPdU03VVpZZ25n?oc=5
 2026-06-18	https://news.pts.org.tw/article/813590
 2026-06-18	https://www.winandmac.com/2026/06/google-terrible-nest-mini-nest-audio-gone/
 2026-06-17	https://www.stheadline.com/realtime-world/3584006/美國特拉華州醫院爆槍擊釀1死1死-槍手行凶動機不明
@@ -17162,8 +17013,6 @@ var DATA_URLS = `
 2026-06-16	https://www.hkcd.com.hk/hkcdweb/content/2026/06/16/content_8760157.html
 2026-06-16	https://www.hk01.com/%E7%AA%81%E7%99%BC/60360631/%E6%B5%81%E6%B5%AE%E5%B1%B119%E6%AD%B2%E7%94%B7%E5%AD%90%E8%A2%AB3%E6%83%A1%E6%BC%A2%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E5%85%BC%E6%90%B6%E5%8E%BB%E7%A7%81%E5%AE%B6%E8%BB%8A-%E8%BA%AB%E9%AB%94%E5%A4%9A%E8%99%95%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2
 2026-06-16	https://www.wenweipo.com/a/202606/16/AP6a3145fce4b0b49ad1bf9e29.html
-2026-06-16	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNjV4RTFyaXRseFA0eVRWUWhwWktsNFNlMlExcDZKc1h3U3MteWl6Tmh0OGFoMXdlZS1aSEVIcHVFRG5lYUVpdWc0ZmhxeG13MmZJTUFBZGhGV1BOcUZYVDJ3?oc=5
-2026-06-16	https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zRTU0bzhydkJSeHhFd09uTUhzWk5aVnlsVXMxQkp4aEN4aUVpdTMtb0I3cE8wUlFZQTVLTnc1M0NUeFR5Zm1KVnY1Q0U1SFNuN2xYd0V2RHJ5WVRfQWdONVBB?oc=5
 2026-06-16	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60360994/%E5%A5%87%E8%8F%AF%E9%A4%85%E5%AE%B6%E7%B3%BB%E7%B5%B1%E9%81%AD%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E6%94%BB%E6%93%8A%E6%B6%89%E5%93%A1%E5%B7%A5%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99-%E6%9A%AB%E6%9C%AA%E7%A2%BA%E8%AA%8D%E8%B3%87%E6%96%99%E8%A2%AB%E5%AD%98%E5%8F%96
 2026-06-16	https://www.hkej.com/instantnews/current/article/4433148/%E5%A5%87%E8%8F%AF%E9%81%AD%E6%83%A1%E6%84%8F%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E6%94%BB%E6%93%8A+%E9%A1%A7%E5%AE%A2%E4%BB%98%E6%AC%BE%E5%8F%8A%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B3%87%E6%96%99%E6%9C%AA%E5%8F%97%E5%BD%B1%E9%9F%BF
 2026-06-16	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/475211/%E5%A5%87%E8%8F%AF%E9%81%AD%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E6%94%BB%E6%93%8A-%E6%9C%AA%E7%A2%BA%E8%AA%8D%E5%93%A1%E5%B7%A5%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99%E6%98%AF%E5%90%A6%E8%A2%AB
@@ -17188,12 +17037,10 @@ var DATA_URLS = `
 2026-06-11	https://www.wenweipo.com/a/202606/11/AP6a29c56ae4b0b49ad1bed806.html
 2026-06-11	https://news.pts.org.tw/article/812617
 2026-06-11	https://www.hk01.com/突發/60359076/太古城母女命案-12歲女童曾送院-由家人陪同-案件轉社署跟進
-2026-06-11	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jNW9KRktKZ1NZV3NoNEdkaktIRUxJUlJGQmZQak1FTEtuQW55cnVCN21zZVRqRno2V3FaOTQ2YXY4aGdfNUszOVRxM09UaEhwMVZWOFo4VGhXV1I1ZmZIWGppSkdDUQ?oc=5
 2026-06-11	https://news.pchome.com.tw/politics/cnews/20260611/index-78115354069413227001.html
 2026-06-10	https://news.pts.org.tw/article/812310
 2026-06-10	https://tw.news.yahoo.com/怨岳母拆散婚姻-男外送-死亡沙嗲-下毒-57歲婦慘死-063938249.html
 2026-06-10	https://www.orangenews.hk/international/VM7fBVy/南非約翰內斯堡爆槍擊事件釀至12死-逾10名疑犯乘車逃走.shtml
-2026-06-10	https://news.google.com/rss/articles/CBMibEFVX3lxTE1pNTA0WW1QMDVFamFaeVRUSjNhSGFsNHFHaDFobzExNjN1VWVPSmNISzA2bUQyZ1ZUdG9GM0hGZjJxRzZ3T2NjZ0pFNXozb2d1VnIzdDBqZVFhSTJhRnlNT1NkLWd1V29TZzNhZQ?oc=5
 2026-06-10	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/473078/%E5%8C%97%E6%84%9B%E7%88%BE%E8%98%AD%E9%9B%A3%E6%B0%91%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA-%E5%BC%95%E7%99%BC%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%A8%B7%E4%BA%82-%E9%A6%AC%E6%96%AF%E5%85%8B
 2026-06-10	https://news.rthk.hk/rthk/ch/component/k2/1857916-20260610.htm
 2026-06-10	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260610/s00005/1781076031554/%E5%8C%97%E6%84%9B%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E6%A1%88%E5%BC%95%E7%99%BC%E5%8F%8D%E7%A7%BB%E6%B0%91%E9%A8%B7%E4%BA%82-%E7%A4%BA%E5%A8%81%E8%80%85%E7%B8%B1%E7%81%AB%E9%97%96%E6%B0%91%E5%B1%85-%E7%95%B6%E5%B1%80%E7%B1%B2%E7%BE%A4%E7%9C%BE%E5%86%B7%E9%9D%9C
@@ -17208,16 +17055,13 @@ var DATA_URLS = `
 2026-06-09	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/472911/%E5%8C%97%E6%84%9B%E9%A6%96%E5%BA%9C%E9%9D%9E%E8%A3%94%E7%A7%BB%E6%B0%91%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E8%A2%AB%E6%8D%95-%E7%9B%AE%E6%93%8A%E8%80%85-%E8%A9%A6%E5%9C%96%E5%89%B2
 2026-06-09	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260609/s00005/1781017182087/%E5%8C%97%E6%84%9B%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E6%A1%88%E7%94%B7%E5%82%B7%E8%80%85%E5%8D%B1%E6%AE%86-%E8%98%87%E4%B8%B9%E7%94%B7%E8%A2%AB%E6%8D%95
 2026-06-09	https://thewitnesshk.com/8-31%E7%81%A3%E4%BB%94%E5%A5%B3%E7%94%9F%E6%9A%B4%E5%8B%95%E7%BD%AA%E8%84%AB-%E9%87%8D%E5%AF%A9%E6%94%B9%E5%88%A4%E7%BD%AA%E6%88%90-%E5%AE%98%E6%8C%87%E8%A1%A3%E8%91%97%E8%A3%9D%E5%82%99%E7%AD%89/
-2026-06-08	https://news.google.com/rss/articles/CBMibEFVX3lxTE8xT3ktaDB3US1CYzR3NFFNWjFSRktTMFZYVHNGczFBT3BXaGk3dF90NzZOMm90T0pDbEZ6Y0RnbXlJT2VSaDJ6Skh2SEI1OGFuNVNrN3lsYlFSTndLME1BanVaTFZiY1MyalJBdg?oc=5
 2026-06-08	https://www.dotdotnews.com/a/202606/08/AP6a2671fde4b09ea23317b37c.html
 2026-06-08	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/472278/%E7%B4%90%E7%B4%84%E8%B3%93%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9E%E8%BB%8A%E7%AB%99%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E5%85%AD%E4%BA%BA%E5%82%B7-%E7%96%91%E5%85%87%E8%A2%AB%E6%8D%95
-2026-06-08	https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPV1RrUmxTaHNMd0V0Q01yWHRMZkF1U2hCaG40b19xMWlDa3JWd1R6QVJ3UmFkRHBWcDZWOEtNOUNuV0lpQ0RSVGljdlNtVHY0c3lPRmg2bS11TVBkU0RQRDZaOFZmdw?oc=5
 2026-06-08	https://www.tkww.hk/a/202606/08/AP6a2684fce4b04773b06fcafd.html
 2026-06-08	https://news.mingpao.com/pns/國際/article/20260608/s00014/1780853822877/以軍西岸向巴人汽車開槍-7月大嬰兒亡
 2026-06-08	https://pulsehknews.com/20260608polyu/
 2026-06-08	https://www.stheadline.com/society/3580883/4%E7%94%B7%E8%AA%8D%E5%8F%83%E8%88%87%E7%90%86%E5%A4%A7%E6%9A%B4%E5%8B%95%E5%85%A5%E7%8D%8430%E5%80%8B%E6%9C%88%E8%87%B337%E5%80%8B%E6%9C%88
 2026-06-08	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260608/s00001/1780913743860/4%E7%94%B7%E6%B6%89%E7%90%86%E5%A4%A7%E8%A1%9D%E7%AA%81%E8%AA%8D%E6%9A%B4%E5%8B%95%E7%BD%AA-%E5%88%A4%E5%9B%9A30%E8%87%B337%E5%80%8B%E6%9C%88
-2026-06-08	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DVnFRYXVQS0RvLU5lMUlSRmFNQnhzSWEwMW5fa1hCOFlyVjlLbXF0UWZraHNUOGljN09SbmpGeHFZQVVhUFF1TFh2c2cxWEZldXl0eDVrbzVNYVRmRGR6T25n?oc=5
 2026-06-07	https://www.singtaousa.com/2026/06/07/news/china/missing-chef-hong-kong-zhoushan-cargo-ship/
 2026-06-07	https://finance.sina.cn/2026-06-07/detail-iniaqhws6482224.d.html?cre=picnextw&mod=picg&loc=1&r=0&rfunc=78&tj=cxvertical_wap_picnextw_picg&cref=cj&from=nextalbum
 2026-06-05	https://www.dotdotnews.com/a/202606/05/AP6a223f33e4b09ea23317671a.html
@@ -17243,7 +17087,6 @@ var DATA_URLS = `
 2026-05-31	https://www.bastillepost.com/hongkong/article/16088269-%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E9%96%80%E8%A1%9B%E5%86%95%E6%AD%90%E8%81%AF-%E6%85%B6%E7%A5%9D%E6%B4%BB%E5%8B%95%E6%BC%94%E8%AE%8A%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81%E9%80%BE400
 2026-05-29	https://www.ftnn.com.tw/news/549496
 2026-05-29	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/469084/%E8%98%87%E9%BB%8E%E4%B8%96%E8%BB%8A%E7%AB%99%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E5%88%BA%E5%82%B73%E4%BA%BA-%E5%88%97%E6%81%90%E6%80%96%E8%A5%B2%E6%93%8A
-2026-05-29	https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUUlLVThuLWdtNUtkZ1FwRktDWVhvUGtqSjI5c1BrU0xJWWFXNUNDNTc2aElPUUpRdTlKa3JTOEFSdkw4N1lrMG5kT2kwWVpBTkl6ZlBmbk1rOGhOVlFnZFZPSkVLamlmaFFpRw?oc=5
 2026-05-29	https://news.rthk.hk/rthk/ch/component/k2/1856431-20260529.htm
 2026-05-29	https://am1320.com/%E7%84%A6%E9%BB%9E%E6%96%B0%E8%81%9E/%E5%AE%89%E7%9C%8157%E6%AD%B2%E8%8F%AF%E8%A3%94%E7%94%B7%E5%AD%90kenneth-law%E6%89%BF%E8%AA%8D%E5%87%BA%E5%94%AE%E4%BA%9E%E7%A1%9D%E9%85%B8%E9%88%89%E6%95%99%E5%94%86%E6%88%96%E5%8D%94%E5%8A%A9/
 2026-05-29	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-05-29/2361769.html
@@ -18233,7 +18076,6 @@ var DATA_URLS = `
 2026-09-24	https://stars.udn.com/star/amp/story/10091/9775468
 2026-09-24	https://www.teepr.com/1916141/mollylin/減肥死亡/
 2026-09-24	https://www.wenweipo.com/a/202609/24/AP6ab4b960e4b01d54a2849728.html
-2026-09-24	https://news.google.com/rss/articles/CBMid0FVX3lxTFBHUjNDWVdPN2FNME0tc1pycnlOTkZWSG04TjhmSVNvN2RaRmEtUF9yNTN2WVRPbDlaVUNmcTUtN3dkSDc5MkRjb2ZBSkxYdWNLck9SVFlNTVduMklyaVNfckN0T254eUN4WGQyYzJRY25GWURQLXgw?oc=5
 2026-09-23	https://turnnewsapp.com/livenews/politicsv3/20260923004675-260407
 2026-09-23	https://www.ettoday.net/news/20260923/3242974.htm
 2026-09-23	https://www.ettoday.net/news/20260923/3242750.htm
@@ -18351,7 +18193,6 @@ var DATA_URLS = `
 2026-09-16	https://tw.news.yahoo.com/高以翔昔心因性猝死-陳建州年初探望曬照-驚巧合-逢九必衰-041026429.html
 2026-09-16	https://www.stheadline.com/breaking-news/3616042/青衣酒樓七旬翁食乾炒牛河鯁喉-昏迷送院搶救後恢復意識
 2026-09-16	https://topick.hket.com/article/4194345/?mtc=recmd4
-2026-09-16	https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tRGdJQlV2VlZ5dDliTVY3SGMtaG1Cbk5CZU5oRHg2aHR5N3o5V0R6VlZwMDVXcTBLaXZqMmE2SDZyQ2QxY25jVTM0bXh1ZTlMajJEaHM1aw?oc=5
 2026-09-16	https://ol.mingpao.com/ldy/showbiz/latest/20260916/1789548758313/%E9%99%B3%E5%BB%BA%E5%B7%9E%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E%E6%80%A5%E9%80%81%E9%99%A2-%E5%B0%8Fs%E5%9A%87%E5%91%86%E7%B1%B2%E4%BF%9D%E9%87%8D-%E6%B2%92%E6%B3%95%E5%86%8D%E5%A4%B1%E5%8E%BB%E5%A5%BD%E6%9C%8B%E5%8F%8B
 2026-09-16	https://star.setn.com/news/1907668
 2026-09-16	https://health.ettoday.net/news/3238449
@@ -18403,7 +18244,6 @@ var DATA_URLS = `
 2026-09-12	https://www.ctwant.com/article/497697/
 2026-09-12	https://news.tvb.com/sc/1194762-%E7%A4%BE%E8%A9%95%E6%9D%B1%E6%96%B9%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%E5%8F%88%E5%A5%AA%E5%91%BD%E6%96%87%E5%8C%AF%E4%BE%9D%E6%B3%95%E5%9A%B4%E6%87%B2%E6%94%AF%E8%81%AF%E6%9C%83%E7%BD%AA%E6%9C%89%E6%87%89%E5%BE%97%E7%BD%B0%E7%95%B6%E5%85%B6%E7%BD%AA
 2026-09-12	https://news.tvb.com/tc/1194844-%E5%85%A7%E5%9C%B0%E6%9C%89%E5%A4%A7%E8%83%83%E7%8E%8B%E7%B6%B2%E7%B4%85%E9%9B%A2%E4%B8%96%E6%88%96%E9%95%B7%E6%9C%9F%E6%89%A3%E5%96%89%E8%87%B4%E4%BD%8E%E9%89%80%E8%A1%80%E7%97%87%E5%BC%95%E7%99%BC%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C
-2026-09-12	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60388232/27%E6%AD%B2%E7%B6%B2%E7%B4%84%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%BF%83%E6%A2%97%E7%8C%9D%E6%AD%BB-%E8%85%B3%E8%BB%9F%E8%AA%A4%E7%95%B6%E8%85%B0%E6%82%A3%E5%BE%A9%E7%99%BC-%E9%81%BA%E5%85%A9%E5%B9%BC%E5%A5%B3%E6%83%B9%E7%B6%B2%E6%B0%91%E5%94%8F%E5%99%93
 2026-09-11	https://www.stheadline.com/film-drama/3614209/鍾麗淇傳入ICU疑遺傳母親漸凍人症-其母離世前四肢癱瘓無法吞嚥-其兄同患罕見病早逝
 2026-09-11	https://www.bastillepost.com/hongkong/article/16631039-湖南翁麻將館附近猝逝-店主妻子好心送院反捲糾紛
 2026-09-11	https://tw.news.yahoo.com/吃播變-賣命-中國年輕網紅接連傳猝逝-直播流量競賽背後恐藏致命生態-103800107.html
@@ -18479,7 +18319,6 @@ var DATA_URLS = `
 2026-09-08	https://ufood.com.hk/restaurant/news/detail/20090052/%E5%A4%A7%E5%82%B7%E8%85%8E%E6%B9%AF%E6%B0%B4-%E9%A3%B2%E9%8C%AF%E6%B9%AF%E9%9A%A8%E6%99%82%E6%8F%90%E6%97%A9%E6%B4%97%E8%85%8E-%E9%86%AB%E7%94%9F%E7%9B%A4%E9%BB%9E-%E5%A4%A7%E5%82%B7%E8%85%8E%E6%B9%AF%E6%B0%B4-%E5%A4%A7%E9%AA%A8%E6%B9%AF%E8%A3%9C%E9%89%9B%E5%94%94%E8%A3%9C%E9%88%A3-%E7%AC%AC-%E4%BD%8D%E6%81%90%E8%87%B4%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C
 2026-09-08	https://tw.news.yahoo.com/24歲百萬網紅驚傳心臟驟停亡-生前影片爆-1大警訊-053324156.html
 2026-09-08	https://tw.news.yahoo.com/24歲百萬大胃王網紅猝逝-最後發文才透露-鉀流失住院-013007618.html
-2026-09-08	https://www.hk01.com/健康Easy/60387788/24歲百萬吃播網紅猝死-暴食催吐致低血鉀心臟驟停-醫生講解危機
 2026-09-08	https://china.hket.com/article/4190036/24%E6%AD%B2%E5%85%A7%E5%9C%B0%E5%90%83%E6%92%AD%E7%96%91%E9%95%B7%E6%9C%9F%E4%BD%8E%E9%89%80%E7%8C%9D%E9%80%9D%20%E6%9B%BE%E7%9B%B4%E6%92%AD%E9%80%A3%E5%90%8370%E9%9A%BB%E7%9A%AE%E8%9B%8B
 2026-09-07	https://www.stheadline.com/zh-hans/realtime-world/3612474/%E8%8B%B1%E7%BD%91%E7%BA%A2Tiny%E8%B5%B4%E6%B3%B0%E5%81%9A%E9%98%B4%E8%8C%8E%E5%A2%9E%E5%A4%A7%E6%9C%AF%E5%90%8E%E7%8C%9D%E6%AD%BB-%E9%95%BF%E7%9C%A0580%E4%B8%87%E9%BB%84%E9%87%91%E6%A3%BA%E6%9D%90
 2026-09-07	https://www.stheadline.com/zh-hans/realtime-world/3612474/英网红Tiny赴泰做阴茎增大术后猝死-长眠580万黄金棺材
@@ -18533,7 +18372,6 @@ var DATA_URLS = `
 2026-09-02	https://www.setn.com/news/1900094
 2026-09-02	https://tw.news.yahoo.com/47歲皮膚科名醫猝逝案外案-爆員工欠薪-顧客遲未收退款-診所發聲了-222900239.html
 2026-09-02	https://www.mnews.tw/story/amp/mm-20260902edi065
-2026-09-02	https://www.hk01.com/健康Easy/60383539/25歲球員卡斯度突發心臟驟停猝死-醫生拆解隱性心律不整3主因
 2026-09-01	https://hk.on.cc/hk/bkn/cnt/news/20260901/bkn-20260901223129585-0901_00822_001.html
 2026-09-01	https://www.setn.com/news/1899965
 2026-09-01	https://www.stheadline.com/zh-hans/breaking-news/3610389/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E6%84%89%E6%99%AF%E6%B9%BE%E5%A5%B3%E5%AD%90%E7%95%99%E9%81%97%E4%B9%A6%E9%A3%9E%E5%A0%95%E6%96%9C%E5%9D%A1-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB
@@ -18742,11 +18580,9 @@ var DATA_URLS = `
 2026-08-17	https://www.ftnn.com.tw/news/570530
 2026-08-17	https://www.163.com/v/video/VU3JE0S5L.html
 2026-08-17	https://topick.hket.com/article/4177474/%E4%BD%99%E5%AE%87%E6%A5%B7%E9%9B%A2%E4%B8%96%E4%B8%A8%E3%80%8C%E6%B5%81%E6%B0%93%E4%BF%A0%E9%86%AB%E3%80%8D%E4%BD%99%E5%AE%87%E6%A5%B72%E6%9C%88%E9%9B%A2%E4%B8%96%E3%80%80%E5%90%8D%E9%86%AB%E4%B8%96%E5%AE%B64%E5%85%84%E5%BC%9F%E8%A1%8C%E9%86%AB%E6%BF%9F%E4%B8%96%E7%82%BA%E6%87%B7%20%E3%80%80%E6%9B%BE%E5%88%86%E6%96%87%E4%B8%8D%E6%94%B6%E7%82%BA%E5%BC%B1%E5%8B%A2%E7%A4%BE%E7%BE%A4%E5%81%9A%E6%89%8B%E8%A1%93
-2026-08-17	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxaEw4RVVxQVhaOFFVUm9qYUtsdm9ZMGRob2FKdWpBbVc4aTNnM2pheVg0eFpkSEVieU5Lc2dRQjhLcVdqSDdrTmFmZ0hwalpJdGhNbjZMRnNpZkxzdW54Q1lR?oc=5
 2026-08-17	https://www.wenxuecity.com/news/2026/08/17/socialnews-268556.html
 2026-08-16	https://www.ntdtv.com/b5/mkt_ipad/2026/08/16/a104124558.html
 2026-08-16	https://www.ntdtv.com/b5/2026/08/16/a104124558.html
-2026-08-16	https://news.google.com/rss/articles/CBMibEFVX3lxTFB3SXZMdHNMU2o1djhUcVo5VV9rbVRmcndaRWxJOS1ZcXpGMGsxUVJsLWR1ZGhEbUFPbFBmd1ZhTmpjQXdtWXF6T0stZE5oQXp0M0RWbDFBbU5KX05BTHNYOVpLblJWd040aHN2ZA?oc=5
 2026-08-16	https://penang.chinapress.com.my/20260816/华妇猝逝捐器官遗爱人间-槟中央医院完成多组织获/
 2026-08-16	https://k.sina.com.cn/article_1931238691_731c5d2301902gwua.html
 2026-08-16	http://k.sina.com.cn/article_1655444627_m62ac1493020036ei8.html?cre=videopc&mod=zixun&loc=11&r=0&rfunc=65&tj=cxvertical_pc_videopc_zixun&from=news
@@ -19044,7 +18880,6 @@ var DATA_URLS = `
 2026-07-21	https://hk.epochtimes.com/news/2026-07-21/83877302
 2026-07-20	https://www.163.com/dy/article/L288I8AH05563OYC.html
 2026-07-20	https://n.yam.com/Article/20260720109932
-2026-07-20	https://www.hk01.com/突發/60371835/油麻地庇利金街中年男子猝死單位內-死因有待驗屍確定
 2026-07-20	https://www.ntdtv.com/b5/2026/07/20/a104116900.html
 2026-07-19	https://news.tvbs.com.tw/local/3261823
 2026-07-19	https://news.pchome.com.tw/entertainment/crwant/20260719/index-78445830364479316006.html
@@ -19336,7 +19171,6 @@ var DATA_URLS = `
 2026-06-24	https://www.nippon.com/hk/japan-data/h02813/
 2026-06-24	https://news.pchome.com.tw/society/ctinews/20260624/index-78231300870823309002.html
 2026-06-24	https://hk.on.cc/hk/bkn/cnt/news/20260624/bkn-20260624173652381-0624_00822_001.html
-2026-06-24	https://news.rthk.hk/rthk/ch/component/k2/1859750-20260624.htm
 2026-06-24	https://www.singtaousa.com/2026/06/24/news/china/fatal-industrial-accident-excavator-crush-manslaughter/
 2026-06-24	https://ent.sina.cn/2026-06-24/detail-inienawc8390330.d.html?oid=【8888.FUTBOL】.znvb&vt=4
 2026-06-23	https://tw.news.yahoo.com/黃大煒猝逝-好友庾澄慶曝-最後-次聯絡時間點-無奈-064300916.html
@@ -19737,7 +19571,6 @@ var DATA_URLS = `
 2026-05-09	https://stars.udn.com/star/amp/story/10089/9492183
 2026-05-09	https://guangming.com.my/男子看电视大叫一声猝逝弟泪揭：血糖失控劝不听
 2026-05-09	https://tw.news.yahoo.com/吃4隻蝦4700元-客人控坑殺-43歲老闆遭公審隔天猝逝-025841443.html
-2026-05-09	https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ROG96U25lX0hib0RqOHRlRFZtazFxTWYxNGw5X0daTVlZZTR6MGdoTXNhR1dGMnhnbHB6Um9INTItUGU0TkJzaEVOZlRuc2JpUVRiaWxMM3BpT1NRR2c?oc=5
 2026-05-09	https://www.ohpama.com/1023274/生活熱話/生活熱話/九龍城拐嬰案-半歲女兒猝死-情夫-責罵-三奶-報假案/
 2026-05-09	https://www.orangenews.hk/international/VJ5eEBE/法醫披露馬勒當拿離世前-曾歷經約12小時病痛折磨.shtml
 2026-05-09	https://tw.news.yahoo.com/4隻皮皮蝦近5千元-海鮮店遭炎上-老闆隔天猝逝-市監局還清白-092449864.html
@@ -20236,8 +20069,6 @@ var DATA_URLS = `
 2026-03-28	https://www.ettoday.net/news/20260328/3139796.htm
 2026-03-28	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60335200/%E5%85%92%E7%AB%A5%E9%86%AB%E9%99%A26%E6%AD%B2%E7%AB%A5%E6%B0%A3%E7%AE%A1%E6%8F%92%E7%AE%A1%E9%80%A3%E6%8E%A5%E9%A0%AD%E8%84%AB%E8%90%BD-%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C16%E5%88%86%E9%90%98-%E9%86%AB%E7%AE%A1%E5%B1%80%E8%AA%BF%E6%9F%A5
 2026-03-28	https://news.rthk.hk/rthk/ch/component/k2/1849175-20260328.htm
-2026-03-28	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HYzJvalZMLWxUekRZc0tvUW11a1VBRV9WVWZyR2RBVjdoSkcyQkkwWElzUFNLaFJVQ08td1NmQkVhR3RIV19ocy1ENDFUUVJMcjJHZzJpZ1VtdGctcjgxNXdn?oc=5
-2026-03-28	https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzd0EycW5qcEdOSzNSUnR6RE5VdXFYbHI0OExZZHVxcEY4UzhrTXB1aVBkRlNnd1FVS3gycmpXYm8zTmFDanp1aWk4dXpWUW0yVHJOekY3bldtZkxsc1g3TUJn?oc=5
 2026-03-28	https://www.ntdtv.com/b5/2026/03/27/a104080516.html
 2026-03-27	https://tw.news.yahoo.com/顏慧欣猝逝掀霸凌疑雲-家人婉拒贈勳盼落實改革-楊珍妮下午因公請假-071600210.html
 2026-03-27	https://tw.news.yahoo.com/遭控下藥李小龍-向華強為前妻丁珮喊冤-揭-代宗師猝逝-心臟受損-231000206.html
@@ -23002,7 +22833,6 @@ var DATA_URLS = `
 2026-09-24	https://www.am730.com.hk/本地/1054895/珍惜生命-八旬翁留遺書失蹤3周-衛奕信徑尋獲遺體
 2026-09-24	https://www.singtao.ca/7637422/2026-09-24/news-珍惜生命│慈雲山中心男子報稱欲墮樓+母親報警救一命/
 2026-09-24	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260924/s00001/1790230215355/%E6%B6%89%E4%BE%B5%E7%8A%AF4%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E7%AB%A5-%E5%85%B6%E4%B8%AD1%E5%90%8D%E5%A5%B3%E7%AB%A5%E8%87%AA%E6%AE%BA%E4%BB%A4%E4%BA%8B%E4%BB%B6%E6%9B%9D%E5%85%89-22%E6%AD%B2%E5%A4%A7%E5%B0%88%E7%94%9F%E8%AA%8D%E7%BD%AA%E5%80%99%E5%88%A4
-2026-09-24	https://news.google.com/rss/articles/CBMia0FVX3lxTFA4bEd4emF1VnMtMERvTzJfbE1kbDd2eV9pT1RVeGhMa2l1NWMyYkpWX3FoZ0dITVM4MzZLMVJWT1FqN3Yzb3diZ2Y0blo3dlI5cDdTaHBEcEFNTmw5UU4wb2w5NUo0dGZDNHIw?oc=5
 2026-09-24	https://hk.on.cc/hk/bkn/cnt/intnews/20260924/bkn-20260924120323344-0924_00992_001.html
 2026-09-24	https://newtalk.tw/news/view/2026-09-24/1061756
 2026-09-24	https://www.singtao.ca/7637060/2026-09-24/news-加拿大華裔協助自殺案判刑聆訊持續 海外死者家屬訴傷痛/
@@ -23126,7 +22956,6 @@ var DATA_URLS = `
 2026-09-10	https://www.stheadline.com/society/3613706/港大調查顯示去年自殺個案減至976宗-15歲以下男童個案急增至14宗-促媒體網民慎發資訊
 2026-09-10	https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E6%B8%AF%E5%A4%A7%E8%AA%BF%E6%9F%A5%E6%8C%8715%E6%AD%B2%E6%88%96%E4%BB%A5%E4%B8%8B%E7%B5%84%E5%88%A5%E8%87%AA%E6%AE%BA%E7%8E%87%E9%A1%AF%E8%91%97%E4%B8%8A%E5%8D%87-band-1a%E5%AD%B8%E6%A0%A1%E4%BD%94%E6%AF%94%E6%9C%80%E9%AB%98
 2026-09-10	https://news.mingpao.com/ins/港聞/article/20260910/s00001/1789026361092/港大研究-去年自殺個案跌-惟青少年自殺率升-葉兆輝籲多關心學生
-2026-09-10	https://news.rthk.hk/rthk/ch/component/k2/1869597-20260910.htm
 2026-09-10	https://www.881903.com/news/amp/local/2649307
 2026-09-10	https://www.stheadline.com/society/3613737/昔日浩劫灣-灝景灣初代業主捱過沙士-嘆當年很多人負資產輕生-一街之隔長安邨居民另有睇法董建華辭世
 2026-09-10	https://www.bastillepost.com/hongkong/article/16739840-15歲或以下自殺率逆勢升-專家促予學生更多空間-籲
@@ -24143,7 +23972,6 @@ var DATA_URLS = `
 2026-05-09	https://news.mingpao.com/ins/港聞/article/20260509/s00001/1778310079298/將軍澳女子燒炭亡
 2026-05-09	https://unwire.hk/2026/05/09/chatgpt-trusted-contact-openai-safety-feature/ai/
 2026-05-08	https://www.singtaousa.com/2026/05/08/news/usa/epstein-cellmate-says-he-found-a-suicide-note-justice-department-says-its-seeing-it-for-first-time/
-2026-05-08	https://news.google.com/rss/articles/CBMie0FVX3lxTE1kU1NEUXRnbE8yaXBMX1dCS0g5bmd1Tk4tcnFMU0ZOYS1TcmRCa0VrWFBkZ2N6Z2s4Q0Y0OVBWMXlSRDJfYW5MczhOcWhoN0YwczJMRGxnVTVLMlpwQ29RT0lpbTRjeW93YldCZEM0NlV3Q1JEbG5Lb1NqZw?oc=5
 2026-05-08	https://www.stheadline.com/breaking-news/3570143/珍惜生命黃大仙翠竹花園29歲男子燒炭-母親揭發惜返魂無術
 2026-05-08	https://std.stheadline.com/breaking-news/3570143/珍惜生命黃大仙翠竹花園29歲男子燒炭-母親回家揭發惜太遲
 2026-05-08	https://www.hk01.com/突發/60347864/珍惜生命-薄扶林六旬婦留遺書失蹤-被發現水塘內漂浮-送院不治
@@ -24646,7 +24474,6 @@ var DATA_URLS = `
 2026-02-25	https://www.am730.com.hk/article/1013572
 2026-02-25	https://hk.news.yahoo.com/觀塘警署-23-歲女警疑吞槍自殺亡-現場照片曝光-上彈區遺大灘血跡被圍封｜yahoo-020824966.html
 2026-02-25	https://hk.news.yahoo.com/義工連接兩宗不負責任棄養-墮樓-重病均徘徊生死邊緣-092039597.html
-2026-02-25	https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wTEhfT1pvQ0VObzRIWFExeGdFaWtHLXBZVmJPQkV4aVlkSGpNdUJwVTNURVRYU2k0Z3FBRUlRR1dDWERsdEV4ZEN1ZVl3c212WWJybzJDOXVYemJjbGNF?oc=5
 2026-02-25	https://hk.epochtimes.com/news/2026-02-25/27172156
 2026-02-25	https://news.pchome.com.tw/society/ctinews/20260225/index-77198615862616309002.html
 2026-02-25	https://www.hk01.com/即時國際/60325117/挪威前首相陷愛潑斯坦案醜聞-外媒-上週自殺未遂住院-情況嚴重
@@ -25714,7 +25541,6 @@ var DATA_URLS = `
 2024-06-28	https://www.hk01.com/article/1033268?utm_source=01articlecopy&utm_medium=referral
 2024-06-26	https://www.hk01.com/article/1032656?utm_source=01articlecopy&utm_medium=referral
 2024-05-29	https://www.orangenews.hk/china/1223500/%E5%8F%B0%E7%81%A325%E6%AD%B2%E6%B4%BE%E5%87%BA%E6%89%80%E4%BB%A3%E7%90%86%E6%89%80%E9%95%B7%E9%A3%B2%E5%BD%88%E8%87%AA%E7%9B%A1--%E7%96%91%E6%83%85%E9%97%9C%E9%9B%A3%E9%81%8E%E8%BC%95%E7%94%9F.shtml
-2024-05-27	https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Zd1FfWXozOW1ISVZvMVItTzdITnhVMGFkdWpUbXBiOEkwV3Rvbk9uNXpmR01yUmNtV1l1aUZCbVd2bWlTbFJmRDdodDRGTkVCck1NRXBGQ3I5bUtpNWc?oc=5
 2024-04-30	https://hk.on.cc/hk/bkn/cnt/cnnews/20240430/bkn-20240430050416678-0430_00952_001.html
 2024-04-16	https://hk.on.cc/hk/bkn/cnt/news/20240416/bkn-20240416214201675-0416_00822_001.html
 2024-04-15	https://www.hk01.com/article/1010337?utm_source=01articlecopy&utm_medium=referral
@@ -26323,7 +26149,6 @@ var DATA_URLS = `
 2026-09-24	https://udn.com/news/story/7335/9776288
 2026-09-23	https://www.ettoday.net/news/20260923/3242556.htm
 2026-09-23	https://news.mingpao.com/ins/港聞/article/20260923/s00001/1790146775107/田螺車錦田公路近高埔村撞斃六旬女子
-2026-09-23	https://news.rthk.hk/rthk/ch/component/k2/1871210-20260923.htm
 2026-09-23	https://www.dotdotnews.com/a/202609/23/AP6ab34124e4b02724bdb552f1.html
 2026-09-23	https://www.stheadline.com/breaking-news/3618383/天水圍校巴的士相撞-8學童不適送院
 2026-09-23	https://tw.news.yahoo.com/台積電接駁車輾斃女騎士-母認屍不忍看女兒15秒喪命影片-她只是出門買東西-052153124.html
@@ -26346,7 +26171,7 @@ var DATA_URLS = `
 2026-09-19	https://hk.news.yahoo.com/西貢私家車司機撞斃-浣熊-警證實為果子狸-食環撿走屍體-023306447.html
 2026-09-19	https://www.hk01.com/突發/60391505/西貢私家車司機報案稱撞斃-浣熊-警證實果子狸-食環撿走屍體
 2026-09-19	https://tw.news.yahoo.com/紐約州兩架滑翔機空中相撞-1名飛行員死亡-另-機安全降落-082854645.html
-2026-09-19	https://news.google.com/rss/articles/CBMiYkFVX3lxTE16RUVfTlc0dGV0bU1RSmlkM3ZnWXRJaDVIYm5ETmdPR21LX3RJYi1XRWhXS2VPcEFHQldlTk45QmkzU3N4bDhreElheTRQVldOWjJHNmpuVWs1d0ppNjZucWJR?oc=5
+2026-09-19	https://hk.news.yahoo.com/%E6%97%BA%E8%A7%92%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E5%85%A9%E5%AE%97%E9%81%8B%E8%B1%AC%E8%BB%8A%E7%BF%BB%E5%81%B4%E8%BB%8A%E7%A6%8D-%E6%BC%A2%E5%82%B7-232059937.html
 2026-09-19	https://www.stheadline.com/local-topics/3617111/女子搭巴士作嘔飆冷汗暈低-全車乘客車廂籌旗集體大救人-醒後驚見雙手被塞呢兩樣神物Juicy叮
 2026-09-19	https://www.worldjournal.com/wj/amp/story/121222/9764836
 2026-09-19	https://www.facebook.com/am730hk/posts/%E5%8F%88%E5%86%8D%E5%87%BA%E4%BA%8B%E6%B1%9F%E8%8B%A5%E7%90%B3%E7%81%A3-%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E4%B8%83%E4%BA%BA%E8%BB%8A-am730/1586110056889924/
@@ -26679,8 +26504,6 @@ var DATA_URLS = `
 2026-08-05	https://www.am730.com.hk/本地/1045767/電車堅尼地城撞斃3歲女童-司機稱無錢放棄上訴即時入獄
 2026-08-05	https://hk.on.cc/hk/bkn/cnt/news/20260805/bkn-20260805160031499-0805_00822_001.html
 2026-08-05	https://www.dotdotnews.com/a/202608/05/AP6a72c18ce4b04b6c5d35c349.html
-2026-08-05	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSWFplVXd4NENBeHdzancxS19CcGZXTU5QVzgwaE9TVjRKdHZDQ3p6bDlERlM2blVoUXBHbnV5YzdjdmJaRDRBWFk2YldmbnFJYlVmc1BxdnJDS1JuejNqNjJ3?oc=5
-2026-08-05	https://news.google.com/rss/articles/CBMiekFVX3lxTFB0S3p6YjEwUVg1MWU3QlBfc29QWldEbEo5THVpUXZMbmk1bVVKSS1EbGtoZGREMlpRdjdfdTFCTkx5dVNzSFdDQVl3QkNWenN6RGNnYTJMOVB5N0tTY1E5NmlrUmZYa1l5TUFPb09iNFZBQUM3cXpwQjJ3?oc=5
 2026-08-05	https://www.singtaousa.com/2026/08/05/news/usa/placer-county-father-accident/
 2026-08-05	https://www.sundaykiss.com/熱話/李要東-電車司機-電車-3歲孫女-外公-衝紅燈-西環-2310616/
 2026-08-05	https://news.rthk.hk/rthk/ch/component/k2/1865077-20260805.htm
@@ -26838,7 +26661,6 @@ var DATA_URLS = `
 2026-07-08	https://www.storm.mg/article/11147943
 2026-07-08	https://www.ctwant.com/amp/article/488400/
 2026-07-08	https://www.wenweipo.com/a/202607/08/AP6a4de51ce4b0b49ad1c27a1b.html
-2026-07-08	https://news.google.com/rss/articles/CBMid0FVX3lxTFBXRGYzeVpSTzlsODJwZklRekE2Z3VNVDVQcElpUUxJaGQ3ZkRGTWZucHFOam9fNTFwbTRTekFKdjVxQU9vajhNTC01MmVLYUpzV2s5c1MwZ3A4U0pPa3ZraG93TnowQ3Etcl9ZSHk4RzlTQnYyVWlV?oc=5
 2026-07-08	https://www.epochtimes.com/b5/26/7/8/n14805434.htm/amp
 2026-07-08	https://udn.com/news/amp/story/7321/9615051
 2026-07-08	https://www.knews.com.tw/news/BEBAE9EEBA0EFBA62FE958E9EDD02925
@@ -26905,7 +26727,6 @@ var DATA_URLS = `
 2026-06-26	https://www.orangenews.hk/hongkong/VNbplOR/休班男警涉去年元朗撞死途人-被控危駕引致他人死亡今提堂.shtml
 2026-06-26	https://www.hk01.com/社會新聞/60364266/今日新聞8分鐘-瀝青鋪路機輾斃男管工-素海霖涉代言非法賭博網
 2026-06-26	https://www.singtaousa.com/2026/06/26/news/china/asphalt-worker-crushed-fatal-accident-arrest/
-2026-06-26	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmhoc3JvOGpiTFJLNWJWb284anExT1ozNXQyT2xRRjlnVWViZ3BlY2F5XzR1ZmVWM2l2Z01GUlpodVNEM0s4Smc0Tzh2SnlhUno0bkpuS0tpUl9UVlhEMkpuVkk3WHltUHFnM1FLdEp5U24yeGtOU1FEc1ZWSWN0a1FEc1p1WDFTLXNv?oc=5
 2026-06-26	https://hk.on.cc/hk/bkn/cnt/news/20260626/bkn-20260626090142112-0626_00822_001.html
 2026-06-26	https://m.hkej.com/landing/mobarticle2/id/4441429/九龍灣運動場男工遭工程車輾斃 勞工處調查
 2026-06-26	https://www.hk01.com/突發/60364335/九龍灣運動場工傷-管工遭瀝青鋪路工程車輾斃-司機涉危駕被捕
@@ -26913,7 +26734,6 @@ var DATA_URLS = `
 2026-06-26	https://www.i-cable.com/新聞資訊/478593/九龍灣運動場工傷六旬管工遭鋪路機輾斃-勞工處
 2026-06-26	https://news.mingpao.com/ins/港聞/article/20260626/s00001/1782441113001/九龍灣運動場工人遭工程車輾斃
 2026-06-26	https://news.mingpao.com/ins/港聞/article/20260626/s00001/1782441113001/九龍灣運動場工人遭壓路機輾斃
-2026-06-26	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmS1BzcVJVeXVHSy1qMllqR3Znb2RQbVl4Mnp4UkQ4RVo1Yy1LYlhuMkN3UUNhLTJodGl3WjRac01EejhJdTFMQ0t0UlhvYjFFbmdWUE9lX1VISjR3bVV3WkJ3?oc=5
 2026-06-26	https://www.bastillepost.com/hongkong/article/16247971-九龍灣男工遭工程車輾過亡-勞工處發暫時停工通知
 2026-06-26	https://star.setn.com/news/1862619
 2026-06-26	https://new-reporter.com/news/218150/
@@ -27062,7 +26882,6 @@ var DATA_URLS = `
 2026-06-01	https://www.dotdotnews.com/a/202606/01/AP6a1d6c4be4b09ea2331712ae.html
 2026-06-01	https://hk.on.cc/hk/bkn/cnt/news/20260601/bkn-20260601152226708-0601_00822_001.html
 2026-06-01	https://www.hk01.com/突發/60355561/灣仔的士站4的士串燒撞-一司機不適送院
-2026-06-01	https://www.bbc.com/zhongwen/articles/cz928gw40qlo/trad
 2026-06-01	https://www.hk01.com/熱爆話題/60355392/巨型孕蛇遭車輾斃爆肚-三十幼蛇破體逃生-好心翁勇救冀中六合彩
 2026-06-01	https://www.wenweipo.com/a/202606/01/AP6a1d3814e4b0b49ad1bd996c.html
 2026-05-31	https://www.worldjournal.com/wj/amp/story/121368/9537936
@@ -27862,7 +27681,6 @@ var DATA_URLS = `
 2025-10-13	https://hk.on.cc/hk/bkn/cnt/news/20251013/bkn-20251013160011286-1013_00822_001.html
 2025-10-12	https://taiwanreports.com/archives/943689
 2025-10-12	https://www.hk01.com/突發/60284647/佐敦柯士甸道的士與電單車相撞-鐵騎士清醒送院
-2025-10-12	https://news.google.com/rss/articles/CBMiakFVX3lxTE5nZG5tMWtzcHdxaHhlNjZXWU5Gb1VfZHMzT0lESllDcUJ4VDMtZUVjbHBFU3VzbnQ1bmUxWWJQUTRWcnFxM3dlT3U0OGVQeTVhemVnbDNDczBENG5xcDZvcDlIN2hVSUNyVHc?oc=5
 2025-10-10	https://global.hk01.com/突发/60284309/观塘夺命车祸-励业街客货车撞毙六旬妇-61岁司机涉危驾致死被捕
 2025-10-10	https://hk.on.cc/hk/bkn/cnt/news/20251010/bkn-20251010152137803-1010_00822_001.html
 2025-10-09	https://www.arch-web.com.tw/综合新闻/車禍和住院後的更新-好萊塢的生活/122205/
@@ -28003,7 +27821,6 @@ var DATA_URLS = `
 2024-09-19	https://hk.on.cc/hk/bkn/cnt/news/20240919/bkn-20240919181342674-0919_00822_001.html
 2024-09-18	https://www.hk01.com/article/1058467?utm_source=01articlecopy&utm_medium=referral
 2024-08-28	https://www.hk01.com/article/1052017?utm_source=01articlecopy&utm_medium=referral
-2024-07-30	https://news.google.com/rss/articles/CBMibEFVX3lxTE5VaDlhY0FtUWRfWTZQVWlQcXFhYmhMamdVSzlfMHBrMFlyZ2hQNjJLVFdaWlVRcU9BY0Fma1duT19zNGs1TDZ2aURocU1GdHZxNkxIRDRlb3JBOHlrSEhFRGZMVW9ZZkNnc3ZUaw?oc=5
 2024-06-25	https://news.ttv.com.tw/news/11306250023000N
 2024-06-18	https://www.hk01.com/article/1030059?utm_source=01articlecopy&utm_medium=referral
 2024-06-11	https://www.hk01.com/article/1027632?utm_source=01articlecopy&utm_medium=referral
@@ -28129,7 +27946,6 @@ var DATA_URLS = `
 2016-07-04	https://www.setn.com/news/161160
 2015-03-12	https://news.tvb.com/en/1067656-葵涌車禍兩國泰機師亡警循多方向調查
 2026-09-26	https://news.tvbs.com.tw/sports/4027701
-2026-09-25	https://news.google.com/rss/articles/CBMiakFVX3lxTE1qSkQ4QWxORHNNSlRJRW8xYVJvUTJmcXE3RHFWbXRaa0pieE85cUlqZ21mVFQ4R1I5VVBrUlc3ZkZyZXFaVWZnbWp1dWxmaVV0U3cxWjlRVG9sR25mcmlFNnN4TW9FU05lSmc?oc=5
 2026-09-24	https://money.udn.com/money/story/5599/9774698
 2026-09-24	https://www.moomoo.com/hant/community/feed/666-117325015155098
 2026-09-22	https://www.chinesedaily.com/article/detail-706059.html
@@ -28137,7 +27953,6 @@ var DATA_URLS = `
 2026-09-22	https://businessfocus.io/article/362842/googlebook-踢走windows-微軟末日
 2026-09-22	https://www.weekendhk.com/矚目話題/人工智能-黃仁勳-科技爭議-3510415/
 2026-09-21	https://www.moomoo.com/hant/news/post/76509577
-2026-09-21	https://news.google.com/rss/articles/CBMijgFBVV95cUxQajJsT0JNOW8zUHpBd2hOQmlBN2d6VVdWdVRUN3NoS1ZoLXdiVi1FWHBmWUdEOUU3Z1l1eDNreG1CNnkwZkZvUXpLbU0tRFBOY3Q0Sk5hZmxSSlpZWjJOcXRYdEh2bE1XbmpLMUp0UGRRUHByNGdqa1U4eFdvWWRiN0RSVVJaRDNtV2dlZkN3?oc=5
 2026-09-21	https://www.chinatimes.com/realtimenews/20260921002718-260421
 2026-09-21	https://www.ctwant.com/amp/article/499029/
 2026-09-21	https://hk.finance.yahoo.com/news/再轟ai末日論-黃仁勳-毫無科學依據-嚇人不負責任-2030年世界末日機率為0-000025283.html
@@ -28220,7 +28035,6 @@ var DATA_URLS = `
 2026-08-27	https://tw.news.yahoo.com/%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E5%B0%BC%E6%B3%8A%E7%88%BE%E5%B1%B1%E6%B4%AA%E6%9C%80%E6%96%B0%E7%95%AB%E9%9D%A2%E6%9B%9D-%E5%B7%A5%E4%BA%BA40%E7%A7%92%E7%B5%95%E5%9C%B0%E9%80%83%E7%94%9F-%E6%B3%A5%E6%B5%81%E5%A6%82%E7%8C%9B%E7%8D%B8%E8%BF%BD%E8%B6%95-170006771.html
 2026-08-27	https://today.line.me/tw/v3/movie/7Nvw1gZ
 2026-08-27	https://www.wenweipo.com/a/202608/27/AP6a8f4b37e4b0c1e500265d84.html
-2026-08-27	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pSl8xRG5EcFV6MXdjMk5iNGdybVA5R29ta0lTUkZvejViNlk2ckw1RlFBMU1LX2Z3QnlsOURqdm52eTl1XzRwOEU3RDkxRUQtNU84Y3JwVXQ?oc=5
 2026-08-26	https://today.line.me/tw/v3/article/7Nvzejr
 2026-08-26	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260826/s00005/1787723311628/%E6%B6%89%E5%85%A9%E5%B9%B4%E5%89%8D%E6%A8%9F%E5%AE%9C%E6%A9%9F%E5%A0%B4%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83%E5%81%B7%E5%A4%96%E5%A5%97-%E8%8B%B1%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%81%8E%E5%A2%83%E8%A2%AB%E6%8F%90%E6%8E%A7
 2026-08-26	https://www.ettoday.net/news/20260826/3226256.htm
@@ -28238,9 +28052,7 @@ var DATA_URLS = `
 2026-08-19	https://www.am730.com.hk/article/1048364
 2026-08-19	https://www.harpersbazaar.com.hk/celebrity/movie-The-End-of-Oak-Street
 2026-08-17	https://ol.mingpao.com/ldy/showbiz/news/20260817/1786896805757/%E5%AE%89%E5%A6%AE%E4%B8%80%E5%B9%B45%E7%89%87%E6%96%B0%E4%BD%9C%E5%A4%B1%E5%88%A9-%E3%80%8A%E6%9C%AB%E4%B8%96%E6%A9%A1%E6%A8%B9%E8%A1%97%E3%80%8B%E7%BE%8E%E9%96%8B%E7%95%AB%E9%81%9C%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BF%A0%E3%80%8B
-2026-08-17	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pczFFMlVVbFk0VHhoNVR3WEtoZnktUGJjRWE3ampIRlB0dlBwX2V4Uk5SeHpMd21BRVRaY3RTa3NUVjUwTEJMZDZNLXBrRklXZnRGNm5BV0Y?oc=5
 2026-08-17	https://www.orangenews.hk/film/VSWQBxD/%E5%88%97%E5%B0%BC%E5%8F%B2%E8%91%9B%E5%BE%8C%E6%9C%AB%E6%97%A5%E5%8B%95%E4%BD%9C%E9%89%85%E7%8D%BB--%E6%9C%AB%E4%B8%96%E8%A1%8C%E8%80%85-8%E6%9C%8827%E6%97%A5%E5%A4%A7%E9%8A%80%E5%B9%95%E4%B8%8A%E6%98%A0.shtml
-2026-08-17	https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1Y1c1bGJEMTNNQXk4T2JaMmFXLVFrWEVpY29JQ2VNMFpYZEFzQXlQal81MnRMQmVwSUZJdHV0T214WElCUXNsVmRjN1pRZkRTcGpramFZeGE?oc=5
 2026-08-16	https://hk.on.cc/hk/bkn/cnt/entertainment/20260816/bkn-20260816100129928-0816_00862_001.html
 2026-08-15	https://www.bastillepost.com/hongkong/article/16568911-%E6%AE%BF%E5%A0%82%E7%B4%9A%E5%A4%A7%E5%B0%8E%E6%BC%94%E5%88%97%E5%B0%BC%E5%8F%B2%E8%91%9B%E6%9A%91%E6%9C%9F%E9%89%85%E7%8D%BB-%E5%BE%8C%E6%9C%AB%E6%97%A5%E5%8F%B2%E8%A9%A9%E5%BC%8F%E8%B6%85%E5%A4%A7
 2026-08-15	https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60380294/%E6%9C%AB%E4%B8%96%E8%A1%8C%E8%80%85-%E5%88%97%E5%B0%BC%E5%8F%B2%E8%91%9B%E8%BD%89%E6%88%B0%E5%BE%8C%E6%9C%AB%E6%97%A5%E4%B8%96%E4%BB%A3-%E7%96%AB%E7%97%87%E5%BE%8C%E5%9B%9B%E8%99%95%E7%A5%9E%E7%A7%98%E8%8D%92%E6%B6%BC%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97
@@ -28278,7 +28090,6 @@ var DATA_URLS = `
 2026-07-16	https://tw.news.yahoo.com/%E9%9F%93%E5%9C%8B%E7%91%9C%E9%81%B2%E6%9C%AA%E5%86%8D%E5%8D%94%E5%95%86-%E8%97%8D%E7%99%BD%E6%9C%AA%E4%BE%86%E5%B8%B3%E6%88%B6-666%E6%96%B9%E6%A1%88-%E6%B0%91%E7%9C%BE%E9%BB%A8%E5%9C%98%E6%AC%B2%E6%8B%9A%E4%BB%8A%E4%B8%89%E8%AE%80-232714776.html
 2026-07-16	https://renminbao.com/rmb/articles/2026/7/16/95915b.html
 2026-07-16	https://www.epochtimes.com/b5/26/7/15/n14810353.htm
-2026-07-16	https://news.google.com/rss/articles/CBMiakFVX3lxTFBxWjEzYi12VWJCU1dZZGtMNmxKWlE5NWdKSVBPWjA0ckhnRmNoSzVvblo4WVBUMXV3ODM5T1JCd0c2M2RMd1d1MFRGV1lqMnJmeFdaRU8xeWozR2c0RkJMRjFPXzZmal9kR0E?oc=5
 2026-07-16	https://vip.udn.com/vip/story/122874/9629241
 2026-07-14	https://www.blocktempo.com/dragonfly-defi-hacker-end-not-realized-2026-stolen-189-billion-annualized/
 2026-07-12	https://www.4gamers.com.tw/news/detail/80591/keepup-survival-is-free-to-keep-on-epic-games-store
@@ -28290,13 +28101,11 @@ var DATA_URLS = `
 2026-07-08	https://www.kinliu.hk/news/%E7%A4%BE%E6%9C%83/%E5%85%92%E7%AB%A5%E6%80%A7%E7%BD%AA%E8%A1%8C%E6%85%A3%E7%8A%AF%E5%86%8D%E9%82%80%E7%B4%84%E7%94%B7%E7%AB%A5%E6%80%A7%E4%BA%A4-%E9%81%ADYouTuber%E3%80%8C%E6%94%BE%E8%9B%87%E3%80%8D%E8%AA%98%E6%8D%95-28%E6%AD%B2%E7%94%B7%E5%AD%90%E6%89%BF%E8%AA%8D%E8%97%8F%E6%9C%89666%E6%AE%B5%E5%85%92%E7%AB%A5%E8%89%B2%E6%83%85%E7%89%87%E9%82%84%E6%8A%BC%E5%80%99%E5%88%A4/166944.html?id=58
 2026-07-07	https://today.line.me/tw/v3/article/3N5vamZ
 2026-07-06	https://www.stheadline.com/realtime-china/3590609/%E6%9C%AB%E4%B8%96%E5%A6%96%E8%B1%A1%E6%B2%B3%E5%8C%97%E5%BC%B5%E5%AE%B6%E5%8F%A3%E7%8F%BE%E6%81%90%E6%80%96%E7%83%8F%E9%9B%B2-%E7%9B%AE%E6%93%8A%E8%80%85%E6%84%9F%E8%A6%BA%E6%9C%83%E8%A2%AB%E5%90%83%E6%8E%89%E6%9C%89%E7%89%87
-2026-07-01	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pejJZc0hUU3B5UTl3cG01aWQtZUxuSVBBNXFkYXZTNHotaF9XR3BvNG9URmdtOFY1ZU5oWDlJSm5qS2phMGZPV2pqYUsxZ0JscDlEVkxLM2s?oc=5
 2026-06-28	https://pets.ettoday.net/news/3191459
 2026-06-26	https://cn.nytimes.com/asia-pacific/20260625/myanmar-civil-war-rebels-airstrikes/zh-hant/
 2026-06-26	https://wealth.hket.com/article/4152303/AI%E5%BC%95%E7%99%BC%E3%80%8C%E5%B0%B1%E6%A5%AD%E6%9C%AB%E6%97%A5%E3%80%8D%EF%BC%9F%E8%AB%BE%E7%8D%8E%E5%BE%97%E4%B8%BB%EF%BC%9A%E6%9C%AA%E4%BE%865%E5%B9%B4%E5%83%85%E8%BC%95%E5%BE%AE%E8%A1%9D%E6%93%8A%E3%80%80%E5%9F%BA%E5%B1%A4%E7%99%BD%E9%A0%98%E6%9C%80%E6%98%93%E8%A2%AB%E5%8F%96%E4%BB%A3%EF%BC%88%E9%99%8410%E5%A4%A7%E9%AB%98%E6%9B%BF%E4%BB%A3%E9%A2%A8%E9%9A%AA%E8%81%B7%E6%A5%AD%EF%BC%89
 2026-06-25	https://www.fx168news.com/article/美联储-1048556
 2026-06-25	https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%BB%9E%E8%AE%9A%E5%96%8A%E7%9B%AE%E6%A8%99%E5%83%B9666-%E9%80%99%E6%AA%94-%E5%96%AE%E6%9C%88%E7%8D%B2%E5%88%A9%E9%A3%86%E5%A2%9E299-%E7%8D%B2%E6%8A%95%E4%BF%A1%E5%8A%A0%E7%A2%BC1-7%E8%90%AC%E5%BC%B5-110000764.html
-2026-06-25	https://news.google.com/rss/articles/CBMiWEFVX3lxTE00WlQxektiREx0dTVoNGlPZENCelk1TGluVXF0U1pzV2ZPczRTdWE3UlNFTDBoZ0FfX1RIZGdpM0V1aWFlZEVVZGxpNF9fcUVGZTFuY2Y5RUw?oc=5
 2026-06-22	https://www.ftnn.com.tw/news/555023
 2026-06-20	https://tw.stock.yahoo.com/news/%E9%A6%96%E5%AD%A3eps%E8%A1%9D1-33%E5%85%83-pcb%E5%A4%A7%E5%BB%A0-%E7%9B%AE%E6%A8%99%E5%83%B9%E6%94%BE%E7%9C%BC666%E5%85%83-%E5%A4%96%E8%B3%87%E5%8D%BB%E5%A4%A7%E7%A0%8D2%E8%90%AC%E5%BC%B5%E5%B8%B6%E8%B5%B0132%E5%84%84%E5%85%83-115000222.html
 2026-06-20	https://www.womenshealthmag.com/tw/fitness/work-outs/a71623908/666-walking/
@@ -28319,7 +28128,6 @@ var DATA_URLS = `
 2026-06-05	https://tw.news.yahoo.com/%E8%B6%85%E5%BC%B7%E8%BD%89%E9%81%8B%E6%97%A5-%E9%8C%AF%E9%81%8E%E7%AD%89%E4%B8%8B%E8%BC%A9%E5%AD%90-%E6%98%8E%E9%80%A2%E8%B6%85%E7%BD%95%E8%A6%8B-666-%E5%A4%A7%E5%90%89%E6%97%A5-065100857.html
 2026-06-05	https://news.ltn.com.tw/news/life/breakingnews/5461604
 2026-06-05	https://tw.news.yahoo.com/0050%E5%B9%B4%E5%8C%96%E5%A0%B1%E9%85%AC113-%E7%8D%B2%E5%88%A9%E5%83%85666%E5%85%83-%E4%BB%96%E6%9B%AC%E8%B6%85%E7%8B%82%E5%B0%8D%E5%B8%B3%E5%96%AE-%E7%B6%B2-%E7%9C%8B%E6%9C%AC%E9%87%91%E7%AC%91%E5%99%B4-112300825.html
-2026-06-04	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zTVJoQUlFanBwdTRNMGY0OFZlWVVOY0kteXZFMFRFVUZ4R0U5TzAxN1Bpc3JxcEcyeVlKS3NRZ1Q3VlJtUWZtd00ta2hVMTdpbDk4YlJIR3R2OV9BUzNKV0lHWmJKdw?oc=5
 2026-06-04	https://cava.tw/lifestyle/horoscopes/265424
 2026-06-03	https://www.setn.com/news/1849547
 2026-06-03	https://www.ettoday.net/news/20260603/3176898.htm
@@ -28334,9 +28142,7 @@ var DATA_URLS = `
 2026-05-31	https://tw.stock.yahoo.com/news/%E3%80%90%E7%BE%A4%E5%89%B550%E5%85%832%E3%80%91%E6%B4%AA%E9%80%B2%E6%8F%9A%E3%80%8C666%E8%97%8D%E5%9C%96%E3%80%8D%E7%99%BC%E5%A8%81%EF%BC%81%E8%B2%B7%E9%80%B2%E7%BE%A4%E5%89%B5%E8%BA%AB%E5%BF%83%E8%88%92%E6%9A%A2%E5%96%AE%E5%91%A8%E6%9A%B4%E5%A2%9E%E9%80%BE16%E8%90%AC%E8%82%A1%E6%B0%91%E8%BF%BD%E9%9A%A8-010550044.html
 2026-05-29	https://www.cw.com.tw/article/5141029
 2026-05-28	https://www.bastillepost.com/hongkong/article/16071036-%E7%AB%8B%E5%A8%81%E5%BB%89%E5%9B%A1%E5%9B%A1%E9%81%AD%E5%82%B3%E6%9F%93%E7%94%B2%E6%B5%81%E9%AB%98%E7%87%9240-2%E5%BA%A6-%E6%A5%B5%E7%BD%95%E6%92%B0%E6%96%87%E6%80%92%E8%BD%9F%E8%87%AA%E7%A7%81
-2026-05-26	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UT0xIbWxDYzRDb0MzeXBobFZqQy0xajM4TmNza3MyYmIzUm5UWTJ0R2xSVDl3WHJSb0xoaWF4eUNtR3JWWThNU2tXR2RMXy1jWHVJeW9idWk?oc=5
 2026-05-26	https://money.udn.com/money/story/5599/9527007
-2026-05-24	https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NEhERzZ0WERhdWR3QzNEMEcwbFJ0TlBDMDZpbGIxU2UtUEViLVhDeXpld2Q5TDJZXzlIS0NDdk9Ib3hLZjVlWFV6dmowdmswcHRzVlNlbG0?oc=5
 2026-05-19	https://www.cool-style.com.tw/wd2/archives/1302379-%E6%AD%90%E7%BE%8E%E7%88%86%E7%B4%85%E7%9A%84%E3%80%8Cai-%E7%81%BD%E9%9B%A3%E7%89%87%E3%80%8D%EF%BC%81harry-styles%E3%80%88sign-of-time%E3%80%89%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%B0%88
 2026-05-16	https://www.mirrormedia.mg/story/20260512ent015
 2026-05-15	https://orientaldaily.on.cc/content/%E5%A8%9B%E6%A8%82/odn-20260515-0515_00282_001/%E7%8D%A8%E5%AE%B6%E8%A8%AA%E5%95%8F%EF%BC%9A%E5%8A%87%E8%BF%B7%E5%A4%A7%E5%8F%97%E6%89%93%E6%93%8A%EF%BC%9A%E7%B0%A1%E7%9B%B4%E4%BF%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%EF%BC%81-%E5%85%A8%E5%9F%8E%E9%9B%A3%E6%8D%A8%E3%80%8A%E6%84%9B%EF%BC%8E%E5%9B%9E%E5%AE%B6%E3%80%8B-%E5%8A%89%E4%B8%B9%E8%99%9F%E5%8F%AC%F0%A2%B1%91%E6%92%88%E9%87%8D%E8%81%9A
@@ -28351,11 +28157,9 @@ var DATA_URLS = `
 2026-05-03	https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60345552/%E6%92%88%E5%BA%95-%E8%B4%8F%E5%AE%B6-%E5%8C%97%E8%A7%92%E7%B6%AD%E5%B3%B0-%E6%B5%9A%E5%8C%AF%E4%B8%80%E6%88%BF666%E8%90%AC%E6%B2%BD-%E9%80%BE%E4%B8%80%E5%B9%B4%E5%8D%87%E5%80%BC33-%E6%9C%89%E5%9C%96
 2026-05-01	https://today.line.me/tw/v3/article/rmQYQow
 2026-04-30	https://www.cna.com.tw/news/acul/202604300341.aspx
-2026-04-30	https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NcFdWX29mN182T1FxMndnZkNNOHJvTWg3S1JpWEk2VzFCYmxRbmI1aDRTQk5BdUlxMm02bjRaalp2eTh1OWxITmJHVU02MG9Mc0luRDZDbw?oc=5
 2026-04-27	https://gamelife.tw/pc/%E6%96%B0%E4%BD%9C%E5%8B%95%E4%BD%9C-rpg%E3%80%8A%E7%AC%91%E6%8B%89%E4%BA%86%EF%BC%8C%E6%88%91%E5%AE%B6%E6%97%81%E9%82%8A%E6%98%AF%E9%AD%94%E7%8E%8B%E5%9F%8E-666%E3%80%8Bsteam-%E7%89%88%E9%A0%90/
 2026-04-25	https://tw.stock.yahoo.com/news/%E8%8A%B1%E6%97%97%E7%9B%AE%E6%A8%99%E5%83%B9%E4%B8%8A%E7%9C%8B666%E5%85%83-pcb%E5%A4%A7%E5%BB%A0-%E5%A4%A7%E5%90%83%E4%BC%BA%E6%9C%8D%E5%99%A8-%E8%A8%98%E6%86%B6%E9%AB%94%E9%9B%99%E7%B4%85%E5%88%A9-%E8%82%A1%E5%83%B9%E9%80%B1%E6%BC%B216-055000858.html
 2026-04-25	https://www.aboluowang.com/amp/2026/0425/2376357.html
-2026-04-25	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HSWdybXg3ZlBJa2RkWFdTU1pRbmFBTVFRMjd5d2lWYmozNk9mLTdsUTFXbFh6c0x6d29zbTJvRmtoWnd2NlBya25JSHMycFFCYlB5Y054eFY?oc=5
 2026-04-23	https://www.voguehk.com/zh/article/fashion/uma-wang-somad-interview-2026-april-issue/
 2026-04-23	https://topick.hket.com/article/4118458/%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%EF%BD%9CNASA%E9%A0%90%E8%AD%A6%E5%9C%B0%E7%90%83%E6%9C%AB%E6%97%A5%E6%8F%90%E6%97%A940%E5%84%84%E5%B9%B4%E3%80%80%E6%8F%AD%E4%BA%BA%E9%A1%9E%E6%9C%83%E7%BC%BA%E6%B0%A7%E6%BB%85%E7%B5%95%EF%BC%9A%E5%83%85%E9%A4%981%E7%89%A9%E7%A8%AE%E7%94%9F%E9%82%84
 2026-04-20	https://today.line.me/tw/v3/article/qoz9nam
@@ -28372,7 +28176,6 @@ var DATA_URLS = `
 2026-03-15	https://www.thenewslens.com/article/265529
 2026-03-13	https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60330092/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B5%B7%E7%81%98%E9%A9%9A%E7%8F%BE9%E7%B1%B3%E9%95%B7%E5%9C%B0%E9%9C%87%E9%AD%9A-%E8%A9%AD%E7%95%B0%E7%95%AB%E9%9D%A2%E6%B0%91%E7%9C%BE%E7%9B%B4%E5%91%BC-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E8%BF%91%E4%BA%86
 2026-03-09	https://tw.news.yahoo.com/%E5%85%8B%E5%AE%AE%E8%AD%A6%E5%91%8A-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%B0%87%E8%87%B3-%E6%99%AE%E4%B8%81%E7%99%BC%E8%A8%80%E4%BA%BA%E7%97%9B%E6%89%B9-%E5%9C%8B%E9%9A%9B%E6%B3%95%E5%B7%B2%E5%B4%A9%E6%BD%B0-221000617.html
-2026-03-07	https://www.epochtimes.com/b5/26/3/7/n14713277.htm
 2026-03-07	https://www.ntdtv.com/b5/2026/03/07/a104073860.html
 2026-03-04	https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327108/%E9%AB%98%E7%9B%9B-ai%E6%AF%8F%E5%B9%B4%E6%81%90%E5%8F%96%E4%BB%A3%E8%B6%85400%E8%90%AC%E5%B4%97%E4%BD%8D-%E4%BD%86%E4%B8%8D%E6%9C%83%E5%BC%95%E7%99%BC-%E5%B0%B1%E6%A5%AD%E6%9C%AB%E6%97%A5
 2026-02-27	https://tech.ifeng.com/c/8r5UKl48KTp
@@ -28391,19 +28194,14 @@ var DATA_URLS = `
 2026-01-02	https://city.gvm.com.tw/article/127106
 2026-01-02	https://tw.news.yahoo.com/2026%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B6%E9%A0%90%E8%A8%80-%E4%BA%BA%E9%A1%9E%E8%A2%AB%E6%93%A0%E6%AD%BB-045953024.html
 2026-01-01	https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/45-daniel/454-daniel-6?lang=zho
-2025-12-30	https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QakZJVGUyQ3F5cUhzQzVEaWVnMEdlNGM3UUpNZFk0WEZ0Q0VLcDZpM1J0NU5YNEtuTVlMcG82RGN1bmFqeDhDN1BPblk0WGRWMllSbERrMHV3V28?oc=5
 2025-12-10	https://www.ntdtv.com/b5/2025/12/10/a104045700.html
 2025-11-24	https://stars.udn.com/star/story/10091/9158930
 2025-11-03	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60290974/%E7%8E%8B%E5%90%9B%E9%A6%A8-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E8%AB%96-9%E6%9C%8823%E6%97%A5%E5%AF%A9%E5%88%A4%E5%B7%B2%E9%81%8E-%E8%80%B6%E7%A9%8C%E4%BD%A2%E8%A9%B1%E6%9C%83%E9%9A%A8%E6%99%82%E8%BF%94%E5%9A%9F
-2025-11-02	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2MS1rUjVpUHhNZnd4cTJpZEJZRVJ3VmxwOUNKbmo4WVM5ZjZWb0hyMnItekhYbVU2WnJMeUpvVDN4SE1iMGdzWDZUb05uV0JEU3N6SnAxbFhOXzRVVktuc25aZ2FQZU0?oc=5
 2025-10-11	https://www.bbc.com/zhongwen/articles/ce3yd5eeeyvo/trad
 2025-09-09	https://www.mk.co.kr/cn/society/11414311
-2025-06-18	https://news.google.com/rss/articles/CBMiakFVX3lxTE4xTTNza0NsNWlESXlMSFZyVGtXOFlJUHJES0U3ekYxWmFyS1l0dXJQX2FleFUxRERLOXVkeG5hRHgzcHhwVDFPLVJYSXF5MEFJWHF6WldfdmstbVM2cDQtRUFIUnhLRm1rUmc?oc=5
-2025-06-18	https://news.google.com/rss/articles/CBMiakFVX3lxTFBUNl9oMTh1cU9qdENTbVpzUHpXUWVWRkZpaXVoaFhMYkVPZFRjVVJDVlE3RkJiMVFxVS12Tk4taG4zcG4xYzZIWHhGaEVhX3NTRDlDT2tSY3BYZy1TSnEwQ3gyZkx0dDhYd2c?oc=5
 2025-03-24	https://www.hk01.com/article/60222860?utm_source=01articlecopy&utm_medium=referral
 2025-02-11	https://tw.news.yahoo.com/%E9%9B%81%E9%BB%98%E5%B0%88%E6%AC%84-%E9%97%9C%E7%A8%85%E5%A4%A7%E6%A3%92%E7%9A%84%E6%9C%AC%E8%B3%AA-%E8%88%87%E5%8F%B0%E8%82%A1%E7%9A%84%E6%9C%AB%E6%97%A5-065801548.html
 2024-10-09	http://www.hk01.com/article/1064583?utm_source=01articlecopy&utm_medium=referral
-2024-09-11	https://news.google.com/rss/articles/CBMia0FVX3lxTE5mZVFFS0J5U2kyYzJqMlU3NE9yZHUyVFdHVXI2aE1JRW9pNXJaRnREb1p2N0lOQVpXR1MwbzJEZGZnWEdicUptRzV1SzQ2dG1tLTFLZU55QXlIREoxX0Y0ZFNxcmdteF9UN3dz?oc=5
 2024-07-22	https://www.setn.com/news/1502943
 2024-06-12	https://hk.ulifestyle.com.hk/activity/detail/20034919/%E5%B1%AF%E9%96%80%E5%AE%89%E5%AE%9A%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%B5%90%E6%A5%AD%E8%87%B36%E6%9C%88%E4%B8%AD-%E8%A1%97%E5%9D%8A%E7%97%9B%E5%A4%B124%E5%B0%8F%E6%99%82%E9%BA%A5%E8%A8%98%E5%91%BB%E5%A6%82-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5/2
 2024-04-25	https://tw.stock.yahoo.com/news/%E9%A6%99%E6%B8%AF%E5%B7%B2%E7%8E%A9%E5%AE%8C-%E5%89%B5%E6%A5%AD%E6%9D%BF%E6%BC%B8%E6%BC%B8%E6%AD%B8%E9%9B%B6-%E8%AC%9D%E9%87%91%E6%B2%B3-%E6%9C%89%E9%BB%9E%E6%9C%AB%E6%97%A5%E6%99%AF%E8%B1%A1-024000339.html
@@ -28415,32 +28213,24 @@ var DATA_URLS = `
 2022-12-28	https://www.eettaiwan.com/20221228nt61-tesla-shanghai-factory-shutdown%E5%95%9F%E7%A4%BA%E9%8C%84/
 2022-12-12	https://ent.ltn.com.tw/news/breakingnews/4152725
 2022-12-09	https://tw.news.yahoo.com/%E8%91%A1%E8%90%84%E7%89%99%E9%87%8C%E6%96%AF%E6%9C%AC%E6%B4%AA%E6%B0%B4%E6%B3%9B%E6%BF%AB%E6%88%90%E7%81%BD-%E5%B1%85%E6%B0%91-%E5%83%8F%E6%9C%AB%E6%97%A5-020929809.html
-2022-11-27	https://news.google.com/rss/articles/CBMiakFVX3lxTE50eTVLR1Nmd2QyTG84OS04b2pVR0tLQlJ0YUYwNkhRSVVhQVJpcGJNcGFENU92MnVHRHAzNmphaUY5dzhfRk1UNjRPN095ZXBCbHBpbmdZVktUTEIyWkRIYWNZQ0t2YnluTnc?oc=5
 2022-11-20	https://www.hk01.com/article/838388?utm_source=01articlecopy&utm_medium=referral
 2022-10-21	https://www.hk01.com/article/827823?utm_source=01articlecopy&utm_medium=referral
-2022-10-03	https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ec2JmMmV0bTJGS2NuQ3ZlVGctY05aWTZtQlRyYkRKUHhUaHZObW1aQ2U5bXFkSWhzU0J5bWVBdEpaUVlrOWFtaDAxNnhpTDdIc2ZUR0tSRnRJdm1oQjB6ZzIxM0hzZFVtcUE?oc=5
 2022-09-08	https://tw.news.yahoo.com/%E7%91%9E%E5%A3%AB%E5%86%B0%E5%B7%9D%E6%9C%AB%E6%97%A5%E5%80%92%E6%95%B8-%E6%AD%90%E7%9B%9F-%E6%96%B7%E6%B0%A3-%E5%BE%8C-%E9%80%A3%E6%B0%B4%E9%83%BD%E6%B2%92%E5%BE%97%E5%96%9D-100000129.html
 2022-09-07	https://tw.news.yahoo.com/%E9%9D%9E%E6%B4%B2%E4%B9%BE%E6%97%B1%E6%81%90%E7%88%86%E4%B8%96%E7%B4%80%E9%A3%A2%E8%8D%92-%E5%8D%97%E6%A5%B5-%E6%9C%AB%E6%97%A5%E5%86%B0%E5%B7%9D-%E5%BF%AB%E8%9E%8D%E8%A3%82-140915547.html
 2022-09-07	https://udn.com/news/story/6809/6595050?from=udn-ch1_breaknews-1-0-news
 2022-09-06	https://newtalk.tw/news/view/2022-09-06/812740
 2022-09-05	https://www.worldjournal.com/wj/story/121257/6591926
-2022-01-07	https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkswLVNxaFh2MXRLaHdwS1VVc0NVRVE5TzNQWTZPeC1ZTHdidnVzUDZ3Q3ROVnRSeEtua2FyOXJrLWNBcjM2QWVpR1dfU2tyNEVrRGo1cmZhcm5UajNYdHZQN1hKQ041U21RLVFPMHlnc2xiZDBYSUh6OUhkWlFwU3FsY3JBYURCUlpWVzNn?oc=5
 2021-10-14	https://www.thenewslens.com/article/157146
 2021-09-27	https://www.secretchina.com/news/b5/2021/09/27/983772.html
-2021-08-20	https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM08xT2dVbzRSLUdOcGZCR3FseGVkbGJ5ZTdDdzd6RDJreVBxLVJ3ZHFWMjRpcXQtbUVPX3NiOFVWV0FGSjZmMVI4ZjEtcmN5VDNhdmZFUWxVYThJOEdTeVF4b0xmUGV0T1RrZ1JWQmdZWmJlSi1XRTFNTDhXSXpuN2NKU2h4UE1mZXh4bEExeGE4T2duRHowZFVnVllOdF9KXzdHWG9zYi0zaXlwY2xZal9HblZKWW9RcmFv?oc=5
 2021-06-16	https://www.setn.com/news/954712
-2021-05-26	https://news.google.com/rss/articles/CBMiakFVX3lxTFBpU2pMM1FlcmlVbTNvaW1qTDA4NTdLVmJzMXJObWp4SXpHUkVDTkxnOWhmNEN1UDZqVGxhbUg1b3JBSWJtdV9mUEpoNGh3cndHLVZQVDVpelRiMWZzWmJ4RENjd3FTdjNTNVE?oc=5
 2021-01-01	https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/45?lang=zho
 2020-08-26	https://news.ltn.com.tw/news/world/breakingnews/3272482
 2020-08-26	https://hk.epochtimes.com/news/2020-08-26/57843845
 2020-08-26	https://www.soundofhope.org/post/415423?lang=b5
-2020-08-24	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEVUhTWnJkdllsV0ZZOUdIV1ZMUXZDZENBa3RTTmlVaXB5UFdDeXcxSHQ3blVST29Sb3NuanNzRndpNmI5N3VGN0ZKTFBIbWtoLVZxNVIwLWZNNV9TUldtZg?oc=5
 2020-08-24	https://www.epochtimes.com/b5/20/8/24/n12353478.htm
 2020-07-03	https://www.epochtimes.com/b5/20/7/3/n12229948.htm
 2020-02-24	https://www.setn.com/news/695487
-2019-05-24	https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZm9GZ2lYZmhON2xYTDVldk05eUg1WW4wNlI2eEFOTTRWMWhmSlhLbmx0TE55OTZXMlhRbWRkbk1TQm1sN1dUa09ycXVWVENaV2JJLW9yd2c5MVJuWEN6aldVYmlCWHlTUTBGYkF0emZ1MnJoRW1wVGd6WUdHLVV5OXdWX3dqc21abzQ3N3pkLXlnTGpjMHAtc20yM2F3cUtPSVZSQWpYZ2Z5dmw1ejVsUGZSZW5vTTZJR25Z?oc=5
 2018-09-10	https://www.epochtimes.com/b5/18/9/10/n10703645.htm
 2018-06-16	https://www.setn.com/news/392854
-2018-05-20	https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3Y5dlBBOVp1RVVNX293OVAwMTJXbEljejBkTlBXMkpkU0h1UDd2QmpmMW1NYWVuZXZ2eDV5bHZmYS1WZkNSOVRjenEwWmRXckRmbVJob1hrcUVFSTlMbDhIRGMyXzdGQTZ5RkRtNzNLMm5IbXM1MHd6SHduMU1FZXVvSWZoclN2NW9LWjFnSzYyZFlSNGdzS1JvOFRrNHhsWnhMNWhMQU5lSjJzUHdoQ2JrMTc4Zw?oc=5
 2017-01-05	https://www.setn.com/news/213705
 `;
