@@ -1,4 +1,4 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 505 條
+// AI安全 | 由 build_news_js.py 生成 | 共 503 條
 var DATA_AI_SAFETY = `
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://tchina.kyodonews.net/articles/-/14296	未分類
 2026-10-01	惡意軟件 CloudSyncD 以 Zoom 安裝程式為掩護進行資訊竊取	https://www.techritual.com/2026/10/01/587285/	未分類
@@ -117,7 +117,6 @@ var DATA_AI_SAFETY = `
 2026-08-26	網絡安全｜挪威遭大規模DDoS攻擊10項公共服務癱瘓	https://inews.hket.com/article/4182867/網絡安全｜挪威遭大規模DDoS攻擊 10項公共服務癱瘓	未分類
 2026-08-26	網絡安全威脅升級善用AI加強防禦 - 今日大公	https://epaper.tkww.hk/a/202608/26/AP6a8dfa2be4b099d2ba495fd5.html	未分類
 2026-08-26	周宇平觀點：當駭客開始攻擊水廠與電廠， 公務設施與科技產業不能只靠防火牆	https://www.storm.mg/article/11158865	未分類
-2026-08-26	中國車載娛樂系統遭黑客入侵植入惡意軟體：尚無證據能遠端控制電動汽車	https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tSFg1LV9WNGVmR1hWWTFCN3dYbzMtRW9mMWNRZGJtakxNRnJVeGpBRXFid3dPaC02aGxkVWxrTXgzR1RwYW5DLWVBVXo5VU03YUtRWms2YW9fSzJldXJNZlR0Q0JDdmVR?oc=5	未分類
 2026-08-26	《GTA6》外流駭客呼籲玩家前往Rockstar 辦公室抗議目前真的只有一人響應- 股市爆料同學會	https://www.cmoney.tw/forum/article/183197529	未分類
 2026-08-25	駭客已取得「可遊玩」版本？《GTA6》外流事件可能比預期還要更嚴重	https://tw.news.yahoo.com/駭客已取得-可遊玩-版本-gta6-外流事件可能比預期還要更嚴重-062800674.html	未分類
 2026-08-25	研究：中共駭客利用DeepSeek增強攻擊能力	https://www.epochtimes.com/b5/26/8/24/n14836019.htm/amp	未分類
@@ -286,7 +285,6 @@ var DATA_AI_SAFETY = `
 2026-07-22	結好旗下證券及期貨系統周日遭受網絡攻擊今早證券系統 ...	https://finance.mingpao.com/fin/instantf/20260722/1784728438187/結好旗下證券及期貨系統周日遭受網絡攻擊-今早證券系統恢復交易	未分類
 2026-07-22	結好控股子企伺服器遭網絡攻擊 已於今早恢復運作	https://hk.on.cc/hk/bkn/cnt/finance/20260722/bkn-20260722230136583-0722_00842_001.html	未分類
 2026-07-22	結好伺服器遭網絡攻擊 期貨電子交易仍未恢復	https://www.hkej.com/instantnews/announcement/article/4463491/%25E7%25B5%2590%25E5%25A5%25BD%25E4%25BC%25BA%25E6%259C%258D%25E5%2599%25A8%25E9%2581%25AD%25E7%25B6%25B2%25E7%25B5%25A1%25E6%2594%25BB%25E6%2593%258A-%25E6%259C%259F%25E8%25B2%25A8%25E9%259B%25BB%25E5%25AD%2590%25E4%25BA%25A4%25E6%2598%2593%25E4%25BB%258D%25E6%259C%25AA%25E6%2581%25A2%25E5%25BE%25A9	未分類
-2026-07-22	日本冷凍食品製造商日冷受網絡攻擊 俄羅斯黑客組織承認犯案	https://news.google.com/rss/articles/CBMibEFVX3lxTE8zTjVQQm9JRmRPUHhpeTNWMXpQTTFNT3o3MExrRHA4QmU2VXpOUzJiNFFmeWxLQ3k1LWMtZGpKbVZXbElPM09mOXJhaW9WYmFzblVEa1prTWFTdkFld1Nyemh4MEtPbjBjVEVVSg?oc=5	未分類
 2026-07-22	俄系駭客組織認領對日冷的網路攻擊	https://tchina.kyodonews.net/articles/-/11129	未分類
 2026-07-22	中共網絡攻擊威脅全球台美積極協商攜手對抗| AI | 滲透| 駭客	https://www.ntdtv.com/b5/2026/07/21/a104117539.html	未分類
 2026-07-22	【網絡安全】結好自爆伺服器遭網絡攻擊、期貨電子交易尚未恢復 未有證據顯示資料被誤用	https://inews.hket.com/article/4165033/%E3%80%90%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8%E3%80%91%E7%B5%90%E5%A5%BD%E8%87%AA%E7%88%86%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E3%80%81%E6%9C%9F%E8%B2%A8%E9%9B%BB%E5%AD%90%E4%BA%A4%E6%98%93%E5%B0%9A%E6%9C%AA%E6%81%A2%E5%BE%A9%E3%80%80%E6%9C%AA%E6%9C%89%E8%AD%89%E6%93%9A%E9%A1%AF%E7%A4%BA%E8%B3%87%E6%96%99%E8%A2%AB%E8%AA%A4%E7%94%A8	未分類
