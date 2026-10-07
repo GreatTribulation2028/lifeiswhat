@@ -1,4 +1,4 @@
-// 宗教 | 由 build_news_js.py 生成 | 共 140 條
+// 宗教 | 由 build_news_js.py 生成 | 共 142 條
 var DATA_RELIGION = `
 2026-09-30	宗教詐騙披靈性外衣 資深媒體人揭警訊辨識邪教pua	https://www.mirrormedia.mg/story/20260930-171soc-105447	未分類
 2026-09-30	一名錫安教會被捕牧師妻子的流亡、煎熬與信仰- 紐約時報中文網	https://cn.nytimes.com/china/20260929/china-zion-church-pastor-detained-family/zh-hant/	未分類
@@ -121,6 +121,7 @@ var DATA_RELIGION = `
 2025-08-07	台中某教會工地傳意外！34歲工人「工程梯上墜落」 送醫搶救仍死亡	https://www.setn.com/news/1700715	未分類
 2025-05-05	特朗普批犯罪分子荼毒美國太久 擬重啟「惡魔島」囚最暴力罪犯	https://www.hk01.com/article/60235479?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-04-30	教廷秘密會議5/7登場 教宗選舉背後如何上演教會權勢之爭？	https://news.pts.org.tw/article/748985	未分類
+2025-04-22	12世紀「教宗預言」🔮指方濟各是最後教宗？準確預言史上74位教宗✅｜預視世界末日20XX年來臨? - 東張+	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/15118232074762/%E7%94%9F%E6%B4%BB-12%E4%B8%96%E7%B4%80-%E6%95%99%E5%AE%97%E9%A0%90%E8%A8%80--%E6%8C%87%E6%96%B9%E6%BF%9F%E5%90%84%E6%98%AF%E6%9C%80%E5%BE%8C%E6%95%99%E5%AE%97-%E6%BA%96%E7%A2%BA%E9%A0%90%E8%A8%80%E5%8F%B2%E4%B8%8A74%E4%BD%8D%E6%95%99%E5%AE%97--%E9%A0%90%E8%A6%96%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A520XX%E5%B9%B4%E4%BE%86%E8%87%A8-	未分類
 2025-02-13	公安部整治邪教 嚴厲打擊藉「靈修」等名義從事非法培訓活動	https://www.hk01.com/article/1103041?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-01-17	浙江再拆十字架 三自教會分裂 | 鄒思聰 | 風生活	https://www.storm.mg/lifestyle/38771	未分類
 2024-11-25	教派衝突釀至少82死 政府調停達成停火7天	http://hk.on.cc/hk/bkn/cnt/intnews/20241125/bkn-20241125060525253-1125_00992_001.html	未分類
@@ -140,4 +141,5 @@ var DATA_RELIGION = `
 2017-07-25	一夫25妻屬宗教自由？加拿大法院說「不」	https://www.dw.com/zh-hant/%E4%B8%80%E5%A4%AB25%E5%A6%BB%E5%B1%AC%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B3%95%E9%99%A2%E8%AA%AA%E4%B8%8D/a-39823065	未分類
 2017-02-03	「旅行禁令」遭批川普辯：為確保美國宗教自由| 國際	https://www.setn.com/news/221453	未分類
 2017-01-26	挺同、反同長老教會意見分歧 總會書記：若教會分裂，會有很大傷害 | 謝珮琪 | 新聞	https://www.storm.mg/article/217221	未分類
+2016-02-13	分裂千年破冰教宗會俄東正教大主教- 2016年02月13日	https://news.pts.org.tw/article/316774	未分類
 `;
