@@ -1,5 +1,10 @@
-// 意外 | 由 build_news_js.py 生成 | 共 928 條
+// 意外 | 由 build_news_js.py 生成 | 共 947 條
 var DATA_ACCIDENT = `
+2026-10-07	興達電廠爆炸竟是「裝錯墊片」害的 未依流程施工3人10萬交保	https://www.ettoday.net/news/20261007/3250372.htm	未分類
+2026-10-07	興達電廠爆炸竟因「裝錯墊片」 台電：機組已修復、依法求償	https://www.ettoday.net/news/20261007/3250632.htm	未分類
+2026-10-07	興達電廠爆炸真相曝光！檢追出中鼎「臨時墊片充數」3嫌10萬交保	https://news.ltn.com.tw/news/society/breakingnews/5597948	未分類
+2026-10-07	朝鮮稱地雷爆炸事件是韓方重大挑釁	https://news.rthk.hk/rthk/ch/component/k2/1872933-20261007.htm	未分類
+2026-10-07	16歲男生朗屏邨高處墮下亡	https://hk.on.cc/hk/bkn/cnt/news/20190315/bkn-20190315065002550-0315_00822_001.html	未分類
 2026-10-01	老翁二度跌倒眼角流血還想硬撐走 警耐心勸導擦藥送返家	https://news.ltn.com.tw/news/society/breakingnews/5591695	未分類
 2026-10-01	宜蘭農婦「種菜失足踩空」墜70米懸崖 卡山壁2小時奇蹟獲救	https://www.ettoday.net/news/20261001/3247038.htm	未分類
 2026-09-30	據了解警方國安處拘兩人涉散播煽動訊息 包括網媒「爆炸頭」成員	https://news.rthk.hk/rthk/ch/component/k2/1872110-20260930.htm	未分類
@@ -75,6 +80,7 @@ var DATA_ACCIDENT = `
 2026-08-27	油麻地女子高處墮下 當場殞命	https://hk.on.cc/hk/bkn/cnt/news/20260827/bkn-20260827061959492-0827_00822_001.html	未分類
 2026-08-27	將軍澳舢舨六旬漁民被雷電擊中 昏迷送院不治 將軍澳有漁民被雷電擊中死亡。今日(27日)早上9時14分，紅色暴雨警告信號及雷暴警告仍然生效期間，將軍澳海濱長廊對開約5...	http://hk.on.cc/hk/bkn/cnt/news/20260827/mobile/bkn-20260827094343451-0827_00822_001.html?editorpickDate=20260828&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	未分類
 2026-08-27	土瓜灣翔龍灣會所男童手被困保齡球機 消防助脫困送院	https://www.hk01.com/突發/60384178/土瓜灣翔龍灣會所男童手被困保齡球機-消防助脫困送院	未分類
+2026-08-26	移工職業災害重大傷病縣府及時慰問金助力	https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xcWhvcDBaNFJ0YTIyekhUNmpyYWtqay0xTUlscHlWYW1QUGpFU1lucFlpTzNpN3g4VDhmZW1YcW9EUjZveWloc3lB?oc=5	未分類
 2026-08-26	南投縣府9月開辦「職安卡」訓練全面防範職業災害	https://news.pchome.com.tw/society/news586/20260826/index-78774644071220290002.html	未分類
 2026-08-25	本港今年至今發生15宗致命工業意外 建造業界稱行內存在趕工文化	https://www.orangenews.hk/hongkong/VTHqqo8/%E6%9C%AC%E6%B8%AF%E4%BB%8A%E5%B9%B4%E8%87%B3%E4%BB%8A%E7%99%BC%E7%94%9F15%E5%AE%97%E8%87%B4%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%BB%BA%E9%80%A0%E6%A5%AD%E7%95%8C%E7%A8%B1%E8%A1%8C%E5%85%A7%E5%AD%98%E5%9C%A8%E8%B6%95%E5%B7%A5%E6%96%87%E5%8C%96.shtml	未分類
 2026-08-25	夫妻觸電驟逝！留倆兄弟背210萬債務 銀行暖心全免助其保住房子	https://www.nownews.com/news/6869066	未分類
@@ -200,6 +206,7 @@ var DATA_ACCIDENT = `
 2026-07-02	何文田奪命工傷│挖泥機翻側壓斃男雜工 家屬傷心認屍	https://std.stheadline.com/breaking-news/3589172/何文田奪命工傷挖泥機翻側壓斃男雜工-家屬傷心認屍	未分類
 2026-07-01	西安賽格商場店家墜亡傳遭逼死 民眾場外唱國歌示威爆衝突︱有片	https://www.singtao.ca/7553289/2026-07-01/news-西安賽格商場店家墜亡傳遭逼死++民眾場外唱國歌示威爆衝突︱有片/	未分類
 2026-06-30	何文田地盤挖泥車翻則 鐵通壓斃40歲男工 機手受傷	https://www.am730.com.hk/article/1038863	未分類
+2026-06-29	恒地：十分重視何文田地盤工業意外	https://news.now.com/home/local/player?newsId=652688	未分類
 2026-06-29	何文田地盤致命工業意外 勞工處已向承建商發「暫時停工通知書」	https://news.rthk.hk/rthk/ch/component/k2/1860405-20260629.htm	未分類
 2026-06-29	上半年13宗致命工業意外建總怒轟施工監管制度有極大漏洞- 港聞	https://www.dotdotnews.com/a/202606/29/AP6a4237cee4b04b6c5d31d3f0.html	未分類
 2026-06-28	台中蝴蝶谷步道落石意外奪4命 檢相驗研判落石滾落致創傷性休克屬意外死亡	https://tw.news.yahoo.com/台中蝴蝶谷步道落石意外奪4命-檢相驗研判落石滾落致創傷性休克屬意外死亡-023859225.html	未分類
@@ -347,6 +354,7 @@ var DATA_ACCIDENT = `
 2026-04-24	加州富豪在加蓬狩獵遭象群壓斃身亡	https://www.singtaousa.com/2026/04/24/news/usa/rich-american-hunting-fever-oil-dies-after-being-crushed-by-elephants-in-gabon/	未分類
 2026-04-23	美國西弗吉尼亞州銀回收工廠化學品洩漏 致2死19人送院	https://www.orangenews.hk/international/VHaAVtw/美國西弗吉尼亞州銀回收工廠化學品洩漏-致2死19人送院.shtml	未分類
 2026-04-23	工業意外｜啟德醫院工人遭壓斃 勞工處向承建商發「暫時停工通知書」	https://www.am730.com.hk/article/1026637	未分類
+2026-04-23	工業意外｜啟德醫院2期地盤工人遭工程組件壓斃	https://hk.epochtimes.com/news/2026-04-23/16872385	未分類
 2026-04-23	啟德醫院地盤被壓斃男雜工 轉地盤工作兩日遇上致命意外	https://hk.on.cc/hk/bkn/cnt/news/20260423/bkn-20260423120458910-0423_00822_001.html	未分類
 2026-04-23	啟德醫院地盤意外｜遺屬頓失支柱 嘆「少咗一人搵食好困難」 勞工處：全速調查	https://www.stheadline.com/breaking-news/3565091/%E5%95%9F%E5%BE%B7%E9%86%AB%E9%99%A2%E5%9C%B0%E7%9B%A4%E6%84%8F%E5%A4%96%E9%81%BA%E5%B1%AC%E9%A0%93%E5%A4%B1%E6%94%AF%E6%9F%B1-%E5%98%86%E5%B0%91%E5%92%97%E4%B8%80%E4%BA%BA%E6%90%B5%E9%A3%9F%E5%A5%BD%E5%9B%B0%E9%9B%A3-%E5%8B%9E%E5%B7%A5%E8%99%95%E5%85%A8%E9%80%9F%E8%AA%BF%E6%9F%A5	未分類
 2026-04-23	啟德醫院2期地盤致命工業意外 59歲男工人遭1噸組裝件壓斃	https://www.orangenews.hk/hongkong/VHZOsWG/啟德醫院2期地盤致命工業意外-59歲男工人遭1噸組裝件壓斃.shtml	未分類
@@ -535,6 +543,7 @@ var DATA_ACCIDENT = `
 2026-01-20	內蒙古包鋼工廠爆炸釀9死1失聯 國務院安委會掛牌督辦（第二版）	https://china.hket.com/article/4070638/內蒙古包鋼工廠爆炸釀9死1失聯 國務院安委會掛牌督辦（第二版）?mtc=20023	未分類
 2026-01-19	包鋼廠區爆炸已致2死8失聯84傷	https://www.hkcd.com.hk/hkcdweb/content/2026/01/19/content_8736065.html	未分類
 2026-01-19	內蒙古包鋼廠爆炸 「蕈狀雲」衝天釀2死8失聯	https://news.ebc.net.tw/news/world/533310	未分類
+2026-01-18	5日4宗工業意外 孫玉菡：短期內有大型執法行動	https://www.wenweipo.com/a/202601/18/AP696bf34ce4b04d7d56cf13d5.html	未分類
 2026-01-17	香港政府新聞網- 高度關注接連三宗致命工業意外	https://www.news.gov.hk/chi/2026/01/20260117/20260117_195438_872.html	未分類
 2026-01-17	孫玉菡稱高度關注近期致命工業意外 短時間內進行大型執法行動	https://news.rthk.hk/rthk/ch/component/k2/1840284-20260117.htm	未分類
 2026-01-16	泰國再發生起重機倒塌意外 砸2車已知2死5傷｜#公視新聞網 #Shorts	https://news.pts.org.tw/video/15977	未分類
@@ -559,6 +568,7 @@ var DATA_ACCIDENT = `
 2026-01-13	土瓜灣唐樓爆炸｜石油氣師傅教換罐留意氣閥 漏氣會嘶嘶聲傳烈味	https://www.hk01.com/突發/60312419/土瓜灣唐樓爆炸-石油氣師傅教換罐留意氣閥-漏氣會嘶嘶聲傳烈味	未分類
 2026-01-13	啟德致命工業意外巴籍工遭巨型水缸壓斃- 香港文匯報	https://www.tkww.hk/epaper/view/newsDetail/2010773060608724992.html	未分類
 2026-01-13	啟德致命工業意外巴籍工遭巨型水缸壓斃- 香港 - 香港文匯網	https://www.wenweipo.com/a/202601/13/AP69655930e4b069b7ebf80918.html	未分類
+2026-01-13	啟德致命工業意外 巴籍工遭巨型水缸壓斃	https://news.google.com/rss/articles/CBMid0FVX3lxTE11Z2NOeDRTUFdiX0szdVU2LW13WURyazBtdzN6U2hXNjJLRGlpdC04c1dwRUFyQld0UzFvSnJYR0paUHBUVmpfdEdOYWE0bTRZdm45LUxScUNBYnhnVVpaVFFUYXF4Y1Bxa25HRHpmUWlOeDlUM0Vr?oc=5	未分類
 2026-01-13	啟德地盤男工被水缸壓斃 勞工處發暫時停工通知書 兩年7宗吊運意外釀5死｜Yahoo	https://hk.news.yahoo.com/啟德地盤男工被水缸壓斃-勞工處發暫時停工通知書-兩年7宗吊運意外釀5死｜yahoo-014656093.html	未分類
 2026-01-13	加拿大13歲明星長頸鹿｜意外遭門夾斃 無緣見孩子出世！	https://www.gotrip.hk/網絡熱話/長頸鹿-動物園意外-多倫多動物園-1857797/	未分類
 2026-01-13	13噸重水缸壓斃巴裔地盤工	https://www.stheadline.com/daily-hongkong/3534982/13噸重水缸壓斃巴裔地盤工	未分類
@@ -627,6 +637,7 @@ var DATA_ACCIDENT = `
 2025-12-15	上水公屋地盤七旬男工亡 房署指無證據顯示涉工業意外	https://www.sundaykiss.com/%E7%86%B1%E8%A9%B1/%E5%B1%AF%E9%96%80-%E9%9B%99%E5%B1%A4%E5%B7%B4%E5%A3%AB-%E6%A0%A1%E5%B7%B4-%E5%8F%B8%E6%A9%9F-%E4%BF%9D%E5%A7%86-%E5%AD%B8%E7%AB%A5-%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-2327270/	未分類
 2025-12-14	尖沙咀地盤奪命工業意外 男工遭鋼筋壓斃 涉案公司及負責人否認兩項傳票罪	https://www.wenweipo.com/a/202512/14/AP693e9304e4b0ea5e4746ea22.html	未分類
 2025-12-14	奧蘭多環球影城︱男子玩過山車後額頭現傷口喪命 最終報告：意外死亡	https://www.stheadline.com/realtime-world/3526833/%E5%A5%A7%E8%98%AD%E5%A4%9A%E7%92%B0%E7%90%83%E5%BD%B1%E5%9F%8E%E7%94%B7%E5%AD%90%E7%8E%A9%E9%81%8E%E5%B1%B1%E8%BB%8A%E5%BE%8C%E9%A1%8D%E9%A0%AD%E7%8F%BE%E5%82%B7%E5%8F%A3%E5%96%AA%E5%91%BD-%E6%9C%80%E7%B5%82%E5%A0%B1%E5%91%8A%E6%84%8F%E5%A4%96%E6%AD%BB%E4%BA%A1	未分類
+2025-12-12	二寶爸「曬衣服」意外死亡 法醫：比被隕石擊中還罕見	https://www.mirrordaily.news/story/34546	未分類
 2025-12-11	摩洛哥大城費茲2棟公寓接連倒塌 至少22死16傷	https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=043a8904-2f74-4db3-9227-9ba5b02cff29	未分類
 2025-12-11	工業意外｜將軍澳地盤女工被剷車夾傷右腳 消防到場救出送院	https://video.udn.com/news/1316283	未分類
 2025-12-11	中環歐陸貿易中心工傷｜工程師：如設安全裝置 開面板後不會動	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/418643/%E6%B8%AF%E7%94%B7%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%AA%E9%A7%95%E9%81%8A%E8%B6%8A%E7%B7%9A%E6%92%BC%E5%B0%8D%E9%A0%AD%E8%BB%8A-%E6%B6%89%E9%81%8E%E5%A4%B1%E9%A7%95%E9%A7%9B%E8%A2%AB%E6%8D%95	未分類
@@ -833,6 +844,7 @@ var DATA_ACCIDENT = `
 2025-08-12	賓州鋼鐵廠爆炸 2死10傷	https://money.udn.com/money/story/10511/8933790	未分類
 2025-08-11	「協興建築」涉3死工傷 5簽署人僅1人通過 獲屋宇署續牌	https://hk.on.cc/hk/bkn/cnt/news/20250811/bkn-20250811120252513-0811_00822_001.html	未分類
 2025-08-02	香港仔24歲女疑失足墮海 及時獲泳客救起 腳傷送院	https://www.hk01.com/article/60262964?utm_source=01articlecopy&utm_medium=referral	未分類
+2025-07-28	香港政府新聞網- 醫管局關注瑪麗醫院地盤工業意外	https://www.news.gov.hk/chi/2025/07/20250727/20250727_222817_383.html	未分類
 2025-07-28	秀茂坪私家車自炒翻側 男司機被困	https://www.hk01.com/article/60261012?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-14	羅馬仕高層傳已潛逃｜行動電源爆炸工廠停擺員工無糧出硬接爛攤子	https://www.hk01.com/article/60256641?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-08	父送兒子上學「遺忘女兒在車上」 3歲女被困50℃高溫車內活活熱死	https://www.hk01.com/article/60252697?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -847,6 +859,7 @@ var DATA_ACCIDENT = `
 2025-01-23	職安健修例大幅提高罰則 當局：工業意外致死個案沒明顯轉變	https://hkcourtnews.com/3%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%9A%A8%E5%AE%B6%E4%BA%BA%E7%B4%85%E7%87%88%E9%81%8E%E8%B7%AF%E8%A2%AB%E6%8D%B2%E9%9B%BB%E8%BB%8A%E5%BA%95%E4%BA%A1%EF%BD%9C%E5%AE%98%E6%8C%87%E7%A2%B0%E6%92%9E%E7%84%A1/	未分類
 2025-01-21	沙嶺倉庫致命意外 僱主違職安全條例罰款12萬元	https://news.rthk.hk/rthk/ch/component/k2/1788489-20250121.htm?spTabChangeable=0	未分類
 2024-12-31	西九龍工人遭嵌板壓斃 建造業議會暫停涉事公司註冊資格	http://hk.on.cc/hk/bkn/cnt/news/20241231/bkn-20241231144436332-1231_00822_001.html	未分類
+2024-12-29	西九高鐵站上蓋地盤53歲男工遭玻璃幕牆壓斃 新地：地盤已全面停工	https://hk.news.yahoo.com/%E8%A5%BF%E4%B9%9D%E9%AB%98%E9%90%B5%E7%AB%99%E4%B8%8A%E8%93%8B%E5%9C%B0%E7%9B%A453%E6%AD%B2%E7%94%B7%E5%B7%A5%E9%81%AD%E7%8E%BB%E7%92%83%E5%B9%95%E7%89%86%E5%A3%93%E6%96%83-%E6%96%B0%E5%9C%B0-%E5%9C%B0%E7%9B%A4%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%81%9C%E5%B7%A5-071040358.html	未分類
 2024-11-25	的士「自炒」撞爆港鐵青衣站玻璃門 司機面流血送院	https://www.hk01.com/article/1079257?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-09-27	油塘鯉魚門邨5歲男童高處墮下 送院時眼角有淚 母激動跪地痛哭	https://www.hk01.com/article/1061100?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-09-19	省財政廳廳長意外身亡 傳遭兩漢綑綁扔落樓	https://hk.on.cc/hk/bkn/cnt/cnnews/20240919/bkn-20240919172102614-0919_00952_001.html	未分類
@@ -923,9 +936,15 @@ var DATA_ACCIDENT = `
 2022-08-10	倫敦排屋氣體洩漏大爆炸 全屋粉碎4歲女亡 居民︰兩周前已聞到異味(多圖有片) fire	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/%E5%80%AB%E6%95%A6%E6%8E%92%E5%B1%8B%E6%B0%A3%E9%AB%94%E6%B4%A9%E6%BC%8F%E5%A4%A7%E7%88%86%E7%82%B8-%E5%85%A8%E5%B1%8B%E7%B2%89%E7%A2%8E4%E6%AD%B2%E5%A5%B3%E4%BA%A1-%E5%B1%85%E6%B0%91-%E5%85%A9%E5%91%A8%E5%89%8D%E5%B7%B2%E8%81%9E%E5%88%B0%E7%95%B0%E5%91%B3-%E5%A4%9A%E5%9C%96%E6%9C%89%E7%89%87-/332831	未分類
 2022-08-08	寶達邨3歲男童抽筋跌倒 送院治理	https://www.hk01.com/sns/article/801441	未分類
 2022-08-07	古巴油庫遭雷電擊中爆炸起火 1死121傷 fire	https://www.hk01.com/sns/article/801105	未分類
+2022-06-17	吊船兩死工傷｜意外片段曝光 鋼纜啤呤突脫離支架 吊船傾側墮下	https://www.hk01.com/%E7%AA%81%E7%99%BC/782800/%E5%90%8A%E8%88%B9%E5%85%A9%E6%AD%BB%E5%B7%A5%E5%82%B7-%E6%84%8F%E5%A4%96%E7%89%87%E6%AE%B5%E6%9B%9D%E5%85%89-%E9%8B%BC%E7%BA%9C%E5%95%A4%E5%91%A4%E7%AA%81%E8%84%AB%E9%9B%A2%E6%94%AF%E6%9E%B6-%E5%90%8A%E8%88%B9%E5%82%BE%E5%81%B4%E5%A2%AE%E4%B8%8B	未分類
+2022-06-13	吊船兩死工傷｜屋苑住戶感痛心 願捐款助遺屬﹕幫得幾多幫幾多	https://www.hk01.com/%E7%AA%81%E7%99%BC/780956/%E5%90%8A%E8%88%B9%E5%85%A9%E6%AD%BB%E5%B7%A5%E5%82%B7-%E5%B1%8B%E8%8B%91%E4%BD%8F%E6%88%B6%E6%84%9F%E7%97%9B%E5%BF%83-%E9%A1%98%E6%8D%90%E6%AC%BE%E5%8A%A9%E9%81%BA%E5%B1%AC-%E5%B9%AB%E5%BE%97%E5%B9%BE%E5%A4%9A%E5%B9%AB%E5%B9%BE%E5%A4%9A	未分類
 2022-03-12	大欖湧男女行山客失足墮山 出動直升機搜救送院 - 東張+	https://www.mytvsuper.com/tc/scoopplus/scoop/hot-topic/5903926707534/%E6%9D%B1%E5%BC%B5%E7%84%A6%E9%BB%9E-%E5%A4%A7%E6%AC%96%E6%B6%8C%E7%94%B7%E5%A5%B3%E8%A1%8C%E5%B1%B1%E5%AE%A2%E5%A4%B1%E8%B6%B3%E5%A2%AE%E5%B1%B1-%E5%87%BA%E5%8B%95%E7%9B%B4%E5%8D%87%E6%A9%9F%E6%90%9C%E6%95%91%E9%80%81%E9%99%A2	未分類
 2022-03-12	六旬婦屯門行山失足墮5米深坑 腳部受傷送院	https://www.mytvsuper.com/tc/scoopplus/local-news/hongkong/5905056011532/%E9%A6%99%E6%B8%AF%E6%96%B0%E8%81%9E-%E5%85%AD%E6%97%AC%E5%A9%A6%E5%B1%AF%E9%96%80%E8%A1%8C%E5%B1%B1%E5%A4%B1%E8%B6%B3%E5%A2%AE5%E7%B1%B3%E6%B7%B1%E5%9D%91-%E8%85%B3%E9%83%A8%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2	未分類
+2021-12-22	赤鱲角兩死工傷｜家屬質疑工友僅戴外科口罩入井 促交代真相	https://www.hk01.com/%E7%AA%81%E7%99%BC/715463/%E8%B5%A4%E9%B1%B2%E8%A7%92%E5%85%A9%E6%AD%BB%E5%B7%A5%E5%82%B7-%E5%AE%B6%E5%B1%AC%E8%B3%AA%E7%96%91%E5%B7%A5%E5%8F%8B%E5%83%85%E6%88%B4%E5%A4%96%E7%A7%91%E5%8F%A3%E7%BD%A9%E5%85%A5%E4%BA%95-%E4%BF%83%E4%BA%A4%E4%BB%A3%E7%9C%9F%E7%9B%B8	未分類
+2021-12-22	赤鱲角兩死工傷｜兩好爸爸魂斷污水井 遺年幼子女無依無靠	https://www.hk01.com/%E7%AA%81%E7%99%BC/715364/%E8%B5%A4%E9%B1%B2%E8%A7%92%E5%85%A9%E6%AD%BB%E5%B7%A5%E5%82%B7-%E5%85%A9%E5%A5%BD%E7%88%B8%E7%88%B8%E9%AD%82%E6%96%B7%E6%B1%A1%E6%B0%B4%E4%BA%95-%E9%81%BA%E5%B9%B4%E5%B9%BC%E5%AD%90%E5%A5%B3%E7%84%A1%E4%BE%9D%E7%84%A1%E9%9D%A0	未分類
+2021-09-23	奪命工傷│洪水橋貨倉男東主遭兩車輛夾斃 相隔20小時始被發現	https://www.hk01.com/%E7%AA%81%E7%99%BC/680369/%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7-%E6%B4%AA%E6%B0%B4%E6%A9%8B%E8%B2%A8%E5%80%89%E7%94%B7%E6%9D%B1%E4%B8%BB%E9%81%AD%E5%85%A9%E8%BB%8A%E8%BC%9B%E5%A4%BE%E6%96%83-%E7%9B%B8%E9%9A%9420%E5%B0%8F%E6%99%82%E5%A7%8B%E8%A2%AB%E7%99%BC%E7%8F%BE	未分類
 2021-05-12	去年234宗職業死亡個案 建造業致命意外按年增12.5%	https://hk.on.cc/hk/bkn/cnt/news/20210512/bkn-20210512143241325-0512_00822_001.html	未分類
+2020-09-17	4歲兒從劇場旋轉座位跌落 武漢抗疫護士與丈夫救子心切被壓死	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/525114/4%E6%AD%B2%E5%85%92%E5%BE%9E%E5%8A%87%E5%A0%B4%E6%97%8B%E8%BD%89%E5%BA%A7%E4%BD%8D%E8%B7%8C%E8%90%BD-%E6%AD%A6%E6%BC%A2%E6%8A%97%E7%96%AB%E8%AD%B7%E5%A3%AB%E8%88%87%E4%B8%88%E5%A4%AB%E6%95%91%E5%AD%90%E5%BF%83%E5%88%87%E8%A2%AB%E5%A3%93%E6%AD%BB	未分類
 2018-10-17	統計嬰幼兒意外死亡案法醫所：嘔吐、異物梗塞占多數| 生活	https://www.setn.com/news/443805	未分類
 2016-08-07	若抓寶可夢意外死亡生命禮儀公司推「87折」優惠辦後事| 生活	https://www.setn.com/news/171045	未分類
 `;
