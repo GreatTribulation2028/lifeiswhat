@@ -1,5 +1,8 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 503 條
+// AI安全 | 由 build_news_js.py 生成 | 共 510 條
 var DATA_AI_SAFETY = `
+2026-10-07	亞利桑那州法院系統遭網絡攻擊 超過百萬人資料被盜	https://www.bastillepost.com/hongkong/article/16921580-%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%E6%B3%95%E9%99%A2%E7%B3%BB%E7%B5%B1%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E8%B6%85%E9%81%8E%E7%99%BE%E8%90%AC%E4%BA%BA%E8%B3%87%E6%96%99%E8%A2%AB	未分類
+2026-10-05	韓國多家銀行遭網絡攻擊 疑黑客利用AI施襲	https://www.hk01.com/article/60396333	未分類
+2026-10-02	駭客最常盯上誰？微軟揭「這領域」受創最重 占比1年升至27％	https://stock.ltn.com.tw/article/qjbnwn7hn6ta	未分類
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://tchina.kyodonews.net/articles/-/14296	未分類
 2026-10-01	惡意軟件 CloudSyncD 以 Zoom 安裝程式為掩護進行資訊竊取	https://www.techritual.com/2026/10/01/587285/	未分類
 2026-10-01	FBI與美國國防部接連遭網路攻擊 數百萬人個人資料曝光	https://news.cnyes.com/news/id/6619761	未分類
@@ -29,6 +32,7 @@ var DATA_AI_SAFETY = `
 2026-09-17	Google 狂修 Pixel 手機 200 多個漏洞 官方證實：已遭駭客進攻	https://www.ettoday.net/news/20260917/3238947.htm	未分類
 2026-09-17	Cisco ISE 滿分零日漏洞遭利用身份平台與邊緣裝置成黑客新 ...	https://unwire.pro/2026/09/17/cisco-ise-zero-day-vulnerability-cve-2026-76460/security/	未分類
 2026-09-17	Chainalysis：國家級駭客助長區塊鏈惡意軟體激增420%	https://finance.biggo.com.tw/news/2f92b392-b564-40c4-8d73-4ec046147f62	未分類
+2026-09-16	油輪疑遭網絡攻擊 聯邦調查局與海岸警衛隊登船查證	https://tw.stock.yahoo.com/news/%E6%B2%B9%E8%BC%AA%E7%96%91%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E8%81%AF%E9%82%A6%E8%AA%BF%E6%9F%A5%E5%B1%80%E8%88%87%E6%B5%B7%E5%B2%B8%E8%AD%A6%E8%A1%9B%E9%9A%8A%E7%99%BB%E8%88%B9%E6%9F%A5%E8%AD%89-225951868.html	未分類
 2026-09-15	黑客重點襲VPN防火牆企業多防護網絡邊界設備 - 報章- 經濟日報	https://paper.hket.com/article/4193533/黑客重點襲VPN防火牆 企業多防護網絡邊界設備?mtc=70031	未分類
 2026-09-15	美機構揭微信重大漏洞 AI使駭客攻擊更危險	https://www.ntdtv.com/b5/2026/09/14/a104132916.html	未分類
 2026-09-15	【即時新聞】最新！CrowdStrike(CRWD)警告AI資安威脅失控，呼籲業界加強防禦駭客攻擊	https://cmnews.com.tw/article/newsyoudeservetoknow-df8fd730-b0d9-11f1-9b6f-7f966a04a7ad	未分類
@@ -39,6 +43,7 @@ var DATA_AI_SAFETY = `
 2026-09-14	盜用信用卡買iPhone｜千多人報案涉款2500萬 警方指初步不涉網絡攻擊	https://news.tvb.com/tc/1195194-%E7%9B%9C%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B2%B7iPhone%E5%8D%83%E5%A4%9A%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%B6%89%E6%AC%BE2500%E8%90%AC%E8%AD%A6%E6%96%B9%E6%8C%87%E5%88%9D%E6%AD%A5%E4%B8%8D%E6%B6%89%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A	未分類
 2026-09-14	【AI+安全】Anthropic前研究員：AI已可駭客攻擊控制機械人需要國際協調與中國競賽同樣危險內地官媒回應Anthropic CEO文章稱其為「冷戰手冊」	https://inews.hket.com/article/4193324/【AI-安全】Anthropic前研究員：AI已可駭客攻擊控制機械人 需要國際協調與中國競賽同樣危險 內地官媒回應Anthropic CEO文章稱其為「冷戰手冊」?mtc=20023	未分類
 2026-09-14	iPhone 18 Pro︱解構信用卡盜用事件四大可能成因網絡安全 ...	https://news.hket.com/article/4193041/iPhone 18 Pro︱解構信用卡盜用事件四大可能成因 網絡安全事故協調中心分析或存後續風險?mtc=10009	未分類
+2026-09-14	iPhone 18 Pro預購｜警接1209人報案涉$2500萬 初步不涉網絡攻擊	https://www.hk01.com/%E7%AA%81%E7%99%BC/60389920/iphone-18-pro%E9%A0%90%E8%B3%BC-%E8%AD%A6%E6%8E%A51209%E4%BA%BA%E5%A0%B1%E6%A1%88%E6%B6%89-2500%E8%90%AC-%E5%88%9D%E6%AD%A5%E4%B8%8D%E6%B6%89%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A	未分類
 2026-09-14	Symbiosis 跨鏈橋被搬 33 萬鎂！駭客拒退，白帽獎金轉線報賞	https://www.blocktempo.com/symbiosis-cross-chain-bridge-exploit-bounty-hacker-refuses-return/	未分類
 2026-09-14	Revolut 洩漏升級！駭客開始公開顧客護照自拍，威脅每日新增	https://www.blocktempo.com/revolut-attackers-start-leaking-customer-identity-documents-selfies-daily-threat/	未分類
 2026-09-12	失控AI智能體群引發網絡攻擊，業界擔憂AI脫離控制	https://www.moomoo.com/hant/news/post/76165166	未分類
@@ -129,6 +134,7 @@ var DATA_AI_SAFETY = `
 2026-08-24	全港Wi-Fi用家必睇屋企Router變黑客後門？ 美國國家安全局 ...	https://ezone.hk/article/20107212/屋企-router-隨時引狼入室-美國國家安全局教簡單-招-瞬間清除黑客程式-附簡易教學	未分類
 2026-08-24	《GTA6》洩密事件就是為了錢？「數位鑑識」曝駭客一天賺百萬官方要Discord、微軟給資料找兇手	https://tw.news.yahoo.com/《gta6》洩密事件就是為了錢？「數位鑑識」曝駭客一天賺百萬-官方要discord、微軟給資料找兇手-070309817.html	未分類
 2026-08-24	《GTA 6》洩露背後：黑客發幣「割韭菜」，把黑產玩成了Web3營銷？	https://www.panewslab.com/zh-hant/articles/01a0322c-ac58-7281-b185-27179bb3351e	未分類
+2026-08-24	OpenAI 煞停 Astra 訓練 先進模型首度逼近「Critical」級網絡攻擊門檻	https://unwire.pro/2026/08/24/openai-astra-critical-cybersecurity-ai-model-threat/ai/	未分類
 2026-08-23	英媒：英國發電廠7月遭伊朗黑客網絡攻擊 導致關閉4日	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382792/%E8%8B%B1%E5%AA%92-%E8%8B%B1%E5%9C%8B%E7%99%BC%E9%9B%BB%E5%BB%A07%E6%9C%88%E9%81%AD%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E5%B0%8E%E8%87%B4%E9%97%9C%E9%96%894%E6%97%A5	未分類
 2026-08-23	40支隊伍匯聚香港出戰「人工智能網絡安全挑戰賽」	https://businessfocus.io/article/361368/40支隊伍匯聚香港出戰-人工智能網絡安全挑戰賽-	未分類
 2026-08-22	網絡安全｜AI代理攻擊來襲9招措施加強防範	https://inews.hket.com/article/4180846/網絡安全｜AI代理攻擊來襲 9招措施加強防範?mtc=20040	未分類
@@ -294,6 +300,7 @@ var DATA_AI_SAFETY = `
 2026-07-22	Origin疑遭駭客入侵 200萬用戶個資恐外洩	https://www.epochtimes.com/b5/26/7/22/n14814669.htm	未分類
 2026-07-22	OpenAI承認AI模型「叛變」！代理入侵Hugging Face、突破隔離環境發動駭客攻擊	https://hk.finance.yahoo.com/news/openai承認ai模型-叛變-代理入侵hugging-face-突破隔離環境發動駭客攻擊-040106551.html	未分類
 2026-07-21	肯亞總統網站遭駭客攻陷勒索 5 枚比特幣，官方急澄清無資料外洩	https://www.blocktempo.com/kenya-president-website-hacked-bitcoin-ransom/	未分類
+2026-07-21	微步在線報告:中國是亞太區遭網絡攻擊最多地區 香港排14位	https://hk.finance.yahoo.com/news/%E5%BE%AE%E6%AD%A5%E5%9C%A8%E7%B7%9A%E5%A0%B1%E5%91%8A-%E4%B8%AD%E5%9C%8B%E6%98%AF%E4%BA%9E%E5%A4%AA%E5%8D%80%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E6%9C%80%E5%A4%9A%E5%9C%B0%E5%8D%80-%E9%A6%99%E6%B8%AF%E6%8E%9214%E4%BD%8D-030244373.html	未分類
 2026-07-21	中共網絡攻擊威脅全球 台美積極協商攜手對抗	https://www.ntdtv.com/b5/2026/07/21/a104117539.html/amp	未分類
 2026-07-21	ThreatBook：亞太地區網絡安全風險構性上升	https://itpromag.com/2026/07/21/threatbook-apac-tjreat-25-26/	未分類
 2026-07-21	Accenture 與安永證實發生資安事件 駭客宣稱竊取 35GB 敏感資料	https://netmag.tw/2026/07/21/accenture-confirms-cyber-incident	未分類
@@ -302,7 +309,7 @@ var DATA_AI_SAFETY = `
 2026-07-20	他用旅館電視就讓《GTA6》大外流！震驚全球18歲駭客近況曝	https://tw.news.yahoo.com/他用旅館電視就讓《gta6》大外流！震驚全球18歲駭客近況曝-094653771.html	未分類
 2026-07-20	MetaMask團隊發現朝鮮駭客混入事件後續：該駭客身份早在2025年9月就已曝光，但今年3月仍以外包形式繞過背景審查進入MetaMask	https://www.bitget.com/zh-TC/amp/news/detail/12560605518279	未分類
 2026-07-19	維州政府擬推新法加強追究科技巨頭及網絡攻擊者責任	https://www.2cr.com.au/維州政府擬推新法-加強追究科技巨頭及網絡攻擊者/	未分類
-2026-07-17	韌性假象｜90%企業自信能防禦網絡攻擊僅69%有把握及時 ...	https://www.wepro180.com/韌性假象｜90企業自信能防禦網絡攻擊 僅69坦言有/	未分類
+2023-06-13	韌性假象｜90%企業自信能防禦網絡攻擊僅69%有把握及時 ...	https://www.wepro180.com/韌性假象｜90企業自信能防禦網絡攻擊 僅69坦言有/	未分類
 2026-07-17	美國企業面臨網絡攻擊激增的局面	https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T43J1O5:0/	未分類
 2026-07-17	新型 Mac 惡意軟件 ClickLock Stealer 利用虛假登錄框鎖定用户設備	https://www.techritual.com/2026/07/18/558758/	未分類
 2026-07-17	拍付國際資料外洩調查結果出爐 願補償500元然影響人數不明	https://www.mnews.tw/story/amp/mm-20260717-177fin-215827	未分類
@@ -385,7 +392,7 @@ var DATA_AI_SAFETY = `
 2026-06-20	Axelar Network 遭黑客攻擊，約467 萬美元代幣被盜	https://www.chaincatcher.com/zh-tw/article/2272484	未分類
 2026-06-19	道德駭客聲稱她本可以「Rickroll」整場 FIFA 世界盃轉播，因為嚴重的安全漏洞	https://www.gamereactor.cn/ethical-hacker-claims-she-could-have-rickrolled-the-entire-fifa-world-cup-broadcast-after-huge-security-failure-1348213/	未分類
 2026-06-19	Yellow Hat確認在2rinkan網絡攻擊中有318萬條記錄泄露	https://www.moomoo.com/hant/news/post/71765048/yellow-hat-confirms-3-18-million-records-leaked-in-2rinkan	未分類
-2026-06-18	美政府禁用Anthropic最強模型76位網絡安全專家斥做法危險	https://www.wepro180.com/聯署抗議｜美政府禁用anthropic最強模型 76位網絡安全專/	未分類
+2023-06-13	美政府禁用Anthropic最強模型76位網絡安全專家斥做法危險	https://www.wepro180.com/聯署抗議｜美政府禁用anthropic最強模型 76位網絡安全專/	未分類
 2026-06-18	美國家庭網絡如何淪為駭客隱身衣？	https://cn.wsj.com/articles/美國家庭網絡如何淪為駭客隱身衣-e0580974	未分類
 2026-06-18	攻擊加美研究機構近兩年 黑客與中國有關	https://www.epochtimes.com/b5/26/6/15/n14789456.htm	未分類
 2026-06-18	AI成駭客新武器 網路攻擊暴增四倍資安風險全面升級	https://sunmedia.tw/news/technology/1781652773-AI成駭客新武器-網路攻擊暴增四倍資安風險全面升級	未分類
