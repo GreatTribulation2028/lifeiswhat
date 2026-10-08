@@ -1,16 +1,14 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3610 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3510 條
 var DATA_SUICIDE = `
 2026-10-07	長宏邨男子膠袋笠頭尋死 父親發現惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20220720/bkn-20220720000238633-0720_00822_001.html	未分類
 2026-10-07	逸東邨15歲仔墮斃 鄰居指死者成績優異	https://hk.on.cc/hk/bkn/cnt/news/20190423/bkn-20190423131100758-0423_00822_001.html	未分類
 2026-10-07	赤柱監獄懲教員 留遺書宿舍燒炭亡	https://hk.on.cc/hk/bkn/cnt/news/20190610/bkn-20190610224555609-0610_00822_001.html	未分類
 2026-10-07	許純美5段婚姻回顧 險為小鮮肉輕生	https://www.ettoday.net/news/20261007/3250338.htm	未分類
-2026-10-07	蔡若蓮稱學生懷疑自殺個案背後原因不盡相同 政府會優化支援服務	https://news.rthk.hk/rthk/ch/component/k2/1872987-20261007.htm	未分類
 2026-10-07	維港灣菲籍女傭上吊亡	https://hk.on.cc/hk/bkn/cnt/news/20191102/bkn-20191102154642625-1102_00822_001.html	未分類
 2026-10-07	男子葵涌邨燒炭昏迷 母親發現已太遲	https://hk.on.cc/hk/bkn/cnt/news/20210608/bkn-20210608182006777-0608_00822_001.html	未分類
 2026-10-07	男子用橡筋帶上吊 妻子揭發救唔番	https://hk.on.cc/hk/bkn/cnt/news/20190303/bkn-20190303021145822-0303_00822_001.html	未分類
 2026-10-07	牛頭角坎坷婦墮網騙案 圖輕生獲救	https://hk.on.cc/hk/bkn/cnt/news/20200514/bkn-20200514115827952-0514_00822_001.html	未分類
 2026-10-07	灣仔愛群道8旬老婦墮樓亡	https://hk.on.cc/hk/bkn/cnt/news/20210904/bkn-20210904134722950-0904_00822_001.html	未分類
-2026-10-07	宜蘭國一生墜樓身亡！家屬忍痛簽署「器官捐贈」 | 社會	https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OVlRDZzhwdGh4X3h4R05kS3JHc0w0WHk2eGt3OTh6SmxYekVKQnBnRHhsY1F3ZTNmLV94aHVVV0dXcEpQRTNXc25vQTRoYV9ZXzhNQ1VFdHJrTVU?oc=5	未分類
 2026-10-04	女大學生上吊亡父兄討公道- 2011年08月02日	https://news.pts.org.tw/article/58794	未分類
 2026-10-02	秀茂坪男子墮樓 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/2026033/bkn-20260303084545379-0303_00822_001.html	未分類
 2026-10-02	珍惜生命│何文田愛民邨男住戶上吊亡 傳出異味始發現	https://www.singtao.ca/7644746/2026-10-02/news-%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E2%94%82%E4%BD%95%E6%96%87%E7%94%B0%E6%84%9B%E6%B0%91%E9%82%A8%E7%94%B7%E4%BD%8F%E6%88%B6%E4%B8%8A%E5%90%8A%E4%BA%A1+%E5%82%B3%E5%87%BA%E7%95%B0%E5%91%B3%E5%A7%8B%E7%99%BC%E7%8F%BE/	未分類
@@ -57,7 +55,6 @@ var DATA_SUICIDE = `
 2026-09-23	珍惜生命｜華貴邨九旬翁墮樓亡 簷篷尋回遺書疑受病患困擾	https://www.singtao.ca/7635975/2026-09-23/news-珍惜生命｜華貴邨九旬翁墮樓亡 簷篷尋回遺書疑受病患困擾/	未分類
 2026-09-23	珍惜生命｜粉嶺皇后山邨68歲男疑𠝹頸自殺 送院搶救後不治	https://www.stheadline.com/breaking-news/3618345/珍惜生命粉嶺皇后山邨68歲男疑𠝹頸自殺-送院搶救後不治	未分類
 2026-09-23	珍惜生命｜皇后山邨68歲男𠝹刀割頸 昏迷送院不治	https://www2.am730.com.hk/本地/1054662/珍惜生命-皇后山邨68歲男-刀割頸-昏迷送院不治	未分類
-2026-09-23	珍惜生命｜油麻地彌敦道女子墮樓 昏迷倒臥鄰廈平台	https://www.stheadline.com/breaking-news/3618370/珍惜生命油麻地彌敦道女子墮樓-昏迷倒臥鄰廈平台	未分類
 2026-09-23	珍惜生命｜油麻地女子飛墮商廈平台 昏迷送院搶救	https://www.hk01.com/突發/60392805/珍惜生命-油麻地女子飛墮商廈平台-昏迷送院搶救	未分類
 2026-09-23	珍惜生命｜天水圍六旬漢浮屍河中疑為失蹤人士 警列自殺(更新)	https://www.am730.com.hk/本地/1054700/天水圍男子浮屍河中-疑為失蹤人口	未分類
 2026-09-23	珍惜生命｜84岁翁留遗书离家失踪3周疑堕崖 遗体卫奕信径寻获	https://global.hk01.com/突发/60393135/珍惜生命-84岁翁留遗书离家失踪3周疑堕崖-遗体卫奕信径寻获	未分類
@@ -239,7 +236,6 @@ var DATA_SUICIDE = `
 2026-09-06	19歲青年深水埗家中燒炭尋短 母親發現惜太遲	https://www.wenweipo.com/a/202609/06/AP6a9d8b68e4b01d54a2821815.html	未分類
 2026-09-05	響應世界自殺防治日 嘉義縣啟動心理健康月	https://n.yam.com/Article/20260905664316	未分類
 2026-09-05	長沙灣女子過渡屋燒炭 胞妹揭發惜天人永隔	https://hk.on.cc/hk/bkn/cnt/news/20260905/bkn-20260905022553823-0905_00822_001.html	未分類
-2026-09-05	珍惜生命｜長沙灣過渡房屋女子燒炭 昏迷送院搶救回天乏術	https://www.hk01.com/突發/60387021/珍惜生命-長沙灣過渡房屋女子燒炭-昏迷送院搶救回天乏術	未分類
 2026-09-05	珍惜生命｜鑽石山啟鑽苑45歲男子燒炭 當場氣絕亡 周五晚上8時05分，警方接獲一名姓王男子報案，表示其45歲兒子在彩虹道235號啟鑽苑一個單位內，懷疑企圖自殺。 警員及救護員趕抵現場後，發現王男倒臥床上，...	https://www.stheadline.com/breaking-news/3611840/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E9%91%BD%E7%9F%B3%E5%B1%B1%E5%95%9F%E9%91%BD%E8%8B%9145%E6%AD%B2%E7%94%B7%E5%AD%90%E7%87%92%E7%82%AD-%E7%95%B6%E5%A0%B4%E6%B0%A3%E7%B5%95%E4%BA%A1	未分類
 2026-09-05	珍惜生命｜鑽石山啟鑽苑45歲男子燒炭 當場氣絕亡	https://www.stheadline.com/breaking-news/3611840/珍惜生命鑽石山啟鑽苑45歲男子燒炭-當場氣絕亡	未分類
 2026-09-05	珍惜生命｜土瓜灣男子墮橋跌落行人路 送院不治	https://www.hk01.com/突發/60387017/珍惜生命-土瓜灣男子墮橋跌落行人路-送院不治	未分類
@@ -308,7 +304,6 @@ var DATA_SUICIDE = `
 2026-08-29	珍惜生命︱天水圍天晴邨女子危坐外牆5小時 終墮平台死亡	https://www.hk01.com/突發/60384826/珍惜生命-天水圍天晴邨女子危坐外牆5小時-終墮平台死亡	未分類
 2026-08-29	珍惜生命︱大潭水塘道男子自縊 昏迷送院搶救 今日（29日）早上10時24分，警方接報指，一名年約80多歲老翁被發現在大潭水塘道88號一帶上吊自縊。救援人員到場將他解下，事主昏迷不醒，經由救護車送往律敦治醫院治理...	https://www.hk01.com/%E7%AA%81%E7%99%BC/60384832/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E6%BD%AD%E6%B0%B4%E5%A1%98%E9%81%93%E7%94%B7%E5%AD%90%E8%87%AA%E7%B8%8A-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類
 2026-08-29	珍惜生命︱大潭水塘道男子自縊 昏迷送院搶救	https://www.hk01.com/突發/60384832/珍惜生命-大潭水塘道男子自縊-昏迷送院搶救	未分類
-2026-08-29	珍惜生命︱大潭水塘道男子自縊 昏迷送院後不治	https://www.hk01.com/突發/60384832/珍惜生命-大潭水塘道男子自縊-昏迷送院後不治	未分類
 2026-08-29	珍惜生命│天水圍天晴邨婦人危坐外牆石壆5小時 最終躍下倒臥平台	https://std.stheadline.com/breaking-news/3609487/珍惜生命天水圍天晴邨婦人危坐外牆石壆5小時-最終躍下倒臥平台	未分類
 2026-08-29	大潭郊野公園男子鐵欄上吊 救援人員解下昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260829/bkn-20260829104256990-0829_00822_001.html	未分類
 2026-08-28	日本名古屋男子跳樓意外砸死女路人 傷癒出院後涉過失致死罪被捕	https://www.hk01.com/即時國際/60384667/日本名古屋男子跳樓意外砸死女路人-傷癒出院後涉過失致死罪被捕	未分類
@@ -345,8 +340,6 @@ var DATA_SUICIDE = `
 2026-08-25	葵涌邨謀殺自殺案｜八旬夫擊斃六旬妻後墮樓亡慘劇前擬離婚分居機構：長者涉感情求助增促盡早尋支援	https://www.am730.com.hk/article/1049287	未分類
 2026-08-25	探究學生自殺率、人類在火星生活 竹縣博愛、中山國小專題競賽奪雙特優	https://tw.news.yahoo.com/探究學生自殺率-人類在火星生活-竹縣博愛-中山國小專題競賽奪雙特優-062512816.html	未分類
 2026-08-25	台中富商豪宅遭洗劫600萬還燒炭想滅口 惡徒一審重判12 年 6 月	https://tw.news.yahoo.com/台中富商豪宅遭洗劫600萬還燒炭想滅口-惡徒-審重判12-年-6-014704070.html	未分類
-2026-08-25	八旬翁疑殺妻後墮斃 曾透露死念 妻頭身遭硬物襲擊 雙方關係差醞釀離婚 - 20260825 - 港聞	https://news.mingpao.com/pns/港聞/article/20260825/s00002/1787594168895/八旬翁疑殺妻後墮斃-曾透露死念-妻頭身遭硬物襲擊-雙方關係差醞釀離婚	未分類
-2026-08-25	八旬翁疑殺妻後墮斃 曾透露死念 妻頭身遭硬物襲擊 雙方關係差醞釀離婚 - 20260825 - 圖片看世界	https://news.mingpao.com/pns/港聞/photo1/20260825/s00002/1787594168895/1787594168880	未分類
 2026-08-25	八旬翁涉殺妻後跳樓尋短疑夫婦感情不和鬧離婚家人揭死者生前透露輕生傾向- 香港	https://www.wenweipo.com/a/202608/25/AP6a8ca832e4b0c1e500261961.html	未分類
 2026-08-24	鯉魚門男子墮海獲救 案列「企圖自殺」跟進	https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20260824-0824_00176_264/%E9%AF%89%E9%AD%9A%E9%96%80%E7%94%B7%E5%AD%90%E5%A2%AE%E6%B5%B7%E7%8D%B2%E6%95%91--%E6%A1%88%E5%88%97%E3%80%8C%E4%BC%81%E5%9C%96%E8%87%AA%E6%AE%BA%E3%80%8D%E8%B7%9F%E9%80%B2	未分類
 2026-08-24	葵涌邨老翁墮樓亡 警調查揭一女子伏屍單位內	https://www.hk01.com/突發/60382883/葵涌邨老翁墮樓亡-警調查揭一女子伏屍單位內	未分類
@@ -406,9 +399,7 @@ var DATA_SUICIDE = `
 2026-08-17	珍惜生命｜觀塘康寧大廈女子墮樓倒臥後巷 家人報案惜太遲	https://www.am730.com.hk/本地/1047839/珍惜生命-觀塘康寧大廈女子墮樓倒臥後巷-家人報案惜太遲	未分類
 2026-08-17	珍惜生命｜觀塘康寧大廈女子墮樓 家人報案惜太遲	https://www.hk01.com/突發/60380615/珍惜生命-觀塘康寧大廈女子墮樓-家人報案惜太遲	未分類
 2026-08-17	珍惜生命｜淺水灣女子倒臥沙灘送院 現場檢獲遺書	https://www.am730.com.hk/本地/1047844/珍惜生命-淺水灣女子倒臥沙灘送院-現場檢獲遺書	未分類
-2026-08-17	淺水灣泳灘女子留遺書自殺 昏迷送院	https://www.stheadline.com/breaking-news/3605182/淺水灣泳灘女子留遺書自殺-昏迷送院	未分類
 2026-08-17	淺水灣泳灘女子留書自殺 昏迷送院	https://std.stheadline.com/breaking-news/3605182/淺水灣泳灘女子留書自殺-昏迷送院	未分類
-2026-08-17	淺水灣泳灘女子昏迷倒臥沙灘送院搶救 警現場檢獲遺書	https://www.hk01.com/突發/60380700/淺水灣泳灘女子昏迷倒臥沙灘送院搶救-警現場檢獲遺書	未分類
 2026-08-17	法庭丨商人燒炭圖與妻女同歸於盡 囚5年4個月	https://m.hkej.com/landing/mobarticle2/id/4485096/%E6%B3%95%E5%BA%AD%E4%B8%A8%E5%95%86%E4%BA%BA%E7%87%92%E7%82%AD%E5%9C%96%E8%88%87%E5%A6%BB%E5%A5%B3%E5%90%8C%E6%AD%B8%E6%96%BC%E7%9B%A1%20%E5%9B%9A5%E5%B9%B44%E5%80%8B%E6%9C%88	未分類
 2026-08-17	商人認落安眠藥圖攬妻女燒炭自盡 判囚5年4月個月 (11:54) - 20260817 - 港聞	https://news.mingpao.com/ins/港聞/article/20260817/s00001/1786938897362/商人認落安眠藥圖攬妻女燒炭自盡-判囚5年4月個月	未分類
 2026-08-17	商人圖燒炭與妻女自盡 判囚5年4個月	https://www.881903.com/news/local/2645356	未分類
@@ -427,7 +418,6 @@ var DATA_SUICIDE = `
 2026-08-14	珍惜生命｜荃灣女子海面浮沉 消防救起送院不治	https://www.stheadline.com/breaking-news/3604230/珍惜生命荃灣女子海面浮沉-消防救起送院不治	未分類
 2026-08-14	珍惜生命｜大埔廣福邨女子墮樓自行報案半昏迷送院- 港聞	https://www.dotdotnews.com/a/202608/14/AP6a7e8930e4b04b6c5d36a485.html	未分類
 2026-08-14	珍惜生命︱大埔廣福邨女子墮樓自行報案 半昏迷送院 今日（14日）上午9時許，一名女子在大埔廣福邨廣禮樓3樓墮下，倒臥大廈對開地面；她墮樓清醒，自行報警求助。與此同時，其友人得悉她情緒低落，有.	https://www.hk01.com/article/60379878	未分類
-2026-08-14	珍惜生命︱大埔廣福邨女子墮樓自行報案 半昏迷送院	https://www.hk01.com/突發/60379878/珍惜生命-大埔廣福邨女子墮樓自行報案-半昏迷送院	未分類
 2026-08-14	港產加密大亨葉俊德離奇墜樓亡！創辦Quantum Fintech創辦由60美元比特幣至24億身家寫下加密界資產神話	https://www.edigest.hk/虛擬投資/港產加密大亨-葉俊德-離奇墜樓-比特幣-ed01-2032319/	未分類
 2026-08-14	林肯號多兵跳海自殺? 美軍批謠言 : 那些「落水」的都救起來了 「這艦」急救援	https://tw.news.yahoo.com/林肯號多兵跳海自殺-美軍批謠言-那些-落水-的都救起來了-072150862.html	未分類
 2026-08-14	快訊／新北市49歲女下班時間墜樓 「重砸2警車」OHCA急送醫	https://tw.news.yahoo.com/快訊-新北市49歲女下班時間墜樓-重砸2警車-ohca急送醫-110000986.html	未分類
@@ -514,7 +504,6 @@ var DATA_SUICIDE = `
 2026-08-06	珍惜生命︱日本美女網紅南韓TikTok直播輕生 疑不堪網暴走上絕路	https://www.stheadline.com/realtime-world/3601579/珍惜生命日本美女網紅南韓TikTok直播輕生-疑不堪網暴走上絕路	未分類
 2026-08-06	大埔男子天台墮樓亡 疑生活問題尋短	https://hk.on.cc/hk/bkn/cnt/news/20260806/bkn-20260806155825069-0806_00822_001.html	未分類
 2026-08-06	26歲日籍女網紅在南韓直播時自殺 或因生前遭受網暴 警方介入調查	https://www.orangenews.hk/international/VRU8LSF/26歲日籍女網紅在南韓直播時自殺-或因生前遭受網暴-警方介入調查.shtml	未分類
-2026-08-05	西安賽格墮斃案｜官方:死者患抑鬱 涉商業糾紛	https://www.hkej.com/instantnews/current/article/4475802/西安賽格墮斃案｜官方:死者患抑鬱+涉商業糾紛	未分類
 2026-08-05	藍田平田邨中年男子於單位內輕生 母親發現後報案	https://www.singtaousa.com/2026/08/05/news/china/suicide-hanging-kitchen-pingtian-estate/	未分類
 2026-08-05	經理級人物 香港墜樓身亡	https://news.ebc.net.tw/news/world/564862	未分類
 2026-08-05	珍惜生命｜藍田平田邨男子上吊 母親揭發惜太遲	https://www.hk01.com/突發/60377242/珍惜生命-藍田平田邨男子上吊-母親揭發惜太遲	未分類
@@ -600,7 +589,6 @@ var DATA_SUICIDE = `
 2026-07-28	日韓推AI防自殺系統 分析監視畫面搶救人命｜20260728 8點新世界	https://news.pts.org.tw/video/20803	未分類
 2026-07-28	日韓推AI防自殺系統 分析監視畫面搶救人命	https://tw.news.yahoo.com/日韓推ai防自殺系統-分析監視畫面搶救人命-131027833.html	未分類
 2026-07-28	中午來開匯／轟民進黨非核家園黑箱蓋牌 李鴻源：中火發電已9成、全台都在「燒炭自殺」	https://news.pchome.com.tw/politics/cnews/20260728/index-78521590172047227001.html	未分類
-2026-07-27	珍惜生命｜大埔富亨邨37歲男子房間燒炭 昏迷送院搶救	https://www.am730.com.hk/本地/1043953/珍惜生命-大埔富亨邨37歲男子房間燒炭-昏迷送院搶救	未分類
 2026-07-27	珍惜生命｜大埔富亨邨37歲男子住所燒炭 昏迷送院搶救	https://www.hk01.com/突發/60374131/珍惜生命-大埔富亨邨37歲男子住所燒炭-昏迷送院搶救	未分類
 2026-07-27	珍惜生命｜大埔富亨邨37岁男子住所烧炭 昏迷送院抢救	https://global.hk01.com/突发/60374131/珍惜生命-大埔富亨邨37岁男子住所烧炭-昏迷送院抢救	未分類
 2026-07-27	珍惜生命｜上水寶石湖邨男子梯間自縊 送院搶救不治	https://www.hk01.com/突發/60374008/珍惜生命-上水寶石湖邨男子梯間自縊-送院搶救不治	未分類
@@ -799,7 +787,6 @@ var DATA_SUICIDE = `
 2026-07-01	西安賽格商場商戶墜樓亡 引發民眾聚集及調查	https://www.singtaousa.com/2026/07/01/news/china/xi-an-mall-merchant-death-protest-clash/	未分類
 2026-07-01	西安賽格一商戶老闆跳樓 傳被商場罰1145多萬	https://www.epochtimes.com/b5/26/7/1/n14800891.htm	未分類
 2026-07-01	珍惜生命｜觀塘紀律部隊宿舍男子墮樓 昏迷送院搶救	https://www.hk01.com/突發/60365756/珍惜生命-觀塘紀律部隊宿舍男子墮樓-昏迷送院搶救	未分類
-2026-07-01	珍惜生命｜觀塘紀律部隊宿舍男子墮平台 昏迷送院搶救	https://www.singtao.ca/7552813/2026-07-01/news-珍惜生命｜觀塘紀律部隊宿舍八旬翁墮平台+昏迷送院不治/	未分類
 2026-07-01	珍惜生命｜觀塘紀律部隊宿舍八旬翁墮平台 昏迷送院不治	https://www.stheadline.com/breaking-news/3589072/珍惜生命觀塘紀律部隊宿舍八旬翁墮平台-昏迷送院不治	未分類
 2026-07-01	珍惜生命︱自杀南韩女消防员遭欺凌细节曝光 15个月内陪酒24次被要求坐两男长官中间	https://www.stheadline.com/zh-hans/realtime-world/3588865/珍惜生命自杀南韩女消防员遭欺凌细节曝光-15个月内陪酒24次被要求坐两男长官中间	未分類
 2026-07-01	影/蹦闆當街打人警察袖手旁觀？黃瓊慧急發不自殺聲明 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260701/index-78288828254168309002.html	未分類
@@ -911,7 +898,6 @@ var DATA_SUICIDE = `
 2026-06-19	長洲東灣路男子燒炭送院搶救(09:27) - 20260619 - 港聞- 即時新聞	https://news.mingpao.com/ins/港聞/article/20260619/s00001/1781829387752/長洲東灣路男子燒炭-送院搶救	未分類
 2026-06-19	長洲度假屋45歲男子燒炭 飛行服務隊直升機送院搶救	https://std.stheadline.com/breaking-news/3584739/長洲度假屋45歲男子燒炭-飛行服務隊直升機送院搶救	未分類
 2026-06-19	荔景邨風景樓80歲婦疑焗斃 七旬丈夫疑自縊昏迷送院	https://hk.news.yahoo.com/荔景邨風景樓80歲婦疑焗斃-七旬丈夫疑自縊昏迷送院-092725285.html	未分類
-2026-06-19	荔景邨老翁吊頸昏迷 妻子遭床被蓋面死亡 重案組接手調查	https://www.stheadline.com/tv/tv-news/3584811/荔景邨老翁吊頸昏迷-妻子遭床被蓋面死亡-案件暫列送院時死亡及企圖自殺	未分類
 2026-06-19	荔景邨繼父上吊 母親被鋪蓋頭送院亡 女兒揭發報警	https://www.hk01.com/突發/60361975/荔景邨繼父上吊-母親被鋪蓋頭送院亡-女兒揭發報警	未分類
 2026-06-19	珍惜生命｜長洲男子燒炭昏迷 直升機送院搶救	https://www.hk01.com/突發/60361904/珍惜生命-長洲男子燒炭昏迷-直升機送院搶救	未分類
 2026-06-19	珍惜生命｜長洲度假屋男租客燒炭昏迷 直升機送院搶救	https://www.hk01.com/突發/60361904/珍惜生命-長洲度假屋男租客燒炭昏迷-直升機送院搶救	未分類
@@ -1125,7 +1111,6 @@ var DATA_SUICIDE = `
 2026-05-25	請長假突返校…上課時間墜樓亡「師生目睹」駭人一幕！死者是自然老師	https://tw.news.yahoo.com/請長假突返校-上課時間墜樓亡-師生目睹-駭人-幕-225400112.html	未分類
 2026-05-25	珍惜生命｜台北101商場19歲女大生墮亡 家屬悲慟：校園生活不快	https://std.stheadline.com/china-taiwan/3576159/珍惜生命台北101商場19歲女大生墮亡-家屬悲慟校園生活不快	未分類
 2026-05-25	珍惜生命｜北角黑衣男墮海 獲救昏迷送院亡	https://www.singtao.ca/7515352/2026-05-25/news-珍惜生命｜北角黑衣男墮海+獲救昏迷送院亡/	未分類
-2026-05-25	珍惜生命│沙田禾輋邨男子墮樓 昏迷送院	https://std.stheadline.com/breaking-news/3576039/珍惜生命沙田禾輋邨男子墮樓-昏迷送院	未分類
 2026-05-25	珍惜生命│屯門女子樹上自縊 送院不治	https://www.singtao.ca/7515165/2026-05-25/news-珍惜生命│屯門女子樹上自縊+送院不治/	未分類
 2026-05-25	台北101購物中心 女子墜樓傷重不治	https://www.ntdtv.com/gb/2026/05/25/a104099778.html/amp	未分類
 2026-05-23	筲箕灣女子墮樓 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20260523/bkn-20260523115024322-0523_00822_001.html	未分類
@@ -1161,7 +1146,6 @@ var DATA_SUICIDE = `
 2026-05-19	九龍城男子墮樓重傷 疑安裝冷氣生意外	https://hkcd.com/hkcdweb/content/2026/05/19/content_8755575.html	未分類
 2026-05-19	九龍城屋苑冷氣技工墮樓 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260519/bkn-20260519123555293-0519_00822_001.html	未分類
 2026-05-18	珍惜生命｜北角港運城19歲少女疑服食過量藥物昏迷 送院不治	https://www.hk01.com/突發/60350957/珍惜生命-北角港運城19歲少女疑服食過量藥物昏迷-送院不治	未分類
-2026-05-18	珍惜生命｜北角19歲少女服藥昏迷不治疑不堪情緒困擾- 港聞	https://www.dotdotnews.com/s/202605/18/AP6a0abf6ae4b09ea23315ae1e.html	未分類
 2026-05-18	珍惜生命│北角港運城19歲少女服藥昏迷 送院不治	https://www.stheadline.com/breaking-news/3573671/珍惜生命北角港運城19歲少女服藥昏迷-送院不治	未分類
 2026-05-18	珍惜生命│九龍城財困男墮樓母親發現已太遲- 香港 - 香港文匯網	https://www.wenweipo.com/a/202605/18/AP6a0b0c1ae4b0b49ad1bb9840.html	未分類
 2026-05-18	快訊／宜蘭車站旁「有人墜樓」 陳屍鐵皮屋上	https://tw.news.yahoo.com/快訊-宜蘭車站旁-有人墜樓-陳屍鐵皮屋上-062200264.html	未分類
@@ -1184,7 +1168,6 @@ var DATA_SUICIDE = `
 2026-05-15	馬丁肖特首談女兒輕生打擊 自曝投身倡議組織協助心理病患	https://www.worldjournal.com/wj/amp/story/121232/9504932	未分類
 2026-05-15	赤柱監獄在囚人士用床單上吊自殺 被懲教人員制止	https://www.hkcd.com.hk/hkcdweb/content/2026/05/15/content_8755038.html	未分類
 2026-05-15	赤柱監獄35歲男囚犯以床單上吊昏迷 懲教署將事件通知警方	https://www.hk01.com/突發/60350194/赤柱監獄35歲男囚犯以床單上吊昏迷-懲教署將事件通知警方	未分類
-2026-05-15	赤柱監獄35歲男囚犯以床單上吊昏迷 懲教人員發現急救送院	https://www.am730.com.hk/本地/1030729/赤柱監獄35歲男囚犯以床單上吊昏迷-懲教人員發現急救送院	未分類
 2026-05-15	警退休助理處長 西貢寓所燒炭亡 - 20260515 - 港聞	https://news.mingpao.com/pns/港聞/article/20260515/s00002/1778779253994/警退休助理處長-西貢寓所燒炭亡	未分類
 2026-05-15	警中區食肆拘內地男 網上預告來港自殺檢易燃液體	https://hkcd.com/content_app/2026-05/15/content_8754978.html	未分類
 2026-05-15	網上預告來港自殺 警方中區食肆拘內地男 檢獲易燃液體	http://www.hkcd.com/hkcdweb/content/2026/05/15/content_8754978.html	未分類
@@ -1268,7 +1251,6 @@ var DATA_SUICIDE = `
 2026-05-07	珍惜生命｜翠竹花園29歲男單位燒炭亡 母親發現惜太遲	https://www.am730.com.hk/article/1029306	未分類
 2026-05-07	珍惜生命｜秀茂坪寶達邨達欣樓發生雙屍案 77歲男上吊 71歲前妻面頸受傷倒臥房間 - 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17218147086664/重點新聞-珍惜生命-秀茂坪寶達邨達欣樓發生雙屍案-77歲男上吊-71歲前妻面頸受傷倒臥房間	未分類
 2026-05-07	珍惜生命｜疑不堪情緒困擾大圍美松苑男子燒炭亡- 港聞	https://www.dotdotnews.com/s/202605/07/AP69fc32ebe4b09ea2331491c6.html	未分類
-2026-05-07	珍惜生命｜大圍美松苑29歲男子燒炭 昏迷送院亡	https://www.am730.com.hk/article/1029110	未分類
 2026-05-07	沙田河畔花園男子飛墮平台 昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260507/bkn-20260507063526606-0507_00822_001.html	未分類
 2026-05-07	不滿被查數月堅稱清白 據稱愛潑斯坦自殺字條公開	https://www.singtaousa.com/2026/05/07/news/usa/epstein-suicide-note-released/	未分類
 2026-05-06	韓法官判前第一夫人金建希關4年 今突在法院內墜樓亡！	https://tw.news.yahoo.com/韓法官判前第-夫人金建希關4年-今突在法院內墜樓亡-024200763.html	未分類
@@ -1313,7 +1295,6 @@ var DATA_SUICIDE = `
 2026-04-30	翠屏北邨男子疑梯間上吊 昏迷送院 (10:16) - 20260430 - 港聞	https://news.mingpao.com/ins/港聞/article/20260430/s00001/1777514729092/翠屏北邨男子疑梯間上吊-昏迷送院	未分類
 2026-04-30	翠屏北邨男子梯間上吊 昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260430/bkn-20260430044548073-0430_00822_001.html	未分類
 2026-04-30	珍惜生命｜觀塘翠屏北邨男子梯間吊頸 昏迷送院搶救	https://std.stheadline.com/breaking-news/3567408/珍惜生命觀塘翠屏北邨男子梯間吊頸昏迷送院搶救	未分類
-2026-04-30	珍惜生命｜觀塘翠屏北邨男子梯間上吊 昏迷送院搶救	https://www.hk01.com/突發/60345265/珍惜生命-觀塘翠屏北邨男子梯間上吊-昏迷送院搶救	未分類
 2026-04-30	珍惜生命｜石排灣邨28歲男墮樓亡 疑撞爆大廈喉管暫停鹹水	https://www.am730.com.hk/article/1027894	未分類
 2026-04-30	珍惜生命｜伊利沙伯醫院男子敲爛玻璃 一度危站簷篷對峙	https://www.hk01.com/突發/60345274/珍惜生命-伊利沙伯醫院男子敲爛玻璃-一度危站簷篷對峙	未分類
 2026-04-30	珍惜生命│大學生任維修工疑學歷與職業落差大香港仔28歲男墮樓亡- 香港 - 香港文匯網	https://www.wenweipo.com/a/202604/30/AP69f2eb42e4b0b49ad1b8fdfd.html	未分類
@@ -1412,7 +1393,6 @@ var DATA_SUICIDE = `
 2026-04-17	31歲男私家車內吸廢氣圖輕生 消防救出送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260417/bkn-20260417213729336-0417_00822_001.html	未分類
 2026-04-16	珍惜生命｜屯门新墟男子疑财困 睡房烧炭亡	https://www.stheadline.com/zh-hans/breaking-news/3562696/珍惜生命屯门新墟男子疑财困-睡房烧炭亡	未分類
 2026-04-16	珍惜生命｜屯門新墟男子疑財困 睡房燒炭亡	https://www.stheadline.com/breaking-news/3562696/珍惜生命屯門新墟男子疑財困-睡房燒炭亡	未分類
-2026-04-16	珍惜生命｜北角18歲男學生校園墮樓昏迷送院- 港聞	https://www.dotdotnews.com/s/202604/16/AP69e07f84e4b09ea23312aa4a.html	未分類
 2026-04-16	珍惜生命｜北角18歲男學生校園墮樓手腳骨折昏迷送院| 生活熱話	https://www.ohpama.com/1018811/生活熱話/生活熱話/北角-18歲男學生-校園墮樓-昏迷送院/	未分類
 2026-04-16	珍惜生命｜北角18歲男學生校園墮樓 昏迷送院 |	https://www.ohpama.com/1018811/生活熱話/北角-18歲男學生-校園墮樓-昏迷送院/	未分類
 2026-04-16	珍惜生命｜北角18歲男學生校園墮樓 手腳骨折昏迷送院	https://www.stheadline.com/breaking-news/3562663/珍惜生命北角18歲男學生校園墮樓-手腳骨折昏迷送院	未分類
@@ -1651,7 +1631,6 @@ var DATA_SUICIDE = `
 2026-03-15	荃灣2歲童墮斃｜死者與兄客廳玩耍突墮樓 警拘父母涉疏忽照顧	https://www.hk01.com/突發/60330622/荃灣恆麗園2歲童墮斃-與兄客廳玩耍突墮樓-警拘父母涉疏忽照顧	未分類
 2026-03-15	珍惜生命｜長沙灣海麗邨六旬男自縊 兒子發現惜太遲	https://www.am730.com.hk/article/1018285	未分類
 2026-03-15	珍惜生命｜西貢新公眾碼頭對開女子漂浮 救起證實不治	https://www.hk01.com/突發/60330569/珍惜生命-西貢新公眾碼頭對開女子漂浮-救起證實不治	未分類
-2026-03-15	珍惜生命｜慈雲山中心女子墮樓 昏迷送院搶救	https://std.stheadline.com/breaking-news/3553119/珍惜生命慈雲山中心女子墮樓-昏迷送院搶救	未分類
 2026-03-15	慈雲山中心發生墮樓事件 女子昏迷送院搶救	https://www.singtaousa.com/2026/03/15/news/china/woman-falls-from-tseung-kwan-o-center/	未分類
 2026-03-15	年輕男子不滿姊姊給壓力 竟在「車內燒炭」反釀火燒車波及3鄰車遭逮	https://tw.news.yahoo.com/年輕男子不滿姊姊給壓力-竟在-車內燒炭-反釀火燒車波及3鄰車遭逮-134213350.html	未分類
 2026-03-15	【賓士火燒車！北市男在姊姊車裡輕生】 （#大表哥） ●自殺防治1925生命線1995	https://www.facebook.com/ETtoday/posts/賓士火燒車北市男在姊姊車裡輕生大表哥自殺防治1925生命線1995/1378402464318835/	未分類
@@ -1884,7 +1863,6 @@ var DATA_SUICIDE = `
 2026-02-07	美連鎖餐廳驚傳恐怖自殺案 廚師赤裸頭插油炸鍋身亡	https://std.stheadline.com/realtime-world/3542634/美連鎖餐廳驚傳恐怖自殺案-廚師赤裸頭插油炸鍋身亡	未分類
 2026-02-07	珍惜生命｜旺角花園街28歲男燒炭 業主上門揭發惜返魂無術	https://www.stheadline.com/breaking-news/3542579/珍惜生命旺角花園街28歲男燒炭-業主上門揭發惜返魂無術	未分類
 2026-02-07	珍惜生命︱印度3姊妹沉迷KPOP 遭父沒收手機墮樓輕生| 生活熱話	https://www.ohpama.com/1005476/生活熱話/生活熱話/珍惜生命-印度-沉迷-kpop-沒收手機-墮樓-輕生/	未分類
-2026-02-07	演員拍劇意外墮樓險命危 下落頭撞地被彈飛致昏迷 現場影片曝光	https://www.hk01.com/人氣娛樂/60319966/演員蘇德揚意外墮樓命危-下落頭撞地被彈飛致昏迷-現場影片曝光	未分類
 2026-02-07	海口市發生凶殺案 一家3死1重傷 凶手自殺	https://www.epochtimes.com/b5/26/2/7/n14693022.htm/amp	未分類
 2026-02-07	海南海口發生3死1傷刑事案件 嫌犯畏罪自殺	https://www.hkcd.com.hk/hkcdweb/content/2026/02/07/content_8739393.html	未分類
 2026-02-07	旺角花園街住宅28歲男房客燒炭 業主上門揭發惜太遲	https://std.stheadline.com/breaking-news/3542579/旺角花園街住宅28歲男房客燒炭-業主上門揭發惜太遲	未分類
@@ -1987,10 +1965,8 @@ var DATA_SUICIDE = `
 2026-01-18	珍惜生命│東涌男子漂浮海面 獲消防救起送院不治	https://www.stheadline.com/breaking-news/3536706/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E6%9D%B1%E6%B6%8C%E7%94%B7%E5%AD%90%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2-%E7%8D%B2%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	未分類
 2026-01-18	深圳家庭主婦受丈夫責備吞藥自殺 被救回再遭戳腦門：你不容易死	https://www.hk01.com/大國小事/60313846/深圳家庭主婦受丈夫責備吞藥自殺-被救回再遭戳腦門-你不容易死	未分類
 2026-01-17	多線衝突加劇心理壓力 以軍患創傷自殺增	https://hk.on.cc/hk/bkn/cnt/intnews/20260117/bkn-20260117080010004-0117_00992_001.html	未分類
-2026-01-16	高雄旗山14歲女學生墜樓 吐血昏迷送醫搶救	https://tw.news.yahoo.com/高雄旗山14歲女學生墜樓-吐血昏迷送醫搶救-062108353.html	未分類
 2026-01-16	長洲海灘女子服藥尋短 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260116/bkn-20260116115223255-0116_00822_001.html	未分類
 2026-01-16	藍營新竹縣長參選人陳見賢遭爆曾受「管訓」 網發不自殺聲明： 別再騙新竹人	https://www.mirrormedia.mg/story/20260116soc006	未分類
-2026-01-16	珍惜生命│長洲泳灘25歲女服藥自殺 昏迷送院	https://www.stheadline.com/breaking-news/3536122/珍惜生命長洲泳灘25歲女服藥自殺-昏迷送院	未分類
 2026-01-16	珍惜生命│長洲泳灘25歲女服藥尋短 現場檢獲遺書	https://www.am730.com.hk/article/1004181	未分類
 2026-01-16	父母帶女同赴摩鐵尋短未遂 桃檢起訴建議依法加重刑罰	https://n.yam.com/Article/20260116678484	未分類
 2026-01-16	父母帶國中女兒摩鐵輕生被救回 檢依加工自殺未遂罪起訴	https://www.ettoday.net/news/20260116/3102134.htm	未分類
@@ -2235,9 +2211,6 @@ var DATA_SUICIDE = `
 2025-11-30	她上門討薪「隔天老闆上吊亡」！闆娘怒告求償93萬 法院1原因駁回：應自行承擔	https://tw.news.yahoo.com/她上門討薪-隔天老闆上吊亡-闆娘怒告求償93萬-法院1原因駁回-應自行承擔-065500333.html	未分類
 2025-11-30	44歲女星輕生送醫！遭外遇尪勒脖眼球爆血 護家人突發「不自殺聲明」	https://news.tvbs.com.tw/entertainment/variety/3058895	未分類
 2025-11-29	桃園某國中生墜樓！一度失去呼吸心跳 導師曝在校表現	https://www.ettoday.net/news/20251129/3075480.htm	未分類
-2025-11-28	珍惜生命｜西貢42歲女子疑情困墮海昏迷 途人發現報警	https://www.am730.com.hk/本地/珍惜生命-西貢42歲女子疑情困墮海昏迷-途人發現報警/623010	未分類
-2025-11-28	珍惜生命｜女子疑為情困 西貢墮海昏迷送院搶救	https://www.hk01.com/突發/60298498/珍惜生命-女子疑為情困-西貢墮海昏迷送院搶救	未分類
-2025-11-28	珍惜生命｜女子疑为情困 西贡堕海昏迷送院抢救	https://global.hk01.com/突发/60298498/珍惜生命-女子疑为情困-西贡堕海昏迷送院抢救	未分類
 2025-11-27	珍惜生命｜烏溪沙青年新村對開海面老翁浮沉 市民發現報警惜終不治	https://hk.news.yahoo.com/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%83%8F%E6%BA%AA%E6%B2%99%E9%9D%92%E5%B9%B4%E6%96%B0%E6%9D%91%E5%B0%8D%E9%96%8B%E6%B5%B7%E9%9D%A2%E8%80%81%E7%BF%81%E6%B5%AE%E6%B2%89-%E5%B8%82%E6%B0%91%E7%99%BC%E7%8F%BE%E5%A0%B1%E8%AD%A6%E6%83%9C%E7%B5%82%E4%B8%8D%E6%B2%BB-043357232.html	未分類
 2025-11-27	珍惜生命｜烏溪沙青年新村對開海面 男子疑墮海 獲救送院	https://www.hk01.com/%E7%AA%81%E7%99%BC/60298125/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%83%8F%E6%BA%AA%E6%B2%99%E9%9D%92%E5%B9%B4%E6%96%B0%E6%9D%91%E5%B0%8D%E9%96%8B%E6%B5%B7%E9%9D%A2-%E7%94%B7%E5%AD%90%E7%96%91%E5%A2%AE%E6%B5%B7-%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2	未分類
 2025-11-27	珍惜生命｜乌溪沙青年新村对开海面 男子疑堕海 获救送院	https://global.hk01.com/%E7%AA%81%E5%8F%91/60298125/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B9%8C%E6%BA%AA%E6%B2%99%E9%9D%92%E5%B9%B4%E6%96%B0%E6%9D%91%E5%AF%B9%E5%BC%80%E6%B5%B7%E9%9D%A2-%E7%94%B7%E5%AD%90%E7%96%91%E5%A0%95%E6%B5%B7-%E8%8E%B7%E6%95%91%E9%80%81%E9%99%A2	未分類
@@ -2537,7 +2510,6 @@ var DATA_SUICIDE = `
 2025-08-29	秀茂坪南邨男子墮樓 昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20250829/bkn-20250829041036731-0829_00822_001.html	未分類
 2025-08-29	當偏執者遇上ChatGPT：和AI對話如何讓他走向弒母自殺的深淵	https://cn.wsj.com/articles/%E7%95%B6%E5%81%8F%E5%9F%B7%E8%80%85%E9%81%87%E4%B8%8Achatgpt-%E5%92%8Cai%E5%B0%8D%E8%A9%B1%E5%A6%82%E4%BD%95%E8%AE%93%E4%BB%96%E8%B5%B0%E5%90%91%E5%BC%92%E6%AF%8D%E8%87%AA%E6%AE%BA%E7%9A%84%E6%B7%B1%E6%B7%B5-c5184946	未分類
 2025-08-29	珍惜生命｜失蹤八旬翁馬鞍山落禾沙里上吊亡 義工搜索隊尋獲報案	https://www.hk01.com/article/60271293?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-08-29	洪水桥17岁青年堕楼亡 疑不堪情困轻生	https://www.marketersgo.com/uncategorized/202508/快檢查！下載「免錢app」慘被連扣7千元 刪掉也沒/	未分類
 2025-08-29	將軍澳男子膠袋笠頭輕生 昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20250829/bkn-20250829054341788-0829_00822_001.html	未分類
 2025-08-29	學業問題困擾18歲仔杏花邨吸氦氣自殺身亡| 討論牆	https://www.hk01.com/突發/60271458/迪士尼樂園frozen園區-菲籍男玩機動遊戲昏迷-送院不治	未分類
 2025-08-29	KN ГРАМИННЕШН 洪水橋洪福郊 17嵗少年墮樓亡 疑受感情問題困擾	https://www.tvb.com/varietynews-c/健康新聞報道｜跑步會令你突然死亡-失眠都會有遺傳-1008377	未分類
@@ -2650,7 +2622,6 @@ var DATA_SUICIDE = `
 2025-07-15	父親曾是喬治克隆尼經紀人！好萊塢富二代肢解妻子一家，未解釋犯案動機在牢中自盡身亡	https://cava.tw/topic/fun-fact/259208	未分類
 2025-07-13	九龍城真善美村八旬翁上吊 兒子發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20250713/bkn-20250713230355701-0713_00822_001.html	未分類
 2025-07-08	珍惜生命｜將軍澳明德邨女子家中自縊 女兒解下惜送院亡	https://www.hk01.com/article/60254840?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-07-08	涉挪用資金？俄前交長遭蒲亭開除 幾小時後飲彈自盡	https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wWGc1dXV3WmF3bmF2bnJ1UjA4R0F0QVA4eVZuWWJRR185VzhvMy0tRHdaZUFIdFVwVm1iQjBnX2stQUJkOUlFN21DQzV1dFE?oc=5	未分類
 2025-07-08	2001年女教師燒炭案死者兒子「為阿媽翻案」 轟父親大話連篇：佢害死我阿媽！ - 東張+	https://www.mytvsuper.com/tc/scoopplus/scoop/catch-up/15544741530317?utm_medium=Socialmedia&utm_source=yt&utm_campaig	未分類
 2025-07-07	珍惜生命｜大角咀海富苑女子家中自縊 夫與鄰居合力解下惜送院亡	https://www.hk01.com/article/60254338?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-06	珍惜生命｜上水紀律部隊宿舍53歲女子自縊 丈夫解下送院惜不治	https://www.hk01.com/article/60254151?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -2910,7 +2881,6 @@ var DATA_SUICIDE = `
 2024-06-28	中金30歲女員工疑因降薪墮樓自殺 網傳去年剛貸款買上海千萬房產	https://www.hk01.com/article/1033268?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-06-26	珍惜生命︱元朗朗城滙女子疑尋短暈倒屋內 夫揭發報案送院	https://www.hk01.com/article/1032656?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-05-29	台灣25 歲派出所代理所長飲彈自盡疑情關難過輕生	https://www.orangenews.hk/china/1223500/%E5%8F%B0%E7%81%A325%E6%AD%B2%E6%B4%BE%E5%87%BA%E6%89%80%E4%BB%A3%E7%90%86%E6%89%80%E9%95%B7%E9%A3%B2%E5%BD%88%E8%87%AA%E7%9B%A1--%E7%96%91%E6%83%85%E9%97%9C%E9%9B%A3%E9%81%8E%E8%BC%95%E7%94%9F.shtml	未分類
-2024-05-21	英國國安法案37歲被告伏屍公園據報曾企圖自殺 警方將驗屍調查死因	https://news.google.com/rss/articles/CBMipANBVV95cUxPdGs1a1laTmpwUkd3OTdtM1ViMGFLNzJocklrM0dEWllUWWR4SDZWbkNrVFJOWXhfQWZHVWFqdnlUZDdkRzU3SG9rcC0zeEYxbTlhSlItZERSd2k2eEVxYXFneFF3ZEljYUVObVZ5ckxRMkNMUnZ0YlYwTXZweHRCekRBcTF1ZERPQjBWZTRFRUk1R3RtNDdyUWk0WEEwQXJZVU5PaFB0SU1Ld1I1WFVwZXVua2o0alY4MnRyR01QczF0Z3E5TVJ1QTBwdUNRZVFFRjEtaXhCeDZKUmxCWDlnQzBXVWN2VVdzM2pJTDdwbkhGODljc0s5VkltMTVZWDRocTVyY0V1YWpMUXVCZm1WWVoxT1hRNE92bzZWUVZFVnpvbkp0Mmg4UnV0c1ZCWms0MVlHY2tsRkFnUjlRdlE2bEZRc1RtcVlMUjA2OXRoTF9zamlWVzdseE1JX0d4V2p3Ul9GVzl2Q0pOMzRhQ0ZLc3BvcXlaemZQaFpqbkgyREhocXJPWjJDTnZ6WjJ5clI4ajdReElRTFRaaWpxTVgtM1JoaDA?oc=5	未分類
 2024-04-30	五旬夫婦疑因債務問題 相約車內輕生亡	https://hk.on.cc/hk/bkn/cnt/cnnews/20240430/bkn-20240430050416678-0430_00952_001.html	未分類
 2024-04-19	珍惜生命｜34歲男子疑用水果刀自殘倒斃房間 父親揭發惜太遲	https://www.hk01.com/article/1011722?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-04-16	葵涌財困中年漢燒炭 家人發現惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20240416/bkn-20240416214201675-0416_00822_001.html	未分類
@@ -3055,7 +3025,6 @@ var DATA_SUICIDE = `
 2023-01-21	元朗中年男住所上吊 妻子發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20230121/bkn-20230121014356860-0121_00822_001.html	未分類
 2023-01-19	上水清河邨女子墮樓 當場殞命	https://hk.on.cc/hk/bkn/cnt/news/20230119/bkn-20230119021016871-0119_00822_001.html	未分類
 2023-01-18	赤柱18歲法籍女不堪學業及疾病困擾 家中仰藥昏迷	https://hk.on.cc/hk/bkn/cnt/news/20230118/bkn-20230118012915301-0118_00822_001.html	未分類
-2023-01-18	珍惜生命｜赤柱18歲法籍少女尋短 昏迷送院搶救	https://www.hk01.com/突發/858359/珍惜生命-赤柱18歲法籍少女尋短-昏迷送院搶救	未分類
 2023-01-18	珍惜生命｜深水埗婦人及老翁先後自殺亡	https://hk.epochtimes.com/news/2023-01-18/62870538	未分類
 2023-01-18	珍惜生命｜深水埗15分鐘內揭發兩宗自殺案 均告不治	https://www.hk01.com/突發/858352/珍惜生命-深水埗15分鐘內揭發兩宗自殺案-均告不治	未分類
 2023-01-18	六旬漢白田邨燒炭 親戚發現惜為時已晚	https://hk.on.cc/hk/bkn/cnt/news/20230118/bkn-20230118001103211-0118_00822_001.html	未分類
@@ -3100,7 +3069,6 @@ var DATA_SUICIDE = `
 2023-01-03	珍惜生命｜中年男子疑因生活問題困擾燒炭亡	https://hk.epochtimes.com/news/2023-01-03/88630605	未分類
 2023-01-03	珍惜生命｜上水七旬翁上吊 昏迷送院搶救	https://www.hk01.com/article/853409?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-01-03	珍惜生命 | 天水圍女子墮樓亡	https://www.hk01.com/%E7%AA%81%E7%99%BC/853355/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1	未分類
-2023-01-03	彩園邨七旬翁家中自縊 昏迷送院	https://hk.news.yahoo.com/彩園邨七旬翁家中自縊-昏迷送院-112945017.html	未分類
 2023-01-03	哥市年輕餐廳店主 疑感情問題餐館內上吊輕生 ｜ 社會	https://www.orientaldaily.com.my/news/society/2023/01/03/537759	未分類
 2023-01-02	珍惜生命｜大埔運頭塘邨男子垃圾站旁自縊 消防解下證身亡	https://www.hk01.com/article/852967?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-01-02	珍惜生命｜元朗大埔2老翁先後自縊亡。	https://hk.epochtimes.com/news/2023-01-02/17001045	未分類
@@ -3122,7 +3090,6 @@ var DATA_SUICIDE = `
 2022-12-23	珍惜生命｜大圍美田邨八旬老翁商場墮下送院亡。	https://www.hk01.com/%E7%AA%81%E7%99%BC/850075/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%A4%A7%E5%9C%8D%E7%BE%8E%E7%94%B0%E9%82%A8%E5%85%AB%E6%97%AC%E8%80%81%E7%BF%81%E5%95%86%E5%A0%B4%E5%A2%AE%E4%B8%8B%E9%80%81%E9%99%A2%E4%BA%A1?itm_source=universal_search&itm_campaign=hk01&itm_content=all&itm_medium=web	未分類
 2022-12-23	25歲「辣媽網紅」爆輕生亡 前1天才PO露點照！閨蜜慟：世界辜負她	https://www.ettoday.net/news/20221223/2407134.htm	未分類
 2022-12-22	屏東警早班缺勤 同袍發現寢室尋短亡	https://hk.on.cc/hk/bkn/cnt/cnnews/20221222/bkn-20221222030007343-1222_00952_001.html	未分類
-2022-12-20	疑車內服藥自殺, 男不治女昏迷。	https://paper.hket.com/article/3425126/疑車內服藥自殺 男不治女昏迷	未分類
 2022-12-20	珍惜生命｜七旬婦鰂魚涌墮樓送院亡。	https://www.hk01.com/%E7%AA%81%E7%99%BC/849113/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E4%B8%83%E6%97%AC%E5%A9%A6%E9%B0%82%E9%AD%9A%E6%B6%8C%E5%A2%AE%E6%A8%93%E9%80%81%E9%99%A2%E4%BA%A1	未分類
 2022-12-20	【珍惜生命】打鼓嶺坪輋一對男女燒炭亡, 初步懷疑因財政問題輕生。	https://topick.hket.com/article/3425406/【珍惜生命】打鼓嶺坪輋一對男女燒炭亡 初步懷疑因財政問題輕生	未分類
 2022-12-19	南灣道夫婦車內仰藥燒炭尋短 癌末夫斷魂 情深妻命危	https://hk.on.cc/hk/bkn/cnt/news/20221219/bkn-20221219105444259-1219_00822_001.html	未分類
@@ -3411,124 +3378,57 @@ var DATA_SUICIDE = `
 2022-06-20	珍惜生命｜油麻地京士柏道中年漢上吊亡	https://www.hk01.com/sns/article/783262	未分類
 2022-06-17	珍惜生命│香港仔華富邨女子墮樓亡	https://www.hk01.com/sns/article/782587	未分類
 2022-06-15	大欖懲教所52歲男囚企圖自殺遭制止送院救治- 香港	https://www.tkww.hk/a/202206/15/AP62a9956be4b0a46902735091.html	未分類
-2022-05-29	馬鞍山16歲男童墮樓昏迷送院	https://hk.news.yahoo.com/馬鞍山16歲男童墮樓-昏迷送院-064730951.html	未分類
 2022-05-27	剛分發一個月...高雄衛生局23歲男員工墜樓身亡死因待查	https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/05/27/1/17123883.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=800&nt=1	未分類
 2022-05-12	遭微信殺豬盤坑殺90萬 芝城華女舉槍自盡	https://www.worldjournal.com/wj/story/121473/6817202	未分類
 2022-04-27	歡慶地球日？ 多國發起氣候抗議行動 美倡議者自焚身亡	https://www.e-info.org.tw/node/233937	未分類
 2022-03-30	氣喘藥藏情緒障礙、自殺威脅？專科醫解析背後真相	https://www.uho.com.tw/article-57652.html	未分類
 2022-02-12	(華裔母子跳海自殺 母親遺體今日尋獲)	https://www.worldjournal.com/wj/story/121390/6809565	未分類
 2022-01-15	(男子秀茂坪墮橋昏迷送院)	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20220115/s00001/1642243000228/%E7%94%B7%E5%AD%90%E8%B5%A4%E6%9F%B1%E8%A1%8C%E5%B1%B1%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	未分類
-2021-12-12	安泰邨少年與父爭執離家後墮樓亡| 生活熱話	https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZEpYZTZza29DNnlzTlY0VW43bHA3WjYyOExxeEo3eUszYVpwQVNicDhVd1BSQ2lzMTFfcUc0YktyZDAyZDFiaklqS3BzLXBOWG91RG54TGlSVkp4cWtJVmpVZFpsdzM3dEhtTFJobVZ0N1U2S2VIMWFTSFhhNk8wWEtIejhIdWNmZkZnWWhITFRCM3A3QnVaLWZxUEFiczY4M2VFOWtCMFl1eWg3RzF1NVJIcXJWSWNfVVVkTVZIbzRqWXNDakZrLWVRR0R3UjVWSTZDRkN1RXNsSnpsMDFsUEpEX3paSGYtWWxIWXl2dk9kVDNFdll1ZjlKU3lpVW4weVJ2TGwzZzMwX1pORkQ1VVdNM3ptYnJncjVmRjdVZDlLYlBuTFd5U3JkSDdNZnFlVEhveGdlSC1fbGp6ZkZkeng5cTRpem9BWnpHV1IzaVZEOXFEUFhhdWJPLXpwdw?oc=5	未分類
-2021-12-08	東涌印度漢疑受情困 寓所墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVFdTTktyUjd0T0JiOTh6bHVBc2oyUmFwZkhRZl9pVjlPdEJSSWREYmdTVGh3dVZBVnlxRVNuRF9jeXltMXliVGpOMXgya3lIckliajZQMjktdlBzRWM1SG9mTHZaYjVKWVJpTjVITnFtRmF4WEJ6ZWFkZWM1S3NMN0hibWZMb2dwVjkw?oc=5	未分類
 2021-12-06	【2021年十大新聞】太魯閣號列車撞落軌工程車 失控出軌釀49死247人輕重傷	https://tw.news.yahoo.com/%E3%80%90-2021-%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%96%B0%E8%81%9E%E3%80%91%E5%A4%AA%E9%AD%AF%E9%96%A3%E8%99%9F%E5%88%97%E8%BB%8A%E6%92%9E%E8%90%BD%E8%BB%8C%E5%B7%A5%E7%A8%8B%E8%BB%8A-%E5%A4%B1%E6%8E%A7%E5%87%BA%E8%BB%8C%E9%87%80-49-%E6%AD%BB-247-%E4%BA%BA%E8%BC%95%E9%87%8D%E5%82%B7-010047663.html	未分類
-2021-11-08	將軍澳男子墮樓 當場氣絕	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHFYMXVIdmhTWnBsTHJwT3Y4SGkxcGdFcU82XzBGNGlIY2tvSHhtYmdId0ZMSWQ2eWlIdXlsUWhKRDhaQk1zcDFWeDlGV3pxNWJKU3NZb2EyQi1nWEVDOWhCTEV3VTAzUkt1NjVHV25HREpLUUJ2MEEtdDZ2WkhFR3dxaEo0dTJxbl9B?oc=5	未分類
 2021-11-07	抗逆能力培養｜開學兩月5宗學童自殺案！社會出了甚麼問題？｜思欣專欄	https://www.businesstimes.com.hk/articles/135972/抗逆能力培養-開學兩月5宗學童自殺案-社會出了甚/	未分類
-2021-10-26	復課兩個月五學生墮樓 學者：校方應體恤學生壓力	https://news.google.com/rss/articles/CBMi2gJBVV95cUxPR2tTR1dheGNJWnRsbTcyWUVpeXRvZTMzbnhhVzE5X01Uclprc1JqM1YxMHlLeTR2YTNBRFZibVNlSXFKbVd0Q21NQ1VOa0VDT25rNVRJbWc3STF6YTg0aUstRXVsRHAtWGFTTjlSbzBOZWNZaFNYTGN2UFJid1JrMWt0c2w3TE1tMHg4ZEdUa3RWMjZaNHMwc2VBaDdYZGVxMzdKSUNnMTRkRGlxQU9vU2FoY04wZ3lEbU9HVEtuOWxBQjRCZ1BUajlmWHlMNWtHVWlBc25Xam9HTDRfcGl6bXNRN2N4RXdWUUtBNGs2LWRDTFdhSnBSQXFpXzBXZEVJMlRCRlpycVBXcEJkZ0w5ZjFxbzQ0R2dSOXlLVzFOR1lDa090LTY4RFF2bGlBTzJCNmZLdmFCbWw3U3ZEODZ5UE1WNVkyQ1MzeERuRldWS1YtaVhBZ2h5bUNB?oc=5	未分類
-2021-10-25	觀塘中學男生墮樓 多處骨折送院救治	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVBwT2tnallhNmJlOEJZT1VOWmQ2OXhHb0J2VlBDMlJDUnVsTDlwQkJMTFJRUmg5bGl0d3BGeklQMUpuR3ZxTElMYV9lV0lvX3JQVWR3WTczUWYzMi1RUVV3c0wzT0xYdUtyd3JVRjkwS3ZBS3ljWkNSZjMzclhUb3FxcFByNXdWTkJr?oc=5	未分類
-2021-10-24	良景邨24歲男商場墮樓亡	https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc3M0a1dTcXlzb2dPaGhXMXl1WDBMREZ5N1lKc0FnblRrN2ZrcnJYRFlXZHVhY2JvUi1aVHBUZW9mdkdkNEdnU3ZqRVE4RldkSkZCaUdQbWZzbHZwSGkwdERocnNzdHBrWjlQSWlHeEtYeGJCVDR1Nlk3UC1DSFpyS1FicXRWNWtkTmROZW1Kd180TTFJbURxQTl1c1lCZnBzQU55ZGs2dmg2M2xzTUx3bmVOZGhaZEtHd1VJeDdsZkRDOXFtdDJNRGR5MndRVkdJ?oc=5	未分類
-2021-10-23	華景山莊18歲仔墮樓亡 警查原因	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNjlGZHZkTkJRX1FmR1d2Wkg0SXpMXzBiZHlScGZ0Y3VqOTdtSFNNNTdGOWRVMjJtQzFlREV4WlNfb2Q4akFhS2x6UkVSV3hsczVnb1VQMkltXzBmTG8tUzNOT2xsd3g5Y1A3TlJ4enZCSHpPR2YwaU1ZTTgzZ2luc04wYkZHeXhFcmN3?oc=5	未分類
 2021-10-05	時代雜誌憂！美國兒童吞藥自殺五年來屢創新高	https://www.peopo.org/news/589169	未分類
-2021-09-18	彩雲邨5旬女墮樓 當場殞命	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUmZ6VTlwY0NnSUFjOEdYSm5BNjJUVDNRcUtac2VBR1MtMnp0OU85WlA0dGdINkNUNmhOSklQbjNFZGtRWjRVU0k4LU1wUTQyb2x5YkVMTjM5NzBnUWZZVTZMRDdZTFRwZXRWcXJvMkZZZlZ5MDlpbEQzdFF6aVdJQTJrazVJSzBhdGdr?oc=5	未分類
 2021-08-19	珍惜生命｜紅磡必嘉街唐樓女子墮樓亡	https://www.hk01.com/%E7%AA%81%E7%99%BC/666017/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E7%B4%85%E7%A3%A1%E5%BF%85%E5%98%89%E8%A1%97%E5%94%90%E6%A8%93%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1	未分類
 2021-08-16	自殺特攻．影評｜顛覆美國「救世主」形象 重新定義「超級英雄」	https://www.hk01.com/%E6%B7%B1%E5%BA%A6%E5%A0%B1%E9%81%93/663212/%E8%87%AA%E6%AE%BA%E7%89%B9%E6%94%BB-%E5%BD%B1%E8%A9%95-%E9%A1%9B%E8%A6%86%E7%BE%8E%E5%9C%8B-%E6%95%91%E4%B8%96%E4%B8%BB-%E5%BD%A2%E8%B1%A1-%E9%87%8D%E6%96%B0%E5%AE%9A%E7%BE%A9-%E8%B6%85%E7%B4%9A%E8%8B%B1%E9%9B%84	未分類
-2021-08-12	翠林邨男子墮樓 壓毀窗戶及晾衫架伏屍平台	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVkZ2QW42UjRoV3JGWmRPSzItYk13YkpXZWUwX0V4ZVNuVDU4UVoybFlvNHA4OU4zS2NFOWRXY2EyQXA0eW91eWtWU0R4eUVJMVVDVVQ5djFtaEE2Y2NScF9xM3o1bTAyMm5MVkRmckxhN1d6Yy13UEZzSjFxckJuVzNTejJjRllLNEpN?oc=5	未分類
-2021-07-31	屯門黃金海岸21歲女子墮樓亡	https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMWduZnc1VEtoMmxKZGRLMFZEYm92eWhjNkNsdlR3N2xaek1ZTkFNczVWeUlZNVB4eTNvdTdCR0NLc04tRjRCUkJ0NEwxeW95MDFHM0RfQUNFSGNnXzFoOHEwLXQ3RFppU1FyT1Rvb2FJZXFOalNGanBYQWJMbDJNU1BFVy1pajE2YjZYYlZsMk16czFpMURXalR3c1prelNiRF80cU5QbE0xSExDYlg2WUdLeGVIaHlDY3c4MGdmZUNQRjMxQk9LQlNOb0FGejV1R2tteFJfSzJNNWhNbHNNaVpYWllFSWRJ?oc=5	未分類
-2021-07-20	長沙灣女子墮樓 當場命殞	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT1FxSklBbmVxUXoxVjZEcGVxb18wWklNa2dHc0ZFY0czazN2MlhVdDZMSE5qY1FRdnJsWF9xYlRhdGd1enhmZzdZQUxtRjhTMDdPNld1ZzNDZ3d1dlpZd0tmTFJUSHlveXJweGlzalBnYnk3S1dIVXVTM1cxNUxFTkZ2SkJRMGZhX3Mw?oc=5	未分類
 2021-07-12	快訊／鳳山驚傳男子墜樓濺血 路過鄰居被嚇壞妻崩潰痛哭	https://www.setn.com/ampnews/966461	未分類
 2021-06-19	台灣新手爸爸意外焗死半歲女兒 疑因自責自殺亡	https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/640116/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%8F%B0%E7%81%A3%E6%96%B0%E6%89%8B%E7%88%B8%E7%88%B8%E6%84%8F%E5%A4%96%E7%84%97%E6%AD%BB%E5%8D%8A%E6%AD%B2%E5%A5%B3%E5%85%92-%E7%96%91%E5%9B%A0%E8%87%AA%E8%B2%AC%E8%B7%B3%E6%A8%93%E8%BA%AB%E4%BA%A1	未分類
-2021-05-25	梁凌杰前年太古廣場墮樓亡 死因庭裁定死於不幸	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fMDhQdUV1X3hwaXA1OURIMEoxcy1RaW50bVdiNVdNUHpBMlVWM2wxNHdETTlncllUbTF0X0hJQndZOEViQzlpVTdYZW5YX3VHZGNWbm1NdGIzN1ZUODFKaV9R?oc=5	未分類
-2021-05-09	煜明苑女子墮樓亡 保安員揭發報案	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXdKWFIyc056ZHJGQnRzVEtmODNfWHd0b3hJMlhOMFU4bkU4WWVIZlRadTlqdEoyR2EtZG83YkEyb3J5T1RpNFBaTFB0UjZ1WFFlVU9TWmV0ZTVQSTBqNjBrLTJmUVpWdDRKVDFGOFI4Q3g4NnRkMnkyVkJwdGExZzNPUWFpMG1JU1dr?oc=5	未分類
-2021-04-18	葵涌男子墮樓斃命 屍掛平台嚇煞街坊	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcnBzNlpwRlJTbFlvOFZJTWE2UXV3NWo2MXk0RzZYX1hrU1Zob0VudTBTTlQ1YUdtZEc1dUZLMVpMVmxETkpSNFFfNXVaQnpEN3A2eENOUGNqdzRXN054S3o4YVozLUlFcTRkanZadUx5U3FpZVAxZmFudkNLX0gyam1TOEFvTnVjOGFv?oc=5	未分類
 2021-03-12	望高寮雙屍案 夫殺妻後自縊	https://www.cdns.com.tw/articles/372727	未分類
 2021-03-06	深夜直播台南廢墟驚見白骨屍 現場遺書「5個字」網友鼻酸	https://www.mirrormedia.mg/story/20210306web002	未分類
-2021-03-04	青衣女子墮樓 當場命殞	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHFhNHdBeW1jN2tndHAxSFlnVERwWndKN3BPUjN6N1VLOXd4S21YQTBDdElNUGpCeUJKYVN2WnpKeUJCcDRoWTZWSThla2xWZEZZLVdhTG1ZV083enV2S0lBNFpERVl3SkpjWFRTaVh4engxcXNMTzlWQkp5Tk4wNDFIRWRwZXRkNnAw?oc=5	未分類
-2021-03-04	不堪感情困擾 安達邨15歲女墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdDYybFBkbXBteHF3MUFfU2EwblhzemNGWnIxOVBiWVBjaHM5Y29JdXlvc2hSU3RHcmtDcnJZelJlZ0dtMEx5ZFpqbnhlUWNFTURpVFFPWGQ1VVpUZExKUzFaUkh1dGQxNGJSUEtDV3h0WW91OUtQenQ2NjdZR1kwa051VTNZN3JuNEFJ?oc=5	未分類
 2021-03-01	七旬婦北角勵德邨上吊亡 女兒揭發報警	https://hk.news.yahoo.com/%E4%B8%83%E6%97%AC%E5%A9%A6%E5%8C%97%E8%A7%92%E5%8B%B5%E5%BE%B7%E9%82%A8%E4%B8%8A%E5%90%8A%E4%BA%A1-%E5%A5%B3%E5%85%92%E6%8F%AD%E7%99%BC%E5%A0%B1%E8%AD%A6-073700621.html	未分類
-2021-02-22	土瓜灣情困女子墮樓 血流披面送院	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3RKMXpkeE9DVmRJTUIzbUdta0hpVVJiSGwzb0twcjh2cUVBbWtvVmdvU2FudkZCdnV1bXE3TEZHemlyczhaY00zczg5RDAtWGtFZ2xwRzR5WjBtbUNJN0k3Z2NlUzM1N3JEemZiZnNhZGxLZjBIejA4clJ0dVBuckloWUxRaWxVZ21V?oc=5	未分類
 2021-02-10	父母墮斃｜欠債兒疑教唆父母墮樓亡 臨陣「縮沙」 遭警拘捕	https://www.hk01.com/%E7%AA%81%E7%99%BC/585989/%E7%88%B6%E6%AF%8D%E5%A2%AE%E6%96%83-%E6%AC%A0%E5%82%B5%E5%85%92%E7%96%91%E6%95%99%E5%94%86%E7%88%B6%E6%AF%8D%E5%A2%AE%E6%A8%93%E4%BA%A1-%E8%87%A8%E9%99%A3-%E7%B8%AE%E6%B2%99-%E9%81%AD%E8%AD%A6%E6%8B%98%E6%8D%95	未分類
-2021-02-09	寶珮苑男子天台墮樓 當場斃命	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM1VNUDRQOGxxcnluN08zLVI0TUZfd1Jyei1uR1dVWDM0aWFXRlZBTUhJcXppZ0djWDdzX1FHQ3B1OXAtTTlETVVDTHV6ckdZNERMMTVURUFrWmhKbnBzWjh0NWMwaTVGMTFnVlAxZDgyOTBoRGJuOGlQNGZuNGdKSl8wVjNxdld1aUlv?oc=5	未分類
 2021-01-30	黃芳彥在美飲彈自盡 媒體人嘆：現在最想了解吳淑珍的心情 | 羅立邦 | 新聞	https://www.storm.mg/article/3436156	未分類
 2021-01-29	黃芳彥在美飲彈自盡 游盈隆憶往事：展現台灣人武士道精神 | 羅立邦 | 新聞	https://www.storm.mg/article/3434809	未分類
-2021-01-26	廣福邨男子墮樓亡 警查原因	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmY4eWlDMzVJQ1hhclRjYjZuOHF5X1l6NFpEdXhfUXNiUzZTS2lKd0cxa1JseUtUTVhFVXNjTFhrbERWc2lFLWFRV3AtZURsQl9vQ0NVZ01PNHBBdndsUUNrc280VGJ0cU50YmxBN216VkRxZ0JMc2twLWt5dDhhMjNUYVU3RXhmeDZn?oc=5	未分類
 2021-01-11	新／員工猝死、自殺 拼多多黃崢為陸第2大富豪全球17大	https://www.setn.com/news/880499	未分類
 2021-01-11	拼多多員工猝死又自殺 上網爆料工程師被開除	https://www.setn.com/news/880282	未分類
 2021-01-09	門窗緊閉！北市民宅燒炭煮鍋 一家三口頭暈送醫	https://www.setn.com/news/879457	未分類
 2021-01-01	曹光彪前孫婿韓福南西貢車內燒炭亡 疑受金錢問題困擾	https://www.stheadline.com/article/2084302/%E6%9B%B9%E5%85%89%E5%BD%AA%E5%89%8D%E5%AD%AB%E5%A9%BF%E9%9F%93%E7%A6%8F%E5%8D%97%E8%A5%BF%E8%B2%A2%E8%BB%8A%E5%85%A7%E7%87%92%E7%82%AD%E4%BA%A1-%E7%96%91%E5%8F%97%E9%87%91%E9%8C%A2%E5%95%8F%E9%A1%8C%E5%9B%B0%E6%93%BE	未分類
-2020-12-26	深水埗麗閣邨老婦墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWUxWTDhmaW9zSGZ5MEFlSXdaOFVmSmtlcThfM3cybVAtUV9fbGVsa0lwQnFaWHRCd2N6N3VZWVp4a2pGek1ERFFnYWJoMkRmdTZHVG90Y1dPb1l0c3VxT0tqdW1udUctTVdBNVZWaG1POUZPbUVqVEgzaTBYLW9td0tyaHFpYkF5WmFR?oc=5	未分類
 2020-12-18	周梓樂死因｜虛擬實境系統展示周墮樓位置 案發現場搬上法庭	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/563454/%E5%91%A8%E6%A2%93%E6%A8%82%E6%AD%BB%E5%9B%A0-%E8%99%9B%E6%93%AC%E5%AF%A6%E5%A2%83%E7%B3%BB%E7%B5%B1%E5%B1%95%E7%A4%BA%E5%91%A8%E5%A2%AE%E6%A8%93%E4%BD%8D%E7%BD%AE-%E6%A1%88%E7%99%BC%E7%8F%BE%E5%A0%B4%E6%90%AC%E4%B8%8A%E6%B3%95%E5%BA%AD	未分類
 2020-12-17	【回顧2020．娛樂】日本年內8名藝人尋短 竹內結子三浦春馬事前無預兆令人扼腕	https://hk.news.yahoo.com/%E5%9B%9E%E9%A1%A7-2020-%E5%A8%9B%E6%A8%82%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%85%A7-8-%E5%90%8D%E8%97%9D%E4%BA%BA%E5%B0%8B%E7%9F%AD-%E7%AB%B9%E5%85%A7%E7%B5%90%E5%AD%90%E4%B8%89%E6%B5%A6%E6%98%A5%E9%A6%AC%E4%BA%8B%E5%89%8D%E7%84%A1%E9%A0%90%E5%85%86%E4%BB%A4%E4%BA%BA%E6%89%BC%E8%85%95-054429174.html	未分類
 2020-12-02	長洲雙屍｜財困父子燒炭走上絕路 遺孀悲痛認屍哭斷腸	https://www.hk01.com/%E7%AA%81%E7%99%BC/556373/%E9%95%B7%E6%B4%B2%E9%9B%99%E5%B1%8D-%E8%B2%A1%E5%9B%B0%E7%88%B6%E5%AD%90%E7%87%92%E7%82%AD%E8%B5%B0%E4%B8%8A%E7%B5%95%E8%B7%AF-%E9%81%BA%E5%AD%80%E6%82%B2%E7%97%9B%E8%AA%8D%E5%B1%8D%E5%93%AD%E6%96%B7%E8%85%B8	未分類
-2020-11-22	抑鬱婦鬧離婚 與子女燒炭同死	https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdzJrenNoeHJYVDVxcjBoSUhKSUpLTHYyR1F1LXg2alhyWkVMdWdXMlg3QVc0QVJmU1RWQ3E1R3B5V1doZEl1MWx1TU4tWUtCMnRTSDZudTJISXNOdXV1WFZWM09HQXAxWWZKNnRSYVE5NHBCWHJxaWVIdWlTNVRqTmNvWDdMWmh2aWpPcXNsTEZHMGU4V0k0UUNZVi1nUnB4MEx1RlRrSnJpMW9wb19kVEkwWHFiYnBLZV9rMVNoVEdQYnU5Sk1nTlZqeWdzbm8wbEtSQ1p5VHk3YmxfMjRzNTlQWmU4OEEtX29rZkdKOTl5d1g0cXAwajBmR1Q?oc=5	未分類
-2020-11-17	「電競女神」Rose Ma轉型玩蠟：我唔會自殺！	https://news.google.com/rss/articles/CBMieEFVX3lxTFBMSS1KaEpONTlJUWNhd1FrNWxvTEVXLVFTc0FBdndxTWFYUU9aRWp4aElmaFk2NFpKVUwwRnotSVd5eEI0MDNMLU9fdlhtM25GcmtJTWZ1NEcwWElNVDh2UlRYZjNRa0YxTENqeU1ScmVLTFk1WnBzSQ?oc=5	未分類
 2020-11-09	【珍惜生命】香港仔女子疑墮橋倒臥馬路 送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/546280/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%A6%99%E6%B8%AF%E4%BB%94%E5%A5%B3%E5%AD%90%E7%96%91%E5%A2%AE%E6%A9%8B%E5%80%92%E8%87%A5%E9%A6%AC%E8%B7%AF-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	未分類
 2020-10-21	「孩子怎麼會割腕？」年逾7000名青少年自殺未遂！醫曝10大青少年憂鬱警訊 成績變差、話變少都要留意	https://health.tvbs.com.tw/nutrition/325667	未分類
-2020-10-17	太古城女子墮樓亡 警查原因	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXFxdmt1NUJMWEEwTmtMQXRiYklndW5EbFU3cDJBSjRnXzhIUk9GTXZEdERCekdyS1ZydkVwMXJhV21xS3o4WXFyZGtKV3hJQ1I3c3FZLTdsczdGOGlJTm5MSnRBa1p3TWcwcGNmcmJCbmlHMTc0cjZ0UWp1NzRXb1dSUUNUZkxOTEpR?oc=5	未分類
 2020-10-05	美心集團女婿中環墮樓亡 妻子伍淑芬﹕我唔想接受訪問	https://www.hk01.com/%E7%AA%81%E7%99%BC/531968/%E4%BC%8D%E6%B7%91%E6%B8%85%E5%A6%B9%E5%A4%AB%E5%91%A8%E8%A3%95%E8%BE%B2%E4%B8%AD%E7%92%B0%E5%A2%AE%E6%A8%93%E4%BA%A1-%E5%A6%BB%E5%AD%90%E4%BC%8D%E6%B7%91%E8%8A%AC-%E6%88%91%E5%94%94%E6%83%B3%E6%8E%A5%E5%8F%97%E8%A8%AA%E5%95%8F	未分類
 2020-10-05	【溜冰少女被殉情1】車內燒炭不關窗 死者手心3字令警起疑	https://www.mirrormedia.mg/story/20201004soc003	未分類
-2020-09-10	中年漢大坑道豪宅墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWkFYR3czcTB3bC1fcnpYMXJGenFsVGhBN2JDa0NOOWVrbGJsUDktX0ZoeEI3VlNrSkRTLXZtQjFiN1lyZW9YQmtQUnZxRkFUdmZUX011NFNuYlQ5MzR2S0wxeld3S0M5V2o2dVN4aUdrU09jRW95c1lpLVhia1Z1ZWhEMlp1RG1uaUtF?oc=5	未分類
-2020-09-09	新北19歲男倒浴室 台中飯店雙屍案疑燒炭！家屬悲慟趕赴辦後事	https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tdnhvbnM5d2lEeTVseHVNR0x0TmJEdFFwaXNkVGozWUdkelFSQ0N1QnR3dDdqM0hXYWpPWmk1NjV6RWJ6QWRSNVFOZWdNWHpBRmphRVpDckdDRHVHY3fSAUtBVV95cUxOcDd5dzJVc3d0M3ZMVWhTUHBSZXJBUmxpRm02aTd6bmZiWFVuNUU0RkdWdW5WMDZxaXZuQTVKRnllMllXRGZVZ0t4d1E?oc=5	未分類
 2020-07-20	三浦春馬自殺更多令人心碎的細節曝光！使用衝浪板腳繩上吊，被發現時仍有微弱心跳	https://www.cosmopolitan.com/tw/entertainment/celebrity-gossip/g33361182/haruma-miura-suicide-detail/	未分類
-2020-07-15	彩明苑男子墮樓爆頭亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZTdjUk5tOERGTXpIVmo0TlVCUkwzSVBBb2pwNFF4LXpxRVdndGJNMTYtOV9rTHN6XzZqNEdJTVJpckpodERvaFBvcWdwV2FNQTd3Yzc1RXNueFU1aHBZVFJTVWlvWHpsaWxfY3dnTXBBcml0STk1cjRfRFhJRm84akVtN19NQ2JWY1M4?oc=5	未分類
-2020-06-28	長安邨女子墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazRla3pTdUlOZzNtZTZ6RWRVVWItMHJlempncXRNaGlON1JLVTUyOHZnWkdad2Z0bEp2dG1jdE14T3I5cDI4WFk3S0xGRHRWNUZUQTVoN2NzWjhNSEcxQTlZOGktb29scFFFeXFtU2V6VFBOSVBIb2RoVmNzLTNLVWFJMElCYUFUTm9R?oc=5	未分類
-2020-06-08	男子屯門工廈墮樓亡 警查原因	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHpCSktuWUVPdzlwcGc4MnMxQTYxMlZ0bWJKZk5hVDQ1S09rcUIzaUxMZElUMi11UWFoM1FvVFpiOE1SdmFJWGhObFA3Q3BMYmZvV095c1I5STFvd2dGeGZtejh2ZmNiSGdSUkdvSUVKcjg1ajJkMlh0QjdMSnN2UHE0Vy15b2pSUmtJ?oc=5	未分類
 2020-06-07	議長許崑源墜樓…老同事6字形容他一生：講義氣、重然諾	https://www.setn.com/news/757445	未分類
 2020-06-07	許崑源墜樓身亡 吳敦義至議長家致意	https://live.setn.com/live/2433/3786	未分類
-2020-05-28	男子八鄉蓮花地燒炭 鄰居發現已太遲	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbkdwVXJwaTZ2aVpDZzJ5Vm1jVTlKVTJBQlNYajItYUFwdVJoS0NGQ0ltejZFYW9OUVBHcUpCMWxjX0dsWElkSEZPQ1hlY3hHdkdET1NXaFByRWY0Q0Z3ekswS0hFSmw5NVhUdjNRdjdIVVp0M1h5X3pDZ0x2X0MwUEU5SDQ0OVFDWi1v?oc=5	未分類
 2020-05-22	何如芸深夜發「不自殺宣言」男星心疼：妳把路走絕了回去吧	https://www.setn.com/news/747371	未分類
-2020-05-21	新峰花園男子墮樓亡 母親情緒激動送院	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQks1LU5hcGxEM2hHcUFmSE03eGFlM1VSZ0prZU92eGhOM0pzeklaVkdKUGViQ0xxUGhBNGk1aTBRdVdwOHpqTno1c1h2amFCX3pGeHVvVmRmQlZEdEN4MG1IMVZreWJwQ3J2VTdESXRyM2lZOVZWek8zaXdBVmZRLUxsdEJBMTZlTEdz?oc=5	未分類
-2020-05-19	港鐵公關郭麗婷寓所燒炭亡 曾任記者	https://news.google.com/rss/articles/CBMipgNBVV95cUxOYVhHX2xnUFFJeTJfMmJ6dHppTU9EX3pSTjIzbXBLN1F6MzhZUEk5YmRBNlpfTTFRSXZwdlJpd3ZZVi1oUUplWXlxM3pjaXVWMms4SlVyTXpYZ1YxeVJlZEFpcVBMMG9udWlDUVZLU1hudzljb1F2UmNJNFQwVG5yT3ZSUkJiZkY1QzdCSzd0czdxTmsweWtJTXd2SUdSako1VlFXOEh1M0tTaHJKbFdLMEUyRm1DOEVBM3RLV1RBVDR1Wk81SG1UQWNCUjB1SEVSbVZLUVFnelg1MlBsNUdBR0FqWnRuTURlcTlMczhWeVRaOGdYRk9TZG9SemszaTVhdWY2cl80LUxzU3ROcS14aXVYQ0VhU3I0dzJseFJSZFdXVHJUYmNKY3ZQTk9rR25WeWJIbHhMTGFrdHhsemxSYXhiUS1RazlRTmxoYllKTHYwYWluUU5OcDVMMGhNUXdwMEJWZmdPZzV6WGNGNG5jLVAyUEYyZWJkX1JxTUp5TWtUV2F2cGV3cFFjMXB2Zms1eXZmN0dOLVR1MHhlVHNJUDQ5bEpzQQ?oc=5	未分類
-2020-04-04	32歲特首辦新聞主任 辭職後將軍澳墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYTdnS0phRTh4amtQdHN5a195MktDUjNrVnZ0ZlFONGYxZ1Z6TFliWGZwWDFnV2l6UzdvWG16emt4cXliQmdEWVRRTGFpZVF3RzhZYnpfcGtyZmh2d0NIRThudUlKSGk2b1ZJN0lBamRyTG1IWG1Kd084T3VwYUtWUDUxcVI2UWh3R2lz?oc=5	未分類
 2020-03-25	柴灣環翠邨男女疑財困燒炭倒斃單位	https://www.stheadline.com/article/2011051/%E6%9F%B4%E7%81%A3%E7%92%B0%E7%BF%A0%E9%82%A8%E7%94%B7%E5%A5%B3%E7%96%91%E8%B2%A1%E5%9B%B0%E7%87%92%E7%82%AD%E5%80%92%E6%96%83%E5%96%AE%E4%BD%8D	未分類
-2020-03-16	九旬翁筲箕灣墮樓 魂斷東熹苑	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3AwTUZPR0JwZkozakM3QjJWSkMtdnpHWVQ2R2VpSy1tU1EyWTdUZmZ2RmxpTXFfV2kzMHNQVkVid2NzalVJNmNRRmRQVHlsYkpuQV91TmFQLXBTc0xUOWZTSE9kc3FEMVk1eGZuYUg0a1ZlTEdEc1c2MjBkS2JUSmcyVkp1ZVlIRnRJ?oc=5	未分類
 2020-03-12	切爾西‧曼寧自殺未遂被送醫	https://www.dw.com/zh-hant/%E5%88%87%E7%88%BE%E8%A5%BF%E6%9B%BC%E5%AF%A7%E8%87%AA%E6%AE%BA%E6%9C%AA%E9%81%82%E8%A2%AB%E9%80%81%E9%86%AB/a-52736643	未分類
-2020-02-28	男子留遺書禾輋邨墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmNfaWVsMzN1ajhpZ3NIeGhjS0RRY003ZWQwOGtyZWlla05FTXpRVF8ycmhGMm1lbmkxSWdLdjJfOEp1cUJYTjlsbEFsbWt4cWNNM3JFdGZJTnYtamUzN29UMThtYXJPXzBXVUxtSnZvV0FqTzJjVG5OazVlaGhxSnVlejVwMnBZYlhV?oc=5	未分類
-2020-02-27	竹園北邨輪椅漢燒炭 累母共赴黃泉	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODJOUGVld2FHSDZWZU9MajNZejZaeVB5S1Bpd3YwdVo2Zk9SSTlaQl9LMG1IRVAyTTQ5S2NtMjlKczlRWlpnMlZGenRoX0dMREJwcW1qc1Z3ajhhTUlRTFVURU5ZQVNvLU5zMDIwWV9hWFRnd3JzYjZWR2lsVlB2SmxOcEstcVlpWU5R?oc=5	未分類
 2020-02-16	英國女主持人自盡身亡 生前面臨家暴指控飽受壓力	https://news.ebc.net.tw/news/world/197689	未分類
-2020-02-08	中年婦華貴邨墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGMtNzN2bUljN1ZhOXZoS2lRQUIxbDBHMVZlTWVmSUNoeXROZmVwQm5rR3VsemRUcUpHaGVDcUs0UjVHXzBiakdIYlJkRXRXR3J5RXl0NmlIQkNmZFliYzBwdEx4NjFkeE81NWkxWGpxVWVjZlh5d3Q2aHVuSE5FMVFrWkluMm5MLVdN?oc=5	未分類
 2020-01-05	挪威公主為聖誕節自盡身亡的前夫辦葬禮(圖) - 歐洲 - - (移動版)	https://www.secretchina.com/news/b5/2020/01/05/918800.html	未分類
-2019-12-29	男子旺角墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1ZsM2gwc0ZRd1JqRDJvZFEtN0hvMEQ3aEprM2EwMnR1bEM0Yy0zcTRVcnAzRjE2azlvTXNYYXdoVVFiZVR3TXUtVExDbEE2WUJ3SUhuZTFFZlJ3dW5vT3hlaUZlem0zSlItZ1B2VGswM2RQVXNzbUlNanVDVllpU3dRdDJUUlJicFdv?oc=5	未分類
-2019-12-25	【平安夜墮樓】Yoho Mall墮樓19歲男脊椎骨裂 姊：左右轉身都難	https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZC1CeG1CODNMdWZkVUFuQXRYZG1qZjN2NmwzMDh1cE91cVBkQk9Wc05IWTU0dm40TnVLcWJQMFRHWG8zUV9DMEZzMDlTYXI3YWE1V0lxVUVodVJKU2c2aGdGdmVlbFp0SjJ3WEFGYzRtU1ZYYVFaSUhBVjdnVVFfSW1pNkhWS3A3d0ZIQTV3WndOVC1YUGVrU0dqRU1wNllfTmY2ZWQwTVhLVkpjNUh6bkhuUjhEV003eVdqcWItTUdlWEpkajVXUXdBeGVBdXR0N2p1WmxJQThEVjZKT3VKRnlqLUtmZGZELVU4c0tpRDJBWmY0dzEyRmxHbldNVEkxYmhSbzBoNDZtV24tNy0wSGx5U1lsclVxSjZ6MkRGU0ZfNGJpZVg5bkpwZ0JyLVlTUzZTR213SGlULWg4LVh1Y2xvZDNseVl3Mms4MXZMaE1WNlJaeFN4djJXU0tjZw?oc=5	未分類
 2019-12-13	49歲婦大角嘴墮樓 倒斃低層單位平台	https://hk.news.yahoo.com/49%E6%AD%B2%E5%A9%A6%E5%A4%A7%E8%A7%92%E5%98%B4%E5%A2%AE%E6%A8%93-%E5%80%92%E6%96%83%E4%BD%8E%E5%B1%A4%E5%96%AE%E4%BD%8D%E5%B9%B3%E5%8F%B0-052800132.html	未分類
-2019-11-08	港科大生衝突期間墮樓亡 警遭指阻救援	https://news.google.com/rss/articles/CBMinAJBVV95cUxQZWtmN243MDMwVWRHb3ROd3JoV3lCUE9oaURCZEQyUl9DMkNDTlJkVHpHSmNmZy14NkdycWdwdXJwbmNlcW8zVHJFcWc3ZXhYTlhnSjduLWllSkc5WDRTT01CSXBmeEtQM0p1dlJzMGFyN252LW5DZHk2QVJ1QWhEY2NzeFQtLW1nMk1OWWNpTk15aU1wcDRBTi13akZudDE5RVVpNDdQb0M4ZjlVWHBiTHBXM1pmOWZVU0Y1VFlKX3pqTVR5Q1l3WjA3R3hSVlk2Ny04b2Uwbk9NZ0QxRTY5SkoycjNKX3B2UUl2NlZ1NGVfd184T3hKQzI4WG9RcGpWcnozV2p4Q0JkR2ZfczhHNmpFckluQVhwNlJCMtIBnAJBVV95cUxQOFNpd3ZCbnpLNVFxNEtMM2FMT2plMHN5RkxtZjFTNjNJbmRzYjNqU0tCWkxLZmlQSlJ1NnQ2LWlOTFA0LWV6ZFZYYXdkSWZCeFpxLVAyTG1PNGJjQVBfd1U1RWJiMlgwOHNkSENVZFFhd2ZXV1Z0VHZuMmdiZlZzSDVNVGsxakllUzBfTjdwaUF5bUFubEV1QWFEUFFtSjlqZWc3bXI3ZHVvdU5XN3dPalJNb3RwakpvbzI2Zy1qQnZWTFNSUmx2RG9yclJ4X29VRHBXTG0zVkZwQmtTemlyaHVtY2dnMUVKU2JWS0Y1dXE3S2w1bkg1WkVHT1RBek5JQ3lWbGlQci1pWG5jRFhvQVhDNzVRdk5XY1o0QQ?oc=5	未分類
 2019-11-06	男大生躲催淚彈墜樓傷！傳警「擋救護車」延誤就醫	https://www.setn.com/news/630888	未分類
 2019-10-30	誆天王好友騙錢！害包商遭暴力討債 留遺書失聯、老母輕生	https://www.setn.com/news/626720	未分類
 2019-10-30	快訊／前台灣惠普董事長黃河明墜樓身亡	https://finance.ftvnews.com.tw/news/detail/2019A30W0046	未分類
-2019-10-19	秦石邨女子墮樓 重創送院	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0ZYS2diVE04YVFIZGpBS3Q3UTh5UkRmVnVPVk9SSS04V3AxZjZmMnRVZDA5ZTRyM2JJSzVYQndtYVFaT1hRSGhMLTlhejZ1TTRPYkFpcl9IdzNKU1BrclpwSjhNcURySlByN1AxU3pZWXNEUlZ4MkNpdjBHR04td1E5NWdmVlVNaF9J?oc=5	未分類
-2019-09-25	太子站傷者人數不湊合近期又多人跳海跳樓助長“被自殺”謠言	https://news.google.com/rss/articles/CBMiowNBVV95cUxPOE9QWHM3clFsNWo1X1VhN0Z0bXQxUGotMURuUGdfZE1NN3JtTzhMTnNOMFZ4bkJ3eDV0SUl3QXV4U3M5MFNjaExuMjQ3U0tkOGIxYjR4WVlqcWJ2dHhvX0hZUzlIdWtleTRvN3NmcVdGZmNFZzRlREhBdkE0S1dpaWpoVWJYeGhqX2dEOG4wbVFlcktsQUNpZGRUMExqRnM3UVJocWRGT1l5ZUxKcTRMOXJ1RFF3OU9zRWVDZTl6SmZoMDFveHBpTjRPOFYxRkRXd1RfSnpJUXRwYmM1UnRDMTY3U2JZU0g2ZHRkVmg5OFUzRFJHWXRkNllRVk9RNlFiR2NUeTFFaVlXWlNMb0ttRWt0ZkkzcnR4blZjazIxeUxCX0JCdDBqaVBsOWgyRTljd0ozVkFlSGhfbHVNUFlhTWpqUjNnUHhDTzdRdE8xOU1hZFZOai1kaEotZWE2c1E5TnJpMTdnUWNwX243Smtlb3Z3TmdHdjEtejZ2NTNiaVZjbVpkRWVSNlI4NlZWcTV3YWZQaXRfZmdqQ0tSNUZYOEtNWQ?oc=5	未分類
 2019-09-22	空氣清淨機沒效！他換濾網見「太座私房錢」 網勸珍惜生命	https://www.setn.com/news/606638	未分類
 2019-09-06	七旬病翁留遺書 秀茂坪南邨墮樓亡	https://www.stheadline.com/article/1964064/%E4%B8%83%E6%97%AC%E7%97%85%E7%BF%81%E7%95%99%E9%81%BA%E6%9B%B8-%E7%A7%80%E8%8C%82%E5%9D%AA%E5%8D%97%E9%82%A8%E5%A2%AE%E6%A8%93%E4%BA%A1	未分類
-2019-08-08	秀茂坪中年婦墮樓亡	https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVTdNajd0X2ZodS1kaFZHQnJPUWtjRDN1QU9wQ1VVOUc4djJNVXFZVUFhUk9BaUVoU1ZUMTh2M0xXYVg3bE02MDJBOUFnMW80NFllcW0wZTdxNEJHNEZleW5HMnZRMVg3SUxuM1UxMURBUDJFUUhWQmJ1QlN5Mlk0R1AxMll4Tjh3cm9sU181TkRoQlRUV1N0WlQyaHhCVmFIRXItQnBTOUkybEZnYmg0YnhxQVl4LTdlN3R4Uy1EbnZ5UQ?oc=5	未分類
-2019-08-08	【教師墮樓】李東海校董會炒校長 調查報告：不全面符合專業操守	https://news.google.com/rss/articles/CBMilwNBVV95cUxORS1kcXk1ODZ0WjhHVjhZdDU2WFhOX3F4N2lKOVNjMk40NDhDUnFCN1QweWtCU2ZVZk1Gdk9aY1NGNFBRb09ETmlBNnptaXZpdElLbW9YTFYyNGxSdGJHOVJqRy1fbWhOZlk1c3p0WGhJWHNidVpZRkYtRjhRZDVWWnYxXzNaTWVQdTVKcFBHdUhlMk1NblpsUDk4Y2hjQ1hTd0ZvMW1Nckh0ajE2czB4Zlc0WDJreUVEbXRTZHZKR1lYdWZlWWVoOG13YlZCQ0tsX0FKNjZMODNJVkFoYWZEM0Ntb3FoR0p0OHU3eTcyNkdiLUtQNjlTZnd1UVBzZlpvNnZNWFNlamtJbEo3WnNNSjNtakl3WElZYmJzU2E4b0hEeU1aUGZNcjVyemtXNldOa3FqVXlhM3h0akJJYTl2OWJiSzZscE5nclVoN0ZKa25reXdibWxMZFoyaE5RdlI2LVQ1eEl2aTdtQ2hRQnN0NE5NWWdMTjNaLTVSbkdIWWJSZVJIeDVFdmFxMlc3S0VvUWtJZUk1SQ?oc=5	未分類
 2019-08-03	79歲失智婦墜樓亡 檢方曝駭人真相：兒子早有預謀	https://www.setn.com/news/580535	未分類
-2019-08-02	三聖邨女子墮樓殞命 警現場檢遺書	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQU9NdHRVZUdlT1pQUVQ1N3pzakp2WkhJRzlRZ1BwUUtjOHI1WXIwaGU0U0l1TlVTd25SeWFYenVxV2d0cVFEUmpSb29tcmxpUzY0ZzVzQ3o4bEVhWUItdWFzQkl1aTUyc0I0THRRNGJFNzc4NUxFQlY5Nm0wMF93dVNTQnpwS00zY29B?oc=5	未分類
-2019-07-16	港九新界11分鐘內發生3宗墮樓 事主俱亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmZkYXphLV96aU1mZ1BtcFRrbFU1TENqWDBGZ012R05DdjdBZnNvWGxNM0xuWDFiQ2dydExCVHp3clhJV1FSc2d1dXNOMmp3Skt3V0pNbWI5OFFzdWs0TGF6NlBIM2wzZWZpVWU1SXJhM3YxY0dLWEFUZmpiOUhOOFlQZFF1NEp6N3RN?oc=5	未分類
-2019-07-15	23歲仔牛頭角墮樓 當場命喪	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeHE4ZnZ4NWl6aGVVN29qdWRyRWp4cXFZWjE5NHQ0UjI3akZ3ZktYelZiT3lzTVVXOGNlWVdrNmVGTmlJVjg1aFlUNTVVZ1pCd09kVno0cHh1RWl6Sm5CM0xGOFdhM2lQOXNTVkJhc1hZMWNraV9QOWlRU053OEhrLU45RXI1RUFJeUVz?oc=5	未分類
-2019-06-30	中年婦鴨脷洲邨墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDZ5RlRrZlhjdDZpazNwSHVXT1l0UlNkVE9tdWtkNWItY2V0UGotaEdYTFJtUEdUUklYWl9JRlN0RlRneVJjWkNCTWZrRnRGRkt4NUhaREM1eDlBM05xajBxbks0cnUxM3BTdFRqeGg5dF9yRklLTXZfMHhUYUNQVldLZTFGRGF5YnJn?oc=5	未分類
-2019-06-26	傳中共前國家副主席李源潮家中自殺 同期網傳其讀報照(組圖) - 動向 - - (移動版)	https://news.google.com/rss/articles/CBMiakFVX3lxTE9PTUpoZnpCb3pRekxpVHJaVWR1NTJOQVN3bG45VGtXQ0djSmgzdHhYUl9naDVZaVl5eXppVEhzMmpjX0lnNENyRDVBaDAzVnR0WkZxaHJGZGNxdG9sVGFrbUJOUE03TmlURGc?oc=5	未分類
-2019-06-24	天悅邨財困女子墮樓 當場命殞	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV3VUanRLYW51dDBOVkRoaERTMVVKaHBuNVZ2ZktPYmxDQ1p2dTZMNVczMnhKdzdLOWdiemJ3OTFsWW1jNEZuUU8xY0RsOC1ZbDFqOFVPNVdkU3gzSTZvYUtEakVaSGtMSzJQM0pwZGFsMGR0M0RyQmMzNXJORERPZXNtaHVIU1QzdXk4?oc=5	未分類
-2019-06-11	天水圍天盛苑13歲仔墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOW1CV3J4ZW9QX1I5SnA1dmxvdmdYNlNyZ1B0WXNQbHhicERQY2I0eEI4c2FKS1pFeUhHT19HanFVMnB5OXVYWTVTLWVMalg4eGV2dFhOYVlxby1XSWk5NGxlQUhoQjl5UkF6ZnA2WlFJWTlXa0wtUDNSQ1RwT2NfZlA2VzVYRUh2LU9V?oc=5	未分類
-2019-06-10	天水圍栢慧豪園男子墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWw3a3V2UVl5NHU2Skd4R3ZxT05GZlY0c3p4SlltajNYX0JDby1EYU53Zm8wWVlrT0NhRVlZc3BCZGRLcjZGMEtKYnlpR3Z1WnFjYkNqai1LQ0xSUTFqU1V4UTI2MkpHZjNRQWtqd3BMNUx4YU1ncVdFcm96UkpZZE10SFJvNm5ndFI4?oc=5	未分類
-2019-06-09	梨木樹邨女子墮樓殞命	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3k5N1RWeWNlTjRoczByRmJhLWtHVnl4NmhmTUJ6SWxPb3Q4MmhvWGhpd1FBQU9RbDlvZm45eWs1ODMtN0ZPTlVuZ0x4NDdVTmRCVHI3V3YwMEI5c3FIREh3SXR4dHZsY3R6RE9KZ1pkLUpUVEZMX3MzVzk0b182eDlKUGo1M0FkYm93?oc=5	未分類
-2019-05-30	油麗邨男子燒炭 女兒發現已太遲	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTTZoT25lV2prT0NUdUZmWGNhQ3RHZFNxMGtxLXRsSjl5eWRVdF9TLW9BQnBwM0g1Y01LajdWTHI2WjZNbGE0WVExQnA2Mzlud1F0bVhkNEhla0VuTXAxX2stdjZkdV9iaHpYOHBBV0trTGdCSGtFRUNCQ2kxVjhWT2NKSkY5MWlHMGVN?oc=5	未分類
-2019-05-26	逸東邨男子墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWhOM1QwSjBHdXdKcWt0R2QzZEM5VHdJNW12VHZhRTFHWlhOWV9KaE91NC1mZVM5c25ySFNrUTlVTzlpbXNWT3BNbEhmbjlqVG5qTUNpR3VCdWVkOTgzczItNUs2R1g4ek1lVXlWcGtUY2I4VDRYSEtuOXZ3aE11TkM1dDY3Q29RVFJv?oc=5	未分類
-2019-05-17	名城19歲青年留遺書墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnJoRndibExBZW1tQ3BhYkRqNVdsSWs2NVpNU2ZrMk9CZVUtRDEzNHU3R1BWQnNKV19ZRnV5MjgyVHJ0VmF2QWhvOTVIeDVpN0N5cllsQnI3MC1CT3R4SjIxQnJIQ2JLNjI3R2ZySU5LNTEzUXJ1N2s5ZERjS3RCOF9ZMkZqWmlHVjBF?oc=5	未分類
-2019-05-17	【珍惜生命】大圍名城19歲青年墮樓亡	https://news.google.com/rss/articles/CBMihwJBVV95cUxOWk41dW5tMXJtM29uRURFc3JhYTgwVlZPWE1ZYzhLb0sxSFRLekFNanRyTjV3a1p3dVdnTU9taEthVFdTWUtxSmtIZjNfSmt5S2Q5U083RWt3QWpSTVp0WEVJeDQ4d0cyMURuLWVkNlU1azFJclBqallsdkRicy14bVVwOFd4OEs3bWY4dmtGb1RtNHpyaW1HaDhNUWxQLXZ1TTBLNE1qVnpvdkV3bWFoTW1IcEtCMWZMVld2Q010WF8tdUx4ZDBSUWprbXpQY251U2syOHRNSWxHQjJ4SC1PNjJtVXNCOFJVT3NVei1oS0FsQlhXeWlrTlFZaVFGcDd5dm5jNl9nMA?oc=5	未分類
-2019-05-07	男子墮樓分屍 血濺大本型	https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjZWYlpBekpTLWtqTXZfNnc4SllfeEZLRnRoVElYYUZ3S0I5MFR5RDBGN29CUVVmQk9ySk4ydHVGeWhaVjRiMG84RzR2LV93eW9QaGluRmE5UjBHMkpHVVZFUzZpMWx3QUlQT0swMHVlSTdUa3FBQnBtY1dJTnJqZ09BSFlpOFdhTHRiUzJ3?oc=5	未分類
-2019-05-04	翔龍灣女子墮樓殞命	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTJfSjZsMVRDa2p5LS12c1FMRjNXbTNLUnBudGt1UUZxbEtzYUE1Yndhc3RfUVJ4VHlUUW5TdnRGMU9GTnh3cVgtUjZxVlM0ZlYwanNoSW1PcmQ1V25MR2FRM1hvNG9NNHkyd2FXV3BCdkdkOVg5Q3lYWi1YYjNsNExhLWJHeTRmN1RV?oc=5	未分類
 2019-05-03	癱母攜4幼子女燒炭輕生 幸點火後不忍撲滅獲免刑	https://www.setn.com/news/535890	未分類
-2019-04-21	德朗邨男子墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWQyTEdHeTdIYWxTb1hhUjBJOE5jeEhGZkJTSzJKc2RSRm9nWWozZWpmR2tYUWZUWWhSanU2Z2twSFVVYzQ4QTBGQm5OalJYYWtYYzV5eFZHQXdLa3JWNzIwWFJ1OEpkanBvNnBxcjhkQWhMckZBS3Q4RHpuYlFRQmx2azlGd1ZzdlJJ?oc=5	未分類
-2019-04-09	將軍澳富寧花園睡衣男墮樓亡	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFZ0TEJNbXdwZ2d5UVBLWjZuUmE0ZEE4cEtzTldWUjNtbmhwODZ5VUU0c2FTdUFyRm4wYS0zUFNvTkNxZ0MwQU1rdkxhbnlhQXdKbndQWTRIYWF0dDJvc2VsSWotc0xraEVXUnlZT0N4UkFFVFo3c3hNdW52OEVzWkZYV081eTA5ZGNn?oc=5	未分類
-2019-03-29	男子翠竹花園墮樓 當場命殞	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWExSNUx6UzgwYzJOcEcxUFZ1ZldadGlOeUV2ZlVlZURnek5SRVdUa0NyMmdCOS11eG1ZUnlHSGtqWkw4RnJMVHRzZ1VIN2dFUUlfSkFURzRsZEhRcTJUenMwQy1vMHkyMlczLWI0dmVpY1dJNGg1dHRIQmtKWGExRlBIUDBNdkR5RGg4?oc=5	未分類
 2019-03-26	父沒收電玩 少年跳樓亡…留遺書＋零用錢給友：報答9年情	https://www.setn.com/news/517514	未分類
-2019-03-15	跟進教師墮樓 調查委會「開工」	https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SelVIVE9WNmNPS3pGQ09BRkxJeU5raTdjT29wbFREWjBUVFZOa0FlQWFDdWlTYUwyX3ZBZldrQno3VDFCeVNkcklBSzNaU3BKX2ZmVjE5WlBad2MyVDQxQ0RpUQ?oc=5	未分類
 2019-03-11	瘋狂女粉為她割腕…楊繡惠：真的嚇死	https://tw.news.yahoo.com/%E7%98%8B%E7%8B%82%E5%A5%B3%E7%B2%89%E7%82%BA%E5%A5%B9%E5%89%B2%E8%85%95-%E6%A5%8A%E7%B9%A1%E6%83%A0-%E7%9C%9F%E7%9A%84%E5%9A%87%E6%AD%BB-021504908.html	未分類
-2019-02-19	19歲中大女生墮樓 清醒自行報警求救	https://news.google.com/rss/articles/CBMijgJBVV95cUxNbmxqWUFsdXBaaU55T0NsT2JXV2JxQ2dCSXo1YkxETFprUHNHSjVjMnVyeFVPdG1kektmWVRGZGNPcHNUa0xlYVJTRjB2amVfMkkzUFdBal9GR0Vnd0dtNzRyRV9ycnNCcW0zU09UY3FBS3F0b2dHT2pDRWJaMWcwbml3RFBfQmxxOEd0cWJvMlQzVklzVFRoeEFfbDA2X3dBaDl1T0kxRncxaUwzWV9PUTY5NEU2NkdvNFNtNG9CSFpMYU9nM2EtNS0wQ3FmSDVPQUsxMmpLWmxSU3N2dF9XZGRmQ1dEOGxzcVI2LXBVdjBjMi1La2YwUHR5aVp6bGpSRzR5MlhUMXJxNTlkbkE?oc=5	未分類
-2019-02-18	人倫悲歌！狠父拉一家四口燒炭亡 妻頸部疑有勒痕	https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EX3BTMmk1YWtpX0NfejZQRHF2ek55cVBpX3o1OFR2bEZ0Vm9ieU5QVWlQbDh0ZDNkZEwwSDk4dnJsSU9XeHpGOE5oWDhRNGhRSmpPMjFnWDVZMkRfLXNKSmVxNnU?oc=5	未分類
 2019-02-14	【懲教年結】去年每日平均8303人在囚 兩囚犯自殘致死	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/294524/%E6%87%B2%E6%95%99%E5%B9%B4%E7%B5%90-%E5%8E%BB%E5%B9%B4%E6%AF%8F%E6%97%A5%E5%B9%B3%E5%9D%878303%E4%BA%BA%E5%9C%A8%E5%9B%9A-%E5%85%A9%E5%9B%9A%E7%8A%AF%E8%87%AA%E6%AE%98%E8%87%B4%E6%AD%BB	未分類
 2019-02-10	「我還不想死…」10歲兒淚求母別自殺 仍被迫抱著跳橋亡	https://www.setn.com/news/496752	未分類
-2019-02-07	雙屍案 男失控風炮鑿牆 狂斬女友復自縊	https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDRIdlljZ3lfdUZ3MXdtbXFkaXJnSm5IcTRsM3p1M3lpcGxoMEYwd08wRWpKekZQOVBsUXhTcnZWMGJDNnF3WkxjZnlYdnhmZVREcEllUkd4RDR3dGVEWXFkSGszZlhlOGt1WWRlWnAtQmRkX0RXWnNGcGJHTHhIMWlTT0dPV2Y5cFNmY0l3?oc=5	未分類
 2019-01-16	台灣男子在菲律賓舉槍自盡身亡原因待查| 國際	https://www.setn.com/news/485787	未分類
-2019-01-15	女子車內燒炭自殺 警方及時救援挽救寶貴性命	https://news.google.com/rss/articles/CBMiS0FVX3lxTE42dHZQeC1ENFdGRmFmMmdpUWJwSGtUX0lHWHNRMmx0VGR4SlVHc2Q3c3p3ZjRRdDhvQWtCalMxeHFDRHJnYzdBaWF3aw?oc=5	未分類
 2019-01-03	舉報國資委官員 揚州女子為何天安門自殺	https://www.epochtimes.com/b5/19/1/3/n10951669.htm	未分類
 2018-12-21	「選擇Reset」中遠海能總經理墜樓亡 遺書要妻保工作	https://www.setn.com/news/473833	未分類
 2018-12-17	北京知青下鄉第三天自盡身亡	https://www.soundofhope.org/post/272456?lang=b5	未分類
