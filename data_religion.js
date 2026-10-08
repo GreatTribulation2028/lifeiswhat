@@ -1,5 +1,6 @@
-// 宗教 | 由 build_news_js.py 生成 | 共 142 條
+// 宗教 | 由 build_news_js.py 生成 | 共 172 條
 var DATA_RELIGION = `
+2026-10-07	AI疑成網攻工具 韓國兩大教會數十萬教友個資恐外洩	https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVjBkUlNuUm9iaHBEbWU1a21DNTNDUXF4ODFRaHY5WnJQd1AtYkJvT1Zacjdna3hxMHVYTk9KOVZvRW5tZThna2F2QjVzSzNlRHV2M01vczdhV1h4dEt5S1BfRzRGZ9IBa0FVX3lxTE9Ya19aTHAwOVpuclB5Y3dSSjQtVWxpWjhOV1NHOVl5NG1nMkhTS1RHemhHLVBYM3IzaWkzLUtYZnlTU1AyMlBFVTdWNGc1S0RoaVpUSVVzSzFnVFdOcmxlT2FncVc5UWN2QkZN?oc=5	未分類
 2026-09-30	宗教詐騙披靈性外衣 資深媒體人揭警訊辨識邪教pua	https://www.mirrormedia.mg/story/20260930-171soc-105447	未分類
 2026-09-30	一名錫安教會被捕牧師妻子的流亡、煎熬與信仰- 紐約時報中文網	https://cn.nytimes.com/china/20260929/china-zion-church-pastor-detained-family/zh-hant/	未分類
 2026-09-25	（有片）XX月餅是「邪教」？XX絕不接受？XX傳統不可破！2026港人最愛的月餅口味是？｜點妹大調查·中秋特輯	https://www.dotdotnews.com/a/202609/25/AP6ab62e07e4b02724bdb591fe.html	未分類
@@ -52,6 +53,7 @@ var DATA_RELIGION = `
 2026-07-02	教宗震怒！天主教團體擅自任命新主教 教廷祭「絕罰」處分驅逐	https://ctinews.com/news/items/JmxNmYeNa8	未分類
 2026-06-30	富足教會醜聞風暴！10受害者控牧師「心靈控制、性騷、詐千萬」 金流疑雲一次燒開	https://www.mirrormedia.mg/external/amp/mirrordaily_70142	未分類
 2026-06-27	阿拉斯加航空宗教歧視案再審 被指不當解僱員工	https://www.epochtimes.com/b5/26/6/26/n14797457.htm/amp	未分類
+2026-06-27	第三聖殿其實早已存在｜我們可能正站在門被打開的時刻如果第三聖殿不是建造，而是開啟｜人類正在進入未知時代第三聖殿的真相被忽略了｜這可能不是宗教，而是文明轉折當第三聖殿被開啟｜世界將重新定義真相與未來	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ncmZNWHpVYmFuNTlHN2VDSGIzYnlKVHFZWVpZTDVkN3JSdDRIMVljVlZSRVFlbFZvUXNQeWNobUtEejU4LWlCWk1NcHhMNzBoLUZvQklyc2tWOFc0?oc=5	未分類
 2026-06-22	挨轟邪教！尬電濟顛禪師回嗆「你媽也邪教」 親迎踢館哽咽：連師父都不認了	https://tw.news.yahoo.com/%E6%8C%A8%E8%BD%9F%E9%82%AA%E6%95%99-%E5%B0%AC%E9%9B%BB%E6%BF%9F%E9%A1%9B%E7%A6%AA%E5%B8%AB%E5%9B%9E%E5%97%86-%E4%BD%A0%E5%AA%BD%E4%B9%9F%E9%82%AA%E6%95%99-%E8%A6%AA%E8%BF%8E%E8%B8%A2%E9%A4%A8%E5%93%BD%E5%92%BD-%E9%80%A3%E5%B8%AB%E7%88%B6%E9%83%BD%E4%B8%8D%E8%AA%8D%E4%BA%86-043600510.html	未分類
 2026-06-21	易海華：中共是人類歷史上最大的邪教組織	https://www.ntdtv.com/b5/2026/06/18/a104107339.html	未分類
 2026-06-20	易海華：中共是人類歷史上最大的邪教組織	https://www.epochtimes.com/b5/26/6/20/n14792763.htm/amp	未分類
@@ -60,19 +62,41 @@ var DATA_RELIGION = `
 2026-06-17	一貫道在中國遭列邪教 陸委會證實17人無法返台：恐面臨3年以上刑責	https://tw.news.yahoo.com/%E8%B2%AB%E9%81%93%E5%9C%A8%E4%B8%AD%E5%9C%8B%E9%81%AD%E5%88%97%E9%82%AA%E6%95%99-%E9%99%B8%E5%A7%94%E6%9C%83%E8%AD%89%E5%AF%A617%E4%BA%BA%E7%84%A1%E6%B3%95%E8%BF%94%E5%8F%B0-%E6%81%90%E9%9D%A2%E8%87%A83%E5%B9%B4%E4%BB%A5%E4%B8%8A%E5%88%91%E8%B2%AC-031500687.html	未分類
 2026-06-07	四人合作邪教生存模擬《JOIN US》2027年3月推出 壯大觸手邪教組織更有警察找麻煩	https://www.4gamers.com.tw/news/detail/79842/join-us-cult-simulato	未分類
 2026-06-06	李盛林牧師安息禮｜阿Mo李啟言「給爸爸的信」：願在天家站著抱你	https://www.hk01.com/即時娛樂/60357592/李盛林牧師安息禮-阿mo李啟言-給爸爸的信-願在天家站著抱你	未分類
+2026-06-06	Mo爸李盛林牧師離世｜安息禮今舉行逾百市民到場 阿MO留醫缺席	https://www.hk01.com/社會新聞/60357529/mo爸李盛林牧師離世-安息禮今舉行逾百市民到場-阿mo留醫缺席	未分類
 2026-05-30	日本 90 年代邪教教主，曾經率眾去「狩獵」伊波拉病毒，背後原因讓人背脊發涼	https://www.adaymag.com/2026/05/30/aum-shinrikyo-cult-ebola-bio-terrorism.html	未分類
 2026-05-28	陸委會：一貫道在陸被列邪教國台辦不用否認| 兩岸	https://www.cna.com.tw/news/acn/202605280278.aspx	未分類
 2026-05-28	梁文傑：國台辦不用否認 一貫道在中共眼中就是邪教 | 中央廣播電臺	https://today.line.me/tw/v3/article/2DBMOX8	未分類
 2026-05-25	方濟各教宗發布首份AI通諭 梵蒂岡深入探討科技倫理	https://n.yam.com/Article/20260525701285	未分類
+2026-05-25	北京觀察》劉再復杭州病逝！從「文學教父」到「思想異端」，他如何成為中國八十年代的啟蒙象徵？ | 田暢 | 新聞	https://www.storm.mg/article/11135261	未分類
 2026-05-23	一貫道3道親赴中遭拘禁 陸委會：在中國眼裡是邪教	https://news.pts.org.tw/article/809688	未分類
+2026-05-22	龍膽石斑吞iPhone暴斃！8個月後剖肚辦招魂 神明加持結局曝	https://tw.news.yahoo.com/龍膽石斑吞iphone暴斃-8個月後剖肚辦招魂-神明加持結局曝-080900930.html	未分類
 2026-05-07	丈夫離奇死亡，兇手就在身邊？懸疑乙女遊戲《戀人謎局》5 月 20 日 Steam 發售，揭開邪教與枕邊人的秘密	https://sounova.com/game/lovers-enigma-steam-release	未分類
 2026-05-06	美卿訪梵蒂岡強調有很多共同議題 教宗重申教會一直反對核武	https://www.bastillepost.com/hongkong/article/15969435-美卿訪梵蒂岡強調有很多共同議題-教宗重申教會一	未分類
 2026-05-06	美卿稱與梵蒂岡有很多議題 教宗重申教會一直反對核武	https://news.rthk.hk/rthk/ch/component/k2/1853679-20260506.htm?spTabChangeable=0	未分類
+2026-05-03	李盛林牧師離世｜阿Mo兄長：父以血肉之軀建堤壩助家人擋洪水	https://www.hk01.com/article/60346242	未分類
+2026-04-29	李盛林牧師離世 阿Mo李啟言IG發聲否認為亡父募捐	https://www.am730.com.hk/娛樂/1027622/李盛林牧師離世-阿mo李啟言ig發聲否認為亡父募捐	未分類
+2026-04-28	為阿Mo打氣｜Mo爸李盛林牧師病逝！守望至最後一刻，197週代禱信背後的最深父愛。三子女強忍悲痛接棒：要完成爸爸未了心願	https://hk.news.yahoo.com/為阿mo打氣-mo爸李盛林牧師病逝-守望至最後-刻-197週代禱信背後的最深父愛-021952989.html	未分類
+2026-04-28	李盛林牧師離世｜阿Mo首發聲即鄭重澄清：沒有透過任何機構募捐	https://www.hk01.com/即時娛樂/60344831/李盛林牧師離世-阿mo首發聲即鄭重澄清-沒有透過任何機構募捐	未分類
+2026-04-27	阿Mo父親李盛林牧師病逝 長子繼承父親遺志繼續發代禱信	https://www.orangenews.hk/entnews/VHyEhjN/阿Mo父親李盛林牧師病逝-長子繼承父親遺志繼續發代禱信.shtml	未分類
+2026-04-27	李啟言父親離世丨長兄續發阿Mo最新進展繼承父遺志 李盛林牧師妻哀嘆：太突然了	https://www.stheadline.com/film-drama/3566283/李啟言父親離世丨長兄續發阿Mo最新進展繼承父遺志-李盛林牧師妻哀嘆太突然了	未分類
+2026-04-25	阿Mo父親離世︱李啟言父親李盛林牧師逝世 上月自揭有慢性心血管問題	https://topick.hket.com/article/4119460/阿Mo父親離世︱李啟言父親李盛林牧師逝世 上月自揭有慢性心血管問題	未分類
+2026-04-25	阿Mo父親李盛林牧師突離世 上月自爆有慢性心血管問題曾發燒嘔吐	https://www.hk01.com/即時娛樂/60343820/阿mo父親李盛林牧師突逝世-上月自爆有慢性心血管問題曾發燒嘔吐	未分類
+2026-04-25	阿Mo李啟言父親李盛林牧師病逝 日前身體不適嘔吐發燒 曾插喉治療	https://std.stheadline.com/film-drama/3565830/阿Mo李啟言康復之路現曙光-父親李盛林卻傳噩耗病逝-兩日前曾插喉治療	未分類
+2026-04-25	阿Mo李啟言父親李盛林牧師病逝 日前身體不適嘔吐發燒 代禱信透露疑有心血管問題	https://www.stheadline.com/film-drama/3565830/阿Mo李啟言父親李盛林牧師病逝-日前身體不適嘔吐發燒-代禱信透露疑有心血管問題	未分類
+2026-04-25	阿Mo李啟言父親李盛林牧師今日離世 上周嘔吐及發燒入院接受治療	https://www.hk01.com/社會新聞/60343830/阿mo李啟言父親李盛林牧師今日離世-上周嘔吐及發燒入院接受治療	未分類
+2026-04-25	為阿Mo康復心力交瘁 父親李盛林牧師驚爆離世	https://hk.on.cc/hk/bkn/cnt/entertainment/20260425/bkn-20260425161258374-0425_00862_001.html	未分類
+2026-04-25	李盛林離世丨同房家屬爆牧師走得突然 今早仍識揮手下午驚見空床	https://www.hk01.com/即時娛樂/60343880/李盛林離世-同房家屬爆牧師走得突然-今早仍識揮手下午驚見空床	未分類
+2026-04-25	李盛林牧師離世｜上月稱有心血管病 嘆：不確定能陪兒子走多長路	https://www.hk01.com/社會新聞/60343856/李盛林牧師離世-上月稱有心血管病-嘆-不確定能陪兒子走多長路	未分類
+2026-04-25	李盛林牧師離世 月初曾透露疑有慢性心血管問題 (16:58) - 20260425	https://ol.mingpao.com/ldy/showbiz/latest/20260425/1777106865938/李盛林牧師離世-月初曾透露疑有慢性心血管問題	未分類
+2026-04-25	李啟言父親離世丨李盛林牧師奔波醫院逾千日疑積勞成疾曾為兒子阿Mo意外癱瘓獨自躲洗手間痛哭| 生活熱話	https://www.ohpama.com/1020801/生活熱話/生活熱話/李啟言父親離世-李盛林牧師-奔波醫院逾千日-積勞/	未分類
 2026-04-25	守護癱瘓舞者兒多年！牧師父親突驟逝 港網全淚崩 香港唱跳男團「MIRROR」於2022 年7 月紅館開唱時發生意外，舞者阿Mo（李啟言）不幸遭大型螢幕墜落壓傷導致癱瘓，目前仍在積極復健中。然而，始終守候在身邊的父親李盛林牧師... 53 分鐘前	https://tw.news.yahoo.com/%E5%AE%88%E8%AD%B7%E7%99%B1%E7%98%93%E8%88%9E%E8%80%85%E5%85%92%E5%A4%9A%E5%B9%B4-%E7%89%A7%E5%B8%AB%E7%88%B6%E8%A6%AA%E7%AA%81%E9%A9%9F%E9%80%9D-%E6%B8%AF%E7%B6%B2%E5%85%A8%E6%B7%9A%E5%B4%A9-113833573.html	未分類
 2026-04-25	守護癱瘓舞者兒多年！牧師父親突驟逝 港網全淚崩	https://tw.news.yahoo.com/守護癱瘓舞者兒多年-牧師父親突驟逝-港網全淚崩-113833573.html	未分類
 2026-04-25	【移加港人】阿Mo李啟言父親李盛林牧師猝逝 日前嘔吐發燒曾插喉治療| 事事如意生活網站 曾於加拿大生活多年並在1994年多倫多誕下幼子李啟言（阿Mo）的李盛林牧師逝世。 李盛林牧師歷經MIRROR演唱會墮屏意外，三年多來不離不棄照顧兒子阿Mo，在兒子康復路出現... 2 小時前	https://ccue.singtao.ca/2026-04-25/%E3%80%90%E7%A7%BB%E5%8A%A0%E6%B8%AF%E4%BA%BA%E3%80%91%E9%98%BFmo%E6%9D%8E%E5%95%9F%E8%A8%80%E7%88%B6%E8%A6%AA%E6%9D%8E%E7%9B%9B%E6%9E%97%E7%89%A7%E5%B8%AB%E7%8C%9D%E9%80%9D-%E6%97%A5/1094939	未分類
+2026-04-25	【移加港人】阿Mo李啟言父親李盛林牧師猝逝 日前嘔吐發燒曾插喉治療| 事事如意生活網站	https://ccue.singtao.ca/2026-04-25/【移加港人】阿mo李啟言父親李盛林牧師猝逝-日/1094939	未分類
 2026-04-25	《穿著PRADA的惡魔》第1季上映張員瑛才2歲 梅莉史翠普當場昏倒	https://www.nownews.com/news/6811069	未分類
+2026-04-23	64歲老戲骨病逝！曾參演《黑祭司》 生前仍拚舞台劇演出惹鼻酸	https://stars.udn.com/star/amp/story/10089/9459252	未分類
 2026-04-13	懷疑就先處理！修道院黑暗面《異端審判官模擬器》登Steam 偶爾煉金討伐惡魔	https://www.4gamers.com.tw/news/detail/78379/inquisitor-simulator-reveal	未分類
+2026-04-04	情牽蘭陽一甲子 秘克琳神父離世	https://tw.news.yahoo.com/情牽蘭陽-甲子-秘克琳神父離世-021204278.html	未分類
 2026-04-02	自閉兒全程目睹父遭活活打死！法院認定「兇手不會逃亡」放惡魔回家，網氣炸： 法律只保護畜生	https://www.storm.mg/lifestyle/11117351	未分類
 2026-03-26	【迷惑人心】（1）盤根錯節邪教組織「真佛宗」滲透香港假借慈善活動吸金千萬揭秘「點滴是生命」前世今生	https://www.kinliu.hk/news/kinliu/%E3%80%90%E8%BF%B7%E6%83%91%E4%BA%BA%E5%BF%83%E3%80%91%EF%BC%881%EF%BC%89%E7%9B%A4%E6%A0%B9%E9%8C%AF%E7%AF%80-%E9%82%AA%E6%95%99%E7%B5%84%E7%B9%94%E3%80%8C%E7%9C%9F%E4%BD%9B%E5%AE%97%E3%80%8D%E6%BB%B2%E9%80%8F%E9%A6%99%E6%B8%AF-%E5%81%87%E5%80%9F%E6%85%88%E5%96%84%E6%B4%BB%E5%8B%95%E5%90%B8%E9%87%91%E5%8D%83%E8%90%AC-%E6%8F%AD%E7%A7%98%E3%80%8C%E9%BB%9E%E6%BB%B4%E6%98%AF%E7%94%9F%E5%91%BD%E3%80%8D%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/60954.html?id=51&from=channel&bc1=%E6%B3%95%E5%BA%AD&bc1to=%2Fchannel%2FCourts%3Fid%3D38	未分類
 2026-03-23	中东 战争导致耶路撒冷圣枝主日游行取消，但教堂“照常开放”	https://www.asianews.it/news-zh/战争导致耶路撒冷圣枝主日游行取消，但教堂“照常开放”-65094.html	未分類
@@ -112,22 +136,28 @@ var DATA_RELIGION = `
 2026-01-12	蔡依林演唱會慘遭檢舉涉邪教儀式感內地網民聲稱巨蛇「吸運」要求停辦巡演- 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/16583869010829/%E5%A8%9B%E6%A8%82-%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E6%9C%83%E6%85%98%E9%81%AD%E6%AA%A2%E8%88%89%E6%B6%89%E9%82%AA%E6%95%99%E5%84%80%E5%BC%8F%E6%84%9F-%E5%85%A7%E5%9C%B0%E7%B6%B2%E6%B0%91%E8%81%B2%E7%A8%B1%E5%B7%A8%E8%9B%87-%E5%90%B8%E9%81%8B-%E8%A6%81%E6%B1%82%E5%81%9C%E8%BE%A6%E5%B7%A1%E6%BC%94	未分類
 2026-01-08	蔡依林演唱會遭內地博主指涉「邪教」 出道26年不再忍首次告黑粉	https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60310751/%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E6%9C%83%E9%81%AD%E5%85%A7%E5%9C%B0%E5%8D%9A%E4%B8%BB%E6%8C%87%E6%B6%89-%E9%82%AA%E6%95%99-%E5%87%BA%E9%81%9326%E5%B9%B4%E4%B8%8D%E5%86%8D%E5%BF%8D%E9%A6%96%E6%AC%A1%E5%91%8A%E9%BB%91%E7%B2%89	未分類
 2025-12-29	瘟疫驅邪到豐收祈願 澎湖竹灣村秋末獨特祭典「拜煙墩」習俗	https://tw.news.yahoo.com/瘟疫驅邪到豐收祈願-澎湖竹灣村秋末獨特祭典-拜煙墩-習俗-070500763.html	未分類
+2025-12-26	追憶2025逝世名人 大S、方大同、珍古德、教宗方濟各...致敬曾照亮人間的你們	https://tw.news.yahoo.com/%E8%BF%BD%E6%86%B62025%E9%80%9D%E4%B8%96%E5%90%8D%E4%BA%BA-%E5%A4%A7s%E3%80%81%E6%96%B9%E5%A4%A7%E5%90%8C%E3%80%81%E7%8F%8D%E5%8F%A4%E5%BE%B7%E3%80%81%E6%95%99%E5%AE%97%E6%96%B9%E6%BF%9F%E5%90%84%E8%87%B4%E6%95%AC%E6%9B%BE%E7%85%A7%E4%BA%AE%E4%BA%BA%E9%96%93%E7%9A%84%E4%BD%A0%E5%80%91-010049696.html	未分類
 2025-12-03	新聞女王2｜張松枝演技爆發撞樣孔劉 邪教騙局改編自真實事件？	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60300050/%E6%96%B0%E8%81%9E%E5%A5%B3%E7%8E%8B2-%E5%BC%B5%E6%9D%BE%E6%9E%9D%E6%BC%94%E6%8A%80%E7%88%86%E7%99%BC%E6%92%9E%E6%A8%A3%E5%AD%94%E5%8A%89-%E9%82%AA%E6%95%99%E9%A8%99%E5%B1%80%E6%94%B9%E7%B7%A8%E8%87%AA%E7%9C%9F%E5%AF%A6%E4%BA%8B%E4%BB%B6	未分類
 2025-11-25	山上徹也受審：右翼政客與邪教骯髒交易卻逃過拷問	https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60297412/%E5%B1%B1%E4%B8%8A%E5%BE%B9%E4%B9%9F%E5%8F%97%E5%AF%A9-%E5%8F%B3%E7%BF%BC%E6%94%BF%E5%AE%A2%E8%88%87%E9%82%AA%E6%95%99%E9%AA%AF%E9%AB%92%E4%BA%A4%E6%98%93%E5%8D%BB%E9%80%83%E9%81%8E%E6%8B%B7%E5%95%8F	未分類
 2025-09-05	🕊️ 宗教自由 器官移植	https://www.washingtontimes.com/news/2025/sep/4/xi-jinping-putin-caught-discussing-organ-transplants-immortality-hot/	未分類
 2025-08-28	23歲槍手闖天主教小學掃射釀2死 曾發影片透露情緒不穩、槍枝寫滿要犯名字 ｜ 太報 ｜ LINE TODAY	https://today.line.me/tw/v3/article/wJMZNJG	未分類
 2025-08-22	AI耶穌上線「互動1關鍵」讓學者驚呼！傳非教會人士所創	https://today.line.me/tw/v3/article/JPOZkjX	未分類
+2025-08-18	知名面師林自賢辭世 恩師陳金鑫隔日也離世！ 宗教界震驚哀悼	https://www.setn.com/news/1705845	未分類
 2025-08-12	AI冲击殡葬传统 宗教学者揭示科技与灵性如何共存	https://www.orientaldaily.com.my/news/north/2025/08/12/753734	未分類
 2025-08-07	台中某教會工地傳意外！34歲工人「工程梯上墜落」 送醫搶救仍死亡	https://www.setn.com/news/1700715	未分類
 2025-05-05	特朗普批犯罪分子荼毒美國太久 擬重啟「惡魔島」囚最暴力罪犯	https://www.hk01.com/article/60235479?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-04-30	教廷秘密會議5/7登場 教宗選舉背後如何上演教會權勢之爭？	https://news.pts.org.tw/article/748985	未分類
+2025-04-26	教宗方濟各離世｜公眾瞻仰變打卡熱點！遊客遺體前微笑自拍惹公憤	https://www.hk01.com/article/60232997?utm_source=01articlecopy&utm_medium=referral	未分類
+2025-04-22	教宗方濟各逝世｜教廷：死於中風及心臟衰竭 將葬於羅馬聖母大殿	https://www.hk01.com/article/60231511?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-04-22	12世紀「教宗預言」🔮指方濟各是最後教宗？準確預言史上74位教宗✅｜預視世界末日20XX年來臨? - 東張+	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/15118232074762/%E7%94%9F%E6%B4%BB-12%E4%B8%96%E7%B4%80-%E6%95%99%E5%AE%97%E9%A0%90%E8%A8%80--%E6%8C%87%E6%96%B9%E6%BF%9F%E5%90%84%E6%98%AF%E6%9C%80%E5%BE%8C%E6%95%99%E5%AE%97-%E6%BA%96%E7%A2%BA%E9%A0%90%E8%A8%80%E5%8F%B2%E4%B8%8A74%E4%BD%8D%E6%95%99%E5%AE%97--%E9%A0%90%E8%A6%96%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A520XX%E5%B9%B4%E4%BE%86%E8%87%A8-	未分類
 2025-02-13	公安部整治邪教 嚴厲打擊藉「靈修」等名義從事非法培訓活動	https://www.hk01.com/article/1103041?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-01-17	浙江再拆十字架 三自教會分裂 | 鄒思聰 | 風生活	https://www.storm.mg/lifestyle/38771	未分類
 2024-11-25	教派衝突釀至少82死 政府調停達成停火7天	http://hk.on.cc/hk/bkn/cnt/intnews/20241125/bkn-20241125060525253-1125_00992_001.html	未分類
 2024-04-23	以色列什麼時候宰殺紅母牛？檢驗宗教預言	https://rgkarmch-org.translate.goog/when-will-israel-slaughter-the-red-heifer/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp#google_vignette	未分類
+2024-04-15	38歲山豬猝死！Joeman曾一起穿女僕裝 淚崩哀悼「他教會我很多」	https://tw.news.yahoo.com/38歲山豬猝死-joeman曾-起穿女僕裝-淚崩哀悼-他教會我很多-092004114.html	未分類
 2023-08-27	据该办法《宗教場所管理辦法》第五十八條 第（六）項，「制止非法宗教活動和邪教活動，抵制宗教極端思想，防範境外勢力利用宗教進行滲透。」 中共新宗教活動管理法將上路 律師：違反憲法	https://www.epochtimes.com/b5/23/8/25/n14061325.htm	未分類
 2022-11-30	阿富汗北部宗教學校爆炸至少15死20傷 conflict	https://www.hk01.com/article/842249?utm_source=01articlecopy&utm_medium=referral	未分類
+2022-09-22	基督教天主教合辦藝展 籲緊張時代重拾心靈和諧	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkLVhsZW5IM1BCaERSckt3eEVoYnoxZjBhLXZlSm1fM2NJWV9IeGZtblJtMWFmQXRjZEdFUGlaZmpGc3ZXY1dXRElYWjNZRFNPYkswXzI1SFR6QQ?oc=5	未分類
 2022-07-31	姚淳耀新劇飾演邪教教主 與炎亞綸上演男男擦澡戲份 - 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/5466729365453/%E5%A7%9A%E6%B7%B3%E8%80%80%E6%96%B0%E5%8A%87%E9%A3%BE%E6%BC%94%E9%82%AA%E6%95%99%E6%95%99%E4%B8%BB-%E8%88%87%E7%82%8E%E4%BA%9E%E7%B6%B8%E4%B8%8A%E6%BC%94%E7%94%B7%E7%94%B7%E6%93%A6%E6%BE%A1%E6%88%B2%E4%BB%BD	未分類
 2022-07-17	以貧窮和疾病為號召！盤點11個歷史上的「新興宗教」， 統一教資歷竟然最淺	https://www.storm.mg/lifestyle/4426237	未分類
 2022-05-18	俄羅斯東正教牧首支持出兵烏克蘭，引發教會分裂危機，教宗方濟各：不要淪為普亭的「輔祭男童」	https://www.thenewslens.com/article/167002	未分類
