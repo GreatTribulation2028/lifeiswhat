@@ -1,4 +1,4 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 3009 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 3012 條
 var DATA_MEDICAL = `
 2026-10-08	買二手房8年後發現客廳正上方是一座墳 7歲男童病逝一直「住在這」	https://www.ettoday.net/news/20261008/3251250.htm	未分類
 2026-10-08	被黑心養殖場關籠8年 獲救汪1年後「神報恩」救腎衰竭爺爺一命	https://pets.ettoday.net/news/3251183	未分類
@@ -2990,6 +2990,7 @@ var DATA_MEDICAL = `
 2020-08-22	新冠疫情進入流行期 全民免費接種延至9月28日	https://news.immigration.gov.tw/NewsSection/Detail/A6F2AF13-6752-40B3-9C18-4A23DE6A30A7?lang=TW	未分類
 2020-08-22	彰化增1例本土登革熱 疾管署：與菲律賓遊學團群聚無關	https://news.immigration.gov.tw/NewsSection/Detail/b9a54943-5ffc-42cb-94d9-eeccfb697416?lang=TW	未分類
 2020-08-22	今年首例日本腦炎死亡病例出現 疾管署籲加強防蚊、幼童按時接種疫苗	https://news.immigration.gov.tw/NewsSection/Detail/77a65068-d86d-400c-baa3-c6ef3ce0153e?lang=TW	未分類
+2020-08-01	《遠程遇害》劇評：隔住個Mon攞你命！具新冠肺炎特色的死亡直播	https://news.google.com/rss/articles/CBMimwNBVV95cUxQRUs5Z2wycWtxdE0ySWUxQldJOHRXMzBtcTJtMFAzU2NGcjZVejUzZnNvWmlkaXZQTS1PZ0JidjJjMnRQUFlTd3pmUWVvYUs3X1FfZ0Jfb0dYOVFSU1FRYi1QSE9Ic21ZZ0JtRnA1bTh2LTl4YlY5M1U3YXhRS3dpRWlZV1hub0p6Vng0YlJzYnVHcnZQVTlPYlJqc0s2eE9NVGVrR3VacmVsQVFSMGk5VDVnUEFrcjV5RndHdHFtdUJRSnMzeVZnWVdOVDhaTHNodXVLbi1jZTVSdzJvVWVyQUs3eXhpd1N3SEI4dER4Y0Zza3pFU0JwUGtSSnZHeWlhcGlRM2Zxc24yWC00TTVmb3ZuNjNteGx6SnJfamd2eVdMSk5aM0ZGd200RWs3RVlWdU9XSS1oS2dZTFdVYnVETFNmNElGZEJseGpEcmkzaTdmZG9DZE8xcWxaZGxMWHlRV0stblNTZkc5SGJTYlB5SE9IcWwwUzJldGhiT2c0eUxZcVF3N2hZb2VaV2tDQzBjSGtHT2p1Ml9FUjQ?oc=5	未分類
 2020-07-13	【新冠肺炎】病毒變異空氣傳播可損腦致中風 哈佛專家防疫4招	https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/497278/%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E-%E7%97%85%E6%AF%92%E8%AE%8A%E7%95%B0%E7%A9%BA%E6%B0%A3%E5%82%B3%E6%92%AD%E5%8F%AF%E6%90%8D%E8%85%A6%E8%87%B4%E4%B8%AD%E9%A2%A8-%E5%93%88%E4%BD%9B%E5%B0%88%E5%AE%B6%E9%98%B2%E7%96%AB4%E6%8B%9B	未分類
 2020-07-12	【新冠肺炎】病毒變種1傳4 梁卓偉指港面臨持續本土爆發	https://skypost.hk/article/2693283/%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E-%E7%97%85%E6%AF%92%E8%AE%8A%E7%A8%AE1%E5%82%B34-%E6%A2%81%E5%8D%93%E5%81%89%E6%8C%87%E6%B8%AF%E9%9D%A2%E8%87%A8%E6%8C%81%E7%BA%8C%E6%9C%AC%E5%9C%9F%E7%88%86%E7%99%BC	未分類
 2020-06-14	與新冠肺炎抗爭 印度面臨30年來最嚴重蝗災！	https://www.setn.com/news/761393	未分類
@@ -3001,7 +3002,9 @@ var DATA_MEDICAL = `
 2020-03-05	出現2種亞型！病毒變異免疫細胞認不得？恐釀患者重複感染	https://www.setn.com/news/702017	未分類
 2020-02-25	泰國提高防疫層級 武漢肺炎列危險傳染性疾病	https://www.setn.com/news/695800	未分類
 2020-02-18	蝗蟲藥材「主治肺結核」 中國網友樂翻：武漢肺炎有救了？	https://www.setn.com/news/691534	未分類
+2020-02-07	新冠肺炎疫情簡報：死亡超600，「吹哨人」李文亮去世- 紐約時報中文網	https://news.google.com/rss/articles/CBMikAFBVV95cUxORUU2Nk5yMUEzbjJJMHg2N3preGVQaGRsc0V6eVZCeE03eHhKRlpxbkl0Rk5wVkRreDVzdkRMLVhaQ2pBMUE5eWhNUDFUa3l4TVpObm54QXJDSEswUDB6NmZVZFJ2cTU5QTZrR3B3MEF5bTJOY2Q5Y1FleW1sZnBYb3JOUEJpcUdPRGZFOE41N24?oc=5	未分類
 2020-02-01	武漢肺炎／疫情升溫 口罩成旅菲台灣人熱門話題	https://www.setn.com/ampnews/681501	未分類
+2019-03-13	患癌外傭被終止合約惹爭議 有組織促政府為來港外傭驗身	https://news.google.com/rss/articles/CBMi8gJBVV95cUxObFRWWmVCWE02amViRDhDMUd4WDlWbElqbGpLdWlMampnZXZ1MVlDcTRGX0FsbDAzVFhubzFHYlhTNU5JLVhJajJJUXVBc2tsUzJoNmxCRWEteDNiV19ScnNyWGVuMTZJOWIwTFpuLVNPdms5aGNxYU84SWZaWlEzcTB4a295MnAzZkVUaU9NZDVwUEJwU0E2OHh2OU5yT2ZBY2JnNm1Qb3BhVTBUSUlsQjdfTDhoSTlnSVBpOGRtS0lQQkRfdkVMdTc5cmRtZHppUUFzTVNzX1dacGpiVFl4aEFnbkZlNjA4NHc5VDRld0tud05hZEVXRjIxVWtVaUhvdWJxTjl2ellCS2t6UDFTUDdUaDBjUXd2OUYtR3dQUzlTeTF4UDIwcTQ5c0lncHl3WTdDMUFLd3RtZmczUURLcTJTV1ppTTJrLUhLaFFJdEFDWmRNTWZuZDdma09LMEZaa1JhaW9KeFBqLTdxcmdPR2Z3?oc=5	未分類
 2018-03-11	世衛警告致命「X疾病」恐隨時爆發疾管署籲民眾無需恐慌| 生活	https://www.setn.com/news/356404	未分類
 2017-12-14	一灣淺淺的海峽…余光中病逝陸網友最懷念詩作鄉愁| 生活	https://www.setn.com/news/325647	未分類
 2017-07-31	B肝+D肝 易突發猛爆性肝炎死亡	https://www.uho.com.tw/article-44321.html	未分類
