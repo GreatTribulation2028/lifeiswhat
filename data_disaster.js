@@ -1,4 +1,4 @@
-// 天災 | 由 build_news_js.py 生成 | 共 3907 條
+// 天災 | 由 build_news_js.py 生成 | 共 3913 條
 var DATA_DISASTER = `
 2026-10-08	日本千葉縣東北部發生4.8級地震	https://news.rthk.hk/rthk/ch/component/k2/1873084-20261008.htm	未分類
 2026-10-08	新一輪以巴衝突爆發三周年 以軍續對加沙發動空襲	https://news.rthk.hk/rthk/ch/component/k2/1873083-20261008.htm	未分類
@@ -3831,19 +3831,23 @@ var DATA_DISASTER = `
 2021-09-16	【時事縱橫】四川瀘州6級地震 人禍還是天災？	https://www.epochtimes.com/b5/21/9/16/n13239895.htm	未分類
 2021-08-12	阿根廷百年一遇乾旱 糧食出口衝擊恐持續到2022	https://www.setn.com/news/981539	未分類
 2021-06-02	無人機拍火山失事 倒數時刻拍下「地表煉獄」40萬人搶看	https://www.setn.com/news/948125	未分類
+2021-04-19	山火不絕│是天災還是人禍？	https://news.google.com/rss/articles/CBMiU0FVX3lxTE55SHl0SUJHNUx0TVhxZXVpZ3AxOXZ5RFlsX3BvczNHN1NsRzlhblNHMm5WZW1aeDcyREJSaEVyMEVobEhadFNieVVRWl9yMndqUTZJ?oc=5	未分類
 2021-04-16	獨家／惡魔島也鬧水荒！乾旱地盼到滿天烏雲還是不下雨	https://www.setn.com/news/925901	未分類
 2021-04-15	乾旱影響擴大茶樹也遭殃 農委會啟動救助	https://www.setn.com/news/925711	未分類
 2021-04-13	「今年慘了？」他曝乾旱恐怖3危機 台積電1衝擊全球斷鏈	https://www.setn.com/news/924601	未分類
 2021-04-09	「陸上行舟、龜裂大地」日月潭乾旱奇觀 拍攝者：美麗哀悽	https://www.setn.com/news/922881	未分類
+2021-03-23	彈射座椅要命！起飛前意外啟動 俄Tu-22M轟炸機機組員3死	https://news.google.com/rss/articles/CBMiZkFVX3lxTE80dU1sdk5lRlUyODdwVEVGeEFZd0dCOFppc3VON0hYTk1PemFwVGpWZ2hCcXN5blNqTjBSMEpNZkFZbXBROXc5WVBzbXQyX29pOHpWMWZNak9ZOFFLekkzTXBNSHJldw?oc=5	未分類
 2021-03-18	阿爾及利亞外海6.0淺層地震 居民驚慌奪門而出	https://www.setn.com/news/912259	未分類
 2021-03-16	歐洲近年高溫乾旱 研究顯示：逾2000年來最嚴重	https://www.setn.com/news/911075	未分類
 2021-03-15	3·11大地震十週年：一個被抹去的村莊- 紐約時報中文網	https://cn.nytimes.com/asia-pacific/20210312/japan-fukushima-kesen/zh-hant/	未分類
 2021-03-11	311 東北大地震十週年：復興工作持續、核災問題未解	https://www.tatlerasia.com/power-purpose/ideas-education/311-2021-east-japan-earthquake	未分類
 2021-01-29	天災人禍？三預言曝「辛丑年動盪」 命理師：人民少一半	https://www.setn.com/news/890183	未分類
 2021-01-11	元朗田廈路新生村附近發生山火 暫時毋須疏散	https://news.tvb.com/en/907737-元朗田廈路新生村附近發生山火暫時毋須疏散	未分類
+2020-12-29	回顧2020全球災難：森林大火、全球暖化、漏油事件等天災人禍總整理	https://news.google.com/rss/articles/CBMi3gJBVV95cUxPMXFwdk1kYndpdkJybGIxZGNfTjNIRVEtb0p3ZDk5RGNvQVByRU1Cb24zMUhYd09jWXFfZm5ZdUxxdWNEWnUzLWowM2ZZYWVLckM3YXAxVko0SXkwVGNycjNDTk4tUkFvaVlOVG9zeDFIOXFfVGdqWldjNzFKLXdTQmxnLWRXS1lITXE2dm5UTWpndFBnWEdnQllsczdOeDhBREZJZnQ0ckpJSnEybzRYMkJrTUQ2b045cHhKX0hVMGU4d1NrUHRjS0dGcU0wa3dmeGM0N3NZM2VMZ2ljMVB2eWkwOVRRbzlwbnJ0SERTRmFGdGJoYkkwQWFPOFhmMmNFQkRCRDg3aThfRUUycW5yX0VtYkthYUdaLWlQZVN4NGlPVFY3azd4RWs5NmlMS2dzLVRyRmRnT196MHZlVXJTSlhHQlQ5Qk1hQVpXZDFRT3FKS0dkdmFER2pUS25EQQ?oc=5	未分類
 2020-12-27	中共培育基因改造士兵 或引聖經中末世戰爭	https://www.epochtimes.com/b5/20/12/27/n12647393.htm	未分類
 2020-12-04	恐龙王：火山就要爆发，恐龙们赶紧逃离吧	https://www.163.com/v/video/VWS3IHI1O.html	未分類
 2020-10-13	2020狂爆慘事有原因？歷史引證逢「庚子年」必衰 鴉片戰爭都關事	https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/535022/2020%E7%8B%82%E7%88%86%E6%85%98%E4%BA%8B%E6%9C%89%E5%8E%9F%E5%9B%A0-%E6%AD%B7%E5%8F%B2%E5%BC%95%E8%AD%89%E9%80%A2-%E5%BA%9A%E5%AD%90%E5%B9%B4-%E5%BF%85%E8%A1%B0-%E9%B4%89%E7%89%87%E6%88%B0%E7%88%AD%E9%83%BD%E9%97%9C%E4%BA%8B	未分類
+2020-09-26	火燒亞馬遜！世界最大熱帶雨林及濕地陷危機，巴西總統竟否認	https://news.google.com/rss/articles/CBMizAJBVV95cUxQU1N1NzlxUjZiUGhBTi1wMXpCUUx1YTN1YmdNOFg2U2lTNUppalBpcmVIZEJrcXNBQ0YyN19uTVFDZXNOaG9wNGpXcGlkOHRYZVRUYk9CMmpjWUI1R2Vhc0J3MTVYNy00NW5scFJPbVB3RUlhVXpTQ1pFRnZDeXFsMjBDSERkLTJMUk5uT29SUnpxeFZzbk5kMUZ4Nlh5M3JZLXc1MjVBc3FpeVl2N2lIdzRPZ1h2akV2Rmgta09XNmYyZDRHYzhiM3J1YmUyTkV4WWJHZzZsYkxBSEpjTzd6OFFiVC1FY0k3X2NQZXRpM09xZVMzOE1qX0NsZEJTbnNOdEppeS10ZGlRdDJQZTBBUExEOG5YQUFITDNJRzF1Smp0N29sQmtabnB2d0tzNUpPZDBpX3VMN3ZjVWlpNGlPUkVteWZLNm9ia01mZA?oc=5	未分類
 2020-08-14	習近平頭很大！中國糧食危機才剛浮現…雲南又慘遭蝗蟲過境	https://www.setn.com/news/796969	未分類
 2020-08-13	中國糧食危機！官方曝今夏小麥減千萬噸 習近平急下令節約	https://www.setn.com/news/796226	未分類
 2020-08-11	美阿富汗駐軍 11月底前裁至低於5000人	https://www.setn.com/news/795162	未分類
@@ -3858,6 +3862,8 @@ var DATA_DISASTER = `
 2020-03-03	中國專家：巴基斯坦蝗災超乎想像 還被蝗蟲咬	https://www.setn.com/news/700499	未分類
 2020-02-14	氣候變遷加人禍 醞釀東非超完美蝗災	https://www.setn.com/news/689667	未分類
 2020-02-03	日本口永良部島火山噴發噴煙高達7000公尺| 國際	https://www.setn.com/news/682269	未分類
+2020-01-21	台中潭子火燒車意外 死者疑為職業軍人	https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yODF1UWoybkgxeFppbFo1U2wxVXdrU2hBWFVHRFhwWUFLdXF5SVktQWJ0NkpNZXAtbTN1YmVOc3lDcGpCRXNZS05UdG1qSkw0QTFrWC1HdkVSREhDU3JuMkUzZkc5UmRz0gFuQVVfeXFMT3VzNk9XdnF4c3FzSDhaczBFanRVTG0xbl9FbVFjRkh3THdRNEE0Vng4aTU5LUNIa2E4VnhZelJxTUZTel93amp2bkFPSVF5VmdIYXlYRDU1WDV5UVhpM29MTmZFQmpobEU5N0tjSUE?oc=5	未分類
+2020-01-02	台灣軍方黑鷹直升機迫降事故，參謀總長等8人罹難	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pX0FOVFpqZXlCU2RhQzVGd3NkMmx0WDlfbmpEM3Y1ampGQlE4MmN6bXJsVktUVk11NEtQMjdBamJSQ0pSYzExM0VmaDNwSXN2Q0NkclYycFp6WHhvQ01mUnNNMFBMZ9IBa0FVX3lxTE9CeEVyUGgxX2k1ZXh3bTd0OUZqYXBUYjBuS1gyNTFHbThKT2hQWmF4WHdFZmxjSXRRRGt1b3lBa3VuOUw0WXFiYnN1dnVMbTFsS2gyTFRnNnk0LWFSZHlEZ1hFdTZnVzNIUHU0?oc=5	未分類
 2019-12-11	白島火山再度爆發機會仍高 紐西蘭暫緩善後工作	https://www.setn.com/news/652038	未分類
 2019-09-12	快訊／地牛翻身！宜蘭規模3.6地震 最大震度4級	https://www.setn.com/news/601297?p=0	未分類
 2019-08-08	火山警報！日本淺間火山噴發 氣象廳發「降灰」預警	https://www.setn.com/news/582843	未分類
