@@ -1,5 +1,12 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 510 條
+// AI安全 | 由 build_news_js.py 生成 | 共 521 條
 var DATA_AI_SAFETY = `
+2026-10-08	荷蘭聲稱中國黑客利用邊緣設備對其網絡攻擊將增加 中方：強烈不滿、堅決反對	https://news.google.com/rss/articles/CBMie0FVX3lxTE1QSzlQWEZBR2pWS3o5LVgyVkVETnA5ZWFPX3JHMnlPV19SM0pSVEpWb3A0TFpYZ3pWNVFUUVBqeUJ1TEJVaXlZQ2doeGhNbGRjRlRyT2F4aVJSVkllZHlqV1IyVzJYUUlwMU5RMnV4dVJXWUNRWWx4cERzdw?oc=5	未分類
+2026-10-08	核心成員遭日拘捕，駭客組織 Qilin 稱日本資安全球最差之一	https://news.google.com/rss/articles/CBMivwFBVV95cUxNR09vNV9fZVVkUDBxbjUxYy1VbWxFaXBJYjVwZnJmMnhLU2U3MmdWcHpzTk5JVTVVV1JyaERzZnpRRTRQSmtZSFFFOXZVYTcxd2xlZDduZlREYzZ5c0luSUN5NmQ4N0hCZHpoV0UyNm9KNnNVZGxxZl83VDhiM1BrTG5veXNRamFGTUg1bWJzTGtrOGJkdHFyT1VqbC1YbHRVeFFhY09HU3ZvbHZPMFlGck9FOENOTWJ2UWNrenJhMA?oc=5	未分類
+2026-10-08	報告指攻擊韓國銀行黑客可能居住在中國廣東	https://news.rthk.hk/rthk/ch/component/k2/1873115-20261008.htm	未分類
+2026-10-08	南韓多家銀行遭網路攻擊 資安業者：嫌犯疑為中國26歲駭客	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsd2YxU1U1TTJDRWhHZjNRY1NmQWhSN0dvNm1OLVFnVzhxSEFfZ05GLWtxQzV2N2lSbFRlQ0I3cEpLYVNhdWN0T2l2R2RMZ0dkSHFnYTUxc09CMFZvcFk5WQ?oc=5	未分類
+2026-10-08	南韓7金融機構連環遭駭！疑中國26歲駭客犯案 靠DeepSeek猛攻	https://www.ettoday.net/news/20261008/3251114.htm	未分類
+2026-10-07	韓國銀行調查疑似AI輔助網路攻擊 數萬名客戶資料受影響	https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3emRJaWRNa0JVOV9UMXRIWWd5dk4yMVM1SUhpSUNVX21NWm1vSmVIaFluVDRpT2ZVXzVWbXFRT2gwRzBSYW1DR3p6RQ?oc=5	未分類
+2026-10-07	應對俄羅斯混合威脅 英國德國聯手打擊網路攻擊與破壞	https://news.google.com/rss/articles/CBMiYEFVX3lxTE03ZGttOUFsS3dHNDU0MDhkQVNibm9Dd2RtLXU0eU5hdDlxOGx5ekpNa2pYbUdUYVhBcTVaX1BXRVVQVy1pdVZGcUh5OXVDd2xlQ3NTR2Q3Rl9zdkpjY0FUQQ?oc=5	未分類
 2026-10-07	亞利桑那州法院系統遭網絡攻擊 超過百萬人資料被盜	https://www.bastillepost.com/hongkong/article/16921580-%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%E6%B3%95%E9%99%A2%E7%B3%BB%E7%B5%B1%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E8%B6%85%E9%81%8E%E7%99%BE%E8%90%AC%E4%BA%BA%E8%B3%87%E6%96%99%E8%A2%AB	未分類
 2026-10-05	韓國多家銀行遭網絡攻擊 疑黑客利用AI施襲	https://www.hk01.com/article/60396333	未分類
 2026-10-02	駭客最常盯上誰？微軟揭「這領域」受創最重 占比1年升至27％	https://stock.ltn.com.tw/article/qjbnwn7hn6ta	未分類
@@ -15,6 +22,7 @@ var DATA_AI_SAFETY = `
 2026-09-23	陷數據洩露風波！Deepseek、月之暗面傳遭陸官方調查	https://turnnewsapp.com/livenews/chinav3/20260923002543-260409	未分類
 2026-09-23	異動股丨阿里走低4% 關注數據洩露風險報道	https://m.hkej.com/landing/mobarticle2/id/4520855/%E7%95%B0%E5%8B%95%E8%82%A1%E4%B8%A8%E9%98%BF%E9%87%8C%E8%B5%B0%E4%BD%8E4-%20%E9%97%9C%E6%B3%A8%E6%95%B8%E6%93%9A%E6%B4%A9%E9%9C%B2%E9%A2%A8%E9%9A%AA%E5%A0%B1%E9%81%93	未分類
 2026-09-23	台灣日均260萬次網路攻擊 數位部長點名境外勢力	https://n.yam.com/Article/20260923786148	未分類
+2026-09-22	台灣日均面臨260萬次網路攻擊 中國、朝鮮、伊朗及俄羅斯駭客頻繁瞄準	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVXdMUTRnUzhIZUhvTEdZQmFxeEppX3V1M3VQTGxzWEhna2hLS28wT2xEY21wWWt3MjQ1bGdsenJ2WG8tby1FWEM5Z1VIN0E?oc=5	未分類
 2026-09-22	【Dreamforce 專訪】AI 讓駭客比防守方占上風？Salesforce 三大高管拆解AI Agent 信任治理，從秒級威脅隔離到關鍵決策留給人類	https://www.inside.com.tw/article/42452-salesforce-agentic-ai-trust-security-legal-ethics	未分類
 2026-09-22	Instinct疑似發生跨用戶數據洩露：陌生財務文件直接串進聊天	https://news.cnyes.com/news/id/6613469	未分類
 2026-09-21	駭客協同攻擊 Fetch.ai 與 NuNet，SingularityNET 代幣暴跌 99%	https://finance.biggo.com.tw/news/9ccc09fb-41c5-422b-b27a-4131978aaa5a	未分類
@@ -92,10 +100,12 @@ var DATA_AI_SAFETY = `
 2026-09-03	「鄰住買」遭網絡攻擊 逾3.3萬客戶資料外洩	https://www.guandian.hk/article/20260903/596959.html	未分類
 2026-09-02	獨家／矯正署內鬼？中國駭客兜售台灣監獄2000受刑人資料 竟稱「內部外流」	https://tw.news.yahoo.com/獨家-矯正署內鬼-中國駭客兜售台灣監獄2000受刑人資料-竟稱-內部外流-022650755.html	未分類
 2026-09-02	【專訪】從漏洞揭露到實戰利用只剩幾小時！AWS 安全與基礎設施副總裁Hart Rossman：駭客攻擊自動化，企業如何重構安全防線？	https://www.inside.com.tw/article/42263-aws_securityinfra_hartrossman	未分類
+2026-09-02	「鄰住買」遭網絡攻擊 洩3萬客資料	https://news.google.com/rss/articles/CBMikwNBVV95cUxOcmF2RHRrSjJ6X3VKTVkxWnBzd0htUW5FOVY3VmUwMTRSeWQzSUxTVXkzajhpdFJvLUpzRzFPMF9xbXJEenFJVjZVaUxQREFKVE4tVUNWd0YxNHNkMDZGdUJpeGJDS0IyTHZOcW1qb0Eyc1lKazJLWk1NcEVPN3JUN2hxN250YUFyRm04a1huVHZnZlRNMnp2T0dsX21HZktRTmVPbUtfUnUxX0NoY1ZLVVp3aW1nUHdiQjdxY2JzejhRSy1pa2MtRGs3VDRBUXpnS1ZjeXJSVzRpa1Q5Tl9sSEhlbFc0dHJ2amViV0kxdDlKY1F6MndZV01NNjVmQVVERTFISWhLSVJrSlpaVmpEWjRMdk9aN3VTQ3dXM1hPTzVBRERVRzJULUtBV0VzdC0zYXFmbVEwT2xsamdqT1F2aDJFVVdlZGZmcWVzbzFiOTBNWldkMzFZdjFGOVdIRk5NRWpyc3dITVY4VEpGYnlkMElHdjBRaGFsQllzcG84Nl83Z3FuTTBXSTdxV0xVbWtjekY4?oc=5	未分類
 2026-09-02	OpenAI 新模型 Astra 駭客能力驚人，首度啟動強化安全防護	https://tw.stock.yahoo.com/news/openai-新模型-astra-駭客能力驚人-首度啟動強化安全防護-003630047.html	未分類
 2026-09-02	AI駭客成真？OpenAI展示Astra模型，具備入侵電腦系統能力	https://n.yam.com/Article/20260902287326	未分類
 2026-09-01	警方與網絡安全檢測平台合辦計劃免費為參與機構偵測系統 ...	https://news.rthk.hk/rthk/ch/component/k2/1868397-20260901.htm	未分類
 2026-09-01	警方與網絡安全檢測平台合辦「狩網運動」 免費為機構偵測 ...	https://www.bastillepost.com/hongkong/article/16681834-警方與網絡安全檢測平台合辦「狩網運動」 免費	未分類
+2026-09-01	後患無窮｜英國最大機場集團遭勒索軟件攻擊 870萬旅客資料外洩	https://news.google.com/rss/articles/CBMivwJBVV95cUxQNzZlc2ZpY2RJY20yNDZYY0h6ektwV3hHbnhReXFUOTZjQUFyajJSRmJQbHQ1ZXN4bHA3cllPbmU1NmVqUVExYjlpbjdKT0FJbFRBMTlvckxad3Eta1pNM0NNNkJieldhVzlxeXVTWVYwXzc3S3BrbE5IZUMtQk0tOUJzZmpTM015NldCd1JDZ2pDaDJKQVNyelRxUl96dWNqSTR6T0t3LVgxUE1RQWRuRkMxWm16TGhJSlNtQnJ0SXVGWEdrWTFCdTRiTzRja2tydC03ZHlKczRRQkQ5MUh1alpZdEZ1ajYxY0ZTbXlUY2xsTFowZnFWV25TTHVWVjZuMFVFd2VnbW1XRWpaMEFRY0w1UjRZNUJPTlNLNWJRNGt2U0JVamF2Nm9fai13LXRFV3ZTVDZzX01kX2RUQ2dN?oc=5	未分類
 2026-09-01	如何避免駭客攻擊？ 專家：讓科技文藝復興吧！用諾基亞老神機、老軟體	https://tw.news.yahoo.com/如何避免駭客攻擊-專家-讓科技文藝復興吧-用諾基亞老神機-老軟體-060800718.html	未分類
 2026-09-01	北韓駭客疑在 Hyperliquid 搬移 3,000 萬美元	https://abmedia.io/north-korea-lazarus-hyperliquid-laundering	未分類
 2026-09-01	北韓駭客 Lazarus 在 Hyperliquid 賣出 3000 萬鎂比特幣	https://www.blocktempo.com/lazarus-north-korea-hyperliquid-bitcoin-sales-trump-cftc-onshore-kraken/	未分類
@@ -104,6 +114,7 @@ var DATA_AI_SAFETY = `
 2026-08-31	北韓黑客 Lazarus 利用 Hyperliquid 套現逾三千萬美元比特幣	https://yellow.com/zh-hk/news/北韓黑客-lazarus-利用-hyperliquid-套現逾三千萬美元比特幣	未分類
 2026-08-31	加密卡不再萬無一失 Solana駭客事件凸顯資產託管風險	https://sunmedia.tw/news/technology/1788131703-加密卡不再萬無一失 Solana駭客事件凸顯資產託管風險	未分類
 2026-08-31	兩名澳洲人因全球軟體供應鏈駭客攻擊遭起訴，逾千家組織受害	https://finance.biggo.com.tw/news/bfdaf911-94c0-4d0a-8090-3c3a3712fa3e	未分類
+2026-08-31	先進 AI 成金融體系最迫切風險 改變網絡攻擊速度、規模與成本結構	https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVJ0RV93R25oY2tLbEtGVnlrVTJsa3ZHSFlSQzdDa2MzeDc2Znp2X2xvcWFFOXNLZVdIZmN1N0Jpc2ZvUFppZ0wzaGsxUEs0MVlFTllUSE02SVdHZHp2dncwamlicjJ6OGlDSXFnY1FRUGExdFZ0dG9uSmtnMm1TaktzSlk0Z1No?oc=5	未分類
 2026-08-31	AI變成金融系統「駭客倍速器」？全球監管急補破口、華爾街估值泡沫壓力升溫	https://cmnews.com.tw/article/cmoneyairesearcher-b2c7cbe7-a509-11f1-9e01-a6aaaa1e4a75	未分類
 2026-08-30	駭客竄改QR Code 資安署示警掃碼停看聽	https://www.epochtimes.com/b5/26/8/30/n14839554.htm	未分類
 2026-08-29	美更正中國駭客案說法 多機構遭鎖定但僅部分被駭	https://money.udn.com/money/amp/story/5599/9721270	未分類
