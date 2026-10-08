@@ -1,4 +1,4 @@
-// 猝死 | 由 build_news_js.py 生成 | 共 3949 條
+// 猝死 | 由 build_news_js.py 生成 | 共 3976 條
 var DATA_SUDDEN = `
 2026-10-07	最年長奧斯卡得主離世！《超人再起》養母伊娃瑪莉桑特 享嵩壽102歲	https://star.ettoday.net/news/3250333	未分類
 2026-10-07	《請回答1988》好邪！金柱赫全美善先後離世	https://hk.on.cc/hk/bkn/cnt/entertainment/20190629/bkn-20190629183017297-0629_00862_001.html	未分類
@@ -3888,6 +3888,8 @@ var DATA_SUDDEN = `
 2022-01-13	2飲食恐天冷爆血管猝死！9招祛寒保暖祕訣 營養師曝自帶暖爐必吃「4大產熱食物」	https://health.tvbs.com.tw/nutrition/331345	未分類
 2022-01-10	男嬰嘴唇發紫「已猝死！」搶救仍回天乏術...檢警調查托嬰中心	https://tw.news.yahoo.com/%E7%94%B7%E5%AC%B0%E5%98%B4%E5%94%87%E7%99%BC%E7%B4%AB-%E5%B7%B2%E7%8C%9D%E6%AD%BB-%E6%90%B6%E6%95%91%E4%BB%8D%E5%9B%9E%E5%A4%A9%E4%B9%8F%E8%A1%93-%E6%AA%A2%E8%AD%A6%E8%AA%BF%E6%9F%A5%E6%89%98%E5%AC%B0%E4%B8%AD%E5%BF%83-051558110.html?chat=1	未分類
 2021-12-28	長沙灣泰籍40多歲女暴斃洗衣店	https://www.hk01.com/突發/717456/長沙灣泰籍女獨居洗衣店-友人登門揭不治	未分類
+2021-09-01	【禁聞】文革要案受害者卞仲耘夫王晶垚 抱憾離世	https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wQkNfZ1loVk85TTRCSEFfRTJpcjU4Vmp0dnpRSzB4d1Y0UFN2bEFwa2FnVW1YUTZJSVBSbjdZUXpILV9FYmliVWxVSmE1UVFDal9BWDc0LVB2VEhsckRDTdIBZkFVX3lxTE1GZHBkZWlsN0xUTFVBWENkcHlnUUZYZ21IdU94YnZqZW56ZjdPbERPcFZQVmNXR2dfeURsQW9PZWpHV0tka2FUTy16U0dIUm8xX2FFVVJJXzktSkh4VXduTjZBVlhXZw?oc=5	未分類
+2021-08-27	醫主張「電腦斷層」查高端猝死？ 高大成轟笑掉大牙	https://news.google.com/rss/articles/CBMiekFVX3lxTE5iZlM5T0ZrTHJ1QWx3czRoVnFjQnR6RExLTzBQeG9FTmZBX195cXFGWjlfVGdla2tfa1pvLVQ2OWR4RnRwdURQdnBwUTdac2RTYVVxRzZ4bVFfb19kTThuRHhQbnhxakJYMXA4b1pZY0QxelE0cS1GVm1B?oc=5	未分類
 2021-08-25	又一人猝死！40多歲基隆女打高端 張上淳：主動脈剝離	https://www.setn.com/news/987861	未分類
 2021-08-16	耳朵上有這條摺痕，是心梗、猝死的「標誌」？專家：不能划等號	https://www.bannedbook.org/bnews/zh-tw/health/20210817/1607565.html	未分類
 2021-08-12	藍牙耳機突然爆炸 印度男雙耳受傷終心臟驟停不治	https://www.stheadline.com/realtime-world/2142241/%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8-%E5%8D%B0%E5%BA%A6%E7%94%B7%E9%9B%99%E8%80%B3%E5%8F%97%E5%82%B7%E7%B5%82%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E4%B8%8D%E6%B2%BB	未分類
@@ -3896,12 +3898,17 @@ var DATA_SUDDEN = `
 2021-07-04	高雄翁猝死前1小時⋯曾打莫德納！家屬自責：是我們害死他	https://www.setn.com/news/962733	未分類
 2021-06-12	女子尖沙嘴疑食鮑魚骾喉 送院不治	https://www.stheadline.com/article/2195598/%E5%A5%B3%E5%AD%90%E5%B0%96%E6%B2%99%E5%98%B4%E7%96%91%E9%A3%9F%E9%AE%91%E9%AD%9A%E9%AA%BE%E5%96%89-%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	未分類
 2021-06-11	慟！宜蘭大學副教授猝死 學生臉書哀悼：老師一路好走	https://www.setn.com/news/952545	未分類
+2021-05-06	「播音天王」 99歲李我離世	https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VZ3VrSzBnR05ncENKUjFRbVg1SWxiTGowbjh2SnBoM2h3QUwzVWhDV285Skk4aGtPQTJTUmM0U3BuVTZoS0NZbW9PSWQza1JDS1MzUEo5WWNFOV82aUhIWkFBRQ?oc=5	未分類
 2021-04-18	老翁偷2顆雞蛋猝死！家屬「兩度」怒告超市：求償165萬	https://www.setn.com/news/927030	未分類
 2021-04-15	迷「假仙姑」害兒猝死！母喪禮回「這句」女兒全身發毛| 生活	https://www.setn.com/news/925480	未分類
 2021-03-05	莊凌芸意外猝逝！公司隔4小時發聲：記得她揮灑青春的樣子	https://www.setn.com/news/906139	未分類
 2021-02-25	受虐人妻猝死！婆婆冷說1句話…警竟讓她「再死一次」	https://www.setn.com/news/902360	未分類
+2021-02-20	海巡最強特勤教官 蔣爭台巡護中猝逝	https://news.google.com/rss/articles/CBMiX0FVX3lxTE42YUpCVk5jVmIxZ3k0NF9XcldNWWk4Rko5VjVYeVRUZVR5ZDlCSS1KZG5xMHB2QTBVRnFEa2xXVHc0eDdWTWx0S1RtOXY1bUV3bTdaU1pJMDd5cXNpN0Jr0gFkQVVfeXFMT2JFeWNVUHNnWFVlV1pHTHZqLUdvQWhVVWpWQ3Z4Y2lOaDdRR1p5X2UtNVdkY291LWxMVjJTQzRiTVA1dDRBNmlvSjNIRnNDaU9pVXZFTnJSZ0ZfWjJoby1wQkhBMQ?oc=5	未分類
+2021-01-28	涉為扁洗錢黃芳彥猝逝！ 陳水扁PO文悼念：抗煞無名英雄	https://news.google.com/rss/articles/CBMiakFVX3lxTFBjRkg2WlZfOEhQdEJVSmZfQ18xaTZfMkNvanJ2STEzUXEyOXlLR3lybHVrSUhwVzQ5b1pKWWduWlpldFV3LWNtRzI0cFF0Q2djMTc3YzhzR00zaHljV2g0eHV2VFBhcm5UdUHSAW9BVV95cUxNVUpWZDM5ZmtQa0hRcWg2NWpRUjBMcDVlb3NHYTh5NnlsSVNKU2Q5aGJYY2JtdHpDWVdwV1VUSjVHSkZmZzNwTHBLUTdxVlZELWxrTWQtNzlUdExuMUVhdmdmTC1NT2lpdXBkdHlyc00?oc=5	未分類
+2021-01-25	（專訪）爸爸看表演隔天猝逝 羅文裕嘆人生無常	https://news.google.com/rss/articles/CBMiXEFVX3lxTE83bzJjaDNSMDRtaHlUcjFEbEF5VTRrY1kzODA4T0picGlmZ0tHdjZUMVl6dlRjb29ySk1Md25GeGxxbXpXUnZFa3g5ZDdRVmdlZ2xaWHhBcU1oMGhS0gFiQVVfeXFMT1pJamFqYmVvSFE4TzBORURPZ2JyeGRxQ1k4TWtOTS1LalduRkxoTlJrN0Q0YzQyT1hKdmRwbXozZUpCOWhzN29RZ1psY2Q5RUR6WTN2VFdzN2ZscHhrQ0psZnc?oc=5	未分類
 2021-01-20	女性肚子痛可能是心肌梗塞 2類高危險群要留意	https://www.epochtimes.com/b5/21/1/19/n12696940.htm	未分類
 2021-01-04	防猝死！冬天這時間最危險護心飲食4原則、3種運動不要做- 營養好食	https://health.tvbs.com.tw/nutrition/326562	未分類
+2021-01-02	才剛跨年！25歲女星元旦猝逝 媽媽淚喊：我的女兒啊	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdWNTQmx3amczRDBncllFN0plSl9KOFJRVjdzVU1aRFR4V0QtTFo3RFpmTXJjSDFjaG4xVmJfb1pDc1hRSFhlbkUtZVpLSHJvZC1ubWNLbmNHUdIBX0FVX3lxTE9JUFpFSGhvTWZaemE1X0hPZjFLelBkOHpldzZraHNNOU10Zl82TmNheVpSa2VBQnROSzZxSWUxdmY4ekExQkZHNXRxRzVvMUdfQ2ZMS1hEWVJNZm11dmZZ?oc=5	未分類
 2020-12-30	日男星43歲腦溢血猝逝！反應遲鈍、常絆倒是警訊天氣冷防中風要保暖與多喝水- 營養好食	https://health.tvbs.com.tw/nutrition/326536	未分類
 2020-12-20	60歲業餘跑手猝死 曾對妻說：跑步嘅人最想喺跑道上燃燒生命	https://www.hk01.com/%E7%AA%81%E7%99%BC/564044/60%E6%AD%B2%E6%A5%AD%E9%A4%98%E8%B7%91%E6%89%8B%E7%8C%9D%E6%AD%BB-%E6%9B%BE%E5%B0%8D%E5%A6%BB%E8%AA%AA-%E8%B7%91%E6%AD%A5%E5%98%85%E4%BA%BA%E6%9C%80%E6%83%B3%E5%96%BA%E8%B7%91%E9%81%93%E4%B8%8A%E7%87%83%E7%87%92%E7%94%9F%E5%91%BD	未分類
 2020-12-06	太古城七旬婦倒臥學校操場 送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/558109/%E5%A4%AA%E5%8F%A4%E5%9F%8E%E4%B8%83%E6%97%AC%E5%A9%A6%E5%80%92%E8%87%A5%E5%AD%B8%E6%A0%A1%E6%93%8D%E5%A0%B4-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	未分類
@@ -3911,27 +3918,47 @@ var DATA_SUDDEN = `
 2020-09-22	小鬼猝逝／慟別初戀情人黃鴻升 楊丞琳忍不住喊：等你入夢	https://www.setn.com/news/818812	未分類
 2020-09-19	小鬼猝逝／復活過來了！網挖「這片段」哭爆：拜託是真的	https://www.setn.com/news/816985	未分類
 2020-09-17	汪東城嘆「對象尋覓中」 聞小鬼猝逝痛心：常受他照顧！	https://www.setn.com/news/815907	未分類
+2020-09-16	小鬼36歲猝逝！名嘴驚爆「恐怖巧合」：2020嚴重會喪命	https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mYWtHR2VKcjJiWHlXT3N3UW5JWEFsN1RoMUFrRnhFZmFMV3RxS3N5T1V6TUkwTFJSbF83NzZpRG0xMF9PaHJUMFFwTG_SAVJBVV95cUxPTHFlWUNaaThOOF81MjcyaU5iZHhhbGVOR2tRZFR3bFM1dDhxSmtpYlA5VnVFbFBxSHdiTHdtZTM0VGUzVWtITVBVNk8yV01UVFZR?oc=5	未分類
+2020-09-08	周梓樂離世十個月 市民到將軍澳悼念	https://news.google.com/rss/articles/CBMiYkFVX3lxTE92RkpiamxENGNmMTJqbEFKb2VaaVFCZ1ctT3FaNzhxcWRXOEtOZ204ckJ6NUFJZnE5MkdYUzBuNEFyMWFHbU9kR2tzQk9TN0RRRU04YTg0VGxKZ2JsOE9JRm9R?oc=5	未分類
 2020-08-20	銷售員店內猝死！賣場「雨傘遮屍體」續營業 其他客人傻了	https://www.setn.com/news/800416	未分類
+2020-08-13	金山公所小編疑過勞猝死 侯友宜：從優從寬撫卹	https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xeGtFekc4X2VadUNqMW12eWUyaDc0Y0ZFNU1HMUdTc0dvRmhNQzBSenBYVXZwaW0zYkZWekhUV1NibWVIalZpS0ZTaFl5UjIyWmhwSDdhblVpWTNPTEpkWlk4WDE4Qlp00gFuQVVfeXFMTTdCWUk2cnhjVGVBMFdFNzBIMDlTLUhmV01pWFlfd2ZRelFBcWpwNzhPM3hQRkZ5eURvb1VXM3J3Q05vWGdJSDd1X3ZRVy1maUswODFxenRyRFRPSUFLbXAyaTJuSXg5M01nc2tBV3c?oc=5	未分類
 2020-08-13	過勞？金山區公所小編猝死引爭議區長：封存資料待查| 社會	https://www.setn.com/news/796310	未分類
 2020-08-12	快動手量頸圍！超過這長度易睡眠中猝死心肌梗塞、中風風險也高- 營養好食	https://health.tvbs.com.tw/nutrition/324821	未分類
 2020-08-06	羅霈穎猝逝／才互道早安！張魁嘆「唯一遺憾」：缺平凡的愛	https://www.setn.com/news/792503	未分類
+2020-06-19	Hans Mezger離世重溫傳奇工程師作品	https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTkVfNTFabk92V3Q1LXVfRjZUNk5Fd25GcEp2aEN4eHF3bjdkOW1fMWx4dFV6VmN5OV81OV96T0pKa2xsTWVNYUNrbHF2bDY3N0prb001WEhGbFJ5b2tkaUZtaW1FNVozM2p1RC1oSFpyeENzaFo5R1VvZE9UZHdtVUtZbDNGalFTVDdFNzl6cU1SUGhDUzJyV1RIZlFQOExKOFBKR2ViNG9TTUpPUFRQMng3TjRDTmhsVENKRXBpbi1ReEdzLU5ZaXZGNDdsT0FYcTNSdWkwUXMwRktVVEw3T1dn?oc=5	未分類
+2020-06-04	【長話短說】加度素37歲胞妹因病離世	https://news.google.com/rss/articles/CBMiY0FVX3lxTE56NFZQYzFSV2p0TG54eE9rVE1QMEo4MXVrUmFiNVRfeHo5NG5NU1pPRjlnV09vTUJQVW5oN1lLWExIbWdqRkhVQ2VobVllaklrZ013SmpDWmJRd3lqd1J4ZmFQbw?oc=5	未分類
 2020-05-08	中國3學生戴口罩上體育課猝死 多地緊急叫停	https://www.setn.com/news/739298	未分類
 2020-05-06	【運動戴口罩宜忌】2男戴口罩跑步猝死！疫境運動5大須知	https://www.hk01.com/%E5%81%A5%E5%BA%B7Easy/469214/%E9%81%8B%E5%8B%95%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%AE%9C%E5%BF%8C-2%E7%94%B7%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%B7%91%E6%AD%A5%E7%8C%9D%E6%AD%BB-%E7%96%AB%E5%A2%83%E9%81%8B%E5%8B%955%E5%A4%A7%E9%A0%88%E7%9F%A5	未分類
+2020-05-04	2國中生體育課猝死，共通點竟是「戴口罩跑步」！運動到底可不可以戴口罩？ | 向元玉 | 風生活	https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IU2V6LXRQV29JYjhDTDFBODh5OVlwQkJFNUI2R0VRZllYeFBGVDFiUnRGWUR6SVluZzh6aGRuNWI1cTFwaVlNcHlVbUJfYnM?oc=5	未分類
+2020-03-03	桃園「生前有發燒跡象」男子猝死 衛生局：因心臟疾病	https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HX3pFNF9sdGpMNm9xV2draS1NbkJOSTZrUDRBQzNFSG9qbWQyUWZ1d3VuekxDS2tvczVIVHFEaWd1ZHlfUl95T05IclpHeDR4NlZRZ1YyQjNSRGUxTzg2UGU2LWfSAWpBVV95cUxPLS1jbDVhZWdVdzkwS1FXMEpPSmdRanlJMWVOZE5fQlhnUWpGVlJlNnJ3STk3dmVSTmNZc1J6WlZvZTNaeF9vMXlxSnNkTHozV2EtSDN4STc1UVA3RXBXWEhKbzlvd3ZwVWhR?oc=5	未分類
+2019-12-23	2019上半年121宗因工死亡 9宗涉及工作期間猝死	https://news.google.com/rss/articles/CBMiywJBVV95cUxNX19ySlBlWXRiWUg1WHZJX21aWndKdnZGdENwSFpUbTYySzBSaFVSMm9TbHUzQjkxd09zX05lTHBuTTV5aWNpd2pJZTBIYmluOWtCTEpzQmZ3a3BBWU1rTW1xbjhqbFpLZi1iSmg5SW8xdEFHVjBtald3SzBCVTVHTUpjdmlxRk1maGI1b2NoQUtVeDY4Mkc5Nk9nOF9qdWlHb3NrakxacDBMLWxGNEtEQ01KdFRzTWdwck5oT0s2aHJoZ1I2dzhEZlp5ZU1od0FDZmkwc0tnVFVNY19xTnhiLS1hTWxfYWpYdG9BaTdfa0Q1eHFLTkFON05wSDhreDhadWlZUnlMX1Q5dTB6RlpCbTlGSWo1QzdDTEc2YmZHbGJKVjUwRExWak1vUGRISFJxVzUxbi1qbFAzajc2MmRFdVdXSjk4dGhVQlVB?oc=5	未分類
+2019-12-03	【高以翔猝死】高以翔力壓肖戰等流量明星 獲「百位劇星票選」冠軍背後有洋蔥	https://news.google.com/rss/articles/CBMiW0FVX3lxTFBubFluaVVSZVJqcUp4S1U2eG9mYnhOQmNEMlhPSUd2OVlqSjhuSHdXS3VLSWFWZzBXcFNHN1BhY0wyeUtJX1JSSVhLWVlsYVpCMHZJOFdtWUZDcHfSAWBBVV95cUxNYWVnWDFNVDdHUXYzZUxuUi1nYnNfWTZhWXZsUlVKTjJTb0xVWTFQQlNYNTZ0aFZ3SWVjQTJDQlFEcEhJUjIybVo3MXoyb09fQnBOVllBTkItLS00aFBFN28?oc=5	未分類
 2019-11-29	高以翔猝逝／遺體繞經錄影現場 他叮嚀「別開太快」網淚崩	https://www.setn.com/news/644582	未分類
+2019-11-28	高以翔錄《追我吧》猝死 陸娛樂圈內幕曝光	https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5TlQxa21aSk9wMGo1Q1REUWVLbi1Fd2FBRURQQUFsdE9ld3UyNjlEUm9UR2J3a3haN2JFTTFPZUgwcUVUaWtRVzVBUnBuZ1piMzRDQWlsUGtqR3E5b1U0ajBR0gFnQVVfeXFMTzJlVzdrcUV6RnRvRkluZmVRend4ZkRsYWQ3M0VmelB6X01zRWRuS2ZlTm92TWlhYWI0SGhQZ3oyVWFmMVdTaVhaLTZkYWhZTFdCdlNoLWtzcW44Ny1zOFA3a0k5YzFSWQ?oc=5	未分類
 2019-11-28	高以翔猝逝／生前影片曝！他笑「我該去休息了」 粉絲噴淚	https://www.setn.com/news/643764	未分類
 2019-11-28	高以翔猝逝／7層樓高墜落 張雁名也曾鬼門關前走一回	https://www.setn.com/news/643978	未分類
 2019-11-27	高以翔猝逝／曾是《康熙》最愛男模！小S慟：我們會再見的	https://www.setn.com/news/643566	未分類
 2019-11-27	超帥男模高以翔驚傳猝死！微博湧入粉絲哀悼	https://www.setn.com/news/643348	未分類
+2019-11-27	【高以翔猝死】高以翔錄陸綜猝死 節目強度過高挨批「不把藝人當人看！」	https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaNVNMYzdtNkhOR056aDNEb3EwV1hmbVZGY0dFaWRRSGpEQkxSNkNSa19zTzNtbWFmVWFlZ2lrY3A3QTBNQXpfaThPSDRwdFowRVJIS1R5RU5KTnfSAWBBVV95cUxOZ3FhTkh2QmFSNzVGREh3NHRHbHlxTDZpaHd2cmtDa3pNZDNSTzNjVmJfTGd5R2tGM3NiSVZKN09faDNZVjFoRkxVUUY3U1VfZHBkWkFlWnV4UkxSVWp4R00?oc=5	未分類
 2019-11-27	35歲高以翔心臟停3分鐘猝逝！曾進軍好萊塢被稱台灣之光	https://www.setn.com/news/643259	未分類
+2019-11-26	【高以翔猝死】死前連續工作17小時 高以翔臉露疲態道別粉絲「最後一面」	https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SRnNyMTNRaXdrVFAzWnB2U0RRRHJaMG1hZC0yRGxRN0t3NkdmNURBOHloeGFsT2NiMk51aTdDYW84OTF0N2FreWFHNnFyU00xYlBjWkVFUk1GR2vSAWBBVV95cUxPdE5uTm9nU2c5RUh6dFRVSmxYdTJiM2h0TTZVUGpqODVfc2luejE2c0ZkYndMdFQteWlHbGRjR0pMNGxvSGlHUmNWQmtyWVRqb2ZJMnAwcUFCRmhzUlE0Zkc?oc=5	未分類
+2019-11-26	【獨家】【高以翔猝死】高以翔爆出祕婚 22歲妻趕赴大陸處理喪事	https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HcF9wWlhycXZwQlNqMHZQUFV6UzZpeUJLSDUtM0RSeHJaUjVxS0JLZEVyTFVCd2k1VzJCZFZTVHV0OVpkSE9lVUdFMDB6X1BkNGdXQm5uakZlX1HSAWBBVV95cUxPb1dXVHlOTkpvUnNaczcwSUpRWnU1N1hzYVp0TmVqZmJleC1kVE9UUXIxY1NBbEZtR2tSUGRlSTV3Ylc2MEJ0ZUJCbUcyaVRuUERsOGNXdERtdVQtZzF2X2w?oc=5	未分類
 2019-11-09	陸續有人到達添馬公園準備出席集會 悼念離世科大生	https://news.tvb.com/en/943499-陸續有人到達添馬公園準備出席集會悼念離世科大生	未分類
 2019-10-28	影／體測跑一千米！14歲少年半途猝死…同學冷漠繞過屍體	https://www.setn.com/news/625622	未分類
+2019-10-16	崔雪莉離世 事務所另設公祭 具荷拉悼好友：眼淚流不停	https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yT215V3RvWGRmYy12eXItZ2xtdXRhWXM4cmFlY2J1RkltMEJORWhkYm5lWlNTN3V0aDA1X2lBYlhwU3JCSzhySEZJTTYzcE9rMzNtdUFNSUY1ZHhJbFgxSHR2bw?oc=5	未分類
+2019-10-09	觀光局官員開會後猝死 林佳龍：從優撫卹	https://news.google.com/rss/articles/CBMiakFVX3lxTE12ZVlwUFdpS3dLTGxKS2hoN09pallzem9EelNrNy1EaFBfZTFvdUFqY2dKbFpOWUFCSDQzaVRkOHA1LTg0S1pMX0RCNU80OENfTk5TU1Jrb01FTFBYMUNSMzNHTnBGdEhBcGfSAW9BVV95cUxNWFZ3aEczNEt1MlQwbFo4a2l2YldTU3ludFZGVWRtX3daNmhHbVJqeFNOcFpfTEdNcDB6bW5EbWZZVk5EOTNCTWVPQXQ5TDlvSUNFX3J3T0NFRy1JeWpPUnJLdmo3QXNldXAzelN6Nmc?oc=5	未分類
 2019-09-18	爆乳殺手男友床上暴斃！死亡姿勢曝光…昔像大咖女星爆紅	https://www.setn.com/news/604337	未分類
+2019-09-05	驚！傳車卡平交道司機眼見火車撞來傷重不治- 國際	https://news.google.com/rss/articles/CBMibkFVX3lxTE5YcDFONXh4YS0zLUwxQzNNWEJqR05sYzM4bFRZYzJDNUNmendxMkNlLWdGTEZzY1F1ZWxhUXhZNXk5WmYweW5WcDBxRUNKQnktem9sek56bnNHbGlwRW1OemZNQjJUX2RwOTktODFR?oc=5	未分類
 2019-09-04	賓士車對撞機車! 19歲男大生送醫搶救不治│中視新聞 20190903	https://www.ctv.com.tw/Article/%E8%B3%93%E5%A3%AB%E8%BB%8A%E5%B0%8D%E6%92%9E%E6%A9%9F%E8%BB%8A-19%E6%AD%B2%E7%94%B7%E5%A4%A7%E7%94%9F%E9%80%81%E9%86%AB%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB-%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E-20190903	未分類
 2019-07-30	金門酷熱 莒光湖2萬尾魚暴斃	https://www.setn.com/news/577887	未分類
+2019-07-20	感懷一代歌后姚莉離世 舊金山灣區梅楣講述上海老歌情懷	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MdzdYSHNnM0JXd01qVHc0TTA1QmVXWU9qM2I2MGsySl9tRzRtR2FLWmtma3JXSVVHWHRNaklrbVczY0o1YXQ4V2ttQzB2bXlGeHc4NlhubUVzUUtvT1JEatIBZkFVX3lxTFBGSE5MZERtQ2t1NEZHd29OSDhSbjZkLXRrRXVGa2xMNUVodGJNdWlJSElwLVhhYnBxOURTRFpxdWI0Nzd3T2lwZ0NQaEJ3N1BhQWc5cXUyR29ZZVpFSHF1enVTMURTdw?oc=5	未分類
 2019-07-18	得痔瘡17年沒治療！他在車內暴斃「屎血流滿地」	https://www.setn.com/news/572124	未分類
 2019-07-15	我們與猝死的距離有多近？正確使用CPR搭配AED 存活率增2.5倍	https://health.tvbs.com.tw/nutrition/317386	未分類
+2019-05-29	遭迫害 大連法輪功學員黃桂英含冤離世	https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4Y0hfYmZBdzNWNVVJVkNVYWZBODdaRldIZjFLU3MzVWE0WW56U0dJTEMtbXJsd244ckFYdklzS1ZLVEhreGdKdnNDa1VyeHRDVTJhc210aVdPbnBaeEZKUdIBZkFVX3lxTE9QdXhCTktCUHYwcGVta3FmLW1sR2lacFBrZk15MzIxUnpUZmdTbTRvUUZlNVAxTU9lZzU1azg5eHk5RHZqSWo3V3h4RWcwZHZHbWRwY2RCdUJZT3ktRFBNNF9CUWVyQQ?oc=5	未分類
 2019-05-24	[珠峰大塞車] 今年3人猝死 登頂人數一年多過一年	https://fitz.hk/sports/hiking/%E7%8F%A0%E5%B3%B0%E5%A4%A7%E5%A1%9E%E8%BB%8A-%E4%BB%8A%E5%B9%B43%E4%BA%BA%E7%8C%9D%E6%AD%BB-%E7%99%BB%E9%A0%82%E4%BA%BA%E6%95%B8%E4%B8%80%E5%B9%B4%E5%A4%9A%E9%81%8E%E4%B8%80%E5%B9%B4/	未分類
 2019-03-04	值班趴桌一動也不動 新竹26歲警員猝逝	https://finance.ftvnews.com.tw/news/detail/2019304N10M1	未分類
+2019-03-04	26歲警員值班台猝死 疑因心臟主動脈剝離	https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VN25OUkxnTW1najhiRU5Ya2t0ckY5UWI3SGxqWEJHQy1Vc0VpVEQ2UndLdkp6all1Zkd2VmNRLVBuUzVaN2tnUTZxY09seFMtdGpKbTNrYjROQk0tN01KbmpwY2c3djRk0gFuQVVfeXFMTmlSa3M3dTE3MnIyWVVxelV0a0czTE02M2ZLWnRieG9Fc1ZmNUdkS0hJMTNyVnVQYVZ6S3Z4TGUwLWZpcmFzQjhSazQtX0xXOUpLQXBCekpGbkpHNndHOFBINFNjQ0htMmowN2gtWEE?oc=5	未分類
+2019-02-06	【豬年2019】南丫島12年前有對明星豬 曾被棄又遭政府驅逐終離世	https://news.google.com/rss/articles/CBMingNBVV95cUxOSFpMSll2d18wQ1RaQkpLdzh6UU1OVDYtYWRFd3dzUGF4WDBwQzlTLVExSDBpSXBWNzZLa1VmWUJaRWlGSjF6bzJabnBjWjdFVVhhZVdGNDBkY3JKQS1LblNPS2RGUFhiVXMwdWkxOWxZSDBkT05PQlAxQ3NfemZNOFVxZy1VeExuS2EteU5zN25oQTlZbENDLXQ3QzBBRjlmOXk0bjluYWJwS2RrNjU2Umk2WXFqUXh5RnRkUTN0WWpEMXBFNWttQTZBdlBxdFIyT0NLbjduZ1BOZU0zMk1qdXA4SGNrSU80bjJEX1ZOUWRER1V1M0d6by1rWGNSQ092VGdBMlh5QlVMWFV6QWNGSjZBOVpMRHh5U3FNLUt1WGFXcmcyc1EtYTBPSk42QXdkRnVfcmk1eTRWRzMxNGUxenlYTHM0QWFZd3oyOVV5VDZGWG1KbWdXWHpBNWNwTFl2YktPSnlhN1RuTTNmMU5CckZZenBhdlNQV1VVcDN1NzNyYWhMVGRFRWlMdmF6WGM1ZEdSSUItZnZNZDRnSkE?oc=5	未分類
 2019-01-14	[跑步猝死] HCM防不勝防 比賽出事避無可避?	https://fitz.hk/sports/running/%E8%B7%91%E6%AD%A5%E7%8C%9D%E6%AD%BB-hcm%E9%98%B2%E4%B8%8D%E5%8B%9D%E9%98%B2-%E6%AF%94%E8%B3%BD%E5%87%BA%E4%BA%8B%E9%81%BF%E7%84%A1%E5%8F%AF%E9%81%BF/	未分類
 2019-01-08	33歲男歌手「心臟麻痺」猝死家中！無病史虐哭妻：為什麼	https://www.setn.com/news/482173	未分類
 2018-07-28	20歲韓星猝逝遭疑過勞！家人崩潰哭喊「驗屍查死因」	https://www.setn.com/news/409430	未分類
