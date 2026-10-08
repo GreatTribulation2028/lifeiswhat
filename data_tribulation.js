@@ -1,6 +1,7 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 300 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 303 條
 var DATA_TRIBULATION = `
 2026-10-07	巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦	https://finance.ettoday.net/news/3250507	未分類
+2026-10-07	【巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦】 等等 ... 8zz晚點再預言好嘛！（#豬頭皮）	https://news.google.com/rss/articles/CBMigARBVV95cUxNU29OY2Q3UjdaaDF2MzRobTRINFNxRVYyMzdzMGxPT1ZWVHpqZ29zbnZSVVlLRk1tWERJODA5cURaM3FaTHVMLWtWLUZya3RKaE5BdGVGVGd6Y2VnUXhqUVV4N2J4YzhLcGsycTN2bV9jQ2pWbTNtMnBaalJraWctdFlyMk5XQTM5NHJOZnNfemJwZkNyOUpTQUVLeUtVd3laX0duU2dab18wOFpsMHQyQjhyZWFQa2U1N2h6Q3l1Y25NM3B0U3FLU1ZmTUlhQU15YU1hYjJ2bnhtTUYzUzg5QmdoNFJjYmlxZE1KNWNVTmJwbmVnSEVNeGZQNzc5UkxCMWFIRzlBWWxkbjBKdDR4VlEtSWRVZ2hlelAxY2RyXzJmZVp3UUpvLXlTS25YNXJiRGtFS215LTZtdHRHc0QzZ1RQNGl2eThob0duc2tPODFSRVVxOXVSUTBHY0QxVmVaNDhTaXNXMlk5UUZVN0hTUE9mWl9fUmZRMlQteXlzMHgycnI4NjNQWmF5eHFBVDhJNkRlMVFIVUZtdVJhM1d0dHgxUl9nNjFjcGU2VFRIdUI4RVZGNTljUnR1WXJqSXdVWE1QbFBobUJWT0gyS1RLMjJOSllYVEY1djNqeUFyaE9zbktpZXptUW04dEZPV2Fvejc4WU1QTUlFSDk1UWxaSA?oc=5	未分類
 2026-10-07	「反指標女神」出手了！台股猛衝逼近5萬「巴逆逆1預言」嚇壞網：世界末日	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QX2U2WlpvNVNQVFJYb0pkdkcyY2pNQTVBV2pkeEU1dVZ1bHpzQXpFNFZGc2JEc3lxMThCVzNMZnN2eFVGN0NWbnp4Q1hjNGlmOU1qaGZ6eVJlSlNqTUxzczJjSHpidw?oc=5	未分類
 2026-10-06	她們的歌你一定聽過！千禧年6女歌手消失「當家長會長、嫁豪門」近況曝	https://star.ettoday.net/news/3248095	未分類
 2026-10-05	麥克斯·布魯克斯：把世界末日寫成求生手冊的《World War Z》作者	https://zh-hant.martincid.com/books-zh-hant/%E9%BA%A5%E5%85%8B%E6%96%AF%C2%B7%E5%B8%83%E9%AD%AF%E5%85%8B%E6%96%AF%EF%BC%9A%E6%8A%8A%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%AF%AB%E6%88%90%E6%B1%82%E7%94%9F%E6%89%8B%E5%86%8A/	未分類
@@ -237,6 +238,7 @@ var DATA_TRIBULATION = `
 2026-03-31	澳洲驚見「血色天空」！如「世界末日」專家說話了 | 民視新聞網	https://today.line.me/tw/v3/article/VxXYKNy	未分類
 2026-03-31	澳洲驚見「血色天空」！如「世界末日」專家說話了	https://tw.news.yahoo.com/%E6%BE%B3%E6%B4%B2%E9%A9%9A%E8%A6%8B-%E8%A1%80%E8%89%B2%E5%A4%A9%E7%A9%BA-%E5%A6%82-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E5%B0%88%E5%AE%B6%E8%AA%AA%E8%A9%B1%E4%BA%86-053227083.html	未分類
 2026-03-26	大家樂荃新天地店周日結業！惠顧四市即送優惠券 網民慨嘆：有啲唔捨得	https://www.stheadline.com/food/3556730/大家樂荃新天地店周日結業惠顧四市即送優惠券-網民慨嘆有啲唔捨得	未分類
+2026-03-25	41歲網紅補習天王跑步突猝死！曾因過勞入院／被提嘴唇發紫反諷：我跑半馬	https://ufood.com.hk/restaurant/news/detail/20092753/歲千萬網紅張雪峰運動後不治-醫生拆解-大隱形警號-附-大護心食物	未分類
 2026-03-23	最高法院審理魁省世俗法案 聚焦「但書條款」爭議	https://www.singtao.ca/7452447/2026-03-23/news-最高法院審理魁省世俗法案 +聚焦「但書條款」爭議 /	未分類
 2026-03-15	【2026TIFA】《不過就是世界末日》：多藍與魯賓，電影與劇場的經典文本重現	https://www.thenewslens.com/article/265529	未分類
 2026-03-13	墨西哥海灘驚現9米長地震魚 詭異畫面民眾直呼：世界末日近了？	https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60330092/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B5%B7%E7%81%98%E9%A9%9A%E7%8F%BE9%E7%B1%B3%E9%95%B7%E5%9C%B0%E9%9C%87%E9%AD%9A-%E8%A9%AD%E7%95%B0%E7%95%AB%E9%9D%A2%E6%B0%91%E7%9C%BE%E7%9B%B4%E5%91%BC-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E8%BF%91%E4%BA%86	未分類
@@ -265,6 +267,7 @@ var DATA_TRIBULATION = `
 2025-11-03	王君馨「世界末日論」9月23日審判已過 ：耶穌佢話會隨時返嚟	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60290974/%E7%8E%8B%E5%90%9B%E9%A6%A8-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E8%AB%96-9%E6%9C%8823%E6%97%A5%E5%AF%A9%E5%88%A4%E5%B7%B2%E9%81%8E-%E8%80%B6%E7%A9%8C%E4%BD%A2%E8%A9%B1%E6%9C%83%E9%9A%A8%E6%99%82%E8%BF%94%E5%9A%9F	未分類
 2025-10-11	科技界億萬富翁們似乎正為「世界末日」做準備，我們應該擔心嗎？	https://www.bbc.com/zhongwen/articles/ce3yd5eeeyvo/trad	未分類
 2025-09-09	突然去世的油管博主已故大图书馆(本名罗东贤)将长眠于此。9日上午8点，古代图书馆的出殡仪式将在建国大学医院殡仪馆举行。 墓地是首尔市立升华院。 在故人的灵堂里,前妻油管博主李彩媛和故人的妹妹一起被提名..	https://www.mk.co.kr/cn/society/11414311	未分類
+2025-08-21	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62歲殿堂級歌后猝逝-千禧年代憑多首金曲紅遍中港台-曾成已婚作曲家小三為愛赴內地發展後離婚	未分類
 2025-03-24	美貿易署今對華貨船徵港口費開聽證會 彭博：業界憂貿易末日將至	https://www.hk01.com/article/60222860?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-02-11	【雁默專欄】關稅大棒的本質，與台股的末日	https://tw.news.yahoo.com/%E9%9B%81%E9%BB%98%E5%B0%88%E6%AC%84-%E9%97%9C%E7%A8%85%E5%A4%A7%E6%A3%92%E7%9A%84%E6%9C%AC%E8%B3%AA-%E8%88%87%E5%8F%B0%E8%82%A1%E7%9A%84%E6%9C%AB%E6%97%A5-065801548.html	未分類
 2024-10-09	人氣爆谷店Garrett Popcorn本月撤出香港 網民稱世界末日紛挽留	http://www.hk01.com/article/1064583?utm_source=01articlecopy&utm_medium=referral	未分類
