@@ -1,8 +1,6 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 303 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 294 條
 var DATA_TRIBULATION = `
 2026-10-07	巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦	https://finance.ettoday.net/news/3250507	未分類
-2026-10-07	【巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦】 等等 ... 8zz晚點再預言好嘛！（#豬頭皮）	https://news.google.com/rss/articles/CBMigARBVV95cUxNU29OY2Q3UjdaaDF2MzRobTRINFNxRVYyMzdzMGxPT1ZWVHpqZ29zbnZSVVlLRk1tWERJODA5cURaM3FaTHVMLWtWLUZya3RKaE5BdGVGVGd6Y2VnUXhqUVV4N2J4YzhLcGsycTN2bV9jQ2pWbTNtMnBaalJraWctdFlyMk5XQTM5NHJOZnNfemJwZkNyOUpTQUVLeUtVd3laX0duU2dab18wOFpsMHQyQjhyZWFQa2U1N2h6Q3l1Y25NM3B0U3FLU1ZmTUlhQU15YU1hYjJ2bnhtTUYzUzg5QmdoNFJjYmlxZE1KNWNVTmJwbmVnSEVNeGZQNzc5UkxCMWFIRzlBWWxkbjBKdDR4VlEtSWRVZ2hlelAxY2RyXzJmZVp3UUpvLXlTS25YNXJiRGtFS215LTZtdHRHc0QzZ1RQNGl2eThob0duc2tPODFSRVVxOXVSUTBHY0QxVmVaNDhTaXNXMlk5UUZVN0hTUE9mWl9fUmZRMlQteXlzMHgycnI4NjNQWmF5eHFBVDhJNkRlMVFIVUZtdVJhM1d0dHgxUl9nNjFjcGU2VFRIdUI4RVZGNTljUnR1WXJqSXdVWE1QbFBobUJWT0gyS1RLMjJOSllYVEY1djNqeUFyaE9zbktpZXptUW04dEZPV2Fvejc4WU1QTUlFSDk1UWxaSA?oc=5	未分類
-2026-10-07	「反指標女神」出手了！台股猛衝逼近5萬「巴逆逆1預言」嚇壞網：世界末日	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QX2U2WlpvNVNQVFJYb0pkdkcyY2pNQTVBV2pkeEU1dVZ1bHpzQXpFNFZGc2JEc3lxMThCVzNMZnN2eFVGN0NWbnp4Q1hjNGlmOU1qaGZ6eVJlSlNqTUxzczJjSHpidw?oc=5	未分類
 2026-10-06	她們的歌你一定聽過！千禧年6女歌手消失「當家長會長、嫁豪門」近況曝	https://star.ettoday.net/news/3248095	未分類
 2026-10-05	麥克斯·布魯克斯：把世界末日寫成求生手冊的《World War Z》作者	https://zh-hant.martincid.com/books-zh-hant/%E9%BA%A5%E5%85%8B%E6%96%AF%C2%B7%E5%B8%83%E9%AD%AF%E5%85%8B%E6%96%AF%EF%BC%9A%E6%8A%8A%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%AF%AB%E6%88%90%E6%B1%82%E7%94%9F%E6%89%8B%E5%86%8A/	未分類
 2026-09-26	亞運／拿銀牌輸南韓如同世界末日！北韓女將同台南韓金牌冷臉僵硬零互動	https://news.tvbs.com.tw/sports/4027701	未分類
@@ -137,7 +135,6 @@ var DATA_TRIBULATION = `
 2026-08-06	畫面如〈出埃及記〉10災駭人 蝗蟲大軍「密麻遮天」像末日	https://tw.news.yahoo.com/畫面如-出埃及記-10災駭人-蝗蟲大軍-密麻遮天-065602687.html	未分類
 2026-08-06	俄羅斯遭「蝗蟲大軍」壓境 驚悚景象宛如末日來臨	https://www.nexttv.com.tw/NextTV/News/Home/WorldNews/2026-08-06/2428805.html	未分類
 2026-08-06	俄羅斯蝗害肆虐！鋪天蓋地襲來宛如末日網驚：聖經十災| 國際	https://www.setn.com/news/1885236	未分類
-2026-08-06	〈出埃及記〉10災真實上演…蝗蟲大軍強襲「密麻遮天」 宛如末日驚悚畫面曝光	https://www.ftnn.com.tw/news/567670	未分類
 2026-08-04	賞您《末世橡樹街》優先場戲票30張｜東周JETSO	https://eastweek.stheadline.com/jetso/20599/%E8%B3%9E%E6%82%A8%E6%9C%AB%E4%B8%96%E6%A9%A1%E6%A8%B9%E8%A1%97%E5%84%AA%E5%85%88%E5%A0%B4%E6%88%B2%E7%A5%A830%E5%BC%B5%E6%9D%B1%E5%91%A8JETSO	未分類
 2026-08-03	安妮夏菲維 X 伊雲麥葵格兩大巨星首度聯手！《末世橡樹街》 逃出絕境家園	https://www.bastillepost.com/hongkong/article/16489280-%E5%AE%89%E5%A6%AE%E5%A4%8F%E8%8F%B2%E7%B6%AD-x-%E4%BC%8A%E9%9B%B2%E9%BA%A5%E8%91%B5%E6%A0%BC%E5%85%A9%E5%A4%A7%E5%B7%A8%E6%98%9F%E9%A6%96%E5%BA%A6%E8%81%AF%E6%89%8B%EF%BC%81%E3%80%8A%E6%9C%AB	未分類
 2026-07-31	新北馬拉松接力賽12/6開跑666隊即日開放報名| 地方	https://www.cna.com.tw/news/aloc/202607310263.aspx	未分類
@@ -152,7 +149,6 @@ var DATA_TRIBULATION = `
 2026-07-16	深圳烏雲蔽日像末日？吉林泄洪敦化全城被吞沒（視頻）	https://renminbao.com/rmb/articles/2026/7/16/95915b.html	未分類
 2026-07-16	志願者曝廣西災情：災區如「世界末日」	https://www.epochtimes.com/b5/26/7/15/n14810353.htm	未分類
 2026-07-16	世界末日只剩蟑螂和它？M2五零機槍百年不退役的祕密| 軍武科技	https://vip.udn.com/vip/story/122874/9629241	未分類
-2026-07-15	長鑫科技啟動人民幣666億元超級募資 中國本土基金與巨頭集結、市場憂資金虹吸效應	https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000761920_BCI8L9HE362SMKL1MZ3RN	未分類
 2026-07-14	Dragonfly合夥人：DeFi「駭客末日」並未兌現，2026年被盜金額年化僅18.9億美元| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/dragonfly-defi-hacker-end-not-realized-2026-stolen-189-billion-annualized/	未分類
 2026-07-12	EGS限免：探索末世廢棄島嶼《KeepUp Survival》多人生存建造限時免費	https://www.4gamers.com.tw/news/detail/80591/keepup-survival-is-free-to-keep-on-epic-games-store	未分類
 2026-07-10	麋鹿、耶誕老人全上街！ 新北耶誕馬拉松第三屆開放限量666隊報名	https://n.yam.com/Article/20260710475819	未分類
@@ -174,7 +170,6 @@ var DATA_TRIBULATION = `
 2026-06-16	世界盃／維德角40歲守門員使出「黃金神掌」讓西班牙27次嘗試射門7次射正全落空！賽後他IG粉絲數從5萬飆升至666萬	https://www.ttshow.tw/article/113511	未分類
 2026-06-16	0050換股最大贏家！「這檔PCB龍頭」高階AI產品助攻 目標價獲大摩嗨喊666	https://tw.stock.yahoo.com/news/0050%E6%8F%9B%E8%82%A1%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-%E9%80%99%E6%AA%94pcb%E9%BE%8D%E9%A0%AD-%E9%AB%98%E9%9A%8Eai%E7%94%A2%E5%93%81%E5%8A%A9%E6%94%BB-%E7%9B%AE%E6%A8%99%E5%83%B9%E7%8D%B2%E5%A4%A7%E6%91%A9%E5%97%A8%E5%96%8A666-031000566.html	未分類
 2026-06-15	高速光模組需求旺！「這大廠」掌握1關鍵技術 目標價上看666元	https://www.setn.com/news/1854220	未分類
-2026-06-15	關於SpaceX鮮被提及的｜林小珍	https://www.singtao.ca/googleamp/amp.php?region=toronto_hk&cat=144&post_id=7537000	未分類
 2026-06-13	王柏傑、柯佳嬿分手16年罕見同框 昔喊「世界末日都不會分手」	https://tw.news.yahoo.com/%E7%8E%8B%E6%9F%8F%E5%82%91-%E6%9F%AF%E4%BD%B3%E5%AC%BF%E5%88%86%E6%89%8B16%E5%B9%B4%E7%BD%95%E8%A6%8B%E5%90%8C%E6%A1%86-%E6%98%94%E5%96%8A-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E9%83%BD%E4%B8%8D%E6%9C%83%E5%88%86%E6%89%8B-182900198.html	未分類
 2026-06-12	(影) 「完工就是世界末日」144年魔咒打破！聖家堂封頂教宗親揭最高教堂面紗| 國際	https://newtalk.tw/news/view/2026-06-12/1040909	未分類
 2026-06-09	西安人大主任韓松受賄被提公訴 通報：數額特別巨大	https://www.stheadline.com/realtime-china/3581148/%E8%A5%BF%E5%AE%89%E4%BA%BA%E5%A4%A7%E4%B8%BB%E4%BB%BB%E9%9F%93%E6%9D%BE%E5%8F%97%E8%B3%84%E8%A2%AB%E6%8F%90%E5%85%AC%E8%A8%B4-%E9%80%9A%E5%A0%B1%E6%95%B8%E9%A1%8D%E7%89%B9%E5%88%A5%E5%B7%A8%E5%A4%A7	未分類
@@ -188,7 +183,6 @@ var DATA_TRIBULATION = `
 2026-06-06	今天就是！千載難逢「超級666日」降臨 命理師曝開運招財秘訣	https://udn.com/news/story/7268/9549450	未分類
 2026-06-05	錯過要等下輩子！明逢千載難逢「666大吉日」 命理師揭開運秘訣	https://www.nownews.com/news/6843712	未分類
 2026-06-05	明迎罕見666！教戰「快拜1物」大吉轉運日	https://www.mirrormedia.mg/external/setn_1850599	未分類
-2026-06-05	快設定截圖！錯過等下輩子！明逢罕見「666」大吉日 專家教戰：快拜1物	https://tw.news.yahoo.com/%E8%B6%85%E5%BC%B7%E8%BD%89%E9%81%8B%E6%97%A5-%E9%8C%AF%E9%81%8E%E7%AD%89%E4%B8%8B%E8%BC%A9%E5%AD%90-%E6%98%8E%E9%80%A2%E8%B6%85%E7%BD%95%E8%A6%8B-666-%E5%A4%A7%E5%90%89%E6%97%A5-065100857.html	未分類
 2026-06-05	千載難逢「一路6到底」！本週六超級666神巧合 民俗專家加碼開運秘招	https://news.ltn.com.tw/news/life/breakingnews/5461604	未分類
 2026-06-05	0050年化報酬113%「獲利僅666元！」他曬超狂對帳單 網一看本金笑噴	https://tw.news.yahoo.com/0050%E5%B9%B4%E5%8C%96%E5%A0%B1%E9%85%AC113-%E7%8D%B2%E5%88%A9%E5%83%85666%E5%85%83-%E4%BB%96%E6%9B%AC%E8%B6%85%E7%8B%82%E5%B0%8D%E5%B8%B3%E5%96%AE-%E7%B6%B2-%E7%9C%8B%E6%9C%AC%E9%87%91%E7%AC%91%E5%99%B4-112300825.html	未分類
 2026-06-04	「666星期六」超罕見！命理師示警日全蝕碰鬼門開：少去這些地方	https://cava.tw/lifestyle/horoscopes/265424	未分類
@@ -207,7 +201,6 @@ var DATA_TRIBULATION = `
 2026-05-29	資深媒體人鄭國威與楊士範對談：AI不是世界末日，而是解放記者	https://www.cw.com.tw/article/5141029	未分類
 2026-05-28	立威廉囡囡遭傳染甲流高燒40.2度 極罕撰文怒轟自私家長： 錯過考試不是世界末日	https://www.bastillepost.com/hongkong/article/16071036-%E7%AB%8B%E5%A8%81%E5%BB%89%E5%9B%A1%E5%9B%A1%E9%81%AD%E5%82%B3%E6%9F%93%E7%94%B2%E6%B5%81%E9%AB%98%E7%87%9240-2%E5%BA%A6-%E6%A5%B5%E7%BD%95%E6%92%B0%E6%96%87%E6%80%92%E8%BD%9F%E8%87%AA%E7%A7%81	未分類
 2026-05-26	OpenAI 執行長：AI 不致引發失業末日 人際互動難被取代	https://money.udn.com/money/story/5599/9527007	未分類
-2026-05-19	鋼彈UC『MGSD NZ-666 剎帝利』試作品首度展出 精密分件分色構築帥氣機械細節！	https://www.toy-people.com/?p=110322	未分類
 2026-05-19	歐美爆紅的「AI 災難片」！Harry Styles〈Sign of times〉成世界末日專屬 BGM - COOL-STYLE 潮流生活網	https://www.cool-style.com.tw/wd2/archives/1302379-%E6%AD%90%E7%BE%8E%E7%88%86%E7%B4%85%E7%9A%84%E3%80%8Cai-%E7%81%BD%E9%9B%A3%E7%89%87%E3%80%8D%EF%BC%81harry-styles%E3%80%88sign-of-time%E3%80%89%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%B0%88	未分類
 2026-05-16	非你莫鼠諧音哏／AKIRA鼠巴拉西666 劉俊謙戲精上線鼠勾以	https://www.mirrormedia.mg/story/20260512ent015	未分類
 2026-05-15	獨家訪問：劇迷大受打擊：簡直係世界末日！ 全城難捨《愛．回家》 劉丹號召𢱑撈重聚	https://orientaldaily.on.cc/content/%E5%A8%9B%E6%A8%82/odn-20260515-0515_00282_001/%E7%8D%A8%E5%AE%B6%E8%A8%AA%E5%95%8F%EF%BC%9A%E5%8A%87%E8%BF%B7%E5%A4%A7%E5%8F%97%E6%89%93%E6%93%8A%EF%BC%9A%E7%B0%A1%E7%9B%B4%E4%BF%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%EF%BC%81-%E5%85%A8%E5%9F%8E%E9%9B%A3%E6%8D%A8%E3%80%8A%E6%84%9B%EF%BC%8E%E5%9B%9E%E5%AE%B6%E3%80%8B-%E5%8A%89%E4%B8%B9%E8%99%9F%E5%8F%AC%F0%A2%B1%91%E6%92%88%E9%87%8D%E8%81%9A	未分類
@@ -239,7 +232,6 @@ var DATA_TRIBULATION = `
 2026-03-31	澳洲驚見「血色天空」！如「世界末日」專家說話了	https://tw.news.yahoo.com/%E6%BE%B3%E6%B4%B2%E9%A9%9A%E8%A6%8B-%E8%A1%80%E8%89%B2%E5%A4%A9%E7%A9%BA-%E5%A6%82-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E5%B0%88%E5%AE%B6%E8%AA%AA%E8%A9%B1%E4%BA%86-053227083.html	未分類
 2026-03-26	大家樂荃新天地店周日結業！惠顧四市即送優惠券 網民慨嘆：有啲唔捨得	https://www.stheadline.com/food/3556730/大家樂荃新天地店周日結業惠顧四市即送優惠券-網民慨嘆有啲唔捨得	未分類
 2026-03-25	41歲網紅補習天王跑步突猝死！曾因過勞入院／被提嘴唇發紫反諷：我跑半馬	https://ufood.com.hk/restaurant/news/detail/20092753/歲千萬網紅張雪峰運動後不治-醫生拆解-大隱形警號-附-大護心食物	未分類
-2026-03-23	最高法院審理魁省世俗法案 聚焦「但書條款」爭議	https://www.singtao.ca/7452447/2026-03-23/news-最高法院審理魁省世俗法案 +聚焦「但書條款」爭議 /	未分類
 2026-03-15	【2026TIFA】《不過就是世界末日》：多藍與魯賓，電影與劇場的經典文本重現	https://www.thenewslens.com/article/265529	未分類
 2026-03-13	墨西哥海灘驚現9米長地震魚 詭異畫面民眾直呼：世界末日近了？	https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60330092/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B5%B7%E7%81%98%E9%A9%9A%E7%8F%BE9%E7%B1%B3%E9%95%B7%E5%9C%B0%E9%9C%87%E9%AD%9A-%E8%A9%AD%E7%95%B0%E7%95%AB%E9%9D%A2%E6%B0%91%E7%9C%BE%E7%9B%B4%E5%91%BC-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E8%BF%91%E4%BA%86	未分類
 2026-03-09	克宮警告「世界末日將至」！普丁發言人痛批：國際法已崩潰	https://tw.news.yahoo.com/%E5%85%8B%E5%AE%AE%E8%AD%A6%E5%91%8A-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%B0%87%E8%87%B3-%E6%99%AE%E4%B8%81%E7%99%BC%E8%A8%80%E4%BA%BA%E7%97%9B%E6%89%B9-%E5%9C%8B%E9%9A%9B%E6%B3%95%E5%B7%B2%E5%B4%A9%E6%BD%B0-221000617.html	未分類
@@ -261,7 +253,6 @@ var DATA_TRIBULATION = `
 2026-01-02	2026年11/13世界末日預言「科學死法」難逃？恐比盲眼龍婆還準	https://city.gvm.com.tw/article/127106	未分類
 2026-01-02	2026世界末日？物理學家預言：人類被擠死	https://tw.news.yahoo.com/2026%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B6%E9%A0%90%E8%A8%80-%E4%BA%BA%E9%A1%9E%E8%A2%AB%E6%93%A0%E6%AD%BB-045953024.html	未分類
 2026-01-01	第145課：但以理書6——從經文中找出福音真理	https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/45-daniel/454-daniel-6?lang=zho	未分類
-2026-01-01	第143課：但以理書2——「一國，永不敗壞」	https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/45-daniel/452-daniel-2?lang=zho	未分類
 2025-12-10	【未解之謎】預言中的七年大災難要來了嗎？	https://www.ntdtv.com/b5/2025/12/10/a104045700.html	未分類
 2025-11-24	「世界末日」只唱到2句 吳宗憲氣炸「我真的完全破防」	https://stars.udn.com/star/story/10091/9158930	未分類
 2025-11-03	王君馨「世界末日論」9月23日審判已過 ：耶穌佢話會隨時返嚟	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60290974/%E7%8E%8B%E5%90%9B%E9%A6%A8-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E8%AB%96-9%E6%9C%8823%E6%97%A5%E5%AF%A9%E5%88%A4%E5%B7%B2%E9%81%8E-%E8%80%B6%E7%A9%8C%E4%BD%A2%E8%A9%B1%E6%9C%83%E9%9A%A8%E6%99%82%E8%BF%94%E5%9A%9F	未分類
