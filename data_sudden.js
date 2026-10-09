@@ -1,5 +1,6 @@
-// 猝死 | 由 build_news_js.py 生成 | 共 3918 條
+// 猝死 | 由 build_news_js.py 生成 | 共 3920 條
 var DATA_SUDDEN = `
+2026-10-09	基隆監獄收容人服刑隔天猝死！2管理員進舍房動手 監視器全拍下	https://www.ettoday.net/news/20261009/3251847.htm	未分類
 2026-10-07	最年長奧斯卡得主離世！《超人再起》養母伊娃瑪莉桑特 享嵩壽102歲	https://star.ettoday.net/news/3250333	未分類
 2026-10-07	《請回答1988》好邪！金柱赫全美善先後離世	https://hk.on.cc/hk/bkn/cnt/entertainment/20190629/bkn-20190629183017297-0629_00862_001.html	未分類
 2026-10-05	登山猝死 儘管難防還是要防	https://www.peopo.org/news/828876	未分類
@@ -576,6 +577,7 @@ var DATA_SUDDEN = `
 2026-08-06	王凱猝逝留下最後警訊？醫揭「真正危險的不是熬夜」 很多人天天如此卻不自知	https://tw.news.yahoo.com/%E7%8E%8B%E5%87%B1%E7%8C%9D%E9%80%9D%E7%95%99%E4%B8%8B%E6%9C%80%E5%BE%8C%E8%AD%A6%E8%A8%8A-%E9%86%AB%E6%8F%AD-%E7%9C%9F%E6%AD%A3%E5%8D%B1%E9%9A%AA%E7%9A%84%E4%B8%8D%E6%98%AF%E7%86%AC%E5%A4%9C-%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%A4%A9%E5%A4%A9%E5%A6%82%E6%AD%A4%E5%8D%BB%E4%B8%8D%E8%87%AA%E7%9F%A5-070000334.html	未分類
 2026-08-06	猝死年輕化？40多歲名人接連猝逝，醫揭猝死真相：身體6大警訊別只當太累	https://www.commonhealth.com.tw/article/94392	未分類
 2026-08-06	熱門議題 - 李克強猝逝	https://newtalk.tw/news/topics/view/748/%252525252525252525E6%2525252525252525259D%2525252525252525258E%252525252525252525E5%25252525252525252585%2525252525252525258B%252525252525252525E5%252525252525252525BC%252525252525252525B7%252525252525252525E7%2525252525252525258C%2525252525252525259D%252525252525252525E9%25252525252525252580%2525252525252525259D/3	未分類
+2026-08-06	比果汁恐怖！「水果1吃法」狠奪命：恐害人心律不整、心臟驟停	https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1Z2hTREVTZUJod0dXaDJyVlpVSW8zRTF4Z20wa3RlankxSFpMNEZWcktmbWFFWjg0azhkOXBMOUs5UVZpU253R3BkOXY?oc=5	未分類
 2026-08-06	很多年輕人都中！大太陽下「做1事」30歲男猝死 醫師示警了	https://www.teepr.com/1920427/mollylin/%E6%8A%BD%E8%8F%B8%E6%98%8F%E5%80%92/	未分類
 2026-08-06	他「愛愛一半暴斃」遭強摘器官！家屬1招喊卡驚揭黑幕	https://tw.news.yahoo.com/他-愛愛-半暴斃-遭強摘器官-家屬1招喊卡驚揭黑幕-100354741.html	未分類
 2026-08-06	「以為只是睡得熟！」王凱猝逝掀睡眠警訊 醫：很多人從沒睡好過	https://tw.news.yahoo.com/%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E7%9D%A1%E5%BE%97%E7%86%9F-%E7%8E%8B%E5%87%B1%E7%8C%9D%E9%80%9D%E6%8E%80%E7%9D%A1%E7%9C%A0%E8%AD%A6%E8%A8%8A-%E9%86%AB-%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%BE%9E%E6%B2%92%E7%9D%A1%E5%A5%BD%E9%81%8E-062135424.html	未分類
