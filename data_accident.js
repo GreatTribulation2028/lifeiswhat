@@ -1,5 +1,6 @@
-// 意外 | 由 build_news_js.py 生成 | 共 980 條
+// 意外 | 由 build_news_js.py 生成 | 共 981 條
 var DATA_ACCIDENT = `
+2026-10-08	東涌致命工業意外｜房署：工人安全帶疑未繫於穩固點已指示停工- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTE9mUEZmT3RSMkE5LTRJZklraGZKek92bnhlRTFVMmVHbUxoTHFPQ3ZiYUc0TnB2endHZ1R5WC1HSmthY0dnaURqVXJZcUFjdHpXMm1UMXRVV1E2TTYxMDkwVTBNR1FRLTA0dUhBRWVxM215LTFaUDRHNTJR?oc=5	未分類
 2026-10-07	興達電廠爆炸竟是「裝錯墊片」害的 未依流程施工3人10萬交保	https://www.ettoday.net/news/20261007/3250372.htm	未分類
 2026-10-07	16歲男生朗屏邨高處墮下亡	https://hk.on.cc/hk/bkn/cnt/news/20190315/bkn-20190315065002550-0315_00822_001.html	未分類
 2026-10-01	老翁二度跌倒眼角流血還想硬撐走 警耐心勸導擦藥送返家	https://news.ltn.com.tw/news/society/breakingnews/5591695	未分類
