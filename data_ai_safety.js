@@ -1,5 +1,9 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 505 條
+// AI安全 | 由 build_news_js.py 生成 | 共 507 條
 var DATA_AI_SAFETY = `
+2026-10-09	日本政府警告網絡攻擊趨精密複雜 多間公司客戶資料外洩	https://news.google.com/rss/articles/CBMi7wJBVV95cUxQTHVISFdpM29rcU9SWGVGN1JBb3dsSHl1bE1Sa1hHelVJbGRNdGJsaXNoMlZ4M0VQdGdlYzg2MlBEOGxaX3FjZFBqMkxZSU1GZzd1U1NhTDBEYlVJbjBOVV92VHpyWnNneUZkYWR2UUlqdmxTTzdrbkhkbjc0MXhUb3hVVWJfOXAxcFh5aTJwNUViUjlxVTZQY3UybVhuVXBMcmxrZl9sRGlYTnZqV0tybTBadE1UemN0NTVJWk5FQkZmZmFLdk0xd205WEZrUzFfajZfMTk5aFRQby1kV0ROd0VrRXZIczlIZzZZRjJobHhEcG9DSFRkMTRiZkNMX19MVThCV1RYUkRoMmM3OEZ3X1E2TzFNdElQbVJXbTZ6TTd1LUwxejJabXF0MGROTG9JZW9YZnVLUVdHVWVSMlhnRzlPek9yNGRidWY2d1dzUTZnbHZ2MHhzazN3NHBYeDFvczRqc0V5bUI2QS1nTVZr?oc=5	未分類
+2026-10-08	韓國銀行受網絡攻擊被指來自廣東 北京稱一貫反對並依法打擊黑客活動	https://news.google.com/rss/articles/CBMiuwNBVV95cUxPSU5iaV91RkRpLXB6WHRNa0I0VXREOG81cGVhem5WbzNhOFBUVTJkQVBMX1p1bWJadmRVYnB0aFhnOVdidENUTDlyNU9tYjlDUk84TFZySUhvaGpFZ2dDVm1uZkc3Y0cwb1ZJTTBoNGkzdUZubUxMUHJnaTlZOW1MaUc1Qm80STZSSW1UbHBXUmVMUlNUUDlPWHlocGFXWlB6czIyV1R1SWc0OC1EZVlIckVkMm5XQVdMVlFUbmNBdW1haXdzajhLUjNVd2dUWkN4VW1hZ1ZUcm1LVExYbUMyNGtsR1R0TVdJNVhjQkxwdERlTnZGM3JqUjJHdTJJR3Z3Z0lmZU9jUmc3TUdYdEFXSnNaZ09pT2J2LWtJYmpVTkNmMjl6dkRyMFFLTTllZmlnU3lJUHMxNXVTYWlKT3VBZmVGOXlaOC1nbTJ1X0tPT3F2NG45Mlh0RVJ5TEJQbVBPY1ZWWHdESHJPMWZTUnViSXpqSVh5cFdjWG9vUXJDRDF6SjJQN1J4b2s5c1piRTJLY2YzT2NlVk1Jc0Jvd0NrNGFscXQxaUQzMVR4aklkVnQtVXRoSmJIbEI0SQ?oc=5	未分類
+2026-10-08	新型 DarkSword 惡意軟件變種 P7 影響未更新 iPhone 系統	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PaEZETXlJa3FsQnlIRFBuNFRKY21MUFRsNVB2OVE3TlZTMGFLdHMwcXdmQ2cyZUVxVEh3aWRZVnhWNnFQVkQtRlFVNTlyb3ZOWlRRYlRKR28?oc=5	未分類
+2026-10-08	Netflix製作了一部關於Hugging Face遭受人工智慧網路攻擊的紀錄片 - Root-Nation.com	https://news.google.com/rss/articles/CBMinAFBVV95cUxOT2pwWkFlbkY3YmFVdnhFWVV5S1JmSkdFWEpKbTdhNnAwMEZYYVlaOFEtZ0VuVXZzaVNoT3FnVTNueGlDQVF5a1FQcndpS3B0QkllWFA5Yk9iZFkza1Z5QmNvX2MxYk5qM1UzTm1EdHJjeWtycFpoSUllVXY2eWtoVU1CMzA1SFJvang0M2htRkdISDhzb0VUYnZqVGg?oc=5	未分類
 2026-10-07	亞利桑那州法院系統遭網絡攻擊 超過百萬人資料被盜	https://www.bastillepost.com/hongkong/article/16921580-%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%E6%B3%95%E9%99%A2%E7%B3%BB%E7%B5%B1%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E8%B6%85%E9%81%8E%E7%99%BE%E8%90%AC%E4%BA%BA%E8%B3%87%E6%96%99%E8%A2%AB	未分類
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://tchina.kyodonews.net/articles/-/14296	未分類
 2026-10-01	惡意軟件 CloudSyncD 以 Zoom 安裝程式為掩護進行資訊竊取	https://www.techritual.com/2026/10/01/587285/	未分類
@@ -306,7 +310,6 @@ var DATA_AI_SAFETY = `
 2026-07-20	他用旅館電視就讓《GTA6》大外流！震驚全球18歲駭客近況曝	https://tw.news.yahoo.com/他用旅館電視就讓《gta6》大外流！震驚全球18歲駭客近況曝-094653771.html	未分類
 2026-07-20	MetaMask團隊發現朝鮮駭客混入事件後續：該駭客身份早在2025年9月就已曝光，但今年3月仍以外包形式繞過背景審查進入MetaMask	https://www.bitget.com/zh-TC/amp/news/detail/12560605518279	未分類
 2026-07-19	維州政府擬推新法加強追究科技巨頭及網絡攻擊者責任	https://www.2cr.com.au/維州政府擬推新法-加強追究科技巨頭及網絡攻擊者/	未分類
-2026-07-17	韌性假象｜90%企業自信能防禦網絡攻擊僅69%有把握及時 ...	https://www.wepro180.com/韌性假象｜90企業自信能防禦網絡攻擊 僅69坦言有/	未分類
 2026-07-17	美國企業面臨網絡攻擊激增的局面	https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T43J1O5:0/	未分類
 2026-07-17	新型 Mac 惡意軟件 ClickLock Stealer 利用虛假登錄框鎖定用户設備	https://www.techritual.com/2026/07/18/558758/	未分類
 2026-07-17	拍付國際資料外洩調查結果出爐 願補償500元然影響人數不明	https://www.mnews.tw/story/amp/mm-20260717-177fin-215827	未分類
@@ -389,7 +392,6 @@ var DATA_AI_SAFETY = `
 2026-06-20	Axelar Network 遭黑客攻擊，約467 萬美元代幣被盜	https://www.chaincatcher.com/zh-tw/article/2272484	未分類
 2026-06-19	道德駭客聲稱她本可以「Rickroll」整場 FIFA 世界盃轉播，因為嚴重的安全漏洞	https://www.gamereactor.cn/ethical-hacker-claims-she-could-have-rickrolled-the-entire-fifa-world-cup-broadcast-after-huge-security-failure-1348213/	未分類
 2026-06-19	Yellow Hat確認在2rinkan網絡攻擊中有318萬條記錄泄露	https://www.moomoo.com/hant/news/post/71765048/yellow-hat-confirms-3-18-million-records-leaked-in-2rinkan	未分類
-2026-06-18	美政府禁用Anthropic最強模型76位網絡安全專家斥做法危險	https://www.wepro180.com/聯署抗議｜美政府禁用anthropic最強模型 76位網絡安全專/	未分類
 2026-06-18	美國家庭網絡如何淪為駭客隱身衣？	https://cn.wsj.com/articles/美國家庭網絡如何淪為駭客隱身衣-e0580974	未分類
 2026-06-18	攻擊加美研究機構近兩年 黑客與中國有關	https://www.epochtimes.com/b5/26/6/15/n14789456.htm	未分類
 2026-06-18	AI成駭客新武器 網路攻擊暴增四倍資安風險全面升級	https://sunmedia.tw/news/technology/1781652773-AI成駭客新武器-網路攻擊暴增四倍資安風險全面升級	未分類
