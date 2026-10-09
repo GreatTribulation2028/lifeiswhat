@@ -1,9 +1,25 @@
-// 治安 | 由 build_news_js.py 生成 | 共 2030 條
+// 治安 | 由 build_news_js.py 生成 | 共 2048 條
 var DATA_SECURITY = `
+2026-10-09	高雄水產二代遭「買凶殺人」 警方奔基隆抓2煞	https://news.ltn.com.tw/news/society/breakingnews/5600551	未分類
+2026-10-09	車牌燈不亮被警攔查 搜出車上「半公斤安毒」	https://news.ltn.com.tw/news/society/breakingnews/5600796	未分類
+2026-10-09	茄萣持刀傷人案新進展！湖內警跨縣市逮2嫌、共犯仍在追緝	https://news.google.com/rss/articles/CBMicEFVX3lxTFBNcWNEVHdQR3I3aG1DNGszMXdmQmdKMVc0SDhaeDhtczJ1M0NKUXJkX29hdnhzZFRZSFFEZTZhMzVUa0ZTNzc1ZFlOUEtHMzNnMFdLNDNJdXZocXoybXJFcjJpazBXMEFJMTB4Y0hrWjc?oc=5	未分類
+2026-10-09	茄萣持刀「傷人案」追到基隆逮2嫌 湖內警方續追共犯	https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rb1VDSXZqOWswWTlnbFZIWENjVHBqV3pCS09TbnRwdEYtWEpxQzJicVUxMk9tb3BFSWJpU1JVQjVvQ2l3bEo3LXJBWVlxTlJVVDV6RG1TY0F3eFE?oc=5	未分類
+2026-10-09	毒品通緝犯服刑隔天猝死舍房 監視器拍到2管理員動粗	https://news.ltn.com.tw/news/society/breakingnews/5600730	未分類
+2026-10-09	日本IDC Frontier雲端遭勒索軟體攻擊，波及495客戶、部分系統靠備份重建	https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qMU9mTndJWVp4dEhRN29wNzNuQTJaWnMzX1NnQ0JZNnFaRFhCUWlkaHJHVFZMTmxHMnBLVjRBeGphdUNTcEF2aGVSa2VTdw?oc=5	未分類
+2026-10-09	房協發現偽冒房協詐騙網站 呼籲公眾切勿登入及提供個人資料	https://news.rthk.hk/rthk/ch/component/k2/1873288-20261009.htm	未分類
+2026-10-09	嫌太辣！台中男稀釋3顆喪屍煙彈 涉「毒品優化加工」下場曝	https://news.ltn.com.tw/news/society/breakingnews/5600571	未分類
+2026-10-09	奔逃畫面曝光！統促黨男持刀鬧花蓮東大門 警方：不排除有共犯	https://news.ltn.com.tw/news/society/breakingnews/5600818	未分類
+2026-10-09	噁鄰假關心！強拉少女上摩鐵性侵未遂 不認罪瞎辯：她沒陰道	https://www.ettoday.net/news/20261009/3251856.htm	未分類
+2026-10-08	美國勒索軟體復原公司老闆遭起訴，遭控私下付錢給駭客卻向客戶收款1,900萬美元	https://news.google.com/rss/articles/CBMiekFVX3lxTE8zUUlCMHNVSnJMRnNVOWpJd3huck1MeV9hU054MEx0NlhNU2VlTzZzaXJTTEZyQndpVjRfclhSS05VZDZ5STN0a3U1YUJ4ZkVHT2REeWlQUmFtYi1lTWxldEpHYmoydzh2SENyQlJwTHd1elR1V1RvUFp3?oc=5	未分類
+2026-10-08	南非示威變暴力衝突 24車被焚商店遭搶掠	https://news.google.com/rss/articles/CBMitgJBVV95cUxQWkdXLU5yZmFrWWY4YjgzcVJzdW5ZZlBDX01wY3QxM3dSWXhNRzhweTdaa2w5cDVpck9OQTdjaFNNSjlkbGxGaTlvRXExd2xDdXMwWWN5SVpmek9Cel9yaHZPNWJtRVcybk9GQ09HVDl6azczZTMxcFA3NkRFaFg2RWhkQlM0b3Q2MFlRbG16eGJ3V0xOSHM5MzI2NTF2QlpCQVE4YnlSV3RVbzVqSFBnNE9KbkpxUTB0TnRwMlpFWEFveVliUjhPZjZWM2pPNEJYb1NSYTZwdG5EM28zYWdPS241R0lRQ3dGb05WZGRZS2FZRnRYOVpGX21zTUJ0MUVvamhwaV9JM1NISEl3Z3pDZUN3cDQxMnJmS0E2bWFPSkc2RVpMcE1Wb3lhaWd5UnhoSUlJbk93?oc=5	未分類
+2026-10-08	俄軍滑翔炸彈襲擊烏東客運公車 釀至少12死14傷	https://news.google.com/rss/articles/CBMiYEFVX3lxTE92bV9zazAza2swMzZ6WUdJQW04Nk1SaXpDZHpScDFWSTcyQU5JR1lGVFlLU2F2d3RVSDdUcHJBUW9QYlZVMjZsZzRManQ2RGI5bktwYU90VlYtNFF6LXlETA?oc=5	未分類
+2026-10-07	討論牆 | 俄軍導引炸彈襲擊烏克蘭哈爾科夫 造成5死30人受傷	https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5UnpITm9zZFVpaGppR3U5b1RfNExzMm9GMHE3ckdSNThmTHM4Y2FHVHlVZUJNYnFKNGVWVDBCenBYQW5RaUZXbTBTVkRWTVc3b2NUY3RvX1V1UWJGZ3RqSUh3LW4?oc=5	未分類
 2026-10-07	美媒曝中國在美間諜活動「冰山一角」 彭斯：北京是美最大威脅	https://www.ettoday.net/news/20261007/3250323.htm	未分類
 2026-10-07	美司法部鐵拳！ 2中國間諜國籍擬被撤銷	https://www.ettoday.net/news/20261007/3250321.htm	未分類
 2026-10-07	羅智強猛攻沈伯洋2014毒品主張 國民黨前發言人逆風開轟	https://www.ettoday.net/news/20261007/3250330.htm	未分類
 2026-10-07	緬北電詐紀錄片第二集 魏家主犯隨機殺人祭天	https://paper.hket.com/article/4204992/%E7%B7%AC%E5%8C%97%E9%9B%BB%E8%A9%90%E7%B4%80%E9%8C%84%E7%89%87%E7%AC%AC%E4%BA%8C%E9%9B%86%20%E9%AD%8F%E5%AE%B6%E4%B8%BB%E7%8A%AF%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E7%A5%AD%E5%A4%A9	未分類
+2026-10-07	澳廣視新聞｜波蘭發生校園持刀襲擊至少7傷｜	https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlo1djVBNWVLNTE4aDVkVUhIOHg0bTg1U1RQOVdqN1FLLUtHQVJQN3pGbFdjNXRKSUt6YUVEWmFnR1d1SXZrZUtXd3Y1YnBVZ1VlNHVKUnU3bTJFUjlMU0Zpbkg2dnIzdm1DMnQ0QkZFNW9TNnJxSU5QZkFTZkVTdGpSYldZSGs?oc=5	未分類
+2026-10-07	波蘭有學校發生持刀襲擊案 10人受傷包括疑犯	https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MSjNVUDJSY25acGU1YklyQ1hhWWVUTGdTWXY4aks2MkR1Q3lqLWYtZHE4TF9iUXk1OTV2dmhxRXBZM0Z5aUdEYXEwUmJlMWIxTFlCS2xHYXg1YW1vS3dKamgza9IBY0FVX3lxTE1MSjNVUDJSY25acGU1YklyQ1hhWWVUTGdTWXY4aks2MkR1Q3lqLWYtZHE4TF9iUXk1OTV2dmhxRXBZM0Z5aUdEYXEwUmJlMWIxTFlCS2xHYXg1YW1vS3dKamgzaw?oc=5	未分類
 2026-10-07	法國學生示威升溫現零星暴力衝突 執法部門拘近500人	https://www.bastillepost.com/hongkong/article/16921339-%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E7%A4%BA%E5%A8%81%E5%8D%87%E6%BA%AB%E7%8F%BE%E9%9B%B6%E6%98%9F%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81%E3%80%80%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E6%8B%98%E8%BF%9150	未分類
 2026-10-07	法再爆大示威促教改 警民暴力衝突 - 20261007 - 國際	https://news.mingpao.com/pns/%E5%9C%8B%E9%9A%9B/article/20261007/s00014/1791306111412/%E6%B3%95%E5%86%8D%E7%88%86%E5%A4%A7%E7%A4%BA%E5%A8%81%E4%BF%83%E6%95%99%E6%94%B9-%E8%AD%A6%E6%B0%91%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81	未分類
 2026-10-07	勒索軟體駭客集團「Qilin」核心成員在日本遭拘：已移交德國	https://www.nippon.com/hk/news/yjj2026100600755/	未分類
@@ -268,6 +284,7 @@ var DATA_SECURITY = `
 2026-09-04	坐在輪椅上不動！南京東路騎樓傳命案 57歲男體溫冰冷明顯死亡	https://www.setn.com/ampnews/1901520	未分類
 2026-09-04	台中四寶爸狠虐兒子7年...國小打到高中只能吃營養午餐少年罹重鬱	https://udn.com/news/amp/story/7321/9734147	未分類
 2026-09-04	北市飯店騎樓命案！她轉頭摸男友「手腳全冰了」	https://news.ebc.net.tw/news/society/569666	未分類
+2026-09-04	Sangfor專欄｜Orova勒索軟件：當虛擬化基礎架構成為攻擊目標	https://news.google.com/rss/articles/CBMivwJBVV95cUxNX0ptRkJXaDgyaGdDMF9ncFlZYTBBNEV2NENtN0tGd3l4QmZjM3B2S0o3R3lpNU9XLUdpTlJ1R2pYYmFfVTRheTZFNmRsQ0xaX2JBTW9ud2lSdnFoR1p4M2FGelJ2d1FMVGJ4cW81eWpUaExMVUxaV01KeUVTUmU2TnlPRTBWekRoYnBETkZSdnZqVlEzc1RITGc0Z0x0eEtibHllS29keXMwdHcxRVZlM3ZyYnVPaEZ6ZUhCY2lpeXZkeUhXTTNCVTdtS2JjVW9sMWFaV242WWp2cHlZd1dJX2UzUk96WUNvQnllRXVsdEExWXRLVkVNQS15Ny1pVFhVUGVtQzY4RWJSZXdyU09Xc0pFZUd1SWoycEdic29OUzRKeW5rM0ZUMWU3T3BEZTJFSEFYWXlMMUc3SllCb2VB?oc=5	未分類
 2026-09-03	阿爾及利亞山火肆虐 總統特本倡恢復死刑懲罰縱火犯	https://www.bastillepost.com/hongkong/article/16696666-阿爾及利亞山火肆虐-總統特本倡恢復死刑懲罰縱火	未分類
 2026-09-03	苗栗苑裡雙煞！ 縱火燒茶行、磚砸銀樓 搶跑路費碰壁狼狽落網	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-09-03/2456153.html	未分類
 2026-09-03	美國明尼阿波利斯槍擊案釀3死！目擊者：至少聽到25至30聲槍響	https://udn.com/news/amp/story/6813/9731229	未分類
@@ -487,6 +504,7 @@ var DATA_SECURITY = `
 2026-08-09	天后單位少年暈倒 警檢大麻花及鐵蓮花拘六人	https://www.singtaousa.com/2026/08/09/news/china/teen-collapse-drugs-weapon-arrest/	未分類
 2026-08-09	天后16歲仔暈倒廁所 保安報警揭單位藏大麻花鐵蓮花 6人被捕最細得13歲	https://www.stheadline.com/breaking-news/3602614/天后16歲仔暈倒廁所-保安報警揭單位藏大麻花鐵蓮花-6人被捕最細得13歲	未分類
 2026-08-09	哥倫比亞新總統就職翌日 西南部遭汽車炸彈襲擊	https://www.bastillepost.com/hongkong/article/16532395-%E5%93%A5%E5%80%AB%E6%AF%94%E4%BA%9E%E7%B8%BD%E7%B5%B1%E5%B0%B1%E8%81%B7%E7%BF%8C%E6%97%A5%E9%81%87%E6%B1%BD%E8%BB%8A%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E8%BB%8D%E6%96%B9%E6%8C%87farc%E7%95%B0	未分類
+2026-08-09	哥倫比亞右翼新總統上任首日 驚傳2起炸彈襲擊釀1死 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE95OGRjZkdIZW54Vm1yQVlyZkk5b0x1N25XX1VXa0kwN3RLcWFXQUQ3RWw5Ml9aWTNoOTVrZ1IwUUJpUVE2cEdUQml4bzJPam51UTBIcDVn?oc=5	未分類
 2026-08-09	北角少年暈倒單位 警搜屋檢大麻花及鐵蓮花 6男女被捕最細13歲	https://www.wenweipo.com/a/202608/09/AP6a78575ce4b0c1e500242a9a.html	未分類
 2026-08-09	16歲少年北角單位內暈倒 警到場檢懷疑大麻花及鐵蓮花 6人被捕年齡最小13歲	https://www.bastillepost.com/hongkong/article/16535653-16歲少年北角單位內暈倒-警到場檢懷疑大麻花及鐵	未分類
 2026-08-08	車佳媛錄音曝光揚言搞死李昇基 拒退5900萬港元按金涉詐騙被捕	https://www.stheadline.com/film-drama/3602309/車佳媛錄音曝光揚言搞死李昇基-拒退5900萬港元按金涉詐騙被捕	未分類
