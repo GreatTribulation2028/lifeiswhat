@@ -1,5 +1,9 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3510 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3516 條
 var DATA_SUICIDE = `
+2026-10-09	衰！尋短不慎火燒車險吃重罪 因為登記妻名下	https://news.ltn.com.tw/news/society/breakingnews/5600833	未分類
+2026-10-09	美軍航艦苦撐265天終於回家！傳食物短缺、8水兵企圖自殺 官兵曾嘆「以為下不了船」 | 上報	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EU2VHYm1MampWUWhKWjlKeEF2V3hWZTF2WTNrMkdUWWpUSjFFQnQtZFNtYndndF81b1BRRWJkNzZ1SG1XQUVpaWNwNVRYaWlMODYzZ3ZB?oc=5	未分類
+2026-10-09	美軍林肯號航母結束321天超長部署返抵母港 曾連續265天不靠港傳發生8宗企圖自殺	https://news.google.com/rss/articles/CBMi9ANBVV95cUxNaWhFQWVLOUl0N0taanV5dkV2MjNFRFV3RzVyT0lNRXlSOWQzZjRiYXlJTmhiT21oN2IwVFJXakpSN2I5VWVheXNlcHNPclA3OURjc09SNlJLelh5UzhQdzhRUU9UdXg1SzZ3Yjg3NkVPSkJ5NHF5djV6X0hmWXdqSklvTjJxLVZOMnB2Y04zOHFDWWhiXzFPTThVRU5SVW0yc3dFVXhaLXZzQkJiOHE5TmplT3BCVzhtV2NvZmpRNUtOTkpMLUliWnhCdl9nRlVVcm5ZVk5JUDZNbTBPazJ1MVNnTUYyZnhVeE4xT1R2TVpjTjVnTlN4RXpjSXl0bEduOV9qVDlhQ1ZORkkyOFlDSmgyeFE0TVpUZTNvV3RGelF2WjBPZnc5bVB0dXIwQ01RU3BJZkNHVG0ydWxRM2U3OE5KMlpDWlpNdi1xWmxubUR2QnRDcG56ZzlTVjlUTHVrSHBLU3g1b21KbC1vZEtfUldhcEpWekZfcTZ2NXpCdzFUeTZYYjNZbW5ETWw5S0kwU1Uwa3RGd1IybExXb3VnSU5mNlJlRmhRTkRpcUFGdUdfY1hYNWN5YXVJdDQyT2JjVXg4S2hlMXl1NnhDOU1ZZk5XX1pfTVl3WFJyenk4SzRaV3d4VjhOaHo5RjRfaXprRFlmZQ?oc=5	未分類
+2026-10-09	海陸下士開T91步槍自戕獲救！侵占1發子彈被法辦 罰12萬換免囚	https://www.ettoday.net/news/20261009/3251876.htm	未分類
 2026-10-07	長宏邨男子膠袋笠頭尋死 父親發現惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20220720/bkn-20220720000238633-0720_00822_001.html	未分類
 2026-10-07	逸東邨15歲仔墮斃 鄰居指死者成績優異	https://hk.on.cc/hk/bkn/cnt/news/20190423/bkn-20190423131100758-0423_00822_001.html	未分類
 2026-10-07	赤柱監獄懲教員 留遺書宿舍燒炭亡	https://hk.on.cc/hk/bkn/cnt/news/20190610/bkn-20190610224555609-0610_00822_001.html	未分類
@@ -2755,6 +2759,7 @@ var DATA_SUICIDE = `
 2025-02-22	珍惜生命︱牛頭角彩興苑男子家中燒炭 昏迷送院搶救	https://www.hk01.com/article/60213147?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-02-20	珍惜生命︱土瓜灣鋼鐵廠男職員上吊亡 妻子抱屍激動痛哭	https://www.hk01.com/article/60212661?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-02-19	珍惜生命︱旺角通菜街男子家中燒炭 妻子發現惜太遲	https://www.hk01.com/article/60212254?utm_source=01articlecopy&utm_medium=referral	未分類
+2025-02-18	珍惜生命｜圓方停車場內 男子服藥企圖自殺	https://news.google.com/rss/articles/CBMitgJBVV95cUxNYm9LaEhYNFRsTDl0QzFMR0w0cENlb05PVjlqc1h1M08wNUxobEV4TzBFZmpURDViSGhiZmljTzlKcWFKX2E1bWVvRlVFU1JwN1RTbWthS21nakRTLVZJYkNxbzZ6NzBadktVTHI3NXRMYWNxM0oyNk1PeHNqMlg2RTVrWXNHb0RENXQ2VTRHSGNMWE5BdGxaX3ZKZVh4UTJmX01yM3pFalR0T1EyQ0hJN1BkTWlVOXQtYW91ZzJXbTFwTi1pdFlzalk4b2RrbVZGUFlQLVhjNHBZSE11eEk2X2EydjBXX0tLWl9oWDB3eFBBNHFGZ1plUDJLcGw0cXFhTG9EWldXNk9ldGJsRjNTa3NTQ0ZMR3RqRUREVUpPcWlPY1haaHdrRUp1MTlDRTZnSk1lOEdB?oc=5	未分類
 2025-02-17	紅磡男子寓所燒炭 家人發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20250217/bkn-20250217000128176-0217_00822_001.html	未分類
 2025-02-17	珍惜生命｜69歲失蹤男子昂坪上吊亡	https://www.hk01.com/article/60211270?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-02-15	珍惜生命︱新蒲崗男子家中燒炭 妻子發現惜太遲	https://www.hk01.com/article/60210746?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -2946,6 +2951,7 @@ var DATA_SUICIDE = `
 2023-06-11	自殺未遂，竟成思覺失調妹妹的重生契機- 20230611	https://ol.mingpao.com/ldy/cultureleisure/culture/20230611/1686421008428/%E8%87%AA%E6%AE%BA%E6%9C%AA%E9%81%82-%E7%AB%9F%E6%88%90%E6%80%9D%E8%A6%BA%E5%A4%B1%E8%AA%BF%E5%A6%B9%E5%A6%B9%E7%9A%84%E9%87%8D%E7%94%9F%E5%A5%91%E6%A9%9F	未分類
 2023-05-23	珍惜生命｜荔枝角29歲女醫生自縊殞命	https://www.hk01.com/%E7%AA%81%E7%99%BC/900845/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%8D%94%E6%9E%9D%E8%A7%9229%E6%AD%B2%E5%A5%B3%E9%86%AB%E7%94%9F%E8%87%AA%E7%B8%8A%E6%AE%9E%E5%91%BD	未分類
 2023-05-22	29歲女醫生昇悅居浴室自縊 送院不治	https://www.singtao.ca/6267701/2023-05-22/news-29%E6%AD%B2%E5%A5%B3%E9%86%AB%E7%94%9F%E6%98%87%E6%82%85%E5%B1%85%E6%B5%B4%E5%AE%A4%E8%87%AA%E7%B8%8A+%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB/	未分類
+2023-05-19	《半澤直樹》演員市川猿之助疑自殺未遂	https://news.google.com/rss/articles/CBMidkFVX3lxTFB4OWl5bmRicHpzMHhBTXpJb3dRR0o2V0thbW04RHRRa1Nzdl9UYTVPZlhNTXprMFdPdzBzX3ZLQm9YT2pjY2ZwQk8tMWhaT0tFNEkwQWFVTTdlTzNsc2p2cHlXY2pObk5yZGtPYlAxXzdka1ZIaFE?oc=5	未分類
 2023-04-27	心疼中年婦女壓力大！鼻噴劑緩解輕生念頭 難治型憂鬱症新曙光	https://www.uho.com.tw/article-60518.html	未分類
 2023-04-23	網傳內地3人在四川天鵝林場服毒自殺 附近商家：人已去世	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/890856/%E7%B6%B2%E5%82%B3%E5%85%A7%E5%9C%B03%E4%BA%BA%E5%9C%A8%E5%9B%9B%E5%B7%9D%E5%A4%A9%E9%B5%9D%E6%9E%97%E5%A0%B4%E6%9C%8D%E6%AF%92%E8%87%AA%E6%AE%BA-%E9%99%84%E8%BF%91%E5%95%86%E5%AE%B6-%E4%BA%BA%E5%B7%B2%E5%8E%BB%E4%B8%96	未分類
 2023-03-21	疑因炒股失敗 男子殺妻及3子女後輕生	https://hk.on.cc/hk/bkn/cnt/intnews/20230321/bkn-20230321001800320-0321_00992_001.html	未分類
