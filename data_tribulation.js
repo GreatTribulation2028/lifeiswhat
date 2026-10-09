@@ -1,5 +1,8 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 294 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 299 條
 var DATA_TRIBULATION = `
+2026-10-09	愛你直到世界末日｜繞了一圈還是你，圈入準＆May：「我們是一起打怪的戰友，心動還在，只是戀愛的方式已經不同。」	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0clNkM3IwbkF5WnBjV01oMW05aldjWDQyeW1ySHhYanpIZjRTMXV0MDdjclo4eEU2d2VZQ2dSYm1Mb1NDaDB6SWZXYmZ5d3NuRmlKZ3ktejFSQW5pOVN1TndrbnpHeDg?oc=5	未分類
+2026-10-09	愛你直到世界末日｜比愛更深，鍾玉燕&周憲柔：「一起到處走走、不時給對方驚喜，都讓我們的關係加溫。」	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96OGtXbGwxWmpRREdKcTNEMzRsZnk1SWFjSnExOW1lTXA0U0hjMllUc1JvUWhtQ2gwRTFUU0dfd2tFdnNvNWY4dGF4VmptTFVJbGp5aG1tQUdYdncyUHhPRFo0OFlKemM?oc=5	未分類
+2026-10-09	愛你直到世界末日｜一場愛情漫遊，羅文裕＆張平：「比起遙遠的以後，我們更想把握還能在一起的每一天。」	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NUjFTcVhRTHd0d2xob0h0QVVSMEVTcGk0VFVWSG9tWjJWQllpcEpsODFlbGd3eGU5LTl4aVhrZGdYWWg4Z3hZam1zWVhnYXIyN0pCZUdBR2UzMVlJVU8wUXZQS3M1ek0?oc=5	未分類
 2026-10-07	巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦	https://finance.ettoday.net/news/3250507	未分類
 2026-10-06	她們的歌你一定聽過！千禧年6女歌手消失「當家長會長、嫁豪門」近況曝	https://star.ettoday.net/news/3248095	未分類
 2026-10-05	麥克斯·布魯克斯：把世界末日寫成求生手冊的《World War Z》作者	https://zh-hant.martincid.com/books-zh-hant/%E9%BA%A5%E5%85%8B%E6%96%AF%C2%B7%E5%B8%83%E9%AD%AF%E5%85%8B%E6%96%AF%EF%BC%9A%E6%8A%8A%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%AF%AB%E6%88%90%E6%B1%82%E7%94%9F%E6%89%8B%E5%86%8A/	未分類
@@ -259,6 +262,7 @@ var DATA_TRIBULATION = `
 2025-10-11	科技界億萬富翁們似乎正為「世界末日」做準備，我們應該擔心嗎？	https://www.bbc.com/zhongwen/articles/ce3yd5eeeyvo/trad	未分類
 2025-09-09	突然去世的油管博主已故大图书馆(本名罗东贤)将长眠于此。9日上午8点，古代图书馆的出殡仪式将在建国大学医院殡仪馆举行。 墓地是首尔市立升华院。 在故人的灵堂里,前妻油管博主李彩媛和故人的妹妹一起被提名..	https://www.mk.co.kr/cn/society/11414311	未分類
 2025-08-21	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62歲殿堂級歌后猝逝-千禧年代憑多首金曲紅遍中港台-曾成已婚作曲家小三為愛赴內地發展後離婚	未分類
+2025-03-29	[廣東話] [林鍵] 2025.03.29 《等待君王：我父》 [但以理書 5:1-24]	https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6VEphUV9QZ2stbjI5Z0t1ZXZLZVVCYXVMaGRKbDgyNFNZNlRTRklaSnlRdGxBd1JQOE5aQzYzRTdudE9JWFNj?oc=5	未分類
 2025-03-24	美貿易署今對華貨船徵港口費開聽證會 彭博：業界憂貿易末日將至	https://www.hk01.com/article/60222860?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-02-11	【雁默專欄】關稅大棒的本質，與台股的末日	https://tw.news.yahoo.com/%E9%9B%81%E9%BB%98%E5%B0%88%E6%AC%84-%E9%97%9C%E7%A8%85%E5%A4%A7%E6%A3%92%E7%9A%84%E6%9C%AC%E8%B3%AA-%E8%88%87%E5%8F%B0%E8%82%A1%E7%9A%84%E6%9C%AB%E6%97%A5-065801548.html	未分類
 2024-10-09	人氣爆谷店Garrett Popcorn本月撤出香港 網民稱世界末日紛挽留	http://www.hk01.com/article/1064583?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -291,6 +295,7 @@ var DATA_TRIBULATION = `
 2020-08-24	以色列培育紅母牛 為《聖經》末日預言準備	https://www.epochtimes.com/b5/20/8/24/n12353478.htm	未分類
 2020-07-03	猶太拉比：中共為邪惡之首 或引發末世戰爭	https://www.epochtimes.com/b5/20/7/3/n12229948.htm	未分類
 2020-02-24	以色列頭痛！南韓「新天地」揪團朝聖過…2百名師生被隔離	https://www.setn.com/news/695487	未分類
+2018-11-21	仇敵在末世攻擊人的致命武器—失望 操練喜樂帶來醫治大能	https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yN01hT2R3S1ZNUVNGb1JBeE9mZVNiMVdJVE5NcVlzN2dfMlB0NTV1X1JUSTcxcTdadjk3T0VDSWdqZDBOYkYzUElDNA?oc=5	未分類
 2018-09-10	紅母牛在以色列誕生 或示《聖經》末日預言	https://www.epochtimes.com/b5/18/9/10/n10703645.htm	未分類
 2018-06-16	宛如末日！鹿兒島火山噴發白晝市區秒遭黑暗壟罩| 國際	https://www.setn.com/news/392854	未分類
 2017-01-05	2017年世界末日？網傳有行星將撞地球 NASA：胡扯	https://www.setn.com/news/213705	未分類
