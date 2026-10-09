@@ -1,5 +1,6 @@
-// 宗教 | 由 build_news_js.py 生成 | 共 165 條
+// 宗教 | 由 build_news_js.py 生成 | 共 168 條
 var DATA_RELIGION = `
+2026-10-09	黃健庭建議蔣萬安「台北市府設禱告祭壇」 自爆當台東縣長時也有	https://www.ettoday.net/news/20261009/3251880.htm	未分類
 2026-09-30	宗教詐騙披靈性外衣 資深媒體人揭警訊辨識邪教pua	https://www.mirrormedia.mg/story/20260930-171soc-105447	未分類
 2026-09-30	一名錫安教會被捕牧師妻子的流亡、煎熬與信仰- 紐約時報中文網	https://cn.nytimes.com/china/20260929/china-zion-church-pastor-detained-family/zh-hant/	未分類
 2026-09-25	（有片）XX月餅是「邪教」？XX絕不接受？XX傳統不可破！2026港人最愛的月餅口味是？｜點妹大調查·中秋特輯	https://www.dotdotnews.com/a/202609/25/AP6ab62e07e4b02724bdb591fe.html	未分類
@@ -79,6 +80,7 @@ var DATA_RELIGION = `
 2026-04-25	阿Mo李啟言父親李盛林牧師病逝 日前身體不適嘔吐發燒 曾插喉治療	https://std.stheadline.com/film-drama/3565830/阿Mo李啟言康復之路現曙光-父親李盛林卻傳噩耗病逝-兩日前曾插喉治療	未分類
 2026-04-25	阿Mo李啟言父親李盛林牧師病逝 日前身體不適嘔吐發燒 代禱信透露疑有心血管問題	https://www.stheadline.com/film-drama/3565830/阿Mo李啟言父親李盛林牧師病逝-日前身體不適嘔吐發燒-代禱信透露疑有心血管問題	未分類
 2026-04-25	阿Mo李啟言父親李盛林牧師今日離世 上周嘔吐及發燒入院接受治療	https://www.hk01.com/社會新聞/60343830/阿mo李啟言父親李盛林牧師今日離世-上周嘔吐及發燒入院接受治療	未分類
+2026-04-25	祂使受苦的地方成為愉快的處境（主日申言127）	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UNjRGVjdhQnFZZ1MwUDUyMWN0cGlHaFE1ZEJSZWNsMDZ2VWtjMHNrNzBYVWVYRksxX3RjT0NQRTZ1ZG1Cb1U4VXQ1X25OQWtnTHFPWHVn?oc=5	未分類
 2026-04-25	為阿Mo康復心力交瘁 父親李盛林牧師驚爆離世	https://hk.on.cc/hk/bkn/cnt/entertainment/20260425/bkn-20260425161258374-0425_00862_001.html	未分類
 2026-04-25	李盛林離世丨同房家屬爆牧師走得突然 今早仍識揮手下午驚見空床	https://www.hk01.com/即時娛樂/60343880/李盛林離世-同房家屬爆牧師走得突然-今早仍識揮手下午驚見空床	未分類
 2026-04-25	李盛林牧師離世｜上月稱有心血管病 嘆：不確定能陪兒子走多長路	https://www.hk01.com/社會新聞/60343856/李盛林牧師離世-上月稱有心血管病-嘆-不確定能陪兒子走多長路	未分類
@@ -126,6 +128,7 @@ var DATA_RELIGION = `
 2026-02-22	傅希秋博士将现身东京！幸福実現党2/23举办国际论坛，揭露中国宗教迫害真相	https://www.chinaaid.net/2026/02/223.html	未分類
 2026-02-12	美前特派大使：中共迫害信仰是「向神宣戰」	https://www.epochtimes.com/b5/26/2/12/n14696445.htm	未分類
 2026-01-20	原中央防范和處理邪教問題領導小組辦公室副主任高以忱嚴重違紀違法 開除黨籍	https://www.orangenews.hk/china/V8oDq28/%E5%8E%9F%E4%B8%AD%E5%A4%AE%E9%98%B2%E8%8C%83%E5%92%8C%E8%99%95%E7%90%86%E9%82%AA%E6%95%99%E5%95%8F%E9%A1%8C%E9%A0%98%E5%B0%8E%E5%B0%8F%E7%B5%84%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%89%AF%E4%B8%BB%E4%BB%BB%E9%AB%98%E4%BB%A5%E5%BF%B1%E5%9A%B4%E9%87%8D%E9%81%95%E7%B4%80%E9%81%95%E6%B3%95-%E9%96%8B%E9%99%A4%E9%BB%A8%E7%B1%8D.shtml	未分類
+2026-01-18	2026-1-18 - TICBC - 主日崇拜講道高清重播 - 信神是因為可以進天堂嗎？（CC/含字幕)	https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qV2RHOU1KWFEwY3NVa0RwOTl0VS02Q09fYV9qUnh3WTE3enItcDhsUlRmdjZmQjVfMFloczEtcDZPRmtLOWZrMw?oc=5	未分類
 2026-01-15	被控邪教驅魔「拍痧板打死女教友」 二審大逆轉！6人無罪變7年徒刑	https://tw.news.yahoo.com/%E8%A2%AB%E6%8E%A7%E9%82%AA%E6%95%99%E9%A9%85%E9%AD%94-%E6%8B%8D%E7%97%A7%E6%9D%BF%E6%89%93%E6%AD%BB%E5%A5%B3%E6%95%99%E5%8F%8B-%E4%BA%8C%E5%AF%A9%E5%A4%A7%E9%80%86%E8%BD%89-6%E4%BA%BA%E7%84%A1%E7%BD%AA%E8%AE%8A7%E5%B9%B4%E5%BE%92%E5%88%91-081250099.html	未分類
 2026-01-12	蔡依林演唱會遭網民舉報！指控巨蛇「吸運」涉邪教 要求停辦巡演	https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60311783/%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E6%9C%83%E9%81%AD%E7%B6%B2%E6%B0%91%E8%88%89%E5%A0%B1-%E6%8C%87%E6%8E%A7%E5%B7%A8%E8%9B%87-%E5%90%B8%E9%81%8B-%E6%B6%89%E9%82%AA%E6%95%99-%E8%A6%81%E6%B1%82%E5%81%9C%E8%BE%A6%E5%B7%A1%E6%BC%94	未分類
 2026-01-12	蔡依林演唱會慘遭檢舉涉邪教儀式感內地網民聲稱巨蛇「吸運」要求停辦巡演- 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/16583869010829/%E5%A8%9B%E6%A8%82-%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E6%9C%83%E6%85%98%E9%81%AD%E6%AA%A2%E8%88%89%E6%B6%89%E9%82%AA%E6%95%99%E5%84%80%E5%BC%8F%E6%84%9F-%E5%85%A7%E5%9C%B0%E7%B6%B2%E6%B0%91%E8%81%B2%E7%A8%B1%E5%B7%A8%E8%9B%87-%E5%90%B8%E9%81%8B-%E8%A6%81%E6%B1%82%E5%81%9C%E8%BE%A6%E5%B7%A1%E6%BC%94	未分類
