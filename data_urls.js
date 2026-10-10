@@ -1161,6 +1161,7 @@ var DATA_URLS = `
 2018-10-17	https://www.setn.com/news/443805
 2016-12-01	https://www.uho.com.tw/article-41876.html
 2016-08-07	https://www.setn.com/news/171045
+2026-10-10	https://news.google.com/rss/articles/CBMi5gNBVV95cUxNNzFVRDc4T3lYcDJQYllDbTNrM3BqTXFVdGIwSWlLN2NSSU5oemhQU0diSXhIQnFsanU2VUJ6Y05ndmVuWWhXYkpYVVpSYndBY1pQTzdYaVpHQU82RmFlbDVUZ2xJNDljNnozeXBtdzA3TGd2S2V2Tl9GT3Q3ZFIxLVJOclZrTEVEcmZiblVBZlhXTU1NemFaRGthcFFGVXRlbzhJdy1IemhkNzJyUUJvcmVfOTJqVVBOWFlnQ25nTlB6SUFKOWt5TU45alVoWExQTThkUjYtRThEb3kySDhWT0NmY2d2UWxLNDNUbjJuQ1JCX3NVZFVjR0o1a1ZiT2NoSGdWazZQQlgyWFNneGw5dWRxZXRLSS1EcFVBUFFWMGFZNlZ0Z3FxaXMyeFFEdmV5QmgtMVdlMFdvRE5pMEtFS3JNVXRpVHVwNUtlZFpxQXJ4RWNBeDRsUDUxRDNSSXZESm5wSDNrTVdoUDZxd05xN19fNmhCMTdxRVd0LVZhYTZhd3B4TWFISDBMNElyQW5MYk1ValVEdU1UMU5FWGVNbnpNbU56QkpUaXUtN0RIXzZUdlZrNTdWeE9oNTY3QjdJcFQ4OHlNVG9LYWhXNjFxUDhyVlF3SGIzUmNEVEVhdEhURTNCTlE?oc=5
 2026-10-07	https://www.bastillepost.com/hongkong/article/16921580-%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%E6%B3%95%E9%99%A2%E7%B3%BB%E7%B5%B1%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E8%B6%85%E9%81%8E%E7%99%BE%E8%90%AC%E4%BA%BA%E8%B3%87%E6%96%99%E8%A2%AB
 2026-10-01	https://tchina.kyodonews.net/articles/-/14296
 2026-10-01	https://www.techritual.com/2026/10/01/587285/
@@ -2145,6 +2146,7 @@ var DATA_URLS = `
 2026-09-02	https://n.yam.com/Article/20260902367495
 2026-09-02	https://benlinmarketing.com/2026/09/02/vash26/
 2026-09-02	https://www.dotdotnews.com/a/202609/02/AP6a97953ee4b02724bdb3290a.html
+2026-09-02	https://news.google.com/rss/articles/CBMinAFBVV95cUxQOW5mdnpVUWdTeTZYbzJDM2lLdi12RHNLRVFIb2hVVEtiSF8ydXlkV2ZYSzVaVzlVT0IzeXAwM29peDBjemZuM3g2X3hoZjNaam1qYVVZeFJTaDlheE1yRHMtSzFtSnFpYmRvS095c0VuLU5qTnlfVE1QUzkwcnlMRWYzblVodXFzR2RzMEItTWkzT2RwQVhLSUFTMFg?oc=5
 2026-09-02	https://www.arch-web.com.tw/综合新闻/印度谴责巴基斯坦拆除一座百年印度教寺庙的行为/685857/
 2026-09-02	https://www.ntdtv.com/gb/2026/09/02/a104129259.html
 2026-09-02	https://www.am730.com.hk/國際/1050619/以巴衝突-以軍空襲加沙至少5死-停火協議有名無實
@@ -2265,6 +2267,7 @@ var DATA_URLS = `
 2026-08-27	https://tw.news.yahoo.com/聖嬰現象引發中美洲乾旱危機-巴拿馬運河9月起減少船隻通行-043445262.html
 2026-08-27	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1049770/%E7%B4%85%E9%9B%A8-%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%88%A2%E8%88%A8%E5%85%AD%E6%97%AC%E6%BC%81%E6%B0%91%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E7%96%91%E6%9B%BE%E9%81%AD%E9%9B%B7%E9%9B%BB%E6%93%8A%E4%B8%AD-%E6%9B%B4%E6%96%B0-
 2026-08-27	https://www.hk01.com/%E7%AA%81%E7%99%BC/60384073/%E7%B4%85%E9%9B%A8-%E6%9C%89%E7%89%87-%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%88%A2%E8%88%A8%E4%B8%8A%E5%85%AD%E6%97%AC%E6%BC%81%E6%B0%91%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%86%87%E6%99%92%E7%9F%A5%E8%A6%BA
+2026-08-27	https://news.google.com/rss/articles/CBMimANBVV95cUxQZmVibE1OQ1JlV2d5M3ZQeVhHWlRkQ1U0aGFJenlGaS1yQWdSS3Qxd3Jld3RsamluOVVhaVN1T3lwcVBQbXJrRVRUWnU0TkF0U3VZdm83VGJlamJtOUNDU2pJNThCTGRrcGFkN2tZd29VQTZNdG5wb3BlQllqOThWS0ROcWcyY1VTV3BFb0hXMHkxWk9UczE3eDdSLXExY2dGLTY0MUJocTJ5bi0wdHNKbWg4NllBN0c1eUUwdVRka3lzdG84ZFVGRF9EODN1aEJON1BZbVpBZEJOOVF5WHZfRnE1SkEwcjVtY1R6akUwRW1wOXpqeExmNmdOaXZ0c1dKZlFia0dwckdIWEVzU2szMEF1VzFYc0NmNV9seXREeEpQMGtWdnN4VWpsWjJTN2VUMkwzc1VLeTEtMnFrSVNaWGl2ekdNaGFBckFDUGxLX1VRcVRaeERKMWxBOVRoZzhvZWlzLVlpaTVWYVNnWHFGak9wS3Nob2gxVHFHaFN0TUhObzg0ZTBzTk1rRkVfN1NhbjliX3lsV0w?oc=5
 2026-08-27	https://news.tvb.com/tc/1191738-%E7%94%B7%E5%AD%90%E7%B4%85%E9%9B%A8%E6%9C%9F%E9%96%93%E7%96%91%E9%81%AD%E9%9B%B7%E6%93%8A%E6%98%8F%E8%BF%B7%E8%88%B9%E4%B8%8A%E6%AD%BB%E4%BA%A1%E9%86%AB%E7%94%9F%E6%8C%87%E9%9B%BB%E6%B5%81%E9%9B%96%E9%BE%90%E5%A4%A7%E5%8F%8A%E6%99%82%E6%80%A5%E6%95%91%E4%BB%8D%E6%9C%89%E7%94%9F%E6%A9%9F
 2026-08-27	https://www.ntdtv.com/b5/mkt_ipad/2026/08/27/a104127689.html
 2026-08-27	https://news.tvb.com/tc/1191813-%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E%E5%A1%9E%E6%97%8F%E5%89%8D%E5%B0%87%E9%A0%98%E5%A7%86%E6%8B%89%E8%BF%AA%E5%A5%87%E9%80%9D%E4%B8%96%E8%A2%AB%E6%8C%87%E5%85%A7%E6%88%B0%E6%9C%9F%E9%96%93%E7%AD%96%E5%8B%95%E5%A4%A7%E5%B1%A0%E6%AE%BA
@@ -6110,6 +6113,7 @@ var DATA_URLS = `
 2016-07-02	https://news.tvb.com/tc/1034330-國際學校教職員游泳疑遇溺送院後情況嚴重
 2016-05-16	https://news.tvbs.com.tw/local/352682
 2015-06-20	https://news.tvb.com/sc/1060213-最熱端午多區賽龍舟健兒市民做足準備
+2026-10-10	https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbEZacTlCaWZKNUdTcGRmNmxXYlJfOWVUc29ORDYzVDdSSlpVbzNzMUQtbHdtTFllZ3FYdHNEQ3FoeTJqRzJMUHVwMmVRNW5JVkh5VUF5RV8wWkJ0QlRRR3VidTR6SGcxb0dwRDVB?oc=5
 2026-10-06	https://www.businessinsider.tw/article/7939
 2026-10-06	https://www.ntdtv.com/b5/2026/10/05/a104139151.html
 2026-10-02	https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813114532123-0813_00822_001.html
@@ -13145,6 +13149,7 @@ var DATA_URLS = `
 2015-10-15	https://www.setn.com/news/100450
 2015-08-21	https://news.tvb.com/en/1055611-醫院外暈倒亡事件報告提過程出現溝通問題
 2015-03-20	https://news.tvb.com/en/1067125-女子推拿針灸後暈倒亡高永文情況罕見
+2026-10-10	https://news.rthk.hk/rthk/ch/component/k2/1873410-20261010.htm
 2026-10-06	https://news.cnyes.com/news/id/6622733
 2026-10-02	https://www.ettoday.net/news/20261002/3247860.htm
 2026-10-02	https://www.ettoday.net/news/20261002/3247893.htm
@@ -16283,6 +16288,9 @@ var DATA_URLS = `
 2017-02-03	https://www.setn.com/news/221453
 2017-01-26	https://www.storm.mg/article/217221
 2016-02-13	https://news.pts.org.tw/article/316774
+2026-10-10	https://news.ltn.com.tw/news/society/breakingnews/5601524
+2026-10-10	https://news.ltn.com.tw/news/society/breakingnews/5601628
+2026-10-10	https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGhod0c2UEJjelRSVVdtd3FzZlhaQjlVQzVpWHJHRmt1ZFZMRjhtb0JuZXd4LW1yRWQwSG1ucC1SZEI0QkxPSWhWdy0xS3ZFZTFnSVh3RjZueUJna2pQVW1nelM2YlhMY2RDY3Q0c2dJUVVMd3dZb1Y1ZlNOMWwtalFEM1VWVWY1WFAtcnJxWHg?oc=5
 2026-10-07	https://www.ettoday.net/news/20261007/3250323.htm
 2026-10-07	https://www.ettoday.net/news/20261007/3250321.htm
 2026-10-07	https://www.ettoday.net/news/20261007/3250330.htm
@@ -26158,6 +26166,7 @@ var DATA_URLS = `
 2026-08-05	https://hk.on.cc/hk/bkn/cnt/news/20260805/bkn-20260805160031499-0805_00822_001.html
 2026-08-05	https://www.dotdotnews.com/a/202608/05/AP6a72c18ce4b04b6c5d35c349.html
 2026-08-05	https://www.singtaousa.com/2026/08/05/news/usa/placer-county-father-accident/
+2026-08-05	https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNUdYaHMzTWVQNXYzRldhLUtlVEM5Y3d3YVloR1Qzd3djN3VKZFN6VFYzOEE0NVZSMUFoZ0tlOHMzaE9Uakh6aXJSTUhob25qR3hGWHlZRHp3X0NWeW1jbVI4TmZ5S1BpZ0JTOWJDem9Cakg0bWcwN0RpMTRFanN1SG01dnMtOWF0c2pNblgwcjFpemhfcXI3UThNQVBZRXNpcHBTaG9kVXJETHdMM1R2TDRiUHdYQXlJb0p1djIxMUJjRDFpWmFKUnpsOU45amtra2swd0RvWDR2cEhZM2szamtKc21yREJzQ1J3cGhxMVBNbUtkTjRuaFlrLTNCbnBxczlfWWRTSGV2dEVxSXRRMWFZQmhwZnRjWHN4SVppZ1BkQU9lTGY4b3BjYThhREpVVjRsd1dDZVcwamg0em9nWkx0S1hublN0OU9KWVFnQjVaZDlOOG1IMFBsZkpoUQ?oc=5
 2026-08-05	https://www.sundaykiss.com/熱話/李要東-電車司機-電車-3歲孫女-外公-衝紅燈-西環-2310616/
 2026-08-05	https://std.stheadline.com/realtime-world/3601141/危地馬拉火山爆發疏散數百村民-熔岩大噴發震撼畫面曝光有片
 2026-08-05	https://news.rthk.hk/rthk/ch/component/k2/1865077-20260805.htm
