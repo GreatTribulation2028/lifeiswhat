@@ -1,4 +1,4 @@
-// 交通 | 由 build_news_js.py 生成 | 共 2007 條
+// 交通 | 由 build_news_js.py 生成 | 共 2008 條
 var DATA_TRAFFIC = `
 2026-10-07	巴士撞壆翻側致1死10傷 司機危駕罪成囚42個月	https://hk.on.cc/hk/bkn/cnt/news/20221230/bkn-20221230140213547-1230_00822_001.html	未分類
 2026-10-06	才祝賀「祖國媽媽」生日 劉樂妍出車禍「先發文感謝中國」	https://www.ettoday.net/news/20261006/3249762.htm	未分類
@@ -418,6 +418,7 @@ var DATA_TRAFFIC = `
 2026-08-05	西環車禍撞斃3歲女童判囚 肇事司機不獲法援棄上訴即時服刑	https://hk.on.cc/hk/bkn/cnt/news/20260805/bkn-20260805160031499-0805_00822_001.html	未分類
 2026-08-05	西環3歲女童衝紅燈遭撞斃電車司機判囚4周棄上訴即時服刑- 港聞	https://www.dotdotnews.com/a/202608/05/AP6a72c18ce4b04b6c5d35c349.html	未分類
 2026-08-05	普萊塞縣家庭悲劇 父撞斃14月大兒子	https://www.singtaousa.com/2026/08/05/news/usa/placer-county-father-accident/	未分類
+2026-08-05	撞完就咁走咗去 #油麻地 #車Cam #交通意外 #不顧而去 #am730	https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNUdYaHMzTWVQNXYzRldhLUtlVEM5Y3d3YVloR1Qzd3djN3VKZFN6VFYzOEE0NVZSMUFoZ0tlOHMzaE9Uakh6aXJSTUhob25qR3hGWHlZRHp3X0NWeW1jbVI4TmZ5S1BpZ0JTOWJDem9Cakg0bWcwN0RpMTRFanN1SG01dnMtOWF0c2pNblgwcjFpemhfcXI3UThNQVBZRXNpcHBTaG9kVXJETHdMM1R2TDRiUHdYQXlJb0p1djIxMUJjRDFpWmFKUnpsOU45amtra2swd0RvWDR2cEhZM2szamtKc21yREJzQ1J3cGhxMVBNbUtkTjRuaFlrLTNCbnBxczlfWWRTSGV2dEVxSXRRMWFZQmhwZnRjWHN4SVppZ1BkQU9lTGY4b3BjYThhREpVVjRsd1dDZVcwamg0em9nWkx0S1hublN0OU9KWVFnQjVaZDlOOG1IMFBsZkpoUQ?oc=5	未分類
 2026-08-05	外公抱孫女過馬路 3歲女捱撞亡 曾獲最佳車長獎被告電車司機聞裁決落淚	https://www.sundaykiss.com/熱話/李要東-電車司機-電車-3歲孫女-外公-衝紅燈-西環-2310616/	未分類
 2026-08-05	危地馬拉火山爆發疏散數百村民 熔岩大噴發震撼畫面曝光｜有片	https://std.stheadline.com/realtime-world/3601141/危地馬拉火山爆發疏散數百村民-熔岩大噴發震撼畫面曝光有片	未分類
 2026-08-05	今年上半年全港發生7341宗有人受傷交通意外 按年跌17%	https://news.rthk.hk/rthk/ch/component/k2/1865077-20260805.htm	未分類
