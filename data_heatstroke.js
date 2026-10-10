@@ -1,4 +1,4 @@
-// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2091 條
+// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2088 條
 var DATA_HEATSTROKE = `
 2026-10-04	死刑執行「2劑都打了」卻沒死！美50歲女囚昏迷 獄政首長請辭	https://www.ettoday.net/news/20261004/3248611.htm	未分類
 2026-10-04	台南飆高溫2人熱衰竭不幸身亡- 2014年05月19日	https://news.pts.org.tw/article/269320	未分類
@@ -163,7 +163,6 @@ var DATA_HEATSTROKE = `
 2026-08-27	42秒被連開13張紅單噴1萬3800！台中駕駛收罰單昏倒 議員批：有必要嗎 台中霧峰區發生罕見交通罰單爭議，一名駕駛行駛於錦州路時，因短短42秒內遭檢舉跨越雙黃線，被連續開出13張罰單，總金額高達1萬3800元，平均每3秒即遭罰一次。	https://tw.news.yahoo.com/42%E7%A7%92%E8%A2%AB%E9%80%A3%E9%96%8B13%E5%BC%B5%E7%B4%85%E5%96%AE%E5%99%B41%E8%90%AC3800-%E5%8F%B0%E4%B8%AD%E9%A7%95%E9%A7%9B%E6%94%B6%E7%BD%B0%E5%96%AE%E6%98%8F%E5%80%92-%E8%AD%B0%E5%93%A1%E6%89%B9-%E6%9C%89%E5%BF%85%E8%A6%81%E5%97%8E-055300108.html	未分類
 2026-08-26	前列腺藥副作用︱台男服藥後低血壓暈倒送院 醫生教改吃1食物改善 ｜ U Food	https://ufood.com.hk/restaurant/news/detail/20074566/%E5%89%8D%E5%88%97%E8%85%BA%E8%97%A5%E5%89%AF%E4%BD%9C%E7%94%A8-%E5%8F%B0%E7%94%B7%E6%9C%8D%E8%97%A5%E5%BE%8C%E4%BD%8E%E8%A1%80%E5%A3%93%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2-%E9%86%AB%E7%94%9F%E6%95%99%E6%94%B9%E5%90%83-%E9%A3%9F%E7%89%A9%E6%94%B9%E5%96%84	未分類
 2026-08-25	湖南老人進店暈倒亡 店家「扶一下」被索賠10萬 結局翻轉	https://www.worldjournal.com/wj/story/121344/9712490	未分類
-2026-08-25	33歲寫真女星懷孕21周心碎引產：哭了很久很久安胎換成催生「痛到失去意識」...留下寶寶最後紀念	https://news.google.com/rss/articles/CBMipgRBVV95cUxQYzUzT3lucVdSb3lSZjR6M0V6YnZ3UWVlQ2UyWllDWmtGTE5RblJlN24tOWNGcXA0SjVKRUtwVENadHlhdExYcTVHeW8xM1NRQ2JpZ1daeE9vX3BEVUFCZ0pYaVRvTWIwTjlCMnFpa1djZkpzODItbVFIdDhPcndhMURQTjRDTGVCVGtDbGxVS0duNU5xTm5DcnRWLU1ybDk3cDZ0dGFwcldKb1hNUk1xVlBKdDUxN2JJcHNpLUl6SFM2RjQ4TEZmbWtkSzdPYTZyQ2x1U0dSVlhObHNzYi0tWTN6VWVLZC1XZDhFd2JJTE95UW52OEUyaVBOU0pXdlJQZWR2Wjd0SU14RUdaS2l4eExWTnIxTF9naXhpQjR5WUlINjh5cDkyWVJCQkJZMGF3SERoa1FodFdVUmw0Ymt4XzRrdzBocWRubFFrTWp4eENsVXh3aDdvNzN1Um1oRlR5QUt0RFl2b1dEM211SG9tRGJYVGR6SFVpd2pBbVBxdUoyR0FReHZsY0NSMmhBd3h0d2N0aVNWN1VueC0tNGNFeWxJUHZ5VEUwUmVVemY4c0NNa2tVcnJ2VXRHY1d2Z3Z1UExwYlhtZjVGZjAwTXR3SGF5SHhaZHRZUVRzN0l5LVEzNUU3RDR3bXB6dnlZY1k2Zkw5VVBqQzdnNEZHcmpxNTdBcllubGUxd0V0UmJxOWtIRE82ejN3VXZKMzFqdE5McVZ1dXZR?oc=5	未分類
 2026-08-24	酷熱天氣｜長者中暑入院或死亡10年增16倍 劏房戶逾半不敢開冷氣	https://www.hk01.com/社會新聞/60383043/酷熱天氣-長者中暑入院或死亡10年增16倍-劏房戶逾半不敢開冷氣	未分類
 2026-08-24	酷熱天氣｜長者中暑入院及死亡10年增16倍 劏房戶逾半不敢開冷氣	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60383043/%E9%85%B7%E7%86%B1%E5%A4%A9%E6%B0%A3-%E9%95%B7%E8%80%85%E4%B8%AD%E6%9A%91%E5%85%A5%E9%99%A2%E5%8F%8A%E6%AD%BB%E4%BA%A110%E5%B9%B4%E5%A2%9E16%E5%80%8D-%E5%8A%8F%E6%88%BF%E6%88%B6%E9%80%BE%E5%8D%8A%E4%B8%8D%E6%95%A2%E9%96%8B%E5%86%B7%E6%B0%A3	未分類
 2026-08-24	月初錄世紀高溫 「工作暑熱警告」力爭優化 地盤工民間智慧抗曝曬 承建商倡科技降溫	https://www.stheadline.com/daily-hongkong/3607487/月初錄世紀高溫-工作暑熱警告力爭優化-地盤工民間智慧抗曝曬-承建商倡科技降溫	未分類
@@ -250,7 +249,6 @@ var DATA_HEATSTROKE = `
 2026-08-12	【堅料漫畫】39.8度高溫破香港歷史紀錄 暑熱警告死守「黃色」 機制脫節幾時改	https://www.kinliu.hk/news/堅料漫畫/【堅料漫畫】39.8度高溫破香港歷史紀錄-暑熱警告死守「黃色」-機制脫節幾時改/214893.html?id=131&from=home&bc1=首頁&bc1to=/	未分類
 2026-08-12	35℃高溫吹風扇仔更易中暑？日本專家揭熱風效應：配合1物快速降溫	https://www.hk01.com/開罐/60378899/35-高溫吹風扇仔更易中暑-日本專家揭熱風效應-配合1物快速降溫	未分類
 2026-08-11	高溫破紀錄 警示未升級 戶外工友「頂住做」 勞工處將與專業部門檢討暑熱警告	https://www.wenweipo.com/a/202608/11/AP6a7a3941e4b0c1e500245992.html	未分類
-2026-08-11	許澤森： 倘工友因工作環境過熱或通風不良中暑暈倒符合條件可索工傷補償 勞工處處長許澤森表示，現行的工傷法律制度並無排斥中暑情況，若員工因工作環境過熱或通風不良而暈倒，或出現其他身體狀況，只要符合相關條件，工傷補償制度便會適用。	https://www.bastillepost.com/hongkong/article/16545097-%E8%A8%B1%E6%BE%A4%E6%A3%AE%EF%BC%9A%E5%80%98%E5%B7%A5%E5%8F%8B%E5%9B%A0%E5%B7%A5%E4%BD%9C%E7%92%B0%E5%A2%83%E9%81%8E%E7%86%B1%E6%88%96%E9%80%9A%E9%A2%A8%E4%B8%8D%E8%89%AF%E4%B8%AD%E6%9A%91%E6%9A%88	未分類
 2026-08-11	許澤森： 倘工友因工作環境過熱或通風不良中暑暈倒符合條件可索工傷補償	https://www.bastillepost.com/hongkong/article/16545097-許澤森：倘工友因工作環境過熱或通風不良中暑暈	未分類
 2026-08-11	筲箕灣避風塘男子墮海 昏迷送院 筲箕灣有人墮海。今日（12日）早上8時19分，一名男子在太康街38號對開的筲箕灣避風塘墮海，途人發現他在海中載浮載沉，於是報警。救援人員趕到現場將男子救起，惟事.	https://www.singtao.ca/7594273/2026-08-11/news-%E7%AD%B2%E7%AE%95%E7%81%A3%E9%81%BF%E9%A2%A8%E5%A1%98%E7%94%B7%E5%AD%90%E5%A2%AE%E6%B5%B7	未分類
 2026-08-11	筲箕灣避風塘男子墮海 昏迷送院	https://www.singtao.ca/7594273/2026-08-11/news-筲箕灣避風塘男子墮海	未分類
@@ -766,7 +764,6 @@ var DATA_HEATSTROKE = `
 2026-05-12	淺水灣泳灘女子懷疑暈倒 送院搶救	https://www.hk01.com/突發/60349011/淺水灣泳灘女子懷疑暈倒-送院搶救	未分類
 2026-05-12	深水埗男子暈倒街頭 人員施心肺復甦法急救	https://hk.on.cc/hk/bkn/cnt/news/20260512/bkn-20260512111607559-0512_00822_001.html	未分類
 2026-05-11	韓28歲女團成員「獨自在家暈倒」！醫生建議「接受精神科治療」 李壽根憂心：壓力肯定很大	https://tw.news.yahoo.com/韓28歲女團成員-獨自在家暈倒-醫生建議-接受精神科治療-李壽根憂心-044700844.html	未分類
-2026-05-11	諾貝爾和平獎得主兩度失去知覺 由監獄送往醫院治療	https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjFuNTR2aU5OVWtzMHF1cVRkdVNSeHBaSXI1bVFBX19tOGRWTW4xZVJPcl80dnJBUHViYVR1Umc0bXhseW43ZzJMbUtLUmJ5dmhMWEpLMGJKLVdUYUtuNWs5YUh3Q1VCV1czUXhxdFJ6VkM4cjI2b3lSM05VdTNsaVpsZEp6bUdnSVF6dC0tWQ?oc=5	未分類
 2026-05-11	耳石症復發急送醫 黃霄雲演出突暈倒	https://www.singtaousa.com/2026/05/11/entertainment/ear-stone-disease-faint-huang-xiaoyun/	未分類
 2026-05-11	日本本州高溫警報：夏日天氣持續，當局籲嚴防中暑	https://n.yam.com/Article/20260511849594	未分類
 2026-05-11	德州貨運火車驚現六屍 疑高溫中暑身亡	https://www.singtaousa.com/2026/05/11/news/usa/news-texas-laredo-cargo-train-boxcar-deaths-heat-stroke/	未分類
