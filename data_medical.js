@@ -1,5 +1,6 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 2974 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 2975 條
 var DATA_MEDICAL = `
+2026-10-10	29歲男子感染猴痘 衞防中心稱多管齊下採取防控措施堵截傳播鏈	https://news.rthk.hk/rthk/ch/component/k2/1873410-20261010.htm	未分類
 2026-10-06	〈港股盤後〉主要指數全線收漲 恒指升1% 生物科技與AI概念股領漲	https://news.cnyes.com/news/id/6622733	未分類
 2026-10-02	揪登革熱隱形感染者！彰化衛生局急設篩檢站 4鄉鎮緊急大滅蚊	https://www.ettoday.net/news/20261002/3247860.htm	未分類
 2026-10-02	彰化登革熱清消凸槌「藥劑飄進民宅」害全家狂咳 緊急就醫	https://www.ettoday.net/news/20261002/3247893.htm	未分類
