@@ -1,8 +1,5 @@
-// 經濟 | 由 build_news_js.py 生成 | 共 3841 條
+// 經濟 | 由 build_news_js.py 生成 | 共 3837 條
 var DATA_ECONOMY = `
-2026-10-08	法興分析師愛德華茲：AI榮景「這一點」與1997亞洲金融風暴很像| 全球財經| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yNVB1RmJ5b0dZbDNXTnZVeFpPYlFjaUtGR2duZ2dwY1ZRS1k0OGRrNVlVWTdNSUlGMnFDdVlmUHB1YXZJZnlrMVZWWFd1R0sx?oc=5	未分類
-2026-10-08	法興分析師愛德華茲：AI 榮景「這一點」與1997亞洲金融風暴很像	https://news.google.com/rss/articles/CBMiTEFVX3lxTFBaQkpNZlR4MThVOWRYVm1SUEY3Tk9RcU55cW1EWXJuNUl5UUIyWjMtdlIyQ0xrTExUUVlBbFktWnBGeXNBdnlCdjEyX0o?oc=5	未分類
-2026-10-08	印度股市暴跌，市值蒸發10兆盧比，油價飆升與印度央行鷹派立場重創投資人信心	https://news.google.com/rss/articles/CBMiekFVX3lxTFBiOUZCaGQxQU1fTU4wLXB0Q0NhODEtanRkMEhiSDd5WUJJbFhuWEVOVXFVVGJjbEtfOUYyeXZpSW85bHQ3djUxM1g5QU9hOHdwRVBqVnJZeWItTWZ0eVVFQnpyUVphUkFvZjNmMG1EMjlGd295bG1XMGZB?oc=5	未分類
 2026-10-06	法國債券遭猛烈拋售，引發金融危機擴大的恐慌	https://www.businessinsider.tw/article/7939	未分類
 2026-10-06	【直播】帶領日本衝破30年經濟停滯！ 高市早苗國會發表重要演講	https://www.ntdtv.com/b5/2026/10/05/a104139151.html	未分類
 2026-10-02	香港餐廳星輝閣結業 員工稱欠薪數月	https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813114532123-0813_00822_001.html	未分類
@@ -141,7 +138,6 @@ var DATA_ECONOMY = `
 2026-09-15	全球公債殖利率創金融危機後新高 美債破5%加劇借貸壓力 | 民視新聞網	https://today.line.me/tw/v3/article/YaRoX5a	未分類
 2026-09-15	AI股市暴跌！美國財政收益率攀升至5%，市場前景堪憂	https://cmnews.com.tw/article/cmoneyairesearcher-eb0fed1e-b070-11f1-b9bf-3ec62dabe4da	未分類
 2026-09-14	近30年市場崩盤全應驗！保證金債務 14 個月狂飆 77%，美股最兇險信號已亮起 作者 智通財經 - Investing.com 香港	https://hk.investing.com/news/stock-market-news/article-1654474	未分類
-2026-09-14	SPY State Street SPDR S&P 500 ETF - AI股市暴跌！美國財政收益率攀升至5%，市場前景堪憂- 股市爆料同學會	https://news.google.com/rss/articles/CBMiWEFVX3lxTE11bERhTEM1UWhYWHhzZFdDdjQ4Q1FUTE4xcHpsZUZPOUxDTnc2Uzg4NkxBaVlTZkk2UFVpRk1DUVJHeWlTR1B3cjZSdHZHcy1WSHpDRHNJOXk?oc=5	未分類
 2026-09-13	人民幣升值逼近6.7 中國隱形金融危機浮現	https://www.epochtimes.com/b5/26/9/13/n14848750.htm	未分類
 2026-09-12	連鎖火鍋放題店全線結業 最後一間分店無預警拉閘結業 街坊愕然！門外告示惹熱議	https://www.sundaykiss.com/熱話/泰金鍋-火鍋放題-打邊爐-連鎖火鍋放題店-結業-泰式-2433757/	未分類
 2026-09-12	誰說大家都要失業？最新數據翻盤：AI沒搶飯碗，反手端出100萬個新工作	https://www.cw.com.tw/article/5142852	未分類
