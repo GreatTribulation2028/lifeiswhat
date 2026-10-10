@@ -1,20 +1,34 @@
-// 天災 | 由 build_news_js.py 生成 | 共 3775 條
+// 天災 | 由 build_news_js.py 生成 | 共 3797 條
 var DATA_DISASTER = `
 2026-10-10	巴拿馬7.7級地震後錄多次餘震 總統指正協調向災區提供援助	https://news.rthk.hk/rthk/ch/component/k2/1873415-20261010.htm	未分類
 2026-10-10	加薩停火滿週年仍陷糧食危機 逾百萬人面臨嚴重營養不良	https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1WDY2eGgwX3lkZ0otbG1Mem5TYm9KdnkyX2lFWmpFZFRUbHlkbXdLTTdnQlZBTWZiUU9abDRTZWUxSk5xUDZma2Y4ZkpFSWxGYm1STDdNemU2RUszN21BVg?oc=5	未分類
+2026-10-09	（有片）沙特民航局：利雅得機場遭襲事件致3死多傷- 國際	https://www.wenweipo.com/a/202610/09/AP6ac8a6dbe4b01d54a2867884.html	未分類
+2026-10-09	【新聞第一線】俄爆添3亡！北京怕疫砍峰會？美擬轟伊朗能源！	https://www.ntdtv.com/b5/2026/10/08/a104139961.html/amp	未分類
+2026-10-08	駐日美軍疑以電話線行兇當地居民痛斥美軍每周都生事- 國際	https://m.dotdotnews.com/s/202610/07/AP6ac5fd28e4b02724bdb6a62f.html	未分類
+2026-10-08	沙特兩座機場遭襲致3死36傷	https://hkcd.com/hkcdweb/content/2026/10/08/content_8778885.html	未分類
 2026-10-07	道奇4局背靠背雙轟炸塞爾！37歲飆100英里寫紀錄 睽違3個月挨2轟	https://sports.ettoday.net/news/3250337	未分類
 2026-10-07	美期中選舉後加大打擊？ 范斯：伊朗想停戰須實質削減濃縮鈾	https://www.ettoday.net/news/20261007/3250327.htm	未分類
 2026-10-07	川普考慮立陶宛設永久美軍基地 俄警告將升高局勢	https://www.ettoday.net/news/20261007/3250347.htm	未分類
 2026-10-06	默認五角大廈派員進駐國防部 顧立雄：台美軍事確實越趨緊密	https://www.ettoday.net/news/20261006/3249793.htm	未分類
+2026-10-06	澳洲陸軍北領地演習期間發生事故 士兵1死5傷	https://www.881903.com/news/international/2653425	未分類
+2026-10-06	澳洲軍事訓練場發生事故 1名士兵死亡5人受傷	https://www.epochtimes.com/b5/26/10/6/n14864194.htm	未分類
+2026-10-06	泰國洪災死亡人數升至31人	https://www.dotdotnews.com/a/202610/05/AP6ac36309e4b02724bdb679cc.html	未分類
+2026-10-06	泰國洪災增至31死 氣象部門預計中北部地區將有狂風暴雨	https://news.now.com/home/international/player?newsId=664738	未分類
+2026-10-06	泰國水災死亡人數增至31 人當局警告將有更多降雨	https://www.bastillepost.com/hongkong/article/16911946-泰國水災死亡人數增至31人-當局警告將有更多降雨	未分類
+2026-10-06	嶺略世界｜迪拜航空襲擊事件這些內容值得關注- 來論	https://www.dotdotnews.com/s/202610/05/AP6ac36ba5e4b02724bdb67a96.html	未分類
 2026-10-06	印尼火山噴發連續25小時！ 周邊海域冒出2座新島嶼	https://www.ettoday.net/news/20261006/3249896.htm	未分類
 2026-10-06	印尼火山噴發「冒出2座新陸地」！ 時隔96年首度形成新島嶼	https://www.mirrormedia.mg/story/20261006edi076	未分類
+2026-10-06	以色列戴黑臂章鬥愛爾蘭 悼哈馬斯襲擊逝者	https://hk.sports.yahoo.com/news/以色列戴黑臂章鬥愛爾蘭-悼哈馬斯襲擊逝者-043411543.html	未分類
 2026-10-03	快訊／才45分鐘！大雨特報升級「豪雨」 這4地今晚到明晨防暴雨	https://www.ettoday.net/news/20261003/3248586.htm	未分類
 2026-10-03	專訪／從空總起飛 「骨力臺灣」串起戰火與冷戰記憶	https://www.ettoday.net/news/20261003/3248599.htm	未分類
 2026-10-03	【美股開市】伊朗傳選新最高領袖換穆傑塔巴油價跌2%（不斷更新）	https://inews.hket.com/article/4200813/%E3%80%90%E7%BE%8E%E8%82%A1%E9%96%8B%E5%B8%82%E3%80%91%E4%BC%8A%E6%9C%97%E5%82%B3%E9%81%B8%E6%96%B0%E6%9C%80%E9%AB%98%E9%A0%98%E8%A2%96%20%E6%8F%9B%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%20%E6%B2%B9%E5%83%B9%E8%B7%8C2-%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89	未分類
 2026-10-02	被指涉嫌圖謀襲擊英國空軍基地 伊朗召見英國大使強烈抗議	https://news.rthk.hk/rthk/ch/component/k2/1872342-20261002.htm	未分類
 2026-10-02	烏克蘭稱國家科學院核研究所遇襲 未有造成傷亡及輻射水平異常	https://news.rthk.hk/rthk/ch/component/k2/1872345-20261002.htm	未分類
+2026-10-02	泰國水災死亡人數增至24人逾300萬人受災一名中國公民在羅勇府駕車時被沖入河罹難- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17908500570154/重點新聞-泰國水災死亡人數增至24人-逾300萬人受災-一名中國公民在羅勇府駕車時被沖入河罹難	未分類
 2026-10-02	暴雨致山泥傾瀉封路 景區近百人全脫困 Rainstorm Flood	https://hk.on.cc/hk/bkn/cnt/cnnews/20221022/bkn-20221022190711887-1022_00952_001.html	未分類
+2026-10-02	斯洛伐克校園襲擊事件死亡人數升至2人	https://www.hkcd.com.hk/hkcdweb/content/2026/10/02/content_8778236.html	未分類
 2026-10-02	【糧食危機】全球多達3.45億人面臨飢荒 Hunger	https://hk.on.cc/hk/bkn/cnt/finance/20220916/bkn-20220916154713942-0916_00842_001.html	未分類
+2026-10-02	(影) 4架烏軍F-16聯合攻擊俄機場！ 維修問題大半數戰機年底前恐難再戰鬥| 國際	https://newtalk.tw/news/view/2026-10-01/1063008	未分類
 2026-10-01	金融海嘯「先知」：美經濟危危乎	https://www.hkej.com/dailynews/international/article/4528351/%E9%87%91%E8%9E%8D%E6%B5%B7%E5%98%AF%E3%80%8C%E5%85%88%E7%9F%A5%E3%80%8D%EF%BC%9A%E7%BE%8E%E7%B6%93%E6%BF%9F%E5%8D%B1%E5%8D%B1%E4%B9%8E	未分類
 2026-10-01	英國懷疑伊朗策畫費爾福空軍基地的恐怖攻擊- 政治圈	https://www.chinatimes.com/realtimenews/20261001005272-260408	未分類
 2026-10-01	美伊僵局！傳盧比歐下「逐客令」 伊朗代表團深夜搭機離境	https://www.ettoday.net/news/20261001/3247022.htm	未分類
@@ -34,6 +48,7 @@ var DATA_DISASTER = `
 2026-09-30	部隊鍋EP289｜伊朗捕獲Anduril水下載具 談軍備的軟體情報外洩風險	https://vip.udn.com/vip/story/122244/9783074?from=vipudn_newest_index	未分類
 2026-09-30	路透社：俄羅斯2027年國防支出擬大增27% 創俄烏戰爭以來最高	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395109/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%BF%84%E7%BE%85%E6%96%AF2027%E5%B9%B4%E5%9C%8B%E9%98%B2%E6%94%AF%E5%87%BA%E6%93%AC%E5%A4%A7%E5%A2%9E27-%E5%89%B5%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E4%BB%A5%E4%BE%86%E6%9C%80%E9%AB%98	未分類
 2026-09-30	貨幣匯價跌至歷史新低 反映伊朗經濟受戰事影響	https://hk.on.cc/hk/bkn/cnt/intnews/20260930/bkn-20260930020500531-0930_00992_001.html	未分類
+2026-09-30	觀點投書：作弊作斃作死自己─從烏克蘭、迦薩、伊朗鏡鑑看不對稱作弊戰 | 謝東森 | 評論	https://www.storm.mg/article/11166760	未分類
 2026-09-30	美軍撤離伊拉克外界憂伊朗代理勢力與IS恐伺機壯大| 國際	https://www.cna.com.tw/news/aopl/202609300056.aspx	未分類
 2026-09-30	美軍全面撤離伊拉克(12:49) - 20260930 - 即時國際- 美以襲伊朗	https://news.mingpao.com/ins/%E7%BE%8E%E4%BB%A5%E8%A5%B2%E4%BC%8A%E6%9C%97/article/20260930/special/1790741889472	未分類
 2026-09-30	美財政部制裁10名包括香港的個人及實體 涉助伊朗採購武器及零件	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395037/%E7%BE%8E%E8%B2%A1%E6%94%BF%E9%83%A8%E5%88%B6%E8%A3%8110%E5%90%8D%E5%8C%85%E6%8B%AC%E9%A6%99%E6%B8%AF%E7%9A%84%E5%80%8B%E4%BA%BA%E5%8F%8A%E5%AF%A6%E9%AB%94-%E6%B6%89%E5%8A%A9%E4%BC%8A%E6%9C%97%E6%8E%A1%E8%B3%BC%E6%AD%A6%E5%99%A8%E5%8F%8A%E9%9B%B6%E4%BB%B6	未分類
@@ -54,6 +69,7 @@ var DATA_DISASTER = `
 2026-09-30	熱帶低壓生成！最快明增強為「彩雲颱風」 最新路徑曝光	https://www.setn.com/news/1914937	未分類
 2026-09-30	熱到爆！颱風「彩雲」最快明生成 最新路徑資訊一次看 | 生活 | CTWANT	https://www.ctwant.com/article/500264/	未分類
 2026-09-30	為何北韓可以伊朗不能擁核？ 川普歪樓再稱：金正恩是我朋友| 國際	https://newtalk.tw/news/view/2026-09-30/1062603	未分類
+2026-09-30	泰水災23亡 總理應變差捱轟	https://www.hkej.com/dailynews/international/article/4526755/泰水災23亡+總理應變差捱轟	未分類
 2026-09-30	泰國連日暴雨成災 一名中國公民喪生	https://news.rthk.hk/rthk/ch/component/k2/1872207-20260930.htm	未分類
 2026-09-30	泰國多地洪水成災 澳洲發布旅遊安全警示	https://www.epochtimes.com/b5/26/9/29/n14860257.htm	未分類
 2026-09-30	江岷欽觀點：為什麼川普與普京難以贏得戰爭？ | 江岷欽 | 評論	https://www.storm.mg/article/11168005	未分類
@@ -68,6 +84,7 @@ var DATA_DISASTER = `
 2026-09-30	川普輸掉期中選舉？FT分析：共和黨敗選不是政治大地震 仍難擋住他	https://udn.com/news/story/6813/9785132	未分類
 2026-09-30	大型颱風恐生成！吳德榮曝「侵台機率」 下週北台灣明顯轉涼	https://news.ltn.com.tw/news/life/breakingnews/5590199	未分類
 2026-09-30	圖解伊朗和中國的武器如何助推胡塞武裝步步進逼	https://cn.wsj.com/articles/%E5%9C%96%E8%A7%A3%E4%BC%8A%E6%9C%97%E5%92%8C%E4%B8%AD%E5%9C%8B%E7%9A%84%E6%AD%A6%E5%99%A8%E5%A6%82%E4%BD%95%E5%8A%A9%E6%8E%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%9D%E6%AD%A5%E6%AD%A5%E9%80%B2%E9%80%BC-6f67be92	未分類
+2026-09-30	圖95轟炸機遠東地區墜毀 致6人死亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260930/bkn-20260930030718790-0930_00992_001.html	未分類
 2026-09-30	因俄軍空襲烏克蘭 波蘭熱舒夫與盧布林機場暫時關閉 | 民視新聞網	https://today.line.me/tw/v3/article/9m3yMeR	未分類
 2026-09-30	周五起降溫有感！彩雲颱風最快明生成 日本賞楓最佳時間曝	https://tw.news.yahoo.com/%E5%91%A8%E4%BA%94%E8%B5%B7%E9%99%8D%E6%BA%AB%E6%9C%89%E6%84%9F-%E5%BD%A9%E9%9B%B2%E9%A2%B1%E9%A2%A8%E6%9C%80%E5%BF%AB%E6%98%8E%E7%94%9F%E6%88%90-%E6%97%A5%E6%9C%AC%E8%B3%9E%E6%A5%93%E6%9C%80%E4%BD%B3%E6%99%82%E9%96%93%E6%9B%9D-023400379.html	未分類
 2026-09-30	周五起兩段式階梯降溫 彩雲颱風最快明生成 1張圖看日本楓紅最新預測	https://udn.com/news/story/7266/9784816	未分類
@@ -79,7 +96,11 @@ var DATA_DISASTER = `
 2026-09-30	內塔尼亞胡：有跡象表明以色列於10月27日大選前或面臨襲擊	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395063/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1-%E6%9C%89%E8%B7%A1%E8%B1%A1%E8%A1%A8%E6%98%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%BC10%E6%9C%8827%E6%97%A5%E5%A4%A7%E9%81%B8%E5%89%8D%E6%88%96%E9%9D%A2%E8%87%A8%E8%A5%B2%E6%93%8A	未分類
 2026-09-30	內塔尼亞胡警告敵人或在下月大選前襲擊以色列	https://hk.news.yahoo.com/%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E8%AD%A6%E5%91%8A%E6%95%B5%E4%BA%BA%E6%88%96%E5%9C%A8%E4%B8%8B%E6%9C%88%E5%A4%A7%E9%81%B8%E5%89%8D%E8%A5%B2%E6%93%8A%E4%BB%A5%E8%89%B2%E5%88%97-001537300.html	未分類
 2026-09-30	內塔尼亞胡指有跡象表明敵人或於以色列大選前發動襲擊	https://news.rthk.hk/rthk/ch/component/k2/1872062-20260930.htm	未分類
+2026-09-30	俄軍戰略轟炸機遠東區墜毀 6名機員死亡	https://www.881903.com/news/international/2652563	未分類
+2026-09-30	俄軍一架圖-95戰略轟炸機墜毀致6人死亡- 國際	https://www.wenweipo.com/a/202609/29/AP6abbd793e4b01d54a2854a2d.html	未分類
 2026-09-30	俄羅斯據報有戰略轟炸機於遠東訓練時墜毀 6名機組人員死亡	https://news.rthk.hk/rthk/ch/component/k2/1872063-20260930.htm	未分類
+2026-09-30	俄羅斯圖-95轟炸機飛行訓練時墜毀 6死1傷	https://news.now.com/home/international/player?newsId=664102	未分類
+2026-09-30	俄羅斯一架圖-95戰略轟炸機訓練時墜毀 6名機組人員死亡	https://www.orangenews.hk/international/VWfFBQj/俄羅斯一架圖-95戰略轟炸機訓練時墜毀-6名機組人員死亡.shtml	未分類
 2026-09-30	伊朗｜革命衞隊發公開信 促美選民中期選舉反對特朗普	https://inews.hket.com/article/4202199/%E4%BC%8A%E6%9C%97%EF%BD%9C%E9%9D%A9%E5%91%BD%E8%A1%9E%E9%9A%8A%E7%99%BC%E5%85%AC%E9%96%8B%E4%BF%A1%20%E4%BF%83%E7%BE%8E%E9%81%B8%E6%B0%91%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%8F%8D%E5%B0%8D%E7%89%B9%E6%9C%97%E6%99%AE?mtc=20023	未分類
 2026-09-30	伊朗革命衛隊致函美國選民 籲中期選舉拒絕特朗普	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395025/%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E8%87%B4%E5%87%BD%E7%BE%8E%E5%9C%8B%E9%81%B8%E6%B0%91-%E7%B1%B2%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E6%8B%92%E7%B5%95%E7%89%B9%E6%9C%97%E6%99%AE	未分類
 2026-09-30	伊朗貨幣創新低 250萬里亞爾兌1美元	https://www.cna.com.tw/video/news/4356693	未分類
@@ -95,6 +116,7 @@ var DATA_DISASTER = `
 2026-09-30	「彩雲」颱風最快明生成！ 粉專：強度上看強烈颱風 | 自由電子報	https://today.line.me/tw/v3/article/8nMDw0n	未分類
 2026-09-30	「大型颱風」彩雲可能生成！專家揭侵台機率	https://news.nextapple.com/life/20260930/C8A8CFEF16232E77D9614EED27BC9591	未分類
 2026-09-30	「只是去逛個街」！緬甸內戰空襲若開邦 50人死在市場裡	https://news.nextapple.com/international/20260930/AEB9A4976F680147FA5E38EFFAA27B5A	未分類
+2026-09-30	《人工智慧》大陸清華領軍人工智慧驅動之生技公司Earendil Labs與羅氏羅氏/Genentech達成20億美元雙特異抗體合作預計將在香港上市- 生技投資第一站	https://www.genetinfo.com/international-news/item/98294.html	未分類
 2026-09-30	​俄烏戰爭｜聯合國籲停火防止局勢升級 中國代表倡對話談判解決危機	https://www.orangenews.hk/international/VWfGZmo/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E8%81%AF%E5%90%88%E5%9C%8B%E7%B1%B2%E5%81%9C%E7%81%AB%E9%98%B2%E6%AD%A2%E5%B1%80%E5%8B%A2%E5%8D%87%E7%B4%9A-%E4%B8%AD%E5%9C%8B%E4%BB%A3%E8%A1%A8%E5%80%A1%E5%B0%8D%E8%A9%B1%E8%AB%87%E5%88%A4%E8%A7%A3%E6%B1%BA%E5%8D%B1%E6%A9%9F.shtml	未分類
 2026-09-30	Tether 首曝凍結伊朗USDT戰績！一年凍 5.5 億鎂，參議員報告揭伊朗影子銀行	https://www.blocktempo.com/tether-freeze-550-million-iran-usdt-senate-report/	未分類
 2026-09-30	2段式降溫 這波濕涼6天 彩雲颱風最快明生成	https://www.chinatimes.com/realtimenews/20260930001796-260405	未分類
