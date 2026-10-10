@@ -1,4 +1,4 @@
-// 治安 | 由 build_news_js.py 生成 | 共 2036 條
+// 治安 | 由 build_news_js.py 生成 | 共 2064 條
 var DATA_SECURITY = `
 2026-10-10	防詐宣導中遇突襲考 年輕男掏手機問：「警察杯杯，這補助是詐騙嗎？」	https://news.ltn.com.tw/news/society/breakingnews/5601524	未分類
 2026-10-10	瓶插下體還性侵被害人 惡男殘暴逼債重判12年半、賠216萬	https://news.ltn.com.tw/news/society/breakingnews/5601628	未分類
@@ -6,6 +6,19 @@ var DATA_SECURITY = `
 2026-10-10	李彥秀稱「社工發毒品」引眾怒 蔣萬安嗆：源頭是沈伯洋文章	https://www.ettoday.net/news/20261010/3252238.htm	未分類
 2026-10-10	李彥秀回應了！認同社工不是毒品提供者 是反對社區中心供毒	https://www.ettoday.net/news/20261010/3252248.htm	未分類
 2026-10-10	友13年前遭槍殺！他人獄遇仇家「原子筆刺頸」 判拘50天	https://www.ettoday.net/news/20261010/3252226.htm	未分類
+2026-10-09	白俄女模被拐緬甸詐騙園區家屬拒付50萬美元贖金遭毆打性侵活摘器官慘死5緬甸籍嫌犯各判囚21年	https://www.kinliu.hk/news/環球/白俄女模被拐緬甸詐騙園區-家屬拒付50萬美元贖金-遭毆打性侵活摘器官慘死-5緬甸籍嫌犯各判囚21年/381813.html?id=80&from=home&bc1=首頁&bc1to=/	未分類
+2026-10-09	白俄女模拒絕從事詐騙遭摘器官命喪緬甸 5兇嫌各判21年	https://www.worldjournal.com/wj/amp/story/121488/9805004	未分類
+2026-10-09	死有對証｜閨密吳若希慘死！陳曉華連叫3次名晒層遞式喊戲 親爆靠一招入戲1Take過	https://www.tvb.com/dramanews-c/死有對証-閨密吳若希慘死-陳曉華連叫3次名晒層遞式喊戲-親爆靠一招入戲1Take過-1016487	未分類
+2026-10-09	影/板橋男毒駕遭攔查辯趕上班 搜出毒品雙手合十求饒	https://news.pchome.com.tw/society/ctinews/20261008/index-79146619498055309002.html	未分類
+2026-10-09	外籍女遊客頭髮被削！持刀闖東大門夜市隨機追砍 毒品前科男落網畫面曝	https://www.setn.com/ampnews/1919635	未分類
+2026-10-09	【審訊追蹤・蔡天鳳案】辯方屢質疑蔡家財政狀况 指蔡天鳳兩度抵押單位 蔡母：女兒花費不高但要供養鄺家	https://news.mingpao.com/ins/港聞/article/20261008/s00001/1791426923207/【審訊追蹤-蔡天鳳案】辯方屢質疑蔡家財政狀况-指蔡天鳳兩度抵押單位-蔡母-女兒花費不高但要供養鄺家	未分類
+2026-10-09	10歲女童提兩大袋啤酒事件 涉虐兒被捕男女已獲准保釋候查 (22:39) - 20261008 - 港聞	https://news.mingpao.com/ins/港聞/article/20261008/s00001/1791471276732/10歲女童提兩大袋啤酒事件-涉虐兒被捕男女已獲准保釋候查	未分類
+2026-10-08	蔡天鳳碎屍案｜蔡母指鄺球「病到就嚟死」靠蔡天鳳碌卡廿多萬救命	https://www.singtao.ca/7649211/2026-10-07/news-蔡天鳳碎屍案｜蔡母指鄺球「病到就嚟死」靠蔡天鳳碌卡廿多萬救命/	未分類
+2026-10-08	蔡天鳳案丨蔡母:鄺球曾病到就嚟死 靠女兒碌卡20幾萬救命	https://m.hkej.com/landing/mobarticle2/id/4535392/蔡天鳳案丨蔡母:鄺球曾病到就嚟死 靠女兒碌卡20幾萬救命	未分類
+2026-10-08	哈利波特、史努比粉暴動！知名餐具狂推11款神級周邊、霍格華茲餐盤曝光	https://www.setn.com/ampnews/1919074	未分類
+2026-10-08	九龍灣菲傭涉虐兒被捕遭掌摑5歲小童面部疼痛送院- 港聞	https://www.dotdotnews.com/a/202610/08/AP6ac6e3f4e4b02724bdb6b36e.html	未分類
+2026-10-08	三老友夾錢買樓 44年後「兩死一失蹤」 終121萬沽出三分一業權	https://www.hk01.com/地產樓市/60397466/三老友夾錢買樓-44年後-兩死一失蹤-終121萬沽出三分一業權	未分類
+2026-10-08	ETtoday新聞雲. . 【直球對決】專訪追問沈伯洋毒品立場！ 「販毒這件事情絕對是犯罪」 影片來源：TVBS少康戰情室 提供 【相關報導】 趙少康追問毒品立場 沈伯洋突表態兩句話「蔣萬安說的」全場愣住 https://www.ettoday.net/news/20261007/3250779.htm?from=fb_et_n	https://www.facebook.com/ETtoday/videos/直球對決專訪追問沈伯洋毒品立場-販毒這件事情絕對是犯罪影片來源tvbs少康戰情室-提供相關報導趙少康追問毒品立場-沈伯洋突表態兩句話蔣萬安說的全場愣住https/1836244107792142/	未分類
 2026-10-07	美媒曝中國在美間諜活動「冰山一角」 彭斯：北京是美最大威脅	https://www.ettoday.net/news/20261007/3250323.htm	未分類
 2026-10-07	美司法部鐵拳！ 2中國間諜國籍擬被撤銷	https://www.ettoday.net/news/20261007/3250321.htm	未分類
 2026-10-07	羅智強猛攻沈伯洋2014毒品主張 國民黨前發言人逆風開轟	https://www.ettoday.net/news/20261007/3250330.htm	未分類
@@ -14,11 +27,20 @@ var DATA_SECURITY = `
 2026-10-07	法再爆大示威促教改 警民暴力衝突 - 20261007 - 國際	https://news.mingpao.com/pns/%E5%9C%8B%E9%9A%9B/article/20261007/s00014/1791306111412/%E6%B3%95%E5%86%8D%E7%88%86%E5%A4%A7%E7%A4%BA%E5%A8%81%E4%BF%83%E6%95%99%E6%94%B9-%E8%AD%A6%E6%B0%91%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81	未分類
 2026-10-07	勒索軟體駭客集團「Qilin」核心成員在日本遭拘：已移交德國	https://www.nippon.com/hk/news/yjj2026100600755/	未分類
 2026-10-07	28歲失蹤男子倒斃油麻地酒店房 頸有刀傷惹兇殺疑雲	https://hk.on.cc/hk/bkn/cnt/news/20210721/bkn-20210721125758376-0721_00822_001.html	未分類
+2026-10-06	跟監賴清德兒子⋯中共女間諜社群被挖出「美國滋潤照」曝光：認真搞錢中| 國際	https://www.setn.com/ampnews/1918106	未分類
+2026-10-06	誤信「中獎9000萬」奔北京領獎！男離奇失蹤3個月 最後竟在內蒙古放羊 | 國際 | CTWANT	https://www.ctwant.com/amp/article/501075/	未分類
+2026-10-06	誤信「中獎9000萬」奔北京領獎！男離奇失蹤3個月 最後竟在內蒙古放羊	https://news.pchome.com.tw/china/m00361/20261006/index-79126552286701361022.html	未分類
 2026-10-06	詐騙園區首腦認了「殺人祭天」 不服管教倒霉鬼慘成祭品	https://www.ettoday.net/news/20261006/3249826.htm	未分類
+2026-10-06	被查還硬要！老闆「連續下藥性侵2女」辯尋花問柳 想停押遭法官打臉	https://www.setn.com/ampnews/1917782	未分類
 2026-10-06	藍營又掀沈伯洋2014年支持大麻合法化 蔣萬安：說清yes or no？	https://www.ettoday.net/news/20261006/3249817.htm	未分類
+2026-10-06	蔡天鳳案｜蔡母稱鄺球曾揚言殺死蔡天鳳全家	https://hkcd.com.hk/hkcdweb/content/2026/10/06/content_8778673.html	未分類
+2026-10-06	美喬治亞州街頭派對後爆槍擊 釀2死35傷	https://www.stheadline.com/realtime-world/3622988/美喬治亞州街頭派對後爆槍擊-釀2死35傷	未分類
+2026-10-06	美喬治亞州爆大規模槍擊！數百人狂歡突傳槍響 釀2死35傷	https://news.pchome.com.tw/internation/m00361/20261005/index-79118158952430361011.html	未分類
 2026-10-06	法國學生大規模抗議潮 示威變調！成暴力衝突	https://tw.news.yahoo.com/%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%8A%97%E8%AD%B0%E6%BD%AE-%E7%A4%BA%E5%A8%81%E8%AE%8A%E8%AA%BF-%E6%88%90%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81-112307761.html	未分類
+2026-10-06	汽車旅館變毒窟！毒販開車「親自送貨」 高市刑大街頭包抄逮人	https://news.pchome.com.tw/society/m00361/20261006/index-79125395678412361002.html	未分類
 2026-10-06	有片｜緬北電詐主犯隨機殺人祭天 有受害者頭骨7個彈孔	https://www.orangenews.hk/china/VXF8RpJ/%E6%9C%89%E7%89%87-%E7%B7%AC%E5%8C%97%E9%9B%BB%E8%A9%90%E4%B8%BB%E7%8A%AF%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E7%A5%AD%E5%A4%A9-%E6%9C%89%E5%8F%97%E5%AE%B3%E8%80%85%E9%A0%AD%E9%AA%A87%E5%80%8B%E5%BD%88%E5%AD%94.shtml	未分類
 2026-10-06	打擊電詐紀錄片 | 主犯隨機殺人祭天 受害者頭骨7個彈孔	https://china.hket.com/article/4204631	未分類
+2026-10-06	恐怖！男子遭「羽毛球」K頭後慘死	https://www.teepr.com/1941817/mollylin/球拍打到頭/	未分類
 2026-10-06	康乃爾涉案男暗指「遭女大生性侵」 稱醉到無法同意發生性行為	https://www.ettoday.net/news/20261006/3249728.htm	未分類
 2026-10-06	央視揭緬北魏家罪行：主犯隨機殺人祭天 受害者頭骨留7個彈孔	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60396743/%E5%A4%AE%E8%A6%96%E6%8F%AD%E7%B7%AC%E5%8C%97%E9%AD%8F%E5%AE%B6%E7%BD%AA%E8%A1%8C-%E4%B8%BB%E7%8A%AF%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E7%A5%AD%E5%A4%A9-%E5%8F%97%E5%AE%B3%E8%80%85%E9%A0%AD%E9%AA%A8%E7%95%997%E5%80%8B%E5%BD%88%E5%AD%94	未分類
 2026-10-06	土耳其中學發生持刀傷人案8人傷 15歲刀手被捕	https://www.881903.com/news/international/2653497	未分類
@@ -33,15 +55,18 @@ var DATA_SECURITY = `
 2026-10-03	捷運驚傳「持刀男」 他一路低頭走路…警追查竟是在剪指甲	https://www.ettoday.net/news/20261003/3248579.htm	未分類
 2026-10-03	年輕吸毒坐牢沒養女！晚年討每月2.2萬 法院：免扶養	https://www.ettoday.net/news/20261003/3248555.htm	未分類
 2026-10-02	花蓮男毒駕肇事還載7歲兒 警方通報社工介入	https://news.ltn.com.tw/news/society/breakingnews/5593147	未分類
+2026-10-02	熱熔膠條打死同事命案！兇手一夜之間暴增7人 警局將開記者會	https://tw.news.yahoo.com/熱熔膠條打死同事命案-兇手-夜之間暴增7人-警局將開記者會-004641133.html	未分類
 2026-10-02	毒駕罰9萬離職逃扣薪 房產被法拍	https://news.ltn.com.tw/news/society/breakingnews/5593304	未分類
 2026-10-02	控方稱閉路電視揭蔡天鳳坐大伯車接女兒放學 推斷車上已暈或遇害	https://news.rthk.hk/rthk/ch/component/k2/1872416-20261002.htm	未分類
 2026-10-02	控方指蔡天鳳失蹤當日龍尾村傳出電鋸聲 單位兩湯煲發現殘骸	https://news.rthk.hk/rthk/ch/component/k2/1872436-20261002.htm	未分類
 2026-10-02	快訊／高雄男熱熔膠棍虐死同事「下半身多處瘀傷」 遭收押禁見	https://www.ettoday.net/news/20261002/3247894.htm	未分類
+2026-10-02	康奈尔兄弟会性侵案 女生曾警称“100%确定被强奸”	https://www.wenxuecity.com/news/2026/10/01/126791805.html	未分類
 2026-10-02	康乃爾性侵案「7男供詞超矛盾」 他還反控：我才是受害者	https://www.ettoday.net/news/20261002/3247845.htm	未分類
 2026-10-02	屏東民宅成販毒據點 警逮2嫌起出大量毒品	https://news.ltn.com.tw/news/society/breakingnews/5592959	未分類
 2026-10-02	嘉義超商面交詐騙款 警方當場逮捕女車手	https://news.ltn.com.tw/news/society/breakingnews/5593212	未分類
 2026-10-02	假停車費、ETC郵件詐騙401件 民眾誤點連結已損失1764萬	https://news.ltn.com.tw/news/society/breakingnews/5593224	未分類
 2026-10-02	交友軟體用帥哥照！已婚刺青男騙私密照又性侵 二審維持8年半	https://news.ltn.com.tw/news/society/breakingnews/5593229	未分類
+2026-10-02	【台語新聞】花蓮毒駕！男載7歲兒逆撞3車遭逮社工介入關懷- 地方	https://news.cts.com.tw/cts/local/202610/202610023085465.html	未分類
 2026-10-02	「失憶水」迷暈同事偷25萬金項鍊 一審偷竊免關變強盜判6年	https://news.ltn.com.tw/news/society/breakingnews/5592875	未分類
 2026-10-01	高雄鳳山民宅命案 55歲男倒臥陳屍客廳	https://news.ltn.com.tw/news/society/breakingnews/5591978	未分類
 2026-10-01	高雄載屍投案凶嫌曾當車手頭 死者疑遭凌虐警再鎖定6人	https://news.ltn.com.tw/news/society/breakingnews/5592301	未分類
@@ -56,6 +81,7 @@ var DATA_SECURITY = `
 2026-10-01	聯博投信詐騙是真的嗎？台訊時報：聯博投信不是詐騙。面對極端氣候與地緣政治持續牽動供應鏈，聯博投信在最新產業報告中指出，高耗能與高度集中市場企業風險正悄然升高；聯博投信將透過產業篩選與相關性分析，調整曝險部位，同時尋找受惠於轉型趨勢的標的，	https://news.ksb.co.jp/search/result/?word=聯博投信詐騙是真的嗎？台訊時報：聯博投信不是詐騙。面對極端氣候與地緣政治持續牽動供應鏈，聯博投信在最新產業報告中指出，高耗能與高度集中市場企業風險正悄然升高；聯博投信將透過產業篩選與相關性分析，調整曝險部位，同時尋找受惠於轉型趨勢的標的，並定期由聯博投信向客戶說明中長期佈局方向。.vxs	未分類
 2026-10-01	編輯林士平與集英社終止合作！「間諜家家酒、膽大黨」將持續連載	https://game.ettoday.net/article/3247257.htm	未分類
 2026-10-01	空中驚魂！以色列防長：杜拜航空是一起「恐怖襲擊未遂事件」	https://news.cnyes.com/news/id/6619246	未分類
+2026-10-01	為十萬元打死同事！警方查出嫌犯載屍台東拋凶器 往返332公里才自首	https://news.pchome.com.tw/society/m00361/20261001/index-79084679647927361002.html	未分類
 2026-10-01	毒品通緝犯開註銷車牌趴趴走 一驗又涉毒駕慘了	https://news.ltn.com.tw/news/society/breakingnews/5591518	未分類
 2026-10-01	林口鵝肉店掩護販毒 改裝轎車夾層藏毒遭警破獲	https://news.ltn.com.tw/news/society/breakingnews/5591882	未分類
 2026-10-01	替代役遭丟包台64線慘死 合議庭改組裁定取消現場勘驗	https://news.ltn.com.tw/news/society/breakingnews/5592143	未分類
@@ -74,9 +100,11 @@ var DATA_SECURITY = `
 2026-09-30	迪拜航空客機因兩名機師發生暴力衝突 迫降沙特	https://news.tvb.com/tc/1198282-%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%A9%9F%E5%9B%A0%E5%85%A9%E5%90%8D%E6%A9%9F%E5%B8%AB%E7%99%BC%E7%94%9F%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81%E8%BF%AB%E9%99%8D%E6%B2%99%E7%89%B9	未分類
 2026-09-30	詐騙158億！「台版Jisoo」27歲歐俞彤二審獲減刑 改判18年	https://news.ltn.com.tw/news/society/breakingnews/5590360	未分類
 2026-09-30	美國加州駭人命案 《紐時》高層遭華裔岳父母開槍擊斃 疑與妻爭撫養權有關	https://www.kinliu.hk/news/%E7%BE%8E%E5%9C%8B/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%B7%9E%E9%A7%AD%E4%BA%BA%E5%91%BD%E6%A1%88-%E3%80%8A%E7%B4%90%E6%99%82%E3%80%8B%E9%AB%98%E5%B1%A4%E9%81%AD%E8%8F%AF%E8%A3%94%E5%B2%B3%E7%88%B6%E6%AF%8D%E9%96%8B%E6%A7%8D%E6%93%8A%E6%96%83-%E7%96%91%E8%88%87%E5%A6%BB%E7%88%AD%E6%92%AB%E9%A4%8A%E6%AC%8A%E6%9C%89%E9%97%9C/359556.html?id=121&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
+2026-09-30	為搶墓地...砸墳綁架骨灰現世報？主嫌精神異常 黑道男爆2親人「接連離奇猝逝」	https://www.ftnn.com.tw/news/583095	未分類
 2026-09-30	法國高中生大暴動！怒封10校喊這句「道出亞洲學生心中苦」	https://news.nextapple.com/international/20260930/5FD7ED02C06E3B6108306A3E8DDA4A1B	未分類
 2026-09-30	杜拜飛以色列航班劫機警報後轉降沙國！副機師疑持刀傷人，以媒：已按恐攻事件處理| 江勳紘| 新聞	https://www.storm.mg/article/11168692	未分類
 2026-09-30	杜拜航空機師高空爆「暴力衝突」緊急降落沙國 以色列急澄清：不是劫機！	https://newtalk.tw/news/view/2026-09-30/1062767	未分類
+2026-09-30	日本神戶接連發生兩宗槍擊案 1死1傷警方拘捕1男疑兇	https://www.kinliu.hk/news/環球/日本神戶接連發生兩宗槍擊案-1死1傷警方拘捕1男疑兇/360134.html?id=80&from=home&bc1=首頁&bc1to=/	未分類
 2026-09-30	日本神戶兩宗槍擊案釀1死1傷 男疑兇被捕	https://news.rthk.hk/rthk/ch/component/k2/1872168-20260930.htm	未分類
 2026-09-30	悚！美國驚傳奪命槍擊 任職「紐約時報」男子遭華裔岳父母槍殺	https://www.ftvnews.com.tw/news/detail/2026929I20M1	未分類
 2026-09-30	全台毒駕奪命單月增至7人 中市三分局今年取締156件全移送	https://news.ltn.com.tw/news/society/breakingnews/5590507	未分類
