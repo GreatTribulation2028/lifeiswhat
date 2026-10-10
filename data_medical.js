@@ -1,11 +1,5 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 2980 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 2974 條
 var DATA_MEDICAL = `
-2026-10-09	買新手機竟自帶病毒！中國2品牌遭點名 恐刪都刪不掉	https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FOXJXR1RMU3RSQWM4TUZBaUJpYVFEYVVVR05NTUd6aTYxYUlZUnUxeDktUlRXdlhzbnBLLU1RWWJzV0xGRjA4UmlYTmjSAUxBVV95cUxPRTlyV0dUTFN0UkFjOE1GQWlCaWFRRGFVVUdOTU1Hemk2MWFJWVJ1MXg5LVJUV3ZYc25wSy1NUVlic1dMRkYwOFJpWE5o?oc=5	未分類
-2026-10-09	港股異動| 金斯瑞生物科技(01548)午後漲近5% 英偉達即將舉辦溼實驗領域創投大賽作者智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE40djJ6VWYyekNONC05dEVEYXNnTDJpNGlfSkFERXBBSEpTNUIxd3B2WXM0cXpUMXEwVmRiNmdqQjdKMFJ1X0FRZkp6TjRuVTJWcTAxOE52YU5rMmNMVzZmNFFmaldLNVExVW1ULW1MUlY?oc=5	未分類
-2026-10-09	屏東爆今年首例本土登革熱！足跡遍及旗山楠梓 20人採檢結果出爐	https://www.ettoday.net/news/20261009/3251865.htm	未分類
-2026-10-08	超越邊界 2026 安永生物科技產業報告發表會	https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XdDkyTkcxWW1fWHNuaUJWZzRDbzFnSDRvUG9GRFo3U044UEt5cnoyRDRzMzJMb2dGbGRoQ1ZXelRYYTBCSS1yd1BSUVhvQnd0NU5CakxJWDhKdFFlYUQybm1BWUxRV2pI?oc=5	未分類
-2026-10-08	美股異動 | 生物科技板塊普跌 默沙東(MRK.US)跌逾2% 作者 智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE5QOHk5ejFEMm9rdy1PdHg3bFI1WDJJQ19EemY1dHRKY1FsdlRibkVDcmlBSWlHX2JEVDNKRU43RVBOTGhTQXhxVXRCUDhHNGpac09uSGoyQi1PNnY3Yl9HdTNWeVA1ekZRNnd5MnFtamg?oc=5	未分類
-2026-10-08	FMR LLC增持金斯瑞生物科技(01548)351.6萬股 每股作價約43.22港元 作者 智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE5jZVcyUE0xUkpYdl9QbXNmOV9WLXZ5MW1YWXJySTFoVkFMaVRYOS1nUVVkSWNEZGktRDk4ZVJEUjctc2VvRVlLT0c0SXY2NEhYRlhsdXpOa3llRHQ2SFprVl9oLVA1ZmJ2cVE2UGhiQlo?oc=5	未分類
 2026-10-06	〈港股盤後〉主要指數全線收漲 恒指升1% 生物科技與AI概念股領漲	https://news.cnyes.com/news/id/6622733	未分類
 2026-10-02	揪登革熱隱形感染者！彰化衛生局急設篩檢站 4鄉鎮緊急大滅蚊	https://www.ettoday.net/news/20261002/3247860.htm	未分類
 2026-10-02	彰化登革熱清消凸槌「藥劑飄進民宅」害全家狂咳 緊急就醫	https://www.ettoday.net/news/20261002/3247893.htm	未分類
