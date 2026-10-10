@@ -1,5 +1,8 @@
-// 治安 | 由 build_news_js.py 生成 | 共 2029 條
+// 治安 | 由 build_news_js.py 生成 | 共 2032 條
 var DATA_SECURITY = `
+2026-10-10	防詐宣導中遇突襲考 年輕男掏手機問：「警察杯杯，這補助是詐騙嗎？」	https://news.ltn.com.tw/news/society/breakingnews/5601524	未分類
+2026-10-10	瓶插下體還性侵被害人 惡男殘暴逼債重判12年半、賠216萬	https://news.ltn.com.tw/news/society/breakingnews/5601628	未分類
+2026-10-10	法國學生抗議活動出現零星暴力衝突 法國總理承認學生訴求合理	https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGhod0c2UEJjelRSVVdtd3FzZlhaQjlVQzVpWHJHRmt1ZFZMRjhtb0JuZXd4LW1yRWQwSG1ucC1SZEI0QkxPSWhWdy0xS3ZFZTFnSVh3RjZueUJna2pQVW1nelM2YlhMY2RDY3Q0c2dJUVVMd3dZb1Y1ZlNOMWwtalFEM1VWVWY1WFAtcnJxWHg?oc=5	未分類
 2026-10-07	美媒曝中國在美間諜活動「冰山一角」 彭斯：北京是美最大威脅	https://www.ettoday.net/news/20261007/3250323.htm	未分類
 2026-10-07	美司法部鐵拳！ 2中國間諜國籍擬被撤銷	https://www.ettoday.net/news/20261007/3250321.htm	未分類
 2026-10-07	羅智強猛攻沈伯洋2014毒品主張 國民黨前發言人逆風開轟	https://www.ettoday.net/news/20261007/3250330.htm	未分類
