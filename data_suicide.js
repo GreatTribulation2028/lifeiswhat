@@ -1,5 +1,6 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3510 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3511 條
 var DATA_SUICIDE = `
+2026-10-10	揚言尋短驚動警消破門！女子反咬房東謊報求償72萬 二審仍打臉	https://news.ltn.com.tw/news/society/breakingnews/5601742	未分類
 2026-10-07	長宏邨男子膠袋笠頭尋死 父親發現惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20220720/bkn-20220720000238633-0720_00822_001.html	未分類
 2026-10-07	逸東邨15歲仔墮斃 鄰居指死者成績優異	https://hk.on.cc/hk/bkn/cnt/news/20190423/bkn-20190423131100758-0423_00822_001.html	未分類
 2026-10-07	赤柱監獄懲教員 留遺書宿舍燒炭亡	https://hk.on.cc/hk/bkn/cnt/news/20190610/bkn-20190610224555609-0610_00822_001.html	未分類
