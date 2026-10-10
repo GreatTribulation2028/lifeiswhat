@@ -1,44 +1,37 @@
-// 交通 | 由 build_news_js.py 生成 | 共 2043 條
+// 交通 | 由 build_news_js.py 生成 | 共 2037 條
 var DATA_TRAFFIC = `
 2026-10-10	雲林交通事故死亡人數降22％ AI運用、事故即時調查奏效	https://news.google.com/rss/articles/CBMiUEFVX3lxTE80Ml96TVp0NkpGRlB6VU8xZmRQdmcwT1RnUEpjdnZDV0UzejlsU2hJeUR3Z1NwWTkxektBVldGaUluRkpBaEUxaUU2Z0RwZ2100gFWQVVfeXFMTTV6WEktZ2hzcWlrYVdRTTRQMmswY0ZaSG1wQ1NFV1lTVnVFRFJsa3VMY3FQREJJREFpam5UMFNFUVFfblhJc0huMTZvZVYyZVMydlVnMlE?oc=5	未分類
 2026-10-10	失控衝對向！濱海公路2砂石車對撞 駕駛腿骨折受困獲救	https://news.ltn.com.tw/news/society/breakingnews/5601688	未分類
-2026-10-09	黃大仙老翁搭小巴跌倒亡｜登車時突開車 69歲司機涉危駕致死被捕	https://www.hk01.com/突發/60397950/黃大仙老翁搭小巴跌倒亡-登車時突開車-69歲司機涉危駕致死被捕	未分類
-2026-10-09	黃大仙翁乘車跌倒後亡｜疑未坐定小巴已開車 司機涉危駕致死被捕	https://www.hk01.com/突發/60397950/黃大仙翁乘車跌倒後亡-疑未坐定小巴已開車-司機涉危駕致死被捕	未分類
 2026-10-09	荃錦公路貨車疑撞斃鐵騎士不顧而去 36歲非華裔男子翌日機場落網	https://www.am730.com.hk/article/1057536	未分類
 2026-10-09	八旬翁黃大仙搭小巴上車跌傷留醫6日亡 子盼還原經過 司機涉危駕致死被捕	https://www.orangenews.hk/hongkong/VXXNqek/八旬翁黃大仙搭小巴上車跌傷留醫6日亡-子盼還原經過-司機涉危駕致死被捕.shtml	未分類
-2026-10-08	貴州山區巨石砸車 釀2死1歲嬰危殆	https://www.stheadline.com/realtime-china/3623833/貴州山區巨石砸車-釀2死1歲嬰危殆	未分類
 2026-10-08	荃錦公路鐵騎士疑遭貨車撞斃 警追尋不顧而去貨車下落	https://www.wenweipo.com/a/202610/08/AP6ac74947e4b01d54a286547e.html	未分類
 2026-10-08	荃錦公路貨車疑撞電單車不顧而去 鐵騎士送院亡	https://www.stheadline.com/breaking-news/3623687/荃錦公路貨車疑撞電單車不顧而去-鐵騎士送院亡	未分類
 2026-10-08	機車遭特斯拉撞飛一人昏迷一人沒有生命跡象送醫搶救	https://udn.com/news/amp/story/7320/9801988	未分類
 2026-10-08	旺市六旬女護工遭撞斃 伏屍路旁近兩日 警尋肇事司機	https://www.singtao.ca/7648695/2026-10-07/news-旺市六旬女護工遭撞斃 伏屍路旁近兩日 警尋肇事司機/	未分類
 2026-10-07	巴士撞壆翻側致1死10傷 司機危駕罪成囚42個月	https://hk.on.cc/hk/bkn/cnt/news/20221230/bkn-20221230140213547-1230_00822_001.html	未分類
-2026-10-06	裝修工涉打死巴士司機 司機被踢至頭部重創 謀殺罪成判囚終身	https://www.hk01.com/社會新聞/60396768/裝修工涉打死巴士司機-司機被踢至頭部重創-謀殺罪成判囚終身	未分類
 2026-10-06	皇崗口岸設7條巴士線 其中3條經大欖隧道轉車站	https://hk.on.cc/hk/bkn/cnt/news/20261006/bkn-20261006135135094-1006_00822_001.html	未分類
-2026-10-06	死有對証｜偷影大新聞穿煲飛車逃走阮浩棕唔識揸鐵馬替身代勞- 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/17912035260135/娛樂-死有對証-偷影大新聞穿煲飛車逃走-阮浩棕唔識揸鐵馬替身代勞	未分類
-2026-10-06	才祝賀「祖國媽媽」生日 劉樂妍出車禍「先發文感謝中國」	https://www.ettoday.net/news/20261006/3249762.htm	未分類
+2026-10-06	才祝賀「祖國媽媽」生日 劉樂妍出車禍「先發文感謝中國」	https://www.ettoday.net/news/20261006/3249762.htm	車禍
 2026-10-06	屯門公路4車相撞 涉2的士2私家車 3人輕傷送院	https://std.stheadline.com/breaking-news/3622868/屯門公路4車相撞-涉2的士2私家車-3人輕傷送院	未分類
 2026-10-06	國道逼車！自小客閃大燈「鬼切急煞」害追撞 警全力追緝車主中	https://www.ettoday.net/news/20261006/3249801.htm	未分類
 2026-10-06	佛羅里達校巴翻側釀兩死 涉事車輛越線肇禍	https://www.bastillepost.com/hongkong/article/16913406-佛羅里達校巴翻側釀兩死-涉事車輛衝線肇禍	未分類
 2026-10-06	佛州3車連環撞 高中校車翻覆釀2死	https://www.worldjournal.com/wj/story/121618/9797198	未分類
 2026-10-06	九龍灣警車上斜死火 巴士司機乘客合力推車失敗(有片)	https://www.am730.com.hk/本地/1056969/九龍灣警車上斜死火-巴士司機乘客合力推車失敗-有片-	未分類
 2026-10-06	115年陸上交通事故災害防救演習兵棋推演 跨機關驗證重大事故應變協調機制	https://886.news/archives/365608	未分類
-2026-10-05	58歲婦車禍後竟得「心碎症候群」 更年期後為何心臟更脆弱？	https://money.udn.com/money/amp/story/5648/9796023	未分類
+2026-10-05	58歲婦車禍後竟得「心碎症候群」 更年期後為何心臟更脆弱？	https://money.udn.com/money/amp/story/5648/9796023	車禍
 2026-10-03	北臺灣媽祖文化節新莊起駕 慈祐宮建廟340年捐復康巴士	https://www.ettoday.net/news/20261003/3248585.htm	未分類
 2026-10-02	驚！砂石車疑閃車撞進路旁鐵皮屋 幸無傷亡	https://news.ltn.com.tw/news/society/breakingnews/5592963	未分類
 2026-10-02	離譜！屏東聯結車行駛掉出堆高機 砸中特斯拉害女駕駛受傷	https://news.ltn.com.tw/news/society/breakingnews/5593189	未分類
 2026-10-02	轿车突切车道酿祸罗里失控撞死维护工| 即时 | 国内 | 2026-10-02	https://guangming.com.my/轿车突切车道酿祸-罗里失控撞死维护工	未分類
+2026-10-02	赤鱲角隧道公路貨車撞壆司機昏迷往屯門部分車線封閉交通繁忙- 港聞	https://www.dotdotnews.com/a/202610/02/AP6abf2f5fe4b02724bdb6334b.html	未分類
 2026-10-02	貨櫃車屯赤隧道出口剷上石壆 司機昏迷送院 (13:14) - 20261002 - 港聞	https://news.mingpao.com/ins/港聞/article/20261002/s00001/1790917688390/貨櫃車屯赤隧道出口剷上石壆-司機昏迷送院	未分類
-2026-10-02	煙花過後內地客離港 尖沙咀直通巴站現人龍	https://news.now.com/revamp2014/newsDetails.m.jsp?newsId=664324	未分類
 2026-10-02	河口湖6種方式追富士山！搭巴士順遊周邊湖泊、爬石階拍五重塔	https://travel.ettoday.net/article/3230347.htm	未分類
 2026-10-02	屯門龍富路迴旋處貨櫃車疑「自炒」撞壆 男司機昏迷送院搶救	https://www.am730.com.hk/本地/1056331/屯門龍富路迴旋處貨櫃車疑-自炒-撞壆-男司機昏迷送院搶救	未分類
 2026-10-02	屯門龍富路迴旋處貨櫃車剷上石壆 58歲男司機昏迷送院搶救	https://www.hk01.com/突發/60395727/屯門龍富路迴旋處貨櫃車剷上石壆-58歲男司機昏迷送院搶救	未分類
-2026-10-02	屯赤拖頭撞壆 司機被困救出昏迷送院	https://www.stheadline.com/breaking-news/3621640/屯赤拖頭撞壆-司機被困救出昏迷送院	未分類
 2026-10-02	國一聯結車追撞遊覽車釀4傷 現場回堵將近5公里	https://news.ltn.com.tw/news/society/breakingnews/5592972	未分類
-2026-10-02	台64線丟包乘客害輾斃！司機願賣房賠償 家屬盼殺人罪論處	https://news.ebc.net.tw/news/society/573813	未分類
-2026-10-02	停車格起步左切釀車禍 桃園休旅車烏龜翻	https://news.ltn.com.tw/news/society/breakingnews/5593222	未分類
+2026-10-02	停車格起步左切釀車禍 桃園休旅車烏龜翻	https://news.ltn.com.tw/news/society/breakingnews/5593222	車禍
 2026-10-02	中環12歲女童旅遊巴上暈倒 送院治療後恢復清醒	https://hk.on.cc/hk/bkn/cnt/news/2026023/bkn-20260203205219149-0203_00822_001.html	未分類
 2026-10-02	(有片) 屯赤貨櫃車剷壆掃冧路牌 司機昏迷送院搶救	https://www.wenweipo.com/a/202610/02/AP6abf437ae4b01d54a2859fc8.html	未分類
-2026-10-01	西環域多利道發生交通意外 私家車與電單車相撞鐵騎士重傷送院	https://www.singtaousa.com/2026/10/01/news/china/car-motorcycle-collision-cyclist-injured-hospital/	未分類
+2026-10-01	西環域多利道發生交通意外 私家車與電單車相撞鐵騎士重傷送院	https://www.singtaousa.com/2026/10/01/news/china/car-motorcycle-collision-cyclist-injured-hospital/	車禍
 2026-10-01	行駛碧潭橋遭前車掉落蚊香擊中？女騎士失控釀追撞受傷	https://news.ltn.com.tw/news/society/breakingnews/5591899	未分類
 2026-10-01	約38萬人維港兩岸觀賞國慶煙花 有旅客稱煙花規模龐大畫面震撼	https://news.rthk.hk/rthk/ch/component/k2/1872338-20261001.htm	未分類
 2026-10-01	獨家／彰師大學區「行人地獄」 婦遭拖板車輾斃拖行2米	https://news.ebc.net.tw/news/society/551687	未分類
@@ -46,9 +39,9 @@ var DATA_TRAFFIC = `
 2026-10-01	心碎母親節！乩身女倒垃圾遭撞亡 母淚崩：最後一面沒看到	https://news.ebc.net.tw/news/society/550841	未分類
 2026-10-01	大陸滬昆高速公路懷化段交通事故 6死4傷	https://udn.com/news/story/7332/9788519	未分類
 2026-10-01	國道驚見電動代步車走路肩！82歲翁「路況不熟誤闖」最高罰6千	https://www.ettoday.net/news/20261001/3247301.htm	未分類
-2026-10-01	以總理指機師試圖令飛機墜毀事件嚴重 指示做好準備應對潛在威脅	https://news.rthk.hk/rthk/ch/component/k2/1872229-20261001.htm	未分類
+2026-10-01	以總理指機師試圖令飛機墜毀事件嚴重 指示做好準備應對潛在威脅	https://news.rthk.hk/rthk/ch/component/k2/1872229-20261001.htm	墜機
 2026-10-01	中國滬昆高速公路懷化段發生交通事故 6死4傷	https://www.worldjournal.com/wj/story/121474/9789508	未分類
-2026-09-30	青馬大橋兩死車禍 龍運巴士司機被控危駕准保釋	https://www.kinliu.hk/news/%E7%A4%BE%E6%9C%83/%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B%E5%85%A9%E6%AD%BB%E8%BB%8A%E7%A6%8D-%E9%BE%8D%E9%81%8B%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8E%A7%E5%8D%B1%E9%A7%95%E5%87%86%E4%BF%9D%E9%87%8B/358754.html?id=58&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	未分類
+2026-09-30	青馬大橋兩死車禍 龍運巴士司機被控危駕准保釋	https://www.kinliu.hk/news/%E7%A4%BE%E6%9C%83/%E9%9D%92%E9%A6%AC%E5%A4%A7%E6%A9%8B%E5%85%A9%E6%AD%BB%E8%BB%8A%E7%A6%8D-%E9%BE%8D%E9%81%8B%E5%B7%B4%E5%A3%AB%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8E%A7%E5%8D%B1%E9%A7%95%E5%87%86%E4%BF%9D%E9%87%8B/358754.html?id=58&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F	車禍
 2026-09-30	通勤族崩潰！國1南北雙向接連事故 5車追撞、2車卡內線	https://news.tvbs.com.tw/local/4029337	未分類
 2026-09-30	車CAM片｜呈祥道司機昏迷 的士陷無人駕駛、兩度撞壆 4乘客狂拍無反應	https://www.i-cable.com/新聞資訊/508954/車cam片-呈祥道司機昏迷-的士陷無人駕駛-兩度	未分類
 2026-09-30	車CAM片丨呈祥道的士司機突昏迷 無人駕駛兩度撞壆	https://www.hkej.com/instantnews/current/article/4527442/車CAM片丨呈祥道的士司機突昏迷+無人駕駛兩度撞壆	未分類
@@ -57,14 +50,15 @@ var DATA_TRAFFIC = `
 2026-09-30	粉嶺沙頭角路保姆車與專線小巴相撞 5人送院包括4名學童	https://www.am730.com.hk/本地/1056045/粉嶺沙頭角路保姆車與專線小巴相撞-5人送院包括4名學童	未分類
 2026-09-30	男載女夜遊自撞分隔島翻車 車輛冒煙獲救送醫	https://news.ltn.com.tw/news/society/breakingnews/5590339	未分類
 2026-09-30	清晨被轟隆聲嚇醒「以為開戰」 松機：國慶訓練戰鬥機聲音較震撼	https://udn.com/news/story/7266/9785017	未分類
-2026-09-30	新莊重新堤外道連環車禍！ 波及4車、釀7傷	https://www.mnews.tw/story/20260930sot0846001	未分類
-2026-09-30	忠孝橋連環撞車禍釀多人摔車！機車道塞爆 騎士崩潰：卡3個99秒紅燈 | CTWANT	https://today.line.me/tw/v3/article/LXemDEz	未分類
-2026-09-30	忠孝橋連環撞車禍釀多人摔車！機車道塞爆 騎士崩潰：卡3個99秒紅燈	https://tw.news.yahoo.com/%E5%BF%A0%E5%AD%9D%E6%A9%8B%E9%80%A3%E7%92%B0%E6%92%9E%E8%BB%8A%E7%A6%8D%E9%87%80%E5%A4%9A%E4%BA%BA%E6%91%94%E8%BB%8A-%E6%A9%9F%E8%BB%8A%E9%81%93%E5%A1%9E%E7%88%86-%E9%A8%8E%E5%A3%AB%E5%B4%A9%E6%BD%B0-%E5%8D%A13%E5%80%8B99%E7%A7%92%E7%B4%85%E7%87%88-035651953.html	未分類
-2026-09-30	忠孝橋機車道車禍！三重往台北騎士塞爆崩潰：卡了3個99秒紅綠燈	https://news.tvbs.com.tw/local/4029349	未分類
-2026-09-30	忠孝橋機車道車禍！ 三重往台北塞爆騎士崩潰- 生活	https://news.cts.com.tw/cts/life/202609/202609303084442.html	未分類
+2026-09-30	有片｜呈祥道的士司機暈倒乘客驚惶拍打 無人駕駛半分鐘失控撞壆	https://www.orangenews.hk/hongkong/VWgo1oc/有片-呈祥道的士司機暈倒乘客驚惶拍打-無人駕駛半分鐘失控撞壆.shtml	未分類
+2026-09-30	新莊重新堤外道連環車禍！ 波及4車、釀7傷	https://www.mnews.tw/story/20260930sot0846001	車禍
+2026-09-30	忠孝橋連環撞車禍釀多人摔車！機車道塞爆 騎士崩潰：卡3個99秒紅燈 | CTWANT	https://today.line.me/tw/v3/article/LXemDEz	車禍
+2026-09-30	忠孝橋連環撞車禍釀多人摔車！機車道塞爆 騎士崩潰：卡3個99秒紅燈	https://tw.news.yahoo.com/%E5%BF%A0%E5%AD%9D%E6%A9%8B%E9%80%A3%E7%92%B0%E6%92%9E%E8%BB%8A%E7%A6%8D%E9%87%80%E5%A4%9A%E4%BA%BA%E6%91%94%E8%BB%8A-%E6%A9%9F%E8%BB%8A%E9%81%93%E5%A1%9E%E7%88%86-%E9%A8%8E%E5%A3%AB%E5%B4%A9%E6%BD%B0-%E5%8D%A13%E5%80%8B99%E7%A7%92%E7%B4%85%E7%87%88-035651953.html	車禍
+2026-09-30	忠孝橋機車道車禍！三重往台北騎士塞爆崩潰：卡了3個99秒紅綠燈	https://news.tvbs.com.tw/local/4029349	車禍
+2026-09-30	忠孝橋機車道車禍！ 三重往台北塞爆騎士崩潰- 生活	https://news.cts.com.tw/cts/life/202609/202609303084442.html	車禍
 2026-09-30	女大生遭水泥車倒車輾斃！家屬南投奔台南認屍 校方安撫同學	https://www.ettoday.net/news/20260930/3246355.htm	未分類
-2026-09-30	國三新竹段凌晨車禍 自撞分隔島車全毀他奇蹟生還	https://news.ltn.com.tw/news/society/breakingnews/5590186	未分類
-2026-09-30	國3驚悚自撞車禍！車體全爛 男駕駛自行脫困後送醫	https://news.tvbs.com.tw/local/4029360	未分類
+2026-09-30	國三新竹段凌晨車禍 自撞分隔島車全毀他奇蹟生還	https://news.ltn.com.tw/news/society/breakingnews/5590186	車禍
+2026-09-30	國3驚悚自撞車禍！車體全爛 男駕駛自行脫困後送醫	https://news.tvbs.com.tw/local/4029360	車禍
 2026-09-30	呈祥道的士撞壆．車Cam│無人駕駛半分鐘 4乘客驚惶扶軚拍面 司機仍命危	https://www.stheadline.com/breaking-news/3621019/%E5%91%88%E7%A5%A5%E9%81%93%E7%9A%84%E5%A3%AB%E6%92%9E%E5%A3%86%E8%BB%8ACam%E7%84%A1%E4%BA%BA%E9%A7%95%E9%A7%9B%E5%8D%8A%E5%88%86%E9%90%98-4%E4%B9%98%E5%AE%A2%E9%A9%9A%E6%83%B6%E6%89%B6%E8%BB%9A%E6%8B%8D%E9%9D%A2-%E5%8F%B8%E6%A9%9F%E4%BB%8D%E5%91%BD%E5%8D%B1	未分類
 2026-09-30	十一重磅打卡！走进裕陵隆恩殿，品读“震撼的遗珍”！	https://xinwen.bjd.com.cn/content/s6abc7b74d5de4aef00f42b17.html	未分類
 2026-09-30	八旬老翁過馬路遭車撞斃	https://www.overseaschinesedailynews.com.my/news/128371/八旬老翁過馬路遭車撞斃/	未分類
@@ -73,46 +67,46 @@ var DATA_TRAFFIC = `
 2026-09-30	中美談二戰「抹去中華民國？」 國台辦定調法理傳承：台獨無法撼動一中	https://www.ettoday.net/news/20260930/3246252.htm	未分類
 2026-09-30	上學奪命! 水泥車開錯路倒車輾斃23歲嘉藥女大生｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網	https://news.tvbs.com.tw/videos/x2eVwx5IWN0	未分類
 2026-09-30	1-7月行人交通事故死亡人數下降56.8% 中市持續精進高齡者事故防制 | 中廣新聞網	https://today.line.me/tw/v3/article/OplOJ8G	未分類
-2026-09-26	金曲女星嚴重車禍緊急送醫搶救！夫妻被撞粉碎骨折 悲喊前面的人死掉了	https://star.setn.com/news/1913240	未分類
-2026-09-26	連假第2天車流湧現！上午3起交通意外讓高速公路更塞	https://www.nownews.com/news/6878290	未分類
-2026-09-26	祖孫三代5口花蓮出遊遇車禍釀2死3傷 疑遭不當超車迎面猛撞	https://tw.news.yahoo.com/%E7%A5%96%E5%AD%AB%E4%B8%89%E4%BB%A35%E5%8F%A3%E8%8A%B1%E8%93%AE%E5%87%BA%E9%81%8A%E9%81%87%E8%BB%8A%E7%A6%8D%E9%87%802%E6%AD%BB3%E5%82%B7-%E7%96%91%E9%81%AD%E4%B8%8D%E7%95%B6%E8%B6%85%E8%BB%8A%E8%BF%8E%E9%9D%A2%E7%8C%9B%E6%92%9E-001252693.html	未分類
-2026-09-26	影／苗栗竹南車禍現場影像曝光！男子酒駕又闖紅燈造成三車連環撞	https://udn.com/news/story/7320/9778422	未分類
-2026-09-26	女歌手夫妻遇恐怖車禍！肇事者「下個路口撞死人」 她驚喊：死的可能是我	https://tw.news.yahoo.com/%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%A4%AB%E5%A6%BB%E9%81%87%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E8%82%87%E4%BA%8B%E8%80%85-%E4%B8%8B%E5%80%8B%E8%B7%AF%E5%8F%A3%E6%92%9E%E6%AD%BB%E4%BA%BA-%E5%A5%B9%E9%A9%9A%E5%96%8A-%E6%AD%BB%E7%9A%84%E5%8F%AF%E8%83%BD%E6%98%AF%E6%88%91-041900107.html	未分類
+2026-09-26	金曲女星嚴重車禍緊急送醫搶救！夫妻被撞粉碎骨折 悲喊前面的人死掉了	https://star.setn.com/news/1913240	車禍
+2026-09-26	連假第2天車流湧現！上午3起交通意外讓高速公路更塞	https://www.nownews.com/news/6878290	車禍
+2026-09-26	祖孫三代5口花蓮出遊遇車禍釀2死3傷 疑遭不當超車迎面猛撞	https://tw.news.yahoo.com/%E7%A5%96%E5%AD%AB%E4%B8%89%E4%BB%A35%E5%8F%A3%E8%8A%B1%E8%93%AE%E5%87%BA%E9%81%8A%E9%81%87%E8%BB%8A%E7%A6%8D%E9%87%802%E6%AD%BB3%E5%82%B7-%E7%96%91%E9%81%AD%E4%B8%8D%E7%95%B6%E8%B6%85%E8%BB%8A%E8%BF%8E%E9%9D%A2%E7%8C%9B%E6%92%9E-001252693.html	車禍
+2026-09-26	影／苗栗竹南車禍現場影像曝光！男子酒駕又闖紅燈造成三車連環撞	https://udn.com/news/story/7320/9778422	車禍
+2026-09-26	女歌手夫妻遇恐怖車禍！肇事者「下個路口撞死人」 她驚喊：死的可能是我	https://tw.news.yahoo.com/%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%A4%AB%E5%A6%BB%E9%81%87%E6%81%90%E6%80%96%E8%BB%8A%E7%A6%8D-%E8%82%87%E4%BA%8B%E8%80%85-%E4%B8%8B%E5%80%8B%E8%B7%AF%E5%8F%A3%E6%92%9E%E6%AD%BB%E4%BA%BA-%E5%A5%B9%E9%A9%9A%E5%96%8A-%E6%AD%BB%E7%9A%84%E5%8F%AF%E8%83%BD%E6%98%AF%E6%88%91-041900107.html	車禍
 2026-09-25	西貢公路的士私家車相撞 消息指兩名司機昏迷	https://hk.on.cc/hk/bkn/cnt/news/20260925/bkn-20260925132440167-0925_00822_001.html	未分類
 2026-09-25	想載親友返鄉過中秋出事了！男深夜趕路「低血糖」撞分隔島…撞擊瞬間曝	https://www.setn.com/ampnews/1912693	未分類
-2026-09-25	女子車禍遭捲車底 民眾合力救出無生命危險	https://tw.news.yahoo.com/%E5%A5%B3%E5%AD%90%E8%BB%8A%E7%A6%8D%E9%81%AD%E6%8D%B2%E8%BB%8A%E5%BA%95-%E6%B0%91%E7%9C%BE%E5%90%88%E5%8A%9B%E6%95%91%E5%87%BA%E7%84%A1%E7%94%9F%E5%91%BD%E5%8D%B1%E9%9A%AA-043545511.html	未分類
-2026-09-25	國道一早連3起車禍！國3北向一度塞爆8公里 下午「9大壅塞地雷熱區」曝	https://tw.news.yahoo.com/%E5%9C%8B%E9%81%93-%E6%97%A9%E9%80%A33%E8%B5%B7%E8%BB%8A%E7%A6%8D-%E5%9C%8B3%E5%8C%97%E5%90%91-%E5%BA%A6%E5%A1%9E%E7%88%868%E5%85%AC%E9%87%8C-%E4%B8%8B%E5%8D%88-050000449.html	未分類
+2026-09-25	女子車禍遭捲車底 民眾合力救出無生命危險	https://tw.news.yahoo.com/%E5%A5%B3%E5%AD%90%E8%BB%8A%E7%A6%8D%E9%81%AD%E6%8D%B2%E8%BB%8A%E5%BA%95-%E6%B0%91%E7%9C%BE%E5%90%88%E5%8A%9B%E6%95%91%E5%87%BA%E7%84%A1%E7%94%9F%E5%91%BD%E5%8D%B1%E9%9A%AA-043545511.html	車禍
+2026-09-25	國道一早連3起車禍！國3北向一度塞爆8公里 下午「9大壅塞地雷熱區」曝	https://tw.news.yahoo.com/%E5%9C%8B%E9%81%93-%E6%97%A9%E9%80%A33%E8%B5%B7%E8%BB%8A%E7%A6%8D-%E5%9C%8B3%E5%8C%97%E5%90%91-%E5%BA%A6%E5%A1%9E%E7%88%868%E5%85%AC%E9%87%8C-%E4%B8%8B%E5%8D%88-050000449.html	車禍
 2026-09-25	倫敦11 歲童過平交道疑看手機未察覺列車駛近遭撞斃家屬斥當局疏忽致可避免悲劇	https://www.bastillepost.com/hongkong/article/16823813-疑低頭看手機過平交道-倫敦11歲童未察覺列車駛進	未分類
 2026-09-25	七旬單車翁遭私家車撞斃 過期學神司機不顧而去 認危駕致死7罪囚42月	https://www.stheadline.com/society/3619285/七旬單車翁遭私家車撞斃-過期學神司機不顧而去-認危駕致死7罪囚42月	未分類
 2026-09-25	33歲乘客巴士上猝死 醫生指死者血管塞八成 黃金救援只得5分鐘	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60393747/33%E6%AD%B2%E4%B9%98%E5%AE%A2%E5%B7%B4%E5%A3%AB%E4%B8%8A%E7%8C%9D%E6%AD%BB-%E9%86%AB%E7%94%9F%E6%8C%87%E6%AD%BB%E8%80%85%E8%A1%80%E7%AE%A1%E5%A1%9E%E5%85%AB%E6%88%90-%E9%BB%83%E9%87%91%E6%95%91%E6%8F%B4%E5%8F%AA%E5%BE%975%E5%88%86%E9%90%98	未分類
 2026-09-25	33歲乘客巴士上猝死 醫生指死者八成血管塞 黃金救援只得5分鐘	https://www.hk01.com/article/60393747	未分類
-2026-09-24	關寶慧驚爆遇嚴重車禍留疤 慨嘆半年間痛失母親與好友雷宇揚 (22:10) - 20260924	https://ol.mingpao.com/ldy/showbiz/latest/20260924/1790258107510/%E9%97%9C%E5%AF%B6%E6%85%A7%E9%A9%9A%E7%88%86%E9%81%87%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E7%95%99%E7%96%A4-%E6%85%A8%E5%98%86%E5%8D%8A%E5%B9%B4%E9%96%93%E7%97%9B%E5%A4%B1%E6%AF%8D%E8%A6%AA%E8%88%87%E5%A5%BD%E5%8F%8B%E9%9B%B7%E5%AE%87%E6%8F%9A	未分類
-2026-09-24	關寶慧遇嚴重車禍手部扭曲變形留6吋疤痕 提雷宇揚離世傷心流淚	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393542/%E9%97%9C%E5%AF%B6%E6%85%A7%E9%81%87%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E6%89%8B%E9%83%A8%E6%89%AD%E6%9B%B2%E8%AE%8A%E5%BD%A2%E7%95%996%E5%90%8B%E7%96%A4%E7%97%95-%E6%8F%90%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96%E5%82%B7%E5%BF%83%E6%B5%81%E6%B7%9A	未分類
+2026-09-24	關寶慧驚爆遇嚴重車禍留疤 慨嘆半年間痛失母親與好友雷宇揚 (22:10) - 20260924	https://ol.mingpao.com/ldy/showbiz/latest/20260924/1790258107510/%E9%97%9C%E5%AF%B6%E6%85%A7%E9%A9%9A%E7%88%86%E9%81%87%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E7%95%99%E7%96%A4-%E6%85%A8%E5%98%86%E5%8D%8A%E5%B9%B4%E9%96%93%E7%97%9B%E5%A4%B1%E6%AF%8D%E8%A6%AA%E8%88%87%E5%A5%BD%E5%8F%8B%E9%9B%B7%E5%AE%87%E6%8F%9A	車禍
+2026-09-24	關寶慧遇嚴重車禍手部扭曲變形留6吋疤痕 提雷宇揚離世傷心流淚	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60393542/%E9%97%9C%E5%AF%B6%E6%85%A7%E9%81%87%E5%9A%B4%E9%87%8D%E8%BB%8A%E7%A6%8D%E6%89%8B%E9%83%A8%E6%89%AD%E6%9B%B2%E8%AE%8A%E5%BD%A2%E7%95%996%E5%90%8B%E7%96%A4%E7%97%95-%E6%8F%90%E9%9B%B7%E5%AE%87%E6%8F%9A%E9%9B%A2%E4%B8%96%E5%82%B7%E5%BF%83%E6%B5%81%E6%B7%9A	車禍
 2026-09-24	疑「攝車罅」衝紅燈 六旬婦遭貨車撞斃 - 20260924 - 港聞	https://news.mingpao.com/pns/港聞/article/20260924/s00002/1790186781094/疑「攝車罅」衝紅燈-六旬婦遭貨車撞斃	未分類
 2026-09-24	沙田有巴士與私家車相撞 4人送院	https://news.rthk.hk/rthk/ch/component/k2/1871299-20260924.htm	未分類
 2026-09-24	沙田凌晨有私家車疑失控撞巴士 4人受傷送院	https://www.orangenews.hk/hongkong/VW62AeC/沙田凌晨有私家車疑失控撞巴士-4人受傷送院.shtml	未分類
 2026-09-24	平價碳烤串燒15元起好吃不貴，網傳草船借箭浮誇串燒攤就是這間！	https://www.mecocute.com/capital-tankao/	未分類
-2026-09-24	地獄大狀丨關寶慧拍交通意外戲後即遇車禍 右手變7字型住院一個月 談雷宇揚失聲痛哭	https://www.stheadline.com/film-drama/3619018/%E5%9C%B0%E7%8D%84%E5%A4%A7%E7%8B%80%E4%B8%A8%E9%97%9C%E5%AF%B6%E6%85%A7%E6%8B%8D%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E6%88%B2%E5%BE%8C%E5%8D%B3%E9%81%87%E8%BB%8A%E7%A6%8D-%E5%8F%B3%E6%89%8B%E8%AE%8A7%E5%AD%97%E5%9E%8B%E4%BD%8F%E9%99%A2%E4%B8%80%E5%80%8B%E6%9C%88-%E8%AB%87%E9%9B%B7%E5%AE%87%E6%8F%9A%E5%A4%B1%E8%81%B2%E7%97%9B%E5%93%AD	未分類
-2026-09-24	AI惹禍？母親下葬吉日「選錯天」害親戚出車禍 陸男怒告字節跳動子公司	https://udn.com/news/story/7335/9776288	未分類
-2026-09-24	18個月大女嬰命危獲車禍離世男童捐肝續命 20年後嫁恩人弟弟締奇妙緣分	https://www.bastillepost.com/hongkong/article/16816574-18個月大女嬰命危獲車禍離世男童捐肝續命-20年後嫁	未分類
+2026-09-24	地獄大狀丨關寶慧拍交通意外戲後即遇車禍 右手變7字型住院一個月 談雷宇揚失聲痛哭	https://www.stheadline.com/film-drama/3619018/%E5%9C%B0%E7%8D%84%E5%A4%A7%E7%8B%80%E4%B8%A8%E9%97%9C%E5%AF%B6%E6%85%A7%E6%8B%8D%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E6%88%B2%E5%BE%8C%E5%8D%B3%E9%81%87%E8%BB%8A%E7%A6%8D-%E5%8F%B3%E6%89%8B%E8%AE%8A7%E5%AD%97%E5%9E%8B%E4%BD%8F%E9%99%A2%E4%B8%80%E5%80%8B%E6%9C%88-%E8%AB%87%E9%9B%B7%E5%AE%87%E6%8F%9A%E5%A4%B1%E8%81%B2%E7%97%9B%E5%93%AD	車禍
+2026-09-24	AI惹禍？母親下葬吉日「選錯天」害親戚出車禍 陸男怒告字節跳動子公司	https://udn.com/news/story/7335/9776288	車禍
+2026-09-24	18個月大女嬰命危獲車禍離世男童捐肝續命 20年後嫁恩人弟弟締奇妙緣分	https://www.bastillepost.com/hongkong/article/16816574-18個月大女嬰命危獲車禍離世男童捐肝續命-20年後嫁	車禍
 2026-09-23	高雄女遭台積電接駁車輾斃 母心碎認屍…舅慟：不敢看事發影片	https://www.ettoday.net/news/20260923/3242556.htm	未分類
 2026-09-23	田螺車錦田公路近高埔村撞斃六旬女子 (15:04) - 20260923 - 港聞	https://news.mingpao.com/ins/港聞/article/20260923/s00001/1790146775107/田螺車錦田公路近高埔村撞斃六旬女子	未分類
 2026-09-23	天水圍校巴的士相撞8學童受傷送院- 港聞	https://www.dotdotnews.com/a/202609/23/AP6ab34124e4b02724bdb552f1.html	未分類
 2026-09-23	天水圍校巴的士相撞 8學童不適送院	https://www.stheadline.com/breaking-news/3618383/天水圍校巴的士相撞-8學童不適送院	未分類
 2026-09-23	台積電接駁車輾斃女騎士！母認屍不忍看女兒15秒喪命影片：她只是出門買東西	https://tw.news.yahoo.com/台積電接駁車輾斃女騎士-母認屍不忍看女兒15秒喪命影片-她只是出門買東西-052153124.html	未分類
 2026-09-23	八鄉錦田公路泥頭車撞女子 昏迷送院搶救	https://www.hk01.com/突發/60392804/八鄉錦田公路泥頭車撞女子-昏迷送院搶救	未分類
-2026-09-23	八鄉致命車禍｜車CAM揭女途人疑衝燈攝車罅肇禍 途人紛救助	https://www.hk01.com/%E7%AA%81%E7%99%BC/60393118/%E5%85%AB%E9%84%89%E8%87%B4%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%BB%8Acam%E6%8F%AD%E5%A5%B3%E9%80%94%E4%BA%BA%E7%96%91%E8%A1%9D%E7%87%88%E6%94%9D%E8%BB%8A%E7%BD%85%E8%82%87%E7%A6%8D-%E9%80%94%E4%BA%BA%E7%B4%9B%E6%95%91%E5%8A%A9	未分類
+2026-09-23	八鄉致命車禍｜車CAM揭女途人疑衝燈攝車罅肇禍 途人紛救助	https://www.hk01.com/%E7%AA%81%E7%99%BC/60393118/%E5%85%AB%E9%84%89%E8%87%B4%E5%91%BD%E8%BB%8A%E7%A6%8D-%E8%BB%8Acam%E6%8F%AD%E5%A5%B3%E9%80%94%E4%BA%BA%E7%96%91%E8%A1%9D%E7%87%88%E6%94%9D%E8%BB%8A%E7%BD%85%E8%82%87%E7%A6%8D-%E9%80%94%E4%BA%BA%E7%B4%9B%E6%95%91%E5%8A%A9	車禍
 2026-09-23	八鄉六旬婦疑遭重型貨車撞斃 警籲目擊者提供資料	https://www.wenweipo.com/a/202609/23/AP6ab3996be4b01d54a28477c4.html	未分類
 2026-09-23	Tesla撞斃鐵騎女乘客 司機監10個月	https://orientaldaily.on.cc/content/要聞港聞/odn-20260923-0923_00176_022/Tesla撞斃鐵騎女乘客--司機監10個月	未分類
-2026-09-22	英女王後代路跑時推陌生女撞車 隱匿9年遭逮 保釋後離奇猝死	https://www.worldjournal.com/wj/story/121261/9764847?from=wj_nextnews_story&zh-cn	未分類
-2026-09-22	廣西田東縣發生交通意外 私家車與多輛電動單車碰撞致2死6傷	https://www.singtaousa.com/2026/09/22/news/china/guangxi-car-crashes-into-nine-e-bikes/	未分類
+2026-09-22	英女王後代路跑時推陌生女撞車 隱匿9年遭逮 保釋後離奇猝死	https://www.worldjournal.com/wj/story/121261/9764847?from=wj_nextnews_story&zh-cn	車禍
+2026-09-22	廣西田東縣發生交通意外 私家車與多輛電動單車碰撞致2死6傷	https://www.singtaousa.com/2026/09/22/news/china/guangxi-car-crashes-into-nine-e-bikes/	車禍
 2026-09-22	客貨車墮海8死3傷 司機誤判行車線肇禍	https://orientaldaily.on.cc/content/兩岸國際/odn-20260922-0922_00178_026/客貨車墮海8死3傷--司機誤判行車線肇禍	未分類
 2026-09-22	Tesla撞斃電單車女乘客 司機危駕罪成囚10月 官嘆兩家命運改寫	https://www.hk01.com/社會新聞/60392727/tesla撞斃電單車女乘客-司機危駕罪成囚10月-官嘆兩家命運改寫	未分類
-2026-09-22	10歲男童車禍離世捐肝救人 24歲女子長大後嫁「恩人親弟弟」	https://tw.news.yahoo.com/10歲男童車禍離世捐肝救人-24歲女子長大後嫁-恩人親弟弟-073626820.html	未分類
+2026-09-22	10歲男童車禍離世捐肝救人 24歲女子長大後嫁「恩人親弟弟」	https://tw.news.yahoo.com/10歲男童車禍離世捐肝救人-24歲女子長大後嫁-恩人親弟弟-073626820.html	車禍
 2026-09-21	馬鞍山廣場對開小巴撞倒長者夫婦 丈夫頭傷昏迷送院搶救	https://www.hk01.com/突發/60392197/馬鞍山廣場對開小巴撞倒長者夫婦-丈夫頭傷昏迷送院搶救	未分類
 2026-09-21	馬鞍山兩長者捱小巴撞 男子昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260921/bkn-20260921160018243-0921_00822_001.html	未分類
 2026-09-21	電動單車撞斃狗騎手重傷 飼主擔責一半	https://hk.on.cc/hk/bkn/cnt/news/20260921/bkn-20260921020430050-0921_00822_001.html	未分類
-2026-09-21	美國10歲男童車禍亡 捐肝救命危女嬰 20年後譜奇緣嫁恩人親弟	https://www.hk01.com/熱爆話題/60388395/美國10歲男童車禍亡-捐肝救命危女嬰-20年後譜奇緣嫁恩人親弟	未分類
+2026-09-21	美國10歲男童車禍亡 捐肝救命危女嬰 20年後譜奇緣嫁恩人親弟	https://www.hk01.com/熱爆話題/60388395/美國10歲男童車禍亡-捐肝救命危女嬰-20年後譜奇緣嫁恩人親弟	車禍
 2026-09-21	死有對証｜32歲周嘉全驚艷演技震撼網民！ 效力TVB10年低調離巢 曾高調表白李芷晴慘食檸檬	https://www.nmplus.hk/entertainment/死有對証-周嘉全-離巢-1656579/	未分類
 2026-09-21	客貨車墮海8死3傷 調查揭司機誤判行車線	https://hk.on.cc/hk/bkn/cnt/news/20260921/bkn-20260921080422230-0921_00822_001.html	未分類
 2026-09-21	吐露港公路9車連環相撞 一名司機輕傷	https://www.am730.com.hk/article/1054264	未分類
@@ -120,25 +114,25 @@ var DATA_TRAFFIC = `
 2026-09-21	台灣男子酒駕後「躺姿騎車」 失控狀態下高速撞斃女清潔員	https://www.kinliu.hk/news/社會/台灣男子酒駕後「躺姿騎車」-失控狀態下高速撞斃女清潔員/332313.html?id=129&from=home&bc1=首頁&bc1to=/	未分類
 2026-09-19	西貢私家車司機撞斃「浣熊」 警證實為果子狸 食環撿走屍體	https://hk.news.yahoo.com/西貢私家車司機撞斃-浣熊-警證實為果子狸-食環撿走屍體-023306447.html	未分類
 2026-09-19	西貢私家車司機報案稱撞斃「浣熊」 警證實果子狸 食環撿走屍體	https://www.hk01.com/突發/60391505/西貢私家車司機報案稱撞斃-浣熊-警證實果子狸-食環撿走屍體	未分類
-2026-09-19	英女王後代路跑時推陌生女撞車 隱匿9年遭逮 保釋後離奇猝死	https://www.worldjournal.com/wj/amp/story/121261/9764847	未分類
+2026-09-19	英女王後代路跑時推陌生女撞車 隱匿9年遭逮 保釋後離奇猝死	https://www.worldjournal.com/wj/amp/story/121261/9764847	車禍
 2026-09-19	紐約州兩架滑翔機空中相撞 1名飛行員死亡、另一機安全降落	https://tw.news.yahoo.com/紐約州兩架滑翔機空中相撞-1名飛行員死亡-另-機安全降落-082854645.html	未分類
-2026-09-19	旺角粉嶺公路兩宗運豬車翻側車禍一漢傷	https://hk.news.yahoo.com/%E6%97%BA%E8%A7%92%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E5%85%A9%E5%AE%97%E9%81%8B%E8%B1%AC%E8%BB%8A%E7%BF%BB%E5%81%B4%E8%BB%8A%E7%A6%8D-%E6%BC%A2%E5%82%B7-232059937.html	未分類
+2026-09-19	旺角粉嶺公路兩宗運豬車翻側車禍一漢傷	https://hk.news.yahoo.com/%E6%97%BA%E8%A7%92%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E5%85%A9%E5%AE%97%E9%81%8B%E8%B1%AC%E8%BB%8A%E7%BF%BB%E5%81%B4%E8%BB%8A%E7%A6%8D-%E6%BC%A2%E5%82%B7-232059937.html	車禍
 2026-09-19	女子搭巴士作嘔飆冷汗暈低全車乘客「車廂籌旗」集體大救人醒後驚見雙手被塞「呢兩樣神物」｜Juicy叮	https://www.stheadline.com/local-topics/3617111/女子搭巴士作嘔飆冷汗暈低-全車乘客車廂籌旗集體大救人-醒後驚見雙手被塞呢兩樣神物Juicy叮	未分類
 2026-09-19	台司機「未停讓行人」 新加坡遊客遭輾斃	https://www.worldjournal.com/wj/amp/story/121222/9764836	未分類
-2026-09-19	又再出事 #江若琳灣 #交通意外 #七人車 #am730	https://www.facebook.com/am730hk/posts/%E5%8F%88%E5%86%8D%E5%87%BA%E4%BA%8B%E6%B1%9F%E8%8B%A5%E7%90%B3%E7%81%A3-%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E4%B8%83%E4%BA%BA%E8%BB%8A-am730/1586110056889924/	未分類
+2026-09-19	又再出事 #江若琳灣 #交通意外 #七人車 #am730	https://www.facebook.com/am730hk/posts/%E5%8F%88%E5%86%8D%E5%87%BA%E4%BA%8B%E6%B1%9F%E8%8B%A5%E7%90%B3%E7%81%A3-%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E4%B8%83%E4%BA%BA%E8%BB%8A-am730/1586110056889924/	車禍
 2026-09-18	輾斃新加坡阿嬤國光客運涉嫌過失致死5萬元交保- 股市爆料同學會	https://www.cmoney.tw/forum/article/184819903	未分類
 2026-09-18	輾斃新加坡阿嬤 國光客運涉嫌過失致死5萬元交保	https://udn.com/news/amp/story/7320/9763211	未分類
 2026-09-18	車Cam直擊︱油塘男童衝馬路驚險擦撞受傷 目擊司機：差啲撞死佢	https://www.am730.com.hk/本地/1053992/車cam直擊-油塘男童衝馬路驚險擦撞受傷-目擊司機-差啲撞死佢	未分類
 2026-09-18	衝黃燈撞斃尼裔少女 Tesla司機判囚22月	https://orientaldaily.on.cc/content/要聞港聞/odn-20260918-0918_00176_221/衝黃燈撞斃尼裔少女--Tesla司機判囚22月	未分類
 2026-09-18	死有對証｜張詩欣飽受陳少邦家暴絕望下無淚控訴演繹極震撼「李莫仇」搣甩喜感挑戰複雜情緒嗌「好正」	https://www.bastillepost.com/hongkong/article/16795120-死有對証｜張詩欣飽受陳少邦家暴絕望下無淚控訴	未分類
 2026-09-18	死有對証劇情｜富二代殺妻案終於真相大白！張詩欣絕望下無淚控訴演繹極震撼	https://hk.ulifestyle.com.hk/topic/detail/20110545/死有對証劇情-富二代殺妻案終於真相大白-張詩欣絕望下無淚控訴演繹極震撼	未分類
-2026-09-18	有片丨油塘鯉魚門道驚險交通意外 男童衝紅燈遭貨車扯跌	https://www.hkcd.com.hk/content_app/2026-09/18/content_8775909.html	未分類
+2026-09-18	有片丨油塘鯉魚門道驚險交通意外 男童衝紅燈遭貨車扯跌	https://www.hkcd.com.hk/content_app/2026-09/18/content_8775909.html	車禍
 2026-09-18	新加坡阿嬤遭國光客運輾斃！司機涉過失致死「5萬元交保」 檢方相驗完畢遺體發還	https://tw.news.yahoo.com/新加坡阿嬤遭國光客運輾斃-司機涉過失致死-5萬元交保-檢方相驗完畢遺體發還-075600840.html	未分類
 2026-09-18	大埔輕型貨車疑撞斃72歲過路婦人 68歲司機被捕	https://news.rthk.hk/rthk/ch/component/k2/1870671-20260918.htm	未分類
-2026-09-18	大埔發生致命交通意外 一輕型貨車疑撞斃72歲過路婦人	https://www.hkcd.com.hk/hkcdweb/content/2026/09/18/content_8775928.html	未分類
+2026-09-18	大埔發生致命交通意外 一輕型貨車疑撞斃72歲過路婦人	https://www.hkcd.com.hk/hkcdweb/content/2026/09/18/content_8775928.html	車禍
 2026-09-18	「衝黃燈」撞死人 NGO幹事囚22月 - 20260918 - 港聞	https://news.mingpao.com/pns/港聞/article/20260918/s00002/1789667648863/「衝黃燈」撞死人-ngo幹事囚22月	未分類
 2026-09-18	72歲老婦過路遭客貨車撞昏迷 68歲司機結局曝光	https://www.weekendhk.com/矚目話題/大埔交通意外-老婦昏迷-危險駕駛-3508862/	未分類
-2026-09-17	金門大橋北側驚傳致命船難！25呎漁船突然撞岩翻沉，1死2人命危	https://www.singtaousa.com/2026/09/17/news/usa/3-injured-fishing-boat-hits-rocks-north-side-golden-gate-bridge-marin-county-sffd/	未分類
+2026-09-17	金門大橋北側驚傳致命船難！25呎漁船突然撞岩翻沉，1死2人命危	https://www.singtaousa.com/2026/09/17/news/usa/3-injured-fishing-boat-hits-rocks-north-side-golden-gate-bridge-marin-county-sffd/	船難
 2026-09-17	認衝黃燈撞斃19歲尼泊爾少女 Tesla司機判囚22個月 停牌5年	https://hk.on.cc/hk/bkn/cnt/news/20260917/bkn-20260917120437379-0917_00822_001.html	未分類
 2026-09-17	衝黃燈撞斃少女 司機判囚22個月停牌5年	https://hk.epochtimes.com/news/2026-09-17/88348603	未分類
 2026-09-17	衝黃燈撞斃19歲尼泊爾少女 Tesla司機判囚22月停牌5年	https://www.am730.com.hk/本地/1053641/衝黃燈撞斃19歲尼泊爾少女-tesla司機判囚22月停牌5年	未分類
@@ -148,26 +142,26 @@ var DATA_TRAFFIC = `
 2026-09-17	私家車司機涉「衝黃燈」撞斃19歲少女 官接納一時鹵莽 判囚22個月及停牌5年 (14:23) - 20260917 - 港聞	https://news.mingpao.com/ins/港聞/article/20260917/s00001/1789624160326/私家車司機涉「衝黃燈」撞斃19歲少女-官接納一時鹵莽-判囚22個月及停牌5年	未分類
 2026-09-17	男子涉衝黃燈撞斃少女 認罪被判囚22個月停牌5年	https://www.orangenews.hk/hongkong/VVRzfLP/男子涉衝黃燈撞斃少女-認罪被判囚22個月停牌5年.shtml	未分類
 2026-09-17	洛杉磯新聞直升機墜毀三人亡 空中報道發源地再添悲劇	https://www.bastillepost.com/hongkong/article/16787056-洛杉磯新聞直升機墜毀三人亡-空中報道發源地再添	未分類
-2026-09-17	有片丨美國電視台直升機 意外墜機3死2傷 直播畫面中斷	https://www.hkcd.com.hk/content_app/2026-09/17/content_8775670.html	未分類
+2026-09-17	有片丨美國電視台直升機 意外墜機3死2傷 直播畫面中斷	https://www.hkcd.com.hk/content_app/2026-09/17/content_8775670.html	墜機
 2026-09-17	Tesla司機衝黃燈撞斃不依燈號過路少女 承認危駕致死罪判監22個月	https://www.kinliu.hk/news/社會/Tesla司機衝黃燈撞斃不依燈號過路少女-承認危駕致死罪判監22個月/322578.html?id=58&from=channel&bc1=首頁&bc1to=/channel/INDEX?id=35&bc2=法庭&bc2to=/channel/Courts?id=107	未分類
 2026-09-17	Tesla司機衝黃燈撞斃19歲少女 官斥過路處加速不負責任 囚22月	https://www.hk01.com/article/60390959	未分類
 2026-09-17	19歲少女未轉燈過馬路遭私家車撞斃 司機衝黃燈認危駕致死罪 囚22個月停牌5年	https://www.bastillepost.com/hongkong/article/16786965-19歲少女未轉燈過馬路遭私家車撞斃-司機衝黃燈認	未分類
 2026-09-16	騎車上班遇死劫 女兒當場目擊76歲母遭曳引車輾斃崩潰哭	https://udn.com/news/amp/story/7320/9757572	未分類
-2026-09-16	馬爾他18 歲女舞者車禍亡家屬指安全氣囊彈開擊臉釀致命傷	https://www.bastillepost.com/hongkong/article/16770284-馬爾他18歲女舞者車禍亡-家屬指安全氣囊彈開擊臉	未分類
+2026-09-16	馬爾他18 歲女舞者車禍亡家屬指安全氣囊彈開擊臉釀致命傷	https://www.bastillepost.com/hongkong/article/16770284-馬爾他18歲女舞者車禍亡-家屬指安全氣囊彈開擊臉	車禍
 2026-09-16	荃灣大涌道兩車相撞 司機乘客共3人受傷送院	https://www.hk01.com/突發/60390487/荃灣大涌道兩車相撞-司機乘客共3人受傷送院	未分類
 2026-09-16	洛杉磯NBC新聞直升機墜毀 釀3死1傷	https://www.epochtimes.com/b5/26/9/16/n14850512.htm	未分類
 2026-09-16	母女騎車上班遇死劫！大寮市道188遭曳引車擦撞 76歲母遭後輪輾斃	https://tw.news.yahoo.com/母女騎車上班遇死劫-大寮市道188遭曳引車擦撞-76歲母遭後輪輾斃-032849892.html	未分類
 2026-09-16	司機衝黃燈撞斃過路少女判囚22個月 官指駕駛者須顧及行人安全	https://www.singtaousa.com/2026/09/16/news/china/driver-jailed-for-running-amber-light-fatal-crash/	未分類
 2026-09-16	今日新聞8分鐘｜升級艙無餐食 躁男發爛渣｜兩地牌車Cut線撼路牌	https://www.hk01.com/article/60390698	未分類
 2026-09-16	上班遇劫...她親睹母親遭輾斃 當場崩潰	https://news.ebc.net.tw/news/society/571517	未分類
-2026-09-16	NBC新聞直升機洛杉磯墜毀3死 女記者空中報道交通意外遇難｜有片	https://www.hk01.com/即時國際/60390655/nbc新聞直升機洛杉磯墜毀3死-女記者空中報道交通意外遇難-有片	未分類
-2026-09-15	洛杉磯新聞直升機採訪車禍墜毀 釀三死一傷慘劇	https://www.singtaousa.com/2026/09/15/news/usa/helicopter-crashes-and-bursts-into-flames-killing-at-least-3-people-near-an-la-bus-collision/	未分類
+2026-09-16	NBC新聞直升機洛杉磯墜毀3死 女記者空中報道交通意外遇難｜有片	https://www.hk01.com/即時國際/60390655/nbc新聞直升機洛杉磯墜毀3死-女記者空中報道交通意外遇難-有片	車禍
+2026-09-15	洛杉磯新聞直升機採訪車禍墜毀 釀三死一傷慘劇	https://www.singtaousa.com/2026/09/15/news/usa/helicopter-crashes-and-bursts-into-flames-killing-at-least-3-people-near-an-la-bus-collision/	車禍
 2026-09-15	小米測試車隊於新疆救援交通事故受困者，徐潔雲表達感謝	https://www.techritual.com/2026/09/15/582712/	未分類
 2026-09-15	內湖離奇死亡意外！老翁自撞坐石墩待救 下一秒慘摔水溝送醫亡	https://news.pchome.com.tw/society/m00361/20260915/index-78945930683235361002.html	未分類
 2026-09-14	采昌強檔新片【復活男】，即將在10月1日（四）於台灣震撼獻映！	https://www.nova.com.tw/article/eg/content/6aa79dfd481f4	未分類
 2026-09-14	權恩妃遇交通事故取消簽售會 發文報平安	https://hk.on.cc/hk/bkn/cnt/entertainment/20260914/bkn-20260914141402280-0914_00862_001.html	未分類
 2026-09-14	印尼渡輪爪哇海翻覆意外 已知6死129人失聯｜20260914 8點新世界	https://news.pts.org.tw/video/21989	未分類
-2026-09-14	23歲孝順仔車禍亡 單親媽媽忍痛簽字捐器官救7人 包括4歲病童受惠	https://www.stheadline.com/health-edu/3614249/23歲孝順仔車禍亡-單親媽媽忍痛簽字捐器官救7人-包括4歲病童受惠	未分類
+2026-09-14	23歲孝順仔車禍亡 單親媽媽忍痛簽字捐器官救7人 包括4歲病童受惠	https://www.stheadline.com/health-edu/3614249/23歲孝順仔車禍亡-單親媽媽忍痛簽字捐器官救7人-包括4歲病童受惠	車禍
 2026-09-14	(有片) 秀茂坪過路男遭的士撞飛重創昏迷送院救治- 香港	https://www.wenweipo.com/a/202609/14/AP6aa7baf9e4b01d54a2831f18.html	未分類
 2026-09-13	公職人員涉醉駕撞斃過路夫婦 警稱死者負次要責任	https://hk.on.cc/hk/bkn/cnt/news/20260913/bkn-20260913100623888-0913_00822_001.html	未分類
 2026-09-11	甩掉司機真的比較便宜？從特斯拉Cybercab 到楓葉出行無人小巴，看美中智慧駕駛版圖的路線之戰	https://news.knowing.asia/news/3e92965d-2e5f-4434-8142-5f32d894177f	未分類
@@ -181,7 +175,7 @@ var DATA_TRAFFIC = `
 2026-09-10	護理師遭輾亡！家境平凡感情超深 媽媽加油站上班、弟弟才找到工作「全家都崩潰」	https://tw.news.yahoo.com/護理師遭輾亡-家境平凡感情超深-媽媽加油站上班-弟弟才找到工作-全家都崩潰-072900044.html	未分類
 2026-09-10	護理師遭賓士男2度輾斃 民團提5訴求：淘汰不適任駕駛	https://udn.com/news/amp/story/7266/9746386	未分類
 2026-09-10	護理師下班被賓士輾斃 母淚崩要求凶手靈堂下跪	https://tw.news.yahoo.com/護理師下班被賓士輾斃-母淚崩要求凶手靈堂下跪-051538040.html	未分類
-2026-09-10	呢個灣難度幾⭐？！ #尖沙咀 #江若琳灣 #交通意外 #加連威老道 #am730	https://www.facebook.com/am730hk/posts/%E5%91%A2%E5%80%8B%E7%81%A3%E9%9B%A3%E5%BA%A6%E5%B9%BE%E5%B0%96%E6%B2%99%E5%92%80-%E6%B1%9F%E8%8B%A5%E7%90%B3%E7%81%A3-%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%8A%A0%E9%80%A3%E5%A8%81%E8%80%81%E9%81%93-am730/1576472811186982/	未分類
+2026-09-10	呢個灣難度幾⭐？！ #尖沙咀 #江若琳灣 #交通意外 #加連威老道 #am730	https://www.facebook.com/am730hk/posts/%E5%91%A2%E5%80%8B%E7%81%A3%E9%9B%A3%E5%BA%A6%E5%B9%BE%E5%B0%96%E6%B2%99%E5%92%80-%E6%B1%9F%E8%8B%A5%E7%90%B3%E7%81%A3-%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%8A%A0%E9%80%A3%E5%A8%81%E8%80%81%E9%81%93-am730/1576472811186982/	車禍
 2026-09-10	台中賓士男輾斃護理師！行人路權團體提5訴求：淘汰不適任駕駛| 社會	https://newtalk.tw/news/view/2026-09-10/1059020	未分類
 2026-09-10	冷血男輾斃護理師！看守所大睡大吃 網怒嗆「法律保護惡人」	https://www.setn.com/news/1905000	未分類
 2026-09-09	連翔道貨車私家車相撞 一人受傷送院 往葵涌部分行車線一度封閉	https://www.hk01.com/突發/60388369/連翔道貨車私家車相撞-一人受傷送院-往葵涌部分行車線一度封閉	未分類
@@ -193,12 +187,12 @@ var DATA_TRAFFIC = `
 2026-09-09	父逝後一肩扛起家計…女護理師遭二度輾斃柳川案發地湧白花悼念- 股市爆料同學會	https://www.cmoney.tw/forum/article/184477998	未分類
 2026-09-09	父逝後一肩扛起家計…女護理師遭二度輾斃 柳川案發地湧白花悼念	https://tw.news.yahoo.com/父逝後-肩扛起家計-女護理師遭二度輾斃-柳川案發地湧白花悼念-053220044.html	未分類
 2026-09-09	涉撞斃男途人 的士司機被控危駕 准保釋候訊 (18:40) - 20260909 - 港聞	https://news.mingpao.com/ins/港聞/article/20260909/s00001/1788948125674/涉撞斃男途人-的士司機被控危駕-准保釋候訊	未分類
-2026-09-09	李振瑋遇嚴重車禍 在加護病房住10天	https://www.singtaousa.com/2026/09/09/entertainment/li-zhen-wei-car-accident/	未分類
+2026-09-09	李振瑋遇嚴重車禍 在加護病房住10天	https://www.singtaousa.com/2026/09/09/entertainment/li-zhen-wei-car-accident/	車禍
 2026-09-09	撞死賠少別再信！賓士男二度輾斃護理師「疑逃賠償金」 律師闢謠：整體是錯的	https://tw.news.yahoo.com/撞死賠少別再信-賓士男二度輾斃護理師-疑逃賠償金-律師闢謠-整體是錯的-072100261.html	未分類
 2026-09-09	女護理師遭輾亡！弟招魂跪地20分鐘「連擲22次」才允杯 法師：應有些心願 | 社會 | CTWANT	https://www.ctwant.com/amp/article/497121/	未分類
 2026-09-09	女護理師遭輾亡！廢死聯盟「關留言也沒用」 被網友灌爆：人渣可教化？	https://tw.news.yahoo.com/女護理師遭輾亡-廢死聯盟-關留言也沒用-被網友灌爆-人渣可教化-070312985.html	未分類
-2026-09-09	元朗公路欖口村接連兩宗車禍涉及5車1人傷 包括兩輛消防處車輛	https://www.am730.com.hk/article/1052102	未分類
-2026-09-09	元朗公路一連兩宗車禍 共涉5車釀1傷 包括兩部消防處車輛	https://www.hk01.com/%E7%AA%81%E7%99%BC/60388152/%E5%85%83%E6%9C%97%E5%85%AC%E8%B7%AF%E4%B8%80%E9%80%A3%E5%85%A9%E5%AE%97%E8%BB%8A%E7%A6%8D-%E5%85%B1%E6%B6%895%E8%BB%8A%E9%87%801%E5%82%B7-%E5%8C%85%E6%8B%AC%E5%85%A9%E9%83%A8%E6%B6%88%E9%98%B2%E8%99%95%E8%BB%8A%E8%BC%9B	未分類
+2026-09-09	元朗公路欖口村接連兩宗車禍涉及5車1人傷 包括兩輛消防處車輛	https://www.am730.com.hk/article/1052102	車禍
+2026-09-09	元朗公路一連兩宗車禍 共涉5車釀1傷 包括兩部消防處車輛	https://www.hk01.com/%E7%AA%81%E7%99%BC/60388152/%E5%85%83%E6%9C%97%E5%85%AC%E8%B7%AF%E4%B8%80%E9%80%A3%E5%85%A9%E5%AE%97%E8%BB%8A%E7%A6%8D-%E5%85%B1%E6%B6%895%E8%BB%8A%E9%87%801%E5%82%B7-%E5%8C%85%E6%8B%AC%E5%85%A9%E9%83%A8%E6%B6%88%E9%98%B2%E8%99%95%E8%BB%8A%E8%BC%9B	車禍
 2026-09-09	二度輾斃護理師…狠男竟稱「覺得被針對」 法院急收押：恐會再犯！	https://udn.com/news/amp/story/7315/9743248	未分類
 2026-09-08	高雄男闖入平交道遭台鐵自強號撞擊 「屍首分離」當場死亡 | 社會 | CTWANT	https://www.ctwant.com/amp/article/496930/	未分類
 2026-09-08	護理師被賓士男撞飛再輾斃！家屬悲慟認屍 母崩潰大哭惹鼻酸	https://www.ettoday.net/news/20260908/3233623.htm	未分類
@@ -210,20 +204,20 @@ var DATA_TRAFFIC = `
 2026-09-08	兩度折返輾斃護理師！賓士惡男正面照曝光…深夜投案「全程面無表情」 台中市今（8）日凌晨發生駭人命案，一名38歲陳姓護理師下班返家途中，行經柳川東路遭30歲林姓男子駕駛賓士車撞飛。林男不僅未救人，竟冷血掉頭二度輾壓，導致陳女頭顱...	https://tw.news.yahoo.com/%E5%85%A9%E5%BA%A6%E6%8A%98%E8%BF%94%E8%BC%BE%E6%96%83%E8%AD%B7%E7%90%86%E5%B8%AB-%E8%B3%93%E5%A3%AB%E6%83%A1%E7%94%B7%E6%AD%A3%E9%9D%A2%E7%85%A7%E6%9B%9D%E5%85%89-%E6%B7%B1%E5%A4%9C%E6%8A%95%E6%A1%88-%E5%85%A8%E7%A8%8B%E9%9D%A2%E7%84%A1%E8%A1%A8%E6%83%85-071100888.html	未分類
 2026-09-08	兩度折返輾斃護理師！賓士惡男正面照曝光…深夜投案「全程面無表情」	https://tw.news.yahoo.com/兩度折返輾斃護理師-賓士惡男正面照曝光-深夜投案-全程面無表情-071100888.html	未分類
 2026-09-08	30歲男撞飛護理師「迴轉輾斃」 殺人罪偵辦！供稱：怕賠錢	https://tw.news.yahoo.com/30歲男撞飛護理師-迴轉輾斃-殺人罪偵辦-供稱-怕賠錢-024100852.html	未分類
-2026-09-07	龍翔道半小時內兩宗交通意外 致東行方向一度大塞車	https://www.stheadline.com/breaking-news/3612662/%E9%BE%8D%E7%BF%94%E9%81%93%E5%8D%8A%E5%B0%8F%E6%99%82%E5%85%A7%E5%85%A9%E5%AE%97%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E8%87%B4%E6%9D%B1%E8%A1%8C%E6%96%B9%E5%90%91%E4%B8%80%E5%BA%A6%E5%A4%A7%E5%A1%9E%E8%BB%8A	未分類
+2026-09-07	龍翔道半小時內兩宗交通意外 致東行方向一度大塞車	https://www.stheadline.com/breaking-news/3612662/%E9%BE%8D%E7%BF%94%E9%81%93%E5%8D%8A%E5%B0%8F%E6%99%82%E5%85%A7%E5%85%A9%E5%AE%97%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E8%87%B4%E6%9D%B1%E8%A1%8C%E6%96%B9%E5%90%91%E4%B8%80%E5%BA%A6%E5%A4%A7%E5%A1%9E%E8%BB%8A	車禍
 2026-09-07	灣仔過路婦遭旅遊巴撞斃 6旬司機被控危駕 准保釋至9.24區院提訊	https://hk.on.cc/hk/bkn/cnt/news/20260907/bkn-20260907144905751-0907_00822_001.html	未分類
 2026-09-07	湾仔过路妇遭旅游巴撞毙6旬司机被控危驾准保释至9.24区院提讯｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260907/bkn-20260907144905751-0907_00822_001_cn.html	未分類
 2026-09-07	汀九橋兩輕型貨車相撞 兩人受傷 交通一度受阻	https://www.singtaousa.com/2026/09/07/news/china/two-lorries-collide-ting-kau-bridge-injuries/	未分類
-2026-09-07	大馬青年車禍離世 家屬忍痛捐4類組織助至少8 病患醫護列隊送最後一程	https://www.bastillepost.com/hongkong/article/16612333-大馬青年車禍離世-家屬忍痛捐4類組織助至少8病患	未分類
-2026-09-07	佛得角全國悼念25名車禍遇難者 政府設危機組並派遣醫療隊	https://news.rthk.hk/rthk/ch/component/k2/1869049-20260907.htm	未分類
+2026-09-07	大馬青年車禍離世 家屬忍痛捐4類組織助至少8 病患醫護列隊送最後一程	https://www.bastillepost.com/hongkong/article/16612333-大馬青年車禍離世-家屬忍痛捐4類組織助至少8病患	車禍
+2026-09-07	佛得角全國悼念25名車禍遇難者 政府設危機組並派遣醫療隊	https://news.rthk.hk/rthk/ch/component/k2/1869049-20260907.htm	車禍
 2026-09-07	【堅有片】西貢九巴外勤車越線撼單車漢 2人受傷清醒送院涉事司機被停職	https://www.kinliu.hk/news/堅有片/【堅有片】西貢九巴外勤車越線撼單車漢-2人受傷清醒送院涉事司機被停職/298208.html?id=69&from=home&bc1=首頁&bc1to=/	未分類
 2026-09-07	62歲旅遊巴司機涉灣仔道撞斃八旬婦 押後轉介區院	https://thewitnesshk.com/62歲旅遊巴司機涉灣仔道撞斃八旬婦-押後轉介區院/	未分類
 2026-09-06	香港仔隧道出口電單車失控掃欄南亞裔鐵騎士昏迷送院- 港聞	https://www.dotdotnews.com/a/202609/06/AP6a9d0a9ce4b02724bdb3989e.html	未分類
 2026-09-06	觀塘駿業街兩車對撼53歲男司機「吹爆波」涉酒駕被捕- 港聞	https://www.dotdotnews.com/a/202609/06/AP6a9d27d8e4b02724bdb39b0d.html	未分類
-2026-09-06	各位騎士要小心啲呀 #交通意外 #車禍 #單車 #am730	https://www.facebook.com/am730hk/posts/%E5%90%84%E4%BD%8D%E9%A8%8E%E5%A3%AB%E8%A6%81%E5%B0%8F%E5%BF%83%E5%95%B2%E5%91%80%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E8%BB%8A%E7%A6%8D-%E5%96%AE%E8%BB%8A-am730/1572574348243495/	未分類
-2026-09-06	佛得角南部嚴重車禍至少25死 大部分是青少年	https://news.rthk.hk/rthk/ch/component/k2/1869028-20260906.htm	未分類
+2026-09-06	各位騎士要小心啲呀 #交通意外 #車禍 #單車 #am730	https://www.facebook.com/am730hk/posts/%E5%90%84%E4%BD%8D%E9%A8%8E%E5%A3%AB%E8%A6%81%E5%B0%8F%E5%BF%83%E5%95%B2%E5%91%80%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E8%BB%8A%E7%A6%8D-%E5%96%AE%E8%BB%8A-am730/1572574348243495/	車禍
+2026-09-06	佛得角南部嚴重車禍至少25死 大部分是青少年	https://news.rthk.hk/rthk/ch/component/k2/1869028-20260906.htm	車禍
 2026-09-05	車Cam直擊｜東區走廊3車相撞 54歲司機送院搶救不治 （更新）	https://hk.news.yahoo.com/車cam直擊-東區走廊3車相撞-54歲司機送院搶救不治-更新-040506441.html	未分類
-2026-09-05	花蓮台9線「祖孫雙亡」車禍 恐怖畫面曝光！	https://news.ebc.net.tw/news/society/569778	未分類
+2026-09-05	花蓮台9線「祖孫雙亡」車禍 恐怖畫面曝光！	https://news.ebc.net.tw/news/society/569778	車禍
 2026-09-05	挺陳幸妤搶看《包公斬駙馬》！現場豪撒2.5萬現金民眾狂搶 震撼畫面曝	https://www.setn.com/ampnews/1901892	未分類
 2026-09-05	屯門公路近青龍頭6車相撞釀2傷 出九龍一度擠塞現車龍	https://www.stheadline.com/breaking-news/3612021/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E8%BF%91%E9%9D%92%E9%BE%8D%E9%A0%AD6%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%802%E5%82%B7-%E5%87%BA%E4%B9%9D%E9%BE%8D%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E%E7%8F%BE%E8%BB%8A%E9%BE%8D	未分類
 2026-09-04	謝安琪學電單車暈倒怕見報拒入院 胡子彤朱鑑然愕然古天樂被追債 - 20260904 - 每日明報 影片	https://news.mingpao.com/pns/娛樂/video/20260904/s00016/1788454349889/1788454349888	未分類
@@ -235,13 +229,13 @@ var DATA_TRAFFIC = `
 2026-09-04	自撞國道鼻頭島…車撞稀爛42歲男自行脫困「竟離奇墜橋身亡」他死因成謎	https://www.setn.com/ampnews/1901278	未分類
 2026-09-04	撞死過路尼裔少女 男司機「衝黃燈」認罪	https://www.stheadline.com/daily-hongkong/3611481/撞死過路尼裔少女-男司機衝黃燈認罪	未分類
 2026-09-04	女涉在密爾比達撞死好友 另一好友2小時後聖荷西遇刺	https://www.worldjournal.com/wj/amp/story/121368/9734595	未分類
-2026-09-04	偕女友人消夜回程遇車禍 鐵騎士西九公路遭私家車撞一度昏迷	https://hk.on.cc/hk/bkn/cnt/news/20260904/bkn-20260904034718073-0904_00822_001.html	未分類
+2026-09-04	偕女友人消夜回程遇車禍 鐵騎士西九公路遭私家車撞一度昏迷	https://hk.on.cc/hk/bkn/cnt/news/20260904/bkn-20260904034718073-0904_00822_001.html	車禍
 2026-09-03	認衝黃燈撞斃19歲尼泊爾少女 Tesla司機還押至9.17判刑	https://hk.on.cc/hk/bkn/cnt/news/20260903/bkn-20260903154514300-0903_00822_001.html	未分類
 2026-09-03	衝黃燈撞斃19歲尼泊爾少女 31歲司機認危駕還押9.17判刑	https://www.am730.com.hk/本地/1051131/衝黃燈撞斃19歲尼泊爾少女-31歲司機認危駕還押9.17判刑	未分類
-2026-09-03	發生交通意外後沒有報案	https://thewitnesshk.com/tag/%E7%99%BC%E7%94%9F%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E5%BE%8C%E6%B2%92%E6%9C%89%E5%A0%B1%E6%A1%88/	未分類
-2026-09-03	發生交通意外後沒有停車	https://thewitnesshk.com/tag/%E7%99%BC%E7%94%9F%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E5%BE%8C%E6%B2%92%E6%9C%89%E5%81%9C%E8%BB%8A/	未分類
+2026-09-03	發生交通意外後沒有報案	https://thewitnesshk.com/tag/%E7%99%BC%E7%94%9F%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E5%BE%8C%E6%B2%92%E6%9C%89%E5%A0%B1%E6%A1%88/	車禍
+2026-09-03	發生交通意外後沒有停車	https://thewitnesshk.com/tag/%E7%99%BC%E7%94%9F%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E5%BE%8C%E6%B2%92%E6%9C%89%E5%81%9C%E8%BB%8A/	車禍
 2026-09-03	猛撞畫面曝！路面坑洞成「死亡陷阱」 2曳引車閃避不及雙雙衝上分隔島	https://news.pchome.com.tw/society/ctinews/20260903/index-78842462705581309002.html	未分類
-2026-09-03	校園車禍校巴撞校巴 8童受傷受驚送院 - 20260903 - 港聞	https://news.mingpao.com/pns/港聞/article/20260903/s00002/1788371904094/校園車禍校巴撞校巴-8童受傷受驚送院	未分類
+2026-09-03	校園車禍校巴撞校巴 8童受傷受驚送院 - 20260903 - 港聞	https://news.mingpao.com/pns/港聞/article/20260903/s00002/1788371904094/校園車禍校巴撞校巴-8童受傷受驚送院	車禍
 2026-09-03	旺角太子道西3車連環相撞 女乘客頭傷送院	https://www.am730.com.hk/本地/1051083/旺角太子道西3車連環相撞-女乘客頭傷送院	未分類
 2026-09-03	慈雲山老婦遭貨車撞斃 26歲司機續准保10.29再訊	https://hk.on.cc/hk/bkn/cnt/news/20260903/bkn-20260903174937044-0903_00822_001.html	未分類
 2026-09-03	慈云山老妇遭货车撞毙26岁司机续准保10.29再讯｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20260903/bkn-20260903174937044-0903_00822_001_cn.html	未分類
@@ -249,7 +243,7 @@ var DATA_TRAFFIC = `
 2026-09-03	埃及旅遊巴士在沙漠公路翻覆 釀22死28傷	https://www.epochtimes.com/b5/26/9/3/n14841870.htm	未分類
 2026-09-03	埃及巴士翻覆事故22死交通安全與小巴管理成難題| 國際	https://www.cna.com.tw/news/aopl/202609030327.aspx	未分類
 2026-09-03	國道自撞扯出情殺洗屍！殯葬男怒勒女友重判12年 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260903/index-78842077570809309002.html	未分類
-2026-09-03	吐露港公路發生兩交通意外 往九龍方向交通受阻	https://hk.on.cc/hk/bkn/cnt/news/20260903/bkn-20260903071616580-0903_00822_001.html	未分類
+2026-09-03	吐露港公路發生兩交通意外 往九龍方向交通受阻	https://hk.on.cc/hk/bkn/cnt/news/20260903/bkn-20260903071616580-0903_00822_001.html	車禍
 2026-09-03	与检方达成协议避监禁 老虎伍兹驾照吊扣5年 美国高尔夫球名将“老虎”伍兹于今年3月底在佛罗里达州住所附近发生翻车事故，引发法律诉讼。他于9月2日出庭，就“鲁莽驾驶”指控与检方达成认罪协定，被判处吊销驾驶执照5...	https://atvnewsonline.com/uncategorized/%E4%B8%8E%E6%A3%80%E6%96%B9%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E9%81%BF%E7%9B%91%E7%A6%81-%E8%80%81%E8%99%8E%E4%BC%8D%E5%85%B9%E9%A9%BE%E7%85%A7%E5%90%8A%E6%89%A35%E5%B9%B4/	未分類
 2026-09-03	【粮食大事】国际粮市风浪难撼中国饭碗	http://www.ce.cn/cysc/newmain/yc/jsxw/202609/t20260903_3189136.shtml	未分類
 2026-09-03	「老虎」伍茲就交通事故達成認罪協議免於入獄- 國際	https://www.wenweipo.com/a/202609/03/AP6a994cfee4b0c1e50027660d.html	未分類
@@ -260,43 +254,43 @@ var DATA_TRAFFIC = `
 2026-09-02	牛池灣扎山道兩校巴相撞 多人受傷	https://www.hk01.com/突發/60386092/牛池灣扎山道兩校巴相撞-多人受傷	未分類
 2026-09-02	埃及西奈半島驚傳巴士翻覆事故 釀22死28人受傷	https://www.ftvnews.com.tw/news/detail/2026902W0695	未分類
 2026-09-01	開學日｜大角咀14歲男學生Tesla送返學 落車後遭車轆輾傷腳送院	https://www.stheadline.com/breaking-news/3610297/開學日大角咀14歲男學生Tesla送返學-落車後遭車轆輾傷腳送院	未分類
-2026-09-01	影/悚！國3和美段自撞車頭毀爛 42歲男20米高空墜橋亡	https://news.pchome.com.tw/society/ctinews/20260901/index-78822825719538309002.html	未分類
+2026-09-01	影/悚！國3和美段自撞車頭毀爛 42歲男20米高空墜橋亡	https://news.pchome.com.tw/society/ctinews/20260901/index-78822825719538309002.html	車禍
 2026-09-01	將軍澳29歲女途人遭車撞昏迷送院肇事私家車再被尾隨小巴追撞- 港聞	https://www.dotdotnews.com/a/202609/01/AP6a96e4c7e4b02724bdb32031.html	未分類
 2026-09-01	將軍澳29歲女途人遭車撞昏迷肇事私家車再被尾隨小巴追撞- 香港	https://www.wenweipo.com/a/202609/01/AP6a96ded1e4b0c1e50027228b.html	未分類
 2026-09-01	大角咀男學生遭父親私家車輾傷腳 送院治理	https://m.hkej.com/landing/mobarticle2/id/4500582/大角咀男學生遭父親私家車輾傷腳 送院治理	未分類
 2026-09-01	大角咀男子駕Tesla送兒子返學 14歲男生落車後被尾轆輾傷送院	https://hk.news.yahoo.com/大角咀男子駕tesla送兒子返學-14歲男生落車後被尾轆輾傷送院-022202514.html	未分類
 2026-09-01	大角咀有乘坐私家車上學中學生下車時被輾傷腳 送院治理	https://news.tvb.com/tc/1192621-大角咀有乘坐私家車上學中學生下車時被輾傷腳送院治理	未分類
-2026-09-01	國道三號和美段離奇車禍！轎車自撞分隔島 駕駛墜落高架橋亡	https://tw.news.yahoo.com/國道三號和美段離奇車禍！轎車自撞分隔島-駕駛墜落高架橋亡-031354732.html	未分類
+2026-09-01	國道三號和美段離奇車禍！轎車自撞分隔島 駕駛墜落高架橋亡	https://tw.news.yahoo.com/國道三號和美段離奇車禍！轎車自撞分隔島-駕駛墜落高架橋亡-031354732.html	車禍
 2026-09-01	全球利率地震：日本殖利率衝破3%撼動美債與科技股資金版圖	https://cmnews.com.tw/article/cmoneyairesearcher-cedf6b76-a5d2-11f1-a72d-bfa436990cd9	未分類
 2026-09-01	14歲男生開學日 落車後遭Tesla輾腳送院	https://www.kinliu.hk/news/熱點/14歲男生開學日-落車後遭Tesla輾腳送院/279174.html?id=51&from=channel&bc1=首頁&bc1to=/channel/INDEX?id=35&bc2=港聞&bc2to=/channel/Hong-Kong?id=106	未分類
 2026-08-31	紐約市華裔護士下夜班過馬路遭撞亡 肇事駕駛逃逸	https://www.worldjournal.com/wj/amp/story/121382/9723985	未分類
-2026-08-31	塞浦路斯渡輪沉沒釀8 死倖存者憶述恐慌經歷	https://www.bastillepost.com/hongkong/article/16674892-塞浦路斯渡輪沉沒釀8死-倖存者憶述恐慌經歷	未分類
+2026-08-31	塞浦路斯渡輪沉沒釀8 死倖存者憶述恐慌經歷	https://www.bastillepost.com/hongkong/article/16674892-塞浦路斯渡輪沉沒釀8死-倖存者憶述恐慌經歷	船難
 2026-08-31	北賽普勒斯渡輪翻覆釀8死 船長及船員遭逮捕	https://news.pts.org.tw/article/824816	未分類
 2026-08-31	剛下夜班華裔護士遭撞亡 距醫院僅一街區	https://www.epochtimes.com/b5/26/8/31/n14839719.htm/amp	未分類
-2026-08-29	警方拘捕34歲尼泊爾裔男司機 #葵涌 #車禍 #垃圾車 #am730	https://www.facebook.com/am730hk/posts/%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%9534%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E8%A3%94%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%91%B5%E6%B6%8C-%E8%BB%8A%E7%A6%8D-%E5%9E%83%E5%9C%BE%E8%BB%8A-am730/1563917175775879/	未分類
+2026-08-29	警方拘捕34歲尼泊爾裔男司機 #葵涌 #車禍 #垃圾車 #am730	https://www.facebook.com/am730hk/posts/%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%9534%E6%AD%B2%E5%B0%BC%E6%B3%8A%E7%88%BE%E8%A3%94%E7%94%B7%E5%8F%B8%E6%A9%9F%E8%91%B5%E6%B6%8C-%E8%BB%8A%E7%A6%8D-%E5%9E%83%E5%9C%BE%E8%BB%8A-am730/1563917175775879/	車禍
 2026-08-29	拾荒婦拖紙皮過馬路 垃圾車不察輾斃 - 20260829 - 港聞	https://news.mingpao.com/pns/港聞/article/20260829/s00002/1787940112208/拾荒婦拖紙皮過馬路-垃圾車不察輾斃	未分類
-2026-08-29	Jisoo最寵她的Dior公關驚傳車禍亡！57歲Mathilde Favier猝逝	https://n.yam.com/Article/20260819372595	未分類
+2026-08-29	Jisoo最寵她的Dior公關驚傳車禍亡！57歲Mathilde Favier猝逝	https://n.yam.com/Article/20260819372595	車禍
 2026-08-28	（有片）葵涌老婦捱垃圾車撞斃車底遺紙皮手拉車- 港聞	https://www.dotdotnews.com/a/202608/28/AP6a910b9fe4b04b6c5d3818ac.html	未分類
 2026-08-28	（有片）葵涌垃級車撞斃過路老婦- 香港	https://www.wenweipo.com/a/202608/28/AP6a911085e4b0c1e5002690d8.html	未分類
 2026-08-28	葵芳老婦推車過馬路捱撞 遭垃圾車捲入車底當場不治	https://www.orangenews.hk/hongkong/VTYi6sm/葵芳老婦推車過馬路捱撞-遭垃圾車捲入車底當場不治.shtml	未分類
 2026-08-28	葵芳垃圾車撞斃女途人 尼泊爾裔司機涉危駕被捕	http://hk.on.cc/hk/bkn/cnt/news/20260828/mobile/bkn-20260828102516040-0828_00822_001.html?editorpickDate=20260829&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	未分類
-2026-08-28	葵芳垃圾車撞斃女途人 南亞裔司機涉危駕被捕扣查 葵芳發生交通意外。今日(28日)早上10時10分，一輛垃圾車駛至興寧路12號新都會廣場對開時，撞倒一名由車頭左至右過路的女途人...	https://hk.news.yahoo.com/%E8%91%B5%E8%8A%B3%E5%9E%83%E5%9C%BE%E8%BB%8A%E6%92%9E%E6%96%83%E5%A5%B3%E9%80%94%E4%BA%BA-%E5%8D%97%E4%BA%9E%E8%A3%94%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95%E6%89%A3%E6%9F%A5-040131650.html	未分類
+2026-08-28	葵芳垃圾車撞斃女途人 南亞裔司機涉危駕被捕扣查 葵芳發生交通意外。今日(28日)早上10時10分，一輛垃圾車駛至興寧路12號新都會廣場對開時，撞倒一名由車頭左至右過路的女途人...	https://hk.news.yahoo.com/%E8%91%B5%E8%8A%B3%E5%9E%83%E5%9C%BE%E8%BB%8A%E6%92%9E%E6%96%83%E5%A5%B3%E9%80%94%E4%BA%BA-%E5%8D%97%E4%BA%9E%E8%A3%94%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95%E6%89%A3%E6%9F%A5-040131650.html	車禍
 2026-08-28	葵芳垃圾車撞斃女途人 南亞裔司機涉危駕被捕扣查	https://hk.news.yahoo.com/葵芳垃圾車撞斃女途人-南亞裔司機涉危駕被捕扣查-040131650.html	未分類
 2026-08-28	葵涌道小巴疑失控翻側 司機受傷送院	https://news.rthk.hk/rthk/ch/component/k2/1867883-20260828.htm	未分類
 2026-08-28	葵涌道小巴失事撞壆翻側 司機受傷送院	https://hk.news.yahoo.com/葵涌道小巴失事撞壆翻側-司機受傷送院-023525778.html	未分類
-2026-08-28	葵涌興寧路近新都會廣場 女途人捱垃圾車撞當場亡 車底遺手拉車 葵涌發生奪命車禍。今日（28日）早上10時10分，興寧路12號近新都會廣場對開，一輛垃圾車撞倒一名女途人。事主陷入昏迷，救援人員趕抵證實她當場不.	https://www.hk01.com/%E7%AA%81%E7%99%BC/60384467/%E8%91%B5%E6%B6%8C%E8%88%88%E5%AF%A7%E8%B7%AF%E8%BF%91%E6%96%B0%E9%83%BD%E6%9C%83%E5%BB%A3%E5%A0%B4-%E5%A5%B3%E9%80%94%E4%BA%BA%E6%8D%B1%E5%9E%83%E5%9C%BE%E8%BB%8A%E6%92%9E%E7%95%B6%E5%A0%B4%E4%BA%A1-%E8%BB%8A%E5%BA%95%E9%81%BA%E6%89%8B%E6%8B%89%E8%BB%8A	未分類
-2026-08-28	葵涌興寧路奪命車禍｜垃圾車撞斃老婦 南亞裔司機涉危駕致死被捕	https://www.hk01.com/突發/60384550/葵涌興寧路奪命車禍-垃圾車撞斃老婦-南亞裔司機涉危駕致死被捕	未分類
+2026-08-28	葵涌興寧路近新都會廣場 女途人捱垃圾車撞當場亡 車底遺手拉車 葵涌發生奪命車禍。今日（28日）早上10時10分，興寧路12號近新都會廣場對開，一輛垃圾車撞倒一名女途人。事主陷入昏迷，救援人員趕抵證實她當場不.	https://www.hk01.com/%E7%AA%81%E7%99%BC/60384467/%E8%91%B5%E6%B6%8C%E8%88%88%E5%AF%A7%E8%B7%AF%E8%BF%91%E6%96%B0%E9%83%BD%E6%9C%83%E5%BB%A3%E5%A0%B4-%E5%A5%B3%E9%80%94%E4%BA%BA%E6%8D%B1%E5%9E%83%E5%9C%BE%E8%BB%8A%E6%92%9E%E7%95%B6%E5%A0%B4%E4%BA%A1-%E8%BB%8A%E5%BA%95%E9%81%BA%E6%89%8B%E6%8B%89%E8%BB%8A	車禍
+2026-08-28	葵涌興寧路奪命車禍｜垃圾車撞斃老婦 南亞裔司機涉危駕致死被捕	https://www.hk01.com/突發/60384550/葵涌興寧路奪命車禍-垃圾車撞斃老婦-南亞裔司機涉危駕致死被捕	車禍
 2026-08-28	葵涌垃圾車撞斃過路老婦 南亞裔司機報稱不適送院	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/498756/%E8%91%B5%E6%B6%8C%E5%9E%83%E5%9C%BE%E8%BB%8A%E6%92%9E%E6%96%83%E9%81%8E%E8%B7%AF%E8%80%81%E5%A9%A6-%E5%8D%97%E4%BA%9E%E8%A3%94%E5%8F%B8%E6%A9%9F%E5%A0%B1%E7%A8%B1%E4%B8%8D%E9%81%A9%E9%80%81	未分類
 2026-08-28	葵涌垃圾車撞斃老婦 司機涉危駕被捕 (11:33) - 20260828 - 港聞	https://news.mingpao.com/ins/港聞/article/20260828/s00001/1787887183981/葵涌垃圾車撞斃老婦-司機涉危駕被捕	未分類
-2026-08-28	耶魯華生車禍亡 喬州米爾頓市賠千萬並以橋命名	https://www.worldjournal.com/wj/amp/story/121172/9721314	未分類
+2026-08-28	耶魯華生車禍亡 喬州米爾頓市賠千萬並以橋命名	https://www.worldjournal.com/wj/amp/story/121172/9721314	車禍
 2026-08-28	結業潮｜牛頭角串燒店8月31日結業 8元串燒成絕響 同場大牌檔續飄鑊氣 |香港經濟日報	https://ps.hket.com/article/4184520/%E7%B5%90%E6%A5%AD%E6%BD%AE%EF%BD%9C%E7%89%9B%E9%A0%AD%E8%A7%92%E4%B8%B2%E7%87%92%E5%BA%978%E6%9C%8831%E6%97%A5%E7%B5%90%E6%A5%AD%208%E5%85%83%E4%B8%B2%E7%87%92%E6%88%90%E7%B5%95%E9%9F%BF%20%E5%90%8C%E5%A0%B4%E5%A4%A7%E7%89%8C%E6%AA%94%E7%BA%8C%E9%A3%84%E9%91%8A%E6%B0%A3%C2%A0	未分類
 2026-08-28	今日新聞8分鐘｜輕鐵4老疑爭位爆粗混戰｜葵涌7旬婦捱垃圾車撞斃	https://www.hk01.com/社會新聞/60384736/今日新聞8分鐘-輕鐵4老疑爭位爆粗混戰-葵涌7旬婦捱垃圾車撞斃	未分類
 2026-08-27	荃灣的士與七人車相撞 司機一度昏迷 (16:33) - 20260827 - 港聞	https://news.mingpao.com/ins/港聞/article/20260827/s00001/1787819013465/荃灣的士與七人車相撞-司機一度昏迷	未分類
 2026-08-27	荃灣海安路七人車與的士相撞釀多傷的士司機昏迷送院- 港聞	https://www.dotdotnews.com/a/202608/27/AP6a8fe445e4b04b6c5d37fe32.html	未分類
-2026-08-27	灣區聖他克拉快速道路車禍 兩司機亡	https://www.singtaousa.com/2026/08/27/news/usa/2-killed-in-fiery-santa-clara-crash-after-wrong-way-high-speed-collision/	未分類
+2026-08-27	灣區聖他克拉快速道路車禍 兩司機亡	https://www.singtaousa.com/2026/08/27/news/usa/2-killed-in-fiery-santa-clara-crash-after-wrong-way-high-speed-collision/	車禍
 2026-08-27	機車事故占交通死亡人數過半 醫師：時速90撞擊力如10樓墜落	https://news.pts.org.tw/article/824445	未分類
-2026-08-27	古納轎車自翻車禍夺3命 毛律中学生騎摩托自翻遭撞毙	https://www.overseaschinesedailynews.com.my/news/127687/%E5%8F%A4%E7%B4%8D%E8%BD%8E%E8%BB%8A%E8%87%AA%E7%BF%BB%E8%BB%8A%E7%A6%8D%E5%A4%BA3%E5%91%BD-%E6%AF%9B%E5%BE%8B%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%A8%8E%E6%91%A9%E6%89%98%E8%87%AA%E7%BF%BB%E9%81%AD%E6%92%9E%E6%AF%99/	未分類
-2026-08-27	31歲女結婚41天後丈夫車禍亡 她沒領證獲判百萬補償！婆婆怒上訴	https://tw.news.yahoo.com/31歲女結婚41天後丈夫車禍亡-她沒領證獲判百萬補償-婆婆怒上訴-083822022.html	未分類
+2026-08-27	古納轎車自翻車禍夺3命 毛律中学生騎摩托自翻遭撞毙	https://www.overseaschinesedailynews.com.my/news/127687/%E5%8F%A4%E7%B4%8D%E8%BD%8E%E8%BB%8A%E8%87%AA%E7%BF%BB%E8%BB%8A%E7%A6%8D%E5%A4%BA3%E5%91%BD-%E6%AF%9B%E5%BE%8B%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%A8%8E%E6%91%A9%E6%89%98%E8%87%AA%E7%BF%BB%E9%81%AD%E6%92%9E%E6%AF%99/	車禍
+2026-08-27	31歲女結婚41天後丈夫車禍亡 她沒領證獲判百萬補償！婆婆怒上訴	https://tw.news.yahoo.com/31歲女結婚41天後丈夫車禍亡-她沒領證獲判百萬補償-婆婆怒上訴-083822022.html	車禍
 2026-08-26	獨居老婦長年乞食猝逝 鄰居執遺物驚見30袋現金揭開震撼隱藏身家	https://www.gotrip.hk/人氣話題/印度老婦-隱形富豪-百萬遺產-1901557/	未分類
 2026-08-26	捷運新店站外公車撞行人！男腦出血昏迷倒地 車上乘客也受傷 新北市新店驚傳公車撞行人意外！今（26）天早上8點左右，一輛「棕7」路線公車行經捷運新店站，正要左轉準備進站時，疑似因不明原因與一名行人發生碰撞，所幸司機在乘客... 4 小時前aJWbwf href n0jPhd UqSP2b OSrXXb	https://news.ttv.com.tw/news/11508260000800W	未分類
 2026-08-26	北大嶼山3車相撞 的士司機不治11人傷	https://hk.epochtimes.com/news/2026-08-26/36101085	未分類
@@ -305,9 +299,9 @@ var DATA_TRAFFIC = `
 2026-08-25	寧波司機突發疾病釀交通事故 致1死4傷	https://www.epochtimes.com/b5/26/8/25/n14836386.htm/amp	未分類
 2026-08-25	大嶼山翔東路有三車相撞 的士司機死亡	https://news.tvb.com/tc/1191355-大嶼山翔東路有三車相撞的士司機死亡	未分類
 2026-08-25	大嶼山翔東路三車相撞59歲的士司機傷重不治- 有線寬頻i-CABLE	https://www.i-cable.com/新聞資訊/497863/大嶼山翔東路三車相撞-初步十人受傷-的士司機	未分類
-2026-08-25	大嶼山翔東路3車相撞釀1死11傷 的士司機被困 重創送院亡 大嶼山發生致命車禍。周二（25日）晚上近8時，翔東路近欣澳有3車相撞，涉及愉景灣巴士、貨車及的士，導致1死11人受傷。其中的士車頭嚴重損毀，59歲姓李男司機被困昏迷...	https://www.stheadline.com/breaking-news/3608161/%E5%A4%A7%E5%B6%BC%E5%B1%B1%E7%BF%94%E6%9D%B1%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E6%AD%BB11%E5%82%B7-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E8%A2%AB%E5%9B%B0-%E9%87%8D%E5%89%B5%E9%80%81%E9%99%A2%E4%BA%A1	未分類
+2026-08-25	大嶼山翔東路3車相撞釀1死11傷 的士司機被困 重創送院亡 大嶼山發生致命車禍。周二（25日）晚上近8時，翔東路近欣澳有3車相撞，涉及愉景灣巴士、貨車及的士，導致1死11人受傷。其中的士車頭嚴重損毀，59歲姓李男司機被困昏迷...	https://www.stheadline.com/breaking-news/3608161/%E5%A4%A7%E5%B6%BC%E5%B1%B1%E7%BF%94%E6%9D%B1%E8%B7%AF3%E8%BB%8A%E7%9B%B8%E6%92%9E%E9%87%801%E6%AD%BB11%E5%82%B7-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E8%A2%AB%E5%9B%B0-%E9%87%8D%E5%89%B5%E9%80%81%E9%99%A2%E4%BA%A1	車禍
 2026-08-25	國1潭子段2大貨車追撞 1人送醫恢復心跳仍陷昏迷	https://www.ettoday.net/news/20260825/3225156.htm	未分類
-2026-08-25	北大嶼山翔東路近欣澳3車相撞 至少10人傷 的士司機昏迷被困 大嶼山發生3車相撞交通意外。今日（25日）晚上近8時，當局接獲報報案指，翔東路近欣澳有車禍發生，初步涉及巴士、貨車及的士。其中有報案人指，涉事的士司機意外後昏迷...	https://www.hk01.com/%E7%AA%81%E7%99%BC/60383602/%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E7%BF%94%E6%9D%B1%E8%B7%AF%E8%BF%91%E6%AC%A3%E6%BE%B33%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%9110%E4%BA%BA%E5%82%B7-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%98%8F%E8%BF%B7%E8%A2%AB%E5%9B%B0	未分類
+2026-08-25	北大嶼山翔東路近欣澳3車相撞 至少10人傷 的士司機昏迷被困 大嶼山發生3車相撞交通意外。今日（25日）晚上近8時，當局接獲報報案指，翔東路近欣澳有車禍發生，初步涉及巴士、貨車及的士。其中有報案人指，涉事的士司機意外後昏迷...	https://www.hk01.com/%E7%AA%81%E7%99%BC/60383602/%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E7%BF%94%E6%9D%B1%E8%B7%AF%E8%BF%91%E6%AC%A3%E6%BE%B33%E8%BB%8A%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%9110%E4%BA%BA%E5%82%B7-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%98%8F%E8%BF%B7%E8%A2%AB%E5%9B%B0	車禍
 2026-08-25	北大嶼山翔東路三車相撞至少十人受傷 據報的士司機被困昏迷 北大嶼山翔東路今晚發生三車相撞，涉及巴士、貨車及的士，至少10人受傷，的士司機被困昏迷，運輸署封閉相關路段。	https://www.orangenews.hk/hongkong/VTJWw9Z/%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%B1%B1%E7%BF%94%E6%9D%B1%E8%B7%AF%E4%B8%89%E8%BB%8A%E7%9B%B8%E6%92%9E%E8%87%B3%E5%B0%91%E5%8D%81%E4%BA%BA%E5%8F%97%E5%82%B7-%E6%93%9A%E5%A0%B1%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E8%A2%AB%E5%9B%B0%E6%98%8F%E8%BF%B7.shtml	未分類
 2026-08-25	北大嶼山翔東路三車相撞至少十人傷 的士司機昏迷	https://news.rthk.hk/rthk/ch/component/k2/1867497-20260825.htm?spTabChangeable=0	未分類
 2026-08-24	荷蘭發生嚴重交通事故至少8人受傷- 國際	https://www.wenweipo.com/a/202608/24/AP6a8bfd68e4b0c1e500260c69.html	未分類
@@ -322,23 +316,23 @@ var DATA_TRAFFIC = `
 2026-08-24	【雞老闆長春店】台北聚餐推薦｜南京復興站美食！桶仔雞、串燒、宵夜一次滿足，營業到凌晨	https://woman.udn.com/woman/amp/story/123162/9710455	未分類
 2026-08-24	AI 時代必看科幻啟蒙作《攻殼機動隊》4K數位修復版8/28全台震撼重映	https://news.gamebase.com.tw/news/detail/99441231	未分類
 2026-08-23	英國發生交通事故造成7人死亡 包括2名執勤警員	https://news.rthk.hk/rthk/ch/component/k2/1867152-20260823.htm	未分類
-2026-08-23	將軍澳車禍｜的士爆胎司機落車遭撞死 35歲私家車司機涉危駕被捕	https://www.hk01.com/%E7%AA%81%E7%99%BC/60382757/%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%BB%8A%E7%A6%8D-%E7%9A%84%E5%A3%AB%E7%88%86%E8%83%8E%E5%8F%B8%E6%A9%9F%E8%90%BD%E8%BB%8A%E9%81%AD%E6%92%9E%E6%AD%BB-35%E6%AD%B2%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95	未分類
+2026-08-23	將軍澳車禍｜的士爆胎司機落車遭撞死 35歲私家車司機涉危駕被捕	https://www.hk01.com/%E7%AA%81%E7%99%BC/60382757/%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%BB%8A%E7%A6%8D-%E7%9A%84%E5%A3%AB%E7%88%86%E8%83%8E%E5%8F%B8%E6%A9%9F%E8%90%BD%E8%BB%8A%E9%81%AD%E6%92%9E%E6%AD%BB-35%E6%AD%B2%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95	車禍
 2026-08-23	將軍澳的士爆胎的哥落車查看遭撞斃 私家車司機同告受傷送院	https://hk.on.cc/cnt/news/20260823/bkn-20260823061722337-0823_00822_001.html	未分類
 2026-08-23	今日新聞8分鐘｜的士爆胎司機落車遭撞斃｜的士司機吸煙懶理乘客	https://www.hk01.com/社會新聞/60382832/今日新聞8分鐘-的士爆胎司機落車遭撞斃-的士司機吸煙懶理乘客	未分類
 2026-08-23	【尖沙咀高質炭火串燒店 の 火赤	https://www.ulifestyle.com.hk/community/detailpost/28bb6100-55b3-4a24-be9f-fb59d4dddbe7/香港攻略/尖沙咀高質炭火串燒店/JK.JessieKim/917059	未分類
-2026-08-22	（有片）北大嶼公路兩小時10宗車禍涉29輛車 有的士疑攝車罅撞開另一的士	https://www.wenweipo.com/a/202608/22/AP6a895e1ce4b0c1e50025cd6e.html	未分類
+2026-08-22	（有片）北大嶼公路兩小時10宗車禍涉29輛車 有的士疑攝車罅撞開另一的士	https://www.wenweipo.com/a/202608/22/AP6a895e1ce4b0c1e50025cd6e.html	車禍
 2026-08-22	薄扶林道兩輕型一重型貨車「串燒」 釀兩傷送院置富花園外單線雙程行車 薄扶林道置富花園對開今午發生3車相撞，兩輕貨及一重貨連環碰撞，男司機及女乘客被困獲救，清醒送瑪麗醫院。運輸署指現場實施單線雙程行車，交通繁忙，駕駛人士留意。	https://www.bastillepost.com/hongkong/article/16618666-%E8%96%84%E6%89%B6%E6%9E%97%E9%81%93%E5%85%A9%E8%BC%95%E5%9E%8B%E4%B8%80%E9%87%8D%E5%9E%8B%E8%B2%A8%E8%BB%8A%E3%80%8C%E4%B8%B2%E7%87%92%E3%80%8D%E9%87%80%E5%85%A9%E5%82%B7%E9%80%81%E9%99%A2-%E7%BD%AE	未分類
 2026-08-22	薄扶林道兩輕型一重型貨車「串燒」 釀兩傷送院置富花園外單線雙程行車	https://www.bastillepost.com/hongkong/article/16618666-薄扶林道兩輕型一重型貨車「串燒」釀兩傷送院-置	未分類
 2026-08-22	薄扶林道3車連環相撞 客貨車男司機及女乘客傷重被困獲救送院 今日（22日）下午1時許，薄扶林道往置富花園方向有三車連環相撞，包括兩輛貨車及一輛客貨車，其中客貨車撞向泥頭車車尾，車頭嚴重損毀。警方和救援人員接報後趕至現場...	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1048869/%E8%96%84%E6%89%B6%E6%9E%97%E9%81%933%E8%BB%8A%E9%80%A3%E7%92%B0%E7%9B%B8%E6%92%9E-%E5%AE%A2%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E4%B9%98%E5%AE%A2%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2	未分類
 2026-08-22	薄扶林道3車連環相撞 客貨車男司機及女乘客傷重被困獲救送院	https://www.am730.com.hk/本地/1048869/薄扶林道3車連環相撞-客貨車司機乘客一度被困獲救送院	未分類
-2026-08-22	北大嶼山公路10宗交通意外釀5傷 往機場方向交通一度受阻	https://hk.on.cc/hk/bkn/cnt/news/20260822/bkn-20260822080015319-0822_00822_001.html	未分類
-2026-08-22	北大嶼公路早上發生8宗交通意外 涉至少14輛車4人受傷	https://hk.news.yahoo.com/%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%85%AC%E8%B7%AF%E6%97%A9%E4%B8%8A%E7%99%BC%E7%94%9F8%E5%AE%97%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E6%B6%89%E8%87%B3%E5%B0%9114%E8%BC%9B%E8%BB%8A4%E4%BA%BA%E5%8F%97%E5%82%B7-055626878.html	未分類
+2026-08-22	北大嶼山公路10宗交通意外釀5傷 往機場方向交通一度受阻	https://hk.on.cc/hk/bkn/cnt/news/20260822/bkn-20260822080015319-0822_00822_001.html	車禍
+2026-08-22	北大嶼公路早上發生8宗交通意外 涉至少14輛車4人受傷	https://hk.news.yahoo.com/%E5%8C%97%E5%A4%A7%E5%B6%BC%E5%85%AC%E8%B7%AF%E6%97%A9%E4%B8%8A%E7%99%BC%E7%94%9F8%E5%AE%97%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E6%B6%89%E8%87%B3%E5%B0%9114%E8%BC%9B%E8%BB%8A4%E4%BA%BA%E5%8F%97%E5%82%B7-055626878.html	車禍
 2026-08-21	櫪木縣四工人遭列車撞斃 東武鐵道高層鞠躬致歉 稱深刻反省查明真相	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/496611/%E6%AB%AA%E6%9C%A8%E7%B8%A3%E5%9B%9B%E5%B7%A5%E4%BA%BA%E9%81%AD%E5%88%97%E8%BB%8A%E6%92%9E%E6%96%83-%E6%9D%B1%E6%AD%A6%E9%90%B5%E9%81%93%E9%AB%98%E5%B1%A4%E9%9E%A0%E8%BA%AC%E8%87%B4%E6%AD%89	未分類
 2026-08-21	日本櫪木縣特急列車撞斃4除草工人 疑監視員溝通出錯 高層致歉	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/496827/%E6%97%A5%E6%9C%AC%E6%AB%AA%E6%9C%A8%E7%B8%A3%E7%89%B9%E6%80%A5%E5%88%97%E8%BB%8A%E6%92%9E%E6%96%834%E9%99%A4%E8%8D%89%E5%B7%A5%E4%BA%BA-%E7%96%91%E7%9B%A3%E8%A6%96%E5%93%A1%E6%BA%9D%E9%80%9A	未分類
 2026-08-21	日本列車入站撞斃四名除草工	https://www.hkej.com/dailynews/international/article/4489191/日本列車入站撞斃四名除草工	未分類
-2026-08-21	大馬22歲男車禍亡捐器官救8人 醫護列隊致敬	https://std.stheadline.com/realtime-world/3606907/大馬22歲男車禍亡捐器官救8人醫護列隊致敬	未分類
+2026-08-21	大馬22歲男車禍亡捐器官救8人 醫護列隊致敬	https://std.stheadline.com/realtime-world/3606907/大馬22歲男車禍亡捐器官救8人醫護列隊致敬	車禍
 2026-08-20	賓夕法尼亞州警直升機與小型飛機相撞 飛行員死亡	https://www.bastillepost.com/hongkong/article/16603745-賓夕法尼亞州州警直升機與小型飛機空中相撞墜毀	未分類
-2026-08-20	警方新界北總區推創意道路安全活動 冀遏止致命車禍 呼籲市民「一停二望三通過」	https://www.singtao.ca/7602660/2026-08-20/news-警方新界北總區推創意道路安全活動	未分類
+2026-08-20	警方新界北總區推創意道路安全活動 冀遏止致命車禍 呼籲市民「一停二望三通過」	https://www.singtao.ca/7602660/2026-08-20/news-警方新界北總區推創意道路安全活動	車禍
 2026-08-20	羅德島貨車翻側魷魚散落街頭 夏日高溫惡臭難當	https://www.bastillepost.com/hongkong/article/16602662-羅德島貨車翻側魷魚散落街頭-夏日高溫惡臭難當	未分類
 2026-08-20	私家車司機涉撞斃電單車女乘客 控方質疑心急駕駛 辯方：路線複雜且視角有局限 (15:04) - 20260820 - 港聞	https://news.mingpao.com/ins/港聞/article/20260820/s00001/1787207504802/私家車司機涉撞斃電單車女乘客-控方質疑心急駕駛-辯方-路線複雜且視角有局限	未分類
 2026-08-20	日本特急列車撞斃4名路軌除草工人 (15:36) - 20260820 - 國際	https://news.mingpao.com/ins/國際/article/20260820/s00005/1787211444288/日本特急列車撞斃4名路軌除草工人	未分類
@@ -346,73 +340,73 @@ var DATA_TRAFFIC = `
 2026-08-20	撞斃8旬婦認不小心駕駛罪 小巴司機判200小時社服令	https://std.stheadline.com/daily-hongkong/3606222/撞斃8旬婦認不小心駕駛罪-小巴司機判200小時社服令	未分類
 2026-08-20	女星開車自撞失去意識！送ICU搶命「女兒一句話救了她」：我要活下來	https://star.ettoday.net/news/3222690	未分類
 2026-08-20	天水圍停車場男司機暈倒車內救援趕至惜返魂乏術- 香港	https://www.wenweipo.com/a/202608/20/AP6a86f528e4b0c1e500259840.html	未分類
-2026-08-20	國道二度追撞車禍致3死 疑輔助駕駛釀禍全案仍待釐清	https://news.pts.org.tw/article/823376	未分類
-2026-08-20	今年上半年63人車禍亡增四成 新界北交通部推一系列交通安全宣傳	https://www.hk01.com/突發/60381985/今年上半年63人車禍亡增四成-新界北交通部推一系列交通安全宣傳	未分類
-2026-08-20	「接龍Andy」崔錦棠遇交通意外 左手縫9針撞車一刻「以為死梗」	https://news.tvb.com/tc/1190183-接龍Andy崔錦棠遇交通意外左手縫9針撞車一刻以為死梗	未分類
-2026-08-20	401公路嚴重車禍四人送院 西行線一度封閉	https://www.singtao.ca/7603035/2026-08-20/news-401公路嚴重車禍四人送院 西行線一度封閉/	未分類
+2026-08-20	國道二度追撞車禍致3死 疑輔助駕駛釀禍全案仍待釐清	https://news.pts.org.tw/article/823376	車禍
+2026-08-20	今年上半年63人車禍亡增四成 新界北交通部推一系列交通安全宣傳	https://www.hk01.com/突發/60381985/今年上半年63人車禍亡增四成-新界北交通部推一系列交通安全宣傳	車禍
+2026-08-20	「接龍Andy」崔錦棠遇交通意外 左手縫9針撞車一刻「以為死梗」	https://news.tvb.com/tc/1190183-接龍Andy崔錦棠遇交通意外左手縫9針撞車一刻以為死梗	車禍
+2026-08-20	401公路嚴重車禍四人送院 西行線一度封閉	https://www.singtao.ca/7603035/2026-08-20/news-401公路嚴重車禍四人送院 西行線一度封閉/	車禍
 2026-08-19	銅鑼灣兩的士相撞 其中一部翻側 2司機俱傷送院	https://www.stheadline.com/breaking-news/3605941/銅鑼灣兩的士相撞-其中一部翻側-2司機俱傷送院	未分類
 2026-08-19	銅鑼灣2的士相撞 小露寶翻側 2司機受傷送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260819/bkn-20260819122217650-0819_00822_001.html	未分類
 2026-08-19	觀塘翠屏道撞斃過路婦 小巴司機認不小心駕駛 判社服令200小時	https://www.hk01.com/社會新聞/60381605/觀塘翠屏道撞斃過路婦-小巴司機認不小心駕駛-判社服令200小時	未分類
 2026-08-19	觀塘八旬婦遭撞斃 小巴司機認不小心駕駛判200小時社服令停牌半年	https://www.am730.com.hk/本地/1048259/觀塘八旬婦遭撞斃-小巴司機認不小心駕駛判200小時社服令停牌半年	未分類
-2026-08-19	時尚界最溫柔的光殞落！Dior公關靈魂人物Mathilde Favier車禍離世，Jisoo深情悼念：無可取代的巴黎家人	https://www.elle.com/tw/fashion/flash/g73469292/diormathilde-favierjisoo/	未分類
-2026-08-19	日本東武特急列車撞除草工人 4人無呼吸心跳 日本栃木縣今日（20日）發生奪命鐵路事故。東武日光線一列由日光開往淺草的特急列車「SPACIA X2號」，上午約10時45分在新鹿沼站撞上4名正在路軌進行除草作...... 19 小時前aJWbwf href n0jPhd UqSP2b OSrXXb	https://www.singtao.ca/7602533/2026-08-19/news-%E6%97%A5%E6%9C%AC%E6%9D%B1%E6%AD%A6%E7%89%B9%E6%80%A5%E5%88%97%E8%BB%8A%E6%92%9E%E9%99%A4%E8%8D%89%E5%B7%A5%E4%BA%BA+++4%E4%BA%BA%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB/	未分類
+2026-08-19	時尚界最溫柔的光殞落！Dior公關靈魂人物Mathilde Favier車禍離世，Jisoo深情悼念：無可取代的巴黎家人	https://www.elle.com/tw/fashion/flash/g73469292/diormathilde-favierjisoo/	車禍
+2026-08-19	日本東武特急列車撞除草工人 4人無呼吸心跳 日本栃木縣今日（20日）發生奪命鐵路事故。東武日光線一列由日光開往淺草的特急列車「SPACIA X2號」，上午約10時45分在新鹿沼站撞上4名正在路軌進行除草作...... 19 小時前aJWbwf href n0jPhd UqSP2b OSrXXb	https://www.singtao.ca/7602533/2026-08-19/news-%E6%97%A5%E6%9C%AC%E6%9D%B1%E6%AD%A6%E7%89%B9%E6%80%A5%E5%88%97%E8%BB%8A%E6%92%9E%E9%99%A4%E8%8D%89%E5%B7%A5%E4%BA%BA+++4%E4%BA%BA%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB/	火車出軌
 2026-08-19	小巴觀塘翠屏道撞斃過路老婦 司機認不小心駕駛判200小時社服令	https://www.orangenews.hk/hongkong/VSjQaju/小巴觀塘翠屏道撞斃過路老婦-司機認不小心駕駛判200小時社服令.shtml	未分類
 2026-08-19	小巴撞斃老婦 司機認罪判社服令200小時停牌半年	https://hk.epochtimes.com/news/2026-08-19/4257448	未分類
 2026-08-19	小巴司機撞斃八旬婦認不小心駕駛 判200 小時社服令停牌半年 8旬老婦於2025年9月在觀塘翠屏道近翠屏南邨迴旋處遭小巴撞上，送院搶救後不治。66歲肇事小巴司機早前承認1項不小心駕駛罪，案件星期三（8月19日）於觀塘裁判法院判刑。	https://www.bastillepost.com/hongkong/article/16597951-%E5%B0%8F%E5%B7%B4%E5%8F%B8%E6%A9%9F%E6%92%9E%E6%96%83%E5%85%AB%E6%97%AC%E5%A9%A6%E8%AA%8D%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B-%E5%88%A4200%E5%B0%8F%E6%99%82%E7%A4%BE%E6%9C%8D%E4%BB%A4	未分類
 2026-08-19	小巴司機撞斃八旬婦認不小心駕駛 判200 小時社服令停牌半年	https://www.bastillepost.com/hongkong/article/16597951-小巴司機撞斃八旬婦認不小心駕駛-判200小時社服令	未分類
 2026-08-19	去年觀塘小巴撞斃老婦案 司機認不小心駕駛 判200小時服務令、停牌6個月	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/495817/%E5%8E%BB%E5%B9%B4%E8%A7%80%E5%A1%98%E5%B0%8F%E5%B7%B4%E6%92%9E%E6%96%83%E8%80%81%E5%A9%A6%E6%A1%88-%E5%8F%B8%E6%A9%9F%E8%AA%8D%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B-%E5%88%A420	未分類
 2026-08-19	八旬婦觀塘翠屏道遭撞斃 小巴司機認不小心駕駛 判200小時社服令兼停牌	https://www.stheadline.com/society/3605923/八旬婦觀塘翠屏道遭撞斃-小巴司機認不小心駕駛-判200小時社服令兼停牌	未分類
-2026-08-19	Jisoo最寵她的Dior公關驚傳車禍亡！57歲Mathilde Favier猝逝- 國際新聞- PChome Online 新聞	https://news.pchome.com.tw/internation/pronews/20260819/index-78710955976105353011.html	未分類
-2026-08-19	Dior公關總監遇車禍亡 Jisoo發長文悲痛悼念	https://www.orangenews.hk/entnews/VShxfzy/Dior公關總監遇車禍亡-Jisoo發長文悲痛悼念.shtml	未分類
-2026-08-19	Dior公關總監與製片人伴侶遇車禍雙亡 Jisoo 發長文沉痛悼念	https://www.bastillepost.com/hongkong/article/16599158-dior公關總監與製片人伴侶遇車禍雙亡-jisoo發長文沉痛悼	未分類
-2026-08-19	Dior 知名公關總監車禍驟逝！Jisoo 悲痛發文，兩人昔日母女情曝光	https://www.cool-style.com.tw/wd2/archives/1334194-dior-知名公關總監車禍驟逝！jisoo-悲痛發文，兩人昔日母	未分類
-2026-08-18	青衣兩車相撞 的士司機暈倒一度被困 私家車司機為「愛回家」Andy輕傷 今（18日）早上10時06分，警方接報青衣清心街與楓樹窩路交界發生交通意外。一部的士與私家車相撞，有途人發現其中的士司機暈倒被困車內；救援人員接報到場將司機救出，... 3 小時前aJWbwf href n0jPhd UqSP2b OSrXXb	https://std.stheadline.com/breaking-news/3605537/%E9%9D%92%E8%A1%A3%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%9A%88%E5%80%92%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%82%BA%E6%84%9B%E5%9B%9E%E5%AE%B6Andy%E8%BC%95%E5%82%B7	未分類
-2026-08-18	薄扶林置富花園發生交通意外 保安員遭貨車撞傷送院	https://www.singtaousa.com/2026/08/18/news/china/security-guard-hit-by-lorry-in-chi-fu-garden/	未分類
-2026-08-18	薄扶林置富花園壽星男保安捱貨車撞 倒地受傷送院 薄扶林發生交通意外。今晚（18日）約9時半，一輛貨車在置富道6號置富花園內行駛期間，撞到一名59歲麥姓男保安員，事主幸仍清醒，手肘和腰部疼痛，	https://www.hk01.com/%E7%AA%81%E7%99%BC/60381315/%E8%96%84%E6%89%B6%E6%9E%97%E7%BD%AE%E5%AF%8C%E8%8A%B1%E5%9C%92%E5%A3%BD%E6%98%9F%E7%94%B7%E4%BF%9D%E5%AE%89%E6%8D%B1%E8%B2%A8%E8%BB%8A%E6%92%9E-%E5%80%92%E5%9C%B0%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2	未分類
+2026-08-19	Jisoo最寵她的Dior公關驚傳車禍亡！57歲Mathilde Favier猝逝- 國際新聞- PChome Online 新聞	https://news.pchome.com.tw/internation/pronews/20260819/index-78710955976105353011.html	車禍
+2026-08-19	Dior公關總監遇車禍亡 Jisoo發長文悲痛悼念	https://www.orangenews.hk/entnews/VShxfzy/Dior公關總監遇車禍亡-Jisoo發長文悲痛悼念.shtml	車禍
+2026-08-19	Dior公關總監與製片人伴侶遇車禍雙亡 Jisoo 發長文沉痛悼念	https://www.bastillepost.com/hongkong/article/16599158-dior公關總監與製片人伴侶遇車禍雙亡-jisoo發長文沉痛悼	車禍
+2026-08-19	Dior 知名公關總監車禍驟逝！Jisoo 悲痛發文，兩人昔日母女情曝光	https://www.cool-style.com.tw/wd2/archives/1334194-dior-知名公關總監車禍驟逝！jisoo-悲痛發文，兩人昔日母	車禍
+2026-08-18	青衣兩車相撞 的士司機暈倒一度被困 私家車司機為「愛回家」Andy輕傷 今（18日）早上10時06分，警方接報青衣清心街與楓樹窩路交界發生交通意外。一部的士與私家車相撞，有途人發現其中的士司機暈倒被困車內；救援人員接報到場將司機救出，... 3 小時前aJWbwf href n0jPhd UqSP2b OSrXXb	https://std.stheadline.com/breaking-news/3605537/%E9%9D%92%E8%A1%A3%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E6%9A%88%E5%80%92%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8F%B8%E6%A9%9F%E7%82%BA%E6%84%9B%E5%9B%9E%E5%AE%B6Andy%E8%BC%95%E5%82%B7	車禍
+2026-08-18	薄扶林置富花園發生交通意外 保安員遭貨車撞傷送院	https://www.singtaousa.com/2026/08/18/news/china/security-guard-hit-by-lorry-in-chi-fu-garden/	車禍
+2026-08-18	薄扶林置富花園壽星男保安捱貨車撞 倒地受傷送院 薄扶林發生交通意外。今晚（18日）約9時半，一輛貨車在置富道6號置富花園內行駛期間，撞到一名59歲麥姓男保安員，事主幸仍清醒，手肘和腰部疼痛，	https://www.hk01.com/%E7%AA%81%E7%99%BC/60381315/%E8%96%84%E6%89%B6%E6%9E%97%E7%BD%AE%E5%AF%8C%E8%8A%B1%E5%9C%92%E5%A3%BD%E6%98%9F%E7%94%B7%E4%BF%9D%E5%AE%89%E6%8D%B1%E8%B2%A8%E8%BB%8A%E6%92%9E-%E5%80%92%E5%9C%B0%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2	車禍
 2026-08-18	恐怖撞人族！墨西哥老翁遭賤男故意肩撞跌馬路 慘遭重型貨車輾斃	https://www.hk01.com/熱爆話題/60379702/恐怖撞人族-墨西哥老翁遭賤男故意肩撞跌馬路-慘遭重型貨車輾斃	未分類
 2026-08-18	土瓜灣美善同道七旬翁捱復康小巴撞 留醫5日傷重不治 上周四（13日）上午10時許，土瓜灣美善同道與落山道交界，有一輛小巴撞到一名老翁。75歲姓黃男傷者重傷昏迷，由救護車送往伊利沙伯醫院搶救，留醫5.	https://www.hk01.com/%E7%AA%81%E7%99%BC/60381321/%E5%9C%9F%E7%93%9C%E7%81%A3%E7%BE%8E%E5%96%84%E5%90%8C%E9%81%93%E4%B8%83%E6%97%AC%E7%BF%81%E6%8D%B1%E5%BE%A9%E5%BA%B7%E5%B0%8F%E5%B7%B4%E6%92%9E-%E7%95%99%E9%86%AB5%E6%97%A5%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB	未分類
 2026-08-18	土瓜灣美善同道七旬翁捱復康小巴撞 留醫5日傷重不治	https://www.hk01.com/突發/60381321/土瓜灣美善同道七旬翁捱復康小巴撞-留醫5日傷重不治	未分類
 2026-08-18	土瓜灣七旬翁捱復康小巴撞留醫5日傷重不治- 港聞	https://www.dotdotnews.com/a/202608/18/AP6a84795ae4b04b6c5d37112d.html	未分類
 2026-08-18	台東驚傳計程車翻覆事故！車體扭曲變形駕駛受困 警消緊急破壞車門搶救	https://www.setn.com/news/1891183	未分類
-2026-08-17	江蘇19歲網紅騎落地3日鐵馬撞車亡 網民哀號：他才剛還清債	https://www.stheadline.com/realtime-china/3605239/江蘇19歲網紅騎落地3日鐵馬撞車亡-網民哀號他才剛還清債	未分類
+2026-08-17	江蘇19歲網紅騎落地3日鐵馬撞車亡 網民哀號：他才剛還清債	https://www.stheadline.com/realtime-china/3605239/江蘇19歲網紅騎落地3日鐵馬撞車亡-網民哀號他才剛還清債	車禍
 2026-08-17	屯門青山公路私家車與小巴相撞 11人輕傷 現場交通一度全封	https://www.singtaousa.com/2026/08/17/news/china/car-minibus-crash-injuries-road-closure/	未分類
 2026-08-17	去年聖誕夜灣仔兩車相撞七旬婦一周後不治 休班警被控危駕今提堂	https://www.kinliu.hk/news/社會/去年聖誕夜灣仔兩車相撞七旬婦一周後不治-休班警被控危駕今提堂/231773.html?id=58&from=home&bc1=首頁&bc1to=/	未分類
 2026-08-16	阿爾及利亞西北部發生交通事故 造成6死31傷	https://www.wenweipo.com/a/202608/16/AP6a816d09e4b0c1e50025136c.html	未分類
 2026-08-16	灣仔兩私家車相撞 女乘客一周後亡 肇事休班警隔近半年被控危駕	https://www.hk01.com/突發/60380529/灣仔兩私家車相撞-女乘客一周後亡-肇事休班警隔近半年被控危駕	未分類
 2026-08-16	波兰巴士匈牙利翻覆 酿12死多人受伤 | 布达佩斯 | 重大车祸 | 高速公路 | 新唐人电视台	https://www.ntdtv.com/gb/mkt_ipad/2026/08/16/a104124568.html	未分類
-2026-08-16	封面故事／感恩午宴 華女致命車禍30年後尋回群醫相聚	https://www.worldjournal.com/wj/amp/story/121617/9686062	未分類
-2026-08-16	匈牙利驚傳重大車禍！波蘭觀光巴士翻覆疑司機疲勞駕駛 釀12死47傷 | 國際 | CTWANT	https://www.ctwant.com/amp/article/493786/	未分類
+2026-08-16	封面故事／感恩午宴 華女致命車禍30年後尋回群醫相聚	https://www.worldjournal.com/wj/amp/story/121617/9686062	車禍
+2026-08-16	匈牙利驚傳重大車禍！波蘭觀光巴士翻覆疑司機疲勞駕駛 釀12死47傷 | 國際 | CTWANT	https://www.ctwant.com/amp/article/493786/	車禍
 2026-08-15	鹿港嬤路口被砂石車輾死！司機無罪理由曝 「關鍵2秒」還清白	https://www.ettoday.net/amp/3219579	未分類
 2026-08-15	辛巴威渡輪翻覆再尋獲遺體 死亡數攀至68人	https://news.tvbs.com.tw/world/4007816	未分類
 2026-08-15	英格蘭連續兩天有列車脫軌 疑因高溫令軌道彎曲	https://hk.on.cc/hk/bkn/cnt/intnews/20260815/bkn-20260815120235082-0815_00992_001.html	未分類
-2026-08-15	英國19歲單車新星撞車亡！葡萄牙巡迴賽緊急中止 哥哥是世界名將	https://www.nownews.com/news/6866122	未分類
+2026-08-15	英國19歲單車新星撞車亡！葡萄牙巡迴賽緊急中止 哥哥是世界名將	https://www.nownews.com/news/6866122	車禍
 2026-08-15	獅子山隧道公路往九龍方向10車相撞 5人受傷送院	https://news.rthk.hk/rthk/ch/component/k2/1866277-20260815.htm	未分類
 2026-08-15	AI巨頭聯手擁抱太空經濟！Nvidia與頂級基金重押SpaceX與半導體新局震撼華爾街	https://cmnews.com.tw/article/cmoneyairesearcher-3f817224-9866-11f1-a59a-d0907ed4bf8e?utm_source=forum_article&utm_medium=article_link	未分類
-2026-08-15	88歲翁疑闖紅燈遭撞斃！興大碩專班女學生周末進修出車禍 機車碎片噴飛滿路	https://tw.news.yahoo.com/88歲翁疑闖紅燈遭撞斃-興大碩專班女學生周末進修出車禍-機車碎片噴飛滿路-081100667.html	未分類
+2026-08-15	88歲翁疑闖紅燈遭撞斃！興大碩專班女學生周末進修出車禍 機車碎片噴飛滿路	https://tw.news.yahoo.com/88歲翁疑闖紅燈遭撞斃-興大碩專班女學生周末進修出車禍-機車碎片噴飛滿路-081100667.html	車禍
 2026-08-14	載47學童旅巴城隧突失控撞壆司機昏迷不治 車cam 曝光驚險一幕	https://www.bastillepost.com/hongkong/article/16565405-載47學童旅巴城隧突失控撞壆司機昏迷不治 車cam曝	未分類
 2026-08-14	從黃昏意象出發！信義安和日式餐酒推薦 創意串燒與季節菜單帶來質感聚會	https://n.yam.com/Article/20260814789817	未分類
-2026-08-14	姐夫路上遇車禍…脫口「死者做我老婆」6天亡！YTR曝鬼月3避邪方法	https://tw.news.yahoo.com/姐夫路上遇車禍-脫口-死者做我老婆-6天亡-ytr曝鬼月3避邪方法-065200934.html	未分類
+2026-08-14	姐夫路上遇車禍…脫口「死者做我老婆」6天亡！YTR曝鬼月3避邪方法	https://tw.news.yahoo.com/姐夫路上遇車禍-脫口-死者做我老婆-6天亡-ytr曝鬼月3避邪方法-065200934.html	車禍
 2026-08-14	城隧旅巴撼壆7旬司機暈倒亡 家屬今晨認屍黯然神傷	https://hk.on.cc/hk/bkn/cnt/news/20260814/bkn-20260814123448474-0814_00822_001.html	未分類
-2026-08-13	馬路的事 - 交通意外︰大埔公路出九龍(08:05跟進)	https://www.881903.com/traffic/info/2644840	未分類
+2026-08-13	馬路的事 - 交通意外︰大埔公路出九龍(08:05跟進)	https://www.881903.com/traffic/info/2644840	車禍
 2026-08-13	車廠撞斃同事 九巴員工不小心駕駛判社服	https://www.hkej.com/dailynews/politics/article/4482136/%E8%BB%8A%E5%BB%A0%E6%92%9E%E6%96%83%E5%90%8C%E4%BA%8B-%E4%B9%9D%E5%B7%B4%E5%93%A1%E5%B7%A5%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B%E5%88%A4%E7%A4%BE%E6%9C%8D	未分類
 2026-08-13	涉撞斃女途人 小巴司機危駕罪成 判囚9個月 停牌5年	https://hk.on.cc/hk/bkn/cnt/news/20260813/bkn-20260813143551357-0813_00822_001.html	未分類
-2026-08-13	涉九龍城1死多傷車禍 小巴司機缺席聆訊遭頒拘捕令	https://www.orangenews.hk/hongkong/VSA2hej/涉九龍城1死多傷車禍-小巴司機缺席聆訊遭頒拘捕令.shtml	未分類
+2026-08-13	涉九龍城1死多傷車禍 小巴司機缺席聆訊遭頒拘捕令	https://www.orangenews.hk/hongkong/VSA2hej/涉九龍城1死多傷車禍-小巴司機缺席聆訊遭頒拘捕令.shtml	車禍
 2026-08-13	小巴視線受阻下轉彎輾斃過路婦 官指事主一家影響深 司機囚9月	https://www.hk01.com/社會新聞/60379659/小巴視線受阻下轉彎輾斃過路婦-官指事主一家影響深-司機囚9月	未分類
 2026-08-13	小巴司機涉鑽石山交匯處撞斃女途人 危駕罪成判囚9個月 停牌5年	https://www.bastillepost.com/hongkong/article/16559637-小巴司機涉鑽石山交匯處撞斃女途人 危駕罪成判	未分類
 2026-08-13	土瓜灣過路翁捱私家小巴撞昏迷送院搶救- 港聞	https://www.dotdotnews.com/a/202608/13/AP6a7d4ad3e4b04b6c5d368bbe.html	未分類
 2026-08-13	右轉入鑽石山交匯處撞斃女途人 小巴司機危駕罪成囚9月停牌5年	https://www.stheadline.com/society/3603941/右轉入鑽石山交匯處撞斃女途人-小巴司機危駕罪成囚9月停牌5年	未分類
 2026-08-13	兼職小巴司機撞斃途人判囚9個月 求情稱女兒患病面對財政壓力 (15:29) - 20260813 - 港聞	https://news.mingpao.com/ins/港聞/article/20260813/s00001/1786606048705/兼職小巴司機撞斃途人判囚9個月-求情稱女兒患病面對財政壓力	未分類
-2026-08-12	馬連4死車禍案開庭 肇事少女「分流」聲請遭駁回	https://www.worldjournal.com/wj/amp/story/121519/9686393	未分類
+2026-08-12	馬連4死車禍案開庭 肇事少女「分流」聲請遭駁回	https://www.worldjournal.com/wj/amp/story/121519/9686393	車禍
 2026-08-12	非洲辛巴威超載渡輪翻覆 已知15死27人失聯｜20260812 8點新世界	https://news.pts.org.tw/video/21185	未分類
 2026-08-12	車廠車長遭撞斃 男司機被判200小時社服令 官指本案屬額外例子	https://hk.on.cc/hk/bkn/cnt/news/20260812/bkn-20260812150831485-0812_00822_001.html	未分類
 2026-08-12	貴陽漢不滿電單車「炸街」刺斃19歲騎行輔警 判處死刑 (11:56) - 20260812 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260812/s00004/1786506651644/貴陽漢不滿電單車「炸街」刺斃19歲騎行輔警-判處死刑	未分類
 2026-08-12	觀塘81歲巴士女乘客於關愛座不適 昏迷送院後回復清醒 九巴表示，周二（8月11日）晚上8時25分，一輛往藍田廣田邨的路線14B巴士駛至物華街時，車長接獲乘客通知指一名坐於關愛座的乘客不適，車長隨即報警協助，該名不適.	https://www.singtao.ca/7594582/2026-08-12/news-%E8%A7%80%E5%A1%9881%E6%AD%B2%E5%B7%B4%E5%A3%AB%E5%A5%B3%E4%B9%98%E5%AE%A2%E6%96%BC%E9%97%9C%E6%84%9B%E5%BA%A7%E4%B8%8D%E9%81%A9+%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E5%BE%8C%E5%9B%9E%E5%BE%A9%E6%B8%85%E9%86%92/	未分類
 2026-08-12	觀光快艇自由女神像旁翻覆母嬰亡 船長無照還超載	https://www.worldjournal.com/wj/story/121382/9685921	未分類
 2026-08-12	被電單車噪音吵醒 貴陽男刺斃19歲騎行輔警	https://www.singtao.ca/7595408/2026-08-12/news-被電單車噪音吵醒	未分類
-2026-08-12	百萬靈異女網紅車禍搶救一個月無效離世 曾挑戰傳統禁忌砸觀音像	https://www.hk01.com/即時娛樂/60379082/百萬靈異女網紅車禍搶救一個月無效離世-曾挑戰傳統禁忌砸觀音像	未分類
+2026-08-12	百萬靈異女網紅車禍搶救一個月無效離世 曾挑戰傳統禁忌砸觀音像	https://www.hk01.com/即時娛樂/60379082/百萬靈異女網紅車禍搶救一個月無效離世-曾挑戰傳統禁忌砸觀音像	車禍
 2026-08-12	涉長沙灣輾斃倒地鐵騎士 六旬女司機否認危駕不顧而去 自辯稱當時完全無察覺異常	https://www.bastillepost.com/hongkong/article/16553070-涉長沙灣輾斃倒地鐵騎士-六旬女司機否認危駕不顧	未分類
-2026-08-12	旅巴司機駕駛途中猝死‧車cam直擊｜駛入城隧5秒即撞壆 續飆前數百米狂冒煙 一輛載有47名幼童的旅遊巴今日（12日）在城門隧道發生交通意外，71歲姓林男司機疑駛入城門隧道不久後失去知覺，導致旅遊巴在無人駕駛下向前駛，直到車頭撞向石壆始停下...	https://www.stheadline.com/breaking-news/3603748/%E6%97%85%E5%B7%B4%E5%8F%B8%E6%A9%9F%E9%A7%95%E9%A7%9B%E9%80%94%E4%B8%AD%E7%8C%9D%E6%AD%BB%E8%BB%8Acam%E7%9B%B4%E6%93%8A%E9%A7%9B%E5%85%A5%E5%9F%8E%E9%9A%A75%E7%A7%92%E5%8D%B3%E6%92%9E%E5%A3%86-%E7%BA%8C%E9%A3%86%E5%89%8D%E6%95%B8%E7%99%BE%E7%B1%B3%E7%8B%82%E5%86%92%E7%85%99	未分類
-2026-08-12	旅巴司機駕駛途中猝死‧車cam直擊｜駛入城隧5秒即撞壆 續飆前數百米狂冒煙 一輛載有47名幼童的旅遊巴今日（12日）在城門隧道發生交通意外，71歲姓林男司機疑駛入城門隧道不久後失去知覺，導致旅遊巴在無人駕駛下向前駛，直到車頭撞向石壆始停.	https://www.singtao.ca/7594989/2026-08-12/news-%E6%97%85%E5%B7%B4%E5%8F%B8%E6%A9%9F%E9%A7%95%E9%A7%9B%E9%80%94%E4%B8%AD%E7%8C%9D%E6%AD%BB%E2%80%A7%E8%BB%8Acam%E7%9B%B4%E6%93%8A%EF%BD%9C%E9%A7%9B%E5%85%A5%E5%9F%8E%E9%9A%A75%E7%A7%92%E5%8D%B3%E6%92%9E%E5%A3%86+%E7%BA%8C%E9%A3%86%E5%89%8D%E6%95%B8%E7%99%BE%E7%B1%B3%E7%8B%82%E5%86%92%E7%85%99/	未分類
+2026-08-12	旅巴司機駕駛途中猝死‧車cam直擊｜駛入城隧5秒即撞壆 續飆前數百米狂冒煙 一輛載有47名幼童的旅遊巴今日（12日）在城門隧道發生交通意外，71歲姓林男司機疑駛入城門隧道不久後失去知覺，導致旅遊巴在無人駕駛下向前駛，直到車頭撞向石壆始停下...	https://www.stheadline.com/breaking-news/3603748/%E6%97%85%E5%B7%B4%E5%8F%B8%E6%A9%9F%E9%A7%95%E9%A7%9B%E9%80%94%E4%B8%AD%E7%8C%9D%E6%AD%BB%E8%BB%8Acam%E7%9B%B4%E6%93%8A%E9%A7%9B%E5%85%A5%E5%9F%8E%E9%9A%A75%E7%A7%92%E5%8D%B3%E6%92%9E%E5%A3%86-%E7%BA%8C%E9%A3%86%E5%89%8D%E6%95%B8%E7%99%BE%E7%B1%B3%E7%8B%82%E5%86%92%E7%85%99	車禍
+2026-08-12	旅巴司機駕駛途中猝死‧車cam直擊｜駛入城隧5秒即撞壆 續飆前數百米狂冒煙 一輛載有47名幼童的旅遊巴今日（12日）在城門隧道發生交通意外，71歲姓林男司機疑駛入城門隧道不久後失去知覺，導致旅遊巴在無人駕駛下向前駛，直到車頭撞向石壆始停.	https://www.singtao.ca/7594989/2026-08-12/news-%E6%97%85%E5%B7%B4%E5%8F%B8%E6%A9%9F%E9%A7%95%E9%A7%9B%E9%80%94%E4%B8%AD%E7%8C%9D%E6%AD%BB%E2%80%A7%E8%BB%8Acam%E7%9B%B4%E6%93%8A%EF%BD%9C%E9%A7%9B%E5%85%A5%E5%9F%8E%E9%9A%A75%E7%A7%92%E5%8D%B3%E6%92%9E%E5%A3%86+%E7%BA%8C%E9%A3%86%E5%89%8D%E6%95%B8%E7%99%BE%E7%B1%B3%E7%8B%82%E5%86%92%E7%85%99/	車禍
 2026-08-12	九龍灣車廠泊車時撞斃同事 九巴排車員不小心駕駛罪成 判200小時社服令	https://www.stheadline.com/society/3603595/九龍灣車廠泊車時撞斃同事-九巴排車員不小心駕駛罪成-判200小時社服令	未分類
 2026-08-12	九巴車長涉車廠撞斃同事 不小心駕駛判200小時社服令 官：判囚對死者家屬、社會沒好處	https://hk.news.yahoo.com/九巴車長涉車廠撞斃同事-不小心駕駛判200小時社服令-官：判囚對死者家屬、社會沒好處-083036440.html	未分類
 2026-08-12	九巴車長倒車撞斃同事 官接納一向小心駕駛今次屬個別事件 判200小時社服令	https://www.kinliu.hk/news/社會/九巴車長倒車撞斃同事-官接納一向小心駕駛今次屬個別事件-判200小時社服令/217197.html?id=58&from=home&bc1=首頁&bc1to=/	未分類
@@ -423,13 +417,13 @@ var DATA_TRAFFIC = `
 2026-08-11	輾斃鐵騎士涉不顧而去 司機：以為只是輾過物件 - 20260811 - 港聞	https://news.mingpao.com/pns/港聞/article/20260811/s00002/1786385599664/輾斃鐵騎士涉不顧而去-司機-以為只是輾過物件	未分類
 2026-08-11	觀塘81歲巴士女乘客暈倒車內 昏迷送往聯合醫院搶救	https://www.hk01.com/突發/60379050/觀塘81歲巴士女乘客暈倒車內-昏迷送往聯合醫院搶救	未分類
 2026-08-11	王凱曾遭小貨車撞飛！夏宇禾曝他一度昏迷進ICU 打一堆抗生素	https://www.nownews.com/news/6864991	未分類
-2026-08-11	曝王凱「嚴重車禍住進ICU」！夏宇禾：他身體狀況不好 - 娛樂新聞 - PChome Online 新聞	https://news.pchome.com.tw/entertainment/crwant/20260811/index-78643519658620316006.html	未分類
+2026-08-11	曝王凱「嚴重車禍住進ICU」！夏宇禾：他身體狀況不好 - 娛樂新聞 - PChome Online 新聞	https://news.pchome.com.tw/entertainment/crwant/20260811/index-78643519658620316006.html	車禍
 2026-08-11	印尼賽車失控「衝出賽道」 撞死7觀眾、9重傷	https://www.setn.com/ampnews/1887671	未分類
 2026-08-10	電動車連翔道輾斃電單車司機 被告否認危駕致死及不顧而去 稱以為輾過物件 (19:28) - 20260810 - 港聞	https://news.mingpao.com/ins/港聞/article/20260810/s00001/1786361242592/電動車連翔道輾斃電單車司機-被告否認危駕致死及不顧而去-稱以為輾過物件	未分類
 2026-08-10	長沙灣鐵騎士遭Tesla輾斃 女司機稱以為輾過物件 否認不顧而去 女司機駕駛Tesla行經長沙灣時，涉在一名南亞裔鐵騎士因碰撞而倒地後，仍繼續駕駛並直接離開，該鐵騎士遭輾過後最終傷重不止。女司機事後聯絡警方，	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60378512/%E9%95%B7%E6%B2%99%E7%81%A3%E9%90%B5%E9%A8%8E%E5%A3%AB%E9%81%ADtesla%E8%BC%BE%E6%96%83-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E7%A8%B1%E4%BB%A5%E7%82%BA%E8%BC%BE%E9%81%8E%E7%89%A9%E4%BB%B6-%E5%90%A6%E8%AA%8D%E4%B8%8D%E9%A1%A7%E8%80%8C%E5%8E%BB	未分類
 2026-08-10	長沙灣鐵騎士遭Tesla輾斃 女司機稱以為輾過物件 否認不顧而去	https://www.hk01.com/article/60378512	未分類
 2026-08-10	鐵騎士遭兩車撞亡 後車司機否認危駕開審	https://hk.on.cc/hk/bkn/cnt/news/20260810/bkn-20260810173837030-0810_00822_001.html	未分類
-2026-08-10	葵涌的士攔腰撞警車 3人清醒送院 同一路口月初亦發生6傷車禍	https://hk.on.cc/hk/bkn/cnt/news/20260810/bkn-20260810232949193-0810_00822_001.html	未分類
+2026-08-10	葵涌的士攔腰撞警車 3人清醒送院 同一路口月初亦發生6傷車禍	https://hk.on.cc/hk/bkn/cnt/news/20260810/bkn-20260810232949193-0810_00822_001.html	車禍
 2026-08-10	紐約自由島快艇翻覆意外 造成2死12傷 紐約市警察局（NYPD）今天表示，1名男子昨夜在紐約港（NewYork Harbor）自由島附近駕駛快艇傳出翻覆意外，造成1名母親和女嬰身亡，另有12人受傷。	https://money.udn.com/money/amp/story/5599/9680990	未分類
 2026-08-10	紐約自由島快艇翻覆意外 造成2死12傷	https://www.sjtv.com.tw/articles/96066	未分類
 2026-08-10	涉輾斃倒地鐵騎士 六旬女司機否認危駕致死罪	https://www.stheadline.com/society/3602880/涉輾斃倒地鐵騎士-六旬女司機否認危駕致死罪	未分類
@@ -441,7 +435,7 @@ var DATA_TRAFFIC = `
 2026-08-07	涉撞斃女童電車司機棄上訴即時入獄 職工會：「成功爭取」保留其工作 出獄後將調任技工 (21:38) - 20260807 - 港聞	https://news.mingpao.com/ins/港聞/article/20260807/s00001/1786110246193/涉撞斃女童電車司機棄上訴即時入獄-職工會-「成功爭取」保留其工作-出獄後將調任技工	未分類
 2026-08-07	12秒斷魂片曝！屏東水果批發商員工…逆向自撞「卡擠扁車頭」亡	https://www.setn.com/ampnews/1885396	未分類
 2026-08-06	電車撞斃女童 司機無錢棄上訴	https://www.hkej.com/dailynews/politics/article/4476498/%E9%9B%BB%E8%BB%8A%E6%92%9E%E6%96%83%E5%A5%B3%E7%AB%A5-%E5%8F%B8%E6%A9%9F%E7%84%A1%E9%8C%A2%E6%A3%84%E4%B8%8A%E8%A8%B4	未分類
-2026-08-06	奪命車禍丨西環外公抱3歲孫女過馬路遭電車撞斃 司機放棄上訴稱無錢無學歷即時入獄	https://topick.hket.com/article/4172208/奪命車禍丨西環外公抱3歲孫女過馬路遭電車撞斃 司機放棄上訴稱無錢無學歷即時入獄?mtc=10012	未分類
+2026-08-06	奪命車禍丨西環外公抱3歲孫女過馬路遭電車撞斃 司機放棄上訴稱無錢無學歷即時入獄	https://topick.hket.com/article/4172208/奪命車禍丨西環外公抱3歲孫女過馬路遭電車撞斃 司機放棄上訴稱無錢無學歷即時入獄?mtc=10012	車禍
 2026-08-06	南韓酷暑出意外！身障男乘電動輪椅不慎翻覆 倒地2小時沒人理「曝曬亡」	https://m.4gtv.tv/article/2026080603000032	未分類
 2026-08-05	震撼，馬斯克聯手老黃扔出星際大腦！AI算力中心射上天	https://hao.cnyes.com/post/262280	未分類
 2026-08-05	電車西環撞斃3歲女童案 司機稱無財力放棄上訴即時服刑四周	https://www.kinliu.hk/news/社會/電車西環撞斃3歲女童案-司機稱無財力放棄上訴即時服刑四周/208173.html?id=58&from=home&bc1=首頁&bc1to=/	未分類
@@ -450,29 +444,29 @@ var DATA_TRAFFIC = `
 2026-08-05	電車撞斃女童案 涉案司機稱無財力放棄上訴即時入獄 (13:08) - 20260805 - 港聞	https://news.mingpao.com/ins/港聞/article/20260805/s00001/1785906352620/電車撞斃女童案-涉案司機稱無財力放棄上訴即時入獄	未分類
 2026-08-05	電車撞斃3歲女童案 司機放棄上訴即時服刑	https://www.orangenews.hk/hongkong/VRP6CQ0/電車撞斃3歲女童案-司機放棄上訴即時服刑.shtml	未分類
 2026-08-05	電車堅尼地城撞斃3歲女童 司機稱無錢放棄上訴即時入獄	https://www.am730.com.hk/本地/1045767/電車堅尼地城撞斃3歲女童-司機稱無錢放棄上訴即時入獄	未分類
-2026-08-05	西環車禍撞斃3歲女童判囚 肇事司機不獲法援棄上訴即時服刑	https://hk.on.cc/hk/bkn/cnt/news/20260805/bkn-20260805160031499-0805_00822_001.html	未分類
+2026-08-05	西環車禍撞斃3歲女童判囚 肇事司機不獲法援棄上訴即時服刑	https://hk.on.cc/hk/bkn/cnt/news/20260805/bkn-20260805160031499-0805_00822_001.html	車禍
 2026-08-05	西環3歲女童衝紅燈遭撞斃電車司機判囚4周棄上訴即時服刑- 港聞	https://www.dotdotnews.com/a/202608/05/AP6a72c18ce4b04b6c5d35c349.html	未分類
 2026-08-05	普萊塞縣家庭悲劇 父撞斃14月大兒子	https://www.singtaousa.com/2026/08/05/news/usa/placer-county-father-accident/	未分類
-2026-08-05	撞完就咁走咗去 #油麻地 #車Cam #交通意外 #不顧而去 #am730	https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNUdYaHMzTWVQNXYzRldhLUtlVEM5Y3d3YVloR1Qzd3djN3VKZFN6VFYzOEE0NVZSMUFoZ0tlOHMzaE9Uakh6aXJSTUhob25qR3hGWHlZRHp3X0NWeW1jbVI4TmZ5S1BpZ0JTOWJDem9Cakg0bWcwN0RpMTRFanN1SG01dnMtOWF0c2pNblgwcjFpemhfcXI3UThNQVBZRXNpcHBTaG9kVXJETHdMM1R2TDRiUHdYQXlJb0p1djIxMUJjRDFpWmFKUnpsOU45amtra2swd0RvWDR2cEhZM2szamtKc21yREJzQ1J3cGhxMVBNbUtkTjRuaFlrLTNCbnBxczlfWWRTSGV2dEVxSXRRMWFZQmhwZnRjWHN4SVppZ1BkQU9lTGY4b3BjYThhREpVVjRsd1dDZVcwamg0em9nWkx0S1hublN0OU9KWVFnQjVaZDlOOG1IMFBsZkpoUQ?oc=5	未分類
+2026-08-05	撞完就咁走咗去 #油麻地 #車Cam #交通意外 #不顧而去 #am730	https://news.google.com/rss/articles/CBMi3gJBVV95cUxNNUdYaHMzTWVQNXYzRldhLUtlVEM5Y3d3YVloR1Qzd3djN3VKZFN6VFYzOEE0NVZSMUFoZ0tlOHMzaE9Uakh6aXJSTUhob25qR3hGWHlZRHp3X0NWeW1jbVI4TmZ5S1BpZ0JTOWJDem9Cakg0bWcwN0RpMTRFanN1SG01dnMtOWF0c2pNblgwcjFpemhfcXI3UThNQVBZRXNpcHBTaG9kVXJETHdMM1R2TDRiUHdYQXlJb0p1djIxMUJjRDFpWmFKUnpsOU45amtra2swd0RvWDR2cEhZM2szamtKc21yREJzQ1J3cGhxMVBNbUtkTjRuaFlrLTNCbnBxczlfWWRTSGV2dEVxSXRRMWFZQmhwZnRjWHN4SVppZ1BkQU9lTGY4b3BjYThhREpVVjRsd1dDZVcwamg0em9nWkx0S1hublN0OU9KWVFnQjVaZDlOOG1IMFBsZkpoUQ?oc=5	車禍
 2026-08-05	外公抱孫女過馬路 3歲女捱撞亡 曾獲最佳車長獎被告電車司機聞裁決落淚	https://www.sundaykiss.com/熱話/李要東-電車司機-電車-3歲孫女-外公-衝紅燈-西環-2310616/	未分類
 2026-08-05	危地馬拉火山爆發疏散數百村民 熔岩大噴發震撼畫面曝光｜有片	https://std.stheadline.com/realtime-world/3601141/危地馬拉火山爆發疏散數百村民-熔岩大噴發震撼畫面曝光有片	未分類
-2026-08-05	今年上半年全港發生7341宗有人受傷交通意外 按年跌17%	https://news.rthk.hk/rthk/ch/component/k2/1865077-20260805.htm	未分類
-2026-08-05	交通意外丨上半年釀63死包括26名行人 涉亂過馬路及攝車罅	https://m.hkej.com/landing/mobarticle2/id/4476261/交通意外丨上半年釀63死包括26名行人 涉亂過馬路及攝車罅	未分類
-2026-08-05	上半年錄59宗致命交通意外按年升逾四成 警未來兩周大型執法行動打擊交通違例 (15:56) - 20260805 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260805/s00001/1785915295854/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%8C%8459%E5%AE%97%E8%87%B4%E5%91%BD%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E6%8C%89%E5%B9%B4%E5%8D%87%E9%80%BE%E5%9B%9B%E6%88%90-%E8%AD%A6%E6%9C%AA%E4%BE%86%E5%85%A9%E5%91%A8%E5%A4%A7%E5%9E%8B%E5%9F%B7%E6%B3%95%E8%A1%8C%E5%8B%95%E6%89%93%E6%93%8A%E4%BA%A4%E9%80%9A%E9%81%95%E4%BE%8B	未分類
-2026-08-05	上半年致命交通意外增44% 近7成行人死者為長者 警8.3起全港執法行動	https://www.orangenews.hk/hongkong/VRPIPyz/上半年致命交通意外增44--近7成行人死者為長者-警8-3起全港執法行動.shtml	未分類
-2026-08-05	上半年致命交通意外升逾四成 警方大型執法行動 打擊司機行人違規	https://hk.news.yahoo.com/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%87%B4%E5%91%BD%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E5%8D%87%E9%80%BE%E5%9B%9B%E6%88%90-%E8%AD%A6%E6%96%B9%E5%A4%A7%E5%9E%8B%E5%9F%B7%E6%B3%95%E8%A1%8C%E5%8B%95-%E6%89%93%E6%93%8A%E5%8F%B8%E6%A9%9F%E8%A1%8C%E4%BA%BA%E9%81%95%E8%A6%8F-200000438.html	未分類
+2026-08-05	今年上半年全港發生7341宗有人受傷交通意外 按年跌17%	https://news.rthk.hk/rthk/ch/component/k2/1865077-20260805.htm	車禍
+2026-08-05	交通意外丨上半年釀63死包括26名行人 涉亂過馬路及攝車罅	https://m.hkej.com/landing/mobarticle2/id/4476261/交通意外丨上半年釀63死包括26名行人 涉亂過馬路及攝車罅	車禍
+2026-08-05	上半年錄59宗致命交通意外按年升逾四成 警未來兩周大型執法行動打擊交通違例 (15:56) - 20260805 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260805/s00001/1785915295854/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E9%8C%8459%E5%AE%97%E8%87%B4%E5%91%BD%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E6%8C%89%E5%B9%B4%E5%8D%87%E9%80%BE%E5%9B%9B%E6%88%90-%E8%AD%A6%E6%9C%AA%E4%BE%86%E5%85%A9%E5%91%A8%E5%A4%A7%E5%9E%8B%E5%9F%B7%E6%B3%95%E8%A1%8C%E5%8B%95%E6%89%93%E6%93%8A%E4%BA%A4%E9%80%9A%E9%81%95%E4%BE%8B	車禍
+2026-08-05	上半年致命交通意外增44% 近7成行人死者為長者 警8.3起全港執法行動	https://www.orangenews.hk/hongkong/VRPIPyz/上半年致命交通意外增44--近7成行人死者為長者-警8-3起全港執法行動.shtml	車禍
+2026-08-05	上半年致命交通意外升逾四成 警方大型執法行動 打擊司機行人違規	https://hk.news.yahoo.com/%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%87%B4%E5%91%BD%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E5%8D%87%E9%80%BE%E5%9B%9B%E6%88%90-%E8%AD%A6%E6%96%B9%E5%A4%A7%E5%9E%8B%E5%9F%B7%E6%B3%95%E8%A1%8C%E5%8B%95-%E6%89%93%E6%93%8A%E5%8F%B8%E6%A9%9F%E8%A1%8C%E4%BA%BA%E9%81%95%E8%A6%8F-200000438.html	車禍
 2026-08-05	3歲女童衝紅燈遭電車撞斃 司機不小心駕駛罪成囚4周 放棄上訴即時服刑	https://www.stheadline.com/society/3601161/3歲女童衝紅燈遭電車撞斃-司機不小心駕駛罪成囚4周-放棄上訴即時服刑	未分類
 2026-08-04	高材生遭丟包輾斃案家屬拒修復式司法 台64這時間點「全線封路」法官重回現場勘驗	https://tw.news.yahoo.com/高材生遭丟包輾斃案家屬拒修復式司法-台64這時間點-全線封路-法官重回現場勘驗-063400785.html	未分類
 2026-08-04	烏干達一起交通事故致14人死亡- 神州	https://www.wenweipo.com/a/202608/04/AP6a71ca78e4b0c1e5002386dc.html	未分類
 2026-08-04	影/頂大生台64遭丟包輾斃今開庭 涉案運將現身不發一語	https://news.pchome.com.tw/society/ctinews/20260804/index-78582886894626309002.html	未分類
 2026-08-04	夫兄猝逝大嫂狠心離家！河南婦硬食撫養5姪子女親生女慘受委屈留震撼字條	https://www.gotrip.hk/人氣話題/狠心大嫂-棄養風波-超人媽媽-1896348/	未分類
 2026-08-04	四川甘孜州一交通事故致5死1傷 四川省安委會掛牌督辦​​​	https://www.wenweipo.com/a/202608/04/AP6a7189ebe4b0c1e500237cc4.html	未分類
-2026-08-04	交通意外丨九巴疑甩轆 候車7歲男童受傷送院	https://www.hkej.com/instantnews/current/article/4475090/%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E4%B8%A8%E4%B9%9D%E5%B7%B4%E7%96%91%E7%94%A9%E8%BD%86+%E5%80%99%E8%BB%8A7%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2	未分類
+2026-08-04	交通意外丨九巴疑甩轆 候車7歲男童受傷送院	https://www.hkej.com/instantnews/current/article/4475090/%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E4%B8%A8%E4%B9%9D%E5%B7%B4%E7%96%91%E7%94%A9%E8%BD%86+%E5%80%99%E8%BB%8A7%E6%AD%B2%E7%94%B7%E7%AB%A5%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2	車禍
 2026-08-04	ʚ♡ 高水準正宗炭火串燒 • 服務極周到 ♡ɞ	https://www.ulifestyle.com.hk/community/detailpost/726a5b5c-6095-4a16-9aeb-3ca4c75ae4b0/香港攻略/ʚ-高水準正宗炭火串/msfoodloverr/674617	未分類
 2026-08-03	短片：希臘山火救火直升機相撞一刻曝光 獲救英國機師急降低矮植物區保命 (11:47) - 20260803 - 國際	https://news.mingpao.com/ins/國際/article/20260803/s00005/1785729515639/短片-希臘山火救火直升機相撞一刻曝光-獲救英國機師急降低矮植物區保命	未分類
 2026-08-03	有片｜希臘兩架消防直升機空中相撞 合共造成2人死亡	https://www.orangenews.hk/international/VRCEAaP/有片-希臘兩架消防直升機空中相撞-合共造成2人死亡.shtml	未分類
 2026-08-03	希臘山火蔓延 救火直升機空中相撞致2死	https://m.hkej.com/landing/mobarticle2/id/4471751/%E5%B8%8C%E8%87%98%E5%B1%B1%E7%81%AB%E8%94%93%E5%BB%B6%20%E6%95%91%E7%81%AB%E7%9B%B4%E5%8D%87%E6%A9%9F%E7%A9%BA%E4%B8%AD%E7%9B%B8%E6%92%9E%E8%87%B42%E6%AD%BB	未分類
-2026-08-03	屯門公路發生交通意外 一部客貨車翻側 2人輕傷	https://hkcd.com/content_app/2026-08/03/content_8767889.html	未分類
+2026-08-03	屯門公路發生交通意外 一部客貨車翻側 2人輕傷	https://hkcd.com/content_app/2026-08/03/content_8767889.html	車禍
 2026-08-03	又是高齡駕駛! 87歲翁開豪車 三線道鬼切撞死騎士	https://tw.news.yahoo.com/又是高齡駕駛-87歲翁開豪車-三線道鬼切撞死騎士-144604701.html	未分類
 2026-08-03	【高空驚魂】機師直擊圓盤異物逼近客機 官方揭露一項震撼進展	https://www.gotrip.hk/人氣話題/倫敦機場-ufo目擊-航空安全-1896219/	未分類
 2026-08-01	元朗公路電單車疑駛經路陷 鐵騎士倒地受傷送院 司機助擋車獲讚	https://www.hk01.com/突發/60375762/元朗公路電單車疑駛經路陷-鐵騎士倒地受傷送院-司機助擋車獲讚	未分類
@@ -481,19 +475,19 @@ var DATA_TRAFFIC = `
 2026-07-31	花蓮停車場死亡意外！壓路機倒車輾過工人 「斷腿露骨」搶救不治	https://www.ettoday.net/amp/3210871	未分類
 2026-07-31	私家車涉吐露港公路撞斃電單車司機 男子被控危駕 准保釋候訊	https://thewitnesshk.com/私家車涉吐露港公路撞斃電單車司機-男子被控危駕/	未分類
 2026-07-31	巴士的民調｜高溫席捲全球 8成市民支持國家綠色措施 7成人不認同美國打壓新能源發展	https://www.bastillepost.com/hongkong/article/16455881-巴士的民調｜高溫席捲全球 8成市民支持國家綠色	未分類
-2026-07-31	吐露港車禍｜七人車撞斃鐵騎士 途經退休警救人 批司機冷漠	https://www.hk01.com/突發/60375548/吐露港車禍-七人車撞斃鐵騎士-途經退休警救人-批司機冷漠	未分類
-2026-07-31	吐露港車禍｜七人車撞斃鐵騎士 途經退休警CPR救人 批司機冷漠	https://www.hk01.com/突發/60375548/吐露港車禍-七人車撞斃鐵騎士-途經退休警cpr救人-批司機冷漠	未分類
+2026-07-31	吐露港車禍｜七人車撞斃鐵騎士 途經退休警救人 批司機冷漠	https://www.hk01.com/突發/60375548/吐露港車禍-七人車撞斃鐵騎士-途經退休警救人-批司機冷漠	車禍
+2026-07-31	吐露港車禍｜七人車撞斃鐵騎士 途經退休警CPR救人 批司機冷漠	https://www.hk01.com/突發/60375548/吐露港車禍-七人車撞斃鐵騎士-途經退休警cpr救人-批司機冷漠	車禍
 2026-07-30	（有片）吐露港公路電單車疑避切線車自炒七人車疑收掣不及撞斃鐵騎士- 港聞	https://www.dotdotnews.com/a/202607/30/AP6a6b5bede4b04b6c5d353e8e.html	未分類
 2026-07-30	青山公路潭尾段小巴與貨車相撞 6人受傷送院	https://www.orangenews.hk/hongkong/VQqx1S4/青山公路潭尾段小巴與貨車相撞-6人受傷送院.shtml	未分類
-2026-07-30	苗栗台1線嚴重車禍！汽車高速撞斷電桿、車體變形 77歲女駕駛命危搶救	https://www.setn.com/ampnews/1881280	未分類
+2026-07-30	苗栗台1線嚴重車禍！汽車高速撞斷電桿、車體變形 77歲女駕駛命危搶救	https://www.setn.com/ampnews/1881280	車禍
 2026-07-30	有片丨蝗群入侵俄達吉斯坦高速路：密密麻麻撞擊擋風玻璃 能見度極低	https://www.hkcd.com.hk/hkcdweb/content/2026/07/30/content_8767426.html	未分類
-2026-07-30	曼哈頓17歲騎士撞車亡 非法電單車管治再掀熱議	https://www.worldjournal.com/wj/story/121381/9659742	未分類
-2026-07-30	愛爾蘭56歲歌手及演員Glen Hansard車禍亡曾憑電影《一奏傾情》主題曲奪奧斯卡- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17854044790734/重點新聞-愛爾蘭56歲歌手及演員Glen-Hansard車禍亡-曾憑電影-一奏傾情-主題曲奪奧斯卡	未分類
+2026-07-30	曼哈頓17歲騎士撞車亡 非法電單車管治再掀熱議	https://www.worldjournal.com/wj/story/121381/9659742	車禍
+2026-07-30	愛爾蘭56歲歌手及演員Glen Hansard車禍亡曾憑電影《一奏傾情》主題曲奪奧斯卡- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17854044790734/重點新聞-愛爾蘭56歲歌手及演員Glen-Hansard車禍亡-曾憑電影-一奏傾情-主題曲奪奧斯卡	車禍
 2026-07-30	大埔電單車疑避切線車自炒 七人車駛至輾斃鐵騎士 司機涉危駕被捕	https://www.stheadline.com/breaking-news/3599351/大埔電單車疑避切線車自炒-七人車駛至輾斃鐵騎士-司機涉危駕被捕	未分類
 2026-07-30	大埔兩車互撼鐵騎士昏迷送院亡 肇事七人車司機被捕 車頭擺有啤酒	https://std.stheadline.com/breaking-news/3599351/大埔兩車互撼鐵騎士昏迷送院亡-肇事七人車司機被捕-車頭擺有啤酒	未分類
 2026-07-30	吐露港公路電單車避切線車自炒 七人車撞斃鐵騎士 警拘司機危駕	https://www.hk01.com/突發/60375366/吐露港公路電單車避切線車自炒-七人車撞斃鐵騎士-警拘司機危駕	未分類
-2026-07-30	《一奏傾情》男星Glen Hansard車禍離世！曾憑主題曲《Falling Slowly》奪奧斯卡	https://www.orangenews.hk/entnews/VQoobwo/一奏傾情-男星Glen-Hansard車禍離世-曾憑主題曲-Falling-Slowly-奪奧斯卡.shtml	未分類
-2026-07-30	《一奏傾情》56歲歌手Glen Hansard車禍亡 曾憑電影單曲奪奧斯卡	https://www.hk01.com/即時國際/60375055/一奏傾情-56歲歌手glen-hansard車禍亡-曾憑電影單曲奪奧斯卡	未分類
+2026-07-30	《一奏傾情》男星Glen Hansard車禍離世！曾憑主題曲《Falling Slowly》奪奧斯卡	https://www.orangenews.hk/entnews/VQoobwo/一奏傾情-男星Glen-Hansard車禍離世-曾憑主題曲-Falling-Slowly-奪奧斯卡.shtml	車禍
+2026-07-30	《一奏傾情》56歲歌手Glen Hansard車禍亡 曾憑電影單曲奪奧斯卡	https://www.hk01.com/即時國際/60375055/一奏傾情-56歲歌手glen-hansard車禍亡-曾憑電影單曲奪奧斯卡	車禍
 2026-07-29	鑽石山交匯處小巴撞斃女途人 司機危駕致死罪成還押候判	https://www.kinliu.hk/news/社會/鑽石山交匯處小巴撞斃女途人-司機危駕致死罪成還押候判/195142.html?id=58&from=home&bc1=首頁&bc1to=/	未分類
 2026-07-29	觀塘康寧道過路女子遭電動小巴撞倒 半昏迷送院原因待查	http://www.hkcd.com.hk/content_app/2026-07/29/content_8767302.html	未分類
 2026-07-29	觀塘功樂道過路婦遭小巴撞倒 頭部受傷送院	https://www.i-cable.com/新聞資訊/489302/觀塘功樂道過路婦遭小巴撞倒-頭部受傷送院	未分類
@@ -502,7 +496,7 @@ var DATA_TRAFFIC = `
 2026-07-29	九巴車長涉遭排車員倒車撞斃 妻子入稟向九巴及排車員提傷亡申索	https://std.stheadline.com/society/3598912/九巴車長涉遭排車員倒車撞斃-妻子入稟向九巴及排車員提傷亡申索	未分類
 2026-07-29	九巴車長倒車時撞斃同事 事主家屬入稟高院索償 (16:10) - 20260729 - 港聞	https://news.mingpao.com/ins/港聞/article/20260729/s00001/1785310416645/九巴車長倒車時撞斃同事-事主家屬入稟高院索償	未分類
 2026-07-29	七旬校巴司機涉撞斃九旬婆婆 被控危駕致死 轉介區院	https://thewitnesshk.com/七旬校巴司機涉撞斃九旬婆婆-被控危駕致死-轉/	未分類
-2026-07-29	一線搜查｜日本自駕遊車禍頻生 業界爆港台護照被列黑名單 「雪藏牌」司機未補鐘就出發？ - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/489002/%E4%B8%80%E7%B7%9A%E6%90%9C%E6%9F%A5-%E6%97%A5%E6%9C%AC%E8%87%AA%E9%A7%95%E9%81%8A%E8%BB%8A%E7%A6%8D%E9%A0%BB%E7%94%9F-%E6%A5%AD%E7%95%8C%E7%88%86%E6%B8%AF%E5%8F%B0%E8%AD%B7%E7%85%A7	未分類
+2026-07-29	一線搜查｜日本自駕遊車禍頻生 業界爆港台護照被列黑名單 「雪藏牌」司機未補鐘就出發？ - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/489002/%E4%B8%80%E7%B7%9A%E6%90%9C%E6%9F%A5-%E6%97%A5%E6%9C%AC%E8%87%AA%E9%A7%95%E9%81%8A%E8%BB%8A%E7%A6%8D%E9%A0%BB%E7%94%9F-%E6%A5%AD%E7%95%8C%E7%88%86%E6%B8%AF%E5%8F%B0%E8%AD%B7%E7%85%A7	車禍
 2026-07-29	8旬婦觀塘翠屏道遭小巴撞斃 司機認不小心駕駛罪 准保釋候判	https://www.stheadline.com/society/3598829/8旬婦觀塘翠屏道遭小巴撞斃-司機認不小心駕駛罪-准保釋候判	未分類
 2026-07-29	48歲女途人功樂道過路遭小巴撞倒 半昏迷送院救治	https://www.am730.com.hk/本地/1044525/48歲女途人功樂道過路遭小巴撞倒-半昏迷送院救治	未分類
 2026-07-29	19歲男大生恍神逆向撞死剖蚵女！父母南下致歉	https://www.setn.com/ampnews/1880190	未分類
@@ -515,9 +509,9 @@ var DATA_TRAFFIC = `
 2026-07-28	太子道西私家車男司機暈倒車內 揭酒駕被捕	https://www.stheadline.com/breaking-news/3598363/太子道西私家車男司機暈倒車內-揭酒駕被捕	未分類
 2026-07-28	博士生騎共享單車 突鎖死翻側致十級傷殘 最終獲賠約港幣 24 萬	https://unwire.hk/2026/07/28/hello-ebike-injury/life-tech/	未分類
 2026-07-28	43歲王凱猝逝震撼演藝圈！邱瓈寬深夜曬影片哭了：離別總是那麼突然	https://star.setn.com/news/1879579	未分類
-2026-07-27	預設醫療指示︱條例周五生效 消防處：交通意外不屬「自然情況」 必定盡力施救	https://www.stheadline.com/society/3598066/%E9%A0%90%E8%A8%AD%E9%86%AB%E7%99%82%E6%8C%87%E7%A4%BA%E6%A2%9D%E4%BE%8B%E5%91%A8%E4%BA%94%E7%94%9F%E6%95%88-%E6%B6%88%E9%98%B2%E8%99%95%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E4%B8%8D%E5%B1%AC%E8%87%AA%E7%84%B6%E6%83%85%E6%B3%81-%E5%BF%85%E5%AE%9A%E7%9B%A1%E5%8A%9B%E6%96%BD%E6%95%91	未分類
+2026-07-27	預設醫療指示︱條例周五生效 消防處：交通意外不屬「自然情況」 必定盡力施救	https://www.stheadline.com/society/3598066/%E9%A0%90%E8%A8%AD%E9%86%AB%E7%99%82%E6%8C%87%E7%A4%BA%E6%A2%9D%E4%BE%8B%E5%91%A8%E4%BA%94%E7%94%9F%E6%95%88-%E6%B6%88%E9%98%B2%E8%99%95%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E4%B8%8D%E5%B1%AC%E8%87%AA%E7%84%B6%E6%83%85%E6%B3%81-%E5%BF%85%E5%AE%9A%E7%9B%A1%E5%8A%9B%E6%96%BD%E6%95%91	車禍
 2026-07-27	觀塘小巴撞洗街車 10名乘客輕傷送院	https://www.am730.com.hk/本地/1043928/觀塘小巴撞洗街車-10名乘客輕傷送院	未分類
-2026-07-27	的士隊月均涉28交通意外 全年4司機定罪記分 - 20260727 - 要聞	https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20260727/s00001/1785087058468/%E7%9A%84%E5%A3%AB%E9%9A%8A%E6%9C%88%E5%9D%87%E6%B6%8928%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%85%A8%E5%B9%B44%E5%8F%B8%E6%A9%9F%E5%AE%9A%E7%BD%AA%E8%A8%98%E5%88%86	未分類
+2026-07-27	的士隊月均涉28交通意外 全年4司機定罪記分 - 20260727 - 要聞	https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20260727/s00001/1785087058468/%E7%9A%84%E5%A3%AB%E9%9A%8A%E6%9C%88%E5%9D%87%E6%B6%8928%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%85%A8%E5%B9%B44%E5%8F%B8%E6%A9%9F%E5%AE%9A%E7%BD%AA%E8%A8%98%E5%88%86	車禍
 2026-07-27	法國西班牙山火失控 逾37萬人疏散 震撼火積雲景象曝光	https://www.stheadline.com/realtime-world/3597960/法國西班牙山火失控-逾37萬人疏散-震撼火積雲景象曝光	未分類
 2026-07-27	服感冒藥後揸小巴撞斃八旬翁 71歲司機認罪囚14月停牌5年 官：藥後影響反應仍駕駛加重罪責	https://std.stheadline.com/society/3598062/服感冒藥後揸小巴撞斃八旬翁-71歲司機認罪囚14月停牌5年-官藥後影響反應仍駕駛加重罪責	未分類
 2026-07-27	找不到完整的人！台鐵龍井北方平交道死傷事故「民眾遭輾碎」	https://news.pchome.com.tw/society/ctinews/20260727/index-78510962319577309002.html	未分類
@@ -529,15 +523,15 @@ var DATA_TRAFFIC = `
 2026-07-27	2天2起 布碌崙電動滑板車騎士遭撞亡	https://www.worldjournal.com/wj/amp/story/121382/9652732	未分類
 2026-07-26	中央公園遭電單車撞昏 上西城女子兩周後甦醒	https://www.singtaousa.com/2026/07/26/news/usa/central-park-e-bike-accident/	未分類
 2026-07-25	工程師下班回家「疲勞恍神」撞死人！休旅車突詭偏衝對向 83歲翁慘遭撞斃	https://tw.news.yahoo.com/工程師下班回家-疲勞恍神-撞死人-休旅車突詭偏衝對向-83歲翁慘遭撞斃-024900443.html	未分類
-2026-07-24	青嶼幹線往機場方向交通意外 初步涉及6輛車	https://news.rthk.hk/rthk/ch/component/k2/1863390-20260724.htm	未分類
-2026-07-24	青嶼幹線交通意外至少涉6車往機場方向大排車龍- 港聞	https://www.dotdotnews.com/a/202607/24/AP6a62bcbee4b04b6c5d346a09.html	未分類
+2026-07-24	青嶼幹線往機場方向交通意外 初步涉及6輛車	https://news.rthk.hk/rthk/ch/component/k2/1863390-20260724.htm	車禍
+2026-07-24	青嶼幹線交通意外至少涉6車往機場方向大排車龍- 港聞	https://www.dotdotnews.com/a/202607/24/AP6a62bcbee4b04b6c5d346a09.html	車禍
 2026-07-24	車長九巴車廠倒車撞斃同事 脫危駕罪惟不小心駕駛罪成 官：始終牽涉人命不排除判監	https://www.kinliu.hk/news/車長九巴車廠倒車撞斃同事-脫危駕罪惟不小心駕駛罪成-官：始終牽涉人命不排除判監/190161.html?id=58&from=home&bc1=首頁&bc1to=/	未分類
 2026-07-24	警車時速121公里趕執勤 撞死晨跑失聰女 警員毋須負刑責	https://www.singtao.ca/7576836/2026-07-24/news-警車時速121公里趕執勤+++撞死晨跑失聰女+++警員毋須負刑責/	未分類
-2026-07-24	港人自駕遊｜上半年交通意外及傷亡約共150宗年增三成 入境處囑做好準備 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/487395/%E6%B8%AF%E4%BA%BA%E8%87%AA%E9%A7%95%E9%81%8A-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E5%8F%8A%E5%82%B7	未分類
+2026-07-24	港人自駕遊｜上半年交通意外及傷亡約共150宗年增三成 入境處囑做好準備 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/487395/%E6%B8%AF%E4%BA%BA%E8%87%AA%E9%A7%95%E9%81%8A-%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E5%8F%8A%E5%82%B7	車禍
 2026-07-24	涉九龍灣車廠倒車撞斃車長 九巴司機不小心駕駛罪成 押至下月12日判刑	https://www.i-cable.com/新聞資訊/487304/涉九龍灣車廠倒車撞斃車長-九巴司機不小心駕駛	未分類
 2026-07-24	布碌崙兩日3人被撞斃引關注	https://www.singtaousa.com/2026/07/24/news/usa/brooklyn-three-dead-accidents/	未分類
 2026-07-24	圭亞那渡輪翻側增至72 死國際團隊打撈船隻	https://www.bastillepost.com/hongkong/article/16427180-圭亞那渡輪翻側增至72死-國際團隊打撈船隻	未分類
-2026-07-24	入境處:香港人上半年海外涉交通意外傷亡個案增三成	https://www.hkej.com/instantnews/current/article/4465440/入境處:香港人上半年海外涉交通意外傷亡個案增三成	未分類
+2026-07-24	入境處:香港人上半年海外涉交通意外傷亡個案增三成	https://www.hkej.com/instantnews/current/article/4465440/入境處:香港人上半年海外涉交通意外傷亡個案增三成	車禍
 2026-07-24	九龍灣車廠車長遭撞斃 九巴男司機危駕致死罪脫 不小心駕駛罪成	https://hk.on.cc/hk/bkn/cnt/news/20260724/bkn-20260724105022934-0724_00822_001.html	未分類
 2026-07-24	九巴車長車廠內遭撞斃 排車員危駕罪脫 不小心駕駛罪成 還柙8.12判刑	https://www.bastillepost.com/hongkong/article/16428578-九巴車長車廠內遭撞斃-排車員危駕罪脫-不小心駕駛	未分類
 2026-07-24	九巴車長車廠內倒車時撞斃同事脫「危駕致他人死亡」罪惟不小心駕駛罪成索背景及社服令報告官：唔排除要判監	https://hkcourtnews.com/九巴車長車廠內倒車時撞斃同事 脫「危駕致他人/	未分類
@@ -546,11 +540,11 @@ var DATA_TRAFFIC = `
 2026-07-24	九巴車長取車遭撞斃 排車員脫危駕 不小心駕駛罪成候判	https://www.hkcd.com.hk/hkcdweb/content/2026/07/24/content_8766445.html	未分類
 2026-07-24	九巴排車員涉倒車撞斃車長 危駕罪脫 不小心駕駛罪成	https://www.stheadline.com/society/3597049/九巴排車員涉倒車撞斃車長-危駕罪脫-不小心駕駛罪成	未分類
 2026-07-24	九巴排車員撞斃車長 危駕罪脫不小心駕駛罪成還押候判	https://www.orangenews.hk/hongkong/VQGCpt4/九巴排車員撞斃車長-危駕罪脫不小心駕駛罪成還押候判.shtml	未分類
-2026-07-24	3歲中國籍男童日本奪命車禍罹難 獨自過馬路原因令人痛心 附事發經過	https://www.gotrip.hk/網絡熱話/日本橫濱市-車禍-中國籍男童-3歲-過馬路-貨車司機-1894297/	未分類
+2026-07-24	3歲中國籍男童日本奪命車禍罹難 獨自過馬路原因令人痛心 附事發經過	https://www.gotrip.hk/網絡熱話/日本橫濱市-車禍-中國籍男童-3歲-過馬路-貨車司機-1894297/	車禍
 2026-07-23	高雄紅牌重機騎士疑超速撞左轉砂石車噴飛不治砂石車駕駛被測出酒駕| 時事	https://video.udn.com/news/1326343	未分類
 2026-07-23	阿蘇火山一日遊！草千里、阿蘇博物館、觀景台、巴士總站| U Community 社群平台	https://www.ulifestyle.com.hk/community/detailpost/0419ce32-31fe-44b1-9183-91666f562363/日本攻略/teddymybears/1041284	未分類
 2026-07-23	翻覆事故驚險一瞬 駕駛及乘客受傷送醫無生命危險	https://n.yam.com/Article/20260723891258	未分類
-2026-07-23	曾參演《哥斯拉》 聽障女星車禍亡	https://www.hkej.com/dailynews/international/article/4463245/曾參演《哥斯拉》++聽障女星車禍亡	未分類
+2026-07-23	曾參演《哥斯拉》 聽障女星車禍亡	https://www.hkej.com/dailynews/international/article/4463245/曾參演《哥斯拉》++聽障女星車禍亡	車禍
 2026-07-23	日本涉華人交通事故5日第3宗 3歲中國童橫濱獨過馬路遭撞斃	https://www.stheadline.com/realtime-china/3596667/日本涉華人交通事故5日第3宗-3歲中國童橫濱獨過馬路遭撞斃	未分類
 2026-07-23	影／他吸食喪屍煙彈開車上路撞擊女騎士致倒地昏迷再連撞三車後翻車| 時事	https://video.udn.com/news/1326316	未分類
 2026-07-23	天水圍車房男工遭小巴壓到昏迷送院亡- 港聞	https://www.dotdotnews.com/a/202607/23/AP6a6184e9e4b04b6c5d344dd4.html	未分類
@@ -559,22 +553,22 @@ var DATA_TRAFFIC = `
 2026-07-23	城巴7號巴士座位藏利針 29歲女乘客臀部受傷送院	https://www.stheadline.com/breaking-news/3596751/城巴7號巴士座位藏利針-29歲女乘客臀部受傷送院	未分類
 2026-07-23	北海道旭川出租車與貨車相撞 6人送院	https://www.881903.com/news/international/2641566	未分類
 2026-07-23	中國3歲男童在日本遭車撞死 52歲男司機被捕	https://hk.on.cc/hk/bkn/cnt/news/20260723/bkn-20260723100948163-0723_00822_001.html	未分類
-2026-07-23	《哥斯拉》系列童星撞車亡 法拉晒合照心痛哀悼	https://www.singtaousa.com/2026/07/23/entertainment/godzilla-child-star-dies/	未分類
-2026-07-23	5旬男闖台鐵軌道撞車送醫 四腳亭＝暖暖已恢復行駛 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260723/index-78478895768665309002.html	未分類
-2026-07-22	自駕一死 港人北海道5日兩車禍 日警料一家四口同行逆線撞車 釀5傷 - 20260722 - 要聞	https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20260722/s00001/1784655446684/%E8%87%AA%E9%A7%95%E4%B8%80%E6%AD%BB-%E6%B8%AF%E4%BA%BA%E5%8C%97%E6%B5%B7%E9%81%935%E6%97%A5%E5%85%A9%E8%BB%8A%E7%A6%8D-%E6%97%A5%E8%AD%A6%E6%96%99%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%90%8C%E8%A1%8C%E9%80%86%E7%B7%9A%E6%92%9E%E8%BB%8A-%E9%87%805%E5%82%B7	未分類
-2026-07-22	童星Kaylee Hottle車禍逝世年僅18歲演《哥斯拉大戰金剛》系列被喻天才- 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/17846988020882/娛樂-童星Kaylee-Hottle車禍逝世年僅18歲-演-哥斯拉大戰金剛-系列被喻天才	未分類
+2026-07-23	《哥斯拉》系列童星撞車亡 法拉晒合照心痛哀悼	https://www.singtaousa.com/2026/07/23/entertainment/godzilla-child-star-dies/	車禍
+2026-07-23	5旬男闖台鐵軌道撞車送醫 四腳亭＝暖暖已恢復行駛 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260723/index-78478895768665309002.html	車禍
+2026-07-22	自駕一死 港人北海道5日兩車禍 日警料一家四口同行逆線撞車 釀5傷 - 20260722 - 要聞	https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20260722/s00001/1784655446684/%E8%87%AA%E9%A7%95%E4%B8%80%E6%AD%BB-%E6%B8%AF%E4%BA%BA%E5%8C%97%E6%B5%B7%E9%81%935%E6%97%A5%E5%85%A9%E8%BB%8A%E7%A6%8D-%E6%97%A5%E8%AD%A6%E6%96%99%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E5%90%8C%E8%A1%8C%E9%80%86%E7%B7%9A%E6%92%9E%E8%BB%8A-%E9%87%805%E5%82%B7	車禍
+2026-07-22	童星Kaylee Hottle車禍逝世年僅18歲演《哥斯拉大戰金剛》系列被喻天才- 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/17846988020882/娛樂-童星Kaylee-Hottle車禍逝世年僅18歲-演-哥斯拉大戰金剛-系列被喻天才	車禍
 2026-07-22	墨西哥男佛州遭貨車撞斃 逃避移民官追捕期間發生	https://www.bastillepost.com/hongkong/article/16411774-墨西哥男佛州遭貨車撞斃-逃避移民官追捕期間發生	未分類
-2026-07-22	北海道又爆租車車禍！私家車撞大貨車6傷 介乎7至70歲國籍未明(有片)	https://www.am730.com.hk/article/1043175	未分類
-2026-07-22	「哥吉拉大戰金剛」小女孩驚傳車禍逝世！ 手語溝通金剛成絕響	https://stars.udn.com/star/amp/story/10090/9643415	未分類
-2026-07-22	《哥吉拉大戰金剛》童星車禍驟逝！ 年僅18歲	https://tw.news.yahoo.com/哥吉拉大戰金剛-童星車禍驟逝-年僅18歲-005238553.html	未分類
+2026-07-22	北海道又爆租車車禍！私家車撞大貨車6傷 介乎7至70歲國籍未明(有片)	https://www.am730.com.hk/article/1043175	車禍
+2026-07-22	「哥吉拉大戰金剛」小女孩驚傳車禍逝世！ 手語溝通金剛成絕響	https://stars.udn.com/star/amp/story/10090/9643415	車禍
+2026-07-22	《哥吉拉大戰金剛》童星車禍驟逝！ 年僅18歲	https://tw.news.yahoo.com/哥吉拉大戰金剛-童星車禍驟逝-年僅18歲-005238553.html	車禍
 2026-07-21	阿蘇山直升機墜毀半年！2台人「屍體仍困火山口」 曝黃金打撈時間	https://www.ettoday.net/news/20260721/3204792.htm	未分類
-2026-07-21	港婦北海道車禍亡｜本港入境處接獲求助 正積極跟進	https://www.stheadline.com/breaking-news/3596134/港婦北海道車禍亡本港入境處接獲求助-正積極跟進	未分類
-2026-07-21	港婦北海道車禍亡｜日港均右軚惟路況大不同 專家官方同倡兩人輪流駕駛	https://www.stheadline.com/tv/tv-news/3596163/港婦北海道車禍亡日港均右軚惟路況大不同-專家官方同倡兩人輪流駕駛	未分類
-2026-07-21	港人家庭北海道富良野自駕遊遇車禍 1死5傷	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372171/%E6%B8%AF%E4%BA%BA%E5%AE%B6%E5%BA%AD%E5%8C%97%E6%B5%B7%E9%81%93%E5%AF%8C%E8%89%AF%E9%87%8E%E8%87%AA%E9%A7%95%E9%81%8A%E9%81%87%E8%BB%8A%E7%A6%8D-1%E6%AD%BB5%E5%82%B7	未分類
-2026-07-21	港人北海道自駕遊車禍 釀1死5傷 53歲港婦亡	https://hk.news.yahoo.com/港人北海道自駕遊車禍-釀1死5傷-53歲港婦亡-200000916.html	未分類
+2026-07-21	港婦北海道車禍亡｜本港入境處接獲求助 正積極跟進	https://www.stheadline.com/breaking-news/3596134/港婦北海道車禍亡本港入境處接獲求助-正積極跟進	車禍
+2026-07-21	港婦北海道車禍亡｜日港均右軚惟路況大不同 專家官方同倡兩人輪流駕駛	https://www.stheadline.com/tv/tv-news/3596163/港婦北海道車禍亡日港均右軚惟路況大不同-專家官方同倡兩人輪流駕駛	車禍
+2026-07-21	港人家庭北海道富良野自駕遊遇車禍 1死5傷	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60372171/%E6%B8%AF%E4%BA%BA%E5%AE%B6%E5%BA%AD%E5%8C%97%E6%B5%B7%E9%81%93%E5%AF%8C%E8%89%AF%E9%87%8E%E8%87%AA%E9%A7%95%E9%81%8A%E9%81%87%E8%BB%8A%E7%A6%8D-1%E6%AD%BB5%E5%82%B7	車禍
+2026-07-21	港人北海道自駕遊車禍 釀1死5傷 53歲港婦亡	https://hk.news.yahoo.com/港人北海道自駕遊車禍-釀1死5傷-53歲港婦亡-200000916.html	車禍
 2026-07-21	新田公路電單車撞斃黑狗 鐵騎士墮地受傷	https://www.bastillepost.com/hongkong/article/16409532-新田公路電單車撞斃黑狗-鐵騎士墮地受傷	未分類
 2026-07-21	新田公路有狗隻突闖行車線遭電單車撞斃鐵騎士墮地受傷- 港聞	https://www.dotdotnews.com/a/202607/21/AP6a5f5e10e4b04b6c5d342867.html	未分類
-2026-07-21	富良野致命交通意外據報涉港人 入境處稱已按當事人意願提供協助	https://news.rthk.hk/rthk/ch/component/k2/1863062-20260721.htm	未分類
+2026-07-21	富良野致命交通意外據報涉港人 入境處稱已按當事人意願提供協助	https://news.rthk.hk/rthk/ch/component/k2/1863062-20260721.htm	車禍
 2026-07-21	城巴屯門公路近深井撞欄十人受傷送院 巴士司機涉危險駕駛被捕	https://news.tvb.com/tc/1184089-城巴屯門公路近深井撞欄十人受傷送院巴士司機涉危險駕駛被捕	未分類
 2026-07-21	「北方之王」任英國新首相第2天首拋震撼彈：砍電費稅- 國際	https://www.chinatimes.com/realtimenews/20260721004152-260408	未分類
 2026-07-21	2台人遺體仍困火山口！阿蘇直升機墜毀滿半年 關鍵作業時機曝	https://news.tvbs.com.tw/world/3263413	未分類
@@ -585,62 +579,62 @@ var DATA_TRAFFIC = `
 2026-07-19	居港華婦沖繩駕四輪越野車 疑誤踩油門翻車昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260719/bkn-20260719162828453-0719_00822_001.html	未分類
 2026-07-18	烏干達校車翻覆事故24死 當局宣布暫停全國校外教學	https://www.setn.com/news/1874733	未分類
 2026-07-18	厨师制作烤全羊翻车，小羊瞬间烧成黑炭，火势根本拦不住！	https://www.163.com/v/video/VU16CS18S.html	未分類
-2026-07-18	5名中國公民北海道遇車禍包括香港警員 警方及入境處稱提供協助	https://news.rthk.hk/rthk/ch/component/k2/1862760-20260718.htm	未分類
+2026-07-18	5名中國公民北海道遇車禍包括香港警員 警方及入境處稱提供協助	https://news.rthk.hk/rthk/ch/component/k2/1862760-20260718.htm	車禍
 2026-07-17	高雄轎車突加速衝撞砂石車車尾 車頭變形、駕駛當場身亡	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-07-17/2408923.html	未分類
-2026-07-17	荃灣奪命車禍│58歲的士司機猝死 遺妻及7歲兒 頓失家庭經濟支柱	https://www.stheadline.com/breaking-news/3594739/荃灣奪命車禍58歲的士司機猝死-遺妻及7歲兒-頓失家庭經濟支柱	未分類
+2026-07-17	荃灣奪命車禍│58歲的士司機猝死 遺妻及7歲兒 頓失家庭經濟支柱	https://www.stheadline.com/breaking-news/3594739/荃灣奪命車禍58歲的士司機猝死-遺妻及7歲兒-頓失家庭經濟支柱	車禍
 2026-07-17	今晨，澳洲高速两卡车相撞！一名司机失踪，事发路段已封闭	https://www.163.com/dy/article/L225BK640534I43Y.html?f=post2020_dy_recommends	未分類
 2026-07-17	KTV喝通宵酒駕逆向撞死女騎士 台中男遭檢方聲押 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260717/index-78427314811430309002.html	未分類
-2026-07-16	荃灣奪命車禍│58歲的士司機猝死 遺妻及7歲兒 頓失家庭經濟支柱	https://www.singtao.ca/7568980/2026-07-16/news-荃灣奪命車禍│58歲的士司機猝死+遺妻及7歲兒+頓失家庭經濟支柱/	未分類
-2026-07-16	新西蘭港人車禍亡｜當地提小心「黑冰」 駕駛時遇上它可以怎辦？	https://www.hk01.com/社會新聞/60370591/新西蘭港人車禍亡-當地提小心-黑冰-駕駛時遇上它可以怎辦	未分類
-2026-07-16	新西蘭南島發生嚴重交通意外 1港人遇難	https://www.bastillepost.com/hongkong/article/16375219-%E6%96%B0%E8%A5%BF%E8%98%AD%E5%8D%97%E5%B3%B6%E7%99%BC%E7%94%9F%E5%9A%B4%E9%87%8D%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E3%80%801%E6%B8%AF%E4%BA%BA%E9%81%87%E9%9B%A3	未分類
+2026-07-16	荃灣奪命車禍│58歲的士司機猝死 遺妻及7歲兒 頓失家庭經濟支柱	https://www.singtao.ca/7568980/2026-07-16/news-荃灣奪命車禍│58歲的士司機猝死+遺妻及7歲兒+頓失家庭經濟支柱/	車禍
+2026-07-16	新西蘭港人車禍亡｜當地提小心「黑冰」 駕駛時遇上它可以怎辦？	https://www.hk01.com/社會新聞/60370591/新西蘭港人車禍亡-當地提小心-黑冰-駕駛時遇上它可以怎辦	車禍
+2026-07-16	新西蘭南島發生嚴重交通意外 1港人遇難	https://www.bastillepost.com/hongkong/article/16375219-%E6%96%B0%E8%A5%BF%E8%98%AD%E5%8D%97%E5%B3%B6%E7%99%BC%E7%94%9F%E5%9A%B4%E9%87%8D%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E3%80%801%E6%B8%AF%E4%BA%BA%E9%81%87%E9%9B%A3	車禍
 2026-07-16	新西蘭南島發生嚴重交通事故1港人遇難- 國際	https://www.dotdotnews.com/a/202607/16/AP6a585290e4b04b6c5d3394e1.html	未分類
-2026-07-16	新西蘭南島嚴重交通意外 一名港人離世	https://hk.news.yahoo.com/%E6%96%B0%E8%A5%BF%E8%98%AD%E5%8D%97%E5%B3%B6%E5%9A%B4%E9%87%8D%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%90%8D%E6%B8%AF%E4%BA%BA%E9%9B%A2%E4%B8%96-122500608.html	未分類
+2026-07-16	新西蘭南島嚴重交通意外 一名港人離世	https://hk.news.yahoo.com/%E6%96%B0%E8%A5%BF%E8%98%AD%E5%8D%97%E5%B3%B6%E5%9A%B4%E9%87%8D%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%90%8D%E6%B8%AF%E4%BA%BA%E9%9B%A2%E4%B8%96-122500608.html	車禍
 2026-07-16	四川寶興縣發生一起交通事故造成6人死亡11人受傷- 神州	https://www.wenweipo.com/a/202607/16/AP6a582acee4b0b49ad1c3949c.html	未分類
 2026-07-16	四川寶興縣發生一起交通事故 造成6人死亡11人受傷	https://www.wenweipo.com/s/202607/16/AP6a582acee4b0b49ad1c3949c.html	未分類
 2026-07-15	（有片）美國移民執法一周釀3死一男子逃避追捕遭車輛撞斃- 國際	https://www.dotdotnews.com/a/202607/15/AP6a57534de4b04b6c5d33802e.html	未分類
 2026-07-15	灣仔網約車司機疑「瞌一瞌」撼欄 扭傷手送院	https://hk.on.cc/hk/bkn/cnt/news/20260715/bkn-20260715045822346-0715_00822_001.html	未分類
-2026-07-15	刻意製車禍索賠共百萬 「碰瓷」大學生青年被捕 - 20260715 - 港聞	https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20260715/s00002/1784051837075/%E5%88%BB%E6%84%8F%E8%A3%BD%E8%BB%8A%E7%A6%8D%E7%B4%A2%E8%B3%A0%E5%85%B1%E7%99%BE%E8%90%AC-%E3%80%8C%E7%A2%B0%E7%93%B7%E3%80%8D%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%9D%92%E5%B9%B4%E8%A2%AB%E6%8D%95	未分類
+2026-07-15	刻意製車禍索賠共百萬 「碰瓷」大學生青年被捕 - 20260715 - 港聞	https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20260715/s00002/1784051837075/%E5%88%BB%E6%84%8F%E8%A3%BD%E8%BB%8A%E7%A6%8D%E7%B4%A2%E8%B3%A0%E5%85%B1%E7%99%BE%E8%90%AC-%E3%80%8C%E7%A2%B0%E7%93%B7%E3%80%8D%E5%A4%A7%E5%AD%B8%E7%94%9F%E9%9D%92%E5%B9%B4%E8%A2%AB%E6%8D%95	車禍
 2026-07-15	佛羅里達州男子逃避移民官追捕 遭貨櫃車撞斃	https://www.bastillepost.com/hongkong/article/16365688-佛羅里達州男子逃避移民官員追捕-遭重型貨車撞斃	未分類
 2026-07-14	首爾機場巴士司機突昏迷 中國兩女遊客合力搶軚控大巴救全車	https://www.orangenews.hk/international/VPJm9u7/首爾機場巴士司機突昏迷-中國兩女遊客合力搶軚控大巴救全車.shtml	未分類
 2026-07-14	越南快艇翻側釀15 印度遊客亡遺體周一運返家鄉	https://www.bastillepost.com/hongkong/article/16353903-越南快艇翻側釀15印度遊客亡-遺體周一運返家鄉	未分類
-2026-07-14	荃灣路新行車橋連續3日發生車禍 今日半小時內3宗撞車涉7部車	https://www.hk01.com/%E7%AA%81%E7%99%BC/60369608/%E8%8D%83%E7%81%A3%E8%B7%AF%E6%96%B0%E8%A1%8C%E8%BB%8A%E6%A9%8B%E9%80%A3%E7%BA%8C3%E6%97%A5%E7%99%BC%E7%94%9F%E8%BB%8A%E7%A6%8D-%E4%BB%8A%E6%97%A5%E5%8D%8A%E5%B0%8F%E6%99%82%E5%85%A73%E5%AE%97%E6%92%9E%E8%BB%8A%E6%B6%897%E9%83%A8%E8%BB%8A	未分類
-2026-07-14	荃灣路新橋開通連續3日發生交通意外 今日半小時內3宗涉及7車	https://hk.news.yahoo.com/%E8%8D%83%E7%81%A3%E8%B7%AF%E6%96%B0%E6%A9%8B%E9%96%8B%E9%80%9A%E9%80%A3%E7%BA%8C3%E6%97%A5%E7%99%BC%E7%94%9F%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E4%BB%8A%E6%97%A5%E5%8D%8A%E5%B0%8F%E6%99%82%E5%85%A73%E5%AE%97%E6%B6%89%E5%8F%8A7%E8%BB%8A-024342517.html	未分類
+2026-07-14	荃灣路新行車橋連續3日發生車禍 今日半小時內3宗撞車涉7部車	https://www.hk01.com/%E7%AA%81%E7%99%BC/60369608/%E8%8D%83%E7%81%A3%E8%B7%AF%E6%96%B0%E8%A1%8C%E8%BB%8A%E6%A9%8B%E9%80%A3%E7%BA%8C3%E6%97%A5%E7%99%BC%E7%94%9F%E8%BB%8A%E7%A6%8D-%E4%BB%8A%E6%97%A5%E5%8D%8A%E5%B0%8F%E6%99%82%E5%85%A73%E5%AE%97%E6%92%9E%E8%BB%8A%E6%B6%897%E9%83%A8%E8%BB%8A	車禍
+2026-07-14	荃灣路新橋開通連續3日發生交通意外 今日半小時內3宗涉及7車	https://hk.news.yahoo.com/%E8%8D%83%E7%81%A3%E8%B7%AF%E6%96%B0%E6%A9%8B%E9%96%8B%E9%80%9A%E9%80%A3%E7%BA%8C3%E6%97%A5%E7%99%BC%E7%94%9F%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E4%BB%8A%E6%97%A5%E5%8D%8A%E5%B0%8F%E6%99%82%E5%85%A73%E5%AE%97%E6%B6%89%E5%8F%8A7%E8%BB%8A-024342517.html	車禍
 2026-07-14	科羅拉多州撲救山火直升機墜毀 機師殉職	https://www.bastillepost.com/hongkong/article/16356150-科羅拉多州撲救山火飛機墜毀-機師死亡	未分類
-2026-07-14	南加車禍工地意外各致一死	https://www.singtaousa.com/2026/07/14/news/usa/fatal-accidents-construction-site/	未分類
-2026-07-14	今日新聞8分鐘｜荃灣路新行車橋頻生車禍 湖南國企董事長狂收禮	https://www.hk01.com/社會新聞/60369915/今日新聞8分鐘-荃灣路新行車橋頻生車禍-湖南國企董事長狂收禮	未分類
+2026-07-14	南加車禍工地意外各致一死	https://www.singtaousa.com/2026/07/14/news/usa/fatal-accidents-construction-site/	車禍
+2026-07-14	今日新聞8分鐘｜荃灣路新行車橋頻生車禍 湖南國企董事長狂收禮	https://www.hk01.com/社會新聞/60369915/今日新聞8分鐘-荃灣路新行車橋頻生車禍-湖南國企董事長狂收禮	車禍
 2026-07-13	首爾版《生死時速》 機場巴士司機突昏迷 中國女遊客搶軚救20人	https://www.am730.com.hk/article/1041220	未分類
-2026-07-13	父母車禍亡獨生女繼承¥2億遺產 新婚夫閃離婚 獲分¥6800萬惹議	https://www.hk01.com/熱爆話題/60366099/父母車禍亡獨生女繼承2億遺產-新婚夫閃提離婚吃絕戶-裁決出爐	未分類
+2026-07-13	父母車禍亡獨生女繼承¥2億遺產 新婚夫閃離婚 獲分¥6800萬惹議	https://www.hk01.com/熱爆話題/60366099/父母車禍亡獨生女繼承2億遺產-新婚夫閃提離婚吃絕戶-裁決出爐	車禍
 2026-07-13	影/生死一瞬間！韓機場巴士司機突暈倒 陸客緊抓方向盤救全車	https://tw.news.yahoo.com/影-生死-瞬間-韓機場巴士司機突暈倒-陸客緊抓方向盤救全車-042551616.html	未分類
 2026-07-13	屯門29歲男騎越野電單車不適 啟程回家突暈倒墮15米斜坡送院亡	https://www.hk01.com/突發/60369290/屯門29歲男騎越野電單車不適-啟程回家突暈倒墮15米斜坡送院亡	未分類
 2026-07-13	屯門29歲男子騎越野電單車不適暈倒 墮15米斜坡送院亡	https://www.am730.com.hk/本地/1041252/屯門29歲男子騎越野電單車不適暈倒-墮15米斜坡送院亡	未分類
 2026-07-13	元朗男工人操作碎肉機 4手指遭輾碎送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260713/bkn-20260713100546370-0713_00822_001.html	未分類
 2026-07-13	元朗工廈男工操作鬆肉機4手指遭輾爛清醒送院- 港聞	https://www.dotdotnews.com/a/202607/13/AP6a5465c3e4b04b6c5d333904.html	未分類
-2026-07-13	「救命聲四起」富國島船難15死 越南逮船長全面調查 - 國際新聞 - PChome Online 新聞	https://news.pchome.com.tw/internation/crwant/20260713/index-78392597457895316011.html	未分類
+2026-07-13	「救命聲四起」富國島船難15死 越南逮船長全面調查 - 國際新聞 - PChome Online 新聞	https://news.pchome.com.tw/internation/crwant/20260713/index-78392597457895316011.html	船難
 2026-07-12	首爾機場巴士司機高速公路昏迷 中國女遊客合力控制車輛救全車	https://www.singtaousa.com/2026/07/12/news/china/seoul-airport-bus-driver-unconscious-chinese-tourists-rescue/	未分類
 2026-07-12	遼寧撫順「8·12」較大道路交通事故調查報告公布24人被問責- 神州	https://www.wenweipo.com/a/202607/12/AP6a5386a2e4b0b49ad1c311d9.html	未分類
 2026-07-12	豆瓣6.7，小黄人口碑翻车成了“美国奶龙”？	https://news.qq.com/rain/a/20260712A069KY00?adChannelId=news?	未分類
 2026-07-12	西藏36歲警連值班32天猝死 官媒宣傳 輿論翻車	https://www.ntdtv.com/b5/2026/07/12/a104114660.html	未分類
-2026-07-12	牛頭角私家車拋錨阻路釀車禍 紅Van撞旅巴8人受傷 需送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260712/bkn-20260712002002265-0712_00822_001.html	未分類
-2026-07-12	彩石里昨晚發生交通意外 初步指8人輕傷	https://news.rthk.hk/rthk/ch/component/k2/1861902-20260712.htm	未分類
+2026-07-12	牛頭角私家車拋錨阻路釀車禍 紅Van撞旅巴8人受傷 需送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260712/bkn-20260712002002265-0712_00822_001.html	車禍
+2026-07-12	彩石里昨晚發生交通意外 初步指8人輕傷	https://news.rthk.hk/rthk/ch/component/k2/1861902-20260712.htm	車禍
 2026-07-12	中環男子遭巴士撞倒 頭部受傷昏迷送院	https://www.wenweipo.com/a/202607/12/AP6a53a91be4b0b49ad1c314c5.html	未分類
-2026-07-12	中年好聲音4｜「Rock友」鄭仲豪唱《不來也不去》 痛揭父親車禍離世：冇機會同佢講再見	https://www.tvb.com/varietynews-c/中年好聲音4--Rock友-鄭仲豪唱-不來也不去--痛揭父親車禍離世-冇機會同佢講再見-1014686	未分類
+2026-07-12	中年好聲音4｜「Rock友」鄭仲豪唱《不來也不去》 痛揭父親車禍離世：冇機會同佢講再見	https://www.tvb.com/varietynews-c/中年好聲音4--Rock友-鄭仲豪唱-不來也不去--痛揭父親車禍離世-冇機會同佢講再見-1014686	車禍
 2026-07-11	重病女兒疑亡多日！母載遺體王爺廟前自撞 民俗專家說話了	https://tw.news.yahoo.com/重病女兒疑亡多日-母載遺體王爺廟前自撞-民俗專家說話了-051800875.html	未分類
 2026-07-11	等小巴踩腳起爭執，香港婦人遭掐頸昏迷送院不治	https://www.163.com/dy/article/L1IA2AP605568W0A.html	未分類
-2026-07-11	巴哈馬小飛機墜毀數人亡 同家航空公司一天2事故遭停飛	https://www.worldjournal.com/wj/story/121488/9621529?from=wj_catelistnews	未分類
+2026-07-11	巴哈馬小飛機墜毀數人亡 同家航空公司一天2事故遭停飛	https://www.worldjournal.com/wj/story/121488/9621529?from=wj_catelistnews	墜機
 2026-07-10	機車追撞自行車暗夜互撞 一不治一傷	https://ttt.hsnews.com.tw/social-nnews/ji-che-zhui-zhuang-zi-xing-che-an-ye-hu-zhuang-yi-bu-zhi-yi-shang.html	未分類
-2026-07-10	屏東宮廟前自撞車禍 意外揭伴屍悲劇、母載亡女「求神還魂」	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-07-10/2402183.html	未分類
-2026-07-10	中九龍繞道交通意外 運載預製組件車輛失事撞壆無人傷	https://news.rthk.hk/rthk/ch/component/k2/1861751-20260710.htm	未分類
+2026-07-10	屏東宮廟前自撞車禍 意外揭伴屍悲劇、母載亡女「求神還魂」	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-07-10/2402183.html	車禍
+2026-07-10	中九龍繞道交通意外 運載預製組件車輛失事撞壆無人傷	https://news.rthk.hk/rthk/ch/component/k2/1861751-20260710.htm	車禍
 2026-07-09	華富邨小巴兩女「踩腳」起爭執 53歲婦遭掐頸跪腹送院不治	https://hkcd.com/hkcdweb/content/2026/07/09/content_8763953.html	未分類
 2026-07-09	疑是華裔撿瓶罐老人被撞斃	https://www.singtaousa.com/2026/07/09/news/usa/chinese-elderly-man-killed/	未分類
-2026-07-09	【交通意外索赔败诉】 母哭问“女儿白死了吗” 台法官竟冷回“对啊” | 即时 | 国际 | 2026-07-09	https://guangming.com.my/【交通意外索赔败诉】-母哭问女儿白死了吗-台	未分類
+2026-07-09	【交通意外索赔败诉】 母哭问“女儿白死了吗” 台法官竟冷回“对啊” | 即时 | 国际 | 2026-07-09	https://guangming.com.my/【交通意外索赔败诉】-母哭问女儿白死了吗-台	車禍
 2026-07-08	愛女遭吊車輾斃！法官冷回「白死了」、母淚控二度傷害 北院回應了	https://tw.news.yahoo.com/愛女遭吊車輾斃-法官冷回-白死了-母淚控二度傷害-北院回應了-005600185.html	未分類
 2026-07-08	愛女被輾斃卻被判免賠！法官稱「已領到700萬」 母親發聲明：與事實完全不符 | 張大任 | 新聞	https://www.storm.mg/article/11147943	未分類
 2026-07-08	女學生遭吊車輾斃「已領強制險700萬」？ 家屬律師再轟判決重大違誤 | 社會 | CTWANT	https://www.ctwant.com/amp/article/488400/	未分類
 2026-07-08	厄瓜多爾發生一起交通事故已致5死多傷- 國際 - 香港文匯網	https://www.wenweipo.com/a/202607/08/AP6a4de51ce4b0b49ad1c27a1b.html	未分類
-2026-07-08	列治文船難頭七 百餘親友碼頭追思逝者	https://www.epochtimes.com/b5/26/7/8/n14805434.htm/amp	未分類
+2026-07-08	列治文船難頭七 百餘親友碼頭追思逝者	https://www.epochtimes.com/b5/26/7/8/n14805434.htm/amp	船難
 2026-07-08	18歲愛女遭吊車輾斃...判決指媽媽「已領700萬」 律師今發聲明駁斥	https://udn.com/news/amp/story/7321/9615051	未分類
 2026-07-08	18歲女遭輾斃！母痛心「女兒白死」法官竟冷回：對啊 台北地院出手調查	https://www.knews.com.tw/news/BEBAE9EEBA0EFBA62FE958E9EDD02925	未分類
-2026-07-07	香港仔景惠花園對開發生交通意外 私家車車頭損毀嚴重	https://www.bastillepost.com/hongkong/article/16317535-%E9%A6%99%E6%B8%AF%E4%BB%94%E6%99%AF%E6%83%A0%E8%8A%B1%E5%9C%92%E5%B0%8D%E9%96%8B%E7%99%BC%E7%94%9F%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BB%8A	未分類
+2026-07-07	香港仔景惠花園對開發生交通意外 私家車車頭損毀嚴重	https://www.bastillepost.com/hongkong/article/16317535-%E9%A6%99%E6%B8%AF%E4%BB%94%E6%99%AF%E6%83%A0%E8%8A%B1%E5%9C%92%E5%B0%8D%E9%96%8B%E7%99%BC%E7%94%9F%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%BB%8A	車禍
 2026-07-07	醫院接班人遭吊車輾斃！母求償遭法官嗆：妳女兒白死了	https://news.ebc.net.tw/news/society/560004	未分類
 2026-07-07	遭吊車輾斃女孩白死？「冷回」法官遭肉搜 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260707/index-78339405185613309002.html	未分類
 2026-07-07	葵涌小巴撞男途人 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260707/bkn-20260707074307354-0707_00822_001.html	未分類
@@ -651,9 +645,9 @@ var DATA_TRAFFIC = `
 2026-07-07	18歲愛女被吊車輾斃！母淚問「白死了嗎」 法官冷回「對啊」遭肉搜撻伐	https://www.setn.com/news/1868187	未分類
 2026-07-07	18歲女遭輾斃！母哭問「白死了嗎」 法官冷回「對啊」遭肉搜	https://www.ettoday.net/news/20260707/3196435.htm	未分類
 2026-07-07	18歲女遭輾斃母哭訴白死 法官冷回「對啊」、「有這麼傷心？」	https://www.worldjournal.com/wj/amp/story/121222/9614424	未分類
-2026-07-06	金曲歌后藏40多年初戀男友車禍離世！張秀卿悲揭此生遺憾 從此天人永隔	https://tw.news.yahoo.com/金曲歌后藏40多年初戀男友車禍離世-張秀卿悲揭此生遺憾-從此天人永隔-031200627.html	未分類
-2026-07-06	身兼多職顧家 21歲鐵騎士越線撞車亡 - 20260706 - 港聞	https://news.mingpao.com/pns/港聞/article/20260706/s00002/1783274773068/身兼多職顧家-21歲鐵騎士越線撞車亡	未分類
-2026-07-06	獨家／張秀卿初戀男友車禍猝逝！悲慟人生無常 回憶當年牽牽手純純的愛	https://star.setn.com/news/1866524	未分類
+2026-07-06	金曲歌后藏40多年初戀男友車禍離世！張秀卿悲揭此生遺憾 從此天人永隔	https://tw.news.yahoo.com/金曲歌后藏40多年初戀男友車禍離世-張秀卿悲揭此生遺憾-從此天人永隔-031200627.html	車禍
+2026-07-06	身兼多職顧家 21歲鐵騎士越線撞車亡 - 20260706 - 港聞	https://news.mingpao.com/pns/港聞/article/20260706/s00002/1783274773068/身兼多職顧家-21歲鐵騎士越線撞車亡	車禍
+2026-07-06	獨家／張秀卿初戀男友車禍猝逝！悲慟人生無常 回憶當年牽牽手純純的愛	https://star.setn.com/news/1866524	車禍
 2026-07-06	機場禁區接駁巴士與行李拖車相撞 5男女受傷送院	https://hk.news.yahoo.com/機場禁區接駁巴士與行李拖車相撞-5男女受傷送院-022943722.html	未分類
 2026-07-06	機場停機坪接駁巴士與行李拖車撞 5人受傷送院 (12:19) - 20260706 - 港聞	https://news.mingpao.com/ins/港聞/article/20260706/s00001/1783307828849/機場停機坪接駁巴士與行李拖車撞-5人受傷送院	未分類
 2026-07-06	機場乘客接駁車與行李拖車相撞 5大2小乘客受傷送院	https://www.stheadline.com/breaking-news/3590500/機場乘客接駁車與行李拖車相撞-5大2小乘客受傷送院	未分類
@@ -662,7 +656,7 @@ var DATA_TRAFFIC = `
 2026-07-06	"女遭吊車輾斃""求償無門"" 冷血法官竟問母""有那麼傷心""?│中視新聞 20260705"	https://www.ctv.com.tw/Article/女遭吊車輾斃-求償無門-冷血法官竟問母-有那麼傷心-中視新聞-20260705	未分類
 2026-07-05	機場乘客接駁車與行李車相撞 5大2小乘客受傷送院	https://www.singtao.ca/7556733/2026-07-05/news-機場乘客接駁車與行李拖車相撞+5大2小乘客受傷+其中4人送院/	未分類
 2026-07-05	影音／吊車輾斃18歲女！家屬求償遭駁回 母控法官「保護加害人」 | TVBS	https://today.line.me/tw/v3/article/BEJXkD0	未分類
-2026-07-05	大埔公路奪命車禍｜21歲死者身兼數職養家 夢想擁有自己車房	https://www.hk01.com/%E7%AA%81%E7%99%BC/60366844/%E5%A4%A7%E5%9F%94%E5%85%AC%E8%B7%AF%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-21%E6%AD%B2%E6%AD%BB%E8%80%85%E8%BA%AB%E5%85%BC%E6%95%B8%E8%81%B7%E9%A4%8A%E5%AE%B6-%E5%A4%A2%E6%83%B3%E6%93%81%E6%9C%89%E8%87%AA%E5%B7%B1%E8%BB%8A%E6%88%BF	未分類
+2026-07-05	大埔公路奪命車禍｜21歲死者身兼數職養家 夢想擁有自己車房	https://www.hk01.com/%E7%AA%81%E7%99%BC/60366844/%E5%A4%A7%E5%9F%94%E5%85%AC%E8%B7%AF%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-21%E6%AD%B2%E6%AD%BB%E8%80%85%E8%BA%AB%E5%85%BC%E6%95%B8%E8%81%B7%E9%A4%8A%E5%AE%B6-%E5%A4%A2%E6%83%B3%E6%93%81%E6%9C%89%E8%87%AA%E5%B7%B1%E8%BB%8A%E6%88%BF	車禍
 2026-07-05	大埔公路九龍水塘 電單車失控迎頭撞機動三輪車 一鐵騎士送院亡	https://www.hk01.com/突發/60366784/大埔公路九龍水塘-電單車失控迎頭撞機動三輪車-一鐵騎士送院亡	未分類
 2026-07-05	大埔公路九龍水塘 電單車失控越線撞機動三輪車 一鐵騎士送院亡	https://www.hk01.com/突發/60366784/大埔公路九龍水塘-電單車失控越線撞機動三輪車-一鐵騎士送院亡	未分類
 2026-07-05	18歲騎士遭拖吊車輾斃 母提民事訴訟一審敗訴	https://www.mnews.tw/story/amp/20260705sot1732002	未分類
@@ -674,10 +668,10 @@ var DATA_TRAFFIC = `
 2026-07-04	報案變奪命！南韓警車「輾斃倒地婦人」女警遭立案調查	https://tw.news.yahoo.com/報案變奪命-南韓警車-輾斃倒地婦人-女警遭立案調查-032200948.html	未分類
 2026-07-04	南韓女警開警車救援反輾斃倒路婦人 稱街燈太暗「真的沒看到」	https://www.stheadline.com/realtime-world/3590036/南韓女警開警車救援反輾斃倒路婦人-稱街燈太暗真的沒看到	未分類
 2026-07-03	輕型貨車司機轉彎撞斃七旬婦 官稱不能忽略有人死 判社服令	https://www.hk01.com/社會新聞/60366442/輕型貨車司機轉彎撞斃七旬婦-官稱不能忽略有人死-判社服令	未分類
-2026-07-03	世界盃｜C朗淘汰賽開齋創歷史 勝仗獻車禍離世前隊友祖達 「最好致敬方式」 (19:25) - 20260703 - 體育	https://news.mingpao.com/ins/體育/article/20260703/s00006/1783071489824/世界盃-c朗淘汰賽開齋創歷史-勝仗獻車禍離世前隊友祖達-「最好致敬方式」	未分類
+2026-07-03	世界盃｜C朗淘汰賽開齋創歷史 勝仗獻車禍離世前隊友祖達 「最好致敬方式」 (19:25) - 20260703 - 體育	https://news.mingpao.com/ins/體育/article/20260703/s00006/1783071489824/世界盃-c朗淘汰賽開齋創歷史-勝仗獻車禍離世前隊友祖達-「最好致敬方式」	車禍
 2026-07-02	青海發生農夫車翻側事故造成8人死亡	https://news.rthk.hk/rthk/ch/component/k2/1860736-20260702.htm	未分類
 2026-07-02	青海海東有農夫車翻側墮下 造成8死7傷	https://www.hk01.com/即時中國/60365848/青海海東有農夫車翻側墮下-造成8死7傷	未分類
-2026-07-02	有片│泰國奪命車禍 11歲男童偷駕父母貨車 狂撞苦行僧隊伍至少8死14傷	https://www.stheadline.com/realtime-world/3589398/有片泰國奪命車禍-11歲男童偷駕父母貨車-狂撞苦行僧隊伍至少8死14傷	未分類
+2026-07-02	有片│泰國奪命車禍 11歲男童偷駕父母貨車 狂撞苦行僧隊伍至少8死14傷	https://www.stheadline.com/realtime-world/3589398/有片泰國奪命車禍-11歲男童偷駕父母貨車-狂撞苦行僧隊伍至少8死14傷	車禍
 2026-07-02	9歲愛子在眼前被輾死！無照男「靠1招」減刑 父心碎吐：每進兒房都淚崩	https://tw.news.yahoo.com/9歲愛子在眼前被輾死-無照男-靠1招-減刑-父心碎吐-051200093.html	未分類
 2026-07-01	陪父路跑成永別！無照男輾斃10歲童判2年10月 父母斷腸：心中的恨無法彌補	https://www.knews.com.tw/news/0E4201F53E9D521DE264E36EEA58E244	未分類
 2026-07-01	邊講電話邊開車...闖馬拉松賽道輾斃9歲童 無照男判2年10月	https://www.ettoday.net/news/20260701/3193291.htm	未分類
@@ -685,12 +679,12 @@ var DATA_TRAFFIC = `
 2026-06-30	食環署衛生督察遭小巴撞斃親友哀傷認屍(13:53) - 20260630 - 港聞- 即時新聞	https://news.mingpao.com/ins/港聞/article/20260630/s00001/1782797357981/食環署衛生督察遭小巴撞斃-親友哀傷認屍	未分類
 2026-06-30	路口被追尾發現司機昏迷 江蘇女護士以車為盾擋住失控車輛阻衝向人群	https://www.bastillepost.com/hongkong/article/16061947-路口被追尾發現司機昏迷-江蘇女護士以車為盾擋住	未分類
 2026-06-30	東方日報A1：挖泥機吊運鐵通 翻側砸斃男工	https://hk.on.cc/hk/bkn/cnt/news/20260630/bkn-20260630033049365-0630_00822_001.html	未分類
-2026-06-30	九龍城法院小巴車禍｜休班食環署衞生督察慘遭撞斃 親友哀痛認屍	https://www.hk01.com/突發/60365109/九龍城法院小巴車禍-休班食環署衞生督察慘遭撞斃-親友哀痛認屍	未分類
-2026-06-29	法國東北部一飛機墜毀致11人死亡	https://hkcd.com/hkcdweb/content/2026/06/29/content_8762196.html	未分類
+2026-06-30	九龍城法院小巴車禍｜休班食環署衞生督察慘遭撞斃 親友哀痛認屍	https://www.hk01.com/突發/60365109/九龍城法院小巴車禍-休班食環署衞生督察慘遭撞斃-親友哀痛認屍	車禍
+2026-06-29	法國東北部一飛機墜毀致11人死亡	https://hkcd.com/hkcdweb/content/2026/06/29/content_8762196.html	墜機
 2026-06-29	影／疑路口搶快釀禍！計程車左轉撞飛機車 騎士噴越安全島陷昏迷	https://udn.com/news/amp/story/7320/9595739	未分類
 2026-06-29	何文田地盤疑挖泥機翻側 鐵通墮下 釀1死1傷	https://www.hk01.com/突發/60364733/何文田地盤疑挖泥機翻側-鐵通墮下-釀1死1傷	未分類
 2026-06-29	何文田地盤吊臂車翻側墮鐵通一死一傷	https://www.am730.com.hk/本地/1038621/何文田地盤吊臂車翻側墮鐵通-一死一傷	未分類
-2026-06-29	九龍城法院小巴車禍｜工人急清理維修善後 市民獻花悼念枉死途人	https://www.hk01.com/突發/60364712/九龍城法院小巴車禍-工人急清理維修善後-市民獻花悼念枉死途人	未分類
+2026-06-29	九龍城法院小巴車禍｜工人急清理維修善後 市民獻花悼念枉死途人	https://www.hk01.com/突發/60364712/九龍城法院小巴車禍-工人急清理維修善後-市民獻花悼念枉死途人	車禍
 2026-06-29	九龍城法院對開小巴剷行人路致1死18傷 司機涉危駕被捕	https://www.orangenews.hk/hongkong/VNtJVkJ/九龍城法院對開小巴剷行人路致1死18傷-司機涉危駕被捕.shtml	未分類
 2026-06-28	（有片）九龍城法院外遭小巴撞斃男途人是休班衛生督察食環署：深感哀痛- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/28/AP6a413d28e4b0b49ad1c131c9.html	未分類
 2026-06-28	九龍城法院對開小巴剷行人路 最少20人傷 1男途人昏迷送院	https://www.hk01.com/突發/60364643/九龍城法院對開小巴剷行人路-最少20人傷-1男途人昏迷送院	未分類
@@ -724,7 +718,7 @@ var DATA_TRAFFIC = `
 2026-06-25	回收場男工遭撞斃警改列「誤殺」拘兩漢	https://std.stheadline.com/daily-hongkong/3586715/回收場男工遭撞斃警改列誤殺拘兩漢	未分類
 2026-06-25	回收場男工遭撞斃 警改列誤殺拘兩人	https://www.hkej.com/dailynews/hknews/article/4438983/回收場男工遭撞斃+警改列誤殺拘兩人	未分類
 2026-06-25	回收場男工疑遭挖泥車撞斃管工及無牌操作員涉誤殺被捕- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/25/AP6a3c3e4ee4b0b49ad1c0ac4e.html	未分類
-2026-06-25	世越號倖存者未走出船難陰影離世 李在明悲嘆：傷痛難以被治癒	https://www.mnews.tw/story/amp/20260625nm018	未分類
+2026-06-25	世越號倖存者未走出船難陰影離世 李在明悲嘆：傷痛難以被治癒	https://www.mnews.tw/story/amp/20260625nm018	船難
 2026-06-24	母赴市場幫拉票慘遭公車輾斃！新北市議員參選人周韋翰悲呼：世事無常	https://tw.news.yahoo.com/母赴市場幫拉票慘遭公車輾斃-新北市議員參選人周韋翰悲呼-世事無常-070502169.html	未分類
 2026-06-24	板橋行人過馬路遭公車輾斃 業者稱駕駛落實停等、指差確認	https://news.pts.org.tw/article/814470	未分類
 2026-06-24	新／拖板車翻覆…國道入口匝道管制封閉	https://www.mirrormedia.mg/external/setn_1861348	未分類
@@ -732,7 +726,7 @@ var DATA_TRAFFIC = `
 2026-06-24	屯門廢物回收場男工疑被挖泥車撞斃警改列「誤殺」拘無牌操作員和管工- 港聞	https://www.dotdotnews.com/a/202606/24/AP6a3bd88be4b04b6c5d315b2c.html	未分類
 2026-06-24	屯門回收場誤殺案 警拘管工及操作員 涉無牌操作挖泥車撞斃65歲男工	https://www.i-cable.com/新聞資訊/477712/據悉上周屯門回收場工業意外改列誤殺-兩人被捕	未分類
 2026-06-24	屯門回收場男工遭挖泥車撞斃 警改列誤殺拘無牌操作員及管工	https://www.orangenews.hk/hongkong/VNSzsrx/屯門回收場男工遭挖泥車撞斃-警改列誤殺拘無牌操作員及管工.shtml	未分類
-2026-06-24	安徽車禍女童亡 民眾自發悼念 - 20260624 - 中國	https://news.mingpao.com/pns/中國/article/20260624/s00013/1782232019881/安徽車禍女童亡-民眾自發悼念	未分類
+2026-06-24	安徽車禍女童亡 民眾自發悼念 - 20260624 - 中國	https://news.mingpao.com/pns/中國/article/20260624/s00013/1782232019881/安徽車禍女童亡-民眾自發悼念	車禍
 2026-06-24	媽親跑市場幫忙拉票「慘遭公車輾斃」 藍議員參選人心痛發聲	https://tw.news.yahoo.com/媽親跑市場幫忙拉票-慘遭公車輾斃-藍議員參選人心痛發聲-061300590.html	未分類
 2026-06-24	國道慘劇! 三車連環撞婆媳雙亡 31歲媽媽剛生產完遇死劫	https://tw.news.yahoo.com/國道慘劇-三車連環撞婆媳雙亡-31歲媽媽剛生產完遇死劫-094603813.html	未分類
 2026-06-24	回收場男工疑被撞斃 未持證明書挖泥車操作員及管工涉誤殺被捕	https://news.rthk.hk/rthk/ch/component/k2/1859769-20260624.htm	未分類
@@ -740,7 +734,7 @@ var DATA_TRAFFIC = `
 2026-06-24	台南20歲孕婦遭輾「胎兒不治」 肇逃65歲女駕駛到案	https://news.ttv.com.tw/news/115062400089005	未分類
 2026-06-24	前妻遭公車輾斃！周勝考現身哽咽受訪 質疑公車起步程序有瑕疵	https://news.ebc.net.tw/news/society/558048	未分類
 2026-06-24	前妻替愛子輔選拉票遭公車輾斃 周勝考哽咽不捨「差一步就被撞上了」	https://tw.news.yahoo.com/前妻替愛子輔選拉票遭公車輾斃-周勝考哽咽不捨-差-步就被撞上了-071400603.html	未分類
-2026-06-23	警方通報安徽車禍致1死2傷 民眾自發悼念遇難孩童 (22:40) - 20260623 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260623/s00004/1782224459038/警方通報安徽車禍致1死2傷-民眾自發悼念遇難孩童	未分類
+2026-06-23	警方通報安徽車禍致1死2傷 民眾自發悼念遇難孩童 (22:40) - 20260623 - 兩岸	https://news.mingpao.com/ins/兩岸/article/20260623/s00004/1782224459038/警方通報安徽車禍致1死2傷-民眾自發悼念遇難孩童	車禍
 2026-06-23	聯結車起步輾斃7旬婦 司機「真看不到人」判無罪	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-06-23/2385472.html	未分類
 2026-06-23	婦闖紅燈遭聯結車輾斃！ 駕駛依過失致死起訴獲無罪｜#鏡新聞	https://tw.news.yahoo.com/婦闖紅燈遭聯結車輾斃-駕駛依過失致死起訴獲無罪-鏡新聞-103038800.html	未分類
 2026-06-23	婦闖紅燈遭聯結車輾斃！ 駕駛依過失致死起訴獲無罪	https://www.mnews.tw/story/amp/20260623sot1825001	未分類
@@ -750,7 +744,7 @@ var DATA_TRAFFIC = `
 2026-06-22	小巴司機涉危駕撞斃女途人 被告稱有收掣惟車仍滑行 事後見死者頭部「喺個轆度」	https://www.stheadline.com/society/3585637/小巴司機涉危駕撞斃女途人-被告稱有收掣惟車仍滑行-事後見死者頭部喺個轆度	未分類
 2026-06-21	赤鱲角巴士女車長不適暈倒地上送院治理- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/21/AP6a37a007e4b0b49ad1c038cf.html	未分類
 2026-06-21	赤鱲角A31線巴士女車長不適暈倒送院 九巴：車長情況已經好轉	https://www.hk01.com/突發/60362471/赤鱲角a31線巴士女車長不適暈倒送院-九巴-車長情況已經好轉	未分類
-2026-06-21	深圳灣公路大橋四車交通意外 至少四人受傷三人送院	https://news.rthk.hk/rthk/ch/component/k2/1859348-20260621.htm	未分類
+2026-06-21	深圳灣公路大橋四車交通意外 至少四人受傷三人送院	https://news.rthk.hk/rthk/ch/component/k2/1859348-20260621.htm	車禍
 2026-06-20	（有片）英國倫敦附近火車相撞至少1死89人傷- 國際	https://www.dotdotnews.com/a/202606/20/AP6a35fc1de4b09ea23318fcef.html	未分類
 2026-06-20	英國倫敦附近火車相撞至少1人死亡89人受傷- 國際 - 香港文匯網	https://www.wenweipo.com/a/202606/20/AP6a35f903e4b0b49ad1c00f33.html	未分類
 2026-06-20	英國倫敦北部火車相撞 釀1死近90人受傷	https://tw.news.yahoo.com/英國倫敦北部火車相撞-釀1死近90人受傷-082716329.html	未分類
@@ -764,52 +758,52 @@ var DATA_TRAFFIC = `
 2026-06-20	兩列火車於倫敦以北相撞 1死數十傷	https://www.hkej.com/instantnews/current/article/4435982/兩列火車於倫敦以北相撞+1死數十傷	未分類
 2026-06-20	倫敦以北兩列火車相撞 釀1死89傷 (09:24) - 20260620 - 國際	https://news.mingpao.com/ins/國際/article/20260620/s00005/1781916158321/倫敦以北兩列火車相撞-釀1死89傷	未分類
 2026-06-20	仰德大道貨車逆向撞死文大生！現場驚悚畫面曝光 校方哀慟：他沒有違規	https://www.ftnn.com.tw/news/554741	未分類
-2026-06-19	青衣兩死車禍│35歲女死者為善導會社工善導會沉痛哀悼- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/19/AP6a34d288e4b0b49ad1bff7b5.html	未分類
+2026-06-19	青衣兩死車禍│35歲女死者為善導會社工善導會沉痛哀悼- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/19/AP6a34d288e4b0b49ad1bff7b5.html	車禍
 2026-06-19	西九龍公路3車相撞其中一輛私家車翻側 3人受傷及不適送院	https://news.rthk.hk/rthk/ch/component/k2/1859211-20260619.htm	未分類
 2026-06-19	濱松站驚魂！民眾闖鐵軌遭新幹線撞斃 東海道新幹線停擺	https://www.ftnn.com.tw/news/554638	未分類
 2026-06-19	日本東海道新幹線列車撞死闖路軌人士 服務受阻3小時	https://www.881903.com/news/international/2636702	未分類
-2026-06-19	日本新幹線車禍｜「希望號」高速撞死闖軌漢 東京至新大阪一度全線癱瘓	https://std.stheadline.com/realtime-world/3584898/日本新幹線車禍希望號高速撞死闖軌漢-東京至新大阪一度全線癱瘓	未分類
-2026-06-19	【恐怖車禍！駕駛摔出擋風玻璃 被自車輾斃】 好可怕 ...（#豬頭皮）	https://www.facebook.com/ETtoday/posts/恐怖車禍駕駛摔出擋風玻璃-被自車輾斃好可怕-豬頭皮/1468379275321153/	未分類
-2026-06-18	青衣兩死車禍│十多名家屬傷心認屍 消防處派員陪同	https://www.wenweipo.com/a/202606/18/AP6a33a0c0e4b0b49ad1bfd9ab.html	未分類
-2026-06-18	青沙公路車禍｜兩死者家屬 由消防處人員陪同認屍 神情哀傷	https://www.hk01.com/突發/60361509/青沙公路車禍-兩死者家屬-由消防處人員陪同認屍-神情哀傷	未分類
-2026-06-18	青沙公路消防偕新婚妻車禍拋飛亡 親友辦認屍手續帶走二人遺物	https://hk.on.cc/hk/bkn/cnt/news/20260618/bkn-20260618111700351-0618_00822_001.html	未分類
+2026-06-19	日本新幹線車禍｜「希望號」高速撞死闖軌漢 東京至新大阪一度全線癱瘓	https://std.stheadline.com/realtime-world/3584898/日本新幹線車禍希望號高速撞死闖軌漢-東京至新大阪一度全線癱瘓	車禍
+2026-06-19	【恐怖車禍！駕駛摔出擋風玻璃 被自車輾斃】 好可怕 ...（#豬頭皮）	https://www.facebook.com/ETtoday/posts/恐怖車禍駕駛摔出擋風玻璃-被自車輾斃好可怕-豬頭皮/1468379275321153/	車禍
+2026-06-18	青衣兩死車禍│十多名家屬傷心認屍 消防處派員陪同	https://www.wenweipo.com/a/202606/18/AP6a33a0c0e4b0b49ad1bfd9ab.html	車禍
+2026-06-18	青沙公路車禍｜兩死者家屬 由消防處人員陪同認屍 神情哀傷	https://www.hk01.com/突發/60361509/青沙公路車禍-兩死者家屬-由消防處人員陪同認屍-神情哀傷	車禍
+2026-06-18	青沙公路消防偕新婚妻車禍拋飛亡 親友辦認屍手續帶走二人遺物	https://hk.on.cc/hk/bkn/cnt/news/20260618/bkn-20260618111700351-0618_00822_001.html	車禍
 2026-06-18	與小三鬧翻！她攔車遭撞斃 人夫過失致死罪成 重審1原因免坐監	https://www.hk01.com/熱爆話題/60353193/與小三鬧翻-她攔車遭撞斃-人夫過失致死罪成-重審願賠錢判緩刑	未分類
 2026-06-18	紐約中央公園馬車翻覆事故 18歲乘客送醫不治	https://money.udn.com/money/amp/story/5599/9574297	未分類
 2026-06-18	紐約中央公園馬車失控翻覆 18歲男重摔不治（視頻）	https://www.ntdtv.com/b5/2026/06/18/a104107033.html	未分類
 2026-06-18	台鐵「苗栗＝竹南」段怪手翻覆事故排除 14：40恢復雙線通車	https://news.ltn.com.tw/news/life/breakingnews/5476529	未分類
-2026-06-17	青衣兩死車禍│消防處：對有屬員及其妻不幸離世非常難過將提供一切可行協助- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/17/AP6a324a42e4b0b49ad1bfb738.html	未分類
-2026-06-17	青衣兩死車禍│友人貼文指女死者是社工：社會就這樣損失了兩個這麼好的人- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/17/AP6a32b370e4b0b49ad1bfc332.html	未分類
-2026-06-17	青沙公路車禍｜男死者志願做消防 上周救人受傷仍偕妻曼谷度蜜月	https://www.hk01.com/突發/60361233/青沙公路車禍-男死者志願做消防-上周救人受傷仍偕妻曼谷度蜜月	未分類
-2026-06-17	青沙公路車禍｜女死者為社工 友網上嘆：社會損失兩個這麼好的人	https://www.hk01.com/突發/60361420/青沙公路車禍-女死者為社工-友網上嘆-社會損失兩個這麼好的人	未分類
-2026-06-17	青沙公路車禍｜夫婦無扣安全帶 運輸署：扣安全帶死傷風險減半	https://www.hk01.com/突發/60361207/青沙公路車禍-夫婦無扣安全帶-運輸署-扣安全帶死傷風險減半	未分類
-2026-06-17	青沙公路車禍釀兩死 休班消防員偕妻返港遇意外	https://www.singtaousa.com/2026/06/17/news/china/off-duty-firefighter-honeymoon-fatal-crash/	未分類
-2026-06-17	青沙公路車禍休班消防員偕妻亡 上周三曾於觀塘救回墮海老翁	https://www.orangenews.hk/hongkong/VMlzbyr/青沙公路車禍休班消防員偕妻亡-上周三曾於觀塘救回墮海老翁.shtml	未分類
-2026-06-17	青沙公路致命車禍｜兩死者為夫婦關係 男為休班消防員隸屬觀塘局	https://www.hk01.com/%E7%AA%81%E7%99%BC/60361053/%E9%9D%92%E6%B2%99%E5%85%AC%E8%B7%AF%E8%87%B4%E5%91%BD%E8%BB%8A%E7%A6%8D-%E5%85%A9%E6%AD%BB%E8%80%85%E7%82%BA%E5%A4%AB%E5%A9%A6%E9%97%9C%E4%BF%82-%E7%94%B7%E7%82%BA%E4%BC%91%E7%8F%AD%E6%B6%88%E9%98%B2%E5%93%A1%E9%9A%B8%E5%B1%AC%E8%A7%80%E5%A1%98%E5%B1%80	未分類
-2026-06-17	青沙公路致命車禍休班消防員與妻遭拋出車雙亡 貨車司機涉危駕被捕	https://www.bastillepost.com/hongkong/article/16180963-青沙公路致命車禍休班消防員與妻遭拋出車雙亡	未分類
-2026-06-17	青沙公路致命車禍 休班消防員與妻子雙亡	https://hk.news.yahoo.com/青沙公路致命車禍-休班消防員與妻子雙亡-005834644.html	未分類
-2026-06-17	青沙公路發生致命交通意外 兩死兩傷	https://news.rthk.hk/rthk/ch/component/k2/1858773-20260617.htm	未分類
+2026-06-17	青衣兩死車禍│消防處：對有屬員及其妻不幸離世非常難過將提供一切可行協助- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/17/AP6a324a42e4b0b49ad1bfb738.html	車禍
+2026-06-17	青衣兩死車禍│友人貼文指女死者是社工：社會就這樣損失了兩個這麼好的人- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/17/AP6a32b370e4b0b49ad1bfc332.html	車禍
+2026-06-17	青沙公路車禍｜男死者志願做消防 上周救人受傷仍偕妻曼谷度蜜月	https://www.hk01.com/突發/60361233/青沙公路車禍-男死者志願做消防-上周救人受傷仍偕妻曼谷度蜜月	車禍
+2026-06-17	青沙公路車禍｜女死者為社工 友網上嘆：社會損失兩個這麼好的人	https://www.hk01.com/突發/60361420/青沙公路車禍-女死者為社工-友網上嘆-社會損失兩個這麼好的人	車禍
+2026-06-17	青沙公路車禍｜夫婦無扣安全帶 運輸署：扣安全帶死傷風險減半	https://www.hk01.com/突發/60361207/青沙公路車禍-夫婦無扣安全帶-運輸署-扣安全帶死傷風險減半	車禍
+2026-06-17	青沙公路車禍釀兩死 休班消防員偕妻返港遇意外	https://www.singtaousa.com/2026/06/17/news/china/off-duty-firefighter-honeymoon-fatal-crash/	車禍
+2026-06-17	青沙公路車禍休班消防員偕妻亡 上周三曾於觀塘救回墮海老翁	https://www.orangenews.hk/hongkong/VMlzbyr/青沙公路車禍休班消防員偕妻亡-上周三曾於觀塘救回墮海老翁.shtml	車禍
+2026-06-17	青沙公路致命車禍｜兩死者為夫婦關係 男為休班消防員隸屬觀塘局	https://www.hk01.com/%E7%AA%81%E7%99%BC/60361053/%E9%9D%92%E6%B2%99%E5%85%AC%E8%B7%AF%E8%87%B4%E5%91%BD%E8%BB%8A%E7%A6%8D-%E5%85%A9%E6%AD%BB%E8%80%85%E7%82%BA%E5%A4%AB%E5%A9%A6%E9%97%9C%E4%BF%82-%E7%94%B7%E7%82%BA%E4%BC%91%E7%8F%AD%E6%B6%88%E9%98%B2%E5%93%A1%E9%9A%B8%E5%B1%AC%E8%A7%80%E5%A1%98%E5%B1%80	車禍
+2026-06-17	青沙公路致命車禍休班消防員與妻遭拋出車雙亡 貨車司機涉危駕被捕	https://www.bastillepost.com/hongkong/article/16180963-青沙公路致命車禍休班消防員與妻遭拋出車雙亡	車禍
+2026-06-17	青沙公路致命車禍 休班消防員與妻子雙亡	https://hk.news.yahoo.com/青沙公路致命車禍-休班消防員與妻子雙亡-005834644.html	車禍
+2026-06-17	青沙公路發生致命交通意外 兩死兩傷	https://news.rthk.hk/rthk/ch/component/k2/1858773-20260617.htm	車禍
 2026-06-17	青沙公路客貨車與的士相撞致兩乘客亡 死者為休班消防員及其妻	https://hk.news.yahoo.com/青沙公路客貨車與的士相撞致兩乘客亡-死者為休班消防員及其妻-楊佩詩報道-120824870.html	未分類
 2026-06-17	青沙公路客貨車撞的士 造成2死2傷	https://www.orangenews.hk/hongkong/VMkjBNe/青沙公路客貨車撞的士-造成2死2傷.shtml	未分類
-2026-06-17	青沙公路奪命車禍兩死 男死者為休班消防員 偕妻補度蜜月回港出事 上周曾救觀塘墮海翁 (13:17) - 20260617 - 港聞	https://news.mingpao.com/ins/港聞/article/20260617/s00001/1781672898470/青沙公路奪命車禍兩死-男死者為休班消防員-偕妻補度蜜月回港出事-上周曾救觀塘墮海翁	未分類
-2026-06-17	青沙公路兩死車禍｜據悉死者為消防員及妻子 的士所屬車隊慰問死者家屬	https://news.tvb.com/sc/1177301-青沙公路兩死車禍據悉死者為消防員及妻子的士所屬車隊慰問死者家屬	未分類
-2026-06-17	青沙公路兩死車禍｜ 消防處證實男死者為休班消防員 上周四跳海救人 昨與妻遭拋出車外亡	https://www.i-cable.com/新聞資訊/475430/青沙公路兩死車禍-消防處證實男死者為休班消防	未分類
-2026-06-17	青沙公路兩死車禍｜ 休班消防員與妻子雙亡 消防處對事件非常難過	https://www.i-cable.com/新聞資訊/475451/青沙公路兩死車禍-休班消防員與妻子雙亡-消防	未分類
-2026-06-17	青沙兩死車禍．法例｜的士司機乘客須扣安全帶 違者可判監及罰款	https://www.hk01.com/突發/60361040/青沙兩死車禍-法例-的士司機乘客須扣安全帶-違者可判監及罰款	未分類
+2026-06-17	青沙公路奪命車禍兩死 男死者為休班消防員 偕妻補度蜜月回港出事 上周曾救觀塘墮海翁 (13:17) - 20260617 - 港聞	https://news.mingpao.com/ins/港聞/article/20260617/s00001/1781672898470/青沙公路奪命車禍兩死-男死者為休班消防員-偕妻補度蜜月回港出事-上周曾救觀塘墮海翁	車禍
+2026-06-17	青沙公路兩死車禍｜據悉死者為消防員及妻子 的士所屬車隊慰問死者家屬	https://news.tvb.com/sc/1177301-青沙公路兩死車禍據悉死者為消防員及妻子的士所屬車隊慰問死者家屬	車禍
+2026-06-17	青沙公路兩死車禍｜ 消防處證實男死者為休班消防員 上周四跳海救人 昨與妻遭拋出車外亡	https://www.i-cable.com/新聞資訊/475430/青沙公路兩死車禍-消防處證實男死者為休班消防	車禍
+2026-06-17	青沙公路兩死車禍｜ 休班消防員與妻子雙亡 消防處對事件非常難過	https://www.i-cable.com/新聞資訊/475451/青沙公路兩死車禍-休班消防員與妻子雙亡-消防	車禍
+2026-06-17	青沙兩死車禍．法例｜的士司機乘客須扣安全帶 違者可判監及罰款	https://www.hk01.com/突發/60361040/青沙兩死車禍-法例-的士司機乘客須扣安全帶-違者可判監及罰款	車禍
 2026-06-17	荔景山路果子貍誤闖行車線 慘遭不幸疑被車輛撞斃	https://hk.on.cc/hk/bkn/cnt/news/20260617/bkn-20260617105745720-0617_00822_001.html	未分類
-2026-06-17	致命車禍丨青沙公路的士輕貨相撞 夫婦拋出車外亡	https://m.hkej.com/landing/mobarticle2/id/4433523/致命車禍丨青沙公路的士輕貨相撞 夫婦拋出車外亡	未分類
+2026-06-17	致命車禍丨青沙公路的士輕貨相撞 夫婦拋出車外亡	https://m.hkej.com/landing/mobarticle2/id/4433523/致命車禍丨青沙公路的士輕貨相撞 夫婦拋出車外亡	車禍
 2026-06-17	紅磡私家車司機暈倒車內 救援人員發現其滿身酒氣涉醉駕被捕	https://www.hk01.com/突發/60361075/紅磡私家車司機暈倒車內-救援人員發現其滿身酒氣涉醉駕被捕	未分類
 2026-06-17	涉車廠撞斃同事否認危駕 九巴車長：公司無「排車」訓練 出事後天台增照明	https://hk.news.yahoo.com/涉車廠撞斃同事否認危駕-九巴車長：公司無「排車」訓練-出事後天台增照明-030650615.html	未分類
-2026-06-17	有片〡青沙公路車禍兩夫婦拋出車外亡 男死者為休班消防員	https://www.hkcd.com.hk/hkcdweb/content/2026/06/17/content_8760319.html	未分類
+2026-06-17	有片〡青沙公路車禍兩夫婦拋出車外亡 男死者為休班消防員	https://www.hkcd.com.hk/hkcdweb/content/2026/06/17/content_8760319.html	車禍
 2026-06-17	台中霧峰87歲嬤遭追撞「流血淋雨2小時」送醫不治 肇逃男辯：沒看到	https://news.pchome.com.tw/society/crwant/20260617/index-78166569816583316002.html	未分類
-2026-06-17	19歲女車禍頭部重創昏迷！彰基體系接力搶救成功出院	https://tw.news.yahoo.com/19歲女車禍頭部重創昏迷-彰基體系接力搶救成功出院-070746122.html	未分類
-2026-06-16	青沙公路車禍車CAM│貨車失控累鄰線的士撞壆打觔斗 有人飛出車外	https://www.hk01.com/突發/60361032/青沙公路車禍車cam-貨車失控累鄰線的士撞壆打觔斗-有人飛出車外	未分類
-2026-06-16	青沙兩死車禍車CAM│貨車失控累鄰線的士撞壆打觔斗 有人飛出車外	https://www.hk01.com/突發/60361032/青沙兩死車禍車cam-貨車失控累鄰線的士撞壆打觔斗-有人飛出車外	未分類
+2026-06-17	19歲女車禍頭部重創昏迷！彰基體系接力搶救成功出院	https://tw.news.yahoo.com/19歲女車禍頭部重創昏迷-彰基體系接力搶救成功出院-070746122.html	車禍
+2026-06-16	青沙公路車禍車CAM│貨車失控累鄰線的士撞壆打觔斗 有人飛出車外	https://www.hk01.com/突發/60361032/青沙公路車禍車cam-貨車失控累鄰線的士撞壆打觔斗-有人飛出車外	車禍
+2026-06-16	青沙兩死車禍車CAM│貨車失控累鄰線的士撞壆打觔斗 有人飛出車外	https://www.hk01.com/突發/60361032/青沙兩死車禍車cam-貨車失控累鄰線的士撞壆打觔斗-有人飛出車外	車禍
 2026-06-16	運豬車失控輾斃孝子工程師 老父悲吐生前「只月花5千」原因	https://news.ebc.net.tw/news/society/556701	未分類
 2026-06-16	車長車廠疑遭撞斃 「排車」同事否認危駕 - 20260616 - 港聞	https://news.mingpao.com/pns/港聞/article/20260616/s00002/1781545186174/車長車廠疑遭撞斃-「排車」同事否認危駕	未分類
 2026-06-16	粉嶺公路小巴運油車相撞 小巴司機及3乘客受傷送院	https://www.orangenews.hk/hongkong/VMgCyE2/粉嶺公路小巴運油車相撞-小巴司機及3乘客受傷送院.shtml	未分類
 2026-06-16	私家車倒車撞入喪事現場致1死7傷 女司機被控制	https://hk.on.cc/hk/bkn/cnt/news/20260616/bkn-20260616081116543-0616_00822_001.html	未分類
 2026-06-16	涉車廠撞斃同事否認危駕 九巴車長：公司無「排車」訓練 出事後天台增照明	https://thewitnesshk.com/涉車廠撞斃同事否認危駕-九巴車長公司無排車訓練/	未分類
-2026-06-16	暑期車禍警報響起 台灣大專生事故頻傳 機車佔9成平均每周2死	https://www.kinliu.hk/news/暑期車禍警報響起-台灣大專生事故頻傳-機車佔9成平均每周2死/151726.html?id=129&from=home&bc1=首頁&bc1to=/	未分類
+2026-06-16	暑期車禍警報響起 台灣大專生事故頻傳 機車佔9成平均每周2死	https://www.kinliu.hk/news/暑期車禍警報響起-台灣大專生事故頻傳-機車佔9成平均每周2死/151726.html?id=129&from=home&bc1=首頁&bc1to=/	車禍
 2026-06-16	屏科大生騎車超速追撞轎車送醫不治 開車的學長獲不起訴	https://www.ettoday.net/news/20260616/3184305.htm	未分類
 2026-06-16	台北小巨蛋旁汽車自撞分隔島 一度釀停電影響逾400戶	https://money.udn.com/money/amp/story/122328/9569477	未分類
 2026-06-16	九巴車長車廠內遭撞斃 排車員自辯稱未覺撞到人 押後7.24裁決	https://www.bastillepost.com/hongkong/article/16178285-九巴車長車廠內遭撞斃-排車員自辯稱未覺撞到人-押	未分類
@@ -818,7 +812,7 @@ var DATA_TRAFFIC = `
 2026-06-16	九巴排車員涉撞斃同事 被告稱有望後鏡未見事主 倒車未覺撞到嘢	https://www.hk01.com/社會新聞/60360968/九巴排車員涉撞斃同事-被告稱有望後鏡未見事主-倒車未覺撞到嘢	未分類
 2026-06-16	九巴排車員涉倒車撞斃車長 自辯稱未發現巴士後方有人	https://www.stheadline.com/society/3583645/九巴排車員涉倒車撞斃車長-自辯稱未發現巴士後方有人	未分類
 2026-06-16	上班遭運豬車輾過亡！孝子生前「月僅花5千」 年邁父悲揭原因惹鼻酸	https://www.ftnn.com.tw/news/553732	未分類
-2026-06-15	高山峰車禍受傷	https://www.singtaousa.com/2026/06/15/entertainment/gaoshanfeng-car-accident-injury/	未分類
+2026-06-15	高山峰車禍受傷	https://www.singtaousa.com/2026/06/15/entertainment/gaoshanfeng-car-accident-injury/	車禍
 2026-06-15	電單車切線撞路邊客貨車 女乘客遭拋飛被後車輾斃(有片)	https://www.am730.com.hk/article/1036246	未分類
 2026-06-15	九巴車長涉車廠撞斃同事被控危駕致死 控方：倒車沒顧後方、車速過高	https://thewitnesshk.com/九巴車長涉車廠內撞斃同事被控危駕致死-控方指倒/	未分類
 2026-06-15	九巴排車員撞斃車長 事隔約3小時後才發現 否認危駕開審	https://www.hk01.com/社會新聞/60360502/九巴排車員撞斃車長-事隔約3小時後才發現-否認危駕開審	未分類
@@ -834,52 +828,52 @@ var DATA_TRAFFIC = `
 2026-06-11	男子開車撞死姦夫判囚終身 妻助滅證獲緩刑	https://hk.on.cc/hk/bkn/cnt/news/20260611/bkn-20260611190420930-0611_00822_001.html	未分類
 2026-06-11	父猝逝留4200萬遺產全給兒！遺囑曝光揭妻30年秘密 復仇布局震撼全家 | 國際 | CTWANT	https://www.ctwant.com/amp/article/484859/	未分類
 2026-06-11	渣土車翻側致女老師死亡調查報告出爐超載407%司機超速操作不當肇禍- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17411771829260/重點新聞-渣土車翻側致女老師死亡調查報告出爐--超載407-司機超速操作不當肇禍	未分類
-2026-06-11	桃園4死重大車禍生還者身分曝！驚吐：不知駕駛是怎麼了 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260611/index-78113862509544309002.html	未分類
+2026-06-11	桃園4死重大車禍生還者身分曝！驚吐：不知駕駛是怎麼了 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260611/index-78113862509544309002.html	車禍
 2026-06-11	桃園4死悲劇！參加告別式後突逆撞砂石車 夫妻雙亡2兒認屍哭斷腸	https://www.ftnn.com.tw/news/552765	未分類
 2026-06-10	蘆洲73歲翁遭毒駕撞飛再輾斃 女駕駛雙毒陽性遭羈押	https://tw.news.yahoo.com/蘆洲73歲翁遭毒駕撞飛再輾斃-女駕駛雙毒陽性遭羈押-065200395.html	未分類
 2026-06-10	疑剛參加完告別式…桃園轎車突逆向撞聯結車「幾乎全毀」 1死3命危2輕傷	https://www.ftnn.com.tw/news/552413	未分類
 2026-06-10	父喪後共赴餐敘竟成永別！桃園婦逆向猛撞砂石車 4親友斷魂路口	https://www.ftnn.com.tw/news/552449	未分類
 2026-06-10	漆黑隧道撞斃29隻羊判賠32隻 交警：法定牧道羊優先(有片)	https://www.am730.com.hk/中國/1035311/漆黑隧道撞斃29隻羊判賠32隻-交警-法定牧道羊優先-有片-	未分類
 2026-06-10	桃園新屋轎車逆向撞曳引車 肇事駕駛身亡、後座3人不治	https://news.pts.org.tw/article/812453	未分類
-2026-06-10	桃園4死車禍！砂石車司機還原驚悚過程「至今還在發抖」	https://news.ebc.net.tw/news/society/555923	未分類
+2026-06-10	桃園4死車禍！砂石車司機還原驚悚過程「至今還在發抖」	https://news.ebc.net.tw/news/society/555923	車禍
 2026-06-10	快訊／再添3冤魂！5親友參加告別式「逆撞砂石車」 釀4死悲劇	https://www.ettoday.net/news/20260610/3181077.htm	未分類
 2026-06-10	影/新北翁凌晨遭2車撞飛輾斃 毒駕女遭裁定羈押	https://tw.news.yahoo.com/影-新北翁凌晨遭2車撞飛輾斃-毒駕女遭裁定羈押-063550630.html	未分類
 2026-06-10	「呢啲家長害死細路！」靚媽搭巴士畀BB睇手機遭狠批 結局大快人心｜Juicy叮	https://www.stheadline.com/local-topics/3581671/呢啲家長害死細路靚媽搭巴士畀BB睇手機遭狠批-結局大快人心Juicy叮	未分類
 2026-06-08	輕型貨車司機大埔撞斃過馬路老婦 認不小心駕駛等4罪 索社會服務令報告准保釋至7.3判刑	https://hkcourtnews.com/輕型貨車司機大埔撞斃過馬路老婦 認不小心駕駛/	未分類
-2026-06-08	屯門公路車禍｜Audi變炮彈 警證出事前非法賽車 另拘一男司機	https://www.hk01.com/%E7%AA%81%E7%99%BC/60358216/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E8%BB%8A%E7%A6%8D-audi%E8%AE%8A%E7%82%AE%E5%BD%88-%E8%AD%A6%E8%AD%89%E5%87%BA%E4%BA%8B%E5%89%8D%E9%9D%9E%E6%B3%95%E8%B3%BD%E8%BB%8A-%E5%8F%A6%E6%8B%98%E4%B8%80%E7%94%B7%E5%8F%B8%E6%A9%9F	未分類
+2026-06-08	屯門公路車禍｜Audi變炮彈 警證出事前非法賽車 另拘一男司機	https://www.hk01.com/%E7%AA%81%E7%99%BC/60358216/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E8%BB%8A%E7%A6%8D-audi%E8%AE%8A%E7%82%AE%E5%BD%88-%E8%AD%A6%E8%AD%89%E5%87%BA%E4%BA%8B%E5%89%8D%E9%9D%9E%E6%B3%95%E8%B3%BD%E8%BB%8A-%E5%8F%A6%E6%8B%98%E4%B8%80%E7%94%B7%E5%8F%B8%E6%A9%9F	車禍
 2026-06-08	大埔男工人遭叉車輾腳 受傷送院治理	https://hk.on.cc/hk/bkn/cnt/news/20260608/bkn-20260608144800560-0608_00822_001.html	未分類
-2026-06-08	四川九寨溝釀奪命車禍 麵包車上6人全亡	https://vct.news/news/四川九寨溝釀奪命車禍-麵包車上6人全亡	未分類
+2026-06-08	四川九寨溝釀奪命車禍 麵包車上6人全亡	https://vct.news/news/四川九寨溝釀奪命車禍-麵包車上6人全亡	車禍
 2026-06-08	九寨溝兩車相撞6人亡 死者均非本地人	https://hk.on.cc/hk/bkn/cnt/news/20260608/bkn-20260608081052282-0608_00822_001.html	未分類
 2026-06-08	七旬婦過馬路遭撞斃 貨車司機認不小心駕駛等4罪 准保釋至7.3候判	https://std.stheadline.com/society/3580931/七旬婦過馬路遭撞斃-貨車司機認不小心駕駛等4罪-准保釋至73候判	未分類
-2026-06-07	屯門公路車禍｜直擊Audi如平衡木滑壆爆火花 撞斷燈柱墜對面線	https://www.hk01.com/%E7%AA%81%E7%99%BC/60357853/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E8%BB%8A%E7%A6%8D-%E7%9B%B4%E6%93%8Aaudi%E5%A6%82%E5%B9%B3%E8%A1%A1%E6%9C%A8%E6%BB%91%E5%A3%86%E7%88%86%E7%81%AB%E8%8A%B1-%E6%92%9E%E6%96%B7%E7%87%88%E6%9F%B1%E5%A2%9C%E5%B0%8D%E9%9D%A2%E7%B7%9A	未分類
+2026-06-07	屯門公路車禍｜直擊Audi如平衡木滑壆爆火花 撞斷燈柱墜對面線	https://www.hk01.com/%E7%AA%81%E7%99%BC/60357853/%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E8%BB%8A%E7%A6%8D-%E7%9B%B4%E6%93%8Aaudi%E5%A6%82%E5%B9%B3%E8%A1%A1%E6%9C%A8%E6%BB%91%E5%A3%86%E7%88%86%E7%81%AB%E8%8A%B1-%E6%92%9E%E6%96%B7%E7%87%88%E6%9F%B1%E5%A2%9C%E5%B0%8D%E9%9D%A2%E7%B7%9A	車禍
 2026-06-07	大埔有私家車疑失控撞欄翻側 彈出碎片擊中女途人	https://news.tvb.com/tc/1175301-大埔有私家車疑失控撞欄翻側彈出碎片擊中女途人	未分類
-2026-06-06	陳學冬消失3年露面！《小時代》歌詞遭挖 「竟和車禍有關」巧到發毛	https://star.setn.com/news/1850995	未分類
+2026-06-06	陳學冬消失3年露面！《小時代》歌詞遭挖 「竟和車禍有關」巧到發毛	https://star.setn.com/news/1850995	車禍
 2026-06-06	獨自誤闖入停車場 越南15 個月大女嬰遭倒退車輛輾斃	https://www.bastillepost.com/hongkong/article/16066943-獨自闖入停車場-越南15個月大女嬰遭倒退休旅車輾	未分類
 2026-06-06	尖沙咀女子過路遭的士撞斃司機被捕- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/06/AP6a23aae3e4b0b49ad1be3a68.html	未分類
 2026-06-06	尖沙咀女子捱的士撞飛彈30米重創送院不治 逾六旬的哥涉危駕被捕	https://hk.news.yahoo.com/尖沙咀女子捱的士撞飛彈30米重創送院不治-逾六旬的哥涉危駕被捕-010209885.html	未分類
-2026-06-05	香港探秘地圖｜姊弟團聚慘遇車禍 姐姐捨命救弟後昏迷不醒｜第十五集	https://news.tvb.com/tc/1174918-香港探秘地圖姊弟團聚慘遇車禍姐姐捨命救弟後昏迷不醒第十五集	未分類
-2026-06-05	香港前5月交通意外51死 按年飆升42% 嚴厲抓違規2周	https://www.worldjournal.com/wj/amp/story/121341/9548014	未分類
+2026-06-05	香港探秘地圖｜姊弟團聚慘遇車禍 姐姐捨命救弟後昏迷不醒｜第十五集	https://news.tvb.com/tc/1174918-香港探秘地圖姊弟團聚慘遇車禍姐姐捨命救弟後昏迷不醒第十五集	車禍
+2026-06-05	香港前5月交通意外51死 按年飆升42% 嚴厲抓違規2周	https://www.worldjournal.com/wj/amp/story/121341/9548014	車禍
 2026-06-05	新店機車騎士直行差點被左轉砂石車撞上輾斃！網：感謝學長不殺之恩	https://cars.tvbs.com.tw/life/325355	未分類
 2026-06-05	屯門龍鼓灘兩車相撞 客貨車車頭被劏開 司機被困昏迷送院亡	https://www.i-cable.com/新聞資訊/471577/屯門龍門路兩車相撞-客貨車車頭被劏開-司機被	未分類
 2026-06-05	宜蘭代步車老婦遭撞噴飛輾斃 肇事四寶媽「載3童皆無安全座椅」	https://www.ftnn.com.tw/news/551320	未分類
 2026-06-05	宜蘭4寶媽撞飛82歲阿嬤 又輾過送醫不治	https://more-news.tw/634442/	未分類
-2026-06-04	長島美甲店4死9傷車禍案 被告控罪全成立 最高終身監禁	https://www.worldjournal.com/wj/amp/story/121390/9547262	未分類
-2026-06-04	過馬路｜今年首5個月51人死於交通意外 按年升42% 警方明起連續2周打擊違法過馬路等行為	https://news.hket.com/article/4141473/過馬路｜今年首5個月51人死於交通意外 按年升42- 警方明起連續2周打擊違法過馬路等行為	未分類
+2026-06-04	長島美甲店4死9傷車禍案 被告控罪全成立 最高終身監禁	https://www.worldjournal.com/wj/amp/story/121390/9547262	車禍
+2026-06-04	過馬路｜今年首5個月51人死於交通意外 按年升42% 警方明起連續2周打擊違法過馬路等行為	https://news.hket.com/article/4141473/過馬路｜今年首5個月51人死於交通意外 按年升42- 警方明起連續2周打擊違法過馬路等行為	車禍
 2026-06-04	聽▶︎港聞｜粉嶺公路三車相撞 Save Lily父母證兒子血緣 極端酷熱｜2026年6月4日	https://news.tvb.com/en/1174658-聽▶︎港聞粉嶺公路三車相撞SaveLily父母證兒子血緣極端酷熱2026年6月4日	未分類
 2026-06-04	粉嶺公路3車相撞至少23人受傷 18人送院	https://news.rthk.hk/rthk/ch/component/k2/1857185-20260604.htm	未分類
-2026-06-04	消防處輕型貨車涉交通意外 受影響人士入稟索償 (14:33) - 20260604 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260604/s00001/1780553041114/%E6%B6%88%E9%98%B2%E8%99%95%E8%BC%95%E5%9E%8B%E8%B2%A8%E8%BB%8A%E6%B6%89%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%8F%97%E5%BD%B1%E9%9F%BF%E4%BA%BA%E5%A3%AB%E5%85%A5%E7%A8%9F%E7%B4%A2%E5%84%9F	未分類
+2026-06-04	消防處輕型貨車涉交通意外 受影響人士入稟索償 (14:33) - 20260604 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260604/s00001/1780553041114/%E6%B6%88%E9%98%B2%E8%99%95%E8%BC%95%E5%9E%8B%E8%B2%A8%E8%BB%8A%E6%B6%89%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%8F%97%E5%BD%B1%E9%9F%BF%E4%BA%BA%E5%A3%AB%E5%85%A5%E7%A8%9F%E7%B4%A2%E5%84%9F	車禍
 2026-06-04	孕蛇遭車輾斃爆肚！30 多條幼蛇噴出泰老翁救下冀中六合彩	https://www.bastillepost.com/hongkong/article/16093445-孕蛇遭車輾斃爆肚！30多條幼蛇噴出 泰老翁救下冀	未分類
 2026-06-04	及時雨 - 巴士司機猝逝 遺下妻子及在學兒子 | 及時雨	https://www.stheadline.com/columnists/lifestyle/3579353/及時雨-巴士司機猝逝-遺下妻子及在學兒子-及時雨	未分類
 2026-06-04	及时雨 - 巴士司机猝逝 遗下妻子及在学儿子 | 及时雨	https://www.stheadline.com/zh-hans/columnists/lifestyle/3579353/及时雨-巴士司机猝逝-遗下妻子及在学儿子-及时雨	未分類
 2026-06-03	知名直播主遭3.5噸貨車輾過亡 百人目睹驚悚瞬間	https://tw.news.yahoo.com/知名直播主遭3-5噸貨車輾過亡-百人目睹驚悚瞬間-044000565.html	未分類
 2026-06-03	安徽馬鞍山旅遊巴司機突然暈厥 車輛失控碰撞途人2死2傷	https://www.hk01.com/即時中國/60356399/安徽馬鞍山旅遊巴司機突然暈厥-車輛失控碰撞途人2死2傷	未分類
-2026-06-03	安徽和縣車禍致2死2傷：57歲司機突發昏厥，大巴失控	https://www.hkcd.com.hk/hkcdweb/content/2026/06/03/content_8758131.html	未分類
+2026-06-03	安徽和縣車禍致2死2傷：57歲司機突發昏厥，大巴失控	https://www.hkcd.com.hk/hkcdweb/content/2026/06/03/content_8758131.html	車禍
 2026-06-02	被台灣超商內「超有愛」一景震撼 日網紅驚呼：日本絕對看不到	https://www.mnews.tw/story/amp/mm-20260601web005	未分類
 2026-06-02	葵涌單車漢遭巴士撞斃 妻兒親友現場路祭	https://hk.on.cc/hk/bkn/cnt/news/20260602/bkn-20260602135522099-0602_00822_001.html	未分類
 2026-06-02	葵涌九巴撞斃單車外賣員 死者妻兒及親人傷心路祭	https://www.orangenews.hk/hongkong/VLNWPU0/葵涌九巴撞斃單車外賣員-死者妻兒及親人傷心路祭.shtml	未分類
 2026-06-02	旺角救護車「送院途中」撼九巴 車頭泵把飛脫 另調車接力送傷者	https://www.stheadline.com/breaking-news/3578624/旺角救護車送院途中撼九巴-車頭泵把飛脫-另調車接力送傷者	未分類
-2026-06-02	台空軍一飛機墜毀機上2人死亡- 兩岸	https://www.dotdotnews.com/a/202606/02/AP6a1e404ee4b09ea233171cfa.html	未分類
-2026-06-02	台空軍一飛機墜毀兩人死亡- 台海	https://www.tkww.hk/a/202606/02/AP6a1e42d7e4b04773b06f524e.html	未分類
+2026-06-02	台空軍一飛機墜毀機上2人死亡- 兩岸	https://www.dotdotnews.com/a/202606/02/AP6a1e404ee4b09ea233171cfa.html	墜機
+2026-06-02	台空軍一飛機墜毀兩人死亡- 台海	https://www.tkww.hk/a/202606/02/AP6a1e42d7e4b04773b06f524e.html	墜機
 2026-06-01	（有片）葵涌單車男遭巴士撞連人帶車捲車底重創昏迷- 港聞	https://www.dotdotnews.com/a/202606/01/AP6a1d40d8e4b09ea233170dc9.html	未分類
 2026-06-01	（有片）灣仔的士站4的士串燒1司機不適送院- 港聞	https://www.dotdotnews.com/a/202606/01/AP6a1d41dce4b09ea233170e61.html	未分類
 2026-06-01	高雄死亡轉彎！聯結車疑視線死角輾斃女騎士 身分成謎待查	https://tw.news.yahoo.com/高雄死亡轉彎-聯結車疑視線死角輾斃女騎士-身分成謎待查-083518944.html	未分類
@@ -891,86 +885,86 @@ var DATA_TRAFFIC = `
 2026-06-01	巨型孕蛇遭車輾斃爆肚 三十幼蛇破體逃生 好心翁勇救冀中六合彩	https://www.hk01.com/熱爆話題/60355392/巨型孕蛇遭車輾斃爆肚-三十幼蛇破體逃生-好心翁勇救冀中六合彩	未分類
 2026-06-01	(有片) 葵涌單車男遭巴士撞低捲車底口鼻噴血重創昏迷- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/01/AP6a1d3814e4b0b49ad1bd996c.html	未分類
 2026-05-31	灣區船隻往返頻繁 常見灰鯨撞死	https://www.worldjournal.com/wj/amp/story/121368/9537936	未分類
-2026-05-30	維珍尼亞州巴士車禍5死44傷 交通部長指司機來自中國不會說英文	https://www.hk01.com/即時國際/60355034/維珍尼亞州巴士車禍5死44傷-交通部長指司機來自中國不會說英文	未分類
+2026-05-30	維珍尼亞州巴士車禍5死44傷 交通部長指司機來自中國不會說英文	https://www.hk01.com/即時國際/60355034/維珍尼亞州巴士車禍5死44傷-交通部長指司機來自中國不會說英文	車禍
 2026-05-30	印尼布罗莫火山一车辆发生交通事故 已致2死3伤	https://news.cctv.com/2026/05/30/ARTI7vHzUzLPcsJC090NNrk6260530.shtml	未分類
 2026-05-29	驚悚畫面曝光！彰化7歲童遭垃圾車輾斃 鄉公所回應了	https://news.ebc.net.tw/news/society/553912	未分類
 2026-05-29	汀九橋客貨車與Tesla相撞 一司機送院 往九龍一度擠塞	https://www.hk01.com/突發/60354731/汀九橋客貨車與tesla相撞-一司機送院-往九龍一度擠塞	未分類
 2026-05-29	屯門公路5車連環相撞 2人輕傷送院	https://www.am730.com.hk/本地/1033148/屯門公路5車連環相撞-2人輕傷送院	未分類
 2026-05-29	「我嚇到不知道了！」目睹愛孫慘遭垃圾車輾斃 外婆崩潰跪地痛哭	https://tw.news.yahoo.com/我嚇到不知道了-目睹愛孫慘遭垃圾車輾斃-外婆崩潰跪地痛哭-023800332.html	未分類
-2026-05-28	澳門車禍｜駕車斑馬線撞斃10歲童 電腦工程師涉過失殺人移送法辦	https://www.hk01.com/突發/60354442/澳門車禍-駕車斑馬線撞斃10歲童-電腦工程師涉過失殺人移送法辦	未分類
+2026-05-28	澳門車禍｜駕車斑馬線撞斃10歲童 電腦工程師涉過失殺人移送法辦	https://www.hk01.com/突發/60354442/澳門車禍-駕車斑馬線撞斃10歲童-電腦工程師涉過失殺人移送法辦	車禍
 2026-05-27	彰化72歲婦騎腳踏車遭聯結車輾斃！ 丈夫認屍淚崩 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260527/index-77986734227778309002.html	未分類
 2026-05-25	舒淇將馮德倫排第四順位，蔡康永一句話引共鳴：舒淇真實愛情觀震撼眾人	https://star.setn.com/news/1844131?utm_campaign=viewallnews	未分類
 2026-05-23	願逝者安息🙏(#01J) 【彰化父女遭撞亡！家屬返火鍋店現場招魂啜泣 連擲2次獲允杯】 （圖／記者唐詠絮攝，下同	https://www.facebook.com/ETtoday/posts/%E9%A1%98%E9%80%9D%E8%80%85%E5%AE%89%E6%81%AF01j%E5%BD%B0%E5%8C%96%E7%88%B6%E5%A5%B3%E9%81%AD%E6%92%9E%E4%BA%A1%E5%AE%B6%E5%B1%AC%E8%BF%94%E7%81%AB%E9%8D%8B%E5%BA%97%E7%8F%BE%E5%A0%B4%E6%8B%9B%E9%AD%82%E5%95%9C%E6%B3%A3-%E9%80%A3%E6%93%B22%E6%AC%A1%E7%8D%B2%E5%85%81%E6%9D%AF%E5%9C%96%E8%A8%98%E8%80%85%E5%94%90%E8%A9%A0%E7%B5%AE%E6%94%9D/1440826678076413/	未分類
 2026-05-23	快訊／宜蘭遶境「鞭炮掉車內」！翁情急跳車遭後方神轎車撞斃	https://www.ettoday.net/news/20260523/3170832.htm	未分類
 2026-05-23	NASA追蹤一顆巴士大小的小行星今日掠過地球	https://www.ntdtv.com/b5/2026/05/22/a104099102.html	未分類
-2026-05-22	頂客族夫妻車禍相繼離世! 她多活3天結局大不同… 尪一半遺產落入前夫家	https://www.setn.com/news/1842572	未分類
-2026-05-22	殘酷繼承分配！車禍丈夫先走「妻3天後離世」 尪一半遺產進前夫家口袋	https://news.ebc.net.tw/news/living/552889	未分類
+2026-05-22	頂客族夫妻車禍相繼離世! 她多活3天結局大不同… 尪一半遺產落入前夫家	https://www.setn.com/news/1842572	車禍
+2026-05-22	殘酷繼承分配！車禍丈夫先走「妻3天後離世」 尪一半遺產進前夫家口袋	https://news.ebc.net.tw/news/living/552889	車禍
 2026-05-21	華州交通事故死亡人數下降	https://www.epochtimes.com/b5/26/5/21/n14770914.htm/amp	未分類
 2026-05-21	睇住日籍師傅用備長炭即燒串燒| U Community 社群平台	https://www.ulifestyle.com.hk/community/detailpost/73108ee8-bdaa-4eff-afb7-d838f096b8ef/香港攻略/HappyMargie/551325	未分類
-2026-05-21	牛頭角的士車禍釀兩死 七旬的士司機坐輪椅出庭 案押後再作調查	https://www.hk01.com/article/60352130	未分類
+2026-05-21	牛頭角的士車禍釀兩死 七旬的士司機坐輪椅出庭 案押後再作調查	https://www.hk01.com/article/60352130	車禍
 2026-05-21	牛頭角的士剷行人路涉撞斃兩女 七旬司機坐輪椅應訊 保釋期間不准駕駛	https://thewitnesshk.com/牛頭角的士剷行人路涉撞斃兩女-七旬司機坐輪椅應/	未分類
-2026-05-21	台中市3連霸里長曹豐洋驚傳猝逝！前一天還在處理車禍 女兒悲痛證實了	https://tw.news.yahoo.com/台中市3連霸里長曹豐洋驚傳猝逝-前-天還在處理車禍-女兒悲痛證實了-203400133.html	未分類
-2026-05-20	賓頓凌晨發生嚴重車禍 司機命危送院	https://www.singtao.ca/7509980/2026-05-20/news-賓頓凌晨發生嚴重車禍 司機命危送院/	未分類
-2026-05-20	牛頭角車禍│涉駕的士剷行人路撞死兩女途人七旬司機被控 ...	https://www.singtao.ca/7510627/2026-05-20/news-牛頭角車禍│涉駕的士剷行人路撞死兩女途人+七旬司機被控危駕致他人死亡/	未分類
+2026-05-21	台中市3連霸里長曹豐洋驚傳猝逝！前一天還在處理車禍 女兒悲痛證實了	https://tw.news.yahoo.com/台中市3連霸里長曹豐洋驚傳猝逝-前-天還在處理車禍-女兒悲痛證實了-203400133.html	車禍
+2026-05-20	賓頓凌晨發生嚴重車禍 司機命危送院	https://www.singtao.ca/7509980/2026-05-20/news-賓頓凌晨發生嚴重車禍 司機命危送院/	車禍
+2026-05-20	牛頭角車禍│涉駕的士剷行人路撞死兩女途人七旬司機被控 ...	https://www.singtao.ca/7510627/2026-05-20/news-牛頭角車禍│涉駕的士剷行人路撞死兩女途人+七旬司機被控危駕致他人死亡/	車禍
 2026-05-20	九龍灣七人車猛撼電箱撞飛鐵欄86歲婦遭擊中留醫半日不治- 港聞	https://www.dotdotnews.com/a/202605/20/AP6a0da989e4b09ea23315e71e.html	未分類
-2026-05-20	九龍城車禍｜23歲土生土長巴裔鐵騎士遭校巴輾斃 生前攻讀大學母聞訊三度暈倒	https://topick.hket.com/article/4131720/九龍城車禍｜23歲土生土長巴裔鐵騎士遭校巴輾斃 生前攻讀大學母聞訊三度暈倒	未分類
+2026-05-20	九龍城車禍｜23歲土生土長巴裔鐵騎士遭校巴輾斃 生前攻讀大學母聞訊三度暈倒	https://topick.hket.com/article/4131720/九龍城車禍｜23歲土生土長巴裔鐵騎士遭校巴輾斃 生前攻讀大學母聞訊三度暈倒	車禍
 2026-05-20	九龍城巴裔鐵騎士遭校巴輾斃 六旬司機准保9.17再訊	https://hk.on.cc/hk/bkn/cnt/news/20260520/bkn-20260520173949929-0520_00822_001.html	未分類
-2026-05-20	24歲短劇男演員意外離世 好友透露：騎電單車遇車禍	https://www.hk01.com/article/60351727	未分類
+2026-05-20	24歲短劇男演員意外離世 好友透露：騎電單車遇車禍	https://www.hk01.com/article/60351727	車禍
 2026-05-19	施工中路段 的士撞斃過路翁 - 20260519 - 港聞	https://news.mingpao.com/pns/港聞/article/20260519/s00002/1779126663496/施工中路段-的士撞斃過路翁	未分類
-2026-05-19	布市高速路惡性車禍 一女亡 十車連環相撞	https://www.epochtimes.com/b5/26/5/19/n14767625.htm	未分類
+2026-05-19	布市高速路惡性車禍 一女亡 十車連環相撞	https://www.epochtimes.com/b5/26/5/19/n14767625.htm	車禍
 2026-05-19	巴士八旬翁猝死！家屬索賠逾¥11萬被法院駁回 網民：死哪訛哪？	https://www.hk01.com/熱爆話題/60350992/巴士八旬翁猝死-家屬索賠逾-11萬被法院駁回-網民-死哪訛哪	未分類
-2026-05-19	24歲短劇男星車禍驟逝！愛玩車曾放話「年輕骨頭斷好得快」好友證死訊	https://stars.udn.com/star/amp/story/10089/9512281	未分類
-2026-05-19	24歲短劇男星車禍驟逝…曾放話「年輕骨頭斷好得快」	https://www.worldjournal.com/wj/amp/story/121478/9513398	未分類
+2026-05-19	24歲短劇男星車禍驟逝！愛玩車曾放話「年輕骨頭斷好得快」好友證死訊	https://stars.udn.com/star/amp/story/10089/9512281	車禍
+2026-05-19	24歲短劇男星車禍驟逝…曾放話「年輕骨頭斷好得快」	https://www.worldjournal.com/wj/amp/story/121478/9513398	車禍
 2026-05-18	牛頭角的士剷上行人路意外釀兩死 留醫5日明愛牙科職員不治 (23:27) - 20260518 - 港聞	https://news.mingpao.com/ins/港聞/article/20260518/s00001/1779118199801/牛頭角的士剷上行人路意外釀兩死-留醫5日明愛牙科職員不治	未分類
 2026-05-18	東涌的士撞斃途人 司機涉危駕被捕	https://hk.news.yahoo.com/東涌的士撞斃途人-司機涉危駕被捕-020723588.html	未分類
 2026-05-18	東涌的士撞斃男途人 司機涉危駕被捕	https://www.hkej.com/instantnews/current/article/4405692/東涌的士撞斃男途人+司機涉危駕被捕	未分類
 2026-05-18	東涌的士撞斃八旬翁 司機涉危駕被捕	https://hk.epochtimes.com/news/2026-05-18/85751317	未分類
-2026-05-18	東涌交通意外｜東涌的士撞斃途人 65歲男司機涉危駕被捕	https://news.hket.com/article/4130456/東涌交通意外｜東涌的士撞斃途人 65歲男司機涉危駕被捕?mtc=j0001	未分類
+2026-05-18	東涌交通意外｜東涌的士撞斃途人 65歲男司機涉危駕被捕	https://news.hket.com/article/4130456/東涌交通意外｜東涌的士撞斃途人 65歲男司機涉危駕被捕?mtc=j0001	車禍
 2026-05-18	恩施市旅遊巴翻側 1死3傷	https://hk.on.cc/hk/bkn/cnt/news/20260518/bkn-20260518230431154-0518_00822_001.html	未分類
 2026-05-18	八旬翁於東涌遭的士撞斃 司機涉危駕被捕 (09:56) - 20260518 - 港聞	https://news.mingpao.com/ins/港聞/article/20260518/s00001/1779068271034/八旬翁於東涌遭的士撞斃-司機涉危駕被捕	未分類
 2026-05-18	上海老翁巴士上「閉眼休息」猝死 家屬索償11萬被駁回	https://www.am730.com.hk/中國/1031152/上海老翁巴士上-閉眼休息-猝死-家屬索償11萬被駁回	未分類
 2026-05-18	​廣西環江客貨車墜河已致4死 仍有6人失聯	https://www.orangenews.hk/china/VJx2e54/廣西環江客貨車墜河已致4死-仍有6人失聯.shtml	未分類
 2026-05-17	大埔鐵騎士撼塌樹亡│女友籲目擊者提供車Cam片段還原真相- 香港 - 香港文匯網	https://www.wenweipo.com/a/202605/17/AP6a09d2d6e4b0b49ad1bb75c3.html	未分類
-2026-05-16	（有片）兩港人新西蘭南島車禍遇難另有3傷者送院- 港聞	https://www.dotdotnews.com/a/202605/16/AP6a07fd0ee4b09ea233157a82.html	未分類
+2026-05-16	（有片）兩港人新西蘭南島車禍遇難另有3傷者送院- 港聞	https://www.dotdotnews.com/a/202605/16/AP6a07fd0ee4b09ea233157a82.html	車禍
 2026-05-16	現場直擊｜泰國發生火車與公交車相撞事故已致8人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202605/16/AP6a0847b0e4b0b49ad1bb4811.html	未分類
 2026-05-16	泰國曼谷貨運列車與巴士相撞 至少8死25傷 巴士陷火海｜有片	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60350580/%E6%B3%B0%E5%9C%8B%E6%9B%BC%E8%B0%B7%E8%B2%A8%E9%81%8B%E5%88%97%E8%BB%8A%E8%88%87%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E-%E8%87%B3%E5%B0%918%E6%AD%BB25%E5%82%B7-%E5%B7%B4%E5%A3%AB%E9%99%B7%E7%81%AB%E6%B5%B7-%E6%9C%89%E7%89%87	未分類
 2026-05-16	泰國曼谷列車巴士相撞起火 已致至少八死	https://www.orangenews.hk/international/VJmV8W1/泰國曼谷列車巴士相撞起火-已致至少八死.shtml	未分類
 2026-05-16	曼谷發生火車與巴士相撞事故 至少8死25傷	https://www.881903.com/news/international/2631856	未分類
 2026-05-16	曼谷有火車與巴士相撞波及多車引發大火 最少8死25傷	https://news.rthk.hk/rthk/ch/component/k2/1854941-20260516.htm	未分類
-2026-05-16	新西蘭南島車禍港人兩死兩傷 入境處：已按家屬意願提供可行協助	https://www.hk01.com/社會新聞/60350608/新西蘭南島車禍港人兩死兩傷-入境處-已按家屬意願提供可行協助	未分類
-2026-05-16	新西蘭南島自駕遊釀車禍 香港遊客兩死兩傷	https://www.stheadline.com/breaking-news/3573045/新西蘭南島自駕遊釀車禍香港遊客兩死兩傷	未分類
+2026-05-16	新西蘭南島車禍港人兩死兩傷 入境處：已按家屬意願提供可行協助	https://www.hk01.com/社會新聞/60350608/新西蘭南島車禍港人兩死兩傷-入境處-已按家屬意願提供可行協助	車禍
+2026-05-16	新西蘭南島自駕遊釀車禍 香港遊客兩死兩傷	https://www.stheadline.com/breaking-news/3573045/新西蘭南島自駕遊釀車禍香港遊客兩死兩傷	車禍
 2026-05-16	新西蘭南島多車連環相撞 兩港人死亡 三人受傷	https://news.rthk.hk/rthk/ch/component/k2/1854920-20260516.htm	未分類
 2026-05-16	新西蘭南島三車相撞兩港人遊客當場死亡- 有線寬頻i-CABLE	https://www.i-cable.com/新聞資訊/464993/新西蘭南島三車相撞-兩港人遊客當場死亡	未分類
-2026-05-16	大埔吐露港公路連環車禍 涉3私家車包括Tesla 3人受傷	https://www.hk01.com/%E7%AA%81%E7%99%BC/60350507/%E5%A4%A7%E5%9F%94%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF%E9%80%A3%E7%92%B0%E8%BB%8A%E7%A6%8D-%E6%B6%893%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8C%85%E6%8B%ACtesla-3%E4%BA%BA%E5%8F%97%E5%82%B7	未分類
-2026-05-15	青馬職員車禍亡｜死者沒有架子 喜歡照顧新人 同事：佢做嘢勤力認真	https://std.stheadline.com/breaking-news/3572703/青馬職員車禍亡死者沒有架子-喜歡照顧新人-同事佢做嘢勤力認真	未分類
+2026-05-16	大埔吐露港公路連環車禍 涉3私家車包括Tesla 3人受傷	https://www.hk01.com/%E7%AA%81%E7%99%BC/60350507/%E5%A4%A7%E5%9F%94%E5%90%90%E9%9C%B2%E6%B8%AF%E5%85%AC%E8%B7%AF%E9%80%A3%E7%92%B0%E8%BB%8A%E7%A6%8D-%E6%B6%893%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%8C%85%E6%8B%ACtesla-3%E4%BA%BA%E5%8F%97%E5%82%B7	車禍
+2026-05-15	青馬職員車禍亡｜死者沒有架子 喜歡照顧新人 同事：佢做嘢勤力認真	https://std.stheadline.com/breaking-news/3572703/青馬職員車禍亡死者沒有架子-喜歡照顧新人-同事佢做嘢勤力認真	車禍
 2026-05-15	東涌的士電單車相撞 鐵騎士受傷送院 (11:34) - 20260515 - 港聞	https://news.mingpao.com/ins/港聞/article/20260515/s00001/1778815248696/東涌的士電單車相撞-鐵騎士受傷送院	未分類
-2026-05-15	奪命車禍丨長青公路奪命車禍奉召處理故障七人車 青馬管制區男職員落車了解遭貨車撞斃	https://skypost.hk/article/4129454/奪命車禍-長青公路奪命車禍奉召處理故障七人車-青馬管制區男職員落車了解遭貨車撞斃	未分類
-2026-05-14	點聞1分鐘｜牛頭角1死4傷嚴重車禍 高齡的士司機成「馬路炸彈」？	https://www.dotdotnews.com/a/202605/14/AP6a057a44e4b09ea2331547d8.html	未分類
-2026-05-14	青馬職員車禍亡｜貨車收掣不及釀禍 52歲司機涉危駕被捕	https://www.singtao.ca/7504616/2026-05-14/news-青馬職員車禍亡｜貨車收掣不及釀禍	未分類
-2026-05-14	青馬職員車禍亡｜死者沒有架子 喜歡照顧新人 同事：佢做嘢勤力認真	https://www.singtao.ca/7505122/2026-05-14/news-青馬職員車禍亡｜死者沒有架子++喜歡照顧新人++同事：佢做嘢勤力認真/	未分類
+2026-05-15	奪命車禍丨長青公路奪命車禍奉召處理故障七人車 青馬管制區男職員落車了解遭貨車撞斃	https://skypost.hk/article/4129454/奪命車禍-長青公路奪命車禍奉召處理故障七人車-青馬管制區男職員落車了解遭貨車撞斃	車禍
+2026-05-14	點聞1分鐘｜牛頭角1死4傷嚴重車禍 高齡的士司機成「馬路炸彈」？	https://www.dotdotnews.com/a/202605/14/AP6a057a44e4b09ea2331547d8.html	車禍
+2026-05-14	青馬職員車禍亡｜貨車收掣不及釀禍 52歲司機涉危駕被捕	https://www.singtao.ca/7504616/2026-05-14/news-青馬職員車禍亡｜貨車收掣不及釀禍	車禍
+2026-05-14	青馬職員車禍亡｜死者沒有架子 喜歡照顧新人 同事：佢做嘢勤力認真	https://www.singtao.ca/7505122/2026-05-14/news-青馬職員車禍亡｜死者沒有架子++喜歡照顧新人++同事：佢做嘢勤力認真/	車禍
 2026-05-14	青衣密斗貨車失控釀三車串燒 青馬管制區男職員傷重昏迷	https://www.stheadline.com/breaking-news/3572434/青衣密斗貨車失控釀三車串燒-青馬管制區男職員傷重昏迷	未分類
 2026-05-14	青衣密斗貨車失控釀三車串燒 一人傷重昏迷	https://www.stheadline.com/breaking-news/3572434/青衣密斗貨車失控釀三車串燒-一人傷重昏迷	未分類
-2026-05-14	靈堂奪命車禍！七旬婦幫忙治喪 貨車將她撞斃直衝靈堂 司機被捕	https://www.hk01.com/熱爆話題/60349073/靈堂奪命車禍-七旬婦幫忙治喪-貨車將她撞斃直衝靈堂-司機被捕	未分類
-2026-05-14	長青公路車禍｜順豐司機被捕 撞斃青馬男職員 5傷包括4韓國遊客	https://www.hk01.com/突發/60350074/長青公路車禍-順豐司機被捕-撞斃青馬男職員-5傷包括4韓國遊客	未分類
-2026-05-14	長青公路車禍｜入職18年青馬職員處理故障車 僅數分鐘被貨車撞斃	https://www.hk01.com/突發/60350048/長青公路車禍-入職18年青馬職員處理故障車-僅數分鐘被貨車撞斃	未分類
+2026-05-14	靈堂奪命車禍！七旬婦幫忙治喪 貨車將她撞斃直衝靈堂 司機被捕	https://www.hk01.com/熱爆話題/60349073/靈堂奪命車禍-七旬婦幫忙治喪-貨車將她撞斃直衝靈堂-司機被捕	車禍
+2026-05-14	長青公路車禍｜順豐司機被捕 撞斃青馬男職員 5傷包括4韓國遊客	https://www.hk01.com/突發/60350074/長青公路車禍-順豐司機被捕-撞斃青馬男職員-5傷包括4韓國遊客	車禍
+2026-05-14	長青公路車禍｜入職18年青馬職員處理故障車 僅數分鐘被貨車撞斃	https://www.hk01.com/突發/60350048/長青公路車禍-入職18年青馬職員處理故障車-僅數分鐘被貨車撞斃	車禍
 2026-05-14	長青公路三車相撞6人傷 青馬管制區男職員昏迷送院 (18:07) - 20260514 - 港聞	https://news.mingpao.com/ins/港聞/article/20260514/s00001/1778752905028/長青公路三車相撞6人傷-青馬管制區男職員昏迷送院	未分類
 2026-05-14	長青公路3車相撞釀1死5傷 管制區男職員昏迷送院後不治	https://www.am730.com.hk/本地/1030568/長青公路3車相撞釀1死5傷-管制區男職員昏迷送院後不治	未分類
 2026-05-14	長青公路3車串燒撞斃管制站職員 另5人受傷 貨車司機涉危駕被捕	http://hk.on.cc/hk/bkn/cnt/news/20260514/mobile/bkn-20260514173851145-0514_00822_001.html?editorpickDate=20260515&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	未分類
 2026-05-14	铁血硬汉！川普行前给万斯留“遗书”？ 内容震撼	https://www.aboluowang.com/2026/0514/2383585.html	未分類
-2026-05-14	牛頭角車禍｜兩名捱撞途人為牛頭角牙科診所職員 明愛：深感哀痛	https://www.hk01.com/突發/60349817/牛頭角車禍-兩名捱撞途人為牛頭角牙科診所職員-明愛-深感哀痛	未分類
-2026-05-14	牛頭角車禍車Cam曝光｜的士剷行人路1死4傷 另有途人險捱撞急逃	https://www.hk01.com/突發/60349669/牛頭角車禍車cam曝光-的士剷行人路1死4傷-另有途人險捱撞急逃	未分類
-2026-05-14	牛頭角的士車禍1死4傷 明愛確認死者為牙科手術助理	https://m.hkej.com/landing/mobarticle2/id/4403363/牛頭角的士車禍1死4傷 明愛確認死者為牙科手術助理	未分類
-2026-05-14	牛頭角奪命車禍丨的士剷行人路車Cam曝光 38歲女途人斷雙腳亡31歲女右腳甩脫重傷兩人屬同事任職牙科助護	https://skypost.hk/article/4128958/牛頭角奪命車禍-的士剷行人路車Cam曝光-38歲女途人斷雙腳亡31歲女右腳甩脫重傷-兩人屬同事任職牙科助護	未分類
-2026-05-14	牛頭角交通意外｜離世女途人為明愛牙科手術助理 另一明愛員工重傷留醫	https://news.hket.com/article/4128857/牛頭角交通意外｜離世女途人為明愛牙科手術助理 另一明愛員工重傷留醫?mtc=80023	未分類
-2026-05-14	牛頭角交通意外 1死4傷 七旬司機被捕 兩女途人捱撞斷腳一傷重亡	https://www.am730.com.hk/article/1030422	未分類
+2026-05-14	牛頭角車禍｜兩名捱撞途人為牛頭角牙科診所職員 明愛：深感哀痛	https://www.hk01.com/突發/60349817/牛頭角車禍-兩名捱撞途人為牛頭角牙科診所職員-明愛-深感哀痛	車禍
+2026-05-14	牛頭角車禍車Cam曝光｜的士剷行人路1死4傷 另有途人險捱撞急逃	https://www.hk01.com/突發/60349669/牛頭角車禍車cam曝光-的士剷行人路1死4傷-另有途人險捱撞急逃	車禍
+2026-05-14	牛頭角的士車禍1死4傷 明愛確認死者為牙科手術助理	https://m.hkej.com/landing/mobarticle2/id/4403363/牛頭角的士車禍1死4傷 明愛確認死者為牙科手術助理	車禍
+2026-05-14	牛頭角奪命車禍丨的士剷行人路車Cam曝光 38歲女途人斷雙腳亡31歲女右腳甩脫重傷兩人屬同事任職牙科助護	https://skypost.hk/article/4128958/牛頭角奪命車禍-的士剷行人路車Cam曝光-38歲女途人斷雙腳亡31歲女右腳甩脫重傷-兩人屬同事任職牙科助護	車禍
+2026-05-14	牛頭角交通意外｜離世女途人為明愛牙科手術助理 另一明愛員工重傷留醫	https://news.hket.com/article/4128857/牛頭角交通意外｜離世女途人為明愛牙科手術助理 另一明愛員工重傷留醫?mtc=80023	車禍
+2026-05-14	牛頭角交通意外 1死4傷 七旬司機被捕 兩女途人捱撞斷腳一傷重亡	https://www.am730.com.hk/article/1030422	車禍
 2026-05-14	油麻地解款車與的士相撞兩人受傷送院- 有線寬頻i-CABLE	https://www.i-cable.com/新聞資訊/464139/油麻地解款車與的士相撞-兩人受傷送院	未分類
 2026-05-14	柴灣客貨車失事翻側 司機受傷送院	https://hk.on.cc/hk/bkn/cnt/news/20260514/bkn-20260514080517568-0514_00822_001.html	未分類
 2026-05-14	有片｜長青公路3車撞1死5傷 青馬管制區男職員遭順豐貨車撞斃	https://www.hk01.com/突發/60350013/有片-長青公路3車撞1死5傷-青馬管制區男職員遭順豐貨車撞斃	未分類
-2026-05-14	有片〡牛頭角彩霞道1死4傷車禍片段曝光 的士司機涉危駕被捕	https://hkcd.com/hkcdweb/content/2026/05/14/content_8754799.html	未分類
+2026-05-14	有片〡牛頭角彩霞道1死4傷車禍片段曝光 的士司機涉危駕被捕	https://hkcd.com/hkcdweb/content/2026/05/14/content_8754799.html	車禍
 2026-05-13	的士衝上彩霞道行人路一死四傷 70歲司機涉危駕致他人死亡被捕	https://news.rthk.hk/rthk/ch/component/k2/1854579-20260513.htm	未分類
 2026-05-13	油麻地交匯處鐵騎士轉線失控撞壆 昏迷送院搶救	https://www.singtao.ca/7503119/2026-05-13/news-油麻地交匯處電單車司機倒地+昏迷送院搶救/?variant=zh-hk	未分類
 2026-05-12	車Cam直擊：秀茂坪巴士貨車相撞 10人受傷送院	https://hk.news.yahoo.com/秀茂坪巴士貨車相撞-多名乘客受傷送院-003853659.html	未分類
-2026-05-12	秀茂坪交通意外｜秀茂坪寶琳路貨車與九巴相撞 10人受傷送院	https://news.hket.com/article/4127490/交通意外｜秀茂坪寶琳路貨車與九巴相撞 10人受傷送院	未分類
+2026-05-12	秀茂坪交通意外｜秀茂坪寶琳路貨車與九巴相撞 10人受傷送院	https://news.hket.com/article/4127490/交通意外｜秀茂坪寶琳路貨車與九巴相撞 10人受傷送院	車禍
 2026-05-12	將軍澳泥頭車剷落山坡水渠 司機受傷送院	https://www.hkej.com/instantnews/current/article/4401399/將軍澳泥頭車剷落山坡水渠+司機受傷送院	未分類
 2026-05-11	飛機時速235公里急煞！有人翻圍欄衝出機場跑道 遭起飛客機撞斃釀12傷	https://utravel.com.hk/news/detail/20096635/突發事故-美國丹佛機場致命意外-擅闖者翻圍欄衝出跑道-遭起飛客機撞斃釀-傷	未分類
 2026-05-11	醉漢乘Lyft回家途中對司機動武 跑出公路追打遭撞斃｜細說燊語	https://www.singtaousa.com/2026/05/11/news/usa/lyft-passenger-dies-on-interstate-80-after-assaulting-driver-in-vallejo-rushes-out-of-car/	未分類
@@ -1003,22 +997,22 @@ var DATA_TRAFFIC = `
 2026-05-02	追撞輾斃女警！20歲女大生靈堂鞠躬致歉：絕不逃避…	https://news.ebc.net.tw/news/society/549701	未分類
 2026-05-02	撞死女警被炎上！維基百科慘遭惡意改名 校友求饒「別攻擊學校」	https://tw.news.yahoo.com/撞死女警被炎上-維基百科慘遭惡意改名-校友求饒-別攻擊學校-071027380.html	未分類
 2026-05-02	巴士鐵三角？藍田3輛九巴駛入迴旋處！成三角形「卡死」照片瘋傳	https://www.hk01.com/熱爆話題/60345728/巴士鐵三角-藍田3輛九巴駛入迴旋處-成三角形-卡死-照片瘋傳	未分類
-2026-05-02	女警車禍亡 肇事女大生與父母現身靈堂挨批：無悔意	https://www.worldjournal.com/wj/amp/story/121222/9478578	未分類
+2026-05-02	女警車禍亡 肇事女大生與父母現身靈堂挨批：無悔意	https://www.worldjournal.com/wj/amp/story/121222/9478578	車禍
 2026-05-02	台南女警騎車遭撞輾斃！ 肇事女大學生發後只顧檢查車損引爆輿論今現身靈堂致歉	https://www.bastillepost.com/hongkong/article/15952322-台南女警騎車遭撞輾斃！肇事女大學生發後只顧檢	未分類
 2026-05-02	台南女警遭追撞輾斃 涉案女大生現身靈堂鞠躬致意	https://tw.news.yahoo.com/台南女警遭追撞輾斃-涉案女大生現身靈堂鞠躬致意-031803956.html	未分類
 2026-05-02	台南女警遭追撞後輾斃！女大生現身靈堂上香道歉	https://tw.news.yahoo.com/台南女警遭追撞後輾斃-女大生現身靈堂上香道歉-024531169.html	未分類
 2026-05-02	台南女警遭輾斃！女大生今現身靈堂 「90度鞠躬」致歉	https://news.pchome.com.tw/society/ctinews/20260502/index-77768973348106309002.html	未分類
 2026-05-01	結婚50週年前永別! 77歲婦遭撞亡 兒： 母親節都還沒過	https://today.line.me/tw/v3/article/wJmXE60	未分類
-2026-05-01	成都高新區發生交通意外 私家車衝撞行人致1死11傷	https://www.singtaousa.com/2026/05/01/news/china/chengdu-driver-rampage-pedestrians-casualties/	未分類
-2026-05-01	成都奪命車禍1死11傷 31歲肇事男司機被抓獲- 兩岸	https://www.dotdotnews.com/a/202605/01/AP69f4c42ae4b09ea2331414b3.html	未分類
+2026-05-01	成都高新區發生交通意外 私家車衝撞行人致1死11傷	https://www.singtaousa.com/2026/05/01/news/china/chengdu-driver-rampage-pedestrians-casualties/	車禍
+2026-05-01	成都奪命車禍1死11傷 31歲肇事男司機被抓獲- 兩岸	https://www.dotdotnews.com/a/202605/01/AP69f4c42ae4b09ea2331414b3.html	車禍
 2026-04-30	遼寧錦州兩輛轎車相撞 4死2傷	https://www.ntdtv.com/b5/2026/04/30/a104091743.html/amp	未分類
 2026-04-30	譚艾珍痛悼遭追撞輾斃女警！赴靈堂上香嘆：無常只在一瞬間	https://stars.udn.com/star/amp/story/10089/9473618	未分類
 2026-04-30	有片慎入｜印度婚禮攝影師為捕捉「關鍵畫面」 走出馬路遭高速車撞死- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17180057920329/重點新聞-有片慎入-印度婚禮攝影師為捕捉-關鍵畫面--走出馬路遭高速車撞死	未分類
 2026-04-30	女警遭女大生撞飛輾斃！「騰空掙扎」後方視角曝光	https://tw.news.yahoo.com/女警遭女大生撞飛輾斃-騰空掙扎-後方視角曝光-022756768.html	未分類
-2026-04-30	台女警車禍亡！原與警男友明年結婚 肇事20歲女大生無道歉遭起底	https://www.hk01.com/熱爆話題/60345165/台女警車禍亡-原明年結婚-肇事20歲女大生被指嘻哈吃火鍋急澄清	未分類
+2026-04-30	台女警車禍亡！原與警男友明年結婚 肇事20歲女大生無道歉遭起底	https://www.hk01.com/熱爆話題/60345165/台女警車禍亡-原明年結婚-肇事20歲女大生被指嘻哈吃火鍋急澄清	車禍
 2026-04-30	台南女警遭輾斃 肇事女大生遭肉搜 同校生目擊：照常上課有說有笑	https://www.i-meihua.com/Article/Detail/48094	未分類
 2026-04-30	台南女警遭撞飛輾斃！崑山科大發聲明籲「保持理性」	https://tw.news.yahoo.com/台南女警遭撞飛輾斃-崑山科大發聲明籲-保持理性-052521972.html	未分類
-2026-04-30	原定明年披婚紗…女警車禍抱憾離世「將辦冥婚」準婆婆淚：緣分短短3年	https://tw.news.yahoo.com/原定明年披婚紗-女警車禍抱憾離世-將辦冥婚-準婆婆淚-緣分短短3年-033300241.html	未分類
+2026-04-30	原定明年披婚紗…女警車禍抱憾離世「將辦冥婚」準婆婆淚：緣分短短3年	https://tw.news.yahoo.com/原定明年披婚紗-女警車禍抱憾離世-將辦冥婚-準婆婆淚-緣分短短3年-033300241.html	車禍
 2026-04-30	「原本下週要去日本玩」女警遭輾斃...男友慟訴她清晨出門真正原因超顧家 淚崩：都沒了	https://www.ftnn.com.tw/news/542000	未分類
 2026-04-30	28歲女警遭輾亡！和男友甜蜜合照曝光 網淚哀悼：當最美的天使	https://tw.news.yahoo.com/28歲女警遭輾亡-和男友甜蜜合照曝光-網淚哀悼-當最美的天使-025500609.html	未分類
 2026-04-30	28歲女警遭女大生追撞輾斃！警粉專哀悼：大家都難以接受	https://tw.news.yahoo.com/28歲女警遭女大生追撞輾斃-警粉專哀悼-大家都難以接受-024843438.html	未分類
@@ -1035,15 +1029,15 @@ var DATA_TRAFFIC = `
 2026-04-28	葵涌盛芳街男子遭客貨車撞倒 頭部重創昏迷送院搶救	https://www.hk01.com/突發/60344718/葵涌盛芳街男子遭客貨車撞倒-頭部重創昏迷送院搶救	未分類
 2026-04-28	葵涌男子遭客貨車撞倒 頭部重創昏迷送院搶救	https://www.hk01.com/突發/60344718/葵涌男子遭客貨車撞倒-頭部重創昏迷送院搶救	未分類
 2026-04-28	石排灣邨過路女子遭小巴撞倒 昏迷送院	https://www.881903.com/news/local/2629236	未分類
-2026-04-28	死因庭裁定2018年北角保母車車禍5人死於意外建議運輸署盡早討論修例- 港聞	https://www.dotdotnews.com/a/202604/28/AP69f08473e4b09ea23313cc33.html	未分類
-2026-04-28	死因庭裁定2018年北角保母車車禍5人死於意外建議運輸署儘早討論修例- 香港 - 香港文匯網	https://www.wenweipo.com/a/202604/28/AP69f0788ae4b0b49ad1b8bc41.html	未分類
-2026-04-28	小飛機墜毀慘禍 2人死亡 美國會眾議員不幸罹難	https://www.ntdtv.com/b5/2026/04/28/a104090947.html	未分類
+2026-04-28	死因庭裁定2018年北角保母車車禍5人死於意外建議運輸署盡早討論修例- 港聞	https://www.dotdotnews.com/a/202604/28/AP69f08473e4b09ea23313cc33.html	車禍
+2026-04-28	死因庭裁定2018年北角保母車車禍5人死於意外建議運輸署儘早討論修例- 香港 - 香港文匯網	https://www.wenweipo.com/a/202604/28/AP69f0788ae4b0b49ad1b8bc41.html	車禍
+2026-04-28	小飛機墜毀慘禍 2人死亡 美國會眾議員不幸罹難	https://www.ntdtv.com/b5/2026/04/28/a104090947.html	墜機
 2026-04-28	奪命原因曝！28歲女警休假外出…遭20歲女騎士追撞「遊覽車輾斃」	https://www.ettoday.net/news/20260428/3156604.htm	未分類
 2026-04-28	印尼首都雅加達兩火車相撞 釀4死38傷	https://www.stheadline.com/realtime-world/3566619/印尼首都雅加達兩火車相撞-釀4死38傷	未分類
 2026-04-28	印尼有列車相撞至少兩人死亡	https://www.881903.com/news/international/2629078	未分類
 2026-04-28	印尼列車相撞事故已致7死81傷	https://www.hkcd.com.hk/hkcdweb/content/2026/04/28/content_8752348.html	未分類
-2026-04-28	北角車禍死因｜校巴司機疑未拉好手掣肇禍 5人裁定死於意外	https://www.hk01.com/社會新聞/771379/北角車禍死因-校巴司機疑未拉好手掣肇禍-5人裁定死於意外	未分類
-2026-04-28	北角2018校巴流後釀5死車禍 案件幾經波折 7年半後裁死於意外	https://www.hk01.com/社會新聞/771379/北角2018校巴流後釀5死車禍-案件幾經波折-7年半後裁死於意外	未分類
+2026-04-28	北角車禍死因｜校巴司機疑未拉好手掣肇禍 5人裁定死於意外	https://www.hk01.com/社會新聞/771379/北角車禍死因-校巴司機疑未拉好手掣肇禍-5人裁定死於意外	車禍
+2026-04-28	北角2018校巴流後釀5死車禍 案件幾經波折 7年半後裁死於意外	https://www.hk01.com/社會新聞/771379/北角2018校巴流後釀5死車禍-案件幾經波折-7年半後裁死於意外	車禍
 2026-04-27	（有片）吐露港公路4車相撞「炒埋一碟」 2人受傷送院- 港聞	https://www.dotdotnews.com/a/202604/27/AP69eecf06e4b09ea23313ae96.html	未分類
 2026-04-27	宁夏遭龙卷风袭击 惊现数十米尘柱 画面震撼	https://www.aboluowang.com/amp/2026/0427/2376946.html	未分類
 2026-04-27	90歲華人長者 住家外車道被撞亡	https://www.worldjournal.com/wj/story/121359/9466412	未分類
@@ -1059,7 +1053,7 @@ var DATA_TRAFFIC = `
 2026-04-22	落馬洲古洞路旅遊巴撞斃女途人 司機被控危駕致死准保釋8月再訊	https://std.stheadline.com/society/3564681/落馬洲古洞路旅遊巴撞斃女途人-司機被控危駕致死准保釋8月再訊	未分類
 2026-04-22	台鐵死亡噩耗！男子闖湖口站軌道遭列車撞擊「當場斷魂」	https://news.pchome.com.tw/society/ctinews/20260422/index-77681368435927309002.html	未分類
 2026-04-22	兩女分別過路遭撞斃 一為內地人被指「只望左」 - 20260422 - 圖片看世界	https://news.mingpao.com/pns/港聞/photo1/20260422/s00002/1776794342754/1776794342738	未分類
-2026-04-21	車禍丨30歲內地女子油塘遭貨車撞斃 司機涉危駕被捕	https://www.hkej.com/instantnews/current/article/4376741/車禍丨30歲內地女子油塘遭貨車撞斃+司機涉危駕被捕	未分類
+2026-04-21	車禍丨30歲內地女子油塘遭貨車撞斃 司機涉危駕被捕	https://www.hkej.com/instantnews/current/article/4376741/車禍丨30歲內地女子油塘遭貨車撞斃+司機涉危駕被捕	車禍
 2026-04-21	落馬洲旅遊巴撞女途人昏迷送院 司機涉危駕被捕	https://std.stheadline.com/breaking-news/3564191/落馬洲旅遊巴撞女途人昏迷送院-司機涉危駕被捕	未分類
 2026-04-21	落馬洲古洞路旅遊巴撞斃女途人 司機被控危駕致死准保釋8月再訊	https://www.singtao.ca/7482905/2026-04-21/news-落馬洲古洞路旅遊巴撞斃女途人+司機被控危駕致死准保釋8月再訊/	未分類
 2026-04-21	油塘茶果嶺道30歲內地女遭貨車撞斃 男司機涉危險駕駛被捕	https://www.hk01.com/突發/60342237/油塘茶果嶺道30歲內地女遭貨車撞斃-男司機涉危險駕駛被捕	未分類
@@ -1067,7 +1061,7 @@ var DATA_TRAFFIC = `
 2026-04-21	女子新田遭旅遊巴撞斃 司機涉危駕被捕 (11:28) - 20260421 - 港聞	https://news.mingpao.com/ins/港聞/article/20260421/s00001/1776741875797/女子新田遭旅遊巴撞斃-司機涉危駕被捕	未分類
 2026-04-21	古洞路旅遊巴撞斃女子 司機涉危駕被捕	https://hk.epochtimes.com/news/2026-04-21/76310032	未分類
 2026-04-21	今日新聞8分鐘｜一日兩宗過路女遭撞斃｜髮廊員工玩火整蠱同事	https://www.hk01.com/社會新聞/60342439/今日新聞8分鐘-一日兩宗過路女遭撞斃-髮廊員工玩火整蠱同事	未分類
-2026-04-21	4分鐘2宗奪命車禍│落馬洲旅遊巴撞斃女途人 六旬司機涉危駕被捕	https://www.stheadline.com/breaking-news/3564191/4分鐘2宗奪命車禍落馬洲旅遊巴撞斃女途人-六旬司機涉危駕被捕	未分類
+2026-04-21	4分鐘2宗奪命車禍│落馬洲旅遊巴撞斃女途人 六旬司機涉危駕被捕	https://www.stheadline.com/breaking-news/3564191/4分鐘2宗奪命車禍落馬洲旅遊巴撞斃女途人-六旬司機涉危駕被捕	車禍
 2026-04-20	韓國校園恐怖金字塔尖端新作！《昏迷 3：血脈》4 月 30 日震撼發售——初代至今的重重謎團即將揭曉	https://n.yam.com/Article/20260420689413	未分類
 2026-04-20	西貢16歲仔無牌揸Tesla 撼七人車入地產舖涉3罪被捕- 港聞	https://www.dotdotnews.com/a/202604/20/AP69e5c175e4b09ea2331309a3.html	未分類
 2026-04-20	福建私家車高速逆行 撞斃2人司機被拘	https://std.stheadline.com/daily-china/3563760/福建私家車高速逆行-撞斃2人司機被拘	未分類
@@ -1079,17 +1073,17 @@ var DATA_TRAFFIC = `
 2026-04-18	南投竹山「砂石車撞破護欄」飛墜山谷！駕駛噴出車外 卡50m深處亡	https://www.ettoday.net/news/20260418/3151295.htm	未分類
 2026-04-18	中港貨車司機撞斃單車翁 認4罪囚18月 - 20260418 - 港聞	https://news.mingpao.com/pns/港聞/article/20260418/s00002/1776448134660/中港貨車司機撞斃單車翁-認4罪囚18月	未分類
 2026-04-18	(有片) 荃錦公路GOGOVan小巴首尾撞13人受傷清醒送院- 香港 - 香港文匯網	https://www.wenweipo.com/a/202604/18/AP69e318bee4b0b49ad1b75d1f.html	未分類
-2026-04-17	道路安全議會指去年近百人死於交通意外 倡扣安全帶先教育後執法	https://www.hk01.com/突發/60341119/道路安全議會指去年近百人死於交通意外-倡扣安全帶先教育後執法	未分類
-2026-04-17	英超｜前奧地利門將曼寧加車禍逝世 曾助阿仙奴奪英超及足總盃冠軍	https://www.stheadline.com/football-news/3562942/英超前奧地利門將曼寧加車禍逝世-曾助阿仙奴奪英超及足總盃冠軍	未分類
+2026-04-17	道路安全議會指去年近百人死於交通意外 倡扣安全帶先教育後執法	https://www.hk01.com/突發/60341119/道路安全議會指去年近百人死於交通意外-倡扣安全帶先教育後執法	車禍
+2026-04-17	英超｜前奧地利門將曼寧加車禍逝世 曾助阿仙奴奪英超及足總盃冠軍	https://www.stheadline.com/football-news/3562942/英超前奧地利門將曼寧加車禍逝世-曾助阿仙奴奪英超及足總盃冠軍	車禍
 2026-04-17	泰國潑水節成「奪命周」 增至242人死於交通事故	https://www.hk01.com/即時國際/60341373/泰國潑水節成-奪命周-增至242人死於交通事故	未分類
 2026-04-17	泰國宋干節期間242人因交通事故死亡 政府呼籲民眾遵守交規	https://www.hkcd.com.hk/hkcdweb/content/2026/04/17/content_8750506.html	未分類
 2026-04-17	撞斃過路老婦 患肌肉萎縮及白內障小巴司機 囚12個月停牌5年	https://hk.on.cc/hk/bkn/cnt/news/20260417/bkn-20260417172512567-0417_00822_001.html	未分類
 2026-04-17	患肌肉萎縮及白內障小巴司機危駕撞斃過路老婦 認罪囚1年兼停牌5年	https://std.stheadline.com/society/3563038/患肌肉萎縮及白內障小巴司機危駕撞斃過路老婦-認罪囚1年兼停牌5年	未分類
-2026-04-17	去年近百人死於交通意外 道路安全議會：將加強長者行人安全工作	https://www.orangenews.hk/hongkong/VH337KA/去年近百人死於交通意外-道路安全議會-將加強長者行人安全工作.shtml	未分類
-2026-04-17	去年近百人死於交通意外 逾60%為長者行人	https://hk.on.cc/hk/bkn/cnt/news/20260417/bkn-20260417161841674-0417_00822_001.html	未分類
-2026-04-17	去年近百人死於交通意外 將重點加強長者行人安全工作	https://news.rthk.hk/rthk/ch/component/k2/1851505-20260417.htm	未分類
-2026-04-17	去年致命交通意外96名死者當中52人為行人 當局加強宣傳	https://news.rthk.hk/rthk/ch/component/k2/1851452-20260417.htm	未分類
-2026-04-17	交通意外去年傷亡減300人 改善人車爭路措施成效	https://www.hkcd.com.hk/hkcdweb/content/2026/04/17/content_8750479.html	未分類
+2026-04-17	去年近百人死於交通意外 道路安全議會：將加強長者行人安全工作	https://www.orangenews.hk/hongkong/VH337KA/去年近百人死於交通意外-道路安全議會-將加強長者行人安全工作.shtml	車禍
+2026-04-17	去年近百人死於交通意外 逾60%為長者行人	https://hk.on.cc/hk/bkn/cnt/news/20260417/bkn-20260417161841674-0417_00822_001.html	車禍
+2026-04-17	去年近百人死於交通意外 將重點加強長者行人安全工作	https://news.rthk.hk/rthk/ch/component/k2/1851505-20260417.htm	車禍
+2026-04-17	去年致命交通意外96名死者當中52人為行人 當局加強宣傳	https://news.rthk.hk/rthk/ch/component/k2/1851452-20260417.htm	車禍
+2026-04-17	交通意外去年傷亡減300人 改善人車爭路措施成效	https://www.hkcd.com.hk/hkcdweb/content/2026/04/17/content_8750479.html	車禍
 2026-04-17	上水單車翁遭貨車撞斃 七旬中港司機認危駕致他人死入獄18個月、罰款6千元及停牌5年	https://std.stheadline.com/society/3563029/上水單車翁遭貨車撞斃-七旬中港司機認危駕致他人死入獄18個月罰款6千元及停牌5年	未分類
 2026-04-17	七旬中港貨車司機認危駕撞斃老翁 判囚18個月及停牌5年 (18:24) - 20260417 - 港聞	https://news.mingpao.com/ins/港聞/article/20260417/s00001/1776421351196/七旬中港貨車司機認危駕撞斃老翁-判囚18個月及停牌5年	未分類
 2026-04-16	台南成大男大生「遭計程車撞亡」 父母痛失獨子 校方贈畢業證書	https://tw.news.yahoo.com/台南成大男大生-遭計程車撞亡-父母痛失獨子-校方贈畢業證書-003412250.html	未分類
@@ -1102,8 +1096,8 @@ var DATA_TRAFFIC = `
 2026-04-14	天水圍兩放養小鴨遇不測 慘遭車輛撞斃	https://hk.on.cc/hk/bkn/cnt/news/20260414/bkn-20260414100654253-0414_00822_001.html	未分類
 2026-04-14	台61南下23.4曳引車翻覆事故排除中 剩內側車道通行	https://news.ltn.com.tw/news/society/breakingnews/5403308	未分類
 2026-04-13	好心借三角錐卻出事！新竹84歲嬤遭違停貨車輾斃 資深運將下場曝	https://www.nownews.com/news/6806703	未分類
-2026-04-11	青馬大橋和牛頭角發生致命交通意外 致2死3傷	https://www.orangenews.hk/hongkong/VGRby2z/青馬大橋和牛頭角發生致命交通意外---致2死3傷.shtml	未分類
-2026-04-11	震撼警界！高雄警熟睡猝逝「中午才發現」 曾兩度墜機大難不死	https://news.tvbs.com.tw/local/3175562	未分類
+2026-04-11	青馬大橋和牛頭角發生致命交通意外 致2死3傷	https://www.orangenews.hk/hongkong/VGRby2z/青馬大橋和牛頭角發生致命交通意外---致2死3傷.shtml	車禍
+2026-04-11	震撼警界！高雄警熟睡猝逝「中午才發現」 曾兩度墜機大難不死	https://news.tvbs.com.tw/local/3175562	墜機
 2026-04-11	離奇！23歲男突倒路中 5分鐘後遭貨車輾斃	https://news.ebc.net.tw/news/society/546454	未分類
 2026-04-11	影/北市23歲男離奇躺路中遭輾斃 父母淚崩檢警追查死因	https://news.pchome.com.tw/society/ctinews/20260411/index-77588891410872309002.html	未分類
 2026-04-11	南港23歲男「橫躺5分鐘」遭貨車輾斃 倒地前步行畫面曝光	https://www.ftnn.com.tw/news/537209	未分類
@@ -1111,15 +1105,15 @@ var DATA_TRAFFIC = `
 2026-04-10	寧夏巴士司機離世前5秒 急剎車力保45條人命(有片)	https://www.am730.com.hk/article/1024238	未分類
 2026-04-10	BMW國8撞死人肇逃！他「摸黑捕魚」遇死劫 妻悲認屍：留下一對年幼兒女	https://tw.news.yahoo.com/bmw國8撞死人肇逃-他-摸黑捕魚-遇死劫-妻悲認屍-102100723.html	未分類
 2026-04-10	(有片) 荃威花園巴士總站載客巴士撞死車兩乘客輕傷送院- 香港 - 香港文匯網	https://www.wenweipo.com/a/202604/10/AP69d88b74e4b0b49ad1b63b64.html	未分類
-2026-04-09	新田公路一小時兩車禍釀1死16傷 小巴司機昏迷送院亡	https://www.i-cable.com/新聞資訊/453759/新田公路八車相撞釀1死16傷-小巴司機昏迷送院亡	未分類
-2026-04-09	新田公路一小時兩宗車禍共涉8車 最少17傷 小巴司機被困送院亡	https://www.hk01.com/突發/60338402/新田公路一小時兩宗車禍共涉8車-最少17傷-小巴司機被困送院亡	未分類
-2026-04-09	新田公路一小時兩宗車禍1死16傷 小巴司機送院亡	https://www.hkcd.com/hkcdweb/content/2026/04/09/content_8749055.html	未分類
-2026-04-09	新田公路1小時發生兩宗車禍 涉及8車至少17傷 小巴司機送院亡	https://hk.news.yahoo.com/新田公路1小時發生兩宗車禍-涉及8車至少17傷-小巴司機送院亡-001717732.html	未分類
+2026-04-09	新田公路一小時兩車禍釀1死16傷 小巴司機昏迷送院亡	https://www.i-cable.com/新聞資訊/453759/新田公路八車相撞釀1死16傷-小巴司機昏迷送院亡	車禍
+2026-04-09	新田公路一小時兩宗車禍共涉8車 最少17傷 小巴司機被困送院亡	https://www.hk01.com/突發/60338402/新田公路一小時兩宗車禍共涉8車-最少17傷-小巴司機被困送院亡	車禍
+2026-04-09	新田公路一小時兩宗車禍1死16傷 小巴司機送院亡	https://www.hkcd.com/hkcdweb/content/2026/04/09/content_8749055.html	車禍
+2026-04-09	新田公路1小時發生兩宗車禍 涉及8車至少17傷 小巴司機送院亡	https://hk.news.yahoo.com/新田公路1小時發生兩宗車禍-涉及8車至少17傷-小巴司機送院亡-001717732.html	車禍
 2026-04-09	國1岡山段3車連環撞 半聯結車慘成廢鐵駕駛不治	https://news.ttv.com.tw/news/115040900053001	未分類
 2026-04-08	新北失聯越南移工遭聯結車輾斃 妻抱遺物泛淚認屍離開	https://n.yam.com/Article/20260408859183	未分類
 2026-04-08	寧夏巴士司機猝死前緊急剎車 確保45名乘客安全	https://www.singtaousa.com/2026/04/08/news/china/bus-driver-saves-passengers-before-death/	未分類
 2026-04-08	寧夏56歲巴士司機突發疾病 用生命最後5秒煞車 懸崖邊保住45人	https://www.hk01.com/大國小事/60338309/寧夏56歲巴士司機突發疾病-用生命最後5秒煞車-懸崖邊保住45人	未分類
-2026-04-08	兒子車禍亡AI助復活向母親報平安9旬婆婆與「AI兒子」通話1年無破綻揭開逾10萬人數碼生命產業鏈	https://businessfocus.io/article/352541/兒子車禍亡-ai助復活向母親報平安-9旬婆婆與「ai兒子	未分類
+2026-04-08	兒子車禍亡AI助復活向母親報平安9旬婆婆與「AI兒子」通話1年無破綻揭開逾10萬人數碼生命產業鏈	https://businessfocus.io/article/352541/兒子車禍亡-ai助復活向母親報平安-9旬婆婆與「ai兒子	車禍
 2026-04-07	秀茂坪11歲男童捱巴士撞手腳擦傷送院車長暫停駕駛職務- 港聞	https://www.dotdotnews.com/a/202604/07/AP69d4f254e4b09ea23311b9ef.html	未分類
 2026-04-07	確認了！泰山曳引車失控輾斃路人 死者身分是35歲越籍男子	https://news.ebc.net.tw/news/society/545784	未分類
 2026-04-07	法國高速列車與卡車相撞 1死27傷 (18:00) - 20260407 - 國際	https://news.mingpao.com/ins/國際/article/20260407/s00005/1775555557775/法國高速列車與卡車相撞-1死27傷	未分類
@@ -1132,12 +1126,12 @@ var DATA_TRAFFIC = `
 2026-04-06	打工下班遇死劫！埔里19歲女騎車遭聯結車輾斃上半身壓扁	https://news.pchome.com.tw/society/ctinews/20260406/index-77544820832106309002.html	未分類
 2026-04-06	復活節交通事故頻發 全澳道路死亡人數攀升	https://www.epochtimes.com/b5/26/4/6/n14735340.htm	未分類
 2026-04-05	皮划艇翻覆2死案｜“他们皆有穿救生衣” 警方：2学生卡渔网送命	https://www.chinapress.com.my/20260405/皮划艇翻覆2死案｜他们皆有穿救生衣-警方：2/	未分類
-2026-04-05	天雨路滑車禍 公車司機下車處理竟暈倒	https://tw.news.yahoo.com/天雨路滑車禍-公車司機下車處理竟暈倒-083802935.html	未分類
+2026-04-05	天雨路滑車禍 公車司機下車處理竟暈倒	https://tw.news.yahoo.com/天雨路滑車禍-公車司機下車處理竟暈倒-083802935.html	車禍
 2026-04-05	台南 阻擋夫酒駕 6旬婦遭輾斃	https://reader.turnnewsapp.com/ctl/20260405/b23aa9/q1rmxziwmjywnda1x0e5xzu1/share	未分類
 2026-04-05	台北松山區公車計程車相撞 公車司機突昏迷裝葉克膜救命	https://sunmedia.tw/news/collaborative/2acUgQRl2gSuldPntgr9btUK4mmfKahkpZSFUMtNIIUC4U3WdIUjKIoe8AxhAA8QMV3bn6Cb	未分類
 2026-04-05	傳剷泥車撞死8人官方至今未有消息 多地市集暫停開業	https://hk.on.cc/hk/bkn/cnt/news/20260405/bkn-20260405181240634-0405_00822_001.html	未分類
 2026-04-05	《浪姐》今日直播暂停 初见面直播翻车引发热议	https://news.china.com/socialgd/10000169/20260405/49387972.html	未分類
-2026-04-03	活士被捕 | 車禍後聯絡特朗普？活士上銬前稱與總統通話 密錄器畫面曝光	https://std.stheadline.com/realtime-world/3559046/活士被捕-車禍後聯絡特朗普活士上銬前稱與總統通話-密錄器畫面曝光	未分類
+2026-04-03	活士被捕 | 車禍後聯絡特朗普？活士上銬前稱與總統通話 密錄器畫面曝光	https://std.stheadline.com/realtime-world/3559046/活士被捕-車禍後聯絡特朗普活士上銬前稱與總統通話-密錄器畫面曝光	車禍
 2026-04-03	樹林沒排隊吃不到的豬肚雞火鍋！隱藏招牌炭烤串燒每桌限點一份	https://travel.ettoday.net/article/3137676.htm	未分類
 2026-04-03	有片︱西九龍公路的士切線撞電單車 鐵騎士倒地翻滾受傷送院	https://www.hk01.com/突發/60337038/有片-西九龍公路的士切線撞電單車-鐵騎士倒地翻滾受傷送院	未分類
 2026-04-03	快訊》國3翻覆事故！中興系統匝道封閉僅剩內側可通行- 社會	https://www.chinatimes.com/realtimenews/20260403003001-260402	未分類
@@ -1146,16 +1140,16 @@ var DATA_TRAFFIC = `
 2026-04-02	退伍軍人遭輾斃！同袍曝「是好長官」：1原因才跑外送	https://news.ebc.net.tw/news/society/545025	未分類
 2026-04-02	退伍軍人自摔遭水泥車輾斃！同袍曝「是好長官」：1原因才跑外送	https://tw.news.yahoo.com/退伍軍人自摔遭水泥車輾斃-同袍曝-是好長官-1原因才跑外送-040918786.html	未分類
 2026-04-02	車長疑車廠遭撞斃 九巴「沒確保安全」罪脫 - 20260402 - 圖片看世界	https://news.mingpao.com/pns/港聞/photo1/20260402/s00002/1775066691527/1775066691527	未分類
-2026-04-02	車禍後聯繫川普？伍茲被逮脫口「剛和總統講電話」密錄器畫面曝光	https://www.worldjournal.com/wj/amp/story/121172/9420503	未分類
-2026-04-02	活士被捕 | 車禍後聯絡特朗普？活士上銬前稱與總統通話 密錄器畫面曝光	https://www.singtao.ca/7464848/2026-04-02/news-活士被捕+|+車禍後聯絡特朗普？活士上銬前稱與總統通話+密錄器畫面曝光/	未分類
+2026-04-02	車禍後聯繫川普？伍茲被逮脫口「剛和總統講電話」密錄器畫面曝光	https://www.worldjournal.com/wj/amp/story/121172/9420503	車禍
+2026-04-02	活士被捕 | 車禍後聯絡特朗普？活士上銬前稱與總統通話 密錄器畫面曝光	https://www.singtao.ca/7464848/2026-04-02/news-活士被捕+|+車禍後聯絡特朗普？活士上銬前稱與總統通話+密錄器畫面曝光/	車禍
 2026-04-02	外送員疑「比中指」遭輾斃！警消揪2細節：是在最後呼救	https://news.tvbs.com.tw/local/3168339?from=pulldownmenu_content_社會_外送員疑「比中指」遭輾斃！警消揪2細節：是在最後呼救	未分類
 2026-04-02	外送員「疑比中指自摔」遭輾亡 家屬忍淚駁斥：搞不好他在求救啊 | 社會 | CTWANT	https://www.ctwant.com/amp/article/475679/	未分類
-2026-04-01	青馬大橋兩死車禍｜的士司機及乘客喪生 親友哀傷認屍	https://www.hk01.com/突發/60336206/青馬大橋兩死車禍-的士司機及乘客喪生-親友哀傷認屍	未分類
-2026-04-01	青馬大橋兩死車禍 親友殮房認屍 (11:44) - 20260401 - 港聞	https://news.mingpao.com/ins/港聞/article/20260401/s00001/1775013726737/青馬大橋兩死車禍-親友殮房認屍	未分類
+2026-04-01	青馬大橋兩死車禍｜的士司機及乘客喪生 親友哀傷認屍	https://www.hk01.com/突發/60336206/青馬大橋兩死車禍-的士司機及乘客喪生-親友哀傷認屍	車禍
+2026-04-01	青馬大橋兩死車禍 親友殮房認屍 (11:44) - 20260401 - 港聞	https://news.mingpao.com/ins/港聞/article/20260401/s00001/1775013726737/青馬大橋兩死車禍-親友殮房認屍	車禍
 2026-04-01	紅磡3車相撞涉解款車2傷送院- 港聞	https://www.dotdotnews.com/a/202604/01/AP69ccb453e4b09ea233111892.html	未分類
 2026-04-01	涉嫌輾斃五歲幼童案正式過堂 前校車司機面臨多項重罪指控	https://www.singtaousa.com/2026/04/01/news/usa/bus-driver-charged-child-death/	未分類
-2026-04-01	影／國道彰化段驚險聯結車車禍影音曝光司機眼前一黑抓不住方向盤| 時事	https://video.udn.com/news/1320935	未分類
-2026-04-01	彰化伸港2姊妹車禍撞斃案 駕駛老翁二審獲判緩刑5年	https://tw.news.yahoo.com/彰化伸港2姊妹車禍撞斃案-駕駛老翁二審獲判緩刑5年-104000377.html	未分類
+2026-04-01	影／國道彰化段驚險聯結車車禍影音曝光司機眼前一黑抓不住方向盤| 時事	https://video.udn.com/news/1320935	車禍
+2026-04-01	彰化伸港2姊妹車禍撞斃案 駕駛老翁二審獲判緩刑5年	https://tw.news.yahoo.com/彰化伸港2姊妹車禍撞斃案-駕駛老翁二審獲判緩刑5年-104000377.html	車禍
 2026-04-01	尖沙咀外賣員駕電單車撞倒交通督導員 雙雙倒地清醒送院	https://std.stheadline.com/breaking-news/3558523/尖沙咀外賣員駕電單車撞倒交通督導員-雙雙倒地清醒送院	未分類
 2026-04-01	外送員遭水泥車輾斃監視器畫面曝！ 疑比「不雅手勢」自摔送命	https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-04-01/2303667.html	未分類
 2026-04-01	外賣員行駛中詭異舉手突倒地 慘遭田螺車無情輾斃 當場斷開兩截	https://www.hk01.com/人氣話題/60336449/外賣員行駛中詭異舉手突倒地-慘遭田螺車無情輾斃-當場斷開兩截	未分類
@@ -1165,10 +1159,10 @@ var DATA_TRAFFIC = `
 2026-04-01	九巴廠褪車撞斃同事 九巴沒有確保僱員安全罪脫	https://hk.on.cc/hk/bkn/cnt/news/20260401/bkn-20260401170730463-0401_00822_001.html	未分類
 2026-03-31	青馬大橋龍運巴士的士相撞 4人受傷 的哥昏迷送院	https://std.stheadline.com/breaking-news/3557988/青馬大橋龍運巴士的士相撞-4人受傷-的哥昏迷送院	未分類
 2026-03-31	青馬大橋巴士撞的士2死1傷 巴士司機涉危駕被捕	https://www.hkcd.com.hk/hkcdweb/content/2026/03/31/content_8747650.html	未分類
-2026-03-31	青馬大橋兩死車禍│龍運：已暫停涉事車長駕駛職務 配合警方調查	https://www.hk01.com/突發/60335774/青馬大橋兩死車禍-龍運-已暫停涉事車長駕駛職務-配合警方調查	未分類
-2026-03-31	青馬大橋兩死車禍│故障的士停橋面慢線捱巴士撞 司機乘客送院亡	https://www.hk01.com/突發/60335759/青馬大橋兩死車禍-故障的士停橋面慢線捱巴士撞-司機乘客送院亡	未分類
-2026-03-31	青馬大橋2死車禍｜龍運：已即時暫停涉事車長駕駛職務 配合警方調查原因	https://www.stheadline.com/breaking-news/3558028/青馬大橋2死車禍龍運已即時暫停涉事車長駕駛職務-配合警方調查原因	未分類
-2026-03-31	青馬大橋2死車禍｜的士捱巴士撞司機乘客雙亡 親屬傷心認屍	https://www.singtao.ca/7462574/2026-03-31/news-青馬大橋2死車禍｜的士捱巴士撞司機乘客雙亡+親屬傷心認屍/	未分類
+2026-03-31	青馬大橋兩死車禍│龍運：已暫停涉事車長駕駛職務 配合警方調查	https://www.hk01.com/突發/60335774/青馬大橋兩死車禍-龍運-已暫停涉事車長駕駛職務-配合警方調查	車禍
+2026-03-31	青馬大橋兩死車禍│故障的士停橋面慢線捱巴士撞 司機乘客送院亡	https://www.hk01.com/突發/60335759/青馬大橋兩死車禍-故障的士停橋面慢線捱巴士撞-司機乘客送院亡	車禍
+2026-03-31	青馬大橋2死車禍｜龍運：已即時暫停涉事車長駕駛職務 配合警方調查原因	https://www.stheadline.com/breaking-news/3558028/青馬大橋2死車禍龍運已即時暫停涉事車長駕駛職務-配合警方調查原因	車禍
+2026-03-31	青馬大橋2死車禍｜的士捱巴士撞司機乘客雙亡 親屬傷心認屍	https://www.singtao.ca/7462574/2026-03-31/news-青馬大橋2死車禍｜的士捱巴士撞司機乘客雙亡+親屬傷心認屍/	車禍
 2026-03-31	貨車司機貪方便切線轉彎撞斃孕婦 官斥持續犯錯非疏忽 囚22月	https://www.hk01.com/article/60335904	未分類
 2026-03-31	紅磡漆咸道北三車連環相撞 包括解款車靈車 2人頭暈不適送院	https://www.singtao.ca/7462657/2026-03-31/news-紅磡漆咸道北三車連環相撞+包括解款車靈車+2人頭暈不適送院/	未分類
 2026-03-31	環球影城出事了！輪椅男搭雲霄飛車「頭部瘋狂撞擊」死亡	https://news.ebc.net.tw/news/world/544733	未分類
@@ -1227,7 +1221,7 @@ var DATA_TRAFFIC = `
 2026-03-19	澳洲單車手撞死老婆獲緩刑 IG開玩笑被批不知悔改	https://www.am730.com.hk/article/1019482	未分類
 2026-03-19	板橋浮洲火車站驚傳意外！男子不明原因墜軌遭輾過當場死亡	https://udn.com/news/amp/story/7320/9389316	未分類
 2026-03-19	密西沙加一名男童遭GO火車撞斃 疑繞過欄杆釀悲劇	https://www.singtao.ca/7449702/2026-03-19/news-密西沙加一名男童遭go火車撞斃 疑繞過欄杆釀悲劇/	未分類
-2026-03-19	29歲泰女車禍昏迷 醒來全裸躺在陌生男家 氣炸報警	https://news.ebc.net.tw/news/world/542863	未分類
+2026-03-19	29歲泰女車禍昏迷 醒來全裸躺在陌生男家 氣炸報警	https://news.ebc.net.tw/news/world/542863	車禍
 2026-03-18	離奇！桃園女遭曳引車撞 出院當晚猝逝	https://news.ebc.net.tw/news/society/542681	未分類
 2026-03-18	銅鑼灣禮頓道校巴停「黃格仔」 揭司機暈倒車上	https://www.singtao.ca/7449301/2026-03-18/news-銅鑼灣禮頓道校巴停「黃格仔」+揭司機暈倒車上/	未分類
 2026-03-18	桃園八德母女雙亡！32歲媽載1歲女疑閃垃圾車 慘遭曳引車輾斃	https://www.ftnn.com.tw/news/530879	未分類
@@ -1246,11 +1240,11 @@ var DATA_TRAFFIC = `
 2026-03-16	元朗電單車自炒 鐵騎士險遭貨車輾斃	https://hk.on.cc/hk/bkn/cnt/news/20260316/bkn-20260316080012849-0316_00822_001.html	未分類
 2026-03-16	九龍灣私家車失控剷行人路 8途人傷女乘客抛出車外昏迷 75歲男司機涉危駕被捕	https://www.stheadline.com/breaking-news/3553263/九龍灣私家車失控剷行人路-8途人傷女乘客抛出車外昏迷-75歲男司機涉危駕被捕	未分類
 2026-03-16	3華人涉詐 1嫌逃跑被撞亡	https://www.worldjournal.com/wj/amp/story/121360/9382450	未分類
-2026-03-15	成都青年無牌駕駛釀車禍 1死6傷	https://hk.on.cc/hk/bkn/cnt/news/20260315/bkn-20260315081200487-0315_00822_001.html	未分類
+2026-03-15	成都青年無牌駕駛釀車禍 1死6傷	https://hk.on.cc/hk/bkn/cnt/news/20260315/bkn-20260315081200487-0315_00822_001.html	車禍
 2026-03-14	開玩笑惡作劇意外撞死老師 學生獲撤銷指控	https://www.singtaousa.com/2026/03/14/news/usa/student-accidentally-kills-teacher-charges-dropped/	未分類
 2026-03-14	觀塘協和街75歲翁遭的士撞斃 司機涉危險駕駛引致他人死亡被捕	https://www.hk01.com/突發/60330533/觀塘協和街75歲翁遭的士撞斃-司機涉危險駕駛引致他人死亡被捕	未分類
 2026-03-14	沙田九巴貨車首尾撞巴士女乘客頸痛送院- 香港 - 香港文匯網	https://www.wenweipo.com/a/202603/14/AP69b4f804e4b04d7d56d860cb.html	未分類
-2026-03-14	成都19歲男子無牌駕駛衝紅燈 釀成1死6傷交通意外	https://www.singtaousa.com/2026/03/14/news/china/chengdu-teen-driver-without-license-causes-fatal-crash/	未分類
+2026-03-14	成都19歲男子無牌駕駛衝紅燈 釀成1死6傷交通意外	https://www.singtaousa.com/2026/03/14/news/china/chengdu-teen-driver-without-license-causes-fatal-crash/	車禍
 2026-03-13	跑馬地警察電單車撞倒5歲男童 鐵騎腳傷二人同送院	https://www.stheadline.com/breaking-news/3552432/跑馬地警察電單車撞倒5歲男童-鐵騎腳傷二人同送院	未分類
 2026-03-13	跑馬地成和道警電單車意外撞5歲男童警員同受傷送院- 港聞	https://www.dotdotnews.com/a/202603/13/AP69b380f0e4b0c32d4f6ba933.html	未分類
 2026-03-13	跑馬地成和道交通警電單車撞5歲男童 警員同受傷送院	https://www.hk01.com/突發/60330088/跑馬地成和道交通警電單車撞5歲男童-警員同受傷送院	未分類
@@ -1261,10 +1255,10 @@ var DATA_TRAFFIC = `
 2026-03-13	4歲華童方翰泓遭車撞斃 父母告伯嶺甘市 亦起訴多名涉事者「讓同樣的事不再發生」	https://www.singtaousa.com/2026/03/13/news/usa/child-killed-burlingame-lawsuit/	未分類
 2026-03-12	（有片）青馬大橋10車相撞10人受傷送院有司機涉停牌期間駕駛被捕- 港聞	https://www.dotdotnews.com/a/202603/12/AP69b23a1de4b0c32d4f6b8b65.html	未分類
 2026-03-12	驚！女遭判腦死…救護車「輾過坑洞」震一下竟「復活」醫揭可能原因	https://odd.setn.com/News/1806509	未分類
-2026-03-12	青馬大橋10車車禍｜11人受傷送院 46歲男司機涉停牌期間駕駛被捕	https://www.hk01.com/突發/60329924/青馬大橋10車車禍-11人受傷送院-46歲男司機涉停牌期間駕駛被捕	未分類
+2026-03-12	青馬大橋10車車禍｜11人受傷送院 46歲男司機涉停牌期間駕駛被捕	https://www.hk01.com/突發/60329924/青馬大橋10車車禍-11人受傷送院-46歲男司機涉停牌期間駕駛被捕	車禍
 2026-03-12	青馬大橋10車相撞10 人受傷送院一名司機因停牌期間駕駛被捕	https://www.bastillepost.com/hongkong/article/15733117-青馬大橋10車相撞10人受傷送院 一名司機因停牌期	未分類
-2026-03-12	遺愛人間｜韓16歲少女車禍腦死 捐贈器官救6人 父親淚別：下輩子再做我女兒	https://topick.hket.com/article/4097485/	未分類
-2026-03-12	布碌崙克利申連環車禍 1死11傷	https://www.singtaousa.com/2026/03/12/news/usa/1-killed-11-injured-in-brooklyn-triple-car-accident/	未分類
+2026-03-12	遺愛人間｜韓16歲少女車禍腦死 捐贈器官救6人 父親淚別：下輩子再做我女兒	https://topick.hket.com/article/4097485/	車禍
+2026-03-12	布碌崙克利申連環車禍 1死11傷	https://www.singtaousa.com/2026/03/12/news/usa/1-killed-11-injured-in-brooklyn-triple-car-accident/	車禍
 2026-03-11	好老師遭學生惡作劇撞斃 家屬呼籲撤控：不想毀掉學生一生 |	https://www.ohpama.com/1011634/生活熱話/好老師遭學生惡作劇撞斃-家屬呼籲撤控：不想毀掉/	未分類
 2026-03-11	70歲翁闖平交道遭區間車輾斃 台鐵鶯歌-桃園列車延誤現已恢復行駛	https://money.udn.com/money/amp/story/122328/9374270	未分類
 2026-03-10	高雄砂石車國10玩命闖紅燈猛撞「整車解體」橫躺4人送醫	https://news.tvbs.com.tw/local/3147058	未分類
@@ -1280,7 +1274,7 @@ var DATA_TRAFFIC = `
 2026-03-09	美國中學老師遭輾斃 5青少年惡作劇釀悲劇面臨刑責 - am730	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/1016608/%E7%BE%8E%E5%9C%8B%E4%B8%AD%E5%AD%B8%E8%80%81%E5%B8%AB%E9%81%AD%E8%BC%BE%E6%96%83-5%E9%9D%92%E5%B0%91%E5%B9%B4%E6%83%A1%E4%BD%9C%E5%8A%87%E9%87%80%E6%82%B2%E5%8A%87%E9%9D%A2%E8%87%A8%E5%88%91%E8%B2%AC	未分類
 2026-03-09	美國中學老師遭輾斃 5青少年惡作劇釀悲劇面臨刑責	https://www.am730.com.hk/國際/1016608/美國中學老師遭輾斃-5青少年惡作劇釀悲劇面臨刑責	未分類
 2026-03-09	美國5高中生惡作劇輾斃好老師 遺屬一理由求撤控	https://www.singtao.ca/7440170/2026-03-09/news-美國5高中生惡作劇輾斃好老師++遺屬一理由求撤控/?variant=zh-hk	未分類
-2026-03-09	洩一地泥…台61線觀音段重大車禍 5車追撞2人OHCA - 聯合新聞網	https://udn.com/news/story/7320/9367742	未分類
+2026-03-09	洩一地泥…台61線觀音段重大車禍 5車追撞2人OHCA - 聯合新聞網	https://udn.com/news/story/7320/9367742	車禍
 2026-03-09	將軍澳55歲男子踩單車失控翻車 頭傷一度昏迷送院	https://www.am730.com.hk/article/1016800	未分類
 2026-03-09	嘉縣兩車相撞釀7人傷 31歲女送醫後不治	https://udn.com/news/amp/story/7317/9368960	未分類
 2026-03-09	喬州生惡搞衛生紙絆倒師被撞亡 家屬一原因求勿控罪	https://www.worldjournal.com/wj/story/121618/9369826	未分類
@@ -1293,25 +1287,25 @@ var DATA_TRAFFIC = `
 2026-03-08	台中停車意外釀空軍士兵死亡 空軍：將持恆實施行車安全宣教	https://tw.news.yahoo.com/台中停車意外釀空軍士兵死亡-空軍-將持恆實施行車安全宣教-060532244.html	未分類
 2026-03-08	倒車卡住翻覆 士兵察看遭壓不治	https://tw.news.yahoo.com/倒車卡住翻覆-士兵察看遭壓不治-133359326.html	未分類
 2026-03-08	上水清曉路64歲男途人捱電單車撞 同告受傷送院	https://www.hk01.com/%E7%AA%81%E7%99%BC/60328548/%E4%B8%8A%E6%B0%B4%E6%B8%85%E6%9B%89%E8%B7%AF64%E6%AD%B2%E7%94%B7%E9%80%94%E4%BA%BA%E6%8D%B1%E9%9B%BB%E5%96%AE%E8%BB%8A%E6%92%9E-%E5%90%8C%E5%91%8A%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2	未分類
-2026-03-07	終院非常任法官包致金姪女Amina 猝死生前酒駕撞車掌摑警員案轟動一時 - bastillepost.com	https://www.bastillepost.com/hongkong/article/15718305-%E7%B5%82%E9%99%A2%E9%9D%9E%E5%B8%B8%E4%BB%BB%E6%B3%95%E5%AE%98%E5%8C%85%E8%87%B4%E9%87%91%E5%A7%AA%E5%A5%B3amina%E7%8C%9D%E6%AD%BB-%E7%94%9F%E5%89%8D%E9%85%92%E9%A7%95%E6%92%9E%E8%BB%8A%E6%8E%8C	未分類
+2026-03-07	終院非常任法官包致金姪女Amina 猝死生前酒駕撞車掌摑警員案轟動一時 - bastillepost.com	https://www.bastillepost.com/hongkong/article/15718305-%E7%B5%82%E9%99%A2%E9%9D%9E%E5%B8%B8%E4%BB%BB%E6%B3%95%E5%AE%98%E5%8C%85%E8%87%B4%E9%87%91%E5%A7%AA%E5%A5%B3amina%E7%8C%9D%E6%AD%BB-%E7%94%9F%E5%89%8D%E9%85%92%E9%A7%95%E6%92%9E%E8%BB%8A%E6%8E%8C	車禍
 2026-03-07	桃園男酒後闖紅燈撞死女騎士還逃 國民法官判9年10月 - 聯合新聞網	https://udn.com/news/story/7321/9365056	未分類
 2026-03-07	新／台中19歲男載女友翻車！OHCA搶救中 - 鏡週刊Mirror Media	https://www.mirrormedia.mg/external/setn_1804000	未分類
 2026-03-07	影音／貨車猛撞電線桿！49歲男倒車逃逸居民整晚停電	https://news.tvbs.com.tw/local/3144681	未分類
 2026-03-07	大溫停車場奪命 杜華遜69歲婦被撞死 - singtao.ca	https://www.singtao.ca/7437923/2026-03-07/news-%E5%A4%A7%E6%BA%AB%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%A5%AA%E5%91%BD++++%E6%9D%9C%E8%8F%AF%E9%81%9C69%E6%AD%B2%E5%A9%A6%E8%A2%AB%E6%92%9E%E6%AD%BB/	未分類
 2026-03-06	高血壓｜天水圍兩私家車相撞 54歲女司機落車激動理論突暈倒留醫兩日亡	https://topick.hket.com/article/4094277/高血壓｜天水圍兩私家車相撞 54歲女司機落車激動理論突暈倒留醫兩日亡?mtc=10012	未分類
-2026-03-06	華人遇小車禍換保險信息遭撞死 肇事者不認謀殺罪 - worldjournal.com	https://www.worldjournal.com/wj/story/121471/9364942	未分類
+2026-03-06	華人遇小車禍換保險信息遭撞死 肇事者不認謀殺罪 - worldjournal.com	https://www.worldjournal.com/wj/story/121471/9364942	車禍
 2026-03-06	粉錦公路的士撞夾斗車 的士司機女乘客俱亡	https://www.am730.com.hk/本地/1016107/粉錦公路的士撞夾斗車-的士司機女乘客俱亡	未分類
-2026-03-06	粉錦公路兩死奪命車禍 貨車司機涉危駕被捕	https://www.hkcd.com.hk/hkcdweb/content/2026/03/06/content_8743266.html	未分類
+2026-03-06	粉錦公路兩死奪命車禍 貨車司機涉危駕被捕	https://www.hkcd.com.hk/hkcdweb/content/2026/03/06/content_8743266.html	車禍
 2026-03-06	泊車未啟動剎車掣致溜後釀1死7傷 官信一時判斷失誤 48歲菲傭判囚27個月兼停牌5年	https://std.stheadline.com/society/3550279/泊車未啟動剎車掣致溜後釀1死7傷-官信一時判斷失誤-48歲菲傭判囚27個月兼停牌5年	未分類
 2026-03-06	新車買半年被追撞 徐千京心驚：早被預言	https://www.epochtimes.com/b5/26/3/6/n14712554.htm	未分類
 2026-03-06	八點檔女星徐千京國道遭追撞！神準算命師預言「流年有車關」 需靠這招化解	https://n.yam.com/Article/20260306852828	未分類
 2026-03-06	中環蘇豪區私家車溜後撞斃法籍女子 菲傭危駕罪成囚27月停牌5年	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328007/%E4%B8%AD%E7%92%B0%E8%98%87%E8%B1%AA%E5%8D%80%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%BA%9C%E5%BE%8C%E6%92%9E%E6%96%83%E6%B3%95%E7%B1%8D%E5%A5%B3%E5%AD%90-%E8%8F%B2%E5%82%AD%E5%8D%B1%E9%A7%95%E7%BD%AA%E6%88%90%E5%9B%9A27%E6%9C%88%E5%81%9C%E7%89%8C5%E5%B9%B4	未分類
-2026-03-05	（有片）粉錦公路2死車禍35歲貨車男司機涉危駕致死被捕- 港聞	https://www.dotdotnews.com/a/202603/05/AP69a98a6ae4b0c32d4f6ad302.html	未分類
+2026-03-05	（有片）粉錦公路2死車禍35歲貨車男司機涉危駕致死被捕- 港聞	https://www.dotdotnews.com/a/202603/05/AP69a98a6ae4b0c32d4f6ad302.html	車禍
 2026-03-05	騎士闖貨櫃車「死亡內輪差」 司機嚇壞急煞險爆漿	https://www.chinatimes.com/realtimenews/20260305004942-260402	未分類
 2026-03-05	閃違停賓士出事了！嘉義女保險員遭聯結車輾斃 家屬悲慟認屍提告	https://www.nownews.com/news/6792475	未分類
 2026-03-05	貪圖方便？ 疑買飲料違停機車道 婦人遭聯結車輾過爆頭亡	https://www.eracom.com.tw/EraNews/Home/Society/2026-03-05/2278955.html	未分類
-2026-03-05	粉錦公路致命交通意外 貨車司機被捕	https://m.hkej.com/landing/mobarticle2/id/4334596/粉錦公路致命交通意外 貨車司機被捕	未分類
-2026-03-05	粉錦公路奪命車禍｜與綠的相撞釀2死 35歲夾斗貨車男司機被捕	https://www.hk01.com/突發/60327815/粉錦公路奪命車禍-與綠的相撞釀2死-35歲夾斗貨車男司機被捕	未分類
+2026-03-05	粉錦公路致命交通意外 貨車司機被捕	https://m.hkej.com/landing/mobarticle2/id/4334596/粉錦公路致命交通意外 貨車司機被捕	車禍
+2026-03-05	粉錦公路奪命車禍｜與綠的相撞釀2死 35歲夾斗貨車男司機被捕	https://www.hk01.com/突發/60327815/粉錦公路奪命車禍-與綠的相撞釀2死-35歲夾斗貨車男司機被捕	車禍
 2026-03-05	女騎士閃違停賓士遭聯結車輾斃！家屬心碎提告過失致死 他另涉肇逃	https://www.ettoday.net/news/20260305/3127296.htm	未分類
 2026-03-05	女騎士慘遭曳引車輾斃！嘉檢偵辦2車駕駛涉過失致死1人再涉肇逃	https://udn.com/news/amp/story/7320/9361356	未分類
 2026-03-05	天瑞路私家車相撞女司機落車理論期間昏迷留醫2日惜不治- 港聞	https://www.dotdotnews.com/a/202603/05/AP69a92e13e4b0c32d4f6ac549.html	未分類
@@ -1331,22 +1325,22 @@ var DATA_TRAFFIC = `
 2026-03-04	官批貪方便遲轉線撞斃孕婦 司機危駕罪成「判監難免」 - 20260304 - 圖片看世界	https://news.mingpao.com/pns/港聞/photo1/20260304/s00002/1772561570436/1772561570435	未分類
 2026-03-04	Benz電動車荃錦公路撞小巴後翻側 小巴司機受傷送院	https://hkcd.com/hkcdweb/content/2026/03/04/content_8742748.html	未分類
 2026-03-03	筲箕灣太安街3車相撞 巴士司機一度被困 兩人受傷送院	https://www.singtao.ca/7433873/2026-03-03/news-筲箕灣愛勤道3車相撞+巴士司機一度被困+兩人受傷送院/	未分類
-2026-03-03	疑為趕搭高鐵 高鐵台中站男客踉蹌頭撞車門昏頭送醫	https://udn.com/news/amp/story/7320/9356849	未分類
+2026-03-03	疑為趕搭高鐵 高鐵台中站男客踉蹌頭撞車門昏頭送醫	https://udn.com/news/amp/story/7320/9356849	車禍
 2026-03-03	桃園男左轉失控撞樹！「整台翻側90度」橫卡路中 油流滿地釀塞車	https://www.ftnn.com.tw/news/527106	未分類
 2026-03-03	2026元宵節「血月」震撼登場！做「這些事」招好運！「月全蝕」觀測時間、直播資訊全攻略	https://www.womenshealthmag.com/tw/mental/relationship/a70581354/2026-lantern-festival-total-lunar-eclipse-blood-moon-wellness-guide/	未分類
 2026-03-02	驚悚畫面曝！婦人下車遭公車輾斃 司機晚間20萬交保、限制出境出海	https://tw.news.yahoo.com/婦人要穿越馬路卻走進公車死角遭輾斃-事發前10秒-畫面曝光-035000806.html	未分類
 2026-03-02	震撼！航運巨頭馬士基停駛荷姆茲、蘇伊士 全球運費掀波瀾	https://www.knews.com.tw/news/A23B0605E37E575D724ADD179DC708B8	未分類
 2026-03-02	輾斃婦人渾然不知一路開回總站 肇事公司車機20萬交保採尿送驗	https://tw.news.yahoo.com/輾斃婦人渾然不知-路開回總站-肇事公司車機20萬交保採尿送驗-133400908.html	未分類
 2026-03-02	石門婦深夜騎車外出 自撞衝入產業道路邊坡不治身亡	https://sunmedia.tw/news/collaborative/2acUgQRl2gSuldPntgr9btUK4mmfKahkpZSFUMtNIIUC4U3WdIUjKIoe8AxhAA8QMi6MLC1h	未分類
-2026-03-02	父母車禍亡！美14歲兄虛報年齡打工養妹 受審感人片瘋傳真相成謎	https://www.hk01.com/熱爆話題/60325893/父母車禍亡-美14歲兄虛報年齡打工養妹-受審感人片瘋傳真相成謎	未分類
-2026-03-02	父母車禍亡！美14歲兄虛報年齡打工養妹 受審感人片瘋傳真相惹疑	https://www.hk01.com/熱爆話題/60325893/父母車禍亡-美14歲兄虛報年齡打工養妹-受審感人片瘋傳真相惹疑	未分類
+2026-03-02	父母車禍亡！美14歲兄虛報年齡打工養妹 受審感人片瘋傳真相成謎	https://www.hk01.com/熱爆話題/60325893/父母車禍亡-美14歲兄虛報年齡打工養妹-受審感人片瘋傳真相成謎	車禍
+2026-03-02	父母車禍亡！美14歲兄虛報年齡打工養妹 受審感人片瘋傳真相惹疑	https://www.hk01.com/熱爆話題/60325893/父母車禍亡-美14歲兄虛報年齡打工養妹-受審感人片瘋傳真相惹疑	車禍
 2026-03-02	烘爐地祖孫3貼自撞金孫不治 爸媽下山目睹悲劇！爺爺涉過失致死	https://www.ettoday.net/news/20260302/3125264.htm	未分類
 2026-03-02	婦遭公車輾斃「臟器外露」事發畫面曝！司機一路開回北投	https://news.ebc.net.tw/news/society/539996	未分類
 2026-03-02	天瑞路两私家车相撞 两司机落车理论 54岁女司机激动晕倒昏迷	https://global.hk01.com/突发/60326592/天瑞路两私家车相撞-两司机落车理论-54岁女司机激动晕倒昏迷	未分類
 2026-03-02	北市公車駕駛輾斃69歲女乘客 未停車查看涉肇逃 警帶回送辦	https://tw.news.yahoo.com/北市公車駕駛輾斃69歲女乘客-未停車查看涉肇逃-警帶回送辦-021611815.html	未分類
 2026-03-02	北市公車輾斃下車女乘客 警方到場處理 (圖)	https://tw.news.yahoo.com/北市公車輾斃下車女乘客-警方到場處理-圖-043414777.html	未分類
 2026-03-02	公車輾斃北市老婦 大都會客運：司機不知撞到人「非故意肇逃」	https://www.ettoday.net/news/20260302/3125196.htm	未分類
-2026-03-02	八德路恐怖車禍...公車輾死婦還往前開 警通知才知闖禍	https://news.ttv.com.tw/wbc/news/Views/11503020012400I	未分類
+2026-03-02	八德路恐怖車禍...公車輾死婦還往前開 警通知才知闖禍	https://news.ttv.com.tw/wbc/news/Views/11503020012400I	車禍
 2026-03-01	祖孫3人騎機車自撞電桿 3歲孫送醫不治 (圖)	https://tw.news.yahoo.com/祖孫3人騎機車自撞電桿-3歲孫送醫不治-圖-110249439.html	未分類
 2026-03-01	新北中和烘爐地機車三貼自撞 5歲童傷重不治	https://news.ttv.com.tw/news/11503010002200W	未分類
 2026-03-01	中和機車三貼自撞電線桿 車上幼童傷重不治	https://tw.news.yahoo.com/中和機車三貼自撞電線桿-車上幼童傷重不治-122819659.html	未分類
@@ -1367,18 +1361,18 @@ var DATA_TRAFFIC = `
 2026-02-27	中環私家車溜後釀1死7傷 菲籍女司機兩危駕罪成 官指理應確保私家車不溜後才離開車輛	https://www.singtao.ca/7429270/2026-02-27/news-中環私家車溜後釀1死7傷	未分類
 2026-02-27	中環私家車溜後撞斃法籍女子菲傭疑停車未拉手掣肇禍危駕罪成	https://www.hk01.com/社會新聞/60325660/中環私家車溜後撞斃法籍女子-菲傭疑停車未拉手掣肇禍-危駕罪成	未分類
 2026-02-26	西區兩貨車「黃格仔」相撞 擋風玻璃爆裂 一人受傷送院	https://www.singtao.ca/7428702/2026-02-26/news-有片│西區兩貨車「黃格仔」相撞+擋風玻璃爆裂+一人受傷送院/	未分類
-2026-02-26	蘭州近廿人公路祭祖遭車禍致2死3重傷 家屬：司機沒減速 交通 蘭州近廿人公路祭祖遭車禍致2死3重傷 家屬：司機沒減速 0.96	https://www.hk01.com/大國小事/60325292/蘭州近廿人公路祭祖遭車禍致2死3重傷-家屬-司機沒減速	未分類
+2026-02-26	蘭州近廿人公路祭祖遭車禍致2死3重傷 家屬：司機沒減速 交通 蘭州近廿人公路祭祖遭車禍致2死3重傷 家屬：司機沒減速 0.96	https://www.hk01.com/大國小事/60325292/蘭州近廿人公路祭祖遭車禍致2死3重傷-家屬-司機沒減速	車禍
 2026-02-26	盤點「AI 恐慌交易」輾壓五大板塊這些傳統行業都上榜	https://hk.finance.yahoo.com/news/盤點「ai-恐慌交易」輾壓五大板塊-這些傳統行業都上榜-224303149.html	未分類
 2026-02-26	愛玩車／學霸台64遭丟包輾斃 Bolt推「行程錄音」功能	https://tw.news.yahoo.com/愛玩車-學霸台64遭丟包輾斃-bolt推-行程錄音-功能-074200553.html	未分類
 2026-02-26	中國35歲指揮家李疏瞳 紐約路邊換車胎被撞斃	https://www.am730.com.hk/article/1014109	未分類
 2026-02-25	福建11歲童高速公路服務區被撞亡 網傳家屬斥小米電動車失控釀禍 OK 福建11歲童高速公路服務區被撞亡 網傳家屬斥小米電動車失控釀禍 0.97	https://www.hk01.com/即時中國/60324889/福建11歲童高速公路服務區被撞亡-網傳家屬斥小米電動車失控釀禍	未分類
 2026-02-25	油麻地加士居道校巴轉彎撞Tesla再撼燈柱 2人輕傷送院 OK 油麻地加士居道校巴轉彎撞Tesla再撼燈柱 2人輕傷送院 0.53	https://www.hk01.com/突發/60324931/油麻地加士居道校巴與tesla相撞-2人不適-往紅磡方向交通受阻	未分類
 2026-02-25	恸！等红绿灯遇死神 男子遭罗厘撞毙 OK 恸！等红绿灯遇死神 男子遭罗厘撞毙 | 中國報 China Press 0.67	https://www.chinapress.com.my/20260225/恸！等红绿灯遇死神-男子遭罗厘撞毙/	未分類
-2026-02-24	菲律賓渡輪沉沒增至65人死 14人下落不明 交通 菲律賓渡輪沉沒增至65人死 14人下落不明 0.95	https://www.singtao.ca/7426438/2026-02-24/news-菲律賓渡輪沉沒增至65人死+++14人下落不明/	未分類
+2026-02-24	菲律賓渡輪沉沒增至65人死 14人下落不明 交通 菲律賓渡輪沉沒增至65人死 14人下落不明 0.95	https://www.singtao.ca/7426438/2026-02-24/news-菲律賓渡輪沉沒增至65人死+++14人下落不明/	船難
 2026-02-24	福岡保姆車十字路口被追撞 9名學生送院	https://www.am730.com.hk/國際/1013332/福岡保姆車十字路口被追撞-9名學生送院	未分類
 2026-02-24	尼泊爾巴士墜河19亡 一為華女	https://www.hkej.com/dailynews/international/article/4324359/尼泊爾巴士墜河19亡+一為華女	未分類
 2026-02-24	伊朗軍用直升機墜毀致4人死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/02/24/content_8741362.html	未分類
-2026-02-23	曾因車禍頸椎受傷!67歲阿嬤不放棄馬拉松夢：只要還能動，人生隨時都能重新起跑	https://www.cw.com.tw/article/5139755	未分類
+2026-02-23	曾因車禍頸椎受傷!67歲阿嬤不放棄馬拉松夢：只要還能動，人生隨時都能重新起跑	https://www.cw.com.tw/article/5139755	車禍
 2026-02-21	智利天然氣車翻側 火焰吞公路最少4死︱有片	https://std.stheadline.com/realtime-world/3546263/智利天然氣車翻側-火焰吞公路最少4死有片	未分類
 2026-02-21	今年以來最強沙塵暴襲北京 昏黃天空出現藍太陽 航機改飛電單車吹倒	https://www.bastillepost.com/hongkong/article/15676427-今年以來最強沙塵暴襲北京-航機改飛電單車吹倒-昏	未分類
 2026-02-20	香港仔有私家車剷上行人路 撞到一家三口母女被捲入車底	https://news.tvb.com/sc/local/699875af060723efc09c82e1/港澳-香港仔有私家車剷上行人路-撞到一家三口母女被捲入車底	未分類
@@ -1401,45 +1395,45 @@ var DATA_TRAFFIC = `
 2026-02-12	尖沙咀三車相撞 交警增援失控翻車受傷送院	https://www.stheadline.com/breaking-news/3544137/尖沙咀三車相撞-交警增援失控翻車受傷送院	未分類
 2026-02-12	一輛巴士在大草原鎮附近翻車 1死6重傷	https://www.epochtimes.com/b5/26/2/12/n14696562.htm	未分類
 2026-02-11	阿北騎電動三輪車「逆向闖國道」 遭2賓士輾斃粉碎「1死1傷」	https://tw.news.yahoo.com/阿北騎電動三輪車-逆向闖國道-遭2賓士輾斃粉碎-1死1傷-140048992.html	未分類
-2026-02-11	菲律賓渡輪沉沒事故死亡人數升至52人	https://www.hkcd.com.hk/hkcdweb/content/2026/02/11/content_8740089.html	未分類
+2026-02-11	菲律賓渡輪沉沒事故死亡人數升至52人	https://www.hkcd.com.hk/hkcdweb/content/2026/02/11/content_8740089.html	船難
 2026-02-11	春節連假國道湧車潮 高公局籲檢查車況再上路	https://tw.news.yahoo.com/春節連假國道湧車潮-高公局籲檢查車況再上路-041800596.html	未分類
 2026-02-11	女童穿越巴斯大道遭校車撞亡 民代促市府檢討路段安全	https://www.worldjournal.com/wj/amp/story/121390/9322995	未分類
 2026-02-11	國道車輛故障常見5狀況 高公局籲檢查車況再上路	https://money.udn.com/money/amp/story/5603/9323257	未分類
 2026-02-11	北大嶼山公路的士撞工程車釀3傷 男乘客拋出車外昏迷送院	https://www.hkcd.com.hk/hkcdweb/content/2026/02/11/content_8740010.html	未分類
 2026-02-11	「紫霞仙子」移送高金素梅!美女調查官學霸背景曝 戰功超震撼	https://news.tvbs.com.tw/local/3126413	未分類
-2026-02-11	96人去年死於交通意外 警發207萬張牛肉乾按年少50萬｜警方年結	https://www.hk01.com/社會新聞/60321498/96人去年死於交通意外-警發207萬張牛肉乾按年少50萬-警方年結	未分類
+2026-02-11	96人去年死於交通意外 警發207萬張牛肉乾按年少50萬｜警方年結	https://www.hk01.com/社會新聞/60321498/96人去年死於交通意外-警發207萬張牛肉乾按年少50萬-警方年結	車禍
 2026-02-11	3歲愛女「遭貨車輾壓」當場亡...名主播「悲挖喉嚨血塊」奇蹟發生了	https://star.setn.com/news/1793860	未分類
 2026-02-11	3兄弟出門2人回！台中雙胞胎遭水泥車輾斃 大哥目睹悲喊：快救我弟弟	https://mnews.tw/story/amp/mm-20260211edi059	未分類
-2026-02-10	西木區99大華超市車禍第三名罹難者身分已確認| 美國 | 洛杉磯 | 洛杉磯晨間新聞	https://www.soundofhope.org/post/921715?lang=b5	未分類
-2026-02-10	福建男車禍昏迷 同行友人竟趁機偷金飾 盜竊罪成判緩刑1年	https://www.hk01.com/大國小事/60320997/福建男車禍昏迷-同行友人竟趁機偷金飾-盜竊罪成判緩刑1年	未分類
+2026-02-10	西木區99大華超市車禍第三名罹難者身分已確認| 美國 | 洛杉磯 | 洛杉磯晨間新聞	https://www.soundofhope.org/post/921715?lang=b5	車禍
+2026-02-10	福建男車禍昏迷 同行友人竟趁機偷金飾 盜竊罪成判緩刑1年	https://www.hk01.com/大國小事/60320997/福建男車禍昏迷-同行友人竟趁機偷金飾-盜竊罪成判緩刑1年	車禍
 2026-02-10	東海女大生遭巨業客運輾斃 同行學姐作證：聽到骨頭碎裂的聲音	https://tw.news.yahoo.com/東海女大生遭巨業客運輾斃-同行學姐作證-聽到骨頭碎裂的聲音-110842516.html	未分類
 2026-02-10	東海女大生遭公車輾斃 同行學姊作證「2度輾壓」經過：聽見頭骨碎裂聲	https://www.ftnn.com.tw/news/522892	未分類
 2026-02-10	曳引車輾斃騎士 當地5KM外11天前才撞死人	https://news.cts.com.tw/cts/general/202602/202602102560024.html	未分類
 2026-02-10	推廢紙車婦觀塘道撞斃 貨車司機涉危駕被捕 - 20260210 - 港聞	https://news.mingpao.com/pns/港聞/article/20260210/s00002/1770657265882/推廢紙車婦觀塘道撞斃-貨車司機涉危駕被捕	未分類
 2026-02-10	推廢紙車婦觀塘道撞斃 貨車司機涉危駕被捕 - 20260210 - 圖片看世界	https://news.mingpao.com/pns/港聞/photo1/20260210/s00002/1770657265882/1770657265881	未分類
 2026-02-10	巨業客運輾斃東海女大生 受傷學姊曝：公車2度輾壓聽見「頭骨碎裂聲」	https://udn.com/news/amp/story/7320/9320730	未分類
-2026-02-10	古天樂認有輕度失憶 曾撞車昏迷臉上留有疤痕	https://hk.on.cc/hk/bkn/cnt/entertainment/20260210/bkn-20260210143635164-0210_00862_001.html	未分類
+2026-02-10	古天樂認有輕度失憶 曾撞車昏迷臉上留有疤痕	https://hk.on.cc/hk/bkn/cnt/entertainment/20260210/bkn-20260210143635164-0210_00862_001.html	車禍
 2026-02-10	北京特務！愛潑斯坦密件泄「Wow」催命符：川普震撼劃界，北京上演大逃亡！【兩岸要聞】	https://www.bannedbook.org/bnews/zh-tw/bannedvideo/20260210/2286136.html	未分類
-2026-02-10	《劉Quiz》李德華回憶生死車禍：動50次手術、昏迷14天、同事以為救不回	https://www.koreastardaily.com/tc/amp/161652	未分類
+2026-02-10	《劉Quiz》李德華回憶生死車禍：動50次手術、昏迷14天、同事以為救不回	https://www.koreastardaily.com/tc/amp/161652	車禍
 2026-02-09	韓陸軍直升機墜毀！ 2准尉傷重不治殉職	https://tw.news.yahoo.com/韓軍直升機墜毀-2准尉重傷-心臟驟停急送醫-040404840.html	未分類
 2026-02-09	韓國一軍用直升機墜毀2人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202602/09/AP69897309e4b04d7d56d2aee1.html	未分類
-2026-02-09	古天樂承認有輕度失憶 自爆曾撞車昏迷臉上仍留疤痕	https://www.am730.com.hk/娛樂/1010075/古天樂承認有輕度失憶-自爆曾撞車昏迷臉上仍留疤痕	未分類
+2026-02-09	古天樂承認有輕度失憶 自爆曾撞車昏迷臉上仍留疤痕	https://www.am730.com.hk/娛樂/1010075/古天樂承認有輕度失憶-自爆曾撞車昏迷臉上仍留疤痕	車禍
 2026-02-09	9種超奇葩死法！他被狗「開車」輾斃 有人夢中被牛砸死	https://news.ebc.net.tw/news/world/528832	未分類
 2026-02-08	布朗士無牌司機撞斃過路漢	https://www.singtaousa.com/2026/02/08/news/usa/bronx-driver-hits-pedestrian/	未分類
 2026-02-07	高雄男詭異倒臥匝道口 遭3車連環輾斃	https://news.ttv.com.tw/news/115020700047005	未分類
 2026-02-07	高雄男深夜突躺匝道 遭3車連續輾斃	https://tw.news.yahoo.com/高雄男深夜突躺匝道-遭3車連續輾斃-012545339.html	未分類
 2026-02-07	男倒臥交流道匝道遭輾斃 3駕駛涉過失致死送辦 (圖)	https://tw.news.yahoo.com/男倒臥交流道匝道遭輾斃-3駕駛涉過失致死送辦-圖-024147408.html	未分類
-2026-02-07	新店奪命車禍！ 行人遭復康巴士「輾車底亡」｜#鏡新聞	https://tw.news.yahoo.com/新店奪命車禍-行人遭復康巴士-輾車底亡-鏡新聞-042106765.html	未分類
+2026-02-07	新店奪命車禍！ 行人遭復康巴士「輾車底亡」｜#鏡新聞	https://tw.news.yahoo.com/新店奪命車禍-行人遭復康巴士-輾車底亡-鏡新聞-042106765.html	車禍
 2026-02-07	恐怖瞬間曝！男深夜倒臥高雄匝道口 3車連環輾過當場身亡	https://www.ftnn.com.tw/news/522153	未分類
 2026-02-07	快訊》屏東國3麟洛往長治大車翻覆事故！北上車道暫無法通行	https://news.tw789.net/news-6712.html	未分類
-2026-02-06	洛杉磯私家車失控鏟華人超市 釀3死6傷 涉事司機92歲 警列「交通意外」｜Yahoo	https://hk.news.yahoo.com/洛杉磯私家車失控鏟華人超市-釀3死6傷-涉事司機92歲-警列「交通意外」｜yahoo-052926556.html	未分類
+2026-02-06	洛杉磯私家車失控鏟華人超市 釀3死6傷 涉事司機92歲 警列「交通意外」｜Yahoo	https://hk.news.yahoo.com/洛杉磯私家車失控鏟華人超市-釀3死6傷-涉事司機92歲-警列「交通意外」｜yahoo-052926556.html	車禍
 2026-02-06	布碌崙11歲女童遭校車撞亡 司機被逮捕控罪	https://www.worldjournal.com/wj/amp/story/121470/9314665	未分類
-2026-02-06	大華車禍3死7傷 肇事者92歲 一死者身分公布	https://www.worldjournal.com/wj/story/121471/9314677	未分類
+2026-02-06	大華車禍3死7傷 肇事者92歲 一死者身分公布	https://www.worldjournal.com/wj/story/121471/9314677	車禍
 2026-02-04	高慧君晕倒重摔留永久后遗症 “脸部3处骨折”震撼画面曝光	https://www.chinapress.com.my/20260204/高慧君晕倒重摔留永久后遗症-脸部3处骨折震撼/	未分類
 2026-02-04	淺水灣道警隊護送組電單車失事 1警員倒地受傷送院	https://www.hk01.com/突發/60319127/淺水灣道警隊護送組電單車失事-1警員倒地受傷送院	未分類
 2026-02-04	淺水灣道兩警察電單車相撞 1警員倒地受傷送院	https://www.stheadline.com/tv/tv-news/3541701/淺水灣道兩警察電單車相撞-1警員倒地受傷送院	未分類
 2026-02-04	希臘海警船與偷渡船相撞 至少15死逾20傷	https://www.epochtimes.com/b5/26/2/4/n14690800.htm/amp	未分類
-2026-02-04	密爾勃雷奪命車禍 九旬老婦遭撞斃	https://www.singtaousa.com/2026/02/04/news/usa/millbrae-fatal-crash-elderly-woman-killed/	未分類
+2026-02-04	密爾勃雷奪命車禍 九旬老婦遭撞斃	https://www.singtaousa.com/2026/02/04/news/usa/millbrae-fatal-crash-elderly-woman-killed/	車禍
 2026-02-04	乘客遭丟包輾斃…醫嘆社會變了怒批政府2件事做不好| 社會萬象| 社會	https://udn.com/news/amp/story/7320/9308197	未分類
 2026-02-03	電單車疑收掣不及大老山隧道管道內撞入前車 司機多處傷送院	https://news.rthk.hk/rthk/ch/component/k2/1842469-20260203.htm	未分類
 2026-02-03	被輾斃學霸「最後行蹤」曝！生前語音還沒很醉 司機丟包還抹黑	https://www.ettoday.net/news/20260203/3112173.htm	未分類
@@ -1475,8 +1469,8 @@ var DATA_TRAFFIC = `
 2026-01-29	政大高材生被丟包台64線遭輾斃 老師發文悼念、弟視他為最好榜樣	https://tw.news.yahoo.com/政大高材生被丟包台64線遭輾斃-老師發文悼念-弟視他為最好榜樣-040700487.html	未分類
 2026-01-29	据香港《南华早报》(SCMP)29日报道,居住在中国中部的8岁少年昏迷了55天,多亏朋友们发来的痊愈视频,出现了恢复意识的奇迹。据《南华早报》报道,湖南省岳阳市学生刘秋喜去年11月发生交通事故后陷入昏..	https://www.mk.co.kr/cn/world/11946808	未分類
 2026-01-29	技工墮拖車遭飛機輾斃 僱主3罪成 共罰44萬 官指誤解安全守則 - 20260129 - 港聞	https://news.mingpao.com/pns/港聞/article/20260129/s00002/1769623016064/技工墮拖車遭飛機輾斃-僱主3罪成-共罰44萬-官指誤解安全守則	未分類
-2026-01-29	25歲學霸丟包車禍亡師指他溫柔優雅想出國念書弟：從小是我最好榜樣| 法律前線| 社會	https://udn.com/news/amp/story/7321/9295615	未分類
-2026-01-28	食環署清潔工車禍亡 「邵氏基金會緊急支援基金」捐出3萬元善款	https://www.stheadline.com/breaking-news/3539534/食環署清潔工車禍亡-邵氏基金會緊急支援基金捐出3萬元善款	未分類
+2026-01-29	25歲學霸丟包車禍亡師指他溫柔優雅想出國念書弟：從小是我最好榜樣| 法律前線| 社會	https://udn.com/news/amp/story/7321/9295615	車禍
+2026-01-28	食環署清潔工車禍亡 「邵氏基金會緊急支援基金」捐出3萬元善款	https://www.stheadline.com/breaking-news/3539534/食環署清潔工車禍亡-邵氏基金會緊急支援基金捐出3萬元善款	車禍
 2026-01-28	頂大替代役遭4車輾斃改列重大刑案！生前詭異噤聲...3大疑點待查	https://www.ettoday.net/news/20260128/3109101.htm	未分類
 2026-01-28	牛頭角安德道八旬翁捱小巴撞 昏迷送院 75歲小巴司機涉危駕被捕	https://www.hk01.com/突發/60316924/牛頭角安德道八旬翁捱小巴撞-昏迷送院-75歲小巴司機涉危駕被捕	未分類
 2026-01-28	牛頭角八旬翁捱撞昏迷送院 75歲小巴司機涉危駕被捕	https://www.am730.com.hk/本地/1007075/牛頭角八旬翁捱撞昏迷送院-75歲小巴司機涉危駕被捕	未分類
@@ -1490,7 +1484,7 @@ var DATA_TRAFFIC = `
 2026-01-28	83歲老翁牛頭角過馬路遭撞到昏迷送院 警拘75 歲小巴司機	https://www.bastillepost.com/hongkong/article/15619012-83歲老翁牛頭角過馬路遭撞到昏迷送院 警拘75歲小	未分類
 2026-01-28	34歲約旦技工拖車墮下遭飛機輾斃 僱主中國飛機服務三項罪成遭判罰44萬	https://www.orangenews.hk/hongkong/V9bGa4M/34歲約旦技工拖車墮下遭飛機輾斃-僱主中國飛機服務三項罪成遭判罰44萬.shtml	未分類
 2026-01-28	25歲學霸被丟包慘遭輾斃！母心碎陪愛兒回高雄老家	https://news.pchome.com.tw/society/ctinews/20260128/index-76956867417231309002.html	未分類
-2026-01-27	食環署清潔工車禍亡 「邵氏基金會緊急支援基金」捐出3萬元善款	https://www.singtao.ca/7401445/2026-01-27/news-食環署清潔工車禍亡+「邵氏基金會緊急支援基金」捐出3萬元善款/	未分類
+2026-01-27	食環署清潔工車禍亡 「邵氏基金會緊急支援基金」捐出3萬元善款	https://www.singtao.ca/7401445/2026-01-27/news-食環署清潔工車禍亡+「邵氏基金會緊急支援基金」捐出3萬元善款/	車禍
 2026-01-27	貨車司機撞斃修路工人不顧而去 稱一時大意 官質疑其悔意囚2年	https://news.tvb.com/sc/local/6977a04057ebf3ef2e0a1c4c/%E6%B8%AF%E6%BE%B3-%E7%A7%81%E5%AE%B6%E8%BB%8A%E5%9C%9F%E7%93%9C%E7%81%A3%E6%92%9E%E6%AF%80%E8%B7%AF%E9%82%8A%E9%90%B5%E6%AC%84-%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2	未分類
 2026-01-27	西環47歲父親駕車突暈倒11歲仔從旁驚險控制近百米撼七人車再撞欄停下| 生活熱話	https://www.ohpama.com/1002444/生活熱話/生活熱話/西環47歲父親駕車突暈倒-11歲仔從旁驚險控制近百米/	未分類
 2026-01-27	粉嶺私家車與救護電單車相撞 救護員送院 (20:07) - 20260127 - 港聞	https://news.mingpao.com/ins/港聞/article/20260127/s00001/1769512652927/粉嶺私家車與救護電單車相撞-救護員送院	未分類
@@ -1502,8 +1496,8 @@ var DATA_TRAFFIC = `
 2026-01-27	【離奇12分鐘曝光！學霸男全程沉默 連傳詭異「叩」聲被丟包輾斃】 （圖／記者陳以昇攝）	https://www.facebook.com/ETtoday/posts/%E9%9B%A2%E5%A5%8712%E5%88%86%E9%90%98%E6%9B%9D%E5%85%89%E5%AD%B8%E9%9C%B8%E7%94%B7%E5%85%A8%E7%A8%8B%E6%B2%89%E9%BB%98-%E9%80%A3%E5%82%B3%E8%A9%AD%E7%95%B0%E5%8F%A9%E8%81%B2%E8%A2%AB%E4%B8%9F%E5%8C%85%E8%BC%BE%E6%96%83%E5%9C%96%E8%A8%98%E8%80%85%E9%99%B3%E4%BB%A5%E6%98%87%E6%94%9D/1336893015136447/	未分類
 2026-01-26	驚悚！運將高架橋趕醉客下車 他躺路中央遭4車輾斃	https://www.knews.com.tw/news/005795A081954107FCD16DA49CC4ADCB	未分類
 2026-01-26	西環47歲父親駕車突暈倒11歲仔從旁驚險控制近百米撼七人車再撞欄停下| 生活熱話	https://www.singtao.ca/7399837/2026-01-26/news-%E8%A5%BF%E7%92%B047%E6%AD%B2%E7%88%B6%E8%A6%AA%E9%A7%95%E8%BB%8A%E7%AA%81%E6%9A%88%E5%80%92+11%E6%AD%B2%E4%BB%94%E5%BE%9E%E6%97%81%E9%A9%9A%E9%9A%AA%E6%8E%A7%E5%88%B6%E8%BF%91%E7%99%BE%E7%B1%B3+%E6%92%BC%E4%B8%83%E4%BA%BA%E8%BB%8A%E5%86%8D%E6%92%9E%E6%AC%84%E5%81%9C%E4%B8%8B/	未分類
-2026-01-26	菲律賓載逾350人渡輪沉沒 釀最少15死 (11:30) - 20260126 - 國際	https://news.mingpao.com/ins/國際/article/20260126/s00005/1769388032259/菲律賓載逾350人渡輪沉沒-釀最少15死	未分類
-2026-01-26	菲律賓渡輪沉沒增至13人死亡	https://news.rthk.hk/rthk/ch/component/k2/1841334-20260126.htm	未分類
+2026-01-26	菲律賓載逾350人渡輪沉沒 釀最少15死 (11:30) - 20260126 - 國際	https://news.mingpao.com/ins/國際/article/20260126/s00005/1769388032259/菲律賓載逾350人渡輪沉沒-釀最少15死	船難
+2026-01-26	菲律賓渡輪沉沒增至13人死亡	https://news.rthk.hk/rthk/ch/component/k2/1841334-20260126.htm	船難
 2026-01-26	東方日報A1：強制巴士戴安全帶 客嘆擾民刑罰過大	http://hk.on.cc/hk/bkn/cnt/news/20260126/mobile/bkn-20260126033037636-0126_00822_001.html?editorpickDate=20260126&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	未分類
 2026-01-26	強制巴士戴安全帶｜乘客：多了長者選站立 網民憂：急煞車齊送院	https://www.hk01.com/熱爆話題/60316112/強制巴士戴安全帶-乘客-多了長者選站立-網民憂-急煞車齊送院	未分類
 2026-01-26	大埔汀角路踏單車男子遭私家車撞斃	https://hk.news.yahoo.com/大埔汀角路踏單車男子遭私家車撞斃-020424264.html	未分類
@@ -1514,8 +1508,8 @@ var DATA_TRAFFIC = `
 2026-01-26	堅尼地城兩車相撞兩司機受傷一昏迷- 港聞	https://www.dotdotnews.com/a/202601/26/AP69777a03e4b0c32d4f6716fa.html	未分類
 2026-01-26	堅尼地城兩車相撞 兩司機受傷一人昏迷送院搶救	https://www.singtao.ca/7399837/2026-01-26/news-西環47歲父親駕車突暈倒+11歲仔從旁驚險控制近150米+撼七人車再撞欄停下/	未分類
 2026-01-26	單車男於大埔汀角路遭私家車撞斃 (10:30) - 20260126 - 港聞	https://news.mingpao.com/ins/港聞/article/20260126/s00001/1769394277863/單車男於大埔汀角路遭私家車撞斃	未分類
-2026-01-26	八鄉致命交通意外 釀一死兩傷	https://www.hkcd.com.hk/hkcdweb/content/2026/01/26/content_8737145.html	未分類
-2026-01-25	錦田交通意外釀1死2傷 私家車司機及女乘客被捕	https://hkcd.com/hkcdweb/content/2026/01/25/content_8737027.html	未分類
+2026-01-26	八鄉致命交通意外 釀一死兩傷	https://www.hkcd.com.hk/hkcdweb/content/2026/01/26/content_8737145.html	車禍
+2026-01-25	錦田交通意外釀1死2傷 私家車司機及女乘客被捕	https://hkcd.com/hkcdweb/content/2026/01/25/content_8737027.html	車禍
 2026-01-24	近年巴士意外死者 逾七成企位客 安全帶新例明生效 學者議員倡檢視數據修訂範圍 - 20260124 - 要聞	https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/article/20260124/s00001/1769189768529/%E8%BF%91%E5%B9%B4%E5%B7%B4%E5%A3%AB%E6%84%8F%E5%A4%96%E6%AD%BB%E8%80%85-%E9%80%BE%E4%B8%83%E6%88%90%E4%BC%81%E4%BD%8D%E5%AE%A2-%E5%AE%89%E5%85%A8%E5%B8%B6%E6%96%B0%E4%BE%8B%E6%98%8E%E7%94%9F%E6%95%88-%E5%AD%B8%E8%80%85%E8%AD%B0%E5%93%A1%E5%80%A1%E6%AA%A2%E8%A6%96%E6%95%B8%E6%93%9A%E4%BF%AE%E8%A8%82%E7%AF%84%E5%9C%8D	未分類
 2026-01-24	近年巴士意外死者 逾七成企位客 安全帶新例明生效 學者議員倡檢視數據修訂範圍 - 20260124 - 圖片看世界	https://news.mingpao.com/pns/%E8%A6%81%E8%81%9E/photo1/20260124/s00001/1769189768529/1769189768526	未分類
 2026-01-24	回收車駕駛突暈厥追撞垃圾車 7傷送醫.78歲婦不治	https://today.line.me/tw/v3/article/QwqNnwr	未分類
@@ -1523,7 +1517,7 @@ var DATA_TRAFFIC = `
 2026-01-23	翁騎機車撞傘兵士官長摔車遭後車輾斃 家屬求國賠750萬敗訴	https://www.ettoday.net/news/20260123/3106343.htm	未分類
 2026-01-23	穿梭巴士司機認衝紅燈撞斃七旬婦 判監22個月兼停牌5年	https://www.stheadline.com/society/3538192/穿梭巴士司機認衝紅燈撞斃七旬婦-判監22個月兼停牌5年	未分類
 2026-01-23	法拉盛華男騎單車遭卡車撞亡 警深入調查	https://www.worldjournal.com/wj/story/121382/9283820	未分類
-2026-01-23	成大旁驚悚車禍！單車騎士「摔引擎蓋」二次撞擊亡 79歲女駕駛下場曝光	https://tw.news.yahoo.com/成大旁驚悚車禍-單車騎士-摔引擎蓋-二次撞擊亡-79歲女駕駛下場曝光-044200582.html	未分類
+2026-01-23	成大旁驚悚車禍！單車騎士「摔引擎蓋」二次撞擊亡 79歲女駕駛下場曝光	https://tw.news.yahoo.com/成大旁驚悚車禍-單車騎士-摔引擎蓋-二次撞擊亡-79歲女駕駛下場曝光-044200582.html	車禍
 2026-01-23	將軍澳女工人捱泥頭車撞 半昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260123/bkn-20260123130342599-0123_00822_001.html	未分類
 2026-01-23	【有片】龜山民眾倒垃圾遭回收車夾擊 駕駛突不適追撞前車釀1死6傷	https://news.pchome.com.tw/society/tyenews/20260123/index-76917498977843343002.html	未分類
 2026-01-23	「時尚媽咪」下鄉慘遭震撼教育 Melody手起水泡崩潰大喊：受不了！ | 娛樂 | CTWANT	https://www.ctwant.com/amp/article/467240/	未分類
@@ -1549,7 +1543,7 @@ var DATA_TRAFFIC = `
 2026-01-18	車Cam直擊｜上水單車婦遭客貨車撞斃 司機涉危駕被捕	https://hk.news.yahoo.com/車cam直擊-上水單車婦遭客貨車撞斃-司機涉危駕被捕-094109359.html	未分類
 2026-01-18	土瓜灣七旬婦捱小巴撞昏迷送院搶救不治- 香港 - 香港文匯網	https://www.wenweipo.com/a/202601/18/AP696ccdc5e4b04d7d56cf2cba.html	未分類
 2026-01-17	生前畫面曝！老夫妻雙載…進涵洞「遭輾腦漿四溢」亡 尪失魂癱地伴屍	https://tw.news.yahoo.com/生前畫面曝-老夫妻雙載-進涵洞-遭輾腦漿四溢-亡-012500800.html	未分類
-2026-01-17	快訊／台61線大園段車禍！水泥車撞分隔島翻覆 事故排除中	https://www.setn.com/news/1782453	未分類
+2026-01-17	快訊／台61線大園段車禍！水泥車撞分隔島翻覆 事故排除中	https://www.setn.com/news/1782453	車禍
 2026-01-16	模特兒出身電視劇男星「險遭衝紅燈汽車撞死」 因這短訊拾回一命	https://www.hk01.com/即時娛樂/60313290/籃球火-張雁名險遭衝紅燈汽車撞死-因這簡訊拾回一命	未分類
 2026-01-16	屏東婦遭曳引車輾斃 腦漿四濺！丈夫目睹崩潰痛哭	https://news.ebc.net.tw/news/society/532880	未分類
 2026-01-16	吊車輾碎18歲少女! 律師要單親媽「叫爸來」她瞬間崩潰： 二度傷害	https://www.setn.com/news/1781765	未分類
@@ -1558,17 +1552,17 @@ var DATA_TRAFFIC = `
 2026-01-15	吊車輾斃18歲女兒 母心痛： 得不到認錯與道歉	https://www.chinatimes.com/realtimenews/20260115003797-260402	未分類
 2026-01-15	18歲護校生遭吊車輾斃！司機離世子女不理 母砲轟：公司調解態度差	https://www.pinview.com.tw/News/53869.html	未分類
 2026-01-14	（有片）社恐挑戰香港小巴一眾網友紛紛支招- 精選	https://www.tkww.hk/a/202601/14/AP69671a7ae4b0eb9195c1b89a.html	未分類
-2026-01-14	泰國在建鐵路事故死亡人數升至22人-新華網	http://big5.news.cn/gate/big5/www.news.cn/20260114/b940f119ed84422090c5c585457e081d/c.html	未分類
-2026-01-14	泰國在建鐵路事故死亡人數升至22人 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/14/AP696723dce4b069b7ebf8393a.html	未分類
-2026-01-13	東森深度週報／危害不輸酒駕！「藥駕」車禍頻傳 制度漏洞成隱憂	https://news.ebc.net.tw/news/society/532109	未分類
+2026-01-14	泰國在建鐵路事故死亡人數升至22人-新華網	http://big5.news.cn/gate/big5/www.news.cn/20260114/b940f119ed84422090c5c585457e081d/c.html	火車出軌
+2026-01-14	泰國在建鐵路事故死亡人數升至22人 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/14/AP696723dce4b069b7ebf8393a.html	火車出軌
+2026-01-13	東森深度週報／危害不輸酒駕！「藥駕」車禍頻傳 制度漏洞成隱憂	https://news.ebc.net.tw/news/society/532109	車禍
 2026-01-13	尖沙咀巴士單車相撞南亞少年浴血倒地拒送院- 港聞	https://www.dotdotnews.com/a/202601/13/AP69664aa9e4b0c32d4f65e610.html	未分類
 2026-01-13	北灣火車撞斃腳踏車騎士	https://www.singtaousa.com/2026/01/13/news/usa/north-bay-train-cyclist/	未分類
 2026-01-13	丈夫離世百日化悲為愛 基隆里長捐贈復康巴士	https://www.fountmedia.io/article/342851	未分類
-2026-01-12	食環署清潔工車禍亡 仁間有愛應急錢撥款救急	https://std.stheadline.com/daily-hongkong/3534678/食環署清潔工車禍亡-仁間有愛應急錢撥款救急	未分類
+2026-01-12	食環署清潔工車禍亡 仁間有愛應急錢撥款救急	https://std.stheadline.com/daily-hongkong/3534678/食環署清潔工車禍亡-仁間有愛應急錢撥款救急	車禍
 2026-01-12	電車司機就撞斃女童被判囚四周提上訴	https://news.tvb.com/sc/local/6964feae803b90232685d5cf/港澳-電車司機就撞斃女童被判囚四周提上訴	未分類
 2026-01-12	西環電車撞斃3歲女童 司機不小心駕駛罪成判囚4周 向高院提上訴	https://thewitnesshk.com/西環電車撞斃3歲女童-司機不小心駕駛罪成判囚4周-2/	未分類
 2026-01-12	江西男與女友爭執 洩憤飆車撞斃路過一家三口 包括1名嬰兒 事後 冷血 玩手機 笑稱「小孩頭挺硬」	https://www.ohpama.com/998979/生活熱話/生活熱話/江西男-一家三口-飆車-洩憤-景德鎮-冷血/	未分類
-2026-01-12	啟德地盤工人被水缸擊中昏迷 救護電單車前往處理期間遇車禍一人傷	https://news.tvb.com/tc/local/6964ae20803b90232682ecfe/港澳-啟德地盤工人被水缸擊中昏迷-救護電單車前往處理期間遇車禍一人傷	未分類
+2026-01-12	啟德地盤工人被水缸擊中昏迷 救護電單車前往處理期間遇車禍一人傷	https://news.tvb.com/tc/local/6964ae20803b90232682ecfe/港澳-啟德地盤工人被水缸擊中昏迷-救護電單車前往處理期間遇車禍一人傷	車禍
 2026-01-12	3歲女童遭電車撞斃 司機判囚一個月不服定罪和刑期上訴	https://www.orangenews.hk/hongkong/V84BLNp/3歲女童遭電車撞斃-司機判囚一個月不服定罪和刑期上訴.shtml	未分類
 2026-01-11	高CP💰滋味😍串燒| U Community 社群平台	https://www.ulifestyle.com.hk/community/detailpost/f2ca43f5-31a4-4f55-9fbb-3d4be274e821/打卡熱點/Cyril/826458	未分類
 2026-01-11	藍田麗港城商場外七旬翁遭花槽絆跌 撼傷頭送院亡	https://std.stheadline.com/breaking-news/3534505/藍田麗港城商場外七旬翁遭花槽絆跌-撼傷頭送院亡	未分類
@@ -1581,7 +1575,7 @@ var DATA_TRAFFIC = `
 2026-01-09	男子景德鎮與女友爭吵後洩憤加速駕車撞死一家三口 一審判死緩	https://www.orangenews.hk/china/V7lpkOT/男子景德鎮與女友爭吵後洩憤加速駕車撞死一家三口-一審判死緩.shtml	未分類
 2026-01-09	江西男撞死一家三口判死緩 死者家屬不服	https://www.ntdtv.com/b5/2026/01/09/a104055021.html	未分類
 2026-01-09	新田公路泥頭車自炒向右翻側司機自行爬出逃生送院治理- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/16566677149834/即時新聞-新田公路泥頭車自炒向右翻側-司機自行爬出逃生送院治理	未分類
-2026-01-09	和美交流道離奇車禍！男自撞車頭全爛自行脫困…人掉落20米橋下亡	https://www.facebook.com/ETtoday/posts/%E5%92%8C%E7%BE%8E%E4%BA%A4%E6%B5%81%E9%81%93%E9%9B%A2%E5%A5%87%E8%BB%8A%E7%A6%8D%E7%94%B7%E8%87%AA%E6%92%9E%E8%BB%8A%E9%A0%AD%E5%85%A8%E7%88%9B%E8%87%AA%E8%A1%8C%E8%84%AB%E5%9B%B0%E4%BA%BA%E6%8E%89%E8%90%BD20%E7%B1%B3%E6%A9%8B%E4%B8%8B%E4%BA%A1/1543415924484154/	未分類
+2026-01-09	和美交流道離奇車禍！男自撞車頭全爛自行脫困…人掉落20米橋下亡	https://www.facebook.com/ETtoday/posts/%E5%92%8C%E7%BE%8E%E4%BA%A4%E6%B5%81%E9%81%93%E9%9B%A2%E5%A5%87%E8%BB%8A%E7%A6%8D%E7%94%B7%E8%87%AA%E6%92%9E%E8%BB%8A%E9%A0%AD%E5%85%A8%E7%88%9B%E8%87%AA%E8%A1%8C%E8%84%AB%E5%9B%B0%E4%BA%BA%E6%8E%89%E8%90%BD20%E7%B1%B3%E6%A9%8B%E4%B8%8B%E4%BA%A1/1543415924484154/	車禍
 2026-01-08	驚悚！7旬婦騎單車過馬路 慘遭拖板車違規右轉輾斃	https://www.knews.com.tw/news/B0B446A97020F8BDCC2A4F741F017EE0	未分類
 2026-01-08	筲箕灣撞斃單車漢 泥頭車司機涉危駕致死提堂 准保釋至3.6再訊	https://hk.on.cc/hk/bkn/cnt/news/20260108/bkn-20260108150844198-0108_00822_001.html	未分類
 2026-01-08	涉於筲箕灣撞斃單車漢 重型貨車司機被控危駕致死 獲准保釋3月再訊	https://www.stheadline.com/society/3533634/%E6%B6%89%E6%96%BC%E7%AD%B2%E7%AE%95%E7%81%A3%E6%92%9E%E6%96%83%E5%96%AE%E8%BB%8A%E6%BC%A2-%E9%87%8D%E5%9E%8B%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8E%A7%E5%8D%B1%E9%A7%95%E8%87%B4%E6%AD%BB-%E7%8D%B2%E5%87%86%E4%BF%9D%E9%87%8B3%E6%9C%88%E5%86%8D%E8%A8%8A	未分類
@@ -1592,20 +1586,20 @@ var DATA_TRAFFIC = `
 2026-01-07	涉於筲箕灣撞斃單車漢 重型貨車司機被控危駕致死 獲准保釋3月再訊	https://www.singtao.ca/7382191/2026-01-07/news-涉於筲箕灣撞斃單車漢+重型貨車司機被控危駕致死+獲准保釋3月再訊/	未分類
 2026-01-07	桃園直行車猛撞轉彎車 騰空翻覆四輪朝天	https://www.eracom.com.tw/EraNews/Home/Society/2026-01-07/2227970.html	未分類
 2026-01-07	新城A區重型車電單車相撞 1人須搶救	https://www.tdm.com.mo/zh-hant/news-detail/1166301?category=all&isvideo=false	未分類
-2026-01-06	青葵公路交通意外 電單車女乘客清醒送院 (23:56) - 20260106 - 港聞	https://news.mingpao.com/ins/港聞/article/20260106/s00001/1767714308123/青葵公路交通意外-電單車女乘客清醒送院	未分類
+2026-01-06	青葵公路交通意外 電單車女乘客清醒送院 (23:56) - 20260106 - 港聞	https://news.mingpao.com/ins/港聞/article/20260106/s00001/1767714308123/青葵公路交通意外-電單車女乘客清醒送院	車禍
 2026-01-06	水塘馬路汽車與電單車碰撞 男鐵騎士送院	https://www.tdm.com.mo/en/news-detail/1165795?lang=zh&isvideo=false&category&shortvideo=0	未分類
 2026-01-05	油麻地食環署女工遭貨車撞斃 遺下不良於行丈夫及兒子	https://hk.on.cc/hk/bkn/cnt/news/20260105/bkn-20260105122820166-0105_00822_001.html	未分類
-2026-01-05	油麻地奪命車禍｜57歲清潔工遭撞斃 丈夫不良於行 靠子擔起頭家	https://www.hk01.com/突發/60309714/油麻地奪命車禍-57歲清潔工遭撞斃-丈夫不良於行-靠子擔起頭家	未分類
+2026-01-05	油麻地奪命車禍｜57歲清潔工遭撞斃 丈夫不良於行 靠子擔起頭家	https://www.hk01.com/突發/60309714/油麻地奪命車禍-57歲清潔工遭撞斃-丈夫不良於行-靠子擔起頭家	車禍
 2026-01-05	因積怨駕車撞斃高考生 男鄰居判死刑	https://hk.on.cc/hk/bkn/cnt/news/20260105/bkn-20260105200329668-0105_00822_001.html	未分類
 2026-01-05	今年首起!彰化和美石虎遭路殺 初判為覓食遭撞亡	https://tw.news.yahoo.com/今年首起-彰化和美石虎遭路殺-初判為覓食遭撞亡-042849856.html	未分類
 2026-01-05	57歲清潔工油麻地遭撞斃家屬今認屍 丈夫不良於行靠子獨力承擔	https://www.am730.com.hk/本地/57歲清潔工油麻地遭撞斃家屬今認屍-丈夫不良於行靠子獨力承擔/633492	未分類
 2026-01-04	特寫/「超級月亮好震撼！」	https://www.tkww.hk/a/202601/04/AP69597adce4b0eb9195c18f25.html	未分類
 2026-01-03	泰國新年假期前三天交通事故共致145人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/03/AP69587ff8e4b0e1dc80ac7a04.html	未分類
-2026-01-02	新年嚴重車禍！屏東大貨車右轉 巨輪當場輾斃女騎士	https://news.ebc.net.tw/news/society/530452	未分類
+2026-01-02	新年嚴重車禍！屏東大貨車右轉 巨輪當場輾斃女騎士	https://news.ebc.net.tw/news/society/530452	車禍
 2026-01-02	屏東大貨車疑因視線死角 轉彎不慎輾斃騎士 (圖)	https://tw.news.yahoo.com/屏東大貨車疑因視線死角-轉彎不慎輾斃騎士-圖-091249444.html	未分類
 2026-01-02	屏東大貨車右轉疑因視線死角 輾斃機車騎士	https://www.fountmedia.io/article/339654	未分類
-2026-01-01	男大生高雄跨年車禍收魂! 媽2026 淚迎兒破碎屍咖啡新星唯一貼文惹哭網	https://www.setn.com/news/1774984	未分類
-2025-12-31	驚險車禍丨荃灣BB車溜出馬路 嬰孩墮地捱巴士撞送院	https://www.hkej.com/instantnews/current/article/4285712/驚險車禍丨荃灣BB車溜出馬路+嬰孩墮地捱巴士撞送院	未分類
+2026-01-01	男大生高雄跨年車禍收魂! 媽2026 淚迎兒破碎屍咖啡新星唯一貼文惹哭網	https://www.setn.com/news/1774984	車禍
+2025-12-31	驚險車禍丨荃灣BB車溜出馬路 嬰孩墮地捱巴士撞送院	https://www.hkej.com/instantnews/current/article/4285712/驚險車禍丨荃灣BB車溜出馬路+嬰孩墮地捱巴士撞送院	車禍
 2025-12-31	雲林台19線多車輾斃2騎士！ 他遭輾成泥「碎骨剩10元硬幣大」	https://www.ettoday.net/news/20251231/3093154.htm	未分類
 2025-12-31	雲林台19線2騎士遭輾斃！「臟器外露」躺路中肇逃駕駛抓到了| 社會	https://www.nownews.com/news/6770765	未分類
 2025-12-31	車CAM直擊︱荃灣嬰兒車溜出馬路 嬰孩墮地捱巴士撞受傷送院	https://www.hk01.com/突發/60308496/車cam直擊-荃灣嬰兒車溜出馬路-嬰孩墮地捱巴士撞受傷送院	未分類
@@ -1618,7 +1612,7 @@ var DATA_TRAFFIC = `
 2025-12-31	快訊／台19線衝撞輾斃2騎士！至少2車落跑…肇事甘蔗車運將抓到了	https://www.ettoday.net/news/20251231/3092710.htm	未分類
 2025-12-30	女騎士「閃避流浪狗」摔車趴地 後車急煞躲追撞意外	https://www.eracom.com.tw/EraNews/Home/Society/2025-12-30/2220288.html	未分類
 2025-12-30	兒子目睹父親遭U轉羅里撞斃 肇事車逃離現場	https://newswav.com/article/兒子目睹父親遭u轉羅里撞斃-肇事車逃離現場-A2512_9mjr6p	未分類
-2025-12-29	馬頭圍道車禍．有片｜車輛按燈魚貫而行 死者步出馬路遭九巴輾過	https://www.hk01.com/突發/60307883/馬頭圍道車禍-有片-車輛按燈魚貫而行-死者步出馬路遭九巴輾過	未分類
+2025-12-29	馬頭圍道車禍．有片｜車輛按燈魚貫而行 死者步出馬路遭九巴輾過	https://www.hk01.com/突發/60307883/馬頭圍道車禍-有片-車輛按燈魚貫而行-死者步出馬路遭九巴輾過	車禍
 2025-12-29	美國新澤西州兩架直升機空中相撞 兩名機師死亡	https://news.tvb.com/tc/world/6952dd05d6adf87a9be0db4a/國際-美國新澤西州兩架直升機空中相撞兩名機師死亡	未分類
 2025-12-29	紅磡九巴撞斃27歲女子 馬頭圍道往尖沙咀方向近庇利街全線一度封閉	https://news.tvb.com/tc/local/69523e6bd6adf87a9bdb75b8/港澳-紅磡九巴撞斃27歲女子-馬頭圍道往尖沙咀方向近庇利街全線一度封閉	未分類
 2025-12-29	紅磡九巴撞斃27歲女子 公司指事發時車輛交通燈為綠色	https://news.tvb.com/sc/local/69523e6bd6adf87a9bdb75b8/港澳-紅磡九巴撞斃27歲女子-公司指事發時車輛交通燈為綠色	未分類
@@ -1651,15 +1645,15 @@ var DATA_TRAFFIC = `
 2025-12-08	車輛迎頭相撞事故兩名長者不治身亡	https://www.chinesepress.com/2025/12/08/車輛迎頭相撞事故兩名長者不治身亡/	未分類
 2025-12-07	宝马撞毙女骑士｜丈夫震惊司机无罪 控方上诉槟城高庭	https://www.chinapress.com.my/20251207/宝马撞毙女骑士｜丈夫震惊司机无罪-控方上诉槟城/	未分類
 2025-12-07	宝马撞死女骑士案司机无罪获释 主控官提出上诉	https://www.enanyang.my/news/20251207/Nation/1094855	未分類
-2025-12-07	台東祖孫車禍亡！他赴特考遇死劫 鎮公所同事悲痛：他很乖巧憨直	https://www.ettoday.net/news/20251207/3080117.htm	未分類
+2025-12-07	台東祖孫車禍亡！他赴特考遇死劫 鎮公所同事悲痛：他很乖巧憨直	https://www.ettoday.net/news/20251207/3080117.htm	車禍
 2025-12-07	下班未回家！高雄聯結車司機暴斃駕駛座 遠端監控揭悲劇	https://news.pchome.com.tw/society/ctinews/20251207/index-76507841996685309002.html	未分類
-2025-12-06	華女遊日平交道車禍亡 家屬批道路設計釀禍索賠	https://hk.on.cc/hk/bkn/cnt/news/20251206/bkn-20251206120401418-1206_00822_001.html	未分類
+2025-12-06	華女遊日平交道車禍亡 家屬批道路設計釀禍索賠	https://hk.on.cc/hk/bkn/cnt/news/20251206/bkn-20251206120401418-1206_00822_001.html	車禍
 2025-12-06	粉嶺九巴綠VAN相撞 車長連8男女乘客輕傷送院	https://www.stheadline.com/breaking-news/3524495/粉嶺九巴綠VAN相撞-車長連8男女乘客輕傷送院	未分類
 2025-12-06	用巴士插座為手機叉電 18歲少年「嘔白泡」電死 充電線熱到融化	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/%E6%97%A5%E6%9C%AC%E5%9F%BC%E7%8E%89%E8%BC%8950%E4%BA%BA%E6%A0%A1%E8%BB%8A%E7%BF%BB%E5%81%B4-20%E5%90%8D%E5%AD%B8%E7%94%9F%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%99%82/625200	未分類
 2025-12-06	日本埼玉載50人校車翻側 20名學生輕傷送院治療	https://www.am730.com.hk/國際/日本埼玉載50人校車翻側-20名學生輕傷送院治療/625200	未分類
-2025-12-06	影／一家5口昨返北遇死劫聯結車猛撞車陣...嬤亡孫驚恐脫困| 時事	https://video.udn.com/news/1315998	未分類
+2025-12-06	影／一家5口昨返北遇死劫聯結車猛撞車陣...嬤亡孫驚恐脫困| 時事	https://video.udn.com/news/1315998	車禍
 2025-12-06	北上做生意遇死劫！國3香山聯結車釀連環撞 5口困壓縮車體岳母亡	https://www.ettoday.net/news/20251206/3079560.htm	未分類
-2025-12-06	兩中國女遊客日本平交道車禍亡 家屬索償$700萬 訴書指道路一設計易釀禍	https://www.stheadline.com/realtime-world/3524427/兩中國女遊客日本平交道車禍亡-家屬索償700萬-訴書指道路一設計易釀禍	未分類
+2025-12-06	兩中國女遊客日本平交道車禍亡 家屬索償$700萬 訴書指道路一設計易釀禍	https://www.stheadline.com/realtime-world/3524427/兩中國女遊客日本平交道車禍亡-家屬索償700萬-訴書指道路一設計易釀禍	車禍
 2025-12-06	「銀髮青春不打烊！」大同醫院C據點成果大爆發 長者活力震撼全場	https://n.yam.com/Article/20251206473737	未分類
 2025-12-05	（有片）汀九橋兩車相撞鐵騎士倒地受傷清醒送院治理- 港聞	https://www.dotdotnews.com/a/202512/05/AP6932358be4b0c32d4f620ccf.html	未分類
 2025-12-05	灣仔過路婦遭旅遊巴撞斃 6旬司機涉危駕被捕	https://hk.on.cc/hk/bkn/cnt/news/20251205/mobile/bkn-20251205103917367-1205_00822_001.html?editorpickDate=20251206&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	未分類
@@ -1676,11 +1670,11 @@ var DATA_TRAFFIC = `
 2025-12-05	八旬婦灣仔買餸遭撞斃｜62歲旅遊巴司機涉危險駕駛被捕	https://www.hk01.com/突發/60300829/八旬婦灣仔買餸遭撞斃-62歲旅遊巴司機涉危險駕駛被捕	未分類
 2025-12-05	一地发生倒车事故致人死亡 法院工作人员肇事	https://news.china.com/socialgd/10000169/20251205/49048358.html	未分類
 2025-12-05	2陸女遊神戶疑「搞錯平交道」慘遭輾斃 家屬不滿求償1.4億	https://tw.news.yahoo.com/2陸女遊神戶疑-搞錯平交道-慘遭輾斃-家屬不滿求償1-4億-031806877.html	未分類
-2025-12-04	快訊／國1凌晨重大車禍「33歲駕駛亡」 事發過程曝	https://www.ettoday.net/news/20251204/3078179.htm	未分類
+2025-12-04	快訊／國1凌晨重大車禍「33歲駕駛亡」 事發過程曝	https://www.ettoday.net/news/20251204/3078179.htm	車禍
 2025-12-03	油麻地電單車轉彎撞壆滑行15米 南亞鐵騎士送院亡	https://hk.on.cc/hk/bkn/cnt/news/20251203/bkn-20251203031619736-1203_00822_001.html	未分類
 2025-12-02	涉驾轻型货车慈云山撞毙过路妇 52岁男子被控危驾致他人死亡罪	https://www.stheadline.com/zh-hans/society/3523234/涉驾轻型货车慈云山撞毙过路妇-52岁男子被控危驾致他人死亡罪	未分類
 2025-12-02	油麻地非華裔漢騎電單車失控撞欄送院亡	https://hk.news.yahoo.com/油麻地非華裔漢騎電單車失控撞欄送院亡-233621940.html	未分類
-2025-12-02	悉尼市中心車禍慘劇：垃圾車撞死電動車騎手	https://www.epochtimes.com/b5/25/12/2/n14646981.htm	未分類
+2025-12-02	悉尼市中心車禍慘劇：垃圾車撞死電動車騎手	https://www.epochtimes.com/b5/25/12/2/n14646981.htm	車禍
 2025-12-02	垃圾車司機遭自駕車輛撞斃 勞工廳介入調查	https://www.singtao.ca/7348864/2025-12-02/news-垃圾車司機遭自駕車輛撞斃 勞工廳介入調查/	未分類
 2025-12-02	上課變成生死瞬間！釜山工坊鋸切意外 20多歲女學員不治震撼業界	https://sunmedia.tw/news/collaborative/2acUgQRl2gSuldPntgr9btUK4mmfKahkpZSFUMtNIIUC4U3WdIUjKIoe8AxhAA8QL2G6pr1J	未分類
 2025-11-30	重心不穩！成功漁港吊消波塊 吊車翻覆墜海1死1傷	https://news.ebc.net.tw/news/society/524874	未分類
@@ -1691,20 +1685,20 @@ var DATA_TRAFFIC = `
 2025-11-26	九巴車長車廠取車被撞斃 九巴否認未確保僱員安全 案件開審	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60297956/%E4%B9%9D%E5%B7%B4%E8%BB%8A%E9%95%B7%E8%BB%8A%E5%BB%A0%E5%8F%96%E8%BB%8A%E8%A2%AB%E6%92%9E%E6%96%83-%E4%B9%9D%E5%B7%B4%E5%90%A6%E8%AA%8D%E6%9C%AA%E7%A2%BA%E4%BF%9D%E5%83%B1%E5%93%A1%E5%AE%89%E5%85%A8-%E6%A1%88%E4%BB%B6%E9%96%8B%E5%AF%A9	未分類
 2025-11-26	九巴車長車廠內遭撞斃 勞工處票控九巴沒有確保僱員安全 排車員稱車廠巴士停泊後相距不足兩呎	https://www.stheadline.com/society/3521534/%E4%B9%9D%E5%B7%B4%E8%BB%8A%E9%95%B7%E8%BB%8A%E5%BB%A0%E5%85%A7%E9%81%AD%E6%92%9E%E6%96%83-%E5%8B%9E%E5%B7%A5%E8%99%95%E7%A5%A8%E6%8E%A7%E4%B9%9D%E5%B7%B4%E6%B2%92%E6%9C%89%E7%A2%BA%E4%BF%9D%E5%83%B1%E5%93%A1%E5%AE%89%E5%85%A8-%E6%8E%92%E8%BB%8A%E5%93%A1%E7%A8%B1%E8%BB%8A%E5%BB%A0%E5%B7%B4%E5%A3%AB%E5%81%9C%E6%B3%8A%E5%BE%8C%E7%9B%B8%E8%B7%9D%E4%B8%8D%E8%B6%B3%E5%85%A9%E5%91%8E	未分類
 2025-11-25	新／台中男接小孩突昏倒車上 當場無生命跡象	https://news.ebc.net.tw/news/society/523935	未分類
-2025-11-25	大馬娛樂大亨車禍亡 火化日期曝光…一代玉女慟：永遠記得	https://www.worldjournal.com/wj/story/121478/9163141	未分類
+2025-11-25	大馬娛樂大亨車禍亡 火化日期曝光…一代玉女慟：永遠記得	https://www.worldjournal.com/wj/story/121478/9163141	車禍
 2025-11-24	機場三跑地盤女工 遭挖泥機輾傷腳送院	https://www.bastillepost.com/hongkong/article/15452175-%E6%97%BA%E8%A7%92%E8%80%81%E5%A9%A6%E8%A2%AB%E6%97%85%E9%81%8A%E5%B7%B4%E6%92%9E%E5%80%92%E4%BA%A1-%E7%B4%99%E7%9A%AE%E9%9B%9C%E7%89%A9%E6%95%A3%E8%90%BD%E4%B8%80%E5%9C%B0	未分類
 2025-11-23	英國露宿者躲垃圾箱避寒 遭扔進垃圾車輾斃 鄰居被慘叫聲驚醒	https://www1.am730.com.hk/%E5%9C%8B%E9%9A%9B/621429/%E8%8B%B1%E5%9C%8B%E9%9C%B2%E5%AE%BF%E8%80%85%E8%BA%B2%E5%9E%83%E5%9C%BE%E7%AE%B1%E9%81%BF%E5%AF%92-%E9%81%AD%E6%89%94%E9%80%B2%E5%9E%83%E5%9C%BE%E8%BB%8A%E8%BC%BE%E6%96%83-%E9%84%B0%E5%B1%85%E8%A2%AB%E6%85%98%E5%8F%AB%E8%81%B2%E9%A9%9A%E9%86%92	未分類
-2025-11-19	小型飛機墜毀福岡八女山區＝3人死亡，疑從佐賀飛往大阪	https://www.nippon.com/hk/news/yjj2025111800529/	未分類
-2025-11-18	日本福岡縣小型飛機墜毀 3人死亡	https://news.rthk.hk/rthk/ch/component/k2/1832229-20251118.htm	未分類
+2025-11-19	小型飛機墜毀福岡八女山區＝3人死亡，疑從佐賀飛往大阪	https://www.nippon.com/hk/news/yjj2025111800529/	墜機
+2025-11-18	日本福岡縣小型飛機墜毀 3人死亡	https://news.rthk.hk/rthk/ch/component/k2/1832229-20251118.htm	墜機
 2025-11-13	台中娃娃車自撞分隔島！司機昏迷送醫搶救 6童驚嚇哭成一團	https://www.ettoday.net/news/20251113/3067149.htm	未分類
-2025-11-06	清水灣大拗門奪命交通意外 死者遺產管理人入稟向涉事司機索償 (17:22) - 20251106 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20251106/s00001/1762420929236/%E6%B8%85%E6%B0%B4%E7%81%A3%E5%A4%A7%E6%8B%97%E9%96%80%E5%A5%AA%E5%91%BD%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E6%AD%BB%E8%80%85%E9%81%BA%E7%94%A2%E7%AE%A1%E7%90%86%E4%BA%BA%E5%85%A5%E7%A8%9F%E5%90%91%E6%B6%89%E4%BA%8B%E5%8F%B8%E6%A9%9F%E7%B4%A2%E5%84%9F	未分類
+2025-11-06	清水灣大拗門奪命交通意外 死者遺產管理人入稟向涉事司機索償 (17:22) - 20251106 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20251106/s00001/1762420929236/%E6%B8%85%E6%B0%B4%E7%81%A3%E5%A4%A7%E6%8B%97%E9%96%80%E5%A5%AA%E5%91%BD%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E6%AD%BB%E8%80%85%E9%81%BA%E7%94%A2%E7%AE%A1%E7%90%86%E4%BA%BA%E5%85%A5%E7%A8%9F%E5%90%91%E6%B6%89%E4%BA%8B%E5%8F%B8%E6%A9%9F%E7%B4%A2%E5%84%9F	車禍
 2025-11-03	拖車技工疑沒扣安全帶墮下被飛機輾斃 公司否認3罪 司機稱車程短沒時間戴安全帶	https://thewitnesshk.com/%E6%8B%96%E8%BB%8A%E6%8A%80%E5%B7%A5%E7%96%91%E6%B2%92%E6%89%A3%E5%AE%89%E5%85%A8%E5%B8%B6%E5%A2%AE%E4%B8%8B%E8%A2%AB%E9%A3%9B%E6%A9%9F%E8%BC%BE%E6%96%83-%E5%85%AC%E5%8F%B8%E5%90%A6%E8%AA%8D3%E7%BD%AA/	未分類
-2025-11-02	準爸爸車禍昏迷3個月！醒來先臭罵女友「馬路三寶」 不到半年又被死神接走	https://www.mirrormedia.mg/story/20251031edi040	未分類
+2025-11-02	準爸爸車禍昏迷3個月！醒來先臭罵女友「馬路三寶」 不到半年又被死神接走	https://www.mirrormedia.mg/story/20251031edi040	車禍
 2025-11-02	「護理女神」謝侑芯驟逝震撼反轉！經紀人怒斥黃明志：在隱瞞什麼？強調「不會停止追查真相」	https://www.cool-style.com.tw/wd2/archives/1242161-「護理女神」謝侑芯驟逝震撼反轉！經紀人怒斥黃/amp	未分類
 2025-10-31	天水圍男工被斷裂電纜擊中腳受傷 升降台翻側	https://www.dotdotnews.com/a/202510/31/AP69045eace4b0b4fa5c138f38.html	未分類
 2025-10-30	機場三跑地盤田螺車翻側 司機被壓困盆骨骨折送院	https://news.tvb.com/tc/world/69045c7a834c0cab72d4d0ba/%E5%9C%8B%E9%9A%9B-%E6%BE%B3%E6%B4%B2%E6%82%89%E5%B0%BC%E7%99%BC%E7%94%9F%E8%87%B4%E5%91%BD%E8%BB%8A%E7%A6%8D-%E4%BA%94%E6%AD%B2%E5%A5%B3%E7%AB%A5%E8%A2%AB%E8%BE%B2%E5%A4%AB%E8%BB%8A%E6%92%9E%E5%88%B0%E5%82%B7%E9%87%8D%E6%AD%BB%E4%BA%A1	未分類
 2025-10-22	艋舺公園停車場意外變洗車場！「泡沫狂噴」波及多車 化學成分恐致腐蝕	https://news.tvbs.com.tw/local/3023275	未分類
-2025-10-21	東方日報A1：貨機失魂 撞車落海 害死兩地勤	https://hk.on.cc/hk/bkn/cnt/news/20251021/bkn-20251021033031789-1021_00822_001.html	未分類
+2025-10-21	東方日報A1：貨機失魂 撞車落海 害死兩地勤	https://hk.on.cc/hk/bkn/cnt/news/20251021/bkn-20251021033031789-1021_00822_001.html	車禍
 2025-10-20	疑與衝出跑道貨機相撞 地勤車司機及乘客不治	https://news.rthk.hk/rthk/ch/component/k2/1827885-20251020.htm	未分類
 2025-10-17	男超市採買返家遇死劫！客運「輾壓兩次」斃命 家屬心碎曝光事發過程	https://tw.news.yahoo.com/%E7%94%B7%E8%B6%85%E5%B8%82%E6%8E%A1%E8%B2%B7%E8%BF%94%E5%AE%B6%E9%81%87%E6%AD%BB%E5%8A%AB-%E5%AE%A2%E9%81%8B-%E8%BC%BE%E5%A3%93%E5%85%A9%E6%AC%A1-%E6%96%83%E5%91%BD-%E5%AE%B6%E5%B1%AC%E5%BF%83%E7%A2%8E%E6%9B%9D%E5%85%89%E4%BA%8B%E7%99%BC%E9%81%8E%E7%A8%8B-102342730.html	未分類
 2025-10-17	有片│大埔私家車「瓹車罅」釀四車串燒 網民：低能就唔好揸咁快啦	https://www.stheadline.com/breaking-news/3509541/%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E7%A7%81%E5%AE%B6%E8%BB%8A%E6%8D%B1%E5%88%87%E7%B7%9A%E8%B2%A8van%E7%8C%9B%E6%92%BC-%E5%8F%B8%E6%A9%9F%E5%85%A8%E8%BA%AB%E7%97%9B%E9%80%81%E9%99%A2	未分類
@@ -1715,42 +1709,42 @@ var DATA_TRAFFIC = `
 2025-10-16	巨塔之后｜李爾晨昏迷足足12集後奇蹟甦醒後再極速遭撞死！「活不過三秒」掀熱話獲封「最悲慘男角色」	https://www.bastillepost.com/hongkong/article/15346910-巨塔之后｜李爾晨昏迷足足12集後奇蹟甦醒後再極速	未分類
 2025-10-16	太魯閣號基隆出事！男子遭輾「爆頭肢體扭曲」當場斷魂	https://news.pchome.com.tw/society/ctinews/20251016/index-76058774923281309002.html	未分類
 2025-10-15	违例骑车过马路 阿伯被撞毙	https://www.zaobao.com.sg/realtime/singapore/story20251015-7667828	未分類
-2025-10-15	名古屋重大車禍1死2昏迷 71歲駕駛脫口一句話！警懷疑失智了	https://www.mnews.tw/story/amp/mm-20251015edi056	未分類
+2025-10-15	名古屋重大車禍1死2昏迷 71歲駕駛脫口一句話！警懷疑失智了	https://www.mnews.tw/story/amp/mm-20251015edi056	車禍
 2025-10-14	葵涌葵盛西邨貨車倒駛撞老翁 捲入車底輾頭亡 司機涉危駕被捕	https://m.dotdotnews.com/s/202510/14/AP68ee084de4b08d29053a15c1.html	未分類
 2025-10-14	葵涌女子過路遭客貨車撞倒左腳骨折倒臥路中- 港聞	https://www.dotdotnews.com/a/202510/14/AP68ee0f25e4b08d29053a1710.html	未分類
 2025-10-14	深水埗3車串燒相撞釀1傷 運菜貨車被推到分隔草叢 蔬菜散落一地	https://news.pchome.com.tw/society/ctinews/20251014/index-76044477044413309002.html	未分類
-2025-10-14	吐露港公路2「串燒」車禍致大塞車 涉8車釀2人傷	https://www.orientaldaily.com.my/news/society/2025/10/14/768736	未分類
+2025-10-14	吐露港公路2「串燒」車禍致大塞車 涉8車釀2人傷	https://www.orientaldaily.com.my/news/society/2025/10/14/768736	車禍
 2025-10-14	人妻趴引擎蓋阻男友駕車離開！遭狠摔落地輾斃 揭未離婚人夫極慘	https://www.hk01.com/熱爆話題/60280958/人妻趴引擎蓋阻男友駕車離開-遭狠摔落地輾斃-揭未離婚人夫極慘	未分類
 2025-10-14	1至7月全台近1600人交通事故亡！人數最高縣市曝	https://www.chinatimes.com/realtimenews/20251014003092-260405	未分類
 2025-10-13	疑酒醉倒路中！69歲男家門前遭計程車輾斃 死者家屬控拖行「血跡長達數米」	https://tw.news.yahoo.com/疑酒醉倒路中-69歲男家門前遭計程車輾斃-死者家屬控拖行-血跡長達數米-102200574.html	未分類
-2025-10-13	成都小米 SU7 起火，酒駕司機超速撞車、車門鎖死未能逃生	https://hk.news.yahoo.com/成都小米-su7-起火，酒駕司機超速撞車、車門鎖死未能逃生-095831162.html	未分類
+2025-10-13	成都小米 SU7 起火，酒駕司機超速撞車、車門鎖死未能逃生	https://hk.news.yahoo.com/成都小米-su7-起火，酒駕司機超速撞車、車門鎖死未能逃生-095831162.html	車禍
 2025-10-13	廣州瀝心沙大橋遭船隻撞斷 有巴士墮船艙	https://hk.on.cc/hk/bkn/cnt/news/20251013/bkn-20251013160011286-1013_00822_001.html	未分類
 2025-10-12	沙鹿區向上路發生大貨車翻覆事故造成一受傷	https://taiwanreports.com/archives/943689	未分類
 2025-10-12	佐敦柯士甸道的士與電單車相撞 鐵騎士清醒送院	https://www.hk01.com/突發/60284647/佐敦柯士甸道的士與電單車相撞-鐵騎士清醒送院	未分類
 2025-10-10	观塘夺命车祸｜励业街客货车撞毙六旬妇 61岁司机涉危驾致死被捕	https://global.hk01.com/突发/60284309/观塘夺命车祸-励业街客货车撞毙六旬妇-61岁司机涉危驾致死被捕	未分類
 2025-10-10	牛頭角六旬婦遭客貨車撞斃 肇事司機涉危駕被捕	https://hk.on.cc/hk/bkn/cnt/news/20251010/bkn-20251010152137803-1010_00822_001.html	未分類
-2025-10-09	車禍和住院後的更新 – 好萊塢的生活	https://www.arch-web.com.tw/综合新闻/車禍和住院後的更新-好萊塢的生活/122205/	未分類
+2025-10-09	車禍和住院後的更新 – 好萊塢的生活	https://www.arch-web.com.tw/综合新闻/車禍和住院後的更新-好萊塢的生活/122205/	車禍
 2025-10-09	西貢公路小巴撞男途人 昏迷送院命危	https://www.hkcd.com.hk/hkcdweb/content/2025/10/09/content_8717938.html	未分類
 2025-10-09	疑雲重重／于朦朧之死震撼國際 法律失聲與政治封口的中國	https://news.pchome.com.tw/living/innews/20251009/index-75997554103015284009.html	未分類
 2025-10-09	台中BMW凌晨暴衝撞民宅！87歲婦熟睡遭撞死 兒獲救悲喊：我媽在下面	https://www.setn.com/news/1733116	未分類
-2025-10-08	陸資深天使投資人西藏車禍意外離世 30年創投總額逾1億人民幣	https://www.ettoday.net/news/20251008/3047078.htm	未分類
+2025-10-08	陸資深天使投資人西藏車禍意外離世 30年創投總額逾1億人民幣	https://www.ettoday.net/news/20251008/3047078.htm	車禍
 2025-10-08	西貢菠蘿輋男途人被小巴撞倒昏迷送院(22:09) - 20251008 - 港聞- 即時新聞	https://news.mingpao.com/ins/港聞/article/20251008/s00001/1759929389405/西貢菠蘿輋男途人被小巴撞倒-昏迷送院	未分類
 2025-10-08	西貢公路男子捱小巴撞昏迷 送院搶救後命危	https://hk.on.cc/hk/bkn/cnt/news/20251008/mobile/bkn-20251008192923443-1008_00822_001.html?editorpickDate=20251009&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	未分類
 2025-10-08	西貢公路男子挨小巴撞重傷昏迷路中送院搶救- 香港 - 香港文匯網	https://www.wenweipo.com/s/202510/08/AP68e6599fe4b033178fb1a4a7.html	未分類
 2025-10-08	男子西貢菠蘿輋路疑被小巴撞倒 受傷昏迷送院	https://news.rthk.hk/rthk/ch/component/k2/1826436-20251008.htm	未分類
 2025-10-08	快訊／台中死亡事故！轎車暴衝民宅…撞死8旬婦、駕駛「頭破血流」受困	https://tw.news.yahoo.com/快訊-台中死亡事故-轎車暴衝民宅-撞死8旬婦-駕駛-220500383.html	未分類
-2025-10-08	奪命車禍│葵涌貨櫃碼頭拖頭倒駛撞斃中年漢 61歲司機涉危駕被捕	https://news.pchome.com.tw/society/ctinews/20251008/index-75990259910188309002.html	未分類
-2025-10-08	吉恩·西蒙斯 (Gene Simmons)，76 歲，因可怕車禍住院	https://www.arch-web.com.tw/娛樂/吉恩·西蒙斯-gene-simmons，76-歲，因可怕車禍住院/122041/	未分類
+2025-10-08	奪命車禍│葵涌貨櫃碼頭拖頭倒駛撞斃中年漢 61歲司機涉危駕被捕	https://news.pchome.com.tw/society/ctinews/20251008/index-75990259910188309002.html	車禍
+2025-10-08	吉恩·西蒙斯 (Gene Simmons)，76 歲，因可怕車禍住院	https://www.arch-web.com.tw/娛樂/吉恩·西蒙斯-gene-simmons，76-歲，因可怕車禍住院/122041/	車禍
 2025-10-08	26歲男地藏庵前被撞死！肇事男甩鍋妻2天後自首 胞弟淚求畫面還原真相	https://tw.news.yahoo.com/26歲男地藏庵前被撞死-肇事男甩鍋妻2天後自首-胞弟淚求畫面還原真相-013700219.html	未分類
 2025-10-07	銅鑼灣5的士上落客位串燒2人受傷送院- 港聞	https://www.dotdotnews.com/a/202510/07/AP68e4b825e4b08d2905395f81.html	未分類
 2025-10-07	大埔男子踏電動單車與的士相撞受傷送院	https://news.rthk.hk/rthk/ch/component/k2/1826289-20251007.htm	未分類
 2025-10-07	10/1 地球險遭撞擊！小行星 2025 TF 距地表僅 419 公里飛掠，創史上第二近紀錄	https://technews.tw/2025/10/07/new-asteroid-2025-tf/	未分類
 2025-10-05	小琉球風浪強勁！船隻翻覆 51歲漁民昏迷不治	https://news.ttv.com.tw/news/11410050002100W	未分類
 2025-10-05	小琉球膠筏翻覆 漁民落海獲救送醫仍不治	https://tw.news.yahoo.com/%E5%B0%8F%E7%90%89%E7%90%83%E8%86%A0%E7%AD%8F%E7%BF%BB%E8%A6%86-%E6%BC%81%E6%B0%91%E8%90%BD%E6%B5%B7%E7%8D%B2%E6%95%91%E9%80%81%E9%86%AB%E4%BB%8D%E4%B8%8D%E6%B2%BB-073537829.html	未分類
-2025-10-03	大欖隧道車禍｜死者為測量師學會理事 同業感婉惜 (萬順昌車)	https://penang.chinapress.com.my/20251003/%E9%AA%91%E6%91%A9%E5%93%86%E6%A8%AA%E8%B6%8A%E5%85%AC%E8%B7%AF-%E5%A5%B3%E5%AD%90%E9%81%AD%E6%97%85%E5%B7%B4%E6%92%9E%E6%AF%99/	未分類
-2025-10-03	傳「最帥武僧」秋風非車禍亡 是于朦朧案「翻版」 - 澳洲看新闻网 最新澳洲新闻 | 中国新闻 | 港台新闻 | 国际新闻	https://vct.news/news/傳「最帥武僧」秋風非車禍亡-是于朦朧案「翻版」	未分類
+2025-10-03	大欖隧道車禍｜死者為測量師學會理事 同業感婉惜 (萬順昌車)	https://penang.chinapress.com.my/20251003/%E9%AA%91%E6%91%A9%E5%93%86%E6%A8%AA%E8%B6%8A%E5%85%AC%E8%B7%AF-%E5%A5%B3%E5%AD%90%E9%81%AD%E6%97%85%E5%B7%B4%E6%92%9E%E6%AF%99/	車禍
+2025-10-03	傳「最帥武僧」秋風非車禍亡 是于朦朧案「翻版」 - 澳洲看新闻网 最新澳洲新闻 | 中国新闻 | 港台新闻 | 国际新闻	https://vct.news/news/傳「最帥武僧」秋風非車禍亡-是于朦朧案「翻版」	車禍
 2025-10-02	機場三跑地盤田螺車翻側 司機額頭及手傷送院	https://www.nexttv.com.tw/NextTV/News/Home/Society/2025-10-02/2136282.html	未分類
-2025-10-02	有家族史！64歲男健身後突心臟病釀車禍 倒在診所旁奇蹟獲救	https://news.pchome.com.tw/healthcare/crwant/20251002/index-75941157979654316012.html	未分類
+2025-10-02	有家族史！64歲男健身後突心臟病釀車禍 倒在診所旁奇蹟獲救	https://news.pchome.com.tw/healthcare/crwant/20251002/index-75941157979654316012.html	車禍
 2025-10-01	葵涌貨櫃碼頭鏟車疑煞掣系統失靈撼貨櫃 司機慘被夾斷3隻手指	https://news.ebc.net.tw/news/society/514895	未分類
 2025-10-01	快訊／屏科大一生校園自撞！「騎車撞電桿」一群人圍觀 傷重不治	https://www.setn.com/news/1729747	未分類
 2025-10-01	快訊／屏科大18歲學生體育館前自撞 送醫不治	https://www.ettoday.net/news/20251001/3043479.htm	未分類
@@ -1759,33 +1753,33 @@ var DATA_TRAFFIC = `
 2025-09-29	台八男星外甥女遭77歲吊車司機「二度輾斃」 告別式淚崩心碎發聲	https://today.line.me/tw/v3/article/x233Nj6	未分類
 2025-09-29	古程丰外甥女遭拖吊車二度輾斃 事故百日集結：盼司法伸張公義	https://www.mirrordaily.news/story/22535	未分類
 2025-09-29	古程丰公開發聲：護校生外甥女遭拖吊車二度輾斃百日 盼社會關注！	https://www.mirrormedia.mg/story/20250929ent020	未分類
-2025-09-28	存錢給愛妻驚喜！泰男回家途中車禍亡 坐墊下「翻出情書」超心碎	https://www.ettoday.net/news/20250928/3041445.htm	未分類
+2025-09-28	存錢給愛妻驚喜！泰男回家途中車禍亡 坐墊下「翻出情書」超心碎	https://www.ettoday.net/news/20250928/3041445.htm	車禍
 2025-09-28	基隆港工安意外 司機左腳遭貨櫃車輾過 送醫急救	https://www.ettoday.net/news/20250928/3041446.htm	未分類
 2025-09-26	泪崩！于朦胧最后留言曝光 娱乐圈黑幕惊人内幕震撼全网｜豪宅抛售潮爆发 恐惧蔓延北京｜国际媒体跟进 当局封不住了	https://www.soundofhope.org/post/904665	未分類
 2025-09-24	屯門市中心巴士站男子暈厥 昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20250924/mobile/bkn-20250924200238019-0924_00822_001_cn.html	未分類
 2025-09-22	下班時段開車自撞！台中男夾困駕駛座「無生命跡象」… 送醫搶救中	https://www.setn.com/news/1724055	未分類
 2025-09-19	高雄警陳屍家中 同仁見震撼一幕｜東森新聞	https://news.ebc.net.tw/news/society/512874	未分類
-2025-09-16	車禍重創腦部 佳里奇美醫療團隊運用3D科技助重生	https://www.taiwanhot.net/news/1114165/%E8%BB%8A%E7%A6%8D%E9%87%8D%E5%89%B5%E8%85%A6%E9%83%A8+%E4%BD%B3%E9%87%8C%E5%A5%87%E7%BE%8E%E9%86%AB%E7%99%82%E5%9C%98%E9%9A%8A%E9%81%8B%E7%94%A83D%E7%A7%91%E6%8A%80%E5%8A%A9%E9%87%8D%E7%94%9F	未分類
+2025-09-16	車禍重創腦部 佳里奇美醫療團隊運用3D科技助重生	https://www.taiwanhot.net/news/1114165/%E8%BB%8A%E7%A6%8D%E9%87%8D%E5%89%B5%E8%85%A6%E9%83%A8+%E4%BD%B3%E9%87%8C%E5%A5%87%E7%BE%8E%E9%86%AB%E7%99%82%E5%9C%98%E9%9A%8A%E9%81%8B%E7%94%A83D%E7%A7%91%E6%8A%80%E5%8A%A9%E9%87%8D%E7%94%9F	車禍
 2025-09-16	撞擊風險解除了？小行星即將高速飛掠地球	https://www.epochtimes.com/b5/25/9/16/n14596098.htm	未分類
 2025-09-15	悲歌！以為自己撞死人…57歲男「氣爆不治」 妻慟哭：1通電話就能阻憾事	https://tw.news.yahoo.com/%E6%82%B2%E6%AD%8C-%E4%BB%A5%E7%82%BA%E8%87%AA%E5%B7%B1%E6%92%9E%E6%AD%BB%E4%BA%BA-57%E6%AD%B2%E7%94%B7-%E6%B0%A3%E7%88%86%E4%B8%8D%E6%B2%BB-%E5%A6%BB%E6%85%9F%E5%93%AD-062335804.html	未分類
-2025-09-15	奇蹟！ 33歲棒球教練車禍昏迷 靠「3D科技重建顱骨」獲新生	https://tw.news.yahoo.com/%E5%A5%87%E8%B9%9F-33%E6%AD%B2%E6%A3%92%E7%90%83%E6%95%99%E7%B7%B4%E8%BB%8A%E7%A6%8D%E6%98%8F%E8%BF%B7-%E9%9D%A0-3d%E7%A7%91%E6%8A%80%E9%87%8D%E5%BB%BA%E9%A1%B1%E9%AA%A8-%E7%8D%B2%E6%96%B0%E7%94%9F-080354796.html	未分類
+2025-09-15	奇蹟！ 33歲棒球教練車禍昏迷 靠「3D科技重建顱骨」獲新生	https://tw.news.yahoo.com/%E5%A5%87%E8%B9%9F-33%E6%AD%B2%E6%A3%92%E7%90%83%E6%95%99%E7%B7%B4%E8%BB%8A%E7%A6%8D%E6%98%8F%E8%BF%B7-%E9%9D%A0-3d%E7%A7%91%E6%8A%80%E9%87%8D%E5%BB%BA%E9%A1%B1%E9%AA%A8-%E7%8D%B2%E6%96%B0%E7%94%9F-080354796.html	車禍
 2025-09-08	巨業客運司機撞斃東海女大生願賠至少350萬 被害母「盼將心比心」 | 鏡新聞	https://www.mnews.tw/story/20250908nm018	未分類
 2025-09-08	一家三口騎電單車疑爬頭時摔倒！妻遭貨櫃車輾斃 鐵騎士抱屍痛哭	https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60273242/%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E9%A8%8E%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%96%91%E7%88%AC%E9%A0%AD%E6%99%82%E6%91%94%E5%80%92-%E5%A6%BB%E9%81%AD%E8%B2%A8%E6%AB%83%E8%BB%8A%E8%BC%BE%E6%96%83-%E9%90%B5%E9%A8%8E%E5%A3%AB%E6%8A%B1%E5%B1%8D%E7%97%9B%E5%93%AD	未分類
-2025-09-08	「重病男怕先死」房子急過戶...女友車禍亡！房產變別人的	https://house.ettoday.net/news/3029562	未分類
+2025-09-08	「重病男怕先死」房子急過戶...女友車禍亡！房產變別人的	https://house.ettoday.net/news/3029562	車禍
 2025-09-08	32歲4寶人妻「遭男友輾斃」背景曝光！雙方抖音認識 交往才1月	https://www.ettoday.net/news/20250908/3029718.htm	未分類
 2025-09-07	31歲重機網美慘遭卡車輾斃！丈夫到場崩潰痛哭 肇事卡車司機逃逸 | CTWANT	https://today.line.me/tw/v3/article/3NwEZ9W	未分類
 2025-09-06	機車騎士違規「鬼切」慘遭撞死 肇事司機因為這原因無罪	https://www.mirrormedia.mg/external/mirrordaily_19000	未分類
 2025-09-06	僅1.2秒反應時間！無法閃避「鬼切」撞死騎士 貨車駕駛獲判無罪	https://news.ltn.com.tw/news/society/breakingnews/5168748	未分類
 2025-09-05	黑棚蓋屍換擋死！高雄黃昏市場婦遭「吊車輾爆頭」：頭七現場做1事	https://www.setn.com/news/1715692	未分類
-2025-09-05	新疆團車禍1死3傷｜勝景遊：一車4人遊覽獨庫公路 行程第8天出事	https://www.hk01.com/%E7%AA%81%E7%99%BC/60273777/%E6%96%B0%E7%96%86%E5%9C%98%E8%BB%8A%E7%A6%8D1%E6%AD%BB3%E5%82%B7-%E5%8B%9D%E6%99%AF%E9%81%8A-%E4%B8%80%E8%BB%8A4%E4%BA%BA%E9%81%8A%E8%A6%BD%E7%8D%A8%E5%BA%AB%E5%85%AC%E8%B7%AF-%E8%A1%8C%E7%A8%8B%E7%AC%AC8%E5%A4%A9%E5%87%BA%E4%BA%8B	未分類
+2025-09-05	新疆團車禍1死3傷｜勝景遊：一車4人遊覽獨庫公路 行程第8天出事	https://www.hk01.com/%E7%AA%81%E7%99%BC/60273777/%E6%96%B0%E7%96%86%E5%9C%98%E8%BB%8A%E7%A6%8D1%E6%AD%BB3%E5%82%B7-%E5%8B%9D%E6%99%AF%E9%81%8A-%E4%B8%80%E8%BB%8A4%E4%BA%BA%E9%81%8A%E8%A6%BD%E7%8D%A8%E5%BA%AB%E5%85%AC%E8%B7%AF-%E8%A1%8C%E7%A8%8B%E7%AC%AC8%E5%A4%A9%E5%87%BA%E4%BA%8B	車禍
 2025-09-05	墨爾本兩名女子救助受傷袋鼠 被撞斃	https://www.sbs.com.au/language/chinese/zh-hant/article/two-women-killed-helping-kangaroo-in-melbourne/bfpg9c13n	未分類
-2025-09-05	勝景遊新疆旅行團遇車禍 釀1死3傷涉兩家庭 3傷者當地留醫	https://www.hk01.com/%E7%AA%81%E7%99%BC/60273555/%E5%8B%9D%E6%99%AF%E9%81%8A%E6%96%B0%E7%96%86%E6%97%85%E8%A1%8C%E5%9C%98%E9%81%87%E8%BB%8A%E7%A6%8D-%E9%87%801%E6%AD%BB3%E5%82%B7%E6%B6%89%E5%85%A9%E5%AE%B6%E5%BA%AD-3%E5%82%B7%E8%80%85%E7%95%B6%E5%9C%B0%E7%95%99%E9%86%AB	未分類
+2025-09-05	勝景遊新疆旅行團遇車禍 釀1死3傷涉兩家庭 3傷者當地留醫	https://www.hk01.com/%E7%AA%81%E7%99%BC/60273555/%E5%8B%9D%E6%99%AF%E9%81%8A%E6%96%B0%E7%96%86%E6%97%85%E8%A1%8C%E5%9C%98%E9%81%87%E8%BB%8A%E7%A6%8D-%E9%87%801%E6%AD%BB3%E5%82%B7%E6%B6%89%E5%85%A9%E5%AE%B6%E5%BA%AD-3%E5%82%B7%E8%80%85%E7%95%B6%E5%9C%B0%E7%95%99%E9%86%AB	車禍
 2025-09-04	油麻地女生捱巴士撞 受傷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20250904/bkn-20250904160046022-0904_00822_001.html	未分類
 2025-09-04	撞死輪椅人士 聖荷西男逃逸被捕	https://www.worldjournal.com/wj/story/121368/8982768	未分類
 2025-09-03	水泥預拌車轉彎疑視線死角 輾斃75歲單車婦人	https://www.fclnews.com/130522/	未分類
-2025-09-03	五股19歲男騎士車禍亡！住家停水到同學家洗澡遇難 父哀痛不捨	https://video.ltn.com.tw/article/poOcEA3iBro/PLI7xntdRxhw0VRxm8nImOBCW2OZN7Ktws	未分類
-2025-09-03	300萬奧迪e-tron國道失神猛撞緩撞車 車頭全毀慘賠數百萬 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/crwant/20250903/index-75687570660097316002.html	未分類
-2025-09-03	300萬奧迪e-tron國道失神猛撞緩撞車 車頭全毀慘賠數百萬	https://www.ctwant.com/article/443091/	未分類
+2025-09-03	五股19歲男騎士車禍亡！住家停水到同學家洗澡遇難 父哀痛不捨	https://video.ltn.com.tw/article/poOcEA3iBro/PLI7xntdRxhw0VRxm8nImOBCW2OZN7Ktws	車禍
+2025-09-03	300萬奧迪e-tron國道失神猛撞緩撞車 車頭全毀慘賠數百萬 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/crwant/20250903/index-75687570660097316002.html	車禍
+2025-09-03	300萬奧迪e-tron國道失神猛撞緩撞車 車頭全毀慘賠數百萬	https://www.ctwant.com/article/443091/	車禍
 2025-09-03	104歲人瑞外出遭撞不治 嘉檢起訴追撞及路停2駕駛	https://www.cna.com.tw/news/asoc/202509030134.aspx	未分類
 2025-09-01	葵涌道3車相撞包括貨車及貨van 一司機受傷	https://www.hk01.com/%E7%AA%81%E7%99%BC/60272089/%E8%91%B5%E6%B6%8C%E9%81%933%E8%BB%8A%E7%9B%B8%E6%92%9E%E5%8C%85%E6%8B%AC%E8%B2%A8%E8%BB%8A%E5%8F%8A%E8%B2%A8van-%E4%B8%80%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%82%B7	未分類
 2025-08-31	深水埗旅遊巴私家車相撞3人受傷送院- 港聞	https://www.dotdotnews.com/a/202508/31/AP68b40e01e4b08d290534b45d.html	未分類
@@ -1794,17 +1788,17 @@ var DATA_TRAFFIC = `
 2025-08-29	有片／民眾苦哈哈議員領津貼？印尼爆示威、一外送員遭警車輾斃民怨沸騰	https://tw.news.yahoo.com/%E6%9C%89%E7%89%87-%E6%B0%91%E7%9C%BE%E8%8B%A6%E5%93%88%E5%93%88%E8%AD%B0%E5%93%A1%E9%A0%98%E6%B4%A5%E8%B2%BC-%E5%8D%B0%E5%B0%BC%E7%88%86%E7%A4%BA%E5%A8%81-%E5%A4%96%E9%80%81%E5%93%A1%E9%81%AD%E8%AD%A6%E8%BB%8A%E8%BC%BE%E6%96%83%E6%B0%91%E6%80%A8%E6%B2%B8%E9%A8%B0-084224257.html	未分類
 2025-08-29	旺角兩車相撞 七人車司機受輕傷送院	https://www.stheadline.com/breaking-news/3494540/%E6%97%BA%E8%A7%92%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E-%E4%B8%83%E4%BA%BA%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8F%97%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2	未分類
 2025-08-29	46歲婦途中猝逝巴士座位上 全車乘客抵達才知「3小時全程伴屍」 - 鏡週刊 Mirror Media	https://www.mirrormedia.mg/story/20250828edi087	未分類
-2025-08-28	驚悚車禍「撞倒後慢慢輾斃她」 39歲賓士男「1動作」殺人罪偵辦| 社會焦點	https://today.line.me/tw/v3/article/eLOZWQJ	未分類
+2025-08-28	驚悚車禍「撞倒後慢慢輾斃她」 39歲賓士男「1動作」殺人罪偵辦| 社會焦點	https://today.line.me/tw/v3/article/eLOZWQJ	車禍
 2025-08-28	泰女搭長途巴士猝死！ 同車乘客「伴屍3小時」完全沒發現│TVBS新聞網	https://news.tvbs.com.tw/world/2973518	未分類
 2025-08-28	泰國婦人搭乘長途巴士途中猝死 「到站不起身」才知全車伴屍3小時 | CTWANT	https://hk.epochtimes.com/news/2025-08-28/25002848	未分類
 2025-08-28	旺角兩車相撞 一人受傷清醒送院	https://news.tvb.com/tc/792527-%E6%97%BA%E8%A7%92%E5%85%A9%E8%BB%8A%E7%9B%B8%E6%92%9E%E4%B8%80%E4%BA%BA%E5%8F%97%E5%82%B7%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2	未分類
 2025-08-28	巴西20歲女搭巴士「突呼吸困難」猝死 身上詭綁26支iPhone掀議	https://udn.com/news/story/7272/8967903	未分類
-2025-08-28	土城又見驚悚車禍！84歲翁過馬路遭貨車輾斃 司機喊「沒看到人」	https://www.mirrormedia.mg/story/20250828edi042	未分類
+2025-08-28	土城又見驚悚車禍！84歲翁過馬路遭貨車輾斃 司機喊「沒看到人」	https://www.mirrormedia.mg/story/20250828edi042	車禍
 2025-08-28	台中男撞88歲資收婦沒下車還直接輾過奪命...檢依過失致死20萬交保| 時事	https://video.udn.com/news/1311566	未分類
 2025-08-28	台中婦每天「撿回收當運動」遭賓士輾斃 工程行老闆20 萬交保	https://www.ettoday.net/news/20250828/3023848.htm	未分類
 2025-08-27	牛頭角客貨車剷行人路掃欄杆 3工人受傷送院 司機涉危駕被捕	https://www.hk01.com/%E7%AA%81%E7%99%BC/60270585/%E7%89%9B%E9%A0%AD%E8%A7%92%E5%AE%A2%E8%B2%A8%E8%BB%8A%E5%89%B7%E8%A1%8C%E4%BA%BA%E8%B7%AF%E6%8E%83%E6%AC%84%E6%9D%86-3%E5%B7%A5%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95	未分類
 2025-08-27	屯門鳴琴路49歲男踩滑板車落天橋 撞壆昏迷送院 留醫2日不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/60270756/%E5%B1%AF%E9%96%80%E9%B3%B4%E7%90%B4%E8%B7%AF49%E6%AD%B2%E7%94%B7%E8%B8%A9%E6%BB%91%E6%9D%BF%E8%BB%8A%E8%90%BD%E5%A4%A9%E6%A9%8B-%E6%92%9E%E5%A3%86%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2-%E7%95%99%E9%86%AB2%E6%97%A5%E4%B8%8D%E6%B2%BB	未分類
-2025-08-27	土城恐怖逆撞車禍釀9傷 20年來從未考過駕照！38歲無照男「親曝原因超傻眼」 | 鏡週刊	https://www.mirrormedia.mg/story/20250827edi074	未分類
+2025-08-27	土城恐怖逆撞車禍釀9傷 20年來從未考過駕照！38歲無照男「親曝原因超傻眼」 | 鏡週刊	https://www.mirrormedia.mg/story/20250827edi074	車禍
 2025-08-27	上週才有79人斷魂！阿富汗再傳巴士重大翻覆事故 乘客26死14傷 | 國際 | CTWANT	https://www.ctwant.com/article/441548/	未分類
 2025-08-26	高雄男疑醉倒慢車道遭輾 「卡車底下」 被救出送醫不治	https://www.hk01.com/突發/60270338/珍惜生命-屯門雅德苑男子墮樓-送院後返魂乏術	未分類
 2025-08-26	高雄男「爛醉躺路邊」遭粗心女駕車輾過卡車底…凌晨仍宣告不治	https://www.setn.com/news/1709673	未分類
@@ -1824,13 +1818,13 @@ var DATA_TRAFFIC = `
 2025-08-22	維修員撞斃69歲單車婦不顧而去 官指騎單車者應受保護 囚18月	https://www.hk01.com/社會新聞/60269261/維修員撞斃69歲單車婦不顧而去-官指騎單車者應受保護-囚18月	未分類
 2025-08-22	石硤尾停車場校巴撞斃九旬婦 72歲女司機被捕	https://m.hkej.com/landing/mobarticle2/id/4173266/%E7%9F%B3%E7%A1%A4%E5%B0%BE%E5%81%9C%E8%BB%8A%E5%A0%B4%E6%A0%A1%E5%B7%B4%E6%92%9E%E6%96%83%E4%B9%9D%E6%97%AC%E5%A9%A6%2072%E6%AD%B2%E5%A5%B3%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95	未分類
 2025-08-22	快訊/命懸一線！聯結車停路中狂鳴喇叭 駕駛失去意識警救援 ｜ 中天新聞網	https://ctinews.com/news/items/KwnK1OPmaY	未分類
-2025-08-22	南灣隧道半個鐘3車禍涉7車揭一的士司機醉駕7人送院- 港聞	https://www.dotdotnews.com/a/202508/22/AP68a8319de4b08d290533c554.html	未分類
+2025-08-22	南灣隧道半個鐘3車禍涉7車揭一的士司機醉駕7人送院- 港聞	https://www.dotdotnews.com/a/202508/22/AP68a8319de4b08d290533c554.html	車禍
 2025-08-22	上水撞斃單車老婦不顧而去 私家車司機囚18個月兼停牌5年	https://hk.on.cc/hk/bkn/cnt/news/20250822/bkn-20250822173359520-0822_00822_001.html	未分類
 2025-08-21	阿富汗巴士撞卡車、摩托車 火燒車釀79死2傷 ｜ 公視新聞網 PNN	https://news.pts.org.tw/article/766632	未分類
 2025-08-21	閃路邊車輛自摔！ 騎士慘被後方大客車輾斃	https://www.nexttv.com.tw/NextTV/News/Home/Society/2025-08-20/2095655.html	未分類
 2025-08-21	台南21歲奧迪妹酒駕撞死人！發IG狂飆髒話 國民法官判8年半 | TVBS	https://today.line.me/tw/v3/article/1DrYvDv	未分類
 2025-08-21	九龍灣過馬路婆婆遭Tesla撞飛甩鞋甩帽倒地一度昏迷- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/15786592269129/%E9%87%8D%E9%BB%9E%E6%96%B0%E8%81%9E-%E4%B9%9D%E9%BE%8D%E7%81%A3%E9%81%8E%E9%A6%AC%E8%B7%AF%E5%A9%86%E5%A9%86%E9%81%ADTesla%E6%92%9E%E9%A3%9B--%E7%94%A9%E9%9E%8B%E7%94%A9%E5%B8%BD%E5%80%92%E5%9C%B0%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7	未分類
-2025-08-20	陰謀論破除！陳梅慧車禍亡 法院認定單純意外 | 鏡週刊	https://www.mirrormedia.mg/story/20250820edi010	未分類
+2025-08-20	陰謀論破除！陳梅慧車禍亡 法院認定單純意外 | 鏡週刊	https://www.mirrormedia.mg/story/20250820edi010	車禍
 2025-08-20	灣仔告士打道近馬師道路中現「黑洞」 西行交通受阻 巴士線改道	https://www.hk01.com/article/60268288?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-08-19	上班途中遇死劫！26歲男忠孝橋自撞噴飛遭2 車猛撞母心碎認屍	https://www.chinatimes.com/realtimenews/20250819002076-260402	未分類
 2025-08-19	26歲兒忠孝橋自撞「噴快車道撞2車亡」 父母心碎赴殯儀館驗屍	https://www.ettoday.net/news/20250819/3018186.htm	未分類
@@ -1838,10 +1832,10 @@ var DATA_TRAFFIC = `
 2025-08-15	華船艦黃岩島相撞傳2死 國防部斥菲製造緊迫局面	https://hk.on.cc/hk/bkn/cnt/news/20250815/bkn-20250815162955511-0815_00822_001.html	未分類
 2025-08-07	畫面曝光！高雄港吊車翻覆撞貨船「2貨櫃落海」 駕駛嚇癱趴地	https://www.ettoday.net/news/20250807/3010614.htm	未分類
 2025-08-06	的哥撞斃遊客 議員：80歲可摣營業車僅港可容忍 促訂退休年限	https://hk.on.cc/hk/bkn/cnt/news/20250806/bkn-20250806100903989-0806_00822_001.html	未分類
-2025-08-05	澳門4死3傷車禍 其中一名男死者 為澳門足球代表隊球員吳禮廷	https://hk.on.cc/hk/bkn/cnt/news/20250805/bkn-20250805022922050-0805_00822_001.html	未分類
+2025-08-05	澳門4死3傷車禍 其中一名男死者 為澳門足球代表隊球員吳禮廷	https://hk.on.cc/hk/bkn/cnt/news/20250805/bkn-20250805022922050-0805_00822_001.html	車禍
 2025-08-04	倒車「二次碾壓」女大生害命？遊覽車負責人還原現場： 家屬沒證據亂講	https://www.setn.com/news/1698679	未分類
 2025-08-03	女騎士遭旅巴輾斃 家屬怒斥：為何二次倒車	https://hk.on.cc/hk/bkn/cnt/news/20250803/bkn-20250803150048242-0803_00822_001.html	未分類
-2025-07-20	越南下龍灣35死船難！3男「抱木椅漂流」 奇蹟生還悲曝罹難者絕望眼神	https://today.line.me/tw/v3/article/KwMnq2o	未分類
+2025-07-20	越南下龍灣35死船難！3男「抱木椅漂流」 奇蹟生還悲曝罹難者絕望眼神	https://today.line.me/tw/v3/article/KwMnq2o	船難
 2025-07-19	仁醫走斑馬線被公車輾斃！陳志金痛心：這些悲劇， 什麼時候才能不再發生	https://tw.news.yahoo.com/%E4%BB%81%E9%86%AB%E8%B5%B0%E6%96%91%E9%A6%AC%E7%B7%9A%E8%A2%AB%E5%85%AC%E8%BB%8A%E8%BC%BE%E6%96%83-%E9%99%B3%E5%BF%97%E9%87%91%E7%97%9B%E5%BF%83-%E9%80%99%E4%BA%9B%E6%82%B2%E5%8A%87-%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E6%89%8D%E8%83%BD%E4%B8%8D%E5%86%8D%E7%99%BC%E7%94%9F-054000395.html	未分類
 2025-07-14	19歲電單車司機暈倒元朗公路 同行友人報案送院搶救後甦醒	https://www.hk01.com/article/60256397?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-07-05	日女學生搭巴士踩單車狂出紅疹昏迷不醒 罕見怪事背後藏驚人病因｜今日日本	https://www.hk01.com/article/644639?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -1855,13 +1849,13 @@ var DATA_TRAFFIC = `
 2025-06-11	拖板車司機恍神！國1撞護欄翻車「鋼圈掉落」2匝道管制封閉	https://news.tvbs.com.tw/local/2899423	未分類
 2025-06-05	找東西找到命丟了！桃園男遭社區「垃圾壓縮機」 輾斃警還原現場	https://tw.news.yahoo.com/%E6%89%BE%E6%9D%B1%E8%A5%BF%E6%89%BE%E5%88%B0%E5%91%BD%E4%B8%9F%E4%BA%86-%E6%A1%83%E5%9C%92%E7%94%B7%E9%81%AD%E7%A4%BE%E5%8D%80-%E5%9E%83%E5%9C%BE%E5%A3%93%E7%B8%AE%E6%A9%9F-%E8%BC%BE%E6%96%83-%E8%AD%A6%E9%82%84%E5%8E%9F%E7%8F%BE%E5%A0%B4-114600779.html	未分類
 2025-06-02	鳳屏二路自撞翻覆事故 無人受傷警迅速到場處理 維護交通順暢	https://n.yam.com/Article/20250602642399	未分類
-2025-06-02	車手獎｜交通意外傷亡援助擬縮至日均$330 最長60日 總額減9成	https://www.hk01.com/article/60244068?utm_source=01articlecopy&utm_medium=referral	未分類
+2025-06-02	車手獎｜交通意外傷亡援助擬縮至日均$330 最長60日 總額減9成	https://www.hk01.com/article/60244068?utm_source=01articlecopy&utm_medium=referral	車禍
 2025-05-29	新北壽山路禁行大貨車 違規翻覆事故頻傳促啟動執法	https://www.tcpttw.com/police/2025/05/29/170139/	未分類
 2025-05-28	與金星共軌的隱藏小行星，對地球有撞擊威脅	https://technews.tw/2025/05/28/venus-co-orbital-asteroid-earth/	未分類
 2025-05-21	高雄兄弟吵架進警局！哥「詭躺斑馬線60秒」 遭輾斃驚悚畫面曝光	https://www.ettoday.net/news/20250521/2964209.htm	未分類
 2025-05-20	牛頭角老翁疑過7條行車線 遭九巴撞飛8米不治 車長涉危駕被捕	https://www.hk01.com/%E7%AA%81%E7%99%BC/60240290/%E7%89%9B%E9%A0%AD%E8%A7%92%E8%80%81%E7%BF%81%E7%96%91%E9%81%8E7%E6%A2%9D%E8%A1%8C%E8%BB%8A%E7%B7%9A-%E9%81%AD%E4%B9%9D%E5%B7%B4%E6%92%9E%E9%A3%9B8%E7%B1%B3%E4%B8%8D%E6%B2%BB-%E8%BB%8A%E9%95%B7%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95	未分類
 2025-05-08	大貨車撞護欄翻覆事故排除 國3苑裡段恢復暢通	https://news.ltn.com.tw/news/society/breakingnews/5036586	未分類
-2025-05-07	大埔公路奪命車禍｜教車師傅桃李滿門 遭Tesla撞斃 網民悼念	https://www.facebook.com/am730hk/posts/57歲貨車司機死亡北海道-交通意外-am730/1370538831780382/	未分類
+2025-05-07	大埔公路奪命車禍｜教車師傅桃李滿門 遭Tesla撞斃 網民悼念	https://www.facebook.com/am730hk/posts/57歲貨車司機死亡北海道-交通意外-am730/1370538831780382/	車禍
 2025-05-06	荃灣享和街20歲女乘客小巴上暈倒 送院搶救後回復清醒	https://www.hk01.com/article/60235925?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-05-04	啟德的士撞壆釀3傷 58歲男乘客重創昏迷 司機涉不小心駕駛被捕	https://www.hk01.com/article/60235323?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-05-02	小巴牌價｜最新報價30萬創新低 14年累跌96%蒸發「七球半」【5月2日更新】	https://hk.news.yahoo.com/%E5%B0%8F%E5%B7%B4%E7%89%8C%E5%83%B9-%E6%9C%80%E6%96%B0%E5%A0%B1%E5%83%B930%E8%90%AC%E5%89%B5%E6%96%B0%E4%BD%8E-14%E5%B9%B4%E7%B4%AF%E8%B7%8C96-%E8%92%B8%E7%99%BC-%E4%B8%83%E7%90%83%E5%8D%8A-084800695.html	未分類
@@ -1873,8 +1867,8 @@ var DATA_TRAFFIC = `
 2025-02-25	沙田八旬翁遭小巴撞斃 司機涉毒駕危駕被捕	https://www.am730.com.hk/本地/535815/沙田八旬翁遭小巴撞斃-司機涉毒駕危駕被捕	未分類
 2025-02-24	快訊／國1桃園翻覆事故！小客車自撞護欄衝下邊坡「車輛撞爛」	https://news.tvbs.com.tw/local/2789143	未分類
 2025-01-24	港婦小樽遭撞斃 居民批旅客打卡置於險境 亦有人嘆付出生命代價	https://www.hk01.com/article/1097170?utm_source=01articlecopy&utm_medium=referral	未分類
-2025-01-08	澳洲西部海域水上飛機墜毀 載多名外國年長遊客 3死3傷	http://www.hk01.com/article/1091970?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-11-23	開車載妻「遭重物砸扁」！丐幫第58 任幫主車禍亡直播瞬間中斷網嚇傻	https://www.setn.com/news/1568301	未分類
+2025-01-08	澳洲西部海域水上飛機墜毀 載多名外國年長遊客 3死3傷	http://www.hk01.com/article/1091970?utm_source=01articlecopy&utm_medium=referral	墜機
+2024-11-23	開車載妻「遭重物砸扁」！丐幫第58 任幫主車禍亡直播瞬間中斷網嚇傻	https://www.setn.com/news/1568301	車禍
 2024-11-16	有圖| 小西灣老婦被垃圾車捲入車底當場死亡- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/14249656860618/%E9%87%8D%E9%BB%9E%E6%96%B0%E8%81%9E-%E6%9C%89%E5%9C%96---%E5%B0%8F%E8%A5%BF%E7%81%A3%E8%80%81%E5%A9%A6%E8%A2%AB%E5%9E%83%E5%9C%BE%E8%BB%8A%E6%8D%B2%E5%85%A5%E8%BB%8A%E5%BA%95--%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1	未分類
 2024-11-15	柴湾有93岁婆婆遭垃圾车倒车撞毙 司机涉危驾被捕	https://news.tvb.com/sc/816071-柴湾有93岁婆婆遭垃圾车倒车撞毙司机涉危驾被捕	未分類
 2024-11-12	（有片）台中地下停車場意外！ 87歲失智翁找廁所誤入跌落機械停車位下方坑洞	https://www.tcpttw.com/other/other_local/2024/11/12/139320/	未分類
@@ -1883,10 +1877,10 @@ var DATA_TRAFFIC = `
 2024-10-14	快訊》國1驚傳貨櫃車翻覆事故 後方回堵約6公里塞爆	https://news.tw789.net/news-5985.html	未分類
 2024-10-10	任澤平在微博發文指：「信心牛的第一浪調整接近尾聲。堅定看牛市，千金難買牛回頭，倒車接人後再出發。」 A股｜任澤平言「開市即收市」 再爆金句：千金難買牛回頭	http://www.hk01.com/article/1065081?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-10-04	有片｜西貢牛牛「家慈」被綠的撞斃 義工當場痛哭情緒激動 - 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/14011037060361/重點新聞-有片-西貢牛牛-家慈-被綠的撞斃-義工當場痛哭情緒激動	未分類
-2024-09-23	司機駕車突發疾病失控 甘肅車禍釀3死7傷	https://www.hk01.com/article/1059834?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-09-22	港深西部公路車禍︱2的士司機家屬認屍神情哀傷 親友相擁痛哭	https://www.hk01.com/article/1059552?utm_source=01articlecopy&utm_medium=referral	未分類
+2024-09-23	司機駕車突發疾病失控 甘肅車禍釀3死7傷	https://www.hk01.com/article/1059834?utm_source=01articlecopy&utm_medium=referral	車禍
+2024-09-22	港深西部公路車禍︱2的士司機家屬認屍神情哀傷 親友相擁痛哭	https://www.hk01.com/article/1059552?utm_source=01articlecopy&utm_medium=referral	車禍
 2024-09-19	大埔林村男工遭3噸壓路機輾斃東主違安全法被判罰款| 討論牆	https://hk.on.cc/hk/bkn/cnt/news/20240919/bkn-20240919181342674-0919_00822_001.html	未分類
-2024-09-18	司機駕車突發疾病失控 甘肅車禍釀3死7傷	https://www.hk01.com/article/1058467?utm_source=01articlecopy&utm_medium=referral	未分類
+2024-09-18	司機駕車突發疾病失控 甘肅車禍釀3死7傷	https://www.hk01.com/article/1058467?utm_source=01articlecopy&utm_medium=referral	車禍
 2024-08-28	油塘高超道工人堵路追薪 來回全線封閉 巴士須改道	https://www.hk01.com/article/1052017?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-07-29	西班牙列車翻覆事故釀79死 鉅額賠償金額出爐	https://www.taiwantimes.com.tw/app-container/app-content/new/new-content-detail?blogId=blog-e420e110-a827-4434-bc74-e212d58ebe48&currentCategory=7	未分類
 2024-07-24	快訊／颱風天不平靜！國1內湖北上15.2K小客車翻覆 4人輕傷送醫 | 社會 | CTWANT	https://www.ctwant.com/article/351785/	未分類
@@ -1898,25 +1892,25 @@ var DATA_TRAFFIC = `
 2024-04-24	鑽石山校巴司機拍卡離停車場 意外跌出車外 遭溜前校巴輾過不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/1013423/%E9%91%BD%E7%9F%B3%E5%B1%B1%E6%A0%A1%E5%B7%B4%E5%8F%B8%E6%A9%9F%E6%8B%8D%E5%8D%A1%E9%9B%A2%E5%81%9C%E8%BB%8A%E5%A0%B4-%E6%84%8F%E5%A4%96%E8%B7%8C%E5%87%BA%E8%BB%8A%E5%A4%96-%E9%81%AD%E6%BA%9C%E5%89%8D%E6%A0%A1%E5%B7%B4%E8%BC%BE%E9%81%8E%E4%B8%8D%E6%B2%BB	未分類
 2024-04-24	影／攤販槓騎士不讓停車意外！反遭警打臉吞罰單| 時事	https://video.udn.com/news/1286930	未分類
 2024-04-18	女工遭運輸帶輾斷臂 美心脫罪	https://www.hk01.com/article/1011353?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-04-18	【奪命車禍】剛過60大壽 貨Van司機深水埗落貨 遭水車從後撞斃	https://hk.on.cc/hk/bkn/cnt/news/20240418/bkn-20240418034647562-0418_00822_001.html	未分類
+2024-04-18	【奪命車禍】剛過60大壽 貨Van司機深水埗落貨 遭水車從後撞斃	https://hk.on.cc/hk/bkn/cnt/news/20240418/bkn-20240418034647562-0418_00822_001.html	車禍
 2024-04-16	倒車撞死友人後離開 上水私家車司機折返酒精測試「爆錶」	https://hk.on.cc/hk/bkn/cnt/news/20240416/bkn-20240416083632723-0416_00822_001.html	未分類
 2024-03-26	台東執勤救護車翻覆事故 2人輕傷無大礙	https://news.ipcf.org.tw/118779	未分類
 2024-03-25	元朗山貝路專線小巴頭班車脫班 同事查看揭司機倒斃車內	https://www.hk01.com/article/1003784?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-03-18	馬亞木逝世｜擁逾600架小巴 高峰期旗下小巴牌照達50億元	https://www.hk01.com/article/1001656?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-03-17	私家車深水埗撞斃女途人案 男司機被控誤殺周一提堂	https://news.tvb.com/en/830489-私家車深水埗撞斃女途人案男司機被控誤殺周一提堂	未分類
 2024-03-12	康橋校車翻覆事故 侯友宜：孩子安全不容有過失	https://www.chinatimes.com/realtimenews/20240312002039-260402	未分類
-2024-02-27	79歲寶島歌王青山路邊暈倒 頭撞車頸椎骨裂送院急救	https://topick.hket.com/article/3713033?r=cpsdlc	未分類
+2024-02-27	79歲寶島歌王青山路邊暈倒 頭撞車頸椎骨裂送院急救	https://topick.hket.com/article/3713033?r=cpsdlc	車禍
 2024-02-21	小巴車主被Call Loan拖車 金管局：部分小巴經營者有意結束業務	https://www.hk01.com/article/993074?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-02-03	大角咀兩車燈位前相撞 客貨車司機車內昏迷送院	https://www.hk01.com/article/987707?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-02-01	潛在威脅小行星明晚飛近地球！大小約台北101 撞擊機率曝	https://news.nextapple.com/life/20240201/B0259AC7DA70BDD4FF115292E464BB98	未分類
 2024-01-30	跟101一樣大！小行星周五最接近地球 天文館：無撞擊威脅	https://www.ettoday.net/news/20240130/2674281.htm	未分類
 2024-01-30	直徑堪比101小行星2／2最近地球 北市天文館：無撞擊威脅	https://hakkanews.tw/2024/01/30/102679/	未分類
 2024-01-23	荃錦公路九巴與私家車相撞 初步21人受傷 7名乘客須送院治理	https://www.hk01.com/article/983651?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-01-23	寒流夜桃園自撞車禍！拖吊車司機心肌梗塞倒地 警消CPR搶回一命	https://www.ettoday.net/news/20240123/2669957.htm	未分類
-2024-01-19	49歲消防員邱耀文處理神奇道車禍期間猝逝 局長及處長哀悼	https://www.hk01.com/article/982790?utm_source=01articlecopy&utm_medium=referral	未分類
+2024-01-23	寒流夜桃園自撞車禍！拖吊車司機心肌梗塞倒地 警消CPR搶回一命	https://www.ettoday.net/news/20240123/2669957.htm	車禍
+2024-01-19	49歲消防員邱耀文處理神奇道車禍期間猝逝 局長及處長哀悼	https://www.hk01.com/article/982790?utm_source=01articlecopy&utm_medium=referral	車禍
 2024-01-16	元朗男子捱貨車撞斃命 司機涉危駕被捕	https://hk.on.cc/hk/bkn/cnt/news/20240116/bkn-20240116074604109-0116_00822_001.html	未分類
-2024-01-15	灣仔車禍│的士巴士相撞釀兩死 城巴：當時按照交通燈號指示行駛	https://www.hk01.com/article/981097?utm_source=01articlecopy&utm_medium=referral	未分類
-2024-01-15	灣仔兩死車禍│菲林明道有交通燈蓋黑膠袋 運輸署：為未啟用新燈	https://www.hk01.com/article/981103?utm_source=01articlecopy&utm_medium=referral	未分類
+2024-01-15	灣仔車禍│的士巴士相撞釀兩死 城巴：當時按照交通燈號指示行駛	https://www.hk01.com/article/981097?utm_source=01articlecopy&utm_medium=referral	車禍
+2024-01-15	灣仔兩死車禍│菲林明道有交通燈蓋黑膠袋 運輸署：為未啟用新燈	https://www.hk01.com/article/981103?utm_source=01articlecopy&utm_medium=referral	車禍
 2024-01-14	台61線伸港鄉路段砂石車翻覆事故 車體滑行百尺「宛如砂石瀑布」	https://www.watchmedia01.com/archives/304627	未分類
 2024-01-13	荃灣小巴撞欄剷上行人路 七旬司機不適送院	https://hk.on.cc/hk/bkn/cnt/news/20240113/bkn-20240113171535273-0113_00822_001.html	未分類
 2024-01-11	撿回收漢暈眩倒臥馬路 遭貨車輾斃	https://hk.on.cc/hk/bkn/cnt/cnnews/20240111/bkn-20240111070008100-0111_00952_001.html	未分類
@@ -1925,7 +1919,7 @@ var DATA_TRAFFIC = `
 2024-01-05	旺角巴士插欄擱壆傾側 車長頸痛送院	https://hk.on.cc/hk/bkn/cnt/news/20240105/bkn-20240105214506927-0105_00822_001.html	未分類
 2023-12-22	六旬司機猝死客貨車	https://news.mingpao.com/pns/港聞/article/20231222/s00002/1703182171175/六旬司機猝死客貨車	未分類
 2023-12-12	國4翻覆事故人慘噴車外！竟是車手逃警追捕釀禍 妹子慘遭詐40萬	https://news.nextapple.com/local/20231212/F833CB2EB57A91AE5113F175A0A49BA6	未分類
-2023-11-24	新北議員張嘉玲遇翻車車禍 頭部輕傷.右眼瘀青	https://www.ftvnews.com.tw/news/detail/2023B24S01M1	未分類
+2023-11-24	新北議員張嘉玲遇翻車車禍 頭部輕傷.右眼瘀青	https://www.ftvnews.com.tw/news/detail/2023B24S01M1	車禍
 2023-11-24	7旬女司機去食早餐 突頭暈泊車變踩油直撼餐廳 2食客捱撞斷腳骨	https://www.hk01.com/article/964276?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-11-20	葵涌有八旬翁被貨車撞斃 警方正調查事故原因	https://news.tvb.com/en/837204-葵涌有八旬翁被貨車撞斃警方正調查事故原因	未分類
 2023-11-05	宜蘭太平山遊覽車翻覆事故 張善政趕赴宜蘭探視傷者	https://news.ltn.com.tw/news/politics/breakingnews/4480900	未分類
@@ -1948,12 +1942,12 @@ var DATA_TRAFFIC = `
 2023-06-24	北市停車場意外連人帶車墜地下3樓受困搶救中| 社會	https://www.cna.com.tw/news/asoc/202306240210.aspx	未分類
 2023-06-11	天母停車場意外！ 孩童墜1.8公尺人孔蓋坑洞	https://news.ltn.com.tw/news/society/breakingnews/4330672	未分類
 2023-05-28	慎入有图丨黄紫恩街头晕倒 正面撼石屎地爆缸破相 - 东张+	https://www.mytvsuper.com/sc/scoopplus/entertainment/e-news/6877052695688/慎入有圖丨黃紫恩街頭暈倒-正面撼石屎地爆缸破相	未分類
-2023-03-22	恐怖奪命車禍！4長者去完親友喪禮 遭貨車猛撞同死 警調查內情	https://www.hk01.com/article/871354?utm_source=01articlecopy&utm_medium=referral	未分類
+2023-03-22	恐怖奪命車禍！4長者去完親友喪禮 遭貨車猛撞同死 警調查內情	https://www.hk01.com/article/871354?utm_source=01articlecopy&utm_medium=referral	車禍
 2023-03-14	觀塘游泳池男工檢查設施跣腳撼金屬物 頭傷清醒送院	https://www.hk01.com/article/876984?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-03-07	32歲騎士失控倒地！遭後方大車輾斃	https://tw.news.yahoo.com/32歲騎士失控倒地-遭後方大車輾斃-062311310.html	未分類
 2023-03-05	外送員自撞無外傷卻身亡 生前影像曝「左右晃三度停車」│TVBS新聞網	https://news.tvbs.com.tw/local/2059234	未分類
 2023-03-04	大澳巴士站私家車翻側 女司機一度被困手傷送院	https://www.hk01.com/article/873746?utm_source=01articlecopy&utm_medium=referral	未分類
-2023-03-02	MINI奧迪路口車禍波及路邊7機車 警發現一個酒駕一個擁槍毒	https://www.setn.com/news/1259321	未分類
+2023-03-02	MINI奧迪路口車禍波及路邊7機車 警發現一個酒駕一個擁槍毒	https://www.setn.com/news/1259321	車禍
 2023-02-25	「阿里山鄉民代表」梁宗賢疑酒駕 台18線自撞護欄身亡│TVBS新聞網	https://news.tvbs.com.tw/local/2052867	未分類
 2023-02-22	七旬婦提亡夫存款遭刁難 輾轉5日仍無果	https://hk.on.cc/hk/bkn/cnt/cnnews/20230222/bkn-20230222090038277-0222_00952_001.html	未分類
 2023-01-29	巴士尺寸小行星掠過地球 有紀錄以來最接近地表	https://hakkanews.tw/2023/01/29/50254/	未分類
@@ -1970,9 +1964,9 @@ var DATA_TRAFFIC = `
 2022-12-26	加拿大卑詩省巴士翻側4死52傷 原因是路面結冰？	https://www.hk01.com/article/850799?utm_source=01articlecopy&utm_medium=referral	未分類
 2022-12-26	(高慧君倒重摔留永久後遺症 頭部3骨折震撼)	https://udn.com/news/story/7320/6864857	未分類
 2022-12-20	五旬漢被判停牌當日駕電單車衝燈 涉三罪被捕	https://www.hk01.com/article/849139?utm_source=01articlecopy&utm_medium=referral	未分類
-2022-12-16	名醫車禍猝逝，親友病患痛心。	https://tw.news.yahoo.com/名醫車禍猝逝-親友病患痛心-070000727.html	未分類
-2022-12-16	名醫車禍猝逝 親友病患痛心	https://tw.news.yahoo.com/%E5%90%8D%E9%86%AB%E8%BB%8A%E7%A6%8D%E7%8C%9D%E9%80%9D-%E8%A6%AA%E5%8F%8B%E7%97%85%E6%82%A3%E7%97%9B%E5%BF%83-070000727.html	未分類
-2022-12-13	百萬網美「車禍突猝逝」！好友悲痛證實噩耗 得年21歲 ｜ 蕃新聞	https://n.yam.com/Article/20221213293829	未分類
+2022-12-16	名醫車禍猝逝，親友病患痛心。	https://tw.news.yahoo.com/名醫車禍猝逝-親友病患痛心-070000727.html	車禍
+2022-12-16	名醫車禍猝逝 親友病患痛心	https://tw.news.yahoo.com/%E5%90%8D%E9%86%AB%E8%BB%8A%E7%A6%8D%E7%8C%9D%E9%80%9D-%E8%A6%AA%E5%8F%8B%E7%97%85%E6%82%A3%E7%97%9B%E5%BF%83-070000727.html	車禍
+2022-12-13	百萬網美「車禍突猝逝」！好友悲痛證實噩耗 得年21歲 ｜ 蕃新聞	https://n.yam.com/Article/20221213293829	車禍
 2022-12-11	家門口前突暴衝！6旬男自撞花圃亡	https://tw.news.yahoo.com/%E5%AE%B6%E9%96%80%E5%8F%A3%E5%89%8D%E7%AA%81%E6%9A%B4%E8%A1%9D-6%E6%97%AC%E7%94%B7%E8%87%AA%E6%92%9E%E8%8A%B1%E5%9C%83%E4%BA%A1-093225333.html	未分類
 2022-12-05	爸開車上國道陷昏迷！兒轉方向盤停路肩求救│TVBS新聞網	https://news.tvbs.com.tw/local/1981292	未分類
 2022-11-23	黃大仙貨車與電單車相撞 鐵騎女乘客困車底昏迷送院亡	https://www.hk01.com/%E7%AA%81%E7%99%BC/839740/%E9%BB%83%E5%A4%A7%E4%BB%99%E8%B2%A8%E8%BB%8A%E8%88%87%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-%E9%90%B5%E9%A8%8E%E5%A5%B3%E4%B9%98%E5%AE%A2%E5%9B%B0%E8%BB%8A%E5%BA%95%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%BA%A1	未分類
@@ -1997,50 +1991,50 @@ var DATA_TRAFFIC = `
 2021-12-21	綠色專巴司機駛疑駕車時昏倒剷行人路司機亡	https://ms-my.facebook.com/GreatestTao/posts/8350127105012676	未分類
 2021-11-18	總覽●大圍翻九巴│88K線巴士疑行錯路急扭軚 撞壆翻側致1死11傷	https://www.hk01.com/%E7%AA%81%E7%99%BC/702534/%E7%B8%BD%E8%A6%BD-%E5%A4%A7%E5%9C%8D%E7%BF%BB%E4%B9%9D%E5%B7%B4-88k%E7%B7%9A%E5%B7%B4%E5%A3%AB%E7%96%91%E8%A1%8C%E9%8C%AF%E8%B7%AF%E6%80%A5%E6%89%AD%E8%BB%9A-%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4%E8%87%B41%E6%AD%BB11%E5%82%B7	未分類
 2021-11-18	中環德輔道中男子「楔車罅」過路 望左不望右遭巴士撞飛	https://www.hk01.com/%E7%AA%81%E7%99%BC/702345/%E4%B8%AD%E7%92%B0%E5%BE%B7%E8%BC%94%E9%81%93%E4%B8%AD%E7%94%B7%E5%AD%90-%E6%A5%94%E8%BB%8A%E7%BD%85-%E9%81%8E%E8%B7%AF-%E6%9C%9B%E5%B7%A6%E4%B8%8D%E6%9C%9B%E5%8F%B3%E9%81%AD%E5%B7%B4%E5%A3%AB%E6%92%9E%E9%A3%9B	未分類
-2021-10-31	彰化復康巴士車禍 造成車上老人1死4傷	https://www.peopo.org/news/438739	未分類
+2021-10-31	彰化復康巴士車禍 造成車上老人1死4傷	https://www.peopo.org/news/438739	車禍
 2021-10-07	新莊立體停車場意外工人遭配重塊砸到頭死亡| 社會	https://www.cna.com.tw/news/asoc/202110070082.aspx	未分類
 2021-09-10	上環皇后街有六旬婦被的士撞斃 司機涉危駕被捕	https://news.tvb.com/sc/890439-上環皇后街有六旬婦被的士撞斃司機涉危駕被捕	未分類
 2021-09-09	下白泥運泥車失控翻側 男工連人帶車墮斜坡 送院後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/674569/%E4%B8%8B%E7%99%BD%E6%B3%A5%E9%81%8B%E6%B3%A5%E8%BB%8A%E5%A4%B1%E6%8E%A7%E7%BF%BB%E5%81%B4-%E7%94%B7%E5%B7%A5%E9%80%A3%E4%BA%BA%E5%B8%B6%E8%BB%8A%E5%A2%AE%E6%96%9C%E5%9D%A1-%E9%80%81%E9%99%A2%E5%BE%8C%E4%B8%8D%E6%B2%BB	未分類
 2021-08-17	滅絕恐龍的撞擊物可能來自外小行星帶	https://technews.tw/2021/08/17/kill-the-dinosaur-stuff-may-come-from-outside-the-asteroid-belt/	未分類
-2021-06-23	十次車禍九次快 彰化貨車撞機車釀2死悲劇	https://www.peopo.org/news/473949	未分類
+2021-06-23	十次車禍九次快 彰化貨車撞機車釀2死悲劇	https://www.peopo.org/news/473949	車禍
 2021-05-16	大貨車國道翻覆肇事最主要原因曝 事故處理平均得耗時144分	https://www.ettoday.net/news/20210516/1980958.htm	未分類
 2021-03-11	人夫硬拖墜軌雙雙輾斃 小三死前淒厲慘叫「不要」	https://www.setn.com/news/908252	未分類
 2021-01-06	筲箕灣八旬老婦遭城巴撞斃司機涉危駕引致他人死亡被捕| 討論牆	https://www.stheadline.com/article/2085269/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%85%AB%E6%97%AC%E8%80%81%E5%A9%A6%E9%81%AD%E5%9F%8E%E5%B7%B4%E6%92%9E%E6%96%83-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%BC%95%E8%87%B4%E4%BB%96%E4%BA%BA%E6%AD%BB%E4%BA%A1%E8%A2%AB%E6%8D%95	未分類
 2020-10-19	普悠瑪翻覆事故調查重啟 運安會揪台鐵50項直接肇因 | 社會 | CTWANT	https://www.ctwant.com/article/79352/	未分類
 2020-10-15	美國大選前一天小行星將撞地球？BBC揭真相：「撞擊機率僅0.41％，威力小到不足弄亂川普頭髮」 | BBC News 中文 | 新聞	https://www.storm.mg/article/3112820	未分類
-2020-09-22	奪命車禍｜35歲男死者昨生日 與友人聚會後出事 遺下3年幼子女	https://www.hk01.com/%E7%AA%81%E7%99%BC/526890/%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-35%E6%AD%B2%E7%94%B7%E6%AD%BB%E8%80%85%E6%98%A8%E7%94%9F%E6%97%A5-%E8%88%87%E5%8F%8B%E4%BA%BA%E8%81%9A%E6%9C%83%E5%BE%8C%E5%87%BA%E4%BA%8B-%E9%81%BA%E4%B8%8B3%E5%B9%B4%E5%B9%BC%E5%AD%90%E5%A5%B3	未分類
+2020-09-22	奪命車禍｜35歲男死者昨生日 與友人聚會後出事 遺下3年幼子女	https://www.hk01.com/%E7%AA%81%E7%99%BC/526890/%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-35%E6%AD%B2%E7%94%B7%E6%AD%BB%E8%80%85%E6%98%A8%E7%94%9F%E6%97%A5-%E8%88%87%E5%8F%8B%E4%BA%BA%E8%81%9A%E6%9C%83%E5%BE%8C%E5%87%BA%E4%BA%8B-%E9%81%BA%E4%B8%8B3%E5%B9%B4%E5%B9%BC%E5%AD%90%E5%A5%B3	車禍
 2020-09-20	16歲學生涉去年旺角按下巴士死火掣 被判80小時社服令	https://news.tvb.com/tc/915905-16歲學生涉去年旺角按下巴士死火掣被判80小時社服令	未分類
 2020-07-22	距今4.4億年｜貴州建停車場意外挖到化石群 有八門類古生物化石	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/501240/%E8%B7%9D%E4%BB%8A4-4%E5%84%84%E5%B9%B4-%E8%B2%B4%E5%B7%9E%E5%BB%BA%E5%81%9C%E8%BB%8A%E5%A0%B4%E6%84%8F%E5%A4%96%E6%8C%96%E5%88%B0%E5%8C%96%E7%9F%B3%E7%BE%A4-%E6%9C%89%E5%85%AB%E9%96%80%E9%A1%9E%E5%8F%A4%E7%94%9F%E7%89%A9%E5%8C%96%E7%9F%B3	未分類
 2020-06-19	男子深水灣疑遭快艇撞斃 據悉男子當時於附近潛水	https://news.tvb.com/sc/923815-男子深水灣疑遭快艇撞斃據悉男子當時於附近潛水	未分類
-2019-12-18	【九巴奪命車禍】978線九巴粉嶺公路撞欄 樹枝劏車頂 六死39傷	https://www.hk01.com/%E7%AA%81%E7%99%BC/411469/%E4%B9%9D%E5%B7%B4%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-978%E7%B7%9A%E4%B9%9D%E5%B7%B4%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E6%92%9E%E6%AC%84-%E6%A8%B9%E6%9E%9D%E5%8A%8F%E8%BB%8A%E9%A0%82-%E5%85%AD%E6%AD%BB39%E5%82%B7	未分類
+2019-12-18	【九巴奪命車禍】978線九巴粉嶺公路撞欄 樹枝劏車頂 六死39傷	https://www.hk01.com/%E7%AA%81%E7%99%BC/411469/%E4%B9%9D%E5%B7%B4%E5%A5%AA%E5%91%BD%E8%BB%8A%E7%A6%8D-978%E7%B7%9A%E4%B9%9D%E5%B7%B4%E7%B2%89%E5%B6%BA%E5%85%AC%E8%B7%AF%E6%92%9E%E6%AC%84-%E6%A8%B9%E6%9E%9D%E5%8A%8F%E8%BB%8A%E9%A0%82-%E5%85%AD%E6%AD%BB39%E5%82%B7	車禍
 2019-10-17	祖孫遭輾斃／資優女命喪輪下 外公淚喊「幸福的家庭毀了」	https://www.setn.com/news/619734	未分類
 2019-05-03	小行星死神奔地球撞擊逾11萬倍原子彈威力- 生活	https://www.chinatimes.com/realtimenews/20190503003118-260405	未分類
 2019-03-06	六旬小巴司機撞斃老婦罪成 判囚兩個月緩刑一年	https://news.tvb.com/en/966556-六旬小巴司機撞斃老婦罪成判囚兩個月緩刑一年	未分類
 2019-02-20	慟！疑謝政鵬女友遭公車輾斃 臉書po親密合照放閃	https://www.setn.com/news/501143	未分類
 2019-01-26	揪心！男友軍訓被輾斃 女星詭異發文後…曝「已成馮太太」	https://www.setn.com/news/491203	未分類
-2019-01-09	心急父載發燒兒就醫 路口遇車禍…昏頭衝對向波及騎士	https://www.setn.com/news/482491	未分類
-2018-12-13	每年135萬人死於車禍！這項交通工具最危險	https://autos.yahoo.com.tw/news/每年135萬人死於車禍-這項交通工具最危險-061614331.html	未分類
+2019-01-09	心急父載發燒兒就醫 路口遇車禍…昏頭衝對向波及騎士	https://www.setn.com/news/482491	車禍
+2018-12-13	每年135萬人死於車禍！這項交通工具最危險	https://autos.yahoo.com.tw/news/每年135萬人死於車禍-這項交通工具最危險-061614331.html	車禍
 2018-10-23	1年釀8起翻覆事故！逾25年吊車定期效期縮至1年 新制2019上路	https://finance.ettoday.net/news/1288341	未分類
 2018-10-22	普悠瑪列車翻覆：事故原因仍在調查，但司機曾回報「煞車力不足」	https://www.thenewslens.com/article/106519	未分類
 2018-10-22	台鐵過去40年翻覆事故 最嚴重31死	https://www.ntdtv.com.tw/b5/20181022/video/232386.html?%E5%8F%B0%E9%90%B5%E9%81%8E%E5%8E%BB40%E5%B9%B4%E7%BF%BB%E8%A6%86%E4%BA%8B%E6%95%85%20%E6%9C%80%E5%9A%B4%E9%87%8D31%E6%AD%BB	未分類
 2018-10-22	【普悠瑪翻覆】事故當時監視器曝光 列車疑鐵軌錯位翻車	https://www.mirrormedia.mg/story/20181022soc002	未分類
 2018-10-21	普悠瑪翻覆事故已知18死164人傷| TVBS	https://today.line.me/tw/v3/article/vzQkEo	未分類
-2018-10-21	台灣普悠瑪列車出軌翻覆事故 致17死30余傷--台灣頻道--人民網	http://tw.people.com.cn/BIG5/n1/2018/1021/c14657-30353615.html	未分類
+2018-10-21	台灣普悠瑪列車出軌翻覆事故 致17死30余傷--台灣頻道--人民網	http://tw.people.com.cn/BIG5/n1/2018/1021/c14657-30353615.html	火車出軌
 2018-08-12	從巴士翻覆事故幸存卻脊損 他選「心愛」鬥士展自信	https://news.ltn.com.tw/news/life/breakingnews/2517145	未分類
 2018-06-26	大逆轉！護專女學生遭水泥預拌車輾斃疑捐血後頭暈| 討論牆	https://today.line.me/tw/v3/article/O1j7JD	未分類
 2018-02-10	巴士翻側意外警方公布18人死 九巴高層道歉	https://www.am730.com.hk/本地/103975/巴士翻側意外警方公布18人死-九巴高層道歉	未分類
-2018-02-10	大埔公路車禍增至19死66傷 涉事巴士拖至大欖涌扣車中心調查	https://news.tvb.com/tc/993580-大埔公路車禍增至19死66傷涉事巴士拖至大欖涌扣車中心調查	未分類
+2018-02-10	大埔公路車禍增至19死66傷 涉事巴士拖至大欖涌扣車中心調查	https://news.tvb.com/tc/993580-大埔公路車禍增至19死66傷涉事巴士拖至大欖涌扣車中心調查	車禍
 2018-01-19	橫瀾島以東有大陸漁船與帆船相撞 漁船一船員死亡	https://news.tvb.com/en/995171-橫瀾島以東有大陸漁船與帆船相撞漁船一船員死亡	未分類
 2018-01-10	沙田有電單車失事翻側 司機受傷送院	https://news.tvb.com/en/995813-沙田有電單車失事翻側司機受傷送院	未分類
 2017-12-24	貪快險喪命！老翁違規穿越分隔島遭撞昏倒險遭輾| 社會	https://www.setn.com/news/328878	未分類
 2017-09-01	影／當場昏迷！西班牙「奔球節」出意外遊客遭巨球撞飛| 國際	https://www.setn.com/news/289129	未分類
 2017-08-15	巴黎疑自杀者开宝马撞死女童	https://news.ifeng.com/c/7faWxx5H2Ra	未分類
-2017-07-19	旺角發生致命車禍 八旬翁遭客貨車撞斃	https://news.tvb.com/en/1008327-旺角發生致命車禍八旬翁遭客貨車撞斃	未分類
+2017-07-19	旺角發生致命車禍 八旬翁遭客貨車撞斃	https://news.tvb.com/en/1008327-旺角發生致命車禍八旬翁遭客貨車撞斃	車禍
 2017-07-13	男子撞斃電單車司機威脅他人助逃走 囚40個月	https://news.tvb.com/sc/1008848-男子撞斃電單車司機威脅他人助逃走囚40個月	未分類
 2017-06-07	屯門對出海面2船相撞 1人受傷送院	https://www.am730.com.hk/本地/127783/屯門對出海面2船相撞-1人受傷送院	未分類
 2017-02-16	國道遊覽車翻覆事故：我們過去能平安返家，是幸運還是僥倖？	https://www.thenewslens.com/article/61639	未分類
 2016-11-06	韓國遊覽車翻覆事故至少4人罹難- 國際	https://www.chinatimes.com/realtimenews/20161106002768-260408	未分類
-2016-07-07	疑自駕系統失靈！Tesla 又傳車禍翻覆事故	https://auto.ltn.com.tw/news/5776	未分類
+2016-07-07	疑自駕系統失靈！Tesla 又傳車禍翻覆事故	https://auto.ltn.com.tw/news/5776	車禍
 2016-07-04	脫歐撼經濟！英國擬砍企業稅強化與中國關係| 財經	https://www.setn.com/news/161160	未分類
-2015-03-12	葵涌車禍兩國泰機師亡 警循多方向調查	https://news.tvb.com/en/1067656-葵涌車禍兩國泰機師亡警循多方向調查	未分類
+2015-03-12	葵涌車禍兩國泰機師亡 警循多方向調查	https://news.tvb.com/en/1067656-葵涌車禍兩國泰機師亡警循多方向調查	車禍
 `;
