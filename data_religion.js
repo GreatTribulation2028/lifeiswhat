@@ -39,7 +39,7 @@ var DATA_RELIGION = `
 2026-07-18	陸《達人秀》選手淪邪教主！涉殺70歲女信徒 紐國法院判罪成	https://ctinews.com/news/items/9pWzQX2pnv	未分類
 2026-07-17	上海「噴水人像」宛如邪教儀式！網嚇瘋驚呼： 誤闖冥界	https://www.bastillepost.com/hongkong/article/16376353-%E4%B8%8A%E6%B5%B7%E3%80%8C%E5%99%B4%E6%B0%B4%E4%BA%BA%E5%83%8F%E3%80%8D%E5%AE%9B%E5%A6%82%E9%82%AA%E6%95%99%E5%84%80%E5%BC%8F%EF%BC%81%E7%B6%B2%E5%9A%87%E7%98%8B%E9%A9%9A%E5%91%BC%EF%BC%9A%E8%AA%A4	未分類
 2026-07-16	中共升級鎮壓神韻 美前宗教自由大使籲多國積極反制	https://hk.epochtimes.com/news/2026-07-16/71048570	未分類
-2026-07-10	美智庫：金明日獲釋後 中共未放鬆宗教迫害	https://hk.epochtimes.com/news/2026-07-10/1454387	未分類
+2026-07-10	美智庫：金明日獲釋後 中共未放鬆宗教迫害	https://hk.epochtimes.com/news/2026-07-10/1454387	信仰迫害
 2026-07-10	宗教人士：中共政治整肅、監視入侵教堂	https://hk.epochtimes.com/news/2026-07-10/35746770	未分類
 2026-07-08	邪教打死女信徒！母想救雙胞胎女兒脫離組織 「聖師」控她誣告被駁回	https://udn.com/news/story/7321/9614208	未分類
 2026-07-08	利雅得首次被美国列入侵犯宗教自由黑名单	https://www.asianews.it/zh/middle-east/saudi-arabia/利雅得首次被美国列入侵犯宗教自由黑名单	未分類
@@ -123,7 +123,7 @@ var DATA_RELIGION = `
 2026-02-24	葉日武觀點： 宗教與民俗信仰不是你們鎮壓異己的工具	https://www.storm.mg/article/11104928	未分類
 2026-02-24	9大國運籤一次看！好壞摻半 神明示警「謹慎行事防天災地變」	https://udn.com/news/amp/story/7268/9340821	未分類
 2026-02-24	1992年來最分化！美股風格切換逼近臨界點 科技巨頭遭拋售 輝達能否穩住AI信仰？	https://news.cnyes.com/news/id/6350030	未分類
-2026-02-22	傅希秋博士将现身东京！幸福実現党2/23举办国际论坛，揭露中国宗教迫害真相	https://www.chinaaid.net/2026/02/223.html	未分類
+2026-02-22	傅希秋博士将现身东京！幸福実現党2/23举办国际论坛，揭露中国宗教迫害真相	https://www.chinaaid.net/2026/02/223.html	信仰迫害
 2026-02-12	美前特派大使：中共迫害信仰是「向神宣戰」	https://www.epochtimes.com/b5/26/2/12/n14696445.htm	未分類
 2026-01-20	原中央防范和處理邪教問題領導小組辦公室副主任高以忱嚴重違紀違法 開除黨籍	https://www.orangenews.hk/china/V8oDq28/%E5%8E%9F%E4%B8%AD%E5%A4%AE%E9%98%B2%E8%8C%83%E5%92%8C%E8%99%95%E7%90%86%E9%82%AA%E6%95%99%E5%95%8F%E9%A1%8C%E9%A0%98%E5%B0%8E%E5%B0%8F%E7%B5%84%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%89%AF%E4%B8%BB%E4%BB%BB%E9%AB%98%E4%BB%A5%E5%BF%B1%E5%9A%B4%E9%87%8D%E9%81%95%E7%B4%80%E9%81%95%E6%B3%95-%E9%96%8B%E9%99%A4%E9%BB%A8%E7%B1%8D.shtml	未分類
 2026-01-15	被控邪教驅魔「拍痧板打死女教友」 二審大逆轉！6人無罪變7年徒刑	https://tw.news.yahoo.com/%E8%A2%AB%E6%8E%A7%E9%82%AA%E6%95%99%E9%A9%85%E9%AD%94-%E6%8B%8D%E7%97%A7%E6%9D%BF%E6%89%93%E6%AD%BB%E5%A5%B3%E6%95%99%E5%8F%8B-%E4%BA%8C%E5%AF%A9%E5%A4%A7%E9%80%86%E8%BD%89-6%E4%BA%BA%E7%84%A1%E7%BD%AA%E8%AE%8A7%E5%B9%B4%E5%BE%92%E5%88%91-081250099.html	未分類
@@ -147,14 +147,14 @@ var DATA_RELIGION = `
 2025-02-13	公安部整治邪教 嚴厲打擊藉「靈修」等名義從事非法培訓活動	https://www.hk01.com/article/1103041?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-01-17	浙江再拆十字架 三自教會分裂 | 鄒思聰 | 風生活	https://www.storm.mg/lifestyle/38771	未分類
 2024-11-25	教派衝突釀至少82死 政府調停達成停火7天	http://hk.on.cc/hk/bkn/cnt/intnews/20241125/bkn-20241125060525253-1125_00992_001.html	未分類
-2024-04-23	以色列什麼時候宰殺紅母牛？檢驗宗教預言	https://rgkarmch-org.translate.goog/when-will-israel-slaughter-the-red-heifer/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp#google_vignette	未分類
+2024-04-23	以色列什麼時候宰殺紅母牛？檢驗宗教預言	https://rgkarmch-org.translate.goog/when-will-israel-slaughter-the-red-heifer/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp#google_vignette	紅母牛
 2024-04-15	38歲山豬猝死！Joeman曾一起穿女僕裝 淚崩哀悼「他教會我很多」	https://tw.news.yahoo.com/38歲山豬猝死-joeman曾-起穿女僕裝-淚崩哀悼-他教會我很多-092004114.html	未分類
 2023-08-27	据该办法《宗教場所管理辦法》第五十八條 第（六）項，「制止非法宗教活動和邪教活動，抵制宗教極端思想，防範境外勢力利用宗教進行滲透。」 中共新宗教活動管理法將上路 律師：違反憲法	https://www.epochtimes.com/b5/23/8/25/n14061325.htm	未分類
 2022-07-31	姚淳耀新劇飾演邪教教主 與炎亞綸上演男男擦澡戲份 - 東張+	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/5466729365453/%E5%A7%9A%E6%B7%B3%E8%80%80%E6%96%B0%E5%8A%87%E9%A3%BE%E6%BC%94%E9%82%AA%E6%95%99%E6%95%99%E4%B8%BB-%E8%88%87%E7%82%8E%E4%BA%9E%E7%B6%B8%E4%B8%8A%E6%BC%94%E7%94%B7%E7%94%B7%E6%93%A6%E6%BE%A1%E6%88%B2%E4%BB%BD	未分類
 2022-07-17	以貧窮和疾病為號召！盤點11個歷史上的「新興宗教」， 統一教資歷竟然最淺	https://www.storm.mg/lifestyle/4426237	未分類
 2022-05-18	俄羅斯東正教牧首支持出兵烏克蘭，引發教會分裂危機，教宗方濟各：不要淪為普亭的「輔祭男童」	https://www.thenewslens.com/article/167002	未分類
 2021-12-05	要聞解說 - 拉近與東正教的距離 方濟各：要探訪“所有人，不只是天主教徒”	https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E8%A6%81%E8%81%9E%E8%A7%A3%E8%AA%AA/20211205-%E6%8B%89%E8%BF%91%E8%88%87%E6%9D%B1%E6%AD%A3%E6%95%99%E7%9A%84%E8%B7%9D%E9%9B%A2-%E6%96%B9%E6%BF%9F%E5%90%84-%E8%A6%81%E6%8E%A2%E8%A8%AA-%E6%89%80%E6%9C%89%E4%BA%BA%EF%BC%8C%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%A4%A9%E4%B8%BB%E6%95%99%E5%BE%92	未分類
-2021-05-13	美國務卿布林肯報告「譴責中國宗教迫害」 再增制裁官員	https://www.setn.com/news/938410	未分類
+2021-05-13	美國務卿布林肯報告「譴責中國宗教迫害」 再增制裁官員	https://www.setn.com/news/938410	信仰迫害
 2021-05-12	為什麼佛教徒要攻擊其他宗教	https://dq.yam.com/post/996	未分類
 2020-10-27	中國迫害佛教、基督教徒…美國不忍了：對信仰開戰不會得勝	https://www.setn.com/news/838290	未分類
 2019-09-25	齊齊哈爾主教：地下教會失存在意義	https://orientaldaily.on.cc/cnt/china_world/20190925/mobile/odn-20190925-0925_00178_007.html	未分類
