@@ -1,5 +1,6 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 503 條
+// AI安全 | 由 build_news_js.py 生成 | 共 504 條
 var DATA_AI_SAFETY = `
+2026-10-10	據報OpenAI及Anthropic推演AI重大事故 AI網路攻擊恐致銀行、電力供應癱瘓 最快半年內出現	https://news.google.com/rss/articles/CBMi5gNBVV95cUxNNzFVRDc4T3lYcDJQYllDbTNrM3BqTXFVdGIwSWlLN2NSSU5oemhQU0diSXhIQnFsanU2VUJ6Y05ndmVuWWhXYkpYVVpSYndBY1pQTzdYaVpHQU82RmFlbDVUZ2xJNDljNnozeXBtdzA3TGd2S2V2Tl9GT3Q3ZFIxLVJOclZrTEVEcmZiblVBZlhXTU1NemFaRGthcFFGVXRlbzhJdy1IemhkNzJyUUJvcmVfOTJqVVBOWFlnQ25nTlB6SUFKOWt5TU45alVoWExQTThkUjYtRThEb3kySDhWT0NmY2d2UWxLNDNUbjJuQ1JCX3NVZFVjR0o1a1ZiT2NoSGdWazZQQlgyWFNneGw5dWRxZXRLSS1EcFVBUFFWMGFZNlZ0Z3FxaXMyeFFEdmV5QmgtMVdlMFdvRE5pMEtFS3JNVXRpVHVwNUtlZFpxQXJ4RWNBeDRsUDUxRDNSSXZESm5wSDNrTVdoUDZxd05xN19fNmhCMTdxRVd0LVZhYTZhd3B4TWFISDBMNElyQW5MYk1ValVEdU1UMU5FWGVNbnpNbU56QkpUaXUtN0RIXzZUdlZrNTdWeE9oNTY3QjdJcFQ4OHlNVG9LYWhXNjFxUDhyVlF3SGIzUmNEVEVhdEhURTNCTlE?oc=5	未分類
 2026-10-07	亞利桑那州法院系統遭網絡攻擊 超過百萬人資料被盜	https://www.bastillepost.com/hongkong/article/16921580-%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%E6%B3%95%E9%99%A2%E7%B3%BB%E7%B5%B1%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E8%B6%85%E9%81%8E%E7%99%BE%E8%90%AC%E4%BA%BA%E8%B3%87%E6%96%99%E8%A2%AB	未分類
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://tchina.kyodonews.net/articles/-/14296	未分類
 2026-10-01	惡意軟件 CloudSyncD 以 Zoom 安裝程式為掩護進行資訊竊取	https://www.techritual.com/2026/10/01/587285/	未分類
