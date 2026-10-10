@@ -1,4 +1,4 @@
-// 天災 | 由 build_news_js.py 生成 | 共 3770 條
+// 天災 | 由 build_news_js.py 生成 | 共 3772 條
 var DATA_DISASTER = `
 2026-10-07	道奇4局背靠背雙轟炸塞爾！37歲飆100英里寫紀錄 睽違3個月挨2轟	https://sports.ettoday.net/news/3250337	未分類
 2026-10-07	美期中選舉後加大打擊？ 范斯：伊朗想停戰須實質削減濃縮鈾	https://www.ettoday.net/news/20261007/3250327.htm	未分類
@@ -481,6 +481,7 @@ var DATA_DISASTER = `
 2026-09-02	必勝客力邀百位阿嬤聯名！端出台式經典拿手菜「蛤蜊絲瓜火山起司餅皮」限時開吃！	https://n.yam.com/Article/20260902367495	未分類
 2026-09-02	徐暐翔9/11發行新專輯《愛火山的人》！宣布11/8台北Legacy開唱	https://benlinmarketing.com/2026/09/02/vash26/	未分類
 2026-09-02	尖沙咀男子報稱遇劫受傷送院警列襲擊案調查- 港聞	https://www.dotdotnews.com/a/202609/02/AP6a97953ee4b02724bdb3290a.html	未分類
+2026-09-02	土耳其總統埃爾多安：非洲的糧食危機再次浮現，我們應主動採取措施，以防問題進一步升級。	https://news.google.com/rss/articles/CBMinAFBVV95cUxQOW5mdnpVUWdTeTZYbzJDM2lLdi12RHNLRVFIb2hVVEtiSF8ydXlkV2ZYSzVaVzlVT0IzeXAwM29peDBjemZuM3g2X3hoZjNaam1qYVVZeFJTaDlheE1yRHMtSzFtSnFpYmRvS095c0VuLU5qTnlfVE1QUzkwcnlMRWYzblVodXFzR2RzMEItTWkzT2RwQVhLSUFTMFg?oc=5	未分類
 2026-09-02	印度谴责巴基斯坦拆除一座百年印度教寺庙的行为	https://www.arch-web.com.tw/综合新闻/印度谴责巴基斯坦拆除一座百年印度教寺庙的行为/685857/	未分類
 2026-09-02	伊朗襲擊美軍基地 川普下令開火 打擊革命衛隊	https://www.ntdtv.com/gb/2026/09/02/a104129259.html	未分類
 2026-09-02	以巴衝突｜以軍空襲加沙至少5死 停火協議有名無實	https://www.am730.com.hk/國際/1050619/以巴衝突-以軍空襲加沙至少5死-停火協議有名無實	未分類
@@ -601,6 +602,7 @@ var DATA_DISASTER = `
 2026-08-27	聖嬰現象引發中美洲乾旱危機 巴拿馬運河9月起減少船隻通行	https://tw.news.yahoo.com/聖嬰現象引發中美洲乾旱危機-巴拿馬運河9月起減少船隻通行-043445262.html	未分類
 2026-08-27	紅雨｜將軍澳舢舨六旬漁民暈倒送院亡 疑曾遭雷電擊中（更新） 今日（27日）清晨5時05分，天文台於發出紅色暴雨警告，其後於早上9時20分改發黃色暴雨警告。早上9時14分，紅色暴雨警告生效期間，一名男子於將軍澳跨灣大橋橋底的一艘...	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1049770/%E7%B4%85%E9%9B%A8-%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%88%A2%E8%88%A8%E5%85%AD%E6%97%AC%E6%BC%81%E6%B0%91%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E7%96%91%E6%9B%BE%E9%81%AD%E9%9B%B7%E9%9B%BB%E6%93%8A%E4%B8%AD-%E6%9B%B4%E6%96%B0-	未分類
 2026-08-27	紅雨．有片｜將軍澳舢舨上六旬漁民暈倒送院亡 目擊者：冇晒知覺 天文台於今日（27日）清晨5時05分發出紅色暴雨警告，其後於早上9時20分改發黃色暴雨警告。在紅色暴雨警告生效期間，有人在船上暈倒。今早9時14分，	https://www.hk01.com/%E7%AA%81%E7%99%BC/60384073/%E7%B4%85%E9%9B%A8-%E6%9C%89%E7%89%87-%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%88%A2%E8%88%A8%E4%B8%8A%E5%85%AD%E6%97%AC%E6%BC%81%E6%B0%91%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%86%87%E6%99%92%E7%9F%A5%E8%A6%BA	未分類
+2026-08-27	紅雨停課│尼泊爾泥石流引關注！與山泥傾瀉有何分別？附防災指南	https://news.google.com/rss/articles/CBMimANBVV95cUxQZmVibE1OQ1JlV2d5M3ZQeVhHWlRkQ1U0aGFJenlGaS1yQWdSS3Qxd3Jld3RsamluOVVhaVN1T3lwcVBQbXJrRVRUWnU0TkF0U3VZdm83VGJlamJtOUNDU2pJNThCTGRrcGFkN2tZd29VQTZNdG5wb3BlQllqOThWS0ROcWcyY1VTV3BFb0hXMHkxWk9UczE3eDdSLXExY2dGLTY0MUJocTJ5bi0wdHNKbWg4NllBN0c1eUUwdVRka3lzdG84ZFVGRF9EODN1aEJON1BZbVpBZEJOOVF5WHZfRnE1SkEwcjVtY1R6akUwRW1wOXpqeExmNmdOaXZ0c1dKZlFia0dwckdIWEVzU2szMEF1VzFYc0NmNV9seXREeEpQMGtWdnN4VWpsWjJTN2VUMkwzc1VLeTEtMnFrSVNaWGl2ekdNaGFBckFDUGxLX1VRcVRaeERKMWxBOVRoZzhvZWlzLVlpaTVWYVNnWHFGak9wS3Nob2gxVHFHaFN0TUhObzg0ZTBzTk1rRkVfN1NhbjliX3lsV0w?oc=5	未分類
 2026-08-27	男子紅雨期間疑遭雷擊昏迷船上死亡 醫生指電流雖龐大及時急救仍有生機 今日天氣不穩，紅色暴雨警告生效逾四小時，期間將軍澳一個男人懷疑在舢舨上遭到雷擊死亡。從網上片段見到，一艘舢舨在將軍澳跨灣大橋海面漂流。時間是早上約九時，...	https://news.tvb.com/tc/1191738-%E7%94%B7%E5%AD%90%E7%B4%85%E9%9B%A8%E6%9C%9F%E9%96%93%E7%96%91%E9%81%AD%E9%9B%B7%E6%93%8A%E6%98%8F%E8%BF%B7%E8%88%B9%E4%B8%8A%E6%AD%BB%E4%BA%A1%E9%86%AB%E7%94%9F%E6%8C%87%E9%9B%BB%E6%B5%81%E9%9B%96%E9%BE%90%E5%A4%A7%E5%8F%8A%E6%99%82%E6%80%A5%E6%95%91%E4%BB%8D%E6%9C%89%E7%94%9F%E6%A9%9F	未分類
 2026-08-27	洪水瞬間吞沒房屋 尼泊爾男卡芒果樹逃生（多視頻） | 泥石流 | 吉隆口岸 | 洪水沖走 | 新唐人电视台	https://www.ntdtv.com/b5/mkt_ipad/2026/08/27/a104127689.html	未分類
 2026-08-27	波斯尼亞塞族前將領姆拉迪奇逝世 被指內戰期間策動大屠殺	https://news.tvb.com/tc/1191813-%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9E%E5%A1%9E%E6%97%8F%E5%89%8D%E5%B0%87%E9%A0%98%E5%A7%86%E6%8B%89%E8%BF%AA%E5%A5%87%E9%80%9D%E4%B8%96%E8%A2%AB%E6%8C%87%E5%85%A7%E6%88%B0%E6%9C%9F%E9%96%93%E7%AD%96%E5%8B%95%E5%A4%A7%E5%B1%A0%E6%AE%BA	未分類
