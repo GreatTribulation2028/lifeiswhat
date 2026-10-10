@@ -331,6 +331,34 @@ async function loadAll(){
     document.getElementById('dateRange').textContent='無資料';
     return;
   }
+  // ★★★ URL 修復：data_today.js 只有 date\ttitle\tsub，URL 喺 data_urls.js
+  // data_urls.js 格式：date\thttps://...（冇 title，唔能usive 精確匹配）
+  // → 用 date 池輪流分配；同日多於一條靠出現次序估算
+  try{
+    await loadScript('data_urls.js?v='+v, 5000);
+  }catch(e){}
+  if(window.DATA_URLS&&window.DATA_URLS.trim()){
+    const urlMap={}; // date → [url1, url2, ...]
+    window.DATA_URLS.trim().split('\n').forEach(line=>{
+      line=line.trim();if(!line)return;
+      const sp=line.split('\t');
+      if(sp.length<2)return;
+      const d=sp[0].trim();
+      const u=(sp[1]||'').trim();
+      if(d&&u){if(!urlMap[d])urlMap[d]=[];urlMap[d].push(u);}
+    });
+    // 應用到 all：每個 date 池輪流分配（index % len 原則）
+    const urlIdx={};
+    all.forEach(e=>{
+      if(e.url)return; // 已有URL（少數自帶）唔Override
+      const arr=urlMap[e.date];
+      if(arr&&arr.length){
+        const idx=(urlIdx[e.date]||0)%arr.length;
+        e.url=arr[idx];
+        urlIdx[e.date]=idx+1;
+      }
+    });
+  }
   initView();
 }
 function initView(){
