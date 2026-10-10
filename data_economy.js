@@ -1,5 +1,6 @@
-// 經濟 | 由 build_news_js.py 生成 | 共 3838 條
+// 經濟 | 由 build_news_js.py 生成 | 共 3839 條
 var DATA_ECONOMY = `
+2026-10-10	《國際產業》AI狂潮這點驚似1997亞洲金融風暴！專家：藏1未爆彈	https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTGRqclBXX0p2OGtOdGxRLTlBSGhvUzBqTVhQMlYtMmxCdXFNWm9JRFktR3V4RkRnWWxuNHhqS0FfOUFOTGJDaXBEZkRMR1RnajdWYVNBSlc2dXlYTHB3dWs4YndGTzQ5TFpDZUNva296bTdwU0ZMMnRYU1IxRzlyN0pGeE1mUFNq?oc=5	未分類
 2026-10-10	AI狂潮這點驚似1997亞洲金融風暴！專家示警背後藏1顆未爆彈- 要聞	https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbEZacTlCaWZKNUdTcGRmNmxXYlJfOWVUc29ORDYzVDdSSlpVbzNzMUQtbHdtTFllZ3FYdHNEQ3FoeTJqRzJMUHVwMmVRNW5JVkh5VUF5RV8wWkJ0QlRRR3VidTR6SGcxb0dwRDVB?oc=5	未分類
 2026-10-06	法國債券遭猛烈拋售，引發金融危機擴大的恐慌	https://www.businessinsider.tw/article/7939	未分類
 2026-10-06	【直播】帶領日本衝破30年經濟停滯！ 高市早苗國會發表重要演講	https://www.ntdtv.com/b5/2026/10/05/a104139151.html	未分類
