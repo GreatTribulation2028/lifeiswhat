@@ -1,8 +1,11 @@
-// 治安 | 由 build_news_js.py 生成 | 共 2032 條
+// 治安 | 由 build_news_js.py 生成 | 共 2036 條
 var DATA_SECURITY = `
 2026-10-10	防詐宣導中遇突襲考 年輕男掏手機問：「警察杯杯，這補助是詐騙嗎？」	https://news.ltn.com.tw/news/society/breakingnews/5601524	未分類
 2026-10-10	瓶插下體還性侵被害人 惡男殘暴逼債重判12年半、賠216萬	https://news.ltn.com.tw/news/society/breakingnews/5601628	未分類
 2026-10-10	法國學生抗議活動出現零星暴力衝突 法國總理承認學生訴求合理	https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGhod0c2UEJjelRSVVdtd3FzZlhaQjlVQzVpWHJHRmt1ZFZMRjhtb0JuZXd4LW1yRWQwSG1ucC1SZEI0QkxPSWhWdy0xS3ZFZTFnSVh3RjZueUJna2pQVW1nelM2YlhMY2RDY3Q0c2dJUVVMd3dZb1Y1ZlNOMWwtalFEM1VWVWY1WFAtcnJxWHg?oc=5	未分類
+2026-10-10	李彥秀稱「社工發毒品」引眾怒 蔣萬安嗆：源頭是沈伯洋文章	https://www.ettoday.net/news/20261010/3252238.htm	未分類
+2026-10-10	李彥秀回應了！認同社工不是毒品提供者 是反對社區中心供毒	https://www.ettoday.net/news/20261010/3252248.htm	未分類
+2026-10-10	友13年前遭槍殺！他人獄遇仇家「原子筆刺頸」 判拘50天	https://www.ettoday.net/news/20261010/3252226.htm	未分類
 2026-10-07	美媒曝中國在美間諜活動「冰山一角」 彭斯：北京是美最大威脅	https://www.ettoday.net/news/20261007/3250323.htm	未分類
 2026-10-07	美司法部鐵拳！ 2中國間諜國籍擬被撤銷	https://www.ettoday.net/news/20261007/3250321.htm	未分類
 2026-10-07	羅智強猛攻沈伯洋2014毒品主張 國民黨前發言人逆風開轟	https://www.ettoday.net/news/20261007/3250330.htm	未分類
@@ -647,6 +650,7 @@ var DATA_SECURITY = `
 2026-07-21	圭亞那沉船事故死亡人數升至27人數十人失蹤- 國際	https://www.wenweipo.com/a/202607/21/AP6a5ec4d1e4b0c1e500218e30.html	未分類
 2026-07-21	免費提供3種毒品！2友嗨嗑整夜1女暴斃 桃園男認罪判刑5月	https://www.ettoday.net/news/20260721/3204911.htm	未分類
 2026-07-21	俄軍導引炸彈襲擊烏克蘭札波羅熱 釀至少3死逾10傷 | 民視新聞網	https://today.line.me/tw/v3/article/8nog1jE	未分類
+2026-07-21	ThreatBook報告｜香港成亞太APT攻擊核心 情報竊取風險高於勒索軟件	https://news.google.com/rss/articles/CBMiywJBVV95cUxNdGhVaVVIcjBia0lORmRMaFd0SkF6NkFhN2tYNFljNm9BTDh1YnN1UTNncGxmNnpGbU8zWThiamhuR1FhMW1WR3J6bzRCTXBpZjU1VlVUanpONkdBTU8tV3RTNkxseVNLTjFsQXVUSW56VUducEp6U3pHdVdjQi1FRWEyT19iUGNhNlV2OTBZWEtjX0ZzTmV1UnJKS19DeXBiWk5JVlU1VWtiR2h5dGxLZ2FMQ3JVWE9vSHJJVVU3ZDdpb3VQZmlWeTlfRHpsNFNUZ1VFaVNhLW1YZWxXQVpJWmZfQWt3MC1SVENHdm50N3JhdXBfaDRoWVR0ci1Ebi1OdjJPU1FldmltSng3VnViVUlsLXJacEp4OVpVVE5PS0poNjRiU0RWbENMZHZQWmdYTlBYaHBrbWNwbXNRWWFtdW9FcWMzblNpc193?oc=5	未分類
 2026-07-21	721 七年｜8 名非白衣人暴動罪成 3 人已出獄 4 人 8 月刑滿 林卓廷料最快 2030.1 獲釋	https://thecollectivehk.com/721%E4%B8%83%E5%B9%B48%E5%90%8D%E9%9D%9E%E7%99%BD%E8%A1%A3%E4%BA%BA3%E4%BA%BA%E5%87%BA%E7%8D%844%E4%BA%BA8%E6%9C%88%E5%88%91%E6%BB%BF%E6%9E%97%E5%8D%93%E5%BB%B72030%E7%8D%B2%E9%87%8B/	未分類
 2026-07-20	院長性侵羅生門2／醫美名醫幹這事不起訴 律師稱黑道大哥認識我惹議	https://news.pchome.com.tw/society/crwant/20260720/index-78449840022396316002.html	未分類
 2026-07-20	徹底打崩！美軍兩死一失蹤，中東混戰全面失控	https://beyondnews852.com/20260720/247340/	未分類
