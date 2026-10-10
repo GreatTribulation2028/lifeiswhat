@@ -1,8 +1,5 @@
-// 火警 | 由 build_news_js.py 生成 | 共 1119 條
+// 火警 | 由 build_news_js.py 生成 | 共 1110 條
 var DATA_FIRE = `
-2026-10-09	綠島垃圾掩埋場上午火警 黑煙密布	https://news.ltn.com.tw/news/society/breakingnews/5600682	未分類
-2026-10-09	印尼森林大火肆虐婆羅洲 瀕危紅毛猩猩灼傷受困獲救	https://news.google.com/rss/articles/CBMiYEFVX3lxTE92YXBxU3JWS2Y2WjQxdXRubmpHZVFubk1UYkt2YU9OUHNGc003Q0hEV1VxS3JDeWZkUDN3eDlOZURZekFZYW5fVFNMTEZ6MHNxUU00YzA2OXM0aWhacjgwMw?oc=5	未分類
-2026-10-09	南港車站機房昨夜火警 保全亂丟煙蒂釀禍	https://news.ltn.com.tw/news/society/breakingnews/5600595	未分類
 2026-10-07	火舌狂竄畫面曝！台中外埔鐵皮屋凌晨大火 夫妻逃不出成焦屍	https://www.ettoday.net/news/20261007/3250349.htm	未分類
 2026-10-04	西門町餐廳晚間火警！濃煙竄出民眾駐足圍觀	https://www.ettoday.net/news/20261004/3248602.htm	未分類
 2026-10-04	快訊／宜蘭員山建材行深夜惡火 住宅陷火海！2死2人待搜救	https://www.ettoday.net/news/20261004/3248613.htm	未分類
@@ -231,7 +228,6 @@ var DATA_FIRE = `
 2026-07-25	美密歇根州住宅火警釀8死包括6 名兒童部分死者有槍傷	https://www.bastillepost.com/hongkong/article/16435086-密歇根州住宅火警釀8死-部分死者有槍傷	未分類
 2026-07-24	西班牙多處森林大火失控進入國家緊急狀態| 世界萬象| 全球	https://udn.com/news/story/6812/9647856	未分類
 2026-07-24	歐洲燒成火海！法國萬人連夜大撤離	https://www.ntdtv.com/gb/2026/07/23/a104118115.html/amp	未分類
-2026-07-23	西班牙多處森林大火失控 進入國家緊急狀態	https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2RXlYVHhPcFdfbWxSd3N6SFFreGFtY2REVTJFOWZyRW4yVXVnVFc5UHZjNDBMaVNUS2piUjhmb0NpdU1JcGlmcDJXY2lHdUtjUEJFLTR6cW1Xak1leUROUlV30gFnQVVfeXFMTjJyMDNURXNNQ0NvcDhacGNYSE1ZZjlsNVlnTUdZallPTllERHBFblpubmk5di1PcVZsZDRyMHBhRGw0UXlnZkVxeFNsNldQWmNTN0tITGtfbVFNSjdWZTN3UFNwVEtxWQ?oc=5	未分類
 2026-07-23	法國西南部森林大火肆虐 撤離上萬名遊客與居民 | 民視新聞網	https://today.line.me/tw/v3/article/gzRljWg	未分類
 2026-07-23	法國森林大火告急 馬克宏請求歐盟啟動民事保護機制 | 民視新聞網	https://today.line.me/tw/v3/article/PG50ZKo	未分類
 2026-07-23	旺角通菜街單位冷氣機起火 消防開喉救熄	https://www.singtao.ca/7575368/2026-07-23/news-旺角通菜街單位起火+消防升雲梯開喉救熄++救出3貓2狗全死亡/	未分類
@@ -536,7 +532,6 @@ var DATA_FIRE = `
 2026-04-12	新竹香山貴金屬回收上櫃公司廠房起火 升級三級火警跨縣消防支援灌救	https://www.ftvnews.com.tw/news/detail/2026412W0071	未分類
 2026-04-12	影/新竹上櫃公司金益鼎三級火警 300坪烈焰燒了一上午	https://ctinews.com/news/items/D0xdrKNmWY	未分類
 2026-04-12	上櫃電子回收大廠金益鼎3級火警！新竹300坪廠房「燒了一個上午」，消防跨縣支援…對營運有無影響？	https://www.businesstoday.com.tw/article/category/183027/post/202604120016/	未分類
-2026-04-11	紐約皇后區5級火警灌救中 濃煙刺鼻居民不敢開窗	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zQ2NlS1VuRG5hYWNjUVFiamZOd2tEOHgxN0ZPZE81TW9PQ0dWSHg4Vk05V3BtWjE0eXNPS1B6bGV5NE82V0V1Y2w5U1dLbm5LNE96cWlFSmJOWHRRYVJrM0dB0gFnQVVfeXFMUFhUcWt5N3VRSm4xSHMwS2g3ZExBRjJyQUthdUVGY04zb3dZTzRQLTJfbFNlckU3RFN2XzBsaEl5d0t6WEh2bFVjVjltYmlRcVFyTGZfbWNTN2o0cXBUSEFiRmJjbTdwcw?oc=5	未分類
 2026-04-11	深圳舞王俱樂部大火44死調查：無牌經營與狹窄通道釀成慘劇	https://www.singtaousa.com/2026/04/11/news/china/shenzhen-club-fire-investigation-deaths/	未分類
 2026-04-08	當局印發關於加強基層消防工作意見 防止較大亡人火災事故大事化小小事化了	https://www.bastillepost.com/hongkong/article/15847737-國家消防救援局印發關於加強基層消防工作意見-防	未分類
 2026-04-08	甘肅玉門一化工廠發生火災 致3死2傷	https://std.stheadline.com/realtime-china/3560100/甘肅玉門一化工廠發生火災致3死2傷	未分類
@@ -645,7 +640,6 @@ var DATA_FIRE = `
 2026-02-22	快新聞／台北3級火警！中正區民宅全面燃燒 99歲翁一度受困	https://www.ftvnews.com.tw/news/detail/2026222W0228	未分類
 2026-02-22	影/北市中正區加油站對面「三級火警」全面燃燒 救出百歲翁 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260222/index-77176680018610309002.html	未分類
 2026-02-22	影/北市中正區加油站對面「三級火警」全面燃燒 救出百歲翁	https://tw.news.yahoo.com/%E5%BD%B1-%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%8A%A0%E6%B2%B9%E7%AB%99%E5%B0%8D%E9%9D%A2-%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6-%E5%85%A8%E9%9D%A2%E7%87%83%E7%87%92-%E6%95%91%E5%87%BA%E7%99%BE%E6%AD%B2%E7%BF%81-132640402.html	未分類
-2026-02-22	台北3級火警！中正區民宅全面燃燒99歲翁一度受困| 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zQ2FMaTZzd1BVbVlhdk1EblNEOWE5TG1HaV9EZE1iTGRYYV9XbTB4ZjNqaGFpLTZDdUZLdklaOVVnenB6NjJ4YjNPWG5zRUpDZU1HTkVn?oc=5	未分類
 2026-02-22	「火馬年」異象 中國多地山火連燒 火勢驚人（視頻）	https://www.ntdtv.com/b5/2026/02/22/a104069284.html	未分類
 2026-02-21	宏福苑大火丨世紀大火釀168死 獨立委員會調查報告料年內出爐	https://m.hkej.com/landing/mobarticle2/id/4323687/宏福苑大火丨世紀大火釀168死 獨立委員會調查報告料年內出爐	未分類
 2026-02-20	日本下關逾400年歷史寺院 凌晨失火5人死亡	https://std.stheadline.com/realtime-world/3546072/日本下關逾400年歷史寺院-凌晨失火5人死亡	未分類
@@ -900,9 +894,7 @@ var DATA_FIRE = `
 2025-11-27	李家超：就大埔五級火警從四個方向推展工作｜警方拘捕三名男子涉嫌誤殺	https://www.businesstimes.com.hk/articles/285584/%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%A4%A7%E5%9F%94%E4%BA%94%E7%B4%9A%E7%81%AB%E8%AD%A6%E5%9B%9B%E5%80%8B%E6%96%B9%E5%90%91%E6%8E%A8%E5%B1%95%E5%B7%A5%E4%BD%9C-%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%95%E4%B8%89/	未分類
 2025-11-27	大埔宏福苑五級火警 ｜ 多位藝人伸出援手 初為人母麥明詩：可以幫手照顧1-2位嬰兒	https://hk.news.yahoo.com/%E5%A4%A7%E5%9F%94%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E8%AD%A6-%EF%BD%9C-%E5%A4%9A%E4%BD%8D%E8%97%9D%E4%BA%BA%E4%BC%B8%E5%87%BA%E6%8F%B4%E6%89%8B-%E5%88%9D%E7%82%BA%E4%BA%BA%E6%AF%8D%E9%BA%A5%E6%98%8E%E8%A9%A9%EF%BC%9A%E5%8F%AF%E4%BB%A5%E5%B9%AB%E6%89%8B%E7%85%A7%E9%A1%A71-2%E4%BD%8D%E5%AC%B0%E5%85%92-081525317.html	未分類
 2025-11-27	回歸後首宗「五級火警」奪4命釀55傷！17年後…宏福苑惡火死者增11倍	https://tw.news.yahoo.com/%E5%9B%9E%E6%AD%B8%E5%BE%8C%E9%A6%96%E5%AE%97-%E4%BA%94%E7%B4%9A%E7%81%AB%E8%AD%A6-%E5%A5%AA4%E5%91%BD%E9%87%8055%E5%82%B7-17%E5%B9%B4%E5%BE%8C-%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%83%A1%E7%81%AB%E6%AD%BB%E8%80%85%E5%A2%9E11%E5%80%8D-024100488.html	未分類
-2025-11-27	「樓著火了，我抱著Baby，救救我們」 香港大火菲傭求救電話曝| 國際焦點	https://news.google.com/rss/articles/CBMiXEFVX3lxTE10VkliN1VNQ2x0SmNFYjdrTEVwak8zR2JJajRmWFlyZ3dkRmdnbnFKeUhlTmtTWmVRbFpYbUx1cHh0VVBsSVJRVFlJNUpNWTdqS2hYXzVLQWRTNlRJ?oc=5	未分類
 2025-11-27	​行政長官就大埔宏福苑五級火警跟進工作會見傳媒答問內容（只有中文）（附圖／短片）	https://www.info.gov.hk/gia/general/202511/27/P2025112700800.htm	未分類
-2025-11-26	香港惡火》嚴重五級火警！ 上次是17年前嘉禾大廈大火 釀4死55傷	https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVXZjZXRRcXZGc0VaUVVMUzc0QWE2NU1aQndIdUQ2Y2twUTBYM0I1dER6UW43ejVYNi04dDJBRXp1NC1ieTA0bWJwVHFvX0I4djdieDkwM2ZScXhrX2dDdWtaa1ZkYW1zMVlzcHh3?oc=5	未分類
 2025-11-26	生鏽過期滅火筒搬運期間疑墮地爆開 男工遭擊傷頭滿面血送院	https://www.knews.com.tw/news/49756AC3062B6DC2FD3B119F40AE7257	未分類
 2025-11-26	最新｜大埔宏福苑大火151人死 宏昌閣發現遺體部份燒成灰	https://www.hk01.com/突發/60297831/宏福苑火最新-死亡人數增至168人-望兩三個月內加快拆卸棚架	未分類
 2025-11-26	宏福苑大火災持續更新｜增至151人死 宏昌閣發現遺體部份燒成灰	https://www.hk01.com/突發/60297831/最新-大埔宏福苑大火151人死-宏昌閣發現遺體部份燒成灰	未分類
@@ -974,7 +966,6 @@ var DATA_FIRE = `
 2023-09-26	流動性黑洞已經形成，業內戲稱央行的核動力印鈔機已經冒煙了，還在降准、降息釋放流動性，再多資金也無助經濟發展。中國經濟當下狀態：央行使勁刺激，經濟卻「垂死病中驚坐起，ICU裡一魂懸」。	https://m.secretchina.com/news/b5/2023/09/26/1046141.html	未分類
 2023-09-23	南丫島發電廠清晨二級火警無人傷 港燈指供電服務維持正常	https://www.orangenews.hk/hongkong/1193038/%E5%8D%97%E4%B8%AB%E5%B3%B6%E7%99%BC%E9%9B%BB%E5%BB%A0%E6%B8%85%E6%99%A8%E4%BA%8C%E7%B4%9A%E7%81%AB%E8%AD%A6%E7%84%A1%E4%BA%BA%E5%82%B7-%E6%B8%AF%E7%87%88%E6%8C%87%E4%BE%9B%E9%9B%BB%E6%9C%8D%E5%8B%99%E7%B6%AD%E6%8C%81%E6%AD%A3%E5%B8%B8.shtml	未分類
 2023-09-23	7個月第2次失火 南丫發電廠2級火警 一度傳出爆炸聲	https://www.hk01.com/%E7%AA%81%E7%99%BC/944066/7%E5%80%8B%E6%9C%88%E7%AC%AC2%E6%AC%A1%E5%A4%B1%E7%81%AB-%E5%8D%97%E4%B8%AB%E7%99%BC%E9%9B%BB%E5%BB%A02%E7%B4%9A%E7%81%AB%E8%AD%A6-%E4%B8%80%E5%BA%A6%E5%82%B3%E5%87%BA%E7%88%86%E7%82%B8%E8%81%B2	未分類
-2023-03-26	荃灣大窩村二級火警濃煙衝天 消防籲居民關閉門窗保持鎮定	https://news.google.com/rss/articles/CBMi7wJBVV95cUxPZHE5eU5iU21TbDRvSjlsX2pESDA4QmdlWG5kNVpzQXJIOGxzd0NCc3FZcHBHUHJGbGRBZFY5bUJxS0hCVmJ0bk1LWEVMRG53UHExSFBZeWd2TjQ4QzNOVWlYQ0VIN3FySXlTTURvS09IcVR3Y3I1cXFLMl9UMHNJVzl2WlpIaEhFUmVkVy1nYWpXUmVDM0ZqWUVDWmpYa2E4dzBiV2R3bTJ3R2hjbkQ4WmdNVHVlNENzNUluTThpQlh3TXRMc242RTdZaHI1blozY2otY0F1TGtCR3ZPN0RUc3hkZ0V2a1AyV0dkcG16UV9weEhXZXJRUWZCUWx4UmhiUVY1ckR4WDQ4OEZRMEJSNDFSUFU5bFltZHVzejRfMDkwUGswLXF3c05ma1pQanFGcmJzM1M0Rkp1aUEwVS15SEl2aXB2TmhyQkYteHpWSlBNdzhXd3VNOUpmU2xIMDcwUjhMTkEwVWpFaDgtNHZz?oc=5	未分類
 2023-03-24	直播│長沙灣三級火警• 案情簡報- 東張+	https://www.mytvsuper.com/tc/scoopplus/scoop/catch-up/6518628534862/%E7%9B%B4%E6%92%AD-%E9%95%B7%E6%B2%99%E7%81%A3%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6---%E6%A1%88%E6%83%85%E7%B0%A1%E5%A0%B1-	未分類
 2023-03-24	三級火警｜長沙灣潤發倉濃煙捲半空消防呼籲居民關窗警方疏散周邊學校師生| 生活熱話	https://www.ohpama.com/788956/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E9%95%B7%E6%B2%99%E7%81%A3-%E6%BD%A4%E7%99%BC%E5%80%89-%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6/	未分類
 2023-03-03	直播 | 尖沙咀中間道地盤四級火警• 案情簡報- 東張+	https://www.mytvsuper.com/tc/scoopplus/scoop/catch-up/6399919253833/%E7%9B%B4%E6%92%AD---%E5%B0%96%E6%B2%99%E5%92%80%E4%B8%AD%E9%96%93%E9%81%93%E5%9C%B0%E7%9B%A4%E5%9B%9B%E7%B4%9A%E7%81%AB%E8%AD%A6---%E6%A1%88%E6%83%85%E7%B0%A1%E5%A0%B1-	未分類
