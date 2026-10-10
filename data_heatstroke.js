@@ -1,4 +1,4 @@
-// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2142 條
+// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2143 條
 var DATA_HEATSTROKE = `
 2026-10-09	陸虎臨場改詞 救暈倒歌迷	https://www.singtaousa.com/2026/10/08/entertainment/lu-hu-rescues-fan/	未分類
 2026-10-09	關淑怡最新近況曝光 曾昏迷2周奇蹟甦醒：身體慢慢康復中意志力頑強	https://www.tvb.com/artiste-news-c/關淑怡最新近況曝光-曾昏迷2周奇蹟甦醒-身體慢慢康復中意志力頑強-1016495	未分類
@@ -29,6 +29,7 @@ var DATA_HEATSTROKE = `
 2026-10-06	黃大仙下邨女子叫救命 揭6旬男昏迷屋內 兩人俱送院	https://std.stheadline.com/society/3622583/黃大仙下邨女子叫救命-揭6旬男昏迷屋內-兩人俱送院	未分類
 2026-10-06	黃大仙下邨六旬婦行動不便嗌救命 消防破門入屋揭其夫昏迷送院亡	https://www.hk01.com/突發/60396475/黃大仙下邨六旬婦行動不便嗌救命-消防破門入屋揭其夫昏迷送院亡	未分類
 2026-10-06	自爆長年吸電子煙曾一度呼吸困難 英國女歌手台上暈倒後決心戒煙	https://www.bastillepost.com/hongkong/article/16900134-自爆長年吸電子煙曾一度呼吸困難-英國女歌手台上	未分類
+2026-10-06	極惡狼醫趁女患者麻醉昏迷「手插私密處」 判賠118萬2千...他上訴遭駁回	https://tw.news.yahoo.com/極惡狼醫趁女患者麻醉昏迷-手插私密處-判賠118萬2千-他上訴遭駁回-031800290.html	未分類
 2026-10-06	快訊／擦撞回收車「趴地不起」畫面曝光 屏東女騎士頭部重創昏迷轉院	https://tw.news.yahoo.com/快訊-擦撞回收車-趴地不起-畫面曝光-屏東女騎士頭部重創昏迷轉院-074400365.html	未分類
 2026-10-06	夫昏迷臥床 輪椅婦呼叫求援	https://orientaldaily.on.cc/content/要聞港聞/odn-20261006-1006_00176_244/夫昏迷臥床--輪椅婦呼叫求援	未分類
 2026-10-06	9旬翁頭暈倒臥路旁 中興警聯繫119確認狀況護送返家	https://ttt.hsnews.com.tw/social-nnews/9xun-weng-tou-yun-dao-wo-lu-pang-zhong-xing-jing-lian-xi119que-ren-zhuang-kuang-hu-song-fan-jia.html	未分類
