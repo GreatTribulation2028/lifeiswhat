@@ -1,14 +1,5 @@
-// 天災 | 由 build_news_js.py 生成 | 共 3781 條
+// 天災 | 由 build_news_js.py 生成 | 共 3770 條
 var DATA_DISASTER = `
-2026-10-09	特朗普稱不會在美國中期選舉前攻擊伊朗	https://news.rthk.hk/rthk/ch/component/k2/1873224-20261009.htm	未分類
-2026-10-09	普京晤伊朗總統 稱願盡力協助伊朗推動衝突解決	https://news.rthk.hk/rthk/ch/component/k2/1873283-20261009.htm	未分類
-2026-10-09	伊朗外長稱仍透過調解方與美方間接談判	https://news.rthk.hk/rthk/ch/component/k2/1873217-20261009.htm	未分類
-2026-10-09	世界氣象組織預警厄爾尼諾12月見頂！10月恐打秋颱揭香港第四季3大極端天氣警號	https://news.google.com/rss/articles/CBMi8gJBVV95cUxNUlAzbnVSRXlvZVYtNENkZExXSnh6SG5Kc2N3MWd3QUhIRnNjbzJ0Mi1rVVhCeU9XZEl0YmhlbjhGTm9FbmlIY1dveHU1LXZzejZER3BtVExHZElLSjE1UnBBZFl6dkN2XzBoaGhWSENfOUVoX3dCZ3ZjTUZWNFB2SFNXUnMxdHlRYmxMUkc3M1BLUGRBTnN0RFNlWk5YZHlHSGxJLWZwVFNTQTZCaDc5NS1lYzNXeHB6WkR6dVlBM2tIbGF5emJuX3h6cUN5dG1vNEJoenVBNXlWLVkxS0w3VTYtSnMyaElVeUZNOVNYbll1MEQ0eFJpTTVmay1lclFRVlFhR0otVmVLTkxwdFM3VUtmWUpHRW16WUp3ZGxSVWpPRWNGWXFhS1JFZ0NweVQzM2Nya0tZQjhobE8yY2tkdS1JV1hUSzcxSlhES0VVRzJ0ak5Pc2pIbGN2RzZiS2FscERiQVVvU0I5WkdRYWJEclh3?oc=5	未分類
-2026-10-08	貴州印江突發山泥傾瀉 巨石砸車釀2死 1嬰命危	https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Gd1pkRElsUENWMmh3ODNfamdyLVJMQTJkUmdCVjRpd2I2MUxHcFM0WGRpbHh4eWwwMU5wRk5LekxhM0JIRlRlOGwwZGtoLVRjUEl4aklsb2JvY2VXa0ww?oc=5	未分類
-2026-10-08	菲律賓首都附近小火山爆發	https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc3J4TGRnMUxJYU41akFnemNxUVNRRW8tZUZqbmZLazBlSEcxLTFNS3M2WUEtaEQyd3JXcks1Nm9Cekw2Mm03Y2ZWY0g4UkhjaXdPa3I4UnJ5dHFqeC1wMWhkVkFxUFdjc1VkS0lXZ0pidFJMeWdFLW5ld1A0a1AxV0ktanZmN0l0eDFiOTQ4YlRqZG5RT2JqcWZaalRuQ0RtZzRDN3QyZ3VFOW0td3EzTl9wWWFCV0pWN3VvVkNIdUtvNEl6aHYyWUhEcHdzOGJiVDRIZnE3SWhfVDlwa2ctWEF6MldPOGlCbzJZNFMzeVdONy1jd0E?oc=5	未分類
-2026-10-08	呂宋島南部塔阿爾火山噴發 暫無人員傷亡及財產損失報告	https://news.rthk.hk/rthk/ch/component/k2/1873201-20261008.htm	未分類
-2026-10-08	俄烏戰爭 | 烏克蘭：俄軍炸彈襲擊克拉馬托爾斯克兩架巴士 釀至少30死	https://news.google.com/rss/articles/CBMi4wJBVV95cUxQSHdacE5oNUNVb3dOSExOajlFTlhCS2FrYWFwajVmSFVXcEpBeVVJTXgyTzZHSzVrZ0VNNHlCcHFhT01Ka25kTTdTTnhEZ2hYTThrOWZEaTBpMUIxVUZPOHJiQXZMLW5DMnJyVmZGTUR1TXc3cG9QdUdFemdfeFFPbEdkN1pmQlRadGN6bUQzQjdmaFA1bE5GVDhfb0tFMU83Q3NaYXllbmMxY1JXVmhzZ29xU0VZaFpVNlcwUmkxVVYyckNKU01JeTdVOTRQVjloOHYwV2Q2RjVOZVZtamRES2JZMFdBVXFSbVJWdzhDelFkS2xSNHNyQldFNnlndjFXVnY0eTh3UVhKSWtBTTdGbzdJTGpQSGViUTdKUlRYbnZyOE9sdkZfRXFXOUZKYTNKTGt0TU5WVm1KS0lXcEVUNmR0Zy1UemlYcEprR0gtdXBuUWZhTDl3TnlaWnByQzRhUHlR?oc=5	未分類
-2026-10-08	【應對挑戰】香港獲選全球極端天氣預警示範城市國際氣候專家聚首科大共議氣候預警發展- 焦點新聞- 港人講地	https://news.google.com/rss/articles/CBMiwwRBVV95cUxPLVFSN3c4ajNXYTRhMHFXRFlRRW9KMHB0VFRRaDF4aHR5TW93MEZoTTBETkpCNzBNSFRTTnVENUhqX09SbFBFWDlZVTNzcThzZnFqV1p6VHpXc2RpTnJSQ1U3aWtLZ1RCZXhPOHJtSm5ZbXF4YTdacEstU3ZSbjZjQjhlbnVBeThWSGdBS3A1TzBoVFFoUTVsT0JIbUlvNTdJdlY1T2Z0NExwcVNma1h1dXBYQ01DMVZYcnE3eXRzY3pMbHc1Mkl3V3AtdDFRSDRfZnBtWmNoWU9lY0s4UkxvcHpWNEU4Wk5CWXRHV2tOX2Y2bEU2dzJfS3psYm9hSXdGRV9pMHVVR2I4UmJwdUlFTnNkUXhDUnNWN1d3c0VFNFh6aGxrMFZ5NW5GSVFiZmpSNVRlUnR2eWpiZkRWcWZQaWRIb0pFX2p5SDhkVjk5bHZDd1ZOaFNEdEotUEczU0xMRzJ5SExpWjh4SGRyUFhsa0ZXNUlvR050YlRGS2NqOHcxOFUxVDRSSERObXE0eE9WMVlGM2Vwak9TZ3lPOVRiTWpJV1FpWEZaeTZUWGFFdTduU3JPRExzeXRncUdYZ29nTUotbnRoNGhIOFVEM2ZDdmVJdjVSVlltZVpPYWdhMVZwdnhUQm5XQmRqUm5YXzIzMDRsSTRSdGZZOU11SHdpa0M0dTUxZFZwYXl4UTZlX3UxbFRWZm9HZFc1NXZWQm9BODVYT01pak1SQzQ2TGRDRDVRQndTanR2dWVaNHZhaVlCOTQ?oc=5	未分類
 2026-10-07	道奇4局背靠背雙轟炸塞爾！37歲飆100英里寫紀錄 睽違3個月挨2轟	https://sports.ettoday.net/news/3250337	未分類
 2026-10-07	美期中選舉後加大打擊？ 范斯：伊朗想停戰須實質削減濃縮鈾	https://www.ettoday.net/news/20261007/3250327.htm	未分類
 2026-10-07	川普考慮立陶宛設永久美軍基地 俄警告將升高局勢	https://www.ettoday.net/news/20261007/3250347.htm	未分類
@@ -342,7 +333,6 @@ var DATA_DISASTER = `
 2026-09-11	1100噸炸藥！以色列狂炸黎真主黨地堡 美監測機構「記錄到4.1級地震」	https://www.dotdotnews.com/a/202609/11/AP6aa38a97e4b02724bdb41b90.html	未分類
 2026-09-10	非常強聖嬰影響全面展開 賈新興：高溫少雨機率高 下周關注颱風發展	https://udn.com/news/amp/story/7266/9745420	未分類
 2026-09-10	载有多名记者采访火山的快艇失联，今日派出无人机继续搜救	https://www.hepingribao.id/home/2026/09/10/载有多名记者采访火山的快艇失联，今日派出无人/	未分類
-2026-09-10	超級厄爾尼諾 : 引發亞洲能源和糧食危機擔憂	https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zOTdFbXVQYkdWeXZfTlBDTUdlWGNYYk9SaGt1RVRLMmdONGRZeDFZSU5VNFR5VFhXNTBGSXpxRGJrNHRBVUNNWXItYnRWZw?oc=5	未分類
 2026-09-10	莎太子园美嘉路25区 住家前后 沟裂坍塌	https://kl.chinapress.com.my/20260910/莎太子园美嘉路25区-住家前后-沟裂坍塌/	未分類
 2026-09-10	牡蠣天災救助 23日前申請	https://tw.news.yahoo.com/牡蠣天災救助-23日前申請-122315978.html	未分類
 2026-09-10	火山引擎将推出基于Arm AGI CPU的智能体沙盒	https://cn.technode.com/post/2026-09-10/volcano-engine-arm-agi-cpu-agent-sandbox/	未分類
@@ -2663,7 +2653,6 @@ var DATA_DISASTER = `
 2026-04-12	通膨惡夢下半年才要開始？中東戰火疊加「聖嬰」 陳鳳馨揭糧食危機：價格將全面失控	https://tw.news.yahoo.com/%E9%80%9A%E8%86%A8%E6%83%A1%E5%A4%A2%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%89%8D%E8%A6%81%E9%96%8B%E5%A7%8B-%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E7%96%8A%E5%8A%A0-%E8%81%96%E5%AC%B0-%E9%99%B3%E9%B3%B3%E9%A6%A8%E6%8F%AD%E7%B3%A7%E9%A3%9F%E5%8D%B1%E6%A9%9F-%E5%83%B9%E6%A0%BC%E5%B0%87%E5%85%A8%E9%9D%A2%E5%A4%B1%E6%8E%A7-143000701.html	未分類
 2026-04-11	魁北克男子詐死現身伊朗 加拿大最高法院撤銷死亡宣告	https://www.singtaousa.com/2026/04/11/news/world/top-court-upholds-reversal-of-death-declaration-for-quebec-man-found-to-be-alive/	未分類
 2026-04-11	伊媒公布伊朗談判團人員組成 專機上放遇襲小學離世學童照片悼念	https://www.hk01.com/即時國際/60339248/伊媒公布伊朗談判團人員組成-專機上放遇襲小學離世學童照片悼念	未分類
-2026-04-10	金融海嘯貨大賺！沙田廣場三房910萬沽 長揸18年本利雙收｜多圖	https://news.google.com/rss/articles/CBMioANBVV95cUxPY2pWMDVlTVRhTURKZXVZOENpclBEZERKZk8wSmZkbGlNdkxBZE9mRUhVLXVFWVhmazFSYzhzTHRVdzhabExYNWVETXhIdmFyQ0lOVVdiMU5LaGdSSFI2Nm9LX283NWFFNjlXaHNHTXB5c1ZLMUJPekFSU0NCMHI2a0pDQWdlX2pUTXIyWms1VTJUZm1jNks2blVDY0J0ejgtblBteFNTalNhb0tTZXJyRjlLSm43RUZUa1JYbVd3djlsVzdBY05adzhaQXVZWjhsRnhYQms3ZTVhbmo4Y2pIQ3lFYU9Ea1JtNmxhb0ktOW9jVjhKVXlQR2h4cGJRNUd0d2kwZlBFSWZSdmRMVDVvWklNUDgxRUJmRER4b1o1M0JtQVJyWk9lQ2xmTTl4NHp1dWcyX182REFUcWJJWElENUczanBJZXUweHY4YWlsN1Nuc0hGRVdPdFN5ekk2X0lHcmhKTDB3T2d5ZlYxV2k3UUpQczIwVDJXR2VmYWR3cGxQLUhFY0MzYWQyNWZXWEtiS29IbmJCeE55NTdPbGlXag?oc=5	未分類
 2026-04-10	聖嬰現象將加重糧食危機	https://money.udn.com/money/story/5599/9432583	未分類
 2026-04-10	美伊停火 | 伊朗前外長遇空襲傷重不治 德黑蘭住所被炸 妻子當場喪命	https://std.stheadline.com/realtime-world/3560837/美伊停火-伊朗前外長遇空襲傷重不治-德黑蘭住所被炸-妻子當場喪命	未分類
 2026-04-10	美以空襲受重傷 伊朗前外長哈拉齊不治亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260410/bkn-20260410150145606-0410_00992_001.html	未分類
