@@ -1,5 +1,7 @@
-// 交通 | 由 build_news_js.py 生成 | 共 2008 條
+// 交通 | 由 build_news_js.py 生成 | 共 2010 條
 var DATA_TRAFFIC = `
+2026-10-10	雲林交通事故死亡人數降22％ AI運用、事故即時調查奏效	https://news.google.com/rss/articles/CBMiUEFVX3lxTE80Ml96TVp0NkpGRlB6VU8xZmRQdmcwT1RnUEpjdnZDV0UzejlsU2hJeUR3Z1NwWTkxektBVldGaUluRkpBaEUxaUU2Z0RwZ2100gFWQVVfeXFMTTV6WEktZ2hzcWlrYVdRTTRQMmswY0ZaSG1wQ1NFV1lTVnVFRFJsa3VMY3FQREJJREFpam5UMFNFUVFfblhJc0huMTZvZVYyZVMydlVnMlE?oc=5	未分類
+2026-10-10	失控衝對向！濱海公路2砂石車對撞 駕駛腿骨折受困獲救	https://news.ltn.com.tw/news/society/breakingnews/5601688	未分類
 2026-10-07	巴士撞壆翻側致1死10傷 司機危駕罪成囚42個月	https://hk.on.cc/hk/bkn/cnt/news/20221230/bkn-20221230140213547-1230_00822_001.html	未分類
 2026-10-06	才祝賀「祖國媽媽」生日 劉樂妍出車禍「先發文感謝中國」	https://www.ettoday.net/news/20261006/3249762.htm	未分類
 2026-10-06	國道逼車！自小客閃大燈「鬼切急煞」害追撞 警全力追緝車主中	https://www.ettoday.net/news/20261006/3249801.htm	未分類
