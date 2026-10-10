@@ -3,6 +3,7 @@ var DATA_URLS = `
 2026-10-09	https://www.hk01.com/突發/60397803/荃灣龍門郊遊徑女行山客失足墮坡擦傷-消防尋獲帶落山
 2026-10-09	https://www.hk01.com/突發/60397803/荃灣龍門郊遊徑女子行山失足墮坡-救援人員上山搜救
 2026-10-09	https://m.dotdotnews.com/s/202610/08/AP6ac7819be4b02724bdb6c303.html
+2026-10-09	https://www.hk01.com/突發/60397803/荃灣龍門郊遊徑女行山客失足墮坡擦傷-消防尋獲帶落山 n2026-10-09
 2026-10-08	https://www.hk01.com/突發/60397407/東涌工傷-34歲孝順仔喪父後-為改善家境轉職地盤-遺母妹失依靠
 2026-10-08	https://www.hk01.com/突發/60397337/東涌奪命工傷-房屋署指示承建商停工-指死者安全帶疑無繫穩固點
 2026-10-07	https://www.ettoday.net/news/20261007/3250372.htm
@@ -1704,7 +1705,6 @@ var DATA_URLS = `
 2026-10-02	https://hk.on.cc/hk/bkn/cnt/cnnews/20221022/bkn-20221022190711887-1022_00952_001.html
 2026-10-02	https://www.hkcd.com.hk/hkcdweb/content/2026/10/02/content_8778236.html
 2026-10-02	https://hk.on.cc/hk/bkn/cnt/finance/20220916/bkn-20220916154713942-0916_00842_001.html
-2026-10-02	https://newtalk.tw/news/view/2026-10-01/1063008
 2026-10-01	https://www.hkej.com/dailynews/international/article/4528351/%E9%87%91%E8%9E%8D%E6%B5%B7%E5%98%AF%E3%80%8C%E5%85%88%E7%9F%A5%E3%80%8D%EF%BC%9A%E7%BE%8E%E7%B6%93%E6%BF%9F%E5%8D%B1%E5%8D%B1%E4%B9%8E
 2026-10-01	https://www.chinatimes.com/realtimenews/20261001005272-260408
 2026-10-01	https://www.ettoday.net/news/20261001/3247022.htm
@@ -5473,11 +5473,8 @@ var DATA_URLS = `
 2015-05-04	https://www.setn.com/news/73521
 2015-01-09	https://www.setn.com/news/56243
 2015-01-01	https://www.setn.com/news/55283
-2026-10-09	https://news.now.com/home/local/player?newsId=665157
 2026-10-09	https://www.hk01.com/突發/60397753/西貢清水灣一灘六旬男疑遇溺送院亡-泳客救起即場心外壓-有片
 2026-10-09	https://www.hk01.com/突發/60397753/西貢清水灣一灘六旬男疑遇溺-泳客救起即場心外壓惜送院亡-有片
-2026-10-09	https://www.stheadline.com/breaking-news/3624108/清水灣泳灘老翁遇溺昏迷-送院搶救
-2026-10-09	https://hk.on.cc/hk/bkn/cnt/news/20261009/bkn-20261009073421438-1009_00822_001.html
 2026-10-09	https://udn.com/news/amp/story/7320/9803744
 2026-10-09	https://www.weekendhk.com/矚目話題/清水灣-晨泳遇溺-西貢事故-3520264/
 2026-10-06	https://hk.on.cc/hk/bkn/cnt/news/20261006/bkn-20261006131238205-1006_00822_001.html
@@ -5493,7 +5490,6 @@ var DATA_URLS = `
 2026-10-02	https://news.mingpao.com/pns/港聞/article/20261002/s00002/1790877367593/環島泳遇溺國慶跑中暑-一死一危-溺斃漢患高血壓-學者-劇烈運動或誘發中風血管塞
 2026-10-02	https://hk.on.cc/hk/bkn/cnt/news/20261002/bkn-20261002093729723-1002_00822_001.html
 2026-10-02	https://www.stheadline.com/breaking-news/3621606/坪洲泳賽新西蘭男泳手遇溺亡-親友黯然認屍
-2026-09-30	https://www.hk01.com/突發/60395053/珍惜生命-沙田城門河驚現浮屍-警調查身分
 2026-09-30	https://www.am730.com.hk/本地/1055975/沙田城門河驚現浮屍駕駛者報警-身分未明
 2026-09-24	https://www.hkej.com/dailynews/culture/article/4516224/金牌泳將童年遇溺
 2026-09-24	https://orientaldaily.on.cc/content/要聞港聞/odn-20260924-0924_00176_264/維園泳池8旬嫗遇溺
@@ -10011,7 +10007,6 @@ var DATA_URLS = `
 2016-05-21	https://www.setn.com/news/148595
 2016-04-20	https://www.setn.com/news/139627
 2026-10-08	https://www.cna.com.tw/video/news/4356834
-2026-10-08	https://www.hk01.com/突發/60397559/屯門兆麟苑單位火警-曾傳爆炸聲-1人不適送院
 2026-10-08	https://www.am730.com.hk/本地/1057385/屯門兆麟苑單位冒煙起火傳出爆炸聲-1人不適送院
 2026-10-07	https://www.ettoday.net/news/20261007/3250349.htm
 2026-10-04	https://www.ettoday.net/news/20261004/3248602.htm
@@ -11156,6 +11151,7 @@ var DATA_URLS = `
 2026-10-06	https://std.stheadline.com/society/3622583/黃大仙下邨女子叫救命-揭6旬男昏迷屋內-兩人俱送院
 2026-10-06	https://www.hk01.com/突發/60396475/黃大仙下邨六旬婦行動不便嗌救命-消防破門入屋揭其夫昏迷送院亡
 2026-10-06	https://www.bastillepost.com/hongkong/article/16900134-自爆長年吸電子煙曾一度呼吸困難-英國女歌手台上
+2026-10-06	https://tw.news.yahoo.com/極惡狼醫趁女患者麻醉昏迷-手插私密處-判賠118萬2千-他上訴遭駁回-031800290.html
 2026-10-06	https://tw.news.yahoo.com/快訊-擦撞回收車-趴地不起-畫面曝光-屏東女騎士頭部重創昏迷轉院-074400365.html
 2026-10-06	https://orientaldaily.on.cc/content/要聞港聞/odn-20261006-1006_00176_244/夫昏迷臥床--輪椅婦呼叫求援
 2026-10-06	https://ttt.hsnews.com.tw/social-nnews/9xun-weng-tou-yun-dao-wo-lu-pang-zhong-xing-jing-lian-xi119que-ren-zhuang-kuang-hu-song-fan-jia.html
@@ -13273,7 +13269,6 @@ var DATA_URLS = `
 2026-10-09	https://m.dotdotnews.com/s/202610/08/AP6ac72c08e4b02724bdb6b9d5.html
 2026-10-09	https://www.epochtimes.com/b5/26/10/8/n14866457.htm
 2026-10-09	https://ctinews.com/news/items/D0xdQQ12nY
-2026-10-09	https://newtalk.tw/news/view/2026-10-09/1064580
 2026-10-09	https://www.ntdtv.com/gb/2026/10/08/a104140096.html/amp
 2026-10-08	https://www.dotdotnews.com/a/202610/08/AP6ac72c08e4b02724bdb6b9d5.html
 2026-10-08	https://news.tvb.com/tc/1199632-據報俄羅斯再有實驗室人員感染不明肺炎病逝俄方駁斥傳媒報道不正確
@@ -13283,18 +13278,14 @@ var DATA_URLS = `
 2026-10-08	https://www.weekendhk.com/矚目話題/俄羅斯-鼠疫疑雲-旅遊安全-3519755/
 2026-10-08	https://utravel.com.hk/news/detail/20112903/俄羅斯實驗室-歲女研究員突病逝-疑爆致命-肺鼠疫-近-人隔離-巧合撞泰國神婆預言
 2026-10-08	https://www.ntdtv.com/b5/2026/10/07/a104139827.html
-2026-10-08	https://www.cna.com.tw/video/news/4356823
 2026-10-08	https://www.orangenews.hk/international/VXR3CwY/俄傳再有人感染不明肺炎死亡-世衛促俄方提供更多資訊.shtml
-2026-10-08	https://www.ftnn.com.tw/news/585578
 2026-10-08	https://fnc.ebc.net.tw/fncnews/headline/220397
-2026-10-08	https://inews.hket.com/article/4205896/「黑死病」疑雲觸發港人撲口罩？本地口罩廠營業額單日飈700- 廠商籲冷靜：供應充足、無須恐慌搶購?mtc=20033
 2026-10-06	https://www.881903.com/news/international/2653351
 2026-10-06	https://today.line.me/tw/v3/article/3N1pZYW
 2026-10-06	https://www.singtao.ca/7646263/2026-10-04/news-西伯利亞疑爆肺鼠疫+女研究員打碎試管染疫亡+近200人送院觀察/
 2026-10-06	https://www.ftvnews.com.tw/news/detail/2026A05I17M1
 2026-10-06	https://sunmedia.tw/news/health/1791240844-英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子
 2026-10-06	https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T45R190:0/
-2026-10-06	https://www.stheadline.com/realtime-world/3622879/肺鼠疫有多危險俄羅斯女研究員疑染疾亡-特朗普高度關注
 2026-10-06	https://ent.ebc.net.tw/variety-show/502917
 2026-10-06	https://health.ettoday.net/news/3249320
 2026-10-06	https://tw.news.yahoo.com/打碎試管感染-俄羅斯研究員罹-不明肺炎-猝逝-疑為肺鼠疫-040428809.html
@@ -13304,15 +13295,10 @@ var DATA_URLS = `
 2026-10-06	https://inews.hket.com/article/4204736
 2026-10-06	https://www.orangenews.hk/international/VXE64F0/俄羅斯鼠疫研究所女職員感染不明肺炎離世-特朗普-密切關注願提供協助.shtml
 2026-10-06	https://tw.news.yahoo.com/俄羅斯驚傳不明肺炎死亡-28歲女實驗室人員病逝-疾管署-目前未發現特殊病原-081649309.html
-2026-10-06	https://cn.wsj.com/articles/俄羅斯調查一名鼠疫防治研究所女員工之死-765eed24
 2026-10-06	https://www.bastillepost.com/hongkong/article/16912480-俄羅斯西伯利亞鼠疫研究所員工染不明肺炎亡-當局
 2026-10-06	https://www.facebook.com/cnanewstaiwan/videos/俄羅斯西伯利亞一名28歲女子因不明原因肺炎病逝她生前任職於伊爾庫茨克防疫研究所當局隔離涉事醫院並監測接觸者外媒則引述消息稱女子可能因接觸鼠疫桿菌染病俄羅斯消費者/4601659613440313/
 2026-10-06	https://hk.ulifestyle.com.hk/topic/detail/20112675/俄羅斯研究員病逝爆鼠疫恐慌-隔離近-人-官方稱不明原因肺炎-泰國神婆mor-plai曾預言-肺癆與黑死病
-2026-10-06	https://news.now.com/home/international/player?newsId=664786&home=1
 2026-10-06	https://hk.finance.yahoo.com/news/俄羅斯淡化鼠疫疑慮-否認實驗室事故-稱女科學家死於-不明原因肺炎-232115049.html
-2026-10-06	https://news.tvb.com/tc/1199164-俄羅斯實驗室疑洩危險病原一名研究員死亡特朗普稱願向俄方提供協助
-2026-10-06	https://www.singtao.ca/googleamp/amp.php?region=vancouver_hk&cat=296&post_id=7646846
-2026-10-06	https://hk.finance.yahoo.com/news/俄研究所員工疑染鼠疫亡-急隔離200接觸者-盧比歐-美方正密切追蹤-215602188.html
 2026-10-06	https://www.ftnn.com.tw/news/585013
 2026-10-06	https://health.setn.com/news/1918139
 2026-10-06	https://m.hkej.com/landing/mobarticle2/id/4532514/俄實驗室打破肺鼠疫試管 恐爆疫女職員染不明肺炎亡 200接觸者隔離觀察
@@ -13352,7 +13338,6 @@ var DATA_URLS = `
 2026-09-30	https://www.stheadline.com/society/3621162/%E5%A4%A7%E9%BC%A0%E6%88%8A%E5%9E%8B%E8%82%9D%E7%82%8E80%E6%AD%B2%E5%A5%B3%E5%AD%90%E6%9F%93%E7%96%AB-%E7%82%BA%E6%97%A9%E5%89%8D%E6%84%9F%E6%9F%93%E5%80%8B%E6%A1%88%E5%AE%B6%E4%BA%BA-%E6%96%99%E6%84%9F%E6%9F%93%E6%BA%90%E9%A0%AD%E7%82%BA%E4%BD%95%E6%96%87%E7%94%B0%E5%BB%A3%E5%A0%B4%E8%8C%B6%E7%9A%87%E6%AE%BF
 2026-09-30	https://www.881903.com/news/local/2652694
 2026-09-30	https://hk.on.cc/hk/bkn/cnt/intnews/20260930/bkn-20260930200025021-0930_00992_001.html
-2026-09-30	https://metrohk.com.hk/國際/八歲日本偶像平田月流感猝逝-091583
 2026-09-30	https://news.rthk.hk/rthk/ch/component/k2/1872188-20260930.htm
 2026-09-30	https://www.bastillepost.com/hongkong/article/16881070-%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AE%89%E8%80%81%E9%99%A2%E5%85%AB%E6%97%AC%E5%A9%A6%E6%9F%93%E5%A4%A7%E9%BC%A0%E6%88%8A%E5%9E%8B%E8%82%9D%E7%82%8E-%E7%82%BA%E6%97%A9%E5%89%8D91%E6%AD%B2%E6%84%9F
 2026-09-30	https://health.udn.com/health/story/5999/9785188?from=udn-articlemain_ch1005
@@ -16479,10 +16464,7 @@ var DATA_URLS = `
 2026-10-09	https://www.tvb.com/dramanews-c/死有對証-閨密吳若希慘死-陳曉華連叫3次名晒層遞式喊戲-親爆靠一招入戲1Take過-1016487
 2026-10-09	https://news.pchome.com.tw/society/ctinews/20261008/index-79146619498055309002.html
 2026-10-09	https://www.setn.com/ampnews/1919635
-2026-10-09	https://news.mingpao.com/ins/港聞/article/20261008/s00001/1791426923207/【審訊追蹤-蔡天鳳案】辯方屢質疑蔡家財政狀况-指蔡天鳳兩度抵押單位-蔡母-女兒花費不高但要供養鄺家
 2026-10-09	https://news.mingpao.com/ins/港聞/article/20261008/s00001/1791471276732/10歲女童提兩大袋啤酒事件-涉虐兒被捕男女已獲准保釋候查
-2026-10-08	https://www.singtao.ca/7649211/2026-10-07/news-蔡天鳳碎屍案｜蔡母指鄺球「病到就嚟死」靠蔡天鳳碌卡廿多萬救命/
-2026-10-08	https://m.hkej.com/landing/mobarticle2/id/4535392/蔡天鳳案丨蔡母:鄺球曾病到就嚟死 靠女兒碌卡20幾萬救命
 2026-10-08	https://www.setn.com/ampnews/1919074
 2026-10-08	https://www.dotdotnews.com/a/202610/08/AP6ac6e3f4e4b02724bdb6b36e.html
 2026-10-08	https://www.hk01.com/地產樓市/60397466/三老友夾錢買樓-44年後-兩死一失蹤-終121萬沽出三分一業權
@@ -16504,6 +16486,7 @@ var DATA_URLS = `
 2026-10-06	https://hkcd.com.hk/hkcdweb/content/2026/10/06/content_8778673.html
 2026-10-06	https://www.stheadline.com/realtime-world/3622988/美喬治亞州街頭派對後爆槍擊-釀2死35傷
 2026-10-06	https://news.pchome.com.tw/internation/m00361/20261005/index-79118158952430361011.html
+2026-10-06	https://news.mingpao.com/ins/國際/article/20261005/s00005/1791169395319/短片-西班牙暴雨成災釀兩死一失蹤-多處被淹浸
 2026-10-06	https://tw.news.yahoo.com/%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%8A%97%E8%AD%B0%E6%BD%AE-%E7%A4%BA%E5%A8%81%E8%AE%8A%E8%AA%BF-%E6%88%90%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81-112307761.html
 2026-10-06	https://news.pchome.com.tw/society/m00361/20261006/index-79125395678412361002.html
 2026-10-06	https://www.orangenews.hk/china/VXF8RpJ/%E6%9C%89%E7%89%87-%E7%B7%AC%E5%8C%97%E9%9B%BB%E8%A9%90%E4%B8%BB%E7%8A%AF%E9%9A%A8%E6%A9%9F%E6%AE%BA%E4%BA%BA%E7%A5%AD%E5%A4%A9-%E6%9C%89%E5%8F%97%E5%AE%B3%E8%80%85%E9%A0%AD%E9%AA%A87%E5%80%8B%E5%BD%88%E5%AD%94.shtml
@@ -18536,6 +18519,7 @@ var DATA_URLS = `
 2026-10-09	https://news.pchome.com.tw/society/ctinews/20261009/index-79152752452272309002.html
 2026-10-09	https://news.mingpao.com/ins/港聞/article/20261008/s00001/1791454689373/女警誕嬰後大量出血離世-醫委會事隔10年稱證據不足結束投訴-家屬向醫衛局發信申訴
 2026-10-09	https://www.ftnn.com.tw/news/585908
+2026-10-09	https://video.udn.com/news/1330230
 2026-10-09	https://www.weekendhk.com/?p=3520299
 2026-10-09	https://www.exmoo.com/article/266551.html
 2026-10-08	https://vct.news/news/黄飞鸿第5代传人何麦猝逝-曾任施瓦辛格保镳
@@ -18546,6 +18530,8 @@ var DATA_URLS = `
 2026-10-08	https://www.epochtimes.com/b5/26/10/6/n14864584.htm/amp
 2026-10-08	https://news.huanbohainews.com.cn/2026-10/08/content_50555364.html
 2026-10-08	https://news.pchome.com.tw/living/thehubnews/20261007/index-79136931077212306009.html
+2026-10-08	https://www.epochtimes.com/b5/26/10/7/n14865334.htm
+2026-10-08	https://www.ntdtv.com/gb/2026/10/07/a104139569.html
 2026-10-08	https://news.pchome.com.tw/healthcare/taiwanhot/20261007/index-79138652090355221012.html
 2026-10-08	https://www.exmoo.com/article/266522.html
 2026-10-08	https://www.bastillepost.com/hongkong/article/16928504-西班牙首相就八旬婦被逐後離世致哀-曾引發全國示
@@ -18579,7 +18565,6 @@ var DATA_URLS = `
 2026-10-02	https://m.yule.360.com/content/5232166
 2026-10-02	https://guangming.com.my/本地男自公寓坠下身亡-警列猝死案处理
 2026-10-02	https://www.ftnn.com.tw/news/583938
-2026-10-02	https://tw.news.yahoo.com/彰化男肋骨斷14根離奇亡-3千萬遺產轉堂哥名下-躺-鈔票床-炫富-004410841.html
 2026-10-02	https://www.ettoday.net/news/20261002/3247823.htm
 2026-10-02	https://www.yeeyi.com/news/details/3239403/
 2026-10-02	https://hk.news.yahoo.com/多區昨逾35度-今稍紓緩-酷熱下賽事-兩送院-人不治-200000388.html
@@ -22573,7 +22558,6 @@ var DATA_URLS = `
 2026-10-01	https://ici.radio-canada.ca/rci/zh-hant/%E6%96%B0%E9%97%BB/2286468/%E5%8D%8F%E5%8A%A9-%E8%87%AA%E6%9D%80-%E6%AF%92%E8%8D%AF-%E5%8D%96%E5%AE%B6-%E7%BD%97-%E9%87%8F%E5%88%91-%E8%81%86%E8%AE%AF
 2026-10-01	https://www.arch-web.com.tw/娛樂/ufo-youtuber-自殺身亡/632396/
 2026-09-30	https://www.dotdotnews.com/a/202609/30/AP6abcf400e4b02724bdb60a34.html
-2026-09-30	https://hk.on.cc/hk/bkn/cnt/news/20260930/bkn-20260930111535286-0930_00822_001.html
 2026-09-30	https://www.hk01.com/突發/60395126/珍惜生命-荃灣鹹田街男子失聯多日-胞妹上門揭發膠袋笠頭亡
 2026-09-30	https://www.hk01.com/突發/60394999/珍惜生命-荃灣沙咀道工廈男子疑爬外牆-3小時後被勸返安全位置
 2026-09-30	https://global.hk01.com/突发/60395126/珍惜生命-荃湾咸田街男子失联多日-胞妹上门揭发胶袋笠头亡
@@ -26074,19 +26058,14 @@ var DATA_URLS = `
 2015-01-31	https://www.setn.com/news/59592
 2026-10-10	https://news.google.com/rss/articles/CBMiUEFVX3lxTE80Ml96TVp0NkpGRlB6VU8xZmRQdmcwT1RnUEpjdnZDV0UzejlsU2hJeUR3Z1NwWTkxektBVldGaUluRkpBaEUxaUU2Z0RwZ2100gFWQVVfeXFMTTV6WEktZ2hzcWlrYVdRTTRQMmswY0ZaSG1wQ1NFV1lTVnVFRFJsa3VMY3FQREJJREFpam5UMFNFUVFfblhJc0huMTZvZVYyZVMydlVnMlE?oc=5
 2026-10-10	https://news.ltn.com.tw/news/society/breakingnews/5601688
-2026-10-09	https://www.hk01.com/突發/60397950/黃大仙老翁搭小巴跌倒亡-登車時突開車-69歲司機涉危駕致死被捕
-2026-10-09	https://www.hk01.com/突發/60397950/黃大仙翁乘車跌倒後亡-疑未坐定小巴已開車-司機涉危駕致死被捕
 2026-10-09	https://www.am730.com.hk/article/1057536
 2026-10-09	https://www.orangenews.hk/hongkong/VXXNqek/八旬翁黃大仙搭小巴上車跌傷留醫6日亡-子盼還原經過-司機涉危駕致死被捕.shtml
-2026-10-08	https://www.stheadline.com/realtime-china/3623833/貴州山區巨石砸車-釀2死1歲嬰危殆
 2026-10-08	https://www.wenweipo.com/a/202610/08/AP6ac74947e4b01d54a286547e.html
 2026-10-08	https://www.stheadline.com/breaking-news/3623687/荃錦公路貨車疑撞電單車不顧而去-鐵騎士送院亡
 2026-10-08	https://udn.com/news/amp/story/7320/9801988
 2026-10-08	https://www.singtao.ca/7648695/2026-10-07/news-旺市六旬女護工遭撞斃 伏屍路旁近兩日 警尋肇事司機/
 2026-10-07	https://hk.on.cc/hk/bkn/cnt/news/20221230/bkn-20221230140213547-1230_00822_001.html
-2026-10-06	https://www.hk01.com/社會新聞/60396768/裝修工涉打死巴士司機-司機被踢至頭部重創-謀殺罪成判囚終身
 2026-10-06	https://hk.on.cc/hk/bkn/cnt/news/20261006/bkn-20261006135135094-1006_00822_001.html
-2026-10-06	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/17912035260135/娛樂-死有對証-偷影大新聞穿煲飛車逃走-阮浩棕唔識揸鐵馬替身代勞
 2026-10-06	https://www.ettoday.net/news/20261006/3249762.htm
 2026-10-06	https://std.stheadline.com/breaking-news/3622868/屯門公路4車相撞-涉2的士2私家車-3人輕傷送院
 2026-10-06	https://www.ettoday.net/news/20261006/3249801.htm
@@ -26099,14 +26078,12 @@ var DATA_URLS = `
 2026-10-02	https://news.ltn.com.tw/news/society/breakingnews/5592963
 2026-10-02	https://news.ltn.com.tw/news/society/breakingnews/5593189
 2026-10-02	https://guangming.com.my/轿车突切车道酿祸-罗里失控撞死维护工
+2026-10-02	https://www.dotdotnews.com/a/202610/02/AP6abf2f5fe4b02724bdb6334b.html
 2026-10-02	https://news.mingpao.com/ins/港聞/article/20261002/s00001/1790917688390/貨櫃車屯赤隧道出口剷上石壆-司機昏迷送院
-2026-10-02	https://news.now.com/revamp2014/newsDetails.m.jsp?newsId=664324
 2026-10-02	https://travel.ettoday.net/article/3230347.htm
 2026-10-02	https://www.am730.com.hk/本地/1056331/屯門龍富路迴旋處貨櫃車疑-自炒-撞壆-男司機昏迷送院搶救
 2026-10-02	https://www.hk01.com/突發/60395727/屯門龍富路迴旋處貨櫃車剷上石壆-58歲男司機昏迷送院搶救
-2026-10-02	https://www.stheadline.com/breaking-news/3621640/屯赤拖頭撞壆-司機被困救出昏迷送院
 2026-10-02	https://news.ltn.com.tw/news/society/breakingnews/5592972
-2026-10-02	https://news.ebc.net.tw/news/society/573813
 2026-10-02	https://news.ltn.com.tw/news/society/breakingnews/5593222
 2026-10-02	https://hk.on.cc/hk/bkn/cnt/news/2026023/bkn-20260203205219149-0203_00822_001.html
 2026-10-02	https://www.wenweipo.com/a/202610/02/AP6abf437ae4b01d54a2859fc8.html
@@ -26129,6 +26106,7 @@ var DATA_URLS = `
 2026-09-30	https://www.am730.com.hk/本地/1056045/粉嶺沙頭角路保姆車與專線小巴相撞-5人送院包括4名學童
 2026-09-30	https://news.ltn.com.tw/news/society/breakingnews/5590339
 2026-09-30	https://udn.com/news/story/7266/9785017
+2026-09-30	https://www.orangenews.hk/hongkong/VWgo1oc/有片-呈祥道的士司機暈倒乘客驚惶拍打-無人駕駛半分鐘失控撞壆.shtml
 2026-09-30	https://www.mnews.tw/story/20260930sot0846001
 2026-09-30	https://today.line.me/tw/v3/article/LXemDEz
 2026-09-30	https://tw.news.yahoo.com/%E5%BF%A0%E5%AD%9D%E6%A9%8B%E9%80%A3%E7%92%B0%E6%92%9E%E8%BB%8A%E7%A6%8D%E9%87%80%E5%A4%9A%E4%BA%BA%E6%91%94%E8%BB%8A-%E6%A9%9F%E8%BB%8A%E9%81%93%E5%A1%9E%E7%88%86-%E9%A8%8E%E5%A3%AB%E5%B4%A9%E6%BD%B0-%E5%8D%A13%E5%80%8B99%E7%A7%92%E7%B4%85%E7%87%88-035651953.html
@@ -28250,7 +28228,6 @@ var DATA_URLS = `
 2026-08-06	https://tw.news.yahoo.com/畫面如-出埃及記-10災駭人-蝗蟲大軍-密麻遮天-065602687.html
 2026-08-06	https://www.nexttv.com.tw/NextTV/News/Home/WorldNews/2026-08-06/2428805.html
 2026-08-06	https://www.setn.com/news/1885236
-2026-08-06	https://www.ftnn.com.tw/news/567670
 2026-08-04	https://eastweek.stheadline.com/jetso/20599/%E8%B3%9E%E6%82%A8%E6%9C%AB%E4%B8%96%E6%A9%A1%E6%A8%B9%E8%A1%97%E5%84%AA%E5%85%88%E5%A0%B4%E6%88%B2%E7%A5%A830%E5%BC%B5%E6%9D%B1%E5%91%A8JETSO
 2026-08-03	https://www.bastillepost.com/hongkong/article/16489280-%E5%AE%89%E5%A6%AE%E5%A4%8F%E8%8F%B2%E7%B6%AD-x-%E4%BC%8A%E9%9B%B2%E9%BA%A5%E8%91%B5%E6%A0%BC%E5%85%A9%E5%A4%A7%E5%B7%A8%E6%98%9F%E9%A6%96%E5%BA%A6%E8%81%AF%E6%89%8B%EF%BC%81%E3%80%8A%E6%9C%AB
 2026-07-31	https://www.cna.com.tw/news/aloc/202607310263.aspx
