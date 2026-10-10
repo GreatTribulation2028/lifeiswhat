@@ -1,5 +1,7 @@
-// 天災 | 由 build_news_js.py 生成 | 共 3772 條
+// 天災 | 由 build_news_js.py 生成 | 共 3775 條
 var DATA_DISASTER = `
+2026-10-10	巴拿馬7.7級地震後錄多次餘震 總統指正協調向災區提供援助	https://news.rthk.hk/rthk/ch/component/k2/1873415-20261010.htm	未分類
+2026-10-10	加薩停火滿週年仍陷糧食危機 逾百萬人面臨嚴重營養不良	https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1WDY2eGgwX3lkZ0otbG1Mem5TYm9KdnkyX2lFWmpFZFRUbHlkbXdLTTdnQlZBTWZiUU9abDRTZWUxSk5xUDZma2Y4ZkpFSWxGYm1STDdNemU2RUszN21BVg?oc=5	未分類
 2026-10-07	道奇4局背靠背雙轟炸塞爾！37歲飆100英里寫紀錄 睽違3個月挨2轟	https://sports.ettoday.net/news/3250337	未分類
 2026-10-07	美期中選舉後加大打擊？ 范斯：伊朗想停戰須實質削減濃縮鈾	https://www.ettoday.net/news/20261007/3250327.htm	未分類
 2026-10-07	川普考慮立陶宛設永久美軍基地 俄警告將升高局勢	https://www.ettoday.net/news/20261007/3250347.htm	未分類
@@ -830,6 +832,7 @@ var DATA_DISASTER = `
 2026-08-17	印度神童預言成真？太平洋火環「巨龍甦醒」已爆發10次7級地震！ 重溫天災預言＋下一個巨震時間點！	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/17869549090910/印度神童預言成真-太平洋火環-巨龍甦醒-已爆發10次7級地震--重溫天災預言-下一個巨震時間點-	未分類
 2026-08-17	印尼弗洛勒斯島再次地震 強度5.7級 (10:16) - 20260817 - 國際	https://news.mingpao.com/ins/國際/article/20260817/s00005/1786931064000/印尼弗洛勒斯島再次地震-強度5-7級	未分類
 2026-08-17	印尼一火山发生喷发 火山灰柱高约800米	https://news.cctv.com/2026/08/17/ARTIIre0Gp7esbpuaUOWdWXt260817.shtml	未分類
+2026-08-17	南韓南部暴雨成災 多處山泥傾瀉致1死逾20人被困	https://news.google.com/rss/articles/CBMi2gJBVV95cUxPcjg4dXFjY0JPLUtEQm5sTXJRd19CM1ozdFI4UDNPNXhtQkhkank4V3JoZXlkd0JLcFgzdEFrVjZzSzVzLVdWejRFZkFXU3BSWkw5amlnZjR0cGd1X2hibmdRNGRYdTBraDVRdVgtSVp0MXltXy10dlcxejZZLVByNlZSc1Nnei1GWTU0QkpzaF8wdzFMbWg2cmlzS0VjdjRNVkNIMDJhYm55Mzd4bzZQdmtidnU4Z0taeU8tdUU5SWRSX3JkTmJvVUxhQTZwM3B0WHhFNDdXYVJXVk01MlFKdHBKUjRjNEFUVjgxZENhbGNOUmJ2TnB1Q2dZbGRQanN6eVdTWkFkMEk3R0V3MHFJSUpMVDV4OUpsdEpIMmgycmFvZ1hCOFZfTzN1U0ZoVXhiek1qMklZLThyZXdTakNwYkNNemhLZTFnSk5fYXhEc29jd1BERTRwVVNn?oc=5	未分類
 2026-08-17	乾旱重創藍寶石 阿爾卑斯野生藍莓飆漲	https://tw.news.yahoo.com/乾旱重創藍寶石-阿爾卑斯野生藍莓飆漲-230317425.html	未分類
 2026-08-17	​美國持續乾旱致兩大水庫水位相繼創新低 「生命之河」科羅拉多河陷供水危機	https://www.orangenews.hk/international/VSXKcr8/美國持續乾旱致兩大水庫水位相繼創新低--生命之河-科羅拉多河陷供水危機.shtml	未分類
 2026-08-16	阿蘇火山警戒急升！ 台人墜機遺體吊掛喊卡「不排除放棄」	https://www.ftnn.com.tw/news/570369	未分類
