@@ -1,5 +1,8 @@
-// 火警 | 由 build_news_js.py 生成 | 共 1110 條
+// 火警 | 由 build_news_js.py 生成 | 共 1117 條
 var DATA_FIRE = `
+2026-10-08	西國住房危機延燒 87歲嬤逝民怒火再起	https://www.cna.com.tw/video/news/4356834	未分類
+2026-10-08	屯門兆麟苑單位火警 曾傳爆炸聲 1人不適送院	https://www.hk01.com/突發/60397559/屯門兆麟苑單位火警-曾傳爆炸聲-1人不適送院	未分類
+2026-10-08	屯門兆麟苑單位冒煙起火傳出爆炸聲 1人不適送院	https://www.am730.com.hk/本地/1057385/屯門兆麟苑單位冒煙起火傳出爆炸聲-1人不適送院	未分類
 2026-10-07	火舌狂竄畫面曝！台中外埔鐵皮屋凌晨大火 夫妻逃不出成焦屍	https://www.ettoday.net/news/20261007/3250349.htm	未分類
 2026-10-04	西門町餐廳晚間火警！濃煙竄出民眾駐足圍觀	https://www.ettoday.net/news/20261004/3248602.htm	未分類
 2026-10-04	快訊／宜蘭員山建材行深夜惡火 住宅陷火海！2死2人待搜救	https://www.ettoday.net/news/20261004/3248613.htm	未分類
@@ -15,7 +18,11 @@ var DATA_FIRE = `
 2026-10-01	北市新生北路大樓頂樓冒火光 高架橋直擊濃煙竄天	https://news.ltn.com.tw/news/society/breakingnews/5592450	未分類
 2026-09-30	高雄旗津漁港驚傳火警 多艘漁船遭燒毀	https://news.ltn.com.tw/news/society/breakingnews/5590550	未分類
 2026-09-30	萬華第一果菜市場深夜大火疑拖板車起火釀禍- 社會	https://news.cts.com.tw/cts/society/202609/202609303084372.html	未分類
+2026-09-30	沙田水泉澳邨有單位起火 四人吸入濃煙不適	https://news.now.com/home/local/player?newsId=664115	未分類
+2026-09-30	沙田水泉澳邨有單位起火 一家四口吸入濃煙送院	https://www.hkej.com/instantnews/current/article/4527326/沙田水泉澳邨有單位起火+一家四口吸入濃煙送院	未分類
+2026-09-30	沙田水泉澳邨單位起火 一家4口吸入濃煙送院 140人疏散	https://www.stheadline.com/breaking-news/3620842/沙田水泉澳邨單位起火-一家4口吸入濃煙送院-140人疏散	未分類
 2026-09-30	水泉澳邨有單位起火 初步4人傷	https://news.rthk.hk/rthk/ch/component/k2/1872086-20260930.htm	未分類
+2026-09-30	水泉澳邨單位起火 一家四口吸入濃煙送院 (10:27) - 20260930 - 港聞	https://news.mingpao.com/ins/港聞/article/20260930/s00001/1790734298568/水泉澳邨單位起火-一家四口吸入濃煙送院	未分類
 2026-09-30	仁德廠房大火連累鄰居慘賠 4人搶拍1308萬低價標出	https://house.ettoday.net/news/3245965	未分類
 2026-09-26	快訊／北市大安工地深夜大火！蔣萬安：地下3樓搶救難度較高	https://www.ettoday.net/news/20260927/3244594.htm	未分類
 2026-09-26	台南佳里撞球場不明原因大火 消防員打火兩小時撲滅器材設施付之一炬	https://udn.com/news/story/7320/9778510	未分類
