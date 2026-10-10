@@ -1,4 +1,4 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 295 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 294 條
 var DATA_TRIBULATION = `
 2026-10-07	巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦	https://finance.ettoday.net/news/3250507	未分類
 2026-10-06	她們的歌你一定聽過！千禧年6女歌手消失「當家長會長、嫁豪門」近況曝	https://star.ettoday.net/news/3248095	未分類
@@ -135,7 +135,6 @@ var DATA_TRIBULATION = `
 2026-08-06	畫面如〈出埃及記〉10災駭人 蝗蟲大軍「密麻遮天」像末日	https://tw.news.yahoo.com/畫面如-出埃及記-10災駭人-蝗蟲大軍-密麻遮天-065602687.html	未分類
 2026-08-06	俄羅斯遭「蝗蟲大軍」壓境 驚悚景象宛如末日來臨	https://www.nexttv.com.tw/NextTV/News/Home/WorldNews/2026-08-06/2428805.html	未分類
 2026-08-06	俄羅斯蝗害肆虐！鋪天蓋地襲來宛如末日網驚：聖經十災| 國際	https://www.setn.com/news/1885236	未分類
-2026-08-06	〈出埃及記〉10災真實上演…蝗蟲大軍強襲「密麻遮天」 宛如末日驚悚畫面曝光	https://www.ftnn.com.tw/news/567670	未分類
 2026-08-04	賞您《末世橡樹街》優先場戲票30張｜東周JETSO	https://eastweek.stheadline.com/jetso/20599/%E8%B3%9E%E6%82%A8%E6%9C%AB%E4%B8%96%E6%A9%A1%E6%A8%B9%E8%A1%97%E5%84%AA%E5%85%88%E5%A0%B4%E6%88%B2%E7%A5%A830%E5%BC%B5%E6%9D%B1%E5%91%A8JETSO	未分類
 2026-08-03	安妮夏菲維 X 伊雲麥葵格兩大巨星首度聯手！《末世橡樹街》 逃出絕境家園	https://www.bastillepost.com/hongkong/article/16489280-%E5%AE%89%E5%A6%AE%E5%A4%8F%E8%8F%B2%E7%B6%AD-x-%E4%BC%8A%E9%9B%B2%E9%BA%A5%E8%91%B5%E6%A0%BC%E5%85%A9%E5%A4%A7%E5%B7%A8%E6%98%9F%E9%A6%96%E5%BA%A6%E8%81%AF%E6%89%8B%EF%BC%81%E3%80%8A%E6%9C%AB	未分類
 2026-07-31	新北馬拉松接力賽12/6開跑666隊即日開放報名| 地方	https://www.cna.com.tw/news/aloc/202607310263.aspx	未分類
