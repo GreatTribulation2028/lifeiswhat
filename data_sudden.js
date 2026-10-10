@@ -1,5 +1,6 @@
-// 猝死 | 由 build_news_js.py 生成 | 共 3918 條
+// 猝死 | 由 build_news_js.py 生成 | 共 3919 條
 var DATA_SUDDEN = `
+2026-10-10	28歲女乘客「飛機上猝死」空姐以為是睡著！ 降落才知已成坐屍	https://www.ettoday.net/news/20261010/3252266.htm	未分類
 2026-10-07	最年長奧斯卡得主離世！《超人再起》養母伊娃瑪莉桑特 享嵩壽102歲	https://star.ettoday.net/news/3250333	未分類
 2026-10-07	《請回答1988》好邪！金柱赫全美善先後離世	https://hk.on.cc/hk/bkn/cnt/entertainment/20190629/bkn-20190629183017297-0629_00862_001.html	未分類
 2026-10-05	登山猝死 儘管難防還是要防	https://www.peopo.org/news/828876	未分類
