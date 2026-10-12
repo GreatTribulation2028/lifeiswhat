@@ -1,5 +1,6 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 294 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 316 條
 var DATA_TRIBULATION = `
+2026-10-10	人工智慧末日可能始於網路攻擊 - Root-Nation.com	https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdTNNRmUyQWFsMTFHczRmaU9HaW4xaWFmdFhyNTA1bmhvNWNCSkdMYlVJV3V5UF94S2F6SWFWb3R3SURhY3pkRDBicXlTenI5MWpWOVZmMXFoSzF0ZGExcVF5cW1mZGp1ZGV1cUhzVTJDWm0ySWwyWU1BVWtuQnJqcWdlSUxSd0Nhbmk2cUNzVlZORmdkX1BFOGZvYk9QZzdRZHVHSEM1NmhHMk1MQzdfV3huYXE3eUxCTlJTYUVoTnJGNDV6dTZibUtQZllDVWR4NjZ3cG1fNjJGVHNI?oc=5	未分類
 2026-10-07	巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦	https://finance.ettoday.net/news/3250507	未分類
 2026-10-06	她們的歌你一定聽過！千禧年6女歌手消失「當家長會長、嫁豪門」近況曝	https://star.ettoday.net/news/3248095	未分類
 2026-10-05	麥克斯·布魯克斯：把世界末日寫成求生手冊的《World War Z》作者	https://zh-hant.martincid.com/books-zh-hant/%E9%BA%A5%E5%85%8B%E6%96%AF%C2%B7%E5%B8%83%E9%AD%AF%E5%85%8B%E6%96%AF%EF%BC%9A%E6%8A%8A%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%AF%AB%E6%88%90%E6%B1%82%E7%94%9F%E6%89%8B%E5%86%8A/	未分類
@@ -28,6 +29,7 @@ var DATA_TRIBULATION = `
 2026-09-19	黃仁勳：AI 滅世機率是 0% 2030 年不會是世界末日 特朗普「騙局論」獲認同	https://unwire.hk/2026/09/19/jensen-huang-ai-extinction-0-percent/ai/	未分類
 2026-09-19	黃仁勳再度駁斥“AI末日論”：2030年世界末日概率爲零 作者 智通財經 - Investing.com 香港	https://hk.investing.com/news/stock-market-news/article-1664937	未分類
 2026-09-19	黃仁勳再反駁AI末日論 「2030年世界末日機會是零」	https://www.stheadline.com/realtime-finance/3617084/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%86%8D%E5%8F%8D%E9%A7%81AI%E6%9C%AB%E6%97%A5%E8%AB%96-2030%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E6%A9%9F%E6%9C%83%E6%98%AF%E9%9B%B6	未分類
+2026-09-19	AI該放慢腳步否則世界末日將至？黃仁勳斷言：應儘可能全速發展| 全球財經| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsdjB5MWNEZ2plclZ2LUNoYUlZWTRsWGFYNlVoYmQwamptY1dER2trYmY4bld0TURkUVdjZ2RHc2ZObTlmSGtEZE5aMU41aHVD?oc=5	未分類
 2026-09-19	AI 該放慢腳步否則世界末日將至？黃仁勳：No，應儘可能全速發展	https://money.udn.com/money/story/5599/9764958	未分類
 2026-09-18	電影《大空頭》原型：AI巨頭製造「末日恐慌」其實另有圖謀！	https://www.hkcd.com.hk/content_app/2026-09/18/content_8775744.html	未分類
 2026-09-18	【短訊】川普顧問:AI恐慌遭操弄 曝金主推「AI末日論」	https://www.ntdtv.com/b5/2026/09/17/a104133852.html	未分類
@@ -76,6 +78,7 @@ var DATA_TRIBULATION = `
 2026-09-11	被提分手"男揮斧頭"當街砍女友! 25歲女"手腳狂噴血"│中視新聞 20260911	https://www.ctv.com.tw/Article/%E8%A2%AB%E6%8F%90%E5%88%86%E6%89%8B-%E7%94%B7%E6%8F%AE%E6%96%A7%E9%A0%AD-%E7%95%B6%E8%A1%97%E7%A0%8D%E5%A5%B3%E5%8F%8B-25%E6%AD%B2%E5%A5%B3-%E6%89%8B%E8%85%B3%E7%8B%82%E5%99%B4%E8%A1%80-%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E-20260911	未分類
 2026-09-11	日本爆紅「666步行法」！毋須爆汗日行萬步網民實測 11天減4.5公斤兼瘦腿	https://hk.ulifestyle.com.hk/topic/detail/20109706/%E6%97%A5%E6%9C%AC%E7%88%86%E7%B4%85-%E6%AD%A5%E8%A1%8C%E6%B3%95-%E6%AF%8B%E9%A0%88%E7%88%86%E6%B1%97%E6%97%A5%E8%A1%8C%E8%90%AC%E6%AD%A5%E7%B6%B2%E6%B0%91%E5%AF%A6%E6%B8%AC-%E5%A4%A9%E6%B8%9B-%E5%85%AC%E6%96%A4%E5%85%BC%E7%98%A6%E8%85%BF	未分類
 2026-09-11	Miraizaka的Torimero III變身為「後世界末日酒吧」！ Miraizaka的Torimero和動畫「北斗之拳」的合作活動將於9月16日開始！	https://www.coamix.co.jp/zh-tw/topics/hokuto_260903	未分類
+2026-09-10	英國空管系統故障！2100航班受衝擊 倫敦希斯洛機場陷「世界末日」	https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yNzk1NlpqLWUzWHZTdmxDUjlXMEZLaXJycTFkQm9EWGhUM3IyblhOYXRFd0VMM29reTZFemxvMld3bllHTlBVRmpDTHlrOUJqV25KXw?oc=5	未分類
 2026-09-09	一手向隅客666萬購大埔University Hill2房 原業主持貨3年蝕34萬	https://www.stheadline.com/realtime-property/3613277/%E4%B8%80%E6%89%8B%E5%90%91%E9%9A%85%E5%AE%A2666%E8%90%AC%E8%B3%BC%E5%A4%A7%E5%9F%94University-Hill2%E6%88%BF-%E5%8E%9F%E6%A5%AD%E4%B8%BB%E6%8C%81%E8%B2%A83%E5%B9%B4%E8%9D%9534%E8%90%AC	未分類
 2026-09-08	港交所及LME再因鎳交易被提申索 港交所：將積極抗辯 - i-cable.com	https://www.i-cable.com/%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A/502207/%E6%B8%AF%E4%BA%A4%E6%89%80%E5%8F%8Alme%E5%86%8D%E5%9B%A0%E9%8E%B3%E4%BA%A4%E6%98%93%E8%A2%AB%E6%8F%90%E7%94%B3%E7%B4%A2-%E6%B8%AF%E4%BA%A4%E6%89%80-%E5%B0%87%E7%A9%8D%E6%A5%B5	未分類
 2026-09-06	家明雜感：《末世行者》 科羅拉多末世唐詩詩意 - 20260906 - 副刊	https://news.mingpao.com/pns/%E5%89%AF%E5%88%8A/article/20260906/s00005/1788624293050/%E5%AE%B6%E6%98%8E%E9%9B%9C%E6%84%9F-%E3%80%8A%E6%9C%AB%E4%B8%96%E8%A1%8C%E8%80%85%E3%80%8B-%E7%A7%91%E7%BE%85%E6%8B%89%E5%A4%9A%E6%9C%AB%E4%B8%96%E5%94%90%E8%A9%A9%E8%A9%A9%E6%84%8F	未分類
@@ -85,9 +88,11 @@ var DATA_TRIBULATION = `
 2026-09-02	法人目標價喊666元！「這工程設備大廠」在手訂單衝1351億創新高 AI大單一路排到3年後！	https://www.ftnn.com.tw/news/575318	未分類
 2026-09-02	末世囚心：死對頭暗戀我 第二季 繁體版	https://www.mytvsuper.com/tc/programme/cebee6875b5f4db6a05a_701002666/%E6%9C%AB%E4%B8%96%E5%9B%9A%E5%BF%83%E6%AD%BB%E5%B0%8D%E9%A0%AD%E6%9A%97%E6%88%80%E6%88%91-%E7%AC%AC%E4%BA%8C%E5%AD%A3-%E7%B9%81%E9%AB%94%E7%89%88/	未分類
 2026-09-02	【影評】《希望：末日血戰》：失序的狩獵之旅。｜躲在電影裡的詩人 - 方格子	https://vocus.cc/article/amp/6a980f33fd89780001e6c2e0	未分類
+2026-09-01	世界末日要來了？比預期短一半 NASA數據揭「地球毀滅」時間	https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXhLTnNRbmt1WXpwTWd1cnFIZXhBSXBwN0QyNTJBN1Y3bGhxVG5zbkxtR0ZwWWxUVUVkODdFbnRLMl9sUnBMMFp0UldKaW9GekJTMmhhV3hDYmpnVURCeWpkWXVYdEFPYUhQOTkzckVSUk90b2xicWg4QmRIRllkdmtR?oc=5	未分類
 2026-08-31	不是讚美！日本朋友問背包哪買 台人被提點才知真意：根本沒聽懂	https://udn.com/news/story/120912/9724533	未分類
 2026-08-31	【異靈異異】梁錦祥｜ 透過8.26大災難重温漢卡克理論	https://hk.epochtimes.com/news/2026-08-31/66058763	未分類
 2026-08-31	《希望：末日血戰》：在世界末日，與困獸一起等待	https://filmaholic.tw/films/6a9bea68fd89780001b97c0e/	未分類
+2026-08-30	西藏冰崩土石流如「世界末日」！陸官方警戒：探測出8處高風險點	https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2dG9WMUE0U1FqS0hpSHpWZ2xlbzZTNXJUS2xWNEk0SmU3SkFEa3Myd1ExSEFEeVdXSUdFV3hhazhINnJkQTdPWEo2RUVSRlk?oc=5	未分類
 2026-08-28	頭條戲場 - 《HOPE：逆襲希望港》末世寓言好絕望 | 頭條戲場	https://www.stheadline.com/opinion/3608949/%E9%A0%AD%E6%A2%9D%E6%88%B2%E5%A0%B4-HOPE%E9%80%86%E8%A5%B2%E5%B8%8C%E6%9C%9B%E6%B8%AF%E6%9C%AB%E4%B8%96%E5%AF%93%E8%A8%80%E5%A5%BD%E7%B5%95%E6%9C%9B-%E9%A0%AD%E6%A2%9D%E6%88%B2%E5%A0%B4	未分類
 2026-08-28	西藏土石流彷彿世界末日！人車瞬間被吞噬駭人畫面曝	https://tw.news.yahoo.com/%E8%A5%BF%E8%97%8F%E5%9C%9F%E7%9F%B3%E6%B5%81%E5%BD%B7%E5%BD%BF%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E4%BA%BA%E8%BB%8A%E7%9E%AC%E9%96%93%E8%A2%AB%E5%90%9E%E5%99%AC%E9%A7%AD%E4%BA%BA%E7%95%AB%E9%9D%A2%E6%9B%9D-112504314.html	未分類
 2026-08-27	西藏爆270死重大災難！世界第99高峰冰崩 「半座山消失」成浩劫源頭 | 國際 | CTWANT	https://www.ctwant.com/amp/article/495447/	未分類
@@ -96,6 +101,7 @@ var DATA_TRIBULATION = `
 2026-08-27	【熒·情】《末世行者》瘟疫後倖存者的孤獨求生- 副刊	https://www.wenweipo.com/a/202608/27/AP6a8f4b37e4b0c1e500265d84.html	未分類
 2026-08-26	西藏土石流彷彿世界末日！人車瞬間被吞噬駭人畫面曝 | 民視新聞網	https://today.line.me/tw/v3/article/7Nvzejr	未分類
 2026-08-26	涉兩年前樟宜機場購物中心偷外套 英國青年新加坡過境被提控 (14:02) - 20260826 - 國際	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260826/s00005/1787723311628/%E6%B6%89%E5%85%A9%E5%B9%B4%E5%89%8D%E6%A8%9F%E5%AE%9C%E6%A9%9F%E5%A0%B4%E8%B3%BC%E7%89%A9%E4%B8%AD%E5%BF%83%E5%81%B7%E5%A4%96%E5%A5%97-%E8%8B%B1%E5%9C%8B%E9%9D%92%E5%B9%B4%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%81%8E%E5%A2%83%E8%A2%AB%E6%8F%90%E6%8E%A7	未分類
+2026-08-26	影／彷彿世界末日！ 西藏土石流驚悚畫面曝光：人車瞬間被吞噬- 股市爆料同學會	https://news.google.com/rss/articles/CBMiWEFVX3lxTE83ZHhzd2pMMl85UExJaFYyTXFRMi1DQ3A1aF9KbkRXSThqeDBHVTUzU0Z1WnRpNTBNRTUtMFZZc3h0cnJLbzBxYWhmeWdHcVRTVHMwaG1rOU8?oc=5	未分類
 2026-08-26	影／彷彿世界末日！ 西藏土石流驚悚畫面曝光：人車瞬間被吞噬	https://www.ettoday.net/news/20260826/3226256.htm	未分類
 2026-08-25	沈伯洋競選小物曝光！限量666組「奔抱布偶」20分鐘火速完售	https://news.tvbs.com.tw/politics/4012703	未分類
 2026-08-24	《末世行者》「魁隆」搭新世代男神疫情後蠻荒求生	https://hk.on.cc/hk/bkn/cnt/entertainment/20260824/bkn-20260824000107957-0824_00862_001.html	未分類
@@ -140,6 +146,9 @@ var DATA_TRIBULATION = `
 2026-07-31	新北馬拉松接力賽12/6開跑666隊即日開放報名| 地方	https://www.cna.com.tw/news/aloc/202607310263.aspx	未分類
 2026-07-30	東京上野突落冰雹 網民狼狽避難：像世界末日︱有片	https://www.stheadline.com/realtime-world/3599362/%E6%9D%B1%E4%BA%AC%E4%B8%8A%E9%87%8E%E7%AA%81%E8%90%BD%E5%86%B0%E9%9B%B9-%E7%B6%B2%E6%B0%91%E7%8B%BC%E7%8B%BD%E9%81%BF%E9%9B%A3%E5%83%8F%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E6%9C%89%E7%89%87	未分類
 2026-07-28	智原Q2獲利年增666％ Q3因供應鏈緊縮呈現季減	https://ec.ltn.com.tw/article/breakingnews/5520425	未分類
+2026-07-27	「好像世界末日」西班牙野火狂燒7.7萬公頃！逾30萬人撤離，為何愈燒愈失控？	https://news.google.com/rss/articles/CBMiTkFVX3lxTE56aTNxc0JreFZLVEotajNNUFAzQmJEMExqY1VGVmJMRzRIcF9KWDNoTThBaHl6LS1uTHhISDFMRjR3SHVWUUxROHQtZmZwdw?oc=5	未分類
+2026-07-25	法國西班牙野火失控「像世界末日」 撤逾20萬人- 國際	https://news.google.com/rss/articles/CBMibkFVX3lxTE5BbkgtdWRGTWdxeVF2bmZvYTNkY1R4TjFXTU8ybVdfS1Z1eWJhMjJOSDlJak95b3ZseUhTMnJ1REc5QkR2UHpIZmdSSHp2RmZuS0dpOE04ZVNXdWxyc01TS3J6ZlZiTi1ySjJKU2Nn?oc=5	未分類
+2026-07-25	圖／宛若世界末日！智利沿海城市遭巨浪襲擊遊客冒險圍觀| 國際	https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aVmRZLU1odlRhU2lRWlIyalVPRGtubU8yZ0pzMFN3SnF0M3lUdF9zSC1JZFQ2ZllUSmYyTWtPc2Ezd0NiM2Q0?oc=5	未分類
 2026-07-24	曾精準預言新冠來襲、多項天災 泰國神婆曝下半年6大災難	https://tw.news.yahoo.com/曾精準預言新冠來襲-多項天災-泰國神婆曝下半年6大災難-074300819.html	未分類
 2026-07-24	666億募資額，位列A股歷史第三，2010年以來最大規模IPO：長鑫科技下周一上市，造富與抽血誰更兇猛？	https://hao.cnyes.com/post/260637	未分類
 2026-07-18	警察沒考上先遇上「世界末日」 寶萊塢兩大男神徒步大逃亡 逼哭坎城9分鐘	https://tw.news.yahoo.com/%E8%AD%A6%E5%AF%9F%E6%B2%92%E8%80%83%E4%B8%8A%E5%85%88%E9%81%87%E4%B8%8A-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E5%AF%B6%E8%90%8A%E5%A1%A2%E5%85%A9%E5%A4%A7%E7%94%B7%E7%A5%9E%E5%BE%92%E6%AD%A5%E5%A4%A7%E9%80%83%E4%BA%A1-%E9%80%BC%E5%93%AD%E5%9D%8E%E5%9F%8E9%E5%88%86%E9%90%98-183100725.html	未分類
@@ -153,7 +162,9 @@ var DATA_TRIBULATION = `
 2026-07-12	EGS限免：探索末世廢棄島嶼《KeepUp Survival》多人生存建造限時免費	https://www.4gamers.com.tw/news/detail/80591/keepup-survival-is-free-to-keep-on-epic-games-store	未分類
 2026-07-10	麋鹿、耶誕老人全上街！ 新北耶誕馬拉松第三屆開放限量666隊報名	https://n.yam.com/Article/20260710475819	未分類
 2026-07-10	藍白共識！未來帳戶條例「666方案」 拚下周五表決	https://udn.com/news/story/6656/9618943	未分類
+2026-07-10	巴威颱風深夜觸陸！台中南屯、沙鹿接連停電 居民驚：要世界末日了嗎	https://news.google.com/rss/articles/CBMiqANBVV95cUxORERLekZaOG1Yb1R1Z1lEVy1xMFJ3WExTOVI2bC05ZFR0a2R6bHl6VVdOQTlQaVBHLVJsZy0zcjdlQmctZUF0Y0VhLUYzUjhMa2xCb0s3U3hUTTBOdUZMTkNDYWxYOVFTTURxVDRCTW1RMThva19jM2xWdEM0cTVxbWZLMzFuTS1Db3FvUXBqMTU0XzE4MTR2eFZxbHExTXhXUGo3U0hWdGdkLVlrYV9DbHhaZ296bWwyTjFHb0p2N1VDX0FQalRxT1ZDbjZJcWk1THZ5aE4td3l3endRZDIzb05zcmxoQmtoem52UFhmaGFFYWRDSzlpemFQcER5UWVSYl9mMTZyRm9zUGVQUHZrUGdNMnZ3ZHFHZklWdzhmN3V4TE16YW5TdXlpWXM3YVJ1RU14RndCYy0tdVdBS2xibVlwY0w0dG93ZnZrdWhNcUVwS2RCZWVidTJPdERLdXJxNjBJd3o2dUFTbC1FdHRQRThxMU9RY09pRUxyRzJhSWdWbmdnSjBEWEd0Mkt5UWJwYi1ySm4tZGctVnVmRXlLNHVaQjRHdkR1?oc=5	未分類
 2026-07-10	巴威雨彈強襲！台中沙鹿南屯大停電 網驚：是世界末日？	https://tw.news.yahoo.com/%E5%B7%B4%E5%A8%81%E9%9B%A8%E5%BD%88%E5%BC%B7%E8%A5%B2-%E5%8F%B0%E4%B8%AD%E6%B2%99%E9%B9%BF%E5%8D%97%E5%B1%AF%E5%A4%A7%E5%81%9C%E9%9B%BB-%E7%B6%B2%E9%A9%9A-%E6%98%AF%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-200100646.html	未分類
+2026-07-10	巴威雨彈強襲台中大停電 網：世界末日？	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TQnZQWndBZHZleUtLaWlHWGplMDRLQk43VXdlOXFLenk1M1dSRTFqWFpSVFNPTUlCNWRYQ3kzMTBZSnA0eWFpNUhtS2pzWURLcTNBQ2M5eW1uclBn0gFiQVVfeXFMTXFKdXpDYjNqR21ZZDE0ZENURnZiWkZTaHZMS3E0ZWFUdXBqUU9EVHNzOVZTR1lCa0RqbWFINVhZN2ZQem5iQVRqOE00ZENWVi1ySHB4Nk9mWTU1SEFTQnpWRWc?oc=5	未分類
 2026-07-09	獨／在野版未來帳戶主打「666」 普發撥補雙軌制、新生兒出生先領6萬	https://udn.com/news/story/6656/9617775	未分類
 2026-07-09	NFC版小米手環9出清價666元 支援21天續航力、內建悠遊卡 #導購推薦 (249961)	https://www.cool3c.com/article/249961	未分類
 2026-07-08	兒童性罪行慣犯再邀約男童性交遭YouTuber「放蛇」誘捕 28歲男子承認藏有666段兒童色情片還押候判	https://www.kinliu.hk/news/%E7%A4%BE%E6%9C%83/%E5%85%92%E7%AB%A5%E6%80%A7%E7%BD%AA%E8%A1%8C%E6%85%A3%E7%8A%AF%E5%86%8D%E9%82%80%E7%B4%84%E7%94%B7%E7%AB%A5%E6%80%A7%E4%BA%A4-%E9%81%ADYouTuber%E3%80%8C%E6%94%BE%E8%9B%87%E3%80%8D%E8%AA%98%E6%8D%95-28%E6%AD%B2%E7%94%B7%E5%AD%90%E6%89%BF%E8%AA%8D%E8%97%8F%E6%9C%89666%E6%AE%B5%E5%85%92%E7%AB%A5%E8%89%B2%E6%83%85%E7%89%87%E9%82%84%E6%8A%BC%E5%80%99%E5%88%A4/166944.html?id=58	未分類
@@ -164,6 +175,7 @@ var DATA_TRIBULATION = `
 2026-06-26	AI引發「就業末日」？諾獎得主：未來5年僅輕微衝擊基層白領最易被取代（附10大高替代風險職業）	https://wealth.hket.com/article/4152303/AI%E5%BC%95%E7%99%BC%E3%80%8C%E5%B0%B1%E6%A5%AD%E6%9C%AB%E6%97%A5%E3%80%8D%EF%BC%9F%E8%AB%BE%E7%8D%8E%E5%BE%97%E4%B8%BB%EF%BC%9A%E6%9C%AA%E4%BE%865%E5%B9%B4%E5%83%85%E8%BC%95%E5%BE%AE%E8%A1%9D%E6%93%8A%E3%80%80%E5%9F%BA%E5%B1%A4%E7%99%BD%E9%A0%98%E6%9C%80%E6%98%93%E8%A2%AB%E5%8F%96%E4%BB%A3%EF%BC%88%E9%99%8410%E5%A4%A7%E9%AB%98%E6%9B%BF%E4%BB%A3%E9%A2%A8%E9%9A%AA%E8%81%B7%E6%A5%AD%EF%BC%89	未分類
 2026-06-25	美联储发布“末日经济情景”！若经济崩溃 美国大型银行恐损失7000亿美元	https://www.fx168news.com/article/美联储-1048556	未分類
 2026-06-25	外資點讚喊目標價666！「這檔」單月獲利飆增299% 獲投信加碼1.7萬張	https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%BB%9E%E8%AE%9A%E5%96%8A%E7%9B%AE%E6%A8%99%E5%83%B9666-%E9%80%99%E6%AA%94-%E5%96%AE%E6%9C%88%E7%8D%B2%E5%88%A9%E9%A3%86%E5%A2%9E299-%E7%8D%B2%E6%8A%95%E4%BF%A1%E5%8A%A0%E7%A2%BC1-7%E8%90%AC%E5%BC%B5-110000764.html	未分類
+2026-06-23	2317 鴻海 - 類股輪動修正，不是世界末日，鴻海的前景及業績沒有因下跌而改變- 股市爆料同學會	https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4SzdrbFQxZlJRZWk0OEZDVHIzUVJ4bVduWkVGVmVheVp0VGxGeVkwekstcUg4eGJQN1pZTDZkWHg2NldWWEJzRUhxcFVza0gta0EyQjVTd3Y?oc=5	未分類
 2026-06-22	目標價衝348元、666元！外資點火京元電與「這PCB大廠」 AI測試與1.6T商機全面爆發	https://www.ftnn.com.tw/news/555023	未分類
 2026-06-20	首季EPS衝1.33元！「PCB大廠」目標價放眼666元 外資卻大砍2萬張帶走132億元	https://tw.stock.yahoo.com/news/%E9%A6%96%E5%AD%A3eps%E8%A1%9D1-33%E5%85%83-pcb%E5%A4%A7%E5%BB%A0-%E7%9B%AE%E6%A8%99%E5%83%B9%E6%94%BE%E7%9C%BC666%E5%85%83-%E5%A4%96%E8%B3%87%E5%8D%BB%E5%A4%A7%E7%A0%8D2%E8%90%AC%E5%BC%B5%E5%B8%B6%E8%B5%B0132%E5%84%84%E5%85%83-115000222.html	未分類
 2026-06-20	走路也能狂瘦！日本爆紅「666步行法」代謝飆升、體脂狂掉	https://www.womenshealthmag.com/tw/fitness/work-outs/a71623908/666-walking/	未分類
@@ -176,6 +188,7 @@ var DATA_TRIBULATION = `
 2026-06-09	上商彌敦道666號物業展開翻新料明年第三季完工- 地產	https://www.wenweipo.com/a/202606/09/AP6a27d17fe4b0b49ad1bea554.html	未分類
 2026-06-09	上商位於旺角彌敦道666號分行翻新動工料2027年第三季竣工(15:20) - 20260609 - 即時財經新聞	https://finance.mingpao.com/fin/instantf/20260609/1780989853923/%E4%B8%8A%E5%95%86%E4%BD%8D%E6%96%BC%E6%97%BA%E8%A7%92%E5%BD%8C%E6%95%A6%E9%81%93666%E8%99%9F%E5%88%86%E8%A1%8C%E7%BF%BB%E6%96%B0%E5%8B%95%E5%B7%A5-%E6%96%992027%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%AB%A3%E5%B7%A5	未分類
 2026-06-08	跌一下就在世界末日？大盤沒有回檔20％根本稱不上恐慌…小師傅：天大的加碼機會擺在眼前| 台股雜談| 股市	https://udn.com/news/story/12806/9552104	未分類
+2026-06-07	專家表示，開低不代表世界末日！(#01J) 【周一恐挑戰「台股史上最大跌點」！投資網紅：留意3類股】 （示意圖／記者湯興漢攝）	https://news.google.com/rss/articles/CBMi8gRBVV95cUxPZ2NoTUNYTS1DbjJ1SVVjM0ZLS2dHN2pHM1lRWEN0S1UwaXFDUFM4TnFoZmlHZlZPdmdjTnBRWUVMSkllM0hzb3VhZUYtV0RBMDVCNzM4eE9uVy0wRXFhQjlvamhwNFdhWUZvWTd3Y1pTN3RjYWdmUC05aGRKUEY4eE5jXzRCMUxnbVNOSjZ5WWNmNGw1aVBFNFJCcGlUYnk1WHFLU1lPVURiMlN1d3hDdlhaRUxHS1M0S0szZlRTTWoxbUstMTZtMEpoczBOQmdMLTdfdFZjbDZoRGlsZWZtamVXM2xWRnd4VEg1bUt2OTFlTTFNSzNxYWxLU2NleDVuVl85WFlybGFlMU5TbmxLejFMOThsNm9xZE40RllNdUhHd3E3YjhRS3lrSHRGcUh5WXgwQ2phSFhMV042bU1RbTNnbGxNR0VQdzliS1k2ZjN5MXhRcnBpOVlZTTl0UlRkb2VDbldFMlEyTGZ4WURZcnlvdmxPSHdVdFhLRjVtN1E5ay02TU1zdXc2LW9KUk1EVWM1bjFfRm1sTElEVXU3WkN5OG1uYXpWdEVTNzN0ZjFXWWJaZXE3OWMyR1cxU2tLeGJyeXJzeU0zQk1yUFplREY0TDlMU2UxeXBFOEZ3TE5BejRrTXE4SE9ncUN4RVRqRWV0c0EzRU9ZQjZvVjVHZ01DSTlCWEx3bXZRemQzMHlhNjNSandySnRlVV9iVS1SaG9ldkwyUXR1ZlF4RV9fYTZqSTl1ZHlNdkMwRGxrZDk3UHZ1Ty0zcnI4SzBQYXppMlhjUGUzdFEzMTdWcFh5T25palc4Ykg3bERqUzllcTZPdw?oc=5	未分類
 2026-06-06	超級666好預兆 黃偉哲偕黃敏惠同台掀農產搶購潮 | 觀傳媒	https://today.line.me/tw/v3/article/mWKXZq2	未分類
 2026-06-06	超級666好預兆 黃偉哲偕黃敏惠同台掀農產搶購潮	https://www.watchmedia01.com/archives/519562	未分類
 2026-06-06	末世囚心：死對頭暗戀我 繁體版	https://www.mytvsuper.com/tc/programme/bdca4cd28cdc467dbae2_701002607/%E6%9C%AB%E4%B8%96%E5%9B%9A%E5%BF%83%E6%AD%BB%E5%B0%8D%E9%A0%AD%E6%9A%97%E6%88%80%E6%88%91-%E7%B9%81%E9%AB%94%E7%89%88/	未分類
@@ -191,13 +204,16 @@ var DATA_TRIBULATION = `
 2026-06-03	本周六「666超級巧合」 網喊早起做1事命理師加碼曝罕見天象- 生活	https://www.chinatimes.com/realtimenews/20260603002885-260405	未分類
 2026-06-03	Silo 第三季開始聚焦導致世界末日的事件	https://www.gamereactor.cn/silos-third-season-begins-to-shine-a-spotlight-on-the-events-that-led-to-the-end-of-the-world-1331533/	未分類
 2026-06-02	烏克蘭遭大規模空襲11死逾百傷 民眾悲嘆宛如世界末日 | 中央廣播電臺	https://today.line.me/tw/v3/article/YaKExMQ	未分類
+2026-06-02	俄飛彈.無人機狂轟基輔 逾百人死傷 市民直呼「世界末日」	https://news.google.com/rss/articles/CBMieEFVX3lxTE9DMDdCd0dVOWFhLXZ5TU5Ca1JRdkNrdDZLSGFtbXBZWkNlRm9abElxNE5VMkc2eGNCcXNzNlpiRlFmZXdJLV9OdFdQbTJYWU5meDdoM0sxeVd3WjZQQVhrMEJNUFIwSHVscXdBdldsbnJvV1VrMTJtWA?oc=5	未分類
 2026-06-02	俄猛轟烏多地釀10死百傷民眾：現場如世界末日| 國際	https://www.cna.com.tw/news/aopl/202606020167.aspx	未分類
 2026-06-02	不甘被提離婚情緒崩潰 瘋狂丈夫竟開挖土機拆屋 罔顧妻女死活遭捕	https://www.stheadline.com/realtime-world/3578622/%E4%B8%8D%E7%94%98%E8%A2%AB%E6%8F%90%E9%9B%A2%E5%A9%9A%E6%83%85%E7%B7%92%E5%B4%A9%E6%BD%B0-%E7%98%8B%E7%8B%82%E4%B8%88%E5%A4%AB%E7%AB%9F%E9%96%8B%E6%8C%96%E5%9C%9F%E6%A9%9F%E6%8B%86%E5%B1%8B-%E7%BD%94%E9%A1%A7%E5%A6%BB%E5%A5%B3%E6%AD%BB%E6%B4%BB%E9%81%AD%E6%8D%95	未分類
 2026-06-02	【本周六「666超級巧合」！命理師再曝鬼門開罕見天象】 真的耶！！！不說還沒發現！（#豬頭皮）	https://www.facebook.com/ETtoday/posts/%E6%9C%AC%E5%91%A8%E5%85%AD666%E8%B6%85%E7%B4%9A%E5%B7%A7%E5%90%88%E5%91%BD%E7%90%86%E5%B8%AB%E5%86%8D%E6%9B%9D%E9%AC%BC%E9%96%80%E9%96%8B%E7%BD%95%E8%A6%8B%E5%A4%A9%E8%B1%A1%E7%9C%9F%E7%9A%84%E8%80%B6%E4%B8%8D%E8%AA%AA%E9%82%84%E6%B2%92%E7%99%BC%E7%8F%BE%E8%B1%AC%E9%A0%AD%E7%9A%AE/1451756860316728/	未分類
 2026-06-01	有片｜哈爾濱遭遇罕見強沙塵暴 一秒天黑 市民驚呼「世界末日」	https://www.orangenews.hk/VideoFeature/VLHJDM7/%E6%9C%89%E7%89%87-%E5%93%88%E7%88%BE%E6%BF%B1%E9%81%AD%E9%81%87%E7%BD%95%E8%A6%8B%E5%BC%B7%E6%B2%99%E5%A1%B5%E6%9A%B4-%E4%B8%80%E7%A7%92%E5%A4%A9%E9%BB%91-%E5%B8%82%E6%B0%91%E9%A9%9A%E5%91%BC-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5.shtml	未分類
+2026-06-01	宛如世界末日！強風、沙塵暴席捲哈爾濱 「被吞噬」恐怖畫面曝	https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tc1prSmN2NVVqc1gydHduUzZBZXpvWVRlWWJjRzlCRVJHbVMyb2xLNHdIVHNSOXI0cEMtekhFaFFyMW5VVlAxQkFPTTltakE?oc=5	未分類
 2026-05-31	香港一人遊戲團隊 只靠 AI 生成技術 創造太空船管理遊戲《末世方舟》	https://unwire.hk/2026/05/31/hk-solo-dev-ai-apocalypse-game/game-channel/	未分類
 2026-05-31	如世界末日！哈爾濱13級強風＋沙塵暴「10秒白天變黑夜」 恐怖影片曝	https://tw.news.yahoo.com/%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E5%93%88%E7%88%BE%E6%BF%B113%E7%B4%9A%E5%BC%B7%E9%A2%A8-%E6%B2%99%E5%A1%B5%E6%9A%B4-10%E7%A7%92%E7%99%BD%E5%A4%A9%E8%AE%8A%E9%BB%91%E5%A4%9C-%E6%81%90%E6%80%96%E5%BD%B1%E7%89%87%E6%9B%9D-222811864.html	未分類
 2026-05-31	【群創50元2】洪進揚「666藍圖」發威！買進群創身心舒暢...單周暴增逾16萬股民追隨	https://tw.stock.yahoo.com/news/%E3%80%90%E7%BE%A4%E5%89%B550%E5%85%832%E3%80%91%E6%B4%AA%E9%80%B2%E6%8F%9A%E3%80%8C666%E8%97%8D%E5%9C%96%E3%80%8D%E7%99%BC%E5%A8%81%EF%BC%81%E8%B2%B7%E9%80%B2%E7%BE%A4%E5%89%B5%E8%BA%AB%E5%BF%83%E8%88%92%E6%9A%A2%E5%96%AE%E5%91%A8%E6%9A%B4%E5%A2%9E%E9%80%BE16%E8%90%AC%E8%82%A1%E6%B0%91%E8%BF%BD%E9%9A%A8-010550044.html	未分類
+2026-05-31	「像世界末日」沙塵暴襲擊哈爾濱 體育場頂棚瞬間被掀翻	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpakhKc0JnVjY4MDdRZW5jeTBhSE5GaWdQamw2d2VScjYzRHFyZE5DeVhtcWZhYlBldE5xcWFlcjlCMm5nSUQwZW40VXYyMnVfSEpVRGFUekdMTHNCVEVEQkh30gFnQVVfeXFMTjQ1WVI1alVsRHo2LXQ1dER3V09iaTR0Z1BpZWpTVWZscHQ3UV9ZTFlEZmhsYjVvMkNvaUFUTW9FVHNRWTYxRWVJbVVVWU9RQ0JEeDNyRDBnandJR0hJN21RbllvVnUzTQ?oc=5	未分類
 2026-05-29	資深媒體人鄭國威與楊士範對談：AI不是世界末日，而是解放記者	https://www.cw.com.tw/article/5141029	未分類
 2026-05-28	立威廉囡囡遭傳染甲流高燒40.2度 極罕撰文怒轟自私家長： 錯過考試不是世界末日	https://www.bastillepost.com/hongkong/article/16071036-%E7%AB%8B%E5%A8%81%E5%BB%89%E5%9B%A1%E5%9B%A1%E9%81%AD%E5%82%B3%E6%9F%93%E7%94%B2%E6%B5%81%E9%AB%98%E7%87%9240-2%E5%BA%A6-%E6%A5%B5%E7%BD%95%E6%92%B0%E6%96%87%E6%80%92%E8%BD%9F%E8%87%AA%E7%A7%81	未分類
 2026-05-26	OpenAI 執行長：AI 不致引發失業末日 人際互動難被取代	https://money.udn.com/money/story/5599/9527007	未分類
@@ -259,6 +275,8 @@ var DATA_TRIBULATION = `
 2025-10-11	科技界億萬富翁們似乎正為「世界末日」做準備，我們應該擔心嗎？	https://www.bbc.com/zhongwen/articles/ce3yd5eeeyvo/trad	未分類
 2025-09-09	突然去世的油管博主已故大图书馆(本名罗东贤)将长眠于此。9日上午8点，古代图书馆的出殡仪式将在建国大学医院殡仪馆举行。 墓地是首尔市立升华院。 在故人的灵堂里,前妻油管博主李彩媛和故人的妹妹一起被提名..	https://www.mk.co.kr/cn/society/11414311	未分類
 2025-08-21	62歲殿堂級歌后猝逝 千禧年代憑多首金曲紅遍中港台 曾成已婚作曲家小三為愛赴內地發展後離婚	https://www.stheadline.com/film-drama/3492213/62歲殿堂級歌后猝逝-千禧年代憑多首金曲紅遍中港台-曾成已婚作曲家小三為愛赴內地發展後離婚	未分類
+2025-05-10	[廣東話] [林鍵] 2025.05.10 《等待君王：寶座》 [但以理書 7:1-14]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UWjhKNDFzaUtJN0p1SmJETjh3QjhwQ3ZQcHlPNEhNejZwNzl2MEZ2clNBTU5VMmJnOG1iSHU1NjRFTlEzbXBz?oc=5	未分類
+2025-04-19	[廣東話] [林鍵] 2025.04.19 《等待君王：復活》 [但以理書 6:16-28]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LWmM3NmVlUzFpSi11UE5BWDZSN0pQUGtjaURZMjVORmkyYkdVcnNiU0pTRXFkTC1NUmhnb2hhM3dXNDRkSzFR?oc=5	未分類
 2025-03-24	美貿易署今對華貨船徵港口費開聽證會 彭博：業界憂貿易末日將至	https://www.hk01.com/article/60222860?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-02-11	【雁默專欄】關稅大棒的本質，與台股的末日	https://tw.news.yahoo.com/%E9%9B%81%E9%BB%98%E5%B0%88%E6%AC%84-%E9%97%9C%E7%A8%85%E5%A4%A7%E6%A3%92%E7%9A%84%E6%9C%AC%E8%B3%AA-%E8%88%87%E5%8F%B0%E8%82%A1%E7%9A%84%E6%9C%AB%E6%97%A5-065801548.html	未分類
 2024-10-09	人氣爆谷店Garrett Popcorn本月撤出香港 網民稱世界末日紛挽留	http://www.hk01.com/article/1064583?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -282,7 +300,9 @@ var DATA_TRIBULATION = `
 2022-09-05	南極「末日冰川」岌岌可危 Warming	https://www.worldjournal.com/wj/story/121257/6591926	未分類
 2021-11-21	亞當·麥凱，用喜劇解剖金融危機與世界末日的導演	https://zh-hant.martincid.com/people/adam-mckay-19/	未分類
 2021-10-14	《歡迎來到末日戰場哈米吉多頓》：芝加哥考古隊在米吉多的工作，正式展開不到一星期竟差點夭折	https://www.thenewslens.com/article/157146	未分類
+2021-10-03	20211003 神掌管歷史的進程與生命 但以理書第十一章 曾嘉逸弟兄	https://news.google.com/rss/articles/CBMiQkFVX3lxTFBldS01RjlidUs3MXprbU1PdEd2alN4V3RIclBMbnllRk0yOTQ1aUQ0dFVRbnVESlVLNXNTMHQzUGhxZw?oc=5	未分類
 2021-09-27	以色列育紅母牛 為《聖經》末日預言做準備(圖) - 預言未來 - - (移動版)	https://www.secretchina.com/news/b5/2021/09/27/983772.html	未分類
+2021-08-02	20210801 神永恆的國度 但以理書二章 曾嘉逸弟兄	https://news.google.com/rss/articles/CBMiQkFVX3lxTE5OMGRvQVdXdW45Q2VEZ1VkTnlaYkdPVFFFa2JVVnhnempvdWJoR2M1TnRDQjJqZ09zWUFtZmFTeGg2UQ?oc=5	未分類
 2021-06-16	台彩獎金大放送 3星彩開666全台399注中正彩	https://www.setn.com/news/954712	未分類
 2021-01-01	10月31日-11月6日。但以理書第1～6章：「沒有別神能……施行拯救」	https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/45?lang=zho	未分類
 2020-08-26	準備迎接「聖經末日」？以色列聖殿研究所培育「紅母牛」	https://news.ltn.com.tw/news/world/breakingnews/3272482	未分類
@@ -291,7 +311,9 @@ var DATA_TRIBULATION = `
 2020-08-24	以色列培育紅母牛 為《聖經》末日預言準備	https://www.epochtimes.com/b5/20/8/24/n12353478.htm	未分類
 2020-07-03	猶太拉比：中共為邪惡之首 或引發末世戰爭	https://www.epochtimes.com/b5/20/7/3/n12229948.htm	未分類
 2020-02-24	以色列頭痛！南韓「新天地」揪團朝聖過…2百名師生被隔離	https://www.setn.com/news/695487	未分類
+2020-02-21	但#01. 但以理書簡介 1-3章	https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wNTkxZ0NGTEVWN3ZIZzNUSTAyVFU5OVo0TzBHT01NRmlaakJ3YUNycEV1bVh4ZzZXUFgtRFRaMnRHQQ?oc=5	未分類
 2018-09-10	紅母牛在以色列誕生 或示《聖經》末日預言	https://www.epochtimes.com/b5/18/9/10/n10703645.htm	未分類
 2018-06-16	宛如末日！鹿兒島火山噴發白晝市區秒遭黑暗壟罩| 國際	https://www.setn.com/news/392854	未分類
 2017-01-05	2017年世界末日？網傳有行星將撞地球 NASA：胡扯	https://www.setn.com/news/213705	未分類
+2016-04-26	但以理書8章 國語	https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FTGNzYnlwV090aWQtdWplZ3N4NXB1UmpGdC1xc3dEeDVZaGdXRm12SDN1amxXRDB4NTdRUGpxUzBIdw?oc=5	未分類
 `;
