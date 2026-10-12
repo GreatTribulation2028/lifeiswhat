@@ -1,4 +1,4 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3562 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3564 條
 var DATA_SUICIDE = `
 2026-10-10	揚言尋短驚動警消破門！女子反咬房東謊報求償72萬 二審仍打臉	https://news.ltn.com.tw/news/society/breakingnews/5601742	未分類
 2026-10-09	逃離戰亂不代表走出創傷 羅興亞難民心理疾病增 兒少輕生未遂占27%	https://udn.com/news/amp/story/7314/9803624	未分類
@@ -23,6 +23,7 @@ var DATA_SUICIDE = `
 2026-10-07	男子用橡筋帶上吊 妻子揭發救唔番	https://hk.on.cc/hk/bkn/cnt/news/20190303/bkn-20190303021145822-0303_00822_001.html	未分類
 2026-10-07	牛頭角坎坷婦墮網騙案 圖輕生獲救	https://hk.on.cc/hk/bkn/cnt/news/20200514/bkn-20200514115827952-0514_00822_001.html	未分類
 2026-10-07	灣仔愛群道8旬老婦墮樓亡	https://hk.on.cc/hk/bkn/cnt/news/20210904/bkn-20210904134722950-0904_00822_001.html	未分類
+2026-10-07	宜蘭國一生墜樓身亡！家屬忍痛簽署「器官捐贈」	https://news.google.com/rss/articles/CBMirwJBVV95cUxOSXRTZEpQLXdmSVRqanItWlhTOTNDOEp1a3pWWnhBdm9rUTJmVlVBZXlnbTF0UXJsczRaNW82bkJPTVlCYmx0TmVjS2pCZnRrTzFMSmxHeGJhb0VfWjBsMzF5clJmdDBOckxDZ0puYktnQUNzT0tsSnJMX00zTXQydWRIWllZUUF3WjRsamw5N1RNdWRUeEpUakc4bXRkNm9KYnM0bFVzV3dsUm1RNERUUXBJTXd4QmUwRm1HejJwZUd2aExnazY1MWtQVFRXSzBzVkpRdzF5NGJ6S0Fnc1lveVNsQVBCUDBTdEQ2NDNXZUpuTlIzR3BVaENBb25fcXZCU0ZMdmh3WkZGcjdBTkdCcEY0RTktdnBpWEhVc20tM1JHdEprUzRlMS1iLWR1MGc?oc=5	未分類
 2026-10-06	黄大仙彩云邨男子因生活问题住所烧炭自杀亡｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/news/20261005/bkn-20261005220430125-1005_00822_001_cn.html	未分類
 2026-10-06	黃大仙彩雲邨男子因生活問題 住所燒炭自殺亡	https://hk.on.cc/hk/bkn/cnt/news/20261005/bkn-20261005220430125-1005_00822_001.html	未分類
 2026-10-06	葵涌男子圖燒炭輕生 親友及時發現清醒送院檢查	https://hk.on.cc/hk/bkn/cnt/news/20261006/bkn-20261006133738495-1006_00822_001.html	未分類
@@ -94,6 +95,7 @@ var DATA_SUICIDE = `
 2026-09-24	珍惜生命｜八旬翁留遺書失蹤3周 衛奕信徑尋獲遺體	https://www.am730.com.hk/本地/1054895/珍惜生命-八旬翁留遺書失蹤3周-衛奕信徑尋獲遺體	未分類
 2026-09-24	珍惜生命│慈雲山中心男子報稱欲墮樓 母親報警救一命	https://www.singtao.ca/7637422/2026-09-24/news-珍惜生命│慈雲山中心男子報稱欲墮樓+母親報警救一命/	未分類
 2026-09-24	涉侵犯4名未成年女童 其中1名女童自殺令事件曝光 22歲大專生認罪候判 (14:20) - 20260924 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20260924/s00001/1790230215355/%E6%B6%89%E4%BE%B5%E7%8A%AF4%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E7%AB%A5-%E5%85%B6%E4%B8%AD1%E5%90%8D%E5%A5%B3%E7%AB%A5%E8%87%AA%E6%AE%BA%E4%BB%A4%E4%BA%8B%E4%BB%B6%E6%9B%9D%E5%85%89-22%E6%AD%B2%E5%A4%A7%E5%B0%88%E7%94%9F%E8%AA%8D%E7%BD%AA%E5%80%99%E5%88%A4	未分類
+2026-09-24	林肯號部署286天驚爆8起自殺未遂- 美國焦點- 新聞	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kVGVyNXh1ZnFyR2x2Y1ZZdWM2UjNUSEJDbkJBRHBNQkdOcW5hWFc0bDVqTHZtM1R4YWFwcFF6NXBqN25SbVlLNmRkeVBHWG5kUFVleXdWTTlDclRNZmMtcDlMWW03dw?oc=5	未分類
 2026-09-24	林肯號超長部署對伊朗作戰期間 8水兵自殺未遂	https://hk.on.cc/hk/bkn/cnt/intnews/20260924/bkn-20260924120323344-0924_00992_001.html	未分類
 2026-09-24	林肯號被曝「8起自殺未遂」! 川普、海格塞斯曾斥「假新聞」 海軍意外露餡| 國際	https://newtalk.tw/news/view/2026-09-24/1061756	未分類
 2026-09-24	加拿大華裔協助自殺案判刑聆訊持續 海外死者家屬訴傷痛	https://www.singtao.ca/7637060/2026-09-24/news-加拿大華裔協助自殺案判刑聆訊持續 海外死者家屬訴傷痛/	未分類
