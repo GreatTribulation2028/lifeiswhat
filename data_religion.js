@@ -1,5 +1,6 @@
-// 宗教 | 由 build_news_js.py 生成 | 共 164 條
+// 宗教 | 由 build_news_js.py 生成 | 共 166 條
 var DATA_RELIGION = `
+2026-10-11	24歲牧師馬拉松途中猝死！妻目睹最後笑容 淚崩：以為是惡夢	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTdXpKSGJVOWtoTUhpZV9jYnZ4M0M0aW5uYzRXbW1ReUpGODJhZDUxT0xyaFN6djVadHQ1YWxVelAwLUxxTDc5cVpydXlCVjA?oc=5	未分類
 2026-09-30	宗教詐騙披靈性外衣 資深媒體人揭警訊辨識邪教pua	https://www.mirrormedia.mg/story/20260930-171soc-105447	未分類
 2026-09-30	一名錫安教會被捕牧師妻子的流亡、煎熬與信仰- 紐約時報中文網	https://cn.nytimes.com/china/20260929/china-zion-church-pastor-detained-family/zh-hant/	未分類
 2026-09-25	（有片）XX月餅是「邪教」？XX絕不接受？XX傳統不可破！2026港人最愛的月餅口味是？｜點妹大調查·中秋特輯	https://www.dotdotnews.com/a/202609/25/AP6ab62e07e4b02724bdb591fe.html	未分類
@@ -147,6 +148,7 @@ var DATA_RELIGION = `
 2025-02-13	公安部整治邪教 嚴厲打擊藉「靈修」等名義從事非法培訓活動	https://www.hk01.com/article/1103041?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-01-17	浙江再拆十字架 三自教會分裂 | 鄒思聰 | 風生活	https://www.storm.mg/lifestyle/38771	未分類
 2024-11-25	教派衝突釀至少82死 政府調停達成停火7天	http://hk.on.cc/hk/bkn/cnt/intnews/20241125/bkn-20241125060525253-1125_00992_001.html	未分類
+2024-08-09	講道會 面對生死抉擇：陳廷忠牧師挑戰信徒能否堅守信仰？	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoWTBOTEd5SkgtblZfMEY1a0xtNjVERk5jRjJLSU5senNTSVRfQ2tnMzRPRXJETnRXRy1sdGJYYkZERFlrZ3NBMnpkMlBZWWlRWWNSb2hFZEZvdw?oc=5	未分類
 2024-04-23	以色列什麼時候宰殺紅母牛？檢驗宗教預言	https://rgkarmch-org.translate.goog/when-will-israel-slaughter-the-red-heifer/?_x_tr_sl=auto&_x_tr_tl=zh-TW&_x_tr_hl=zh-TW&_x_tr_pto=wapp#google_vignette	紅母牛
 2024-04-15	38歲山豬猝死！Joeman曾一起穿女僕裝 淚崩哀悼「他教會我很多」	https://tw.news.yahoo.com/38歲山豬猝死-joeman曾-起穿女僕裝-淚崩哀悼-他教會我很多-092004114.html	未分類
 2023-08-27	据该办法《宗教場所管理辦法》第五十八條 第（六）項，「制止非法宗教活動和邪教活動，抵制宗教極端思想，防範境外勢力利用宗教進行滲透。」 中共新宗教活動管理法將上路 律師：違反憲法	https://www.epochtimes.com/b5/23/8/25/n14061325.htm	未分類
