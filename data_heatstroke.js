@@ -1,5 +1,6 @@
-// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2143 條
+// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2148 條
 var DATA_HEATSTROKE = `
+2026-10-11	男子烏蛟騰行山期間暈倒 直升機送東區醫院救治	https://news.rthk.hk/rthk/ch/component/k2/1873501-20261011.htm	未分類
 2026-10-09	陸虎臨場改詞 救暈倒歌迷	https://www.singtaousa.com/2026/10/08/entertainment/lu-hu-rescues-fan/	未分類
 2026-10-09	關淑怡最新近況曝光 曾昏迷2周奇蹟甦醒：身體慢慢康復中意志力頑強	https://www.tvb.com/artiste-news-c/關淑怡最新近況曝光-曾昏迷2周奇蹟甦醒-身體慢慢康復中意志力頑強-1016495	未分類
 2026-10-09	關淑怡ICU昏迷兩周奇蹟甦醒元氣大傷 需長期休養復出機會極微	https://www.hk01.com/即時娛樂/60397783/關淑怡icu昏迷兩周奇蹟甦醒元氣大傷-需長期休養復出機會極微	未分類
@@ -429,6 +430,7 @@ var DATA_HEATSTROKE = `
 2026-07-26	赤鱲角飛機工程公司男職員6米高墮下 昏迷送院搶救	https://www.singtao.ca/7578520/2026-07-26/news-赤鱲角飛機工程公司男職員6米高墮下+昏迷送院搶救/	未分類
 2026-07-26	打風期間消遣 尖沙咀樓上吧男子被圍毆 昏迷送院 警追緝6男女	https://www.hk01.com/突發/60373667/打風期間消遣-尖沙咀樓上吧男子被圍毆-昏迷送院-警追緝6男女	未分類
 2026-07-26	尖沙咀血案｜疑眼神問題 男商人遭圍毆昏迷 警拘1男追緝2黑幫男	https://www.hk01.com/突發/60373759/尖沙咀血案-疑眼神問題-男商人遭圍毆昏迷-警拘1男追緝2黑幫男	未分類
+2026-07-26	富士山登頂出事！57歲台女突「失去意識」 履帶車緊急運送下山	https://news.google.com/rss/articles/CBMi-gJBVV95cUxObVI2SFMyWkZ4MlJXOC13YkliSG04YWxjVjNMdFlkUC1oOE9XV20wbWZFWk9tNWNCVThCbEw4a3VyN0wwR3hWdllsVXZvWXN2a1VWSkljcG9SLU1NSl95eGtoR3FVYVlTVVl1WTNZTkROS3AyVkVRNHNSNVFEbDNhbFBGMG9jVDJIdU9rOUlXc2k3anNzazZVcmtSVm9GYkszOGkzMUttajBtTXpjMWdUc2d0VUFNN0JtYTB3ajRJdmNGbGQwZmVOaXpJZWI1czlfYy1xTGUwYWZmNnFCRVcwOW9HSS00a2ZxQWdobHJseWR6T0hBLUZXYTRicVAzc1YwQWRpblgyYzBBQmtsLVRDT2E3SVIybzc0X2taVkRHWFZ5ZGo1TzVSUnotaFdFT1dFWDJ5ZG56MUh4eEhJYnYzUE51VThHQjluMnhia0xPZXBqMGtHYmI2OEJRSmFMRm90cWxPeDV2QzNEbmxQWnA3Vm5DakVFcEp5Smc?oc=5	未分類
 2026-07-26	台女攀富士山突昏迷 反覆失去意識送醫	https://tw.news.yahoo.com/%E5%8F%B0%E5%A5%B3%E6%94%80%E5%AF%8C%E5%A3%AB%E5%B1%B1%E7%AA%81%E6%98%8F%E8%BF%B7-%E5%8F%8D%E8%A6%86%E5%A4%B1%E5%8E%BB%E6%84%8F%E8%AD%98%E9%80%81%E9%86%AB-223356159.html	未分類
 2026-07-25	水果病｜幼童半夜離奇昏迷抽搐 求醫揭因食1水果所致 3成人致命 醫生教4招防中招	https://www.am730.com.hk/article/1043399	未分類
 2026-07-25	大西北孕婦逼車返工 車廂內幾暈倒竟有兩男上前爭位 感激70歲婆婆曾主動讓座｜Juicy叮	https://www.stheadline.com/local-topics/3597447/大西北孕婦逼車返工-車廂內幾暈倒竟有兩男上前爭位-感激70歲婆婆曾主動讓座Juicy叮	未分類
@@ -621,6 +623,7 @@ var DATA_HEATSTROKE = `
 2026-06-22	南投老農疑「熱衰竭」昏倒 2清潔隊員路過急救人	https://tw.news.yahoo.com/南投老農疑-熱衰竭-昏倒-2清潔隊員路過急救人-061321172.html	未分類
 2026-06-21	赤鱲角女車長行車期間不適暈倒送院治理- 港聞	https://www.dotdotnews.com/a/202606/21/AP6a378df5e4b09ea233191990.html	未分類
 2026-06-21	影／烈日下美籍女遊客阿朗壹古道熱衰竭 各單位合力救援送醫	https://udn.com/news/story/7320/9578857	未分類
+2026-06-21	外籍女山友連假挑戰「阿朗壹古道」 不堪烈日曝曬熱衰竭受困求援	https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tZDNsM3RtbFBaSjB4WGZrci05YzhGMFVqRFRsRXlidFBocXZldG42X0Y1NnUyWUUyWGlwaElXd1JmYlIweHZVZTJ2V0FUNjZG0gFWQVVfeXFMTWJ6VlNuZFZ6SndJTlFvajJsREM5TEFKdFB2U1ZHdmlralIzNllpekhMUFBLNU11Q1hLd2pmTmhGLXR6V2dWeGlMckUwdFZQR2R3MVlNcmc?oc=5	未分類
 2026-06-20	荔景邨七旬夫妇1死1吊颈昏迷暂列送院时死亡及企图自杀跟进｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/cnt/news/20260620/bkn-20260620005013828-0620_00822_001_cn.html	未分類
 2026-06-20	秀茂坪安泰邨14歲男抽筋暈倒 父親報案 昏迷送院搶救	https://www.hk01.com/突發/60362113/秀茂坪安泰邨14歲男抽筋暈倒-父親報案-昏迷送院搶救	未分類
 2026-06-20	秀茂坪安泰邨14歲男抽筋暈倒 母親報案 昏迷送院搶救	https://www.hk01.com/突發/60362113/秀茂坪安泰邨14歲男抽筋暈倒-母親報案-昏迷送院搶救	未分類
@@ -802,6 +805,7 @@ var DATA_HEATSTROKE = `
 2026-05-18	大埔大美督路男子跑步昏迷 送院搶救	https://std.stheadline.com/breaking-news/3573567/大埔大美督路男子跑步昏迷-送院搶救	未分類
 2026-05-18	中半山九旬長者疑飲湯嗆喉暈倒 送院搶救後恢復意識	https://www.singtaousa.com/2026/05/18/news/china/elderly-man-chokes-on-soup-collapses/	未分類
 2026-05-18	中半山9旬翁疑飲湯嗆喉暈倒 送院搶救後恢復意識	https://std.stheadline.com/breaking-news/3573851/中半山9旬翁疑飲湯嗆喉暈倒-送院搶救後恢復意識	未分類
+2026-05-17	新北碧潭婦人墜溪一度失去意識 警消急拉上岸CPR恢復心跳送醫 | CTWANT	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iVG91WENfT0ZiOHNPWXN5dnN2d1Y4WDBKWEo0OE1xaGhrWjVvUk9iVmhiUktQazkwVlhLSFE1MTJCMzBUbDFjRGpNbzF0YldCcVNVcHZR?oc=5	未分類
 2026-05-16	（有片）青沙公路七人車突停下六旬司機暈倒送院搶救- 港聞	https://www.dotdotnews.com/a/202605/16/AP6a082058e4b09ea233157e3c.html	未分類
 2026-05-16	青沙公路男子暈倒七人車內 昏迷送院	https://std.stheadline.com/breaking-news/3573066/青沙公路男子暈倒七人車內-昏迷送院	未分類
 2026-05-15	青沙公路6旬司機暈倒七人車內 昏迷送院	https://www.singtao.ca/7506130/2026-05-15/news-青沙公路六旬司機暈倒七人車內+昏迷送院搶救/	未分類
@@ -969,6 +973,7 @@ var DATA_HEATSTROKE = `
 2026-04-07	男子橫過彌敦道時遭的士撞傷 一度昏迷 (10:08) - 20260407 - 港聞	https://news.mingpao.com/ins/港聞/article/20260407/s00001/1775525516630/男子橫過彌敦道時遭的士撞傷-一度昏迷	未分類
 2026-04-07	旺角男途人遭的士撞倒 頭部受傷半昏迷送院	https://std.stheadline.com/breaking-news/3559834/旺角男途人遭的士撞倒-頭部受傷半昏迷送院	未分類
 2026-04-07	旺角信和對開男途人捱的士撞 半昏迷送院	https://www.hk01.com/突發/60337744/旺角信和對開男途人捱的士撞-半昏迷送院	未分類
+2026-04-07	據報穆傑塔巴失去意識 正接受治療	https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oZlN6TXVfYUhUek9PZWQ4Y2dWZlBVYzB3WHRpRFJTUm1hMEF0ZEhFQVJMVWtObzRMdXVNSjRzUUF4V1UxNW50RFNTVzJzcGhDV0VyaGdQdkxtck9wMHfSAWNBVV95cUxPUnpJb1ZTLW0wazZNWHBudENrQnRERVpfV0h3Q2tMaGdXal9UdjhhbThXOTZfeW44RTJ1R1FZQUhvZ0l4N3d0R3VKRGZiMlJaN1FpVXR4Rm53Z2FJdlk2VHRFcFE?oc=5	未分類
 2026-04-07	《泰晤士報》：穆傑塔巴失去意識 病情嚴重正於庫姆接受治療	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60337955/%E6%B3%B0%E6%99%A4%E5%A3%AB%E5%A0%B1-%E7%A9%86%E5%82%91%E5%A1%94%E5%B7%B4%E5%A4%B1%E5%8E%BB%E6%84%8F%E8%AD%98-%E7%97%85%E6%83%85%E5%9A%B4%E9%87%8D%E6%AD%A3%E6%96%BC%E5%BA%AB%E5%A7%86%E6%8E%A5%E5%8F%97%E6%B2%BB%E7%99%82	未分類
 2026-04-06	西灣河過路婦捱綠Van撞 倒地受傷一度昏迷	https://std.stheadline.com/breaking-news/3559709/西灣河過路婦捱綠Van撞-倒地受傷一度昏迷	未分類
 2026-04-06	西灣河女子遭綠van撞倒 一度昏迷送院搶救	https://www.hk01.com/突發/60337626/西灣河女子遭綠van撞倒-一度昏迷送院搶救	未分類
