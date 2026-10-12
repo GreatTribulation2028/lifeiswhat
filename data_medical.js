@@ -1,5 +1,6 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 3024 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 3030 條
 var DATA_MEDICAL = `
+2026-10-11	王鄭浚仁呼籲支持器官移植遺愛人間期待與交響樂團開騷呈現另類歌聲- 東張+	https://news.google.com/rss/articles/CBMijwRBVV95cUxQUHJqRkUtVE1JZnlZQkEydjZtRXd1aGNOZ1VXUUczcEVJTHVJNWNnSGp3NjJNYy1RQnVndjM5TjAyY3psb2tyWm55R0xGWV9IWV9iZ295R1phdVp2Tklmb2lhY3ROOEU1VWE1RlpKdDV0OEhNSGZWWWVzWHlHNXZhNkNGVjh4SFlwNVhQQy1OSmdpTmN0QXRHRXZ4alhQOGd3X0ZsU25nLXl4VllvbXZlRm16MEFFSXdSYzE0WFpCX3JDd25TVWNLSV8ycXo5SWpjRFhEZS1HRFgzTjBzSU14OER3WXRZSTlOc3FmX2VSd1htT3BvdlVhLVo1aWxzOFZDQ3RSYl9VWEJVbHQyVlZiYTNScHdwUUtNREMxU0szQjF6ckVydnZvUVZCVTZVMmFVdUN0X01oZXlpOG9fcUFVaER5TkdxQ1QzMm1WYWJXeHNaRjQzQzZjQ2pKWkdpRU9qWHU3cUFQcmRoUnZwLVJvY3FqeVRTLXY1WHVsN3NMYmJkc2tPdTBlRzdJUzlKeU9RaEdfUEZRQUppMmpQeVc0TlJERHlrcnZPaThMMVlqVk1oZXVUc2FCZmhGMFVSOVJ2RUtlZHBJSFJIWnB3bmQzd05hTU85bDBlMUl0RVFUbzgwLUpuR29yX2taZ25EWjFLdEFPNHExcVg4Ny1oeEdHS1F2VjJmVzNmS3pDRHdBRQ?oc=5	未分類
 2026-10-10	29歲男子感染猴痘 衞防中心稱多管齊下採取防控措施堵截傳播鏈	https://news.rthk.hk/rthk/ch/component/k2/1873410-20261010.htm	未分類
 2026-10-09	鼠疫研究所一員工確診「不明原因」肺炎死亡世衞介入追查俄方稱防疫形勢平穩、居民無風險- 國際	https://m.dotdotnews.com/s/202610/08/AP6ac72c08e4b02724bdb6b9d5.html	疫情
 2026-10-09	話到嘴邊說不出 腦霧還是失智？	https://www.epochtimes.com/b5/26/10/8/n14866457.htm	未分類
@@ -478,6 +479,7 @@ var DATA_MEDICAL = `
 2026-08-25	豪雨淹水後防疫拉警報 疾管署示警4類傳染病風險升高	https://news.ebc.net.tw/news/living/568018	疫情
 2026-08-25	衛生局接獲1例輸入性猴痘病例報告	https://www.gov.mo/zh-hant/news/1260995/	未分類
 2026-08-25	等嘸病床臺大醫急診走廊病逝 議員痛批：草菅人命	https://tw.news.yahoo.com/等嘸病床臺大醫急診走廊病逝-議員痛批-草菅人命-074200494.html	未分類
+2026-08-25	瑋俊生物科技：訂立300兆瓦AI數據中心戰略合作諒解備忘錄	https://news.google.com/rss/articles/CBMiakFVX3lxTE4tbzJsbkNIX0tUeVJYSF9fMzQ1dkhWU0p5dzFpbnZVcDFlSldSbEx1Zk5MUi1QMF9TbmFlbmVwd3FpY2M5R1VuMWgtVlF3QUdqbHBkUFIyTmhaQWo0Y0d4Z0pILTJjd3Jva0E?oc=5	未分類
 2026-08-25	湖中游泳竟感染「食腦變形蟲」 美8歲女童病亡	https://www.ntdtv.com/b5/2026/08/24/a104126882.html	未分類
 2026-08-25	新冠上週新增19死、59重症 疾管署示警疫情仍處高原期	https://news.tvbs.com.tw/health/4012476	疫情
 2026-08-25	新世代新冠疫苗升級！副作用減半、重症保護力增36％	https://health.ltn.com.tw/article/breakingnews/5551779	未分類
@@ -851,6 +853,7 @@ var DATA_MEDICAL = `
 2026-07-28	【世界肝炎日】港41萬乙肝患者 四成不自知感染 及早發現可逆轉	https://health.mingpao.com/%E4%B8%96%E7%95%8C%E8%82%9D%E7%82%8E%E6%97%A5-%E6%B8%AF41%E8%90%AC%E4%B9%99%E8%82%9D%E6%82%A3%E8%80%85-%E5%9B%9B%E6%88%90%E4%B8%8D%E8%87%AA%E7%9F%A5%E6%84%9F%E6%9F%93-%E5%8F%8A%E6%97%A9%E7%99%BC/	未分類
 2026-07-28	7．28世界肝炎日 創新療法有望達「功能性治癒」	https://topick.hket.com/article/4167374/7%EF%BC%8E28%E4%B8%96%E7%95%8C%E8%82%9D%E7%82%8E%E6%97%A5%E3%80%80%E5%89%B5%E6%96%B0%E7%99%82%E6%B3%95%E6%9C%89%E6%9C%9B%E9%81%94%E3%80%8C%E5%8A%9F%E8%83%BD%E6%80%A7%E6%B2%BB%E7%99%92%E3%80%8D	未分類
 2026-07-28	7.28世界肝炎日｜「無聲殺手」肝癌年奪1,500命專家嚴選7大護肝食物逆轉脂肪肝1種菜食足4周肝炎指數降3成	https://topick.hket.com/article/4166937/7.28%E4%B8%96%E7%95%8C%E8%82%9D%E7%82%8E%E6%97%A5%EF%BD%9C%E3%80%8C%E7%84%A1%E8%81%B2%E6%AE%BA%E6%89%8B%E3%80%8D%E8%82%9D%E7%99%8C%E5%B9%B4%E5%A5%AA1,500%E5%91%BD%E3%80%80%E5%B0%88%E5%AE%B6%E5%9A%B4%E9%81%B87%E5%A4%A7%E8%AD%B7%E8%82%9D%E9%A3%9F%E7%89%A9%E9%80%86%E8%BD%89%E8%84%82%E8%82%AA%E8%82%9D%E3%80%801%E7%A8%AE%E8%8F%9C%E9%A3%9F%E8%B6%B34%E5%91%A8%20%E8%82%9D%E7%82%8E%E6%8C%87%E6%95%B8%E9%99%8D3%E6%88%90	癌症
+2026-07-27	追蹤木頭姐：增持基因編輯新星SCTX超36萬股，減持ATAI、FIG 各超70萬股	https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xQ2RQcU5rS1I1UnJaVjVuLTlVejRmeEJRaFNaRlc3c1dxRFRBbHhIckVBRFk4TGsxU1EtaXhVcWs4NE53cmk5RllsTWUtQURLU253?oc=5	未分類
 2026-07-27	許樹昌：流感爆發暫未到頂 新冠病情轉輕 醫生可縮短病假	https://www.am730.com.hk/本地/1043837/許樹昌-流感爆發暫未到頂-新冠病情轉輕-醫生可縮短病假	疫情
 2026-07-27	衛生局響應“世界肝炎日” 舉辦系列社區活動推廣乙肝防治	https://www.gov.mo/zh-hant/news/1255734/	未分類
 2026-07-27	蚊患｜馬鞍山誘蚊指數突破22%！一文盤點蚊傳疾病與天然防蚊法	https://www.hk01.com/健康Easy/60372943/蚊患-馬鞍山誘蚊指數突破22-一文盤點蚊傳疾病與天然防蚊法	未分類
@@ -933,6 +936,7 @@ var DATA_MEDICAL = `
 2026-07-21	健康網》謝賢病逝傳因肺炎 醫警肺炎警訊 2大高風險族群留意	https://health.ltn.com.tw/amp/article/breakingnews/5512088	未分類
 2026-07-21	以身作则：尼日利亚医学生群体对猴痘疫苗的态度与接受度	https://www.ebiotrade.com/newsf/2026-7/20260721032614779.htm	未分類
 2026-07-21	2024年布隆迪布琼布拉猴痘（mpox）的流行病学特征与传播动力学	https://www.ebiotrade.com/newsf/2026-7/20260721000231666.htm	未分類
+2026-07-20	高壓加班釀職災！入職不到4月腦中風品牌副理控酒商判賠千萬| 法律前線| 社會	https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZYmQxU3VZOVB1YjMyS2VEdjNWeTVwWVBOOXhyMlFCZ0R2MC1ZV2VndUFlV2RibFJodjc0bFlfeU0xV2VOV1k5b0lIWF8zX0NM?oc=5	未分類
 2026-07-20	高壓加班釀職災！入職不到4月腦中風 品牌副理控酒商判賠千萬	https://udn.com/news/story/7321/9638691	未分類
 2026-07-20	陸新冠確診一週內檢出率升至11.9％ 南方確診率高於北方省份	https://www.ettoday.net/news/20260720/3204518.htm	疫情
 2026-07-20	这些不安全性行为，容易传播猴痘病毒	https://www.163.com/dy/article/L2ABCPA60556BXT9.html	未分類
@@ -1334,6 +1338,7 @@ var DATA_MEDICAL = `
 2026-05-08	器官移植等待者超過1萬7000人：能如願者僅3%	https://www.nippon.com/hk/japan-data/h02754/	未分類
 2026-05-08	27歲男星中風暴瘦30公斤！感冒後看臉這3處，秒辨奪命警訊	https://edh.tw/articles/o6RuTUR	未分類
 2026-05-07	阿根廷汉坦病毒病例增加表明最初重点关注离开乌斯怀亚的船只	https://www.mixvale.com.br/2026/05/07/阿根廷汉坦病毒病例增加表明最初重点关注离开乌-z/	未分類
+2026-05-07	科大首創DNA引導基因編輯工具 灣區創新科技 - 專題	https://news.google.com/rss/articles/CBMiugJBVV95cUxOWlQ4b25DanRvRzBOdDE3UmhSSU5tQ0RtWGlDWDlFVlZOYkNTaXBmSWRXeF85N1VXakFrRE15UlI5RXFkbkJtR0ZGYXU4bEEzT1dsTkJJdUd4TWdPTWdsaEdIU2ROdVpWYmVpd1VLaEJFLUxpR3hndUZ5a25JNElEcXVldWk0Nk5aTGdXem9RUUd2TzVYSTh5MjR6bmRhMlQtdmxaYWxLdjBiZHMtMS1xbzJMQWpxWVBYRkxFQzJ2R2Z6Z1NGYy16amN0LThZQ09VN3FHMzBrcm5PRUtzY2JGVUN4ZlUzYUhRVk5JRG9LdHVnOXk1NDh3WTdMXzNxWVZjcEUxRFI0WGFuMVd3OHdMdm0yV2h0Z3E0ZWJYeml3OVY2UGphY1N0MUxVQ05RSWpjUUtUVDIzYTZnUQ?oc=5	未分類
 2026-05-07	科大首創DNA引導基因編輯工具	https://www.hkej.com/dailynews/ceoai/article/4397212/%25E7%25A7%2591%25E5%25A4%25A7%25E9%25A6%2596%25E5%2589%25B5DNA%25E5%25BC%2595%25E5%25B0%258E%25E5%259F%25BA%25E5%259B%25A0%25E7%25B7%25A8%25E8%25BC%25AF%25E5%25B7%25A5%25E5%2585%25B7	未分類
 2026-05-07	特攝巨星隕落！《宇宙刑事卡邦》大葉健二病逝 曾進軍好萊塢參演《追殺比爾》	https://stars.udn.com/star/story/10091/9488930	未分類
 2026-05-07	漢他病毒致死 為何遊輪容易爆發疾病？	https://www.epochtimes.com/b5/26/5/7/n14758390.htm	疫情
@@ -1427,6 +1432,7 @@ var DATA_MEDICAL = `
 2026-04-22	新冠疫情夏季恐反撲 再感染死亡風險飆逾四倍	https://www.epochtimes.com/b5/26/4/17/n14743842.htm	疫情
 2026-04-22	新冠又變種「蟬病毒」擴散！中國疫情升溫爆「2病毒交叉感染」醫認了：更複雜	https://www.ftvnews.com.tw/news/detail/2026422W0433	疫情
 2026-04-22	感冒變奪命心肌炎ECMO救回一命 浙江男心臟停跳2天奇蹟生還	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60342668/%E6%84%9F%E5%86%92%E8%AE%8A%E5%A5%AA%E5%91%BD%E5%BF%83%E8%82%8C%E7%82%8Eecmo%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD-%E6%B5%99%E6%B1%9F%E7%94%B7%E5%BF%83%E8%87%9F%E5%81%9C%E8%B7%B32%E5%A4%A9%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84	未分類
+2026-04-22	國際生物科技創新峰會今舉行 探討前沿生物技術突破至產業轉化關鍵	https://news.google.com/rss/articles/CBMixwNBVV95cUxNdFNpVGdIWnozbTlpNWxiM3NzX05RSHRuUDBQYXlvc1h1cVZiMzg2T1R2djFPbzdSU2VsMzZrY3RTZlpLVzZmcm1mNGlSNTYwNXlKRUt0OFB3SVdQaDYxcDlxTUc0VXJDMDJpczcwUUViVG1qTzVLUHFGSzB3SHdlR2t4WTZNNW4yaUFJaFoxX3RyRzFDbGNEX1NkdTdWajkyWEc5c25icWQwYlZyZDBSZzBOZ0VWUTBucF9qRTZIdlFjNm45Z19CYldVd0RvNkg2encwZXlQYk1EYzIzNnBvdE5UZGF1STRuSjAydVdNaFpSNzJ0Vm5QVnN2dURRbVJaLXFCMjZwRXVmLXFiTjdvTC1la1RtUGxyQlNnb3JhYVlhUDUtZU55aHFzQnNGS3FJbHJpbDRrZjBOYy01LUJiSjZITmN1aEpiZGoxcFp4c1ppdmF0Z3dUWkZXZWlZS05ITnpEWFllVUwyRFB6dEh3TVp3Q1BRQUtKV2ZLQjlVRktPOWY2bGhRbWRXRE5XOGtYMjhQdWNxTGRYQWJ6TXFqUDAwX3U1MUVNZk5LMUhZWVUtWEJjY2JFU0xHM05lcmVfcEJtQ1RuVQ?oc=5	未分類
 2026-04-22	史瓦帝尼愛滋感染率26％！展望會助友邦擺脫愛滋與貧困	https://turnnewsapp.com/livenews/life/20260422003778-260405	未分類
 2026-04-22	分屍案死囚歐陽榕病逝 獲提非常上訴	https://www.mirrormedia.mg/external/amp/setn_1826338	未分類
 2026-04-22	分屍女建商入獄15年！死囚歐陽榕病逝後 檢察總長罕見提非常上訴	https://news.ltn.com.tw/amp/news/society/breakingnews/5412167	未分類
