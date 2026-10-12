@@ -1,6 +1,12 @@
-// 猝死 | 由 build_news_js.py 生成 | 共 3979 條
+// 猝死 | 由 build_news_js.py 生成 | 共 3986 條
 var DATA_SUDDEN = `
+2026-10-11	韓國籍77歲遊客沖繩浮潛突心臟驟停 送醫後不治	https://news.google.com/rss/articles/CBMixwJBVV95cUxPSEtKS1E2ZEdNUS1BR1d5eF9tSTcxM2JZd1dVN2F0Y2RiVmJOVjBUcDcwMHNVYzhRMUNveG9oZUM2bTcxS0lsUFdmaFM1SjV1SldXUHVfZjhDYzBCV0N3UDJtMmk5dkJEZUVyUUo3d29XY3ZvaTV6UE5FNDEtUEdqay13WGViaEFSby1RdkhZNGdiaEVOR2p5YW5TVWpfdWlYaXNNWTBINmJaTzlQNFV6dzY0X3Vad0hkSkxPRVExUEpvRm9VRTRBMmdIRmFFLTc1LUxEODE3VXEzcE53Ym1mQzVsZW5PdkVVOW1mNThrWkVQS0xSZEMwdFBDajB0RjUwRkxsa3diemttWm9td2JJYVVHejNqSVd4OHprbWszZmw1TU1uZTVSOWlFYzdUUGJrcFFUaDgyMk96NGJtWWhaYUNoS2NhaEE?oc=5	未分類
+2026-10-11	討論牆 | 狂打電動2天1夜心臟驟停！21歲男「不睡覺」猝死 父母崩潰哭癱	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jMWJuMHdzdS1OUy01bXRTZ05xYXpDTjhwTTdWZkdQWm1NX0pia18yN3JsenhCMlVZcWxpSlYzZE9PajljdEdZNFBjcFRNcFViQnJuM2lxSV9iM2J3Nko3TzBRb0o?oc=5	未分類
+2026-10-11	狂打電動2天1夜心臟驟停！21歲男「不睡覺」猝死 父母崩潰哭癱	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ETVZfX3hZQ0ZScnFqbGJoUHZXSXhQdlZuOVRfeUVJQ0RyendORGJKOE50dktNMjVYMGs2Z1VnY0Q3ckJqai1vVEt3Q0xjZEU?oc=5	未分類
+2026-10-11	國慶連假山友揪團爬山 台中和平單日4起事故、67歲男急救不治	https://news.ltn.com.tw/news/society/breakingnews/5602839	未分類
+2026-10-11	【21歲男狂打電動「兩天一夜沒睡」 突心臟驟停亡】 （#大表哥）	https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMm13RGs5RmEzb0JyY1hKU0pEMlpHYVFYU0pMdVdWdDdtN2o3Q1gzTHZIT2hUU3RRX3lQUENWeHExelZxU1VHYzEtcDg4M0lMTnBHWHZEN09ldEoyTlNKMmhfV2Fna0M1czY2aHV2QS00UGxRWTdNS0xFVzNTUnNTQUlYNlBEYnJ4cUlTVmpWZl9MVnoxRm5YY1k4a3BXTWgyeWxkTklDUk9vUnk5OG5QNEFtRDZjMXhXNTZ6UmhENERZZEtjZHl1d2pjQ1ZSYWwydzZ6TmVqbVVyMmp6MU1acTVYbENSaTBxOWkzeFJDRE1IekdxMmJzTEY3RXByNXhtQVRjTTR1ajZMZVhtdU9oM0l4UFUwSWtaaERENUdQVXAzVThTUjVHOFRlZTZkN3lxeFEydjhfMXdKNkNGelZxYU5MTm9jM2p2YTRfTHdKckV0Q2xnYTZmcVpCYWtud3lpWUt3LUY2Rjg?oc=5	未分類
 2026-10-10	28歲女乘客「飛機上猝死」空姐以為是睡著！ 降落才知已成坐屍	https://www.ettoday.net/news/20261010/3252266.htm	未分類
+2026-10-10	21歲陸男狂打電動「兩天一夜沒睡」 突心臟驟停亡	https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ETUpHWHVpOUZULVU0WUJWYktwOUJJbnFDbGtOUjVOYUgta3Vmb1ZoaHRiZkFNUW9WSjEzNlV0TnVNVXVJT1htb1ZtLW9Sb0dWM1BzSU00N241cGRYd0HSAUtBVV95cUxQbzBoTnR6alpMMWpqYVF5NUFkNDhCRkR0dVppeFFtWmZ2NDlWamxzS1ljSWJCcl9xQS1hRHB0enFYRHFjUVZsSjh0SnM?oc=5	未分類
 2026-10-09	通緝犯入監隔天猝死獨居房 監視器拍下管理員動手	https://news.pchome.com.tw/society/ctinews/20261009/index-79152752452272309002.html	未分類
 2026-10-09	女警誕嬰後大量出血離世 醫委會事隔10年稱證據不足結束投訴 家屬向醫衛局發信申訴 (18:18) - 20261008 - 港聞	https://news.mingpao.com/ins/港聞/article/20261008/s00001/1791454689373/女警誕嬰後大量出血離世-醫委會事隔10年稱證據不足結束投訴-家屬向醫衛局發信申訴	未分類
 2026-10-09	基隆監獄通緝犯服刑猝死舍房！監視器拍到2管理員動手 檢方介入調查	https://www.ftnn.com.tw/news/585908	未分類
@@ -511,6 +517,7 @@ var DATA_SUDDEN = `
 2026-08-19	程序员猝死在公司厕所，怎么就不算工伤了？	https://news.ifeng.com/c/8viLTTZthPl	未分類
 2026-08-19	日本東武特急列車撞除草工人 4人無呼吸心跳	https://www.singtao.ca/7602533/2026-08-19/news-日本東武特急列車撞除草工人+++4人傷重不治/	未分類
 2026-08-19	布吉90歲英國老翁離奇暴斃 坐在椅上雙手雙腳舉起窒息死亡	https://www.am730.com.hk/article/1048373	未分類
+2026-08-19	女子超市停車場心臟驟停！搶救成功竟收罰單 | NOWNEWS今日新聞	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZNDVwVkNCcVgwRWJ3X0hReUduNHRyNkpHU1gxdnpHRHBRdDViUHhIc2NhN2pNSXZVNERpNWhmRXZGSnRTUlBnRi02N2czMkVxb3EtTDh3?oc=5	未分類
 2026-08-19	印尼25歲選美皇后猝死 生日當天死訊被證實震驚粉絲 印尼選美界傳出震驚各界的噩耗。2025年「印尼地球小姐」（Miss Earth Indonesia）得主、2025年印尼萬國小姐亞軍尤菲查（Putri Andriani Juficha）突然離世，...	https://www.kinliu.hk/news/%E7%92%B0%E7%90%83/%E5%8D%B0%E5%B0%BC25%E6%AD%B2%E9%81%B8%E7%BE%8E%E7%9A%87%E5%90%8E%E7%8C%9D%E6%AD%BB-%E7%94%9F%E6%97%A5%E7%95%B6%E5%A4%A9%E6%AD%BB%E8%A8%8A%E8%A2%AB%E8%AD%89%E5%AF%A6%E9%9C%87%E9%A9%9A%E7%B2%89%E7%B5%B2/239060.html?id=80	未分類
 2026-08-19	印尼25歲選美皇后猝死 生日當天死訊被證實震驚粉絲	https://www.kinliu.hk/news/環球/印尼25歲選美皇后猝死-生日當天死訊被證實震驚粉絲/239060.html?id=80	未分類
 2026-08-19	六旬裝修工開工猝死 5日兩宗 死因待查 - 20260819 - 港聞	https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20260819/s00002/1787075513830/%E5%85%AD%E6%97%AC%E8%A3%9D%E4%BF%AE%E5%B7%A5%E9%96%8B%E5%B7%A5%E7%8C%9D%E6%AD%BB-5%E6%97%A5%E5%85%A9%E5%AE%97-%E6%AD%BB%E5%9B%A0%E5%BE%85%E6%9F%A5	未分類
