@@ -1,4 +1,4 @@
-// 遇溺 | 由 build_news_js.py 生成 | 共 694 條
+// 遇溺 | 由 build_news_js.py 生成 | 共 697 條
 var DATA_DROWNING = `
 2026-10-09	西貢清水灣一灘六旬男疑遇溺送院亡 泳客救起即場心外壓｜有片	https://www.hk01.com/突發/60397753/西貢清水灣一灘六旬男疑遇溺送院亡-泳客救起即場心外壓-有片	未分類
 2026-10-09	西貢清水灣一灘六旬男疑遇溺 泳客救起即場心外壓惜送院亡｜有片	https://www.hk01.com/突發/60397753/西貢清水灣一灘六旬男疑遇溺-泳客救起即場心外壓惜送院亡-有片	未分類
@@ -685,10 +685,13 @@ var DATA_DROWNING = `
 2019-12-27	兒時泳池溺水留陰影！許光漢不敢洗冷水澡⋯柯佳嬿趕來惜惜	https://www.setn.com/news/661508	未分類
 2019-06-06	四旬漢泳池溺斃案裁定死於意外 裁判官促康文署確保人手	https://news.tvb.com/en/959732-四旬漢泳池溺斃案裁定死於意外裁判官促康文署確保人手	未分類
 2018-11-03	《愛玩客》女星水上跳床反彈 落水後嚇到短暫昏厥	https://star.ettoday.net/news/1297389	未分類
+2017-08-18	蜥蜴泳池溺水 女子用心肺復甦成功救活	https://news.google.com/rss/articles/CBMitgJBVV95cUxPNHR5aWhiWnZFNlk3MXhadXNmV2xmMWlGaFY3UER5TWltc0N6NkU1ZFJWNDNSZGV5TExnUjJPNnhmbURvMmFjU1I4QTRmc2phb1A0REM0TXdYRW1LTmJacDVicEpJZlMxdjJkVFg2Sjc0b1Y0cmtRVTg5d3h4aGRMWG9Kc0xacXZlS0dxRERLeVlWeGJXQUhKb0QyaFFKQm5neVAyOEk0V2R2Q0NRSW50TFRqTkVnM0xwVTdnXzlEanNncEQ0dDFhRnFUQmxkZkU2YmJZZWZ5RDhkb1lfdXNaSzhzdmt3WmpBb1lTaUExYjRMQ1dGdkZBbWlndjJORUV6RDBVUW1JN1B4ZHdZNFdZeHc5dWx1QXdjcW01N3lpX3YzSnh5RFRaNTVtQm54bVdLbU9ZOUd3?oc=5	未分類
+2017-06-18	家長去哪？ 女童泳池溺水心跳一度停止	https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wYlZHRHVteG1hYUZhc21qaUZuSmVpZkNYakd4RnB0WVBTMkVFVkFUNnBnYXRHTFIwWGZqdC0yd2x5YVdKNFVQYXMwN1Y?oc=5	未分類
 2017-06-11	正妹護理師墾丁衝浪 熱心CPR搶回溺水者心跳	https://news.ltn.com.tw/news/society/breakingnews/2096915	未分類
 2017-06-10	影／5歲男童泳池溺水掙扎周圍多人竟無察覺| 國際	https://www.setn.com/news/261117	未分類
 2017-04-22	小鹿誤闖泳池溺水昏厥 女子「人工呼吸」拼命按壓救活	https://pets.ettoday.net/news/909629	未分類
 2017-03-22	北市大湖公園驚傳意外 婦人疑跌落湖中溺水	https://www.nownews.com/news/2451481	未分類
+2017-03-01	台灣阿信遊泰 拍照跌泳池溺死	https://news.google.com/rss/articles/CBMiX0FVX3lxTE13QmMxTmpiMFd4R3llTVNpRi13X3NQcVVnYnBZRHg0bmM0Q1puTWJpT3VmcnlMS1RwX0RCcGFmUkZ1TFc4a0FOcHQ2Yi1GZWNVUEg3UHR5UTlxblVCZVZV0gFkQVVfeXFMUE9GaXhWOVdZYjI4eXFXMHJ1ajFPZUZJaktFSjhBazJ4ZlhwLXdhbkFJWHBvN0c4Qkt2aFY3RTRxaElUOEtsTC1DZkp0TTdXRDRBUm95bElOZE5sT1E5ZVVwSWlEdQ?oc=5	未分類
 2017-02-28	台籍旅客遊泰芭達雅飯店泳池溺水亡| TVBS	https://today.line.me/tw/v3/article/XBa9Pw	未分類
 2017-01-06	4歲童泳池溺水亡母親渾然不知 近在咫尺卻喪玩手機	https://www.hk01.com/%E4%B8%AD%E5%9C%8B/64182/4%E6%AD%B2%E7%AB%A5%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B4%E4%BA%A1%E6%AF%8D%E8%A6%AA%E6%B8%BE%E7%84%B6%E4%B8%8D%E7%9F%A5-%E8%BF%91%E5%9C%A8%E5%92%AB%E5%B0%BA%E5%8D%BB%E5%96%AA%E7%8E%A9%E6%89%8B%E6%A9%9F	未分類
 2016-07-02	國際學校教職員游泳疑遇溺 送院後情況嚴重	https://news.tvb.com/tc/1034330-國際學校教職員游泳疑遇溺送院後情況嚴重	未分類
