@@ -1,9 +1,14 @@
-// 經濟 | 由 build_news_js.py 生成 | 共 3839 條
+// 經濟 | 由 build_news_js.py 生成 | 共 3847 條
 var DATA_ECONOMY = `
+2026-10-10	即使沒金融風暴 美債殖利率為何仍可能直奔6%？三大實體經濟支柱全解析	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PQlUybVM3X2t4cjF0bHFWbl9uQVA1UjFCYW5kN09ETDkxei0tbzB4Q3lhNUlqWVFvWm90Tm4zeGxHX0RkYUJ6VG1uelBTMlk?oc=5	股災金融
+2026-10-10	【經濟判讀】經濟衰退機率與資產配置策略報告 1010	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WWEVEOTNjMHI1czI5UVJYTWNOVGk2RlBkUGU0LVNQUV8wZkxvVjFCQlhrS1RqZ2NrUkFJeGZrR2tzanJJb0s2OUF4YmI4MkRRMTlKOC1aTHRjTVZLdVBYV0FvTG9wN2s?oc=5	未分類
 2026-10-10	《國際產業》AI狂潮這點驚似1997亞洲金融風暴！專家：藏1未爆彈	https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTGRqclBXX0p2OGtOdGxRLTlBSGhvUzBqTVhQMlYtMmxCdXFNWm9JRFktR3V4RkRnWWxuNHhqS0FfOUFOTGJDaXBEZkRMR1RnajdWYVNBSlc2dXlYTHB3dWs4YndGTzQ5TFpDZUNva296bTdwU0ZMMnRYU1IxRzlyN0pGeE1mUFNq?oc=5	股災金融
 2026-10-10	AI狂潮這點驚似1997亞洲金融風暴！專家示警背後藏1顆未爆彈- 要聞	https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbEZacTlCaWZKNUdTcGRmNmxXYlJfOWVUc29ORDYzVDdSSlpVbzNzMUQtbHdtTFllZ3FYdHNEQ3FoeTJqRzJMUHVwMmVRNW5JVkh5VUF5RV8wWkJ0QlRRR3VidTR6SGcxb0dwRDVB?oc=5	股災金融
+2026-10-09	美國家庭償還債務能力惡化 跌至全球金融危機以來最差水平	https://news.google.com/rss/articles/CBMi_wJBVV95cUxQaWQ2bjRUcEx1RkRWMDBrYWJZTnplN2N1Sk1OZ1hJbXBMdTZMTmNzNmtUSVJSblpWR1JXSmtZUlVkV3VmbURmdTZnYVJkY0w4bUpiZjRQekU2WG9hc05oUkU4cjVUVDJQLUl6M2pTeXRFZElWZGt5OHVoMkpRU1FZRk5oRVc4ekQzdDdaN1Y2YlBJZ0JKaGllWHowNFFvU2tNV2FtNDBuaW5uYUtZUHI2aHl3dHFXZE9Mb3EzZ2U4N2x6NnFxSWp5OW5GeWpCSlVOOUdHV25HWlNfYWJNdU1YTVRmR0prOE1BTTZlak5heng3ZWk4Tmo3R2k5QmFOajJEOHhTM0VWZ1Iwam5vWnhXYWRvWUQwLUR3R1JfbFNjZ3o4S3ZvM1JXYWtNSzcxd01rMlZicFIybFVwVkpwVldtV2xXT05tQUppSEhtWHVnbFNZeUJoMGxlTHdudDhWWnp6SDA2NmpkeUZmVElDS1NvbU5yWjJ2LUdCdzd0WFQzYw?oc=5	未分類
+2026-10-09	【經濟判讀】經濟衰退機率與資產配置策略報告 1010	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oUGhrYzJTdlgyNWxHcTFxXzg4eDRROU9TSVZTOVk3RHhpLXZNd1hBclJBSWhudlJrYlJvYTIxUUxKYVk4QmpsQ0R6LWNFaWtybWgyQTNITjE?oc=5	未分類
 2026-10-06	法國債券遭猛烈拋售，引發金融危機擴大的恐慌	https://www.businessinsider.tw/article/7939	股災金融
 2026-10-06	【直播】帶領日本衝破30年經濟停滯！ 高市早苗國會發表重要演講	https://www.ntdtv.com/b5/2026/10/05/a104139151.html	未分類
+2026-10-05	避免引爆金融危機! 中共出手裁減逾900家銀行創紀錄 小銀行成整頓重點	https://news.google.com/rss/articles/CBMitgNBVV95cUxPTFhCdmNLTzB4TExfMm9WM0ZDNjJfWWtWR1N0Z0h2dmtQS1dPMU9naU16b0RPakhSa2Npdm9zNWNOczlWMDVDQzlnb3JWeExDeFVfelJOLTE0UDBxQ2VXclFKbFVfV3VZT0Jwb3BLejRJalpPN3k2RUI0dFJXWkFzd2lUbkg2UEZZM0dSZ1p3bHdKMXVydVNTQXRLcHViS2lHTUpCUkMxQkFQVjRsVExUbFJnbzlOQkFzM0dZVmlKMllXTTVvNXlYLXp5d25xSlF1VklaeC1zV2RPUlc3dDVpdUtUOWFnVm9lMVpJNXdnTjkwN2ZYVS1kUlI5bkNKdTZoQlFYTkQ4X2puQTJnS3pMbE1GY0VrU08zYXR1VlluNkE5ZUtfNkNmRnBDdFFMRkxvcHhGRV9rdGN4LWdTejFfc1dmTHphZU1LNWdEMFRSTElHa05vc3FqUWZkZWVZWlBxYTV0am5JVTVpeUo2TGllWFdjTFkySzN6OHAtMjg4YWVjc2E1amZub0c0WEZNcy1lV253ZWoyaVlNR2diNnNTNWRkUkJTX0g1U1JvZzhjQVlvaHJTMHc?oc=5	未分類
 2026-10-02	香港餐廳星輝閣結業 員工稱欠薪數月	https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813114532123-0813_00822_001.html	結業清單
 2026-10-02	2萬人將被裁，亞馬遜史上最大裁員潮來襲	https://www.36kr.com/p/2040509847055623	裁員清單
 2026-10-01	結業潮｜花園街熟食中心11月起關閉14個月迎翻新 十多間人氣食店妹記、松記停業	https://ufood.com.hk/restaurant/news/detail/20092328/結業潮-花園街熟食中心-月起關閉-個月迎翻新-十多間人氣食店妹記-松記停業	結業清單
@@ -57,6 +62,7 @@ var DATA_ECONOMY = `
 2026-09-25	Xbox 裁員波及《Halo》新作項目遭腰斬Halo Studios 淪為支援團隊| 遊戲情報站	https://gank.fanpiece.com/gamenews/Xbox-%E8%A3%81%E5%93%A1%E6%B3%A2%E5%8F%8A-Halo-%E6%96%B0%E4%BD%9C-%E9%A0%85%E7%9B%AE%E9%81%AD%E8%85%B0%E6%96%AC-Halo-Studios-%E6%B7%AA%E7%82%BA%E6%94%AF%E6%8F%B4%E5%9C%98%E9%9A%8A-c1506439.html	裁員清單
 2026-09-24	聯儲局官員：美國年底前再加息1次合理 關注通脹持續升溫風險	https://news.rthk.hk/rthk/ch/component/k2/1871454-20260924.htm	加息減息
 2026-09-24	美推美元穩定幣出海：對抗 CBDC，鞏固霸權 作者 智通財經 - Investing.com 香港	https://hk.investing.com/news/stock-market-news/article-1672060	未分類
+2026-09-24	美國經濟衰退難免？專家：長期投資標普500仍能獲利豐厚	https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWlfSzE2Ukhmcy15MXdRaURjdm9CUm9hNUkzWnc0RHVtaEF4aEFNSHVwcWtpSWhBY0tTTjVvUGk0UnNHa3ZqQS1ieS1UcWRtbzNLNHhfX3kteEZUTmpuc0xEOV9jclpuVGdtN0Jhemlnc1RYQTdhNHRoN2RCLTl5ZHZudGphUTVmQWx1bA?oc=5	未分類
 2026-09-24	甲骨文擴展數字資產數據樞紐，幫助銀行實現數字貨幣的運營	https://www.moomoo.com/hant/news/flash/1000119242/oracle-expands-digital-assets-data-nexus-to-help-banks-operationalize	未分類
 2026-09-24	暴力裁員1.6萬！	https://hk.investing.com/analysis/article-118484	裁員清單
 2026-09-24	傳豆包裁員、對話團隊砍半，公關負責人斥不實：屬分工調整	https://hkcd.com.hk/content_app/2026-09/24/content_8776907.html	裁員清單
@@ -308,6 +314,7 @@ var DATA_ECONOMY = `
 2026-08-25	美加關係撕破臉！省長嗆川普獨裁「破產之王」：我腳趾都比他有腦	https://www.nownews.com/news/6869038	破產
 2026-08-25	美加談判破裂 加商家憂生意腰斬「恐破產」	https://www.epochtimes.com/b5/26/8/24/n14836032.htm	破產
 2026-08-25	結業潮｜連鎖平價超市「價真棧」連執兩間 兩店相繼結業網民點出2大致命傷	https://topick.hket.com/article/4181333/結業潮｜連鎖平價超市「價真棧」連執兩間 兩店相繼結業網民點出2大致命傷	結業清單
+2026-08-25	沃什演講恐引發「金融風暴」！傑克遜霍爾會議會否引爆黃金白銀下一輪爆發式突破？ 作者 FX168 - Investing.com 香港	https://news.google.com/rss/articles/CBMib0FVX3lxTE1SLVR3YmFScHBIa0QxQkwzRU9UR1RVSkx6Ym1VWHVqa0tDMDYtZ0MtNTVzWFRZbXRvZm5XNV84MjA4Z01GQTBBNjdXNkRxV3kyYWtxeVVKR3FvVS1vT0tndEdXOUNHWHdDSk85RElTQQ?oc=5	股災金融
 2026-08-25	日企倒閉潮高市財政擴張成眾矢之的連兩月破產逾千家負債總額按年激增逾四成- 國際	https://www.wenweipo.com/a/202608/25/AP6a8ca4fde4b0c1e500261920.html	結業清單
 2026-08-25	施羅德投資 ：油價回落 通脹風險未全退 惟各央行未需立即重啟加息	https://www.businesstimes.com.hk/articles/337054/施羅德投資-油價回落-通脹風險-央行-重啟加息/	加息減息
 2026-08-25	新西蘭元上漲，因高通脹推動新西蘭聯儲9月加息預期	https://www.fxstreet.hk/news/xin-xi-lan-yuan-shang-zhang-yin-gao-tong-zhang-tui-dong-xin-xi-lan-lian-chu-9yue-jia-xi-yu-qi-202608250302	加息減息
@@ -522,6 +529,7 @@ var DATA_ECONOMY = `
 2026-08-12	民青局「青年初創實習計劃」結業禮 李百全：實習生獲僱主邀請「回巢」肯定	https://www.bastillepost.com/hongkong/article/16555685-民青局「青年初創實習計劃」結業禮-李百全：實習	結業清單
 2026-08-12	東張西望｜葵廣童黨下集｜冰糖葫蘆店結業童黨惡勢未退轉戰後樓梯挑機部分與荃灣「子彈仔」有關？ - 東張+	https://www.mytvsuper.com/tc/scoopplus/scoop/catch-up/17865322130927/東張西望-葵廣童黨下集-冰糖葫蘆店結業童黨惡勢未退轉戰後樓梯挑機-部分與荃灣-子彈仔-有關-	結業清單
 2026-08-12	朱鎔基逝世｜亞洲金融危機曾向香港派「定心丸」 又指本港將來地位不可限量	https://news.tvb.com/tc/1188727-%E6%9C%B1%E9%8E%94%E5%9F%BA%E9%80%9D%E4%B8%96%E4%BA%9E%E6%B4%B2%E9%87%91%E8%9E%8D%E5%8D%B1%E6%A9%9F%E6%9B%BE%E5%90%91%E9%A6%99%E6%B8%AF%E6%B4%BE%E5%AE%9A%E5%BF%83%E4%B8%B8%E5%8F%88%E6%8C%87%E6%9C%AC%E6%B8%AF%E5%B0%87%E4%BE%86%E5%9C%B0%E4%BD%8D%E4%B8%8D%E5%8F%AF%E9%99%90%E9%87%8F	未分類
+2026-08-12	朱鎔基逝世︱金融風暴挺港 「勿議而不決」振聾發聵	https://news.google.com/rss/articles/CBMi0AJBVV95cUxOMTVyTWItbjY2VVNhNDdiOGFBcXItMXR4VjJBcWp1T0phVTN0LTJMWkdzdmIxWnQ3UlVBZmR3WFhoOGpVVUV6dG5ZaEhndWM0VmJtSUNERDV1Q0Z2cXkyQXNoMlYwNmFjWHZpUUNKdkVMejB4Q3g1NlM1TVRvRm5xUEQ3VkFCWjZnb0UtUmFtUXZ0cFRtRzVXdzA2Tmt4dy1WNXFpbTRpVU4zVGhnZEQxOUp6U0M4Y19iYUI2UGlGNGF1QzJpdHg0RDBQZHlGWXRDWFoyempfamF3dTJTemVTT0hWbmFuRjU0WW92YmxNNUpwanc1TUxTZWg4MV9sOEpGX1FnQnY0NEliZzMxV0FZSGxTYVdwcXNkZ2tjSUhJLWtZSG10QlFpMm5WVy02VWRUYUtVWXpzQzdraEs5RnBQNEtTUV9OSEYtYlloSGstRU4?oc=5	股災金融
 2026-08-12	明星近況｜39歲女星朱銳驚爆破產炒燶股20年積蓄輸清光靠母接濟悔不當初	https://topick.hket.com/article/4175380	破產
 2026-08-12	手遊開發商倒閉潮加劇！日2026年已10家業者倒閉、恐創歷史新高	https://game.ettoday.net/article/3217284.htm	結業清單
 2026-08-12	士林夜市驚見倒閉潮！韓國YTR揭「最慘致命傷」 台灣人點頭認了	https://www.nownews.com/news/6865356	結業清單
