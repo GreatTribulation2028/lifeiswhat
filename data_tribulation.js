@@ -1,5 +1,7 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 316 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 320 條
 var DATA_TRIBULATION = `
+2026-10-12	權威期刊驚爆：2100年前恐全人類滅絕！ AI失控、核戰爆發將引發「世界末日」	https://news.google.com/rss/articles/CBMiUkFVX3lxTFBESEUxOVJtb294d09UdG5QSzZybWxFM2thVEJiZHpqblNzNFlyeWNxYTdab04yY0I0dGR4THNNOThxMXh4R0ZKbTljUXpJbFJxZ1E?oc=5	末世預言
+2026-10-12	[P08] 世界末日女朋友	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vWG84RXlnQnBrUHRFMWFuVEpURGpmUW93dzRQSEJYcnk4QTFsdUFKMElTOXJwMUhxbDUzSDA0UlBLTVA3MnZqWFFNa2Fud2FYVzdJY1pQWjd3YmNXM2ZodGgxaGVkZw?oc=5	末世預言
 2026-10-10	人工智慧末日可能始於網路攻擊 - Root-Nation.com	https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdTNNRmUyQWFsMTFHczRmaU9HaW4xaWFmdFhyNTA1bmhvNWNCSkdMYlVJV3V5UF94S2F6SWFWb3R3SURhY3pkRDBicXlTenI5MWpWOVZmMXFoSzF0ZGExcVF5cW1mZGp1ZGV1cUhzVTJDWm0ySWwyWU1BVWtuQnJqcWdlSUxSd0Nhbmk2cUNzVlZORmdkX1BFOGZvYk9QZzdRZHVHSEM1NmhHMk1MQzdfV3huYXE3eUxCTlJTYUVoTnJGNDV6dTZibUtQZllDVWR4NjZ3cG1fNjJGVHNI?oc=5	末世預言
 2026-10-07	巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦	https://finance.ettoday.net/news/3250507	末世預言
 2026-10-06	她們的歌你一定聽過！千禧年6女歌手消失「當家長會長、嫁豪門」近況曝	https://star.ettoday.net/news/3248095	未分類
@@ -252,6 +254,7 @@ var DATA_TRIBULATION = `
 2026-03-13	墨西哥海灘驚現9米長地震魚 詭異畫面民眾直呼：世界末日近了？	https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60330092/%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B5%B7%E7%81%98%E9%A9%9A%E7%8F%BE9%E7%B1%B3%E9%95%B7%E5%9C%B0%E9%9C%87%E9%AD%9A-%E8%A9%AD%E7%95%B0%E7%95%AB%E9%9D%A2%E6%B0%91%E7%9C%BE%E7%9B%B4%E5%91%BC-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E8%BF%91%E4%BA%86	末世預言
 2026-03-09	克宮警告「世界末日將至」！普丁發言人痛批：國際法已崩潰	https://tw.news.yahoo.com/%E5%85%8B%E5%AE%AE%E8%AD%A6%E5%91%8A-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%B0%87%E8%87%B3-%E6%99%AE%E4%B8%81%E7%99%BC%E8%A8%80%E4%BA%BA%E7%97%9B%E6%89%B9-%E5%9C%8B%E9%9A%9B%E6%B3%95%E5%B7%B2%E5%B4%A9%E6%BD%B0-221000617.html	末世預言
 2026-03-07	【未解之謎】伊朗變天 末日預言應驗！	https://www.ntdtv.com/b5/2026/03/07/a104073860.html	末世預言
+2026-03-06	哈梅內伊之死只是開始？聖經預言的末日劇本正在上演！預言中的神秘女人出現、約櫃被找到、第三聖殿真的要建了！| #未解之謎扶搖	https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WRXROMTNzazJVV1J0MTBwYkhJQmVNOEpxMXNLVlNxc2tMZWhldUMtRG9DdUZIcm44ZHhlTFNFUGhnSk53YXo0ZmtBUklJM1hQM2hPWkY2YkVYSFVq?oc=5	末世預言
 2026-03-04	高盛︰AI每年恐取代超400萬崗位 但不會引發「就業末日」	https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60327108/%E9%AB%98%E7%9B%9B-ai%E6%AF%8F%E5%B9%B4%E6%81%90%E5%8F%96%E4%BB%A3%E8%B6%85400%E8%90%AC%E5%B4%97%E4%BD%8D-%E4%BD%86%E4%B8%8D%E6%9C%83%E5%BC%95%E7%99%BC-%E5%B0%B1%E6%A5%AD%E6%9C%AB%E6%97%A5	末世預言
 2026-02-27	Salesforce CEO马克·贝尼奥夫反驳“软件末日论”：又不是第一次了	https://tech.ifeng.com/c/8r5UKl48KTp	末世預言
 2026-02-27	2026罕見「三重黑五」降臨！其1曾遭標記世界末日	https://tw.news.yahoo.com/2026%E7%BD%95%E8%A6%8B-%E4%B8%89%E9%87%8D%E9%BB%91%E4%BA%94-%E9%99%8D%E8%87%A8-%E5%85%B61%E6%9B%BE%E9%81%AD%E6%A8%99%E8%A8%98%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-072400618.html	末世預言
@@ -298,6 +301,7 @@ var DATA_TRIBULATION = `
 2022-09-07	南極末日冰川銷融快於預期 恐危及4成全球人口 Warming	https://udn.com/news/story/6809/6595050?from=udn-ch1_breaknews-1-0-news	末世預言
 2022-09-06	南極「末日冰川」5年內恐融化 科學家 : 只靠「指尖」在死撐 Warming	https://newtalk.tw/news/view/2022-09-06/812740	末世預言
 2022-09-05	南極「末日冰川」岌岌可危 Warming	https://www.worldjournal.com/wj/story/121257/6591926	末世預言
+2022-07-10	但以理书概要: 耶和华审判诸囯帝王世界A、审判诸世界B、审判帝王C、审判世界(何治平牧师证道)	https://news.google.com/rss/articles/CBMiQkFVX3lxTFAxLXZtb01FVWVGQzFNTnJLWi1jWC10azNiTDBfRnd5Q19sNDVmWmdGMERlc0o0SFd1MDBTZ3BRU2JIUQ?oc=5	未分類
 2021-11-21	亞當·麥凱，用喜劇解剖金融危機與世界末日的導演	https://zh-hant.martincid.com/people/adam-mckay-19/	末世預言
 2021-10-14	《歡迎來到末日戰場哈米吉多頓》：芝加哥考古隊在米吉多的工作，正式展開不到一星期竟差點夭折	https://www.thenewslens.com/article/157146	末世預言
 2021-10-03	20211003 神掌管歷史的進程與生命 但以理書第十一章 曾嘉逸弟兄	https://news.google.com/rss/articles/CBMiQkFVX3lxTFBldS01RjlidUs3MXprbU1PdEd2alN4V3RIclBMbnllRk0yOTQ1aUQ0dFVRbnVESlVLNXNTMHQzUGhxZw?oc=5	聖經應驗
