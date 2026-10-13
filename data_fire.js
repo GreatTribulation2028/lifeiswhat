@@ -1,5 +1,7 @@
-// 火警 | 由 build_news_js.py 生成 | 共 1128 條
+// 火警 | 由 build_news_js.py 生成 | 共 1133 條
 var DATA_FIRE = `
+2026-10-13	慈正邨正安樓一個單位清晨發生火警 一名男住戶報稱臉部燒傷	https://news.rthk.hk/rthk/ch/component/k2/1873682-20261013.htm	大火火警
+2026-10-12	宜蘭冬山鐵皮屋倉庫火警 廠區一度全面燃燒	https://news.ltn.com.tw/news/society/breakingnews/5603798	大火火警
 2026-10-11	（有片）沙特首都利雅得機場再遭襲4號航站樓起火- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE82ZnJXUldxbUFfVmJGTlBxaTF2RnhEVi1NZW55bVVvemJWUDFnamVIY1Zab29Ua0FTbE5MUUNCTk41WWw5ZVYxWEhTZm9XVmVjdTNZcWt3V1JOeXpmTTl3WW94UkV3SEYyUUc2UjRpZzdUQVUyUlRGWVp3?oc=5	未分類
 2026-10-11	苗栗苑裡垃圾掩埋場大火濃煙沖天 消防急灌救	https://news.ltn.com.tw/news/society/breakingnews/5602732	大火火警
 2026-10-11	竹北博愛路優鼎科技大火 濃煙竄天釀空污消防出動15車	https://news.ltn.com.tw/news/society/breakingnews/5602851	大火火警
@@ -155,6 +157,7 @@ var DATA_FIRE = `
 2026-08-20	有片丨秦皇島住宅底層商場火災釀8死3傷當地網民指是酒吧起火肇禍- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17872006380666/有片丨秦皇島住宅底層商場火災釀8死3傷-當地網民指是酒吧起火肇禍	未分類
 2026-08-19	超人救山火？ 15歲少年奇裝助滅火 稱好過玩手機(有片)	https://www.am730.com.hk/國際/1048278/超人救山火-15歲少年奇裝助滅火-稱好過玩手機-有片-	森林火警
 2026-08-19	洛杉磯大火肆虐之際 網民竟下注「燒掉多少」惹議	https://www.singtaousa.com/2026/08/19/news/usa/los-angeles-fire-betting-controversy/	大火火警
+2026-08-18	比利時高芬森林大火失控 面積擴至3000公頃	https://news.google.com/rss/articles/CBMisAJBVV95cUxNSHlPV1JTYl9Wd0pIVzNRcHJwelRRdkJsU1JUYmZ0ZlZpV2JfNU9uOWc3VXZ0U1JKNzZtOFJoRzJmbFY4aTZ5NmczRUhVdVlBTktKamVObUhYcnZndnpYeUhrTkw4b19yNXo2LVpHYWV2VTYyc0hER280QUh5aGNVUUF1SWEtdUM4RjI0a2F4MWxDVWJRVVZqZjN1VU5YZjdzck1RX2ZqcU4tdTcyaWVxOUxRTE1pTktvcUNXeVV6a1JkMWdULWxaYnJUc0hqeU94NGQwMUJHN2t5aVVuVVlTZmtxUEpBQUtPOWQxTm9teUFnOThncmNBSklpVlRHbWR3TnBvQlRmQ0VHSG1nYTdJYW1TWWRJVW1pZENQMGZNdmpPbWhzeU5RNzdWenVvMlNU?oc=5	大火火警
 2026-08-18	山火燒毀奧肯納根果園 農民設法做醬汁守住農業命脈	https://www.singtao.ca/7601019/2026-08-18/news-山火燒毀奧肯納根果園+++農民設法做醬汁守住農業命脈/	森林火警
 2026-08-17	雅典以西島嶼森林大火 致2死9傷	https://hk.on.cc/hk/bkn/cnt/intnews/20260817/bkn-20260817020315112-0817_00992_001.html	大火火警
 2026-08-17	阿蘇火山噴火警戒升級 或放棄吊掛台灣遊客遺體作業	https://hk.on.cc/hk/bkn/cnt/news/20260817/bkn-20260817022333968-0817_00822_001.html	大火火警
@@ -332,6 +335,7 @@ var DATA_FIRE = `
 2026-07-13	卑詩滅火機師墜機殉職 兩周4救援人員於科州山火犧牲	https://www.singtao.ca/7565138/2026-07-13/news-卑詩滅火機師墜機殉職+++兩周4救援人員於科州山火犧牲/	森林火警
 2026-07-13	(影)曼谷酒吧大火27死63伤 涉及旅游外籍人士身份辨认困难	https://www.aboluowang.com/2026/0713/2407587.html	大火火警
 2026-07-12	曼谷酒吧深夜大火釀27死63傷：舞台斷路器冒煙引爆悲劇 總理下令徹查	https://www.heatalk.com/20260713/13639/	大火火警
+2026-07-12	巴黎南部森林大火逼近公路 罕見出動滅火機灌救交通大打結 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE40ckNCTm92NU1Bc3RhUU5OTHB1NjBQWm1NNjlUVkdjbDVtbjJtbzJTRlhUdjJrUjFkWEZQSG5aRmFiYWx3V05KdlNRMmRTS2VxcW50and3?oc=5	大火火警
 2026-07-12	巴黎南部森林大火肆虐 交通動脈A6高速公路局部雙向封閉 | 民視新聞網	https://today.line.me/tw/v3/article/8nLQWaK	大火火警
 2026-07-11	福建鞋厂大火 攀岩爱好者徒手爬外墙救出三人	https://www.aboluowang.com/2026/0711/2406852.html	大火火警
 2026-07-11	福建泉州鞋廠重大火災釀28死國務院安委會查處掛牌督辦- 內地	https://www.tkww.hk/a/202607/11/AP6a51a404e4b04773b0721c14.html	大火火警
@@ -990,6 +994,7 @@ var DATA_FIRE = `
 2023-03-03	尖沙咀中間道一地盤發生三級火警 兩人受傷	https://www.hkej.com/instantnews/current/article/3385745/%E5%B0%96%E6%B2%99%E5%92%80%E4%B8%AD%E9%96%93%E9%81%93%E4%B8%80%E5%9C%B0%E7%9B%A4%E7%99%BC%E7%94%9F%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6+%E5%85%A9%E4%BA%BA%E5%8F%97%E5%82%B7	大火火警
 2023-02-16	突發|江蘇蘇州相城區今早火災6死28傷	https://www.mytvsuper.com/tc/scoopplus/top-picks/world/6317912453710/%E7%AA%81%E7%99%BC-%E6%B1%9F%E8%98%87%E8%98%87%E5%B7%9E%E7%9B%B8%E5%9F%8E%E5%8D%80%E4%BB%8A%E6%97%A9%E7%81%AB%E7%81%BD6%E6%AD%BB28%E5%82%B7	未分類
 2023-01-22	牛頭角德朗邨單位疑燒衣紙冒煙 老婦當場不治	https://www.hk01.com/article/859907?utm_source=01articlecopy&utm_medium=referral	未分類
+2023-01-22	港島半山羅便臣道三級火警6人受傷包括一名消防員- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTE80aGhYckVLNy1kQWF3aTdpWGkyb2dIdHZNSTRZZ3oyXzBXV0xocE9qMUlSYjRxb1hXQUE0WmpUN0w1MlpUUkd2YlB2TDlaU2JYNkhGOHFKMnpwMy1wdmRldTdGMFc5bk4yT25zSmpfNm1pcU9RUTdMZUx3?oc=5	大火火警
 2023-01-22	港島半山羅便臣道三級火警 6人受傷包括一名消防員	https://www.wenweipo.com/a/202301/22/AP63cce534e4b053580de2201d.html	大火火警
 2023-01-02	(夜市食攤水果攤起火 消防員撲火暈倒送院)	https://guangming.com.my/%E5%A6%BB%E9%80%81%E5%A2%B3%E5%A2%93%E8%9B%8B%E7%B3%95%E5%8B%B8%E6%88%92%E7%85%99-%E5%A4%AB10%E5%A4%A9%E5%BE%8C%E6%AD%BB%E4%BA%86	未分類
 2022-12-16	八卦山區荔枝園突起火 週邊無水源消防陷苦戰	https://tw.news.yahoo.com/%E5%85%AB%E5%8D%A6%E5%B1%B1%E5%8D%80%E8%8D%94%E6%9E%9D%E5%9C%92%E7%AA%81%E8%B5%B7%E7%81%AB-%E9%80%B1%E9%82%8A%E7%84%A1%E6%B0%B4%E6%BA%90%E6%B6%88%E9%98%B2%E9%99%B7%E8%8B%A6%E6%88%B0-101002711.html	未分類
