@@ -1,5 +1,10 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 3030 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 3037 條
 var DATA_MEDICAL = `
+2026-10-12	真健康醫療-B(02697)：完成 6 例基因編輯豬肝臟體外交叉灌注臨牀前實驗，全球首次驗證長時程有效性作者智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE54a09BVjk2a1VneTFHRkJYNHRMZm5qMmxrc0hwMlFXUFZiX3V2Zm9TV0Z1Y2NvbVc1Vy1kcFZGcXMwdnM5MzdIbjAycVZaNkduSmczYm1wSUhzOFhlSm1jTDN5Y0lZanFKVW5WYWVvMEc?oc=5	未分類
+2026-10-12	新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備	https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5	疫情
+2026-10-12	億勝生物科技(01061)10月12日斥資6.18萬港元回購3萬股 作者 智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE83TUo3Vm40V1B1Q3NHMEc4dFVPal9EWUl0aXVJY1NCTy02ZU1HVE5TTTdHOVMtNmpOa3VUQVFacTNnYjJVeUxyNFJUa2lFXzdvTDZsZ3ZYZzRFLUdhMGUwR2dYajlTdTFMYkJMeWVTbFU?oc=5	未分類
+2026-10-12	【大愛無私德傳千里】琉球黃金國王參與器官移植推廣活動	https://news.google.com/rss/articles/CBMiekFVX3lxTFBYcHZhdldXdE5PdmxIakJFZWViZDNQQUd6RUhEd3dWZ0k3ZlFOUFNocU5ORkN1ZkQwZWNnSVJMTmU3VHVkODJDYWQwd1hKMExKRkRrX2xCdmM2bGZiQl9yNm5YUzV2ejhmWVBaenpIV3ZfajlHOW4yeHBB?oc=5	未分類
+2026-10-12	Vitalik推荐开源疫苗项目PopVax，称其探索更开放的疫苗研发模式	https://news.google.com/rss/articles/CBMiZkFVX3lxTE84TmRkZHRwVmxXcjhodnM0Y2ZZZU10MzhtSWpPcm9lZFZISGY5MzVmVzVwSm1reF9pOVR0MUhhMnJTc0RvczJKSk5uNi1oTmp0Vks5VUdUTkZMRFYyaUlkM1NDbThRdw?oc=5	未分類
 2026-10-11	王鄭浚仁呼籲支持器官移植遺愛人間期待與交響樂團開騷呈現另類歌聲- 東張+	https://news.google.com/rss/articles/CBMijwRBVV95cUxQUHJqRkUtVE1JZnlZQkEydjZtRXd1aGNOZ1VXUUczcEVJTHVJNWNnSGp3NjJNYy1RQnVndjM5TjAyY3psb2tyWm55R0xGWV9IWV9iZ295R1phdVp2Tklmb2lhY3ROOEU1VWE1RlpKdDV0OEhNSGZWWWVzWHlHNXZhNkNGVjh4SFlwNVhQQy1OSmdpTmN0QXRHRXZ4alhQOGd3X0ZsU25nLXl4VllvbXZlRm16MEFFSXdSYzE0WFpCX3JDd25TVWNLSV8ycXo5SWpjRFhEZS1HRFgzTjBzSU14OER3WXRZSTlOc3FmX2VSd1htT3BvdlVhLVo1aWxzOFZDQ3RSYl9VWEJVbHQyVlZiYTNScHdwUUtNREMxU0szQjF6ckVydnZvUVZCVTZVMmFVdUN0X01oZXlpOG9fcUFVaER5TkdxQ1QzMm1WYWJXeHNaRjQzQzZjQ2pKWkdpRU9qWHU3cUFQcmRoUnZwLVJvY3FqeVRTLXY1WHVsN3NMYmJkc2tPdTBlRzdJUzlKeU9RaEdfUEZRQUppMmpQeVc0TlJERHlrcnZPaThMMVlqVk1oZXVUc2FCZmhGMFVSOVJ2RUtlZHBJSFJIWnB3bmQzd05hTU85bDBlMUl0RVFUbzgwLUpuR29yX2taZ25EWjFLdEFPNHExcVg4Ny1oeEdHS1F2VjJmVzNmS3pDRHdBRQ?oc=5	未分類
 2026-10-10	29歲男子感染猴痘 衞防中心稱多管齊下採取防控措施堵截傳播鏈	https://news.rthk.hk/rthk/ch/component/k2/1873410-20261010.htm	未分類
 2026-10-09	鼠疫研究所一員工確診「不明原因」肺炎死亡世衞介入追查俄方稱防疫形勢平穩、居民無風險- 國際	https://m.dotdotnews.com/s/202610/08/AP6ac72c08e4b02724bdb6b9d5.html	疫情
@@ -358,6 +363,7 @@ var DATA_MEDICAL = `
 2026-09-03	鼻腔長腫瘤影響歌聲 徐暐翔崩潰自搧6巴掌	https://reader.turnnewsapp.com/ct/20260903/bbc1b1/q1rfmjaynja5mdnfqjffnq2/share	癌症
 2026-09-03	食物中毒｜7男女逸東酒店The Astor進食自助餐後屙嘔 現情況穩定	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60386609/%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-7%E7%94%B7%E5%A5%B3%E9%80%B8%E6%9D%B1%E9%85%92%E5%BA%97the-astor%E9%80%B2%E9%A3%9F%E8%87%AA%E5%8A%A9%E9%A4%90%E5%BE%8C%E5%B1%99%E5%98%94-%E7%8F%BE%E6%83%85%E6%B3%81%E7%A9%A9%E5%AE%9A	未分類
 2026-09-03	逸東酒店The Astor自助餐食物中毒 兩群組共7男女屙嘔發燒	https://www.wenweipo.com/a/202609/03/AP6a996550e4b0c1e500276843.html	未分類
+2026-09-03	追蹤木頭姐：加碼佈局基因編輯龍頭Intellia，減持 Brera Holdings	https://news.google.com/rss/articles/CBMiggFBVV95cUxNRzM1c2FZcXU2cGR1Wi1faHctejl6aVp3RXlWWkNRLWNYdUF2SlNHLUJZR2VTQnFObjE0N2lkYzk1SVVhNmtJdllIQkVnNF9VUVNQY2VFTDhKeU9zYUlwcDJtcV8zbWNFMlBUbDV1R21IbEtRSjBWU21MWkV4aE9XOTB3?oc=5	未分類
 2026-09-03	追蹤Cathie Wood：大幅增持基因編輯龍頭NTLA，減持電商股SHOP	https://www.moomoo.com/hant/community/feed/tracking-cathie-wood-aggressively-adding-gene-editing-leader-ntla-trimming-117205728428038	未分類
 2026-09-03	荷蘭爆發西尼羅病毒疫情 近期通報9例且已有1人病逝 | 民視新聞網	https://today.line.me/tw/v3/article/YaRR5La	疫情
 2026-09-03	艾伯維的血液癌症療法在臨床試驗中降低了疾病進展和死亡風險	https://www.tradingview.com/news/reuters.com,2026:newsml_L4T44V13I:0/	癌症
@@ -723,6 +729,7 @@ var DATA_MEDICAL = `
 2026-08-07	AI 模型設計出可感染細菌的新病毒 研究引發生物安全擔憂	https://www.techritual.com/2026/08/07/564633/	未分類
 2026-08-07	97萬粉絲料理網紅驚傳病逝！ 團隊發文證實：肥大叔8/5離開了 擁有高達97萬粉絲追蹤的知名料理網紅「肥大叔」（本名何裕輝），以親切接地氣的料理教學風格深受廣大網友喜愛。不料日前粉專無預警發布噩耗，證實肥大叔已於2026年8月5...	https://www.mnews.tw/story/mm-20260807edi003	未分類
 2026-08-07	97萬粉絲料理網紅驚傳病逝！ 團隊發文證實：肥大叔8/5離開了	https://www.mirrormedia.mg/story/20260807edi003	未分類
+2026-08-07	2周內第2宗上海再爆基因編輯試驗孩童亡涉事CEO離職 | 陸港經貿| 兩岸	https://news.google.com/rss/articles/CBMihwFBVV95cUxPLVVWY08yUlo5RmFLeEcxVTYzWG5salZrOGhJRFA2ckdnaHNMRXNoLUVmTUV3RldTNno2SjlGZTJOOGxHU2ZVWEVqRWYxRU1Zem1BQUZUdlh2UXdwSFFvSWRJRW1mVEJfdXlBUG84ck9YYUg1d0RGZy0wSFVvcEdvQ205U2tkb2s?oc=5	未分類
 2026-08-06	黎彼得病逝︱黎彼得「最後身影」明顯消瘦 近年身體欠佳曾透露肺腎功能出問題	https://topick.hket.com/article/4172048/黎彼得病逝︱黎彼得「最後身影」明顯消瘦 近年身體欠佳曾透露肺腎功能出問題	未分類
 2026-08-06	詐騙慈濟買新冠疫苗 前彰化律師公會理事長等17人被訴 | 中廣新聞網	https://today.line.me/tw/v3/article/BE618eG	未分類
 2026-08-06	美國連鎖餐廳受食源性疾病疫情影響	https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T4430XN:0/	疫情
