@@ -1,6 +1,8 @@
-// 宗教 | 由 build_news_js.py 生成 | 共 166 條
+// 宗教 | 由 build_news_js.py 生成 | 共 169 條
 var DATA_RELIGION = `
+2026-10-12	分工不分心 蔡嘉師牧師從尼希米記談同工建造	https://news.google.com/rss/articles/CBMiWkFVX3lxTE11NFZwRk1KX2xvXzdaVHdzZ2RyaFk4UjMyVWtPNnlYWjljakRIM3JMQVZDMG9aNDRKWTVVNHRXTG5DN252dEFFQzZ3M01PQzlkdlpubnhBNmJiZw?oc=5	未分類
 2026-10-11	24歲牧師馬拉松途中猝死！妻目睹最後笑容 淚崩：以為是惡夢	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTdXpKSGJVOWtoTUhpZV9jYnZ4M0M0aW5uYzRXbW1ReUpGODJhZDUxT0xyaFN6djVadHQ1YWxVelAwLUxxTDc5cVpydXlCVjA?oc=5	未分類
+2026-10-07	南韓大型教會疑遭AI網絡攻擊	https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdkFTUVNyN2lUakVMUkg2VlZubXA0WmRydm5kSnJGNFZWZGVVMElFSjU4cFh0R0p4OG9CTjNCZU5hN3ZwQ1ZzMi04TnROMjZMYU5yWkRiVjlfTUhpZEJyU0F1QkpyT0ZLRXRnVWI3VGNNZElxNjk0eEt5OEJRR0EwdWNwNFQwQW1hdHZnNkhTUGh4UTVPUXRlbkk2WldwbkgtS3Q5Q2xLTVFtaHRvTnRENnRMc0NmMGUwM1Via2JHcmhuOU5TV3p0dFluZlVmWVpGZHFjdTZUZksydGl2S2ZJQjFvTHk4QndYTkJUMHR6UEc?oc=5	未分類
 2026-09-30	宗教詐騙披靈性外衣 資深媒體人揭警訊辨識邪教pua	https://www.mirrormedia.mg/story/20260930-171soc-105447	未分類
 2026-09-30	一名錫安教會被捕牧師妻子的流亡、煎熬與信仰- 紐約時報中文網	https://cn.nytimes.com/china/20260929/china-zion-church-pastor-detained-family/zh-hant/	未分類
 2026-09-25	（有片）XX月餅是「邪教」？XX絕不接受？XX傳統不可破！2026港人最愛的月餅口味是？｜點妹大調查·中秋特輯	https://www.dotdotnews.com/a/202609/25/AP6ab62e07e4b02724bdb591fe.html	未分類
@@ -134,6 +136,7 @@ var DATA_RELIGION = `
 2025-12-26	追憶2025逝世名人 大S、方大同、珍古德、教宗方濟各...致敬曾照亮人間的你們	https://tw.news.yahoo.com/%E8%BF%BD%E6%86%B62025%E9%80%9D%E4%B8%96%E5%90%8D%E4%BA%BA-%E5%A4%A7s%E3%80%81%E6%96%B9%E5%A4%A7%E5%90%8C%E3%80%81%E7%8F%8D%E5%8F%A4%E5%BE%B7%E3%80%81%E6%95%99%E5%AE%97%E6%96%B9%E6%BF%9F%E5%90%84%E8%87%B4%E6%95%AC%E6%9B%BE%E7%85%A7%E4%BA%AE%E4%BA%BA%E9%96%93%E7%9A%84%E4%BD%A0%E5%80%91-010049696.html	未分類
 2025-12-03	新聞女王2｜張松枝演技爆發撞樣孔劉 邪教騙局改編自真實事件？	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60300050/%E6%96%B0%E8%81%9E%E5%A5%B3%E7%8E%8B2-%E5%BC%B5%E6%9D%BE%E6%9E%9D%E6%BC%94%E6%8A%80%E7%88%86%E7%99%BC%E6%92%9E%E6%A8%A3%E5%AD%94%E5%8A%89-%E9%82%AA%E6%95%99%E9%A8%99%E5%B1%80%E6%94%B9%E7%B7%A8%E8%87%AA%E7%9C%9F%E5%AF%A6%E4%BA%8B%E4%BB%B6	未分類
 2025-11-25	山上徹也受審：右翼政客與邪教骯髒交易卻逃過拷問	https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/60297412/%E5%B1%B1%E4%B8%8A%E5%BE%B9%E4%B9%9F%E5%8F%97%E5%AF%A9-%E5%8F%B3%E7%BF%BC%E6%94%BF%E5%AE%A2%E8%88%87%E9%82%AA%E6%95%99%E9%AA%AF%E9%AB%92%E4%BA%A4%E6%98%93%E5%8D%BB%E9%80%83%E9%81%8E%E6%8B%B7%E5%95%8F	未分類
+2025-10-12	2025-10-12 - TICBC - 主日崇拜講道高清重播 - 4K - 當如何處身狂傲任性的時代? (CC / 含字幕)	https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhUWRGTE9Ga1NueTBvUkFtWFpPQy1oNFdXaC1TQTZQOHNfcXl6alVJbTlnX1RvX0poRURsZWh6THdQZ3dOTnJZUg?oc=5	未分類
 2025-09-05	🕊️ 宗教自由 器官移植	https://www.washingtontimes.com/news/2025/sep/4/xi-jinping-putin-caught-discussing-organ-transplants-immortality-hot/	未分類
 2025-08-28	23歲槍手闖天主教小學掃射釀2死 曾發影片透露情緒不穩、槍枝寫滿要犯名字 ｜ 太報 ｜ LINE TODAY	https://today.line.me/tw/v3/article/wJMZNJG	未分類
 2025-08-22	AI耶穌上線「互動1關鍵」讓學者驚呼！傳非教會人士所創	https://today.line.me/tw/v3/article/JPOZkjX	未分類
