@@ -1,5 +1,6 @@
-// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2148 條
+// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2152 條
 var DATA_HEATSTROKE = `
+2026-10-12	台中公益路21歲女從天橋墜落 全身擦挫傷一度意識昏迷	https://news.ltn.com.tw/news/society/breakingnews/5604037	未分類
 2026-10-11	男子烏蛟騰行山期間暈倒 直升機送東區醫院救治	https://news.rthk.hk/rthk/ch/component/k2/1873501-20261011.htm	未分類
 2026-10-09	陸虎臨場改詞 救暈倒歌迷	https://www.singtaousa.com/2026/10/08/entertainment/lu-hu-rescues-fan/	未分類
 2026-10-09	關淑怡最新近況曝光 曾昏迷2周奇蹟甦醒：身體慢慢康復中意志力頑強	https://www.tvb.com/artiste-news-c/關淑怡最新近況曝光-曾昏迷2周奇蹟甦醒-身體慢慢康復中意志力頑強-1016495	未分類
@@ -985,6 +986,7 @@ var DATA_HEATSTROKE = `
 2026-04-05	9人險滅頂地點又出事！墾丁紅柴坑女觀龜滑倒 一度昏迷送醫	https://tw.news.yahoo.com/9人險滅頂地點又出事-墾丁紅柴坑女觀龜滑倒-度昏迷送醫-093657081.html	未分類
 2026-04-04	通州街公園球場男子暈倒 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260404/bkn-20260404091918802-0404_00822_001.html	未分類
 2026-04-04	深水埗通州街公園籃球場對開 男子昏迷送院	https://www.hk01.com/突發/60337219/深水埗通州街公園籃球場對開-男子昏迷送院	未分類
+2026-04-04	快訊》氣象署示警：1縣市高溫特報，當心熱衰竭！	https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SaDBfN0E2WDhpeHVJRWFKaUdhZGFsOUxnTTVlYzBnWG9va0N2aVVhbG9FMENzU0VQNU1vV0FoQlhQNElmU1JiazZGa09Ta00tTUtRZzlJNmFFRlU?oc=5	熱衰竭
 2026-04-04	中環過路男捱的士撞 一度昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20260404/bkn-20260404115408922-0404_00822_001.html	未分類
 2026-04-04	中環老翁捱的士撞 昏迷送院搶救	https://www.stheadline.com/breaking-news/3559270/中環老翁捱的士撞-昏迷送院搶救	未分類
 2026-04-04	中環皇后大道中男途人捱的士撞 一度昏迷 送院治理	https://www.hk01.com/突發/60337243/中環皇后大道中男途人捱的士撞-一度昏迷-送院治理	未分類
@@ -1103,6 +1105,7 @@ var DATA_HEATSTROKE = `
 2026-03-12	港鐵車廂老伯突暈倒在地！乘客圍觀被轟冷血 正反兩派掀論戰	https://news.tvbs.com.tw/china/3148128?from=entertainment_content_pack	未分類
 2026-03-12	救人英雄出事了！基隆女消防員「隊部倒地」昏迷命危	https://news.pchome.com.tw/society/ctinews/20260312/index-77328072472990309002.html	未分類
 2026-03-12	基隆23歲女消防「車庫失去心跳」送醫救回 昏迷指數3	https://news.ebc.net.tw/news/society/541580	未分類
+2026-03-11	車Cam直擊｜大埔數人手推車運不省人事男子 惹「運屍」疑雲 - 東張+	https://news.google.com/rss/articles/CBMiuwNBVV95cUxQanp4Uk80MFpNd2tQZDJEaGtFVWNDQW90NEZGVzROUzdhSGdKR2NvZ1FHSDJwVzhXb2JQMHNQWnZfb0dLX0NlNExDVC1wdXpCWU5GSXh6RkdKdmJtZngxMXFodjc0VHB6Vm9fTUl0VHdvM3hQSkd1ZzB1THZEVzhxdTYtckYtRUVZVkp2NFVSdnpqV2tJRXFSY3RlVjR2WWZvbzJjZkNKVTdJanRYQ19HVnd6R3BmNzM1RWIzTVJkTTJhbkdBZkJRRGFwSkRhME5GNUlkOHNVQ25WZFBaYXNJSDV3Y1NtVkRaMlVya2l3M25UUVExT2hCWC1SOXhQUjQwQ3p4WXRKMS04a19tNTVLdllBQ0ktOGVvMUVqd00zS3FEZG5mS0VsOVNXVFc5LXRkcWRteFFBZjNMVWEtZVB3X0c3cU1jN0x4N0htVnNNczh3eS1JaUhzUFBXYVQ5R0kxU3BFc0phVU1JcEZ4TGxOTlp3aXhuZmp2ajRUWXJabE1YX19vQ3dLN1ktbkg3YkpJSEpaeGlhX3dXaXdfLUw1Y0tOMXhUNnpkR3NvX0YzSk52VjA3SEVJVVNSbw?oc=5	未分類
 2026-03-11	有片｜東鐵阿伯突暈倒地上！乘客圍觀咁做極冷漠惹爭議：冷血之都	https://www.hk01.com/熱爆話題/60328716/有片-東鐵阿伯突暈倒地上-乘客圍觀咁做極冷漠惹爭議-冷血之都	未分類
 2026-03-11	有片｜東鐵阿伯暈倒地上！乘客圍觀無人扶：冷血之都 惹網民爭議	https://www.hk01.com/熱爆話題/60328716/有片-東鐵阿伯暈倒地上-乘客圍觀無人扶-冷血之都-惹網民爭議	未分類
 2026-03-11	有片｜東鐵阿伯暈倒地上！乘客圍觀無人扶：冷血之都 後續超展開	https://www.hk01.com/熱爆話題/60328716/有片-東鐵阿伯暈倒地上-乘客圍觀無人扶-冷血之都-後續超展開	未分類
@@ -1750,6 +1753,7 @@ var DATA_HEATSTROKE = `
 2025-05-18	大嶼山跑步賽外籍男暈倒 直升機救起昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20250518/bkn-20250518094437006-0518_00822_001.html	未分類
 2025-05-17	流浮山男子疑行山中暑暈倒 直升機送院治理	https://hk.on.cc/hk/bkn/cnt/news/20250517/bkn-20250517155915357-0517_00822_001.html	熱衰竭
 2025-05-11	灣仔賓館外籍男租客暈倒 昏迷送院治理	https://hk.on.cc/hk/bkn/cnt/news/20250511/bkn-20250511144909526-0511_00822_001.html	未分類
+2025-05-01	醫起看／她「3hr灌8杯水」倒地昏迷 醫曝嚴重後果	https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Dd0ZkZ0l4dU1lY3VRQVkzWDJYOEpFWl9VdzR1U1JjSTY1T2h5OUdGMmdfeGhwdVhyYmhHbkdFU0hoc0pEcW16YlgyU3U3U29KMzVGMQ?oc=5	未分類
 2025-04-29	深水埗投注站中年漢暈倒 昏迷送院救治	https://hk.on.cc/hk/bkn/cnt/news/20250429/bkn-20250429131803572-0429_00822_001.html	未分類
 2025-04-29	沙田禾輋邨婦人暈倒 半清醒送院救治	https://hk.on.cc/hk/bkn/cnt/news/20250429/bkn-20250429142606922-0429_00822_001.html	未分類
 2025-04-25	鳳德邨中年男暈倒寓所 妻子揭發惜已天人永隔	https://hk.on.cc/hk/bkn/cnt/news/20250425/bkn-20250425102436295-0425_00822_001.html	未分類
