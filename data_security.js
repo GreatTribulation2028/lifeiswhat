@@ -1,12 +1,30 @@
-// 治安 | 由 build_news_js.py 生成 | 共 2094 條
+// 治安 | 由 build_news_js.py 生成 | 共 2114 條
 var DATA_SECURITY = `
+2026-10-13	美知名遊樂園爆意外！ 男搭雲霄飛車「半空墜地」慘死	https://www.ettoday.net/news/20261013/3253530.htm	未分類
+2026-10-13	女遭尾隨奪命 凶嫌縱火滅跡	https://news.ltn.com.tw/news/society/paper/1774324	未分類
+2026-10-13	八德命案恐怖喪屍男承認殺人縱火 動機成謎	https://www.ettoday.net/news/20261013/3253497.htm	謀殺
 2026-10-12	高雄61歲男毒駕又無照 違規被重罰13萬元	https://news.ltn.com.tw/news/society/breakingnews/5603171	未分類
 2026-10-12	香港網美賣寫真遭台灣人詐騙！怒曝「已三度遭坑騙」 跨海求助友人報警	https://star.ettoday.net/news/3252903	未分類
+2026-10-12	海關機場檢獲近10公斤懷疑大麻花市值近2百萬 拘捕兩人	https://news.rthk.hk/rthk/ch/component/k2/1873648-20261012.htm	未分類
+2026-10-12	波蘭再發生校園持刀襲擊3傷	https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHM2aW9PVlZVMlZFSUdVTTJYRmJoNkZ0Wi02VXJjM29tZUhJNGNlTUNndEs3Q3pWdGFRSHp3cjEyY0Q4dExydkdzdlQyWlVHeXNuQnFuak1iamFJT01SMVh1dkxyVmxqVWxIaG80YjFibkkwdVNEcHZIVGtkWnktQUExR24yMFkxamhkaHZ6Z0R4V0RqUnFrOURxd04ySEpTNUl1c1hR?oc=5	未分類
 2026-10-12	沙特利雅得機場遇襲釀1死11傷	https://news.rthk.hk/rthk/ch/component/k2/1873546-20261012.htm	未分類
+2026-10-12	民眾凌晨超商撿到大麻！ 花蓮警鎖定遺落毒品男	https://news.ltn.com.tw/news/society/breakingnews/5603880	未分類
+2026-10-12	毒蟲尾隨25歲女進租屋處 疑討錢不成殺人縱火燒屋滅證	https://news.ltn.com.tw/news/society/breakingnews/5603776	謀殺
+2026-10-12	槍殺翁奇楠判30年！昔少年槍手廖國豪想參加統測遭否准 提行政訴訟踢鐵板	https://news.ltn.com.tw/news/society/breakingnews/5604090	未分類
+2026-10-12	桃園隨機殺人！25歲女「生前最後身影曝光」 恐怖喪屍尾隨闖租屋割頸還縱火	https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TWndfUVJkcWgxdXhUXzVTbzd2eXRkWFNnLUZJVFo0ZldUMWREODNjRUxzU0UtZ0RjV0pCaE1uRk1PdFdqbjAxWFBqa1IyWGszMzlUWFNybGRKRVXSAWBBVV95cUxObzRqdW04WWdtdmR6RmZPUjFrRW5iQ2lYbjNZWFZQVmVvaE82UHRPTk9BUW9URXNNc0ZEcXI3ZjhxR3dfM25PZWxwTk01SjNqeFBBZUtVUWNpYi1ZQ1NGb2I?oc=5	謀殺
+2026-10-12	桃園男疑吸「喪屍煙彈」隨機殺人！ 尾隨25歲女割頸奪命還縱火滅證- 社會	https://news.google.com/rss/articles/CBMicEFVX3lxTE9fTnJVMEJ4dWFKQWxmNk9yQVRxS0xxMDVkRHdwMVBqTnN5dDVoYjVFT3F2dTdxamVBLS1iTnZndXdpZFZqRC1TSWp4Z3BJTThHeHlsSXdkalFQUzFjMU02Nk5lckdOcDlBZVRNeVlqYno?oc=5	謀殺
+2026-10-12	日本逮捕涉嫌勒索軟體組織Qilin核心成員，已引渡至德國	https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CblBIdU9YZS1ucVFXZWd1SnB3NndtczBGejJtZlUyaWIzTGo0VTVYejAtanlXT3prTDFTUEZOb3Yya3BqeUpwaWltMk1YQQ?oc=5	未分類
 2026-10-12	攻堅毒品分裝場⋯警跨區追到土城摩鐵 逮毒鴛鴦	https://news.ltn.com.tw/news/society/paper/1774179	未分類
 2026-10-12	擔任詐騙車手辯稱應徵業務員 賺2000元報酬換來2年3個月徒刑	https://news.ltn.com.tw/news/society/breakingnews/5603185	未分類
+2026-10-12	恐怖隨機殺人！男疑吸「喪屍菸彈」尾隨25歲女租屋處割頸 再四處縱火逃逸遭逮	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hNFVMZ21qaDhaR0hSWF9aU0pnLXpnbVhrNHJ5NGhlSHVMTWd2c05tUEk1b3dvOXNGLWpxSDdXUE5aTUVfZ1JuWkVCTURmbHpPZzU5cTZiYXB3TnhnOExyLQ?oc=5	謀殺
+2026-10-12	恐怖喪屍隨機殺人！男尾隨25歲女「割頸」再縱火逃逸遭逮 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MeGN0a2RLVl9RWXoteHQ2d24tZzF3ZDFwaDRxMnZYUDZ0ZkxRcUlhMl9uZTRqc3g2cEdWYlVFRWE4YlZrYVNHNDFacm9Pd3lKNUlwelVR?oc=5	謀殺
+2026-10-12	恐怖喪屍上街隨機殺人！尾隨25歲女割頸奪命...還3處縱火滅證	https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIVnVIM041YU1Kc2xPZDFZY2NNM1VFMmVHSUZQcG81T1NnWGdwR0wxb013X0N4bXBlUEFMSlg2cmp5ZUlIOTc2OUl5NkIwY1ZtRmVxMUg1NVpFRWgxTlHSAUtBVV95cUxNWGxsX2hmODJoYWQyWVlaVmsycHJXZ050UW1GOUhvYjhpQmIxQXp1SlNaSnNVLTNYSW93UEVxNHRrMU9ydnd0MmlHNnc?oc=5	謀殺
+2026-10-12	廉署起訴6人包括數碼港時任創業家總監 涉造假詐騙政府資助	https://news.rthk.hk/rthk/ch/component/k2/1873653-20261012.htm	未分類
 2026-10-12	夫返家驚見妻倒臥廚房！新莊婦身中多刀慘死 同住外甥突失聯	https://www.ettoday.net/news/20261012/3252891.htm	未分類
+2026-10-12	台東首起選舉暴力！入伍歡送會不滿死纏拉票 男子毆打鄉代參選人	https://news.ltn.com.tw/news/society/breakingnews/5603650	未分類
+2026-10-12	台中潭子驚傳可疑命案！63歲婦人倒臥家中死亡 兒卻在房內呼呼大睡	https://news.ltn.com.tw/news/society/breakingnews/5603925	未分類
 2026-10-12	利雅得機場連續兩日遇襲 胡塞武裝稱事軍行動持續至沙特停止打擊	https://news.rthk.hk/rthk/ch/component/k2/1873526-20261012.htm	未分類
+2026-10-12	八德出租套房命案！​尾隨殺害25歲女縱火滅證 36歲男涉強盜殺人收押	https://news.ltn.com.tw/news/society/breakingnews/5603599	謀殺
 2026-10-11	高雄知名水產二代遭「買凶殺人」割喉 新北逮捕第3嫌聲押禁見	https://news.ltn.com.tw/news/society/breakingnews/5602910	謀殺
 2026-10-11	觀光客慘死日本 國籍曝光	https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaENwbV9SZi01LXNKWVhDRDVoc3NlTUkwTHFIN2VaZmdjajh5djREaG16OGFIVHp3bDlHSVFTRGpJdjlSYkZ3OHVkVzMwaGlzRDJB?oc=5	未分類
 2026-10-11	當街持水果刀抵住頸部刺傷妻 62歲男殺人未遂收押	https://news.ltn.com.tw/news/society/breakingnews/5602999	謀殺
@@ -156,6 +174,7 @@ var DATA_SECURITY = `
 2026-09-25	士嘉堡醫院外雙屍槍擊案 72歲女死者身份曝光	https://www.singtao.ca/7638019/2026-09-25/news-%E5%A3%AB%E5%98%89%E5%A0%A1%E9%86%AB%E9%99%A2%E5%A4%96%E9%9B%99%E5%B1%8D%E6%A7%8D%E6%93%8A%E6%A1%88%E3%80%8072%E6%AD%B2%E5%A5%B3%E6%AD%BB%E8%80%85%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89/	未分類
 2026-09-25	報道指ChatGPT教校園槍擊兇手如何行事 卑詩律政廳長震驚	https://www.singtao.ca/7637989/2026-09-25/news-%E5%A0%B1%E9%81%93%E6%8C%87ChatGPT%E6%95%99%E6%A0%A1%E5%9C%92%E6%A7%8D%E6%93%8A%E5%85%87%E6%89%8B%E5%A6%82%E4%BD%95%E8%A1%8C%E4%BA%8B++%E5%8D%91%E8%A9%A9%E5%BE%8B%E6%94%BF%E5%BB%B3%E9%95%B7%E9%9C%87%E9%A9%9A-st-topic/	未分類
 2026-09-25	國3服務區離奇命案！老婦已成腐屍 疑搭帳棚夜宿受困亡	https://tw.news.yahoo.com/%E5%9C%8B3%E6%9C%8D%E5%8B%99%E5%8D%80%E9%9B%A2%E5%A5%87%E5%91%BD%E6%A1%88-%E8%80%81%E5%A9%A6%E5%B7%B2%E6%88%90%E8%85%90%E5%B1%8D-%E7%96%91%E6%90%AD%E5%B8%B3%E6%A3%9A%E5%A4%9C%E5%AE%BF%E5%8F%97%E5%9B%B0%E4%BA%A1-123600789.html	未分類
+2026-09-25	台北霞海城隍廟傳暴力衝突香客不滿工作人員態度...徒手暴打遭逮| 時事	https://news.google.com/rss/articles/CBMiSkFVX3lxTE9zZ21FNVhhckMtU3Y3QjgzUEFTNklyMElWbUhfenRvazE0MDduNm9YeWFURXZDYVV2Z0sxa2VLYmI0YWU0elhIa3Z3?oc=5	未分類
 2026-09-25	台北霞海城隍廟傳暴力衝突 香客不滿工作人員態度…徒手暴打遭逮	https://udn.com/news/story/7320/9777600	未分類
 2026-09-25	冰毒價格下跌 澳洲吸食過量死亡人數創新高	https://www.epochtimes.com/b5/26/9/25/n14856968.htm	未分類
 2026-09-25	2神顏「近距離」合照網暴動！Momo米蘭捕獲大咖男神 他驚喜撂台語：哇愛哩	https://www.mirrordaily.news/story/87820	未分類
@@ -495,6 +514,7 @@ var DATA_SECURITY = `
 2026-08-16	浸大疑被勒索軟件組織入侵 校方稱有關網頁內容已移除 無接獲任何索求	https://www.stheadline.com/society/3604980/%E6%B5%B8%E5%A4%A7%E7%96%91%E8%A2%AB%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E7%B5%84%E7%B9%94%E5%85%A5%E4%BE%B5-%E6%A0%A1%E6%96%B9%E7%A8%B1%E6%9C%89%E9%97%9C%E7%B6%B2%E9%A0%81%E5%85%A7%E5%AE%B9%E5%B7%B2%E7%A7%BB%E9%99%A4-%E7%84%A1%E6%8E%A5%E7%8D%B2%E4%BB%BB%E4%BD%95%E7%B4%A2%E6%B1%82	未分類
 2026-08-15	美國密歇根州爆槍擊案 至少5死1重傷 疑犯一度逃逸後陳屍森林	https://www.hk01.com/即時國際/60380220/美國密歇根州爆槍擊案-至少5死1重傷-疑犯一度逃逸後陳屍森林	未分類
 2026-08-15	美國密歇根州槍擊事件釀6死疑犯一度逃逸後陳屍林區- 國際	https://www.dotdotnews.com/a/202608/15/AP6a7fd56fe4b04b6c5d36ba1a.html	未分類
+2026-08-15	台北鬧市隨機殺人驚悚 孤狼暴力加速撕裂社會 （童清峰）	https://news.google.com/rss/articles/CBMioANBVV95cUxNT2lHeGQzQ1U1QTFIRGJpZzJLcDBnUXFpQ2hoZW15YzVIbThPWkJOb0VrSFlweUxvNjctR3JSS0R1SHQyWnFGOGxnYklCd1cweUhnRFdnVWhydG1mMVlRZDJkaV9KVjdWWi1ybHBvams4MzRCNmV0NHRoM05OelJtcmgzNWRRYlhPT2NYcU1wVDlpdnNjZXlhLTFiYjJTa1NWbDItem9LXzYtdEtxU1EwQVZFVVo3TUFYMWttcHdmd3ZvOFc2UWZZMF9VNVF3R1dRUlBpSzJ2eGJvcVFBWm9EQlBZWExsUGhXenIyUTFpeF9FblFmZUtKZWxHRUpTNGVBQUhySTRFS1hNSTZoRDFuZXJCdkNSTDBEdGVsOEpTQnpPWEUwbkIwT2dXcTFtNE1OdmVVZFd6X2pNc01kZjZydGdodjZJNFBzQUZRazM0OEJaWlp5NmdaUU5xZlR1eXFyRFVmWldoWHBzQmtqRlQ4azBSNVJCMFBHNzNYSk5SQTZ0WV81Y09YTUI5U09HQ0VuUkpWWjduT09mRnhVUXlCRQ?oc=5	謀殺
 2026-08-14	美國企業將獲准對網路犯罪分子發動網路攻擊	https://www.dw.com/zh-hant/美國企業將獲准對網路犯罪分子發動網路攻擊/a-78368664	未分類
 2026-08-14	快訊／中山警分局「36歲警頭部中彈」！ 倒樓梯間當場死亡	https://www.ettoday.net/news/20260814/3218968.htm	未分類
 2026-08-14	中方批評新西蘭捏造指控 將正常交流污稱為間諜及干預活動	https://www.kinliu.hk/news/熱話/中方批評新西蘭捏造指控-將正常交流污稱為間諜及干預活動/223601.html?id=82&from=home&bc1=首頁&bc1to=/	未分類
