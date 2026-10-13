@@ -1,5 +1,8 @@
-// 猝死 | 由 build_news_js.py 生成 | 共 3986 條
+// 猝死 | 由 build_news_js.py 生成 | 共 3989 條
 var DATA_SUDDEN = `
+2026-10-13	榮民父離世留債401萬 5繼承人領不了錢結局曝光	https://www.ettoday.net/news/20261013/3253528.htm	未分類
+2026-10-12	毒犯遭監獄管理員「壓制」曝光 家屬痛訴：連打40拳撞牆隔天猝死	https://news.ltn.com.tw/news/society/breakingnews/5603918	未分類
+2026-10-12	41J肉聲／少女「死而復生」！家人以為心臟驟停斷氣 進棺材8小時甦醒	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EQVVnQUNCN3NOZnJUbk5qeTRLZ1JIREdwcDRDOGd2VWp1akd4RUJXRmZRVTFlMW1CMXJqUExjWVVkNDVwTHo0eUdXMHI1eFRINFE?oc=5	心臟病發
 2026-10-11	韓國籍77歲遊客沖繩浮潛突心臟驟停 送醫後不治	https://news.google.com/rss/articles/CBMixwJBVV95cUxPSEtKS1E2ZEdNUS1BR1d5eF9tSTcxM2JZd1dVN2F0Y2RiVmJOVjBUcDcwMHNVYzhRMUNveG9oZUM2bTcxS0lsUFdmaFM1SjV1SldXUHVfZjhDYzBCV0N3UDJtMmk5dkJEZUVyUUo3d29XY3ZvaTV6UE5FNDEtUEdqay13WGViaEFSby1RdkhZNGdiaEVOR2p5YW5TVWpfdWlYaXNNWTBINmJaTzlQNFV6dzY0X3Vad0hkSkxPRVExUEpvRm9VRTRBMmdIRmFFLTc1LUxEODE3VXEzcE53Ym1mQzVsZW5PdkVVOW1mNThrWkVQS0xSZEMwdFBDajB0RjUwRkxsa3diemttWm9td2JJYVVHejNqSVd4OHprbWszZmw1TU1uZTVSOWlFYzdUUGJrcFFUaDgyMk96NGJtWWhaYUNoS2NhaEE?oc=5	心臟病發
 2026-10-11	討論牆 | 狂打電動2天1夜心臟驟停！21歲男「不睡覺」猝死 父母崩潰哭癱	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jMWJuMHdzdS1OUy01bXRTZ05xYXpDTjhwTTdWZkdQWm1NX0pia18yN3JsenhCMlVZcWxpSlYzZE9PajljdEdZNFBjcFRNcFViQnJuM2lxSV9iM2J3Nko3TzBRb0o?oc=5	心臟病發
 2026-10-11	狂打電動2天1夜心臟驟停！21歲男「不睡覺」猝死 父母崩潰哭癱	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ETVZfX3hZQ0ZScnFqbGJoUHZXSXhQdlZuOVRfeUVJQ0RyendORGJKOE50dktNMjVYMGs2Z1VnY0Q3ckJqai1vVEt3Q0xjZEU?oc=5	心臟病發
