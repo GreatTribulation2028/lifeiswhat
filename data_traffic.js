@@ -1,7 +1,15 @@
-// 交通 | 由 build_news_js.py 生成 | 共 2052 條
+// 交通 | 由 build_news_js.py 生成 | 共 2065 條
 var DATA_TRAFFIC = `
+2026-10-13	彰化婦遭垃圾車輾斃 林世賢急推「科技防捲入」救命	https://news.ltn.com.tw/news/society/breakingnews/5604282	未分類
+2026-10-12	離奇車禍 宜蘭三星駕駛3天內兩度在同地點衝進農田送醫	https://news.ltn.com.tw/news/society/breakingnews/5603929	車禍
 2026-10-12	跨境旅遊巴公司稱將推出不同皇崗口岸套票 相信有競爭力	https://news.rthk.hk/rthk/ch/component/k2/1873551-20261012.htm	未分類
 2026-10-12	臺11線鹽寮段遊覽車與小客車交通事故 吉安警迅速到場處置疏導交通排除事故	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aRFM4OVBickFlbUliYzZHU2JWNWdkOXUxWEhqdjZNRXlIMmhtTmJQelpyckFaWGNfWC0xVFpsRTZqcUllM21mU2s5LWtySk1lakJGWlJuTjI?oc=5	未分類
+2026-10-12	宜蘭礁溪休旅車與轎車相撞 3人受傷送醫	https://news.ltn.com.tw/news/society/breakingnews/5603789	未分類
+2026-10-12	國道車禍! 苗栗頭屋五車連環撞 彰化花壇轎車"被撞翻"	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMnVDd05ERGdjMkRFX25ncmdVak85THlpbHhQajR6WnRMaFo2UkhscTRPY20yLWpqVGpfRmpXTFloWkNEVHNEenVDM2NINHRGOW0tNW9xeVVOc0paT2lkTw?oc=5	車禍
+2026-10-12	公館圓環拆除案沈伯洋：一個交通事故熱點變成兩個| 地方	https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KdzN2YnJrRzJxWTAxeWRlVFV2Y0VpWWlYTk5LV3MzemdXdGRCNEpmUXNjMTlrYzVpSmpGQ0tYeTcyRHI4MDVVcnh3ajRGc042S1VDVFR5QmpUMWtHODdV?oc=5	未分類
+2026-10-12	公館圓環拆掉竟多出一個事故熱點？沈伯洋批車流被迫轉往辛亥路：一個交通事故熱點變成兩個！	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yUmlnY2pxTlM3M3dCMEQ5Q3UtUms4QlJ3b2Q1QmNLdUY1aEdXVHJ5Y3dzb0xnRE5uNzVZS3ljV3VNdHVFOVFVakFSYUstdEpFd2c?oc=5	未分類
+2026-10-12	三民區明誠一路近大裕路口交通事故	https://news.google.com/rss/articles/CBMiVEFVX3lxTE40QkY5dWZPUnJGZG9WTEdlaVFFRHJLdWs5Y1BoZUNfQjRUMUJpeVpYa1BTTXFwMnExZ0VmRS1fREg5Tmc2ckIyalJuVUtzWUdrV0EyTA?oc=5	未分類
+2026-10-12	「一心一路與凱旋四路口」輕軌交通事故案	https://news.google.com/rss/articles/CBMiRkFVX3lxTE51ZV9Ud05WR2RyandRQWJycFdoaHF5bU1IQVhpazJDZElTR3JvT19vY0NmX1g5RGVCUmZTbFVUaG5QRmh6aHc?oc=5	未分類
 2026-10-11	賠慘！桃園砂石車恍神扯斷號誌桿 衝中古車行撞爛6車財損300萬	https://news.ltn.com.tw/news/society/breakingnews/5602845	未分類
 2026-10-11	彰化醉男深夜開車連環撞！ 轎車四輪朝天翻覆住戶驚醒嚇傻 | CTWANT	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrOEE4Y1dPRHVjMHpRdllsV3NvWVM1UEh0ekZSVW9KOHhzNzAtSW96QkxJMl80MlV4M3N1VFBRbFBCSzNGbEZkdXhlTFJFbzhITTE3QUtR?oc=5	未分類
 2026-10-11	交通執法見成效 新店分局9月交通事故大幅下降	https://news.google.com/rss/articles/CBMixgJBVV95cUxQT3k4ZGNodjdpM3gteW9yOUpYM3Q2UTdnZ0VLQ0JERmRfMkxpb2hxd295Qmp5Z09xYVNsUG41cmxnYjlIYThnMW5UTnlYa1l4TUhDeHp0TlJUWGlPZUwyUnlRVWdxU3JXaDYwdmE4ZVVWVVdSZEtsOWJnQTd3WmhCMmpvc21abDFDQjJpX01nbFpXdE0wTDNMSHpYSlhkUHVUUHlSN29DeHN2UU91YVlqYTYtT1Z2NDJOREI0TTNEMVdjVEZzYjZTcW1DMjZfYnJwME5pOWljRklzWDN0ZUdMeldFbFZCRnlmTGt5QjNjQk5qcm9veENkalI5NWlla1Brbnc4UVZZZ2FxWUpHS0pXbHEyTzg3VU5jOGVvN2d2WXpfREtUajNyLVRkZWIwZTVBRmN6Z1VBLU1EUlZHYlJ1TVR5Zmcxdw?oc=5	未分類
@@ -16,6 +24,7 @@ var DATA_TRAFFIC = `
 2026-10-08	荃錦公路貨車疑撞電單車不顧而去 鐵騎士送院亡	https://www.stheadline.com/breaking-news/3623687/荃錦公路貨車疑撞電單車不顧而去-鐵騎士送院亡	未分類
 2026-10-08	機車遭特斯拉撞飛一人昏迷一人沒有生命跡象送醫搶救	https://udn.com/news/amp/story/7320/9801988	未分類
 2026-10-08	旺市六旬女護工遭撞斃 伏屍路旁近兩日 警尋肇事司機	https://www.singtao.ca/7648695/2026-10-07/news-旺市六旬女護工遭撞斃 伏屍路旁近兩日 警尋肇事司機/	未分類
+2026-10-08	台中恐怖車禍！5機車連環撞一團 6女受傷送醫	https://news.google.com/rss/articles/CBMipgJBVV95cUxON1BGY1ZJOUQwRTJQT1piUnhKenFkTWRNdzA0amVtaHp1dG03NE1xLWE3TlJBOEZCa09hY1V2dm1UMkh5V1VGT29paC1mWEw3ZkNkWmN1bDhzd3VWaG8zWTJuekJVNHdNcUJZRWRrRm1tUHQzaUNRaDl0bEZqRnJReHdHUVhMNDYyanFVVVBQTXVNbEk4clNMOFo2cFVEZTlITUtGSnR3S2wxVUZoZ0x6clh1YnpwS0pqWkU3LWpSSk5FNGxrZFBhMmlIZm5tamxfUm5SRlJydVdGcXpGZVhYbXZWWXRKZjBTZkpjN2l2c3RwQ0FhREpJUkdOcFlFTFFvcEpNOGgxWXc1TWJCeV8zREVUZlhJNUdzZmVCUHVnUlRGRWZxdHc?oc=5	車禍
 2026-10-07	巴士撞壆翻側致1死10傷 司機危駕罪成囚42個月	https://hk.on.cc/hk/bkn/cnt/news/20221230/bkn-20221230140213547-1230_00822_001.html	未分類
 2026-10-06	皇崗口岸設7條巴士線 其中3條經大欖隧道轉車站	https://hk.on.cc/hk/bkn/cnt/news/20261006/bkn-20261006135135094-1006_00822_001.html	未分類
 2026-10-06	才祝賀「祖國媽媽」生日 劉樂妍出車禍「先發文感謝中國」	https://www.ettoday.net/news/20261006/3249762.htm	車禍
@@ -598,6 +607,7 @@ var DATA_TRAFFIC = `
 2026-07-16	新西蘭港人車禍亡｜當地提小心「黑冰」 駕駛時遇上它可以怎辦？	https://www.hk01.com/社會新聞/60370591/新西蘭港人車禍亡-當地提小心-黑冰-駕駛時遇上它可以怎辦	車禍
 2026-07-16	新西蘭南島發生嚴重交通意外 1港人遇難	https://www.bastillepost.com/hongkong/article/16375219-%E6%96%B0%E8%A5%BF%E8%98%AD%E5%8D%97%E5%B3%B6%E7%99%BC%E7%94%9F%E5%9A%B4%E9%87%8D%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E3%80%801%E6%B8%AF%E4%BA%BA%E9%81%87%E9%9B%A3	車禍
 2026-07-16	新西蘭南島發生嚴重交通事故1港人遇難- 國際	https://www.dotdotnews.com/a/202607/16/AP6a585290e4b04b6c5d3394e1.html	未分類
+2026-07-16	新西蘭南島發生嚴重交通事故 一名港人身亡 (14:02) - 20260716 - 港聞	https://news.google.com/rss/articles/CBMi9AJBVV95cUxOejJXZWZqMkpQb1NaTG1sQzlWY2FTMHpWRDhoenI3dUN5UDNXVzRDVVNyS0VOcmlrTzdKRlc0cFFmLUI0Nk1SOVlZSDh5bTB0OV9nNW8xenJBSHVMX3I2SVBKSUJBTVhiSEFWZGZVZG45czBxZDRFYXgtTnJMWGlORnZfODd6cEE1ME1ydk9iaVhUMlAtcXF4eFJ2WnVZVGNOa3AwQ2xQSXcwWkd5d3VLZHVOTmtZWlpqNzlJRmpLenFwX2ZlYTZhTmtBckFIT3hZcjB0dUJlM2FFMXZNZ1Itb045U2tBRm10MUpwcURwUTRBTlYzLXcxd2JVamhDLXpxRnhTX09mSXRrTFV1Rk80WERNMHNRSlFFUjFMejZKMEs3NzZOSVdkUW54OXp3YWVFQXo3U0p0M1BKakozcVhialZDS1djZWxEekZUaEtlUFZKT0ZaTU5fZ2kySlUzdFAyb01wTFlPZ0EwR09JUUtkMmozNDg?oc=5	未分類
 2026-07-16	新西蘭南島嚴重交通意外 一名港人離世	https://hk.news.yahoo.com/%E6%96%B0%E8%A5%BF%E8%98%AD%E5%8D%97%E5%B3%B6%E5%9A%B4%E9%87%8D%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-%E5%90%8D%E6%B8%AF%E4%BA%BA%E9%9B%A2%E4%B8%96-122500608.html	車禍
 2026-07-16	四川寶興縣發生一起交通事故造成6人死亡11人受傷- 神州	https://www.wenweipo.com/a/202607/16/AP6a582acee4b0b49ad1c3949c.html	未分類
 2026-07-16	四川寶興縣發生一起交通事故 造成6人死亡11人受傷	https://www.wenweipo.com/s/202607/16/AP6a582acee4b0b49ad1c3949c.html	未分類
@@ -1242,6 +1252,7 @@ var DATA_TRAFFIC = `
 2026-03-17	（有片）日本青森縣近海船隻相撞致4人死亡- 國際	https://www.dotdotnews.com/a/202603/17/AP69b8d453e4b0c32d4f6c10d3.html	未分類
 2026-03-17	青森外海貨物船與漁船相撞＝造成4人死亡	https://www.nippon.com/hk/news/yjj2026031700297/	未分類
 2026-03-17	過路男觀塘遭兩小巴連環撞斃 司機涉危駕今開審	https://hk.on.cc/hk/bkn/cnt/news/20260317/bkn-20260317153831093-0317_00822_001.html	未分類
+2026-03-17	講真D｜九龍灣嚴重交通意外的啟示	https://news.google.com/rss/articles/CBMiekFVX3lxTE5XY0dad3FNZzd5eEZDc01PMWpsemFvWUJDdkpKQ0NuTzlQTEg2LV9ISXd0c1JfX3dOLU41Z3FLMWQ5Sm4ybENFb18wREdQY2FMN1hqZnNHUTlsYXVkd1FEY0pyVGV0Sm1fQ2NId3V6MTdPZUdqRGhQUExn?oc=5	車禍
 2026-03-17	涉撞飛非行人過路處的老翁 小巴司機否認危駕致他人死亡罪受審	https://www.stheadline.com/society/3553597/涉撞飛非行人過路處的老翁-小巴司機否認危駕致他人死亡罪受審	未分類
 2026-03-17	日本青森縣附近海域發生兩船相撞意外 4名船員死亡	https://www.bastillepost.com/hongkong/article/15750370-日本青森縣附近海域發生兩船相撞意外-4名船員死亡	未分類
 2026-03-17	日本青森縣附近海域兩船相撞 4名船員死亡	https://news.rthk.hk/rthk/ch/component/k2/1847628-20260317.htm	未分類
@@ -2013,6 +2024,7 @@ var DATA_TRAFFIC = `
 2021-06-23	十次車禍九次快 彰化貨車撞機車釀2死悲劇	https://www.peopo.org/news/473949	車禍
 2021-05-16	大貨車國道翻覆肇事最主要原因曝 事故處理平均得耗時144分	https://www.ettoday.net/news/20210516/1980958.htm	未分類
 2021-03-11	人夫硬拖墜軌雙雙輾斃 小三死前淒厲慘叫「不要」	https://www.setn.com/news/908252	未分類
+2021-01-29	切勿超速！近2年國道匝環道發生70件翻覆事故 釀4死、44傷	https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jblNRWGlfYUFDUkUybVFOTXJtV1pwUGkxZzI4LVR4M0tnaHdwQ3BuNE9vSEJaQ3hVYkhobGY4Zk9tN1VjZVpWM2FucGJsYUIxQTlLVzN0cnZTSWxBV3VSY0FIeE5lcXN60gFuQVVfeXFMT2tpb3dEb3pKWmJsMnR3b1RHaDhNU3p2RnRjck4wVG9Dcm1GQVNYZ0Y2MDM4ZG1rYl94Z1NGOG9xM2hrcGUzUzMwTkREZUdSOERQbzlxN0lQTjBHLTNJNzBZN3ExaVh3SWloRzE2dFE?oc=5	未分類
 2021-01-06	筲箕灣八旬老婦遭城巴撞斃司機涉危駕引致他人死亡被捕| 討論牆	https://www.stheadline.com/article/2085269/%E7%AD%B2%E7%AE%95%E7%81%A3%E5%85%AB%E6%97%AC%E8%80%81%E5%A9%A6%E9%81%AD%E5%9F%8E%E5%B7%B4%E6%92%9E%E6%96%83-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E5%BC%95%E8%87%B4%E4%BB%96%E4%BA%BA%E6%AD%BB%E4%BA%A1%E8%A2%AB%E6%8D%95	未分類
 2020-10-19	普悠瑪翻覆事故調查重啟 運安會揪台鐵50項直接肇因 | 社會 | CTWANT	https://www.ctwant.com/article/79352/	未分類
 2020-10-15	美國大選前一天小行星將撞地球？BBC揭真相：「撞擊機率僅0.41％，威力小到不足弄亂川普頭髮」 | BBC News 中文 | 新聞	https://www.storm.mg/article/3112820	未分類
@@ -2029,6 +2041,7 @@ var DATA_TRAFFIC = `
 2019-01-26	揪心！男友軍訓被輾斃 女星詭異發文後…曝「已成馮太太」	https://www.setn.com/news/491203	未分類
 2019-01-09	心急父載發燒兒就醫 路口遇車禍…昏頭衝對向波及騎士	https://www.setn.com/news/482491	車禍
 2018-12-13	每年135萬人死於車禍！這項交通工具最危險	https://autos.yahoo.com.tw/news/每年135萬人死於車禍-這項交通工具最危險-061614331.html	車禍
+2018-10-24	LIVE／普悠瑪翻覆事故第四天 台鐵最新說明	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZzZCSnRmUXhTT0Y4MVNROVJWNGsxUTlQZWthT2ZnR19sdVJ5ZDFuYXd6U0ZfM0lWVGxmMDFibEhsVzlVTm0zTVlnajl1V3BJWDRuMkthR1NXQXZsbG03VHc3dTE2UQ?oc=5	未分類
 2018-10-23	1年釀8起翻覆事故！逾25年吊車定期效期縮至1年 新制2019上路	https://finance.ettoday.net/news/1288341	未分類
 2018-10-22	普悠瑪列車翻覆：事故原因仍在調查，但司機曾回報「煞車力不足」	https://www.thenewslens.com/article/106519	未分類
 2018-10-22	台鐵過去40年翻覆事故 最嚴重31死	https://www.ntdtv.com.tw/b5/20181022/video/232386.html?%E5%8F%B0%E9%90%B5%E9%81%8E%E5%8E%BB40%E5%B9%B4%E7%BF%BB%E8%A6%86%E4%BA%8B%E6%95%85%20%E6%9C%80%E5%9A%B4%E9%87%8D31%E6%AD%BB	未分類
