@@ -1,5 +1,6 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3564 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3565 條
 var DATA_SUICIDE = `
+2026-10-13	慟！桃園女租客最後落單畫面曝光 割頸男竟曾任救護車技術員	https://news.ltn.com.tw/news/society/breakingnews/5604166	未分類
 2026-10-10	揚言尋短驚動警消破門！女子反咬房東謊報求償72萬 二審仍打臉	https://news.ltn.com.tw/news/society/breakingnews/5601742	未分類
 2026-10-09	逃離戰亂不代表走出創傷 羅興亞難民心理疾病增 兒少輕生未遂占27%	https://udn.com/news/amp/story/7314/9803624	其他方式
 2026-10-09	珍惜生命│女子西貢營地帳篷燒炭尋短 救援人員趕抵惜太遲	https://www.wenweipo.com/a/202610/08/AP6ac7bc4de4b01d54a2866230.html	燒炭一氧化碳
