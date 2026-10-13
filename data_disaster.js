@@ -1,12 +1,24 @@
-// 天災 | 由 build_news_js.py 生成 | 共 3823 條
+// 天災 | 由 build_news_js.py 生成 | 共 3837 條
 var DATA_DISASTER = `
+2026-10-13	英軍基地疑淪恐攻目標 英相：極可能伊朗謀劃	https://www.ettoday.net/news/20261013/3253498.htm	未分類
+2026-10-13	英揆指空軍基地安全事件極有可能由伊朗策劃 伊方要求拿出證據	https://news.rthk.hk/rthk/ch/component/k2/1873672-20261013.htm	未分類
+2026-10-13	英國就伊朗持續展開惡意活動召見伊朗大使 提出嚴正交涉	https://news.rthk.hk/rthk/ch/component/k2/1873670-20261013.htm	未分類
+2026-10-13	朝鮮稱昨日進行戰術彈道導彈試射	https://news.rthk.hk/rthk/ch/component/k2/1873683-20261013.htm	未分類
+2026-10-13	尼日利亞軍方空襲恐怖分子據點 打死40多名疑似恐怖分子	https://news.rthk.hk/rthk/ch/component/k2/1873663-20261013.htm	未分類
+2026-10-13	今晨國際頭條／川普外交大轉彎、中東戰火升溫 對台影響一次看	https://www.ettoday.net/news/20261013/3253532.htm	未分類
 2026-10-12	雷扎伊：美國就伊朗提出重開霍爾木茲海峽條件的回應不夠充分	https://news.rthk.hk/rthk/ch/component/k2/1873529-20261012.htm	未分類
+2026-10-12	重慶山泥傾瀉前及時疏散 村民避過一劫	https://news.google.com/rss/articles/CBMiswJBVV95cUxPa09FY3d6dXp3aUVyT09wM05fYXBkN0xhdEY2SEVFU1VzNngxY1ZqRU9vc2ZfSzdOWkU5SzBSRHctekdLU0JLTl9hcDZ3UnFZazEtY21KdFFQX1B1SEJBcTFkdXFuZnBCSFFMcURGeU5sbVR0elNxOVpqWUdQSVgxWk5rbkhTRzJWU215dTFxRi0zNW5ZNWJHOUE5YlpFZ0NwQl9VRmtUUjRBYlJsSy1LRDBjSG9SQ3NOTnNXTnRLaUlSNms1aEpNV2NSMjZtMXVyVm11WTRCa0Y2LVdVXzk5UEpPZHRVdmlqZVRBWjJrYUFpeFlMaWNHSVhndEQ2aGM3RWxBWDR6d3lVTC13VkpyRTBkWFJEajRzWHUwdGJKZ2pkQ3hYbElTV3dSeDhyY0d5NzJV?oc=5	未分類
+2026-10-12	英相控革命衛隊策劃襲擊費爾福基地 伊朗官員否認	https://news.google.com/rss/articles/CBMiT0FVX3lxTE44b2tRenJnSnBRNUk4WXNYcXBSUnVEdmFMZjdYSm1sMnd6YUpaV2pyb09wT2t6SnQza3IxVHhidmM5MWVQRld0Y2Y3SVRXNzQ?oc=5	未分類
 2026-10-12	胡塞武裝稱「24小時內4度轟炸」沙特 首都機場混亂影片曝	https://www.ettoday.net/news/20261012/3252907.htm	未分類
 2026-10-12	特朗普稱俄烏同意能源停火 澤連斯基指若俄方同意烏方亦會同意	https://news.rthk.hk/rthk/ch/component/k2/1873524-20261012.htm	未分類
+2026-10-12	澤連斯基稱能源停火堅持對等原則 克宮︰相關接觸仍在繼續	https://news.rthk.hk/rthk/ch/component/k2/1873650-20261012.htm	未分類
 2026-10-12	波蘭警方拘留涉嫌策劃襲擊總理圖斯克的男子	https://news.rthk.hk/rthk/ch/component/k2/1873527-20261012.htm	未分類
+2026-10-12	沙特首都機場遇襲 中方稱一貫反對針對平民和民用設施襲擊	https://news.rthk.hk/rthk/ch/component/k2/1873628-20261012.htm	未分類
 2026-10-12	本周可能有新颱風 「後期北轉機率高」有變數	https://www.ettoday.net/news/20261012/3252913.htm	颱風海嘯
 2026-10-12	快訊／5縣市有感！05：30規模3.7地震 最大震度2級	https://www.ettoday.net/news/20261012/3252905.htm	地震
 2026-10-12	川普宣布俄烏同意能源停火 澤倫斯基：俄仍繼續攻擊、烏等待細節	https://www.ettoday.net/news/20261012/3252904.htm	未分類
+2026-10-12	尼泊爾山泥傾瀉引發洪水中方：未掌握中國公民傷亡情況- 兩岸	https://news.google.com/rss/articles/CBMiekFVX3lxTE1PS05lWGNiYklOSFBzNjNuUVlpdjRZbUdCaXVUMFRud0FHcEZMNFJvNG1TUlVQNG82RlRqTzVOZ2FkVmtLRjloelg4NGFXZ2tEZmw5b2pLM3M0TWV5bUR0ZVd6VnVpX2lHSHlYRmkwWmJCUWhOWVdDZVR3?oc=5	未分類
+2026-10-12	尼泊爾山泥傾瀉引發洪水 中方：未掌握中國公民傷亡情況	https://news.google.com/rss/articles/CBMiXkFVX3lxTE02c3BUZFpVbkdHTW1FaGltMDNhN01CM2pYTHR0bTlmU3QwNDM3QzYyenNJNno5YWh0SkNKd1A2dHUtakFyQ0pzR3FHQ09KdGxNaHhnTWlhcU1TU05NTVHSAWNBVV95cUxNb2tGYjRwUDdxcC1ibGpiS3pKSnpwdFF1cmFNTXdIY25RN1FqT1RHdXhNZkh0aEViMmQwMkdxUHo1OVhLQ292QXIwSUpEMEo5M2dGWWNwTmJSZXVucFRURlplcXc?oc=5	未分類
 2026-10-12	大谷翔平罕見戶外打擊！睽違5個月特訓42揮6轟 扛四番備戰火球男	https://sports.ettoday.net/news/3252852	未分類
 2026-10-12	伊朗與沙特外長通話 伊朗稱願促成沙特和也門之間的對話	https://news.rthk.hk/rthk/ch/component/k2/1873532-20261012.htm	未分類
 2026-10-12	伊朗「重開荷莫茲海峽」提7條件 不滿意美國回應	https://www.ettoday.net/news/20261012/3252909.htm	未分類
@@ -203,6 +215,7 @@ var DATA_DISASTER = `
 2026-09-24	衣索比亞內戰升級 泰格瑞叛軍證實與政府軍爆發全面戰爭	https://www.ftvnews.com.tw/news/detail/2026924W0362	未分類
 2026-09-24	衣索比亞內戰再起 總統登聯合國稱展現極大克制	https://www.ftvnews.com.tw/news/detail/2026924W0056	未分類
 2026-09-24	葉門內戰戰火再起釀百人死傷 聯合國人權首長痛批平民淪最大受害者	https://www.ftvnews.com.tw/news/detail/2026924W0688	未分類
+2026-09-24	美債殖利率飆升至金融海嘯前高點！專家示警：恐拖累整體消費與經濟- 財經新聞	https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWVuWWowWS13bDhoYkxmS1JTelViRVctbjg5eHZJY2pkM3JCWXZvY0pKZkFIWlEwemlLaHJEcjQxc2h0akprc2x4WkkxOFVRU2k5TlBWVnVvLUVGR1Y1SUEteTA2UGdEREtrM1lUX0tQV09ZRjB2MGhKVllSX1AtRmg2eDRITG92Rmc?oc=5	地震
 2026-09-24	美債殖利率飆升 勾起投資人對金融海嘯的痛苦回憶	https://news.cnyes.com/news/id/6615460	地震
 2026-09-24	美伊戰爭最新消息》伊朗嗆：美國若再攻擊戰火可能燒向印度洋- 國際	https://www.chinatimes.com/realtimenews/20260924004108-260408	未分類
 2026-09-24	為降低與中國爆發戰爭的風險 美國會從第一島鏈撤至第二島鏈？	https://www.hk01.com/%E4%B8%AD%E5%9C%8B%E8%A7%80%E5%AF%9F/60393561/%E7%82%BA%E9%99%8D%E4%BD%8E%E8%88%87%E4%B8%AD%E5%9C%8B%E7%88%86%E7%99%BC%E6%88%B0%E7%88%AD%E7%9A%84%E9%A2%A8%E9%9A%AA-%E7%BE%8E%E5%9C%8B%E6%9C%83%E5%BE%9E%E7%AC%AC%E4%B8%80%E5%B3%B6%E9%8F%88%E6%92%A4%E8%87%B3%E7%AC%AC%E4%BA%8C%E5%B3%B6%E9%8F%88	未分類
@@ -1582,6 +1595,7 @@ var DATA_DISASTER = `
 2026-07-19	俄烏戰爭 | 烏無人機襲俄物流中心 釀7死24傷	https://www.stheadline.com/realtime-world/3595037/俄烏戰爭-烏無人機襲俄物流中心-釀7死24傷	未分類
 2026-07-18	重慶彭水縣山泥傾瀉現場早上發現生命跡象 當局正研究搜救方案	https://news.rthk.hk/rthk/ch/component/k2/1862739-20260718.htm	未分類
 2026-07-18	重慶彭水縣山泥傾瀉 中央撥款3千萬元災後應急恢復	https://news.rthk.hk/rthk/ch/component/k2/1862726-20260718.htm	未分類
+2026-07-18	重慶彭水縣山泥傾瀉 中央撥款3000萬災後應急恢復	https://news.google.com/rss/articles/CBMi0AJBVV95cUxQbjB0R0JRWXFtcDVwblV1dU41VFdqX2NOdDA5cVZCbE9pUDNycWluTG96c1lONHBnZnhFWm5TWXJDcTE2djRvMVhHXzV1emN5LW0tdDZtOTVUdGNyT3AyNjZfUFNVdjFUZ3dTNzgwYnlHVGNvNS1JMUFVRWFqLWlfX1lYUjlzeDNud3dQdVlUclNFU202TUpkb205UkNpNEFMQ0VaNzdtcXduVEo5Sm0tbWVJZi1kMkdLNTJfVFU1VFhLMTdYdzBoTzFHTnZUUmx2VzJiRi0tSHNPQjZ0Nnc5LXpPS0l1LTZNSk9pWXRQVllNX3NJeUx1RWw4UXJ6YS1hNDQ4ZFozTm5mMnNQZkhOS2JFa2Eyc0loUy1jOWExSXZxdE5PblZrMndwR2s4TFpMVHlOLVFaamhmcmxibUFwemkyOFJfdTRnRXFMUVgxVHA?oc=5	未分類
 2026-07-18	重慶山泥傾瀉｜挨家敲門預警疏散 網格員最後撤離遭碎石擊中被埋	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60371235/%E9%87%8D%E6%85%B6%E5%B1%B1%E6%B3%A5%E5%82%BE%E7%80%89-%E6%8C%A8%E5%AE%B6%E6%95%B2%E9%96%80%E9%A0%90%E8%AD%A6%E7%96%8F%E6%95%A3-%E7%B6%B2%E6%A0%BC%E5%93%A1%E6%9C%80%E5%BE%8C%E6%92%A4%E9%9B%A2%E9%81%AD%E7%A2%8E%E7%9F%B3%E6%93%8A%E4%B8%AD%E8%A2%AB%E5%9F%8B	未分類
 2026-07-18	重慶山泥傾瀉｜事故造成8死34失聯 山體崩塌前後對比圖公布	https://www.hk01.com/即時中國/60371188/重慶山泥傾瀉-事故造成8死34失聯-山體崩塌前後對比圖公布	未分類
 2026-07-18	重慶大規模山體垮塌 多棟居民樓被埋 至少8人亡	https://vct.news/news/重慶大規模山體垮塌-多棟居民樓被埋-至少8人亡	未分類
