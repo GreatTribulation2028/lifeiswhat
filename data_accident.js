@@ -1,5 +1,6 @@
-// 意外 | 由 build_news_js.py 生成 | 共 1173 條
+// 意外 | 由 build_news_js.py 生成 | 共 1175 條
 var DATA_ACCIDENT = `
+2026-10-13	以色列北部發生爆炸1死24傷 軍方稱或由真主黨未爆彈藥所致	https://news.rthk.hk/rthk/ch/component/k2/1873668-20261013.htm	未分類
 2026-10-09	荃灣龍門郊遊徑女行山客失足墮坡擦傷 消防尋獲帶落山	https://www.hk01.com/突發/60397803/荃灣龍門郊遊徑女行山客失足墮坡擦傷-消防尋獲帶落山	未分類
 2026-10-09	荃灣龍門郊遊徑女子行山失足墮坡 救援人員上山搜救	https://www.hk01.com/突發/60397803/荃灣龍門郊遊徑女子行山失足墮坡-救援人員上山搜救	未分類
 2026-10-09	深水埗中年漢過馬路疑跌倒送院後不治- 港聞	https://m.dotdotnews.com/s/202610/08/AP6ac7819be4b02724bdb6c303.html	未分類
@@ -664,6 +665,7 @@ var DATA_ACCIDENT = `
 2026-01-20	內蒙古包鋼板材廠爆炸6死4失聯- 內地 - 香港文匯網	https://www.wenweipo.com/a/202601/20/AP696e9416e4b04d7d56cf556f.html	未分類
 2026-01-20	內蒙古包鋼工廠爆炸釀9死1失聯 國務院安委會掛牌督辦（第二版）	https://china.hket.com/article/4070638/內蒙古包鋼工廠爆炸釀9死1失聯 國務院安委會掛牌督辦（第二版）?mtc=20023	未分類
 2026-01-20	一名中國公民在阿富汗首都爆炸事件中死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/20/AP696ec5a7e4b04d7d56cf58b5.html	未分類
+2026-01-20	SFO一地勤人員意外死亡	https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1dHcVYwNWR0N2s2M2NCb1hFNDJxZ2FRdUl4eGFYcnY5QXpSTUktaUt1LUgtemhjdlNJcG0yUF9UeWdHd2RFTjRDclc3MlNVbE4tbUtIT19LRDFBZEdwVWtDcEtvNFRydjVUT25UdGVUWGFzTXJfemNCS010Wk1XQi0wMA?oc=5	未分類
 2026-01-19	內蒙古包鋼廠爆炸 「蕈狀雲」衝天釀2死8失聯	https://news.ebc.net.tw/news/world/533310	未分類
 2026-01-17	香港政府新聞網- 高度關注接連三宗致命工業意外	https://www.news.gov.hk/chi/2026/01/20260117/20260117_195438_872.html	未分類
 2026-01-17	孫玉菡稱高度關注近期致命工業意外 短時間內進行大型執法行動	https://news.rthk.hk/rthk/ch/component/k2/1840284-20260117.htm	未分類
