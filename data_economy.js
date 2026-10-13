@@ -1,6 +1,10 @@
-// 經濟 | 由 build_news_js.py 生成 | 共 3847 條
+// 經濟 | 由 build_news_js.py 生成 | 共 3853 條
 var DATA_ECONOMY = `
+2026-10-12	美家庭償還債務能力惡化 逾期還款比例增至近20% 創金融危機後高位	https://news.google.com/rss/articles/CBMitANBVV95cUxNN3VDRkx4endaR3V4X09hVExIN2VKWHVkX1pKZmc5bEl2NEpnX0RuUkp1ejI3TGJUN1AxX19qY0R0Y3ZKWkxtR0pXZTA0Ri1YZ3MzMmt3elhzV3o5WDlFanZZcEhqY0NvcWhURjh2UEpnU1owQVdTNGxFVk05SjM1TEs1T3lLNFFHZEpnN2ozbVQ5QVBNTW9uaDBDR0M5VmlqNm1TeWpxSXBOblhjVzYwOVBESzNUcEFVdXAxTWVNWWRiX3Fqd2t6M1ZZc3Z6VGVHd1RQSGVPOGlGREk1QmY2Y09PcE5Pb1BMNUhTaE1jMDJMRW5OSFNFcmZvbGdISU5EREJ0N0NWUm92Yy1ET0tkNHJIMWFjQUQ0aFc1SXJQd1NCbjRfSWlYY0xBcjhXY0Z0RDBNaDhhZUVfV1EtYVlKbEZENUttbkFqbXVra1ZXbzJOand4NUQ2ZUl2MlRleTlkdWdUZmZfcmIxNFoxS2JFbDlSQ3pTdnhvX25fQWpUbl84V1J0NzBvMXd2TjZvNjcySzlJT2FVbzFPemkyMEhaTlBMbENBSkV0enZzYjFCckJyWmly?oc=5	未分類
+2026-10-12	2026年諾貝爾經濟學獎頒給…美國經濟衰退宣告之王？	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yR1dwaEtEbWFfSk0zWDVDaTByZVZZOHhFbTZTTzRFMmY0X29zakt3ZHJhb19OTTVYN2FmS2diOEE3MTU2RWFWNnhKWGVSUlFvcThzamYtc1hnT09rV2otUHhR0gFnQVVfeXFMTUY0aS1GMGVwV1dyeGdiZmtXZExMM3pxVjI2RVhoZ0lUdnhkYS16OEhfSGxaRkgzWkk2aHhxTmp4RUpzSWZvSEZwbHptYnotSk9IdmlmbEhRajVUTTlPd1gwNDVFVFBrTQ?oc=5	未分類
+2026-10-12	2026年諾貝爾經濟學獎頒給...美國經濟衰退宣告之王？！	https://news.google.com/rss/articles/CBMikAFBVV95cUxPM1k4aXFJSGcxRXFLZDk0RDVhd0VpTmZSc0JibW5mWVJJa1B5eTBkSEhyMGJhb2QxRVhabHoyN3g3dk81YmVldTF5djk3SVYwOXk5aU5Uc2IyZG94WTlRTGIybDBjU1BqekZMa3hFTG9lOWNEUnFyWUhWajNJMnd6bUhvY1g0Vy1iWDNGMmo4UWzSAV9BVV95cUxNU21BWV8wTl9RS1pYY2FUd1VKNWUwQUJqRkNoeHlmVU9GcDhRdFg1aGowX0ZHVVFPU2FSMUhGUF9jOWwzblliWW1oRWJVMWVMWFFUWEpqN0E5Y2E5WE5FOA?oc=5	未分類
 2026-10-10	即使沒金融風暴 美債殖利率為何仍可能直奔6%？三大實體經濟支柱全解析	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PQlUybVM3X2t4cjF0bHFWbl9uQVA1UjFCYW5kN09ETDkxei0tbzB4Q3lhNUlqWVFvWm90Tm4zeGxHX0RkYUJ6VG1uelBTMlk?oc=5	股災金融
+2026-10-10	【經濟判讀】經濟衰退機率與資產配置策略報告 1010-阮慕驊	https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0FjSC1Pc29mSzg0dlVnNS1zdEg2bmlKMnk3elVqZDN1TG5QT1VQa3h1S2Qtckc5TlV5T1J5cldXa0NGd01ER0JyYVlNMGhhNkpZdk56MEhzYjVRYmV0WDJqS0Z2clBHd0p1UlpjMTJwVmQxdF94RkxYc2lweHF5Y2NCYw?oc=5	未分類
 2026-10-10	【經濟判讀】經濟衰退機率與資產配置策略報告 1010	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WWEVEOTNjMHI1czI5UVJYTWNOVGk2RlBkUGU0LVNQUV8wZkxvVjFCQlhrS1RqZ2NrUkFJeGZrR2tzanJJb0s2OUF4YmI4MkRRMTlKOC1aTHRjTVZLdVBYV0FvTG9wN2s?oc=5	未分類
 2026-10-10	《國際產業》AI狂潮這點驚似1997亞洲金融風暴！專家：藏1未爆彈	https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTGRqclBXX0p2OGtOdGxRLTlBSGhvUzBqTVhQMlYtMmxCdXFNWm9JRFktR3V4RkRnWWxuNHhqS0FfOUFOTGJDaXBEZkRMR1RnajdWYVNBSlc2dXlYTHB3dWs4YndGTzQ5TFpDZUNva296bTdwU0ZMMnRYU1IxRzlyN0pGeE1mUFNq?oc=5	股災金融
 2026-10-10	AI狂潮這點驚似1997亞洲金融風暴！專家示警背後藏1顆未爆彈- 要聞	https://news.google.com/rss/articles/CBMibkFVX3lxTE9HbEZacTlCaWZKNUdTcGRmNmxXYlJfOWVUc29ORDYzVDdSSlpVbzNzMUQtbHdtTFllZ3FYdHNEQ3FoeTJqRzJMUHVwMmVRNW5JVkh5VUF5RV8wWkJ0QlRRR3VidTR6SGcxb0dwRDVB?oc=5	股災金融
@@ -69,6 +73,7 @@ var DATA_ECONOMY = `
 2026-09-24	今日看見許久不見的前度，悲傷心事湧上心頭，就如股市暴跌般心痛。	https://www.moomoo.com/hant/community/feed/today-i-ran-into-an-old-flame-i-hadn-t-117326753628965	股災金融
 2026-09-24	Uber司機、外送員如何在AI時代「安靜失業」？	https://www.cw.com.tw/article/5143024	未分類
 2026-09-24	CMU年底升級推數字資產平台支援數碼港元及央行數字貨幣24小時鏈上實時結算- 財經	https://www.wenweipo.com/a/202609/24/AP6ab431f0e4b01d54a2848588.html	未分類
+2026-09-23	美國經濟衰退難免？專家：長期投資標普500仍能獲利豐厚	https://news.google.com/rss/articles/CBMi6gJBVV95cUxOVjNqN0wwX0djeXE3Qjl3SmhCZTdYQ1lLMGszdy1xYU1jVTJwelBYQU5HZ1ppM095bFEwWlllTW0yWnF6U1VaR0NIV01jSk52QWpHajZwSjhtOVhJWjNHdjF1SDVmaS1mdmhuYUcxYjhSa1ZmQVhLNEVxVXdZTWZIWGl1aW45N3hEbjNoMm5qdFd0WW81blhQNC0ycktPek5IY0l3dXZHUDBKU3Q2bFo1ZW1RR2JKOFVXZEl5ZGREcURYU3JwQ0Y2UWVFM08tb2dEcXZOMjNzYnp1cS02X2RXTGNTWV8zYlZVRElROFlZQVc0Q3JqR2lvdkhuUzR3QWZ5Unk4ZHVuLURBMU5vT3FLREtrYUd5Qm1XWHIzNXhpYk8waXV1NXdHYjhid1FYUFFud3pTcXdUYTlZSmZGRDZ6WHNkMjBKX2htQ1VCeEZaenljNmJlZ2VXTEx0SW5WR1psQUF3OEVaa0VOZw?oc=5	未分類
 2026-09-23	甲骨文裁員衝擊開發人員	https://www.singtaousa.com/2026/09/23/news/usa/oracle-layoffs-impact-developers/	裁員清單
 2026-09-23	天兆豬業爆債務危機 中國豬企大幅裁員欠薪	https://vct.news/news/%E5%A4%A9%E5%85%86%E8%B1%AC%E6%A5%AD%E7%88%86%E5%82%B5%E5%8B%99%E5%8D%B1%E6%A9%9F-%E4%B8%AD%E5%9C%8B%E8%B1%AC%E4%BC%81%E5%A4%A7%E5%B9%85%E8%A3%81%E5%93%A1%E6%AC%A0%E8%96%AA	裁員清單
 2026-09-23	又一間結業 #金滿庭 #荷里活廣場 #結業 #am730	https://www.facebook.com/am730hk/posts/%E5%8F%88%E4%B8%80%E9%96%93%E7%B5%90%E6%A5%AD%E9%87%91%E6%BB%BF%E5%BA%AD-%E8%8D%B7%E9%87%8C%E6%B4%BB%E5%BB%A3%E5%A0%B4-%E7%B5%90%E6%A5%AD-am730/1589004736600456/	結業清單
@@ -643,6 +648,7 @@ var DATA_ECONOMY = `
 2026-08-07	LTN經濟通》日本今年最大破產案上萬商家應收款歸零- 股市爆料同學會	https://www.cmoney.tw/forum/article/181518234	破產
 2026-08-06	（有片）200人結業派對告吹 葵涌廣場小店被指助長童黨滋事 有食客惋惜讚食物好味	https://www.dotdotnews.com/a/202608/06/AP6a747950e4b04b6c5d35e926.html	結業清單
 2026-08-06	韓股暴跌會引發金融風暴嗎？惠譽揭真實衝擊 這「2大產業」慘了	https://ec.ltn.com.tw/article/breakingnews/5530759	股災金融
+2026-08-06	韓股慘跌引爆金融危機？惠譽揭恐衝擊「2大產業」	https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdzBoRHozamdLcVVXQ0w5T1h3ZE84Qk5qSjhUNWRGZjJlQmU5Q0lzZXZ5TWg3RTlueEpIMnptUkh5OE1IbE9yNVNydlFhY1RvV0s1bjE1MFdmUjlueG16cUs5N3VJei1sOTlmUk9kOXk1cGI3ODlpSzVXWVp6d0xmRlp2dF9TbEpHVDNsdjktN0c1bWRfZndvSm1pUno4UnpieE45bTVnY3M5bWYwbzZwQ2E0SklQejN6RktCRW92bVI2TUg2dE1MbzAwVlJwdVZsU3pmb1ZzVERIcldHMFctMkZlU3hGTy1LUnpfSnRZaU9OOU1qczhCYzBNRTkxUGdlRGpDVWJlSWpIQ01LTmtsR3dVQkhGNGtfVVpQdzZQU3dQUC0wSGhPYWt5QW9hQ3lGbGJDdHl5eGZxWjg?oc=5	未分類
 2026-08-06	開業｜檀島咖啡餅店宣佈8月下旬登陸港島東 結業半年搬區重開	https://www.hk01.com/社會新聞/60377555/開業-檀島咖啡餅店宣佈8月下旬登陸港島東-結業半年搬區重開	結業清單
 2026-08-06	退休金愈領愈少卻沒發現！專家揭「6大破產警訊」， 提領超過這比例恐提前花光	https://www.storm.mg/lifestyle/11154546	破產
 2026-08-06	規模大、運營難 中國旅遊度假區掀破產潮	https://www.worldjournal.com/wj/amp/story/121345/9674904	破產
