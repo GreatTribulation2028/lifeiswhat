@@ -1,4 +1,4 @@
-// 經濟 | 由 build_news_js.py 生成 | 共 3866 條
+// 經濟 | 由 build_news_js.py 生成 | 共 3867 條
 var DATA_ECONOMY = `
 2026-10-13	韓國股市暴跌的背後究竟發生了什麼？	https://news.google.com/rss/articles/CBMijgJBVV95cUxPR0dVNXlwZ0JVaUZ0UFhuN011Q2t4RUNBNXRyVmR6X2JfNjRaMVBLQ3A4VEczZlhmS3hJT2ptX0IzZ1NhNGdHYnhqU01UUTBFYm5rcnB3blJCUDEtbHh2RnF5ZVdNT0RvTEszTDRPSW1hdng0MU0wUko2ZUVva2pYUHI0c09yYXZZUlZ5QmctR2s0NmhfRWs5VHBkSWtzQTRHM2R4OVZ0UVpROHJiN3BuX0RtQmpwU3c5UTAyeXpqWndzYkVaQTlqSnNpcUh4MFM0N1dYUmhYQXJUSnhmdTNTT2dZZGdlWktFeUVORl9BSWVNNERuNHhXQzVvOGdtSmdwRHBBdGRzVjRySV9OV2c?oc=5	股災金融
 2026-10-13	美智庫：俄羅斯軍工發達民用經濟停滯災難之門正在開啟| 國際	https://news.google.com/rss/articles/CBMiW0FVX3lxTE8weC0zN1dqS281eDlIbE12S19ydVRuVC1fYmdBUDh6QXI0VndDR1hhNDRmcndIOUtZbUlGZkoyVEhqX3F0UmhVTlVNbnpUdFBQRnU4UDdqa3JLa00?oc=5	未分類
@@ -1808,6 +1808,7 @@ var DATA_ECONOMY = `
 2026-04-30	結業潮｜旺角兆萬「紅火鮮料火鍋」5.3結業 老闆做網紅拍片仍難自救	https://topick.hket.com/article/4113957/結業潮｜旺角兆萬「紅火鮮料火鍋」5.3結業 老闆做網紅拍片仍難自救	結業清單
 2026-04-30	結業潮持續｜蒲台島半世紀海鮮酒家五月底結業島上唯一酒家老闆嘆家業即將失傳：無人肯做- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17180197011853/重點新聞-結業潮持續-蒲台島半世紀海鮮酒家五月底結業-島上唯一酒家老闆嘆家業即將失傳-無人肯做	結業清單
 2026-04-30	畢馬威美國諮詢業務裁員4%	https://cn.wsj.com/articles/畢馬威美國諮詢業務裁員4-6a0c5e30	裁員清單
+2026-04-30	新一場的金融危機或正在醞釀——但不會重演2008年的景象	https://www.bbc.com/zhongwen/articles/ckgp5evq70eo/trad	未分類
 2026-04-30	工總料糧食價格下半年上升推高通脹	https://www.hkej.com/instantnews/hongkong/article/4390389/工總料糧食價格下半年上升推高通脹	未分類
 2026-04-30	僱員憂「標時」令酒樓成本急升致倒閉- 香港 - 香港文匯網	https://www.wenweipo.com/a/202604/30/AP69f26e6be4b0b49ad1b8ef92.html	結業清單
 2026-04-30	企業裁員潮恐致勞資雙輸局面，研究建議：應開徵 AI 自動化稅	https://abmedia.io/ai-automation-tax-economic-crisis	裁員清單
