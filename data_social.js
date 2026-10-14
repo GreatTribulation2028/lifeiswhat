@@ -1,5 +1,8 @@
-// 社會 | 由 build_news_js.py 生成 | 共 1190 條
+// 社會 | 由 build_news_js.py 生成 | 共 1193 條
 var DATA_SOCIAL = `
+2026-10-14	鄭麗文提25歲女遭毒蟲割喉 暗批沈伯洋：別模糊毒品零容忍紅線	https://www.ettoday.net/news/20261014/3254522.htm	治安
+2026-10-14	罹精神病長達30年！59歲男「染香港腳」抗議皮膚科 不滿洩憤殺人	https://www.ettoday.net/news/20261014/3254450.htm	暴力罪案
+2026-10-14	桃園尾隨割喉焚屍嫌犯驗尿出爐 除了依托咪酯還吸安非他命	https://news.ltn.com.tw/news/society/breakingnews/5606135	未分類
 2026-10-13	韓國有超市發生持刀傷人案 8傷1漢被捕	https://news.google.com/rss/articles/CBMigwFBVV95cUxPdGpXYndnem9OMElQMjk1T1JObXVEQ0J6eWs5WXRnVENNTDBXaE5pMlJ4ZS05MER4R0hBSjVpcURnWkwteUFqNE1zemlwbmkwdkcwakJJZktHS0dmTVc5d05SVDNmRU9JOHIzdjlsTHNpRGlmTjBvdExpQlNvcU1EZEFvdw?oc=5	未分類
 2026-10-13	韓國持刀傷人事件致8人受傷 涉嫌行兇男子已被捕	https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtfX3JuWFdNRzlwb01fQjFNN1l0d0JpT1JlUmsxdnQxc0x5ZHZjRG9tSXZSdzZIUGhHb3lnbFd4YmNQUWEzdU53RVBBOTJQX3dicUJTU2I0U1E1ejUweE5uSnZhZlprcjMxclVjLXJEaXJSbEFyUE5QZnNLNFV3SktwY001MGF1OENZLVBvd2c4ZjEzNm91WjNya1ZuanF3NmdxMWVEZUgzX2lNWGc?oc=5	未分類
 2026-10-13	韓國持刀傷人事件增至8人受傷 涉嫌行兇男子被捕	https://news.rthk.hk/rthk/ch/component/k2/1873754-20261013.htm	未分類

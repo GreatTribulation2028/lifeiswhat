@@ -1,5 +1,6 @@
-// 工業意外 | 由 build_news_js.py 生成 | 共 746 條
+// 工業意外 | 由 build_news_js.py 生成 | 共 747 條
 var DATA_INDUSTRY = `
+2026-10-14	失速貨車 上坡疑突熄火墜落邊坡釀1死	https://news.ltn.com.tw/news/society/breakingnews/5606083	未分類
 2026-10-12	台中公益路21歲女從天橋墜落 全身擦挫傷一度意識昏迷	https://news.ltn.com.tw/news/society/breakingnews/5604037	未分類
 2026-10-09	東涌奪命工傷｜34歲男工人墮斃 家屬黯然認屍 盼了解事故真相	https://www.hk01.com/突發/60397765/東涌奪命工傷-34歲男工人墮斃-家屬黯然認屍-盼了解事故真相	未分類
 2026-10-08	東涌致命工業意外｜房署：工人安全帶疑未繫於穩固點已指示停工- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTE9mUEZmT3RSMkE5LTRJZklraGZKek92bnhlRTFVMmVHbUxoTHFPQ3ZiYUc0TnB2endHZ1R5WC1HSmthY0dnaURqVXJZcUFjdHpXMm1UMXRVV1E2TTYxMDkwVTBNR1FRLTA0dUhBRWVxM215LTFaUDRHNTJR?oc=5	未分類
@@ -165,7 +166,6 @@ var DATA_INDUSTRY = `
 2026-07-04	建造業安全｜今年建造業26宗嚴重工業意外 建造業總工會：安全管理鏈遇瓶頸	https://eastweek.stheadline.com/witness/20067/%E5%BB%BA%E9%80%A0%E6%A5%AD%E5%AE%89%E5%85%A8%E4%BB%8A%E5%B9%B4%E5%BB%BA%E9%80%A0%E6%A5%AD26%E5%AE%97%E5%9A%B4%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%BB%BA%E9%80%A0%E6%A5%AD%E7%B8%BD%E5%B7%A5%E6%9C%83%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E9%8F%88%E9%81%87%E7%93%B6%E9%A0%B8	未分類
 2026-07-04	今年建造業發生26宗嚴重工業意外 周思傑：業界安全管理鏈遇到了瓶頸	https://www.stheadline.com/society/3589955/%E4%BB%8A%E5%B9%B4%E5%BB%BA%E9%80%A0%E6%A5%AD%E7%99%BC%E7%94%9F26%E5%AE%97%E5%9A%B4%E9%87%8D%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%91%A8%E6%80%9D%E5%82%91%E6%A5%AD%E7%95%8C%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E9%8F%88%E9%81%87%E5%88%B0%E4%BA%86%E7%93%B6%E9%A0%B8	未分類
 2026-06-30	東方日報社論｜工業意外頻奪命 地盤安全欠監管｜全文	https://news.tvb.com/tc/1179803-%E6%9D%B1%E6%96%B9%E6%97%A5%E5%A0%B1%E7%A4%BE%E8%AB%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%E9%A0%BB%E5%A5%AA%E5%91%BD%E5%9C%B0%E7%9B%A4%E5%AE%89%E5%85%A8%E6%AC%A0%E7%9B%A3%E7%AE%A1%E5%85%A8%E6%96%87	未分類
-2026-06-29	恒地：十分重視何文田地盤工業意外	https://news.now.com/home/local/player?newsId=652688	未分類
 2026-06-29	何文田地盤致命工業意外 勞工處已向承建商發「暫時停工通知書」	https://news.rthk.hk/rthk/ch/component/k2/1860405-20260629.htm	未分類
 2026-06-29	上半年13宗致命工業意外建總怒轟施工監管制度有極大漏洞- 港聞	https://www.dotdotnews.com/a/202606/29/AP6a4237cee4b04b6c5d31d3f0.html	未分類
 2026-06-27	機槍墜落砸死日本精銳部隊成員	https://www.hkcd.com.hk/hkcdweb/content/2026/06/27/content_8761975.html	未分類
@@ -409,6 +409,7 @@ var DATA_INDUSTRY = `
 2025-11-30	澳門奪命工業意外 內地外勞安裝冷氣 疑支架斷裂墮斃	https://tw.news.yahoo.com/%E5%8F%88%E6%92%9E%E6%96%BD%E5%B7%A5%E9%98%B2%E6%92%9E%E8%BB%8A-%E5%8F%B061%E4%BC%91%E6%97%85%E8%BB%8A%E5%8D%A1%E8%BB%8A%E5%BA%95-22%E6%AD%B2%E9%A7%95%E9%A7%9B%E5%8F%97%E5%9B%B0-%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB-100051581.html	未分類
 2025-11-29	工業意外｜大埔18歲男工遭攪麵糰機夾手 送院搶救	https://tw.news.yahoo.com/%E9%87%8D%E6%A9%9F%E7%B6%B2%E7%BE%8E%E9%81%AD%E8%81%AF%E7%B5%90%E8%BB%8A%E8%BC%BE%E6%96%83-%E7%94%9F%E5%89%8Dpo%E6%96%87%E6%88%90%E6%AD%BB%E4%BA%A1%E9%A0%90%E8%A8%80-063223483.html	未分類
 2025-11-24	西貢污水廠奪命工傷｜發展局：暫停承建商分包商相關工程投標資格	https://www.stheadline.com/breaking-news/3520854/%E8%A5%BF%E8%B2%A2%E6%B1%A1%E6%B0%B4%E5%BB%A0%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7%E7%99%BC%E5%B1%95%E5%B1%80%E6%9A%AB%E5%81%9C%E6%89%BF%E5%BB%BA%E5%95%86%E5%88%86%E5%8C%85%E5%95%86%E7%9B%B8%E9%97%9C%E5%B7%A5%E7%A8%8B%E6%8A%95%E6%A8%99%E8%B3%87%E6%A0%BC	未分類
+2025-11-24	發展局暫停西貢致命工業意外承建商投標資格	https://news.now.com/home/local/player?newsId=627127	未分類
 2025-11-24	沙田坳道近法藏寺地盤工業意外 男工跌落斜坡 頭傷送院	https://news.tvb.com/sc/local/69247df0e435294129157eba/%E6%B8%AF%E6%BE%B3-%E6%97%BA%E8%A7%9279%E6%AD%B2%E8%80%81%E5%A9%A6%E9%81%AD%E6%97%85%E9%81%8A%E5%B7%B4%E8%BC%BE%E9%81%8E%E9%A0%AD%E9%83%A8%E9%87%8D%E5%82%B7%E6%AD%BB%E4%BA%A1-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95%E6%93%9A%E6%82%89%E7%84%A1%E9%85%92%E9%A7%95	未分類
 2025-11-24	恐怖工業意外！15歲少女打工 上身捲入揉麵機慘死 老闆被批無良	https://www.mytvsuper.com/tc/scoopplus/news/headlines/16312874549132/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E-%E6%97%BA%E8%A7%92%E6%B4%97%E8%A1%A3%E8%A1%97%E8%80%81%E5%A9%A6%E9%81%8E%E8%B7%AF%E9%81%AD%E6%97%85%E9%81%8A%E5%B7%B4%E6%92%9E%E5%80%92%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1-%E7%8F%BE%E5%A0%B4%E7%B4%99%E7%9A%AE%E9%9B%9C%E7%89%A9%E6%95%A3%E8%90%BD%E8%B7%AF%E9%9D%A2	未分類
 2025-11-24	前年大埔機械倉庫致命工業意外 公司東主被判罰7.9萬元	https://www.stheadline.com/breaking-news/3520809/%E6%97%BA%E8%A7%92%E6%B4%97%E8%A1%A3%E8%A1%97%E6%97%85%E9%81%8A%E5%B7%B4%E8%BC%BE%E6%96%83%E9%81%8E%E8%B7%AF%E5%A9%A6-%E7%B4%99%E7%9A%AE%E9%9B%9C%E7%89%A9%E6%95%A3%E8%90%BD%E4%B8%80%E5%9C%B0-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95	未分類

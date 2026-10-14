@@ -1,5 +1,6 @@
-// 火警 | 由 build_news_js.py 生成 | 共 1812 條
+// 火警 | 由 build_news_js.py 生成 | 共 1813 條
 var DATA_FIRE = `
+2026-10-14	港鐵：藍田站今早機房電線過熱冒煙 嚴肅跟進及調查兩日事故	https://news.rthk.hk/rthk/ch/component/k2/1873894-20261014.htm	未分類
 2026-10-14	港鐵藍田站月台有設備冒煙 觀塘綫列車不停藍田站	https://news.rthk.hk/rthk/ch/component/k2/1873851-20261014.htm	未分類
 2026-10-13	高市綠能工廠大火 環保局最重可罰500萬	https://news.ltn.com.tw/news/society/breakingnews/5605290	大火火警
 2026-10-13	觀塘綫列車服務逐步回復正常 藍田站路軌旁火警已處理	https://news.rthk.hk/rthk/ch/component/k2/1873791-20261013.htm	大火火警

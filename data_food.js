@@ -1,5 +1,6 @@
-// 糧食 | 由 build_news_js.py 生成 | 共 529 條
+// 糧食 | 由 build_news_js.py 生成 | 共 530 條
 var DATA_FOOD = `
+2026-10-14	國際巨頭打台灣牌 搶糧圈地大作戰重塑供應鏈版圖	https://finance.ettoday.net/news/3250738	未分類
 2026-10-08	【即時新聞】最新聖嬰現象引爆印度糧食危機！高露潔(CL)農村銷售恐遭重擊，小心這檔拉回！	https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkN3NFdGSWZ5TFlDZ2xiS3piWGtIOHEtdXpObUU0aHpTWU5iTXFCNmtuQlVyLTVkTlE0N2RWczJiNlpZLU9QTl9iS0NUZThoTHpXUDF0TWxsNmZ2WVJmb01Wb1NrcDlxWlUyLUVBVXhpZnNCc0d5SXllWTlHcmx2MmlONTdnRXdxMXFSVHNuTFQ?oc=5	未分類
 2026-10-07	【社論】超級聖嬰遇上暖化地球 以約瑟的智慧預備糧食危機	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDLXJOcEpYaDdWS0c0bXl1cUxJZ04taUg2cFpxbHhKcUlLM0lCQktvTUhhZVpTcDQ0ejZ2SFgtN3hlVzRxSGxZU19VRTJmcVdzWmxWLUF6RC1GZ0J3MG9DREFuUVZmX2VM?oc=5	未分類
 2026-10-04	本為星際任務設計卻成地球救星，「太空農業」如何破解極端氣候糧食危機？	https://technews.tw/2026/10/04/space-agriculture-solve-global-food-crisis/	未分類

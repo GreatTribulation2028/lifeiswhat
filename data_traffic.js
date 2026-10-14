@@ -1,11 +1,16 @@
-// 交通 | 由 build_news_js.py 生成 | 共 2989 條
+// 交通 | 由 build_news_js.py 生成 | 共 2994 條
 var DATA_TRAFFIC = `
 2026-10-14	青馬大橋4車連環相撞 5人受傷	https://news.google.com/rss/articles/CBMi9gFBVV95cUxPenFScGFaODQ1eXozRzAxc01zbzNvaEtDajZha1o4MjktMlRaVGdWTHhXOXNuLWlHb2s2U0k2R0loejFRM2ZGSGZOTUlHU2NEbmdPT183MEs5R2VnWkNEb1NxdHRQZ3dnMVFmbkE3V0p0VDNlNVk3b1dwQ2ZJSGlkYm5aZG1IVkNydUZnSDdZSkg3Mkp6TVdCdl82YnRuaVVnWVFRVVJxVjZhRGxfcHUzQmhNU1d1cGwtdFAzTHRDbHZyNE4zN2h1aDB3d3NTdTAwb29LRndydWc1bW0wX09MQkd6Ukt4VnRqdkpDczFHeWt6Z0l4RHc?oc=5	未分類
 2026-10-14	港鐵：接駁巴士正行駛來往觀塘至油塘站 中途藍田站乘客可上下車	https://news.rthk.hk/rthk/ch/component/k2/1873861-20261014.htm	未分類
+2026-10-14	恐怖掉落物！大木棍橫躺國1彰化段 8車連撞車頭慘毀	https://news.ltn.com.tw/news/society/breakingnews/5605758	車禍
 2026-10-14	快訊／上班快改道！ 國1「2車追撞」塞爆	https://www.ettoday.net/news/20261014/3254161.htm	未分類
+2026-10-14	巴士營辦商申加價 陳恒鑌盼審議時平衡各方包括顧及市民承擔能力	https://news.rthk.hk/rthk/ch/component/k2/1873932-20261014.htm	未分類
+2026-10-14	國3南向清水段聯結車擦撞 車上載「化骨水」化學署急到場	https://news.ltn.com.tw/news/society/breakingnews/5606080	未分類
+2026-10-14	台灣大道轎車違規迴轉 害3車追撞1乘客受傷！驚險畫面曝光	https://www.ettoday.net/news/20261014/3254552.htm	未分類
 2026-10-14	倒車撞倒機車扶起以為「沒關係」 吃罰單還要吊扣駕照1個月	https://news.ltn.com.tw/news/society/breakingnews/5605381	未分類
 2026-10-14	人命剛沒了！北市女騎士撞死人隔天吸安 辯「腦袋很亂」下場曝	https://www.ettoday.net/news/20261014/3254153.htm	未分類
 2026-10-14	中和男騎YouBike遭猛力追撞！「頭部重創」亡 車殼嵌入轎車車頭	https://www.ettoday.net/news/20261014/3254179.htm	未分類
+2026-10-14	4間巴士營辦商申請加價 加幅8.1%至17.7%	https://news.rthk.hk/rthk/ch/component/k2/1873896-20261014.htm	未分類
 2026-10-13	沈伯洋指公館圓環改造「1個交通事故熱點變2個」交通局回無具體事證但也沒說原因	https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVGNWWFA1NVY1d05JYlNtaF9MRGFmZl9aRmRfZHZoRWxRVXdqcWhSVjZGazVybFBBLW5ocG1TdWZGV2pxUXh0aks4b05NVmJNc2gyem90LUtweHFmZmF4RkhMVEk1V2dIMFHSAW9BVV95cUxOWjdiYk5uRDZ5WFE5NlYzemRCaEpReTRCZC1sT0ZHbnVSWEs0ZlZJcmpTUTVIMHotd3IzN3V0bXhlbGVkZTFWZ0o3RGRJRm4yWmZwTUlSblRNbDg4NWtzYkVHemhWSmY2RS05MlVqbTQ?oc=5	未分類
 2026-10-13	新北前7月交通事故164死年增19人 侯友宜要求強化交通疏導	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VLWdZT29QR05yR25ZUjlRbjZVM3VieW40SzJ4RG5pWk0wbGxHb3c4TXhkVFh5ZnJ0ZDZBVzl4R0t2S3ZyTkRiRHFsYzJSaF9H0gFWQVVfeXFMTmlaYlU5SUFKc0lzazF1SXNVY2x4ZnhOSFNjWFk4VkhxQjNHeEw1eFBpSl9CTWsyME5NOGZZMHRJRHRkUVQtdGxiLWg5WmVubVVEc28zWGc?oc=5	未分類
 2026-10-13	彰化婦遭垃圾車輾斃 林世賢急推「科技防捲入」救命	https://news.ltn.com.tw/news/society/breakingnews/5604282	未分類

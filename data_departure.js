@@ -1,6 +1,10 @@
-// 離世 | 由 build_news_js.py 生成 | 共 10263 條
+// 離世 | 由 build_news_js.py 生成 | 共 10267 條
 var DATA_DEPARTURE = `
+2026-10-14	肺纖維化「比癌症致命」 新藥可降死亡風險6至7成	https://health.ettoday.net/news/3254553	自然離世
+2026-10-14	校園割頸案律師主張清查財產 楊父批荒謬：被害人有錢就不用賠？	https://news.ltn.com.tw/news/society/breakingnews/5606177	未分類
+2026-10-14	快訊／台中私校女高中生沒去段考 漢神洲際墜樓身亡	https://www.ettoday.net/news/20261014/3254530.htm	未分類
 2026-10-14	台中草悟道兒童遊戲區驚見女子死亡 民眾嚇壞報警	https://news.ltn.com.tw/news/society/breakingnews/5605571	自然離世
+2026-10-14	割頸案家屬捐500萬遭疑「轉移資產」！ 楊父悲憤：不想用承勳不幸換取利益	https://news.ltn.com.tw/news/society/breakingnews/5605749	未分類
 2026-10-13	隨機殺人魔「跟25歲女回家」割頸焚屍！最後身影曝光	https://news.google.com/rss/articles/CBMiygJBVV95cUxPR2M1UlJzb2hBQnhvb2hkWThhYVNzMi05OFIzeHlXNjBYQmFQY0FwcDNmZ2o4QXVoeThGYmZTbEd4R2hiTWlrOFRiNnZ1ZmU0bnlmRHZVSzljQVdPekVObDRYUF9YSUwzTzRFWmVNUS0wNy1HTHVfeXA3VzRJazZuamRMckpNQ3p5bnlwdGhzT0xJQXEtODRmRVhZN1dWRGxkSDltNmpmcjMxMXVGXzJOUjJJWU10d0x5WEtoXzFnMURfX19uNnp2TV9WbXFNd3pXZW9HekNEcHJvb0I4UHk3R0gyRkZBNVc3eGpsVVV2TTJQSGlZNHRsMkJHSjZ0Snp3amFjVUZoM3JqQk5IMmdTN2VJYWFfZDZqWjJTb2tzZ0xfOVBJTDkwZThSbFlqcW1UQ09ZOVFFZU93ZktkcURKX2hqYjNTa082WkE?oc=5	未分類
 2026-10-13	狠父涉槍殺兩名幼子後企圖自殺	https://news.google.com/rss/articles/CBMikAFBVV95cUxOZk5xMkhiRGJYcHRPN0pINU1aUDNjSDdRNWUxRC13X2F6MlJTa0RjR3o2T3FLRUZrTVdBbUI4VjJlTEFVTF9FVkNHMzA3Q1B2S21udWtxQ0dsZ0J0Q1FLYzg3a2h3WjNyanlrZlNPMXEwc0M2T2NOUzNldG5wd240U09kS3pZUXVqbk96bklMTWc?oc=5	自殺
 2026-10-13	慟！桃園女租客最後落單畫面曝光 割頸男竟曾任救護車技術員	https://news.ltn.com.tw/news/society/breakingnews/5604166	未分類

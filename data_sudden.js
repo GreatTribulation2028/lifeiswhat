@@ -1,5 +1,6 @@
 // 猝死 | 由 build_news_js.py 生成 | 共 5075 條
 var DATA_SUDDEN = `
+2026-10-14	快訊／台9線轎車遭2大車夾擊成廢鐵 副駕男夾困1.5小時送醫不治	https://www.ettoday.net/news/20261014/3254508.htm	未分類
 2026-10-14	37歲男子騎機車掉落豐原角潭路圳溝 送醫不治	https://news.ltn.com.tw/news/society/breakingnews/5605439	未分類
 2026-10-13	韓賣場刀漢行兇 有人心臟驟停	https://news.google.com/rss/articles/CBMiwgJBVV95cUxPVml2Q2w2UjNBUU81cGw1SDByb1BFYnQwcHl0MmdpTVlBckl6RHNsX284VVFBZmR2V0lsX3p5RC0yQWxCUEVlOWFPekQ0ZVRiVUtpZG92T0JzX2hsblhBaFhHY21uVU5GSDAxQ0hhNjRuYjI2eEIyNkxIYjFkR2kxaS1EUFowM0d6NThLcVNZTnRCZFRvT1Z6cWdnNFBCZkFWZWhlczJsM2pMNVFYNGNwbDRyMUgwR1BWQ3c3QUFiWEpIUzBXVnBYUU5lcjZuVEJ6NUNCX213eVdTVWE0cHY0Q0tJNENaWWFFa185VTNzc3BjZWZfeVN2S052Vnl3V0Zsbm8xcmdGTXZFY25WalNXOF9nUHhWTEJDTTRpdG5oNlhTdDF4VXVvY0ctdGRDRTRSSzVEZ2xMcjd5QnNQaDYwVTdR?oc=5	心臟病發
 2026-10-13	韓男雙手纏刀闖仁川超市狂揮傷人！顧客奮勇制伏 8送醫1心臟驟停	https://news.google.com/rss/articles/CBMib0FVX3lxTFBJLXdwTEpVX1A5YVFIa1Z0UnpjMWRMNjZiY2hEelNxNW0xRU5KZ0NvYWtiMjA5TXRmUTF3WDVxYUpqT0tCOWdkR1Y2LVJCRnBhaFhHTDd1N3pLR05LUy1oTkhOaDN6RV9ITTZrMjhNUQ?oc=5	心臟病發
@@ -1583,7 +1584,6 @@ var DATA_SUDDEN = `
 2026-05-15	密室逃脫員工扮鬼遭勒頸 搶救5天不治身亡	https://news.pts.org.tw/article/808575	未分類
 2026-05-15	單親父猝死 17歲少女休學打兩份工撐家計	https://www.nownews.com/news/6836583	未分類
 2026-05-15	台北密室逃脫29歲女員工扮吊死鬼意外遭繩勒頸 搶救多日不治身亡	https://www.hk01.com/台灣新聞/60350325/台北密室逃脫29歲女員工扮吊死鬼意外遭繩勒頸-搶救多日不治身亡	未分類
-2026-05-15	29歲男子照胃鏡後抽搐不治 死因庭接納檢查時併發罕見腦空氣栓塞 裁定「死於不幸」	https://n.kinliu.hk/court/29歲男子照胃鏡後抽搐不治 死因庭接納檢查時併發/	未分類
 2026-05-14	重案解密｜改編13年前九龍城拐嬰案 小三自導自演公開尋B報假案 揭半歲女猝死棄屍垃圾桶	https://topick.hket.com/article/4129049/重案解密｜改編13年前九龍城拐嬰案 小三自導自演公開尋B報假案 揭半歲女猝死棄屍垃圾桶	未分類
 2026-05-14	許多人以為猝死可能是年長者才需要擔心的問題。然而，黃軒醫師也以1名25歲科技業男子猝死的案例，指出年輕人並非心因性猝死的絕緣體。年輕族群猝死的3大常見原因，...	https://www.ctwant.com/amp/article/481008/	未分類
 2026-05-14	翠屏北邨男子墮樓 壓毀簷篷浴血當場不治	https://std.stheadline.com/breaking-news/3572439/翠屏北邨男子墮樓-壓毀簷篷浴血當場不治	未分類

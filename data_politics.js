@@ -1,5 +1,6 @@
-// 政治 | 由 build_news_js.py 生成 | 共 213 條
+// 政治 | 由 build_news_js.py 生成 | 共 214 條
 var DATA_POLITICS = `
+2026-10-14	獨家》瑞芳分局長飲宴風波調職 警政監謝龍富回鍋代理顧大選	https://news.ltn.com.tw/news/society/breakingnews/5606204	大選
 2026-10-13	選舉委員會界別分組一般選舉再接獲108份提名表格	https://news.rthk.hk/rthk/ch/component/k2/1873801-20261013.htm	大選
 2026-10-12	選舉委員會界別分組一般選舉再接獲217份提名表格	https://news.rthk.hk/rthk/ch/component/k2/1873651-20261012.htm	大選
 2026-10-10	韓國瑜國慶噴「假民主真獨裁」 綠：賴清德演說拉高格局訴諸團結	https://www.ettoday.net/news/20261010/3252244.htm	獨裁專政
