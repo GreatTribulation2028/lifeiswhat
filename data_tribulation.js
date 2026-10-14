@@ -1,5 +1,6 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 324 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 325 條
 var DATA_TRIBULATION = `
+2026-10-14	世界末日倒數1個月？66年前神預言「11/13人類滅絕」 網見荒謬原因笑了：根本不可能	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tcFJXUlMtODVvTWNOXzNLdHo2SlNYZXJRODg2OXd1TktzTUNtdWItcktaOU1kbDZZa095cERYQld1VlNTaXVCUVU0LVEwTzRGTEE?oc=5	末世預言
 2026-10-13	討論牆 | 世界末日倒數1個月？66年前論文預言「11月13日」出大事 真相曝光	https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MWDVkTm0zekRvYUhVQ3BqTWtvOG9KaU5RYjJKRXNOcG43MS1uU1ZBX201azRRNTF5T2FMdjFxYlFKU0lkYlhkSEdPNHNyaFBRSUZkOG94TDNzSUlDMGMzM3dMN3k?oc=5	末世預言
 2026-10-13	加油，MU公牛隊！這又不是世界末日……🫣🫣🫣🫣🫣🫣🫣🫣	https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1huYnBRak1kUmlKQUhKT3pmdmFHX09YUUJGamk3VnBLcWZZQmxBWHMyZ21vMmRpVXo0alo4TWxOX2pFNVhiOUlvVUFodl9QX0d4aHZlVURBbXZjYkpBLTlkTnkxR1dRYUh4VDdPbjdLSkVlekYwRzBxbmplaklqajRwRzQ5d1V4RmdYRWlCNmI0VlUtVW50bDJEWmI?oc=5	末世預言
 2026-10-13	世界末日倒數1個月？66年前論文預言「11月13日」出大事 真相曝光	https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxS2FHTnVmc0FuMjdtUFg4YlBDUzVINzZwV2xaTE50VTYwVGJuYXlHUWhiOVA0NC16dHJxUHBtVlZHYlNuODFyRXhIX0pjd3I4Nnk0eEp6U21xUnRtVmfSAUtBVV95cUxOLVVFaDVJcWI4aVcyTm5JNG5vLVMyUjhrWmI3b0oyTjFDLXh1cjR2N3F1YWN4V1VwSkZBNGJIXzBlbEstVF9mbzZyVUU?oc=5	末世預言
