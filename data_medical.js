@@ -1,5 +1,7 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 3042 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 3044 條
 var DATA_MEDICAL = `
+2026-10-14	流感疫苗接種計劃至今接種70萬劑 盧寵茂冀接種率可較去年更高	https://news.rthk.hk/rthk/ch/component/k2/1873874-20261014.htm	未分類
+2026-10-14	歐家榮稱俄國不明原因肺炎對本港威脅風險低 審慎起見設防控措施	https://news.rthk.hk/rthk/ch/component/k2/1873865-20261014.htm	未分類
 2026-10-14	梵蒂岡：教宗良十四世證實患有肺腺癌	https://news.rthk.hk/rthk/ch/component/k2/1873838-20261014.htm	未分類
 2026-10-13	金斯瑞生物科技(01548)：CARVYKTI®於截至2026年9月30日止季度產生貿易銷售淨額約7.1億美元作者智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE1TbXZVUmkxNU9VdHpmWTJiVV85c1d5dGNyN19SS0lBVW54bi1VQUI5WlNHam1QbnRLWkZudHViY3hFVVV6SzJJd2pNcjBKdkVKOHo3VmY2ZFZ2b2NjeE9BVDlMY3k3eTk5YXF2SHFCbGw?oc=5	未分類
 2026-10-13	小摩：中國生物科技ESMO催化劑可驗證本土創新首選科倫博泰生物(06990)信達生物(01801) 作者智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE9RQVgzSWZXN1BoZHZTUk9VOTJJdm5LLXY4dDRtY3JRQlowRURZRzNyU0dnMkszU0V5dlNjWWpONWYtQVBPVDRvcE9TYmdqb2FUSmR2YXVFVzlzWmE5TXA3NU11QTlCMjZ2aGYzRFFfbVM?oc=5	未分類
