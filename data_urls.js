@@ -1,12 +1,10 @@
 // 生死記錄儀 — URL 對照表（延遲載入）
 var DATA_URLS = `
 2026-10-13	https://news.rthk.hk/rthk/ch/component/k2/1873668-20261013.htm
-2026-10-13	https://news.rthk.hk/rthk/ch/component/k2/1873668-20261013.htm n2026-10-09
 2026-10-09	https://www.hk01.com/突發/60397803/荃灣龍門郊遊徑女行山客失足墮坡擦傷-消防尋獲帶落山
 2026-10-09	https://www.hk01.com/突發/60397803/荃灣龍門郊遊徑女子行山失足墮坡-救援人員上山搜救
 2026-10-09	https://m.dotdotnews.com/s/202610/08/AP6ac7819be4b02724bdb6c303.html
 2026-10-09	https://www.hk01.com/突發/60397803/荃灣龍門郊遊徑女子行山失足墮坡-救援人員上山搜救 n2026-10-09
-2026-10-09	https://www.hk01.com/突發/60397803/荃灣龍門郊遊徑女行山客失足墮坡擦傷-消防尋獲帶落山 n2026-10-09
 2026-10-08	https://www.hk01.com/突發/60397407/東涌工傷-34歲孝順仔喪父後-為改善家境轉職地盤-遺母妹失依靠
 2026-10-08	https://www.hk01.com/突發/60397337/東涌奪命工傷-房屋署指示承建商停工-指死者安全帶疑無繫穩固點
 2026-10-07	https://www.ettoday.net/news/20261007/3250372.htm
@@ -1175,6 +1173,7 @@ var DATA_URLS = `
 2018-10-17	https://www.setn.com/news/443805
 2016-12-01	https://www.uho.com.tw/article-41876.html
 2016-08-07	https://www.setn.com/news/171045
+2026-10-14	https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk94N1FVZjJrWWZNVnowNTFpVDltdkdiblRVeUYtaFF0clFIMTU5Wk9GSkh5cWdpdHZWMXJzSTc0dHVvcG1BdDNOSzRxZ3dhV2ZvUTBWQTdvd3JVQmV5QzdrTUhZN0l1VFZ4T2toU212Q0d6YU1leHVJdFdhdG9YQ0JPOWZQd3BMdXlaNFFVVkItdjlIRFVaOVVLUQ?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMi6AJBVV95cUxOMEdzSEtoTTBubFVRUFJxTHhOWmJPNFZ0VzVKV1FVSFBYUUdXTFctYWw3Q1JoT3pYNkYwTWYyWHZRTXhPemFPazk0OHVOb2xPZk54MmZsX1Y4SnAwWlhoY2U0NFBEdE5UZUdRbWlFN2VIaTA1SXZQUVVMN2JYbk82QTZkNm9jVjFwdTBONGNsTEdrUFNfTDFDWmRNYXhjZklleW11aVRnSnp0UnR1dWpiWTN1cGc2VDBIWncwYnJmU1ZiY192akpNRW1GYnBtWlVxSVViZGxxbU1EcnNKMlhHU3J5ZTMxaHpkRWE0NTdadFdtV19kSW5ySzdMS3hUSnpIM0ViRjVQSUFHdlZTbUJyQnJXZlE1VktLQmJ2X3ZkWE1WeU9CVkVKNjFkU3B0ZFdsTXU4Y0JkYmlrR1ZQOWtCWC1EcFNEbkZkWC14VTZVYXRnVHhBSkFHbC1BYU9KazJpdk1ZYm16TTU?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMiqwJBVV95cUxQNzE3RkNXSmZSdkt5ZDBDQmhFRnBsWDV6b2ZLZFEyZXNKbmp6Nm9hdkhDeUlVV1VUUEZzZzNRQnJzRTJaczlKNkF6eUxfQkEwRFZhMWZ5NXU5dk52SjYxT1BZR1F4dS1OMjZ5R0FlR2hrck5Pa0VzeW41WlB5elhwaWstVldON01qWlJFSmI3QmwtMUZTOTdmamN1b21KZWJiNkJwaTRURzc0dGxoNDA4R0ZCSzFSa1FxMmJHVk5Cb3hyZmpqcklYbjdxLUdoTFRQUEtMa0FmdmM1WDU0WjV1Vmd2WGU5VkF0TEw1XzZWMExYTHhaQVh3eUJnZ3FnMGZNb1VyeVU1clctNWNDQUE2eWdhamNyRUMwQmFOZTdTc0pqWkxVLXNobkJVMA?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnQVpydzA5VnhUOUpfS21Odk1zUmFzZFR6eDQxd2dmS3ZaeW9nUGRtYVpPNUZkaEFrZE9pa1FqNHB4TXNlbjdPYnl2dUZ2eGxMNnFUWmwyVFZrdURaOFVBOVBMZllfVWfSAWxBVV95cUxQaHFTcXowRzBKaG54ZDBKTGZSQlBHZ0w3VHRyNmF1dkIzQVhONGtrcUQ0WE1iMGtpSWJDUFpRa1dLUWpmYjFUWVFiQkxTcjhiT2J6SlVvQm1ETUdUNC1BZkNjcC1hQ0tJZWtKWS0?oc=5
@@ -1704,6 +1703,7 @@ var DATA_URLS = `
 2026-10-14	https://news.rthk.hk/rthk/ch/component/k2/1873826-20261014.htm
 2026-10-14	https://news.rthk.hk/rthk/ch/component/k2/1873850-20261014.htm
 2026-10-14	https://www.ettoday.net/news/20261014/3254156.htm
+2026-10-14	https://news.rthk.hk/rthk/ch/component/k2/1873856-20261014.htm
 2026-10-13	https://www.ettoday.net/news/20261013/3253498.htm
 2026-10-13	https://news.rthk.hk/rthk/ch/component/k2/1873672-20261013.htm
 2026-10-13	https://news.rthk.hk/rthk/ch/component/k2/1873670-20261013.htm
@@ -2682,6 +2682,7 @@ var DATA_URLS = `
 2026-08-13	https://m.4gtv.tv/article/2026081305000012
 2026-08-13	https://www.tlfw.net/sh/202608/t20260813_35906189.html
 2026-08-13	https://reader.turnnewsapp.com/ct/20260813/b50aa10/q1rfmjaynja4mtnfqtewxze1/share
+2026-08-13	https://news.google.com/rss/articles/CBMizwJBVV95cUxQQVA0dk0tRFd1SlptVGppcmRuSFBXQWVySkNmbnlyR092UWVocGpUaG1aMzFIOEt3VHdrMU1HcWR6cURjWjg4amc1MWM3SkMtaDBoN3E0Zk93VFFsT2dwbTFJblVlQzV2dU9IOTl3eXJNcGtYeC0tMVBfcDluLXZNLUdNUV9BeER4UjJFZklMOGpBMWM4WGhHR1BhUUVnWmMyQVBDVEJsTHZsaFExd0tnQkdXY2JkdmVCaHdxUWNHelFKS1d0NjNxVll0TlMxS1BsRTFXeUd5TlJiQ1dBTi03NlRpdmhQd2V5THR3Sk5FemZHZGh6TkZQc2NHZTFWQTVIa3hTdVZIN1VOWlhEZk03RHhCaVBTQW1DN3RnWmdLRUlWTWRaSUhIWkdFSnJIS3FoWXNscGt6V2hLRzdvdzhDWnhRMzRCaUsxTlF2eFY4QQ?oc=5
 2026-08-13	https://d.youth.cn/shrgch/202608/t20260813_16812943.htm
 2026-08-13	https://news.tvb.com/tc/1188790-意大利埃特納火山爆發當地航空交通大受影響
 2026-08-13	https://www.hk01.com/article/60379827
@@ -2918,6 +2919,7 @@ var DATA_URLS = `
 2026-08-04	https://www.dotdotnews.com/a/202608/04/AP6a71997ce4b04b6c5d35ada6.html
 2026-08-04	https://tchina.kyodonews.net/articles/-/11705
 2026-08-04	https://www.chinanews.com.cn/gj/2026/08-04/10671818.shtml
+2026-08-04	https://news.google.com/rss/articles/CBMid0FVX3lxTE1Hd001ckZmQjk0eEJJTnNfQlN1Wk1JTUtlYXNwM3FsZTVsZnZkeDBQTHh0VDl6Z1JOZDNaNFhOZ1NfRElBck44NVlwVnFnVzllcjdOZUQ1VlZQM1BicEJPT0MwcGRNbzdHOHpQWTZ1a2k1SVFKNXpr?oc=5
 2026-08-04	https://big5.cctv.com/gate/big5/news.cctv.cn/2026/08/04/ARTIKsDkpS9zcSBoL99clhLY260804.shtml
 2026-08-04	https://inews.hket.com/article/4171052
 2026-08-04	https://www.am730.com.hk/國際/1045500/南韓熱浪釀16死-氣象廳對首爾發高溫預警
@@ -3948,6 +3950,7 @@ var DATA_URLS = `
 2026-06-19	https://www.bastillepost.com/hongkong/article/16200453-蘇丹戰火持續兒童陷生存危機-營養不良疾病教育中
 2026-06-19	https://tw.news.yahoo.com/端午節不平靜-彰化田中19-00發生規模3-0極淺層地震-112057738.html
 2026-06-19	https://www.ulifestyle.com.hk/community/detailpost/d79e03be-948e-4f29-9883-7d5bce46d71a/著數報料/急救乾旱髮-護髮好物/lammjoycec/277479
+2026-06-19	https://news.google.com/rss/articles/CBMidkFVX3lxTE5NalRaQ2RfQXN2NzVIOWw2aE5XVlpWdld2dGV4M1llY09sUjhjSVdNclhnSjlqaS02a0Q0djNvUnc4TnhLakNzemJJaHZsdDRQcFlYTlN0Qk9kR29QaFRORHAwRGVGOC1BWHFwN0xoSGVHd1hJV0E?oc=5
 2026-06-19	https://news.tvb.com/en/1177865-北京老人院遭洪水淹浸32死17名公職人員失職被問責
 2026-06-19	https://www.dotdotnews.com/a/202606/19/AP6a34f07fe4b09ea23318eea0.html
 2026-06-19	https://www.orangenews.hk/international/VMyjqd7/以色列空襲黎巴嫩南部至少16死-萬斯批不能靠殺戮解決國家安全問題.shtml
@@ -6074,7 +6077,6 @@ var DATA_URLS = `
 2025-04-24	https://ent.ltn.com.tw/news/breakingnews/5021878
 2025-04-24	https://www.ftvnews.com.tw/news/detail/2025424W0214
 2025-04-23	https://today.line.me/tw/v3/article/vX9RyWK
-2025-04-23	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jb0g4aFFwNGd0NndQS1B6Mzg2VndNTThrY2xOMzd5aC1iRURBdXlzRnZ2WHVleEVsYjNvV0x0dVBPYnVYV3VFQtIBTEFVX3lxTFBveEN1N2x0MXhuclFzQVZQYk1HYkp3T2FZb19QOXBDSUtjQ013bFY1TWFUTlZnb25fVUh5ODdwY21McHRjNGliSXcwM3M?oc=5
 2025-04-21	https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E9%A9%9A%E8%A6%8B%E7%94%B7%E7%AB%A5-%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B4-%E6%AF%8D-%E6%8E%A5%E9%9B%BB%E8%A9%B1-%E6%B2%92%E7%99%BC%E7%8F%BE-045420657.html
 2025-04-01	https://hk.on.cc/hk/bkn/cnt/news/20250401/bkn-20250401200741862-0401_00822_001.html
 2025-03-13	https://www.hk01.com/article/60219522?utm_source=01articlecopy&utm_medium=referral
@@ -6252,6 +6254,7 @@ var DATA_URLS = `
 2015-06-20	https://news.tvb.com/sc/1060213-最熱端午多區賽龍舟健兒市民做足準備
 2026-10-13	https://news.google.com/rss/articles/CBMijgJBVV95cUxPR0dVNXlwZ0JVaUZ0UFhuN011Q2t4RUNBNXRyVmR6X2JfNjRaMVBLQ3A4VEczZlhmS3hJT2ptX0IzZ1NhNGdHYnhqU01UUTBFYm5rcnB3blJCUDEtbHh2RnF5ZVdNT0RvTEszTDRPSW1hdng0MU0wUko2ZUVva2pYUHI0c09yYXZZUlZ5QmctR2s0NmhfRWs5VHBkSWtzQTRHM2R4OVZ0UVpROHJiN3BuX0RtQmpwU3c5UTAyeXpqWndzYkVaQTlqSnNpcUh4MFM0N1dYUmhYQXJUSnhmdTNTT2dZZGdlWktFeUVORl9BSWVNNERuNHhXQzVvOGdtSmdwRHBBdGRzVjRySV9OV2c?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMiW0FVX3lxTE8weC0zN1dqS281eDlIbE12S19ydVRuVC1fYmdBUDh6QXI0VndDR1hhNDRmcndIOUtZbUlGZkoyVEhqX3F0UmhVTlVNbnpUdFBQRnU4UDdqa3JLa00?oc=5
+2026-10-13	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pOVUwZ1NJNmVHVmRKRmZwU0hZc3BIUU9ubGIwOFE3VF81MXgxbHkydVhPZDZjWU41N3dHZ0xjNm1nQnRYaFlzYzZoUEpET2ppN1dtR1BR?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3p4YVl1bWkwdDh1azVpTnRQaXo5RFlUVVNDWmhORTRqbWw1cEZ0T1g2VXJLN01lbm9YQ3VJaXQ1cU1pNWdEVExiYWpLbWhsUzQwNE1WUm1oMDg4czJiS1VvNnFJTllTbVE2MFFSOUdldlJSd1ZDbHhoOS1zdE5lajJBNzE5djRDLVZ0ZVhSNmhSR1JkbS1MRlY5RWE1MWhlZjZhazVNdlcxS2ZxcWfSAa4BQVVfeXFMTVd6eGFZdW1pMHQ4dWs1aU50UGl6OURZVFVTQ1poTkU0am1sNXBGdE9YNlVySzdNZW5vWEN1SWl0NXFNaTVnRFRMYmFqS21obFM0MDRNVlJtaDA4OHMyYktVbzZxSU5ZU21RNjBRUjlHZXZSUndWQ2x4aDktc3ROZWoyQTcxOXY0Qy1WdGVYUjZoUkdSZG0tTEZWOUVhNTFoZWY2YWs1TXZXMUtmcXFn?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMiekFVX3lxTE1uaVFvdFVmR3ZxQ0F3OFotcjhkcF81WmhrUU5ObzZQX2RpcWtfdUhobFNVMmtGeW1jY1JCaEE1bG8weHZHdmQwOGR1NDRVRm41bzE4TnVnenVDLTlmSVQwM3F1UGpCQTdzSU93YjN2TnVBVEVWOElpMUhB?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMiakFVX3lxTE10VXY0TEhUSkFNajc1eVlFX0NpRjZqaWROQ3FQT0NWMU40d3FKOWdsUkc4ZGVnX0IxRk5pSUxEV2QzajlPQVNoZTBXRlA0OS1NN1A0M2toRkVjS0JiWmNfQ25TT3N5NjltZkE?oc=5
@@ -13437,6 +13440,8 @@ var DATA_URLS = `
 2015-10-15	https://www.setn.com/news/100450
 2015-08-21	https://news.tvb.com/en/1055611-醫院外暈倒亡事件報告提過程出現溝通問題
 2015-03-20	https://news.tvb.com/en/1067125-女子推拿針灸後暈倒亡高永文情況罕見
+2026-10-14	https://news.rthk.hk/rthk/ch/component/k2/1873874-20261014.htm
+2026-10-14	https://news.rthk.hk/rthk/ch/component/k2/1873865-20261014.htm
 2026-10-14	https://news.rthk.hk/rthk/ch/component/k2/1873838-20261014.htm
 2026-10-13	https://news.google.com/rss/articles/CBMicEFVX3lxTE1TbXZVUmkxNU9VdHpmWTJiVV85c1d5dGNyN19SS0lBVW54bi1VQUI5WlNHam1QbnRLWkZudHViY3hFVVV6SzJJd2pNcjBKdkVKOHo3VmY2ZFZ2b2NjeE9BVDlMY3k3eTk5YXF2SHFCbGw?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMicEFVX3lxTE9RQVgzSWZXN1BoZHZTUk9VOTJJdm5LLXY4dDRtY3JRQlowRURZRzNyU0dnMkszU0V5dlNjWWpONWYtQVBPVDRvcE9TYmdqb2FUSmR2YXVFVzlzWmE5TXA3NU11QTlCMjZ2aGYzRFFfbVM?oc=5
@@ -16649,11 +16654,14 @@ var DATA_URLS = `
 2017-02-03	https://www.setn.com/news/221453
 2017-01-26	https://www.storm.mg/article/217221
 2016-02-13	https://news.pts.org.tw/article/316774
+2026-10-14	https://news.google.com/rss/articles/CBMiekFVX3lxTE5rcUJ5QWNIR09PZkJneWpRdnBSSU9peWJpVmNwclNBbkpIam85clVvZmMxeERLSmY0ZGp3cDZVV0VzdXpjb3VPczVMczB6VDRCV094REFhX3RzOXBLOFlsdEF6RGNTSGdBcF9ObTJ1R21IWkFwM25XMjZR?oc=5
 2026-10-14	https://news.ltn.com.tw/news/society/breakingnews/5605424
 2026-10-14	https://news.ltn.com.tw/news/society/breakingnews/5605414
 2026-10-14	https://news.ltn.com.tw/news/society/breakingnews/5605400
 2026-10-14	https://news.ltn.com.tw/news/society/breakingnews/5605453
 2026-10-14	https://news.ltn.com.tw/news/society/breakingnews/5605225
+2026-10-14	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PWUhNSGk0NU90R3ZLVU16ekdwTlFQWFRiclpVWWstcTJtNkI4OXM1YW5yRG0zNzc3VmFYY1FvdzJkR093X1d6YndpbHdqcExMRTVpLV9XbWd6eHNLSVpHU2lR0gFnQVVfeXFMTy1RcHJQeHpVX3V3QTNianczZmVDZVh3VmlwYW1HdHZtZ3lCSEdjQzMyYzNJMzhnUGFKNjR3dy1JbEpId29yTDlmSjlHQnIzRXRjNmtFS1gwM1g0UHpfRkFQWV9EMzBMSQ?oc=5
+2026-10-14	https://news.ltn.com.tw/news/society/breakingnews/5605457
 2026-10-13	https://news.google.com/rss/articles/CBMiwgJBVV95cUxPVml2Q2w2UjNBUU81cGw1SDByb1BFYnQwcHl0MmdpTVlBckl6RHNsX284VVFBZmR2V0lsX3p5RC0yQWxCUEVlOWFPekQ0ZVRiVUtpZG92T0JzX2hsblhBaFhHY21uVU5GSDAxQ0hhNjRuYjI2eEIyNkxIYjFkR2kxaS1EUFowM0d6NThLcVNZTnRCZFRvT1Z6cWdnNFBCZkFWZWhlczJsM2pMNVFYNGNwbDRyMUgwR1BWQ3c3QUFiWEpIUzBXVnBYUU5lcjZuVEJ6NUNCX213eVdTVWE0cHY0Q0tJNENaWWFFa185VTNzc3BjZWZfeVN2S052Vnl3V0Zsbm8xcmdGTXZFY25WalNXOF9nUHhWTEJDTTRpdG5oNlhTdDF4VXVvY0ctdGRDRTRSSzVEZ2xMcjd5QnNQaDYwVTdR?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMib0FVX3lxTFBJLXdwTEpVX1A5YVFIa1Z0UnpjMWRMNjZiY2hEelNxNW0xRU5KZ0NvYWtiMjA5TXRmUTF3WDVxYUpqT0tCOWdkR1Y2LVJCRnBhaFhHTDd1N3pLR05LUy1oTkhOaDN6RV9ITTZrMjhNUQ?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oWlBTNVpJaW9ET1RUVDBUTXZGc2xFMXhTYWZ3OEZzUzJFUjdfUmRDcHJhQjM2cUxzQV8zd3BiRkYyd1BXTnJwQ3ZHVzRPTzVQSmfSAVJBVV95cUxNaFpQUzVaSWlvRE9UVFQwVE12RnNsRTF4U2FmdzhGc1MyRVI3X1JkQ3ByYUIzNnFMc0FfM3dwYkZGMndQV05ycEN2R1c0T081UEpn?oc=5
@@ -16661,6 +16669,7 @@ var DATA_URLS = `
 2026-10-13	https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtfX3JuWFdNRzlwb01fQjFNN1l0d0JpT1JlUmsxdnQxc0x5ZHZjRG9tSXZSdzZIUGhHb3lnbFd4YmNQUWEzdU53RVBBOTJQX3dicUJTU2I0U1E1ejUweE5uSnZhZlprcjMxclVjLXJEaXJSbEFyUE5QZnNLNFV3SktwY001MGF1OENZLVBvd2c4ZjEzNm91WjNya1ZuanF3NmdxMWVEZUgzX2lNWGc?oc=5
 2026-10-13	https://news.rthk.hk/rthk/ch/component/k2/1873754-20261013.htm
 2026-10-13	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lWGg5NjVyQnVQcEw1WG8zRDR3ZWNEdTRxWC1LVEJDUlg3MUZTZDFhM1FCeW5XbEl4Ums2d3ZuUW1ldzNta3ZfeGtGVEU1TmRs?oc=5
+2026-10-13	https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvQUUtWkFaMG5TZFBrVy02YWRVRThEUW1uellNUWNCQlVZUXJVb0tIUXAteHlhaHp2U2lCVHRxZ3hPSURwbVB3T2N2M2hCZW5Sb3dhbTlvTlk5OG9MOUJR?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bFMwT0NERzZFeGdHeGFEclRJXzh0UUV5NFJYbkpibHJmeFhrWmMzU1JVMXR6QnBUZDhsWFlfcS1KOVgxeTBxNmZEVUdzTFQtR3prSEdBWnZaMkVVMGloWDdBdUo3OTBGUm4yZ2ZBM0RoTm0taHNNTHVB?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMi9ANBVV95cUxPYzEzOWFqU1JoRHI4Y0NsZHE1OHlUblFZSmkwY2dsUTBzcGtIVnUxbEVuNno5aGF5SG1JblhVcHpmTGFXUDRvakFUZkpLaTByS25zMF9LMGdUTjJfb3ZUSmh6QkhnNjgxNm96OVE2Nl9abGhUUm1sdHJ3Y0wtSVV0ZzE4eUtkLVZVTnEzWDJVa1hramtXQXd1R09rY1Nwb09zazZoaHJuakhkamhKM2xaY0hyeDRpV0t5TF9VX1JMV3BBLUVSLTRaRWFWLXRmeVZBUFVtTU5TelpLYzlrNWlFdVhGWXdxSDc4bzhrWDliUDNlVjkybWFBSzdRVFB6UDJrVGtMdHpEY2paZ1B5QlZoQmRYRWVCbzJpSGVNd2dDbVhBNUFJWFFZaF92REoxMXoxOWJzczBHcVJ2V051VkdqS2JEUWc3Q1R3aHVreFU1UU5ZVGR6a1BpUUhDdXpscTB6RmVYRDJjTXk3V01UZHNBeUFJTWJJa2hLR01ZLVhNNms1VEE0NkkzWThwaEZKR3Q4UHpnaE84ODBMLU5yRDQ4YmZLZmVvNno0VXJLaDUwZTlWXzAySWdPUXBtYnRjMTd6NGcxUVdULWpZSVJWazhNVTNwTGJXdVdxZ2diRjBScUhzQ0VPWEY1aUJCbmJDOHpRcTdlVQ?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeTcyWFB4Y255NkJSY2E0bl9lMGxkQmE4cUNGRDJkSk15RDJDYXpNMThSNE9oTm1laEloODl0VG94YUZPV1lFcjFiMl9tU2FGTTV6WHBtejJ0QUlDTHpkWUtkYkFFRDRUM3QwTnQ1a3UwdnhuZXAw?oc=5
@@ -16770,6 +16779,7 @@ var DATA_URLS = `
 2026-10-06	https://hkcd.com.hk/hkcdweb/content/2026/10/06/content_8778673.html
 2026-10-06	https://www.stheadline.com/realtime-world/3622988/美喬治亞州街頭派對後爆槍擊-釀2死35傷
 2026-10-06	https://news.pchome.com.tw/internation/m00361/20261005/index-79118158952430361011.html
+2026-10-06	https://news.google.com/rss/articles/CBMibkFVX3lxTE51V181eHo0Q1g4QzF1U3RjeElBa3pGTkVGbmlhWXlpOFdoaktSejlqX3p1cVpGb1dFdXRXVlY1bGY0dUtvQTFNcFBNOWN4M0xVZUJZbHpoVUVxYWQtSnpKRmdBa0tReHMyOGNYY3BB?oc=5
 2026-10-06	https://news.mingpao.com/ins/國際/article/20261005/s00005/1791169395319/短片-西班牙暴雨成災釀兩死一失蹤-多處被淹浸
 2026-10-06	https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHVuZ1VwMmlGcDlYTnFQY2VVSjRkZ0lHeHBkME1OR2JKU0ZqSGREUjBKWW1GY2xiamEzR0EtaUc0bXhwNmRLazdka2hVMWRGN2NJT21sQkFwNFJkWTNodVFfSnFOR0tTeEtxbFRoWENhbGVuZUFmRTl5R0Q3OFg0X1ZyU1J1U216d0taYks2OTlxRmFjbjZ0WENoV3puUGs?oc=5
 2026-10-06	https://tw.news.yahoo.com/%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%8A%97%E8%AD%B0%E6%BD%AE-%E7%A4%BA%E5%A8%81%E8%AE%8A%E8%AA%BF-%E6%88%90%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81-112307761.html
@@ -17396,6 +17406,7 @@ var DATA_URLS = `
 2026-07-24	https://www.businesstimes.com.hk/articles/329923/sophos-%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6-%E8%BA%AB%E4%BB%BD%E7%9B%9C%E7%94%A8%E6%94%BB%E6%93%8A-%E5%8A%A0%E5%AF%86%E8%B3%87%E6%96%99/
 2026-07-23	https://www.hk01.com/article/60372946
 2026-07-23	https://www.weekendhk.com/entertainment/非份之罪-劇情-結局-吳偉豪-危險遊戲-16-20集-3466845/
+2026-07-23	https://news.google.com/rss/articles/CBMib0FVX3lxTFB4d2JUck0wWV9OaFNpRnQxa2hRUFdTZkJkMUYyYTM0b2d4dXItbEc5ZDhEVmhuUkNyX0t5SWxGLUR2TTh0OXhXa05xNlFCYldQc1ZreGt2RlB2NXJQSTBmUlBpczlxYWZxMWVSS2dobw?oc=5
 2026-07-23	https://news.rthk.hk/rthk/ch/component/k2/1863269-20260723.htm
 2026-07-23	https://m.4gtv.tv/article/2026072311000004
 2026-07-23	https://www.orangenews.hk/hongkong/VQBD8Gh/城巴7號線疑上層座椅藏針-女乘客臀部被刺傷送院.shtml
@@ -17433,6 +17444,7 @@ var DATA_URLS = `
 2026-07-17	https://www.nmplus.hk/entertainment/非份之罪-劇情-結局-吳偉豪-危險遊戲-16-20集-1648161/
 2026-07-17	https://www.881903.com/news/international/2640768
 2026-07-17	https://www.rfi.fr/tw/中國/20260717-重慶彭水山體滑坡-至少8死34失蹤
+2026-07-17	https://news.google.com/rss/articles/CBMijwNBVV95cUxPWGRaekgtZHVxRlY2Y044Q0dmeldqb2pBR2lHTE1GXzlMcVhaWUw1QWVTazFYSmhtSWg4WERqc3lrTW9Ja2tsYzhkcGdtY1Y0REhRUV9qV285MFMwWjhBemM4S3E4OTRWN0JUTDljWkUwU05aeXAwNUlKcFFTODVwS1kwVFRKTmt4dXRsdVhGcE1JVDRHUWNQRkYzR0pNN0ZuX3htSWZIVjdpMDlYMS1KR3d3ZmZGNUVMVGRqZk1sNHVORmFfYk5QNDY1WTgwRUdmS3ZVeFV0dG9vRURQbFkwQ05JT2xmcGVxUXhGemMxNV9jR0dEbHFGcFJ4RzhZSUVhVHlCckdTR1I5U1lJdWtfcWNYSHNXZElmeDlFekVoajhYU1FyT2hLWVN3QlUtNGpLOGVLam90R29aTU5IaHdYSlM4ZUpGTU53SGoxcDhfUjY3MEFRaDlmRm9EME5JR0ZMVDlBMjBtZTZhUktEQjdWNHZGWXdCQy1uR2ZoMmZsRUZ3UTl6RGl4Tk9PcjRWdms?oc=5
 2026-07-17	https://news.mingpao.com/pns/中國/article/20260717/s00013/1784219947022/疑爭產反目-台教授30刀砍斃連襟-一度拒捕-警開4槍制服
 2026-07-17	https://hk.on.cc/hk/bkn/cnt/news/20260717/bkn-20260717150537334-0717_00822_001.html
 2026-07-17	https://news.pchome.com.tw/society/ctinews/20260717/index-78429699596920309002.html
@@ -26369,6 +26381,9 @@ var DATA_URLS = `
 2015-02-12	https://www.ettoday.net/news/20150212/466837.htm
 2015-02-11	https://www.bbc.com/zhongwen/trad/china/2015/02/150211_taiwan_prison_hostages
 2015-01-31	https://www.setn.com/news/59592
+2026-10-14	https://news.google.com/rss/articles/CBMi9gFBVV95cUxPenFScGFaODQ1eXozRzAxc01zbzNvaEtDajZha1o4MjktMlRaVGdWTHhXOXNuLWlHb2s2U0k2R0loejFRM2ZGSGZOTUlHU2NEbmdPT183MEs5R2VnWkNEb1NxdHRQZ3dnMVFmbkE3V0p0VDNlNVk3b1dwQ2ZJSGlkYm5aZG1IVkNydUZnSDdZSkg3Mkp6TVdCdl82YnRuaVVnWVFRVVJxVjZhRGxfcHUzQmhNU1d1cGwtdFAzTHRDbHZyNE4zN2h1aDB3d3NTdTAwb29LRndydWc1bW0wX09MQkd6Ukt4VnRqdkpDczFHeWt6Z0l4RHc?oc=5
+2026-10-14	https://news.rthk.hk/rthk/ch/component/k2/1873861-20261014.htm
+2026-10-14	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MZkk1Zm5yREFYcXVXV005VVYtVXZsTlE3Q21WYWJVc2J1Rmx3ODRoYjJOTk5fRU0xUHR6TUdoTjR1ejdGb05pLVV3Sy1XX2ZF?oc=5
 2026-10-14	https://www.ettoday.net/news/20261014/3254161.htm
 2026-10-14	https://news.ltn.com.tw/news/society/breakingnews/5605381
 2026-10-14	https://www.ettoday.net/news/20261014/3254153.htm
@@ -28446,6 +28461,7 @@ var DATA_URLS = `
 2016-07-07	https://auto.ltn.com.tw/news/5776
 2016-07-04	https://www.setn.com/news/161160
 2015-03-12	https://news.tvb.com/en/1067656-葵涌車禍兩國泰機師亡警循多方向調查
+2026-10-14	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tcFJXUlMtODVvTWNOXzNLdHo2SlNYZXJRODg2OXd1TktzTUNtdWItcktaOU1kbDZZa095cERYQld1VlNTaXVCUVU0LVEwTzRGTEE?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MWDVkTm0zekRvYUhVQ3BqTWtvOG9KaU5RYjJKRXNOcG43MS1uU1ZBX201azRRNTF5T2FMdjFxYlFKU0lkYlhkSEdPNHNyaFBRSUZkOG94TDNzSUlDMGMzM3dMN3k?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1huYnBRak1kUmlKQUhKT3pmdmFHX09YUUJGamk3VnBLcWZZQmxBWHMyZ21vMmRpVXo0alo4TWxOX2pFNVhiOUlvVUFodl9QX0d4aHZlVURBbXZjYkpBLTlkTnkxR1dRYUh4VDdPbjdLSkVlekYwRzBxbmplaklqajRwRzQ5d1V4RmdYRWlCNmI0VlUtVW50bDJEWmI?oc=5
 2026-10-13	https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxS2FHTnVmc0FuMjdtUFg4YlBDUzVINzZwV2xaTE50VTYwVGJuYXlHUWhiOVA0NC16dHJxUHBtVlZHYlNuODFyRXhIX0pjd3I4Nnk0eEp6U21xUnRtVmfSAUtBVV95cUxOLVVFaDVJcWI4aVcyTm5JNG5vLVMyUjhrWmI3b0oyTjFDLXh1cjR2N3F1YWN4V1VwSkZBNGJIXzBlbEstVF9mbzZyVUU?oc=5
