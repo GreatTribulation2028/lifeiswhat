@@ -1,4 +1,4 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3566 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3569 條
 var DATA_SUICIDE = `
 2026-10-13	慟！桃園女租客最後落單畫面曝光 割頸男竟曾任救護車技術員	https://news.ltn.com.tw/news/society/breakingnews/5604166	未分類
 2026-10-10	揚言尋短驚動警消破門！女子反咬房東謊報求償72萬 二審仍打臉	https://news.ltn.com.tw/news/society/breakingnews/5601742	未分類
@@ -223,6 +223,7 @@ var DATA_SUICIDE = `
 2026-09-10	港大調查顯示去年自殺個案減至976宗 15歲以下男童個案急增至14宗 促媒體網民慎發資訊	https://www.stheadline.com/society/3613706/港大調查顯示去年自殺個案減至976宗-15歲以下男童個案急增至14宗-促媒體網民慎發資訊	未分類
 2026-09-10	港大調查指15歲或以下組別自殺率顯著上升Band 1A學校佔比最高| 獨媒報導	https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E6%B8%AF%E5%A4%A7%E8%AA%BF%E6%9F%A5%E6%8C%8715%E6%AD%B2%E6%88%96%E4%BB%A5%E4%B8%8B%E7%B5%84%E5%88%A5%E8%87%AA%E6%AE%BA%E7%8E%87%E9%A1%AF%E8%91%97%E4%B8%8A%E5%8D%87-band-1a%E5%AD%B8%E6%A0%A1%E4%BD%94%E6%AF%94%E6%9C%80%E9%AB%98	未分類
 2026-09-10	港大研究：去年自殺個案跌 惟青少年自殺率升 葉兆輝籲多關心學生 (16:00) - 20260910 - 港聞	https://news.mingpao.com/ins/港聞/article/20260910/s00001/1789026361092/港大研究-去年自殺個案跌-惟青少年自殺率升-葉兆輝籲多關心學生	未分類
+2026-09-10	港大研究指去年香港自殺率下降 促關注青少年精神健康	https://news.rthk.hk/rthk/ch/component/k2/1869597-20260910.htm	未分類
 2026-09-10	港大指本港整體自殺率下降 但青少年群組有上升	https://www.881903.com/news/amp/local/2649307	未分類
 2026-09-10	昔日「浩劫灣」 灝景灣初代業主捱過沙士嘆當年很多人負資產輕生一街之隔長安邨居民另有睇法︱董建華辭世	https://www.stheadline.com/society/3613737/昔日浩劫灣-灝景灣初代業主捱過沙士-嘆當年很多人負資產輕生-一街之隔長安邨居民另有睇法董建華辭世	其他方式
 2026-09-10	15歲或以下自殺率逆勢升 專家促予學生更多空間 籲勿分享自殺資訊	https://www.bastillepost.com/hongkong/article/16739840-15歲或以下自殺率逆勢升-專家促予學生更多空間-籲	未分類
@@ -2489,6 +2490,7 @@ var DATA_SUICIDE = `
 2025-09-17	馬鞍山六旬漢樹上自縊 途人報案證不治	https://hk.on.cc/hk/bkn/cnt/news/20250917/bkn-20250917183623930-0917_00822_001.html	未分類
 2025-09-17	珍惜生命｜馬鞍山白石沙灘男子樹上自縊亡 途人發現報案	https://www.hk01.com/article/60277472?utm_source=01articlecopy&utm_medium=referral	未分類
 2025-09-17	兒童讀物羅伯特·芒施（Robert Munsch）的作者選擇因輔助自殺而死	https://www.arch-web.com.tw/世界新聞/兒童讀物羅伯特·芒施（robert-munsch）的作者選擇因輔助自/58206/	未分類
+2025-09-17	「三生三世十里桃花」于朦朧墜樓身亡 于母公布死因 稱「飲酒意外墜樓」	https://eastweek.stheadline.com/focus/14419/%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E5%8D%81%E9%87%8C%E6%A1%83%E8%8A%B1%E4%BA%8E%E6%9C%A6%E6%9C%A7%E5%A2%9C%E6%A8%93%E8%BA%AB%E4%BA%A1-%E4%BA%8E%E6%AF%8D%E5%85%AC%E5%B8%83%E6%AD%BB%E5%9B%A0-%E7%A8%B1%E9%A3%B2%E9%85%92%E6%84%8F%E5%A4%96%E5%A2%9C%E6%A8%93	未分類
 2025-09-17	AI Chat Boot談話後，死於自殺的青少年的父母向國會作證。	https://www.arch-web.com.tw/體育新聞/ai-chat-boot談話後，死於自殺的青少年的父母向國會作證/57862/	未分類
 2025-09-16	邦咯岛200公尺山上 青年疑大树上吊自尽	https://www.orientaldaily.com.my/news/society/2025/09/16/762044	上吊懸吊
 2025-09-16	秀茂坪邨男子墮樓亡 死因有待調查	https://hk.on.cc/cnt/news/20250916/bkn-20250916165156971-0916_00822_001.html	跳樓墮樓
@@ -3069,6 +3071,7 @@ var DATA_SUICIDE = `
 2023-01-27	珍惜生命 | 中環堅道女子墮樓亡	https://www.hk01.com/article/861098?utm_source=01articlecopy&utm_medium=referral	跳樓墮樓
 2023-01-25	香港女子移居英國 疑憂陷財困自殺亡	https://hk.on.cc/hk/bkn/cnt/news/20230125/bkn-20230125203505572-0125_00822_001.html	未分類
 2023-01-25	五旬婦大埔村屋留遺書仰藥 昏迷送院搶救	https://hk.on.cc/hk/bkn/cnt/news/20230125/bkn-20230125025551820-0125_00822_001.html	未分類
+2023-01-24	身穿紅衣帶著一把刀中年男大樹上吊自殺| 北马| 国内 | 2023-01-24	https://guangming.com.my/%E8%BA%AB%E7%A9%BF%E7%B4%85%E8%A1%A3%E5%B8%B6%E8%91%97%E4%B8%80%E6%8A%8A%E5%88%80-%E4%B8%AD%E5%B9%B4%E7%94%B7%E5%A4%A7%E6%A8%B9%E4%B8%8A%E5%90%8A%E8%87%AA%E6%AE%BA	上吊懸吊
 2023-01-24	身穿紅衣帶著一把刀 中年男大樹上吊自殺	https://guangming.com.my/身穿紅衣帶著一把刀-中年男大樹上吊自殺	上吊懸吊
 2023-01-23	珍惜生命｜青衣長發邨17歲男子墮樓亡	https://www.hk01.com/article/860024?utm_source=01articlecopy&utm_medium=referral	跳樓墮樓
 2023-01-22	珍惜生命｜沙田美田邨女子墮樓亡	https://www.stheadline.com/breaking-news/3190949/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E6%B2%99%E7%94%B0%E7%BE%8E%E7%94%B0%E9%82%A8%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93%E4%BA%A1	跳樓墮樓
