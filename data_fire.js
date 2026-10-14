@@ -1,6 +1,16 @@
-// 火警 | 由 build_news_js.py 生成 | 共 1133 條
+// 火警 | 由 build_news_js.py 生成 | 共 1165 條
 var DATA_FIRE = `
+2026-10-14	港鐵藍田站月台有設備冒煙 觀塘綫列車不停藍田站	https://news.rthk.hk/rthk/ch/component/k2/1873851-20261014.htm	未分類
+2026-10-13	高市綠能工廠大火 環保局最重可罰500萬	https://news.ltn.com.tw/news/society/breakingnews/5605290	大火火警
+2026-10-13	觀塘綫列車服務逐步回復正常 藍田站路軌旁火警已處理	https://news.rthk.hk/rthk/ch/component/k2/1873791-20261013.htm	大火火警
+2026-10-13	港鐵觀塘綫藍田站路軌旁發生火警 藍田站正關閉	https://news.rthk.hk/rthk/ch/component/k2/1873787-20261013.htm	大火火警
+2026-10-13	港鐵藍田站路軌旁火警 觀塘站來往調景嶺站暫停服務	https://news.rthk.hk/rthk/ch/component/k2/1873784-20261013.htm	大火火警
+2026-10-13	港鐵藍田站一度發生火警 有乘客稱見人流向出口走意識有事發生	https://news.rthk.hk/rthk/ch/component/k2/1873798-20261013.htm	大火火警
+2026-10-13	港鐵稱藍田站路軌旁火警疑絕緣體因短路起火	https://news.rthk.hk/rthk/ch/component/k2/1873804-20261013.htm	大火火警
+2026-10-13	桃園25歲被害女遭活活燒死? 法醫高大成揭關鍵線索	https://news.ltn.com.tw/news/society/breakingnews/5605264	未分類
 2026-10-13	慈正邨正安樓一個單位清晨發生火警 一名男住戶報稱臉部燒傷	https://news.rthk.hk/rthk/ch/component/k2/1873682-20261013.htm	大火火警
+2026-10-13	廢棄物達5公尺高！高雄岡山綠能公司大火 黑煙竄天際 ...火勢10點撲滅	https://news.ltn.com.tw/news/society/breakingnews/5604997	大火火警
+2026-10-13	印尼森林大火空污肆虐 東協下月將商討跨國霾害	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWTm43NkE3blRlcnJuREFaWEh3LVZoZ0hrNkZmTzVqQlo0QVZ0M3B2S00zTDl0QXhaVHp1Z0JTZGtUZVJJX0dLWFYxRzFya3N6ZDBHeU1HQXkwdnQzMHJKWg?oc=5	大火火警
 2026-10-12	宜蘭冬山鐵皮屋倉庫火警 廠區一度全面燃燒	https://news.ltn.com.tw/news/society/breakingnews/5603798	大火火警
 2026-10-11	（有片）沙特首都利雅得機場再遭襲4號航站樓起火- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE82ZnJXUldxbUFfVmJGTlBxaTF2RnhEVi1NZW55bVVvemJWUDFnamVIY1Zab29Ua0FTbE5MUUNCTk41WWw5ZVYxWEhTZm9XVmVjdTNZcWt3V1JOeXpmTTl3WW94UkV3SEYyUUc2UjRpZzdUQVUyUlRGWVp3?oc=5	未分類
 2026-10-11	苗栗苑裡垃圾掩埋場大火濃煙沖天 消防急灌救	https://news.ltn.com.tw/news/society/breakingnews/5602732	大火火警
@@ -35,6 +45,7 @@ var DATA_FIRE = `
 2026-09-26	台南佳里撞球場不明原因大火 消防員打火兩小時撲滅器材設施付之一炬	https://udn.com/news/story/7320/9778510	大火火警
 2026-09-25	香港宏福苑大火後 樓宇大維修貪汙投訴年升187%	https://www.worldjournal.com/wj/story/121341/9777208	大火火警
 2026-09-25	連假首日大火！新莊金紙店、早餐店陷火海 14人送醫	https://tw.news.yahoo.com/%E9%80%A3%E5%81%87%E9%A6%96%E6%97%A5%E5%A4%A7%E7%81%AB-%E6%96%B0%E8%8E%8A%E9%87%91%E7%B4%99%E5%BA%97-%E6%97%A9%E9%A4%90%E5%BA%97%E9%99%B7%E7%81%AB%E6%B5%B7-14%E4%BA%BA%E9%80%81%E9%86%AB-060400695.html	大火火警
+2026-09-25	快訊／中秋節悲劇！基隆民宅4樓起火「全面燃燒」 獨居翁葬身火窟	https://news.google.com/rss/articles/CBMiT0FVX3lxTE14VXU3aEJDeWhfV0JHNmU4dkZDUnBPdmp0Zm5rXzZZNDRSM05aZU9qRW14M3Z2M0oybHN1VjFkVi0xMDR6eFFHeG5ISF9zT2c?oc=5	未分類
 2026-09-25	叢林大火地圖焦點：澳洲的春季火災季	https://www.iqair.com/hk/newsroom/bushfire-map-spotlight-australia-september-2026	大火火警
 2026-09-25	中秋連假首日 新莊金紙店和早餐店大火14人送醫	https://udn.com/news/story/7320/9776995	大火火警
 2026-09-25	Muse大火 扎克伯格躍升為全球第四大富豪	https://tw.tradingview.com/news/gelonghui:d527e912bacdf:0/	大火火警
@@ -52,13 +63,17 @@ var DATA_FIRE = `
 2026-09-21	佛山順德紡織廠房昨起火 至少8死1傷	https://www.stheadline.com/realtime-china/3617615/佛山順德紡織廠房昨起火-至少8死1傷	未分類
 2026-09-21	​廣東順德紡織公司火災已致8死 目前仍在搜救中	https://www.orangenews.hk/china/VVp4wSW/廣東順德紡織公司火災已致8死-目前仍在搜救中.shtml	未分類
 2026-09-20	轎車突陷火海成火球 消防撲滅驚見車內1人死亡	https://www.taiwanhot.net/news/1148744/%E8%BD%8E%E8%BB%8A%E7%AA%81%E9%99%B7%E7%81%AB%E6%B5%B7%E6%88%90%E7%81%AB%E7%90%83+%E6%B6%88%E9%98%B2%E6%92%B2%E6%BB%85%E9%A9%9A%E8%A6%8B%E8%BB%8A%E5%85%A71%E4%BA%BA%E6%AD%BB%E4%BA%A1	未分類
+2026-09-20	台中市青年高中對面工地2樓起火燃燒環局警示並監控空品變化- 股市爆料同學會	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QR1RpNzFhQjlISWE1TGVSYVg1TGlXbVY3QkRzcXNCRTFqTVJqSmtDWHhCMU1PTG1nTUU0bUlrS3B4WTBTRjRhbFJ3eW41V3J5U084TjhBWTc?oc=5	未分類
 2026-09-20	台中市青年高中對面工地2樓起火燃燒 環局警示並監控空品變化	https://udn.com/news/story/7325/9766669	未分類
+2026-09-19	快訊》延平北路民宅火警！磚造1樓起火燒燬雜物 疑縱火警帶回1人	https://news.google.com/rss/articles/CBMibkFVX3lxTE1NT3BTbF9ITzhqVG5DcVI0ekR0N3ZUWnRiWFhNMmtjVFQ0R25vS0thTkRzU2JCMUdrRGpOYVFLalE1T1hGTzRMVWxIS0NYc3RFMUJUZXJfLXQwbVBxQVVNVnNWdzFWUXZhdHVVSEZn?oc=5	大火火警
 2026-09-18	廟口商家二樓大火 烈焰衝天	https://tw.news.yahoo.com/%E5%BB%9F%E5%8F%A3%E5%95%86%E5%AE%B6%E4%BA%8C%E6%A8%93%E5%A4%A7%E7%81%AB-%E7%83%88%E7%84%B0%E8%A1%9D%E5%A4%A9-124526284.html	大火火警
 2026-09-18	印尼森林大火泥炭地悶燒 紅毛猩猩被迫離開棲息地覓食	https://tw.news.yahoo.com/%E5%8D%B0%E5%B0%BC%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB%E6%B3%A5%E7%82%AD%E5%9C%B0%E6%82%B6%E7%87%92-%E7%B4%85%E6%AF%9B%E7%8C%A9%E7%8C%A9%E8%A2%AB%E8%BF%AB%E9%9B%A2%E9%96%8B%E6%A3%B2%E6%81%AF%E5%9C%B0%E8%A6%93%E9%A3%9F-120716046.html	大火火警
 2026-09-17	雪州沙登Desaminium花园 森林大火 - 国内 - 即时国内	https://www.sinchew.com.my/news/20260917/nation/7850883?variant=zh-hant	大火火警
 2026-09-17	佛山高層住宅火災3死 10黨員幹部被追責	https://hk.on.cc/hk/bkn/cnt/news/20260917/bkn-20260917140412017-0917_00822_001.html	未分類
+2026-09-16	高雄市區透天民宅竄濃煙 2、3樓起火畫面曝	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBseDJCYXRZS2paNmYtdnBzWm0zcmNQcGlGSUVTQy1ZbkR5Qm9LSTNOdjlnSTlkSWFtbkZoZXBpTFVVM2g1UFJIcmZHS01DNGlJSllhcVBqQXZ1OVVwemhxWkpSSG9HZDA20gFuQVVfeXFMUFZTZ1RRU2J3U3c5azltUEM5VVZYVFJGWGUwSDBjNktncXdVaVM0ZnpsS2RwWWlFTmhmR01xOFdHWFdBc0JFWEVPVUt6RWE5ZXdyN3Z0YjdRLU8zeWRXQVRtVlZxbGV1WHM2RTJTVGc?oc=5	未分類
 2026-09-16	涉宏福苑大火被控誤殺 工程顧問鴻毅清盤 (10:50) - 20260916 - 即時港聞	https://news.mingpao.com/ins/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB/article/20260916/special/1789526576951	大火火警
 2026-09-16	施政報告2026｜消防擬成立「風險管控隊」應對棚網樓起火	https://hk.epochtimes.com/news/2026-09-16/64108232	未分類
+2026-09-16	新／汐止辦公大樓火警 7樓大火狂燒	https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnSWlxcF9Cb19iQlpxVzVuN0oyUU4xOG40SExTWEpYVXdnYVoyUjBzdHRpZFM0eGY2aGIwa2ppNWhZaGVjVVg1Z1Q2Q1NIQ0UyclBvZ21haWFMZ2Ju0gFiQVVfeXFMTlZqYmNqT0stT1B5Vm54c2hMVkl1UW1wdkNOSEJkd3VyZFpDTm1sSWJGcy1fZ2xPVzFoWFF3OE9ua1ZBUFJxZk1XR3FfX091NEpTOVFXemZOQ09VWjhpOE5xaFE?oc=5	大火火警
 2026-09-16	快新聞／快戴口罩！台大醫院旁三級火警「臭味飄超遠」 居民嚇喊：好臭	https://www.ftvnews.com.tw/news/detail/2026916W0701	大火火警
 2026-09-15	近11年規模最大! 印尼森林大火"空污重創新加坡"	https://tw.news.yahoo.com/%E8%BF%9111%E5%B9%B4%E8%A6%8F%E6%A8%A1%E6%9C%80%E5%A4%A7-%E5%8D%B0%E5%B0%BC%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB-%E7%A9%BA%E6%B1%A1%E9%87%8D%E5%89%B5%E6%96%B0%E5%8A%A0%E5%9D%A1-100530065.html	大火火警
 2026-09-14	日本自衛隊將赴印尼撲滅森林大火：首度在海外執行滅火任務	https://www.nippon.com/hk/news/yjj2026091300285/	大火火警
@@ -102,6 +117,7 @@ var DATA_FIRE = `
 2026-09-05	被刘德华评价一定能大火的演员	http://k.sina.com.cn/article_7879924004_m1d5ae1924033029osy.html	大火火警
 2026-09-05	日地震受損紙廠煙囱 拆除間起火	https://orientaldaily.on.cc/content/兩岸國際/odn-20260905-0905_00180_043/日地震受損紙廠煙囱--拆除間起火	未分類
 2026-09-05	新北五股社區大樓火警！3樓「大量黑煙狂竄」驚動住戶 警消急疏散半小時撲滅無傷亡 | 社會 | CTWANT	https://www.ctwant.com/amp/article/496616/	大火火警
+2026-09-05	快訊／五股社區大樓3樓起火「濃煙狂竄」 消防急救援	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RZU9TaTRicFAyMDNITWIyME1PUW9DVFgzUklIOWNXXzNuakc4LVZUV1J0OHEtaHRqSDBLdWQ4Mm9TUno0ZHFDRk1lUGtEbmc?oc=5	未分類
 2026-09-05	巡視巴努達漢國小火災災場韋特倫冀當局重建校舍	https://newswav.com/article/巡視巴努達漢國小火災災場韋特倫冀當局重建校舍-A2609_MT5cpo	未分類
 2026-09-03	海南海口裝修中餐廳突發火警 釀6死3傷	https://www.hk01.com/即時中國/60386575/海南海口裝修中餐廳突發火警-釀6死3傷	大火火警
 2026-09-03	海南海口裝修中餐廳火警 最少至6死3傷 海南海口發生嚴重奪命火警，一間正進行裝修的餐廳著火，事故造成6死傷。 央視新聞報道，今天下午2時45分海口市消防救援局指揮中心接到報警，位於海口市秀英大道東側的.	https://www.singtao.ca/7616915/2026-09-03/news-%E6%B5%B7%E5%8D%97%E6%B5%B7%E5%8F%A3%E8%A3%9D%E4%BF%AE%E4%B8%AD%E9%A4%90%E5%BB%B3%E7%81%AB%E8%AD%A6++%E6%9C%80%E5%B0%91%E8%87%B36%E6%AD%BB3%E5%82%B7/	大火火警
@@ -137,16 +153,20 @@ var DATA_FIRE = `
 2026-08-26	一只烤羊“串”起火热乡村游	https://finance.sina.cn/2026-08-26/detail-inipqxfw1145458.d.html?vt=4&cid=76675&node_id=76675	未分類
 2026-08-25	銅鑼灣單位陷火海多人報案 封路撲救一老婦不適送院 銅鑼灣發生火警。今晨(25日)10時58分，軒尼詩道488至490號軒尼詩大廈發生火警，驚動多人報案。消防員接報到場，派出一隊煙帽隊開喉灌救，同時搜救隊到場協助救援。	https://hk.news.yahoo.com/%E9%8A%85%E9%91%BC%E7%81%A3%E5%96%AE%E4%BD%8D%E9%99%B7%E7%81%AB%E6%B5%B7%E5%A4%9A%E4%BA%BA%E5%A0%B1%E6%A1%88-%E5%B0%81%E8%B7%AF%E6%92%B2%E6%95%91%E4%B8%80%E8%80%81%E5%A9%A6%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2-034134339.html	大火火警
 2026-08-25	銅鑼灣單位陷火海多人報案 封路撲救一老婦不適送院	https://hk.news.yahoo.com/銅鑼灣單位陷火海多人報案-封路撲救一老婦不適送院-034134339.html	未分類
+2026-08-25	指南宮火警初判一樓起火蔣萬安：市府會陪廟方走到重建完工那天- 社會	https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2b2IzeXBsQ0hXeDRYRWFiaW9MeWlVNjRiTlI1eWRzcGRvck9QTkpjS0VrVTNjekhxTTRpUHc3SkNRRTBubzF2ZUhkUXI5V1FXSWhnWkkzZTlpVXBWQk1VTTBaMzJSVkp1?oc=5	大火火警
 2026-08-25	指南宮大火燒毀60年古殿 主委曝修復計畫：師傅難找	https://life.tw/article/指南宮大火燒毀60年古殿-主委曝修復計畫-師傅難找-3129183	大火火警
+2026-08-25	指南宮凌霄寶殿狂燒4小時！起火點在一樓 火調人員揪「3大釀禍原因」	https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xMnYtbUZpU09fRm9jRDFONlFEVDlKbFFOSFQtZE5ZcWlTMW5QZGlfWHp3bDN4dmY5YXl0UmlMelVuckRuN09sONIBTEFVX3lxTE9HUlhjVGFWbWlMdHBZV2NkcUVhbDVwNG14d3FYbmppYTVzYjlSdEd4ZWJHSkhLZTRWY1NWSGx2NkdPeDNmRzVhS05uZU0?oc=5	未分類
 2026-08-25	印尼加強空中滅火行動 煙霾蔓延至馬來西亞	https://www.bastillepost.com/hongkong/article/16630810-印尼加強空中滅火行動-多省林火肆虐濃煙籠罩	未分類
 2026-08-25	南加高溫再持續一周 局部達110度 恐延燒至9月	https://www.worldjournal.com/wj/story/121359/9712194	未分類
 2026-08-24	边佳兰29公顷草地起火 浓烟四起消拯人员仍在灭火 | 南马 | 地方	https://www.orientaldaily.com.my/news/south/2026/08/24/842868	未分類
+2026-08-24	指南宮凌霄寶殿狂燒4小時！起火點在一樓 火調人員揪「3大釀禍原因」	https://news.google.com/rss/articles/CBMivwNBVV95cUxNaHdXbl9YekFCY2FPNG82MGh1dk4zajA3cHo0Q1p2VmQ3dW5iV2JpdThJZHpNc2I4WF9KblY3cFRCMFRyd2NyaExwTUZRblBpYXZXZkhhY2tLTjVpcEcwVHFaRGVtSjFYTlhYR00zMWpfZHk0eFN0b09FQmpQTWNVcjZTRVc2QzNuNXZ3V2tCV0JJMVZ3VFY0V2RFbnNaV3pMLXFuWFNKTzFCMFRXYnpBT0h4OGtoYTRqUWNaOV9feVp1cHNuSWJ2MURXM1hReXdrcVFHZF9VbG5tODBtaEoycnF5N1JiTDBlNGpSVE95UmJucFZJU3FMU2gwUzZMdTJkWnVhQ3dvRzQ2cG5xRzlaMHduWWNqODFWNXVEZVo4NUNYb0RlWWluX1hxM21SVzVNUHY2cktMdFAzWnFUYm5lbTF1OXJpcnNtU2dYeUZJTDBpeHFNU19UN1Q5MnNhMmxBNldZeVhVNlI4TjNzeHJDY1AwV3VRY2xXUnFQY2xOUFJObFFVNEVYRkFkbzVIOXNlLTlfRmRmWF9XQUhtbEFZY3hOV3dCR3FFUlVZbDB2SXJKRFJfY1lIT1psRXg5VmM?oc=5	未分類
 2026-08-24	宏福苑大火｜黃偉綸：94.7%業主接受收購 約百戶未交信 如立法收業權料價值大減	https://thewitnesshk.com/宏福苑大火-黃偉綸指逾九成業主接受收購-約百戶未/	大火火警
 2026-08-24	宏福苑大火｜黃偉綸：94.7%業主接受收購 約百戶未交信 如立法收業權價值大減	https://thewitnesshk.com/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E9%BB%83%E5%81%89%E7%B6%B8%E6%8C%87%E9%80%BE%E4%B9%9D%E6%88%90%E6%A5%AD%E4%B8%BB%E6%8E%A5%E5%8F%97%E6%94%B6%E8%B3%BC-%E7%B4%84%E7%99%BE%E6%88%B6%E6%9C%AA/	大火火警
 2026-08-24	台北市指南宮大火兩小時 凌霄寶殿嚴重燒毀 初步無人傷亡	https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/60383241/%E5%8F%B0%E5%8C%97%E5%B8%82%E6%8C%87%E5%8D%97%E5%AE%AE%E5%A4%A7%E7%81%AB%E5%85%A9%E5%B0%8F%E6%99%82-%E5%87%8C%E9%9C%84%E5%AF%B6%E6%AE%BF%E5%9A%B4%E9%87%8D%E7%87%92%E6%AF%80-%E5%88%9D%E6%AD%A5%E7%84%A1%E4%BA%BA%E5%82%B7%E4%BA%A1	大火火警
 2026-08-24	北市文山區指南宮晚間大火！1、2樓起火燃燒 消防趕抵急搶救	https://news.google.com/rss/articles/CBMiUEFVX3lxTE13MXB0QzV3UmthMTJtOHRfOGJ5a21zOGRRQWRRbVo0NjNZejI1UjhEdE8ySmxEb1R5SlZHaC0yVUk2Z0oxY1RmMDFnczFQb0FM0gFWQVVfeXFMUEtkbkN4WFlTVUFDVFJkTTdLMXNtaVhsYUFDM1pCYmhZZUg4VWFsM1h5NEdwTm9hVjVjUnBLbzZ6TFhGdlpOdEcxeDNHUVVVd1Z6LWFZWEE?oc=5	大火火警
 2026-08-24	北市指南宮驚傳三級火警 凌霄寶殿燃燒火舌直竄	https://news.nextapple.com/local/20260824/7B33065BCA5F058693496C618F26F0FC	大火火警
 2026-08-24	【俄乌开战】乌连日攻击俄电商物流中心 Ozon多处设施起火	https://atvnewsonline.com/world/【俄乌开战】乌连日攻击俄电商物流中心-ozon多处设/	未分類
+2026-08-23	快訊／台中台灣大道大火！「3、4樓火煙竄出」警消搶救中	https://news.google.com/rss/articles/CBMiOkFVX3lxTE9oNk5ab0ctU2lRN3FkdHNQRTZjSzJUM0lVcXZ4dGpyRGZFeVZQTkpKY2w3UUJ1TC1pREE?oc=5	大火火警
 2026-08-23	印尼17歲少年化身「超人」 協助撲滅婆羅洲森林大火 | 民視新聞網	https://today.line.me/tw/v3/article/PG5Jm98	大火火警
 2026-08-22	巴黎楓丹白露森林大火後重開 攀岩愛好者與遊客湧入 | 民視新聞網	https://today.line.me/tw/v3/article/60LWqaN	大火火警
 2026-08-21	表演「火裙舞」意外引燃裙擺 徐州女演員陷火海台上痛哭被送院 園方致歉	https://www.bastillepost.com/hongkong/article/16549297-表演「火裙舞」意外引燃裙擺-徐州女演員陷火海台	未分類
@@ -197,11 +217,13 @@ var DATA_FIRE = `
 2026-08-09	日本櫻島火山爆發濃煙直衝2200米 鹿兒島上空一片灰暗｜有片	https://www.hk01.com/即時國際/60378285/日本櫻島火山爆發濃煙直衝2200米-鹿兒島上空一片灰暗-有片	未分類
 2026-08-09	延燒近一週還沒停！印尼野火暴增近3倍燒176公頃 國家公園全面封閉	https://tw.news.yahoo.com/延燒近-週還沒停-印尼野火暴增近3倍燒176公頃-國家公園全面封閉-141435242.html	森林火警
 2026-08-08	歐洲山火肆虐 推動空中滅火飛機研發潮	https://hk.epochtimes.com/news/2026-08-08/21552142	森林火警
+2026-08-08	冬山民宅3樓起火～消防多分隊馳援，47分鐘撲滅無人傷亡	https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OTzdydlZsSzc2UnZGdmdrNDNYX3ZLTEpGQXJBQXZHbVJFRHNzZ0h4NUVrZGdjSHgyVWx1UENidTFBelJNLU9NYWhjU0lGQUs0eW5TUTZ3?oc=5	未分類
 2026-08-07	宏福苑火災 前高官：暴露政出多門 互相推搪情況常見	https://hk.on.cc/hk/bkn/cnt/news/20260807/bkn-20260807073849282-0807_00822_001.html	未分類
 2026-08-07	宏福苑大火｜跨部門調查報告認為懷疑煙頭物件或為起火源頭 歸納5項原因導致嚴重傷亡	https://news.hket.com/article/4172947/宏福苑大火｜跨部門調查報告認為懷疑煙頭物件或為起火源頭 歸納5項原因導致嚴重傷亡?mtc=80023	大火火警
 2026-08-07	宏福苑大火｜跨部門專組最終調查報告公開 火災或為未熄滅煙頭引發	http://www.hkcd.com.hk/content_app/2026-08/07/content_8768589.html	大火火警
 2026-08-07	印尼正在扑灭森林大火。布罗莫火山燃起熊熊大火	https://www.asianews.it/zh/south-east-asia/indonesia/印尼正在扑灭森林大火布罗莫火山燃起熊熊大火	大火火警
 2026-08-07	加州山火焚毀房屋發現屍體 疑電鋸引發火警	https://www.bastillepost.com/hongkong/article/16520394-加州山火焚毀房屋發現屍體-疑電鋸引發火警	大火火警
+2026-08-06	台南消防六大踏勘興富發愛琴海大樓 強化高樓火災搶救應變	https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zRHowZXlyQ0QyNFlmT1hsQVBULWlaVXZKckJ1NXp5WUNnYjd0TnFWaGl3VElWdklwQVA4T285NjVfbUxZVGpwYWswMXVRNFdkckZrbXRUZk00YklZV0HSAUtBVV95cUxPdmNxeTdia1NmdzljTnBPREI2NGowYjg4RHpNOGQzZXczcDd3NVUtTXRDWjlCX2MwYzNfUThJMDJ4N2dBM3U2TkZSMUE?oc=5	未分類
 2026-08-06	【山火週三更新】安省北部180處活躍火場 原住民籲公開調查	https://www.epochtimes.com/b5/26/7/16/n14810872.htm	森林火警
 2026-08-05	日本廣島縣凌晨發生火災已致3死4失聯- 國際	https://www.dotdotnews.com/a/202608/05/AP6a72a3d7e4b04b6c5d35c08b.html	未分類
 2026-08-05	日本丨廣島縣火災波及3幢住宅 釀3死4失縱	https://www.hkej.com/instantnews/current/article/4475755/日本丨廣島縣火災波及3幢住宅+釀3死4失縱	未分類
@@ -226,6 +248,7 @@ var DATA_FIRE = `
 2026-08-01	來稿｜痛思宏福苑大火之殤	https://www.hk01.com/01論壇/60374432/來稿-痛思宏福苑大火之殤	大火火警
 2026-07-31	高雄父目睹女兒倒臥屋外「明顯死亡」 現場疑有焚燒痕跡 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260731/index-78547781371581309002.html	未分類
 2026-07-31	森林大火：联合国称预防是最佳防御手段	https://cn.inform.kz/news/daguoshi-20192609/	大火火警
+2026-07-31	基隆深澳坑透天厝3樓起火里長急引導撤離無人傷- 社會	https://news.google.com/rss/articles/CBMiaEFVX3lxTE05U0poZEJzRXE2dkZ3WTJVaGFWN0h5UXM0TU02bTNfRHdWWlRKR1FqS01IQ1JscmdJOXBHb2JadHAydDVvbnhCTkJaaEVhcTFBb1NoNHRiQ1kwUkNrcjBiVVJ6cm5RWWNL?oc=5	未分類
 2026-07-30	香港世紀大火｜黃碧嬌認收279張授權票否認洗樓刁難居民時任區議員姚鈞豪：目擊居民「被授權」予陌生「林女士」 指黃碧嬌介入保護對方	https://points-media.com/最新/香港世紀大火｜黃碧嬌認收279張授權票-否認洗樓刁/	大火火警
 2026-07-30	順天邨天瑤樓火警 50多人疏散無人傷 (14:08) - 20260730 - 港聞	https://news.mingpao.com/ins/港聞/article/20260730/s00001/1785390423560/順天邨天瑤樓火警-50多人疏散無人傷	大火火警
 2026-07-30	法國西班牙大火有望平息 希臘克里特島火災8000人撤離	https://www.rfi.fr/tw/國際/20260730-法國西班牙大火有望平息-希臘克里特島火災8000人撤離	大火火警
@@ -264,6 +287,7 @@ var DATA_FIRE = `
 2026-07-21	存大量鋰電池有垮塌風險！韓國仁川物流中心大火連燒3日李在明下令盡快滅火- 國際	https://www.dotdotnews.com/a/202607/21/AP6a5f116ce4b04b6c5d34207d.html	大火火警
 2026-07-20	黄大仙短裙女烧街衣！火种未熄欲装胶袋弃垃圾桶 街坊忧火警公审	https://global.hk01.com/热爆话题/60368752/黄大仙短裙女烧街衣-火种未熄欲装胶袋弃垃圾桶-街坊忧火警公审	大火火警
 2026-07-20	黃大仙短裙女燒街衣！火種未熄欲裝膠袋棄垃圾桶 街坊憂火警公審	https://www.hk01.com/熱爆話題/60368752/黃大仙短裙女燒街衣-火種未熄欲裝膠袋棄垃圾桶-街坊憂火警公審	大火火警
+2026-07-20	快訊／台中台灣大道大火！「3、4樓火煙竄出」警消搶救中	https://news.google.com/rss/articles/CBMi6gJBVV95cUxNcld4b0kxU3NyYlN4aVhET0RtZHMxcjI3Q1l4MWxNYzVpVUV6S21OOWVBcV9KbHprWktwWUZsUmNsbEE0UC00WE9DZW1SMjJ0S3lrWmZaOGRlelZTQW0wTVZhRDVMcktHSlZLeEEtaGh3YWNaMnJwNTNlUWFVOWtKdEhIZU1rSW96QzBOaGlCTGkyWmp5amtGSVpaT2RoQnNvNkxGdzdDSm13dVgzbThWMkw0cFd3dGw4WmFRSTFjSHE0MFJmTjBYS0RxZlVIOUJwSUJBeGJEbTF2QktxWEQ5clBjeFdBV1ViUktDM1pXQnhMdWhHOVRxZ25JRHlHU0lpeTRaV1Nhb2kzcGwtdHZ2UURMZWdZMUVySzFHeVBydS0za0piQmE0S2hMdXdzUkZHTkpiMWhwRnhqdGlRSWJGMDZyekF5NGJDM3N1SVZNc05hd2xXVnBPTDNyTGM2SjJpU2F6V0djZUMyQQ?oc=5	大火火警
 2026-07-20	希腊油轮遭炮弹击中起火 船员弃船获救	https://www.orientaldaily.com.my/news/international/2026/07/20/834518	未分類
 2026-07-20	山火濃煙席捲東北部 多州空氣質量亮紅燈	https://www.singtaousa.com/2026/07/20/news/usa/wildfire-smoke-northeast-air-quality/	森林火警
 2026-07-20	四川古鎮網紅打卡地陷火海 驚悚畫面曝光（視頻）	https://www.ntdtv.com/gb/2026/07/20/a104116877.html/amp	未分類
@@ -271,6 +295,8 @@ var DATA_FIRE = `
 2026-07-20	南韓酷澎物流中心大火燒逾57小時！恐局部坍塌 168居民連夜避難	https://www.ftnn.com.tw/news/562701	大火火警
 2026-07-20	南韓仁川物流中心大火連燒3日未熄 當局下撤離令防坍塌風險	https://www.am730.com.hk/國際/1042639/南韓仁川物流中心大火連燒3日未熄-當局下撤離令防坍塌風險	大火火警
 2026-07-19	法爆發80年來最嚴重森林大火- 國際	https://www.wenweipo.com/a/202607/19/AP6a5be07be4b0b49ad1c3ea99.html	大火火警
+2026-07-19	快訊／台中台灣大道大火！「3、4樓火煙竄出」警消搶救中– 社會	https://news.google.com/rss/articles/CBMiTkFVX3lxTE9reVI1S2MtVU9lMmx3cGU1MFotX3p1OXkteGk2SUJ0d2twWmQ3VFFsLWtZMzFMQ3dIM3lveE5PTHpGcV9RMGZLSUlLZ3dhQQ?oc=5	大火火警
+2026-07-19	快訊／台中台灣大道大火！「3、4樓火煙竄出」警消搶救中	https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jV3Rla2kzSGg2OG9XTzQtNnpHdGF6bFU5b2dfUUozOFZ4M1BGUzR1bVJJQTdJYW1UTkdXbGYtYkRkc3JTWjFORTBJQ2x0UQ?oc=5	大火火警
 2026-07-18	解構「玩具廠大火案」梁美芬協助內企出海 | 政官莊	https://eastweek.stheadline.com/witness/20276/解構玩具廠大火案梁美芬協助內企出海-政官莊	大火火警
 2026-07-18	新竹民宅傳深夜火警！疑電動腳踏車起火 18歲女疑逃生墜樓OHCA	https://www.ftnn.com.tw/news/562144	大火火警
 2026-07-18	挪威南部住宅大火 強風助燃釀百棟房屋燒毀	https://tw.news.yahoo.com/挪威南部住宅大火-強風助燃釀百棟房屋燒毀-041019400.html	大火火警
@@ -393,6 +419,7 @@ var DATA_FIRE = `
 2026-06-23	宏福苑火災後發評論 遭消防處6工協會聯合聲明譴責 冼國林入稟高院提告誹謗	https://www.stheadline.com/society/3586139/宏福苑火災後發評論-遭消防處6工協會聯合聲明譴責-冼國林入稟高院提告誹謗	未分類
 2026-06-23	印度北方邦首府一座商業樓宇起火 最少15死7傷	https://news.rthk.hk/rthk/ch/component/k2/1859506-20260623.htm	未分類
 2026-06-23	「爸爸，快救我」！一通求救電話讓他徹底心碎 印度大樓失火釀15死7傷	https://news.pchome.com.tw/internation/crwant/20260623/index-78219235712192316011.html	未分類
+2026-06-22	苗栗市區民宅二樓起火搶救中 屋內父子2人逃出無大礙	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BandybWpLV2VPcjE3aHlmNmRrNmFzbG9yYWQ5WUtobk9HY1dWS3FHbDVCdnN1cEFUOHBuUzdjQ2ZmRXJfcDdKbnJHY1NzZDZ20gFWQVVfeXFMTnVnS25KRFBZdUlTU0VNWExoSXJ3UFZHdDQ0UFRXVUxVQ1Bkc3RjYUVJS0Y0a1ZuMjZQVTAzOVIyX0VFTWh1SGJOTnpLbmVMNXotMmZnZnc?oc=5	未分類
 2026-06-22	美洛杉磯倉庫大火濃煙蔓延 當局宣布進入緊急狀態	https://hk.epochtimes.com/news/2026-06-22/45603505	大火火警
 2026-06-22	湖南湘溪民房大火6死5傷 起火原因有待調查	https://www.am730.com.hk/中國/1037216/湖南湘溪民房大火6死5傷-起火原因有待調查	大火火警
 2026-06-22	宏福苑調查丨林建軍供稱初步調查認為是煙頭燒着附近雜物起火	https://www.hkcd.com.hk/hkcdweb/content/2026/06/22/content_8761157.html	未分類
@@ -416,6 +443,7 @@ var DATA_FIRE = `
 2026-06-11	風火輪充電起火 母子受傷送院 - 20260611 - 港聞	https://news.mingpao.com/pns/港聞/article/20260611/s00002/1781111694905/風火輪充電起火-母子受傷送院	未分類
 2026-06-10	宏福苑大火案 鴻毅宏業董事等被控5項誤殺罪 附168死者全名單	https://www.hk01.com/社會新聞/60358870/宏福苑大火案-鴻毅宏業董事等被控5項誤殺罪-附168死者全名單	大火火警
 2026-06-09	多市中心Fort York柏文大廈2級火警 1人受傷送院	https://www.singtao.ca/7530004/2026-06-09/news-%E5%A4%9A%E5%B8%82%E4%B8%AD%E5%BF%83Fort	大火火警
+2026-06-09	嘉義旅行社疑電線走火二樓大火！ 雨天驚魂夜民眾紛外出圍觀	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BNmNqX2JXazZMUkJOWUN1aS1oZzhISUZMR0lVTXBQNVY3c3VpOUx5Z2dEa1hOUWo3b0l5dUFqbXRSUG1uUDdXTUhkZE96a1U?oc=5	大火火警
 2026-06-05	印度醫院深夜大火！加護病房5人「活活燒死」 疑電線短路釀禍	https://news.tvbs.com.tw/world/3222970	大火火警
 2026-06-04	印度德里酒店餐廳起火釀21死 多數死傷者為外籍跨國求醫人群	https://www.orangenews.hk/international/VLXdlW8/印度德里酒店餐廳起火釀21死-多數死傷者為外籍跨國求醫人群.shtml	未分類
 2026-06-04	佐敦道耀棠閣有單位起火 一名男子昏迷送院	https://news.rthk.hk/rthk/ch/component/k2/1857160-20260604.htm	未分類
@@ -428,6 +456,7 @@ var DATA_FIRE = `
 2026-05-30	羅便臣道有住宅起火三人昏迷送院 懷疑傷者單位內吸毒或吸煙引致火警	https://news.tvb.com/tc/1173728-羅便臣道有住宅起火三人昏迷送院懷疑傷者單位內吸毒或吸煙引致火警	大火火警
 2026-05-30	半山薈萃苑有住宅起火3人昏迷送院- 有線寬頻i-CABLE	https://www.i-cable.com/新聞資訊/469396/半山薈萃苑有住宅起火-3人昏迷送院	未分類
 2026-05-30	半山羅便臣道住宅單位冒煙3男女昏迷送院 約50名住戶疏散	https://hk.news.yahoo.com/半山羅便臣道住宅單位冒煙3男女昏迷送院-約50名住戶疏散-053656923.html	未分類
+2026-05-28	快訊／永和公寓1樓起火！35歲男倒廚房...全身多處燒傷命危	https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PNFh4dVBXRW5lODA0bXpVaEFyU2tTZHpIb1diXy1qRGhqSUZzRmlKbjlZQmhLZUNkdzhkOGxYQnllejFMQTNFMUZLcWZJdXU2TkJCeENFMlhLNk9iZ0HSAUtBVV95cUxNdFFkbGpEZFRQZU9VVHdtTU5hOHVpOE40RVY2c0RpeHBmcW5rVzhDU3JWbWlnX3hmdFJGSk1TamgyZGVDbmlRRUU0bVU?oc=5	未分類
 2026-05-27	宏福苑｜殉職消防何偉豪離世半年 未婚妻發文悼念：好掛住你	https://www.hk01.com/社會新聞/60353925/宏福苑-殉職消防何偉豪離世半年-未婚妻發文悼念-好掛住你	未分類
 2026-05-27	宏福苑大火｜殉職消防員何偉豪離世半年 未婚妻發文悼念：好掛住你	https://www.hkcd.com.hk/hkcdweb/content/2026/05/27/content_8756889.html	大火火警
 2026-05-25	官方帳號也在看性愛直播？ 泰國疾管署急滅火：收到檢舉才點入且秒退	https://www.mnews.tw/story/amp/mm-20260525edi087	未分類
@@ -469,6 +498,7 @@ var DATA_FIRE = `
 2026-05-14	大埔樂善村電動單車充電起火 男子頭髮燒焦送院	https://www.hkcd.com.hk/hkcdweb/content/2026/05/14/content_8754807.html	未分類
 2026-05-14	大埔樂善村疑電動單車充電短路失火 43歲男子燒傷送院50名居民疏散	https://www.orangenews.hk/hongkong/VJYVjwY/大埔樂善村疑電動單車充電短路失火-43歲男子燒傷送院50名居民疏散.shtml	未分類
 2026-05-13	新北三重公寓頂加火警 消防員「熱衰竭」緊急送醫 | 太報	https://today.line.me/tw/v3/article/VxXPlGl	大火火警
+2026-05-13	台中社宅大火畫面曝！狂燒14hrs黑煙亂竄	https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RZWlQVlZyWUtSYUx6QzY3dzNYTzBPQURreExZLVVQb1hrLTl1aDBubmNXLVoxVlVYWjFLWllLU21QWTA0TTI5WGgwMzh4UV9vdC1CLXYwbEFfQW9y0gFiQVVfeXFMTTBZR0VGNDRTYU4ya3I4OGNiQUE4aDBwSDBhcDczb05PRHBlbVVQcXBUdE94dWNCQjc2X1o2YW1lLXE1dm5iSFREOXpTRThEZlRKNloxVmZmOEkxTUt6NXZ5cXc?oc=5	大火火警
 2026-05-12	湖南衡陽市有住宅起火造成5死2傷	https://news.rthk.hk/rthk/ch/component/k2/1854365-20260512.htm	未分類
 2026-05-12	湖南衡陽一居民樓發生火災致5死2傷	https://www.hk01.com/即時中國/60348884/湖南衡陽一居民樓發生火災致5死2傷	未分類
 2026-05-12	湖南衡陽一居民樓凌晨起火 已致5死2傷	https://www.orangenews.hk/china/VJMjKUv/湖南衡陽一居民樓凌晨起火-已致5死2傷.shtml	未分類
@@ -1102,6 +1132,7 @@ var DATA_FIRE = `
 2022-08-05	泰國夜店MOUNTAIN B大火13死35傷 多人倒斃出口 差幾步就能逃命 fire	https://www.hk01.com/sns/article/800559	大火火警
 2022-08-03	粉嶺軍地發生三級火警 火場發現一具焦屍	https://www.hkcd.com/content_app/2022-08/03/content_1357524.html	大火火警
 2022-08-03	粉嶺貨倉發生三級火警 消防發現一具燒焦男性屍體 fire	https://hk.on.cc/hk/bkn/cnt/news/20220803/bkn-20220803055142730-0803_00822_001.html	大火火警
+2022-08-03	三級火警｜粉嶺軍地北村倉庫三級火警 據報消防發現一具燒焦男屍	https://news.google.com/rss/articles/CBMingNBVV95cUxPRTFmbjlDWlJkTk5DN2Z1dnY4TUJnYVZaRTZJMGdmYl9VanVDVkpkOXZqVDhLYUtLNUNHU1FyUjNrVTUyNWpGQWszRkY0LVI4aHZCV21LR0FCaC1SLUcySTV5RXoxWWdMclNIcHBYWFZNd1NITlBhbkwtcmRneWhVd1VUR1lPVGhQZGNKZ09NVWg3NUUxQmpnSXdKWWc1UUNfT25ReTNhU3BfcjhFX3o0Wi1xWW1STlNpOUJNZWpyOFNPZ2d4MXdsUUc4YUQ2b1VrazlZQ2gtTzQzSUdha01GYWxfTnQ1S21fWmlvMnBoVkNkd0swZjFtQ1BCaVZfOUY3UHkwOFdVd1Y5V3RBandlaXpuaHJXbmg0YUZocjcweHVCRm40RHdfcnVIc0c0M2lvRDhHYUJfQ1ZQWGlocEJkc19UNXpKcm45TEhvRTRZV20ydzExTVpnRHpDMkNiQ0hFNmQ2SVFnOG0xd0ttUENObTR1WlhNZEM3ZjhRTjZBUmVwSW9yanBNWXpjX3BUcTd5MXpBUTg4WFp1OFQ2Y2c?oc=5	大火火警
 2022-08-02	粉嶺沙頭角公路龍躍頭段軍地北一間物流貨倉三級火警 消防正撲救	https://news.tvb.com/sc/866676-%E7%B2%89%E5%B6%BA%E6%B2%99%E9%A0%AD%E8%A7%92%E5%85%AC%E8%B7%AF%E9%BE%8D%E8%BA%8D%E9%A0%AD%E6%AE%B5%E8%BB%8D%E5%9C%B0%E5%8C%97%E4%B8%80%E9%96%93%E7%89%A9%E6%B5%81%E8%B2%A8%E5%80%89%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6%E6%B6%88%E9%98%B2%E6%AD%A3%E6%92%B2%E6%95%91	大火火警
 2022-08-02	粉嶺一個貨倉清晨三級火警 火場發現一具屍體	https://news.tvb.com/tc/866670-%E7%B2%89%E5%B6%BA%E4%B8%80%E5%80%8B%E8%B2%A8%E5%80%89%E6%B8%85%E6%99%A8%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6%E7%81%AB%E5%A0%B4%E7%99%BC%E7%8F%BE%E4%B8%80%E5%85%B7%E5%B1%8D%E9%AB%94	大火火警
 2022-07-31	北加州山火毀1.6萬公頃土地 居民火海中逃生(有片多圖) fire	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/%E5%8C%97%E5%8A%A0%E5%B7%9E%E5%B1%B1%E7%81%AB%E6%AF%801.6%E8%90%AC%E5%85%AC%E9%A0%83%E5%9C%9F%E5%9C%B0-%E5%B1%85%E6%B0%91%E7%81%AB%E6%B5%B7%E4%B8%AD%E9%80%83%E7%94%9F-%E6%9C%89%E7%89%87%E5%A4%9A%E5%9C%96-/331329	森林火警
@@ -1121,6 +1152,7 @@ var DATA_FIRE = `
 2020-10-24	金門板模工廠大火 鐵皮屋燒光 1工人燒死	https://finance.ftvnews.com.tw/news/detail/2020A24N14M1	大火火警
 2020-09-24	瀝源邨三級火警起火單位發現一具屍體 四人不適送院	https://news.tvb.com/tc/915697-%E7%80%9D%E6%BA%90%E9%82%A8%E4%B8%89%E7%B4%9A%E7%81%AB%E8%AD%A6%E8%B5%B7%E7%81%AB%E5%96%AE%E4%BD%8D%E7%99%BC%E7%8F%BE%E4%B8%80%E5%85%B7%E5%B1%8D%E9%AB%94%E5%9B%9B%E4%BA%BA%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2	大火火警
 2020-07-27	屯門青山公路一建築地盤發生3級火警	https://www.hkcd.com/content/2020-07/27/content_1203953.html	大火火警
+2020-07-19	葵涌葵俊苑發生三級火警 一人送院	https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yTXVNelhibkNMNnllSGs2aG10X0NyZ0MzNV9HSHZob1NOMHM4bjczcWxMSmJSeWVDb2tYV0Zxci1Yd19CLXRTbFpLT25HMUVVQk5teFh2bjZqQ3RxZC1iSjNn?oc=5	大火火警
 2020-04-29	5小時失去2朋友！錢櫃大火生還者：沒有警報通知，我們的生命不是賭注	https://www.cw.com.tw/article/5100054	大火火警
 2020-04-10	餘燼裡的告白：2020澳洲大火兩位消防員、受災戶回憶最難忘的一夜	https://www.marieclaire.com.tw/lifestyle/issue/49095	大火火警
 2020-03-31	四川涼山森林大火！689人撲救爆燃 18名消防員殉職	https://www.setn.com/news/717381	大火火警
