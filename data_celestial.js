@@ -1,0 +1,91 @@
+// 天象 | 由 build_news_js.py 生成 | 共 88 條
+var DATA_CELESTIAL = `
+2026-09-29	3月3日的月全食將是2028年除夕前的最後一次月全食	https://citytimes.tw/科技/3月3日的月全食將是2028年除夕前的最後一次月全食/914215/	血月日蝕
+2026-09-25	500年來僅3次！「血月」即將出現 錯過再等18年	https://www.setn.com/news/19897	血月日蝕
+2026-09-24	俗稱「血月」的月全食天文奇觀，在東京晴空塔後登場 | 圖片新聞 - 新聞	https://www.etnet.com.hk/www/tc/news/news-article.php?section=photonews&category=dcm&newsid=161603	血月日蝕
+2026-09-24	《奧丁：神叛》血月征服者活動登場中秋限定光明召喚好禮限時送《Odin：Valhalla Rising》	https://gnn.gamer.com.tw/detail.php?sn=312337	血月日蝕
+2026-09-24	《奧丁：神叛》血月征服者活動登場 中秋限定光明召喚好禮限時送	https://news.pchome.com.tw/game/gamer/20260924/index-79024108231278203104.html	血月日蝕
+2026-09-24	《全境封鎖 2》血月上行活動 Twitch 掉寶	https://www.ubisoft.com/zh-tw/game/the-division/news-updates/1SS0jUDOA2Whsj4RCVBofK/2-twitch	血月日蝕
+2026-09-16	熱血奉獻愛心 四川梓潼「白衣天使」獻血月活動傳遞社會真情	https://hkcd.com.hk/hkcdweb/content_p/2026/09/16/content_202626.html	血月日蝕
+2026-08-27	極深月偏食「準血月」登場全美觀賞指南| 大紀元	https://www.epochtimes.com/b5/26/8/27/n14838074.htm	血月日蝕
+2026-08-27	「近血月」偏食今晚登場 全美觀測指南與最佳時間	https://www.singtaousa.com/2026/08/27/news/usa/near-blood-moon-partial-eclipse-debuts-tonight-national-observation-guide-and-best-time/	血月日蝕
+2026-08-26	紐約本周將迎來近乎全食的血月	https://www.worldjournal.com/wj/story/121470/9716617	血月日蝕
+2026-08-25	月亮慘遭「地球黑影」吞噬！8/27「準血月」登場 96%月面陷入本影	https://www.technice.com.tw/technology/space/265948/	血月日蝕
+2026-08-22	普珥節將迎來「血月」！ 血月歷史標記出關鍵時刻，都在猶太人重大事件出現		血月日蝕
+2026-08-20	八月北美將現「血月」月食 何時觀測最佳	https://www.epochtimes.com/b5/26/8/20/n14833573.htm	血月日蝕
+2026-08-18	小米拍日蝕變做超級月亮成為網上熱議	https://www.dcfever.com/news/readnews.php?id=41931	血月日蝕
+2026-08-08	獅子座新月伴日蝕！12星座一週運勢出爐 天蠍有望升遷、巨蟹情緒起伏大	https://tw.news.yahoo.com/%E7%8D%85%E5%AD%90%E5%BA%A7%E6%96%B0%E6%9C%88%E4%BC%B4%E6%97%A5%E8%9D%95-12%E6%98%9F%E5%BA%A7-%E9%80%B1%E9%81%8B%E5%8B%A2%E5%87%BA%E7%88%90-%E5%A4%A9%E8%A0%8D%E6%9C%89%E6%9C%9B%E5%8D%87%E9%81%B7-%E5%B7%A8%E8%9F%B9%E6%83%85%E7%B7%92%E8%B5%B7%E4%BC%8F%E5%A4%A7-081340312.html	血月日蝕
+2026-07-03	日蝕大賽岳伯仁遣麾下兩匹三歲新星力拒年長佳駟	https://www.stheadline.com/realtime-racing/3589814/%E6%97%A5%E8%9D%95%E5%A4%A7%E8%B3%BD%E5%B2%B3%E4%BC%AF%E4%BB%81%E9%81%A3%E9%BA%BE%E4%B8%8B%E5%85%A9%E5%8C%B9%E4%B8%89%E6%AD%B2%E6%96%B0%E6%98%9F%E5%8A%9B%E6%8B%92%E5%B9%B4%E9%95%B7%E4%BD%B3%E9%A7%9F	血月日蝕
+2026-06-25	什麼是日蝕攻擊（Eclipse Attack）？	https://www.binance.com/zh-TC/academy/articles/what-is-an-eclipse-attack	血月日蝕
+2026-06-17	6月多顆近地小行星安全飛掠地球 NASA持續監測軌道變化	https://www.technice.com.tw/technology/space/226267/	彗星隕石
+2026-06-10	Mitsubishi再次顛覆你對日蝕的認知	https://www.carture.com.tw/opinion/article/41038-Mitsubishi%E5%86%8D%E6%AC%A1%E9%A1%9B%E8%A6%86%E4%BD%A0%E5%B0%8D%E6%97%A5%E8%9D%95%E7%9A%84%E8%AA%8D%E7%9F%A5	血月日蝕
+2026-04-08	阿提米絲二號任務公布繞月影像 太空人觀測罕見太空日蝕	https://www.technice.com.tw/technology/space/212013/	血月日蝕
+2026-04-01	在日蝕陰影下的黑暗冒險 預覽西洋版仙履奇緣《沙羅週期》無限 Loop？	https://www.pcmarket.com.hk/saros-on-ps5-preview/	血月日蝕
+2026-03-09	李丞責 - 日蝕與月蝕 有何影響？ | 李丞責博士玄學信箱	https://www.stheadline.com/opinion/3550956/%E6%9D%8E%E4%B8%9E%E8%B2%AC-%E6%97%A5%E8%9D%95%E8%88%87%E6%9C%88%E8%9D%95-%E6%9C%89%E4%BD%95%E5%BD%B1%E9%9F%BF-%E6%9D%8E%E4%B8%9E%E8%B2%AC%E5%8D%9A%E5%A3%AB%E7%8E%84%E5%AD%B8%E4%BF%A1%E7%AE%B1	血月日蝕
+2026-03-04	月全食｜圖看世界各地血月掛天 - 20260304 - 圖輯	https://news.mingpao.com/ins/%E5%9C%96%E8%BC%AF/photo3/20260304/s00014/1772618550453/%E6%9C%88%E5%85%A8%E9%A3%9F-%E5%9C%96%E7%9C%8B%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E8%A1%80%E6%9C%88%E6%8E%9B%E5%A4%A9	血月日蝕
+2026-03-03	血月月全食｜本港元宵節多雲看不到 下次2028年除夕晚邊看邊倒數	https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326967/%E8%A1%80%E6%9C%88%E6%9C%88%E5%85%A8%E9%A3%9F-%E6%9C%AC%E6%B8%AF%E5%85%83%E5%AE%B5%E7%AF%80%E5%A4%9A%E9%9B%B2%E7%9C%8B%E4%B8%8D%E5%88%B0-%E4%B8%8B%E6%AC%A12028%E5%B9%B4%E9%99%A4%E5%A4%95%E6%99%9A%E9%82%8A%E7%9C%8B%E9%82%8A%E5%80%92%E6%95%B8	血月日蝕
+2026-03-03	罕見「元宵血月」今晚降臨！｜全港市民恐無緣目睹：天文台揭殘酷真相？	https://www.weekendhk.com/weather/%E5%8D%B3%E6%99%82%E5%A4%A9%E6%B0%A3%E6%B6%88%E6%81%AF-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%9C%88%E5%85%A8%E9%A3%9F-%E8%A1%80%E6%9C%88-%E5%85%83%E5%AE%B5%E7%AF%80-3377912/	血月日蝕
+2026-03-03	月全食｜元宵節撞血月 紅月亮＝不祥？天文台教1招拍出「巨月」	https://www.hk01.com/%E9%96%8B%E7%BD%90/60326796/%E6%9C%88%E5%85%A8%E9%A3%9F-%E5%85%83%E5%AE%B5%E7%AF%80%E6%92%9E%E8%A1%80%E6%9C%88-%E7%B4%85%E6%9C%88%E4%BA%AE-%E4%B8%8D%E7%A5%A5-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%95%991%E6%8B%9B%E6%8B%8D%E5%87%BA-%E5%B7%A8%E6%9C%88	血月日蝕
+2026-03-03	天公不作美「元宵血月」難看到觀月活動取消- 港聞	https://www.dotdotnews.com/a/202603/03/AP69a6cc27e4b0c32d4f6a8866.html	血月日蝕
+2026-03-03	元宵賞血月攻略｜月全食香港最佳觀賞地點＋天文台時間表＋天氣預測＋網上直播連結	https://hk.news.yahoo.com/%E5%85%83%E5%AE%B5-%E8%A1%80%E6%9C%88-%E6%9C%88%E5%85%A8%E9%A3%9F-%E9%A6%99%E6%B8%AF-%E8%A7%80%E8%B3%9E%E5%9C%B0%E9%BB%9E-%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%99%82%E9%96%93-%E5%A4%A9%E6%B0%A3%E9%A0%90%E6%B8%AC-%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD-013631884.html	血月日蝕
+2026-03-03	元宵節．月全食｜血月最佳觀賞時間方向是什麼？附天文台直播連結	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60326733/%E5%85%83%E5%AE%B5-%E6%9C%88%E5%85%A8%E8%9D%95-%E8%A1%80%E6%9C%88%E5%82%8D%E6%99%9A%E4%BE%86-%E5%8D%B3%E7%9D%87%E6%9C%80%E4%BD%B3%E8%A7%80%E8%B3%9E%E6%99%82%E9%96%93-%E5%A4%A9%E6%96%87%E5%8F%B0%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90	血月日蝕
+2026-03-03	元宵節血月‧多圖｜內地多地上演月全食奇觀 下一次需再等46年	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60327057/%E5%85%83%E5%AE%B5%E7%AF%80%E8%A1%80%E6%9C%88-%E5%A4%9A%E5%9C%96-%E5%85%A7%E5%9C%B0%E5%A4%9A%E5%9C%B0%E4%B8%8A%E6%BC%94%E6%9C%88%E5%85%A8%E9%A3%9F%E5%A5%87%E8%A7%80-%E4%B8%8B%E4%B8%80%E6%AC%A1%E9%9C%80%E5%86%8D%E7%AD%8946%E5%B9%B4	血月日蝕
+2026-03-03	元宵節3.3撞正月全食「血月」，紅月亮代表「不祥」？本世紀難得出現的3次巧合如何部署	https://hk.news.yahoo.com/%E5%85%83%E5%AE%B5%E7%AF%80-%E6%9C%88%E5%85%A8%E9%A3%9F-%E8%A1%80%E6%9C%88-010032906.html	血月日蝕
+2026-03-03	元宵節2026｜罕現肉眼可見「血月」 觀賞月全蝕之餘 向天拜祭可求財及補財|香港經濟日報	https://ps.hket.com/article/4088869/%E5%85%83%E5%AE%B5%E7%AF%802026%EF%BD%9C%E7%BD%95%E7%8F%BE%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A6%8B%E3%80%8C%E8%A1%80%E6%9C%88%E3%80%8D%20%E8%A7%80%E8%B3%9E%E6%9C%88%E5%85%A8%E8%9D%95%E4%B9%8B%E9%A4%98%20%E5%90%91%E5%A4%A9%E6%8B%9C%E7%A5%AD%E5%8F%AF%E6%B1%82%E8%B2%A1%E5%8F%8A%E8%A3%9C%E8%B2%A1	血月日蝕
+2026-03-03	元宵夜「月全食」 市民有機會欣賞「血月」奇景 | 附最佳觀賞時間及方向	https://eastweek.stheadline.com/witness/17697/%E5%85%83%E5%AE%B5%E5%A4%9C%E6%9C%88%E5%85%A8%E9%A3%9F-%E5%B8%82%E6%B0%91%E6%9C%89%E6%A9%9F%E6%9C%83%E6%AC%A3%E8%B3%9E%E8%A1%80%E6%9C%88%E5%A5%87%E6%99%AF-%E9%99%84%E6%9C%80%E4%BD%B3%E8%A7%80%E8%B3%9E%E6%99%82%E9%96%93%E5%8F%8A%E6%96%B9%E5%90%91	血月日蝕
+2026-03-03	元宵佳節逢血月 傍晚多雲又雷雨 最啱留家歎湯圓	https://hk.on.cc/hk/bkn/cnt/news/20260303/bkn-20260303141514291-0303_00822_001.html	血月日蝕
+2026-03-02	妖孽現！血月升空1小時民俗專家說法曝「陰陽失調」磁場混亂別出門| 鏡週刊	https://today.line.me/tw/v3/article/0MV9Mln	血月日蝕
+2026-03-02	加拿大明日清晨現「血月」 錯過或需再等數年	https://www.singtao.ca/7432205/2026-03-02/news-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%98%8E%E6%97%A5%E6%B8%85%E6%99%A8%E7%8F%BE%E3%80%8C%E8%A1%80%E6%9C%88%E3%80%8D%E3%80%80%E9%8C%AF%E9%81%8E%E6%88%96%E9%9C%80%E5%86%8D%E7%AD%89%E6%95%B8%E5%B9%B4/	血月日蝕
+2026-03-02	元宵迎「血月」月全食 錯過要等到2029年【附手機拍月全食貼士】 (13:03) - 20260302 - 熱點	https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20260302/s00024/1771914874074/%E5%85%83%E5%AE%B5%E8%BF%8E%E3%80%8C%E8%A1%80%E6%9C%88%E3%80%8D%E6%9C%88%E5%85%A8%E9%A3%9F-%E9%8C%AF%E9%81%8E%E8%A6%81%E7%AD%89%E5%88%B02029%E5%B9%B4%E3%80%90%E9%99%84%E6%89%8B%E6%A9%9F%E6%8B%8D%E6%9C%88%E5%85%A8%E9%A3%9F%E8%B2%BC%E5%A3%AB%E3%80%91	血月日蝕
+2026-03-02	元宵節遇上血月！3/3全台可見月全食 錯過再等46年 | 鏡週刊	https://today.line.me/tw/v3/article/GgqVM86	血月日蝕
+2026-03-02	元宵節月全食︱「血月」解構Q&A 為何變紅？歷時多久？香港罕遇晚飯時間上演︱Yahoo	https://hk.news.yahoo.com/%E5%85%83%E5%AE%B5%E7%AF%80%E6%9C%88%E5%85%A8%E9%A3%9F%EF%B8%B1%E3%80%8C%E8%A1%80%E6%9C%88%E3%80%8D%E8%A7%A3%E6%A7%8Bqa-%E7%82%BA%E4%BD%95%E8%AE%8A%E7%B4%85%EF%BC%9F%E6%AD%B7%E6%99%82%E5%A4%9A%E4%B9%85%EF%BC%9F%E9%A6%99%E6%B8%AF%E7%BD%95%E9%81%87%E6%99%9A%E9%A3%AF%E6%99%82%E9%96%93%E4%B8%8A%E6%BC%94%EF%B8%B1yahoo-094239570.html	血月日蝕
+2026-03-02	元宵節撞「血月」肉眼可見 一文看清最佳觀賞時間、地點	https://www.am730.com.hk/article/1014839	血月日蝕
+2026-03-02	元宵節上演月全食「血月」錯過要等到2072年 附最佳觀賞時間＋地點	https://www.orangenews.hk/lifestyle/VChbED4/%E5%85%83%E5%AE%B5%E7%AF%80%E4%B8%8A%E6%BC%94%E6%9C%88%E5%85%A8%E9%A3%9F-%E8%A1%80%E6%9C%88-%E9%8C%AF%E9%81%8E%E8%A6%81%E7%AD%89%E5%88%B02072%E5%B9%B4-%E9%99%84%E6%9C%80%E4%BD%B3%E8%A7%80%E8%B3%9E%E6%99%82%E9%96%93-%E5%9C%B0%E9%BB%9E.shtml	血月日蝕
+2026-03-02	元宵睇「血月」有多罕見？專家：下一次要到2072年！	https://bau.com.hk/web/article/1477989962143600640/web/content_1477989962143600640.html	血月日蝕
+2026-03-02	元宵「血月」｜周二傍晚將現月全食 天文台預測多雲或影響觀賞	https://news.tvb.com/tc/1154036-%E5%85%83%E5%AE%B5%E8%A1%80%E6%9C%88%E5%91%A8%E4%BA%8C%E5%82%8D%E6%99%9A%E5%B0%87%E7%8F%BE%E6%9C%88%E5%85%A8%E9%A3%9F%E5%A4%A9%E6%96%87%E5%8F%B0%E9%A0%90%E6%B8%AC%E5%A4%9A%E9%9B%B2%E6%88%96%E5%BD%B1%E9%9F%BF%E8%A7%80%E8%B3%9E	血月日蝕
+2026-03-02	元宵「血月」撞冷鋒！明日氣溫低見17度 - 香港	https://www.tkww.hk/a/202603/02/AP69a5555be4b04773b069dd5f.html	血月日蝕
+2026-03-02	【罕見天象】明晚元宵逢「月全食」可見血月 錯過需再等 46 年 內附精準觀測時間表及最佳觀測位	https://businessfocus.io/article/349886/%E5%85%83%E5%AE%B5%E9%80%A2%E3%80%8C%E6%9C%88%E5%85%A8%E9%A3%9F%E3%80%8D	血月日蝕
+2026-03-02	【2026血月】3/3月全食時間一次看！血月是什麼？怎麼形成？台灣最佳觀賞指南	https://www.harpersbazaar.com/tw/life/trips/a70566017/2026-tai-wan-3-3-total-lunar-eclipse/	血月日蝕
+2026-03-02	「血月」奇觀：2026年3月3日月全食詳解	https://www.ntdtv.com/b5/2026/03/01/a104071886.html	血月日蝕
+2026-03-02	2026年血月：3月3日月全食時間與可見性地圖	https://starwalk.space/zh-Hant/news/total-lunar-eclipse-march-3-2026	血月日蝕
+2026-03-02	2026元宵節是「血月」，「月全食」同步上演！3/3月全食台灣觀賞時間、直播資訊	https://www.elle.com/tw/life/hot-news/g70568438/lantern-festival-blood-moon/	血月日蝕
+2026-03-01	元宵節「血月」登場！今年無須捱夜等月全食	https://www.timeout.com.hk/hong-kong/hk/%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1/%E5%85%83%E5%AE%B5%E7%AF%80-%E8%A1%80%E6%9C%88-%E7%99%BB%E5%A0%B4%EF%BC%81%E4%BB%8A%E5%B9%B4%E7%84%A1%E9%A0%88%E6%8D%B1%E5%A4%9C%E7%AD%89%E6%9C%88%E5%85%A8%E9%A3%9F-030226	血月日蝕
+2026-02-28	今晚血月登場！3/3月全蝕撞元宵節，台灣觀賞時間、最佳地點與民俗禁忌一次看	https://www.cosmopolitan.com/tw/lifestyle/hot-topics/g70508675/total-lunar-eclipse-0302/	血月日蝕
+2026-02-27	水逆、六星連珠、血月接力來襲！專家警告：金融、地震、血光	https://tw.news.yahoo.com/水逆-六星連珠-血月接力來襲-專家警告-金融-075050018.html	血月日蝕
+2026-02-27	元宵撞正血月！3月3日月全食現香港命理師警告：吉凶參半8大禁忌防血光之災- 東張+	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/16837029594824/%E7%94%9F%E6%B4%BB-%E5%85%83%E5%AE%B5%E6%92%9E%E6%AD%A3%E8%A1%80%E6%9C%88-3%E6%9C%883%E6%97%A5%E6%9C%88%E5%85%A8%E9%A3%9F%E7%8F%BE%E9%A6%99%E6%B8%AF-%E5%91%BD%E7%90%86%E5%B8%AB%E8%AD%A6%E5%91%8A-%E5%90%89%E5%87%B6%E5%8F%83%E5%8D%8A-8%E5%A4%A7%E7%A6%81%E5%BF%8C%E9%98%B2%E8%A1%80%E5%85%89%E4%B9%8B%E7%81%BD	血月日蝕
+2026-02-26	準備好你的願望清單了嗎？3 月 3 日元宵夜不僅有湯圓，還有一場「血月」浪漫奇觀	https://popbee.com/wellness/astrology/blood-moon-on-3-3-2026	血月日蝕
+2026-02-26	元宵夜將現赤紅奇景「血月」：凶兆傳說外，藏著日月相惜的溫柔神話	https://www.xinmedia.com/article/305161	血月日蝕
+2026-02-24	天文台料本周後期起有雨 下周二3.3「元宵血月」恐無緣看到	https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60324571/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%9C%AC%E5%91%A8%E5%BE%8C%E6%9C%9F%E8%B5%B7%E6%9C%89%E9%9B%A8-%E4%B8%8B%E5%91%A8%E4%BA%8C3-3-%E5%85%83%E5%AE%B5%E8%A1%80%E6%9C%88-%E6%81%90%E7%84%A1%E7%B7%A3%E7%9C%8B%E5%88%B0	血月日蝕
+2026-02-24	今年唯一血月將在正月十五降臨	https://www.epochtimes.com/b5/26/2/23/n14704565.htm	血月日蝕
+2026-02-23	3 月 3 日「血月」即將登場！紅色月亮真的代表厄運來襲嗎？天文現象解析一次看懂	https://www.gq.com.tw/article/3-%E6%9C%88-3-%E6%97%A5%E8%A1%80%E6%9C%88%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4	血月日蝕
+2026-02-22	三月的月全食將呈現完整的「血月」	https://www.epochtimes.com/b5/26/2/9/n14694529.htm	血月日蝕
+2026-02-20	（有片）3·3元宵節有「血月」睇 歷時一句鐘肉眼可觀測（附觀測時間及直播連結）	https://www.tkww.hk/a/202602/20/AP69982c64e4b04773b069b2eb.html	血月日蝕
+2026-02-20	月全食｜3.3元宵節肉眼睹「血月」 天文台教最佳觀賞時間及方向	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323648/%E6%9C%88%E5%85%A8%E9%A3%9F-3-3%E5%85%83%E5%AE%B5%E7%AF%80%E8%82%89%E7%9C%BC%E7%9D%B9-%E8%A1%80%E6%9C%88-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%95%99%E6%9C%80%E4%BD%B3%E8%A7%80%E8%B3%9E%E6%99%82%E9%96%93%E5%8F%8A%E6%96%B9%E5%90%91	血月日蝕
+2026-02-20	月全食2026︱3.3元宵節香港有「血月」睇！附最佳觀賞地點/時間/網上直播連結	https://www.stheadline.com/society/3546075/%E6%9C%88%E5%85%A8%E9%A3%9F202633%E5%85%83%E5%AE%B5%E7%AF%80%E9%A6%99%E6%B8%AF%E6%9C%89%E8%A1%80%E6%9C%88%E7%9D%87%E9%99%84%E6%9C%80%E4%BD%B3%E8%A7%80%E8%B3%9E%E5%9C%B0%E9%BB%9E%E6%99%82%E9%96%93%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90	血月日蝕
+2026-02-13	隆重介紹將於2026年登陸PS5的哥德風動作冒險角色扮演遊戲《血月》	https://blog.zh-hant.playstation.com/2026/02/13/20260213-crimson/	血月日蝕
+2026-02-13	《沙羅週期》公開日蝕變化機制與自訂選項詳情	https://blog.zh-hant.playstation.com/2026/02/13/20260213-saros/	血月日蝕
+2026-01-23	2026年將開啟連續三年「日全食的黃金時代」 下一次血月四連環，竟與耶穌復活兩千週年交會	https://cdn-news.org/news/N2601210005	血月日蝕
+2026-01-03	超級月亮｜2026年首個「超級月亮」今晚出現錯過要等到今年尾 即睇10個賞月地點 |香港經濟日報	https://ps.hket.com/article/4062406/%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE%EF%BD%9C2026%E5%B9%B4%E9%A6%96%E5%80%8B%E3%80%8C%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE%E3%80%8D%E4%BB%8A%E6%99%9A%E5%87%BA%E7%8F%BE%E9%8C%AF%E9%81%8E%E8%A6%81%E7%AD%89%E5%88%B0%E4%BB%8A%E5%B9%B4%E5%B0%BE%20%20%E5%8D%B3%E7%9D%8710%E5%80%8B%E8%B3%9E%E6%9C%88%E5%9C%B0%E9%BB%9E	反常天象
+2026-01-03	超級月亮今晚現身 明早再有流星雨	https://hk.on.cc/hk/bkn/cnt/news/20260103/bkn-20260103142627978-0103_00822_001.html	彗星隕石
+2026-01-03	今晚出現2026年首個「超級月亮」 周日清晨將有今年首場流星雨	https://news.tvb.com/tc/1143361-%E4%BB%8A%E6%99%9A%E5%87%BA%E7%8F%BE2026%E5%B9%B4%E9%A6%96%E5%80%8B%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE%E5%91%A8%E6%97%A5%E6%B8%85%E6%99%A8%E5%B0%87%E6%9C%89%E4%BB%8A%E5%B9%B4%E9%A6%96%E5%A0%B4%E6%B5%81%E6%98%9F%E9%9B%A8	彗星隕石
+2025-12-02	要防彗星撞地球！NASA 用 NEO 太空望遠鏡計畫追蹤近地天體	https://www.inside.com.tw/article/30237-NASA-Near-Earth-Object-Surveyor	彗星隕石
+2025-12-01	金色彗星C/2025 K1突然爆炸 罕见画面曝光	https://tech.creaders.net/2025/12/01/2943682.html	彗星隕石
+2025-11-30	人類發現的第一顆近地小行星 再次飛掠地球	https://www.epochtimes.com/b5/25/11/30/n14645861.htm	彗星隕石
+2025-10-24	哈佛教授：神秘天體3I/ATLAS或為外星探測船 10.29最接近太陽真相揭曉 會否出現彗星撞地球？	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/16135812073098/%E7%94%9F%E6%B4%BB-%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88-%E7%A5%9E%E7%A7%98%E5%A4%A9%E9%AB%943I-ATLAS%E6%88%96%E7%82%BA%E5%A4%96%E6%98%9F%E6%8E%A2%E6%B8%AC%E8%88%B9-10-29%E6%9C%80%E6%8E%A5%E8%BF%91%E5%A4%AA%E9%99%BD%E7%9C%9F%E7%9B%B8%E6%8F%AD%E6%9B%89-%E6%9C%83%E5%90%A6%E5%87%BA%E7%8F%BE%E5%BD%97%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83-	彗星隕石
+2025-10-16	兩天前才發現的近地小行星 2025 TP5，今天比月球更接近地球	https://technews.tw/2025/10/16/2025-tp5-asteroid-earth-fly-by/	彗星隕石
+2025-09-07	時隔3年「紅月亮」今晚再登場中國多地可見 專家解「災殃之兆」	https://www.hk01.com/article/60274104?utm_source=01articlecopy&utm_medium=referral	血月日蝕
+2025-09-05	農曆七月凶兆｜血月接連日偏食台灣占星師警告4大強烈星象人類業力大清算政治股市動蕩天災降臨- 東張+	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/15869983367437/%E8%BE%B2%E6%9B%86%E4%B8%83%E6%9C%88%E5%87%B6%E5%85%86-%E8%A1%80%E6%9C%88%E6%8E%A5%E9%80%A3%E6%97%A5%E5%81%8F%E9%A3%9F-%E5%8F%B0%E7%81%A3%E5%8D%A0%E6%98%9F%E5%B8%AB%E8%AD%A6%E5%91%8A4%E5%A4%A7%E5%BC%B7%E7%83%88%E6%98%9F%E8%B1%A1-%E4%BA%BA%E9%A1%9E%E6%A5%AD%E5%8A%9B%E5%A4%A7%E6%B8%85%E7%AE%97-%E6%94%BF%E6%B2%BB%E8%82%A1%E5%B8%82%E5%8B%95%E8%95%A9-%E5%A4%A9%E7%81%BD%E9%99%8D%E8%87%A8	血月日蝕
+2025-09-03	鬼節禁忌｜鬼節撞正血月四大原因今年農曆七月凶上加凶！農曆七月7招自保本周五鬼門大開！ - 東張+	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/15858357188616/%E9%AC%BC%E7%AF%80%E7%A6%81%E5%BF%8C-%E9%AC%BC%E7%AF%80%E6%92%9E%E6%AD%A3%E8%A1%80%E6%9C%88-%E5%9B%9B%E5%A4%A7%E5%8E%9F%E5%9B%A0%E4%BB%8A%E5%B9%B4%E8%BE%B2%E6%9B%86%E4%B8%83%E6%9C%88%E5%87%B6%E4%B8%8A%E5%8A%A0%E5%87%B6-%E8%BE%B2%E6%9B%86%E4%B8%83%E6%9C%887%E6%8B%9B%E8%87%AA%E4%BF%9D-%E6%9C%AC%E5%91%A8%E4%BA%94%E9%AC%BC%E9%96%80%E5%A4%A7%E9%96%8B-	血月日蝕
+2025-09-01	2025年9月天象盛宴：紅月月全食來襲 金星昴宿星團共舞觀星必看	https://www.hk01.com/article/60272016?utm_source=01articlecopy&utm_medium=referral	反常天象
+2025-01-09	普珥節將迎來「血月」！ 血月歷史標記出關鍵時刻，都在猶太人重大事件出現	http://cdn-news.org/News.aspx?EntityID=News&PK=0000000092754bc1e057c416e234ae4db6e795a54200780e	血月日蝕
+2024-10-25	10月小行星：小行星撞擊預警再度成功、5顆近地小行星今日最靠近地球	https://www.natgeomedia.com/science/article/content-17626.html	彗星隕石
+2024-10-24	小行星撞擊預警再度成功，五顆近地小行星今日最靠近地球	https://technews.tw/2024/10/24/asteroid/	彗星隕石
+2024-08-20	2026「藍月」5/31登場！8個藍月小知識帶你一睹天文奇景	https://www.harpersbazaar.com/tw/culture/lifestyle/g61920483/supermoon-bluemoon-8-points/	反常天象
+2024-02-01	半新盤蝕讓停不了 將軍澳MONTEREY兩日蝕兩伙 平台戶3年蝕一球	https://www.hk01.com/article/986896?utm_source=01articlecopy&utm_medium=referral	血月日蝕
+2024-01-29	彗星撞地球？5顆小行星與地球「擦身而過」 最接近時間點曝光 | 國際 | CTWANT	https://www.ctwant.com/article/314827/	彗星隕石
+2024-01-29	彗星撞地球？5顆小行星與地球「擦身而過」 最接近時間點曝光	https://www.ftnn.com.tw/news/176381	彗星隕石
+2023-02-01	ZTF彗星今最接近地球 錯過恐要等5萬年	https://news.pts.org.tw/article/620718	彗星隕石
+2022-04-28	異象頻頻！成都驚現超大日暈北京四月飄雪吉兆還是凶兆？（視頻） | 四川 | 成都 | 日暈| 血色太陽| 血月	https://www.soundofhope.org/post/616078?lang=b5	血月日蝕
+2021-07-12	有機會看到火流星？七月流星雨預報「寶瓶座δ南流星雨 + 摩羯座α流星雨」，「這兩天」最適合觀測	https://news.google.com/rss/articles/CBMiekFVX3lxTFB0akx5WmpVQU9RdmJWenREcXFoR3ZFUEI2WWNQaVNaRUttWEROWmwzLW0zbnBzVFE5TTVJNDVJLXpXejNCT3k4bFNzVDgxdlFDZkdWQmtXZjU3RGtJU19OTTY1dnlaZFRvckNQcU1lM3BvN2pOVUQxLUtn?oc=5	彗星隕石
+2020-04-29	彗星撞地球真實上演？ 直徑2公里小行星擦身而過| CTWANT	https://today.line.me/tw/v3/article/3l0DKk	彗星隕石
+`;
