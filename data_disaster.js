@@ -1,4 +1,4 @@
-// 天災 | 由 build_news_js.py 生成 | 共 3854 條
+// 天災 | 由 build_news_js.py 生成 | 共 3858 條
 var DATA_DISASTER = `
 2026-10-14	特朗普：美國仍在與烏克蘭分享情報 希望盡快結束俄烏戰事	https://news.rthk.hk/rthk/ch/component/k2/1873827-20261014.htm	未分類
 2026-10-14	沙特首都利雅得發布防空警報 據報沙特阿美總部大樓遭導彈襲擊	https://news.rthk.hk/rthk/ch/component/k2/1873839-20261014.htm	未分類
@@ -7,6 +7,7 @@ var DATA_DISASTER = `
 2026-10-14	據報俄國自特朗普宣布能源停火以來首日未有襲擊烏能源設施	https://news.rthk.hk/rthk/ch/component/k2/1873826-20261014.htm	未分類
 2026-10-14	報道指內塔尼亞胡與特朗普討論重啟對伊戰爭可能性	https://news.rthk.hk/rthk/ch/component/k2/1873850-20261014.htm	未分類
 2026-10-14	俄空襲基輔發電廠 澤倫斯基：未獲美國等西方盟友預警	https://www.ettoday.net/news/20261014/3254156.htm	未分類
+2026-10-14	伊朗召見英國駐伊朗大使 抗議英政府毫無根據指控	https://news.rthk.hk/rthk/ch/component/k2/1873856-20261014.htm	未分類
 2026-10-13	英軍基地疑淪恐攻目標 英相：極可能伊朗謀劃	https://www.ettoday.net/news/20261013/3253498.htm	未分類
 2026-10-13	英揆指空軍基地安全事件極有可能由伊朗策劃 伊方要求拿出證據	https://news.rthk.hk/rthk/ch/component/k2/1873672-20261013.htm	未分類
 2026-10-13	英國就伊朗持續展開惡意活動召見伊朗大使 提出嚴正交涉	https://news.rthk.hk/rthk/ch/component/k2/1873670-20261013.htm	未分類
@@ -985,6 +986,7 @@ var DATA_DISASTER = `
 2026-08-13	敏熙報氣象／埃特納火山噴發！ 機場停止起降.火山灰衝擊觀光	https://m.4gtv.tv/article/2026081305000012	火山
 2026-08-13	战斗渠系列故事｜巧借昆仑洪水 策勒戈壁淤出丰收田	https://www.tlfw.net/sh/202608/t20260813_35906189.html	未分類
 2026-08-13	應對氣候變遷 如開盲盒	https://reader.turnnewsapp.com/ct/20260813/b50aa10/q1rfmjaynja4mtnfqtewxze1/share	未分類
+2026-08-13	意大利西西里島埃特納火山爆發 航空交通大受影響	https://news.google.com/rss/articles/CBMizwJBVV95cUxQQVA0dk0tRFd1SlptVGppcmRuSFBXQWVySkNmbnlyR092UWVocGpUaG1aMzFIOEt3VHdrMU1HcWR6cURjWjg4amc1MWM3SkMtaDBoN3E0Zk93VFFsT2dwbTFJblVlQzV2dU9IOTl3eXJNcGtYeC0tMVBfcDluLXZNLUdNUV9BeER4UjJFZklMOGpBMWM4WGhHR1BhUUVnWmMyQVBDVEJsTHZsaFExd0tnQkdXY2JkdmVCaHdxUWNHelFKS1d0NjNxVll0TlMxS1BsRTFXeUd5TlJiQ1dBTi03NlRpdmhQd2V5THR3Sk5FemZHZGh6TkZQc2NHZTFWQTVIa3hTdVZIN1VOWlhEZk03RHhCaVBTQW1DN3RnWmdLRUlWTWRaSUhIWkdFSnJIS3FoWXNscGt6V2hLRzdvdzhDWnhRMzRCaUsxTlF2eFY4QQ?oc=5	火山
 2026-08-13	意大利埃特纳火山持续喷发 航班受影响	https://d.youth.cn/shrgch/202608/t20260813_16812943.htm	未分類
 2026-08-13	意大利埃特納火山爆發 當地航空交通大受影響	https://news.tvb.com/tc/1188790-意大利埃特納火山爆發當地航空交通大受影響	火山
 2026-08-13	意大利埃特納火山噴發 遊客靠近炙熱熔岩拍照引發當地嚮導擔憂	https://www.hk01.com/article/60379827	火山
@@ -1221,6 +1223,7 @@ var DATA_DISASTER = `
 2026-08-04	廣東汕尾市海豐縣發生2.9級地震- 兩岸	https://www.dotdotnews.com/a/202608/04/AP6a71997ce4b04b6c5d35ada6.html	地震
 2026-08-04	台灣高雄援助地震災區的物資抵達熊本	https://tchina.kyodonews.net/articles/-/11705	地震
 2026-08-04	危地马拉富埃戈火山喷发 启动橙色警报	https://www.chinanews.com.cn/gj/2026/08-04/10671818.shtml	未分類
+2026-08-04	危地馬拉富埃戈火山噴發全國發布橙色警報- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE1Hd001ckZmQjk0eEJJTnNfQlN1Wk1JTUtlYXNwM3FsZTVsZnZkeDBQTHh0VDl6Z1JOZDNaNFhOZ1NfRElBck44NVlwVnFnVzllcjdOZUQ1VlZQM1BicEJPT0MwcGRNbzdHOHpQWTZ1a2k1SVFKNXpr?oc=5	火山
 2026-08-04	危地馬拉富埃戈火山噴發 政府疏散多個村莊	https://big5.cctv.com/gate/big5/news.cctv.cn/2026/08/04/ARTIKsDkpS9zcSBoL99clhLY260804.shtml	火山
 2026-08-04	南韓｜首爾首發高溫警報 熱浪致16死	https://inews.hket.com/article/4171052	熱浪乾旱
 2026-08-04	南韓熱浪釀16死 氣象廳對首爾發高溫預警	https://www.am730.com.hk/國際/1045500/南韓熱浪釀16死-氣象廳對首爾發高溫預警	熱浪乾旱
@@ -2251,6 +2254,7 @@ var DATA_DISASTER = `
 2026-06-19	蘇丹戰火持續兒童陷生存危機 營養不良疾病教育中斷威脅一代人	https://www.bastillepost.com/hongkong/article/16200453-蘇丹戰火持續兒童陷生存危機-營養不良疾病教育中	未分類
 2026-06-19	端午節不平靜！彰化田中19：00發生規模3.0極淺層地震	https://tw.news.yahoo.com/端午節不平靜-彰化田中19-00發生規模3-0極淺層地震-112057738.html	地震
 2026-06-19	急救乾旱髮❓🐝🍯 護髮好物推薦！ ✨	https://www.ulifestyle.com.hk/community/detailpost/d79e03be-948e-4f29-9883-7d5bce46d71a/著數報料/急救乾旱髮-護髮好物/lammjoycec/277479	熱浪乾旱
+2026-06-19	山泥傾瀉警告取消 土力工程處復修2宗個案	https://news.google.com/rss/articles/CBMidkFVX3lxTE5NalRaQ2RfQXN2NzVIOWw2aE5XVlpWdld2dGV4M1llY09sUjhjSVdNclhnSjlqaS02a0Q0djNvUnc4TnhLakNzemJJaHZsdDRQcFlYTlN0Qk9kR29QaFRORHAwRGVGOC1BWHFwN0xoSGVHd1hJV0E?oc=5	未分類
 2026-06-19	北京老人院遭洪水淹浸32死 17名公職人員失職被問責	https://news.tvb.com/en/1177865-北京老人院遭洪水淹浸32死17名公職人員失職被問責	未分類
 2026-06-19	俄羅斯堪察加發生6.6級地震海嘯中心發布預警- 國際	https://www.dotdotnews.com/a/202606/19/AP6a34f07fe4b09ea23318eea0.html	地震
 2026-06-19	以色列空襲黎巴嫩南部至少16死 萬斯批不能靠殺戮解決國家安全問題	https://www.orangenews.hk/international/VMyjqd7/以色列空襲黎巴嫩南部至少16死-萬斯批不能靠殺戮解決國家安全問題.shtml	未分類
