@@ -1,5 +1,8 @@
-// 交通 | 由 build_news_js.py 生成 | 共 2077 條
+// 交通 | 由 build_news_js.py 生成 | 共 2080 條
 var DATA_TRAFFIC = `
+2026-10-14	青馬大橋4車連環相撞 5人受傷	https://news.google.com/rss/articles/CBMi9gFBVV95cUxPenFScGFaODQ1eXozRzAxc01zbzNvaEtDajZha1o4MjktMlRaVGdWTHhXOXNuLWlHb2s2U0k2R0loejFRM2ZGSGZOTUlHU2NEbmdPT183MEs5R2VnWkNEb1NxdHRQZ3dnMVFmbkE3V0p0VDNlNVk3b1dwQ2ZJSGlkYm5aZG1IVkNydUZnSDdZSkg3Mkp6TVdCdl82YnRuaVVnWVFRVVJxVjZhRGxfcHUzQmhNU1d1cGwtdFAzTHRDbHZyNE4zN2h1aDB3d3NTdTAwb29LRndydWc1bW0wX09MQkd6Ukt4VnRqdkpDczFHeWt6Z0l4RHc?oc=5	未分類
+2026-10-14	港鐵：接駁巴士正行駛來往觀塘至油塘站 中途藍田站乘客可上下車	https://news.rthk.hk/rthk/ch/component/k2/1873861-20261014.htm	未分類
+2026-10-14	桃園交通事故死亡降23.4%六都第一張善政：道安改善見成效| 桃竹苗| 地方	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MZkk1Zm5yREFYcXVXV005VVYtVXZsTlE3Q21WYWJVc2J1Rmx3ODRoYjJOTk5fRU0xUHR6TUdoTjR1ejdGb05pLVV3Sy1XX2ZF?oc=5	未分類
 2026-10-14	快訊／上班快改道！ 國1「2車追撞」塞爆	https://www.ettoday.net/news/20261014/3254161.htm	未分類
 2026-10-14	倒車撞倒機車扶起以為「沒關係」 吃罰單還要吊扣駕照1個月	https://news.ltn.com.tw/news/society/breakingnews/5605381	未分類
 2026-10-14	人命剛沒了！北市女騎士撞死人隔天吸安 辯「腦袋很亂」下場曝	https://www.ettoday.net/news/20261014/3254153.htm	未分類
