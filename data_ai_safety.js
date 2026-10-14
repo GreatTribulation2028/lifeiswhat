@@ -1,4 +1,4 @@
-// AI安全 | 由 build_news_js.py 生成 | 共 523 條
+// AI安全 | 由 build_news_js.py 生成 | 共 525 條
 var DATA_AI_SAFETY = `
 2026-10-14	人工智慧推波助瀾，網路攻擊席捲日本- 紐約時報中文網	https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk94N1FVZjJrWWZNVnowNTFpVDltdkdiblRVeUYtaFF0clFIMTU5Wk9GSkh5cWdpdHZWMXJzSTc0dHVvcG1BdDNOSzRxZ3dhV2ZvUTBWQTdvd3JVQmV5QzdrTUhZN0l1VFZ4T2toU212Q0d6YU1leHVJdFdhdG9YQ0JPOWZQd3BMdXlaNFFVVkItdjlIRFVaOVVLUQ?oc=5	未分類
 2026-10-13	蓋茨警告AI 缺乏監管威脅日益嚴峻預測未來一年網絡攻擊將大幅加劇	https://news.google.com/rss/articles/CBMi6AJBVV95cUxOMEdzSEtoTTBubFVRUFJxTHhOWmJPNFZ0VzVKV1FVSFBYUUdXTFctYWw3Q1JoT3pYNkYwTWYyWHZRTXhPemFPazk0OHVOb2xPZk54MmZsX1Y4SnAwWlhoY2U0NFBEdE5UZUdRbWlFN2VIaTA1SXZQUVVMN2JYbk82QTZkNm9jVjFwdTBONGNsTEdrUFNfTDFDWmRNYXhjZklleW11aVRnSnp0UnR1dWpiWTN1cGc2VDBIWncwYnJmU1ZiY192akpNRW1GYnBtWlVxSVViZGxxbU1EcnNKMlhHU3J5ZTMxaHpkRWE0NTdadFdtV19kSW5ySzdMS3hUSnpIM0ViRjVQSUFHdlZTbUJyQnJXZlE1VktLQmJ2X3ZkWE1WeU9CVkVKNjFkU3B0ZFdsTXU4Y0JkYmlrR1ZQOWtCWC1EcFNEbkZkWC14VTZVYXRnVHhBSkFHbC1BYU9KazJpdk1ZYm16TTU?oc=5	網絡攻擊
@@ -20,6 +20,8 @@ var DATA_AI_SAFETY = `
 2026-10-09	韓國金融委員會遭網路攻擊7個月達3,433次，資安專責人力僅1人	https://news.google.com/rss/articles/CBMiekFVX3lxTE9zZmtmX3kyWWtRR0swRU1FRjRpR0tkcUVQYlNmV3J2V3lSSE5weV8zck5PeUZNOG1XMEdFN051LXBBdmpuMGhsU2VtLW8xLUhTQjh0b2NmWlVSV0JrTV82YjFnRk84WXdrZ2JXNVBhelN1cm1DYjVUVjhB?oc=5	未分類
 2026-10-09	日本接連有企業遭到網絡攻擊 數以千萬計用戶資料外洩	https://news.google.com/rss/articles/CBMibEFVX3lxTE9ENWJpbWFISkM3Mmd4dF9SeGZwd1lzX3ViWmJvN2wtUHJEYXhOQTlURS1UMTBBLThCdF9ISXQzWXBXYXhiOC0tTktFNWh6Umh2WjVuRUVadEFCZExXaktKMklibmtxVGxuTlNfQg?oc=5	網絡攻擊
 2026-10-07	亞利桑那州法院系統遭網絡攻擊 超過百萬人資料被盜	https://www.bastillepost.com/hongkong/article/16921580-%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%E6%B3%95%E9%99%A2%E7%B3%BB%E7%B5%B1%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E8%B6%85%E9%81%8E%E7%99%BE%E8%90%AC%E4%BA%BA%E8%B3%87%E6%96%99%E8%A2%AB	網絡攻擊
+2026-10-05	韓國多家銀行遭網絡攻擊 疑黑客利用AI施襲	https://www.hk01.com/article/60396333	網絡攻擊
+2026-10-02	王赫：1-8月財政收支數據洩露中共四大問題	https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBTHdUcDd5U3ZYcGViTG9LZU9jWEN6N0JURFBCNE1heXRQd2xBblR6YmR1WU5YRXJNVmRlN1h3d0lNQ1BobE4yREtQNGVUOE5XUWNqSURpOXZaZU9IWC1N?oc=5	數據洩露
 2026-10-01	日本施行能動性網路防禦相關法 允許無害化網路攻擊源	https://tchina.kyodonews.net/articles/-/14296	未分類
 2026-10-01	惡意軟件 CloudSyncD 以 Zoom 安裝程式為掩護進行資訊竊取	https://www.techritual.com/2026/10/01/587285/	未分類
 2026-10-01	FBI與美國國防部接連遭網路攻擊 數百萬人個人資料曝光	https://news.cnyes.com/news/id/6619761	未分類
