@@ -1,10 +1,13 @@
-// 治安 | 由 build_news_js.py 生成 | 共 2162 條
+// 治安 | 由 build_news_js.py 生成 | 共 2169 條
 var DATA_SECURITY = `
+2026-10-14	（有片）韓國仁川持刀傷人嫌犯佩戴電子腳鐐李在明下令徹查監管體系- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE5rcUJ5QWNIR09PZkJneWpRdnBSSU9peWJpVmNwclNBbkpIam85clVvZmMxeERLSmY0ZGp3cDZVV0VzdXpjb3VPczVMczB6VDRCV094REFhX3RzOXBLOFlsdEF6RGNTSGdBcF9ObTJ1R21IWkFwM25XMjZR?oc=5	未分類
 2026-10-14	酒後持刀限制女友行動還打傷警察 莽男判9月	https://news.ltn.com.tw/news/society/breakingnews/5605424	未分類
 2026-10-14	越女捧130萬買車卻「說不出車款」 警急衝銀行揭詐騙套路	https://news.ltn.com.tw/news/society/breakingnews/5605414	未分類
 2026-10-14	網購退貨氣炸！男子蝦皮亂噴「賣家是詐騙集團」 代價出爐	https://news.ltn.com.tw/news/society/breakingnews/5605400	未分類
 2026-10-14	男被控性侵女兒 被害人證詞遭污染獲判無罪	https://news.ltn.com.tw/news/society/breakingnews/5605453	未分類
 2026-10-14	新莊外甥涉殺死阿姨 新北檢聲押獲准	https://news.ltn.com.tw/news/society/breakingnews/5605225	未分類
+2026-10-14	南科大發生宿舍持刀襲擊案 傳因作息矛盾引發	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PWUhNSGk0NU90R3ZLVU16ekdwTlFQWFRiclpVWWstcTJtNkI4OXM1YW5yRG0zNzc3VmFYY1FvdzJkR093X1d6YndpbHdqcExMRTVpLV9XbWd6eHNLSVpHU2lR0gFnQVVfeXFMTy1RcHJQeHpVX3V3QTNianczZmVDZVh3VmlwYW1HdHZtZ3lCSEdjQzMyYzNJMzhnUGFKNjR3dy1JbEpId29yTDlmSjlHQnIzRXRjNmtFS1gwM1g0UHpfRkFQWV9EMzBMSQ?oc=5	未分類
+2026-10-14	一張發票 讓他免於淪為性侵犯指控	https://news.ltn.com.tw/news/society/breakingnews/5605457	未分類
 2026-10-13	韓賣場刀漢行兇 有人心臟驟停	https://news.google.com/rss/articles/CBMiwgJBVV95cUxPVml2Q2w2UjNBUU81cGw1SDByb1BFYnQwcHl0MmdpTVlBckl6RHNsX284VVFBZmR2V0lsX3p5RC0yQWxCUEVlOWFPekQ0ZVRiVUtpZG92T0JzX2hsblhBaFhHY21uVU5GSDAxQ0hhNjRuYjI2eEIyNkxIYjFkR2kxaS1EUFowM0d6NThLcVNZTnRCZFRvT1Z6cWdnNFBCZkFWZWhlczJsM2pMNVFYNGNwbDRyMUgwR1BWQ3c3QUFiWEpIUzBXVnBYUU5lcjZuVEJ6NUNCX213eVdTVWE0cHY0Q0tJNENaWWFFa185VTNzc3BjZWZfeVN2S052Vnl3V0Zsbm8xcmdGTXZFY25WalNXOF9nUHhWTEJDTTRpdG5oNlhTdDF4VXVvY0ctdGRDRTRSSzVEZ2xMcjd5QnNQaDYwVTdR?oc=5	謀殺
 2026-10-13	韓男雙手纏刀闖仁川超市狂揮傷人！顧客奮勇制伏 8送醫1心臟驟停	https://news.google.com/rss/articles/CBMib0FVX3lxTFBJLXdwTEpVX1A5YVFIa1Z0UnpjMWRMNjZiY2hEelNxNW0xRU5KZ0NvYWtiMjA5TXRmUTF3WDVxYUpqT0tCOWdkR1Y2LVJCRnBhaFhHTDd1N3pLR05LUy1oTkhOaDN6RV9ITTZrMjhNUQ?oc=5	未分類
 2026-10-13	韓國知名連鎖量販店爆持刀攻擊！8人受傷、1人心臟驟停	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oWlBTNVpJaW9ET1RUVDBUTXZGc2xFMXhTYWZ3OEZzUzJFUjdfUmRDcHJhQjM2cUxzQV8zd3BiRkYyd1BXTnJwQ3ZHVzRPTzVQSmfSAVJBVV95cUxNaFpQUzVaSWlvRE9UVFQwVE12RnNsRTF4U2FmdzhGc1MyRVI3X1JkQ3ByYUIzNnFMc0FfM3dwYkZGMndQV05ycEN2R1c0T081UEpn?oc=5	未分類
@@ -12,6 +15,7 @@ var DATA_SECURITY = `
 2026-10-13	韓國持刀傷人事件致8人受傷 涉嫌行兇男子已被捕	https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtfX3JuWFdNRzlwb01fQjFNN1l0d0JpT1JlUmsxdnQxc0x5ZHZjRG9tSXZSdzZIUGhHb3lnbFd4YmNQUWEzdU53RVBBOTJQX3dicUJTU2I0U1E1ejUweE5uSnZhZlprcjMxclVjLXJEaXJSbEFyUE5QZnNLNFV3SktwY001MGF1OENZLVBvd2c4ZjEzNm91WjNya1ZuanF3NmdxMWVEZUgzX2lNWGc?oc=5	謀殺
 2026-10-13	韓國持刀傷人事件增至8人受傷 涉嫌行兇男子被捕	https://news.rthk.hk/rthk/ch/component/k2/1873754-20261013.htm	謀殺
 2026-10-13	韓國仁川驚傳持刀傷人案1人心跳停止、約7人受傷| 國際焦點| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lWGg5NjVyQnVQcEw1WG8zRDR3ZWNEdTRxWC1LVEJDUlg3MUZTZDFhM1FCeW5XbEl4Ums2d3ZuUW1ldzNta3ZfeGtGVEU1TmRs?oc=5	未分類
+2026-10-13	韓國仁川驚傳持刀傷人案1人心跳停止、約7人受傷| 國際	https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvQUUtWkFaMG5TZFBrVy02YWRVRThEUW1uellNUWNCQlVZUXJVb0tIUXAteHlhaHp2U2lCVHRxZ3hPSURwbVB3T2N2M2hCZW5Sb3dhbTlvTlk5OG9MOUJR?oc=5	未分類
 2026-10-13	韓國仁川超市驚傳持刀襲擊6至8人受傷- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTFB0bFMwT0NERzZFeGdHeGFEclRJXzh0UUV5NFJYbkpibHJmeFhrWmMzU1JVMXR6QnBUZDhsWFlfcS1KOVgxeTBxNmZEVUdzTFQtR3prSEdBWnZaMkVVMGloWDdBdUo3OTBGUm4yZ2ZBM0RoTm0taHNNTHVB?oc=5	未分類
 2026-10-13	韓國仁川超市發生隨機斬人案 8人受傷1人心臟驟停 狂徒當場落網	https://news.google.com/rss/articles/CBMi9ANBVV95cUxPYzEzOWFqU1JoRHI4Y0NsZHE1OHlUblFZSmkwY2dsUTBzcGtIVnUxbEVuNno5aGF5SG1JblhVcHpmTGFXUDRvakFUZkpLaTByS25zMF9LMGdUTjJfb3ZUSmh6QkhnNjgxNm96OVE2Nl9abGhUUm1sdHJ3Y0wtSVV0ZzE4eUtkLVZVTnEzWDJVa1hramtXQXd1R09rY1Nwb09zazZoaHJuakhkamhKM2xaY0hyeDRpV0t5TF9VX1JMV3BBLUVSLTRaRWFWLXRmeVZBUFVtTU5TelpLYzlrNWlFdVhGWXdxSDc4bzhrWDliUDNlVjkybWFBSzdRVFB6UDJrVGtMdHpEY2paZ1B5QlZoQmRYRWVCbzJpSGVNd2dDbVhBNUFJWFFZaF92REoxMXoxOWJzczBHcVJ2V051VkdqS2JEUWc3Q1R3aHVreFU1UU5ZVGR6a1BpUUhDdXpscTB6RmVYRDJjTXk3V01UZHNBeUFJTWJJa2hLR01ZLVhNNms1VEE0NkkzWThwaEZKR3Q4UHpnaE84ODBMLU5yRDQ4YmZLZmVvNno0VXJLaDUwZTlWXzAySWdPUXBtYnRjMTd6NGcxUVdULWpZSVJWazhNVTNwTGJXdVdxZ2diRjBScUhzQ0VPWEY1aUJCbmJDOHpRcTdlVQ?oc=5	未分類
 2026-10-13	韓國仁川發生持刀傷人事件多人受傷- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE5SeTcyWFB4Y255NkJSY2E0bl9lMGxkQmE4cUNGRDJkSk15RDJDYXpNMThSNE9oTm1laEloODl0VG94YUZPV1lFcjFiMl9tU2FGTTV6WHBtejJ0QUlDTHpkWUtkYkFFRDRUM3QwTnQ1a3UwdnhuZXAw?oc=5	未分類
@@ -121,6 +125,7 @@ var DATA_SECURITY = `
 2026-10-06	蔡天鳳案｜蔡母稱鄺球曾揚言殺死蔡天鳳全家	https://hkcd.com.hk/hkcdweb/content/2026/10/06/content_8778673.html	未分類
 2026-10-06	美喬治亞州街頭派對後爆槍擊 釀2死35傷	https://www.stheadline.com/realtime-world/3622988/美喬治亞州街頭派對後爆槍擊-釀2死35傷	未分類
 2026-10-06	美喬治亞州爆大規模槍擊！數百人狂歡突傳槍響 釀2死35傷	https://news.pchome.com.tw/internation/m00361/20261005/index-79118158952430361011.html	未分類
+2026-10-06	緬北電詐案件細節曝光：主犯隨機殺人祭天有受害者頭骨驗出7個彈孔- 內地	https://news.google.com/rss/articles/CBMibkFVX3lxTE51V181eHo0Q1g4QzF1U3RjeElBa3pGTkVGbmlhWXlpOFdoaktSejlqX3p1cVpGb1dFdXRXVlY1bGY0dUtvQTFNcFBNOWN4M0xVZUJZbHpoVUVxYWQtSnpKRmdBa0tReHMyOGNYY3BB?oc=5	謀殺
 2026-10-06	短片：西班牙暴雨成災釀兩死一失蹤 多處被淹浸 (11:02) - 20261005 - 國際	https://news.mingpao.com/ins/國際/article/20261005/s00005/1791169395319/短片-西班牙暴雨成災釀兩死一失蹤-多處被淹浸	失蹤人口販賣
 2026-10-06	澳洲悉尼發生持刀襲擊1死3傷	https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHVuZ1VwMmlGcDlYTnFQY2VVSjRkZ0lHeHBkME1OR2JKU0ZqSGREUjBKWW1GY2xiamEzR0EtaUc0bXhwNmRLazdka2hVMWRGN2NJT21sQkFwNFJkWTNodVFfSnFOR0tTeEtxbFRoWENhbGVuZUFmRTl5R0Q3OFg0X1ZyU1J1U216d0taYks2OTlxRmFjbjZ0WENoV3puUGs?oc=5	未分類
 2026-10-06	法國學生大規模抗議潮 示威變調！成暴力衝突	https://tw.news.yahoo.com/%E6%B3%95%E5%9C%8B%E5%AD%B8%E7%94%9F%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%8A%97%E8%AD%B0%E6%BD%AE-%E7%A4%BA%E5%A8%81%E8%AE%8A%E8%AA%BF-%E6%88%90%E6%9A%B4%E5%8A%9B%E8%A1%9D%E7%AA%81-112307761.html	未分類
@@ -747,6 +752,7 @@ var DATA_SECURITY = `
 2026-07-24	Sophos：79%勒索軟件以身份盜用攻擊 超過一半成功攻擊加密資料	https://www.businesstimes.com.hk/articles/329923/sophos-%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6-%E8%BA%AB%E4%BB%BD%E7%9B%9C%E7%94%A8%E6%94%BB%E6%93%8A-%E5%8A%A0%E5%AF%86%E8%B3%87%E6%96%99/	未分類
 2026-07-23	非份之罪｜骯髒的子彈真人真事改編、美國348號房密室殺人案	https://www.hk01.com/article/60372946	謀殺
 2026-07-23	非份之罪劇情｜16-20集危險遊戲結局 吳偉豪被殺真兇因一件事誓要復仇	https://www.weekendhk.com/entertainment/非份之罪-劇情-結局-吳偉豪-危險遊戲-16-20集-3466845/	未分類
+2026-07-23	重慶上周山泥傾瀉增至11人喪生 50人仍然失蹤	https://news.google.com/rss/articles/CBMib0FVX3lxTFB4d2JUck0wWV9OaFNpRnQxa2hRUFdTZkJkMUYyYTM0b2d4dXItbEc5ZDhEVmhuUkNyX0t5SWxGLUR2TTh0OXhXa05xNlFCYldQc1ZreGt2RlB2NXJQSTBmUlBpczlxYWZxMWVSS2dobw?oc=5	失蹤人口販賣
 2026-07-23	泰國南部有人在檢查站開槍並投擲炸彈 五名士兵死亡	https://news.rthk.hk/rthk/ch/component/k2/1863269-20260723.htm	未分類
 2026-07-23	快訊／南投埔里驚傳命案！印尼移工鬥毆釀2傷 1人傷重不治	https://m.4gtv.tv/article/2026072311000004	未分類
 2026-07-23	城巴7號線疑上層座椅藏針 女乘客臀部被刺傷送院	https://www.orangenews.hk/hongkong/VQBD8Gh/城巴7號線疑上層座椅藏針-女乘客臀部被刺傷送院.shtml	未分類
@@ -784,6 +790,7 @@ var DATA_SECURITY = `
 2026-07-17	非份之罪劇情｜16-20集危險遊戲結局 吳偉豪被殺真兇因一件事誓要復仇	https://www.nmplus.hk/entertainment/非份之罪-劇情-結局-吳偉豪-危險遊戲-16-20集-1648161/	未分類
 2026-07-17	霍爾木茲海峽一艘運油輪遇襲 結構輕微受損	https://www.881903.com/news/international/2640768	未分類
 2026-07-17	重慶彭水山體滑坡 至少8死34失蹤	https://www.rfi.fr/tw/中國/20260717-重慶彭水山體滑坡-至少8死34失蹤	失蹤人口販賣
+2026-07-17	重慶山泥傾瀉至少8死34失蹤 習近平要求科學組織搜救及查明原因	https://news.google.com/rss/articles/CBMijwNBVV95cUxPWGRaekgtZHVxRlY2Y044Q0dmeldqb2pBR2lHTE1GXzlMcVhaWUw1QWVTazFYSmhtSWg4WERqc3lrTW9Ja2tsYzhkcGdtY1Y0REhRUV9qV285MFMwWjhBemM4S3E4OTRWN0JUTDljWkUwU05aeXAwNUlKcFFTODVwS1kwVFRKTmt4dXRsdVhGcE1JVDRHUWNQRkYzR0pNN0ZuX3htSWZIVjdpMDlYMS1KR3d3ZmZGNUVMVGRqZk1sNHVORmFfYk5QNDY1WTgwRUdmS3ZVeFV0dG9vRURQbFkwQ05JT2xmcGVxUXhGemMxNV9jR0dEbHFGcFJ4RzhZSUVhVHlCckdTR1I5U1lJdWtfcWNYSHNXZElmeDlFekVoajhYU1FyT2hLWVN3QlUtNGpLOGVLam90R29aTU5IaHdYSlM4ZUpGTU53SGoxcDhfUjY3MEFRaDlmRm9EME5JR0ZMVDlBMjBtZTZhUktEQjdWNHZGWXdCQy1uR2ZoMmZsRUZ3UTl6RGl4Tk9PcjRWdms?oc=5	失蹤人口販賣
 2026-07-17	疑爭產反目 台教授30刀砍斃連襟 一度拒捕 警開4槍制服 - 20260717 - 中國	https://news.mingpao.com/pns/中國/article/20260717/s00013/1784219947022/疑爭產反目-台教授30刀砍斃連襟-一度拒捕-警開4槍制服	未分類
 2026-07-17	橡皮艇閃爆 7死5傷1失蹤	https://hk.on.cc/hk/bkn/cnt/news/20260717/bkn-20260717150537334-0717_00822_001.html	失蹤人口販賣
 2026-07-17	影/北市男騎車違規迴轉遭警攔檢 一查竟無照兼毒駕	https://news.pchome.com.tw/society/ctinews/20260717/index-78429699596920309002.html	未分類
