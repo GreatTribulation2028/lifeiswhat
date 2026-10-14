@@ -1,4 +1,4 @@
-// 自殺 | 由 build_news_js.py 生成 | 共 3565 條
+// 自殺 | 由 build_news_js.py 生成 | 共 3566 條
 var DATA_SUICIDE = `
 2026-10-13	慟！桃園女租客最後落單畫面曝光 割頸男竟曾任救護車技術員	https://news.ltn.com.tw/news/society/breakingnews/5604166	未分類
 2026-10-10	揚言尋短驚動警消破門！女子反咬房東謊報求償72萬 二審仍打臉	https://news.ltn.com.tw/news/society/breakingnews/5601742	未分類
@@ -2852,6 +2852,7 @@ var DATA_SUICIDE = `
 2024-12-16	珍惜生命︱藍田平田邨六旬婦上吊 兒子揭發惜已太遲	https://www.hk01.com/article/1085537?utm_source=01articlecopy&utm_medium=referral	上吊懸吊
 2024-12-16	珍惜生命︱紅磡鶴園街女子上吊 丈夫解下報案惜太遲	https://www.hk01.com/article/1085483?utm_source=01articlecopy&utm_medium=referral	上吊懸吊
 2024-12-13	珍惜生命│屯門兆禧苑 29歲女子燒炭殞命	https://www.hk01.com/article/1084541?utm_source=01articlecopy&utm_medium=referral	燒炭一氧化碳
+2024-12-12	飲彈自盡？中國海關總署：署長俞建華因突發疾病離世	https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kTTljeUJ5bDMwNGdvakxJQ1oybElZYTY0VjBpaXBHVkN5RmdjVFl1d3BWRGxlYkU2U1g2Zk1ISnJfSGF5SzdtOTlqX0LSAVJBVV95cUxNbFEwcXlpLXEycFQ3TmI5QTN5N2R1TnBONkFFTFNqRHdZRjlXME0tXzdIX1piMWZmR0FZWC1neUJhcTB3aDVsWTY3VGd4Z0lYbi1n?oc=5	槍械方式
 2024-12-12	珍惜生命︱鴨脷洲邨六旬漢上吊 胞姐發現惜太遲	https://www.hk01.com/article/1084527?utm_source=01articlecopy&utm_medium=referral	上吊懸吊
 2024-12-12	俞建華猝死 網傳疑涉高層內鬥“飲彈自盡”	https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20241212-%E4%BF%9E%E5%BB%BA%E8%8F%AF%E7%8C%9D%E6%AD%BB-%E7%B6%B2%E5%82%B3%E7%96%91%E6%B6%89%E9%AB%98%E5%B1%A4%E5%85%A7%E9%AC%A5-%E9%A3%B2%E5%BD%88%E8%87%AA%E7%9B%A1	槍械方式
 2024-12-12	中國海關總署長爆「飲彈自盡」！媒體人揭「輕生導火線」相關報導急下架中共回應了| 古靜兒| 風生活	https://www.storm.mg/lifestyle/5290995	槍械方式
