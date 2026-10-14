@@ -1,4 +1,4 @@
-// 宗教 | 由 build_news_js.py 生成 | 共 169 條
+// 宗教 | 由 build_news_js.py 生成 | 共 170 條
 var DATA_RELIGION = `
 2026-10-12	分工不分心 蔡嘉師牧師從尼希米記談同工建造	https://news.google.com/rss/articles/CBMiWkFVX3lxTE11NFZwRk1KX2xvXzdaVHdzZ2RyaFk4UjMyVWtPNnlYWjljakRIM3JMQVZDMG9aNDRKWTVVNHRXTG5DN252dEFFQzZ3M01PQzlkdlpubnhBNmJiZw?oc=5	未分類
 2026-10-11	24歲牧師馬拉松途中猝死！妻目睹最後笑容 淚崩：以為是惡夢	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTdXpKSGJVOWtoTUhpZV9jYnZ4M0M0aW5uYzRXbW1ReUpGODJhZDUxT0xyaFN6djVadHQ1YWxVelAwLUxxTDc5cVpydXlCVjA?oc=5	未分類
@@ -37,6 +37,7 @@ var DATA_RELIGION = `
 2026-08-05	港男沉船案終集！「邪教Miss」疑誘導少女性交易行騙 仲呃埋女技師200萬首期？	https://www.tvb.com/hottopic-c/%E6%B8%AF%E7%94%B7%E6%B2%89%E8%88%B9%E6%A1%88%E7%B5%82%E9%9B%86--%E9%82%AA%E6%95%99Miss-%E7%96%91%E8%AA%98%E5%B0%8E%E5%B0%91%E5%A5%B3%E6%80%A7%E4%BA%A4%E6%98%93%E8%A1%8C%E9%A8%99-%E4%BB%B2%E5%91%83%E5%9F%8B%E5%A5%B3%E6%8A%80%E5%B8%AB200%E8%90%AC%E9%A6%96%E6%9C%9F--1015197	未分類
 2026-08-04	東張西望 | 賣淫少女指自小被邪教補習MISS操控 MISS反指少女甘心情願 留意今晚《東張西望》	https://www.mytvsuper.com/tc/scoopplus/scoop/catch-up/17858142700966/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B---%E8%B3%A3%E6%B7%AB%E5%B0%91%E5%A5%B3%E6%8C%87%E8%87%AA%E5%B0%8F%E8%A2%AB%E9%82%AA%E6%95%99%E8%A3%9C%E7%BF%92MISS%E6%93%8D%E6%8E%A7-MISS%E5%8F%8D%E6%8C%87%E5%B0%91%E5%A5%B3%E7%94%98%E5%BF%83%E6%83%85%E9%A1%98--%E7%95%99%E6%84%8F%E4%BB%8A%E6%99%9A-%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B-	未分類
 2026-08-03	東張西望｜銀行精英沉船女技師借逾百萬 女方爆受邪教操控賣淫呃錢 主謀竟是年輕閨密？	https://www.stheadline.com/film-drama/3600608/%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B%E9%8A%80%E8%A1%8C%E7%B2%BE%E8%8B%B1%E6%B2%89%E8%88%B9%E5%A5%B3%E6%8A%80%E5%B8%AB%E5%80%9F%E9%80%BE%E7%99%BE%E8%90%AC-%E5%A5%B3%E6%96%B9%E7%88%86%E5%8F%97%E9%82%AA%E6%95%99%E6%93%8D%E6%8E%A7%E8%B3%A3%E6%B7%AB%E5%91%83%E9%8C%A2-%E4%B8%BB%E8%AC%80%E7%AB%9F%E6%98%AF%E5%B9%B4%E8%BC%95%E9%96%A8%E5%AF%86	未分類
+2026-07-26	2026-07-26 TICBC 主日崇拜講道高清重播 - 當不幸降臨時的試驗 (CC/含字幕)	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fcm50Mzc2SHlucVhTQVJadWFQQi0waW9aR0ljV3lQTzEzNWtESHloM0E5RDZmc0JicFRFTUNuSGd0R3I5VnZEeA?oc=5	未分類
 2026-07-24	【名家專欄】反擊伊朗和中共宗教狂熱分子	https://www.epochtimes.com/b5/26/7/24/n14816736.htm	未分類
 2026-07-20	中國達人秀男星變邪教主！逼女信徒簽身體之約 她慘遭封嘴塞箱裡身亡	https://star.setn.com/news/1875255	未分類
 2026-07-18	陸《達人秀》選手淪邪教主！涉殺70歲女信徒 紐國法院判罪成	https://ctinews.com/news/items/9pWzQX2pnv	未分類
