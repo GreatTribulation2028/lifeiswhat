@@ -495,5 +495,48 @@ addEventListener('scroll',()=>{
 
 loadAll();
 </script>
+
+<style id="mobileFix">
+@media(max-width:768px){
+ .ml,.mv{font-size:16px!important}
+ .mbar{min-height:30px}
+ .card .n{font-size:26px!important}
+ .card .l{font-size:14px!important}
+ #subStats .subrow{font-size:16px!important;padding:8px 2px}
+ .catnav-btns a{padding:8px 14px!important;font-size:15px!important}
+ #subChips button{padding:8px 14px!important;font-size:15px!important}
+}
+#substatBox{margin:10px 0;padding:12px 14px;border:1px solid rgba(255,180,60,.45);border-radius:8px;background:rgba(20,16,8,.85);display:none}
+#substatBox .ss-title{color:#ffb43c;font-size:15px;letter-spacing:1px;margin-bottom:6px}
+#substatBox .ss-big{font-size:34px;font-weight:700;color:#ffe08a}
+#substatBox .ss-note{font-size:13px;color:#9fb2c8;margin-top:4px}
+</style>
+<div id="substatBox"><div class="ss-title"></div><div class="ss-big"></div><div class="ss-note"></div></div>
+<script id="substatFeature">
+(function(){
+ var box=document.getElementById('substatBox');
+ function fmt(n){return n.toLocaleString()}
+ function extract(title){
+   var m=title.match(/(\d[\d,]*(?:\.\d+)?)\s*萬?\s*(人|名|個|間|店|宗|戶|起|架|箱|噸|宗)/);
+   if(m){var v=parseFloat(m[1].replace(/,/g,''));return m[0].indexOf('萬')>0?v*10000:v}
+   var m2=title.match(/(\d[\d,]*(?:\.\d+)?)\s*萬/);
+   if(m2){return parseFloat(m2[1].replace(/,/g,''))*10000}
+   return null;
+ }
+ function render(){
+   try{
+    if(typeof subFilter==='undefined'||!subFilter||typeof all==='undefined'){box.style.display='none';return}
+    var recs=all.filter(function(e){return (e.sub||'未分類')===subFilter});
+    var sum=0,cnt=0;
+    recs.forEach(function(e){var v=extract(e.title);if(v!==null){sum+=v;cnt++}});
+    box.querySelector('.ss-title').textContent='「'+subFilter+'」專屬統計';
+    box.querySelector('.ss-big').textContent=fmt(sum);
+    box.querySelector('.ss-note').textContent='由標題數字加總（'+cnt+' 宗有數字計入；'+(recs.length-cnt)+' 宗無數字不計）・共 '+recs.length+' 宗';
+    box.style.display='block';
+   }catch(e){box.style.display='none'}
+ }
+ document.addEventListener('click',function(){setTimeout(render,60)},true);
+})();
+</script>
 </body>
 </html>
