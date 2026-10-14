@@ -1,4 +1,4 @@
-// 治安 | 由 build_news_js.py 生成 | 共 2169 條
+// 治安 | 由 build_news_js.py 生成 | 共 2172 條
 var DATA_SECURITY = `
 2026-10-14	（有片）韓國仁川持刀傷人嫌犯佩戴電子腳鐐李在明下令徹查監管體系- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE5rcUJ5QWNIR09PZkJneWpRdnBSSU9peWJpVmNwclNBbkpIam85clVvZmMxeERLSmY0ZGp3cDZVV0VzdXpjb3VPczVMczB6VDRCV094REFhX3RzOXBLOFlsdEF6RGNTSGdBcF9ObTJ1R21IWkFwM25XMjZR?oc=5	未分類
 2026-10-14	酒後持刀限制女友行動還打傷警察 莽男判9月	https://news.ltn.com.tw/news/society/breakingnews/5605424	未分類
@@ -322,6 +322,7 @@ var DATA_SECURITY = `
 2026-09-16	警員朱振國遇襲留醫21年亡｜刀手判囚10年破產 服刑逾5年後假釋	https://www.hk01.com/突發/60390339/警員朱振國遇襲留醫21年亡-刀手判囚10年破產-服刑逾5年後假釋	未分類
 2026-09-16	泰國手機網路攻擊激增 AI 助長詐騙更難辨識	https://tw.stock.yahoo.com/news/%E6%B3%B0%E5%9C%8B%E6%89%8B%E6%A9%9F%E7%B6%B2%E8%B7%AF%E6%94%BB%E6%93%8A%E6%BF%80%E5%A2%9E-ai-%E5%8A%A9%E9%95%B7%E8%A9%90%E9%A8%99%E6%9B%B4%E9%9B%A3%E8%BE%A8%E8%AD%98-054305940.html	未分類
 2026-09-16	死有對証｜李海銅預告角色將慘死 意外與「前男友」馬貫東再同框 網民笑：另一個時空嘅相遇	https://www.tvb.com/dramanews-c/死有對証-李海銅預告角色將慘死-意外與-前男友-馬貫東再同框-網民笑-另一個時空嘅相遇-1015998	未分類
+2026-09-16	土耳其伊斯坦布爾槍擊案最少3死1傷 一名疑兇被捕	https://news.rthk.hk/rthk/ch/component/k2/1870133-20260916.htm	未分類
 2026-09-16	上班變永別！高雄母女雙載遇拖板車奪命 女兒目睹媽慘死崩潰	https://www.ettoday.net/news/20260916/3238401.htm	未分類
 2026-09-16	「幸福空間」負責人陳屍辦公室 生前曾遭詐騙	https://news.ebc.net.tw/news/society/571594	未分類
 2026-09-16	7000米雪山3死2失蹤 新疆慕士塔格峰連續山難 藏嚮導證買賣黑幕	https://www.hk01.com/即時中國/60390590/7000米雪山3死2失蹤-新疆慕士塔格峰連續山難-藏嚮導證買賣黑幕	失蹤人口販賣
@@ -1613,6 +1614,7 @@ var DATA_SECURITY = `
 2026-01-29	性侵殺害馬國女大生三度判死！凶嫌更二審逆轉判無期理由曝光| 法律前線| 社會	https://udn.com/news/amp/story/7321/9295727	未分類
 2026-01-29	快訊／馬籍女大生命案更二審 惡嫌梁育誌判無期再逃死	https://tw.news.yahoo.com/快訊-馬籍女大生命案更二審-惡嫌梁育誌判無期再逃死-012300481.html	未分類
 2026-01-28	遭美掃毒名義擊沉船隻亡 中美洲島國漁民家屬提告	https://news.pts.org.tw/article/792877	未分類
+2026-01-28	美國1歲童行車中左轉被甩飛！粗心母遭控虐兒被捕 驚險畫面曝光	https://www.hk01.com/即時國際/60316898/美國1歲童行車中左轉被甩飛-粗心母遭控虐兒被捕-驚險畫面曝光	未分類
 2026-01-28	無業漢深水埗街頭毆斃老翁 高院陪審團一致裁定謀殺罪成	https://hk.on.cc/hk/bkn/cnt/news/20260128/bkn-20260128205037747-0128_00822_001.html	謀殺
 2026-01-27	離奇命案！26歲女模「嘴塞襪、窗簾綑綁」亡 男友稱：她中邪了	https://tw.news.yahoo.com/離奇命案-26歲女模-嘴塞襪-窗簾綑綁-亡-012900261.html	未分類
 2026-01-27	紐約警海灘轟斃浣熊惹議 隨身鏡頭揭開槍真相？	https://www.singtaousa.com/2026/01/27/news/usa/officer-placed-on-modified-duty-after-fatally-shooting-raccoon-at-a-nyc-beach/	未分類
@@ -1921,6 +1923,7 @@ var DATA_SECURITY = `
 2025-08-26	樟湖吊橋19歲男大生戲水失蹤 校方說話了 ｜ 中天新聞網	https://ctinews.com/news/items/ogxwD5djnG	失蹤人口販賣
 2025-08-25	舊金山知名水上公園 35歲泳將下水後失蹤	https://tw.news.yahoo.com/35%E6%AD%B2%E6%B3%B3%E5%B0%87-%E6%B0%B4%E4%B8%8A%E5%85%AC%E5%9C%92%E4%B8%8B%E6%B0%B4%E5%BE%8C%E5%A4%B1%E8%81%AF-061800508.html	失蹤人口販賣
 2025-08-25	不滿「前男友」變成別人寶貝？ 女持刀自傷 男奪刀濺血	https://news.tvbs.com.tw/local/2970548	未分類
+2025-08-24	黃大仙豪苑商場男子捱斬 腹部中刀送院 涉案女兇徒被捕	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/382984/%E9%BB%83%E5%A4%A7%E4%BB%99%E8%B1%AA%E8%8B%91%E5%95%86%E5%A0%B4%E7%94%B7%E5%AD%90%E6%8D%B1%E6%96%AC-%E8%85%B9%E9%83%A8%E4%B8%AD%E5%88%80%E9%80%81%E9%99%A2-%E6%B6%89%E6%A1%88%E5%A5%B3	未分類
 2025-08-23	新蒲崗失蹤男子倒斃房間 死因待查	https://hk.on.cc/hk/bkn/cnt/news/20250823/bkn-20250823114011844-0823_00822_001.html	失蹤人口販賣
 2025-08-23	17歲少年遭打死棄屍 海軍中士承認「揮2拳」！涉殺人案恐丟軍職 ｜ 太報 ｜ LINE TODAY	https://today.line.me/tw/v3/article/EX28e6m	謀殺
 2025-08-22	饒舌天王Lil Nas X淩晨穿底褲周街走 疑吸毒過量被送院	https://hk.on.cc/hk/bkn/cnt/entertainment/20250822/bkn-20250822120108783-0822_00862_001.html	未分類
