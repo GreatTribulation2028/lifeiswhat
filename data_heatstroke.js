@@ -1,4 +1,4 @@
-// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2152 條
+// 中暑昏迷 | 由 build_news_js.py 生成 | 共 2157 條
 var DATA_HEATSTROKE = `
 2026-10-12	台中公益路21歲女從天橋墜落 全身擦挫傷一度意識昏迷	https://news.ltn.com.tw/news/society/breakingnews/5604037	未分類
 2026-10-11	男子烏蛟騰行山期間暈倒 直升機送東區醫院救治	https://news.rthk.hk/rthk/ch/component/k2/1873501-20261011.htm	未分類
@@ -103,6 +103,7 @@ var DATA_HEATSTROKE = `
 2026-09-21	將軍澳30歲印傭暈倒 僱主發現送院救治	https://hk.on.cc/hk/bkn/cnt/news/20260921/bkn-20260921152659041-0921_00822_001.html	未分類
 2026-09-20	快訊》1縣市高溫特報！氣象署：防熱傷害當心熱衰竭| 生活	https://newtalk.tw/news/view/2026-09-20/1060802	熱衰竭
 2026-09-19	花蓮鳳林貨車擦撞休旅車 女駕駛脫困酒測突昏倒	https://tw.news.yahoo.com/花蓮鳳林貨車擦撞休旅車-女駕駛脫困酒測突昏倒-065917420.html	未分類
+2026-09-19	習近平愛喝酒？CIA前官員曝曾與「這個人」喝茅台酒喝到「不省人事」 | Newtalk	https://news.google.com/rss/articles/CBMicEFVX3lxTE9DR0JuOHhmT1VxVTh3Z0VKcVBqSDd4X2JkcUlPSzN2RW4xRVVtV1pQU1lfUHBnbjdJVm51Rl9wX3pySkliS19aRnJZQWN4U2twTGJQNzJXWnRGZzZIaVB0dzdMcnVtVklSWHZob2pyd1E?oc=5	未分類
 2026-09-19	習近平愛喝酒？CIA前官員曝曾與「這個人」喝茅台酒喝到「不省人事」	https://newtalk.tw/news/view/2026-09-19/1060774	未分類
 2026-09-19	習近平健康傳聞再起 被爆和秦剛常喝到不省人事	https://www.ntdtv.com/b5/2026/09/19/a104134371.html	未分類
 2026-09-19	日本搖滾天團X JAPAN團長YOSHIKI近日驚傳在美國因過度疲勞昏倒，目前正遵照醫師指示接受點滴治療休養。據公關事務局表示，YOSHIKI近期行程滿檔，頻繁奔波美、日、歐、...	https://star.setn.com/news/1909734	未分類
@@ -143,6 +144,7 @@ var DATA_HEATSTROKE = `
 2026-09-14	秀茂坪男途人捱的士撞 半昏迷送院搶救 司機涉危駕被捕	https://www.hk01.com/突發/60389671/秀茂坪男途人捱的士撞-半昏迷送院搶救-司機涉危駕被捕	未分類
 2026-09-14	秀茂坪寶達邨橋底的士撞男途人 半昏迷送院	https://www.stheadline.com/breaking-news/3615047/秀茂坪寶達邨橋底的士撞男途人-半昏迷送院	未分類
 2026-09-14	男子秀茂坪遭的士撞 半昏迷送院 (11:51) - 20260914 - 港聞	https://news.mingpao.com/ins/港聞/article/20260914/s00001/1789356849624/男子秀茂坪遭的士撞-半昏迷送院	未分類
+2026-09-14	熱衰竭司機恍惚硬開 高中生「強行熄火」救全車 | TVBS	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DS2lyRTdSUnl2Rzk0d1Q4Vl9zMWw4alY4SjNNNm9HWmxONUdtbGlWVVMxNy1JYzdlNFpsYlo2NUlSX2pzbWZXLS1QbWNGQzVSSWc0cGl3?oc=5	熱衰竭
 2026-09-14	校車駕駛疑熱衰竭仍上路釀擦撞 學生機警熄火幸無人受傷｜20260914 公視晚間新聞	https://news.pts.org.tw/video/21998	熱衰竭
 2026-09-14	校車駕駛疑熱衰竭仍上路釀擦撞 學生機警熄火幸無人受傷	https://news.pts.org.tw/article/827033	熱衰竭
 2026-09-13	防曬補水做不足 入秋也中暑	https://health.ltn.com.tw/article/paper/1770468	熱衰竭
@@ -472,6 +474,7 @@ var DATA_HEATSTROKE = `
 2026-07-20	彩德邨中年婦人暈倒 兒子發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20260720/bkn-20260720192946508-0720_00822_001.html	未分類
 2026-07-20	北角新都城大廈28歲女 遭雜物絆倒暈倒疑失救亡	https://www.am730.com.hk/article/1042746	未分類
 2026-07-20	北角28歲女家中絆倒後昏迷 男友揭發惜太遲	https://www.hk01.com/突發/60371929/北角28歲女家中絆倒後昏迷-男友揭發惜太遲	未分類
+2026-07-20	「西北大飯店」舊址惡火！6困頂樓獲救 2消防熱衰竭 | 華視新聞	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEMW04QmRTYWVHV3ZOb01WYUhLYmFVUl9nXzFYWUJxb0I1d0hXWEtLSUpKMGFqaWV0MnRVMGNoZU9Sdi01UGVqR0FFNFRXbFJFY3pza2R3?oc=5	熱衰竭
 2026-07-19	日媒：居本港女子沖繩練越野車時反車重傷昏迷	https://www.881903.com/news/local/2640998	未分類
 2026-07-19	宏福苑業主大會｜居民批安排混亂遊花園 八旬翁與女兒分開坐暈倒	https://www.hk01.com/社會新聞/60371390/宏福苑業主大會-居民批安排混亂遊花園-八旬翁與女兒分開坐暈倒	未分類
 2026-07-19	婦人過馬路昏倒 疑天氣太熱中暑	https://tw.news.yahoo.com/婦人過馬路昏倒-疑天氣太熱中暑-114103584.html	熱射病
@@ -624,8 +627,10 @@ var DATA_HEATSTROKE = `
 2026-06-22	南投老農疑「熱衰竭」昏倒 2清潔隊員路過急救人	https://tw.news.yahoo.com/南投老農疑-熱衰竭-昏倒-2清潔隊員路過急救人-061321172.html	熱衰竭
 2026-06-21	赤鱲角女車長行車期間不適暈倒送院治理- 港聞	https://www.dotdotnews.com/a/202606/21/AP6a378df5e4b09ea233191990.html	未分類
 2026-06-21	影／烈日下美籍女遊客阿朗壹古道熱衰竭 各單位合力救援送醫	https://udn.com/news/story/7320/9578857	熱衰竭
+2026-06-21	外籍女山友連假挑戰「阿朗壹古道」 不堪烈日曝曬熱衰竭受困求援| 社會萬象| 社會	https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tZDNsM3RtbFBaSjB4WGZrci05YzhGMFVqRFRsRXlidFBocXZldG42X0Y1NnUyWUUyWGlwaElXd1JmYlIweHZVZTJ2V0FUNjZG?oc=5	熱衰竭
 2026-06-21	外籍女山友連假挑戰「阿朗壹古道」 不堪烈日曝曬熱衰竭受困求援	https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tZDNsM3RtbFBaSjB4WGZrci05YzhGMFVqRFRsRXlidFBocXZldG42X0Y1NnUyWUUyWGlwaElXd1JmYlIweHZVZTJ2V0FUNjZG0gFWQVVfeXFMTWJ6VlNuZFZ6SndJTlFvajJsREM5TEFKdFB2U1ZHdmlralIzNllpekhMUFBLNU11Q1hLd2pmTmhGLXR6V2dWeGlMckUwdFZQR2R3MVlNcmc?oc=5	熱衰竭
 2026-06-20	荔景邨七旬夫妇1死1吊颈昏迷暂列送院时死亡及企图自杀跟进｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/cnt/news/20260620/bkn-20260620005013828-0620_00822_001_cn.html	未分類
+2026-06-20	美國女遊客挑戰阿塱壹古道熱衰竭 海巡出動沙灘車救援	https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zaVFyNHI3MGZTaWF2UWhVVldBSTQ4T3FrcGQ5YndYaF9UbUZKcXRMWEc3UHlEM0hBd203cXhmOWpueUVNMmVpRk9aY0lqa3hr0gFWQVVfeXFMT3JMcHc4SExSMW9RaFBBTFpkejNhRUFodklSOU41SC1FQWRXa1VUSk1jVWp4NEh2VFJqMlVRQ2pUY2pxcmN5TnBud29ER2FTZ0FkSklDcmc?oc=5	熱衰竭
 2026-06-20	秀茂坪安泰邨14歲男抽筋暈倒 父親報案 昏迷送院搶救	https://www.hk01.com/突發/60362113/秀茂坪安泰邨14歲男抽筋暈倒-父親報案-昏迷送院搶救	未分類
 2026-06-20	秀茂坪安泰邨14歲男抽筋暈倒 母親報案 昏迷送院搶救	https://www.hk01.com/突發/60362113/秀茂坪安泰邨14歲男抽筋暈倒-母親報案-昏迷送院搶救	未分類
 2026-06-20	秀茂坪14歲少年抽筋昏迷父親報警送院搶救- 香港 - 香港文匯網	https://www.wenweipo.com/a/202606/20/AP6a362baee4b0b49ad1c015ad.html	未分類
