@@ -1,4 +1,4 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 3044 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 3052 條
 var DATA_MEDICAL = `
 2026-10-14	流感疫苗接種計劃至今接種70萬劑 盧寵茂冀接種率可較去年更高	https://news.rthk.hk/rthk/ch/component/k2/1873874-20261014.htm	未分類
 2026-10-14	歐家榮稱俄國不明原因肺炎對本港威脅風險低 審慎起見設防控措施	https://news.rthk.hk/rthk/ch/component/k2/1873865-20261014.htm	未分類
@@ -207,10 +207,12 @@ var DATA_MEDICAL = `
 2026-09-16	討論牆 | 死囚林旺仁關22年病逝 全台死刑犯降至34人	https://today.line.me/tw/v3/posts/list/article/0M5vwDD	未分類
 2026-09-16	規劃施政期望｜生物科技公司董事長招彥燾談對創科政策期望	https://news.tvb.com/tc/1195466-%E8%A6%8F%E5%8A%83%E6%96%BD%E6%94%BF%E6%9C%9F%E6%9C%9B%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%B7%E6%8B%9B%E5%BD%A5%E7%87%BE%E8%AB%87%E5%B0%8D%E5%89%B5%E7%A7%91%E6%94%BF%E7%AD%96%E6%9C%9F%E6%9C%9B	未分類
 2026-09-16	猴痘｜本港再增兩宗後猴痘個案 近期14宗個案有9宗報稱交友APP相識	https://news.hket.com/article/4194980/猴痘｜本港再增兩宗後猴痘個案 近期14宗個案有9宗報稱交友APP相識	未分類
+2026-09-16	本港新增兩宗猴痘確診個案 患者潛伏期分別在港有高風險接觸	https://www.hkcd.com.hk/content_app/2026-09/16/content_8775460.html	疫情
 2026-09-16	本港新增兩宗猴痘確診個案	https://www.881903.com/news/amp/local/2650404	疫情
 2026-09-16	德州現神祕慢性病 可致年輕健康工人腎衰竭	https://www.epochtimes.com/b5/26/9/15/n14850250.htm/amp	未分類
 2026-09-16	子宮體癌死亡率15年增83.3%！逾9成為子宮內膜癌 醫：停經前也可能發生	https://news.pchome.com.tw/healthcare/healthnews/20260916/index-17895456000368320012.html	未分類
 2026-09-16	再多兩宗猴痘確診個案 兩患者潛伏期內曾在港與其他男子有高風險接觸	https://www.bastillepost.com/hongkong/article/16781363-再多兩宗猴痘確診個案-兩患者潛伏期內曾在港與其	疫情
+2026-09-16	再增兩宗猴痘確診個案 患者潛伏期分別在港有高風險接觸	https://news.rthk.hk/rthk/ch/component/k2/1870328-20260916.htm	疫情
 2026-09-15	防秋冬4大呼吸道疾病 醫籲打疫苗	https://tw.news.yahoo.com/防秋冬4大呼吸道疾病-醫籲打疫苗-220029968.html	未分類
 2026-09-15	自8月起猴痘個案數字有所上升 #猴痘 #交友App #am730	https://www.facebook.com/am730hk/posts/%E8%87%AA8%E6%9C%88%E8%B5%B7%E7%8C%B4%E7%97%98%E5%80%8B%E6%A1%88%E6%95%B8%E5%AD%97%E6%9C%89%E6%89%80%E4%B8%8A%E5%8D%87%E7%8C%B4%E7%97%98-%E4%BA%A4%E5%8F%8Bapp-am730/1581531307347799/	未分類
 2026-09-15	猴痘｜27歲男子確診 身體現皮疹水泡 曾與兩陌生男有高風險接觸	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60390256/%E7%8C%B4%E7%97%98-27%E6%AD%B2%E7%94%B7%E5%AD%90%E7%A2%BA%E8%A8%BA-%E8%BA%AB%E9%AB%94%E7%8F%BE%E7%9A%AE%E7%96%B9%E6%B0%B4%E6%B3%A1-%E6%9B%BE%E8%88%87%E5%85%A9%E9%99%8C%E7%94%9F%E7%94%B7%E6%9C%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%8E%A5%E8%A7%B8	疫情
@@ -250,6 +252,7 @@ var DATA_MEDICAL = `
 2026-09-14	31歲男確診感染猴痘 曾與陌生男子有高風險接觸	https://www.881903.com/news/local/2649971	疫情
 2026-09-14	31歲男子確診猴痘潛伏期在外地及香港有高風險接觸- 香港	https://www.wenweipo.com/a/202609/14/AP6aa7f3b6e4b01d54a283257c.html	疫情
 2026-09-14	31歲男子確診猴痘 潛伏期曾在外地及香港與陌生男子有高風險接觸	https://www.hkcd.com.hk/hkcdweb/content/2026/09/14/content_8774936.html	疫情
+2026-09-14	31歲男子染猴痘 潛伏期曾在外地及香港與陌生男子有高風險接觸	https://news.rthk.hk/rthk/ch/component/k2/1869980-20260914.htm	未分類
 2026-09-13	香港搭建國際生物科技平台鏈接全球創新資源- 中企服務	https://www.dotdotnews.com/a/202609/13/AP6aa616b7e4b02724bdb44dc1.html	未分類
 2026-09-13	賓夕法尼亞州麻疹疫情爆發，40歲女性成第三名死者，疫苗接種率下降引憂	https://www.singtaousa.com/2026/09/13/news/usa/pennsylvania-reports-apparent-third-measles-related-death-amid-outbreak/	疫情
 2026-09-13	甲型流感︱上海疫情爆發屢見半班學生染病 多校要全班居家隔離	https://www.stheadline.com/realtime-china/3614892/%E7%94%B2%E5%9E%8B%E6%B5%81%E6%84%9F%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E7%88%86%E7%99%BC%E5%B1%A2%E8%A6%8B%E5%8D%8A%E7%8F%AD%E5%AD%B8%E7%94%9F%E6%9F%93%E7%97%85-%E5%A4%9A%E6%A0%A1%E8%A6%81%E5%85%A8%E7%8F%AD%E5%B1%85%E5%AE%B6%E9%9A%94%E9%9B%A2	疫情
@@ -441,6 +444,7 @@ var DATA_MEDICAL = `
 2026-08-29	主導血腥屠殺 「波士尼亞屠夫」病逝	https://www.cna.com.tw/video/news/4356163	未分類
 2026-08-29	《超偶》童星病逝得年29歲 好友發聲澄清真正死因	https://ent.ltn.com.tw/news/breakingnews/5556223	未分類
 2026-08-29	89歲挪威國王病逝 王儲哈康繼位	https://www.hkej.com/dailynews/international/article/4497462/89%25E6%25AD%25B2%25E6%258C%25AA%25E5%25A8%2581%25E5%259C%258B%25E7%258E%258B%25E7%2597%2585%25E9%2580%259D-%25E7%258E%258B%25E5%2584%25B2%25E5%2593%2588%25E5%25BA%25B7%25E7%25B9%25BC%25E4%25BD%258D	未分類
+2026-08-29	39歲男染猴痘與2陌生男有高風險接觸- 港聞	https://www.dotdotnews.com/a/202608/29/AP6a929b04e4b04b6c5d383648.html	未分類
 2026-08-29	39歲男子確診猴痘情況穩定 潛伏期曾與兩男有高風險接觸	https://www.wenweipo.com/a/202608/29/AP6a92a18ce4b0c1e50026b604.html	疫情
 2026-08-29	39歲男子確診猴痘 潛伏期與2名陌生男子高風險接觸	https://www.hkcd.com.hk/hkcdweb/content/2026/08/29/content_8772276.html	疫情
 2026-08-29	39歲男子確診猴痘 潛伏期內在港與兩男有高風險接觸	https://www.bastillepost.com/hongkong/article/16664835-39歲男子確診猴痘 潛伏期內在港與兩男有高風險接	疫情
@@ -563,6 +567,7 @@ var DATA_MEDICAL = `
 2026-08-20	60歲糖尿病男狂飲苦瓜汁送院！醫生揭5大降血糖食物 第一名高纖護血管	https://www.stheadline.com/health-care/3606302/60歲糖尿病男狂飲苦瓜汁送院醫生揭5大降血糖食物-第一名高纖護血管	未分類
 2026-08-20	39歲男子確診猴痘情況穩定 潛伏期曾在泰國有高風險接觸	https://www.wenweipo.com/a/202608/20/AP6a86d72de4b0c1e50025949d.html	疫情
 2026-08-20	39歲男子確診猴痘 潛伏期在泰國與陌生男子有高風險接觸	http://www.hkcd.com/hkcdweb/content/2026/08/20/content_8770740.html	疫情
+2026-08-20	39歲男子染猴痘正隔離治療情況穩定 潛伏期在泰國有高風險接觸	https://news.rthk.hk/rthk/ch/component/k2/1866904-20260820.htm	疫情
 2026-08-20	39歲男子染猴痘 潛伏期在泰國有高風險接觸	https://www.881903.com/news/local/2646014	未分類
 2026-08-20	39歲漢染猴痘 潛伏期曾在泰國與陌生男有高風險接觸	https://hk.on.cc/hk/bkn/cnt/news/20260820/bkn-20260820182225509-0820_00822_001.html	未分類
 2026-08-19	隱瞞新冠研究記錄 福奇前顧問認罪	https://www.ntdtv.com/b5/2026/08/19/a104125448.html	未分類
@@ -588,6 +593,7 @@ var DATA_MEDICAL = `
 2026-08-18	空姐空少患輻射相關癌症死亡比例最高機師排第二| 事事如意生活網站	https://ccue.singtao.ca/2026-08-18/空姐空少患輻射相關癌症死亡比例最高 機師排第/1102446	癌症
 2026-08-18	新冠肺炎疫情已達高峰！未來2週迎高原期 疫苗沒打恐要等10月	https://health.ltn.com.tw/article/breakingnews/5543927	疫情
 2026-08-18	新冠疫情升溫！新增84例重症、12例本土死亡	https://turnnewsapp.com/livenews/life/20260818002739-260405	疫情
+2026-08-18	新冠好了卻還在咳、累、腦霧？醫師揭3大原因，4類人最易變長新冠	https://www.commonhealth.com.tw/article/94432	長新冠
 2026-08-18	新冠增 84 例重症、12 例死亡！疾管署：將進入流行高原期，主要變異株為 PQ.16.1.1	https://heho.com.tw/archives/385730	未分類
 2026-08-18	新冠上周2.6萬人就醫 疫情將進入高原期	https://health.ettoday.net/news/3221261	疫情
 2026-08-18	快訊／新冠疫情將進入流行高原期 增84例重症、12例死亡	https://news.tvbs.com.tw/health/4008921	疫情
@@ -613,6 +619,7 @@ var DATA_MEDICAL = `
 2026-08-17	32歲男子確診猴痘情況穩定 潛伏期曾有高風險接觸	https://www.wenweipo.com/a/202608/17/AP6a830521e4b0c1e500253a2f.html	疫情
 2026-08-17	32歲男子確診猴痘 潛伏期曾有高風險接觸	https://www.orangenews.hk/hongkong/VSYrBmI/32歲男子確診猴痘-潛伏期曾有高風險接觸.shtml	疫情
 2026-08-17	32歲男子確診感染猴痘 列本地個案	https://www.881903.com/news/amp/local/2645470	疫情
+2026-08-17	32歲男子感染猴痘情況穩定 潛伏期曾有高風險接觸	https://news.rthk.hk/rthk/ch/component/k2/1866484-20260817.htm	未分類
 2026-08-16	雅琴看世界-朱鎔基98歲病逝！改革派象徵走入歷史舞台 0816	https://taiwandaily.net/%E7%86%B1%E9%96%80%E5%BD%B1%E9%9F%B3/152465/	未分類
 2026-08-16	隔夜水細菌量飆升近2倍！ 日本實測5大隔夜飲品細菌排行榜1人氣飲品細菌量高達517萬個| 事事如意生活網站	https://ccue.singtao.ca/2026-08-16/隔夜水細菌量飆升近2倍！-日本實測5大隔夜飲品細/1102258	未分類
 2026-08-16	維州一企鵝死於H5N1 當局推行禽流感疫苗接種	https://www.sbs.com.au/language/chinese/zh-hant/article/h5n1-bird-flu-detected-in-penguin-in-victoria/2u9nvpex2	H5N1伊波拉
@@ -1143,6 +1150,7 @@ var DATA_MEDICAL = `
 2026-06-21	投資推廣署將參與BIO 2026國際生物科技大會 推廣香港作為生物科技企業出海首選跳板	https://www.hkcd.com.hk/content_app/2026-06/21/content_8760999.html	未分類
 2026-06-20	西澳賊鷗染H5N1禽流感亡 澳洲首宗本土病例	https://hk.on.cc/hk/bkn/cnt/intnews/20260620/bkn-20260620122444685-0620_00992_001.html	H5N1伊波拉
 2026-06-20	神曲〈Kiss Me〉樂團貝斯手 Justin Cary 病逝！主唱曬珍貴舊照悲悼好友	https://stars.udn.com/star/story/10092/9577600	未分類
+2026-06-20	澳洲確診首宗H5N1禽流感個案	https://www.sbs.com.au/language/chinese/zh-hant/article/deadly-h5-bird-flu-has-been-confirmed-in-australia-heres-what-it-means/7fakpzuzd	H5N1伊波拉
 2026-06-20	澳洲本土出現首宗H5禽流感病例	https://news.rthk.hk/rthk/ch/component/k2/1859249-20260620.htm	H5N1伊波拉
 2026-06-20	剛果難民營逾30死！患者拒檢驚爆伊波拉病毒恐擴散	https://news.tvbs.com.tw/world/3236171	H5N1伊波拉
 2026-06-20	來稿｜中國生物科技產業要造下一個萬億級市場——香港成最佳試驗場	https://www.hk01.com/01%E8%AB%96%E5%A3%87/60357412/%E4%BE%86%E7%A8%BF-%E4%B8%AD%E5%9C%8B%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E7%94%A2%E6%A5%AD%E8%A6%81%E9%80%A0%E4%B8%8B%E4%B8%80%E5%80%8B%E8%90%AC%E5%84%84%E7%B4%9A%E5%B8%82%E5%A0%B4-%E9%A6%99%E6%B8%AF%E6%88%90%E6%9C%80%E4%BD%B3%E8%A9%A6%E9%A9%97%E5%A0%B4	未分類
