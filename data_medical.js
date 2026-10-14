@@ -1,5 +1,10 @@
-// 醫藥 | 由 build_news_js.py 生成 | 共 3037 條
+// 醫藥 | 由 build_news_js.py 生成 | 共 3042 條
 var DATA_MEDICAL = `
+2026-10-14	梵蒂岡：教宗良十四世證實患有肺腺癌	https://news.rthk.hk/rthk/ch/component/k2/1873838-20261014.htm	未分類
+2026-10-13	金斯瑞生物科技(01548)：CARVYKTI®於截至2026年9月30日止季度產生貿易銷售淨額約7.1億美元作者智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE1TbXZVUmkxNU9VdHpmWTJiVV85c1d5dGNyN19SS0lBVW54bi1VQUI5WlNHam1QbnRLWkZudHViY3hFVVV6SzJJd2pNcjBKdkVKOHo3VmY2ZFZ2b2NjeE9BVDlMY3k3eTk5YXF2SHFCbGw?oc=5	未分類
+2026-10-13	小摩：中國生物科技ESMO催化劑可驗證本土創新首選科倫博泰生物(06990)信達生物(01801) 作者智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE9RQVgzSWZXN1BoZHZTUk9VOTJJdm5LLXY4dDRtY3JRQlowRURZRzNyU0dnMkszU0V5dlNjWWpONWYtQVBPVDRvcE9TYmdqb2FUSmR2YXVFVzlzWmE5TXA3NU11QTlCMjZ2aGYzRFFfbVM?oc=5	未分類
+2026-10-13	【港股百強】金斯瑞生物科技（01548.HK）跳水近16%，發生了什麼？	https://news.google.com/rss/articles/CBMieEFVX3lxTE43c0xrbHM0bkdSV3FjaE5WbU5haUNnanZHZk5IWldzT28yZktER210NHo4UXNqYnZvUmJocU8wU2JUT2xfTTFVN3JMd1E0TzFXQXlUX2I4djRCSjFoM2VKTjlKYWpxeVhNR2dwMi1lT3lsT0xnWmNPSQ?oc=5	未分類
+2026-10-13	39歲男子確診猴痘 情況穩定正接受隔離治療	https://news.rthk.hk/rthk/ch/component/k2/1873813-20261013.htm	疫情
 2026-10-12	真健康醫療-B(02697)：完成 6 例基因編輯豬肝臟體外交叉灌注臨牀前實驗，全球首次驗證長時程有效性作者智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE54a09BVjk2a1VneTFHRkJYNHRMZm5qMmxrc0hwMlFXUFZiX3V2Zm9TV0Z1Y2NvbVc1Vy1kcFZGcXMwdnM5MzdIbjAycVZaNkduSmczYm1wSUhzOFhlSm1jTDN5Y0lZanFKVW5WYWVvMEc?oc=5	未分類
 2026-10-12	新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備	https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5	疫情
 2026-10-12	億勝生物科技(01061)10月12日斥資6.18萬港元回購3萬股 作者 智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE83TUo3Vm40V1B1Q3NHMEc4dFVPal9EWUl0aXVJY1NCTy02ZU1HVE5TTTdHOVMtNmpOa3VUQVFacTNnYjJVeUxyNFJUa2lFXzdvTDZsZ3ZYZzRFLUdhMGUwR2dYajlTdTFMYkJMeWVTbFU?oc=5	未分類
