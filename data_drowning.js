@@ -1,4 +1,4 @@
-// 遇溺 | 由 build_news_js.py 生成 | 共 698 條
+// 遇溺 | 由 build_news_js.py 生成 | 共 701 條
 var DATA_DROWNING = `
 2026-10-09	西貢清水灣一灘六旬男疑遇溺送院亡 泳客救起即場心外壓｜有片	https://www.hk01.com/突發/60397753/西貢清水灣一灘六旬男疑遇溺送院亡-泳客救起即場心外壓-有片	遇溺死亡
 2026-10-09	西貢清水灣一灘六旬男疑遇溺 泳客救起即場心外壓惜送院亡｜有片	https://www.hk01.com/突發/60397753/西貢清水灣一灘六旬男疑遇溺-泳客救起即場心外壓惜送院亡-有片	遇溺死亡
@@ -25,6 +25,7 @@ var DATA_DROWNING = `
 2026-09-23	美演员在首尔汉江 救起险遇溺中学生	https://www.chinapress.com.my/20260923/美演员在首尔汉江-救起险遇溺中学生/	遇溺死亡
 2026-09-23	维园泳池女泳客疑遇溺 获救送院治理	https://global.hk01.com/突发/60392799/维园泳池女泳客疑遇溺-获救送院治理	遇溺死亡
 2026-09-23	維園泳池女泳客疑遇溺 獲救送院治理	https://www.hk01.com/突發/60392799/維園泳池女泳客疑遇溺-獲救送院治理	遇溺死亡
+2026-09-23	維園泳池六旬女泳客疑遇溺 獲救生員救起送院	https://www.am730.com.hk/article/1054663	遇溺死亡
 2026-09-21	马国柔甲森三州人工降雨驱散烟霾 确保水坝供水稳定	https://www.zaobao.com.sg/news/sea/story20260921-9710782	未分類
 2026-09-21	奮不顧身跳河救出遇溺父女 女子獲頒英勇獎章	https://www.singtao.ca/7633212/2026-09-21/news-奮不顧身跳河救出遇溺父女 女子獲頒英勇獎章/	遇溺死亡
 2026-09-18	“超级工程”官路水库正式下闸蓄水	https://finance.sina.cn/2026-09-18/detail-inisewtm3396073.d.html?vt=4&cid=76729&node_id=76729	未分類
@@ -49,6 +50,7 @@ var DATA_DROWNING = `
 2026-09-02	71歲廣告巨擘豪宅泳池溺水亡！曾任FB高層	https://www.mirrormedia.mg/external/setn_1900605	遇溺死亡
 2026-09-01	（有片）火炭麗峰花園遇溺意外女死者為全球大型社交媒體高層- 香港	https://www.wenweipo.com/a/202609/01/AP6a965575e4b0c1e50027109d.html	遇溺死亡
 2026-09-01	火炭麗峰花園遇溺意外女死者為全球大型社交媒體高層- 港聞	https://www.dotdotnews.com/s/202609/01/AP6a9664b2e4b04b6c5d388187.html	遇溺死亡
+2026-09-01	火炭麗峯花園71歲婦游泳遇溺亡 消息：為全球知名社交媒體高層	https://www.hk01.com/突發/60385813/火炭麗峯花園71歲婦游泳遇溺亡-消息-為全球知名社交媒體高層	遇溺死亡
 2026-08-31	海边戏水遇溺 4人被民众救上岸 （哥打丁宜31日讯）父亲趁国庆日假期，带着儿子及侄女到海边戏水，不料4人不慎溺水，所幸民众及时将他们救上岸，4人皆平安。此事于昨日上午时段，在柏呐哇镇SPP露营处...	https://www.chinapress.com.my/20260831/%E6%B5%B7%E8%BE%B9%E6%88%8F%E6%B0%B4%E9%81%87%E6%BA%BA-4%E4%BA%BA%E8%A2%AB%E6%B0%91%E4%BC%97%E6%95%91%E4%B8%8A%E5%B2%B8/	遇溺死亡
 2026-08-31	海边戏水遇溺 4人被民众救上岸	https://www.chinapress.com.my/20260831/海边戏水遇溺-4人被民众救上岸/	遇溺死亡
 2026-08-31	厦门上李水库建成百年 华侨兴水工程变身文旅新地标	https://www.jpchinapress.com/static/content/SS/2026-08-31/1543935149538944852.html	未分類
@@ -523,6 +525,7 @@ var DATA_DROWNING = `
 2025-04-24	阿翔女兒倒頭栽跌落泳池！ 「溺水沒人發現」 愛妻跳水急救	https://ent.ltn.com.tw/news/breakingnews/5021878	遇溺死亡
 2025-04-24	阿翔8歲小女兒整頭栽進泳池溺水！Grace曝「緊急救命3秒」：千萬要小心	https://www.ftvnews.com.tw/news/detail/2025424W0214	遇溺死亡
 2025-04-23	阿翔女兒飯店泳池溺水！倒頭栽進水裡「沒人發現」 Grace急跳水搶救| 三立新聞網	https://today.line.me/tw/v3/article/vX9RyWK	遇溺死亡
+2025-04-23	阿翔女兒飯店泳池溺水！倒頭栽進水裡「沒人發現」 Grace急跳水搶救	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jb0g4aFFwNGd0NndQS1B6Mzg2VndNTThrY2xOMzd5aC1iRURBdXlzRnZ2WHVleEVsYjNvV0x0dVBPYnVYV3VFQtIBTEFVX3lxTFBveEN1N2x0MXhuclFzQVZQYk1HYkp3T2FZb19QOXBDSUtjQ013bFY1TWFUTlZnb25fVUh5ODdwY21McHRjNGliSXcwM3M?oc=5	遇溺死亡
 2025-04-21	新北驚見男童「運動中心泳池溺水」！ 母「接電話」沒發現	https://tw.news.yahoo.com/%E6%96%B0%E5%8C%97%E9%A9%9A%E8%A6%8B%E7%94%B7%E7%AB%A5-%E9%81%8B%E5%8B%95%E4%B8%AD%E5%BF%83%E6%B3%B3%E6%B1%A0%E6%BA%BA%E6%B0%B4-%E6%AF%8D-%E6%8E%A5%E9%9B%BB%E8%A9%B1-%E6%B2%92%E7%99%BC%E7%8F%BE-045420657.html	遇溺死亡
 2025-04-01	將軍澳中年婦遇溺 送院命殞	https://hk.on.cc/hk/bkn/cnt/news/20250401/bkn-20250401200741862-0401_00822_001.html	遇溺死亡
 2025-03-13	21歲青年浮屍上水梧桐河 警列「屍體發現」處理	https://www.hk01.com/article/60219522?utm_source=01articlecopy&utm_medium=referral	未分類
