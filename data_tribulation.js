@@ -1,5 +1,8 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 320 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 324 條
 var DATA_TRIBULATION = `
+2026-10-13	討論牆 | 世界末日倒數1個月？66年前論文預言「11月13日」出大事 真相曝光	https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MWDVkTm0zekRvYUhVQ3BqTWtvOG9KaU5RYjJKRXNOcG43MS1uU1ZBX201azRRNTF5T2FMdjFxYlFKU0lkYlhkSEdPNHNyaFBRSUZkOG94TDNzSUlDMGMzM3dMN3k?oc=5	末世預言
+2026-10-13	加油，MU公牛隊！這又不是世界末日……🫣🫣🫣🫣🫣🫣🫣🫣	https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1huYnBRak1kUmlKQUhKT3pmdmFHX09YUUJGamk3VnBLcWZZQmxBWHMyZ21vMmRpVXo0alo4TWxOX2pFNVhiOUlvVUFodl9QX0d4aHZlVURBbXZjYkpBLTlkTnkxR1dRYUh4VDdPbjdLSkVlekYwRzBxbmplaklqajRwRzQ5d1V4RmdYRWlCNmI0VlUtVW50bDJEWmI?oc=5	末世預言
+2026-10-13	世界末日倒數1個月？66年前論文預言「11月13日」出大事 真相曝光	https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxS2FHTnVmc0FuMjdtUFg4YlBDUzVINzZwV2xaTE50VTYwVGJuYXlHUWhiOVA0NC16dHJxUHBtVlZHYlNuODFyRXhIX0pjd3I4Nnk0eEp6U21xUnRtVmfSAUtBVV95cUxOLVVFaDVJcWI4aVcyTm5JNG5vLVMyUjhrWmI3b0oyTjFDLXh1cjR2N3F1YWN4V1VwSkZBNGJIXzBlbEstVF9mbzZyVUU?oc=5	末世預言
 2026-10-12	權威期刊驚爆：2100年前恐全人類滅絕！ AI失控、核戰爆發將引發「世界末日」	https://news.google.com/rss/articles/CBMiUkFVX3lxTFBESEUxOVJtb294d09UdG5QSzZybWxFM2thVEJiZHpqblNzNFlyeWNxYTdab04yY0I0dGR4THNNOThxMXh4R0ZKbTljUXpJbFJxZ1E?oc=5	末世預言
 2026-10-12	[P08] 世界末日女朋友	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vWG84RXlnQnBrUHRFMWFuVEpURGpmUW93dzRQSEJYcnk4QTFsdUFKMElTOXJwMUhxbDUzSDA0UlBLTVA3MnZqWFFNa2Fud2FYVzdJY1pQWjd3YmNXM2ZodGgxaGVkZw?oc=5	末世預言
 2026-10-10	人工智慧末日可能始於網路攻擊 - Root-Nation.com	https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdTNNRmUyQWFsMTFHczRmaU9HaW4xaWFmdFhyNTA1bmhvNWNCSkdMYlVJV3V5UF94S2F6SWFWb3R3SURhY3pkRDBicXlTenI5MWpWOVZmMXFoSzF0ZGExcVF5cW1mZGp1ZGV1cUhzVTJDWm0ySWwyWU1BVWtuQnJqcWdlSUxSd0Nhbmk2cUNzVlZORmdkX1BFOGZvYk9QZzdRZHVHSEM1NmhHMk1MQzdfV3huYXE3eUxCTlJTYUVoTnJGNDV6dTZibUtQZllDVWR4NjZ3cG1fNjJGVHNI?oc=5	末世預言
@@ -282,6 +285,7 @@ var DATA_TRIBULATION = `
 2025-04-19	[廣東話] [林鍵] 2025.04.19 《等待君王：復活》 [但以理書 6:16-28]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LWmM3NmVlUzFpSi11UE5BWDZSN0pQUGtjaURZMjVORmkyYkdVcnNiU0pTRXFkTC1NUmhnb2hhM3dXNDRkSzFR?oc=5	聖經應驗
 2025-03-24	美貿易署今對華貨船徵港口費開聽證會 彭博：業界憂貿易末日將至	https://www.hk01.com/article/60222860?utm_source=01articlecopy&utm_medium=referral	末世預言
 2025-02-11	【雁默專欄】關稅大棒的本質，與台股的末日	https://tw.news.yahoo.com/%E9%9B%81%E9%BB%98%E5%B0%88%E6%AC%84-%E9%97%9C%E7%A8%85%E5%A4%A7%E6%A3%92%E7%9A%84%E6%9C%AC%E8%B3%AA-%E8%88%87%E5%8F%B0%E8%82%A1%E7%9A%84%E6%9C%AB%E6%97%A5-065801548.html	末世預言
+2024-11-01	末日敵基督與十王聯盟會出自美國、歐盟、金磚十國，還是 ⋯⋯？結合聖經預言與國際情勢分析｜詩篇83篇｜但以理書8章：公綿羊與公山羊｜啟示錄解經	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qaFNQcjY2X1dPNUJxVTBGQVJrZHlScGZLTk5sQjN6cVlfZ2ZhN2tvWDl1RGlwZ19DUTFyNFZfSmRCTFdSdGppNWQyamJLQ3pCUmx0YzJMLXlPbGVU?oc=5	聖經應驗
 2024-10-09	人氣爆谷店Garrett Popcorn本月撤出香港 網民稱世界末日紛挽留	http://www.hk01.com/article/1064583?utm_source=01articlecopy&utm_medium=referral	末世預言
 2024-07-22	foodpanda推「奧運應援箱」 有望用666入手4500元跑鞋	https://www.setn.com/news/1502943	未分類
 2024-06-12	屯門安定麥當勞6月中結業 街坊痛失24小時麥記呻如「世界末日」	https://hk.ulifestyle.com.hk/activity/detail/20034919/%E5%B1%AF%E9%96%80%E5%AE%89%E5%AE%9A%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%B5%90%E6%A5%AD%E8%87%B36%E6%9C%88%E4%B8%AD-%E8%A1%97%E5%9D%8A%E7%97%9B%E5%A4%B124%E5%B0%8F%E6%99%82%E9%BA%A5%E8%A8%98%E5%91%BB%E5%A6%82-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5/2	末世預言
