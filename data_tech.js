@@ -1,9 +1,12 @@
-// 第四次工業革命 | 由 build_news_js.py 生成 | 共 809 條
+// 第四次工業革命 | 由 build_news_js.py 生成 | 共 906 條
 var DATA_TECH = `
 2026-10-15	黃仁勳：客戶若開發不安全AI 將停止供應晶片	https://www.ettoday.net/news/20261015/3254817.htm	未分類
 2026-10-15	「中國衝擊3.0」來了！AI、生技、機器人出口恐掀全球產業洗牌歐美製造業面對新考驗- 生活新聞	https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFBTQ01IbVhRN3J2d050VENmVjIyN1UwNXJxTlU5bjU2NWE5ejgwZk9KSnhoNGRlR3NaNy1VZkRYajRUVnppcjYtUkhSUjlFR2lMMTV4X0lfalNDOHBCS2QyVlNDUzdHZGpGZFoxbHBsR0xmZ3JHQW1oRW9xMWxucTUycmVfaTNS?oc=5	未分類
 2026-10-14	韓國監管機構：目前已發現約10萬起數據泄露案件。	https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHJEbWZpUXlFdWxYdlRnaDBsNWJ1akMzcUJna0xKQjE2Tl9qdmY0RFBpRUNFZnZqbV9idi15Q3VTRXlDbVdmM0wxMVdoSGVucl9VUWJCUkM4cC1rZ0swVzhGTTNxVmR3T1RSQnRYWFhUckp0QUdfbnZjR1M4aEszTjVkNTFzUGNfdjk5VFNrdzBxUDFvOXpJZXVLb21aWDN3bXlWR2xvazVvZl9PZzU4YWUzWF9UY2M?oc=5	未分類
+2026-10-14	逾千雙AI天眼 監控山火最前線	https://news.google.com/rss/articles/CBMifkFVX3lxTE9pYXhUQk8tcExqOVZxM19LSmhkUk9OX1IzNkQ1LWY0STFTemowSTVyRlFuQlVRSnNzWXZxSWxrQkxTczVuTXFBbXRNMmxhQTZUVHZ1YnJpUzV1WkZuZnNtU1pkUmZGdFVtSTJGeXcxekNPbXBsOEJPVzJsZVEtQQ?oc=5	未分類
+2026-10-14	景昱醫療腦機接口雙靶點DBS在華獲批 強迫症試驗應答率超75%	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JZ2N2a3pRWDd3NW5pT1JacDVKbU5NTDd0Nk9NNWh4UFR3dnRqbll5WVE1a0w4dkJLQ0lnRWJmdzA5SXBPdnBQN1lMSjNvVjZHVkRIRU1xYnhhNlBZYk9aWDRMMlU?oc=5	未分類
 2026-10-14	台波首度展開半導體韌性合作 研發氮化鎵晶片攻歐洲電動車	https://www.ettoday.net/news/20261014/3254650.htm	未分類
+2026-10-14	博睿康技術首款腦機接口產品掛網價 47.5 萬元 已售出 13 套	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PSTRhUzI3OHBsZUpFZTg4RUIyTEJjazJDZGx3dDZMbXJBUUlNbEU5d2l1dWF0bUtnWjdzZVBLY3dISjVoZHNPaHdFdTdGQUpkbXFsNlZuWDY?oc=5	未分類
 2026-10-14	人工智慧推波助瀾，網路攻擊席捲日本- 紐約時報中文網	https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk94N1FVZjJrWWZNVnowNTFpVDltdkdiblRVeUYtaFF0clFIMTU5Wk9GSkh5cWdpdHZWMXJzSTc0dHVvcG1BdDNOSzRxZ3dhV2ZvUTBWQTdvd3JVQmV5QzdrTUhZN0l1VFZ4T2toU212Q0d6YU1leHVJdFdhdG9YQ0JPOWZQd3BMdXlaNFFVVkItdjlIRFVaOVVLUQ?oc=5	駭客網攻
 2026-10-14	IDC Frontier遭勒索軟體攻擊稱「無資料外洩」，194家客戶可從備份復原	https://news.google.com/rss/articles/CBMiekFVX3lxTE1sMjRHTGtscnpVYU1CM0ZNYTJPTFJKNE1nVElqNTVhd3FiV0VjUEhId2RpVGV3bXMtUU1TdWIzdjZUbkp2NGtoeXVtNk93bzNWZmNLNjlnaUU2NFJpOVF3WGRwUDZBRzl5Y2R0UERfdk56ZnRGcGZPdnR3?oc=5	資料外洩
 2026-10-14	415位AI科學家聯名呼籲：具網路攻擊能力的模型須徹底隔離，並成立國際監管機構	https://news.google.com/rss/articles/CBMiekFVX3lxTE1pRGpFQ3pkaGJRUGwxcEsya1BiOWQwRHdUN0NmRmRHVDlWclo0V1pVbjlKZE5sdVpGR3QyOVI5YzJoUDdmN3RSZkxVNDcxdnBzTWpVZE5QbXE1aUFFelE4MktWQk04ZUs1ZnR4LTRkRU5zaVRBTTFJSDRn?oc=5	駭客網攻
@@ -20,10 +23,13 @@ var DATA_TECH = `
 2026-10-12	比爾蓋茲示警AI欠缺監管 未來一年網路攻擊恐加劇	https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1YjFfSzR6WllJOFNQUU9PT2pZbHdoSlJuSGRGS2RXaGFPdmZuWmh4UHpSR1BWOWxPNHpuck9iZ2NDbkVuUXZwOU1BY3o?oc=5	駭客網攻
 2026-10-12	比爾蓋茲示警 AI 欠缺監管，未來一年網路攻擊恐加劇	https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUZFZUQ4U3JwU1Q3UlllSUF2YkpnbzdUb1Z0RU93Y2trWlVxQVdJUTlZM2tfNjZpRWl6T29NeU8yYkZQakNYTGRtYXZxODlpZE8tYkFmbFpwYXRxU2lLdFlGa29zU0NaUjZTVGVGVExUQk5sTlo4TzhnWGdwaVZaRnA4WWdTcEFmdndzTF9PZjNYWHE0aEpfaWNR?oc=5	駭客網攻
 2026-10-12	中國資安軟體「洗產地」滲透外交部 北檢搜索10處、約談4人	https://news.ltn.com.tw/news/society/breakingnews/5603817	其他資安
+2026-10-12	[AI取代設計工作40歲UI設計師憂中年失業危機]	https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoU3pycWxhNG52eFcxZUlydlpQNUJGcVNrUFZ3ZU5WNTljZFFHNDV6N0RxdXJJSFVTVGVnMVY2bHdhV05ubUM0dmRfYkhDeDR3VVHSAVJBVV95cUxQaFN6cnFsYTRudnhXMWVJcnZaUDVCRnFTa1BWd2VOVjU5Y2RRRzQ1ejdEcXVySUhVU1RlZzFWNmx3YVdObm1DNHZkX2JIQ3g0d1VR?oc=5	AI取代工作
 2026-10-12	AI焦慮有解？ 輔大校長藍易振與數發部資安院創院長談「科技人文雙素養」	https://esg.ettoday.net/news/3252892	其他資安
 2026-10-11	日本政要：AI 跨越網路攻擊「閾值」 防禦策略須轉型「攻擊前置」	https://news.google.com/rss/articles/CBMiwwNBVV95cUxNbW8yVnQ4MGdMbUVWZ2xuR2tPZS1JdE9FSjR2WGJZYjJTTlNjMi1SYXlEcjhBaDNKZzJFcFJscFo2X25XVE1Vd0dsOVl6c0dYZ0ZqemxYZzV3V0dkMWQxVmpnejYtRUQyangydzE0STNYZzZKenVfVy1PUk9VLVAtV0otMGxVc3Q3ZHJVTnZRbEVoak1KejZOcVJVMlg2Nkk0V21iRnAybzJQbXZlTm9zVlNjVU5VeDNUY1VxQmhOd3NQZGw1OEtFX2xEMmNfSml2em1XMl85Y045dzNwWi1jcWpjb0p6ZzNGRXhLX0JYU2ZiaEt0a1pGMTQzbWN2ZWlSaVN6c0tvLXQ0bnZMbzBYMHpTN3EzWG8yRkdwMHh1d0kyVy13Y0g1UjVYMFJqcU43ZHpNOHhTYVNhVWJRaVo1VE44dEFEdkdoY2lEbXppYTNfWWxaUEp0Wkt4X3dteEdEMk1LbmpLbWRid2pWQkV4VUNRdGV6Q1g2NmNRYjZvZTExUURJVkhMY1l6QTIwWFRQbDk1ZFR6NHF6QU9OWVRxcVVlZDFXUFdOWnByRG5aMmJQWWpFWUgwSWJ0T0NPRXpCSnVv?oc=5	駭客網攻
 2026-10-11	AI網路攻擊惡化 專家警告醫院需備數週IT癱瘓應變	https://news.google.com/rss/articles/CBMipAJBVV95cUxOLU5mSVRjWEMxNk8yMXNGS2lHN1hsTmVPZmF1ZnNkRWdqc25hc0pVdzY2c2tLbGFlbXNpRG1RV1V4U2Fhcmo0TlZycE5aWm5DVFZjVXpRWElVMUtYMTRZWVFTRzBUZldUZm1ZWi1NV2NwWmtDdUdnU1BmWGxvTnBaamI4dmtHVUJMLWFWUVVzcXdwdnpzcHNTUkZ2ZmIzZ2F3WTFheEZDWGszNC1VZHNuRWdOVVE2bkQ1QktLRS05dlJqZmxJWEpsM0t1T1QxU0lfeExGeDN0YWo4X3ZWeDFZMEx3OXZTSkN5VXVTcGd0RTFzTGRkNVUwOVAwUHZQYXdWSkFWYXpWZDlLMDhsd1lYNFlaTzkzM1Rob2tYWW1JZVNBY2xL?oc=5	駭客網攻
 2026-10-10	涉走私「輝達AI晶片伺服器」到中國 美超微包商認罪	https://www.ettoday.net/news/20261010/3252132.htm	未分類
+2026-10-10	智創未來｜腦機接口列國家十五五重點 滬企仿生手擬與港醫院社福合作出海 - i-CABLE	https://news.google.com/rss/articles/CBMi6gJBVV95cUxOeDNELWVTWS0xWENab2phYmNtZ0h2cXBib0NQZnhOQldMd1UteGFKY3RyR2RDNlhKNEhJTWgtNVRPTGZYOTVMSkFJS1YwTVpRR3ZHYzhrbzBBenc0NGRZbXdMdXJadGRpemZ6RVR3S2FYYlludFVuZ0pjanFubTJ5U0dacHljc1J0Ui0waVFwUjdZWk92MVZIS0tkVmI4NVZHckEwdV9wWWQ2VWNIZTJ5SzRscmY3Q003NlZ5QmhSMWVwb0pza3R6QXpUOGtyZWVMZFZSUDNfeWJibXFhbVNEOVVVcDB2TjNMQ1hTc1ZEeWJ2WVI5Ull0X3ExbUpSYlZTNm1nNUtlQnBnWlVPaWM0ZjBHWFdMZnBQbzAxUUdsTm1sWkxKcHplS1ZnRnhYWjZrd3BpUXdPWl9vVW84TE0xaDgyWXZkU3RtUm5SZnk3RmJDcVV6ZzhPallBaVRkWmhQSXRNRC1NYjdiUQ?oc=5	未分類
+2026-10-10	智創未來 ｜ 中國智造出海系列：腦機接口 - i-CABLE	https://news.google.com/rss/articles/CBMiugJBVV95cUxQeUVzRE90VkRzR3JKd3ZFcFJPS2ZiX3hEdENNTGZSWDJqZkp3R09lRVIyRG1wZFQ4VEd4b3FMZGtCMktMeHVtQ044Wm5sNzN2WU03M3NaYnJSMkxqMllmdkFPZldRZ016cUdKSHpMWGxySXBEU3pUTFRNRk5yeHE3WVhwSWl6TFhUcXgwdGNsdndaMmo1bGNBWXU4YllBM1JOby1WUDExUlhnckxQbUoxMFk4bFJHajRlR1FmWkJFcTU4ajd5dllBNUlCVmFURkdLOXN1OFdSVDNoaDQyazFxdHpsQ3E3U3ZJZnQ4NWNOMU9tcWc0MDJ6VHk4ZXkyMUtxSTZFZWVNWHdqV3NSa0hRNnVmamZQd2RhQTh4MkFPdTlJaDlGS3VHZ0hpZWMzUEpITWtzLUh5UWpBUQ?oc=5	未分類
 2026-10-10	日本多個企業及機構遭網絡攻擊致個人資料外洩 專家料攻擊方藉AI隨機入侵	https://news.google.com/rss/articles/CBMiygNBVV95cUxNS0hZdU04d2hGTG5rZHFiZkJTdDB4YjE1VzloSEZ2TUt2TkUyenJzMzJpMlRzVXMwUVFJV29qTFdIbGxUZDNpZ0ZOcGdGb19rSExKT3FRd2pLZGZmT1JERWNGNVVPdGhVRGVrOUZmNUZoUXlWbHlXb2d0Y3kxRklNY0hKeWFkdDNjekRpcWFfTDlWT0NfSnh2ellDWDY1Si1aTTBZZVU2YUFMTmhheXJLektxeEhfZnFJR0Y2enlMSDZLNU16YjFmMHZrTUs3QlhYX2dqRHY0eHB5b0tIaDQxRFpmbnZlUHZvanB1R1BSdWxKMnh4RkJqaHFGbzN6bVNCeUswcW1jV0VTZzFURnFMUzN0REE4V2hMa0d5SDBmOHlzdEdFQUQybC1GOTdZUFY2SDNmeDY3ZFRDdS1WNXd4NGotUUt3bzZQTGZIb1ZpN1J4S2Q1V3VpMkUyRFlKSnozMVY5SU9xdDRtMnNLa19rb3pyV2pWQlNzVGt4VVBqR1lVQUtwZmdMU2l1WTNQc1BGYjBZcldwN2JFSm1zLUlfek5ZTDhRZ004MmctSnJNd0Z3SXBkajZ2V2RoUVZjcHNmXzRPdjFqWV9VZw?oc=5	駭客網攻
 2026-10-10	據報OpenAI及Anthropic推演AI重大事故 AI網路攻擊恐致銀行、電力供應癱瘓 最快半年內出現	https://news.google.com/rss/articles/CBMi5gNBVV95cUxNNzFVRDc4T3lYcDJQYllDbTNrM3BqTXFVdGIwSWlLN2NSSU5oemhQU0diSXhIQnFsanU2VUJ6Y05ndmVuWWhXYkpYVVpSYndBY1pQTzdYaVpHQU82RmFlbDVUZ2xJNDljNnozeXBtdzA3TGd2S2V2Tl9GT3Q3ZFIxLVJOclZrTEVEcmZiblVBZlhXTU1NemFaRGthcFFGVXRlbzhJdy1IemhkNzJyUUJvcmVfOTJqVVBOWFlnQ25nTlB6SUFKOWt5TU45alVoWExQTThkUjYtRThEb3kySDhWT0NmY2d2UWxLNDNUbjJuQ1JCX3NVZFVjR0o1a1ZiT2NoSGdWazZQQlgyWFNneGw5dWRxZXRLSS1EcFVBUFFWMGFZNlZ0Z3FxaXMyeFFEdmV5QmgtMVdlMFdvRE5pMEtFS3JNVXRpVHVwNUtlZFpxQXJ4RWNBeDRsUDUxRDNSSXZESm5wSDNrTVdoUDZxd05xN19fNmhCMTdxRVd0LVZhYTZhd3B4TWFISDBMNElyQW5MYk1ValVEdU1UMU5FWGVNbnpNbU56QkpUaXUtN0RIXzZUdlZrNTdWeE9oNTY3QjdJcFQ4OHlNVG9LYWhXNjFxUDhyVlF3SGIzUmNEVEVhdEhURTNCTlE?oc=5	駭客網攻
 2026-10-10	AI失控恐癱瘓金融與水電？OpenAI、Anthropic高層已開始推演災難情境	https://ai.ettoday.net/news/3252130	未分類
@@ -66,6 +72,7 @@ var DATA_TECH = `
 2026-10-02	FBI聯手歐洲警方打擊勒索軟體組織KillSec，逮捕疑似主嫌的16歲少年	https://www.ithome.com.tw/news/179366	未分類
 2026-10-01	韓國城Wi Spa擁有AI按摩機器人 並將開設頭部水療中心	https://www.arch-web.com.tw/生活方式/韓國城wi-spa擁有ai按摩機器人-並將開設頭部水療中心/639323/	未分類
 2026-10-01	當你盯著AI的衰落時，AI的衰落也在看著你	https://www.arch-web.com.tw/综合新闻/當你盯著ai的衰落時，ai的衰落也在看著你/665683/	未分類
+2026-10-01	工作將被AI取代？外媒點名「6大危險職業」近7成人恐失業	https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeEpNZUw3WDgtYi1ER29VSTFQM2NsaXlRNzJpOHdQUGM3Z1RaZTlRclN1LVRlYXJ4cG9ZVl9nc3J6MUVpV1JZUmhPY2N6QTFGb3pvT044NHh0RWg4MGlUWEJGdUpXYXA3cXNyNGUzdmJSZHJEaHp1cENUcjJ6SXF3X1B0ZWhoN1ZmckpRR0RxX2tWaE1pdXg2WHl0N1V2djRDc291X2VIbGxWUnR5N2Nxb3lXSWV1bVlORzZ6YkMxV0J4NWUtdDFJdTZ2MElyMF9RNnhyaXg0MEZHV0F2S29zZ1pwTEkwZE96RXVNdkZnaTRRWDVVUlN0ZjBIWjBHNndEQWxYTDZDWWFhZUYwTktFTW00ZTdXQlJENDRpYVY2SDRuZ1RZdkY0UzNhNnJSV2VWMFFKa0tRV2djbmxZMkROLXk5RkRyOFVhUHNPaWsxbFpaMEZYc0pKNg?oc=5	AI取代工作
 2026-09-30	美國政府AI聊天機器人藏《Minecraft》彩蛋 回答問題竟冒出神秘詩篇	https://ai.ettoday.net/news/3246305	未分類
 2026-09-30	印尼網路攻擊損失高達 62 億美元 AI 助長詐欺風險	https://sunmedia.tw/news/finance/1790722244-%E5%8D%B0%E5%B0%BC%E7%B6%B2%E8%B7%AF%E6%94%BB%E6%93%8A%E6%90%8D%E5%A4%B1%E9%AB%98%E9%81%94%2062%20%E5%84%84%E7%BE%8E%E5%85%83%E3%80%80AI%20%E5%8A%A9%E9%95%B7%E8%A9%90%E6%AC%BA%E9%A2%A8%E9%9A%AA	駭客網攻
 2026-09-30	《人工智慧》大陸清華領軍人工智慧驅動之生技公司Earendil Labs與羅氏羅氏/Genentech達成20億美元雙特異抗體合作預計將在香港上市- 生技投資第一站	https://www.genetinfo.com/international-news/item/98294.html	未分類
@@ -234,6 +241,7 @@ var DATA_TECH = `
 2026-09-29	"加州州长签署行政令加强AI监管，评估设置AI“紧急关停开关”，批评特朗普""昏昏欲睡"""	https://wallstreetcn.com/articles/3782118	未分類
 2026-09-28	馬偕5醫院傳遭駭1.2TB醫療資料 院方：已報案【最新快訊】 Lens Vs Psg (7ZLV9Kir4Y)	https://mshale.com/37a249af/c7ee8cbcUStI6o1sxDk	未分類
 2026-09-28	美國AI巨頭喊「慢一點」！中國卻不怕AI末日 反質疑背後目的	https://ai.ettoday.net/amp/3245366	AI末日
+2026-09-28	港中大（深圳）發布腦機接口顛覆性技術無創顱內「打印」芯片引領產業新突破（香港商報） | 香港中文大學傳訊及公共關係處 - CUHK Communications and Public Relations Office	https://news.google.com/rss/articles/CBMi3AJBVV95cUxNcTVlSUFzTDFzVlN6Y1NUbnc4bmRqbFpFcEcwSzhVamxRUUxpLXlLRTZ5X0FyN01vWTFCRE9qb00zRUp2Ykl1MkpiR0t1b21VbjFtM3RiQkVsWlZqU0tEMVNVd1k5OU9POTVKRllhVWhpbEZwelN0NWxqQUlDeEhuUkppTElyMUZwUGJySF91cXBqRWxlcG5vbU4yYUNWVks4SVpGVFN0NUhQa2x4QWlPRzRLMTAwLUctZmxXSFRvcHhWTUpFeTU3cHg3Q1NrSFN4c1l5WGxoeXhvVjBEanRSS1RyMFQ3YmswaUJRQWpTZmtMN1VGSGFmRXptQWUzb05rYUd2SmM4TzN0MktrQzBIdjRJMDRPTlZWVU5MVXpaSlNaZTlZdlhaZXVxS0prdEZFVHo4dUtZamJ2Mm52V1J0SkV1eTg0bmlxOExkcWIxQzdlbXllNldFM0dmQ2g?oc=5	未分類
 2026-09-28	日本京王電鐵集團遭勒索軟體攻擊，旗下零售門市信用卡結帳故障	https://finance.biggo.com.tw/news/1baf512b-8d49-40e5-a83e-6b97033992c4	未分類
 2026-09-28	亞太地區勒索軟體事件月增近27%，臺灣事件數排名第三	https://www.ithome.com.tw/news/179235	未分類
 2026-09-28	Bitget 恢復提款，駭客利用第三方資安產品零日漏洞	https://abmedia.io/bitget-resumes-withdrawals-hack-zero-day	駭客網攻
@@ -244,8 +252,10 @@ var DATA_TECH = `
 2026-09-26	西班牙國鐵驚傳遭AI網路攻擊 500GB乘客個資恐外洩	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sRzFfci1sTU8wWlhjeVUzRXRpVzdJbzJ1bnZHczlDbHdvdm40N01rV0FfMGpfcXQyVkJsRnJrTnluS25ELXo3dFg3TXFMV2xpWFVjVDg5S1FpUzRjMlUzeQ?oc=5	資料外洩
 2026-09-24	美推美元穩定幣出海：對抗 CBDC，鞏固霸權 作者 智通財經 - Investing.com 香港	https://hk.investing.com/news/stock-market-news/article-1672060	CBDC數字貨幣
 2026-09-24	甲骨文擴展數字資產數據樞紐，幫助銀行實現數字貨幣的運營	https://www.moomoo.com/hant/news/flash/1000119242/oracle-expands-digital-assets-data-nexus-to-help-banks-operationalize	CBDC數字貨幣
+2026-09-24	奇瑞墨甲腦控輪椅全球大賽奪魁 腦機接口醫療產業化提速	https://news.google.com/rss/articles/CBMickFVX3lxTE9WbFU4bndRcGVMVzhyTm9VcmVWUXBYN2Nsdm9IWkR0UjNsVXlodG45akQ1M0h4M1ZmUU5fN0xZVE44Wng0dWllSFJ3LTU5eExHVFlFaWdvUmxZT3N1NWZ3WUNyT2EwS05BcTlxN1R2a09pUQ?oc=5	未分類
 2026-09-24	【AI+Anthropic】AI或成新基因編輯推手？Claude 21小時發現類CRISPR系統 950個AI Agent燒2.1億Token	https://inews.hket.com/article/4199139/%E3%80%90AI-Anthropic%E3%80%91AI%E6%88%96%E6%88%90%E6%96%B0%E5%9F%BA%E5%9B%A0%E7%B7%A8%E8%BC%AF%E6%8E%A8%E6%89%8B%EF%BC%9FClaude%2021%E5%B0%8F%E6%99%82%E7%99%BC%E7%8F%BE%E9%A1%9ECRISPR%E7%B3%BB%E7%B5%B1%E3%80%80950%E5%80%8BAI%20Agent%E7%87%922.1%E5%84%84Token	未分類
 2026-09-22	華夏數字貨幣基金 推代幣化存款服務	https://m.hkej.com/landing/mobarticle2/id/4519415/%E8%8F%AF%E5%A4%8F%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3%E5%9F%BA%E9%87%91%20%20%E6%8E%A8%E4%BB%A3%E5%B9%A3%E5%8C%96%E5%AD%98%E6%AC%BE%E6%9C%8D%E5%8B%99	CBDC數字貨幣
+2026-09-22	澳大學人分享前沿腦機接口技術	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sdjNHckZYUEs1QWdfdmJMRGJLU29pS1ZQa1BlTXVvajRhZU11MXFhay1HSnkyRDNQalhVa1NqbzZjaVEtRThaN194SmRhbkJRY1E?oc=5	未分類
 2026-09-22	沙烏地阿拉伯退出中國主導的mBridge數位貨幣計畫	https://finance.biggo.com.tw/news/84c7586f-798d-40e8-83d9-8c53205f7d30	CBDC數字貨幣
 2026-09-22	沙烏地退出mBridge！中國背書的CBDC 跨國支付網，第一波裂痕| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft/	CBDC數字貨幣
 2026-09-22	台灣日均面臨260萬次網路攻擊 中國、朝鮮、伊朗及俄羅斯駭客頻繁瞄準	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCVXdMUTRnUzhIZUhvTEdZQmFxeEppX3V1M3VQTGxzWEhna2hLS28wT2xEY21wWWt3MjQ1bGdsenJ2WG8tby1FWEM5Z1VIN0E?oc=5	駭客網攻
@@ -273,15 +283,23 @@ var DATA_TECH = `
 2026-09-17	Chainalysis：國家級駭客助長區塊鏈惡意軟體激增420%	https://finance.biggo.com.tw/news/2f92b392-b564-40c4-8d73-4ec046147f62	駭客網攻
 2026-09-16	研究指「失控」OpenAI代理七月網攻前兩個月已測試Hugging Face	https://yellow.com/zh-hk/news/研究指「失控」openai代理七月網攻前兩個月已測試hugging-face	未分類
 2026-09-16	泰國手機網路攻擊激增 AI 助長詐騙更難辨識	https://tw.stock.yahoo.com/news/%E6%B3%B0%E5%9C%8B%E6%89%8B%E6%A9%9F%E7%B6%B2%E8%B7%AF%E6%94%BB%E6%93%8A%E6%BF%80%E5%A2%9E-ai-%E5%8A%A9%E9%95%B7%E8%A9%90%E9%A8%99%E6%9B%B4%E9%9B%A3%E8%BE%A8%E8%AD%98-054305940.html	駭客網攻
+2026-09-16	【港股收評】三大指數齊上揚！腦機接口、AI硬件板塊漲幅靠前	https://news.google.com/rss/articles/CBMieEFVX3lxTE1Cb1daZUVHdW1mYUY0LUc3TFM4XzdyNzc5MDktclZnYzBRQVhKdG5IX1ZTdnVDMTcxazNlMG53NmhaUzRCaHd5SlJHX2dodVJ3RFEwTVhpR1E5cURQRVYxSEt0cjAxa1Y1UnlOYVEwc1RqSk5wU1RWeQ?oc=5	未分類
 2026-09-16	OpenAI早有機會阻止大規模駭侵！失控AI兩個月前就露出馬腳	https://hk.finance.yahoo.com/news/openai早有機會阻止大規模駭侵-失控ai兩個月前就露出馬腳-132004935.html	未分類
+2026-09-15	首個國產AI+腦機接口標準國際領先- 中國	https://news.google.com/rss/articles/CBMidEFVX3lxTE5zS21CTndhNFhERGdPREJNYmo1WEVkc3NuZ1doUHZrOTExVS1YMmpLTy1Ea29LelV1YW11aUI4N1BpVXZTd3oxLWp6MFNnSjZURjY0MXR6ZUtlblZUVkl1RW9nWXZGUkJDRWpNNlA4MmFLTGg2?oc=5	未分類
+2026-09-15	陸腦機接口AI標準出爐 讀腦數據品質有解	https://news.google.com/rss/articles/CBMib0FVX3lxTE1sRGlIYk9MWjR3VzRqOTNpOXlIZW9lRlE4OUZRYlpQVVcwdF81TTBLVFdDQ1d2LTJoMENZU3VyNlA4VE02YU5jM0ZtWDlqcjFRVWJGUlp5VVp5aWJwNmp2b0w5Mk53Ml9qdjE4NDhIcw?oc=5	未分類
 2026-09-15	距60票門檻有差距！「里程碑」式數字貨幣法案未能通過美國參議院	https://news.futunn.com/hk/post/79312232/falls-short-of-the-60-vote-threshold-landmark-digital-currency	CBDC數字貨幣
 2026-09-15	美機構揭微信重大漏洞 AI使駭客攻擊更危險	https://www.ntdtv.com/b5/2026/09/14/a104132916.html	駭客網攻
+2026-09-15	國家藥監局發布 全球首個AI+腦機接口標準	https://news.google.com/rss/articles/CBMipAJBVV95cUxOSjhIT3g0blA5aGhoOWJOazkzaDF5OVR6UUFvMXJOd2dyeVI0bUxNRFlTRUNBaGZOYUhnbmJlRE0zTlhzdVJDOXQwYjIxa0dFd0J1aUstNU1iWXBnUkhhVEF3ZkNjdlFLOGt4b054SHR4RUdsY25Zb0gyMzZQQjNBYzFnOWJPM1VkUFl5Y3d4Nk1MMHNfV21wVTFHNUZlS2hqWGdxNFRvS0Z6VExPelVhaXpJQS1qT3hLX0pRaFBSdkZQbDBNWURxb2loTFlTSEF1WTd3azYxX0ZuRkZIMWxaZ1Qzd2xQMDhKMlY4WmhBSW9VNWtPcHUxZURCSEtoRlJZb29JRFh3T3JXZl9QYUNoWWJSZGI0Q1E3Q3ZUa3M0Mkh0aVA1?oc=5	未分類
+2026-09-15	全球首個人工智能+腦機接口標準在我國發布	https://news.google.com/rss/articles/CBMidEFVX3lxTFBzU3dvbTIxTVpqdXVBdWhrb3NOdDBUZ0NsV3V2emNWbTRGZ3NQYlR0ZVk4ZjJ1VllLV2tsa2ZRN3VFWE1vWWN1UkZZbDZaOTFBdXQ2cHMtT1o0clRnbVdvUk5OTkFmelROOUVxa1JFOGd0ZVJs?oc=5	未分類
+2026-09-15	全球首個人工智能+腦機接口標准發布	https://news.google.com/rss/articles/CBMicEFVX3lxTE9OTWdULTlyNFhJNVk1WkxEMHEyYm5tZVk3c3k1Wi10a0lKaWlJWWRVdTZXRW5BYkRFRzhaMERjaDVWTUxTZFNKRzA2ZjZjcm1XSXVnZHo2QVZHZGVUOThxQlN6U0JrRmVvQ3VTdlJOTW0?oc=5	未分類
+2026-09-15	中國發布全球首個AI+腦機接口標準統一腦電數據集「標尺」 鋪路國產醫療器械出海- 中國	https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YTdGeE9ybEdtdGF4TDJFaDJYUXFfLXpzU1dUTEVyVUwtNUdNR09yT3hjamFHdzN5andvWjZ2NTJHWVA0T0gzdEdrXzNnejF6T3VfS0FQa2pCVFRWVmRaX0ViOWVEeFoxS3hHQXF2N3V0ek95?oc=5	未分類
 2026-09-15	【即時新聞】最新！CrowdStrike(CRWD)警告AI資安威脅失控，呼籲業界加強防禦駭客攻擊	https://cmnews.com.tw/article/newsyoudeservetoknow-df8fd730-b0d9-11f1-9b6f-7f966a04a7ad	駭客網攻
 2026-09-15	Twitch 驚傳 4 萬名實況主個資遭竊取兜售！資安媒體研判並非遭駭 疑似遭爬蟲與社交工程收集	https://news.para-daily.com/2026/09/15/twitch-4k-streamers-data-leak/	資料外洩
 2026-09-15	CenterPoint Energy 在向美國證券交易委員會提交的文件中披露了客戶數據泄露事件	https://news.google.com/rss/articles/CBMid0FVX3lxTE5PMkN3dHlob3VPcEhwYU9mNWRfSENJemJ0WTlIVlEtN2xyTlp2X3NwR0lXYmpxWktUSHZjTEJxSmlIT1pWV1lnMUJjUWgyYXNCYjcwMFR3QVpXVzJDWGxObnRfUWRGN3NHNUZicFhYVFpJZ0xIUHdF?oc=5	未分類
 2026-09-15	AI末日論｜特朗普突致電黃仁勳 齊反駁AI或令人類滅絕「完全是一個騙局」	https://hk.finance.yahoo.com/news/ai末日論-特朗普突致電黃仁勳-齊反駁ai或令人類滅絕-完全是-個騙局-032409254.html	AI末日
 2026-09-14	財經視野｜「AI末日論」抬頭 或使晶片股承壓 惟長期影響有限	https://www.hk01.com/財經快訊/60389832/財經視野-ai末日論-抬頭-或使晶片股承壓-惟長期影響有限	AI末日
 2026-09-14	網絡安全丨網絡邊界設備成黑客攻擊目標HKCERT籲企業 ...	https://inews.hket.com/article/4193415/網絡安全丨網絡邊界設備成黑客攻擊目標 HKCERT籲企業建立持續監察及風險管理機制	駭客網攻
+2026-09-14	中國批出第三項腦機接口醫療器械標準	https://news.google.com/rss/articles/CBMisgJBVV95cUxQS3RMbEFHVGt1RVV0ZkZrTzZaN2lTTHJhaklFaWtmbnUtUTV2Rml5RnhTWUswcTMyR0t0VUJaR29rZElqOXl6QUlNT1lYSkVkNWxMN1ZWdDB2Sk1mMW9hVTVSWFV3Z01uYUpOakxPNGVhd3AydnhpdUUxRXN0b3VnbUxhcy16RVdrMndtSTBiQmxJSkphenl4dGVjdlZTZUR1VkIzTDZ5clRlQVBRNVdnWVdaRGtDV1F2dXhZN1ZIZ3B1RUE4dkFDUktCc3d2UE5odDlfa1JoVWdzOFcyUWFSNnV0T1FUWlFBYUROQlZxcGlLY0M5a2otU0dIR0U2XzE4Ri1rdmo2MllfbWRSS2d0RjE3THUxSmV2M05jb1E5WXNzRzRLSmlvSi1sbEdkTmpVZFE?oc=5	未分類
 2026-09-14	【AI+安全】Anthropic前研究員：AI已可駭客攻擊控制機械人需要國際協調與中國競賽同樣危險內地官媒回應Anthropic CEO文章稱其為「冷戰手冊」	https://inews.hket.com/article/4193324/【AI-安全】Anthropic前研究員：AI已可駭客攻擊控制機械人 需要國際協調與中國競賽同樣危險 內地官媒回應Anthropic CEO文章稱其為「冷戰手冊」?mtc=20023	駭客網攻
 2026-09-14	Revolut 遭駭客公開客戶資料 勒索 1 萬枚比特幣	https://yellow.com/zh-tw/news/revolut-遭駭客公開客戶檔案-勒索-1-萬枚比特幣	駭客網攻
 2026-09-12	失控AI智能體群引發網絡攻擊，業界擔憂AI脫離控制	https://www.moomoo.com/hant/news/post/76165166	駭客網攻
@@ -289,6 +307,7 @@ var DATA_TECH = `
 2026-09-12	OpenAI AI Agent涉網絡攻擊癱瘓RubyGems 4天！爆AI資訊安全疑慮	https://inews.hket.com/article/4192589/openai-ai-agent-rubygems-cyberattack-security	駭客網攻
 2026-09-11	習近平赴印度出席金磚國家峰會 新德里擬會上推數字貨幣互聯機制	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60388996/%E7%BF%92%E8%BF%91%E5%B9%B3%E8%B5%B4%E5%8D%B0%E5%BA%A6%E5%87%BA%E5%B8%AD%E9%87%91%E7%A3%9A%E5%9C%8B%E5%AE%B6%E5%B3%B0%E6%9C%83-%E6%96%B0%E5%BE%B7%E9%87%8C%E6%93%AC%E6%9C%83%E4%B8%8A%E6%8E%A8%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3%E4%BA%92%E8%81%AF%E6%A9%9F%E5%88%B6	CBDC數字貨幣
 2026-09-11	數學家公開信批評 AI「灌水」後，OpenAI退出加州理工數學黑客松	https://www.businessinsider.tw/article/6937	駭客網攻
+2026-09-11	國產無創腦機接口系統亮相投洽會- 科技	https://news.google.com/rss/articles/CBMid0FVX3lxTE9pbUNwdm5TQ1g5UlFWcXdIZ0ZvTTVneGpLazNpcTVSUUZxTXFzNVdMMGNtRnFNN3hoMjZIbFpSRklxeFljX08yZFNjb2d0cnhkcDRjc3g3ODA0ZFQ2R2E1WFBRN3h6SFpiblVBdklMZ0RDQlNaSG13?oc=5	未分類
 2026-09-11	印度擬在BRICS峰會提出CBDC跨境連攜方案，地緣政治緊張成最大障礙	https://finance.biggo.com.tw/news/32881195-9e80-4d8e-9202-76d746176d88	CBDC數字貨幣
 2026-09-11	印度不當反美元先鋒：金磚峰會改推CBDC 互聯、統一結算網喊卡| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/bloomberg-india-brics-cbdc-cross-border-payments-modi-summit-dollar/	CBDC數字貨幣
 2026-09-11	【資安日報】9月11日，晶睿傳出遭勒索軟體攻擊	https://www.ithome.com.tw/news/178882	其他資安
@@ -312,6 +331,7 @@ var DATA_TECH = `
 2026-09-07	港產毛孩健康App 糞「辨」疾病風險姊弟檔研發 AI分析準確率93% 寵物無法和人類說話，飼主須密切留意毛孩的細微變化，才能確保牠們及時求醫。本地寵物科技初創Petalife，核心產品是一套人工智能（AI）寵物健康監測平台，...	https://www.hkej.com/dailynews/ceoai/article/4507455/%E6%B8%AF%E7%94%A2%E6%AF%9B%E5%AD%A9%E5%81%A5%E5%BA%B7App+%E7%B3%9E%E3%80%8C%E8%BE%A8%E3%80%8D%E7%96%BE%E7%97%85%E9%A2%A8%E9%9A%AA	未分類
 2026-09-07	港產毛孩健康App 糞「辨」疾病風險 姊弟檔研發 AI分析準確率93% 灣區創新科技 - 專題 寵物無法和人類說話，飼主須密切留意毛孩的細微變化，才能確保牠們及時求醫。本地寵物科技初創Petalife，核心產品是一套人工智能（AI）寵物健康監測平台，...	https://www.hkej.com/features/article/%E7%81%A3%E5%8D%80%E5%89%B5%E6%96%B0%E7%A7%91%E6%8A%80/137820766/%E6%B8%AF%E7%94%A2%E6%AF%9B%E5%AD%A9%E5%81%A5%E5%BA%B7App+%E7%B3%9E%E3%80%8C%E8%BE%A8%E3%80%8D%E7%96%BE%E7%97%85%E9%A2%A8%E9%9A%AA	未分類
 2026-09-07	OpenAI 10 億補貼前線網絡安全專家改寫關鍵基建保安成本 ...	https://unwire.pro/2026/09/07/openai-1-billion-daybreak-cybersecurity-funding-critical-infrastructure/ai/	其他資安
+2026-09-06	腦機接口，前景有多廣？（深度觀察·未來產業裡的向“新”力） --經濟·科技--人民網	https://news.google.com/rss/articles/CBMidEFVX3lxTFBnVEZjQWdwT2NrTG1oTjI4UUlMQ250eldkQkE0R2I5bndLdm1Ia1RHYURCZXk2Wkd2RDdrOUN3OWRacnpmUERJQ01Ta0hmWUhseWtyVm1ZTmMxeHBfNDFSMmFhTlhGbFk0WlF6RGY4b0pGM2Fz?oc=5	未分類
 2026-09-05	黑客暗網售1.5億份美加證件或北美最大身份資料外洩事件	https://www.wenweipo.com/a/202609/05/AP6a9b252ce4b01d54a281d949.html	駭客網攻
 2026-09-05	美國三大AI平台同時死機專家：人工智能風險管理響警號	https://www.tkww.hk/a/202609/05/AP6a9b55f6e4b0911458c35b55.html	未分類
 2026-09-05	採購網大量發送過期資訊給廠商 中科院認了遭駭客入侵：觸發排程指令	https://tw.news.yahoo.com/採購網大量發送過期資訊給廠商-中科院認了遭駭客入侵-觸發排程指令-072022838.html	駭客網攻
@@ -324,11 +344,13 @@ var DATA_TECH = `
 2026-09-04	開放執行網路攻擊任務懼AI成熟降低敵對勢力「駭」成本五角大廈擴軍找上私人企業| 謝駒蕥| 新聞	https://www.storm.mg/article/11161920	駭客網攻
 2026-09-04	醫院頻遭駭客入侵 衛福部擬推新制：取消院長特權、設第三方通報機制	https://udn.com/news/amp/story/7266/9734031	駭客網攻
 2026-09-04	遭駭客入侵？中科院資安出包卻蓋牌 王鴻薇：資安A級機關出現破口	https://www.i-meihua.com/Article/Detail/55480	駭客網攻
+2026-09-04	深入解讀腦機接口前沿科技與未來產業--理論-中國共產黨新聞網 - 人民网-理论频道	https://news.google.com/rss/articles/CBMidEFVX3lxTE8tU3g3aWxuN3BSdV9SRGdWMWhGWDZKbUUxNkRCRlp5amlESEUyQXBPQnR6NkFBbnIteE9NcnI4Q05mOXNKNkliemxpb2l6d3dIT0d1OHd4UG84LXVsdVRqUWtGZU9CWGg0WXZMOGZoSGtheHpq?oc=5	未分類
 2026-09-04	2026年OpenAI代理網絡攻擊	https://zh.wikipedia.org/zh-tw/2026年OpenAI代理网络攻击	駭客網攻
 2026-09-03	（有片）AI智能體遭惡意「投毒」 專家解讀網絡安全防護新方法	https://www.wenweipo.com/a/202609/03/AP6a996213e4b0c1e500276792.html	其他資安
 2026-09-03	網絡安全｜大型身份驗證公司疑遭入侵逾1.5億份個人資料外洩	https://inews.hket.com/article/4187824/網絡安全｜大型身份驗證公司疑遭入侵 逾1.5億份個人資料外洩	駭客網攻
 2026-09-03	「鄰住買」遭網絡攻擊 逾3.3萬客戶資料外洩	https://www.guandian.hk/article/20260903/596959.html	駭客網攻
 2026-09-02	記者編輯部| 【國戰會論壇】美國供水系統遭網攻資安還是戰爭？	https://www.i-meihua.com/Article/Detail/55329	其他資安
+2026-09-02	愛朋醫療(300753.SZ)：公司暫未參與投資其他腦機接口公司	https://news.google.com/rss/articles/CBMiakFVX3lxTE4yWGlJa3JkVDZtbEZoZVI3T28zYmlabmxOUkIyYldNQXFveWw3R1dyLXdUTEE3Tk1HWkVRZ1hRa0xqWkgtMUgtRkFDdnN2aEtQa09JYlRHb29CcWhBZHNncThlYnNaWjdrYUE?oc=5	未分類
 2026-09-02	串聯台灣業者展前瞻資安量能 數產署：建構半導體堅實防線	https://money.udn.com/money/amp/story/5612/9730687	其他資安
 2026-09-02	【專訪】從漏洞揭露到實戰利用只剩幾小時！AWS 安全與基礎設施副總裁Hart Rossman：駭客攻擊自動化，企業如何重構安全防線？	https://www.inside.com.tw/article/42263-aws_securityinfra_hartrossman	駭客網攻
 2026-09-02	OpenAI 新模型 Astra 駭客能力驚人，首度啟動強化安全防護	https://tw.stock.yahoo.com/news/openai-新模型-astra-駭客能力驚人-首度啟動強化安全防護-003630047.html	駭客網攻
@@ -337,6 +359,7 @@ var DATA_TECH = `
 2026-09-02	AI駭客成真？OpenAI展示Astra模型，具備入侵電腦系統能力	https://n.yam.com/Article/20260902287326	駭客網攻
 2026-09-01	後患無窮｜英國最大機場集團遭勒索軟件攻擊 870萬旅客資料外洩	https://news.google.com/rss/articles/CBMivwJBVV95cUxQNzZlc2ZpY2RJY20yNDZYY0h6ektwV3hHbnhReXFUOTZjQUFyajJSRmJQbHQ1ZXN4bHA3cllPbmU1NmVqUVExYjlpbjdKT0FJbFRBMTlvckxad3Eta1pNM0NNNkJieldhVzlxeXVTWVYwXzc3S3BrbE5IZUMtQk0tOUJzZmpTM015NldCd1JDZ2pDaDJKQVNyelRxUl96dWNqSTR6T0t3LVgxUE1RQWRuRkMxWm16TGhJSlNtQnJ0SXVGWEdrWTFCdTRiTzRja2tydC03ZHlKczRRQkQ5MUh1alpZdEZ1ajYxY0ZTbXlUY2xsTFowZnFWV25TTHVWVjZuMFVFd2VnbW1XRWpaMEFRY0w1UjRZNUJPTlNLNWJRNGt2U0JVamF2Nm9fai13LXRFV3ZTVDZzX01kX2RUQ2dN?oc=5	駭客網攻
 2026-09-01	勒索軟體Aurora同時借助Cursor AI與Claude Sonnet的力量，鎖定ESXi環境加密檔案	https://news.google.com/rss/articles/CBMiTkFVX3lxTE52OFVkeDlOTFllS2c4clp2TDY3SHJzUG9ZNzlRVl9xRElEMkNVNlZWTVZDS3piV3B4VXVEX0JaNm1WTmc1SmIyanlUUG95dw?oc=5	未分類
+2026-08-31	腦機接口企業瓦博科技：以非侵入式技術探索人機交互新入口	https://news.google.com/rss/articles/CBMicEFVX3lxTFBxdmFGVndpZHVGbW5mMFRNd09NTGxsa1VmNmtrUjJrU1BWTTZyZ2VIWWZjLWxxYVJqUHpvQXRhNGIxV1FlQm03RFVjWEd1MGh3Qi05WF9Ecm1OZ0lyQWNfSlUxTzhFcmpReGM3eDBPSHc?oc=5	未分類
 2026-08-31	攻擊擴展至AI基礎設施Fortinet收購Virtue AI提升防護力	https://inews.hket.com/article/4185809/網絡安全｜攻擊擴展至AI基礎設施 Fortinet收購Virtue AI提升防護力	未分類
 2026-08-31	先進 AI 成金融體系最迫切風險 改變網絡攻擊速度、規模與成本結構	https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVJ0RV93R25oY2tLbEtGVnlrVTJsa3ZHSFlSQzdDa2MzeDc2Znp2X2xvcWFFOXNLZVdIZmN1N0Jpc2ZvUFppZ0wzaGsxUEs0MVlFTllUSE02SVdHZHp2dncwamlicjJ6OGlDSXFnY1FRUGExdFZ0dG9uSmtnMm1TaktzSlk0Z1No?oc=5	駭客網攻
 2026-08-31	「SaaS已死」喊太早？Salesforce帶動軟體股反攻 有望一路漲到10月 過去一年，美股軟體股深陷「AI取代軟體」疑慮，市場一度認為，AI提高員工生產力後，企業將縮減人力與軟體訂閱席次，加上「氛圍式編程」（Vibe coding）降低客製化軟體...	https://hk.finance.yahoo.com/news/saas%E5%B7%B2%E6%AD%BB-%E5%96%8A%E5%A4%AA%E6%97%A9-salesforce%E5%B8%B6%E5%8B%95%E8%BB%9F%E9%AB%94%E8%82%A1%E5%8F%8D%E6%94%BB-%E6%9C%89%E6%9C%9B-%E8%B7%AF%E6%BC%B2%E5%88%B010%E6%9C%88-054302271.html	AI取代工作
@@ -344,6 +367,7 @@ var DATA_TECH = `
 2026-08-31	AI變成金融系統「駭客倍速器」？全球監管急補破口、華爾街估值泡沫壓力升溫	https://cmnews.com.tw/article/cmoneyairesearcher-b2c7cbe7-a509-11f1-9e01-a6aaaa1e4a75	駭客網攻
 2026-08-30	駭客竄改QR Code 資安署示警掃碼停看聽	https://www.epochtimes.com/b5/26/8/30/n14839554.htm	駭客網攻
 2026-08-30	事件的方方面面OpenAI的自主人工智慧代理	https://zh-tw.root-nation.com/en/articles-en/analytics-en/en-when-machines-start-communicating-with-each-other/	未分類
+2026-08-29	全球首例半侵入式視網膜腦機接口手術 盲漢復明	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1g4TS1KV2xtQks3LXIwaEVMSnlqR2JwelI2cFZVTHNxcjUxVF9TNVBRc2RGVE9DeXZyX1VmNnd5dEpjVVoweFptb3RYemtUZzAxalJOU3lUd090ajYycU5hcEFvNjNlaDk2M0lxYWRHUTVqZFhGMUIxRGZKdmYwa2laVXY3MHRIMlIw?oc=5	未分類
 2026-08-28	逾百科技巨頭示警：AI網攻恐在數月內激增	https://www.epochtimes.com/b5/26/8/28/n14838231.htm	未分類
 2026-08-28	格柵吸菸區96萬打水漂？蔣萬安搬數位身份證浪費2.8億反擊遭綠議員嗆：你是台北市長還是總統	https://www.ftnn.com.tw/news/574127	未分類
 2026-08-28	快訊》中科院疑遭駭客入侵狂發200封採購信 立委詢問稱忘關資安演練系統	https://tw.news.yahoo.com/快訊-中科院疑遭駭客入侵狂發200封採購信-立委詢問稱忘關資安演練系統-052047029.html	駭客網攻
@@ -366,6 +390,7 @@ var DATA_TECH = `
 2026-08-24	OpenAI 煞停 Astra 訓練 先進模型首度逼近「Critical」級網絡攻擊門檻	https://unwire.pro/2026/08/24/openai-astra-critical-cybersecurity-ai-model-threat/ai/	駭客網攻
 2026-08-23	英媒：英國發電廠7月遭伊朗黑客網絡攻擊 導致關閉4日	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60382792/%E8%8B%B1%E5%AA%92-%E8%8B%B1%E5%9C%8B%E7%99%BC%E9%9B%BB%E5%BB%A07%E6%9C%88%E9%81%AD%E4%BC%8A%E6%9C%97%E9%BB%91%E5%AE%A2%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E5%B0%8E%E8%87%B4%E9%97%9C%E9%96%894%E6%97%A5	駭客網攻
 2026-08-23	政府倡導「AI對抗AI策略」 孫東：創新帶來新威脅亦能提升防禦力	https://www.am730.com.hk/本地/1048992/政府倡導-ai對抗ai策略-孫東-創新帶來新威脅亦能提升防禦力	未分類
+2026-08-23	全國首屆磁共振腦機接口大會在津舉行 全球首個全棧式解決方案「uMR神觀」發布	https://news.google.com/rss/articles/CBMid0FVX3lxTE5TRUNBSDhBcnJuQUJlNWlzU1lsRGRjUC1iUm1ZRHRhRDNfZnQ2dHZtMndER1hicjdhbTVNdDNLRjE4R0o0TG40bDhuTWpyeG54aVN6VGJleWNyaDN2RW1kYVZNbFkwa1Y5V1NKcmtqcjY4QXNTenVB?oc=5	未分類
 2026-08-23	伊朗駭客發動空前網攻，英國電廠停擺四天	https://finance.biggo.com.tw/news/310c626b-86b1-4a2a-be22-bd7eb2c006c8	駭客網攻
 2026-08-23	40支隊伍匯聚香港出戰「人工智能網絡安全挑戰賽」	https://businessfocus.io/article/361368/40支隊伍匯聚香港出戰-人工智能網絡安全挑戰賽-	其他資安
 2026-08-22	📌AI-網攻-數位ID 📌AI-網攻-數位ID		未分類
@@ -395,8 +420,10 @@ var DATA_TECH = `
 2026-08-18	蘋果急推iOS 26.6.1！狂修近30漏洞 iPhone不升級恐遭駭 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260818/index-78703613988306309002.html	未分類
 2026-08-18	法國大規模個資外洩 近68萬筆納稅人資料遭駭	https://news.pts.org.tw/article/823006	資料外洩
 2026-08-18	兩大資安會議示警：AI 代理人恐助長網路攻擊	https://tw.stock.yahoo.com/news/兩大資安會議示警-ai-代理人恐助長網路攻擊-050335003.html	駭客網攻
+2026-08-18	NEO腦機接口系統 中國首獲批上市	https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRVhUMHVPRHNpOEVtYUxmYUZrSWk4QVR3YWFmcWNjT3dpSzNnVFJYRGdZNHRkb2xaQU5XZkZTUGg0QjJuZUhjZHBFdFE2Z2o0ZE9NR24zbE5tUGRVYnVxTERUMXpDZ2c5RHhuaVl4UHF3RnZCTlpjdDJRVWp5V0FLMmlGNlNXZVZzTmVmdVVVOXRTYmhCQnJ0dEJfSmRGTnNOM2MyVVhxUE9wR2VRdnAtSy1BU2FTRFJoNFVQeE9FWHNjQVdTdmNCT0JxQWhpaUcwZWNSVTZPbk50UXhlZlNPTW95VjJoTk5UTXd6U21KdWUtYmNDQUxJbFlFQ000NmdhZ1BObUplMWU1ODFfS2tVUFppM1pfNllKVGZUZ0U2TlJWNXUwWG9LNUlLdmU2VHNfYzJuWEVPNjF2WkxlbjRqdml3MElHb2tkV3p0dGdlTzg?oc=5	未分類
 2026-08-18	AI自主駭客攻擊警示 OpenAI暫停部分模型訓練強化安全	https://tw.news.yahoo.com/ai自主駭客攻擊警示-openai暫停部分模型訓練強化安全-235050265.html	駭客網攻
 2026-08-18	AI助黑客加速網攻澳洲能源系統面臨新威脅	https://www.epochtimes.com/b5/26/8/18/n14832153.htm	駭客網攻
+2026-08-17	有片 ︳2026深港腦機接口產業國際合作大會在深圳前海舉行	https://news.google.com/rss/articles/CBMiekFVX3lxTE5kWW0zTFVsSUhmRlZ1STh3UnRnMjBBQlNqMHY3Uk1PTHBpM3BjS3FlaTZPLVd0M3d5V24zMWRhUjI1YVc5OF81MU5Tc09VamIzbm9kcTQ0TTluUWNXcThRTDdmSVNYUkE4NDRWYy1UY09MWExqelhzZ3hn?oc=5	未分類
 2026-08-17	macOS 螢幕共享漏洞遭駭！駭客植入門羅幣礦工，荷蘭資安中心示警	https://www.blocktempo.com/hackers-exploit-macos-screen-sharing-flaw-to-install-monero-miners/	駭客網攻
 2026-08-15	深偽變造引《巫師》配音員強烈不滿：希望能把 AI 公司告到倒閉	https://n.yam.com/Article/20260815154799	深偽詐騙
 2026-08-14	AI模型具駭客能力恐失控 OpenAI暫停開發Astra示警	https://n.yam.com/Article/20260814754485	駭客網攻
@@ -432,6 +459,7 @@ var DATA_TECH = `
 2026-08-10	Coldcard 遭駭後，比特幣 ETF 吸引 8.5 億美元資金	https://www.idnfinancials.com/cn/news/67236/coldcard-遭駭後比特幣-etf-吸引-8-5-億美元資金	未分類
 2026-08-08	Sophos：AI 大縮網絡攻擊時間 企業AI身份、憑證等成重點攻擊目標	https://www.businesstimes.com.hk/articles/331926/sophos-ai-網絡攻擊時間-企業ai身份-憑證-攻擊目標/	駭客網攻
 2026-08-08	AI失控了？Meta人工智能「闖入」別家公司系統| 德國之聲	https://today.line.me/tw/v3/article/2Dq1LjX	未分類
+2026-08-07	腦機接口的上海加速度 - 人民网-上海频道	https://news.google.com/rss/articles/CBMicEFVX3lxTE5FUDN3THFNYXM3QkdVOWRfc2hOcDZWQ2RjZjFlLWdkLW1iWUFVUE9MeDRYLURlQm5TNFR0eDNBR1VrblFCVnUteEVEZVRrQWZoS29qQXFZQzdXS1VzSzBiek1NMG0yeVdxa1A3UXlrZXE?oc=5	未分類
 2026-08-07	【網絡攻擊】黑客冒充IT支援套取員工密碼 鎖定黑石、KKR等華爾街巨企	https://inews.hket.com/article/4172646/%E3%80%90%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E3%80%91%E9%BB%91%E5%AE%A2%E5%86%92%E5%85%85IT%E6%94%AF%E6%8F%B4%E5%A5%97%E5%8F%96%E5%93%A1%E5%B7%A5%E5%AF%86%E7%A2%BC%E3%80%80%E9%8E%96%E5%AE%9A%E9%BB%91%E7%9F%B3%E3%80%81KKR%E7%AD%89%E8%8F%AF%E7%88%BE%E8%A1%97%E5%B7%A8%E4%BC%81	駭客網攻
 2026-08-07	OpenAI示警新模型恐具關鍵資安能力 收緊研發管控	https://www.worldjournal.com/wj/amp/story/122160/9678803?from=wjamp-hotnews_ch8877artbottom	其他資安
 2026-08-07	OpenAI 暫緩下一代AI 模型Astra 網絡攻擊能力過於危險	https://hk.news.yahoo.com/openai-暫緩下-代-ai-模型-214122275.html	駭客網攻
@@ -444,6 +472,8 @@ var DATA_TECH = `
 2026-08-06	吳申梅13年資產遭駭客鳩佔鵲巢 發律師函給Meta急報案	https://tw.news.yahoo.com/吳申梅13年資產遭駭客鳩佔鵲巢-發律師函給meta急報案-012510808.html	駭客網攻
 2026-08-06	全球逾13國使用能全面監控受害者的中國LightSpy軟件，美國網安公司警示：監控漸成一種商品	https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20260806-%E5%85%A8%E7%90%83%E9%80%BE13%E5%9C%8B%E4%BD%BF%E7%94%A8%E8%83%BD%E5%85%A8%E9%9D%A2%E7%9B%A3%E6%8E%A7%E7%9A%84%E4%B8%AD%E5%9C%8Blightspy%E8%BB%9F%E4%BB%B6%EF%BC%8C%E7%BE%8E%E5%9C%8B%E7%B6%B2%E5%AE%89%E5%85%AC%E5%8F%B8%E8%AD%A6%E7%A4%BA-%E7%9B%A3%E6%8E%A7%E6%BC%B8%E6%88%90%E4%B8%80%E7%A8%AE%E5%95%86%E5%93%81	全面監控
 2026-08-05	駭客瞄準華爾街大型對沖基金和私募公司淪為網絡攻擊目標	https://hk.finance.yahoo.com/news/駭客瞄準華爾街-大型對沖基金和私募公司淪為網絡攻擊目標-174009336.html	駭客網攻
+2026-08-05	腦機接口技術借AI實現腦活動轉文字	https://news.google.com/rss/articles/CBMikAFBVV95cUxNRV9iV3R1SmY2dEZza08zODVlOVdSVzQtWmNWRlhac0s1TnRHX21weHFzQ0hTMjY2WnJKdi13dDlxbmQxOHRabGYzbUYweWx2MW1VdXJ4SEJhYmwxdEItWFpHeGJZQ0hIU1JCOU9HOUZsVGN0d3FaWG1BSjFibDB0MzVMMTBYVW5henN3ZFFCWHc?oc=5	未分類
+2026-08-04	（有片）腦機接口能否改寫人生？記者實拍3位高位截癱受試者生活- 兩岸	https://news.google.com/rss/articles/CBMiekFVX3lxTE1zNkllM2JiVUlWZVdoWDhmeFE1a1kzMGwwbkhYbVVBUFprN0R3V0xncl9BT2M0TXozZkowazZqMUpFbk5JV2hRVWswM0FudnRzaV9pOVZxM1JHWG1mM29YbHk0WUtIOHpEaVN2Q09wWU1lLTdYSjEtdnl3?oc=5	未分類
 2026-08-04	美國水系統網路攻擊顯著升級 駭客鎖定工業控制系統	https://www.marketersgo.com/uncategorized/202608/美國水系統網路攻擊顯著升級-駭客鎖定工業控制系/	駭客網攻
 2026-08-04	俄羅斯黑客策劃大規模網路攻擊微軟揭露以酒店機場Wi-Fi ...	https://www.am730.com.hk/科技/1045448/俄羅斯黑客策劃大規模網路攻擊-微軟揭露以酒店機場wi-fi引用家輸入個人資料	駭客網攻
 2026-08-04	Boltz 暫停比特幣兌換服務：AI 駭客探測漏洞速度已超過人類開發	https://www.blocktempo.com/boltz-pauses-bitcoin-swap-service-ai-hacking-probe-speed-faster-than-developers/	駭客網攻
@@ -472,6 +502,7 @@ var DATA_TECH = `
 2026-07-29	OpenAI Agent失控亂發網攻入侵初創科企客戶	https://www.wenweipo.com/a/202607/29/AP6a69dfaae4b0c1e50022c2b0.html	駭客網攻
 2026-07-29	OpenAI AI Agent 駭客事件擴大！Modal Labs 客戶遭入侵，OpenAI 證實總共入侵 4 帳號	https://www.inside.com.tw/article/41956-openai-rogue-agent-hack-modal-labs-customer	駭客網攻
 2026-07-29	AI 又失控了！OpenAI 再爆「扮演駭客」事件	https://udn.com/news/amp/story/6811/9659319	駭客網攻
+2026-07-28	聞風至 - 腦動極光具腦機接口概念 | 鮮股落鑊	https://news.google.com/rss/articles/CBMisAJBVV95cUxPbnUwbkprbk5MeWVKY0J4Y2JlQ3R0cmIyeXlEbkhsUFE3Q3FIWlgxMkw4dXZkTkhPanpSS0VPLV9hSjIzSFJaVWdiWTlPZDE3aVFCYUoybFBZcTNLeEpvSDJPNjFXZV9QbTlzMW01NnhDdXRremo2M21YSDZvOW9iTjV2RHhjci1tU2ZoU2ZnMHNnVlpwNXBtVU9lVDlnWk5lQi1WOGNPY3ljaFp1U1BEWHlDUHl2RERNUHhaTTk1N0dfMTZuU1BnemgyYnlhYTJhVXd4Y09SMkxNQW0yWXR1cHFHZ1ZBV09YUUp0NEVFOTVKZVF5Mk5LTEllS1ZUOENrSG1wQVBjWTRvUDVXbmlDNWlRVTA2YkhIR3VUNzhWQ0pyUXoyU2NTWUtkbC1MUS1Y?oc=5	未分類
 2026-07-28	失控AI又出事 OpenAI代理再度爆發自動駭客入侵事件	https://www.worldjournal.com/wj/amp/story/122160/9657317	駭客網攻
 2026-07-28	六福證券網絡保安監控措施未能抵禦網絡攻擊 遭證監會譴責及罰款210萬元	https://hk.finance.yahoo.com/news/%E5%85%AD%E7%A6%8F%E8%AD%89%E5%88%B8%E7%B6%B2%E7%B5%A1%E4%BF%9D%E5%AE%89%E7%9B%A3%E6%8E%A7%E6%8E%AA%E6%96%BD%E6%9C%AA%E8%83%BD%E6%8A%B5%E7%A6%A6%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E9%81%AD%E8%AD%89%E7%9B%A3%E6%9C%83%E8%AD%B4%E8%B2%AC%E5%8F%8A%E7%BD%B0%E6%AC%BE210%E8%90%AC%E5%85%83-093557170.html	駭客網攻
 2026-07-28	上銀義大利子公司資訊系統遭駭客攻擊 對營運無重大影響	https://es.tradingview.com/news/cnyes:0bb65b81bacdf:0/	駭客網攻
@@ -487,17 +518,22 @@ var DATA_TECH = `
 2026-07-27	AI攻擊｜黑客AI「作弊」加速入侵數週攻擊流程縮短至數	https://inews.hket.com/article/4167002/	駭客網攻
 2026-07-27	AI助長勒索軟體攻擊！去年財損3232萬美元 4大自保重點一次看	https://news.pchome.com.tw/science/technice/20260727/index-78513497665235338005.html	未分類
 2026-07-26	美眾院推演中共AI網攻評估關鍵基礎設施韌性本週，美國 ...	https://x.com/dajiyuan/status/2081356362458522065	未分類
+2026-07-26	第四屆中國腦機接口大賽聚焦「技術硬核+人文溫度」	https://news.google.com/rss/articles/CBMid0FVX3lxTE8zalpwQU9jOGJaam1VeGhHMnljX2ZhVmtUVkNLeXRmSmNHVnNIYlpSMW4wdTFmUzF2Ymd5VmJhOWhvY05haDM2a1hNYUFIUWFoN1djNlM2Z2h6dnZiMkMwM2NIUUlaWVp4Sm5ZM2lfSktUbXNsRHFB?oc=5	未分類
 2026-07-26	獨家／資安風暴襲台！90家企業遭駭客點名 新聞媒體也受害	https://tw.stock.yahoo.com/news/獨家-資安風暴襲台-90家企業遭駭客點名-媒體也列受害名單-033116969.html	駭客網攻
 2026-07-26	獨家／96家企業名單曝光！駭客開始「賣門票」 資安署應變措施出爐	https://tw.stock.yahoo.com/news/獨家-96家企業名單曝光-駭客開始-賣門票-資安署應變措施出爐-134325373.html	駭客網攻
 2026-07-25	在Steam放木馬偷人錢包的駭客，敗在太愛吃外送| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/fbi-uber-eats-orders-monero-seed-phrase-steam-malware-funder/	駭客網攻
 2026-07-25	OpenAI代理「失控」變黑客美擬立法授權「強制關閉」	https://www.stheadline.com/realtime-world/3597374/OpenAI代理失控變黑客-美擬立法授權強制關閉	駭客網攻
 2026-07-25	AI代理失控發動網攻路透：OpenAI逾一週後才察覺	https://tw.news.yahoo.com/ai代理失控發動網攻-路透：openai逾一週後才察覺-043841408.html	未分類
 2026-07-25	AI代理失控「駭入其他公司」 路透：OpenAI逾1週才發現	https://www.ettoday.net/news/20260725/3207550.htm	未分類
+2026-07-24	腦機接口技術新突破 肌萎患者以「心聲」說話 用久違了的原聲對妻說「我愛你」	https://news.google.com/rss/articles/CBMi7gJBVV95cUxNcHpVdXFERGFNTWZrMnRuZmVOZzM1QTBYZjN3NEtaN2FfWDdOdnhrWV9jR25WeUNEYWdwcGl4VEdiSXFqZ09ITWZVT25Vamxvb3N4clVuRzFGTm5ueXZscUUyZ2s5UDllTXhJZDhxQTBXcmUwSk5VaGJ6OW9JTDZlZGIzRG9oa0Y3WWlfUzdxX2ZCTVF1aHdYQ2JIVVR5WGJmdmVGNUVZZUZaQVBlY1JJVDk0OUpEeEgwcjhMU293Y0RwVk1FLUtNWS10c19LQzlIeUhNZDRaVDVHdXhmLVZSYksxVENJUVIyVmxNZDJYSkNWSURiN2t2SC12aDFiSjllc1MxUC1hOFIyZTZVMW1teE01TnI1UjltN3Y4OWtxQWNaWE5LNXdhV0Ytc3Q5WllSUm9HZ0VOa3FLWm5jRThISnduWnlTSlgwY2djdmpkTVpSUHlzZ0o3QVhZblVuT1hNRWRpRVRZTWRFX2swR2c?oc=5	未分類
 2026-07-24	美企遭駭仰賴中國AI 凸顯美國模型安全限制問題	https://more-news.tw/675720/	未分類
 2026-07-24	極具未來色彩的駭客攻擊：OpenAI失控模型入侵事件始末	https://cn.wsj.com/articles/極具未來色彩的駭客攻擊-openai失控模型入侵事件始末-3968695f	駭客網攻
+2026-07-24	全球首次｜中國腦機接口突破 實現跨地域上千人同步採集腦電信號	https://news.google.com/rss/articles/CBMibEFVX3lxTE5OOGExVzFDSjF0V0FDV0Q2NE5ackhXeFJrOFV4eHUyY0x0T3g4UFJnWUN2Z1I0VFBuQUFHTmpya0NramlWbFJnb1VwQVRPN0M4RWFxZ0tGN0RZaUYxWDhZZHpuQzhEYTRvR1dsUw?oc=5	未分類
 2026-07-24	企業採用AI太快網安風險急增駭客針對AI流程成最新攻擊面	https://paper.hket.com/article/4165629/企業採用AI太快 網安風險急增	駭客網攻
+2026-07-24	中國腦機接口突破：首次實現跨地域上千人同步腦電信號採集	https://news.google.com/rss/articles/CBMib0FVX3lxTE5lajVXZDJKZU1OaElJOWVmVmVwWnI3TFBNWmg0NmFkZmVtNDF1ZElTaUxMVjdKUkxUUlJXNGRYMENmR2ZTVVdtM0N3NmNxRGwxVGRKSnRWdEJsQ2hCN1lFOWJ5bzZzdzlHdTN6b0IxTQ?oc=5	未分類
 2026-07-24	AI客服｜Uber引進AI 裁減10%客服人員	https://inews.hket.com/article/4166089/AI客服｜Uber引進AI 裁減10-客服人員?mtc=80030	未分類
 2026-07-24	AI助長網路攻擊速度與精準度日本企業面臨嚴峻資安考驗	https://tw.news.yahoo.com/ai助長網路攻擊速度與精準度-日本企業面臨嚴峻資安考驗-062434510.html	駭客網攻
+2026-07-23	迷你家用腦機接口上市 單通道主打睡眠監察 - 20260723 - 港聞	https://news.google.com/rss/articles/CBMi9AJBVV95cUxOc1oxdTRWcFZoVWxPbmlFczhrLVRyMDB1ZnJRZ3NvSmFHZ0pHVWJQdWthRktJUEUtT0sxWFEwUW9QTjBwSWRLU0tORTBZdXNnM3VKT3pyUzVoTVc4SkRiaHpKWHNwSXdCTzBZakZoSC1zcFpFTWpFY1N6RWRyX3o4X1JJclFfcGJtcFJ5a1RUbGF0Sm5NNTR5NGdKV1NqMlFpRkZza0ZYOVhCTjZ5aU5TMHZBNnJvbXRGdHlLVnRMZDBHNlM1UXktQzJhTnQ1NjNVQlpOa1cyYk5RR2xvU19RNmxVdG1iWW1UVFA3YkJYcDlLVDdDVl8xcVVjZnAwR2lPcE5jY19tN1BBVVliUjBlNDNkVU00NVI4Z19nd1RDc1dMYlcwdGhBMWRrX3pIR3FXNjdnRVpQdWJSNGNqOTRsV2ZXWUZYcHo3elZhbGdjNm80RUl1Z0tacVVxaXZ4cmhQT3pFT0NWdU1TUlQ3UVBTcFRpSnI?oc=5	未分類
 2026-07-23	全面失控 AI自主駭進AI	https://reader.turnnewsapp.com/ct/20260723/B01AA1/Q1RfMjAyNjA3MjNfQTFfMg2/share	未分類
 2026-07-23	一場沒有駭客的攻擊：AI 為了「作弊」駭進 Hugging Face	https://www.panewslab.com/zh-hant/articles/019f8e47-c66c-7653-ae65-beb9195d4381	駭客網攻
 2026-07-23	OpenAI測試新模型期間自主發動網絡攻擊 遭制裁中國開源模型意外成為救場關鍵	https://www.litenews.hk/news/17993-openai%E6%B8%AC%E8%A9%A6%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%9F%E9%96%93%E8%87%AA%E4%B8%BB%E7%99%BC%E5%8B%95%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E9%81%AD%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9C%8B%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%84%8F%E5%A4%96%E6%88%90%E7%82%BA%E6%95%91%E5%A0%B4%E9%97%9C%E9%8D%B5	駭客網攻
@@ -539,10 +575,14 @@ var DATA_TECH = `
 2026-07-16	香港電訊AI防火牆以AI防禦AI新攻擊讓中小企專注業務發展	https://www.hk01.com/數碼生活/60362652/香港電訊ai防火牆-以ai防禦ai新攻擊-讓中小企專注業務發展	未分類
 2026-07-16	網絡安全｜79%勒索軟件攻擊源於身份盜用 靠身份憑證存取系統	https://inews.hket.com/article/4161950/%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8%EF%BD%9C79-%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E6%94%BB%E6%93%8A%E6%BA%90%E6%96%BC%E8%BA%AB%E4%BB%BD%E7%9B%9C%E7%94%A8%E3%80%80%E9%9D%A0%E8%BA%AB%E4%BB%BD%E6%86%91%E8%AD%89%E5%AD%98%E5%8F%96%E7%B3%BB%E7%B5%B1	駭客網攻
 2026-07-16	日冷凍食品龍頭遭駭 肯德基缺貨被迫提早打烊、藏壽司也受害	https://www.nexttv.com.tw/NextTV/News/Home/WorldNews/2026-07-16/2407597.html	未分類
+2026-07-16	助截癱患者寫字 全球首款植入式腦機接口產品首場手術在中國完成	https://news.google.com/rss/articles/CBMi0wNBVV95cUxNd3pXc0ZucDhsNEtaNmlWRXltY09McE0zTUhsbGxyb3NuMkZIdmNWZ0oyenA3bjc0ckZ2bU9hRGlRLUxnZkg4MlJXZ0prNDF5VngtYjRCUWFpYndHYUlNcExMdmlPeVBiNmFXLXo3X1k4eUtXZkR6X2pSVnRLODBROFNVdjFLVDNOam03ZEhaVlY0YlNLSEdHN2FRdjNyWlNScmVzRW40el9iTUJ6M2hGSzhHWDNkNXY3eU5vYlU2UlJkU0FqVkdDOFU4M2JUdG9iZzNtUHN5MjdEZUR5bFVSVkpGRlVqZUo0SlpLSmFiSFNmRzJ1WmpILTA1UEM1UUlUa1k0dTJweHMzbnhESHdBV0Z0ODdaRnpPMjBZVjJUVDlkYWY3UTB2WnFJcUZVZzhyUE02Tm5lUGhRazliOGt6dnBDQ29seGMtYlF3UDBXeGRCMzJNOXFGelJEblBRMkRRZHVDdi1qZjFlU2YxQ1hCbndERlpqNDk2czB0SXJjWkNrUVBvck9BRkNYbFVvdUFCSGIwREJhbEhxMERVa2ZremRaV1pqSHZoNjhfR1lPdWFMd1BMNGtVcHZiNGVQTnFiMmhjQ3BkQmpQbFdQbjZPNGtuMA?oc=5	未分類
+2026-07-15	首宗植入式腦機接口手術 順利完成正式走上臨牀	https://news.google.com/rss/articles/CBMi2wJBVV95cUxQVGlCQmJ3cHdpNmx1ZUk1UlFDUURLQXZYZEo5cWd2Sld1dHNPMUl3ajdac2VHM1pLaWpjS0ZNS1E2STFiUUpzSk9lMjVqRDY2WXpLamZGbjFRVFpwQ1BubmVFaUNvcWI5c1ZKWm04TjRfVWtvODVlVmNlZnVOSGp5RTdKNzI0N0VablVoT2YwUjlfUXhGTzE0TWl3ajZHSWdSNXhydFpaa1ZoSzJSeHpnbmFsWDNCaHBrNjJYS3h1VTU3VmN3cmJfRUtrZDMxSEd3XzBXbFp5cndWeDFVUFFtWWZoejZsWkR1RFlGUWpKdFFaeVZyN2cwaEREc0hZZ3k2alFBOXVjc2dpc1UtM2lGNS1VdklpeXpoSTZvV21xaHV2Njc1Yk9Cb056ajRwME1KOURMY2x2ODY3VG5IR0VTVjRqTk9iNF9FaEE3TkwzSDdQSWhoQ3dEZ094RdIBigFBVV95cUxOTjE1MnphVjhmX0NvX0hpamd5SXZNYTg5VGpqd2N2aWg4NlF0eE5WcWNXUVVOZVZaV1dpQlZyYkxpOXlqb2xxd1c2ZEdIYTgxUUtzRUhlMTJoc0t4ZmlEbVphY0d3d2o2eWZYaExORzBBYUJOMWZfX0R2dTFtYVBhbXlDbkFZdEx5Q3c?oc=5	未分類
+2026-07-15	腦機接口應用加速推廣投資迎來爆發式增長- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTFBWVEJURnpqeWRXUTRqY0ZzVm5wSkJEdjktYjRFZlFKN2VacVh3aDgzaXhKZl9pZ1k1Ui1ibXhxRGZ6ZUkxaU5xUDBEc0c1VkwtVFlBV1pFMjRnVkxvcXdwT2h1dDI5S1ROLTNFOGFrazFKVmtSeEZn?oc=5	未分類
 2026-07-15	日冷集團遭駭客攻擊、系統故障 逾5千企業冷凍食品物流受影響	https://news.pts.org.tw/article/817827	駭客網攻
 2026-07-15	快訊》Arbitrum 上 RWA 永續合約平台 Ostium 遭駭 1800 萬美元！預言機私鑰外洩釀禍	https://www.blocktempo.com/arbitrum-rwa-ostium-hacked-18m-oracle-key-leak/	資料外洩
 2026-07-15	印度最大核電廠機密文件遭駭客外洩 專家指構成嚴重威脅	https://tw.news.yahoo.com/印度最大核電廠機密文件遭駭客外洩-專家指構成嚴重威脅-135757447.html	駭客網攻
 2026-07-15	南韓金融委批准漢江計畫 2 期：CBDC 沙盒 9 銀行 50 萬帳戶	https://abmedia.io/korea-fsc-hangang-cbdc-phase-2-approval-9-banks	CBDC數字貨幣
+2026-07-15	全球首例 上海完成植入式腦機接口上市後第一次手術	https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUkI0ZUhzUVcyOUdiYkd5Tmo4bG1FdVM4TXNUSUNSRkQ2R3JsdXpmYjJYc2lKZWZBaXZmelZ1d253T3k0Tm1TOG0xbXAyVGR10gFWQVVfeXFMT0FPa1I3RnJoZXBSSnViZDM4ZUphaElxRExLMFIxWExzYzF4T21QWXJveDlsOVRYNnF5NmlRd19VaFc2Yzh6NVNxRXdsX011dkFCejBHQkE?oc=5	未分類
 2026-07-15	【AI+Meta】AI成裁員「劊子手」？ Meta遭26員工入稟控告 被指演算法針對病假育嬰假員工	https://inews.hket.com/article/4161224/【AI-Meta】AI成裁員「劊子手」？ Meta遭26員工入稟控告 被指演算法針對病假育嬰假員工	未分類
 2026-07-14	「去美元化」的四條裂縫：伊朗油款繞開SWIFT、歐尼爾轉念、穩定幣悖論，還有分裂的CBDC賽局	https://www.thenewslens.com/article/269139	CBDC數字貨幣
 2026-07-14	AI武器化逼近金融心臟：加拿大監管急敲警鐘，全球銀行資安風險失控邊緣	https://cmnews.com.tw/article/cmoneyairesearcher-56124aae-7f49-11f1-a36a-1fcc7dfc38a2?utm_source=forum_article&utm_medium=article_link	其他資安
@@ -562,11 +602,14 @@ var DATA_TECH = `
 2026-07-07	惡意軟體框架Avalon以AI打造而成，結合竊資軟體與勒索軟體能力	https://www.ithome.com.tw/news/177146	未分類
 2026-07-07	守護捐款善意！伊甸基金會導入中華電信「曝險評級服務-風險之眼」，化被動為主動建構資安護城河	https://www.cht.com.tw/home/enterprise/news/success-case/2026/20260707_1	其他資安
 2026-07-07	AI成駭客最強武器！歐洲央行下令百家銀行限期提交防禦計畫	https://m.4gtv.tv/article/2026070708000018	駭客網攻
+2026-07-07	AI取代人力會失業？劉揚偉：人類不用工作5天 可享受生活	https://news.google.com/rss/articles/CBMiTkFVX3lxTE5obGp5S3ZGb3FNRG9iR3dWaHpudmpvQnlsRWpCd2FwcXo4VnhndHhpNVFCLUlBbmh1N0kwWlFFdlc2dnBFUWtCWTVic2xqQQ?oc=5	AI取代工作
 2026-07-06	非因被AI取代 微軟裁員4800人重整Xbox 坦承遇一嚴峻危機	https://www.worldjournal.com/wj/amp/story/121208/9611442	AI取代工作
 2026-07-06	微軟再裁 4,800 人！Xbox 啟動大重置拋售 4 家工作室，HR 長澄清：這不怪 AI	https://www.blocktempo.com/microsoft-lays-off-4800-employees-xbox-reset-ai-impact-2026/	大重置
 2026-07-06	國安局示警： 國人赴中恐遭全面監控	http://beijingspring.com/bj2/2010/c8/mmdjhaovv/xw/lagx/20260706162237.htm	全面監控
 2026-07-05	裁員省成本反而踩雷？AI取代人類夢碎 企業紛紛把員工請回來	https://www.nownews.com/news/6853505	AI取代工作
+2026-07-04	首款神經動力學芯片問世有助於腦機接口等技術發展- 科技	https://news.google.com/rss/articles/CBMid0FVX3lxTE5jR1V6aFVNSnI5OHdTMS1qeGhSNjU3bEU1bGI1c1RlZnFzTGdvVUZTTjlIVmpsWnc2RUZKbHpBOExOU3N1REdaN29yeXJTZlRsVjVVd0pZckw4Q3NhaXk0ZUdDR2pxQnJRYmlUakNQWnJyVVR5TFI4?oc=5	未分類
 2026-07-04	蘋果iPhone 18遭駭客提前曝光！印度代工廠機密外流，高通、台積電都遭殃	https://tw.news.yahoo.com/蘋果iphone-18遭駭客提前曝光-印度代工廠機密外流-高通-台積電都遭殃-054500075.html	駭客網攻
+2026-07-04	無創接入，腦機接口迎來更多可能（院士講科普·未來產業）	https://news.google.com/rss/articles/CBMicEFVX3lxTE1JdTkwcmJpRkFHQW51emVsa3JDa1l1VlV5TjdxTzFERUZqTXA2ZXdqRm15cEs5RU9WSHNpcUREd21hS0NDS0lPb1ZWekNpeFNfbkpwN2diaE1MYWV1TXRhNVB3bXNnNC1JTUVWeGl1SjM?oc=5	未分類
 2026-07-04	世界盃適逢 250 週年國慶 美國全面監控被指「易請難送」	https://unwire.hk/2026/07/04/us-world-cup-surveillance-upgrade-security/life-tech/	全面監控
 2026-07-03	韓國重罰酷澎個資外洩案企業資安與法遵要求全面升級	https://sunmedia.tw/news/finance/1783034265-韓國重罰酷澎個資外洩案企業資安與法遵要求全面升級	資料外洩
 2026-07-03	白宮股神｜特朗普被批「以權謀私」 加關稅前單日買賣600宗 數字貨幣獲14億美元收入	https://hk.finance.yahoo.com/news/%E7%99%BD%E5%AE%AE%E8%82%A1%E7%A5%9E-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%89%B9-%E4%BB%A5%E6%AC%8A%E8%AC%80%E7%A7%81-%E5%8A%A0%E9%97%9C%E7%A8%85%E5%89%8D%E5%96%AE%E6%97%A5%E8%B2%B7%E8%B3%A3600%E5%AE%97-%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3%E7%8D%B214%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E5%85%A5-050107318.html	CBDC數字貨幣
@@ -611,6 +654,7 @@ var DATA_TECH = `
 2026-06-23	五眼聯盟：AI將加速駭客攻擊 須加強網絡防禦	https://www.epochtimes.com/b5/26/6/23/n14794653.htm/amp	駭客網攻
 2026-06-23	SK海力士市值反超比特幣，HBM成AI時代稀缺資產。13年押注終獲回報，Crypto AI敘事面臨現實拷問。	https://www.panewslab.com/zh-hant/articles/019eef39-8882-7003-a2b8-a6299ad2c80d	未分類
 2026-06-23	SK海力士市值反超比特币，HBM成AI时代稀缺资产。13年押注终获回报，Crypto AI叙事面临现实拷问。	https://www.panewslab.com/zh/articles/019eef39-8882-7003-a2b8-a6299ad2c80d	未分類
+2026-06-23	2026 AI腦機接口全球挑戰賽正式啟動 全鏈條賦能構築腦科學產業「強磁場」	https://news.google.com/rss/articles/CBMidkFVX3lxTE00b2EwcWg5Q0ozYU12Tk5KcTVISTd1YW9xbmIzYTVPQlRDRDdHeG9MQjlfVjFFWFZRTHlVclVCaHVseFFReUNFQnJ5emF0ajVnX0gzTE9Lb0RzN21WSzYzZ05RR013RU9xMlFHZEZweDBZM2t6VVE?oc=5	未分類
 2026-06-22	報應來了？以太坊最大「三明治攻擊」機器人被設局，駭客反殺洗劫 750 萬美元	https://blockcast.it/2026/06/22/ethereums-biggest-sandwich-bot-jaredfromsubway-eth-drained-of-7-5-million-in-ironic-exploit/	駭客網攻
 2026-06-20	下班國際線》把晶片植入大腦！專家解析馬斯克Neuralink瘋狂計畫：「這1年」腦機介面將改變人類？ | 林庭瑤 | 新聞	https://www.storm.mg/article/11143023	未分類
 2026-06-20	Axelar Network 遭黑客攻擊，約467 萬美元代幣被盜	https://www.chaincatcher.com/zh-tw/article/2272484	駭客網攻
@@ -619,26 +663,47 @@ var DATA_TECH = `
 2026-06-17	軟銀推出AI安全新品，攜手OpenAI防禦未知網絡威脅| NAI 500	https://nai500.com/zh-hant/blog/2026/06/軟銀推出ai安全新品攜手-openai-防禦未知網絡威脅/	未分類
 2026-06-17	美國參議院禁止央行數位貨幣至2030年，使USDT和USDC享有四年優勢	https://www.kucoin.com/zh-hant/news/flash/u-s-senate-bans-cbdc-until-2030-giving-usdt-and-usdc-four-year-advantage	CBDC數字貨幣
 2026-06-17	才傳遭駭客勒索6,300萬！任天堂商城突緊急維護 官方未說明原因	https://tw.news.yahoo.com/才傳遭駭客勒索6-300萬-任天堂商城突緊急維護-官方未說明原因-111815373.html	駭客網攻
+2026-06-17	全球腦機接口×醫保創新場景大賽落地杭州讓前沿科技普惠大眾- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTFA3WXRhTHREeHJRdWJiR2VPaEI5am1zWE1UbWNHZmRTdXBNQU9lTm5rSXdEeW96TkhJSEVVbm1UT0dNQXdpbTItYThqekpKdDJqQjZ6Q01WRkJyYl9wRnBnbGY0SERTYS1HV3lndDBmR2lxemcwQ3l3?oc=5	未分類
+2026-06-17	全球AI腦機接口頂級賽事在深圳光明啟動	https://news.google.com/rss/articles/CBMicEFVX3lxTE5wbnVObjFIc01rQU9WYjEwUm5WY3hJVV9LLXZzV0JtV05BVjM4ZXl3RVpXNEVJV3NWR0JHVThKSWd4eFk3NVh6dVVUNEdyazQtdFYzN3JONW10aDIyWUpjWG1HY2MzVnRJbUtnaUJRcW8?oc=5	未分類
 2026-06-17	Fortinet防火牆設備遭駭 美台等逾15國政府、財星500企業密碼外洩	https://www.worldjournal.com/wj/story/121488/9574124?from=wj_breaknews_index	資料外洩
+2026-06-17	2026AI腦機接口全球挑戰賽啟動 優腦聚創加速計劃同步展開	https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR0hoM2tRemd2OXJjRGJyRWhEYlctQUZldUFUN1VSME1qNHoxanpZWW5NREtMcHJGdFF4NVFuenRDaENXbVQ3UUJYUE5Tdk5WMkI5TDd5MXFqUnJ4b0JpcFE1ZXZaVWZ4cG1nakhuQmhIeUtEeFE?oc=5	未分類
+2026-06-16	活力中國調研行|在天津，看腦機接口從科幻走向現實--經濟·科技--人民網	https://news.google.com/rss/articles/CBMidEFVX3lxTE5Seml5QktKc2lTelBKdURyakktNDdfSV9VLVVCTTQyWXdoQklZYmFaVzBxUmxjZUxseUY3eXltZmJuSXRHWHZTaEpfb080ZWxmb3FQNXVtQXZMYnVqSXIxcmk0Mjk3Q0NvamdscWs4aG1lZmJw?oc=5	未分類
+2026-06-16	【念力操控】華南首兩例侵入式腦機接口手術在穗完成患者靠「意念」重獲新生- 焦點新聞- 港人講地	https://news.google.com/rss/articles/CBMi8gNBVV95cUxQV0NaYVRSeTRFWFNsWTFON2dLZFJWYWRHY0MxWEs5bU95VTB0RVdmYXBQeWtTM0JRX2puWEtEaEQ0VngyS1plVl9SOFhQRldabXJ4bHpEYUh1cWE3Zm0xbEFGNVlyRzRsaktXeGY1UG1UQXdjcExmQklla05DMDBzdU1uNDFYa0EwdGE1bldvNGVtRTZDY00tYlJQOXJGYWtXN2R5N3VDTVNwanhGUXNrekNZNVhwdjVCYnQ3OGd0WFVvUDRJYzhWN2JlOHFOU29fLWRmUUFHRUcxUWpLOThRSUVKRFM0WGd5Um40OWYzX3dET2xwYnRKdEp3NGZMel9qRHVFNnZSVGlzaDFCWmxSWTNqZDdPcVRiXzhlbklTZUlfd3dEY00xdFExWjBWTzNQVGxXaXkyOHZjU3VRQy1aLXdIQlM5QUJ2UVpXekpYOG1McmN1NERwaThfNXQyakNEN1pYU1lfcHdRMVZpbVdhT0lxLXY5RVVRQ3FIRTJqQ2s0Q1NDVm5TR3NDODgzaXFMRENfLTloX2FoUzQ0WjZ6eFlxbHZlUHdzNGg1cHcxeU1jUTN0eW84Q3RjRFRWMHdHS29LcjhtV250aUMyVXJkdW5WZzk2TXY3Z09WM1dMZHJOMU5QQzJZQ3F3T19TbmpEbFE?oc=5	未分類
 2026-06-12	從失業5%到25%！AI取代工作風險升高 Anthropic提出應對藍圖	https://www.technice.com.tw/issues/ai/225965/	AI取代工作
 2026-06-11	為何 AI 沒讓軟體工程師大規模失業？最新研究：人類在判斷與問責上無可取代| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/why-ai-has-not-replaced-software-engineers-report/	AI取代工作
 2026-06-10	特定工廠AI永續講座6月18日登場 聚焦AI、城市與國家發展	https://money.udn.com/money/story/5612/9558900?from=edn_newestlist_rank	未分類
+2026-06-10	數說科技：全球第一個腦機接口醫療器械在中國上市並進入醫保	https://news.google.com/rss/articles/CBMihgFBVV95cUxPSHNuUzk2a0hSWVBVVUdhUnRoZ2x5eS1FdXViQUpBeHZ2SXlxNHpCYTByd2t6Um5zU3h4YUlDZnQyM0tjc1czV21fYWRGYXBqNm5mcDJLYnpmcmQwQmFOSDhSeEZpZmFIUjZtQ29qX3A2ZTZTb2N3M1d1S19fSW9VQTFyWlNBUQ?oc=5	未分類
+2026-06-07	自主行走腦機接口重建失明者視覺湖南醫院臨床試驗獲突破助識別光點及物體輪廓- 中國	https://news.google.com/rss/articles/CBMidEFVX3lxTE8teWpHc1BKUUtiZVp5TjlianJDSG1mNEV3OGRLMEZ1NjRRc2hpZUdxYVdWR1dFMnl2VGhzNmlrVWJLcHdnaV9kbS0wYkwzbmRIM19QckZrS3dvMjlhVHYzazRxZGN1LW5XWFF3UE94OC1SYkNo?oc=5	未分類
+2026-06-07	腦機接口突破 盲人前路復明 全國首臨牀試驗成功 數年內可望註冊審評 - 20260607 - 中國	https://news.google.com/rss/articles/CBMi-wNBVV95cUxOWmtoVTVjcVRlZUVWZ21wTmxkYUVBSGdxTVpVMUFfcmRQZ0ZIVmhzM3J1WmxLeERUN0s1NlRpcUJhNTE5RDdQTWttblBZUGJaa19PTkh0UW5QRlE3T0VDQjFWR0F6aTNUVWdubXVuMHBmM1NJYnpXLUtsWDViTDhOd1psTTBFY0pUaXNfYlJwUDNsYWpBUnJjWFpMb0luaEtKd1BLU2w2Q25sX0puZUIzaURIS3cySXc0WWZXTWF0NTF4OWRHSVkyMXBxYzY1OXBMQ0tSbWdBZzNIU29HLWk4Y1BjVTdlN1M0MkRqYUc1SlhvQTNFbERLSFVtb2JhMU9QTnJ0RGVSYld3ZGpfTXVvSlVtMG9UbFRBcW5hNWNaM1FibXBmZWcxR3BZdnNyTVFNM2ZOY25zZUpDNWpoS0pwYXY4dUJRaXI5YXU2TEd1TEhLSjd3bnJ2VTY2RDRtZ3NKckJCY3N0UGp3d1NPOUV5dE5xUW5oSTAtbjdNeFU4Nk01VnRQN0V4RWNHWlhtQ19WN0d0SDZWZHpramZXcEpHUmN0NG1neDBrcGZGVUMyT0JlSHVFcUZ5akYwZjN2eVQ2MmF2c3FycXNNek1QZFo3OWRoRVVQMkNWTW9zSVByS0EzYUdKYm1aT0huYW9pLUlZRnoxRXJwV3pyZXc?oc=5	未分類
+2026-06-07	癱瘓失語有得醫腦機接口助患者重生- 要聞	https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSHpHcTJORE56dlIzc0ZSdXVFaFQ5RVFveFNITnJiWktKdDY0b19ybUVwQzNQYlNFakFhb2RfeWNqbEhlMElOemdicDRyb0xsNjNELUVFeHJOSUxJMDNBQVFxODNpdXVoNTY2dll5TlFIcXhTYjdn?oc=5	未分類
+2026-06-07	國內首例 侵入式腦機接口為盲人復明	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSm5PZ25QajIyME1KeUpoN2dTN1RXTEE5bUZXNzY0Tkg1Y2xpQjNoQjRZR0NaWFJGU0Mxa0lmZEFzdVhFZkJ4bU9sUC1rZHRydkgxUWREdG5Ta1ZweUtINXRlY1VQQk5CRlk0ejJGSnJDZzBMUDdCaGg4dE9ka0piV3M0RkRaeHBMVzZR?oc=5	未分類
+2026-06-07	內地首宗侵入式腦機接口復明個案 湘雅醫院助盲婦重見光明	https://news.google.com/rss/articles/CBMijANBVV95cUxOLV9xRS1FOVlCWnFCTFRwbms2TDh4X0toSjZrNzlVcHJDc3Y3TGdScmpadWdhQ0VzWmdXQXJROTVwTF9CdUdaelRZYUlndVpJNDhzUUhkdGl0eU85cks2OU50ZlVMaHV2WTQtb2ZTRUtXZDRpT0RGZDNsdm9PdWVBRE40V0ZhTHJISHNJdFNPRV83MW5kVlg2bWU1NzQwRnBGVVJORjJBa1o3RDB6c3d4bFQ3RXpmWU9YdEZFWnFhYmNtbGNSSXB3N0dBTjIwQjNqMng0OEk3OUpVSnZiMThfcnJvWnpZZFhoSkNuaThpalJQc29makRmS0pKMHI5TDI0UWpFNjFDZGNNdTBDa2J6Z254S0MxR1p5anhrcW1qbnhNSkowZHRqTnByMHhucWVzbHMxaURHeThvYnpfXzNwYmlUM3J3ekNmZVJVRXR4eGVaNzFUcXU0Rm8wZGM5TWkzYXJjTEtQS24weVdPeExJbWhfd25HZy1hU0lYZ1d6TkI4RmdjcVpUb2JiNm4?oc=5	未分類
+2026-06-05	首都專線｜北京中關村拓生命科學版圖 研腦機接口擬與港校合作	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XeHJTNzExTmZsb29VbGgzZnpONC1ZbENUaTlnemVXbFpLTmVTYXVnTXZxZ25OVVU5dmlwTWNSVTdENnQzZWZpNGZCdExtNHRGdVFiTGxIWVNQdGxiUDNCSzhn?oc=5	未分類
+2026-06-04	腦機接口電刺激脊髓 癱瘓5年男重新行走	https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWjhieXQ0eUlPZGdxU1ZJel9FWnF1bWNOVk80TFJCeTRRQ1NsenBtMG9lSWNrZEc5SFJkTGlrX05UbGNIUTdfRHZUR1I5MlVIRXdCb3ZicDB0R3VWOHJkN1puc3ZUSnZoOHhsdnUwUDNRREpMNnJneFdLMG54LVpXYVZjb0lobGEwUFV5bXhzdGdDUnFNdTBJdTFUamdybUFPRS0xZE5BQ0VtQ1VIVnlsUFFHVmpxR2QyWEtyenU1Q2FsYTU2YU5MY3BScklqOF9aUW9xeXpxSWFpWS1CYzZrTE1taHotZEZHUHhNRVlIN1Bjdi1QSkxFZTFaN1VFN01BdzdiV1piNXc0SXhUcTY5WEIwNE0tUk41aWYwdmlTMmU3NFNLaWl2QTFJcTF6WkRnQWp3NmdtcEtlY1Y0dlBmckt2bTBOWFgteFNjblp0aTVPdWtTLTU1Si1PVDU3aExGU2xRY21rX2hUVFFudFBhMGZiMA?oc=5	未分類
 2026-06-04	怕被AI搶走飯碗嗎？黃仁勳4觀點，揭未來職場生存關鍵：你不會被人工智慧取代，做對這件事才能保持競爭力	https://www.cosmopolitan.com/tw/entertainment/celebrity-gossip/a71489773/jensen-huang-ai-jobs/	AI取代工作
+2026-06-04	全國腦機接口教育聯合體在津簽約成立理大等14所高校共築未來產業人才高地- 內地	https://news.google.com/rss/articles/CBMicEFVX3lxTFBXZjJBYWphekZsMnVsaFBEVFlYQVk4MUd5WlNrZ3Itc3pmU2ZSdXpaQTMyOHdxZTY4U3dLTTA1QlNWNFh6Q3lCdk45Z180M3J5T1kwaXBtZTliNmdBSThNMWxYMlV6bEs2LWhqUVBxLUk?oc=5	未分類
 2026-06-03	虛擬資產專法進立院！穩定幣、USDT、CBDC怎麼管？先思考３大挑戰| 雜誌	https://udn.com/news/story/6842/9542788	CBDC數字貨幣
+2026-06-03	全球首例半侵入式腦機接口植入 患者術後生活如常	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEV3UHUyNXMwNmFqU0cxZlk4djdrWDVISXZXeU16S3VFazZlVkVwVzc5SmFyN1UzbjZXcWVBZGhaOWhQLXhXOTZzRUZGWjVfVDNHaGVpMG95UlF5RXhpWC1WalFKcWNRdUwtQlhDV3JIdTBHeGNRTDhCd3A5eWxzbzdTT1JoVVZrNXR3?oc=5	未分類
 2026-06-02	思科創歷史高營收仍裁四千人 聚焦AI與資安轉型 - 科技新聞 - PChome Online 新聞	https://news.pchome.com.tw/science/sunmedia/20260602/index-78036703377182329005.html	其他資安
 2026-06-02	《GTA5》外掛供應商遭駭6.4萬筆玩家個資外洩 駭客疑報復詐騙者犯案	https://www.4gamers.com.tw/news/detail/79646/grand-theft-auto-v-cheat-service-gets-hacked-exposing-thousands-of-gamers	資料外洩
 2026-06-02	Meta AI客服竟成駭客工具 IG帳號不用破解也能接管	https://tw.news.yahoo.com/meta-ai客服竟成駭客工具-ig帳號不用破解也能接管-055603047.html	駭客網攻
 2026-06-02	Meta AI 支援機器人 助駭客劫持 Instagram 帳號	https://www.newmobilelife.com/2026/06/02/meta-ai-bot-instagram-hack/	駭客網攻
 2026-06-02	IG驚傳集體被駭！Meta AI客服反被駭客利用「1句指令就能入侵」…白宮帳號也中招	https://tw.news.yahoo.com/ig驚傳集體被駭-meta-ai客服反被駭客利用-1句指令就能入侵-白宮帳號也中招-051900267.html	駭客網攻
+2026-06-01	有片丨腦機接口純為醫療！北京腦科學與類腦研究所盼與香港醫院深化合作	https://news.google.com/rss/articles/CBMidkFVX3lxTE1XTXFHSkVobElCd3Q0U3gwUXpLQTlwaU8yRk9TLXlTRWpxMjlObW5LSEVhQThGOHFBMnlLdUllN3VOSUprM3pVaEZWM3lsem1yQWFVWW1kMWJmS1lnYmRMR0M1ZXIwdE1Jb1dQNkllcTdKN0FLa2c?oc=5	未分類
 2026-06-01	打破AI=裁員！AI讓晶片除錯數週變數小時 黃仁勳：反而要招更多IC設計師	https://tw.news.yahoo.com/打破ai-裁員-ai讓晶片除錯數週變數小時-黃仁勳-反而要招更多ic設計師-111200910.html	未分類
+2026-05-29	馬斯克再放大招 腦機接口是「耶穌級」奇蹟？	https://news.google.com/rss/articles/CBMiygJBVV95cUxQRURST0hJTTE5TWNYRkNzWHJfcWdlemlxNzJxaTExOUFCNFlUTGtsVmpWR3JKUVNXY2tyaGtqS2FCaWlWbUptUzVNUFdhdVdVeEU4U1F1ZlA4SzdBZGViUlV6cnBqZ2otUnMyeU5JbExDT3Y2M28yYjR4bHhmUC1JY2ZlM2JoRi02M2pCRWU4NGZfQUhFTklhOVhvelBRU2VoazRMaUozS21QSlF5MmNkdi1EeFBkWjlTeU53R3lhc2VlOUxaSVRsUkFPUktYcktZQnVoNlctNl9HOWFkdkoxd1FodHc1VkhMYzU5OWVHWExucThLUXp2RDgtRnFoMExwRHZ3MTBIS0M4WDh0aWxQUEppMUItTnVzajBvUDdUYmdfT3dockhHLVNHbHEzTU00WFNVUEx1by1WQ1BDN21TZ1FPU2ZsRHZPUUE?oc=5	未分類
 2026-05-28	參議員推法案 禁止中共數字貨幣滲透美國金融系統	https://www.ntdtv.com/b5/2026/05/28/a104100598.html	CBDC數字貨幣
+2026-05-27	腦機接口國產技術 價格僅歐美七分一	https://news.google.com/rss/articles/CBMid0FVX3lxTE1lZDlSdUI1T1l6VHNEeGJJc1g0aFZ4OF9MOTA0U1Y1V29ZQl9OaXVEMEVKb2poS01YVDB3REdpR2hVYXU2enlrUi1kYnJrU1pQRWJQcTR5VkVWbVBZZXVSQnd2SHRkV0NlekpqLWt2OVFBdFN5M21r?oc=5	未分類
 2026-05-27	美參議員再推法案 禁止數字人民幣在美流通	https://www.epochtimes.com/b5/26/5/27/n14775023.htm	CBDC數字貨幣
 2026-05-26	AI取代人類？黃仁勳狠批企業不負責任：把AI和裁員聯繫起來的說法太懶惰	https://wealth.hket.com/article/4134026/AI%E5%8F%96%E4%BB%A3%E4%BA%BA%E9%A1%9E%EF%BC%9F%E9%BB%83%E4%BB%81%E5%8B%B3%E7%8B%A0%E6%89%B9%E4%BC%81%E6%A5%AD%E4%B8%8D%E8%B2%A0%E8%B2%AC%E4%BB%BB%EF%BC%9A%E6%8A%8AAI%E5%92%8C%E8%A3%81%E5%93%A1%E8%81%AF%E7%B9%AB%E8%B5%B7%E4%BE%86%E7%9A%84%E8%AA%AA%E6%B3%95%E5%A4%AA%E6%87%B6%E6%83%B0	AI取代工作
 2026-05-22	Cloudflare大裁員 創辦人曝：我如何決定哪些員工以AI取代	https://www.worldjournal.com/wj/amp/story/121172/9519378	AI取代工作
 2026-05-20	因應AI 攻擊新時代的資安韌性建構策略| 安永台灣	https://www.ey.com/zh_tw/cro-risk/cyber-resilience-in-an-era-of-ai-enabled-offense	其他資安
+2026-05-20	內地啟動首個全植入式腦機接口系統臨床試驗 - i-CABLE	https://news.google.com/rss/articles/CBMimANBVV95cUxQRHk0eVJmR0l5eC1HVVNZeFNBM251LWE1R1NhUjAzLTZqeFNPQkEtU3dWLUk0ajAwQl9VaEE3c3BKS3Bpa2ZTT1BpR0w1c0ZMbzd2dEZPMlpkYV9tTDZIN0xXZWU2bWhEWWdlb1pnVnNPU3dIYWlhY1YwNVBoX0M3cnZwS01HR1hmMWlKcTBwakhyQmQzQ0xDaWRxY0JJR3VONE9BV3gtd0lJeE9WaFE5T1gwUmc3RUlNUndRV2xaT3JkMkRKOUVsRnZKM205MFdVOTF4TGhKYnZ4d1ExcEVSaUlXMF9ZdnVWWnhwUG84endESHNiZjJKQm9Md1RkRjNqWk9IeVZETzhHSVl1akt3QzVGaTlBQjM0cW5rZ0loYTBRdU5WSXZIazByZ2tDU29ieDVrNml0U0ZOVWR1YmdxZ083WENOMEhHRHd3OGVSclV1c1VuSHQtQTlWYWtiemJVekN0bHYxU2lZVFQzbUd2WDlBZDNVcGN5bjh2d3pVRWRqZDIzcWJfbVhqaHpEaHlURUdSTzdwYXQ?oc=5	未分類
+2026-05-19	中國啟動首個128通道全植入式腦機接口臨床試驗	https://news.google.com/rss/articles/CBMib0FVX3lxTFBhSG54ZmhNeDh3MXlKNmRMby1RNE9URXplbFZhbGp2Qkp5endNWExEaUxuaUcyczg1a0dyU3ZySFMyMEQwSEl4WFVaazY4RDVSNFhIdGZxU2JCNGJXLW1rWFpiNU9UR3BQLUVCMnNSRQ?oc=5	未分類
 2026-05-19	AI教父：未來是人工智能就業盛宴	https://www.hkej.com/dailynews/investment/article/4406293/AI%25E6%2595%2599%25E7%2588%25B6-%25E6%259C%25AA%25E4%25BE%2586%25E6%2598%25AF%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%25E5%25B0%25B1%25E6%25A5%25AD%25E7%259B%259B%25E5%25AE%25B4	未分類
 2026-05-19	AI取代人力！渣打銀行全面導入應用 預告4年內裁減7000後勤員工	https://www.knews.com.tw/news/2A63431BA92818F023A530A3F7D6AD79	AI取代工作
 2026-05-17	網絡安全：勒索軟件無差別攻擊 港中小企首當其衝 駭客入侵是主因	https://www.businesstimes.com.hk/articles/317035/%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8-%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E7%84%A1%E5%B7%AE%E5%88%A5%E6%94%BB%E6%93%8A-%E6%B8%AF%E4%B8%AD%E5%B0%8F%E4%BC%81-%E9%A7%AD%E5%AE%A2%E5%85%A5%E4%BE%B5/	駭客網攻
+2026-05-15	腦機接口 不再只是科幻	https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV29pVUNrZlNfdVY4NVVJaUNBZDVzNTFidFRUc01YbEk1UVdXRU4zNlpIVV9EWlR5V1FuZzhRM0pYX1Bqblg1YzYtajVmMnozdzVycW1IZ0xFMXJDdjRMYkw3ZUpRRjNsQ1FGZllMaFJYX1pLSkRQS2hWZm1lTjdxRDJyalBtdXpsODZ1N3RuSGkxNy11V1ZLeFZlcDlhTjlCekNOOWc1dzc0UEdrQ3QtYllQRm5Ya3Fkc1hUZUhQbW5uTzlTRU9CRkttUjlySVlYU1FiY3FiUkJEUQ?oc=5	未分類
 2026-05-15	矽谷勞工運動升級：Meta 員工抗議滑鼠追蹤 拒為 AI 監控買單	https://unwire.pro/2026/05/15/meta-staff-protest-ai-surveillance-mouse-tracking-layoffs/security/	未分類
 2026-05-14	警方2025網絡安全報告揭有國際黑客針對本港基礎建設警 ...	https://www.stheadline.com/breaking-news/3572020/警方2025網絡安全報告-揭有國際黑客針對本港基礎建設-警及時識別遏止	駭客網攻
 2026-05-14	獨家／鴻海被駭驚人內幕！勒索軟體有瑕疵 資安專家憂「加密檔案恐毀損」	https://tw.stock.yahoo.com/news/獨家-鴻海被駭驚人內幕-勒索軟體有瑕疵-資安專家憂-加密檔案恐毀損-233000244.html	其他資安
@@ -657,12 +722,15 @@ var DATA_TECH = `
 2026-05-08	【AI衝擊波之慎用科技】亂用「龍蝦」引狼入室黑客秒破防私隱 ...	https://www.wenweipo.com/a/202605/08/AP69fcfb00e4b0b49ad1b9f487.html	駭客網攻
 2026-05-07	善待被AI取代的失業員工	https://www.worldjournal.com/wj/amp/story/121206/9487292	AI取代工作
 2026-05-07	加密貨幣交易所 Coinbase 因 AI 浪潮裁員 14% 執行長強調營運模式轉型	https://news.pchome.com.tw/science/sunmedia/20260507/index-77813318294780329005.html	未分類
+2026-05-07	「腦機接口」新戰場 港如何「接入」未來	https://news.google.com/rss/articles/CBMirAJBVV95cUxPS05ER2JiejZhb19tWmljUGVCS1VXWTA0Z0lLWkpGNjJJbG9pMlRjb1hDUGJ1OGFlTW9jSzZyN2x6dzFWRWtDdEdibW1rWDBUMHFhM3VJMENpU015a2NVT1ZGY3Jkb3IyMW41bVdQNlV6Snl5bXVBSk9Cd3BnWkZuQ01kYzVjWlFEQWVZYlJYYnJWWG00SWxzX1YzMHNUa3pYMlJCOFE1MlBmZUZuS04wRXF3dVhnSFdXV2xOZGp1TWFXdk9jZkdpM0FUVFhvcUlUbks1TzdyMWtab3k2WDNreDRKSGJEZlRvNnVfdWVCSk12TldYTEVkSGxKaEdiSzFBeDNvS1RGMlRiVjlvUUZZQkNtLWRxOXNMYWVWNWk4SENIZDNWRXItRll0WFo?oc=5	未分類
 2026-05-06	【專訪】告別影子銀行時代！ADVANCE.AI 產品總監張毅深入解讀 Web3 監管矩陣與 AI 防線	https://news.knowing.asia/news/9ecb41c4-c1f3-4882-990f-b85008c4f6a4	未分類
+2026-05-05	他們在腦機接口技術前沿探索“三磅宇宙”的奧秘--經濟·科技--人民網	https://news.google.com/rss/articles/CBMidEFVX3lxTE9IaVpXOXAxWHlfQ0NyNVVHSVdzVDUtTUxCQjlxVHJGbXNnWHJ3TEpKOXA1M203MGtYeHV0ajBPQmdZclhWMU1wcG9Yc1lnT2Y5WUJ1aWExSFZJOXdhbXlLMkYxM2VTYzVLREVvV3N6N2dtS2RE?oc=5	未分類
 2026-05-05	【加密貨幣】Coinbase裁員14%！全面轉型AI 盤前股價逆市上揚（第二版）	https://inews.hket.com/article/4124192/【加密貨幣】Coinbase裁員14-！全面轉型AI 盤前股價逆市上揚（第二版）	未分類
 2026-05-04	「AI 高手們」反而更怕丟飯碗？研究揭：接觸 AI 愈深，焦慮愈嚴重	https://www.managertoday.com.tw/articles/view/72081	未分類
 2026-05-03	cPanel重大漏洞釀災！勒索軟體Sorry已濫用此弱點對多個網站發動攻擊	https://www.ithome.com.tw/news/175485	未分類
 2026-05-02	痛批大裁員… 黃蜂女挺老戰友 砲轟迪士尼讓AI取代藝術家	https://www.worldjournal.com/wj/amp/story/121232/9477522	AI取代工作
 2026-04-30	別付錢！VECT 2.0 勒索軟體爆致命程式錯誤：大於 128KB 的檔案不是被加密，而是直接被銷毀	https://www.kocpc.com.tw/archives/641148	未分類
+2026-04-29	重慶腦機接口從實驗室走向日常應用	https://news.google.com/rss/articles/CBMicEFVX3lxTE1VMnlzN0dieUFYMkNCZVJaX0RRR2dSWVZ2enVPMXFfcjJwZTVYZExrcTBfWThWenFxRVlkNlVwU1ZFNjMxSHprX0tuUGktTE5uTVlBclAwYUhqNVlOaGhDa2ZDU19yS1ViemwyMHhEbmM?oc=5	未分類
 2026-04-29	勒索軟體VECT 2.0加密檔案出錯，受害者付錢也無法完全復原檔案	https://www.ithome.com.tw/news/175417	未分類
 2026-04-27	意大利向美國引渡涉大規模網絡攻擊的中國黑客	https://www.rfi.fr/tw/中國/20260427-意大利向美國引渡涉大規模網絡攻擊的中國黑客	駭客網攻
 2026-04-27	培育新一代網絡安全專才迎戰AI 自動化網絡攻擊威脅 ...	https://businessfocus.io/article/354028/培育新一代網絡安全專才-迎戰-ai-自動化網絡攻擊威脅--網絡攻防精英培訓暨攻防大賽2026-正式接受報名	駭客網攻
@@ -677,6 +745,7 @@ var DATA_TECH = `
 2026-04-22	【AI+Mythos】Anthropic強大AI模型Mythos據報遭未經授權 ...	https://inews.hket.com/article/4117464/【AI-Mythos】Anthropic強大AI模型Mythos據報遭未經授權用戶訪問?mtc=20033	未分類
 2026-04-20	Anthropic推限制版AI模型Mythos 網絡安全風險引發關注	https://finance730.com.hk/2026/04/21/anthropic-ai-模型-mythos-網絡-安全/	其他資安
 2026-04-20	AI應用｜AI攻擊自動化來勢洶洶港企三大網安痛點全面浮現	https://inews.hket.com/article/4116659/AI應用｜AI攻擊自動化來勢洶洶 港企三大網安痛點全面浮現?mtc=80028	未分類
+2026-04-19	3C科技/從「科技賦能生活」到人機融合腦機接口技術未來展望- 副刊	https://news.google.com/rss/articles/CBMidEFVX3lxTE9VQURCNGUtend4NVNWV1BIeWVMUlE2R3h0djI4enA5ZmVNRFN4Z1p5WXh6ZlZsYU1JVURLRms3UGdkU3lLTnRIZ0J6RTBGNkFPYmllLUdVa2NoeE9hMWJqQjVNVTB3QndUeVZGU0hTZnI4Mloz?oc=5	未分類
 2026-04-17	信昇數字貨幣指數系列 季度檢討結果（2026 第一季度） | 國際現場 | 商情	https://money.udn.com/money/story/12987/9447396	CBDC數字貨幣
 2026-04-16	金管局：港續探索3種數字貨幣	https://www.hkej.com/dailynews/headline/article/4372432/%25E9%2587%2591%25E7%25AE%25A1%25E5%25B1%2580-%25E6%25B8%25AF%25E7%25BA%258C%25E6%258E%25A2%25E7%25B4%25A23%25E7%25A8%25AE%25E6%2595%25B8%25E5%25AD%2597%25E8%25B2%25A8%25E5%25B9%25A3	CBDC數字貨幣
 2026-04-16	批發型 CBDC …關鍵基礎建設	https://udn.com/news/story/7239/9444413	CBDC數字貨幣
@@ -688,22 +757,40 @@ var DATA_TECH = `
 2026-04-15	央行：台灣暫無發行零售型數位貨幣急迫性	https://ec.ltn.com.tw/article/breakingnews/5405103	CBDC數字貨幣
 2026-04-15	AI 時代往好處想取代工作不代表失業| 雜誌	https://udn.com/news/story/6897/9442730	AI取代工作
 2026-04-15	AI 將成為網絡核彈？報告實證 Mythos 網絡攻擊能力	https://www.pcmarket.com.hk/claude-mythos-ai-cyber-threat-anthropic-glasswing/	駭客網攻
+2026-04-14	國產「北腦一號」腦機接口首度直播手術在京完成- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTE5XamM1QXh5WXRBRkxqQkNOSzBqdGM0ZWkwRjZ5SEs0aGV6NDcxVEp1enh4UUh6UFk2blBITEpscnQwdnZCYzU5Rzh4QV8zaGNfT2w0ZExXckI4UWlUMzRTWG5jcjBWN0tYMFQ2VThRZjE1aV9KYlk4?oc=5	未分類
 2026-04-14	OpenAI執行長險遇刺！嫌犯千里追殺 警告人類將亡於AI	https://tw.news.yahoo.com/openai執行長險遇刺-嫌犯千里追殺-警告人類將亡於ai-052100899.html	未分類
 2026-04-10	AI時代反而易搵工？LinkedIn CEO公開5項AI無法取代技能！預言未來5年三大職業最搶手？	https://hk.ulifestyle.com.hk/topic/detail/20093996/ai%E6%99%82%E4%BB%A3%E5%8F%8D%E8%80%8C%E6%98%93%E6%90%B5%E5%B7%A5-linkedin-ceo%E5%85%AC%E9%96%8B-%E9%A0%85ai%E7%84%A1%E6%B3%95%E5%8F%96%E4%BB%A3%E6%8A%80%E8%83%BD-%E9%A0%90%E8%A8%80%E6%9C%AA%E4%BE%86-%E5%B9%B4%E4%B8%89%E5%A4%A7%E8%81%B7%E6%A5%AD%E6%9C%80%E6%90%B6%E6%89%8B	AI取代工作
 2026-04-10	AI 時代往好處想，取代工作不代表失業 | 科技新報	https://today.line.me/tw/v3/article/5y25vrE?view=topic&referral=AI	AI取代工作
+2026-04-09	港中大（深圳）發布腦機接口顛覆性技術無創顱內「打印」芯片引領產業新突破	https://news.google.com/rss/articles/CBMidkFVX3lxTE1VY25jZklyZGxZZDdSSUZCeEFVbC1SRUFvYk9NNTJtSFgzY2JCWXY3eEF0ak5RaldaRGdmam9JNG5HckFRdGFXREM2YlZLaGMxVGozWW9FZm1UTU1aZDQwZHNyRVl5T2ZhMEZjN0QwQ0hrU1RVUUE?oc=5	未分類
 2026-04-09	【名家專欄】北京數字貨幣野心受挫	https://www.epochtimes.com/b5/26/4/8/n14737206.htm	CBDC數字貨幣
 2026-04-03	Coinbase(COIN.US)拿下美國國家銀行牌照，數字貨幣要變正規軍了! 作者 智通財經 - Investing.com 香港	https://hk.investing.com/news/stock-market-news/article-1394147	CBDC數字貨幣
+2026-03-30	腦機接口系統「北腦二號」料明年臨床研究- 內地	https://news.google.com/rss/articles/CBMid0FVX3lxTE51SVlUQzVBWkJaS1lJSW5lZ0hzdkVNTTVPRTFobktsZXpZT1R4cW1HZUV6ZEtzNzhFZTJiWWp0Qi0teGZ0b3JkWDdTcGtNc2l4SlRSQ2NHRDc5aUtLYmNWVXVGZHNnOXVfUTMwTC1FV0VGQm5FLUx3?oc=5	未分類
+2026-03-30	腦機接口系統「北腦二號」料明年臨床研究	https://news.google.com/rss/articles/CBMifEFVX3lxTE9QR2VsV3h3Mm9VcjltekFraTZyY2hPb3EtMHd1WjRGZVBJOWJjT0xmNGRUbzk1clIwVFZvUk9jUjV5U0xSdTNqNHJVV3BhMHRLTThOeVp1d1RjOGtWTDFSRVhGeElIb0M3S3lUMDNpVVBLVmZZVkVRTnphX24?oc=5	未分類
 2026-03-30	人工智能：為什麼科技公司大佬們突然把大裁員歸咎於AI？	https://www.bbc.com/zhongwen/articles/cn4vwyk3np3o/trad.amp	未分類
 2026-03-30	人工智能：为什么科技公司大佬们突然把大裁员归咎于AI？	https://www.bbc.com/zhongwen/articles/cn4vwyk3np3o/simp	未分類
+2026-03-30	中國超車美國！全球首款侵入式腦機接口獲批 NEO系統改寫醫療史	https://news.google.com/rss/articles/CBMinANBVV95cUxOaHBxb3AwdGFkZERnbE85ZmtfMzhmak14anB2SXVoVzFHRzNsNlphQjJiem5lZWQ0UHczX2JqOGowbE15UXZGR3BrZDdtMVQ2OTlidk1za3NKeHNNdWRqbWtRSzJzeHZzdC1YRjEyZjM0M3RZenNoc0JVbEQ2dGhGMHNTR1NzUkVqQ0U5UkZhVkk4SXVyLWxIOEpVLVpONkF0bUwwd0JfSGtUbnpKektPcHItYW5tSXVWTDZkSUhxUzFHU3ZOZGZMNnpRMlV0Zy1uWUhNdWJPZXlMelRFdmdUdk5MeE1haGRoVENMNlhjWEU0c1lZZ1E2ZWdxcnJ1ZGpPemVuUHd2UFRtU3h2OWdmLTJXMkgxenRqQmV3dDd4Q01BSFM2cHhuc2pUYmVhMzVGNXhNSlBzX09aQWF5RGxJaUpBR1lpZml3aXRJUG1TLVlucERkdW1pcEoydExOZDEtZlZ5WkRZaU9uWkpXaXU3NHZ5cU1mTW12ZlJ4cmZJZVRMTGtCVXBSdHRWY2MzZ0VabGFEWXlUV0hiTk9T?oc=5	未分類
 2026-03-27	就業寒冬「鐵飯碗」？網民力薦1工種不怕被AI取代+無學歷月入1.7萬起：起碼有飯食！	https://www.stheadline.com/food/3556606/%E5%B0%B1%E6%A5%AD%E5%AF%92%E5%86%AC%E9%90%B5%E9%A3%AF%E7%A2%97%E7%B6%B2%E6%B0%91%E5%8A%9B%E8%96%A61%E5%B7%A5%E7%A8%AE%E4%B8%8D%E6%80%95%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%84%A1%E5%AD%B8%E6%AD%B7%E6%9C%88%E5%85%A517%E8%90%AC%E8%B5%B7%E8%B5%B7%E7%A2%BC%E6%9C%89%E9%A3%AF%E9%A3%9F	AI取代工作
+2026-03-27	中關村論壇 | 腦機接口爆火 「擠不進 根本擠不進」	https://news.google.com/rss/articles/CBMid0FVX3lxTFBCRlQ2NGNPNXJMcFBTN0dRM1NoUUFEZFpvM0UxQk50d2EyalNseF9wMDNaNEF2SHdiTl94ZFhaRTJzaldpOVVIQmdFRUJNV3duNFRWTk1Ta2NBRDllVmo5U2hKeTd5SjRMNmZLcUUxeG5fZjA1QmlJ?oc=5	未分類
 2026-03-27	​澳門中銀舉辦數字貨幣專題講座 聚焦數字人民幣與跨境金融新機遇	https://www.exmoo.com/article/258168.html	CBDC數字貨幣
 2026-03-25	無需開口就能說話！Neuralink 腦機晶片突破語音障礙，漸凍症治療見曙光	https://abmedia.io/neuralinks-brain-chip-can-now-translate-brain-activity-into-audible-words	未分類
 2026-03-25	滙控AI總監｜大規模用AI 委新總監掌舵	https://www.ejtech.ai/ceoai/滙控-ai總監-大規模-ai-掌舵/	未分類
 2026-03-24	AI泡沫？ 鱷王達里奧：AI唔會死 但AI股會	https://specialist.hket.com/article/4102139/AI泡沫？ 鱷王達里奧：AI唔會死 但AI股會	未分類
+2026-03-23	腦機接口「接入」生活 1億人可望受惠- 經濟新動力	https://news.google.com/rss/articles/CBMicEFVX3lxTE5lcnJlV2dxV1RNRl9VTVd0c3VYQVNZeVB6d0J6TzVuNTZJdzBMRzNMWS1jQm1XMlI1S1NKVWw4MGRad1hWbGh6WWdRWHFiWWNDNWJOd0hTa3VnUW84VEhpc0V2WlJYdXdIZHh5UkM0Mlo?oc=5	未分類
+2026-03-23	未來產業圖景·腦機接口/腦機接口「接入」生活 1億人可望受惠- 中國	https://news.google.com/rss/articles/CBMidEFVX3lxTE9Sd3kxZ2F0OHY0QmhWMW5jeS1DQVY3T1NXN19nQVRKcU94MzI2V1BYSEpMcURMaE9JejhEajJsRHN0c3JqVUVhU256WkFkVGowcDFwV1VNci1Xbzc3cEZTX3RRc1FIeEN6UHRnZlJ3SlFOSWZT?oc=5	未分類
 2026-03-22	【名家專欄】中共力推數字貨幣 但收效甚微	https://www.epochtimes.com/b5/26/3/21/n14724070.htm	CBDC數字貨幣
 2026-03-21	FBI：俄駭客正瞄準Signal等即時通訊用戶| 俄羅斯黑客	https://www.epochtimes.com/b5/26/3/20/n14723774.htm/amp	駭客網攻
+2026-03-19	千通道探針刺入大腦腦機接口產業駛出實驗室--經濟·科技--人民網	https://news.google.com/rss/articles/CBMidEFVX3lxTE5BcF9SRy11ZS03UDBkY2x4aEVQdktIRXEwS0dzbEZHMXpJbDJJMGpNT3VoUzBkLVNrdzFLbWpuc0RDaTNGUHhRWXFTdkJpeExkUGtTVmFGLVEyN3ViUXV1RmRQaFFIVkk5TTExcDI0Z3F3MkZf?oc=5	未分類
+2026-03-18	科技通識｜腦機接口是甚麼？「意念操控」不是夢？	https://news.google.com/rss/articles/CBMi5AJBVV95cUxQS25rVUxuZ2pBUjdXRWRsUHd3bWl5ZHpCWUpKYlRZeG9RWW1ZdVB1T3phMGdGVzJZQ3ZGTGNjRF9vZ2h5RnRGLWU0WlZRVWZZbjNHVXdiSm04WjhuQ0Uya3hFWWVZOGRXdEdfSnR6SVlaUHlfT2JmZWVxZm5RWTl0c3MyUF9RNGYxWWhaNDcybl9Ndk9xekJETWxlZmtOeUw2ZVJSWFQxUUx5UmlDZElVWVhjdFFIU1c2SkRrcHNMRXM2LXNPbk5pbldNcXhyU1dPUDExRjVJQ29LYjZGTXFfclRYbzFsdUpRdEtTRldXVXZzVml6bnZ3Nms4XzRCb3VOV1ZKZlJGZFNHZmM2S2V1eW9hZ2JHa1Zzb29BOXdVek1KS0V5OTAzUGRLbWRPbXFlUHZVdXNSWlNtLU04RldxS3U0LTFjRUNGb0J5UFBSNVIwMnFDRGdmT1ZTR1RYd1RUV3hsXw?oc=5	未分類
 2026-03-15	FBI 調查 Steam 惡意軟件遊戲事件 7 款遊戲涉嫌竊取用戶資料及加密貨幣	https://unwire.hk/2026/03/15/fbi-investigates-steam-malware-games/game-channel/	其他資安
+2026-03-14	首款侵入式腦機接口醫療器械獲批上市- 要聞	https://news.google.com/rss/articles/CBMid0FVX3lxTE12LS1VT3VOSHZfSk9MaC1vOE9DcWxiaHZBN21sazdFUVVnLTN6V0syZXJkQXB6b0wwcGEtVWtIdENFbGtDSlVCSy1ZVkxsT0JFYXpZNUdXOE9WTjBWZ2J5d2NBUGFDbmY2QTZWQVBGemRLZk5naF9z?oc=5	未分類
+2026-03-14	上海研發全球首個植入式腦機接口產品獲批上市 讓癱瘓者徒手喝水	https://news.google.com/rss/articles/CBMi0wNBVV95cUxPZy1GYkpKbWNxUUVfWE1JN2pUQ0Fzd0xaT1lXUkl3amZMLVB3bWxjVXY0bC1PQWRMRkl1STV2aE5ib3Z3UlVpeGlmR05RMENhZ200Z0RtU0xwODR4TllqTU41Tm8ycjJKNS1LcXNQZUJTVjRwZFZFNFl6OE1GR2t2OG9CbWdwNjJoa0VGUjYtZV9DTDBlY25LOWM5eFVDWkRqVUJOa0dDVkdaMmhTWVYxTjljVkg1ZjRYTzRraXM2S09yNkw4VjZBRllWWW1tYjVRX2JMZjdZS3F2YUNvT3ItMzJ0TjBYbFVYM09vRzNoVktNWlBfVVFyWk85Y0NTRm9qODJlaDFqRW9CYkxiaGF4T1B4NnJDT1l6SDU2R3dLb3duQ2JwSjV6c0Z0Y2dBU0IzX01pdW9EYmtMYVdwaWl4MW8tQVNmS0dSOXVtMDNSUlQwWG1MVUtyUi03MlBuampTMFJFdzdxVnRkcXN4NnZmbEJlaGtldWh0cnByRjQ2UTM5R2V5YkdJX25jOHltRV9FWXE0RlQyX1RiRW1KVHYxTWJBQTBCZjZVajhNUUlaSlEwTS11WkhfZWZFWEg0aVBCQVA0TTAxQUZaVEpwV1dYMnB0WQ?oc=5	未分類
+2026-03-13	全球首款植入式腦機接口產品 獲批上市	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0s5eWdpZ281MlZZZHoxaGNiUXJsajhYc1hzUDJxMFhuY0RiN2oyU1BLc0dWOV9wQlQyTG01bGk2LW51aVI3TnR3NVkzekZyS0xZc21sZ2M5Q3M1RG1uS2VwSWMtX2hZM1l1TDBIWXEtTUZZYi1QdW5ZV2RUR3I3aVk4TzQ3WC0yY25r?oc=5	未分類
+2026-03-13	全球首個植入式腦機接口三類醫療器械獲批上市	https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzRMRzg0OThNRUl2UXpUeWMzaHkwN2lhMHNKdkVjaUZGNjBiMTRTTktCUEdENjNMMEFKaGk1WVE5Y3NiX29NWl8zVU4yVkE1Y1pNV0YxTGZTWDRqOV9qd0hzMUpKZ01TY0hZTWZEQVZmd3FRME9yM2pwT2pnUVZQNVBmdkQwMWNMelFibkwybkE?oc=5	未分類
+2026-03-13	內地植入式腦機接口醫療器械獲批上市 領先馬斯克Neuralink成全球首款	https://news.google.com/rss/articles/CBMibEFVX3lxTE1yQ0dSTGhMS0p0cGVIMXlJbElpVTUtTC1QRnFWZ0lkMXJfZV9hSEdEWWNOVUNWdmE3TkxkSG9ON29sM2c3cmw2RS1ja0lKSHJpd1dzbU5YSUF5MG04NXR2MEZwWjdLVE9HN1lKdw?oc=5	未分類
+2026-03-13	中國首個侵入式腦機接口醫療器材獲批上市 (19:47) - 20260313 - 兩岸	https://news.google.com/rss/articles/CBMi8wJBVV95cUxNN3B1T2c5dWJTWmt1OUxNUmFKYXJrckIwTjE2RlEwR1ItSWhHUHdya1lxVXIxMkVId2FqUmlfR0NMWURyOVpMYzVBTEZVcURVMFVLVHFMaDlCdVNlcTNaRTJ0enVMZ2lpTzBVTDFueURmTmZxUmlzbm1Bamp0RWZXTFpQRGZka0JvVUY2US13TnRsNG9CLVg4ZjBKYmg5bWhia0JXZkNpbWliYmtXSV9kNno0OUdDTFVqcl9lYXFEdVp6Z0NiY3lKOXVpbDl6WnVjREVBV0VURFJsSFkwbExZVHVMQXZFQTh6aWx5NEhMUDZzRVF0M2RqUnVWV1IxaGx6YmNLeGM5QzQxeUhWeTROaFhYdDlobExtOURfYkFhbXVtS0FmS1JRSVBjUUhVUkZOY0Izb0hpLXUyNVVDMWVYZjFraWg3eWtIU1NUWTFyOGktaFFQTGkwM2F2X2MwVWJQb2hQejIxYVphd0RnLXJNbFlmRQ?oc=5	未分類
 2026-03-12	澳門女途人被機械人嚇到送院 警「押走」涉事機械人	https://www.hkcd.com.hk/hkcdweb/content/2026/03/12/content_8744618.html	未分類
+2026-03-11	江蘇建腦機接口產業集聚區 加快應用	https://news.google.com/rss/articles/CBMilAJBVV95cUxNbkdyZmVxcW03NEk3VHpGcGtCVVVwU19sd1NEWEFnRkRwZ3VTUXdib043S2RzclFiY0E1eVBJSXBaNmQtSzhva25rbTduSFZ5U0RyaUQ0RGE1YkFoSFlXQjB2R21TWGlWRXI4anBBVWlESFhyajYzM0xzOUsyLTFIUGE2bUxyenhfc1JYRDJwemg3OVNMSC10a1BEdWVFYkEyMUJvVXZ6VFZsbERtYmMtb0VZTlVjUmZDU09Va01xVGJSU0k5VzI1UldIOFIxWXBnMkdTVjY5TjltRUszcW9ZaUR0RTFFcEloODBYX2RNOWd3VzltTG10RXU0TUNQNE9pMWhQQ1JVRnByb3RrVDV4UzM5Uno?oc=5	未分類
+2026-03-09	【話你知】腦機接口助癱瘓人士行走- 財經	https://news.google.com/rss/articles/CBMid0FVX3lxTFB5SjRKMnJTai1QU2QyUGJ1YmJTN3VvR0owdkNBYXNfVmFBbmJOOFQxVUswb2pWdjFROV90S3FyTzRSRzdoaEk3VS1oZV9oUFN2N2dwd0lTaWN4VVFFSGRQbWpEN1V4SWFBNDk1Y3E2X0J4eElKYTJF?oc=5	未分類
 2026-03-04	2026 年反央行數位貨幣監控國家法案狀態與更新	https://www.kucoin.com/zh-hant/blog/hk-2026-anti-cbdc-surveillance-state-act-status-and-update	CBDC數字貨幣
 2026-03-03	美參院住房法案「夾帶」CBDC 禁令：聯準會 2031 年前不得發行央行數位貨幣	https://blockcast.it/2026/03/03/senate-housing-bill-includes-cbdc-ban/	CBDC數字貨幣
 2026-03-02	AI 驅動、以人為本：中飛科技攜手 Proofpoint 協助引領台灣企業建構兩大資安防禦支柱	https://netmag.tw/2026/03/02/ai驅動、以人為本：中飛科技攜手proofpoint協助引領台灣	其他資安
@@ -751,9 +838,17 @@ var DATA_TECH = `
 2026-02-02	組織者警告稱，隨意使用人工智能會帶來隱藏的環境成本，敦促科技巨頭解決數據中心對受乾旱影響地區的壓力。該活動突顯了人們對脆弱社區中人工智能基礎設施的可持續性與社會責任的日益關注。	https://www.moomoo.com/hant/community/feed/organizers-warn-that-casual-ai-use-carries-hidden-environmental-costs-116002615132565	未分類
 2026-01-26	數字人民幣計息：香港準備好迎接這場顛覆性機遇了嗎？——探討金融範式轉移下的應對與策略	https://unwire.pro/2026/01/26/digital-rmb-interest-bearing-hk-opportunity-challenge/news/	CBDC數字貨幣
 2026-01-25	印度將主辦今年金磚峰會 莫迪政府提案金磚數位貨幣 去美元化來真的？	https://hk.finance.yahoo.com/news/%E5%8D%B0%E5%BA%A6%E5%B0%87%E4%B8%BB%E8%BE%A6%E4%BB%8A%E5%B9%B4%E9%87%91%E7%A3%9A%E5%B3%B0%E6%9C%83-%E8%8E%AB%E8%BF%AA%E6%94%BF%E5%BA%9C%E6%8F%90%E6%A1%88%E9%87%91%E7%A3%9A%E6%95%B8%E4%BD%8D%E8%B2%A8%E5%B9%A3-%E5%8E%BB%E7%BE%8E%E5%85%83%E5%8C%96%E4%BE%86%E7%9C%9F%E7%9A%84-220003563.html	CBDC數字貨幣
+2026-01-20	腦機接口狂潮正式引爆！馬斯克+強腦科技雙箭齊發 腦機接口「DeepSeek時刻」將至？	https://news.google.com/rss/articles/CBMisgNBVV95cUxQYWdfU0NqNTg3TF96dVZLbmN6UkgtLXJKMWZSSllXdGFkUmFVeURlOG9TeS1XZk4xUG1VRVpibmJlZWk3N283bEkwS050bk1lWVFGVnNTbjExekM1UVFSRkNKcXRzODNoc3hRNXFoUmlCczZJMlBvT3BjNzVCSGc0QzlTdjBRSjZpdW9tOWlSeHA2NXBwRG1vY1pHVWNVbTI4a2pJbDRqSkt0U3RCbTl6NXRkelhnTWljQ2Z1U1RsekdvZUpYUk5naVlzVm53Wi1ha2EyTmZVSWpNTlk5TW1RWFpGb1JJRkd5S1ZjcnI1SEdISE9oMmcwbGdFS2ItQm5KdkpHOUtVNHJCNEFKRldFd01sYmxXWFllUkxfZTRvVnR4T2RseWxjT3N6d2FkY19fbURxNVNSeWRpNUx3MUFkNkZLR0JobDVfOFh2cElIN1JISEplODEwQzF5b0xsQ241RllYaWdtNzBDRnE1NzhhNEpxdVJKZ1dwNFVIazBibmhLQllxYnZaYU5GWEtGYUlDMmhLc2VzR1VyMVFtVnF3QlJuVnRyYXVEMGI3bDY0X2NGdw?oc=5	未分類
 2026-01-19	中共大數據監控無所不在 電盔之外的凝視	https://www.ntdtv.com/b5/2026/01/19/a104058058.html/amp	未分類
+2026-01-14	天津大學完成人類首次「太空腦機接口實驗」 有助增強太空人效能	https://news.google.com/rss/articles/CBMivANBVV95cUxNU3ZFcDBfUERnUHpPNVdlUlVjRE9HQ1pTaFI1Z0FlYzZyZWp6d1dMMmtSNEFBWnp5X0Q2RUlpUzZoWDlPM1lFQ09NTlRoZFVtRno4Y3pXNnJEeS1tVnFIcVVWVWVzRHpGZktpdHdCNFNJTkRZOXVHS3B0Qm5jc3N1Umd1RDVUV2Fodmk0YUFsNEotVV9XREJnWXg5WFQzUjdXbXZlTzYyTHZwT2xwMU1maUNacXZSUmJKaksweHpXUlkzdEpQN2tqQmtuMWNfeVppWEFITXpLQk5oUmNJdG04a0ttLXZUNHVFbHhTUWExRUsxak9QYnB6WXFJTUNTb3RQOEVVQTdCZnEtZjlacVhJOXZoNWZzS0xObW9fODlCdVBIT3RSZktsaVZFemExUGRWaXF1SDJTOUZiUEQ2Y1BveHhIZTQ3SmstbHdwTTJVVm5menV0dzZ0R2IzZzJsc3RCdGFoYlc3NExLYllzY09ZMUJ1ZVVsZDFQYk9EaGRpdlJlb2FmQndwUGFRVFpjZjdJeC1JRWQ5ZVh2aEdaYVd4S0NlbGlpQ2ZnZ2NKd2NJSV9GbkxnWXl2dEVfQmk?oc=5	未分類
+2026-01-12	馬斯克再拋震撼彈：Neuralink今年啟動量產 腦機接口進入產業化關鍵年	https://news.google.com/rss/articles/CBMipANBVV95cUxQam1WclExcHVtUk41SFhXRU9aa0ZSYUlIZnRQT3p3SlJyQlBXVjBmYzI5dTVEb1M2RlAwNlg4WVlzVV9TQ2tjLVdpSEhISExIeDNBajA5eENMd19yU2N5cmJtZUlpbnQ5VGlIampwZzJoS2cyOW5GTnlaR2RZdW9MX0JsdzR5VkdPM2hnTDJHSlNRc19pcVJEUFhKclB0ZVNhLXFnSjNoRml6QXlOQlZCUU9ueDJaWXZHVXJ3aDdUbUxEcXdPbGh4ZTB4eHd6NHd4R3NCVjhzZl9CaVVCZFk0a1pJcXVBZlVia0lJR2JFTW9uU1hJYW52NXQ3U05GQ3Nhb2EwTV9XYXFuQTNOQ24tQTVXZE9LbWFIdmhXN2FVcmdudVpUMUc1aWV4dFNGSFk3UmgxWXhpaHA3SndGRkw1cHBiSTBvWFVvWmNTWDZTU1Fyby1KMUFZVW02dDlXVnJUU2pmV0pYQlVNcGFzeDJwSFlmRm9KLTdBQURSZzUwekxweHNOazNQeTA4VHlVVkJiUTM5VUJYMTBaN3ptVjNWQ3dkQWk?oc=5	未分類
+2026-01-10	腦機接口，加快接入現實生活（瞰前沿）	https://news.google.com/rss/articles/CBMicEFVX3lxTE9OUm5YQTBadEg5OEotVmxlYnoyZmNKa3ZPTXJuMFdFRUVYcndoV3NkdmZkb3pNYmdEUF8zT2pScTU0YmJ4UTRNcWh1YUVrd3BlalpCeXF0Z05QYXpWZ3VkdldRZXU4QTR5TjhZZEZXQmY?oc=5	未分類
+2026-01-02	馬斯克稱旗下腦機接口設備今年量產- 大公報	https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZMUQtNjkxSEF5UEM4dThHS0ljV2dFb2pRZS1zdUFZdlZuV0htcldlcHh0SEJZNUM1YzFnYmQzV3ctSUZyTVlub3ZIYVRKWlZRdTYzbDZqNlNMVlktMnJZTF92RzVKZlJ0UUdRQy1yYmhjZkt2Q2c?oc=5	未分類
+2026-01-02	馬斯克稱旗下腦機接口設備今年量產- 國際	https://news.google.com/rss/articles/CBMicEFVX3lxTFBwYnJ3UVF4NE9EbkdwTFR2bWtCV0lQMmloU2tuRlhBYWZNRkpIV1NKakF3WWJjUUN1RnR5U2Nrb2VqanVCTlBCUDRuLW5ma0dKaFdHVDRHN0ZKaFFIc2FVWWRuVW5BZTRNT09wbVZMSXY?oc=5	未分類
 2026-01-01	癱瘓患者福音？ 馬斯克許2026宏願「量產Neuralink大腦晶片」	https://www.taisounds.com/news/content/84/233787	未分類
 2025-12-29	人行：數字人民幣跨境使用將持續擴大接入範圍 支持離岸金融業務	https://news.rthk.hk/rthk/ch/component/k2/1837829-20251229.htm	CBDC數字貨幣
+2025-12-17	新突破！中國侵入式腦機接口助高位截癱患者重建社會功能- 內地	https://news.google.com/rss/articles/CBMicEFVX3lxTFBYY0w1d3ZDZG81Z0xudTlzcTNVLUg3Q1d0WVJDNjQwQlNvWTNfOWJ1ekVWN3gwNkRFUnhiSVYta1dkLVVMRktoSFo0WTJzazJxdWFiXzRUOFF4cjhXTE1NM2lCSFg1bWhLU0Q2ZlRhdmo?oc=5	未分類
+2025-12-02	浙港攜手探前沿共促腦機接口技術合作與出海發展- 各地動態	https://news.google.com/rss/articles/CBMicEFVX3lxTE85WnNNbWc1NGNQZE1ubTBINjctVFdQTlNFNFQ3ZWdQc0FvdlNhYURkVzRQT0l1ekhtSWFibzUtMVBFLWgxbTZub1lwdWMtQ1hVUHlHdjI3el9jNUFlcnJxZnZTNmZWaEREMjlrV2tMMV8?oc=5	未分類
 2025-11-10	世界金融新秩序之戰／穩定幣、CBDC雙軌並行 可能成主流	https://udn.com/news/story/124068/9128374	CBDC數字貨幣
 2025-10-15	【AI取代人類】傳亞馬遜再啟裁員 HR部門成重災區或裁15%員工	https://www.edigest.hk/news/ai-取代-人類-亞馬遜-裁員-hr-即時財經-1939039/	AI取代工作
 2025-09-18	【深度解析】2026 央行數位貨幣（CBDC）完整解析：治理挑戰與政策框架	https://www.hungyichen.com/insights/cbdc-governance	CBDC數字貨幣
@@ -798,11 +893,13 @@ var DATA_TECH = `
 2021-07-21	Sandy「鏡頭遭駭」私生活影片外流！公司急喊：別轉傳| 娛樂	https://www.setn.com/news/970514	未分類
 2021-05-24	病毒、惡意軟體與勒索軟體：它們有何不同	https://www.nakivo.com/zh-hant/blog/virus-ransomware-and-malware-the-differences-explained/	未分類
 2021-04-27	【名家專欄】「大重置」背後的祕密	https://www.epochtimes.com/b5/21/4/27/n12908698.htm	大重置
+2021-03-11	世界經濟論壇的虛假承諾：「大重置」揭示了當權者對革命的恐懼	https://news.google.com/rss/articles/CBMifEFVX3lxTFB6ZHRhVmtZVzk5TXNEUGlrbWgzeWgxYVduci1WYVhlZ3d0aTFRbkJrR0RyamoyakJub25qSnlhNGNjazdlM3RoMXVZQ2t1YzYtSUx1Y3dTWVZwQ3RzWDdNY2NaUkJadm53WFRJc1dFRHVlVk53YjJYUlp3MWw?oc=5	大重置
 2021-02-03	【財商天下】達沃斯推大重構 全球精英深層計劃	https://www.epochtimes.com/b5/21/2/2/n12728749.htm	大重置
 2021-01-21	拍板數位身分證暫停換發 蘇貞昌：資安攻擊手法令人擔憂	https://www.setn.com/news/885705	其他資安
 2021-01-07	【大重置】從二戰後的重整秩序去看大重置（Great Reset）｜江恩小龍專欄	https://businessfocus.io/article/154985/%E5%A4%A7%E9%87%8D%E7%BD%AE-%E5%BE%9E%E4%BA%8C%E6%88%B0%E5%BE%8C%E7%9A%84%E9%87%8D%E6%95%B4%E7%A7%A9%E5%BA%8F%E5%8E%BB%E7%9C%8B%E5%A4%A7%E9%87%8D%E7%BD%AE%EF%BC%88great-reset%EF%BC%89-%E6%B1%9F%E6%81%A9%E5%B0%8F%E9%BE%8D%E5%B0%88%E6%AC%84	大重置
 2020-12-25	快訊／有資安疑慮 新竹市取消明年1/1數位身分證換發	https://www.setn.com/news/871443	其他資安
 2020-12-18	微軟公司遭網攻 疑俄羅斯駭客藉美商軟體所為	https://www.setn.com/news/867308	駭客網攻
+2020-12-11	大重置與中國對美的政治滲透(圖) - 政論 - 何清漣 - (移動版)	https://news.google.com/rss/articles/CBMiakFVX3lxTFBxUFVJd3QzSjN1X090MjJZOG5tS0pXOXZvUUphWWcwZDBnTVZTYXJ2NXlXUDhfTlhZeHMwekxJVmtxVnkyX2JNbWtVbVpDWFRxajZvckZNMGFLbzhFUE55RUxodEYyMndaOEE?oc=5	大重置
 2020-12-09	eID「資安疑慮」3 縣市剩竹市試辦 竹市：嚴格把關	https://www.setn.com/news/862250	其他資安
 2020-12-03	行政院：數位身份證型式已核定 內政部近日對外說明	https://www.setn.com/news/858975	未分類
 2020-08-10	竹科遭中國駭客入侵？美媒驚爆「至少7間半導體」受害	https://www.setn.com/news/794393	駭客網攻
