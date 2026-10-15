@@ -237,6 +237,8 @@ ORDER2.forEach(function(k){CAT2GROUP[k]='ALL';});
 /* ================= 狀態 ================= */
 const params=new URLSearchParams(location.search);
 const cat=CATS[params.get('cat')]?params.get('cat'):'sudden';
+const ALIAS={economy:'econ',medical:'plague',suicide:'departure',security:'social',accident:'industry',drowning:'tragedy',heatstroke:'sudden','ai_safety':'tech'};
+if(ALIAS[cat])cat=ALIAS[cat];
 const C=CATS[cat];
 let all=[],view=[],timeRange='all',subFilter=params.get('sub')||'';
 
@@ -538,5 +540,29 @@ loadAll();
  document.addEventListener('click',function(){setTimeout(render,60)},true);
 })();
 </script>
+<style id="responsiveAll">
+*{box-sizing:border-box}
+html,body{max-width:100%;overflow-x:hidden}
+#cards,.cards{display:flex;flex-wrap:wrap}
+#cards .card,.cards .card{flex:1 1 130px;min-width:120px}
+img,canvas,svg{max-width:100%;height:auto}
+@media(max-width:768px){
+ body{font-size:16px}
+ a,button{min-height:44px}
+ #subChips button,.catnav-btns a{padding:10px 16px!important;font-size:16px!important}
+ .mbar{min-height:32px}
+ #subStats .subrow{font-size:17px!important;padding:10px 2px}
+ #substatBox .ss-big{font-size:40px}
+}
+</style>
+<style id="globalFontBump">
+.ml,.mv{font-size:15px!important}
+.mbar{min-height:28px;margin:3px 0}
+.card .n{font-size:24px!important}
+.card .l{font-size:14px!important}
+#subStats .subrow{font-size:16px!important;padding:7px 2px}
+#bigTotal{font-size:44px!important}
+h2 .big, .big-total{font-size:48px!important}
+</style>
 </body>
 </html>
