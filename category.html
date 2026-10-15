@@ -236,9 +236,9 @@ ORDER2.forEach(function(k){CAT2GROUP[k]='ALL';});
 
 /* ================= 狀態 ================= */
 const params=new URLSearchParams(location.search);
-const cat=CATS[params.get('cat')]?params.get('cat'):'sudden';
 const ALIAS={economy:'econ',medical:'plague',suicide:'departure',security:'social',accident:'industry',drowning:'tragedy',heatstroke:'sudden','ai_safety':'tech'};
-if(ALIAS[cat])cat=ALIAS[cat];
+const _rc=params.get('cat')||'sudden';
+const cat=CATS[ALIAS[_rc]||_rc]?(ALIAS[_rc]||_rc):'sudden';
 const C=CATS[cat];
 let all=[],view=[],timeRange='all',subFilter=params.get('sub')||'';
 
