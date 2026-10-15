@@ -1,11 +1,16 @@
-// 社會 | 由 build_news_js.py 生成 | 共 1193 條
+// 社會 | 由 build_news_js.py 生成 | 共 1199 條
 var DATA_SOCIAL = `
 2026-10-14	鄭麗文提25歲女遭毒蟲割喉 暗批沈伯洋：別模糊毒品零容忍紅線	https://www.ettoday.net/news/20261014/3254522.htm	治安
+2026-10-14	通緝犯毒駕不要命！拒檢狂飆還想撞開車流 桃園保大破窗逮人	https://news.ltn.com.tw/news/society/breakingnews/5606492	未分類
 2026-10-14	罹精神病長達30年！59歲男「染香港腳」抗議皮膚科 不滿洩憤殺人	https://www.ettoday.net/news/20261014/3254450.htm	暴力罪案
+2026-10-14	淡水雙屍》女死者持中國新身分入境避查緝 N字型蜷曲冰櫃中	https://news.ltn.com.tw/news/society/breakingnews/5606309	未分類
+2026-10-14	業界震驚｜加拿大勒索軟件談判專家遭FBI拘捕 涉嫌與ShinyHunters黑客案有關	https://news.google.com/rss/articles/CBMivwJBVV95cUxNektUaTZIVm82OV9uNjR2X0t1dm12QlVXUWxwODZrVERwM09tWlVyMlhzMHBRb0V1RGRDZUk5bk1DbWhDV3ptMVFCdEZOeTJIWXk0MXcxd1FNb2RMTHVpdl9aZjFFdTBwM1VKcWw0amJxWENYekljVzU0d1dRTFMyTGVXMWJlVWRNQXRra3hJX0ZqYXdEVzZ2SWtoNFJEbUhEcDB5eWV0Y1YyQUNmM1E5WjFVRDk1SlhxM0ZKTm5VNEFGODlpQkZhZzVycXpsLUctME9hRFZsQkJUemtiNzVLOWlBNE9qZlI2Q2U0VkxHYzk5WE45STJleTlwTWVUaDRTMmRqT184MmY0dGQxZ2pYa2pjd19MS3lrdWRUZ2Vld2NhQVloV1RuX01tWXhwNDZ0UE9Nc1diSDFkaW95RS1R?oc=5	未分類
 2026-10-14	桃園尾隨割喉焚屍嫌犯驗尿出爐 除了依托咪酯還吸安非他命	https://news.ltn.com.tw/news/society/breakingnews/5606135	未分類
+2026-10-14	俄羅斯以涉嫌從事間諜活動為由扣留日本記者 日方提出交涉	https://news.rthk.hk/rthk/ch/component/k2/1873952-20261014.htm	未分類
 2026-10-13	韓國有超市發生持刀傷人案 8傷1漢被捕	https://news.google.com/rss/articles/CBMigwFBVV95cUxPdGpXYndnem9OMElQMjk1T1JObXVEQ0J6eWs5WXRnVENNTDBXaE5pMlJ4ZS05MER4R0hBSjVpcURnWkwteUFqNE1zemlwbmkwdkcwakJJZktHS0dmTVc5d05SVDNmRU9JOHIzdjlsTHNpRGlmTjBvdExpQlNvcU1EZEFvdw?oc=5	未分類
 2026-10-13	韓國持刀傷人事件致8人受傷 涉嫌行兇男子已被捕	https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtfX3JuWFdNRzlwb01fQjFNN1l0d0JpT1JlUmsxdnQxc0x5ZHZjRG9tSXZSdzZIUGhHb3lnbFd4YmNQUWEzdU53RVBBOTJQX3dicUJTU2I0U1E1ejUweE5uSnZhZlprcjMxclVjLXJEaXJSbEFyUE5QZnNLNFV3SktwY001MGF1OENZLVBvd2c4ZjEzNm91WjNya1ZuanF3NmdxMWVEZUgzX2lNWGc?oc=5	未分類
 2026-10-13	韓國持刀傷人事件增至8人受傷 涉嫌行兇男子被捕	https://news.rthk.hk/rthk/ch/component/k2/1873754-20261013.htm	未分類
+2026-10-13	韓國仁川持刀傷人案最少8傷其中一人心肺功能停止 疑犯被捕	https://news.google.com/rss/articles/CBMigANBVV95cUxNNEZfZkE1YjJDb1FYXzM1TlVMQzhsT2praHlBR0pTUHJwVFljTFBzN2pjZ1hyWlVRX3dTTFlaSElGVFlIN3lZRkxvNTV2a0NWNG1BZHZWcjU0NFNjNk15T3V1MHBmUmh4bE9nTHUyRkZYSFdpZEdUYnZ3SFB2dTJIc1dFVlFwVzdvX2ZKOGJpWFctTzNxLURGazRCcFVhM1dWbWVlemlsc1lvLUVJeEhOQnZCY0JsLWNfY0RiSXBDUFNQQ01EUW5hMS1uOG1SYUNpVFlucmxnMFd3am1zckZLRmpZZlJZWHFpdGp2a0hOTkQ1RTVkUTAxcmltSmhmMFlKTnZITkpnZ21SeXpkY0hUb1pQbHJGSWZUYkhidzJTQ0VsUTI5d1BrZDdKc05UcHl3ZnVVZm95Z1J1eENrVnhEc2tQUFVhd3Rad2loLUJaZlJ0MzFnRV81OVpyZjZvODFXX1JGYnFQWkx3RHFaaFBnd2JCTVVRQU9QY0JVcVZsejM?oc=5	未分類
 2026-10-13	陽光女慘遭割喉縱火！IG最後倩影成追憶 親友痛悼：當個漂亮天使	https://news.ltn.com.tw/news/society/breakingnews/5605098	未分類
 2026-10-13	美知名遊樂園爆意外！ 男搭雲霄飛車「半空墜地」慘死	https://www.ettoday.net/news/20261013/3253530.htm	意外事故
 2026-10-13	涉德朗邨謀殺案 52歲外傭被暫控謀殺罪明早提堂	https://news.rthk.hk/rthk/ch/component/k2/1873811-20261013.htm	暴力罪案
@@ -262,6 +267,7 @@ var DATA_SOCIAL = `
 2026-09-11	北市中正區水源路槍響 一女子受傷急救警方追捕槍手中	https://udn.com/news/amp/story/7315/9748780	未分類
 2026-09-11	克羅地亞有學校發生持刀傷人 涉襲擊學生被捕	https://news.tvb.com/tc/1194700-%E5%85%8B%E7%BE%85%E5%9C%B0%E4%BA%9E%E6%9C%89%E5%AD%B8%E6%A0%A1%E7%99%BC%E7%94%9F%E6%8C%81%E5%88%80%E5%82%B7%E4%BA%BA%E6%B6%89%E8%A5%B2%E6%93%8A%E5%AD%B8%E7%94%9F%E8%A2%AB%E6%8D%95	暴力罪案
 2026-09-11	倫敦持刀襲擊案釀4傷 警方拘捕7人	https://news.tvb.com/tc/1194578-%E5%80%AB%E6%95%A6%E6%8C%81%E5%88%80%E8%A5%B2%E6%93%8A%E6%A1%88%E9%87%804%E5%82%B7%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%957%E4%BA%BA	暴力罪案
+2026-09-11	倫敦持刀襲擊事件4人受傷 7人被捕	https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wQm5UMmxuYVRrb05jczFtY1pmejVoMkZ6M3l5RjJoQURKY2F4ZGhQR2hWN2xYYnBhbzdUUElNTTVEVlItT3dTVXpaNEIxZml4VWJvVVgtalVSaWJWN0HSAWNBVV95cUxNOEl5TDZIT3IwSUxEaUUwMnNfM2ZjU3lUeUtrYUUwT1Q0MEtMa2ZRa0ZBNy1PdzhIOGZ0dWE4eC1LQzFWX2FNdzE1amxIZUVrY3ZLU2lwU1FWNWhTaVNlVzR6MTg?oc=5	暴力罪案
 2026-09-10	泰國東部幼兒園槍擊案一位教師遇害 據報槍手為死者丈夫	https://news.tvb.com/tc/1194330-%E6%B3%B0%E5%9C%8B%E6%9D%B1%E9%83%A8%E5%B9%BC%E5%85%92%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%88%E4%B8%80%E4%BD%8D%E6%95%99%E5%B8%AB%E9%81%87%E5%AE%B3%E6%93%9A%E5%A0%B1%E6%A7%8D%E6%89%8B%E7%82%BA%E6%AD%BB%E8%80%85%E4%B8%88%E5%A4%AB	暴力罪案
 2026-09-10	兩內地男涉6宗爆竊案被捕 針對工廈和倉庫偷現金及金器 (16:53) - 20260910 - 港聞	https://news.mingpao.com/ins/港聞/article/20260910/s00001/1789030022541/兩內地男涉6宗爆竊案被捕-針對工廈和倉庫偷現金及金器	未分類
 2026-09-10	一家破產律師事務所的受托人起訴摩根大通，指控其涉嫌協助律師盜竊	https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T4521RL:0/	未分類

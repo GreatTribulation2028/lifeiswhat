@@ -1,7 +1,12 @@
-// 火警 | 由 build_news_js.py 生成 | 共 1813 條
+// 火警 | 由 build_news_js.py 生成 | 共 1822 條
 var DATA_FIRE = `
+2026-10-15	竹北郵局倉庫區凌晨起火 損失約10萬	https://news.ltn.com.tw/news/society/breakingnews/5606699	未分類
+2026-10-14	逾三百大廈有意安裝「物聯網火警偵測系統」替代方案 消防稱理想	https://news.rthk.hk/rthk/ch/component/k2/1873950-20261014.htm	大火火警
 2026-10-14	港鐵：藍田站今早機房電線過熱冒煙 嚴肅跟進及調查兩日事故	https://news.rthk.hk/rthk/ch/component/k2/1873894-20261014.htm	未分類
 2026-10-14	港鐵藍田站月台有設備冒煙 觀塘綫列車不停藍田站	https://news.rthk.hk/rthk/ch/component/k2/1873851-20261014.htm	未分類
+2026-10-14	消防處聯同其他部門聯合巡查 發現5項火警危險違規事項	https://news.rthk.hk/rthk/ch/component/k2/1873971-20261014.htm	大火火警
+2026-10-14	少1個！花蓮吉安大火一家6口逃出5人 64歲男3樓嗆昏送醫救回	https://news.ltn.com.tw/news/society/breakingnews/5606560	大火火警
+2026-10-14	印尼森林大火霧霾肆虐 新加坡空污破表東帝汶急停課	https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzelRFZ0RlbXpQbVdJU0txN0lxN3ZHSkJlWWpodWlDT2JWcXk0YkdBejFfOUVaY2ZWSThtNFlNWms0TkFOeFgyNW85cThTWVM4andIcUY4Tk5RWWRnREZSWA?oc=5	大火火警
 2026-10-13	高市綠能工廠大火 環保局最重可罰500萬	https://news.ltn.com.tw/news/society/breakingnews/5605290	大火火警
 2026-10-13	觀塘綫列車服務逐步回復正常 藍田站路軌旁火警已處理	https://news.rthk.hk/rthk/ch/component/k2/1873791-20261013.htm	大火火警
 2026-10-13	網絡攻擊｜法國數百間超市雪櫃被調至50度 傳有店舖發生火警	https://news.google.com/rss/articles/CBMiygJBVV95cUxNV0oxU0ViMF92YllBb0EtRmZhZ21VckFQSVhOYjNPd3AwY1kySnJ0SjNmTm1ETzE1Y0Zra3lQeTJjYS1tcDZUUEU3Vy1aa3plX2tHdlBCRmQwbmFxTWVOZHJXNzJ1dTg4NXRENXVReE9GSjlVVWJCRXBLQkE1VFNhZXhUYjlPU0xQd2o5UTI5VjZvSkc2SzJ4eEVHTEVEU0tTb1JRQUZfZFlGZFAyRjBWS1huYUQzYlhKeDg5aDF1NUR5cXljNHFCU1o0anFuZ0xkUloxVHBnWk44N1Vob2E1SGZVdm9TOHVFUGZCQnYtR3pVWVJUMVQ4am9zb3d6YlF1T1pTZEtieTh5YXRvMTY5NkR5QXdReGlqcFpwbWdJeGRCSUpQNmhTYWhmQkFNd2c5T1NMdWZzc1RjZE5HOHBLczMzd2o4YmJCdUE?oc=5	大火火警
@@ -21,6 +26,7 @@ var DATA_FIRE = `
 2026-10-10	澳廣視新聞｜印尼森林大火煙霧致馬來西亞多地停課｜	https://news.google.com/rss/articles/CBMikgFBVV95cUxPNjBvNEF4OVFhYVo5eTJDSXdwZGVtS3g5SzA4YWQyOE5TanZ1VG1JRmxQLWI4WGtLTDBfOXViU3FaOWRKa2hpNGREOGxFRjNUeGdSdU5WMGRyN085OGE2STN6dTNGOW9FY19JbGFSZXdjVGgtUjZVclZleGtNSkR5TXZYWFNKTW9xX3Fpa1RCVi1SZw?oc=5	大火火警
 2026-10-10	楊何蓓茵稱當局會根據宏福苑火災報告指出的問題作改善或追責	https://news.rthk.hk/rthk/ch/component/k2/1873408-20261010.htm	未分類
 2026-10-10	快訊／台南移工宿舍火警！救出10人 30歲男緊急送醫	https://www.ettoday.net/news/20261010/3252169.htm	大火火警
+2026-10-10	印尼森林大火烟雾致马来西亚多地停课	https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp0RUwtMmhReFpRN3hMQVFibGhsR3ltR3NHYzJpS2ttUU5NcnFaTVlwYnZLbjhfTk5uSVg1d2ZVNXZHeldSOEloNWE0Vl9EVnU4VTY4Y0JfTC1YSUN6b05PZGJQcmZlYWlkclAxVy02YXhOWS00QjN5RzdfX0Y3dUhOOFptd1dtaGhqRmVkX2YzZw?oc=5	大火火警
 2026-10-10	北市公寓失火！警消緊衝現場救出3人 1住戶全身灼傷命危送醫	https://www.ettoday.net/news/20261010/3252181.htm	未分類
 2026-10-10	北市中山區公寓凌晨起火 3住戶送醫、其中1女昏迷	https://news.ltn.com.tw/news/society/breakingnews/5601594	未分類
 2026-10-09	綠島垃圾掩埋場上午火警 黑煙密布	https://news.ltn.com.tw/news/society/breakingnews/5600682	大火火警
@@ -1238,6 +1244,7 @@ var DATA_FIRE = `
 2025-11-27	【大埔五級火警·救援簡報】	https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nNzRCN0kzZG45Ump3QmlYR1JZbnJ4VGk4OFQwQ2wzQXA0TnpZUDVrd3VUUHZpS0xCOWk1ZmJOdG1uTXY0aGZ6N0VYeUtxN1NHN2E3M005dDF0RkZs?oc=5	大火火警
 2025-11-27	「樓著火了，我抱著Baby，救救我們」 香港大火菲傭求救電話曝| 國際焦點	https://news.google.com/rss/articles/CBMiXEFVX3lxTE10VkliN1VNQ2x0SmNFYjdrTEVwak8zR2JJajRmWFlyZ3dkRmdnbnFKeUhlTmtTWmVRbFpYbUx1cHh0VVBsSVJRVFlJNUpNWTdqS2hYXzVLQWRTNlRJ?oc=5	大火火警
 2025-11-27	​行政長官就大埔宏福苑五級火警跟進工作會見傳媒答問內容（只有中文）（附圖／短片）	https://www.info.gov.hk/gia/general/202511/27/P2025112700800.htm	大火火警
+2025-11-26	（有片）宏福苑五級火｜37歲姓何消防員殉職另有一消防員熱衰竭送院- 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE1peVNhaGJlZ3NwRkFpTWZnQXIyVWJwOGs4UjU0NHAyOEZRQUtPaXQ0aktGbW9QOWhsTDZTcVJNUko1VGMxc0RlWU5sajVpNTRjWXBpVVM4WV9qbExHSTNybF9NQ3N0U3owWXFnbUFiVlM?oc=5	未分類
 2025-11-26	香港高樓大火13死15傷，五級大火，發生什麼事？	https://news.google.com/rss/articles/CBMiW0FVX3lxTE01Mm9IT0s1NnFqblF0X2p5WXN5OEVOczV0Z3o3UTVfOXMwTTI1RlliZWQ0WXF5SjBDTl9TdXNjUmpDYUdvZWZ5NDR4ZXkyaG5LMHpvT1QxTEZORjg?oc=5	大火火警
 2025-11-26	香港惡火》嚴重五級火警！ 上次是17年前嘉禾大廈大火 釀4死55傷	https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVXZjZXRRcXZGc0VaUVVMUzc0QWE2NU1aQndIdUQ2Y2twUTBYM0I1dER6UW43ejVYNi04dDJBRXp1NC1ieTA0bWJwVHFvX0I4djdieDkwM2ZScXhrX2dDdWtaa1ZkYW1zMVlzcHh3?oc=5	大火火警
 2025-11-26	香港宏福苑大火／火警分六級 最高災難級需動用全港資源	https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JTnNNX3BSdmU1TTd1VGhaRHE0Q2hBajBpckRiOHJtWjViai1lLWtMMzQ4ZFRkWi1UT0FRVlNoeFJwTkxzZndzYWU3Q29FZmhJcl9uUGJuXzlwZjRrbTU1bUoyWdIBaEFVX3lxTE0tWG5NeDhQa01DWVNwaVZyLVFSTFFmVm9sbnVSWDJrSE83NldIZGpyN0lHMzdRdVBFR3RCRjRQUnBXSVA5TFhUSTRJaEtzWmI5elhsazlaWmRGcGI1UWRzVEpjdUtsZ1p6?oc=5	大火火警
@@ -1404,6 +1411,7 @@ var DATA_FIRE = `
 2023-11-29	頭份越南小吃5死火警 初判起火點在一樓	https://news.ltn.com.tw/news/society/breakingnews/4504768	大火火警
 2023-11-25	有片｜灣仔唐樓起火冒煙 2住客吸入濃煙不適拒送院 - 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/7877395008525/%E6%9C%89%E7%89%87-%E7%81%A3%E4%BB%94%E5%94%90%E6%A8%93%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-2%E4%BD%8F%E5%AE%A2%E5%90%B8%E5%85%A5%E6%BF%83%E7%85%99%E4%B8%8D%E9%81%A9%E6%8B%92%E9%80%81%E9%99%A2	未分類
 2023-11-25	巴基斯坦喀拉蚩商場大火 至少11死、35傷	https://news.ltn.com.tw/news/world/breakingnews/4501525	大火火警
+2023-11-14	流浮山三級火警 2消防員不適送屯門醫院治理	https://news.google.com/rss/articles/CBMid0FVX3lxTE1pd3JFTTNBZUJpZ2RsZlk4M1otd0VCQ2FZV2ZyMG85VUlNa1Z1SVZMaWVhbEY4RlZETG5TNkZqTkNZLWh5WUViQXE4VzRMb1F5bVgzWDB4aUF5N3dmc25VcFdJQ3k0WFdUSUZRQldnWGhDVjBIUEMw?oc=5	大火火警
 2023-11-08	桃園4樓民宅失火2死！阿嬤、阿祖不幸身亡 8歲孫送醫搶回	https://news.ltn.com.tw/news/society/breakingnews/4484241	未分類
 2023-11-03	北市信義區鐵皮屋宮廟火警 1死1傷	https://news.ltn.com.tw/news/society/breakingnews/4478454	大火火警
 2023-10-18	危險品超量30倍從未申報、每年安檢都過關，明揚大火燒出消防員面對化學災害的無助	https://www.twreporter.org/a/pingtung-launch-tech-explosion-responsibilities	大火火警
@@ -1752,6 +1760,7 @@ var DATA_FIRE = `
 2019-10-21	【鶯歌三死惡火】暗夜火警釀校長家3死1傷 不排除客廳電線走火肇禍	https://www.mirrormedia.mg/story/20191021soc010	大火火警
 2019-10-03	工廠火災4年奪命13勇消！違建鐵皮廠受檢討	https://www.ntdtv.com.tw/b5/20191003/video/255161.html?%E5%B7%A5%E5%BB%A0%E7%81%AB%E7%81%BD4%E5%B9%B4%E5%A5%AA%E5%91%BD13%E5%8B%87%E6%B6%88%EF%BC%81%E9%81%95%E5%BB%BA%E9%90%B5%E7%9A%AE%E5%BB%A0%E5%8F%97%E6%AA%A2%E8%A8%8E	未分類
 2019-10-03	台中大雅區工廠大火 兩名消防員殉職【更新】	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UUnpOSjFzUkotbVgtb0ExX0N1V1lZdEtXQ0FkWFV4RWo1YS03TVY3WDdRTjdybFdqbFBKaDNNMnZFb3FUVGhfUGRVVndqZnY2RGxEWW5lODY1eFFfVWg0aF9ONnZUdw?oc=5	大火火警
+2019-09-30	【三級火警】北角住宅火釀兩傷 70歲婦陷昏迷 97歲翁清醒送院	https://news.google.com/rss/articles/CBMi-AJBVV95cUxQUDhDYnNDTG1Pc0VQd2tsd2JDRDRQSld2anh3TktyaVRNM1pndHBxUzMwS1RDLVdyS0FGUTh6cjJ5YmttT01pdTByanJDendNUXNVdThteXJ1VUhOSzlBTmtSTVNZRXRSMEV3dlRVVFFXWGQtQWlLWFhQMmZNVTZKWlZTRWVQWUJYTF83dWwyUHJvbnVPX3BRSEpia3NDOW1aSkkwYUFxQWZYSmYxdmljSUJUd1dfajgyUDNpRjhzMlhld1ptODhNb2VlNVFVSUtHMVVNQ1YwM1B2UlFXdXN4dTNTdHcyMFVWdHlfaTJnRjBVUEZxclc0X0NYWHRYYkY0SmtVNnZ2dXNoT2M5WC1hcEF4bnFuQkR6bVFhZHlQQVozUk1MOFZTa0RTRWhqalVxcDBQSnpTc0NXOHdZV0Z4RUd1MGdfUzhhbUpkYS1mVUgtbU9CWmNjVl83d2M4VFdBR0tJVWEyakczMGUxbFRnclhPNGVlbS02?oc=5	大火火警
 2019-09-26	油麻地大廈起火 濃煙籠罩彌敦道	https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGRHcEszbHFMQ1VFczJqY1pTMHRpbnFTN0lsc1BGOXVKeGpodS1mQ3ROazMyMDJtdW9XblBnTWphd053ZFQzZG5tdUdSY19NZHFQT1RQdEJPUGNCT0gwelV3TmJ6OFpiZnF0UmFPSW1TSTBfRFh1SWR5dnFYclZiOF9yQkpZRlhPcGFR?oc=5	未分類
 2019-09-22	宜蘭冬山民宅大火 婆媳成焦屍、5人輕重傷	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPTFU4U3B5clZsY0ZZSVRpTGJQc0ltMGN3elBpWUc0QjJBXzNRMmJFNUdkX09VREtkWGp3OHcxREJ6aDRvM2JuRlc1VDBlcGxXRFpOV2p4V19EbTlZMklWODE5ODZBYUNM0gFuQVVfeXFMTkJJMk9Od3UzQVFYX3Rrc1pMek9SM3VNa3RDcm5INWV2blpkUWhQbjVGbEJXcjNPbm1jX2JPaWFELUtjZEI1b2laNGE2aDJnam5Db2pBQUFxWHZnYjhZM1d3TlRLYllBamJuVUNodXc?oc=5	大火火警
 2019-09-19	印尼森林大火被燒成焦屍「蟒蛇王」死前最後掙扎曝光- 國際	https://news.ltn.com.tw/news/world/breakingnews/2920126	大火火警

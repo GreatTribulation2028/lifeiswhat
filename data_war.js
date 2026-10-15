@@ -1,9 +1,11 @@
-// 戰爭 | 由 build_news_js.py 生成 | 共 644 條
+// 戰爭 | 由 build_news_js.py 生成 | 共 646 條
 var DATA_WAR = `
+2026-10-14	胡塞導彈攻擊 沙特阿美辦公樓起火	https://news.google.com/rss/articles/CBMimwNBVV95cUxQX1VmS1pQakNCVkZIOXJzWjl3MUFXUHYtR1VWaHpwbVFUSGFObmk4RE9XYlg4WDlfUVRlNjlQLXJFSnlGbDU3RU02YkU3cmxsRkxxa1ptbUZsQy1MZHBRSTJ4czhDbUZ5VWUwTFZCd3I1eGwyVGptMWw1NnNGYUJ2UXF4U3VZZzAyRXpRU051Y1RLbkh5em9TMXpGTUo3MnZqaEJnNUYwazhEbjloMkpfT2pDblNDcUQzdUw4V3dRbzBZNFZIY2twRks5eFZSUWgtS1o1WUJrMjVrOWtvSWhLdGVlRUhwMnNrdDJwcFYwZ2xWZXROMlA3MTZpOTM2Uk5DSlVFNXpuU2ZiT080X0NBeGg4YWFNNndlaDI4OVJTby1wSHE2OUpTc0FVTzBUMXhVdFhHMTlBOHMxOGhJRkNVazdDdGE3bkhkNUptY1k2c1lBbmprU0hZbHBJbTBvYzBOZDBuWFdYWnBMUTJvZE80emFxTm1oOXRwVlhXR1I3S0g5dVl0dGFzRTBXV3NtQXp2cnZqUkNzcjI4Q2c?oc=5	開戰衝突
 2026-10-14	特朗普：美國仍在與烏克蘭分享情報 希望盡快結束俄烏戰事	https://news.rthk.hk/rthk/ch/component/k2/1873827-20261014.htm	開戰衝突
 2026-10-14	沙特空襲胡塞控制區 胡塞揚言沙特阿美石油設施將是合法打擊目標	https://news.rthk.hk/rthk/ch/component/k2/1873831-20261014.htm	開戰衝突
 2026-10-14	川普批胡塞武裝猛轟沙烏地推升油價 企圖影響美期中選舉	https://www.ettoday.net/news/20261014/3254136.htm	未分類
 2026-10-14	報道指內塔尼亞胡與特朗普討論重啟對伊戰爭可能性	https://news.rthk.hk/rthk/ch/component/k2/1873850-20261014.htm	未分類
+2026-10-14	也門胡塞武裝大規模襲擊利雅得國際機場及沙特阿美設施	https://news.rthk.hk/rthk/ch/component/k2/1873953-20261014.htm	未分類
 2026-10-13	英揆指空軍基地安全事件極有可能由伊朗策劃 伊方要求拿出證據	https://news.rthk.hk/rthk/ch/component/k2/1873672-20261013.htm	未分類
 2026-10-13	胡塞武裝再襲！沙烏地首都機場延長關閉 全境航班取消率近5成	https://www.ettoday.net/news/20261013/3253501.htm	未分類
 2026-10-13	胡塞武裝再襲沙特首都機場 也門政府軍稱打死950名胡塞人員	https://news.rthk.hk/rthk/ch/component/k2/1873673-20261013.htm	未分類

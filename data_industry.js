@@ -1,4 +1,4 @@
-// 工業意外 | 由 build_news_js.py 生成 | 共 747 條
+// 工業意外 | 由 build_news_js.py 生成 | 共 748 條
 var DATA_INDUSTRY = `
 2026-10-14	失速貨車 上坡疑突熄火墜落邊坡釀1死	https://news.ltn.com.tw/news/society/breakingnews/5606083	未分類
 2026-10-12	台中公益路21歲女從天橋墜落 全身擦挫傷一度意識昏迷	https://news.ltn.com.tw/news/society/breakingnews/5604037	未分類
@@ -230,6 +230,7 @@ var DATA_INDUSTRY = `
 2026-05-21	【投稿】陳錦聲﹕兩宗地盤意外看香港職安困局 - 輕新聞	https://www.litenews.hk/news/17804-【投稿】陳錦聲﹕兩宗地盤意外看香港職安困局	未分類
 2026-05-21	【投稿】陳錦聲﹕兩宗地盤意外看香港職安困局	https://www.litenews.hk/news/17804-%E3%80%90%E6%8A%95%E7%A8%BF%E3%80%91%E9%99%B3%E9%8C%A6%E8%81%B2%EF%B9%95%E5%85%A9%E5%AE%97%E5%9C%B0%E7%9B%A4%E6%84%8F%E5%A4%96%E7%9C%8B%E9%A6%99%E6%B8%AF%E8%81%B7%E5%AE%89%E5%9B%B0%E5%B1%80	未分類
 2026-05-21	32歲男為恭醫院頂樓徘徊1小時墜落亡 院方聲明：非住院病人 | 社會 | CTWANT	https://www.ctwant.com/amp/article/481995/	未分類
+2026-05-19	工業意外｜一日內兩宗高處墮下事故 九龍城冷氣技工墮亡據報工作時未戴安全帶	https://news.google.com/rss/articles/CBMi3wNBVV95cUxQcGQyOHJmR2VOaEo3bUg4NHl3SmlnTHk1Y3MwQnVzUFBwMXhIb3FqZ3dPVGFBSHBrdkxkQ0I0Q2dXX1lWRXJSdUtGZVBfaXZOM29iZVNwMnVGbXZIaXBrMmlHbGtMSGxsb01hTzFxNGFqOGtFbzFXVWM1Y1hGa3dwQmtWZ0MtdGNFdDZqOGRra29jLWoyWURnVDlXSEVoSUZONTd2cWx0SE4zXzdpQy1fY1BxaTFYRG1pYWF4NWNTSGp4b05FTmpmaXFZTjYzUVlFdGZNZ1NDTGlXMEF3YnFJZGdKR3NBSmpONi1aSkhISlVBOWJuTVdDQm9FSm1QUXpNUE9SY3hFYjRVbC1uT0tjRWVvcXJ3cHV5djdxUWxXcXBEa1hxVUwyRWI3a0RjVnNHZkpZSHlxOE85MldBaTJGanB6SzhpVzlaLVdtVkh4QnlTdVJvZXJsaHFCZWJDVTBUZjJMNmJOWG95OHdJZjI0dllnR3F3eUQtQ2lVVThEVDRoRGUxSklzRG9YWjZpLXFGNE92MVZnRldzVUU3dFVaaWZEcGFjUDUxRUlfQ0ZraW1BNjRmV1dFdmUwbzFIVDFvdjlNVkM4QnZUNTZiVUktR05iZWk2N2ptU3ppS0tDdw?oc=5	未分類
 2026-05-19	來稿｜應作「安全示範工程」的政府地盤 為何屢爆工業意外？	https://www.hk01.com/01%E8%AB%96%E5%A3%87/60351316/%E4%BE%86%E7%A8%BF-%E6%87%89%E4%BD%9C-%E5%AE%89%E5%85%A8%E7%A4%BA%E7%AF%84%E5%B7%A5%E7%A8%8B-%E7%9A%84%E6%94%BF%E5%BA%9C%E5%9C%B0%E7%9B%A4-%E7%82%BA%E4%BD%95%E5%B1%A2%E7%88%86%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96	未分類
 2026-05-19	九龍城冷氣工墮樓｜38歲男技工十多樓墮下身亡 勞工處派員到場調查 暫列工業意外	https://news.hket.com/article/4131157/九龍城冷氣工墮樓｜38歲男技工十多樓墮下身亡 勞工處派員到場調查 暫列工業意外?mtc=10012	未分類
 2026-05-18	北大嶼山醫院地盤致命工傷 寶嘉建築被罰逾15萬元 (18:59) - 20260518 - 港聞	https://news.mingpao.com/ins/港聞/article/20260518/s00001/1779100673124/北大嶼山醫院地盤致命工傷-寶嘉建築被罰逾15萬元	未分類

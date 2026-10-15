@@ -1,15 +1,27 @@
-// 交通 | 由 build_news_js.py 生成 | 共 2994 條
+// 交通 | 由 build_news_js.py 生成 | 共 3008 條
 var DATA_TRAFFIC = `
+2026-10-15	吸食喪屍煙彈開大貨車自撞電桿、鐵皮屋 物流駕駛判刑1年半	https://news.ltn.com.tw/news/society/breakingnews/5606734	未分類
 2026-10-14	青馬大橋4車連環相撞 5人受傷	https://news.google.com/rss/articles/CBMi9gFBVV95cUxPenFScGFaODQ1eXozRzAxc01zbzNvaEtDajZha1o4MjktMlRaVGdWTHhXOXNuLWlHb2s2U0k2R0loejFRM2ZGSGZOTUlHU2NEbmdPT183MEs5R2VnWkNEb1NxdHRQZ3dnMVFmbkE3V0p0VDNlNVk3b1dwQ2ZJSGlkYm5aZG1IVkNydUZnSDdZSkg3Mkp6TVdCdl82YnRuaVVnWVFRVVJxVjZhRGxfcHUzQmhNU1d1cGwtdFAzTHRDbHZyNE4zN2h1aDB3d3NTdTAwb29LRndydWc1bW0wX09MQkd6Ukt4VnRqdkpDczFHeWt6Z0l4RHc?oc=5	未分類
+2026-10-14	里港鄉里港大橋交通事故里港分局查處	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Wa1VOQ3JRZTRLYjRjLXdRZFJ0NE1hWHZzZ1Y5ckxnek1Pa0ZmQ3JFdEVIWW51S1RrY3dONmNXUi1ZRWpRdkxXZzJCQTNWYl84YVE?oc=5	未分類
+2026-10-14	避車急打左擦撞砂石車 里港大橋小貨車翻覆駕駛送醫	https://news.ltn.com.tw/news/society/breakingnews/5606388	未分類
+2026-10-14	蘇花改嚴重車禍！5車連環撞 砂石車、遊覽車「夾擊小客車」釀1死	https://news.google.com/rss/articles/CBMiV0FVX3lxTE11UlZPZEdSMGFuYWd5bzNRbEdfb00xZEZ0RzJtOUczOHYzTWV0d3VCc0IzYWhLamZ6U1RVd0R0REZ4U1drS2xwbmhSZXVBM0xjd3hVcF9XZw?oc=5	車禍
+2026-10-14	蘇花改南澳段5車連環撞 轎車遭2大客貨車夾擊 70歲翁無生命徵象	https://news.google.com/rss/articles/CBMibkFVX3lxTE5taFRLQ0tKVkcwWUpxRVRPSEQ4ZGg3M3FZU0RvcC1Zd2pvWDBjQzczcnZsX1Q0Wnk4bW9iY3UxTXlwTnBhSVI0X2hwZTQwY3dwRnZfMVZEeHhHOWxJUlhoUndnZ2pBVm42ZFA1eklR?oc=5	未分類
 2026-10-14	港鐵：接駁巴士正行駛來往觀塘至油塘站 中途藍田站乘客可上下車	https://news.rthk.hk/rthk/ch/component/k2/1873861-20261014.htm	未分類
+2026-10-14	港鐵重陽節周末加強東鐵綫及K52A巴士等服務	https://news.rthk.hk/rthk/ch/component/k2/1873939-20261014.htm	未分類
 2026-10-14	恐怖掉落物！大木棍橫躺國1彰化段 8車連撞車頭慘毀	https://news.ltn.com.tw/news/society/breakingnews/5605758	車禍
 2026-10-14	快訊／上班快改道！ 國1「2車追撞」塞爆	https://www.ettoday.net/news/20261014/3254161.htm	未分類
 2026-10-14	巴士營辦商申加價 陳恒鑌盼審議時平衡各方包括顧及市民承擔能力	https://news.rthk.hk/rthk/ch/component/k2/1873932-20261014.htm	未分類
+2026-10-14	士林嚴重車禍！70多歲男暴衝連環撞3騎士慘摔 賓士、奧迪戰損	https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yUmI4N2xteVZ5OVk1SDFsSkFmYTBRb09lTkpnQks5N3F5dEtVV0MxUWZrSUxWX3lGemRXYjIyRGNmUkV3aERZQ2Nna2NmbFR2eF9CU2ZKcHVPUDFsdFHSAUtBVV95cUxPRlBzM2FXUDFWZFk1S2V1NmJHSXNCdEtRdENjU3JVYXlRN3ZvaWNRUEJLVi15Q0NXZTFmWk45YmwxMzhHRnNmc0hpT2c?oc=5	車禍
+2026-10-14	在壽比路與合成巷口發生2起交通事故案	https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rWDZJT3JxSW9JQWhLczUtdkM5dnRZLVNoSEVfMFFsTjhzZEVCUkJsdFQ0bjRoa1FPSFpablg3SmdrSXpfNE45ZE9ZVndMaDVoZlFuNw?oc=5	未分類
+2026-10-14	國道3車連環撞！一度塞車	https://news.google.com/rss/articles/CBMiVkFVX3lxTE13V2FZU01BZFhSeDQzMHhidVRXM1RtUl8ybEFVV0RtSkRucEwwVWcwZVZnbG5UWnZ2cTcxdjA3czgtN3ViNF9jTWtNc1JGaXA5YmcyenJ3?oc=5	未分類
 2026-10-14	國3南向清水段聯結車擦撞 車上載「化骨水」化學署急到場	https://news.ltn.com.tw/news/society/breakingnews/5606080	未分類
 2026-10-14	台灣大道轎車違規迴轉 害3車追撞1乘客受傷！驚險畫面曝光	https://www.ettoday.net/news/20261014/3254552.htm	未分類
+2026-10-14	台9線「驚悚5車連環撞」 砂石車追撞4車釀1死	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oVDQ2RFFQZzJPNWcySlFVenpTZjN0Y2dOb0xaWGRKa29PQngxMVZHMXdRY2Q5T09PbDNuRVpVd3I1c3BfUHhNcVlaMGZ3MTdRbFFONGc2RkVueVBBZk5CaA?oc=5	未分類
+2026-10-14	友誼大橋交通意外頻發 「一刀切」禁鐵馬更安全？	https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGOXU2UTM5YXlxV096LVNicXpnSXBjWmpEc3JadWNiUG1lQUxKWVJ5TXlyQ2M3VnB0VnpCdWEyaVgwMXZ3SDRkN1VxeWdYRjFYYW9J?oc=5	車禍
 2026-10-14	倒車撞倒機車扶起以為「沒關係」 吃罰單還要吊扣駕照1個月	https://news.ltn.com.tw/news/society/breakingnews/5605381	未分類
 2026-10-14	人命剛沒了！北市女騎士撞死人隔天吸安 辯「腦袋很亂」下場曝	https://www.ettoday.net/news/20261014/3254153.htm	未分類
 2026-10-14	中和男騎YouBike遭猛力追撞！「頭部重創」亡 車殼嵌入轎車車頭	https://www.ettoday.net/news/20261014/3254179.htm	未分類
+2026-10-14	【嚴重車禍！70多歲男暴衝連環撞3騎士慘摔 賓士、奧迪戰損】 這一撞好貴。(#起啵)	https://news.google.com/rss/articles/CBMiygNBVV95cUxQdnd2YmZ1V3ctb3JUNHpaeU92WmkzN3NMQU5CY1hSSzhTd0VpRGVrSW54R1Utd0RTVFFyMkwzQ2J0aXZxaXlVMzljT3F5d2NFcmZCYi1CQlFUODlKbHpuOUM0RjBraER1MHBUQWZJX3hkSFFlaHVqSmdoWWRTcm0waVJxSXBxWEFndjRtUUNBUkhrampEZ0hxVlVsUl9vN1FJTjVaeW9JTXFsTDhlM1h2NWM1cF9jT29WRDQwVGM3R3loVS14NVByN3A5VEJ2SVlTbVE1WnlFN3F4VFR0azlhaVdjM0NwZV9NX19RbEc1Sm5aSVBvOUN4SEtjV1ItRE1kSzliZGJ1VE1zbF9XT1o4NmFOTFFTWWRzWHNkYUc0UE5Yd3ZLTmY5T3N1bHFSaVdaUlg1RGNSQThRNDNMVkd6ZWVzVG5SZjRMUzMwclZDNF9RUkxPUDlEZkdEa0hLNGlpVnpHS2tTV2hQS0lYcXR1azVDeFpuTEV1YTFTMUYwVzZLd1V6d1ZFRUprZXVPaVlZcTcxNHNCZXlac3luTC03czJzSDBkczJkT0c3S0pGTTVMQ3ZGWm16c3hBSzBfZTliYm9ubURJU1dSZw?oc=5	車禍
 2026-10-14	4間巴士營辦商申請加價 加幅8.1%至17.7%	https://news.rthk.hk/rthk/ch/component/k2/1873896-20261014.htm	未分類
 2026-10-13	沈伯洋指公館圓環改造「1個交通事故熱點變2個」交通局回無具體事證但也沒說原因	https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVGNWWFA1NVY1d05JYlNtaF9MRGFmZl9aRmRfZHZoRWxRVXdqcWhSVjZGazVybFBBLW5ocG1TdWZGV2pxUXh0aks4b05NVmJNc2gyem90LUtweHFmZmF4RkhMVEk1V2dIMFHSAW9BVV95cUxOWjdiYk5uRDZ5WFE5NlYzemRCaEpReTRCZC1sT0ZHbnVSWEs0ZlZJcmpTUTVIMHotd3IzN3V0bXhlbGVkZTFWZ0o3RGRJRm4yWmZwTUlSblRNbDg4NWtzYkVHemhWSmY2RS05MlVqbTQ?oc=5	未分類
 2026-10-13	新北前7月交通事故164死年增19人 侯友宜要求強化交通疏導	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VLWdZT29QR05yR25ZUjlRbjZVM3VieW40SzJ4RG5pWk0wbGxHb3c4TXhkVFh5ZnJ0ZDZBVzl4R0t2S3ZyTkRiRHFsYzJSaF9H0gFWQVVfeXFMTmlaYlU5SUFKc0lzazF1SXNVY2x4ZnhOSFNjWFk4VkhxQjNHeEw1eFBpSl9CTWsyME5NOGZZMHRJRHRkUVQtdGxiLWg5WmVubVVEc28zWGc?oc=5	未分類
@@ -719,6 +731,7 @@ var DATA_TRAFFIC = `
 2026-08-18	土瓜灣美善同道七旬翁捱復康小巴撞 留醫5日傷重不治 上周四（13日）上午10時許，土瓜灣美善同道與落山道交界，有一輛小巴撞到一名老翁。75歲姓黃男傷者重傷昏迷，由救護車送往伊利沙伯醫院搶救，留醫5.	https://www.hk01.com/%E7%AA%81%E7%99%BC/60381321/%E5%9C%9F%E7%93%9C%E7%81%A3%E7%BE%8E%E5%96%84%E5%90%8C%E9%81%93%E4%B8%83%E6%97%AC%E7%BF%81%E6%8D%B1%E5%BE%A9%E5%BA%B7%E5%B0%8F%E5%B7%B4%E6%92%9E-%E7%95%99%E9%86%AB5%E6%97%A5%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB	未分類
 2026-08-18	土瓜灣美善同道七旬翁捱復康小巴撞 留醫5日傷重不治	https://www.hk01.com/突發/60381321/土瓜灣美善同道七旬翁捱復康小巴撞-留醫5日傷重不治	未分類
 2026-08-18	土瓜灣七旬翁捱復康小巴撞留醫5日傷重不治- 港聞	https://www.dotdotnews.com/a/202608/18/AP6a84795ae4b04b6c5d37112d.html	未分類
+2026-08-18	台東驚傳計程車翻覆事故！車體扭曲變形駕駛受困 警消緊急破壞車門搶救 | 三立新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSN0V6MEc4bnJfaXp6cDE4WGtDZTNRQWtfQnJ0SlJVLXAzTExMV09PUzZidGNQQ1h0bHZVZmlteWcwdzVMQ29VQVN1aWU5cTU1Mkh2eHdB?oc=5	未分類
 2026-08-18	台東驚傳計程車翻覆事故！車體扭曲變形駕駛受困 警消緊急破壞車門搶救	https://www.setn.com/news/1891183	未分類
 2026-08-18	參加夏令營玩水上滑梯 日男童遭後方兒童高速撞擊亡 兩職員涉過失致死被罰款	https://www.bastillepost.com/hongkong/article/16542360-參加夏令營玩水上滑梯-日男童遭後方兒童高速撞擊	未分類
 2026-08-17	灣仔兩私家車相撞 女乘客一周後亡 休班警被控危駕保釋候訊 (14:48) - 20260817 - 港聞	https://news.mingpao.com/ins/港聞/article/20260817/s00001/1786949028579/灣仔兩私家車相撞-女乘客一周後亡-休班警被控危駕保釋候訊	未分類
@@ -2622,6 +2635,7 @@ var DATA_TRAFFIC = `
 2023-08-20	【大榄隧道车祸】53岁司机下车时遭货车撞毙 货车司机涉危驾被扣查	https://news.tvb.com/sc/842683-大榄隧道车祸53岁司机下车时遭货车撞毙货车司机涉危驾被扣查	未分類
 2023-08-14	8位臺上忽然暈倒藝人 吳大強合照後腦撼地薑濤Anson Lo過勞送醫	https://www.hk01.com/article/929718?utm_source=01articlecopy&utm_medium=referral	未分類
 2023-07-23	黑龍江一農用飛機墜毀 2名飛行員身亡	https://www.ntdtv.com/b5/2023/07/23/a103753540.html	墜機
+2023-07-12	快訊／娃娃車翻覆事故！對撞小客車 11幼童送醫	https://news.google.com/rss/articles/CBMiVkFVX3lxTE04OGNEUVpqN1NaZDNtUUdnbjV6bXJwY2FpdG9WWHVfQVBabGtwOUlUUEZwUEhzcDdRSUtycnBoUFFxQkdrRmEzQm1CeGlaWkx0ajlYLUdR?oc=5	未分類
 2023-07-09	文锦渡口岸暂停通关北行方向暂时封闭 过境巴士服务将改经香园围口岸出境	https://news.tvb.com/sc/845128-文錦渡口岸暫停通關北行方向暫時封閉過境巴士服務將改經香園圍口岸出境	未分類
 2023-07-09	文錦渡口岸暫停通關北行方向暫時封閉 過境巴士服務將改經香園圍口岸出境	https://news.tvb.com/tc/845128-文錦渡口岸暫停通關北行方向暫時封閉過境巴士服務將改經香園圍口岸出境	未分類
 2023-06-24	北市停車場意外連人帶車墜地下3樓受困搶救中| 社會	https://www.cna.com.tw/news/asoc/202306240210.aspx	未分類

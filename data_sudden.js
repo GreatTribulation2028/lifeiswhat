@@ -1,6 +1,9 @@
-// 猝死 | 由 build_news_js.py 生成 | 共 5075 條
+// 猝死 | 由 build_news_js.py 生成 | 共 5079 條
 var DATA_SUDDEN = `
+2026-10-14	蘇花改5車連環撞事故 遭夾擊副駕送醫不治	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JR05vWF9QSGxqQzBkN1hXay1pUkpTaVN3SV9lSFl0bGxlOC1hS2xYU19nZXExaG8zLVl4Z24yaU9RZXJiUDlvQzJOR1JCaGM?oc=5	未分類
 2026-10-14	快訊／台9線轎車遭2大車夾擊成廢鐵 副駕男夾困1.5小時送醫不治	https://www.ettoday.net/news/20261014/3254508.htm	未分類
+2026-10-14	快訊／台9線5車連環撞！小客車遭大車夾擊 1男受困1.5小時搶救不治	https://news.google.com/rss/articles/CBMi7wJBVV95cUxNeERhWXd0NkI0VnF1aC1xeWx0RFA2R1JnRnlsclBXdHN2LTcwTTBBUElYSlpvdmZGTEYxMVBFYmtlLWU4WG5TeW4wbHQwUVFpUC1fM3Mxdl90c2pUQnFaV09QSnVrU3Y3QWZlMVpUQ0tlS2FpOWVlU1lXOVk1OUloYk4wZDNac0VnamJpNDVXTC1hdVZLZjFVejFzZTJ0Szhuc2dScjdQZi1mMjRfZDZ0d1JyWUt0WGFIVW9ubXFBUWxMMHd5cUo0Qm1NUHE5bFdKWG9WNTlBWFp3Y21WM2hfdmlSS1BnYmRrODJVNWIzd2k5amxnVEdKRG9ORXlZQjVxZmtmZlZCVDBPaDNSX3pVZGJMVmZjU25FN3dVMTJFRTNrLWNPeXo3QlBKOEh5dHZBVUdESk95NVpJOEVjdDBVUFVsWFMwUlp3bWwyeUFybzEteHFPUzUxT014cThyelZoTkowbEdjbFJiQ3loNmVZ?oc=5	未分類
+2026-10-14	影／蘇花改5車連環撞休旅車遭大車夾擊 副駕座男OHCA、4人受傷送醫	https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SMWZiZEJMYkdEQmVzcWdxNWNGWW1WUXZEa2RxcDFkcl8tdWczS3RrV0ZCZkthWnhXaGFTSUFPRzJtZ2twTGxNcmpfeUVPajFu0gFWQVVfeXFMTmRTcEVCRENuUExzbm5vOXdBdno5clNDeDVJU0FDY0N3WHpRYkx4R0xYSEVwTjlzcjUwWXhZVW1qTm9tTDJOM01qdHBHemxyQWw1NHd2ekE?oc=5	未分類
 2026-10-14	37歲男子騎機車掉落豐原角潭路圳溝 送醫不治	https://news.ltn.com.tw/news/society/breakingnews/5605439	未分類
 2026-10-13	韓賣場刀漢行兇 有人心臟驟停	https://news.google.com/rss/articles/CBMiwgJBVV95cUxPVml2Q2w2UjNBUU81cGw1SDByb1BFYnQwcHl0MmdpTVlBckl6RHNsX284VVFBZmR2V0lsX3p5RC0yQWxCUEVlOWFPekQ0ZVRiVUtpZG92T0JzX2hsblhBaFhHY21uVU5GSDAxQ0hhNjRuYjI2eEIyNkxIYjFkR2kxaS1EUFowM0d6NThLcVNZTnRCZFRvT1Z6cWdnNFBCZkFWZWhlczJsM2pMNVFYNGNwbDRyMUgwR1BWQ3c3QUFiWEpIUzBXVnBYUU5lcjZuVEJ6NUNCX213eVdTVWE0cHY0Q0tJNENaWWFFa185VTNzc3BjZWZfeVN2S052Vnl3V0Zsbm8xcmdGTXZFY25WalNXOF9nUHhWTEJDTTRpdG5oNlhTdDF4VXVvY0ctdGRDRTRSSzVEZ2xMcjd5QnNQaDYwVTdR?oc=5	心臟病發
 2026-10-13	韓男雙手纏刀闖仁川超市狂揮傷人！顧客奮勇制伏 8送醫1心臟驟停	https://news.google.com/rss/articles/CBMib0FVX3lxTFBJLXdwTEpVX1A5YVFIa1Z0UnpjMWRMNjZiY2hEelNxNW0xRU5KZ0NvYWtiMjA5TXRmUTF3WDVxYUpqT0tCOWdkR1Y2LVJCRnBhaFhHTDd1N3pLR05LUy1oTkhOaDN6RV9ITTZrMjhNUQ?oc=5	心臟病發
@@ -1504,6 +1507,7 @@ var DATA_SUDDEN = `
 2026-06-01	杏花邨16歲少年吸「太空油」猝死 18歲友認吸毒判感化15月	https://hk.epochtimes.com/news/2026-06-01/52564831	未分類
 2026-06-01	日本一名20歲學生因食用放置長達5天的剩菜義大利麵，結果引發嚴重食物中毒，最終器官衰竭不治身亡。這起令人震驚的事件，再度讓「炒飯症候群」這個致命威脅引發廣泛關...	https://www.nownews.com/news/6842200	未分類
 2026-06-01	屏科大大冠鷲寶寶「鷲星」直播中暴斃 鷲媽媽1舉動觀眾全程目睹心碎	https://tw.news.yahoo.com/屏科大大冠鷲寶寶-鷲星-直播中暴斃-鷲媽媽1舉動觀眾全程目睹心碎-193103687.html	未分類
+2026-05-31	慘遭同事氣死算職災？韓廠長激烈爭吵「腦出血亡」 法院判決出爐	https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zakxLWDNZV3VnTERPMkduLVp1a0lwY2JaUmpMLW82b3pEX0oxajc0dnQyRTIydGJGSnJYQnFTbjcxbUtpODFaQy1MSkNjMDlKUFpta01MR1BHQkNjNFHSAUtBVV95cUxPX0hJcFVaRE1rLWxlamI5N0ZQWTh4U0w1R09JWEpOcE5NRVlIdFlwX2dsUnRIZFVQNWQyZ1lRYzNzTDBzQVcxcFJxaUk?oc=5	腦血管
 2026-05-30	高血压男子健身猝死 健身房判赔10万 健身风险告知不足	https://news.china.com/socialgd/10000169/20260530/49521798.html	未分類
 2026-05-30	在押陸公民在菲移民局監獄暴斃陸使館提出嚴正交涉	https://turnnewsapp.com/livenews/chinav3/20260530000973-260409	未分類
 2026-05-29	被扣押中國公民在菲律賓監獄猝死 大使館提嚴正交涉	https://www.bastillepost.com/hongkong/article/16084095-被扣押中國公民在菲律賓監獄猝死-大使館提嚴正交	未分類

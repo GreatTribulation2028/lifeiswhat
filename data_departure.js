@@ -1,9 +1,12 @@
-// 離世 | 由 build_news_js.py 生成 | 共 10267 條
+// 離世 | 由 build_news_js.py 生成 | 共 10271 條
 var DATA_DEPARTURE = `
+2026-10-15	板橋社區驚傳女子墜樓身亡 疑遭詐騙將相驗釐清死因	https://news.ltn.com.tw/news/society/breakingnews/5606703	未分類
+2026-10-15	割頸案遭乾哥律師罵「法律人之恥」 楊家律師還原過程	https://www.ettoday.net/news/20261015/3254825.htm	未分類
 2026-10-14	肺纖維化「比癌症致命」 新藥可降死亡風險6至7成	https://health.ettoday.net/news/3254553	自然離世
 2026-10-14	校園割頸案律師主張清查財產 楊父批荒謬：被害人有錢就不用賠？	https://news.ltn.com.tw/news/society/breakingnews/5606177	未分類
 2026-10-14	快訊／台中私校女高中生沒去段考 漢神洲際墜樓身亡	https://www.ettoday.net/news/20261014/3254530.htm	未分類
 2026-10-14	台中草悟道兒童遊戲區驚見女子死亡 民眾嚇壞報警	https://news.ltn.com.tw/news/society/breakingnews/5605571	自然離世
+2026-10-14	台中怎麼了？ 12小時內接連發生4起死亡案件 引發網友熱議	https://news.ltn.com.tw/news/society/breakingnews/5606352	自然離世
 2026-10-14	割頸案家屬捐500萬遭疑「轉移資產」！ 楊父悲憤：不想用承勳不幸換取利益	https://news.ltn.com.tw/news/society/breakingnews/5605749	未分類
 2026-10-13	隨機殺人魔「跟25歲女回家」割頸焚屍！最後身影曝光	https://news.google.com/rss/articles/CBMiygJBVV95cUxPR2M1UlJzb2hBQnhvb2hkWThhYVNzMi05OFIzeHlXNjBYQmFQY0FwcDNmZ2o4QXVoeThGYmZTbEd4R2hiTWlrOFRiNnZ1ZmU0bnlmRHZVSzljQVdPekVObDRYUF9YSUwzTzRFWmVNUS0wNy1HTHVfeXA3VzRJazZuamRMckpNQ3p5bnlwdGhzT0xJQXEtODRmRVhZN1dWRGxkSDltNmpmcjMxMXVGXzJOUjJJWU10d0x5WEtoXzFnMURfX19uNnp2TV9WbXFNd3pXZW9HekNEcHJvb0I4UHk3R0gyRkZBNVc3eGpsVVV2TTJQSGlZNHRsMkJHSjZ0Snp3amFjVUZoM3JqQk5IMmdTN2VJYWFfZDZqWjJTb2tzZ0xfOVBJTDkwZThSbFlqcW1UQ09ZOVFFZU93ZktkcURKX2hqYjNTa082WkE?oc=5	未分類
 2026-10-13	狠父涉槍殺兩名幼子後企圖自殺	https://news.google.com/rss/articles/CBMikAFBVV95cUxOZk5xMkhiRGJYcHRPN0pINU1aUDNjSDdRNWUxRC13X2F6MlJTa0RjR3o2T3FLRUZrTVdBbUI4VjJlTEFVTF9FVkNHMzA3Q1B2S21udWtxQ0dsZ0J0Q1FLYzg3a2h3WjNyanlrZlNPMXEwc0M2T2NOUzNldG5wd240U09kS3pZUXVqbk96bklMTWc?oc=5	自殺
@@ -7247,6 +7250,7 @@ var DATA_DEPARTURE = `
 2024-12-12	中國海關總署長爆「飲彈自盡」！媒體人揭「輕生導火線」相關報導急下架中共回應了| 古靜兒| 風生活	https://www.storm.mg/lifestyle/5290995	自殺
 2024-12-11	金龍顯自殺未遂韓法務部：目前他身體狀況暫無異常- 國際	https://www.tkww.hk/a/202412/11/AP67590f87e4b0f8a56f79d4a3.html	自殺
 2024-12-11	金龍顯自殺未遂 (11:01) - 20241211 - 國際	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20241211/s00005/1733886108762/%E9%87%91%E9%BE%8D%E9%A1%AF%E8%87%AA%E6%AE%BA%E6%9C%AA%E9%81%82	自殺
+2024-12-11	網傳飲彈自盡 中國海關總署：署長俞建華因突發疾病離世	https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnY0xsZS1taG9Bc3VyNmlCeFAxdnBzTm1ReE5GaDRoQ09ZQmtEXzBTQko4cjUtUjAxMlNvb0FFVW1fOVJIc1RpYjJxRmJNT1BRbDFXM1RpWHlsaVhzX0pUSnZqWGZxd9IBa0FVX3lxTE1ERF80azdqcFk0eDY1RTZoejlrYi1uOVU4T1p3Nm1GRHhmWWVRU21DVGNaY0MxYVBHdUZvZllIanpabG1qaEx5YnktMm9aZ1dFTmNLUWJMcGlvZHBmaUxwZkNmOGFzelFwN1FZ?oc=5	自殺
 2024-12-11	珍惜生命｜屯門友愛邨男子墮樓 當場死亡	https://www.stheadline.com/breaking-news/3409694/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E5%B1%AF%E9%96%80%E5%8F%8B%E6%84%9B%E9%82%A8%E7%94%B7%E5%AD%90%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1	自然離世
 2024-12-11	珍惜生命｜元朗欖口村路小學12歲男生墮樓 昏迷送院搶救不治	https://www.hk01.com/article/1084030?utm_source=01articlecopy&utm_medium=referral	未分類
 2024-12-11	中國海關總署署長傳飲彈自盡 官方訃聞稱「因病去世」	https://www.taisounds.com/news/content/84/162434	自殺

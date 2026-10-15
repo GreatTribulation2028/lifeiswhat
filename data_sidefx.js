@@ -1,5 +1,7 @@
-// 藥物副作用 | 由 build_news_js.py 生成 | 共 295 條
+// 藥物副作用 | 由 build_news_js.py 生成 | 共 297 條
 var DATA_SIDEFX = `
+2026-10-15	精神不濟別只當太累！年輕上班族失去意識 竟是胰臟腫瘤惹禍	https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UUU5DM2RHVXl5ZjBzb1B6NjJtOUk4NzZueWhXUVRCQ1hmb1RjU2FSSHZ4bUZXZHRGNjVHbVZXUThQUVpGRzFnZEhfM3BEVERGRGduNjd2MEtMdVVHT1pJc2RScw?oc=5	免疫癌症
+2026-10-14	立康生命科技將亮相2026阿布扎比未來健康峰會， 展示個性化腫瘤免疫治療創新進展	https://news.google.com/rss/articles/CBMi5wJBVV95cUxOMDQ3a0JFMmRWcE9kX0xoN05EMkVYWHRQT1VqdnotRmhycWdwQW9vX2daaUZVMkk0QkliR1JwY2FkUHVOVU9nNHpmZFlQT0FtQ3RvbEcxaDg1M1ZnVDJVWkYwT0lLNzFJdUJsVm9mSkt6dno2NE5NQkU0SGt3YlJhbmMwZzJwVFpWZlVObnRIYzhESkpqaVJ6Vjd1ZWZBUnhKaGd2djdPRmR5N3U3OF9nRmpPYlNYSFpXYXgzVUdCX0FRNm10UlhYQjJiVmRsbDN0cFZLRU1KaVVMZG9HN2s1MmwzZG9YNWhPaWEwN3RhbWdEOWx5TlNJeEtnVnNUOGVQajJEU1d1aWxOV1U3WEFYa3hLNjlIR1hxN1Q1cVhUOVFPSlpkQVdnVm5fc18zaVhJMUQ5UzltcWRmNlpOUjBEYnRoaTl4X3hqaklVQTFTZUhLMkRoOGNqaWtvc1RhZTcxVmJMYTVrWQ?oc=5	免疫癌症
 2026-10-10	莫德納股價創 52 週新高：入選那斯達克百大、癌症疫苗進展雙利多	https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkhieDdQaHpDSHpJT0RxZG9wWlNxbVVYbEJyaEFoRGx5ZEpGWUNpTVJsNmFBbTNKaG5xc2dtMWJMd3B0SUxVQ01CUFQwMmRVM3c1SkVVOGlRWVF0MF9JVEdDMVpzS1M4NjdUNXlLZllYdWhENy1LbDEyNWllbXhXb0QwQ244U2x2OGZWMw?oc=5	免疫癌症
 2026-10-10	懷胎18周發現骨盆腔長8公分腫瘤 勇媽撐到足月自然產才切除	https://health.ettoday.net/news/3251513	免疫癌症
 2026-10-09	話到嘴邊說不出 腦霧還是失智？	https://www.epochtimes.com/b5/26/10/8/n14866457.htm	代謝神經

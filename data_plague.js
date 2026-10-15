@@ -1,7 +1,8 @@
-// 瘟疫 | 由 build_news_js.py 生成 | 共 1095 條
+// 瘟疫 | 由 build_news_js.py 生成 | 共 1097 條
 var DATA_PLAGUE = `
 2026-10-14	流感疫苗接種計劃至今接種70萬劑 盧寵茂冀接種率可較去年更高	https://news.rthk.hk/rthk/ch/component/k2/1873874-20261014.htm	瘟疫與疫苗
 2026-10-14	剛果民主共和國本輪伊波拉疫情確診病例增至超過9000宗	https://news.rthk.hk/rthk/ch/component/k2/1873819-20261014.htm	瘟疫與疫苗
+2026-10-14	【錯誤】美國屍檢研究證實74%死於新冠疫苗？研究論文遭撤稿！去脈絡影片再流傳	https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dTdmYnVhQWdhTXF4SktNUU9Ka0VXMGRkNlJfa0VkVG9QeUlUNDZQUWpyWUVhNDFUTWRGUXJfZHYtdFBESUxkX0hrMzRrdG1t?oc=5	瘟疫與疫苗
 2026-10-13	39歲男子確診猴痘 情況穩定正接受隔離治療	https://news.rthk.hk/rthk/ch/component/k2/1873813-20261013.htm	瘟疫與疫苗
 2026-10-12	新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備	https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5	瘟疫與疫苗
 2026-10-12	Vitalik推荐开源疫苗项目PopVax，称其探索更开放的疫苗研发模式	https://news.google.com/rss/articles/CBMiZkFVX3lxTE84TmRkZHRwVmxXcjhodnM0Y2ZZZU10MzhtSWpPcm9lZFZISGY5MzVmVzVwSm1reF9pOVR0MUhhMnJTc0RvczJKSk5uNi1oTmp0Vks5VUdUTkZMRFYyaUlkM1NDbThRdw?oc=5	瘟疫與疫苗
@@ -587,6 +588,7 @@ var DATA_PLAGUE = `
 2026-06-24	7旬婦腹瀉昏迷就醫 近3年再現本土霍亂	https://health.ltn.com.tw/amp/article/paper/1760009	瘟疫與疫苗
 2026-06-23	防疫不能等疫情爆發才開始 香港紅十字會聯合國際紅十字運動成員 建立亞太公共衛生防線	https://www.stheadline.com/ad-health-news/3584587/%E9%98%B2%E7%96%AB%E4%B8%8D%E8%83%BD%E7%AD%89%E7%96%AB%E6%83%85%E7%88%86%E7%99%BC%E6%89%8D%E9%96%8B%E5%A7%8B-%E9%A6%99%E6%B8%AF%E7%B4%85%E5%8D%81%E5%AD%97%E6%9C%83%E8%81%AF%E5%90%88%E5%9C%8B%E9%9A%9B%E7%B4%85%E5%8D%81%E5%AD%97%E9%81%8B%E5%8B%95%E6%88%90%E5%93%A1-%E5%BB%BA%E7%AB%8B%E4%BA%9E%E5%A4%AA%E5%85%AC%E5%85%B1%E8%A1%9B%E7%94%9F%E9%98%B2%E7%B7%9A	爆發疫情
 2026-06-23	男子下身疼痛有分泌物確診猴痘 曾在家中有高風險接觸	https://www.wenweipo.com/a/202606/23/AP6a3a7e52e4b0b49ad1c0839a.html	瘟疫與疫苗
+2026-06-23	港大初創亮相全球生物科技盛會BIO 2026 展示創新藥物研發及精準診斷突破成果 - The University of Hong Kong (HKU)	https://news.google.com/rss/articles/CBMigAJBVV95cUxPU0xFZ1VMUnN1bFU2c3FKV2ZLVEczUUlQUFRNcGJFcU9qT2stUGwzTDFhWlh5V2pLSnpCejVIZEotWDF3VkZHcVJEYlhJeG5Db2JVY0RiZWhGTWNpd3VxOHZ6TlZvTGN6TlpnTkE2NUZqYUV3a05UWTRTMU1abTVzakxUOVE0Z3UwdEMxS3VlY0ZQZVlaemM3VVpENEhtbFAwOVd6VG5tSzRGeVdmQTFHQU5rSlJuUXhPdDI2MDJuNjlaX3lLTDl4MWpGcXlkVjNTdk1TUTluajZTTXZ4LS1jTWtObkRqXzU2MGR3eW5acFczS3pYT253cFdCLW9aYlpK?oc=5	未分類
 2026-06-23	44歲男子確診猴痘 當局設法聯繫與患者有高風險接觸人士	https://news.rthk.hk/rthk/ch/component/k2/1859615-20260623.htm	瘟疫與疫苗
 2026-06-23	44歲男子確診猴痘 情况穩定 (18:57) - 20260623 - 港聞	https://news.mingpao.com/ins/港聞/article/20260623/s00001/1782212077716/44歲男子確診猴痘-情况穩定	瘟疫與疫苗
 2026-06-22	投資推廣署參與美國BIO 2026國際生物科技大會推廣香港作為生物科技企業出海首選跳板- 政務號	https://www.tkww.hk/a/202606/22/AP6a38b40ae4b04773b070c9e0.html	未分類
