@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-HK">
 <head>
 <meta charset="UTF-8">
@@ -1014,6 +1014,12 @@ requestAnimationFrame(draw);
    ═══════════════════════════════════════════════════════════════ */
 var MARK='year-curve-box';
 var YCF_CATS=null, YCF_CUR='ALL';
+/* ★ 2026-10-15：tag 英文 key → 中文標籤（圖例唔再顯示火星文）*/
+var TAG_ZH={sudden:'猝死',departure:'自殺離世',industry:'工業意外',traffic:'交通',fire:'火警',
+  tragedy:'遇溺悲劇',plague:'瘟疫醫藥',sidefx:'藥物副作用',econ:'經濟',disaster:'天災',
+  war:'戰爭',social:'治安社會',food:'糧食',tech:'AI與科技',religion:'宗教',
+  tribulation:'七年大災難',celestial:'天象',politics:'政治'};
+function tagZh(c){return TAG_ZH[c]||c;}
 
 function renderYearCurve(cat){
   var TL=window.DATA_TIMELINE;
@@ -1027,7 +1033,7 @@ function renderYearCurve(cat){
         var b=document.createElement('button');
         b.className='ycf-btn';
         b.setAttribute('data-ycf',c);
-        b.textContent=c;
+        b.textContent=tagZh(c);
         b.style.cssText='padding:4px 10px;cursor:pointer';
         b.onclick=function(){renderYearCurve(c)};
         box.appendChild(b);
@@ -1043,7 +1049,7 @@ function renderYearCurve(cat){
   if(note){
     note.textContent='共 '+TL.total.toLocaleString()+' 條有真實日期　'
       +TL.first+' → '+TL.last
-      +(YCF_CUR==='ALL'?'　（全部類別）':'　（'+YCF_CUR+'）');
+      +(YCF_CUR==='ALL'?'　（全部類別）':'　（'+tagZh(YCF_CUR)+'）');
   }
   var cv=document.getElementById('year-curve');
   if(!cv||typeof Chart==='undefined'){
@@ -1074,7 +1080,7 @@ function renderYearCurve(cat){
   if(window.__ycf){window.__ycf.destroy();}
   window.__ycf=new Chart(cv.getContext('2d'),{
     type:'bar',
-    data:{labels:years,datasets:[{label:(YCF_CUR==='ALL'?'全部類別':YCF_CUR),
+    data:{labels:years,datasets:[{label:(YCF_CUR==='ALL'?'全部類別':tagZh(YCF_CUR)),
       data:vals,backgroundColor:(YCF_CUR==='ALL')?'rgba(192,57,43,.75)':'rgba(44,127,184,.75)'}]},
     options:{responsive:true,maintainAspectRatio:false,
       scales:{y:{beginAtZero:true,title:{display:true,text:'新聞條數'}},

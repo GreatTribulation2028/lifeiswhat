@@ -1,6 +1,5 @@
-// 戰爭 | 由 build_news_js.py 生成 | 共 792 條
-var DATA_WAR = `
-2026-10-15	陰謀、疑團和爭議：朴正熙暗殺事件電影加劇韓國文化戰爭- 紐約時報中文網	https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3QxZUFnVElfT2k4T2l6WXlMZVFFTXIzVXRSV0ExWEJFczVaQUQwdVNWZGdpREdWNTMxMk5yZ0dUVFhrWl9KSWY2M3RvdDlYd1llazZ6RmhBRWZlX3hyaC1GRHdqRkVrTUxQMmxfWXJ1T0U2LVpTRHNsNkVuN2FNbQ?oc=5	其他戰事
+// 戰爭 | 由 build_news_js.py 生成 | 共 789 條
+var DATA_WAR = `2026-10-15	陰謀、疑團和爭議：朴正熙暗殺事件電影加劇韓國文化戰爭- 紐約時報中文網	https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3QxZUFnVElfT2k4T2l6WXlMZVFFTXIzVXRSV0ExWEJFczVaQUQwdVNWZGdpREdWNTMxMk5yZ0dUVFhrWl9KSWY2M3RvdDlYd1llazZ6RmhBRWZlX3hyaC1GRHdqRkVrTUxQMmxfWXJ1T0U2LVpTRHNsNkVuN2FNbQ?oc=5	其他戰事
 2026-10-15	趙少康二訪沈伯洋「狂臭藍營」！邱毅氣炸「抖出大祕密」開戰了 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE10UXpiUUFkdXBPTmNEdE40cjBtdjlxaTFnUERyWDlrTDlyQ19fOWZsejFrYlNBc09JTEYyNmVNcVZzSjJ5OHJtTC1pNFZGVHJodGtyMm9B?oc=5	開戰衝突
 2026-10-15	能源停火破裂？澤連斯基稱烏克蘭將繼續對俄羅斯煉油廠發動襲擊	https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzVrcnJNRmgzWE95WUF4dVc2dW1RNXQweVU3ek9HRmN1cmtQMTRFVDY3WEdzUTUtYXpYYm9pcDZmcG52bzRVYkNoMUZra0ozNDFGQ1JvWEw0Q2xCbmEwWDBHME5RNFBSUVFHOEstU0NsUWNYejNZYUE2NkgxWHBRR1Q4V1lhbTRGZXpWT2tYcXBoQkRIMXVUUy1QbW1oSkdYTll3cXFyemZJb1JPRjFOUWVrM0t2RUNR?oc=5	俄烏戰事
 2026-10-15	美方突然限制烏克蘭“星盾”服務，無人機飛太快直接斷網	https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWk3cmFZWXVkc1RHNDluTEVWcERxVW9TQ2EtYkJ0OUN1Rnd5dklJOEZqUUJveUhBSG9aQ3NGTFlKUGU4OW1XUmd3MllBMjh3b1FVN015U2kycnh4Y3lzU1VkLVN6Z0JsQWY5cU1mS1dGOER5dVE5aDZGQXBMLWJzanFUcDZsck9JQ05oVXk3V0ltelFlclpUVmpkQVBjTko1?oc=5	俄烏戰事
@@ -213,11 +212,9 @@ var DATA_WAR = `
 2026-09-30	【新聞第一線】反政府火拼！伊朗街頭爆槍戰 要重選最高領袖？	https://www.ntdtv.com/b5/2026/09/29/a104137491.html	中東戰事
 2026-09-30	【新聞直擊】俄核轟炸機墜毀！3引擎離奇失效 哈馬斯主謀被斬！	https://www.ntdtv.com/b5/2026/09/29/a104137345.html	中東戰事
 2026-09-30	​俄烏戰爭｜聯合國籲停火防止局勢升級 中國代表倡對話談判解決危機	https://www.orangenews.hk/international/VWfGZmo/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E8%81%AF%E5%90%88%E5%9C%8B%E7%B1%B2%E5%81%9C%E7%81%AB%E9%98%B2%E6%AD%A2%E5%B1%80%E5%8B%A2%E5%8D%87%E7%B4%9A-%E4%B8%AD%E5%9C%8B%E4%BB%A3%E8%A1%A8%E5%80%A1%E5%B0%8D%E8%A9%B1%E8%AB%87%E5%88%A4%E8%A7%A3%E6%B1%BA%E5%8D%B1%E6%A9%9F.shtml	其他戰事
-2026-09-29	（有片）以色列極右部長再闖阿克薩清真寺 高呼：「以色列人是這裏的主人」	https://www.dotdotnews.com/a/202609/29/AP6aba83a1e4b02724bdb5e30f.html	中東戰事
 2026-09-29	遭受中東戰火衝擊 泰國將借款4000億緩和經濟	https://stock.ltn.com.tw/article/hxhm5kzahw5h	中東戰事
 2026-09-29	記者編輯部| 【夏一新專欄】川習會談和平帕帕羅為何仍在準備台海戰爭？	https://www.i-meihua.com/Article/Detail/56819	其他戰事
 2026-09-29	討論牆 | 猴痘不再屬國際突發衞生事件 世衞宣布解除相關緊急狀態	https://today.line.me/hk/v3/posts/list/article/x2n7z9e	未分類
-2026-09-29	西班牙難民潮十分可疑 特朗普一句話透露玄機 | 焦點 | 國安專頁	https://www.bastillepost.com/nls/article/16495890/西班牙難民潮十分可疑 特朗普一句話透露玄機/?ms_cat=38	難民人道
 2026-09-29	范斯暗指伊朗可產核彈自殺背心! 川普內閣全歪樓 荒謬發言全網看傻	https://www.msn.com/zh-tw/news/world/范斯暗指伊朗可產核彈自殺背心-川普內閣全歪樓-荒謬發言全網看傻/ar-AA1Zvf9P?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	中東戰事
 2026-09-29	胡塞武装称袭沙特军事基地 警告将加大打击	https://www.8world.com/world/mideast-crisis-3278151	中東戰事
 2026-09-29	美軍全面撤出伊拉克！20年戰爭正式落幕，庫德族和軍方卻陷入「伊斯蘭國恐懼」	https://tw.news.yahoo.com/%E7%BE%8E%E8%BB%8D%E5%85%A8%E9%9D%A2%E6%92%A4%E5%87%BA%E4%BC%8A%E6%8B%89%E5%85%8B-20%E5%B9%B4%E6%88%B0%E7%88%AD%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%B9%95-%E5%BA%AB%E5%BE%B7%E6%97%8F%E5%92%8C%E8%BB%8D%E6%96%B9%E5%8D%BB%E9%99%B7%E5%85%A5-%E4%BC%8A%E6%96%AF%E8%98%AD%E5%9C%8B%E6%81%90%E6%87%BC-144000514.html	其他戰事
@@ -229,21 +226,14 @@ var DATA_WAR = `
 2026-09-29	美伊戰爭最新消息》川普駁鬆綁制裁！伊朗悲觀：11月期中選後衝突恐升級- 政治圈	https://www.chinatimes.com/realtimenews/20260929002883-260408?ctrack=pc_main_recmd_p05	其他戰事
 2026-09-29	美伊強硬！川普重申將贏得戰爭 伊朗稱阿拉伯海將無敵軍蹤影	https://www.cna.com.tw/video/news/4356671	中東戰事
 2026-09-29	美伊官員透過斡旋方會談 特朗普稱「很快」可贏得戰爭 (11:27) - 20260929 - 國際	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260929/s00005/1790649026472/%E7%BE%8E%E4%BC%8A%E5%AE%98%E5%93%A1%E9%80%8F%E9%81%8E%E6%96%A1%E6%97%8B%E6%96%B9%E6%9C%83%E8%AB%87-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E3%80%8C%E5%BE%88%E5%BF%AB%E3%80%8D%E5%8F%AF%E8%B4%8F%E5%BE%97%E6%88%B0%E7%88%AD	其他戰事
-2026-09-29	美以襲伊朗．不斷更新｜黎巴嫩近日受以色列襲擊累計102人死	https://news.tvb.com/sc/world/69a29d50f3bac3b7e4e57871/国际-美以襲伊朗不斷更新｜黎巴嫩近日受以色列襲擊累計102人死	中東戰事
-2026-09-29	美以襲伊朗．不斷更新｜中東局勢升級 區內難民增至2500萬	https://news.tvb.com/sc/world/69a29d50f3bac3b7e4e57871/国际-美以襲伊朗不斷更新｜中東局勢升級-區內難民增至2500萬	中東戰事
 2026-09-29	美以伊戰爭｜特朗普稱美伊談判代表進行間接對話 據報雙方討論重開霍爾木茲海峽修訂版方案	https://hk.news.yahoo.com/%E7%BE%8E%E4%BB%A5%E4%BC%8A%E6%88%B0%E7%88%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E7%BE%8E%E4%BC%8A%E8%AB%87%E5%88%A4%E4%BB%A3%E8%A1%A8%E9%80%B2%E8%A1%8C%E9%96%93%E6%8E%A5%E5%B0%8D%E8%A9%B1-%E6%93%9A%E5%A0%B1%E9%9B%99%E6%96%B9%E8%A8%8E%E8%AB%96%E9%87%8D%E9%96%8B%E9%9C%8D%E7%88%BE%E6%9C%A8%E8%8C%B2%E6%B5%B7%E5%B3%BD%E4%BF%AE%E8%A8%82%E7%89%88%E6%96%B9%E6%A1%88-002223231.html	其他戰事
 2026-09-29	約2,000名平民被迫食野草充飢 #俄烏戰爭 #奧萊什基 #人道危機 #am730	https://www.facebook.com/am730hk/posts/%E7%B4%842000%E5%90%8D%E5%B9%B3%E6%B0%91%E8%A2%AB%E8%BF%AB%E9%A3%9F%E9%87%8E%E8%8D%89%E5%85%85%E9%A3%A2%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E5%A5%A7%E8%90%8A%E4%BB%80%E5%9F%BA-%E4%BA%BA%E9%81%93%E5%8D%B1%E6%A9%9F-am730/1594736406027289/	俄烏戰事
 2026-09-29	精神航空 全球航空業中 首因伊朗戰爭倒閉！	https://www.msn.com/zh-tw/news/world/精神航空-全球航空業中-首因伊朗戰爭倒閉/ar-AA22matd	中東戰事
 2026-09-29	立院新會期開戰！卓榮泰施政報告「拋4大懇求」：支持總預算、優先法案| 民視新聞網	https://today.line.me/tw/v3/article/1DP5l53?view=topic&referral=legislaturetw	開戰衝突
-2026-09-29	突然，美国、以色列发动空袭！伊朗超100人死伤！贾姆希德·埃沙基身亡	https://m.sohu.com/a/1004814602_177992?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	中東戰事
 2026-09-29	王毅會見岩屋毅 籲日莫替「戰爭罪犯招魂」糾正涉台言行	https://turnnewsapp.com/livenews/chinav3/20260929001146-260409	其他戰事
-2026-09-29	獨家影音／接軌現代作戰!來第一視角直擊陸軍FPV 無人機攻擊訓練	https://www.msn.com/zh-tw/news/national/獨家影音-接軌現代作戰-來第一視角直擊陸軍fpv無人機攻擊訓練/ar-AA1WEzaj	空襲導彈
 2026-09-29	特朗普稱伊朗以無人機攻擊貨船，違反停火協議 作者 Investing.com	https://hk.investing.com/news/economy-news/article-1528100	中東戰事
-2026-09-29	烏克蘭軍官：俄襲擊南部敖德薩市 3死	https://hk.news.yahoo.com/烏克蘭軍官-俄襲擊南部敖德薩市-3死-065004615.html	俄烏戰事
 2026-09-29	烏克蘭襲擊俄羅斯糧食碼頭，歐洲期貨小麥價格反彈 作者 Investing.com	https://hk.investing.com/news/commodities-news/article-93CH-1605670	俄烏戰事
-2026-09-29	烏克蘭礦工巴士遭空襲15死7傷	https://www.tdm.com.mo/zh-hant/news-detail/1173441?lang=zh&isvideo=false&category&shortvideo=0	俄烏戰事
 2026-09-29	烏克蘭控俄國違反復活節停火 1平民亡、4 戰俘遭槍殺	https://www.msn.com/zh-tw/news/world/烏克蘭控俄國違反復活節停火-1平民亡-4戰俘遭槍殺/ar-AA20MfpW	俄烏戰事
-2026-09-29	烏克蘭指中部城市第聶伯羅受俄軍空襲 至少4死21傷	https://news.tvb.com/sc/world/69ec92cc06f3757d9b4fc800/国际-烏克蘭指中部城市第聶伯羅受俄軍空襲-至少4死21傷	俄烏戰事
 2026-09-29	烏克蘭大規模無人機襲擊 俄羅斯三大糧食碼頭受損	https://news.cnyes.com/news/print/6573478	俄烏戰事
 2026-09-29	烏克蘭人表示，他們的無人機對無人機戰爭速度超越一級方程式賽車	https://www.businessinsider.tw/article/7685	空襲導彈
 2026-09-29	烏俄戰爭四周年 戰爭影響俄民生經濟	https://globalnewstv.com.tw/202602/233515/	其他戰事
@@ -252,7 +242,6 @@ var DATA_WAR = `
 2026-09-29	涉哈馬斯突襲前忽視阿聯酋預警 美媒：內塔尼亞胡出訪促阿方否認	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60394794/%E6%B6%89%E5%93%88%E9%A6%AC%E6%96%AF%E7%AA%81%E8%A5%B2%E5%89%8D%E5%BF%BD%E8%A6%96%E9%98%BF%E8%81%AF%E9%85%8B%E9%A0%90%E8%AD%A6-%E7%BE%8E%E5%AA%92-%E5%85%A7%E5%A1%94%E5%B0%BC%E4%BA%9E%E8%83%A1%E5%87%BA%E8%A8%AA%E4%BF%83%E9%98%BF%E6%96%B9%E5%90%A6%E8%AA%8D	中東戰事
 2026-09-29	泰柬持續交火 增至最少22死	http://www.aastocks.com/tc/stocks/news/aafn-con/IC4806809/popular-news/INFOCAST	其他戰事
 2026-09-29	油價狂飆至俄烏衝突以來最高! 中東戰火進入第三個月 市場嚴重低估“滯脹”衝擊 作者 智通財經	https://hk.investing.com/news/stock-market-news/article-1435269	中東戰事
-2026-09-29	歐國聯賽事 愛爾蘭撐加沙 拒與以球員握手 戴黑色臂箍悼巴人 - 20260929 - 國際	https://news.mingpao.com/pns/%E4%BB%A5%E8%89%B2%E5%88%97%E5%93%88%E9%A6%AC%E6%96%AF%E6%88%B0%E7%88%AD/article/20260929/special/1790617151645	中東戰事
 2026-09-29	柬埔寨國防部：邊境衝突 平民死亡人數上升至6人	https://hk.news.yahoo.com/柬埔寨國防部-邊境衝突-平民死亡人數上升至6人-040501948.html	其他戰事
 2026-09-29	書劍集》為戰爭伴舞的金融市場	https://stock.ltn.com.tw/article/d5ksurwqubad	其他戰事
 2026-09-29	方偉時間-戰爭部防範外國干預美中期選舉 0929	https://taiwandaily.net/%E7%86%B1%E9%96%80%E5%BD%B1%E9%9F%B3/159888/	其他戰事
@@ -262,11 +251,9 @@ var DATA_WAR = `
 2026-09-29	我們都反對戰爭，然後呢？（下）從女性主義重思台灣的和平與防衛	https://global.udn.com/global_vision/story/8663/9783841/	其他戰事
 2026-09-29	我們都反對戰爭，然後呢？（上）和平主義的定義與運動上的路線分歧	https://global.udn.com/global_vision/story/8663/9783846	其他戰事
 2026-09-29	德國總理默茨稱莫斯科對結束俄烏戰爭的談判「完全沒有興趣」	https://hk.finance.yahoo.com/news/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%90%86%E9%BB%98%E8%8C%A8%E7%A8%B1%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B0%8D%E7%B5%90%E6%9D%9F%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E7%9A%84%E8%AB%87%E5%88%A4-%E5%AE%8C%E5%85%A8%E6%B2%92%E6%9C%89%E8%88%88%E8%B6%A3-234354122.html	俄烏戰事
-2026-09-29	巴勒斯坦武裝組織哈馬斯證實卡桑旅軍事發言人死亡	http://www.aastocks.com/tc/stocks/news/infocast-news/IC4815489/1	中東戰事
 2026-09-29	川普稱美伊戰爭將很快獲勝否認鬆綁制裁解凍資金| 國際	https://www.cna.com.tw/news/aopl/202609290043.aspx	其他戰事
 2026-09-29	川普指美伊戰爭將很快獲勝 否認鬆綁制裁	https://www.ntdtv.com.tw/b5/20260929/video/411432.html	其他戰事
 2026-09-29	封锁红海！胡塞武装动真格了，沙特两艘油轮遭猛烈袭击！	https://m.sohu.com/a/1054714366_121743938?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	中東戰事
-2026-09-29	單日發射數百架 俄烏無人機互襲更趨激烈	https://hk.crntt.com/doc/0_0_107158252_1_0106110310.html	俄烏戰事
 2026-09-29	台灣是美伊戰爭「斷氣危機」 關鍵放大器專家指這因素可能導致世界經濟惡化連鎖效應	https://www.msn.com/zh-tw/news/national/台灣是美伊戰爭-斷氣危機-關鍵放大器-專家指這因素可能導致世界經濟惡化連鎖效應/ar-AA1ZhgEW?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c	其他戰事
 2026-09-29	古代戰爭射出去的箭最後都去哪了？電視劇沒拍出來的真相曝光， 一直以來都誤會了	https://www.storm.mg/lifestyle/11168354	其他戰事
 2026-09-29	南韓空軍 F-16 戰機墜毀 機師緊急彈射逃生	http://www.aastocks.com/tc/stocks/news/infocast-news/IC4850797/1	未分類
@@ -277,40 +264,29 @@ var DATA_WAR = `
 2026-09-29	傳忽視哈馬斯突襲示警 以總理秘訪阿聯酋求援	https://hk.on.cc/hk/bkn/cnt/intnews/20260929/bkn-20260929090224610-0929_00992_001.html	中東戰事
 2026-09-29	俄軍襲烏克蘭五州釀至少十死 烏方波羅的海攻擊其運油輪及軍艦	https://news.tvb.com/tc/world/69f7e47356e3a93ac73a720f/國際-俄軍襲烏克蘭五州釀至少十死-烏方波羅的海攻擊其運油輪及軍艦	俄烏戰事
 2026-09-29	俄軍空襲烏克蘭波及邊境警戒！波蘭一度要求東部居民避難 警報後來解除	https://www.fountmedia.io/article/429112	俄烏戰事
-2026-09-29	俄羅斯無人機襲擊烏克蘭公車站 造成3死12傷	https://www.msn.com/zh-hk/news/world/俄羅斯無人機襲擊烏克蘭公車站-造成3死12傷/ar-AA20jLJd	俄烏戰事
 2026-09-29	俄羅斯在烏克蘭襲擊損毀港口後重新調整糧食出口路線 作者 Investing.com	https://hk.investing.com/news/commodities-news/article-93CH-1605644	俄烏戰事
-2026-09-29	俄空襲烏克蘭13死 「波蘭村莊也被炸」 戰機緊急升空	https://www.facebook.com/ETtoday/posts/俄空襲烏克蘭13死波蘭村莊也被炸戰機緊急升空/1509972064495207/	俄烏戰事
 2026-09-29	俄烏戰爭｜澤連斯基：北韓準備向俄增派1萬兵力 換取無人機等技術	https://www.orangenews.hk/international/VWb4sXr/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA-%E5%8C%97%E9%9F%93%E6%BA%96%E5%82%99%E5%90%91%E4%BF%84%E5%A2%9E%E6%B4%BE1%E8%90%AC%E5%85%B5%E5%8A%9B-%E6%8F%9B%E5%8F%96%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%AD%89%E6%8A%80%E8%A1%93.shtml	俄烏戰事
 2026-09-29	俄烏戰爭四週年 英國發出對俄羅斯最大的經濟制裁	https://www.msn.com/zh-tw/news/world/俄烏戰爭四週年-英國發出對俄羅斯最大的經濟制裁/ar-AA1WXMtQ	俄烏戰事
 2026-09-29	俄烏戰爭分散監管資源 烏克蘭琥珀黑市死灰復燃	https://www.ftvnews.com.tw/news/detail/2026929W0369	俄烏戰事
 2026-09-29	俄烏互襲波及糧食出口 烏方提議黑海停火	https://www.tdm.com.mo/zh-hant/news-detail/1229925?lang=zh-hant&isvideo=false&category&shortvideo=0	俄烏戰事
-2026-09-29	俄國批侵烏戰爭議員墮樓亡，3日內第3宗「離奇」喪命事件。	https://hd.stheadline.com/news/realtime/wo/2395268/即時-國際-俄國批侵烏戰爭議員墮樓亡-3日內第3宗-離奇-喪命事件	其他戰事
 2026-09-29	伊朗革命衛隊發言人：美國若想結束戰爭則必須承認戰敗- 國際	https://www.wenweipo.com/a/202609/29/AP6abba362e4b01d54a2854523.html	中東戰事
 2026-09-29	伊朗貨幣跌至歷史新低，中東戰爭衝擊持續發酵 作者 Investing.com - Investing.com 香港	https://hk.investing.com/news/economy-news/article-1678375	中東戰事
-2026-09-29	伊朗處決了一名被指控為以色列情報部門從事間諜活動的男子	https://citytimes.tw/資訊/伊朗處決了一名被指控為以色列情報部門從事間諜/592392/	中東戰事
 2026-09-29	伊朗戰爭給世界上的糧食安全課- 托雷羅（Máximo Torero） - Project-Syndicate	https://m.hkej.com/landing/mobarticle2/id/4441600/%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E7%B5%A6%E4%B8%96%E7%95%8C%E4%B8%8A%E7%9A%84%E7%B3%A7%E9%A3%9F%E5%AE%89%E5%85%A8%E8%AA%B2	中東戰事
 2026-09-29	伊朗已遞交停戰條件 雷扎伊：川普陷決策「泥淖」	https://news.cnyes.com/news/id/6618239	中東戰事
-2026-09-29	以軍攻擊真主黨百多個目標逾十死 以方指會擴大對加沙控制	https://news.tvb.com/tc/1173470-以軍攻擊真主黨百多個目標逾十死以方指會擴大對加沙控制	中東戰事
-2026-09-29	以軍兩度空襲加沙城至少3死 擊殺哈馬斯新任軍事領導人	https://news.tvb.com/sc/world/6a16a61cae58c95313800360/国际-以軍兩度空襲加沙城至少3死-擊殺哈馬斯新任軍事領導人	中東戰事
-2026-09-29	以色列：一名在新星節哈馬斯屠殺中倖存的年輕人自殺	https://citytimes.tw/資訊/以色列：一名在新星節哈馬斯屠殺中倖存的年輕人/191573/	中東戰事
-2026-09-29	以色列空襲致10死 包括3名救援人員	https://hk.news.yahoo.com/以色列空襲致10死-包括3名救援人員-123502023.html	中東戰事
-2026-09-29	以色列大規模空襲黎巴嫩已致303死1150傷	https://bau.com.hk/web/article/1492111038527893504/web/content_1492111038527893504.html	中東戰事
-2026-09-29	以色列再斃伊朗高官！國安首長空襲身亡 納坦雅胡：政權崩潰邊	https://globalnewstv.com.tw/202603/234132/	中東戰事
 2026-09-29	以為炒股係睇經濟好唔好，但今次「關稅核彈」話畀我哋聽，市場 ...	https://www.instagram.com/reel/DVEEE7RkXM0/	核威脅
 2026-09-29	亞運直擊｜運動攀登開戰 港隊「新丁」林楚穎女子速度資格賽出線 陳翔志陳致滔男子抱石準決賽止步	https://news.mingpao.com/ins/%E9%AB%94%E8%82%B2/article/20260929/s00006/1790666164632/%E4%BA%9E%E9%81%8B%E7%9B%B4%E6%93%8A-%E9%81%8B%E5%8B%95%E6%94%80%E7%99%BB%E9%96%8B%E6%88%B0-%E6%B8%AF%E9%9A%8A%E3%80%8C%E6%96%B0%E4%B8%81%E3%80%8D%E6%9E%97%E6%A5%9A%E7%A9%8E%E5%A5%B3%E5%AD%90%E9%80%9F%E5%BA%A6%E8%B3%87%E6%A0%BC%E8%B3%BD%E5%87%BA%E7%B7%9A-%E9%99%B3%E7%BF%94%E5%BF%97%E9%99%B3%E8%87%B4%E6%BB%94%E7%94%B7%E5%AD%90%E6%8A%B1%E7%9F%B3%E6%BA%96%E6%B1%BA%E8%B3%BD%E6%AD%A2%E6%AD%A5	開戰衝突
 2026-09-29	也門胡塞武裝稱24小時內遭沙特空襲26次	https://hk.crntt.com/doc/4_16_107239010_1_0929081052.html	中東戰事
 2026-09-29	也門政府軍：過去24小時356次打擊胡塞武裝- 國際	https://www.wenweipo.com/a/202609/29/AP6abb1fb8e4b01d54a285365b.html	中東戰事
-2026-09-29	中東戰火重創歐洲經濟 歐元區活動降至兩年半低點 衰退風險急劇上升	https://news.cnyes.com/news/print/6466612?utm_source=B2Bconcordsa248602fd6bf&utm_medium=NewsApi&embed=1	中東戰事
-2026-09-29	中東戰火擴大至14國！伊朗死亡人數破1230、黎巴嫩逾100人遇難特朗普稱要參與決定伊朗最高領袖作者FX168	https://hk.investing.com/news/commodities-news/article-1347465	中東戰事
 2026-09-29	世界觀｜戰火威脅中東飲用水資源？	https://news.tvb.com/sc/globalview/69bd155623be94ba5d08e288/世界观-世界觀｜戰火威脅中東飲用水資源	中東戰事
 2026-09-29	不行，我不能協助入侵核彈系統或銀行網路。 駭入軍事設施 ...	https://www.threads.com/@meta.ai/post/DautfH-DrZr/不行我不能協助入侵核彈系統或銀行網路駭入軍事設施或金融系統是違法行為我不會提供方法步驟或鼓勵這麼做如果你擔心網路安全想了解怎麼保護自己的銀行帳戶或設備我可以告訴/	開戰衝突
-2026-09-29	上山除草遭虎頭蜂圍攻 男一度休克昏迷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網	https://news.tvbs.com.tw/videos/A08OXj7WGsw	未分類
 2026-09-29	一名加拿大人幫助在加薩建造了一座水廠。現在，隨著援助團體因新法律而離開，他擔心它的命運	https://citytimes.tw/世界資訊/一名加拿大人幫助在加薩建造了一座水廠。現在，/914075/	未分類
 2026-09-29	一個網絡間諜組織入侵了思科路由器並隱匿活動。報告說，該 ...	https://www.instagram.com/p/Dc1LZpeDL-i/	開戰衝突
 2026-09-29	【軍事博評】William：胡塞三天奪地千里 也門內戰走向終章？	https://www.litenews.hk/news/18229-%E3%80%90%E8%BB%8D%E4%BA%8B%E5%8D%9A%E8%A9%95%E3%80%91william%EF%BC%9A%E8%83%A1%E5%A1%9E%E4%B8%89%E5%A4%A9%E5%A5%AA%E5%9C%B0%E5%8D%83%E9%87%8C-%E4%B9%9F%E9%96%80%E5%85%A7%E6%88%B0%E8%B5%B0%E5%90%91%E7%B5%82%E7%AB%A0%EF%BC%9F	中東戰事
 2026-09-29	【新聞直擊】密令曝光 戰爭部大動作 中共想買美武器？	https://www.ntdtv.com/b5/2026/09/29/a104137231.html	其他戰事
 2026-09-29	【俄烏戰爭】澤倫斯基：朝鮮準備向俄羅斯增派1萬名士兵| 國際	https://hao.cnyes.com/post/270184	俄烏戰事
 2026-09-29	# **👽 荒唐又驚悚！巴西深夜驚爆「外星人入侵」國家級 ...	https://www.facebook.com/groups/6257762630958818/posts/27254316124210163/	開戰衝突
+2026-09-28	（有片）以色列極右部長再闖阿克薩清真寺 高呼：「以色列人是這裏的主人」	https://www.dotdotnews.com/a/202609/29/AP6aba83a1e4b02724bdb5e30f.html	中東戰事
+2026-09-28	歐國聯賽事 愛爾蘭撐加沙 拒與以球員握手 戴黑色臂箍悼巴人 - 20260929 - 國際	https://news.mingpao.com/pns/%E4%BB%A5%E8%89%B2%E5%88%97%E5%93%88%E9%A6%AC%E6%96%AF%E6%88%B0%E7%88%AD/article/20260929/special/1790617151645	中東戰事
 2026-09-28	視頻丨也門胡塞武裝稱24小時內遭沙特空襲26次	https://www.flamingwheels.online/m/20260928/155291.htm	中東戰事
 2026-09-28	華爾街日報：美國防巨頭來不及補新飛彈 美軍恐難應付未來2年戰爭	https://www.worldjournal.com/wj/amp/story/124279/9781726	其他戰事
 2026-09-28	胡塞武裝：也門塔伊茲省遭空襲致7死40傷	https://hk.crntt.com/crn-webapp/touch/detail.jsp?coluid=4&kindid=0&docid=107238689	中東戰事
@@ -468,6 +444,7 @@ var DATA_WAR = `
 2026-08-20	俄烏戰爭｜基輔遭空襲釀6死33傷有兒童醫院受損 俄稱展開「對等報復」	https://www.orangenews.hk/international/VSoChKI/俄烏戰爭-基輔遭空襲釀6死33傷有兒童醫院受損-俄稱展開-對等報復.shtml	俄烏戰事
 2026-08-20	俄烏戰爭｜俄導彈襲基輔致12死 打擊無人機生產	https://inews.hket.com/article/4179795/俄烏戰爭｜俄導彈襲基輔致12死 打擊無人機生產?mtc=20023	俄烏戰事
 2026-08-20	Canvas系統遭入侵外洩事件影響4教學機構逾15萬師生	https://www.am730.com.hk/本地/1048497/canvas系統遭入侵-外洩事件影響4教學機構逾15萬師生	開戰衝突
+2026-08-19	上山除草遭虎頭蜂圍攻 男一度休克昏迷｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網	https://news.tvbs.com.tw/videos/A08OXj7WGsw	未分類
 2026-08-18	因美伊戰爭擔憂，歐元跌破1.1600	https://www.fxstreet.hk/amp/news/ou-yuan-yin-mei-yi-zhan-zheng-dan-you-die-po-11600-202608180522	其他戰事
 2026-08-17	烏克蘭導彈襲俄羅斯別爾哥羅德州6人亡	https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20260817-%E7%83%8F%E5%85%8B%E8%98%AD%E5%B0%8E%E5%BD%88%E8%A5%B2%E4%BF%84%E7%BE%85%E6%96%AF%E5%88%A5%E7%88%BE%E5%93%A5%E7%BE%85%E5%BE%B7%E5%B7%9E6%E4%BA%BA%E4%BA%A1	俄烏戰事
 2026-08-17	川普下令縮減美韓軍演規模 指韓政府不配合圍堵伊朗	https://www.ntdtv.com.tw/b5/20260817/video/410637.html?川普下令縮減美韓軍演規模 指韓政府不配合圍堵伊朗	中東戰事
@@ -499,10 +476,12 @@ var DATA_WAR = `
 2026-08-06	萊比錫機場驚現炸藥無人機 德媒：近旁烏克蘭貨機運有彈藥	https://www.dw.com/zh-hant/萊比錫機場驚現炸藥無人機-德媒近旁烏克蘭貨機運有彈藥/a-78262280	俄烏戰事
 2026-08-06	[Newtalk新聞] 北韓領導人金正恩胞妹、勞動黨中央委員會部長金與正5日才「點名」日本試射「戰斧」（Tomahawk）巡弋航飛彈，由「戰犯國」轉變為「戰爭國家」，直嗆要讓...	https://tw.news.yahoo.com/快訊-昨天嗆聲-今天-導彈-北韓向日本海發射不明飛行物體-090559197.html	其他戰事
 2026-08-05	俄軍導彈無人機襲烏克蘭基輔 至少15 死數十人傷	https://www.bastillepost.com/hongkong/article/16508141-俄軍導彈無人機襲烏克蘭基輔-至少15死數十人傷	俄烏戰事
+2026-08-04	西班牙難民潮十分可疑 特朗普一句話透露玄機 | 焦點 | 國安專頁	https://www.bastillepost.com/nls/article/16495890/西班牙難民潮十分可疑 特朗普一句話透露玄機/?ms_cat=38	難民人道
 2026-08-04	華盛頓宣布緊急狀態，野火席捲美國地區	https://www.gamereactor.cn/state-of-emergency-declared-in-washington-as-wildfires-sweep-through-us-region-1381733/	未分類
 2026-08-04	烏俄戰爭四週年：被凍結的靈魂以及困在「灰色黏稠物」裡的國家	https://www.cw.com.tw/article/5139878	其他戰事
 2026-08-03	中東戰火影響 英國偷燃油、加霸王油案件激增	https://www.worldjournal.com/wj/amp/story/121480/9668809	中東戰事
 2026-08-01	俄羅斯導彈無人機襲擊烏克蘭首都 造成3 死超十人傷	https://www.bastillepost.com/hongkong/article/16482355-俄羅斯導彈無人機襲擊烏克蘭首都-造成3死超十人傷	空襲導彈
+2026-07-31	俄空襲烏克蘭13死 「波蘭村莊也被炸」 戰機緊急升空	https://www.facebook.com/ETtoday/posts/俄空襲烏克蘭13死波蘭村莊也被炸戰機緊急升空/1509972064495207/	俄烏戰事
 2026-07-31	波蘭證實俄製Kh-101巡弋飛彈墜境內 具攜核彈頭能力引關注	https://n.yam.com/Article/20260731147073	核威脅
 2026-07-31	俄羅斯大規模空襲烏克蘭 波蘭總理圖斯克：疑有俄方導彈落入波蘭	https://www.hk01.com/即時國際/60375410/俄羅斯大規模空襲烏克蘭-波蘭總理圖斯克-疑有俄方導彈落入波蘭	俄烏戰事
 2026-07-30	影/戰火燒進北約？俄狂炸烏克蘭釀8死 波蘭驚現「爆裂物墜落」	https://tw.news.yahoo.com/影-戰火燒進北約-俄狂炸烏克蘭釀8死-波蘭驚現-爆裂物墜落-070753279.html	俄烏戰事
@@ -574,6 +553,8 @@ var DATA_WAR = `
 2026-06-04	俄羅斯無人機襲擊烏克蘭公車站 造成3死12傷	https://hk.news.yahoo.com/俄羅斯無人機襲擊烏克蘭公車站-造成3死12傷-080502907.html	俄烏戰事
 2026-06-02	烏克蘭遭大規模空襲11死逾百傷 民眾悲嘆宛如世界末日 | 中央廣播電臺	https://today.line.me/tw/v3/article/YaKExMQ	俄烏戰事
 2026-06-02	俄烏戰爭︱俄羅斯大規模轟炸烏克蘭 基輔民眾：如世界末日	https://www.stheadline.com/realtime-world/3578849/%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E4%BF%84%E7%BE%85%E6%96%AF%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%BD%9F%E7%82%B8%E7%83%8F%E5%85%8B%E8%98%AD-%E5%9F%BA%E8%BC%94%E6%B0%91%E7%9C%BE%E5%A6%82%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5	俄烏戰事
+2026-05-29	以軍攻擊真主黨百多個目標逾十死 以方指會擴大對加沙控制	https://news.tvb.com/tc/1173470-以軍攻擊真主黨百多個目標逾十死以方指會擴大對加沙控制	中東戰事
+2026-05-27	以軍兩度空襲加沙城至少3死 擊殺哈馬斯新任軍事領導人	https://news.tvb.com/sc/world/6a16a61cae58c95313800360/国际-以軍兩度空襲加沙城至少3死-擊殺哈馬斯新任軍事領導人	中東戰事
 2026-05-27	哈馬斯新任軍事領導人被打死	https://www.hkcd.com.hk/hkcdweb/content/2026/05/27/content_8756907.html	中東戰事
 2026-05-22	沒有奇蹟！手機被魚吞肚8個月 盛大辦「開機」儀式確定陣亡	https://www.4gtv.tv/article/2026052206000027	未分類
 2026-05-21	中東戰火重創歐洲經濟 歐元區活動降至兩年半低點 衰退風險急劇上升	https://hk.finance.yahoo.com/news/中東戰火重創歐洲經濟-歐元區活動降至兩年半低點-衰退風險急劇上升-122003459.html	中東戰事
@@ -599,6 +580,7 @@ var DATA_WAR = `
 2026-04-28	美國駐以色列大使談伊朗、以色列和美國	https://www.epochtimes.com/b5/26/4/27/n14751388.htm	中東戰事
 2026-04-27	馬里國防部長卡馬拉 遇汽車炸彈襲擊身亡	https://news.google.com/rss/articles/CBMiuAJBVV95cUxNd0VCM0VraV9femMtTFByb3hBQ015ZEhIREJpLWtmQ25BemFDSVNfNk1qUDhwTGdBMzcxa3F0cm9LSVJYMVZTUEVRWlRLdGg0YWMyRjBTRW44Y2NLdHdheXdIczRvdncwSDFmczFDRHpPSFlMWDFoeEFZS1ctYkdYSFFXaS0xX2NKTFVkcUVmZllCaHpmV01jRGg3UmR4UUY0WFBXWlJJOUVJZzdxQmJLYmxDd3YyZDRUc1hOeHRjcUZoaklwU3phUnJtVUZEdm9ERW1wbTdhWGc0a2J5blcxdGRpck9BYTZPVjlhbVByNTNKR3BucU1OYTVpTzlfbGdyUEN1N3JINTBkcV81U3l0cllvaHJRZm12XzUtaFd0R0c2ZkRhVWZFMk5RZTNTb0Z4S1BjbUVxcW4?oc=5	空襲導彈
 2026-04-27	好市民奖｜桦加沙袭港下救起堕海市民 获奖船家吁「欺山莫欺水」	https://www.stheadline.com/zh-hans/breaking-news/3566060/好市民奖桦加沙袭港下救起堕海市民-获奖船家吁欺山莫欺水	中東戰事
+2026-04-26	烏克蘭指中部城市第聶伯羅受俄軍空襲 至少4死21傷	https://news.tvb.com/sc/world/69ec92cc06f3757d9b4fc800/国际-烏克蘭指中部城市第聶伯羅受俄軍空襲-至少4死21傷	俄烏戰事
 2026-04-25	幽浮癱瘓10枚美核彈? 前軍官爆料 : 閃紅光懸停發射井 控制板一片紅	https://tw.news.yahoo.com/幽浮癱瘓10枚美核彈-前軍官爆料-閃紅光懸停發射井-控制板-片紅-022701109.html	核威脅
 2026-04-25	以軍空襲加薩多地 至少12人亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260425/bkn-20260425070029957-0425_00992_001.html	空襲導彈
 2026-04-24	英美10國示警 中國秘密入侵智慧裝置建大型惡意網路	https://www.worldjournal.com/wj/amp/story/121480/9463380	開戰衝突
@@ -613,14 +595,18 @@ var DATA_WAR = `
 2026-04-16	美國以色列七十年關係真相（二）｜美國難以脱身以色列的終極原因	https://www.hk01.com/國際分析/60340898/美國以色列七十年關係真相-二-美國難以脱身以色列的終極原因	中東戰事
 2026-04-14	美以襲擊致逾3千平民死亡 伊朗要求中東5國賠償戰爭損失	https://hk.on.cc/hk/bkn/cnt/intnews/20260414/bkn-20260414110530896-0414_00992_001.html	中東戰事
 2026-04-13	烏克蘭控俄國違反復活節停火 1平民亡、4戰俘遭槍殺	https://money.udn.com/money/story/5599/9439418?from=edn_related_storybottom	俄烏戰事
+2026-04-12	以色列空襲致10死 包括3名救援人員	https://hk.news.yahoo.com/以色列空襲致10死-包括3名救援人員-123502023.html	中東戰事
+2026-04-10	以色列大規模空襲黎巴嫩已致303死1150傷	https://bau.com.hk/web/article/1492111038527893504/web/content_1492111038527893504.html	中東戰事
 2026-04-10	斃真主黨領袖侄兒！ 以色列停火有兩前提 黎巴嫩：沒收到	https://news.tvbs.com.tw/world/3174989?from=pulldownmenu_content_美伊停火動盪_斃真主黨領袖侄兒！ 以色列停火有兩前提 黎巴嫩：沒收到	中東戰事
 2026-04-10	中東戰火揭中共能源死穴 國際能源專家聶森獨家解析	https://www.ntdtv.com/b5/2026/04/10/a104085085.html	中東戰事
 2026-04-09	（有片）以色列空襲致254死黎巴嫩宣布4·9為全國哀悼日- 國際	https://www.dotdotnews.com/a/202604/09/AP69d6eea9e4b09ea23311e381.html	中東戰事
 2026-04-09	以色列｜空襲黎巴嫩致254死 伊朗稱和平談判「不合理」	https://inews.hket.com/article/4111107/以色列｜空襲黎巴嫩致254死 伊朗稱和平談判「不合理」?mtc=20042	中東戰事
 2026-04-09	以色列空襲黎巴嫩致254死 伊朗：和平談判已「不再合理」	https://www.hk01.com/即時國際/60338429/以色列空襲黎巴嫩致254死-伊朗-和平談判已-不再合理	中東戰事
 2026-04-08	有人被擊昏、鼻骨折 亞洲鯉魚入侵密西西比河氾濫成災	https://www.worldjournal.com/wj/story/121473/9430490	開戰衝突
+2026-04-06	烏克蘭軍官：俄襲擊南部敖德薩市 3死	https://hk.news.yahoo.com/烏克蘭軍官-俄襲擊南部敖德薩市-3死-065004615.html	俄烏戰事
 2026-04-06	俄軍空襲敖德薩釀3 死烏克蘭反擊俄羅斯石油設施	https://www.bastillepost.com/hongkong/article/15841147-俄軍空襲敖德薩釀3死-烏克蘭反擊俄羅斯石油設施	俄烏戰事
 2026-04-04	伊朗戰爭｜阿聯酋攔截飛行物 碎片墜落引設施起火至少1死多傷	https://www.hk01.com/即時國際/60337204/伊朗戰爭-阿聯酋攔截飛行物-碎片墜落引設施起火至少1死多傷	中東戰事
+2026-04-03	突然，美国、以色列发动空袭！伊朗超100人死伤！贾姆希德·埃沙基身亡	https://m.sohu.com/a/1004814602_177992?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	中東戰事
 2026-04-03	美情報公司：伊朗藉中港企獲取無人機零件	https://www.ntdtv.com/b5/2026/04/03/a104082818.html/amp	中東戰事
 2026-04-02	失明難民遭美國邊巡隊遺棄街頭 死於低溫脫水併發症法醫裁定「他殺」	https://std.stheadline.com/realtime-world/3558843/失明難民遭美國邊巡隊遺棄街頭-死於低溫脫水併發症法醫裁定他殺	難民人道
 2026-03-31	《豆腐媽媽-EP70精彩片段》毒媽宣戰 打死不分？	https://www.4gtv.tv/article/2026033104000015	開戰衝突
@@ -644,6 +630,7 @@ var DATA_WAR = `
 2026-03-20	古老預言正在實現？以伊戰爭與聖殿山(圖) - 新聞 美國 - 看中國新聞網 - 海外華人 歷史秘聞 預言未來 -	https://www.secretchina.com/news/b5/2026/03/20/1096596.html	其他戰事
 2026-03-20	中東戰火燒不停！大規模石油被卡死 債券投資巨頭示警最棘手情況	https://tw.stock.yahoo.com/news/中東戰火燒不停！大規模石油被卡死-債券投資巨頭示警最棘手情況-074129080.html	中東戰事
 2026-03-20	【觀點】皮爾斯·摩根專訪江學勤：倘美撤軍 伊朗將乘勢崛起	https://www.litenews.hk/news/17599-【觀點】皮爾斯·摩根專訪江學勤：倘美撤軍-伊朗將乘勢崛起	中東戰事
+2026-03-18	以色列再斃伊朗高官！國安首長空襲身亡 納坦雅胡：政權崩潰邊	https://globalnewstv.com.tw/202603/234132/	中東戰事
 2026-03-18	伊朗向以色列發射集束炸彈 以色列稱造成2人死亡	https://news.rthk.hk/rthk/ch/component/k2/1847795-20260318.htm	中東戰事
 2026-03-16	「樺加沙」襲港一家四口追風墮海險死 夫婦被控疏忽照顧兒童	https://www.hkcd.com.hk/hkcdweb/content/2026/03/16/content_8745153.html	中東戰事
 2026-03-15	獨家影音／接軌現代作戰! 來第一視角直擊陸軍FPV 無人機攻擊訓練	https://www.msn.com/zh-tw/news/national/戰略這盤局-獨家影音-接軌現代作戰-來第一視角直擊陸軍fpv無人機攻擊訓練/ar-AA1WEzaj	空襲導彈
@@ -655,6 +642,9 @@ var DATA_WAR = `
 2026-03-09	黎巴嫩「加薩化」 以色列大轟炸30萬人逃400死	https://news.tvbs.com.tw/focus/3146222	中東戰事
 2026-03-09	中東局勢丨有軍事飛行物墮落沙特住宅區 最少2死12人傷	https://www.hkej.com/instantnews/current/article/4336246/中東局勢丨有軍事飛行物墮落沙特住宅區+最少2死12人傷	中東戰事
 2026-03-08	黎巴嫩貝魯特一酒店遭以色列空襲 4人亡10傷 (12:46) - 20260308 - 國際	https://news.mingpao.com/ins/國際/article/20260308/s00005/1772936409705/黎巴嫩貝魯特一酒店遭以色列空襲-4人亡10傷	中東戰事
+2026-03-07	美以襲伊朗．不斷更新｜中東局勢升級 區內難民增至2500萬	https://news.tvb.com/sc/world/69a29d50f3bac3b7e4e57871/国际-美以襲伊朗不斷更新｜中東局勢升級-區內難民增至2500萬	中東戰事
+2026-03-06	中東戰火擴大至14國！伊朗死亡人數破1230、黎巴嫩逾100人遇難特朗普稱要參與決定伊朗最高領袖作者FX168	https://hk.investing.com/news/commodities-news/article-1347465	中東戰事
+2026-03-05	美以襲伊朗．不斷更新｜黎巴嫩近日受以色列襲擊累計102人死	https://news.tvb.com/sc/world/69a29d50f3bac3b7e4e57871/国际-美以襲伊朗不斷更新｜黎巴嫩近日受以色列襲擊累計102人死	中東戰事
 2026-03-05	曾預示教宗、黛安娜王妃逝世！500年前預言再命中美國用「這方式」對伊朗開戰	https://tw.news.yahoo.com/曾預示教宗-黛安娜王妃逝世-500年前預言再命中美國用-這方式-對伊朗開戰-062400088.html	開戰衝突
 2026-03-04	美以突襲伊朗死亡人數破千 戰爭第4天各國傷亡數字一次看	https://tw.news.yahoo.com/美以突襲伊朗死亡人數破千-戰爭第4天各國傷亡數字-次看-034000437.html	中東戰事
 2026-03-02	阿布扎比機場受襲 一亞洲旅客亡7人傷 杜拜帆船酒店遭伊朗無人機擊中起火	https://www.am730.com.hk/國際/1014835/阿布扎比機場受襲-一亞洲旅客亡7人傷-杜拜帆船酒店遭伊朗無人機擊中起火	中東戰事
@@ -678,6 +668,7 @@ var DATA_WAR = `
 2026-02-23	美俄條約終止！普丁：發展核武絕對優先 強化所有軍種	https://www.ettoday.net/news/20260223/3121801.htm	核威脅
 2026-02-23	【天亮論政】墨西哥緝毒，為何全國陷入混亂？妄議中央十大話題，2月21日這條最勁爆；如廁問題，竟成美伊戰爭最大障礙(天亮論政第1901集 20260223)	https://www.soundofhope.org/post/923107?lang=b5	其他戰事
 2026-02-22	資訊系統遭入侵 圓山大飯店顧客資料疑外洩	https://www.epochtimes.com/b5/26/2/22/n14703405.htm/amp	開戰衝突
+2026-02-21	獨家影音／接軌現代作戰!來第一視角直擊陸軍FPV 無人機攻擊訓練	https://www.msn.com/zh-tw/news/national/獨家影音-接軌現代作戰-來第一視角直擊陸軍fpv無人機攻擊訓練/ar-AA1WEzaj	空襲導彈
 2026-02-17	【天亮論政】新年靈異事件！鄭麗文在佛經前發抖；俄烏戰爭重要轉折，澤連斯基要與普京見面；伊朗放出最狠話後秒慫(天亮論政第1894集 20260217)	https://www.soundofhope.org/post/922468?lang=b5	俄烏戰事
 2026-02-14	頭盔哀悼戰亡運動員「遭冬奧禁賽」 烏克蘭選手上訴失敗	https://www.ettoday.net/news/20260214/3119003.htm	俄烏戰事
 2026-02-13	冬奧／頭盔悼戰亡運動員遭禁賽 烏克蘭選手上訴失敗	https://www.worldjournal.com/wj/story/122282/9330329	俄烏戰事
@@ -687,16 +678,20 @@ var DATA_WAR = `
 2026-02-11	【老北京茶館】 第1554集 張又俠兒子反擊：告知世界爹被抓真相？習近平出昏招：威脅全軍政治整肅！美英滅共軍演升級！中共毒奶粉原料全球召回！武毒所又提前出病毒“特效藥”，有事！	https://www.soundofhope.org/post/921871?lang=b5	軍演集結
 2026-02-10	不捨54歲父癌逝！「核彈芭比」金賢姈陪走完最後一程：下輩子還要當你的女兒	https://tw.news.yahoo.com/不捨54歲父癌逝-核彈芭比-金賢姈陪走完最後-程-下輩子還要當你的女兒-033000979.html	核威脅
 2026-02-09	父胰臟癌54歲驟逝 「核彈芭比」返韓奔喪！缺席應援盼外界理解	https://star.setn.com/news/1792879	核威脅
+2026-02-02	烏克蘭礦工巴士遭空襲15死7傷	https://www.tdm.com.mo/zh-hant/news-detail/1173441?lang=zh&isvideo=false&category&shortvideo=0	俄烏戰事
 2026-02-02	以色列首度承認加沙死亡人數達7萬 拉法口岸重開成焦點｜各地媒體分析	https://news.tvb.com/sc/world/697d900d743cc57937addefb/国际-以色列首度承認加沙死亡人數達7萬-拉法口岸重開成焦點｜各地媒體分析	中東戰事
 2026-02-02	以巴衝突｜以色列空襲加沙多地至少32死 八國譴責以方違停火協議	https://news.tvb.com/tc/world/697fd48be366b477d9ae8152/國際-以巴衝突｜以色列空襲加沙多地至少32死-八國譴責以方違停火協議	中東戰事
 2026-01-30	（有片）兩港人烏克蘭戰死 鄧炳強：兩人接受軍訓圖日後返港「抗爭」	https://www.tkww.hk/a/202601/30/AP697cb5ffe4b0aa6cbcd3d27a.html	俄烏戰事
+2026-01-29	伊朗處決了一名被指控為以色列情報部門從事間諜活動的男子	https://citytimes.tw/資訊/伊朗處決了一名被指控為以色列情報部門從事間諜/592392/	中東戰事
 2026-01-26	加沙的帳篷生活在疾病和日常絕望之間	https://mtgamer.com/%E5%85%A8%E7%90%83%E8%B3%87%E8%A8%8A/%E5%8A%A0%E6%B2%99%E7%9A%84%E5%B8%B3%E7%AF%B7%E7%94%9F%E6%B4%BB%E5%9C%A8%E7%96%BE%E7%97%85%E5%92%8C%E6%97%A5%E5%B8%B8%E7%B5%95%E6%9C%9B%E4%B9%8B%E9%96%93/258924/	中東戰事
 2026-01-22	以哈戰爭｜以色列空襲加沙中部致11死 特朗普：普京同意加入加沙和平委員會	https://www.i-cable.com/新聞資訊/431350/以哈戰爭-以色列空襲加沙中部致11死-特朗普-普	中東戰事
 2026-01-12	科學人／健檢零紅字一樣有心血管疾病？全因「微塑膠悄悄入侵」 男性風險更高	https://udn.com/news/amp/story/6904/9247762	開戰衝突
 2026-01-12	歷史上的1月12日｜從戰爭到平權 改變世界的關鍵一天	https://news.tvb.com/sc/world/6964bf59803b902326838d18/国际-歷史上的1月12日｜從戰爭到平權-改變世界的關鍵一天	其他戰事
 2026-01-12	伊朗示威538亡！伊總統批暴亂者受美、以國挑撥 川普評估軍事介入	https://news.ttv.com.tw/news/115011200052001	中東戰事
 2026-01-11	古巴爆神祕疾病！逾3成人口染疫「醫療體系快崩潰」 官方拒宣布緊急狀態	https://tw.news.yahoo.com/古巴爆神祕疾病-逾3成人口染疫-醫療體系快崩潰-官方拒宣布緊急狀態-092400427.html	未分類
+2026-01-06	單日發射數百架 俄烏無人機互襲更趨激烈	https://hk.crntt.com/doc/0_0_107158252_1_0106110310.html	俄烏戰事
 2026-01-05	空襲委內瑞拉 | 馬杜羅藏身處淪焦土 美轟炸最大軍事基地 突襲行動釀至少80死	https://www.stheadline.com/realtime-world/3532720/空襲委內瑞拉-馬杜羅藏身處淪焦土-美轟炸最大軍事基地-突襲行動釀至少80死	空襲導彈
+2025-12-30	巴勒斯坦武裝組織哈馬斯證實卡桑旅軍事發言人死亡	http://www.aastocks.com/tc/stocks/news/infocast-news/IC4815489/1	中東戰事
 2025-12-30	哈馬斯證實下屬武裝派別卡桑旅軍事發言人死亡	https://news.rthk.hk/rthk/ch/component/k2/1837929-20251230.htm	中東戰事
 2025-12-30	俄烏戰爭：美國推動和平協議期間，俄軍戰死人數創下記錄	https://www.bbc.com/zhongwen/articles/c79x94217yeo/trad	俄烏戰事
 2025-12-30	中東MERS個案增 防護中心籲訪中東時避免接觸單峰駱駝	https://www.881903.com/news/amp/local/2612272	中東戰事
@@ -707,6 +702,7 @@ var DATA_WAR = `
 2025-12-03	「逝影餘韻」音樂會選址兩處二級歷史建築 以旋律勾勒戰爭時代烙印	https://www.orangenews.hk/music/V4J7QU1/逝影餘韻-音樂會選址兩處二級歷史建築-以旋律勾勒戰爭時代烙印.shtml	其他戰事
 2025-11-30	海軍陸戰隊99旅中尉身亡！哨站內擊發倒血泊 「5天內已2死」軍方回應了 | 易軍堯 | 新聞	https://www.storm.mg/article/11084610	未分類
 2025-10-16	再不停火就炸死你！美防長警告俄羅斯：烏克蘭真正火力將至	https://tw.news.yahoo.com/再不停火就炸死你-美防長警告俄羅斯-烏克蘭真正火力將至-032100187.html	俄烏戰事
+2025-10-13	以色列：一名在新星節哈馬斯屠殺中倖存的年輕人自殺	https://citytimes.tw/資訊/以色列：一名在新星節哈馬斯屠殺中倖存的年輕人/191573/	中東戰事
 2025-09-26	樺加沙｜柴灣一家四口觀浪遭巨浪捲走 5歲仔仍嚴重 母轉穩定 目擊者揭經過	https://www.sundaykiss.com/%E7%86%B1%E8%A9%B1/%E6%A8%BA%E5%8A%A0%E6%B2%99-%E6%9F%B4%E7%81%A3-%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3-%E8%A7%80%E6%B5%AA-%E5%A2%AE%E6%B5%B7-%E6%89%93%E9%A2%A8-%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8-2269974/	中東戰事
 2025-09-25	桦加沙袭港观浪1家3口被渔民救起留医情况好转| 港澳大小事| 中国 | 世界新闻网	https://www.worldjournal.com/wj/story/121341/9028533?from=wj_catelistnews&zh-cn	中東戰事
 2025-09-24	樺加沙｜10號風球改8號 港鐵籲不要趕出門：露天段須時檢查維修	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60279485/%E6%A8%BA%E5%8A%A0%E6%B2%99-10%E8%99%9F%E9%A2%A8%E7%90%83%E6%94%B98%E8%99%9F-%E6%B8%AF%E9%90%B5%E7%B1%B2%E4%B8%8D%E8%A6%81%E8%B6%95%E5%87%BA%E9%96%80-%E9%9C%B2%E5%A4%A9%E6%AE%B5%E9%A0%88%E6%99%82%E6%AA%A2%E6%9F%A5%E7%B6%AD%E4%BF%AE	中東戰事
@@ -791,5 +787,4 @@ var DATA_WAR = `
 2020-05-04	亞洲暴徒來襲外來種巨大「殺人蜂」首次入侵美國| 國際	https://newtalk.tw/news/view/2020-05-04/401465	開戰衝突
 2019-11-18	香港理大告急！警圍攻勇武死守 民間籲人海戰術反包圍(圖) - 時政聚焦 - - (移動版)	https://www.secretchina.com/news/b5/2019/11/18/913953.html	未分類
 2015-11-22	伊朗兵棋推演「佔領以色列聖殿山」 糗將兩大地標清真寺搞混 | 簡嘉宏 | 新聞	https://www.storm.mg/article/74419	中東戰事
-2015-08-05	蟲蟲危機！百萬蝗蟲入侵南俄羅斯心血被啃農民喊苦| 國際	https://www.setn.com/news/88502	俄烏戰事
-`;
+2015-08-05	蟲蟲危機！百萬蝗蟲入侵南俄羅斯心血被啃農民喊苦| 國際	https://www.setn.com/news/88502	俄烏戰事`;

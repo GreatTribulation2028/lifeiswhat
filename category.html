@@ -199,24 +199,34 @@ details.stats[open] summary::before{content:"▾ "}
 <button id="top" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回置頂">▲</button>
 
 <script>
-/* ================= 十一類設定 ================= */
+/* ================= 分類設定 =================
+   ★ 2026-10-15 修：key 必須 = 資料檔名 data_<key>.js
+   舊版用中文系統 key（suicide/economy...），但資料檔係
+   departure/econ...，ALIAS 轉完再攞去 CATS 查 → 查唔到
+   → 全部 fallback 去 sudden（猝死），即「鎖死猝死」bug。
+   而家 CATS 直接以資料檔名做 key，舊連結由 ALIAS 轉入。 */
 const CATS={
-  religion:{name:"宗教",full:"宗教記錄",varName:'DATA_RELIGION',color:"#ffd166"},
-  tribulation:{name:"七年大災難",full:"七年大災難記錄",varName:'DATA_TRIBULATION',color:"#e94560"},
-  suicide:{name:"自殺",full:"自殺事件記錄",varName:'DATA_SUICIDE',color:"#ff4d6d"},
-  security:{name:"治安",full:"治安與暴力犯罪",varName:'DATA_SECURITY',color:"#c77dff"},
+  sudden:{name:"猝死",full:"猝死記錄",varName:'DATA_SUDDEN',color:"#ff4d6d"},
+  departure:{name:"自殺",full:"自殺與離世記錄",varName:'DATA_DEPARTURE',color:"#ff8fa3"},
+  industry:{name:"意外",full:"工業與日常意外",varName:'DATA_INDUSTRY',color:"#fb8500"},
   traffic:{name:"交通",full:"交通意外",varName:'DATA_TRAFFIC',color:"#ffb703"},
   fire:{name:"火警",full:"火警與火災",varName:'DATA_FIRE',color:"#e63946"},
-  drowning:{name:"遇溺",full:"遇溺與溺水",varName:'DATA_DROWNING',color:"#4dc3ff"},
+  tragedy:{name:"遇溺",full:"遇溺與溺水",varName:'DATA_TRAGEDY',color:"#4dc3ff"},
+  plague:{name:"醫藥",full:"疫情、疫苗、醫療",varName:'DATA_PLAGUE',color:"#7CFC00"},
+  sidefx:{name:"藥物副作用",full:"藥物副作用",varName:'DATA_SIDEFX',color:"#9d4edd"},
+  econ:{name:"經濟",full:"經濟與金融",varName:'DATA_ECON',color:"#ffb020"},
   disaster:{name:"天災",full:"自然災害",varName:'DATA_DISASTER',color:"#00d26a"},
-  accident:{name:"意外",full:"工業與日常意外",varName:'DATA_ACCIDENT',color:"#fb8500"},
-  medical:{name:"醫藥",full:"疫情、疫苗、醫療",varName:'DATA_MEDICAL',color:"#7CFC00"},
-  economy:{name:"經濟",full:"經濟與金融",varName:'DATA_ECONOMY',color:"#ffb020"},
-  ai_safety:{name:"AI安全",full:"AI 安全與監控",varName:'DATA_AI_SAFETY',color:"#00f3ff"},
-  heatstroke:{name:"中暑昏迷",full:"中暑",varName:'DATA_HEATSTROKE',color:"#f77f00"},
-  sudden:{name:"猝死",full:"猝死記錄",varName:'DATA_SUDDEN',color:"#ff4d6d"},
+  war:{name:"戰爭",full:"戰爭與衝突",varName:'DATA_WAR',color:"#d00000"},
+  social:{name:"治安",full:"治安與暴力犯罪",varName:'DATA_SOCIAL',color:"#c77dff"},
+  food:{name:"糧食",full:"糧食與供應",varName:'DATA_FOOD',color:"#bc6c25"},
+  tech:{name:"AI安全",full:"AI 安全與監控",varName:'DATA_TECH',color:"#00f3ff"},
+  religion:{name:"宗教",full:"宗教記錄",varName:'DATA_RELIGION',color:"#ffd166"},
+  tribulation:{name:"七年大災難",full:"七年大災難記錄",varName:'DATA_TRIBULATION',color:"#e94560"},
+  celestial:{name:"天象",full:"天象異常",varName:'DATA_CELESTIAL',color:"#8ecae6"},
+  politics:{name:"政治",full:"政治動盪",varName:'DATA_POLITICS',color:"#adb5bd"},
+  /* 中暑昏迷冇獨立資料檔：用猝死檔 + 預設搜尋「中暑」 */
+  heatstroke:{name:"中暑昏迷",full:"中暑、暈倒、昏迷（猝死檔篩選）",varName:'DATA_SUDDEN',file:'sudden',preset:'中暑',color:"#f77f00"},
 };
-/* 14 類平級（依 priority 順序）*/
 const ORDER=Object.keys(CATS);
 
 /* ★ 2026-10-06 修正：
@@ -236,9 +246,12 @@ ORDER2.forEach(function(k){CAT2GROUP[k]='ALL';});
 
 /* ================= 狀態 ================= */
 const params=new URLSearchParams(location.search);
-const ALIAS={economy:'econ',medical:'plague',suicide:'departure',security:'social',accident:'industry',drowning:'tragedy',heatstroke:'sudden','ai_safety':'tech'};
+/* 舊版中文系統連結 → 資料檔 key（相容用）*/
+const ALIAS={suicide:'departure',security:'social',accident:'industry',drowning:'tragedy',
+  medical:'plague',economy:'econ',ai_safety:'tech'};
 const _rc=params.get('cat')||'sudden';
-const cat=CATS[ALIAS[_rc]||_rc]?(ALIAS[_rc]||_rc):'sudden';
+const _rk=ALIAS[_rc]||_rc;
+const cat=CATS[_rk]?_rk:'sudden';
 const C=CATS[cat];
 let all=[],view=[],timeRange='all',subFilter=params.get('sub')||'';
 
@@ -318,8 +331,9 @@ function loadScript(src,ms){return new Promise((res,rej)=>{
 async function loadAll(){
   const v=localDateStr(new Date()).replace(/-/g,'');
   const winVar=C.varName;
+  const fk=C.file||cat; /* 資料檔 key（heatstroke 共用 sudden 檔）*/
   // ★ 只試最可能嘅路徑，每個最多等 4 秒，唔好讓 404 卡住畫面
-  const srcs=[`data_${cat}.js?v=${v}`,`Data/data_${cat}.js?v=${v}`,`data_${cat}.js`];
+  const srcs=[`data_${fk}.js?v=${v}`,`Data/data_${fk}.js?v=${v}`,`data_${fk}.js`];
   let loaded='';
   for(const src of srcs){
     try{await loadScript(src,4000);}catch(e){continue;}
@@ -329,7 +343,7 @@ async function loadAll(){
     all=parseData(window[winVar]);
   }else{
     document.getElementById('feed').innerHTML=
-      '<div class="err">⚠️ 搵唔到資料檔 data_'+cat+'.js<br>請確認已上傳到同一資料夾，或本機預覽時資料放喺 Data\\ 入面。</div>';
+      '<div class="err">⚠️ 搵唔到資料檔 data_'+fk+'.js<br>請確認已上傳到同一資料夾，或本機預覽時資料放喺 Data\\ 入面。</div>';
     document.getElementById('dateRange').textContent='無資料';
     return;
   }
@@ -361,6 +375,7 @@ async function loadAll(){
       }
     });
   }
+  if(C.preset){document.getElementById('q').value=C.preset;}
   initView();
 }
 function initView(){

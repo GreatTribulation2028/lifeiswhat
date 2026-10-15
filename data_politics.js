@@ -1,6 +1,5 @@
-// 政治 | 由 build_news_js.py 生成 | 共 338 條
-var DATA_POLITICS = `
-2026-10-15	陸克文指中美關係穩中藏險 美國大選選情追蹤 - 專題	https://news.google.com/rss/articles/CBMizwJBVV95cUxOTlk5MTlhQ2FNS3JDbGNzeEozWmlLQ2FGbGFSSHdoQndOa295ZlBlNjZHZ3ByM2dKTVRvelE3OG8wTEwxLWFQVGFyRWg1a1dNcFF5dnUxc1gxYmYyNGV3ZjlLYWlxZWFXYVZuajF6V3dxMHJjUjRCUnk2VURnVEtCN2t2U2JCX3VGQnZaWU5RWmtZUVBfZjJKeXJMdkluUGxRcV81YmwwTENDcWtJNGxDeDA4OHlfYVJfdUNkWmh1TzdYa2hwVlNQTDJTbm1BMktBcE1lSzRYTzI5OFFiZmtsajZLcHlPNmVPd2FXelB3M043eXFoNVJhd2dyVy1WSFZ0bU02azVJWWdCeEU1X3ZIUl9uU3lYR3BzLUV4d1VHelQzaWJRbHIzdjZrWjFqUHJ1bzRvLUdWUloxNGdZYURKYU1fM0tBa3BHaE5UcmZRSQ?oc=5	大選
+// 政治 | 由 build_news_js.py 生成 | 共 337 條
+var DATA_POLITICS = `2026-10-15	陸克文指中美關係穩中藏險 美國大選選情追蹤 - 專題	https://news.google.com/rss/articles/CBMizwJBVV95cUxOTlk5MTlhQ2FNS3JDbGNzeEozWmlLQ2FGbGFSSHdoQndOa295ZlBlNjZHZ3ByM2dKTVRvelE3OG8wTEwxLWFQVGFyRWg1a1dNcFF5dnUxc1gxYmYyNGV3ZjlLYWlxZWFXYVZuajF6V3dxMHJjUjRCUnk2VURnVEtCN2t2U2JCX3VGQnZaWU5RWmtZUVBfZjJKeXJMdkluUGxRcV81YmwwTENDcWtJNGxDeDA4OHlfYVJfdUNkWmh1TzdYa2hwVlNQTDJTbm1BMktBcE1lSzRYTzI5OFFiZmtsajZLcHlPNmVPd2FXelB3M043eXFoNVJhd2dyVy1WSFZ0bU02azVJWWdCeEU1X3ZIUl9uU3lYR3BzLUV4d1VHelQzaWJRbHIzdjZrWjFqUHJ1bzRvLUdWUloxNGdZYURKYU1fM0tBa3BHaE5UcmZRSQ?oc=5	大選
 2026-10-15	賀錦麗頻跑期中選舉行程！ 外媒：恐為2028美總統大選提前佈局 | Newtalk	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lNmpGTXdnQ01uN0NKQmF4U1M1V21nM240Ml9XV21yc2ltN0xYcFJDT19IYjFzdHJ5dTNHZDlpMGQ2WS16elFlb0oyUWNiWEh5OG05VDlB?oc=5	大選
 2026-10-15	美期中選舉將至猶如2028總統大選前哨戰| 國際	https://news.google.com/rss/articles/CBMiX0FVX3lxTE44cEJTR1NzMllPMU1fME85TEF2YTNNLVNrWGVKN1otVzFWa0E5NG51QnBUX3B6aDA5TXYwaXJfajZvUXFuX1BJaDdXSmJ1cDc5TzFsTjlwQ3ZneFdocVVV?oc=5	大選
 2026-10-15	美冀藉谷增長化債 IMF潑冷水 美國大選選情追蹤 - 專題	https://news.google.com/rss/articles/CBMiyAJBVV95cUxQcWdYUENyNjUxNHh4QVNLM3FQSUExN2F2Y0ZkN1czRmVkNmRIMXU2Z3l3aTJhSHZ4TnI5SnlGUm5GdkZOd2kwLURYcEpneUlFYl9oWjNlVW52ZENjTDBFUHpEaUYwenRQU2ZXRlpyczczZXRyVTQtbVRNNzZjcm1JZlBkVDhyUzZwMFFERmVWZEV5eWlHSDdVY09McHFyUWFiOEpQbGxsMDJidmx3cjI1NTBpVV9MQWFpWXZnbUlFMDBiZlFOelVyWmJ6UkY4ZTlGX0ZHQzFBT1hHc3k3R0x1UjA4MWwwN0RjQUc1ZVBrLVZ5SE0yZTFtZnpfMjZGdTBzVk9TNG5WSGhGaEhfbmVjV0FTbl9EdW5GbWdmck4tRU96VEZTZzVRTWFEbEhwU3FwMG1nWmRHcy02S2VaUlJvcDZKQVgtVy1S?oc=5	大選
@@ -135,16 +134,13 @@ var DATA_POLITICS = `
 2026-09-30	伊看淡談判前景料美中選前難破局特朗普否認有條件解除對伊制裁美媒：雙方互不信任- 國際	https://www.wenweipo.com/a/202609/30/AP6abc1b64e4b01d54a2854c44.html	國際關係
 2026-09-30	伊朗局勢｜革命衛隊向美選民發公開信 促中期選舉反對特朗普政策 華府再出制裁名單	https://www.stheadline.com/realtime-world/3620838/%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E9%9D%A9%E5%91%BD%E8%A1%9B%E9%9A%8A%E5%90%91%E7%BE%8E%E9%81%B8%E6%B0%91%E7%99%BC%E5%85%AC%E9%96%8B%E4%BF%A1-%E4%BF%83%E4%B8%AD%E6%9C%9F%E9%81%B8%E8%88%89%E5%8F%8D%E5%B0%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E7%AD%96-%E8%8F%AF%E5%BA%9C%E5%86%8D%E5%87%BA%E5%88%B6%E8%A3%81%E5%90%8D%E5%96%AE	國際關係
 2026-09-30	30年債息衝破5.6厘 美股受壓 美國大選選情追蹤 - 專題	https://www.hkej.com/features/article/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E9%81%B8%E9%81%B8%E6%83%85%E8%BF%BD%E8%B9%A4/2078939212/30%E5%B9%B4%E5%82%B5%E6%81%AF%E8%A1%9D%E7%A0%B45.6%E5%8E%98+%E7%BE%8E%E8%82%A1%E5%8F%97%E5%A3%93	大選
-2026-09-29	陳光復跌倒昏迷 2026縣長大選對手發聲了	https://www.msn.com/zh-tw/news/national/陳光復跌倒昏迷-2026縣長大選對手發聲了/ar-AA1Wwm3V?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t	大選
 2026-09-29	關稅案敗訴後再伸魔爪引用另一法案條文報復特朗普向全球 ...	https://www.todaycommercialnews.com/m/international/65442	政策法令
-2026-09-29	這幾天，伊朗局勢再度動盪，抗議、鎮壓、經濟惡化，讓人產生一種強烈的歷史感，伊朗真的正在走向變局。再次印證了幾句老話「獨裁者不會長久」、「多行不義必自斃」。 放眼這一兩年，世界出現了一個非常明顯的趨勢，那就是，把「反美」當成國策的獨裁政權，一個接一個	https://www.facebook.com/YaitaAkio/photos/這幾天伊朗局勢再度動盪抗議鎮壓經濟惡化讓人產生一種強烈的歷史感伊朗真的正在走向變局再次印證了幾句老話獨裁者不會長久多行不義必自斃放眼這一兩年世界出現了一個非常明/898541552679297/	獨裁專政
 2026-09-29	衝刺九合一大選！鄭麗文喊話藍委「主動出擊」到各地輔選	https://ctinews.com/news/items/gOnL1k1OWk	大選
 2026-09-29	英國經濟實現增長 服務業無視能源和政治動盪	https://news.futunn.com/hk/post/76134533/uk-economy-posts-growth-as-services-sector-shrugs-off-energy	未分類
 2026-09-29	美債港股不濟 衰在供應太多 美國大選政經分析文章 - 專題	https://www.hkej.com/features/article/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E9%81%B8%E6%94%BF%E7%B6%93%E5%88%86%E6%9E%90%E6%96%87%E7%AB%A0/3673916282/%E7%BE%8E%E5%82%B5%E6%B8%AF%E8%82%A1%E4%B8%8D%E6%BF%9F+%E8%A1%B0%E5%9C%A8%E4%BE%9B%E6%87%89%E5%A4%AA%E5%A4%9A	大選
 2026-09-29	確保AI不叛變 中國可當規則制定者 美國大選政經分析文章 - 專題	https://www.hkej.com/features/article/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E9%81%B8%E6%94%BF%E7%B6%93%E5%88%86%E6%9E%90%E6%96%87%E7%AB%A0/2025026583/%E7%A2%BA%E4%BF%9DAI%E4%B8%8D%E5%8F%9B%E8%AE%8A+%E4%B8%AD%E5%9C%8B%E5%8F%AF%E7%95%B6%E8%A6%8F%E5%89%87%E5%88%B6%E5%AE%9A%E8%80%85	大選
 2026-09-29	白宮花234萬公帑再推「愛國廣告」 美國大選選情追蹤 - 專題	https://www.hkej.com/features/article/%E7%BE%8E%E5%9C%8B%E5%A4%A7%E9%81%B8%E9%81%B8%E6%83%85%E8%BF%BD%E8%B9%A4/1782373345/%E7%99%BD%E5%AE%AE%E8%8A%B1234%E8%90%AC%E5%85%AC%E5%B8%91%E5%86%8D%E6%8E%A8%E3%80%8C%E6%84%9B%E5%9C%8B%E5%BB%A3%E5%91%8A%E3%80%8D	大選
 2026-09-29	斷交國「200萬磅蝦」遭我友邦封殺！業者慘叫盼重新開放	https://inews.setn.com/news/1885314	國際關係
-2026-09-29	捷克專家談大選： 若台捷經貿合作夠強政治因素無礙	http://www.msn.com/zh-tw/news/world/捷克專家談大選-若台捷經貿合作夠強-政治因素無礙/ar-AA1NT9xJ	大選
 2026-09-29	巴西總統盧拉大選前推禁賭令 冀爭取選民支持	https://www.bastillepost.com/hongkong/article/16867717-%E5%B7%B4%E8%A5%BF%E7%B8%BD%E7%B5%B1%E7%9B%A7%E6%8B%89%E5%A4%A7%E9%81%B8%E5%89%8D%E6%8E%A8%E7%A6%81%E8%B3%AD%E4%BB%A4-%E5%86%80%E7%88%AD%E5%8F%96%E9%81%B8%E6%B0%91%E6%94%AF%E6%8C%81	大選
 2026-09-29	巴西大選爆外交風波 總統魯拉指控川普干預選情	https://www.worldjournal.com/wj/story/121488/9783143	大選
 2026-09-29	川普關稅戰害台幣狂升！ 藍營民調57.2% 民眾反對賴政府搞罷免	http://www.msn.com/zh-tw/news/other/川普關稅戰害台幣狂升-藍營民調572-民眾反對賴政府搞罷免/ar-AA1Eil1Y?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	國際關係
@@ -284,6 +280,7 @@ var DATA_POLITICS = `
 2026-05-14	總統彈劾案19日投票！藍批賴清德判斷昏饋 疾呼「因珍惜民主才提彈劾」	https://tw.news.yahoo.com/總統彈劾案19日投票-藍批賴清德判斷昏饋-疾呼-因珍惜民主才提彈劾-060600377.html	大選
 2026-05-12	駐韓記者手記：戒嚴也是上帝的計畫？國民力量黨魁張東赫發言再掀波瀾	https://global.udn.com/global_vision/story/8663/9497907	獨裁專政
 2026-04-29	菲清剿新人民軍釀19死! 內含外國人與記者惹議 副總統莎拉表態引政治動盪	https://tw.news.yahoo.com/菲清剿新人民軍釀19死-內含外國人與記者惹議-副總統莎拉表態引政治動盪-075011252.html	未分類
+2026-04-25	陳光復跌倒昏迷 2026縣長大選對手發聲了	https://www.msn.com/zh-tw/news/national/陳光復跌倒昏迷-2026縣長大選對手發聲了/ar-AA1Wwm3V?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-t	大選
 2026-04-13	匈牙利大選反對派壓倒勝 新總理馬加爾宣示重返歐洲路線	https://news.pts.org.tw/article/803495	大選
 2026-04-10	匈牙利大選牽動歐洲政治版圖 美俄都出力助選	https://news.pts.org.tw/article/803088	大選
 2026-04-06	匈牙利大選前1週 天然氣管附近遭放爆裂物	https://news.pts.org.tw/article/802417	大選
@@ -305,6 +302,7 @@ var DATA_POLITICS = `
 2026-02-04	日本沿海地區大風雪釀最少35人死 眾議院選舉日或再有大雪勢影響投票	https://www.singtaousa.com/2026/02/04/news/world/at-least-35-people-died-in-heavy-wind-and-snow-in-coastal-areas-of-japan-heavy-snow-may-affect-voting-on-house-of-representatives-election-day/	大選
 2026-02-04	日本大雪至少釀35死、350多傷 周日眾議院選舉逾四成票站或提前結束投票	https://www.i-cable.com/新聞資訊/435548/日本大雪至少釀35死-350多傷-周日眾議院選舉逾四	大選
 2026-01-13	南韓前總統尹錫悅戒嚴案 涉內亂罪遭檢方求處死刑	https://news.pts.org.tw/article/790522	獨裁專政
+2026-01-12	這幾天，伊朗局勢再度動盪，抗議、鎮壓、經濟惡化，讓人產生一種強烈的歷史感，伊朗真的正在走向變局。再次印證了幾句老話「獨裁者不會長久」、「多行不義必自斃」。 放眼這一兩年，世界出現了一個非常明顯的趨勢，那就是，把「反美」當成國策的獨裁政權，一個接一個	https://www.facebook.com/YaitaAkio/photos/這幾天伊朗局勢再度動盪抗議鎮壓經濟惡化讓人產生一種強烈的歷史感伊朗真的正在走向變局再次印證了幾句老話獨裁者不會長久多行不義必自斃放眼這一兩年世界出現了一個非常明/898541552679297/	獨裁專政
 2025-12-03	寫完遺書就衝向國會…南韓戒嚴動亂一周年 那晚捍衛民主的英雄們	https://tw.news.yahoo.com/寫完遺書就衝向國會-南韓戒嚴動亂-周年-那晚捍衛民主的英雄們-042729447.html	獨裁專政
 2025-11-13	美國眾議院投票表決結束政府停擺臨時撥款法案	https://www.hk01.com/article/60293915?utm_source=01articlecopy&utm_medium=referral	政策法令
 2025-11-10	捷克專家談大選： 若台捷經貿合作夠強政治因素無礙	http://www.msn.com/zh-tw/news/world/%E6%8D%B7%E5%85%8B%E5%B0%88%E5%AE%B6%E8%AB%87%E5%A4%A7%E9%81%B8-%E8%8B%A5%E5%8F%B0%E6%8D%B7%E7%B6%93%E8%B2%BF%E5%90%88%E4%BD%9C%E5%A4%A0%E5%BC%B7-%E6%94%BF%E6%B2%BB%E5%9B%A0%E7%B4%A0%E7%84%A1%E7%A4%99/ar-AA1NT9xJ	大選
@@ -337,5 +335,4 @@ var DATA_POLITICS = `
 2021-02-18	抗議軍事政變！緬甸駭客攻擊政府網站 軍方封鎖網路	https://www.setn.com/news/898935	獨裁專政
 2020-10-23	大選催票！「時代雜誌」換刊名為VOTE，呼籲美國人投票！	https://www.gvm.com.tw/article/75300	大選
 2020-02-06	賴清德拜會白宮國安會 創台美斷交以來最高層級紀錄	https://www.setn.com/news/684240	國際關係
-2020-01-11	【2020台灣大選】血癌末期台男拍片籲投票 投票日上午病逝留遺憾	https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/420444/2020%E5%8F%B0%E7%81%A3%E5%A4%A7%E9%81%B8-%E8%A1%80%E7%99%8C%E6%9C%AB%E6%9C%9F%E5%8F%B0%E7%94%B7%E6%8B%8D%E7%89%87%E7%B1%B2%E6%8A%95%E7%A5%A8-%E6%8A%95%E7%A5%A8%E6%97%A5%E4%B8%8A%E5%8D%88%E7%97%85%E9%80%9D%E7%95%99%E9%81%BA%E6%86%BE	大選
-`;
+2020-01-11	【2020台灣大選】血癌末期台男拍片籲投票 投票日上午病逝留遺憾	https://www.hk01.com/%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9E/420444/2020%E5%8F%B0%E7%81%A3%E5%A4%A7%E9%81%B8-%E8%A1%80%E7%99%8C%E6%9C%AB%E6%9C%9F%E5%8F%B0%E7%94%B7%E6%8B%8D%E7%89%87%E7%B1%B2%E6%8A%95%E7%A5%A8-%E6%8A%95%E7%A5%A8%E6%97%A5%E4%B8%8A%E5%8D%88%E7%97%85%E9%80%9D%E7%95%99%E9%81%BA%E6%86%BE	大選`;

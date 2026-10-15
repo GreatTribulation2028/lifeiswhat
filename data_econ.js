@@ -1,6 +1,5 @@
-// 經濟 | 由 build_news_js.py 生成 | 共 2817 條
-var DATA_ECON = `
-2026-10-15	💻📉 通脹意外衝擊美國股市及對利率敏感的科技股	https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUNyaFlkai04VjBMNVZUZ3czR21EMXkzWGpCRHdHbmdjbGgwQzh6V0Q4MDlYZXhhemNlaUtWek5zN2ZidWp5Q2FQSzJ1S0I5WExfY0dUQl9XQ2c2NHZjbHRwMGl0Wk5KQzJFSkhzRWtHV0dLY1o0eU9iU1JwenQ0UnVXTlNwZGNJOTFUNTJ5SWZYcFBKRFl4cFFuczRzLWR4Wld0UlRIclRJckZwUnY2Z2FmSV9Tb1h5OXd3?oc=5	加息減息
+// 經濟 | 由 build_news_js.py 生成 | 共 2797 條
+var DATA_ECON = `2026-10-15	💻📉 通脹意外衝擊美國股市及對利率敏感的科技股	https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUNyaFlkai04VjBMNVZUZ3czR21EMXkzWGpCRHdHbmdjbGgwQzh6V0Q4MDlYZXhhemNlaUtWek5zN2ZidWp5Q2FQSzJ1S0I5WExfY0dUQl9XQ2c2NHZjbHRwMGl0Wk5KQzJFSkhzRWtHV0dLY1o0eU9iU1JwenQ0UnVXTlNwZGNJOTFUNTJ5SWZYcFBKRFl4cFFuczRzLWR4Wld0UlRIclRJckZwUnY2Z2FmSV9Tb1h5OXd3?oc=5	加息減息
 2026-10-15	黃金在通脹數據引發拋售後強勢反彈，聯準會加息預期升溫	https://news.google.com/rss/articles/CBMiiwNBVV95cUxQNUstbnBHaFFHM3FscmplWGpMc2hqUE9YTzh2VTMxaGVNOW1qNHk3T09aeHRaRGdORjJSd2FZcGN4ZFR4SWppTW5HX3R0YkJLbUdIVnRUUTluTnhqWmdnb2FzdmZfdWM2eUZmUmY0QVZ1bWhKS0U0ejhjREE5THpmenQwU2FKWDNGYVdhWUJQRVRWX0h4enBiWlU2YmFfREJObmlrU3FiblZPeUFkc3hLTVpTYWZsU0dJRW1nNzhMNUtfX1JBTDRTdXVZMUNMS2FuZTU5ckE0czdZam1ERmNkV1hHblVOcjhuREFseVpwamVzMTQ4cjZQSU0yS3I2MEV6TEdLZmNTeHFib3hOa21BS2hVTGlQY1A3Qzdodi1odDEtR2NEcEdkOEpiYWVHREhyZW13SlM1NExtZ2t5X2dVWFZ1YUllcjN2cm1WVTk3Q3VuTjdIdGFDQ3lhcndob1F6UDk2Yzc4b29fY251cGVJQWpCSXhrRE5pWnRxdzJaWk5UT1lJeUxXc1FNdw?oc=5	加息減息
 2026-10-15	通膨升息疑慮美股收黑！ 台積電ADR挫逾3％	https://www.ettoday.net/news/20261015/3254819.htm	加息減息
 2026-10-15	蓋蒂圖片社將破產 暫不裁員	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VdWcxTTFGbU90aWhHczlMVW5sdHNGMlpUclNYc2RzTWJfdHB5Wl9pMTZXUE02aUpSaGJ5bTRaVlNJUFdJUVo5NlhoS3BSelhUdDBVX212a0pneU83Um4yMF9n0gFnQVVfeXFMTzI2RnhSd24yMmcza1lfalktMjgzVU9vaVR3emMtVmI5V2hoTUhLTHlla2FxcU42dkNDeENsekRnSE1WS2lqbHZDTXVHak5MeF9WYWd1OXJ5V2I5SDNob1p5ckE2VEVEcw?oc=5	裁員清單
@@ -169,7 +168,6 @@ var DATA_ECON = `
 2026-09-30	AMZN 亞馬遜 - 🌊 13巨頭聯手承認AI裁員潮要來，亞馬遜150萬員工怎麼辦？🌊 - 股市爆料同學會	https://www.cmoney.tw/forum/article/185007911	裁員清單
 2026-09-29	黄金短线急涨55美元！美数据爆表、加息概率升至73%，金价为何逆势反攻？	https://news.fx168news.com/2607/7476224.shtml	加息減息
 2026-09-29	黃金跌近七週低點後小幅回升，聯準會升息預期持續升溫 作者 Investing.com	https://hk.investing.com/news/commodities-news/article-1677301	加息減息
-2026-09-29	黃金表現依舊強勢，許多投資人都在關注地緣政治風險、關稅戰等原因推動黃金飆高。 我則是很認同Ray Dalio對黃金的看法，黃金的大趨勢並非上述風險與散戶、央行大買，而是貨幣貶值。 Dalio 在訪談中提到時常被忽視的視角： 「如果你用美元視角看世界，你會覺得黃	https://www.facebook.com/deehsiang/posts/黃金表現依舊強勢許多投資人都在關注地緣政治風險關稅戰等原因推動黃金飆高我則是很認同ray-dalio對黃金的看法黃金的大趨勢並非上述風險與散戶央行大買而是貨幣貶/1482540793235578/	加息減息
 2026-09-29	黃金收評：金銀雙雙反彈！10月加息概率大降，但真正考驗還在後面 作者 FX168 - Investing.com 香港	https://hk.investing.com/news/commodities-news/article-1679207	加息減息
 2026-09-29	黃金在暴跌4%後於七週低位附近企穩！聯儲局加息預期升溫	https://hk.finance.yahoo.com/news/黃金在暴跌4-後於七週低位附近企穩-聯儲局加息預期升溫-030821587.html	加息減息
 2026-09-29	高溫及促銷減少削弱購物意願！英國7月零售銷售轉跌經濟陰霾疊加通脹反彈加劇英國央行政策困境作者智通財經	https://hk.investing.com/news/stock-market-news/article-1620645	加息減息
@@ -190,7 +188,6 @@ var DATA_ECON = `
 2026-09-29	通脹降溫削弱7月加息預期 美國國債本週小幅上漲 提供者 智通財經	https://m.hk.investing.com/news/stock-market-news/article-1558786?ampMode=1	加息減息
 2026-09-29	通脹與加息擔憂持續施壓下美債拋售加劇30年期收益率一度突破5.6%創逾24年新高作者智通財經 - Investing.com 香港	https://hk.investing.com/news/stock-market-news/article-1679244	加息減息
 2026-09-29	通脹壓力大 分析預測日本央行最快9月加息	http://www.crntt.com/doc/7_0_107226456_1_0822092723.html	加息減息
-2026-09-29	近年電商崛起，加上北上消費成風，本港零售業出現結構性轉變，傳統百貨公司逐漸被時代巨輪淘汰。據《信報》報道，老牌百貨公司先施（244）位於上環李寶椿大廈的分店，將於年底前因合約到期結業，該舖位傳獲龍豐以80萬預租；上環分店結業後，先施在香港將剩旺角	https://www.facebook.com/bossmindmedia/posts/近年電商崛起加上北上消費成風本港零售業出現結構性轉變傳統百貨公司逐漸被時代巨輪淘汰據信報報道老牌百貨公司先施244位於上環李寶椿大廈的分店將於年底前因合約到期結/945002161209644/	結業清單
 2026-09-29	農村剩男、城市剩女 中國人口崩盤成負債	https://stock.ltn.com.tw/article/kghasfsqwhht	股災金融
 2026-09-29	辦公室地產收益信託完成破產重組，成功走出第11章破產保護 作者 Investing.com	https://hk.investing.com/news/sec-filings/article-93CH-1521254	破產
 2026-09-29	赤峰街爆倒閉潮！他喊「轉戰萬華最後淨土」 在地人搖頭：西門町租金早飆翻	https://news.housefun.com.tw/news/article/151977489378.html	結業清單
@@ -201,7 +198,6 @@ var DATA_ECON = `
 2026-09-29	議息丨澳洲央行加息0.25厘 通脹仍高企	https://m.hkej.com/landing/mobarticle2/id/4526041/議息丨澳洲央行加息0.25厘 通脹仍高企	加息減息
 2026-09-29	裁員潮遭爆「被鎖定」方念華罕見發聲! 私人臉書回應曝光	https://www.msn.com/zh-tw/entertainment/news/裁員潮遭爆-被鎖定-方念華罕見發聲-私人臉書回應曝光/ar-AA20K65q?cvid=69dd23c649a04ec5b5c3f7623e189ef2&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	裁員清單
 2026-09-29	衛星網絡市場變天：Hughesnet 不敵 Starlink 申請破產保護，用戶流失近六成	https://techapple.com/archives/60830	破產
-2026-09-29	融創武漢1890項目公司被裁定破產清算	https://news.futunn.com/hk/post/69358015	破產
 2026-09-29	華許鷹派色彩鮮明，美聯儲加息預期升溫	https://zh.cn.nikkei.com/politicsaeconomy/efinance/63818-2026-08-31-09-35-09.html	加息減息
 2026-09-29	華爾街警報驟響！資深交易員警告：一場嚴重經濟「大崩盤」正在逼近 提供者 FX168	https://m.hk.investing.com/news/stock-market-news/article-1589431?ampMode=1	股災金融
 2026-09-29	華爾街正爲一場不會到來的加息買單，預期差醞釀利率敏感行業反轉機會	https://news.futunn.com/hk/post/75274422/wall-street-is-paying-for-a-rate-hike-that-won	加息減息
@@ -213,8 +209,6 @@ var DATA_ECON = `
 2026-09-29	英抵押貸款融資公司MFS或倒閉 富瑞挫11%領跌相關銀行股	http://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1505592/top-news/AAFN	結業清單
 2026-09-29	英建築業成本飆至30年新高 工地如斷供機器爆裁員潮	https://www.wenweipo.com/epaper/view/newsDetail/2069474722722222080.html	裁員清單
 2026-09-29	英央行首席經濟學家：央行獨立性受威脅	https://www.binance.com/zh-TC/square/post/362849572521093	加息減息
-2026-09-29	英國通脹回落 減息預期升温	https://invest.hket.com/article/4090777/	加息減息
-2026-09-29	英國抵押貸款公司倒閉引發金融板塊股價暴跌 作者 Investing.com	https://hk.investing.com/news/stock-market-news/article-93CH-1336368	結業清單
 2026-09-29	英國央行首席經濟學家：經濟增長支持繼續加息 作者 Investing.com	https://hk.investing.com/news/economy-news/article-93CH-1608230	加息減息
 2026-09-29	英國央行首席經濟學家：央行面臨被迫爲財政赤字籌措資金的風險	https://news.futunn.com/hk/flash/20713545/bank-of-england-chief-economist-central-bank-faces-risk-of	加息減息
 2026-09-29	英國央行維持利率不變 縮表「踩剎車」力度超預期	https://news.futunn.com/hk/post/79422321/bank-of-england-holds-rates-steady-balance-sheet-runoff-slows	加息減息
@@ -264,8 +258,6 @@ var DATA_ECON = `
 2026-09-29	美国银行：周五非农难以“一锤定音”，9月加息关键仍在CPI-市场参考	https://xnews.jin10.com/details/229137	加息減息
 2026-09-29	網絡熱話｜00後怨努力幾耐都買唔到樓！網民揭一世代最慘：高峰期入市遇疫情慘變負資產	https://ps.hket.com/article/4154125	樓市斷供
 2026-09-29	經濟學家：歐洲央行下週將加息25個基點 此後便停止緊縮行動 作者 智通財經	https://hk.investing.com/news/stock-market-news/article-1642835	加息減息
-2026-09-29	經濟優於預期 減息或引通脹	https://invest.hket.com/article/4091038/經濟優於預期 減息或引通脹	加息減息
-2026-09-29	結業潮｜馬鞍山耀安邨唯一快餐店美心MX結業 街坊歸咎一原因 全邨僅餘4間食肆|香港經濟日報	https://ps.hket.com/article/4196053/結業潮｜馬鞍山耀安邨唯一快餐店美心MX結業 街坊歸咎一原因 全邨僅餘4間食肆	結業清單
 2026-09-29	結業潮｜馬灣日式小店「米九十」租約期滿經已結業 老闆娘一人廚房難抵壓力|香港經濟日報	https://ps.hket.com/article/4174535/結業潮｜馬灣日式小店「米九十」租約期滿經已結業 老闆娘一人廚房難抵壓力?mtc=80023	結業清單
 2026-09-29	結業潮｜開業12年人氣餐廳Lab Eat 尖沙咀店宣布7月底熄燈 主打客制化慶生服務|香港經濟日報	https://ps.hket.com/article/4164773/	結業清單
 2026-09-29	結業潮｜長洲「頹飯」9月4日最後一日營業 平價飯成絕響|香港經濟日報	https://ps.hket.com/article/4174042/結業潮｜長洲「頹飯」9月4日最後一日營業 平價飯成絕響?mtc=20023	結業清單
@@ -273,7 +265,6 @@ var DATA_ECON = `
 2026-09-29	結業潮｜連鎖酒樓分店貼悲情結業通告 指消費持續疲弱仍未走出谷底	https://ps.hket.com/article/3876782/結業潮｜連鎖酒樓分店貼悲情結業通告 指消費持續疲弱仍未走出谷底?mtc=20023	結業清單
 2026-09-29	結業潮｜連鎖放題品牌「和牛燒肉一郎」攻港4年全綫撤港 荃灣最後一店4.30熄燈	https://ps.hket.com/article/4116402/結業潮｜連鎖放題品牌「和牛燒肉一郎」攻港4年全綫撤港 荃灣最後一店4.30熄燈?mtc=20023	結業清單
 2026-09-29	結業潮｜超羣太子花墟分店周日結業 經營60載屬全港首間西餅店	https://ps.hket.com/article/4128409/結業潮｜超羣太子花墟分店周日結業 經營60載屬全港首間西餅店	結業清單
-2026-09-29	結業潮｜誠品尖沙咀店第2季結業 遷往同區大型商場 傳規模縮減為一層	https://ps.hket.com/article/4061319/結業潮｜誠品尖沙咀店第2季結業 遷往同區大型商場 傳規模縮減為一層	結業清單
 2026-09-29	結業潮｜觀塘扇火鍋宣布5月底暫別 食客：咁高質都要執？	https://ps.hket.com/article/4132639/結業潮｜觀塘扇火鍋宣布5月底暫別 食客：咁高質都要執？	結業清單
 2026-09-29	結業潮｜觀塘工廈拉麵店開業1年即執笠 湯底麵底自由搭配吸食客	https://ps.hket.com/article/4136441/結業潮｜觀塘工廈拉麵店開業1年即執笠 湯底麵底自由搭配吸食客	結業清單
 2026-09-29	結業潮｜觀塘工廈Fusion泰菜今結業 招牌煙霧牛扒成回憶|香港經濟日報	https://ps.hket.com/article/4185739/	結業清單
@@ -282,10 +273,8 @@ var DATA_ECON = `
 2026-09-29	結業潮｜西灣河IKEA告別 合併九龍灣變全港最大特價部 街坊：不如改開美食站	https://ps.hket.com/article/4154418/結業潮｜西灣河IKEA告別 合併九龍灣變全港最大特價部 街坊：不如改開美食站	結業清單
 2026-09-29	結業潮｜西灣河38年老字號齋舖「金膳素食」月底結業 每周均免費派飯	https://ps.hket.com/article/4129655	結業清單
 2026-09-29	結業潮｜荃灣和風Cafe「HIKARI」9月30日結業 曾推歡樂時光自救未果|香港經濟日報	https://ps.hket.com/article/4180716/結業潮｜荃灣和風Cafe「HIKARI」9月30日結業 曾推歡樂時光自救未果	結業清單
-2026-09-29	結業潮｜花園餐廳半年連失3店！觀塘涉欠租逾200萬銅鑼灣店再貼「暫停營業」！網民憂全線結業	https://hk.ulifestyle.com.hk/topic/detail/20109367/%E7%B5%90%E6%A5%AD%E6%BD%AE-%E8%8A%B1%E5%9C%92%E9%A4%90%E5%BB%B3%E8%A7%80%E5%A1%98%E5%BA%97%E7%AA%81%E5%81%9C%E6%A5%AD-%E8%80%81%E7%89%8C%E6%89%92%E6%88%BF%E6%9B%BE%E9%81%AD%E8%BF%BD%E7%A7%9F%E9%80%BE-%E8%90%AC-%E5%8D%8A%E5%B9%B4%E9%80%A3%E5%A4%B1-%E5%88%86%E5%BA%97-%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9-%E5%9F%B7%E9%81%B2%E5%B7%A6	結業清單
 2026-09-29	結業潮｜美心旗下URBAN Café Commune全線結業 MOKO最後分店熄燈 結束11年營運	https://ps.hket.com/article/4127505/結業潮｜美心旗下URBAN Café Commune全線結業 MOKO最後分店熄燈 結束11年營運?mtc=80023	結業清單
 2026-09-29	結業潮｜網傳將軍澳千色店9月結業 官方否認：無結業安排	https://ps.hket.com/article/4105629/結業潮｜網傳將軍澳千色店9月結業 官方否認：無結業安排?mtc=80023	結業清單
-2026-09-29	結業潮｜米芝蓮粵菜波士廳‧101惹結業疑雲 職員：月底裝修惟完工無期|香港經濟日報	https://ps.hket.com/article/4177029/結業潮｜米芝蓮粵菜波士廳‧101惹結業疑雲 職員：月底裝修惟完工無期	結業清單
 2026-09-29	結業潮｜米線小店雲南風味館租約期滿 6月7日正式告別 街坊嘆：由中學食到而家	https://ps.hket.com/article/4140055	結業清單
 2026-09-29	結業潮｜竹園百佳6月29日告別 最後一週優惠大放送 買滿$100即減兼送94折券	https://ps.hket.com/article/4150607/結業潮｜竹園百佳6月29日告別 最後一週優惠大放送 買滿-100即減兼送94折券	結業清單
 2026-09-29	結業潮｜石燒牛扒店開業8年下月結業 曾找「國際巨星」推介都要執笠	https://ps.hket.com/article/4120294	結業清單
@@ -309,42 +298,33 @@ var DATA_ECON = `
 2026-09-29	結業潮｜大埔八鯨料理下月中結業 主打優惠午市及學生套餐	https://ps.hket.com/article/4136585/結業潮｜大埔八鯨料理下月中結業 主打優惠午市及學生套餐	結業清單
 2026-09-29	結業潮｜夜冷「大福行」鰂魚涌分店已結業 網民歸咎呢個原因|香港經濟日報	https://ps.hket.com/article/4169312	結業清單
 2026-09-29	結業潮｜壽司店千之味元朗店6月28日結業 年內連關兩分店 街坊：壽司一向高質！	https://ps.hket.com/article/4131740/結業潮｜壽司店千之味元朗店6月28日結業 年內連關兩分店 街坊：壽司一向高質！	結業清單
-2026-09-29	結業潮｜台灣過江龍「無老鍋」銅鑼灣店8月11日結業 開業不足5年成歷史|香港經濟日報	https://ps.hket.com/article/4168094/	結業清單
 2026-09-29	結業潮｜半山Florence Trippa8月31日結業 佛羅倫斯街頭小食成絕響|香港經濟日報	https://ps.hket.com/article/4180678/結業潮｜半山Florence Trippa8月31日結業 佛羅倫斯街頭小食成絕響	結業清單
 2026-09-29	結業潮｜十字冰室旺角店已結業 結束近8年經營 尚餘兩間港島分店|香港經濟日報	https://ps.hket.com/article/4197355/結業潮｜十字冰室旺角店已結業 結束近8年經營 尚餘兩間港島分店	結業清單
 2026-09-29	結業潮｜北角私房菜館聲哥廚房月底結業 曾創30萬豪華宴席神話	https://ps.hket.com/article/4104443/結業潮｜北角私房菜館聲哥廚房月底結業 曾創30萬豪華宴席神話?mtc=20023	結業清單
 2026-09-29	結業潮｜北角火鍋店「滾得囍宮廷秘藏鍋物」周六起結業 門口特設龍椅打卡位	https://ps.hket.com/article/4088202/結業潮｜北角火鍋店「滾得囍宮廷秘藏鍋物」周六起結業 門口特設龍椅打卡位	結業清單
 2026-09-29	結業潮｜北角「新港宴會廳 」無預警結業 逾20名員工被拖糧	https://ps.hket.com/article/4124138/結業潮 - 北角「新港宴會廳 」無預警結業 逾20名員工被拖糧0037	結業清單
-2026-09-29	結業潮｜先施上環分店舖位傳遭龍豐藥房搶租 料將在今年底結業	https://ps.hket.com/article/4091580/結業潮｜先施上環分店舖位傳遭龍豐藥房搶租 料將在今年底結業	結業清單
 2026-09-29	結業潮｜元朗老馮茶居西菁街分店租約期滿 8月9日告別 |香港經濟日報	https://ps.hket.com/article/4172536/結業潮｜元朗老馮茶居西菁街分店租約期滿 8月9日告別	結業清單
 2026-09-29	結業潮｜元朗「朱哥古早味蛋糕」續租至8月26日告別 原味核桃蛋糕成絕響|香港經濟日報	https://ps.hket.com/article/4168757/結業潮｜元朗「朱哥古早味蛋糕」續租至8月26日告別 原味核桃蛋糕成絕響0037	結業清單
 2026-09-29	結業潮｜佐敦開業28年老牌酒店偉晴軒執笠 今年第四間酒店結業	https://ps.hket.com/article/4156910/結業潮｜佐敦開業28年老牌酒店偉晴軒執笠 今年第四間酒店結業	結業清單
-2026-09-29	結業潮｜佐敦「東源行」9月中旬告別 半世紀老店不敵租金成本 老闆嘆：「咁做嚟做咩呢？」|香港經濟日報	https://ps.hket.com/article/4176121/結業潮｜佐敦「東源行」9月中旬告別 半世紀老店不敵租金成本 老闆嘆：「咁做嚟做咩呢？」	結業清單
 2026-09-29	結業潮｜中區富豪級中菜館上月執笠 碧咸發哥曾為座上客	https://ps.hket.com/article/4152952/結業潮｜中區富豪級中菜館上月執笠 碧咸發哥曾為座上客0037	結業清單
 2026-09-29	結業潮｜三度搬遷終結業 秀茂坪「榮發風味」租約期滿 8月25日結業|香港經濟日報	https://ps.hket.com/article/4176574/結業潮｜三度搬遷終結業 秀茂坪「榮發風味」租約期滿 8月25日結業	結業清單
 2026-09-29	結業潮｜「夏茶」一個月內連失兩店 順豐大廈店遭淋紅油後7月26日無奈退場 |香港經濟日報	https://ps.hket.com/article/4163427	結業清單
 2026-09-29	結業潮｜Lost Stars Livehouse兩年內兩度結業 本港音樂人表演場地將於5月底將暫別	https://ps.hket.com/article/4126611/結業潮｜Lost Stars Livehouse兩年內兩度結業 本港音樂人表演場地將於5月底將暫別	結業清單
 2026-09-29	結業潮｜Hamsta Crown Coffee 9月17日最後營業 店主列三大因素致慢活模式難以持續|香港經濟日報	https://ps.hket.com/article/4180700/結業潮｜Hamsta Crown Coffee 9月17日最後營業 店主列三大因素致慢活模式難以持續	結業清單
 2026-09-29	結業潮｜H&M九龍塘及銅鑼灣旗艦店明日齊結業 僅餘1間接近全撤走	https://ps.hket.com/article/4055814/結業潮｜H-M九龍塘及銅鑼灣旗艦店明日齊結業 僅餘1間接近全撤走?mtc=80023	結業清單
-2026-09-29	結業潮｜Café&Meal MUJI奧海城店月底結業 僅餘3間分店|香港經濟日報	https://ps.hket.com/article/4173800/結業潮｜Café-Meal MUJI奧海城店月底結業 僅餘3間分店	結業清單
 2026-09-29	結業潮｜AEON Living Plaza 將軍澳分店疑結業 月底前「期間限定」7折清貨	https://ps.hket.com/article/4084008/結業潮｜AEON Living Plaza 將軍澳分店疑結業 月底前「期間限定」7折清貨?mtc=20023	結業清單
-2026-09-29	結業潮｜8月逾60店退場 結業清單逐個數！過江龍品牌慘淪重災區|香港經濟日報	https://ps.hket.com/article/4186099	結業清單
 2026-09-29	結業潮｜6月至少30店退場 結業清單逐個數！ 帝逸酒店美心MX同日落幕	https://ps.hket.com/article/4153428/結業潮 - 6月至少30店退場 結業清單逐個數！ 帝逸酒店美心MX同日落幕	結業清單
-2026-09-29	結業潮︱太古城3間老店接連結業被指租戶組合年輕化 太古地產：轉變因素眾多|香港經濟日報	https://ps.hket.com/article/4172222/結業潮︱太古城3間老店接連結業被指租戶組合年輕化 太古地產：轉變因素眾多?mtc=20023	結業清單
 2026-09-29	結業潮丨第三季食肆結業盤點 老字號、過江龍及連鎖品牌相繼離場	https://www.hkej.com/instantnews/current/article/4508699/結業潮丨第三季食肆結業盤點+老字號、過江龍及連鎖品牌相繼離場++	結業清單
-2026-09-29	結業潮 │ 台灣過江龍85度C傳全線撤港 油塘分店清貨買一送一 員工親證消息|香港經濟日報	https://ps.hket.com/article/4188174/	結業清單
 2026-09-29	結業潮 | 譚仔三哥幸福中心15年分店經已結業 港晶中心新店接力開張|香港經濟日報	https://ps.hket.com/article/4165869	結業清單
 2026-09-29	結業潮 | 觀塘「新匯聚餐廳小廚」不敵經營環境已光榮結業 熟客留言盼重開	https://ps.hket.com/article/4123000/結業潮 - 觀塘「新匯聚餐廳小廚」不敵經營環境已光榮結業 熟客留言盼重開 ?mtc=80023	結業清單
 2026-09-29	結業潮 | 觀塘「小田拉麵」難敵成本高企 5月底告別 食客大讚雞白湯湯底	https://ps.hket.com/article/4122426/結業潮 - 觀塘「小田拉麵」難敵成本高企 5月底告別 食客大讚雞白湯湯底0037	結業清單
 2026-09-29	結業潮 | 西環滔滔甜品走過6年 8月20日告別街坊|香港經濟日報	https://ps.hket.com/article/4161264/結業潮 - 西環滔滔甜品走過6年 8月20日告別街坊	結業清單
-2026-09-29	結業潮 | 蜜雪冰城旺角兆萬店低調退租 1年内連關5店|香港經濟日報	https://ps.hket.com/article/4171218	結業清單
 2026-09-29	結業潮 | 蜜雪冰城尖沙咀店捱不過貴租 每日要賣640杯僅夠交租 半年連執三店	https://ps.hket.com/article/4148255	結業清單
 2026-09-29	結業潮 | 蔡瀾曾大讚魚腩粥 鰂魚涌生記粥麵租約期滿告別街坊	https://ps.hket.com/article/4089655/結業潮 - 蔡瀾曾大讚魚腩粥 鰂魚涌生記粥麵租約期滿告別街坊	結業清單
 2026-09-29	結業潮 | 華貴邨喜悅皇宮已結業 繼青衣分店後再失據點|香港經濟日報	https://ps.hket.com/article/4168691/	結業清單
 2026-09-29	結業潮 | 荃灣45年老店「廣發餐廳」6月30日結業 曾無償借場辦工作坊助弱勢	https://ps.hket.com/article/4151748/結業潮 - 荃灣45年老店「廣發餐廳」6月30日結業 曾無償借場辦工作坊助弱勢	結業清單
 2026-09-29	結業潮 | 美式漢堡Five Guys荃新天地分店低調結業 1年內連撤3舖|香港經濟日報	https://ps.hket.com/article/4169278	結業清單
 2026-09-29	結業潮 | 石硤尾藥房 8月14日結業 「要錢不要貨」？貼「買一送三」告示！|香港經濟日報	https://ps.hket.com/article/4175393/結業潮 - 石硤尾藥房 8月14日結業 「要錢不要貨」？貼「買一送三」告示！	結業清單
-2026-09-29	結業潮 | 石塘咀市政大廈「興記」8月21日結業 老闆退休告別街坊|香港經濟日報	https://ps.hket.com/article/4177794/結業潮 - 石塘咀市政大廈「興記」8月21日結業 老闆退休告別街坊	結業清單
 2026-09-29	結業潮 | 灣仔百年地標「和昌大押」全幢熄燈 影后光環亦難逃結業命運?|香港經濟日報	https://ps.hket.com/article/4175414/	結業清單
 2026-09-29	結業潮 | 榆林書店告別29年門市 明年4月租約期滿結業 數百箱新書割價清貨	https://ps.hket.com/article/4158433/結業潮 - 榆林書店告別29年門市 明年4月租約期滿結業 數百箱新書割價清貨	結業清單
 2026-09-29	結業潮 | 旺角「老二花廳」8月16日結業 最後一週全單8折 懷舊Fusion菜成絕響|香港經濟日報	https://ps.hket.com/article/4174517/結業潮 - 旺角「老二花廳」8月16日結業 最後一週全單8折 懷舊Fusion菜成絕響?mtc=20023	結業清單
@@ -364,8 +344,6 @@ var DATA_ECON = `
 2026-09-29	結業潮 | 人氣馬卡龍「Ohiyobake」7月23日結業 老闆嘆「頂唔住」 網民不捨：人生食過最好味	https://ps.hket.com/article/4158758/結業潮 - 人氣馬卡龍「Ohiyobake」7月23日結業 老闆嘆「頂唔住」 網民不捨：人生食過最好味	結業清單
 2026-09-29	結業潮 | 中環抹茶店「豆と茶」開張僅1年 不敵加租 8月15日告別|香港經濟日報	https://ps.hket.com/article/4174761/結業潮 - 中環抹茶店「豆と茶」開張僅1年 不敵加租 8月15日告別	結業清單
 2026-09-29	結業潮 | 不敵加租經濟寒冬 龍寶酒家葵芳閣店3月底結業 網民卻完全錯重點	https://ps.hket.com/article/4104436/結業潮 - 不敵加租經濟寒冬 龍寶酒家葵芳閣店3月底結業 網民卻完全錯重點0037	結業清單
-2026-09-29	結業潮 | 「有鑊氣-酸菜魚」租約問題暫別 強調「唔係結業」承諾回歸|香港經濟日報	https://ps.hket.com/article/4166174/結業潮 - 「有鑊氣-酸菜魚」租約問題暫別 強調「唔係結業」承諾回歸	結業清單
-2026-09-29	結業潮 | 8月暫錄30間店舖結業 結業清單逐間數！ 餐飲業續成重災區|香港經濟日報	https://ps.hket.com/article/4171225	結業清單
 2026-09-29	紐約聯儲行長暗示年末再加息 多位同僚強調進一步升息必要性	https://hk.finance.yahoo.com/news/%E7%B4%90%E7%B4%84%E8%81%AF%E5%84%B2%E8%A1%8C%E9%95%B7%E9%A0%90%E8%A8%882026%E5%B9%B4%E5%BA%95%E9%82%84%E5%B0%87%E6%9C%89-%E6%AC%A1%E5%8A%A0%E6%81%AF-180910338.html	加息減息
 2026-09-29	策略師警告：央行加息應對伊朗石油衝擊 或將引發經濟衰退	https://news.futunn.com/hk/post/72541973	加息減息
 2026-09-29	突發轉向！美聯儲10月底前加息概率飆升，黃金白銀攜手跳水 作者 FX168	https://hk.investing.com/news/commodities-news/article-1371636	加息減息
@@ -390,7 +368,6 @@ var DATA_ECON = `
 2026-09-29	澳洲加息0.25厘 利率升至近15年來最高水平	https://www.hkcd.com.hk/hkcdweb/content/2026/09/29/content_8777703.html	加息減息
 2026-09-29	澳洲加息0.25 厘符預期央行指通脹或高於預期	https://www.bastillepost.com/hongkong/article/16870159-%E6%BE%B3%E6%B4%B2%E5%8A%A0%E6%81%AF0-25%E5%8E%98%E7%AC%A6%E9%A0%90%E6%9C%9F%E3%80%80%E5%A4%AE%E8%A1%8C%E6%8C%87%E9%80%9A%E8%84%B9%E6%88%96%E9%AB%98%E6%96%BC%E9%A0%90%E6%9C%9F	加息減息
 2026-09-29	澳洲一對夫婦早年購買了其夢寐以求的農場後，卻因加息令其按揭還款額狂增兩倍而陷入財困。為了解困，他們投資10萬澳元（約55萬港元）在後院建造了一座「玻璃小屋」，並變身度假房，結果意外地大受歡迎，每年創造近20萬澳元（約111萬港元）的可觀收入。 據外媒報	https://www.facebook.com/bossmindmedia/posts/澳洲一對夫婦早年購買了其夢寐以求的農場後卻因加息令其按揭還款額狂增兩倍而陷入財困為了解困他們投資10萬澳元約55萬港元在後院建造了一座玻璃小屋並變身度假房結果意/941915078185019/	加息減息
-2026-09-29	滙豐私人銀行日前舉辦2026年投資展望研討會，其中利率走勢是今年作何投資的關鍵因素，當幾位金融投資專家被主持人問到「聯儲局的減息週期會否即將結束？」專家們均認為減息週期不會結束，美聯儲今年至少還會再減兩次利率，甚至有專家形容美國有機會重啓量	https://www.instagram.com/p/DTc284ciMkK/	加息減息
 2026-09-29	港股異動 | 黃金股延續漲勢 日元干預疊加美聯儲維持利率 美元走低助力金價反彈 提供者 智通財經	https://m.hk.investing.com/news/stock-market-news/article-1581641?ampMode=1	加息減息
 2026-09-29	港元定期存款 銀行加息衝穿3厘|香港經濟日報	https://invest.hket.com/article/4176142/港元定期存款 銀行加息衝穿3厘	加息減息
 2026-09-29	港元定期存款 銀行加息戰 3厘俱樂部成員增	https://invest.hket.com/article/4152080/港元定期存款 銀行加息戰 3厘俱樂部成員增	加息減息
@@ -440,7 +417,6 @@ var DATA_ECON = `
 2026-09-29	新西蘭聯儲加息難擋空頭：油價回升增添經濟逆風，對沖基金將紐元淨空頭寸推至歷史新高作者智通財經	https://hk.investing.com/news/stock-market-news/article-1559703	加息減息
 2026-09-29	數據科學家MorenoDV分析指出：「當短期夏普比率觸及歷史極值時，往往會出現暴力反彈——就像2023年3月硅谷 銀行倒閉 後的走勢。 」 機構動向：黑天鵝事件中的雙面策略	https://www.btcc.com/zh-TW/square/Dr4k3/1525959	結業清單
 2026-09-29	據報滙控去年裁減134名高層，支付合共6750萬美元遣散費|香港經濟日報	https://invest.hket.com/article/4180688/據報滙控去年裁減134名高層，支付合共6750萬美元遣散費	裁員清單
-2026-09-29	據Variety：迪士尼(DIS.N)進一步裁員，解僱數百名員工。	https://news.futunn.com/hk/flash/1000383011/according-to-variety-disney-disn-is-implementing-further-layoffs-dismissing	裁員清單
 2026-09-29	摩根資管：看好美國、日本和新興市場股票 美聯儲今年或維持利率不變 作者 智通財經	https://hk.investing.com/news/stock-market-news/article-1550056	加息減息
 2026-09-29	摩根大通警告：若聯儲局提前加息，金價可能再次跌破4000甚至測試3500-3600	https://news.futunn.com/hk/post/75526269/jpmorgan-warns-that-if-the-federal-reserve-raises-interest-rates	加息減息
 2026-09-29	採取「積極觀望」策略英國央行維持利率不變 評論 - 評論內容Commentary Content	http://www.aastocks.com/tc/stocks/news/comment.aspx?id=39843	加息減息
@@ -457,8 +433,6 @@ var DATA_ECON = `
 2026-09-29	彭博：中共整治催收業 部份業者裁員停業拖慢壞賬清理	https://hk.epochtimes.com/news/2026-09-29/27080513	結業清單
 2026-09-29	張曦嵐：美國下個月加息？	https://hk.on.cc/hk/bkn/cnt/finance/20260929/bkn-20260929134538465-0929_00842_001.html	加息減息
 2026-09-29	年減2.2萬家陸藥店掀倒閉潮- 中國經濟- 新聞	https://www.chinesedaily.com/article/detail-688255.html	結業清單
-2026-09-29	平價植牙帝國崩／雅德思集團爆倒閉潮十萬人受害 植牙女王斜槓慘賠神隱內幕	https://www.mirrormedia.mg/story/20260928soc008	結業清單
-2026-09-29	市場崩盤前兆？經濟衰退警報大響、專家全說了	https://stock.ltn.com.tw/article/k0rug57v1syq	股災金融
 2026-09-29	就業數據遜預期，華爾街期貨走高，加息憂慮緩解 作者 Investing.com	https://hk.investing.com/news/stock-market-news/article-1537492	加息減息
 2026-09-29	將於7月底至8月初結業 #牛繁 #荃灣 #海之戀 #結業 #am730	https://www.facebook.com/am730hk/posts/將於7月底至8月初結業牛繁-荃灣-海之戀-結業-am730/1510444114456519/	結業清單
 2026-09-29	对冲经济衰退风险，期权市场预测美联储一年内大幅降息300基点	https://news.futunn.com/th/post/44190210/to-hedge-against-economic-recession-risks-the-options-market-predicts	加息減息
@@ -472,24 +446,20 @@ var DATA_ECON = `
 2026-09-29	城堡投資接手 40 億美元資產，礦企拋售潮終結 提供者 智通財經	https://m.hk.investing.com/news/stock-market-news/article-1621806?ampMode=1	股災金融
 2026-09-29	在澳洲聯儲加息 25 個基點後，澳元兌紐元重新站上 1.2400	https://www.fxstreet.hk/news/ao-yuan-zai-ao-zhou-lian-chu-jia-xi-25-ge-ji-dian-hou-zhong-xin-zhan-shang-12400-dui-niu-yuan-202609290449	加息減息
 2026-09-29	在加密貨幣市場劇烈波動之際，芝加哥機構級加密借貸與流動性提供商 BlockFills宣布暫停客戶存取款並限制部分交易，引發市場對新一輪加密信貸危機的擔憂。外界憂心，2022年席捲產業、最終導致FTX崩盤的連環倒閉潮，恐再度上演。 分析指出，川普政府關稅威脅引	https://www.facebook.com/ctee.fans/photos/在加密貨幣市場劇烈波動之際芝加哥機構級加密借貸與流動性提供商-blockfills宣布暫停客戶存取款並限制部分交易引發市場對新一輪加密信貸危機的擔憂外界憂心20/1329370122551729/	結業清單
-2026-09-29	喪夫後突淪下流老人！62歲婦整理遺物翻出驚人秘密 人生瞬間崩盤	https://stock.ltn.com.tw/article/mvyagzqw8ssq	股災金融
 2026-09-29	唔知有冇新店入主呢？ #和昌大押 #灣仔 #結業潮 #保育 #古蹟 #am730	https://www.facebook.com/am730hk/posts/唔知有冇新店入主呢和昌大押-灣仔-結業潮-保育-古蹟-am730/1546169387550658/	結業清單
 2026-09-29	周佩賢3月亦遭數名人士申請破產 #樂風集團 #周佩賢 #清盤 #am730	https://www.facebook.com/am730hk/posts/周佩賢3月亦遭數名人士申請破產樂風集團-周佩賢-清盤-am730/1463703559130575/	破產
-2026-09-29	古巴能源危機「儲油最快月底見底」! 航空燃油斷供1 個月加航班次火速停飛	https://www.msn.com/zh-tw/news/other/古巴能源危機-儲油最快月底見底-航空燃油斷供1個月-加航班次火速停飛/ar-AA1W1Ifh?ocid=finance-verthp-feeds	樓市斷供
 2026-09-29	又一間因加租結業 #巴蜀軒 #灣仔美食 #結業 #life730 #am730	https://www.facebook.com/am730hk/posts/又一間因加租結業巴蜀軒-灣仔美食-結業-life730-am730/1516070793893851/	結業清單
 2026-09-29	去年倒一萬家店! 不敢漲價苦撐 日本出現倒閉潮	https://www.msn.com/zh-tw/news/world/去年倒一萬家店-不敢漲價苦撐-日本出現倒閉潮/ar-AA1YfkHo?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c	結業清單
 2026-09-29	印度 IT 業爆裁員潮	https://money.udn.com/money/story/5599/8917594	裁員清單
 2026-09-29	南韓餐飲業爆史上最慘倒閉潮! 一年狂倒3萬家 中國海底撈竟趁勢稱霸?	https://www.msn.com/zh-tw/money/topstories/南韓餐飲業爆史上最慘倒閉潮-一年狂倒3萬家-中國海底撈竟趁勢稱霸/ar-AA1YGRnK?cvid=69b7ac8300004e16a93fa4a7fb303caf&ocid=hpmsn	結業清單
 2026-09-29	十盛因假奶「23間店全倒閉」紀卜心、小吳駁賺飽就跑： 是虧損的	https://www.msn.com/zh-tw/entertainment/news/十盛因假奶-23間店全倒閉-紀卜心-小吳駁賺飽就跑-是虧損的/ar-AA27RlSr?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	結業清單
 2026-09-29	加拿大通脹數據降溫，加元走弱令加息預期回落 作者 Investing.com	https://hk.investing.com/news/forex-news/article-93CH-1560952	加息減息
-2026-09-29	加拿大科技就業市場經歷從繁榮到蕭條	https://today.line.me/tw/v3/reposts/article/0j8rE3	未分類
 2026-09-29	加拿大央行否認經濟衰退，但承認增長疲弱 作者 Investing.com	https://hk.investing.com/news/economy-news/article-93CH-1523898	股災金融
 2026-09-29	加息：全票通過 | 政政經經 - 財富管理 - 生活 | etnet 經濟通|香港新聞財經資訊和生活平台	https://www.etnet.com.hk/www/tc/lifestyle/409600	加息減息
 2026-09-29	加息預期與財政擔憂壓頂 日本10年期國債收益率創30年新高 提供者 智通財經	https://m.hk.investing.com/news/stock-market-news/article-1611769?ampMode=1	加息減息
 2026-09-29	加息是鬼故事 特朗普八月TACO?|香港經濟日報	https://invest.hket.com/article/4169958/加息是鬼故事 特朗普八月TACO-	加息減息
 2026-09-29	加息懸念拉滿！聯儲局步入7月決議前「噤聲期」	https://news.futunn.com/hk/post/76243519/rate-hike-suspense-mounts-as-the-fed-enters-its-pre	加息減息
 2026-09-29	利率轉向後，投資策略應如何調整？邊類資產較有優勢？ #SBSCantonese #策略調整 #加息 #投資主題 #資產配置	https://www.facebook.com/SBSCantonese/posts/利率轉向後投資策略應如何調整邊類資產較有優勢sbscantonese-策略調整-加息-投資主題-資產配置/1435120125291936/	加息減息
-2026-09-29	利特爾頓開發商在阿拉斯加裁決後申請破產 90 萬美元	https://citytimes.tw/財經/利特爾頓開發商在阿拉斯加裁決後申請破產-90-萬美/924402/	破產
 2026-09-29	別等7月了！瑞穗高管放狠話：日本或在3月加息，全年加息3次	https://news.futunn.com/hk/post/68815029/don-t-wait-until-july-a-senior-executive-at-mizuho	加息減息
 2026-09-29	分析料澳洲進一步加息空間有限	https://news.rthk.hk/rthk/ch/component/k2/1872039-20260929.htm	加息減息
 2026-09-29	全球支付巨頭Visa 擬裁員2600 人，裁員比例達7%	https://news.futunn.com/hk/post/76742557	裁員清單
@@ -498,10 +468,8 @@ var DATA_ECON = `
 2026-09-29	倒閉風暴未歇！百年食品巨頭聲請破產 負債恐達100 億美元	http://www.msn.com/zh-tw/news/living/倒閉風暴未歇-百年食品巨頭聲請破產-負債恐達100億美元/ar-AA1I9F1Q?ocid=finance-verthp-feeds&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	結業清單
 2026-09-29	但 First Oil 的倒閉，不過是冰山一角。 2025 年底，代表白俄羅斯石油公司在俄利益的揚普爾石油公司也進入破產程序。 在此之前，阿斯特拉罕石油公司和曾持有涅涅茨自治區南部三塊開採許可證的戈爾內石油公司，也因稅務部門的起訴宣告破產。	https://min.news/news/e39afbe14638c04d6c6af7a71a96aeb3.html	破產
 2026-09-29	企業裁員仍有限！美國上週初請失業金人數降至1969年來新低但通脹擔憂升溫恐鞏固美聯儲鷹派立場提供者智通財經	https://m.hk.investing.com/news/stock-market-news/article-1567456?ampMode=1	裁員清單
-2026-09-29	以為攀上活體ATM！醫師尪驟逝生活保障歸零 貴婦慘淪為打工仔晚年崩盤	https://stock.setn.com/news/1778800	股災金融
 2026-09-29	他爆20％關稅釀倒閉潮 彰化水五金協會「怒打臉」： 一切正常	https://www.msn.com/zh-tw/news/living/他爆20-關稅釀倒閉潮-彰化水五金協會-怒打臉-一切正常/ar-AA1K49ws?cvid=0975A2BF5CB64628AD628CE753C07AAF&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	結業清單
 2026-09-29	今年已經有4間酒店結業 #佐敦 #偉晴軒 #酒店 #結業 #am730	https://www.facebook.com/am730hk/posts/今年已經有4間酒店結業佐敦-偉晴軒-酒店-結業-am730/1514539960713601/	結業清單
-2026-09-29	交易邏輯改變全球爆發「衰退交易」與隱形金融風暴	https://www.aastocks.com/tc/stocks/news/anue-news/AN6392143/1	股災金融
 2026-09-29	九能源服務Q1 2026財報：破產重組與惡劣天氣雙重衝擊下的業績掙扎 作者 Investing.com	https://hk.investing.com/news/transcripts/article-93CH-1463102	破產
 2026-09-29	中東戰爭AI熱推高通膨澳洲央行今年第4度升息至15年高點| 全球財經| 全球	https://udn.com/news/story/6811/9783867	加息減息
 2026-09-29	中國整治催收業或拖慢壞帳清理 部分業者裁員停業、催收進度放緩	https://hk.finance.yahoo.com/news/中國整治催收業或拖慢壞帳清理-部分業者裁員停業-催收進度放緩-032017351.html	結業清單
@@ -510,7 +478,6 @@ var DATA_ECON = `
 2026-09-29	一個月賣唔賣到咁多？ #結業潮 #蜜雪冰城 #尖沙咀 #am730	https://www.facebook.com/am730hk/posts/一個月賣唔賣到咁多結業潮-蜜雪冰城-尖沙咀-am730/1495758099258454/	結業清單
 2026-09-29	【香港息口】大摩：2026加息難再現錢荒！料HIBOR僅溫和升 看好金融股多於地產股（附首選股）	https://inews.hket.com/article/4201359/investing-hk-interest-rate-morgan-stanley-hibor-2026--https:--www.yourdomain.com-investing-hk-interest-rate-morgan-stanley-hibor-2026	加息減息
 2026-09-29	【貝森特突出手】美財政部加碼長債回購遏拋售潮 債息急回	https://finance.now.com/mobile/special/topics/13/article/982806/cat/0	股災金融
-2026-09-29	【美股收評】2008年危機重演？英國巨頭破產與PPI爆表觸發拋售潮 道指狂瀉超520點	https://hk.investing.com/news/stock-market-news/article-1336844	破產
 2026-09-29	【美日聯手干預匯市】日媒爆料:因日央行暗示9月加息	https://finance.now.com/analysis/study.php?topicId=13&newsId=981660&c=	加息減息
 2026-09-29	【澳洲就業強勁 專家警告儲銀極可能再度加息】 最新就業數字持續強勁，令儲銀極有可能在未來數個月再次加息。有分析預計，澳洲債務水平將在兩年內達到GDP的37%，將影響政府投放在公共服務的資金，為下一代帶來沉重債務負擔。 全文：https://www.sbs.com.au/la	https://www.facebook.com/SBSCantonese/posts/澳洲就業強勁-專家警告儲銀極可能再度加息最新就業數字持續強勁令儲銀極有可能在未來數個月再次加息有分析預計澳洲債務水平將在兩年內達到gdp的37將影響政府投放在公/1445956020875013/	加息減息
 2026-09-29	【澳洲央行】加息0.25厘 通脹仍超預期或再加息	https://finance.now.com/news/post.php?id=988102	加息減息
@@ -531,7 +498,6 @@ var DATA_ECON = `
 2026-09-29	「聯儲局加息」噩夢恐成真？美銀：需先滿足三大條件	https://news.futunn.com/hk/post/70407810/could-the-nightmare-of-fed-rate-hikes-come-true-bofa	加息減息
 2026-09-29	「加息噩夢」未滅？紐約聯儲：關稅影響或「補刀」，半數企業還要提價	https://news.futunn.com/hk/post/75806336/is-the-rate-hike-nightmare-still-looming-new-york-fed	加息減息
 2026-09-29	《逐玉》暴紅也沒用! 華誼兄弟遭「申請破產重整」慘賠逾3 百億	https://www.msn.com/zh-tw/entertainment/news/逐玉-暴紅也沒用-華誼兄弟遭-申請破產重整-慘賠逾3百億/ar-AA21GvHV?cvid=69ecc96cfc21452eb70feed64c2a34f0&ocid=mailsignout&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	破產
-2026-09-29	《業績》喜力啤酒去年多賺92.7% 擬全球裁員最多6,000人	http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1502670/1	裁員清單
 2026-09-29	《大行》瑞銀：目前標指估值已消化大部分加息衝擊	https://hk.finance.yahoo.com/news/%E5%A4%A7%E8%A1%8C-%E7%91%9E%E9%8A%80-%E7%9B%AE%E5%89%8D%E6%A8%99%E6%8C%87%E4%BC%B0%E5%80%BC%E5%B7%B2%E6%B6%88%E5%8C%96%E5%A4%A7%E9%83%A8%E5%88%86%E5%8A%A0%E6%81%AF%E8%A1%9D%E6%93%8A-075519413.html	加息減息
 2026-09-29	《外匯》日本加息機會減 圓匯再弱 每百日圓兌港元見5算	https://www.aastocks.com/tc/mobile/newscontent/HK6/NOW.1504947	加息減息
 2026-09-29	《Fortnite》開發商Epic Games裁千人 遊戲產業掀新一波裁員潮	https://sunmedia.tw/news/Industry-information/1774914636-《Fortnite》開發商Epic Games裁千人 遊戲產業掀新一波裁員潮	裁員清單
@@ -552,7 +518,6 @@ var DATA_ECON = `
 2026-09-29	Sangamo申請第11章破產保護，與禮來及安斯泰來簽署資產出售協議 作者 Investing.com	https://hk.investing.com/news/company-news/article-93CH-1521134	破產
 2026-09-29	QVC集團股價暴跌，傳可能申請破產保護 作者 Investing.com	https://hk.investing.com/news/stock-market-news/article-93CH-1311279	破產
 2026-09-29	QVC集團申請破產後將從納斯達克除牌 作者 Investing.com	https://hk.investing.com/news/sec-filings/article-93CH-1416221	破產
-2026-09-29	NDIC 確認銀行倒閉後將有多少客戶	https://citytimes.tw/经济/ndic-確認銀行倒閉後將有多少客戶/914199/	結業清單
 2026-09-29	Meta驚傳全球大裁員! 知情人爆「至少裁20%」恐超1.5 萬人失業	https://www.msn.com/zh-tw/money/topstories/臉書母公司-meta-驚傳全球大裁員-知情人爆裁20-恐超15萬人失業/ar-AA1YDCU2	裁員清單
 2026-09-29	Meta大裁員!不排除再縮編 祖克柏坦言： 未來走向沒人能預測	https://www.msn.com/zh-tw/news/other/meta大裁員-不排除再縮編-祖克柏坦言-未來走向沒人能預測/ar-AA22aJjs?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	裁員清單
 2026-09-29	Men’s Wearhouse母公司Tailored Brands曾於2020年破產，如今申請IPO 作者 Investing.com	https://hk.investing.com/news/stock-market-news/article-1548252	破產
@@ -562,11 +527,9 @@ var DATA_ECON = `
 2026-09-29	HSBC滙豐大裁員｜為失業鋪墊 投資有出路（附3類必買股）	https://invest.hket.com/article/4101488/HSBC滙豐大裁員｜為失業鋪墊 投資有出路（附3類必買股）	裁員清單
 2026-09-29	GoHealth完成第11章破產重組程序，正式走出破產保護 作者 Investing.com	https://hk.investing.com/news/company-news/article-93CH-1563199	破產
 2026-09-29	Directa Plus進入破產管理程序,股份面臨除牌 作者 Investing.com	https://hk.investing.com/news/company-news/article-93CH-1428007	破產
-2026-09-29	Circle執行長：AI引發的裁員潮恐只是冰山一角	http://www.aastocks.com/tc/usq/quote/stock-news-content.aspx?symbol=NET&id=AN6454455&source=ANUE	裁員清單
 2026-09-29	CPI風暴逼近！美聯儲大佬劃出「加息紅線」，核心通脹成關鍵 提供者 FX168	https://m.hk.investing.com/news/stock-market-news/article-1549264?ampMode=1	加息減息
 2026-09-29	BrasilAgro第四季度虧損收窄35%，農作物業績回升 作者 Investing.com	https://hk.investing.com/news/transcripts/article-93CH-1643784	未分類
 2026-09-29	Bill Ackman狠批美國加息嚴重犯錯：高利率反而助長通脹 「舊原則不再適用AI時代」	https://wealth.hket.com/article/4200841/	加息減息
-2026-09-29	AI裁員潮席捲美企！從軟體、零售到車廠都在重洗人力牌	https://www.marketersgo.com/media-collaboration/sunmedia/202605/ai裁員潮席捲美企！從軟體、零售到車廠都在重洗人/	裁員清單
 2026-09-29	AI正在引發加密公司裁員潮，Coinbase稱「不行動風險最大」	https://news.futunn.com/hk/post/72755052/ai-is-driving-a-wave-of-layoffs-in-crypto-companies	裁員清單
 2026-09-29	AI+信貸風險重挫銀行板塊 KBW銀行指數ETF(KBE.US)創去年關稅風波以來最大單日跌幅	https://hk.investing.com/news/stock-market-news/article-1336901	股災金融
 2026-09-29	7月非農降溫難解政策分歧 通脹連續五年高於目標 美聯儲支持加息陣營擴大 作者 智通財經	https://hk.investing.com/news/stock-market-news/article-1598321	加息減息
@@ -576,6 +539,7 @@ var DATA_ECON = `
 2026-09-29	2026居酒屋倒閉潮? 白米.電費價格飆漲釀成本暴增餐飲習慣改變日本居酒屋難生存40歲以上拒絕入內? 世代差異? 台灣業者拒跟進日本｜【話題懶人包】｜TVBS新聞 @TVBSNEWS02 │ TVBS新聞網	https://news.tvbs.com.tw/videos/pH1QNMeny6o	結業清單
 2026-09-29	2026/02/22 19:53財經日本倒閉潮創紀錄! 124公司「沒人上班」直接破產	https://www.ettoday.net/news/news-list-2026-02-22-17.htm	結業清單
 2026-09-29	"從首位黑人女理事到特朗普""眼中釘""！美聯儲理事庫克的傳奇人生"	https://news.fx168news.com/bank/2606/7467442.shtml	加息減息
+2026-09-28	據Variety：迪士尼(DIS.N)進一步裁員，解僱數百名員工。	https://news.futunn.com/hk/flash/1000383011/according-to-variety-disney-disn-is-implementing-further-layoffs-dismissing	裁員清單
 2026-09-28	阿克曼質疑聯儲局加息是錯誤 AI改變通脹邏輯 算力與能源需求不受利率影響	https://www.stheadline.com/macroeconomics/3620238/%E9%98%BF%E5%85%8B%E6%9B%BC%E8%B3%AA%E7%96%91%E8%81%AF%E5%84%B2%E5%B1%80%E5%8A%A0%E6%81%AF%E6%98%AF%E9%8C%AF%E8%AA%A4-AI%E6%94%B9%E8%AE%8A%E9%80%9A%E8%84%B9%E9%82%8F%E8%BC%AF-%E7%AE%97%E5%8A%9B%E8%88%87%E8%83%BD%E6%BA%90%E9%9C%80%E6%B1%82%E4%B8%8D%E5%8F%97%E5%88%A9%E7%8E%87%E5%BD%B1%E9%9F%BF	加息減息
 2026-09-28	金價走勢丨現貨金瀉逾4% 聯儲局加息預期升溫	https://m.hkej.com/landing/mobarticle2/id/4525847/%E9%87%91%E5%83%B9%E8%B5%B0%E5%8B%A2%E4%B8%A8%E7%8F%BE%E8%B2%A8%E9%87%91%E7%80%89%E9%80%BE4-%20%E8%81%AF%E5%84%B2%E5%B1%80%E5%8A%A0%E6%81%AF%E9%A0%90%E6%9C%9F%E5%8D%87%E6%BA%AB	加息減息
 2026-09-28	金價觸及近8星期低位 美國加息預期升溫	https://news.rthk.hk/rthk/ch/component/k2/1871927-20260929.htm	加息減息
@@ -611,6 +575,7 @@ var DATA_ECON = `
 2026-09-26	【美國加息】儲局官員哈馬克：通脹最大風險是通脹心態根深蒂固 政策需保持限制性	https://inews.hket.com/article/4200302/%E3%80%90%E7%BE%8E%E5%9C%8B%E5%8A%A0%E6%81%AF%E3%80%91%E5%84%B2%E5%B1%80%E5%AE%98%E5%93%A1%E5%93%88%E9%A6%AC%E5%85%8B%EF%BC%9A%E9%80%9A%E8%84%B9%E6%9C%80%E5%A4%A7%E9%A2%A8%E9%9A%AA%E6%98%AF%E9%80%9A%E8%84%B9%E5%BF%83%E6%85%8B%E6%A0%B9%E6%B7%B1%E8%92%82%E5%9B%BA%E3%80%80%E6%94%BF%E7%AD%96%E9%9C%80%E4%BF%9D%E6%8C%81%E9%99%90%E5%88%B6%E6%80%A7	加息減息
 2026-09-26	【經濟瞭望】 如何看待美聯儲加息後人民幣的韌性表現？	https://www.hkcd.com.hk/content_app/2026-09/26/content_8777278.html	加息減息
 2026-09-26	2026熊市洗牌：原生項目倒閉潮與華爾街代幣化崛起 作者 智通財經	https://hk.investing.com/news/stock-market-news/article-1574291	結業清單
+2026-09-25	結業潮｜花園餐廳半年連失3店！觀塘涉欠租逾200萬銅鑼灣店再貼「暫停營業」！網民憂全線結業	https://hk.ulifestyle.com.hk/topic/detail/20109367/%E7%B5%90%E6%A5%AD%E6%BD%AE-%E8%8A%B1%E5%9C%92%E9%A4%90%E5%BB%B3%E8%A7%80%E5%A1%98%E5%BA%97%E7%AA%81%E5%81%9C%E6%A5%AD-%E8%80%81%E7%89%8C%E6%89%92%E6%88%BF%E6%9B%BE%E9%81%AD%E8%BF%BD%E7%A7%9F%E9%80%BE-%E8%90%AC-%E5%8D%8A%E5%B9%B4%E9%80%A3%E5%A4%B1-%E5%88%86%E5%BA%97-%E7%B6%B2%E6%B0%91%E7%8B%A0%E6%89%B9-%E5%9F%B7%E9%81%B2%E5%B7%A6	結業清單
 2026-09-25	金融危機重演？美債殖利率飆破5.17％ 華爾街揭「16次急升」後果	https://ec.ltn.com.tw/article/breakingnews/5585656	股災金融
 2026-09-25	美聯儲鷹派加息，美元回升下非美貨幣如何佈局？	https://wealth.hket.com/article/4199884/	加息減息
 2026-09-25	加州科技業爆裁員潮！英特爾、甲骨文全遭殃 上午寄信當天走人 | TVBS	https://today.line.me/tw/v3/article/2D9NwZz	裁員清單
@@ -1459,6 +1424,7 @@ var DATA_ECON = `
 2026-06-17	尖沙嘴分店不敵28.8萬天價月租結業蜜雪冰城股價累瀉6成香港3間門市執笠外賣減價戰停火減收入建主題樂園能否翻身?	https://businessfocus.io/article/357869/蜜雪冰城-股價腰斬-難捱貴租	結業清單
 2026-06-17	AI 連續三個月成美國裁員頭號理由 Anthropic 擲 2 億美元研究失業衝擊	https://unwire.pro/2026/06/17/ai-layoffs-redundancy-washing/news/	裁員清單
 2026-06-15	本港清盤勢創21年新高 FTI稱樓價回暖 銀主盤加速出售 發展商被Call Loan風險已減	https://www.stheadline.com/realtime-finance/3583262/本港清盤勢創21年新高-FTI稱樓價回暖-銀主盤加速出售-發展商被Call-Loan風險已減	樓市斷供
+2026-06-12	喪夫後突淪下流老人！62歲婦整理遺物翻出驚人秘密 人生瞬間崩盤	https://stock.ltn.com.tw/article/mvyagzqw8ssq	股災金融
 2026-06-12	專家解讀｜美經濟僅表面強韌股市暗藏衰退信號- 國際	https://www.tkww.hk/a/202606/12/AP6a2b572be4b04773b07011a9.html	股災金融
 2026-06-12	AI裁員︱貝索斯預言AI可創造出更多機會不認同會造成大規模失業(11:30) - 20260612 - 即時財經新聞	https://news.google.com/rss/articles/CBMisgNBVV95cUxPZ3R4aFducDB3SFN6R2s4b1FvVzVPODNQN2xSNzNHcTlIUnJGdk1oTHdDNllkcTc2Mm1mUHdkSkJsZ1RLQnFLNHN3TThMampjUG5wM0N2eEpKcHppdmhQUjFVOFhmbzg2cmNwdkUxRzhETzExRlYyMzVuX2g2UnpMSE5iekxseVhFVVRHUTBCVzFqa1NmZERHLW9fYzhVcVJ6Z1h5aGhEZ1VSbHFLNXJRY1BpbTJCNFhDZWdRUWNDX05ZbENhcVAwUi02ZUVRZVlJUnlUQlZLWEZqaFQ5YkU5NzdxRzNFc1k1emN3ZUQyY1RpVWZ4LV9EWEg1QmFYQ0c3dDh1UGFsYWEzbVNCVU53WVA0QXdUN2lzclpleVF3NHdadlVUQnJPTjNrejlSUnhEMC1fLW9nSXVyS3luV2hMaUJpc292MTJXX0tHUVhIQkozODNVOHlucU1UYTB4Vk9TNXA4dnhoZjlSbXc3eGZjYUktUC1KdnN1cXhVZWhmT0ZJc3hqSkJBRmVDWFlJT2lsWEdpWFNDOVpRVklEUG9Qc3k1dE82Vm1LeWZXbFFDejBFUQ?oc=5	裁員清單
 2026-06-11	Anthropic促技術升級失業救濟金系統 以應對AI引發的裁員潮	https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60359055/anthropic%E4%BF%83%E6%8A%80%E8%A1%93%E5%8D%87%E7%B4%9A%E5%A4%B1%E6%A5%AD%E6%95%91%E6%BF%9F%E9%87%91%E7%B3%BB%E7%B5%B1-%E4%BB%A5%E6%87%89%E5%B0%8Dai%E5%BC%95%E7%99%BC%E7%9A%84%E8%A3%81%E5%93%A1%E6%BD%AE	裁員清單
@@ -1644,7 +1610,16 @@ var DATA_ECON = `
 2026-03-07	結業潮｜本土時裝品牌HISSO將全綫結業 開業15年連姊妹品牌共18分店	https://www.am730.com.hk/article/1016475	結業清單
 2026-03-05	投行裁員｜去年收入創新高後 大摩傳將裁員3% 料削約2,500名員工	https://hk.finance.yahoo.com/news/投行裁員-去年收入創新高後-大摩傳將裁員3-料削約2-500名員工-033715067.html	裁員清單
 2026-03-05	【裁員潮】摩根士丹利據報將裁員3% 涉投行、交易及資管等業務	https://inews.hket.com/article/4093450/【裁員潮】摩根士丹利據報將裁員3- 涉投行、交易及資管等業務	裁員清單
+2026-03-04	近年電商崛起，加上北上消費成風，本港零售業出現結構性轉變，傳統百貨公司逐漸被時代巨輪淘汰。據《信報》報道，老牌百貨公司先施（244）位於上環李寶椿大廈的分店，將於年底前因合約到期結業，該舖位傳獲龍豐以80萬預租；上環分店結業後，先施在香港將剩旺角	https://www.facebook.com/bossmindmedia/posts/近年電商崛起加上北上消費成風本港零售業出現結構性轉變傳統百貨公司逐漸被時代巨輪淘汰據信報報道老牌百貨公司先施244位於上環李寶椿大廈的分店將於年底前因合約到期結/945002161209644/	結業清單
+2026-03-04	經濟優於預期 減息或引通脹	https://invest.hket.com/article/4091038/經濟優於預期 減息或引通脹	加息減息
+2026-03-04	結業潮｜先施上環分店舖位傳遭龍豐藥房搶租 料將在今年底結業	https://ps.hket.com/article/4091580/結業潮｜先施上環分店舖位傳遭龍豐藥房搶租 料將在今年底結業	結業清單
 2026-03-03	韓國股市暴跌 盤中觸發熔斷機制	http://www.hkcd.com.hk/content_app/2026-03/03/content_8742546.html	股災金融
+2026-03-02	融創武漢1890項目公司被裁定破產清算	https://news.futunn.com/hk/post/69358015	破產
+2026-03-02	英國通脹回落 減息預期升温	https://invest.hket.com/article/4090777/	加息減息
+2026-03-02	英國抵押貸款公司倒閉引發金融板塊股價暴跌 作者 Investing.com	https://hk.investing.com/news/stock-market-news/article-93CH-1336368	結業清單
+2026-03-02	結業潮｜誠品尖沙咀店第2季結業 遷往同區大型商場 傳規模縮減為一層	https://ps.hket.com/article/4061319/結業潮｜誠品尖沙咀店第2季結業 遷往同區大型商場 傳規模縮減為一層	結業清單
+2026-03-02	利特爾頓開發商在阿拉斯加裁決後申請破產 90 萬美元	https://citytimes.tw/財經/利特爾頓開發商在阿拉斯加裁決後申請破產-90-萬美/924402/	破產
+2026-03-02	NDIC 確認銀行倒閉後將有多少客戶	https://citytimes.tw/经济/ndic-確認銀行倒閉後將有多少客戶/914199/	結業清單
 2026-03-02	連鎖酒樓分店無預警宣布結業「感謝多年來支持」職員回應結業原因	https://www.gotrip.hk/網絡熱話/明星海鮮燒鵝-結業-新蒲崗-明星集團-租約-飲茶-茶樓-1864694/	結業清單
 2026-03-02	舒適堡結業｜創辦人陸毅強涉結業前縱容收款 擬不認罪5.29再訊	https://www.am730.com.hk/article/1014907	結業清單
 2026-03-02	結業潮｜明星海鮮酒家新蒲崗店突結業 員工指控公司欠薪	https://www.am730.com.hk/article/1014887	結業清單
@@ -1772,6 +1747,7 @@ var DATA_ECON = `
 2026-02-11	中央115年總預算仍卡關 鐵道局：最快4月衝擊工程「恐爆廠商倒閉潮」	https://udn.com/news/story/7314/9324723	結業清單
 2026-02-11	中國水業集團(01129.HK)清盤呈請聆訊延期至3月25日	https://hk.finance.yahoo.com/news/中國水業集團-01129-hk-清盤呈請聆訊延期至3月25日-140737774.html	破產
 2026-02-11	《業績》喜力啤酒去年多賺92.7% 擬全球裁員最多6,000人	http://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1502670/popular-news/AAFN	裁員清單
+2026-02-10	古巴能源危機「儲油最快月底見底」! 航空燃油斷供1 個月加航班次火速停飛	https://www.msn.com/zh-tw/news/other/古巴能源危機-儲油最快月底見底-航空燃油斷供1個月-加航班次火速停飛/ar-AA1W1Ifh?ocid=finance-verthp-feeds	樓市斷供
 2026-02-10	網紅食品自嗨鍋遭申請破產 曾10分鐘售500萬桶	https://hk.on.cc/hk/bkn/cnt/news/20260210/bkn-20260210191241374-0210_00822_001.html	破產
 2026-02-10	經濟衰退將面臨大規模裁員 呢15種工作最高危...	https://hk.on.cc/hk/bkn/cnt/finance/20260210/bkn-20260210204308394-0210_00842_001.html	裁員清單
 2026-02-10	澳洲2月消費者信心因加息而下跌 惟降幅較溫和	https://hk.epochtimes.com/news/2026-02-10/35111563	加息減息
@@ -1790,8 +1766,10 @@ var DATA_ECON = `
 2026-01-25	IMF總裁警示AI裁員潮 入門級崗位首當其衝	https://www.hk01.com/財經快訊/60315934/imf總裁警示ai裁員潮-入門級崗位首當其衝	裁員清單
 2026-01-24	以為攀上活體ATM！ 醫師尪驟逝生活保障歸零貴婦慘淪為打工仔晚年崩盤	https://www.msn.com/zh-tw/news/living/以為攀上活體atm-醫師尪驟逝生活保障歸零-貴婦慘淪為打工仔晚年崩盤/ar-AA1U0lMV?cvid=696487840bec404998c0150f73ad56fa&ocid=XMMOW13&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	股災金融
 2026-01-16	科技業迎來史上最大裁員潮：AI 驅動 24.5 萬人失業背後的產業轉型 - UNWIRE.PRO 香港	https://unwire.pro/2026/01/16/2025-global-tech-layoffs-ai-impact-report/news/	裁員清單
+2026-01-14	滙豐私人銀行日前舉辦2026年投資展望研討會，其中利率走勢是今年作何投資的關鍵因素，當幾位金融投資專家被主持人問到「聯儲局的減息週期會否即將結束？」專家們均認為減息週期不會結束，美聯儲今年至少還會再減兩次利率，甚至有專家形容美國有機會重啓量	https://www.instagram.com/p/DTc284ciMkK/	加息減息
 2026-01-13	金融巨頭裁員潮再起：花旗砍1000人、貝萊德縮編1%，揭開行業2.0降成本真相	https://businessfocus.io/article/347039/金融巨頭裁員潮再起：花旗砍1000人、貝萊德縮編1，	裁員清單
 2026-01-13	裁員潮｜花旗集團據報計劃本周裁員約1000人	https://inews.hket.com/article/4067120/裁員潮｜花旗集團據報計劃本周裁員約1000人	裁員清單
+2026-01-12	以為攀上活體ATM！醫師尪驟逝生活保障歸零 貴婦慘淪為打工仔晚年崩盤	https://stock.setn.com/news/1778800	股災金融
 2026-01-07	裁員潮｜瑞銀據報月中開始新一輪裁員 亞洲一老將已離職 重點削行政和非創造收入崗位	https://inews.hket.com/article/4064587/裁員潮｜瑞銀據報月中開始新一輪裁員 亞洲一老將已離職 重點削行政和非創造收入崗位	裁員清單
 2026-01-07	裁員丨瑞銀傳月中啟動新一輪裁員 亞洲一資深老將已離職	https://www.hkej.com/instantnews/international/article/4292610/裁員丨瑞銀傳月中啟動新一輪裁員+亞洲一資深老將已離職	裁員清單
 2026-01-05	地獄級「死場」大蝕讓！尖沙咀首都廣場五劏舖銀主盤170萬賤賣 貶值93%	https://hk.finance.yahoo.com/news/地獄級-死場-大蝕讓-尖沙咀首都廣場五劏舖銀主盤170萬賤賣-貶值93-072040861.html	樓市斷供
@@ -1861,6 +1839,7 @@ var DATA_ECON = `
 2025-09-01	遭遇“崩盤式”拋售，英國重演2022年“特拉斯危機”？	http://hk.investing.com/news/stock-market-news/article-762696	股災金融
 2025-08-31	SSENSE申請破產保護 電商巨頭在政策與市場夾擊下如何自救？	https://www.hk01.com/article/60271200?utm_source=01articlecopy&utm_medium=referral	破產
 2025-08-30	裁員潮殺到！4類高危打工仔容易被炒魷魚 附5大職場自保招數	https://hk.ulifestyle.com.hk/topic/detail/20074888/裁員潮殺到-4類高危打工仔容易被炒魷魚-附5大職場自保招數	裁員清單
+2025-08-27	加拿大科技就業市場經歷從繁榮到蕭條	https://today.line.me/tw/v3/reposts/article/0j8rE3	未分類
 2025-08-26	啟德跑道區首個銀主盤出沒！兩房低估價4成吸客 破產業主恐蝕52%	https://www.hk01.com/article/60270310?utm_source=01articlecopy&utm_medium=referral	樓市斷供
 2025-08-23	台灣1產業爆破產倒閉潮！從北到南陸續停業，專家曝「越賣越虧」 已進入死亡循環	https://www.storm.mg/lifestyle/11062377	結業清單
 2025-08-22	結業潮｜博多拉麵別天神2023年起欠供強積金 涉29員工最少$41萬	https://www.hk01.com/article/60269262?utm_source=01articlecopy&utm_medium=referral	結業清單
@@ -2816,5 +2795,4 @@ var DATA_ECON = `
 2018-05-02	獨／無預警歇業！車百匯遭爆早申請破產廠商急收帳撲空| 生活	https://www.setn.com/news/375291	破產
 2017-12-01	民宿爆倒閉潮！吳淡如回鄉救命 揚言重振「否則不姓吳」	https://www.setn.com/news/320953	結業清單
 2016-08-24	陸客旅行社恐現倒閉潮逾萬人計畫9/8上街頭| 生活	https://www.setn.com/news/175989	結業清單
-2013-12-27	馬親家友人再爆 蔡龍「惡性倒閉」	https://www.setn.com/news/8563	結業清單
-`;
+2013-12-27	馬親家友人再爆 蔡龍「惡性倒閉」	https://www.setn.com/news/8563	結業清單`;

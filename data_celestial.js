@@ -1,6 +1,5 @@
 // 天象 | 由 build_news_js.py 生成 | 共 102 條
-var DATA_CELESTIAL = `
-2026-10-14	血月周……🤣🤣🤣🤣🤣🤣🤣🤣🫣🫣🫣🫣🫣🫣🫣🎉🎉🎉🎉🎉🎉🎉🍷🍷🍷🍷🍷🍷...	https://news.google.com/rss/articles/CBMif0FVX3lxTE55OWFRMmowcXgyeUtoTm9LXzhGZUJUaDMzdXhUX3ZLTmZZRndUNnhtRy1kS0NMeFhhdXNvVFhUZkt5TUh6XzNwMmtUbFFzUlJRc3ppQmJLUlVkblpIQk9wV1ZmNEZlRDJWVlFxdkdJN1RqeVNuZ3I3RXhpX3NCQmM?oc=5	血月日蝕
+var DATA_CELESTIAL = `2026-10-14	血月周……🤣🤣🤣🤣🤣🤣🤣🤣🫣🫣🫣🫣🫣🫣🫣🎉🎉🎉🎉🎉🎉🎉🍷🍷🍷🍷🍷🍷...	https://news.google.com/rss/articles/CBMif0FVX3lxTE55OWFRMmowcXgyeUtoTm9LXzhGZUJUaDMzdXhUX3ZLTmZZRndUNnhtRy1kS0NMeFhhdXNvVFhUZkt5TUh6XzNwMmtUbFFzUlJRc3ppQmJLUlVkblpIQk9wV1ZmNEZlRDJWVlFxdkdJN1RqeVNuZ3I3RXhpX3NCQmM?oc=5	血月日蝕
 2026-10-11	《恐鬼症》全球銷量突破 3,000 萬套！萬聖節活動「Crimson Eye」回歸，血月籠罩 8 張地圖至 11 月 1 日	https://news.google.com/rss/articles/CBMibkFVX3lxTE5TY3BXbGJpZjNocVRURGhMRVgtMzVXWS1jYXhVUmFfeEtqVjh4MzNNblFyTjJxR3dsLXRIOFVhdUtibi1fU2lTcGk4MjZBdjdCNWlnYkp2U3BXSlUyOWZlNFV1T25NdFZ3QzVEN01R?oc=5	血月日蝕
 2026-10-09	今天就釋放巨龍與血月吧……🫣🫣🫣🫣🫣🤣🤣🤣🤣🥳🥳🥳🥳🎉🎉🎉🐻🐻🐻🐻🐻‍❄🐻‍❄🐻‍❄🐻‍❄🐻‍❄💯💯💯💯💯💯💯	https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1g2WkFBUUxkb0l5YjVqYUZjdUFqaUtKNi1oNGpiZUFQNjVEYUlRWWVQNzh5Yi1MM1VVckZfcFo5MXhIOWdmaVowLVhqVzFMeDU0U1BnY0U0SG9vZ2o1TnAzMThVcVBCMmZDYjhNTXZ5MFBDVlFHVDEtWmR0Z0x0R3MtXzU5b3dzUmNKUnZXT0g0TzBna25Dd1FtWjhkVTZwd0k4Mg?oc=5	血月日蝕
 2026-10-07	今晚美東時間9點有血月……🫣🫣🫣🫣🫣🤣🤣🤣🙏🙏🙏🎉🎉🎉🎉🎉🥳🥳🥳🥳🥳🥳🍷🍷...	https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFhfeUlOTmdhamVNelQ1aXo1U3VKZzJNSV9ld1Y4T2R5RjB2VzVDZDN1bWZNam9sUHd3UE4xV1FLLW01Qk12RE84Z2lMS1poT2tSUElGVm51RTB2TC04bnZFU3Rhbk01TFVWSUZjaTY0UUVhS01wVGhkVW9fbkdmMGxUcmhHYlNQNnl4ZlBsYURqYWg4WXpwdjZrYXRHVE0?oc=5	血月日蝕
@@ -101,5 +100,4 @@ var DATA_CELESTIAL = `
 2023-02-01	ZTF彗星今最接近地球 錯過恐要等5萬年	https://news.pts.org.tw/article/620718	彗星隕石
 2022-04-28	異象頻頻！成都驚現超大日暈北京四月飄雪吉兆還是凶兆？（視頻） | 四川 | 成都 | 日暈| 血色太陽| 血月	https://www.soundofhope.org/post/616078?lang=b5	血月日蝕
 2021-07-12	有機會看到火流星？七月流星雨預報「寶瓶座δ南流星雨 + 摩羯座α流星雨」，「這兩天」最適合觀測	https://news.google.com/rss/articles/CBMiekFVX3lxTFB0akx5WmpVQU9RdmJWenREcXFoR3ZFUEI2WWNQaVNaRUttWEROWmwzLW0zbnBzVFE5TTVJNDVJLXpXejNCT3k4bFNzVDgxdlFDZkdWQmtXZjU3RGtJU19OTTY1dnlaZFRvckNQcU1lM3BvN2pOVUQxLUtn?oc=5	彗星隕石
-2020-04-29	彗星撞地球真實上演？ 直徑2公里小行星擦身而過| CTWANT	https://today.line.me/tw/v3/article/3l0DKk	彗星隕石
-`;
+2020-04-29	彗星撞地球真實上演？ 直徑2公里小行星擦身而過| CTWANT	https://today.line.me/tw/v3/article/3l0DKk	彗星隕石`;

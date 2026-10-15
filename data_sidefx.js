@@ -1,6 +1,5 @@
-// 藥物副作用 | 由 build_news_js.py 生成 | 共 388 條
-var DATA_SIDEFX = `
-2026-10-15	精神不濟別只當太累！年輕上班族失去意識 竟是胰臟腫瘤惹禍	https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UUU5DM2RHVXl5ZjBzb1B6NjJtOUk4NzZueWhXUVRCQ1hmb1RjU2FSSHZ4bUZXZHRGNjVHbVZXUThQUVpGRzFnZEhfM3BEVERGRGduNjd2MEtMdVVHT1pJc2RScw?oc=5	免疫癌症
+// 藥物副作用 | 由 build_news_js.py 生成 | 共 384 條
+var DATA_SIDEFX = `2026-10-15	精神不濟別只當太累！年輕上班族失去意識 竟是胰臟腫瘤惹禍	https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UUU5DM2RHVXl5ZjBzb1B6NjJtOUk4NzZueWhXUVRCQ1hmb1RjU2FSSHZ4bUZXZHRGNjVHbVZXUThQUVpGRzFnZEhfM3BEVERGRGduNjd2MEtMdVVHT1pJc2RScw?oc=5	免疫癌症
 2026-10-14	肺纖維化治療重大突破 新藥低副作用 兩類型肺纖維化均符適應症 掌握治療黃金期	https://news.google.com/rss/articles/CBMib0FVX3lxTE9JdEItbW1YbUFMcmlwOFotWjF1UFJiY21ELWlBTUk0MXhZU0JKR05hbk5KT3dLckl3Wkt3aXE1M0JIczhjek5JajNKb1dOaW9NUS1DZmtSdjN5bTdaOE1tRjBjYkxEYmthR1pfUXlnUQ?oc=5	生殖其他
 2026-10-14	立康生命科技將亮相2026阿布扎比未來健康峰會， 展示個性化腫瘤免疫治療創新進展	https://news.google.com/rss/articles/CBMi5wJBVV95cUxOMDQ3a0JFMmRWcE9kX0xoN05EMkVYWHRQT1VqdnotRmhycWdwQW9vX2daaUZVMkk0QkliR1JwY2FkUHVOVU9nNHpmZFlQT0FtQ3RvbEcxaDg1M1ZnVDJVWkYwT0lLNzFJdUJsVm9mSkt6dno2NE5NQkU0SGt3YlJhbmMwZzJwVFpWZlVObnRIYzhESkpqaVJ6Vjd1ZWZBUnhKaGd2djdPRmR5N3U3OF9nRmpPYlNYSFpXYXgzVUdCX0FRNm10UlhYQjJiVmRsbDN0cFZLRU1KaVVMZG9HN2s1MmwzZG9YNWhPaWEwN3RhbWdEOWx5TlNJeEtnVnNUOGVQajJEU1d1aWxOV1U3WEFYa3hLNjlIR1hxN1Q1cVhUOVFPSlpkQVdnVm5fc18zaVhJMUQ5UzltcWRmNlpOUjBEYnRoaTl4X3hqaklVQTFTZUhLMkRoOGNqaWtvc1RhZTcxVmJMYTVrWQ?oc=5	免疫癌症
 2026-10-14	梵蒂岡：教宗切除肺腺癌腫瘤後復原進度正常 - i-CABLE	https://news.google.com/rss/articles/CBMi3AJBVV95cUxOT1JzSmktVmN0UWlYOXA2ZmoxN3lwYkdRWXlGQW9zU2NvdVJYZF9ReFUtTXNUUWs5QVBZNElIS24zaENxcTBXSzFzUzBFblRCUEJvcFJtZE9IWlluTVBWVjdvT3R3TlBDY2FXQkhxZ0puekk3a25aMl9rUmhPZjJ3YXRxVHNhT0JKbGJHc2VVYnJLTktvdlJWVlNoMUhoWjdxWEtDNmxVVk9xRnBwQ3dpTFVVLTBUV1cwUmdTcDlfRFhNWDh2OTdvVmZXU1hwdG5RYjZfUmVaVVdxdV8xN3E4aUFreE9MNG5CVkFGWkhiMkpwR2RTZ0ZMNWZJV01mc1B4aWtVNF9SbnZWQmoxLXhEdEdXTl9hNXF6bXNwSXFqR1FVbmNXWHphdkZPWnpSQjNOOGpIaU9WcEdMSEQzSXNYVnRfUUhyaHpBd2FWblA2T1BmWXExOElRSXJXOUg?oc=5	免疫癌症
@@ -29,49 +28,19 @@ var DATA_SIDEFX = `
 2026-09-30	藥物副作用或被誤當新病 研究揭長者被派非必要額外藥物	https://news.google.com/rss/articles/CBMilANBVV95cUxOZ0RRQzlEclpvcE4wYmhBS0cwajloSnVweDAzYUlpSXNaUnNBZ0kyT0lRWlJITWRobjlVUjdTNHVBeTVsMU91V0duNWU5Z1FkWHdaeEZEbGZrNkNJQ2dvZWVSM2h0NGQwY2syT25oRzFtcG5TbUUza0ZfSUlEM0VLU0JnbndrQWhmV3NEY0l0YUFJTlhKRkE4dlpwX3pJcG1wSnFVQzlLM0pvRlZZSmJrUENrby1hZFJxa2VwVkk0R1RNYlFlc2hjZDNLSmNDVXdSYVg2YWU5MHpMR3dWenNsZmlyM3Z5bWF1dDlnYnktTGRmYU9RMWpvQmZGQXdTODNzV1dPUEhiLThXUlh2TmNmNkRaTzM5dExVUlpYMkV3M2VKZDd2SGF0RUdfeFBjVk9uTXExS3lqTmVpanI5Q1NSclRlMkZMc1FZMnA2TEFSVnNpWS04cVF3V3M4Nk5rYVVPeXFZQkc1YVdjb1ZqdUczYS1TaHJTYVQxdXNtZVdyQ0ZHSmVjT0dueS1sUHV1UEVOeDJUOdIBigFBVV95cUxOdnBEV000T05uRF9ibVpFaEJzUnNhUkdIc09aZTVqSy1hcG1oeEhSRUxRbDc2SmV4MlVXYmJkbW5XRWtZajRua2pTU0hDZHNhU0RSQWlPSGxBYkE4eW5OMWxXN042THpTV011bFFFZ0JDMGNyUlVNRWpFWnFuMHEwTjJ4UDhBaTVUT2c?oc=5	生殖其他
 2026-09-30	九旬老婦意外發現肝腫瘤 微創手術加精準麻醉無痛戰勝肝癌	https://health.udn.com/health/story/5999/9785188?from=udn-articlemain_ch1005	免疫癌症
 2026-09-30	4歲女童嘔吐嗜睡險喪命 醫揭兒童心肌炎4大警訊 切勿當腸胃炎	https://www.hk01.com/%E8%A6%AA%E5%AD%90/60381174/4%E6%AD%B2%E5%A5%B3%E7%AB%A5%E5%98%94%E5%90%90%E5%97%9C%E7%9D%A1%E9%9A%AA%E5%96%AA%E5%91%BD-%E9%86%AB%E6%8F%AD%E5%85%92%E7%AB%A5%E5%BF%83%E8%82%8C%E7%82%8E4%E5%A4%A7%E8%AD%A6%E8%A8%8A-%E5%88%87%E5%8B%BF%E7%95%B6%E8%85%B8%E8%83%83%E7%82%8E	心血管
-2026-09-29	高慧君驚爆「斷片式昏倒」 重摔骨折右臉後遺症曝光全網嚇壞	https://www.msn.com/zh-tw/entertainment/news/高慧君驚爆-斷片式昏倒-重摔骨折-右臉後遺症曝光全網嚇壞/ar-AA24CT8T?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	生殖其他
-2026-09-29	雲林十大死因出爐 癌症持續居冠「這部位疾病攀升1名」	https://health.setn.com/news/1866701	免疫癌症
-2026-09-29	陸18 歲女高考後患心肌炎昏迷收大學錄取通知竟奇蹟甦醒	http://www.msn.com/zh-tw/health/other/陸18歲女高考後患心肌炎昏迷-收大學錄取通知竟奇蹟甦醒/ar-AA1JuyIy?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	心血管
-2026-09-29	金鐘視后高慧君在家「斷片式昏倒」!右臉3 處骨折造成這後遺症	https://www.msn.com/zh-tw/entertainment/news/金鐘視后高慧君在家-斷片式昏倒-右臉3處骨折造成這後遺症/ar-AA1Vy9R7	生殖其他
 2026-09-29	这3种明星中成药别乱吃！国家保密配方虽管用，副作用藏隐患-yeeyi	https://www.yeeyi.com/news/details/2896511/	生殖其他
-2026-09-29	超加工食品恐讓肌肉變「油花牛排」！研究：吃越多增心血管疾病、糖尿病風險	https://www.taiwannews.com.tw/zh/news/6341602	代謝神經
-2026-09-29	血糖飆破800 30歲男眼球血管全炸裂！醫揭「這3大食物」成隱形殺手	https://health.setn.com/news/1858397	代謝神經
 2026-09-29	血糖飆800! 男愛吃「這3類食物」釀眼球血管全炸開 醫嚇壞： 視力救不回	https://www.msn.com/zh-tw/news/other/血糖飆800-男愛吃-這3類食物-釀眼球血管全炸開-醫嚇壞-視力救不回/ar-AA1XNZiW?cvid=69b5f50b47b24dfdbcec771075baa6f3&ocid=MicroHP	代謝神經
-2026-09-29	血糖只是第一站 - 看懂「心血管腎臟代謝症候群」疾病軌跡，才能讓慢性病停在起點 門診裡很常出現一個場景 : 有人拿著健康檢查報告來找我，指著血糖那一行說：「醫師，我血糖比較高，但還沒有糖尿病，那就先追蹤看看吧。」 這幾乎是很多人的第一個反應。 當看到「前期	https://www.facebook.com/cmgenome/posts/血糖只是第一站-看懂心血管腎臟代謝症候群疾病軌跡才能讓慢性病停在起點門診裡很常出現一個場景-有人拿著健康檢查報告來找我指著血糖那一行說醫師我血糖比較高但還沒有糖/1356341199629545/	代謝神經
-2026-09-29	糖尿病年輕化 7成易酮酸中毒	https://www.msn.com/zh-tw/sports/other/糖尿病年輕化-7成易酮酸中毒/ar-AA1Qopm5?cvid=69168def62664b87a0aeb572ebc584da	代謝神經
-2026-09-29	空服員常過勞？林予晞曾當空姐「罹甲狀腺腫瘤」 兵家綺遇3 次空難身心壓力大	http://www.msn.com/zh-tw/entertainment/news/空服員常過勞-林予晞曾當空姐-罹甲狀腺腫瘤-兵家綺遇3次空難身心壓力大/ar-AA1OqzR5?cvid=4387b148432a4af0a3b5d7b270265d91&ocid=uxbndlbing&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
-2026-09-29	科大聯合開發機械人納米探針 為神經退行性疾病及癌症治療研究開拓新方向	https://www.eurekalert.org/news-releases/1112272?language=chinese	免疫癌症
 2026-09-29	研究發現：左側睡恐有一項「奇怪副作用」	https://www.msn.com/zh-tw/news/world/研究發現-左側睡恐有一項-奇怪副作用/ar-AA1WOuH2?cvid=699aa42f1c7f4cd4859bd28008e2ed44&ocid=mailsignout	生殖其他
-2026-09-29	男童腹脹、全身瘀青！醫以為家暴一驗：是癌症 4異狀要小心	https://health.setn.com/news/1887996	免疫癌症
-2026-09-29	男童昏迷飄「詭異水果味」！一驗血糖爆高 醫揭致命真相：中毒了	https://health.setn.com/news/1783623	代謝神經
-2026-09-29	男童昏迷嘴飄「異常水果香味」! 一驗血糖飆300 醫驚： 中毒了	https://www.msn.com/zh-tw/health/topic/男童昏迷嘴飄-異常水果香味-一驗血糖飆300-醫驚-中毒了/ar-AA1Uz9bV?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	代謝神經
 2026-09-29	男子疑血糖不穩暈倒路中央 中市警即時救援協助送醫	https://www.marketersgo.com/media-collaboration/202603/男子疑血糖不穩暈倒路中央 中市警即時救援協助/	代謝神經
-2026-09-29	比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來	https://health.setn.com/news/1804603	免疫癌症
-2026-09-29	暗盤情報 | 「自身免疫性疾病藥物研發公司」天辰生物-B現漲近124%，一手賺5947港元	https://news.futunn.com/hk/post/74077978/grey-market-intelligence-tianchen-bio-b-a-developer-of-autoimmune	免疫癌症
-2026-09-29	昔罹患血癌5年！41 歲人氣喜劇演員驟逝上個禮拜才錄影	http://www.msn.com/zh-tw/entertainment/news/昔罹患血癌5年-41歲人氣喜劇演員驟逝-上個禮拜才錄影/ar-AA1O0T9Z?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
 2026-09-29	日圓暴跌後遺症來了！日媒一語道破殘酷現實	https://stock.ltn.com.tw/article/mnhd7jsvtcvc	生殖其他
-2026-09-29	新股首日 | 「自身免疫性疾病藥物研發公司」天辰生物-B首日高開逾50%，一手賺2412港元	https://news.futunn.com/hk/post/74154039/ipo-debut-autoimmune-disease-drug-developer-tianchen-bio-b-surged	免疫癌症
 2026-09-29	找到長壽密碼！「1類食物」護心、防糖尿病 巧克力也上榜	https://health.setn.com/news/1763272	代謝神經
-2026-09-29	成大生物或首次單季度轉虧 擬投資佈局免疫抗腫瘤、自免疾病等創新藥領域	https://news.futunn.com/hk/post/67930456/chengda-biotech-may-report-its-first-quarterly-loss-and-plans	免疫癌症
 2026-09-29	感人!台中騎士低血糖昏倒 好心人送「媽祖紅包」 勸請假	https://www.msn.com/zh-tw/news/other/感人台中騎士低血糖昏倒-好心人送-媽祖紅包-勸請假/ar-AA1ZqVEq	代謝神經
-2026-09-29	幹細胞療法緩解一種自身免疫疾病超15年	https://www.chinesepress.com/archives/172836	免疫癌症
-2026-09-29	妻子患嚴重糖尿病和柏金遜症 #屯門市廣場 #企跳 #照顧者 #am730	https://www.facebook.com/am730hk/posts/妻子患嚴重糖尿病和柏金遜症屯門市廣場-企跳-照顧者-am730/1421473100020288/	代謝神經
-2026-09-29	女子低血糖昏倒昏暗路側 屏警及時馳援化解危機	https://rise-mediacorp.com/archives/94487	代謝神經
 2026-09-29	天熱高溫車內恐曬出毒! 近半數車主罹血癌 譚敦慈示警「2大關鍵」	https://www.msn.com/zh-tw/news/other/天熱高溫車內恐曬出毒-近半數車主罹血癌-譚敦慈示警-2大關鍵/ar-AA21ArMx?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
-2026-09-29	夏威夷豆對健康的好處？ ✓ 保護心血管：單元不飽和脂肪能減少壞膽固醇堆積，降低動脈硬化與心血管疾病的風險。 ✓ 穩定血糖、延緩飢餓感：低碳水化合物、富含健康油脂與纖維，適合糖尿病患者或減醣飲食者食用。 ✓ 幫助腸道健康：堅果所含有部分膳食纖維，能夠幫	https://www.facebook.com/ctee.fans/posts/夏威夷豆對健康的好處-保護心血管單元不飽和脂肪能減少壞膽固醇堆積降低動脈硬化與心血管疾病的風險-穩定血糖延緩飢餓感低碳水化合物富含健康油脂與纖維適合糖尿病患者或/1296538092501599/	代謝神經
-2026-09-29	初中生2天玩36小时手机突然晕倒：长期熬夜暴发性心肌炎	https://news.mydrivers.com/1/1106/1106495.htm	心血管
-2026-09-29	任美艳最终癌症去世，临死前说出小飞身世，小飞和文毓秀母子相认	https://m.yule.360.com/content/5111204	免疫癌症
-2026-09-29	以為感冒！男童發燒4天「變心肌炎」險沒命 醫示警5異常快看病	https://health.setn.com/news/1812305	心血管
 2026-09-29	中風不只是高血壓專利！亂跳的心臟成血栓製造機「聽懂心跳」才能守護大腦	https://heho.com.tw/archives/387329	心血管
 2026-09-29	中國央行祭「不設額度上限」低利貸 能打通地方政府21兆欠款血栓救經濟？ | 上報	https://today.line.me/tw/v3/article/vXLYqVE?referral=globalnews	心血管
 2026-09-29	“拍照只敢躲在最后”238磅女生逆转人生一年减掉半个自己告别糖尿病、多囊：不再自卑	https://info.vanpeople.com/1847214.html	代謝神經
 2026-09-29	mRNA癌症疫苗試驗成功，生物科技行業迎來催化劑	https://nai500.com/zh-hant/blog/2026/08/mrna-%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E8%A9%A6%E9%A9%97%E6%88%90%E5%8A%9F%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E8%A1%8C%E6%A5%AD%E8%BF%8E%E4%BE%86%E5%82%AC%E5%8C%96%E5%8A%91/	免疫癌症
 2026-09-29	ETtoday新聞雲. . 【媽祖要你請假】台中騎士低血糖昏倒 好心人送「媽祖紅包」勸先請假 好人一生平安。(#起啵) 【相關報導】 感人！台中騎士低血糖昏倒 好心人送「媽祖紅包」勸請假 https://www.ettoday.net/news/20260326/3138992.htm	https://www.facebook.com/ETtoday/videos/媽祖要你請假台中騎士低血糖昏倒-好心人送媽祖紅包勸先請假/970195142114662/	代謝神經
-2026-09-29	63歲女「30年反覆長腫瘤」! 醫揭罕病	https://www.msn.com/zh-tw/news/national/63歲女-30年反覆長腫瘤-醫揭罕病/ar-AA21lIXt?cvid=69e7c4ddf93f40fa9f6bb4f1c7fec90b&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
-2026-09-29	46歲傅子純「看似健康」血癌驟逝⋯妻淚崩：心撕一半！醫曝2致命關鍵	https://health.setn.com/news/1852069	免疫癌症
-2026-09-29	46歲傅子純「看似健康」血癌驟逝⋯妻淚崩：心撕一半! 醫曝2 致命關鍵	https://www.msn.com/zh-tw/entertainment/news/46歲傅子純-看似健康-血癌驟逝-妻淚崩-心撕一半-醫曝2致命關鍵/ar-AA2558q1?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
-2026-09-29	42岁男子家中突发心脏停跳，医生： 罪魁祸首是糖尿病的这个并发症	https://www.msn.com/zh-cn/news/other/42岁男子家中突发心脏停跳-医生-罪魁祸首是糖尿病的这个并发症/ar-AA1LZoEM	代謝神經
-2026-09-29	20歲男大生「天天2杯手搖飲」突暈倒了！ 送醫血糖飆破千	https://www.msn.com/zh-tw/health/other/20歲男大生-天天2杯手搖飲-突暈倒了-送醫血糖飆破千/ar-AA1ubEWS?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	代謝神經
 2026-09-28	陳文茜抗癌出院2個月 驚吐療程副作用纏身「5指全變形」	https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSlZfamU1RGNfdHM1SUVEel9weHluYjZaUXhTSHM0ZkFXY25INHpPbXBJRlpIVU1LbDJVczYwcHplbzgyY3dKSXdyM1VZN0dyZ3hJTW10YjYtVXZ3dzVZYmw0dDNuWUc4NEp5cTFPdkYtci1GMWRfQ0FXV3MxMlNLMmxvLXBsSFRSVC0yMEpVNzVWUUljc1ZNM2ktMWVtWHdKNS1nLWpjOGNXWWVFN2o3bzNDaDVTS1RGSktwb2VMMkNuM3VIc0JfUUtNRlIxSG9qYkZjLTc3NVUxVXNJV3J5d1JYSnJCMTJOa2tYYkFpLVRHakhQMkhUQUxzakFuLXI3bndSTmktc1lFZTNrS0VHSjQxM1ZKZmNYRFhuRG5waTdzMFhwQ1JYbm1JRkYxc0dKcmg3X3F5Z1kzYnU4YW1hREJMTUZWeFlCaW42YmtzOHpuNldRT1BSVGg2WFk0ekxX?oc=5	生殖其他
 2026-09-28	習近平健康亮傳聞再起！海外評論員爆「中風後遺症」 稱未來3個月恐成高危期| 國際	https://newtalk.tw/news/view/2026-09-28/1062322	心血管
 2026-09-27	新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思	https://woman.udn.com/woman/story/123165/9764246?from=udn-tagging_ch4087	生殖其他
@@ -131,6 +100,7 @@ var DATA_SIDEFX = `
 2026-08-16	靜脈曲張勿輕忽 4招護腿遠離血栓	https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKSFdCQnRLXzhVYzd5S1dqMld0TG4yMi1lSmdpVGV6bUN3YTE0OGthZWI5dzFsbDNfZGtVeEJCb25PWTVuZFkyTk1PQW9iT0lhS3c?oc=5	心血管
 2026-08-15	婦雙腿痛到走不了 醫：靜脈曲張恐血栓前兆	https://tw.news.yahoo.com/%E5%A9%A6%E9%9B%99%E8%85%BF%E7%97%9B%E5%88%B0%E8%B5%B0%E4%B8%8D%E4%BA%86-%E9%86%AB-%E9%9D%9C%E8%84%88%E6%9B%B2%E5%BC%B5%E6%81%90%E8%A1%80%E6%A0%93%E5%89%8D%E5%85%86-063604682.html	心血管
 2026-08-15	「浮腳筋」突然紅腫變硬快就醫！ 醫示警：血栓脫落恐致肺栓塞	https://health.ltn.com.tw/article/breakingnews/5540813	心血管
+2026-08-12	男童腹脹、全身瘀青！醫以為家暴一驗：是癌症 4異狀要小心	https://health.setn.com/news/1887996	免疫癌症
 2026-08-12	男童腹脹、全身瘀青！醫以為家暴一驗竟是血癌 4異狀快就醫	https://news.ebc.net.tw/news/living/565968	免疫癌症
 2026-08-11	血糖飙破800！30岁男眼睛血管爆裂 3大常吃食物害的！	https://www.chinapress.com.my/20260811/血糖飙破800！30岁男眼睛血管爆裂-3大常吃食物害的！/	代謝神經
 2026-08-10	血管健康｜19歲男生每天躺著玩手機5小時血栓小腿腫痛半個月後無法走路【附3招自測血栓風險】	https://news.google.com/rss/articles/CBMinARBVV95cUxOQUxVckk4NDJSWlVxZHRqbEF3aEg1dWxxQUhNOGJTWmg4b2xFek8tSDNOQ3JmTU40ZDhMYk1LRXhaTWVzWVUwd2JnaW1CS1A4YzVQTk94ZEctbFcyako5WERiVUNyOHRIc1VXa2hWNnVsZUFVbWZYR0JaRFN6YmVuS2xIQnZnM3hBTVJaaHBFS1RDTlA4eWpJODdONXQyMmhPZlZpR2pHSVdaUFJhX3pYdk5wTTZrcGQ3Szg1dFpZWEx0dFg4WW5IaHpONHY5Wk5IOVVMb2xBaW9iU0V0MmctRnVGT2ljaVBBd0V6WUYtLVNYT1hNYmJSNGtKZTEzcHd1WTB4TGNJQlVzWkF6dC1nYVI5NFFUdHcydlBpdTRfQ25sZmFFclN1S0dWLUtqQkNqMmlTNkJhZEJlWW9vekJKanRSMTFXYnlHNFJ4ZURheEdjcjZVWmhabl9SelhWd1RGMWpzUU9YWmJUTXZUSjFxTGdNUnRLeUtZODBvY3JwRngwR1dMQTF5a2hCUUliLWxyb1dSNHMyV3NOb3F0T0poMWh3cGhaVEhCZlZqcjhTTTU2NmVnQVk3ZGg4aWl1WVJYWmR6T2lDQ1pESFFWSlNrV3BaNm1BUG9jRDFQaWwyVi1tVGJGTnppRVhmeGFYRVhpSzlMZFpjYmRQZ0cycXpfdTJjWm12bWVjZHpORjg2OVFNZkxFZEw5SmFMOVQ?oc=5	心血管
@@ -165,6 +135,7 @@ var DATA_SIDEFX = `
 2026-07-22	響應「世界腦健康日」 創世桃園院籲大眾留意中風年輕化	https://n.yam.com/Article/20260722860349	心血管
 2026-07-22	健康網》不只傷肺！空污恐害血栓 研究：吃5類食物降風險	https://health.ltn.com.tw/article/breakingnews/5513804	心血管
 2026-07-22	不只傷肺！空污恐增血栓風險、慢性發炎 醫揭「10種保命食物」	https://health.setn.com/news/1876726	心血管
+2026-07-21	任美艳最终癌症去世，临死前说出小飞身世，小飞和文毓秀母子相认	https://m.yule.360.com/content/5111204	免疫癌症
 2026-07-20	8旬婦長期服抗凝血藥仍中風 心臟藏4公分巨大血栓、一度誤認腫瘤	https://www.healthnews.com.tw/article/69093	心血管
 2026-07-16	愛妻血癌驟逝！64歲資深男星悲痛欲絕 消失六年「真實近況」曝光	https://star.setn.com/news/1873385	免疫癌症
 2026-07-15	靜脈曲張拖10年不看醫生！老翁腿部藏40厘米巨型血栓 脫落恐致命	https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/60365861/%E9%9D%9C%E8%84%88%E6%9B%B2%E5%BC%B5%E6%8B%9610%E5%B9%B4%E4%B8%8D%E7%9C%8B%E9%86%AB%E7%94%9F-%E8%80%81%E7%BF%81%E8%85%BF%E9%83%A8%E8%97%8F40%E5%8E%98%E7%B1%B3%E5%B7%A8%E5%9E%8B%E8%A1%80%E6%A0%93-%E8%84%AB%E8%90%BD%E6%81%90%E8%87%B4%E5%91%BD	心血管
@@ -174,6 +145,7 @@ var DATA_SIDEFX = `
 2026-07-07	養和：乳患者接受質子治療 副作用、心臟病風險比傳統放射治療低 - i-CABLE	https://news.google.com/rss/articles/CBMi3wJBVV95cUxOY21VX2hUelVBaGg5WUFyVnprRUxEVS1IcGE5aEhkLTNNRjZfbVJ3OVpzTlFWcGZ2amNLWmtvcnJ4UnJvN0s2UVpxZ0ZFYU5nM1FyZzFsV09RSmVyV1NzbTkxeE95Z19NWFB3T2lyeEZiVTFFX1RnMmZKS0VEVTl3Wjl6SU1xTDluU0dOLUVlUVVPOXdvem1aMFY3Q0I1THp1YjFtWEVXUGhLY3ViSlpBY0x0U0otSElxQjA5dXNoOTYyczNnNC1KYlRYdjY1MUstbi1QSnl2RXhHN0JUS3UtN2N3T1NNblAwUjBSaDJnOWVObnNoVm1KaG1DMURRSmNxSVdtdEM5RllONnRUWF8xZ0NPZEthWnZHeHZ3dnpYWE9vaFNDc3NGX01fZjFENkJOeFloWUtKenFXOHhBSU9QeTVGaEdtV2VIMUljMjhYWGVNN01ISzN6dy1pSlF1dnc?oc=5	生殖其他
 2026-07-05	食藥禁忌｜食抗凝血藥忌吃4水果恐失效胃出血！奇異果增血栓風險	https://www.hk01.com/%E6%95%99%E7%85%AE/60362939/%E9%A3%9F%E8%97%A5%E7%A6%81%E5%BF%8C-%E9%A3%9F%E6%8A%97%E5%87%9D%E8%A1%80%E8%97%A5%E5%BF%8C%E5%90%834%E6%B0%B4%E6%9E%9C%E6%81%90%E5%A4%B1%E6%95%88%E8%83%83%E5%87%BA%E8%A1%80-%E5%A5%87%E7%95%B0%E6%9E%9C%E5%A2%9E%E8%A1%80%E6%A0%93%E9%A2%A8%E9%9A%AA	心血管
 2026-07-05	「我擔心懷孕，比擔心藥物副作用更多！」 女性團體支持事後藥速改類	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhc0tVYlQ5Y0pTdlhndm43RlZOR2c1c3c5aHhxSXpyakh6RGpyZzdlemU1TTVTSjlwRGhKR1A4alhOclNVYllUYXM3SGFGMUFj0gFWQVVfeXFMUGdNdWJETUpkZnpMLUdnNE1PdWNIZ2FOWkJjUEhQbTVkc3dIcnA3SktHSjVCTC0zajRhOWxKQVhtX3FDd0xPMEpUWUt4LVhJRmxjaEdweHc?oc=5	生殖其他
+2026-07-04	雲林十大死因出爐 癌症持續居冠「這部位疾病攀升1名」	https://health.setn.com/news/1866701	免疫癌症
 2026-07-04	血栓「起床後30分」風險最高！醫揭3大警訊 2時間喝水可救命	https://tw.news.yahoo.com/%E8%A1%80%E6%A0%93-%E8%B5%B7%E5%BA%8A%E5%BE%8C30%E5%88%86-%E9%A2%A8%E9%9A%AA%E6%9C%80%E9%AB%98-%E9%86%AB%E6%8F%AD3%E5%A4%A7%E8%AD%A6%E8%A8%8A-2%E6%99%82%E9%96%93%E5%96%9D%E6%B0%B4%E5%8F%AF%E6%95%91%E5%91%BD-043700534.html	心血管
 2026-07-03	癌症續居雲林十大死因之首！ 腦心血管警訊升高籲全民防治	https://n.yam.com/Article/20260703727995	免疫癌症
 2026-07-03	影／亞洲首座精準中西醫合療中心揭牌鎖定癌症、神經疾病與罕病| 生活	https://video.udn.com/news/1325346	免疫癌症
@@ -183,8 +155,10 @@ var DATA_SIDEFX = `
 2026-06-29	更年期「荷爾蒙治療」致血栓？醫：恐過度誤導偏差	https://www.healthnews.com.tw/article/68835	心血管
 2026-06-26	名人健康｜高海寧拍戲遭掌摑致臉歪，半邊臉失去知覺，留後遺症需正骨治療| 健康解「迷」 - 醫學通識- 健康好人生	https://www.etnet.com.hk/www/tc/health/399585/%E5%90%8D%E4%BA%BA%E5%81%A5%E5%BA%B7%EF%BD%9C%E9%AB%98%E6%B5%B7%E5%AF%A7%E6%8B%8D%E6%88%B2%E9%81%AD%E6%8E%8C%E6%91%91%E8%87%B4%E8%87%89%E6%AD%AA%EF%BC%8C%E5%8D%8A%E9%82%8A%E8%87%89%E5%A4%B1%E5%8E%BB%E7%9F%A5%E8%A6%BA%EF%BC%8C%E7%95%99%E5%BE%8C%E9%81%BA%E7%97%87%E9%9C%80%E6%AD%A3%E9%AA%A8%E6%B2%BB%E7%99%82	生殖其他
 2026-06-26	IgA腎炎：新藥物針對抑制腸道異常 減少傳統療法副作用｜最強生命線·延伸閱讀	https://news.google.com/rss/articles/CBMivwNBVV95cUxOb0ppYy1aOFo2d3ljdHBtZzI1NTliaEJoaFEtQ2E4X0dXZGZ4am9ZWnVOR3F5SzVTWlVnMDRkdFJsRnc5S2g5U1p4YUhiUGliaW9GMnl6NHAwaXNUa3VmdGc0Ri1BZFFYRFlsaUxxRWNJaDV2dmcxV0dTMmo3VlJKWlVJNFBneEhPaUhsNmdma2otbzBocmNEeE9RTmVXVm5QT1Rhand0UkRpUDFKbWRJRzJ2LV9oWUdDM3lLYTFXQmJsa0s2bld4VlFzX3gwYnBFSUlRYmJVYjBKZUFTMXNjaVdxV1dEWGxtY3lNXzdJOFM1cjd2dUJDV1NNU1ZwZTV6cHBDQWFteWtZWTlscmw0NzNuWVE4UlVVQXp5aUYzWWpvYlZRWjVITFF6N0JBbGRRQnkxb0xYazZod0ZDdWxaZlI0WUwwTkZKTF8tRUdHZjg0cXY2emhQV3pMdDU4aGs5YU5qV2NoTDB2QkxVNmlTbDZTZzlIU0dZOXVpdGpzblZWaWZoRDZJN0wxWDhZdmdROFVjSjZJeWlEVUNJbm8xR0swYjNQZ09ZOC1SRUNmWWdqNU0wNUNheU9vUXZVNnc?oc=5	生殖其他
+2026-06-25	幹細胞療法緩解一種自身免疫疾病超15年	https://www.chinesepress.com/archives/172836	免疫癌症
 2026-06-25	潘瑋柏顏面神經失調！親揭爆肥主因 認類固醇副作用害水腫	https://news.google.com/rss/articles/CBMiggNBVV95cUxQVXdwMS1Qd1VTam5xWG5JeWg3UVZyYXVZaUYzRkhpRXVJMkw0aThZa1RaY1FwRGE1X0xXUDdib2Q1bS1yZUxZZlowanNERWE1Xy1uaGZHYWM5UEpnSWs4WDVxUGQ1c0NVUllJOG1zLUd3VlFTQXh0VlltQUJ1OUNsS2ZFN1dLVnBDd251RVh3REJxdmlSNmE4SDBNYWxvMDRmSHEwWk5ad3hpS0t3WWsyY0dhVHBBQVVXbnhPOU9Za0l0VHd5VVhnQkdzY0hsc2Nrelh6T05kV2dfaU5yeG5TLTM3OERScHFEeUlsM2FzSlVGNy1OTE9NeHN2MU5LSVJGLTJ5ZHJPVU80WVJYNm44WDhmb2ZMZDVCYXVJTlBUQi04TEdfQk1BSXdELTVjX1JlWHhBQzRGbkNnRllFem5TNE1IN2xiTmNzbTRNTk9EU2w3RnZZTlptVXBybmpoUUprZmdXdVEweW9TNUp1dlItVGFvYWxHWnFXMmV6QUgzV3ZaZw?oc=5	生殖其他
 2026-06-25	坐飛機衣著｜空姐警告勿穿5種衣服 恐深層靜脈血栓！1種港人常穿	https://www.hk01.com/%E6%97%85%E9%81%8A/60227516/%E5%9D%90%E9%A3%9B%E6%A9%9F%E8%A1%A3%E8%91%97-%E7%A9%BA%E5%A7%90%E8%AD%A6%E5%91%8A%E5%8B%BF%E7%A9%BF5%E7%A8%AE%E8%A1%A3%E6%9C%8D-%E6%81%90%E6%B7%B1%E5%B1%A4%E9%9D%9C%E8%84%88%E8%A1%80%E6%A0%93-1%E7%A8%AE%E6%B8%AF%E4%BA%BA%E5%B8%B8%E7%A9%BF	心血管
+2026-06-24	血糖飆破800 30歲男眼球血管全炸裂！醫揭「這3大食物」成隱形殺手	https://health.setn.com/news/1858397	代謝神經
 2026-06-24	急性腦中風 黃金時間打「血栓溶解劑」救回	https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qcG5ZeGxtLXlNTUpjV2l2a254Y0pNLXA4UGRnd0hiOEhSd0g4WEZSNHpTN0FyQk1TbjdJaEFiU0d4Z0NjWWYwTkFPR291WVF5d1hpV1U1aGdFZmvSAWBBVV95cUxOYzFjMGhhVFlOU1c4ZW1HcXh2V0JiTnZaVHlWYnREN1FmVmVXZUNNTE9PZDhSMzREX21WeS0xeUppcUlZVTJlbWdzQm9MTy1sUkNpY1BwZkhydFI2UTNXSWs?oc=5	心血管
 2026-06-24	女生低血糖晕倒在公安局门口，民警、市民接力救助	https://sichuan.scol.com.cn/ggxw/202606/83276175.html	代謝神經
 2026-06-23	癌症連44年居國人頭號死因！癌逝人數連4年攀升	https://www.rmim.com.tw/news-detail-44730	免疫癌症
@@ -196,12 +170,14 @@ var DATA_SIDEFX = `
 2026-06-17	日本好市多驚爆食物中毒！男童全身血栓命危	https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E5%A5%BD%E5%B8%82%E5%A4%9A%E9%A9%9A%E7%88%86%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92-%E7%94%B7%E7%AB%A5%E5%85%A8%E8%BA%AB%E8%A1%80%E6%A0%93%E5%91%BD%E5%8D%B1-011630995.html	心血管
 2026-06-15	更年期荷爾蒙治療增血栓風險？醫師：血管健康與給藥路徑是關鍵	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJWWxvT3A5MnROUmdnWHkyblBHNi0zVXpfaGJERng2a18tb09qT1RFeDZKd1NIdE8xM0VSSjBjVWRFeTllWk9LTGVsZDNZTzV20gFWQVVfeXFMT2V0R1A1TjEzX2JLRW5DRVQ4SW84eWV0T0hqcmpseENiYTJwcGlTTm9tTlJDbDc4Z1Z6SW9Nb28zUW1IZmlKWXJ2S0pYV3Y4bzV1T2cwUkE?oc=5	心血管
 2026-06-15	更年期荷爾蒙治療增加血栓風險？醫揭：「血管健康度」與「給藥路徑」才是關鍵	https://www.top1health.com/Article/98197	心血管
+2026-06-12	46歲傅子純「看似健康」血癌驟逝⋯妻淚崩：心撕一半! 醫曝2 致命關鍵	https://www.msn.com/zh-tw/entertainment/news/46歲傅子純-看似健康-血癌驟逝-妻淚崩-心撕一半-醫曝2致命關鍵/ar-AA2558q1?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
 2026-06-12	海洋公園暈倒｜六旬男技工患糖尿病及三高 曾向家人透露心臟不適	https://www.hk01.com/突發/60359612/海洋公園暈倒-六旬男技工患糖尿病及三高-曾向家人透露心臟不適	代謝神經
 2026-06-12	海洋公園暈倒亡│男技工有三高糖尿病 曾向家人透露心臟不適 原定今日到公院診治	https://www.stheadline.com/breaking-news/3582411/海洋公園暈倒亡男技工有三高糖尿病-曾向家人透露心臟不適-原定今日到公院診治	代謝神經
 2026-06-12	在宅醫療照護保單僅限3類疾病 衛福部盼癌症居家化療納保	https://tw.news.yahoo.com/在宅醫療照護保單僅限3類疾病-衛福部盼癌症居家化療納保-070441352.html	免疫癌症
 2026-06-11	荔枝病| 老婦每日吃荔枝誘「荔枝病」低血糖昏迷荔枝品種+4大益處+每日勿超過X粒現不適兩招急救- 東張+	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/17323707827596/健康醫美-荔枝病---老婦每日吃荔枝誘-荔枝病-低血糖昏迷-荔枝品種-4大益處-每日勿超過X粒-現不適兩招急救	代謝神經
 2026-06-11	沈玉琳不捨傅子純疑血癌驟逝 曝「三個月前剛健檢也沒用」	https://tw.news.yahoo.com/沈玉琳不捨傅子純疑血癌驟逝-曝「三個月前剛健檢也沒用」-070311922.html	免疫癌症
 2026-06-11	Cullinan Therapeutics公佈兩款自身免疫疾病候選藥物臨床數據 作者 Investing.com	https://hk.investing.com/news/company-news/article-93CH-1503320	免疫癌症
+2026-06-10	46歲傅子純「看似健康」血癌驟逝⋯妻淚崩：心撕一半！醫曝2致命關鍵	https://health.setn.com/news/1852069	免疫癌症
 2026-06-10	德琪醫藥(06996.HK)治療自身免疫性疾病新藥臨床試驗申請獲內地批准	https://www.aastocks.com/tc/stocks/news/aafn-con/now.1528316/latest-news	免疫癌症
 2026-06-10	德琪医药-B(06996.HK)：ATG-201治疗自身免疫性疾病IND获国家药监局批准	https://news.fx168news.com/cooperate/2606/7459357.shtml	免疫癌症
 2026-06-10	傅子純血癌驟逝！昔《多情城市》戰勝病魔 網嘆戲裡戲外不同結局	https://tw.news.yahoo.com/傅子純血癌驟逝-昔-多情城市-戰勝病魔-網嘆戲裡戲外不同結局-023500546.html	免疫癌症
@@ -211,8 +187,11 @@ var DATA_SIDEFX = `
 2026-06-08	傅子純為人溫暖！半個演藝圈接獲血癌死訊淚崩 衝ICU送最後一程	https://www.nownews.com/news/6844316	免疫癌症
 2026-06-08	傅子純急性血癌驟逝 醫：現代人常忽略「疲勞」警訊	https://health.ettoday.net/news/3179562	免疫癌症
 2026-06-06	男大生咳嗽高燒就醫 竟是肺膿瘍引發血栓	https://health.ltn.com.tw/article/paper/1757698	心血管
+2026-06-05	新股首日 | 「自身免疫性疾病藥物研發公司」天辰生物-B首日高開逾50%，一手賺2412港元	https://news.futunn.com/hk/post/74154039/ipo-debut-autoimmune-disease-drug-developer-tianchen-bio-b-surged	免疫癌症
 2026-06-05	癌症療法大突破！CAR-T技術助腎臟移植成功 逆轉自體免疫疾病	https://www.4gtv.tv/article/2026060507000019	免疫癌症
+2026-06-04	暗盤情報 | 「自身免疫性疾病藥物研發公司」天辰生物-B現漲近124%，一手賺5947港元	https://news.futunn.com/hk/post/74077978/grey-market-intelligence-tianchen-bio-b-a-developer-of-autoimmune	免疫癌症
 2026-06-04	攝護腺癌術後「副作用」最難熬 中醫介入助改善尿失禁、疲憊感	https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WTG14Smdkb1Fqdm9YcHBuTHBDYnhhbDJIOGlXMllUbGVWWGpUSmZqMThOLUlDVVNLTTNianBUdE80VGJFQ21kSjBOcV9wbUcw0gFWQVVfeXFMUGZYb1pKSm4zMHhsME9EU09xbHRnQnFVclFYVVVXS2VUMWptY2J3Z0tRRVdtekNHdmU0alExR0ZxSThzcTVoNmMtZ2JBbGFtTFFiR0hZamc?oc=5	生殖其他
+2026-06-03	高慧君驚爆「斷片式昏倒」 重摔骨折右臉後遺症曝光全網嚇壞	https://www.msn.com/zh-tw/entertainment/news/高慧君驚爆-斷片式昏倒-重摔骨折-右臉後遺症曝光全網嚇壞/ar-AA24CT8T?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	生殖其他
 2026-06-02	高慧君驚爆「斷片式昏倒」重摔骨折 右臉後遺症曝光全網嚇壞	https://star.setn.com/news/1849054	生殖其他
 2026-05-30	癌症放化療副作用多 中醫師偕個管師打造個人化照護	https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2lYS29uWGJJSWFMWXJkczd3UEtnN19KRVlsSXBzalhLY0Jvd2tsd2xnRlBsOUdhNW9UcWxUWUYtTEVvcVVnT2pQTndnVVZyRUpiOGRYNkRscFJiMFlqYmhlVWhReWRTMjhoZ1BKVDdRQWVpdUZKUl9pNmduX3dMYXZsbkFRYUtBWXhEaHMzdWJUVkdqaGZZaWF5czE5RkZ2d0tHbjJBQllVTGVOLWxj?oc=5	免疫癌症
 2026-05-30	健康網》吃攝護腺藥怕「不行」 醫破迷思：2類藥副作用大不同	https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OMlZ5cDNPT3l1NUYwZVl1R2Q0Z2p3c3NzNVNMb2Vmdkt5QjVkQTBiWVliRkp3eHBEdDNHUjNOVkFYTy1hYTZnQ3hDM19sYkI3Vl96ZzRuNjlEbVBFZzZuQUJZN2PSAWpBVV95cUxPOGwza09uaTRTMjUxR0s0RzFRTTEyelFieU5fOHkzTVdaSjZPUmljajV6ZzR4N3hCVE9PS0xEMjJwLUQzRDlSb3BvUmtaelhpaTdQcFlxb3lBWmxtenN5QWtrYzRJSXdJNVNB?oc=5	生殖其他
@@ -249,6 +228,7 @@ var DATA_SIDEFX = `
 2026-04-25	糖尿病翁血糖僅40昏迷送醫！醫揭「15法則」救命關鍵	https://tw.news.yahoo.com/糖尿病翁血糖僅40昏迷送醫-醫揭-15法則-救命關鍵-070100502.html	代謝神經
 2026-04-24	參加進香忘記施打胰島素 婦人血糖飆升引發酮酸中毒昏迷	https://news.pts.org.tw/article/805215	代謝神經
 2026-04-24	七旬男反覆低血糖昏迷 不是糖尿病、揪肺部大腫瘤	https://www.worldjournal.com/wj/amp/story/121238/9462311	代謝神經
+2026-04-22	63歲女「30年反覆長腫瘤」! 醫揭罕病	https://www.msn.com/zh-tw/news/national/63歲女-30年反覆長腫瘤-醫揭罕病/ar-AA21lIXt?cvid=69e7c4ddf93f40fa9f6bb4f1c7fec90b&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
 2026-04-22	體質易發多處腫瘤 罕見疾病折磨身心	https://tw.news.yahoo.com/體質易發多處腫瘤-罕見疾病折磨身心-042032407.html	免疫癌症
 2026-04-22	感冒變奪命心肌炎ECMO救回一命 浙江男心臟停跳2天奇蹟生還	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60342668/%E6%84%9F%E5%86%92%E8%AE%8A%E5%A5%AA%E5%91%BD%E5%BF%83%E8%82%8C%E7%82%8Eecmo%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD-%E6%B5%99%E6%B1%9F%E7%94%B7%E5%BF%83%E8%87%9F%E5%81%9C%E8%B7%B32%E5%A4%A9%E5%A5%87%E8%B9%9F%E7%94%9F%E9%82%84	心血管
 2026-04-21	6旬婦罹罕病逢希伯-林道症候群 多個器官易反覆出現腫瘤或病變	https://news.pts.org.tw/article/804664	免疫癌症
@@ -259,6 +239,7 @@ var DATA_SIDEFX = `
 2026-04-18	南韓政府擴大認定「新冠疫苗副作用」！ 耳鳴、顏面麻痺、子宮出血全補償	https://tw.news.yahoo.com/%E5%8D%97%E9%9F%93%E6%94%BF%E5%BA%9C%E6%93%B4%E5%A4%A7%E8%AA%8D%E5%AE%9A-%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E5%89%AF%E4%BD%9C%E7%94%A8-%E8%80%B3%E9%B3%B4-%E9%A1%8F%E9%9D%A2%E9%BA%BB%E7%97%BA-%E5%AD%90%E5%AE%AE%E5%87%BA%E8%A1%80%E5%85%A8%E8%A3%9C%E5%84%9F-093018602.html	生殖其他
 2026-04-18	“这一刻，是我坚持深耕教育的原因” 老师突发低血糖课堂上晕倒 回看监控被学生们的举动感动	https://m.sohu.com/a/1011286758_121106687?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	代謝神經
 2026-04-17	吳文忻乳癌4期化療藥副作用引發肺炎 樂觀面對剪男仔頭：幾型呀	https://news.google.com/rss/articles/CBMivgNBVV95cUxOVldrV3BLYWZ3bXdveFlVWDU5Nzh0WWhsWkhjZ2ZXUlc5ZXl2eURzYU5OVHFGbVVpWHJ1Yk5LY0UyY0ltaTJ6c2ZmLTRoWlRKZXAzOU53V3ZmMl83clItV19vanUwZm1VNXE4c3VqaXNtakg5c0tybHpwNWdDWjV3N0NEcHRGNS03YUR4RmNVWlpMT3RoTFE5V284UFd6SFY1NWdMdlhGQ25vLVVXQlRaSHRwRlVNYTVUaFE4S3Yyb0phenhTb1J5WnpRYUdiNl84S2hLSDkyS1FRdWdiYTAxNGJFUWJaR1Y5Tjg4dFJyY1VVY05HNk9KYnJxRHRrakNCM1F2TlI3SDB5bWNOZVliWF9kYjBYRlZkMVVvcy1hTHpXTmZiakIyTnZFYWpUTVBqMERPaGZqenNJRnpCR2k4aTdnc0VxLTdXNW5tck4zN0Nja3VfRC1meVpDWkpNLUowamFndGZVcXhYUWdhd0JfMkRvV21JYzZwRkoyQVI2YVlGcUs1d2xvZXpZeTMwOUZTajEtOFdyTkJtZHVWSjRlajBvOEREUEMzVy10U1htNzJKT1d3c2tnLXBMYWFJZw?oc=5	生殖其他
+2026-04-16	超加工食品恐讓肌肉變「油花牛排」！研究：吃越多增心血管疾病、糖尿病風險	https://www.taiwannews.com.tw/zh/news/6341602	代謝神經
 2026-04-16	成都女子低血糖晕倒路边，高新公安执勤辅警秒出警	https://m.sohu.com/a/1010335361_355475?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	代謝神經
 2026-04-14	褪黑素副作用｜醫生警告7大副作用＋高危族群！一文看清安全食法劑量禁忌	https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmpIbkpXM241VDZhQmMtXzVXQ1otd3NGRWkxaEFRWnM5eDZMSnE4blA1SmRYanNjMF8wT3dKdUJRd3NNZGdodmdNSi1qbkxDZm45ZXNXVE80R2pnODJYSlRYcVpkem1ob0lxdGRDN08wMDFhcjhuRjh0VFFVRkh1dldub1V2X3FhWG1lTUtobC12ZWlkLThobkVJSEwtZ01zWEZVWHM4Q2Y0NURTTjI3d2k0MUpMb1RlZ3R0Tm5fZUhrYVZrNFE?oc=5	生殖其他
 2026-04-14	產後第一次下床最危險？醫師：小心血栓風險	https://www.healthnews.com.tw/article/68204	心血管
@@ -280,6 +261,7 @@ var DATA_SIDEFX = `
 2026-03-30	城大研全新化合物可減精神科藥物副作用- 港聞	https://news.google.com/rss/articles/CBMidEFVX3lxTE9kR3NqREx1QlRMVVU4THVnSnRkdVpnai03WUl0WDVMVVhwY3BLOUtqWFFPUXBQYmp6bjdyLVBKeHlmMjh4SDE1MUlKNUV6WDIwU2xLNktaVjVSZmhSVVcwR3FWRHZoVkFLcGdyZkc0d25KTzRU?oc=5	生殖其他
 2026-03-30	台30歲女長期服用EVE止痛藥需終身洗腎 醫生警告：有多重副作用	https://news.google.com/rss/articles/CBMiqwNBVV95cUxNc19vT2QxUGZiUWl6U3BoaUFrdEFpLXJRRHg5eHJlQy1nS1dtSnJDMXNvb2IxU0JXNXcxTGNMMUpEbkRoUW53S0RYVlJnczJMV2FWOG1TWmJrRERQNjFRODNjM3ZsZHR3QzlweE5Kc2pldU52MWVXT2J6S1pKd0dIeFp6RVV4TjUybC12WWNpSGx4clg1QUU2T1BtYmVWNTVDT0FvQW9lSjlLQWlSS3Bodmc2R3ROdXphcnpEWm1JWmJTX25WczBMd1hzQVRSdVpURU1QcFp5UkpDQmZfNzJsaW53RWYzYkJLbndzZ2p6ZU5FNGdhb3dsZWp5NDA4SXkwZnlxQzdBR0JtMGIxMzB4NzU5Zlc0eWNiRmFrakd1dnoyOGZFVHBPVGFNTWdNVGFMY0dFS3RfTjg0UHVkbEVta0w5UWgxeExpZ2RsREpuWmtuaDRtWVM2bUxlaFpHQkY1SktHTF9Pd2o2QVlJOEpZOVFTRHJnSUhDaDZpNzV6bk1WOEE0QmRENm1kdWFsVG9CWU95OVRhZkZLM1c2cWRvTFgzZUhfUnIydldV?oc=5	生殖其他
 2026-03-27	🎧｜2026癌症論壇／標靶治療副作用、抗藥性問題，林口長庚有三解方！	https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5bWRuMG1hN291NENVQXV2eWQ4SVFxbHdyQUJZVjJhRkM4cUljM1EwenNSd2lFLTloYWl2bmZfNkJCbVNjb01pMjVxLU5wX1FVVTFaZnM1d3p1bDhUQkNv0gFkQVVfeXFMUDJnSG9KaXlDNER0MUFhYUhhb2h0RTl3THYwRTN5MmIzS19GWDY2T3l5MU1HY1JWWHMxSzhHQlpIQzlZMGswdUtjRGpTQjYzTGp2eGFZaE84RVo0aTdSRjJCdE9HOA?oc=5	免疫癌症
+2026-03-26	妻子患嚴重糖尿病和柏金遜症 #屯門市廣場 #企跳 #照顧者 #am730	https://www.facebook.com/am730hk/posts/妻子患嚴重糖尿病和柏金遜症屯門市廣場-企跳-照顧者-am730/1421473100020288/	代謝神經
 2026-03-26	感人！台中騎士低血糖昏倒 好心人送「媽祖紅包」勸請假	https://www.ettoday.net/news/20260326/3138992.htm	代謝神經
 2026-03-26	保全疑低血糖騎車昏倒！暖男衝車上拿食物 再塞「媽祖紅包」勸就醫	https://news.tvbs.com.tw/local/3162109	代謝神經
 2026-03-24	才43歲！OnlyFans千億富豪癌症驟逝「日賺6千萬致富祕辛曝光」	https://stars.udn.com/star/amp/story/120661/9398774	免疫癌症
@@ -290,8 +272,11 @@ var DATA_SIDEFX = `
 2026-03-14	「拍照只敢躲在最後」238磅女生逆轉人生 一年減掉半個自己 告別糖尿病、多囊：不再自卑	https://ccue.singtao.ca/2026-03-14/「拍照只敢躲在最後」238磅女生逆轉人生-一年減掉/1091852	代謝神經
 2026-03-13	香港創科｜磁控納米機械人溶血栓治中風 比傳統治療快20倍 | 飛凡香港 | 樂活灣區	https://www.ourchinastory.com/zh/16617	心血管
 2026-03-13	兩人捐「成份血」後亡 加拿大徹查去年爆後遺症風波 涉事西班牙企遭索償	https://www.hkej.com/dailynews/international/article/4340024/兩人捐-成份血-後亡-加拿大徹查	生殖其他
+2026-03-11	血糖只是第一站 - 看懂「心血管腎臟代謝症候群」疾病軌跡，才能讓慢性病停在起點 門診裡很常出現一個場景 : 有人拿著健康檢查報告來找我，指著血糖那一行說：「醫師，我血糖比較高，但還沒有糖尿病，那就先追蹤看看吧。」 這幾乎是很多人的第一個反應。 當看到「前期	https://www.facebook.com/cmgenome/posts/血糖只是第一站-看懂心血管腎臟代謝症候群疾病軌跡才能讓慢性病停在起點門診裡很常出現一個場景-有人拿著健康檢查報告來找我指著血糖那一行說醫師我血糖比較高但還沒有糖/1356341199629545/	代謝神經
 2026-03-10	長江生命科技成立順譜醫藥科技 專注治療性癌症疫苗研發	https://www.hkcd.com.hk/content_app/2026-03/10/content_8744192.html	免疫癌症
 2026-03-10	長江生命科技成立子企「順譜醫藥科技」 整合癌症疫苗研發項目 擬北都拓研發設施	https://www.stheadline.com/realtime-finance/3551533/%E9%95%B7%E6%B1%9F%E7%94%9F%E5%91%BD%E7%A7%91%E6%8A%80%E6%88%90%E7%AB%8B%E5%AD%90%E4%BC%81%E9%A0%86%E8%AD%9C%E9%86%AB%E8%97%A5%E7%A7%91%E6%8A%80-%E6%95%B4%E5%90%88%E7%99%8C%E7%97%87%E7%96%AB%E8%8B%97%E7%A0%94%E7%99%BC%E9%A0%85%E7%9B%AE-%E6%93%AC%E5%8C%97%E9%83%BD%E6%8B%93%E7%A0%94%E7%99%BC%E8%A8%AD%E6%96%BD	免疫癌症
+2026-03-09	空服員常過勞？林予晞曾當空姐「罹甲狀腺腫瘤」 兵家綺遇3 次空難身心壓力大	http://www.msn.com/zh-tw/entertainment/news/空服員常過勞-林予晞曾當空姐-罹甲狀腺腫瘤-兵家綺遇3次空難身心壓力大/ar-AA1OqzR5?cvid=4387b148432a4af0a3b5d7b270265d91&ocid=uxbndlbing&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
+2026-03-09	比你想得早！研究：人自「這年紀」開始衰敗 糖尿病、癌症接著來	https://health.setn.com/news/1804603	免疫癌症
 2026-03-09	臺科大AI脈波智慧裝置 失智、癌症等疾病風險1分鐘評估	https://tw.news.yahoo.com/臺科大ai脈波智慧裝置-失智-癌症等疾病風險1分鐘評估-033523197.html	免疫癌症
 2026-03-07	眼睛顏色透露健康訊號？研究：從癌症風險到代謝疾病都可能有關	https://health.udn.com/health/amp/story/6008/9356166	免疫癌症
 2026-03-07	新冠救命藥有「靜脈血栓」隱憂 醫：半年風險增近5倍要小心	https://health.ettoday.net/news/3128050	心血管
@@ -321,14 +306,21 @@ var DATA_SIDEFX = `
 2026-02-06	瘦瘦針副作用爆大規模訴訟！台灣21件含「胰臟炎、腸阻塞」 食藥署示警	https://news.google.com/rss/articles/CBMinwNBVV95cUxQT2xHV2lhY1QtbUVoQ21WRHJDZWJZWFB6NnlqRHNtVlFreEx0X2Z5ZUt1eHVSNF8zMmxIN01pNGpIYk40WllNWUhlWERMRUFmZG9xcEFMUUFrWmEzTFVoWU02WlJqanhiYkFfZ0RWZFBfVzJ0T0hKRlI0RUYzbHQ3T3VBXzQyVWxkN29LSXZsRGFENm9LVWZtaHB2MHBkWnlXQngxLUR1eDViaTZ3TkVlNmVDRGN4d3hPZjMxOGt0QWlhb21FTDNOalBDRV9RRGwzX2lwNnhUb0w3TWwxZWFuZHBaenFxOVhlZ3BMRUtScFhqUk1zMHZDbTg5NHlSdHZpYi0zejFLYzFNT01paFpkQUh4VmhOS2J0eklYVU05TF9GaUN5cTN2VzRKTWhOSHBXZmdLMm9RQjl4bGx2N04zOU0zMlR6cFlkd0Fqd2hybk5oNnlaX1BJbFNwMzNLTVNHNjRmaGpsV1hncU5GSEVXOEdrOE1iNzE4NUhLOGFpNHdnLTJlMHc4UElmaHdHRTVfMVYxaXZsemVHeTlaVWFj?oc=5	生殖其他
 2026-02-06	狂冒汗像掉進水裡！不是在排毒 醫揭「2疾病」惹禍：糖尿病上身	https://health.setn.com/news/1848505	代謝神經
 2026-02-06	服甲亢藥女子副作用亡 醫生梁鑫暉失當罪成除牌半年	https://thewitnesshk.com/服甲亢藥女子副作用亡-醫生梁鑫暉失當罪成除牌半/	生殖其他
+2026-02-05	糖尿病年輕化 7成易酮酸中毒	https://www.msn.com/zh-tw/sports/other/糖尿病年輕化-7成易酮酸中毒/ar-AA1Qopm5?cvid=69168def62664b87a0aeb572ebc584da	代謝神經
 2026-02-05	高慧君家中昏倒右臉骨折留後遺症	https://www.singtaousa.com/2026/02/05/entertainment/kao-hui-chun-facial-fracture-sequelae/	生殖其他
 2026-02-05	瘦瘦針副作用更容易復胖？營養師揭6大飲食盲點，吃錯反而體重暴增	https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmYtWHBTcWpMUjJsNGRKSmxieG4yMHRJUmlsbVJQMHN3QWZxY0NQQlYyZGcyR1JPN0VwcXk1RE1EZnlKYkxJcHpFUlgzNmdURU9UMk1TYnBvZDJYdmFuUUNvTlhwZU1WZDZRMnlTOWRPckdkR081TmhWZkQ5Mkc0OUpfdw?oc=5	生殖其他
 2026-02-04	健康網》瘦瘦針害胰臟炎、肺栓塞？美國訴訟暴增 醫警副作用風險高	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PRFlyS3ZCN2JFOGRtVU1rWk5VVmtJQThncHdsWlZlM0FPQ2owOURQcmk0NWRmYnJFdVVqX2RFdnQwWDFlTWM0NUZiMGFZeUFWdC1SOTBZNTdyMTJjdS1SZ19RUWbSAWpBVV95cUxNaWdSTTN0MGtWUG9OWGRfOVJIQXk5dlRZam9KZTdGdW84TElueFoxYV90ekZpeUlpdU5ZNUJYZ3NUM3hob1UwWTZiaWJBWjFzSkhLZ2E0YXhJZjVyYlYydE5sTWpxZjBIRmd3?oc=5	心血管
 2026-02-04	「瘦瘦針」爆大規模副作用訴訟 美英示警胰臟炎、肺栓塞	https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5UWtiQ0tCc3BlRGMxeXpSZ1oxd3o5MnBLek1TaFZiVG1vdmJMSlFQcC1sblZ1MG1uZ0J5a1pKOFdJajlQLV9PNWVCZWtYdUNJ0gFPQVVfeXFMT1IxQVZnVjRFVmJIT1dWTkZLN0FWYmFIdzdRSnc4N1pPNzlHRnVIQVZQNVVnWFFBaGhBUzlLX0FBa2FXcFltZkZfcjEwLWZkdw?oc=5	心血管
+2026-02-03	金鐘視后高慧君在家「斷片式昏倒」!右臉3 處骨折造成這後遺症	https://www.msn.com/zh-tw/entertainment/news/金鐘視后高慧君在家-斷片式昏倒-右臉3處骨折造成這後遺症/ar-AA1Vy9R7	生殖其他
 2026-02-03	金鐘視后高慧君在家「斷片式昏倒」！右臉3處骨折造成這後遺症	https://tw.news.yahoo.com/金鐘視后高慧君在家-斷片式昏倒-右臉3處骨折造成這後遺症-073300608.html	生殖其他
+2026-01-28	女子低血糖昏倒昏暗路側 屏警及時馳援化解危機	https://rise-mediacorp.com/archives/94487	代謝神經
+2026-01-27	成大生物或首次單季度轉虧 擬投資佈局免疫抗腫瘤、自免疾病等創新藥領域	https://news.futunn.com/hk/post/67930456/chengda-biotech-may-report-its-first-quarterly-loss-and-plans	免疫癌症
 2026-01-27	23年前高雄女建商撕票案死囚 不敵糖尿病酮酸中毒亡	https://www.epochtimes.com/b5/26/1/27/n14685213.htm	代謝神經
+2026-01-24	男童昏迷嘴飄「異常水果香味」! 一驗血糖飆300 醫驚： 中毒了	https://www.msn.com/zh-tw/health/topic/男童昏迷嘴飄-異常水果香味-一驗血糖飆300-醫驚-中毒了/ar-AA1Uz9bV?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	代謝神經
 2026-01-21	外用米諾地爾安全性與副作用全面解析	https://news.google.com/rss/articles/CBMiigJBVV95cUxNRWpWRk9ZNTRCY1B2TFZjVi13OWhoa0g3cWpWcHA2Y0RNT1RjNFpNWmNYMHFFNGpKcEFiZUpNVE9rdWpKOTJER3EyN1dhT2JfT2xJekNna0l2blozaVRmMGNEcXlnbHhlXzh0UUpHOWlwbmkyNXRienZsd0xYWV9uMlRFUHNPcGtJbjUxWVJqRk4yRzlkSnJLcnhJQnhzOVZTOER6T0I4NkFWZ2FIMWd6bmJWYkd3ZXdXR284S2V2UDlGTHhmcEo3R1JEbWdlam81ZkQ4cEowTHh4aFJ2TUhDNVFvS0Rxd2RyY2dDZjU3OEVES3pZTWNGMzNOTTdtdVNtOU9lYUpDWEdtQQ?oc=5	生殖其他
 2026-01-21	「蘋果病」引發心肌炎 致死率達3成	https://health.ltn.com.tw/article/paper/1740693	心血管
+2026-01-20	男童昏迷飄「詭異水果味」！一驗血糖爆高 醫揭致命真相：中毒了	https://health.setn.com/news/1783623	代謝神經
+2026-01-20	初中生2天玩36小时手机突然晕倒：长期熬夜暴发性心肌炎	https://news.mydrivers.com/1/1106/1106495.htm	心血管
 2026-01-20	認識蘋果病 11歲女染併發心肌炎亡	https://tw.news.yahoo.com/認識蘋果病-11歲女染併發心肌炎亡-111715138.html	心血管
 2026-01-20	男童突昏迷…嘴飄「爛水果味」！醫一驗驚：血糖飆300	https://health.ettoday.net/news/3104140	代謝神經
 2026-01-20	港大醫學院研新技術 治療二型糖尿病患者心血管疾病	https://www.i-cable.com/新聞資訊/430634/港大醫學院研新技術-治療二型糖尿病患者心血管	代謝神經
@@ -338,6 +330,9 @@ var DATA_SIDEFX = `
 2026-01-15	飲食健康| 6旬男怕三高逢行低脂飲食只吃烚菜嚴重腦霧不服藥一個轉變3個月後反應變快- 東張+	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/16471611647310/健康醫美-飲食健康---6旬男怕三高逢行低脂飲食-只吃烚菜嚴重腦霧-不服藥一個轉變3個月後反應變快	代謝神經
 2026-01-15	德語媒體：副作用嚴重的保護措施	https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUkpQUXVPclhEOUNvMlZSS2NMQkxqaGtSRi14aGNNV09ra3EyZ1Iyemp3VDBNU0JtYWNFYUNxVzdoRHR1REw4VHVQSldaTHl2X3pLaDNZc29HOUVZSThlWXJFMjU0cmNwelZvOHNjWUdweXFHc2VIT2ZiaFM3d2RCT0w2RDlaLVRGd2w0MTlnNHI2TnFyYWoyekZhVmViTlBwVlBpMjdCVnNEUENCNUYzMFhWSjZOR2F1SnNEd20wR3BHZTM5Q3JCZGs4dnJyZUJCRFBoX2hkVjQySWN6Sk5DcWVDa3lfN2tCUGlGWFBZdktsdkRlak5F0gH3AUFVX3lxTFA5ZFJsTXJ5TVVOZ3hMZzhOSlZuTmxndVMyaUFEaUxQdG00VUg2LXM0TEhmMTU2ZnRQWno3RkpPcWRrU3hKcTdIM29GSUVxR2JCTTdjd2RFclIySEFVMS1CYWVkTnR4UXM5aE5lUTlWUUxiX2lPRm4zVGUyUHY3cElNWWFOeXNCVEVRTWxweUVRUFdyMzB0NXY5ZDZmOUVQT3Bkc21OZkMwODhVNTlkenVJRk1oNG05R0taa1MtOWU3cmFlLXZnZFAyQUktOGpwZWYyMHJ2bUhUV3U4dEY4VThrelNDbk81aUR2WG1kYTg3V2lZS3FXSjA?oc=5	生殖其他
 2026-01-15	27歲青農腦中風昏倒路邊！搶救取出逾4公分血栓，15天後重返田野	https://n.yam.com/Article/20260115681839	心血管
+2026-01-13	科大聯合開發機械人納米探針 為神經退行性疾病及癌症治療研究開拓新方向	https://www.eurekalert.org/news-releases/1112272?language=chinese	免疫癌症
+2026-01-12	昔罹患血癌5年！41 歲人氣喜劇演員驟逝上個禮拜才錄影	http://www.msn.com/zh-tw/entertainment/news/昔罹患血癌5年-41歲人氣喜劇演員驟逝-上個禮拜才錄影/ar-AA1O0T9Z?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	免疫癌症
+2026-01-06	夏威夷豆對健康的好處？ ✓ 保護心血管：單元不飽和脂肪能減少壞膽固醇堆積，降低動脈硬化與心血管疾病的風險。 ✓ 穩定血糖、延緩飢餓感：低碳水化合物、富含健康油脂與纖維，適合糖尿病患者或減醣飲食者食用。 ✓ 幫助腸道健康：堅果所含有部分膳食纖維，能夠幫	https://www.facebook.com/ctee.fans/posts/夏威夷豆對健康的好處-保護心血管單元不飽和脂肪能減少壞膽固醇堆積降低動脈硬化與心血管疾病的風險-穩定血糖延緩飢餓感低碳水化合物富含健康油脂與纖維適合糖尿病患者或/1296538092501599/	代謝神經
 2025-12-31	才挺过血癌 韩影帝吃饭噎到进ICU	https://uniteddaily.my/zh/331f1e32-ee12-4e9d-8419-c1e4f12580a9/%E6%89%8D%E6%8C%BA%E8%BF%87%E8%A1%80%E7%99%8C%E9%9F%A9%E5%BD%B1%E5%B8%9D%E5%90%83%E9%A5%AD%E5%99%8E%E5%88%B0%E8%BF%9BICU	免疫癌症
 2025-12-08	吃飽後想睡覺？營養師揭「醣暈真相」：血糖崩了 3跡象恐是糖尿病	https://news.pchome.com.tw/healthcare/evergreen/20251208/index-76515740079673314012.html	代謝神經
 2025-12-02	兒虐害成年罹患身心疾病 研究：重鬱、偏頭痛、糖尿病風險都上升	https://health.ettoday.net/news/3077104	代謝神經
@@ -387,5 +382,4 @@ var DATA_SIDEFX = `
 2022-05-16	「康復」多月仍難復工 長新冠患者就醫、生活保障誰負擔？	https://www.hk01.com/%E4%B8%96%E7%95%8C%E5%B0%88%E9%A1%8C/769853/%E5%BA%B7%E5%BE%A9-%E5%A4%9A%E6%9C%88%E4%BB%8D%E9%9B%A3%E5%BE%A9%E5%B7%A5-%E9%95%B7%E6%96%B0%E5%86%A0%E6%82%A3%E8%80%85%E5%B0%B1%E9%86%AB-%E7%94%9F%E6%B4%BB%E4%BF%9D%E9%9A%9C%E8%AA%B0%E8%B2%A0%E6%93%94	未分類
 2021-05-30	中國首份疫苗副作用報告引不滿！內部文件揭河北打疫苗9人死	https://www.ntdtv.com.tw/b5/20210530/video/296216.html?%E4%B8%AD%E5%9C%8B%E9%A6%96%E4%BB%BD%E7%96%AB%E8%8B%97%E5%89%AF%E4%BD%9C%E7%94%A8%E5%A0%B1%E5%91%8A%E5%BC%95%E4%B8%8D%E6%BB%BF%EF%BC%81%E5%85%A7%E9%83%A8%E6%96%87%E4%BB%B6%E6%8F%AD%E6%B2%B3%E5%8C%97%E6%89%93%E7%96%AB%E8%8B%979%E4%BA%BA%E6%AD%BB	生殖其他
 2020-09-11	糖尿病更要小心低血糖！一旦誘發心肌梗塞死亡率竟會高4倍	https://edh.tw/articles/DdKa0Jr	代謝神經
-2014-05-27	台灣研究新發現！癌症可能是一種新陳代謝疾病| 生活	https://www.setn.com/news/24758	免疫癌症
-`;
+2014-05-27	台灣研究新發現！癌症可能是一種新陳代謝疾病| 生活	https://www.setn.com/news/24758	免疫癌症`;
