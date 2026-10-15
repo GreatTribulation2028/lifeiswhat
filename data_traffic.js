@@ -1,4 +1,4 @@
-// 交通 | 由 build_news_js.py 生成 | 共 3008 條
+// 交通 | 由 build_news_js.py 生成 | 共 3009 條
 var DATA_TRAFFIC = `
 2026-10-15	吸食喪屍煙彈開大貨車自撞電桿、鐵皮屋 物流駕駛判刑1年半	https://news.ltn.com.tw/news/society/breakingnews/5606734	翻覆自撞
 2026-10-14	青馬大橋4車連環相撞 5人受傷	https://news.google.com/rss/articles/CBMi9gFBVV95cUxPenFScGFaODQ1eXozRzAxc01zbzNvaEtDajZha1o4MjktMlRaVGdWTHhXOXNuLWlHb2s2U0k2R0loejFRM2ZGSGZOTUlHU2NEbmdPT183MEs5R2VnWkNEb1NxdHRQZ3dnMVFmbkE3V0p0VDNlNVk3b1dwQ2ZJSGlkYm5aZG1IVkNydUZnSDdZSkg3Mkp6TVdCdl82YnRuaVVnWVFRVVJxVjZhRGxfcHUzQmhNU1d1cGwtdFAzTHRDbHZyNE4zN2h1aDB3d3NTdTAwb29LRndydWc1bW0wX09MQkd6Ukt4VnRqdkpDczFHeWt6Z0l4RHc?oc=5	連環相撞
@@ -1374,6 +1374,7 @@ var DATA_TRAFFIC = `
 2026-05-02	巴士鐵三角？藍田3輛九巴駛入迴旋處！成三角形「卡死」照片瘋傳	https://www.hk01.com/熱爆話題/60345728/巴士鐵三角-藍田3輛九巴駛入迴旋處-成三角形-卡死-照片瘋傳	未分類
 2026-05-02	台南女警遭追撞輾斃 涉案女大生現身靈堂鞠躬致意	https://tw.news.yahoo.com/台南女警遭追撞輾斃-涉案女大生現身靈堂鞠躬致意-031803956.html	連環相撞
 2026-05-02	台南女警遭追撞後輾斃！女大生現身靈堂上香道歉	https://tw.news.yahoo.com/台南女警遭追撞後輾斃-女大生現身靈堂上香道歉-024531169.html	連環相撞
+2026-05-01	結婚50週年前永別! 77歲婦遭撞亡 兒： 母親節都還沒過	https://today.line.me/tw/v3/article/wJmXE60	未分類
 2026-05-01	成都高新區發生交通意外 私家車衝撞行人致1死11傷	https://www.singtaousa.com/2026/05/01/news/china/chengdu-driver-rampage-pedestrians-casualties/	車禍
 2026-05-01	成都奪命車禍1死11傷 31歲肇事男司機被抓獲- 兩岸	https://www.dotdotnews.com/a/202605/01/AP69f4c42ae4b09ea2331414b3.html	一般車禍
 2026-04-30	雲南客運側翻墜谷「人被甩出車外」7死12傷 當地居民：早就曾發生翻覆事故	https://news.google.com/rss/articles/CBMiW0FVX3lxTE52UXdHR2xUOTVJUWFObWYydjFHQng0czZqT1ZlOFVXZ3ZGWmN4RjBkUERHRkJoOWdoaTc4VHNHQnExVnU3Yzl2eUNIb0JXdHVudi1oVG02Y0NORUHSAWBBVV95cUxPWXhDSVJiU3NkRTRQOG9DRGRRdDVUMXQ0bG5LUEhrN3BpU1oyWnl0NHZQS3dObFNINmp1WjdJczZzM1BuTlNjelpTVDVWWU1jYl8zZnUtVHNMQ2l2WWVHMVo?oc=5	翻覆自撞

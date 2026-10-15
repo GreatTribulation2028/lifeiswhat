@@ -1,4 +1,4 @@
-// 政治 | 由 build_news_js.py 生成 | 共 215 條
+// 政治 | 由 build_news_js.py 生成 | 共 216 條
 var DATA_POLITICS = `
 2026-10-14	選舉委員會界別分組一般選舉再接獲28份提名表格	https://news.rthk.hk/rthk/ch/component/k2/1873965-20261014.htm	大選
 2026-10-14	獨家》瑞芳分局長飲宴風波調職 警政監謝龍富回鍋代理顧大選	https://news.ltn.com.tw/news/society/breakingnews/5606204	大選
@@ -113,6 +113,7 @@ var DATA_POLITICS = `
 2026-09-12	巴西大選臨近 盧拉挑戰者涉貪受調 (01:41) - 20260912 - 國際	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260912/s00005/1789141257872/%E5%B7%B4%E8%A5%BF%E5%A4%A7%E9%81%B8%E8%87%A8%E8%BF%91-%E7%9B%A7%E6%8B%89%E6%8C%91%E6%88%B0%E8%80%85%E6%B6%89%E8%B2%AA%E5%8F%97%E8%AA%BF	大選
 2026-09-11	轟高金素梅瞎扯戒嚴兩大荒謬！律師：共諜直接槍斃！連批「戒嚴」的機會都沒有| 政治	https://newtalk.tw/news/view/2026-09-11/1059245	獨裁專政
 2026-09-11	巴西10月大選前 博爾索納羅之子遭調查 為盧拉主要對手	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60389268/%E5%B7%B4%E8%A5%BF10%E6%9C%88%E5%A4%A7%E9%81%B8%E5%89%8D-%E5%8D%9A%E7%88%BE%E7%B4%A2%E7%B4%8D%E7%BE%85%E4%B9%8B%E5%AD%90%E9%81%AD%E8%AA%BF%E6%9F%A5-%E7%82%BA%E7%9B%A7%E6%8B%89%E4%B8%BB%E8%A6%81%E5%B0%8D%E6%89%8B	大選
+2026-09-08	長平觀察：一個人的死亡和一個國家的生存 "周三（9月9日）是毛澤東去世五十周年。時事評論作家長平列出一份""倖存者清單""。他指出，一個獨裁者死了，但是浸滿國人鮮血的專制制度又多活了五十年。" 23 小時前aJWbwf href n0jPhd UqSP2b OSrXXb	https://amp.dw.com/zh-hant/%E9%95%B7%E5%B9%B3%E8%A7%80%E5%AF%9F%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E6%AD%BB%E4%BA%A1%E5%92%8C%E4%B8%80%E5%80%8B%E5%9C%8B%E5%AE%B6%E7%9A%84%E7%94%9F%E5%AD%98/a-79148100	獨裁專政
 2026-09-08	法國大選成了華爾街一門「交易」 高盛和德銀推出債券籃子	https://hk.finance.yahoo.com/news/%E6%B3%95%E5%9C%8B%E5%A4%A7%E9%81%B8%E6%88%90%E4%BA%86%E8%8F%AF%E7%88%BE%E8%A1%97-%E9%96%80-%E4%BA%A4%E6%98%93-%E9%AB%98%E7%9B%9B%E5%92%8C%E5%BE%B7%E9%8A%80%E6%8E%A8%E5%87%BA%E5%82%B5%E5%88%B8%E7%B1%83%E5%AD%90-094710074.html	大選
 2026-09-04	1分鐘看世界／因應地緣政治動盪 86公噸黃金自美加轉移英國	https://money.udn.com/money/amp/story/5599/9733376	未分類
 2026-09-03	院內選舉盜同事帳密「投票給自己」 呼吸治療師下場曝	https://www.ettoday.net/news/20260903/3230939.htm	大選
