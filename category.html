@@ -564,5 +564,30 @@ img,canvas,svg{max-width:100%;height:auto}
 #bigTotal{font-size:44px!important}
 h2 .big, .big-total{font-size:48px!important}
 </style>
+<script id="monthlyV2">
+function renderMonthlyV2(){
+ var box=document.getElementById('monthly'); if(!box||typeof all==='undefined')return;
+ var sub=(typeof subFilter!=='undefined'&&subFilter)?subFilter:null;
+ var recs=sub?all.filter(function(e){return(e.sub||'未分類')===sub}):all;
+ var mon={}; recs.forEach(function(e){if(!e.date)return;var k=e.date.slice(0,7);mon[k]=(mon[k]||0)+1});
+ var keys=Object.keys(mon).sort();
+ var showAll=(box.dataset.full==='1');
+ var shown=showAll?keys:keys.slice(-36);
+ var max=1; shown.forEach(function(k){if(mon[k]>max)max=mon[k]});
+ var html='<div style="display:flex;justify-content:space-between;align-items:center;margin:4px 0 8px"><b style="font-size:16px">月份走勢'+(sub?'・'+sub:'')+'</b><button id="mmToggle" style="padding:7px 16px;font-size:14px;cursor:pointer;border-radius:5px;border:1px solid rgba(255,255,255,.3);background:rgba(255,255,255,.06);color:#dfe7f2">'+(showAll?'收起・淨睇近3年':'展開・全部月份')+'</button></div>';
+ var lastY='';
+ shown.forEach(function(k){
+  var y=k.slice(0,4);
+  if(y!==lastY){html+='<div style="color:#ff6b35;font-size:13px;letter-spacing:3px;margin:10px 0 4px;border-bottom:1px solid rgba(255,107,53,.35);padding-bottom:3px">'+y+' 年</div>';lastY=y;}
+  var pct=Math.max(4,Math.round(mon[k]/max*100));
+  html+='<div style="display:flex;align-items:center;gap:10px;margin:4px 0;font-size:15px"><span style="min-width:52px;color:#9fb2c8;font-family:ui-monospace,monospace">'+k.slice(2)+'</span><span style="flex:1;background:rgba(255,255,255,.07);border-radius:4px;height:18px;overflow:hidden"><span style="display:block;height:100%;width:'+pct+'%;background:linear-gradient(90deg,#ff6b35,#ff3355);border-radius:4px"></span></span><b style="min-width:48px;text-align:right;font-size:17px;color:#ffe08a">'+mon[k]+'</b></div>';
+ });
+ box.innerHTML=html;
+ var tg=document.getElementById('mmToggle');
+ if(tg)tg.onclick=function(){box.dataset.full=showAll?'0':'1';renderMonthlyV2();};
+}
+document.addEventListener('click',function(){setTimeout(renderMonthlyV2,80)},true);
+setTimeout(renderMonthlyV2,900);
+</script>
 </body>
 </html>
