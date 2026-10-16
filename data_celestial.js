@@ -1,5 +1,7 @@
-// 天象 | 由 build_news_js.py 生成 | 共 102 條
-var DATA_CELESTIAL = `2026-10-14	血月周……🤣🤣🤣🤣🤣🤣🤣🤣🫣🫣🫣🫣🫣🫣🫣🎉🎉🎉🎉🎉🎉🎉🍷🍷🍷🍷🍷🍷...	https://news.google.com/rss/articles/CBMif0FVX3lxTE55OWFRMmowcXgyeUtoTm9LXzhGZUJUaDMzdXhUX3ZLTmZZRndUNnhtRy1kS0NMeFhhdXNvVFhUZkt5TUh6XzNwMmtUbFFzUlJRc3ppQmJLUlVkblpIQk9wV1ZmNEZlRDJWVlFxdkdJN1RqeVNuZ3I3RXhpX3NCQmM?oc=5	血月日蝕
+// 天象 | 由 build_news_js.py 生成 | 共 104 條
+var DATA_CELESTIAL = `
+2026-10-15	《全境封鎖 2》血月高照活動 Twitch 掉寶	https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDc1eXNIeThGaEtUWTkwcnFkWUJxTTY4ZlVELVpIbDdqdTR1aGwzT2R3RDBHX1ItSXlHb3ktd1FlU1VMeTZqQlNmMkwzU1ViY3BrVWtXUnlTQ180ejV1RlItclR6dXpkMWFRQXM5N1liejJjNHYzSXRtSTRYcmk3aXcyMDdmUkxZVS0ybTJhOHBTcW1UMUc0VUtYSFdBcWVtcWdnUmVXWVRaQQ?oc=5	血月日蝕
+2026-10-14	血月周……🤣🤣🤣🤣🤣🤣🤣🤣🫣🫣🫣🫣🫣🫣🫣🎉🎉🎉🎉🎉🎉🎉🍷🍷🍷🍷🍷🍷...	https://news.google.com/rss/articles/CBMif0FVX3lxTE55OWFRMmowcXgyeUtoTm9LXzhGZUJUaDMzdXhUX3ZLTmZZRndUNnhtRy1kS0NMeFhhdXNvVFhUZkt5TUh6XzNwMmtUbFFzUlJRc3ppQmJLUlVkblpIQk9wV1ZmNEZlRDJWVlFxdkdJN1RqeVNuZ3I3RXhpX3NCQmM?oc=5	血月日蝕
 2026-10-11	《恐鬼症》全球銷量突破 3,000 萬套！萬聖節活動「Crimson Eye」回歸，血月籠罩 8 張地圖至 11 月 1 日	https://news.google.com/rss/articles/CBMibkFVX3lxTE5TY3BXbGJpZjNocVRURGhMRVgtMzVXWS1jYXhVUmFfeEtqVjh4MzNNblFyTjJxR3dsLXRIOFVhdUtibi1fU2lTcGk4MjZBdjdCNWlnYkp2U3BXSlUyOWZlNFV1T25NdFZ3QzVEN01R?oc=5	血月日蝕
 2026-10-09	今天就釋放巨龍與血月吧……🫣🫣🫣🫣🫣🤣🤣🤣🤣🥳🥳🥳🥳🎉🎉🎉🐻🐻🐻🐻🐻‍❄🐻‍❄🐻‍❄🐻‍❄🐻‍❄💯💯💯💯💯💯💯	https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1g2WkFBUUxkb0l5YjVqYUZjdUFqaUtKNi1oNGpiZUFQNjVEYUlRWWVQNzh5Yi1MM1VVckZfcFo5MXhIOWdmaVowLVhqVzFMeDU0U1BnY0U0SG9vZ2o1TnAzMThVcVBCMmZDYjhNTXZ5MFBDVlFHVDEtWmR0Z0x0R3MtXzU5b3dzUmNKUnZXT0g0TzBna25Dd1FtWjhkVTZwd0k4Mg?oc=5	血月日蝕
 2026-10-07	今晚美東時間9點有血月……🫣🫣🫣🫣🫣🤣🤣🤣🙏🙏🙏🎉🎉🎉🎉🎉🥳🥳🥳🥳🥳🥳🍷🍷...	https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFhfeUlOTmdhamVNelQ1aXo1U3VKZzJNSV9ld1Y4T2R5RjB2VzVDZDN1bWZNam9sUHd3UE4xV1FLLW01Qk12RE84Z2lMS1poT2tSUElGVm51RTB2TC04bnZFU3Rhbk01TFVWSUZjaTY0UUVhS01wVGhkVW9fbkdmMGxUcmhHYlNQNnl4ZlBsYURqYWg4WXpwdjZrYXRHVE0?oc=5	血月日蝕
@@ -77,6 +79,7 @@ var DATA_CELESTIAL = `2026-10-14	血月周……🤣🤣🤣🤣🤣🤣🤣🤣
 2026-02-13	《沙羅週期》公開日蝕變化機制與自訂選項詳情	https://blog.zh-hant.playstation.com/2026/02/13/20260213-saros/	血月日蝕
 2026-02-13	PS5 獨佔《沙羅週期》釋出最新實機影片揭露「日蝕侵腐」機制《Saros》	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FSngwc0VPS1hOWVlOV0k3bzRrby0xd0w5WXgtSnVqTVRGOVA3TF9UWlJqU0Rod1d5aFlwcGtOMzZuR2NjclRhMWZXUHJHN1YwaVp4STVsNng?oc=5	血月日蝕
 2026-01-23	2026年將開啟連續三年「日全食的黃金時代」 下一次血月四連環，竟與耶穌復活兩千週年交會	https://cdn-news.org/news/N2601210005	血月日蝕
+2026-01-23	2025年首個血月🌕3.14出現🩸5大血月大事件｜大凶兆降臨？😰6星座/4生肖要小心！ - 東張+	https://news.google.com/rss/articles/CBMi2gNBVV95cUxQT3JDbm5XUmVDUjQ5cHFjWnkzWGJ0YnZxNHhnMXRSS2VRTEk0bEFQQmR6UTNQMGhnaFU0Y1hTd0xuTHR4aHhHQVN1Qzl3WkJRNmhEZGdva2lNTmJfajRXcVNibzdOYjJlU2QzeUVtVU5zTGlRdkJmQ0RpTmI2WGkyN2cxemt3bXJFYXRiTmhFTFVDdkxHZ0dFMHpKVXJDWERkYXlGbFkxR09FS29oMWRqbGM1RGpZaXlCWDlDVFBEbkRCenlVUFR1WndtSEVRYlkyT2EwajRCMVFQVlZSYlRybmNwYUM3OU9MSkJQWF9IY2pnUGZzdXRCbk8zbjRxOVk1Unl3bjBKbzRVY3VmeXRxLTE2cEtHVVRHTDdSc3dVbzJYUk9XekdSc1V1c2FpU3g3bncwclpYWkUyOUtNUTItTXVSZ2wwZDdNWWhlMlFFcEhWNkMxbWR0VmpKcWVtazNZSmVlaENXaTI2ZU9PU0d3d3JRTkxDa3NPQzFCem1vVDFCZ2FvemxKUjNXUWc5X1ltQTQ2azBCcWlnaTQwY1o1RlJKZXAzaldBUFdPZ3RQTUpvN3dzUllXakRVbE95Y0EydE5MeVhwTk1ORkpxZFFSRmhkaFc1eVROR2c?oc=5	血月日蝕
 2026-01-04	超級月亮2026｜超級月亮長城古建築遙相輝映【多圖】 (17:56) - 20260104 - 即時熱點- 熱門HOTPICK	https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1ZUTDYzSDFlYksxWDVDV2plZjd6QWJWMTQxcDFXYXhOWkNCcTFYeEFlc3llcjFDc1BlempQbHVUeTZVRG9Eb0pGYVJ2YVZZcDVSME5LQnhIZ3ZhTmFiV0d6VGFNU0tHYjVjMkE5LXU3VlVhbkhOVkVCSG1lMm5ubXZiQzJlM3JDSmxPREZwUGphSkNYcnR0aw?oc=5	反常天象
 2026-01-03	超級月亮｜2026年首個「超級月亮」今晚出現錯過要等到今年尾 即睇10個賞月地點 |香港經濟日報	https://ps.hket.com/article/4062406/%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE%EF%BD%9C2026%E5%B9%B4%E9%A6%96%E5%80%8B%E3%80%8C%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE%E3%80%8D%E4%BB%8A%E6%99%9A%E5%87%BA%E7%8F%BE%E9%8C%AF%E9%81%8E%E8%A6%81%E7%AD%89%E5%88%B0%E4%BB%8A%E5%B9%B4%E5%B0%BE%20%20%E5%8D%B3%E7%9D%8710%E5%80%8B%E8%B3%9E%E6%9C%88%E5%9C%B0%E9%BB%9E	反常天象
 2026-01-03	超級月亮今晚現身 明早再有流星雨	https://hk.on.cc/hk/bkn/cnt/news/20260103/bkn-20260103142627978-0103_00822_001.html	彗星隕石
@@ -100,4 +103,5 @@ var DATA_CELESTIAL = `2026-10-14	血月周……🤣🤣🤣🤣🤣🤣🤣🤣
 2023-02-01	ZTF彗星今最接近地球 錯過恐要等5萬年	https://news.pts.org.tw/article/620718	彗星隕石
 2022-04-28	異象頻頻！成都驚現超大日暈北京四月飄雪吉兆還是凶兆？（視頻） | 四川 | 成都 | 日暈| 血色太陽| 血月	https://www.soundofhope.org/post/616078?lang=b5	血月日蝕
 2021-07-12	有機會看到火流星？七月流星雨預報「寶瓶座δ南流星雨 + 摩羯座α流星雨」，「這兩天」最適合觀測	https://news.google.com/rss/articles/CBMiekFVX3lxTFB0akx5WmpVQU9RdmJWenREcXFoR3ZFUEI2WWNQaVNaRUttWEROWmwzLW0zbnBzVFE5TTVJNDVJLXpXejNCT3k4bFNzVDgxdlFDZkdWQmtXZjU3RGtJU19OTTY1dnlaZFRvckNQcU1lM3BvN2pOVUQxLUtn?oc=5	彗星隕石
-2020-04-29	彗星撞地球真實上演？ 直徑2公里小行星擦身而過| CTWANT	https://today.line.me/tw/v3/article/3l0DKk	彗星隕石`;
+2020-04-29	彗星撞地球真實上演？ 直徑2公里小行星擦身而過| CTWANT	https://today.line.me/tw/v3/article/3l0DKk	彗星隕石
+`;

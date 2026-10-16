@@ -1,5 +1,8 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 472 條
-var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐淪「影史最大災難」 票房雪崩暴跌60%	https://star.ettoday.net/news/3255058	大災難進程
+// 七年大災難 | 由 build_news_js.py 生成 | 共 486 條
+var DATA_TRIBULATION = `
+2027-10-02	【這不是巧合，是正在發生的末世預言】 獸名	https://www.threads.com/@tribulation20271002/post/DcB1Biak3UE	末日預兆
+2026-10-15	阿湯哥神話破滅？新片慘賠78億恐淪「影史最大災難」 票房雪崩暴跌60%	https://star.ettoday.net/news/3255058	大災難進程
+2026-10-15	不只賈永婕被提穿搭？義大利政壇曾掀女性穿著評論風暴參議員短裙抗議| 世界萬象| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTE05RjhodU9JSU1XREc5MUY5OGNzbVJoUndpMjQyQUZGbFBkb1RfRnM5VjFwbW1XakF5UVRsNl9UV0ljVzRTRXFDOHlXX3JUSVF6?oc=5	末日預兆
 2026-10-14	世界末日倒數1個月？66年前論文預言「11月13日」人口爆炸真相曝	https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ldlZKWlZlOW5fdFhHNTBTU0RpQVhpZWRMNkJXRzVab0JuRmZ4bnY5OXNQU2ZtZHFZLWlyQWJwUDV3bENGT0luMnZoQzHSAVJBVV95cUxOeUpsVFFXU0JrNGJ5dnpFQWF3eldMdktzWk9rMm1UY0JLcklGNDFDM1VwWVhYVEZ1QXl2bkNPRnM0eWVfb2s0bmJKQkFNYUhaVGlB?oc=5	末日預兆
 2026-10-14	世界末日倒數1個月？66年前神預言「11/13人類滅絕」 網見荒謬原因笑了：根本不可能	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tcFJXUlMtODVvTWNOXzNLdHo2SlNYZXJRODg2OXd1TktzTUNtdWItcktaOU1kbDZZa095cERYQld1VlNTaXVCUVU0LVEwTzRGTEE?oc=5	末日預兆
 2026-10-13	赴韓旅遊必看！LINE Pay祭最高25%回饋 抽666點攻略大公開	https://news.google.com/rss/articles/CBMiS0FVX3lxTE1faHI3dnBJN1BxZXlfYl9PRlpld0drZFNCdXl2RUZseUFGSkVhM0dpSzNKM2lSWm9xYVpsTTFNODJnX0pQTUFuTlpoaw?oc=5	獸印系統
@@ -25,23 +28,33 @@ var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐�
 2026-10-08	666美元Apple-1身價飆千倍真正關鍵藏在這裏	https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWGV4LWVnMjQwRk56a0xPZFR3bXJKLXp2cUlxYkk5eUNYeG5yaTNBZFo4ZkVLRURxUzBRZWFBNXFldVNWTUJXWVVzeTlfUEhIN1pKTDN0WkhzRzJibGQwVmZ3NG5IT2c1X2pBd0xLcENZamRVVi04ZFowYkpvMUNrX1BCcFVHNEJiSlUweHYzUWFXM3lza0RYSmFVaE5tV0hnRko3VGptY1NCQTdubXM2Z1h3RG1tM3hRRXBGNTdmMXUwU3N1M3lhZkw3S1NXMmZMa0VXVjV2QzF2QUV1QkdLZnpJRjJfSEli?oc=5	獸印系統
 2026-10-07	末世情慾 四級巨作登場	https://news.google.com/rss/articles/CBMilwFBVV95cUxPRE1RWnNPSTlCNEstZTBZQTBBMXdQR0tKVDhHQnpyRzlsTVF5eF9YempqRHhxa2NYVk9JbEJxd3ZZNXAyTGE4TlRCZkJVTWQ5ZWJFQWJjc004TVk5Tzd4MFY5WW51WjlpTzM3WmdSdXFSXzlLblRuRFVVM1FSU2owc2tQNjVOZ0ZuQ0h3R0NhRFVqbmlETEVz?oc=5	末日預兆
 2026-10-07	巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦	https://finance.ettoday.net/news/3250507	末日預兆
+2026-10-07	台股夜盤重挫666點！台積電＋馬斯克劇本降溫 葉育碩揭真正警訊	https://news.google.com/rss/articles/CBMihwNBVV95cUxPZ0NtWFEyMWpYZVA2RWlfUEE1d0Jrd3Q1Tzk4cHBTUzZTVUVCMzN2eEJQTDZMaHZVMVRXQ1VLdW9OMFNpRDlPTTJXSzA0VDJjOGpHbzE1SEQ0SFlZcjhkcUZnaW9iR0V3VjE5TGhrRmRBMGtONEhIRlB3V0dla1FmNTFkVS03YVJ1cURxVDFZWnA4cVI2VnQ4OEI3c1hMWGl3cmpTRTNKUV83Y3NLWVNVNnQ3bDRTOThHelZlR0M5X0FTNmE4bURVOXppemYyNFcwaDduWGt3NnM4UmFVX09LeW5yNi0xSjN4LUFlVDJMQzlLck9aVWlNN0VrVUlIV1g1ckNtZE1wUmpwdGxPUlFSN3JFbjVsZ1hzQUl5amFUSmtqcGdJOUI0TE0xS1YxNC1IWnpqRHc1TEtDYmY3WUxEVW14UGxhRWZESmhIMjVucW5NREhLN1FwamRRRWJfSlFvSVdGN055aHRKd1FmYXNfUVNWNWE0TG9tNTJRUVBiTnN1Q1BoenAw?oc=5	獸印系統
+2026-10-07	催生新校舍未被提鄉親心疼 徐欣瑩：服務竹縣是一生專注	https://news.google.com/rss/articles/CBMibkFVX3lxTE5aMkQtM3dYcF9RSXE3UzBsOFQtdGNiMWlRcVBUbzBoSXBDeUdtenZyd3BlMXp1cXA5RWZNQUdHa0NmMWpaN1ZmcnJidlVsX2g3UHFlRDdHLWxXSF83YnQ3R1p1X3VqTjEwVUVpd1FB?oc=5	末日預兆
 2026-10-07	【巴逆逆預言「台股一路漲到52000」！股民全嚇爛：世界末日啦】 等等 ... 8zz晚點再預言好嘛！（#豬頭皮）	https://news.google.com/rss/articles/CBMigARBVV95cUxNU29OY2Q3UjdaaDF2MzRobTRINFNxRVYyMzdzMGxPT1ZWVHpqZ29zbnZSVVlLRk1tWERJODA5cURaM3FaTHVMLWtWLUZya3RKaE5BdGVGVGd6Y2VnUXhqUVV4N2J4YzhLcGsycTN2bV9jQ2pWbTNtMnBaalJraWctdFlyMk5XQTM5NHJOZnNfemJwZkNyOUpTQUVLeUtVd3laX0duU2dab18wOFpsMHQyQjhyZWFQa2U1N2h6Q3l1Y25NM3B0U3FLU1ZmTUlhQU15YU1hYjJ2bnhtTUYzUzg5QmdoNFJjYmlxZE1KNWNVTmJwbmVnSEVNeGZQNzc5UkxCMWFIRzlBWWxkbjBKdDR4VlEtSWRVZ2hlelAxY2RyXzJmZVp3UUpvLXlTS25YNXJiRGtFS215LTZtdHRHc0QzZ1RQNGl2eThob0duc2tPODFSRVVxOXVSUTBHY0QxVmVaNDhTaXNXMlk5UUZVN0hTUE9mWl9fUmZRMlQteXlzMHgycnI4NjNQWmF5eHFBVDhJNkRlMVFIVUZtdVJhM1d0dHgxUl9nNjFjcGU2VFRIdUI4RVZGNTljUnR1WXJqSXdVWE1QbFBobUJWT0gyS1RLMjJOSllYVEY1djNqeUFyaE9zbktpZXptUW04dEZPV2Fvejc4WU1QTUlFSDk1UWxaSA?oc=5	末日預兆
 2026-10-07	「反指標女神」出手了！台股猛衝逼近5萬「巴逆逆1預言」嚇壞網：世界末日	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QX2U2WlpvNVNQVFJYb0pkdkcyY2pNQTVBV2pkeEU1dVZ1bHpzQXpFNFZGc2JEc3lxMThCVzNMZnN2eFVGN0NWbnp4Q1hjNGlmOU1qaGZ6eVJlSlNqTUxzczJjSHpidw?oc=5	末日預兆
+2026-10-07	00981A等6大主動式ETF不香了？4天被提款260億元 資金回流0050、0056	https://news.google.com/rss/articles/CBMi6gJBVV95cUxPa3BNQ3lGQnBQVXpqNEE4eEMzYlJndGUtUlU4U01Ha1l0SU9BdnNENHJtMzVsZnBmOWVPYVVfSTg5TC1kS2dZMkNoWmM5V1pZWFNxd0tIVVpVOTkxZ2hZdlpqR2FneHpvTkp0Z1RDaXloR29uY1pGZHBWSV9RaDVhUXVkMk13V20wbjdvbTFDaEdaNGJpcElkaFpXb2xEdDBES1FsZlRaTVBjanBndkxpRXNtbGRldUlOREdNa3R3ZkptX19tQmZ6N2YzejlaU3RFR2FyOWs0eENRdWxKTHQtdkYxYWtLUENsaTV0VmR1QzktaUo2ODc3SkVHX1VRaXBwRUlaaTR2dWt1WHJyZm9kclVjSXlxRzBxaWo0bkxZMnhQZjNwOVZnOEoxTXNxcndIb05DTy1meW54YjJMbElJSm9yVU1uMlNCS3AtQnJTMWppU2JTRDNtT1JBMFlpblRGRFFwVE5CR0xuZw?oc=5	末日預兆
 2026-10-06	魂系FPS《末世槍火》試玩版上線隱藏敵人與Boss 戰率先開打| 遊戲情報站	https://news.google.com/rss/articles/CBMi6wJBVV95cUxOT3hOMWVmTFltNHRhUjNDR2tMMHl0WlNWVE9jWEdwNkthUmdVUUpQb3NwZWR2d3lrTXpTeTlWVklvZTA4S3JLd19zWEJscFJBMEszNjJfdWpXVUpzLWlOWmc2Yjg4TzNOdEFwU1BUXzdybG5YQUJFMzdfdDJ6RERmaW5fWFhUTzN2MzlGdkVlUkpNMnU3YVFSRzg2S0VrZ1gwZDJKUUtGUWVFMExjR296VkczWFNFNXo2VEtmbHJEWEtiY3B6bXpMWFdUNWRPc3VwV3huVWNaX3B1Nm8ybWk1Rm1OQ2VBM01XQnJ6YWVnSTdDZElUSjV2dmc4alVKT3lSNU5LWWtBbFF4OHJrek5QRWpzajBJeWU2ZTRiT0ZKcTBwQ3RPSU5NbGtrN0lpTVVybmhsaUV2bGFhWlNFZDU4NW4yNzdUN1pkY1B4STdmcS1Ha0RXZFpuN3Nrck9Bb3VUc0hiUF9uc3QyMVE?oc=5	末日預兆
 2026-10-06	走路也能狂瘦！日本爆紅「666步行法」代謝飆升、體脂狂掉	https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmZWQThRaVY3ci1hZEZaa3U3OWFic0lHTWU1by1fc0xaaGRleUZzN29KWXpfYlhacTREaXlheWV2d1hJa2ZzVmVfMEhwVEF5S0tQeWd1aF9Nd0pMNFNLcWEycnZmSDY0LS1HU24yQTl4NkJvN0t6Zm8yZzRoeHNHME1KeTJWWlNkV0Noaw?oc=5	獸印系統
+2026-10-06	議員施志昌爭取多年 台中大甲大安環狀公車666路正式通車	https://news.google.com/rss/articles/CBMi9gJBVV95cUxQM2ZBTTNYXzdFTVd2WEpEbU5MaUd4NkMtNVJ0VUVFV2hJQ29lT3ViWU1Hak5XMmZOdURXVlJNNzkwRDE4OGtrbkpQaW1TWlJDYTlIRnlsaWM5YnhjLUtoamM1aW9ldnpicTJaNGx2ejktOFg5U29UNnlXYkw3SWlkWGlES1YzTGIyTzN0MDlIY2l6RWJ2eHgxTVhDV3BCcUFfYjMteS1sRnpfVjRfSTVaQVVVXzU0QlF5ZFREQjRxU0N1a3lkVWhWb0VCUW9USEgybGEyTU9yZU83WkhZU2hiVFAyM0ZOaHVVZDVYQXVXdEh6bTBReXpTdG1sQ1hQMkx0Q3gxem1kbWRyektUeWpoeS1lQ1N2Zm1pNkdvN215bTRDZ2lzUjNnNXZxU3NfTDk0VndIV1J2bDZKdWZPSWVoVTNsSDRkaWVMMHFWR3RMaV9vTVRnZE1BWkgxOWxtbkhkR0lHd2tJUVhWOFZVSDRzdm9qQ0RJUQ?oc=5	獸印系統
 2026-10-06	她們的歌你一定聽過！千禧年6女歌手消失「當家長會長、嫁豪門」近況曝	https://star.ettoday.net/news/3248095	未分類
+2026-10-06	台中大甲大安環狀公車666路串聯海線生活圈 正式通車	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mQklINHV2WUxqZjdwQTF5ZWYxcHdOaDR6RkFtODQ3OWRlZzlidVQwSlJMckNQeldkUzhTOUtreXNhaHNEaG9DbVAtRmgxX3R30gFWQVVfeXFMTUJyVkk2N1YxdVlSbElDTlI5dHg1S1VvLVlRelo2VEQ0NUpnbUNfd01ZM0tVbWtqRG9qUnhTUzRLemsxM2ZfZjFoQjFndXo2LVBnbnJoMFE?oc=5	獸印系統
 2026-10-06	FPS 動作遊戲《末世神槍》試玩版於Steam 平台上架每顆子彈都要精打細算《Guns of Eschaton》	https://news.google.com/rss/articles/CBMiWEFVX3lxTE95Vy1oZXNZd1FIQzQxTC11S3ZpNWNENlZ1N21BMlR3d1p1am8ybmtTRFJsM0d1WDc3ZlF2Z3NnbEwwSDRxanBJdmd0X2VxU2wwQXI5eHIzSGw?oc=5	末日預兆
+2026-10-06	3.7萬純舊制勞工搶辦自提！傳產、醫院、銀行666人提前結算近21億退休金	https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NUl94aF9CRE9ta0ZwMnNGcFBMbk1OSl9QWjhDb1oxelMyNXU3SUViWlhLM19ha0wyam80VVlscmo1ZkFaSkNyUUFaanA5ZlZxbWwtVGlTOXdac040WDVZ0gFkQVVfeXFMUDB1c0FaZGNBYXJvTHJid0JZOFBZUnJaSGk0eWRIdFQ4M1BsaXNFR1JINmlRWW1YUzhNRjBRY2J2QjNKTFNfZGpkM0o2RDZaYUs1b1BqcUFWNFl5MC05MFdhaXJONw?oc=5	獸印系統
 2026-10-05	麥克斯·布魯克斯：把世界末日寫成求生手冊的《World War Z》作者	https://zh-hant.martincid.com/books-zh-hant/%E9%BA%A5%E5%85%8B%E6%96%AF%C2%B7%E5%B8%83%E9%AD%AF%E5%85%8B%E6%96%AF%EF%BC%9A%E6%8A%8A%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E5%AF%AB%E6%88%90%E6%B1%82%E7%94%9F%E6%89%8B%E5%86%8A/	末日預兆
 2026-10-05	假冒「西安佛師」預言世界末日！越女騙3母4子來台修行 扣證件逼當免費童工遭起訴	https://www.mirrordaily.news/story/89800	末日預兆
 2026-09-30	Digital Realty 首席執行官表示，人工智能增速可能放緩，但這對數據中心房地產而言並非「世界末日」	https://www.moomoo.com/hant/community/feed/potential-ai-slowdown-is-not-end-of-the-world-for-117358167719941	末日預兆
 2026-09-29	羅傑斯預言成真?史上最慘烈的金融危機將發生,AI泡沫將被戳破	https://min.news/economy/86d10eb919fd70073d88f1575a4be496.html	末日預兆
 2026-09-29	直擊龍捲風撲棚！氣象主播播一半嚇壞「急喊逃命」 末日場景駭人畫面曝	https://www.msn.com/zh-tw/news/other/直擊龍捲風撲棚-氣象主播播一半嚇壞-急喊逃命-末日場景駭人畫面曝/ar-AA1WUhFQ	末日預兆
 2026-09-29	為何AI愈強 股市或愈差？（28年末日推演）	https://invest.hket.com/article/4087685/為何AI愈強 股市或愈差？（28年末日推演）	末日預兆
+2026-09-29	灣仔返工大災難！早上9點女途人慘食「人肉炮彈」！1死2傷現場極恐怖	https://www.weekendhk.com/矚目話題/灣仔墮樓-飛來橫禍-最新港聞速遞-3422818/	大災難進程
+2026-09-29	末世預言警訊？以色列預演紅母牛儀式，迎第三聖殿序曲	https://cdn-news.org/news/N2507150001?openExternalBrowser=1	宗教
 2026-09-29	官網變404！「三個200」神話幻滅？電動重機新創 Damon 高層大逃亡，品牌面臨倒閉末日！	https://www.supermoto8.com/articles/17105	末日預兆
 2026-09-29	人工智能末世論：為什麼有人相信AI是敵基督，誘騙人類崇拜撒旦	https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad	敵基督
 2026-09-29	人工智慧末日警告？中國人為何「不買帳」 - 紐約時報中文網	https://cn.nytimes.com/technology/20260928/china-us-ai-distrust/zh-hant/	末日預兆
 2026-09-29	【蝗蟲大軍強襲！「密麻遮天」宛如末日】 #國際 （圖／翻攝X）	https://www.facebook.com/ETtoday/posts/蝗蟲大軍強襲密麻遮天宛如末日-國際圖翻攝x/1517324110426669/	末日預兆
+2026-09-29	【末日號角聲專欄】末世趨勢觀察：敵基督現象正在全球快速興起中	https://cdn-news.org/article/C2504230001	末日預兆
 2026-09-29	【7/5末日預言倒數35天】南海海槽大地震「規模恐達東日本大震10倍」日本將退回江戶時代？ 富士山再次噴發「癱瘓基礎設施」受災人數超過一半日本人口？【57爆新聞萬象搜奇】 Jessica Alba (1j5o5qH9Ex)	https://mshale.com/79c9b285/487ea89eeV76TjRRZY4	末日預兆
+2026-09-29	「死了麼」爆火啟示錄：如何撬動香港的「孤獨經濟」 文：吳建東	https://n.kinliu.hk/kinliunviews/「死了麼」爆火啟示錄：如何撬動香港的「孤獨經/	末日預兆
 2026-09-29	《全軍破敵：戰鎚 3》可下載內容「末世群英」現已推出- 股市爆料同學會	https://www.cmoney.tw/forum/article/185005534	末日預兆
 2026-09-29	MLB》外媒預測太空人外卡戰26人名單 鄧愷威並未被提及 | 麗台運動	https://today.line.me/tw/v3/article/wJv6mg5	末日預兆
 2026-09-29	AI未來就業 末日 VS 就業狂歡	https://invest.hket.com/article/4129829/AI未來就業 末日 VS 就業狂歡	末日預兆
@@ -79,6 +92,7 @@ var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐�
 2026-09-19	AI該放慢腳步否則世界末日將至？黃仁勳斷言：應儘可能全速發展| 全球財經| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsdjB5MWNEZ2plclZ2LUNoYUlZWTRsWGFYNlVoYmQwamptY1dER2trYmY4bld0TURkUVdjZ2RHc2ZObTlmSGtEZE5aMU41aHVD?oc=5	末日預兆
 2026-09-19	AI 該放慢腳步否則世界末日將至？黃仁勳：No，應儘可能全速發展	https://money.udn.com/money/story/5599/9764958	末日預兆
 2026-09-18	電影《大空頭》原型：AI巨頭製造「末日恐慌」其實另有圖謀！	https://www.hkcd.com.hk/content_app/2026-09/18/content_8775744.html	末日預兆
+2026-09-18	當攔阻的被除去 敵基督就顯露出來 帖後2.1-11 C	https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzVWVqNFNzR3RfQ09kTHVuMWtjeEFIWDZ2aXJjYkJBTVpWRXl1TW1ZOUpZNGRpUG5yMnY2UkN3RnVBOUNlZWxRYjRPWkpIUVI5eDlxakJtYzVQckxq?oc=5	敵基督
 2026-09-18	《大賣空》原型：AI巨頭製造「末日恐慌」其實另有所圖- 股市爆料同學會	https://www.cmoney.tw/forum/article/184811324	末日預兆
 2026-09-18	《大賣空》原型：AI巨頭製造「末日恐慌」其實另有所圖	https://hk.finance.yahoo.com/news/大賣空-原型-ai巨頭製造-末日恐慌-其實另有所圖-031828683.html	末日預兆
 2026-09-17	納德拉在 All-In Summit 反駁 AI 末日論：Microsoft 不追先進模型，Copilot 才是真正的主戰場	https://www.inside.com.tw/article/42414-satya-nadella-all-in-summit-ai-harness-strategy	末日預兆
@@ -96,6 +110,8 @@ var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐�
 2026-09-16	世界末日躲哪活最久？ 最新研究：這個島「最有韌性」	https://www.taisounds.com/news/content/88/289050	末日預兆
 2026-09-16	2887 台新新光金- 台新新創新高444，明年666🤩 - 股市爆料同學會	https://www.cmoney.tw/forum/article/184670884	獸印系統
 2026-09-15	投資無疆界(15/09/2026) 費指跌近6%收市 特朗普淡化AI「末日論」	https://www.i-cable.com/財經資訊/504080/投資無疆界15-09-2026-費指跌近6收市-特朗普淡化ai-末日論	末日預兆
+2026-09-15	信徒被提到雲中與主相遇 帖前4.13-18 M	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SWVBWMGtXQS1GaHFpWkNOSWQ0S0VtS0toeXVtQkZHLWZQaW5tQmdielh0a005TEdxbEhQRDRZM0syVkl5cWlmVkxjQldlX08yODdlMW5EMEJoTkl2?oc=5	末日預兆
+2026-09-15	信徒被提到雲中與主相遇 帖前4.13-18 C	https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VbTF3N0duT1JUWnI1eHhINnNqR19TdElNRlZlaDhTLTMwc2VSaTJFd0g2TXlqOVVPcG1DaFkwWjJEdDh4SVdRT0ZmNWJMNld0QUhpU1NTaDVGRWZZ?oc=5	末日預兆
 2026-09-15	AI世界末日 我不怕死 | 莫灝楠	https://www.stheadline.com/realtime-finance/3615549/AI世界末日-我不怕死-莫灝楠	末日預兆
 2026-09-15	3693 營邦- 昨日6發發,今天666 - 股市爆料同學會	https://www.cmoney.tw/forum/article/184612871	獸印系統
 2026-09-14	牛頓手稿曝光推論2060世界末日- 2011年08月02日	https://news.pts.org.tw/article/61904	末日預兆
@@ -143,6 +159,7 @@ var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐�
 2026-08-26	影／彷彿世界末日！ 西藏土石流驚悚畫面曝光：人車瞬間被吞噬	https://www.ettoday.net/news/20260826/3226256.htm	末日預兆
 2026-08-25	沈伯洋競選小物曝光！限量666組「奔抱布偶」20分鐘火速完售	https://news.tvbs.com.tw/politics/4012703	獸印系統
 2026-08-24	詹姆斯和艾莉莎在《去他X的世界末日》中的公路旅行，如何展現角色的內心轉變？	https://www.bella.tw/articles/aigc/answer/%E8%A9%B9%E5%A7%86%E6%96%AF%E5%92%8C%E8%89%BE%E8%8E%89-25300840	末日預兆
+2026-08-24	被喻為《侏羅紀公園》翻版？為甚麼 2026 年還需要《末世橡樹街》這部 80 年代恐龍家庭片！	https://news.google.com/rss/articles/CBMidEFVX3lxTE51VmlqLTAweEhrMk5uWVVFR0xMam9RelcySThqMF9WU01MZXpCTnhPdGtKcjh2RlNQdml1eGVJN2xYMGMxM3BzUHZ6TkVXU1Jyel8wa1NVcnlkeF9TQlYtYWZyVnRsaWtyZmFiSF9ZZlVKTGE1?oc=5	末日預兆
 2026-08-24	第三聖殿重建是末日先兆？末日論者警告敵基督即將降臨| 超低能．勁搞笑	https://ent.fanpiece.com/low-b-funny/%E7%AC%AC%E4%B8%89%E8%81%96%E6%AE%BF%E9%87%8D%E5%BB%BA%E6%98%AF%E6%9C%AB%E6%97%A5%E5%85%88%E5%85%86-%E6%9C%AB%E6%97%A5%E8%AB%96%E8%80%85%E8%AD%A6%E5%91%8A%E6%95%B5%E5%9F%BA%E7%9D%A3%E5%8D%B3%E5%B0%87%E9%99%8D%E8%87%A8-c1500394.html	不是
 2026-08-24	世界末日愛上你 PEAK EVERYTHING	https://meet.eslite.com/tw/tc/artshow/202608240012	末日預兆
 2026-08-24	《末世行者》「魁隆」搭新世代男神疫情後蠻荒求生	https://hk.on.cc/hk/bkn/cnt/entertainment/20260824/bkn-20260824000107957-0824_00862_001.html	末日預兆
@@ -158,7 +175,9 @@ var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐�
 2026-08-21	頭條戲場 - 《末世行者》希望在轉角 | 頭條戲場	https://www.stheadline.com/opinion/3606594/%E9%A0%AD%E6%A2%9D%E6%88%B2%E5%A0%B4-%E6%9C%AB%E4%B8%96%E8%A1%8C%E8%80%85%E5%B8%8C%E6%9C%9B%E5%9C%A8%E8%BD%89%E8%A7%92-%E9%A0%AD%E6%A2%9D%E6%88%B2%E5%A0%B4	末日預兆
 2026-08-21	TOPick會員有獎｜送你《末世行者》電影換票証2張 (15份)	https://topick.hket.com/article/4178928/TOPick%E6%9C%83%E5%93%A1%E6%9C%89%E7%8D%8E%EF%BD%9C%E9%80%81%E4%BD%A0%E3%80%8A%E6%9C%AB%E4%B8%96%E8%A1%8C%E8%80%85%E3%80%8B%E9%9B%BB%E5%BD%B1%E6%8F%9B%E7%A5%A8%E8%A8%BC2%E5%BC%B5%20-15%E4%BB%BD-	末日預兆
 2026-08-20	當世界走向末日，反而是戀愛的契機——法國卡堡影展最佳影片《世界末日愛上你》08/28上映	https://500times.udn.com/wtimes/story/12672/9703568	末日預兆
+2026-08-20	【開箱】續談《末世橡樹街》 結局暗黑細思極恐- 20260820 - 公民	https://news.google.com/rss/articles/CBMiggFBVV95cUxQQTVLQjMwbzhZVGwxSkJhbHlyWldqMTloeXdJWWthOVBCR3FwRGV0TDVNb0ktMU9IeFRQbjRuSUZLek5MQ0pubnhOWlYxX3RSSGQzc2ZFUmJWeE9CZXFyWXdDbWh0X0F0VjFGOGpyaHYwT3NSM19CVzhWMkxaQTJXa2l3?oc=5	末日預兆
 2026-08-20	【開箱】續談《末世橡樹街》 結局暗黑細思極恐- 20260820	https://ol.mingpao.com/ldy/showbiz/news/20260820/1787159847956/%E3%80%90%E9%96%8B%E7%AE%B1%E3%80%91%E7%BA%8C%E8%AB%87%E3%80%8A%E6%9C%AB%E4%B8%96%E6%A9%A1%E6%A8%B9%E8%A1%97%E3%80%8B-%E7%B5%90%E5%B1%80%E6%9A%97%E9%BB%91%E7%B4%B0%E6%80%9D%E6%A5%B5%E6%81%90	末日預兆
+2026-08-19	涉拐王星案 跨境人口販賣集團17疑犯被提公訴	https://news.google.com/rss/articles/CBMi0AJBVV95cUxPTkM5ZWF5T25SbkNHbWI5N281cmdwQ3hEUWI5OWxvUHA4UGZXWm8zelBSTVpWZjF0YURfME1MYTRVekhNanI4Z3NEalBxcjlLUVk5QnlROG5jdGVpdmU0YlhWcjFmQ2JWa1hVa0VXZU1RNURMOTQzd3k0Z2hPZGlsNGRsTkwzbDlxdk9rck5DNzZRcTFZZlVqZjlmSk5kcUtrZERYclkwdWRubGhTWHB5NTA1cFlkNXJvalRKSm9kSnZqRHlMNUpHOFYtcGhWczBOc3FMZ3NhZmltWF9vTC1fYkZPcDJuaGxmTGMzQ2oyRHd1N0FEb2ZaZFc1ZlVVTEpsb20yYjVpSmFXaUM3M3BhOTNMOG5uZGFOYm1aa2cyUGVIMlY1TlhvZVlPa1lXb0FCVlVxOXJFYTFUMGw5TDBDdWhqcjN2Nm94VklpeWJPVWs?oc=5	末日預兆
 2026-08-19	【開箱】《末世橡樹街》 有望重振恐龍片聲威- 20260819 - 公民	https://news.google.com/rss/articles/CBMiggFBVV95cUxOQlVQT0JmYjE0VnlON2xMQ1RsLUxPUW1nSGoxdWNpSUpJYWl4d3Z5MHZfd2RoakMwblFmXzMzVm4xSWhTcHRQdHhWSFlxYXhOSG5DcEJYVWx5TkZwbmxzX0VKdDJ5akRsU3ZmcFBDX0NLZjMzcUdOTHZ2aUhaMUJ2cTZn?oc=5	末日預兆
 2026-08-19	【開箱】《末世橡樹街》 有望重振恐龍片聲威- 20260819	https://ol.mingpao.com/ldy/showbiz/news/20260819/1787072781163/%E3%80%90%E9%96%8B%E7%AE%B1%E3%80%91%E3%80%8A%E6%9C%AB%E4%B8%96%E6%A9%A1%E6%A8%B9%E8%A1%97%E3%80%8B-%E6%9C%89%E6%9C%9B%E9%87%8D%E6%8C%AF%E6%81%90%E9%BE%8D%E7%89%87%E8%81%B2%E5%A8%81	末日預兆
 2026-08-19	【開箱】《末世橡樹街》 有望重振恐龍片聲威 - 20260819 - 娛樂	https://news.google.com/rss/articles/CBMigANBVV95cUxOYnpfekdlY1hDUFQ4OU1xd250NmJsa3lfaFBRSFFDMGVjQmR6N1VFdlhaX190cE84SW5oVFJIUnF6WjhwWTZMUmZxOWtRQk9zbVBsSHpQMFRZc2FEbVdGTTA1MmhlcUdRWU51MkQ1cURTa2psZHB3NEltc05Hb1NKRjM2U0pROEJUVWQ1UG9MTmViTEIxUnFXSS1ENEZWeEdpLW05cnJWZmNfbUR6VXE0WHk1bUZ5VlNwTWFjbm95WFhaSU5NR19WZXo1OE9XWjlmUWdTYXVjUlNkZFBmWmRNeWJmUW5IMGh3RHR3VUlDV3FCWnZLOEo1ZXhKdkljTmZPRGlzWk41VnlacmZ5bDJySmEwT1ZFZy0yOEszclJyUGQ4UGtSdmVHTDF4alM1emhvUWZkMTdtbVJTU2d5UENFdGFwVndjdk5mbnJOUWg2NG9FNFFtd3NiM0cyX0pvMms0NUtST2VqeGxXa2ZRTXAxY3N6aDcxVUNSOFVsV2Z5UWk?oc=5	末日預兆
@@ -294,7 +313,6 @@ var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐�
 2026-05-07	上月2新盤申預售涉666伙 啟德花語海、紅磡首岸齊入紙	https://www.stheadline.com/property-new/3569931/%E4%B8%8A%E6%9C%882%E6%96%B0%E7%9B%A4%E7%94%B3%E9%A0%90%E5%94%AE%E6%B6%89666%E4%BC%99-%E5%95%9F%E5%BE%B7%E8%8A%B1%E8%AA%9E%E6%B5%B7%E7%B4%85%E7%A3%A1%E9%A6%96%E5%B2%B8%E9%BD%8A%E5%85%A5%E7%B4%99	獸印系統
 2026-05-07	4月零單位獲批預售樓花 兩份新申請666伙 涉首岸2期、花語海3期	https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60347623/4%E6%9C%88%E9%9B%B6%E5%96%AE%E4%BD%8D%E7%8D%B2%E6%89%B9%E9%A0%90%E5%94%AE%E6%A8%93%E8%8A%B1-%E5%85%A9%E4%BB%BD%E6%96%B0%E7%94%B3%E8%AB%8B666%E4%BC%99-%E6%B6%89%E9%A6%96%E5%B2%B82%E6%9C%9F-%E8%8A%B1%E8%AA%9E%E6%B5%B73%E6%9C%9F	獸印系統
 2026-05-07	4月錄兩項樓花預售申請 涉及666伙	https://hk.on.cc/hk/bkn/cnt/finance/20260507/bkn-20260507173842046-0507_00842_001.html	獸印系統
-2026-05-05	灣仔返工大災難！早上9點女途人慘食「人肉炮彈」！1死2傷現場極恐怖	https://www.weekendhk.com/矚目話題/灣仔墮樓-飛來橫禍-最新港聞速遞-3422818/	大災難進程
 2026-05-03	「撈底」贏家！北角維峰．浚匯一房666萬沽 逾一年升值33%｜有圖	https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60345552/%E6%92%88%E5%BA%95-%E8%B4%8F%E5%AE%B6-%E5%8C%97%E8%A7%92%E7%B6%AD%E5%B3%B0-%E6%B5%9A%E5%8C%AF%E4%B8%80%E6%88%BF666%E8%90%AC%E6%B2%BD-%E9%80%BE%E4%B8%80%E5%B9%B4%E5%8D%87%E5%80%BC33-%E6%9C%89%E5%9C%96	獸印系統
 2026-05-01	戰鎚40,000 | 《哈米吉多頓》開箱：歐克蠻人	https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCNlpTaG1RV2o1NEZGUGVfTk1LWHFxS2dIdVMwM3ZlNm5fdDRNMjk2ZkJSd1NYWnlwVGEwUm80Um1CVDQzM05QbTlyQnV3QlhneVlvOWpYbE1VQ1ZM?oc=5	大災難進程
 2026-05-01	全球知名導演克里斯多福.魯賓睽違7年回歸TIFA 柏林德意志劇院《不過就是世界末日》5月登臺拆解家庭記憶| 大媒體	https://today.line.me/tw/v3/article/rmQYQow	末日預兆
@@ -345,7 +363,6 @@ var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐�
 2026-01-20	事情太亂、壓力太大？好萊塢明星也在做的「21天但以理式生活」，讓你身心更強大	https://cdn-news.org/news/N2601180001	其他末世
 2026-01-17	《白宮淪陷》謝拉畢拿×《死侍》莫蓮娜芭卡琳 《末世綠洲2：絕地遷徙》 末日世界逼近現實亂局	https://www.bastillepost.com/hongkong/article/15588501-《白宮淪陷》謝拉畢拿x《死侍》莫蓮娜芭卡琳攜	末日預兆
 2026-01-17	NBA／輸球就像世界末日？霍姆葛倫笑談回應球隊低潮與雜音	https://tw-nba.udn.com/nba/story/7002/9271596	末日預兆
-2026-01-16	「死了麼」爆火啟示錄：如何撬動香港的「孤獨經濟」 文：吳建東	https://n.kinliu.hk/kinliunviews/「死了麼」爆火啟示錄：如何撬動香港的「孤獨經/	末日預兆
 2026-01-15	台灣KFC宣布經典原味葡撻停售 網民大驚「世界末日來了嗎？」	https://www.orangenews.hk/mycookey/V8LzUuN/%E5%8F%B0%E7%81%A3KFC%E5%AE%A3%E5%B8%83%E7%B6%93%E5%85%B8%E5%8E%9F%E5%91%B3%E8%91%A1%E6%92%BB%E5%81%9C%E5%94%AE-%E7%B6%B2%E6%B0%91%E5%A4%A7%E9%A9%9A-%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%E4%BE%86%E4%BA%86%E5%97%8E.shtml	末日預兆
 2026-01-02	物理學家66年前預言「2026世界末日」：人類被自己擠死	https://tw.news.yahoo.com/%E7%89%A9%E7%90%86%E5%AD%B8%E5%AE%B666%E5%B9%B4%E5%89%8D%E9%A0%90%E8%A8%80-2026%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5-%E4%BA%BA%E9%A1%9E%E8%A2%AB%E8%87%AA%E5%B7%B1%E6%93%A0%E6%AD%BB-093200554.html	末日預兆
 2026-01-02	2026年11/13世界末日預言「科學死法」難逃？恐比盲眼龍婆還準	https://city.gvm.com.tw/article/127106	末日預兆
@@ -366,7 +383,6 @@ var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐�
 2025-07-02	7月5日預言｜盲眼龍婆也預測2025大地震 「4大災難」已說中這些	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60252728/7%E6%9C%885%E6%97%A5%E9%A0%90%E8%A8%80-%E7%9B%B2%E7%9C%BC%E9%BE%8D%E5%A9%86%E4%B9%9F%E9%A0%90%E6%B8%AC2025%E5%A4%A7%E5%9C%B0%E9%9C%87-4%E5%A4%A7%E7%81%BD%E9%9B%A3-%E5%B7%B2%E8%AA%AA%E4%B8%AD%E9%80%99%E4%BA%9B	末日預兆
 2025-05-16	4大預言家神測2025年有真正大災難？日本毁滅式地震有埋準確日子	https://www.hk01.com/%E9%96%8B%E7%BD%90/1083915/4%E5%A4%A7%E9%A0%90%E8%A8%80%E5%AE%B6%E7%A5%9E%E6%B8%AC2025%E5%B9%B4%E6%9C%89%E7%9C%9F%E6%AD%A3%E5%A4%A7%E7%81%BD%E9%9B%A3-%E6%97%A5%E6%9C%AC%E6%AF%81%E6%BB%85%E5%BC%8F%E5%9C%B0%E9%9C%87%E6%9C%89%E5%9F%8B%E6%BA%96%E7%A2%BA%E6%97%A5%E5%AD%90	末日預兆
 2025-05-10	[廣東話] [林鍵] 2025.05.10 《等待君王：寶座》 [但以理書 7:1-14]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UWjhKNDFzaUtJN0p1SmJETjh3QjhwQ3ZQcHlPNEhNejZwNzl2MEZ2clNBTU5VMmJnOG1iSHU1NjRFTlEzbXBz?oc=5	其他末世
-2025-04-23	【末日號角聲專欄】末世趨勢觀察：敵基督現象正在全球快速興起中	https://cdn-news.org/article/C2504230001	末日預兆
 2025-04-22	12世紀「教宗預言」🔮指方濟各是最後教宗？準確預言史上74位教宗✅｜預視世界末日20XX年來臨? - 東張+	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/15118232074762/%E7%94%9F%E6%B4%BB-12%E4%B8%96%E7%B4%80-%E6%95%99%E5%AE%97%E9%A0%90%E8%A8%80--%E6%8C%87%E6%96%B9%E6%BF%9F%E5%90%84%E6%98%AF%E6%9C%80%E5%BE%8C%E6%95%99%E5%AE%97-%E6%BA%96%E7%A2%BA%E9%A0%90%E8%A8%80%E5%8F%B2%E4%B8%8A74%E4%BD%8D%E6%95%99%E5%AE%97--%E9%A0%90%E8%A6%96%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A520XX%E5%B9%B4%E4%BE%86%E8%87%A8-	宗教
 2025-04-19	[廣東話] [林鍵] 2025.04.19 《等待君王：復活》 [但以理書 6:16-28]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LWmM3NmVlUzFpSi11UE5BWDZSN0pQUGtjaURZMjVORmkyYkdVcnNiU0pTRXFkTC1NUmhnb2hhM3dXNDRkSzFR?oc=5	其他末世
 2025-03-29	[廣東話] [林鍵] 2025.03.29 《等待君王：我父》 [但以理書 5:1-24]	https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6VEphUV9QZ2stbjI5Z0t1ZXZLZVVCYXVMaGRKbDgyNFNZNlRTRklaSnlRdGxBd1JQOE5aQzYzRTdudE9JWFNj?oc=5	其他末世
@@ -470,4 +486,4 @@ var DATA_TRIBULATION = `2026-10-15	阿湯哥神話破滅？新片慘賠78億恐�
 2012-12-09	世界末日捐家產 2012前夕人類離奇舉動盤點--財經--人民網	https://news.google.com/rss/articles/CBMifEFVX3lxTE0ydXVDZUczcGkwdDU2QTh2MkJWb3hSTkt4TTBibXJRcVpDVklTRmp3alE0eTVVN0NQUGpTTDl2Vl85Y2pxcU1odHpOV1VlSjk2a1VIR0ZaMVVISUg3RDZTbnBneUNtMWhlZC1fRmNEd2Z5M2I4N1pVSVpnMHY?oc=5	末日預兆
 2012-11-14	不跟你講世界末日的〈馬雅天地心〉	https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zR2lVSFg3OTZFUGNvS1puZGQzUHlHejJzdUkycksxWXdtVWRNbzhPRlZackEzcUdXZE9wUkpGaVFSOWp4bXNB?oc=5	末日預兆
 2011-05-01	台湾当局调查“世界末日”预言	https://news.google.com/rss/articles/CBMiekFVX3lxTE9wME5EbHdOcWtEMFhrbkJLb1dmVXlEcVdlQzdTMDRvTTBNRXY2aXpPMDBYZHlfVzRQbzB5ZUwxczdtX1BxWlltb2QzbDRkb1Z3a05rY19paGpkVFVWMThnbE0xZ0V5RDF3RGU2R0oyMzZBMldaLVZyVDZ3?oc=5	末日預兆
-2027-10-02	【這不是巧合，是正在發生的末世預言】 獸名	https://www.threads.com/@tribulation20271002/post/DcB1Biak3UE	末日預兆`;
+`;

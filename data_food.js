@@ -1,7 +1,17 @@
-// 糧食 | 由 build_news_js.py 生成 | 共 592 條
-var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1%	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uOFFrcU9PZzJtSVc4RlpvakRQcFh1NGxIam1LRGFhT3hTQkp5a292aG5NTzVETVF0ajNvM0RmalhCcTRLc2NhT0Y1Q2hMYXBDbDhXOGNYUk5nU1BiNEhsY9IBZkFVX3lxTFAxT0NhdUdMcHFMN2RjOXNkT2RmYm44cmh5NmM3QWtHcmdNdHU4YkxyRjE5aDV3V1Q4cFlRR0dvMjRBR200MUF0ZWdIMV9mYXJ3bVhWRFFFU3BwbUpPNnIxSVZUMF9fZw?oc=5	物價暴漲
+// 糧食 | 由 build_news_js.py 生成 | 共 609 條
+var DATA_FOOD = `
+2026-10-16	華爾街出現怪現象！通脹超預期、美債卻暴漲，AI股拋售背後藏着什麼？	https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Dc0hDOUVrc2NqYlVfOEczODNjSEpfY2VlelUwemU2YjVWYXpJM3JzUmo3Q3gyNGZOTUh1NFNkdGVEZVF3emNncW9IblZ2QTlSWVRTM0pKZWtXMHFQdDZpR3FuSlo?oc=5	物價暴漲
+2026-10-16	聯合國官員：未能啟動荷莫茲海峽肥料運輸計畫恐引發糧食危機 | 路透社	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QaVRiWGV1d2I2ZHM2WEs1eHF2MEtQVkhXbGN3UXllbFY0UExvcy1Rb211Qy1GTnRaVGNtQ2RpQ0NRWkVNVkRQTDBNcVdjblNnRVRFckJB?oc=5	糧荒短缺
+2026-10-16	聯合國力推荷莫茲化肥運輸協議 示警糧食危機	https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3plY0U1M1ZESHZ2WTJKalpXZG5YZTY1QVNjRnQ4OExEbjI5YlRUNmRXZVREeGczTXFtUHlzcXgtX3EweWZ6cFFoOGtOTFdiN2gxVG10NDdmaEp4SzItQncxTHktTHUtaGthVHR2Tm01dUVzaktwZS1fXzRydEI5eEt1UmNUY1Y2UlAxYW56a2hCSFJsSFFv?oc=5	糧荒短缺
+2026-10-16	美國通脹：國民苦苦應對物價飛漲大喊「日子難熬」	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHN01sNVA3RmFZNWxUWkFWTWVRQ1FKcktTdjJXbUxvOEZrb0hnQmFDNUZxWC1FZ2FpY2F0SGJ1Ti1WcG5KemtJVnBvaTUtMFh6UW0zTmNkLWxSX2I1SGtjTDYxdi1OMjTSAWxBVV95cUxPUjUxNnlCeFlXb1B1cmhRMHdEOGd4YWk1TVJfMHctZjR6MllnaXFHX1J6MkNQaDJyU0QtOHNvam5Cb21tdnFpU0EtVDhSYnJzNVRTVGtLWFB2YnlOT2g0MndXVE42R0tKelFoRHU?oc=5	物價暴漲
+2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1%	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uOFFrcU9PZzJtSVc4RlpvakRQcFh1NGxIam1LRGFhT3hTQkp5a292aG5NTzVETVF0ajNvM0RmalhCcTRLc2NhT0Y1Q2hMYXBDbDhXOGNYUk5nU1BiNEhsY9IBZkFVX3lxTFAxT0NhdUdMcHFMN2RjOXNkT2RmYm44cmh5NmM3QWtHcmdNdHU4YkxyRjE5aDV3V1Q4cFlRR0dvMjRBR200MUF0ZWdIMV9mYXJ3bVhWRFFFU3BwbUpPNnIxSVZUMF9fZw?oc=5	物價暴漲
+2026-10-15	荷姆茲海峽化肥運輸受阻 聯合國警告亞洲非洲恐爆糧食危機	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sWndJZmhnS1ozelFOUE53SFd3LTI4aTJVWUVic2VnUXRCWXdEWi1sOTBuN2RabVV1N1lucXVkOENFSlhiWDhpVm5GMWJvaGJYQlpGUWpUdEkxdmJjWXhwQnB2eFdEQdIBa0FVX3lxTE9GdGNfN09nUDk2QndySXMxVVc3V2dxNmdzM01kck1ZSTB1ckRWdko3QTdYR2RTVm9Jc0lnUEdTNF92SzBwNm1MZTI2Qy1Wa2hmRmJvanNIU3Q4M0o2S0FaR0Q0OURuNFNJcllr?oc=5	糧荒短缺
+2026-10-15	聯合國官員警告：霍爾木茲海峽化肥計劃若未能啟動恐引發糧食危機	https://news.google.com/rss/articles/CBMiuwNBVV95cUxOWklkNHZnUUtzc1ZNR1daMEdmX0xhRWVmX0hvZTh6ODZfdXJRZUFyZWpialRZM3RnYTR3YmtlVzZJYmJMWnVjclNuRGFmUnBDOE1qU0dtNmNPcG1OQ1FYV0NVYTBfWWQzVEtxV29jZHB0RlhNV2xPZ0RCNmlraHRiXzJHVnRpRGIzQVVsVjRpWEIzclBPTlZkQzU2ak9WQnlhbFo1a0NscXZxTkRpY3ZSRnZmSGFVYVp1WmVmSGhMUEVTMkRFdWpHS2tZN2wyckVQRW4wOXZ2d0QtTHd3RlNuOUdfNzlRUnRUN2tscTFlZGhSaG52OVkzakFBbzVxUW0xUURvV2ZvWERzRjlQMUIyUnNlcEg0TnpaRjVuTkdvdVg1TTZicGx0QWF2Qk1wOHFVVnVXWS1wbGVJYzM5c1VPRmIzZF9pSDkxaWtOSWY4R3J5NWZ4bkV4X1NsTzlkTUNpU2NzUVhqTlpXSzhua1R0QThzWTREaExSY2JPdW53eWpDbVFVTHFYbTZrdHJPT0F5WHFjOGpKb0VHaVZBRmFLbGxRV0J0aUU5UXEyMUhpNDFVQzlSS0FMT0ZfVQ?oc=5	糧荒短缺
+2026-10-15	聯合國力推荷莫茲化肥運輸協議示警糧食危機- 股市爆料同學會	https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2WVVTd2lJM3JFM1dYakptdmZKLW05alloVVNNaGxMYlJsVmFJcVB0cHp5dVdNNWUyczZYcVFKX2JraXA1MjRCb2htcUFiVnNOaGFLMDJWeFA?oc=5	糧荒短缺
 2026-10-15	聯合國力推荷姆茲化肥運輸協議示警糧食危機- 新聞	https://news.google.com/rss/articles/CBMikgFBVV95cUxNREdlRjZfUzJFbVRFU2xIUlgySnBwOXdqQ3VrZ0dtOFhySHRUSUdBdUJ6RGNsdHUtZ2Z5cW03X0c0QW9Qc0FOdW1UYmJDcHhtRUlGQ1NyUWpwVU5JZXIwTFEwUGh5U2EtZTdaaUg2NTFvTDhOMVAwM1ZEY3E0N3BQQW9wdUFyMkRkUWVScDIxSzFlQQ?oc=5	糧荒短缺
+2026-10-15	聯合國力推荷姆茲化肥運輸協議 示警糧食危機	https://news.google.com/rss/articles/CBMinAFBVV95cUxQUHlaNTFFbDExMllJZzBnLVpVRlpYeFFQNFAyVWZTcl9VUnMxS3RBZUxxc3E1bGl6a2xvWGxCNUcyTmsyT3RWbHpOVlBhckVkWkNmYkF1THA0WlJlUzU5UThWMWJTdFNVR2NqUDV4WEdNVTJDT2JmRS1PZ2I3Q3ptR3E5akpWc0lSNS1KLUcyRnBRYWVDa0ZXYWZqOTg?oc=5	糧荒短缺
 2026-10-15	六年物價累計上漲近30%，3.7%通脹率下特朗普政府面臨中期選舉考驗	https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXJ5bmZlcWVkVUllcXRZYWpCeVFmSFVlakNfOGFYOEZZSm5FRjBxWUNrbHBZQThBTkVNZU9ibTVHYTN5c0ZJSmdsRlRGNHZocjdZMjNqZVlZXy1ZVXMzOFRua0FURDl4VEl2V2ZpQjdNekltUy13WVBYRktoWjctMlRsYlVMbzg5N1ZWaHV1V2x6d0FEV1BPWXR6SC1NT0ZMeE5YRnNGWjVJeHM2SkJla25n?oc=5	物價暴漲
+2026-10-15	亞、非糧食危機 山雨欲來 數周內若無法重啟荷莫茲化肥運輸 恐衝擊農產品生產 | 國際焦點 | 國際	https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVVsdHdsUDJEVlM3Mkd5bzFaMWxOTXFyd0hNd1gybFZ4NUJDcDR4cDdkRVJSQ1p1NVhjSFJnbmJxRUplUUJFWjE1UnlzRWcyNzY3MzNHUV9XZ08yY0pKUVN4X19hZlZqc2VwX2g3QWxEdlRjU29MbWFTM08xRU9rYQ?oc=5	糧荒短缺
 2026-10-14	聯合國：數周內若無法重啟荷莫茲化肥運輸亞非恐現糧食危機| 全球財經| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FbmRvUTZMaXI5ZUUwOGtSWTVCZDg2VjQyODVIR1c2bHJfYUpmWU5ybklfaHVNRFZrUEY0NUgzQjhMMV9ZdV91WXV5M3FYYmVE?oc=5	糧荒短缺
 2026-10-14	聯合國警告:若數周內無法重啟霍峽化肥運輸 亞非恐現糧食危機	https://news.google.com/rss/articles/CBMiqANBVV95cUxNT25qTGVYTlI2YXk2YzF2NFNtNVFzNHdHMUhkZ0N0TXpBOHBuUUJvbFR2YUQ1MUEzNk9RUUVBeTl5TkQ2MGE3ZVktZ0R3aXdYaEFPc1R1Wld1eDJiTVR2ZXlQemR1OC1CbUFjcG9JUC05RnNqdkpsOFpXX1NtTDlULVNfTXlubmNqcENINHRpLVUyNFBmTXNSSjU2VU9Fb3ZoYV9fc2dfdHlfeGlwSXBhRHBTZEp4bDU0Y01PbGF1cmxrcVY5cVdxUEpvbkwtVmNtcXh4V2dxa0E4cFROdk9rV1dFU1NyZ0pQeDJvMVMyT2Y2R0hVbXVlTlNtWXBocVRvU1diMng2c0hkN2NtNEhyR05xVkpObjQ2ZTVSSTg4MFEtRDE2dGVqUEFaVlFlYXJ1elZMMmhXWXFYVm9yeTVFcnRjVEdfNzF3YlJSVjZtSmlRVmdaZ0tVdktlVWVScUpGN1dDVkZoSU1SemljMzNmNzJwQ1otWWVmYmFFN1l6ajNjMGxsTzc3b0hMVEdZV1pnY2tWdzlFSFZYQkM1OWhPZ3R0QU1sS3JU?oc=5	糧荒短缺
 2026-10-14	國際巨頭打台灣牌 搶糧圈地大作戰重塑供應鏈版圖	https://finance.ettoday.net/news/3250738	糧荒短缺
@@ -69,6 +79,8 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-09-29	響應國際糧食損失和浪費問題宣傳日 新北邀全民從日常實踐惜食行動	https://tw.news.yahoo.com/響應國際糧食損失和浪費問題宣傳日-新北邀全民從日常實踐惜食行動-071428780.html	其他糧食
 2026-09-29	霍爾木茲航道受阻 國際糧價升至3年高	https://invest.hket.com/article/4126631/霍爾木茲航道受阻 國際糧價升至3年高	價格暴漲通脹
 2026-09-29	農業部長表示，國家警察在維護糧價穩定方面發揮著作用。	https://citytimes.tw/股市/農業部長表示，國家警察在維護糧價穩定方面發揮/710417/	價格暴漲通脹
+2026-09-29	農業部估香蕉價格逐步回穩 短期減產不會進口打擊蕉農	https://www.msn.com/zh-tw/news/living/農業部估香蕉價格逐步回穩-短期減產不會進口打擊蕉農/ar-AA1ALOFJ?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	歉收饑荒
+2026-09-29	超級聖嬰恐推升全球糧價 分析師：衝擊可能延續至2028年	https://sunmedia.tw/news/finance/超級聖嬰恐推升全球糧價 分析師：衝擊可能延續至2028年-1783921463009	價格暴漲通脹
 2026-09-29	荷莫茲海峽封鎖衝擊全球能源 國際油價飆升恐釀萬物齊漲、糧食危機	https://enn.tw/720926/	糧荒短缺
 2026-09-29	荷姆茲海峽封鎖重創全球供應鏈， 化肥價格飆漲逾七成恐引發糧食危機	https://www.msn.com/zh-tw/money/topstories/荷姆茲海峽封鎖重創全球供應鏈-化肥價格飆漲逾七成恐引發糧食危機/ar-AA21rvEQ	糧荒短缺
 2026-09-29	聯合國：4月全球糧食價格升至3年多來新高	https://news.cnyes.com/news/print/6450761?utm_source=B2Bconcordsa248602fd6bf&utm_medium=NewsApi&embed=1	其他糧食
@@ -83,6 +95,7 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-09-29	白宮與Anthropic達成協議解除Fable 5及Mythos 5出口限制 ...	https://www.facebook.com/businessfocus.io/posts/白宮與anthropic達成協議-解除fable-5及mythos-5出口限制惟ipo前夕兩大ai模型巨頭同時被監管-美國準備接管最強人工智能美國商務部昨晚向a/1294053139603313/	出口禁令
 2026-09-29	特朗普：伊朗應用解凍資金買美國糧食 #特朗普 #伊朗 #糧食 #am730	https://www.facebook.com/am730hk/posts/特朗普伊朗應用解凍資金買美國糧食特朗普-伊朗-糧食-am730/1501133665387564/	其他糧食
 2026-09-29	為什麼尼日利亞和其他九個非洲國家的糧食價格會上漲	https://citytimes.tw/经济/為什麼尼日利亞和其他九個非洲國家的糧食價格會/911207/	其他糧食
+2026-09-29	海外研選 | ING：強厄爾尼諾未必引發全球糧食危機 亞太或成最大風險區	https://news.futunn.com/hk/post/76357107/overseas-research-selection-ing-a-strong-el-ni-o-may?futusource=news_newspage_recommend	糧荒短缺
 2026-09-29	水稻「三劍客」：共創韌性、永續、安心的糧食新時代	https://enn.tw/689562/	其他糧食
 2026-09-29	比石油更致命! 化肥斷供引爆糧食危機 全球每週恐少「百億頓飯」	https://www.msn.com/zh-tw/money/topstories/比石油更致命-化肥斷供引爆糧食危機-全球每週恐少-百億頓飯/ar-AA22dx1m?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	糧荒短缺
 2026-09-29	歐盟官員愈發樂觀：美國料暫緩柴油出口禁令 作者 智通財經 - Investing.com 香港	https://hk.investing.com/news/stock-market-news/article-1678165	出口禁令
@@ -117,6 +130,7 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-09-29	HKTI 在齋月前通過廉價市場加強糧食產能	https://citytimes.tw/股市/hkti-在齋月前通過廉價市場加強糧食產能/709349/	其他糧食
 2026-09-29	Fed：糧食不安全加劇美經濟K型分化- 美國話題- 新聞	https://www.chinesedaily.com/article/detail-690971.html	其他糧食
 2026-09-29	A股糧食概念板塊走低	https://www.tradingview.com/news/gelonghui:096a8385facdf:0/	其他糧食
+2026-09-29	A股焦點｜農業股再度活躍，摩通警告糧食危機或明年爆發|香港經濟日報	https://invest.hket.com/article/4179682/A股焦點｜農業股再度活躍，摩通警告糧食危機或明年爆發	糧荒短缺
 2026-09-29	A股焦點｜摩通預警明年全球糧食危機，農業種植板塊集體拉升|香港經濟日報	https://invest.hket.com/article/4177423/A股焦點｜摩通預警明年全球糧食危機，農業種植板塊集體拉升	糧荒短缺
 2026-09-29	ASRI 致力於加強糧食安全	https://citytimes.tw/股市/asri-致力於加強糧食安全/838848/	其他糧食
 2026-09-29	APEC｜APEC糧食安全部長級會議杭州舉行，聚焦農業科技創新等議題|香港經濟日報	https://invest.hket.com/article/4182019/APEC｜APEC糧食安全部長級會議杭州舉行，聚焦農業科技創新等議題	其他糧食
@@ -182,6 +196,7 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-09-21	黑海封鎖引爆全球糧食危機 俄烏小麥出口減半恐再掀通膨	https://hk.finance.yahoo.com/news/黑海封鎖引爆全球糧食危機-俄烏小麥出口減半恐再掀通膨-111215798.html	糧荒短缺
 2026-09-21	葉門戰亂升溫恐爆飢荒 世界糧食計劃署緊急擴大援助 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFcFlFeTh0Q2Y3QzZ5MzBrMWZSLU1jVE1IdHNKRW4tN19XdmRCV29KS1lldnp1TXRvM1BKVlIyamdwT3BWcWVUT1BtZUFtdFFqbGRaTXBR?oc=5	歉收饑荒
 2026-09-21	美國科學家研發塑膠回收曲奇餅，有望解決太空任務與地球糧食危機	https://www.singtaousa.com/2026/09/21/news/usa/would-you-eat-a-cookie-made-from-upcycled-plastic-scientists-propose-a-new-way-to-deal-with-waste-and-provide-food-in-extreme-environments/	糧荒短缺
+2026-09-21	俄羅斯將延長柴油出口禁令至九月底之後。	https://news.google.com/rss/articles/CBMingFBVV95cUxQWkRjYTMtTGNjc3lLOGY2ODFPQlpYNk5wNlBZSG1SNV9keWlBSTRzbHRScm16VzNuSGljQUFkZVBiZmY3MDYtUU51bk1MZWRZYXBFbWxBSU1IT1FjYlh2VUxiOExDQy1PTUM0ak5GZkhTTjhSZTE0emFYcmFQV2VJWEtjeEVHM1pTNzVTUVFqZXlPd2hxRW43X0cxMG5tUQ?oc=5	出口禁令
 2026-09-21	中國糧食市場穩定 官員指厄爾尼諾地緣衝突無礙糧食安全	https://www.bastillepost.com/hongkong/article/16814678-中國糧食市場穩定-官員指厄爾尼諾地緣衝突無礙糧	其他糧食
 2026-09-21	中儲糧全國首座萬噸級糧食氣膜倉完成吹膜	https://www.guandian.hk/article/20260921/605312.html	其他糧食
 2026-09-18	全球糧食短缺隱憂升溫！主要出口國減產推升穀物期貨大漲	https://www.4gtv.tv/article/2026091807000004	糧荒短缺
@@ -207,6 +222,7 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-09-04	8月全球糧食價格指數攀升1.9% 創2022年底以來新高	https://hk.finance.yahoo.com/news/8月全球糧食價格指數攀升1-9-創2022年底以來新高-121004367.html	其他糧食
 2026-09-03	聯合國稱厄爾尼諾高峰未至，料將帶來異常高溫和農作物減產	https://cn.wsj.com/articles/聯合國稱厄爾尼諾高峰未至-料將帶來異常高溫和農作物減產-5b5607c4	其他糧食
 2026-09-03	稀土儲量吸引外國投資者馬來西亞考慮解除原礦出口禁令| 國際	https://newtalk.tw/news/view/2026-09-03/1057553	出口禁令
+2026-09-03	稀土儲量吸引外國投資者 馬來西亞考慮解除原礦出口禁令 | Newtalk	https://news.google.com/rss/articles/CBMiVkFVX3lxTE45LV9mSUdJeE9DNHJhZEhwU0xrcF9GZUVFc2ZCMFR4WEp6bDdYeWZVczQ0ejJDUTdBOXRHdWpwdVJGMDF2TGpLd055NjRpTlg3SnFnVUFB?oc=5	出口禁令
 2026-09-03	稀土儲量吸引外國投資者 馬來西亞考慮解除原礦出口禁令	https://tw.news.yahoo.com/%E7%A8%80%E5%9C%9F%E5%84%B2%E9%87%8F%E5%90%B8%E5%BC%95%E5%A4%96%E5%9C%8B%E6%8A%95%E8%B3%87%E8%80%85-%E9%A6%AC%E4%BE%86%E8%A5%BF%E4%BA%9E%E8%80%83%E6%85%AE%E8%A7%A3%E9%99%A4%E5%8E%9F%E7%A4%A6%E5%87%BA%E5%8F%A3%E7%A6%81%E4%BB%A4-040130618.html	出口禁令
 2026-09-03	強聖嬰發威 聯合國：全球糧食危機逼近	https://tw.news.yahoo.com/強聖嬰發威-聯合國-全球糧食危機逼近-223625245.html	糧荒短缺
 2026-09-02	黑海商運安全受矚 土耳其總統Tayyip Erdogan籲建常設機制防糧食危機 | 民視新聞網	https://today.line.me/tw/v3/article/7NvvNYQ	糧荒短缺
@@ -239,6 +255,7 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-08-26	行業剖析：糧食危機催生農業新契機	https://orientaldaily.on.cc/content/%E7%94%A2%E7%B6%93/odn-20260826-0826_00210_062/%E8%A1%8C%E6%A5%AD%E5%89%96%E6%9E%90%EF%BC%9A%E7%B3%A7%E9%A3%9F%E5%8D%B1%E6%A9%9F%E5%82%AC%E7%94%9F%E8%BE%B2%E6%A5%AD%E6%96%B0%E5%A5%91%E6%A9%9F	糧荒短缺
 2026-08-26	糧食危機真非危言聳聽？CBOT小麥週三狂飆逾6% 觸發漲停	https://news.futunn.com/hk/post/78325855/is-the-food-crisis-more-than-just-alarmism-cbot-wheat	糧荒短缺
 2026-08-26	勝利證券：糧食危機催生農業新契機	https://hk.on.cc/hk/bkn/cnt/finance/20260826/bkn-20260826060008931-0826_00842_001.html	糧荒短缺
+2026-08-26	全球糧食危機警報拉響：供需缺口創二十年之最，超強聖嬰現象機率逾九成	https://news.google.com/rss/articles/CBMiekFVX3lxTE9HOUgyVGhRUjhHOF9DQVpKTlRrRE8yb3F6WmplWExfNFdSTnd2dGFzSGNVcTYxSWoxbEZwRE1jUjJ3amZFaDVfcWZOdllMZW55dWk4YlpHcExidzdXaTBnY0h1VkNIaFViNldJX3NJQVVjSXI5b2NydXZB?oc=5	糧荒短缺
 2026-08-25	調查：逾86%家辦配置可持續投資糧食農業成最受關注主題- 財經	https://www.wenweipo.com/a/202608/25/AP6a8d268ae4b0c1e50026288e.html	其他糧食
 2026-08-25	美國農業寒冬？摩根大通警告或爆全球糧食危機 通脹壓力轉嫁買家	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60383595/%E7%BE%8E%E5%9C%8B%E8%BE%B2%E6%A5%AD%E5%AF%92%E5%86%AC-%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%E8%AD%A6%E5%91%8A%E6%88%96%E7%88%86%E5%85%A8%E7%90%83%E7%B3%A7%E9%A3%9F%E5%8D%B1%E6%A9%9F-%E9%80%9A%E8%84%B9%E5%A3%93%E5%8A%9B%E8%BD%89%E5%AB%81%E8%B2%B7%E5%AE%B6	糧荒短缺
 2026-08-25	環境及生態局局長在杭州出席亞太經合組織糧食安全部長級會議（附圖）	https://www.info.gov.hk/gia/general/202608/25/P2026082500462.htm	其他糧食
@@ -308,6 +325,8 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-08-03	中大揭固氮細菌可自製肥料 減少農作物依賴化肥	https://hk.on.cc/hk/bkn/cnt/news/20260803/bkn-20260803010050084-0803_00822_001.html	其他糧食
 2026-08-01	糧食危機丨俄烏互襲糧食出口樞紐 烏克蘭考慮替代路線	https://m.hkej.com/landing/mobarticle2/id/4471483/糧食危機丨俄烏互襲糧食出口樞紐 烏克蘭考慮替代路線	其他糧食
 2026-07-31	野火、高溫與乾旱三重夾擊！災害重創農作物生產歐洲面臨糧食危機- 國際新聞- PChome Online 新聞	https://news.pchome.com.tw/internation/crwant/20260731/index-78547942251560316011.html	其他糧食
+2026-07-31	野火、高溫與乾旱三重夾擊！災害重創農作物生產 歐洲面臨糧食危機 | CTWANT	https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Rb0d6OXRpaG5tMkdWcmFXdTdXWlgwYm8xdUpDUmd4LUo5ajZIOWM1ZHV0VU5jNVJqcE5jdThDZ3NndXVZUWZSZ2kwWDF2TzZ5aHF0UnpR?oc=5	其他糧食
+2026-07-31	野火、高溫與乾旱三重夾擊！災害重創農作物生產 歐洲面臨糧食危機	https://news.google.com/rss/articles/CBMipwNBVV95cUxORmY4TjBrQ0E0RC00OThvSjN1NjhYZEtaRmthTkkwekdzbjF6S3pnSDhrd20wMlhkYWJKSzliS1FGdlBDbGpacDFVV0hxaVp5OGl6TWlYUG05cGZGSGlwdFp5Y001Tk9KU0ZsYTUtQmlVcTVHZEtCMUQ0ekpzSjJLLVNYVUZiYjRxRVpwRFB2TkNmdWZLMXpheXVrYU1SeUVXRUhzeDJoVm5VaDZ3NUVwVnU3TFhuZUNrc3BEcVNrTTFuQ3NseGd4VlVNWWs2ZUZ3VHE1SGxOWVpGYUpBOXkwTGxuVmJpTG13bUlETEYyRjdRWHUzQlVZenY3b0lkNzk4RU44MTU4NjIzWDVGQlBrUXhXZ2NlNTJid0RYQ0xMaDdoUXVSNHE3UEt6VFZTeHhRVDM0dGduNlZ5OE43ekhmTmlycmxLYkRSOFFKd21mV2dDcXZoLU1hRzZXaDYxdEtCSUUzeGs5Y09BWEZmaUE1ZzI0Zjlsd2VBVzR5REFLeWxOelBuVlFTYUZkZWpBOTFrcVZMR19sRXdqOGRJU0ZxaXBwdWl4Z1E?oc=5	其他糧食
 2026-07-31	烏軍襲擊黑海航運 俄糧食組織警告：恐引爆全球糧食危機 | 民視新聞網	https://today.line.me/tw/v3/article/yz8QkYE	其他糧食
 2026-07-31	整合援助服務 羅偉擬設糧食保障辦公室	https://www.singtaousa.com/2026/07/31/news/usa/food-security-office-coordination/	其他糧食
 2026-07-31	俄羅斯延長燃料出口禁令至2027年1月	https://www.bastillepost.com/hongkong/article/16478589-%E4%BF%84%E7%BE%85%E6%96%AF%E5%BB%B6%E9%95%B7%E7%87%83%E6%96%99%E5%87%BA%E5%8F%A3%E7%A6%81%E4%BB%A4%E8%87%B32027%E5%B9%B41%E6%9C%88	出口禁令
@@ -336,7 +355,6 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-07-23	同業質疑月之暗面「技術蒸餾」 美國指其違反出口禁令BIS展開調查(10:49) - 20260723 - 即時財經新聞	https://finance.mingpao.com/fin/instantf/20260723/1784775322036/%E5%90%8C%E6%A5%AD%E8%B3%AA%E7%96%91%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%8C%E6%8A%80%E8%A1%93%E8%92%B8%E9%A4%BE%E3%80%8D-%E7%BE%8E%E5%9C%8B%E6%8C%87%E5%85%B6%E9%81%95%E5%8F%8D%E5%87%BA%E5%8F%A3%E7%A6%81%E4%BB%A4-bis%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5	出口禁令
 2026-07-22	日本糧食自給率僅38% 日圓貶值引爆「食品通膨」	https://news.tvbs.com.tw/world/3264901?from=world_content_pack	其他糧食
 2026-07-22	多瑙河水位急降威脅塞爾維亞糧食出口	https://www.bastillepost.com/hongkong/article/16414507-多瑙河水位急降威脅塞爾維亞糧食出口	其他糧食
-2026-07-21	海外研選 | ING：強厄爾尼諾未必引發全球糧食危機 亞太或成最大風險區	https://news.futunn.com/hk/post/76357107/overseas-research-selection-ing-a-strong-el-ni-o-may?futusource=news_newspage_recommend	糧荒短缺
 2026-07-20	輝藥農業助印尼糧食安全：縮短生長週期、產量激增106.8% - 生活新聞 - PChome Online 新聞	https://news.pchome.com.tw/living/cna/20260720/index-17845294139105318009.html	其他糧食
 2026-07-20	歐盟項目推進喀麥隆糧食安全	https://www.rfi.fr/tw/非洲/20260720-rfi法廣-尼古拉-非洲-歐盟項目推進喀麥隆糧食安全	其他糧食
 2026-07-20	俄羅斯襲擊黑海糧食貨輪5人亡 烏克蘭斥擾亂糧食供應	https://www.881903.com/news/international/2641013	其他糧食
@@ -418,6 +436,7 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-06-18	全球援助資金緊縮 報告：逾3億人陷糧食不安全危機	https://turnnewsapp.com/livenews/life/20260618002971-260405	其他糧食
 2026-06-16	美政府管制Anthropic AI模型引反彈 業者籲撤銷出口禁令	https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%94%BF%E5%BA%9C%E7%AE%A1%E5%88%B6anthropic-ai%E6%A8%A1%E5%9E%8B%E5%BC%95%E5%8F%8D%E5%BD%88-%E6%A5%AD%E8%80%85%E7%B1%B2%E6%92%A4%E9%8A%B7%E5%87%BA%E5%8F%A3%E7%A6%81%E4%BB%A4-040338762.html	出口禁令
 2026-06-16	科技時空 - 特朗普又一次搬起石頭砸自己的腳？ Anthropic出口禁令或可刺激全球市場對中國AI的需求	https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E7%A7%91%E6%8A%80%E6%99%82%E7%A9%BA/20260616-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E4%B8%80%E6%AC%A1%E6%90%AC%E8%B5%B7%E7%9F%B3%E9%A0%AD%E7%A0%B8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%85%B3-anthropic%E5%87%BA%E5%8F%A3%E7%A6%81%E4%BB%A4%E6%88%96%E5%8F%AF%E5%88%BA%E6%BF%80%E5%85%A8%E7%90%83%E5%B8%82%E5%A0%B4%E5%B0%8D%E4%B8%AD%E5%9C%8Bai%E7%9A%84%E9%9C%80%E6%B1%82	出口禁令
+2026-06-11	微生物蛋白成糧食危機解方 商業化仍面臨技術與法規挑戰	https://news.google.com/rss/articles/CBMixwJBVV95cUxPZmhWQS0wSWtEaVJFTEdfN3dJci10U0czNFBWZVpkM3JXNmd3WnJ1anEzdDVLU2lmam9LNks5RExkaGVkYkw3bUpLdXM4MlE4T3ZGbXByNmhLMUp0WS1jbndiVzd3ZFNRU01LZFJzOU5US2hJZUd2VFFqTXNEcmRKNkRPM2p0YllBR1dtNHl1T3k2MnYtSHBxVk9mbzZUMXhDMmdqLVp3eWFmdmFOMk41OG50RE1WcHNrQlpoNHBOTVcyYkREZ2kzclF1ZlVGNUYzLVVteW9zRHRKQWVRbDEyLU5Wa3ExYWlmanRYVE9vb1JfWk9qSzNYMnBpaEl4eFBfRGNMamFQMFM3YjRIc3RzMENHaXQ2amMtNTYxbmNOLXBZNmVfalVXb0MxeXNWS3FUcGJ2UkxZMU81NEdrMHdaTDU4cEozcjQ?oc=5	糧荒短缺
 2026-06-08	生物燃料隨油價飆升恐推升全球糧食危機| 產業綜合| 產經	https://udn.com/news/story/7241/9552604	糧荒短缺
 2026-06-02	2026年全國糧食和物資儲備科技活動周在湖北啟動--湖北頻道--人民網	http://hb.people.com.cn/BIG5/n2/2026/0602/c194063-41598694.html	其他糧食
 2026-06-01	加拿大貧窮評級微升至D+ 四分之一人口面臨糧食不安全	https://www.singtao.ca/7521635/2026-06-01/news-加拿大貧窮評級微升至D+ 四分之一人口面臨糧食不安全/	其他糧食
@@ -508,7 +527,6 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2026-02-20	屢違規阻街旺角兩鮮糧食店釘牌14天 - 香港 - 香港文匯網	https://www.wenweipo.com/a/202602/20/AP69977143e4b04d7d56d44288.html	其他糧食
 2026-02-11	白米傳愛迎新春 南區分署糧食救助照顧南部弱勢家庭	https://taiwanreports.com/archives/968366	其他糧食
 2026-02-01	北韓糧荒	https://www.christianweekly.net/2026/ta2045609.html	歉收饑荒
-2026-01-06	農業部估香蕉價格逐步回穩 短期減產不會進口打擊蕉農	https://www.msn.com/zh-tw/news/living/農業部估香蕉價格逐步回穩-短期減產不會進口打擊蕉農/ar-AA1ALOFJ?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	歉收饑荒
 2025-11-17	「熱通脹」導致食品價格急升	https://hk.news.yahoo.com/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E7%A7%81%E5%AE%B6%E8%BB%8A%E8%88%87%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E-%E5%A5%B3%E5%8F%B8%E6%A9%9F%E9%A0%B8%E7%97%9B%E9%80%81%E9%99%A2-052632424.html	價格暴漲通脹
 2025-10-28	美國聯邦政府停擺糧食援助將暫停 航空交通亦受影響	https://news.tvb.com/en/801781-美國聯邦政府停擺糧食援助將暫停航空交通亦受影響	其他糧食
 2025-10-23	政府停擺 9州示警：糧食券11月恐發不出來	https://www.worldjournal.com/wj/story/121172/9091269	其他糧食
@@ -590,4 +608,5 @@ var DATA_FOOD = `2026-10-15	通脹再拉警報 9月CPI飆至3.7% 油價暴漲9.1
 2020-07-09	廣西蝗蟲災情慘！中國將爆糧食危機 農民無奈喊：準備搶糧	https://www.setn.com/news/776824	糧荒短缺
 2020-02-28	中南海拉警報！蝗蟲大軍侵全球 一天吃掉3.5萬人份糧食	https://www.setn.com/news/698156	其他糧食
 2016-04-16	熊本強震／領2飯糰排隊2小時當地台僑：糧食開始短缺| 國際	https://www.setn.com/news/138797	糧荒短缺
-2016-04-01	救飢餓！聯合國世界糧食計劃署羅馬總部揭密| 節目	https://www.setn.com/news/134707	其他糧食`;
+2016-04-01	救飢餓！聯合國世界糧食計劃署羅馬總部揭密| 節目	https://www.setn.com/news/134707	其他糧食
+`;
