@@ -1,4 +1,4 @@
-// 天象 | 由 build_news_js.py 生成 | 共 104 條
+// 天象 | 由 build_news_js.py 生成 | 共 106 條
 var DATA_CELESTIAL = `
 2026-10-15	《全境封鎖 2》血月高照活動 Twitch 掉寶	https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDc1eXNIeThGaEtUWTkwcnFkWUJxTTY4ZlVELVpIbDdqdTR1aGwzT2R3RDBHX1ItSXlHb3ktd1FlU1VMeTZqQlNmMkwzU1ViY3BrVWtXUnlTQ180ejV1RlItclR6dXpkMWFRQXM5N1liejJjNHYzSXRtSTRYcmk3aXcyMDdmUkxZVS0ybTJhOHBTcW1UMUc0VUtYSFdBcWVtcWdnUmVXWVRaQQ?oc=5	血月日蝕
 2026-10-14	血月周……🤣🤣🤣🤣🤣🤣🤣🤣🫣🫣🫣🫣🫣🫣🫣🎉🎉🎉🎉🎉🎉🎉🍷🍷🍷🍷🍷🍷...	https://news.google.com/rss/articles/CBMif0FVX3lxTE55OWFRMmowcXgyeUtoTm9LXzhGZUJUaDMzdXhUX3ZLTmZZRndUNnhtRy1kS0NMeFhhdXNvVFhUZkt5TUh6XzNwMmtUbFFzUlJRc3ppQmJLUlVkblpIQk9wV1ZmNEZlRDJWVlFxdkdJN1RqeVNuZ3I3RXhpX3NCQmM?oc=5	血月日蝕
@@ -12,6 +12,7 @@ var DATA_CELESTIAL = `
 2026-09-24	《奧丁：神叛》血月征服者活動登場 中秋限定光明召喚好禮限時送	https://news.pchome.com.tw/game/gamer/20260924/index-79024108231278203104.html	血月日蝕
 2026-09-24	《全境封鎖 2》血月上行活動 Twitch 掉寶	https://www.ubisoft.com/zh-tw/game/the-division/news-updates/1SS0jUDOA2Whsj4RCVBofK/2-twitch	血月日蝕
 2026-09-16	熱血奉獻愛心 四川梓潼「白衣天使」獻血月活動傳遞社會真情	https://hkcd.com.hk/hkcdweb/content_p/2026/09/16/content_202626.html	血月日蝕
+2026-08-27	紐約本周四晚9時起將迎來近全食血月	https://news.google.com/rss/articles/CBMiYkFVX3lxTE16NUxDZ3E1WHk1eUFnWEVMOVdtYVUxdEdaSkJ2ODVfNWNTQlpwN24tQ0dwUUJVRENxbkpXYkxjbVpDYzNFWFl0NWlldjh0WjdQXzlBZFg4aEJGa0x3UkNJUVp30gFnQVVfeXFMTUtvOFpTQkFiOXVqb3J2YVJXcjk5Q3NCZkd1T3YyNGRMQTA0MkswWEdGaFRQV2FUQVJDc09wNXJCdzRudzBscFhtX3lHcEF2cENzUlVaRG1EaC1FOGlyNHVJbHktVm15QQ?oc=5	血月日蝕
 2026-08-27	極深月偏食「準血月」登場全美觀賞指南| 大紀元	https://www.epochtimes.com/b5/26/8/27/n14838074.htm	血月日蝕
 2026-08-27	「近血月」偏食今晚登場 全美觀測指南與最佳時間	https://www.singtaousa.com/2026/08/27/news/usa/near-blood-moon-partial-eclipse-debuts-tonight-national-observation-guide-and-best-time/	血月日蝕
 2026-08-26	紐約本周將迎來近乎全食的血月	https://www.worldjournal.com/wj/story/121470/9716617	血月日蝕
@@ -67,6 +68,7 @@ var DATA_CELESTIAL = `
 2026-02-26	準備好你的願望清單了嗎？3 月 3 日元宵夜不僅有湯圓，還有一場「血月」浪漫奇觀	https://popbee.com/wellness/astrology/blood-moon-on-3-3-2026	血月日蝕
 2026-02-26	元宵夜將現赤紅奇景「血月」：凶兆傳說外，藏著日月相惜的溫柔神話	https://www.xinmedia.com/article/305161	血月日蝕
 2026-02-26	今年元宵「血月」月全蝕 唯當天本港多雲有雨	https://news.google.com/rss/articles/CBMi-gJBVV95cUxNVDNUWTJPQVhJdTVqTUJ5NmhnT1hxcWxqX2NQRU9CelRKck9Gb1hpUTFyUkhORU9LYUNBWjNKUF9BTmJFZGdZYVNvYm1Vazdydy11cDBhM0RCNDFvcDNRNkZvRTBIbS04RXlzczk3ZHktcTdVcVM2NE53WW9WZ0NNRDlFQXZIaXFrNEhMMzRvSFFIRVljYXFIV0JtOENRckdxVWVxUVYzVkZYMjBHUGFDUThJYk1yblhxa2tYU3NNOG44azF6dXcyNnJQWnpXUTdESjhia0FhZjNCakxhekw4VFE3Z1hpOG5RcFR5M20xNVBjdzNSMzlYck8wSDJiNG1JNVNDMkdzX3VGdHY5UUo3ejJCZ2NFa3cyYXB6dnk3bzFxZkdQZmtYUFlpV1NLZFB0VDRlWGlETEFEajdoNVprOWMyd2pKN28wand0T20tbnQ0d0pleU9jYllNcDlYblNHWm1MMEpiS2xvbklZM05lS3pORWNqUndJWFE?oc=5	血月日蝕
+2026-02-25	本世紀僅3次！元宵節「血月」降臨命理師揭15大禁忌 2類人別太晚回家	https://news.google.com/rss/articles/CBMilgNBVV95cUxPTU5sWGk0c0NaR3RRODFMZk1NSUdRZXFrVnlKY0ZwRVFRNE8tSW04VWNySmtOV2FSSTd0QTltWEcyZFVNQm83cy1MYUF1anJxdWFHcEEtZTJvSEhVNXh1OGhlWmdfV3BFRUN1dWdocUViOTcyc3JFVE9xRjVXaXl5ek9VdHNFX2oxbGl6Q05KUUhoNF9FeUpWc3BNSHRjVVhEUDFBdkdhbV9XZmRnRkNYVHktN1NDQUhjaEhibVcyclFUeFVjYUo1ZldTNjdHOS1mYmhYU2s3LS0taERqUEJMcTBRNVNZUzhzWEQyOXlUWWR1cGVGSklNbEp5XzE2ZVhxSWxTek1Kbk4zSVd0bkhzX3g3T1JvT1VpUWJMcjJkQTRqMnpMM0tFZW1ZeElMRlZxUU9XVW5RQ1FHMDdKRjNFS0o3Z0I5ajdGdFdoT284VWRwaWNIWnZBOFR2bXVFY3plM3hXWmJob1dHaWp5OFpLQXh6U1ItRElhdkZZME9EdDMxeVRkUmVyZElCMkRNc0t4bksyWHZB?oc=5	血月日蝕
 2026-02-24	天文台料本周後期起有雨 下周二3.3「元宵血月」恐無緣看到	https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60324571/%E5%A4%A9%E6%96%87%E5%8F%B0%E6%96%99%E6%9C%AC%E5%91%A8%E5%BE%8C%E6%9C%9F%E8%B5%B7%E6%9C%89%E9%9B%A8-%E4%B8%8B%E5%91%A8%E4%BA%8C3-3-%E5%85%83%E5%AE%B5%E8%A1%80%E6%9C%88-%E6%81%90%E7%84%A1%E7%B7%A3%E7%9C%8B%E5%88%B0	血月日蝕
 2026-02-24	今年唯一血月將在正月十五降臨	https://www.epochtimes.com/b5/26/2/23/n14704565.htm	血月日蝕
 2026-02-23	3 月 3 日「血月」即將登場！紅色月亮真的代表厄運來襲嗎？天文現象解析一次看懂	https://www.gq.com.tw/article/3-%E6%9C%88-3-%E6%97%A5%E8%A1%80%E6%9C%88%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4	血月日蝕
