@@ -1,4 +1,4 @@
-// 第四次工業革命 | 由 build_news_js.py 生成 | 共 980 條
+// 第四次工業革命 | 由 build_news_js.py 生成 | 共 982 條
 var DATA_TECH = `
 2026-10-16	騙來的錢也守不住！詐騙集團反遭駭客洗劫，逾 60 枚比特幣、近 500 萬美元被偷光	https://news.google.com/rss/articles/CBMie0FVX3lxTE5XY1NLemc2SjVjSjJHRFVjZmwxN2tFc3Bqd01Eb0FWalhUNTBFbl9fd3pKNmVuNlY0NEJZUjNNNlRnNC1CeVVGOHpQNUp5UFlRejQxYjlhdWpZS052a215R0xIaU0yeGdWeVd0VlhMSTkyZkZVa3MyTVIzWQ?oc=5	駭客網攻
 2026-10-16	螞蟻國際完成認購華夏人民幣數字貨幣基金	https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEpCckpIbGEzbll0ak93U0tpTVNxbC1NUTJuaHllRDlrTFNZWkRHZndJRVNVaHlENGtkWmcyazhZYVZfVU4zZUcxUWt2OTYtM3BsenhOSVhZSk51bmxqM2FMQW5uNE9lSzhiZWRhQkcyUWYyNWpaSVJ1SHlsekJhRmJ0MEhFODdFVEhHbmw0WQ?oc=5	CBDC數字貨幣
@@ -301,6 +301,7 @@ var DATA_TECH = `
 2026-09-15	全球首個人工智能+腦機接口標準在我國發布	https://news.google.com/rss/articles/CBMidEFVX3lxTFBzU3dvbTIxTVpqdXVBdWhrb3NOdDBUZ0NsV3V2emNWbTRGZ3NQYlR0ZVk4ZjJ1VllLV2tsa2ZRN3VFWE1vWWN1UkZZbDZaOTFBdXQ2cHMtT1o0clRnbVdvUk5OTkFmelROOUVxa1JFOGd0ZVJs?oc=5	未分類
 2026-09-15	全球首個人工智能+腦機接口標准發布	https://news.google.com/rss/articles/CBMicEFVX3lxTE9OTWdULTlyNFhJNVk1WkxEMHEyYm5tZVk3c3k1Wi10a0lKaWlJWWRVdTZXRW5BYkRFRzhaMERjaDVWTUxTZFNKRzA2ZjZjcm1XSXVnZHo2QVZHZGVUOThxQlN6U0JrRmVvQ3VTdlJOTW0?oc=5	未分類
 2026-09-15	中國發布全球首個AI+腦機接口標準統一腦電數據集「標尺」 鋪路國產醫療器械出海- 中國	https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YTdGeE9ybEdtdGF4TDJFaDJYUXFfLXpzU1dUTEVyVUwtNUdNR09yT3hjamFHdzN5andvWjZ2NTJHWVA0T0gzdEdrXzNnejF6T3VfS0FQa2pCVFRWVmRaX0ViOWVEeFoxS3hHQXF2N3V0ek95?oc=5	未分類
+2026-09-15	中國發布全球首個AI+腦機接口標準- 內地	https://news.google.com/rss/articles/CBMid0FVX3lxTE5BaE9BeUhwb3BwNE1mVlpCZG9XbmFUVVRFQlpoa2J6dlVWc1dBcVNiR1ZhWkUwUUxjZTVaVGd6eDRIQm9JWFBQZzRIeUlXeEFIQXM5ZDBPaFRhY2JGQ2g1czZSMUJtNDBhZ3FEVnpSdGFuMHI1Nmdv?oc=5	未分類
 2026-09-15	【即時新聞】最新！CrowdStrike(CRWD)警告AI資安威脅失控，呼籲業界加強防禦駭客攻擊	https://cmnews.com.tw/article/newsyoudeservetoknow-df8fd730-b0d9-11f1-9b6f-7f966a04a7ad	駭客網攻
 2026-09-15	Twitch 驚傳 4 萬名實況主個資遭竊取兜售！資安媒體研判並非遭駭 疑似遭爬蟲與社交工程收集	https://news.para-daily.com/2026/09/15/twitch-4k-streamers-data-leak/	資料外洩
 2026-09-15	CenterPoint Energy 在向美國證券交易委員會提交的文件中披露了客戶數據泄露事件	https://news.google.com/rss/articles/CBMid0FVX3lxTE5PMkN3dHlob3VPcEhwYU9mNWRfSENJemJ0WTlIVlEtN2xyTlp2X3NwR0lXYmpxWktUSHZjTEJxSmlIT1pWV1lnMUJjUWgyYXNCYjcwMFR3QVpXVzJDWGxObnRfUWRGN3NHNUZicFhYVFpJZ0xIUHdF?oc=5	未分類
@@ -338,6 +339,7 @@ var DATA_TECH = `
 2026-09-08	逾4000台灣用戶受害！南韓醫美平台遭駭 22萬人個資外洩 療程、診所、私照全曝光	https://www.i-meihua.com/Article/Detail/55691	資料外洩
 2026-09-08	加密貨幣頻頻遭駭客攻擊最新3.2億美元失竊案揭示去中心化 ...	https://hk.finance.yahoo.com/news/加密貨幣頻頻遭駭客攻擊-最新3-2億美元失竊案揭示去中心化的代價-071739239.html	駭客網攻
 2026-09-08	Bugcrowd執行長警告：AI代理將成駭客下一個主要攻擊目標	https://finance.biggo.com.tw/news/dae3cc5c-f19f-4941-a3b1-fcb5d2dfec18	駭客網攻
+2026-09-07	腦機接口，前景有多廣？（深度觀察·未來產業裡的向“新”力）	https://news.google.com/rss/articles/CBMicEFVX3lxTFBBWnEyMi16QWI4b0Q1OFVxU1Z6azZpQzJWNGU4NVVadVFwTm9aV3NBMFlYa19QWDZBUzAya0FsVWNTSHRXcDhxZFVtdVNPTzFoTms1bTBYMW1CRHN3U1ZxcXlhSTlzblhTUkpfWnhzdXk?oc=5	未分類
 2026-09-07	港產毛孩健康App 糞「辨」疾病風險姊弟檔研發 AI分析準確率93% 寵物無法和人類說話，飼主須密切留意毛孩的細微變化，才能確保牠們及時求醫。本地寵物科技初創Petalife，核心產品是一套人工智能（AI）寵物健康監測平台，...	https://www.hkej.com/dailynews/ceoai/article/4507455/%E6%B8%AF%E7%94%A2%E6%AF%9B%E5%AD%A9%E5%81%A5%E5%BA%B7App+%E7%B3%9E%E3%80%8C%E8%BE%A8%E3%80%8D%E7%96%BE%E7%97%85%E9%A2%A8%E9%9A%AA	未分類
 2026-09-07	港產毛孩健康App 糞「辨」疾病風險 姊弟檔研發 AI分析準確率93% 灣區創新科技 - 專題 寵物無法和人類說話，飼主須密切留意毛孩的細微變化，才能確保牠們及時求醫。本地寵物科技初創Petalife，核心產品是一套人工智能（AI）寵物健康監測平台，...	https://www.hkej.com/features/article/%E7%81%A3%E5%8D%80%E5%89%B5%E6%96%B0%E7%A7%91%E6%8A%80/137820766/%E6%B8%AF%E7%94%A2%E6%AF%9B%E5%AD%A9%E5%81%A5%E5%BA%B7App+%E7%B3%9E%E3%80%8C%E8%BE%A8%E3%80%8D%E7%96%BE%E7%97%85%E9%A2%A8%E9%9A%AA	未分類
 2026-09-07	OpenAI 10 億補貼前線網絡安全專家改寫關鍵基建保安成本 ...	https://unwire.pro/2026/09/07/openai-1-billion-daybreak-cybersecurity-funding-critical-infrastructure/ai/	其他資安
