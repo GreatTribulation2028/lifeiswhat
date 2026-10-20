@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>地震監測｜生死記錄儀</title>
+<style>
+:root{--bg:#0a0e14;--panel:#101722;--line:#22303f;--txt:#d5dde8;--dim:#6b7f93;--acc:#ff6b35;--gold:#d4a953;--mono:Consolas,"Courier New",monospace;--sans:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--txt);font-family:var(--sans);min-height:100vh;line-height:1.7}
+a{color:var(--gold);text-decoration:none}
+.wrap{max-width:1180px;margin:0 auto;padding:16px}
+.top{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+.back{font-family:var(--mono);font-size:13px;color:var(--dim);border:1px solid var(--line);padding:8px 14px;border-radius:4px}
+.back:hover{color:var(--acc);border-color:var(--acc)}
+h1{font-size:clamp(1.4rem,4vw,2rem);color:#fff}
+h1 .en{font-size:.55em;color:var(--dim);font-family:var(--mono);letter-spacing:2px;margin-left:8px}
+.meta{font-family:var(--mono);font-size:12px;color:var(--dim);width:100%}
+
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px;margin:14px 0}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px;text-align:center}
+.stat .n{font-family:var(--mono);font-size:24px;color:var(--acc)}
+.stat .l{font-size:12px;color:var(--dim)}
+
+.bar-row{display:flex;align-items:center;gap:10px;margin:14px 0;flex-wrap:wrap}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chips button{background:rgba(0,0,0,.5);border:1px solid var(--line);color:var(--dim);padding:7px 14px;font-family:var(--mono);font-size:13px;cursor:pointer;border-radius:14px;min-height:44px}
+.chips button.on{background:var(--acc);color:#000;border-color:var(--acc);font-weight:bold}
+.modes{margin-left:auto;display:flex;gap:6px}
+.modes button{background:rgba(0,0,0,.5);border:1px solid var(--gold);color:var(--gold);padding:7px 14px;font-family:var(--mono);font-size:13px;cursor:pointer;border-radius:6px;min-height:44px}
+.modes button.on{background:var(--gold);color:#000;font-weight:bold}
+.search{width:100%;padding:10px 14px;background:rgba(0,0,0,.5);border:1px solid var(--line);color:#fff;font-family:var(--mono);border-radius:6px;font-size:14px;margin:6px 0}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:10px;margin-top:12px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px;position:relative;overflow:hidden}
+.card:hover{border-color:var(--acc)}
+.mag{position:absolute;top:0;left:0;font-family:var(--mono);font-weight:bold;font-size:20px;padding:8px 12px;color:#fff}
+.mag small{font-size:11px;opacity:.8}
+.m7{background:linear-gradient(135deg,#c1121f,#780000)}
+.m6{background:linear-gradient(135deg,#e94560,#8b1a2b)}
+.m5{background:linear-gradient(135deg,#ff6b35,#9a3b12)}
+.m4{background:linear-gradient(135deg,#d4a953,#7a5b1e)}
+.m2{background:linear-gradient(135deg,#3a5a78,#1c2a38)}
+.card .place{margin:6px 0 4px 76px;font-size:15px;color:#fff;min-height:44px}
+.card .dt{margin-left:76px;font-family:var(--mono);font-size:12px;color:var(--dim)}
+.card .info{margin:10px 0 8px;font-family:var(--mono);font-size:12px;color:var(--dim)}
+.card .acts{display:flex;gap:6px}
+.card .acts a{flex:1;text-align:center;font-size:12px;font-family:var(--mono);border:1px solid var(--line);border-radius:5px;padding:6px 4px;color:var(--dim);min-height:32px}
+.card .acts a:hover{color:var(--acc);border-color:var(--acc)}
+
+table{width:100%;border-collapse:collapse;margin-top:12px;font-size:13.5px}
+th{font-family:var(--mono);font-size:12px;color:var(--gold);text-align:left;padding:8px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg)}
+td{padding:7px 8px;border-bottom:1px solid rgba(34,48,63,.5)}
+td.fm{font-family:var(--mono);font-weight:bold}
+tr:hover td{background:rgba(255,255,255,.03)}
+
+.more{display:block;width:100%;margin:16px 0;padding:13px;background:#1a2432;border:1px solid #2a3a4a;color:#8ab4f8;font-size:14px;cursor:pointer;border-radius:8px;font-family:var(--mono)}
+.more:hover{border-color:#3a5a7a;color:#c8e0ff}
+.foot{text-align:center;color:var(--dim);font-size:11px;font-family:var(--mono);padding:20px 0 40px}
+#eqtable{display:none}
+body.table-mode #eqgrid{display:none}
+body.table-mode #eqtable{display:block}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <a class="back" href="index.html">← 生死記錄儀首頁</a>
+    <h1>🌋 地震監測<span class="en">EARTHQUAKE MONITOR · USGS</span></h1>
+    <div class="meta" id="meta">載入中…</div>
+  </div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="bar-row">
+    <div class="chips" id="magChips">
+      <button data-m="0" class="on">全部</button>
+      <button data-m="4.5">M4.5+</button>
+      <button data-m="6">M6+</button>
+      <button data-m="7">M7+</button>
+      <button data-m="8">M8+</button>
+    </div>
+    <div class="modes">
+      <button id="modeCard" class="on" onclick="setMode(false)">▦ 卡片</button>
+      <button id="modeTable" onclick="setMode(true)">☰ 表格</button>
+    </div>
+  </div>
+  <input class="search" id="q" placeholder="🔍 搜地點關鍵字（如 Japan、Taiwan、Chile…）" oninput="render()">
+
+  <div id="eqgrid" class="grid"></div>
+  <div id="eqtable"></div>
+  <button class="more" id="moreBtn" onclick="more()"></button>
+  <div class="foot">數據來源：USGS Earthquake Hazards Program（all_month feed）・生死記錄儀每日自動更新</div>
+</div>
+
+<script src="data_eq.js"></script>
+<script>
+var EV=(window.DATA_EQ&&DATA_EQ.events)||[];
+var minMag=0,q='',shown=100;
+document.getElementById('meta').textContent='共 '+EV.length.toLocaleString()+' 條（M2.5+）・最後更新：'+(window.DATA_EQ?DATA_EQ.generated:'—');
+
+/* 統計 */
+(function(){
+  var b={'M8+':0,'M7+':0,'M6+':0,'M4.5+':0,'M2.5+':0};
+  EV.forEach(function(e){if(e.mag>=8)b['M8+']++;if(e.mag>=7)b['M7+']++;if(e.mag>=6)b['M6+']++;if(e.mag>=4.5)b['M4.5+']++;if(e.mag>=2.5)b['M2.5+']++;});
+  document.getElementById('stats').innerHTML=Object.keys(b).map(function(k){
+    return '<div class="stat"><div class="n">'+b[k].toLocaleString()+'</div><div class="l">'+k+'</div></div>';
+  }).join('');
+})();
+
+function magClass(m){return m>=7?'m7':m>=6?'m6':m>=5?'m5':m>=4.5?'m4':'m2';}
+function esc(s){var d=document.createElement('div');d.textContent=s;return d.innerHTML;}
+function acts(e){
+  var usgs='https://earthquake.usgs.gov/earthquakes/eventpage/'+e.id;
+  var map='https://www.google.com/maps?q='+e.lat+','+e.lon;
+  var news='https://news.google.com/search?q='+encodeURIComponent('earthquake '+e.place);
+  return '<a href="'+usgs+'" target="_blank" rel="noopener">官方資料</a>'+
+         '<a href="'+map+'" target="_blank" rel="noopener">🗺 地圖</a>'+
+         '<a href="'+news+'" target="_blank" rel="noopener">📰 查看新聞</a>';
+}
+function filtered(){
+  return EV.filter(function(e){
+    if(e.mag<minMag)return false;
+    if(q&&e.place.toLowerCase().indexOf(q)<0)return false;
+    return true;
+  });
+}
+function render(){
+  q=document.getElementById('q').value.trim().toLowerCase();
+  var v=filtered(),end=Math.min(shown,v.length);
+  var g=document.getElementById('eqgrid');
+  var h='';
+  for(var i=0;i<end;i++){var e=v[i];
+    h+='<div class="card"><div class="mag '+magClass(e.mag)+'">M'+e.mag.toFixed(1)+' <small>'+e.mag.toFixed(1)+'</small></div>'+
+       '<div class="place">'+esc(e.place)+'</div>'+
+       '<div class="dt">'+e.t+' UTC</div>'+
+       '<div class="info">深度 '+e.depth+' km ・ '+e.lat+', '+e.lon+'</div>'+
+       '<div class="acts">'+acts(e)+'</div></div>';
+  }
+  g.innerHTML=h||'<div style="color:var(--dim);padding:30px;text-align:center">— 冇符合條件嘅記錄 —</div>';
+  /* 表格 */
+  var t='<table><tr><th>震級</th><th>時間 (UTC)</th><th>地點</th><th>深度</th><th>座標</th><th>連結</th></tr>';
+  for(var i=0;i<end;i++){var e=v[i];
+    t+='<tr><td class="fm" style="color:'+(e.mag>=7?'#ff4d5e':e.mag>=6?'#ff6b35':e.mag>=5?'#d4a953':'#8ab4f8')+'">M'+e.mag.toFixed(1)+'</td>'+
+       '<td style="font-family:var(--mono);font-size:12px">'+e.t+'</td><td>'+esc(e.place)+'</td>'+
+       '<td>'+e.depth+' km</td><td style="font-family:var(--mono);font-size:12px">'+e.lat+','+e.lon+'</td>'+
+       '<td style="white-space:nowrap">'+acts(e)+'</td></tr>';
+  }
+  document.getElementById('eqtable').innerHTML=t+'</table>';
+  var mb=document.getElementById('moreBtn');
+  mb.style.display=end<v.length?'block':'none';
+  mb.textContent='載入更多（已顯示 '+end.toLocaleString()+' / '+v.length.toLocaleString()+'）';
+}
+function more(){shown+=200;render();}
+function setMode(t){
+  document.body.className=t?'table-mode':'';
+  document.getElementById('modeCard').className=t?'':'on';
+  document.getElementById('modeTable').className=t?'on':'';
+}
+document.querySelectorAll('#magChips button').forEach(function(b){
+  b.onclick=function(){minMag=parseFloat(b.dataset.m);shown=100;
+    document.querySelectorAll('#magChips button').forEach(function(x){x.classList.toggle('on',x===b)});
+    render();};
+});
+render();
+</script>
+</body>
+</html>
