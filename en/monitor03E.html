@@ -1,0 +1,1661 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>生死記錄儀 V9.0 — VITAL LIFE MONITOR</title>
+<meta property="og:title" content="生死記錄儀 — Death Monitor">
+<meta property="og:description" content="記錄七年大災難中的生死數據">
+<meta property="og:image" content="../og-still-alive.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Jura:wght@400;600;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&family=Creepster&display=swap" rel="stylesheet">
+<!-- 引入 Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+:root{
+--c-bg:#030405;--c-panel:rgba(8,12,18,.95);--c-border:#1a2a3a;
+--c-accent:#00f3ff;--c-fatal:#ff2a2a;--c-crit:#ffae00;--c-acc:#00ff41;
+--c-dim:#6a8a9a;--c-sudden:#ff6b35;--c-soul:#a855f7;--c-hope:#8bffb0;
+--f-mono:'Share Tech Mono',monospace;--f-head:'Orbitron',sans-serif;
+--f-text:'Jura','Noto Sans TC',sans-serif;
+--f-serif:'Noto Serif TC',serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;overflow-x:hidden;background:var(--c-bg);color:#e0e6ed;font-family:var(--f-text)}
+a{color:var(--c-accent);text-decoration:none}
+a:hover{color:#fff;text-shadow:0 0 10px var(--c-accent)}
+/* ===== 隱藏捲軸 ===== */
+html{scrollbar-width:none}
+html::-webkit-scrollbar{display:none}
+
+/* ===== 粒子背景 ===== */
+#particle-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none}
+
+/* ===== 死亡計數器（頂部固定） ===== */
+#death-counter{
+position:fixed;top:0;left:0;right:0;min-height:50px;
+background:linear-gradient(180deg,rgba(20,0,0,.95),rgba(0,0,0,.9));
+border-bottom:1px solid rgba(139,0,0,.5);
+display:flex;align-items:center;justify-content:center;gap:25px;
+z-index:10000;font-family:var(--f-mono);font-size:12px;padding:8px 12px;flex-wrap:wrap;
+}
+.counter-item{display:flex;align-items:center;gap:6px}
+.counter-label{color:#bbb;font-size:14px}
+.counter-value{color:#ff4444;font-size:20px;min-width:55px;text-shadow:0 0 10px rgba(255,68,68,.5)}
+.counter-since{color:#999;font-size:13px}
+.back-to-portal{font-family:var(--f-mono);font-size:11px;color:var(--c-accent);border:1px solid var(--c-accent);padding:5px 10px;border-radius:4px;transition:all .3s}
+.back-to-portal:hover{background:var(--c-accent);color:#000}
+
+/* ===== Header ===== */
+header{
+position:relative;z-index:10;margin-top:70px;
+background:linear-gradient(180deg,rgba(5,8,10,.98),rgba(10,15,20,.95));
+border-bottom:2px solid var(--c-accent);padding:12px 24px;
+display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;
+}
+.brand{font-family:var(--f-head);font-size:clamp(16px,3vw,24px);color:var(--c-accent);text-shadow:0 0 20px rgba(0,243,255,.6),0 0 40px rgba(0,243,255,.3);letter-spacing:2px}
+.brand-subtitle{color:#666;font-size:clamp(10px,1.5vw,13px);margin-left:10px;font-family:var(--f-mono)}
+
+/* ===== ECG ===== */
+#ecg-container{width:clamp(120px,20vw,220px);height:50px;background:rgba(0,0,0,.7);border:1px solid var(--c-fatal);border-radius:6px;overflow:hidden;position:relative;box-shadow:0 0 20px rgba(255,42,42,.3)}
+#ecg-canvas{width:100%;height:100%}
+.ecg-label{position:absolute;top:4px;left:8px;font-family:var(--f-mono);font-size:9px;color:var(--c-fatal);opacity:.8}
+
+/* ===== 哲理橫幅 ===== */
+.wisdom-banner{position:relative;z-index:10;background:linear-gradient(90deg,rgba(20,0,30,.9),rgba(40,0,20,.9),rgba(20,0,30,.9));padding:20px;text-align:center;border-bottom:1px solid rgba(168,85,247,.3)}
+.wisdom-quote{font-size:clamp(14px,2.5vw,20px);line-height:1.8;color:#d4b8e8;font-style:italic;max-width:900px;margin:0 auto;text-shadow:0 0 30px rgba(168,85,247,.5);transition:opacity .6s ease}
+.wisdom-source{margin-top:10px;font-family:var(--f-mono);font-size:12px;color:var(--c-soul);transition:opacity .6s ease}
+
+/* ===== 生命線卡片 ===== */
+.lifeline-section{position:relative;z-index:10;display:grid;grid-template-columns:1fr 1fr;gap:20px;padding:20px;background:rgba(5,10,15,.95);align-items:stretch}
+.lifeline-card{background:var(--c-panel);border:1px solid var(--c-border);border-radius:10px;padding:20px;text-align:center;transition:all .3s}
+.lifeline-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
+.lifeline-card h3{font-family:var(--f-mono);font-size:16px;color:var(--c-accent);margin-bottom:10px}
+.lifeline-card .big-number{font-family:var(--f-head);font-size:clamp(1.8rem,5vw,2.5rem);color:#fff;text-shadow:0 0 30px var(--c-accent)}
+.lifeline-card .unit{font-size:12px;color:#888;margin-top:4px;font-family:var(--f-mono)}
+.
+
+/* ===== 四格區塊 ===== */
+.x{}
+.four-grid{display:none}
+.fg-card{background:var(--c-panel);border:1px solid var(--c-border);border-radius:10px;padding:20px;text-align:center;transition:all .3s}
+.fg-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
+.fg-card .fg-icon{font-size:2.2rem;margin-bottom:10px}
+.fg-card h4{font-family:var(--f-head);font-size:13px;margin-bottom:10px}
+.fg-card p{font-size:14px;color:#ccc;line-height:1.8}
+.fg-card.clickable{cursor:pointer}
+
+/* ===== 生命計算器 + 同齡過濾 ===== */
+.life-tools{position:relative;z-index:10;display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px;padding:20px;background:rgba(5,10,15,.95)}
+.life-card{background:var(--c-panel);border:1px solid var(--c-border);border-radius:10px;padding:20px}
+.life-card h3{font-family:var(--f-mono);font-size:14px;color:var(--c-accent);margin-bottom:15px}
+.life-card input[type=number]{width:80px;padding:8px;background:rgba(0,0,0,.6);border:1px solid var(--c-border);color:#fff;font-family:var(--f-mono);border-radius:4px;text-align:center}
+.life-card input:focus{border-color:var(--c-accent);outline:none}
+.life-stats-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:15px}
+.life-stat-box{background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:12px;text-align:center}
+.life-stat-box .stat-value{font-family:var(--f-head);font-size:1.2rem;color:#fff}
+.life-stat-box .stat-label{font-size:10px;color:#888;margin-top:4px;font-family:var(--f-mono)}
+.life-card .result{font-size:12px;color:#888;margin-top:10px;line-height:1.6}
+/* 隱藏原位貼上區（已移至頁底） */
+.life-tools + .paste-zone{display:none}
+
+/* ===== 貼上區 ===== */
+.paste-zone{position:relative;z-index:10;background:rgba(10,15,20,.95);padding:20px;border-bottom:1px solid var(--c-border)}
+.paste-area{width:100%;height:100px;background:rgba(0,0,0,.6);color:#eee;border:1px solid var(--c-border);font-family:var(--f-mono);font-size:12px;padding:12px;resize:vertical;border-radius:6px}
+.paste-area:focus{border-color:var(--c-accent);outline:none}
+.paste-buttons{margin-top:12px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.btn{background:rgba(0,243,255,.1);border:1px solid var(--c-accent);color:var(--c-accent);padding:10px 20px;font-family:var(--f-head);font-size:12px;cursor:pointer;transition:all .3s;border-radius:4px}
+.btn:hover{background:var(--c-accent);color:#000;box-shadow:0 0 25px var(--c-accent)}
+#json-status{font-family:var(--f-mono);font-size:11px;color:var(--c-crit);margin-left:auto}
+
+/* ===== Main 三欄 ===== */
+main{position:relative;z-index:10;display:grid;grid-template-columns:340px 1fr 340px;gap:10px;padding:10px;min-height:calc(100vh - 200px)}
+
+.panel{background:var(--c-panel);border:1px solid var(--c-border);border-radius:8px;display:flex;flex-direction:column;overflow:hidden;backdrop-filter:blur(10px)}
+.p-head{background:linear-gradient(90deg,rgba(0,0,0,.6),rgba(10,20,30,.6));padding:12px 16px;border-bottom:1px solid var(--c-border);font-family:var(--f-mono);font-size:12px;color:var(--c-accent);display:flex;justify-content:space-between;align-items:center}
+
+/* ===== 搜尋 ===== */
+.filter-row{display:flex;gap:6px;padding:10px 12px;flex-wrap:wrap;background:rgba(0,0,0,.3);align-items:center}
+#search-input,#age-filter,.filter-select{padding:10px 12px;background:rgba(0,0,0,.6);border:1px solid var(--c-border);color:#fff;font-family:var(--f-mono);font-size:14px;border-radius:4px;transition:all .3s}
+#search-input{flex:2;min-width:100px}
+#search-input:focus,#age-filter:focus,.filter-select:focus{border-color:var(--c-accent);box-shadow:0 0 15px rgba(0,243,255,.3);outline:none}
+#age-filter{width:70px;flex:none}
+.filter-select{flex:1;min-width:70px;appearance:none;cursor:pointer}
+.filter-select option{background:#0a0f14;color:#fff}
+.btn-reset{background:rgba(255,42,42,.15);border:1px solid rgba(255,42,42,.4);color:#ff8888;padding:8px 12px;font-family:var(--f-mono);font-size:10px;cursor:pointer;border-radius:4px;transition:all .3s;white-space:nowrap}
+.btn-reset:hover{background:var(--c-fatal);color:#fff}
+.quick-tag{background:rgba(255,107,53,.15);border:1px solid rgba(255,107,53,.4);color:#ffcba4;padding:8px 14px;font-family:var(--f-mono);font-size:12px;cursor:pointer;border-radius:20px;transition:all .3s;white-space:nowrap}
+.quick-tag:hover{background:var(--c-sudden);color:#fff;box-shadow:0 0 15px var(--c-sudden)}
+.age-group-row{display:flex;gap:6px;flex-wrap:wrap;width:100%;padding-top:6px}
+.age-group-btn{background:rgba(0,243,255,.06);border:1px solid rgba(0,243,255,.25);color:#9fd8e8;padding:8px 16px;font-family:var(--f-mono);font-size:13px;cursor:pointer;border-radius:20px;transition:all .3s;white-space:nowrap}
+.age-group-btn:hover{border-color:var(--c-accent);color:var(--c-accent);background:rgba(0,243,255,.12)}
+.age-group-btn.active{background:rgba(0,243,255,.18);border-color:var(--c-accent);color:#fff;box-shadow:0 0 12px rgba(0,243,255,.3)}
+.filter-summary{width:100%;font-size:12px;color:#888;font-family:var(--f-mono);padding-top:6px}
+
+/* ===== Log Stream ===== */
+#log-stream{flex:1;overflow-y:auto;max-height:calc(100vh - 300px);min-height:300px}
+#log-stream::-webkit-scrollbar{width:6px}
+#log-stream::-webkit-scrollbar-track{background:rgba(0,0,0,.3)}
+#log-stream::-webkit-scrollbar-thumb{background:var(--c-dim);border-radius:3px}
+.log-item{padding:12px 16px;border-bottom:1px solid rgba(30,40,50,.5);border-left:4px solid transparent;position:relative;transition:all .3s;background:transparent}
+.log-item:hover{background:rgba(255,255,255,.03);transform:translateX(3px)}
+.log-item .date{color:#8a9aaa;font-size:14px;font-family:var(--f-mono);display:block;margin-bottom:4px}
+.log-item .age-badge{background:linear-gradient(90deg,rgba(255,174,0,.3),rgba(255,42,42,.3));color:var(--c-crit);padding:2px 8px;border-radius:10px;font-size:12px;margin-left:8px;font-family:var(--f-mono)}
+.log-item .title{font-size:17px;line-height:1.6}
+.log-item .title a{color:var(--c-accent);text-decoration:none;transition:all .2s}
+.log-item .title a:hover{color:#fff;text-shadow:0 0 10px var(--c-accent)}
+.type-FATAL{border-left-color:var(--c-fatal);background:rgba(255,42,42,.05)}
+.type-FATAL .title a{color:#ffcccc}
+.type-CRIT{border-left-color:var(--c-crit);background:rgba(255,174,0,.05)}
+.type-CRIT .title a{color:#ffeebb}
+.type-ACC{border-left-color:var(--c-acc);background:rgba(0,255,65,.03)}
+.type-ACC .title a{color:#ccffcc}
+.type-SUDDEN{border-left-color:var(--c-sudden);background:rgba(255,107,53,.06)}
+.type-SUDDEN .title a{color:#ffcba4}
+.type-SPAM{border-left-color:#555;opacity:.4;font-style:italic;display:none;} /* 預設隱藏 SPAM */
+.type-SPAM .title a{color:#888}
+.type-OTHER{border-left-color:#3a4a5a;background:rgba(58,74,90,.05)}
+.type-OTHER .title a{color:#a0aabb}
+
+/* ===== 燭光 ===== */
+.candle{position:absolute;right:12px;top:50%;transform:translateY(-50%);font-size:20px;cursor:pointer;opacity:.4;transition:all .3s;filter:grayscale(.8)}
+.candle:hover{opacity:.8;filter:grayscale(0);transform:translateY(-50%) scale(1.2)}
+.candle.lit{opacity:1;filter:grayscale(0);animation:candleFlicker 1.5s ease-in-out infinite}
+@keyframes candleFlicker{
+0%,100%{transform:translateY(-50%) scale(1);text-shadow:0 0 20px #ff6600,0 0 40px #ff3300}
+25%{transform:translateY(-52%) scale(1.05);text-shadow:0 0 25px #ff8800,0 0 50px #ff4400}
+50%{transform:translateY(-48%) scale(.98);text-shadow:0 0 15px #ff5500,0 0 30px #ff2200}
+75%{transform:translateY(-51%) scale(1.02);text-shadow:0 0 30px #ff7700,0 0 60px #ff3300}
+}
+#candle-count{text-align:center;padding:12px;color:var(--c-crit);font-family:var(--f-mono);font-size:13px;border-top:1px solid var(--c-border);background:rgba(0,0,0,.4)}
+
+/* ===== 雷達 ===== */
+.radar-zone{position:relative;display:flex;align-items:center;justify-content:center;min-height:300px;background:radial-gradient(circle,rgba(100,40,160,.4),rgba(50,15,90,.55),rgba(10,5,20,.95));overflow:hidden}
+#soul-canvas{position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none}
+.big-stat{position:relative;z-index:10;text-align:center;background:rgba(0,0,0,.85);padding:25px 40px;border-radius:16px;border:2px solid rgba(0,243,255,.4);box-shadow:0 0 50px rgba(0,243,255,.2),inset 0 0 30px rgba(0,243,255,.05)}
+.big-stat .val{font-family:var(--f-head);font-size:clamp(2.5rem,8vw,4rem);color:#fff;text-shadow:0 0 40px var(--c-accent),0 0 80px var(--c-accent)}
+.big-stat .label{font-family:var(--f-mono);color:var(--c-accent);font-size:11px;letter-spacing:3px;margin-top:8px}
+.big-stat .sub-label{font-size:13px;color:#888;margin-top:5px}
+
+.stats-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;padding:15px}
+.stat-card{background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:15px 10px;text-align:center;transition:all .3s}
+.stat-card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.5)}
+.stat-card .icon{font-size:24px;margin-bottom:8px}
+.stat-card .num{font-family:var(--f-head);font-size:clamp(1.2rem,3vw,1.8rem);color:#fff}
+.stat-card .lbl{font-size:14px;color:#bbb;text-transform:uppercase;margin-top:5px;font-family:var(--f-mono)}
+.stat-card.fatal{border-color:var(--c-fatal)}.stat-card.fatal .num{color:var(--c-fatal);text-shadow:0 0 20px var(--c-fatal)}
+.stat-card.crit{border-color:var(--c-crit)}.stat-card.crit .num{color:var(--c-crit);text-shadow:0 0 20px var(--c-crit)}
+.stat-card.acc{border-color:var(--c-acc)}.stat-card.acc .num{color:var(--c-acc);text-shadow:0 0 20px var(--c-acc)}
+.stat-card.sudden{border-color:var(--c-sudden)}.stat-card.sudden .num{color:var(--c-sudden);text-shadow:0 0 20px var(--c-sudden)}
+
+/* ===== 圖表區 ===== */
+.chart-tabs{display:flex;gap:5px;padding:10px 15px 0 15px;justify-content:center}
+.chart-tab-btn{background:rgba(0,243,255,.06);border:1px solid rgba(0,243,255,.2);color:#8a9aaa;padding:8px 16px;font-family:var(--f-mono);font-size:11px;cursor:pointer;border-radius:20px;transition:all .3s}
+.chart-tab-btn:hover{border-color:var(--c-accent);color:var(--c-accent);background:rgba(0,243,255,.1)}
+.chart-tab-btn.active{background:rgba(0,243,255,.15);border-color:var(--c-accent);color:var(--c-accent);box-shadow:0 0 12px rgba(0,243,255,.25)}
+#trend-chart-wrap{padding:15px;height:380px;position:relative;background:rgba(0,0,0,.3);border-radius:8px;border:1px solid var(--c-border)}
+#trend-chart{width:100%;height:100%}
+
+#today-focus{background:linear-gradient(135deg,rgba(50,10,20,.8),rgba(20,5,10,.9));border:1px solid var(--c-fatal);padding:20px;margin:10px;border-radius:10px;text-align:center;position:relative;overflow:hidden}
+#today-focus::before{content:'';position:absolute;top:0;left:-100%;width:100%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,42,42,.1),transparent);animation:focusSweep 4s linear infinite}
+@keyframes focusSweep{100%{left:100%}}
+#today-focus .focus-title{font-family:var(--f-head);color:var(--c-fatal);font-size:13px;margin-bottom:12px;position:relative}
+#today-focus .focus-content{font-size:15px;line-height:1.7;color:#ffcccc;position:relative}
+#today-focus .focus-date{font-family:var(--f-mono);color:#666;font-size:11px;margin-top:12px;position:relative}
+
+#keyword-cloud{padding:20px;min-height:80px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:center;align-content:flex-start;overflow-y:auto;max-height:none}
+/* ===== 聖經連結區 ===== */
+.bible-links{position:relative;z-index:10;background:linear-gradient(180deg,rgba(10,5,15,.95),rgba(5,0,10,.98));padding:30px 20px;text-align:center;border-top:1px solid rgba(168,85,247,.2)}
+.bible-links h3{font-family:var(--f-head);font-size:14px;color:var(--c-soul);margin-bottom:20px;letter-spacing:3px;text-shadow:0 0 20px rgba(168,85,247,.4)}
+.link-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;max-width:900px;margin:0 auto}
+.link-card{background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:16px;transition:all .3s}
+.link-card:hover{border-color:var(--c-soul);box-shadow:0 0 20px rgba(168,85,247,.2);transform:translateY(-2px)}
+.link-title{font-family:var(--f-mono);font-size:12px;color:var(--c-soul);margin-bottom:8px}
+.link-card a{color:var(--c-accent);font-family:var(--f-mono);font-size:11px;transition:all .2s}
+.link-card a:hover{color:#fff;text-shadow:0 0 10px var(--c-accent)}
+.keyword-tag{padding:8px 16px;border-radius:20px;font-family:var(--f-mono);font-size:14px;background:rgba(255,42,42,.15);color:#ffaaaa;border:1px solid rgba(255,42,42,.3);transition:all .3s;cursor:pointer}
+.keyword-tag:hover{background:var(--c-fatal);color:#fff;transform:scale(1.1);box-shadow:0 0 20px var(--c-fatal)}
+
+/* ===== IF IT WERE YOU ===== */
+#if-it-were-you{margin:10px;padding:22px 16px;border-radius:12px;border:1px solid rgba(168,85,247,.35);background:radial-gradient(ellipse at center,rgba(25,0,30,.95),rgba(5,0,5,.98));text-align:center;cursor:pointer;transition:all .3s}
+#if-it-were-you:hover{box-shadow:0 0 30px rgba(168,85,247,.35);transform:translateY(-2px);border-color:rgba(168,85,247,.7)}
+.iwy-kicker{font-family:var(--f-mono);font-size:11px;letter-spacing:.16em;color:rgba(255,255,255,.35)}
+.iwy-title{margin-top:10px;font-family:var(--f-head);font-size:16px;letter-spacing:.12em;color:var(--c-soul);text-shadow:0 0 18px rgba(168,85,247,.5)}
+.iwy-sub{margin-top:10px;font-size:12px;line-height:1.8;color:#cdb6ea}
+.iwy-btn{margin-top:14px;display:inline-block;padding:10px 18px;border-radius:8px;border:1px solid rgba(0,243,255,.35);font-family:var(--f-mono);font-size:12px;color:var(--c-accent);background:rgba(0,243,255,.08);transition:all .3s}
+#if-it-were-you:hover .iwy-btn{background:rgba(0,243,255,.18);border-color:var(--c-accent)}
+
+/* ===== 七災年覆蓋 ===== */
+#tribulation-overlay{background:radial-gradient(ellipse at center,rgba(30,0,10,.95),rgba(5,0,5,.98));border:1px solid rgba(139,0,0,.5);border-radius:10px;margin:10px;padding:30px 20px;text-align:center}
+.trib-title{font-family:'Creepster',cursive;font-size:clamp(1.5rem,4vw,2.5rem);color:var(--c-fatal);text-shadow:0 0 30px var(--c-fatal);margin-bottom:8px}
+.trib-subtitle{font-size:13px;color:#888;margin-bottom:5px}
+.trib-years{font-family:var(--f-head);font-size:18px;color:var(--c-crit);margin-bottom:20px}
+.trib-link{display:inline-block;padding:12px 24px;border:2px solid var(--c-fatal);border-radius:6px;color:var(--c-fatal);font-family:var(--f-head);font-size:13px;line-height:1.5;text-align:center;transition:all .3s}
+.trib-link:hover{background:var(--c-fatal);color:#fff;box-shadow:0 0 30px var(--c-fatal)}
+.trib-verse{margin-top:20px;font-size:12px;color:#999;line-height:1.8;font-style:italic;max-width:500px;margin-left:auto;margin-right:auto}
+.trib-verse .ref{color:var(--c-soul);font-style:normal}
+
+/* ===== 跑馬燈 ===== */
+#doom-footer{position:fixed;bottom:0;left:0;right:0;height:45px;background:linear-gradient(90deg,#180000,#300005,#180000);border-top:3px solid var(--c-fatal);z-index:9999;overflow:hidden;line-height:45px}
+#footer-text{display:inline-block;white-space:nowrap;padding-left:100%;animation:marquee 150s linear infinite;color:#ff9999;font-family:var(--f-mono);font-size:13px}
+@keyframes marquee{0%{transform:translateX(0)}100%{transform:translateX(-100%)}}
+
+/* ===== 默哀 ===== */
+body.mourning-mode{filter:grayscale(.6)}
+body.mourning-mode .candle.lit{filter:grayscale(0)!important}
+
+/* ===== 沉浸靈魂旅程 Overlay ===== */
+#immersive-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.98);z-index:20000;display:none;flex-direction:column;align-items:center;padding:40px 20px;opacity:0;transition:opacity 1s ease;overflow-y:auto}
+.immersive-content{margin:auto 0}
+#immersive-overlay.active{display:flex;opacity:1}
+.immersive-content{max-width:680px;text-align:center}
+.immersive-close{position:absolute;top:20px;right:20px;background:none;border:none;color:#a0aabb;font-size:28px;cursor:pointer;transition:color 0.2s}
+.immersive-close:hover{color:#fff}
+.immersive-stage{display:none;animation:fadeInStage 1.5s ease-out forwards}
+.immersive-stage.active{display:block}
+@keyframes fadeInStage{0%{opacity:0;transform:scale(0.95)}100%{opacity:1;transform:scale(1)}}
+.immersive-question{font-family:var(--f-serif);font-size:clamp(1.2rem,4vw,1.9rem);color:#fff;line-height:1.9;margin-bottom:26px}
+.immersive-sub{font-size:1rem;color:#e0e6ed;line-height:2;margin-bottom:26px}
+.immersive-wisdom{font-family:var(--f-serif);font-size:1.05rem;color:#e0e6ed;line-height:2.2;font-style:italic;border-left:3px solid var(--c-soul);padding-left:20px;text-align:left;margin:26px 0}
+.immersive-ref{color:#ffd700;font-size:0.9em;display:block;margin-top:10px;font-style:normal}
+.immersive-btn{background:transparent;border:1px solid rgba(255,255,255,0.32);color:#e0e6ed;padding:12px 30px;font-family:var(--f-mono);font-size:13px;letter-spacing:2px;cursor:pointer;transition:all 0.3s;margin:5px;border-radius:4px}
+.immersive-btn:hover{border-color:#fff;color:#fff}
+.immersive-btn.primary{border-color:var(--c-accent);color:var(--c-accent)}
+.immersive-btn.primary:hover{background:var(--c-accent);color:#000}
+#stage-8 > div[style*="display:flex"]{flex-direction:column-reverse!important}
+.immersive-input{width:100%;padding:15px;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.2);border-radius:8px;color:#fff;font-size:1rem;font-family:var(--f-text);margin-bottom:18px;text-align:center}
+.immersive-input:focus{outline:none;border-color:var(--c-soul)}
+.immersive-choices{display:flex;flex-direction:column;gap:12px;margin-bottom:26px}
+.immersive-choice{background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.2);padding:15px 20px;border-radius:8px;color:#e0e6ed;font-size:1rem;cursor:pointer;transition:all 0.3s;text-align:left}
+.immersive-choice:hover{background:rgba(255,255,255,0.13);border-color:var(--c-accent);color:#fff}
+
+/* ===== 回頂端按鈕 ===== */
+#back-to-top{position:fixed;bottom:55px;right:20px;width:44px;height:44px;background:rgba(0,0,0,.7);border:1px solid var(--c-border);color:#888;font-size:20px;cursor:pointer;border-radius:50%;z-index:9998;display:none;align-items:center;justify-content:center;transition:all .3s;backdrop-filter:blur(5px)}
+#back-to-top:hover{border-color:var(--c-accent);color:var(--c-accent);background:rgba(0,0,0,.9)}
+#back-to-top.visible{display:flex}
+
+/* ===== 時間範圍篩選 ===== */
+.time-range-bar{display:flex;gap:6px;padding:8px 0 2px;justify-content:flex-start;flex-wrap:wrap;width:100%}
+.time-range-btn{background:rgba(0,0,0,.5);border:1px solid var(--c-border);color:#888;padding:8px 16px;font-family:var(--f-mono);font-size:11px;cursor:pointer;border-radius:4px;transition:all .3s}
+.time-range-btn:hover{border-color:var(--c-accent);color:var(--c-accent)}
+.time-range-btn.active{background:rgba(0,243,255,.15);border-color:var(--c-accent);color:var(--c-accent);box-shadow:0 0 10px rgba(0,243,255,.2)}
+/* ===== RWD ===== */
+@media(max-width:1024px){main{grid-template-columns:1fr}.four-grid{grid-template-columns:repeat(2,1fr)}.lifeline-section{grid-template-columns:1fr 1fr!important}}
+@media(max-width:768px){
+body{padding-bottom:55px}
+#death-counter{padding:4px 8px;gap:6px;min-height:auto}
+.counter-label{font-size:10px}
+.counter-value{font-size:14px;min-width:35px}
+.counter-since{display:none}
+.back-to-portal{padding:3px 8px;font-size:10px}
+header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
+.stats-grid{grid-template-columns:repeat(2,1fr)}
+.four-grid{grid-template-columns:repeat(2,1fr)}
+.immersive-content{padding:0 8px}
+.immersive-question{font-size:clamp(1.1rem,4.5vw,1.6rem)}
+#back-to-top{width:36px;height:36px;font-size:16px;bottom:60px;right:10px}
+.chart-tabs{flex-wrap:wrap}
+.lifeline-section{grid-template-columns:1fr!important}
+}
+/* ===== 補丁 ===== */
+.lifeline-card p{font-size:14px;color:#999;margin-top:8px}
+.chart-zone{position:relative;z-index:10;padding:20px;background:rgba(5,10,15,.95)}
+.life-tools{display:none!important}
+
+/* ===== 十一災情導航（Kimi 2026-09-29）===== */
+.catnav{margin:10px auto;max-width:960px;padding:10px 14px;display:flex;
+  align-items:center;gap:12px;flex-wrap:wrap;
+  background:rgba(8,14,22,.92);border:1px solid rgba(255,107,53,.35);
+  border-radius:8px;font-family:'Share Tech Mono',ui-monospace,monospace}
+.catnav-label{color:#ff6b35;font-size:12px;letter-spacing:2px;white-space:nowrap;
+  text-shadow:0 0 8px rgba(255,107,53,.6)}
+.catnav-btns{display:flex;flex-wrap:wrap;gap:6px}
+.catnav-btns a{padding:4px 12px;font-size:13px;color:#cfd8e3;text-decoration:none;
+  border:1px solid rgba(255,255,255,.18);border-radius:4px;
+  background:rgba(255,255,255,.04);transition:all .15s}
+.catnav-btns a:hover{color:#000;background:#ff6b35;border-color:#ff6b35;
+  box-shadow:0 0 12px rgba(255,107,53,.7)}
+@media(max-width:640px){.catnav{flex-direction:column;align-items:flex-start;gap:8px}}
+
+</style>
+</head>
+<body>
+<div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:Consolas,monospace;font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px"><a href="../monitor03E.html" style="color:#8ab4f8">中文</a> &nbsp;|&nbsp; <span style="color:#ff6b35">English</span></div>
+
+<div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:var(--f-mono);font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px"><a href="../monitor03E.html" style="color:var(--text-dim)">&#20013;&#25991;</a> &nbsp;|&nbsp; <span style="color:var(--accent)">English</span></div>
+<canvas id="particle-bg"></canvas>
+
+<!-- 死亡計數器 -->
+<div id="death-counter">
+<div class="counter-item">
+<span class="counter-label">Since you arrived, the world has lost</span>
+<span class="counter-value" id="death-since-entry">0</span>
+<span class="counter-label">people</span>
+</div>
+<div class="counter-item">
+<span class="counter-label">About</span>
+<span class="counter-value" id="death-today">0</span>
+<span class="counter-label">people die worldwide today</span>
+</div>
+<div class="counter-since">(about 2.0 per second &middot; WHO global mortality estimate)</div>
+<a href="../index.html" class="back-to-portal">&larr; Back to home</a>
+<div class="catnav"><span class="catnav-label">Eleven Disasters Watch</span><div class="catnav-btns"><a href="../category.html?cat=econ">Economy</a><a href="../category.html?cat=disaster">Natural Disasters</a><a href="../category.html?cat=war">War</a><a href="../category.html?cat=plague">Pandemic</a><a href="../category.html?cat=social">Society</a><a href="../category.html?cat=food">Food</a><a href="../category.html?cat=tech">Tech</a><a href="../category.html?cat=religion">Religion</a><a href="../category.html?cat=politics">Politics</a><a href="../category.html?cat=celestial">Celestial</a><a href="../category.html?cat=tribulation">Tribulation</a><a href="../category.html?cat=departure">Departure</a><a href="../category.html?cat=industry">Industry</a><a href="../category.html?cat=traffic">Traffic</a><a href="../category.html?cat=fire">Fire</a><a href="../category.html?cat=tragedy">Tragedy</a><a href="../category.html?cat=sidefx">Side Effects</a></div></div>
+</div>
+
+<!-- Header -->
+<header>
+<div>
+<div class="brand">VITAL LIFE MONITOR</div>
+<span class="brand-subtitle">STILL ALIVE Recorder V9.0 | 2019 COVID &rarr; 2028 END-TIME?</span>
+</div>
+<div id="ecg-container">
+<span class="ecg-label">VITAL SIGNS</span>
+<canvas id="ecg-canvas"></canvas>
+</div>
+<div id="period-display" style="color:var(--c-crit);font-family:var(--f-mono);padding:8px 16px;border:1px solid var(--c-crit);border-radius:4px;font-size:12px;">Waiting for data to load...</div>
+</header>
+
+<!-- 三欄主區（已移至最高：先事件流） -->
+<main>
+<!-- 左：事件流 -->
+<div class="panel">
+<div class="p-head"><span>📡 INCOMING FEED</span><span>Death Event Stream</span></div>
+<div class="filter-row">
+<input type="text" id="search-input" placeholder="🔍 關鍵字" value="猝死" oninput="filterEvents()">
+<select id="year-filter" class="filter-select" onchange="filterEvents()"><option value="">All years</option></select>
+<select id="month-filter" class="filter-select" onchange="filterEvents()"><option value="">All months</option></select>
+<input type="number" id="age-filter" placeholder="&plusmn;5 yrs" min="1" max="120">
+<button class="btn-reset" onclick="resetFilters()">&#128260; Reset</button>
+<button class="quick-tag" onclick="document.getElementById('search-input').value='猝死';filterEvents()">&#128148; Sudden Death</button>
+<div class="age-group-row">
+<button class="age-group-btn active" onclick="setAgeGroup(null,this)">All ages</button>
+<button class="age-group-btn" onclick="setAgeGroup([0,10],this)">&#128118; 0-10 yrs</button>
+<button class="age-group-btn" onclick="setAgeGroup([11,30],this)">&#129489; 11-30 yrs</button>
+<button class="age-group-btn" onclick="setAgeGroup([31,60],this)">&#129492; 31-60 yrs</button>
+<button class="age-group-btn" onclick="setAgeGroup([61,120],this)">&#128116; 61+ yrs</button>
+</div>
+<div class="time-range-bar">
+<button class="time-range-btn" data-range="today" onclick="filterByTimeRange('today')">Today</button>
+<button class="time-range-btn active" data-range="week" onclick="filterByTimeRange('week')">A week</button>
+<button class="time-range-btn" data-range="month" onclick="filterByTimeRange('month')">A month</button>
+<button class="time-range-btn" data-range="year" onclick="filterByTimeRange('year')">A year</button>
+<button class="time-range-btn" data-range="all" onclick="filterByTimeRange('all')">All</button>
+</div>
+<div class="filter-summary" id="filter-summary"></div>
+</div>
+<div id="log-stream"></div>
+<div id="candle-count">&#128367;&#65039;  <span id="total-candles">0</span> people have lit a candle</div>
+</div>
+
+<!-- 中：雷達 + 統計 -->
+<div class="panel">
+<div class="radar-zone">
+<canvas id="soul-canvas"></canvas>
+<div class="big-stat">
+<div class="val" id="total-count">0</div>
+<div class="label">TOTAL INCIDENTS</div>
+<div class="sub-label">Total cases</div>
+</div>
+</div>
+<div class="stats-grid">
+<div class="stat-card fatal"><div class="icon">☠️</div><div class="num" id="stat-fatal">0</div><div class="lbl">FATAL Death / Disaster</div></div>
+<div class="stat-card sudden"><div class="icon">💔</div><div class="num" id="stat-sudden">0</div><div class="lbl">Sudden-death related</div></div>
+<div class="stat-card crit"><div class="icon">⚠️</div><div class="num" id="stat-crit">0</div><div class="lbl">CRITICAL Critical / Collapse</div></div>
+<div class="stat-card acc"><div class="icon">🔥</div><div class="num" id="stat-acc">0</div><div class="lbl">ACCIDENT Accident / Traffic</div></div>
+<div class="stat-card"><div class="icon">📊</div><div class="num" id="stat-other">0</div><div class="lbl">OTHER Other</div></div>
+</div>
+<div id="today-focus">
+<div class="focus-title">&#128205; TODAY'S FOCUS</div>
+<div class="focus-content">Shown after data loads...</div>
+<div class="focus-date"></div>
+</div>
+</div>
+
+<!-- 右：Keyword Cloud + IF IT WERE YOU + 七災年 -->
+<div class="panel">
+<div class="p-head"><span>☁️ KEYWORD CLOUD</span><span>Keyword Cloud</span></div>
+<div id="keyword-cloud"></div>
+
+<!-- IF IT WERE YOU（置頂於右下欄） -->
+<a id="if-it-were-you" href="../GoodNews.html" role="button" aria-label="IF IT WERE YOU" style="text-decoration:none;display:block">
+<div class="iwy-kicker">💭 IF IT WERE YOU</div>
+<div class="iwy-title">I F &nbsp; I T &nbsp; W E R E &nbsp; Y O U</div>
+<div class="iwy-sub">Give yourself 3 minutes<br>Seriously consider a question you have been avoiding<br>Where the soul goes</div>
+<div class="iwy-btn">Click to enter &rarr;</div>
+</a>
+
+<!-- 七災年（置底） -->
+<div id="tribulation-overlay">
+<div class="trib-title">S E V E N &nbsp; Y E A R S</div>
+<div class="trib-subtitle">Seven years of increasing suffering</div>
+<div class="trib-years">2019 — 2028</div>
+<a href="https://greattribulation2028.github.io/lifeiswhat/timeline04.html" target="_blank" class="trib-link">GREAT TRIBULATION<br>COUNTDOWN → CLICK</a>
+<div class="trib-verse">"And I beheld, and behold a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne... and the books were opened... and every man was judged according to his works."
+<br><span class="ref">&mdash; Revelation 20:12</span></div>
+</div>
+</div>
+</main>
+
+<!-- 哲理橫幅 -->
+<!-- ===== 圖表專區 ===== -->
+<div class="chart-zone">
+<div class="chart-tabs">
+  <button class="chart-tab-btn active" onclick="switchChart('age')">&#128100; Age distribution</button>
+  <button class="chart-tab-btn" onclick="switchChart('radar')">&#129308; Radar chart</button>
+</div>
+<div id="cz-wrap" style="padding:15px;height:380px;position:relative;background:rgba(0,0,0,.3);border-radius:8px;border:1px solid var(--c-border)">
+<canvas id="cz-canvas" style="width:100%;height:100%"></canvas>
+</div>
+</div>
+
+<!-- 金句橫幅 + 吹角節倒數 + 生命Calculate器（已移至統計表之後） -->
+<div class="wisdom-banner">
+<div class="wisdom-quote" id="wisdom-quote">"Be prudent, like sensible people, not like fools. Make the most of your time, for these are evil days."</div>
+<div class="wisdom-source" id="wisdom-source">&mdash; Ephesians 5:15-16</div>
+</div>
+
+<!-- 生命線卡片 -->
+<div class="lifeline-section">
+<div class="lifeline-card">
+<h3>&#9201; Trumpet Feast countdown 2027</h3>
+<div class="big-number" id="countdown-days">---</div>
+<div class="unit">days</div>
+<p id="countdown-detail">Distance to 2027-10-01</p>
+</div>
+<div class="lifeline-card">
+<h3>&#9203; Life calculator</h3>
+<div style="margin-top:8px">Age:<input type="number" id="user-age" value="40" min="1" max="120" style="width:70px;padding:8px;background:rgba(0,0,0,.6);border:1px solid var(--c-border);color:#fff;font-family:var(--f-mono);border-radius:4px;text-align:center"> yrs
+<button class="btn" style="margin-left:8px" onclick="calculateLife()">Calculate</button>
+</div>
+<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:12px">
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="days-lived-box" style="font-family:var(--f-head);font-size:1.1rem;color:#fff">14,600</div><div style="font-size:12px;color:#aaa;margin-top:4px;font-family:var(--f-mono)">Days lived</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="days-left-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-acc)">14,600</div><div style="font-size:12px;color:#aaa;margin-top:4px;font-family:var(--f-mono)">Days remaining</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="life-percent-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-crit)">50.0%</div><div style="font-size:12px;color:#aaa;margin-top:4px;font-family:var(--f-mono)">Life used</div></div>
+<div style="background:rgba(0,0,0,.5);border:1px solid var(--c-border);border-radius:8px;padding:10px;text-align:center"><div id="to-2027-box" style="font-family:var(--f-head);font-size:1.1rem;color:var(--c-fatal)">--</div><div style="font-size:12px;color:#aaa;margin-top:4px;font-family:var(--f-mono)">To the Trumpet Feast</div></div>
+</div>
+<p id="life-result" style="font-size:13px;color:#999;margin-top:8px">Enter your age to calculate your life progress</p>
+</div>
+</div>
+
+
+
+<!-- [life-tools removed] -->
+<div class="life-tools">
+<div class="life-card">
+<h3>&#9203; Your life calculator</h3>
+<div>Your age:<input type="number" id="user-age" value="40" min="1" max="120"> yrs</div>
+<button class="btn" onclick="calculateLife()">C A L C U L A T E</button>
+<div class="life-stats-grid">
+<div class="life-stat-box"><div class="stat-value" id="days-lived-box">14,600</div><div class="stat-label">Days lived</div></div>
+<div class="life-stat-box"><div class="stat-value" id="days-left-box" style="color:var(--c-acc)">14,600</div><div class="stat-label">Days remaining</div></div>
+<div class="life-stat-box"><div class="stat-value" id="life-percent-box" style="color:var(--c-crit)">50.0%</div><div class="stat-label">Life used</div></div>
+<div class="life-stat-box"><div class="stat-value" id="to-2027-box" style="color:var(--c-fatal)">--</div><div class="stat-label">To the Trumpet Feast</div></div>
+</div>
+<div class="result" id="life-result" style="font-size:13px;margin-top:10px">Enter your age to calculate your life progress</div>
+</div>
+<div class="life-card">
+<h3>&#128269; Same-age filter</h3>
+<div>Viewing:<input type="number" id="peer-age" placeholder="Age" min="1" max="120"> &plusmn; 5 yrs
+<button class="btn" style="margin-left:8px" onclick="filterByAge()">F I L T E R</button>
+</div>
+<div class="result" id="peer-result">Enter an age or click an age band to see records for your age group</div>
+<div style="margin-top:12px">
+<div style="font-family:var(--f-mono);font-size:10px;color:var(--c-accent);margin-bottom:6px">&#128202; Age distribution</div>
+<canvas id="age-dist" style="width:100%;height:70px"></canvas>
+</div>
+</div>
+</div>
+
+</div>
+
+<!-- 三欄主區 -->
+
+
+<!-- 沉浸靈魂旅程 -->
+<div id="immersive-overlay">
+<div class="immersive-content">
+<button class="immersive-close" onclick="closeImmersive()">×</button>
+
+<div class="immersive-stage active" id="stage-1">
+<div class="immersive-question">Have you ever asked<br>why we are alive at all?</div>
+<div class="immersive-sub">Working, earning, buying a home, raising a family<br>A lifetime of toil<br>Life : Length : Depth &mdash; for what, exactly?<br>In the end, are we just another number in a record?</div>
+<button class="immersive-btn primary" onclick="nextStage(2)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-2">
+<div class="immersive-question">If you were suddenly taken in your sleep<br>What would you hold on to most?</div>
+<textarea class="immersive-input" id="input-regret" placeholder="寫下來，只有你自己看得到..." rows="3"></textarea>
+<div class="immersive-sub">Actually... most people<br>have never really thought about it<br>until the day it is too late</div>
+<button class="immersive-btn" onclick="nextStage(1)">B A C K</button>
+<button class="immersive-btn primary" onclick="nextStage(3)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-3">
+<div class="immersive-question">Do you believe that after death<br>there is still a "you"?</div>
+<div class="immersive-choices">
+<div class="immersive-choice" onclick="selectBelief('nothing')">Nothing &mdash; the candle simply goes out</div>
+<div class="immersive-choice" onclick="selectBelief('reincarnation')">Reincarnation, on to the next journey</div>
+<div class="immersive-choice" onclick="selectBelief('heaven-hell')">Heaven or hell, the soul is eternal, this life a one-way ticket</div>
+<div class="immersive-choice" onclick="selectBelief('unknown')">I don't know, never really thought about it, and don't want to</div>
+</div>
+<button class="immersive-btn" onclick="nextStage(2)">B A C K</button>
+</div>
+
+<div class="immersive-stage" id="stage-nothing">
+<div class="immersive-question">If after death there is nothing<br>A lifetime of struggle &mdash; the good of the righteous, the evil of the wicked: what sense?</div>
+<div class="immersive-sub">If the end is nothingness<br>Why would anyone fear death?<br>Why would anyone be chained by invisible shackles?<br><br>Perhaps deep in every heart<br>it already knows it is not that simple</div>
+<button class="immersive-btn primary" onclick="nextStage(5)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-reincarnation">
+<div class="immersive-question">Reincarnation<br>The sea of suffering is boundless &mdash; turn back and find the shore</div>
+<div class="immersive-sub">The law that frees us from this sea of suffering<br>Why not find a way straight to eternity?</div>
+<button class="immersive-btn primary" onclick="nextStage(5)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-heaven-hell">
+<div class="immersive-question">If heaven and hell are real<br>What is the entry ticket?</div>
+<div class="immersive-sub">Good people? Good deeds?<br>How much is enough? Who sets the standard?<br><br>Are you sure?</div>
+<button class="immersive-btn primary" onclick="nextStage(5)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-unknown">
+<div class="immersive-question">Never really thought about it<br>The world rarely discusses it in earnest<br>But it doesn't mean the question isn't there</div>
+<div class="immersive-sub">You can choose not to think about it<br>But you cannot escape it<br><br>Even if the destination of death is uncertain<br>it is certain that everyone must die<br>nobody cares &mdash; is that not strange?</div>
+<button class="immersive-btn primary" onclick="nextStage(5)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-5">
+<div class="immersive-question">We are all the same</div>
+<div class="immersive-sub">Perhaps we have thought about it<br>and then forgotten it in the busyness<br><br>while deep down we always knew<br>and it always catches us unprepared...</div>
+<div class="immersive-wisdom">"As for tomorrow, we do not know what it will bring.<br>What is our life?<br>We are a mist that appears for a little while and then vanishes."<span class="immersive-ref">&mdash; James 4:14</span></div>
+<button class="immersive-btn primary" onclick="nextStage(6)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-6">
+<div class="immersive-question">There is a way<br>To fear no more</div>
+<div class="immersive-sub">Because...</div>
+<div class="immersive-wisdom">"For God so loved the world that He gave His only Son,<br>that whoever believes in Him shall not perish but have eternal life."<span class="immersive-ref">&mdash; John 3:16</span></div>
+<button class="immersive-btn primary" onclick="nextStage(7)">I want to know more</button>
+<button class="immersive-btn" onclick="closeImmersive()">Let me think about it</button>
+</div>
+
+<div class="immersive-stage" id="stage-7">
+<div class="immersive-question">This is true</div>
+<div class="immersive-sub">More than 2,000 years ago, there was a man<br>He had done no wrong, yet was crucified<br>To atone for our sins and cleanse us of our guilt, He willingly gave Himself for us<br><br>His name was Jesus<br>He died, but He is alive again<br>and He promised He would return to receive all who believe in Him</div>
+<div class="immersive-wisdom">He said: "I am the way, and the truth, and the life.<br>No one comes to the Father except through me."<span class="immersive-ref">&mdash; John 14:6</span></div>
+<button class="immersive-btn primary" onclick="nextStage(8)">I'd like to know more</button>
+<button class="immersive-btn" onclick="closeImmersive()">Let me think about it</button>
+</div>
+
+<div class="immersive-stage" id="stage-8">
+<div class="immersive-question">If you are willing<br><br>you can pray like this</div>
+<div class="immersive-wisdom" style="border-left-color:var(--c-hope)">Lord Jesus Christ, I believe You are the one true God.<br>Thank You for Your love. I believe You died for my sins,<br>were crucified on the cross, and You have risen again!<br>I confess I have done many wrong things. Please forgive all my wrongdoing.<br><br>Dear Lord Jesus, I am willing to receive You as my only Saviour.<br><br>I am willing to open my heart and invite You into my life.<br>Be my Saviour, my salvation, and stay with me always!<br><br>Lead me along Your path of eternal life.<br><br>In the name of the Lord Jesus Christ, Amen!</div>
+<div class="immersive-sub" style="display:none">If you have prayed this in your heart, congratulations &mdash; you are now a child of God!<br>Death is no longer the end; it is the gate home. May we meet in our Father's house, and may the Lord bless you. Amen<br><br>He is the God who helps with a smile, the God who does not reproach, and who takes our silent meditation as sweetness.<br><br>Since we have been reconciled to God through Jesus Christ, we have joy in God through him,<br><br>so that we may truly live with him and face all our problems together,<br><br>trusting in his promise and looking forward to the day he comes again.<br><br>The Lord bless you, so that you may know him deeply and believe in him.<br><br>He will be pleased with you as you respond to his love with sincerity and love.<br><br>May we walk this eternal road together and meet in our Father's house. Amen.</div>
+<div style="display:flex;flex-direction:column;gap:10px;margin:20px 0;align-items:center">
+<a href="https://e.pcloud.link/publink/show?code=XZnHDNZwlvsOG27VGVYCpQrC8xTIylamRK7" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">&#128250; Gospel Bridge 2025 (Mandarin)</a>
+<a href="https://flossy-dish-cfd.notion.site/01-the-Good-News-for-us-2fcf133f651f80a692c9f98ddc7630e3" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">&#128250; The Mystery of the Five Colours (Cantonese)</a>
+</div>
+
+<button class="immersive-btn primary" onclick="nextStage(9)">A M E N</button>
+</div>
+<div class="immersive-stage" id="stage-9">
+<div class="immersive-question">&#127881; Congratulations!</div>
+<div class="immersive-sub">If you have prayed this in your heart, congratulations &mdash; you are now a child of God!<br>Death is no longer the end; it is the gate home. May we meet in our Father's house, and may the Lord bless you. Amen<br><br>He is the God who helps with a smile, the God who does not reproach, and who takes our silent meditation as sweetness.<br><br>Since we have been reconciled to God through Jesus Christ, we have joy in God through him,<br><br>so that we may truly live with him and face all our problems together,<br><br>trusting in his promise and looking forward to the day he comes again.<br><br>The Lord bless you, so that you may know him deeply and believe in him.<br><br>He will be pleased with you as you respond to his love with sincerity and love.<br><br>May we walk this eternal road together and meet in our Father's house. Amen.</div>
+<div style="display:flex;flex-direction:column;gap:10px;margin:20px 0;align-items:center">
+<a href="https://e.pcloud.link/publink/show?code=XZnHDNZwlvsOG27VGVYCpQrC8xTIylamRK7" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-crit);color:var(--c-crit)">&#128250; Gospel Bridge 2025 (Mandarin)</a>
+<a href="https://flossy-dish-cfd.notion.site/01-the-Good-News-for-us-2fcf133f651f80a692c9f98ddc7630e3" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">&#128250; The Mystery of the Five Colours (Cantonese)</a>
+<a href="https://e.pcloud.link/publink/show?code=XZvUaNZT9PeIugWINRO7QN05ftGC7LHFhlX" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-soul);color:var(--c-soul)">&#127925; Hymn 01 &mdash; The Eternal Wedding Vow</a>
+<a href="https://e.pcloud.link/publink/show?code=XZCYYNZ9BIRdIzCx9u3f4uHWs0HuVxfzE0X" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-soul);color:var(--c-soul)">&#127925; Hymn 02 &mdash; The Song of Songs' Wish (MV)</a>
+<a href="https://e.pcloud.link/publink/show?code=XZkLwaZLR2qiwdd14hKtYF5uYDpypCxmmQV" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-soul);color:var(--c-soul)">&#127925; Hymn 03 &mdash; The Cry of Life (MV)</a>
+<a href="https://e.pcloud.link/publink/show?code=XZwfyIZnU6yu2uJvLYssVSxxTTYmzKg2lHy" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-hope);color:var(--c-hope)">&#128214; Sharing &mdash; "The Repair of Love" Part 2 (Mandarin)</a>
+<a href="https://e.pcloud.link/publink/show?code=XZIUPEZSxz3jHIx6ykIwUKptmbOTL7VfvMV" target="_blank" rel="noopener" class="immersive-btn" style="text-decoration:none;border-color:var(--c-fatal);color:var(--c-fatal)">&#9888;&#65039; Wake Up &mdash; The Wolf Comes One Last Time (Mandarin)</a>
+</div>
+<button class="immersive-btn" onclick="nextStage(8)">B A C K</button>
+<button class="immersive-btn primary" onclick="closeImmersive()">A M E N</button>
+</div>
+</div>
+</div>
+
+<!-- ===== 聖經連結區 ===== -->
+<div class="bible-links">
+<h3>"Bible &middot; Tribulation &middot; Information"</h3>
+<div class="link-grid">
+<div class="link-card">
+<div class="link-title">01 Information</div>
+<a href="https://e.pcloud.link/publink/show?code=kZt8zaZd7iPCbuRK7mXuE6Lg4fjEJ933Sr7" target="_blank">pCloud link &rarr;</a>
+</div>
+<div class="link-card">
+<div class="link-title">02 The sorcery in the plague</div>
+<a href="https://e.pcloud.link/publink/show?code=kZU8zaZLBosh9pTrp8O7DGN7wlrDJlU3JDy" target="_blank">pCloud link &rarr;</a>
+</div>
+<div class="link-card">
+<div class="link-title">03 The Fourth Industrial Revolution</div>
+<a href="https://e.pcloud.link/publink/show?code=kZN8zaZXgsGC7Chqaprdidpa07hMSrFWyGV" target="_blank">pCloud link &rarr;</a>
+</div>
+<div class="link-card">
+<div class="link-title">04 Bible information (Cantonese)</div>
+<a href="https://e.pcloud.link/publink/show?code=kZG8zaZpg5DO5gtmuhmDUrC4tjRCpJ7QT8V" target="_blank">pCloud link &rarr;</a>
+</div>
+<div class="link-card">
+<div class="link-title">05 Bible information (Mandarin)</div>
+<a href="https://e.pcloud.link/publink/show?code=kZG8zaZpg5DO5gtmuhmDUrC4tjRCpJ7QT8V" target="_blank">pCloud link &rarr;</a>
+</div>
+</div>
+</div>
+<!-- 貼上區（置底） -->
+<div class="paste-zone">
+<textarea id="paste-input" class="paste-area" placeholder="把資料貼在這裡（日期 TAB 網址 TAB 標題）
+或等待自動載入 data-YYYY.js / data-today.js"></textarea>
+<div class="paste-buttons">
+<button class="btn" onclick="loadPastedData()">&#128229; Load pasted content</button>
+<button class="btn" onclick="document.getElementById('file-input').click()">&#128194; Choose file</button>
+<button class="btn" onclick="exportSnapshot()">&#128190; Export HTML</button>
+<button class="btn" onclick="toggleMourningMode()">&#128367;&#65039; Silent-memorial mode</button>
+<input type="file" id="file-input" accept=".txt,.tsv,.js" style="display:none" onchange="handleFile(event)">
+<div id="json-status"></div>
+</div>
+</div>
+<!-- 跑馬燈 -->
+<footer id="doom-footer"><div id="footer-text">&#9672; Life and death are separated by a single breath &mdash; while the breath remains, all is possible; once it is cut, all is void &#9672; This life and eternity, alertness or slumber &mdash; which side do you choose? &#9672; The Great Reset 2017&rarr;2027 &middot; The Fourth Industrial Revolution &middot; Great Reset &#9672; (2019-2028) &rarr; plague &rarr; war &rarr; continued decline in health &rarr; more severe in 2026-2028 &#9672; The 40th Jubilee &rarr; the final trumpet &rarr; the seven-year tribulation &#9672; "As for tomorrow, we do not know what it will bring. What is our life? We are a mist that appears for a little while and then vanishes." &mdash; James 4:14 &#9672; "For what is a man profited, if he shall gain the whole world, and lose his own life?" &mdash; Matthew 16:26 &#9672; As it is appointed to man, that he must die once, and after that come judgment &mdash; Hebrews 9:27</div></footer>
+<button id="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" aria-label="回到頂端">↑</button>
+
+<script>
+// ═══════════════════════════════════════════════
+// VITAL LIFE MONITOR v9.0 (Chart.js + JSON Rules)
+// ═══════════════════════════════════════════════
+let allEvents = [];
+let filteredEvents = [];
+let candleCounts = JSON.parse(localStorage.getItem('candleCounts') || '{}');
+let totalCandles = Object.values(candleCounts).reduce((a, b) => a + b, 0);
+let currentTimeRange = 'week';
+let ageGroup = null; // 年齡組合篩選：{min,max} 或 null（All）
+
+const DEATHS_PER_SECOND = 2.0;
+let deathEntryTime = null;
+
+// ===== 動態載入 JSON 規則引擎 =====
+let jsonRules = null;
+let dynCategories = {
+    FATAL: ['自殺', '治安', '天災'],
+  SUDDEN: ['猝死'],
+  CRIT: ['危殆', '暈倒', '中暑', '肝炎'],
+  ACC: ['交通', '火警', '遇溺', '意外'],
+  OTHER: ['醫藥', '經濟', 'AI安全', '宗教末世', '不明']
+};
+let isSpamRegex = [];
+
+async function loadJsonRules() {
+  const statusEl = document.getElementById('json-status');
+  try {
+    const res = await fetch('classify_rules.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    jsonRules = await res.json();
+    
+    // 預編譯 SPAM 正則
+    if (jsonRules.spam && jsonRules.spam.title_patterns) {
+      isSpamRegex = jsonRules.spam.title_patterns.map(p => new RegExp(p, 'i'));
+    }
+    
+    if(statusEl){ statusEl.innerHTML = '&#128994; JSON rules loaded successfully (v' + (jsonRules._meta?.version||'1.0') + ')'; statusEl.style.color = 'var(--c-acc)'; }
+    console.log("JSON rules table loaded");
+  } catch (err) {
+    if(statusEl){ statusEl.innerHTML = '&#128994; classify_rules.json failed to load, using built-in basic rules (' + err.message + ')'; statusEl.style.color = 'var(--c-fatal)'; }
+    console.warn("Cannot load classify_rules.json, falling back to built-in functions", err);
+  }
+}
+
+// 內建基礎分類（若 JSON 載入失敗的後備）
+const fbFatalKw = ['死亡','不治','暴斃','身亡','溺斃','離世','送院不治','倒斃'];
+const fbCritKw  = ['危殆','昏迷','命危','搶救','重傷','暈倒'];
+const fbAccKw   = ['意外','車禍','火警','墮樓','爆炸','工傷','交通意外'];
+const fbSafeWords = ['猝死','死亡','不治','身亡','離世','心臟驟停','送院不治','墮樓','自殺','遇溺','倒斃','車禍','火警'];
+
+function isSpamFallback(t) {
+  t=(t||'').trim();
+  for(const w of fbSafeWords) if(t.includes(w)) return false;
+  if(t.length<4) return true;
+  if(/廣告|優惠|折扣|代購|加盟|貸款|開戶|免費領/.test(t)) return true;
+  return false;
+}
+
+// 核心分類邏輯：優先使用 JSON，否則使用後備
+// 完整流程：SPAM domains → brands → regex → combo
+//          → not_relevant (keywords + animal_keywords)
+//          → survival_signals 降級
+//          → priority 關鍵字 → death_confirmed 兜底 → OTHER
+function categorize(title) {
+  const t = (title||'').trim();
+  const tLow = t.toLowerCase();
+  
+  if (jsonRules) {
+    // 1. JSON Spam 檢查
+    const spam = jsonRules.spam;
+    let isSpam = false;
+    let isSafe = false;
+    if (spam && spam.safe_words) {
+      isSafe = spam.safe_words.some(w => t.includes(w));
+    }
+    if (!isSafe) {
+      // 1a. 賭博域名檢查
+      if (spam.domains && spam.domains.some(d => tLow.includes(d.toLowerCase()))) isSpam = true;
+      // 1b. 品牌檢查
+      if (!isSpam && spam.brands && spam.brands.some(b => tLow.includes(b.toLowerCase()))) isSpam = true;
+      // 1c. 正則表達式檢查
+      if (!isSpam && isSpamRegex.some(rx => rx.test(t))) isSpam = true;
+      // 1d. 組合關鍵字檢查
+      if (!isSpam && spam.combo_keywords) {
+        let hits = 0;
+        spam.combo_keywords.forEach(kw => { if(t.includes(kw)) hits++; });
+        if (hits >= (spam.combo_threshold || 2)) isSpam = true;
+      }
+    }
+    if (isSpam) return 'SPAM';
+    
+    // 2. JSON Not Relevant（keywords + animal_keywords 均視為 SPAM 隱藏）
+    if (jsonRules.not_relevant) {
+      if (jsonRules.not_relevant.keywords && jsonRules.not_relevant.keywords.some(kw => t.includes(kw))) return 'SPAM';
+      if (jsonRules.not_relevant.animal_keywords && jsonRules.not_relevant.animal_keywords.some(kw => tLow.includes(kw.toLowerCase()))) return 'SPAM';
+      if (jsonRules.not_relevant.memorial_keywords && jsonRules.not_relevant.memorial_keywords.some(kw => t.includes(kw))) return 'SPAM';
+    }
+    
+    // ── 3. Survival Signals（R15: 純存活詞 + 無死亡計數 → 排除）──
+    if (jsonRules.survival_signals && jsonRules.survival_signals.some(w => t.includes(w))) {
+      if (!/\d+死|\d+人(?:遇難|罹難|喪生|死亡)/.test(t)) return 'SPAM';
+    }
+    // ── 3.5 FORCED SUDDEN（對齊 Python 強制規則）──
+    // 核心猝死關鍵詞：只要命中就直接 SUDDEN，不受 priority 順序影響
+    // 解決「猝死在 priority 第14位導致被自殺/交通/意外搶先」的根本問題
+    const suddenForced = jsonRules.sudden_override || [
+      '猝死','猝斃','猝亡','猝逝','暴斃','暴卒','驟逝',
+      '心臟驟停','心臟停頓','心臟停止','心肌梗塞','心臟病發',
+      '心源性猝死','心因性猝死','心源性休克','心因性休克',
+      '突然死亡','倒地猝死','猝然倒地','猝然離世',
+      '過勞死','OHCA','到院前死亡',
+      '心血管猝死','心律不整致死','急性心臟事件','突發心臟病',
+      '腦溢血','腦梗塞','腦血管破裂','腦出血','急性腦血管意外',
+      '主動脈夾層','急性梗塞','急性心衰',
+      '倒斃','路倒','暴病而亡',
+      '睡夢中離世','床上暴斃','睡夢中猝死'
+    ];
+    if (suddenForced.some(k => t.includes(k))) return 'SUDDEN';
+    // ── 4. Priority 順序關鍵字匹配（非猝死核心詞才走此路）──
+    if (jsonRules.priority && jsonRules.keywords) {
+      for (const cat of jsonRules.priority) {
+        const kws = jsonRules.keywords[cat] || [];
+        if (kws.some(kw => t.includes(kw))) {
+          let mapped = 'OTHER';
+          if (dynCategories.SUDDEN && dynCategories.SUDDEN.includes(cat)) mapped = 'SUDDEN';
+          else if (dynCategories.FATAL.includes(cat)) mapped = 'FATAL';
+          else if (dynCategories.CRIT.includes(cat)) mapped = 'CRIT';
+          else if (dynCategories.ACC.includes(cat)) mapped = 'ACC';
+          return mapped;
+        }
+      }
+    }
+    // ── 5. Death Confirmed 兜底 → SUDDEN（對齊 Python R14）──
+    if (jsonRules.death_confirmed && jsonRules.death_confirmed.some(w => t.includes(w))) {
+      return 'SUDDEN';
+    }
+    
+    return 'OTHER';
+    
+  } else {
+    // 後備邏輯
+    if(isSpamFallback(t)) return 'SPAM';
+    if(['猝死','心臟驟停','心肌梗塞','暴斃'].some(k=>t.includes(k))) return 'SUDDEN';
+    if(fbFatalKw.some(k=>t.includes(k))) return 'FATAL';
+    if(fbCritKw.some(k=>t.includes(k))) return 'CRIT';
+    if(fbAccKw.some(k=>t.includes(k))) return 'ACC';
+    return 'OTHER';
+  }
+}
+
+// ===== 經文 / 名言 =====
+const dailyVerses = [
+  { text: 'A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted.', ref: 'Ecclesiastes 3:2' },
+  { text: 'As for tomorrow, we do not know what it will bring. What is our life? We are a mist that appears for a little while and then vanishes.', ref: 'James 4:14' },
+  { text: 'Be prudent, like sensible people, not like fools. Make the most of your time, for these are evil days.', ref: 'Ephesians 5:15-16' },
+  { text: 'As it is appointed to man, that he must die once, and after that come judgment.', ref: 'Hebrews 9:27' },
+  { text: 'All flesh is as grass, and all the glory of man is as the flower of the field: the grass withereth, and the flower fadeth.', ref: 'Isaiah 40:6-7' },
+  { text: 'For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.', ref: 'John 3:16' },
+  { text: 'For what is a man profited, if he shall gain the whole world, and lose his own life? or what shall a man give in exchange for his life?', ref: 'Matthew 16:26' },
+];
+const dailyQuestions = [
+  '&#128172; If today were the last day of your life, what would you do?',
+  '&#128172; What do you fear more &mdash; death itself, or the unknown after it?',
+  '&#128172; What are you grateful for today?',
+  '&#128172; Are you living, or merely surviving?',
+  '&#128172; If you had one year left, how would you reorder your priorities?',
+  '&#128172; Do you think your life is meaningful? If not, what would a meaningful life be?',
+];
+const wisdomQuotes = [
+  { text: 'Life is not measured by its length, but by its depth.', source: 'Ralph Waldo Emerson' },
+  { text: '"Some people die at 25 and are buried at 75." (living as a walking corpse)', source: 'Benjamin Franklin' },
+  { text: 'Since ancient times, who among us has escaped death? Leave a loyal heart to shine in history.', source: 'Wen Tianxiang' },
+  { text: 'Death is not the end of life; forgetting is.', source: 'Film "Coco"' },
+  { text: 'If you do not know death, how can you know life? If you do not know life, how can you know death?', source: 'Confucius' },
+  { text: 'In life, think of death; in death, will you think of eternity?', source: 'Anonymous' },
+  { text: 'Everyone eventually dies. The question is: did you really live?', source: 'Film dialogue' },
+];
+
+function extractAge(t){
+  const ps=[/(\d{1,3})\s*歲/,/(\d{1,2})旬/,/年約\s*(\d{1,3})/,/(\d{1,3})\s*yo/i];
+  for(const p of ps){ const m=(t||'').match(p); if(m){ let a=parseInt(m[1]); if((t||'').includes('旬')&&a<20) a*=10; if(a>0&&a<150) return a; } }
+  return null;
+}
+
+function safeDecode(s){ try{return decodeURIComponent((s||'').replace(/\+/g,' '))}catch{return s||''} }
+
+function parseData(raw){
+  // 預處理：去除 URL 的 < > 包裹；將單行資料按日期模式拆分為多行
+  let text = (raw||'').replace(/<(https?:\/\/[^>]+)>/g, '$1');
+  text = text.replace(/ +(?=\d{1,2}\/\d{1,2}\/\d{4}\t)/g, '\n');
+  const lines=text.split(/\r?\n/).filter(l=>l.trim());
+  const events=[];
+  for(const line of lines){
+    if(/^日期/.test(line.trim()))continue;
+    let text=safeDecode(line), parts=text.split('\t');
+    if(parts.length<3) parts=text.split('|');
+    if(parts.length<3) parts=text.split(/\s{2,}/);
+    if(parts.length<2) continue;
+
+    let dateStr=parts[0].trim().replace(/[\[\]]/g,'');
+    let url=parts.find(p=>/^https?:\/\//i.test((p||'').trim()))||'';
+    let title=parts.filter(p=>p!==parts[0]&&p!==url).map(safeDecode).join(' ').trim();
+    if(!dateStr||!title) continue;
+
+    const dp=dateStr.split(/[\/-]/).map(x=>x.trim());
+    if(dp.length!==3) continue;
+    let y,m,d;
+    if(dp[0].length===4){y=dp[0];m=dp[1];d=dp[2]}
+    else if(dp[2].length===4){y=dp[2];m=dp[1];d=dp[0]}
+    else{y='20'+dp[0].padStart(2,'0');m=dp[1];d=dp[2]}
+    dateStr=`${String(y).padStart(4,'0')}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    if(Number.isNaN(new Date(dateStr).getTime())) continue;
+
+    events.push({date:dateStr,url,title,category:categorize(title),age:extractAge(title)});
+  }
+  const seen=new Set();
+  const unique=events.filter(e=>{const k=e.date+'||'+e.title;if(seen.has(k))return false;seen.add(k);return true});
+  unique.sort((a,b)=>new Date(b.date)-new Date(a.date));
+  return unique;
+}
+
+function getKeywordStats(events){
+  // 動態獲取 JSON 內的常用詞，否則用預設
+  let checkWords = ['猝死','心臟','車禍','意外','暈倒','昏迷','火警','墮樓','溺斃','工傷','自殺','跳樓','中風','癌症','心肌梗塞','腦溢血','過勞','危殆','病逝','暴斃','不治','身亡','離世','命危','搶救','倒塌','倒斃'];
+  if (jsonRules && jsonRules.keywords) {
+     let all = [];
+     Object.values(jsonRules.keywords).forEach(arr => all.push(...arr));
+     // 合併 JSON 關鍵字（確定性排序，不隨機）
+     checkWords = [...new Set([...checkWords, ...all])].sort().slice(0, 80);
+  }
+  
+  const kws={};
+  for(const e of events) {
+    if (e.category === 'SPAM') continue;
+    for(const kw of checkWords) if((e.title||'').includes(kw)) kws[kw]=(kws[kw]||0)+1;
+  }
+  return Object.entries(kws).sort((a,b)=>b[1]-a[1]).slice(0,25);
+}
+
+function renderList(events){
+  const c=document.getElementById('log-stream'); c.innerHTML='';
+  for(const e of events){
+    const div=document.createElement('div'); div.className=`log-item type-${e.category}`;
+    const ageBadge=e.age?`<span class="age-badge">~${e.age} yrs</span>`:'';
+    const eid=`${e.date}-${(e.title||'').slice(0,20)}`;
+    const isLit=(candleCounts[eid]||0)>0;
+    const titleHtml=e.url?`<a href="${e.url}" target="_blank" rel="noopener noreferrer">${e.title}</a>`:`${e.title}`;
+    div.innerHTML=`<span class="date">${e.date} ${ageBadge}</span><span class="title">${titleHtml}</span><span class="candle ${isLit?'lit':''}" data-id="${eid}" onclick="lightCandle(this)">🕯️</span>`;
+    c.appendChild(div);
+  }
+}
+
+function lightCandle(el){
+  const id=el.dataset.id;
+  candleCounts[id]=(candleCounts[id]||0)+1; totalCandles++;
+  el.classList.add('lit'); localStorage.setItem('candleCounts',JSON.stringify(candleCounts));
+  document.getElementById('total-candles').textContent=totalCandles;
+  el.style.transform='translateY(-50%) scale(1.5)'; setTimeout(()=>el.style.transform='',300);
+}
+
+function updateStats(events){
+  const nonSpam = events.filter(e => e.category !== 'SPAM');
+  const sd=events.filter(e=>e.category==='SUDDEN').length, f=events.filter(e=>e.category==='FATAL').length, cr=events.filter(e=>e.category==='CRIT').length,
+        ac=events.filter(e=>e.category==='ACC').length, ot=events.filter(e=>e.category==='OTHER').length;
+  document.getElementById('total-count').textContent=nonSpam.length;
+  document.getElementById('stat-fatal').textContent=f;
+  if(document.getElementById('stat-sudden')) document.getElementById('stat-sudden').textContent=sd;
+  document.getElementById('stat-crit').textContent=cr;
+  document.getElementById('stat-acc').textContent=ac;
+  document.getElementById('stat-other').textContent=ot;
+  if(nonSpam.length>0){
+    const dates=nonSpam.map(e=>e.date).sort();
+    document.getElementById('period-display').textContent=`${dates[0]} &rarr; ${dates[dates.length-1]} | ${nonSpam.length} cases`;
+  } else {
+    document.getElementById('period-display').textContent=`Waiting for data to load...`;
+  }
+}
+
+function renderKeywordCloud(events){
+  const c=document.getElementById('keyword-cloud'), stats=getKeywordStats(events);
+  if(!stats.length){c.innerHTML='<span style="color:#666">No keyword data yet</span>';return}
+  const mx=stats[0][1];
+  c.innerHTML=stats.map(([kw,cnt])=>{
+    const sz=0.8+(cnt/mx)*0.6;
+    const safe=kw.replace(/'/g,"\\'");
+    return `<span class="keyword-tag" style="font-size:${sz}em" onclick="quickSearch('${safe}')">${kw}(${cnt})</span>`;
+  }).join('');
+}
+
+
+// ===== CHART.JS 專業互動圖表 =====
+let mainChart = null;
+let currentChartMode = 'age'; // 'age' 或 'radar'
+
+function switchChart(mode) {
+  currentChartMode = mode;
+  document.querySelectorAll('.chart-tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelector(`.chart-tab-btn[onclick="switchChart('${mode}')"]`).classList.add('active');
+  renderTrendChart(filteredEvents);
+}
+
+function renderTrendChart(events){
+  const canvas = document.getElementById('cz-canvas') || document.getElementById('trend-chart');
+  if(!canvas) return;
+  
+  // 排除 SPAM 數據
+  const dataEvents = events.filter(e => e.category !== 'SPAM');
+  if(!dataEvents.length) return;
+  
+  const ctx = canvas.getContext('2d');
+  
+  // 銷毀舊圖表
+  if (mainChart) mainChart.destroy();
+
+  Chart.defaults.color = '#888';
+  Chart.defaults.font.family = '"Share Tech Mono", monospace';
+
+  if (currentChartMode === 'mom') {
+    // === 按月趨勢 (MoM) ===
+    const mm = {};
+    dataEvents.forEach(e => {
+      const ym = e.date.slice(0,7);
+      mm[ym] = (mm[ym] || 0) + 1;
+    });
+    const labels = Object.keys(mm).sort();
+    const values = labels.map(l => mm[l]);
+
+    mainChart = new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: [{
+          label: 'Casualties',
+          data: values,
+          borderColor: '#00f3ff',
+          backgroundColor: 'rgba(0, 243, 255, 0.15)',
+          borderWidth: 2,
+          pointBackgroundColor: '#fff',
+          pointBorderColor: '#00f3ff',
+          pointRadius: 3,
+          pointHoverRadius: 6,
+          fill: true,
+          tension: 0.3
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        onClick: (e, activeEls) => {
+          if (activeEls.length > 0) {
+            const idx = activeEls[0].index;
+            const ym = labels[idx];
+            document.getElementById('search-input').value = ym;
+            filterEvents();
+          }
+        },
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: 'rgba(0,0,0,0.8)',
+            titleColor: '#00f3ff',
+            bodyFont: { size: 14 },
+            displayColors: false,
+            callbacks: {
+              label: (ctx) => `記錄: ${ctx.parsed.y} 宗`
+            }
+          }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(255,255,255,0.05)' } },
+          y: { beginAtZero: true, grid: { color: 'rgba(255,255,255,0.1)' } }
+        }
+      }
+    });
+
+  } else if (currentChartMode === 'yoy') {
+    // === 按年對比 (YoY) ===
+    const yearMonthData = {};
+    const allYears = new Set();
+    
+    dataEvents.forEach(e => {
+      const y = e.date.slice(0,4);
+      const m = parseInt(e.date.slice(5,7));
+      allYears.add(y);
+      if (!yearMonthData[y]) yearMonthData[y] = Array(12).fill(0);
+      yearMonthData[y][m-1]++;
+    });
+
+    const sortedYears = Array.from(allYears).sort().slice(-4); // 最多顯示最近4年
+    const colors = ['#3a4a5a', '#a855f7', '#ffae00', '#00f3ff'];
+    
+    const datasets = sortedYears.map((y, i) => ({
+      label: `${y}年`,
+      data: yearMonthData[y],
+      backgroundColor: colors[i % colors.length],
+      borderRadius: 4
+    }));
+
+    mainChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+        datasets: datasets
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        onClick: (e, activeEls) => {
+          if (activeEls.length > 0) {
+            const dsIdx = activeEls[0].datasetIndex;
+            const dataIdx = activeEls[0].index;
+            const y = sortedYears[dsIdx];
+            const m = String(dataIdx + 1).padStart(2, '0');
+            document.getElementById('search-input').value = `${y}-${m}`;
+            filterEvents();
+          }
+        },
+        plugins: {
+          legend: { position: 'top', labels: { color: '#e0e6ed', boxWidth: 12 } },
+          tooltip: {
+            backgroundColor: 'rgba(0,0,0,0.8)',
+            bodyFont: { size: 13 }
+          }
+        },
+        scales: {
+          x: { grid: { display: false } },
+          y: { beginAtZero: true, grid: { color: 'rgba(255,255,255,0.1)' } }
+        }
+      }
+    });
+  } else if (currentChartMode === 'pie') {
+    // === 分類佔比 (Pie) ===
+    const cats = {FATAL:0, SUDDEN:0, CRIT:0, ACC:0, OTHER:0};
+    dataEvents.forEach(e => { if(cats[e.category] !== undefined) cats[e.category]++; });
+    mainChart = new Chart(ctx, {
+      type: 'pie',
+      data: {
+        labels: ['☠️ FATAL','&#128148; Sudden Death','⚠️ CRIT','🔥 ACC','📊 OTHER'],
+        datasets: [{
+          data: Object.values(cats),
+          backgroundColor: ['#ff2a2a','#ff6b35','#ffae00','#00ff41','#3a4a5a'],
+          borderColor: '#0a0f14', borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        plugins: {
+          legend: { position: 'right', labels: { color: '#e0e6ed', font: { size: 12 } } },
+          tooltip: { backgroundColor: 'rgba(0,0,0,.85)', bodyFont: { size: 13 } }
+        }
+      }
+    });
+  } else if (currentChartMode === 'doughnut') {
+    // === 環形分析 (Doughnut) ===
+    const cats = {FATAL:0, SUDDEN:0, CRIT:0, ACC:0, OTHER:0};
+    dataEvents.forEach(e => { if(cats[e.category] !== undefined) cats[e.category]++; });
+    mainChart = new Chart(ctx, {
+      type: 'doughnut',
+      data: {
+        labels: ['☠️ FATAL','&#128148; Sudden Death','⚠️ CRIT','🔥 ACC','📊 OTHER'],
+        datasets: [{
+          data: Object.values(cats),
+          backgroundColor: ['#ff2a2a','#ff6b35','#ffae00','#00ff41','#3a4a5a'],
+          borderColor: '#0a0f14', borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false, cutout: '55%',
+        plugins: {
+          legend: { position: 'right', labels: { color: '#e0e6ed', font: { size: 12 } } },
+          tooltip: { backgroundColor: 'rgba(0,0,0,.85)', bodyFont: { size: 13 } }
+        }
+      }
+    });
+  } else if (currentChartMode === 'age') {
+    // === 年齡分佈 ===
+    const bk=[{l:'<20',min:0,max:19},{l:'20s',min:20,max:29},{l:'30s',min:30,max:39},{l:'40s',min:40,max:49},{l:'50s',min:50,max:59},{l:'60s',min:60,max:69},{l:'70s',min:70,max:79},{l:'80+',min:80,max:200}];
+    bk.forEach(b=>b.v=0);
+    dataEvents.forEach(e=>{if(e.age){const b=bk.find(b=>e.age>=b.min&&e.age<=b.max);if(b)b.v++}});
+    const ageColors=['#0d4f4f','#0e6b6b','#0f8787','#10a3a3','#11bfbf','#12dbdb','#00f3ff','#66f9ff'];
+    mainChart = new Chart(ctx, {
+      type:'bar',
+      data:{labels:bk.map(b=>b.l),datasets:[{label:'Deaths',data:bk.map(b=>b.v),backgroundColor:ageColors,borderColor:'rgba(0,243,255,.4)',borderWidth:1,borderRadius:4}]},
+      options:{responsive:true,maintainAspectRatio:false,
+        onClick:(e,activeEls)=>{if(activeEls.length>0){const idx=activeEls[0].index;const b=bk[idx];const midAge=b.min===0?15:b.min===80?85:b.min+5;document.getElementById('age-filter').value=midAge;filterEvents()}},
+        plugins:{legend:{display:false},tooltip:{backgroundColor:'rgba(0,0,0,.85)',titleColor:'#00f3ff',bodyFont:{size:13},displayColors:false,callbacks:{label:(c)=>{const total=bk.reduce((a,b)=>a+b.v,0);return `${c.parsed.y} 人 (${total?(c.parsed.y/total*100).toFixed(1):0}%)`}}}},
+        scales:{x:{grid:{display:false},ticks:{color:'#8a9aaa',font:{size:11}}},y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.08)'},ticks:{color:'#888'}}}
+      }
+    });
+  } else if (currentChartMode === 'stacked') {
+    // === 堆疊趨勢 (Stacked Bar) ===
+    const mm = {};
+    dataEvents.forEach(e => {
+      const ym = e.date.slice(0,7);
+      if (!mm[ym]) mm[ym] = {FATAL:0, SUDDEN:0, CRIT:0, ACC:0, OTHER:0};
+      if (mm[ym][e.category] !== undefined) mm[ym][e.category]++;
+    });
+    const sl = Object.keys(mm).sort();
+    const cn = ['FATAL','SUDDEN','CRIT','ACC','OTHER'];
+    const cc = ['#ff2a2a','#ff6b35','#ffae00','#00ff41','#3a4a5a'];
+    const cl = ['☠️ FATAL','&#128148; Sudden Death','⚠️ CRIT','🔥 ACC','📊 OTHER'];
+    mainChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: sl,
+        datasets: cn.map((c, i) => ({
+          label: cl[i], data: sl.map(l => mm[l][c] || 0),
+          backgroundColor: cc[i], borderRadius: 2
+        }))
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        plugins: {
+          legend: { position: 'top', labels: { color: '#e0e6ed', boxWidth: 12 } },
+          tooltip: { mode: 'index', intersect: false, backgroundColor: 'rgba(0,0,0,.85)' }
+        },
+        scales: {
+          x: { stacked: true, grid: { display: false } },
+          y: { stacked: true, beginAtZero: true, grid: { color: 'rgba(255,255,255,.1)' } }
+        }
+      }
+    });
+  } else if (currentChartMode === 'radar') {
+    // === 雷達圖 (Radar) ===
+    const now3 = new Date();
+    const thisM = now3.toISOString().slice(0,7);
+    const prevD = new Date(now3.getFullYear(), now3.getMonth() - 1, 1);
+    const prevM = prevD.toISOString().slice(0,7);
+    const cn = ['FATAL','SUDDEN','CRIT','ACC','OTHER'];
+    const td = cn.map(c => dataEvents.filter(e => e.date.startsWith(thisM) && e.category === c).length);
+    const pd = cn.map(c => dataEvents.filter(e => e.date.startsWith(prevM) && e.category === c).length);
+    mainChart = new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels: ['☠️ FATAL','&#128148; Sudden Death','⚠️ CRIT','🔥 ACC','📊 OTHER'],
+        datasets: [
+          { label: thisM, data: td, borderColor: '#00f3ff', backgroundColor: 'rgba(0,243,255,.15)', pointBackgroundColor: '#00f3ff' },
+          { label: prevM, data: pd, borderColor: '#a855f7', backgroundColor: 'rgba(168,85,247,.15)', pointBackgroundColor: '#a855f7' }
+        ]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        scales: { r: { beginAtZero: true, grid: { color: 'rgba(255,255,255,.1)' }, pointLabels: { color: '#e0e6ed', font: { size: 11 } }, ticks: { color: '#888', backdropColor: 'transparent' } } },
+        plugins: { legend: { position: 'top', labels: { color: '#e0e6ed' } } }
+      }
+    });
+  } else if (currentChartMode === 'polarArea') {
+    // === 極座標 (Polar Area) ===
+    const cats = {FATAL:0, SUDDEN:0, CRIT:0, ACC:0, OTHER:0};
+    dataEvents.forEach(e => { if(cats[e.category] !== undefined) cats[e.category]++; });
+    mainChart = new Chart(ctx, {
+      type: 'polarArea',
+      data: {
+        labels: ['☠️ FATAL','&#128148; Sudden Death','⚠️ CRIT','🔥 ACC','📊 OTHER'],
+        datasets: [{
+          data: Object.values(cats),
+          backgroundColor: ['rgba(255,42,42,.7)','rgba(255,107,53,.7)','rgba(255,174,0,.7)','rgba(0,255,65,.7)','rgba(58,74,90,.7)'],
+          borderColor: '#0a0f14', borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        scales: { r: { beginAtZero: true, grid: { color: 'rgba(255,255,255,.1)' }, ticks: { color: '#888', backdropColor: 'transparent' } } },
+        plugins: {
+          legend: { position: 'right', labels: { color: '#e0e6ed', font: { size: 12 } } },
+          tooltip: { backgroundColor: 'rgba(0,0,0,.85)' }
+        }
+      }
+    });
+  }
+}
+
+function quickSearch(kw){document.getElementById('search-input').value=kw;filterEvents()}
+
+function showTodayFocus(events){
+  const pool = events.filter(e => e.category === 'FATAL'); 
+  const src = pool.length ? pool : events.filter(e => e.category !== 'SPAM');
+  if(!src.length) return;
+  const r=src[Math.floor(Math.random()*src.length)];
+  document.querySelector('#today-focus .focus-content').textContent=r.title;
+  document.querySelector('#today-focus .focus-date').textContent=r.date;
+}
+
+function localDateStr(d){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');}
+function getTimeRangeBase(){
+  const range=currentTimeRange||'all';
+  if(range==='all') return [...allEvents];
+  const now=new Date(),todayStr=localDateStr(now);
+  if(range==='today'){
+    const todayEv=allEvents.filter(e=>e.date===todayStr);
+    if(todayEv.length) return todayEv;
+    const latest=allEvents.length?allEvents[0].date:null;
+    return latest?allEvents.filter(e=>e.date===latest):[];
+  }
+  let cutoff=null;
+  if(range==='week') cutoff=new Date(now.getTime()-7*86400000);
+  else if(range==='month') cutoff=new Date(now.getTime()-30*86400000);
+  else if(range==='year') cutoff=new Date(now.getTime()-365*86400000);
+  if(cutoff){const cs=localDateStr(cutoff);return allEvents.filter(e=>e.date>=cs);}
+  return [...allEvents];
+}
+function filterEvents(){
+  const q=(document.getElementById('search-input').value||'').toLowerCase().trim();
+  const av=document.getElementById('age-filter').value;
+  const yv=document.getElementById('year-filter').value;
+  const mv=document.getElementById('month-filter').value;
+  const base=(av||ageGroup)?allEvents:getTimeRangeBase();
+  filteredEvents=base.filter(e=>{
+    let ok=true;
+    if(q) ok=(e.title||'').toLowerCase().includes(q)||(e.date||'').includes(q);
+    if(yv&&ok) ok=(e.date||'').startsWith(yv);
+    if(mv&&ok){ const m=(e.date||'').slice(5,7); ok=m===mv; }
+    if(av&&ok){const ta=parseInt(av);ok=e.age?Math.abs(e.age-ta)<=5:false}
+    if(ageGroup&&ok){ok=e.age?e.age>=ageGroup.min&&e.age<=ageGroup.max:false}
+    return ok;
+  });
+  renderList(filteredEvents);
+  updateStats(filteredEvents);
+  renderKeywordCloud(getTimeRangeBase());
+  renderTrendChart(filteredEvents);
+  showTodayFocus(filteredEvents);
+  const el=document.getElementById('filter-summary');
+  if(el) el.textContent=(q||av||ageGroup||yv||mv||(currentTimeRange&&currentTimeRange!=='all'))?`Showing ${filteredEvents.length} / ${allEvents.length}`:'';
+}
+function setAgeGroup(range,btn){
+  ageGroup=range?{min:range[0],max:range[1]}:null;
+  document.querySelectorAll('.age-group-btn').forEach(b=>b.classList.remove('active'));
+  if(btn) btn.classList.add('active');
+  filterEvents();
+}
+function resetFilters(){
+  document.getElementById('search-input').value='';
+  document.getElementById('age-filter').value='';
+  document.getElementById('year-filter').value='';
+  document.getElementById('month-filter').value='';
+  ageGroup=null;
+  currentTimeRange='all';
+  const firstBtn=document.querySelector('.age-group-btn');
+  document.querySelectorAll('.age-group-btn').forEach(b=>b.classList.remove('active'));
+  if(firstBtn) firstBtn.classList.add('active');
+  document.querySelectorAll('.time-range-btn').forEach(b=>b.classList.toggle('active',b.dataset.range==='all'));
+  filterEvents();
+}
+function filterByTimeRange(range){
+  currentTimeRange=range;
+  document.querySelectorAll('.time-range-btn').forEach(b=>b.classList.remove('active'));
+  const btn=document.querySelector('.time-range-btn[data-range="'+range+'"]');
+  if(btn) btn.classList.add('active');
+  filterEvents();
+}
+function populateFilterDropdowns(){
+  const years=new Set(), months=new Set();
+  allEvents.forEach(e=>{ if(e.date){ years.add(e.date.slice(0,4)); months.add(e.date.slice(5,7)); } });
+  const ys=document.getElementById('year-filter');
+  ys.innerHTML='<option value="">All years</option>'+[...years].sort().reverse().map(y=>`<option value="${y}">${y}</option>`).join('');
+  const ms=document.getElementById('month-filter');
+  const mNames=['','Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  ms.innerHTML='<option value="">All months</option>'+[...months].sort().map(m=>`<option value="${m}"../>${mNames[parseInt(m)]||m}</option>`).join('');
+}
+function loadPastedData(){
+  const input=document.getElementById('paste-input');
+  if(!input||!input.value.trim())return;
+  // 重新解析數據，這時若 JSON 已載入，就會用 JSON 規則
+  allEvents=parseData(input.value); filteredEvents=[...allEvents];
+  populateFilterDropdowns();
+  filterByTimeRange('week');
+}
+function handleFile(ev){
+  const f=ev.target.files[0]; if(!f)return;
+  const r=new FileReader();
+  r.onload=e=>{document.getElementById('paste-input').value=e.target.result;loadPastedData()};
+  r.readAsText(f);
+}
+
+// === 核心啟動流程修改：先讀 JSON，再讀 Data ===
+async function initApp() {
+  // 1. 先非同步載入 JSON
+  await loadJsonRules();
+  
+  // 2. 再載入新聞數據
+  autoLoadData();
+}
+
+function autoLoadData(){
+  if(location.protocol==='file:'){
+    document.getElementById('paste-input').placeholder='&#9888;&#65039; To open locally, run python -m http.server 8000\nthen open http://localhost:8000/monitor.html';
+    return;
+  }
+  const _t=new Date();
+  const _v=_t.getFullYear().toString()+String(_t.getMonth()+1).padStart(2,'0')+String(_t.getDate()).padStart(2,'0');
+  function renderData(merged){
+    if(merged.trim()){
+      document.getElementById('paste-input').value=merged;
+      loadPastedData();
+    }
+  }
+  // Phase 1: 先載入 data_today.js（加 cache-busting），立即渲染首屏
+  new Promise(resolve=>{
+    const s=document.createElement('script');
+    s.src='../data_today.js?v='+_v;
+    s.onload=()=>resolve();
+    s.onerror=()=>resolve();
+    document.head.appendChild(s);
+  }).then(()=>{
+    if(window.DATA_TODAY&&window.DATA_TODAY.trim()) renderData(window.DATA_TODAY);
+    // Phase 2: 背景載入 data_0000.js，完成後合併重新渲染
+    new Promise(resolve=>{
+      const s=document.createElement('script');
+      s.src='../data_0000.js?v='+_v;
+      s.onload=()=>resolve();
+      s.onerror=()=>resolve();
+      document.head.appendChild(s);
+    }).then(()=>{
+      const parts=[];
+      if(window.DATA_0000) parts.push(window.DATA_0000);
+      if(window.DATA_TODAY) parts.push(window.DATA_TODAY);
+      const merged=parts.join('\n');
+      if(merged.trim()) renderData(merged);
+      else document.getElementById('paste-input').placeholder='&#9888;&#65039; No data_0000.js or data_today.js found\nPlease put the data files in the same folder';
+    });
+  });
+}
+
+function exportSnapshot(){
+  const blob=new Blob([document.documentElement.outerHTML],{type:'text/html;charset=utf-8'});
+  const url=URL.createObjectURL(blob); const a=document.createElement('a');
+  a.href=url;a.download=`vital-life-monitor-${new Date().toISOString().slice(0,10)}.html`;a.click();URL.revokeObjectURL(url);
+}
+// ===== 生命Calculate器 =====
+function calculateLife(){
+  const age=parseInt(document.getElementById('user-age').value)||40;
+  const daysLived=age*365;
+  const daysLeft=Math.max(0,(80-age)*365);
+  const pct=(age/80*100).toFixed(1);
+  const target=new Date('2027-10-01');
+  const today=new Date();
+  const toTrumpet=Math.ceil((target-today)/(86400000));
+  document.getElementById('days-lived-box').textContent=daysLived.toLocaleString();
+  document.getElementById('days-left-box').textContent=daysLeft.toLocaleString();
+  document.getElementById('life-percent-box').textContent=pct+'%';
+  document.getElementById('to-2027-box').textContent=toTrumpet>0?toTrumpet+' days':'passed';
+  document.getElementById('life-result').textContent=`You have lived about ${daysLived.toLocaleString()} days. Assuming a lifespan of 80, about ${daysLeft.toLocaleString()} days remain.`;
+  const elDL=document.getElementById('days-lived');if(elDL)elDL.textContent=daysLived.toLocaleString();
+  const elDR=document.getElementById('days-left');if(elDR)elDR.textContent=daysLeft.toLocaleString();
+  const elLP=document.getElementById('life-progress');if(elLP)elLP.textContent=pct+'%';
+}
+function filterByAge(){
+  const age=parseInt(document.getElementById('peer-age').value);
+  if(!age){document.getElementById('peer-result').textContent='Please enter an age';return}
+  document.getElementById('age-filter').value=age;
+  filterEvents();
+  const count=filteredEvents.length;
+  document.getElementById('peer-result').textContent=`${count} records found for age ${age}&plusmn;5`;
+}
+function filterByAgeTop(){
+  const age=parseInt(document.getElementById('peer-age-top').value);
+  if(!age){document.getElementById('peer-result-top').textContent='Please enter an age';return}
+  document.getElementById('age-filter').value=age;
+  filterEvents();
+  const count=filteredEvents.length;
+  document.getElementById('peer-result-top').textContent=`${count} records found for age ${age}&plusmn;5`;
+}
+function updateLifelineCards(){
+  const target=new Date('2027-10-01');
+  const now=new Date();
+  const diff=Math.ceil((target-now)/86400000);
+  document.getElementById('countdown-days').textContent=diff>0?diff.toLocaleString():'passed';
+  document.getElementById('countdown-detail').textContent=diff>0?`Distance to 2027-10-01`:'passed';
+}
+// ===== 死亡計數器 =====
+function startDeathCounter(){deathEntryTime=Date.now();updateDeathCounter();setInterval(updateDeathCounter,500)}
+function updateDeathCounter(){
+  if(!deathEntryTime)return;
+  const elapsed=(Date.now()-deathEntryTime)/1000;
+  document.getElementById('death-since-entry').textContent=Math.floor(elapsed*DEATHS_PER_SECOND).toLocaleString();
+  const now=new Date(),sod=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  document.getElementById('death-today').textContent=Math.floor((now-sod)/1000*DEATHS_PER_SECOND).toLocaleString();
+}
+function showDailyContent(){
+  const d=new Date().getDate();
+  const v=dailyVerses[d%dailyVerses.length], q=dailyQuestions[d%dailyQuestions.length], w=wisdomQuotes[d%wisdomQuotes.length];
+  const dv=document.getElementById('daily-verse-text');
+  if(dv)dv.innerHTML=`${v.text}<br><span style="color:#ff6666;font-size:11px;display:inline-block;margin-top:6px">— ${v.ref}</span>`;
+  const dq=document.getElementById('daily-question-text');
+  if(dq)dq.textContent=q.replace(/^💭\s*/,'');
+  document.getElementById('wisdom-quote').textContent=`「${w.text}」`;
+  document.getElementById('wisdom-source').textContent=`— ${w.source}`;
+  // ===== 智慧橫幅自動輪播 =====
+  const allWisdom = [];
+  wisdomQuotes.forEach(w => allWisdom.push({ text: `「${w.text}」`, src: `— ${w.source}` }));
+  dailyVerses.forEach(v => allWisdom.push({ text: `「${v.text}」`, src: `— ${v.ref}` }));
+  dailyQuestions.forEach(q => allWisdom.push({ text: q, src: '&mdash; Daily question' }));
+  let wisdomIdx = d % allWisdom.length;
+  const wqEl = document.getElementById('wisdom-quote');
+  const wsEl = document.getElementById('wisdom-source');
+  setInterval(() => {
+    wqEl.style.opacity = '0';
+    wsEl.style.opacity = '0';
+    setTimeout(() => {
+      wisdomIdx = (wisdomIdx + 1) % allWisdom.length;
+      wqEl.textContent = allWisdom[wisdomIdx].text;
+      wsEl.textContent = allWisdom[wisdomIdx].src;
+      wqEl.style.opacity = '1';
+      wsEl.style.opacity = '1';
+    }, 600);
+  }, 8000);
+}
+function toggleMourningMode(){document.body.classList.toggle('mourning-mode')}
+// ===== 沉浸靈魂旅程（已移至 GoodNews.html） =====
+function openImmersive(){ window.location.href='../GoodNews.html'; }
+function closeImmersive(){ window.location.href='../monitor.html'; }
+function nextStage(n){
+  document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));
+  const el=document.getElementById(`stage-${n}`);
+  if(el) el.classList.add('active');
+}
+function selectBelief(k){
+  document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));
+  const el=document.getElementById(`stage-${k}`);
+  if(el) el.classList.add('active');
+}
+// ===== 年齡分佈圖（簡版） =====
+function renderAgeDist(){
+  const canvas=document.getElementById('age-dist');if(!canvas)return;
+  const ctx=canvas.getContext('2d'),dpr=window.devicePixelRatio||1;
+  canvas.width=canvas.offsetWidth*dpr;canvas.height=canvas.offsetHeight*dpr;
+  ctx.setTransform(1,0,0,1,0,0);ctx.scale(dpr,dpr);
+  const W=canvas.offsetWidth,H=canvas.offsetHeight;ctx.clearRect(0,0,W,H);
+  const bk=[{l:'<20',min:0,max:19},{l:'20s',min:20,max:29},{l:'30s',min:30,max:39},{l:'40s',min:40,max:49},{l:'50s',min:50,max:59},{l:'60s',min:60,max:69},{l:'70s',min:70,max:79},{l:'80+',min:80,max:200}];
+  bk.forEach(b=>b.v=0);
+  allEvents.forEach(e=>{if(e.age){const b=bk.find(b=>e.age>=b.min&&e.age<=b.max);if(b)b.v++}});
+  const mx=Math.max(...bk.map(b=>b.v),1),total=bk.reduce((a,b)=>a+b.v,0);
+  if(!total){ctx.fillStyle='#666';ctx.font='11px "Share Tech Mono",monospace';ctx.textAlign='center';ctx.fillText('Shown after data loads',W/2,H/2);return}
+  const gap=4,bw=(W-gap*(bk.length-1))/bk.length;
+  bk.forEach((b,i)=>{
+    const x=i*(bw+gap),h=b.v/mx*(H-24);
+    const gd=ctx.createLinearGradient(0,H-10-h,0,H-10);gd.addColorStop(0,'rgba(0,243,255,.8)');gd.addColorStop(1,'rgba(0,243,255,.15)');
+    ctx.fillStyle=gd;ctx.fillRect(x,H-10-h,bw,h);
+    ctx.fillStyle='#5a6a7a';ctx.font='8px "Share Tech Mono",monospace';ctx.textAlign='center';
+    ctx.fillText(b.l,x+bw/2,H-1);
+    if(b.v){ctx.fillStyle='#aaa';ctx.fillText(b.v,x+bw/2,H-14-h)}
+  });
+}
+// ===== 年齡分佈圖（Chart.js 主版） =====
+let ageDistMainChart = null;
+function renderAgeDistMain(){
+  const canvas=document.getElementById('age-dist-main');if(!canvas)return;
+  const bk=[{l:'<20',min:0,max:19},{l:'20s',min:20,max:29},{l:'30s',min:30,max:39},{l:'40s',min:40,max:49},{l:'50s',min:50,max:59},{l:'60s',min:60,max:69},{l:'70s',min:70,max:79},{l:'80+',min:80,max:200}];
+  bk.forEach(b=>b.v=0);
+  allEvents.forEach(e=>{if(e.age){const b=bk.find(b=>e.age>=b.min&&e.age<=b.max);if(b)b.v++}});
+  const total=bk.reduce((a,b)=>a+b.v,0);
+  if(ageDistMainChart) ageDistMainChart.destroy();
+  const ctx=canvas.getContext('2d');
+  const colors=['#0d4f4f','#0e6b6b','#0f8787','#10a3a3','#11bfbf','#12dbdb','#00f3ff','#66f9ff'];
+  ageDistMainChart=new Chart(ctx,{
+    type:'bar',
+    data:{
+      labels:bk.map(b=>b.l),
+      datasets:[{
+        label:'Deaths',
+        data:bk.map(b=>b.v),
+        backgroundColor:colors,
+        borderColor:'rgba(0,243,255,.4)',
+        borderWidth:1,
+        borderRadius:4
+      }]
+    },
+    options:{
+      responsive:true,maintainAspectRatio:false,
+      onClick:(e,activeEls)=>{
+        if(activeEls.length>0){
+          const idx=activeEls[0].index;
+          const b=bk[idx];
+          const midAge=b.min===0?15:b.min===80?85:b.min+5;
+          document.getElementById('peer-age-top').value=midAge;
+          filterByAgeTop();
+        }
+      },
+      plugins:{
+        legend:{display:false},
+        tooltip:{backgroundColor:'rgba(0,0,0,.85)',titleColor:'#00f3ff',bodyFont:{size:13},displayColors:false,
+          callbacks:{label:(ctx)=>`${ctx.parsed.y} 人 (${total?(ctx.parsed.y/total*100).toFixed(1):0}%)`}}
+      },
+      scales:{
+        x:{grid:{display:false},ticks:{color:'#8a9aaa',font:{size:10}}},
+        y:{beginAtZero:true,grid:{color:'rgba(255,255,255,.08)'},ticks:{color:'#888',font:{size:10}}}
+      }
+    }
+  });
+}
+// ===== 粒子背景（極簡） =====
+const particleBg=document.getElementById('particle-bg'),pCtx=particleBg.getContext('2d');
+const bgP=[];
+function resizePBg(){particleBg.width=innerWidth;particleBg.height=innerHeight;initBgP()}
+function initBgP(){
+  bgP.length=0;const n=Math.floor(particleBg.width*particleBg.height/20000);
+  for(let i=0;i<n;i++) bgP.push({x:Math.random()*particleBg.width,y:Math.random()*particleBg.height,vx:(Math.random()-.5)*.2,vy:-.15-Math.random()*.35,s:.5+Math.random()*1.3,a:.12+Math.random()*.35,c:Math.random()>.7?'#a855f7':Math.random()>.45?'#00f3ff':'#ffffff'});
+}
+function drawBgP(){
+  pCtx.fillStyle='rgba(3,4,5,0.12)';pCtx.fillRect(0,0,particleBg.width,particleBg.height);
+  bgP.forEach(p=>{
+    p.x+=p.vx;p.y+=p.vy;
+    if(p.y<-10){p.y=particleBg.height+10;p.x=Math.random()*particleBg.width}
+    if(p.x<0)p.x=particleBg.width;if(p.x>particleBg.width)p.x=0;
+    pCtx.beginPath();pCtx.arc(p.x,p.y,p.s,0,Math.PI*2);
+    pCtx.fillStyle=p.c;pCtx.globalAlpha=p.a;pCtx.fill();pCtx.globalAlpha=1;
+  });
+  requestAnimationFrame(drawBgP);
+}
+// ===== 飄浮靈魂 =====
+const soulCanvas = document.getElementById('soul-canvas');
+const soulCtx = soulCanvas.getContext('2d');
+const soulParticles = [];
+function resizeSoul() {
+  soulCanvas.width = soulCanvas.offsetWidth * 2;
+  soulCanvas.height = soulCanvas.offsetHeight * 2;
+  soulCtx.scale(2, 2);
+  initSoulParticles();
+}
+function initSoulParticles() {
+  const w = soulCanvas.offsetWidth;
+  const h = soulCanvas.offsetHeight;
+  soulParticles.length = 0;
+  const count = Math.floor((w * h) / 6000);
+  for (let i = 0; i < count; i++) {
+    soulParticles.push({
+      x: Math.random() * w,
+      y: Math.random() * h,
+      vx: (Math.random() - 0.5) * 0.4,
+      vy: -0.4 - Math.random() * 0.8,
+      size: 1 + Math.random() * 2.5,
+      alpha: 0.2 + Math.random() * 0.5,
+      color: Math.random() > 0.7 ? '#a855f7' : (Math.random() > 0.5 ? '#00f3ff' : '#ffffff')
+    });
+  }
+}
+function drawSoulParticles() {
+  const w = soulCanvas.offsetWidth;
+  const h = soulCanvas.offsetHeight;
+  soulCtx.fillStyle = 'rgba(0,5,10,0.08)';
+  soulCtx.fillRect(0, 0, w, h);
+  soulParticles.forEach(p => {
+    p.x += p.vx;
+    p.y += p.vy;
+    p.alpha += (Math.random() - 0.5) * 0.02;
+    p.alpha = Math.max(0.1, Math.min(0.7, p.alpha));
+    if (p.y < -10) { p.y = h + 10; p.x = Math.random() * w; }
+    if (p.x < 0) p.x = w;
+    if (p.x > w) p.x = 0;
+    const hex = p.color.slice(1);
+    const r = parseInt(hex.substr(0, 2), 16);
+    const g = parseInt(hex.substr(2, 2), 16);
+    const b = parseInt(hex.substr(4, 2), 16);
+    soulCtx.beginPath();
+    soulCtx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+    soulCtx.fillStyle = `rgba(${r},${g},${b},${p.alpha})`;
+    soulCtx.shadowColor = p.color;
+    soulCtx.shadowBlur = 10;
+    soulCtx.fill();
+  });
+  requestAnimationFrame(drawSoulParticles);
+}
+// ===== 回頂端按鈕 =====
+window.addEventListener('scroll',()=>{const b=document.getElementById('back-to-top');if(b)b.classList.toggle('visible',window.scrollY>400)});
+// ===== ECG（簡版） =====
+const ecgC=document.getElementById('ecg-canvas'),ecgX2=ecgC.getContext('2d');let ecgX=0;
+function resizeECG(){ecgC.width=ecgC.offsetWidth*2;ecgC.height=ecgC.offsetHeight*2;ecgX2.setTransform(1,0,0,1,0,0);ecgX2.scale(2,2)}
+function drawECG(){
+  const w=ecgC.offsetWidth,h=ecgC.offsetHeight,mid=h/2;
+  ecgX2.fillStyle='rgba(0,0,0,0.15)';ecgX2.fillRect(0,0,w,h);
+  ecgX+=2;if(ecgX>w)ecgX=0;
+  const cy=(ecgX%100);let y=mid;
+  if(cy<8)y=mid;else if(cy<12)y=mid-4;else if(cy<16)y=mid+2;else if(cy<22)y=mid-h*.6;else if(cy<28)y=mid+h*.25;else if(cy<36)y=mid;else if(cy<55)y=mid-6;
+  ecgX2.strokeStyle='#00ff41';ecgX2.lineWidth=2;ecgX2.shadowColor='#00ff41';ecgX2.shadowBlur=10;
+  ecgX2.beginPath();ecgX2.moveTo(ecgX-2,mid);ecgX2.lineTo(ecgX,y);ecgX2.stroke();
+  ecgX2.fillStyle='rgba(0,255,65,0.8)';ecgX2.fillRect(ecgX,0,2,h);
+  ecgX2.shadowBlur=0;
+  requestAnimationFrame(drawECG);
+}
+// ===== INIT =====
+window.addEventListener('load',()=>{
+  resizePBg();addEventListener('resize',resizePBg);drawBgP();
+  resizeECG();addEventListener('resize',resizeECG);drawECG();
+  resizeSoul();addEventListener('resize',resizeSoul);drawSoulParticles();
+  showDailyContent();updateLifelineCards();calculateLife();
+  document.getElementById('total-candles').textContent=totalCandles;
+  
+  // 啟動應用
+  initApp();
+  startDeathCounter();
+  
+  addEventListener('resize',()=>{if(filteredEvents.length){renderTrendChart(filteredEvents);renderAgeDist();renderAgeDistMain()}});
+});
+</script>
+</body>
+</html>
+

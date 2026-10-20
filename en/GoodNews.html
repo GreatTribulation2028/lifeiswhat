@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>如果是你 — IF IT WERE YOU | Good News</title>
+<meta property="og:title" content="如果是你 — IF IT WERE YOU">
+<meta property="og:description" content="What are we living for? The length and depth of a life — which matters more?">
+<meta property="og:image" content="og-still-alive.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="如果是你 — IF IT WERE YOU">
+<meta name="twitter:description" content="So why are we alive at all?">
+<meta name="twitter:image" content="og-still-alive.png">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Jura:wght@400;600;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Noto+Sans+TC:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+--c-bg:#030405;--c-accent:#00f3ff;--c-fatal:#ff2a2a;--c-crit:#ffae00;
+--c-soul:#a855f7;--c-hope:#8bffb0;--c-border:#1a2a3a;
+--f-mono:'Share Tech Mono',monospace;--f-head:'Orbitron',sans-serif;
+--f-text:'Jura','Noto Sans TC',sans-serif;--f-serif:'Noto Serif TC',serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:var(--c-bg);color:#e0e6ed;font-family:var(--f-text);overflow-x:hidden}
+html{scrollbar-width:none}
+html::-webkit-scrollbar{display:none}
+a{color:var(--c-accent);text-decoration:none}
+a:hover{color:#fff;text-shadow:0 0 10px var(--c-accent)}
+
+#particle-bg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none}
+
+.back-btn{
+position:fixed;top:20px;left:20px;z-index:30000;
+background:rgba(0,0,0,.7);border:1px solid var(--c-accent);
+color:var(--c-accent);padding:10px 18px;font-family:var(--f-mono);
+font-size:12px;text-decoration:none;border-radius:4px;transition:all .3s;
+backdrop-filter:blur(5px)
+}
+.back-btn:hover{background:var(--c-accent);color:#000;box-shadow:0 0 25px var(--c-accent)}
+
+#immersive-page{
+position:relative;min-height:100vh;
+display:flex;flex-direction:column;align-items:center;
+padding:80px 20px 40px;z-index:10
+}
+.immersive-content{max-width:680px;text-align:center;margin:auto 0}
+.immersive-stage{display:none;animation:fadeInStage 1.5s ease-out forwards}
+.immersive-stage.active{display:block}
+@keyframes fadeInStage{0%{opacity:0;transform:scale(0.95)}100%{opacity:1;transform:scale(1)}}
+.immersive-question{font-family:var(--f-serif);font-size:clamp(1.2rem,4vw,1.9rem);color:#fff;line-height:1.9;margin-bottom:26px}
+.immersive-sub{font-size:1rem;color:#e0e6ed;line-height:2;margin-bottom:26px}
+.immersive-wisdom{font-family:var(--f-serif);font-size:1.05rem;color:#e0e6ed;line-height:2.2;font-style:italic;border-left:3px solid var(--c-soul);padding-left:20px;text-align:left;margin:26px 0}
+.immersive-ref{color:#ffd700;font-size:0.9em;display:block;margin-top:10px;font-style:normal}
+.immersive-btn{background:transparent;border:1px solid rgba(255,255,255,0.32);color:#e0e6ed;padding:12px 30px;font-family:var(--f-mono);font-size:13px;letter-spacing:2px;cursor:pointer;transition:all 0.3s;margin:5px;border-radius:4px;text-decoration:none;display:inline-block}
+.immersive-btn:hover{border-color:#fff;color:#fff}
+.immersive-btn.primary{border-color:var(--c-accent);color:var(--c-accent)}
+.immersive-btn.primary:hover{background:var(--c-accent);color:#000}
+.immersive-input{width:100%;padding:15px;background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.2);border-radius:8px;color:#fff;font-size:1rem;font-family:var(--f-text);margin-bottom:18px;text-align:center}
+.immersive-input:focus{outline:none;border-color:var(--c-soul)}
+.immersive-choices{display:flex;flex-direction:column;gap:12px;margin-bottom:26px}
+.immersive-choice{background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.2);padding:15px 20px;border-radius:8px;color:#e0e6ed;font-size:1rem;cursor:pointer;transition:all 0.3s;text-align:left}
+.immersive-choice:hover{background:rgba(255,255,255,0.13);border-color:var(--c-accent);color:#fff}
+@media(max-width:768px){
+.immersive-content{padding:0 8px}
+.immersive-question{font-size:clamp(1.1rem,4.5vw,1.6rem)}
+.back-btn{top:10px;left:10px;padding:8px 14px;font-size:11px}
+}
+</style>
+</head>
+<body>
+<div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:Consolas,monospace;font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px"><a href="../GoodNews.html" style="color:#8ab4f8">中文</a> &nbsp;|&nbsp; <span style="color:#ff6b35">English</span></div>
+
+<div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:var(--f-mono);font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px"><a href="../GoodNews.html" style="color:var(--text-dim)">&#20013;&#25991;</a> &nbsp;|&nbsp; <span style="color:var(--accent)">English</span></div>
+<canvas id="particle-bg"></canvas>
+<a href="../monitor03E.html" class="back-btn">&larr; Back to STILL ALIVE Recorder</a>
+
+<div id="immersive-page">
+<div class="immersive-content">
+
+<div class="immersive-stage active" id="stage-1">
+<div style="text-align:center;margin-bottom:20px;font-family:var(--f-mono);font-size:0.85rem;color:var(--c-fatal);opacity:0.8">
+  In the time you have been reading this, the world has lost <span id="reading-deaths" style="font-size:1.2rem;font-weight:bold">0</span> people
+</div>
+<div class="immersive-question">A lifetime of toil<br>So why are we alive at all?</div>
+<div class="immersive-sub">Life : Length : Depth<br>For what, exactly?<br>Just a number in a record?</div>
+<button class="immersive-btn primary" onclick="nextStage(2)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-2">
+<div class="immersive-question">If you were suddenly taken away<br>What would you hold on to most?</div>
+<textarea class="immersive-input" id="input-regret" placeholder="Only you can see this..." rows="3"></textarea>
+<div class="immersive-sub">Most people never ask it<br>Until the day it is too late</div>
+<button class="immersive-btn" onclick="nextStage(1)">B A C K</button>
+<button class="immersive-btn primary" onclick="nextStage(3)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-3">
+<div class="immersive-question">Do you believe that after death<br>there is still a "you"?</div>
+<div class="immersive-choices">
+<div class="immersive-choice" onclick="selectBelief('nothing')">Nothing &mdash; the candle simply goes out</div>
+<div class="immersive-choice" onclick="selectBelief('reincarnation')">Reincarnation, on to the next journey</div>
+<div class="immersive-choice" onclick="selectBelief('heaven-hell')">The soul is eternal; this life is a one-way ticket</div>
+<div class="immersive-choice" onclick="selectBelief('unknown')">I don't know</div>
+</div>
+<button class="immersive-btn" onclick="nextStage(2)">B A C K</button>
+</div>
+
+<div class="immersive-stage" id="stage-nothing">
+<div class="immersive-question">If after death there is nothing<br>A lifetime of struggle<br>The good of the righteous, the evil of the wicked &mdash; what sense is there in it?</div>
+<div class="immersive-sub">If the end is nothingness<br>Why fear death at all?</div>
+<button class="immersive-btn primary" onclick="nextStage(5)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-reincarnation">
+<div class="immersive-question">Reincarnation<br>The sea of suffering is boundless &mdash; turn back and find the shore</div>
+<div class="immersive-sub">To escape the sea of suffering and rebirth<br>Why not find a way straight to eternity?</div>
+<button class="immersive-btn primary" onclick="nextStage(5)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-heaven-hell">
+<div class="immersive-question">Heaven and Hell<br>What is the entry ticket?</div>
+<div class="immersive-sub">Good people? Good deeds?<br>Who sets the standard?<br><br>Are you sure?</div>
+<button class="immersive-btn primary" onclick="nextStage(5)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-unknown">
+<div class="immersive-question">Never really thought about it<br>Doesn't mean the question isn't there</div>
+<div class="immersive-sub">You can choose not to think about it<br>But you cannot escape it<br><br>Everyone must die<br>And nobody cares where they go &mdash; is that not strange?</div>
+<button class="immersive-btn primary" onclick="nextStage(5)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-5">
+<div class="immersive-question">We are all the same</div>
+
+<div class="immersive-wisdom">"As for tomorrow, we do not know what it will bring.<br>What is our life?<br>We are a mist that appears for a little while and then vanishes."<span class="immersive-ref">&mdash; James 4:14</span></div>
+<button class="immersive-btn primary" onclick="nextStage(6)">C O N T I N U E</button>
+</div>
+
+<div class="immersive-stage" id="stage-6">
+<div class="immersive-question">There is a way<br>To fear no more</div>
+<div class="immersive-sub">Because...</div>
+<div class="immersive-wisdom">"For God so loved the world that He gave His only Son,<br>that whoever believes in Him shall not perish but have eternal life."<span class="immersive-ref">&mdash; John 3:16</span></div>
+<button class="immersive-btn primary" onclick="nextStage(7)">I want to know more</button>
+<button class="immersive-btn" onclick="goBack()">Let me think about it</button>
+</div>
+
+<div class="immersive-stage" id="stage-7">
+<div class="immersive-question">A fact</div>
+<div class="immersive-sub">
+In the beginning was the Word<br>
+and the Word was with God, and the Word was God<br>
+He was in the beginning with God.<br>
+All things were made through him,<br>
+
+and without him nothing was made that has been made.<br>
+In him was life, and the life was the light of all people.<br>
+
+The light shines in the darkness, and the darkness has not overcome it.<br>
+To all who did receive him, to those who believe in his name, he gave the right to become children of God.<br><br>
+He is not God made of stone, but living in the hearts of those who love him.<br>
+And those who did receive him, to those who believe in his name,<br>
+</div>
+<div class="immersive-wisdom">He said: "I am the way, and the truth, and the life.<br>No one comes to the Father except through me."<span class="immersive-ref">&mdash; John 14:6</span></div>
+<button class="immersive-btn primary" onclick="nextStage(8)">I'd like to know more</button>
+<button class="immersive-btn" onclick="goBack()">Let me think about it</button>
+</div>
+
+<div class="immersive-stage" id="stage-8">
+
+<!-- ===== 阿們按鈕下方新增影片 ===== -->
+<div style="margin-top:30px;text-align:center">
+  <div style="font-family:'Share Tech Mono',monospace;font-size:13px;color:rgba(255,255,255,0.5);margin-bottom:10px;letter-spacing:2px">&#9654; "The Mystery of the Five Colours" (Cantonese)</div>
+  <div onclick="this.innerHTML='<iframe class=rumble width=640 height=360 src=https://rumble.com/embed/v75k476/?pub=1hzfcc frameborder=0 allowfullscreen style=max-width:100%;border-radius:8px></iframe>'" style="cursor:pointer;width:100%;max-width:640px;margin:0 auto;position:relative;display:inline-block;background:#111;border-radius:8px;border:1px solid rgba(168,85,247,0.2);aspect-ratio:16/9">
+    <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center">
+      <div style="width:72px;height:72px;background:rgba(0,0,0,0.75);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 10px"><span style="color:white;font-size:32px;margin-left:6px">▶</span></div>
+      <div style="color:rgba(255,255,255,0.5);font-size:12px;font-family:'Share Tech Mono',monospace">Click to play</div>
+    </div>
+  </div>
+</div>
+
+<div style="margin-top:24px;text-align:center">
+  <div style="font-family:'Share Tech Mono',monospace;font-size:13px;color:rgba(255,255,255,0.5);margin-bottom:10px;letter-spacing:2px">&#9654; "Gospel Bridge" 2025 (Mandarin, Simplified)<br>"Gospel" simply means Good News</div>
+  <div onclick="this.innerHTML='<iframe class=rumble width=640 height=360 src=https://rumble.com/embed/v75k2u6/?pub=1hzfcc frameborder=0 allowfullscreen style=max-width:100%;border-radius:8px></iframe>'" style="cursor:pointer;width:100%;max-width:640px;margin:0 auto;position:relative;display:inline-block;background:#111;border-radius:8px;border:1px solid rgba(168,85,247,0.2);aspect-ratio:16/9">
+    <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center">
+      <div style="width:72px;height:72px;background:rgba(0,0,0,0.75);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 10px"><span style="color:white;font-size:32px;margin-left:6px">▶</span></div>
+      <div style="color:rgba(255,255,255,0.5);font-size:12px;font-family:'Share Tech Mono',monospace">Click to play</div>
+    </div>
+  </div>
+</div>
+
+
+<div class="immersive-question">If you are willing<br><br>you can pray like this</div>
+<div class="immersive-wisdom" style="border-left-color:var(--c-hope)">Lord Jesus Christ, I believe You are the one true God.<br>Thank You for Your love. I believe You died for my sins,<br>were crucified on the cross, and You have risen again!<br>I confess I have done many wrong things. Please forgive all my wrongdoing.<br><br>Dear Lord Jesus, I am willing to receive You as my only Saviour.<br><br>I am willing to open my heart and invite You into my life.<br>Be my Saviour, my salvation, and stay with me always!<br><br>Lead me along Your path of eternal life.<br><br>In the name of the Lord Jesus Christ, Amen!</div>
+
+<div style="display:flex;flex-direction:column;gap:10px;margin:20px 0;align-items:center">
+<a href="https://e.pcloud.link/publink/show?code=XZnHDNZwlvsOG27VGVYCpQrC8xTIylamRK7" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-crit);color:var(--c-crit)">&#128250; Gospel Bridge 2025 (Mandarin)</a>
+<a href="https://flossy-dish-cfd.notion.site/01-the-Good-News-for-us-2fcf133f651f80a692c9f98ddc7630e3" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-hope);color:var(--c-hope)">&#128250; The Mystery of the Five Colours (Cantonese)</a>
+</div>
+<button class="immersive-btn primary" onclick="nextStage(9)">A M E N</button>
+
+
+</div>
+
+<div class="immersive-stage" id="stage-9">
+
+<div style="margin-top:36px">
+  <div style="font-family:'Orbitron',sans-serif;font-size:11px;color:rgba(168,85,247,0.6);letter-spacing:4px;margin-bottom:20px">&#9834; H Y M N S</div>
+
+  <!-- 影片1：那真光 -->
+  <div style="margin:0 auto 24px;max-width:640px;text-align:center">
+    <div style="font-family:'Share Tech Mono',monospace;font-size:13px;color:rgba(255,255,255,0.5);margin-bottom:10px;letter-spacing:2px">&#9654; &#127925; That True Light (Gospel Hymn) (Mandarin)</div>
+    <div id="rv-v75jotm" onclick="this.innerHTML='<iframe class=rumble width=640 height=360 src=https://rumble.com/embed/v75jotm/?pub=1hzfcc frameborder=0 allowfullscreen style=max-width:100%;border-radius:8px></iframe>'" style="cursor:pointer;width:100%;max-width:640px;position:relative;display:inline-block;background:#111;border-radius:8px;border:1px solid rgba(168,85,247,0.2);aspect-ratio:16/9">
+      <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center">
+        <div style="width:72px;height:72px;background:rgba(0,0,0,0.75);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 10px"><span style="color:white;font-size:32px;margin-left:6px">▶</span></div>
+        <div style="color:rgba(255,255,255,0.5);font-size:12px;font-family:'Share Tech Mono',monospace">&#127925; Click to play</div>
+      </div>
+    </div>
+  </div>
+
+<div class="immersive-question">&#127881; Congratulations!</div>
+<div class="immersive-sub">
+If you have prayed this in your heart,<br>
+congratulations &mdash; you are now a child of God!<br>
+Death is no longer the end; it is the gate home.<br>
+May we meet again in our Father's house,<br>
+and may the Lord bless you. Amen.<br><br>
+
+He is the God who helps with a smile,<br>
+the God who does not reproach,<br>
+and who takes our silent meditation as sweetness.<br><br>
+Since we have been reconciled to God through Jesus Christ,<br>
+we have joy in God through him,<br><br>
+so that we may truly live with him,<br>
+and face all our problems together,<br><br>
+
+trusting in his promise,<br>
+and looking forward to the day he comes again.<br><br>
+
+The Lord bless you,<br>
+so that you may know him deeply and believe in him.<br><br>
+
+He will be pleased with you<br>
+as you respond to his love with sincerity and love.<br><br>
+
+May we walk this eternal road together,<br>
+and meet in our Father's house. Amen.</div>
+<div style="display:flex;flex-direction:column;gap:10px;margin:20px 0;align-items:center">
+<a href="https://e.pcloud.link/publink/show?code=XZnHDNZwlvsOG27VGVYCpQrC8xTIylamRK7" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-crit);color:var(--c-crit)">&#128250; Gospel Bridge 2025 (Mandarin)</a>
+<a href="https://flossy-dish-cfd.notion.site/01-the-Good-News-for-us-2fcf133f651f80a692c9f98ddc7630e3" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-hope);color:var(--c-hope)">&#128250; The Mystery of the Five Colours (Cantonese)</a>
+<a href="https://e.pcloud.link/publink/show?code=XZvUaNZT9PeIugWINRO7QN05ftGC7LHFhlX" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-soul);color:var(--c-soul)">&#127925; Hymn 01 &mdash; The Eternal Wedding Vow</a>
+<a href="https://e.pcloud.link/publink/show?code=XZCYYNZ9BIRdIzCx9u3f4uHWs0HuVxfzE0X" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-soul);color:var(--c-soul)">&#127925; Hymn 02 &mdash; The Song of Songs' Wish (MV)</a>
+<a href="https://e.pcloud.link/publink/show?code=XZkLwaZLR2qiwdd14hKtYF5uYDpypCxmmQV" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-soul);color:var(--c-soul)">&#127925; Hymn 03 &mdash; The Cry of Life (MV)</a>
+<a href="https://e.pcloud.link/publink/show?code=XZwfyIZnU6yu2uJvLYssVSxxTTYmzKg2lHy" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-hope);color:var(--c-hope)">&#128214; Sharing &mdash; "The Repair of Love" Part 2 (Mandarin)</a>
+<a href="https://e.pcloud.link/publink/show?code=XZIUPEZSxz3jHIx6ykIwUKptmbOTL7VfvMV" target="_blank" rel="noopener" class="immersive-btn" style="border-color:var(--c-fatal);color:var(--c-fatal)">&#9888;&#65039; Wake Up &mdash; The Wolf Comes One Last Time (Mandarin)</a>
+</div>
+<div style="margin-top:30px;padding:20px;border:1px solid var(--c-fatal);border-radius:8px;background:rgba(255,42,42,0.05)">
+  <div style="font-family:var(--f-serif);font-size:1.1rem;color:var(--c-fatal);margin-bottom:10px">&#9200; Did you know?</div>
+  <div style="font-size:0.95rem;line-height:1.8;color:#e0e6ed">The seven-year tribulation the Bible prophesied may be closer than you think.<br>May we all stay alert, stay ready, and hold on to the end.</div>
+  <a href="../timeline04.html" class="immersive-btn" style="border-color:var(--c-crit);color:var(--c-crit);margin-top:15px">&#128220; Explore the Seven-Year Tribulation Timeline</a>
+</div>
+<button class="immersive-btn" onclick="nextStage(8)">B A C K</button>
+<button class="immersive-btn primary" onclick="goBack()">A M E N</button>
+
+<!-- ===== 詩歌影片 ===== -->
+
+  <!-- 影片2：永恆的婚誓 -->
+  <div style="margin:0 auto;max-width:640px;text-align:center">
+    <div style="font-family:'Share Tech Mono',monospace;font-size:13px;color:rgba(255,255,255,0.5);margin-bottom:10px;letter-spacing:2px">&#9654; &#128214; The Heart of the Old Testament &mdash; The Eternal Wedding Vow</div>
+    <div id="rv-v75jooy" onclick="this.innerHTML='<iframe class=rumble width=640 height=360 src=https://rumble.com/embed/v75jooy/?pub=1hzfcc frameborder=0 allowfullscreen style=max-width:100%;border-radius:8px></iframe>'" style="cursor:pointer;width:100%;max-width:640px;position:relative;display:inline-block;background:#111;border-radius:8px;border:1px solid rgba(168,85,247,0.2);aspect-ratio:16/9">
+      <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center">
+        <div style="width:72px;height:72px;background:rgba(0,0,0,0.75);border-radius:50%;display:flex;align-items:center;justify-content:center;margin:0 auto 10px"><span style="color:white;font-size:32px;margin-left:6px">▶</span></div>
+        <div style="color:rgba(255,255,255,0.5);font-size:12px;font-family:'Share Tech Mono',monospace">&#128214; Click to play</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+</div>
+
+<script>
+// ===== 即時死亡計數器 =====
+let readingDeaths = 0;
+setInterval(() => {
+  readingDeaths += 1.87;
+  const el = document.getElementById('reading-deaths');
+  if(el) el.textContent = Math.floor(readingDeaths);
+}, 1000);
+
+function nextStage(n){
+  document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));
+  const el=document.getElementById('stage-'+n);
+  if(el){el.classList.add('active');window.scrollTo({top:0,behavior:'smooth'})}
+}
+function selectBelief(k){
+  document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));
+  const el=document.getElementById('stage-'+k);
+  if(el){el.classList.add('active');window.scrollTo({top:0,behavior:'smooth'})}
+}
+function goBack(){
+  window.location.href='../monitor03E.html';
+}
+
+// ===== 粒子背景 =====
+const canvas=document.getElementById('particle-bg'),ctx=canvas.getContext('2d');
+const particles=[];
+function resize(){canvas.width=innerWidth;canvas.height=innerHeight;initP()}
+function initP(){
+  particles.length=0;
+  const n=Math.floor(canvas.width*canvas.height/18000);
+  for(let i=0;i<n;i++) particles.push({
+    x:Math.random()*canvas.width,y:Math.random()*canvas.height,
+    vx:(Math.random()-.5)*.2,vy:-.15-Math.random()*.35,
+    s:.5+Math.random()*1.3,a:.12+Math.random()*.35,
+    c:Math.random()>.7?'#a855f7':Math.random()>.45?'#00f3ff':'#ffffff'
+  });
+}
+function draw(){
+  ctx.fillStyle='rgba(3,4,5,0.12)';ctx.fillRect(0,0,canvas.width,canvas.height);
+  particles.forEach(p=>{
+    p.x+=p.vx;p.y+=p.vy;
+    if(p.y<-10){p.y=canvas.height+10;p.x=Math.random()*canvas.width}
+    if(p.x<0)p.x=canvas.width;if(p.x>canvas.width)p.x=0;
+    ctx.beginPath();ctx.arc(p.x,p.y,p.s,0,Math.PI*2);
+    ctx.fillStyle=p.c;ctx.globalAlpha=p.a;ctx.fill();ctx.globalAlpha=1;
+  });
+  requestAnimationFrame(draw);
+}
+window.addEventListener('load',()=>{resize();addEventListener('resize',resize);draw()});
+</script>
+</body>
+</html>

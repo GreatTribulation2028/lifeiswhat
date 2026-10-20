@@ -1,0 +1,34 @@
+{
+  "src": "index0203.html",
+  "out": "index0203.html",
+  "path_prefix": ["monitor03E.html", "GoodNews.html", "timeline04.html", "index.html", "category.html", "index0203.html"],
+  "allow_chinese_js": [],
+  "langbar": "<div style=\"position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:var(--f-mono);font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px\"><a href=\"../index0203.html\" style=\"color:var(--text-dim)\">&#20013;&#25991;</a> &nbsp;|&nbsp; <span style=\"color:var(--accent)\">English</span></div>",
+  "html": [
+    ["『今生與永恆，警醒與昏沉』", "『This Life and Eternity &mdash; Alert or Slumbering』"],
+    ["生死‧只是一線之差", "Life and Death &mdash; a hair's breadth apart"],
+    ["[ 回 到 生 死 之 間 ]", "[ B A C K &nbsp; T O &nbsp; B E T W E E N &nbsp; L I F E &nbsp; A N D &nbsp; D E A T H ]"]
+  ],
+  "js": [
+    ["按著定命，人人都有一死\\n死後且有審判", "As it is appointed to man, that he must die once, and after that come judgment\\nAnd after death there is judgment"],
+    ["我所行的路，你必看顧。我腳步若偏離正路，祢必知道。", "You keep my steps in your sight. If I should depart from your way, you would know it."],
+    ["— 希伯來書 9:27", "&mdash; Hebrews 9:27"],
+    ["只要，一息尚存，萬事可期\\n不然，一息若斷，萬事皆空", "While one breath remains, everything is still possible\\nIf that breath is cut, everything is void"],
+    ["你們要謹慎行事，不要像愚昧人，當像智慧人。要愛惜光陰，因為現今的世代邪惡。", "Be prudent, like sensible people, not like fools. Make the most of your time, for these are evil days."],
+    ["— 以弗所書 5:15-16", "&mdash; Ephesians 5:15-16"],
+    ["人，還有多少天？\\n可歎智慧人死亡，與愚昧人無異", "Man, how many days are left to you?\\nA wise man dies &mdash; no different from a fool"],
+    ["其實明天如何，你們還不知道。你們的生命是甚麼呢？你們原來是一片雲霧，出現少時就不見了。", "You do not know what tomorrow will bring. What is your life? You are a mist that appears for a little while and then vanishes."],
+    ["— 雅各書 4:14", "&mdash; James 4:14"],
+    ["你要保守你心，勝過保守一切\\n因為一生的果效是由心發出", "Guard your heart above all else,\\nfor everything you do flows from it"],
+    ["人還能拿甚麼換生命呢？", "What can a person gain that is worth exchanging their life for?"],
+    ["— 馬太福音 16:26", "&mdash; Matthew 16:26"],
+    ["我們一生的年日是七十歲\\n若是強壯可到八十歲\\n但其中所矜誇的不過是勞苦愁煩", "Seventy years may be all our days,\\nor, if we have the strength, eighty years;\\nyet their span is only toil and trouble."],
+    ["無人有權力掌管生命，將生命留住；也無人有權力掌管死期。", "No one has power over his own life to retain it; no one has power over the day of his death."],
+    ["— 傳道書 8:8", "&mdash; Ecclesiastes 8:8"],
+    ["生死，到底是甚麼？\\n從何而來，往那而去？", "What, after all, is life and death?\\nWhere do we come from, and where do we go?"],
+    ["因為生者都必往那裡去，死者卻不能回到這裡來。", "For the living must go to the place of the dead, but the dead cannot return to the place of the living."],
+    ["— 傳道書", "&mdash; Ecclesiastes"],
+    ["死亡，正靜悄悄地\\n在時代巨輪裡不斷加速", "Death, quietly, keeps accelerating\\nas the great wheel of the age turns on"],
+    ["懷著悲傷與敬畏的心，靜默地記錄。願逝者安息，願生者息懷。", "Recorded in silence, with sorrow and reverence. May the departed rest; may the living be comforted."]
+  ]
+}
