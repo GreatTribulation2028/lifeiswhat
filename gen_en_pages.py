@@ -97,19 +97,22 @@ def add_prefix_paths(s, targets, errs, contains=()):
                     s = s.replace(tmpl, tmpl.replace(f"{t}", f"../{t}"))
                     n += c
     # 4) 含查詢參數嘅路徑
+    #    ★ 關鍵修正：字元類必須排除空白/尖括號/引號，否則 `[^"]*` 會跨過
+    #      整段 CSS + script 搵到一個超長區間，令 "../" 插喺錯位
+    #      （實測搞到 class="err"../>）。同時限制長度 ≤120。
     for sub in contains:
-        for q in ("'", '"'):
-            i = 0
+        for q in ("'", '"', "`"):
+            pat = (re.escape(q) + r"([^" + q + r"<>\s]{0,120}" + re.escape(sub)
+                   + r"[^" + q + r"<>\s]{0,120})" + re.escape(q))
             while True:
-                m = re.search(re.escape(q) + r"([^" + q + r"]*" + re.escape(sub) + r"[^" + q + r"]*)" + re.escape(q), s)
+                m = re.search(pat, s)
                 if not m:
                     break
                 val = m.group(1)
-                if not val.startswith("../"):
-                    s = s.replace(m.group(0), f"{q}../{val}{q}")
-                    n += 1
-                else:
+                if val.startswith("../"):
                     break
+                s = s.replace(m.group(0), f"{q}../{val}{q}")
+                n += 1
     return s, n
 
 
@@ -125,32 +128,29 @@ def build(key):
     before = sha(src)
     s = io.open(src, encoding="utf-8").read()
     o = s
-    style_block = ""
-    if "<style>" in s:
-        a = s.index("<style>")
-        b = s.index("</style>") + len("</style>")
-        style_block = s[a:b]
+    style_blocks = re.findall(r"<style[^>]*>.*?</style>", s, flags=re.S)
+
+    # 1b) ★ 先屏蔽所有 <style> 區塊（category.html 有 4 個）
+    #     原因：path 嘅 regex 同文案替換都會誤傷 CSS 註解內嘅中文
+    styles = []
+
+    def _mask(m):
+        styles.append(m.group(0))
+        return f"@@__STYLE_BLOCK_{len(styles) - 1}__@@"
+
+    s = re.sub(r"<style[^>]*>.*?</style>", _mask, s, flags=re.S)
 
     # 1) 路徑加 ../
     s, n_path = add_prefix_paths(s, cfg.get("path_prefix", []), errs,
                                  cfg.get("path_prefix_contains", []))
     counts["path"] = n_path
 
-    # 1b) ★ 屏蔽 <style> 區（CSS 註解有中文，唔翻譯 → 保證 style byte-identical）
-    style_mask = "@@__STYLE_BLOCK__@@"
-    has_style = "<style>" in s
-    if has_style:
-        i0 = s.index("<style>")
-        i1 = s.index("</style>") + len("</style>")
-        s = s[:i0] + style_mask + s[i1:]
-
     # 2) HTML + JS 文案（合併、全域最長優先）
     s = apply_all(s, cfg, errs, counts)
 
     # 1c) 還原 <style> 區
-    if has_style:
-        i0 = s.index(style_mask)
-        s = s[:i0] + style_block + s[i0 + len(style_mask):]
+    for i, blk in enumerate(styles):
+        s = s.replace(f"@@__STYLE_BLOCK_{i}__@@", blk)
 
     # 4) 語言列
     lb = cfg.get("langbar")
@@ -165,18 +165,19 @@ def build(key):
     if before != after:
         errs.append("[FATAL] 原檔被改動！")
 
-    # <style> 區（用遮罩保證原封不動）
-    if style_block:
-        if style_block not in s:
-            errs.append("[FATAL] <style> 區被改動或遺失")
+    # <style> 區（用遮罩保證原封不動，逐個 block 比對）
+    for i, blk in enumerate(style_blocks):
+        if blk not in s:
+            errs.append(f"[FATAL] <style> block {i} 被改動或遺失")
 
-    # 本地路徑全部要 ../（語言列嘅 index.html 除外）
+    # 本地路徑：預設要 ../；allow_same_dir 內嘅可以留喺同層（英文頁互連）
+    allow_same = set(cfg.get("allow_same_dir", [])) | {"index.html"}
     leftover = []
     for m in re.finditer(r"""(?:href|src)\s*=\s*["']([^"']+)["']""", s):
         v = m.group(1)
         if v.startswith(("http", "data:", "#", "mailto:", "javascript:", "//")):
             continue
-        if v.startswith("../") or v in ("index.html",) or "${" in v:
+        if v.startswith("../") or v.split("?")[0] in allow_same or "${" in v:
             continue
         leftover.append(v)
     if leftover:

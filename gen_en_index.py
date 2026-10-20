@@ -45,9 +45,9 @@ REPL = [
     # ---------- top bar ----------
     ('人因心血管猝逝</div>', 'died of cardiovascular causes</div>'),
     ('<a href="timeline04.html">時代觀測</a>',
-     '<a href="../timeline04.html">Era Observatory</a>'),
+     '<a href="timeline04.html">Era Observatory</a>'),
     ('<a href="index0203.html">記錄儀</a>',
-     '<a href="../index0203.html">The Recorder</a>'),
+     '<a href="index0203.html">The Recorder</a>'),
     # ---------- splash ----------
     ('⚡ 死亡相關新聞 / 猝死</div>', '⚡ Death-related news / Sudden death</div>'),
     ('你打開後，全球估計已有 <span class="sgv" id="dc-since-sub">0</span> 人因心血管疾病猝逝</div>',
@@ -98,13 +98,13 @@ REPL = [
     # ---------- SEC 5 ----------
     ('style="line-height:2.2;font-size:clamp(1.6rem,5vw,2.4rem)">生命只如，<br>一滑而過？</div>',
      'style="line-height:2.2;font-size:clamp(1.6rem,5vw,2.4rem)">Life passes<br>in the blink of an eye?</div>'),
-    ('<a class="cta-card" href="index0203.html">', '<a class="cta-card" href="../index0203.html">'),
+    ('<a class="cta-card" href="index0203.html">', '<a class="cta-card" href="index0203.html">'),
     ('<div class="cta-title">生死記錄儀</div><div class="cta-desc">完整記錄，每日更新</div>',
      '<div class="cta-title">STILL ALIVE Recorder</div><div class="cta-desc">The full record, updated daily</div>'),
-    ('<a class="cta-card" href="timeline04.html">', '<a class="cta-card" href="../timeline04.html">'),
+    ('<a class="cta-card" href="timeline04.html">', '<a class="cta-card" href="timeline04.html">'),
     ('<div class="cta-title">時代觀測站</div><div class="cta-desc">六年，世界變了多少</div>',
      '<div class="cta-title">Era Observatory</div><div class="cta-desc">Six years &mdash; how much has changed</div>'),
-    ('<a class="cta-card" href="GoodNews.html">', '<a class="cta-card" href="../GoodNews.html">'),
+    ('<a class="cta-card" href="GoodNews.html">', '<a class="cta-card" href="GoodNews.html">'),
     ('<div class="cta-title">如果下一個數字，是你…身邊人？</div><div class="cta-desc">給自己 3 分鐘</div>',
      '<div class="cta-title">What if the next number is someone you know?</div><div class="cta-desc">Give yourself 3 minutes</div>'),
     # ---------- footer ----------
@@ -209,10 +209,9 @@ JS_REPL2 = [
      "'+parts[0]+'-'+parts[1]+'-'+parts[2]+'</span><br>Sudden-death records <span class=\"srv\">'+dates[d]+'</span><br>'"),
     ("'+date+'（'+groups[date].length+' 宗）</div>'",
      "'+date+' ('+groups[date].length+')</div>'"),
-    # ---- 截斷提示 ----
-    # ---- 截斷提示（拆細，避免引號干擾）----
-    ("另有 ", "+' showing '"),
-    (" 宗較早記錄 · 趨勢圖已包含全部數據", " earlier records · the trend chart includes them all"),
+    # ---- 截斷提示（必須整句替換，唔可以拆細：拆咗會產生相鄰字串字面量 → SyntaxError）----
+    (">另有 '+truncated.toLocaleString()+' 宗較早記錄 · 趨勢圖已包含全部數據</div>'",
+     ">'+truncated.toLocaleString()+' earlier records · the trend chart includes them all</div>'"),
     # ---- 年度曲線圖 ----
     ("ctx.fillText('年度死亡新聞條數　最高 '+mx, 8, 14);",
      "ctx.fillText('Annual death records \\u00b7 peak '+mx, 8, 14);"),
@@ -237,13 +236,14 @@ def main():
     s = o
     orig_len = len(s)
 
-    # 1) category.html 加 ../
+    # 1) category.html 連結：★ 留喺同層（en/category.html = 英文版）
+    #    只有共用資源（data_*.js / classify_rules.json）先加 ../
     for h in CAT_HREF:
         n = s.count(h)
         if n != 1:
             print(f"[STOP] {h} 出現 {n} 次（預期 1）")
             sys.exit(1)
-        s = s.replace(h, h.replace('href="', 'href="../'))
+        # 唔加 ../ — en/index.html → category.html 即 en/category.html（英文版）
 
     # 2) 文案替換
     applied = 0

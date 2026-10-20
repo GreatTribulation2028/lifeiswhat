@@ -1,130 +1,509 @@
 {
   "src": "GoodNews.html",
   "out": "GoodNews.html",
-  "path_prefix": ["monitor03E.html", "timeline04.html", "index.html", "index0203.html", "category.html", "GoodNews.html"],
+  "path_prefix": [],
   "allow_chinese_js": [],
   "langbar": "<div style=\"position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:var(--f-mono);font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px\"><a href=\"../GoodNews.html\" style=\"color:var(--text-dim)\">&#20013;&#25991;</a> &nbsp;|&nbsp; <span style=\"color:var(--accent)\">English</span></div>",
   "html": [
-    ["← 返回生死記錄儀", "&larr; Back to STILL ALIVE Recorder"],
-    ["就在你閱讀的這段時間，全球已有", "In the time you have been reading this, the world has lost"],
-    ["人離世", "people"],
-    ["勞碌一生", "A lifetime of toil"],
-    ["活著，到底是為了什麼？", "So why are we alive at all?"],
-    ["生命 : 長度 : 濃度", "Life : Length : Depth"],
-    ["到底為了甚麼?", "For what, exactly?"],
-    ["只是一個被記錄的數字嗎？", "Just a number in a record?"],
-    ["繼 續", "C O N T I N U E"],
-    ["若驀然離去", "If you were suddenly taken away"],
-    ["最放不下什麼？", "What would you hold on to most?"],
-    ["大多數人沒想過這個問題", "Most people never ask it"],
-    ["直到來不及的那一天", "Until the day it is too late"],
-    ["返 回", "B A C K"],
-    ["你相信死後", "Do you believe that after death"],
-    ["還有「你」嗎？", "there is still a \"you\"?"],
-    ["什麼都沒有，人死如燈滅", "Nothing &mdash; the candle simply goes out"],
-    ["輪迴轉世，繼續下一段旅程", "Reincarnation, on to the next journey"],
-    ["靈魂是永遠，今只生如單程票", "The soul is eternal; this life is a one-way ticket"],
-    ["不知道", "I don't know"],
-    ["如果死後，什麼都沒有", "If after death there is nothing"],
-    ["一生的掙扎", "A lifetime of struggle"],
-    ["義人的善，惡人的惡，意義何在？", "The good of the righteous, the evil of the wicked &mdash; what sense is there in it?"],
-    ["若終點是虛無", "If the end is nothingness"],
-    ["為何會恐懼死亡？", "Why fear death at all?"],
-    ["輪迴", "Reincarnation"],
-    ["苦海無涯，回頭是岸", "The sea of suffering is boundless &mdash; turn back and find the shore"],
-    ["脫離輪迴苦海", "To escape the sea of suffering and rebirth"],
-    ["何不尋一道，直達永恆？", "Why not find a way straight to eternity?"],
-    ["天堂和地獄", "Heaven and Hell"],
-    ["入門卷是甚麼？", "What is the entry ticket?"],
-    ["好人？善事？", "Good people? Good deeds?"],
-    ["誰來定標準？", "Who sets the standard?"],
-    ["你有把握嗎？", "Are you sure?"],
-    ["從沒認真想過", "Never really thought about it"],
-    ["不代表問題不存在", "Doesn't mean the question isn't there"],
-    ["可以不想", "You can choose not to think about it"],
-    ["卻躲不過", "But you cannot escape it"],
-    ["人人都有一死", "Everyone must die"],
-    ["而沒人在乎去處，這不奇怪嗎？", "And nobody cares where they go &mdash; is that not strange?"],
-    ["我們都一樣", "We are all the same"],
-    ["「其實明天如何，我們還不知道。", "\"As for tomorrow, we do not know what it will bring."],
-    ["我們的生命是甚麼呢？", "What is our life?"],
-    ["我們原來是一片雲霧，出現少時就不見了。」", "We are a mist that appears for a little while and then vanishes.\""],
-    ["— 雅各書 4:14", "&mdash; James 4:14"],
-    ["有一條路", "There is a way"],
-    ["不再懼怕", "To fear no more"],
-    ["因為...", "Because..."],
-    ["「 神愛世人，甚至將祂的獨生子賜給他們", "\"For God so loved the world that He gave His only Son,"],
-    ["叫一切信祂的，不致滅亡，反得永生。」", "that whoever believes in Him shall not perish but have eternal life.\""],
-    ["— 約翰福音 3:16", "&mdash; John 3:16"],
-    ["我想知道更多", "I want to know more"],
-    ["讓我再想想", "Let me think about it"],
-    ["一個事實", "A fact"],
-    ["太初有道", "In the beginning was the Word"],
-    ["道與　神同在，道就是　神", "and the Word was with God, and the Word was God"],
-    ["這道太初與　神同在", "He was in the beginning with God."],
-    ["萬物是藉著他造的", "All things were made through him,"],
-    ["凡被造的", "and without him nothing was made that has been made."],
-    ["沒有一樣不是藉著他造的", "In him was life, and the life was the light of all people."],
-    ["生命在他裡頭，這生命就是人的光", "The light shines in the darkness, and the darkness has not overcome it."],
-    ["光照在黑暗裡，黑暗卻不接受光", "To all who did receive him, to those who believe in his name, he gave the right to become children of God."],
-    ["凡接待他的，就是信他名的人", "He is not God made of stone, but living in the hearts of those who love him."],
-    ["他就賜他們權柄作　神的兒女", "And those who did receive him, to those who believe in his name,"],
-    ["祂說: 「我就是道路、真理、生命", "He said: \"I am the way, and the truth, and the life."],
-    ["若不藉著我，沒有人能到父那裡去。」", "No one comes to the Father except through me.\""],
-    ["— 約翰福音 14:6", "&mdash; John 14:6"],
-    ["我想了解多些", "I'd like to know more"],
-    ["▶ 《五色的奧秘》廣東話", "&#9654; \"The Mystery of the Five Colours\" (Cantonese)"],
-    ["點擊播放", "Click to play"],
-    ["▶ 『福音橋』2025 簡体字 普通話", "&#9654; \"Gospel Bridge\" 2025 (Mandarin, Simplified)"],
-    ["《福音》就是好消息(Good News)的意思", "\"Gospel\" simply means Good News"],
-    ["你若願意", "If you are willing"],
-    ["可以這樣禱告", "you can pray like this"],
-    ["主耶穌基督，我相信祢是獨一的真 神", "Lord Jesus Christ, I believe You are the one true God."],
-    ["謝謝祢的愛，我相信祢為贖我的罪", "Thank You for Your love. I believe You died for my sins,"],
-    ["曾被釘死在十字架上，但已經復活了！", "were crucified on the cross, and You have risen again!"],
-    ["我承認自己曾經做錯了許多事，求祢赦免我一切的過犯。", "I confess I have done many wrong things. Please forgive all my wrongdoing."],
-    ["親愛的主耶穌，我願意接受祢作我唯一的救主。", "Dear Lord Jesus, I am willing to receive You as my only Saviour."],
-    ["我願意打開我的心，求祢進到我的生命裡", "I am willing to open my heart and invite You into my life."],
-    ["求祢成為我的救主，我的拯救，永遠與我同在！", "Be my Saviour, my salvation, and stay with me always!"],
-    ["求祢帶領我走在祢永生的路上", "Lead me along Your path of eternal life."],
-    ["奉主耶穌基督的名禱告，阿們！", "In the name of the Lord Jesus Christ, Amen!"],
-    ["📺 福音橋 2025（普通話）", "&#128250; Gospel Bridge 2025 (Mandarin)"],
-    ["📺 五色的奧秘（廣東話）", "&#128250; The Mystery of the Five Colours (Cantonese)"],
-    ["阿 們", "A M E N"],
-    ["♪ 詩 歌", "&#9834; H Y M N S"],
-    ["▶ 🎵 那真光（福音詩歌）（普通話）", "&#9654; &#127925; That True Light (Gospel Hymn) (Mandarin)"],
-    ["🎵 點擊播放", "&#127925; Click to play"],
-    ["🎉 恭喜您！", "&#127881; Congratulations!"],
-    ["如果你真心這樣禱告了。", "If you have prayed this in your heart,"],
-    ["恭喜您! 你已經成為 神的兒女了!", "congratulations &mdash; you are now a child of God!"],
-    ["死亡不再是終點，而是回天家的大門。", "Death is no longer the end; it is the gate home."],
-    ["願我們在天家裡相見", "May we meet again in our Father's house,"],
-    ["願主祝福你，阿們", "and may the Lord bless you. Amen."],
-    ["祂是笑臉幫助我們", "He is the God who helps with a smile,"],
-    ["是不斥責人的 神", "the God who does not reproach,"],
-    ["祂以我們的默念為甘甜。", "and who takes our silent meditation as sweetness."],
-    ["我們既然藉著主耶穌基督", "Since we have been reconciled to God through Jesus Christ,"],
-    ["得與　神和好，也就藉著他以　神為樂", "we have joy in God through him,"],
-    ["真實地可以與祂一同生活", "so that we may truly live with him,"],
-    ["一起面對所有問題", "and face all our problems together,"],
-    ["相信祂的應許", "trusting in his promise,"],
-    ["盼望祂再來的那天來到。", "and looking forward to the day he comes again."],
-    ["願主祝福你", "The Lord bless you,"],
-    ["使你能夠深深認識祂，相信祂。", "so that you may know him deeply and believe in him."],
-    ["祂必喜悅你", "He will be pleased with you"],
-    ["以真誠和愛心去回應祂的真情。", "as you respond to his love with sincerity and love."],
-    ["願我們一起同走這永生之路", "May we walk this eternal road together,"],
-    ["可在天家裡相見，阿們。", "and meet in our Father's house. Amen."],
-    ["🎵 詩歌01 — 永恆的婚誓", "&#127925; Hymn 01 &mdash; The Eternal Wedding Vow"],
-    ["🎵 詩歌02 — 雅歌的心願 MV", "&#127925; Hymn 02 &mdash; The Song of Songs' Wish (MV)"],
-    ["🎵 詩歌03 — 生命的吶喊 MV", "&#127925; Hymn 03 &mdash; The Cry of Life (MV)"],
-    ["📖 分享 —『愛的修復』第二節（普通話）", "&#128214; Sharing &mdash; \"The Repair of Love\" Part 2 (Mandarin)"],
-    ["⚠️ 警醒 — 最後一次狼來了（普通話）", "&#9888;&#65039; Wake Up &mdash; The Wolf Comes One Last Time (Mandarin)"],
-    ["⏰ 你知道嗎？", "&#9200; Did you know?"],
-    ["聖經預言的七年大災難，可能比你想像的更近。", "The seven-year tribulation the Bible prophesied may be closer than you think."],
-    ["願我們都警醒預備，持守到底。", "May we all stay alert, stay ready, and hold on to the end."],
-    ["📜 了解七年大災難時間軸", "&#128220; Explore the Seven-Year Tribulation Timeline"],
-    ["▶ 📖 舊約的精意 — 永恆的婚誓", "&#9654; &#128214; The Heart of the Old Testament &mdash; The Eternal Wedding Vow"],
-    ["📖 點擊播放", "&#128214; Click to play"]
+    [
+      "← 返回生死記錄儀",
+      "&larr; Back to STILL ALIVE Recorder"
+    ],
+    [
+      "placeholder=\"只有你看到...\"",
+      "placeholder=\"Only you can see this...\""
+    ],
+    [
+      "<meta property=\"og:description\" content=\"活著到底是為了什麼？生命的長度和濃度，要甚麼？\">",
+      "<meta property=\"og:description\" content=\"Why are we alive? The length and the depth of a life &mdash; which is it that matters?\">"
+    ],
+    [
+      "就在你閱讀的這段時間，全球已有",
+      "In the time you have been reading this, the world has lost"
+    ],
+    [
+      "人離世",
+      "people"
+    ],
+    [
+      "勞碌一生",
+      "A lifetime of toil"
+    ],
+    [
+      "活著，到底是為了什麼？",
+      "So why are we alive at all?"
+    ],
+    [
+      "生命 : 長度 : 濃度",
+      "Life : Length : Depth"
+    ],
+    [
+      "到底為了甚麼?",
+      "For what, exactly?"
+    ],
+    [
+      "只是一個被記錄的數字嗎？",
+      "Just a number in a record?"
+    ],
+    [
+      "繼 續",
+      "C O N T I N U E"
+    ],
+    [
+      "若驀然離去",
+      "If you were suddenly taken away"
+    ],
+    [
+      "最放不下什麼？",
+      "What would you hold on to most?"
+    ],
+    [
+      "大多數人沒想過這個問題",
+      "Most people never ask it"
+    ],
+    [
+      "直到來不及的那一天",
+      "Until the day it is too late"
+    ],
+    [
+      "返 回",
+      "B A C K"
+    ],
+    [
+      "你相信死後",
+      "Do you believe that after death"
+    ],
+    [
+      "還有「你」嗎？",
+      "there is still a \"you\"?"
+    ],
+    [
+      "什麼都沒有，人死如燈滅",
+      "Nothing &mdash; the candle simply goes out"
+    ],
+    [
+      "輪迴轉世，繼續下一段旅程",
+      "Reincarnation, on to the next journey"
+    ],
+    [
+      "靈魂是永遠，今只生如單程票",
+      "The soul is eternal; this life is a one-way ticket"
+    ],
+    [
+      "不知道",
+      "I don't know"
+    ],
+    [
+      "如果死後，什麼都沒有",
+      "If after death there is nothing"
+    ],
+    [
+      "一生的掙扎",
+      "A lifetime of struggle"
+    ],
+    [
+      "義人的善，惡人的惡，意義何在？",
+      "The good of the righteous, the evil of the wicked &mdash; what sense is there in it?"
+    ],
+    [
+      "若終點是虛無",
+      "If the end is nothingness"
+    ],
+    [
+      "為何會恐懼死亡？",
+      "Why fear death at all?"
+    ],
+    [
+      "輪迴",
+      "Reincarnation"
+    ],
+    [
+      "苦海無涯，回頭是岸",
+      "The sea of suffering is boundless &mdash; turn back and find the shore"
+    ],
+    [
+      "脫離輪迴苦海",
+      "To escape the sea of suffering and rebirth"
+    ],
+    [
+      "何不尋一道，直達永恆？",
+      "Why not find a way straight to eternity?"
+    ],
+    [
+      "天堂和地獄",
+      "Heaven and Hell"
+    ],
+    [
+      "入門卷是甚麼？",
+      "What is the entry ticket?"
+    ],
+    [
+      "好人？善事？",
+      "Good people? Good deeds?"
+    ],
+    [
+      "誰來定標準？",
+      "Who sets the standard?"
+    ],
+    [
+      "你有把握嗎？",
+      "Are you sure?"
+    ],
+    [
+      "從沒認真想過",
+      "Never really thought about it"
+    ],
+    [
+      "不代表問題不存在",
+      "Doesn't mean the question isn't there"
+    ],
+    [
+      "可以不想",
+      "You can choose not to think about it"
+    ],
+    [
+      "卻躲不過",
+      "But you cannot escape it"
+    ],
+    [
+      "人人都有一死",
+      "Everyone must die"
+    ],
+    [
+      "而沒人在乎去處，這不奇怪嗎？",
+      "And nobody cares where they go &mdash; is that not strange?"
+    ],
+    [
+      "我們都一樣",
+      "We are all the same"
+    ],
+    [
+      "「其實明天如何，我們還不知道。",
+      "\"As for tomorrow, we do not know what it will bring."
+    ],
+    [
+      "我們的生命是甚麼呢？",
+      "What is our life?"
+    ],
+    [
+      "我們原來是一片雲霧，出現少時就不見了。」",
+      "We are a mist that appears for a little while and then vanishes.\""
+    ],
+    [
+      "— 雅各書 4:14",
+      "&mdash; James 4:14"
+    ],
+    [
+      "有一條路",
+      "There is a way"
+    ],
+    [
+      "不再懼怕",
+      "To fear no more"
+    ],
+    [
+      "因為...",
+      "Because..."
+    ],
+    [
+      "「 神愛世人，甚至將祂的獨生子賜給他們",
+      "\"For God so loved the world that He gave His only Son,"
+    ],
+    [
+      "叫一切信祂的，不致滅亡，反得永生。」",
+      "that whoever believes in Him shall not perish but have eternal life.\""
+    ],
+    [
+      "— 約翰福音 3:16",
+      "&mdash; John 3:16"
+    ],
+    [
+      "我想知道更多",
+      "I want to know more"
+    ],
+    [
+      "讓我再想想",
+      "Let me think about it"
+    ],
+    [
+      "一個事實",
+      "A fact"
+    ],
+    [
+      "太初有道",
+      "In the beginning was the Word"
+    ],
+    [
+      "道與　神同在，道就是　神",
+      "and the Word was with God, and the Word was God"
+    ],
+    [
+      "這道太初與　神同在",
+      "He was in the beginning with God."
+    ],
+    [
+      "萬物是藉著他造的",
+      "All things were made through him,"
+    ],
+    [
+      "凡被造的",
+      "and without him nothing was made that has been made."
+    ],
+    [
+      "沒有一樣不是藉著他造的",
+      "In him was life, and the life was the light of all people."
+    ],
+    [
+      "生命在他裡頭，這生命就是人的光",
+      "The light shines in the darkness, and the darkness has not overcome it."
+    ],
+    [
+      "光照在黑暗裡，黑暗卻不接受光",
+      "To all who did receive him, to those who believe in his name, he gave the right to become children of God."
+    ],
+    [
+      "凡接待他的，就是信他名的人",
+      "He is not God made of stone, but living in the hearts of those who love him."
+    ],
+    [
+      "他就賜他們權柄作　神的兒女",
+      "And those who did receive him, to those who believe in his name,"
+    ],
+    [
+      "祂說: 「我就是道路、真理、生命",
+      "He said: \"I am the way, and the truth, and the life."
+    ],
+    [
+      "若不藉著我，沒有人能到父那裡去。」",
+      "No one comes to the Father except through me.\""
+    ],
+    [
+      "— 約翰福音 14:6",
+      "&mdash; John 14:6"
+    ],
+    [
+      "我想了解多些",
+      "I'd like to know more"
+    ],
+    [
+      "▶ 《五色的奧秘》廣東話",
+      "&#9654; \"The Mystery of the Five Colours\" (Cantonese)"
+    ],
+    [
+      "點擊播放",
+      "Click to play"
+    ],
+    [
+      "▶ 『福音橋』2025 簡体字 普通話",
+      "&#9654; \"Gospel Bridge\" 2025 (Mandarin, Simplified)"
+    ],
+    [
+      "《福音》就是好消息(Good News)的意思",
+      "\"Gospel\" simply means Good News"
+    ],
+    [
+      "你若願意",
+      "If you are willing"
+    ],
+    [
+      "可以這樣禱告",
+      "you can pray like this"
+    ],
+    [
+      "主耶穌基督，我相信祢是獨一的真 神",
+      "Lord Jesus Christ, I believe You are the one true God."
+    ],
+    [
+      "謝謝祢的愛，我相信祢為贖我的罪",
+      "Thank You for Your love. I believe You died for my sins,"
+    ],
+    [
+      "曾被釘死在十字架上，但已經復活了！",
+      "were crucified on the cross, and You have risen again!"
+    ],
+    [
+      "我承認自己曾經做錯了許多事，求祢赦免我一切的過犯。",
+      "I confess I have done many wrong things. Please forgive all my wrongdoing."
+    ],
+    [
+      "親愛的主耶穌，我願意接受祢作我唯一的救主。",
+      "Dear Lord Jesus, I am willing to receive You as my only Saviour."
+    ],
+    [
+      "我願意打開我的心，求祢進到我的生命裡",
+      "I am willing to open my heart and invite You into my life."
+    ],
+    [
+      "求祢成為我的救主，我的拯救，永遠與我同在！",
+      "Be my Saviour, my salvation, and stay with me always!"
+    ],
+    [
+      "求祢帶領我走在祢永生的路上",
+      "Lead me along Your path of eternal life."
+    ],
+    [
+      "奉主耶穌基督的名禱告，阿們！",
+      "In the name of the Lord Jesus Christ, Amen!"
+    ],
+    [
+      "📺 福音橋 2025（普通話）",
+      "&#128250; Gospel Bridge 2025 (Mandarin)"
+    ],
+    [
+      "📺 五色的奧秘（廣東話）",
+      "&#128250; The Mystery of the Five Colours (Cantonese)"
+    ],
+    [
+      "阿 們",
+      "A M E N"
+    ],
+    [
+      "♪ 詩 歌",
+      "&#9834; H Y M N S"
+    ],
+    [
+      "▶ 🎵 那真光（福音詩歌）（普通話）",
+      "&#9654; &#127925; That True Light (Gospel Hymn) (Mandarin)"
+    ],
+    [
+      "🎵 點擊播放",
+      "&#127925; Click to play"
+    ],
+    [
+      "🎉 恭喜您！",
+      "&#127881; Congratulations!"
+    ],
+    [
+      "如果你真心這樣禱告了。",
+      "If you have prayed this in your heart,"
+    ],
+    [
+      "恭喜您! 你已經成為 神的兒女了!",
+      "congratulations &mdash; you are now a child of God!"
+    ],
+    [
+      "死亡不再是終點，而是回天家的大門。",
+      "Death is no longer the end; it is the gate home."
+    ],
+    [
+      "願我們在天家裡相見",
+      "May we meet again in our Father's house,"
+    ],
+    [
+      "願主祝福你，阿們",
+      "and may the Lord bless you. Amen."
+    ],
+    [
+      "祂是笑臉幫助我們",
+      "He is the God who helps with a smile,"
+    ],
+    [
+      "是不斥責人的 神",
+      "the God who does not reproach,"
+    ],
+    [
+      "祂以我們的默念為甘甜。",
+      "and who takes our silent meditation as sweetness."
+    ],
+    [
+      "我們既然藉著主耶穌基督",
+      "Since we have been reconciled to God through Jesus Christ,"
+    ],
+    [
+      "得與　神和好，也就藉著他以　神為樂",
+      "we have joy in God through him,"
+    ],
+    [
+      "真實地可以與祂一同生活",
+      "so that we may truly live with him,"
+    ],
+    [
+      "一起面對所有問題",
+      "and face all our problems together,"
+    ],
+    [
+      "相信祂的應許",
+      "trusting in his promise,"
+    ],
+    [
+      "盼望祂再來的那天來到。",
+      "and looking forward to the day he comes again."
+    ],
+    [
+      "願主祝福你",
+      "The Lord bless you,"
+    ],
+    [
+      "使你能夠深深認識祂，相信祂。",
+      "so that you may know him deeply and believe in him."
+    ],
+    [
+      "祂必喜悅你",
+      "He will be pleased with you"
+    ],
+    [
+      "以真誠和愛心去回應祂的真情。",
+      "as you respond to his love with sincerity and love."
+    ],
+    [
+      "願我們一起同走這永生之路",
+      "May we walk this eternal road together,"
+    ],
+    [
+      "可在天家裡相見，阿們。",
+      "and meet in our Father's house. Amen."
+    ],
+    [
+      "🎵 詩歌01 — 永恆的婚誓",
+      "&#127925; Hymn 01 &mdash; The Eternal Wedding Vow"
+    ],
+    [
+      "🎵 詩歌02 — 雅歌的心願 MV",
+      "&#127925; Hymn 02 &mdash; The Song of Songs' Wish (MV)"
+    ],
+    [
+      "🎵 詩歌03 — 生命的吶喊 MV",
+      "&#127925; Hymn 03 &mdash; The Cry of Life (MV)"
+    ],
+    [
+      "📖 分享 —『愛的修復』第二節（普通話）",
+      "&#128214; Sharing &mdash; \"The Repair of Love\" Part 2 (Mandarin)"
+    ],
+    [
+      "⚠️ 警醒 — 最後一次狼來了（普通話）",
+      "&#9888;&#65039; Wake Up &mdash; The Wolf Comes One Last Time (Mandarin)"
+    ],
+    [
+      "⏰ 你知道嗎？",
+      "&#9200; Did you know?"
+    ],
+    [
+      "聖經預言的七年大災難，可能比你想像的更近。",
+      "The seven-year tribulation the Bible prophesied may be closer than you think."
+    ],
+    [
+      "願我們都警醒預備，持守到底。",
+      "May we all stay alert, stay ready, and hold on to the end."
+    ],
+    [
+      "📜 了解七年大災難時間軸",
+      "&#128220; Explore the Seven-Year Tribulation Timeline"
+    ],
+    [
+      "▶ 📖 舊約的精意 — 永恆的婚誓",
+      "&#9654; &#128214; The Heart of the Old Testament &mdash; The Eternal Wedding Vow"
+    ],
+    [
+      "📖 點擊播放",
+      "&#128214; Click to play"
+    ]
+  ],
+  "allow_same_dir": [
+    "index.html",
+    "GoodNews.html",
+    "timeline04.html",
+    "index0203.html",
+    "monitor03E.html",
+    "category.html"
   ]
 }

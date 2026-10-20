@@ -2,12 +2,6 @@
   "src": "timeline04.html",
   "out": "timeline04.html",
   "path_prefix": [
-    "index.html",
-    "monitor03E.html",
-    "GoodNews.html",
-    "timeline04.html",
-    "index0203.html",
-    "category.html",
     "og-still-alive.png"
   ],
   "allow_chinese_js": [],
@@ -1031,5 +1025,13 @@
       "「看哪，我必快來！賞罰在我，要照各人所行的報應他」— 啟示錄 22:12",
       "&ldquo;Behold, I am coming quickly, and my reward is with me, to give to every man according to his work&rdquo; &mdash; Revelation 22:12"
     ]
+  ],
+  "allow_same_dir": [
+    "index.html",
+    "GoodNews.html",
+    "timeline04.html",
+    "index0203.html",
+    "monitor03E.html",
+    "category.html"
   ]
 }

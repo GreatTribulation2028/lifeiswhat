@@ -321,8 +321,6 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 </style>
 </head>
 <body>
-<div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:Consolas,monospace;font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px"><a href="../monitor03E.html" style="color:#8ab4f8">中文</a> &nbsp;|&nbsp; <span style="color:#ff6b35">English</span></div>
-
 <div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:var(--f-mono);font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px"><a href="../monitor03E.html" style="color:var(--text-dim)">&#20013;&#25991;</a> &nbsp;|&nbsp; <span style="color:var(--accent)">English</span></div>
 <canvas id="particle-bg"></canvas>
 
@@ -339,8 +337,8 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <span class="counter-label">people die worldwide today</span>
 </div>
 <div class="counter-since">(about 2.0 per second &middot; WHO global mortality estimate)</div>
-<a href="../index.html" class="back-to-portal">&larr; Back to home</a>
-<div class="catnav"><span class="catnav-label">Eleven Disasters Watch</span><div class="catnav-btns"><a href="../category.html?cat=econ">Economy</a><a href="../category.html?cat=disaster">Natural Disasters</a><a href="../category.html?cat=war">War</a><a href="../category.html?cat=plague">Pandemic</a><a href="../category.html?cat=social">Society</a><a href="../category.html?cat=food">Food</a><a href="../category.html?cat=tech">Tech</a><a href="../category.html?cat=religion">Religion</a><a href="../category.html?cat=politics">Politics</a><a href="../category.html?cat=celestial">Celestial</a><a href="../category.html?cat=tribulation">Tribulation</a><a href="../category.html?cat=departure">Departure</a><a href="../category.html?cat=industry">Industry</a><a href="../category.html?cat=traffic">Traffic</a><a href="../category.html?cat=fire">Fire</a><a href="../category.html?cat=tragedy">Tragedy</a><a href="../category.html?cat=sidefx">Side Effects</a></div></div>
+<a href="index.html" class="back-to-portal">&larr; Back to home</a>
+<div class="catnav"><span class="catnav-label">Eleven Disasters Watch</span><div class="catnav-btns"><a href="category.html?cat=econ">Economy</a><a href="category.html?cat=disaster">Natural Disasters</a><a href="category.html?cat=war">War</a><a href="category.html?cat=plague">Pandemic</a><a href="category.html?cat=social">Society</a><a href="category.html?cat=food">Food</a><a href="category.html?cat=tech">Tech</a><a href="category.html?cat=religion">Religion</a><a href="category.html?cat=politics">Politics</a><a href="category.html?cat=celestial">Celestial</a><a href="category.html?cat=tribulation">Tribulation</a><a href="category.html?cat=departure">Departure</a><a href="category.html?cat=industry">Industry</a><a href="category.html?cat=traffic">Traffic</a><a href="category.html?cat=fire">Fire</a><a href="category.html?cat=tragedy">Tragedy</a><a href="category.html?cat=sidefx">Side Effects</a></div></div>
 </div>
 
 <!-- Header -->
@@ -418,7 +416,7 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 <div id="keyword-cloud"></div>
 
 <!-- IF IT WERE YOU（置頂於右下欄） -->
-<a id="if-it-were-you" href="../GoodNews.html" role="button" aria-label="IF IT WERE YOU" style="text-decoration:none;display:block">
+<a id="if-it-were-you" href="GoodNews.html" role="button" aria-label="IF IT WERE YOU" style="text-decoration:none;display:block">
 <div class="iwy-kicker">💭 IF IT WERE YOU</div>
 <div class="iwy-title">I F &nbsp; I T &nbsp; W E R E &nbsp; Y O U</div>
 <div class="iwy-sub">Give yourself 3 minutes<br>Seriously consider a question you have been avoiding<br>Where the soul goes</div>
@@ -1319,7 +1317,7 @@ function populateFilterDropdowns(){
   ys.innerHTML='<option value="">All years</option>'+[...years].sort().reverse().map(y=>`<option value="${y}">${y}</option>`).join('');
   const ms=document.getElementById('month-filter');
   const mNames=['','Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  ms.innerHTML='<option value="">All months</option>'+[...months].sort().map(m=>`<option value="${m}"../>${mNames[parseInt(m)]||m}</option>`).join('');
+  ms.innerHTML='<option value="">All months</option>'+[...months].sort().map(m=>`<option value="${m}">${mNames[parseInt(m)]||m}</option>`).join('');
 }
 function loadPastedData(){
   const input=document.getElementById('paste-input');
@@ -1471,7 +1469,7 @@ function showDailyContent(){
 }
 function toggleMourningMode(){document.body.classList.toggle('mourning-mode')}
 // ===== 沉浸靈魂旅程（已移至 GoodNews.html） =====
-function openImmersive(){ window.location.href='../GoodNews.html'; }
+function openImmersive(){ window.location.href='GoodNews.html'; }
 function closeImmersive(){ window.location.href='../monitor.html'; }
 function nextStage(n){
   document.querySelectorAll('.immersive-stage').forEach(s=>s.classList.remove('active'));

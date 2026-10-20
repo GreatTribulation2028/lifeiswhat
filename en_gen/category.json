@@ -1,0 +1,250 @@
+{
+  "src": "category.html",
+  "out": "category.html",
+  "path_prefix": [],
+  "path_prefix_contains": [
+    "data_${fk}.js",
+    "data_urls.js"
+  ],
+  "allow_same_dir": [
+    "index.html",
+    "GoodNews.html",
+    "timeline04.html",
+    "index0203.html",
+    "monitor03E.html",
+    "category.html"
+  ],
+  "allow_chinese_js": [
+    "未分類",
+    "中暑",
+    "人",
+    "名",
+    "個",
+    "間",
+    "店",
+    "宗",
+    "戶",
+    "起",
+    "架",
+    "箱",
+    "噸",
+    "萬"
+  ],
+  "langbar": "<div style=\"position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:var(--f-mono);font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px\"><a href=\"../category.html\" style=\"color:var(--text-dim)\">&#20013;&#25991;</a> &nbsp;|&nbsp; <span style=\"color:var(--accent)\">English</span></div>",
+  "html": [
+    [
+      "<title>末世新聞分類</title>",
+      "<title>End-Times News Categories</title>"
+    ],
+    [
+      "← 回首頁",
+      "&larr; Back to home"
+    ],
+    [
+      "⚡ 生死記錄儀",
+      "&#9889; STILL ALIVE Recorder"
+    ],
+    [
+      "資料載入中…",
+      "Loading data&hellip;"
+    ],
+    [
+      "📊 統計表（月份走勢・子清單分佈）— 撳開/收合",
+      "&#128202; Statistics (monthly trend &middot; sub-category distribution) &mdash; expand / collapse"
+    ],
+    [
+      "月份走勢（全部月份）",
+      "Monthly trend (all months)"
+    ],
+    [
+      "子清單分佈",
+      "Sub-category distribution"
+    ],
+    [
+      "placeholder=\"🔍 搜尋標題關鍵字…\"",
+      "placeholder=\"&#128269; Search title keywords&hellip;\""
+    ],
+    [
+      "全部時間",
+      "All time"
+    ],
+    [
+      "今天",
+      "Today"
+    ],
+    [
+      "一星期",
+      "A week"
+    ],
+    [
+      "一個月",
+      "A month"
+    ],
+    [
+      "一年",
+      "A year"
+    ],
+    [
+      "末世新聞分類 × build_news_js.py ｜",
+      "End-Times News Categories &times; build_news_js.py ｜"
+    ],
+    [
+      "title=\"回置頂\"",
+      "title=\"Back to top\""
+    ]
+  ],
+  "js": [
+    [
+      "sudden:{name:\"猝死\",full:\"猝死記錄\",",
+      "sudden:{name:\"Sudden Death\",full:\"Sudden Death Records\","
+    ],
+    [
+      "departure:{name:\"自殺\",full:\"自殺與離世記錄\",",
+      "departure:{name:\"Suicide\",full:\"Suicide &amp; Departure Records\","
+    ],
+    [
+      "industry:{name:\"意外\",full:\"工業與日常意外\",",
+      "industry:{name:\"Accidents\",full:\"Industrial &amp; Everyday Accidents\","
+    ],
+    [
+      "traffic:{name:\"交通\",full:\"交通意外\",",
+      "traffic:{name:\"Traffic\",full:\"Traffic Accidents\","
+    ],
+    [
+      "fire:{name:\"火警\",full:\"火警與火災\",",
+      "fire:{name:\"Fire\",full:\"Fires &amp; Blazes\","
+    ],
+    [
+      "tragedy:{name:\"遇溺\",full:\"遇溺與溺水\",",
+      "tragedy:{name:\"Drowning\",full:\"Drowning &amp; Water Deaths\","
+    ],
+    [
+      "plague:{name:\"醫藥\",full:\"疫情、疫苗、醫療\",",
+      "plague:{name:\"Medical\",full:\"Pandemic, Vaccines &amp; Healthcare\","
+    ],
+    [
+      "sidefx:{name:\"藥物副作用\",full:\"藥物副作用\",",
+      "sidefx:{name:\"Side Effects\",full:\"Drug Side Effects\","
+    ],
+    [
+      "econ:{name:\"經濟\",full:\"經濟與金融\",",
+      "econ:{name:\"Economy\",full:\"Economy &amp; Finance\","
+    ],
+    [
+      "disaster:{name:\"天災\",full:\"自然災害\",",
+      "disaster:{name:\"Disasters\",full:\"Natural Disasters\","
+    ],
+    [
+      "war:{name:\"戰爭\",full:\"戰爭與衝突\",",
+      "war:{name:\"War\",full:\"War &amp; Conflict\","
+    ],
+    [
+      "social:{name:\"治安\",full:\"治安與暴力犯罪\",",
+      "social:{name:\"Public Safety\",full:\"Safety &amp; Violent Crime\","
+    ],
+    [
+      "food:{name:\"糧食\",full:\"糧食與供應\",",
+      "food:{name:\"Food\",full:\"Food &amp; Supply\","
+    ],
+    [
+      "tech:{name:\"AI安全\",full:\"AI 安全與監控\",",
+      "tech:{name:\"AI Safety\",full:\"AI Safety &amp; Surveillance\","
+    ],
+    [
+      "religion:{name:\"宗教\",full:\"宗教記錄\",",
+      "religion:{name:\"Religion\",full:\"Religion Records\","
+    ],
+    [
+      "tribulation:{name:\"七年大災難\",full:\"七年大災難記錄\",",
+      "tribulation:{name:\"Tribulation\",full:\"Seven-Year Tribulation Records\","
+    ],
+    [
+      "celestial:{name:\"天象\",full:\"天象異常\",",
+      "celestial:{name:\"Celestial\",full:\"Celestial Signs\","
+    ],
+    [
+      "politics:{name:\"政治\",full:\"政治動盪\",",
+      "politics:{name:\"Politics\",full:\"Political Turmoil\","
+    ],
+    [
+      "heatstroke:{name:\"中暑昏迷\",full:\"中暑、暈倒、昏迷（猝死檔篩選）\",",
+      "heatstroke:{name:\"Heatstroke &amp; Collapse\",full:\"Heatstroke, Collapse &amp; Coma (filtered from the sudden-death file)\","
+    ],
+    [
+      "const GROUPS={ALL:{name:'全部',icon:'📋',color:'#ff6b35'}};",
+      "const GROUPS={ALL:{name:'All',icon:'&#128203;',color:'#ff6b35'}};"
+    ],
+    [
+      "document.title=C.full+'｜末世新聞分類';",
+      "document.title=C.full+'｜End-Times News Categories';"
+    ],
+    [
+      "'<div class=\"err\">⚠️ 搵唔到資料檔 data_'+fk+'.js<br>請確認已上傳到同一資料夾，或本機預覽時資料放喺 Data\\\\ 入面。</div>'",
+      "'<div class=\"err\">&#9888;&#65039; Could not find the data file data_'+fk+'.js<br>Please make sure it is uploaded to the same folder, or place the data under Data\\\\ when previewing locally.</div>'"
+    ],
+    [
+      "document.getElementById('dateRange').textContent='無資料';",
+      "document.getElementById('dateRange').textContent='No data';"
+    ],
+    [
+      "mk('全部記錄',all.length,undefined);",
+      "mk('All records',all.length,undefined);"
+    ],
+    [
+      "`<div class=\"mcell\" title=\"${k}：${mon[k]} 條\">`",
+      "`<div class=\"mcell\" title=\"${k}: ${mon[k]} records\">`"
+    ],
+    [
+      "`<span class=\"ml\">無日期</span></div>`",
+      "`<span class=\"ml\">No date</span></div>`"
+    ],
+    [
+      "`<div class=\"mnote\">全部 ${keys.length} 個月（最高 ${max} 條）</div>`",
+      "`<div class=\"mnote\">All ${keys.length} months (peak ${max} records)</div>`"
+    ],
+    [
+      "box.innerHTML='<button data-s=\"\" class=\"on\">全部子類</button>';",
+      "box.innerHTML='<button data-s=\"\" class=\"on\">All sub-categories</button>';"
+    ],
+    [
+      "`顯示 ${view.length.toLocaleString()} / ${all.length.toLocaleString()} 筆`",
+      "`Showing ${view.length.toLocaleString()} / ${all.length.toLocaleString()}`"
+    ],
+    [
+      "(q?`｜搜尋「${q}」`:'')",
+      "(q?`｜Search \"${q}\"`:'')"
+    ],
+    [
+      "(subFilter?`｜子類「${subFilter}」`:'')",
+      "(subFilter?`｜Sub-category \"${subFilter}\"`:'')"
+    ],
+    [
+      "'<div class=\"empty\">— 冇符合條件嘅記錄 —</div>'",
+      "'<div class=\"empty\">&mdash; No matching records &mdash;</div>'"
+    ],
+    [
+      "`載入更多（已顯示 ${end.toLocaleString()} / ${view.length.toLocaleString()}）`",
+      "`Load more (showing ${end.toLocaleString()} / ${view.length.toLocaleString()})`"
+    ],
+    [
+      "box.querySelector('.ss-title').textContent='「'+subFilter+'」專屬統計';",
+      "box.querySelector('.ss-title').textContent='\"'+subFilter+'\" dedicated statistics';"
+    ],
+    [
+      "box.querySelector('.ss-note').textContent='由標題數字加總（'+cnt+' 宗有數字計入；'+(recs.length-cnt)+' 宗無數字不計）・共 '+recs.length+' 宗';",
+      "box.querySelector('.ss-note').textContent='Summed from the numbers in the titles ('+cnt+' records with a number, '+(recs.length-cnt)+' without) · total '+recs.length+' records';"
+    ],
+    [
+      "<b style=\"font-size:16px\">月份走勢'+(sub?'・'+sub:'')",
+      "<b style=\"font-size:16px\">Monthly trend'+(sub?' · '+sub:'')"
+    ],
+    [
+      "(showAll?'收起・淨睇近3年':'展開・全部月份')",
+      "(showAll?'Collapse · last 3 years only':'Expand · all months')"
+    ],
+    [
+      "padding-bottom:3px\">'+y+' 年</div>",
+      "padding-bottom:3px\">'+y+'</div>"
+    ]
+  ]
+}
