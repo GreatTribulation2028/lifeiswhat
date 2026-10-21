@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0a0e14">
+<title>TG 死亡记录｜Telegram 群组死亡消息分类｜生死记录仪</title>
+<meta name="description" content="从 Telegram 群组抽取的死亡记录，按大分类和细分分类统计，不与新闻页混合。">
+<style>
+
+:root{
+  --bg:#0a0e14; --panel:#101722; --line:#22303f; --txt:#d5dde8; --dim:#6b7f93;
+  --acc:#ff6b35; --gold:#d4a953; --tg:#3fb6e8;
+  --mono:"Consolas","Courier New","PingFang HK",monospace;
+  --sans:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--txt);font-family:var(--sans);line-height:1.7}
+a{color:var(--gold);text-decoration:none}
+.wrap{max-width:1080px;margin:0 auto;padding:18px 14px 60px}
+
+.top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:6px 0 14px}
+.top h1{font-size:clamp(1.4rem,4.6vw,2rem);color:#fff;letter-spacing:1px}
+.top .sub{font-family:var(--mono);font-size:12px;color:var(--tg);margin-top:4px}
+.back{display:inline-block;font-family:var(--mono);font-size:12px;color:var(--dim);
+  border:1px solid var(--line);padding:7px 13px;border-radius:4px}
+.back:hover{color:var(--acc);border-color:var(--acc)}
+
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:9px;margin:12px 0 16px}
+.card{background:var(--panel);border:1px solid var(--line);border-top:2px solid var(--acc);
+  border-radius:8px;padding:11px 13px}
+.card .n{font-family:var(--mono);font-size:1.5rem;color:#fff;line-height:1.2}
+.card .l{font-size:12px;color:var(--dim);margin-top:3px}
+.card.zero{opacity:.38}
+
+.chips{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0 6px}
+.chip{font-family:var(--mono);font-size:12.5px;padding:6px 13px;border-radius:16px;
+  border:1px solid var(--line);background:rgba(255,255,255,.03);color:var(--txt);cursor:pointer}
+.chip:hover{border-color:var(--gold);color:var(--gold)}
+.chip.on{background:var(--acc);border-color:var(--acc);color:#fff;font-weight:bold}
+.chip .n{opacity:.65;margin-left:5px;font-size:11.5px}
+.chip.sub{font-size:12px;padding:5px 11px}
+.chip.sub.on{background:var(--tg);border-color:var(--tg)}
+.lbl{font-family:var(--mono);font-size:11.5px;color:var(--dim);letter-spacing:2px;margin:16px 0 2px}
+
+.tools{display:flex;gap:9px;align-items:center;flex-wrap:wrap;margin:12px 0}
+.tools input{flex:1 1 220px;min-width:180px;background:#0b1220;border:1px solid var(--line);
+  color:var(--txt);padding:9px 13px;border-radius:6px;font-family:var(--mono);font-size:13px}
+.tools input:focus{outline:none;border-color:var(--tg)}
+.tools .cnt{font-family:var(--mono);font-size:12px;color:var(--dim)}
+
+.list{border:1px solid var(--line);border-radius:9px;overflow:hidden}
+.row{display:grid;grid-template-columns:92px 150px 1fr 92px;gap:11px;align-items:start;
+  padding:11px 13px;border-bottom:1px solid rgba(255,255,255,.045);font-size:13.5px}
+.row:hover{background:rgba(255,107,53,.05)}
+.row .d{font-family:var(--mono);font-size:12px;color:var(--gold)}
+.row .g{font-family:var(--mono);font-size:11.5px;color:var(--tg);word-break:break-all}
+.row .t{color:var(--txt);word-break:break-word}
+.row .u{font-family:var(--mono);font-size:11.5px;text-align:right}
+.row .u a{color:var(--dim)}.row .u a:hover{color:var(--acc)}
+.empty{padding:36px;text-align:center;color:var(--dim);font-family:var(--mono)}
+@media(max-width:720px){
+  .row{grid-template-columns:1fr;gap:4px}
+  .row .u{text-align:left}
+}
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<div class="langbar"><a href="../tg.html">繁體</a><i>|</i><a href="../zh-cn/tg.html" class="on">简体</a><i>|</i><a href="../en/tg.html">English</a></div>
+
+<div class="top">
+  <div>
+    <h1>TG 死亡记录</h1>
+    <div class="sub">TELEGRAM DEATH RECORDS · 群组消息 · 非新闻来源</div>
+  </div>
+  <a class="back" href="../index.html">← 返回生死记录仪首页</a>
+</div>
+
+<p style="font-size:13px;color:var(--dim);border-left:2px solid var(--tg);padding-left:12px;margin:6px 0 4px">这些是 Telegram 群组的消息（不是新闻），质素与新闻不同，所以独立一页，不混入新闻 18 类。</p>
+
+<div class="cards" id="cards"></div>
+
+<div class="lbl" id="lbl1">第一层：TG 大分类</div>
+<div class="chips" id="chips1"></div>
+
+<div class="lbl" id="lbl2" style="display:none">第二层：死亡细分</div>
+<div class="chips" id="chips2"></div>
+
+<div class="tools">
+  <input id="q" type="search" placeholder="搜索关键字／群组／内容…">
+  <span class="cnt" id="cnt"></span>
+</div>
+
+<div class="list" id="list"></div>
+
+<div class="foot" style="text-align:center;color:var(--dim);font-family:var(--mono);font-size:11px;margin-top:26px;line-height:2">
+  <span id="gen"></span><br>
+  STILL ALIVE Recorder &times; Telegram Death Records
+</div>
+
+</div>
+<script src="../data_tg.js"></script>
+<script>
+
+var DATA = window.DATA_TG || {records:[],stats:{},total:0,shown:0};
+var REC = DATA.records || [];
+var L = {"lang": "zh-Hans", "title": "TG 死亡记录｜Telegram 群组死亡消息分类｜生死记录仪", "desc": "从 Telegram 群组抽取的死亡记录，按大分类和细分分类统计，不与新闻页混合。", "h1": "TG 死亡记录", "sub": "TELEGRAM DEATH RECORDS · 群组消息 · 非新闻来源", "back": "← 返回生死记录仪首页", "all": "全部", "search_ph": "搜索关键字／群组／内容…", "l1": "第一层：TG 大分类", "l2": "第二层：死亡细分", "sh1": "死亡八分", "sh2": "其他", "sh3": "战争／凶案", "c1": "总记录", "c2": "已载入", "c3": "死亡相关", "c4": "高把握度", "cnt": "显示", "of": "/", "recs": "笔", "src": "个群转发", "gen": "资料产生时间", "total": "总记录", "shown": "页面载入", "note": "这些是 Telegram 群组的消息（不是新闻），质素与新闻不同，所以独立一页，不混入新闻 18 类。", "empty": "没有符合条件的记录", "w": "AI 把握度"};
+var BUCKETS = [["sudden", ["心源性猝死"], ["猝死", "心臟驟停", "心臟停頓", "心臟停止", "心肌炎", "心梗", "心肌梗塞", "心臟病", "心臟衰竭", "heart attack", "cardiac arrest", "died suddenly", "sudden death", "心臟病發", "心因性", "心源性", "腦溢血", "中風", "腦梗塞"]], ["suicide", ["自殺"], ["自殺", "轻生", "輕生", "跳樓", "燒炭", "服毒", "上吊", "割腕", "suicide", "hanged"]], ["traffic", ["交通航空"], ["車禍", "交通意外", "相撞", "追尾", "墜機", "空難", "翻車", "飛機", "train crash", "crash", "碰撞"]], ["accident", ["意外工安", "災難"], ["意外", "工傷", "地盤", "塌", "坍", "爆炸", "火災", "火警", "燒死", "燒焦", "火災", "起火", "工程", "construction"]], ["drown", [], ["溺", "水中", "泳", "海難", "沉沒", "船難", " drown", "drowned"]], ["fire", [], ["火警", "火災", "燒死", "燒焦", "起火", "house fire", "wildfire"]], ["medical", ["疾病醫療", "自然死亡"], ["病逝", "病故", "癌", "腫瘤", "中風", "器官衰竭", "衰竭", "糖尿病", "腎", "肺炎", "感染", "病毒", "離世", "病逝", "natural death", "died of", "illness"]]];
+var CATLABEL = {"14.📌死亡統計": ["死亡統計", "死亡统计", "General death"], "15.📌死亡細分類-心源性猝死": ["心源性猝死", "心源性猝死", "Cardiac / sudden death"], "15.📌死亡細分類-自殺": ["自殺", "自杀", "Suicide"], "15.📌死亡細分類-意外工安": ["意外工安", "意外工安", "Accident / industrial safety"], "15.📌死亡細分類-交通航空": ["交通航空", "交通航空", "Traffic / aviation"], "15.📌死亡細分類-凶案暴力": ["凶案暴力", "凶案暴力", "Homicide / violence"], "15.📌死亡細分類-疾病醫療": ["疾病醫療", "疾病医疗", "Disease / medical"], "15.📌死亡細分類-自然死亡": ["自然死亡", "自然死亡", "Natural death"], "15.📌死亡細分類-戰爭軍事": ["戰爭軍事", "战争军事", "War / military"], "15.📌死亡細分類-災難": ["災難", "灾难", "Disaster"]};
+var BUCKETLABEL = {"sudden": ["猝死", "猝死", "Sudden death"], "suicide": ["自殺", "自杀", "Suicide"], "traffic": ["交通", "交通", "Traffic"], "accident": ["意外", "意外", "Accident"], "drown": ["遇溺", "遇溺", "Drowning"], "fire": ["火警", "火警", "Fire"], "medical": ["醫療", "医疗", "Medical"], "other": ["其他", "其他", "Other"]};
+
+var state = {cat:"__ALLCAT__", bucket:"", q:""};
+
+/* 將一條記錄歸入死亡八分（cat 前綴優先，再睇 sub 關鍵字） */
+function bucketOf(r){
+  for(var i=0;i<BUCKETS.length;i++){
+    var b=BUCKETS[i], k=b[0];
+    for(var j=0;j<b[1].length;j++){ if((r.c||"").indexOf(b[1][j])>=0) return k; }
+  }
+  for(var i=0;i<BUCKETS.length;i++){
+    var b=BUCKETS[i], k=b[0];
+    for(var j=0;j<b[2].length;j++){
+      var w=(b[2][j]||"").toLowerCase();
+      if(w && (r.s||"").toLowerCase().indexOf(w)>=0) return k;
+    }
+  }
+  return "other";
+}
+
+function catLabel(c){
+  var v=CATLABEL[c];
+  if(v) return v[1];
+  return c||"";
+}
+function bucketLabel(b){
+  var v=BUCKETLABEL[b];
+  if(v) return v[1];
+  return b||"";
+}
+
+function isDeath(c){ return (c||"").indexOf("死亡")>=0 || (c||"").indexOf("死亡")>=0; }
+
+function view(){
+  var q=state.q.toLowerCase();
+  return REC.filter(function(r){
+    if(state.cat!=="__ALLCAT__" && r.c!==state.cat) return false;
+    if(state.bucket && bucketOf(r)!==state.bucket) return false;
+    if(q){
+      var hay=((r.t||"")+" "+(r.g||"")+" "+(r.s||"")).toLowerCase();
+      if(hay.indexOf(q)<0) return false;
+    }
+    return true;
+  });
+}
+
+function countCat(c){
+  var n=0;
+  for(var i=0;i<REC.length;i++){
+    if(c==="__ALLCAT__" || REC[i].c===c) n++;
+  }
+  return n;
+}
+function countBucket(b){
+  var n=0;
+  for(var i=0;i<REC.length;i++){
+    if(REC[i].c!==state.cat) continue;
+    if(bucketOf(REC[i])===b) n++;
+  }
+  return n;
+}
+
+function esc(s){
+  return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;")
+          .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+function renderChips(){
+  var cats=["__ALLCAT__"].concat(Object.keys(DATA.stats||{}));
+  var h="";
+  for(var i=0;i<cats.length;i++){
+    var c=cats[i];
+    var n=(c==="__ALLCAT__")?REC.length:countCat(c);
+    var lbl=(c==="__ALLCAT__")?L.all:catLabel(c);
+    h+='<button class="chip'+(state.cat===c?" on":"")+'" data-c="'+esc(c)+'">'
+      +esc(lbl)+'<span class="n">'+n.toLocaleString()+'</span></button>';
+  }
+  document.getElementById("chips1").innerHTML=h;
+
+  var h2="";
+  if(state.cat!=="__ALLCAT__"){
+    var keys=Object.keys(BUCKETLABEL);
+    for(var i=0;i<keys.length;i++){
+      var b=keys[i];
+      var n=countBucket(b);
+      h2+='<button class="chip sub'+(state.bucket===b?" on":"")+'" data-b="'+b+'">'
+        +esc(bucketLabel(b))+'<span class="n">'+n.toLocaleString()+'</span></button>';
+    }
+  }
+  document.getElementById("chips2").innerHTML=h2;
+  document.getElementById("lbl2").style.display = (state.cat!=="__ALLCAT__"?"":"none");
+}
+
+function renderList(){
+  var v=view();
+  document.getElementById("cnt").textContent =
+    L.cnt+" "+v.length.toLocaleString()+" "+L.of+" "+REC.length.toLocaleString()+" "+L.recs;
+  var box=document.getElementById("list");
+  if(!v.length){ box.innerHTML='<div class="empty">'+L.empty+'</div>'; return; }
+  var h="";
+  for(var i=0;i<v.length;i++){
+    var r=v[i];
+    h+='<div class="row">'
+      +'<div class="d">'+esc(r.d)+'</div>'
+      +'<div class="g">'+esc(r.g||"")+(r.n>1?' <span style="opacity:.6">(×'+r.n+')</span>':'')+'</div>'
+      +'<div class="t">'+esc(r.t)+'</div>'
+      +'<div class="u">'+(r.u?'<a href="'+esc(r.u)+'" target="_blank" rel="noopener">&#8599;</a>':'')+'</div>'
+      +'</div>';
+  }
+  box.innerHTML=h;
+}
+
+function renderCards(){
+  var death=0, hi=0;
+  for(var i=0;i<REC.length;i++){
+    if(isDeath(REC[i].c)) death++;
+    if(REC[i].w>=0.8) hi++;
+  }
+  var html="";
+  html+='<div class="card"><div class="n">'+((DATA.total||0).toLocaleString())+'</div><div class="l">'+L.c1+'</div></div>';
+  html+='<div class="card"><div class="n">'+REC.length.toLocaleString()+'</div><div class="l">'+L.c2+'</div></div>';
+  html+='<div class="card"><div class="n">'+death.toLocaleString()+'</div><div class="l">'+L.c3+'</div></div>';
+  html+='<div class="card"><div class="n">'+hi.toLocaleString()+'</div><div class="l">'+L.c4+'</div></div>';
+  document.getElementById("cards").innerHTML=html;
+  document.getElementById("gen").textContent = L.gen+" "+(DATA.generated||"—");
+}
+
+document.getElementById("chips1").addEventListener("click",function(e){
+  var b=e.target.closest("[data-c]"); if(!b) return;
+  state.cat=b.getAttribute("data-c"); state.bucket="";
+  renderChips(); renderList();
+});
+document.getElementById("chips2").addEventListener("click",function(e){
+  var b=e.target.closest("[data-b]"); if(!b) return;
+  state.bucket = (state.bucket===b.getAttribute("data-b"))?"":b.getAttribute("data-b");
+  renderChips(); renderList();
+});
+document.getElementById("q").addEventListener("input",function(e){
+  state.q=e.target.value.trim(); renderList();
+});
+renderCards(); renderChips(); renderList();
+
+</script>
+</body>
+</html>
