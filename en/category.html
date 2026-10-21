@@ -347,7 +347,7 @@ async function loadAll(){
   const winVar=C.varName;
   const fk=C.file||cat; /* 資料檔 key（heatstroke 共用 sudden 檔）*/
   // ★ 只試最可能嘅路徑，每個最多等 4 秒，唔好讓 404 卡住畫面
-  const srcs=[`../data_${fk}.js?v=${v}`,`Data/data_${fk}.js?v=${v}`,`data_${fk}.js`];
+  const srcs=[`../data_${fk}.js?v=${v}`,`Data/data_${fk}.js?v=${v}`,`../data_${fk}.js`];
   let loaded='';
   for(const src of srcs){
     try{await loadScript(src,4000);}catch(e){continue;}
