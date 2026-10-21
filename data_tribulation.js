@@ -1,6 +1,5 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 505 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 504 條
 var DATA_TRIBULATION = `
-2027-10-02	【這不是巧合，是正在發生的末世預言】 獸名	https://www.threads.com/@tribulation20271002/post/DcB1Biak3UE	末日預兆
 2026-10-17	退休教授好心捷運扶人 反被提告索賠50萬！最終竟是賠了11萬	https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjFaWjJYWjZXWUZvRTBBZnJLZ1Y1bnNwZ3VHd3BaaGJZTk5Ed3FicnVMZ0t4Mk5EUm9KTjVyS2k1UTFLa1BIa2JsYklRejJzQnFrd2l1TUliTXE1cnFTa1VHV1VuMzdoOE5xQlVOektVeS05dm5IRUhYLURsbXdBRFBlbGJINUg0Ni11ekRB?oc=5	末日預兆
 2026-10-17	愛上爛人也不回頭三大星座！TOP 1認為真愛能感化對方 與世界為敵也不放手	https://fashion.ettoday.net/news/3256081	未分類
 2026-10-17	中職》馬傑森本季大爆發日媒注目！戀情、再戰亞冠賽都被提及	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTWE9DZklMUUxVOXF0MjU2YVJCMW9PUWlFTGlQT1RYSzRlTWdYSDhUZnhwOHllakJBSUZ2SldsS1FldGZjMTFFS0VReDVtbXRpa1pxUWNSYWFzeGRUSHJ3bdIBZkFVX3lxTFA1eFIydWx3VzhDZEExVHE5bGN1OUhUMDFqamR3d3BBRXFiMmxaNUkxTWZSNmRCMlhsWVVNVkJHa3FUZ3lKNG5XNzE5XzdWQnNuX2hpT1kzR09pVS1PZzhEZjE3TEp3Zw?oc=5	末日預兆
