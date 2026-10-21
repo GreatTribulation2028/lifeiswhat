@@ -6,3 +6,5 @@ _bak_before_trilingual/
 *.bak_before_trilingual
 _build_news_bak/
 *.bak
+__pycache__/
+*.pyc
