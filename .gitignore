@@ -8,3 +8,12 @@ _build_news_bak/
 *.bak
 __pycache__/
 *.pyc
+
+# 臨時工具（唔好推上 GitHub）
+_js_syntax_check.py
+_scan*.py
+_read*.py
+_verify*.py
+_chk*.py
+_final*.py
+_patch*.py
