@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Baduanjin: Start from Health, See Life and Death | STILL ALIVE Recorder</title>
+<meta name="description" content="Eight minutes a day, eight movements, no equipment. Start from health, see life and death. Baduanjin single-file offline edition (Cantonese / Mandarin / English).">
+<style>
+
+:root{
+  --bg:#0a0e14; --panel:#101722; --line:#22303f;
+  --txt:#d5dde8; --dim:#6b7f93; --acc:#ff6b35; --gold:#d4a953;
+  --mono:"Consolas","Courier New",monospace;
+  --sans:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--txt);font-family:var(--sans);min-height:100vh;line-height:1.8}
+a{color:var(--gold);text-decoration:none}
+.wrap{max-width:720px;margin:0 auto;padding:20px 16px 60px}
+
+.back{display:inline-block;font-family:var(--mono);font-size:13px;color:var(--dim);
+  border:1px solid var(--line);padding:8px 14px;border-radius:4px;margin:6px 0 22px}
+.back:hover{color:var(--acc);border-color:var(--acc)}
+
+.hero{text-align:center;padding:26px 10px 10px}
+.hero .zh-label{font-family:var(--mono);font-size:12px;letter-spacing:4px;color:var(--gold);opacity:.85}
+.hero h1{font-size:clamp(1.9rem,6.4vw,3rem);color:#fff;margin:10px 0 6px;text-shadow:0 0 24px rgba(255,107,53,.35)}
+.hero h1 .badge{display:inline-block;background:linear-gradient(135deg,var(--gold),#e8c46a);
+  color:#1a1206;font-size:.5em;padding:3px 12px;border-radius:999px;vertical-align:middle;
+  margin-right:8px;letter-spacing:2px;box-shadow:0 2px 12px rgba(212,169,83,.4)}
+.hero .tag{font-size:clamp(1rem,3.8vw,1.25rem);color:var(--acc)}
+.hero .en{color:var(--dim);font-size:13px;margin-top:14px;font-style:italic}
+
+.intro{margin:26px 0;padding:18px 20px;background:var(--panel);border:1px solid var(--line);border-radius:10px}
+.intro p{margin:10px 0;font-size:15px}
+.intro .layer{color:var(--dim);font-size:13.5px;border-left:3px solid var(--gold);padding-left:12px;margin-top:14px}
+
+/* ★ CTA 放大 + 放上面 + 明確叫用家撳 */
+.cta-big{display:block;position:relative;margin:22px 0 10px;padding:26px 24px 22px;
+  background:linear-gradient(135deg,rgba(255,107,53,.16),rgba(212,169,83,.10));
+  border:2px solid var(--acc);border-radius:16px;text-align:center;
+  transition:all .25s;box-shadow:0 6px 26px rgba(255,107,53,.22)}
+.cta-big:hover{transform:translateY(-3px);box-shadow:0 12px 38px rgba(255,107,53,.38);border-color:var(--gold)}
+.cta-big .ic{font-size:56px;display:block;line-height:1}
+.cta-big .tt{display:block;font-size:clamp(1.35rem,5vw,1.9rem);color:#fff;font-weight:bold;margin:12px 0 6px}
+.cta-big .ds{display:block;font-size:clamp(13px,3.2vw,15px);color:var(--txt);line-height:1.7}
+.cta-big .clickme{display:inline-block;margin-top:16px;padding:11px 26px;border-radius:999px;
+  background:var(--acc);color:#fff;font-weight:bold;font-size:clamp(15px,3.6vw,17px);
+  letter-spacing:1px;box-shadow:0 4px 18px rgba(255,107,53,.45);animation:pulse 2.2s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.045)}}
+.cta-big .arrow{display:block;font-size:26px;color:var(--acc);margin-top:6px}
+
+.note{background:rgba(212,169,83,.07);border:1px solid rgba(212,169,83,.4);border-radius:10px;
+  padding:16px 20px;margin:26px 0;font-size:14px}
+.note b{color:var(--gold)}
+.note ul{margin:8px 0 0 20px}
+
+.bridge{margin-top:34px;text-align:center}
+.bridge .q{font-size:17px;color:var(--txt);margin-bottom:16px;line-height:2}
+.links{display:grid;gap:10px}
+.lnk{display:flex;align-items:center;gap:12px;background:var(--panel);border:1px solid var(--line);
+  border-radius:8px;padding:14px 18px;min-height:44px;transition:all .25s}
+.lnk:hover{border-color:var(--gold)}
+.lnk .t{color:var(--txt);font-size:15px}
+.lnk .d{color:var(--dim);font-size:12px;font-family:var(--mono);margin-left:auto}
+
+.foot{text-align:center;color:var(--dim);font-size:11px;font-family:var(--mono);margin-top:44px;line-height:2}
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<div class="langbar"><a href="../../baduanjin/index.html">繁體</a><i>|</i><a href="../../zh-cn/baduanjin/index.html">简体</a><i>|</i><a href="index.html" class="on">English</a></div>
+
+<a class="back" href="../../index.html">&larr; STILL ALIVE Recorder Home</a>
+
+<div class="hero">
+  <div class="zh-label">BADUANJIN &middot; EIGHT PIECES OF BROCADE</div>
+  <h1>BADUANJIN<br>Start from health,<br>see life and death.</h1>
+  <div class="tag">Eight minutes a day, eight movements, no equipment &mdash; just stand still and begin.</div>
+  <div class="en">Start with the body. Eight minutes a day, eight movements, no equipment.</div>
+</div>
+
+<a class="cta-big" href="../../baduanjin/baduanjin.html">
+  <span class="ic">&#129496;</span>
+  <span class="tt">Baduanjin &middot; Trilingual Edition</span>
+  <span class="ds">Built-in Cantonese / Mandarin / English switching &middot; audio guidance &middot; single-file offline &middot; 43 MB</span>
+  <span class="clickme">Click here to enter</span>
+  <span class="arrow">↓</span>
+</a>
+
+<div class="intro">
+  <p>Many of the numbers in the Recorder begin with the body suddenly refusing to obey.<br>Rather than only reading the numbers, start by feeling your own body &mdash; Baduanjin is a very low-threshold place to begin.</p>
+  <p class="layer">Traditional Chinese medicine describes Baduanjin as supporting circulation and flexibility; modern research links gentle, regular stretching with better wellbeing.<br>
+  <span style="font-style:italic"></span></p>
+</div>
+
+<div class="note">
+  <b>Before you begin, please note:</b>every edition contains a complete set of precautions &mdash; please read it first. In particular, if any of the following apply, consult a doctor before practising:
+  <ul>
+    <li>Osteoporosis or hernia</li>
+    <li>Pregnancy</li>
+    <li>High blood pressure / glaucoma / retinal disease</li>
+    <li>Degenerative knee osteoarthritis</li>
+  </ul>
+  This file is large (43 MB). The first load takes roughly ten seconds; after that it works fully offline, with all audio and images embedded inside.
+</div>
+
+<div class="bridge">
+  <div class="q">Once you finish, your body has quieted.<br>Spend a few minutes looking a little further out &mdash;</div>
+  <div class="links">
+    <a class="lnk" href="../GoodNews.html"><span>&#128173;</span><span class="t">What if the next number is someone you know?</span><span class="d">Give yourself 3 minutes</span></a>
+    <a class="lnk" href="../index.html"><span>&#128225;</span><span class="t">STILL ALIVE Recorder &middot; Home</span><span class="d">English</span></a>
+    <a class="lnk" href="../timeline04.html"><span>&#9889;</span><span class="t">Era Observatory</span><span class="d">Six years of change</span></a>
+  </div>
+</div>
+
+<div class="foot">
+  STILL ALIVE Recorder &times; Baduanjin<br>
+  What is recorded is not a number. It is a remembrance of people.
+</div>
+
+</div>
+</body>
+</html>

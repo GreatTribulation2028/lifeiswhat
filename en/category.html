@@ -147,9 +147,21 @@ details.stats[open] summary::before{content:"▾ "}
   .item{flex-wrap:wrap}
   .hero .big{font-size:40px}
 }
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
 </style>
 </head>
 <body>
+<div class="langbar"><a href="../category.html">繁體</a><i>|</i><a href="../zh-cn/category.html">简体</a><i>|</i><a href="category.html" class="on">English</a></div>
 <div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:var(--f-mono);font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px"><a href="../category.html" style="color:var(--text-dim)">&#20013;&#25991;</a> &nbsp;|&nbsp; <span style="color:var(--accent)">English</span></div>
 
 <div class="topbar">

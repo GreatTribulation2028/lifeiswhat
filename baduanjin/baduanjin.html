@@ -123,9 +123,29 @@ footer{flex:0 0 auto;margin-top:auto;background:#101920;border-top:1px solid #24
 @media(max-width:360px){
   .lgbtn{padding:7px 8px;font-size:13px}
 }
+
+/* ★ 2026-10-21：返回首頁 + 三語切換列 */
+.bdx{position:fixed;top:6px;right:10px;z-index:10000;display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end;max-width:92vw}
+.bdx a{font-family:"Consolas","Courier New",monospace;font-size:12px;color:#7FC4E8;
+  background:rgba(8,16,24,.94);border:1px solid rgba(127,196,232,.35);
+  padding:6px 11px;border-radius:16px;text-decoration:none;white-space:nowrap}
+.bdx a:hover{color:#fff;border-color:#7FC4E8;background:rgba(20,40,58,.96)}
+.bdx a.lb{border-radius:20px}
+.bdx a.lb.on{color:#0a0e14;background:#7FC4E8;border-color:#7FC4E8;font-weight:bold}
+@media(max-width:700px){.bdx{top:auto;bottom:6px;right:6px}.bdx a{font-size:11px;padding:5px 9px}}
+
 </style>
 </head>
 <body>
+
+<div class="bdx">
+ <a class="lb" href="index.html">繁體</a>
+ <a class="lb" href="../zh-cn/baduanjin/index.html">简体</a>
+ <a class="lb" href="../en/baduanjin/index.html">English</a>
+ <a href="index.html">&#8592; 八段錦說明頁</a>
+ <a href="../index.html">&#8592; 生死記錄儀首頁</a>
+</div>
+
 <header>
  <div class="hrow"><h1 id="ht">八段錦</h1><span id="pg">—</span></div>
  <div id="sub"></div>
@@ -147,6 +167,12 @@ footer{flex:0 0 auto;margin-top:auto;background:#101920;border-top:1px solid #24
   <span class="pg-t">版面</span>
   <button class="pbtn wide" id="fold">收起摺起</button>
   <button class="pbtn" id="reset">重設</button>
+  <span class="sep"></span>
+  <span class="pg-t">離開</span>
+  <a class="pbtn" href="index.html">八段錦說明頁</a>
+  <a class="pbtn" href="../index.html">生死記錄儀首頁</a>
+  <a class="pbtn" href="../en/baduanjin/index.html">English</a>
+  <a class="pbtn" href="../zh-cn/baduanjin/index.html">简体</a>
  </div>
 </div>
 

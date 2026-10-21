@@ -1,0 +1,8 @@
+# 生死記錄儀 repo .gitignore
+
+# ★ 2026-10-21：三語改造本地備份（唔好推上 GitHub）
+_bak_before_trilingual/
+*.bak_before_nav
+*.bak_before_trilingual
+_build_news_bak/
+*.bak

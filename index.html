@@ -309,10 +309,21 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
   .catnav-grid{grid-template-columns:repeat(auto-fill,minmax(88px,1fr));gap:7px}
   .cc-i{font-size:19px}.cc-n{font-size:11.5px}.cc-c{font-size:9.5px}}
 
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
 </style>
 </head>
 <body>
-<div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);z-index:1001;font-family:var(--f-mono);font-size:12px;background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);padding:5px 14px;border-radius:20px"><span style="color:var(--accent)">中文</span> &nbsp;|&nbsp; <a href="en/" style="color:var(--text-dim)">English</a></div>
+<div class="langbar"><a href="index.html" class="on">繁體</a><i>|</i><a href="zh-cn/index.html">简体</a><i>|</i><a href="en/index.html">English</a></div>
 <canvas id="bg-canvas"></canvas>
 <div id="scroll-progress"></div>
 
