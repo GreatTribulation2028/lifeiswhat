@@ -1,4 +1,4 @@
-// 七年大災難 | 由 build_news_js.py 生成 | 共 504 條
+// 七年大災難 | 由 build_news_js.py 生成 | 共 505 條
 var DATA_TRIBULATION = `
 2027-10-02	【這不是巧合，是正在發生的末世預言】 獸名	https://www.threads.com/@tribulation20271002/post/DcB1Biak3UE	末日預兆
 2026-10-17	退休教授好心捷運扶人 反被提告索賠50萬！最終竟是賠了11萬	https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjFaWjJYWjZXWUZvRTBBZnJLZ1Y1bnNwZ3VHd3BaaGJZTk5Ed3FicnVMZ0t4Mk5EUm9KTjVyS2k1UTFLa1BIa2JsYklRejJzQnFrd2l1TUliTXE1cnFTa1VHV1VuMzdoOE5xQlVOektVeS05dm5IRUhYLURsbXdBRFBlbGJINUg0Ni11ekRB?oc=5	末日預兆
@@ -338,6 +338,7 @@ var DATA_TRIBULATION = `
 2026-04-25	昆明冰雹如末日来袭？密密麻麻鸡蛋大小 场面吓人	https://www.aboluowang.com/amp/2026/0425/2376357.html	末日預兆
 2026-04-23	專訪《風林火山》金像獎「最佳服裝造型設計」Uma Wang 與 SoMad，詳細拆解服裝末日美學符碼	https://www.voguehk.com/zh/article/fashion/uma-wang-somad-interview-2026-april-issue/	末日預兆
 2026-04-23	世界末日｜NASA預警地球末日提早40億年 揭人類會缺氧滅絕：僅餘1物種生還	https://topick.hket.com/article/4118458/%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5%EF%BD%9CNASA%E9%A0%90%E8%AD%A6%E5%9C%B0%E7%90%83%E6%9C%AB%E6%97%A5%E6%8F%90%E6%97%A940%E5%84%84%E5%B9%B4%E3%80%80%E6%8F%AD%E4%BA%BA%E9%A1%9E%E6%9C%83%E7%BC%BA%E6%B0%A7%E6%BB%85%E7%B5%95%EF%BC%9A%E5%83%85%E9%A4%981%E7%89%A9%E7%A8%AE%E7%94%9F%E9%82%84	末日預兆
+2026-04-23	《末世狂沙》悲喜不及驚喜	https://news.google.com/rss/articles/CBMiUkFVX3lxTE42TDdPbkpIdTBYZWdjN3N2R2o1bk9WMTk1U1lyMURvazZadi1qWlB5bWVRNGdXdnRFZVlRZFdGZTd6WU03WXVHdTBkM1hBRnFiWUE?oc=5	末日預兆
 2026-04-21	賞您《末世狂沙》換票證20張｜東周JETSO	https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUmV4TTNKYXd1ODZXZmlwM2xQUEJocEJQRXNOSFlNZVp4ZzVzU2JGdlJxbzRXWTFlNkFkYkdVR3lIQ0hia1k2UnlEUlZoazNNSUp3VU9UYzNlTVpqRlo1bmp1SUItLW9HM20yTGF5YUhCSjM2WmtrRWZ4NjRVenZFeG40bGpjY2lfNl9namRxVGVyaDdtdlQ1QlRGSHdTRllpcU1jeXFGUlU2eWZ2aWZNcXFnZFVUN3MyaVh4bDF3T1lBandTdnZNTTZvWkowRmxuN005eXFFWVZWQkg2VjEyWDF4VjU3ckdnYmhjTU5sTUY?oc=5	末日預兆
 2026-04-20	世界末日提前到來？NASA揭地球毀滅倒數 最大凶手是它 | EBC 東森新聞	https://today.line.me/tw/v3/article/qoz9nam	末日預兆
 2026-04-20	世界末日提前到來？ NASA揭「毀滅倒數」最大凶手	https://fnc.ebc.net.tw/fncnews/headline/209432	末日預兆

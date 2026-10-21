@@ -1,6 +1,11 @@
-// 宗教 | 由 build_news_js.py 生成 | 共 375 條
+// 宗教 | 由 build_news_js.py 生成 | 共 385 條
 var DATA_RELIGION = `
+2026-10-20	騙信眾餓死能見耶穌！肯亞邪教害逾400命 教主百項謀殺罪成立	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBudUZUcUVTbzNPV00ySEZFdllXRThZTnpaVWU5X3JkX1RoTUhvV2NTWmhGd2FVVERuSHVNZmFnSkFURkhoOGt6VEx4OHQtSFU?oc=5	異端邪教
+2026-10-20	邪教煽惑「餓死可見耶穌」！400孩童被活活餓死 生前疑遭活摘器官	https://news.google.com/rss/articles/CBMihwNBVV95cUxNN2VlUlNOdmp4QkZEeldOeC1GaGRQOHR1ckVWUzZheGtZdTFOOGpKTm5TRWJZZXV1VktpWjBrWVh2N3BNUTFxN3ZzRDVVUEEzUUptNFpYbHczMDREejRtNjdmWmc4ZnNqNU1YbUlTR1pYT0wzOXoxall2MjZLZmQ2bFM4aWs1Yk9UTGw1TmtfYVNwMmYtbUV5d0FNQVc4LXppUG1qNTRFYUpwRy1fVFJicHFxeUFfU1F0Z0sxNnRCdU9EUGNUQUNWRkF1QzRNaDFucnFGSXFVSklkbExUTVVyLVVXZGstcG83WTNWZXBMOWUtNFpabHBKaGo3RUlxOWpad2ZnY2ZxMk9TOEV1dDhXME12WVhpaGFpRDNPN1pUeXBIY1U5bjN2V2pmWTQ4emlFMTlCNGx1c1JLM2JROFRES1FWaWE2aThyRzY4Zi1WSTAtOFJkWmtQV0FZMUNyakVqaVZoMThzMGljc1NlNDJ6S2pjMjJadzVlUWdMM1MyWUtPNjZRTDlF?oc=5	異端邪教
+2026-10-20	洗腦「餓死見耶穌」虐死信眾 邪教教主191項謀殺罪成立	https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFdkx5aURfSzFwWVFCaE9Qc1NSQklaUDgxMnhZaVRYNFBiV0M0dEVXWW1Da21DdTlKUW1sM1pDc3BPMXlUQTBPX2VjYzRGaC05VkdoMUw5ZHNobkN3UnfSAUtBVV95cUxNeFUwc2RfNEVaMVZpbmJLU3p6RGpBVnlfcl9yd1RNcDdNQ1JDVTlidGdocnJzbHA1MkFRcDl1dTc5YWhoaS01Snh5MUU?oc=5	異端邪教
+2026-10-20	快訊／林駿梃苦戰不敵地主日好手 奪銀仍寫生涯男單最佳	https://sports.ettoday.net/news/3257921	未分類
 2026-10-20	奧勒岡小學槍擊奪4命 教會安置師生、500人守夜禱告	https://news.google.com/rss/articles/CBMinAFBVV95cUxPOXJKYUdoOUxrNV9GSkFBdWU0NkhkZ19Wcmw5WElJNnJ5ZVA0ZllYbWMwNXpfMVRucGljNkV1RWdGR0tOdEgxaFVSUE50V0pQVHF6SWVxSU42b0tsanhxR25yM1RqLXVINU5sV1hvekhSa3g1SGR6QXZ3cWZGcno3THRLdkJNY1dXQ1lHM3JnOW9hOGFCUjBVckxhUkE?oc=5	其他宗教
+2026-10-20	你究竟是在善用 AI，還是在拜神？走進「放心宮」的科技邪教寓言	https://news.google.com/rss/articles/CBMiXEFVX3lxTE95NWF3M1dIaW85R1VpSjNNcm4xQWk3eHh6ODA3Undtemk4dlg3RnFncXV1dzBlR1k5OWZ0V3lKWVE1b2RvYm54Mk90dUlTOEdfb3p2cTF1OGg1STVH?oc=5	異端邪教
 2026-10-19	高市早苗再向靖國神社供奉祭祀費！陸官媒怒轟「像極端邪教」	https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLYnlBSjk2MWZWOG85YzR5ZFduYlBUcTN5UG9jNm9UUkNLekRoeDk4SGI4M3RSakZmdlZVM2trZDFXVGJYYnBtSlpMZUh0Y0hZRjNR?oc=5	異端邪教
 2026-10-19	高市向靖國神社供祭祀費 官媒批邪教	https://news.google.com/rss/articles/CBMilAJBVV95cUxQNElZbmgzREJweVhkNlhKSnA3Q1l4Y0VpVS1rUHdaUmhzLVRmLWI4RG4taDV5OTBrOThQMGlNbGUwYXctelJCeWtOcUZneGFsSTRUa3pkbUY4dUhINXlMeFhaUUVMNmlCZXlmbEh1SWxDQS1kTGV6M3hXMy1QQkdMV3JPRGxiWU1MZngwaW9famV3OTBobVhVUmNZVGE2NEt4eV9iUkJRTTRuMER6dnRZVDlva0M4eXkyLVhMd1pTelJJSTJQb285RDFWMEw5dXhfLW4tUE1nRllIMjNfa0JoTFNBRjZVU0dkQ0kwX28wempUaDdvclRabWZJSFU1aTRTZnFNdkJ2bW1EVkk1eW1jb0tKWVA?oc=5	異端邪教
 2026-10-19	韓國邪教教主鄭明析性侵多名女信徒 被判囚33年 (12:21) - 20261019 - 國際	https://news.google.com/rss/articles/CBMigwNBVV95cUxPeDlBMmhqV25UMUpNRWw1YTlXSk5RMnY4WlFza2h1SmRmbUEwbXd3Rk5OTzBPU28xeVNuNEdwVEVHNS1vSTJZRHFKb0IyZGJnVHFaY0U0NUM0YzhVTEo1NFJtNDJhNmxEVkRTXzNrQTdWa00zbzhrQWVEb3k2bUxtaWZ5Smc2cTlMNm04YV8wd3BGQXZUclM4YmVaTFRmd00tX0JEdk1kejRXcE1HSlpmRGxrenV2cThSMmFFZjFMMkZsQnh2cVJMVVpMN2RzellRXy02Q05QaGo2WTliNmVpTm5POGJiUmk0Ql9Eb3d5QUdNWUhwalFvRm9EV1ExS3RZczRlaFo4dWtkSDYwWnh5NTh4VjVKWFdmZ1Zwak1aMHBaV0pmQVBldEZ2c0M0eHpzaGVZS19XZ0RHMFpJMzZhYkhmdzVudGtzTEJuR0xRWDJWeEJCN2xORG9xRlE2OW1ibjAtSmVkYnVPR2cwSGkzOXZVTDNzMmtzUkNYZ1BNdHB4Y2c?oc=5	異端邪教
@@ -73,6 +78,7 @@ var DATA_RELIGION = `
 2026-09-29	「錫安教案」九位同工取保獲釋 教會籲持續為其餘領袖代禱	https://www.gospelherald.com/news/8fnwbh4cmf9r	其他宗教
 2026-09-26	中華基督教福恩堂及香港優質靈修文化協會合辦 靈修研習會	https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NS0M2cWtFYjQtamtNY19pMENVelpOWmxlcG54ZnhFeXBCSkhuNmI1a25vQVI4SzJrd1RtLUxtWWJVRkRrLURhMEItNzhGVVE0X0UzS3ZjdEJWMzQ?oc=5	其他宗教
 2026-09-25	（有片）XX月餅是「邪教」？XX絕不接受？XX傳統不可破！2026港人最愛的月餅口味是？｜點妹大調查·中秋特輯	https://www.dotdotnews.com/a/202609/25/AP6ab62e07e4b02724bdb591fe.html	異端邪教
+2026-09-25	西南學院的教派|西南學院與基督教| 大學概況|西南學院大學－從福岡走向日本乃至世界，展翅高飛。	https://news.google.com/rss/articles/CBMickFVX3lxTE9MNVFjUzRWamkyMkhUTDk1SlEyaldQWGtRUEhSSUdCeTd6ekJ1V0lOSXZCMEpsdkxyaWxhTUZrWmtZWE5VOXBLNkRKSWthd2xzOFBTd2RaTUlTOTNTNjZxcHNRNnkwS2M2SWVaTk90MnRNQQ?oc=5	其他宗教
 2026-09-25	教宗會見法國當局：真正的政教分離從宗教汲取益處- 梵蒂岡新聞網	https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTZ0dW5Wb3dlU2owQkZwaUlGTmtjaTdDZEZRamRxNm5ucEI4SHgxalplWXh3TEw4SzduNUlLNGp6YW4yajZIQzN4cmxVVENzOWFWS2NNSFpoUEVZQlhVa1NlTkljTzByR1JEUzJwSExKTE91cUJnRm1FOW9ndHBtVEJSUlhERW80RU5FcHk4dk1wRmtIdmJ3Um1MV0hsX2YxTm02SG1IYjhIY1lT?oc=5	未分類
 2026-09-24	朴軫永 J.Y. Park 宗教團體陷異端疑雲親自回應了！同時砸 5.5 億韓元助墨西哥病童！	https://www.juksy.com/article/151817	異端邪教
 2026-09-22	Z世代、千禧世代比長輩更愛看基督教影音 YouTube成教會接觸年輕人新入口	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UczRQNWlVX0hSNnN5TjY0V0tOTFB2ZldOb0c3V2tFWWpLdlVvNEtNVGZ5d2Q2TEpwR2hYWTQyeWg4OGtSRDVtaHdZWGZOdTdjWmJCQlowUUd0U0lWdG1KTA?oc=5	其他宗教
@@ -358,11 +364,13 @@ var DATA_RELIGION = `
 2020-11-12	大主教三發公開信：川普不可被擊敗 好人都要為他祈禱	https://news.google.com/rss/articles/CBMiigNBVV95cUxPWUU3d1R1TlJmXzhkV25LQlJweGlZR1B5WWMwTFV6cTdFM2tZUjBVYURuZ1oweEdJMTBTOHVoSWQ2cHMwU3FUeUxpZDQtM3V6TlNpTzVicmhCRW1VZUVPYThLYUp4SU1FVldhcXpsd2JYM01yVGh4aGxZbkNXWWRaZ0ZvWEVrb3BJRzQwQkV2d0c3S2d6YU1NcUVydC1pZnFHM2Q1UllzVlBkYXkwbWJkQklNWDE3T05BWDRWeTNHa0VpbVgyT05LdS1Sa1RyREFaRGhvWDBsM0x4ZHJUWkRlQi1NSkQ1bDBHMHpTdlg2RTR2TlJZd0RHS25sR0UwM296VEZ3M1dSMldybzBUS0dwZ2VvT2pOZnVGQXBMOTlsZklBMkZDWUE1bTJGV2xQYnZ2SVRUTXJMTjgwX2M1M1R6S2V4UG53aXdOTXJUeVBYekpJeUxKSzFBTTRTdWhuZVVQY2RrUWVXQS1wdzMzN2d6azl4OGl6clE2YU45QWxGZ1g2dXljdlNUaXRB?oc=5	未分類
 2020-07-14	牧師兒大學未婚生子 他們悔改、為主見證成為祝福，媳婦全家信主	https://cdn-news.org/news/22716	其他宗教
 2020-03-02	最美趙敏息影嫁牧師 猝死3天才曝光	https://tw.news.yahoo.com/%E6%9C%80%E7%BE%8E%E8%B6%99%E6%95%8F%E6%81%AF%E5%BD%B1%E5%AB%81%E7%89%A7%E5%B8%AB-%E7%8C%9D%E6%AD%BB3%E5%A4%A9%E6%89%8D%E6%9B%9D%E5%85%89-081004638.html	其他宗教
+2020-01-15	日本人與基督教：為什麼對 「信仰」漠不關心？	https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oMkRUQm8yVnZnYzdpMmtwOE1zSlFBb0ZJdmYwdU5zcGNsSTI0Y2lvRms5RVp5UFdJUS1KTDRiWlpFQzI3eWpiY25XcWFpa1BfZFY0NXYyQWhhUQ?oc=5	其他宗教
 2019-11-17	今屆培靈奮興大會圓滿結束 明年李思敬牧師擔任講員	https://christianweekly.net/2019/ta2038651.html	其他宗教
 2019-09-25	齊齊哈爾主教：地下教會失存在意義	https://orientaldaily.on.cc/cnt/china_world/20190925/mobile/odn-20190925-0925_00178_007.html	其他宗教
 2019-09-23	中國魏景儀主教受訪：中梵協議是聖神的恩典 - 梵蒂岡新聞網	https://www.vaticannews.va/zht/church/news/2019-09/intervista-mons-wei-agreement-holy-see-china.html	未分類
 2019-04-21	「熱血司祭」開虐T__T 李神父遇害真相曝光| 噓短片	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jdEdpck84YUFVaVRQdmdKMzZ0SmhUV0otdVFYWnZfVmdKOHlFZDE3VlNwM3kxZ3M0VS1ZM3A0UzliNWxwVXdkemhNVDRkdTZ4WGlWZnNZSU4?oc=5	未分類
 2019-04-17	聖母院主體、鐘樓、宗教聖物…玫瑰花窗也保住	https://news.housefun.com.tw/news/article/187127224826.html	未分類
+2018-12-17	余德淳破解基督教信仰五大疑問	https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sbVo4aXNuQ21aUkx5d0pRLVV3TkNmbnV4ekFpSm5JZ0hadDFRLWFlV2hFN0ZXV2pvVW4zRW1Ca2ZqbV9GcmhkbEU1a2JmZzhHaEdtTWhWdVJRQQ?oc=5	其他宗教
 2018-12-16	俄烏東正教會歷史性分裂 基輔自立牧首	https://hk.on.cc/hk/bkn/cnt/aeanews/20181216/bkn-20181216110011088-1216_00912_001.html	其他宗教
 2017-10-26	10多年禱告祈福不停息 守住耶和華節期 用祝福宣告轉化社區	https://news.google.com/rss/articles/CBMiRkFVX3lxTE16RkNLbXR2QjFIb2MwM0JTOEc5TzNuUWppWC1Valc0dW9LWjBzTzlrVGxaUk1jSGlHZU9MMTBueU5kOVdjLVE?oc=5	未分類
 2017-09-22	「這一次的行動，關乎台灣的國運，成為基督化的重要轉折」 首艘繞行台灣的禱告郵輪吹角節啟航	https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PbHNydTltNXVPeUdvbWx0R2hlWGhYaDB0R29MeGF3a0w0djR1WUphcWlGVU82ZDdta2JTMGszbkctTFpOQVE?oc=5	未分類
@@ -371,7 +379,9 @@ var DATA_RELIGION = `
 2017-02-03	「旅行禁令」遭批川普辯：為確保美國宗教自由| 國際	https://www.setn.com/news/221453	未分類
 2017-01-26	挺同、反同長老教會意見分歧 總會書記：若教會分裂，會有很大傷害 | 謝珮琪 | 新聞	https://www.storm.mg/article/217221	其他宗教
 2016-02-13	分裂千年破冰教宗會俄東正教大主教- 2016年02月13日	https://news.pts.org.tw/article/316774	未分類
+2014-12-25	中國宗教負責人說要抵制基督教對華滲透	https://news.google.com/rss/articles/CBMif0FVX3lxTE1yREwwZHlLc19JNFpBQTg0Ykl0RnZjU2tYeWNGMmppMm5NMi1IUmpZTkY0a1JncnNnYkxReHVYeTJMMXZXRmh1R25YaUtwQzFxZUJaOGlGYlV0TXhIUWFteGp3WU9rVmVBUzJ0OWlVT0ttRFNpRmlqRDd5NmlQRW8?oc=5	其他宗教
 2014-10-31	以軍封鎖宗教聖地，巴以衝突在即- 紐約時報中文網	https://cn.nytimes.com/world/20141031/c31jerusalem/zh-hant/	未分類
+2013-08-06	家庭教會泰斗林獻羔回天家 基督教領袖緬懷	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVVUpVN09SWDFuQm5rSFpTZURIcllwSmlCUXJUX0I4UUR6aURTOTVvX0VxbDgtLWxDeTZrMDJ2MVNySWhsLS1RWjBCQWJ6S1JKT3FzZVhPZ3Z4dw?oc=5	其他宗教
 2012-11-22	鄧紹光談教會自由主義及世俗化危機	https://www.gospelherald.com/news/loeqpsau1fxl	其他宗教
 2009-10-11	香港五旬宗教會的發展與前瞻 建基於聖經忠於主而不跟隨人	https://christianweekly.net/2009/ta19582.html	其他宗教
 2006-08-31	坎伯雷特大主教竭力避免聖公會陷於分裂	https://www.gospelherald.com/news/56eaqgf9dn59	未分類

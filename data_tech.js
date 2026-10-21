@@ -1,11 +1,13 @@
-// 第四次工業革命 | 由 build_news_js.py 生成 | 共 1003 條
+// 第四次工業革命 | 由 build_news_js.py 生成 | 共 1007 條
 var DATA_TECH = `
 2026-10-20	AI買氣回流！晶片股領漲美股 台指期夜盤跌78點	https://finance.ettoday.net/news/3257536	未分類
 2026-10-19	避險資金買美債 遊走AI債與政治風險 專家料美長債息5至5.25厘上落 聚焦AI股本周放榜|香港經濟日報	https://news.google.com/rss/articles/CBMitwJBVV95cUxNRmZGQWRyLS11RWZWMmJjQW05ZTJNcUREQTRwZ3puMTFoelZPb3Z0bXRhZU84c0RMY3YtOTNPUWE4UDdhcmtCc1RjaDlDRE1yS0FXNTQ1X3hEVnJEZTF5WkhVTG5ybDBrb3VEbGFyMTRCNTJoaWd1ZjdWQUJ4V1p4N3otS3h4OGREaU1GaUVpUkZjMXJ3N0NrWk9rZVZpUTJFdGFSeG5jRVhmNzhCQ2Z4SGtsdjhmQ00xOTFISE5XRW03eTg5TUkxalRFcVBIYUwxc0MtbVVrS1JxejNaNENBaXVLTkZPNzBNM2dkR0duY1RYemNDOTk0N2QxdFl5MmJlX2pEV19vaU1EV2tnSjJsN3didzJYemdZVEJzaFNQbHVnZjlJSTRONmRXSnJfdHlsa1lsRFZLRQ?oc=5	未分類
 2026-10-19	我國在腦機接口領域實現國際標準新突破	https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3dhYnV2aFlVTzFkN2NuUkpId0tCWmdpSmV2UU12b082UmdFdzB1RXNMRHlpWk90ejdJSkd3QWZDZDB5SE9mNHhmMEdoWVZ4VkhMS2xsMWVVbXZjUEF5NFp5UDJCdFFnN3h3X2JpM0RLcm5GQnFTaTZxQWUyYkRIMEEtamFmS2ZKajZiZjJRQmJGbzd5VWFXbmRLOV80LUg3UnBELTlfc3kxNHBjejNod1JfVDdwbm45T0x5VHJn?oc=5	未分類
 2026-10-19	九部門：加速腦機接口、具身智能等前沿科技成果向市場轉化	https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ybmVDQkxfUTY3bVliMkxmM0pxcmtMbzRMazFHWVpFTzRXY3lIcE9LUHhyZEpUeHBfd3RlZHM4dndfU2J1Z2ZaQ3J4YTRwbGxjNzU2aE9nWWNTZ3BsRjk4ZDBTR3o?oc=5	未分類
+2026-10-19	中國在腦機接口領域實現國際標準新突破	https://news.google.com/rss/articles/CBMib0FVX3lxTE15VWJoT0dYTzdGbzNBdjE5YjZZVlg0Qngxb2RudEFhaHdqbDFybWZIT1kwYlVnWnhZS3JDYTdROUxPQjV1X1Y0MUU5eEpGOXZCZHRZX3Z0NC1rOURRYVE2Qkcwa3RCRU8wYndxd1NvOA?oc=5	未分類
 2026-10-19	Michael Saylor提出「完美」數字貨幣願景：錨定美元、以比特幣爲支持的穩定幣，可提供6%至8%收益	https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWo2WmhucERwcm5haWlCRjNWMXN1OTRWR3lnUjQyTDRYS3FmYkp6SHRqd0JJT0VCSjB0TjhZbTFpQk5UUUlTa0RCYTJmNXdSSVMybDZvOGtaNkhNd1pUcFRMS2ZnRTRxSkNza2tobndrUjBERmI5MHpLMjNMY3FRU2h5MWNSOVh6eUt1TFN4ZlBlOXlfRS1xYjY3TkFNclVoZndWd1djMnFLY1dKU2c?oc=5	CBDC數字貨幣
 2026-10-18	馬斯克反思白宮往事稱美債問題只能靠AI和機器人解決- 經濟	https://news.google.com/rss/articles/CBMid0FVX3lxTFB6QTVXVWtLWVV3SFhkcm9remhuUk5IMGdHN0k1WjBtdVFMRkFDZE81dU91bUJMdERWRTJCWW1GV2w2M1czeFVMNFVDM3gtZGhkY2NsQ0hwZVN6cGZnbnk2U0JDVW1NZTlDbWNmMWttdmg2TTdVWTg0?oc=5	未分類
+2026-10-17	三夫戶外(002780.SZ)：公司沒有腦機接口業務	https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vbFdWc0FNdExBNldPZEx2bWxFeWlDRG9JQ2pueHpFQzA5YmJFTkV6S25HbEFuNzkyVlZ4dzFEcWppQ1ppQVNVNzhhenJQOW5ZY1NiWUhmNkVQZw?oc=5	未分類
 2026-10-16	騙來的錢也守不住！詐騙集團反遭駭客洗劫，逾 60 枚比特幣、近 500 萬美元被偷光	https://news.google.com/rss/articles/CBMie0FVX3lxTE5XY1NLemc2SjVjSjJHRFVjZmwxN2tFc3Bqd01Eb0FWalhUNTBFbl9fd3pKNmVuNlY0NEJZUjNNNlRnNC1CeVVGOHpQNUp5UFlRejQxYjlhdWpZS052a215R0xIaU0yeGdWeVd0VlhMSTkyZkZVa3MyTVIzWQ?oc=5	駭客網攻
 2026-10-16	螞蟻國際完成認購華夏人民幣數字貨幣基金	https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEpCckpIbGEzbll0ak93U0tpTVNxbC1NUTJuaHllRDlrTFNZWkRHZndJRVNVaHlENGtkWmcyazhZYVZfVU4zZUcxUWt2OTYtM3BsenhOSVhZSk51bmxqM2FMQW5uNE9lSzhiZWRhQkcyUWYyNWpaSVJ1SHlsekJhRmJ0MEhFODdFVEhHbmw0WQ?oc=5	CBDC數字貨幣
 2026-10-16	腦機接口「卡脖子」芯片，這家海南公司造出來了	https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjQ5b0dyaWQtOTdFaUxlRmtYQ1BadThmeXZBYkhyN2Y2TUxfVWlLMWI2MHdBdFZKclJXbmtBQjhCSWUydFZLODlQZG1DOWxtTC1Qcg?oc=5	未分類
@@ -286,6 +288,7 @@ var DATA_TECH = `
 2026-09-21	AI 大戰AI！Claude助黑客72小時攻入OpenAI內部系統僅花 ...	https://ezone.hk/article/20110773/AI-大戰-AI-Claude助黑客72小時攻入OpenAI內部系統-僅花-23-400代幣費	駭客網攻
 2026-09-20	沙烏地低調退出中國主導mBridge 數位貨幣去美元化布局受挫	https://finance.biggo.com.tw/news/653286cf-b898-4acd-b9b9-b3830d7f7fe3	CBDC數字貨幣
 2026-09-20	中國推跨境數位貨幣平台去美元化英媒曝沙國已退出| 國際	https://www.cna.com.tw/news/aopl/202609200176.aspx	CBDC數字貨幣
+2026-09-20	一批腦機接口產業項目簽約落地南京棲霞區	https://news.google.com/rss/articles/CBMicEFVX3lxTFBLc0xDSEZtM2g1VHdwRm1zRjFQWkQ4SURsY3JKYjdKUkVnbllzYzE3ZkcycnBNRTlGalpBSld3UFJDOVNxQ1FzcHdpUVRPSWZOT2dIVUZ6OWFjX0dHbG5aMmhobHFZNW44eGtta0pJVk8?oc=5	未分類
 2026-09-19	台灣CBDC 聚焦批發型研究試驗- 日報	https://www.ctee.com.tw/news/20260919700039-439901	CBDC數字貨幣
 2026-09-19	"加州州長簽署行政令加強AI監管，評估設置AI「緊急關停開關」，批評特朗普""昏昏欲睡"""	https://www.moomoo.com/hant/news/post/76478638/california-governor-signs-executive-order-to-strengthen-ai-regulation-evaluates	未分類
 2026-09-18	駭客利用Anthropic的Claude入侵了OpenAI	https://cn.wsj.com/articles/駭客利用anthropic的claude入侵了openai-bdaa4b7b	駭客網攻
@@ -709,6 +712,7 @@ var DATA_TECH = `
 2026-06-16	活力中國調研行|在天津，看腦機接口從科幻走向現實--經濟·科技--人民網	https://news.google.com/rss/articles/CBMidEFVX3lxTE5Seml5QktKc2lTelBKdURyakktNDdfSV9VLVVCTTQyWXdoQklZYmFaVzBxUmxjZUxseUY3eXltZmJuSXRHWHZTaEpfb080ZWxmb3FQNXVtQXZMYnVqSXIxcmk0Mjk3Q0NvamdscWs4aG1lZmJw?oc=5	未分類
 2026-06-16	【念力操控】華南首兩例侵入式腦機接口手術在穗完成患者靠「意念」重獲新生- 焦點新聞- 港人講地	https://news.google.com/rss/articles/CBMi8gNBVV95cUxQV0NaYVRSeTRFWFNsWTFON2dLZFJWYWRHY0MxWEs5bU95VTB0RVdmYXBQeWtTM0JRX2puWEtEaEQ0VngyS1plVl9SOFhQRldabXJ4bHpEYUh1cWE3Zm0xbEFGNVlyRzRsaktXeGY1UG1UQXdjcExmQklla05DMDBzdU1uNDFYa0EwdGE1bldvNGVtRTZDY00tYlJQOXJGYWtXN2R5N3VDTVNwanhGUXNrekNZNVhwdjVCYnQ3OGd0WFVvUDRJYzhWN2JlOHFOU29fLWRmUUFHRUcxUWpLOThRSUVKRFM0WGd5Um40OWYzX3dET2xwYnRKdEp3NGZMel9qRHVFNnZSVGlzaDFCWmxSWTNqZDdPcVRiXzhlbklTZUlfd3dEY00xdFExWjBWTzNQVGxXaXkyOHZjU3VRQy1aLXdIQlM5QUJ2UVpXekpYOG1McmN1NERwaThfNXQyakNEN1pYU1lfcHdRMVZpbVdhT0lxLXY5RVVRQ3FIRTJqQ2s0Q1NDVm5TR3NDODgzaXFMRENfLTloX2FoUzQ0WjZ6eFlxbHZlUHdzNGg1cHcxeU1jUTN0eW84Q3RjRFRWMHdHS29LcjhtV250aUMyVXJkdW5WZzk2TXY3Z09WM1dMZHJOMU5QQzJZQ3F3T19TbmpEbFE?oc=5	未分類
 2026-06-14	腦機接口研究焦點 從功能修復到意念交流	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54SkJfOWZvcUItbHlkdlA2Y3I2bmNnR1RSTXItUG9ha0Qyc3lvMXZnNWdxa0JXRmJHWWtxdHVCVWNncTlpcG1veHl1WWVsY3JFVVlDeEJ6akJDSzFXT3J2azJIYmlnZVU?oc=5	未分類
+2026-06-13	陸率先批准腦機接口商業化美業界敲警鐘：FDA審批太慢領導地位恐讓出- 兩岸	https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KM0hFbGtYSTJDSG5ybXFIZDNhbHJKRHlPSnZ0M3N4SVUzY3F3Ui1fWE1rRmZwR2xaV25vQkhRLS1fdEs0LVBUYkdPWktwWDk1LTRxWE1fXzdmaVlnRFFN?oc=5	未分類
 2026-06-12	從失業5%到25%！AI取代工作風險升高 Anthropic提出應對藍圖	https://www.technice.com.tw/issues/ai/225965/	AI取代工作
 2026-06-11	為何 AI 沒讓軟體工程師大規模失業？最新研究：人類在判斷與問責上無可取代| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/why-ai-has-not-replaced-software-engineers-report/	AI取代工作
 2026-06-10	特定工廠AI永續講座6月18日登場 聚焦AI、城市與國家發展	https://money.udn.com/money/story/5612/9558900?from=edn_newestlist_rank	未分類

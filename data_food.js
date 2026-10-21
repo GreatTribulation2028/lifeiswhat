@@ -1,4 +1,4 @@
-// 糧食 | 由 build_news_js.py 生成 | 共 662 條
+// 糧食 | 由 build_news_js.py 生成 | 共 665 條
 var DATA_FOOD = `
 2026-10-20	彰師大魏忠必教授談全球暖化與糧食危機	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MTHQwbjc2RWJzbG9uYXdXMTk0c1BYN1VTcVFNSDVVZlUtZU1OY21SRmoxWDRIdDAtV2NjUFdkbjNnTEoxVjZQRg?oc=5	糧荒短缺
 2026-10-20	小麥暴漲逾三成！糧食危機正悄悄掏空全球家庭	https://news.google.com/rss/articles/CBMiYEFVX3lxTE13eWJFNGhQcWJ6MXV3NU5nbW90S0hPWGljSlhOcW1pOTJWWm9rNUxLSjEwZnl3N1N4WTIxT1F0dkloOGRRQmpRNkpnNHJmNm9QaW9sSlJSMEw2cUJLNUtDWdIBZkFVX3lxTE50Tk1HWDB1c21vTkNobG5tTjZZcEpHWV9ZMXVGakMybmd3REJhZzktc25yU0Y0V2tPNUVrUnZjOXJyUXdGdTBHSG1wWG5rc092Q3VocWdyUzJCR2IwM1Q4YW5JVHJ3Zw?oc=5	糧荒短缺
@@ -72,6 +72,7 @@ var DATA_FOOD = `
 2026-10-02	俄羅斯稱柴油產量過剩 副總理：將考慮部分解除出口禁令	https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlZlBWcjZVNWVNZldyUnh5SGNKcDZ3UnBadV9LQ2JWNmhVaVBRak9LSnVzcWtqYzhweGNHSV9uV1FleGJyNmtITXFmY2U3VWlYdXNnZ19TTQ?oc=5	出口禁令
 2026-10-02	【糧食危機】全球多達3.45億人面臨飢荒 Hunger	https://hk.on.cc/hk/bkn/cnt/finance/20220916/bkn-20220916154713942-0916_00842_001.html	糧荒短缺
 2026-10-02	【油價走勢】美據報向法國及德國施壓要求釋緊急柴油儲備 否則臨柴油出口禁令	https://news.google.com/rss/articles/CBMigARBVV95cUxQVExvUElPWnJUVDJVSUM5VnlQOFdVZUh1U0QzekNadUl3eWFQekYtRlZBZzZ1Wl9sbElEWWU4emtuaWNtV21xOVVTdEdHQkZVZV81U0FCYXJ1TWZIaF9Mc0xVcjAwTlcyRmxHZ1Z6a1gzd3JkOENoa3Z1QThnVzBRX0NVODhVcWxsS3pRaDV2cV9YNFNkb3QxMlR4YWxaaThCRlViSXh6bVdNUVdPbzJTYmlIZ21jWDFUZEJhOGtCRExhdkY3Q3o0RzNLYUNoNE5qcEtUdmtwVzI1Z3N6a2wzTEMzUGlBVVhELXJLVk9yUkVhQjRfekkxeWRJRUg1Yk9ZY2gzS0k0dXVoYjhpN1VtYkJRSEFXbDlxUVVNOFpJNmo4bXM5SmVBcmVGbVExenlGbmliVWI3eEZJRXZpU0x6Q01yX2JwZllZeGRaWWNIaDBpWF9PRHFzanM3R1hMc3NsdXZSdnVnM2RHVFhCZjdDSHJkaEFjWWJiZW5sY2NBOXBhX1lJa2x2YlUzTjVlbE1fXzk5UklaeDZIRk1JUXVTSUtES25MRHo0TWFyMjFpTVhfSzRlZU8xU2NOWTR3NlliM3ZNSTJJVjl3SnBqdzg2M3lhOUJDVjFsMHFNckRaN21sWVJESzF0NFZvc3VuMGlSdEJ1bEc3dVVodVlQc2ltUQ?oc=5	出口禁令
+2026-10-02	G7同意釋出1億桶原油與柴油 川普承諾不實施出口禁令 | 民視新聞網	https://news.google.com/rss/articles/CBMigwFBVV95cUxNTlRhZkFuNkpkaWVVMkFnWk12QlpMZkpvY19fNnJNaFNJamdVbVZaNlhkVFhQYnhwSTVaSENaRjJNWE4tRTZFdWxpNmVtLTZwRnFFdTVQZzBaQ1ZRTHZLNGFxTy1zVGcySzZnVk54dUFFMS1RcndlRTJqcVRaM0I1VXQ0NA?oc=5	出口禁令
 2026-10-01	高盛：我們發現拉丁美洲將最受美國柴油出口禁令的影響。	https://news.google.com/rss/articles/CBMingFBVV95cUxQWURGcFdXaUkyVmxYNXRNN19PTXBvX0dyaTdfMzlhOVR0WjlySzlueTlRODM1czlGNjltbXN6dHQ3ZDREdjY5ZTY0QmJ2QnpLTWlaOERKQzV4eVI0c1JhbC1haWJXSGE1ZW1CZGxRWlJ6RnQ3TENnQnN3ZjFNVlpuTURRQ1BEeFhNdVotTDlFaVdwUklQa1o0R09ZWG83dw?oc=5	出口禁令
 2026-10-01	路透：川普政府施壓德、法釋出柴油儲備 否則面臨美國柴油出口禁令 | 太報	https://news.google.com/rss/articles/CBMiggFBVV95cUxQR05hNUZGUkxLMUU5cEdFeXNvTVJYWmpwQjRFQzA4RWozYzRBWFdMam5HdzVucllMeElOQllCVS1OWE9mdkJIRHdmMlc4WTZMTjJCLWhfWG5vVjl0d0o1cTYyOWJPTW9zcWZXMGsxM0ZCdjd6MnpHU1lPclNsejRNanVR?oc=5	出口禁令
 2026-10-01	路透社：美國施壓德法動用柴油儲備助降油價 否則面臨美出口禁令	https://news.google.com/rss/articles/CBMiyANBVV95cUxNMDlxOFN3LXBMVjZlYlNMNnptbzg2d3hhSzIxTXJsVEd1WHl4TG9hNkpTSjhMZWtXeC1CUF81NWU4RUxYa1lpa3BlZkdmN0JONTh6UDJ2Nmw5RERsSkFyNnF2LXFHc3pueGR2akdPV25oS2tORDJmdkVOM1dYb0FNZGEwMDFzSDFpV3l0QjFfM1BjTWJvclFGV0ljWWNqS29Ya2pSanVrZU9YNmlEM2pXMU9TVzJPZVVRZGlsV2F4UUN2aTczT3BvZWZNcFBva25NNUtMX1gxbTBFNUdiYkJmYUJXZmNrcmdZZ0E5VThZZEVyTUY5eS1uMjRlMkpURGZSUTNNdHo0OFhCVl85dTFNRkY0V3U1N0YzbDFFRUZldnBqTVdxeS1kdE9kcXFaMWR6N1AtMElTODVHekRfdEFyS1BNbjY2Y0wwUTAtSUtqS1ZNQ1Y2N3d2NTdxMUV5dXV3OVNzS2tLSkV1UHhwSW1DajdYTHJtUFk4a0xXUzZjdlplLTlQT0VIYTlNdlNrZFg3S1A0WXhoaGZReG5PT3BNbjRILWxoNUhPaS1EejVJbFhfWnhiRUl5dmdqNmd2NVpiS3QwZng5R18?oc=5	出口禁令
@@ -308,6 +309,7 @@ var DATA_FOOD = `
 2026-08-16	糧食族群集體狂歡：摩根大通預警明年糧荒，中國三大主產區託市收購同步落地	https://news.google.com/rss/articles/CBMiekFVX3lxTFBQMFFxNVptb0REVGFReENJSG9aRGVPdXlrTVh4M2ZPZWVoT3ZZdVVwU1ZSaHlTcElHbFNEclZPaWFuaVdfTVBNS21WSHRnOVFsLXE1WWxXS2psY2lTa3B2VHI4eDBOYWs3NTRYUl9lcEpSQm50OFRrZVd3?oc=5	歉收饑荒
 2026-08-16	多家機構警告：全球將爆發糧食危機	https://hkcd.com/hkcdweb/content/2026/08/16/content_8769967.html	糧荒短缺
 2026-08-16	吉林糧食品牌推廣計劃重磅簽約 攜手聚力共赴新程	http://jl.people.com.cn/BIG5/n2/2026/0816/c349771-41669245.html	其他糧食
+2026-08-16	「全球糧食危機」恐在2027上半年爆發！食品通脹飆至5% 3國家首當其衝	https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sWTRmMXlWUlc3Yk1RN19NZGsxeDdlN2YyUXp3TS1aQ1FEUzFTNmN4bjBoWDV1Ni13MGx3ZVhlcWhHeEdCU3pXS2YwMGJXQXhPakhLbU5LcEluOThDeXBQbFU1UdIBaEFVX3lxTE83OTNNS2VUWi03TWYzNDFUdkFodHhLTGxEeXd0bXVpVnhoSjFWS3p1YVkxOVljMXRwQjFFenFyWnpMUUlRWVV3SkwtN2UwQ2xjdVM1eVd1NXhpazRXZVNhYnBfWlYxeG1p?oc=5	其他糧食
 2026-08-14	河南兩名兒童將超市糧食混雜致無法出售 引熱議	https://hk.epochtimes.com/news/2026-08-14/43651763	其他糧食
 2026-08-13	飢餓緬甸：軍政府封鎖，將逾千萬緬甸人推向糧食危機	https://theinitium.com/20260813-international-myanmar-food-crisis-junta-blockade/	糧荒短缺
 2026-08-13	俄烏互相攻擊對方黑海港口設施 相信趁農作物收成期擾亂對方糧食運輸	https://news.tvb.com/tc/1188970-俄烏互相攻擊對方黑海港口設施相信趁農作物收成期擾亂對方糧食運輸	其他糧食
@@ -487,6 +489,7 @@ var DATA_FOOD = `
 2026-05-08	東盟峰會菲律賓開幕 聚焦能源與糧食危機	https://www.ntdtv.com/b5/2026/05/07/a104094075.html	糧荒短缺
 2026-05-08	東盟峰會菲律賓宿霧開幕 聚焦能源與糧食危機	https://hk.epochtimes.com/news/2026-05-08/2148854	糧荒短缺
 2026-05-07	東盟峰會菲律賓宿霧開幕 聚焦能源與糧食危機	https://www.epochtimes.com/b5/26/5/7/n14758587.htm/amp	糧荒短缺
+2026-05-07	從中東能源危機看各國對策：亞洲LNG價格飆升，台灣應變措施為何拖累轉型？	https://news.google.com/rss/articles/CBMiigFBVV95cUxQQll0N3ktcjVfYVJweG1GMUhwU3BpcjVRUS1LQkNKU3FFeUtaWWVDem9NZGNQX3ZRSFhacFV5YjB2a2hscmcxQWlPbGdHTHdLdDdZVm1hYkZDdW1MMS1NSFJidk1fZmdab2NhVTNxc29wMVVQNEdKc1EwREJydTM4azdES1llWEREN2c?oc=5	價格暴漲通脹
 2026-05-06	東協峰會將登場 聚焦能源糧食與僑民安全	https://money.udn.com/money/story/5599/9486157?from=edn_newest_index	其他糧食
 2026-05-06	丁學良 丨一個紅衛兵的告白：糧食關與文革中的激进派和保守派	https://bostonreviewofbooks.substack.com/p/c02	其他糧食
 2026-05-05	林逸欣癌逝父「薰衣草精油膏」掀排隊潮！官方急發聲了 公開限購方式	https://tw.news.yahoo.com/林逸欣癌逝父-薰衣草精油膏-掀排隊潮-官方急發聲了-公開限購方式-071500510.html	短缺供應
