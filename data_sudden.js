@@ -1,5 +1,6 @@
-// 猝死 | 由 build_news_js.py 生成 | 共 3047 條
+// 猝死 | 由 build_news_js.py 生成 | 共 3049 條
 var DATA_SUDDEN = `
+2026-10-21	研究：心電圖藏猝死警訊 AI或有助提前辨識高風險患者	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tYUxuM3FwNVF2SFRUcHZneFZqZnZpLWpYdWh3WmxxamVsVU53TU9tT2hGcXIyT2gydXJINTlwaHVtR2NMZXFPbkFyVmQwZHJpdWJIbjRIM3NRVXlGTzdsVk8zaG4?oc=5	心腦猝死
 2026-10-20	週一猝死與心肌梗塞風險最高？吃對時間，老得慢、少生病- 書房	https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTZF83Nk8xNnFKMmhoZklwTWVoMWhKV2NRZHVERUZweHIwckpscmpLd094RmFZTUMxS1EzVFNSOV8wei1Jb2w0dHlGVEdQTDRQalJuc2FJa1NidVYyWVFF?oc=5	心腦猝死
 2026-10-20	竹縣寶山雙林路野溪「美得冒泡」 魚蝦暴斃	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoQkVvVE1TR2oxbzhIcjZiUHF0MklUOVJ6WDRyOWNPN0RwVzdyckktbTV2VzcwQzE4VVpJYnh1NlhhaEw2ZzhLcFhvTERqTkp1TlZPOVRfN3drUmQ2aHRhUVd2MG3SAWpBVV95cUxNdGhSelFMN0hQaTdQTU9uZF9SZ2J3REk5Qm0zOWY2Z2lhUXZNZ2dyd3BONE5wNU5zLVIta0ZDaXJtanhoUFVDRms4REp3SXl1RUxzNkpfMFpsNzd0VEZrXzJkbnR1V09mSndR?oc=5	心腦猝死
 2026-10-20	怎麼會傳出金正恩腦出血不治！(#01J) 【#金正恩 驚傳「腦出血死在北京」！ 北韓官媒PO照闢謠】 （圖／朝中社）	https://news.google.com/rss/articles/CBMiogRBVV95cUxPMWRla2pSNW43dnpKM2NoTHhsOE8wU09VQkU1RUZ4R0ZJMU1MeUNQTzZ2bFZTTmFxOXZTbkdfQUk3Yldsa09pTGU2QnIyZVlET09WbER3YVIzUXNFcnN3Ti1aXzVTS2sxRVh1YVFLVnVDd3BCa2FxQlJJQU5KRXl6b1FIMjhOQXAwTVJISzJ6YmZQWmxoVjFiTFRJQkFXb0FFQllyNU00UkF1R2FlTDFrNmM4bFBPd21ITWRXZG5TRU1QdkhCUV9pajRpN3N3X1pxRmlUcW8wc29pSjRwcjB6RVJBenJCWUlKMzl1Rjh3YXVOZkF0UFc2dHQ3T2pZV2FvLWNRVlBPU19HdFAtTjkweFlWOFdQb1JwY1dnNFdLV1QwNF95eGpsaGZTb0pPNTVMQUNJT0JoNXFPSXNmeXZFaEY5eEFEZ3dYNzRlNEd4Mk94eWQ4X1czNlVCNVlXUGNxR0JvS0xKVDVWTWltdlE4d1R4TXRyaGJjT29VYmRHSVQ3WUlCTXd3ZlBqTElqa091QUU3RS1qQ1lFQjFOZ1RfRkkzb3NCSXY0cWFJMVlyWHItMkgya3I4SDZ3cjNWSHJfdnNzcVVaVDFucDV5aFRzQ3NFMHVFUzYwbU1tTDZZcVJHTEl3R2lLazJOeGQ2eEo2WHhBaktfQmQtVlJuYVNDTWZ5RzYya2N3cEp5M0tpZDFCemwzZUFVaEUtenM2X1hkWmc?oc=5	腦血管
@@ -396,6 +397,7 @@ var DATA_SUDDEN = `
 2026-08-14	大埔太湖花園裝修男工猝死 曾透露感到酷熱疲憊	https://www.stheadline.com/breaking-news/3604263/大埔太湖花園裝修男工猝死-曾透露感到酷熱疲憊	心腦猝死
 2026-08-14	兩日兩司機猝斃｜醫生：酷熱增心臟病發風險 通波仔非一勞永逸	https://www.hk01.com/突發/60380133/兩日兩司機猝斃-醫生-酷熱增心臟病發風險-通波仔非一勞永逸	心腦猝死
 2026-08-14	傳大陸外賣員猝死驛站 身體硬了才被發現（視頻）	https://www.ntdtv.com/b5/2026/08/13/a104123722.html	心腦猝死
+2026-08-13	青衣貨車司機猝死 不排除心臟病發所致	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSkhlSlN2V20tWGJGRmdNWFVpQmZZbGNhcm83WXdtc0JPbmdpRFFDaFJkUHYtV0gwS3Q0NldaOEdsamhaekh3Mjk1TUx4dXE3aVFYYkFBZkp6eUF1am5HeVlPYUE4WlZLeXVnbkJrMk1xVmRKMEFCVDdrbVZQd1JmSHNXNW91S0dONkxV?oc=5	心腦猝死
 2026-08-13	蘇州健康講座變急救現場 醫生見阿婆心臟驟停即跪地施CPR約1 分鐘救回	https://www.bastillepost.com/hongkong/article/16248547-%E8%98%87%E5%B7%9E%E5%81%A5%E5%BA%B7%E8%AC%9B%E5%BA%A7%E8%AE%8A%E6%80%A5%E6%95%91%E7%8F%BE%E5%A0%B4-%E9%86%AB%E7%94%9F%E8%A6%8B%E9%98%BF%E5%A9%86%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E5%8D%B3%E8%B7%AA	心腦猝死
 2026-08-13	网约车司机下车充电时猝死保险拒赔法院判了→-中新网	https://www.chinanews.com.cn/sh/2026/08-13/10676912.shtml	心腦猝死
 2026-08-13	男子酒后猝死责任认定：法院为何判同饮者无责	https://cj.sina.cn/articles/view/7879776816/1d5abda3006801li1e?froms=ggmp	心腦猝死
