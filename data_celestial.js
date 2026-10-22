@@ -1,4 +1,4 @@
-// 天象 | 由 build_news_js.py 生成 | 共 114 條
+// 天象 | 由 build_news_js.py 生成 | 共 115 條
 var DATA_CELESTIAL = `
 2026-10-20	台中園道店《日蝕 Eclipse》音樂分享會	https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yS1VuOGJrbXNpTTBBcnRJZVlHd2hHWldFYWFqRkJTR3BjdVRJb3psNktsRFRWbDN2Y0l6MzVaOXM2SU1ESmZQclhVOWdKSUw4Y1FzQVNxSDBPVkt2anYw?oc=5	血月日蝕
 2026-10-15	今晚又是一場血月……🫣🫣🫣🫣🫣🤣🤣🤣🤣🤣🤣🥳🥳🥳🥳🥳🎉🎉🎉🐻‍❄🐻‍❄🐻‍❄🐻‍❄🐻‍❄🐻🐻🐻🐻🐻💯💯💯💯💯💯💯💯💯💯💯💯	https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWdiODJmNWFjX2N0b05keEpCMVQ3ZG1CMF8xR09lZDlvSEV0SkFYaVdPaDNKLUdmS3EwQmsyejMxcTZROTVfNDFObW9Ed2lLQ20zeGN0Y3BiM2dDaS1hWUp2aVhBX3FzSGRTTWRYcHBVbl93VkZBYjBSWnZDbktCV3MyXzBqMDhYUFhGNE5iWkRIQQ?oc=5	血月日蝕
@@ -114,4 +114,5 @@ var DATA_CELESTIAL = `
 2022-04-28	異象頻頻！成都驚現超大日暈北京四月飄雪吉兆還是凶兆？（視頻） | 四川 | 成都 | 日暈| 血色太陽| 血月	https://www.soundofhope.org/post/616078?lang=b5	血月日蝕
 2021-07-12	有機會看到火流星？七月流星雨預報「寶瓶座δ南流星雨 + 摩羯座α流星雨」，「這兩天」最適合觀測	https://news.google.com/rss/articles/CBMiekFVX3lxTFB0akx5WmpVQU9RdmJWenREcXFoR3ZFUEI2WWNQaVNaRUttWEROWmwzLW0zbnBzVFE5TTVJNDVJLXpXejNCT3k4bFNzVDgxdlFDZkdWQmtXZjU3RGtJU19OTTY1dnlaZFRvckNQcU1lM3BvN2pOVUQxLUtn?oc=5	彗星隕石
 2020-04-29	彗星撞地球真實上演？ 直徑2公里小行星擦身而過| CTWANT	https://today.line.me/tw/v3/article/3l0DKk	彗星隕石
+2018-09-16	《聖經》重要預言：紅母牛降生與血月的出現(視頻) - 預言未來 - 陳菡 - (移動版)	https://news.google.com/rss/articles/CBMiakFVX3lxTE53TzlsejRwY2dick1Ub21ZQWRRLWpzRTZadmllSi0tcjd6VWlwNHc4bXdaWVY5NGdBZFBqVDNLdGpVZDYwbnhFSzVLdEp0Z0JDN1Y4RERackZhNVR4RjB6aU9qWHJQblQxZEE?oc=5	血月日蝕
 `;

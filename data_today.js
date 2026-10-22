@@ -1,5 +1,8 @@
 var DATA_TODAY = `
+2026-10-22	江宏恩隔24年回民視！瘦12公斤甩暴斃風險 《豆腐媽媽》角色曝光	https://news.google.com/rss/articles/CBMihgFBVV95cUxOb05fVFBsVVk5U3pyWC1uYUt5cWU5Qm0wTkxCWkdpaDFncjhuU1JJUXJ2bVNaRWtPNkc3Tzk3SG9PdkhrTExmc05VRzh2Zk5RMEZfcy1DdjAtNEVucjNnZ0Q0T1dYUTB6NmxkbFlweWRNeXhXS2g3T1lsd3NRWXk4QTFQVmxYQQ?oc=5	心腦猝死
+2026-10-22	快訊／薔琵逼近...小琉球美人洞20歲男落海 被救起無呼吸心跳	https://www.ettoday.net/news/20261022/3259234.htm	未分類
 2026-10-21	研究：心電圖藏猝死警訊 AI或有助提前辨識高風險患者	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tYUxuM3FwNVF2SFRUcHZneFZqZnZpLWpYdWh3WmxxamVsVU53TU9tT2hGcXIyT2gydXJINTlwaHVtR2NMZXFPbkFyVmQwZHJpdWJIbjRIM3NRVXlGTzdsVk8zaG4?oc=5	心腦猝死
+2026-10-21	將軍澳50歲男子家中猝死 生前患有身體病	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTdQbmx4VEo0RkNKN1lUUWRic09TVTVsY1h6SG5na2VIY3czRm85RXFIaEtUbW9kQkc1d1FWa3VjRnJub3ZtSWtPTjNCSmlNTU9VaHNMVnFtQVVCQ25vZGIyekctaVMtbmZhSkIwSXZFMUsyRTZfQkE4aV9ZSm1zNUF1QjVIV05XX1dV?oc=5	心腦猝死
 2026-10-20	週一猝死與心肌梗塞風險最高？吃對時間，老得慢、少生病- 書房	https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTZF83Nk8xNnFKMmhoZklwTWVoMWhKV2NRZHVERUZweHIwckpscmpLd094RmFZTUMxS1EzVFNSOV8wei1Jb2w0dHlGVEdQTDRQalJuc2FJa1NidVYyWVFF?oc=5	心腦猝死
 2026-10-20	竹縣寶山雙林路野溪「美得冒泡」 魚蝦暴斃	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoQkVvVE1TR2oxbzhIcjZiUHF0MklUOVJ6WDRyOWNPN0RwVzdyckktbTV2VzcwQzE4VVpJYnh1NlhhaEw2ZzhLcFhvTERqTkp1TlZPOVRfN3drUmQ2aHRhUVd2MG3SAWpBVV95cUxNdGhSelFMN0hQaTdQTU9uZF9SZ2J3REk5Qm0zOWY2Z2lhUXZNZ2dyd3BONE5wNU5zLVIta0ZDaXJtanhoUFVDRms4REp3SXl1RUxzNkpfMFpsNzd0VEZrXzJkbnR1V09mSndR?oc=5	心腦猝死
 2026-10-20	怎麼會傳出金正恩腦出血不治！(#01J) 【#金正恩 驚傳「腦出血死在北京」！ 北韓官媒PO照闢謠】 （圖／朝中社）	https://news.google.com/rss/articles/CBMiogRBVV95cUxPMWRla2pSNW43dnpKM2NoTHhsOE8wU09VQkU1RUZ4R0ZJMU1MeUNQTzZ2bFZTTmFxOXZTbkdfQUk3Yldsa09pTGU2QnIyZVlET09WbER3YVIzUXNFcnN3Ti1aXzVTS2sxRVh1YVFLVnVDd3BCa2FxQlJJQU5KRXl6b1FIMjhOQXAwTVJISzJ6YmZQWmxoVjFiTFRJQkFXb0FFQllyNU00UkF1R2FlTDFrNmM4bFBPd21ITWRXZG5TRU1QdkhCUV9pajRpN3N3X1pxRmlUcW8wc29pSjRwcjB6RVJBenJCWUlKMzl1Rjh3YXVOZkF0UFc2dHQ3T2pZV2FvLWNRVlBPU19HdFAtTjkweFlWOFdQb1JwY1dnNFdLV1QwNF95eGpsaGZTb0pPNTVMQUNJT0JoNXFPSXNmeXZFaEY5eEFEZ3dYNzRlNEd4Mk94eWQ4X1czNlVCNVlXUGNxR0JvS0xKVDVWTWltdlE4d1R4TXRyaGJjT29VYmRHSVQ3WUlCTXd3ZlBqTElqa091QUU3RS1qQ1lFQjFOZ1RfRkkzb3NCSXY0cWFJMVlyWHItMkgya3I4SDZ3cjNWSHJfdnNzcVVaVDFucDV5aFRzQ3NFMHVFUzYwbU1tTDZZcVJHTEl3R2lLazJOeGQ2eEo2WHhBaktfQmQtVlJuYVNDTWZ5RzYya2N3cEp5M0tpZDFCemwzZUFVaEUtenM2X1hkWmc?oc=5	腦血管
@@ -2158,6 +2161,7 @@ var DATA_TODAY = `
 2025-07-22	《真相猜•情•尋》：李小龍猝死之謎 (二) 足本睇	https://news.tvb.com/tc/786700-%E7%9C%9F%E7%9B%B8%E7%8C%9C%E6%83%85%E5%B0%8B%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%8C%9D%E6%AD%BB%E4%B9%8B%E8%AC%8E%E4%BA%8C%E8%B6%B3%E6%9C%AC%E7%9D%87	心腦猝死
 2025-07-21	李小龍猝死之謎(一)：死因庭未曝光內幕！關鍵證人現身| 專題節目	https://news.tvb.com/tc/programme/80/episode/1560-%E6%9D%8E%E5%B0%8F%E9%BE%8D%E7%8C%9D%E6%AD%BB%E4%B9%8B%E8%AC%8E%E4%B8%80%E6%AD%BB%E5%9B%A0%E5%BA%AD%E6%9C%AA%E6%9B%9D%E5%85%89%E5%85%A7%E5%B9%95%E9%97%9C%E9%8D%B5%E8%AD%89%E4%BA%BA%E7%8F%BE%E8%BA%AB	心腦猝死
 2025-07-21	健身室慘案！壯漢操肌2分鐘突心臟驟停暴斃 疑運動前喝1飲品所致	https://www.hk01.com/article/60257457?utm_source=01articlecopy&utm_medium=referral	心腦猝死
+2025-07-15	獨家／40歲張榮麟心梗逝！醫驚揭「運動員猝死原因」：1招能防	https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2cUxCOEN1Z0cta3ZLU3JXZFFVc2VvTlVZUHVtX1ZJODJSRXRkamdIVnF6c1NVend4Q0tUWi1VQk5hUGxMZ25CWGtFdjE?oc=5	心腦猝死
 2025-07-14	林俊傑突發心臟病 開騷唱到一半劇痛畫面曝光	https://hk.on.cc/hk/bkn/cnt/entertainment/20250714/bkn-20250714082005154-0714_00862_001.html	心腦猝死
 2025-07-14	大角咀海桃灣女子猝死家中 同事揭發惜太遲	https://www.hk01.com/article/60256578?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2025-07-13	廣州足球隊翻譯猝死 生前疑被日籍教練職場霸淩 妻子發文維權	https://www.hk01.com/article/60256259?utm_source=01articlecopy&utm_medium=referral	心腦猝死
@@ -2762,6 +2766,7 @@ var DATA_TODAY = `
 2022-07-12	慈樂邨單位傳出異味 保安報警揭男子家中暴斃	https://hk.on.cc/hk/bkn/cnt/news/20220712/bkn-20220712015752057-0712_00822_001.html	心腦猝死
 2022-07-12	多日未上班暴斃家中 高雄男工人死因未知	https://hk.on.cc/hk/bkn/cnt/cnnews/20220712/bkn-20220712070029961-0712_00952_001.html	心腦猝死
 2022-07-12	分析：河北公安廳長離奇猝死 王小洪日子難過	https://www.ntdtv.com/b5/2022/07/12/a103477260.html	心腦猝死
+2022-06-16	院外心臟停頓年輕患者發病僅4.2%可出院 及時急救存活率升十倍	https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxRUt5N3VmU05WUWlMakpsU2JWcF9nWVU2VFVvSEN1QzNnWm9vX0gxT3d0TjFRNFZldy1ZOUUwMjh2OFA3c0VjMk0yQjE2S1Jo?oc=5	心腦猝死
 2022-06-12	香港仔男子猝死家中	https://www.hk01.com/sns/article/780541	心腦猝死
 2022-06-10	菲傭猝死死因研訊 法醫指解剖後找不到死者致命傷勢	https://hk.on.cc/hk/bkn/cnt/news/20220610/bkn-20220610172153654-0610_00822_001.html	心腦猝死
 2022-06-07	27歲百萬女網紅驚爆噎死！醫教自己做哈姆立克法自救法，邊吃飯邊做這件事最危險- 營養好食	https://health.tvbs.com.tw/nutrition/333220	呼吸與窒息
