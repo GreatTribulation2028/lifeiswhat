@@ -7,6 +7,18 @@ import io
 import os
 import sys
 
+_HERE = os.path.dirname(os.path.abspath(__file__))
+# ★ 語言列工具喺 build_news py（trilingual.py）—— 搵唔到就退化用舊 inline bar
+_BUILD_NEWS_PY = os.path.join(os.path.dirname(_HERE), "build_news py")
+if os.path.isdir(_BUILD_NEWS_PY) and _BUILD_NEWS_PY not in sys.path:
+    sys.path.insert(0, _BUILD_NEWS_PY)
+try:
+    from trilingual import add_bar, strip_bars, LANG_CSS
+except Exception:  # pragma: no cover
+    add_bar = None
+    strip_bars = None
+    LANG_CSS = ""
+
 SRC = os.path.join(os.path.dirname(os.path.abspath(__file__)), "index.html")
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "en", "index.html")
 
@@ -236,6 +248,13 @@ def main():
     s = o
     orig_len = len(s)
 
+    # 0) ★ 剝走來源檔已有嘅語言列。
+    #    來源 index.html 嘅繁體 bar 入面 href="zh-cn/index.html" / "en/index.html"
+    #    係相對 repo 根嘅，直接繼承落 en/index.html 會指錯層。
+    #    同時舊 bar 嘅文字會令下面 REPL「出現次數 == 1」檢查計錯。
+    if strip_bars:
+        s, _n_inh = strip_bars(s)
+
     # 1) category.html 連結：★ 留喺同層（en/category.html = 英文版）
     #    只有共用資源（data_*.js / classify_rules.json）先加 ../
     for h in CAT_HREF:
@@ -287,19 +306,24 @@ def main():
         print(f"[STOP] lunarLabel 剩餘行匹配 {n_lunar} 次（預期 1）")
         sys.exit(1)
 
-    # 4) 語言列：插喺 <body> 之後
-    langbar = (
-        '\n<div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);'
-        'z-index:1001;font-family:var(--f-mono);font-size:12px;'
-        'background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);'
-        'padding:5px 14px;border-radius:20px">'
-        '<a href="../index.html" style="color:var(--text-dim)">&#20013;&#25991;</a>'
-        ' &nbsp;|&nbsp; <span style="color:var(--accent)">English</span></div>\n'
-    )
-    if s.count("<body>\n") != 1:
-        print("[STOP] <body> 定位失敗")
-        sys.exit(1)
-    s = s.replace("<body>\n", "<body>\n" + langbar)
+    # 4) 語言列：插喺 <body> 之後（統一用 trilingual 三語列：繁體 | 简体 | English）
+    if add_bar:
+        # en/index.html → 繁體 ../index.html、简体 ../zh-cn/index.html、英文自己
+        s, _n_old = add_bar(s, "../index.html", "../zh-cn/index.html", "index.html", "en")
+    else:
+        # 退路：舊 inline bar（得兩語言）
+        langbar = (
+            '\n<div style="position:fixed;top:2px;left:50%;transform:translateX(-50%);'
+            'z-index:1001;font-family:var(--f-mono);font-size:12px;'
+            'background:rgba(6,10,18,.92);border:1px solid rgba(255,255,255,.08);'
+            'padding:5px 14px;border-radius:20px">'
+            '<a href="../index.html" style="color:var(--text-dim)">&#20013;&#25991;</a>'
+            ' &nbsp;|&nbsp; <span style="color:var(--accent)">English</span></div>\n'
+        )
+        if s.count("<body>\n") != 1:
+            print("[STOP] <body> 定位失敗")
+            sys.exit(1)
+        s = s.replace("<body>\n", "<body>\n" + langbar)
 
     # ===== 驗證 =====
     def inline_js(t):
@@ -309,7 +333,15 @@ def main():
         return t[t.index("<style>"):t.index("</style>") + len("</style>")]
 
     # 5) <style> 必須 byte-identical
-    if style_block(o) != style_block(s):
+    #    ★ 語言列 CSS（LANG_CSS）係 build_trilingual 加落嚟嘅，可以有；
+    #    但原始頁面 CSS 一個字都唔准改 → 比較前先剝走 LANG_CSS。
+    def norm_style(t):
+        b = style_block(t)
+        if LANG_CSS and LANG_CSS.strip() in b:
+            b = b.replace(LANG_CSS.strip(), "", 1)
+        return b
+
+    if norm_style(o) != norm_style(s):
         print("[STOP] <style> 區被改動")
         sys.exit(1)
 
@@ -342,10 +374,26 @@ def main():
 
     # 8) body 剩餘中文
     body = s[s.index("<body>"):s.rindex("<script>")]
+    #    ★ 語言列嘅「繁體 | 简体」係刻意保留嘅中文標籤，唔算殘留
+    body = re.sub(r'<div class="langbar">.*?</div>', "", body, flags=re.S)
     body = re.sub(r"<!--.*?-->", "", body, flags=re.S)
     leftb = sorted(set(re.findall(r"[\u4e00-\u9fff]+", body)))
     if leftb:
         print(f"[CHECK] body 仍有中文: {leftb}")
+
+    # 9) ★ 語言列自檢：只可以有一條，而且三語 link 齊全（唔准出現兩條重疊 bar）
+    n_bar = s.count('class="langbar"')
+    if n_bar != 1:
+        print(f"[STOP] 語言列數量 {n_bar}（預期 1）")
+        sys.exit(1)
+    if '<div style="position:fixed;top:2px;left:50%' in s:
+        print("[STOP] 舊 inline 語言列殘留")
+        sys.exit(1)
+    for need in ('href="../index.html"', 'href="../zh-cn/index.html"', 'href="index.html"'):
+        if need not in s:
+            print(f"[STOP] 語言列缺少 {need}")
+            sys.exit(1)
+    print("  ✓ 語言列 x1，三語 link 齊全")
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with io.open(OUT, "w", encoding="utf-8", newline="") as f:
