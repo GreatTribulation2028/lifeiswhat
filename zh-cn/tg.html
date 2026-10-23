@@ -83,6 +83,21 @@ a{color:var(--gold);text-decoration:none}
 .langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
 @media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
 
+.two{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:12px 0 6px}
+@media(max-width:780px){.two{grid-template-columns:1fr}}
+.two>div{border:1px solid var(--line);border-radius:10px;padding:10px 12px;background:rgba(255,255,255,.015)}
+.two .ttl{font-size:12px;color:var(--tg);letter-spacing:.04em;margin-bottom:7px;line-height:1.5}
+.two .rw{display:flex;justify-content:space-between;gap:12px;font-size:13px;padding:3px 0;border-bottom:1px dashed rgba(255,255,255,.07)}
+.two .rw:last-child{border-bottom:0}
+.two .rw span{color:var(--dim)}
+.two .rw b{font-family:var(--mono);color:var(--txt)}
+.two .warn{margin-top:7px;font-size:11px;color:var(--dim);line-height:1.65}
+.sepwarn{font-size:11px;color:var(--gold);line-height:1.7;border-left:2px solid var(--gold);padding:2px 0 2px 10px;margin:2px 0 10px}
+.ev{display:inline-block;font-size:10px;padding:1px 5px;border-radius:4px;margin-right:5px;font-family:var(--mono);line-height:1.5;white-space:nowrap}
+.evA{background:#14532d;color:#86efac;border:1px solid #166534}
+.evB{background:#422006;color:#fcd34d;border:1px solid #854d0e}
+.evC{background:#1e293b;color:#cbd5e1;border:1px solid #475569}
+.evD{background:#4c0519;color:#fda4af;border:1px solid #9f1239}
 </style>
 </head>
 <body>
@@ -107,6 +122,23 @@ a{color:var(--gold);text-decoration:none}
 
 <div class="lbl">第二层：TG 原始分类</div>
 <div class="chips" id="chips2"></div>
+
+<div class="lbl">第三层：证据等级（Ollie 2026-10-23 拍板）</div>
+<div class="chips" id="chips3"></div>
+
+<div class="two">
+  <div class="col">
+    <div class="ttl">官方人口统计口径（C&SD／卫生防护中心 ICD-10）</div>
+    <div id="offStats"></div>
+    <div class="warn" id="offWarn"></div>
+  </div>
+  <div class="col">
+    <div class="ttl">数据库覆盖口径（TG 活 DB 有死因分类标记的记录）</div>
+    <div id="dbStats"></div>
+    <div class="warn" id="dbWarn"></div>
+  </div>
+</div>
+<div class="sepwarn" id="sepWarn">★ 两套口径分开写，不可以加埋、不可以当成同一个数、不可以去推算全港。</div>
 
 <div class="yearbox">
   <div class="lbl" style="margin-top:0">年度统计 <span style="letter-spacing:0">（近 12 年，柱长按比例）</span></div>
@@ -134,14 +166,82 @@ a{color:var(--gold);text-decoration:none}
 
 var DATA = window.DATA_TG || {records:[],stats:{},yearly:{},total:0,shown:0};
 var REC = DATA.records || [];
-var L = {"lang": "zh-Hans", "title": "TG 死亡记录｜Telegram 群组死亡消息分类统计｜生死记录仪", "desc": "从 Telegram 群组精准抽取的死亡记录，按死因和年度分类统计，不与新闻页混合。", "h1": "TG 死亡记录", "sub": "TELEGRAM DEATH RECORDS · 群组消息 · 非新闻来源", "back": "← 返回生死记录仪首页", "all": "全部", "search_ph": "搜索关键字／群组／内容…", "l1": "第一层：死因分类", "l2": "第二层：TG 原始分类", "c1": "真死亡事件", "c2": "本页载入", "c3": "本年度", "c4": "高把握度", "cnt": "显示", "of": "/", "recs": "笔", "gen": "资料产生时间", "note": "这些是 Telegram 群组的消息（不是新闻），质素与新闻不同，所以独立一页，不混入新闻 18 类、不上首页。只收 death_signal=1 的真死亡消息，传闻／被查／比喻等已剔除。", "empty": "没有符合条件的记录", "yr": "年度统计", "yrt": "每年 × 死因分布", "ytcol": "年份", "yttot": "总数", "ylog": "（近 12 年，柱长按比例）", "w": "AI 把握度"};
-var BUCKETS = ["sudden", "suicide", "traffic", "drown", "fire", "accident", "medical", "war", "other"];
-var BUCKET_LABEL = {"sudden": ["猝死", "猝死", "Sudden death"], "suicide": ["自殺", "自杀", "Suicide"], "traffic": ["交通", "交通", "Traffic"], "drown": ["遇溺", "遇溺", "Drowning"], "fire": ["火警", "火警", "Fire"], "accident": ["意外", "意外", "Accident"], "medical": ["醫療", "医疗", "Medical"], "war": ["戰爭", "战争", "War"], "other": ["其他", "其他", "Other"]};
-var BUCKET_COLOR = {"sudden": "#ff3d6b", "suicide": "#b06cff", "traffic": "#ff9100", "drown": "#3fb6e8", "fire": "#ff6b35", "accident": "#d4a953", "medical": "#4ade80", "war": "#94a3b8", "other": "#64748b"};
-var CATLABEL = {"14.📌死亡統計": ["死亡統計", "死亡统计", "General death"], "15.📌死亡細分類-心源性猝死": ["心源性猝死", "心源性猝死", "Cardiac / sudden death"], "15.📌死亡細分類-自殺": ["自殺", "自杀", "Suicide"], "15.📌死亡細分類-意外工安": ["意外工安", "意外工安", "Accident / industrial safety"], "15.📌死亡細分類-交通航空": ["交通航空", "交通航空", "Traffic / aviation"], "15.📌死亡細分類-凶案暴力": ["凶案暴力", "凶案暴力", "Homicide / violence"], "15.📌死亡細分類-疾病醫療": ["疾病醫療", "疾病医疗", "Disease / medical"], "15.📌死亡細分類-自然死亡": ["自然死亡", "自然死亡", "Natural death"], "15.📌死亡細分類-戰爭軍事": ["戰爭軍事", "战争军事", "War / military"], "15.📌死亡細分類-災難": ["災難", "灾难", "Disaster"]};
+var L = {"lang": "zh-Hans", "title": "TG 死亡记录｜Telegram 群组死亡消息分类统计｜生死记录仪", "desc": "从 Telegram 群组精准抽取的死亡记录，按死因和年度分类统计，不与新闻页混合。", "h1": "TG 死亡记录", "sub": "TELEGRAM DEATH RECORDS · 群组消息 · 非新闻来源", "back": "← 返回生死记录仪首页", "all": "全部", "search_ph": "搜索关键字／群组／内容…", "l1": "第一层：死因分类", "l2": "第二层：TG 原始分类", "c1": "真死亡事件", "c2": "本页载入", "c3": "本年度", "c4": "高把握度", "cnt": "显示", "of": "/", "recs": "笔", "gen": "资料产生时间", "note": "这些是 Telegram 群组的消息（不是新闻），质素与新闻不同，所以独立一页，不混入新闻 18 类、不上首页。只收 death_signal=1 的真死亡消息，传闻／被查／比喻等已剔除。", "empty": "没有符合条件的记录", "yr": "年度统计", "yrt": "每年 × 死因分布", "ytcol": "年份", "yttot": "总数", "ylog": "（近 12 年，柱长按比例）", "w": "AI 把握度", "l3": "第三层：证据等级（Ollie 2026-10-23 拍板）", "evA": "A 已证实", "evB": "B 未证实", "evC": "C 死因未明", "evD": "D 坊间传闻·只作参考", "evTitle": "证据等级分布（每条都有标明）", "offTitle": "官方人口统计口径（C&SD／卫生防护中心 ICD-10）", "dbTitle": "数据库覆盖口径（TG 活 DB 有死因分类标记的记录）", "oTotal": "总登记死亡", "oExternal": "外因（意外／中毒／暴力）", "oDisease": "疾病性", "oRatio": "疾病性 : 外因", "oPct": "外因占比", "dExternal": "外因", "dDisease": "疾病性", "dUncls": "死因未明／未分类", "dRatio": "疾病性 : 外因", "offWarn": "官方登记数字，官方可能因维稳调整过 —— 不是定论。", "dbWarn": "本数据库覆盖范围内的记录数，不等于全港人口统计。", "sepWarn": "★ 两套口径分开写，不可以加埋、不可以当成同一个数、不可以去推算全港。"};
+var BUCKETS = ["sudden", "suicide", "traffic", "drown", "fire", "accident", "medical", "unknown", "war", "homicide", "other"];
+var BUCKET_LABEL = {"sudden": ["猝死", "猝死", "Sudden death"], "suicide": ["自殺", "自杀", "Suicide"], "traffic": ["交通", "交通", "Traffic"], "drown": ["遇溺", "遇溺", "Drowning"], "fire": ["火警", "火警", "Fire"], "accident": ["意外", "意外", "Accident"], "medical": ["醫療", "医疗", "Medical"], "unknown": ["死因未明", "死因未明", "Cause unknown"], "war": ["戰爭", "战争", "War"], "homicide": ["凶殺", "凶杀", "Homicide"], "other": ["其他", "其他", "Other"]};
+var BUCKET_COLOR = {"sudden": "#ff3d6b", "suicide": "#b06cff", "traffic": "#ff9100", "drown": "#3fb6e8", "fire": "#ff6b35", "accident": "#d4a953", "medical": "#4ade80", "unknown": "#8b9dc3", "war": "#94a3b8", "homicide": "#c2410c", "other": "#64748b"};
+var CATLABEL = {"14.📌死亡統計": ["死亡統計", "死亡统计", "General death"], "15.📌死亡細分類-心源性猝死": ["心源性猝死", "心源性猝死", "Cardiac / sudden death"], "15.📌死亡細分類-自殺": ["自殺", "自杀", "Suicide"], "15.📌死亡細分類-意外工安": ["意外工安", "意外工安", "Accident / industrial safety"], "15.📌死亡細分類-交通航空": ["交通航空", "交通航空", "Traffic / aviation"], "15.📌死亡細分類-凶案暴力": ["凶案暴力", "凶案暴力", "Homicide / violence"], "15.📌死亡細分類-疾病醫療": ["疾病醫療", "疾病医疗", "Disease / medical"], "15.📌死亡細分類-自然死亡": ["自然死亡", "自然死亡", "Natural death"], "15.📌死亡細分類-戰爭軍事": ["戰爭軍事", "战争军事", "War / military"], "15.📌死亡細分類-災難": ["災難", "灾难", "Disaster"], "16.📌死亡細分類-死因未明": ["死因未明", "死因未明", "Cause unknown"]};
 var LI = 1;
 
-var state = {bucket:"", cat:"", q:""};
+var state = {bucket:"", cat:"", q:"", ev:""};
+
+function evBadge(ev){
+  if(!ev) return "";
+  var parts=String(ev).split("+");
+  var h="";
+  for(var i=0;i<parts.length;i++){
+    var p=parts[i];
+    var lab=(p==="A")?L.evA:(p==="B")?L.evB:(p==="C")?L.evC:(p==="D")?L.evD:p;
+    h+='<span class="ev ev'+p+'" title="'+esc(lab)+'">'+esc(p)+'</span>';
+  }
+  return h;
+}
+function evLabel(ev){
+  var parts=String(ev||"").split("+");
+  var h="";
+  for(var i=0;i<parts.length;i++){
+    var p=parts[i];
+    h+=(h?" + ":"")+((p==="A")?L.evA:(p==="B")?L.evB:(p==="C")?L.evC:(p==="D")?L.evD:p);
+  }
+  return h;
+}
+function evCount(pfx){
+  var n=0;
+  for(var i=0;i<REC.length;i++){
+    if(state.bucket && REC[i].b!==state.bucket) continue;
+    if(state.cat && REC[i].c!==state.cat) continue;
+    var ev=String(REC[i].ev||"");
+    if(pfx===""){ n++; continue; }
+    if(("+"+ev+"|").indexOf("+"+pfx+"|")>=0) n++;
+  }
+  return n;
+}
+function renderEvChips(){
+  var h='<button class="chip'+(state.ev===""?" on":"")+'" data-e="">'+L.all
+    +'<span class="n">'+evCount("").toLocaleString()+'</span></button>';
+  ["A","B","C","D"].forEach(function(p){
+    var n=evCount(p);
+    h+='<button class="chip'+(state.ev===p?" on":"")+'" data-e="'+p+'">'
+      +esc(evLabel(p))+'<span class="n">'+n.toLocaleString()+'</span></button>';
+  });
+  document.getElementById("chips3").innerHTML=h;
+}
+function rw(label,val){
+  return '<div class="rw"><span>'+esc(label)+'</span><b>'+esc(val)+'</b></div>';
+}
+function renderTwoCol(){
+  var o=DATA.official_stats||{}, d=DATA.db_coverage||{};
+  var oh="";
+  if(o.total){
+    oh+=rw(L.oTotal,(o.total||0).toLocaleString());
+    oh+=rw(L.oExternal,(o.external||0).toLocaleString()+"  ("+(o.external_pct||0)+"%)");
+    oh+=rw(L.oDisease,(o.disease||0).toLocaleString());
+    oh+=rw(L.oRatio,o.ratio||"—");
+    oh+='<div class="warn">'+esc(L.offWarn)+'<br>'+esc(o.note||"")+'</div>';
+  }
+  document.getElementById("offStats").innerHTML=oh;
+  document.getElementById("offWarn").textContent="";
+  var dh="";
+  if(d.total!==undefined){
+    dh+=rw(L.dExternal,(d.external||0).toLocaleString());
+    dh+=rw(L.dDisease,(d.disease||0).toLocaleString());
+    dh+=rw(L.dUncls,(d.unclassified||0).toLocaleString());
+    dh+=rw(L.dRatio,d.ratio||"—");
+    dh+='<div class="warn">'+esc(L.dbWarn)+'<br>'+esc(d.note||"")+'</div>';
+  }
+  document.getElementById("dbStats").innerHTML=dh;
+  document.getElementById("dbWarn").textContent="";
+}
 
 function catLabel(c){ var v=CATLABEL[c]; return v ? v[LI] : (c||""); }
 function bucketLabel(b){ var v=BUCKET_LABEL[b]; return v ? v[LI] : (b||""); }
@@ -152,6 +252,10 @@ function view(){
   return REC.filter(function(r){
     if(state.bucket && r.b!==state.bucket) return false;
     if(state.cat && r.c!==state.cat) return false;
+    if(state.ev){
+      var ev=String(r.ev||"");
+      if(("+"+ev+"|").indexOf("+"+state.ev+"|")<0) return false;
+    }
     if(q){
       var hay=((r.t||"")+" "+(r.g||"")+" "+(r.s||"")).toLowerCase();
       if(hay.indexOf(q)<0) return false;
@@ -257,7 +361,7 @@ function renderList(){
     h+='<div class="row">'
       +'<div class="d">'+esc(r.d)+'</div>'
       +'<div class="g">'+esc(r.g||"")+(r.n>1?' <span style="opacity:.6">(×'+r.n+')</span>':'')+'</div>'
-      +'<div class="t">'+esc(r.t)+'</div>'
+      +'<div class="t">'+evBadge(r.ev)+esc(r.t)+'</div>'
       +'<div class="u">'+(r.u?'<a href="'+esc(r.u)+'" target="_blank" rel="noopener">&#8599;</a>':'')+'</div>'
       +'</div>';
   }
@@ -282,17 +386,22 @@ function renderCards(){
 document.getElementById("chips1").addEventListener("click",function(e){
   var b=e.target.closest("[data-b]"); if(!b) return;
   state.bucket=b.getAttribute("data-b"); state.cat="";
-  renderChips1(); renderChips2(); renderList();
+  renderChips1(); renderChips2(); renderEvChips(); renderList();
 });
 document.getElementById("chips2").addEventListener("click",function(e){
   var b=e.target.closest("[data-c]"); if(!b) return;
   state.cat=(state.cat===b.getAttribute("data-c"))?"":b.getAttribute("data-c");
-  renderChips1(); renderChips2(); renderList();
+  renderChips1(); renderChips2(); renderEvChips(); renderList();
 });
 document.getElementById("q").addEventListener("input",function(e){
   state.q=e.target.value.trim(); renderList();
 });
-renderCards(); renderChips1(); renderChips2(); renderYearly(); renderList();
+document.getElementById("chips3").addEventListener("click",function(e){
+  var b=e.target.closest("[data-e]"); if(!b) return;
+  state.ev=(state.ev===b.getAttribute("data-e"))?"":b.getAttribute("data-e");
+  renderEvChips(); renderList();
+});
+renderCards(); renderChips1(); renderChips2(); renderEvChips(); renderTwoCol(); renderYearly(); renderList();
 
 </script>
 </body>
