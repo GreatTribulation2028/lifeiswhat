@@ -111,6 +111,18 @@ details.stats[open] summary::before{content:"▾ "}
 .tag{font-size:10px;padding:2px 7px;border-radius:10px;border:1px solid var(--acc);
   color:var(--acc);white-space:nowrap;flex:0 0 auto}
 .tag.none{border-color:var(--line);color:var(--dim)}
+/* ★ 2026-10-24：證據等級徽章（A/B/C/D）＋ 頁面說明 */
+.lv{font-family:var(--mono);font-size:10px;font-weight:700;line-height:1;padding:3px 6px;border-radius:4px;
+  border:1px solid currentColor;flex:0 0 auto;cursor:help}
+.lvA{color:#2ecc71;background:rgba(46,204,113,.10)}
+.lvB{color:#f1c40f;background:rgba(241,196,15,.10)}
+.lvC{color:#e67e22;background:rgba(230,126,34,.10)}
+.lvD{color:#e74c3c;background:rgba(231,76,60,.12)}
+.lvN{color:var(--dim);background:rgba(255,255,255,.04)}
+.lvnote{margin:14px 0 4px;padding:11px 14px;border:1px dashed var(--line);border-radius:8px;
+  font-size:12.5px;line-height:2;color:var(--dim);background:rgba(255,255,255,.02)}
+.lvnote b{color:var(--txt)}
+.lvnote .lv{margin:0 2px 0 6px;vertical-align:middle}
 .item a.t{color:var(--txt);font-size:14px;line-height:1.5;word-break:break-all}
 .item a.t:hover{color:var(--acc);text-decoration:none}
 .empty{text-align:center;color:var(--dim);padding:40px 0;font-family:var(--mono)}
@@ -202,6 +214,15 @@ details.stats[open] summary::before{content:"▾ "}
     </div>
     <div class="chips" id="subChips"></div>
     <div class="count-line" id="countLine"></div>
+  </div>
+
+  <div class="lvnote" id="lvNote">
+    <b>證據等級</b>（逐條判讀出嚟嘅<b>來源參考</b>，<b>請自行判斷同分析</b>，唔代表本網站認可內容）：
+    <span class="lv lvA">A</span> 官方登記／可查證一手來源
+    <span class="lv lvB">B</span> 單一報道／未經證實
+    <span class="lv lvC">C</span> 死因查唔到／不能歸類
+    <span class="lv lvD">D</span> 坊間傳聞／未獨立證實
+    <span class="lv lvN">–</span> 未評級
   </div>
 
   <div class="feed" id="feed"></div>
@@ -309,7 +330,7 @@ function parseData(text){
     const p=line.split('\t');
     if(p.length<2)return;
     const ds=p[0].trim().replace(/[\[\]]/g,'');
-    let date='',title,sub;
+    let date='',title,sub,lvl='';
     const mk=(y,m,d)=>`${y}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
     let dp=null;
     if(/^\d{4}[\/\-.]\d{1,2}[\/\-.]\d{1,2}$/.test(ds))dp=ds.split(/[\/\-.]/),dp=[+dp[0],+dp[1],+dp[2]];
@@ -317,13 +338,13 @@ function parseData(text){
     else if(/^\d{1,2}[\/\-.]\d{1,2}[\/\-.]\d{2}$/.test(ds)){const q=ds.split(/[\/\-.]/);dp=[2000+ +q[2],+q[1],+q[0]];}
     if(dp&&dp[0]&&dp[1]&&dp[2]&&dp[1]>=1&&dp[1]<=12&&dp[2]>=1&&dp[2]<=31){
       date=mk(dp[0],dp[1],dp[2]);
-      title=p[1].trim();sub=(p[3]||'').trim();
+      title=p[1].trim();sub=(p[3]||'').trim();lvl=(p[4]||'').trim();
     }else{
       /* 無日期記錄：title\turl\tsub —— 照樣保留，排最尾 */
-      title=p[0].trim();sub=(p[2]||'').trim();
+      title=p[0].trim();sub=(p[2]||'').trim();lvl='';
     }
     const url=(p.find(x=>/^https?:\/\//i.test(x))||'').trim();
-    if(title)out.push({date,title,url,sub});
+    if(title)out.push({date,title,url,sub,lvl});
   });
   out.sort((a,b)=>b.date.localeCompare(a.date)||a.title.localeCompare(b.title));
   return out;
@@ -470,6 +491,18 @@ function timeBase(){
   return localDateStr(new Date(now.getTime()-days*86400000));
 }
 
+/* ★ 2026-10-24：證據等級（AI 逐條判讀嘅來源參考）—— 寫明畀讀者自己判斷 */
+const LVTIP={
+ A:'官方登記／可查證一手來源（警方・消防・醫院・法院・政府公布・有具名記者的一手報道）',
+ B:'單一報道／消息人士／未經證實',
+ C:'死因查唔到／不能歸類',
+ D:'網上傳聞／未獨立證實',
+ '-':'未評級'
+};
+function lvHtml(l){
+  if(!l)return '';
+  return '<span class="lv lv'+l+'" title="'+LVTIP[l]+'">'+l+'</span>';
+}
 /* ================= 名單渲染 ================= */
 function render(){
   const q=document.getElementById('q').value.trim().toLowerCase();
@@ -497,6 +530,7 @@ function render(){
       d.className='item';
       d.innerHTML=`<span class="dt">${e.date||'—'}</span>`+
         `<span class="tag ${e.sub?'':'none'}">${subOf(e)}</span>`+
+        lvHtml(e.lvl)+
         (e.url?`<a class="t" href="${e.url}" target="_blank" rel="noopener">${esc(e.title)}</a>`
                :`<span class="t">${esc(e.title)}</span>`);
       frag.appendChild(d);
