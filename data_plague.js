@@ -1,5 +1,10 @@
-// 瘟疫 | 由 htnl_build_news_js.py 生成 | 共 1335 條
+// 瘟疫 | 由 htnl_build_news_js.py 生成 | 共 1345 條
 var DATA_PLAGUE = `
+2026-10-24	美國德州研究：經歷病毒爆發後，獼猴對糞便上的葡萄表現出更強烈厭惡感	https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXhPVlp5dUdUZG1UNm1ISFFQVEtTWkUtSUdZOXh0S0d0WXUzZENxaDloelZiZWVFQUVRcVhySmlmZmJpak1jODVETXdQNWpzcjY1MElRbzJ0SkdFQUxLY0lLTFM0WG9RTkUyb0JpVTVwYkk2OTdwTDNJQXBrd1NhRmtOR0ZWQi02d0xEcEFMajJMdWtBZGNrUmtucHJIVHlob3FZTFlzTHk2cWtEYWUwc2N1aW5aRmlGZEhVOFU5cw?oc=5	其他瘟疫
+2026-10-24	疫苗問世 致命黑色素瘤死亡風險降4成	https://news.google.com/rss/articles/CBMic0FVX3lxTE1xZ2hqMmVqa19XeTl5U0QzNDhpaUVGUEtNQjVjYzMzX2VQNXFhdWdCM0tlRXdsWDZmT0hjaWtRME9HbTRwQVBxaElPQW11QTRUTE50RTNTZloxTFd0V1c4bFdnNTFQUDRLX3NpaWd3ekNpUnM?oc=5	瘟疫
+2026-10-24	流感、新冠不只傷肺也傷心！ 醫：接種疫苗是護心一環	https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TQmRySnZqd3N2TFVGakR2WXd4VUFRb09RMkphS3VWSE8yeldYbHhMWVZCOEpscFl2dVBKWTFjdUNtLWs3T3lxLU5BN0pfeTRwNHp4TVNVakczRDIyUzhOOUxDY1A?oc=5	疫苗
+2026-10-24	民主剛果展開人體臨床試驗 完成首批伊波拉疫苗接種	https://news.google.com/rss/articles/CBMi9AJBVV95cUxQUU9iRUpiYmlUZTI0aGNLNHl3a29DNmtSalR5SGJkbEV4ZE5GbUpvaWdxaGwxbG1XbDhTWHhQNExidFZTazh1Ty1ybTZaZ0xEbXlnZGliRDAwaXVURmxpdkdubVE3c2JGU3dCVVlwUkVjeFMtQ1JDbEl0SWZBRVZBX0txN3ktcXNhOUlvNFR1YjZ5YzBjSVZUNTUzelZnbGVvTU03ZkhFeVI4MVRpZE9VQU10a3RvRHlWamp5dVExMHZvalRDdDE1Q2NJaE9fTGVUWDJ4SWRjT2RveThUbmVGSnRmRElNcm44djBRSUtVY2hKX0lQSFBCSV9vV1dRM0tVRUNCQjRLRUlsUGJibGRDcFpOSVE3Yy1VVU9yRHN6WHA2QlhZQUdIOXBTM3N0Nmc4Y3NzNmxUU1JyOU9mc2FWM0JfSFNzcUMyQTExcHM3ZHVMLWJpVFk5X0hibndfUmJSeC1ZNC1FN19IVUFzdVE2TUstVDQ?oc=5	瘟疫與疫苗
+2026-10-24	伊波拉疫情改變剛果兒童運動習慣	https://news.google.com/rss/articles/CBMimgJBVV95cUxNUlQ4bHhVX1RjT1kzUTctRGJCU1F1NUNnLUk4a1oxQTJ1MXViSkRQREI4Sm1VaV9iTlVVUnpWX2l1UmRWems1dldTcXZCeS1IMkZXNzlBUVV1bWhHdUZSQ0hieXBYYV9XUU9nX2prVWxmbWhqMEJodGk5Y0NBb2JOd1lvRHRQb01zVWZSRVN5LUJJLXRjM25RSlcwU0xDSUtSMVBSRDJBdjQyR2lCb2ZnVjhwT0E3NGZxRUltdUxFTjNyaDRzbVRBNXRNSEZSU25PaHc2eWpCOWw4cng0M3BuczctLUVneEx4RklUZ2ZTQ3Nkd2NhU2hqVUhlZV9qMVdBVjlHTGRnaVoyZDhFbHFkbDJIcGtNOERZaEE?oc=5	瘟疫與疫苗
 2026-10-23	莫德納一度大跌26%，創單日跌幅紀錄！黑色素瘤疫苗資料提前洩露，結果不及預期	https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WR0U2ZjlvTFNSYXRTZloySGNGNnVkRzNQOGRvc1FTQTVsZk4wNE8zU0pGcEZfZ0c0MVRyaTRXaXFlUnVZeXBYTg?oc=5	瘟疫
 2026-10-23	臺南流感疫苗接種破31萬人 連假增設接種站、打疫苗可領健康幣	https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lWG41OWQwYjhMdmpaN2V1VjhfY0J4T2M5a0haa3hBcXVNS21BOXhtMG5EZ0RENFdnUndYN2tXdzBCMWlnMFNYaXhUeWdDakQ2aHc?oc=5	疫苗
 2026-10-23	絲綢之路的經濟邏輯——貿易、宗教、 技術與瘟疫	https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVHdYdXRGZnllT1BiSXNWOTRjNnBPZlA2MElPTGI5dHU0N21QY0J3Y0xQTWprYV9TTXhjSVA0bmVsU201MGlNRWZuTWRzT0QtS1VWMWVZX0J4Sm15ekJwbGNlajlvcFlaMDZ6dzBCVGNlZWJzdGdCRTZOWkpWZkVLMjN4cGdEV0dBVHVOMTY2MmJLdndRb0FUUHhoWG1DNFo0Wk5ZQzUwVTZuRjg0eW9RZjhuNmpwUG9NOU5SWDF1NUNtTktlblJJQkwySkpOa1lia2xZM2RfNmRJOUFqVXJpejRYX2FadEk0UFU3RGY4QzViWGhRSzcxaFZreVk1T0hBNy1wMzdMRk5Xa21uTUVQY0dTY2RocWJtc3E4RDk0YmdlUWdtWklsVHY5MkdodUc4TVpYeTZiTGhpU29CR2pmSWxRR1FVNl9GUHdEVzBTMndrR1JsM3Fr?oc=5	瘟疫
@@ -314,6 +319,7 @@ var DATA_PLAGUE = `
 2026-10-05	歐家榮：猴痘個案上升 特點以本地感染為主	https://news.google.com/rss/articles/CBMid0FVX3lxTE1xdlhWNS1OaVRfYVVKUWxYRFpWbTVOdDdaUEw2SHVKZWRxUkVUbzlIWE91RW4zeGVVaDFic0k3cFJkVlVhQXVGTWFFWmJlajdudjBMbzhJSnBrNFNVZzhaajhSU3JmaXNFWXZDMlBhUjVyU0R1WDdj?oc=5	猴痘禽流感
 2026-10-05	俄羅斯研究所疑打碎鼠疫試管 28歲女實驗員染肺炎不治 涉200密切接觸者 (15:31) - 20261005 - 國際	https://news.google.com/rss/articles/CBMi9ANBVV95cUxNMGFJWEZHclZZRUtmVzRJblY4cl9CVWhndVFTWEZ0djhGWm5zQzc1S2dlek5KVENDZHh6dWY2Z3Q1YWhETG9odlY2QnlRbGZkSW5BSHVpUkhvSS1VTDVrdG9UWTEzSTVWQlN6NTcwX0ZSbWFHZE5GTXJQMjczdkNjSllPS1FvZFA4Y0JvTGxoQjFUVFhqY0pRa21zbWRPWVRxWFdzX3p1c1lUclF5SnZZc3BmaEM1aDU4algxYzhRYXo3SFZIUTBfaDZuVjAyb3AyT2RGUHFJUk9uX05sSmtRVERDQThOS2NOTWdvOTlaRTlsYS1LZDdYSVcyaUl5dFRsVEJUZVgzYjY1T1lYc01obER0SENCZlk0U3lCdEFkQ1pOYTBDVHVwX1F0dDRGZnZNWlZ0aldlenI3TWZZV2VPeFVmemJYcGR5RUpPZFJvQzVPckJvS21LOV9nNFMxaDA2aDV0bldKa1RGMWtfRUpQYlp1S2xialhIMnY1YUkxZDRSZUQ3UVB3RC1HYmN2cXlBY1RNZlQ2bTVUNUxBc0xhczl0MXMteU1hc2F4YVRod2s4U2hSQXFHRV9ZWjRXMEZGV29iZlE2N0JJM0xGRmJJWnU3VG81eU1DbXBJdTdKbkVoWlVWSVBJOVFuX0NOYVhsZzYzeQ?oc=5	瘟疫與疫苗
 2026-10-05	俄羅斯實驗室有研究人員疑染肺鼠疫去世 當局隔離近200人	https://news.google.com/rss/articles/CBMib0FVX3lxTFBrMURyTGJTYllBMjdITndFek1TVTNub3pvMzhuR2E1MEp3ak51ZWZtQkxlUUVVVUhneS1abmxLMUozNkhldjJsN25OcEFIUnljaENCYlJpRy1yNXNxbjVyd3hsekRRWXN1eTBfdkVSUQ?oc=5	瘟疫與疫苗
+2026-10-05	俄羅斯實驗室人員打破活菌試管疑死於肺鼠疫 近200人隔離	https://news.google.com/rss/articles/CBMimwNBVV95cUxNMUFDa05wbTRIM0JrbmN6cTVlTGZzdlRnZzV3Z2xXVDkxS2g2U3BuS1prTkFsWEl4Nk40NFA2S1ByTUJMTE1PVl9DbV9rek1tN0RhWk81eG5ZcFU2WjlJNmJQaE55RmRaLV9hQ2U1LTRDQ3FFeUhuOURKUkE4RFJBQ19PVTVDa1d0RzJ3NnZ3TUxQV2RFbzBTaEUyVUFXWU96Q1pERkotRkVDMkozN0RpaXVEOEhMY1B6T0ZvZXludGxMNEV4ZFd6a1N4U20teTZBSHJJcXpWZ3RaTU41SC1PRDF2ZEROYnNhZ2dEOFBMYU94c1liVTFlMjY1RW9wOGY0Qkpaem9wVHpWNTE1Qm4zYUFXNDlPcGMzZ0o3Y0U2Z203aW5VanZrcE51SVdzQjVrcXNTMTJLSjVwNGltd056b25uUk9hakNEdDZVei04aVV0VDA1SWlUVkU4UzNTMkhIc1RIQWZwVFc0Q3dkbjlENGxSdWI2RHRmTW8xUzluRkFxYzFkWFBsbjg5X19rTElZeGd4eDhlcUVmeTA?oc=5	瘟疫與疫苗
 2026-10-05	伊波拉疫情爆發失控？已奪逾4000命致死率近半 成非洲史上第二大疫災	https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnRSMjhtN1hqZDNsSC13NXZxNlk3QS0yczhDMjk5UWhmcEpkYTlpNjkwS2NBVGRPYWE0WGpwS0djVmNtOTVnTXNOMDdfalF3bnItOXBIV2JDdFhlRkxJdTh0NDZIeTFHUERTYUNNaWI2M3h5NFV1cmtBcmJOcjBBUTMwVTVXMkRrT1E?oc=5	其他瘟疫
 2026-10-03	真的不能大意！彰化本土登革熱群聚感染擴大 131人篩檢揪出3陽性	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBscmtsX3JHa3pwd0lObnctN2pObDN1WFloVlpGNUE1VURqcUpQX2J4WkVoSjQyZUJncHlFSDJGdHhqT1RlenpkcktESF85Q2tzSVYtRjhTbjZVUGtRSjZleFJ2QlE?oc=5	猴痘禽流感
 2026-10-03	9歲女童感染乙型流感併發敗血性休克及嚴重肺炎 情況危殆	https://news.rthk.hk/rthk/ch/component/k2/1872566-20261003.htm	其他瘟疫
@@ -1031,6 +1037,7 @@ var DATA_PLAGUE = `
 2023-01-18	疫情｜增3793宗確診 多56人死 疫情持續回落 惜再增56人病歿 另增56人病歿，涉33男23女，年齡介乎52至100歲，當中17人來自院舍。接種方面，有16人無打針，有6人已打4針、30人已打3針、兩人已打兩針、兩人已打一針。醫院管理局根據初步分析，當中36名病人的死因與新冠病毒有關，其餘20名病人則無關。	https://hk.news.yahoo.com/疫情持續回落-惜再增56人病歿-214500604.html	其他瘟疫
 2023-01-18	4歲男童確診3日後併腦炎不幸死亡！指揮中心揭死因	https://times.hinet.net/mobile/news/24366835	瘟疫
 2023-01-17	差很大! 中官方稱6萬病歿 外媒估死58.4萬人 - 華視新聞網	https://news.cts.com.tw/cts/international/202301/202301172133279.html	瘟疫
+2023-01-17	【病毒感染】5個月大女嬰染腸病毒 腦損傷昏迷搶救近兩周不治	https://topick.hket.com/article/3443887/【病毒感染】5個月大女嬰染腸病毒 腦損傷昏迷搶救近兩周不治	瘟疫
 2023-01-16	直播／今本土新增15409例 40病歿、223例境外移入	https://udn.com/news/story/6656/6913825	瘟疫
 2023-01-16	COVID-19確診1/16公布15,409本土40亡 第三波疫情高峰已過	https://n.yam.com/Article/20230116513272	新冠相關
 2023-01-15	本港確診數字持續回落新增個案跌至6261宗 多66患者亡︱疫情	https://hd.stheadline.com/news/realtime/hk/2399321/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E6%9C%AC%E6%B8%AF%E7%A2%BA%E8%A8%BA%E6%95%B8%E5%AD%97%E6%8C%81%E7%BA%8C%E5%9B%9E%E8%90%BD%E6%96%B0%E5%A2%9E%E5%80%8B%E6%A1%88%E8%B7%8C%E8%87%B36261%E5%AE%97-%E5%A4%9A66%E6%82%A3%E8%80%85%E4%BA%A1%EF%B8%B1%E7%96%AB%E6%83%85	新冠相關
@@ -1062,6 +1069,7 @@ var DATA_PLAGUE = `
 2023-01-05	新冠病毒變種XBB.1.5引發擔憂 我們對它了解多少	https://www.bbc.com/zhongwen/trad/science-64172149	變種
 2023-01-05	台灣新增3.1萬宗確診多45宗死亡個案	https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1682638-20230105.htm?spTabChangeable=0	瘟疫
 2023-01-05	北海道南部409人感染，函館282人新冠 5人死亡	https://www.47news.jp/localnews/8774365.html	新冠相關
+2023-01-05	今增2年輕死亡個案 20多歲女家中昏迷死後確診│TVBS新聞網	https://news.tvbs.com.tw/life/2009409	瘟疫
 2023-01-05	中國多地現嬰兒危重肺炎 7個月嬰器官衰竭亡(視頻) ｜ 中國嬰兒 ｜ 中國疫情大爆發 ｜ 重症肺炎 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616985.html	其他瘟疫
 2023-01-05	【禁聞】記者直擊：安徽27歲青年染疫亡 父訴詳情 ｜ 年輕人染疫死亡 ｜ 新冠感染 ｜ 殯儀館 ｜ 新唐人電視臺	https://www.ntdtv.com/b5/2023/01/04/a103616893.html	新冠相關
 2023-01-05	4名患有基礎疾病的老人死亡......岐阜新冠2281人新感染者醫院等3個新集群公佈	https://www.fnn.jp/articles/-/466624	新冠相關
@@ -1261,6 +1269,7 @@ var DATA_PLAGUE = `
 2022-05-22	猴痘範圍擴多國！世衛官員揭「關鍵傳染途徑」：近距離接觸	https://www.setn.com/news/1119586	猴痘禽流感
 2022-04-11	上海疫情爆發致中國防疫政策搖擺不定	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wdDZrRTYycFJpN1dCYVRLcjRubFZkUnVPUU5ZdFA2Vl81eXdqdTZPZDZiaFZULTBPZ0hXY3UyNXVWckJHbUpKVTQ3eDJCUE1qX3ZyQ01kVFNyTkpoSGtSZlh5dkhPQdIBa0FVX3lxTE03R0JnWkpUbXZWLUNGYnZCLVFWa2ZHSzR0LWNzejJkaEhybzNzcTloVFppS2ZSZEMySHR4eXBqZjVKSTFDcnN4ZG5TWmlqSFUyd0E1ZUpJc2dmbHpRdEpCTGZmRm8xbGlsbTZ3?oc=5	其他瘟疫
 2022-03-11	(未接種疫苗得流感 老翁14天亡)	https://tw.news.yahoo.com/%E6%9C%AC%E5%9C%9F-29922-8%E7%B8%A3%E5%B8%82%E7%A0%B4%E5%8D%83-%E5%A2%9E81%E6%AD%BB-40%E6%AD%B2%E7%94%B7%E5%AE%B6%E4%B8%AD%E6%98%8F%E8%BF%B7%E4%BA%A1-060339171.html	疫苗
+2022-03-07	疫情｜西環8歲女童疑染疫後發燒昏迷 送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/743830/%E7%96%AB%E6%83%85-%E8%A5%BF%E7%92%B08%E6%AD%B2%E5%A5%B3%E7%AB%A5%E7%96%91%E6%9F%93%E7%96%AB%E5%BE%8C%E7%99%BC%E7%87%92%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	瘟疫
 2022-03-03	八鄉兩歲半女童發燒一度昏迷 新冠病毒快速測試呈陽性	https://www.hk01.com/sns/article/742399	新冠相關
 2022-02-16	新冠病毒變異株：「超級變體德爾塔克戎」和奧密克戎 我們知道些什麼	https://www.bbc.com/zhongwen/trad/science-60393045	變種
 2022-01-23	郭可盈一家打新冠疫苗 林文龍凝重囡囡望到實	https://www.stheadline.com/realtime-entertainment/3025609/郭可盈一家打新冠疫苗-林文龍凝重囡囡望到實	新冠相關
@@ -1333,6 +1342,7 @@ var DATA_PLAGUE = `
 2020-02-05	新冠病毒疫情爆發至今大事記	https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5VjZ6bHpCNjBDZlQzYWNqb2J5dUdFd0RXckFfcDR0THgwcVhzMHo3WkpnbWZXWGt1ZEdUZXQtT1ZlR1pkcEw4WFplWDU1cVo1eGpULTJTUmljeHpEZDZNQWRxWW5wd9IBa0FVX3lxTE56WDJ0SHJVNW1aYUY5cDNtVW95YTdBOUp2M2QwS1VZRDQ5NUlva2NaY0lpbHBIQ1Z5aG1IWWEwWlV6ZXFhb05jenZjdng3NHRncUNGVkdFQTd0b010ZUtEejNWX3RHOFVGWXdr?oc=5	其他瘟疫
 2020-02-05	新冠病毒疫情爆发至今大事记	https://www.bbc.com/zhongwen/simp/chinese-news-51382117	其他瘟疫
 2020-02-01	武漢肺炎：病毒到底如何影響你的身體？	https://www.bbc.com/ukchina/trad/51329855	其他瘟疫
+2019-02-26	打混合疫苗針後發燒昏迷 沙田歲半B仔送院不治	https://hk.on.cc/hk/bkn/cnt/news/20190226/bkn-20190226075904131-0226_00822_001.html	瘟疫
 2017-07-04	未來接種流感疫苗不用打針 只要貼貼片就好？	https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EcHJDYmI4d1k2NzZ6dHJuREhsRmVQM1I2UzhRMy1TdXhnQXZGTm1CamVqQlFmajRHcFdNb0tDSlpEZHc0cm96eE5Oaw?oc=5	疫苗
 2015-09-07	【必知】出血期是關鍵！「登革熱」如何避免重症及死亡風險| 生活	https://www.setn.com/news/94036	瘟疫
 `;

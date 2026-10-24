@@ -1,8 +1,13 @@
-// 離世 | 由 htnl_build_news_js.py 生成 | 共 6377 條
+// 離世 | 由 htnl_build_news_js.py 生成 | 共 6395 條
 var DATA_DEPARTURE = `
+2026-10-24	金正恩傳病逝北京！「替身照瘋傳」網揪3細節不同	https://news.google.com/rss/articles/CBMiuwJBVV95cUxPTVhyLVFfREtBcUxJUTRtOEJxUWFFV1djb1VaajFiM2xqV2VJbjBCcG9xSGUxOWtwVk95UTZrbVY1THpLQ25IczFFQTl5cVpTcHVOcVZvVU5uQjBCWlVENHdheDNFUmlKTnJpS1JocUppbDFqdkRzX1dqZW9WSE1qcWRkMjNabGpiaE54clJxZTlxNTBCUHhpRi1qVFBvRFpKU3FNQlBEc2hVNUwyb2dxZ3lybEpOWDF3ZzU0YWFiUHZPT3BKVGZKMl9udWJBbk5KM2Z3Zk5hVW9ZMk5CdFk3eUU0aWVVNi1zSnZGVG51N2RuY3M1ZDh1T2FFeVlDeWF2ckVITnBQSXNSN25FcUlkZ21Sb28xc3Q3dmUzNjZMTTBaRzlEdFRvaUlMVmhibVV3VDc2aFZ5ZGhmenc?oc=5	自然離世
+2026-10-24	超人氣「無尾熊」驚傳病逝！粉絲獻上祝福令人不捨	https://news.google.com/rss/articles/CBMihwFBVV95cUxNazZ5ZXN2ZG0tMjhiZnVtMS1jOUg3WEVaVmpYcVB0ajVBWlJIak9yeS1JbEE0b1JCY0VRci1VWE5iYUFFck5ZZWVPSWJKajlfVnBSZW1zNE1XMjNoN0ZGNk10UFNtcVdNVmFZTUYyRHJpUlpxc3lPWkwzSHowdjl0MGdzYjh4bWc?oc=5	自然離世
+2026-10-24	詭異！美國第一家族42歲孫女突然離世，“甘迺迪詛咒”真相被揭開…	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FYzlOT2dfSUhlT2NtOEJRcFlXazFXbDFtOWdkNVZGY1h1dm8yaG8tVWhIYjM4Q3NRQ1BPaVBFT2dWNzV6N21NZA?oc=5	自然離世
 2026-10-24	藍田七旬失蹤翁尋回 公園內證實死亡	https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmlCRDR1TXJwdXdUZ0JURUFKdld6eWtMdUR5UENpZDJOTVJLN0NqWHNmRy1DQjF3V3E1OS1xV1hsbmU4aDJsZ0hnTE0zZ0tzTDEtM3kwM1NqLVdzVEVXMGFPWW54Ri1ySDJJZXNFbTU5Q1V5VlR4U05xcHl2aklFeTA2TjhMWUFrQnZpbm13?oc=5	自然離世
 2026-10-24	義在甘心自殺身 再論清華校長	https://news.google.com/rss/articles/CBMiSEFVX3lxTE84YXJuRkZjOXZMcVpnWmZBU2thc1BpVFNJMHNQM2VoQWFsRDlTeTZoTllHS3J2Y2NIRTNqZDdnbFVIbjdjeWJYRg?oc=5	自殺
+2026-10-24	珍惜生命｜西貢康定路男子車內燒炭 現場證實不治	https://news.google.com/rss/articles/CBMi3AJBVV95cUxNYmVCUGV4ekxiTGxJdDR0Vk10dm5fTmtocGtNZzMzWFYxV0pJdFkxNDhxbzRHZzdxRmtWOTNSUzVCOFBhQ3lZZzYweExRNVFTUWNlQlNjWjVqc1hkUUx0aUtaMnVoU0lrNndyajJCaE9pcHJ1bjhrc3Y5VnM5eHl2X1BoUFNuN1R4ckFPdFpkdDhiQnc4d050SFg4TDladzNVd2YwQnZzbGdzQ2o3ajZiMllLTHFlVFdaUlhYNDR2b2xDSmRIeDNqa1lsMzMxSmZvNS1DWFdJSGozc3YwRVl3NUdfRFl3LVRFMGpnVHRidDdDUEQwMEh2SDBBNnlwLTNJYjIxTGtXYWoxd3hpZUdiVkJtSVdRdk53b2U2Um85Qlh4NllPQ3VvczBCc3ZmS1l4QXltZndObWc1NlBYVHZlNWFfQUEtWWpaYlE4Sko3SVFoWm5WQS1XRDNhelg?oc=5	自殺
 2026-10-24	才剛甜嫁8個月！34歲實境秀女星安妮卡乳癌病逝 粉絲湧社群哀悼 | TVBS	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fNWJEaUdWR05pdEtVaUxTeWhROUxma0hiYkFnM0tMTFBac1NKQng5S25ZSHhPb3Q2ZWxoU2gtRV92OUtvSE1MaGVuRTVqWlNPVEcxc3Zn?oc=5	自然離世
+2026-10-24	34歲女星傳病逝！新婚才8個月不敵乳癌 摯友悲痛證實：失去靈魂一部分	https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NYmFaTUxKdHlQNTZqa0dBRG5KZFVjVDJzVzFDNE5UeDVJV1lReE5YVVBWdi1Rb2N3TjdWMm5YQkZ5S2RESGJ4RnNn0gFfQVVfeXFMTzEzY1dqQkJPVFRXQ3pjMDBNVVVVekRwdlhiSEFpV196cjU4S3BOVDhBeldaS1FOOURoZ3BJeGxRcEZwN0htVjZqVXRGWkpNRUloZlhzc0F4MzJZN3ZEUEk?oc=5	自然離世
 2026-10-23	金正恩驚傳「腦出血病逝」！南韓最高情報機構回應了：均為謠言	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RZHlNdndPTXl1N3Nldm1QbzVxN2JnUW90R0F5Vi1JSTBMLVIwT0ltN3F6NmpkR2NMSlozTUFHZ1EzZ2c4MEo4RUlQeUdJMzQ?oc=5	自然離世
 2026-10-23	金正恩腦出血病逝？南韓最高情報機構正面回應	https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOXzl3VUR3aUhCNXZOZHdHWVRSZm5JREJWX2I3Njk3UVA4cGpHRGwyM09GMlJCeXpEQU56SXl1VnFFUTZzMTgtZDBTREZ2aldRWk5J?oc=5	自然離世
 2026-10-23	金正恩傳「腦出血」病逝！全球瘋傳 南韓情報機關說話了	https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hMjZWT25GT1REeU9kQlFJZVZncV9MMTd2ZmhPOG5nMUZmZllvV1BSM1ZOWm9yOHZ4cDVyejNDTDJyYXB3cWFRWTVKbHpmQQ?oc=5	自然離世
@@ -30,6 +35,7 @@ var DATA_DEPARTURE = `
 2026-10-23	11歲男童遭21歲契哥肛交侵犯強逼口交 心理受創曾自殘自殺 契哥認5罪囚9年	https://news.google.com/rss/articles/CBMiyANBVV95cUxOODd5Tm9obVVsc3k5NGEwSjdGbGxZN25nNVoxYk9NcWs5d0taUDMxU04wZUNJU3dqbE9KSzdqTTlmU21zcHRuM1JuVWlIalFnUkdoT3hTQ3NvZ3E2OEVUNFZZOHBXbExyMlg0RUdJZlItemJsNlJmeVctRDd2N3pwS0R2U3pkM2pGWWdCcHN4aVJBazV3MFBGNzdQenNkWDFNdks3dVAxZEhjUlZHYzYtV2dyek5nSDNIY2dERzNfN242VG9ZUjV5ZzdQYTF3M1VldG00aGpfd2dSWm9YbmdOZFlZUHprS2E5UmRucU9sX1J3M1JLZkxYZVNZTGpyZXB6WWNTYWZfZU5RTm9VQ0xxNEpSajZQSmpuRUpSUEtMcWF5TmVabExrM0hhV3VxdFg2UUItcXJCUmhFLURGMkZ6ak1DTVF4aHcyalJCUUh2RGtZU2p6Ml9KMmZzTnAxcXpDNGxqQjRjellrYnJvRXo0UkpLU1o4WmMtYWxLX21BMWREdk1pdUZjaEhwaXF5MnF5Y0pOQ05IMHlQSnAzaUd6NEpFX3FrVlhYdjRjSWE0VFNva0EwV0NrMGJpV2d0SDFYTEN5Z0lPeEo?oc=5	自殺
 2026-10-22	鍾慧冰沉潛半年重新出發 分享面對摯友離世的啟示與生活轉變	https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1doWnNlRUV0ckVMeFdLUmFLN1BRTEJzangyNTBLcnE3VEpIZ05pSFRMN3RVdmxESU1KMC15UFFKU05Cb1pSNElGN0dBcGR0TzRkQ21SUGliTlhsazlIcnc5OUdXYVJsU1FtNl9RNmtqTm41V1FtaDVSa1lfSXpuYW93enJ3WUNrSG4tU3RlM3gxNF9WMldiS0FKTldtR1U?oc=5	自然離世
 2026-10-22	金正恩又傳病逝！BBC揭死訊瘋傳兩大原因 | Newtalk	https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxTlBadHBON2YwTDZ2cEppYkFzeGVubFp3ZGk2OFNuaUZBbHNPQlU0Z0Y0aGtuLWFUZ2VIREtIYzlmc3ZES2pTeHI5NnpMSDVNYWcyMWd3?oc=5	自然離世
+2026-10-22	連假前夕狂瀉846點！官股自殺式護盤沒在怕「對幹外資買超前10名曝光」榜首竟是這檔面板大廠- 上市櫃	https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMHRqUUVfaDA0QzJYWmJrZUF2MHk1LWJWSmludnJ2cy1MRUFxRzN3N0N1SXpJM3NUVjhDd3NtRm95cVFneHd2U0JhaUdpRTVmcGs2endkM3Q4Q2VMT2dLVUFBOTdrZ0xLM3c?oc=5	離世
 2026-10-22	警員朱振國離世 母親21年堅守見證母愛力量	https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFlZSFpyOTRfOXhqeDRpcVlmVDBtUGM1cG5TejFrZzlXbUlrZFlzZlpSTXdQWGZ5Z2drSEJzRWZTTW9LWU5jSWRLV0prYkU3YVhONGFfRE5HVm5vYXNnb2d6VDQxYzJ1RUNhby1OWmRvMVpUYUlNLU50VDR2ZmY4QmVTOEFPT2hGSWhGSXdsTElzWUU?oc=5	自然離世
 2026-10-22	記者會突淚崩！林韋君哭曝警官父「大腸癌擴散病逝」：延誤就醫時機 | 三立新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wbVNzVk5JbnNhTUt0ZngxNGtPb2RVZ1F3cmRieHRJV3hiSk94RDBPS1paak5aWmhIVFl4RHJsa0dSVVcyRGIzY0d1VS1XdjlaVkVRMktn?oc=5	自然離世
 2026-10-22	荃灣縉庭山一名高級督察墮樓亡 警方：深表難過	https://news.google.com/rss/articles/CBMie0FVX3lxTE5DSDd3MHFiVXB3ajNfNDNQRXdLTlV2d2xnYUdjUmxDMzlNbkVjQ2pnRG5vMWNoTGx0Y2xIVENQYXlKbzNrS3dRU3RmYWd0anRFaFdSeWE5Sk9JWDJWcDlGaE5wcGxmSTBqZWdoS3lvbEpxd0YzSU5haGh6UQ?oc=5	墜樓輕生
@@ -48,6 +54,7 @@ var DATA_DEPARTURE = `
 2026-10-22	河口湖飯店殘殺同團女遊客 楊閔涵爆輕生	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LWWVjTVB2Ym0wT2RtckZIMUxydG84Zlh3X3RuVFUtdTloSUVkMkU4eEFldW1fWWhXbnpIQWJQRHd5aGM4OURLUl96SVB2dHJ4bUow?oc=5	自殺
 2026-10-22	曾與Justin Bieber傳緋聞 澳洲34 歲泳衣模特病逝死因暫未公開	https://news.google.com/rss/articles/CBMi7AJBVV95cUxOQjVkbXhOLXVOOWppcFg4akEtTzU1SUQ0X29RcmNpXzRoN2ZuNjV2NXJLU3pKRTNVZzNHRnRZX3lnd0ZvZHAzUExWeGJGdWNEanFoeEZJcU1tQUEzaWo0ZndUNEM1bk5zN3p5UlJNMURVMnNHcS1WWjh0RmNXYXBObVBTMTMzVExQWTFUMDhKS2lsUGZjX0RvU3hvWUNnR3NraHVCZUQycVB2MU9LNEpXa0U2RGJuZThJX3JpSmsxZGZVM0p4R2xYS2hYeWMyQkE4a0pqaHdsT0dXWnJ0SldzaHp0bVVldzhZMFN2cTM2ckIzR2lTSXZlLXZqMGRTOFY0dThJWGl0MFRGVlA0Z09wQzBmRmRBMXVyYzBLOWxDNHg3aVZWU2N5dkt0cmFPSVBfTy1YNi05VHg3bERpQ1R6ZFpvOHZ1WEROeFlVdm1mYnZZOS1IQzhURVRQUVN5NlBBY3RRVHdFWUpOSnRz?oc=5	自然離世
 2026-10-22	星島頭條LIVE｜朱振國離世 警隊舉行最高榮譽喪禮	https://news.google.com/rss/articles/CBMixAJBVV95cUxNMkVEU296U0FEQ0V2eC1yV1FzZkxLTUU4QzZVTi04T2hTbmxsU0xOMzhBN1BDV3paZE01TVZoaEtyOEdBclhESjhlenZxdlQtMDd1WjJ2Y1BTYlJCbWFQbmV1OXZ5dHNsZ01tTUZ1bGFkX19WSld5T3B5ZG1KMk54alZmNVI1OUU5NWR4UFNDU2h5ZVJtZnZwRFhUUjhIdldRdk1GbVVVbmx4aXJhYTZINHRFaUpHaXA1U2NXTEdRN0xnN0dwcFBwV2JXankwdDM3cEIzU1Q1QXNqb2pHRUQ0Tm5adWZWdEJzcXN5NGlNVGpzOXRnZTdXbFhFWXp6SUhpR3Q2dkJ4SDN3MW9LNUJVeVRiWmdCR3NWSGx5R1hWVVVtMUotTDJ6RHZDQ0FPNERSWGUzWDNXeU5PMnI1N3ExZnQyVFQ?oc=5	自然離世
+2026-10-22	昔救輕生婦獲「忠勤楷模」 汐止警涉替博弈業者查個資遭拘提| 時事	https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwU1hNWU9VUkZiRGl2ckFBZXhqZnA1WHYzdTZTM0g5V2lCZGdxRHZiQWdFaEx0dDJsTFBkSVoxT3hHOU42N2l5QkZR?oc=5	自殺
 2026-10-22	明慧新獲悉35位法輪功學員遭中共迫害離世	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WQXNQc2pLdzBwTFd0alcteTlLMkhFeUozTlhTbzRKanpibVR5NWV1WjlJSHpFMGNFcVlaNkxTNFVsdC1XQTJ5Mk9nQjcwZUJvVjRUUWJUM2pVc2NxV1pXNHZ30gFnQVVfeXFMTXdlbjFyM2IxaEFOSUV0bkZJc1JXeTg3Q3gySnVNbWw0anJmdzNFcVBSTjVNTFlqOUxhNksxX0JKSU1yQjRuZWppTmNfV1hSTDdxcnpuMnRGSGtjUWl5Y1JjZXNHZlkwdw?oc=5	自然離世
 2026-10-22	性侵4女童丨大專生囚10年 官斥致受害人輕生仍無悔意	https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdHJ1NGJEUmtXUWJFLXR6UGJ5d2RMWURmOHVqS2pBUnIzQTJJekJKd3p4ODJBU2RSYjhKdHlhSW9udG1RdEtjdnlFTk9weXNjZUIzSF93eXVjcmY3bGt6SkIxT1NNOUVMMlRMeTRIOTVDdUJGbDA0TmxVQURncDJzUGpFdHVLd29RLVljMXBpTm4yb1ZxLVh0UF9MbjJqcFRhVVhWVUN4MTFKWU41UVQ0SC1BcDY3RVJBWW01ODZ2cjFtSjcyTUJyREdYM1lfSC02THFRTjFpZFEyUmQzU1JCQ0xfUElCdE9ELWFJUDVWOEJmZGEyTTNqOVJvV3JWb0xfTW5hU1dNckVIQVRHSFZqOXJfUU5BZnpSY3ZDQ3pLcmw4NkZ2QlhiYTB2YWRvLTVqaGFJU2kwWDh4a25WQzg5RHQ5VjN4OHZCOUlhQzYwd05JTFlFdGFraW9wcmlydFpLdVpWYjF1UGtwT3g3S3lr?oc=5	自殺
 2026-10-22	快訊／基隆信二停車場30歲男墜樓倒花圃死亡！警拉封鎖線調查	https://www.ettoday.net/news/20261022/3259198.htm	自然離世
@@ -3493,6 +3500,7 @@ var DATA_DEPARTURE = `
 2025-11-17	珍惜生命│筲箕灣老翁高處墮下 肢體分離當場不治	https://www.hk01.com/突發/60295057/珍惜生命-筲箕灣老翁高處墮下-肢體分離當場不治	自然離世
 2025-11-17	桃園商辦大樓男子墜樓亡！ 身分死因待查	https://www.tcpttw.com/other/other_local/2025/11/17/218802/	墜樓輕生
 2025-11-15	馬灣珀麗灣88歲翁疑晾衫失足 墮樓當場死亡	https://www.hk01.com/%E7%AA%81%E7%99%BC/60294685/%E9%A6%AC%E7%81%A3%E7%8F%80%E9%BA%97%E7%81%A388%E6%AD%B2%E7%BF%81%E7%96%91%E6%99%BE%E8%A1%AB%E5%A4%B1%E8%B6%B3-%E5%A2%AE%E6%A8%93%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1	自然離世
+2025-11-15	慈樂邨護老院老翁自縊 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20251115/bkn-20251115075025499-1115_00822_001.html	離世
 2025-11-15	德克薩斯州眾議員岡薩雷斯的工作人員雷吉娜·桑托斯-阿維萊斯死亡，裁定自殺。	https://citytimes.tw/資訊/德克薩斯州眾議員岡薩雷斯的工作人員雷吉娜·桑/336832/	自殺
 2025-11-14	屯門七旬翁幫朋友修理窗框 失足墮樓當場死亡	https://www.stheadline.com/breaking-news/3517971/%E5%B1%AF%E9%96%80%E4%B8%83%E6%97%AC%E7%BF%81%E5%B9%AB%E6%9C%8B%E5%8F%8B%E4%BF%AE%E7%90%86%E7%AA%97%E6%A1%86-%E5%A4%B1%E8%B6%B3%E5%A2%AE%E6%A8%93%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1	自然離世
 2025-11-14	天水圍男子樹上自縊 證實當埸氣絕	https://hk.on.cc/hk/bkn/cnt/news/20251114/bkn-20251114145252219-1114_00822_001.html	自殺
@@ -3811,6 +3819,7 @@ var DATA_DEPARTURE = `
 2025-09-13	化妝品公司D-UP 社長職權騷擾輕生員工家屬獲賠	https://www.msn.com/zh-tw/news/world/化妝品公司d-up社長職權騷擾-輕生員工家屬獲賠/ar-AA1MknrX	自殺
 2025-09-12	珍惜生命｜西環堅尼地城男子墮海 昏迷送院搶救不治	https://www.hk01.com/突發/60275698/珍惜生命-西環堅尼地城男子墮海-昏迷送院搶救不治	自然離世
 2025-09-12	珍惜生命｜天水圍天恩邨女子墮樓 送院不治	https://www.hk01.com/突發/60275683/珍惜生命-天水圍天恩邨女子墮樓-送院不治	墜樓輕生
+2025-09-12	珍惜生命｜堅尼地城男子闖廢物轉運站蹈海 昏迷送院不治	https://www.stheadline.com/breaking-news/3498702/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E%E7%94%B7%E5%AD%90%E9%97%96%E5%BB%A2%E7%89%A9%E8%BD%89%E9%81%8B%E7%AB%99%E8%B9%88%E6%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	離世
 2025-09-12	有工人墮樓死亡僱主被罰9萬元准分90期繳交 律政司提出覆核	https://news.tvb.com/tc/804833-%E6%90%AD%E6%A3%9A%E5%B7%A5%E4%BA%BA%E5%A2%AE%E6%A8%93%E4%BA%A1%E5%83%B1%E4%B8%BB%E8%A2%AB%E7%BD%B09%E8%90%AC%E5%85%83%E5%87%86%E5%88%8690%E6%9C%9F%E7%B9%B3%E4%BA%A4%E5%BE%8B%E6%94%BF%E5%8F%B8%E6%8F%90%E5%87%BA%E8%A6%86%E6%A0%B8	自然離世
 2025-09-12	日本七旬翁疑用自製手槍爆頭自殺	https://www.am730.com.hk/國際/日本七旬翁疑用自製手槍爆頭自殺/598604	自殺
 2025-09-12	Vlonjati 結束生命，在家中上吊自殺	https://www.gazetaexpress.com/zh-TW/vlonjati-i-jep-fund-jetes-vetevaret-ne-shtepi/	自殺
@@ -4231,6 +4240,7 @@ var DATA_DEPARTURE = `
 2025-05-13	粉嶺屋苑女子墮樓 當場證實死亡	https://hk.on.cc/hk/bkn/cnt/news/20250513/bkn-20250513123723469-0513_00822_001.html	自然離世
 2025-05-13	珍惜生命｜荃灣大帽山男司機車內燒炭撼樹 途人報警救一命	https://www.hk01.com/article/60237817?utm_source=01articlecopy&utm_medium=referral	自殺
 2025-05-13	珍惜生命｜粉嶺One Innovale女子墮樓 當場不治	https://www.hk01.com/article/60238030?utm_source=01articlecopy&utm_medium=referral	墜樓輕生
+2025-05-13	珍惜生命｜尖沙咀釣魚郎揭70歲老翁海中漂浮 昏迷送院不治	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/560045/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E5%B0%96%E6%B2%99%E5%92%80%E9%87%A3%E9%AD%9A%E9%83%8E%E6%8F%AD70%E6%AD%B2%E8%80%81%E7%BF%81%E6%B5%B7%E4%B8%AD%E6%BC%82%E6%B5%AE-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	離世
 2025-05-13	珍惜生命｜佐敦道賓館男租客燒炭昏迷 職員揭發報警送院	https://www.hk01.com/article/60238154?utm_source=01articlecopy&utm_medium=referral	自殺
 2025-05-13	珍惜生命│尖沙咀老翁墮海昏迷 送院不治 岸邊尋獲祭品香燭	https://www.hk01.com/article/60237809?utm_source=01articlecopy&utm_medium=referral	自然離世
 2025-05-12	珍惜生命︱觀塘道地盤外男子自縊 消防解下 當場不治	https://www.hk01.com/article/60237589?utm_source=01articlecopy&utm_medium=referral	自殺
@@ -4434,6 +4444,7 @@ var DATA_DEPARTURE = `
 2025-01-12	北市麥當勞17歲工讀生遭性侵輕生！「生前最後身影」曝 母慟喊： 為什麼要棄我而去	https://www.storm.mg/lifestyle/5308161	自殺
 2025-01-11	不敵肺癌折磨 63歲彰化縣員林市長游振雄今晨病逝	https://news.ltn.com.tw/news/politics/breakingnews/4920292	自然離世
 2025-01-10	邵家臻病逝｜妻子發文指因胃癌手術後現併發症 稍後有安息禮拜	http://www.hk01.com/article/1092673?utm_source=01articlecopy&utm_medium=referral	自然離世
+2025-01-10	義大利運動員參加成都世運會 比賽中昏迷搶救無效離世	https://www.msn.com/zh-hk/news/other/%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%81%8B%E5%8B%95%E5%93%A1%E5%8F%83%E5%8A%A0%E6%88%90%E9%83%BD%E4%B8%96%E9%81%8B%E6%9C%83-%E6%AF%94%E8%B3%BD%E4%B8%AD%E6%98%8F%E8%BF%B7%E6%90%B6%E6%95%91%E7%84%A1%E6%95%88%E9%9B%A2%E4%B8%96/ar-AA1Kmkiu?cvid=9003d0ab36444259b46b586cf97370d1&ocid=emmx	離世
 2025-01-10	珍惜生命︱尖沙咀酒店客人房內燒炭 當場身亡	http://www.hk01.com/article/1092690?utm_source=01articlecopy&utm_medium=referral	自殺
 2025-01-08	珍惜生命︱元朗宏業西街男子墮樓 昏迷送院搶救後不治	http://www.hk01.com/article/1092062?utm_source=01articlecopy&utm_medium=referral	墜樓輕生
 2025-01-06	珍惜生命｜馬鞍山富安花園中年婦墮樓 當場死亡	https://www.stheadline.com/breaking-news/3417153/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E9%A6%AC%E9%9E%8D%E5%B1%B1%E5%AF%8C%E5%AE%89%E8%8A%B1%E5%9C%92%E4%B8%AD%E5%B9%B4%E5%A9%A6%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1	自然離世
@@ -4562,6 +4573,7 @@ var DATA_DEPARTURE = `
 2024-10-28	瀑布灣女屍案｜公園一女子倒斃瀑布底 疑遇溺死亡 - 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/14144044241097/即時新聞-瀑布灣女屍案-公園一女子倒斃瀑布底-疑遇溺死亡	自然離世
 2024-10-27	珍惜生命｜海怡半島男子自縊 妻子揭發報警惜太遲	https://www.hk01.com/article/1070323?utm_source=01articlecopy&utm_medium=referral	自殺
 2024-10-26	珍惜生命︱屯門女子上吊 送院不治	https://www.hk01.com/article/1070053?utm_source=01articlecopy&utm_medium=referral	自殺
+2024-10-26	珍惜生命︱上水天平邨男子昏迷家中 母親發現惜太遲 送院證實死亡	https://www.stheadline.com/breaking-news/3395468/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E4%B8%8A%E6%B0%B4%E5%A4%A9%E5%B9%B3%E9%82%A8%E7%94%B7%E5%AD%90%E6%98%8F%E8%BF%B7%E5%AE%B6%E4%B8%AD-%E6%AF%8D%E8%A6%AA%E7%99%BC%E7%8F%BE%E6%83%9C%E5%A4%AA%E9%81%B2-%E9%80%81%E9%99%A2%E8%AD%89%E5%AF%A6%E6%AD%BB%E4%BA%A1	離世
 2024-10-26	屯門院舍6旬婦上吊 職員揭發送院搶救不治	https://hk.on.cc/hk/bkn/cnt/news/20241026/bkn-20241026065511562-1026_00822_001.html	自殺
 2024-10-25	珍惜生命｜赤柱豪宅24歲女墮樓 救護員施心外壓搶救 送院不治	https://www.hk01.com/article/1069713?utm_source=01articlecopy&utm_medium=referral	墜樓輕生
 2024-10-25	珍惜生命｜灣仔告士打道酒店房間內燒炭 男子由救護車送院	https://www.hk01.com/article/1069863?utm_source=01articlecopy&utm_medium=referral	自殺
@@ -4677,6 +4689,7 @@ var DATA_DEPARTURE = `
 2024-08-20	珍惜生命｜沙田禾輋邨男子疑墮樓倒卧平台 當場死亡	https://www.am730.com.hk/本地/珍惜生命-沙田禾輋邨男子疑墮樓倒卧平台-當場死亡/480584	自然離世
 2024-08-20	珍惜生命│沙田禾輋邨男子墮樓 現場證實不治	https://www.hk01.com/article/1049368?utm_source=01articlecopy&utm_medium=referral	墜樓輕生
 2024-08-20	珍惜生命│屯門湖景邨28歲男以USB線自縊 母親揭發送院不治	https://www.hk01.com/article/1049364?utm_source=01articlecopy&utm_medium=referral	自殺
+2024-08-19	渣甸山畢拉山道單位女傭昏迷 現場證實死亡	https://www.hk01.com/article/1049160?utm_source=01articlecopy&utm_medium=referral	離世
 2024-08-16	珍惜生命｜流浮山深灣路 男子私家車內燒炭亡	https://www.hk01.com/article/1048348?utm_source=01articlecopy&utm_medium=referral	自殺
 2024-08-15	珍惜生命︱大埔25歲女子住所燒炭 當場不治	https://www.hk01.com/article/1048273?utm_source=01articlecopy&utm_medium=referral	自殺
 2024-08-15	珍惜生命│大埔25歲女子燒炭不治	https://www.stheadline.com/breaking-news/3373510/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E5%A4%A7%E5%9F%9425%E6%AD%B2%E5%A5%B3%E5%AD%90%E7%87%92%E7%82%AD%E4%B8%8D%E6%B2%BB	自殺
@@ -4834,10 +4847,12 @@ var DATA_DEPARTURE = `
 2024-01-09	疑金錢問題困擾 綠楊新邨男子燒炭亡	https://hk.on.cc/hk/bkn/cnt/news/20240109/bkn-20240109134818414-0109_00822_001.html	自殺
 2024-01-08	土瓜灣男子墮樓 送院搶救不治	https://hk.on.cc/hk/bkn/cnt/news/20240108/bkn-20240108063522509-0108_00822_001.html	墜樓輕生
 2024-01-06	珍惜生命︱新清水灣道七旬漢墮橋 倒50米下坑渠不治	https://www.hk01.com/article/978359?utm_source=01articlecopy&utm_medium=referral	自然離世
+2024-01-06	沙田五旬男子昏迷住所房間內 救護員到場證實死亡	https://www.hk01.com/article/978488?utm_source=01articlecopy&utm_medium=referral	離世
 2024-01-05	消息：前記者柳俊江大埔家中燒炭自殺亡 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/187681/%E6%B6%88%E6%81%AF-%E5%89%8D%E8%A8%98%E8%80%85%E6%9F%B3%E4%BF%8A%E6%B1%9F%E5%A4%A7%E5%9F%94%E5%AE%B6%E4%B8%AD%E7%87%92%E7%82%AD%E8%87%AA%E6%AE%BA%E4%BA%A1	自殺
 2024-01-05	消息指前TVB記者柳俊江大埔黃宜坳村屋內燒炭自殺	https://www.hkcd.com.hk/content_app/2024-01/05/content_8617648.html	自殺
 2024-01-03	黎淑賢燒炭亡 老公愁爆開解兩子	https://eastweek.stheadline.com/focus/2863/%E9%BB%8E%E6%B7%91%E8%B3%A2%E7%87%92%E7%82%AD%E4%BA%A1-%E8%80%81%E5%85%AC%E6%84%81%E7%88%86%E9%96%8B%E8%A7%A3%E5%85%A9%E5%AD%90	自殺
 2024-01-02	趙少康因父母肺癌病逝承諾當選「重視空污」 國健署：空污非唯一風險因子	https://www.healthnews.com.tw/article/60391	自然離世
+2024-01-01	珍惜生命｜天水圍天晴邨父揭18歲子自縊昏迷 送院期間不治	https://www.hk01.com/article/976616?utm_source=01articlecopy&utm_medium=referral	離世
 2024-01-01	D社停爆「2024年元旦情侶」！吃瓜群眾白早起 網狂猜因「李善均離世」	https://www.storm.mg/lifestyle/4970225	自然離世
 2023-12-31	寶達邨男子墮樓 倒斃簷篷	https://hk.on.cc/hk/bkn/cnt/news/20231231/bkn-20231231050727931-1231_00822_001.html	墜樓輕生
 2023-12-30	梅艷芳離世20年｜蘇永康撰長文 憶梅姐離世前狀况 揭譚詠麟呆站良久 (16:55) - 20231230	https://ol.mingpao.com/ldy/showbiz/latest/20231230/1703925799510/%E6%A2%85%E8%89%B7%E8%8A%B3%E9%9B%A2%E4%B8%9620%E5%B9%B4-%E8%98%87%E6%B0%B8%E5%BA%B7%E6%92%B0%E9%95%B7%E6%96%87-%E6%86%B6%E6%A2%85%E5%A7%90%E9%9B%A2%E4%B8%96%E5%89%8D%E7%8B%80%E5%86%B5-%E6%8F%AD%E8%AD%9A%E8%A9%A0%E9%BA%9F%E5%91%86%E7%AB%99%E8%89%AF%E4%B9%85	自然離世
@@ -4865,6 +4880,7 @@ var DATA_DEPARTURE = `
 2023-12-12	快訊／「最美周芷若」周海媚昨病逝！工作室沉痛證實：願來生我們再相識	https://woman.tvbs.com.tw/entertainment/45302	自然離世
 2023-12-12	周海媚證實離世：出生顯赫貴族，被譽為「最美周芷若」，但她豁然的人生觀才是最大魅力	https://www.adaymag.com/2023/12/12/chau-hoi-mei-kathy-rumoured-to-be-dead-china-hong-kong-actress.html	自然離世
 2023-12-08	秀茂坪邨22歲內地女墮樓 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20231208/bkn-20231208064939834-1208_00822_001.html	墜樓輕生
+2023-12-07	珍惜生命｜屯門湖景邨對開行人天橋男子吊頸 昏迷送院不治	https://www.hk01.com/article/969024?utm_source=01articlecopy&utm_medium=referral	離世
 2023-12-06	教育局：截至上月31宗學生疑自殺亡 較2018年增逾倍 料疫情影響	https://www.hk01.com/article/968741?utm_source=01articlecopy&utm_medium=referral	自殺
 2023-12-04	珍惜生命│林錦公路男子貨車內燒炭亡	https://www.hk01.com/%E7%AA%81%E7%99%BC/967844/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E6%9E%97%E9%8C%A6%E5%85%AC%E8%B7%AF%E7%94%B7%E5%AD%90%E8%B2%A8%E8%BB%8A%E5%85%A7%E7%87%92%E7%82%AD%E4%BA%A1	自殺
 2023-12-04	港大宿舍廁所內女學生疑輕生 職員發現惜太遲	https://www.hk01.com/article/967920?utm_source=01articlecopy&utm_medium=referral	自殺
@@ -5049,6 +5065,7 @@ var DATA_DEPARTURE = `
 2023-03-14	台南婦幼隊35歲男警舉槍自盡身亡 自戕原因仍有待調查 | 社會 | CTWANT	https://www.ctwant.com/article/244166/	自殺
 2023-03-13	珍惜生命│黃大仙及鰂魚湧先後有老翁墮樓 均不治	https://www.hk01.com/article/876501?utm_source=01articlecopy&utm_medium=referral	墜樓輕生
 2023-03-12	珍惜生命│西半山26歲男子單位內自縊 父親揭發報警惜為時已晚	https://www.hk01.com/article/876345?utm_source=01articlecopy&utm_medium=referral	自殺
+2023-03-12	堅道男子寓所自縊昏迷 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20230312/bkn-20230312123006557-0312_00822_001.html	離世
 2023-03-11	旺角中年漢自縊 女友發現惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20230311/bkn-20230311200114702-0311_00822_001.html	自殺
 2023-03-10	珍惜生命｜葵芳邨42歲女子墮樓 送院後不治	https://www.hk01.com/article/875977?utm_source=01articlecopy&utm_medium=referral	墜樓輕生
 2023-03-10	心酸！3歲女不知母病逝 見生前婚照開心喊媽媽 1童心舉動更催淚	https://www.hk01.com/article/874972?utm_source=01articlecopy&utm_medium=referral	自然離世
@@ -5369,6 +5386,7 @@ var DATA_DEPARTURE = `
 2022-11-02	珍惜生命｜九龍灣六旬婦停車場墮樓亡	https://www.hk01.com/article/832115?utm_source=01articlecopy&utm_medium=referral	墜樓輕生
 2022-10-31	當槍口朝向自己──今年已6警自殺，警察精神危機亟待正視	https://www.twreporter.org/a/taiwan-police-suicide-and-mental-health	自殺
 2022-10-30	珍惜生命｜將軍澳48歲女子燒炭亡	https://www.hk01.com/article/830797?utm_source=01articlecopy&utm_medium=referral	自殺
+2022-10-29	錦泰苑青年自刎 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20221029/bkn-20221029103645582-1029_00822_001.html	離世
 2022-10-29	珍惜生命｜屯門工廈男子墮樓 送院搶救不治	https://www.hk01.com/article/830732?utm_source=01articlecopy&utm_medium=referral	墜樓輕生
 2022-10-28	珍惜生命｜黃大仙下邨男子墮樓亡	https://www.hk01.com/article/830276?utm_source=01articlecopy&utm_medium=referral	墜樓輕生
 2022-10-28	珍惜生命｜油塘油麗邨29歲男子房內燒炭亡	https://www.hk01.com/article/830214?utm_source=01articlecopy&utm_medium=referral	自殺

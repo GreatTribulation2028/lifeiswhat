@@ -1,5 +1,6 @@
-// 悲劇 | 由 htnl_build_news_js.py 生成 | 共 508 條
+// 悲劇 | 由 htnl_build_news_js.py 生成 | 共 510 條
 var DATA_TRAGEDY = `
+2026-10-24	郵輪度假悲劇！英2童浮潛被巨浪沖走 母為救子不幸溺斃	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEMEpZb1dVS2x3Nm5HWHJqTHh5VnpiS1o5S2daV293MkpYNGh2cHA5X3Q0b2RpcXJ2TDgyNm9DREZla0NQZFZSUjAtMTcxWE0?oc=5	其他悲劇
 2026-10-21	汽車失控衝上人行道釀悲劇 行人遭撞擊身亡	https://news.google.com/rss/articles/CBMiUkFVX3lxTE54S0pnVzM5ZDNFMTRZS3JERXNwZkFERk0yS3ZDRzJwdTFob1ZFMmV0eUZGTFhQUDYzZjJabGJxNGY5OTg1LS1GOG44SGYzeVNqT3c?oc=5	其他悲劇
 2026-10-21	外傭虐老慘劇 僱主代表倡當局助把關精神狀況	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHhpV0g1NGVBVVFMNDg0TXpFSEVXb3d0cU9tRERFRTZKVEZEM0ROSlNsQ19ib2d1eEpLNllNcHFRcThQUG03NHNQNnhITEx2WmJqb3J5cUI3czNRN051b0FNOVVmbXVRS2RvUnZRN2JIa2h1MmFDbmNUVC1kTFNxeE9Henp4VkFXRU1z?oc=5	其他悲劇
 2026-10-19	堪薩斯慘劇 女駕車闖青少年足球賽 2死11傷	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IUVI4Z29LczRuY2xBZ3pocDJmbzNLUk1zNVFYV21xejk2d1JfUndJcE84Q3Z4VlBzUjd2QS0tbUpQaHVYVldNX01YRld3bGhDTGhKeDY1QUhaMG8wbzJVMzZn0gFnQVVfeXFMTWVPRjN6X05GUnY3cHMxSUh3dXdjRHIzZ3RsX3p0MzI3RzNXR2VBWUNZM0lkY19mdC1rN0RDOEsxM0lOYklmY2lSanVuS1pEQ1A4QnVZZVhmcnVrdWxjNU1lY2hlZThnOA?oc=5	其他悲劇
@@ -383,6 +384,7 @@ var DATA_TRAGEDY = `
 2024-06-14	深水灣泳灘76歲女泳客疑遇溺 留醫近一日不治	https://www.hk01.com/article/1029019?utm_source=01articlecopy&utm_medium=referral	遇溺悲劇
 2024-06-04	浙江台州兩遊客橫渡溪流被沖走溺亡 繩索形成「死亡V字」釀悲劇	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/1025729/%E6%B5%99%E6%B1%9F%E5%8F%B0%E5%B7%9E%E5%85%A9%E9%81%8A%E5%AE%A2%E6%A9%AB%E6%B8%A1%E6%BA%AA%E6%B5%81%E8%A2%AB%E6%B2%96%E8%B5%B0%E6%BA%BA%E4%BA%A1-%E7%B9%A9%E7%B4%A2%E5%BD%A2%E6%88%90-%E6%AD%BB%E4%BA%A1v%E5%AD%97-%E9%87%80%E6%82%B2%E5%8A%87	遇溺悲劇
 2024-03-22	跑馬地的士撞七人車 的士司機送院不治 (13:50) - 20240322 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240322/s00001/1711084874385/%E8%B7%91%E9%A6%AC%E5%9C%B0%E7%9A%84%E5%A3%AB%E6%92%9E%E4%B8%83%E4%BA%BA%E8%BB%8A-%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	其他悲劇
+2024-03-22	將軍澳富寧花園79歲老婦疑吃白粥鯁喉 昏迷送院搶救後不治	https://www.hk01.com/article/1003212?utm_source=01articlecopy&utm_medium=referral	悲劇
 2024-03-07	香港仔瀑布灣六旬翁遇溺 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20240307/bkn-20240307141649433-0307_00822_001.html	遇溺悲劇
 2024-01-28	46歲中國女遊客於泰國沙美島海域游泳遇溺 搶救後仍不治身亡	https://www.hk01.com/article/985544?utm_source=01articlecopy&utm_medium=referral	遇溺悲劇
 2024-01-14	石澳墮海｜女子被大浪捲走 兄弟落水救人同遇溺 兩男女送院不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/980948/%E7%9F%B3%E6%BE%B3%E5%A2%AE%E6%B5%B7-%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%A4%A7%E6%B5%AA%E6%8D%B2%E8%B5%B0-%E5%85%84%E5%BC%9F%E8%90%BD%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8C%E9%81%87%E6%BA%BA-%E5%85%A9%E7%94%B7%E5%A5%B3%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	遇溺悲劇

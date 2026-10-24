@@ -1,5 +1,7 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py 生成 | 共 801 條
+// 第四次工業革命 | 由 htnl_build_news_js.py 生成 | 共 803 條
 var DATA_TECH = `
+2026-10-24	Initia 公鏈遭駭停擺，攻擊者憑空鑄幣轉走約 270 萬美元	https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WY2czc2RMTXQ0ZVBVcmpNSjl2YkRBU3NvY2dmS2xwMWVhR1NTd2JfaXVPQTluN1JldkJMcEs1MmxJTzIwRDN5Z0RGUVJsUmFSdGpMMnl2SF93YmFnbkNv?oc=5	未分類
+2026-10-24	Initia 主網遭駭停擺！攻擊者已轉出 270 萬美元	https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTVvZGF1VnNjOFZHUnJyU2czVlBZbi05ZDdaZ3gyc0g2d2Y4ZG1wOVFnbUY4bXJhaHp6Y0tGVFFkMS1DQnh0cFZLelNfQ2hlTk42aEZLc0hkdThxX09FcXNWaVVWS010eDliMkdwRXVobkpNWVhicjc0c0dtSWxXT3FtMV93WjByNWw0YnE3clZ4RU83eVk4WHVRUkFWZUFhV0Uwc0VR?oc=5	未分類
 2026-10-23	腦機接口技術正從科研走向臨床	https://news.google.com/rss/articles/CBMinAFBVV95cUxPZlc1MDNCc2hmM3NIVzlEZEI1aGhrUi1aZ0xhOEljdXI3amg1c1lhc21kVGJHaFR5S0R3VTVMYUZGRHh6YU1NazlrV1YxQUFRLXQ5Z1EzaFR2QV9OMTR1NlZ1WDAtSFllOUI0NXQ5RlFTUWtkdE40R09Vd0hhU09PVklqbHFESWNEVVhncDFhcHdOMHpPcTNiMmh0X2U?oc=5	未分類
 2026-10-23	粵港澳大灣區搶先布局 全面提升腦機接口「規則話語權」	https://news.google.com/rss/articles/CBMicEFVX3lxTE42dzdZN0xHVzlSZWU3NUFnc2czY3hsZHVOcWRlRkJXcm9kbnZDX3VvOXJac2R3Q29pWlptNVJ3endYaWZ4dUJwRy0xZy01RUdxQU1SdmMwQnVZeFlOcnJLamJ5R2l0UkdYOExzNmVRV3U?oc=5	未分類
 2026-10-23	Citadel 創辦人 Ken Griffin 警告：AI 泡沫幾乎不可避免，GPU 恐重演網路泡沫悲劇	https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zZ3R2U19aaHlmdzRTdGNGOHY3TTVMa1NLbUZWeDlUU1ZEZXZLVk5XSlEzTVJ6dGZDRmxmeVFaWVZKZ3hKT2k2cmMxNjluZjFpajZWTW9FU24wRXdP?oc=5	第四次工業革命
