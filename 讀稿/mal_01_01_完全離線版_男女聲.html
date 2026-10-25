@@ -203,7 +203,7 @@ input[type=range]{width:110px;accent-color:currentColor;}
 <span class="lbl">行距</span><input id="lr" type="range" min="1.4" max="2.6" step="0.1" value="1.9"><b id="lhv">1.9</b>
 </div>
 <div class="row">
-<a id="dlAllBar" class="mini" href="瑪拉基書01_01_讀稿_已改_v12_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v12_雙聲線_男女聲 離線版.html">⬇ 下載全部.html</a><button id="mb" class="mini">⬇ 下載 .md</button>
+<a id="dlAllBar" class="mini" href="#" download="瑪拉基書01_01_讀稿_已改_v12_離線html.html">⬇ 下載離線html</a><button id="mb" class="mini">⬇ 下載 .md</button>
 <button id="cb" class="mini">⧉ 複製全文</button>
 <span class="hint">空白鍵 播放／暫停 ｜ ← → 跳十秒 ｜ Esc 全停 ｜ 點段落跳讀 ｜ 跟讀模式會自動捲動</span>
 </div>
@@ -582,7 +582,7 @@ input[type=range]{width:110px;accent-color:currentColor;}
 <p>其他原文查經：拉比解經首頁。中文</p>
 <p>書卷目錄：39瑪拉基書。原文逐節查經</p>
 <p>上一篇：15 以斯拉記10:44 原文逐節查經(稿)</p>
-<p>下一篇：39 瑪拉基書1:02 原文逐節查經(稿)</p></div></div></details><nav class="footbar"><button id="toTop" class="mini">↑ 回頂部</button><a id="dlAll" class="mini" href="瑪拉基書01_01_讀稿_已改_v12_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v12_雙聲線_男女聲 離線版.html">⬇ 下載本節全部（文字＋音頻，單一檔）</a></nav><div class="donebar"><div class="dt">完成，只是草稿</div><div class="ds">本節讀稿稿已完成，仍屬草稿；全書逐節製作中，未完。</div></div><div id="fabpanel"><div class="frow"><button id="fplay" title="播放／暫停">▶</button><button id="fstop" title="停播（返 0:00）">■</button></div><div class="frow"><button id="fminus">−</button><span class="fv">語速</span><button id="fplus">＋</button></div><div class="frow"><button id="fvolm">🔉</button><span class="fv">音量</span><button id="fvolp">🔊</button></div><div class="ftitle" id="fvoice">可愛女聲</div><div class="frow"><button id="fv1" title="可愛女聲">女</button><button id="fv2" title="活潑男聲">男</button></div><div class="ftitle">頁面變色</div><div class="frow theme" id="ftheme"></div></div><button id="fab" title="播放控制（撳一下展開／收起）">▶</button><button id="topFab" title="回頂部">↑</button><script>
+<p>下一篇：39 瑪拉基書1:02 原文逐節查經(稿)</p></div></div></details><nav class="footbar"><button id="toTop" class="mini">↑ 回頂部</button><a id="dlAll" class="mini" href="#" download="瑪拉基書01_01_讀稿_已改_v12_離線html.html">⬇ 下載本節全部（文字＋音頻，單一檔）</a></nav><div class="donebar"><div class="dt">完成，只是草稿</div><div class="ds">本節讀稿稿已完成，仍屬草稿；全書逐節製作中，未完。</div></div><div id="fabpanel"><div class="frow"><button id="fplay" title="播放／暫停">▶</button><button id="fstop" title="停播（返 0:00）">■</button></div><div class="frow"><button id="fminus">−</button><span class="fv">語速</span><button id="fplus">＋</button></div><div class="frow"><button id="fvolm">🔉</button><span class="fv">音量</span><button id="fvolp">🔊</button></div><div class="ftitle" id="fvoice">可愛女聲</div><div class="frow"><button id="fv1" title="可愛女聲">女</button><button id="fv2" title="活潑男聲">男</button></div><div class="ftitle">頁面變色</div><div class="frow theme" id="ftheme"></div></div><button id="fab" title="播放控制（撳一下展開／收起）">▶</button><button id="topFab" title="回頂部">↑</button><script>
 'use strict';
 function VID(){ try{ var v=sessionStorage.getItem('vbs_voice'); if(v==='audata') return 'audata'; if(v==='audatab') return 'audatab'; }catch(e){} return 'audatab'; }
 var LABEL = (VID() === "audatab") ? "活潑男聲" : "可愛女聲";
@@ -1135,6 +1135,18 @@ function boot(){
       if (el.id === 'fr') { try { sessionStorage.setItem('vbs_fs', el.value); } catch (e) {} }
       if (el.id === 'lr') { try { sessionStorage.setItem('vbs_lh', el.value); } catch (e) {} }
     }, true);
+  } catch (e) {}
+
+  /* ①d 🔴 下載 .html 連結：href 指向**當前頁自身**（方案 A，Ollie 2026-10-25 21:32 指示）
+        → 唔會再「本地中文檔名 → 線上 404 → 下載失敗」；撳落去就係下載呢個單檔（音頻已內嵌，離線可用）
+        → download 屬性另外俾返個中文檔名（例如 …_v12_離線html.html） */
+  try {
+    var here = location.pathname;
+    var dlIds = ['dlAllBar', 'dlAll'];
+    for (var di = 0; di < dlIds.length; di++) {
+      var dlEl = document.getElementById(dlIds[di]);
+      if (dlEl) { dlEl.setAttribute('href', here); }
+    }
   } catch (e) {}
 
   /* ①b 🔴 主題預設＝宣紙（Ollie 2026-10-25 19:53：「點解你預設左另一隻頁面顏色」）
