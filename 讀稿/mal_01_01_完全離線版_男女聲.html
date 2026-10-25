@@ -679,6 +679,10 @@ function boot(){
   if (fp) fp.addEventListener('click', function(){ adj(0.1); });
 })();
 
+/* ===== 開頁自動解碼（唔等撳掣）+ 20 秒保險罩 ===== */
+setTimeout(function(){ try { boot(); } catch(e) {} }, 60);
+setTimeout(function(){ try { hideLoad(); } catch(e) {} }, 20000);
+
 /* ===== 聽完跳下一節（要 tick 先跳）===== */
 try {
   if (typeof audio !== 'undefined') {
