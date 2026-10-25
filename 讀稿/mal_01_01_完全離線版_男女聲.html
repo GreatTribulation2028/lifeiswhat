@@ -200,7 +200,7 @@ input[type=range]{width:110px;accent-color:currentColor;}
 <span class="lbl">行距</span><input id="lr" type="range" min="1.4" max="2.6" step="0.1" value="1.9"><b id="lhv">1.9</b>
 </div>
 <div class="row">
-<a id="dlAllBar" class="mini" href="瑪拉基書01_01_讀稿_已改_v9_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v9_雙聲線_男女聲 離線版.html">⬇ 下載全部.html</a><button id="mb" class="mini">⬇ 下載 .md</button>
+<a id="dlAllBar" class="mini" href="瑪拉基書01_01_讀稿_已改_v10_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v10_雙聲線_男女聲 離線版.html">⬇ 下載全部.html</a><button id="mb" class="mini">⬇ 下載 .md</button>
 <button id="cb" class="mini">⧉ 複製全文</button>
 <span class="hint">空白鍵 播放／暫停 ｜ ← → 跳十秒 ｜ Esc 全停 ｜ 點段落跳讀 ｜ 跟讀模式會自動捲動</span>
 </div>
@@ -579,9 +579,9 @@ input[type=range]{width:110px;accent-color:currentColor;}
 <p>其他原文查經：拉比解經首頁。中文</p>
 <p>書卷目錄：39瑪拉基書。原文逐節查經</p>
 <p>上一篇：15 以斯拉記10:44 原文逐節查經(稿)</p>
-<p>下一篇：39 瑪拉基書1:02 原文逐節查經(稿)</p></div></div></details><nav class="footbar"><button id="toTop" class="mini">↑ 回頂部</button><a id="dlAll" class="mini" href="瑪拉基書01_01_讀稿_已改_v9_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v9_雙聲線_男女聲 離線版.html">⬇ 下載本節全部（文字＋音頻，單一檔）</a></nav><div class="donebar"><div class="dt">完成，只是草稿</div><div class="ds">本節讀稿稿已完成，仍屬草稿；全書逐節製作中，未完。</div></div><div id="fabpanel"><div class="frow"><button id="fplay" title="播放／暫停">▶</button><button id="fstop" title="停播（返 0:00）">■</button></div><div class="frow"><button id="fminus">−</button><span class="fv">語速</span><button id="fplus">＋</button></div><div class="frow"><button id="fvolm">🔉</button><span class="fv">音量</span><button id="fvolp">🔊</button></div><div class="ftitle" id="fvoice">可愛女聲</div><div class="frow"><button id="fv1" title="可愛女聲">女</button><button id="fv2" title="活潑男聲">男</button></div><div class="ftitle">頁面變色</div><div class="frow theme" id="ftheme"></div></div><button id="fab" title="播放控制（撳一下展開／收起）">▶</button><button id="topFab" title="回頂部">↑</button><script>
+<p>下一篇：39 瑪拉基書1:02 原文逐節查經(稿)</p></div></div></details><nav class="footbar"><button id="toTop" class="mini">↑ 回頂部</button><a id="dlAll" class="mini" href="瑪拉基書01_01_讀稿_已改_v10_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v10_雙聲線_男女聲 離線版.html">⬇ 下載本節全部（文字＋音頻，單一檔）</a></nav><div class="donebar"><div class="dt">完成，只是草稿</div><div class="ds">本節讀稿稿已完成，仍屬草稿；全書逐節製作中，未完。</div></div><div id="fabpanel"><div class="frow"><button id="fplay" title="播放／暫停">▶</button><button id="fstop" title="停播（返 0:00）">■</button></div><div class="frow"><button id="fminus">−</button><span class="fv">語速</span><button id="fplus">＋</button></div><div class="frow"><button id="fvolm">🔉</button><span class="fv">音量</span><button id="fvolp">🔊</button></div><div class="ftitle" id="fvoice">可愛女聲</div><div class="frow"><button id="fv1" title="可愛女聲">女</button><button id="fv2" title="活潑男聲">男</button></div><div class="ftitle">頁面變色</div><div class="frow theme" id="ftheme"></div></div><button id="fab" title="播放控制（撳一下展開／收起）">▶</button><button id="topFab" title="回頂部">↑</button><script>
 'use strict';
-function VID(){ var h=(location.hash||'').toLowerCase(); if(h==='#v1'||h==='#v2'){ try{ history.replaceState(null,'', location.pathname+location.search); }catch(e){} } if(h==='#v1') return 'audata'; if(h==='#v2') return 'audatab'; try{ var v=localStorage.getItem('vbs_voice'); if(v==='audata') return 'audata'; if(v==='audatab') return 'audatab'; }catch(e){} return 'audatab'; }
+function VID(){ try{ var v=sessionStorage.getItem('vbs_voice'); if(v==='audata') return 'audata'; if(v==='audatab') return 'audatab'; }catch(e){} return 'audatab'; }
 var LABEL = (VID() === "audatab") ? "活潑男聲" : "可愛女聲";
 var DUR = (VID() === "audatab") ? 558.2 : 459.7;
 var CH = Array.prototype.slice.call(document.querySelectorAll('#doc p'));
@@ -813,10 +813,9 @@ document.addEventListener('keydown', function(e){
 document.title = '瑪拉基書 1-01 讀稿 \u00b7 ' + LABEL;
 window.__READY = 1;
 </script><script>
-/* 揀聲線：記低落 localStorage（下次開頁記得）＋ hash 即刻切換 */
+/* 揀聲線：**只記喺同一個分頁**（sessionStorage）→ 開新分頁永遠男聲（真正預設） */
 function vbsSetVoice(v){
-  try { localStorage.setItem('vbs_voice', v); } catch(e) {}
-  location.hash = (v === 'audata') ? '#v1' : '#v2';
+  try { sessionStorage.setItem('vbs_voice', v); } catch(e) {}
   location.reload();
 }
 try {
@@ -1021,8 +1020,8 @@ function boot(){
   if (vm) vm.addEventListener('click', function(){ adjVol(-0.1); });
   if (vp2) vp2.addEventListener('click', function(){ adjVol(0.1); });
   var fv1 = document.getElementById('fv1'), fv2 = document.getElementById('fv2');
-  if (fv1) fv1.addEventListener('click', function(){ try { vbsSetVoice('audata'); } catch (e) { location.hash = '#v1'; location.reload(); } });
-  if (fv2) fv2.addEventListener('click', function(){ try { vbsSetVoice('audatab'); } catch (e) { location.hash = '#v2'; location.reload(); } });
+  if (fv1) fv1.addEventListener('click', function(){ try { vbsSetVoice('audata'); } catch (e) { location.reload(); } });
+  if (fv2) fv2.addEventListener('click', function(){ try { vbsSetVoice('audatab'); } catch (e) { location.reload(); } });
   /* 頁面變色（男女聲下方）→ 用全域 THEME / ti / apply / Sv */
   var tw = document.getElementById('ftheme');
   if (tw && typeof THEME !== 'undefined') {
@@ -1075,25 +1074,33 @@ function boot(){
     if (rr0) { rr0.value = r0; }
     if (typeof setRate === 'function') { setRate(r0); }
   } catch (e) {}
-  /* ④ 浮標位置補償：Android Chrome 首次 load 網址欄未收起 →
-        position:fixed 嘅 bottom 定位喺網址欄下面（睇唔到，scroll 一下先出現）。
-        差額 = layout viewport（documentElement.clientHeight）− visual viewport（visualViewport.height）
-        = 網址欄高度 → 加落 bottom 就永遠喺可見範圍。 */
+  /* ④ 浮標位置：**用真實可見底部**校正，確保喺「用戶屏幕右下」而唔係「頁面右下」
+        （Android Chrome：網址欄／底部導航列會遮住 layout viewport 底部，
+          position:fixed 嘅 bottom 定位會落到可見範圍之外 → 睇唔到。
+          vh = visualViewport.offsetTop + visualViewport.height = 真實可見底部；
+          量元素 rect.bottom 對比 vh → 出界就推返入去（只增不減 → 唔會震盪）） */
+  function setFabBottom(b){
+    var t0 = document.getElementById('topFab'), f0 = document.getElementById('fab');
+    if (t0) { t0.style.bottom = b + 'px'; }
+    if (f0) { f0.style.bottom = (b + 62) + 'px'; }
+  }
   function fixFloatPos(){
     try {
       var vv = window.visualViewport;
-      var vis = vv ? vv.height : (window.innerHeight || 0);
-      var lay = document.documentElement.clientHeight;
-      var gap = Math.max(0, Math.round(lay - vis));
-      var t0 = document.getElementById('topFab');
-      if (t0) { t0.style.bottom = (24 + gap) + 'px'; }
-      var f0 = document.getElementById('fab');
-      if (f0) { f0.style.bottom = (86 + gap) + 'px'; }
+      var vh = vv ? (vv.offsetTop + vv.height) : (window.innerHeight || 0);
+      if (!vh) return;
+      var t = document.getElementById('topFab');
+      if (!t) return;
+      var r = t.getBoundingClientRect();
+      var out = Math.round(r.bottom - vh);
+      if (out > 0) { setFabBottom(24 + out); }      // 落到可見範圍外 → 推返上去
+      else if (out < -4) { setFabBottom(24); }      // 視口變大（網址欄收起）→ 收返基本位
     } catch (e) {}
   }
   fixFloatPos();
-  setTimeout(fixFloatPos, 500);
-  setTimeout(fixFloatPos, 1500);
+  setTimeout(fixFloatPos, 300);
+  setTimeout(fixFloatPos, 1000);
+  setTimeout(fixFloatPos, 2500);
   try {
     if (window.visualViewport && window.visualViewport.addEventListener) {
       window.visualViewport.addEventListener('resize', fixFloatPos);
@@ -1102,6 +1109,30 @@ function boot(){
   } catch (e) {}
   window.addEventListener('resize', fixFloatPos);
   window.addEventListener('orientationchange', fixFloatPos);
+  window.addEventListener('load', fixFloatPos);
+  /* ①b 🔴 主題預設＝宣紙（Ollie 2026-10-25 19:53：「點解你預設左另一隻頁面顏色」）
+        main_js 用 localStorage 讀 ti → 舊值會令「預設」變咗。
+        ⇒ 改用 sessionStorage（同一分頁有效，開新分頁回宣紙）＋ 清走舊 localStorage 鍵。 */
+  try {
+    localStorage.removeItem('ti');
+    localStorage.removeItem('vbs_voice');
+    var sTi = sessionStorage.getItem('vbs_theme');
+    ti = (sTi === null || sTi === undefined) ? 0 : (parseInt(sTi, 10) || 0);
+    if (!(ti >= 0 && typeof THEME !== 'undefined' && ti < THEME.length)) { ti = 0; }
+    if (typeof apply === 'function') { apply(); }
+    /* 撳任何一個主題掣 → 記落 sessionStorage（capture 先行，寫完先由掣自己 apply） */
+    document.addEventListener('click', function(ev){
+      var el = ev.target;
+      if (!el || !el.closest) return;
+      var b = el.closest('.sw, .ftsw, .rtsw');
+      if (!b || typeof THEME === 'undefined') return;
+      var lbl = b.textContent || '';
+      for (var i = 0; i < THEME.length; i++) {
+        if (THEME[i][0] === lbl) { try { sessionStorage.setItem('vbs_theme', String(i)); } catch (e2) {} break; }
+      }
+    }, true);
+  } catch (e) {}
+
   /* ② 浮標自檢：inline style 寫死 bottom 定位（就算手機 CSS 唔食都照定位） */
   try {
     var f = document.getElementById('fab');
