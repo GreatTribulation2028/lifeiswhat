@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="zh-Hant">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>瑪拉基書 1-01 讀稿</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>瑪拉基書 1-01 讀稿</title>
 <style>
 :root{--bg:#efe9dd;--ink:#3a352d;--fs:19px;--lh:1.9;}
 *{box-sizing:border-box;}
@@ -36,6 +36,9 @@ input[type=range]{width:110px;accent-color:currentColor;}
 .foot a{color:inherit;}
 
 /* ===== 2026-10-25 UI 增強 ===== */
+/* 🔴 「預設：活潑男聲（撳掣切換，會記住）」提示要開新一行，唔好擠爆控制列
+   （Ollie 2026-10-25 20:37 實測）*/
+.hint2{display:block;margin-left:0;margin-top:3px;white-space:normal;line-height:1.4;}
 /* 🔴 #bar 唔做 sticky：模板原樣係 position:sticky，而 bar 內有 4 行掣，
    手機版約佔半個屏；bar 隨頁面捲走，靠右邊浮球做隨時控制 + 右下「回頂部」浮標。*/
 #bar{position:relative;}
@@ -200,7 +203,7 @@ input[type=range]{width:110px;accent-color:currentColor;}
 <span class="lbl">行距</span><input id="lr" type="range" min="1.4" max="2.6" step="0.1" value="1.9"><b id="lhv">1.9</b>
 </div>
 <div class="row">
-<a id="dlAllBar" class="mini" href="瑪拉基書01_01_讀稿_已改_v10_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v10_雙聲線_男女聲 離線版.html">⬇ 下載全部.html</a><button id="mb" class="mini">⬇ 下載 .md</button>
+<a id="dlAllBar" class="mini" href="瑪拉基書01_01_讀稿_已改_v11_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v11_雙聲線_男女聲 離線版.html">⬇ 下載全部.html</a><button id="mb" class="mini">⬇ 下載 .md</button>
 <button id="cb" class="mini">⧉ 複製全文</button>
 <span class="hint">空白鍵 播放／暫停 ｜ ← → 跳十秒 ｜ Esc 全停 ｜ 點段落跳讀 ｜ 跟讀模式會自動捲動</span>
 </div>
@@ -579,7 +582,7 @@ input[type=range]{width:110px;accent-color:currentColor;}
 <p>其他原文查經：拉比解經首頁。中文</p>
 <p>書卷目錄：39瑪拉基書。原文逐節查經</p>
 <p>上一篇：15 以斯拉記10:44 原文逐節查經(稿)</p>
-<p>下一篇：39 瑪拉基書1:02 原文逐節查經(稿)</p></div></div></details><nav class="footbar"><button id="toTop" class="mini">↑ 回頂部</button><a id="dlAll" class="mini" href="瑪拉基書01_01_讀稿_已改_v10_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v10_雙聲線_男女聲 離線版.html">⬇ 下載本節全部（文字＋音頻，單一檔）</a></nav><div class="donebar"><div class="dt">完成，只是草稿</div><div class="ds">本節讀稿稿已完成，仍屬草稿；全書逐節製作中，未完。</div></div><div id="fabpanel"><div class="frow"><button id="fplay" title="播放／暫停">▶</button><button id="fstop" title="停播（返 0:00）">■</button></div><div class="frow"><button id="fminus">−</button><span class="fv">語速</span><button id="fplus">＋</button></div><div class="frow"><button id="fvolm">🔉</button><span class="fv">音量</span><button id="fvolp">🔊</button></div><div class="ftitle" id="fvoice">可愛女聲</div><div class="frow"><button id="fv1" title="可愛女聲">女</button><button id="fv2" title="活潑男聲">男</button></div><div class="ftitle">頁面變色</div><div class="frow theme" id="ftheme"></div></div><button id="fab" title="播放控制（撳一下展開／收起）">▶</button><button id="topFab" title="回頂部">↑</button><script>
+<p>下一篇：39 瑪拉基書1:02 原文逐節查經(稿)</p></div></div></details><nav class="footbar"><button id="toTop" class="mini">↑ 回頂部</button><a id="dlAll" class="mini" href="瑪拉基書01_01_讀稿_已改_v11_雙聲線_男女聲 離線版.html" download="瑪拉基書01_01_讀稿_已改_v11_雙聲線_男女聲 離線版.html">⬇ 下載本節全部（文字＋音頻，單一檔）</a></nav><div class="donebar"><div class="dt">完成，只是草稿</div><div class="ds">本節讀稿稿已完成，仍屬草稿；全書逐節製作中，未完。</div></div><div id="fabpanel"><div class="frow"><button id="fplay" title="播放／暫停">▶</button><button id="fstop" title="停播（返 0:00）">■</button></div><div class="frow"><button id="fminus">−</button><span class="fv">語速</span><button id="fplus">＋</button></div><div class="frow"><button id="fvolm">🔉</button><span class="fv">音量</span><button id="fvolp">🔊</button></div><div class="ftitle" id="fvoice">可愛女聲</div><div class="frow"><button id="fv1" title="可愛女聲">女</button><button id="fv2" title="活潑男聲">男</button></div><div class="ftitle">頁面變色</div><div class="frow theme" id="ftheme"></div></div><button id="fab" title="播放控制（撳一下展開／收起）">▶</button><button id="topFab" title="回頂部">↑</button><script>
 'use strict';
 function VID(){ try{ var v=sessionStorage.getItem('vbs_voice'); if(v==='audata') return 'audata'; if(v==='audatab') return 'audatab'; }catch(e){} return 'audatab'; }
 var LABEL = (VID() === "audatab") ? "活潑男聲" : "可愛女聲";
@@ -1074,42 +1077,66 @@ function boot(){
     if (rr0) { rr0.value = r0; }
     if (typeof setRate === 'function') { setRate(r0); }
   } catch (e) {}
-  /* ④ 浮標位置：**用真實可見底部**校正，確保喺「用戶屏幕右下」而唔係「頁面右下」
-        （Android Chrome：網址欄／底部導航列會遮住 layout viewport 底部，
-          position:fixed 嘅 bottom 定位會落到可見範圍之外 → 睇唔到。
-          vh = visualViewport.offsetTop + visualViewport.height = 真實可見底部；
-          量元素 rect.bottom 對比 vh → 出界就推返入去（只增不減 → 唔會震盪）） */
-  function setFabBottom(b){
-    var t0 = document.getElementById('topFab'), f0 = document.getElementById('fab');
-    if (t0) { t0.style.bottom = b + 'px'; }
-    if (f0) { f0.style.bottom = (b + 62) + 'px'; }
-  }
-  function fixFloatPos(){
+  /* ④ 浮標位置：**用 top 釘喺「用戶真正見到的右下角」**（唔用 bottom）
+        Android Chrome 嘅網址欄／底部導航列／頁面放大，都會令 layout viewport 底部
+        低於用戶可見底部 → position:fixed 嘅 bottom 定位會落到可見範圍外 → 睇唔到。
+        ⇒ 直接計 top = visualViewport.offsetTop + height − 元素高 − 邊距（layout 座標）
+           → 無論放大、scroll、網址欄收放，都實實在在喺可見右下角（唔使「校正」）。 */
+  function pinFab(){
     try {
       var vv = window.visualViewport;
-      var vh = vv ? (vv.offsetTop + vv.height) : (window.innerHeight || 0);
+      if (!vv) return;
+      var vh = vv.offsetTop + vv.height;
       if (!vh) return;
-      var t = document.getElementById('topFab');
-      if (!t) return;
-      var r = t.getBoundingClientRect();
-      var out = Math.round(r.bottom - vh);
-      if (out > 0) { setFabBottom(24 + out); }      // 落到可見範圍外 → 推返上去
-      else if (out < -4) { setFabBottom(24); }      // 視口變大（網址欄收起）→ 收返基本位
+      var t = document.getElementById('topFab'), f = document.getElementById('fab'), p = document.getElementById('fabpanel');
+      if (t && t.offsetHeight) {
+        t.style.top = Math.round(vh - t.offsetHeight - 24) + 'px'; t.style.bottom = 'auto';
+      }
+      if (f && f.offsetHeight) {
+        f.style.top = Math.round(vh - f.offsetHeight - 86) + 'px'; f.style.bottom = 'auto';
+      }
+      if (p && p.offsetHeight) {
+        p.style.top = Math.round(vh - 86 - p.offsetHeight) + 'px'; p.style.bottom = 'auto';
+      }
     } catch (e) {}
   }
-  fixFloatPos();
-  setTimeout(fixFloatPos, 300);
-  setTimeout(fixFloatPos, 1000);
-  setTimeout(fixFloatPos, 2500);
+  pinFab();
+  try { requestAnimationFrame(pinFab); } catch (e) {}
+  setTimeout(pinFab, 300);
+  setTimeout(pinFab, 1000);
+  setTimeout(pinFab, 2500);
   try {
     if (window.visualViewport && window.visualViewport.addEventListener) {
-      window.visualViewport.addEventListener('resize', fixFloatPos);
-      window.visualViewport.addEventListener('scroll', fixFloatPos);
+      window.visualViewport.addEventListener('resize', pinFab);
+      window.visualViewport.addEventListener('scroll', pinFab);
     }
   } catch (e) {}
-  window.addEventListener('resize', fixFloatPos);
-  window.addEventListener('orientationchange', fixFloatPos);
-  window.addEventListener('load', fixFloatPos);
+  window.addEventListener('resize', pinFab);
+  window.addEventListener('orientationchange', pinFab);
+  window.addEventListener('load', pinFab);
+  /* ①c 🔴 字級／行距改用 sessionStorage（Ollie 2026-10-25 20:37：「你預設左頁面放大？」）
+        舊值記喺 localStorage → 撳過字級掣之後，之後每次開頁都係嗰個大細／唔對 →
+        **「預設值」被改咗**。⇒ 改 sessionStorage：同一分頁有效，開新分頁回 19px／1.9。 */
+  try {
+    localStorage.removeItem('fs');
+    localStorage.removeItem('lh');
+    var sfs = sessionStorage.getItem('vbs_fs'), slh = sessionStorage.getItem('vbs_lh');
+    fs = (sfs === null || sfs === undefined) ? 19 : (parseFloat(sfs) || 19);
+    lh = (slh === null || slh === undefined) ? 1.9 : (parseFloat(slh) || 1.9);
+    if (!(fs >= 15 && fs <= 32)) { fs = 19; }
+    if (!(lh >= 1.4 && lh <= 2.6)) { lh = 1.9; }
+    var fr0 = document.getElementById('fr'), lr0 = document.getElementById('lr');
+    if (fr0) { fr0.value = fs; }
+    if (lr0) { lr0.value = lh; }
+    if (typeof apply === 'function') { apply(); }
+    document.addEventListener('input', function(ev){
+      var el = ev.target;
+      if (!el || !el.id) return;
+      if (el.id === 'fr') { try { sessionStorage.setItem('vbs_fs', el.value); } catch (e) {} }
+      if (el.id === 'lr') { try { sessionStorage.setItem('vbs_lh', el.value); } catch (e) {} }
+    }, true);
+  } catch (e) {}
+
   /* ①b 🔴 主題預設＝宣紙（Ollie 2026-10-25 19:53：「點解你預設左另一隻頁面顏色」）
         main_js 用 localStorage 讀 ti → 舊值會令「預設」變咗。
         ⇒ 改用 sessionStorage（同一分頁有效，開新分頁回宣紙）＋ 清走舊 localStorage 鍵。 */
