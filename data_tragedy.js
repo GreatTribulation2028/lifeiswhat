@@ -1,10 +1,22 @@
-// 悲劇 | 由 htnl_build_news_js.py 生成 | 共 464 條
+// 悲劇 | 由 htnl_build_news_js.py 生成 | 共 468 條
 var DATA_TRAGEDY = `
+2026-10-27	討論牆 | 為4百萬元結婚生子竟釀悲劇？作家看河口湖命案嘆：人生很多時候敗給貪念	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mYl9RRi05Z2hxNjhqNW5BUktyX2VPMFBmMkNHYU4zR0Fvc2lFM0t0Vi1xNjY2WDJPdlo2UFdvWWRndlFyWk82SlJzWFlfVDJWLThGdDdJdWt6eUlOOHFuWFdqTkI?oc=5	其他悲劇	-
+2026-10-27	百歲教養法害慘孩子？孤兒院慘劇證實「缺乏擁抱」害嬰兒發育遲緩、甚至夭折	https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wYmFINHpQOTl2eXZjakRTTU9HOXFfanlvMzJMSXhCN1dNa0NxYXVka1BfS1VxdXdhNGhvdEtBUHUtSlBMOXhPZGprTjVfR193T0V5eQ?oc=5	其他悲劇	-
+2026-10-27	為4百萬元結婚生子竟釀悲劇？作家看河口湖命案嘆：人生很多時候敗給貪念 | 生活 | CTWANT	https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FMi1FUUEydzVXdUdBRFdoZEE0OUpYTTZuMEtFeGtwOHVvZ1FNcUVzUVQtcERrTkZkaHBBUnpUWDh1cDhYS0ZSeWo0cHRaM2PSAVRBVV95cUxQMkVRTldudkF4MHJ6TllmZFN4bG9ZZENFR2lfLW9JQmFVQlFGSVlLZkF3enNFbkx2R2hGOUdpcktiZ2ZUS3ZfVWlWaEJsYko4dUZ0VG4?oc=5	其他悲劇	-
+2026-10-27	河口湖命案竟是殺妻詐保3女「無人得利」 網嘆底層悲劇- 生活	https://news.google.com/rss/articles/CBMibkFVX3lxTE1qNE9wNDZfVXpRbHBYbEU2czhfdjZCVW5MSXBIamkwTUZtV3d2c2RfcFRVTlgzdmVYVDhLSWJtTmoxUk55WXkzY0dUR1dOWHRlTTdyWWhpVDBTZ2QzM2JrMHMza25PN25ZUjZ3dHFB?oc=5	其他悲劇	-
+2026-10-27	河口湖命案疑殺妻詐保 網嘆「4人被金錢誘惑」：根本底層悲劇	https://www.ettoday.net/news/20261027/3261558.htm	其他悲劇	-
+2026-10-27	河口湖命案狠夫疑買凶殺妻詐保遭聲押 回顧台灣5大轟動殘忍詐保慘案	https://news.ltn.com.tw/news/society/breakingnews/5620361	未分類	-
+2026-10-26	鴨脷洲院舍九旬長者進食時疑鯁喉暈倒 送院搶救後不治	https://www.singtaousa.com/2026/10/25/news/china/elderly-care-home-choking-incident-fatal/	悲劇	-
+2026-10-26	香港仔鴨脷洲院舍91歲翁疑食雲吞米線鯁喉 昏迷送院搶救後不治	https://www.hk01.com/突發/60403409/香港仔鴨脷洲院舍91歲翁疑食雲吞米線鯁喉-昏迷送院搶救後不治	悲劇	-
+2026-10-26	家庭悲劇！英兩童浮潛被巨浪沖走母親跳海營救不幸溺斃- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTFBtNmhDRlpERWJ5S0t6cGFNZkp3YkpBN1lzandKejIzRjh5NzJ1M2FUUjZwRWhpUzEzQzF4UzJid21vZWRjUEg2dEV4ZW5hWHV4XzZGS2I3QzdfX2pLcGgwQXlwcFJqb3owYUUwY0VOS0hzSUU3VU9SR1lR?oc=5	其他悲劇	-
 2026-10-25	鴨脷洲院舍九旬長者進食時疑鯁喉暈倒 送院搶救後不治	https://news.google.com/rss/articles/CBMilAFBVV95cUxOOFZUM1RfN0Y1RFMzak03Y1dFNU95ZnVaSHZzWWhaYnFxdFFtblBfdDdzZ0phNlp5QUFYTC1iTU5abkpseXBGVElWVjBqXzE3VERiNllFaTVjVEUyWXpOQ2h2bXhyWjNQM29wekhVNHMxLXVWRF9qSnVtcDhhOE5lcEQ5OWhSNDR0UEFucldqVXpEU3NO?oc=5	悲劇	-
 2026-10-25	香港仔鴨脷洲院舍91歲翁疑食雲吞米線鯁喉 昏迷送院搶救後不治	https://news.google.com/rss/articles/CBMipgNBVV95cUxNNldwdVgzTUNmR0VYMjNKT1RFeERqR3RPV2twZExwSUE0LWtqSGdBQnlpZXFtVmxNQ09iNmJ0VWF4S3duYVVwOGVRcFpHLWxrOGVYNVpnWkVJZXZZaEU0TDBGV2I0WHJXS3NmR19HR0NVQVVBX0FpYVpXUmNOcnRzMTZkZG54U2pMcS13WS1Sel9jUUxWUGd1WmpES0hpMkF5SXV1WkVsNV9xZy1sbEh1VTVGeE9SX00xYklUeS1oRGR6c0lGWTdEa1l3UnNvWkF5cVNQWGliOEZHSVhQLVhSaDI3QzM0Tnl1MHBINy1CZUxVTDhzQnlfTmpnUlh0MEpKcl96RDQxa3lRejlJNXdOWC1lRERnMTFKWjNYclpHNlYyUUZoN3Voc1o1YWxwb1BtaGhJMWdsZW9Yd2pvaWxCbUNvMkFFR0ZBY0QwbldPTFkyZ09yMmxQNGl2WnVZRzhlal9fNjloLVVWSlhuZEFrbXFjWTZEZ3RtbEFfSm5yaHB5VWFoaTlrVjVYdXUtTlpvVGtubVhBUUcyNUliel9hOE05bFVGUQ?oc=5	悲劇	-
+2026-10-24	重慶2歲幼兒獨留家中墜亡悲劇 警方不立案惹疑	https://www.ntdtv.com/b5/2026/10/23/a104144714.html	其他悲劇	-
 2026-10-24	郵輪度假悲劇！英2童浮潛被巨浪沖走 母為救子不幸溺斃	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEMEpZb1dVS2x3Nm5HWHJqTHh5VnpiS1o5S2daV293MkpYNGh2cHA5X3Q0b2RpcXJ2TDgyNm9DREZla0NQZFZSUjAtMTcxWE0?oc=5	其他悲劇	A
 2026-10-18	印度女神慶典爆踩踏慘劇 釀19死25傷	https://news.google.com/rss/articles/CBMiggJBVV95cUxNNGF0Q3NJTng5cnZHY01NY2U0WldyYXhCZGN3Q2dJRy1mZ1VrcE9RZkNPdzZNd1ZGZ2t4a0RzMTlleDRuQlItRld4Q3ltbkZ1RXpkS2d6Y0RONFBnTkk1V3I2TVRuMzFfZmpfTzRibHJLdVI3YUpuTWJZTHhQVDBFckVYVTZFZlp4eHNnbGdHaTQySjVOcXJyYm9NQm9fNFhzZ2N2X2ZaVHVuOTZSWWtQZkhzeWV0M1l4NDBhM19rUEhrOG95R2J3ZW1YdTh3eGwwaVJxd21UemY5UFhtQzh5MV9EVFNxV29Wb3hmTGVMMWIwX1pNNlhaRzJzZ2V4enlzcHc?oc=5	其他悲劇	B
+2026-10-16	浙江2醫院員工赴泰旅遊溺亡 官方稱意外引質疑	https://www.ntdtv.com/b5/2026/10/15/a104142212.html	悲劇	-
 2026-10-16	屯門黃金泳灘女子疑遇溺 送院搶救不治	https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcnlxeWwzZllySlhmWi1FRlJXcWFTdU5CVVFxUl9KU2k2b1BURzlUWWdwRWdreTd2SDh5LVdXdVlHRHh5bmxUdEw3SlNTY1dlbGI1VGFoWGVQS2EtMWZndnZPS2tkdzBwYUhpcTBXN2JEcVBJTTc0eWtUcTRCR05QRU80RlEwTlFnV2V3YUI3UUJveDFJZTRKdnFxRnh2SUlta3lBbTJQSHY0Vm9mX3NDbExWbkFRTjVzZlRhdkhFTmdRLTZXb2JXZ0V5aEotNUhsLWc1Ty1aalVVRVRQQTlCWHgtVU9CRzFrMXFyeGFXTlBXaEY2ZGVYdkF2QWVBdkJDUjBxZk5HTS05VjhyaUxhdzhXTFpPaEJZd1NqcVEyRGJIaUhPQlNjTnpWSQ?oc=5	遇溺悲劇	A
+2026-10-16	內地男西貢遇溺不治釣友揭兩船駛過後事主呼救水警重案組跟進- 港聞	https://m.dotdotnews.com/s/202610/15/AP6ad0b40ae4b0ec3ab16571eb.html	遇溺悲劇	A
 2026-10-15	西貢滘西洲海面男子遇溺 途經舢舨救起惜終不治	https://news.google.com/rss/articles/CBMi3wJBVV95cUxNeXhIMllia1JfdHpDbjVwanh6MlpLSnY4RUg3UVFOOUtZeE9SbkNJd095Tzl6VG55dVdxV1Y0Z1ZWMWpiYzNlRGJhTU84SGR4TkJSTUJjek1NNzl6Mm1zd3BBaVVZSzB3eWh5ZEJ0NjliSGtFdUI0cXN4aWlDczVDaHZXZGFUaFB6Zzd3c0ZOZm14OTBkU2pLdzZWSDBPcE4zYVpsSGk1X0lYLVRPYVZnVjNDRUhjZWktcUozREkxM01NR3NpUXJfY0p4ZmM2NzQycXlxY3RZTWQ5UWRpM0xhWE5VRi15YnIwVk53MnM5OTZmM3VWXzU4a1NhT1F6eUhVU2c5U3NJaG9rSF95Wjhra011N2dKRHdoRnktLWRSTUpQbkZsUVlzcGROVWZVcU1TOUVwVERwMmQ3dWFEUkhpM1Rqa3A5WjBaS1FCWGh3VHMwaTRkb0ZLZXVhdWEzTHM?oc=5	遇溺悲劇	A
 2026-10-15	男子西貢滘西洲海面疑遇溺身亡 (10:23) - 20261015 - 港聞	https://news.google.com/rss/articles/CBMitwJBVV95cUxOeDNnb1dZeWNkVHRHcmRFOGNPOVMwQ0hPcldac0VjdEN3dzFBUzlXbnJzNy04ZHhZaUxuRjJGOWk2bDRMSDZRY2prV1dzUFVYUlhSQVZ4anpJdjhnd3lPNWV1U1NGVXB6ZWFiNmRjUWt6LWFEQ3RRQjJwMTQ3akpwZk13STBpaXEyd0pXdzJLOWVMcXNkMnRJY3VvalB3cV9pck9RbUJRMFV1Yk0tNURNTVFJSlBNTkZ5LXJKNWdya0JXUzJDbmZyX1d5VGZsTnVkaTFOQTZrZWZzN0ZYR0p2RFF3d2dSX2dncEJZQzlsWmc4M0dnMEtYLTJPTW9PcTBRM29qWThUVVk2aEdkTUNnbmIzY1NnanVCdE0wdzREVjV4V01QWnJ6MXJMNTBBdUpDS280NVZBUQ?oc=5	遇溺悲劇	A
 2026-10-15	內地男西貢遇溺不治釣友揭兩船駛過後事主呼救水警重案組跟進- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTE45UFZ1U1VXVkhmSGoxWTJwejBNWU9uR0RSRDI4YktJdUpLZXMtQ2loNWh0MEhqNi1WdlpGVE9ZOWs0MmtaaVJTMVhqYXZwaGFaYm1zMlViNTdFamZyUHlpN2tDbGFFVG93U1JYanF3NlZiMEw5eVpGVTdn?oc=5	遇溺悲劇	A
@@ -131,11 +143,8 @@ var DATA_TRAGEDY = `
 2026-08-02	大美督三鐵賽溺亡男為退休水警生前熱愛運動持拯溺牌照- 港聞	https://www.dotdotnews.com/a/202608/02/AP6a6f29c0e4b04b6c5d35805c.html	遇溺悲劇	A
 2026-08-02	大埔三項鐵人賽男子溺亡 何敬康促滴水不漏查體能 看天氣改賽程	https://www.hk01.com/%E6%94%BF%E6%83%85/60376056/%E5%A4%A7%E5%9F%94%E4%B8%89%E9%A0%85%E9%90%B5%E4%BA%BA%E8%B3%BD%E7%94%B7%E5%AD%90%E6%BA%BA%E4%BA%A1-%E4%BD%95%E6%95%AC%E5%BA%B7%E4%BF%83%E6%BB%B4%E6%B0%B4%E4%B8%8D%E6%BC%8F%E6%9F%A5%E9%AB%94%E8%83%BD-%E7%9C%8B%E5%A4%A9%E6%B0%A3%E6%94%B9%E8%B3%BD%E7%A8%8B	遇溺悲劇	A
 2026-07-29	王藏2歲內侄離奇溺亡 村支書埋屍3年不給家屬	https://www.ntdtv.com/b5/2026/07/28/a104119364.html/amp	遇溺悲劇	A
-2026-07-29	東莞男子颱風天攜兩子松山湖劃SUP溺亡 景區：遇難者從非正式入口進入	https://www.orangenews.hk/china/VQjNrLU/東莞男子颱風天攜兩子松山湖劃SUP溺亡-景區-遇難者從非正式入口進入.shtml	遇溺悲劇	A
 2026-07-29	带孩子玩桨板遇大风男子溺亡，松山湖：当时因台风影响景区已关闭	https://www.bjnews.com.cn/detail/1785235517168531.html	遇溺悲劇	A
-2026-07-28	颱風紅霞│東莞32歲父玩SUP溺亡 景區：遇難者從非正式入口進入	https://www.hk01.com/大國小事/60374549/颱風紅霞-東莞32歲父玩sup溺亡-景區-遇難者從非正式入口進入	遇溺悲劇	A
 2026-07-28	颱風來前 福建附近海域5人溺亡 官方遮掩引質疑	https://www.ntdtv.com/gb/2026/07/27/a104119008.html/amp	遇溺悲劇	B
-2026-07-27	基隆石公潭戲水驚傳溺斃！53歲父親潛水未浮出 搶救不治	https://www.pinview.com.tw/News/61092.html	其他悲劇	A
 2026-07-25	屯門海面發現男子遇溺 救起後證實不治	https://www.singtaousa.com/2026/07/25/news/china/man-found-dead-tuen-mun-seawater/	遇溺悲劇	A
 2026-07-25	一人遇溺4人相救 美國5 名成年人全遭急流捲走溺斃河邊聚會慘變悲劇	https://www.bastillepost.com/hongkong/article/16415921-一人遇溺4人相救-美國5名成年人全遭急流捲走溺斃	遇溺悲劇	A
 2026-07-24	屯門加多利灣泳灘八旬翁遇溺 送院搶救延至同日晚上不治	https://hk.on.cc/hk/bkn/cnt/news/20260724/bkn-20260724071800597-0724_00822_001.html	遇溺悲劇	A
@@ -247,7 +256,6 @@ var DATA_TRAGEDY = `
 2026-02-02	男子迪欣湖游泳遇溺 送院北大嶼山醫院搶後不治	https://www.bastillepost.com/hongkong/article/15632594-男子迪欣湖游泳遇溺-送院北大嶼山醫院搶後不治	遇溺悲劇	A
 2026-01-24	加拿大少女澳洲克加里島遇溺亡 驗屍指死前曾遭野狗追咬	https://news.tvb.com/en/1146791-加拿大少女澳洲克加里島遇溺亡驗屍指死前曾遭野狗追咬	遇溺悲劇	A
 2026-01-20	西環老翁疑墮海遇溺送院不治(10:26) - 20260303 - 港聞- 即時新聞	https://news.mingpao.com/ins/港聞/article/2026033/s00001/1772504576710/西環老翁疑墮海遇溺-送院不治	遇溺悲劇	A
-2026-01-19	美國兩少年公園挖逾1 米深沙坑突坍塌雙雙被活埋送院搶救不治身亡	https://www.bastillepost.com/hongkong/article/15586000-美國兩少年公園挖逾1米深沙坑突坍塌-雙雙被活埋送	其他悲劇	B
 2026-01-19	72歲台女馬來西亞潛水不幸溺亡 船夫目睹急跳海拉上岸救不回	https://tw.news.yahoo.com/72歲台女馬來西亞潛水不幸溺亡-船夫目睹急跳海拉上岸救不回-065903730.html	遇溺悲劇	A
 2026-01-16	巴西水上樂園︱救生員幫客撿婚戒 吸入排水口受困15分鐘溺亡	https://std.stheadline.com/realtime-world/3536131/巴西水上樂園救生員幫客撿婚戒-吸入排水口受困15分鐘溺亡	遇溺悲劇	A
 2026-01-16	1歲半男童進食饅頭鯁喉腦缺氧搶救後不治 托兒所保母涉過失致死	https://www.hk01.com/親子/60312542/1歲半男童進食饅頭鯁喉腦缺氧搶救後不治-托兒所保母涉過失致死	悲劇	A
@@ -272,7 +280,6 @@ var DATA_TRAGEDY = `
 2025-11-02	海南海口一渔船遇风浪倾覆，4人脱险1人溺亡	https://finance.sina.com.cn/jjxw/2025-11-02/doc-infvyzht2048269.shtml	遇溺悲劇	A
 2025-11-01	女童酒店戲水溺亡 兩企業被罰85萬人民幣	https://hk.on.cc/hk/bkn/cnt/news/20251101/bkn-20251101100314064-1101_00822_001.html	遇溺悲劇	A
 2025-10-21	驴友新疆徒步未开发区域溺亡，家属起诉搭子、文体局等索赔85万，法院：驳回	https://news.sina.cn/gn/2025-10-21/detail-infurpnr4448522.d.html?oid=1eDkZt1EimdkZwoTbRAMMuDusepzAY5Y.1130h&vt=4&cid=56261&node_id=56261	遇溺悲劇	A
-2025-10-21	機場兩死｜機管局：貨機撞爛鐵絲網與巡邏車同墮海 消防蛙人搜救兩人送院不治｜Yahoo		其他悲劇	A
 2025-10-21	枋寮漁港傳車輛墜海 駕駛不幸溺亡	https://www.msn.com/zh-tw/news/national/%E6%9E%8B%E5%AF%AE%E6%BC%81%E6%B8%AF%E5%82%B3%E8%BB%8A%E8%BC%9B%E5%A2%9C%E6%B5%B7-%E9%A7%95%E9%A7%9B%E4%B8%8D%E5%B9%B8%E6%BA%BA%E4%BA%A1/ar-AA1O1cGi?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	遇溺悲劇	A
 2025-10-15	銀線灣泳灘晨泳婦遇溺 當場命殞	https://hk.on.cc/hk/bkn/cnt/news/20251015/bkn-20251015074049998-1015_00822_001.html	遇溺悲劇	A
 2025-10-15	西贡银线湾泳滩女泳客疑遇溺 救生员救起惜不治	https://global.hk01.com/突发/60285426/西贡银线湾泳滩女泳客疑遇溺-救生员救起惜不治	遇溺悲劇	A
@@ -436,7 +443,6 @@ var DATA_TRAGEDY = `
 2021-01-22	家居意外/大掃除釀悲劇抹窗墮樓四死傷- 大公報	https://www.tkww.hk/epaper/view/newsDetail/1352328265301364736.html	墜樓墜崖	B
 2020-11-25	14歲男生石澳泳灘戲水 遭巨浪捲走遇溺不治	https://hk.on.cc/hk/bkn/cnt/news/20201125/bkn-20201125132929857-1125_00822_001.html	遇溺悲劇	A
 2020-11-23	【倫常慘案】深井浪翠園3屍命案 21歲女16歲子同患亞氏保加症 與抑鬱母赴黃泉父親一周後揭發	https://skypost.hk/article/2809709/%E5%80%AB%E5%B8%B8%E6%85%98%E6%A1%88-%E6%B7%B1%E4%BA%95%E6%B5%AA%E7%BF%A0%E5%9C%923%E5%B1%8D%E5%91%BD%E6%A1%88-21%E6%AD%B2%E5%A5%B316%E6%AD%B2%E5%AD%90%E5%90%8C%E6%82%A3%E4%BA%9E%E6%B0%8F%E4%BF%9D%E5%8A%A0%E7%97%87-%E8%88%87%E6%8A%91%E9%AC%B1%E6%AF%8D%E8%B5%B4%E9%BB%83%E6%B3%89%E7%88%B6%E8%A6%AA%E4%B8%80%E5%91%A8%E5%BE%8C%E6%8F%AD%E7%99%BC	倫常慘劇	A
-2020-08-17	屏東神山瀑布再傳溺斃！高中生送醫搶救不治 3年內已奪走5遊客性命 | 中央社 | 新聞	https://www.storm.mg/article/2951269	其他悲劇	A
 2020-06-14	女子大嶼山衝浪遇溺 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20200614/bkn-20200614130441165-0614_00822_001.html	遇溺悲劇	A
 2020-06-12	船長疑失足墮海遇溺身亡	https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oMXREcmFsbkI3ZjBZbFRHLTZwTmU0Z0pfRzNKWkJWNXdBcnltcElvZ1pPel9tVFVvWUdTSFZtQU1IX2czal84VW43NXQyOWxFS3Fj?oc=5	遇溺悲劇	B
 2020-06-04	黃金泳灘浮鯊屍 晨泳女客遇溺亡	https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRzRxZVh5emJVT1JNVmFCckhReUplc1lVYTdxV0tEaXpTT3VhN2Z2bnAwYW43d0VUb2poMVJYWUVSZktwc0Y3WHB0X1ppbDdFNi11Ulo3dmtneURDWnRZcHlqNlFuVE52VW83a0VqMVhGZUNiWTFSV1ZFdFFFYTJhSXVrcXpMcWJPaEpiMV9oS01DUXp6MzhHdzJnRVg2OVVxRURTSmtZUVRGTHNUd3dIOFdLWlJmbjNBamFsXzRFdFRaRXpubGdkSExlUjEwZkduTm1zWjdOdXFBbHF5dHFUTXFLaFNmYWM3M01yYWtSUXA2cGFEWnhvY2JTdHRMd0FYYU9td0VVMV8?oc=5	遇溺悲劇	A
@@ -447,8 +453,6 @@ var DATA_TRAGEDY = `
 2020-04-16	流浮山老婦泥沼遇溺昏迷 送院搶救不治	https://www.stheadline.com/article/2016292/%E6%B5%81%E6%B5%AE%E5%B1%B1%E8%80%81%E5%A9%A6%E6%B3%A5%E6%B2%BC%E9%81%87%E6%BA%BA%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB	遇溺悲劇	A
 2020-04-16	流浮山紅樹林泥沼遇溺 老婦送院不治	https://hk.on.cc/hk/bkn/cnt/news/20200416/bkn-20200416132100786-0416_00822_001.html	遇溺悲劇	A
 2020-02-08	女子清水灣溺亡 身份未明	https://news.google.com/rss/articles/CBMijgFBVV95cUxNOEZtN2JGZWZWWE9aS2tIeUstSmEtZXcxckp6TnRPQTJOVzBnWmo5U29rSEN5SXRrNVpNQzFUS1NKMmRpWG93M19FODBWNmhxclo5TzBuSVhGek9LQzQwbnhpSEdOU3pyWVZYV3JsMEl2ZU5LaURWQVhqQXkwek5JMEIzcGV6eEptN2dwMER3?oc=5	遇溺悲劇	A
-2020-01-11	鳳凰山42歲女子墮崖重創 送院搶救不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/420544/%E9%B3%B3%E5%87%B0%E5%B1%B142%E6%AD%B2%E5%A5%B3%E5%AD%90%E5%A2%AE%E5%B4%96%E9%87%8D%E5%89%B5-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB	其他悲劇	A
-2020-01-11	女子鳳凰山墮崖 直升機送院搶救不治	https://www.stheadline.com/article/1993968/%E5%A5%B3%E5%AD%90%E9%B3%B3%E5%87%B0%E5%B1%B1%E5%A2%AE%E5%B4%96-%E7%9B%B4%E5%8D%87%E6%A9%9F%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB	其他悲劇	A
 2019-12-22	青年溺亡 一日兩宗	https://orientaldaily.on.cc/cnt/news/20191222/00176_047.html	遇溺悲劇	A
 2019-12-21	【城門河遇溺】沙田城門河金髮男遇溺 由蛙人救起送院不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/412623/%E5%9F%8E%E9%96%80%E6%B2%B3%E9%81%87%E6%BA%BA-%E6%B2%99%E7%94%B0%E5%9F%8E%E9%96%80%E6%B2%B3%E9%87%91%E9%AB%AE%E7%94%B7%E9%81%87%E6%BA%BA-%E7%94%B1%E8%9B%99%E4%BA%BA%E6%95%91%E8%B5%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	遇溺悲劇	A
 2019-11-28	【有片】嬉水遇溺岸邊苦苦掙扎 旁人拍片不施救19歲仔遇溺亡	https://skypost.hk/column/article/2507414/	遇溺悲劇	A
