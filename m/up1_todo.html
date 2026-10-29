@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>UP1 待辦 · 2026-10-29</title>
+<title>UP1 待辦 · 2026-10-30</title>
 <style>
 :root{--bg:#0b0b0f;--bg2:#14141a;--ink:#e8e2d8;--dim:#9a938a;--acc:#c8442a;--gold:#d8b46a;--line:#2b2b33;--ok:#6a9b5a}
 *{box-sizing:border-box}
@@ -40,7 +40,7 @@ h2{font-size:.92rem;letter-spacing:.12em;color:var(--gold);margin:26px 0 10px;
 <div class="hero">
   <div class="en">UP1 · TODO</div>
   <h1>待辦名單</h1>
-  <div class="d">2026-10-29 · 已寫入知識庫 pending 表（id 30–38）</div>
+  <div class="d">2026-10-30 · 已寫入知識庫 pending 表（id 30–43）</div>
 </div>
 <div class="wrap">
 
@@ -98,6 +98,12 @@ h2{font-size:.92rem;letter-spacing:.12em;color:var(--gold);margin:26px 0 10px;
   <div class="how"><b>驗收：</b>向嗰邊確認清理規則：登記冊內嘅檔唔刪；或改為先 archive 再刪。</div>
 </div>
 <div class="todo">
+  <div class="id">UP1-T10<span class="pri mnt">維護</span></div>
+  <div class="t">碎檔清理判準要改：登記入 toolsys 唔等於「入 DB」</div>
+  <div class="why">實測 2026-10-30：<code>vbs_PROGRESS_UP.md</code> 明明已登記入冊 #383，仍然被另一 session 嘅「碎檔清理」搬咗去 archive（已還原，冇真刪）。證實碎檔清理只睇 DB 有冇，唔睇 toolsys 登記冊 → 靠登記入冊保護 md 係無效嘅。同一問題嘅另一面就係 UP1-T07。</div>
+  <div class="how"><b>驗收：</b>判準改為「只清本次產生且未入 DB 嘅 .md/.html/.json」；已登記入 toolsys 一律跳過；或權威落點改為 DB（<code>vbs_ai_knowledge.db</code> pending/teaching_docs），md 只做可重出嘅人讀視圖。改完用同一個檔名做一次試搬，確認唔會再被搬。</div>
+</div>
+<div class="todo">
   <div class="id">UP1-T08<span class="pri mnt">注意</span></div>
   <div class="t">MiniMax TTS 偶發 hang（本次兩次 8 分鐘零輸出，之後恢復）</div>
   <div class="why">TTS 工具 hang 唔會報錯，只係零輸出；要用 seg 檔數／mp3 時長自己核。</div>
@@ -105,7 +111,20 @@ h2{font-size:.92rem;letter-spacing:.12em;color:var(--gold);margin:26px 0 10px;
 </div>
 
 <div class="done">
-  <h3>✅ 今日（10-29）已完成</h3>
+  <h3>✅ 今日（10-30）已完成</h3>
+  <ul>
+    <li>版面 v7（Ollie 03:16）：稿加「詳細網址喺頁底, 等陣間可以去睇。」×2；所有 toggle summary 改「按一下開，再按收」；7 篇全改</li>
+    <li>「搵」→「找」（TTS 讀唔出「搵」）→ 零號病人篇語音重出（女 266.4s／男 256.0s，17 段）</li>
+    <li>ASR 逐字核對 7 篇成品語音 161 段：112 段完全對上；「搵」組校準重現耳聽問題並確認改後讀到</li>
+    <li>複驗 20 個被旗標字：全部係 ASR 寫同音字（七→柒、或→話、咗→左、更→跟、然→言、理→你、在→喺、八→拔），<b>冇一個係 TTS 漏字</b></li>
+    <li>新工具入冊 #416–#419；經驗入庫 #2379–#2385</li>
+    <li>線上 9 個連結 Content-Length 全部 ＝ 本機 bytes（差 0）</li>
+    <li><code>vbs_PROGRESS_UP.md</code> 被碎檔清理搬走 → 已還原＋更新（登記入冊保護唔到，見 UP1-T10）</li>
+  </ul>
+</div>
+
+<div class="done">
+  <h3>✅ 10-29 已完成</h3>
   <ul>
     <li>天使三禍 v5.2 粵語末世沉浸版（真男聲＋手機版＋打散MP3）→ <code>m/rev_08_13.html</code></li>
     <li>126 其餘 6 篇末世版 HTML → <code>m/r126_*.html</code>（5.5–25.4 MB）</li>
@@ -117,7 +136,7 @@ h2{font-size:.92rem;letter-spacing:.12em;color:var(--gold);margin:26px 0 10px;
 </div>
 
 <div class="ft">
-  <b>正本位置</b>：知識庫 <code>vbs_ai_knowledge.db</code> → <code>pending</code> 表（code = UP1-T01…T09）｜工具冊 <code>vbs_TOOLS.db</code>｜進度 <code>vbs_PROGRESS_UP.md</code>｜FAQ <code>vbs_FAQ_天使三禍_20261029.md</code>（兩者已登記入冊 #382/#383，唔好當碎檔刪）
+  <b>正本位置</b>：知識庫 <code>vbs_ai_knowledge.db</code> → <code>pending</code> 表（code = UP1-T01…T10）｜工具冊 <code>vbs_TOOLS.db</code>｜進度 <code>vbs_PROGRESS_UP.md</code>｜FAQ <code>vbs_FAQ_天使三禍_20261029.md</code>（兩者已登記入冊 #382/#383，但登記入冊唔等於入 DB，見 UP1-T10）
 </div>
 </div>
 </body>
