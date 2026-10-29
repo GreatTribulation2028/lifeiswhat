@@ -1,5 +1,7 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py 生成 | 共 567 條
+// 第四次工業革命 | 由 htnl_build_news_js.py 生成 | 共 570 條
 var DATA_TECH = `
+2026-10-29	競辦系統、網站遭駭客灌假資料攻擊 沈伯洋曝最新反制作法	https://www.ettoday.net/news/20261029/3262680.htm	駭客網攻	-
+2026-10-29	我國實現腦機接口領域國際標準新突破	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93RDA1eV9ULU9yWFZHYnZrLXpSSDczM3E0WFhNaGlWZGo3QUxMdU84UXcxdHE2S1NLcVBWN3dLYTR1Q0I0R0I0dzFBV3NkTXk1YTViOW8xdDRPMjVhRFNwcnJ0QzZ1aHc?oc=5	未分類	-
 2026-10-28	國人遊日愛用之 OTS 租車遭駭，73萬筆個資外洩，需防釣魚詐騙風險	https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoMlVHVmF2QWJUVThzSnBpTmpPcXg2aEZaVnRqamtIaHoyMjNoNXJUMmY5NTV1dE56MlBMTHg3SjZGd3Rab09tTg?oc=5	資料外洩	-
 2026-10-28	喊沈伯洋要發毒品被AI糾正！ 羅智強不信反批「連AI都能欺騙」	https://news.google.com/rss/articles/CBMiakFVX3lxTFBEb244LXlUdk8zT1N3ME1PQ2JabjFfZUFrMUo1OVZQdDFwbGNhb1E5NmpuY0hkUVgwNGU3bVhaajJNOXA2UTE5eWlVMXVkRTRRU0lHRXZFYmlRMXhPUnc3NFpBR1ZRRENyZGfSAW9BVV95cUxPY2hxbTdweTZsWFY2a0VPRVdZUVJKVThhTnF0WEQ4MXFScU9LUXpPNUk0Yi16ZUhCdk0xU3dJWWRoRDM2NHZ6YjdhaUlBZEFHbTFsaFRuVzZzeFdRdlZ5YWQ0Sjh2ekRKVnk5V1NBMms?oc=5	未分類	-
 2026-10-27	江蘇多間大學要求 改用數字人民幣出糧 (22:09) - 20261027 - 兩岸	https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSFIxX3BJcndMV1BqbWk5RnptOXVCNFhNUXQ5WDA4RTRlYnFkR3BVc211TEcyNkowaG5RYmNmUGNlRGx3MGJpWWc4YnBGLVBJazFyYUt2RnhlaWlsVll2YnpyWmtsaVJIaENvVWZ3Ull5ZFFnUE5hSFNmNmMxc1VpZW9JTEM1blpKOVdvMEdjbTIxRmw1MDljVk43cnJKLXo5WGQwcWhRRnlTaHZYWEo4SlBZZjY5eFZZbWhSRUpOaUtpRFBTY2pKNi14bFJUYmcyeFNtYm5oRnllZ1N5TVQyQjFLSzYtN2hXcXRuMW9aeGstTkZfdFFsQ0Z5UDZsR3gzbXJSMlBsakdrT1h3QzV5WTdPVGV1TzFGTXFCR3lNY0lkWktPcVBzMDhXanAzckpvQVVjTGtFclhEeWMwbkZpNUFlNk9UVFJ1WGxNNGNqOVFsUnNVNFp5RF9DWWI?oc=5	CBDC數字貨幣	-
@@ -383,6 +385,7 @@ var DATA_TECH = `
 2026-07-02	駭客公開勒索200萬美金 台灣上市櫃企業頻遭駭！資安堪慮	https://tw.news.yahoo.com/駭客公開勒索200萬美金-台灣上市櫃企業頻遭駭-資安堪慮-043426250.html	駭客網攻	A
 2026-07-02	回應 AI 驅動駭客威脅加速 Apple 提前釋出 iOS．iPadOS．macOS 26.5.2 安全更新	https://news.now.com/mobile/technology/player?newsId=653022	駭客網攻	A
 2026-07-01	獨家／台灣散熱大廠遭駭客勒索200萬美金 2TB機密恐外洩	https://tw.stock.yahoo.com/news/獨家-台灣散熱大廠遭駭客勒索200萬美金-2tb機密恐外洩-090920264.html	駭客網攻	A
+2026-07-01	AI 策略師開除半數 AI 代理人 揭露淪為「機器人保姆」的職場困境	https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZMzFTOE92UG42NXZKc0tDOG5nUXJfNWNXekJlV2M4bTJIb3hfX0ZQX0xjSXZ3cENmSEZ2amN4SFo2LXM5UElXN1Zvem96cDk2OTBFSWZB?oc=5	未分類	-
 2026-06-30	遭駭客入侵 網家PChome回應了	https://udn.com/news/amp/story/7240/9597771	駭客網攻	A
 2026-06-30	蘋果保密破功！塔塔集團遭駭客入侵iPhone 18 Pro供應商名單、關鍵零件與測試照「暗網全曝光」	https://tw.news.yahoo.com/蘋果保密破功-塔塔集團遭駭客入侵-iphone-18-pro供應商名單-034500065.html	駭客網攻	A
 2026-06-30	獨／PChome遭駭客入侵 長達12頁的滲透報告讓350萬用戶個資全都露	https://udn.com/news/amp/story/7241/9597652	駭客網攻	A
