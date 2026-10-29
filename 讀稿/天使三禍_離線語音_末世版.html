@@ -253,6 +253,13 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
 #asidebody p.script{border-left-color:var(--acc);margin:1em 0}
 :root[data-theme="scroll"] #asidebody p{background:rgba(200,68,42,.05)}
 
+/* ═══════════════ 空白區隱藏（126 各篇唔需要天使三禍專屬區）═══════════════ */
+.no-tl #tl,.no-sch #sch,.no-ref #ref{display:none}
+.no-ref .reflink{display:none}
+.no-tl .tlnav{display:none}
+.tlfullnav{display:none}
+.no-tl .tlfullnav{display:inline-flex}
+
 /* ═══════════════ 整條時間軸（126 數據層）═══════════════ */
 #tlfull{border:1px solid var(--line);border-radius:13px;background:var(--bg2);overflow:hidden;
   box-shadow:0 4px 18px rgba(0,0,0,.22)}
@@ -307,7 +314,7 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
-<body>
+<body class="">
 <div id="prog"></div>
 
 <!-- ═══════════ HERO ═══════════ -->
@@ -326,9 +333,10 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
     </div>
     <div id="cta">
       <button class="btn primary" id="btnStart">▶ 開始聽</button>
-      <a class="btn" href="#tl">⏱ 時間線</a>
+      <a class="btn tlnav" href="#tl">⏱ 時間線</a>
+      <a class="btn tlfullnav" href="#tlfullsec">⏱ 整條時間軸</a>
       <a class="btn" href="#doc">📖 讀稿</a>
-      <a class="btn" href="#ref">📚 逐節查經</a>
+      <a class="btn reflink" href="#ref">📚 逐節查經</a>
     </div>
     <div id="scrollHint">向下 · SCROLL</div>
   </div>
