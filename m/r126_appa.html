@@ -126,6 +126,7 @@ body{background:var(--bg);color:var(--ink);
 /* ═══════════════ 稿內 toggle（數字系統等）═══════════════ */
 #doc details.docTg{border:1px solid var(--line);border-radius:13px;margin:1.5em 0;background:var(--bg2);
   overflow:hidden;box-shadow:0 4px 18px rgba(0,0,0,.25)}
+#doc details.docTg>summary:after{content:"（按一下開，再按收）";font-size:.78em;opacity:.6;margin-left:10px}
 #doc details.docTg>summary{cursor:pointer;padding:15px 17px;font-size:1rem;font-weight:600;letter-spacing:.03em;
   color:var(--ink);list-style:none;display:flex;align-items:center;gap:12px;user-select:none}
 #doc details.docTg>summary::-webkit-details-marker{display:none}
@@ -554,20 +555,20 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
 由新冠 +1260 +1260 ＝ 20271026, 對應鏡像起點與終點。
 20271026 − 25 ＝ 20271001, 正是吹角節, 符合末次號筒嘅時間線。</div>
   <div class="tlwarn">⚠️ 標 🔢 只作對照，標 🔭 是未到的查驗點，不可寫成既定事實。日期仍須由往後事件驗證。</div>
-  <div class="tlback"><a class="btn" href="#doc">📖 回到讀稿</a></div>
+  <div class="tlback"><a class="btn" href="#doc">📖 按一下跳返讀稿</a></div>
 </section>
 
 <!-- ═══════════ 原文對照（視覺資料，不朗讀）═══════════ -->
 <section id="sch">
   <div class="secH">原文對照 · 出處（視覺資料，不朗讀）</div>
-  <details id="schbox"><summary>撳一下展開／收起</summary>
+  <details id="schbox"><summary>按一下開，再按收</summary>
     <div id="schbody"></div></details>
 </section>
 
 <!-- ═══════════ 逐節查經 ═══════════ -->
 <section id="ref">
   <div class="refhead">逐節查經 · 66 啟示錄 8:13</div>
-  <details id="refbox"><summary>撳一下展開／收起</summary>
+  <details id="refbox"><summary>按一下開，再按收</summary>
     <div id="refbody"><div class="ntx"></div></div></details>
 </section>
 
