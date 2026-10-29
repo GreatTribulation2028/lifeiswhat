@@ -119,8 +119,8 @@ body{background:var(--bg);color:var(--ink);
 #doc p.script:before{content:"經文";position:absolute;left:-1px;top:-.62em;font-size:.58rem;
   letter-spacing:.3em;color:var(--acc2);background:var(--bg);padding:0 .5em}
 #doc p .tw{white-space:pre-wrap}
-#doc .secMark{display:block;text-align:center;font-size:.6rem;letter-spacing:.42em;color:var(--gold);
-  margin:2.6em 0 1.4em;opacity:.9}
+#doc .secMark{display:block;text-align:center;font-size:1.32rem;letter-spacing:.14em;color:var(--gold);
+  margin:2.6em 0 1.4em;opacity:.95;font-weight:700;line-height:1.5}
 #doc .secMark:before,#doc .secMark:after{content:"—";opacity:.4;margin:0 .7em}
 
 /* ═══════════════ 稿內 toggle（數字系統等）═══════════════ */
@@ -262,6 +262,22 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
 
 /* ═══════════════ 整條時間軸（126 數據層）═══════════════ */
 .btn.big{font-size:1.12rem;padding:13px 26px}
+.tllegend{border-left:3px solid var(--gold);background:rgba(216,180,106,.07);color:#d9cfb8;
+  padding:11px 14px;border-radius:0 8px 8px 0;margin:14px 0 18px;font-size:.9rem;line-height:1.8}
+.tllegend b{color:var(--gold);letter-spacing:.14em}
+.vtlwrap{margin:0 0 26px}
+.vtlhead{font-size:1.12rem;font-weight:700;color:var(--gold);letter-spacing:.06em;margin-bottom:14px}
+.vtitem{display:grid;grid-template-columns:76px 26px 1fr;gap:8px;align-items:start;position:relative;padding-bottom:13px}
+.vtitem::before{content:'';position:absolute;left:87px;top:14px;bottom:0;width:2px;background:var(--line)}
+.vtitem:last-child::before{display:none}
+.vtdate{font-size:.74rem;color:var(--dim);text-align:right;padding-top:6px;letter-spacing:.03em;white-space:nowrap}
+.vtdot{width:18px;height:18px;border-radius:50%;background:var(--bg2);border:2px solid var(--acc);
+  margin:5px auto 0;position:relative;z-index:1;font-size:.62rem;line-height:14px;text-align:center}
+.vtcard{border:1px solid var(--line);border-left:3px solid var(--acc2);border-radius:0 10px 10px 0;
+  background:var(--bg2);padding:9px 13px}
+.vttitle{font-size:1rem;font-weight:700;color:var(--ink);line-height:1.45}
+.vtsub{font-size:.84rem;color:var(--dim);margin-top:3px;line-height:1.6}
+.vtcum{font-size:.8rem;color:var(--gold);margin-top:4px}
 .tlwarn{border-left:3px solid var(--gold);background:rgba(216,180,106,.07);color:#d9cfb8;
   padding:11px 14px;border-radius:0 8px 8px 0;margin:14px 0 18px;font-size:.9rem;line-height:1.7}
 .anchors{border:1px solid var(--line);border-radius:13px;padding:16px 18px;margin:0 0 18px;background:var(--bg2)}
@@ -320,7 +336,7 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
   #doc{font-size:calc(var(--fs) + 1px);line-height:var(--lh);padding:16px 14px 96px}
   #doc p{padding:.35em .5em .75em;margin-bottom:.35em}
   #doc p.script{padding:1em .9em;margin:1.1em 0}
-  #doc .secMark{font-size:.95em}
+  #doc .secMark{font-size:1.3em}
   #bar{max-height:none;overflow-x:auto}
   #tcards{grid-template-columns:1fr 1fr;gap:8px}
   .tcard{padding:10px}
@@ -392,97 +408,6 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
     由創世到末世一直都係同一條蛇。</div>
 </section>
 
-<!-- ═══════════ 整條時間軸（126 數據層，獨立區，唔入主段；已取消摺起）═══════════ -->
-<section id="tlfullsec">
-  <div class="secH">整條時間軸 · 末次號筒（2019 → 2028）</div>
-  <div class="tlrow"><a class="btn" href="#tlfullbody">⏱ 整條時間軸（66 項）</a></div>
-  <div class="tlwarn">⚠️ 標 🔢 只作對照，標 🔭 是未到的查驗點，不可寫成既定事實。日期仍須由往後事件驗證。</div>
-  <div class="anchors">
-    <div class="anch-t">觀察錨點</div>
-    <div class="anch-s">由第一宗新冠，按但以理書加一年的看法</div>
-    <p class="anch-l">📍 零點 20201201（起算）｜<br>第 1260 日 ＝ 20240514｜<br>第 2520 日 ＝ 20271026｜<br>末次號筒 ＝ 20271001 ｜（終點前 25 日）</p>
-  </div>
-  <div class="fourhorses">（白馬）→（紅馬）→（黑馬）→（灰馬）
-係同一個系列, 同一個系統, 係為咗達到目標而發生嘅漸進式事件。
-各自有着時間值在內, 直到灰馬嘅時候, 已是疊加了白紅黑灰嘅災難。
-由灰馬到死亡四分之一人口, 仲需要累計刀劍 → 飢荒 → (新)瘟疫 → 惡獸殺人 → 累計起來, 直到死亡四分之一的人。
-如果全球突然死亡四分之一人口, 人人都知道可能係啟示錄嘅大災難了, 便與保持警醒同看守衣服嘅吩咐產生違和了。</div>
-  <div id="tlfullbody"><table><thead><tr><th>#</th><th>狀態</th><th>累計</th><th>日期</th><th>事件</th></tr></thead><tbody>
-<tr><td class="nm">1</td><td class="st">✅</td><td class="cu">−366</td><td class="dt">20191201</td><td>🐴 （白馬）首宗新冠瘟疫</td></tr>
-<tr><td class="nm">2</td><td class="st">✅</td><td class="cu">0</td><td class="dt">20201201</td><td>📍 12 個月通知期完，按但以理書模式，（白馬）開始計日數</td></tr>
-<tr><td class="nm">3</td><td class="st">✅</td><td class="cu">+450</td><td class="dt">20220224</td><td>🐴 （紅馬）俄烏開戰</td></tr>
-<tr><td class="nm">5</td><td class="st">✅</td><td class="cu">+855</td><td class="dt">20230405</td><td>🐴 （黑馬）／逾越節／以色列民奪去埃及的金子，埃及進入經濟衰退</td></tr>
-<tr><td class="nm">6</td><td class="st">✅</td><td class="cu">+1040</td><td class="dt">20231007</td><td>(但 11:31事件) - 哈馬斯突襲以色列，阿薩克洪水戰爭</td></tr>
-<tr><td class="nm">7</td><td class="st">✅</td><td class="cu">+1125</td><td class="dt">20231231</td><td>🐴 （灰馬）能登半島地震，換算數字的意思是奧運(指向巴黎奧運)</td></tr>
-<tr><td class="nm">8</td><td class="st">✅</td><td class="cu">+1238</td><td class="dt">20240422</td><td>🐄 (一七之半) - 紅母牛逾越節獻祭被止息因為(但 11:31事件，而次序無誤)</td></tr>
-<tr><td class="nm">9</td><td class="st">✅</td><td class="cu">+1260</td><td class="dt">20240514</td><td>（一七之半）以色列獨立日</td></tr>
-<tr><td class="nm">10</td><td class="st">✅</td><td class="cu">+1290</td><td class="dt">20240613</td><td>（一七之半）七七節翌日（但 12:11）</td></tr>
-<tr><td class="nm">11</td><td class="st">✅</td><td class="cu">+1333</td><td class="dt">20240726</td><td>巴黎奧運開幕(1335減去兩個見證人的數目)</td></tr>
-<tr><td class="nm">12</td><td class="st">✅</td><td class="cu">+1386</td><td class="dt">20240917</td><td>(第五印)Mpox 疫苗首針(由monkeypox改名做Mpox, Mpox數字是440=antichrists的數字)</td></tr>
-<tr class="calc"><td class="nm">13</td><td class="st">🔢</td><td class="cu">+1498</td><td class="dt">20250107</td><td>(第六印)西藏地震＋南加州大火（對應六印，啟 6:12）(日頭變黑如蒙毛布，滿月變紅如血)</td></tr>
-<tr><td class="nm">14</td><td class="st">✅</td><td class="cu">+1512</td><td class="dt">20250121</td><td>美國總統就職</td></tr>
-<tr><td class="nm">15</td><td class="st">✅</td><td class="cu">+1583</td><td class="dt">20250402</td><td>Liberation Day：關稅宣佈</td></tr>
-<tr><td class="nm">16</td><td class="st">✅</td><td class="cu">+1588</td><td class="dt">20250407</td><td>關稅生效(對應20250107後90天的意念)</td></tr>
-<tr class="calc"><td class="nm">17</td><td class="st">🔢</td><td class="cu">+1590</td><td class="dt">20250409</td><td>(寂靜二刻)關稅暫緩（寂靜二刻= 90 天)）</td></tr>
-<tr class="calc"><td class="nm">18</td><td class="st">🔢</td><td class="cu">+1596</td><td class="dt">20250415</td><td>逾越節（一載 −30 日=1290-1260鏡像）</td></tr>
-<tr class="calc"><td class="nm">19</td><td class="st">🔢</td><td class="cu">+1626</td><td class="dt">20250515</td><td>Lag BaOmer（篝火節）(假基督的節日)</td></tr>
-<tr class="calc"><td class="nm">20</td><td class="st">🔢</td><td class="cu">+1655</td><td class="dt">20250613</td><td>(一載)崛起之獅（1290 日後，灰馬的刀劍，剛好一載後發動以伊戰爭）</td></tr>
-<tr><td class="nm">21</td><td class="st">✅</td><td class="cu">+1673</td><td class="dt">20250701</td><td>🐄 紅母牛屠宰焚燒(90天等於一日抵一年)</td></tr>
-<tr><td class="nm">22</td><td class="st">✅</td><td class="cu">+1679</td><td class="dt">20250707</td><td>🐄 紅母牛儀式公佈實日(寂靜二刻的鏡像90天後的90天)</td></tr>
-<tr class="calc"><td class="nm">23</td><td class="st">🔢</td><td class="cu">+1680</td><td class="dt">20250708</td><td>🐄 紅母牛儀式公佈（7.5日乘12支派=90，再乘12門徒）</td></tr>
-<tr><td class="nm">24</td><td class="st">✅</td><td class="cu">+1690</td><td class="dt">20250718</td><td>GENIUS Act</td></tr>
-<tr><td class="nm">25</td><td class="st">✅</td><td class="cu">+1700</td><td class="dt">20250728</td><td>UN 兩國方案會議</td></tr>
-<tr><td class="nm">26</td><td class="st">✅</td><td class="cu">+1746</td><td class="dt">20250912</td><td>巴勒斯坦建國投票</td></tr>
-<tr><td class="nm">27</td><td class="st">✅</td><td class="cu">+1751</td><td class="dt">20250917</td><td>TikTok 協議</td></tr>
-<tr><td class="nm">28</td><td class="st">✅</td><td class="cu">+1756</td><td class="dt">20250922</td><td>吹角節 5786／多國承認巴勒斯坦建國</td></tr>
-<tr><td class="nm">29</td><td class="st">🔭</td><td class="cu">+1758</td><td class="dt">20250924</td><td>巴勒斯坦建國</td></tr>
-<tr><td class="nm">30</td><td class="st">✅</td><td class="cu">+1835</td><td class="dt">20251210</td><td>南方之矛行動啟動</td></tr>
-<tr><td class="nm">31</td><td class="st">✅</td><td class="cu">+1873</td><td class="dt">20260117</td><td>格陵蘭危機(格陵蘭數字是111:666)</td></tr>
-<tr><td class="nm">32</td><td class="st">✅</td><td class="cu">+1899</td><td class="dt">20260212</td><td>UFO 行政命令</td></tr>
-<tr><td class="nm">33</td><td class="st">✅</td><td class="cu">+1914</td><td class="dt">20260227</td><td>McCasland 失蹤</td></tr>
-<tr><td class="nm">34</td><td class="st">✅</td><td class="cu">+1915</td><td class="dt">20260228</td><td>⚔️ 攻伊朗（最大匯聚點，火攙著血=石油)）</td></tr>
-<tr class="calc"><td class="nm">35</td><td class="st">🔢</td><td class="cu">+1961</td><td class="dt">20260415</td><td>(二載)霍爾木茲封鎖</td></tr>
-<tr><td class="nm">36</td><td class="st">✅</td><td class="cu">+1984</td><td class="dt">20260508</td><td>PURSUE UFO 網站上線</td></tr>
-<tr><td class="nm">37</td><td class="st">✅</td><td class="cu">+1998</td><td class="dt">20260522</td><td>UFO 第二批解密</td></tr>
-<tr><td class="nm">38</td><td class="st">✅</td><td class="cu">+2015</td><td class="dt">20260608</td><td>🌊 民答那峨大地震</td></tr>
-<tr><td class="nm">39</td><td class="st">🔭</td><td class="cu">+2016</td><td class="dt">20260609</td><td>第三號觀察期</td></tr>
-<tr class="calc"><td class="nm">40</td><td class="st">🔢</td><td class="cu">+2020</td><td class="dt">20260613</td><td>(二載)二載標記＋美伊和平協議</td></tr>
-<tr><td class="nm">41</td><td class="st">✅</td><td class="cu">+2021</td><td class="dt">20260614</td><td>(二載)美伊和平協議原定簽署日</td></tr>
-<tr><td class="nm">42</td><td class="st">✅</td><td class="cu">+2041</td><td class="dt">20260704</td><td>美國獨立日</td></tr>
-<tr><td class="nm">43</td><td class="st">🔭</td><td class="cu">+2128</td><td class="dt">20260929</td><td>112 節拍</td></tr>
-<tr><td class="nm">44</td><td class="st">🔭</td><td class="cu">+2142</td><td class="dt">20261013</td><td>第四號觀察窗首日</td></tr>
-<tr><td class="nm">45</td><td class="st">🔭</td><td class="cu">+2172</td><td class="dt">20261112</td><td>第四號二線（+30）</td></tr>
-<tr><td class="nm">46</td><td class="st">🔭</td><td class="cu">+2217</td><td class="dt">20261227</td><td>第四號三線（+75）</td></tr>
-<tr><td class="nm">47</td><td class="st">🔭</td><td class="cu">+2240</td><td class="dt">20270119</td><td>112 節拍</td></tr>
-<tr><td class="nm">48</td><td class="st">🔭</td><td class="cu">+2268</td><td class="dt">20270216</td><td>（天使三禍）第五號最早推算日</td></tr>
-<tr><td class="nm">49</td><td class="st">🔭</td><td class="cu">+2298</td><td class="dt">20270318</td><td>（天使三禍）第五號二線（住在地上的民禍哉）</td></tr>
-<tr><td class="nm">50</td><td class="st">🔭</td><td class="cu">+2320</td><td class="dt">20270409</td><td>（天使三禍）580 節拍（災難由以色列擴展到外邦人）</td></tr>
-<tr><td class="nm">51</td><td class="st">🔭</td><td class="cu">+2343</td><td class="dt">20270502</td><td>（天使三禍）第五號三線（獸的數目全面強制）</td></tr>
-<tr><td class="nm">52</td><td class="st">🔭</td><td class="cu">+2352</td><td class="dt">20270511</td><td>112 節拍</td></tr>
-<tr class="calc"><td class="nm">53</td><td class="st">🔢</td><td class="cu">+2355</td><td class="dt">20270514</td><td>（三載）以色列建國日</td></tr>
-<tr class="calc"><td class="nm">54</td><td class="st">🔢</td><td class="cu">+2385</td><td class="dt">20270613</td><td>（三載）標記・收割節翌日</td></tr>
-<tr><td class="nm">55</td><td class="st">🔭</td><td class="cu">+2394</td><td class="dt">20270622</td><td>126 節拍</td></tr>
-<tr><td class="nm">56</td><td class="st">✅</td><td class="cu">+2406</td><td class="dt">20270704</td><td>美國獨立日</td></tr>
-<tr><td class="nm">57</td><td class="st">🔭</td><td class="cu">+2464</td><td class="dt">20270831</td><td>112 節拍</td></tr>
-<tr><td class="nm">58</td><td class="st">✅</td><td class="cu">+2495</td><td class="dt">20271001</td><td>吹角節前夕（由 20260228 事隔 580 ＝ 龍的數字）</td></tr>
-<tr><td class="nm">59</td><td class="st">✅</td><td class="cu">+2496</td><td class="dt">20271002</td><td>🏁 末次號筒／吹角節 5788（6000 − 212 年）</td></tr>
-<tr><td class="nm">60</td><td class="st">✅</td><td class="cu">+2505</td><td class="dt">20271011</td><td>贖罪日</td></tr>
-<tr><td class="nm">61</td><td class="st">✅</td><td class="cu">+2510</td><td class="dt">20271016</td><td>住棚節</td></tr>
-<tr><td class="nm">62</td><td class="st">✅</td><td class="cu">+2517</td><td class="dt">20271023</td><td>聖會節</td></tr>
-<tr><td class="nm">63</td><td class="st">✅</td><td class="cu">+2520</td><td class="dt">20271026</td><td>錨點 + 2520（7 × 360）</td></tr>
-<tr><td class="nm">64</td><td class="st">✅</td><td class="cu">+2568</td><td class="dt">20271213</td><td>半載標記</td></tr>
-<tr><td class="nm">65</td><td class="st">✅</td><td class="cu">+2581</td><td class="dt">20271226</td><td>光明節 5788（+666）</td></tr>
-<tr><td class="nm">66</td><td class="st">✅</td><td class="cu">+2595</td><td class="dt">20280109</td><td>Asarah B'Tevet</td></tr>
-</tbody></table></div>
-  <div class="anch-t" style="margin-top:22px">末次號筒落在哪一天</div>
-  <div class="lasttrumpet">創世記, 「要有光（יְהִי אוֹר），就有了光。」
-從第一個詞（בְּרֵאשִׁית）起依序向後數, 第一個「光」詞正好落在第 25 位。
-
-由新冠 +1260 +1260 ＝ 20271026, 對應鏡像起點與終點。
-20271026 − 25 ＝ 20271001, 正是吹角節, 符合末次號筒嘅時間線。</div>
-  <div class="tlwarn">⚠️ 標 🔢 只作對照，標 🔭 是未到的查驗點，不可寫成既定事實。日期仍須由往後事件驗證。</div>
-  <div class="tlback"><a class="btn" href="#doc">📖 回到讀稿</a></div>
-</section>
 
 <!-- ═══════════ 正文 ═══════════ -->
 <main id="wrap"><article id="doc"><span class="secMark" data-s="0">七年前, 1st 瘟疫</span>
@@ -534,6 +459,119 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
 <section id="asideBox">
   <div class="secH">另一種解法 · 同一段文字的第二種讀法</div>
   <div id="asidebody"></div>
+</section>
+
+<!-- ═══════════ 整條時間軸（126 數據層，獨立區，唔入主段；已取消摺起）═══════════ -->
+<section id="tlfullsec">
+  <div class="secH">整條時間軸 · 末次號筒（2019 → 2028）</div>
+  <div class="tlrow"><a class="btn" href="#tlfullbody">⏱ 整條時間軸（66 項）</a></div>
+  <div class="tllegend"><b>LEGEND :</b><br>⚠️ 標 🔢 只作對照<br>⚠️ 標 🔭 是未到的查驗點，不可寫成既定事實。日期仍須由往後事件驗證。</div>
+  <div class="anchors">
+    <div class="anch-t">觀察錨點</div>
+    <div class="anch-s">由第一宗新冠，按但以理書加一年的看法</div>
+    <p class="anch-l">📍 零點 20201201（起算）｜<br>第 1260 日 ＝ 20240514｜<br>第 2520 日 ＝ 20271026｜<br>末次號筒 ＝ 20271001 ｜（終點前 25 日）</p>
+  </div>
+  <div class="fourhorses">（白馬）→（紅馬）→（黑馬）→（灰馬）
+係同一個系列, 同一個系統, 係為咗達到目標而發生嘅漸進式事件。
+各自有着時間值在內, 直到灰馬嘅時候, 已是疊加了白紅黑灰嘅災難。
+由灰馬到死亡四分之一人口, 仲需要累計刀劍 → 飢荒 → (新)瘟疫 → 惡獸殺人 → 累計起來, 直到死亡四分之一的人。
+如果全球突然死亡四分之一人口, 人人都知道可能係啟示錄嘅大災難了, 便與保持警醒同看守衣服嘅吩咐產生違和了。</div>
+  <div class="vtlwrap">
+    <div class="vtlhead">時間軸重點 · 由上而下</div>
+    <div id="vtl"><div class="vtitem"><div class="vtdate">20191201</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">白馬 · 首宗新冠</div><div class="vtsub">武漢首宗新冠肺炎疫情</div><div class="vtcum">累計 −366</div></div></div>
+<div class="vtitem"><div class="vtdate">20201201</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">起算 · 12 個月通知期完</div><div class="vtsub">按但以理書模式，白馬開始計日數</div><div class="vtcum">累計 0</div></div></div>
+<div class="vtitem"><div class="vtdate">20220224</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">紅馬 · 俄烏開戰</div><div class="vtcum">累計 +450</div></div></div>
+<div class="vtitem"><div class="vtdate">20230405</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">黑馬 · 逾越節</div><div class="vtsub">以色列民奪去埃及的金子，埃及進入經濟衰退</div><div class="vtcum">累計 +855</div></div></div>
+<div class="vtitem"><div class="vtdate">20231007</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">哈馬斯突襲以色列</div><div class="vtsub">阿薩克洪水戰爭</div><div class="vtcum">累計 +1040</div></div></div>
+<div class="vtitem"><div class="vtdate">20231231</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">灰馬 · 能登半島地震</div><div class="vtsub">換算數字的意思是奧運（指向巴黎奧運）</div><div class="vtcum">累計 +1125</div></div></div>
+<div class="vtitem"><div class="vtdate">20240422</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">紅母牛獻祭被止息</div><div class="vtsub">逾越節獻祭停止（但 11:31 事件，次序無誤）</div><div class="vtcum">累計 +1238</div></div></div>
+<div class="vtitem"><div class="vtdate">20240514</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">一七之半 · 以色列獨立日</div><div class="vtsub">第 1260 日</div><div class="vtcum">累計 +1260</div></div></div>
+<div class="vtitem"><div class="vtdate">20250107</div><div class="vtdot">🔢</div><div class="vtcard"><div class="vttitle">六印對照</div><div class="vtsub">西藏地震＋南加州大火（啟 6:12）</div><div class="vtcum">累計 +1498</div></div></div>
+<div class="vtitem"><div class="vtdate">20250701</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">紅母牛屠宰焚燒</div><div class="vtsub">90 天等於一日抵一年</div><div class="vtcum">累計 +1673</div></div></div>
+<div class="vtitem"><div class="vtdate">20260228</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">攻伊朗 · 最大匯聚點</div><div class="vtsub">火攙著血＝石油</div><div class="vtcum">累計 +1915</div></div></div>
+<div class="vtitem"><div class="vtdate">20270318</div><div class="vtdot">🔭</div><div class="vtcard"><div class="vttitle">天使三禍 · 二線</div><div class="vtsub">住在地上的民禍哉</div><div class="vtcum">累計 +2298</div></div></div>
+<div class="vtitem"><div class="vtdate">20270409</div><div class="vtdot">🔭</div><div class="vtcard"><div class="vttitle">天使三禍 · 580 節拍</div><div class="vtsub">災難由以色列擴展到外邦人</div><div class="vtcum">累計 +2320</div></div></div>
+<div class="vtitem"><div class="vtdate">20270502</div><div class="vtdot">🔭</div><div class="vtcard"><div class="vttitle">天使三禍 · 三線</div><div class="vtsub">獸的數目全面強制</div><div class="vtcum">累計 +2343</div></div></div>
+<div class="vtitem"><div class="vtdate">20271001</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">吹角節前夕</div><div class="vtsub">由 20260228 事隔 580 ＝ 龍的數字</div><div class="vtcum">累計 +2495</div></div></div>
+<div class="vtitem"><div class="vtdate">20271002</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">末次號筒 · 吹角節 5788</div><div class="vtsub">（七號）6000 − 212 年</div><div class="vtcum">累計 +2496</div></div></div>
+<div class="vtitem"><div class="vtdate">20271026</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">錨點 · 2520</div><div class="vtsub">7 × 360</div><div class="vtcum">累計 +2520</div></div></div>
+<div class="vtitem"><div class="vtdate">20271226</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">光明節 5788</div><div class="vtsub">+666</div><div class="vtcum">累計 +2581</div></div></div></div>
+  </div>
+  <div id="tlfullbody"><table><thead><tr><th>#</th><th>狀態</th><th>累計</th><th>日期</th><th>事件</th></tr></thead><tbody>
+<tr><td class="nm">1</td><td class="st">✅</td><td class="cu">−366</td><td class="dt">20191201</td><td>🐴 （白馬）首宗新冠瘟疫</td></tr>
+<tr><td class="nm">2</td><td class="st">✅</td><td class="cu">0</td><td class="dt">20201201</td><td>📍 12 個月通知期完，按但以理書模式，（白馬）開始計日數</td></tr>
+<tr><td class="nm">3</td><td class="st">✅</td><td class="cu">+450</td><td class="dt">20220224</td><td>🐴 （紅馬）俄烏開戰</td></tr>
+<tr><td class="nm">5</td><td class="st">✅</td><td class="cu">+855</td><td class="dt">20230405</td><td>🐴 （黑馬）／逾越節／以色列民奪去埃及的金子，埃及進入經濟衰退</td></tr>
+<tr><td class="nm">6</td><td class="st">✅</td><td class="cu">+1040</td><td class="dt">20231007</td><td>(但 11:31事件) - 哈馬斯突襲以色列，阿薩克洪水戰爭</td></tr>
+<tr><td class="nm">7</td><td class="st">✅</td><td class="cu">+1125</td><td class="dt">20231231</td><td>🐴 （灰馬）能登半島地震，換算數字的意思是奧運(指向巴黎奧運)</td></tr>
+<tr><td class="nm">8</td><td class="st">✅</td><td class="cu">+1238</td><td class="dt">20240422</td><td>🐄 (一七之半) - 紅母牛逾越節獻祭被止息因為(但 11:31事件，而次序無誤)</td></tr>
+<tr><td class="nm">9</td><td class="st">✅</td><td class="cu">+1260</td><td class="dt">20240514</td><td>（一七之半）以色列獨立日</td></tr>
+<tr><td class="nm">10</td><td class="st">✅</td><td class="cu">+1290</td><td class="dt">20240613</td><td>（一七之半）七七節翌日（但 12:11）</td></tr>
+<tr><td class="nm">11</td><td class="st">✅</td><td class="cu">+1333</td><td class="dt">20240726</td><td>巴黎奧運開幕(1335減去兩個見證人的數目)</td></tr>
+<tr><td class="nm">12</td><td class="st">✅</td><td class="cu">+1386</td><td class="dt">20240917</td><td>(第五印)Mpox 疫苗首針(由monkeypox改名做Mpox, Mpox數字是440=antichrists的數字)</td></tr>
+<tr class="calc"><td class="nm">13</td><td class="st">🔢</td><td class="cu">+1498</td><td class="dt">20250107</td><td>(第六印)西藏地震＋南加州大火（對應六印，啟 6:12）(日頭變黑如蒙毛布，滿月變紅如血)</td></tr>
+<tr><td class="nm">14</td><td class="st">✅</td><td class="cu">+1512</td><td class="dt">20250121</td><td>美國總統就職</td></tr>
+<tr><td class="nm">15</td><td class="st">✅</td><td class="cu">+1583</td><td class="dt">20250402</td><td>Liberation Day：關稅宣佈</td></tr>
+<tr><td class="nm">16</td><td class="st">✅</td><td class="cu">+1588</td><td class="dt">20250407</td><td>關稅生效(對應20250107後90天的意念)</td></tr>
+<tr class="calc"><td class="nm">17</td><td class="st">🔢</td><td class="cu">+1590</td><td class="dt">20250409</td><td>(寂靜二刻)關稅暫緩（寂靜二刻= 90 天)）</td></tr>
+<tr class="calc"><td class="nm">18</td><td class="st">🔢</td><td class="cu">+1596</td><td class="dt">20250415</td><td>逾越節（一載 −30 日=1290-1260鏡像）</td></tr>
+<tr class="calc"><td class="nm">19</td><td class="st">🔢</td><td class="cu">+1626</td><td class="dt">20250515</td><td>Lag BaOmer（篝火節）(假基督的節日)</td></tr>
+<tr class="calc"><td class="nm">20</td><td class="st">🔢</td><td class="cu">+1655</td><td class="dt">20250613</td><td>(一載)崛起之獅（1290 日後，灰馬的刀劍，剛好一載後發動以伊戰爭）</td></tr>
+<tr><td class="nm">21</td><td class="st">✅</td><td class="cu">+1673</td><td class="dt">20250701</td><td>🐄 紅母牛屠宰焚燒(90天等於一日抵一年)</td></tr>
+<tr><td class="nm">22</td><td class="st">✅</td><td class="cu">+1679</td><td class="dt">20250707</td><td>🐄 紅母牛儀式公佈實日(寂靜二刻的鏡像90天後的90天)</td></tr>
+<tr class="calc"><td class="nm">23</td><td class="st">🔢</td><td class="cu">+1680</td><td class="dt">20250708</td><td>🐄 紅母牛儀式公佈（7.5日乘12支派=90，再乘12門徒）</td></tr>
+<tr><td class="nm">24</td><td class="st">✅</td><td class="cu">+1690</td><td class="dt">20250718</td><td>GENIUS Act</td></tr>
+<tr><td class="nm">25</td><td class="st">✅</td><td class="cu">+1700</td><td class="dt">20250728</td><td>UN 兩國方案會議</td></tr>
+<tr><td class="nm">26</td><td class="st">✅</td><td class="cu">+1746</td><td class="dt">20250912</td><td>巴勒斯坦建國投票</td></tr>
+<tr><td class="nm">27</td><td class="st">✅</td><td class="cu">+1751</td><td class="dt">20250917</td><td>TikTok 協議</td></tr>
+<tr><td class="nm">28</td><td class="st">✅</td><td class="cu">+1756</td><td class="dt">20250922</td><td>吹角節 5786／多國承認巴勒斯坦建國</td></tr>
+<tr><td class="nm">29</td><td class="st">🔭</td><td class="cu">+1758</td><td class="dt">20250924</td><td>巴勒斯坦建國</td></tr>
+<tr><td class="nm">30</td><td class="st">✅</td><td class="cu">+1835</td><td class="dt">20251210</td><td>南方之矛行動啟動</td></tr>
+<tr><td class="nm">31</td><td class="st">✅</td><td class="cu">+1873</td><td class="dt">20260117</td><td>格陵蘭危機(格陵蘭數字是111:666)</td></tr>
+<tr><td class="nm">32</td><td class="st">✅</td><td class="cu">+1899</td><td class="dt">20260212</td><td>UFO 行政命令</td></tr>
+<tr><td class="nm">33</td><td class="st">✅</td><td class="cu">+1914</td><td class="dt">20260227</td><td>McCasland 失蹤</td></tr>
+<tr><td class="nm">34</td><td class="st">✅</td><td class="cu">+1915</td><td class="dt">20260228</td><td>⚔️ 攻伊朗（最大匯聚點，火攙著血=石油)）</td></tr>
+<tr class="calc"><td class="nm">35</td><td class="st">🔢</td><td class="cu">+1961</td><td class="dt">20260415</td><td>(二載)霍爾木茲封鎖</td></tr>
+<tr><td class="nm">36</td><td class="st">✅</td><td class="cu">+1984</td><td class="dt">20260508</td><td>PURSUE UFO 網站上線</td></tr>
+<tr><td class="nm">37</td><td class="st">✅</td><td class="cu">+1998</td><td class="dt">20260522</td><td>UFO 第二批解密</td></tr>
+<tr><td class="nm">38</td><td class="st">✅</td><td class="cu">+2015</td><td class="dt">20260608</td><td>🌊 民答那峨大地震</td></tr>
+<tr><td class="nm">39</td><td class="st">🔭</td><td class="cu">+2016</td><td class="dt">20260609</td><td>第三號觀察期</td></tr>
+<tr class="calc"><td class="nm">40</td><td class="st">🔢</td><td class="cu">+2020</td><td class="dt">20260613</td><td>(二載)二載標記＋美伊和平協議</td></tr>
+<tr><td class="nm">41</td><td class="st">✅</td><td class="cu">+2021</td><td class="dt">20260614</td><td>(二載)美伊和平協議原定簽署日</td></tr>
+<tr><td class="nm">42</td><td class="st">✅</td><td class="cu">+2041</td><td class="dt">20260704</td><td>美國獨立日</td></tr>
+<tr><td class="nm">43</td><td class="st">🔭</td><td class="cu">+2128</td><td class="dt">20260929</td><td>112 節拍</td></tr>
+<tr><td class="nm">44</td><td class="st">🔭</td><td class="cu">+2142</td><td class="dt">20261013</td><td>第四號觀察窗首日</td></tr>
+<tr><td class="nm">45</td><td class="st">🔭</td><td class="cu">+2172</td><td class="dt">20261112</td><td>第四號二線（+30）</td></tr>
+<tr><td class="nm">46</td><td class="st">🔭</td><td class="cu">+2217</td><td class="dt">20261227</td><td>第四號三線（+75）</td></tr>
+<tr><td class="nm">47</td><td class="st">🔭</td><td class="cu">+2240</td><td class="dt">20270119</td><td>112 節拍</td></tr>
+<tr><td class="nm">48</td><td class="st">🔭</td><td class="cu">+2268</td><td class="dt">20270216</td><td>（天使三禍）第五號最早推算日</td></tr>
+<tr><td class="nm">49</td><td class="st">🔭</td><td class="cu">+2298</td><td class="dt">20270318</td><td>（天使三禍）第五號二線（住在地上的民禍哉）</td></tr>
+<tr><td class="nm">50</td><td class="st">🔭</td><td class="cu">+2320</td><td class="dt">20270409</td><td>（天使三禍）580 節拍（災難由以色列擴展到外邦人）</td></tr>
+<tr><td class="nm">51</td><td class="st">🔭</td><td class="cu">+2343</td><td class="dt">20270502</td><td>(兩個見證人由傳道到見證的可能轉折點)第五號三線（獸的數目全面強制）</td></tr>
+<tr><td class="nm">52</td><td class="st">🔭</td><td class="cu">+2352</td><td class="dt">20270511</td><td>112 節拍</td></tr>
+<tr class="calc"><td class="nm">53</td><td class="st">🔢</td><td class="cu">+2355</td><td class="dt">20270514</td><td>（三載）以色列建國日</td></tr>
+<tr class="calc"><td class="nm">54</td><td class="st">🔢</td><td class="cu">+2385</td><td class="dt">20270613</td><td>（三載）標記・收割節翌日</td></tr>
+<tr><td class="nm">55</td><td class="st">🔭</td><td class="cu">+2394</td><td class="dt">20270622</td><td>(六號)126 節拍</td></tr>
+<tr><td class="nm">56</td><td class="st">✅</td><td class="cu">+2406</td><td class="dt">20270704</td><td>美國獨立日</td></tr>
+<tr><td class="nm">57</td><td class="st">🔭</td><td class="cu">+2464</td><td class="dt">20270831</td><td>(兩個見證人在六號快完，末號次筒前被殺) 112 節拍</td></tr>
+<tr><td class="nm">58</td><td class="st">✅</td><td class="cu">+2495</td><td class="dt">20271001</td><td>吹角節前夕（由 20260228 事隔 580 ＝ 龍的數字）</td></tr>
+<tr><td class="nm">59</td><td class="st">✅</td><td class="cu">+2496</td><td class="dt">20271002</td><td>(七號)🏁 末次號筒／吹角節 5788（6000 − 212 年）</td></tr>
+<tr><td class="nm">60</td><td class="st">✅</td><td class="cu">+2505</td><td class="dt">20271011</td><td>贖罪日</td></tr>
+<tr><td class="nm">61</td><td class="st">✅</td><td class="cu">+2510</td><td class="dt">20271016</td><td>住棚節</td></tr>
+<tr><td class="nm">62</td><td class="st">✅</td><td class="cu">+2517</td><td class="dt">20271023</td><td>聖會節</td></tr>
+<tr><td class="nm">63</td><td class="st">✅</td><td class="cu">+2520</td><td class="dt">20271026</td><td>錨點 + 2520（7 × 360）</td></tr>
+<tr><td class="nm">64</td><td class="st">✅</td><td class="cu">+2568</td><td class="dt">20271213</td><td>半載標記</td></tr>
+<tr><td class="nm">65</td><td class="st">✅</td><td class="cu">+2581</td><td class="dt">20271226</td><td>光明節 5788（+666）</td></tr>
+<tr><td class="nm">66</td><td class="st">✅</td><td class="cu">+2595</td><td class="dt">20280109</td><td>Asarah B'Tevet</td></tr>
+</tbody></table></div>
+  <div class="anch-t" style="margin-top:22px">末次號筒落在哪一天</div>
+  <div class="lasttrumpet">創世記, 「要有光（יְהִי אוֹר），就有了光。」
+從第一個詞（בְּרֵאשִׁית）起依序向後數, 第一個「光」詞正好落在第 25 位。
+
+由新冠 +1260 +1260 ＝ 20271026, 對應鏡像起點與終點。
+20271026 − 25 ＝ 20271001, 正是吹角節, 符合末次號筒嘅時間線。</div>
+  <div class="tlwarn">⚠️ 標 🔢 只作對照，標 🔭 是未到的查驗點，不可寫成既定事實。日期仍須由往後事件驗證。</div>
+  <div class="tlback"><a class="btn" href="#doc">📖 回到讀稿</a></div>
 </section>
 
 <!-- ═══════════ 原文對照（視覺資料，不朗讀）═══════════ -->
