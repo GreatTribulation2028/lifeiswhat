@@ -42,6 +42,7 @@ body{background:var(--bg);color:var(--ink);
   letter-spacing:.06em;color:var(--ink);text-shadow:0 0 40px rgba(200,68,42,.34),0 2px 0 rgba(0,0,0,.6)}
 #hSub{font-size:clamp(.86rem,2.4vw,1.12rem);color:var(--dim);letter-spacing:.14em;margin-bottom:1.4em}
 #three{display:flex;gap:clamp(8px,2.4vw,26px);justify-content:center;margin:1.1em 0 1.5em}
+body.no-three #three{display:none}
 .woe{flex:0 1 190px;padding:16px 8px 12px;border:1px solid var(--line);border-radius:12px;
   background:linear-gradient(180deg,rgba(200,68,42,.10),rgba(0,0,0,.25));opacity:.28;
   transform:translateY(10px) scale(.97);transition:all .9s cubic-bezier(.2,.8,.2,1)}
@@ -51,6 +52,14 @@ body{background:var(--bg);color:var(--ink);
 .woe.on b{color:#ffd9c4;text-shadow:0 0 24px rgba(224,116,63,.9)}
 .woe span{font-size:.62rem;letter-spacing:.3em;color:var(--dim)}
 #cta{margin-top:1.2em;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+/* 語言切換條（粵語／普通話繁／普通話简／English 互相連結）*/
+#langbar{margin-top:1.1em;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+#langbar a{display:inline-block;padding:.42em .9em;border:1px solid var(--line);border-radius:999px;
+  background:rgba(14,16,19,.72);color:var(--dim);font-size:.8rem;letter-spacing:.06em;
+  text-decoration:none;font-family:inherit;transition:.22s}
+#langbar a:hover{border-color:var(--acc);color:var(--ink);background:rgba(200,68,42,.18)}
+#langbar a.on{border-color:var(--gold);color:#f4e7c8;background:rgba(201,162,39,.14)}
+#langbar a .t{opacity:.6;font-size:.72em;margin-left:.4em}
 .btn{border:1px solid var(--line);background:var(--bg2);color:var(--ink);border-radius:999px;
   padding:.62em 1.5em;font-size:.9rem;cursor:pointer;text-decoration:none;font-family:inherit;
   transition:.25s;display:inline-flex;align-items:center;gap:.5em}
@@ -350,7 +359,7 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
-<body class="no-tl no-ref">
+<body class="no-tl no-ref no-three">
 <div id="prog"></div>
 
 <!-- ═══════════ HERO ═══════════ -->
@@ -359,9 +368,9 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
   <div id="scan"></div>
   <div id="vig"></div>
   <div id="heroIn">
-    <div id="kicker">啟示錄 8:13 ｜ 第四號完 · 第五號前</div>
-    <h1 id="hTitle">天使三禍</h1>
-    <div id="hSub">三聲「禍哉」，對應第五、六、七號</div>
+    <div id="kicker">126 稿 ｜ COVID 零號病人</div>
+    <h1 id="hTitle">零號病人</h1>
+    <div id="hSub">七期的起點</div>
     <div id="three">
       <div class="woe" data-w="1"><b>禍哉</b><span>第五號 · 2027-02-16</span></div>
       <div class="woe" data-w="2"><b>禍哉</b><span>第六號 · 2027-06-22</span></div>
@@ -370,6 +379,10 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
     <div id="cta">
       <button class="btn primary big" id="btnStart">▶ 開始聽</button>
     </div>
+    <div id="langbar"><a class="lang on" href="r126_zero_zhs.html">廣東話<span class="t">Cantonese</span></a>
+      <a class="lang" href="126_零號病人_離線語音_普通話繁版.html">普通話（繁）<span class="t">Mandarin</span></a>
+      <a class="lang" href="126_零號病人_離線語音_普通話简版.html">普通話（简）<span class="t">Mandarin</span></a>
+      <a class="lang" href="126_零號病人_離線語音_英文版.html">English<span class="t"></span></a></div>
     <div id="scrollHint">向下 · SCROLL</div>
   </div>
 </section>
