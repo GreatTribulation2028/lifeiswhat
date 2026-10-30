@@ -80,6 +80,7 @@ var DATA_FOOD = `
 2026-06-30	川普宣布進入國家緊急狀態、對「這物」減免關稅白宮：化肥不足已影響國內糧食安全| 謝駒蕥| 新聞	https://www.storm.mg/article/11145742	其他糧食	A
 2026-06-29	最強聖嬰+疫病+戰禍 UN：全球22國飢荒熱點 | TVBS	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSdEh2TmtBN1NfX1BsX0lPU0hoU014THZqQzF6R3RxaWlIUm5Fcm9xYVVMNFR2ODFNSldNUFprUDhZQWVPUmN4dER5c2JJNS1UYVNDMlBB?oc=5	歉收饑荒	A
 2026-06-26	最強聖嬰+疫病+戰禍 UN：全球22國飢荒熱點	https://news.tvbs.com.tw/world/3241827	歉收饑荒	A
+2026-06-25	逃離達爾富爾：乍得的母親們在樹下面臨飢荒衝突	https://news.google.com/rss/articles/CBMihgNBVV95cUxPc3Y4UWt1SDAwVjhFeDhTRnlScnNPWTZVZTBrMnhKQVlROVJGcVFWMHN4RnhYNVVnbVBDR0h0MEZsb2w1YjR3SzZSSzIwOHk4MzBfeUJBSUJ4Z3MxLTVvdUk4N21jTjBaVV9HX2Y5YzQ1X2M1dVRVdGhPVUNhZnVBSEoxTUs1VU1qTWJ2RHozd0tXbU5DZk1qQmd2TDhPLThGR0dfMkF4M285M2tJSVNiU0Nwa2d5cDdpQi1OMXo3YjJTM3o5ZHFvYXE2SGRIcERIZ2JYSkZwalNlQzgtcUJFbWNyN3RveVoyLUR5Y2ZhMjBSNnZOcElSTURxb2NhTEhpT0tyMDMxY0Vkc0RIc3NVdlVkS3lBZHVVemp2dEpnSDlManVvUmttUnVBR1JRanVYUzZzVjYzZlBqTno3LWhxQm1pMVkzZ2RLcHRScGtvOVNCT1ViV09xcTNMS09HcjlfYVJmOHJscjh1MEI0YXphNWlaZlJHdktabHFmN19ManNkZnR1d3c?oc=5	歉收饑荒	-
 2026-06-20	全球糧食大豐收、庫存滿 將削弱超級聖嬰衝擊	https://www.worldjournal.com/wj/amp/story/121488/9577895	其他糧食	B
 2026-06-18	聯合國糧食機構警告 全球13 熱點飢餓惡化數百萬人恐陷饑荒	https://www.bastillepost.com/hongkong/article/16189289-聯合國糧食機構警告-全球13熱點飢餓惡化-數百萬人	歉收饑荒	A
 2026-06-18	全球援助資金緊縮 報告：逾3億人陷糧食不安全危機	https://turnnewsapp.com/livenews/life/20260618002971-260405	其他糧食	B
@@ -116,6 +117,7 @@ var DATA_FOOD = `
 2025-11-03	中國重啟對美國部分金屬出口！鎵、鍺、銻出口禁令解除	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hcl80SUg1MWtoR2hoQ0o1enp4OUtSazZvWnBMRGxVRE9mRjA5WU1UZ21fc3Q2RDhSME4yWV9wU1QwZGd0TC1lSWozZV9HYUU?oc=5	出口禁令	-
 2025-10-28	美國聯邦政府停擺糧食援助將暫停 航空交通亦受影響	https://news.tvb.com/en/801781-美國聯邦政府停擺糧食援助將暫停航空交通亦受影響	其他糧食	A
 2025-10-23	政府停擺 9州示警：糧食券11月恐發不出來	https://www.worldjournal.com/wj/story/121172/9091269	其他糧食	A
+2025-10-03	野村陸挺：中美頻繁使用進出口禁令恐擾亂全球供應鏈	https://news.google.com/rss/articles/CBMijwFBVV95cUxQRFN0MnFXVE9wZE9KYmlHWHEtcW9zZU8zLTVlZHZvZjh6UVl6Y1BiU01mRzBnRVp5OFVsZWdndVlBT3NmSGJRR0tnbWprMWhsTFBwdWF5c0hOeVZweFUycE9uVnQtaV8yaVFBSllEQVZacUl3Tm9LU3RlTWFSMDNLY3FFWmRYQTlLbTlTczJnUQ?oc=5	出口禁令	-
 2025-05-23	全球近3億人面臨糧食危機 聯合國籲全球行動終結飢餓	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wNjhfT2NjQXp2aG9nTEx1c2haeTNDVFkwSHI0NUJIb1VEM2I0UTUwTC1PLXd6ZFJta25PeVVJN2FPM25mcGR4N2Z1QUdXbzQ?oc=5	糧荒短缺	A
 2025-03-31	AI出口禁令最大受害者，艾司摩爾執行長：歐洲不應被他人指使	https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5ZkhsOHhaUVBzN2FYaHRqdGZmVUdYNFRSNE0wQzU2aUJIMVdIUTYtRU1fV2lBYUdmTGUyMUI4b3VkSmFySTlSVVUyTkN1QQ?oc=5	出口禁令	-
 2024-12-03	美國新出口禁令140中企列黑名單台灣業者恐受影響| 國際	https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nZ2FVZ0NvdFBUbnNLS0dzZWtIbHdTTWM2NE1XdHJtSDhDaEk4RF9IYXRKb1pYQ1JuLVVxN3NEQnBNZnR2Y1lrOVQ3aFU4eGhpMzlwRUpaZTdTZXEwM0Jj?oc=5	出口禁令	-
@@ -144,6 +146,7 @@ var DATA_FOOD = `
 2022-09-08	旱災惡化全球糧價急升 聯國警告索馬里面臨饑荒 Hunger	https://hd.stheadline.com/news/daily/wo/998623/%E6%97%A5%E5%A0%B1-%E5%9C%8B%E9%9A%9B-%E6%97%B1%E7%81%BD%E6%83%A1%E5%8C%96%E5%85%A8%E7%90%83%E7%B3%A7%E5%83%B9%E6%80%A5%E5%8D%87-%E8%81%AF%E5%9C%8B%E8%AD%A6%E5%91%8A%E7%B4%A2%E9%A6%AC%E9%87%8C%E9%9D%A2%E8%87%A8%E9%A5%91%E8%8D%92	歉收饑荒	A
 2022-09-03	斯里蘭卡糧食危機 Hunger	https://tw.news.yahoo.com/%E6%96%AF%E9%87%8C%E8%98%AD%E5%8D%A1%E7%B3%A7%E9%A3%9F%E5%8D%B1%E6%A9%9F-201000984.html	糧荒短缺	A
 2022-09-02	全球糧食危機 挨餓女性比男性多出1.5億人	https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLREtUOVBfYXNNMXRidEpMNFdnMzVhRmc3LVRWTk1YcVlFYkRZWV9scmtuWUFwd3VrZ2FEUDgtQXVMUQ?oc=5	糧荒短缺	B
+2022-09-01	糧食危機的救星！多年生穀物Kernza有多「綠」？	https://news.google.com/rss/articles/CBMiTEFVX3lxTE51ZXhsLV92eV94Z3VQZnRFVU45dmRHLVNSNVRZcEFkdVhISTNZLXc3eXBRbHFkZ2xuZkE2d1llQjY1NTNrMkk0b0tUbEo?oc=5	糧荒短缺	-
 2022-08-31	金正恩糧食自主夢碎…「低調向國際求米吃」 外媒曝：北韓人民快餓死！ Hunger	https://www.ctwant.com/article/204475	其他糧食	B
 2022-08-22	中國年度糧食75%收成告急 缺水加劇農業危機 Hunger	https://www.ntdtv.com/b5/2022/08/22/a103508302.html	其他糧食	B
 2022-08-21	古特雷斯：俄糧須進入市場 否則2023年爆發糧食危機 Hunger	https://www.hk01.com/sns/article/806139	糧荒短缺	A
