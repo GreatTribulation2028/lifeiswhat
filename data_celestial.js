@@ -1,4 +1,4 @@
-// 天象 | 由 htnl_build_news_js.py 生成 | 共 58 條
+// 天象 | 由 htnl_build_news_js.py 生成 | 共 59 條
 var DATA_CELESTIAL = `
 2026-10-14	有圖／今年最大「超級月亮」點亮夜空 震撼美照曝光	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EdGo4SFNxNnVrV09ZRHc0cGRLTFVCb1ZKZzJ0eGV0eW5JMkJPRzRkY1RFZnpxaXJhMUJ6NmRlbGVxQk1Jb01YMNIBTEFVX3lxTE5STFk2WFdEMlZWRHctZGZELWxqMDRNMS1GUlNSem5Hd1dhZDVUVmkySzJkODNCakJPVElZckQ2U2dpNHk3ejFxYVdkYkM?oc=5	天象	A
 2026-09-29	3月3日的月全食將是2028年除夕前的最後一次月全食	https://citytimes.tw/科技/3月3日的月全食將是2028年除夕前的最後一次月全食/914215/	血月日蝕	A
@@ -10,6 +10,7 @@ var DATA_CELESTIAL = `
 2026-08-18	歐洲準備應對日蝕導致太陽能發電下跌	https://news.google.com/rss/articles/CBMiqgJBVV95cUxNUlJ3Q2NVZ21jWnFINlVZWWJfTl9xS19GLU5paU9pQXJ6bEJzUEJtWm9GT1B2eERVNTRJYVFHSVZWM3NZTDB4eWNZamNOMWZSc1c0SWdQR1N4S2ZPUlp6bG1wbjN1cjNmemJYcjM3SGtFemtGQnB5YWtybkN1S215VXdvN2FnSXJuSl9zeGJGY1lzcWNlWDlpeXdtTE1nUnpkMmFRazVod1d4a0RzVmNRb3U3WElkQnhrQ0Nha2UzQnAyeUlxWG1yTEJCanhIZWctZzhaRFg5RVRWaUo5Y3V2RE1vc0lFWHFDQlhDRzVXZzAtTnpPbE42UDZwci1VVS1XYUl3UGY1cDNHYk4xeVoxdkhJTlduRmVFVmh4TkxzMlZTQUZpa1NOc0FR?oc=5	血月日蝕	A
 2026-07-31	天文台：今年或現最強厄爾尼諾 極端天氣機率增 市民應提防極端天氣 (17:14) - 20260731 - 熱點	https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20260731/s00024/1785485857767/%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E5%B9%B4%E6%88%96%E7%8F%BE%E6%9C%80%E5%BC%B7%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE-%E6%A5%B5%E7%AB%AF%E5%A4%A9%E6%B0%A3%E6%A9%9F%E7%8E%87%E5%A2%9E-%E5%B8%82%E6%B0%91%E6%87%89%E6%8F%90%E9%98%B2%E6%A5%B5%E7%AB%AF%E5%A4%A9%E6%B0%A3	天象	A
 2026-06-17	6月多顆近地小行星安全飛掠地球 NASA持續監測軌道變化	https://www.technice.com.tw/technology/space/226267/	彗星隕石	A
+2026-06-10	三菱「全新Eclipse日蝕」突襲發表！轉生超帥跑旅今年開賣	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fTmxPNkR5Z09yeVdMUm9mbUh5OGNtZG5lMXVKTXlKRkpReEFqTTBGVE80OHJCR2dvbU9aVTI5Z1NZeUtxaWcxRmYtUGJad2_SAU5BVV95cUxPV1ZLVllQUXR2WXp0ZnV0RVVEcEduWUZIMFdTSlNfOVl2bTA0UmtZci1ZTW05SzlUdzRQTEhtbmZ3aWQ5SW8xSkJzV3ZZalE?oc=5	血月日蝕	-
 2026-04-08	阿提米絲二號任務公布繞月影像 太空人觀測罕見太空日蝕	https://www.technice.com.tw/technology/space/212013/	血月日蝕	A
 2026-03-04	月全食｜圖看世界各地血月掛天 - 20260304 - 圖輯	https://news.mingpao.com/ins/%E5%9C%96%E8%BC%AF/photo3/20260304/s00014/1772618550453/%E6%9C%88%E5%85%A8%E9%A3%9F-%E5%9C%96%E7%9C%8B%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E8%A1%80%E6%9C%88%E6%8E%9B%E5%A4%A9	血月日蝕	A
 2026-03-03	血月月全食｜本港元宵節多雲看不到 下次2028年除夕晚邊看邊倒數	https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60326967/%E8%A1%80%E6%9C%88%E6%9C%88%E5%85%A8%E9%A3%9F-%E6%9C%AC%E6%B8%AF%E5%85%83%E5%AE%B5%E7%AF%80%E5%A4%9A%E9%9B%B2%E7%9C%8B%E4%B8%8D%E5%88%B0-%E4%B8%8B%E6%AC%A12028%E5%B9%B4%E9%99%A4%E5%A4%95%E6%99%9A%E9%82%8A%E7%9C%8B%E9%82%8A%E5%80%92%E6%95%B8	血月日蝕	A

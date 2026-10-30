@@ -1,5 +1,15 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py 生成 | 共 538 條
+// 第四次工業革命 | 由 htnl_build_news_js.py 生成 | 共 551 條
 var DATA_TECH = `
+2026-10-30	韓股今挫低！ AI投資周期「估值消化」 半導體需求不變	https://finance.ettoday.net/news/3263327	未分類	-
+2026-10-30	屏警打造交通事故應用平台導入AI分析 改善路口效果良好	https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tWDVoV3NKVGtYNE1Vazg0M0tIdFJjNlU2dlQ3TkkwRGdQVi1PdlFSZ2xfODI1UFNxTk04ZWM4X3FLMnBHaWJmYllVTzgzVVBB0gFWQVVfeXFMTUgyWnptekRUZkE2QWY5UFhQaldILUtpTmJtMmJvZkNXWnBnUG0tUjJ5SEFETnp0WkFneXRhWUtfSUJYNncwcEptTkR1WVRhblRDSHhCWGc?oc=5	第四次工業革命	-
+2026-10-30	中華醫大58歲生日禮！校友贈「HWAI」裝置藝術 藏AI發展願景	https://www.ettoday.net/news/20261030/3263345.htm	未分類	-
+2026-10-29	（有片）工資改發數字人民幣了 有啥變化？	https://news.google.com/rss/articles/CBMid0FVX3lxTE5BS05GMV8yZDE2Z1dYbXpLUlNmX2dQbVBHMURBNnhhbFlZelJMYndTTXhXdUExamZUc3lFQVRpbHRxZTZTMGpFZU1SakEwSUpDNEJwSHgwTGN5cVBhUnJ5dDJ6LUJDR1JrVFI3YjVhX1MyT0UtcnVF?oc=5	CBDC數字貨幣	-
+2026-10-29	我國實現腦機接口領域國際標準新突破	https://news.google.com/rss/articles/CBMikAFBVV95cUxNNENLaFJzV2ZsTHlnN3dwR3R2bzJndzJOT0tUTEVEOVFRYVc4Mjc5YVYzeThFZERyQ0MxVjNkWW1lVVFmNmc5bVdTeDVmMmx0Y1lOMHE5anZXZ3dIYkJSa01vWHhRY3Z5b0hVQ0xiLVpQNTM5YWZfZWtZN3ZZcnpmb3Y4cmx6OVpuUXlRX0d1M2o?oc=5	未分類	-
+2026-10-29	內地院校改用數字人民幣出糧 業界料更多單位跟進	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2FDRl82QWZVdFRNbTRBWDM2U2drbFpYcTh4WVphdjZYRnpJUmlCN1d2M2dsT0gwSWp2ejdqd3hSQXE1TWlNNXNNTDNHeFpHeC1DcXc5d3JJQm54SXNHUW1ZbTNTNE5HUzROck9GM3pPdnZmSmQ3dUtHRnhkSXdNZU4tRHcwSncxTTVZ?oc=5	CBDC數字貨幣	-
+2026-10-27	江蘇多間大學要求 改用數字人民幣出糧 (22:09) - 20261027 - 兩岸	https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSFIxX3BJcndMV1BqbWk5RnptOXVCNFhNUXQ5WDA4RTRlYnFkR3BVc211TEcyNkowaG5RYmNmUGNlRGx3MGJpWWc4YnBGLVBJazFyYUt2RnhlaWlsVll2YnpyWmtsaVJIaENvVWZ3Ull5ZFFnUE5hSFNmNmMxc1VpZW9JTEM1blpKOVdvMEdjbTIxRmw1MDljVk43cnJKLXo5WGQwcWhRRnlTaHZYWEo4SlBZZjY5eFZZbWhSRUpOaUtpRFBTY2pKNi14bFJUYmcyeFNtYm5oRnllZ1N5TVQyQjFLSzYtN2hXcXRuMW9aeGstTkZfdFFsQ0Z5UDZsR3gzbXJSMlBsakdrT1h3QzV5WTdPVGV1TzFGTXFCR3lNY0lkWktPcVBzMDhXanAzckpvQVVjTGtFclhEeWMwbkZpNUFlNk9UVFJ1WGxNNGNqOVFsUnNVNFp5RF9DWWI?oc=5	CBDC數字貨幣	-
+2026-10-26	萬代南夢宮物流系統遭駭！「一番賞ONLINE」用戶個資外洩 配送作業緊急停擺	https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWlQS1FYWmZGVjdhcGVzRnN3NWNHQjVmN282clVrTHRDQk45d3NQSjFycWZCejhFNjd0Z3k5N1Z1U2dyci1Ta2QtSnRUZ0ZoS2FQcm5YbGVkdXcyWk96RVR6UlQ3aTM0LXVyUlFudU9VRlZBQWVfQVhVeVl5eXM0N1QzalJxU0JZQjNHenBvd2k?oc=5	資料外洩	-
+2026-10-26	苦練武打遭AI取代！「短劇王」林正峰驚傳失業 兼差5份工現況曝光	https://news.google.com/rss/articles/CBMihwNBVV95cUxPdlhwcWJaeVdObk1nSWVoSDg3bG9JRng1enZVa05WV0NDdFlPRF9rSnVrY2VjRjlTNVhrMGtTLV9oSEZMRVpkczVKWVF1ekphTy13LWVSVkRNdUhMSHRWbnpWSjhmVHF6WnZwOHNyT3A4QU1ycUNzX2xSTjNnbjBYSlRRSGtmUEJKQVVDSkc1dUlWRTJTelQzREU2anBqdVJOemR1N0lOMkxwMjR0QThmS1NxcVFiOXYxTlM0TnhOZkNmMXh4VFJndFJFQlJHWGhmRC00blNRVjBJbmJKUGpuNHhKRVhTUjFETTd0eGowVkhxZ3MtdE16SmgyRS1UVDdmODhxX3VXQlZYTmtmS1I1Q2l2UklpeDEwdWN0Q2tCSGhOUnhfQ19yTHFMeV9zT25uUEhMeFJqUWVHSFlUNU5UUDFiTEN6OWhyT2RsQVdQS0lNTG5pQmwyb3NNUVE0XzhScFBxcVNmUlkyNlAtbGNDRElqeUNfTHI0b2tJWnFMTzZ3eHNQelBR?oc=5	AI取代工作	-
+2026-10-26	Critical PHP flaw forces Web sites worldwide offline, sparks cyberattack fears PHP爆重大資安漏洞全球網站緊急下線防駭客攻擊	https://news.google.com/rss/articles/CBMid0FVX3lxTFBQS2RYYXFWbnJ6UlNaQmZzNnhvay12QmNJaU5TMWcydk53Z2hPNjRaNUdwNUFOb3cxSzhwY3FKek5zSXh5MmlnSW1WSGxORHpTRndvRjNoVkM0V21BT0pBYTBzODVkSE9lb3hDVzl0Yjk4VGtXaUtN?oc=5	駭客網攻	-
 2026-10-25	比爾蓋茲：AI將持續取代人類工作 富豪應多繳稅幫助政府	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xcXhYYzZXU3hXdDhVcUIwRTE3MFBTRmZOV3pLak5BMS1kV19yeUdBcE1PQzRBdm15aXhSTDQ3SXdQZ1QxTDBVUi1kWUdsQWlSNUJnTVBzMllFeFBtREduc0F5Qjk4SzTSAWdBVV95cUxOMXF4WGM2V1N4V3Q4VXFCMEUxNzBQU0ZmTld6S2pOQTEtZFdfcnlHQXBNT0M0QXZteWl4Ukw0N0l3UGdUMUwwVVItZFlHbEFpUjVCZ01QczJZRXhQbURHbnNBeUI5OEs0?oc=5	AI取代工作	-
 2026-10-25	《新聞女王》男星試鏡被AI取代！練打爆腳被換掉 兼5職拚生計	https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uXzQ1SW9oLU5LTllmQU1GTVpmaWNIMExtSXFPd0NTeUtPUTJnRjFqME9sYW0wVEhaSXRsQXA0SThxZXhUcm01MHRhcGJmWV84ZlpzMXVPN3VuZw?oc=5	AI取代工作	-
 2026-10-25	Fed 12月升息添變數！高盛示警美債殖利率風險：AI交易反轉、能源通膨升溫	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oRU5DaTg4SWNKTWUyOF9wdUhmMFNXZ3I2dUxRVVZCWFRHU2hiVnN2NFd3TnNlNlo5TXd5cWpqZk5DV0RDVWRkMml2UDZveVE?oc=5	第四次工業革命	-
@@ -48,6 +58,7 @@ var DATA_TECH = `
 2026-10-05	韓國多家銀行遭網絡攻擊 疑黑客利用AI施襲	https://www.hk01.com/article/60396333	駭客網攻	A
 2026-10-05	大阪公立大學遭勒索軟體挾持 系統崩潰全校停課、13萬人個資恐外洩| 國際焦點	https://www.taisounds.com/news/content/84/292334	資料外洩	A
 2026-10-05	亞運期間｜日本三企遭網攻 Times Car資料外洩京王中勒索軟件	https://www.wepro180.com/%E4%BA%9E%E9%81%8B%E6%9C%9F%E9%96%93%EF%BD%9C%E6%97%A5%E6%9C%AC%E4%B8%89%E4%BC%81%E9%81%AD%E7%B6%B2%E6%94%BB%E3%80%80times-car%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9%E4%BA%AC%E7%8E%8B%E4%B8%AD%E5%8B%92/	駭客網攻	A
+2026-10-01	你的工作會被AI取代嗎？外媒點名「6大高危險職業」近7成人恐成無業遊民	https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yeXc3bVkyUkNfcGFFeV92MVdjUkprSUR2VVViTXl0ay03bjNYQlNGbTQ0ZWc4RFJjWmJtZkt3U1lFdi1Td3cxUzA1dmN5WEZadjU4c0FadjRvX2FxeWo4LQ?oc=5	AI取代工作	-
 2026-09-30	印尼網路攻擊損失高達 62 億美元 AI 助長詐欺風險	https://sunmedia.tw/news/finance/1790722244-%E5%8D%B0%E5%B0%BC%E7%B6%B2%E8%B7%AF%E6%94%BB%E6%93%8A%E6%90%8D%E5%A4%B1%E9%AB%98%E9%81%94%2062%20%E5%84%84%E7%BE%8E%E5%85%83%E3%80%80AI%20%E5%8A%A9%E9%95%B7%E8%A9%90%E6%AC%BA%E9%A2%A8%E9%9A%AA	駭客網攻	B
 2026-09-29	黑客靠電話呃盡金融機構仲有中國間諜軟件擴散至13國 - AI • 手機	https://techbuzz.hk/google-cybersecurity-threats-financial-firms-vishing/	駭客網攻	A
 2026-09-29	黑客借Meta AI客服漏洞 大規模劫持Instagram帳號	https://techapple.com/archives/58845	駭客網攻	A
@@ -527,6 +538,7 @@ var DATA_TECH = `
 2022-08-08	台大教務處也被駭，繼總統府、小7看板後接連出事！看懂背後資安戰	https://news.google.com/rss/articles/CBMicEFVX3lxTE9UQkluUW9JZS04U05GWUtPaS0wakJvOGw2enFBSUtoUGNZbXk4YlZYWjZkT1NLMkRkOHF0V2tKTDgwSlM4TlVMY2ZoblNJTjVYLTk2a205UDR0UGtaeVVpQ0ZzdmxMNUlkMWZJVUx3YnQ?oc=5	其他資安	A
 2021-09-01	資安疑慮暫停區間測速 北宜事故率飆七成	https://finance.ftvnews.com.tw/news/detail/2021901S03M1	其他資安	B
 2021-07-16	強腕遏止外國駭客勒索 美懸賞近3億要線索	https://www.setn.com/news/968273?p=0	第四次工業革命	A
+2021-02-14	中大工程學生隊伍鑽研網絡安全勇奪兩個全港大專校際駭客競賽冠軍| 香港中文大學傳訊及公共關係處 - CUHK Communications and Public Relations Office	https://news.google.com/rss/articles/CBMitgFBVV95cUxQQjZsdXVxUHhYOERzRGZRQURrMWRfOE1VM0UwMjZiSU8waGZwdHhXMUZReXFpVDlMVlpERFFyRTk4LTI4Rk5ZZV9aTU5IZWRURi1OdkVVX254QXJBSjJJd1VEbW01T0Z6bUhQTUl4UmhtVWtiYlpwRktxcEpRakJrUjFqa2lpWUdRQU5mMzBwWjd5cEVWXzZTRVRaTWdSZmxaejh5SGRqenZsSVdFenp3NVBURDloQQ?oc=5	駭客網攻	-
 2021-01-21	拍板數位身分證暫停換發 蘇貞昌：資安攻擊手法令人擔憂	https://www.setn.com/news/885705	其他資安	B
 2020-12-25	快訊／有資安疑慮 新竹市取消明年1/1數位身分證換發	https://www.setn.com/news/871443	其他資安	B
 2020-12-18	微軟公司遭網攻 疑俄羅斯駭客藉美商軟體所為	https://www.setn.com/news/867308	駭客網攻	A
@@ -536,6 +548,7 @@ var DATA_TECH = `
 2020-05-06	這國家研究數位身分證資安20年，駭客只花1小時就破解？｜城市冷知識#17	https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUWkNuMDhqME0wbzREZG5TQW9XdHh1Vnd3Q2hMMHhPMlcydkNRWHJVdkFUT0JaMUEzUTMzcjRZc3VNcU5pTU5CYU85VUFtb0dzLXFz?oc=5	駭客網攻	A
 2019-11-14	【徹底揭露2019年臺灣最大規模病毒攻擊事件】勒索軟體衝擊！全臺醫療院所資安拉警報	https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qaWs5NVlpVFQ1QkpGcmFLRldRM2JRMTFvSGowZk9FMEZNS3ZFX2FtMTB0a2VnQ2l5X1FURmhUelpTYkl6anpTWWQzd3dRdw?oc=5	其他資安	A
 2019-05-10	【Edvance Beacon 2019】 黑客攻港大增 4 倍 企業網絡安全求明燈	https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QT3FQOV80am53c0lSNDBJZW5YWUpJWXpkcEVfQzVPNXNwQWpFT2JaVWk5cXhNTU1OZ1R0eHNHZUQ1MXc0RkpSUVkydUdxWllZUUJPUmF3NEtyWkYz?oc=5	駭客網攻	B
+2018-07-31	“腦控”成真？“腦機接口”技術或讓“讀心術”成為現實- 中國軍網	https://news.google.com/rss/articles/CBMikgFBVV95cUxNXy14QlZMSU12eFhHUklFemZuazc4cU0zV3hDZG40Vm12MEc5YTlvVmhsNWUzTF9qc3M5S0N4Q1lGS2c2OE1GaVBHejBDNklYb1NvX0w2MUxwZXNxaklnLXBvSEpyeTEzUHZuUVFkalRZZnp4enh3V3c4ekxKSEVMdU00QnVNQkZtRFc2bG1zMVlpZw?oc=5	未分類	-
 2016-09-22	再遭駭客盯上！第一金證券收勒索郵件交易系統被攻擊| 社會	https://www.setn.com/news/184100	駭客網攻	A
 2015-10-20	中美網絡安全協議後，美企業再遭中國黑客攻擊- 紐約時報中文網	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GYjRVdXJRR0haUjRycS13TFJQaWZPQ3p2R3dEUE9SOHdUT2hLazVScEJhMUl5ZlBEemF1TDhqRGkyZmpRUkNzMVJrcEpkVnkxV1Z2d3ZkVi1uQWZaV2ptTk93?oc=5	駭客網攻	A
 `;
