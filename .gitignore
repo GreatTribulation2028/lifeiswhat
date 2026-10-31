@@ -17,3 +17,8 @@ _verify*.py
 _chk*.py
 _final*.py
 _patch*.py
+
+# GitHub token 遷移（2026-10-30）：唔好推 .env
+.env
+.env.*
+!.env.example
