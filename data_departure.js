@@ -1,4 +1,4 @@
-// 離世 | 由 htnl_build_news_js.py 生成 | 共 6166 條
+// 離世 | 由 htnl_build_news_js.py 生成 | 共 5947 條
 var DATA_DEPARTURE = `
 2026-10-31	高雄醫界再傳噩耗兒童精神科醫師李博偉離世家長淚憶：不可多得良醫| 高屏離島| 地方	https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NQ043cW51MTE3YXVKUW1SZ0FnRUFSeW9UemUyU0syUU9LVXFSNEZHU1RqYzB1ZVpWbjVZbnE3d1F4dDBjbExPdG5pN1FqaG9y?oc=5	自然離世	-
 2026-10-31	高溫偷走工時又奪睡眠！陸去年人均少工作47.7小時 熱浪死亡約2萬人	https://news.google.com/rss/articles/CBMibkFVX3lxTFBOUlVzZmlHLUhIXy1EWEJObzlBR2hURU9CUzFmS0h5RlZyUXFpazBoa01OWWV4ZGZrWlZZWFI5eWFLbUdkNEdoOTk3Rm1qOEh3VTVlUUg3eXVVd2xWbFhVZ2FtVHFKVEloWV9oOTRR?oc=5	自然離世	-

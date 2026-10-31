@@ -1,4 +1,4 @@
-// 交通 | 由 htnl_build_news_js.py 生成 | 共 2391 條
+// 交通 | 由 htnl_build_news_js.py 生成 | 共 2388 條
 var DATA_TRAFFIC = `
 2026-10-31	阿明豬心老闆娘車禍驟逝無限期停業！網驚是展榮展瑞親家母 才完婚3年 | 三立新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ya010UnFFZFNMaVZsM291WWZPYTNFeWN5Mk9yQmgtQzVXc1h1NGpndDJrcWlsSlVDUVg1MjlIOHFNT09CNnp3R09wc1pZNHdhTE5xOHZn?oc=5	一般車禍	-
 2026-10-31	阿明豬心老闆娘車禍驟逝必比登名店「無限期停業」！老饕不捨| 旅遊飲食	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CanRyWHJMVUNzNHloaW9MUlZDc1BNVEN6Z05pQ0w4Wkh2X1Q2OUJLbFBiV3hzSzFxR2c3VTM3dzZzY2pTREVwYldiZkhMODIxWTdaLXg3TnFoYXA1?oc=5	一般車禍	-

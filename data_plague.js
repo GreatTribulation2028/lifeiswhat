@@ -1,4 +1,4 @@
-// 瘟疫 | 由 htnl_build_news_js.py 生成 | 共 1004 條
+// 瘟疫 | 由 htnl_build_news_js.py 生成 | 共 996 條
 var DATA_PLAGUE = `
 2026-10-31	高雄登革熱新增3例！菲籍移工、越南學生返台染疫	https://news.google.com/rss/articles/CBMicEFVX3lxTE1hVnZNd2x0azBkOWJ4QmlmQzZmNWdjY1FfTm5zaFJqNGZvMEljMVZuZFFmRzY1UFBXcGtteEdiM2loVnVRWjQ0NldYUjFiNjlWdnM3NXBIYjdYVkdGLW52bzh2RHFXd3NRRUdOQ1l2aUc?oc=5	新冠相關	-
 2026-10-31	英國爆發「瓢蟲瘟疫」！上萬隻怪異昆蟲入侵民宅 專家示警：帶有性病恐咬人	https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwWWZuZGFaYzRuRTZmOVRqMTBvZmd1VG9GRUdQYlJNYmFnb0VwWmZSeFFMS0o4eUV0RVgySkZBTGZLZm9VbjQyWTRqa2lKUXNSRDJkSHJTbmpyNjlPZFNyX0VSb9IBaEFVX3lxTE94MnlZODhZV2lwdEpUOUVRZjcxUWp2NDY2dHNxWlZQOTMzbTh5UzdQbVlTalBUa182YUhhNFN5NmJLcVlYTTRkT1dCVTNnSVlJU0pwMHU1OWhmTU52WDF1WW9qRWJUd2Nf?oc=5	其他瘟疫	-

@@ -1,4 +1,4 @@
-// 戰爭 | 由 htnl_build_news_js.py 生成 | 共 793 條
+// 戰爭 | 由 htnl_build_news_js.py 生成 | 共 792 條
 var DATA_WAR = `
 2026-10-31	馬克時空：烏克蘭首次無人機送傷兵 美國也在搞	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZajZuWDZjMUh1RGpOR3U3bnpWNklZU3ZBZWVDMzB6a3ozSmU2bEZvYmdSb2NEd2xkTENhQXRhWXhROURNc0t2YU9tS3dmNFhvNGdwQmprTmtmUDF5T3htSmd30gFnQVVfeXFMUFV5LW1wQUY2dnJqT29rZjU4ZWFpbGJ4dUtkSllKTFJENi03RDZnejRZcDNGc1ZpM3EzOHdvQTRENGRVSU1xMk1RTGhZM1NqTTlNcEp4NGR4TW1NWV9LemZNMXlkU1A3QQ?oc=5	俄烏戰事	-
 2026-10-31	陸軍無人機 竟有中國製晶片 軍方自檢告發 亞拓科技創辦人收押	https://news.ltn.com.tw/news/society/paper/1776561	空襲導彈	-

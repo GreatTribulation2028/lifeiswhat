@@ -1,4 +1,4 @@
-// 工業意外 | 由 htnl_build_news_js.py 生成 | 共 711 條
+// 工業意外 | 由 htnl_build_news_js.py 生成 | 共 707 條
 var DATA_INDUSTRY = `
 2026-10-31	葵涌工廈廢紙處理場發生工業意外 六旬男工操作打包機切斷手指	https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFktdDgxaWhnd3ljcWp5aEZ4TGhzeFBkN1AxOFhGbFhtV3VYa3lQQWJ0Z0V0Y2NNWnloc0szblZOSC1CVmFhN3FtbFdxLUdDQ2JoeENyaURUMlZEYnFrU2VITDJTODJ6VjJrTjFiM3BTQ2xiSDZsek1SczlGQng1Qk5jNm9ZTFZUeVZydEttMUY?oc=5	其他工安	-
 2026-10-30	漲價缺貨＋工廠爆炸 英特爾重挫20% 專家一句戳破：找理由罷了	https://news.google.com/rss/articles/CBMiuwJBVV95cUxNS2J4RWpWeERVWTl2eEx0U2lxTUoxOE80TDFJQ1VZYldENUUycXFaQ3NYU3A4VzFzLTZEWHFJbjJiRzRXcUUwd19JSUhnNkNOQ1JyekFQWW8yT3RUMTlwT2xRVjdIaHZ3bXVqWGtudlBqSE9xQzhmN2tUczhNMkk0R2VnTDdKRV9nenhqQVZ2UzhMSlFMT1g0NFVyaGN1REs0Z0xRcFo1NGc3R2JhQ2ZhUGdia0ZmT3lCZkVyclZ0NnFiZUx1eUJISmVCRDRxNGRiVFJpcHJmT2JxNDlDSjF2dzNKZldheHFuaHlvSW5DdUZPYzdZckswU3V2OHNxcUh2Mzl3V3FrdTlKR0ZHWjdkMnpNdU1hMGxtNjlFNWViV3lkWm9SUWowWTBZQVBlcHFYZ3pQMnRDZVlSZTQ?oc=5	坍塌爆炸	-

@@ -1,4 +1,4 @@
-// 火警 | 由 htnl_build_news_js.py 生成 | 共 1858 條
+// 火警 | 由 htnl_build_news_js.py 生成 | 共 1856 條
 var DATA_FIRE = `
 2026-10-31	雲林婚宴會館倉庫暗夜大火！民眾急呼叫「老闆快逃生」 2車慘燒成廢鐵	https://news.google.com/rss/articles/CBMiqANBVV95cUxNakRtNW9FakVpSXlySHlRaTdodEVkbUN4TEV5N2wtX21Nc1diandKUFA3VVhxMEE2amdqSklKYW5DSWNKN250SFVDdkxVUmtQWm9NTzd2QkkycXJocXJGeUU3V09zbTF5dVZTSTBkYVNKQloxZDRyWFFQSGN1a2Z0VGhiY3dJa2NDY1ZvU2ZUUkJNMExOQ3hNeWhnUkpyaG1Ra0ZuSjVpQlBXUmJPdTF6YzhGOFBlM1p3WkExMTI5NU4xQ1A2dVJYWGdmWnlIcWRQZHZYcUhjUVNuakFrNWFOM21xMTlrbWRZMFg2S2JpVi14OXVsSWc3MEsxbFQ5eXN3b0gyVG9LUEUteVdFc19seTNGeDRZMWRmcmlJQ3dOVER4SzJrZVVGZWFsY1QxVF9zVmFBXzhmY21nMjdieThfdTJwMGlvMHd5WTBOdWlTY2lOaWZ1bFJHUkJiNS1tTzVhR2JuY0xNaTdOdnI3YkxhcVVwUnlXNlZjN1V4Zm9tV3dnaW1qV044NDI1RkJ2Z1RxRDkwN0x1N1JnanAyc2xBSy1teFZxSnFE?oc=5	其他火警	-
 2026-10-31	興達電廠火警 高市環保局這原因開罰包商	https://news.ltn.com.tw/news/society/breakingnews/5624897	其他火警	-

@@ -1,4 +1,4 @@
-// 猝死 | 由 htnl_build_news_js.py 生成 | 共 1604 條
+// 猝死 | 由 htnl_build_news_js.py 生成 | 共 1515 條
 var DATA_SUDDEN = `
 2026-10-31	AI突曝殺人事件！31歲華人女工程師猝死	https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxTjhqQTZkZDFFYjJzR3E4ZVZRc0ZzdGZtZlROYzdFUFYyejg1WUdQX1VNcm42TFYzYl9ZX2FUUUF5elc0RW90Ug?oc=5	心腦猝死	-
 2026-10-30	聽ChatGPT建議停癲癇藥 亞馬遜華裔女工程師家中猝死 父母控OpenAI 過失致死	https://news.google.com/rss/articles/CBMi6wJBVV95cUxQdkRuZlZLZDB3S0tra084WWtFc2RoTEtocEltQjhQQkFVLUhLWHh1VVdjdnBIVF96aVhPQWkxZlVmT3pEUjhfSC1pc3hacHJzbm4zRnVMZjNmNlNDTW5fN2t2bnZFOGhobkN6eUdUTG4xQXNFSzlsdzhackZVQjdiVllqRnpvX1ZfdjBMRndvNmdWTjNyZmlpQjNjWnc3a0R4ZnpwMC1YbkNpOERKZkVPU0tWZmZfRG5uUjlDUmVZbVppXzlZblBaQWtVd3BpemswUWhJeEJHWlN3emhlU3FyUHU5d1ptRnI2Tld4MzVRQXViZXJiRTRPeXkyNGJQNmhMZGZISnVFNmVVVTZlcVU5OU95czN6dFQ0T2lQT3FvUEFnYXg1OEg4WDdQTkwwV2JlT0xRb0hXOU5aVUpZS1E3Yi1UNkg2TzZ3LVg0c2tLYThiTEVRYUVBRG5SSHdJbkc3X3VYc0I0U21Td1k?oc=5	心腦猝死	-
@@ -871,7 +871,6 @@ var DATA_SUDDEN = `
 2025-09-27	45歲地盤工開工前猝逝 - 20250927 - 港聞	https://news.mingpao.com/pns/港聞/article/20250927/s00002/1758906016412/45歲地盤工開工前猝逝	猝死	B
 2025-09-27	(養42隻狗作伴 獨居翁猝死多日 狗隻疑啃食遺體)	https://www.ftu.org.hk/zh-hans/news/news_detail/?news_id=7252	心腦猝死	B
 2025-09-26	【后备军学员猝死案】调查结束之前 国防部不会再发声	https://www.kwongwah.com.my/20250926/【后备军学员猝死案】调查结束之前-国防部不会再/	心腦猝死	A
-2025-09-26	30岁马拉松名将阿莱内训练后猝死| 体育 | 2025-09-26	https://guangming.com.my/30岁马拉松名将-阿莱内训练后猝死	心腦猝死	B
 2025-09-25	連上3周夜班 湖北20歲實習生心臟性猝死？ 家屬：是過勞 ｜ 世界新聞網	https://www.worldjournal.com/wj/story/121344/9028480?from=wj_catelistnews&zh-cn	心腦猝死	B
 2025-09-25	學生連續上3周夜班後猝死 家屬尋求公正交代_新聞頻道_中華網	https://news.china.com/socialgd/10000169/20250925/48856594.html	心腦猝死	B
 2025-09-23	行駛中突停路中央 亞庇男子暴斃車內	https://news.seehua.com/post/1377619	心腦猝死	B
@@ -899,9 +898,7 @@ var DATA_SUDDEN = `
 2025-09-16	快訊／高雄超商外驚見男屍 男「坐石盆打哈欠」 突倒地暴斃	https://www.msn.com/zh-tw/news/national/%E5%BF%AB%E8%A8%8A-%E9%AB%98%E9%9B%84%E8%B6%85%E5%95%86%E5%A4%96%E9%A9%9A%E8%A6%8B%E7%94%B7%E5%B1%8D-%E7%94%B7-%E5%9D%90%E7%9F%B3%E7%9B%86%E6%89%93%E5%93%88%E6%AC%A0-%E7%AA%81%E5%80%92%E5%9C%B0%E6%9A%B4%E6%96%83/ar-AA1LcpPc?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	心腦猝死	B
 2025-09-16	快訊／台中車站美食街離奇路倒！男「頸部出血」無生命跡象… 送醫不治	http://www.msn.com/zh-tw/news/national/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E4%B8%AD%E8%BB%8A%E7%AB%99%E7%BE%8E%E9%A3%9F%E8%A1%97%E9%9B%A2%E5%A5%87%E8%B7%AF%E5%80%92-%E7%94%B7-%E9%A0%B8%E9%83%A8%E5%87%BA%E8%A1%80-%E7%84%A1%E7%94%9F%E5%91%BD%E8%B7%A1%E8%B1%A1-%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB/ar-AA1MaAKf?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	其他猝死	B
 2025-09-16	劇毒「化骨水」奪命案！女子踩到氫氟酸猝死 背後真相更駭人	https://www.ctwant.com/article/445996/	心腦猝死	A
-2025-09-15	才女老師每日工時12小時猝死 同事作證反成校長霸凌目標	https://news.pchome.com.tw/living/crwant/20250915/index-75788720040554316009.html	心腦猝死	A
 2025-09-15	女老師猝死 琉球國中現況曝	https://www.ettoday.net/news/20250915/3033533.htm	心腦猝死	B
-2025-09-15	女師「工作12小時」猝死 家屬控過勞提訴訟 同事幫作證竟遭刁難	https://fnc.ebc.net.tw/mobilenews/life/197466?from=apphot&utm_source=apphot	心腦猝死	A
 2025-09-14	男子車內交歡猝死 女子未報警需賠償	http://hk.on.cc/cnt/news/20250914/bkn-20250914041817053-0914_00822_001.html	心腦猝死	A
 2025-09-14	屯门小坑村壮汉猝死 原因有待调查	https://hk.on.cc/hk/bkn/cnt/news/20250914/bkn-20250914121511561-0914_00822_001_cn.html?view=d	心腦猝死	C
 2025-09-12	男子通过“摇一摇”加好友，与女子车内发生关系猝死9天后被发现，女子未打120并拿走手机，法院：判赔13.8万	https://news.sina.cn/2025-09-12/detail-infqfstf7532149.d.html?cre=tianyi&mod=wuc&loc=3&r=0&rfunc=31&tj=cxvertical_wap_wuc&tr=182	心腦猝死	A
