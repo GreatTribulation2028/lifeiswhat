@@ -124,6 +124,19 @@ button:hover{border-color:var(--gold);color:var(--gold2)}
 .horse .eq{font-size:.71rem;color:var(--tx3)}
 .horse svg{width:100%;height:auto}
 
+/* ── 連線自檢 ── */
+.netres{margin:14px 0 0;background:var(--bg2);border:1px solid var(--line);border-radius:12px;
+  padding:14px;display:none}
+.netres.show{display:block}
+.netres .nr{font-size:.86rem;color:var(--tx2);margin:5px 0;display:flex;gap:9px;
+  align-items:flex-start;line-height:1.6}
+.netres .nr b{flex:0 0 20px}
+.netres .ok{color:var(--judge)}
+.netres .no{color:#e08a7a}
+.netres .verdict{margin-top:11px;padding-top:11px;border-top:1px solid var(--line);
+  font-size:.86rem;color:var(--tx2);line-height:1.7}
+.netres .verdict b{color:var(--gold2)}
+
 .legend{margin:24px 0 0;background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:18px}
 .legend h3{font-size:.9rem;color:var(--tx2);margin-bottom:12px;display:flex;align-items:center;gap:8px}
 .legend h3::before{content:"";width:3px;height:14px;background:var(--gold);border-radius:2px}
@@ -149,6 +162,7 @@ footer{margin-top:26px;text-align:center;font-size:.75rem;color:var(--tx3);line-
       <div class="tagline">節點 → 支線 ｜ 粵語原版 · 單一檔離線版</div>
     </div>
     <div class="hdr-btns">
+      <button id="btnNet">🌐 連線自檢</button>
       <button id="btnAll">展開全部支線</button>
       <button id="btnNone">收起全部</button>
       <button id="btnFirst">由起點開始</button>
@@ -161,6 +175,7 @@ footer{margin-top:26px;text-align:center;font-size:.75rem;color:var(--tx3);line-
     <h2>主時間軸 · 由第一次瘟疫到第七號筒</h2>
     <div class="hint">撳任何節點 → 下面展開嗰個節點嘅支線（每條支線可再撳開，附原文）。手機係直排，電腦係橫排。</div>
     <div class="flow" id="flow"></div>
+    <div class="netres" id="netres"></div>
   </section>
 
   <div class="panelwrap" id="panel"></div>
@@ -305,6 +320,52 @@ document.getElementById('btnNone').addEventListener('click',function(){
 });
 document.getElementById('btnFirst').addEventListener('click',function(){
   pick(0);
+});
+
+/* ══════════════ 連線自檢（分辨「網站問題」定「手機 DNS／網絡問題」）══════════════ */
+document.getElementById('btnNet').addEventListener('click',function(){
+  var box=document.getElementById('netres');
+  box.classList.add('show');
+  box.innerHTML='<div class="nr"><b>…</b>測試中（每項 8 秒上限）</div>';
+  var targets=[
+    ['GitHub Pages','https://greattribulation2028.github.io/lifeiswhat/m/up1_v17.html','no-cors'],
+    ['minimax 節點','https://5px6ojbd9atte.space.minimax.io/','no-cors'],
+    ['公共 DNS（DoH）','https://dns.google/resolve?name=example.com&type=A','cors']
+  ];
+  var results=[];
+  var done=0;
+  targets.forEach(function(t){
+    var ctl=(typeof AbortController!=='undefined')?new AbortController():null;
+    var timer=setTimeout(function(){ if(ctl)ctl.abort(); },8000);
+    fetch(t[1],{mode:t[2],signal:ctl?ctl.signal:undefined,cache:'no-store'})
+      .then(function(){ clearTimeout(timer); results.push([t[0],true,'']); })
+      .catch(function(e){ clearTimeout(timer);
+        results.push([t[0],false,(e&&e.name)?e.name:'fetch 失敗']); })
+      .then(function(){
+        done++;
+        if(done<targets.length) return;
+        var okCount=0;
+        var html='';
+        for(var i=0;i<results.length;i++){
+          var r=results[i];
+          if(r[1]) okCount++;
+          html+='<div class="nr"><b class="'+(r[1]?'ok':'no')+'">'+(r[1]?'✅':'❌')
+            +'</b><span>'+esc(r[0])+'：'+(r[1]?'通到（DNS＋連線都正常）':('唔到（'+esc(r[2])+'）'))+'</span></div>';
+        }
+        var v;
+        if(okCount===0){
+          v='<b>你部機嘅 DNS／網絡層有問題</b> —— 三個唔同網域全部解析唔到，'
+            +'唔係網站嘅問題。試：設定→網絡→私人 DNS→改「自動」；關閉 VPN／DNS 過濾 app；'
+            +'用系統 Safari／Chrome 直接開（唔好喺 chat app 內置瀏覽器）。';
+        }else if(okCount<targets.length){
+          v='<b>部分唔通</b> —— 網絡大致正常，個別網域或被過濾／被 block。';
+        }else{
+          v='<b>網絡完全正常</b> —— 網站本身冇事。撳上面任何節點就可以睇內容。'
+            +'如果網址仍然開唔到，請用系統瀏覽器（唔好用 chat app 內置嘅）。';
+        }
+        box.innerHTML=html+'<div class="verdict">'+v+'</div>';
+      });
+  });
 });
 </script>
 </body>
