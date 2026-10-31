@@ -1,5 +1,6 @@
-// 藥物副作用 | 由 htnl_build_news_js.py 生成 | 共 27 條
+// 藥物副作用 | 由 htnl_build_news_js.py 生成 | 共 28 條
 var DATA_SIDEFX = `
+2026-10-31	癌友越瘦、越沒力別只當副作用！ 約5成恐有「惡病質」影響治療	https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzZFBjZFJBMENQYVdsbHRSRllpRHJsSkJLZldIM0lWYTdrMnUxUFFYVngxTmZGVXZfbHEwNlNUM1dnSGV4MS1pM2s4eU9kRkZlUlNvVVRsTXZjUkhfTGpxbERvQlY?oc=5	生殖其他	-
 2026-10-30	新安眠藥 Dayvigo 改善睡眠卻頻傳副作用 近三成患者主動停藥	https://news.google.com/rss/articles/CBMixAJBVV95cUxQRHBzS0FHMlItTkRmT3oydXpmVlRvMVY2akxhU2REdXNwWDJIanVMZ0s3Q3hkXzVRbHhvTVNBVHIzNEhzSnkxNEx4NjdoWG5Ud3RtWnlFem5SN0Vrd015MXlvLTBrU25HRnRES0JnQjkxdTdadHczanFSVERWb3BESG8tMXFIb3B0STFoUHJaeU5tanB0SmtPVWphZkxlSDYyY29jckJTVFBLSVlabWhXMDVnQWpkelhPX3hMMTluMXFEamwtcVJsRGQwSmdHdHRTSThNRVpSWkFmLUZoeG9RLUMzMlhMVk12NVFSUkJUUTNWX3g5bnc1UjlibnNoWE4tZDc3ZHFVMUZNaXRkS2RpUnk1QWllaUNJQ0E2UHoxckJxVG03NGdJd0dvUndjX3NickM5TTZDeE9ZRGlPMUxVNWtlekw?oc=5	生殖其他	-
 2026-10-30	WMO：2025 年三大溫室氣體濃度創歷史新高，能源轉型藏副作用 | 科技新報	https://news.google.com/rss/articles/CBMiVkFVX3lxTE03ZkdkYkVuY3A5cDdlTFlMTXp1dW95cG1Cc1pFNGxKUjRhQlRlYXZoT3VMOFUycHVKTDZoTGVBekNucER6Wk51ZHlUYVRPOXIydUlNZXV3?oc=5	生殖其他	-
 2026-10-23	LAWA首專推同名單曲MV〈活著的副作用〉！專場將於12/10登場	https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZYmdaRHpXODE3MFNCblI0MnlObWxrLUJTZHlxbVhTckJzSURSTXJKTVBzcEJsV0tyZGVnZU1va2hqbUdIRThFWWNMTVBSX1c4M1ZMWlcwMmx3ODAzYnc?oc=5	生殖其他	-
