@@ -1061,9 +1061,34 @@ var S = {
       每次只讀當前一段 base64 → 記憶體只需一份 text，唔會 duplicate。 */
 var SEGD = {"A": [5.662, 8.821, 8.822, 9.551, 14.412, 11.45, 12.888, 26.417, 5.117, 14.895, 14.895, 9.414, 14.112, 6.708, 5.902, 16.643, 12.347, 9.124, 18.853, 10.358, 9.561, 26.016, 15.65, 3.321, 8.365, 9.224, 7.821, 4.731, 6.697, 14.841, 8.382, 18.317, 13.59, 9.975, 5.527, 9.975, 12.114, 4.807, 7.4, 12.114, 6.693, 29.959, 5.751, 6.302, 24.124, 4.813, 16.099, 23.654, 18.201, 10.669, 8.576, 7.771, 8.308, 19.301, 15.259, 14.77, 8.887, 21.088, 8.971, 14.043, 6.154, 15.954, 13.708, 10.622, 6.132, 9.78, 12.044, 17.934, 10.706, 8.564, 16.161, 17.259, 9.852, 16.738, 8.27, 10.014, 10.014, 15.104, 12.764, 14.324, 19.822, 8.182, 12.724, 4.491, 11.589, 9.271, 10.065, 14.301, 8.741, 8.742, 18.004, 20.0, 16.94, 8.383, 4.299, 6.341, 5.758, 6.341, 3.133, 5.466, 8.966, 9.841, 10.738, 51.048, 6.902, 9.819, 14.064, 15.655, 20.216, 11.851, 19.117], "B": [5.662, 8.821, 8.822, 9.551, 14.412, 11.45, 12.888, 26.417, 5.117, 14.895, 14.895, 9.414, 14.112, 6.708, 5.902, 16.643, 12.347, 9.124, 18.853, 10.358, 9.561, 26.016, 15.65, 3.321, 8.365, 9.224, 7.821, 4.731, 6.697, 14.841, 8.382, 18.317, 13.59, 9.975, 5.527, 9.975, 12.114, 4.807, 7.4, 12.114, 6.693, 29.959, 5.751, 6.302, 24.124, 4.813, 16.099, 23.654, 18.201, 10.669, 8.576, 7.771, 8.308, 19.301, 15.259, 14.77, 8.887, 21.088, 8.971, 14.043, 6.154, 15.954, 13.708, 10.622, 6.132, 9.78, 12.044, 17.934, 10.706, 8.564, 16.161, 17.259, 9.852, 16.738, 8.27, 10.014, 10.014, 15.104, 12.764, 14.324, 19.822, 8.182, 12.724, 4.491, 11.589, 9.271, 10.065, 14.301, 8.741, 8.742, 18.004, 20.0, 16.94, 8.383, 4.299, 6.341, 5.758, 6.341, 3.133, 5.466, 8.966, 9.841, 10.738, 51.048, 6.902, 9.819, 14.064, 15.655, 20.216, 11.851, 19.117]};        /* {A:[每段秒數], B:[…]} */
 var SEGSAME = true;  /* true＝兩條聲線同一份音檔（省一半體積） */
+/* ★ 2026-10-31：改用 Blob URL（唔用長 data: URI）
+   理由：部分手機瀏覽器（尤其 iOS Safari）對長 data:audio/mpeg;base64 URI 處理唔穩，
+   讀著讀著會斷。Blob URL 更短、更快，而且可以明確 revoke 釋放舊 buffer。 */
+var __segUrl=null, __segUrlIdx=-1;
 function segB64(v,i){
   var el = document.getElementById("sg_"+(SEGSAME&&v==="B"?"A":v)+"_"+i);
   return el ? el.textContent : "";
+}
+function segBytes(v,i){
+  try{
+    var b64=segB64(v,i).replace(/\s/g,"");
+    if(!b64) return null;
+    var bin=atob(b64);
+    var u=new Uint8Array(bin.length);
+    for(var k=0;k<bin.length;k++) u[k]=bin.charCodeAt(k);
+    return u;
+  }catch(e){ return null; }
+}
+function segUrl(v,i){
+  var u=segBytes(v,i);
+  if(!u) return "";
+  try{
+    if(window.URL&&URL.createObjectURL) return URL.createObjectURL(new Blob([u],{type:"audio/mpeg"}));
+  }catch(e){}
+  return "data:audio/mpeg;base64,"+segB64(v,i).replace(/\s/g,"");
+}
+function releaseSegUrl(){
+  if(__segUrl){ try{ URL.revokeObjectURL(__segUrl); }catch(e){} __segUrl=null; }
 }
 var audio = null, cur = null, raf = 0, ctx = null, master = null, musicGain = null;
 var curSeg = -1, playing = false;   /* ★ 逐段播放：當前段 index ＋ 播放狀態 */
@@ -1290,6 +1315,10 @@ function ensureAudio(){
   audio = new Audio(); audio.preload="auto"; audio.volume=S.vol;
   /* ★ iOS Safari：detached audio element 唔會播 → 一定要入 DOM */
   try{ if(document.body && !audio.parentNode) document.body.appendChild(audio); }catch(e){}
+  audio.addEventListener("error", function(){
+    var e=audio.error;
+    showAudioError("音頻載入失敗（code "+(e?e.code:"?")+"）· 第 "+(curSeg+1)+" 段");
+  });
   audio.addEventListener("ended", function(){
     if(curSeg+1 < segList().length) playSeg(curSeg+1, 0);   /* 一段完 → 接下一段 */
     else { playing=false; setPlayIcon(false); }
@@ -1304,11 +1333,13 @@ function ensureAudio(){
 function playSeg(i, off){
   var arr=segList();
   if(i<0 || i>=arr.length) return;
-  var b = segB64(S.voice, i);
-  if(!b) return;
   var a=ensureAudio();
   a.pause();
-  a.src="data:audio/mpeg;base64,"+b;   /* ★ 逐段：只解碼當前一段，手機友好 */
+  releaseSegUrl();                       /* ★ 先釋放上一段嘅 buffer */
+  var nu = segUrl(S.voice, i);
+  if(!nu) { showAudioError("第 "+(i+1)+" 段音檔載入唔到"); return; }
+  if(nu.indexOf("blob:")===0) __segUrl=nu;
+  a.src=nu;   /* ★ 逐段：只解碼當前一段，手機友好（Blob URL 優先，data URI fallback） */
   a.playbackRate=S.speed;
   curSeg=i;
   a.play().catch(function(){});
@@ -1542,6 +1573,30 @@ function boot(){
   if(S.music) startMusic();
 }
 try{ boot(); }catch(e){ document.getElementById("loadtxt").textContent="啟動失敗："+e; }
+
+/* ★ 音頻出錯提示（唔會靜靜死機） */
+function showAudioError(msg){
+  var box=document.getElementById("auderr");
+  if(!box){
+    box=document.createElement("div");
+    box.id="auderr";
+    box.style.cssText="position:fixed;left:0;right:0;bottom:0;z-index:300;padding:12px 16px;"
+      +"background:rgba(120,20,20,.96);color:#ffe0e0;font-size:15px;line-height:1.6;"
+      +"border-top:2px solid #ff6b6b;display:flex;gap:12px;align-items:center;flex-wrap:wrap";
+    var sp=document.createElement("span");
+    sp.style.flex="1"; sp.id="auderrmsg";
+    var bt=document.createElement("button");
+    bt.textContent="重新載入頁面";
+    bt.style.cssText="padding:7px 14px;border:1px solid #ff9b9b;background:#8b1f1f;color:#fff;"
+      +"border-radius:6px;font-size:14px;cursor:pointer";
+    bt.onclick=function(){ location.reload(); };
+    box.appendChild(sp); box.appendChild(bt);
+    document.body.appendChild(box);
+  }
+  var m=document.getElementById("auderrmsg");
+  if(m) m.textContent=msg;
+  box.style.display="flex";
+}
 </script>
 </body>
 </html>
