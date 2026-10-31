@@ -1,5 +1,6 @@
-// 糧食 | 由 htnl_build_news_js.py 生成 | 共 160 條
+// 糧食 | 由 htnl_build_news_js.py 生成 | 共 161 條
 var DATA_FOOD = `
+2026-10-30	檢方破獲700萬糧食券詐騙案 涉盜刷8人獲訴	https://news.google.com/rss/articles/CBMieEFVX3lxTE5sR2dsVU14aWJRWjA1eGoxV1FTUDlVb3lfbktpV0Nla3BabldqTFo2anM2VDZ0MDZTZ01IWW1qVjNHWnRHRVAyRXJNQzZHWU11amNVLWthbm5RSENwQm55cm9GaVg5OHZJYkxEeWRSZUM5VEdSQVp0Ng?oc=5	其他糧食	-
 2026-10-29	尖鋒對話-糧荒危機 蠢蠢欲動 1029	https://news.google.com/rss/articles/CBMid0FVX3lxTE53ZmdXUFVad0d5dFRWYTVONGF2R0NsdkpjdUxOSzhVTFVUNS1IOGhGZlFDQWxZQ3pQU1ZBb2wxbjNVQUJhZHdiLVJ0djlwQTY2Vm9Lak4tenBqeGVZZkxyaGxlNmhJSjFXTVZwZ1JDQXRLTHZHZ1JJ?oc=5	歉收饑荒	-
 2026-10-27	蘇丹糧食危機惡化 美國等數十國聯合發聲	https://news.google.com/rss/articles/CBMib0FVX3lxTFBiT0N0b2Zfd19oRWlqTEV2YWlKOF9WWjJyMlIyWEpiUXIzWFhoenNpdExyVDZ0SWxxS0dRM0tUcmJ1NXJOaWRNMVc5c2VQUzhUTUw2MlFMeC1raURLazg4OUtCb2JmcTRYMUc3Z0dhRQ?oc=5	糧荒短缺	-
 2026-10-20	阿富汗糧食危機惡化 聯合國估4月前逾1900萬人面臨急性缺糧	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnMTdxQnlXT0ZHdHRhZF9Gcmc2eUoxUzF3N0ZkZnFmNFYzTkw1ZFEwdlhMZGJIRTBVcjdHTm5aWFlZaFhjcnE4ay1COVNkNnJmNmxzc1FpdmNyLTQ0ZE83dA?oc=5	糧食	A
