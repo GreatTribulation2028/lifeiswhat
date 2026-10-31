@@ -174,49 +174,6 @@ body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);
 .langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
 @media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
 
-
-/* ═══════════ UP1：節點支線展開（2026-10-31）═══════════ */
-/* ★ 修 layout bug：.timeline-content{flex:1} 冇 min-width:0 → flex item 嘅
-   min-width:auto = 內容 min-width，中文唔斷行 → 撐爆欄位 → 手機橫向溢出、內容被切走。 */
-.timeline-content{flex:1;min-width:0}
-.timeline-desc,.tl-branch,.tl-branch .tl-b-t,.tl-branch .tl-src,
-.tl-branch .tl-note,.tl-branch .tl-nocover{overflow-wrap:anywhere;word-break:break-word}
-.timeline-item{cursor:pointer}
-/* ★ 手機：年份欄唔可以壓到一個字闊（會直排 + 蓋住標題）→ 改成上方一行、內容全寬 */
-@media(max-width:768px){
-  .timeline-item{flex-wrap:wrap;gap:4px}
-  .timeline-year{flex:0 0 100%;min-width:0;margin-bottom:2px}
-  .timeline-content{flex:1 1 100%;min-width:0}
-}
-.timeline-item:hover{filter:brightness(1.2)}
-.timeline-item.tl-open{filter:brightness(1.25)}
-.tl-hint{display:inline-block;font-size:9px;letter-spacing:.14em;color:var(--c-bg);
-  background:var(--c-accent);border-radius:2px;padding:0 5px;margin-left:6px;
-  vertical-align:2px;font-weight:700}
-.tl-branch{display:none;margin:10px 0 4px;padding:12px 14px;
-  background:rgba(0,243,255,.05);border:1px solid rgba(0,243,255,.28);
-  border-left:3px solid var(--c-accent);border-radius:0 4px 4px 0}
-.tl-open .tl-branch{display:block;animation:tlIn .22s ease both}
-@keyframes tlIn{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
-.tl-branch .tl-b-h{font-size:11px;letter-spacing:.2em;color:var(--c-accent);
-  text-transform:uppercase;margin-bottom:8px}
-.tl-branch .tl-b-item{margin-bottom:12px}
-.tl-branch .tl-b-t{font-size:13.5px;color:var(--c-text);line-height:1.55;margin-bottom:5px;font-weight:600}
-.tl-branch .tl-b-l{display:inline-block;font-size:9.5px;letter-spacing:.1em;
-  border:1px solid currentColor;border-radius:2px;padding:0 5px;margin-right:6px;vertical-align:1px}
-.l-fact{color:var(--c-accent)} .l-scrip{color:var(--c-warn)}
-.l-infer{color:#b07de0} .l-judge{color:var(--c-success)}
-.tl-branch .tl-src{background:rgba(0,0,0,.45);border-left:2px solid rgba(0,243,255,.35);
-  padding:7px 10px;margin:5px 0 0;font-size:12.5px;color:var(--c-text-dim);line-height:1.75}
-.tl-branch .tl-src b{color:var(--c-accent);font-size:9.5px;letter-spacing:.14em;
-  display:block;margin-bottom:2px}
-.tl-branch .tl-note{font-size:12.5px;color:var(--c-text);line-height:1.7;
-  background:rgba(255,174,0,.07);border-left:2px solid var(--c-warn);padding:6px 10px;margin:5px 0 0}
-.tl-branch .tl-nocover{font-size:12.5px;color:var(--c-text-dim);line-height:1.7;
-  border-left:2px solid rgba(255,174,0,.5);padding:6px 10px;margin:4px 0 0}
-.tl-tip{display:inline-block;font-size:10px;letter-spacing:.14em;color:var(--c-bg);
-  background:var(--c-warn);padding:2px 8px;border-radius:2px;margin:0 0 12px}
-
 </style>
 </head>
 <body>
@@ -241,39 +198,38 @@ body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);
 <span class="section-title">TRIBULATION TIMELINE</span>
 </div>
 <div class="timeline-container" id="timelineContainer">
-<div class="tl-tip">撳任何時間軸節點 → 展開支線（附粵語原版 v17 原文）</div>
 <div style="padding: 8px 12px; background: rgba(0,243,255,0.1); border-radius: 4px; margin-bottom: 10px; font-size: 10px; color: var(--c-accent);">
 ▸ 前三年半：瘟疫→戰爭→經濟衰退→死亡
 </div>
-<div class="timeline-item year-2019" data-ti="0">
+<div class="timeline-item year-2019">
 <div class="timeline-year">2019</div>
 <div class="timeline-content">
 <div class="timeline-title">🦠 白馬・COVID-19</div>
 <div class="timeline-desc">12/01 首宗新冠・弓(toxon毒素)・mRNA影響DNA</div>
 </div>
 </div>
-<div class="timeline-item year-2020" data-ti="1">
+<div class="timeline-item year-2020">
 <div class="timeline-year">2020</div>
 <div class="timeline-content">
 <div class="timeline-title">🕊️ 第一印開啟(假設)</div>
 <div class="timeline-desc">12/01 一年通知期結束・尼布甲尼撒進入七期</div>
 </div>
 </div>
-<div class="timeline-item year-2022" data-ti="2">
+<div class="timeline-item year-2022">
 <div class="timeline-year">2022</div>
 <div class="timeline-content">
 <div class="timeline-title">⚔️ 紅馬・第二印</div>
 <div class="timeline-desc">02/24 俄烏戰爭・第450日・戰爭與衝突</div>
 </div>
 </div>
-<div class="timeline-item year-2023" data-ti="3">
+<div class="timeline-item year-2023">
 <div class="timeline-year">2023</div>
 <div class="timeline-content">
 <div class="timeline-title">💸 黑馬・第三印</div>
 <div class="timeline-desc">04/05 經濟衰退・逾越節・以色列奪埃及金子</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="4">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-text-dim);">2023</div>
 <div class="timeline-content">
 <div class="timeline-title">💀 灰馬・第四印</div>
@@ -283,35 +239,35 @@ body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);
 <div style="padding: 8px 12px; background: rgba(255,174,0,0.1); border-radius: 4px; margin: 10px 0; font-size: 10px; color: var(--c-warn);">
 ▸ 一七之半：獻祭止息・1260日・1290日
 </div>
-<div class="timeline-item year-2024" data-ti="5">
+<div class="timeline-item year-2024">
 <div class="timeline-year">2024</div>
 <div class="timeline-content">
 <div class="timeline-title">🐄 紅母牛獻祭止息</div>
 <div class="timeline-desc">2024年04月22日 逾越節・2000年來首次獻祭 - 卻被止息</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="6">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-warn);">2024</div>
 <div class="timeline-content">
 <div class="timeline-title">🕍 以色列獨立日</div>
 <div class="timeline-desc">05/14 第1260日・一七之半</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="7">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-warn);">2024</div>
 <div class="timeline-content">
 <div class="timeline-title">🌾 七七節翌日</div>
 <div class="timeline-desc">06/13 第1290日・死亡收割節開始</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="8">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-text-dim);">2024</div>
 <div class="timeline-content">
 <div class="timeline-title">🏅 巴黎奧運</div>
 <div class="timeline-desc">07/26 第1333日・褻瀆暗示・不法隱意展開</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="9">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-text-dim);">2024</div>
 <div class="timeline-content">
 <div class="timeline-title">🦠 第五印・猴痘</div>
@@ -321,110 +277,104 @@ body{background:var(--c-bg);color:var(--c-text);font-family:var(--font-chinese);
 <div style="padding: 8px 12px; background: rgba(255,42,42,0.1); border-radius: 4px; margin: 10px 0; font-size: 10px; color: var(--c-doom-red);">
 ▸ 後三年半：號筒審判・獸印・基督再來
 </div>
-<div class="timeline-item year-2025 current" data-ti="10">
+<div class="timeline-item year-2025 current">
 <div class="timeline-year">2025</div>
 <div class="timeline-content">
 <div class="timeline-title">🌑 第六印</div>
 <div class="timeline-desc">01/07 西藏地震・南加州大火・日頭變黑月亮變紅</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="11">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-accent);">2025</div>
 <div class="timeline-content">
 <div class="timeline-title">🕊️ 第七印</div>
 <div class="timeline-desc">04/29 天上寂靜二刻・以色列陣亡將士紀念日・90日關稅</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="12">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
 <div class="timeline-content">
 <div class="timeline-title">⚔️ 以伊戰爭</div>
 <div class="timeline-desc">2025年06月13日 一載後・收割死亡・灰馬加速・刀劍飢荒瘟疫</div>
 </div>
 </div>
-
-
-<div class="timeline-item" data-ti="13">
+<!--
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
 <div class="timeline-content">
 <div class="timeline-title">🔥 第一號筒</div>
 <div class="timeline-desc">08/19 贖罪日前夕・冰雹與火・生態三分之一受損</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="14">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-doom-red);">2025</div>
 <div class="timeline-content">
 <div class="timeline-title">🌊 第二號筒</div>
 <div class="timeline-desc">12/09 火燒大山扔海中・海水變血・兩個見證人漸現</div>
 </div>
 </div>
-<div class="timeline-item year-2026" data-ti="15">
+<div class="timeline-item year-2026">
 <div class="timeline-year">2026</div>
 <div class="timeline-content">
 <div class="timeline-title">☄️ 第三號筒</div>
 <div class="timeline-desc">03/31 燒著大星墜落・水變苦・敵基督漸顯・獸印啟動</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="16">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-warn);">2026</div>
 <div class="timeline-content">
 <div class="timeline-title">🌑 第四號筒</div>
 <div class="timeline-desc">07/21 埃波月第九日・聖殿被毀日・日月星三分之一黑暗</div>
 </div>
 </div>
-<div class="timeline-item" data-ti="17">
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-warn);">2026</div>
 <div class="timeline-content">
 <div class="timeline-title">🦗 第五號筒（一禍）</div>
 <div class="timeline-desc">11/10 無底坑開・蝗蟲之禍五個月・獸印強制</div>
 </div>
 </div>
-<div class="timeline-item year-2027" data-ti="18">
+<div class="timeline-item year-2027">
 <div class="timeline-year">2027</div>
 <div class="timeline-content">
 <div class="timeline-title">🐎 第六號筒（二禍）</div>
 <div class="timeline-desc">03/02 幼發拉底河・馬軍二萬萬・殺三分之一人</div>
 </div>
 </div>
-
-
-<div class="timeline-item" data-ti="19">
+-->
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-warn);">2027</div>
 <div class="timeline-content">
 <div class="timeline-title">🌾 二載後</div>
 <div class="timeline-desc">2027年06/13日 收割節翌日・快鐮刀・</div>
 </div>
 </div>
-
-
-<div class="timeline-item" data-ti="20">
+<!--
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
 <div class="timeline-content">
 <div class="timeline-title">🎺 第七號筒（三禍）</div>
 <div class="timeline-desc">06/22 夏至・ 神之奧祕成全・末次號筒等待吹角節</div>
 </div>
 </div>
-
-
-<div class="timeline-item final" data-ti="21">
+-->
+<div class="timeline-item final">
 <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
 <div class="timeline-content">
 <div class="timeline-title">🎺 吹角節・前夕</div>
 <div class="timeline-desc">2027年10月01日 基督受了洗禮後・第四十個禧年</div>
 </div>
 </div>
-
-
-<div class="timeline-item" data-ti="22">
+<!--
+<div class="timeline-item">
 <div class="timeline-year" style="color: var(--c-doom-red);">2027</div>
 <div class="timeline-content">
 <div class="timeline-title">🏺 七碗災難</div>
 <div class="timeline-desc">10/26 距以色列獨立日1260日・最後審判開始</div>
 </div>
 </div>
-
-
-<div class="timeline-item end" data-ti="23">
+-->
+<div class="timeline-item end">
 <div class="timeline-year">2028</div>
 <div class="timeline-content">
 <div class="timeline-title">✨ 1335日</div>
@@ -1180,87 +1130,6 @@ if (currentItem && !currentItem.classList.contains('current')) {
 document.querySelectorAll('.timeline-item.current').forEach(el => { el.classList.remove('current'); });
 currentItem.classList.add('current');
 }
-})();
-</script>
-<script>
-/* ═══════════ UP1：節點 → 支線（按標題索引）═══════════ */
-var TL_TITLES = ["🦠 白馬・COVID-19", "🕊️ 第一印開啟(假設)", "⚔️ 紅馬・第二印", "💸 黑馬・第三印", "💀 灰馬・第四印", "🐄 紅母牛獻祭止息", "🕍 以色列獨立日", "🌾 七七節翌日", "🏅 巴黎奧運", "🦠 第五印・猴痘", "🌑 第六印", "🕊️ 第七印", "⚔️ 以伊戰爭", "🔥 第一號筒", "🌊 第二號筒", "☄️ 第三號筒", "🌑 第四號筒", "🦗 第五號筒（一禍）", "🐎 第六號筒（二禍）", "🌾 二載後", "🎺 第七號筒（三禍）", "🎺 吹角節・前夕", "🏺 七碗災難", "✨ 1335日"];
-var TL_BRANCH = {"0": [["白馬其實係瘟疫，唔係福音", ["判斷"], [5, 6, 7], null], ["零號病人嘅日期查得出", ["事實"], [12, 13, 15, 16], null], ["但呢個日期本身有醫學爭議", ["判斷"], [85], null]], "1": [["十二個月通知期之後，就進入「七期」", ["經文"], [9], null], ["既然係過程，就有時間值", ["推論"], [10], "每個時間點都有唔同嘅事發生，但每一次，其實都喺度累計落去。"], ["呢個係系統化嘅經文詮釋，唔係所有學者都認同", ["判斷"], [11], null]], "2": [["紅馬＝戰爭（刀劍）", ["經文"], [7], null], ["四匹馬係同一場災難嘅四個階段", ["推論"], [8], null]], "3": [["黑馬＝持續嘅經濟衰退（饑荒）", ["經文"], [7], null]], "4": [["灰馬＝持續發生嘅災難（刀劍、饑荒、再嚟一場新瘟疫）", ["經文"], [7], null], ["一直累加落去，到死亡四份之一", ["經文"], [7], null]], "5": [["哈馬斯攻以色列 → 逾越節獻祭被停 → 2025 年先繼續", ["事實"], [21], null], ["真係發生咗，但又真係會漠不關心", ["判斷"], [22, 23], null]], "6": [["1260 日 ＝ 126 旬 ＝ 42 個月 ＝ 三年半", ["推論"], [22, 24], "稿內用中文字寫：三年半、一千二百六十日。"], ["「那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭」", ["推論"], [24], null], ["但以理書模式嘅時間值", ["經文"], [9, 10], null]], "7": [["1290 日 ＝ 1260 日 ＋ 30 日（死亡收割開始）", ["推論"], [10], null]], "8": [], "9": [["「受管制嘅藥物」查過原文，原意同「邪術」一樣", ["經文"], [28, 29], null], ["迷惑：似是而非嘅道理，令人自己都接受咗懷疑有問題嘅藥物", ["判斷"], [33, 34, 37], null]], "10": [["從　神而嚟嘅兩個見證人", ["經文"], [39], null], ["次序：傳道 → 作見證；時間線喺第五號到第六號階段", ["經文"], [39], null]], "11": [["無論係第三聖殿，敵基督站在裏面說誇大的話", ["經文"], [43], null]], "12": [["「那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭」", ["推論"], [24], null]], "13": [["第一印：白馬——白馬如果係瘟疫", ["經文"], [5, 6, 7], null], ["好多基督徒提起第一印，會覺得係福音，係和平", ["經文"], [5, null], null]], "14": [["第二印：紅馬＝戰爭", ["經文"], [7], null]], "15": [["第三印：黑馬＝饑荒", ["經文"], [7], null]], "16": [["第四印：灰馬＝持續災難 → 死亡四份之一", ["經文"], [7], null]], "17": [["三禍 ＝ 一條時間線上面嘅三個節點：第五、第六、和第七號", ["經文"], [54, 55], null], ["第五號仲有四條線，最早嗰條推算喺二零二七年二月十六日", ["推論"], [56], null], ["一隻鷹飛喺空中，講咗三次「禍哉」", ["經文"], [54], null]], "18": [["等見證人到，先至相信 → 可能已經無法回頭", ["推論"], [40], null], ["要見到先信，正正就係無法回頭嘅時候", ["判斷"], [41, 42], null]], "19": [["「而二零二七年的五月十五日，便是三載了」", ["推論"], [25], null]], "20": [["令到許多人在城門外，到最後的最後，才知道自己無法進城", ["推論"], [44, 45], null], ["大路 → 窄路：不要效法這個世界，只要心意更新而變化", ["經文"], [46, 65], null], ["甚麼基督徒，會在最後才知道自己無法進蒙愛城裏?", ["判斷"], [83], null]], "21": [["按時間線，差不多到了啟示錄第八章第十三節，那三聲「禍哉」", ["經文"], [54], null]], "22": [["越係末世，世界越容易令人唔會再留意", ["判斷"], [62, 63], null]], "23": [["保持警醒，唔係叫我地驚", ["判斷"], [66, 67, 68], null], ["而你，其實今日就可以自己喚醒喚自己", ["判斷"], [77], null]]};
-var TL_PARAS = ["七年之前, 有一件事, 全世界都照住做。", "你可能覺得冇乜要緊, 可能你心裏面其實有少少唔安樂, 但冇講出嚟。", "如果七年之後, 同一件事再嚟一次, 你會唔會照上次咁, 唔問就做?", "只想問一樣嘢: 你上次嗰個「唔問就做」, 係你自己嘅決定, 定為勢所迫？", "至於嗰件事係咩, 大家心中有數。而家就可以先諗一樣嘢: 喺生活入面, 仲有冇第二件事, 都係咁，大家一直跟住做?", "好多基督徒提起第一印, 會覺得係福音, 係和平。我自己都咁認為好多年。", "但如果白、紅、黑、灰四匹馬, 其實係同一個系統, 咁第一印嗰匹白馬, 就要重新睇睇。", "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, 灰馬係持續發生嘅災難 — 分別係刀劍、饑荒、再嚟一場新瘟疫, 一直累加落去，到惡獸殺人，直到死亡四份之一。", "四匹馬係同一場災難嘅四個階段。", "對照但以理書嘅模式, 十二個月通知期之後, 就進入「七期」。「七期」講嘅, 係尼布甲尼撒王由人變成獸嘅過程。", "既然係過程, 就有時間值, 好似日頭到日落咁。每個時間點都有唔同嘅事發生, 但每一次, 其實都喺度累計落去。", "呢個係用系統化嘅經文詮釋, 唔係所有學者都認同。但值得你再睇一次。", "日期係查得出嚟嘅。英國廣播電台喺二零二零年二月二十六日, 發佈咗一篇報道, 講新冠「零號病人」嘅日期。", "報道裏面提過, 第一宗個案喺十二月八日發燒。", "有興趣嘅話, 可以自己去睇下新聞記錄。", "題目係《肺炎疫情:「零號病人」的由來以及醫學爭議》, 由英國廣播電台發佈中文版本, 詳細網址喺頁底, 等陣間可以去睇。", "內容大概係咁: 中國告訴世衛組織, 這些患者的最早症狀可以追溯到二零二零年十二月一日。", "眨一眨眼, 就到了二零二七年, 快到了超級厄爾尼諾嘅大型天災。", "按六年來的事件統計和按邏輯推論落去嘅話, 超級厄爾尼諾由十一月中持續到二零二七年二月尾, 呢個時間段，其實剛好係第四到第五號筒既時間線。", "咁即係話，世界全面人工晶片數位化嘅時間, 可能大約係二零二七年六月左右。", "呢啲係按時間同事件順推嘅估值, 有興趣可以去查查、對照同研究一下。", "當中最大嘅參考, 有指二零二四年四月二十二日嘅逾越節獻祭被停止, 係因為二零二三年十月七日嘅哈馬斯攻以色列有關 — 令到以色列政府勒令暫停了當年的逾越節獻祭，到了二零二五年才繼續。", "七年前嘅第一次瘟疫, 快到三年半嘅時候，那年常獻的祭祀被止息了。真係發生了，但又真係會漠不關心，無乜反應。", "明唔明代表了甚麼？", "那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭。", "而二零二七年的五月十五日，便是三載了。", "回顧喺第一次瘟疫，在「受管制嘅藥物」之下, 每個人做咗第一次決定。", "在第二次新瘟疫來到時，你又會點揀？", "「受管制嘅藥物」呢個講法。查過原文嘅意思, 竟然係同「邪術」一樣。", "呢個原文字典既解釋, the administrating of drugs, 但唔係官方定義。", "不過，果次點解真係咁多人都咁一致?", "各類專家嘅吩咐, 各類科學同歷史嘅舉證, 全部都話安全。", "但「全部都話」, 唔等於「已經係查清楚」，大家都知道那時的臨床仍然不足。", "迷惑，就好似係可以將邪術，包裝成為救人救世嘅藥物。", "然後仲要苦苦相勸, 用心良苦, 加好多學術研究、證據、同專家嘅看法，甚至全球一致，用引導，用大方向，令人明明是自己去作判斷, 但所有判斷嘅答案，都被控制得恰到好處，順利令人們和基督徒都接受咗呢個懷疑有問題的藥物。", "想講嘅事係: 迷惑唔一定喺突然出現，", "迷惑亦可以喺世界跟咗好多年嗰套講法入面。", "而迷惑嘅來源, 一直係嗰條蛇 — 牠唔係用刀劍, 而係用把口, 用似是而非嘅道理, 對夏娃嘅時候係咁, 對主耶穌基督嘅時候, 都係咁, 對基督徒, 對你, 點解唔會係用把口去哄你入局呢?", "仲有一個位, 可能值得你留意下。", "如果睇聖經, 會留意到從　神而嚟嘅兩個見證人, 佢哋嘅次序係由傳道去到作見證嘅時候, 時間線就係喺第五號到第六號嗰個階段。", "即係話, 如果有人一定要見到兩個見證人先至相信自己已經喺七年大災難裏面, 咁果個人見到嗰兩個見證人嘅時候, 佢自己可能已經無法再得救, 因為已經接受咗獸嘅印、獸嘅名同獸嘅數目。", "呢個就係警醒嘅不同之處: 每個人心中都有自己嘅準則, 而古蛇嘅迷惑, 就係要令到人以為等到自己要見嘅準則，便可以得到想要嘅野。", "要見到，先至相信已經喺大災難裏面 — 但嗰個時候, 又正正係無法回頭嘅時候。", "無論係第三聖殿，敵基督站在裏面說誇大的話，或是兩個見證人。", "如果明知許多人都會咁諗，仇敵會點樣佈呢個局去迷惑人，", "令到許多人在城門外，到最後的最後，才知道自己無法進城呢?", "世界總是有許多大路，而保羅講嘅「不要效法這個世界, 只要心意更新而變化」,你諗吓, 呢句係向未信嘅外邦人講, 定係向已經信緊嘅以色列人講?", "如果你一路聽落嚟, 可能會問: 咁而家即係點丫? 全教會都有問題咩? 定係我其實只係遇見了異端? 想點啫? 諸如此類。", "你諗諗喎, 舊約同埋新約的嘅史都說比我地聽，\n當時嘅文化和風俗，就係殺害彌賽亞, 逼迫基督徒既情況。", "基督在地上的時候係咁，保羅在外邦人和以色列民的時候，都係咁。", "到左而家, 同樣用似是而非嘅道理, 用格式化, 令基督徒沉睡下去的方式,\n直到事情顯明的時候, 可能已是後悔莫及的情況.", "當時的文化和風俗。未必就是聖經所說的。", "基督在地上的時候，保羅在外邦和以色列民的時候，也是如此。", "而我們亦是要在世界裏，分別為聖，你想想包不包括格式化下的信仰模式?", "真的要想想，因為按時間線，差不多到了啟示錄第八章第十三節, 那三聲「禍哉」。一隻鷹飛喺空中, 講咗三次「禍哉」「禍哉」「禍哉」。", "唔係三種災難, 係一條時間線上面嘅三個節點。就係第五, 第六, 和第七號。", "而第五號仲有四條線, 最早嗰條推算喺二零二七年二月十六日。", "你可能會諗一些矛盾，未見敵基督，青草未被燒，那些所列的災難，都沒有見到，第三聖殿又未興建，我邊有可能信係大災難。", "明明教會說災前被提，明明教會都不承認是末世，也不提及這些事。", "那麼，如果全球突然死咗四分之一人口, 新聞仲要公佈出嚟，", "全世界都知道可能係喺啟示錄嘅大災難裏面時,", "咁大家反而會放鬆 — 因為已經「到咗」。", "但呢個, 正正同主耶穌「保持警醒、看守衣服」嘅吩咐相反。", "即係話, 越係末世, 世界越容易令人唔會再留意。", "基督嘅新婦, 點解要保持警醒, 看守衣服, 仲要持續喺世界嘅常規裏面, 又要不效法世界, 又要心意更新而變化。", "還要喺信仰嘅大路上, 小心謹慎地轉到窄路裏, 每天向　神活着, 而唔係向人嘅吩咐同古人嘅遺傳活著, 活得好似一個被格式化了的人呢?", "因為我們知道，我們是屬　神的，而全世界都伏在那邪惡者的權勢之下。咁即係必定早已有迷惑我地嘅事存在。", "但我們在地上只是寄居的，所以說「保持警醒」, 唔係叫我地驚, 亦唔係叫人說教會的不是。", "而係希望你喺「大家都咁做」嘅時候, 停一停, 自己睇清楚先。", "沉睡, 唔係唔信。沉睡, 係信咗, 但冇醒過。點解無醒過？", "因為個制度本身嘅設定, 就係想人繼續瞓落去, 好似以色列民在法利賽人的文化裏睡着咗，作為外邦人的我們, 自然也會有同類的情況存在。", "明明好明顯, 應該是心有靈犀一點通, 但就係會好多人都點唔通, 呢個就制度和格式化既威力, 令以色列民看見彌賽亞了, 但還是不相信下去.", "而睡醒嘅人, 唔係代表識得更多, 唔係特別醒目。睡醒嘅人, 只係唔肯再瞓落去,\n你看看阿摩司書, 能夠感受到他當時的心情嗎?", "你認真諗下，點解啟示錄的眾教會情況, 咁似而家嘅呢?", "今生與永恆, 警醒與昏沉,\n知識終必歸于無有, 說方言之能也終必止息.\n若不藉著愛心和憐憫, 我們帶著甚麼去迎接基督再來呢?\n教會所追求的, 其實是甚麼呢?\n總要察驗, 是否真的有可生發仁愛的信心在其中, 才是好的.", "而醒唔醒, 唔係下年事情都浮現嘅時候", "而醒唔醒, 唔係下年事情都浮現嘅時候", "而你, 其實今日就可以自己喚醒喚自己。", "你可以做三件事。", "第一, 記低一個你一直冇問過自己嘅問題。", "例如: 我信呢樣嘢, 係因為我查過, 定係因為大家都信? 無論是藥物和邪術, 那不知道的時辰和日子, 兩個見證人的時間線等等.", "第二, 揀一個你聽過嘅講法, 去核對一次。一個網址、一篇報道、一本期刊都得。", "災前被提係一個好好既例子, 基督說, 常與我們同在直到世界的末了, 而又指明, 世界的末了是收割的時候, 收割的人是天使, 就是末次號筒吹響前, 快鎌刀的時候.\n那到底分批被提, 災前中後被提? 沒有被提? 還是如聖經寫到明, 係末次號筒吹響, 基督再來的時候?\n黑字白紙寫到明的時間, 次序, 說明, 但歷代以來, 都可以將意思如扭毛巾一樣, 扭完再扭, 扭到完全沒有水份, 完全沒有養份滋養人心的時候, 不是嗎?", "第三, 甚麼基督徒，會在最後才知道自己無法進蒙愛城裏?", "睇完如果佢講嘅同你原本諗嘅唔一樣, 恭喜你, 你今日終於行前咗一步。", "你唔需要接受上面講嘅任何一個結論。目前嘅結論亦可能錯 — 零號病人嘅日期, 醫學界到今日仍然有爭議。", "但有一件事好肯定:\n你今日讀咗呢幾分鐘, 你已經做咗一件好多教會好少叫信徒做嘅事 ——\n你自己竟然願意去查原文一次。", "每一個盼望得救, 得着永生的基督徒,\n都係需要自己去負責和看守自己的救恩,\n為何一定要經過一個媒介, 而那個媒介卻不是基督本身呢?", "希望我地都能夠蒙　神恩典，\n可以進到　神榮耀的國度裏。", "願主耶穌基督祝福你，\n保守你的心懷意念，\n使你可常在他的憐憫裏，\n常與你同在，直到世界的末了，\n帶領你，直到基督再來的那天來到，\n阿們。"];
-var TL_NOCOVER = {"8": "本稿未直接講呢個節點嘅細節（1333 日）；可自行按上表推算。"};
-(function(){
-  function esc(s){return String(s==null?'':s)
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
-  function norm(s){return String(s||'').replace(/\s+/g,' ').trim();}
-  function idxOf(title){
-    var n=norm(title).replace(/支線$/,'');
-    for(var i=0;i<TL_TITLES.length;i++){ if(norm(TL_TITLES[i])===n) return i; }
-    for(var j=0;j<TL_TITLES.length;j++){
-      if(n.indexOf(norm(TL_TITLES[j]))>=0) return j; }
-    return -1;
-  }
-  function panel(idx){
-    var list=TL_BRANCH[idx]||[];
-    var h='<div class="tl-b-h">BRANCH // 支線 · 附原文</div>';
-    if(!list.length){
-      h+='<div class="tl-nocover">'+esc(TL_NOCOVER[idx]||'本稿未涵蓋此節點。')+'</div>';
-      return h;
-    }
-    var L={事實:'fact',經文:'scrip',推論:'infer',判斷:'judge'};
-    for(var j=0;j<list.length;j++){
-      var b=list[j];
-      h+='<div class="tl-b-item"><div class="tl-b-t">';
-      for(var k=0;k<(b[1]||[]).length;k++){
-        h+='<span class="tl-b-l l-'+(L[b[1][k]]||'fact')+'">'+esc(b[1][k])+'</span>';
-      }
-      h+=esc(b[0])+'</div>';
-      if(b[3]) h+='<div class="tl-note">'+esc(b[3])+'</div>';
-      for(var q=0;q<(b[2]||[]).length;q++){
-        var pi=b[2][q];
-        if(pi===null||pi===undefined) continue;
-        h+='<div class="tl-src"><b>原文 · 第 '+pi+' 段</b>'+esc(TL_PARAS[pi]||'')+'</div>';
-      }
-      h+='</div>';
-    }
-    return h;
-  }
-  document.addEventListener('click',function(ev){
-    var it=ev.target.closest?ev.target.closest('.timeline-item'):null;
-    if(!it) return;
-    var idx=it.getAttribute('data-ti');
-    if(idx===null||idx===''||idx==='-1'){
-      var ti=it.querySelector('.timeline-title');
-      idx=String(idxOf(ti?ti.textContent:''));
-    }
-    idx=parseInt(idx,10);
-    if(isNaN(idx)||idx<0) return;
-    var was=it.classList.contains('tl-open');
-    var brs=document.querySelectorAll('.tl-branch');
-    for(var i=0;i<brs.length;i++){ if(brs[i].parentNode) brs[i].parentNode.removeChild(brs[i]); }
-    var opens=document.querySelectorAll('.timeline-item.tl-open');
-    for(var j=0;j<opens.length;j++) opens[j].classList.remove('tl-open');
-    if(was) return;
-    var br=document.createElement('div');
-    br.className='tl-branch';
-    br.innerHTML=panel(idx);
-    it.appendChild(br);
-    it.classList.add('tl-open');
-  });
-  /* 提示徽章（放喺 .timeline-content，唔污染標題文字） */
-  var items=document.querySelectorAll('.timeline-item');
-  for(var i=0;i<items.length;i++){
-    if(!items[i].getAttribute('data-ti')){
-      var ti=items[i].querySelector('.timeline-title');
-      if(ti) items[i].setAttribute('data-ti',String(idxOf(ti.textContent)));
-    }
-    if(items[i].querySelector('.tl-hint')) continue;
-    var tc=items[i].querySelector('.timeline-content');
-    if(!tc) continue;
-    var h=document.createElement('span');
-    h.className='tl-hint'; h.textContent='撳 → 支線';
-    tc.appendChild(h);
-    items[i].setAttribute('title','撳一下展開支線（附原文）');
-  }
 })();
 </script>
 </body>

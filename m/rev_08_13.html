@@ -409,7 +409,6 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
     <span class="grp voicegrp">聲線 <button id="vA" title="可愛女聲">女</button><button id="vB" title="活潑男聲">男</button>
       <button id="vSwap" title="切換聲線">⇄</button></span>
     <span class="grp">讀速 <button data-sp="-0.1">−</button><b id="spVal">1.20×</b><button data-sp="0.1">＋</button></span>
-    <span class="grp"><button id="floop" title="循環：關／單段重複／全篇連續">🔁 關</button></span>
     <span class="grp">音量 <input type="range" id="vol" min="0" max="100" value="90"></span>
     <span class="grp">字級 <button data-fs="-1">−</button><b id="fsVal">19</b><button data-fs="1">＋</button></span>
     <span class="grp">行距 <button data-lh="-0.1">−</button><b id="lhVal">1.9</b><button data-lh="0.1">＋</button></span>
@@ -887,7 +886,6 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
   <div class="frow">
     <button id="fplay" title="播放／暫停（再按由呢度接續）">▶</button>
     <button id="fhead" title="由頭重播">↺</button>
-    <button id="floop2" title="循環：關／單段重複／全篇連續">🔁 關</button>
     <button id="fslower" title="慢啲">−</button>
     <span class="fv" id="fspeed">1.20×</span>
     <button id="ffaster" title="快啲">＋</button>
@@ -1022,7 +1020,7 @@ var MD_TEXT = "七年之前, 有一件事, 全世界都照住做。\n\n你可能
 /* ═══════════ 狀態 ═══════════ */
 var S = {
   voice:"B", speed:1.20, vol:0.9, fs:19, lh:1.9, theme:"abyss",
-  music:false, follow:false, cur:-1, seekTo:null, type:false, loop:0
+  music:false, follow:false, cur:-1, seekTo:null, type:false
 };
 /* ★ 2026-10-29 22:05 手機版修正：
    ① 舊 decodeTrack() 讀已改名嘅 #segdata → null.textContent → 「啟動失敗」（手機實測）
@@ -1045,7 +1043,6 @@ function loadPrefs(){
   S.vol = +(ss("ap_vol")||0.9); S.voice = ss("ap_voice")||"B";
   S.speed = +(ss("ap_speed")||1.20); S.music = ss("ap_music")==="1";
   S.follow = ss("ap_follow")==="1";
-  S.loop = +(ss("ap_loop")||0); syncLoopBtn();
   document.documentElement.dataset.theme = S.theme;
   document.documentElement.style.setProperty("--fs", S.fs+"px");
   document.documentElement.style.setProperty("--lh", S.lh);
@@ -1055,7 +1052,6 @@ function savePrefs(){
   ss("ap_theme",S.theme); ss("ap_fs",S.fs); ss("ap_lh",S.lh);
   ss("ap_vol",S.vol); ss("ap_voice",S.voice); ss("ap_speed",S.speed);
   ss("ap_music",S.music?"1":"0"); ss("ap_follow",S.follow?"1":"0");
-  ss("ap_loop",S.loop);
 }
 
 /* ═══════════ 進度條 ═══════════ */
@@ -1262,9 +1258,7 @@ function ensureAudio(){
   /* ★ iOS Safari：detached audio element 唔會播 → 一定要入 DOM */
   try{ if(document.body && !audio.parentNode) document.body.appendChild(audio); }catch(e){}
   audio.addEventListener("ended", function(){
-    if(S.loop===1){ playSeg(curSeg, 0); return; }            /* ★ 單段重複 */
     if(curSeg+1 < segList().length) playSeg(curSeg+1, 0);   /* 一段完 → 接下一段 */
-    else if(S.loop===2){ playSeg(0, 0); return; }           /* ★ 全篇連續：返第一段 */
     else { playing=false; setPlayIcon(false); }
   });
   audio.addEventListener("timeupdate", function(){
@@ -1287,16 +1281,6 @@ function playSeg(i, off){
   a.play().catch(function(){});
   if(off>0){ setTimeout(function(){ try{ a.currentTime=off; }catch(e){} }, 80); }
   playing=true; setPlayIcon(true);
-}
-var LOOP_LABELS = ["🔁 關","🔁 單段","🔁 全篇"];
-function syncLoopBtn(){
-  var b=document.getElementById("floop"); if(!b) return;
-  var s = S.loop===1 ? LOOP_LABELS[1] : LOOP_LABELS[S.loop];
-  b.textContent=s; b.classList.toggle("on", S.loop>0);
-  var m=document.getElementById("mloop"); if(m){ m.textContent=s; m.classList.toggle("on", S.loop>0); }
-}
-function cycleLoop(){
-  S.loop=(S.loop+1)%3; savePrefs(); syncLoopBtn();
 }
 function setPlayIcon(playing){
   var t = playing?"❚❚":"▶";
@@ -1329,9 +1313,6 @@ function setThemeBtns(){
     b.classList.toggle("on", b.getAttribute("data-t")===S.theme);
   });
 }
-document.addEventListener("click", function(ev){
-  if(ev.target && (ev.target.id==="floop" || ev.target.id==="floop2" || ev.target.id==="mloop")){ cycleLoop(); }
-});
 function syncMusicBtn(){
   document.getElementById("btnMusic").classList.toggle("on", S.music);
   document.getElementById("fmusic").classList.toggle("on", S.music);
