@@ -1259,6 +1259,8 @@ function globalTime(){
 function ensureAudio(){
   if(audio) return audio;
   audio = new Audio(); audio.preload="auto"; audio.volume=S.vol;
+  /* ★ iOS Safari：detached audio element 唔會播 → 一定要入 DOM */
+  try{ if(document.body && !audio.parentNode) document.body.appendChild(audio); }catch(e){}
   audio.addEventListener("ended", function(){
     if(S.loop===1){ playSeg(curSeg, 0); return; }            /* ★ 單段重複 */
     if(curSeg+1 < segList().length) playSeg(curSeg+1, 0);   /* 一段完 → 接下一段 */
@@ -1328,7 +1330,7 @@ function setThemeBtns(){
   });
 }
 document.addEventListener("click", function(ev){
-  if(ev.target &amp;&amp; (ev.target.id==="floop" || ev.target.id==="floop2" || ev.target.id==="mloop")){ cycleLoop(); }
+  if(ev.target && (ev.target.id==="floop" || ev.target.id==="floop2" || ev.target.id==="mloop")){ cycleLoop(); }
 });
 function syncMusicBtn(){
   document.getElementById("btnMusic").classList.toggle("on", S.music);
