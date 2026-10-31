@@ -321,12 +321,14 @@ function boot(){
     return;
   }
   ALL = raw.events.map(function(e){
-    return { d:(e.t||'').slice(0,10), m:parseFloat(e.mag||0), dp:parseFloat(e.depth||0),
+    return { d:(e.t||'').slice(0,10), ts:(e.t||'').replace('T',' '),
+             m:parseFloat(e.mag||0), dp:parseFloat(e.depth||0),
              p:e.place||'', id:e.id||'', lat:e.lat, lon:e.lon,
              m7:parseFloat(e.mag||0)>=7, m8:parseFloat(e.mag||0)>=8 };
   });
+  /* ★ 2026-10-31：排序改為「地震發生日期新→舊」，同一日再按級數大→小 */
   EVTS = ALL.filter(function(e){ return e.m>=6.0; })
-            .sort(function(a,b){ return a.d<b.d?1:(a.d>b.d?-1:0); });
+            .sort(function(a,b){ return (a.ts<b.ts?1:(a.ts>b.ts?-1:0)) || (b.m-a.m); });
   init();
 }
 
@@ -447,8 +449,9 @@ function buildCharts(){
 
 /* ---------------- M7 卡片 ---------------- */
 function buildM7(){
+  /* ★ 2026-10-31：M7+ 警示卡原本按級數排（日期跳來跳去），改為日期新→舊 */
   var list=EVTS.filter(function(e){return e.m>=7;})
-                .sort(function(a,b){return b.m-a.m || (a.d<b.d?1:-1);});
+                .sort(function(a,b){return (a.ts<b.ts?1:(a.ts>b.ts?-1:0)) || (b.m-a.m);});
   var cnt=document.getElementById('m7Cnt');
   if(cnt) cnt.textContent=list.length+' '+L.m7n;
   var g=document.getElementById('m7Grid'); if(!g) return;
@@ -501,8 +504,8 @@ function currentData(){
     }
     return true;
   });
-  if(state.sort==='mag') d.sort(function(a,b){ return (b.m-a.m)||(a.d<b.d?1:-1); });
-  else d.sort(function(a,b){ return a.d<b.d?1:(a.d>b.d?-1:0); });
+  if(state.sort==='mag') d.sort(function(a,b){ return (b.m-a.m)||(a.ts<b.ts?1:(a.ts>b.ts?-1:0)); });
+  else d.sort(function(a,b){ return (a.ts<b.ts?1:(a.ts>b.ts?-1:0))||(b.m-a.m); });
   return d;
 }
 
