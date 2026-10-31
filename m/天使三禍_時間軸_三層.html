@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>大災難時間軸 · 三層摺疊（節點 → 中框 → 子框）</title>
+<style>
+:root{
+  --bg:#08090a; --bg2:#0c1013; --card:#11161a; --card2:#161c22;
+  --acc:#00f3ff; --acc-dim:rgba(0,243,255,.28); --warn:#ffae00; --red:#ff2a2a; --ok:#00ff41;
+  --tx:#f2f2f2; --tx2:#c2c8d2; --tx3:#8b93a1;
+  --mono:'Share Tech Mono',ui-monospace,Consolas,monospace;
+  --disp:'Orbitron','Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif;
+  --cn:'Noto Serif CJK TC','Noto Sans TC','PingFang TC','Microsoft JhengHei',serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;scroll-padding-top:80px}
+body{background:var(--bg);color:var(--tx);font-family:var(--cn);font-size:17px;line-height:1.75;
+  -webkit-font-smoothing:antialiased;padding-bottom:60px;overflow-x:hidden}
+.wrap{max-width:1180px;margin:0 auto;padding:0 16px}
+#fx{position:fixed;inset:0;z-index:0;opacity:.16;pointer-events:none}
+.vig{position:fixed;inset:0;z-index:1;pointer-events:none;
+  background:radial-gradient(ellipse at 50% 0%,transparent 35%,rgba(0,0,0,.88) 100%)}
+.scan{position:fixed;inset:0;z-index:1;pointer-events:none;opacity:.1;
+  background:repeating-linear-gradient(0deg,rgba(0,243,255,.10) 0 1px,transparent 1px 3px)}
+.page{position:relative;z-index:2}
+
+header{position:sticky;top:0;z-index:50;background:rgba(8,9,10,.95);backdrop-filter:blur(10px);
+  border-bottom:1px solid var(--acc-dim);padding:11px 0}
+header .wrap{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+header h1{font-family:var(--disp);font-size:1.05rem;color:var(--acc);font-weight:700;letter-spacing:.05em;
+  text-shadow:0 0 12px var(--acc-dim)}
+.tagline{font-size:.73rem;color:var(--tx3);letter-spacing:.05em}
+.hdr-btns{margin-left:auto;display:flex;gap:8px;flex-wrap:wrap}
+button{font-family:var(--cn);font-size:.8rem;cursor:pointer;border-radius:4px;
+  border:1px solid var(--acc-dim);background:rgba(0,243,255,.06);color:var(--acc);padding:5px 11px}
+button:hover{background:rgba(0,243,255,.18)}
+
+.hero{margin:18px 0 6px;background:var(--bg2);border:1px solid var(--acc-dim);border-radius:10px;padding:16px 14px}
+.hero h2{font-family:var(--disp);font-size:.9rem;color:var(--acc);letter-spacing:.1em;margin-bottom:6px}
+.hero p{font-size:.82rem;color:var(--tx3);line-height:1.8}
+.hero .lv{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+.hero .lv span{font-size:.7rem;font-family:var(--mono);letter-spacing:.1em;border:1px solid var(--acc-dim);
+  color:var(--acc);padding:2px 8px;border-radius:2px}
+.hero .lv span.mid{color:var(--warn);border-color:rgba(255,174,0,.45)}
+.hero .lv span.sub{color:var(--ok);border-color:rgba(0,255,65,.4)}
+
+/* ── 大框：時間軸 ── */
+.axis{margin:14px 0;background:var(--bg2);border:1px solid var(--acc-dim);border-radius:10px;padding:16px 14px}
+.axis-head{font-family:var(--disp);font-size:.85rem;color:var(--acc);letter-spacing:.1em;margin-bottom:12px}
+.tl{position:relative;padding-left:22px}
+.tl::before{content:"";position:absolute;left:6px;top:8px;bottom:8px;width:2px;
+  background:linear-gradient(180deg,#00f3ff,#ffae00,#ff2a2a,#00ff41)}
+.tl-item{position:relative;margin-bottom:8px}
+.tl-item>.dot{position:absolute;left:-21px;top:13px;width:12px;height:12px;border-radius:50%;
+  border:2.5px solid var(--bg2);background:var(--acc);z-index:2}
+.tl-item.y2023 .dot,.tl-item.y2024 .dot{background:var(--warn)}
+.tl-item.y2026 .dot,.tl-item.y2027 .dot{background:var(--red)}
+.tl-item.y2028 .dot{background:var(--ok)}
+
+/* 中框 = details */
+details.mid{border:1px solid var(--line,#20272f);border-radius:8px;margin-bottom:8px;
+  background:var(--card);overflow:hidden}
+details.mid>summary{cursor:pointer;list-style:none;padding:10px 12px 10px 30px;position:relative;
+  display:flex;align-items:flex-start;gap:9px;-webkit-tap-highlight-color:transparent}
+details.mid>summary::-webkit-details-marker{display:none}
+details.mid>summary::before{content:"▸";position:absolute;left:11px;color:var(--acc);font-size:.8rem;
+  transition:.2s}
+details.mid[open]>summary::before{transform:rotate(90deg)}
+details.mid>summary:hover{background:rgba(0,243,255,.05)}
+.tl-item>details.mid>summary{padding-left:12px}
+.tl-item>details.mid>summary::before{left:4px}
+.tl-item>details.mid{border-color:rgba(0,243,255,.16)}
+.yd{font-family:var(--mono);font-size:.72rem;color:var(--acc);flex:0 0 auto;
+  border:1px solid var(--acc-dim);padding:1px 6px;border-radius:2px;margin-top:2px}
+.yt{flex:1;font-size:.94rem;color:var(--tx);line-height:1.45;font-weight:600}
+.ys{font-size:.78rem;color:var(--tx3);flex-basis:100%;margin-top:2px}
+.verdict{flex:0 0 auto;font-size:.68rem;font-family:var(--mono);padding:1px 6px;border-radius:2px;
+  border:1px solid;white-space:nowrap;margin-top:3px}
+.v-ok{color:var(--ok);border-color:rgba(0,255,65,.4)}
+.v-warn{color:var(--warn);border-color:rgba(255,174,0,.5)}
+.v-no{color:var(--tx3);border-color:var(--line,#20272f)}
+
+/* 中框內容 */
+.mid-body{padding:4px 14px 14px 14px;border-top:1px solid rgba(0,243,255,.12)}
+.chk{font-size:.8rem;color:var(--tx2);line-height:1.75;margin:10px 0;padding:9px 11px;
+  background:rgba(0,243,255,.04);border-left:2px solid var(--acc)}
+.chk b{color:var(--acc)}
+.chk.warn{background:rgba(255,174,0,.06);border-left-color:var(--warn)}
+.chk.warn b{color:var(--warn)}
+.chk.no{background:rgba(139,147,161,.06);border-left-color:var(--tx3)}
+.chk.no b{color:var(--tx3)}
+.sub-t{font-family:var(--disp);font-size:.78rem;color:var(--warn);letter-spacing:.14em;margin:14px 0 8px}
+
+/* 子框 = details */
+details.sub{border:1px solid rgba(255,174,0,.22);border-radius:6px;margin-bottom:7px;background:var(--card2);overflow:hidden}
+details.sub>summary{cursor:pointer;list-style:none;padding:9px 11px;display:flex;gap:9px;
+  align-items:flex-start;-webkit-tap-highlight-color:transparent}
+details.sub>summary::-webkit-details-marker{display:none}
+details.sub>summary::before{content:"＋";color:var(--warn);font-family:var(--mono);flex:0 0 auto}
+details.sub[open]>summary::before{content:"－"}
+details.sub>summary:hover{background:rgba(255,174,0,.06)}
+.sub .pi{font-family:var(--mono);font-size:.68rem;color:var(--warn);flex:0 0 auto;
+  border:1px solid rgba(255,174,0,.35);padding:0 5px;border-radius:2px;margin-top:3px}
+.sub .st{flex:1;font-size:.87rem;color:var(--tx2);line-height:1.6}
+.sub-body{padding:0 12px 12px;border-top:1px solid rgba(255,174,0,.16)}
+.sub-body p{font-size:.9rem;color:var(--tx);line-height:1.85;margin:10px 0 0;overflow-wrap:anywhere}
+.lay{display:inline-block;font-size:.66rem;font-family:var(--mono);letter-spacing:.1em;
+  border:1px solid currentColor;border-radius:2px;padding:0 5px;margin-right:6px;vertical-align:1px}
+.l-fact{color:#4a9fd8}.l-scrip{color:var(--warn)}.l-infer{color:#b07de0}.l-judge{color:var(--ok)}
+
+.note{margin-top:26px;background:var(--bg2);border:1px solid var(--acc-dim);border-radius:10px;padding:16px}
+.note h3{font-family:var(--disp);font-size:.84rem;color:var(--acc);letter-spacing:.1em;margin-bottom:8px}
+.note p{font-size:.8rem;color:var(--tx3);line-height:1.8}
+.note b{color:var(--tx2)}
+footer{margin-top:24px;text-align:center;font-size:.73rem;color:var(--tx3);line-height:1.8}
+
+@media(min-width:760px){
+  .tl{display:flex;gap:6px;padding-left:0}
+  .tl::before{left:10px;right:10px;top:20px;bottom:auto;width:auto;height:2px}
+  .tl-item{flex:0 0 178px;margin-bottom:0}
+  .tl-item>.dot{left:50%;margin-left:-6px;top:14px}
+  .tl-item>details.mid{margin-top:26px}
+  .tl-item>details.mid>summary{padding:9px 10px;flex-direction:column;align-items:flex-start;gap:4px}
+  .tl-item>details.mid>summary::before{left:6px;top:9px}
+  .verdict{margin-top:2px}
+  .ys{flex-basis:auto}
+}
+@media(max-width:600px){body{font-size:16px}.hero,.axis{padding:13px 11px}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<canvas id="fx"></canvas>
+<div class="vig"></div>
+<div class="scan"></div>
+
+<header>
+  <div class="wrap">
+    <div>
+      <h1>大災難時間軸 · 三層摺疊</h1>
+      <div class="tagline">大框（時間軸）→ 中框（對照天使三禍稿）→ 子框（原文逐段）</div>
+    </div>
+    <div class="hdr-btns">
+      <button id="btnAll">展開全部中框</button>
+      <button id="btnNone">收起全部</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap page">
+  <section class="hero">
+    <h2>點用</h2>
+    <p>大框係完整時間軸（24 個節點）。撳節點標題 → 開中框，睇呢個節點喺「天使三禍」粵語原版稿入面對應嘅內容同日期核對；再撳中框入面嘅段落 → 開子框，睇嗰一段嘅原文全文。</p>
+    <div class="lv">
+      <span>① 大框 · 時間軸</span>
+      <span class="mid">② 中框 · 對照稿</span>
+      <span class="sub">③ 子框 · 原文</span>
+    </div>
+  </section>
+
+  <section class="axis">
+    <div class="axis-head">大框 // 時間軸 · 2019 → 2028</div>
+    <div class="tl" id="tl"></div>
+  </section>
+
+  <section class="note" id="gcheck">
+    <h3>核對結論 // 稿內日期推算鏈逐條驗算</h3>
+    <div id="gclist"></div>
+  </section>
+
+  <section class="note">
+    <h3>核對說明</h3>
+    <p><b>綠色</b>＝節點日期同稿內對應段落嘅日期一致；<b>黃色</b>＝兩者有出入（中框會列出兩個日期相差幾多日）；<b>灰色</b>＝「天使三禍」稿未涵蓋呢個節點。</p>
+    <p>所有引文出自粵語原版 v18 稿（111 段），逐字未改。</p>
+  </section>
+
+  <footer>
+    視覺版 · 母體 timeline04.html（研究版，保留未改）｜ 內容對照天使三禍 v18 稿 ｜ 零網絡 · 單一檔<br>
+    日期推算屬框架估值，唔係定論；每個數字都應由你自己再核對一次。
+  </footer>
+</div>
+
+<script>
+var D={"items": [{"year": "2019", "title": "🦠 白馬・COVID-19", "desc": "12/01 首宗新冠・弓(toxon毒素)・mRNA影響DNA", "dateShort": "2019-12-01", "verdict": "一致", "checkNote": "時間軸 2019-12-01 ＝ 稿（段 16）2019-12-01 ✅", "subs": [{"pidx": 6, "brief": "但如果白、紅、黑、灰四匹馬, 其實係同一個系統, 咁第一印嗰匹白馬, 就", "text": "但如果白、紅、黑、灰四匹馬, 其實係同一個系統, 咁第一印嗰匹白馬, 就要重新睇睇。"}, {"pidx": 7, "brief": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, ", "text": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, 灰馬係持續發生嘅災難 — 分別係刀劍、饑荒、再嚟一場新瘟疫, 一直累加落去，到惡獸殺人，直到死亡四份之一。"}, {"pidx": 12, "brief": "日期係查得出嚟嘅。英國廣播電台喺二零二零年二月二十六日, 發佈咗一篇報道", "text": "日期係查得出嚟嘅。英國廣播電台喺二零二零年二月二十六日, 發佈咗一篇報道, 講新冠「零號病人」嘅日期。"}, {"pidx": 15, "brief": "題目係《肺炎疫情:「零號病人」的由來以及醫學爭議》, 由英國廣播電台發佈", "text": "題目係《肺炎疫情:「零號病人」的由來以及醫學爭議》, 由英國廣播電台發佈中文版本, 詳細網址喺頁底, 等陣間可以去睇。"}, {"pidx": 106, "brief": "你唔需要接受上面講嘅任何一個結論。目前嘅結論亦可能錯 — 零號病人嘅日期", "text": "你唔需要接受上面講嘅任何一個結論。目前嘅結論亦可能錯 — 零號病人嘅日期, 醫學界到今日仍然有爭議。"}]}, {"year": "2020", "title": "🕊️ 第一印開啟(假設)", "desc": "12/01 一年通知期結束・尼布甲尼撒進入七期", "dateShort": "2020-12-01", "verdict": "稿未寫日期", "checkNote": "時間軸 2020-12-01 ｜ 稿段 5,6 有對應內容但冇寫出日期｜稿段 9「十二個月通知期之後，就進入『七期』」—— 冇寫日期", "subs": [{"pidx": 5, "brief": "好多基督徒提起第一印, 會覺得係福音, 係和平。我自己都係咁認為左好多年", "text": "好多基督徒提起第一印, 會覺得係福音, 係和平。我自己都係咁認為左好多年。"}, {"pidx": 6, "brief": "但如果白、紅、黑、灰四匹馬, 其實係同一個系統, 咁第一印嗰匹白馬, 就", "text": "但如果白、紅、黑、灰四匹馬, 其實係同一個系統, 咁第一印嗰匹白馬, 就要重新睇睇。"}]}, {"year": "2022", "title": "⚔️ 紅馬・第二印", "desc": "02/24 俄烏戰爭・第450日・戰爭與衝突", "dateShort": "2022-02-24", "verdict": "稿未寫日期", "checkNote": "時間軸 2022-02-24 ｜ 稿段 7 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 7, "brief": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, ", "text": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, 灰馬係持續發生嘅災難 — 分別係刀劍、饑荒、再嚟一場新瘟疫, 一直累加落去，到惡獸殺人，直到死亡四份之一。"}]}, {"year": "2023", "title": "💸 黑馬・第三印", "desc": "04/05 經濟衰退・逾越節・以色列奪埃及金子", "dateShort": "2023-04-05", "verdict": "稿未寫日期", "checkNote": "時間軸 2023-04-05 ｜ 稿段 7 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 7, "brief": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, ", "text": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, 灰馬係持續發生嘅災難 — 分別係刀劍、饑荒、再嚟一場新瘟疫, 一直累加落去，到惡獸殺人，直到死亡四份之一。"}]}, {"year": "2023", "title": "💀 灰馬・第四印", "desc": "12/31 能登半島地震・指向巴黎奧運・緩慢死亡開始", "dateShort": "2023-12-31", "verdict": "稿未寫日期", "checkNote": "時間軸 2023-12-31 ｜ 稿段 7,73 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 7, "brief": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, ", "text": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, 灰馬係持續發生嘅災難 — 分別係刀劍、饑荒、再嚟一場新瘟疫, 一直累加落去，到惡獸殺人，直到死亡四份之一。"}, {"pidx": 73, "brief": "如果灰馬果陣，係全球突然死咗四分之一人口, 新聞仲要公佈埋出嚟，全世界可", "text": "如果灰馬果陣，係全球突然死咗四分之一人口, 新聞仲要公佈埋出嚟，全世界可能就會知道，係喇，係喺啟示錄嘅七年大災難裏面喇，大鑊喇！"}]}, {"year": "2024", "title": "🐄 紅母牛獻祭止息", "desc": "2024年04月22日 逾越節・2000年來首次獻祭 - 卻被止息", "dateShort": "2024-04-22", "verdict": "一致", "checkNote": "時間軸 2024-04-22 ＝ 稿（段 21）2024-04-22 ✅", "subs": [{"pidx": 21, "brief": "當中最大嘅參考, 有指二零二四年四月二十二日嘅逾越節獻祭被停止, 係因為", "text": "當中最大嘅參考, 有指二零二四年四月二十二日嘅逾越節獻祭被停止, 係因為二零二三年十月七日嘅哈馬斯攻以色列有關 — 令到以色列政府勒令暫停了當年的逾越節獻祭，到了二零二五年才繼續。"}, {"pidx": 24, "brief": "那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭。", "text": "那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭。"}, {"pidx": 31, "brief": "耶和華的七個節期，就是（逾越節、無酵節、初熟節、兼具收割小麥的七七節、吹", "text": "耶和華的七個節期，就是（逾越節、無酵節、初熟節、兼具收割小麥的七七節、吹角節、贖罪日，以及兼具收藏秋收的住棚節，即係收藏節）。"}]}, {"year": "2024", "title": "🕍 以色列獨立日", "desc": "05/14 第1260日・一七之半", "dateShort": "2024-05-14", "verdict": "有出入", "checkNote": "時間軸 2024-05-14 ｜ 稿推算 2023-04-12（稿段 22／24：起點 2019-12-01 ＋ 1260 日（三年半）＝ 2023-04-12）→ 相差 398 日", "subs": [{"pidx": 22, "brief": "七年前嘅第一次瘟疫, 快到三年半嘅時候，那年常獻的祭祀被止息了。真係發生", "text": "七年前嘅第一次瘟疫, 快到三年半嘅時候，那年常獻的祭祀被止息了。真係發生了，但又真係會漠不關心，無乜反應。"}, {"pidx": 24, "brief": "那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭。", "text": "那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭。"}]}, {"year": "2024", "title": "🌾 七七節翌日", "desc": "06/13 第1290日・死亡收割節開始", "dateShort": "2024-06-13", "verdict": "稿未寫日期", "checkNote": "時間軸 2024-06-13 ｜ 稿段 26,28,29,30 有對應內容但冇寫出日期｜稿段 28「二載後嘅同一日，都係七七節，又是收割節」—— 冇寫日期", "subs": [{"pidx": 26, "brief": "而二零二七年嘅收割節，日期剛好同二零二四年既一樣。", "text": "而二零二七年嘅收割節，日期剛好同二零二四年既一樣。"}, {"pidx": 28, "brief": "而二載後嘅同一日，都係七七節，又是收割節。", "text": "而二載後嘅同一日，都係七七節，又是收割節。"}, {"pidx": 29, "brief": "神用七日重造天地，對照耶和華嘅七個節期，而七七節被分成兩半，一七之半，七", "text": "神用七日重造天地，對照耶和華嘅七個節期，而七七節被分成兩半，一七之半，七七節，收割莊稼，但並未收藏。"}, {"pidx": 30, "brief": "直到另一個七七節，開始將莊稼逐漸放入倉庫，直到收藏節。", "text": "直到另一個七七節，開始將莊稼逐漸放入倉庫，直到收藏節。"}, {"pidx": 31, "brief": "耶和華的七個節期，就是（逾越節、無酵節、初熟節、兼具收割小麥的七七節、吹", "text": "耶和華的七個節期，就是（逾越節、無酵節、初熟節、兼具收割小麥的七七節、吹角節、贖罪日，以及兼具收藏秋收的住棚節，即係收藏節）。"}]}, {"year": "2024", "title": "🏅 巴黎奧運", "desc": "07/26 第1333日・褻瀆暗示・不法隱意展開", "dateShort": "2024-07-26", "verdict": "稿未涵蓋", "checkNote": "時間軸 2024-07-26 ｜「天使三禍」稿未涵蓋呢個節點（保留研究版資訊）", "subs": []}, {"year": "2024", "title": "🦠 第五印・猴痘", "desc": "09/17 Jynneos疫苗・Mpox=440=敵基督眾數", "dateShort": "2024-09-17", "verdict": "稿未寫日期", "checkNote": "時間軸 2024-09-17 ｜ 稿段 33,35,40,101 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 33, "brief": "回顧喺第一次瘟疫，在「受管制嘅藥物」之下, 每個人做咗第一次決定。", "text": "回顧喺第一次瘟疫，在「受管制嘅藥物」之下, 每個人做咗第一次決定。"}, {"pidx": 35, "brief": "「受管制嘅藥物」呢個講法。查過原文嘅意思, 竟然係同「邪術」一樣。", "text": "「受管制嘅藥物」呢個講法。查過原文嘅意思, 竟然係同「邪術」一樣。"}, {"pidx": 40, "brief": "迷惑，就好似係可以將邪術，包裝成為救人救世嘅藥物。", "text": "迷惑，就好似係可以將邪術，包裝成為救人救世嘅藥物。"}, {"pidx": 101, "brief": "當初，我就係從啟示錄裏面，想知道邪術呢個詞，到底喺指乜而開始。", "text": "當初，我就係從啟示錄裏面，想知道邪術呢個詞，到底喺指乜而開始。"}]}, {"year": "2025", "title": "🌑 第六印", "desc": "01/07 西藏地震・南加州大火・日頭變黑月亮變紅", "dateShort": "2025-01-07", "verdict": "稿未寫日期", "checkNote": "時間軸 2025-01-07 ｜ 稿段 46,47,50 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 46, "brief": "如果睇聖經, 會留意到從　神而嚟嘅兩個見證人, 佢哋嘅次序係由傳道去到作", "text": "如果睇聖經, 會留意到從　神而嚟嘅兩個見證人, 佢哋嘅次序係由傳道去到作見證嘅時候, 時間線就係喺第五號到第六號嗰個階段。"}, {"pidx": 47, "brief": "即係話, 如果有人一定要見到兩個見證人先至相信自己已經喺七年大災難裏面,", "text": "即係話, 如果有人一定要見到兩個見證人先至相信自己已經喺七年大災難裏面, 咁果個人見到嗰兩個見證人嘅時候, 佢自己可能已經無法再得救, 因為已經接受咗獸嘅印、獸嘅名同獸嘅數目。"}, {"pidx": 50, "brief": "無論係第三聖殿，敵基督站在裏面說誇大的話，或是兩個見證人。", "text": "無論係第三聖殿，敵基督站在裏面說誇大的話，或是兩個見證人。"}]}, {"year": "2025", "title": "🕊️ 第七印", "desc": "04/29 天上寂靜二刻・以色列陣亡將士紀念日・90日關稅", "dateShort": "2025-04-29", "verdict": "稿未涵蓋", "checkNote": "時間軸 2025-04-29 ｜「天使三禍」稿未涵蓋呢個節點（保留研究版資訊）", "subs": []}, {"year": "2025", "title": "⚔️ 以伊戰爭", "desc": "2025年06月13日 一載後・收割死亡・灰馬加速・刀劍飢荒瘟疫", "dateShort": "2025-06-13", "verdict": "有出入", "checkNote": "時間軸 2025-06-13 ｜ 稿推算 2024-04-12（稿段 24：1260 日 ＋ 一載 ＝ 2024-04-12）→ 相差 427 日", "subs": [{"pidx": 24, "brief": "那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭。", "text": "那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭。"}]}, {"year": "2025", "title": "🔥 第一號筒", "desc": "08/19 贖罪日前夕・冰雹與火・生態三分之一受損", "dateShort": "2025-08-19", "verdict": "稿未寫日期", "checkNote": "時間軸 2025-08-19 ｜ 稿段 5,6 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 5, "brief": "好多基督徒提起第一印, 會覺得係福音, 係和平。我自己都係咁認為左好多年", "text": "好多基督徒提起第一印, 會覺得係福音, 係和平。我自己都係咁認為左好多年。"}, {"pidx": 6, "brief": "但如果白、紅、黑、灰四匹馬, 其實係同一個系統, 咁第一印嗰匹白馬, 就", "text": "但如果白、紅、黑、灰四匹馬, 其實係同一個系統, 咁第一印嗰匹白馬, 就要重新睇睇。"}]}, {"year": "2025", "title": "🌊 第二號筒", "desc": "12/09 火燒大山扔海中・海水變血・兩個見證人漸現", "dateShort": "2025-12-09", "verdict": "稿未寫日期", "checkNote": "時間軸 2025-12-09 ｜ 稿段 7 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 7, "brief": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, ", "text": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, 灰馬係持續發生嘅災難 — 分別係刀劍、饑荒、再嚟一場新瘟疫, 一直累加落去，到惡獸殺人，直到死亡四份之一。"}]}, {"year": "2026", "title": "☄️ 第三號筒", "desc": "03/31 燒著大星墜落・水變苦・敵基督漸顯・獸印啟動", "dateShort": "2026-03-31", "verdict": "稿未寫日期", "checkNote": "時間軸 2026-03-31 ｜ 稿段 7 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 7, "brief": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, ", "text": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, 灰馬係持續發生嘅災難 — 分別係刀劍、饑荒、再嚟一場新瘟疫, 一直累加落去，到惡獸殺人，直到死亡四份之一。"}]}, {"year": "2026", "title": "🌑 第四號筒", "desc": "07/21 埃波月第九日・聖殿被毀日・日月星三分之一黑暗", "dateShort": "2026-07-21", "verdict": "稿未寫日期", "checkNote": "時間軸 2026-07-21 ｜ 稿段 7,73 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 7, "brief": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, ", "text": "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, 灰馬係持續發生嘅災難 — 分別係刀劍、饑荒、再嚟一場新瘟疫, 一直累加落去，到惡獸殺人，直到死亡四份之一。"}, {"pidx": 73, "brief": "如果灰馬果陣，係全球突然死咗四分之一人口, 新聞仲要公佈埋出嚟，全世界可", "text": "如果灰馬果陣，係全球突然死咗四分之一人口, 新聞仲要公佈埋出嚟，全世界可能就會知道，係喇，係喺啟示錄嘅七年大災難裏面喇，大鑊喇！"}]}, {"year": "2026", "title": "🦗 第五號筒（一禍）", "desc": "11/10 無底坑開・蝗蟲之禍五個月・獸印強制", "dateShort": "2026-11-10", "verdict": "有出入", "checkNote": "時間軸 2026-11-10 ｜ 稿（段 69）寫 2027-02-16 → 相差 98 日", "subs": [{"pidx": 18, "brief": "按六年來的事件統計和按邏輯推論落去嘅話, 超級厄爾尼諾由十一月中持續到二", "text": "按六年來的事件統計和按邏輯推論落去嘅話, 超級厄爾尼諾由十一月中持續到二零二七年二月尾, 呢個時間段，其實剛好係第四到第五號筒既時間線。"}, {"pidx": 46, "brief": "如果睇聖經, 會留意到從　神而嚟嘅兩個見證人, 佢哋嘅次序係由傳道去到作", "text": "如果睇聖經, 會留意到從　神而嚟嘅兩個見證人, 佢哋嘅次序係由傳道去到作見證嘅時候, 時間線就係喺第五號到第六號嗰個階段。"}, {"pidx": 67, "brief": "真的要想想，因為按時間線，差不多到了啟示錄第八章第十三節, 那三聲「禍哉", "text": "真的要想想，因為按時間線，差不多到了啟示錄第八章第十三節, 那三聲「禍哉」。一隻鷹飛喺空中, 講咗三次「禍哉」「禍哉」「禍哉」。"}, {"pidx": 69, "brief": "而第五號仲有四條線, 最早嗰條推算喺二零二七年二月十六日。", "text": "而第五號仲有四條線, 最早嗰條推算喺二零二七年二月十六日。"}]}, {"year": "2027", "title": "🐎 第六號筒（二禍）", "desc": "03/02 幼發拉底河・馬軍二萬萬・殺三分之一人", "dateShort": "2027-03-02", "verdict": "稿未寫日期", "checkNote": "時間軸 2027-03-02 ｜ 稿段 46,47,50,68 有對應內容但冇寫出日期｜日期以稿內推算為準", "subs": [{"pidx": 46, "brief": "如果睇聖經, 會留意到從　神而嚟嘅兩個見證人, 佢哋嘅次序係由傳道去到作", "text": "如果睇聖經, 會留意到從　神而嚟嘅兩個見證人, 佢哋嘅次序係由傳道去到作見證嘅時候, 時間線就係喺第五號到第六號嗰個階段。"}, {"pidx": 47, "brief": "即係話, 如果有人一定要見到兩個見證人先至相信自己已經喺七年大災難裏面,", "text": "即係話, 如果有人一定要見到兩個見證人先至相信自己已經喺七年大災難裏面, 咁果個人見到嗰兩個見證人嘅時候, 佢自己可能已經無法再得救, 因為已經接受咗獸嘅印、獸嘅名同獸嘅數目。"}, {"pidx": 50, "brief": "無論係第三聖殿，敵基督站在裏面說誇大的話，或是兩個見證人。", "text": "無論係第三聖殿，敵基督站在裏面說誇大的話，或是兩個見證人。"}, {"pidx": 68, "brief": "唔係三種災難, 係一條時間線上面嘅三個節點。就係第五, 第六, 和第七號", "text": "唔係三種災難, 係一條時間線上面嘅三個節點。就係第五, 第六, 和第七號。"}]}, {"year": "2027", "title": "🌾 二載後", "desc": "2027年06/13日 收割節翌日・快鐮刀・", "dateShort": "2027-06-13", "verdict": "有出入", "checkNote": "時間軸 2027-06-13 ｜ 稿（段 25）寫 2027-05-15 → 相差 -29 日", "subs": [{"pidx": 25, "brief": "而二零二七年的五月十五日，便是一千二百六十日後的三載翌日了。", "text": "而二零二七年的五月十五日，便是一千二百六十日後的三載翌日了。"}]}, {"year": "2027", "title": "🎺 第七號筒（三禍）", "desc": "06/22 夏至・ 神之奧祕成全・末次號筒等待吹角節", "dateShort": "2027-06-22", "verdict": "稿未寫日期", "checkNote": "時間軸 2027-06-22 ｜ 稿段 68 有對應內容但冇寫出日期｜稿段 68「三禍＝第五、第六、和第七號」—— 冇寫日期", "subs": [{"pidx": 68, "brief": "唔係三種災難, 係一條時間線上面嘅三個節點。就係第五, 第六, 和第七號", "text": "唔係三種災難, 係一條時間線上面嘅三個節點。就係第五, 第六, 和第七號。"}]}, {"year": "2027", "title": "🎺 吹角節・前夕", "desc": "2027年10月01日 基督受了洗禮後・第四十個禧年", "dateShort": "2027-10-01", "verdict": "稿未涵蓋", "checkNote": "時間軸 2027-10-01 ｜「天使三禍」稿未涵蓋呢個節點（保留研究版資訊）", "subs": []}, {"year": "2027", "title": "🏺 七碗災難", "desc": "10/26 距以色列獨立日1260日・最後審判開始", "dateShort": "2027-10-26", "verdict": "稿未涵蓋", "checkNote": "時間軸 2027-10-26 ｜「天使三禍」稿未涵蓋呢個節點（保留研究版資訊）", "subs": []}, {"year": "2028", "title": "✨ 1335日", "desc": "01/09 Asarah B'Tevet・聖殿被毀日・詛咒終變為祝福", "dateShort": "2028-01-09", "verdict": "稿未涵蓋", "checkNote": "時間軸 2028-01-09 ｜「天使三禍」稿未涵蓋呢個節點（保留研究版資訊）", "subs": []}], "paras": ["七年之前, 有一件事, 全世界都照住做。", "你可能覺得冇乜要緊, 可能你心裏面其實有少少唔安樂, 但冇講出嚟。", "如果七年之後, 同一件事再嚟一次, 你會唔會照上次咁, 唔問就做?", "只想問一樣嘢: 你上次嗰個「唔問就做」, 係你自己嘅決定, 定為勢所迫？", "至於嗰件事係咩, 大家心中有數。而家就可以先諗一樣嘢: 喺生活入面, 仲有冇第二件事, 都係咁，大家一直跟住做?", "好多基督徒提起第一印, 會覺得係福音, 係和平。我自己都係咁認為左好多年。", "但如果白、紅、黑、灰四匹馬, 其實係同一個系統, 咁第一印嗰匹白馬, 就要重新睇睇。", "可以分四層睇: 白馬如果係瘟疫, 紅馬係戰爭, 黑馬係持續嘅經濟衰退, 灰馬係持續發生嘅災難 — 分別係刀劍、饑荒、再嚟一場新瘟疫, 一直累加落去，到惡獸殺人，直到死亡四份之一。", "四匹馬係同一場災難嘅四個階段。", "對照但以理書嘅模式, 十二個月通知期之後, 就進入「七期」。「七期」講嘅, 係尼布甲尼撒王由人變成獸嘅過程。", "既然係過程, 就有時間值, 好似日頭到日落咁。每個時間點都有唔同嘅事發生, 但每一次, 其實都喺度累計落去。", "呢個係用系統化嘅經文詮釋, 唔係所有學者都認同。但值得你再睇一次。", "日期係查得出嚟嘅。英國廣播電台喺二零二零年二月二十六日, 發佈咗一篇報道, 講新冠「零號病人」嘅日期。", "報道裏面提過, 第一宗個案喺十二月八日發燒。", "有興趣嘅話, 可以自己去睇下新聞記錄。", "題目係《肺炎疫情:「零號病人」的由來以及醫學爭議》, 由英國廣播電台發佈中文版本, 詳細網址喺頁底, 等陣間可以去睇。", "內容大概係咁: 中國告訴世衛組織, 這些患者的最早症狀可以追溯到二零一九年十二月一日。", "眨一眨眼, 就到了二零二七年, 快到了超級厄爾尼諾嘅大型天災。", "按六年來的事件統計和按邏輯推論落去嘅話, 超級厄爾尼諾由十一月中持續到二零二七年二月尾, 呢個時間段，其實剛好係第四到第五號筒既時間線。", "咁即係話，世界全面人工晶片數位化嘅時間, 可能大約係二零二七年六月左右。", "呢啲係按時間同事件順推嘅估值, 有興趣可以去查查、對照同研究一下。", "當中最大嘅參考, 有指二零二四年四月二十二日嘅逾越節獻祭被停止, 係因為二零二三年十月七日嘅哈馬斯攻以色列有關 — 令到以色列政府勒令暫停了當年的逾越節獻祭，到了二零二五年才繼續。", "七年前嘅第一次瘟疫, 快到三年半嘅時候，那年常獻的祭祀被止息了。真係發生了，但又真係會漠不關心，無乜反應。", "明唔明代表了甚麼？", "那獻祭止息了，第一千二百六十日的一載後，便是以伊戰爭。", "而二零二七年的五月十五日，便是一千二百六十日後的三載翌日了。", "而二零二七年嘅收割節，日期剛好同二零二四年既一樣。", "即係話，一載後，係發生左戰爭", "而二載後嘅同一日，都係七七節，又是收割節。", "神用七日重造天地，對照耶和華嘅七個節期，而七七節被分成兩半，一七之半，七七節，收割莊稼，但並未收藏。", "直到另一個七七節，開始將莊稼逐漸放入倉庫，直到收藏節。", "耶和華的七個節期，就是（逾越節、無酵節、初熟節、兼具收割小麥的七七節、吹角節、贖罪日，以及兼具收藏秋收的住棚節，即係收藏節）。", "在春季與秋季展開，預表了彌賽亞，耶穌基督從受死、復活、聖靈降臨，直到基督再來的救贖計畫過程。", "回顧喺第一次瘟疫，在「受管制嘅藥物」之下, 每個人做咗第一次決定。", "在第二次新瘟疫來到時，你又會點揀？", "「受管制嘅藥物」呢個講法。查過原文嘅意思, 竟然係同「邪術」一樣。", "呢個原文字典既解釋, the administrating of drugs, 但唔係官方定義。", "不過，果次點解真係咁多人都咁一致?", "各類專家嘅吩咐, 各類科學同歷史嘅舉證, 全部都話安全。", "但「全部都話」無事, 唔等於係「已經查清楚」既情況，大家都知道，果時的臨床，其實仍然侒係不足夠。", "迷惑，就好似係可以將邪術，包裝成為救人救世嘅藥物。", "然後仲要苦苦相勸, 用心良苦, 加好多學術研究、證據、同專家嘅看法，甚至全球一致，用引導，用大方向，令人明明是自己去作判斷, 但所有判斷嘅答案，都被控制得恰到好處，順利令人們和基督徒都接受咗呢個懷疑有問題的藥物。", "想講嘅事係: 迷惑唔一定喺突然出現，", "迷惑亦可以喺世界跟咗好多年嗰套講法入面。", "而迷惑嘅來源, 一直係嗰條蛇 — 牠唔係用刀劍, 而係用把口, 用似是而非嘅道理, 對夏娃嘅時候係咁, 對主耶穌基督嘅時候, 都係咁, 對基督徒, 對你, 點解唔會係用把口去哄你入局呢?", "仲有一個位, 可能值得你留意下。", "如果睇聖經, 會留意到從　神而嚟嘅兩個見證人, 佢哋嘅次序係由傳道去到作見證嘅時候, 時間線就係喺第五號到第六號嗰個階段。", "即係話, 如果有人一定要見到兩個見證人先至相信自己已經喺七年大災難裏面, 咁果個人見到嗰兩個見證人嘅時候, 佢自己可能已經無法再得救, 因為已經接受咗獸嘅印、獸嘅名同獸嘅數目。", "呢個就係需要保持警醒嘅不同之處: 每個人心中都有自己嘅準則, 而古蛇嘅迷惑, 就係要令到人以為等到自己要見嘅準則，便可以得到想要嘅野。", "要見到，先至相信已經喺大災難裏面 — 但嗰個時候, 又正正係無法回頭嘅時候。", "無論係第三聖殿，敵基督站在裏面說誇大的話，或是兩個見證人。", "如果明知許多人都會咁諗，仇敵會點樣佈呢個局去迷惑人，", "令到許多人在城門外，到最後的最後，才知道自己無法進城呢?", "世界總是有許多大路，而保羅講嘅「不要效法這個世界, 只要心意更新而變化」,你諗吓, 呢句係向未信嘅外邦人講, 定係向已經信緊嘅以色列人講?", "如果你一路聽落嚟, 可能會問: 咁而家即係點丫? 全教會都有問題咩? 定係我其實只係遇見了異端? 想點啫? 諸如此類。", "你諗一諗, 舊約同新約嘅時候，其實已經講左比我地聽，果時嘅風俗同文化，就係要令人否定彌賽亞, 又逼迫基督徒既情況。", "基督在地上的時候係咁，保羅在外邦和以色列民的時候，都係咁。唔係咩？", "到左而家, 同樣係用似是而非嘅道理, 用格式化既模式, 令人認同公認嘅理論，就可以令人一直沉睡下去,但直到事情突然顯明果陣, 可能已經後悔莫及.", "舊約，以色列民果陣時，對聖經嘅理解，根本就唔係 神既意思。", "鏡像關係之下，到左新約，而家教會既觀點，點解好似可以好肯定，就係 神既意思呢？由邊個去好肯定？", "由人既知識同經驗，堆砌而成既學術系統？", "咁咪即係應驗左，古人的遺傳？同時亦應驗左，【馬可第7章7節】他們將人的吩咐當作道理教導人，所以拜我也是枉然。", "如果而家既學術，真係同 神本來既意思唔同，咁由邊個去負責呢？咪就係作選擇果個人，即係你自己。", "即係話，如果跟大圍方向，但最後錯左，就會自己去承擔那後果，係咪好唔抵？", "當時的文化和風俗。未必就是聖經所說的。", "基督喺地上嘅時候，保羅喺外邦同以色列民嘅時候，其實都係咁嘅情況。", "基督徒，本來就係要在世界裏面，分別為聖，你諗下，其實包唔包括，格式化左嘅信仰模式呢?", "真的要想想，因為按時間線，差不多到了啟示錄第八章第十三節, 那三聲「禍哉」。一隻鷹飛喺空中, 講咗三次「禍哉」「禍哉」「禍哉」。", "唔係三種災難, 係一條時間線上面嘅三個節點。就係第五, 第六, 和第七號。", "而第五號仲有四條線, 最早嗰條推算喺二零二七年二月十六日。", "你可能會諗一些矛盾，未見敵基督，青草未被燒，那些所列的災難，都沒有見到，第三聖殿又未興建，我邊有可能信係大災難。", "明明教會講災前被提，明明教會都未承認已經係末世，亦都無乜提及呢啲野，一直都係missionary，事奉丫，聖徒生活丫咁。", "咪就係咁囉，由發生到而家，就快過左七年，好多人都無視同否定足七年。", "如果灰馬果陣，係全球突然死咗四分之一人口, 新聞仲要公佈埋出嚟，全世界可能就會知道，係喇，係喺啟示錄嘅七年大災難裏面喇，大鑊喇！", "咁樣嘅話，大家可能反而會放鬆啲 — 因為知道已經「到咗喇」。", "但呢個情況，咪正正同主耶穌提醒我地，要「保持警醒、看守衣服」嘅吩咐相反囉？", "即係話, 越黎越明顯嘅末世情況, 世界就會黎越用力去令人唔會再留意呢件事。", "基督嘅新婦, 點解要保持警醒, 看守衣服, 仲要持續喺世界嘅常規裏面, 要不效法世界, 又要心意更新而變化呢？", "因為喺信仰嘅大路上面, 必定已經存在迷惑同絆倒人嘅事，如果唔係保持小心謹慎，轉到去窄路裏面。", "就會持續地效法世界，跟隨世界嘅套牢，習慣聽從各類人嘅吩咐，最後係會令到一生喺信仰裏面嘅努力，都成了枉然。", "反而趁現在還平安的日子，逐漸習慣每天向　神活着, 而唔係向人嘅吩咐同古人嘅遺傳活著, 點解要令到自己活係一個好似格式化左嘅模式裏面呢？", "到左真係末世嘅時候，喺咪教會果陣講乜，我就會做乜呢？", "咁即係我根本唔信啟示錄裏面，講左咁多教會會存在嘅問題，我只係想信我自己想要信果部份？", "其實好平常，亦已經好普遍。", "但係基督徒丫，願我們知道，我們是屬　神的，而全世界都伏在那邪惡者的權勢之下。", "即係話，必定一早已經有迷惑我地嘅事存在喺我地而家嘅信仰體系裏面。", "你自己平心而論，教會到底有幾多問題，係一直存在，而從來都無被正視過呢？", "希望記得，我們在地上只是寄居的，所以說「保持警醒」, 唔係叫我地驚啲乜, 亦唔係叫人去講教會的乜乜乜。", "而係希望你喺「大家都咁做」嘅時候, 停一停, 自己睇清楚先。", "沉睡, 唔係唔信。沉睡, 係信咗, 但冇醒過。點解無醒過呢？", "因為個制度本身嘅設定, 就係想人繼續瞓落去, 就好似以色列民喺法利賽人嘅文化裏面睡着咗一樣，作為外邦人嘅我地, 自然也會有同類嘅情況存在。", "明明好明顯, 應該喺心有靈犀一點通, 但就係會好多人都點唔通, 呢個就制度和格式化既影響, 令到以色列民看見彌賽亞了, 又看見許多神蹟，但還是不願去相信.", "而睡醒嘅人, 唔係代表識得更多, 唔係特別醒目。睡醒嘅人, 只係唔肯再瞓落去,\n你看看阿摩司書, 能夠感受到他當時的心情嗎?", "你認真諗下，點解啟示錄的眾教會情況, 咁似而家嘅呢?", "今生與永恆, \n警醒與昏沉,", "知識終必歸于無有, \n說方言之能終必止息.", "我們應該，帶啲咩去迎接基督再來呢?", "而你, 其實今日就可以自己喚醒喚自己。", "你可以做一件事。", "記低一個你一直冇問過自己嘅問題。", "例如: 我信呢樣嘢, 係因為我查過, 定係因為大家都信?", "當初，我就係從啟示錄裏面，想知道邪術呢個詞，到底喺指乜而開始。", "揀一個你聽過嘅講法, 去核對一次。一個網址、一篇報道、一本期刊都得。", "災前被提係一個好好既例子, 基督說, 常與我們同在直到世界的末了, 而又指明, 世界的末了是收割的時候, 收割的人是天使, 就是末次號筒吹響前, 快鎌刀的時候. 那到底分批被提, 災前中後被提? 沒有被提? 還是如聖經寫到明, 係末次號筒吹響, 基督再來的時候? 黑字白紙寫到明的時間, 次序, 說明, 但歷代以來, 都可以將意思如扭毛巾一樣, 扭完再扭, 扭到完全沒有水份, 完全沒有養份滋養人心的時候, 不是嗎?", "甚麼基督徒，會在最後才知道自己無法進蒙愛城裏?", "睇完如果佢講嘅同你原本諗嘅唔一樣, 恭喜你, 你今日終於行前咗一步。", "你唔需要接受上面講嘅任何一個結論。目前嘅結論亦可能錯 — 零號病人嘅日期, 醫學界到今日仍然有爭議。", "但有一件事好肯定:\n你今日讀咗呢幾分鐘, 你已經做咗一件好多教會好少叫信徒做嘅事 ——\n你自己竟然願意去查原文一次。", "每一個盼望得救, 得着永生的基督徒, 都係需要自己去負責和看守自己的救恩, 為何一定要經過一個媒介, 而那個媒介卻不是基督本身呢?", "希望我地都可以蒙　神嘅恩典同憐憫，常常與我地同在，一直到世界的末了，阿們。", "願主耶穌基督祝福你，\n保守你的心懷意念，\n使你可常在他的憐憫裏，\n常與你同在，直到世界的末了，\n帶領你，直到基督再來的那天來到，\n阿們。"], "globalCheck": [{"t": "起點（零號病人可追溯日）", "v": "2019-12-01", "src": "稿段 16", "ok": true, "note": "稿原文（Ollie 改稿指示）：「這些患者的最早症狀可以追溯到二零一九年十二月一日。」"}, {"t": "1260 日 ＝ 三年半 → 七期開始", "v": "2019-12-01 + 1260 日 = 2023-04-12", "src": "稿段 22／24", "ok": false, "note": "稿段 22「快到三年半嘅時候」、稿段 24「第一千二百六十日的一載後」。以 2019-12-01 起算，1260 日後係 2023-04-12；但時間軸寫 2024-05-14 → 相差 398 日。若起點係 2020-12-01，1260 日後正正就係 2024-05-14 ✅"}, {"t": "一載後 ＝ 以伊戰爭", "v": "1260 日 + 1 年", "src": "稿段 24", "ok": null, "note": "時間軸寫 2025-06-13；以 2024-05-14 + 1 年 = 2025-05-14 → 相差 30 日。（起算日未修正前，呢個推算本身就唔唯一）"}, {"t": "三載 ＝ 2027-05-15", "v": "2019-12-01 + 1260 日 + 3 年 = 2026-04-16", "src": "稿段 25", "ok": false, "note": "稿段 25「而二零二七年的五月十五日，便是一千二百六十日後的三載翌日了」。以 2019-12-01 起算應為 2026-04-16 → 相差 364 日（正好一年）。若起點係 2020-12-01：2020-12-01 + 1260 = 2024-05-14，+3 年 = 2027-05-14 ✅ 完全吻合"}, {"t": "第五號筒（四條線）最早推算日", "v": "2027-02-16", "src": "稿段 67／69", "ok": true, "note": "稿段 69「而第五號仲有四條線，最早嗰條推算喺二零二七年二月十六日」；稿內 03-18／04-09／05-02 三條線亦同。時間軸寫 2026-11-10 → 相差 98 日"}, {"t": "二載後（收割節翌日）", "v": "2027-05-15（稿）", "src": "稿段 25", "ok": false, "note": "時間軸寫 2027-06-13；稿寫 2027-05-15 → 相差 29 日"}]};
+
+/* 背景矩陣雨 */
+(function(){
+  var c=document.getElementById('fx'), x=c.getContext('2d');
+  var cols=[], fs=14, W=0, H=0;
+  function size(){ W=c.width=innerWidth; H=c.height=innerHeight;
+    var n=Math.floor(W/fs); cols=[]; for(var i=0;i<n;i++) cols.push(Math.random()*H); }
+  function draw(){
+    x.fillStyle='rgba(8,9,10,.08)'; x.fillRect(0,0,W,H);
+    x.font=fs+'px monospace';
+    for(var i=0;i<cols.length;i++){
+      x.fillStyle='rgba(0,243,255,.5)';
+      x.fillText(String.fromCharCode(0x30A0+Math.floor(Math.random()*96)), i*fs, cols[i]);
+      cols[i]+=fs; if(cols[i]>H&&Math.random()>.975) cols[i]=0;
+    }
+    requestAnimationFrame(draw);
+  }
+  size(); draw(); addEventListener('resize',size);
+})();
+
+function esc(s){return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;')
+  .replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+
+var tl=document.getElementById('tl');
+D.items.forEach(function(it){
+  var el=document.createElement('div');
+  el.className='tl-item y'+(it.year||'').slice(0,4);
+  var v=it.verdict;
+  var vcls=(v==='一致'?'v-ok':(v==='有出入'?'v-warn':'v-no'));  var h='<details class="mid"><summary>'
+    +'<span class="yd">'+esc(it.dateShort)+'</span>'
+    +'<span class="yt">'+esc(it.title)+'</span>'
+    +'<span class="verdict '+vcls+'">'+esc(v)+'</span>'
+    +'<span class="ys">'+esc(it.desc)+'</span>'
+    +'</summary><div class="mid-body">';
+  h+='<div class="chk '+(v==='一致'?'':v==='有出入'?'warn':'no')+'">'
+    +'<b>日期核對：'+esc(v)+'</b><br>'+esc(it.checkNote)+'</div>';
+  if(it.subs.length){
+    h+='<div class="sub-t">子框 // 原文逐段（'+it.subs.length+' 段）</div>';
+    it.subs.forEach(function(s){
+      h+='<details class="sub"><summary><span class="pi">段'+s.pidx+'</span>'
+        +'<span class="st">'+esc(s.brief)+'</span></summary>'
+        +'<div class="sub-body"><p>'+esc(s.text)+'</p></div></details>';
+    });
+  }else{
+    h+='<div class="chk no"><b>「天使三禍」稿未涵蓋此節點</b><br>'
+      +'時間軸保留呢個節點（屬研究版範圍），但粵語原版稿冇對應段落。</div>';
+  }
+  h+='</div></details>';
+  el.innerHTML=h;
+  tl.appendChild(el);
+});
+
+document.getElementById('btnAll').addEventListener('click',function(){
+  var ds=document.querySelectorAll('details.mid');
+  for(var i=0;i<ds.length;i++) ds[i].open=true;
+});
+
+/* 核對結論區 */
+(function(){
+  var h='';
+  (D.globalCheck||[]).forEach(function(g){
+    var cls=(g.ok===true?'v-ok':(g.ok===false?'v-warn':'v-no'));
+    var mark=(g.ok===true?'✅':(g.ok===false?'⚠️':'·'));
+    h+='<div class="chk '+(g.ok===false?'warn':(g.ok===true?'':'no'))+'">'
+      +'<b>'+mark+' '+esc(g.t)+' → '+esc(g.v)+'</b>'
+      +'<span class="verdict '+cls+'" style="margin:4px 0 0;display:inline-block">'+esc(g.src)+'</span>'
+      +'<br>'+esc(g.note)+'</div>';
+  });
+  document.getElementById('gclist').innerHTML=h;
+})();
+document.getElementById('btnNone').addEventListener('click',function(){
+  var ds=document.querySelectorAll('details');
+  for(var i=0;i<ds.length;i++) ds[i].open=false;
+});
+</script>
+</body>
+</html>
