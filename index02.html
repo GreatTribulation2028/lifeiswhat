@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-HK">
+<html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>猝死記錄 — 只記錄明確猝死個案</title>
-<meta name="description" content="在你讀這句話的時間裡，有人突然停止了呼吸——沒有預警，沒有道別。">
+<meta name="description" content="猝死記錄：只記錄明確猝死個案——在你讀這句話的時間裡，有人突然停止了呼吸，沒有預警，沒有道別。本頁逐日列出經核實嘅心源性猝死新聞，連結 19 類分類與事件明細。">
 <meta property="og:type" content="website">
 <meta property="og:title" content="猝死記錄 — 只記錄明確猝死個案">
 <meta property="og:description" content="每一個數字，背後都是一個突然離開的人。">
@@ -151,7 +151,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .cta-card{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:24px 20px;display:flex;align-items:center;gap:16px;transition:all .4s;cursor:pointer;text-decoration:none}
 .cta-card:hover{transform:translateY(-3px);border-color:var(--sudden);box-shadow:0 12px 40px rgba(255,107,53,.08)}
 .cta-card .cta-icon{font-size:2rem;flex-shrink:0}
-.cta-card .cta-body{flex:1}
+.cta-card .cta-body{flex:1;min-width:0}
 .cta-card .cta-title{font-family:var(--f-zh);font-size:1rem;color:var(--text-bright);font-weight:700}
 .cta-card .cta-desc{font-family:var(--f-zh);font-size:.85rem;color:var(--text-dim);margin-top:4px}
 .cta-card .cta-arrow{font-family:var(--f-mono);font-size:14px;color:var(--sudden);flex-shrink:0}
@@ -185,9 +185,31 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .subkw-fill{height:100%;border-radius:4px;transition:width 1s ease;background:linear-gradient(90deg,var(--sudden),rgba(212,169,83,.7))}
 .subkw-count{width:44px;text-align:right;color:var(--text-bright);font-family:var(--f-head);font-size:13px;flex-shrink:0}
 @media(max-width:768px){body{padding-bottom:30px}.section{padding:70px 20px}.cta-grid{grid-template-columns:1fr}}
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar span.off{color:#3a4a5c;cursor:default;margin:0 3px;white-space:nowrap}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+
+<style>
+/* v7：TG 入口按鈕樣式（統一 .home-btn） */
+.home-btn{font-family:var(--mono,Consolas,monospace);font-size:13px;color:#00f3ff;
+  border:1px solid #00f3ff;padding:6px 12px;border-radius:4px;white-space:nowrap;
+  display:inline-block;text-decoration:none}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
 </style>
 </head>
 <body>
+<div class="langbar"><a href="index02.html" class="on">繁體</a><i>|</i><span class="off" title="此頁暫時只有繁體版">简体</span><i>|</i><span class="off" title="此頁暫時只有繁體版">English</span></div>
+<h1 style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0">猝死記錄 — 只記錄明確猝死個案</h1>
 <canvas id="bg-canvas"></canvas>
 <div id="scroll-progress"></div>
 
@@ -198,6 +220,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <a href="index.html">全部新聞</a>
 <a href="index0203.html">記錄儀</a>
 <a href="timeline04.html">時代觀測</a>
+<a class="home-btn" href="tg.html" style="color:#3fb6e8;border-color:rgba(63,182,232,.45)">📡 TG 死亡記錄</a>
 </div>
 </nav>
 

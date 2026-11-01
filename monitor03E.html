@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-HK">
+<html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>生死記錄儀 V9.0 — VITAL LIFE MONITOR</title>
+<meta name="description" content="生死記錄儀 VITAL LIFE MONITOR：自你進入起計算全球離世人數，並連接 19 類末世新聞分類，可查看走勢、事件明細與日期分佈。">
 <meta property="og:title" content="生死記錄儀 — Death Monitor">
 <meta property="og:description" content="記錄七年大災難中的生死數據">
 <meta property="og:image" content="og-still-alive.png">
@@ -329,6 +330,26 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 .langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
 @media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
 
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar span.off{color:#3a4a5c;cursor:default;margin:0 3px;white-space:nowrap}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+
+<style>
+/* v7：TG 入口按鈕樣式（統一 .home-btn） */
+.home-btn{font-family:var(--mono,Consolas,monospace);font-size:13px;color:#00f3ff;
+  border:1px solid #00f3ff;padding:6px 12px;border-radius:4px;white-space:nowrap;
+  display:inline-block;text-decoration:none}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
 </style>
 </head>
 <body>
@@ -349,13 +370,14 @@ header{flex-direction:column;text-align:center;gap:15px;margin-top:50px}
 </div>
 <div class="counter-since">（每秒約 2.0 人・WHO 全球死亡率估算）</div>
 <a href="index.html" class="back-to-portal">← 返回首頁</a>
+<a class="home-btn" href="tg.html" style="color:#3fb6e8;border-color:rgba(63,182,232,.45)">📡 TG 死亡記錄</a>
 <div class="catnav"><span class="catnav-label">十一災情瞭望</span><div class="catnav-btns"><a href="category.html?cat=econ">經濟</a><a href="category.html?cat=disaster">天災</a><a href="category.html?cat=war">戰爭</a><a href="category.html?cat=plague">瘟疫</a><a href="category.html?cat=social">社會</a><a href="category.html?cat=food">糧食</a><a href="category.html?cat=tech">科技</a><a href="category.html?cat=religion">宗教</a><a href="category.html?cat=politics">政治</a><a href="category.html?cat=celestial">天象</a><a href="category.html?cat=tribulation">大災難</a><a href="category.html?cat=departure">離世</a><a href="category.html?cat=industry">工業</a><a href="category.html?cat=traffic">交通</a><a href="category.html?cat=fire">火警</a><a href="category.html?cat=tragedy">悲劇</a><a href="category.html?cat=sidefx">副作用</a></div></div>
 </div>
 
 <!-- Header -->
 <header>
 <div>
-<div class="brand">VITAL LIFE MONITOR</div>
+<h1 class="brand" style="margin:0;font-weight:inherit">VITAL LIFE MONITOR</h1>
 <span class="brand-subtitle">生死記錄儀 V9.0 | 2019 COVID → 2028 END-TIME?</span>
 </div>
 <div id="ecg-container">

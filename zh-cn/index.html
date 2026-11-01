@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-HK">
+<html lang="zh-Hans">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>STILL ALIVE? 還活著嗎?悲傷孤獨的世界裡，至少有人仍願意明白您，所以一直記錄著...</title>
-<meta name="description" content="在你讀這句話的時間裡，有人永遠停止了呼吸。你還活著。">
+<meta name="description" content="STILL ALIVE? 还活着吗？｜生死记录仪：在这句话的时间里，有人永远停止了呼吸。你还活着——本站以 19 类末世新闻分类，逐日记录全球真实死亡、灾情与战事事件，并设离世与自杀类新闻专区。">
 <meta property="og:type" content="website">
 <meta property="og:title" content="STILL ALIVE? 還活著嗎?悲傷孤獨的世界裡，至少有人仍願意明白您，所以一直記錄著...">
 <meta property="og:description" content="世界在變，人心依舊？">
@@ -121,7 +121,7 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .cta-card{background:var(--card);border:1px solid var(--card-border);border-radius:16px;padding:24px 20px;display:flex;align-items:center;gap:16px;transition:all .4s;cursor:pointer;text-decoration:none}
 .cta-card:hover{transform:translateY(-3px);border-color:var(--accent);box-shadow:0 12px 40px rgba(255,107,53,.08)}
 .cta-card .cta-icon{font-size:2rem;flex-shrink:0}
-.cta-card .cta-body{flex:1}
+.cta-card .cta-body{flex:1;min-width:0}
 .cta-card .cta-title{font-family:var(--f-zh);font-size:1rem;color:var(--text-bright);font-weight:700}
 .cta-card .cta-desc{font-family:var(--f-zh);font-size:.85rem;color:var(--text-dim);margin-top:4px}
 .cta-card .cta-arrow{font-family:var(--f-mono);font-size:14px;color:var(--accent);flex-shrink:0}
@@ -327,11 +327,32 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 .langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
 @media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
 
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar span.off{color:#3a4a5c;cursor:default;margin:0 3px;white-space:nowrap}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+
+<style>
+/* v7：TG 入口按鈕樣式（統一 .home-btn） */
+.home-btn{font-family:var(--mono,Consolas,monospace);font-size:13px;color:#00f3ff;
+  border:1px solid #00f3ff;padding:6px 12px;border-radius:4px;white-space:nowrap;
+  display:inline-block;text-decoration:none}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
 </style>
 </head>
 <body>
 <script src="../t2s.js"></script>
 <div class="langbar"><a href="../index.html">繁體</a><i>|</i><a href="index.html" class="on">简体</a><i>|</i><a href="../en/index.html">English</a></div>
+<h1 style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0">STILL ALIVE? 還活著嗎？｜生死記錄儀 — 19 類末世新聞分類記錄</h1>
 <canvas id="bg-canvas"></canvas>
 <div id="scroll-progress"></div>
 
@@ -339,29 +360,30 @@ a:hover{color:#fff;text-shadow:0 0 12px var(--glow)}
 <nav class="catnav">
   <div class="catnav-head">
     <span class="catnav-label">災情報告分類</span>
-    <span class="catnav-meta">19 類 · 22,793 條 · rules v3.20-SD+ollie-1412+r2+r3+r4</span>
-    <a class="catnav-ai" href="ai-self-talk.html">AI 自我與交流（語音講解）</a>
+    <span class="catnav-meta">19 類 · 19,624 條（中暑昏迷 4 條含於猝死） · rules v3.20-SD+ollie-1412+r2+r3+r4</span>
+    <a class="catnav-ai" href="../ai-self-talk.html">AI 自我與交流（語音講解）</a>
+<a class="home-btn" href="tg.html" style="color:#3fb6e8;border-color:rgba(63,182,232,.45)">📡 TG 死亡記錄</a>
   </div>
   <div class="catnav-grid">
-    <a class="cc" href="category.html?cat=departure" style="--c:#ff8fa3"><span class="cc-i">🕯️</span><span class="cc-n">離世與自殺</span><span class="cc-c">6,377</span></a>
-    <a class="cc" href="category.html?cat=econ" style="--c:#ffb020"><span class="cc-i">💰</span><span class="cc-n">經濟</span><span class="cc-c">2,252</span></a>
-    <a class="cc" href="category.html?cat=sudden" style="--c:#ff4d6d"><span class="cc-i">💀</span><span class="cc-n">猝死</span><span class="cc-c">2,012</span></a>
-    <a class="cc" href="category.html?cat=traffic" style="--c:#ffb703"><span class="cc-i">🚗</span><span class="cc-n">交通</span><span class="cc-c">2,543</span></a>
-    <a class="cc" href="category.html?cat=fire" style="--c:#e63946"><span class="cc-i">🔥</span><span class="cc-n">火警</span><span class="cc-c">1,848</span></a>
-    <a class="cc" href="category.html?cat=social" style="--c:#c77dff"><span class="cc-i">🚨</span><span class="cc-n">治安與社會</span><span class="cc-c">1,704</span></a>
-    <a class="cc" href="category.html?cat=plague" style="--c:#7CFC00"><span class="cc-i">🏥</span><span class="cc-n">醫藥與疫情</span><span class="cc-c">1,335</span></a>
-    <a class="cc" href="category.html?cat=war" style="--c:#d00000"><span class="cc-i">⚔️</span><span class="cc-n">戰爭</span><span class="cc-c">875</span></a>
-    <a class="cc" href="category.html?cat=tech" style="--c:#00f3ff"><span class="cc-i">🤖</span><span class="cc-n">AI安全與科技</span><span class="cc-c">801</span></a>
-    <a class="cc" href="category.html?cat=industry" style="--c:#fb8500"><span class="cc-i">⚡</span><span class="cc-n">工業意外</span><span class="cc-c">787</span></a>
-    <a class="cc" href="category.html?cat=disaster" style="--c:#00d26a"><span class="cc-i">🌋</span><span class="cc-n">天災</span><span class="cc-c">757</span></a>
-    <a class="cc" href="category.html?cat=tragedy" style="--c:#4dc3ff"><span class="cc-i">🌊</span><span class="cc-n">悲劇與遇溺</span><span class="cc-c">508</span></a>
-    <a class="cc" href="category.html?cat=food" style="--c:#bc6c25"><span class="cc-i">🌾</span><span class="cc-n">糧食</span><span class="cc-c">363</span></a>
-    <a class="cc" href="category.html?cat=politics" style="--c:#adb5bd"><span class="cc-i">🏛️</span><span class="cc-n">政治</span><span class="cc-c">263</span></a>
-    <a class="cc" href="category.html?cat=religion" style="--c:#ffd166"><span class="cc-i">⛪</span><span class="cc-n">宗教</span><span class="cc-c">213</span></a>
-    <a class="cc" href="category.html?cat=celestial" style="--c:#8ecae6"><span class="cc-i">🌌</span><span class="cc-n">天象</span><span class="cc-c">64</span></a>
-    <a class="cc" href="category.html?cat=sidefx" style="--c:#9d4edd"><span class="cc-i">💊</span><span class="cc-n">藥物副作用</span><span class="cc-c">58</span></a>
-    <a class="cc" href="category.html?cat=tribulation" style="--c:#e94560"><span class="cc-i">🔥</span><span class="cc-n">七年大災難</span><span class="cc-c">33</span></a>
-    <a class="cc" href="category.html?cat=heatstroke" style="--c:#f77f00"><span class="cc-i">😵</span><span class="cc-n">中暑昏迷</span><span class="cc-c">7</span></a>
+    <a class="cc" href="category.html?cat=departure" style="--c:#ff8fa3"><span class="cc-i">🕯️</span><span class="cc-n">離世與自殺</span><span class="cc-c">5,947</span></a>
+    <a class="cc" href="category.html?cat=econ" style="--c:#ffb020"><span class="cc-i">💰</span><span class="cc-n">經濟</span><span class="cc-c">1,636</span></a>
+    <a class="cc" href="category.html?cat=sudden" style="--c:#ff4d6d"><span class="cc-i">💀</span><span class="cc-n">猝死</span><span class="cc-c">1,512</span></a>
+    <a class="cc" href="category.html?cat=traffic" style="--c:#ffb703"><span class="cc-i">🚗</span><span class="cc-n">交通</span><span class="cc-c">2,388</span></a>
+    <a class="cc" href="category.html?cat=fire" style="--c:#e63946"><span class="cc-i">🔥</span><span class="cc-n">火警</span><span class="cc-c">1,856</span></a>
+    <a class="cc" href="category.html?cat=social" style="--c:#c77dff"><span class="cc-i">🚨</span><span class="cc-n">治安與社會</span><span class="cc-c">1,456</span></a>
+    <a class="cc" href="category.html?cat=plague" style="--c:#7CFC00"><span class="cc-i">🏥</span><span class="cc-n">醫藥與疫情</span><span class="cc-c">996</span></a>
+    <a class="cc" href="category.html?cat=war" style="--c:#d00000"><span class="cc-i">⚔️</span><span class="cc-n">戰爭</span><span class="cc-c">792</span></a>
+    <a class="cc" href="category.html?cat=tech" style="--c:#00f3ff"><span class="cc-i">🤖</span><span class="cc-n">AI安全與科技</span><span class="cc-c">578</span></a>
+    <a class="cc" href="category.html?cat=industry" style="--c:#fb8500"><span class="cc-i">⚡</span><span class="cc-n">工業意外</span><span class="cc-c">707</span></a>
+    <a class="cc" href="category.html?cat=disaster" style="--c:#00d26a"><span class="cc-i">🌋</span><span class="cc-n">天災</span><span class="cc-c">631</span></a>
+    <a class="cc" href="category.html?cat=tragedy" style="--c:#4dc3ff"><span class="cc-i">🌊</span><span class="cc-n">悲劇與遇溺</span><span class="cc-c">429</span></a>
+    <a class="cc" href="category.html?cat=food" style="--c:#bc6c25"><span class="cc-i">🌾</span><span class="cc-n">糧食</span><span class="cc-c">161</span></a>
+    <a class="cc" href="category.html?cat=politics" style="--c:#adb5bd"><span class="cc-i">🏛️</span><span class="cc-n">政治</span><span class="cc-c">258</span></a>
+    <a class="cc" href="category.html?cat=religion" style="--c:#ffd166"><span class="cc-i">⛪</span><span class="cc-n">宗教</span><span class="cc-c">147</span></a>
+    <a class="cc" href="category.html?cat=celestial" style="--c:#8ecae6"><span class="cc-i">🌌</span><span class="cc-n">天象</span><span class="cc-c">71</span></a>
+    <a class="cc" href="category.html?cat=sidefx" style="--c:#9d4edd"><span class="cc-i">💊</span><span class="cc-n">藥物副作用</span><span class="cc-c">28</span></a>
+    <a class="cc" href="category.html?cat=tribulation" style="--c:#e94560"><span class="cc-i">🔥</span><span class="cc-n">七年大災難</span><span class="cc-c">27</span></a>
+    <a class="cc" href="category.html?cat=heatstroke" style="--c:#f77f00"><span class="cc-i">😵</span><span class="cc-n">中暑昏迷</span><span class="cc-c">4</span></a>
   </div>
 </nav>
 <nav class="top-bar">

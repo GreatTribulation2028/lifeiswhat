@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FAQ | STILL ALIVE? Recorder</title>
+<meta name="description" content="FAQ: what this site records, the 19 categories, how death statistics count, and how to report errors.">
+<style>
+:root{--bg:#070b10;--panel:#0c1218;--line:#1c2a38;--txt:#cfd8e3;--dim:#5c7086;
+  --acc:#00f3ff;--mono:"Consolas","Courier New",monospace;
+  --sans:"Microsoft JhengHei","PingFang TC","Noto Sans TC",sans-serif}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--txt);font-family:var(--sans);min-height:100vh;line-height:1.75}
+a{color:var(--acc);text-decoration:none}
+a:hover{text-decoration:underline}
+.topbar{position:sticky;top:0;z-index:100;background:rgba(7,11,16,.96);
+  border-bottom:1px solid var(--line);backdrop-filter:blur(6px)}
+.topbar-row{display:flex;align-items:center;gap:10px;padding:8px 12px;flex-wrap:wrap}
+.home-btn{font-family:var(--mono);font-size:13px;color:var(--acc);
+  border:1px solid var(--acc);padding:6px 12px;border-radius:4px;white-space:nowrap}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
+.cat-title{font-family:var(--mono);font-size:16px;letter-spacing:2px;color:#fff;white-space:nowrap}
+.wrap{max-width:980px;margin:0 auto;padding:16px}
+.hero{background:var(--panel);border:1px solid var(--line);border-radius:8px;
+  padding:20px;text-align:center;margin-bottom:16px}
+.hero .big{font-family:var(--mono);font-size:clamp(30px,6vw,48px);color:#fff;letter-spacing:3px}
+.hero .sub{font-family:var(--mono);font-size:12px;color:var(--dim);letter-spacing:2px;margin-top:6px}
+.hero .range{color:var(--txt);font-size:14px;margin-top:10px;opacity:.9}
+.faq{background:var(--panel);border:1px solid var(--line);border-radius:8px;margin-bottom:10px;overflow:hidden}
+.faq summary{cursor:pointer;padding:13px 16px;font-weight:bold;color:#fff;font-size:15.5px;
+  border-left:3px solid var(--acc);list-style:none}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:" ▾";color:var(--dim);float:right}
+.faq[open] summary::after{content:" ▴"}
+.faq-body{padding:2px 16px 15px 19px;color:var(--txt);font-size:14.5px}
+.faq-body p+p{margin-top:8px}
+.foot{color:var(--dim);font-size:12px;text-align:center;padding:18px 10px 28px;font-family:var(--mono)}
+@media(max-width:600px){.wrap{padding:10px}.faq summary{font-size:14px}.faq-body{font-size:13.5px}}
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar span.off{color:#3a4a5c;cursor:default;margin:0 3px;white-space:nowrap}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+</head>
+<body>
+<div class="langbar"><a href="../faq.html">繁體</a><i>|</i><a href="../zh-cn/faq.html">简体</a><i>|</i><a href="faq.html" class="on">English</a></div>
+<div class="topbar">
+  <div class="topbar-row">
+    <a class="home-btn" href="index.html">&larr; Back to home</a>
+    <a class="home-btn" href="monitor03E.html">&#9889; STILL ALIVE Recorder</a>
+    <a class="home-btn" href="tg.html" style="color:#3fb6e8;border-color:rgba(63,182,232,.45)">&#128225; TG Death Records</a>
+    <a class="home-btn" href="category.html">&#128193; Categories</a>
+    <div class="cat-title">FAQ</div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="hero">
+    <h1 class="big">FAQ</h1>
+    <div class="sub">10 QUESTIONS &middot; STILL ALIVE?</div>
+    <div class="range">What this site records, how it classifies, how it counts, and what never makes it on.</div>
+  </div>
+
+  <details class="faq">
+    <summary>① What does this site record?</summary>
+    <div class="faq-body">The STILL ALIVE? recorder keeps real, sourced death news from around the world — not predictions and not model output, but one verifiable news record at a time. It has two sides: 18 news categories on the category pages (sudden death, departure, traffic, fire, natural disaster, war, medical & epidemic…) and a TG Death Records version built from the original social posts. Every record links back to its source. The site keeps recording until the Trumpet Feast of 2027.</div>
+  </details>
+  <details class="faq">
+    <summary>② How is everything classified?</summary>
+    <div class="faq-body">Two layers. The page layer is 19 clickable categories (18 data files plus Heatstroke, which is filtered out of the sudden-death file). The reading layer is 12 cause-of-death classes: traffic & aviation, homicide & violence, cardiac sudden death, workplace accident, accident (non-workplace), war & military, disaster, disease & medical, suicide, natural death, death statistics, and unknown cause. When several signals appear, a fixed tie-break order applies: suicide → homicide → war → workplace accident → traffic → disaster → cardiac → disease → natural death → accident → unknown. A cause that never appears in the text is never inferred: “sudden death” alone is unknown cause, not cardiac.</div>
+  </details>
+  <details class="faq">
+    <summary>③ Why does one event appear at most twice?</summary>
+    <div class="faq-body">Because one event is usually reported by many outlets. The site caps each event at 2 records (grouped by event id); anything above the cap, and any duplicate URL, is dropped. That keeps the numbers counting events rather than re-posts. The homepage feed shows the latest 1,500 records; the category buckets hold the full history.</div>
+  </details>
+  <details class="faq">
+    <summary>④ What is “death statistics”, and how is it counted?</summary>
+    <div class="faq-body">Three layers: (a) a single identifiable death event is not a statistic — it is filed under its actual cause; (b) death statistics means the subject of the item is a death figure or statistical result with an identifiable source or object (official outbreak counts, VAERS death reports, wartime casualty statistics, death-risk findings in studies) — these do go on the site; (c) framing, conspiracy claims and predictions where the death number is only rhetorical material never go on the site. In practice a mechanical gate (statistical terms, or death + number + cumulative/ranking) shortlists candidates and each one is then read in full. Backtest: 100% recall for the statistics bucket, 91.7% precision for the mechanical gate.</div>
+  </details>
+  <details class="faq">
+    <summary>⑤ Why are epidemic and vaccine deaths treated so carefully?</summary>
+    <div class="faq-body">Because they are the easiest to turn into conspiracy claims — yet a large share of them are official statistics (CDC, VAERS, national health agencies, DSMB, named researchers). The rule splits them clearly: when the subject is a study or an official statistic (“Pfizer documents: 1,223 deaths in three months after launch”) it is death statistics and does go up; when the subject is somebody's or some organisation's claim or call to action (“hospital protocols and vaccines killed a million Americans”) it never goes up.</div>
+  </details>
+  <details class="faq">
+    <summary>⑥ What is the “three-layer” layout?</summary>
+    <div class="faq-body">The timeline page (seven-year tribulation 2019–2028) uses three columns: the left column is the seal timeline with one event per cell matched to real news, while the middle and right columns hold the Bible / end-time reference material and resource links. Under every event sits a collapsible “ACCESS SYSTEM DATA” layer with the date, the source and the observation note. On the category pages, every bucket also has a collapsible statistics table with monthly trends and sub-category breakdowns.</div>
+  </details>
+  <details class="faq">
+    <summary>⑦ Where does the data come from, and how often is it updated?</summary>
+    <div class="faq-body">News runs through a daily pipeline: collect → classify → deduplicate → semantic review → slim → earthquake data → trilingual build → publish to GitHub Pages, live within a minute or two. Category buckets accumulate everything; the homepage feed keeps the latest 1,500 records. Earthquake data comes straight from the USGS live database; the page reads the same data_eq.js, so it also works offline.</div>
+  </details>
+  <details class="faq">
+    <summary>⑧ What does “sudden death” mean here?</summary>
+    <div class="faq-body">Two layers again. On the category pages, “Sudden Death” is a news bucket for items whose headline or body is about an abrupt death. In the reading layer, “cardiac sudden death” requires an explicit signal in the text (cardiac arrest, myocardial infarction, heart attack, cerebral haemorrhage). If the text only says “sudden death” without naming a cause, it is filed as unknown cause. Heatstroke has no file of its own — it is filtered out of the sudden-death file, which is why its count is much smaller.</div>
+  </details>
+  <details class="faq">
+    <summary>⑨ What counts as unverified and never goes up?</summary>
+    <div class="faq-body">None of these go on the site: studies, policy proposals or declassified documents with no specific death event (official death statistics do count); conspiracy claims and predictions; animal deaths; historical cases and memorial posts; passing mentions of death with no event; advertising; metaphors such as “this policy will kill the economy”; and anyone not confirmed dead (in hospital, attempted suicide, revived). A rumoured item needs a name, place or date plus a specific cause; a bare “rumour” is dropped. Framing claims are dropped too — if deleting every death-related word leaves no identifiable statistical subject, there is nothing to record.</div>
+  </details>
+  <details class="faq">
+    <summary>⑩ How do I report a mistake?</summary>
+    <div class="faq-body">Every record keeps its original link, so you can check it against the source directly. If you find an error, please open an issue on the public GitHub repository (GreatTribulation2028/lifeiswhat) or tell the operator directly; each report is reviewed record by record. Every change on this site is backed up before it is made, so mistakes can be traced and corrected.</div>
+  </details>
+
+  <div class="foot">Rule set: Reading Criteria v3.2 (2026-10-27) + three-layer degradation gate (2026-10-26) + work register (2026-10-29) | updated 2026-11-01</div>
+</div>
+</body>
+</html>

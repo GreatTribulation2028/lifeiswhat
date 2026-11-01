@@ -2,7 +2,9 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CBOL Strong's 字典</title>
+<meta name="description" content="CBOL Strong's 希臘文聖經字典離線版：輸入編號或關鍵字即可查閱原文、詞義與逐條釋義，資料全部載入本機，無需伺服器，雙擊即用。">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:"Microsoft JhengHei","PingFang TC",sans-serif;background:#1a1a2e;color:#e0e0e0;padding:20px}
@@ -23,10 +25,32 @@ button:hover{background:#c81e45}
 .full-text{display:none;margin-top:10px;padding:10px;background:#0f3460;border-radius:5px;white-space:pre-wrap;font-size:14px;line-height:1.6;max-height:500px;overflow-y:auto}
 .entry.open .full-text{display:block}
 a{color:#e94560}
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar span.off{color:#3a4a5c;cursor:default;margin:0 3px;white-space:nowrap}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+
+<style>
+/* v7：TG 入口按鈕樣式（統一 .home-btn） */
+.home-btn{font-family:var(--mono,Consolas,monospace);font-size:13px;color:#00f3ff;
+  border:1px solid #00f3ff;padding:6px 12px;border-radius:4px;white-space:nowrap;
+  display:inline-block;text-decoration:none}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
 </style>
 </head>
 <body>
+<div class="langbar"><a href="cbol_viewer.html" class="on">繁體</a><i>|</i><span class="off" title="此頁暫時只有繁體版">简体</span><i>|</i><span class="off" title="此頁暫時只有繁體版">English</span></div>
 <h1>📖 CBOL Strong's 字典</h1>
+<a class="home-btn" href="tg.html" style="color:#3fb6e8;border-color:rgba(63,182,232,.45)">📡 TG 死亡記錄</a>
 <div class="sub">離線版 — 不需伺服器，雙擊即用</div>
 <div class="search-box">
 <input id="q" placeholder="輸入編號 (3708) 或關鍵字 (太陽、σεισμός)" autofocus>

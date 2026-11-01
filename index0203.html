@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-HK">
+<html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>生死之間 | 今生與永恆</title>
+<meta name="description" content="《今生與永恆，警醒與昏沉》：以心電圖節奏走過生死之間的一線，適合用來停下來想清楚「活著」的重量，亦是一頁可讀完的提醒——記錄別人的離世，也是提醒自己仍在呼吸。">
 <meta property="og:title" content="生死之間 — Between Life and Death">
 <meta property="og:description" content="生死，只在一線之差">
 <meta property="og:image" content="og-still-alive.png">
@@ -87,6 +88,26 @@ html, body { width: 100%; height: 100%; overflow: hidden; background: #000; colo
 .langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
 @media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
 
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar span.off{color:#3a4a5c;cursor:default;margin:0 3px;white-space:nowrap}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+
+<style>
+/* v7：TG 入口按鈕樣式（統一 .home-btn） */
+.home-btn{font-family:var(--mono,Consolas,monospace);font-size:13px;color:#00f3ff;
+  border:1px solid #00f3ff;padding:6px 12px;border-radius:4px;white-space:nowrap;
+  display:inline-block;text-decoration:none}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
 </style>
 </head>
 <body>
@@ -94,13 +115,14 @@ html, body { width: 100%; height: 100%; overflow: hidden; background: #000; colo
 <div id="main" onclick="goBack()">
   <canvas id="ecg-bg"></canvas>
   <div class="content">
-    <div class="title">『今生與永恆，警醒與昏沉』</div>
+    <h1 class="title" style="margin:0;font-weight:inherit">『今生與永恆，警醒與昏沉』</h1>
     <div class="subtitle">生死‧只是一線之差</div>
     <div class="divider"></div>
     <div class="main-text" id="main-text"></div>
     <div class="verse" id="verse"></div>
   </div>
   <div class="hint">[ 回 到 生 死 之 間 ]</div>
+<a class="home-btn" href="tg.html" style="color:#3fb6e8;border-color:rgba(63,182,232,.45)">📡 TG 死亡記錄</a>
 </div>
 
 <script>

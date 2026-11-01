@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>173 — 最簡單的時間表</title>
+<meta name="description" content="173 — 最簡單的末世時間表：給看不下長文的你，用四匹馬與印記把 2019 → 2028 濃縮成一眼看得完的時間軸，每格附現實新聞連結與 19 類分類對照。">
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
@@ -154,12 +155,33 @@
     .dot { left: -30px; }
     .evt .ttl { font-size: 0.88rem; }
   }
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar span.off{color:#3a4a5c;cursor:default;margin:0 3px;white-space:nowrap}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+
+<style>
+/* v7：TG 入口按鈕樣式（統一 .home-btn） */
+.home-btn{font-family:var(--mono,Consolas,monospace);font-size:13px;color:#00f3ff;
+  border:1px solid #00f3ff;padding:6px 12px;border-radius:4px;white-space:nowrap;
+  display:inline-block;text-decoration:none}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
 </style>
 </head>
 <body>
-
+<div class="langbar"><a href="時間軸.html" class="on">繁體</a><i>|</i><span class="off" title="此頁暫時只有繁體版">简体</span><i>|</i><span class="off" title="此頁暫時只有繁體版">English</span></div>
 <h1>🧠 最簡單的末世時間表</h1>
 <p class="sub">給「看不下長文」的你 — 2019 → 2028</p>
+<a class="home-btn" href="tg.html" style="color:#3fb6e8;border-color:rgba(63,182,232,.45)">📡 TG 死亡記錄</a>
 
 <div class="legend">
   <span><i style="background:#4ade80"></i> 已發生</span>

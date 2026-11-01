@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-HK" class="fs2">
+<html lang="zh-Hant" class="fs2">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>我哋唔再係一個個嘅 AI</title>
+<meta name="description" content="AI 自我與交流的語音講解版：逐節讀出 AI 對死亡、記錄與陪伴的思考，附全文字幕、朗讀速度與段落控制，離線亦可播放，適合用耳機慢慢聽。">
 <style>
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html{--fz:20px;--fz-h1:19px;--fz-tt:30px;--fz-big:24px;--fz-s:21px;
@@ -92,13 +93,35 @@ footer{flex:0 0 auto;margin-top:auto;background:#101920;border-top:1px solid #24
 .photoZoomStage img{display:block;width:100%;max-width:none;height:auto;margin:0 auto;cursor:zoom-in;user-select:none;-webkit-user-drag:none}
 @media(max-width:470px){.items>div{gap:2px 10px}.items em{flex:1 0 100%;text-align:left}}
 @media(max-width:430px){.btn{padding:9px 10px}#play{min-width:66px}.pbtn{padding:6px 9px}}
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar span.off{color:#3a4a5c;cursor:default;margin:0 3px;white-space:nowrap}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+
+<style>
+/* v7：TG 入口按鈕樣式（統一 .home-btn） */
+.home-btn{font-family:var(--mono,Consolas,monospace);font-size:13px;color:#00f3ff;
+  border:1px solid #00f3ff;padding:6px 12px;border-radius:4px;white-space:nowrap;
+  display:inline-block;text-decoration:none}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
 </style>
 </head>
 <body>
+<div class="langbar"><a href="ai-self-talk.html" class="on">繁體</a><i>|</i><span class="off" title="此頁暫時只有繁體版">简体</span><i>|</i><span class="off" title="此頁暫時只有繁體版">English</span></div>
 <header>
  <div class="hrow"><h1 id="ht">我哋唔再係一個個嘅 AI</h1><span id="pg">—</span></div>
  <div id="sub"></div>
 </header>
+<a class="home-btn" href="tg.html" style="color:#3fb6e8;border-color:rgba(63,182,232,.45)">📡 TG 死亡記錄</a>
 <div id="pnl"><div id="pnlIn">
  <span class="pg-t">字體</span>
  <button class="pbtn" id="f1">細</button><button class="pbtn" id="f2">中</button>

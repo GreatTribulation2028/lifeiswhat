@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-HK">
+<html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>生死記錄儀 — VITAL LIFE MONITOR</title>
-<meta name="description" content="記錄七年間的生死數據，每日更新">
+<meta name="description" content="生死記錄儀 VITAL LIFE MONITOR：自你進入起計算全球離世人數，即時更新的七年生死數據，連結 19 類末世新聞分類，可查看走勢與事件明細，每日更新。">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;700&family=Noto+Serif+TC:wght@400;700&family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&family=Jura:wght@400;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -181,9 +181,30 @@ canvas#ecg{width:100%;height:100%}
   .tb-item .tb-val{font-size:14px}
   .stats-grid{grid-template-columns:repeat(2,1fr)}
 }
+
+.langbar{position:fixed;top:6px;left:50%;transform:translateX(-50%);z-index:10000;
+  font-family:var(--mono,Consolas,monospace);font-size:13px;
+  background:rgba(6,10,18,.94);border:1px solid rgba(255,255,255,.10);
+  padding:5px 14px;border-radius:20px;box-shadow:0 2px 14px rgba(0,0,0,.45)}
+.langbar a{color:#6b7f93;text-decoration:none;margin:0 3px;white-space:nowrap}
+.langbar a:hover{color:#d4a953}
+.langbar a.on{color:#ff6b35;font-weight:bold}
+.langbar span.off{color:#3a4a5c;cursor:default;margin:0 3px;white-space:nowrap}
+.langbar i{color:#3a4a5c;font-style:normal;margin:0 1px}
+@media(max-width:600px){.langbar{font-size:11.5px;padding:4px 10px}}
+
+</style>
+
+<style>
+/* v7：TG 入口按鈕樣式（統一 .home-btn） */
+.home-btn{font-family:var(--mono,Consolas,monospace);font-size:13px;color:#00f3ff;
+  border:1px solid #00f3ff;padding:6px 12px;border-radius:4px;white-space:nowrap;
+  display:inline-block;text-decoration:none}
+.home-btn:hover{background:rgba(0,243,255,.12);text-decoration:none}
 </style>
 </head>
 <body>
+<div class="langbar"><a href="githubmonitor.html" class="on">繁體</a><i>|</i><span class="off" title="此頁暫時只有繁體版">简体</span><i>|</i><span class="off" title="此頁暫時只有繁體版">English</span></div>
 <canvas id="particle-bg"></canvas>
 
 <!-- TOP BAR -->
@@ -191,12 +212,13 @@ canvas#ecg{width:100%;height:100%}
   <div class="tb-item"><span class="tb-lbl">進入後，全球已有</span><span class="tb-val" id="tb-deaths">0</span><span class="tb-lbl">人死亡</span></div>
   <div class="tb-item"><span class="tb-lbl">今日全球約</span><span class="tb-val" id="tb-today">0</span><span class="tb-lbl">人離世</span></div>
   <a href="githubindex.html" class="tb-back">← 返回首頁</a>
+<a class="home-btn" href="tg.html" style="color:#3fb6e8;border-color:rgba(63,182,232,.45)">📡 TG 死亡記錄</a>
 </div>
 
 <!-- HEADER -->
 <header>
   <div>
-    <span class="brand">VITAL LIFE MONITOR</span>
+    <h1 class="brand" style="margin:0;font-weight:inherit">VITAL LIFE MONITOR</h1>
     <span class="brand-sub">生死記錄儀 | 2019 → 2028</span>
   </div>
   <div class="ecg-wrap"><span class="ecg-lbl">VITAL SIGNS</span><canvas id="ecg"></canvas></div>
