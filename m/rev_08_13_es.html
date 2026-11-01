@@ -67,6 +67,7 @@ body.onevoice #vA,body.onevoice #vB,body.onevoice #fvoiceA,body.onevoice #fvoice
 .btn:hover{border-color:var(--acc);color:#fff;background:rgba(200,68,42,.2);transform:translateY(-1px)}
 .btn.primary{background:var(--acc);border-color:var(--acc);color:#fff;box-shadow:0 6px 26px rgba(200,68,42,.36)}
 .btn.primary:hover{background:var(--acc2)}
+#fnHint{margin:.7em 0 0;text-align:center;font-size:.68rem;color:var(--dim);opacity:.75;letter-spacing:.02em}
 #scrollHint{margin-top:2.4em;font-size:.66rem;letter-spacing:.3em;color:var(--dim);animation:bob 2.6s ease-in-out infinite}
 @keyframes bob{0%,100%{transform:translateY(0);opacity:.55}50%{transform:translateY(7px);opacity:1}}
 
@@ -124,7 +125,7 @@ body.onevoice #vA,body.onevoice #vB,body.onevoice #fvoiceA,body.onevoice #fvoice
 #doc p.on{background:linear-gradient(90deg,rgba(200,68,42,.2),transparent 85%);
   box-shadow:inset 3px 0 0 var(--acc)}
 #doc p.script{background:var(--scriptbg);border-left:3px solid var(--scriptline);
-  padding:.85em 1em;margin:1.3em 0;font-size:1.04em;letter-spacing:.02em;line-height:1.85;
+  padding:.85em 1em;margin:1.3em 0;font-size:.95em;letter-spacing:.02em;line-height:1.85;
   border-bottom:1px solid rgba(255,255,255,.055)}
 :root[data-theme="scroll"] #doc p.script{border-bottom:1px solid rgba(0,0,0,.09)}
 #doc p.script:before{content:"Versículo";position:absolute;left:-1px;top:-.62em;font-size:.58rem;
@@ -417,6 +418,7 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
       <a class="lang" href="rev_08_13_en.html">English<span class="t"></span></a>
       <a class="lang" href="rev_08_13_id.html">Indonesian<span class="t"></span></a>
       <a class="lang on" href="rev_08_13_es.html">Spanish<span class="t"></span></a></div>
+<p id="fnHint">(Hay un botón de función en la esquina inferior derecha; si no lo ves en el móvil, reduce el tamaño de la página)</p>
     <div id="scrollHint">Abajo · SCROLL</div>
   </div>
 </section>
@@ -826,53 +828,7 @@ Los números son neutrales, como las dos caras de un billete.</p>
   <div class="dt">Terminado, pero es un borrador</div>
   <div class="ds">Este texto de lectura está terminado, pero sigue siendo un borrador; toda la Biblia se está preparando versículo por versículo y todavía no ha terminado.</div>
 </div>
-<div class="srclink">
-  <a class="sl-t" href="天使三禍_核對表.html">Tabla de comprobación del texto · correspondencia numerada frase por frase</a>
-  <span class="sl-s">Texto mostrado ↔ texto de voz ↔ audio · comprobación mecánica frase por frase a tres bandas</span>
-</div>
-<div class="srclink">
-  <a class="sl-t" href="https://greattribulation2028.github.io/lifeiswhat/" target="_blank" rel="noopener">Instrumento de registro de la vida · STILL ALIVE? ¿Sigues vivo?</a>
-  <span class="sl-s">PROJECT TRIBULATION · 2019 — 2028 ｜ Línea de tiempo · Base de datos · Versión de investigación</span>
-</div>
 
-<!-- ═══════════ 章節導航 rail ═══════════ -->
-<div id="rail"></div>
-
-<!-- ═══════════ 浮球 ═══════════ -->
-<div id="fab" title="Funciones（toca para abrir, toca para cerrar）">☰</div>
-<div id="mbar">
-  <button class="mplay" id="mplay" title="Reproducir／pausar（vuelve a tocar para continuar desde aquí）">▶</button>
-  <button id="mvoice" title="Cambiar voz">♂ M</button>
-  <button id="mfollow" title="Seguir">Seguir</button>
-  <button id="mtl" title="Toda la línea de tiempo">Línea de tiempo</button>
-  <button id="mtheme" title="Cambiar tema">Tema</button>
-  <button id="msearch" title="Buscar">Buscar</button>
-</div>
-<div id="fabpanel">
-  <div class="ftitle" id="fabTitle">Voz：Captivating Storyteller</div>
-  <div class="frow">
-    <button id="fplay" title="Reproducir／pausar（vuelve a tocar para continuar desde aquí）">▶</button>
-    <button id="fhead" title="Reproducir desde el principio">↺</button>
-    <button id="fslower" title="Más lento">−</button>
-    <span class="fv" id="fspeed">1.20×</span>
-    <button id="ffaster" title="Más rápido">＋</button>
-  </div>
-  <div class="frow frowVoice">
-    <button id="fvoiceA" title="Captivating Storyteller">♀ Voz femenina</button>
-    <button id="fvoiceB" title="Captivating Storyteller">♂ Voz masculina</button>
-    <button id="fvoiceSwap" title="Cambiar voz">⇄ Cambiar voz</button>
-  </div>
-  <div class="frow"><span class="fv">♫</span><button id="fmusic" title="Música">Música</button>
-    <button id="ffollow" title="Seguir">Seguir</button></div>
-  <div class="frow" id="fthemes">
-    <button class="ftsw on" data-t="abyss" title="Fin de los tiempos">Fin de los tiempos</button>
-    <button class="ftsw" data-t="scroll" title="Papel de arroz">Papel de arroz</button>
-  </div>
-  <div class="frow">
-    <button id="fTL" title="Toda la línea de tiempo">⏱ Línea de tiempo</button>
-    <button id="fSearch" title="Buscar">🔍 Buscar</button>
-  </div>
-</div>
 <div id="top" title="Volver arriba">↑</div>
 
 <div id="search"><span>🔍</span><input id="sInput" placeholder="Buscar en el texto…"><span id="sInfo"></span></div>

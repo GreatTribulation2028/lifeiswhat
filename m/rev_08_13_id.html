@@ -67,6 +67,7 @@ body.onevoice #vA,body.onevoice #vB,body.onevoice #fvoiceA,body.onevoice #fvoice
 .btn:hover{border-color:var(--acc);color:#fff;background:rgba(200,68,42,.2);transform:translateY(-1px)}
 .btn.primary{background:var(--acc);border-color:var(--acc);color:#fff;box-shadow:0 6px 26px rgba(200,68,42,.36)}
 .btn.primary:hover{background:var(--acc2)}
+#fnHint{margin:.7em 0 0;text-align:center;font-size:.68rem;color:var(--dim);opacity:.75;letter-spacing:.02em}
 #scrollHint{margin-top:2.4em;font-size:.66rem;letter-spacing:.3em;color:var(--dim);animation:bob 2.6s ease-in-out infinite}
 @keyframes bob{0%,100%{transform:translateY(0);opacity:.55}50%{transform:translateY(7px);opacity:1}}
 
@@ -416,6 +417,7 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
       <a class="lang" href="rev_08_13_en.html">English<span class="t"></span></a>
       <a class="lang on" href="rev_08_13_id.html">Indonesian<span class="t"></span></a>
       <a class="lang" href="rev_08_13_es.html">Spanish<span class="t"></span></a></div>
+<p id="fnHint">(Ada tombol fungsi di kanan bawah; jika tidak terlihat di ponsel, perkecil tampilan halaman)</p>
     <div id="scrollHint">Turun · SCROLL</div>
   </div>
 </section>
@@ -824,53 +826,7 @@ Angka bersifat netral, seperti dua sisi uang kertas.</p>
   <div class="dt">Selesai, tetapi masih draf</div>
   <div class="ds">Naskah bacaan ini sudah selesai, tetapi masih berupa draf; seluruh Alkitab sedang dikerjakan ayat demi ayat dan belum selesai.</div>
 </div>
-<div class="srclink">
-  <a class="sl-t" href="天使三禍_核對表.html">Tabel pemeriksaan naskah · padanan bernomor kalimat demi kalimat</a>
-  <span class="sl-s">Naskah tampilan ↔ naskah suara ↔ audio · pemeriksaan mekanis kalimat demi kalimat oleh tiga pihak</span>
-</div>
-<div class="srclink">
-  <a class="sl-t" href="https://greattribulation2028.github.io/lifeiswhat/" target="_blank" rel="noopener">Peralatan Rekam Kehidupan · STILL ALIVE? Masih hidup?</a>
-  <span class="sl-s">PROJECT TRIBULATION · 2019 — 2028 ｜ Linimasa · Basis data · Edisi riset</span>
-</div>
 
-<!-- ═══════════ 章節導航 rail ═══════════ -->
-<div id="rail"></div>
-
-<!-- ═══════════ 浮球 ═══════════ -->
-<div id="fab" title="Fungsi (ketuk sekali untuk buka, ketuk lagi untuk tutup)">☰</div>
-<div id="mbar">
-  <button class="mplay" id="mplay" title="Putar / jeda (tekan lagi untuk melanjutkan dari sini)">▶</button>
-  <button id="mvoice" title="Ganti suara">♂ Laki-laki</button>
-  <button id="mfollow" title="Ikuti baca">Ikuti baca</button>
-  <button id="mtl" title="Seluruh linimasa">Linimasa</button>
-  <button id="mtheme" title="Ganti tema">Tema</button>
-  <button id="msearch" title="Cari">Cari</button>
-</div>
-<div id="fabpanel">
-  <div class="ftitle" id="fabTitle">Suara: Caring Man</div>
-  <div class="frow">
-    <button id="fplay" title="Putar / jeda (tekan lagi untuk melanjutkan dari sini)">▶</button>
-    <button id="fhead" title="Putar dari awal">↺</button>
-    <button id="fslower" title="Lebih lambat">−</button>
-    <span class="fv" id="fspeed">1.20×</span>
-    <button id="ffaster" title="Lebih cepat">＋</button>
-  </div>
-  <div class="frow frowVoice">
-    <button id="fvoiceA" title="Caring Man">♀ Suara perempuan</button>
-    <button id="fvoiceB" title="Caring Man">♂ Suara laki-laki</button>
-    <button id="fvoiceSwap" title="Ganti suara">⇄ Ganti suara</button>
-  </div>
-  <div class="frow"><span class="fv">♫</span><button id="fmusic" title="Musik">Musik</button>
-    <button id="ffollow" title="Ikuti baca">Ikuti baca</button></div>
-  <div class="frow" id="fthemes">
-    <button class="ftsw on" data-t="abyss" title="Kiamat">Kiamat</button>
-    <button class="ftsw" data-t="scroll" title="Kertas beras">Kertas beras</button>
-  </div>
-  <div class="frow">
-    <button id="fTL" title="Seluruh linimasa">⏱ Linimasa</button>
-    <button id="fSearch" title="Cari">🔍 Cari</button>
-  </div>
-</div>
 <div id="top" title="Kembali ke atas">↑</div>
 
 <div id="search"><span>🔍</span><input id="sInput" placeholder="Cari naskah…"><span id="sInfo"></span></div>

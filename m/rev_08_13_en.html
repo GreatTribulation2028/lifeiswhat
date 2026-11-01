@@ -67,6 +67,7 @@ body.onevoice #vA,body.onevoice #vB,body.onevoice #fvoiceA,body.onevoice #fvoice
 .btn:hover{border-color:var(--acc);color:#fff;background:rgba(200,68,42,.2);transform:translateY(-1px)}
 .btn.primary{background:var(--acc);border-color:var(--acc);color:#fff;box-shadow:0 6px 26px rgba(200,68,42,.36)}
 .btn.primary:hover{background:var(--acc2)}
+#fnHint{margin:.7em 0 0;text-align:center;font-size:.68rem;color:var(--dim);opacity:.75;letter-spacing:.02em}
 #scrollHint{margin-top:2.4em;font-size:.66rem;letter-spacing:.3em;color:var(--dim);animation:bob 2.6s ease-in-out infinite}
 @keyframes bob{0%,100%{transform:translateY(0);opacity:.55}50%{transform:translateY(7px);opacity:1}}
 
@@ -405,6 +406,7 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
       <a class="lang on" href="rev_08_13_en.html">English<span class="t"></span></a>
       <a class="lang" href="rev_08_13_id.html">Indonesian<span class="t"></span></a>
       <a class="lang" href="rev_08_13_es.html">Spanish<span class="t"></span></a></div>
+<p id="fnHint">(There is a function button at the bottom right; if you can't see it on mobile, zoom out the page)</p>
     <div id="scrollHint">Scroll down</div>
   </div>
 </section>
@@ -861,49 +863,7 @@ Numbers are neutral, like the two sides of a banknote.</p>
   </table>
 </details>
 -->
-<div class="srclink">
-  <a class="sl-t" href="https://greattribulation2028.github.io/lifeiswhat/" target="_blank" rel="noopener">PROJECT TRIBULATION · STILL ALIVE?</a>
-  <span class="sl-s">PROJECT TRIBULATION · 2019 — 2028 ｜ timeline · database · research edition</span>
-</div>
 
-<!-- ═══════════ 章節導航 rail ═══════════ -->
-<div id="rail"></div>
-
-<!-- ═══════════ 浮球 ═══════════ -->
-<div id="fab" title="functions (tap once to open, tap again to close)">☰</div>
-<div id="mbar">
-  <button class="mplay" id="mplay" title="Play / pause (press again to resume from here)">▶</button>
-  <button id="mvoice" title="Switch voice">♂ Male</button>
-  <button id="mfollow" title="Follow">Follow</button>
-  <button id="mtl" title="The whole timeline">Timeline</button>
-  <button id="mtheme" title="Switch theme">Theme</button>
-  <button id="msearch" title="Search">Search</button>
-</div>
-<div id="fabpanel">
-  <div class="ftitle" id="fabTitle">Voice: Narrator</div>
-  <div class="frow">
-    <button id="fplay" title="Play / pause (press again to resume from here)">▶</button>
-    <button id="fhead" title="Play from the beginning">↺</button>
-    <button id="fslower" title="Slower">−</button>
-    <span class="fv" id="fspeed">1.20×</span>
-    <button id="ffaster" title="Faster">＋</button>
-  </div>
-  <div class="frow frowVoice">
-    <button id="fvoiceA" title="Deep Voice">♂ Male voice</button>
-    <button id="fvoiceB" title="Narrator">♂ Male voice</button>
-    <button id="fvoiceSwap" title="Switch voice">⇄ Switch voice</button>
-  </div>
-  <div class="frow"><span class="fv">♫</span><button id="fmusic" title="Music">Music</button>
-    <button id="ffollow" title="Follow">Follow</button></div>
-  <div class="frow" id="fthemes">
-    <button class="ftsw on" data-t="abyss" title="Apocalyptic">Apocalyptic</button>
-    <button class="ftsw" data-t="scroll" title="Rice paper">Rice paper</button>
-  </div>
-  <div class="frow">
-    <button id="fTL" title="The whole timeline">⏱ Timeline</button>
-    <button id="fSearch" title="Search">🔍 Search</button>
-  </div>
-</div>
 <div id="top" title="Back to top">↑</div>
 
 <div id="search"><span>🔍</span><input id="sInput" placeholder="Search the script…"><span id="sInfo"></span></div>
