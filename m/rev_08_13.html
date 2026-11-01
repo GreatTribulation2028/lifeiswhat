@@ -418,6 +418,7 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
     <span class="grp">音量 <input type="range" id="vol" min="0" max="100" value="90"></span>
     <span class="grp">字級 <button data-fs="-1">−</button><b id="fsVal">19</b><button data-fs="1">＋</button></span>
     <span class="grp">行距 <button data-lh="-0.1">−</button><b id="lhVal">1.9</b><button data-lh="0.1">＋</button></span>
+    <span class="grp"><button id="dlTop" title="下載離線html（保存本頁離線檔）">⬇ 下載離線html</button></span>
     <span class="grp"><button id="btnMusic" title="末世氛圍音樂">♫ 音樂</button>
       <button id="btnFollow" title="跟讀模式">👁 跟讀</button>
       <button id="btnTheme" title="主題">◐ 主題</button>
@@ -1507,6 +1508,14 @@ document.getElementById("fab").addEventListener("click", function(){
      配合 download 屬性，瀏覽器直接落載呢個檔案（線上／本機檔都得）。 */
   var dlEl=document.getElementById("dlAll");
   if(dlEl){ dlEl.href=location.pathname; }
+  /* ★ Ollie 2026-11-01 08:1x：上面「行距」右邊再加多一個下載掣（同一個下載邏輯） */
+  var dlTop=document.getElementById("dlTop");
+  if(dlTop){ dlTop.addEventListener("click",function(){
+    var a=document.createElement("a");
+    a.href=location.pathname;
+    a.download="天使三禍_離線語音_末世版.html";
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  }); }
   document.getElementById("prevSec").addEventListener("click", function(){ stepSec(-1); });
   document.getElementById("nextSec").addEventListener("click", function(){ stepSec(1); });
   document.getElementById("btnSearch").addEventListener("click", function(){
