@@ -1031,7 +1031,7 @@ var MD_TEXT = "Seven years ago, there was one thing that the whole world went al
 /* ═══════════ 狀態 ═══════════ */
 var S = {
   voice:"B", speed:1.20, vol:0.9, fs:19, lh:1.9, theme:"abyss",
-  music:false, follow:false, cur:-1, seekTo:null, type:false, loop:0
+  music:false, follow:false, cur:-1, seekTo:null, type:false
 };
 /* ★ 2026-10-29 22:05 手機版修正：
    ① 舊 decodeTrack() 讀已改名嘅 #segdata → null.textContent → 「啟動失敗」（手機實測）
@@ -1054,7 +1054,6 @@ function loadPrefs(){
   S.vol = +(ss("ap_vol")||0.9); S.voice = ss("ap_voice")||"B";
   S.speed = +(ss("ap_speed")||1.20); S.music = ss("ap_music")==="1";
   S.follow = ss("ap_follow")==="1";
-  S.loop = +(ss("ap_loop")||0); syncLoopBtn();
   document.documentElement.dataset.theme = S.theme;
   document.documentElement.style.setProperty("--fs", S.fs+"px");
   document.documentElement.style.setProperty("--lh", S.lh);
@@ -1064,7 +1063,6 @@ function savePrefs(){
   ss("ap_theme",S.theme); ss("ap_fs",S.fs); ss("ap_lh",S.lh);
   ss("ap_vol",S.vol); ss("ap_voice",S.voice); ss("ap_speed",S.speed);
   ss("ap_music",S.music?"1":"0"); ss("ap_follow",S.follow?"1":"0");
-  ss("ap_loop",S.loop);
 }
 
 /* ═══════════ 進度條 ═══════════ */
@@ -1269,9 +1267,7 @@ function ensureAudio(){
   if(audio) return audio;
   audio = new Audio(); audio.preload="auto"; audio.volume=S.vol;
   audio.addEventListener("ended", function(){
-    if(S.loop===1){ playSeg(curSeg, 0); return; }            /* ★ 單段重複 */
     if(curSeg+1 < segList().length) playSeg(curSeg+1, 0);   /* 一段完 → 接下一段 */
-    else if(S.loop===2){ playSeg(0, 0); return; }           /* ★ 全篇連續：返第一段 */
     else { playing=false; setPlayIcon(false); }
   });
   audio.addEventListener("timeupdate", function(){
@@ -1294,16 +1290,6 @@ function playSeg(i, off){
   a.play().catch(function(){});
   if(off>0){ setTimeout(function(){ try{ a.currentTime=off; }catch(e){} }, 80); }
   playing=true; setPlayIcon(true);
-}
-var LOOP_LABELS = ["🔁 Off","🔁 One","🔁 All"];
-function syncLoopBtn(){
-  var b=document.getElementById("floop"); if(!b) return;
-  var s = S.loop===1 ? LOOP_LABELS[1] : LOOP_LABELS[S.loop];
-  b.textContent=s; b.classList.toggle("on", S.loop>0);
-  var m=document.getElementById("mloop"); if(m){ m.textContent=s; m.classList.toggle("on", S.loop>0); }
-}
-function cycleLoop(){
-  S.loop=(S.loop+1)%3; savePrefs(); syncLoopBtn();
 }
 function setPlayIcon(playing){
   var t = playing?"❚❚":"▶";
@@ -1336,9 +1322,6 @@ function setThemeBtns(){
     b.classList.toggle("on", b.getAttribute("data-t")===S.theme);
   });
 }
-document.addEventListener("click", function(ev){
-  if(ev.target &amp;&amp; (ev.target.id==="floop" || ev.target.id==="floop2" || ev.target.id==="mloop")){ cycleLoop(); }
-});
 function syncMusicBtn(){
   document.getElementById("btnMusic").classList.toggle("on", S.music);
   document.getElementById("fmusic").classList.toggle("on", S.music);
