@@ -426,6 +426,49 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
   </div>
 </div>
 
+<!--<!-- ═══ 時間錨點 · 超濃縮觀察錨點（共用片段：讀稿頁 template ＋ 三層子體都用呢一份）═══ -->
+<style>
+.tanchor{--ta:#5ef0ff;max-width:980px;margin:16px auto;padding:14px 16px 12px;
+ border:1px solid rgba(94,240,255,.34);border-radius:12px;position:relative;overflow:hidden;
+ background:linear-gradient(180deg,rgba(8,20,26,.94),rgba(4,10,14,.94));
+ box-shadow:0 0 0 1px rgba(0,0,0,.55),inset 0 0 26px rgba(94,240,255,.09)}
+.tanchor::before{content:"";position:absolute;inset:0;pointer-events:none;
+ background:repeating-linear-gradient(180deg,rgba(94,240,255,.05) 0 1px,transparent 1px 4px)}
+.tanchor::after{content:"";position:absolute;left:0;right:0;top:0;height:2px;
+ background:linear-gradient(90deg,transparent,rgba(94,240,255,.75),transparent)}
+.ta-hd{display:flex;align-items:center;gap:8px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+ font-size:.72rem;letter-spacing:.16em;color:var(--ta)}
+.ta-dot{width:8px;height:8px;border-radius:50%;background:var(--ta);box-shadow:0 0 10px var(--ta);flex:0 0 auto}
+.ta-sub{margin-left:auto;opacity:.5;font-size:.62rem;letter-spacing:.22em}
+.ta-note{font-size:.8rem;line-height:1.6;opacity:.82;margin:7px 0 11px}
+.ta-grid{position:relative;display:grid;grid-template-columns:repeat(auto-fit,minmax(148px,1fr));gap:9px}
+.ta-cell{border:1px solid rgba(94,240,255,.22);border-radius:9px;padding:8px 11px;background:rgba(0,0,0,.4)}
+.ta-k{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.68rem;letter-spacing:.12em;opacity:.75}
+.ta-v{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:700;line-height:1.12;
+ font-size:clamp(1.3rem,5.4vw,2.05rem);color:#eaffff;margin:3px 0 2px;letter-spacing:.01em;white-space:nowrap}
+.ta-v .ta-y{opacity:.68}
+.ta-n{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.7rem;opacity:.6}
+.ta-hot{border-color:rgba(255,96,64,.5);background:rgba(58,12,6,.34)}
+.ta-hot .ta-v{color:#ffddcd}
+.ta-hot .ta-k{color:#ffb59e}
+@media (max-width:420px){
+ .ta-grid{grid-template-columns:repeat(2,1fr)}
+ .ta-v{font-size:1.2rem}
+ .ta-hd{font-size:.66rem;letter-spacing:.1em}
+ .ta-sub{display:none}
+}
+</style>
+<div class="tanchor" id="tanchor">
+  <div class="ta-hd"><span class="ta-dot"></span>時間錨點 · 觀察基準<span class="ta-sub">TIME ANCHOR</span></div>
+  <div class="ta-note">零點＝第一宗新冠，按但以理書加一年 → 由 2020-12-01 起算。</div>
+  <div class="ta-grid">
+    <div class="ta-cell"><div class="ta-k">零點</div><div class="ta-v">2020<span class="ta-y">-12-01</span></div><div class="ta-n">起算</div></div>
+    <div class="ta-cell"><div class="ta-k">第 1260 日</div><div class="ta-v">2024<span class="ta-y">-05-14</span></div><div class="ta-n">三年半</div></div>
+    <div class="ta-cell"><div class="ta-k">第 2520 日</div><div class="ta-v">2027<span class="ta-y">-10-26</span></div><div class="ta-n">終點</div></div>
+    <div class="ta-cell ta-hot"><div class="ta-k">末次號筒</div><div class="ta-v">2027<span class="ta-y">-10-01</span></div><div class="ta-n">終點前 25 日</div></div>
+  </div>
+</div>
+-->
 <!-- ═══════════ 時間線 ═══════════ -->
 <section id="tl">
   <div class="secH">第五號四條線</div>
