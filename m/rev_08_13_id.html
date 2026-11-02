@@ -451,6 +451,9 @@ body.textonly .notonote{display:block!important}
       <a class="lang" href="rev_08_13_tr.html">Türkçe<span class="t"></span></a>
       <a class="lang" href="rev_08_13_fil.html">Pilipinas<span class="t"></span></a>
       <a class="lang" href="rev_08_13_ur.html">اردو<span class="t"></span></a></div>
+
+<!-- ═══════════ 章節導航 rail ═══════════ -->
+<div id="rail"></div>
 <p id="fnHint">(Ada tombol fungsi di kanan bawah; jika tidak terlihat di ponsel, perkecil tampilan halaman)</p>
     <div id="scrollHint">Turun · SCROLL</div>
   </div>
@@ -1326,14 +1329,14 @@ function setThemeBtns(){
   });
 }
 function syncMusicBtn(){
-  document.getElementById("btnMusic").classList.toggle("on", S.music);
-  document.getElementById("fmusic").classList.toggle("on", S.music);
-  document.getElementById("btnFollow").classList.toggle("on", S.follow);
-  document.getElementById("ffollow").classList.toggle("on", S.follow);
-  document.getElementById("vA").classList.toggle("on", S.voice==="A");
-  document.getElementById("vB").classList.toggle("on", S.voice==="B");
-  document.getElementById("fvoiceA").classList.toggle("on", S.voice==="A");
-  document.getElementById("fvoiceB").classList.toggle("on", S.voice==="B");
+  (function(_e){if(_e)_e.classList.toggle("on", S.music);})(document.getElementById("btnMusic"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.music);})(document.getElementById("fmusic"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.follow);})(document.getElementById("btnFollow"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.follow);})(document.getElementById("ffollow"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.voice==="A");})(document.getElementById("vA"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.voice==="B");})(document.getElementById("vB"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.voice==="A");})(document.getElementById("fvoiceA"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.voice==="B");})(document.getElementById("fvoiceB"));
   document.getElementById("fabTitle").textContent = "Suara: "+LABEL[S.voice];
   var mv=document.getElementById("mvoice"); if(mv) mv.textContent = S.voice==="A"?"♀ P":"♂ L";
   var mf=document.getElementById("mfollow"); if(mf) mf.classList.toggle("on", S.follow);
@@ -1448,7 +1451,7 @@ document.getElementById("fab").addEventListener("click", function(){
   document.getElementById("sInput").addEventListener("input", doSearch);
   document.getElementById("sInput").addEventListener("keydown", function(e){
     if(e.key==="Enter"){ var m=document.querySelector("mark"); if(m) m.scrollIntoView({block:"center"}); }
-    if(e.key==="Escape"){ document.getElementById("search").classList.remove("on"); }
+    if(e.key==="Escape"){ (function(_e){if(_e)_e.classList.remove("on");})(document.getElementById("search")); }
   });
   document.addEventListener("keydown", function(e){
     if(e.target.tagName==="INPUT") return;
@@ -1532,7 +1535,7 @@ function boot(){
   document.getElementById("loadtxt").textContent="Siap";
   if(S.music) startMusic();
 }
-try{ boot(); }catch(e){ document.getElementById("loadtxt").textContent="Gagal mulai:"+e; }
+try{ boot(); }catch(e){ document.getElementById("loadtxt").textContent="Gagal mulai:"+e; console.error(e&&e.stack?e.stack:e); }
 
 /* ★ 音頻出錯提示（唔會靜靜死機） */
 function showAudioError(msg){
@@ -2057,14 +2060,14 @@ function setThemeBtns(){
   });
 }
 function syncMusicBtn(){
-  document.getElementById("btnMusic").classList.toggle("on", S.music);
-  document.getElementById("fmusic").classList.toggle("on", S.music);
-  document.getElementById("btnFollow").classList.toggle("on", S.follow);
-  document.getElementById("ffollow").classList.toggle("on", S.follow);
-  document.getElementById("vA").classList.toggle("on", S.voice==="A");
-  document.getElementById("vB").classList.toggle("on", S.voice==="B");
-  document.getElementById("fvoiceA").classList.toggle("on", S.voice==="A");
-  document.getElementById("fvoiceB").classList.toggle("on", S.voice==="B");
+  (function(_e){if(_e)_e.classList.toggle("on", S.music);})(document.getElementById("btnMusic"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.music);})(document.getElementById("fmusic"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.follow);})(document.getElementById("btnFollow"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.follow);})(document.getElementById("ffollow"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.voice==="A");})(document.getElementById("vA"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.voice==="B");})(document.getElementById("vB"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.voice==="A");})(document.getElementById("fvoiceA"));
+  (function(_e){if(_e)_e.classList.toggle("on", S.voice==="B");})(document.getElementById("fvoiceB"));
   document.getElementById("fabTitle").textContent = "Suara: "+LABEL[S.voice];
   var mv=document.getElementById("mvoice"); if(mv) mv.textContent = S.voice==="A"?"♀ Perempuan":"♂ Laki-laki";
   var mf=document.getElementById("mfollow"); if(mf) mf.classList.toggle("on", S.follow);
@@ -2179,7 +2182,7 @@ document.getElementById("fab").addEventListener("click", function(){
   document.getElementById("sInput").addEventListener("input", doSearch);
   document.getElementById("sInput").addEventListener("keydown", function(e){
     if(e.key==="Enter"){ var m=document.querySelector("mark"); if(m) m.scrollIntoView({block:"center"}); }
-    if(e.key==="Escape"){ document.getElementById("search").classList.remove("on"); }
+    if(e.key==="Escape"){ (function(_e){if(_e)_e.classList.remove("on");})(document.getElementById("search")); }
   });
   document.addEventListener("keydown", function(e){
     if(e.target.tagName==="INPUT") return;
