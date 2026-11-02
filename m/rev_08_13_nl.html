@@ -501,8 +501,13 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
       <a class="lang" href="rev_08_13_uk.html">Ukrainian<span class="t"></span></a>
       <a class="lang" href="rev_08_13_pl.html">Polish<span class="t"></span></a>
       <a class="lang" href="rev_08_13_ro.html">Romanian<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_el.html">Greek<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_cs.html">Czech<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_fi.html">Finnish<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_hi.html">Hindi<span class="t"></span></a>
       <a class="lang on" href="rev_08_13_nl.html">Nederlands<span class="t"></span></a>
       <a class="lang" href="rev_08_13_vi.html">Tiếng Việt<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_tr.html">Turkish<span class="t"></span></a>
       <a class="lang" href="rev_08_13_fil.html">Filipino<span class="t"></span></a></div>
 <p id="fnHint">(Rechtsonder is er een functieknop; als u die op de telefoon niet ziet, verklein de pagina)</p>
     <div id="scrollHint">Omlaag · SCROLL</div>
@@ -1357,7 +1362,7 @@ function ensureAudio(){
   try{ if(document.body && !audio.parentNode) document.body.appendChild(audio); }catch(e){}
   audio.addEventListener("error", function(){
     var e=audio.error;
-    showAudioError("Audio kon niet worden geladen (code "+(e?e.code:"?")+") · segment "+(curSeg+1)");
+    showAudioError("Audio kon niet worden geladen (code "+(e?e.code:"?")+") · segment "+(curSeg+1));
   });
   audio.addEventListener("ended", function(){
     if(curSeg+1 < segList().length) playSeg(curSeg+1, 0);   /* 一段完 → 接下一段 */
