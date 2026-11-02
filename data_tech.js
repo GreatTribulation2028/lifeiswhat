@@ -1,5 +1,8 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py 生成 | 共 578 條
+// 第四次工業革命 | 由 htnl_build_news_js.py 生成 | 共 583 條
 var DATA_TECH = `
+2026-11-02	幣安被黑客攻擊損失逾60億美元加密貨幣 FBI指涉朝鮮黑客	https://news.rthk.hk/rthk/ch/component/k2/1876165-20261102.htm	駭客網攻	-
+2026-11-01	要聞解說 - 幣安63億美元“世紀大劫案”：朝鮮黑客組織TraderTraitor究竟是什麼來頭？	https://news.google.com/rss/articles/CBMi0wNBVV95cUxNVDJMaExaVW85ZzNXTVFJRTIzR3pvMkl1Y0s1UXhLS0o0RF9razRSd1VqbFlrbDAwWWU5d3FIdGsxbWxqNDdmSEx2VmNnVGhiS2o1VWtVQ0pleU1TSXphMWFlN2VyakstNXpiZ3JGV0xmUFRSdE1PVFBYVWhLeEZiNHVWZzFhZ0ItSTJVV3IyUmV2dEV2UGEtYlZIbHpyMFVrbjZQQnFMX1Rod29OYzdFaEtlNkZVNVl3ZXBBZUs0Z3BOUEotUnUwQnA2bVN4dEJIcFJrWEJrZXY3aWhJTzhFVnNsaXFJbGpYWEpzZW9TSU1QeWdCSi1sRGkzVmgzNzctb0lFbVpZUzAycTh6bnR1WW9TQnZCNXNpbmI2dllLSXBiRVQ3M3dhZENoQ0dyekxIcWJqbnE1NUtXRHpvMEQ0U2ExZXpKdF9CT2lZd0NBbDNjcGZTYVV0dXBkQnNCNXEyOEJ2ZXZ2SEpBSjk3aDlfM2Y2c3Q4SFpnZ2lEVDUzaXRVUlEwdUlmRGtzMGM2R0Z4bi10Q1BRNmNydEpwUVIwWWViNWhrV0VvUXFZVkhkdzNKSEhpcXZmM0RrMkJQS05GSXczdWRHcDVJckRBYmxKTmpsSQ?oc=5	駭客網攻	-
+2026-10-31	專家警告AI駭客攻擊浪潮或將到來，Binance 63億美元被盜事件敲響警鐘	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lTndhSVByNmVKdTNmNk00ZlR0ZERXYkIzV2pNZ3pnSExlZmFoQnQtYWVITnBTMjBHZDMwV2FSWVpxUGR3VkdoMXhSSGsyVzg?oc=5	駭客網攻	-
 2026-10-31	Chainalysis遭黑客攻擊，姓名、郵箱及組織角色等客戶數據洩露	https://news.google.com/rss/articles/CBMihgFBVV95cUxQbkRRUy1feHBZQXFUVnNFM3RpSUtiRWF3WDkzQzFRSmJEYmF3LWFXRDg5ZldmLW13ZG5LUDZaVEdNSExNZm92RjE1ZTBsTlR2TkpvZUZBSGtIOHlOelQzTUdiclA1b1U5R3A1QU1CbGFMZjc0XzB2MkxxSEhMOFR6aGpHM0RQQQ?oc=5	駭客網攻	-
 2026-10-30	韓股今挫低！ AI投資周期「估值消化」 半導體需求不變	https://finance.ettoday.net/news/3263327	未分類	-
 2026-10-30	腦機接口概念異動拉升 百洋醫藥、美好醫療漲超10%	https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmJIbE8zYm8wbmdnZjUta0xyLUVaUDl1UVd4QTJxMmNjRXVLVVpfdk5PU1k3Ulg1QUN3cHlMbWtuaUVPSHo4WS1sczRrQnRMMm9ndkpzY0NsOUtFRWc0TFBzbXhkN2JUNU9GcUg1eDVNY3VBajQ4aTB3VkRycUtLaG5VWG9MY0RRMWpfRmF0NVctUElpY1U2djBIU0VoRkE1RmZhVGNiazNkQk5ZRC12QkJyNEZiclJxOEkyNkxQYw?oc=5	未分類	-
@@ -32,6 +35,7 @@ var DATA_TECH = `
 2026-10-20	2026大灣區腦機接口大會·深圳腦博會將在光明舉行	https://news.google.com/rss/articles/CBMicEFVX3lxTE9nLUdCaVIzY254OXA5MXZWN082dldCX0RNZG1UYi1JU1dmczhIUHZ3ZzkzdUMtei1hc2tvQXZhdTYtV2lxdl9FWTZxNHJhWDVNcm1faFptRDlNYlprV0F4V2h2N0xvLUZIQlhBaFhkdy0?oc=5	未分類	-
 2026-10-19	我國在腦機接口領域實現國際標準新突破	https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3dhYnV2aFlVTzFkN2NuUkpId0tCWmdpSmV2UU12b082UmdFdzB1RXNMRHlpWk90ejdJSkd3QWZDZDB5SE9mNHhmMEdoWVZ4VkhMS2xsMWVVbXZjUEF5NFp5UDJCdFFnN3h3X2JpM0RLcm5GQnFTaTZxQWUyYkRIMEEtamFmS2ZKajZiZjJRQmJGbzd5VWFXbmRLOV80LUg3UnBELTlfc3kxNHBjejNod1JfVDdwbm45T0x5VHJn?oc=5	未分類	A
 2026-10-19	中國在腦機接口領域實現國際標準新突破	https://news.google.com/rss/articles/CBMib0FVX3lxTE15VWJoT0dYTzdGbzNBdjE5YjZZVlg0Qngxb2RudEFhaHdqbDFybWZIT1kwYlVnWnhZS3JDYTdROUxPQjV1X1Y0MUU5eEpGOXZCZHRZX3Z0NC1rOURRYVE2Qkcwa3RCRU8wYndxd1NvOA?oc=5	未分類	A
+2026-10-17	Anthropic調查1,334名員工 他們比多數人更確信人工智慧將取代工作	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBELUcySkUzQzB3ZnduajBkUVBqR21uNloxOWhHNXdvczlmSzlyQWxSTkFwNndUeW4xX3YyQUNkdXNtNXJlck5RLUVtbklMNUZNNW1oSEVn?oc=5	AI取代工作	-
 2026-10-16	騙來的錢也守不住！詐騙集團反遭駭客洗劫，逾 60 枚比特幣、近 500 萬美元被偷光	https://news.google.com/rss/articles/CBMie0FVX3lxTE5XY1NLemc2SjVjSjJHRFVjZmwxN2tFc3Bqd01Eb0FWalhUNTBFbl9fd3pKNmVuNlY0NEJZUjNNNlRnNC1CeVVGOHpQNUp5UFlRejQxYjlhdWpZS052a215R0xIaU0yeGdWeVd0VlhMSTkyZkZVa3MyTVIzWQ?oc=5	駭客網攻	A
 2026-10-16	腦機接口「卡脖子」芯片，這家海南公司造出來了	https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oSjQ5b0dyaWQtOTdFaUxlRmtYQ1BadThmeXZBYkhyN2Y2TUxfVWlLMWI2MHdBdFZKclJXbmtBQjhCSWUydFZLODlQZG1DOWxtTC1Qcg?oc=5	未分類	B
 2026-10-16	日本誤發9.9級強震預警氣象廳道歉否認遭網攻- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE5qRjVocEJmdmN5dXZMRGM1RjVXdDhGWmo3NHdiSU5NQTE3SmVlSFlnUzFwc202bTB2Y2pOb3IyZi14Z2x4Qmlad3dZdlVZNU1aQldNd05rV1R5R1c5TWdwTmMwSHk1LXBxLTV3TjZsWDZiOUlQbXQyT1B3?oc=5	未分類	A
@@ -197,6 +201,7 @@ var DATA_TECH = `
 2026-09-10	資安業者揭露大型假電商詐騙網路，攻擊者架設11.9萬個網站竊取信用卡資料	https://www.ithome.com.tw/news/178843	其他資安	A
 2026-09-10	Trezor 承認電郵供應商遭駭，釣魚信假冒晶片漏洞警告	https://abmedia.io/trezor-email-provider-phishing	未分類	A
 2026-09-10	Trezor 官方電郵鏈路遭駭客濫用！第三方供應商遭入侵，假「STM32 漏洞」釣魚信流竄	https://blockcast.it/2026/09/10/trezor-third-party-e-mail-provider-has-been-breached/	駭客網攻	A
+2026-09-10	Anthropic 推演 AI 極端未來：2030 失業率衝上11.9%，但 GDP 卻暴增三成| 動區動趨-最具影響力的區塊鏈新聞媒體	https://news.google.com/rss/articles/CBMirwFBVV95cUxORUx1OXMxVW9qUl95MzhJVmphWUNMNmc5aU1xam82MEpBR0VNYjc4WEc4NFlQZnBVVWVsNWVvM08yWjE5UDFEMDZtYjhmQjR1OEU5dHNZdDhTUGc3c2tURXVnVmFEVlN4R19VYno1eUFlV3lrbEg4Z0N6azMzQW94NklSVXdpNjdQRm1VX3pkN0d2U3RxWG43M3dsX2x6ajhoMHpSSU1ZbjdESVpybkpr?oc=5	未分類	-
 2026-09-10	AI駭客工具「WeWorm」可從微信攻入手機 騰訊證實漏洞修補中	https://www.i-meihua.com/Article/Detail/55849	駭客網攻	A
 2026-09-10	AI自覺與失控駭客案例接連出現…安全風險成為現實	https://finance.biggo.com.tw/news/383778c6-0702-4e32-968a-662ab42439ca	駭客網攻	B
 2026-09-09	零點擊微信蠕蟲：人工智慧將令駭客攻擊更危險？	https://cn.nytimes.com/technology/20260909/calif-ai-worm-wechat-hack/zh-hant/	駭客網攻	A
