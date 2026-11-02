@@ -381,8 +381,19 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
 @media (max-width:820px){.detailH{font-size:2.4rem;letter-spacing:.1em}}
 .aivoice{margin:10px 0 0;font-size:.78rem;color:#7d776f;line-height:1.5}
 </style>
+<style>
+/* ★ 純文字版（冇語音）→ 隱藏播放相關 UI */
+body.textonly #playBtn,body.textonly #playBig,body.textonly #vA,body.textonly #vB,
+body.textonly #vSwap,body.textonly #mvoice,body.textonly #mtheme,body.textonly #fvoiceSwap,
+body.textonly #mvoiceA,body.textonly #mvoiceB,body.textonly #vA2,body.textonly #vB2,
+body.textonly .voicegrp,body.textonly .frowVoice,body.textonly #spd,#spdUp,#spdDn,
+body.textonly #loadtxt,body.textonly #loadhint,body.textonly #musicBtn,body.textonly #btnMusic,
+body.textonly #fmusic{display:none!important}
+body.textonly .notonote{display:block!important}
+</style>
 </head>
-<body class="no-ref onevoice">
+<body class="no-ref onevoice"><div class="notonote" style="display:none;max-width:980px;margin:10px auto 0;padding:9px 13px;border:1px solid rgba(255,255,255,.14);border-radius:9px;font-size:.78rem;line-height:1.6;opacity:.72;text-align:center"></div>
+
 <div id="prog"></div>
 
 <!-- ═══════════ HERO ═══════════ -->
@@ -427,7 +438,8 @@ mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
       <a class="lang" href="rev_08_13_nl.html">Nederland<span class="t"></span></a>
       <a class="lang" href="rev_08_13_vi.html">Việt Nam<span class="t"></span></a>
       <a class="lang" href="rev_08_13_tr.html">Türkçe<span class="t"></span></a>
-      <a class="lang" href="rev_08_13_fil.html">Pilipinas<span class="t"></span></a></div>
+      <a class="lang" href="rev_08_13_fil.html">Pilipinas<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_ur.html">اردو<span class="t"></span></a></div>
 <p id="fnHint">（右下有功能鍵，手機看不到時請縮小版面）</p>
     <div id="scrollHint">向下 · SCROLL</div>
   </div>

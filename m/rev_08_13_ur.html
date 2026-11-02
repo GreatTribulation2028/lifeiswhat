@@ -1,0 +1,1492 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl" data-theme="abyss">
+<head>
+<meta charset="utf-8">
+<meta name="google" content="notranslate">
+<meta name="googlebot" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>تین «افسون» · آڈیو آف لائن (اپوکالیپٹک ایڈیشن)</title>
+<style>
+/* ═══════════════ 主題 ═══════════════ */
+:root[data-theme="abyss"]{
+  --bg:#08090b; --bg2:#0e1013; --ink:#e8e3da; --dim:#9b948a; --line:#2a2622;
+  --acc:#c8442a; --acc2:#e0743f; --gold:#c9a227; --hi:#1a1512; --sh:#000;
+  --scriptbg:#12100e; --scriptline:#c8442a;
+}
+:root[data-theme="scroll"]{
+  --bg:#f6f1e6; --bg2:#efe7d8; --ink:#2a2620; --dim:#6f675c; --line:#ddd3bf;
+  --acc:#9c3a1e; --acc2:#b8562b; --gold:#9a7b1e; --hi:#fdf8ec; --sh:#6b5c42;
+  --scriptbg:#fbf6ea; --scriptline:#9c3a1e;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);
+  font-family:"Noto Serif CJK TC","Source Han Serif TC","Songti TC","PMingLiU",serif;
+  font-size:var(--fs,19px);line-height:var(--lh,1.9);-webkit-text-size-adjust:100%;
+  overflow-x:hidden;transition:background .5s,color .5s}
+::-webkit-scrollbar{width:9px}::-webkit-scrollbar-thumb{background:var(--line);border-radius:9px}
+
+/* ═══════════════ 進度條 ═══════════════ */
+#prog{position:fixed;top:0;left:0;height:3px;width:0;z-index:60;
+  background:linear-gradient(90deg,var(--acc),var(--gold));box-shadow:0 0 12px var(--acc)}
+
+/* ═══════════════ HERO ═══════════════ */
+#hero{position:relative;min-height:100svh;display:flex;align-items:center;justify-content:center;
+  overflow:hidden;background:radial-gradient(120% 90% at 50% 8%,#1a1210 0%,#0a0a0c 45%,#060608 100%)}
+#fx{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+#vig{position:absolute;inset:0;pointer-events:none;
+  background:radial-gradient(70% 55% at 50% 45%,transparent 40%,rgba(0,0,0,.72) 100%)}
+#scan{position:absolute;inset:0;pointer-events:none;opacity:.16;mix-blend-mode:overlay;
+  background:repeating-linear-gradient(0deg,rgba(255,255,255,.05) 0 1px,transparent 1px 3px)}
+#heroIn{position:relative;z-index:3;text-align:center;padding:26px 20px;max-width:900px}
+#kicker{font-size:.66rem;letter-spacing:.42em;color:var(--gold);text-transform:uppercase;opacity:.85}
+#hTitle{font-size:clamp(3rem,13vw,8.2rem);font-weight:900;line-height:.94;margin:.22em 0 .1em;
+  letter-spacing:.06em;color:var(--ink);text-shadow:0 0 40px rgba(200,68,42,.34),0 2px 0 rgba(0,0,0,.6)}
+#hSub{font-size:clamp(.86rem,2.4vw,1.12rem);color:var(--dim);letter-spacing:.14em;margin-bottom:1.4em}
+#three{display:flex;gap:clamp(8px,2.4vw,26px);justify-content:center;margin:1.1em 0 1.5em}
+body.no-three #three{display:none}
+.woe{flex:0 1 190px;padding:16px 8px 12px;border:1px solid var(--line);border-radius:12px;
+  background:linear-gradient(180deg,rgba(200,68,42,.10),rgba(0,0,0,.25));opacity:.28;
+  transform:translateY(10px) scale(.97);transition:all .9s cubic-bezier(.2,.8,.2,1)}
+.woe.on{opacity:1;transform:none;border-color:var(--acc);
+  box-shadow:0 0 34px rgba(200,68,42,.4),inset 0 0 26px rgba(200,68,42,.12)}
+.woe b{display:block;font-size:clamp(1.5rem,6vw,2.7rem);letter-spacing:.1em;color:var(--acc2)}
+.woe.on b{color:#ffd9c4;text-shadow:0 0 24px rgba(224,116,63,.9)}
+.woe span{font-size:.62rem;letter-spacing:.3em;color:var(--dim)}
+#cta{margin-top:1.2em;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+/* 語言切換條（粵語／普通話繁／普通話简／English 互相連結）*/
+body.onevoice #vA,body.onevoice #vB,body.onevoice #fvoiceA,body.onevoice #fvoiceB,body.onevoice #vSwap,body.onevoice #mvoice,body.onevoice #fvoiceSwap,body.onevoice .voicegrp,body.onevoice .frowVoice{display:none}
+#langbar{margin-top:1.1em;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+#langbar a{display:inline-block;padding:.42em .9em;border:1px solid var(--line);border-radius:999px;
+  background:rgba(14,16,19,.72);color:var(--dim);font-size:.8rem;letter-spacing:.06em;
+  text-decoration:none;font-family:inherit;transition:.22s}
+#langbar a:hover{border-color:var(--acc);color:var(--ink);background:rgba(200,68,42,.18)}
+#langbar a.on{border-color:var(--gold);color:#f4e7c8;background:rgba(201,162,39,.14)}
+#langbar a .t{opacity:.6;font-size:.72em;margin-left:.4em}
+.btn{border:1px solid var(--line);background:var(--bg2);color:var(--ink);border-radius:999px;
+  padding:.62em 1.5em;font-size:.9rem;cursor:pointer;text-decoration:none;font-family:inherit;
+  transition:.25s;display:inline-flex;align-items:center;gap:.5em}
+.btn:hover{border-color:var(--acc);color:#fff;background:rgba(200,68,42,.2);transform:translateY(-1px)}
+.btn.primary{background:var(--acc);border-color:var(--acc);color:#fff;box-shadow:0 6px 26px rgba(200,68,42,.36)}
+.btn.primary:hover{background:var(--acc2)}
+#fnHint{margin:.7em 0 0;text-align:center;font-size:.68rem;color:var(--dim);opacity:.75;letter-spacing:.02em}
+#scrollHint{margin-top:2.4em;font-size:.66rem;letter-spacing:.3em;color:var(--dim);animation:bob 2.6s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0);opacity:.55}50%{transform:translateY(7px);opacity:1}}
+
+/* ═══════════════ 時間線 ═══════════════ */
+#tl{max-width:980px;margin:0 auto;padding:clamp(40px,8vw,90px) 22px}
+.secH{display:flex;align-items:baseline;gap:14px;margin:0 0 26px;
+  font-size:1.5rem;font-weight:800;letter-spacing:.14em;color:var(--gold);text-transform:uppercase;
+  font-family:"Kaiti SC","STKaiti","KaiTi","\u6977\u4f53","DFKai-SB","Noto Serif CJK TC",serif}
+.secH:after{content:"";flex:1;height:1px;background:linear-gradient(90deg,var(--line),transparent)}
+.tcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+.tcard{position:relative;padding:18px 16px 16px;border:1px solid var(--line);border-radius:14px;
+  background:linear-gradient(180deg,var(--bg2),var(--bg));cursor:pointer;transition:.3s;overflow:hidden}
+.tcard:hover{border-color:var(--acc);transform:translateY(-3px);box-shadow:0 12px 34px rgba(0,0,0,.44)}
+.tcard .d{font-size:1.42rem;letter-spacing:.06em;color:var(--ink);font-weight:700}
+.tcard .lb{font-size:.8rem;color:var(--acc2);margin:.34em 0 .5em;line-height:1.6}
+.tcard .dy{font-size:.66rem;color:var(--dim);letter-spacing:.16em}
+.tcard .bar{height:3px;background:var(--line);border-radius:3px;margin-top:12px;position:relative}
+.tcard .bar i{position:absolute;inset:0 auto 0 0;background:linear-gradient(90deg,var(--acc),var(--gold));border-radius:3px}
+.tcard .no{position:absolute;right:12px;top:10px;font-size:.6rem;letter-spacing:.2em;color:var(--dim)}
+.tlwrap{position:relative;margin:0 0 26px}
+.tlwrap:before{content:"";position:absolute;left:19px;top:14px;bottom:14px;width:2px;
+  background:linear-gradient(180deg,var(--acc),var(--gold),transparent)}
+#six{display:grid;grid-template-columns:1fr auto 1fr auto 1fr;align-items:center;gap:12px;margin:0 auto 26px;
+  max-width:820px;text-align:center;padding:26px 14px;border:1px solid var(--line);border-radius:16px;
+  background:linear-gradient(180deg,var(--bg2),var(--bg))}
+#six .n{font-size:clamp(2.1rem,6vw,3.4rem);font-weight:800;color:var(--ink);line-height:1.1}
+#six .n small{display:block;font-size:clamp(.78rem,1.6vw,.95rem);letter-spacing:.26em;color:var(--dim);
+  font-weight:400;margin-top:.7em}
+#six .n b{color:var(--acc2);font-size:clamp(2.4rem,7vw,4rem)}
+#six .op{font-size:clamp(1.3rem,3vw,2rem);color:var(--gold)}
+#sixnote{max-width:820px;margin:0 auto;text-align:center;font-size:clamp(1rem,2vw,1.18rem);color:var(--dim);
+  line-height:2.05;letter-spacing:.02em}
+#sixnote em{color:var(--acc2);font-style:normal;font-weight:600}
+
+/* ═══════════════ 章節導航 ═══════════════ */
+#rail{position:fixed;right:14px;top:50%;transform:translateY(-50%);z-index:40;
+  display:flex;flex-direction:column;gap:7px;padding:10px 8px;border-radius:14px;
+  background:rgba(10,10,12,.72);border:1px solid var(--line);backdrop-filter:blur(7px);max-height:72vh}
+:root[data-theme="scroll"] #rail{background:rgba(250,246,236,.8)}
+#rail a{width:9px;height:9px;border-radius:50%;background:var(--line);transition:.3s;position:relative}
+#rail a:hover{background:var(--acc2);transform:scale(1.5)}
+#rail a.on{background:var(--acc);box-shadow:0 0 12px var(--acc)}
+#rail a span{position:absolute;right:18px;top:-4px;white-space:nowrap;font-size:.68rem;
+  background:var(--bg2);border:1px solid var(--line);color:var(--ink);padding:4px 9px;border-radius:7px;
+  opacity:0;pointer-events:none;transition:.2s}
+#rail a:hover span{opacity:1}
+
+/* ═══════════════ 正文 ═══════════════ */
+#wrap{max-width:780px;margin:0 auto;padding:0 22px 60px}
+#doc p{margin:0 0 .3em;padding:.2em .55em .55em;border-radius:6px;transition:background .35s,color .35s;
+  position:relative;cursor:pointer;border-bottom:1px solid rgba(255,255,255,.055)}
+:root[data-theme="scroll"] #doc p{border-bottom:1px solid rgba(0,0,0,.09)}
+#doc p:last-child{border-bottom:none}
+#doc p:hover{background:rgba(200,68,42,.07)}
+#doc p.on{background:linear-gradient(90deg,rgba(200,68,42,.2),transparent 85%);
+  box-shadow:inset 3px 0 0 var(--acc)}
+#doc p.script{background:var(--scriptbg);border-left:3px solid var(--scriptline);
+  padding:.85em 1em;margin:1.3em 0;font-size:1.04em;letter-spacing:.02em;line-height:1.85;
+  border-bottom:1px solid rgba(255,255,255,.055)}
+:root[data-theme="scroll"] #doc p.script{border-bottom:1px solid rgba(0,0,0,.09)}
+#doc p.script:before{content:"آیت";position:absolute;left:-1px;top:-.62em;font-size:.58rem;
+  letter-spacing:.3em;color:var(--acc2);background:var(--bg);padding:0 .5em}
+#doc p .tw{white-space:pre-wrap}
+#doc .secMark{display:block;text-align:center;font-size:1.32rem;letter-spacing:.14em;color:var(--gold);
+  margin:2.6em 0 1.4em;opacity:.95;font-weight:700;line-height:1.5}
+#doc .secMark:before,#doc .secMark:after{content:"—";opacity:.4;margin:0 .7em}
+
+/* ═══════════════ 稿內 toggle（數字系統等）═══════════════ */
+#doc details.docTg{border:1px solid var(--line);border-radius:13px;margin:1.5em 0;background:var(--bg2);
+  overflow:hidden;box-shadow:0 4px 18px rgba(0,0,0,.25)}
+#doc details.docTg>summary:after{content:"(ایک بار دبائیں کھولنے کے لیے، دوبارہ دبائیں بند کرنے کے لیے)";font-size:.78em;opacity:.6;margin-left:10px}
+#doc details.docTg>summary{cursor:pointer;padding:15px 17px;font-size:1rem;font-weight:600;letter-spacing:.03em;
+  color:var(--ink);list-style:none;display:flex;align-items:center;gap:12px;user-select:none}
+#doc details.docTg>summary::-webkit-details-marker{display:none}
+#doc details.docTg>summary:before{content:"▶";color:var(--acc2);transition:.3s;font-size:1.5em;line-height:.9}
+#doc details.docTg[open]>summary:before{content:"▼"}
+#doc details.docTg>summary:hover{background:rgba(200,68,42,.09)}
+#doc .tgBody{padding:6px 16px 16px;border-top:1px solid var(--line);cursor:default}
+#doc .tgBody p:first-child{margin-top:.7em}
+#doc .tgBody p{border-bottom:1px solid rgba(255,255,255,.05)}
+:root[data-theme="scroll"] #doc .tgBody p{border-bottom:1px solid rgba(0,0,0,.07)}
+
+/* ═══════════════ 控制列 ═══════════════ */
+#bar{position:sticky;top:0;z-index:50;background:rgba(8,9,11,.94);border-bottom:1px solid var(--line);
+  backdrop-filter:blur(8px);padding:10px 14px}
+:root[data-theme="scroll"] #bar{background:rgba(250,246,236,.94)}
+#bar .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+#bar .grp{display:inline-flex;align-items:center;gap:6px;padding:4px 9px;border:1px solid var(--line);
+  border-radius:999px;font-size:.76rem;color:var(--dim)}
+#bar .grp b{color:var(--ink);font-weight:600;min-width:2.4em;text-align:center}
+#bar button{background:transparent;border:1px solid var(--line);color:var(--ink);border-radius:999px;
+  padding:.32em .78em;font-size:.76rem;cursor:pointer;font-family:inherit;transition:.2s}
+#bar button:hover{border-color:var(--acc);color:#fff;background:rgba(200,68,42,.18)}
+#bar button.on{background:var(--acc);border-color:var(--acc);color:#fff}
+#bar input[type=range]{width:86px;accent-color:var(--acc)}
+.vtitle{font-size:.86rem;letter-spacing:.1em;color:var(--ink);margin-bottom:8px;
+  display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.vtitle .sub{font-size:.64rem;color:var(--dim);letter-spacing:.2em}
+
+/* ═══════════════ 浮球 ═══════════════ */
+#fab{position:fixed;right:14px;bottom:calc(18px + env(safe-area-inset-bottom));top:auto;z-index:98;width:54px;height:54px;border-radius:50%;
+  border:1px solid var(--line);background:#3a3530;color:#fff;font-size:22px;
+  display:flex;align-items:center;justify-content:center;cursor:pointer;
+  box-shadow:0 4px 18px rgba(0,0,0,.5);backdrop-filter:none;-webkit-backdrop-filter:none;opacity:1;transition:none}
+#fab:hover{background:var(--acc)}
+#fabpanel{position:fixed;right:14px;bottom:calc(84px + env(safe-area-inset-bottom));z-index:98;display:none;flex-direction:column;gap:8px;
+  padding:12px;border-radius:16px;background:rgba(14,14,17,.96);border:1px solid var(--line);
+  box-shadow:0 12px 40px rgba(0,0,0,.6);min-width:214px}
+:root[data-theme="scroll"] #fabpanel{background:rgba(252,248,238,.97)}
+#fabpanel.open{display:flex}
+#fabpanel .frow{display:flex;gap:6px;align-items:center;justify-content:center;flex-wrap:wrap}
+#fabpanel button{background:#33302c;border:1px solid #5c5751;color:#fff;border-radius:9px;
+  padding:7px 11px;font-size:14px;cursor:pointer;font-family:inherit;min-width:38px}
+#fabpanel button:hover{background:#4a453f}
+#fabpanel button.on{background:var(--acc);border-color:var(--acc)}
+#fabpanel .fv{font-size:12px;opacity:.8;min-width:40px;text-align:center}
+#fabpanel .ftitle{font-size:15px;font-weight:700;letter-spacing:.04em;text-align:center;margin-bottom:2px}
+#fabpanel .mini{font-size:12px;padding:5px 9px}
+#top{position:fixed;right:14px;bottom:calc(84px + env(safe-area-inset-bottom));z-index:98;width:46px;height:46px;border-radius:50%;
+  border:1px solid var(--line);background:#3a3530;color:#fff;font-size:19px;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;box-shadow:0 3px 12px rgba(0,0,0,.45)}
+#top:hover{background:var(--acc)}
+
+/* ═══════════════ 載入遮罩 ═══════════════ */
+#loadbox{position:fixed;inset:0;z-index:200;background:var(--bg);display:flex;flex-direction:column;
+  align-items:center;justify-content:center;gap:16px;transition:opacity .6s}
+#loadbar{width:min(340px,72vw);height:4px;background:var(--line);border-radius:4px;overflow:hidden}
+#loadbar i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--acc),var(--gold));transition:width .25s}
+#loadtxt{font-size:.78rem;letter-spacing:.24em;color:var(--dim)}
+#loadhint{font-size:.66rem;color:var(--dim);opacity:.7;max-width:min(420px,80vw);text-align:center;line-height:1.8}
+
+/* ═══════════════ 逐節查經層 ═══════════════ */
+#ref{max-width:980px;margin:0 auto;padding:0 22px 70px}
+#ref .refhead{display:flex;align-items:center;gap:12px;margin:30px 0 14px;font-size:.7rem;
+  letter-spacing:.36em;color:var(--gold);text-transform:uppercase}
+#ref .refhead:after{content:"";flex:1;height:1px;background:linear-gradient(90deg,var(--line),transparent)}
+#refbox{border:1px solid var(--line);border-radius:14px;background:var(--bg2);overflow:hidden}
+#refbox>summary{cursor:pointer;padding:16px 18px;font-size:.92rem;letter-spacing:.06em;color:var(--ink);
+  list-style:none;display:flex;align-items:center;gap:10px}
+#refbox>summary::-webkit-details-marker{display:none}
+#refbox>summary:before{content:"▶";color:var(--acc2);transition:.3s;font-size:1.35em;line-height:1}
+#refbox[open]>summary:before{content:"▼"}
+#refbody{padding:4px 18px 22px;border-top:1px solid var(--line)}
+.ntx h2{font-size:1.06rem;letter-spacing:.1em;color:var(--acc2);margin:1.6em 0 .5em;border-bottom:1px solid var(--line);padding-bottom:.3em}
+.ntx h3{font-size:.98rem;color:var(--ink);margin:1.2em 0 .4em}
+.ntx p,.ntx li{color:var(--ink);opacity:.94;margin:.4em 0}
+.ntx blockquote,.ntx .quote{border-left:3px solid var(--acc);padding:.5em 1em;margin:.8em 0;
+  background:var(--hi);border-radius:0 8px 8px 0;font-size:1.02em}
+.ntx code{background:var(--hi);padding:.1em .38em;border-radius:5px;font-size:.92em}
+#schbox{border:1px solid var(--line);border-radius:14px;background:var(--bg2);overflow:hidden}
+#schbox>summary{cursor:pointer;padding:16px 18px;font-size:.95rem;letter-spacing:.06em;color:var(--ink);
+  list-style:none;display:flex;align-items:center;gap:10px}
+#schbox>summary::-webkit-details-marker{display:none}
+#schbox>summary:before{content:"▶";color:var(--acc2);transition:.3s;font-size:1.35em;line-height:1}
+#schbox[open]>summary:before{content:"▼"}
+#schbody{padding:6px 20px 24px;border-top:1px solid var(--line);font-size:1rem;line-height:1.95}
+#schbody h3{font-size:.72rem;letter-spacing:.3em;color:var(--gold);margin:1.6em 0 .7em;
+  text-transform:uppercase;font-weight:600}
+#schbody h3:first-child{margin-top:.6em}
+#schbody table{width:100%;border-collapse:collapse;margin:.6em 0 1em;font-size:.96rem}
+#schbody th,#schbody td{border:1px solid var(--line);padding:.55em .7em;text-align:right;vertical-align:top}
+#schbody th:first-child,#schbody td:first-child{text-align:left;white-space:nowrap;color:var(--acc2)}
+#schbody tbody td.gr{font-size:1.34em;font-weight:700;color:var(--ink)}
+#schbody .gk{font-size:1.1em;color:var(--ink)}
+#schbody ul{margin:.4em 0 1em;padding-left:1.25em}
+#schbody li{margin:.55em 0;line-height:1.9}
+#schbody .gk small{color:var(--dim);font-size:.88em}
+#schbody .note{color:var(--dim);font-size:.92em;margin-top:.8em}
+.gcards{display:flex;flex-direction:column;gap:.7em}
+.gcard{border:1px solid var(--line);border-radius:11px;padding:.7em .9em;background:var(--hi)}
+.gcard-h{display:flex;align-items:baseline;gap:.55em;flex-wrap:wrap;margin-bottom:.4em}
+.gcard-h .gw{font-size:1.22em;font-weight:700;color:var(--ink)}
+.gcard-h .gid{font-size:.74em;background:rgba(200,68,42,.18);border-radius:999px;padding:.12em .6em;color:var(--acc2)}
+.gcard ul{margin:.1em 0 0;padding-left:1.3em}
+
+/* ═══════════════ 底部 ═══════════════ */
+.footbar{max-width:980px;margin:0 auto;padding:26px 22px 12px;border-top:1px solid var(--line);
+  display:flex;gap:9px;flex-wrap:wrap;align-items:center}
+.footbar .mini{border:1px solid var(--line);background:var(--bg2);color:var(--ink);border-radius:999px;
+  padding:.5em 1.05em;font-size:.82rem;cursor:pointer;text-decoration:none;font-family:inherit;transition:.2s}
+.footbar .mini:hover{border-color:var(--acc);color:#fff;background:rgba(200,68,42,.18)}
+.donebar{max-width:980px;margin:0 auto;padding:10px 22px 60px;color:var(--dim);text-align:center}
+.donebar .dt{font-size:.94rem;letter-spacing:.24em;color:var(--gold)}
+.donebar .ds{font-size:.76rem;margin-top:.5em;opacity:.8}
+.srclink{max-width:980px;margin:0 auto;padding:0 22px 70px;text-align:center}
+.srclink .sl-t{display:inline-block;font-size:1rem;letter-spacing:.12em;color:var(--acc);
+  text-decoration:none;border:1px solid rgba(200,68,42,.45);border-radius:999px;
+  padding:.5em 1.25em;transition:.2s}
+.srclink .sl-t:hover{background:rgba(200,68,42,.18);color:#fff}
+.srclink .sl-s{display:block;margin-top:.55em;font-size:.72rem;opacity:.62;letter-spacing:.06em}
+#search{position:fixed;top:70px;right:16px;z-index:120;display:none;gap:6px;padding:8px;
+  background:var(--bg2);border:1px solid var(--line);border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.5)}
+#search.on{display:flex}
+#search input{background:transparent;border:0;color:var(--ink);font-family:inherit;font-size:.9rem;width:190px;outline:none}
+#search span{font-size:.74rem;color:var(--dim);align-self:center}
+mark{background:var(--gold);color:#111;border-radius:3px;padding:0 .15em}
+/* ═══════════════ 另一種解法（稿末 aside）═══════════════ */
+#asideBox{margin:2.4em auto;max-width:880px;padding:0 18px}
+#asidebody p{margin:0 0 .35em;padding:.5em .8em .85em;border-left:3px solid var(--acc);
+  background:rgba(200,68,42,.055);border-radius:0 9px 9px 0;
+  font-size:calc(var(--fs) - 1px);line-height:var(--lh);cursor:pointer}
+#asidebody p.script{border-left-color:var(--acc);margin:1em 0}
+:root[data-theme="scroll"] #asidebody p{background:rgba(200,68,42,.05)}
+
+/* ═══════════════ 空白區隱藏（126 各篇唔需要天使三禍專屬區）═══════════════ */
+.no-tl #tl,.no-sch #sch,.no-ref #ref{display:none}
+.no-ref .reflink{display:none}
+.no-tl .tlnav{display:none}
+.tlfullnav{display:none}
+.no-tl .tlfullnav{display:inline-flex}
+
+/* ═══════════════ 整條時間軸（126 數據層）═══════════════ */
+#tlfullsec{max-width:980px;margin:0 auto;padding:clamp(40px,8vw,90px) 22px}
+.btn.big{font-size:1.12rem;padding:13px 26px}
+.tllegend{border-left:3px solid var(--gold);background:rgba(216,180,106,.07);color:#d9cfb8;
+  padding:11px 14px;border-radius:0 8px 8px 0;margin:14px 0 18px;font-size:.9rem;line-height:1.8}
+.tllegend b{color:var(--gold);letter-spacing:.14em}
+.vtlwrap{margin:0 0 26px}
+.vtlhead{font-size:1.12rem;font-weight:700;color:var(--gold);letter-spacing:.06em;margin-bottom:14px;
+  text-align:left;overflow-wrap:anywhere;line-height:1.5;padding-left:2px}
+.vtitem{display:grid;grid-template-columns:76px 26px 1fr;gap:8px;align-items:start;position:relative;padding-bottom:13px}
+.vtitem::before{content:'';position:absolute;left:87px;top:14px;bottom:0;width:2px;background:var(--line)}
+.vtitem:last-child::before{display:none}
+.vtdate{font-size:.74rem;color:var(--dim);text-align:right;padding-top:6px;letter-spacing:.03em;white-space:nowrap}
+.vtdot{width:18px;height:18px;border-radius:50%;background:var(--bg2);border:2px solid var(--acc);
+  margin:5px auto 0;position:relative;z-index:1;font-size:.62rem;line-height:14px;text-align:center}
+.vtcard{border:1px solid var(--line);border-left:3px solid var(--acc2);border-radius:0 10px 10px 0;
+  background:var(--bg2);padding:9px 13px}
+.vttitle{font-size:1rem;font-weight:700;color:var(--ink);line-height:1.45}
+.vtsub{font-size:.84rem;color:var(--dim);margin-top:3px;line-height:1.6}
+.vtcum{font-size:.8rem;color:var(--gold);margin-top:4px}
+
+.anchors{border:1px solid var(--line);border-radius:13px;padding:16px 18px;margin:0 0 18px;background:var(--bg2)}
+.anch-t{font-size:1.5rem;font-weight:800;color:var(--gold);letter-spacing:.1em;margin-bottom:8px;
+  font-family:"Kaiti SC","STKaiti","KaiTi","\u6977\u4f53","DFKai-SB","Noto Serif CJK TC",serif}
+.anch-s{color:#b9b1a6;font-size:.9rem;margin-bottom:10px}
+.anch-l{margin:0;font-size:1.05rem;line-height:3.1;color:var(--ink)}
+.fourhorses{white-space:pre-line;border:1px solid var(--line);border-left:3px solid var(--acc);
+  border-radius:0 10px 10px 0;padding:14px 16px;margin:0 0 20px;background:rgba(200,68,42,.05);font-size:.95rem;line-height:1.95}
+.lasttrumpet{white-space:pre-line;border:1px solid var(--line);border-radius:12px;padding:14px 16px;
+  margin:0 0 16px;background:var(--bg2);font-size:.95rem;line-height:1.95}
+.tlback{margin-top:20px;text-align:center}
+#tlfullbody table{width:100%;border-collapse:collapse;font-size:.92rem;line-height:1.75}
+#tlfullbody td{padding:8px 10px;border-bottom:1px solid rgba(255,255,255,.05);vertical-align:top}
+#tlfullbody td.nm{color:var(--acc2);font-weight:700;white-space:nowrap;width:2.6em}
+#tlfullbody td.st{white-space:nowrap;width:2.4em;text-align:center}
+#tlfullbody td.cu{white-space:nowrap;width:5.4em;color:var(--gold);text-align:right}
+#tlfullbody td.dt{white-space:nowrap;width:7.4em;color:var(--ink)}
+#tlfullbody tr.calc td{opacity:.68}
+#tlfull{border:1px solid var(--line);border-radius:13px;background:var(--bg2);overflow:hidden;
+  box-shadow:0 4px 18px rgba(0,0,0,.22)}
+#tlfull>summary{cursor:pointer;padding:15px 17px;font-size:1rem;font-weight:600;letter-spacing:.03em;
+  color:var(--ink);list-style:none;display:flex;align-items:center;gap:12px;user-select:none}
+#tlfull>summary::-webkit-details-marker{display:none}
+#tlfull>summary:before{content:"▶";color:var(--acc2);transition:.3s;font-size:1.5em;line-height:.9}
+#tlfull[open]>summary:before{content:"▼"}
+#tlfull>summary:hover{background:rgba(200,68,42,.09)}
+#tlfullbody{padding:4px 16px 16px;border-top:1px solid var(--line);cursor:default}
+#tlfullbody table{width:100%;border-collapse:collapse;font-size:.92rem;line-height:1.75}
+#tlfullbody td{padding:8px 10px;border-bottom:1px solid rgba(255,255,255,.05);vertical-align:top}
+#tlfullbody td.nm{color:var(--acc2);font-weight:700;white-space:nowrap;width:3.2em}
+#tlfullbody td.dt{white-space:nowrap;width:7.6em;color:var(--ink)}
+#tlfullbody td.dy{white-space:nowrap;width:5.2em;opacity:.72}
+#tlfullbody tr.calc td{opacity:.72}
+#tlfullbody .anch{font-size:.95rem;margin:.9em 0 .4em;color:var(--ink);border-left:3px solid var(--acc);padding-left:.6em}
+:root[data-theme="scroll"] #tlfullbody td{border-bottom:1px solid rgba(0,0,0,.08)}
+
+/* ═══════════════ 手機底部功能條（細屏專用）═══════════════ */
+#mbar{display:none!important;position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;z-index:99;
+  background:rgba(12,12,15,.97);border-top:1px solid var(--line);
+  padding:8px 10px calc(8px + env(safe-area-inset-bottom));
+  display:none;justify-content:space-between;align-items:center;gap:6px;
+  box-shadow:0 -6px 24px rgba(0,0,0,.55)}
+:root[data-theme="scroll"] #mbar{background:rgba(250,246,236,.98)}
+#mbar button{background:#33302c;border:1px solid #5c5751;color:#fff;border-radius:11px;
+  padding:0 12px;height:42px;font-size:15px;cursor:pointer;font-family:inherit;min-width:44px}
+#mbar button.on{background:var(--acc);border-color:var(--acc)}
+#mbar .mplay{min-width:64px;font-size:17px}
+#doc{padding-bottom:96px}
+
+@media (max-width:820px){
+.vtlhead{font-size:1rem;letter-spacing:.02em}
+  #rail{display:none}
+  #fabpanel{right:10px;left:10px;min-width:0;width:auto;max-height:68vh;overflow-y:auto;
+    -webkit-overflow-scrolling:touch;padding:14px}
+  #fab{width:54px;height:54px;right:14px}
+  #top{width:44px;height:44px;right:14px}
+  #doc{font-size:calc(var(--fs) + 1px);line-height:var(--lh);padding:16px 14px 96px}
+  #doc p{padding:.35em .5em .75em;margin-bottom:.35em}
+  #doc p.script{padding:1em .9em;margin:1.1em 0}
+  #doc .secMark{font-size:1.3em}
+  #bar{max-height:none;overflow-x:auto}
+  #tcards{grid-template-columns:1fr 1fr;gap:8px}
+  .tcard{padding:10px}
+  #doc details.docTg>summary{padding:14px 13px;font-size:1.02em}
+  #doc .tgBody{padding:6px 12px 14px}
+}
+@media (max-width:430px){
+  #tcards{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* ═══════════════ v9：詳細版大標題（3 倍・粗體・中文毛筆楷體）═══════════════ */
+.detailH{display:block;font-size:2.1rem;font-weight:900;letter-spacing:.14em;color:var(--gold);
+  font-family:"Kaiti SC","STKaiti","KaiTi","楷体","DFKai-SB","Noto Serif CJK TC",serif;
+  margin:28px 0 18px;line-height:1.35;text-shadow:0 2px 12px rgba(0,0,0,.55)}
+.detailH:after{display:none}
+:root[data-theme="scroll"] .detailH{text-shadow:none}
+@media (max-width:820px){.detailH{font-size:2.4rem;letter-spacing:.1em}}
+.aivoice{margin:10px 0 0;font-size:.78rem;color:#7d776f;line-height:1.5}
+
+/* ═══ Urdu 版：時間軸日期欄用巴基斯坦格式（例 16 فروری 2027）═══════════════
+   實測：日期欄唔收窄 → 手機 390px 橫向溢出 → 必須收窄（已保留） */
+#tlfullbody table{font-size:.82rem;line-height:1.68}
+#tlfullbody td{padding:8px 6px}
+#tlfullbody td.nm{width:2.2em}
+#tlfullbody td.st{width:1.8em}
+#tlfullbody td.cu{width:4em}
+#tlfullbody td.dt{font-size:.72rem;width:auto}
+.vtitem{grid-template-columns:104px 26px 1fr}
+.vtitem::before{left:112px}
+.vtdate{font-size:.68rem}
+</style>
+<style>
+/* ★ 純文字版（冇語音）→ 隱藏播放相關 UI */
+body.textonly #playBtn,body.textonly #playBig,body.textonly #vA,body.textonly #vB,
+body.textonly #vSwap,body.textonly #mvoice,body.textonly #mtheme,body.textonly #fvoiceSwap,
+body.textonly #mvoiceA,body.textonly #mvoiceB,body.textonly #vA2,body.textonly #vB2,
+body.textonly .voicegrp,body.textonly .frowVoice,body.textonly #spd,#spdUp,#spdDn,
+body.textonly #loadtxt,body.textonly #loadhint,body.textonly #musicBtn,body.textonly #btnMusic,
+body.textonly #fmusic{display:none!important}
+body.textonly .notonote{display:block!important}
+</style>
+<style>
+/* ═══ Urdu RTL 排版 ═══ */
+html[lang="ur"]{direction:rtl;text-align:right}
+html[lang="ur"] body{font-family:"Noto Nastaliq Urdu","Jameel Noori Nastaleeq","Nafees Nastaleeq","Noto Naskh Arabic",serif;line-height:2.05}
+html[lang="ur"] .tw{display:block;text-align:justify;hyphens:auto}
+html[lang="ur"] .kicker{letter-spacing:0}
+html[lang="ur"] .secMark{direction:rtl}
+html[lang="ur"] input,html[lang="ur"] textarea{direction:rtl;text-align:right}
+html[lang="ur"] #bar .grp{flex-direction:row-reverse}
+html[lang="ur"] .fabpanel{text-align:right}
+</style>
+</head>
+<body class="no-ref onevoice textonly"><div class="notonote" style="display:none;max-width:980px;margin:10px auto 0;padding:9px 13px;border:1px solid rgba(255,255,255,.14);border-radius:9px;font-size:.78rem;line-height:1.6;opacity:.72;text-align:center">یہ صرف متن کا ورژن ہے (اس زبان کے لیے ابھی آڈیو فائل موجود نہیں)۔ متن آڈیو ورژن سے بالکل ایک جیسا ہے۔</div>
+
+<div id="prog"></div>
+
+<!-- ═══════════ HERO ═══════════ -->
+<section id="hero">
+  <canvas id="fx"></canvas>
+  <div id="scan"></div>
+  <div id="vig"></div>
+  <div id="heroIn">
+    <div id="kicker">اپوکالیپس 8:13 · چوتھی شاخ کا اختتام · پانچویں سے پہلے</div>
+    <h1 id="hTitle">تین «افسون»</h1>
+    <div id="hSub">تین «افسون» — پانچویں، چھٹی اور ساتویں شاخ کے لیے</div>
+    <div id="three">
+      <div class="woe" data-w="1"><b>افسون</b><span>پانچویں شاخ · 2027-02-16</span></div>
+      <div class="woe" data-w="2"><b>افسون</b><span>چھٹی شاخ · 2027-06-22</span></div>
+      <div class="woe" data-w="3"><b>افسون</b><span>ساتویں شاخ · 2027-10-26</span></div>
+    </div>
+    <div id="cta">
+      <button class="btn primary big" id="btnStart">▶ سننا شروع کریں</button>
+    </div>
+    <div id="langbar"><a class="lang" href="rev_08_13.html">Cantonese<span class="t">Cantonese</span></a>
+      <a class="lang" href="rev_08_13_zhh.html">Mandarin (Trad.)<span class="t">Mandarin</span></a>
+      <a class="lang" href="rev_08_13_zhs.html">Mandarin (Simp.)<span class="t">Mandarin</span></a>
+      <a class="lang" href="rev_08_13_en.html">English<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_id.html">Indonesia<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_es.html">Español<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_pt.html">Português<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_ko.html">한국어<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_ja.html">日本語<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_ru.html">Русский<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_fr.html">Français<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_it.html">Italiano<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_de.html">Deutsch<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_ar.html">العربية<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_th.html">ไทย<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_uk.html">Українська<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_pl.html">Polski<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_ro.html">Română<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_el.html">Ελληνικά<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_cs.html">Čeština<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_fi.html">Suomi<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_hi.html">हिन्दी<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_nl.html">Nederland<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_vi.html">Việt Nam<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_tr.html">Türkçe<span class="t"></span></a>
+      <a class="lang" href="rev_08_13_fil.html">Pilipinas<span class="t"></span></a>
+      <a class="lang on" href="rev_08_13_ur.html">اردو<span class="t"></span></a></div>
+<p id="fnHint">(نیچے بائیں کونے میں ایک کار کا بٹن ہے۔ اگر فون پر نظر نہیں آ رہا ہو تو صفحے کا سائز چھوٹا کریں)</p>
+    <div id="scrollHint">نیچے · SCROLL</div>
+  </div>
+</section>
+
+<!-- ═══════════ 控制列 ═══════════ -->
+<div id="bar">
+  <div class="vtitle"><span id="barTitle">تین «افسون» · آڈیو آف لائن (اپوکالیپٹک ایڈیشن)</span>
+    <span class="sub" id="barSub">مکمل آف لائن ورژن · آڈیو base64 میں شامل · کوئی نیٹ ورک نہیں</span></div>
+  <div class="row">
+    <span class="grp voicegrp">آواز <button id="vA" title="مرد آواز">خاتون</button><button id="vB" title="مرد آواز">مرد</button>
+      <button id="vSwap" title="آواز بدلیں">⇄</button></span>
+    <span class="grp">پڑھنے کی رفتار <button data-sp="-0.1">−</button><b id="spVal">1.20×</b><button data-sp="0.1">＋</button></span>
+    <span class="grp">آواز کا درجہ <input type="range" id="vol" min="0" max="100" value="90"></span>
+    <span class="grp">فونٹ کا سائز <button data-fs="-1">−</button><b id="fsVal">19</b><button data-fs="1">＋</button></span>
+    <span class="grp">لائن اسپیس <button data-lh="-0.1">−</button><b id="lhVal">1.9</b><button data-lh="0.1">＋</button></span>
+    <span class="grp"><button id="dlTop" title="آف لائن html ڈاؤن لوڈ کریں (اس صفحے کی آف لائن فائل محفوظ کریں)">⬇ آف لائن html ڈاؤن لوڈ کریں</button></span>
+    <span class="grp"><button id="btnMusic" title="مسیحی ماحول کی موسیقی">♫ موسیقی</button>
+      <button id="btnFollow" title="ساتھ پڑھنے کا موڈ">👁 ساتھ پڑھیں</button>
+      <button id="btnTheme" title="تھیم">◐ تھیم</button>
+      <button id="btnSearch" title="تلاش">🔍</button></span>
+  </div>
+</div>
+
+<!--<!-- 時間錨點 · 4 格（Urdu 版）｜日期不變：2020-12-01 / 2024-05-14 / 2027-10-26 / 2027-10-01 -->
+<style>
+.tanchor{--ta:#5ef0ff;max-width:980px;margin:16px auto;padding:14px 16px 12px;
+ border:1px solid rgba(94,240,255,.34);border-radius:12px;position:relative;overflow:hidden;
+ background:linear-gradient(180deg,rgba(8,20,26,.94),rgba(4,10,14,.94));
+ box-shadow:0 0 0 1px rgba(0,0,0,.55),inset 0 0 26px rgba(94,240,255,.09)}
+.tanchor::before{content:"";position:absolute;inset:0;pointer-events:none;
+ background:repeating-linear-gradient(180deg,rgba(94,240,255,.05) 0 1px,transparent 1px 4px)}
+.tanchor::after{content:"";position:absolute;left:0;right:0;top:0;height:2px;
+ background:linear-gradient(90deg,transparent,rgba(94,240,255,.75),transparent)}
+.ta-hd{display:flex;align-items:center;gap:8px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+ font-size:.72rem;letter-spacing:.16em;color:var(--ta)}
+.ta-dot{width:8px;height:8px;border-radius:50%;background:var(--ta);box-shadow:0 0 10px var(--ta);flex:0 0 auto}
+.ta-sub{margin-left:auto;opacity:.5;font-size:.62rem;letter-spacing:.22em}
+.ta-note{font-size:.8rem;line-height:1.6;opacity:.82;margin:7px 0 11px}
+.ta-grid{position:relative;display:grid;grid-template-columns:repeat(auto-fit,minmax(148px,1fr));gap:9px}
+.ta-cell{border:1px solid rgba(94,240,255,.22);border-radius:9px;padding:8px 11px;background:rgba(0,0,0,.4)}
+.ta-k{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.68rem;letter-spacing:.12em;opacity:.75}
+.ta-v{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:700;line-height:1.12;
+ font-size:clamp(1.3rem,5.4vw,2.05rem);color:#eaffff;margin:3px 0 2px;letter-spacing:.01em;white-space:nowrap}
+.ta-v .ta-y{opacity:.68}
+.ta-n{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.7rem;opacity:.6}
+.ta-hot{border-color:rgba(255,96,64,.5);background:rgba(58,12,6,.34)}
+.ta-hot .ta-v{color:#ffddcd}
+.ta-hot .ta-k{color:#ffb59e}
+@media (max-width:420px){
+ .ta-grid{grid-template-columns:repeat(2,1fr)}
+ .ta-v{font-size:1.2rem}
+ .ta-hd{font-size:.66rem;letter-spacing:.1rem}
+ .ta-sub{display:none}
+}
+</style>
+<div class="tanchor" id="tanchor">
+  <div class="ta-hd"><span class="ta-dot"></span>زمانی لنگر · پیمانہ کا حوالہ<span class="ta-sub">TIME ANCHOR</span></div>
+  <div class="ta-note">پہلا کرونا کیس = دانیال کی کتاب کے طریقے کے مطابق ایک سال کے اضافے کے ساتھ → شمار کا آغاز 1 دسمبر 2020 سے۔</div>
+  <div class="ta-grid">
+    <div class="ta-cell"><div class="ta-k">مبدأ</div><div class="ta-v">2020<span class="ta-y">-12-01</span></div><div class="ta-n">حساب کا آغاز</div></div>
+    <div class="ta-cell"><div class="ta-k">1260ویں دن</div><div class="ta-v">2024<span class="ta-y">-05-14</span></div><div class="ta-n">ساڢھ سال</div></div>
+    <div class="ta-cell"><div class="ta-k">2520ویں دن</div><div class="ta-v">2027<span class="ta-y">-10-26</span></div><div class="ta-n">آخری نقطہ</div></div>
+    <div class="ta-cell ta-hot"><div class="ta-k">آخری شاخ</div><div class="ta-v">2027<span class="ta-y">-10-01</span></div><div class="ta-n">اختتام سے 25 دن پہلے</div></div>
+  </div>
+</div>
+-->
+<!-- ═══════════ 時間線 ═══════════ -->
+<section id="tl">
+  <div class="secH">پانچویں شاخ کی چار لائنیں</div>
+  <div class="tlwrap"><div class="tcards" id="tcards"></div></div>
+  <div class="secH">جانور کا نمبر 666</div>
+  <div id="six">
+    <div class="n"><small>اُدھر SRAF</small><b>580</b></div>
+    <div class="op">＋</div>
+    <div class="n"><small>جانور HAYAH</small><b>23</b></div>
+    <div class="op">＋</div>
+    <div class="n"><small>جھوٹا نبی NAVI</small><b>63</b></div>
+  </div>
+  <div id="sixnote">تینوں کو جمع کرنے پر = <em>666</em>، یہ جانور کا نمبر ہے۔<br>
+    اُدھر، جانور، اور جھوٹے نبی — ان تینوں حروفوں کے پہلے حروف الٹ کر دیے جائیں تو بالکل <em>Nachash</em> — مار۔<br>
+    خلق سے مسیح تک ہمیشہ وہی ایک مار رہا ہے۔</div>
+</section>
+
+
+<!-- ═══════════ 正文 ═══════════ -->
+<main id="wrap"><article id="doc"><span class="secMark" data-s="0">آغاز · بغیر پوچھے کر دینا</span>
+<p data-i="0"><span class="tw">سات سال پہلے ایک بات تھی جس پر پوری دنیا خاموشی سے عمل کر رہی تھی۔</span></p>
+<p data-i="1"><span class="tw">شاید تمہیں لگتا ہے کہ یہ بات کوئی اہمیت کی نہیں رکھتی، لیکن سچ یہ ہے کہ اندر دل میں کچھ ناراضی ضرور ہے، مگر تم نے کبھی اسے بیان نہیں کیا۔</span></p>
+<p data-i="2"><span class="tw">اگر سات سال بعد یہی بات پھر سامنے آئے تو کیا تم پھر بھی اسی طرح کرے گے، بغیر پوچھے؟</span></p>
+<p data-i="3"><span class="tw">میں صرف ایک ہی سوال پوچھنا چاہتا ہوں: تمہارا پچھلا «بغیر پوچھے کر دینا» تمہارا اپنا فیصلہ تھا، یا اس وقت کی مجبوری تھی؟</span></p>
+<p data-i="4"><span class="tw">وہ بات کیا تھی، یہ سب کو دل میں معلوم ہے۔ تو ابھی یہ سوچنے کا وقت ہے: کیا زندگی میں کوئی دوسری بات بھی ہے جو اسی طرح ہوتی ہے، جس کے پیچھے سب لوگ بے سوال چل پڑتے ہیں؟</span></p>
+<span class="secMark" data-s="1">سفید گھوڑا ＝ وبا</span>
+<p data-i="5"><span class="tw">بہت سے مسیحی جب پہلی مہر کا ذکر کرتے ہیں تو انہیں لگتا ہے کہ یہ خوشخبری ہے، یا سکون۔ میں بھی سالوں سے یہی مانتا رہا ہوں۔</span></p>
+<p data-i="6"><span class="tw">مگر اگر سفید، سرخ، کالے اور سلیٹی چارو گھوڑے دراصل ایک ہی نظام کے حصے ہوں، تو پہلی مہر کا وہ سفید گھوڑا دوبارہ دیکھنا پڑے گا۔</span></p>
+<p data-i="7"><span class="tw">اسے چار طبقوں میں دیکھا جا سکتا ہے: اگر سفید گھوڑا وبا ہو، تو سرخ گھوڑا جنگ ہے، کالا گھوڑا مسلسل معاشی زوال ہے، اور سلیٹی گھوڑا بار بار آنے والی آپ disaster ہے — یہ سب الگ الگ نہیں، بلکہ ایک ساتھ جمع ہوتے ہیں: تلوار، قحت، پھر ایک نئی وبا، اور جانور کا قتل — یہ سب جمع ہوتا رہے، یہاں تک کہ لوگوں کا چوتھا حصہ مر جائے۔</span></p>
+<p data-i="8"><span class="tw">چار گھوڑے ایک ہی بلاب کے چار مراحل ہیں۔</span></p>
+<span class="secMark" data-s="2">سات دور · وقت کی قیمت</span>
+<p data-i="9"><span class="tw">دانیال کی کتاب کے نمونے سے ملانے پر، بارہ ماہ کی اطلاع کی مدت مکمل ہونے کے بعد «سات دور» کا آغاز ہوتا ہے۔ «سات دور» کا مطلب ہے نبوکنذر سال بادشاہ کا ایک انسان سے جانور بننے کا عمل۔</span></p>
+<p data-i="10"><span class="tw">چونکہ یہ ایک عمل ہے، اس لیے اس میں وقت کی قیمت ہے، جیسے سورج کے اُگنے سے غروب تک۔ ہر لمحے پر کچھ نہ کچھ ہوتا ہے، مگر ہر بار یہ سب جمع ہوتا جاتا ہے۔</span></p>
+<p data-i="11"><span class="tw">یہ ایک منظم ترتیب والی بایبلی کی وضاحت ہے؛ تمام scholars اسے نہیں مانتے۔ مگر اسے دوبارہ دیکھنے کے لیے قابلِ غور ہے۔</span></p>
+<span class="secMark" data-s="3">صفر مریض · تاریخ جانچی جا سکتی ہے</span>
+<p data-i="12"><span class="tw">تاریخ کی جانچ ممکن ہے۔ بی بی سی نے 26 فروری 2020 کو ایک رپورٹ شائع کی جس میں بتایا گیا کہ کرونا وائرس کے «صفر مریض» کی تاریخ کیا تھی۔</span></p>
+<p data-i="13"><span class="tw">رپورٹ میں یہ بھی بتایا گیا کہ پہلا کیس 8 دسمبر کو بخار کے ساتھ شروع ہوا تھا۔</span></p>
+<p data-i="14"><span class="tw">اگر آپ کو دلچسپی ہے تو آپ خود جا کر خبر کی تفصیل دیکھ سکتے ہیں۔</span></p>
+<p data-i="15"><span class="tw">عنوان «پنیومونیا کا پھیلاؤ: «صفر مریض» کی اصل اور طبی سرگرمی» ہے، جو بی بی سی نے چینی زبان میں شائع کیا ہے، تفصیلی لنک صفحے کے آخر میں ہے، کچھ دیر بعد دیکھ سکتے ہیں۔</span></p>
+<p data-i="16"><span class="tw">مواد کچھ یہ ہے: چین نے ورلڈ ہیلتھ آرگنائزیشن کو بتایا کہ ان مریضوں کے ابتدائی علامات ایک دسمبر 2019 کے لیے ہیں۔</span></p>
+<span class="secMark" data-s="4">نتیجہ · ایل نینو کا شیڈول</span>
+<p data-i="17"><span class="tw">ایک پل میں اور یہ 2027 ہے، کبھی کہ بڑے سپر ایل نینو کی طوفانی آفسے کا وقت۔</span></p>
+<p data-i="18"><span class="tw">چھ سال کے واقعات کے اعداد و شمار اور منطقی استنتاج کے مطابق، سپر ایل نینو نومبر کے درمیان سے 2027 کے فروری کے آخر تک رہا، یہ عرصہ دراصل چوتھے سے پانچویں شاخ کی ٹائم لائن سے بالکل مطابقت رکھتا ہے۔</span></p>
+<p data-i="19"><span class="tw">یعنی دنیا کے مکمل طور پر چپپ ڈیجیٹل ہونے کا وقت شاید تقریباً 2027 کے جون کے قریب ہوگا۔</span></p>
+<p data-i="20"><span class="tw">یہ وقت اور واقعات کی ترتیب سے نکالے گئے تخمینے ہیں، اگر دلچسپی ہے تو آپ خود جا کر چیک کر سکتے ہیں۔</span></p>
+<span class="secMark" data-s="5">حوالہ · پیسہ اور عسقلون کی جنگ</span>
+<p data-i="21"><span class="tw">ان میں سب سے بڑا حوالہ یہ ہے کہ 22 اپریل 2024 کو فیسح کی قربانی بند کر دی گئی، جو 7 اکتوبر 2023 کو حماس کے اسرائیل پر حملے کی وجہ سے تھی — جس کی وجہ سے اسرائیلی حکومت نے اُس سال کی فیسح قربانی معطل کر دی، اور یہ کام 2025 میں ہی دوبارہ کیا گیا۔</span></p>
+<p data-i="22"><span class="tw">سات سال پہلے پہلی وبا کے وقت، تقریباً سال ویس کے قریب، اُس سال کی معمول کی قربانی بند ہو گئی۔ سچ میں ایسا ہوا، مگر سچ یہ بھی ہے کہ کوئی نہیں پروا کا، کوئی ردعمل نہیں ہوا۔</span></p>
+<p data-i="23"><span class="tw">تو کیا اس کا مطلب واضح ہے؟</span></p>
+<p data-i="24"><span class="tw">یعنی ہر سال کی فیسح قربانی۔</span></p>
+<p data-i="25"><span class="tw">2023 کی حماس حملے کی وجہ سے 2024 کی قربانی بند کر دی گئی، اور 2025 میں فیسح قربانی کا کام پھر سے کیا گیا۔</span></p>
+<p data-i="26"><span class="tw">حماس کا حملہ حقیقت ہے، 2025 کی قربانی حقیقت ہے، اور 2024 میں قربانی نہ ہونا بھی حقیقت ہے۔</span></p>
+<p data-i="27"><span class="tw">2024 میں کوئی قربانی نہیں ہوئی۔ 2025 کی قربانی صرف مشق تھی، 2025 میں سرخ بچھڑیا جلانا صرف مشق تھی، اور سرخ بچھڑیا میں بھی مختلف رنگ اور خرابی تھی۔</span></p>
+<p data-i="28"><span class="tw">حقائق کو کم کر کے ایک سال دیر سے آگے دھوکہ دی جا سکتی ہے۔</span></p>
+<p data-i="29"><span class="tw">2025 میں ہوئی، 2024 میں نہیں ہوئی، یعنی یہ «cease to» ہے — معطل ہو گیا، پھر جاری رہا۔</span></p>
+<p data-i="30"><span class="tw">قربانی بند ہو گئی، ایک ہزار دو سو دنوں کے بعد، وہ اسرائیل اور ایران کی جنگ ہوگی۔</span></p>
+<p data-i="31"><span class="tw">اور 2027 کے 15 مئی کو، ایک ہزار دو سو دنوں کے بعد والے تین سال کے اختتام کا اگلا دن آئے گا۔</span></p>
+<p data-i="32"><span class="tw">اور 2027 کے کٹائی کے موسم کی تاریخ عین طور 2024 کی طرح ہی ہے۔</span></p>
+<p data-i="33"><span class="tw">یعنی ایک سال بعد جنگ ہو گئی</span></p>
+<p data-i="34"><span class="tw">اور دو سال بعد کے اسی دن، وہ بھی عید سِفٹ اور کٹائی کا موسم ہے۔</span></p>
+<p data-i="35"><span class="tw">خدا نے سات دن میں آسمان و زمین دوبارہ بنائے، یہ ہے یہووا کے سات ایام کے مقابلے، اور عید سِفٹ دو حصوں میں بانٹ گیا ہے — ایک سال آدھا، ساتویں، فصل کا کٹائی، مگر ذخیرہ نہیں کیا گیا۔</span></p>
+<p data-i="36"><span class="tw">اگلی عید سِفٹ تک، فصل کا مال آہستہ آہستہ گودام میں رکھا جاتا رہتا ہے، یہاں تک کہ ذخیرے کا موسم آ جائے۔</span></p>
+<p data-i="37"><span class="tw">یہووا کے سات ایام ہیں (فیسح، بے خمیری، پہلا پکا، اور فصل کے گندم والی عید سِفٹ، شاخون کا بج، یوم کففرہ، اور پائیں کے جمع کرنے والی سکنّت کا موسم، یعنی ذخیرے کا موسم)۔</span></p>
+<p data-i="38"><span class="tw">بہار اور خزاں میں پھیلے ہوئے یہ ایام مسیح کی پیش گوئی ہیں: یسوع مسیح کی موت، قیام، اور روحِ مقدس کا نازل ہونا، تاکہ مسیح کی دوبارہ آمد تک کی فدائے کا منصوبہ۔</span></p>
+<span class="secMark" data-s="6">پہلا وبا · پہلا فیصلہ</span>
+<p data-i="39"><span class="tw">پہلی وبا کا جائزہ لیتے ہیں، «کنٹرول شدہ دوائی» کے تحت، ہر شخص نے پہلا فیصلہ کیا۔</span></p>
+<p data-i="40"><span class="tw">جب دوسرا نیا وبا آئے گا، آپ کیا کریں گے؟</span></p>
+<span class="secMark" data-s="7">جادو ＝ کنٹرول شدہ دوائی</span>
+<p data-i="41"><span class="tw">«کنٹرول شدہ دوائی» یہ اصطلاح۔ اصل مطلب دیکھا تو یہ «جادو» جیسا ہی نکلا۔</span></p>
+<p data-i="42"><span class="tw">اس الفاظی لغت کی وضاحت، the administrating of drugs، لغت میں ایسے ہی ترجمہ ہوتا ہے، یعنی ایک کنٹرول شدہ دوائی۔</span></p>
+<p data-i="43"><span class="tw">مگر پھر بھی اتنے لوگ اتنے ہی متفق کیوں ہو گئے؟</span></p>
+<p data-i="44"><span class="tw">ہر قسم کے ماہرین کی ہدایت، ہر قسم کے سائنس اور تاریخ کے شواہد، سب کہتے تھے کہ محفوظ ہے۔</span></p>
+<p data-i="45"><span class="tw">مگر «سب کہتے تھے» کہ محفوظ ہے، اس کا مطلب یہ نہیں کہ «پوری طرح جانچ لی گئی ہے»۔ سب جانتے ہیں کہ اس وقت کے طبی حالات ابھی بھی ناکافی تھے۔</span></p>
+<span class="secMark" data-s="8">جادو کو کیسے پیش کیا جاتا ہے</span>
+<p data-i="46"><span class="tw">الہام یہ ہے کہ جادو کو ایسے بچانے والی دوائی کے روپ میں پیش کیا جا سکتا ہے۔</span></p>
+<p data-i="47"><span class="tw">پھر اس کے ساتھ کوشش کی جاتی ہے، نیک نیتی سے، بہت سی تحقیق، شواہد اور ماہرین کی رائے شامل کر کے، حتیٰ کہ عالمی سطح پر اتحاد کر کے، رہنمائی اور بڑے بڑے سمت کے ذریعے ایسے کہ جیسے خود فیصلہ کر رہا ہو — مگر جواب کی سطح کو اتنی ہی مضبوطی سے رکھا جائے کہ لوگ اور مسیحی دونوں اس شک کے پر لیکن ہی شک کردہ دوائی کو قبول کر لیں۔</span></p>
+<p data-i="48"><span class="tw">جو بات کہنی ہے وہ یہ ہے: الہام اچانک نہیں آتا،</span></p>
+<p data-i="49"><span class="tw">الہام دنیا کی اُن قدیم روایت میں بھی بہت سال سے چھپا ہو سکتا ہے۔</span></p>
+<p data-i="50"><span class="tw">اور الہام کا ماخذ ہمیشہ سے وہی مار ہے — اُس نے تلوار سے نہیں، منہ سے کام کیا ہے، با，看似 منطقی دلائل سے؛ حوا کے وقت بھی ایسا ہی تھا، عیسی مسیح کے وقت بھی ایسا ہی تھا، مسیحیوں کے ساتھ بھی، اور تمہارے ساتھ بھی — تو کیوں نہ کہے جائے کہ وہ منہ سے تمہیں بھٹکا لے؟</span></p>
+<span class="secMark" data-s="9">دو گواہ · واپسی نہیں</span>
+<p data-i="51"><span class="tw">ایک اور نکتہ ہے، شاید آپ کو غور کرنے کے قابل ہو۔</span></p>
+<p data-i="52"><span class="tw">اگر انجیل دیکھیں تو آپ کو ان دو گواہوں کا ذکر ملے گا جو اللہ کی طرف سے آئے، ان کی ترتیب ان پیارٹی کے کام سے شہادت کے کام تک ہے، تو ٹائم لائن پنچویں شاخ سے چھٹی شاخ کے مرحلے میں ہوتی ہے۔</span></p>
+<p data-i="53"><span class="tw">یعنی اگر کوئی ایسا شخص ہو جو صرف ان دو گواہوں کو دیکھ کر یقین کرے کہ وہ پہلے ہی سات سال کی بڑی آپ disaster میں ہے، تو اُس وقت اُس کے اپنے دل میں یہ سوچ بھی ہو سکتی ہے کہ اب وہ نہیں بچ سکتا، کیونکہ اُس نے ابھی جانور کا نشان، جانور کا نام اور جانور کا عدد قبول کر لیا ہے۔</span></p>
+<p data-i="54"><span class="tw">یہی وہ نکتہ ہے جہاں جاگتے رہنے کی ضرورت ہے: ہر شخص کے دل میں اپنا اپنا معیار ہوتا ہے، اور پرانے مار کا الہام یہ ہے کہ انسان کو یہ لگے کہ جو معیار وہ دیکھنا چاہتا ہے، اُسے ملنے کے بعد وہ وہی چیز مل جائے گی جو وہ چاہتا ہے۔</span></p>
+<p data-i="55"><span class="tw">دیکھنے کے لیے پہلے یقین کرنا پڑے گا کہ آپ بڑی آپ disaster میں ہیں — مگر اُس وقت ہی وہ ہے جب واپسی ممکن نہ رہے۔</span></p>
+<p data-i="56"><span class="tw">چاہے تیسرا گھر ہو، چاہے ضد مسیح اُس میں کھڑا ہو کر فخر سے باتیں کرے، چاہے دو گواہ ہوں۔</span></p>
+<p data-i="57"><span class="tw">اگر آپ جانتے ہیں کہ بہت سے لوگ ایسا سوچیں گے، تو دشمن کیسے یہ جال بچھائے گا کہ لوگوں کو بھول جائیں؟</span></p>
+<p data-i="58"><span class="tw">تاکہ بہت سے لوگ شہر کے دروازے سے باہر رہ جائیں، اور آخری لمحے میں ہی جانیں کہ وہ شہر میں داخل نہیں ہو سکتے؟</span></p>
+<span class="secMark" data-s="10">کھلا راستہ، تنگ راستہ · شکل دی ہوئی ایمان</span>
+<p data-i="59"><span class="tw">دنیا میں ہمیشہ بہت سے راستے ہوتے ہیں، اور پولس نے کہا «اس دنیا کا پیرو نہ کرو، بلکہ اپنے دل کی تبدیلی سے بدل جاؤ» — سوچو، کیا یہ بات ان غیر مسیحیوں کے لیے کہی گئی ہے جو ابھی ایمان نہیں لائے، یا اُن اسرائیلیوں کے لیے جو پہلے ہی ایمان لائے چکے ہیں؟</span></p>
+<p data-i="60"><span class="tw">اگر آپ نے یہ سب سنتے ہیں تو آپ کو شاید کچھ سوچنا پڑے: کیا پوری کلیس کو کوئی مسئلہ ہے؟ یا شاید میں نے ہی کوئی بدھرت کا منظر دیکھ لیا ہے؟ کیا کروں؟ اور ایسے ہی۔</span></p>
+<span class="secMark" data-s="11">پرانا نیا عہد · نسل کی ثقافت</span>
+<p data-i="61"><span class="tw">سوچیے: پرانے نیا عہد کے وقت بھی، بایبل نے ہمیں پہلے ہی بتا دیا تھا کہ اُس وقت کے رسوم اور ثقافت کا کام یہ ہے کہ مسیح کو انکار کیا جائے اور مسیحیوں پر ظلم کیا جائے۔</span></p>
+<p data-i="62"><span class="tw">مسیح زمین پر تھا تو یہی حال تھا؛ پولس غیر یہودیوں اور اسرائیلیوں کے درمیان تھا تو بھی یہی حال تھا۔ کیا نہیں؟</span></p>
+<p data-i="63"><span class="tw">اور اب بھی با superficially convincing دلیلوں کے ذریعے، ایک formatted طریقے سے، ایسے مکمل طور پر قبول کیے گئے نظریات کے ذریعے لوگوں کو سویا رہنے دی جا سکتی ہے — اور جب معاملہ اچانک ظاہر ہو جائے، تب شاید بہت دیر ہو چکی ہو۔</span></p>
+<p data-i="64"><span class="tw">پرانے عہد میں، اسرائیلیوں کا بائبل کا理解 بالکل اللہ کی مراد نہیں تھا۔</span></p>
+<p data-i="65"><span class="tw">اسی طرح نئے عہد میں، گھر کے خادم کا نقطۂ نظر اتنا واضح کیوں ہے؟ یہ اللہ کی مراد ہے — کون کہتا ہے؟</span></p>
+<p data-i="66"><span class="tw">انسانی علم اور تجربے پر قائم ایک academic نظام کی تعمیرات سے؟</span></p>
+<p data-i="67"><span class="tw">تو کیا اس کا مطلب ہے کہ پرانوں کی وراثت پوری ہو گئی؟ اور ساتھ ہی [مرکی 7:7] انہوں نے لوگوں کے احکام کو شریعت بنا کر پڑھایا، تو مجھے بھی بے فائدہ عبادت کرنی پڑے گی۔</span></p>
+<p data-i="68"><span class="tw">اگر آج کا علم واقعی اللہ کی اصل مراد سے مختلف ہے، تو اگر کچھ ہو جائے تو اس کی ذمہ داری کون لے گا؟ وہ شخص جو انتخاب اور فیصلہ کرے — یعنی آپ خود۔</span></p>
+<p data-i="69"><span class="tw">یعنی اگر آپ عمومی سمت پر چلے، مگر آخر میں غلط ہو گئے، تو اس کا نتیجہ آپ ہی سنبھالیں گے — کیا یہ سودا نہیں ہے؟</span></p>
+<p data-i="70"><span class="tw">اُس وقت کے رسوم اور ثقافت۔ شاید یہ وہ نہیں جو بایبل میں کہا گیا ہے۔</span></p>
+<p data-i="71"><span class="tw">مسیح زمین پر تھا تو پولس غیر یہودیوں اور اسرائیلیوں کے درمیان تھا، یہی حالات تھا۔</span></p>
+<p data-i="72"><span class="tw">مسیحیوں کو تو دنیا کے اندر رہ کر پاک الگ ہونا ہی تھا — سوچو، کیا اس میں formatted ہو چکا ایمان شامل ہے؟</span></p>
+<span class="secMark" data-s="12">تین افسون · ٹائم لائن</span>
+<p data-i="73"><span class="tw">سچ میں سوچنا ضروری ہے، کیونکہ ٹائم لائن کے مطابق تقریباً اب وہ وقت آ رہا ہے جب وہ کی آواز کے ساتھ تین «افسون» — ایک عقاب آسمان میں اڑتا ہوا چیخا، «افسون افسون افسون»۔</span></p>
+<p data-i="74"><span class="tw">یہ تین قسم کی آپ disasters نہیں، ایک ٹائم لائن کے تین نقاط ہیں: پانچویں، چھٹی اور ساتویں شاخ۔</span></p>
+<p data-i="75"><span class="tw">اور پانچویں شاخ میں ابھی بھی چار لائنیں ہیں، سب سے پہلی کا تخمینہ 16 فروری 2027 کا ہے۔</span></p>
+<p data-i="76"><span class="tw">آپ کو کچھ تناقضات سوچنے کی دی ہو سکتی ہیں — ضد مسیح نظر نہیں آیا، سبز چرا نہیں جلایا گیا، ذکر کردہ آپ disasters کوئی نظر نہیں آئے، تیسرا گھر ابھی نہیں بنا، تو میں کیسے مان سکتا ہوں کہ یہ بڑی آپ disaster ہے؟</span></p>
+<p data-i="77"><span class="tw">کلیس تو واضح طور پر کہتی ہے کہ pre-tribulation rapture ہے، کلیس مانے ہی نہیں لیتی کہ ہم آخر وقت میں ہیں، نہ ان چیزوں کا ذکر کرتی ہے — ہمیشہ missionary، خدمت، اور قدیسیوں کی زندگی کی بات کرتے رہے۔</span></p>
+<p data-i="78"><span class="tw">بس یہی ہے: جب سے یہ ہوا ہے تک، سات سال قریب ہو چکے ہیں، بہت سے لوگوں نے ایک سات سال سے نظرانداز کیا اور انکار کیا۔</span></p>
+<p data-i="79"><span class="tw">اگر سلیٹی گھوڑے کے وقت دنیا بھر میں اچانک لوگوں کا چوتھا حصہ مر جائے، اور خبر بھی شائع کی جائے، تو شاید پوری دنیا کو پتا چل جائے کہ ہاں، یہ تو انکشاف کی سات سال کی بڑی آپ disaster ہے، عجب بات ہے!</span></p>
+<p data-i="80"><span class="tw">تو ایسے میں تو لوگ شاید ذرا آرام محسوس کریں — کیونکہ انہیں معلوم ہو جائے گا کہ «اب ہو گیا»۔</span></p>
+<p data-i="81"><span class="tw">مگر کیا یہ صورتحال مسیح کی یہ ہدایت کے بالکل الٹ نہیں ہے کہ «جاگتے رہو، اپنے کپڑے بچاؤ»؟</span></p>
+<p data-i="82"><span class="tw">یعنی جتنے زیادہ واضح ہو آخری وقت کی حالت، دنیا اتنی ہی زیادہ لوگوں کو ہلپا دینے کی کوشش کرے گی کہ وہ ان چیزوں پر توجہ نہ دیں، ہمیشہ تشریحات ہوں، ہمیشہ لفظوں کا جادو ہوتا رہے۔</span></p>
+<span class="secMark" data-s="13">جاگتے رہو · آج کا انتخاب</span>
+<p data-i="83"><span class="tw">مسیح کی نیا دلیا، جاگتے رہنا، کپڑے بچانا، اور دنیا کی معمولی زندگی میں رہتے ہوئے اس کا پیرو نہ کرنا، بلکہ دل کی تبدیلی سے بدل جانا — یہ سب کیوں؟</span></p>
+<p data-i="84"><span class="tw">کیونکہ ایمان کی بڑی راہ پر ضرور ہی ایسی باتیں موجود ہیں جو لوگوں کو ٹھکرا دیتی ہیں، اور اگر محتاط نہ رہے تو تنگ راستے پر چلے جاتے ہیں۔</span></p>
+<p data-i="85"><span class="tw">ایسا ہوتا ہے کہ آپ دنیا کا پیرو کرتے رہیں، دنیا کی قید میں رہیں، مختلف لوگوں کے احکام ماننے کی عادت پیدا کر لیں، اور آخر میں ایمان میں گنوا دیا گیا ہو۔</span></p>
+<p data-i="86"><span class="tw">اس کے برعکس، ابھی جو دن پُرامنی ہے، روزانہ اللہ کے لیے جینا سیکھیے — انسانوں کے احکام اور پرانوں کی وراثت کے لیے نہیں — تو کیوں اپنے آپ کو formatted طریقے میں جینے دیں؟</span></p>
+<p data-i="87"><span class="tw">جب واقعی آخری وقت آ جائے، تو میں وہی کروں گا جو کلیس نے کہا تھا؟</span></p>
+<p data-i="88"><span class="tw">تو کیا اس کا مطلب یہ ہے کہ میں انکشاف کو بالکل نہیں مانتا، میں صرف وہی حصہ مانتا ہوں جو میں ماننا چاہتا ہوں؟</span></p>
+<p data-i="89"><span class="tw">یہ تو بالکل عام ہے، اور بہت پھیلا ہوا ہے۔</span></p>
+<p data-i="90"><span class="tw">مگر مسیحیوں کو، ہم جانیں کہ ہم اللہ کے ہیں، اور پوری دنیا اس شریر کی طاقت کے تحت ہے۔</span></p>
+<p data-i="91"><span class="tw">یعنی وہ چیز جو مجھے ابھی کہہ رہی ہے، وہ کبھی سے موجود تھی، ہمارے موجودہ ایمان کے نظام کے اندر۔</span></p>
+<p data-i="92"><span class="tw">آپ خود سنجیدگی سے بتائیے: کلیس میں کتنے مسائل ہمیشہ سے موجود رہے ہیں جو کبھی سامنے نہیں آئے؟</span></p>
+<p data-i="93"><span class="tw">یاد رکھیے، ہم زمین پر صرف مہمان ہیں، اس لیے «جاگتے رہو» کا مطلب یہ نہیں کہ ڈر جائیں، یا کلیس کے بارے میں کچھ کہیں۔</span></p>
+<p data-i="94"><span class="tw">بلکہ یہ ہے کہ جب «سب یہی کرتے ہیں» تو آپ رُک کر خود واضح دیکھیں۔</span></p>
+<p data-i="95"><span class="tw">سونا نہیں مطلب یہ ہے کہ یقین نہیں۔ سونا یہ ہے کہ یقین تو ہو گیا، مگر جاگ نہیں گئے۔ کیوں نہیں جاگے؟</span></p>
+<p data-i="96"><span class="tw">کیونکہ خود نظام کی سیٹنگ ہی یہ ہے کہ لوگ جاتے رہیں، جیسے اسرائیلی فاریسیوں کی ثقافت میں سو گئے تھے؛ اور غیر یہودیوں کے طور پر ہمیں بھی ایسی ہی صورتحال ہونی چاہیے۔</span></p>
+<p data-i="97"><span class="tw">حالانکہ بالکل واضح ہے، آپ کو دل سے سمجھ آنا چاہیے، مگر بہت سے لوگ نہیں سمجھ پاتے — یہی نظام اور formatted طریقے کا اثر ہے، جس نے اسرائیلیوں کو مسیح دکھا دیا، بہت سے معجزات بھی دکھا دیے، پھر بھی یقین نہیں کرنا چاہا۔</span></p>
+<p data-i="98"><span class="tw">اور جو جاگ گیا، اس کا مطلب یہ نہیں کہ وہ زیادہ جانتا ہے یا خاص طور پر ہوشیار ہے۔ جاگنے والا بس یہ ہے کہ دوبارہ نہیں سوتا، ⏎ دیکھیے آموس کی کتاب، کیا آپ اُس وقت کا اُسا دل محسوس کر سکتے ہیں؟</span></p>
+<p data-i="99"><span class="tw">آپ کی سنجیدگی سے سوچیے، انکشاف کی کلیسیں کیسے آج کی کلیس سے ملتی ہیں؟</span></p>
+<p data-i="100"><span class="tw">اس زندگی اور ابدیت، ⏎ جاگتے اور سو جائے،</span></p>
+<p data-i="101"><span class="tw">علم کا خاتمہ ہونے والا ہے، ⏎ زبانوں کی بول چال ختم ہونے والی ہے۔</span></p>
+<p data-i="102"><span class="tw">ہمیں مسیح کی دوبارہ آمد کا استقبال کس چیز کے ساتھ کرنا چاہیے؟</span></p>
+<p data-i="103"><span class="tw">اور آپ، آج ہی، خود کو جگا سکتے ہیں۔</span></p>
+<p data-i="104"><span class="tw">آپ ایک کام کر سکتے ہیں۔</span></p>
+<p data-i="105"><span class="tw">کوئی ایسا سوال لکھیے جو آپ نے کبھی اپنے سے نہیں پوچھا۔</span></p>
+<p data-i="106"><span class="tw">مثلاً: کیا میں یہ اس لیے مانتا ہوں کہ میں نے جانچ لی ہے، یا اس لیے کہ سب مانتے ہیں؟</span></p>
+<p data-i="107"><span class="tw">میں نے تو شروع انکشاف کے اندر سے ہی یہ جاننا چاہا تھا کہ «جادو» یہ لفظ کس چیز کی طرف اشارہ کر رہا ہے۔</span></p>
+<p data-i="108"><span class="tw">کوئی ایک کہاوت چنیے جو آپ نے سنا ہے، اور ایک بار اس کی جانچ کریں۔ ایک لنک، ایک رپورٹ، ایک رسالہ — کچھ بھی ہو سکتا ہے۔</span></p>
+<p data-i="109"><span class="tw">Pre-tribulation rapture ایک بہت اچھا مثال ہے: مسیح نے کہا «میں تمہارے ساتھ ہوں گا یہاں تک کہ دنیا کا آخر ہو جائے»، اور یہ بھی کہا کہ دنیا کا آخر فصل کا کٹائی ہے، فصل کا کٹنے والا فرشتے ہیں، یعنی آخری شاخ کی سیٹی سے پہلے، کلاشی کے وقت۔ تو آخر کیا ہے: مرحلہ وار رفتے، pre-tribulation، mid-tribulation، post-tribulation؟ کوئی rapture ہی نہیں؟ یا جیسا کہ بایبل صاف لکھتی ہے، آخری شاخ کی سیٹی اور مسیح کی آمد کے وقت؟ جو کہ کالے اور سفید پر Papers پر لکھا ہے وقت، ترتیب اور وضاحت — مگر نسل در نسل میں اس کا مطلب ایسے نچوڑا جا سکتا ہے جیسے کپڑے کو نچوڑا جاتا ہے، بار بار نچوڑا جاتا ہے، یہاں تک کہ اس میں نہ پانی رہے، نہ دل کو بھار نہ رکھے۔ کیا ایسا نہیں؟</span></p>
+<p data-i="110"><span class="tw">اگر پڑھنے کے بعد یہ آپ کے پہلے والے خیال سے مختلف نکلے، تو مبارک ہو، آپ نے آج ایک قدم آگے بڑھا لیا۔</span></p>
+<p data-i="111"><span class="tw">آپ کو اوپر دی گئی ہر کوئی نتیجہ قبول کرنے کی ضرورت نہیں۔ موجودہ نتیجہ بھی غلط ہو سکتا ہے — صفر مریض کی تاریخ پر آج بھی طبی دنیا میں بحث ہے۔</span></p>
+<p data-i="112"><span class="tw">مگر ایک بات قطعی ہے: ⏎ آپ نے آج یہ چند منٹ پڑھے ہیں، اور آپ نے وہ کام کر لیا ہے جو بہت سی کلیسیں مومنتاہ کہہ نہیں کرتیں — ⏎ آپ خود اصل متن ایک بار دیکھنے کی جرأت کی۔</span></p>
+<p data-i="113"><span class="tw">ہر اُس مسیحی کو، جو نجات اور ابدی حیات کی امید رکھتا ہے، اپنی نجات کی ذمہ داری سنبھالنی اور نگہبانی کرنی ہے — کیوں ضروری ہے کہ اس کے لیے ایک واسطہ گزرے، جبکہ وہ واسطہ خود مسیح نہیں ہے؟</span></p>
+<p data-i="114"><span class="tw">امید ہے کہ ہم سب اللہ کے انعام اور رحم پر یقین رکھیں، ہمیشہ ہمارے ساتھ رہیں، یہاں تک کہ دنیا کا آخر ہو جائے۔ آمین۔</span></p>
+<p data-i="115"><span class="tw">یا رب یسوع مسیح آپ کو برکت دے، ⏎ آپ کا دل اور سوچیں محفوظ رکھے، ⏎ تاکہ آپ ہمیشہ اُس کی رحم میں رہیں، ⏎ ہمیشہ آپ کے ساتھ رہے، یہاں تک کہ دنیا کا آخر ہو جائے، ⏎ آپ کی رہنمائی کرے، یہاں تک کہ مسیح کی دوبارہ آمد کا دن آ جائے، ⏎ آمین۔</span></p></article></main>
+
+<!-- ═══════════ 另一種解法（稿末 aside，獨立於主段，唔拖累主段專注力）═══════════ -->
+<section id="asideBox">
+  <div class="secH">دوسرا مؤویہ · ایک ہی متن کا دوسرا مطالعہ</div>
+  <div id="asidebody"></div>
+</section>
+
+<!-- ═══════════ 整條時間軸（126 數據層，獨立區，唔入主段；已取消摺起）═══════════ -->
+<section id="tlfullsec">
+  <div class="secH">مکمل ٹائم لائن · آخری شاخ (2019 → 2028)</div>
+  <div class="tlrow"><a class="btn" href="#tlfullbody">⏱ مکمل ٹائم لائن (66 اندراجات)</a></div>
+  <div class="anchors">
+    <div class="anch-t">دباوہ شدہ نگاہ کے اہم نقطے</div>
+    <div class="anch-s">پہلے کرونا کیس میں، دانیال کے طریقے پر ایک سال کا اضافہ کرنے کا نقطۂ نظر</div>
+    <p class="anch-l">📍 مبدأ 20201201 (حساب کا آغاز)｜<br>1260ویں دن = 20240514｜<br>2520ویں دن = 20271026｜<br>آخری شاخ = 20271001 ｜(اختتام سے 25 دن پہلے)</p>
+  </div>
+  <div class="vtlwrap">
+    <div class="vtlhead">ٹائم لائن کے اہم نقطے · اوپر سے نیچے (دباوہ شدہ)</div>
+    <div id="vtl"><div class="vtitem"><div class="vtdate">20191201</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">سفید گھوڑا · پہلا کرونا کیس</div><div class="vtsub">وہان میں کرونا-19 کا پہلا爆发</div><div class="vtcum">کل −366</div></div></div>
+<div class="vtitem"><div class="vtdate">20201201</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">شمار کا آغاز · 12 ماہ کی اطلاع کی مدت ختم</div><div class="vtsub">دانیال کے طریقے کے مطابق سفید گھوڑا شمار کرنا شروع کرتا ہے</div><div class="vtcum">کل 0</div></div></div>
+<div class="vtitem"><div class="vtdate">20220224</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">سرخ گھوڑا · روسیا–یوکرین کی جنگ</div><div class="vtcum">کل +450</div></div></div>
+<div class="vtitem"><div class="vtdate">20230405</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">کالا گھوڑا · پیسہ</div><div class="vtsub">اسرائیلی مصر کا سونا لے لیتے ہیں؛ مصر معاشی زوال میں چلی جاتا ہے</div><div class="vtcum">کل +855</div></div></div>
+<div class="vtitem"><div class="vtdate">20231007</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">حماس نے اسرائیل پر حملہ کیا</div><div class="vtsub">عسقلون کی جنگ کا سیلاب</div><div class="vtcum">کل +1040</div></div></div>
+<div class="vtitem"><div class="vtdate">20231231</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">سلیٹی گھوڑا · نوتو جزیرے کا زلزلہ</div><div class="vtsub">اعداد میں تبدیل کرنے پر مطلب اولمپک ہے (پیرس)</div><div class="vtcum">کل +1125</div></div></div>
+<div class="vtitem"><div class="vtdate">20240422</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">سرخ بچھڑیا کی پیسہ قربانی بند</div><div class="vtsub">پیسہ قربانی بند (دن 11:31 کا واقعہ؛ ترتیب درست ہے)</div><div class="vtcum">کل +1238</div></div></div>
+<div class="vtitem"><div class="vtdate">20240514</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">ایک سال اور سات دہائیاں · اسرائیل کا آزادی کا دن</div><div class="vtsub">1260ویں دن</div><div class="vtcum">کل +1260</div></div></div>
+<div class="vtitem"><div class="vtdate">20250107</div><div class="vtdot">🔢</div><div class="vtcard"><div class="vttitle">چھٹی مہر سے باہی مراجعہ</div><div class="vtsub">تبت کا زلزلہ + جنوبی کیلیفورنیا کی آگ (Ap 6:12)</div><div class="vtcum">کل +1498</div></div></div>
+<div class="vtitem"><div class="vtdate">20250701</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">سرخ بچھڑیا قربان کی اور جلائی گئی</div><div class="vtsub">90 دن ایک دن گن کے برابر، یعنی ایک سال</div><div class="vtcum">کل +1673</div></div></div>
+<div class="vtitem"><div class="vtdate">20260228</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">ایران پر حملہ · سب سے بڑا نقطۂ تلاقی</div><div class="vtsub">خون میں ملی آگ = تیل</div><div class="vtcum">کل +1915</div></div></div>
+<div class="vtitem"><div class="vtdate">20270318</div><div class="vtdot">🔭</div><div class="vtcard"><div class="vttitle">تین افسون · دوسری لائن</div><div class="vtsub">زمین کے باشندوں پر افسون</div><div class="vtcum">کل +2298</div></div></div>
+<div class="vtitem"><div class="vtdate">20270409</div><div class="vtdot">🔭</div><div class="vtcard"><div class="vttitle">تین افسون · 580ویں beat</div><div class="vtsub">تباہی اسرائیل سے دوسرے قوموں تک پھیلتی ہے</div><div class="vtcum">کل +2320</div></div></div>
+<div class="vtitem"><div class="vtdate">20270502</div><div class="vtdot">🔭</div><div class="vtcard"><div class="vttitle">تین افسون · تیسری لائن</div><div class="vtsub">جانور کا نمبر مکمل طور پر نافذ</div><div class="vtcum">کل +2343</div></div></div>
+<div class="vtitem"><div class="vtdate">20271001</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">بوق کے میلے سے پہلے</div><div class="vtsub">20260228 سے 580 دن = اُدھر کا نمبر</div><div class="vtcum">کل +2495</div></div></div>
+<div class="vtitem"><div class="vtdate">20271002</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">آخری شاخ · بوق کا میلہ 5788</div><div class="vtsub">(ساتویں شاخ) 6000 − 212 سال</div><div class="vtcum">کل +2496</div></div></div>
+<div class="vtitem"><div class="vtdate">20271026</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">لंگر · 2520</div><div class="vtsub">7 × 360</div><div class="vtcum">کل +2520</div></div></div>
+<div class="vtitem"><div class="vtdate">20271226</div><div class="vtdot">✅</div><div class="vtcard"><div class="vttitle">ہنوکا 5788</div><div class="vtsub">+666</div><div class="vtcum">کل +2581</div></div></div></div>
+  </div>
+  <div class="secH detailH">(نگاہ کے اہم نقطے · تفصیلی پینل)</div>
+  <div id="tlfullbody"><table><thead><tr><th>#</th><th>حالت</th><th>کل</th><th>تاریخ</th><th>واقعہ</th></tr></thead><tbody>
+<tr><td class="nm">1</td><td class="st">✅</td><td class="cu">−366</td><td class="dt">20191201</td><td>🐴 (سفید گھوڑا) پہلا کرونا وبا</td></tr>
+<tr><td class="nm">2</td><td class="st">✅</td><td class="cu">0</td><td class="dt">20201201</td><td>📍 12 ماہ کی اطلاع کی مدت ختم؛ دانیال کے ماڈل کے مطابق (سفید گھوڑا) شمار کرنا شروع کرتا ہے</td></tr>
+<tr><td class="nm">3</td><td class="st">✅</td><td class="cu">+450</td><td class="dt">20220224</td><td>🐴 (سرخ گھوڑا) روسیا–یوکرین کی جنگ شروع</td></tr>
+<tr><td class="nm">5</td><td class="st">✅</td><td class="cu">+855</td><td class="dt">20230405</td><td>🐴 (کالا گھوڑا) / پیسہ / اسرائیلی مصر کا سونا لے لیتے ہیں؛ مصر معاشی زوال میں چلی جاتا ہے</td></tr>
+<tr><td class="nm">6</td><td class="st">✅</td><td class="cu">+1040</td><td class="dt">20231007</td><td>(دن 11:31 کا واقعہ) — حماس اسرائیل پر حملہ کرتا ہے؛ عسقلون کی جنگ کا سیلاب</td></tr>
+<tr><td class="nm">7</td><td class="st">✅</td><td class="cu">+1125</td><td class="dt">20231231</td><td>🐴 (سلیٹی گھوڑا) نوتو جزیرے کا زلزلہ؛ اعداد میں تبدیل کرنے پر مطلب اولمپک ہے (پیرس)</td></tr>
+<tr><td class="nm">8</td><td class="st">✅</td><td class="cu">+1238</td><td class="dt">20240422</td><td>🐄 (ایک سال اور سات دہائیاں) — سرخ بچھڑیا کی پیسہ قربانی بند کر دی گئی، (دن 11:31 کے واقعے کی وجہ سے، اور ترتیب درست ہے)</td></tr>
+<tr><td class="nm">9</td><td class="st">✅</td><td class="cu">+1260</td><td class="dt">20240514</td><td>(ایک سال اور سات دہائیاں) اسرائیل کا آزادی کا دن</td></tr>
+<tr><td class="nm">10</td><td class="st">✅</td><td class="cu">+1290</td><td class="dt">20240613</td><td>(ایک سال اور سات دہائیاں) سترہویں سالگرہ کے بعد کا دن (دن 12:11)</td></tr>
+<tr><td class="nm">11</td><td class="st">✅</td><td class="cu">+1333</td><td class="dt">20240726</td><td>پیرس اولمپک کا افتتاح (1335 میں سے دو گواہوں کا نمبر)</td></tr>
+<tr><td class="nm">12</td><td class="st">✅</td><td class="cu">+1386</td><td class="dt">20240917</td><td>(پانچویں مہر) پہلی Mpox ویکسینیشن (monkeypox کو Mpox کہا گیا؛ Mpox نمبر 440 ہے، یعنی ضد مسیح کا نمبر)</td></tr>
+<tr class="calc"><td class="nm">13</td><td class="st">🔢</td><td class="cu">+1498</td><td class="dt">20250107</td><td>(چھٹی مہر) تبت کا زلزلہ + جنوبی کیلیفورنیا کی آگ (چھٹی مہر سے مطابقت، Ap 6:12) (سورج بھاٹ کی طرح کالا، چاند خون کی طرح سرخ)</td></tr>
+<tr><td class="nm">14</td><td class="st">✅</td><td class="cu">+1512</td><td class="dt">20250121</td><td>امریکہ کے صدر نے عہد سنبھالا</td></tr>
+<tr><td class="nm">15</td><td class="st">✅</td><td class="cu">+1583</td><td class="dt">20250402</td><td>لبریشن ڈے: ٹیف کا اعلان</td></tr>
+<tr><td class="nm">16</td><td class="st">✅</td><td class="cu">+1588</td><td class="dt">20250407</td><td>ٹیف نافذ ہوتے ہیں (20250107 کے 90 دن بعد کے خیال سے مطابقت)</td></tr>
+<tr class="calc"><td class="nm">17</td><td class="st">🔢</td><td class="cu">+1590</td><td class="dt">20250409</td><td>(دوسری خاموشی) ٹیف معطل (دوسری خاموشی = 90 دن)</td></tr>
+<tr class="calc"><td class="nm">18</td><td class="st">🔢</td><td class="cu">+1596</td><td class="dt">20250415</td><td>پیسہ (ایک سال − 30 دن = 1290-1260 کا آئینہ)</td></tr>
+<tr class="calc"><td class="nm">19</td><td class="st">🔢</td><td class="cu">+1626</td><td class="dt">20250515</td><td>لاگ باؤمر (آگ کا میلہ) (جھوٹے مسیح کا میلہ)</td></tr>
+<tr class="calc"><td class="nm">20</td><td class="st">🔢</td><td class="cu">+1655</td><td class="dt">20250613</td><td>(ایک سال) اٹھتا شیر (1290 دن کے بعد؛ سلیٹی گھوڑے کی تلوار؛ بعینہٖ ایک سال بعد ایران کی جنگ شروع)</td></tr>
+<tr><td class="nm">21</td><td class="st">✅</td><td class="cu">+1673</td><td class="dt">20250701</td><td>🐄 سرخ بچھڑیا قربان کی اور جلائی گئی (90 دن ایک دن گن کے برابر، یعنی ایک سال)</td></tr>
+<tr><td class="nm">22</td><td class="st">✅</td><td class="cu">+1679</td><td class="dt">20250707</td><td>🐄 سرخ بچھڑیا کے رسام کا مکمل اعلان (دوسری خاموشی کا آئینہ: 90 دن کے بعد 90 دن)</td></tr>
+<tr class="calc"><td class="nm">23</td><td class="st">🔢</td><td class="cu">+1680</td><td class="dt">20250708</td><td>🐄 سرخ بچھڑیا کے رسام کا اعلان (7.5 دن × 12 قبیلے = 90، پھر × 12 شاگرد)</td></tr>
+<tr><td class="nm">24</td><td class="st">✅</td><td class="cu">+1690</td><td class="dt">20250718</td><td>GENIUS Act</td></tr>
+<tr><td class="nm">25</td><td class="st">✅</td><td class="cu">+1700</td><td class="dt">20250728</td><td>اقوام متحدہ کا دو ریاستوں کا کانفرنس</td></tr>
+<tr><td class="nm">26</td><td class="st">✅</td><td class="cu">+1746</td><td class="dt">20250912</td><td>فلسطین کی قیام کے بارے میں ووٹ</td></tr>
+<tr><td class="nm">27</td><td class="st">✅</td><td class="cu">+1751</td><td class="dt">20250917</td><td>TikTok کا معاہدہ</td></tr>
+<tr><td class="nm">28</td><td class="st">✅</td><td class="cu">+1756</td><td class="dt">20250922</td><td>بوق کا میلہ 5786 / کئی ممالک فلسطین کی ریاست کو تسلیم کرتے ہیں</td></tr>
+<tr><td class="nm">29</td><td class="st">🔭</td><td class="cu">+1758</td><td class="dt">20250924</td><td>فلسطین کی ریاست کی قیام</td></tr>
+<tr><td class="nm">30</td><td class="st">✅</td><td class="cu">+1835</td><td class="dt">20251210</td><td>Southern Spear کارروائی کا آغاز</td></tr>
+<tr><td class="nm">31</td><td class="st">✅</td><td class="cu">+1873</td><td class="dt">20260117</td><td>گرین لینڈ کا بحران (گرین لینڈ کا نمبر 111:666 ہے)</td></tr>
+<tr><td class="nm">32</td><td class="st">✅</td><td class="cu">+1899</td><td class="dt">20260212</td><td>UFO پر ایگزیکٹو آرڈر</td></tr>
+<tr><td class="nm">33</td><td class="st">✅</td><td class="cu">+1914</td><td class="dt">20260227</td><td>McCasland غائب ہو گیا</td></tr>
+<tr><td class="nm">34</td><td class="st">✅</td><td class="cu">+1915</td><td class="dt">20260228</td><td>⚔️ ایران پر حملہ (سب سے بڑا نقطۂ تلاقی؛ خون میں ملی آگ = تیل)</td></tr>
+<tr class="calc"><td class="nm">35</td><td class="st">🔢</td><td class="cu">+1961</td><td class="dt">20260415</td><td>(دو سال) ہرمز کے تنگے کا بند ہونا</td></tr>
+<tr><td class="nm">36</td><td class="st">✅</td><td class="cu">+1984</td><td class="dt">20260508</td><td>PURSUE UFO ویب سائٹ آن لائن</td></tr>
+<tr><td class="nm">37</td><td class="st">✅</td><td class="cu">+1998</td><td class="dt">20260522</td><td>UFO فائلوں کا دوسرا بیچ جاری</td></tr>
+<tr><td class="nm">38</td><td class="st">✅</td><td class="cu">+2015</td><td class="dt">20260608</td><td>🌊 میناحاسہ کا بڑا زلزلہ</td></tr>
+<tr><td class="nm">39</td><td class="st">🔭</td><td class="cu">+2016</td><td class="dt">20260609</td><td>تیسرا مشاہدہ کا کھڑکا</td></tr>
+<tr class="calc"><td class="nm">40</td><td class="st">🔢</td><td class="cu">+2020</td><td class="dt">20260613</td><td>(دو سال) دو سال کی نشانی + امریکا–ایران معاہدۂ امن</td></tr>
+<tr><td class="nm">41</td><td class="st">✅</td><td class="cu">+2021</td><td class="dt">20260614</td><td>(دو سال) امریکا–ایران معاہدۂ امن کی متوقع دستخطی تاریخ</td></tr>
+<tr><td class="nm">42</td><td class="st">✅</td><td class="cu">+2041</td><td class="dt">20260704</td><td>امریکہ کا آزادی کا دن</td></tr>
+<tr><td class="nm">43</td><td class="st">🔭</td><td class="cu">+2128</td><td class="dt">20260929</td><td>112ویں beat</td></tr>
+<tr><td class="nm">44</td><td class="st">🔭</td><td class="cu">+2142</td><td class="dt">20261013</td><td>چوتھی شاخ کے مشاہدہ کھڑکے کا پہلا دن</td></tr>
+<tr><td class="nm">45</td><td class="st">🔭</td><td class="cu">+2172</td><td class="dt">20261112</td><td>چوتھی شاخ، دوسری لائن (+30)</td></tr>
+<tr><td class="nm">46</td><td class="st">🔭</td><td class="cu">+2217</td><td class="dt">20261227</td><td>چوتھی شاخ، تیسری لائن (+75)</td></tr>
+<tr><td class="nm">47</td><td class="st">🔭</td><td class="cu">+2240</td><td class="dt">20270119</td><td>112ویں beat</td></tr>
+<tr><td class="nm">48</td><td class="st">🔭</td><td class="cu">+2268</td><td class="dt">20270216</td><td>(تین افسون) پانچویں شاخ کا سب سے پہلے حساب کیا گیا دن</td></tr>
+<tr><td class="nm">49</td><td class="st">🔭</td><td class="cu">+2298</td><td class="dt">20270318</td><td>(تین افسون) پانچویں شاخ کی دوسری لائن (زمین کے باشندوں پر افسون)</td></tr>
+<tr><td class="nm">50</td><td class="st">🔭</td><td class="cu">+2320</td><td class="dt">20270409</td><td>(تین افسون) 580ویں beat (تباہی اسرائیل سے دوسرے قوموں تک پھیلتی ہے)</td></tr>
+<tr><td class="nm">51</td><td class="st">🔭</td><td class="cu">+2343</td><td class="dt">20270502</td><td>(دو گواہوں کے وعظ سے گواہی بننے کا ممکنہ موڑ) پانچویں شاخ کی تیسری لائن (جانور کا نمبر مکمل طور پر نافذ)</td></tr>
+<tr><td class="nm">52</td><td class="st">🔭</td><td class="cu">+2352</td><td class="dt">20270511</td><td>112ویں beat</td></tr>
+<tr class="calc"><td class="nm">53</td><td class="st">🔢</td><td class="cu">+2355</td><td class="dt">20270514</td><td>(تین سال) اسرائیل کا آزادی کا دن</td></tr>
+<tr class="calc"><td class="nm">54</td><td class="st">🔢</td><td class="cu">+2385</td><td class="dt">20270613</td><td>(تین سال) نشانی · کٹائی کے میلے کے بعد کا دن</td></tr>
+<tr><td class="nm">55</td><td class="st">🔭</td><td class="cu">+2394</td><td class="dt">20270622</td><td>(چھٹی شاخ) 126ویں beat</td></tr>
+<tr><td class="nm">56</td><td class="st">✅</td><td class="cu">+2406</td><td class="dt">20270704</td><td>امریکہ کا آزادی کا دن</td></tr>
+<tr><td class="nm">57</td><td class="st">🔭</td><td class="cu">+2464</td><td class="dt">20270831</td><td>(دو گواہ چھٹی شاخ کے آخر کے قریب، ساتویں سے پہلے، مارے جاتے ہیں) 112ویں beat</td></tr>
+<tr><td class="nm">58</td><td class="st">✅</td><td class="cu">+2495</td><td class="dt">20271001</td><td>بوق کے میلے سے پہلے عید الفصح (20260228 سے 580 دن = اُدھر کا نمبر)</td></tr>
+<tr><td class="nm">59</td><td class="st">✅</td><td class="cu">+2496</td><td class="dt">20271002</td><td>(ساتویں شاخ) 🏁 آخری شاخ / بوق کا میلہ 5788 (6000 − 212 سال)</td></tr>
+<tr><td class="nm">60</td><td class="st">✅</td><td class="cu">+2505</td><td class="dt">20271011</td><td>کفارے کا دن</td></tr>
+<tr><td class="nm">61</td><td class="st">✅</td><td class="cu">+2510</td><td class="dt">20271016</td><td>خیم کا میلہ</td></tr>
+<tr><td class="nm">62</td><td class="st">✅</td><td class="cu">+2517</td><td class="dt">20271023</td><td>جماعت کا میلہ</td></tr>
+<tr><td class="nm">63</td><td class="st">✅</td><td class="cu">+2520</td><td class="dt">20271026</td><td>لंگر + 2520 (7 × 360)</td></tr>
+<tr><td class="nm">64</td><td class="st">✅</td><td class="cu">+2568</td><td class="dt">20271213</td><td>آدھے سال کی نشانی</td></tr>
+<tr><td class="nm">65</td><td class="st">✅</td><td class="cu">+2581</td><td class="dt">20271226</td><td>ہنوکا 5788 (+666)</td></tr>
+<tr><td class="nm">66</td><td class="st">✅</td><td class="cu">+2595</td><td class="dt">20280109</td><td>عسارہ بعته وٹ</td></tr>
+</tbody></table></div>
+  <div class="anch-t" style="margin-top:22px">آخری شاخ کس دن پر ہے؟</div>
+  <div class="lasttrumpet"> genesis، «روشنی ہو (יְהִי אוֹר)، اور روشنی ہو گئی۔»
+پہلے لفظ (בְּרֵאשִׁית) سے آگے شمار کرنے پر، پہلا «روشنی» لفظ بالکل 25ویں جگہ پر آتا ہے۔
+
+کووڈ +1260 +1260 = 20271026، جو آغاز اور اختتام کے آئینے سے مطابقت رکھتا ہے۔
+20271026 − 25 = 20271001، جو بالکل بوق کا میلہ ہے، اور آخری شاخ کی ٹائم لائن سے مطابقت رکھتا ہے۔</div>
+  <div class="tlback"><a class="btn" href="#doc">📖 دبائیں تو متن پر واپس چلے جائیں گے</a></div>
+</section>
+
+<!-- ═══════════ 原文對照（視覺資料，不朗讀）═══════════ -->
+<section id="sch">
+  <div class="secH">اصل متن سے مقابلہ · ماخذ (دیکھنے کے لیے (پڑھا نہیں جاتا))</div>
+  <details id="schbox"><summary>ایک بار دبائیں کھولنے کے لیے، دوبارہ دبائیں بند کرنے کے لیے</summary>
+    <div id="schbody">
+<h3>اصل یونانی متن</h3>
+<table>
+ <thead><tr><th>آیت</th><th>اصل متن</th><th>مطلب</th></tr></thead>
+ <tbody>
+  <tr><td>مرقس 14:37</td><td class="gk">καὶ εὑρίσκει αὐτοὺς καθεύδοντας</td><td>اور اس نے انہیں سوئے ہوئے پایا</td></tr>
+  <tr><td>متی 26:41</td><td class="gk">γρηγορῆσαι</td><td>جاگتے رہنا (جاگتے رہنا، زندہ رہنا)</td></tr>
+  <tr><td>متی 26:38</td><td class="gk">ἐγρηγορέω</td><td>جاگتے رہنا</td></tr>
+ </tbody>
+</table>
+<h3>لفظ نامے کے اندراجات</h3>
+<ul>
+ <li><span class="gk">καθεύδοντας</span> <small>2518 katheudo {kath-yoo'-do}｜TDNT 3:431,384｜AV sleep 22</small><br>
+  ① سو جانا، سوئے ہونا　② ہر چیز سے لاتلاف رہنا (1 تیس 5:6؛ اِف 5:14)　③ موت (1 تیس 5:10)</li>
+ <li><span class="gk">γρηγορῆσαι</span> <small>01127 gregoreuo {gray-gor-yoo'-o}｜TDNT 2:338,195｜AV watch 21, wake 1, be vigilant 1</small><br>
+  ① چوکنا بڑھانا　② خبردار رہنا　③ زندہ رہنا (1 تیس 5:10)<br>
+  یہ قسم کی تیاری جو فوجی الرٹ کی سب سے بلند سطح تک پہنچتی ہے — بالکل ویسا ہی جب نِحیمیاہ نے شہر دوبارہ بنایا۔</li>
+</ul>
+<h3>666 کا جدول</h3>
+<table>
+ <thead><tr><th>شے</th><th>عبرانی</th><th>عدد</th></tr></thead>
+ <tbody>
+  <tr><td>اُدھر (آگ لگانے والا)</td><td class="gk">שָׂרָף</td><td class="gr">580</td></tr>
+  <tr><td>جانور</td><td class="gk">חַיָּה</td><td class="gr">23</td></tr>
+  <tr><td>جھوٹا نبی</td><td class="gk">נָבִיא</td><td class="gr">63</td></tr>
+  <tr><td>کل = جانور کا نمبر</td><td class="gk">נָּחָשׁ Nachash (پہلے حروف الٹ کرنے پر)</td><td class="gr">666</td></tr>
+  <tr><td>غلطی (عدد / ترتیب / چھوٹا)</td><td class="gk">שֶּׁקֶר</td><td class="gr">600 / 60 / 6</td></tr>
+  <tr><td>سچائی (21 کا مربع)</td><td class="gk">אֱמֶת</td><td class="gr">441</td></tr>
+  <tr><td>مار = مسیح</td><td class="gk">נָּחָשׁ ／ מָּשִׁיחַ</td><td class="gr">358</td></tr>
+ </tbody>
+</table>
+<p class="note">666 is not only a curse: it is the same serpent from Creation to the end of the age; and the number of the Messiah is the same as the number of the serpent (358).
+Numbers are neutral, like the two sides of a banknote.</p>
+
+<h3>ماخذ · تفصیلی ویب پتے (صرف دیکھنے کے لیے، پڑھا نہیں جاتا)</h3>
+<p><b>1｜نیومونیا کا پھیلاؤ: «صفر مریض» کی اصل اور طبی سرگرمی</b> (BBC چینی)<br>
+<a href="https://www.bbc.com/zhongwen/trad/science-51624768">https://www.bbc.com/zhongwen/trad/science-51624768</a></p>
+<p><b>2｜Fergus Walsh: کیا کرونا وائرس ہم سے پہلے یہاں تھا؟</b> (BBC News)<br>
+<a href="https://www.bbc.com/news/health-52935644">https://www.bbc.com/news/health-52935644</a></p>
+<p><b>3｜The Lancet — ریٹرواسپیکٹو مطالعہ (پہلا تصدیق شدہ COVID-19 کیس: 1 دسمبر 2019)</b><br>
+<span class="note">[URL کی تصدیق کرنی ہے]</span></p>
+<blockquote lang="ur">چین نے 31 دسمبر 2019 کو کیسوں کا ایک گروپ بتایا، مگر بعد میں ڈبلیو ایچ او کو بتایا کہ ان مریضوں کے ابتدائی علامات 8 دسمبر سے تھیں۔</blockquote>
+<p class="note">⚠️ «صفر مریض» کی بالکل درست تاریخ پر طبی دنیا میں ابھی بھی بحث ہے۔ سات دور کا آغاز صفر مریض سے نکالنے کا کام صرف اس چارچے کا ایک منطقی نتیجہ ہے۔</p>
+</div></details>
+</section>
+
+<!-- ═══════════ 逐節查經 ═══════════ -->
+<section id="ref">
+  <div class="refhead">ابلاغیہوں کی تحقیق · 66 یوحنا مکاشفہ 8:13</div>
+  <details id="refbox"><summary>ایک بار دبائیں کھولنے کے لیے، دوبارہ دبائیں بند کرنے کے لیے</summary>
+    <div id="refbody"><div class="ntx"></div></div></details>
+</section>
+
+<div class="footbar">
+  <div class="aivoice">اس صفحے کی آواز AI آواز ماڈل سے تیار کی گئی ہے، اور اس میں کوئی حقیقی شخص شامل نہیں ہے، نہ ہی یہ صفحہ کسی کا ذاتی مؤقف ہے۔</div>
+  <button class="mini" id="toTop2">↑ سب سے اوپر</button>
+  <a class="mini" id="dlAll" href="rev_08_13_ur.html" download="天使三禍_純文字_ur版.html">⬇ آف لائن html ڈاؤن لوڈ کریں</a>
+  <a class="mini" id="dlMd" href="#" download="天使三禍_讀稿_合併_v20_ur.md">⬇ .md ڈاؤن لوڈ کریں</a>
+  <button class="mini" id="copyAll">⧉ مکمل نقل</button>
+  <button class="mini" id="prevSec">↑ پچھلا باب</button>
+  <button class="mini" id="nextSec">اگلا باب ↓</button>
+</div>
+<div class="donebar">
+  <div class="dt">مکمل، مگر ابھی مسودہ</div>
+  <div class="ds">یہ تلاوتی متن مکمل ہو چکی ہے، مگر ابھی بھی مسودہ ہے۔ پوری کتاب آیت بہ آیت تیار کی جا رہی ہے اور ابھی مکمل نہیں ہوئی۔</div>
+</div>
+<div class="srclink">
+  <a class="sl-t" href="天使三禍_核對表.html">متن کا مقابلہ · جملے بہ جملہ نمبر</a>
+  <span class="sl-s">ظاہر متن ↔ تلاوتی متن ↔ آڈیو · پیراگراف بہ پیراگراف مشین موازنہ</span>
+</div>
+
+<!-- ═══════════ 章節導航 rail ═══════════ -->
+<div id="rail"></div>
+
+<!-- ═══════════ 浮球 ═══════════ -->
+<div id="fab" title="وظائف (ایک بار دبائیں کھولنے کے لیے، دوبارہ دبائیں بند کرنے کے لیے)">☰</div>
+<div id="mbar">
+  <button class="mplay" id="mplay" title="چلائیں／وقفہ (دوبارہ دبائیں تو یہیں سے جاری)">▶</button>
+  <button id="mvoice" title="آواز بدلیں">♂ مرد</button>
+  <button id="mfollow" title="ساتھ پڑھیں">ساتھ پڑھیں</button>
+  <button id="mtl" title="مکمل ٹائم لائن">ٹائم لائن</button>
+  <button id="mtheme" title="تھیم تبدیل کریں">تھیم</button>
+  <button id="msearch" title="تلاش">تلاش</button>
+</div>
+<div id="fabpanel">
+  <div class="ftitle" id="fabTitle">آواز: مرد آواز</div>
+  <div class="frow">
+    <button id="fplay" title="چلائیں／وقفہ (دوبارہ دبائیں تو یہیں سے جاری)">▶</button>
+    <button id="fhead" title="شروع سے دوبارہ چلائیں">↺</button>
+    <button id="fslower" title="سست تر">−</button>
+    <span class="fv" id="fspeed">1.20×</span>
+    <button id="ffaster" title="تیز">＋</button>
+  </div>
+  <div class="frow frowVoice">
+    <button id="fvoiceA" title="مرد آواز">♀ خاتون آواز</button>
+    <button id="fvoiceB" title="مرد آواز">♂ مرد آواز</button>
+    <button id="fvoiceSwap" title="آواز بدلیں">⇄ آواز بدلیں</button>
+  </div>
+  <div class="frow"><span class="fv">♫</span><button id="fmusic" title="موسیقی">موسیقی</button>
+    <button id="ffollow" title="ساتھ پڑھیں">ساتھ پڑھیں</button></div>
+  <div class="frow" id="fthemes">
+    <button class="ftsw on" data-t="abyss" title="مسیح">مسیح</button>
+    <button class="ftsw" data-t="scroll" title="بھوک">بھوک</button>
+  </div>
+  <div class="frow">
+    <button id="fTL" title="مکمل ٹائم لائن">⏱ ٹائم لائن</button>
+    <button id="fSearch" title="تلاش">🔍 تلاش</button>
+  </div>
+</div>
+<div id="top" title="سب سے اوپر">↑</div>
+
+<div id="search"><span>🔍</span><input id="sInput" placeholder="متن میں تلاش کریں…"><span id="sInfo"></span></div>
+
+<div id="loadbox">
+  <div id="loadtxt">آڈیو لوڈ ہو رہا ہے… 0%</div>
+  <div id="loadbar"><i></i></div>
+  <div id="loadhint">ہر حصے کا آڈیو صفحے میں شامل ہے، اس لیے صفحہ کھلتے ہی فوراً چل سکتا ہے؛ پہلی بار چلائیں دبائیں تو موجودہ حصہ ڈی کوڈ ہو جاتا ہے۔</div>
+</div>
+
+
+<script>
+"use strict";
+/* ═══════════ 資料 ═══════════ */
+var PARA_TEXT = ["سات سال پہلے ایک بات تھی جس پر پوری دنیا خاموشی سے عمل کر رہی تھی۔", "شاید تمہیں لگتا ہے کہ یہ بات کوئی اہمیت کی نہیں رکھتی، لیکن سچ یہ ہے کہ اندر دل میں کچھ ناراضی ضرور ہے، مگر تم نے کبھی اسے بیان نہیں کیا۔", "اگر سات سال بعد یہی بات پھر سامنے آئے تو کیا تم پھر بھی اسی طرح کرے گے، بغیر پوچھے؟", "میں صرف ایک ہی سوال پوچھنا چاہتا ہوں: تمہارا پچھلا «بغیر پوچھے کر دینا» تمہارا اپنا فیصلہ تھا، یا اس وقت کی مجبوری تھی؟", "وہ بات کیا تھی، یہ سب کو دل میں معلوم ہے۔ تو ابھی یہ سوچنے کا وقت ہے: کیا زندگی میں کوئی دوسری بات بھی ہے جو اسی طرح ہوتی ہے، جس کے پیچھے سب لوگ بے سوال چل پڑتے ہیں؟", "بہت سے مسیحی جب پہلی مہر کا ذکر کرتے ہیں تو انہیں لگتا ہے کہ یہ خوشخبری ہے، یا سکون۔ میں بھی سالوں سے یہی مانتا رہا ہوں۔", "مگر اگر سفید، سرخ، کالے اور سلیٹی چارو گھوڑے دراصل ایک ہی نظام کے حصے ہوں، تو پہلی مہر کا وہ سفید گھوڑا دوبارہ دیکھنا پڑے گا۔", "اسے چار طبقوں میں دیکھا جا سکتا ہے: اگر سفید گھوڑا وبا ہو، تو سرخ گھوڑا جنگ ہے، کالا گھوڑا مسلسل معاشی زوال ہے، اور سلیٹی گھوڑا بار بار آنے والی آپ disaster ہے — یہ سب الگ الگ نہیں، بلکہ ایک ساتھ جمع ہوتے ہیں: تلوار، قحت، پھر ایک نئی وبا، اور جانور کا قتل — یہ سب جمع ہوتا رہے، یہاں تک کہ لوگوں کا چوتھا حصہ مر جائے۔", "چار گھوڑے ایک ہی بلاب کے چار مراحل ہیں۔", "دانیال کی کتاب کے نمونے سے ملانے پر، بارہ ماہ کی اطلاع کی مدت مکمل ہونے کے بعد «سات دور» کا آغاز ہوتا ہے۔ «سات دور» کا مطلب ہے نبوکنذر سال بادشاہ کا ایک انسان سے جانور بننے کا عمل۔", "چونکہ یہ ایک عمل ہے، اس لیے اس میں وقت کی قیمت ہے، جیسے سورج کے اُگنے سے غروب تک۔ ہر لمحے پر کچھ نہ کچھ ہوتا ہے، مگر ہر بار یہ سب جمع ہوتا جاتا ہے۔", "یہ ایک منظم ترتیب والی بایبلی کی وضاحت ہے؛ تمام scholars اسے نہیں مانتے۔ مگر اسے دوبارہ دیکھنے کے لیے قابلِ غور ہے۔", "تاریخ کی جانچ ممکن ہے۔ بی بی سی نے 26 فروری 2020 کو ایک رپورٹ شائع کی جس میں بتایا گیا کہ کرونا وائرس کے «صفر مریض» کی تاریخ کیا تھی۔", "رپورٹ میں یہ بھی بتایا گیا کہ پہلا کیس 8 دسمبر کو بخار کے ساتھ شروع ہوا تھا۔", "اگر آپ کو دلچسپی ہے تو آپ خود جا کر خبر کی تفصیل دیکھ سکتے ہیں۔", "عنوان «پنیومونیا کا پھیلاؤ: «صفر مریض» کی اصل اور طبی سرگرمی» ہے، جو بی بی سی نے چینی زبان میں شائع کیا ہے، تفصیلی لنک صفحے کے آخر میں ہے، کچھ دیر بعد دیکھ سکتے ہیں۔", "مواد کچھ یہ ہے: چین نے ورلڈ ہیلتھ آرگنائزیشن کو بتایا کہ ان مریضوں کے ابتدائی علامات ایک دسمبر 2019 کے لیے ہیں۔", "ایک پل میں اور یہ 2027 ہے، کبھی کہ بڑے سپر ایل نینو کی طوفانی آفسے کا وقت۔", "چھ سال کے واقعات کے اعداد و شمار اور منطقی استنتاج کے مطابق، سپر ایل نینو نومبر کے درمیان سے 2027 کے فروری کے آخر تک رہا، یہ عرصہ دراصل چوتھے سے پانچویں شاخ کی ٹائم لائن سے بالکل مطابقت رکھتا ہے۔", "یعنی دنیا کے مکمل طور پر چپپ ڈیجیٹل ہونے کا وقت شاید تقریباً 2027 کے جون کے قریب ہوگا۔", "یہ وقت اور واقعات کی ترتیب سے نکالے گئے تخمینے ہیں، اگر دلچسپی ہے تو آپ خود جا کر چیک کر سکتے ہیں۔", "ان میں سب سے بڑا حوالہ یہ ہے کہ 22 اپریل 2024 کو فیسح کی قربانی بند کر دی گئی، جو 7 اکتوبر 2023 کو حماس کے اسرائیل پر حملے کی وجہ سے تھی — جس کی وجہ سے اسرائیلی حکومت نے اُس سال کی فیسح قربانی معطل کر دی، اور یہ کام 2025 میں ہی دوبارہ کیا گیا۔", "سات سال پہلے پہلی وبا کے وقت، تقریباً سال ویس کے قریب، اُس سال کی معمول کی قربانی بند ہو گئی۔ سچ میں ایسا ہوا، مگر سچ یہ بھی ہے کہ کوئی نہیں پروا کا، کوئی ردعمل نہیں ہوا۔", "تو کیا اس کا مطلب واضح ہے؟", "یعنی ہر سال کی فیسح قربانی۔", "2023 کی حماس حملے کی وجہ سے 2024 کی قربانی بند کر دی گئی، اور 2025 میں فیسح قربانی کا کام پھر سے کیا گیا۔", "حماس کا حملہ حقیقت ہے، 2025 کی قربانی حقیقت ہے، اور 2024 میں قربانی نہ ہونا بھی حقیقت ہے۔", "2024 میں کوئی قربانی نہیں ہوئی۔ 2025 کی قربانی صرف مشق تھی، 2025 میں سرخ بچھڑیا جلانا صرف مشق تھی، اور سرخ بچھڑیا میں بھی مختلف رنگ اور خرابی تھی۔", "حقائق کو کم کر کے ایک سال دیر سے آگے دھوکہ دی جا سکتی ہے۔", "2025 میں ہوئی، 2024 میں نہیں ہوئی، یعنی یہ «cease to» ہے — معطل ہو گیا، پھر جاری رہا۔", "قربانی بند ہو گئی، ایک ہزار دو سو دنوں کے بعد، وہ اسرائیل اور ایران کی جنگ ہوگی۔", "اور 2027 کے 15 مئی کو، ایک ہزار دو سو دنوں کے بعد والے تین سال کے اختتام کا اگلا دن آئے گا۔", "اور 2027 کے کٹائی کے موسم کی تاریخ عین طور 2024 کی طرح ہی ہے۔", "یعنی ایک سال بعد جنگ ہو گئی", "اور دو سال بعد کے اسی دن، وہ بھی عید سِفٹ اور کٹائی کا موسم ہے۔", "خدا نے سات دن میں آسمان و زمین دوبارہ بنائے، یہ ہے یہووا کے سات ایام کے مقابلے، اور عید سِفٹ دو حصوں میں بانٹ گیا ہے — ایک سال آدھا، ساتویں، فصل کا کٹائی، مگر ذخیرہ نہیں کیا گیا۔", "اگلی عید سِفٹ تک، فصل کا مال آہستہ آہستہ گودام میں رکھا جاتا رہتا ہے، یہاں تک کہ ذخیرے کا موسم آ جائے۔", "یہووا کے سات ایام ہیں (فیسح، بے خمیری، پہلا پکا، اور فصل کے گندم والی عید سِفٹ، شاخون کا بج، یوم کففرہ، اور پائیں کے جمع کرنے والی سکنّت کا موسم، یعنی ذخیرے کا موسم)۔", "بہار اور خزاں میں پھیلے ہوئے یہ ایام مسیح کی پیش گوئی ہیں: یسوع مسیح کی موت، قیام، اور روحِ مقدس کا نازل ہونا، تاکہ مسیح کی دوبارہ آمد تک کی فدائے کا منصوبہ۔", "پہلی وبا کا جائزہ لیتے ہیں، «کنٹرول شدہ دوائی» کے تحت، ہر شخص نے پہلا فیصلہ کیا۔", "جب دوسرا نیا وبا آئے گا، آپ کیا کریں گے؟", "«کنٹرول شدہ دوائی» یہ اصطلاح۔ اصل مطلب دیکھا تو یہ «جادو» جیسا ہی نکلا۔", "اس الفاظی لغت کی وضاحت، the administrating of drugs، لغت میں ایسے ہی ترجمہ ہوتا ہے، یعنی ایک کنٹرول شدہ دوائی۔", "مگر پھر بھی اتنے لوگ اتنے ہی متفق کیوں ہو گئے؟", "ہر قسم کے ماہرین کی ہدایت، ہر قسم کے سائنس اور تاریخ کے شواہد، سب کہتے تھے کہ محفوظ ہے۔", "مگر «سب کہتے تھے» کہ محفوظ ہے، اس کا مطلب یہ نہیں کہ «پوری طرح جانچ لی گئی ہے»۔ سب جانتے ہیں کہ اس وقت کے طبی حالات ابھی بھی ناکافی تھے۔", "الہام یہ ہے کہ جادو کو ایسے بچانے والی دوائی کے روپ میں پیش کیا جا سکتا ہے۔", "پھر اس کے ساتھ کوشش کی جاتی ہے، نیک نیتی سے، بہت سی تحقیق، شواہد اور ماہرین کی رائے شامل کر کے، حتیٰ کہ عالمی سطح پر اتحاد کر کے، رہنمائی اور بڑے بڑے سمت کے ذریعے ایسے کہ جیسے خود فیصلہ کر رہا ہو — مگر جواب کی سطح کو اتنی ہی مضبوطی سے رکھا جائے کہ لوگ اور مسیحی دونوں اس شک کے پر لیکن ہی شک کردہ دوائی کو قبول کر لیں۔", "جو بات کہنی ہے وہ یہ ہے: الہام اچانک نہیں آتا،", "الہام دنیا کی اُن قدیم روایت میں بھی بہت سال سے چھپا ہو سکتا ہے۔", "اور الہام کا ماخذ ہمیشہ سے وہی مار ہے — اُس نے تلوار سے نہیں، منہ سے کام کیا ہے، با，看似 منطقی دلائل سے؛ حوا کے وقت بھی ایسا ہی تھا، عیسی مسیح کے وقت بھی ایسا ہی تھا، مسیحیوں کے ساتھ بھی، اور تمہارے ساتھ بھی — تو کیوں نہ کہے جائے کہ وہ منہ سے تمہیں بھٹکا لے؟", "ایک اور نکتہ ہے، شاید آپ کو غور کرنے کے قابل ہو۔", "اگر انجیل دیکھیں تو آپ کو ان دو گواہوں کا ذکر ملے گا جو اللہ کی طرف سے آئے، ان کی ترتیب ان پیارٹی کے کام سے شہادت کے کام تک ہے، تو ٹائم لائن پنچویں شاخ سے چھٹی شاخ کے مرحلے میں ہوتی ہے۔", "یعنی اگر کوئی ایسا شخص ہو جو صرف ان دو گواہوں کو دیکھ کر یقین کرے کہ وہ پہلے ہی سات سال کی بڑی آپ disaster میں ہے، تو اُس وقت اُس کے اپنے دل میں یہ سوچ بھی ہو سکتی ہے کہ اب وہ نہیں بچ سکتا، کیونکہ اُس نے ابھی جانور کا نشان، جانور کا نام اور جانور کا عدد قبول کر لیا ہے۔", "یہی وہ نکتہ ہے جہاں جاگتے رہنے کی ضرورت ہے: ہر شخص کے دل میں اپنا اپنا معیار ہوتا ہے، اور پرانے مار کا الہام یہ ہے کہ انسان کو یہ لگے کہ جو معیار وہ دیکھنا چاہتا ہے، اُسے ملنے کے بعد وہ وہی چیز مل جائے گی جو وہ چاہتا ہے۔", "دیکھنے کے لیے پہلے یقین کرنا پڑے گا کہ آپ بڑی آپ disaster میں ہیں — مگر اُس وقت ہی وہ ہے جب واپسی ممکن نہ رہے۔", "چاہے تیسرا گھر ہو، چاہے ضد مسیح اُس میں کھڑا ہو کر فخر سے باتیں کرے، چاہے دو گواہ ہوں۔", "اگر آپ جانتے ہیں کہ بہت سے لوگ ایسا سوچیں گے، تو دشمن کیسے یہ جال بچھائے گا کہ لوگوں کو بھول جائیں؟", "تاکہ بہت سے لوگ شہر کے دروازے سے باہر رہ جائیں، اور آخری لمحے میں ہی جانیں کہ وہ شہر میں داخل نہیں ہو سکتے؟", "دنیا میں ہمیشہ بہت سے راستے ہوتے ہیں، اور پولس نے کہا «اس دنیا کا پیرو نہ کرو، بلکہ اپنے دل کی تبدیلی سے بدل جاؤ» — سوچو، کیا یہ بات ان غیر مسیحیوں کے لیے کہی گئی ہے جو ابھی ایمان نہیں لائے، یا اُن اسرائیلیوں کے لیے جو پہلے ہی ایمان لائے چکے ہیں؟", "اگر آپ نے یہ سب سنتے ہیں تو آپ کو شاید کچھ سوچنا پڑے: کیا پوری کلیس کو کوئی مسئلہ ہے؟ یا شاید میں نے ہی کوئی بدھرت کا منظر دیکھ لیا ہے؟ کیا کروں؟ اور ایسے ہی۔", "سوچیے: پرانے نیا عہد کے وقت بھی، بایبل نے ہمیں پہلے ہی بتا دیا تھا کہ اُس وقت کے رسوم اور ثقافت کا کام یہ ہے کہ مسیح کو انکار کیا جائے اور مسیحیوں پر ظلم کیا جائے۔", "مسیح زمین پر تھا تو یہی حال تھا؛ پولس غیر یہودیوں اور اسرائیلیوں کے درمیان تھا تو بھی یہی حال تھا۔ کیا نہیں؟", "اور اب بھی با superficially convincing دلیلوں کے ذریعے، ایک formatted طریقے سے، ایسے مکمل طور پر قبول کیے گئے نظریات کے ذریعے لوگوں کو سویا رہنے دی جا سکتی ہے — اور جب معاملہ اچانک ظاہر ہو جائے، تب شاید بہت دیر ہو چکی ہو۔", "پرانے عہد میں، اسرائیلیوں کا بائبل کا理解 بالکل اللہ کی مراد نہیں تھا۔", "اسی طرح نئے عہد میں، گھر کے خادم کا نقطۂ نظر اتنا واضح کیوں ہے؟ یہ اللہ کی مراد ہے — کون کہتا ہے؟", "انسانی علم اور تجربے پر قائم ایک academic نظام کی تعمیرات سے؟", "تو کیا اس کا مطلب ہے کہ پرانوں کی وراثت پوری ہو گئی؟ اور ساتھ ہی [مرکی 7:7] انہوں نے لوگوں کے احکام کو شریعت بنا کر پڑھایا، تو مجھے بھی بے فائدہ عبادت کرنی پڑے گی۔", "اگر آج کا علم واقعی اللہ کی اصل مراد سے مختلف ہے، تو اگر کچھ ہو جائے تو اس کی ذمہ داری کون لے گا؟ وہ شخص جو انتخاب اور فیصلہ کرے — یعنی آپ خود۔", "یعنی اگر آپ عمومی سمت پر چلے، مگر آخر میں غلط ہو گئے، تو اس کا نتیجہ آپ ہی سنبھالیں گے — کیا یہ سودا نہیں ہے؟", "اُس وقت کے رسوم اور ثقافت۔ شاید یہ وہ نہیں جو بایبل میں کہا گیا ہے۔", "مسیح زمین پر تھا تو پولس غیر یہودیوں اور اسرائیلیوں کے درمیان تھا، یہی حالات تھا۔", "مسیحیوں کو تو دنیا کے اندر رہ کر پاک الگ ہونا ہی تھا — سوچو، کیا اس میں formatted ہو چکا ایمان شامل ہے؟", "سچ میں سوچنا ضروری ہے، کیونکہ ٹائم لائن کے مطابق تقریباً اب وہ وقت آ رہا ہے جب وہ کی آواز کے ساتھ تین «افسون» — ایک عقاب آسمان میں اڑتا ہوا چیخا، «افسون افسون افسون»۔", "یہ تین قسم کی آپ disasters نہیں، ایک ٹائم لائن کے تین نقاط ہیں: پانچویں، چھٹی اور ساتویں شاخ۔", "اور پانچویں شاخ میں ابھی بھی چار لائنیں ہیں، سب سے پہلی کا تخمینہ 16 فروری 2027 کا ہے۔", "آپ کو کچھ تناقضات سوچنے کی دی ہو سکتی ہیں — ضد مسیح نظر نہیں آیا، سبز چرا نہیں جلایا گیا، ذکر کردہ آپ disasters کوئی نظر نہیں آئے، تیسرا گھر ابھی نہیں بنا، تو میں کیسے مان سکتا ہوں کہ یہ بڑی آپ disaster ہے؟", "کلیس تو واضح طور پر کہتی ہے کہ pre-tribulation rapture ہے، کلیس مانے ہی نہیں لیتی کہ ہم آخر وقت میں ہیں، نہ ان چیزوں کا ذکر کرتی ہے — ہمیشہ missionary، خدمت، اور قدیسیوں کی زندگی کی بات کرتے رہے۔", "بس یہی ہے: جب سے یہ ہوا ہے تک، سات سال قریب ہو چکے ہیں، بہت سے لوگوں نے ایک سات سال سے نظرانداز کیا اور انکار کیا۔", "اگر سلیٹی گھوڑے کے وقت دنیا بھر میں اچانک لوگوں کا چوتھا حصہ مر جائے، اور خبر بھی شائع کی جائے، تو شاید پوری دنیا کو پتا چل جائے کہ ہاں، یہ تو انکشاف کی سات سال کی بڑی آپ disaster ہے، عجب بات ہے!", "تو ایسے میں تو لوگ شاید ذرا آرام محسوس کریں — کیونکہ انہیں معلوم ہو جائے گا کہ «اب ہو گیا»۔", "مگر کیا یہ صورتحال مسیح کی یہ ہدایت کے بالکل الٹ نہیں ہے کہ «جاگتے رہو، اپنے کپڑے بچاؤ»؟", "یعنی جتنے زیادہ واضح ہو آخری وقت کی حالت، دنیا اتنی ہی زیادہ لوگوں کو ہلپا دینے کی کوشش کرے گی کہ وہ ان چیزوں پر توجہ نہ دیں، ہمیشہ تشریحات ہوں، ہمیشہ لفظوں کا جادو ہوتا رہے۔", "مسیح کی نیا دلیا، جاگتے رہنا، کپڑے بچانا، اور دنیا کی معمولی زندگی میں رہتے ہوئے اس کا پیرو نہ کرنا، بلکہ دل کی تبدیلی سے بدل جانا — یہ سب کیوں؟", "کیونکہ ایمان کی بڑی راہ پر ضرور ہی ایسی باتیں موجود ہیں جو لوگوں کو ٹھکرا دیتی ہیں، اور اگر محتاط نہ رہے تو تنگ راستے پر چلے جاتے ہیں۔", "ایسا ہوتا ہے کہ آپ دنیا کا پیرو کرتے رہیں، دنیا کی قید میں رہیں، مختلف لوگوں کے احکام ماننے کی عادت پیدا کر لیں، اور آخر میں ایمان میں گنوا دیا گیا ہو۔", "اس کے برعکس، ابھی جو دن پُرامنی ہے، روزانہ اللہ کے لیے جینا سیکھیے — انسانوں کے احکام اور پرانوں کی وراثت کے لیے نہیں — تو کیوں اپنے آپ کو formatted طریقے میں جینے دیں؟", "جب واقعی آخری وقت آ جائے، تو میں وہی کروں گا جو کلیس نے کہا تھا؟", "تو کیا اس کا مطلب یہ ہے کہ میں انکشاف کو بالکل نہیں مانتا، میں صرف وہی حصہ مانتا ہوں جو میں ماننا چاہتا ہوں؟", "یہ تو بالکل عام ہے، اور بہت پھیلا ہوا ہے۔", "مگر مسیحیوں کو، ہم جانیں کہ ہم اللہ کے ہیں، اور پوری دنیا اس شریر کی طاقت کے تحت ہے۔", "یعنی وہ چیز جو مجھے ابھی کہہ رہی ہے، وہ کبھی سے موجود تھی، ہمارے موجودہ ایمان کے نظام کے اندر۔", "آپ خود سنجیدگی سے بتائیے: کلیس میں کتنے مسائل ہمیشہ سے موجود رہے ہیں جو کبھی سامنے نہیں آئے؟", "یاد رکھیے، ہم زمین پر صرف مہمان ہیں، اس لیے «جاگتے رہو» کا مطلب یہ نہیں کہ ڈر جائیں، یا کلیس کے بارے میں کچھ کہیں۔", "بلکہ یہ ہے کہ جب «سب یہی کرتے ہیں» تو آپ رُک کر خود واضح دیکھیں۔", "سونا نہیں مطلب یہ ہے کہ یقین نہیں۔ سونا یہ ہے کہ یقین تو ہو گیا، مگر جاگ نہیں گئے۔ کیوں نہیں جاگے؟", "کیونکہ خود نظام کی سیٹنگ ہی یہ ہے کہ لوگ جاتے رہیں، جیسے اسرائیلی فاریسیوں کی ثقافت میں سو گئے تھے؛ اور غیر یہودیوں کے طور پر ہمیں بھی ایسی ہی صورتحال ہونی چاہیے۔", "حالانکہ بالکل واضح ہے، آپ کو دل سے سمجھ آنا چاہیے، مگر بہت سے لوگ نہیں سمجھ پاتے — یہی نظام اور formatted طریقے کا اثر ہے، جس نے اسرائیلیوں کو مسیح دکھا دیا، بہت سے معجزات بھی دکھا دیے، پھر بھی یقین نہیں کرنا چاہا۔", "اور جو جاگ گیا، اس کا مطلب یہ نہیں کہ وہ زیادہ جانتا ہے یا خاص طور پر ہوشیار ہے۔ جاگنے والا بس یہ ہے کہ دوبارہ نہیں سوتا، ⏎ دیکھیے آموس کی کتاب، کیا آپ اُس وقت کا اُسا دل محسوس کر سکتے ہیں؟", "آپ کی سنجیدگی سے سوچیے، انکشاف کی کلیسیں کیسے آج کی کلیس سے ملتی ہیں؟", "اس زندگی اور ابدیت، ⏎ جاگتے اور سو جائے،", "علم کا خاتمہ ہونے والا ہے، ⏎ زبانوں کی بول چال ختم ہونے والی ہے۔", "ہمیں مسیح کی دوبارہ آمد کا استقبال کس چیز کے ساتھ کرنا چاہیے؟", "اور آپ، آج ہی، خود کو جگا سکتے ہیں۔", "آپ ایک کام کر سکتے ہیں۔", "کوئی ایسا سوال لکھیے جو آپ نے کبھی اپنے سے نہیں پوچھا۔", "مثلاً: کیا میں یہ اس لیے مانتا ہوں کہ میں نے جانچ لی ہے، یا اس لیے کہ سب مانتے ہیں؟", "میں نے تو شروع انکشاف کے اندر سے ہی یہ جاننا چاہا تھا کہ «جادو» یہ لفظ کس چیز کی طرف اشارہ کر رہا ہے۔", "کوئی ایک کہاوت چنیے جو آپ نے سنا ہے، اور ایک بار اس کی جانچ کریں۔ ایک لنک، ایک رپورٹ، ایک رسالہ — کچھ بھی ہو سکتا ہے۔", "Pre-tribulation rapture ایک بہت اچھا مثال ہے: مسیح نے کہا «میں تمہارے ساتھ ہوں گا یہاں تک کہ دنیا کا آخر ہو جائے»، اور یہ بھی کہا کہ دنیا کا آخر فصل کا کٹائی ہے، فصل کا کٹنے والا فرشتے ہیں، یعنی آخری شاخ کی سیٹی سے پہلے، کلاشی کے وقت۔ تو آخر کیا ہے: مرحلہ وار رفتے، pre-tribulation، mid-tribulation، post-tribulation؟ کوئی rapture ہی نہیں؟ یا جیسا کہ بایبل صاف لکھتی ہے، آخری شاخ کی سیٹی اور مسیح کی آمد کے وقت؟ جو کہ کالے اور سفید پر Papers پر لکھا ہے وقت، ترتیب اور وضاحت — مگر نسل در نسل میں اس کا مطلب ایسے نچوڑا جا سکتا ہے جیسے کپڑے کو نچوڑا جاتا ہے، بار بار نچوڑا جاتا ہے، یہاں تک کہ اس میں نہ پانی رہے، نہ دل کو بھار نہ رکھے۔ کیا ایسا نہیں؟", "اگر پڑھنے کے بعد یہ آپ کے پہلے والے خیال سے مختلف نکلے، تو مبارک ہو، آپ نے آج ایک قدم آگے بڑھا لیا۔", "آپ کو اوپر دی گئی ہر کوئی نتیجہ قبول کرنے کی ضرورت نہیں۔ موجودہ نتیجہ بھی غلط ہو سکتا ہے — صفر مریض کی تاریخ پر آج بھی طبی دنیا میں بحث ہے۔", "مگر ایک بات قطعی ہے: ⏎ آپ نے آج یہ چند منٹ پڑھے ہیں، اور آپ نے وہ کام کر لیا ہے جو بہت سی کلیسیں مومنتاہ کہہ نہیں کرتیں — ⏎ آپ خود اصل متن ایک بار دیکھنے کی جرأت کی۔", "ہر اُس مسیحی کو، جو نجات اور ابدی حیات کی امید رکھتا ہے، اپنی نجات کی ذمہ داری سنبھالنی اور نگہبانی کرنی ہے — کیوں ضروری ہے کہ اس کے لیے ایک واسطہ گزرے، جبکہ وہ واسطہ خود مسیح نہیں ہے؟", "امید ہے کہ ہم سب اللہ کے انعام اور رحم پر یقین رکھیں، ہمیشہ ہمارے ساتھ رہیں، یہاں تک کہ دنیا کا آخر ہو جائے۔ آمین۔", "یا رب یسوع مسیح آپ کو برکت دے، ⏎ آپ کا دل اور سوچیں محفوظ رکھے، ⏎ تاکہ آپ ہمیشہ اُس کی رحم میں رہیں، ⏎ ہمیشہ آپ کے ساتھ رہے، یہاں تک کہ دنیا کا آخر ہو جائے، ⏎ آپ کی رہنمائی کرے، یہاں تک کہ مسیح کی دوبارہ آمد کا دن آ جائے، ⏎ آمین۔"];
+var SECTIONS = [{"title": "آغاز · بغیر پوچھے کر دینا", "from": 0, "to": 4}, {"title": "سفید گھوڑا ＝ وبا", "from": 5, "to": 8}, {"title": "سات دور · وقت کی قیمت", "from": 9, "to": 11}, {"title": "صفر مریض · تاریخ جانچی جا سکتی ہے", "from": 12, "to": 16}, {"title": "نتیجہ · ایل نینو کا شیڈول", "from": 17, "to": 20}, {"title": "حوالہ · پیسہ اور عسقلون کی جنگ", "from": 21, "to": 38}, {"title": "پہلا وبا · پہلا فیصلہ", "from": 39, "to": 40}, {"title": "جادو ＝ کنٹرول شدہ دوائی", "from": 41, "to": 45}, {"title": "جادو کو کیسے پیش کیا جاتا ہے", "from": 46, "to": 50}, {"title": "دو گواہ · واپسی نہیں", "from": 51, "to": 58}, {"title": "کھلا راستہ، تنگ راستہ · شکل دی ہوئی ایمان", "from": 59, "to": 60}, {"title": "پرانا نیا عہد · نسل کی ثقافت", "from": 61, "to": 72}, {"title": "تین افسون · ٹائم لائن", "from": 73, "to": 82}, {"title": "جاگتے رہو · آج کا انتخاب", "from": 83, "to": 115}];
+var TIMELINE = [{"date": "2027-02-16", "days": 2268, "label": "پانچویں شاخ کا سب سے پہلے حساب کیا گیا دن", "para": 75}, {"date": "2027-03-18", "days": 2298, "label": "پانچویں شاخ کی دوسری لائن · زمین کے باشندوں پر افسون", "para": 75}, {"date": "2027-04-09", "days": 2320, "label": "580ویں beat · 580 = اُدھر کا نمبر", "para": 75}, {"date": "2027-05-02", "days": 2343, "label": "پانچویں شاخ کی تیسری لائن · جانور کا نمبر", "para": 75}];
+var DUR = {A:0, B:0};
+var LABEL = {A:"مرد آواز", B:"مرد آواز"};
+var SPEED0 = {A:1.10, B:0.97};
+var MD_TEXT = "سات سال پہلے ایک بات تھی جس پر پوری دنیا خاموشی سے عمل کر رہی تھی۔\n\nشاید تمہیں لگتا ہے کہ یہ بات کوئی اہمیت کی نہیں رکھتی، لیکن سچ یہ ہے کہ اندر دل میں کچھ ناراضی ضرور ہے، مگر تم نے کبھی اسے بیان نہیں کیا۔\n\nاگر سات سال بعد یہی بات پھر سامنے آئے تو کیا تم پھر بھی اسی طرح کرے گے، بغیر پوچھے؟\n\nمیں صرف ایک ہی سوال پوچھنا چاہتا ہوں: تمہارا پچھلا «بغیر پوچھے کر دینا» تمہارا اپنا فیصلہ تھا، یا اس وقت کی مجبوری تھی؟\n\nوہ بات کیا تھی، یہ سب کو دل میں معلوم ہے۔ تو ابھی یہ سوچنے کا وقت ہے: کیا زندگی میں کوئی دوسری بات بھی ہے جو اسی طرح ہوتی ہے، جس کے پیچھے سب لوگ بے سوال چل پڑتے ہیں؟\n\nبہت سے مسیحی جب پہلی مہر کا ذکر کرتے ہیں تو انہیں لگتا ہے کہ یہ خوشخبری ہے، یا سکون۔ میں بھی سالوں سے یہی مانتا رہا ہوں۔\n\nمگر اگر سفید، سرخ، کالے اور سلیٹی چارو گھوڑے دراصل ایک ہی نظام کے حصے ہوں، تو پہلی مہر کا وہ سفید گھوڑا دوبارہ دیکھنا پڑے گا۔\n\nاسے چار طبقوں میں دیکھا جا سکتا ہے: اگر سفید گھوڑا وبا ہو، تو سرخ گھوڑا جنگ ہے، کالا گھوڑا مسلسل معاشی زوال ہے، اور سلیٹی گھوڑا بار بار آنے والی آپ disaster ہے — یہ سب الگ الگ نہیں، بلکہ ایک ساتھ جمع ہوتے ہیں: تلوار، قحت، پھر ایک نئی وبا، اور جانور کا قتل — یہ سب جمع ہوتا رہے، یہاں تک کہ لوگوں کا چوتھا حصہ مر جائے۔\n\nچار گھوڑے ایک ہی بلاب کے چار مراحل ہیں۔\n\nدانیال کی کتاب کے نمونے سے ملانے پر، بارہ ماہ کی اطلاع کی مدت مکمل ہونے کے بعد «سات دور» کا آغاز ہوتا ہے۔ «سات دور» کا مطلب ہے نبوکنذر سال بادشاہ کا ایک انسان سے جانور بننے کا عمل۔\n\nچونکہ یہ ایک عمل ہے، اس لیے اس میں وقت کی قیمت ہے، جیسے سورج کے اُگنے سے غروب تک۔ ہر لمحے پر کچھ نہ کچھ ہوتا ہے، مگر ہر بار یہ سب جمع ہوتا جاتا ہے۔\n\nیہ ایک منظم ترتیب والی بایبلی کی وضاحت ہے؛ تمام scholars اسے نہیں مانتے۔ مگر اسے دوبارہ دیکھنے کے لیے قابلِ غور ہے۔\n\nتاریخ کی جانچ ممکن ہے۔ بی بی سی نے 26 فروری 2020 کو ایک رپورٹ شائع کی جس میں بتایا گیا کہ کرونا وائرس کے «صفر مریض» کی تاریخ کیا تھی۔\n\nرپورٹ میں یہ بھی بتایا گیا کہ پہلا کیس 8 دسمبر کو بخار کے ساتھ شروع ہوا تھا۔\n\nاگر آپ کو دلچسپی ہے تو آپ خود جا کر خبر کی تفصیل دیکھ سکتے ہیں۔\n\nعنوان «پنیومونیا کا پھیلاؤ: «صفر مریض» کی اصل اور طبی سرگرمی» ہے، جو بی بی سی نے چینی زبان میں شائع کیا ہے، تفصیلی لنک صفحے کے آخر میں ہے، کچھ دیر بعد دیکھ سکتے ہیں۔\n\nمواد کچھ یہ ہے: چین نے ورلڈ ہیلتھ آرگنائزیشن کو بتایا کہ ان مریضوں کے ابتدائی علامات ایک دسمبر 2019 کے لیے ہیں۔\n\nایک پل میں اور یہ 2027 ہے، کبھی کہ بڑے سپر ایل نینو کی طوفانی آفسے کا وقت۔\n\nچھ سال کے واقعات کے اعداد و شمار اور منطقی استنتاج کے مطابق، سپر ایل نینو نومبر کے درمیان سے 2027 کے فروری کے آخر تک رہا، یہ عرصہ دراصل چوتھے سے پانچویں شاخ کی ٹائم لائن سے بالکل مطابقت رکھتا ہے۔\n\nیعنی دنیا کے مکمل طور پر چپپ ڈیجیٹل ہونے کا وقت شاید تقریباً 2027 کے جون کے قریب ہوگا۔\n\nیہ وقت اور واقعات کی ترتیب سے نکالے گئے تخمینے ہیں، اگر دلچسپی ہے تو آپ خود جا کر چیک کر سکتے ہیں۔\n\nان میں سب سے بڑا حوالہ یہ ہے کہ 22 اپریل 2024 کو فیسح کی قربانی بند کر دی گئی، جو 7 اکتوبر 2023 کو حماس کے اسرائیل پر حملے کی وجہ سے تھی — جس کی وجہ سے اسرائیلی حکومت نے اُس سال کی فیسح قربانی معطل کر دی، اور یہ کام 2025 میں ہی دوبارہ کیا گیا۔\n\nسات سال پہلے پہلی وبا کے وقت، تقریباً سال ویس کے قریب، اُس سال کی معمول کی قربانی بند ہو گئی۔ سچ میں ایسا ہوا، مگر سچ یہ بھی ہے کہ کوئی نہیں پروا کا، کوئی ردعمل نہیں ہوا۔\n\nتو کیا اس کا مطلب واضح ہے؟\n\nیعنی ہر سال کی فیسح قربانی۔\n\n2023 کی حماس حملے کی وجہ سے 2024 کی قربانی بند کر دی گئی، اور 2025 میں فیسح قربانی کا کام پھر سے کیا گیا۔\n\nحماس کا حملہ حقیقت ہے، 2025 کی قربانی حقیقت ہے، اور 2024 میں قربانی نہ ہونا بھی حقیقت ہے۔\n\n2024 میں کوئی قربانی نہیں ہوئی۔ 2025 کی قربانی صرف مشق تھی، 2025 میں سرخ بچھڑیا جلانا صرف مشق تھی، اور سرخ بچھڑیا میں بھی مختلف رنگ اور خرابی تھی۔\n\nحقائق کو کم کر کے ایک سال دیر سے آگے دھوکہ دی جا سکتی ہے۔\n\n2025 میں ہوئی، 2024 میں نہیں ہوئی، یعنی یہ «cease to» ہے — معطل ہو گیا، پھر جاری رہا۔\n\nقربانی بند ہو گئی، ایک ہزار دو سو دنوں کے بعد، وہ اسرائیل اور ایران کی جنگ ہوگی۔\n\nاور 2027 کے 15 مئی کو، ایک ہزار دو سو دنوں کے بعد والے تین سال کے اختتام کا اگلا دن آئے گا۔\n\nاور 2027 کے کٹائی کے موسم کی تاریخ عین طور 2024 کی طرح ہی ہے۔\n\nیعنی ایک سال بعد جنگ ہو گئی\n\nاور دو سال بعد کے اسی دن، وہ بھی عید سِفٹ اور کٹائی کا موسم ہے۔\n\nخدا نے سات دن میں آسمان و زمین دوبارہ بنائے، یہ ہے یہووا کے سات ایام کے مقابلے، اور عید سِفٹ دو حصوں میں بانٹ گیا ہے — ایک سال آدھا، ساتویں، فصل کا کٹائی، مگر ذخیرہ نہیں کیا گیا۔\n\nاگلی عید سِفٹ تک، فصل کا مال آہستہ آہستہ گودام میں رکھا جاتا رہتا ہے، یہاں تک کہ ذخیرے کا موسم آ جائے۔\n\nیہووا کے سات ایام ہیں (فیسح، بے خمیری، پہلا پکا، اور فصل کے گندم والی عید سِفٹ، شاخون کا بج، یوم کففرہ، اور پائیں کے جمع کرنے والی سکنّت کا موسم، یعنی ذخیرے کا موسم)۔\n\nبہار اور خزاں میں پھیلے ہوئے یہ ایام مسیح کی پیش گوئی ہیں: یسوع مسیح کی موت، قیام، اور روحِ مقدس کا نازل ہونا، تاکہ مسیح کی دوبارہ آمد تک کی فدائے کا منصوبہ۔\n\nپہلی وبا کا جائزہ لیتے ہیں، «کنٹرول شدہ دوائی» کے تحت، ہر شخص نے پہلا فیصلہ کیا۔\n\nجب دوسرا نیا وبا آئے گا، آپ کیا کریں گے؟\n\n«کنٹرول شدہ دوائی» یہ اصطلاح۔ اصل مطلب دیکھا تو یہ «جادو» جیسا ہی نکلا۔\n\nاس الفاظی لغت کی وضاحت، the administrating of drugs، لغت میں ایسے ہی ترجمہ ہوتا ہے، یعنی ایک کنٹرول شدہ دوائی۔\n\nمگر پھر بھی اتنے لوگ اتنے ہی متفق کیوں ہو گئے؟\n\nہر قسم کے ماہرین کی ہدایت، ہر قسم کے سائنس اور تاریخ کے شواہد، سب کہتے تھے کہ محفوظ ہے۔\n\nمگر «سب کہتے تھے» کہ محفوظ ہے، اس کا مطلب یہ نہیں کہ «پوری طرح جانچ لی گئی ہے»۔ سب جانتے ہیں کہ اس وقت کے طبی حالات ابھی بھی ناکافی تھے۔\n\nالہام یہ ہے کہ جادو کو ایسے بچانے والی دوائی کے روپ میں پیش کیا جا سکتا ہے۔\n\nپھر اس کے ساتھ کوشش کی جاتی ہے، نیک نیتی سے، بہت سی تحقیق، شواہد اور ماہرین کی رائے شامل کر کے، حتیٰ کہ عالمی سطح پر اتحاد کر کے، رہنمائی اور بڑے بڑے سمت کے ذریعے ایسے کہ جیسے خود فیصلہ کر رہا ہو — مگر جواب کی سطح کو اتنی ہی مضبوطی سے رکھا جائے کہ لوگ اور مسیحی دونوں اس شک کے پر لیکن ہی شک کردہ دوائی کو قبول کر لیں۔\n\nجو بات کہنی ہے وہ یہ ہے: الہام اچانک نہیں آتا،\n\nالہام دنیا کی اُن قدیم روایت میں بھی بہت سال سے چھپا ہو سکتا ہے۔\n\nاور الہام کا ماخذ ہمیشہ سے وہی مار ہے — اُس نے تلوار سے نہیں، منہ سے کام کیا ہے، با，看似 منطقی دلائل سے؛ حوا کے وقت بھی ایسا ہی تھا، عیسی مسیح کے وقت بھی ایسا ہی تھا، مسیحیوں کے ساتھ بھی، اور تمہارے ساتھ بھی — تو کیوں نہ کہے جائے کہ وہ منہ سے تمہیں بھٹکا لے؟\n\nایک اور نکتہ ہے، شاید آپ کو غور کرنے کے قابل ہو۔\n\nاگر انجیل دیکھیں تو آپ کو ان دو گواہوں کا ذکر ملے گا جو اللہ کی طرف سے آئے، ان کی ترتیب ان پیارٹی کے کام سے شہادت کے کام تک ہے، تو ٹائم لائن پنچویں شاخ سے چھٹی شاخ کے مرحلے میں ہوتی ہے۔\n\nیعنی اگر کوئی ایسا شخص ہو جو صرف ان دو گواہوں کو دیکھ کر یقین کرے کہ وہ پہلے ہی سات سال کی بڑی آپ disaster میں ہے، تو اُس وقت اُس کے اپنے دل میں یہ سوچ بھی ہو سکتی ہے کہ اب وہ نہیں بچ سکتا، کیونکہ اُس نے ابھی جانور کا نشان، جانور کا نام اور جانور کا عدد قبول کر لیا ہے۔\n\nیہی وہ نکتہ ہے جہاں جاگتے رہنے کی ضرورت ہے: ہر شخص کے دل میں اپنا اپنا معیار ہوتا ہے، اور پرانے مار کا الہام یہ ہے کہ انسان کو یہ لگے کہ جو معیار وہ دیکھنا چاہتا ہے، اُسے ملنے کے بعد وہ وہی چیز مل جائے گی جو وہ چاہتا ہے۔\n\nدیکھنے کے لیے پہلے یقین کرنا پڑے گا کہ آپ بڑی آپ disaster میں ہیں — مگر اُس وقت ہی وہ ہے جب واپسی ممکن نہ رہے۔\n\nچاہے تیسرا گھر ہو، چاہے ضد مسیح اُس میں کھڑا ہو کر فخر سے باتیں کرے، چاہے دو گواہ ہوں۔\n\nاگر آپ جانتے ہیں کہ بہت سے لوگ ایسا سوچیں گے، تو دشمن کیسے یہ جال بچھائے گا کہ لوگوں کو بھول جائیں؟\n\nتاکہ بہت سے لوگ شہر کے دروازے سے باہر رہ جائیں، اور آخری لمحے میں ہی جانیں کہ وہ شہر میں داخل نہیں ہو سکتے؟\n\nدنیا میں ہمیشہ بہت سے راستے ہوتے ہیں، اور پولس نے کہا «اس دنیا کا پیرو نہ کرو، بلکہ اپنے دل کی تبدیلی سے بدل جاؤ» — سوچو، کیا یہ بات ان غیر مسیحیوں کے لیے کہی گئی ہے جو ابھی ایمان نہیں لائے، یا اُن اسرائیلیوں کے لیے جو پہلے ہی ایمان لائے چکے ہیں؟\n\nاگر آپ نے یہ سب سنتے ہیں تو آپ کو شاید کچھ سوچنا پڑے: کیا پوری کلیس کو کوئی مسئلہ ہے؟ یا شاید میں نے ہی کوئی بدھرت کا منظر دیکھ لیا ہے؟ کیا کروں؟ اور ایسے ہی۔\n\nسوچیے: پرانے نیا عہد کے وقت بھی، بایبل نے ہمیں پہلے ہی بتا دیا تھا کہ اُس وقت کے رسوم اور ثقافت کا کام یہ ہے کہ مسیح کو انکار کیا جائے اور مسیحیوں پر ظلم کیا جائے۔\n\nمسیح زمین پر تھا تو یہی حال تھا؛ پولس غیر یہودیوں اور اسرائیلیوں کے درمیان تھا تو بھی یہی حال تھا۔ کیا نہیں؟\n\nاور اب بھی با superficially convincing دلیلوں کے ذریعے، ایک formatted طریقے سے، ایسے مکمل طور پر قبول کیے گئے نظریات کے ذریعے لوگوں کو سویا رہنے دی جا سکتی ہے — اور جب معاملہ اچانک ظاہر ہو جائے، تب شاید بہت دیر ہو چکی ہو۔\n\nپرانے عہد میں، اسرائیلیوں کا بائبل کا理解 بالکل اللہ کی مراد نہیں تھا۔\n\nاسی طرح نئے عہد میں، گھر کے خادم کا نقطۂ نظر اتنا واضح کیوں ہے؟ یہ اللہ کی مراد ہے — کون کہتا ہے؟\n\nانسانی علم اور تجربے پر قائم ایک academic نظام کی تعمیرات سے؟\n\nتو کیا اس کا مطلب ہے کہ پرانوں کی وراثت پوری ہو گئی؟ اور ساتھ ہی [مرکی 7:7] انہوں نے لوگوں کے احکام کو شریعت بنا کر پڑھایا، تو مجھے بھی بے فائدہ عبادت کرنی پڑے گی۔\n\nاگر آج کا علم واقعی اللہ کی اصل مراد سے مختلف ہے، تو اگر کچھ ہو جائے تو اس کی ذمہ داری کون لے گا؟ وہ شخص جو انتخاب اور فیصلہ کرے — یعنی آپ خود۔\n\nیعنی اگر آپ عمومی سمت پر چلے، مگر آخر میں غلط ہو گئے، تو اس کا نتیجہ آپ ہی سنبھالیں گے — کیا یہ سودا نہیں ہے؟\n\nاُس وقت کے رسوم اور ثقافت۔ شاید یہ وہ نہیں جو بایبل میں کہا گیا ہے۔\n\nمسیح زمین پر تھا تو پولس غیر یہودیوں اور اسرائیلیوں کے درمیان تھا، یہی حالات تھا۔\n\nمسیحیوں کو تو دنیا کے اندر رہ کر پاک الگ ہونا ہی تھا — سوچو، کیا اس میں formatted ہو چکا ایمان شامل ہے؟\n\nسچ میں سوچنا ضروری ہے، کیونکہ ٹائم لائن کے مطابق تقریباً اب وہ وقت آ رہا ہے جب وہ کی آواز کے ساتھ تین «افسون» — ایک عقاب آسمان میں اڑتا ہوا چیخا، «افسون افسون افسون»۔\n\nیہ تین قسم کی آپ disasters نہیں، ایک ٹائم لائن کے تین نقاط ہیں: پانچویں، چھٹی اور ساتویں شاخ۔\n\nاور پانچویں شاخ میں ابھی بھی چار لائنیں ہیں، سب سے پہلی کا تخمینہ 16 فروری 2027 کا ہے۔\n\nآپ کو کچھ تناقضات سوچنے کی دی ہو سکتی ہیں — ضد مسیح نظر نہیں آیا، سبز چرا نہیں جلایا گیا، ذکر کردہ آپ disasters کوئی نظر نہیں آئے، تیسرا گھر ابھی نہیں بنا، تو میں کیسے مان سکتا ہوں کہ یہ بڑی آپ disaster ہے؟\n\nکلیس تو واضح طور پر کہتی ہے کہ pre-tribulation rapture ہے، کلیس مانے ہی نہیں لیتی کہ ہم آخر وقت میں ہیں، نہ ان چیزوں کا ذکر کرتی ہے — ہمیشہ missionary، خدمت، اور قدیسیوں کی زندگی کی بات کرتے رہے۔\n\nبس یہی ہے: جب سے یہ ہوا ہے تک، سات سال قریب ہو چکے ہیں، بہت سے لوگوں نے ایک سات سال سے نظرانداز کیا اور انکار کیا۔\n\nاگر سلیٹی گھوڑے کے وقت دنیا بھر میں اچانک لوگوں کا چوتھا حصہ مر جائے، اور خبر بھی شائع کی جائے، تو شاید پوری دنیا کو پتا چل جائے کہ ہاں، یہ تو انکشاف کی سات سال کی بڑی آپ disaster ہے، عجب بات ہے!\n\nتو ایسے میں تو لوگ شاید ذرا آرام محسوس کریں — کیونکہ انہیں معلوم ہو جائے گا کہ «اب ہو گیا»۔\n\nمگر کیا یہ صورتحال مسیح کی یہ ہدایت کے بالکل الٹ نہیں ہے کہ «جاگتے رہو، اپنے کپڑے بچاؤ»؟\n\nیعنی جتنے زیادہ واضح ہو آخری وقت کی حالت، دنیا اتنی ہی زیادہ لوگوں کو ہلپا دینے کی کوشش کرے گی کہ وہ ان چیزوں پر توجہ نہ دیں، ہمیشہ تشریحات ہوں، ہمیشہ لفظوں کا جادو ہوتا رہے۔\n\nمسیح کی نیا دلیا، جاگتے رہنا، کپڑے بچانا، اور دنیا کی معمولی زندگی میں رہتے ہوئے اس کا پیرو نہ کرنا، بلکہ دل کی تبدیلی سے بدل جانا — یہ سب کیوں؟\n\nکیونکہ ایمان کی بڑی راہ پر ضرور ہی ایسی باتیں موجود ہیں جو لوگوں کو ٹھکرا دیتی ہیں، اور اگر محتاط نہ رہے تو تنگ راستے پر چلے جاتے ہیں۔\n\nایسا ہوتا ہے کہ آپ دنیا کا پیرو کرتے رہیں، دنیا کی قید میں رہیں، مختلف لوگوں کے احکام ماننے کی عادت پیدا کر لیں، اور آخر میں ایمان میں گنوا دیا گیا ہو۔\n\nاس کے برعکس، ابھی جو دن پُرامنی ہے، روزانہ اللہ کے لیے جینا سیکھیے — انسانوں کے احکام اور پرانوں کی وراثت کے لیے نہیں — تو کیوں اپنے آپ کو formatted طریقے میں جینے دیں؟\n\nجب واقعی آخری وقت آ جائے، تو میں وہی کروں گا جو کلیس نے کہا تھا؟\n\nتو کیا اس کا مطلب یہ ہے کہ میں انکشاف کو بالکل نہیں مانتا، میں صرف وہی حصہ مانتا ہوں جو میں ماننا چاہتا ہوں؟\n\nیہ تو بالکل عام ہے، اور بہت پھیلا ہوا ہے۔\n\nمگر مسیحیوں کو، ہم جانیں کہ ہم اللہ کے ہیں، اور پوری دنیا اس شریر کی طاقت کے تحت ہے۔\n\nیعنی وہ چیز جو مجھے ابھی کہہ رہی ہے، وہ کبھی سے موجود تھی، ہمارے موجودہ ایمان کے نظام کے اندر۔\n\nآپ خود سنجیدگی سے بتائیے: کلیس میں کتنے مسائل ہمیشہ سے موجود رہے ہیں جو کبھی سامنے نہیں آئے؟\n\nیاد رکھیے، ہم زمین پر صرف مہمان ہیں، اس لیے «جاگتے رہو» کا مطلب یہ نہیں کہ ڈر جائیں، یا کلیس کے بارے میں کچھ کہیں۔\n\nبلکہ یہ ہے کہ جب «سب یہی کرتے ہیں» تو آپ رُک کر خود واضح دیکھیں۔\n\nسونا نہیں مطلب یہ ہے کہ یقین نہیں۔ سونا یہ ہے کہ یقین تو ہو گیا، مگر جاگ نہیں گئے۔ کیوں نہیں جاگے؟\n\nکیونکہ خود نظام کی سیٹنگ ہی یہ ہے کہ لوگ جاتے رہیں، جیسے اسرائیلی فاریسیوں کی ثقافت میں سو گئے تھے؛ اور غیر یہودیوں کے طور پر ہمیں بھی ایسی ہی صورتحال ہونی چاہیے۔\n\nحالانکہ بالکل واضح ہے، آپ کو دل سے سمجھ آنا چاہیے، مگر بہت سے لوگ نہیں سمجھ پاتے — یہی نظام اور formatted طریقے کا اثر ہے، جس نے اسرائیلیوں کو مسیح دکھا دیا، بہت سے معجزات بھی دکھا دیے، پھر بھی یقین نہیں کرنا چاہا۔\n\nاور جو جاگ گیا، اس کا مطلب یہ نہیں کہ وہ زیادہ جانتا ہے یا خاص طور پر ہوشیار ہے۔ جاگنے والا بس یہ ہے کہ دوبارہ نہیں سوتا، ⏎ دیکھیے آموس کی کتاب، کیا آپ اُس وقت کا اُسا دل محسوس کر سکتے ہیں؟\n\nآپ کی سنجیدگی سے سوچیے، انکشاف کی کلیسیں کیسے آج کی کلیس سے ملتی ہیں؟\n\nاس زندگی اور ابدیت، ⏎ جاگتے اور سو جائے،\n\nعلم کا خاتمہ ہونے والا ہے، ⏎ زبانوں کی بول چال ختم ہونے والی ہے۔\n\nہمیں مسیح کی دوبارہ آمد کا استقبال کس چیز کے ساتھ کرنا چاہیے؟\n\nاور آپ، آج ہی، خود کو جگا سکتے ہیں۔\n\nآپ ایک کام کر سکتے ہیں۔\n\nکوئی ایسا سوال لکھیے جو آپ نے کبھی اپنے سے نہیں پوچھا۔\n\nمثلاً: کیا میں یہ اس لیے مانتا ہوں کہ میں نے جانچ لی ہے، یا اس لیے کہ سب مانتے ہیں؟\n\nمیں نے تو شروع انکشاف کے اندر سے ہی یہ جاننا چاہا تھا کہ «جادو» یہ لفظ کس چیز کی طرف اشارہ کر رہا ہے۔\n\nکوئی ایک کہاوت چنیے جو آپ نے سنا ہے، اور ایک بار اس کی جانچ کریں۔ ایک لنک، ایک رپورٹ، ایک رسالہ — کچھ بھی ہو سکتا ہے۔\n\nPre-tribulation rapture ایک بہت اچھا مثال ہے: مسیح نے کہا «میں تمہارے ساتھ ہوں گا یہاں تک کہ دنیا کا آخر ہو جائے»، اور یہ بھی کہا کہ دنیا کا آخر فصل کا کٹائی ہے، فصل کا کٹنے والا فرشتے ہیں، یعنی آخری شاخ کی سیٹی سے پہلے، کلاشی کے وقت۔ تو آخر کیا ہے: مرحلہ وار رفتے، pre-tribulation، mid-tribulation، post-tribulation؟ کوئی rapture ہی نہیں؟ یا جیسا کہ بایبل صاف لکھتی ہے، آخری شاخ کی سیٹی اور مسیح کی آمد کے وقت؟ جو کہ کالے اور سفید پر Papers پر لکھا ہے وقت، ترتیب اور وضاحت — مگر نسل در نسل میں اس کا مطلب ایسے نچوڑا جا سکتا ہے جیسے کپڑے کو نچوڑا جاتا ہے، بار بار نچوڑا جاتا ہے، یہاں تک کہ اس میں نہ پانی رہے، نہ دل کو بھار نہ رکھے۔ کیا ایسا نہیں؟\n\nاگر پڑھنے کے بعد یہ آپ کے پہلے والے خیال سے مختلف نکلے، تو مبارک ہو، آپ نے آج ایک قدم آگے بڑھا لیا۔\n\nآپ کو اوپر دی گئی ہر کوئی نتیجہ قبول کرنے کی ضرورت نہیں۔ موجودہ نتیجہ بھی غلط ہو سکتا ہے — صفر مریض کی تاریخ پر آج بھی طبی دنیا میں بحث ہے۔\n\nمگر ایک بات قطعی ہے: ⏎ آپ نے آج یہ چند منٹ پڑھے ہیں، اور آپ نے وہ کام کر لیا ہے جو بہت سی کلیسیں مومنتاہ کہہ نہیں کرتیں — ⏎ آپ خود اصل متن ایک بار دیکھنے کی جرأت کی۔\n\nہر اُس مسیحی کو، جو نجات اور ابدی حیات کی امید رکھتا ہے، اپنی نجات کی ذمہ داری سنبھالنی اور نگہبانی کرنی ہے — کیوں ضروری ہے کہ اس کے لیے ایک واسطہ گزرے، جبکہ وہ واسطہ خود مسیح نہیں ہے؟\n\nامید ہے کہ ہم سب اللہ کے انعام اور رحم پر یقین رکھیں، ہمیشہ ہمارے ساتھ رہیں، یہاں تک کہ دنیا کا آخر ہو جائے۔ آمین۔\n\nیا رب یسوع مسیح آپ کو برکت دے، ⏎ آپ کا دل اور سوچیں محفوظ رکھے، ⏎ تاکہ آپ ہمیشہ اُس کی رحم میں رہیں، ⏎ ہمیشہ آپ کے ساتھ رہے، یہاں تک کہ دنیا کا آخر ہو جائے، ⏎ آپ کی رہنمائی کرے، یہاں تک کہ مسیح کی دوبارہ آمد کا دن آ جائے، ⏎ آمین۔\n";
+
+/* ═══════════ 狀態 ═══════════ */
+var S = {
+  voice:"B", speed:1.20, vol:0.9, fs:19, lh:1.9, theme:"abyss",
+  music:false, follow:false, cur:-1, seekTo:null, type:false
+};
+/* ★ 2026-10-29 22:05 手機版修正：
+   ① 舊 decodeTrack() 讀已改名嘅 #segdata → null.textContent → 「啟動失敗」（手機實測）
+   ② 39 MB 一個 JSON.parse → 記憶體爆 → 改成「每段一個 script 標籤」，唔做 JSON.parse，
+      每次只讀當前一段 base64 → 記憶體只需一份 text，唔會 duplicate。 */
+var SEGD = {"A": [], "B": []};        /* {A:[每段秒數], B:[…]} */
+var SEGSAME = true;  /* true＝兩條聲線同一份音檔（省一半體積） */
+/* ★ 2026-10-31：改用 Blob URL（唔用長 data: URI）
+   理由：部分手機瀏覽器（尤其 iOS Safari）對長 data:audio/mpeg;base64 URI 處理唔穩，
+   讀著讀著會斷。Blob URL 更短、更快，而且可以明確 revoke 釋放舊 buffer。 */
+var __segUrl=null, __segUrlIdx=-1;
+function segB64(v,i){
+  var el = document.getElementById("sg_"+(SEGSAME&&v==="B"?"A":v)+"_"+i);
+  return el ? el.textContent : "";
+}
+function segBytes(v,i){
+  try{
+    var b64=segB64(v,i).replace(/\s/g,"");
+    if(!b64) return null;
+    var bin=atob(b64);
+    var u=new Uint8Array(bin.length);
+    for(var k=0;k<bin.length;k++) u[k]=bin.charCodeAt(k);
+    return u;
+  }catch(e){ return null; }
+}
+function segUrl(v,i){
+  var u=segBytes(v,i);
+  if(!u) return "";
+  try{
+    if(window.URL&&URL.createObjectURL) return URL.createObjectURL(new Blob([u],{type:"audio/mpeg"}));
+  }catch(e){}
+  return "data:audio/mpeg;base64,"+segB64(v,i).replace(/\s/g,"");
+}
+function releaseSegUrl(){
+  if(__segUrl){ try{ URL.revokeObjectURL(__segUrl); }catch(e){} __segUrl=null; }
+}
+var audio = null, cur = null, raf = 0, ctx = null, master = null, musicGain = null;
+var curSeg = -1, playing = false;   /* ★ 逐段播放：當前段 index ＋ 播放狀態 */
+
+/* ═══════════ sessionStorage ═══════════ */
+function ss(k,v){ if(v===undefined) return sessionStorage.getItem(k); sessionStorage.setItem(k,v); }
+function loadPrefs(){
+  S.theme = ss("ap_theme") || "abyss";
+  S.fs = +(ss("ap_fs")||19); S.lh = +(ss("ap_lh")||1.9);
+  S.vol = +(ss("ap_vol")||0.9); S.voice = ss("ap_voice")||"B";
+  S.speed = +(ss("ap_speed")||1.20); S.music = ss("ap_music")==="1";
+  S.follow = ss("ap_follow")==="1";
+  document.documentElement.dataset.theme = S.theme;
+  document.documentElement.style.setProperty("--fs", S.fs+"px");
+  document.documentElement.style.setProperty("--lh", S.lh);
+  setThemeBtns();
+}
+function savePrefs(){
+  ss("ap_theme",S.theme); ss("ap_fs",S.fs); ss("ap_lh",S.lh);
+  ss("ap_vol",S.vol); ss("ap_voice",S.voice); ss("ap_speed",S.speed);
+  ss("ap_music",S.music?"1":"0"); ss("ap_follow",S.follow?"1":"0");
+}
+
+/* ═══════════ 進度條 ═══════════ */
+function setProg(p){ document.getElementById("prog").style.width = (p*100)+"%"; }
+
+/* ═══════════ 音頻：逐段 mp3（data URI，瀏覽器原生解碼）═══════════
+   ★ 2026-10-29 22:05 修：舊 decodeTrack() 讀已改名的 #segdata → null.textContent → 手機直接「啟動失敗」。
+   ★ 逐段方案唔需要預解碼全部音頻（手機記憶體會爆），每次只解碼當前段 → 記憶體友好、秒開。 */
+
+/* ═══════════ Web Audio：音樂＋音效 ═══════════ */
+function actx(){
+  if(!ctx){ ctx = new (window.AudioContext||window.webkitAudioContext)();
+    master = ctx.createGain(); master.gain.value=1; master.connect(ctx.destination); }
+  if(ctx.state==="suspended") ctx.resume();
+  return ctx;
+}
+function noiseBuf(ac, sec){
+  var b = ac.createBuffer(1, ac.sampleRate*sec, ac.sampleRate), d=b.getChannelData(0);
+  for(var i=0;i<d.length;i++) d[i]=(Math.random()*2-1)*0.7;
+  return b;
+}
+function startMusic(){
+  var ac = actx();
+  musicGain = ac.createGain(); musicGain.gain.value=0; musicGain.connect(master);
+  [55,58.27,82.41].forEach(function(f,i){
+    var o=ac.createOscillator(); o.type = (i===2?"triangle":"sine"); o.frequency.value=f;
+    var g=ac.createGain(); g.gain.value = (i===2?0.010:0.045);
+    var lp=ac.createBiquadFilter(); lp.type="lowpass"; lp.frequency.value=250;
+    o.connect(g); g.connect(lp); lp.connect(musicGain); o.start();
+  });
+  var ns=ac.createBufferSource(); ns.buffer=noiseBuf(ac,4); ns.loop=true;
+  var bp=ac.createBiquadFilter(); bp.type="bandpass"; bp.frequency.value=430; bp.Q.value=0.55;
+  var ng=ac.createGain(); ng.gain.value=0.055;
+  var lfo=ac.createOscillator(); lfo.frequency.value=0.06;
+  var lg=ac.createGain(); lg.gain.value=200; lfo.connect(lg); lg.connect(bp.frequency); lfo.start();
+  ns.connect(bp); bp.connect(ng); ng.connect(musicGain); ns.start();
+  musicGain.gain.linearRampToValueAtTime(0.5, ac.currentTime+3.5);
+  S.music=true; syncMusicBtn();
+}
+function stopMusic(){
+  if(musicGain && ctx) musicGain.gain.linearRampToValueAtTime(0, ctx.currentTime+1.4);
+  S.music=false; syncMusicBtn();
+}
+function sfxHorn(){
+  if(!ctx) return; var ac=ctx, t=ac.currentTime;
+  var o=ac.createOscillator(); o.type="sawtooth"; o.frequency.setValueAtTime(146.83,t);
+  var lp=ac.createBiquadFilter(); lp.type="lowpass";
+  lp.frequency.setValueAtTime(380,t); lp.frequency.linearRampToValueAtTime(1250,t+.75);
+  lp.frequency.linearRampToValueAtTime(320,t+1.7);
+  var g=ac.createGain(); g.gain.setValueAtTime(0,t);
+  g.gain.linearRampToValueAtTime(.20,t+.13); g.gain.setValueAtTime(.20,t+1.05);
+  g.gain.linearRampToValueAtTime(0,t+1.75);
+  o.connect(lp); lp.connect(g); g.connect(master); o.start(t); o.stop(t+1.8);
+}
+function sfxThunder(){
+  if(!ctx) return; var ac=ctx, t=ac.currentTime;
+  var n=ac.createBufferSource(); n.buffer=noiseBuf(ac,2.4);
+  var lp=ac.createBiquadFilter(); lp.type="lowpass"; lp.frequency.value=140; lp.Q.value=.6;
+  var g=ac.createGain(); g.gain.setValueAtTime(0,t);
+  g.gain.linearRampToValueAtTime(.16,t+.12); g.gain.exponentialRampToValueAtTime(.0008,t+2.3);
+  n.connect(lp); lp.connect(g); g.connect(master); n.start(t); n.stop(t+2.4);
+  flash();
+}
+function sfxTick(){
+  if(!ctx) return; var ac=ctx, t=ac.currentTime;
+  var o=ac.createOscillator(); o.type="square"; o.frequency.value=760;
+  var g=ac.createGain(); g.gain.setValueAtTime(.05,t); g.gain.exponentialRampToValueAtTime(.0005,t+.07);
+  o.connect(g); g.connect(master); o.start(t); o.stop(t+.09);
+}
+
+/* ═══════════ canvas 煙塵／火燼／閃電 ═══════════ */
+var fxC=null, fxp=[], emb=[], flTimer=0, reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+function initFX(){
+  fxC = document.getElementById("fx");
+  var w = fxC.width = innerWidth*devicePixelRatio, h = fxC.height = innerHeight*devicePixelRatio;
+  fxC.style.width=innerWidth+"px"; fxC.style.height=innerHeight+"px";
+  for(var i=0;i<70;i++) fxp.push({x:Math.random()*w,y:Math.random()*h,r:(Math.random()*1.8+.6)*devicePixelRatio,
+    vy:(Math.random()*.25+.06)*devicePixelRatio,vx:(Math.random()*.3-.15)*devicePixelRatio,a:Math.random()*.5+.15});
+  for(var j=0;j<26;j++) emb.push({x:Math.random()*w,y:h-Math.random()*h*.7,r:(Math.random()*2.2+.8)*devicePixelRatio,
+    vy:-(Math.random()*.55+.25)*devicePixelRatio,a:Math.random()*.55+.25,t:Math.random()*10});
+  addEventListener("resize", initFX, {once:true});
+  requestAnimationFrame(loopFX);
+}
+function loopFX(){
+  var c=fxC.getContext("2d"), W=fxC.width, H=fxC.height;
+  c.clearRect(0,0,W,H);
+  if(!reduced){
+    for(var i=0;i<fxp.length;i++){ var p=fxp[i];
+      p.x+=p.vx; p.y+=p.vy;
+      if(p.y>H){p.y=-4;p.x=Math.random()*W;} if(p.x<-6)p.x=W+6; if(p.x>W+6)p.x=-6;
+      c.fillStyle="rgba(190,180,165,"+(p.a*0.42)+")";
+      c.beginPath(); c.arc(p.x,p.y,p.r,0,6.2832); c.fill();
+    }
+    for(var j=0;j<emb.length;j++){ var e=emb[j];
+      e.t+=0.02; e.y+=e.vy; e.x+=Math.sin(e.t*1.4)*0.25;
+      if(e.y<-10){ e.y=H+8; e.x=Math.random()*W; }
+      var g=c.createRadialGradient(e.x,e.y,0,e.x,e.y,e.r*4);
+      g.addColorStop(0,"rgba(255,"+(150+Math.floor(Math.sin(e.t)*40))+",60,"+(e.a*0.75)+")");
+      g.addColorStop(1,"rgba(200,68,42,0)");
+      c.fillStyle=g; c.beginPath(); c.arc(e.x,e.y,e.r*4,0,6.2832); c.fill();
+    }
+  }
+  requestAnimationFrame(loopFX);
+}
+function flash(){
+  var v=document.getElementById("vig");
+  v.style.background="radial-gradient(70% 55% at 50% 45%,rgba(255,255,255,.55) 0%,rgba(200,68,42,.15) 35%,rgba(0,0,0,.85) 100%)";
+  setTimeout(function(){ v.style.background=""; },180);
+}
+setInterval(function(){ if(!reduced && Math.random()<0.5) sfxThunder(); }, 11000);
+
+/* ═══════════ 三禍開場 ═══════════ */
+function woeIntro(){
+  var ws = document.querySelectorAll(".woe"), i=0;
+  (function step(){
+    if(i>=ws.length) return;
+    ws[i].classList.add("on"); sfxHorn();
+    setTimeout(function(){ if(i>0) ws[i-1].classList.remove("on"); }, 1500);
+    i++; setTimeout(step,1900);
+  })();
+}
+
+/* ═══════════ 時間線卡 ═══════════ */
+function buildTimeline(){
+  var box=document.getElementById("tcards");
+  var minD=Math.min.apply(null,TIMELINE.map(function(t){return t.days;}));
+  var maxD=Math.max.apply(null,TIMELINE.map(function(t){return t.days;}));
+  box.innerHTML = TIMELINE.map(function(t,i){
+    var pct = 8 + 82*(t.days-minD)/Math.max(1,(maxD-minD));
+    return '<div class="tcard" data-para="'+t.para+'" data-i="'+i+'">'+
+      '<div class="no">0'+(i+1)+'</div>'+
+      '<div class="d">'+t.date+'</div>'+
+      '<div class="lb">'+t.label+'</div>'+
+      '<div class="bar"><i style="width:'+pct+'%"></i></div></div>';
+  }).join("");
+  Array.prototype.forEach.call(box.querySelectorAll(".tcard"), function(c){
+    c.addEventListener("click", function(){
+      var p=+(c.getAttribute("data-para"));
+      gotoPara(p,true);
+    });
+  });
+}
+
+/* ═══════════ 跟讀 ═══════════ */
+/* ★ paras 要包埋「另一種解法」區嘅段落 → document order ＝ 稿順序，時間軸先對得位 */
+var paras = Array.prototype.slice.call(document.querySelectorAll("#doc p, #asidebody p"));
+function applyFollow(i, t){
+  if(i==null || i<0) return;
+  if(i!==S.cur){
+    if(S.cur>=0 && paras[S.cur]) paras[S.cur].classList.remove("on");
+    S.cur=i;
+    if(paras[i]){
+      /* ★ 當前段落如果喺摺埋嘅 toggle（數字系統）入面 → 自動展開，否則跟讀會 scroll 唔到 */
+      var tg = paras[i].closest ? paras[i].closest("details.docTg") : null;
+      if(tg && !tg.open) tg.open=true;
+      paras[i].classList.add("on");
+      if(S.follow) paras[i].scrollIntoView({block:"center",behavior:"smooth"});
+    }
+    var sec = secOf(i);
+    if(sec>=0) markRail(sec);
+  }
+  if(S.cur>=0 && paras[S.cur]){
+    var tw = paras[S.cur].querySelector(".tw");
+    if(tw){
+      var arr=segList();
+      var d = (arr[S.cur] && arr[S.cur].d) || 1;
+      var k = Math.max(0,Math.min(1, t/d));
+      var txt = PARA_TEXT[S.cur]||"";
+      tw.textContent = S.type ? txt.slice(0, Math.round(txt.length*k)) : txt;
+    }
+  }
+}
+function secOf(p){
+  for(var i=0;i<SECTIONS.length;i++){ if(p>=SECTIONS[i].from && p<=SECTIONS[i].to) return i; }
+  return -1;
+}
+function markRail(sec){
+  var dots=document.querySelectorAll("#rail a");
+  Array.prototype.forEach.call(dots,function(d,i){ d.classList.toggle("on", i===sec); });
+}
+
+/* ═══════════ 跳段（點邊讀邊）═══════════ */
+function gotoPara(p, play){
+  if(p==null || p<0 || p>=PARA_TEXT.length) return;
+  if(paras[p]){
+    /* ★ 目標段落喺摺埋嘅 toggle（數字系統）入面 → 先展開，否則 scroll 唔到 */
+    var tg = paras[p].closest ? paras[p].closest("details.docTg") : null;
+    if(tg && !tg.open) tg.open=true;
+  }
+  if(play) playSeg(p, 0);          /* ★ 點邊個段，就由邊個段開始讀 */
+  if(paras[p]) paras[p].scrollIntoView({block:"center",behavior:"smooth"});
+}
+
+/* ═══════════ 播放控制（逐段：點邊讀邊／暫停接續／換聲同位重讀）═══════════ */
+function segList(){ return (SEGD && SEGD[S.voice]) ? SEGD[S.voice] : []; }
+function globalTime(){
+  var arr=segList(), t=0;
+  for(var i=0;i<curSeg && i<arr.length;i++) t += (arr[i].d||0);
+  return t + (audio ? audio.currentTime : 0);
+}
+function ensureAudio(){
+  if(audio) return audio;
+  audio = new Audio(); audio.preload="auto"; audio.volume=S.vol;
+  /* ★ iOS Safari：detached audio element 唔會播 → 一定要入 DOM */
+  try{ if(document.body && !audio.parentNode) document.body.appendChild(audio); }catch(e){}
+  audio.addEventListener("error", function(){
+    var e=audio.error;
+    showAudioError("آڈیو لوڈ ناکام (کوڈ "+(e?e.code:"?")+") · "+(curSeg+1)+"ویں حصہ");
+  });
+  audio.addEventListener("ended", function(){
+    if(curSeg+1 < segList().length) playSeg(curSeg+1, 0);   /* 一段完 → 接下一段 */
+    else { playing=false; setPlayIcon(false); }
+  });
+  audio.addEventListener("timeupdate", function(){
+    if(!playing) return;
+    setProg(globalTime()/(DUR[S.voice]||1));
+    if(S.follow) applyFollow(curSeg, audio.currentTime);
+  });
+  return audio;
+}
+function playSeg(i, off){
+  var arr=segList();
+  if(i<0 || i>=arr.length) return;
+  var a=ensureAudio();
+  a.pause();
+  releaseSegUrl();                       /* ★ 先釋放上一段嘅 buffer */
+  var nu = segUrl(S.voice, i);
+  if(!nu) { showAudioError("آڈیو فائل لوڈ نہیں ہو سکی: "+(i+1)+"ویں حصہ"); return; }
+  if(nu.indexOf("blob:")===0) __segUrl=nu;
+  a.src=nu;   /* ★ 逐段：只解碼當前一段，手機友好（Blob URL 優先，data URI fallback） */
+  a.playbackRate=S.speed;
+  curSeg=i;
+  a.play().catch(function(){});
+  if(off>0){ setTimeout(function(){ try{ a.currentTime=off; }catch(e){} }, 80); }
+  playing=true; setPlayIcon(true);
+}
+function setPlayIcon(playing){
+  var t = playing?"❚❚":"▶";
+  document.getElementById("fplay").textContent = t;
+  var m=document.getElementById("mplay"); if(m) m.textContent=t;
+  document.getElementById("btnStart").textContent = playing?"❚❚ وقفہ":"▶ سننا شروع کریں";
+}
+function togglePlay(){
+  var a=ensureAudio();
+  if(playing && !a.paused){ a.pause(); playing=false; setPlayIcon(false); return; }
+  if(curSeg<0) curSeg=0;
+  /* ★ 續播：同一段直接 play（保留段內 offset），唔會由頭 */
+  if(a.src && a.src.indexOf("data:audio/mpeg")===0){
+    a.playbackRate=S.speed; a.play().catch(function(){}); playing=true; setPlayIcon(true); return;
+  }
+  playSeg(curSeg, 0);
+}
+
+function applyVoice(k){
+  /* ★ 換聲：記住目前段 ＋ 段內位置 → 換聲後由同一位置重讀（唔會由頭） */
+  var a=audio;
+  var off = (a && curSeg>=0) ? (a.currentTime||0) : 0;
+  S.voice=(SEGD&&SEGD[k]&&SEGD[k].length)?k:S.voice; setSpeed(SPEED0[S.voice]); syncMusicBtn(); savePrefs();
+  if(curSeg>=0) playSeg(curSeg, off);
+}
+
+/* ═══════════ UI 綁定 ═══════════ */
+function setThemeBtns(){
+  Array.prototype.forEach.call(document.querySelectorAll("#fthemes .ftsw"), function(b){
+    b.classList.toggle("on", b.getAttribute("data-t")===S.theme);
+  });
+}
+function syncMusicBtn(){
+  document.getElementById("btnMusic").classList.toggle("on", S.music);
+  document.getElementById("fmusic").classList.toggle("on", S.music);
+  document.getElementById("btnFollow").classList.toggle("on", S.follow);
+  document.getElementById("ffollow").classList.toggle("on", S.follow);
+  document.getElementById("vA").classList.toggle("on", S.voice==="A");
+  document.getElementById("vB").classList.toggle("on", S.voice==="B");
+  document.getElementById("fvoiceA").classList.toggle("on", S.voice==="A");
+  document.getElementById("fvoiceB").classList.toggle("on", S.voice==="B");
+  document.getElementById("fabTitle").textContent = "آواز: "+LABEL[S.voice];
+  var mv=document.getElementById("mvoice"); if(mv) mv.textContent = S.voice==="A"?"♀ خاتون":"♂ مرد";
+  var mf=document.getElementById("mfollow"); if(mf) mf.classList.toggle("on", S.follow);
+}
+function setSpeed(v){
+  S.speed = Math.max(0.5, Math.min(2.5, Math.round(v*100)/100));
+  if(audio) audio.playbackRate=S.speed;
+  document.getElementById("spVal").textContent = S.speed.toFixed(2)+"×";
+  document.getElementById("fspeed").textContent = S.speed.toFixed(2)+"×";
+  savePrefs();
+}
+function setFs(v){ S.fs=Math.max(16,Math.min(26,v));
+  document.documentElement.style.setProperty("--fs",S.fs+"px");
+  document.getElementById("fsVal").textContent=S.fs; savePrefs(); }
+function setLh(v){ S.lh=Math.max(1.4,Math.min(2.6,Math.round(v*10)/10));
+  document.documentElement.style.setProperty("--lh",S.lh);
+  document.getElementById("lhVal").textContent=S.lh.toFixed(1); savePrefs(); }
+function setTheme(t){ S.theme=t; document.documentElement.dataset.theme=t; setThemeBtns(); savePrefs(); }
+
+function bind(){
+  document.getElementById("btnStart").addEventListener("click", togglePlay);
+  document.getElementById("vA").addEventListener("click", function(){ applyVoice("A"); });
+  document.getElementById("vB").addEventListener("click", function(){ applyVoice("B"); });
+  document.getElementById("vSwap").addEventListener("click", function(){ applyVoice(S.voice==="A"?"B":"A"); });
+  Array.prototype.forEach.call(document.querySelectorAll("[data-sp]"), function(b){
+    b.addEventListener("click", function(){ setSpeed(S.speed + parseFloat(b.getAttribute("data-sp"))); sfxTick(); });
+  });
+  Array.prototype.forEach.call(document.querySelectorAll("[data-fs]"), function(b){
+    b.addEventListener("click", function(){ setFs(S.fs + parseInt(b.getAttribute("data-fs"))); });
+  });
+  Array.prototype.forEach.call(document.querySelectorAll("[data-lh]"), function(b){
+    b.addEventListener("click", function(){ setLh(S.lh + parseFloat(b.getAttribute("data-lh"))); });
+  });
+  document.getElementById("vol").addEventListener("input", function(e){
+    S.vol = e.target.value/100; if(audio) audio.volume=S.vol; savePrefs(); });
+  document.getElementById("btnMusic").addEventListener("click", function(){ S.music?stopMusic():startMusic(); });
+  document.getElementById("fmusic").addEventListener("click", function(){ S.music?stopMusic():startMusic(); });
+  document.getElementById("btnFollow").addEventListener("click", function(){ S.follow=!S.follow; syncMusicBtn(); savePrefs();
+    if(!S.follow && S.cur>=0 && paras[S.cur]){ var tw=paras[S.cur].querySelector(".tw"); if(tw) tw.textContent=PARA_TEXT[S.cur]; } });
+  document.getElementById("ffollow").addEventListener("click", function(){ document.getElementById("btnFollow").click(); });
+  document.getElementById("btnTheme").addEventListener("click", function(){ setTheme(S.theme==="abyss"?"scroll":"abyss"); });
+  Array.prototype.forEach.call(document.querySelectorAll("#fthemes .ftsw"), function(b){
+    b.addEventListener("click", function(){ setTheme(b.getAttribute("data-t")); });
+  });
+  document.getElementById("fplay").addEventListener("click", togglePlay);
+  document.getElementById("fhead").addEventListener("click", function(){
+    curSeg=0; playSeg(0,0);                /* ★ شروع سے دوبارہ چلائیں */
+  });
+  function applyVoiceUnused(k){}
+  /* ★ 點任何一段 → 就由嗰段開始讀 */
+  Array.prototype.forEach.call(paras, function(p,i){
+    p.addEventListener("click", function(){ gotoPara(i,true); });
+  });
+  /* ★ 手機底部功能條 */
+  var mb=document.getElementById("mplay"); if(mb) mb.addEventListener("click", togglePlay);
+  var mv=document.getElementById("mvoice"); if(mv) mv.addEventListener("click", function(){ applyVoice(S.voice==="A"?"B":"A"); });
+  var mf=document.getElementById("mfollow"); if(mf) mf.addEventListener("click", function(){ document.getElementById("btnFollow").click(); });
+  var mt=document.getElementById("mtl"); if(mt) mt.addEventListener("click", function(){
+    var d=document.getElementById("tlfull"); if(d){ d.open=true; d.scrollIntoView({block:"start",behavior:"smooth"}); }
+  });
+  var mth=document.getElementById("mtheme"); if(mth) mth.addEventListener("click", function(){ setTheme(S.theme==="abyss"?"scroll":"abyss"); });
+  var ms=document.getElementById("msearch"); if(ms) ms.addEventListener("click", function(){ document.getElementById("btnSearch").click(); });
+  document.getElementById("fvoiceA").addEventListener("click", function(){ applyVoice("A"); });
+  document.getElementById("fvoiceB").addEventListener("click", function(){ applyVoice("B"); });
+  document.getElementById("fvoiceSwap").addEventListener("click", function(){ applyVoice(S.voice==="A"?"B":"A"); });
+  document.getElementById("fslower").addEventListener("click", function(){ setSpeed(S.speed-0.1); });
+  document.getElementById("ffaster").addEventListener("click", function(){ setSpeed(S.speed+0.1); });
+  var fTL=document.getElementById("fTL"); if(fTL) fTL.addEventListener("click", function(){
+  var p2=document.getElementById("fabpanel"); if(p2) p2.classList.remove("open");
+  var fb=document.getElementById("fab"); if(fb) fb.textContent="\u2630";
+  document.getElementById("tl").scrollIntoView({behavior:"smooth"});
+});
+var fS=document.getElementById("fSearch"); if(fS) fS.addEventListener("click", function(){
+  var p3=document.getElementById("fabpanel"); if(p3) p3.classList.remove("open");
+  var fb2=document.getElementById("fab"); if(fb2) fb2.textContent="\u2630";
+  document.getElementById("btnSearch").click();
+});
+document.getElementById("fab").addEventListener("click", function(){
+    var p=document.getElementById("fabpanel"); p.classList.toggle("open");
+    document.getElementById("fab").textContent = p.classList.contains("open")?"✕":"☰";
+  });
+  document.getElementById("top").addEventListener("click", goTop);
+  document.getElementById("toTop2").addEventListener("click", goTop);
+  document.getElementById("copyAll").addEventListener("click", function(){
+    var t=PARA_TEXT.join("\n\n");
+    if(navigator.clipboard) navigator.clipboard.writeText(t);
+    else { var ta=document.createElement("textarea"); ta.value=t; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); document.body.removeChild(ta); }
+    var b=this; var o=b.textContent; b.textContent="✅ نقل ہو گیا"; setTimeout(function(){b.textContent=o;},1400);
+  });
+  document.getElementById("dlMd").addEventListener("click", function(e){
+    e.preventDefault(); dlText("天使三禍_讀稿_合併_v20_ur.md", MD_TEXT);
+  });
+  /* ★ Ollie 2026-10-31：下載離線 html —— 原本個 handler 只做 e.preventDefault()，乜都唔做，
+     所以 Android 撳落去完全冇反應。改為：href 指向本頁（location.pathname），
+     配合 download 屬性，瀏覽器直接落載呢個檔案（線上／本機檔都得）。 */
+  var dlEl=document.getElementById("dlAll");
+  if(dlEl){ dlEl.href=location.pathname; }
+  /* ★ 2026-11-02: add a download button next to line-height (same download logic) */
+  var dlTop=document.getElementById("dlTop");
+  if(dlTop){ dlTop.addEventListener("click",function(){
+    var a=document.createElement("a");
+    a.href=location.pathname;
+    a.download="rev_08_13_ur.html";
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  }); }
+  document.getElementById("prevSec").addEventListener("click", function(){ stepSec(-1); });
+  document.getElementById("nextSec").addEventListener("click", function(){ stepSec(1); });
+  document.getElementById("btnSearch").addEventListener("click", function(){
+    var s=document.getElementById("search"); s.classList.toggle("on");
+    if(s.classList.contains("on")) document.getElementById("sInput").focus();
+  });
+  document.getElementById("sInput").addEventListener("input", doSearch);
+  document.getElementById("sInput").addEventListener("keydown", function(e){
+    if(e.key==="Enter"){ var m=document.querySelector("mark"); if(m) m.scrollIntoView({block:"center"}); }
+    if(e.key==="Escape"){ document.getElementById("search").classList.remove("on"); }
+  });
+  document.addEventListener("keydown", function(e){
+    if(e.target.tagName==="INPUT") return;
+    if(e.code==="Space"){ e.preventDefault(); togglePlay(); }
+    else if(e.key==="Escape"){ if(audio){audio.pause(); setPlayIcon(false);} }
+    else if(e.key==="ArrowRight"){ stepPara(1); }
+    else if(e.key==="ArrowLeft"){ stepPara(-1); }
+    else if(e.key==="t"||e.key==="T"){ setTheme(S.theme==="abyss"?"scroll":"abyss"); }
+    else if(e.key==="m"||e.key==="M"){ S.music?stopMusic():startMusic(); }
+    else if(e.key==="f"||e.key==="F"){ document.getElementById("btnFollow").click(); }
+    else if(e.key==="s"||e.key==="S"){ document.getElementById("btnSearch").click(); }
+  });
+  addEventListener("scroll", function(){
+    var h=document.body.scrollHeight-innerHeight;
+    if(h>0) setProg(Math.min(1,scrollY/h)*0.999);
+  });
+}
+function goTop(){ scrollTo({top:0,behavior:"smooth"}); }
+function stepPara(d){
+  var p=Math.max(0,Math.min(PARA_TEXT.length-1,(S.cur<0?0:S.cur)+d));
+  gotoPara(p,false);
+  if(audio){ audio.currentTime=tl.paragraphs[p][0]+0.02; }
+  sfxTick();
+}
+function stepSec(d){
+  var cur=secOf(S.cur<0?0:S.cur), n=Math.max(0,Math.min(SECTIONS.length-1,cur+d));
+  gotoPara(SECTIONS[n].from,true);
+}
+function doSearch(e){
+  var q=e.target.value.trim();
+  var info=document.getElementById("sInfo");
+  Array.prototype.forEach.call(paras,function(p){ var tw=p.querySelector(".tw"); if(tw) tw.textContent=PARA_TEXT[+p.getAttribute("data-i")]||""; });
+  if(!q){ info.textContent=""; return; }
+  var n=0;
+  Array.prototype.forEach.call(paras,function(p){
+    var i=+p.getAttribute("data-i"), txt=PARA_TEXT[i]||"", tw=p.querySelector(".tw");
+    if(tw && txt.indexOf(q)>=0){ tw.innerHTML=txt.split(q).join("<mark>"+q.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+"</mark>"); n++; }
+  });
+  info.textContent = n? n+" حصے":"کوئی نہیں";
+}
+function dlText(name, text){
+  var b=new Blob([text],{type:"text/markdown;charset=utf-8"});
+  var a=document.createElement("a"); a.href=URL.createObjectURL(b); a.download=name;
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+}
+
+/* ═══════════ toggle：撳內容即可摺返 ═══════════ */
+function bindToggles(){
+  /* ★ Ollie 2026-10-29：任何 toggle 打開後，撳入面任何範圍都要即刻摺返，
+     唔使撳返個三角。summary 本身保留原有 toggle 行為。 */
+  Array.prototype.forEach.call(document.querySelectorAll("details"), function(d){
+    var sm=d.querySelector("summary"); if(!sm) return;
+    var body=sm.nextElementSibling; if(!body) return;
+    body.addEventListener("click", function(){ d.open=false; });
+  });
+}
+
+/* ═══════════ rail ═══════════ */
+function buildRail(){
+  var r=document.getElementById("rail");
+  r.innerHTML = SECTIONS.map(function(s,i){
+    return '<a href="#" data-i="'+i+'"><span>'+s.title+'</span></a>';
+  }).join("");
+  Array.prototype.forEach.call(r.querySelectorAll("a"), function(a){
+    a.addEventListener("click", function(e){ e.preventDefault(); gotoPara(SECTIONS[+a.getAttribute("data-i")].from,true); });
+  });
+}
+
+/* ═══════════ 啟動 ═══════════ */
+function boot(){
+  loadPrefs();
+  setThemeBtns(); syncMusicBtn();
+  setSpeed(S.speed); setFs(S.fs); setLh(S.lh);
+  document.getElementById("vol").value = Math.round(S.vol*100);
+  buildTimeline(); buildRail(); bind(); bindToggles();
+  initFX(); woeIntro();
+  if(!reduced) setTimeout(function(){ sfxThunder(); }, 2500);
+  /* ★ 逐段 mp3：唔預解碼全部音頻 → 手機秒開、記憶體友好 */
+  var lb=document.getElementById("loadbox"); lb.style.opacity="0";
+  setTimeout(function(){ lb.style.display="none"; }, 350);
+  document.getElementById("loadtxt").textContent="تیار";
+  if(S.music) startMusic();
+}
+try{ boot(); }catch(e){ document.getElementById("loadtxt").textContent="شروع ناکام: "+e; }
+
+/* ★ 音頻出錯提示（唔會靜靜死機） */
+function showAudioError(msg){
+  var box=document.getElementById("auderr");
+  if(!box){
+    box=document.createElement("div");
+    box.id="auderr";
+    box.style.cssText="position:fixed;left:0;right:0;bottom:0;z-index:300;padding:12px 16px;"
+      +"background:rgba(120,20,20,.96);color:#ffe0e0;font-size:15px;line-height:1.6;"
+      +"border-top:2px solid #ff6b6b;display:flex;gap:12px;align-items:center;flex-wrap:wrap";
+    var sp=document.createElement("span");
+    sp.style.flex="1"; sp.id="auderrmsg";
+    var bt=document.createElement("button");
+    bt.textContent="صفحہ دوبارہ لوڈ کریں";
+    bt.style.cssText="padding:7px 14px;border:1px solid #ff9b9b;background:#8b1f1f;color:#fff;"
+      +"border-radius:6px;font-size:14px;cursor:pointer";
+    bt.onclick=function(){ location.reload(); };
+    box.appendChild(sp); box.appendChild(bt);
+    document.body.appendChild(box);
+  }
+  var m=document.getElementById("auderrmsg");
+  if(m) m.textContent=msg;
+  box.style.display="flex";
+}
+</script>
+</body>
+</html>
