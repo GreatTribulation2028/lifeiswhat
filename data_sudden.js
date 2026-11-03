@@ -1,4 +1,4 @@
-// 猝死 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1895 條
+// 猝死 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1889 條
 var DATA_SUDDEN = `
 2026-11-03	驚悚！南投武界落石削臉掉出眼球 女山友重創搶救	https://news.ltn.com.tw/news/society/breakingnews/5628058	其他急症	-
 2026-11-03	西乙前鋒遭對手守門員膝撞 當場陷入昏迷	https://www.am730.com.hk/article/1061706	其他急症	-
@@ -333,6 +333,7 @@ var DATA_SUDDEN = `
 2026-07-13	剛結束訪烏行就暴斃！葛蘭姆之死冒陰謀論 FBI要查	https://tw.news.yahoo.com/剛結束訪烏行就暴斃-葛蘭姆之死冒陰謀論-fbi要查-020556872.html	心腦猝死	B
 2026-07-13	共和黨「鷹派」議員 特朗普密友猝死	https://www.wenweipo.com/a/202607/13/AP6a53f6abe4b0b49ad1c31850.html	心腦猝死	B
 2026-07-13	伊戰推手格雷厄姆突發疾病猝死- 國際	https://epaper.tkww.hk/a/202607/13/AP6a53f60fe4b04773b0723a52.html	心腦猝死	B
+2026-07-12	酷熱天氣警告下 本港至少6宗行山求助 一人中暑昏迷送院	https://www.singtaousa.com/2026/07/12/news/china/heat-warning-hiking-heatstroke-rescue/	其他急症	-
 2026-07-12	屯門友愛邨24歲男屋內猝死 朋友揭發惜太遲	https://www.hk01.com/%E7%AA%81%E7%99%BC/60369034/%E5%B1%AF%E9%96%80%E5%8F%8B%E6%84%9B%E9%82%A824%E6%AD%B2%E7%94%B7%E5%B1%8B%E5%85%A7%E7%8C%9D%E6%AD%BB-%E6%9C%8B%E5%8F%8B%E6%8F%AD%E7%99%BC%E6%83%9C%E5%A4%AA%E9%81%B2	心腦猝死	B
 2026-07-12	世界盃2026｜25歲南非國腳突然離世 曾出戰今屆3場分組賽	https://www.stheadline.com/football-news/3592710/%E4%B8%96%E7%95%8C%E7%9B%83202625%E6%AD%B2%E5%8D%97%E9%9D%9E%E5%9C%8B%E8%85%B3%E7%AA%81%E7%84%B6%E9%9B%A2%E4%B8%96-%E6%9B%BE%E5%87%BA%E6%88%B0%E4%BB%8A%E5%B1%863%E5%A0%B4%E5%88%86%E7%B5%84%E8%B3%BD	自然離世	B
 2026-07-11	石硤尾白田邨女子猝死 胞姊揭發報案惜太遲	https://www.hk01.com/突發/60368856/石硤尾白田邨女子猝死-胞姊揭發報案惜太遲	心腦猝死	B

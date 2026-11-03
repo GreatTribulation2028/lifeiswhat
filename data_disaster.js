@@ -1,4 +1,4 @@
-// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 569 條
+// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 567 條
 var DATA_DISASTER = `
 2026-11-03	青山公路洪水桥夺命车祸｜男司机一度不顾而去 其后报警自首	https://global.hk01.com/%E7%AA%81%E5%8F%91/60406423/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B4%AA%E6%B0%B4%E6%A1%A5%E5%A4%BA%E5%91%BD%E8%BD%A6%E7%A5%B8-%E7%94%B7%E5%8F%B8%E6%9C%BA%E4%B8%80%E5%BA%A6%E4%B8%8D%E9%A1%BE%E8%80%8C%E5%8E%BB-%E5%85%B6%E5%90%8E%E6%8A%A5%E8%AD%A6%E8%87%AA%E9%A6%96	天災	-
 2026-11-03	葵涌石圍角邨6米樹椏折斷飛墮 砸傷女子頭部半昏迷送院	https://www.singtao.ca/7673411/2026-11-02/news-%E8%91%B5%E6%B6%8C%E7%9F%B3%E5%9C%8D%E8%A7%92%E9%82%A86%E7%B1%B3%E6%A8%B9%E6%A4%8F%E6%8A%98%E6%96%B7%E9%A3%9B%E5%A2%AE+%E7%A0%B8%E5%82%B7%E5%A5%B3%E5%AD%90%E9%A0%AD%E9%83%A8%E5%8D%8A%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2/	其他災害	-
@@ -313,7 +313,6 @@ var DATA_DISASTER = `
 2026-07-13	巴黎楓丹白露森林大火觸發疏散 西班牙山火仍有10 人失蹤	https://www.bastillepost.com/hongkong/article/16355547-%E5%B7%B4%E9%BB%8E%E6%A5%93%E4%B8%B9%E7%99%BD%E9%9C%B2%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB%E8%A7%B8%E7%99%BC%E7%96%8F%E6%95%A3-%E5%BD%B1%E9%9F%BF%E4%BA%A4%E9%80%9A	大火山火	A
 2026-07-13	卑詩滅火機師墜機殉職 兩周4救援人員於科州山火犧牲	https://www.singtao.ca/7565138/2026-07-13/news-卑詩滅火機師墜機殉職+++兩周4救援人員於科州山火犧牲/	森林火警	A
 2026-07-12	颱風重創公館紅棗 苗縣府將報請天災救助	https://www.hakkatv.org.tw/news-detail/1783851713772743	颱風風暴	B
-2026-07-12	酷熱天氣警告下 本港至少6宗行山求助 一人中暑昏迷送院	https://www.singtaousa.com/2026/07/12/news/china/heat-warning-hiking-heatstroke-rescue/	其他災害	-
 2026-07-12	熱浪致歐洲多國山火持續	https://www.tdm.com.mo/zh-hant/news-detail/1219170?lang=zh-hant&isvideo=false&shortvideo=0	大火山火	B
 2026-07-12	歐洲熱浪 | 巴黎南郊楓丹白露森林大火 主要高速公路與高鐵嚴重受阻	https://www.singtao.ca/7563989/2026-07-12/news-%E6%AD%90%E6%B4%B2%E7%86%B1%E6%B5%AA+%7C+%E5%B7%B4%E9%BB%8E%E5%8D%97%E9%83%8A%E6%A5%93%E4%B8%B9%E7%99%BD%E9%9C%B2%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB+%E4%B8%BB%E8%A6%81%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E8%88%87%E9%AB%98%E9%90%B5%E5%9A%B4%E9%87%8D%E5%8F%97%E9%98%BB/	大火山火	B
 2026-07-11	歐洲熱浪持續 西班牙山火12死	https://epaper.tkww.hk/a/202607/11/AP6a5152dde4b04773b0721813.html	大火山火	A
