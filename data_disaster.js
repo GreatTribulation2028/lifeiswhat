@@ -1,4 +1,4 @@
-// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 680 條
+// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 569 條
 var DATA_DISASTER = `
 2026-11-03	青山公路洪水桥夺命车祸｜男司机一度不顾而去 其后报警自首	https://global.hk01.com/%E7%AA%81%E5%8F%91/60406423/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B4%AA%E6%B0%B4%E6%A1%A5%E5%A4%BA%E5%91%BD%E8%BD%A6%E7%A5%B8-%E7%94%B7%E5%8F%B8%E6%9C%BA%E4%B8%80%E5%BA%A6%E4%B8%8D%E9%A1%BE%E8%80%8C%E5%8E%BB-%E5%85%B6%E5%90%8E%E6%8A%A5%E8%AD%A6%E8%87%AA%E9%A6%96	天災	-
 2026-11-03	葵涌石圍角邨6米樹椏折斷飛墮 砸傷女子頭部半昏迷送院	https://www.singtao.ca/7673411/2026-11-02/news-%E8%91%B5%E6%B6%8C%E7%9F%B3%E5%9C%8D%E8%A7%92%E9%82%A86%E7%B1%B3%E6%A8%B9%E6%A4%8F%E6%8A%98%E6%96%B7%E9%A3%9B%E5%A2%AE+%E7%A0%B8%E5%82%B7%E5%A5%B3%E5%AD%90%E9%A0%AD%E9%83%A8%E5%8D%8A%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2/	其他災害	-
@@ -8,10 +8,10 @@ var DATA_DISASTER = `
 2026-11-02	洪水橋婦人遭私家車撞倒不治 司機返家後報案被捕	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkRWS28xQ1laSExZcm5yMWZ5d0xqT2dCS19aR3VVWXVfZlBuU3dQRDRmdWNja252UTd1bzZrMFFUUW5lMDBnZ2Q0dUJINjRTWnRPWGtfd2ZCdU5NSlFZRWZqU1hsTmdlOFRieDJrdWRlQ3FoWmFYR2JlRFFoN1VkSHpoampPTGR1dHhR?oc=5	天災	-
 2026-11-02	洪水橋54 歲婦捱撞倒卧花叢不治 男司機涉危駕被捕	https://news.google.com/rss/articles/CBMi5gJBVV95cUxQLTJEMjhUUlhPS19EdVpGR2IzQlp3V0ZnY2lZT3dUaDFKUEctZ1lLdHRXZXVQLUNGekFZNzNsV2dxUnNoUXo2UFRvYnhrcFhyWW00YnotLTdKbjQxZlpoSnRLU1ZQWlc3MVhmalhSTnJVSjBpS2lNT2d1QTg1Y01XclFJWk5JNG55ZkxnZE1xaGU3ZlJvVS1TMVdjUGxTdlhXMi05LUF6VHFPcTdHaC1uaXRtcVQzamVWN1U2TklPYlFrQjJDa3lZM2JsejY2aDZtMGhoR0FnUENXSHhKZE1BZjR5QjBIUmNxT08zcncyVUROVGluWUQtM1FzQzJYSzY3VVltb0stdHRwem43T2JNOXFOX0N3aVJOMTNRNGZVN2RBdk9qZVNONkw5UF9sV29KaTF3SEcwamlPbjlKeHJ3S1lueE9pM25iUzlCaUhySFIxenl3TEk2eGJaZHdJVy1UbDJWVG9B?oc=5	天災	-
 2026-10-28	「失能海嘯」7年恐吞噬十二萬人， 台灣腦中風學會推「中風行動888」期盼搶救萬個家庭！	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hYXBHemhGYnRYYkpsNzlKVkNIZVkwUkNiSWRUY21pV0FwQUpUaGpXSTVqSVU5Q2RtTjRpdGk4djZ5ZGJncDZIOURORmdxUDJvMEwzUm05NjY?oc=5	天災	-
+2026-10-28	「失能海嘯」7年恐吞噬十二萬人， 台灣腦中風學會推「中風行動888」期盼搶救萬個家庭！	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hYXBHemhGYnRYYkpsNzlKVkNIZVkwUkNiSWRUY21pV0FwQUpUaGpXSTVqSVU5Q2RtTjRpdGk4djZ5ZGJncDZIOURORmdxUDJvMEwzUm05NjY?oc=5	天災	-
 2026-10-23	颱風薔琵襲台釀1死94傷！騎車自摔、交通事故最多 傷者暴增52人	https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kdkF4N19tZG9KcGFQdGpwaUV4UXhreVlPdVQ5WTdDQ0xBSGF3eGpuZVRuSmE5eHE4YjVUWktBbDl4Y084cExnTTZwMHAxaG1sZVNqTmFMOA?oc=5	天災	A
 2026-10-23	颱風薔琵來襲釀1死94傷騎車自摔等交通事故最多| 社會	https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tQUlKRmN3bkV0ZHdTYVpFSzA2NEdSNVJJRkg0WElxTnp6OWJkek9nZFkzbkY3SzRZVHRhMDNTcjR4cDJrT2FfZ1h2SmdLUW4yUHBVNkVzME9ZU2hCcjU0?oc=5	天災	A
 2026-10-23	那曲巴青地震親歷者回憶地震瞬間：響動像幾百頭氂牛同時奔跑- 兩岸	https://news.google.com/rss/articles/CBMiekFVX3lxTE9wOFo5NW1ZaHUzdUxhTGd3TTJwN0FWUXpDZjRNMVVoVVVlVEU1SDdqcUlpSXAzN0lJNEZWaWdvMjYwUDQ1aWl3bWpMZDVaOG12SnBvNV93X1NudGZvRl8zcXpBdHFBYmU1X0JMYjRLX0l5TjhodG85V1dn?oc=5	地震	B
-2026-10-23	西藏那曲發生7.0級地震國道317線部分路段封閉- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTE1yYVFyaGxmYnA2anFLR2RLemo4NmZTcUtydGQ5NTUwUXJoUGN4Vlozd2YwU2tZOHBKVWlNV1dRSkNXd1djeTBfRkNQQWduaFZuZXhfMWd1N2dzNEVWZ1lRLTRvX0M3eF9KcjZ2RGEtZEp1NkpwcE1Z?oc=5	未分類	A
 2026-10-23	西藏那曲市巴青縣7級地震 至少16死數十傷	https://news.google.com/rss/articles/CBMibEFVX3lxTE55dGFTLVNnRnpRQUZDTk9ENHRYeUZvclpOaGxMQ0owWmRzSFhfSlBtZ21GS1c2WDRFa05obWNaT2pSR004OGJIbDV0TzZwaktCbk1ZUC1zcXc5elNPWjZld0ZiWFlmVDlDVzNaQw?oc=5	地震	A
 2026-10-23	西藏巴青縣7級地震 16死76傷339屋塌	https://news.google.com/rss/articles/CBMiwAJBVV95cUxOTW5YSVhHM0dScWlUZHgwRzBiRmNXSDU0RkdPWDh3S1VSZTdONklsMU9zMFM0T2MxVGdMVGdjTG14OTJvWFA1bHVTVFIycTNlanBFT0txcVF5SmFfd3VpN19LMXZCWVF0amoyanBqdFZSbEtSOUJBMjdoN0Z4akl1NlNQRnJfbkdUQ2JMUDFEVlkwMUtGSU84dkhmeE5zUlFEdUJQTS1nZktWLXVRUTBKQ3phaGxSNzRFcnFMYnhZekRmSFBqZHdyck5wTURLZFE2X3ZVR0I5NkhIY0c4S0ctS2RWazJYZEY0STY5ZV9yU3VNdmgydzJyanZneUs3YXJ1RV94dVRPMVFWQ1l1Y1gzRHlXMUk5Z3BZWDQyWm9IbnpqMDVHNjdleTI2WnQxRTlTWXliVTV6bFFOQm11dVVFZA?oc=5	地震	A
 2026-10-23	薔琵颱風籠罩…已釀1死171傷 全台明有機會續放颱風假	https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGcmlPNDg5d1Y0dngxbTN4ck5jdlBYUFRQQmI5bW1BWmI0aHhPQTNvUXlfS0VzTDM3cVhQSUtTXy0waEttRi1oNTREcGlqeHpibDI40gFYQVVfeXFMTXR4VUlYSng5ZFhsOTFaS1lnWXJTRXJiMnN0NlNydUVLeU9tSDB4ZEVMaGRFWnN6Q1RCTFJfb3dBRElVOXFkQl9HX1VaOTBSSzRqOVB4aVFtQQ?oc=5	颱風風暴	A
@@ -21,6 +21,7 @@ var DATA_DISASTER = `
 2026-10-22	颱風薔琵｜台灣氣象部門發出颱風警報 快運取消明日十班來往港台航班	https://news.google.com/rss/articles/CBMiyANBVV95cUxPcFd2NnlIcWxHU04tSDR0UGRGQXFKX3NwV2xieDB1MmZ1RUtLc3kzbTJsY3d3YkJiejdreWZ4dy1Uc1RrVEoyd3c0UnA1WDN5aFZfRWhidm1sXzZlXzR2T1RnS0NpLWdEcWdaem5JaGhURnFSenYwb1VnV0p4YUxkQV80Vk5XbWFraGVXRFphU2k3bFNvaFN1RkpCd2tSSTgwYVMwY1hscDREWmhTZDAwVWY0bUoyelE1azVuc19xRGU0MTNMZ24zbW1CWVdhWldLQ3VFbXNwb0RBdWg4dVdFTmpXOUZ0SlhVbEpFaklsQUtuSUs0aHlLLU5QcVVpOWxKWDVSLXRHSndWUnZqQnU5bzFQSlVJZTQzdl9mTWRhemZaYnNXRGJNOTBILWQzbkhhZ3dYX2tMeTdhQUI5V0pGTDZ1cTZtdUlYY3lad1B3OHBYT1kyTzNaNk1JQ2xPQzJyZ1ltNHJsN0d5T0ZmZHpObENyYzNHQ1NfR1FQNTRxaXdOUFZzNjVjNUpPUEgxbnEwbXFpMFZPeHNHb1pFcUVub3RYd2p4ZlM5WVU2UzFTVFZvelkzV2J4Um5SZUhYdkcyaFQzSmNEejU?oc=5	颱風風暴	A
 2026-10-22	颱風「薔琵」減弱為強颱風級23日晚或將轉向- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTFAySkFaZENGQjBVUFA4YXlUdmxrUU9hOEE0WFpnZ2xZMWZhZ3dQcExDQ1Jub2FmVWZ1bDdha2RjYW5vczA3b1ZsNG9ld29paVdzcUgzWG1tNlpKUzBLeG1CeVBES3dBcF9kOHBaMnBvczkya3h6UGI4?oc=5	颱風風暴	A
 2026-10-22	西藏那曲發生7.0地震為今年以來中國最大地震| 兩岸要聞| 兩岸	https://news.google.com/rss/articles/CBMiUEFVX3lxTFByMk15cEdGc1BkeDlrenBlZTU5Y0RQcmE0dDlMYW1vbmVMbEVfaG9UM2c3Y0ROelZjb3h1QjRVVEtDTk5XeWJ4SEc3a29Ta2V1?oc=5	地震	A
+2026-10-22	搭玻纖布熱浪紅翻黑！「國家隊」搶救台玻狂掃2千張登買超王 晶圓雙雄摔落月季線另砸29億援助	https://news.google.com/rss/articles/CBMiqwRBVV95cUxPNENudlBMVklxZDVSVjJTUmt5VUc0UGVPcFU0TzRSeTFrdUE1eXZGS1lBOF92ZV9RdVpzTHdjeHRkSWF2WTdYRHhhaFcxR1lOaVd3aDNhWWhIOENfanJpN2xSelJoRmZITjZaMFV6QU1fZTZycTFwQXFHSURfUElOUmZlSHNaSlRKQVJKQ05xRVhLcWppUVdHaFVHYUZYeTg0QkJmZ3FRUE1Tb0hDWTk1TU81WUZfWEpqSzEzV3ZaUVFvTkhIeHd2R09aVUNJOUd4Z05DZUtyRzAyUGs2UlVpdzNnZVgyeDQweGVKWnd3OG81bmtTTWczYjc2ZU1JQlBvQk96TkM0QmJVR0xZUVZGY0ZTRFNUaG1MaXA4N05aNE5MRFZJQ2NjMkJTTm5PNXZWcTFwal9jMWNiczJDYWItYzBlcTktTDhHZ3EtQ2ZvOUtFUTJWN3FqMkNxNFNJMF9QbWxfS1pGandwRDJpcy1yZWxWUlBvaW5ZN3h6cXZwRWhGMWtxR1FTX0J3c2VDTnhOenJwbU1DYm0zbWVlVkVMME1jeTJqZ3k5MWVKZ1dMS0tWM0RSSmM3aWM5Vzk1QkE5eUY0RlZqdS1aN21pUWxxdkJLWk03blBval9iWUhlSF9pOVVKUVFaRFBVTjJtMGxwT2VHR05QaE5FVlpHcHlDNXRyWWtyM21KOGNsLWx3dkk1X1MzM1NoZk5lUzZRcEl2ZUF4c2JCSGwxcjg?oc=5	天災	-
 2026-10-22	搭玻纖布熱浪紅翻黑！「國家隊」搶救台玻狂掃2千張登買超王 晶圓雙雄摔落月季線另砸29億援助	https://news.google.com/rss/articles/CBMiqwRBVV95cUxPNENudlBMVklxZDVSVjJTUmt5VUc0UGVPcFU0TzRSeTFrdUE1eXZGS1lBOF92ZV9RdVpzTHdjeHRkSWF2WTdYRHhhaFcxR1lOaVd3aDNhWWhIOENfanJpN2xSelJoRmZITjZaMFV6QU1fZTZycTFwQXFHSURfUElOUmZlSHNaSlRKQVJKQ05xRVhLcWppUVdHaFVHYUZYeTg0QkJmZ3FRUE1Tb0hDWTk1TU81WUZfWEpqSzEzV3ZaUVFvTkhIeHd2R09aVUNJOUd4Z05DZUtyRzAyUGs2UlVpdzNnZVgyeDQweGVKWnd3OG81bmtTTWczYjc2ZU1JQlBvQk96TkM0QmJVR0xZUVZGY0ZTRFNUaG1MaXA4N05aNE5MRFZJQ2NjMkJTTm5PNXZWcTFwal9jMWNiczJDYWItYzBlcTktTDhHZ3EtQ2ZvOUtFUTJWN3FqMkNxNFNJMF9QbWxfS1pGandwRDJpcy1yZWxWUlBvaW5ZN3h6cXZwRWhGMWtxR1FTX0J3c2VDTnhOenJwbU1DYm0zbWVlVkVMME1jeTJqZ3k5MWVKZ1dMS0tWM0RSSmM3aWM5Vzk1QkE5eUY0RlZqdS1aN21pUWxxdkJLWk03blBval9iWUhlSF9pOVVKUVFaRFBVTjJtMGxwT2VHR05QaE5FVlpHcHlDNXRyWWtyM21KOGNsLWx3dkk1X1MzM1NoZk5lUzZRcEl2ZUF4c2JCSGwxcjg?oc=5	天災	-
 2026-10-22	【西藏7級地震】西藏10時33分發生7.0級地震 震源深度約10公里 那曲東北約200公里	https://news.google.com/rss/articles/CBMi4gNBVV95cUxNWjB6RDREdDBwQVJMVnNNLXgzTHc5X2g1a0dxTkpJc21OZEphb0FsRkgwMjJpekxoaEhxVkh0STVVOTkwcnVrMlVXYlllcEtoSmo5bmV3MFRLWWF2Xzd2N08zV2J2c0pCVDgyMVhSS2lDZGtRNTJqTzRvUFpqbnZZY0FvNFZ1NUhKVXNZVmZweGl1M2ZfNEQtQ2s0QVRKa1BETTJxZnZLMUZqRzBReHlKQkNxU2U5LTZuZlNXUkZwems5LXA4UThydDVSYWpOWm9UdVRZRjdiRHZQYVkyVkFwR2ZNTjh1RDBsZkM5UkVITjRRa01rRGZwNGhSUkZMVzlxck4zc0NzbDZ2OTBVOFc0aUwwSmliMFl3eWtqNHJXN3hEc2hWX3E1dnVRRUU4SEFCd1NqX19FRklnRFFuYW1ldGs2MDN0X3ZvX3Mwb2lBMWlwck13T2FfWHhGbEVWajgtcUZHX1ZXN0ppUXY2aWEyWS1GNW9SSHV2M1dXR0FyRjBDdGxyUzFRdjdLbENaLVY1N2JjLVZfTlVRZmFXX2poLU1Yb25xdVBwWDN3NE0xdGNZbUV1WUVpbXpRZGcwcllCTllrU055ak1jSmh3QjVOTUd2SlA5LVNXRFFRbldDaGI5dw?oc=5	地震	A
 2026-10-21	熱浪乾旱重創萊茵河航運 德國央行估第3季經濟恐萎縮	https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4LTFGd1ZnZEJIak9YdG1FWHJZM2w2VDkyelkweDZ0SVItVWpCeU93aTNDQWgwOWZDQVpicFlKVk9qeUlvZUd0OVFBYnVzZDlBMGY3OGlFNmxtaXN3azU4cjJrWkpoZw?oc=5	熱浪乾旱	B
@@ -61,6 +62,7 @@ var DATA_DISASTER = `
 2026-09-29	酷熱天氣警告生效 男子行西貢麥理浩徑昏迷 直升機送院搶救	https://www.hk01.com/突發/60394714/酷熱天氣警告生效-男子行西貢麥理浩徑昏迷-直升機送院搶救	其他災害	-
 2026-09-29	酷熱天氣警告 西貢麥理浩徑青年行山暈倒 一度昏迷送院救治	https://www.stheadline.com/breaking-news/3620509/酷熱天氣警告-西貢麥理浩徑青年行山暈倒-一度昏迷送院救治	其他災害	-
 2026-09-29	越南暴雨女鐵騎士「被雷劈」慘摔昏迷急送醫 驚悚畫面曝光｜有片	https://www.hk01.com/即時國際/60394722/越南暴雨女鐵騎士-被雷劈-慘摔昏迷急送醫-驚悚畫面曝光-有片	天災	-
+2026-09-29	越南暴雨女鐵騎士「被雷劈」慘摔昏迷急送醫 驚悚畫面曝光｜有片	https://www.hk01.com/即時國際/60394722/越南暴雨女鐵騎士-被雷劈-慘摔昏迷急送醫-驚悚畫面曝光-有片	天災	-
 2026-09-29	規模6.3地震襲擊阿拉斯加州尼科爾斯基地區 作者 Investing.com	https://hk.investing.com/news/economy-news/article-93CH-1662676	地震	A
 2026-09-29	菲律賓棉蘭老島中級地震, 不會對大馬構成海嘯威脅	https://www.overseaschinesedailynews.com.my/news/125354/	地震	A
 2026-09-29	菲律賓坎拉翁火山爆炸性噴發 火山灰柱高達2500米	https://www.chinesepress.com/archives/129547	其他災害	A
@@ -96,9 +98,7 @@ var DATA_DISASTER = `
 2026-09-29	奇諾山火肇因查明 已延燒超36英畝	https://www.chinesedaily.com/article/detail-689351.html	森林火警	B
 2026-09-29	国际｜危地马拉一火山喷发后火山碎屑飞溅，徒步者狂奔躲避	https://www.bjnews.com.cn/detail/1781932765129651.html	其他災害	A
 2026-09-29	国际丨日本樱岛火山喷发：火山灰席卷鹿儿岛，天空几分钟变漆黑	https://m.bjnews.com.cn/detail/1786239452129677.html	其他災害	A
-2026-09-29	哥伦比亚普拉塞火山喷发 火山灰柱高达800米	https://wap.cj.sina.cn/pc/7x24/4911807	其他災害	A
 2026-09-29	台灣遊客阿蘇火山失蹤第30 天 火山口發現三具遺體	https://www.msn.com/zh-tw/news/world/台灣遊客阿蘇火山失蹤第30天-火山口發現三具遺體/ar-AA1Wz5KO?cvid=48370e708be04beda029953ec1fae669&ocid=ientp,spartandhp	其他災害	A
-2026-09-29	印尼默拉皮火山喷发 火山碎屑流滑行约2000米	https://m.huanqiu.com/article/4SGdenctt2R	其他災害	A
 2026-09-29	印尼火山爆發！火山灰衝10 公里高空新航酷航等飛峇里島航班取消	http://www.msn.com/zh-tw/news/world/印尼火山爆發-火山灰衝10公里高空-新航酷航等飛峇里島航班取消/ar-AA1GVmj8?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	其他災害	A
 2026-09-29	印尼杜科諾火山噴發釀3死 2名新加坡登山客相擁罹難	https://www.taiwannews.com.tw/zh/news/6359188	其他災害	A
 2026-09-29	南韓慶尚南道山火焚燒近兩日後救熄 無人傷亡	http://www.aastocks.com/tc/stocks/news/aafn-con/IC4849157/world-markets/INFOCAST	大火山火	B
@@ -241,7 +241,6 @@ var DATA_DISASTER = `
 2026-08-03	歐熱浪持續乾旱嚴峻兩大河水位創新低匈牙利等國核電廠停運德GDP料削0.2個百分點- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE5razl2d2pKWDdTNnhSNjg5TW1FT2ZxUVRPVVN1TE5seGxMUFBFOE12WUhINlBpQW55cHZLVUZxY1NfelFxZXlabGVENkg5WTRGcF9KOUxBaWU0cjJpZ2ZfT3h3MlJXSHYzX0RiZG1WYXRnUGUzWnZv?oc=5	熱浪乾旱	B
 2026-08-03	櫻島火山噴發濃煙衝3000米高空 火山灰飄向鹿兒島	https://hk.on.cc/hk/bkn/cnt/intnews/20260803/bkn-20260803130246992-0803_00992_001.html	其他災害	A
 2026-08-03	櫻島火山再噴發！火山灰衝3000公尺 鹿兒島多地恐降灰	https://www.nownews.com/news/6862611	其他災害	A
-2026-08-03	樱岛火山喷发浓烟冲3000米高空火山灰飘向鹿儿岛｜即时新闻｜国际｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/intnews/20260803/mobile/bkn-20260803130246992-0803_00992_001_cn.html	其他災害	A
 2026-08-03	日本九州強震後火山爆發 濃煙、火山灰衝3000公尺高空	https://tw.news.yahoo.com/日本九州強震後火山爆發-濃煙-火山灰衝3000公尺高空-014800040.html	其他災害	A
 2026-08-03	敘利亞農業陷困境 酷熱乾旱設施老化加劇糧食危機	https://www.bastillepost.com/hongkong/article/16495696-敘利亞農業陷困境-酷熱乾旱設施老化加劇糧食危機	其他災害	B
 2026-08-01	熱浪乾旱襲歐洲 多瑙河現二戰德軍沉船	https://tw.news.yahoo.com/熱浪乾旱襲歐洲-多瑙河現二戰德軍沉船-065213436.html	熱浪乾旱	B
@@ -369,6 +368,7 @@ var DATA_DISASTER = `
 2026-06-18	美国夏威夷基拉韦厄火山喷发与龙卷风同现 形成罕见“火山龙卷”奇观	https://www.jpchinapress.com/static/content/SS/2026-06-18/1517136430522212352.html	其他災害	B
 2026-06-18	中國地震冰雹洪水天災不斷 百姓：是天的警告	https://www.ntdtv.com/b5/2026/06/17/a104106988.html	其他災害	B
 2026-06-17	中國天災人禍不斷 地震、冰雹、洪水齊發	https://www.ntdtv.com/b5/2026/06/17/a104106845.html	其他災害	B
+2026-06-16	無繩攀火山淪死亡直播「也門蜘蛛俠」墜落火山口- 國際	https://www.dotdotnews.com/s/202606/16/AP6a310a6de4b09ea2331898a4.html	天災	B
 2026-06-08	詳訊：日本多地觀測到菲律賓地震引發的海嘯	https://tchina.kyodonews.net/articles/-/9297	地震	A
 2026-06-08	菲律賓棉蘭老島海域7.8級地震 印尼台灣等地被發海嘯警報	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60357887/%E8%8F%B2%E5%BE%8B%E8%B3%93%E6%A3%89%E8%98%AD%E8%80%81%E5%B3%B6%E6%B5%B7%E5%9F%9F7-8%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%8D%B0%E5%B0%BC%E5%8F%B0%E7%81%A3%E7%AD%89%E5%9C%B0%E8%A2%AB%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1	地震	A
 2026-06-08	菲律賓地震｜棉蘭老島海域7.8級地震 印尼等地發海嘯警報	https://inews.hket.com/article/4143020/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%9C%B0%E9%9C%87%EF%BD%9C%E6%A3%89%E8%98%AD%E8%80%81%E5%B3%B6%E6%B5%B7%E5%9F%9F7.8%E7%B4%9A%E5%9C%B0%E9%9C%87%20%E5%8D%B0%E5%B0%BC%E7%AD%89%E5%9C%B0%E7%99%BC%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1	地震	A
@@ -395,7 +395,6 @@ var DATA_DISASTER = `
 2026-05-12	地震速報！ 05/12 14:53左右 花東地區發生有感地震	https://tw.news.yahoo.com/地震速報-05-12-14-53左右-065349056.html	地震	A
 2026-05-11	岩漿噴發的前兆！坎拉翁火山首次出現「可見的火山口輝光」	https://www.nownews.com/news/6833260	其他災害	A
 2026-05-11	印尼火山噴發奪命！2新加坡人失蹤多日被尋獲遺體 慘死火山口邊緣	https://news.ebc.net.tw/news/world/551145	其他災害	A
-2026-05-10	印尼火山爆發3人亡 兩新加坡人1印尼人罹難 (15:06) - 20260510 - 國際	https://news.mingpao.com/ins/國際/article/20260510/s00005/1778394636580/印尼火山爆發3人亡-兩新加坡人1印尼人罹難	其他災害	A
 2026-05-09	有片丨日本櫻島火山爆發 火山灰噴上3500公尺高空 為今年第9爆	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17226516812042/重點新聞-有片丨日本櫻島火山爆發-火山灰噴上3500公尺高空-為今年第9爆	其他災害	A
 2026-05-08	地震速報／07:08花蓮豐濱規模4.4地震！8縣市有感 最大震度3級	https://www.nownews.com/amp/news/6827631	地震	A
 2026-05-08	印尼火山爆發！火山灰直衝10公里高空 20名登山客驚傳受困	https://news.tvbs.com.tw/world/3198940	其他災害	A
@@ -413,7 +412,6 @@ var DATA_DISASTER = `
 2026-04-25	地震速報／15:16宜蘭規模4.8地震！最大震度3級 雙北用力晃一下	https://www.nownews.com/news/6811117	地震	A
 2026-04-20	阿蘇火山空難直升機墜毀釀3死 日方擬派「遙控重型機具」入火山口檢拾遺體	https://utravel.com.hk/news/detail/20094786/阿蘇火山空難-直升機墜毀釀-死-日方擬派-遙控重型機具-入火山口檢拾遺體	其他災害	A
 2026-04-20	觀光直升機墜毀阿蘇火山口 2台灣客恐罹難 當局欲派無人機回收	https://www.hk01.com/即時國際/60341984/觀光直升機墜毀阿蘇火山口-2台灣客恐罹難-當局欲派無人機回收	其他災害	B
-2026-04-20	熊本阿蘇火山直升機墜毀逾3個月 計劃以重型無人機吊起殘骸	https://www.am730.com.hk/article/1025910	天災	B
 2026-04-20	日本發報北海道和三陸近海地震警報：後續強烈地震可能性增加	https://www.hk01.com/即時國際/60342076/日本發報北海道和三陸近海地震警報-後續強烈地震可能性增加	地震	A
 2026-04-20	日本東北部海域發生7.4級地震 已發出海嘯警報	https://news.rthk.hk/rthk/ch/component/k2/1851758-20260420.htm	地震	A
 2026-04-20	日本東北近海7.4級地震引發海嘯 東京有震感 新幹線部分停運	https://hk.finance.yahoo.com/news/日本東北近海7-4級地震引發海嘯-東京有震感-新幹線部分停運-090928548.html	地震	A
@@ -423,12 +421,14 @@ var DATA_DISASTER = `
 2026-04-17	黃雨期間多區暴雨 離島一度現冰雹 鴨脷洲有棚架倒塌 三人受傷送院	https://www.i-cable.com/新聞資訊/456328/黃雨期間多區暴雨-離島一度現冰雹-鴨脷洲有棚	水災暴雨	A
 2026-04-07	福建暴雨傳重大意外 小客車墜橋釀5死	https://tw.news.yahoo.com/福建暴雨傳重大意外-小客車墜橋釀5死-144400268.html	天災	A
 2026-04-03	詐騙海嘯擋不住！北檢檢察官過勞昏倒 「天天拚到深夜」辦公室倒地送醫	https://tw.news.yahoo.com/詐騙海嘯擋不住-北檢檢察官過勞昏倒-天天拚到深夜-辦公室倒地送醫-021900358.html	天災	-
+2026-04-03	詐騙海嘯擋不住！北檢檢察官過勞昏倒 「天天拚到深夜」辦公室倒地送醫	https://tw.news.yahoo.com/詐騙海嘯擋不住-北檢檢察官過勞昏倒-天天拚到深夜-辦公室倒地送醫-021900358.html	天災	-
 2026-04-02	印尼附近海域7.4級地震 當局收到高約0.3米海嘯	https://news.rthk.hk/rthk/ch/component/k2/1849702-20260402.htm	地震	A
 2026-03-24	昆州北部遭颶風襲擊 衛生廳發布致命疾病警報	https://www.epochtimes.com/b5/26/3/23/n14725613.htm	颱風風暴	A
 2026-03-20	美國熱浪破紀錄 氣候變遷致亞利桑那州三月高溫	https://www.singtaousa.com/2026/03/20/news/usa/records-shattered-as-summer-heat-hits-southwest-in-march-this-is-what-climate-change-looks-like/	熱浪乾旱	B
 2026-03-12	澳洲昆士蘭東南部暴雨成災 兩名中國背包客遇洪水死亡	https://news.tvb.com/sc/world/69b276d52dd2502b5898d7de/国际-澳洲昆士蘭東南部暴雨成災-兩名中國背包客遇洪水死亡	水災暴雨	A
 2026-03-12	昆士蘭暴雨成災兩華客駕車穿越洪水區死亡｜即時新聞｜國際	https://hk.on.cc/hk/bkn/cnt/intnews/20260312/bkn-20260312145935410-0312_00992_001.html	水災暴雨	A
 2026-03-08	香港仔行山男失足墮山 直升機吊起昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260308/bkn-20260308135427032-0308_00822_001.html	其他災害	-
+2026-03-06	15台登山客北海道遇雪崩 1人受困昏迷送院	https://hk.on.cc/hk/bkn/cnt/intnews/20260306/bkn-20260306140526643-0306_00992_001.html	天災	-
 2026-03-06	15台登山客北海道遇雪崩 1人受困昏迷送院	https://hk.on.cc/hk/bkn/cnt/intnews/20260306/bkn-20260306140526643-0306_00992_001.html	天災	-
 2026-03-04	日本火山列島爆規模6.0地震 暫未發布海嘯警報	https://hk.news.yahoo.com/日本火山列島爆規模6-0地震-暫未發布海嘯警報-055001558.html	地震	A
 2026-03-02	快訊／日本火山列島規模6.1地震 震源深度10公里	https://news.tvbs.com.tw/world/3139743?from=pulldownmenu_content_國際_快訊／日本火山列島規模6.1地震 震源深度10公里	地震	A
@@ -438,7 +438,6 @@ var DATA_DISASTER = `
 2026-02-27	影音/雲林麥寮無地震帶卻發生地震 專家：很反常	https://n.yam.com/Article/20260227542544	地震	B
 2026-02-26	菲律賓坎拉翁火山爆發！火山灰柱竄天高達2500公尺本週二度噴發| 四方報	https://www.nownews.com/news/6790135	其他災害	A
 2026-02-26	菲律宾坎拉翁火山爆炸性喷发 火山灰柱高达2500米	https://www.chinanews.com.cn/gj/2026/02-26/10577248.shtml	其他災害	A
-2026-02-25	馬來西亞7.1級地震｜預示更大規模地震即將來臨！專家警告：地震平靜期已經結束	https://hk.news.yahoo.com/馬來西亞-地震-平靜期-073001333.html	地震	A
 2026-02-25	巴西暴雨土石流至少30死受災城市進入緊急狀態	https://money.udn.com/money/story/5599/9343234	水災暴雨	A
 2026-02-25	云南丽江玉龙县发生山火，火情基本得到控制	https://finance.sina.cn/2026-02-25/detail-inhnzfcq5198326.d.html?vt=4&wm=2824_0024?q$q&cid=76729&node_id=76729	森林火警	B
 2026-02-25	"咸阳、密阳接连发生大型山火，受灾面积达400公顷，比起数量，""大型化""更为严重，一半以上的山火都是失火、焚烧造成的。"	https://www.mk.co.kr/cn/society/11971593	大火山火	B
@@ -449,6 +448,7 @@ var DATA_DISASTER = `
 2026-02-23	馬來西亞沙巴外海7.1級地震 無海嘯威脅	https://www.am730.com.hk/國際/1013000/馬來西亞沙巴外海7.1級地震-無海嘯威脅	地震	A
 2026-02-23	快訊／馬來西亞凌晨爆7.1地震！震源逾600公里深 海嘯中心回應了	https://tw.news.yahoo.com/快訊-馬來西亞凌晨爆7-1地震-震源逾600公里深-海嘯中心回應了-000700890.html	地震	A
 2026-02-22	石家庄昨晚突发山火，火势蔓延数座山，山西五台山同日出现火情！多地刮起沙尘暴，“强风吹得人都走不动道”，多家景区关闭	https://www.mrjjxw.com/articles/2026-02-22/4265738.html	森林火警	B
+2026-02-21	北海道雪崩約40歲台灣登山客被困 送院後仍昏迷	https://news.tvb.com/tc/world/69a9634f101d7dfc26f613d0/國際-北海道雪崩約40歲台灣登山客被困-送院後仍昏迷	天災	-
 2026-02-21	北海道雪崩約40歲台灣登山客被困 送院後仍昏迷	https://news.tvb.com/tc/world/69a9634f101d7dfc26f613d0/國際-北海道雪崩約40歲台灣登山客被困-送院後仍昏迷	天災	-
 2026-02-20	阿蘇火山觀光直升機墜毀苦搜1個月終尋獲 家屬忍痛同意放棄救援	https://utravel.com.hk/news/detail/20089721/阿蘇火山觀光直升機墜毀苦搜-個月終尋獲-家屬忍痛同意放棄救援	天災	A
 2026-02-20	本地有感地震│城大教授：無證據顯示香港將發生更頻繁或危險的地震- 香港	https://www.wenweipo.com/a/202602/20/AP699871a5e4b04d7d56d460cc.html	地震	B
@@ -461,6 +461,7 @@ var DATA_DISASTER = `
 2025-09-26	颱風夜硬闖出門害睪丸遇難！珠海男子颱風夜騎車外出摔傷 送醫手術保住一命 | 國際 | CTWANT	https://news.pchome.com.tw/china/m00361/20250926/index-75881722840167316022.html	颱風風暴	B
 2025-08-22	「錦繡山火」延燒快 河濱縣兩死一重傷 fire	https://www.singtaousa.com/2022-09-07/%E7%88%86%E8%87%B4%E5%91%BD%E3%80%8C%E9%8C%A6%E7%B9%A1%E5%B1%B1%E7%81%AB%E3%80%8D-%E9%80%A0%E6%88%90%E6%B2%B3%E6%BF%B1%E7%B8%A3%E5%85%A9%E5%96%AA%E5%91%BD/4255721	森林火警	A
 2025-08-15	北部暴雨引發洪災 至少56死80失蹤		水災暴雨	A
+2025-08-12	30歲海陸軍人常操練暈倒 竟是多汗症致缺水導致	https://tw.news.yahoo.com/30%E6%AD%B2%E6%B5%B7%E9%99%B8%E8%BB%8D%E4%BA%BA%E5%B8%B8%E6%93%8D%E7%B7%B4%E6%9A%88%E5%80%92-%E7%AB%9F%E6%98%AF%E5%A4%9A%E6%B1%97%E7%97%87%E8%87%B4%E7%BC%BA%E6%B0%B4%E5%B0%8E%E8%87%B4-054445413.html	天災	-
 2025-08-12	30歲海陸軍人常操練暈倒 竟是多汗症致缺水導致	https://tw.news.yahoo.com/30%E6%AD%B2%E6%B5%B7%E9%99%B8%E8%BB%8D%E4%BA%BA%E5%B8%B8%E6%93%8D%E7%B7%B4%E6%9A%88%E5%80%92-%E7%AB%9F%E6%98%AF%E5%A4%9A%E6%B1%97%E7%97%87%E8%87%B4%E7%BC%BA%E6%B0%B4%E5%B0%8E%E8%87%B4-054445413.html	天災	-
 2025-08-11	愛丁堡地標亞瑟王座爆山火 死火山煙霧沖天	https://www.stheadline.com/realtime-world/3489283/%E6%84%9B%E4%B8%81%E5%A0%A1%E5%9C%B0%E6%A8%99%E4%BA%9E%E7%91%9F%E7%8E%8B%E5%BA%A7%E7%88%86%E5%B1%B1%E7%81%AB-%E6%AD%BB%E7%81%AB%E5%B1%B1%E7%85%99%E9%9C%A7%E6%B2%96%E5%A4%A9	大火山火	B
 2025-08-08	法國南部爆近80年來最嚴重山火 燒毀1.6萬公頃土地 規模超巴黎	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60264688/%E6%B3%95%E5%9C%8B%E5%8D%97%E9%83%A8%E7%88%86%E8%BF%9180%E5%B9%B4%E4%BE%86%E6%9C%80%E5%9A%B4%E9%87%8D%E5%B1%B1%E7%81%AB-%E7%87%92%E6%AF%801-6%E8%90%AC%E5%85%AC%E9%A0%83%E5%9C%9F%E5%9C%B0-%E8%A6%8F%E6%A8%A1%E8%B6%85%E5%B7%B4%E9%BB%8E	其他火警	A
@@ -493,6 +494,7 @@ var DATA_DISASTER = `
 2023-01-18	印尼摩鹿加群島近海規模7.0地震 發布海嘯警報	https://www.ntdtv.com.tw/b5/20230118/video/355578.html?%E5%8D%B0%E5%B0%BC%E6%91%A9%E9%B9%BF%E5%8A%A0%E7%BE%A4%E5%B3%B6%E8%BF%91%E6%B5%B7%E8%A6%8F%E6%A8%A17.0%E5%9C%B0%E9%9C%87%20%E7%99%BC%E5%B8%83%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1	地震	A
 2023-01-11	圖輯／街道變河道！加州暴雨土石流奪17命 上萬居民逃難│TVBS新聞網	https://news.tvbs.com.tw/world/2014620	水災暴雨	A
 2022-12-18	不畏寒流參加臺北馬！男跑者突一度昏厥無呼吸 CPR搶命│TVBS新聞網	https://news.tvbs.com.tw/local/1993480	天災	-
+2022-12-18	不畏寒流參加臺北馬！男跑者突一度昏厥無呼吸 CPR搶命│TVBS新聞網	https://news.tvbs.com.tw/local/1993480	天災	-
 2022-12-09	葡萄牙里斯本洪水泛濫成災 居民：像末日	https://tw.news.yahoo.com/%E8%91%A1%E8%90%84%E7%89%99%E9%87%8C%E6%96%AF%E6%9C%AC%E6%B4%AA%E6%B0%B4%E6%B3%9B%E6%BF%AB%E6%88%90%E7%81%BD-%E5%B1%85%E6%B0%91-%E5%83%8F%E6%9C%AB%E6%97%A5-020929809.html	天災	B
 2022-12-04	印尼火山爆發 火山灰噴1.5萬公尺高、日本嚴密監測海嘯可能 quake	https://tw.news.yahoo.com/%E5%BD%B1-%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E7%88%86%E7%99%BC-%E7%81%AB%E5%B1%B1%E7%81%B0%E5%99%B41-5%E8%90%AC%E5%85%AC%E5%B0%BA%E9%AB%98-%E6%97%A5%E6%9C%AC%E5%9A%B4%E5%AF%86%E7%9B%A3%E6%B8%AC%E6%B5%B7%E5%98%AF%E5%8F%AF%E8%83%BD-065431450.html	其他災害	A
 2022-12-03	再次地震 印尼爪哇島發生5.7級地震	https://www.epochtimes.com/b5/22/12/3/n13877944.htm	地震	A
@@ -514,7 +516,6 @@ var DATA_DISASTER = `
 2022-09-20	「超級火山」今年近700次地震 紐西蘭陶波胡下方火山升至1級警戒 quake	https://tw.news.yahoo.com/%E8%B6%85%E7%B4%9A%E7%81%AB%E5%B1%B1-%E4%BB%8A%E5%B9%B4%E8%BF%91700%E6%AC%A1%E5%9C%B0%E9%9C%87-%E7%B4%90%E8%A5%BF%E8%98%AD%E9%99%B6%E6%B3%A2%E8%83%A1%E4%B8%8B%E6%96%B9%E7%81%AB%E5%B1%B1%E5%8D%87%E8%87%B31%E7%B4%9A%E8%AD%A6%E6%88%92-105458262.html	其他災害	A
 2022-09-19	台灣地震：餘震向北移 未來三天或有5級以上地震	https://www.bbc.com/zhongwen/trad/chinese-news-62954661	地震	A
 2022-09-18	台東地震｜亞洲地震頻頻 未來「強震」必有一次？	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/816174/%E5%8F%B0%E6%9D%B1%E5%9C%B0%E9%9C%87-%E5%85%A8%E7%90%83%E7%B4%8490-%E5%9C%B0%E9%9C%87%E7%99%BC%E7%94%9F%E5%9C%A8-%E9%80%99-%E4%BA%9E%E6%B4%B2%E5%BF%AB%E5%B0%87%E5%A4%A7%E5%9C%B0%E9%9C%87	地震	B
-2022-09-18	【國際影像】意大利中部暴雨釀水災 小城慘變泥漿世界 Rainstorm Flood	https://www.hk01.com/sns/article/816191?utm_source=01articlecopy&utm_medium=referral	水災暴雨	B
 2022-09-17	意大利中部北部海嘯級水災 至少10死4失蹤 Rainstorm Flood	https://www.hk01.com/sns/article/816032?utm_source=01articlecopy&utm_medium=referral	水災暴雨	A
 2022-09-13	國際影像｜巴基斯坦水災至今3000萬人無家可歸 臨時帳幕裏等救援 Rainstorm Flood	https://www.hk01.com/sns/article/814058?utm_source=01articlecopy&utm_medium=referral	水災暴雨	A
 2022-09-12	上海等地因颱風降暴雨 湖南等省持續乾旱 No Water	https://www.epochtimes.com/b5/22/9/12/n13823148.htm	颱風風暴	B
@@ -562,122 +563,9 @@ var DATA_DISASTER = `
 2019-07-21	朝鮮半島今年最強烈內陸地震！ 芮氏規模3.9撼動南韓	https://news.ltn.com.tw/news/world/breakingnews/2859458	未分類	A
 2018-03-01	北大嶼山發生山火 經撲救後火場面積縮窄	https://news.tvb.com/sc/992263-北大嶼山發生山火經撲救後火場面積縮窄	森林火警	B
 2018-01-10	寒流又害人？嘉市警交通隊長開會突昏倒腦溢血開刀急救| 社會	https://www.setn.com/news/335141	天災	-
+2018-01-10	寒流又害人？嘉市警交通隊長開會突昏倒腦溢血開刀急救| 社會	https://www.setn.com/news/335141	天災	-
 2015-08-09	颱風過後助重建24銀行提供多項天災低利貸款| 財經	https://www.setn.com/news/89124	颱風風暴	B
 2015-01-01	2015首日不平靜！大雪、暴雨襲擊全球天災頻傳| 國際	https://www.setn.com/news/55283	水災暴雨	B
 2014-02-12	天災連環噩夢！ 強震海嘯恐引大火連鎖反應| 國際	https://www.setn.com/news/13305	其他災害	B
 2013-10-03	熱浪來襲，是天災還是人禍？ Warming	https://pansci.asia/archives/54475	其他災害	B
-2026-10-22	蒙古發生草原火災，火源係KDDI旗下企業車輛	https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXMtU2VndzdxM2NzUWtrV3RLRHRMRDBoWDF6NEV4QW5TMmoteWl1M3VJVDB0UDA3VF9CNTV5SHlaem1nX2pSYW5yclp4Y1FJanpsV1RQZWdteXluQXJtZmIwelVvNkgtRW42SnRodTJmOEdIRUp3QUNfREQxZlJrak1ZeUpvUGpUdnFacTAwWGgxNTg?oc=5	火警	A
-2026-10-22	印尼森林大火燒毀近200萬公頃！半數熱點落在企業特許區棕櫚油巨頭遭追責| 國際	https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yak8tUWdyUUNwS0RGRXVYdUJrQXpXY2ZDQnNsX0NHQnRwdmc0aTJzQ0NZbWJQN05yZ2ludUlQMmRBMnA1QmE2XzRoT3htclM3MnFqeElFaS1qTW8?oc=5	火警	A
-2026-10-21	印尼森林大火引發跨境霾害 馬來西亞提議援助遭拒絕	https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmtNQ0NYNkJMc3JIcWJZU2s0WHY2RkNfbGxSNUZEQjJpREhJMjNBaFdpQVkyMkJYVTNKTmJSLTRJUENXYWt5dE5VX2NTSHlhTGZMMHhJZzVFYnhCMndWQTJzaXVkc3EzVXpicVhiTHZEd2VJVnlRLVFQZWFmeXY2ZU5INm1EZjNaRlJqU0pIamZyMkpvT3lGbzNBTW9ubzlDcGdwdDh1Z0RjNktONFhld3k5V1BNN0U2elE?oc=5	火警	A
-2026-10-19	野火地圖焦點：華盛頓州 Three Queens 與 King 火災	https://news.google.com/rss/articles/CBMimwFBVV95cUxPUktacUhqaE9UclhpZTJlMEs2bzN5VzhtUkQ2cmJHMWJXRWpoR2xPU2VORUprTnpEZXA5NENESGozSnpNMWpjd0dDeUt6ODJGYzNXNS1HZU55TV9TLVc5Zk0yR1A4cEV2THNFdmt0TFUzeTF1ZXQ0U1U2a2dJcUhqMmVwZURsUmgxOGFLTFhqbEdMekNCWWVTTUgwWQ?oc=5	火警	A
-2026-10-19	焚風減弱 三場山火災情趨緩	https://news.google.com/rss/articles/CBMihgFBVV95cUxOMEluSWxsbXBlcEJKaS1DQk4tVWpsbThkYkh5UGxBRGMzc2szbV9RS2t4VmpwbTBvNEdTMk9MZXMzNzZ5bnJTbHdvYXNrcEZWRkxuS0JPT0RtcmJHZkFhM1lMTUxITzhqTjlGTEN4WFlWemZqbEFxcXlyZWZVelpKOWFFaTJtQQ?oc=5	火警	A
-2026-10-17	聖安那焚風加劇火災風險 南加州多處野火蔓延	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJanhzbVBrQ1RyS3pmZmNMX1oybVpWZmJNWXNCcmVjTHlMaExVQS1mc1pRbHpVd0IweFV5SVB2LWpabGdTSm5DSGIzRW9NTmx4cGNkV0RSU3NXRzFDeTZzTnBn0gFnQVVfeXFMTjU1ZVh5UDk4WEpOdUVqd0RsdTFKVExyX2NnV1VvN2JQTFF4Z1hsWW1nMFZjVjRobWhreHYyNUd6aHpNTzdURi1QZjlHb0dVVV9nSVZTdHg1VHNtUzg3QWIxSV9YQjAtUQ?oc=5	火警	A
-2026-10-17	強風高溫助長野火肆虐！加州富豪區多棟豪宅遭大火吞噬	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqUU5rcDctdERSYVlCdzVKdzdVTTQ2TXlETTFCY1VmaGp6ejFQVThiUkhsSWhaeFRBQURGdmZDRDVPV3dta1gxbDZGMVpmb0kzb3ZnUUJ5ZFR2dDc5WXBIYw?oc=5	火警	A
-2026-10-17	印尼森林大火引發跨國霾害！東南亞氣象中心發布最高級別警報	https://news.google.com/rss/articles/CBMiYEFVX3lxTFAteUFFWHQxLUpSaEtYV0dJSWpfYW9HN2tteGZLME1ERTVsSjhxak0wNUZKYUVtM1JjRmJUSnJjVWNGVkxzY1JoV3BOWHBmNkh4LURwTThfRmZlSFd0Zk5PRg?oc=5	火警	A
-2026-10-16	野火地圖焦點：加州 Henderson 火災	https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlVaNExLNEd3LXl3V2FzX1J2bGtUOGVGbklDNnd6NHBldWtfMnRXQUxBZGZoSnpjVkEyZnlDLVl1ZFh6SFk4aGpfVDlwN19HemljLTFYa0VNMS1xeGlZNGVydnh3bXBSd2hqNy1kRFB0RE9qTnNiVzR5alVINEd6NXJjLXVJc0tTYlE?oc=5	火警	A
-2026-10-16	加州山火災民或失個案經理 州政府與聯邦機構撥款爭議持續	https://news.google.com/rss/articles/CBMi7wJBVV95cUxOcE9XNkpjeHJEaG1rbzZSaG41RkVxNzVaMEM1RlVuQ3hkS082REFxUDRtYUpTZVR5VVM3NmFqZXZvZWV6YnFoR3ZzTnQwd0ljdU5DWWVIV1M1X2VWS2MtRVEwN2l5UHJRRkd0SjdHTGJBQ3FKWHRUckZBeHBHN2NmWGhpMkdlTmtlWEYwYnF5Ty1CX1l1cHVONC1lLUxMMkMzSnJ3T3JNTGx6WVhDLVVLcDdKb2VoWjQwUXQzOWNUcVVKbFk5WkNKc01tWkJVRTdLTzVoeFl6VDJYOUpKM0FzT0FNWEVXNTdlR3ltUHJib0RFOEMtV0lhZHc3Z0EwYkI2ck9NYm9OaTNBbm9TTi1fdlVaNmo3N3kxbVA4cENIUWZvcnF6UUpWeE56SUE3MklhdzJvRGxQOWtGMU14VkNLQmxON01nWXdzWkhzZk5Gcl9SbGpNd3VUN2lSMTdCdlNrRFFjbVJsU2Rsa2RveVVZ?oc=5	火警	B
-2026-10-14	印尼森林大火霧霾肆虐 新加坡空污破表東帝汶急停課	https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzelRFZ0RlbXpQbVdJU0txN0lxN3ZHSkJlWWpodWlDT2JWcXk0YkdBejFfOUVaY2ZWSThtNFlNWms0TkFOeFgyNW85cThTWVM4andIcUY4Tk5RWWRnREZSWA?oc=5	火警	A
-2026-10-13	印尼森林大火空污肆虐 東協下月將商討跨國霾害	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWTm43NkE3blRlcnJuREFaWEh3LVZoZ0hrNkZmTzVqQlo0QVZ0M3B2S00zTDl0QXhaVHp1Z0JTZGtUZVJJX0dLWFYxRzFya3N6ZDBHeU1HQXkwdnQzMHJKWg?oc=5	火警	A
-2026-10-10	澳廣視新聞｜印尼森林大火煙霧致馬來西亞多地停課｜	https://news.google.com/rss/articles/CBMikgFBVV95cUxPNjBvNEF4OVFhYVo5eTJDSXdwZGVtS3g5SzA4YWQyOE5TanZ1VG1JRmxQLWI4WGtLTDBfOXViU3FaOWRKa2hpNGREOGxFRjNUeGdSdU5WMGRyN085OGE2STN6dTNGOW9FY19JbGFSZXdjVGgtUjZVclZleGtNSkR5TXZYWFNKTW9xX3Fpa1RCVi1SZw?oc=5	火警	A
-2026-10-10	印尼森林大火烟雾致马来西亚多地停课	https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHp0RUwtMmhReFpRN3hMQVFibGhsR3ltR3NHYzJpS2ttUU5NcnFaTVlwYnZLbjhfTk5uSVg1d2ZVNXZHeldSOEloNWE0Vl9EVnU4VTY4Y0JfTC1YSUN6b05PZGJQcmZlYWlkclAxVy02YXhOWS00QjN5RzdfX0Y3dUhOOFptd1dtaGhqRmVkX2YzZw?oc=5	火警	A
-2026-10-09	印尼森林大火肆虐婆羅洲 瀕危紅毛猩猩灼傷受困獲救	https://news.google.com/rss/articles/CBMiYEFVX3lxTE92YXBxU3JWS2Y2WjQxdXRubmpHZVFubk1UYkt2YU9OUHNGc003Q0hEV1VxS3JDeWZkUDN3eDlOZURZekFZYW5fVFNMTEZ6MHNxUU00YzA2OXM0aWhacjgwMw?oc=5	火警	A
-2026-10-09	印尼森林大火煙霧致馬來西亞多地停課	https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjBzMjlCbFZMQ3ZKajUyTmdMYXRpT3FKZE1lWFhWaHNGWkdLWnotOUdiUDdPaUtjSXlzY3Bfck1jSllneGJ6aHp0MDBERl9mbWNTemRySDJrQkdPVzh0SldVVUdPQ0Nmb09IejRucGd5VDBYNWRtS1prSndaS3VoZXpkcjdHZUk?oc=5	火警	A
-2026-10-09	印尼森林大火烟雾致马来西亚多地停课	https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkZfYldRRmJ0bzR6cEoxQzdvODg4NU5HTHhvT3dXQVlhQ2trMlBFZjlFYkcxRFNkWlpwb3ZtcWxzdFBYNWhlU2VnQ2p0a2g3eXFxOWdnRGptRncweG4wUWtrWk5TRVVHTU5CLUVUeGJVUHVRa010Z2RVSjIxSEZuaTB6Ym5IcDFKNG9kdmpkdzEya215aVFqZnExMUtNaGM?oc=5	火警	A
-2026-10-09	印尼山火殃及 星霧霾下辦F1賽 濃煙漂東南亞多國 大馬逾200萬學生停課 - 20261010 - 國際	https://news.google.com/rss/articles/CBMi6gNBVV95cUxPanEtbW01ZU9EdC1GXzk2Sld5c2pWVmNCVnNrOWliSWRUR29zSVhzVmFBQ1d5MWQwemZ2dk16MWg1eThqS3JEUVhPVlpFYVRaZ25naFRtQ2NmNnZkQm5YRmZ1R0F3VFU4M19VNC1iSkk0cS15Y2NhbHRRQU5rQnVGTVhZTklUYmNtT3JubHh2TXlnRzllYTNXbGZKYlVMUGlZc1Q4UC1lejR5c3ZvcUdjeFBjOVBsVXE2czh6dlJCY2NsMEhJOGkyUGkxdVZHaFRPVG43OTlab2s1SXdWRk00LUt2c0pCek5lSExwM19MNGt1YWdEUFlvZmZCUTRwcEtuaWFNU0xQNU9tZV9nb2RsdEdFcTNVU3JKQS1Qa1NQQmhVcEpXM1k2dE1QRVlzRWVtMkpKa3U2SGkzSWMwOGhpWmRxMXVfVHdZdWt4STZRX2htMFFVN25oYzdwbDNsNWV2VzBQSVRFdlNQTEdvRU9TUU5QSnlrRWhkMDJyMTBjSFVqbjJQUDB5THBSOHptSTZWT2VzODZlNllQY050STFKVlRYQzdMMFpjaVc5WHBWbU5qU0ZSdjhET19rcml0MGVseE5nMHlWZnMzQk5PN0pwTDFxS05qaFIzX2p1YnE2REpJZGQxNG1yMTR3?oc=5	火警	A
-2026-09-29	美國西部極端高溫及乾燥大風助長多宗山火 猶他州火警尚未受控制	https://news.tvb.com/en/1178146-美國西部極端高溫及乾燥大風助長多宗山火猶他州火警尚未受控制	火警	A
-2026-09-29	省緊急應變廳長葛凱莉接受本台訪問 談及至今山火災害情況	https://am1320.com/焦點新聞/省緊急應變廳長葛凱莉接受本台訪問-談及至今山火/	火警	B
-2026-09-29	濃煙減弱山火火勢 但令空氣質素達非常高風險水平	https://am1320.com/焦點新聞/濃煙減弱山火火勢-但令空氣質素達非常高風險水平/	火警	A
-2026-09-29	在菲沙峽谷山火 工作人員希望稍後更為炎熱之前盡量控制火勢	https://am1320.com/焦點新聞/在菲沙峽谷山火-工作人員希望稍後更為炎熱之前盡/	火警	A
-2026-09-25	叢林大火地圖焦點：澳洲的春季火災季	https://www.iqair.com/hk/newsroom/bushfire-map-spotlight-australia-september-2026	火警	A
-2026-09-21	哥倫比亞山區爆發森林大火 逼近知名旅遊勝地萊瓦鎮	https://www.ftvnews.com.tw/news/detail/2026921W0057	火警	A
-2026-09-20	哥倫比亞山區爆發森林大火 逼近知名旅遊勝地萊瓦鎮 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1eGwxc0VmUU11Zy1rdm1odTg3RXhRWGZzWnNyTGFzV0lpUFB6UExFVU83QW15QkVmQUJDR1V2dWVoY2x1LUZzV1BYMDVQN01GNFJfSWZn?oc=5	火警	A
-2026-09-18	印尼森林大火泥炭地悶燒 紅毛猩猩被迫離開棲息地覓食	https://tw.news.yahoo.com/%E5%8D%B0%E5%B0%BC%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB%E6%B3%A5%E7%82%AD%E5%9C%B0%E6%82%B6%E7%87%92-%E7%B4%85%E6%AF%9B%E7%8C%A9%E7%8C%A9%E8%A2%AB%E8%BF%AB%E9%9B%A2%E9%96%8B%E6%A3%B2%E6%81%AF%E5%9C%B0%E8%A6%93%E9%A3%9F-120716046.html	火警	B
-2026-09-17	雪州沙登Desaminium花园 森林大火 - 国内 - 即时国内	https://www.sinchew.com.my/news/20260917/nation/7850883?variant=zh-hant	火警	A
-2026-09-15	近11年規模最大! 印尼森林大火"空污重創新加坡"	https://tw.news.yahoo.com/%E8%BF%9111%E5%B9%B4%E8%A6%8F%E6%A8%A1%E6%9C%80%E5%A4%A7-%E5%8D%B0%E5%B0%BC%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB-%E7%A9%BA%E6%B1%A1%E9%87%8D%E5%89%B5%E6%96%B0%E5%8A%A0%E5%9D%A1-100530065.html	火警	A
-2026-09-14	日本自衛隊將赴印尼撲滅森林大火：首度在海外執行滅火任務	https://www.nippon.com/hk/news/yjj2026091300285/	火警	A
-2026-09-10	印尼山林大火毒霾狂飄800公里 日本自衛隊首赴海外滅火	https://news.ltn.com.tw/news/world/breakingnews/5569738	火警	A
-2026-08-31	日本自衛隊聯合部隊周日出發前往印尼 協助撲滅森林大火	https://www.cmmedia.com.tw/home/articles/62614	火警	A
-2026-08-31	府會達協議 更快處理山火災賠	https://www.singtaousa.com/2026/08/31/news/usa/government-agreement-fire-compensation/	火警	B
-2026-08-27	阿爾及利亞東北部森林大火肆虐 釀12死數十傷 | 民視新聞網	https://today.line.me/tw/v3/article/EXr26lY	火警	A
-2026-08-23	印尼17歲少年化身「超人」 協助撲滅婆羅洲森林大火 | 民視新聞網	https://today.line.me/tw/v3/article/PG5Jm98	火警	A
-2026-08-22	巴黎楓丹白露森林大火後重開 攀岩愛好者與遊客湧入 | 民視新聞網	https://today.line.me/tw/v3/article/60LWqaN	火警	A
-2026-08-18	比利時高芬森林大火失控 面積擴至3000公頃	https://news.google.com/rss/articles/CBMisAJBVV95cUxNSHlPV1JTYl9Wd0pIVzNRcHJwelRRdkJsU1JUYmZ0ZlZpV2JfNU9uOWc3VXZ0U1JKNzZtOFJoRzJmbFY4aTZ5NmczRUhVdVlBTktKamVObUhYcnZndnpYeUhrTkw4b19yNXo2LVpHYWV2VTYyc0hER280QUh5aGNVUUF1SWEtdUM4RjI0a2F4MWxDVWJRVVZqZjN1VU5YZjdzck1RX2ZqcU4tdTcyaWVxOUxRTE1pTktvcUNXeVV6a1JkMWdULWxaYnJUc0hqeU94NGQwMUJHN2t5aVVuVVlTZmtxUEpBQUtPOWQxTm9teUFnOThncmNBSklpVlRHbWR3TnBvQlRmQ0VHSG1nYTdJYW1TWWRJVW1pZENQMGZNdmpPbWhzeU5RNzdWenVvMlNU?oc=5	火警	A
-2026-08-17	雅典以西島嶼森林大火 致2死9傷	https://hk.on.cc/hk/bkn/cnt/intnews/20260817/bkn-20260817020315112-0817_00992_001.html	火警	A
-2026-08-17	希臘發生山火至少2死9傷 比利時東部火勢未受控歐盟調動直升機協助撲救	https://news.tvb.com/tc/1189449-%E5%B8%8C%E8%87%98%E7%99%BC%E7%94%9F%E5%B1%B1%E7%81%AB%E8%87%B3%E5%B0%912%E6%AD%BB9%E5%82%B7%E6%AF%94%E5%88%A9%E6%99%82%E6%9D%B1%E9%83%A8%E7%81%AB%E5%8B%A2%E6%9C%AA%E5%8F%97%E6%8E%A7%E6%AD%90%E7%9B%9F%E8%AA%BF%E5%8B%95%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%8D%94%E5%8A%A9%E6%92%B2%E6%95%91	火警	A
-2026-08-16	希臘斯基羅斯島森林大火連燒兩日 消防員奮力灌救 | 民視新聞網	https://today.line.me/tw/v3/article/0M56Zaj	火警	A
-2026-08-15	比利時爆史上最大森林大火 歐盟緊急派飛機馳援 | 民視新聞網	https://today.line.me/tw/v3/article/60LvKz9	火警	A
-2026-08-14	法國西南朗德省森林大火暫時得到控制，2026年法國森林過火面積創20年新高	https://www.rfi.fr/tw/%E7%94%9F%E6%85%8B/20260814-%E6%B3%95%E5%9C%8B%E8%A5%BF%E5%8D%97%E6%9C%97%E5%BE%B7%E7%9C%81%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB%E6%9A%AB%E6%99%82%E5%BE%97%E5%88%B0%E6%8E%A7%E5%88%B6%EF%BC%8C2026%E5%B9%B4%E6%B3%95%E5%9C%8B%E6%A3%AE%E6%9E%97%E9%81%8E%E7%81%AB%E9%9D%A2%E7%A9%8D%E5%89%B520%E5%B9%B4%E6%96%B0%E9%AB%98	火警	A
-2026-08-14	森林大火逼近希臘度假勝地 數百遊客緊急搭船逃生	https://www.ntdtv.com/b5/2026/08/14/a104123935.html	火警	A
-2026-08-14	森林大火進逼希臘海灘 數百遊客搭小船緊急逃生[影]	https://www.cna.com.tw/news/aopl/202608140014.aspx	火警	A
-2026-08-13	希臘森林大火逼近沙灘 船隻緊急撤離500名度假遊客 | 民視新聞網	https://today.line.me/tw/v3/article/l2ReGgW	火警	A
-2026-08-13	加拿大山火迫2萬人疏散 省長指火勢蔓延速度或成「新常態」	https://www.bastillepost.com/hongkong/article/16557849-加拿大山火迫2萬人疏散-省長指火勢蔓延速度或成「	火警	A
-2026-08-11	大蘇爾山火一夜擴大 蔓延800畝 火勢僅控制5%	https://www.worldjournal.com/wj/amp/story/121519/9683900	火警	A
-2026-08-10	加拿大卑詩省山火迅速蔓延 逾2萬人逃離家園 省長：火勢如爆炸	https://www.hk01.com/即時國際/60378374/加拿大卑詩省山火迅速蔓延-逾2萬人逃離家園-省長-火勢如爆炸	火警	A
-2026-08-07	印尼正在扑灭森林大火。布罗莫火山燃起熊熊大火	https://www.asianews.it/zh/south-east-asia/indonesia/印尼正在扑灭森林大火布罗莫火山燃起熊熊大火	火警	A
-2026-08-07	加州山火焚毀房屋發現屍體 疑電鋸引發火警	https://www.bastillepost.com/hongkong/article/16520394-加州山火焚毀房屋發現屍體-疑電鋸引發火警	火警	A
-2026-08-05	加拿大西部山火焚毀230 房屋官員指為近年最具破壞力火災	https://www.bastillepost.com/hongkong/article/16505763-加拿大西部山火摧毀約230間房屋-官員指為近年最具	火警	A
-2026-08-05	【更新】山火燒至大溫！滿地寶公園冒白煙火勢失控	https://www.singtao.ca/7588354/2026-08-05/news-【不斷更新】山火燒至大溫！滿地寶公園火勢失控35房屋接疏散警報/	火警	A
-2026-08-04	荷蘭自然保護區驚傳森林大火 延燒兩天吞噬百公頃 | 民視新聞網	https://today.line.me/tw/v3/article/1DlkGWz	火警	A
-2026-08-04	烏克蘭消防員正在協助法國撲滅森林大火	https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20260804-%E7%83%8F%E5%85%8B%E8%98%AD%E6%B6%88%E9%98%B2%E5%93%A1%E6%AD%A3%E5%9C%A8%E5%8D%94%E5%8A%A9%E6%B3%95%E5%9C%8B%E6%92%B2%E6%BB%85%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB	火警	A
-2026-08-01	歐洲野火持續蔓延德國南部大火失控- 國際	https://www.dotdotnews.com/a/202608/01/AP6a6d98e7e4b04b6c5d3564ab.html	火警	A
-2026-07-30	法國吉倫特省山火進入第八天新增7處起火點 楓丹白露森林出現復燃	https://www.orangenews.hk/international/VQog9l9/法國吉倫特省山火進入第八天新增7處起火點-楓丹白露森林出現復燃.shtml	火警	A
-2026-07-30	法國全力控制森林大火 希臘野火兩消防員殉職	https://www.epochtimes.com/b5/26/7/29/n14819879.htm	火警	A
-2026-07-27	要聞解說 - 法國吉倫特地區森林大火火勢有所穩定但尚未得到控制	https://www.rfi.fr/tw/專欄檢索/要聞解說/20260727-法國吉倫特地區森林大火火勢有所穩定但尚未得到控制	火警	A
-2026-07-26	法國西南部森林大火肆虐 撤離逾22萬人創二戰後紀錄 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hRG1QWjFNeXFwNGpfellYMTJ5Z1VCdnJWYzFua2J0Z09CTkRsSVlIRnpOUXExZGpIU2pqT19yXzVEajJjYWtodG52SlZnTEhOa3FOeWtn?oc=5	火警	A
-2026-07-25	西班牙和法國森林大火迫使20萬人疏散氣候危機新聞	https://www.arch-web.com.tw/综合新闻/西班牙和法國森林大火迫使20萬人疏散氣候危機新聞/666527/	火警	A
-2026-07-23	法國西南部森林大火肆虐 撤離上萬名遊客與居民 | 民視新聞網	https://today.line.me/tw/v3/article/gzRljWg	火警	A
-2026-07-23	加拿大山火濃煙籠罩加美邊境 空氣質素轉差當局發警告	https://www.bastillepost.com/hongkong/article/16421032-加拿大山火濃煙籠罩加美邊境-空氣質素轉差當局發	火警	A
-2026-07-22	南法野火燒毀1700公頃土地 高溫焚風釀義大利西西里島逾40處大火	https://news.ttv.com.tw/news/11507220012000I	火警	A
-2026-07-20	山火濃煙席捲東北部 多州空氣質量亮紅燈	https://www.singtaousa.com/2026/07/20/news/usa/wildfire-smoke-northeast-air-quality/	火警	A
-2026-07-20	加國山火濃煙罩美 特朗普威脅加關稅	https://m.hkej.com/landing/mobarticle2/id/4460786/加國山火濃煙罩美 特朗普威脅加關稅	火警	B
-2026-07-19	法爆發80年來最嚴重森林大火- 國際	https://www.wenweipo.com/a/202607/19/AP6a5be07be4b0b49ad1c3ea99.html	火警	A
-2026-07-18	加拿大山火｜特朗普投訴濃煙襲美 揚言污染成本計入關稅	https://www.am730.com.hk/國際/1042331/加拿大山火-特朗普投訴濃煙襲美-揚言污染成本計入關稅	火警	B
-2026-07-17	楓丹白露森林大火 馬克宏呼籲國民捐款重建	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFZzhVbVhEQUJtdmpsRG1Wc0tYc3hpVWtaOWFxRXdyMEVPMG1fZDB0eHdqNUtkRE1tVHQ5Y2hCM01ZcWR0UW12ZldCQmdvaDJlal9VLWVoTkM3UnpEczlYSGtR0gFnQVVfeXFMUERFd0dLLUh5bXNFVkc2NEd0THR3X3poLUNQSmx2S0tsTW5OWFhySkhReGdRSHVuTU51V09KVXFYdkxQaERSNnFjWWZRX3dZblZWT0dzeF94ZG1wVEpIR3QwRC1Ld3VFMA?oc=5	火警	B
-2026-07-16	美國中西部東北部受山火濃煙影響 數百萬人面臨危險空氣污染	https://www.bastillepost.com/hongkong/article/16368192-加拿大明尼蘇達山火濃煙籠罩美國中西部東北部-千	火警	A
-2026-07-16	圖集：山火濃煙籠罩下的紐約、芝加哥和多倫多	https://hk.finance.yahoo.com/news/圖集-山火濃煙籠罩下的紐約-芝加哥和多倫多-223419105.html	火警	A
-2026-07-16	41J肉聲／加拿大森林大火 列車司機受困第一視角「絕命影片」曝光	https://tw.news.yahoo.com/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB-%E5%88%97%E8%BB%8A%E5%8F%B8%E6%A9%9F%E5%8F%97%E5%9B%B0%E7%AC%AC-%E8%A6%96%E8%A7%92-%E7%B5%95%E5%91%BD%E5%BD%B1%E7%89%87-%E6%9B%9D%E5%85%89-034000777.html	火警	A
-2026-07-15	法國楓丹白露森林大火 焚毀超2000 公頃林地	https://www.bastillepost.com/hongkong/article/16369494-%E6%B3%95%E5%9C%8B%E6%A5%93%E4%B8%B9%E7%99%BD%E9%9C%B2%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB-%E7%84%9A%E6%AF%80%E8%B6%852000%E5%85%AC%E9%A0%83%E6%9E%97%E5%9C%B0	火警	A
-2026-07-15	加拿大山火濃煙飄入美國 紐約被灰色煙霧籠罩	https://www.ntdtv.com/b5/2026/07/15/a104115679.html	火警	A
-2026-07-13	（有片）法國內政部長：楓丹白露森林大火疑似人為- 國際	https://www.dotdotnews.com/a/202607/13/AP6a54df96e4b04b6c5d334516.html	火警	A
-2026-07-13	法國全力撲救楓丹白露森林大火	https://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20260713-%E6%B3%95%E5%9C%8B%E5%85%A8%E5%8A%9B%E6%92%B2%E6%95%91%E6%A5%93%E4%B8%B9%E7%99%BD%E9%9C%B2%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB	火警	A
-2026-07-13	法國內政部長：楓丹白露森林大火疑似人為- 國際	https://www.wenweipo.com/a/202607/13/AP6a54dfd4e4b0b49ad1c334c5.html	火警	A
-2026-07-13	巴黎近郊楓丹白露森林大火首度調派滅火機馳援| 國際	https://www.cna.com.tw/news/aopl/202607130025.aspx	火警	A
-2026-07-13	巴黎楓丹白露森林大火 阻斷陸路交通	https://hk.on.cc/hk/bkn/cnt/intnews/20260713/bkn-20260713180531537-0713_00992_001.html	火警	A
-2026-07-12	西班牙阿爾梅里亞省山火已致13死，一對英國夫婦遠足時遇險，身體40%燒傷半昏迷送院	https://www.singtaousa.com/2026/07/12/news/world/uk-couple-found-burned-and-semi-conscious-in-almeria-amid-spanish-wildfires/	火警	A
-2026-07-12	巴黎南部森林大火逼近公路 罕見出動滅火機灌救交通大打結 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE40ckNCTm92NU1Bc3RhUU5OTHB1NjBQWm1NNjlUVkdjbDVtbjJtbzJTRlhUdjJrUjFkWEZQSG5aRmFiYWx3V05KdlNRMmRTS2VxcW50and3?oc=5	火警	A
-2026-07-12	巴黎南部森林大火肆虐 交通動脈A6高速公路局部雙向封閉 | 民視新聞網	https://today.line.me/tw/v3/article/8nLQWaK	火警	A
-2026-07-09	西班牙南部驚傳森林大火 慘釀6死「部分受害者受困車內」 | 民視新聞網	https://today.line.me/tw/v3/article/x2WGWP6	火警	A
-2026-07-07	歐洲多國山火肆虐 希臘北部火災產生毒煙	https://hk.epochtimes.com/news/2026-07-07/86786262	火警	A
-2026-07-05	法國南部森林大火肆虐 環法自由車賽第三賽段面臨停辦危機 | 民視新聞網	https://today.line.me/tw/v3/article/wJKx1Mp	火警	A
-2026-06-25	FEMA批核延長去年山火災民援助	https://www.singtaousa.com/2026/06/25/news/usa/fema-extends-wildfire-assistance/	火警	B
-2026-05-08	喬州大火 凸顯氣候變遷導致美東野火頻傳	https://www.worldjournal.com/wj/story/121278/9489589	火警	B
-2026-04-28	岩手縣山林大火第7天 消防稱火勢受控料今晚有大雨	https://www.singtao.ca/7488483/2026-04-28/news-%E5%B2%A9%E6%89%8B%E7%B8%A3%E5%B1%B1%E6%9E%97%E5%A4%A7%E7%81%AB%E7%AC%AC7%E5%A4%A9++%E6%B6%88%E9%98%B2%E7%A8%B1%E7%81%AB%E5%8B%A2%E5%8F%97%E6%8E%A7%E6%96%99%E4%BB%8A%E6%99%9A%E6%9C%89%E5%A4%A7%E9%9B%A8/	火警	A
-2026-04-28	佐治亞州山火｜ 連場大雨減緩火勢蔓延惟新火頭不斷	https://www.bastillepost.com/hongkong/article/15929380-佐治亞州兩大山火受雨勢減緩-惟新火頭頻生	火警	A
-2026-04-26	日岩手縣山火失控焚燒5日 居民嘆：大火比海嘯更絕望	https://www.singtao.ca/7486757/2026-04-26/news-日岩手縣山火失控焚燒5日++居民嘆：大火比海嘯更絕望/?variant=zh-hk	火警	A
-2026-04-24	岩手縣森林大火延燒兩日未止 距離民宅僅100米 1800人緊急疏散	https://www.stheadline.com/realtime-world/3565364/%E5%B2%A9%E6%89%8B%E7%B8%A3%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB%E5%BB%B6%E7%87%92%E5%85%A9%E6%97%A5%E6%9C%AA%E6%AD%A2-%E8%B7%9D%E9%9B%A2%E6%B0%91%E5%AE%85%E5%83%85100%E7%B1%B3-1800%E4%BA%BA%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3	火警	A
-2026-04-23	日本岩手森林大火近住宅區 地方政府疏散逾2500人	https://news.pts.org.tw/article/805153	火警	A
-2026-04-20	山火災民失家園 賠償金恐遭徵稅再受打擊	https://www.bastillepost.com/hongkong/article/15896835-山火災民失家園-賠償金恐遭徵稅再受打擊	火警	B
-2026-03-23	日本群馬山林大火燒3天 地方政府發布避難指示	https://tw.news.yahoo.com/日本群馬山林大火燒3天-地方政府發布避難指示-055100975.html	火警	A
-2026-02-26	有片｜坪輋對開發生山火 一度現100米「火龍」濃煙沖天	https://www.hk01.com/突發/60325466/有片-坪輋對開發生山火-一度現100米-火龍-濃煙沖天	火警	A
-2026-02-22	「火馬年」異象 中國多地山火連燒 火勢驚人（視頻）	https://www.ntdtv.com/b5/2026/02/22/a104069284.html	火警	A
-2026-01-14	雲林草嶺山林大火連燒3日 仍有2處悶燒、直升機支援灑水	https://news.pts.org.tw/article/790576	火警	A
-2025-04-14	陽明山小油坑山林火災登山步道封閉 空勤黑鷹將馳援救火	https://www.setn.com/news/1639986	火警	A
-2025-01-12	洛杉磯大火災情：令人震驚的圖像顯示了破壞性的山火如何改變了洛杉磯	https://www.bbc.com/zhongwen/articles/cedn0yvvw0qo/trad	火警	A
-2025-01-12	加州山火災損空前 原因指向「人禍」	https://www.epochtimes.com/b5/25/1/12/n14411907.htm	火警	A
-2024-12-28	元朗大棠山火焚燒多個小時仍未救熄 消防籲市民盡快離開受影響地區	https://news.tvb.com/tc/813675-%E5%85%83%E6%9C%97%E5%A4%A7%E6%A3%A0%E5%B1%B1%E7%81%AB%E7%84%9A%E7%87%92%E5%A4%9A%E5%80%8B%E5%B0%8F%E6%99%82%E4%BB%8D%E6%9C%AA%E6%95%91%E7%86%84%E6%B6%88%E9%98%B2%E7%B1%B2%E5%B8%82%E6%B0%91%E7%9B%A1%E5%BF%AB%E9%9B%A2%E9%96%8B%E5%8F%97%E5%BD%B1%E9%9F%BF%E5%9C%B0%E5%8D%80	火警	A
-2024-04-13	屯門九逕山山火冒濃煙逼近電塔 兩火線分別長50米及10米	https://www.hk01.com/%E7%AA%81%E7%99%BC/1010013/%E5%B1%AF%E9%96%80%E4%B9%9D%E9%80%95%E5%B1%B1%E5%B1%B1%E7%81%AB%E5%86%92%E6%BF%83%E7%85%99%E9%80%BC%E8%BF%91%E9%9B%BB%E5%A1%94-%E5%85%A9%E7%81%AB%E7%B7%9A%E5%88%86%E5%88%A5%E9%95%B750%E7%B1%B3%E5%8F%8A10%E7%B1%B3	火警	A
-2024-02-29	德州史上第2大野火蔓延造成1死，累計燒毀4000平方公里土地，週末天氣成火災控制關鍵	https://www.thenewslens.com/article/199546	火警	A
-2022-08-22	中共20大前又一麻煩 西南地區山林大火又缺電 fire	https://news.ltn.com.tw/news/world/breakingnews/4033701	火警	B
-2021-03-24	阿里山森林大火延燒五日終撲滅 空拍直擊1.6公頃林地一片漆黑	https://news.google.com/rss/articles/CBMiT0FVX3lxTE83NEY5Z1ZlZXpoWnVJSy00bk5MTFVnQ0hEZk4tMzJoMFp0TGU1Ui1lZmhjQTk0SDdnWk1meEhSVGFsYS1BU2pVX0VTYXFrNnc?oc=5	火警	A
-2021-03-16	台中大肚山火警燒整夜 復燃燒向成功嶺	https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0R3RCWkdzdGZNQkd4cDJpZXBLeEFBcVJsYkJsbk1GZll0dnFjRGFiaWJYR0wtajhzNWZtR1ZZaEZsU0I4MlVySDRjZUZGQXBLeG9fUE9kTHVDRjJ1ZnAtaTkxT0RMQ1hq0gFuQVVfeXFMTm1YSWVYRVFEbjg2Wlg3a01LX3RNN25hVTMzQ3hmWnpMT1JydVktV1pXakpvU2hqY0ZNNndHemdYdnBmcDdNT2I2eHRHUXdQLXBPQk9uVjc3VVZmRnZfWVRZTkdKelBmcFhfYlkxSXc?oc=5	火警	A
-2020-11-05	盤點2020年加州大火：含6個最大野火	https://news.google.com/rss/articles/CBMiYEFVX3lxTE90NnVnMHNkcHVINXBhb2tHQXZQOTBkV3ZMM3VORG51bHZUMl9CQ05IOGxiR3RHSmRSaUF1d1c5SEVkRVdJZkR4TXJtVW9fbUdKQ05JeHU1SFlYOWI4Skhla9IBZkFVX3lxTFBIUXh1c3pWYkw4ZFZlQ3dXXzFGNmsycXZTVEV1RGV4eDh6ajlqczNfWGxmMWh5bEJmS1EwVTVvZWdaVk5SSnRqNjVINFVMVUZmUENGRGZGbVF3dkxCWHNhcU5MWGdsZw?oc=5	火警	B
-2020-04-10	餘燼裡的告白：2020澳洲大火兩位消防員、受災戶回憶最難忘的一夜	https://www.marieclaire.com.tw/lifestyle/issue/49095	火警	B
-2020-04-01	四川西昌森林大火 19死3傷	https://www.ntdtv.com/b5/2020/04/01/a102813375.html	火警	A
-2020-03-31	四川涼山森林大火！689人撲救爆燃 18名消防員殉職	https://www.setn.com/news/717381	火警	A
-2020-01-07	澳洲野火災情跨年後持續擴大 下雨仍無緩解	https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lelhPaVo0VF9WOEhqejdvVF9HYkZjZVZPdFRSbEp6WnVKQnhSbDhMMnYxT0RBanNmN1dCUWhhaTFOWlZkT01wSA?oc=5	火警	A
-2020-01-01	澳大利亞森林大火：至少七人喪生200房屋被燒燬	https://www.bbc.com/zhongwen/trad/world-50963248	火警	A
-2019-10-28	美國加州山火持續 兩消防員燒傷	https://news.google.com/rss/articles/CBMinAJBVV95cUxNWDEtYzVXNm91a3B2eGgybFh0YllKUmxVUjJ5aElTbUcwSmxOclZTS3NXejhYWVNoWWtyLURlVDFxOXFSSWdjOWEySXRST3lFOHVBSzFkdUpCbHB2ZEZDZ3JjTDlTSnlqa1M4SFk1dlZWelBEcThmeDQ0alRCUmZzWFdsR3E0N2hYM00tcWtsNHNycU5sc2NlaG9HcDRzSTdHQ0FncG1OczE2OFNENk5xSXdZS1hIbklmMG1oTUdSRU4xYTNHQTdOdDVqVnZJWTFfSUxNTUJLaElHdnVUR0NUM2dvVkxLMzJjemdTdlRnYXhwZkhCSnVhY3F6SGJ3a1ctd2NWZXlhQ0ZLNnBROWVEOTVqbEowVnlqbkxWag?oc=5	火警	A
-2019-09-13	印尼蘇門答臘與婆羅洲森林大火	https://news.google.com/rss/articles/CBMilAJBVV95cUxOZVE2UTNfRHNyQ0M1OGlYTUQ5RVpqUk13NXZKeXJydF9VeVBmNE43dXBVMEpzdnFJbzFsR3pNcFl4MWYxRkp1NnpXdDNXRlBXTzhobHYzYXdycE4xaGZERllLVU43ZHdzRFRBU1huOEkyOWxZVE9nekdfN2h4SlZfa3FxRFl2cWtNQmlkb1ZuQUNPT3FRWVd5UFItamF3dnY2S1A5ZjF1a1VONURhejFTeWlFdlVDQmdrOWRVMzRzWUl3NzdmX1JHWHprRHlzeW5Gejd1TGFKTFpFNVB2VmVDS1NQTWRtVks1M3JpZVQ1WFpXSU9ycU8tUjFXcm4tUzhDSzJxM2UtTUc0YWFPZU1EQXNJZDE?oc=5	火警	A
-2019-08-26	巴西亞馬遜森林大火 不斷有新火頭	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/367801/%E5%B7%B4%E8%A5%BF%E4%BA%9E%E9%A6%AC%E9%81%9C%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB-%E4%B8%8D%E6%96%B7%E6%9C%89%E6%96%B0%E7%81%AB%E9%A0%AD	火警	A
-2019-04-08	30消防員殉職 四川森林大火背後的悲痛與爭議｜01周報	https://www.hk01.com/%E6%B7%B1%E5%BA%A6%E5%A0%B1%E9%81%93/315434/30%E6%B6%88%E9%98%B2%E5%93%A1%E6%AE%89%E8%81%B7-%E5%9B%9B%E5%B7%9D%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB%E8%83%8C%E5%BE%8C%E7%9A%84%E6%82%B2%E7%97%9B%E8%88%87%E7%88%AD%E8%AD%B0	火警	A
 `;

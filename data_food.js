@@ -1,9 +1,8 @@
-// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 150 條
+// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 145 條
 var DATA_FOOD = `
 2026-10-20	阿富汗糧食危機惡化 聯合國估4月前逾1900萬人面臨急性缺糧	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnMTdxQnlXT0ZHdHRhZF9Gcmc2eUoxUzF3N0ZkZnFmNFYzTkw1ZFEwdlhMZGJIRTBVcjdHTm5aWFlZaFhjcnE4ay1COVNkNnJmNmxzc1FpdmNyLTQ0ZE83dA?oc=5	糧食	A
 2026-10-20	聯合國示警阿富汗糧食危機：明年4月前恐達1920萬人面臨嚴重飢餓	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjdTVsbTFBZE0yUHJrSFVoV0JKcTItSVpVd2FScHJpT05wSnVrVDFwRUZfTWl3MGVuMHA4MUxia2ZKWGZhNGZBUXFidzhOaXBFTjNYY01qYW43NHlkWU1Ycg?oc=5	糧食	A
 2026-10-17	菲律賓世界糧食日面臨飢餓挑戰 慶祝背後是糧食危機 - 商傳媒	https://news.google.com/rss/articles/CBMirgJBVV95cUxPSUl3SE5JYkxsZWd1Z1ZVVlpMdGVXQTU3V3VKLWFpQUN4bG85d19IQTk4ZTQxYlJZZTIwZE0tZHVISTF6bWFvMm81akdHNlNyWHhTM2pUXzZRSk1kLVJ4azRNbk42Rk50QVBZNHNxRjhWRUktam1tb0lKMFFxSEpUMzh4M0RnQ0x2bmxoVFFsVjJGd1JhTzF0TzJ5S2lRdFlHRWRlU2JmWC04ZldHOFJzTGh1dVpSSGQ5bVBkNUpRMnBMMHB0T2VUWF9Xa0YwdlVJWElYU3lDX05OYUtoWXdwYVE2UU1Vd2R3UWNmSDFlc1k5bUtiR2R4WUMtMVREZ1dPby1tR0RVLTdiYnVEeC1wS2ZsYzFQWWVXek44UjhQYjZJZHB4SEEtUEJ1VlhkZw?oc=5	其他糧食	B
-2026-10-15	荷姆茲海峽化肥運輸受阻 聯合國警告亞洲非洲恐爆糧食危機	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sWndJZmhnS1ozelFOUE53SFd3LTI4aTJVWUVic2VnUXRCWXdEWi1sOTBuN2RabVV1N1lucXVkOENFSlhiWDhpVm5GMWJvaGJYQlpGUWpUdEkxdmJjWXhwQnB2eFdEQdIBa0FVX3lxTE9GdGNfN09nUDk2QndySXMxVVc3V2dxNmdzM01kck1ZSTB1ckRWdko3QTdYR2RTVm9Jc0lnUEdTNF92SzBwNm1MZTI2Qy1Wa2hmRmJvanNIU3Q4M0o2S0FaR0Q0OURuNFNJcllr?oc=5	糧荒短缺	A
 2026-10-15	聯合國力推荷姆茲化肥運輸協議示警糧食危機- 新聞	https://news.google.com/rss/articles/CBMikgFBVV95cUxNREdlRjZfUzJFbVRFU2xIUlgySnBwOXdqQ3VrZ0dtOFhySHRUSUdBdUJ6RGNsdHUtZ2Z5cW03X0c0QW9Qc0FOdW1UYmJDcHhtRUlGQ1NyUWpwVU5JZXIwTFEwUGh5U2EtZTdaaUg2NTFvTDhOMVAwM1ZEY3E0N3BQQW9wdUFyMkRkUWVScDIxSzFlQQ?oc=5	糧荒短缺	A
 2026-10-14	聯合國：數周內若無法重啟荷莫茲化肥運輸亞非恐現糧食危機| 全球財經| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FbmRvUTZMaXI5ZUUwOGtSWTVCZDg2VjQyODVIR1c2bHJfYUpmWU5ybklfaHVNRFZrUEY0NUgzQjhMMV9ZdV91WXV5M3FYYmVE?oc=5	糧荒短缺	A
 2026-10-14	聯合國警告:若數周內無法重啟霍峽化肥運輸 亞非恐現糧食危機	https://news.google.com/rss/articles/CBMiqANBVV95cUxNT25qTGVYTlI2YXk2YzF2NFNtNVFzNHdHMUhkZ0N0TXpBOHBuUUJvbFR2YUQ1MUEzNk9RUUVBeTl5TkQ2MGE3ZVktZ0R3aXdYaEFPc1R1Wld1eDJiTVR2ZXlQemR1OC1CbUFjcG9JUC05RnNqdkpsOFpXX1NtTDlULVNfTXlubmNqcENINHRpLVUyNFBmTXNSSjU2VU9Fb3ZoYV9fc2dfdHlfeGlwSXBhRHBTZEp4bDU0Y01PbGF1cmxrcVY5cVdxUEpvbkwtVmNtcXh4V2dxa0E4cFROdk9rV1dFU1NyZ0pQeDJvMVMyT2Y2R0hVbXVlTlNtWXBocVRvU1diMng2c0hkN2NtNEhyR05xVkpObjQ2ZTVSSTg4MFEtRDE2dGVqUEFaVlFlYXJ1elZMMmhXWXFYVm9yeTVFcnRjVEdfNzF3YlJSVjZtSmlRVmdaZ0tVdktlVWVScUpGN1dDVkZoSU1SemljMzNmNzJwQ1otWWVmYmFFN1l6ajNjMGxsTzc3b0hMVEdZV1pnY2tWdzlFSFZYQkM1OWhPZ3R0QU1sS3JU?oc=5	糧荒短缺	A
@@ -21,7 +20,6 @@ var DATA_FOOD = `
 2026-09-29	俄羅斯海運糧食出口2026年7月大跌20% 作者 Investing.com	https://hk.investing.com/news/economy-news/article-93CH-1608062	其他糧食	B
 2026-09-29	俄羅斯在烏克蘭襲擊損毀港口後重新調整糧食出口路線 作者 Investing.com	https://hk.investing.com/news/commodities-news/article-93CH-1605644	糧食	B
 2026-09-29	三重威脅夾擊全球糧食供應鏈 黑海中斷、歐陸乾旱推升穀物價格	https://sunmedia.tw/news/finance/1787873550-三重威脅夾擊全球糧食供應鏈 黑海中斷、歐陸乾旱推升穀物價格	物價暴漲	A
-2026-09-29	​聯合國糧農組織：霍爾木茲海峽持續受阻或致全球糧食價格危機	https://www.houkongdailynews.com/instantNews/150469	其他糧食	A
 2026-09-28	烏南遭俄占領城鎮淪「人間煉獄」傳糧食已耗盡	https://www.ntdtv.com/b5/2026/09/28/a104136919.html	其他糧食	B
 2026-09-22	葉門戰亂升溫恐爆飢荒 世界糧食計劃署緊急擴大援助	https://www.ftvnews.com.tw/news/detail/2026922W0026	歉收饑荒	A
 2026-09-21	黑海成為「另一個霍爾木茲」 全球糧食供應拉響警報	https://hk.finance.yahoo.com/news/黑海成為-另-個霍爾木茲-全球糧食供應拉響警報-095009917.html	其他糧食	A
@@ -80,8 +78,6 @@ var DATA_FOOD = `
 2026-06-18	全球援助資金緊縮 報告：逾3億人陷糧食不安全危機	https://turnnewsapp.com/livenews/life/20260618002971-260405	其他糧食	B
 2026-06-01	加拿大貧窮評級微升至D+ 四分之一人口面臨糧食不安全	https://www.singtao.ca/7521635/2026-06-01/news-加拿大貧窮評級微升至D+ 四分之一人口面臨糧食不安全/	其他糧食	B
 2026-05-27	糧食危機| 雪旱來襲！理大研究揭暖冬衝擊全球冬小麥產量威脅全球糧食安全- 教育科研	https://www.wenweipo.com/a/202605/27/AP6a16bb99e4b0b49ad1bcf9d5.html	其他糧食	B
-2026-05-22	霍爾木茲海峽持續受阻或致全球糧食價格危機	https://m.china.com/news/13001813/20260522/49507780.html	其他糧食	A
-2026-05-22	聯合國：霍爾木茲海峽中斷將導致全球糧價危機	https://www.ntdtv.com/b5/2026/05/21/a104098661.html/amp	價格暴漲通脹	A
 2026-05-21	聯合國：霍爾木茲海峽被封 或在6至12月內引發全球糧食危機	https://www.hk01.com/即時國際/60352126/聯合國-霍爾木茲海峽被封-或在6至12月內引發全球糧食危機	糧荒短缺	A
 2026-05-20	霍爾木茲海峽遭封鎖！聯合國警告：全球糧食危機恐在一年內爆發	https://www.4gtv.tv/article/2026052009000025?utm_source=popin	糧荒短缺	A
 2026-05-07	以色列蓄意限制糧食與援助 加沙營養不良危機升至驚人水平	https://www.hk01.com/世界專題/60347648/以色列蓄意限制糧食與援助-加沙營養不良危機升至驚人水平	糧食	A
@@ -138,6 +134,7 @@ var DATA_FOOD = `
 2022-08-18	歐洲遇500年大旱，「垂直農場」能解糧食危機嗎？	https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kNjU3ZTBMeWVZdWJ3dDUyX1Nfcmd5X2VOLTJVdV9LSS1xUFRtRW9zV1NFZDF6VUpNXzEyV3B3TURmUmM5UmQ5X3NOdlY?oc=5	糧荒短缺	B
 2022-08-15	玉米小麥失收、牛奶荒來襲 歐洲如何應對500年來最嚴重旱災？ No Water	https://www.hk01.com/sns/article/804127	歉收饑荒	A
 2022-08-11	糧食供應.兒童保護 飢餓三十搶救阿富汗 Hunger	https://news.tvbs.com.tw/life/1873368	糧食	-
+2022-08-11	糧食供應.兒童保護 飢餓三十搶救阿富汗 Hunger	https://news.tvbs.com.tw/life/1873368	糧食	-
 2022-07-25	北韓又見糧食危機！被爆接連餓死人	https://autos.yahoo.com.tw/news/北韓又見糧食危機-被爆接連餓死人-070411976.html	糧荒短缺	B
 2022-05-26	糧食危機：肥料價格飆漲下泰國米農艱難度日	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpUFhxWHhSTGR2Ym5fZ0hTUjlLckxIcTN1WV9MS05jZ0p2cDZQXzE3MG5xNnF2QlI1VjFlODlCbWRaSmVGa0NNOWJ6b05WX09mbUFfdkZZTlc5VmJLVEUycdIBZkFVX3lxTFB1aFRZSmZRUFkwazVvY0NGMUM4VlFxSTRBYWp1WnVER2ZWUUFhWVp1emgzbnpNQzkyVFM3ZEo1STdsVnZ2c1kxWGUtaU9aZnhHakZ0MmhHUnJ2MndFZFdESGRJdm9WZw?oc=5	糧荒短缺	B
 2022-02-10	一片80元雞排背後 糧價新風暴	https://tw.news.yahoo.com/%E7%89%8780%E5%85%83%E9%9B%9E%E6%8E%92%E8%83%8C%E5%BE%8C-%E7%B3%A7%E5%83%B9%E6%96%B0%E9%A2%A8%E6%9A%B4-082330840.html	價格暴漲通脹	B
@@ -148,6 +145,4 @@ var DATA_FOOD = `
 2020-02-28	中南海拉警報！蝗蟲大軍侵全球 一天吃掉3.5萬人份糧食	https://www.setn.com/news/698156	其他糧食	B
 2017-07-11	非洲糧食危機2017:工作報告3	https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVZzbW8wZnFUQzlHbXJRWV9XVWtodndtN1lTQWMtOV8xWV9jV3R3aEpXVE9hSWRkdGw5cmowYUZMTmdLYmZjQWs2WE41SFpjMHRQcy04QkVoakJNQUtyREtzejBTa000bzZxbFFqLWJHT3pvZ1gzOTZGU3kyREFvQ2dZUTlZRkRBcHcybXRR?oc=5	糧荒短缺	-
 2016-04-16	熊本強震／領2飯糰排隊2小時當地台僑：糧食開始短缺| 國際	https://www.setn.com/news/138797	糧荒短缺	B
-2026-09-06	喝完酒竟體膚發藍死僵！印度村落爆假酒慘劇至少12死	https://www.setn.com/ampnews/1902558	悲劇	B
-2025-10-09	慘阿!全球因為糧食通膨導致住房合約違約崩盤	https://youtu.be/5jj0L3ylmZU?si=AL1ndDBFeakzshY7	經濟	B
 `;
