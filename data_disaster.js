@@ -1,4 +1,4 @@
-// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 612 條
+// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 602 條
 var DATA_DISASTER = `
 2026-11-02	青山公路洪水橋段致命車禍54歲女子死亡	https://news.google.com/rss/articles/CBMib0FVX3lxTE5aUVBKbWtmMXNiTVlGektYemFlanE5ZGhVQzVxQ0FDa2Fqd2d1TDVBaE1ibDhOZHloWVNYYkRpM3dNQVVnVkIxbHJwUXU2M01DejBlYmhWQm5fanJqYVprVGNXX3k3eFlHZklRNXJpVQ?oc=5	涉及傷亡	-
 2026-11-02	洪水橋54 歲婦捱撞倒卧花叢不治 男司機涉危駕被捕	https://news.google.com/rss/articles/CBMi5gJBVV95cUxQLTJEMjhUUlhPS19EdVpGR2IzQlp3V0ZnY2lZT3dUaDFKUEctZ1lLdHRXZXVQLUNGekFZNzNsV2dxUnNoUXo2UFRvYnhrcFhyWW00YnotLTdKbjQxZlpoSnRLU1ZQWlc3MVhmalhSTnJVSjBpS2lNT2d1QTg1Y01XclFJWk5JNG55ZkxnZE1xaGU3ZlJvVS1TMVdjUGxTdlhXMi05LUF6VHFPcTdHaC1uaXRtcVQzamVWN1U2TklPYlFrQjJDa3lZM2JsejY2aDZtMGhoR0FnUENXSHhKZE1BZjR5QjBIUmNxT08zcncyVUROVGluWUQtM1FzQzJYSzY3VVltb0stdHRwem43T2JNOXFOX0N3aVJOMTNRNGZVN2RBdk9qZVNONkw5UF9sV29KaTF3SEcwamlPbjlKeHJ3S1lueE9pM25iUzlCaUhySFIxenl3TEk2eGJaZHdJVy1UbDJWVG9B?oc=5	天災	-
@@ -42,7 +42,6 @@ var DATA_DISASTER = `
 2026-10-26	煙花颱風升級中颱！颱風眼已成形 周末路徑將大迴轉	https://news.google.com/rss/articles/CBMi3gJBVV95cUxQUU9TTS1QRl9yUUJmZ0d1SmYxVURqYVNjR0VqOTZ3d3ZPcUU1Tk9uLTBjRzY1UDNsTWZST0JyblNhdGFiTmE1ZHFZZndVZTltX00xeTFYU2hlNlhfMFJ4WHJQN3JQRWFGUFVYSHRLUXVDSWJmc1ZZa3J0dVlBWTZ5clZuekxGSV92WllnZlM5MmREcjZFeEVlem9Ram5fMERBb01fZFhfbHpNUHNzdGRvX2pYTmp3TXB6dEFoWlh6VnRqWW5ZOXFKXy1oSXYxUldlWHdiZzNkeS1TR3hIVW0tbmlFQ2Q5dFh6LVZZZmtmX0FOVXl2WjVaNHZJYkhWQUpGaG5oNW1pYndXNzcxMlU2aTRXQVVrWUlWU0dqbU0wZXo4SzhweV9mcV9BZkZBNUw2TjA3VG5xRnRpS3NNTUNrTTVmUi1QdWZsY2lRTFE1SVYxMXNBRDZlclp4d3NLdw?oc=5	颱風風暴	-
 2026-10-26	中國地震局發布西藏巴青7.0級地震烈度圖- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTFBUeUR1NXlqWVB4RVdYTWpQTmFnN0VIMFRHY0ZZa3BnQ0ttVVVwMmZSeEZpYlZJRk9YVVN6RkMzMDRQS3htV2ZkeWJKUF90c1hLMkkzTmNiNjA2Qll3YkIzWG5ES19ManNwdGtfNEI0RWx1MjlyQzZN?oc=5	地震	-
 2026-10-25	鹿兒島火山爆發 1千公尺煙柱沖天「恐出現大型火山岩」 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE95czkycVpNQ0ZYeFBoZkFaOUR2dkt1LThfVWdEZE1mNC1ZR1BuX1VhMkZwY083cVZEOGg0MlFZZzlDMlRmVEl4VENDTEdwMUdyV2R4YXpn?oc=5	其他災害	-
-2026-10-25	西藏那曲7.0 級地震傷者獲及時個人化治療	https://news.google.com/rss/articles/CBMitwJBVV95cUxNaVN4ZTVGbjVqbWYwZ05pTmNjRU5zcHUyaU5rS3NjNmwyT1FjY19VWlprc0dKb2VUaGFRVk5fd05COUpiTlE3aVpUcWtrZWFheTNBek9GTU9fWTN6b2dodHZKV0JFa29ZTUVNVXQ5VnhSbURVdUx3R2xPWUgwbnJLam1fNVIwSGI5Zy1pV0NfTFpkSEVFMXBuOXVwUmNPY0p0cjIxRjc5VFpjaE1lQXhzV2tDTC1ncjdXQlZrSE83ZXRLcUxMSWp6N2tvMzB5Zm85VWNHTlU5R1ZiOV9OOWF4SUNQMEJuY2VvLThLa0plY2xuVFFUMU1UQVAySTBOaHE0SVZ5U0I2VXpCZUpKQlFpVTJubmtubmYybzAwQnhRaUdDVFIzdm92djJYUy1zXzRwaXlFZ0pFMA?oc=5	地震	-
 2026-10-25	西藏地震3名重傷者 經15 小時接力手術後情況穩定	https://news.google.com/rss/articles/CBMi2wJBVV95cUxObmJJeVVOMDZ6WEhmdkliLTZscDRUSkRtNmFlcjlRRG5xdU1pMjJMZVZUU3JzaFd6c0x0dFkxSU9BTjU4X0FOckNlNmZQRUx5Y25sb1RESGJYM2lfZ3ZYMUlQOWktbk81eDdpamU0blpBSGt4YlZJVWdjdmxuMHh5Nk9mNllBS0IzUjVMc2wxSE1qX05UbTdmdHNBeGZ1Y2d3N1FpeGdLYkN3eE14MHlkTUI1aGQwSEp2MF9kQ0FyUkhJdFNFY1A3V3NEV2VYRi1pMHYwNnR2N1kxTi10SGFSd0lscWF6d1daUlh6OUNhcHJWWGJvV0x1ZGpWaWxmbEZSWWh3b1ptZEs0ZTJiUEZZRjJwOVQyZDBKR2xIVWwxMGhqYVBqSk94SDZFNHpCMEhCUk5PUlVpcDhKYnRvcmtNNUxqTzNVMmhNVnpCUkxaRVgxVkh3VHc3NmJRWQ?oc=5	地震	-
 2026-10-25	日本規模5.3地震突襲九州！宮崎縣震度達3級 氣象廳曝海嘯風險	https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlZ0dUFKa25jYmxIRTJGV2RBNjFrMk1sSW04bUJ2SlNMVTFiZDVIZ284dDZ1aUdULU9nLWJFQ2llWld3ZlZUdll3eFYxSTFQbFJnTmhFMVhRNVBCaE9lbjl5ZkZISE5BUVBCRjZ6NXBITURFSUhqM20wY3pCSkNpaDBiYlp3dw?oc=5	地震	-
 2026-10-25	日本櫻島火山爆發！火山灰最遠恐達240公里 多縣拉警報	https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMUHBfTkl6clF2dk00YjVJMDQ0Wk5uRFYzVGZUeXg0VmQtaExjeC1na0JYMTJMTDZBMzMzcno4dkZJWVYwZzZIc1NEb21uUW9tQlNJ?oc=5	其他災害	-
@@ -55,7 +54,6 @@ var DATA_DISASTER = `
 2026-10-23	颱風薔琵襲台釀1死94傷！騎車自摔、交通事故最多 傷者暴增52人	https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kdkF4N19tZG9KcGFQdGpwaUV4UXhreVlPdVQ5WTdDQ0xBSGF3eGpuZVRuSmE5eHE4YjVUWktBbDl4Y084cExnTTZwMHAxaG1sZVNqTmFMOA?oc=5	天災	A
 2026-10-23	颱風薔琵來襲釀1死94傷騎車自摔等交通事故最多| 社會	https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tQUlKRmN3bkV0ZHdTYVpFSzA2NEdSNVJJRkg0WElxTnp6OWJkek9nZFkzbkY3SzRZVHRhMDNTcjR4cDJrT2FfZ1h2SmdLUW4yUHBVNkVzME9ZU2hCcjU0?oc=5	天災	A
 2026-10-23	那曲巴青地震親歷者回憶地震瞬間：響動像幾百頭氂牛同時奔跑- 兩岸	https://news.google.com/rss/articles/CBMiekFVX3lxTE9wOFo5NW1ZaHUzdUxhTGd3TTJwN0FWUXpDZjRNMVVoVVVlVEU1SDdqcUlpSXAzN0lJNEZWaWdvMjYwUDQ1aWl3bWpMZDVaOG12SnBvNV93X1NudGZvRl8zcXpBdHFBYmU1X0JMYjRLX0l5TjhodG85V1dn?oc=5	地震	B
-2026-10-23	西藏那曲發生7.0級地震國道317線部分路段封閉- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTE1yYVFyaGxmYnA2anFLR2RLemo4NmZTcUtydGQ5NTUwUXJoUGN4Vlozd2YwU2tZOHBKVWlNV1dRSkNXd1djeTBfRkNQQWduaFZuZXhfMWd1N2dzNEVWZ1lRLTRvX0M3eF9KcjZ2RGEtZEp1NkpwcE1Z?oc=5	未分類	A
 2026-10-23	西藏那曲市巴青縣7級地震 至少16死數十傷	https://news.google.com/rss/articles/CBMibEFVX3lxTE55dGFTLVNnRnpRQUZDTk9ENHRYeUZvclpOaGxMQ0owWmRzSFhfSlBtZ21GS1c2WDRFa05obWNaT2pSR004OGJIbDV0TzZwaktCbk1ZUC1zcXc5elNPWjZld0ZiWFlmVDlDVzNaQw?oc=5	地震	A
 2026-10-23	西藏巴青縣7級地震 16死76傷339屋塌	https://news.google.com/rss/articles/CBMiwAJBVV95cUxOTW5YSVhHM0dScWlUZHgwRzBiRmNXSDU0RkdPWDh3S1VSZTdONklsMU9zMFM0T2MxVGdMVGdjTG14OTJvWFA1bHVTVFIycTNlanBFT0txcVF5SmFfd3VpN19LMXZCWVF0amoyanBqdFZSbEtSOUJBMjdoN0Z4akl1NlNQRnJfbkdUQ2JMUDFEVlkwMUtGSU84dkhmeE5zUlFEdUJQTS1nZktWLXVRUTBKQ3phaGxSNzRFcnFMYnhZekRmSFBqZHdyck5wTURLZFE2X3ZVR0I5NkhIY0c4S0ctS2RWazJYZEY0STY5ZV9yU3VNdmgydzJyanZneUs3YXJ1RV94dVRPMVFWQ1l1Y1gzRHlXMUk5Z3BZWDQyWm9IbnpqMDVHNjdleTI2WnQxRTlTWXliVTV6bFFOQm11dVVFZA?oc=5	地震	A
 2026-10-23	西藏七級地震16亡76傷 完成三輪搜尋 轉移1.2萬人 首批救援物資到位 集中安置點優先保障防寒保暖	https://news.google.com/rss/articles/CBMid0FVX3lxTFBHclJZVnBmOFRpSF9tcFJRQ09yR2JLME1YRXVGT2ZSem5IT2lpbExHSHF3dlc1dWgzVEZJNnVWYndYbGdKODltMS16TGozbzFndzl2SEprV0h3NVdINTUwaUN4bGdIUFVzRmVsZlMxNlo1eXFtS0s4?oc=5	地震	-
@@ -138,9 +136,7 @@ var DATA_DISASTER = `
 2026-09-29	奇諾山火肇因查明 已延燒超36英畝	https://www.chinesedaily.com/article/detail-689351.html	森林火警	B
 2026-09-29	国际｜危地马拉一火山喷发后火山碎屑飞溅，徒步者狂奔躲避	https://www.bjnews.com.cn/detail/1781932765129651.html	其他災害	A
 2026-09-29	国际丨日本樱岛火山喷发：火山灰席卷鹿儿岛，天空几分钟变漆黑	https://m.bjnews.com.cn/detail/1786239452129677.html	其他災害	A
-2026-09-29	哥伦比亚普拉塞火山喷发 火山灰柱高达800米	https://wap.cj.sina.cn/pc/7x24/4911807	其他災害	A
 2026-09-29	台灣遊客阿蘇火山失蹤第30 天 火山口發現三具遺體	https://www.msn.com/zh-tw/news/world/台灣遊客阿蘇火山失蹤第30天-火山口發現三具遺體/ar-AA1Wz5KO?cvid=48370e708be04beda029953ec1fae669&ocid=ientp,spartandhp	其他災害	A
-2026-09-29	印尼默拉皮火山喷发 火山碎屑流滑行约2000米	https://m.huanqiu.com/article/4SGdenctt2R	其他災害	A
 2026-09-29	印尼火山爆發！火山灰衝10 公里高空新航酷航等飛峇里島航班取消	http://www.msn.com/zh-tw/news/world/印尼火山爆發-火山灰衝10公里高空-新航酷航等飛峇里島航班取消/ar-AA1GVmj8?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	其他災害	A
 2026-09-29	印尼杜科諾火山噴發釀3死 2名新加坡登山客相擁罹難	https://www.taiwannews.com.tw/zh/news/6359188	其他災害	A
 2026-09-29	南韓慶尚南道山火焚燒近兩日後救熄 無人傷亡	http://www.aastocks.com/tc/stocks/news/aafn-con/IC4849157/world-markets/INFOCAST	大火山火	B
@@ -180,7 +176,6 @@ var DATA_DISASTER = `
 2026-09-18	巴基斯坦西北部發生爆炸襲擊致16人死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/09/18/content_8775926.html	未分類	A
 2026-09-10	日本自衛隊運輸艦抵印尼助滅山火 為首次參與海外滅火行動	https://news.tvb.com/tc/1194480-日本自衛隊運輸艦抵印尼助滅山火為首次參與海外滅火行動	森林火警	A
 2026-09-09	地震速報／不是頭暈！19:12苗栗西湖規模2.5地震 最大震度1級	https://www.nownews.com/news/6873681	地震	A
-2026-09-07	印尼火山爆發影響航班 山火濃煙波及鄰國 - 20260907 - 國際	https://news.mingpao.com/pns/%E5%9C%8B%E9%9A%9B/article/20260907/s00014/1788716627192/%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E7%88%86%E7%99%BC%E5%BD%B1%E9%9F%BF%E8%88%AA%E7%8F%AD-%E5%B1%B1%E7%81%AB%E6%BF%83%E7%85%99%E6%B3%A2%E5%8F%8A%E9%84%B0%E5%9C%8B	大火山火	B
 2026-09-06	受熱浪等影響悉尼森林大火風險級別升至「極高」 當局頒布戶外全面禁火令	https://news.tvb.com/tc/1193686-%E5%8F%97%E7%86%B1%E6%B5%AA%E7%AD%89%E5%BD%B1%E9%9F%BF%E6%82%89%E5%B0%BC%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB%E9%A2%A8%E9%9A%AA%E7%B4%9A%E5%88%A5%E5%8D%87%E8%87%B3%E6%A5%B5%E9%AB%98%E7%95%B6%E5%B1%80%E9%A0%92%E5%B8%83%E6%88%B6%E5%A4%96%E5%85%A8%E9%9D%A2%E7%A6%81%E7%81%AB%E4%BB%A4	大火山火	A
 2026-09-05	印尼喀拉喀托火山爆發 日本監測海嘯風險	https://www.881903.com/news/international/2648514	其他災害	A
 2026-09-01	日本火山喷发现场 樱岛火山多次喷发	https://military.china.com/news/13004177/20260901/49711681.html	其他災害	A
@@ -283,8 +278,6 @@ var DATA_DISASTER = `
 2026-08-03	歐熱浪持續乾旱嚴峻兩大河水位創新低匈牙利等國核電廠停運德GDP料削0.2個百分點- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE5razl2d2pKWDdTNnhSNjg5TW1FT2ZxUVRPVVN1TE5seGxMUFBFOE12WUhINlBpQW55cHZLVUZxY1NfelFxZXlabGVENkg5WTRGcF9KOUxBaWU0cjJpZ2ZfT3h3MlJXSHYzX0RiZG1WYXRnUGUzWnZv?oc=5	熱浪乾旱	B
 2026-08-03	櫻島火山噴發濃煙衝3000米高空 火山灰飄向鹿兒島	https://hk.on.cc/hk/bkn/cnt/intnews/20260803/bkn-20260803130246992-0803_00992_001.html	其他災害	A
 2026-08-03	櫻島火山再噴發！火山灰衝3000公尺 鹿兒島多地恐降灰	https://www.nownews.com/news/6862611	其他災害	A
-2026-08-03	樱岛火山喷发浓烟冲3000米高空火山灰飘向鹿儿岛｜即时新闻｜国际｜on.cc东网	https://hk.on.cc/hk/bkn/cnt/intnews/20260803/mobile/bkn-20260803130246992-0803_00992_001_cn.html	其他災害	A
-2026-08-03	日本九州強震後火山爆發 濃煙、火山灰衝3000公尺高空	https://tw.news.yahoo.com/日本九州強震後火山爆發-濃煙-火山灰衝3000公尺高空-014800040.html	其他災害	A
 2026-08-03	敘利亞農業陷困境 酷熱乾旱設施老化加劇糧食危機	https://www.bastillepost.com/hongkong/article/16495696-敘利亞農業陷困境-酷熱乾旱設施老化加劇糧食危機	其他災害	B
 2026-08-01	熱浪乾旱襲歐洲 多瑙河現二戰德軍沉船	https://tw.news.yahoo.com/熱浪乾旱襲歐洲-多瑙河現二戰德軍沉船-065213436.html	熱浪乾旱	B
 2026-08-01	歐洲山火燒毀逾43萬公頃土地 危機向東蔓延	https://hk.on.cc/hk/bkn/cnt/intnews/20260801/bkn-20260801100002473-0801_00992_001.html	其他火警	B
@@ -438,7 +431,6 @@ var DATA_DISASTER = `
 2026-05-12	地震速報！ 05/12 14:53左右 花東地區發生有感地震	https://tw.news.yahoo.com/地震速報-05-12-14-53左右-065349056.html	地震	A
 2026-05-11	岩漿噴發的前兆！坎拉翁火山首次出現「可見的火山口輝光」	https://www.nownews.com/news/6833260	其他災害	A
 2026-05-11	印尼火山噴發奪命！2新加坡人失蹤多日被尋獲遺體 慘死火山口邊緣	https://news.ebc.net.tw/news/world/551145	其他災害	A
-2026-05-10	印尼火山爆發3人亡 兩新加坡人1印尼人罹難 (15:06) - 20260510 - 國際	https://news.mingpao.com/ins/國際/article/20260510/s00005/1778394636580/印尼火山爆發3人亡-兩新加坡人1印尼人罹難	其他災害	A
 2026-05-09	有片丨日本櫻島火山爆發 火山灰噴上3500公尺高空 為今年第9爆	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17226516812042/重點新聞-有片丨日本櫻島火山爆發-火山灰噴上3500公尺高空-為今年第9爆	其他災害	A
 2026-05-08	地震速報／07:08花蓮豐濱規模4.4地震！8縣市有感 最大震度3級	https://www.nownews.com/amp/news/6827631	地震	A
 2026-05-08	印尼火山爆發！火山灰直衝10公里高空 20名登山客驚傳受困	https://news.tvbs.com.tw/world/3198940	其他災害	A
@@ -457,7 +449,6 @@ var DATA_DISASTER = `
 2026-04-21	日本7.7級強震釀至少6傷 氣象廳警示：不排除再發生大地震	https://news.google.com/rss/articles/CBMikgNBVV95cUxPdUpxQlcxQUdwSnc3bUpONXhYd294bDhablk3UlZNcks1aGNfN01Lb0JvYWNSY1daQm1ndzJ5UC00c1QwMmRSRWJGaXZzRDlPTi1CLTFmZlhHTUlJQVJUeUUxR0JsSkZPckVrOWtiaWpULVNFcWxCV2RXbFUxNExXMnpmdGlKaU1QdUtGMnQtQTBmenZlS0xUMkVrNmVZZ2Y3R1FZdnN3bmtfQmtjdkpmZ3VVbzQwb0t1MmZrV280QXZMbl95dlhoUnR3RXgyRTFjb2JjOC1aV1RrNWpzYTZSM0ZtbUs3anB6N2dISjFBaGswcS1ibnZac1BQaDg4eGVNcmdWdVhsUmpMbVZtMzBkMFM0ZWRSVGE0b1J0Qm5zY0ppd0JES3lPMXA4SWFOcTZpRUF6bUxuX1ZQb0x5aGZ3elBXbkMyOFdNWnN3NlNhRjZhRDBaZUF0RVNLZXdxR0RNeXFjbzBSNWFHZjRndURLVmRxcWNnbjVqVmdRS0JpN3RCbmttVXFabV8teF93ZXdHTXc?oc=5	地震	-
 2026-04-20	阿蘇火山空難直升機墜毀釀3死 日方擬派「遙控重型機具」入火山口檢拾遺體	https://utravel.com.hk/news/detail/20094786/阿蘇火山空難-直升機墜毀釀-死-日方擬派-遙控重型機具-入火山口檢拾遺體	其他災害	A
 2026-04-20	觀光直升機墜毀阿蘇火山口 2台灣客恐罹難 當局欲派無人機回收	https://www.hk01.com/即時國際/60341984/觀光直升機墜毀阿蘇火山口-2台灣客恐罹難-當局欲派無人機回收	其他災害	B
-2026-04-20	熊本阿蘇火山直升機墜毀逾3個月 計劃以重型無人機吊起殘骸	https://www.am730.com.hk/article/1025910	天災	B
 2026-04-20	日本發報北海道和三陸近海地震警報：後續強烈地震可能性增加	https://www.hk01.com/即時國際/60342076/日本發報北海道和三陸近海地震警報-後續強烈地震可能性增加	地震	A
 2026-04-20	日本東北部海域發生7.4級地震 已發出海嘯警報	https://news.rthk.hk/rthk/ch/component/k2/1851758-20260420.htm	地震	A
 2026-04-20	日本東北近海7.4級地震引發海嘯 東京有震感 新幹線部分停運	https://hk.finance.yahoo.com/news/日本東北近海7-4級地震引發海嘯-東京有震感-新幹線部分停運-090928548.html	地震	A
@@ -561,7 +552,6 @@ var DATA_DISASTER = `
 2022-09-20	「超級火山」今年近700次地震 紐西蘭陶波胡下方火山升至1級警戒 quake	https://tw.news.yahoo.com/%E8%B6%85%E7%B4%9A%E7%81%AB%E5%B1%B1-%E4%BB%8A%E5%B9%B4%E8%BF%91700%E6%AC%A1%E5%9C%B0%E9%9C%87-%E7%B4%90%E8%A5%BF%E8%98%AD%E9%99%B6%E6%B3%A2%E8%83%A1%E4%B8%8B%E6%96%B9%E7%81%AB%E5%B1%B1%E5%8D%87%E8%87%B31%E7%B4%9A%E8%AD%A6%E6%88%92-105458262.html	其他災害	A
 2022-09-19	台灣地震：餘震向北移 未來三天或有5級以上地震	https://www.bbc.com/zhongwen/trad/chinese-news-62954661	地震	A
 2022-09-18	台東地震｜亞洲地震頻頻 未來「強震」必有一次？	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/816174/%E5%8F%B0%E6%9D%B1%E5%9C%B0%E9%9C%87-%E5%85%A8%E7%90%83%E7%B4%8490-%E5%9C%B0%E9%9C%87%E7%99%BC%E7%94%9F%E5%9C%A8-%E9%80%99-%E4%BA%9E%E6%B4%B2%E5%BF%AB%E5%B0%87%E5%A4%A7%E5%9C%B0%E9%9C%87	地震	B
-2022-09-18	【國際影像】意大利中部暴雨釀水災 小城慘變泥漿世界 Rainstorm Flood	https://www.hk01.com/sns/article/816191?utm_source=01articlecopy&utm_medium=referral	水災暴雨	B
 2022-09-17	意大利中部北部海嘯級水災 至少10死4失蹤 Rainstorm Flood	https://www.hk01.com/sns/article/816032?utm_source=01articlecopy&utm_medium=referral	水災暴雨	A
 2022-09-13	國際影像｜巴基斯坦水災至今3000萬人無家可歸 臨時帳幕裏等救援 Rainstorm Flood	https://www.hk01.com/sns/article/814058?utm_source=01articlecopy&utm_medium=referral	水災暴雨	A
 2022-09-12	上海等地因颱風降暴雨 湖南等省持續乾旱 No Water	https://www.epochtimes.com/b5/22/9/12/n13823148.htm	颱風風暴	B

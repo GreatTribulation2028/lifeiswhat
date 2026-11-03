@@ -1,4 +1,4 @@
-// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 70 條
+// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 68 條
 var DATA_CELESTIAL = `
 2026-10-14	有圖／今年最大「超級月亮」點亮夜空 震撼美照曝光	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EdGo4SFNxNnVrV09ZRHc0cGRLTFVCb1ZKZzJ0eGV0eW5JMkJPRzRkY1RFZnpxaXJhMUJ6NmRlbGVxQk1Jb01YMNIBTEFVX3lxTE5STFk2WFdEMlZWRHctZGZELWxqMDRNMS1GUlNSem5Hd1dhZDVUVmkySzJkODNCakJPVElZckQ2U2dpNHk3ejFxYVdkYkM?oc=5	天象	A
 2026-09-29	3月3日的月全食將是2028年除夕前的最後一次月全食	https://citytimes.tw/科技/3月3日的月全食將是2028年除夕前的最後一次月全食/914215/	血月日蝕	A
@@ -8,7 +8,6 @@ var DATA_CELESTIAL = `
 2026-08-24	96%月面陷入地球陰影！8月深度月偏食登場 月球將上演「準血月」奇景	https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zaHZpbWNTTDhCZ1p1RWlFZzVnOEhwdUMzZ2lteVBJRHhCMUxLT01EaXQxRjRxSzVULXBnZW9LUmR4aFBVTjV2TXFpUlhRVHJZSXd5WmNkX1dITllBLTRxMVp3?oc=5	血月日蝕	A
 2026-08-20	八月北美將現「血月」月食 何時觀測最佳	https://www.epochtimes.com/b5/26/8/20/n14833573.htm	血月日蝕	A
 2026-08-18	歐洲準備應對日蝕導致太陽能發電下跌	https://news.google.com/rss/articles/CBMiqgJBVV95cUxNUlJ3Q2NVZ21jWnFINlVZWWJfTl9xS19GLU5paU9pQXJ6bEJzUEJtWm9GT1B2eERVNTRJYVFHSVZWM3NZTDB4eWNZamNOMWZSc1c0SWdQR1N4S2ZPUlp6bG1wbjN1cjNmemJYcjM3SGtFemtGQnB5YWtybkN1S215VXdvN2FnSXJuSl9zeGJGY1lzcWNlWDlpeXdtTE1nUnpkMmFRazVod1d4a0RzVmNRb3U3WElkQnhrQ0Nha2UzQnAyeUlxWG1yTEJCanhIZWctZzhaRFg5RVRWaUo5Y3V2RE1vc0lFWHFDQlhDRzVXZzAtTnpPbE42UDZwci1VVS1XYUl3UGY1cDNHYk4xeVoxdkhJTlduRmVFVmh4TkxzMlZTQUZpa1NOc0FR?oc=5	血月日蝕	A
-2026-07-31	天文台：今年或現最強厄爾尼諾 極端天氣機率增 市民應提防極端天氣 (17:14) - 20260731 - 熱點	https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20260731/s00024/1785485857767/%E5%A4%A9%E6%96%87%E5%8F%B0-%E4%BB%8A%E5%B9%B4%E6%88%96%E7%8F%BE%E6%9C%80%E5%BC%B7%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE-%E6%A5%B5%E7%AB%AF%E5%A4%A9%E6%B0%A3%E6%A9%9F%E7%8E%87%E5%A2%9E-%E5%B8%82%E6%B0%91%E6%87%89%E6%8F%90%E9%98%B2%E6%A5%B5%E7%AB%AF%E5%A4%A9%E6%B0%A3	天象	A
 2026-06-17	6月多顆近地小行星安全飛掠地球 NASA持續監測軌道變化	https://www.technice.com.tw/technology/space/226267/	彗星隕石	A
 2026-06-10	三菱「全新Eclipse日蝕」突襲發表！轉生超帥跑旅今年開賣	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fTmxPNkR5Z09yeVdMUm9mbUh5OGNtZG5lMXVKTXlKRkpReEFqTTBGVE80OHJCR2dvbU9aVTI5Z1NZeUtxaWcxRmYtUGJad2_SAU5BVV95cUxPV1ZLVllQUXR2WXp0ZnV0RVVEcEduWUZIMFdTSlNfOVl2bTA0UmtZci1ZTW05SzlUdzRQTEhtbmZ3aWQ5SW8xSkJzV3ZZalE?oc=5	血月日蝕	-
 2026-04-08	阿提米絲二號任務公布繞月影像 太空人觀測罕見太空日蝕	https://www.technice.com.tw/technology/space/212013/	血月日蝕	A
@@ -34,7 +33,6 @@ var DATA_CELESTIAL = `
 2026-02-22	三月的月全食將呈現完整的「血月」	https://www.epochtimes.com/b5/26/2/9/n14694529.htm	血月日蝕	A
 2026-02-20	月全食｜3.3元宵節肉眼睹「血月」 天文台教最佳觀賞時間及方向	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60323648/%E6%9C%88%E5%85%A8%E9%A3%9F-3-3%E5%85%83%E5%AE%B5%E7%AF%80%E8%82%89%E7%9C%BC%E7%9D%B9-%E8%A1%80%E6%9C%88-%E5%A4%A9%E6%96%87%E5%8F%B0%E6%95%99%E6%9C%80%E4%BD%B3%E8%A7%80%E8%B3%9E%E6%99%82%E9%96%93%E5%8F%8A%E6%96%B9%E5%90%91	血月日蝕	A
 2026-02-20	月全食2026︱3.3元宵節香港有「血月」睇！附最佳觀賞地點/時間/網上直播連結	https://www.stheadline.com/society/3546075/%E6%9C%88%E5%85%A8%E9%A3%9F202633%E5%85%83%E5%AE%B5%E7%AF%80%E9%A6%99%E6%B8%AF%E6%9C%89%E8%A1%80%E6%9C%88%E7%9D%87%E9%99%84%E6%9C%80%E4%BD%B3%E8%A7%80%E8%B3%9E%E5%9C%B0%E9%BB%9E%E6%99%82%E9%96%93%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD%E9%80%A3%E7%B5%90	血月日蝕	A
-2026-01-04	超級月亮2026｜超級月亮長城古建築遙相輝映【多圖】 (17:56) - 20260104 - 即時熱點- 熱門HOTPICK	https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1ZUTDYzSDFlYksxWDVDV2plZjd6QWJWMTQxcDFXYXhOWkNCcTFYeEFlc3llcjFDc1BlempQbHVUeTZVRG9Eb0pGYVJ2YVZZcDVSME5LQnhIZ3ZhTmFiV0d6VGFNU0tHYjVjMkE5LXU3VlVhbkhOVkVCSG1lMm5ubXZiQzJlM3JDSmxPREZwUGphSkNYcnR0aw?oc=5	反常天象	A
 2026-01-04	特寫/「超級月亮好震撼！」	https://www.tkww.hk/a/202601/04/AP69597adce4b0eb9195c18f25.html	天象	A
 2026-01-03	超級月亮｜2026年首個「超級月亮」今晚出現錯過要等到今年尾 即睇10個賞月地點 |香港經濟日報	https://ps.hket.com/article/4062406/%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE%EF%BD%9C2026%E5%B9%B4%E9%A6%96%E5%80%8B%E3%80%8C%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE%E3%80%8D%E4%BB%8A%E6%99%9A%E5%87%BA%E7%8F%BE%E9%8C%AF%E9%81%8E%E8%A6%81%E7%AD%89%E5%88%B0%E4%BB%8A%E5%B9%B4%E5%B0%BE%20%20%E5%8D%B3%E7%9D%8710%E5%80%8B%E8%B3%9E%E6%9C%88%E5%9C%B0%E9%BB%9E	反常天象	A
 2026-01-03	今晚出現2026年首個「超級月亮」 周日清晨將有今年首場流星雨	https://news.tvb.com/tc/1143361-%E4%BB%8A%E6%99%9A%E5%87%BA%E7%8F%BE2026%E5%B9%B4%E9%A6%96%E5%80%8B%E8%B6%85%E7%B4%9A%E6%9C%88%E4%BA%AE%E5%91%A8%E6%97%A5%E6%B8%85%E6%99%A8%E5%B0%87%E6%9C%89%E4%BB%8A%E5%B9%B4%E9%A6%96%E5%A0%B4%E6%B5%81%E6%98%9F%E9%9B%A8	彗星隕石	A

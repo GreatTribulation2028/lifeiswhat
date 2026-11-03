@@ -1,4 +1,4 @@
-// 離世 | 由 htnl_build_news_js.py + htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 1982 條
+// 離世 | 由 htnl_build_news_js.py + htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 1976 條
 var DATA_DEPARTURE = `
 2026-11-03	歌手吾恩離世 與胃癌抗爭近七年	https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjFDTGpEanB6TzRTUUt4bHhOcnYzUFR6Y08xQlVGWXUzb1dGTl9zZW1oODN0QkZsQy00aWJVQ1pDbUtSUFotdjBQS2Vrdk1PeGJKanBTa3VYeTFPMXNOR0tmdy01d3B3bmFMaUUtZjE0TTF6R3hGQVZONHNqZlFBU0dFUQ?oc=5	自然離世	-
 2026-11-02	貴州新郎結婚當天去醫院看病離世 官方公布死因	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5naU9KT3Rpa3NMUElBamh6Q0lZZTh6eVBWZUcxcnJ4Q0J0YjRjRU9xcnlRV2N6TU5xNnM1SmZEMU4zUG85eXhVVUlCQWVjMTZuM2h6TVNYcHNfRG9ydVM4NNIBZkFVX3lxTE9hSFFrTTJ3d1poemI0X2hBVWtlRnlzWG5qR1FGT21qUkxKcTB4bUVEakZsQW1EZGlyWkxGbno3emdMdTRnNTlLR2lvQll6d2M3aWd5YUtZZ3paSVJleVU4UWNOQzdBZw?oc=5	自然離世	-
@@ -323,7 +323,6 @@ var DATA_DEPARTURE = `
 2026-08-29	珍惜生命｜天水圍婦人危坐外牆5小時游說無果終墮樓不治- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTFA2VDNOOERxQVhwRV9nclNzWDJva2ZxMk1Bd0FpNHBwTzdEWmVFUGdHQWV3WmdURllHcHZwdEJlbHB0aFVnajhPMHBrN1pBWFVJS3gxREpqQVo5QmxpelNqekhReUZxQmlSSVZWOFAwNkV6R0g2TFptNk9n?oc=5	離世	-
 2026-08-29	桃莉芭頓離世 歌曲播放量一路暴增 創全球單日新紀錄	https://www.worldjournal.com/wj/amp/story/121232/9721587	自然離世	B
 2026-08-29	最後一句「遵命」成永別！《超偶》徐杰27歲病逝 戰友闢謠揭死因	https://www.mirrordaily.news/story/82500	自然離世	B
-2026-08-29	健康網》法蘭克福機場員工因「瘧疾」死亡 疑瘧蚊隨客機飛入	https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1QmpidndITkJSYzB2Zzd5WGVkRWZYMHFyazBlWmNvc0M4dTlLRWJKTzBtbnI3ZzYzWjgyR3BleFZxZFFTb3dFNDFieE5IWGI4ZHJ4YXdSSUZHNTR3S0VyOGR1VmQ?oc=5	自然離世	-
 2026-08-29	主導血腥屠殺 「波士尼亞屠夫」病逝	https://www.cna.com.tw/video/news/4356163	自然離世	B
 2026-08-29	一个月三次预谋杀妻！反复埋伏、伪造意外死亡仅判死缓！舆论哗然	https://m.sohu.com/a/1068955212_581294?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	離世	B
 2026-08-29	《超偶》童星病逝得年29歲 好友發聲澄清真正死因	https://ent.ltn.com.tw/news/breakingnews/5556223	自然離世	B
@@ -368,7 +367,6 @@ var DATA_DEPARTURE = `
 2026-08-20	徐懷鈺遭弟爆離家12年 失智母親病逝後要求分身家	https://hk.on.cc/hk/bkn/cnt/entertainment/20260820/bkn-20260820190135688-0820_00862_001.html	自然離世	B
 2026-08-20	希丹彭妮蒂亞英年早逝 被爆明日生日原定與女兒慶祝	https://hk.on.cc/hk/bkn/cnt/entertainment/20260820/bkn-20260820130153754-0820_00862_001.html	未分類	B
 2026-08-19	徐懷鈺驚爆離家12年 遭控回頭爭病逝母家產｜TVBS新聞 @TVBSNEWS01 │ TVBS新聞網	https://news.tvbs.com.tw/videos/1Km60A0Ujxw	自然離世	B
-2026-08-19	《Heroes》女星Hayden Panettiere離世丨傳涉家暴前男友案發時在場 希丹私生活內幕曝光	https://www.stheadline.com/film-drama/3605989/Heroes女星Hayden-Panettiere離世丨傳涉家暴前男友案發時在場-希丹私生活內幕曝光	自然離世	B
 2026-08-19	36歲美國女星猝然離世，好萊塢童星流水線又一件“犧牲品”	https://www.chinesepress.com/2026/196595.html	自然離世	B
 2026-08-18	麻州女作家涉家中警員死亡案遭通緝，曾著書讚揚警察	https://www.singtaousa.com/2026/08/18/news/usa/woman-who-wrote-book-praising-police-officers-is-wanted-after-cop-died-in-her-home/	自然離世	A
 2026-08-18	陳盈潔病逝「人生最大遺憾」曝！ 晚年留債務律師揭「1關鍵」債權人恐追不回	https://news.tvbs.com.tw/entertainment/variety/4008918	自然離世	B
@@ -1448,7 +1446,6 @@ var DATA_DEPARTURE = `
 2025-08-27	珍惜生命︱16歲少年與ChatGPT討論後輕生 父母怒告OpenAI提供自殺方式	https://www.singtao.ca/7252765/2025-08-27/news-珍惜生命︱16歲少年與chatgpt討論後輕生++父母怒告openai提供自殺方式/	離世	A
 2025-08-27	快訊／南橫五口墜谷2死3失聯！僅尋獲爸爸、 長女檢開出死亡證明		自然離世	A
 2025-08-27	兩拳手月初死亡 日本拳壇隨時解體	https://www.msn.com/zh-tw/entertainment/news/%E5%8F%B0%E8%AA%9E%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%87%BA%E4%BA%8B%E4%BA%86-%E7%AA%81%E5%91%BC%E5%90%B8%E5%9B%B0%E9%9B%A3%E6%9A%88%E5%80%92-%E5%87%BA%E5%8B%95%E6%95%91%E8%AD%B7%E8%BB%8A-%E6%90%B6%E5%91%BD-%E9%97%9C%E9%8D%B5%E7%97%85%E5%9B%A0%E6%9B%9D/ar-AA1IenvE?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	自然離世	B
-2025-08-27	ChatGPT遭控鼓勵輕生 美16歲少年父母提告OpenAI	https://news.pts.org.tw/article/767707	離世	A
 2025-08-27	ChatGPT教16歲兒輕生 父母怒告OpenAI過失致死 ｜梅花新聞網 邱啟霖/綜合報導｜ 梅花新聞網	https://www.i-meihua.com/Article/Detail/33104	離世	A
 2025-08-26	白石角海濱長廊海面女子漂浮 送院死亡	https://www.stheadline.com/breaking-news/3493523/%E7%99%BD%E7%9F%B3%E8%A7%92%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A%E6%B5%B7%E9%9D%A2%E5%A5%B3%E5%AD%90%E6%BC%82%E6%B5%AE-%E9%80%81%E9%99%A2%E6%AD%BB%E4%BA%A1	自然離世	A
 2025-08-26	上周才見面！王思佳化妝師好友離世 心碎曝2人最後互動	https://ctinews.com/news/items/6BalEbEAxQ	自然離世	B
