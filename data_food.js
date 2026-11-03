@@ -1,4 +1,4 @@
-// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 156 條
+// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 164 條
 var DATA_FOOD = `
 2026-10-30	檢方破獲700萬糧食券詐騙案 涉盜刷8人獲訴	https://news.google.com/rss/articles/CBMieEFVX3lxTE5sR2dsVU14aWJRWjA1eGoxV1FTUDlVb3lfbktpV0Nla3BabldqTFo2anM2VDZ0MDZTZ01IWW1qVjNHWnRHRVAyRXJNQzZHWU11amNVLWthbm5RSENwQm55cm9GaVg5OHZJYkxEeWRSZUM5VEdSQVp0Ng?oc=5	其他糧食	-
 2026-10-29	美國出口禁令，對亞太地區企業產生了哪些正面影響？	https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkFPelVDaXpvX3Jsdlk1LUc0V21VemN5b3lZcHRRZ2FManVrNmJvdmtFSFA3bkFMN21JdE1Ock1JX3VmcnlWWE5nMFdyM3dhQWJpb2cyczFIXzNJZGFUWWRrZEN5MFZwb1ZVODFkTms0V2pMa2dBYVZCQi02ZG1GeVNNMTJueFR5a0FHNGNUaUVLQlpUcDFXMG5B?oc=5	糧食	-
@@ -8,6 +8,7 @@ var DATA_FOOD = `
 2026-10-20	阿富汗糧食危機惡化 聯合國估4月前逾1900萬人面臨急性缺糧	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnMTdxQnlXT0ZHdHRhZF9Gcmc2eUoxUzF3N0ZkZnFmNFYzTkw1ZFEwdlhMZGJIRTBVcjdHTm5aWFlZaFhjcnE4ay1COVNkNnJmNmxzc1FpdmNyLTQ0ZE83dA?oc=5	糧食	A
 2026-10-20	聯合國示警阿富汗糧食危機：明年4月前恐達1920萬人面臨嚴重飢餓	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjdTVsbTFBZE0yUHJrSFVoV0JKcTItSVpVd2FScHJpT05wSnVrVDFwRUZfTWl3MGVuMHA4MUxia2ZKWGZhNGZBUXFidzhOaXBFTjNYY01qYW43NHlkWU1Ycg?oc=5	糧食	A
 2026-10-17	菲律賓世界糧食日面臨飢餓挑戰 慶祝背後是糧食危機 - 商傳媒	https://news.google.com/rss/articles/CBMirgJBVV95cUxPSUl3SE5JYkxsZWd1Z1ZVVlpMdGVXQTU3V3VKLWFpQUN4bG85d19IQTk4ZTQxYlJZZTIwZE0tZHVISTF6bWFvMm81akdHNlNyWHhTM2pUXzZRSk1kLVJ4azRNbk42Rk50QVBZNHNxRjhWRUktam1tb0lKMFFxSEpUMzh4M0RnQ0x2bmxoVFFsVjJGd1JhTzF0TzJ5S2lRdFlHRWRlU2JmWC04ZldHOFJzTGh1dVpSSGQ5bVBkNUpRMnBMMHB0T2VUWF9Xa0YwdlVJWElYU3lDX05OYUtoWXdwYVE2UU1Vd2R3UWNmSDFlc1k5bUtiR2R4WUMtMVREZ1dPby1tR0RVLTdiYnVEeC1wS2ZsYzFQWWVXek44UjhQYjZJZHB4SEEtUEJ1VlhkZw?oc=5	其他糧食	B
+2026-10-15	荷姆茲海峽化肥運輸受阻 聯合國警告亞洲非洲恐爆糧食危機	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sWndJZmhnS1ozelFOUE53SFd3LTI4aTJVWUVic2VnUXRCWXdEWi1sOTBuN2RabVV1N1lucXVkOENFSlhiWDhpVm5GMWJvaGJYQlpGUWpUdEkxdmJjWXhwQnB2eFdEQdIBa0FVX3lxTE9GdGNfN09nUDk2QndySXMxVVc3V2dxNmdzM01kck1ZSTB1ckRWdko3QTdYR2RTVm9Jc0lnUEdTNF92SzBwNm1MZTI2Qy1Wa2hmRmJvanNIU3Q4M0o2S0FaR0Q0OURuNFNJcllr?oc=5	糧荒短缺	A
 2026-10-15	聯合國力推荷姆茲化肥運輸協議示警糧食危機- 新聞	https://news.google.com/rss/articles/CBMikgFBVV95cUxNREdlRjZfUzJFbVRFU2xIUlgySnBwOXdqQ3VrZ0dtOFhySHRUSUdBdUJ6RGNsdHUtZ2Z5cW03X0c0QW9Qc0FOdW1UYmJDcHhtRUlGQ1NyUWpwVU5JZXIwTFEwUGh5U2EtZTdaaUg2NTFvTDhOMVAwM1ZEY3E0N3BQQW9wdUFyMkRkUWVScDIxSzFlQQ?oc=5	糧荒短缺	A
 2026-10-14	聯合國：數周內若無法重啟荷莫茲化肥運輸亞非恐現糧食危機| 全球財經| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FbmRvUTZMaXI5ZUUwOGtSWTVCZDg2VjQyODVIR1c2bHJfYUpmWU5ybklfaHVNRFZrUEY0NUgzQjhMMV9ZdV91WXV5M3FYYmVE?oc=5	糧荒短缺	A
 2026-10-14	聯合國警告:若數周內無法重啟霍峽化肥運輸 亞非恐現糧食危機	https://news.google.com/rss/articles/CBMiqANBVV95cUxNT25qTGVYTlI2YXk2YzF2NFNtNVFzNHdHMUhkZ0N0TXpBOHBuUUJvbFR2YUQ1MUEzNk9RUUVBeTl5TkQ2MGE3ZVktZ0R3aXdYaEFPc1R1Wld1eDJiTVR2ZXlQemR1OC1CbUFjcG9JUC05RnNqdkpsOFpXX1NtTDlULVNfTXlubmNqcENINHRpLVUyNFBmTXNSSjU2VU9Fb3ZoYV9fc2dfdHlfeGlwSXBhRHBTZEp4bDU0Y01PbGF1cmxrcVY5cVdxUEpvbkwtVmNtcXh4V2dxa0E4cFROdk9rV1dFU1NyZ0pQeDJvMVMyT2Y2R0hVbXVlTlNtWXBocVRvU1diMng2c0hkN2NtNEhyR05xVkpObjQ2ZTVSSTg4MFEtRDE2dGVqUEFaVlFlYXJ1elZMMmhXWXFYVm9yeTVFcnRjVEdfNzF3YlJSVjZtSmlRVmdaZ0tVdktlVWVScUpGN1dDVkZoSU1SemljMzNmNzJwQ1otWWVmYmFFN1l6ajNjMGxsTzc3b0hMVEdZV1pnY2tWdzlFSFZYQkM1OWhPZ3R0QU1sS3JU?oc=5	糧荒短缺	A
@@ -25,6 +26,7 @@ var DATA_FOOD = `
 2026-09-29	俄羅斯海運糧食出口2026年7月大跌20% 作者 Investing.com	https://hk.investing.com/news/economy-news/article-93CH-1608062	其他糧食	B
 2026-09-29	俄羅斯在烏克蘭襲擊損毀港口後重新調整糧食出口路線 作者 Investing.com	https://hk.investing.com/news/commodities-news/article-93CH-1605644	糧食	B
 2026-09-29	三重威脅夾擊全球糧食供應鏈 黑海中斷、歐陸乾旱推升穀物價格	https://sunmedia.tw/news/finance/1787873550-三重威脅夾擊全球糧食供應鏈 黑海中斷、歐陸乾旱推升穀物價格	物價暴漲	A
+2026-09-29	​聯合國糧農組織：霍爾木茲海峽持續受阻或致全球糧食價格危機	https://www.houkongdailynews.com/instantNews/150469	其他糧食	A
 2026-09-28	烏南遭俄占領城鎮淪「人間煉獄」傳糧食已耗盡	https://www.ntdtv.com/b5/2026/09/28/a104136919.html	其他糧食	B
 2026-09-22	葉門戰亂升溫恐爆飢荒 世界糧食計劃署緊急擴大援助	https://www.ftvnews.com.tw/news/detail/2026922W0026	歉收饑荒	A
 2026-09-21	黑海成為「另一個霍爾木茲」 全球糧食供應拉響警報	https://hk.finance.yahoo.com/news/黑海成為-另-個霍爾木茲-全球糧食供應拉響警報-095009917.html	其他糧食	A
@@ -84,6 +86,8 @@ var DATA_FOOD = `
 2026-06-18	全球援助資金緊縮 報告：逾3億人陷糧食不安全危機	https://turnnewsapp.com/livenews/life/20260618002971-260405	其他糧食	B
 2026-06-01	加拿大貧窮評級微升至D+ 四分之一人口面臨糧食不安全	https://www.singtao.ca/7521635/2026-06-01/news-加拿大貧窮評級微升至D+ 四分之一人口面臨糧食不安全/	其他糧食	B
 2026-05-27	糧食危機| 雪旱來襲！理大研究揭暖冬衝擊全球冬小麥產量威脅全球糧食安全- 教育科研	https://www.wenweipo.com/a/202605/27/AP6a16bb99e4b0b49ad1bcf9d5.html	其他糧食	B
+2026-05-22	霍爾木茲海峽持續受阻或致全球糧食價格危機	https://m.china.com/news/13001813/20260522/49507780.html	其他糧食	A
+2026-05-22	聯合國：霍爾木茲海峽中斷將導致全球糧價危機	https://www.ntdtv.com/b5/2026/05/21/a104098661.html/amp	價格暴漲通脹	A
 2026-05-21	聯合國：霍爾木茲海峽被封 或在6至12月內引發全球糧食危機	https://www.hk01.com/即時國際/60352126/聯合國-霍爾木茲海峽被封-或在6至12月內引發全球糧食危機	糧荒短缺	A
 2026-05-20	霍爾木茲海峽遭封鎖！聯合國警告：全球糧食危機恐在一年內爆發	https://www.4gtv.tv/article/2026052009000025?utm_source=popin	糧荒短缺	A
 2026-05-07	以色列蓄意限制糧食與援助 加沙營養不良危機升至驚人水平	https://www.hk01.com/世界專題/60347648/以色列蓄意限制糧食與援助-加沙營養不良危機升至驚人水平	糧食	A
@@ -116,6 +120,7 @@ var DATA_FOOD = `
 2025-05-23	全球近3億人面臨糧食危機 聯合國籲全球行動終結飢餓	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wNjhfT2NjQXp2aG9nTEx1c2haeTNDVFkwSHI0NUJIb1VEM2I0UTUwTC1PLXd6ZFJta25PeVVJN2FPM25mcGR4N2Z1QUdXbzQ?oc=5	糧荒短缺	A
 2025-03-31	AI出口禁令最大受害者，艾司摩爾執行長：歐洲不應被他人指使	https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5ZkhsOHhaUVBzN2FYaHRqdGZmVUdYNFRSNE0wQzU2aUJIMVdIUTYtRU1fV2lBYUdmTGUyMUI4b3VkSmFySTlSVVUyTkN1QQ?oc=5	糧食	-
 2024-10-16	非洲南部糧食危機嚴重 農糧署出口白米助18個國家地區	https://news.google.com/rss/articles/CBMiT0FVX3lxTFByRmZ1UmVwMmYtcWplNmowSnhoSlh0ZTNnMXpOTlNHSkw5blhmRU1FbVRoTHFCOUMxWDNBUWhiZVZkeUpYSUR3bUVHdjhRVjA?oc=5	糧荒短缺	A
+2024-06-19	糧食價格為何上漲？(一) ──淺論國際糧荒與糧價上漲	https://news.google.com/rss/articles/CBMib0FVX3lxTE1sSEpwc0JsbzlqenI2TWtzejBSc2tfTW5KWG9aamNwM1NKbzc0Vm9CZWMwXzJMbGVCZDRxY2VfZFdwT0Rnb2RLNUxZMkgtZmtDREJzVi1RbGEzZzY5OHlXSXZQS0trbXFSM1JRTFBDTQ?oc=5	歉收饑荒	-
 2024-01-23	出口禁令下的紅線交易──揭開MIT工具機流入俄羅斯軍工業隱蹤	https://news.google.com/rss/articles/CBMiekFVX3lxTFBIOHExcW9VaGh3VU5NaC1UdFpPaG1SVkExRGpNV1NGYUNzWGFvSkN4eUhCMll0TEtIaFNvUFhpUllHamxaZmpXTkdEZjNha0hTcjlnVF9INFJnRWFHWHNCdlhycVdKdG9yVFAtQ3lSdjBRa2d6UEtNWXdR?oc=5	糧食	-
 2023-12-03	中國石墨出口禁令生效 日韓車企傷腦筋	https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UbnNPckJGLXk4cHhQaVRqeF84UHVEdlhVZE8xSFFXb2MxcElQdnhqN3k4T0xob2M0UFpvRnFZdURQaUZpamowM3NhZmRSNkhvc1VHcVhmTlNIaHhOWEVZ0gFkQVVfeXFMTVlFRTNOMHZyaExGeDN5RXZTdVVpY2VmUHpIdU5mZnBpN0dXNVBRZjU2MVNCQWp4MG1vX3cwZmdidXdoVHZ1MEI2UVloT2Z2LUJ4d3NKMkppQ3ZqRUlteGNCdF9ROA?oc=5	糧食	-
 2023-02-26	英國糧食價格升+蔬果缺貨 部長籲民眾「加班賺錢」捱批	https://www.hk01.com/article/871425?utm_source=01articlecopy&utm_medium=referral	其他糧食	A
@@ -140,6 +145,7 @@ var DATA_FOOD = `
 2022-09-08	旱災惡化全球糧價急升 聯國警告索馬里面臨饑荒 Hunger	https://hd.stheadline.com/news/daily/wo/998623/%E6%97%A5%E5%A0%B1-%E5%9C%8B%E9%9A%9B-%E6%97%B1%E7%81%BD%E6%83%A1%E5%8C%96%E5%85%A8%E7%90%83%E7%B3%A7%E5%83%B9%E6%80%A5%E5%8D%87-%E8%81%AF%E5%9C%8B%E8%AD%A6%E5%91%8A%E7%B4%A2%E9%A6%AC%E9%87%8C%E9%9D%A2%E8%87%A8%E9%A5%91%E8%8D%92	歉收饑荒	A
 2022-09-03	斯里蘭卡糧食危機 Hunger	https://tw.news.yahoo.com/%E6%96%AF%E9%87%8C%E8%98%AD%E5%8D%A1%E7%B3%A7%E9%A3%9F%E5%8D%B1%E6%A9%9F-201000984.html	糧荒短缺	A
 2022-09-02	全球糧食危機 挨餓女性比男性多出1.5億人	https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLREtUOVBfYXNNMXRidEpMNFdnMzVhRmc3LVRWTk1YcVlFYkRZWV9scmtuWUFwd3VrZ2FEUDgtQXVMUQ?oc=5	糧荒短缺	B
+2022-09-01	糧食危機的救星！多年生穀物Kernza有多「綠」？	https://news.google.com/rss/articles/CBMiTEFVX3lxTE51ZXhsLV92eV94Z3VQZnRFVU45dmRHLVNSNVRZcEFkdVhISTNZLXc3eXBRbHFkZ2xuZkE2d1llQjY1NTNrMkk0b0tUbEo?oc=5	糧荒短缺	-
 2022-08-31	金正恩糧食自主夢碎…「低調向國際求米吃」 外媒曝：北韓人民快餓死！ Hunger	https://www.ctwant.com/article/204475	其他糧食	B
 2022-08-22	中國年度糧食75%收成告急 缺水加劇農業危機 Hunger	https://www.ntdtv.com/b5/2022/08/22/a103508302.html	其他糧食	B
 2022-08-21	古特雷斯：俄糧須進入市場 否則2023年爆發糧食危機 Hunger	https://www.hk01.com/sns/article/806139	糧荒短缺	A
@@ -148,6 +154,7 @@ var DATA_FOOD = `
 2022-07-25	北韓又見糧食危機！被爆接連餓死人	https://autos.yahoo.com.tw/news/北韓又見糧食危機-被爆接連餓死人-070411976.html	糧荒短缺	B
 2022-05-26	糧食危機：肥料價格飆漲下泰國米農艱難度日	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpUFhxWHhSTGR2Ym5fZ0hTUjlLckxIcTN1WV9MS05jZ0p2cDZQXzE3MG5xNnF2QlI1VjFlODlCbWRaSmVGa0NNOWJ6b05WX09mbUFfdkZZTlc5VmJLVEUycdIBZkFVX3lxTFB1aFRZSmZRUFkwazVvY0NGMUM4VlFxSTRBYWp1WnVER2ZWUUFhWVp1emgzbnpNQzkyVFM3ZEo1STdsVnZ2c1kxWGUtaU9aZnhHakZ0MmhHUnJ2MndFZFdESGRJdm9WZw?oc=5	糧荒短缺	B
 2022-05-10	印尼對所有棕櫚油產品實施出口禁令| 香港貿易發展局經貿研究	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DYWZZbmpjUVREaEQ0a3Zmdm5kcklHaFo3TG5ieExSTEYzNnZDTXJjc2w4RGpkYWtTY1M3bDlHOEtjYW5NWkFub0MwM1lRekFNaFQzWkktYk5jcnVqQlh5V3RB?oc=5	糧食	-
+2022-03-10	寶島特有種台灣油芒 糧食危機下的永續農業未來	https://news.google.com/rss/articles/CBMiqwNBVV95cUxQaENsd2tYNG9LMThDQkdBNGFiTzdfckNJS1BBZmFQZmJ0SVpNQkhtMGxTVDlpTExPWDdxVm9BeWg2OHh4MlJsbENjb2NzUGtrTEFUNnNLNVVFWWkwRTMwY3k5QzdFOTRxM0JiN1lzQ0tOWUNxWTlpRlFzcUFmM3dPOXExTmNrMnVkTE1RcUo3c095QTd4NEhPbzl1aV95cVU5S05BdHVyejQ0NTIxSGpzQ1Z5XzdzOHhxemxac0dKUkRwZl9YcWhMMEFWY1VvWHFyVHBMRVNfQnhrVVlYVktuWWRweVU2S3FXejlyeElHQlBOUGdYdDR0NjNSUVJIRzBrTUFValB5V21VVjU0YVNwV29nSXI2QXdJczBMMUVYVW5TS3RCbkhiR1QyLTA5OWVkR19wbWZLd3FNSnhaZ1JNakpzSjIzdUQxWWg2UTJHYWk0YThabE9ENVdBMEtMamR6emJEby1HR0wzMEl1YmdTRl92elktZWdjbVJyel9pUF9SMUtHQU9jbXRPRkdoQU5UY0wwVEc5NHJLMEgycmVoakNBUWIyc1FrU2VZ?oc=5	糧荒短缺	-
 2022-02-10	一片80元雞排背後 糧價新風暴	https://tw.news.yahoo.com/%E7%89%8780%E5%85%83%E9%9B%9E%E6%8E%92%E8%83%8C%E5%BE%8C-%E7%B3%A7%E5%83%B9%E6%96%B0%E9%A2%A8%E6%9A%B4-082330840.html	價格暴漲通脹	B
 2020-08-14	習近平頭很大！中國糧食危機才剛浮現…雲南又慘遭蝗蟲過境	https://www.setn.com/news/796969	糧荒短缺	B
 2020-08-13	中國糧食危機！官方曝今夏小麥減千萬噸 習近平急下令節約	https://www.setn.com/news/796226	糧荒短缺	B
@@ -156,4 +163,5 @@ var DATA_FOOD = `
 2020-02-28	中南海拉警報！蝗蟲大軍侵全球 一天吃掉3.5萬人份糧食	https://www.setn.com/news/698156	其他糧食	B
 2018-10-30	芯片製造商福建晉華遭遇美國技術出口禁令	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uYXpLQ25qZkFUbDN3WS0zbll2WmJrRU9tY25ldks1Y0NLSjh6eGF2WDdZX0dZX3IxQ0NXUEVDbmp5ZndwYllRbXNQWnhEOU1HcVVmMklJMENWdjJYUGF5X9IBZkFVX3lxTFAtR3ljbE5neFBvc3pmNXd6cklJZVBBVzVWTk9mQUF0cmFXUlp1cnFIeTRWOEVpRHdiN1NkRWg3NTBxSDVYdXBxc250Xy14UjZDeW55VnRRWUQ5eGoySGRXMU5VTXFZQQ?oc=5	糧食	-
 2016-04-16	熊本強震／領2飯糰排隊2小時當地台僑：糧食開始短缺| 國際	https://www.setn.com/news/138797	糧荒短缺	B
+2014-07-26	聯合國就南蘇丹糧食危機發出警告	https://news.google.com/rss/articles/CBMie0FVX3lxTE9vbkw0b1dDSHVLMlRMRVlfcmxPWTFnV2lNTXFxRnZqLURtUDFIUWFVbS1ScDBudF9LcGpTZTJZY0ZIMmkyWHNqcWZTX2taNEFMRTFLbGFEYXJzOEVTcUJWUGVqcUNaUllXNHdTYnU3SnRzUlFFZUFhR3hNdw?oc=5	糧荒短缺	-
 `;

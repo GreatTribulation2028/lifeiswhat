@@ -1,5 +1,7 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 551 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 558 條
 var DATA_TECH = `
+2026-11-03	烏克蘭警報App遭駭客攻擊 收到核威脅假消息	https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZjFGOWkzZnFwQnVDRDNxOGFuMlN3Z1BZRnZLODlxZG85R2syOTZnY25pbkVnWkhpdV9uNUZKYklxaDN1MktBNm5CdWdhcE50M3BwYjQ1RXBUaktXVkpEa3U3XzhTX0FUNXdmRGFzNzB4NlRVaGdxVm5JM2dlZjFpNlNUZ3BfUkNRak1jdDdhWEpXclZFY2NqVzgzTWxoSGR4ZEhEemhtbzRiaFNzQUU2dEduSENnbmg5MjJDT3FmWHptY1ZybEZTU1FSTzJ4LTE5X3lneVlfUGpnal81Zi0xYmdNOTBOeU15dG40QkNOY1N5WHZBNW5Mb3Badkh6eXhOdXE1WS1ud1dhVk5LcFo0R2otLVRQblh5TTc2ZmFxWTZkeXRGTDRpTnR1VXNaTG4zSHhkdWdTMjMxZlk?oc=5	駭客網攻	-
+2026-11-03	扯！烏克蘭警報App 被駭狂發「假核彈警告」，俄羅斯 3 小時後也淪陷| 動區動趨-最具影響力的區塊鏈新聞媒體	https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDY2d3Z4WnJaRmU2U3Bpa1B1RmtVazRwMGVCNkNJblRQNTNIb2NWN3Y3a18tLVhpRF9ucWNqV1ZiTFpPeEhPaUVBN0hva3hlMjRHcllmeGxxeU1paGJ1eHhWWG9CNWw4MlczRElLVGpDNGJnZmIzUlFUMy1ERjZfSU5pOUYtb2xKbzR4X1RGUzFCUmJHTVNhOFN3?oc=5	第四次工業革命	-
 2026-11-02	駭客高溫癱瘓法國超市冰箱 五角大廈憂美軍設施資安陷危機	https://news.google.com/rss/articles/CBMilwNBVV95cUxOSl9MOHZqX25qNG1Fa09yTmlRWkcxd1VHWHpQUXhRdk12aGg4dkhOQ0ZWVFJzWnQySjJEUWcxTDFyR3RjamJoa0hkR0hCUWlfOFdDeWszaGp3bHpzaWNiNnVuTFFxakFFV0FPbU9iWWxvWWZXQ0g5cVNtZDJhQnpqRDYzdXd4RDVQQ1BJNjBMMS1RaXdsMkNrc2pRN1Qwa2tOVEpObTkzcFhCZXAtbUlKeEZucGluZDZ2OWRrdDZCT1JDWDREVkJsaDZWN294bHRvOGIzUEhVVkk4eld2Zk5JdldIUk0zemQwWjI0c2hOSXJwdzVxMDRGcG5aclN4NVFPZm1qazN3b0lRemJ2S25SRlJjTVBSQ2UwMmRzaUhjcnpMb1d3Z1g1eFZ4M0VadENxcHBYU1JNNTREdkpKX1VDcTZyQzdtQklfN2EzWi1zbktQVHQtZmRSaXhDRDdtdDBBbHBYb2RDdjRQNFEtY1J6dXpZTHhhQ041Zk5OWk1zb3FWNWd2UWl0VFJ2TDcyaExUWHNuVFBiUQ?oc=5	駭客網攻	-
 2026-11-02	突發：邁威爾1150億美元收購Lumentum重燃AI半導體熱潮	https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjJ1cWU0dXlta3JfdjAteVoydDhoLTRlaTgyRWtWc3kzVHVLQkVwTVE1dHJoVTBxOFBzWURUNEIxbVNseFNUREVPVW5HZTJsaExTX2FLdjdEOEZpVFhXTURPUkdib0hJa3JFd191U3d0bC1PZ1B4ejVHVlFpUW1QcDNxNENvR2M4VzZ6dnBBbnlNaU9TS2tNaFJUNDI0Mm1EZ1dfQ3YyckR5ZnIwZm04Yl9aUm1hdjFlaHp4SA?oc=5	未分類	-
 2026-11-02	突發：比特幣恐慌與貪婪指數自八月以來首次跌至「恐慌」區間，緊隨$63億幣安黑客事件之後👀 別人恐懼我貪婪	https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFRzdTA5Z0xJZlBjY3BfYVdoUldlQUdsc0U1RWhzYTdIaUFzSWQzMENlSEVNTXc5RThoeE9UV3pSdlNna2hzcUJUNWhpNW5zd3JqcVRVZEl6TmJhRnBTUndEWENKZWdCeHljOEN2dnZYMEhYdlZNX0RJd0VONUNYLXRFaG5fQVdkNjNOTDJnaUE4UEFGR1pYb256dXc3U1I4bXZwR3Iwc25TNFhLbGc?oc=5	駭客網攻	-
@@ -129,6 +131,7 @@ var DATA_TECH = `
 2026-09-29	中科院採購網疑遭「外部暴力破解」！數發部初查說法對撞「AI越權」 國防資安漏洞究竟怎麼回事？	https://www.fountmedia.io/article/420935	其他資安	A
 2026-09-29	中國駭客利用DeepSeek與Hermes從事AI自主攻擊，鎖定存在已知弱點的應用程式伺服器	https://www.ithome.com.tw/news/177825	駭客網攻	A
 2026-09-29	中國駭客利用AI框架攻擊臺灣政府，4天內竊得逾2,500筆人員資料	https://www.ithome.com.tw/news/178112	駭客網攻	A
+2026-09-29	中國駭客借助DeepSeek AI大幅提升網路攻擊能力 作者 Investing.com	https://hk.investing.com/news/stock-market-news/article-1624151	駭客網攻	B
 2026-09-29	中國駭客UAT-10147鎖定易受攻擊伺服器，透過AI打造的工具從事攻擊	https://www.ithome.com.tw/news/178368	駭客網攻	A
 2026-09-29	【資安日報】8月18日，中國駭客號稱能存取警方900支視訊攝影機	https://www.ithome.com.tw/news/178238	駭客網攻	B
 2026-09-29	【資安日報】7月3日，駭客利用Azure CLI發動大規模密碼噴灑攻擊	https://www.ithome.com.tw/news/177072	駭客網攻	B
@@ -136,6 +139,7 @@ var DATA_TECH = `
 2026-09-29	【AI淪駭客幫兇，企業正淪陷中】 今年5月12日深夜，鴻海緊急 ...	https://www.instagram.com/p/Da_7OdxCsCq/	駭客網攻	B
 2026-09-29	Teams爆資安漏洞！假冒IT騙密碼手法曝光，微軟緊急補洞	https://www.juksy.com/article/150315	其他資安	A
 2026-09-29	Rapid7揭露ASTERIX攻擊活動，駭客透過語音網釣結合假錢包竊取加密貨幣	https://www.ithome.com.tw/news/178663	駭客網攻	B
+2026-09-29	Python資料分析工具Marimo重大漏洞持續成攻擊目標，駭客透過AI代理滲透內部資料庫	https://www.ithome.com.tw/news/176283	駭客網攻	A
 2026-09-29	Oracle 裁减 13% 员工，并首次在SEC 文件中确认AI 已导致岗位减少- OSCHINA - 开源 × AI · 开发者生态社区	https://www.oschina.net/news/465761	未分類	A
 2026-09-29	OpenAI模型失控自主發動網絡攻擊中國AI工具化解危機	https://www.discuss.com.hk/archiver/?tid-32273610.html	駭客網攻	B
 2026-09-29	OpenAI披露，由失控ChatGPT代理發動的網絡攻擊，影響 ...	https://www.facebook.com/bbcnewstrad/posts/openai披露由失控chatgpt代理發動的網絡攻擊影響範圍不止一家公司這個失控的ai在網上找到四組登入憑證令它能夠存取四個獨立未具名的服務/1533523925468876/	駭客網攻	B
@@ -267,6 +271,7 @@ var DATA_TECH = `
 2026-08-13	Uber Freight 遭駭客組織鎖定，Helix 聲稱竊取郵件與財務文件	https://www.inside.com.tw/article/42077-uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach	駭客網攻	B
 2026-08-12	疑似中國駭客發動首樁AI自主網攻 入侵台灣政府網站	https://www.worldjournal.com/wj/story/121220/9686846?from=wj_maintab_cate	駭客網攻	A
 2026-08-12	澳洲首宗AI自主駭客事件：人工智能助手入侵健身房系統引發法律責任爭議	https://www.singtaousa.com/2026/08/12/news/world/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack/	駭客網攻	A
+2026-08-12	浸大疑遭黑客勒索軟件入侵 私隱署沒接外泄通報 已主動聯絡校方	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60379136/%E6%B5%B8%E5%A4%A7%E7%96%91%E9%81%AD%E9%BB%91%E5%AE%A2%E5%8B%92%E7%B4%A2%E8%BB%9F%E4%BB%B6%E5%85%A5%E4%BE%B5-%E7%A7%81%E9%9A%B1%E7%BD%B2%E6%B2%92%E6%8E%A5%E5%A4%96%E6%B3%84%E9%80%9A%E5%A0%B1-%E5%B7%B2%E4%B8%BB%E5%8B%95%E8%81%AF%E7%B5%A1%E6%A0%A1%E6%96%B9	駭客網攻	A
 2026-08-12	台網站疑遭中國駭客攻擊AI網攻為何越發難防	https://www.epochtimes.com/b5/26/8/12/n14828683.htm	駭客網攻	A
 2026-08-11	浸大系統疑遭勒索軟件入侵 黑客組織聲稱已下手 私隱專員未接通報僅了解	https://unwire.hk/2026/08/11/hkbu-ransomware-attack-2026/tech-secure/	駭客網攻	A
 2026-08-11	浸大疑遭勒索軟件組織入侵1877名師生職員資料外洩浸大調查	https://www.hk01.com/社會新聞/60379054/浸大疑遭勒索軟件組織入侵-1877名師生職員資料外洩-浸大調查	駭客網攻	A
@@ -335,6 +340,7 @@ var DATA_TECH = `
 2026-07-23	OpenAI模型「爆走逃脫」！自己上網駭企業 駭客要2周它只用幾小時	https://money.udn.com/money/amp/story/5599/9645825	駭客網攻	A
 2026-07-22	駭客集團承認犯行！日本食品大廠ニチレイ疑遭勒索軟體攻擊	https://n.yam.com/Article/20260722219015	駭客網攻	A
 2026-07-22	首例AI自主駭客攻擊 OpenAI證實自家AI Agent越獄入侵企業系統 | 李靖棠 | 新聞	https://www.storm.mg/article/11150954	駭客網攻	A
+2026-07-22	日本KFC供應商遭網絡攻擊 俄黑客Ransom House認責 (15:16) - 20260722 - 國際	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260722/s00005/1784704997382/%E6%97%A5%E6%9C%ACkfc%E4%BE%9B%E6%87%89%E5%95%86%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E4%BF%84%E9%BB%91%E5%AE%A2ransom-house%E8%AA%8D%E8%B2%AC	駭客網攻	A
 2026-07-22	俄系駭客組織認領對日冷的網路攻擊	https://tchina.kyodonews.net/articles/-/11129	駭客網攻	A
 2026-07-22	《未來戰士》降臨？OpenAI爆新模型自主發動網攻越界駭入 ...	https://www.hk01.com/即時國際/60372534/未來戰士-降臨-openai爆新模型自主發動網攻-越界駭入資料庫	未分類	A
 2026-07-22	Suno 帳號 5530 萬組個資外洩，駭客順手丟出「侵權鐵證」到唱片公司| 動區動趨-最具影響力的區塊鏈新聞媒體	https://www.blocktempo.com/suno-breach-55-million-accounts-leaked-source-code-music-scraping/	資料外洩	A
@@ -443,6 +449,7 @@ var DATA_TECH = `
 2026-04-15	灣區醫路通︱佛山首個腦機接口門診在佛山一院開診	https://www.hkcd.com.hk/hkcdweb/content/2026/04/15/content_8750169.html	未分類	B
 2026-04-15	OpenAI 發佈 GPT‑5.4‑Cyber 模型 專供防禦網絡安全	https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKTWJpNkFXM2RVMzBRS0VBaUJyOWpWUExRT1VwWnF0V21jZFRqUDhHX0REajVXU0tfcVhKR0FfdmppWjExNkcwamc1YXlQVGYwM2xDNlpDZkQ?oc=5	其他資安	A
 2026-04-15	OpenAI 推出 GPT-5.4-Cyber 主打防禦性網絡安全工作反擊 Anthropic Mythos	https://news.google.com/rss/articles/CBMilwFBVV95cUxNakFja253TVp0SXRsWHN3UlN4eEhUd1B0M2NwTEQ2eERka21kODNtRURlSWc4Y1JCa1VUS0VyOWVVdHY4THZVN3VrYnBDTmxEc0tnSlp6ckJGTldyS2pQc0NqVmx6RHdUVkEtSUtzUnNTclVpa0VrdFZVLU1Ra0ZsVGZabGF3RDFKUGpPRkRXVUdPcWw5VmJJ?oc=5	其他資安	A
+2026-04-15	AI丨OpenAI發布GPT-5.4-Cyber 針對網絡安全	https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbVQxQ09MMi0tY1UybzhNNVV4X3g1RUpiYV9yVWIwdEctM1pzMjdrZFhOWlUzdkJmVF9nQk5hZUptLWZmVVdNRjZzU004cGNpWWx5ZFFNcTM1NVp4dUw3SDFLbHl4a2NzWVZOSGlEaWEzYnFZdEg3LWhyZlQycXRfVWttbGhGRmhjYnF2aWJXMEdDUWU3YlV1VjV1RV85WXpJVWZwbUNzNXYybzVGWjIwdnQtbmE5NUVwekFBMzJsUFFib0JPd3EzMG1GeXRWS3BqWHpDZUVzeEhSSFFDSHB4QU9DVXZZanhpLXYw?oc=5	其他資安	A
 2026-04-14	網絡安全｜近六成受害企業MFA形同虛設 黑客無需破解只等員工「自己開門」	https://news.google.com/rss/articles/CBMi4ANBVV95cUxNbERYLWdTWWszSDNZSWtWSTRHamJjOEpRc1hFa2xkMVpSNXZtVEJXM3BHYVktTnhoQVNHNWRnQ1RuUTh2MnBTRVpQbUR4SnhacXUyemFjS0pHUTZpeTM4MGhabC1nY2JLUkVpM1NJZFZ2NjVIYm1MRnMwY08wUEZhOWhKT0dPOHljQVZxRl80Q1JuY3pXNVN2eEtxNTN4NHNTeEVnaXVILVlEVUFocVhyUHh1b283d0hLeGR1SzRndkZURy1HVHA1M1N3cHdWeG5uclV3UFd6Nm5tbkRvNHQ4a0s4cWVzeUhNeUFwR0h6cnRDUmFhU3RuanBSSjNKelhQdG9fbzlFZXF1TGV0YUd5dzFxbU1hSnRGS2lhLUJaS2wwdFczZ2I0aGNzR2FtSTZvSEJ5RmhvSUhDbDVzWlVaZEFSX2x4V2tKczlBSUVBbW5rNDh1M25wb2ctTFhaaHB6b3p1SmQ4TjV6a0R6Ym5sVjhVOXkzcFlfWXNEWHNBR3lVbGYxdEtMZHY5MlBnTTc4cmxISjhmTUY4RTdTMWgwYXpyZVMzdE1HcnJNOXpjcUZxNXZVVnRRVkF0X1R5VlBZTU5BSi1xVWNQSHljY1E1aGdvaWlWakhQVElsSjdWQUQ?oc=5	駭客網攻	B
 2026-04-14	國產「北腦一號」腦機接口首度直播手術在京完成- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTE5XamM1QXh5WXRBRkxqQkNOSzBqdGM0ZWkwRjZ5SEs0aGV6NDcxVEp1enh4UUh6UFk2blBITEpscnQwdnZCYzU5Rzh4QV8zaGNfT2w0ZExXckI4UWlUMzRTWG5jcjBWN0tYMFQ2VThRZjE1aV9KYlk4?oc=5	未分類	A
 2026-04-10	Mercor 面對數據洩露危機，4TB 數據遭駭客竊取	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Vb0FEMEJISVV2Y19iYWJNQ3FHYmMyMDJXN01icDQ3czZEeXJULUNqOGREOHlEU2cwc2RvVDdZbk9fWEZEZW5ybDc5VXpVWXdDRWNYTGstNzA?oc=5	駭客網攻	A
