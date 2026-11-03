@@ -1,4 +1,4 @@
-// 猝死 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1614 條
+// 猝死 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1605 條
 var DATA_SUDDEN = `
 2026-11-03	受好友陸續心梗離世衝擊 胡歌隨身帶救心丸	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jU1MyQmxqb1F4c1R0NkNUNmVSMkVqcmQ1MEp6MXlHUkNVY0ZtNFRXZjRSTVU3ZWxSb0VUZ0hmZ1lWZWdOQl9naXU2VlJRQ3ZEYkJLTGk0djJwMWVMa2MyddIBZkFVX3lxTE1YRm9aUnJ1ZlUyMk1wS2pKSUZlSG1CbDhic2dIeW9vMWN2Uk8xYWk2MmFLRFlibk1RWmJqb28wVXFxRk5kMWNfWGVWN1Q0bDV4Tm9RQnZMamVSak1UQU02a1dLMGlLZw?oc=5	心臟病發	-
 2026-11-02	輝達一位AI天才突然離世，他的妻子受到尖銳指控	https://news.google.com/rss/articles/CBMiwgJBVV95cUxQN28tM051VjVMX1htUzhjWDd0dTZ5ZldVSlRXWl9QQllmSGhlclcyUl9kMklsY19QeTJxTzlneXFHdWNIdGlZMU5fVjlPc3ZlclR1RXRGNmdrdUpKTlpRSHF5c1FoanFZZ2xHcGlfVDNNVnNabjEwTzZjenZpcmJXNlV3Mk5hUXNtbDJjZ0hDRzZjMllENE5uMzk3aDdOWkJzOHVFWE4wRXdaNFA5Y0Z2Y3dSQTYxNFBxLW9pTlVXa01kU2V1Y0plc2tFb0lSOEMxQ2xBZUdMV3g0cHVLY1ZEcktNNzI1ZnZnNVdHQi1tTFFrT0NlcnNUTFY5eVR1RGFaMzNkMnlINzhQOWZlc3h1Sm5qbmNpcHRHNXBQUjBtWGtxTkdqTHlsT3dCZTE1c1o2V2xiLXY4bVpuQ05US1B5YXRB?oc=5	自然離世	-
@@ -935,7 +935,6 @@ var DATA_SUDDEN = `
 2025-09-14	屯门小坑村壮汉猝死 原因有待调查	https://hk.on.cc/hk/bkn/cnt/news/20250914/bkn-20250914121511561-0914_00822_001_cn.html?view=d	心腦猝死	C
 2025-09-12	男子通过“摇一摇”加好友，与女子车内发生关系猝死9天后被发现，女子未打120并拿走手机，法院：判赔13.8万	https://news.sina.cn/2025-09-12/detail-infqfstf7532149.d.html?cre=tianyi&mod=wuc&loc=3&r=0&rfunc=31&tj=cxvertical_wap_wuc&tr=182	心腦猝死	A
 2025-09-12	男子被發現死於出租屋，保險按意外傷害還是猝死理賠？法院這樣判	https://finance.sina.com.cn/jjxw/2025-09-12/doc-infqfhci0791651.shtml	心腦猝死	A
-2025-09-12	崔佩儀母親因病「斷崖式衰老」 遭診斷腦溢血險奪命	https://ent.ltn.com.tw/news/breakingnews/5175635	未分類	-
 2025-09-12	失常男发狂殴母 突跌倒猝死	https://guangming.com.my/失常男发狂殴母-突跌倒猝死	心腦猝死	B
 2025-09-12	基隆7旬翁卡拉OK店狂飲 醉倒沙發猝死	https://sunmedia.tw/news/collaborative/wvdCXiJith4rq778xwJkHzxrdaet6mBoHz2oTkMmWlsB1X4TDsaAZ7NVixfoQlxIVbQkuH	心腦猝死	B
 2025-09-12	70岁老翁卡拉OK喝太嗨醉倒沙发翌日猝死| 国际 | 2025-09-12	https://guangming.com.my/70岁老翁卡拉ok喝太嗨-醉倒沙发翌日猝死	心腦猝死	B

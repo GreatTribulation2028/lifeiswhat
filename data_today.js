@@ -934,7 +934,6 @@ var DATA_TODAY = `
 2025-09-14	屯门小坑村壮汉猝死 原因有待调查	https://hk.on.cc/hk/bkn/cnt/news/20250914/bkn-20250914121511561-0914_00822_001_cn.html?view=d	心腦猝死
 2025-09-12	男子通过“摇一摇”加好友，与女子车内发生关系猝死9天后被发现，女子未打120并拿走手机，法院：判赔13.8万	https://news.sina.cn/2025-09-12/detail-infqfstf7532149.d.html?cre=tianyi&mod=wuc&loc=3&r=0&rfunc=31&tj=cxvertical_wap_wuc&tr=182	心腦猝死
 2025-09-12	男子被發現死於出租屋，保險按意外傷害還是猝死理賠？法院這樣判	https://finance.sina.com.cn/jjxw/2025-09-12/doc-infqfhci0791651.shtml	心腦猝死
-2025-09-12	崔佩儀母親因病「斷崖式衰老」 遭診斷腦溢血險奪命	https://ent.ltn.com.tw/news/breakingnews/5175635	未分類
 2025-09-12	失常男发狂殴母 突跌倒猝死	https://guangming.com.my/失常男发狂殴母-突跌倒猝死	心腦猝死
 2025-09-12	基隆7旬翁卡拉OK店狂飲 醉倒沙發猝死	https://sunmedia.tw/news/collaborative/wvdCXiJith4rq778xwJkHzxrdaet6mBoHz2oTkMmWlsB1X4TDsaAZ7NVixfoQlxIVbQkuH	心腦猝死
 2025-09-12	70岁老翁卡拉OK喝太嗨醉倒沙发翌日猝死| 国际 | 2025-09-12	https://guangming.com.my/70岁老翁卡拉ok喝太嗨-醉倒沙发翌日猝死	心腦猝死
