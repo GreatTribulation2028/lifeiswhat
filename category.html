@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>末世新聞分類</title>
-<meta name="description" content="末世新聞分類頁：19 類災情報告（猝死、離世與自殺、經濟、交通、火警、天災、戰爭等），按日期走勢、事件與地點查閱每一條記錄，並附月度與子清單分佈統計。">
+<meta name="description" content="末世新聞分類頁：20 類災情報告（猝死、離世、自殺、經濟、交通、火警、天災、戰爭等），按日期走勢、事件與地點查閱每一條記錄，並附月度與子清單分佈統計。">
 <style>
 /* ============================================================
    category.html v1.0 — 十一類末世新聞通用模板
@@ -253,7 +253,8 @@ details.stats[open] summary::before{content:"▾ "}
    而家 CATS 直接以資料檔名做 key，舊連結由 ALIAS 轉入。 */
 const CATS={
   sudden:{name:"猝死",full:"猝死記錄",varName:'DATA_SUDDEN',color:"#ff4d6d"},
-  departure:{name:"自殺",full:"自殺與離世記錄",varName:'DATA_DEPARTURE',color:"#ff8fa3"},
+  departure:{name:"離世",full:"離世記錄",varName:'DATA_DEPARTURE',color:"#ff8fa3"},
+  suicide:{name:"自殺",full:"自殺記錄",varName:'DATA_SUICIDE',color:"#c77dff"},
   industry:{name:"意外",full:"工業與日常意外",varName:'DATA_INDUSTRY',color:"#fb8500"},
   traffic:{name:"交通",full:"交通意外",varName:'DATA_TRAFFIC',color:"#ffb703"},
   fire:{name:"火警",full:"火警與火災",varName:'DATA_FIRE',color:"#e63946"},
@@ -293,7 +294,7 @@ ORDER2.forEach(function(k){CAT2GROUP[k]='ALL';});
 /* ================= 狀態 ================= */
 const params=new URLSearchParams(location.search);
 /* 舊版中文系統連結 → 資料檔 key（相容用）*/
-const ALIAS={suicide:'departure',security:'social',accident:'industry',drowning:'tragedy',
+const ALIAS={security:'social',accident:'industry',drowning:'tragedy',
   medical:'plague',economy:'econ',ai_safety:'tech'};
 const _rc=params.get('cat')||'sudden';
 const _rk=ALIAS[_rc]||_rc;
@@ -321,7 +322,7 @@ GROUP_ORDER.forEach(g=>{
   tabs.appendChild(a);
 });
 
-/* 該大分類下嘅 18 類（第二層）*/
+/* 該大分類下嘅 20 類（第二層）*/
 const tabs2=document.getElementById('tabs2');
 if(tabs2){
   ORDER2.filter(k=>CAT2GROUP[k]===gKey).forEach(k=>{
@@ -421,7 +422,13 @@ async function loadAll(){
       }
     });
   }
-  if(C.preset){document.getElementById('q').value=C.preset;}
+  if(C.preset){
+    document.getElementById('q').value=C.preset;
+    /* ★ 2026-11-02 修：preset 唔止填搜索框，仲要即時套用篩選，
+       否則 bigTotal 顯示成個猝死桶（1,539），同 catnav 嘅 4 條對唔上 */
+    var _pt=C.preset.toLowerCase();
+    all=all.filter(function(e){return((e.title||'')+(e.sub||'')).toLowerCase().indexOf(_pt)>=0;});
+  }
   initView();
 }
 function initView(){

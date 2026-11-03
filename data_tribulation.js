@@ -1,4 +1,4 @@
-// 七年大災難 | 由 htnl_build_news_js.py 生成 | 共 27 條
+// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 27 條
 var DATA_TRIBULATION = `
 2026-10-30	Anthropic招股書爆保險黑洞：AI 若現大災難全球無力承保？	https://news.google.com/rss/articles/CBMi8wFBVV95cUxQenB6cUZ5cy01SVRmVmJWRmhKN0ZrY3lFZnRMMVB1REU0cXNUTWFZNW9tRmM1cTl0ZnVtZDBmQ0ZEYldicjFTd2xJd2w4eU1iWW1lMm1SOEJiTUZaY09SNEoybWJYZGQ4bXp1QmI5RHczWmtXQzkzRENsZVJMaGlnTDk0T1lxVXh6ZURvWDdpeWNlMF9PN2JHOTZILUY0ZlZvVU9QTjZ5VHlVaTE0d0ZVMU1wSXJsWlR0Wko0QWJfdVJzRE1QX1NISjhub3hjYTRKSlY0STkzeWpCcFBVX3BMbnBtRktfSC1qNlpMWXg3WkVJUWs?oc=5	大災難進程	-
 2026-03-10	末日預言系列“終極之戰”哈米吉多頓	https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4V19za3NwV3RNMWVyOWUwam53RHo1bGVHVmEwdW5HS29jNGRzRzNKRU1sREhLcExTM3A4S0xQNUktdk1rNURjNWRiMS1KbmUwN3pYTktNdl9ZSEpm?oc=5	末日預兆	B

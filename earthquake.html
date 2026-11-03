@@ -174,7 +174,7 @@ body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:9998;b
 
 <div class="hdr"><div class="hdr-inner">
 <div class="hdr-top"><h1>地震監測</h1><span class="sub">SEISMIC MONITOR · USGS</span></div>
-<div class="upd" id="upd">官方數據 USGS ｜ — 宗 M6.0+ 地震 ｜ — 至今 ｜ 離線版</div>
+<div class="upd" id="upd">官方數據 USGS ｜ — 宗 M6.0+ 地震 ｜ — 至今 ｜ 資料更新 {upd} ｜ 24h 新增 M6+ {newm6} 宗（全部 {new} 條）</div>
 </div></div>
 
 <div class="topbar">
@@ -186,6 +186,9 @@ body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:9998;b
 <button class="fbtn on" data-mag="all" onclick="setMag('all')">全部 M6+</button>
 <button class="fbtn" data-mag="6.5" onclick="setMag('6.5')">M6.5+</button>
 <button class="fbtn" data-mag="7" onclick="setMag('7')">M7.0+</button>
+<button class="fbtn" data-mag="5" onclick="setMag('5')">M5.0+</button>
+<button class="fbtn" data-mag="4.5" onclick="setMag('4.5')">M4.5+</button>
+<button class="fbtn" data-mag="2.5" onclick="setMag('2.5')">M2.5+</button>
 </div>
 <span class="tb-count" id="tbCount">顯示 <b>0</b> / 0 宗</span>
 </div>
@@ -255,7 +258,7 @@ body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:9998;b
 
 <script>
 
-var L = {"lang": "zh-Hant", "title": "地震監測｜全球 M6+ 地震追蹤｜生死記錄儀", "desc": "地震監測頁：追蹤 2023 年至今全球 M6.0 以上地震，數據來自美國地質調查局 USGS 官方實時資料庫，每次更新即刷新時間軸，並連結生死記錄儀嘅災難分類與事件明細。", "h1": "地震監測", "sub": "SEISMIC MONITOR · USGS", "upd": "官方數據 USGS ｜ {n} 宗 M6.0+ 地震 ｜ {from} 至今 ｜ 離線版", "back": "← 生死記錄儀首頁", "tg": "TG 死亡記錄", "filter": "篩選與功能", "allm6": "全部 M6+", "m65": "M6.5+", "m70": "M7.0+", "show": "顯示", "of": "/", "n": "宗", "year": "📅 年份", "allyear": "全部年份", "yr": "年", "depth": "🌊 震源深度", "alldepth": "全部深度", "shallow": "淺層（≤30km）", "mid": "中層（30-300km）", "deep": "深層（≥300km）", "sort": "↕️ 排序", "sortdate": "日期（新→舊）", "sortmag": "震級（高→低）", "search": "🔍 搜尋地點", "ph": "例：Japan / Indonesia", "reset": "↺ 重設全部", "about": "關於本頁：", "about2": "本頁追蹤 <b>2023 年 1 月至今</b>全球 <b>M6.0 以上</b>地震，數據來自 <b>美國地質調查局 USGS</b> 官方實時資料庫。<br>M6 以下地震全球每年發生逾萬次，屬常態活動，一般不致造成人員傷亡；<b>M6.0 以上</b>即可能造成建築損壞與傷亡，<b>M7.0 以上</b>屬大地震級別，<span class=\"hl\">M8.0 以上</span>為特大地震，會引發大規模災害與海嘯。", "about3": "下方統計圖可觀察到 2026 年 M6+ 與 M7+ 事件數同時上升，與 2025 年相比升幅明顯。", "c_total": "M6.0+ 總數", "c_total2": "2023 年至今累計", "c_m6": "M6.0-6.9", "c_m6_2": "一般規模", "c_m7": "M7.0-7.9", "c_m7_2": "大地震", "c_m8": "M8.0+", "c_m8_2": "特大地震", "c_yoy": "M6+ 同比", "c_yoy_2": "較上年變化", "ch1": "📊", "ch1t": "每月 M6+ 地震數量", "ch1s": "柱狀＝每月宗數，橙線＝3 個月移動平均（平滑趨勢）", "ch2": "📈", "ch2t": "2023 年起累計地震數", "ch2s": "逐月累加，反映整體活動量走勢", "ch3": "📅", "ch3t": "年度對比：M6.0-6.9 vs M7.0+", "ch3s": "比較一般規模與大地震逐年變化", "ch4": "🔥", "ch4t": "M7+ 大地震十大國家／地區", "ch4s": "按 M7.0 以上事件發生地統計", "m7alert": "⚠ M7+ 大地震警報", "m7h": "重大地震事件", "m7n": "宗", "tblh": "📋 完整事件列表（點擊事件編號可跳至 USGS 官方頁面）", "th_date": "日期", "th_mag": "震級", "th_depth": "震源深度", "th_place": "發生地點", "th_id": "事件編號", "lbl_mon": "每月 M6+", "lbl_ma": "3個月移動平均", "lbl_cum": "累計", "lbl_m6": "M6.0-6.9", "lbl_m7": "M7.0+", "lbl_m7n": "M7+ 次數", "foot1": "地震監測 ｜ 資料來源：USGS 官方公開資料庫 ｜ 本頁為完全離線單一網頁檔，不需連線即可瀏覽<br>", "foot2": "統計僅反映自然地質活動，不構成任何預測或預言", "locnote": "發生地點（已中文化）", "norec": "冇符合條件嘅記錄", "loading": "載入地震資料中…", "err": "搵唔到 data_eq.js，請確認已上傳到同一資料夾。", "usgs": "USGS 官方頁面", "map": "地圖", "news": "新聞"};
+var L = {"lang": "zh-Hant", "title": "地震監測｜全球 M6+ 地震追蹤｜生死記錄儀", "desc": "地震監測頁：追蹤 2023 年至今全球 M6.0 以上地震，數據來自美國地質調查局 USGS 官方實時資料庫，每次更新即刷新時間軸，並連結生死記錄儀嘅災難分類與事件明細。", "h1": "地震監測", "sub": "SEISMIC MONITOR · USGS", "upd": "官方數據 USGS ｜ {n} 宗 M6.0+ 地震 ｜ {from} 至今 ｜ 資料更新 {upd} ｜ 24h 新增 M6+ {newm6} 宗（全部 {new} 條）", "back": "← 生死記錄儀首頁", "tg": "TG 死亡記錄", "filter": "篩選與功能", "allm6": "全部 M6+", "m65": "M6.5+", "m70": "M7.0+", "m50": "M5.0+", "m45": "M4.5+", "m25": "M2.5+", "show": "顯示", "of": "/", "n": "宗", "year": "📅 年份", "allyear": "全部年份", "yr": "年", "depth": "🌊 震源深度", "alldepth": "全部深度", "shallow": "淺層（≤30km）", "mid": "中層（30-300km）", "deep": "深層（≥300km）", "sort": "↕️ 排序", "sortdate": "日期（新→舊）", "sortmag": "震級（高→低）", "search": "🔍 搜尋地點", "ph": "例：Japan / Indonesia", "reset": "↺ 重設全部", "about": "關於本頁：", "about2": "本頁追蹤 <b>2023 年 1 月至今</b>全球 <b>M6.0 以上</b>地震，數據來自 <b>美國地質調查局 USGS</b> 官方實時資料庫。<br>M6 以下地震全球每年發生逾萬次，屬常態活動，一般不致造成人員傷亡；<b>M6.0 以上</b>即可能造成建築損壞與傷亡，<b>M7.0 以上</b>屬大地震級別，<span class=\"hl\">M8.0 以上</span>為特大地震，會引發大規模災害與海嘯。", "about3": "下方統計圖可觀察到 2026 年 M6+ 與 M7+ 事件數同時上升，與 2025 年相比升幅明顯。", "c_total": "M6.0+ 總數", "c_total2": "2023 年至今累計", "c_m6": "M6.0-6.9", "c_m6_2": "一般規模", "c_m7": "M7.0-7.9", "c_m7_2": "大地震", "c_m8": "M8.0+", "c_m8_2": "特大地震", "c_yoy": "M6+ 同比", "c_yoy_2": "較上年變化", "ch1": "📊", "ch1t": "每月 M6+ 地震數量", "ch1s": "柱狀＝每月宗數，橙線＝3 個月移動平均（平滑趨勢）", "ch2": "📈", "ch2t": "2023 年起累計地震數", "ch2s": "逐月累加，反映整體活動量走勢", "ch3": "📅", "ch3t": "年度對比：M6.0-6.9 vs M7.0+", "ch3s": "比較一般規模與大地震逐年變化", "ch4": "🔥", "ch4t": "M7+ 大地震十大國家／地區", "ch4s": "按 M7.0 以上事件發生地統計", "m7alert": "⚠ M7+ 大地震警報", "m7h": "重大地震事件", "m7n": "宗", "tblh": "📋 完整事件列表（點擊事件編號可跳至 USGS 官方頁面）", "th_date": "日期", "th_mag": "震級", "th_depth": "震源深度", "th_place": "發生地點", "th_id": "事件編號", "lbl_mon": "每月 M6+", "lbl_ma": "3個月移動平均", "lbl_cum": "累計", "lbl_m6": "M6.0-6.9", "lbl_m7": "M7.0+", "lbl_m7n": "M7+ 次數", "foot1": "地震監測 ｜ 資料來源：USGS 官方公開資料庫 ｜ 本頁為完全離線單一網頁檔，不需連線即可瀏覽<br>", "foot2": "統計僅反映自然地質活動，不構成任何預測或預言", "locnote": "發生地點（已中文化）", "norec": "冇符合條件嘅記錄", "loading": "載入地震資料中…", "err": "搵唔到 data_eq.js，請確認已上傳到同一資料夾。", "usgs": "USGS 官方頁面", "map": "地圖", "news": "新聞"};
 var CTRY_ZH = {"Indonesia": "印尼", "Russia": "俄羅斯", "Philippines": "菲律賓", "Japan": "日本", "Japan region": "日本海域", "Japan Earthquake": "日本", "Vanuatu": "瓦努阿圖", "Papua New Guinea": "巴布亞新幾內亞", "Tonga": "湯加", "Alaska": "阿拉斯加", "Peru": "秘魯", "Mexico": "墨西哥", "Chile": "智利", "Turkey": "土耳其", "Panama": "巴拿馬", "New Zealand": "新西蘭", "New Zealand region": "新西蘭海域", "Venezuela": "委內瑞拉", "New Caledonia": "新喀里多尼亞", "Afghanistan": "阿富汗", "Italy": "意大利", "Solomon Islands": "索羅門群島", "El Salvador": "薩爾瓦多", "Northern Mariana Islands": "北馬里亞納群島", "Canada": "加拿大", "Argentina": "阿根廷", "Timor Leste": "東帝汶", "Colombia": "哥倫比亞", "China": "中國", "Cuba": "古巴", "Antigua and Barbuda": "安提瓜及巴布達", "Samoa": "薩摩亞", "Malaysia": "馬來西亞", "Oregon": "俄勒岡州", "Taiwan": "台灣", "Taiwan Earthquake": "台灣", "Russia Earthquake": "俄羅斯", "Wallis and Futuna": "瓦利斯及富圖納", "Ethiopia": "埃塞俄比亞", "Cayman Islands": "開曼群島", "Guatemala": "危地馬拉", "Micronesia": "密克羅尼西亞", "Tajikistan": "塔吉克", "Leeward Islands": "背風群島", "California": "加州", "Texas": "德州", "New Mexico": "新墨西哥州", "Nevada": "內華達州", "Hawaii": "夏威夷", "Oklahoma": "俄克拉何馬州", "Arizona": "亞利桑那州", "Montana": "蒙大拿州", "Alaska region": "阿拉斯加海域", "U.S. Virgin Islands": "美屬維京群島", "Puerto Rico": "波多黎各", "Guam": "關島"};
 var LOC_ZH = {"Port-Olry": "奧爾里港", "Petropavlovsk-Kamchatsky": "彼得羅巴甫洛夫斯克-堪察加", "Nikolski": "尼科爾斯基", "Sarangani": "薩蘭加尼", "Tobelo": "托貝洛", "Severo-Kuril'sk": "北库里爾斯克", "Kuril'sk": "库里爾斯克", "South Sandwich Islands region": "南桑威奇群島海域", "south of the Fiji Islands": "斐濟群島以南", "Vilyuchinsk": "維柳欣斯克", "Macquarie Island region": "麥覺理島海域", "west of Macquarie Island": "麥覺理島以西", "Kermadec Islands": "克馬德克群島", "south of the Kermadec Islands": "克馬德克群島以南", "central Mid-Atlantic Ridge": "中大西洋海嶺", "northern Mid-Atlantic Ridge": "中大西洋海嶺北部", "southern Mid-Atlantic Ridge": "中大西洋海嶺南部", "Noda": "野田", "Neiafu": "奈亞富", "Volcano Islands": "火山列島", "'Ohonua": "奧霍努阿", "Pangai": "潘艾", "south of Africa": "非洲以南海域", "Bonin Islands": "小笠原群島", "Atiquipa": "阿蒂基帕", "Kimbe": "金貝", "Ozernovskiy": "奧澤爾諾夫斯基", "Río Grande": "大河", "Panguna": "潘古納", "Norsup": "諾爾蘇普", "Tadine": "塔迪訥", "Honchō": "本町", "Ende": "恩德", "Puerto Madero": "馬德羅港", "Lorengau": "洛倫高", "Jurm": "朱爾姆", "Pondaguitan": "蓬達吉坦", "Balangonan": "巴蘭戈南", "western Indian-Antarctic Ridge": "印度洋-南極海嶺西部", "Calama": "卡拉馬", "southern East Pacific Rise": "東太平洋海隆南部", "Pacific-Antarctic Ridge": "太平洋-南極海嶺", "southeast Indian Ridge": "印度洋東南海嶺", "Tual": "圖阿爾", "Ternate": "德那第", "Luganville": "盧甘維爾", "Hihifo": "希希福", "Fiji region": "斐濟海域", "Gorontalo": "哥伦打洛", "La Libertad": "拉利伯塔德", "Nurdağı": "努爾達勒", "Kokopo": "科科波", "La Tronosa": "拉特羅諾薩", "Pitaloza Arriba": "皮塔洛薩阿里巴", "Kainantu": "凱南圖", "Teluknaga": "特盧克納加", "Lospalos": "洛斯帕洛斯", "Aniso": "阿尼索", "Pematangsiantar": "佩馬坦先達", "San José del Palmar": "聖荷西德爾帕爾馬", "The 2026 Kumamoto Region": "2026年熊本地區", "Sola": "索拉", "southeast of the Loyalty Islands": "洛亞蒂群島東南", "Hirara": "平良", "El Progreso": "埃爾普羅格雷索", "Yumare": "尤馬雷", "San Felipe": "聖費利佩", "Dunhuang": "敦煌", "Palu": "帕盧", "Auckland Islands": "奧克蘭群島", "Mantua": "曼圖亞", "Pangyan": "邦揚", "Kablalan": "卡布拉蘭", "San Lucido": "聖盧西多", "Valparaíso": "瓦爾帕萊索", "Codrington": "科德里恩頓", "Ōfunato": "大船", "Nena": "內納", "Sarabetsu": "猿払", "Picota": "皮科塔", "Yamada": "山田", "Lotofagā": "洛托法加", "Isangel": "伊桑格爾", "South Shetland Islands": "南設得蘭群島", "Vallenar": "巴列納爾", "Anacapri": "阿納卡普里", "Kirakira": "基拉基拉", "Attu Station": "阿圖站", "Sinabang": "希納邦", "Kota Belud": "哥打勿魯", "Ovalle": "奧瓦列", "Bandon": "班登", "Baculin": "巴庫林", "Rancho Viejo": "蘭喬別霍", "Puerto Santa": "聖塔港", "Yilan": "宜蘭", "2025 Taitung": "2025年台東", "Goroka": "戈羅卡", "Hachinohe": "八戶", "2025 Aomori Prefecture": "2025年青森縣", "2025 Hubbard Glacier Earthquake": "2025年哈伯德冰川地震", "2025 Kamchatka Peninsula": "2025年堪察加半島", "Sabang": "沙邦", "Mata-Utu": "馬塔烏圖", "Lata": "拉塔", "Metahāra": "梅塔哈拉", "George Town": "喬治敦", "Miyazaki": "宮崎", "Aquila": "阿基拉", "2025 Southern Tibetan Plateau Earthquake": "2025年藏南高原地震", "Saipan": "塞班", "Port McNeill": "麥克尼爾港", "Angoram": "安戈拉姆", "Dolinsk": "多林斯克", "San Pedro Pinula": "聖佩德羅皮努拉", "San Pedro de Atacama": "聖佩德羅-德阿塔卡馬", "Tofino": "托菲諾", "Sangay": "桑蓋", "Yaguaraparo": "亞瓜拉帕羅"};
 var DIR_ZH = {"N": "正北", "NNE": "北偏東", "NE": "東北", "ENE": "東偏北", "E": "正東", "ESE": "東偏南", "SE": "東南", "SSE": "南偏東", "S": "正南", "SSW": "南偏西", "SW": "西南", "WSW": "西偏南", "W": "正西", "WNW": "西偏北", "NW": "西北", "NNW": "北偏西"};
@@ -266,6 +269,11 @@ var USGS = 'https://earthquake.usgs.gov/earthquakes/eventpage/';
 var EVTS = [];           /* 已濾 M6.0+ */
 var ALL = [];            /* 原始（M2.5+） */
 var CHARTS = [];
+/* ★ 2026-11-02：data_eq.js 嘅更新時間／最近 24 小時事件數
+   （令用戶一眼睇到「今日有冇更新」，唔使靠「M6+ 幾時先加一次」去估） */
+var RAWMETA = {updated:'', new24:0, new24_m6:0, total:0};
+/* ★ 2026-11-02：級數門檻（全部 M6+ 係預設；另外加低級數，令每日都有新記錄可見） */
+var MAGTH = {'all':6.0,'6.5':6.5,'7':7.0,'5':5.0,'4.5':4.5,'2.5':2.5};
 
 function placeZh(p){
   if(!p) return '';
@@ -327,6 +335,10 @@ function boot(){
     if(tb) tb.innerHTML = '<tr><td colspan="5" style="text-align:center;padding:24px;color:#5a86a3">'+L.err+'</td></tr>';
     return;
   }
+  RAWMETA.updated = raw.updated || raw.generated || '';
+  RAWMETA.new24 = (typeof raw.new24 === 'number') ? raw.new24 : 0;
+  RAWMETA.new24_m6 = (typeof raw.new24_m6 === 'number') ? raw.new24_m6 : 0;
+  RAWMETA.total = raw.total || 0;
   ALL = raw.events.map(function(e){
     return { d:(e.t||'').slice(0,10), ts:(e.t||'').replace('T',' '),
              m:parseFloat(e.mag||0), dp:parseFloat(e.depth||0),
@@ -381,7 +393,11 @@ function buildCards(){
   var upd=document.getElementById('upd');
   if(upd && EVTS.length){
     var ds=EVTS.map(function(e){return e.d;}).sort();
-    upd.textContent = L.upd.replace('{n}', EVTS.length).replace('{from}', ds[0]);
+    upd.textContent = L.upd.replace('{n}', EVTS.length)
+                        .replace('{from}', ds[0])
+                        .replace('{upd}', RAWMETA.updated || '—')
+                        .replace('{newm6}', RAWMETA.new24_m6 || 0)
+                        .replace('{new}', RAWMETA.new24 || 0);
   }
 }
 
@@ -496,11 +512,15 @@ function buildTable(){
 /* ---------------- 篩選 ---------------- */
 var state={mag:'all',year:'',depth:'',q:'',sort:'date'};
 
+function baseList(){
+  var th = MAGTH[state.mag];
+  if(th===undefined) th = 6.0;
+  return ALL.filter(function(e){ return e.m >= th; });
+}
+
 function currentData(){
-  var d=EVTS.slice();
+  var d=baseList();
   d=d.filter(function(e){
-    if(state.mag==='6.5' && e.m<6.5) return false;
-    if(state.mag==='7' && e.m<7.0) return false;
     if(state.year && e.d.slice(0,4)!==state.year) return false;
     if(state.depth==='shallow' && e.dp>30) return false;
     if(state.depth==='mid' && (e.dp<=30 || e.dp>=300)) return false;
@@ -519,7 +539,7 @@ function currentData(){
 function refresh(){
   var rows=currentData();
   var c=document.getElementById('tbCount');
-  if(c) c.innerHTML=L.show+' <b>'+rows.length+'</b> / '+EVTS.length+' '+L.n;
+  if(c) c.innerHTML=L.show+' <b>'+rows.length+'</b> / '+baseList().length+' '+L.n;
   buildTable();
 }
 
@@ -529,6 +549,9 @@ function setMag(v){
   for(var i=0;i<bs.length;i++){
     bs[i].classList.toggle('on', bs[i].getAttribute('data-mag')===v);
   }
+  /* 級數門檻一變 → 年份下拉要跟住重算 */
+  state.year='';
+  buildYearOptions();
   refresh();
 }
 
@@ -549,16 +572,18 @@ function toggleBar(){
 function toTop(){ window.scrollTo({top:0,behavior:'smooth'}); }
 
 /* ---------------- 啟動 ---------------- */
+function buildYearOptions(){
+  var sy=document.getElementById('selYear'); if(!sy) return;
+  var ys={};
+  baseList().forEach(function(e){ ys[e.d.slice(0,4)]=1; });
+  var ks=Object.keys(ys).sort();
+  sy.innerHTML='<option value="">'+L.allyear+'</option>'+
+    ks.map(function(y){ return '<option value="'+y+'">'+y+' '+L.yr+'</option>'; }).join('');
+  sy.onchange=function(){ state.year=this.value; refresh(); };
+}
+
 function init(){
-  var sy=document.getElementById('selYear');
-  if(sy){
-    var ys={};
-    EVTS.forEach(function(e){ ys[e.d.slice(0,4)]=1; });
-    var ks=Object.keys(ys).sort();
-    sy.innerHTML='<option value="">'+L.allyear+'</option>'+
-      ks.map(function(y){ return '<option value="'+y+'">'+y+' '+L.yr+'</option>'; }).join('');
-    sy.onchange=function(){ state.year=this.value; refresh(); };
-  }
+  buildYearOptions();
   var sd=document.getElementById('selDepth');
   if(sd) sd.onchange=function(){ state.depth=this.value; refresh(); };
   var ss=document.getElementById('selSort');
