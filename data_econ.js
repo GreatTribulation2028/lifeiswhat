@@ -1,5 +1,14 @@
-// 經濟 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1383 條
+// 經濟 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1455 條
 var DATA_ECON = `
+2026-11-03	英國央行週四加息幾成定局，後續加幾次？市場與經濟學家分歧明顯 作者 智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE4tdTZkZ1dkek94aXZsdTlsNVY1M3dJVVF3SHRtRlhoSmFuWE1PUHVpZmpUczBxbW5DSTlMU0tUaC1UVnF6LXhRTlFiUnJfUG1iQi1UYWZWaHdFOGUzNHF5WF9YWEw1OGNISHNvT2VWR0o?oc=5	加息減息	-
+2026-11-03	結業潮｜禾輋美心MX傳下周落閘 陪伴街坊近40載 居民不捨：細個聞到叉燒香就知開飯	https://news.google.com/rss/articles/CBMi7gNBVV95cUxQdy1vVVRSQUQyWmtBd2dscU0tRC00MXVxeVZfd0NqcWpTNWM5N1BMRHhjR3gwdUtyalNlcTEwWXFtUmlkZlhfSUZjakFzaFp4eGxnX3hJdDFpQUQ1UTRFODFaZlBsUklGMUJ3UDE1TUI0YXdCcVd1emQwU2JVS1pXRnk2TUd5ZUh4ejRUeGs4cTVhWmg0cWxPUzltRUdxLWs1eEcwdEFEcE4tSUlmSkRVRkprS2FVUXViNWFYcDZYd0d3cV96ZXJrbVh4OFhVM2xmQ0lVWXZNcTJLcGRhblYxSXVrZjI3dzhwWi1Cb0dQZ0h2TnJtZE9YbmtYRl9tTldZSlRNYW4tX1d0aXl5elBXaGdNQ2ctVTZWQ0F4aTh3aHMyQldZSkNmS1VZWjlMMEV3QkhfYTAwZWkwMU5NVVhvenZqakgzQ3BnNG9KRDRSTjY1eG9jSm5LSl82Mzl3ZkpvVk5tWkF1U1VQRU90T1Z0b2Nyc2w0bzBWWG11bFdEOVROS0hvNExiSHFCVk9UWXJ3dV9tQVhIYzNheHhTRTJtNDlJUkM5eno2d3RodktaRGVqU3FsZ1RYd0NnZEpnak1wN2tpOXJoM3ZvZ3JfU2JHVWZTSzZTbENmZXl4V24xVkROM2p5Vm9Edl9vdS1PUQ?oc=5	結業清單	-
+2026-11-03	澳洲儲備銀行加息至2008年以來最高水平，警告通脹壓力持續 作者 Investing.com - Investing.com 香港	https://news.google.com/rss/articles/CBMiakFVX3lxTE9DQ01kWnA2b2tSeHRjUUFqR1dJRnNYRXlTTmFlQ01LelVWMEJfb2R1REY1dnBYTXpHSzFSRHVyWmprQ2lSaWxldGFoOVlNVWpxRjhHUkhId20xQmtENW1lQjlLT2o4cnNudnc?oc=5	加息減息	-
+2026-11-03	機構：聯儲局應更加關注核心通脹	https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlg3MmdaQ19SM2hUNFFmczRhQS15NTdZTVdzMTV5d2oyeWFLX3U1WkpxbHZKbndaMnUzRGRYOFlMMW5SVWZCaXBKZDV3Wk03WlpSVzNwZjhXZHhBQTI0dlg3MEQ2WnRXckxkYWw5VWhQMjlXOG1jTW5kSncybTVWT3lXUDBqaktZRE5hYTEza0dnWTRZS21HV2QxSFNxdVZsdE9oc1JoeloteUtldmVaOA?oc=5	加息減息	-
+2026-11-03	日圓兌換｜市場料日央行下月加息 即睇銀行找換店最新兌換價比較	https://news.google.com/rss/articles/CBMiqwNBVV95cUxNcmtvVFJma3NITFRKbE5MZ21pZkdkd0hWdjBXdElNUFR3azZsRnRmVXR5RUx5emZXTmpwOTd1S2tKM1otWVFxcktkZWhsckNQOWxVMjc5eW9CLUQ4S3ZiZzlJdWctUENCQUpvQ0FBUWs1WGlpU3F5RFVwa0h4cFJQR2Q1MU4yRndHZUI2ZkhVYXlBa3BsNEpEdHdnZHBaeFd6XzBJcVdNUmpDcTEzWmplSDVHSGN0Z0pZSzY2Sy04UlRnMWJhSUlyQUU2Wkp6UmJDQzUzRFJ4NXoxZzEzUWt5SlotLVF0ZjJfZFBXQzdvSklhSkJrX1dUSHV3NjdVMFBQMmlxVW9PekQ5RGlmU2FxcWVoT25xWTlIdnZfWUNjaU9RdW5lVGx3Q2VWNExzVFViSUtkR1hiRThOX3NpeDc3NldmQzRrQ3JxZHd4b0pEbWg0T0xsUEhnWGJJbENQR0RNeUxZOE9ObUtuaGs2LTNUY2hObVBNUklQWEVENTZ4NHRBVkRlRkFxTkxmSi1OZEdjUjRLRUdpSERfV2Z0aEpjZEZXRmp0aXIzWEpn?oc=5	加息減息	-
+2026-11-03	加息五連擊後踩剎車？澳洲聯儲主席釋放“觀望”信號，澳元應聲下跌 作者 智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE01Q2xBTHFBN3poWDFNSGZjeTlQeFQ5dHZZN084b1pZU210cDNEV0gyejBYMHFjSEdWZlNqMWRBNkhZckV1RWpBZzFvS29YSU92UFNKWDllcEl6eERoQVBCNmJ0TURDLW5md0JsTWNmSk8?oc=5	加息減息	-
+2026-11-03	一年五度加息 利率升至4.85% 創18年新高	https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzb3dlSlR6dmRfdk9rcjNtLU1lVUFyMWlXNUMxcG0tTERNMTdIbGlhbmdabTBjNnh4Y3BuT2V0T2RkTXFiOVZKZDJvbTBEajZyM1lPNTNySlBDQmRZcDhRMNIBZkFVX3lxTE93MDc1TWtuZDQ4ZjZZY0FybGlmMkNEUVZORnYwbXJKS0NaUk1aTXhBSUVqcTNnMW9TUkhKdDV1ZHI5NF9aU0J2QWhEYlR0RFg1S0VGLUtIT1FoelFtM3RyeXBXblpPZw?oc=5	加息減息	-
+2026-11-03	【有片：埋身擊】 中期選舉及加息憂慮標指料再下試低位不宜買入(12:38) - 20261103 - 即時財經新聞	https://news.google.com/rss/articles/CBMixgNBVV95cUxQTTBrUFFXbm9RWXFrdE1CTHlfWXRCVmFiN2t2SUZvSDhoVktRelc3eUh5ekZtZHJQS1Z5cGtyMngxWGpjU1RpNUVrZnFkUlN5a1ozOWxqeUdJbVpGMm95cFk4WG91Sl91SXlZWTdUMGpFSWZjWDBhYjJiNHZKdmY2MnloNDFJN2dtdFBpVzFsakFXbjJValA3TzRjUHJ1Ul9kVXdNNWJZRXNDM25iY3IyNkRCQWtJRzkzdjdvcWtBZDhZZll3RlpOeTFWdWZFR0ZQTU13cTVTaXh6NnU4TWY0VHl4anBmWmRYVHg4N1NSZXFUb3VFMW8tQ0JabDdHMmRPaE14ZjUzejhMZVBreWF5d18zX0VOdEV3ckpsZ3ZiM3lTVlYyaVVpNWp5TjBaRGxGODJRZDNWSmlLN3FtM0Vxd3Bqa3A0WWNYZjZPc1cwN0Y1VDhJV216YmR4UHVJcTZuandBMzEwNEtIVHdpTk5JTHMzQ0pDaVF4ZFhhSy1UdHQ1MmV2VzA0YTNtc2NZLVh4TDh0cW9mV19kODJYaWVYdFkzNlZ5dUljU0lJZ1VzTlItcmlJb0JzcU9vaVluMG9ib3ZWeGtR?oc=5	加息減息	-
+2026-11-03	Uber 員工爆料 AI 工具已接管日常工作，效率提升 5 倍卻落得 3300 人大規模裁員下場	https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWltMHMwUjVMSjYwZWRnOHZDQWcyeTJCUlBkN20zcHZZRFBBR094SThZWEEwc0Z6S2xpT0RuWkhCWGpxOU5GWm8weEc1bnhMWWR2WTRBNWcwZ2FaVXl6Q0pyTDg3NlgzX1RZMkVMTm5VSnk1VVpDT2ZNU2ZTa2tZUHktUQ?oc=5	裁員清單	-
 2026-10-27	銀主盤撈筍盤｜屯門帝御系列連環推拍兩伙銀主盤！ 1房戶350萬有交易 較5年前買入價低近4成|香港經濟日報	https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MdGRYemlBQ3Izd2ZyWWZ5bFZxRXphbDRXaTc5bnFBd0J0N2gwVi1pWlRBd21fUWlpeko0ZHVfUXdTejh5UGEwdHpZMjc?oc=5	樓市斷供	B
 2026-10-23	銀主盤撈筍盤｜屯門帝御系列連環推拍兩伙銀主盤！ 1房戶350萬有交易 較5年前買入價低近4成|香港經濟日報	https://news.google.com/rss/articles/CBMisgRBVV95cUxQYzNXVlFFN1ZoV1ZtYjE4Mlg4SHNXdjVYTnF1QUtBZndPUlF1MnNXLTI1ZGx4bTVieVhXaFdCMUpEM2xDY25BWWp6TEk2WnlIc3JTREJWYmUxWS1sN01PZE52cWs3OGJ6MnpLN25UdG84Z05WY29TVlRwSGFXMkpBLW5kZW4yOHdMNlF1WmhRNDJ4RWNELXdnRTdTQkUydjZibm5SYlJOeXVweEdTVmV4Y05xRTFESDlfRXVsMEdTUlJuQ0JsY2NLN1ZQNnJVSk1wS0FYS015ZXd5c2F3RC1Oc2o0c2xQMndubE5nR1FvaGxnMUpMRENOVWRwWmVBU0NSSGlFeEc0UHVJNnhTOTJCYUQ3cko3QXBJS2piODZWYi1Sb1lxbXBPbm9ja2lfMHZVd19ZajJ3S2ZZVkdzMEY1R3I2NTU4eE1zRjBrcXpfMW1wSlkzOE9TMi1kZkFkRExEbmNhSXVEWE9KdDVDZmdCVDNNMGFXOUI5b0tOQzBaSVVTcWhnMkhfQ0ViSWhuTk4yMkkwYkVxS0NYMXF4ckRHUGVaczZpZ2I1V3JjUVY0dUwyc3FHQmJfeVhpRmdEd0pUSWdiOVRucGpWeE1hLVdDN2kyY1FTaW1lU0luOEp3eEpjb2V3UXRCenhxSTZqMWhEeThYMEQyRjZwYW9ldG1RempzT21KUmVwLXdKVUVTbW1PeGNOQlREaXJ6bFcwajJ2cEdYZ3VDRkhQamd4aTRrelBR?oc=5	樓市斷供	B
 2026-10-23	英國通脹創11個月高位強化加息預期，英鎊兌美元維持高位震盪	https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGZKcFBlUXZQT0NUNG4zV2YzbnNhZnFDTXItM1NEbktidjFtNzhIZnVJRTMzQ1NxbDlTR1RiLXdvdUlzX0JJSTZzdEpxTkt1bDNNaWFkSVhCZ3ZhbWlPZ0tjTjlRVGVLRWw0RXBsQkVCNGZnaWg0RWYzMTAyTmdRVFc3UFlXU011cmxnTEZtOXdpWnRYZ1lZS3ZRM3BrT1Fzc1Z5NHBYTVJOSE5kX0E?oc=5	加息減息	A
@@ -155,6 +164,7 @@ var DATA_ECON = `
 2026-09-29	聯儲局威廉斯：今年可能再加息一次，但不急於行動 作者 Investing.com - Investing.com 香港	https://hk.investing.com/news/economy-news/article-1678981	加息減息	A
 2026-09-29	美議息前 港元定存提前加息 12個月存息3.2厘|香港經濟日報	https://invest.hket.com/article/4165592/美議息前 港元定存提前加息 12個月存息3.2厘	加息減息	B
 2026-09-29	美聯儲官員齊聲警告通脹風險！今夜7月CPI料成加息路徑關鍵裁決 作者 智通財經	https://hk.investing.com/news/stock-market-news/article-1603856	加息減息	A
+2026-09-29	美聯儲官員密集釋放鷹派信號！“三把手”稱年內或再加息一次古爾斯比警告通脹持續高於目標是在“玩火” 作者智通財經 - Investing.com 香港	https://hk.investing.com/news/stock-market-news/article-1679246	加息減息	A
 2026-09-29	美國每周初請失業金人數小幅下降，裁員人數仍處於低位	https://tw.tradingview.com/news/reuters.com,2026:newsml_L4T4520Z5:0/	裁員清單	A
 2026-09-29	結業潮｜馬灣日式小店「米九十」租約期滿經已結業 老闆娘一人廚房難抵壓力|香港經濟日報	https://ps.hket.com/article/4174535/結業潮｜馬灣日式小店「米九十」租約期滿經已結業 老闆娘一人廚房難抵壓力?mtc=80023	結業清單	B
 2026-09-29	結業潮｜開業12年人氣餐廳Lab Eat 尖沙咀店宣布7月底熄燈 主打客制化慶生服務|香港經濟日報	https://ps.hket.com/article/4164773/	結業清單	B
@@ -648,6 +658,7 @@ var DATA_ECON = `
 2026-06-02	奔馳中國推進第二輪裁員 北京銷售公司拟縮編至600人以内	http://www.guandian.hk/article/20260602/564494.html	裁員清單	B
 2026-06-01	結業潮｜油麻地Casa Hotel結業 去年4.5億放售無果	https://m.hkej.com/landing/mobarticle2/id/4418341	結業清單	B
 2026-06-01	滙控大裁員變自廢武功？痛失屈臣氏IPO大單 艾橋智親自落場拉客！	https://businessfocus.io/article/356817/滙豐控股-屈臣氏-艾橋智	裁員清單	B
+2026-05-31	羅便臣道薈萃苑火｜命危男為劏場大王尹柏權 近年捲官非蝕讓物業	https://www.hk01.com/突發/60355261/羅便臣道薈萃苑火-命危男為劏場大王尹柏權-近年捲官非蝕讓物業	經濟	-
 2026-05-30	結業潮｜大圍38年老字號「港興大飯店」宣布6月底結業 八旬老闆痛心：下一代無意接手	https://topick.hket.com/article/4134225/結業潮｜大圍38年老字號「港興大飯店」宣布6月底結業 八旬老闆痛心：下一代無意接手?mtc=10012	結業清單	B
 2026-05-29	AI引裁員潮？銀行業行內人爆料煞停請新人：高層料3年取代半數人手苦主心酸呻「一早俾人炒咗」	https://hk.ulifestyle.com.hk/topic/detail/20098267/ai%E8%A3%81%E5%93%A1%E6%BD%AE-%E9%8A%80%E8%A1%8C-%E7%85%9E%E5%81%9C%E6%8B%9B%E8%81%98-2026%E8%81%B7%E5%A0%B4-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%96%E4%BB%A3-%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B1%80-%E9%80%A3%E7%99%BB%E7%86%B1%E8%A9%B1-%E5%A4%B1%E6%A5%AD-%E6%90%B5%E5%B7%A5-%E7%95%A2%E6%A5%AD%E7%94%9F	裁員清單	B
 2026-05-28	結業潮｜22年歷史本地連鎖時裝店The Ash全線結業！營業至6月 8分店半價清貨！附門市地址一覽	https://hk.ulifestyle.com.hk/topic/detail/20098231/結業潮-年歷史本地潮帽店the-ash全線結業-營業至-月-分店半價清貨-附門市地址一覽	結業清單	B
@@ -657,7 +668,6 @@ var DATA_ECON = `
 2026-05-21	結業潮｜38年老字號「港興大飯店」6月結業 82歲店主嘆生意難做	https://eastweek.stheadline.com/witness/19251/結業潮38年老字號港興大飯店6月結業-82歲店主嘆生意難做	結業清單	B
 2026-05-20	五舒適堡相關公司遭申清盤 均已排期8.12提訊	https://hk.on.cc/hk/bkn/cnt/news/20260520/bkn-20260520144051029-0520_00822_001.html	破產	A
 2026-05-20	三駕馬車油門踩不動 中國多產業現倒閉潮（多圖）	https://renminbao.com/rmb/articles/2026/5/21/95263b.html	結業清單	B
-2026-05-20	【AI裁員潮】Intuit狠削17%人手 Meta裁員8000後稱今年不再大裁員	https://inews.hket.com/article/4132165/【AI裁員潮】Intuit狠削17-人手 Meta裁員8000後稱今年不再大裁員	裁員清單	B
 2026-05-19	裁員丨Meta傳裁員10% 7000人調往AI新項目	http://www2.hkej.com/instantnews/international/article/4406649/裁員丨Meta傳裁員10%+7000人調往AI新項目	裁員清單	B
 2026-05-19	結業潮｜檸季及fufuland攻港「快來快去」 曾開逾10分店現均執剩一間	https://www.am730.com.hk/article/1031304	結業清單	B
 2026-05-19	結業潮｜元朗多寶雞蛋仔8月頭結業 街坊感不捨：由幼稚園食到大	https://www.am730.com.hk/article/1031482	結業清單	B
@@ -769,7 +779,6 @@ var DATA_ECON = `
 2026-02-27	日圓反彈 央行稱若經濟與物價預期取得進展將持續加息	https://news.rthk.hk/rthk/ch/component/k2/1845288-20260227.htm	加息減息	A
 2026-02-27	文具佬結業｜沙田分店租約期滿 最後2星期結業清貨大減價 全場貨品6折！	https://hk.ulifestyle.com.hk/activity/detail/20090392/文具佬結業-沙田分店租約期滿-最後-星期結業清貨大減價-全場貨品-折	結業清單	B
 2026-02-27	導入AI提升效率 金融科技公司Block裁員4000人導入AI提升效率 金融科技公司Block裁員4000人	https://www.cna.com.tw/news/aopl/202602270163.aspx	裁員清單	B
-2026-02-27	【AI+裁員】金融科企Block裁員近半 AI從根本改變經營 Jack Dorsey預言更多企業作同樣決定	https://inews.hket.com/article/4090341/【AI-裁員】金融科企Block裁員近半 AI從根本改變經營 Jack Dorsey預言更多企業作同樣決定?mtc=20064	裁員清單	B
 2026-02-26	金融巨頭Block震撼裁員40% 創辦人多爾西稱AI將重塑職場	https://www.singtaousa.com/2026/02/26/news/usa/block-lays-off-nearly-half-its-staff-because-of-ai-its-ceo-said-most-companies-will-do-the-same-cnn-business/	經濟	B
 2026-02-26	結業潮｜鰂魚涌「生記粥麵」2月底結業 蔡瀾譽為「全港最好粥店」 街坊：勁好生意！	https://topick.hket.com/article/4089524/結業潮｜鰂魚涌「生記粥麵」2月底結業 蔡瀾譽為「全港最好粥店」 街坊：勁好生意！	結業清單	B
 2026-02-26	結業潮｜賞茶荃灣千色匯店3.4結業 開業3年租約期滿離場	https://topick.hket.com/article/4088953/結業潮｜賞茶荃灣千色匯店3.4結業 開業3年租約期滿離場	結業清單	B
@@ -867,7 +876,6 @@ var DATA_ECON = `
 2025-10-15	繼矽谷銀行倒閉後：Erebor首獲加密銀行執照，領跑加密、AI銀行時代	https://news.google.com/rss/articles/CBMid0FVX3lxTE1yRzBMLWZidmo4VDBnaF91NUpzV3IwckZfdllHb19JcmlhTUJRSTBPQUdheFV5UEtFTFdaN1VEc3ktdXYzb2o2V0l2YXVsOXktZFJjWkowQ1llS0owYnNxY2FYRjBJTDlxVDNneVMtSU4tY0t4dmg4?oc=5	結業清單	B
 2025-10-15	結業潮｜盈暉海鮮酒家最後分店結業 長沙灣店8月曾涉拖糧700萬	https://www.hk01.com/article/60285395?utm_source=01articlecopy&utm_medium=referral	結業清單	B
 2025-10-15	「菜檔小天后」簡利珍柴灣舖銀主盤2680萬沽 大幅蝕讓54%	https://www.hk01.com/article/60285749?utm_source=01articlecopy&utm_medium=referral	樓市斷供	B
-2025-10-09	慘阿!全球因為糧食通膨導致住房合約違約崩盤	https://youtu.be/5jj0L3ylmZU?si=AL1ndDBFeakzshY7	經濟	B
 2025-10-05	5月破產呈請871宗 按年飆35% 另有61宗強制清盤呈請	https://udn.com/news/amp/story/7320/9051477	破產	A
 2025-09-30	全真瑜伽宣布停業！公開信揭「倒閉3關鍵」：會員如何退款？為何預繳型會員制行不通了？	https://www.bnext.com.tw/article/84624/true-yoga-announces-2025-closure-losses-and-high-debt	結業清單	B
 2025-09-28	企業裁員｜怡和傳香港總部裁員 集團開腔回應	https://inews.hket.com/article/4015504/企業裁員｜怡和傳香港總部裁員 集團開腔回應	裁員清單	B
@@ -883,6 +891,7 @@ var DATA_ECON = `
 2025-08-23	台灣1產業爆破產倒閉潮！從北到南陸續停業，專家曝「越賣越虧」 已進入死亡循環	https://www.storm.mg/lifestyle/11062377	結業清單	B
 2025-08-22	結業潮｜博多拉麵別天神2023年起欠供強積金 涉29員工最少$41萬	https://www.hk01.com/article/60269262?utm_source=01articlecopy&utm_medium=referral	結業清單	B
 2025-08-21	建商負債4000萬「撐到交屋才倒閉」 業界警告：中小建商倒閉潮全面來襲	https://extra.rakuya.com.tw/house_news/58235.html	結業清單	B
+2025-08-20	顧客暈倒排隊混亂 人氣女裝店開張即停業	https://hk.on.cc/hk/bkn/cnt/news/20250820/bkn-20250820020123239-0820_00822_001.html	經濟	-
 2025-08-19	結業潮｜馬莎Marks & Spencer旺角店8.24結業 一連七日88折清貨	https://www.hk01.com/article/60267926?utm_source=01articlecopy&utm_medium=referral	結業清單	B
 2025-08-16	裁員潮｜美國首7個月裁員超越去年全年 什麽行業最高危？	https://inews.hket.com/article/3994293/裁員潮｜美國首7個月裁員超越去年全年 什麽行業最高危？	裁員清單	B
 2025-08-12	結業潮｜銅鑼灣美式餐廳Little Vegas結業 開業10年最後營業日8.31	https://topick.hket.com/article/3992125/%E7%B5%90%E6%A5%AD%E6%BD%AE%EF%BD%9C%E9%8A%85%E9%91%BC%E7%81%A3%E7%BE%8E%E5%BC%8F%E9%A4%90%E5%BB%B3Little%20Vegas%E7%B5%90%E6%A5%AD%E3%80%80%E9%96%8B%E6%A5%AD10%E5%B9%B4%E6%9C%80%E5%BE%8C%E7%87%9F%E6%A5%AD%E6%97%A58.31	結業清單	B
@@ -946,8 +955,10 @@ var DATA_ECON = `
 2025-05-16	結業潮｜鴨脷洲65年老字號周家園涼茶6月底告別 店主：做到好攰	https://www.hk01.com/article/60239177?utm_source=01articlecopy&utm_medium=referral	結業清單	B
 2025-05-15	銀行裁員｜恒生間接證實裁員個別部門傳削員達50% 恒生：僅1%核心業務員工受影響、若用職員樓按會提供支持	https://inews.hket.com/article/3949069/銀行裁員｜恒生間接證實裁員 個別部門傳削員達50- 恒生：僅1-核心業務員工受影響、若用職員樓按會提供支持	裁員清單	B
 2025-05-15	結業潮｜全港僅存籐椅店5.20結束 屹立43年 第三代︰捱不住租金	https://www.hk01.com/article/60238884?utm_source=01articlecopy&utm_medium=referral	結業清單	B
+2025-05-15	恒生間接證實裁員傳聞！失職員樓按或引爆負資產潮？	https://hk.finance.yahoo.com/news/恒生間接證實裁員傳聞-失職員樓按或引爆負資產潮-103349464.html	裁員清單	B
 2025-05-15	10. 📊 中國民企因貿易戰放無薪假及裁員，工廠空無一人。	https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/72658/	裁員清單	B
 2025-05-14	日產汽車遭遇25年來最大虧損 將於全球關閉7間廠房裁員20000人	https://www.hk01.com/article/60238197?utm_source=01articlecopy&utm_medium=referral	裁員清單	B
+2025-05-12	海皇粥店結業｜員工反駁老闆稱沒拖糧 憶收銀兼洗碗、沒加班費等	https://www.hk01.com/article/60237621?utm_source=01articlecopy&utm_medium=referral	結業清單	B
 2025-05-09	海皇粥店結業｜工會指過百員工遭欠薪 員工普遍被拖欠逾10萬	https://std.stheadline.com/realtime/article/2068029/	結業清單	B
 2025-05-09	海皇粥店突然結業｜工會批手法不理想 料員工要至少九個月追欠款	https://www.hk01.com/article/60236786?utm_source=01articlecopy&utm_medium=referral	結業清單	B
 2025-05-08	美國議息｜鮑威爾：關稅增通脹風險但經濟仍穩 不會因特朗普減息	https://www.hk01.com/article/60236379?utm_source=01articlecopy&utm_medium=referral	加息減息	A
@@ -1052,6 +1063,7 @@ var DATA_ECON = `
 2024-10-05	美國非農就業報告遠超預期 聯儲局線人︰11月減息0.5厘大門已關	http://www.hk01.com/article/1063491?utm_source=01articlecopy&utm_medium=referral	加息減息	A
 2024-09-28	中國財政危機：上海市有盈餘 其餘省市都虧損(圖)	https://hk.on.cc/hk/bkn/cnt/sport/20240928/bkn-20240928080008441-0928_00882_001.html	股災金融	A
 2024-09-27	商人羅傑承被債主申請破產 高院排期11.26提訊 羅傑承曾於2006年入主南華當足主, 花重金建立千萬大軍。於2010/11球季，他引入前英超球星畢特及基士文，為本地足球帶起熱潮。	https://www.hk01.com/article/1061079?utm_source=01articlecopy&utm_medium=referral	破產	A
+2024-09-27	保華欠薪｜再遭供應商追討過千萬 有供應商入稟清盤 - 有線寬頻 i-CABLE	https://bit.ly/3TNObPk	破產	A
 2024-09-26	日本拉麵店驚現倒閉潮 中餐館卻屹立不倒 日媒揭一大分野	https://www.hk01.com/article/1060933?utm_source=01articlecopy&utm_medium=referral	結業清單	B
 2024-09-24	保華建業疑欠建材費未清付 遭供應商入稟追1072萬及申請清盤	https://www.hk01.com/article/1059862?utm_source=01articlecopy&utm_medium=referral	破產	A
 2024-09-19	美聯：第三季錄356個銀主盤、創近16年新高 呢區住宅銀主盤最多	https://tw.news.yahoo.com/%E4%BF%9D%E9%AE%AE%E7%9B%92%E5%A7%8B%E7%A5%96-%E7%89%B9%E7%99%BE%E6%83%A0%E7%94%B3%E8%AB%8B%E7%A0%B4%E7%94%A2-%E5%B0%8B%E6%B1%82%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B%E7%9B%BC%E6%8B%93%E5%B1%95%E5%B8%82%E5%A0%B4-022500013.html	樓市斷供	B
@@ -1197,6 +1209,7 @@ var DATA_ECON = `
 2023-12-01	英國伯明翰諾丁漢市政府相繼破產 樓價會否大插水？	https://www.hk01.com/article/967305?utm_source=01articlecopy&utm_medium=referral	破產	A
 2023-12-01	耶倫指美經濟可軟着陸 聯儲局無須再加息	https://www.hkcd.com.hk/hkcdweb/content/2023/12/01/content_8612598.html	加息減息	A
 2023-11-27	加息500點！土耳其央行利率升至40%， 里拉急漲后回落	https://hk.investing.com/news/forex-news/article-407763	加息減息	A
+2023-11-26	竹科大廠驚傳倒閉！爆48廠商「集體裁員」 496人撐不到年終突失業	https://tw.news.yahoo.com/%E7%AB%B9%E7%A7%91%E5%A4%A7%E5%BB%A0%E9%A9%9A%E5%82%B3%E5%80%92%E9%96%89-%E7%88%8648%E5%BB%A0%E5%95%86-%E9%9B%86%E9%AB%94%E8%A3%81%E5%93%A1-496%E4%BA%BA%E6%92%90%E4%B8%8D%E5%88%B0%E5%B9%B4%E7%B5%82%E7%AA%81%E5%A4%B1%E6%A5%AD-074521723.html	結業清單	B
 2023-11-10	突然放鷹 | 美聯儲局主席鮑威爾：對通脹回落至2%沒有信心 經濟若強推動通脹 不排除再加息	https://hk.finance.yahoo.com/news/%E7%AA%81%E7%84%B6%E6%94%BE%E9%B7%B9-%E7%BE%8E%E8%81%AF%E5%84%B2%E5%B1%80%E4%B8%BB%E5%B8%AD%E9%AE%91%E5%A8%81%E7%88%BE-%E5%B0%8D%E9%80%9A%E8%84%B9%E5%9B%9E%E8%90%BD%E8%87%B32-%E6%B2%92%E6%9C%89%E4%BF%A1%E5%BF%83-%E7%B6%93%E6%BF%9F%E8%8B%A5%E5%BC%B7%E6%8E%A8%E5%8B%95%E9%80%9A%E8%84%B9-020353668.html	加息減息	A
 2023-11-09	加密貨幣市場最大崩盤之一的Celsius Network結束破產案	https://cn.wsj.com/articles/%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E5%B8%82%E5%A0%B4%E6%9C%80%E5%A4%A7%E5%B4%A9%E7%9B%A4%E4%B9%8B%E4%B8%80%E7%9A%84celsius-network%E7%B5%90%E6%9D%9F%E7%A0%B4%E7%94%A2%E6%A1%88-51f9989e	破產	B
 2023-11-08	長沙知名餐廳突結業負責人疑失聯 員工被拖糧：一個月的魚白切了	https://www.hk01.com/article/959569?utm_source=01articlecopy&utm_medium=referral	結業清單	B
@@ -1306,8 +1319,10 @@ var DATA_ECON = `
 2022-12-24	慘賠10億破產！徐亨失業2年 近況曝光	https://tw.news.yahoo.com/%E6%85%98%E8%B3%A010%E5%84%84%E7%A0%B4%E7%94%A2-%E5%BE%90%E4%BA%A8%E5%A4%B1%E6%A5%AD2%E5%B9%B4-%E8%BF%91%E6%B3%81%E6%9B%9D%E5%85%89-010700953.html	破產	B
 2022-12-23	美國上修第三季GDP至3.2% 突顯經濟強韌 加息放慢憧憬降溫	https://www.hk01.com/article/850027?utm_source=01articlecopy&utm_medium=referral	加息減息	A
 2022-12-23	歐央行副行長：加息半厘或成新常態 對抗通脹是首要任務	https://www.hk01.com/article/850032?utm_source=01articlecopy&utm_medium=referral	加息減息	A
+2022-12-22	虛幣礦商Core Scientific申破產保護	https://news.mingpao.com/pns/%E7%B6%93%E6%BF%9F/article/20221222/s00004/1671643721149/%E8%99%9B%E5%B9%A3%E7%A4%A6%E5%95%86core-scientific%E7%94%B3%E7%A0%B4%E7%94%A2%E4%BF%9D%E8%AD%B7	破產	B
 2022-12-21	快遞平台Zeek電郵通知客戶12.23結業 有外送員欠薪20萬未知如何	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/849617/%E5%BF%AB%E9%81%9E%E5%B9%B3%E5%8F%B0zeek%E9%9B%BB%E9%83%B5%E9%80%9A%E7%9F%A5%E5%AE%A2%E6%88%B612-23%E7%B5%90%E6%A5%AD-%E6%9C%89%E5%A4%96%E9%80%81%E5%93%A1%E6%AC%A0%E8%96%AA20%E8%90%AC%E6%9C%AA%E7%9F%A5%E5%A6%82%E4%BD%95	結業清單	B
 2022-12-20	【外圍經濟】歐洲央行副行長表示將繼續加息0.5厘	https://news.cnyes.com/news/id/5041811	加息減息	A
+2022-12-16	加息後即賣樓 用家820萬沽晉海三房 4年實蝕150萬	https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/847473/%E5%8A%A0%E6%81%AF%E5%BE%8C%E5%8D%B3%E8%B3%A3%E6%A8%93-%E7%94%A8%E5%AE%B6820%E8%90%AC%E6%B2%BD%E6%99%89%E6%B5%B7%E4%B8%89%E6%88%BF-4%E5%B9%B4%E5%AF%A6%E8%9D%95150%E8%90%AC-%E5%A4%9A%E7%9B%B8	加息減息	B
 2022-12-16	【疫下結業】健身及武術中心VO2 Fitness結業 涉欠供41名員工共32萬元強積金	https://topick.hket.com/article/3423584/%E3%80%90%E7%96%AB%E4%B8%8B%E7%B5%90%E6%A5%AD%E3%80%91%E5%81%A5%E8%BA%AB%E5%8F%8A%E6%AD%A6%E8%A1%93%E4%B8%AD%E5%BF%83VO2%20Fitness%E7%B5%90%E6%A5%AD%E3%80%80%E6%B6%89%E6%AC%A0%E4%BE%9B41%E5%90%8D%E5%93%A1%E5%B7%A5%E5%85%B132%E8%90%AC%E5%85%83%E5%BC%B7%E7%A9%8D%E9%87%91	結業清單	B
 2022-12-15	美國加息｜滙豐今年第三次加P 加0.25厘至5.625厘 周五生效	https://www.hk01.com/article/846657?utm_source=01articlecopy&utm_medium=referral	加息減息	B
 2022-12-15	港銀加息｜雷霆料加息已近尾聲 郭子威：估明年樓價10%波幅	https://www.hk01.com/article/847472?utm_source=01articlecopy&utm_medium=referral	加息減息	B
@@ -1383,4 +1398,61 @@ var DATA_ECON = `
 2018-05-02	獨／無預警歇業！車百匯遭爆早申請破產廠商急收帳撲空| 生活	https://www.setn.com/news/375291	破產	B
 2017-12-01	民宿爆倒閉潮！吳淡如回鄉救命 揚言重振「否則不姓吳」	https://www.setn.com/news/320953	結業清單	B
 2013-12-27	馬親家友人再爆 蔡龍「惡性倒閉」	https://www.setn.com/news/8563	結業清單	B
+2026-10-22	AI末日論丨巴克萊將裁員5000人 補多句︰AI開始助力提高效率	https://news.google.com/rss/articles/CBMigANBVV95cUxOY2FpVmdFaWIxN1dSNFNWdy1sdzY4dVdCQm1PTFYzMW1GSHUtUVNJWXBFbVE0MlI5RS1ERllWTnBuWUFvMFB5WTN0WFVVV091MHZmWjJlZ0JaTl9BT0Q2NGg3YUxSOXdvWmZpR1REempIbzEzMkhYSHI4YkJxZkRDMWdNMG94enVlTnEzS2w0NWJHLXdHMjhBQzZxck9DZkxwdmN4dVlCcUpDUFA5VFMtVUJ2WWtKTkp0TzB4YklEMko0ZEF3cUxRQnNZX3dFV1pYalRjd3dBTjBwLUFNVURDLUNQQWt3bFQ1Yzg1b1hTTUNxTFhJM0VhOUlHWnZNWnFIZUxhRnNxOWhTTTQzdVNWa0NNMExLNmV2TXQ3MjRsSEt5VVdialI5bFdxdGtFNHBwOS10Z1FRTE1GMEFERFJpaXZQYzFKdjdZLTU4QW4zMVE3cUJXN0swaVhZVkExNllUNDY5ZjU0dzZ6ZmRnWVpBSnMteHRRNVNpa2w2cUZSbEY?oc=5	第四次工業革命	A
+2026-09-29	理組1熱門科系「AI取代進行式」?過來人曝裁員地獄： 早知道念文組	https://www.msn.com/zh-tw/news/living/理組1熱門科系-ai取代進行式-過來人曝裁員地獄-早知道念文組/ar-AA1ZnpLJ?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	第四次工業革命	B
+2026-09-29	Meta裁員喊停 想用AI取代人力，老闆需要知道的事	https://www.cw.com.tw/article/5143077	第四次工業革命	B
+2026-08-15	深偽變造引《巫師》配音員強烈不滿：希望能把 AI 公司告到倒閉	https://n.yam.com/Article/20260815154799	第四次工業革命	B
+2026-07-27	Sophos報告：AI大幅縮短網絡攻擊時間- 數字經濟	https://www.wenweipo.com/a/202607/27/AP6a673ad4e4b0c1e500227a7a.html	第四次工業革命	B
+2026-07-15	【AI+Meta】AI成裁員「劊子手」？ Meta遭26員工入稟控告 被指演算法針對病假育嬰假員工	https://inews.hket.com/article/4161224/【AI-Meta】AI成裁員「劊子手」？ Meta遭26員工入稟控告 被指演算法針對病假育嬰假員工	第四次工業革命	A
+2026-07-06	非因被AI取代 微軟裁員4800人重整Xbox 坦承遇一嚴峻危機	https://www.worldjournal.com/wj/amp/story/121208/9611442	第四次工業革命	A
+2026-06-23	甲骨文去年裁員約2.1萬 AI取代部分工作崗位 (10:26) - 20260623 - 即時財經新聞	https://finance.mingpao.com/fin/instantf/20260623/1782181738732/甲骨文去年裁員約2-1萬-ai取代部分工作崗位	第四次工業革命	A
+2026-06-01	打破AI=裁員！AI讓晶片除錯數週變數小時 黃仁勳：反而要招更多IC設計師	https://tw.news.yahoo.com/打破ai-裁員-ai讓晶片除錯數週變數小時-黃仁勳-反而要招更多ic設計師-111200910.html	第四次工業革命	A
+2026-05-22	Cloudflare大裁員 創辦人曝：我如何決定哪些員工以AI取代	https://www.worldjournal.com/wj/amp/story/121172/9519378	第四次工業革命	A
+2026-05-05	【加密貨幣】Coinbase裁員14%！全面轉型AI 盤前股價逆市上揚（第二版）	https://inews.hket.com/article/4124192/【加密貨幣】Coinbase裁員14-！全面轉型AI 盤前股價逆市上揚（第二版）	第四次工業革命	A
+2026-03-19	千通道探針刺入大腦腦機接口產業駛出實驗室--經濟·科技--人民網	https://news.google.com/rss/articles/CBMidEFVX3lxTE5BcF9SRy11ZS03UDBkY2x4aEVQdktIRXEwS0dzbEZHMXpJbDJJMGpNT3VoUzBkLVNrdzFLbWpuc0RDaTNGUHhRWXFTdkJpeExkUGtTVmFGLVEyN3ViUXV1RmRQaFFIVkk5TTExcDI0Z3F3MkZf?oc=5	第四次工業革命	B
+2025-09-09	取代人類？｜ 澳洲銀行裁45名「多餘」員工 被裁員工揭其最後工作 竟是親手訓練AI接替自己？！	https://hk.finance.yahoo.com/news/取代人類-澳洲銀行裁45名-多餘-員工-被裁員工揭其最後工作-080132801.html	第四次工業革命	A
+2025-03-26	知名銀行龍頭大裁員！2000員工慘丟飯碗，專家曝被AI取代「5年內裁20萬人」	https://www.storm.mg/lifestyle/5345206	第四次工業革命	A
+2024-10-13	TikTok全球裁員 馬來西亞500人被炒 AI取代人力審核內容	http://www.hk01.com/article/1065777?utm_source=01articlecopy&utm_medium=referral	第四次工業革命	A
+2026-10-24	搶救共和黨選情 川普豁免部分加拿大產品50%關稅	https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zYlBNYXM1enpnVUFMMW5HaFJUa2ZJNzhMNEd4TGZJZnFMQ0JoMERGNzJtRnhTbXVzTHF4Z2xqeFl2bXVkQkhZUlhISUNnT2NaZjZXamRhLWtpSVpTTFVmTVBB0gFnQVVfeXFMT3FMdkM1dmdtc2Z5MUY1NGdfc3E0RV9CeEZxUjBsbFpNOW9oNl9JbC03elZWMTUzaEhiZ0V4cjZSS0V2aGdDV2NRSWF6WWlwai1jTEdRVnpkYzU1LUc5QlhmRFNObC1TQQ?oc=5	政治	-
+2026-10-23	搶救共和黨期中選情！川普豁免部分加拿大產品50%關稅	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBocDkzMHR0ZDdodHZmaW9pMHJxLWFyb3VhQlhhdlVsNXh3ZGJ3cW1PX3JLQWxMTGJKOGlUQ2RkdXdXZjZkb3VWamtrQmZONE9l0gFWQVVfeXFMTmVZVVpiVDAyaFh2TktTR3RuWk96M3owWTFiRThXcG55TUQwVnlPdVF4N0pWQnI3Ylk2V29Rc3RZdDFwVHJHZFREajZhSlVDdjdacXZLdlE?oc=5	政治	-
+2026-10-20	「關稅之王」遇普丁就退讓？川普暫緩制裁被自家人狂罵- 國際	https://news.google.com/rss/articles/CBMibkFVX3lxTE5VbHhPRG5feEdNbklzVExLWDJ0NFRIZ1l4LUNkU0FadGp6d1pEUUppSndFVDFrWURSVk9kLU80UTctUWh6UzIwcWhxRERMeWdWWWpSaVVHcFItaXFjZTNsYXVqNXFOVXBSb2p0UmlR?oc=5	政治	A
+2026-10-19	魯比奧：華府暫停全面制裁關稅決定 設60日緩衝期評估經濟衝擊	https://news.google.com/rss/articles/CBMipgNBVV95cUxQMGhXREY3QzJ0d3o5NmJFSHVIbHVoZGRCNGhRdUxkb0c0bjZzMXZ3alRHTU1VOHRkRGlQMFUtZndDRVRfcTJ0VGJOc1RoQ1AxLXBEbzFUTVhXLTRKR3BrQmlxVTlxclJrc0kxaDBkeVh4blBHNXh1cUt1Zjg3QkZ2T29YV0VOalFhZEtRQWZwQnc3enNoMXhCMFV5NGU4SkluWW5DUjNkdV9JMWxRcmtCTjRJWVE2YlFYN0pTNmd1VXpfZjBkNTRsQS16Nm9hTjN2QTJhVW45OXFnZFIzaTE2akVYOXh5OTVxTS1LelMwLVhhV0ZPaERrVjU3N0FlTkZfQkYwZ3lZOGFzcmxyeDN6RDZ2WE5KV1FuVnBOVXVNQ0x2d0c1ZHZVOEd5TXV4UzU2OTZfcGRvZjhzSTc3STZDRVcwaGpmNWFFZUg0Q0tYeFc0RkotLWU3bWRpeGZwRW90OGZMU1dST2Fjek1aQkVwUkdaRnRpNDZjZzJWX2hXdlJmTnEyYzUyVDNUVHp6VTExd1cwQXZnSlpTcmlGdFY5VkxFS1dId9IBjAFBVV95cUxPT2ttT0tadjBvWHVya0pndDg1UmJXX1dvR1JtYTZua1hCU2RVcXFJd1pmN0NMVDUxUWFzOXEtY005M0lWQkVzbkRSeTVFbV9OUlpZWTRFV3JFSjdTOWpsMTc0M3dCeldkSGdrRFVwNnd4eVpRaEkzUVlqS29lcnEwQnNCbXdYdlE2NFVHcQ?oc=5	政治	A
+2026-10-18	魯比奧：華府暫停全面制裁關稅決定 設60日緩衝期評估經濟衝擊	https://news.google.com/rss/articles/CBMimwNBVV95cUxOWEt6N2FnUDRKeUlXb3lkejVfaEl5N3ZGQ1hUSTc0amRwLTFwY2lid0JpUXpJeHhhUkFFT3BfT2QzMVJGbGl4RzYxNnp4VVd4VGpYZ0ZramdiUmlQQlBtendHWl9fYUcxZVhpTVRvSWIwUC1CYXliZVJDUnF3SU82N2otVUVRX1NtMmI1WmZtc3NFaThSZnBGbWNfbzJwT1JLRG1HUzhHNTgxTm9qRGVHZnl2UVBNVllVcG9QZGJtX1VPQ1RrQkJ6RTFaVEktb0MxeXlmNVJBZW1kYl84Wk5QTFRVVFBpdzcyazR2YlFPYk1pUXpZQXctdVI5bzg5clpzaDZ4eUNLSnU5RWlwV0xmZXJ6YXN6WnUwQUhteUltc25tWUg5MVp6a25sSHRLRUZEOGt2M1J6alhoQWxQM2FJMmpEbWxVZ3otMFRvTmlDcTBod3lsWkFEU0VtcDA1RnM3bVRvRmlac0pPSE01YVUxVVpZc0IzcG8xWDJRUGJ6cE5rRDVDSjZlc2ozNE9FT0tIRjliTHZENnZrZkU?oc=5	政治	A
+2026-10-18	川普豁免對俄制裁新法全部關稅，貝森特警告澤倫斯基「要非常小心」	https://news.google.com/rss/articles/CBMidEFVX3lxTE9BeVV6Z2lzVjlxMjZpQkpGMGhnZTlvM2hFbjdwSGx4bi1ETk1NRTZSRDNKTktKRGFnNGpFZEZvajZzYU9hQS1TVjJ4MDhnT2dlZkY3U21PSVI5UWdyTWRhaGF5TUdwQXd4UUxBVGttSEpxcXIt?oc=5	政治	A
+2026-10-17	美豁免多項對俄制裁及關稅	https://news.google.com/rss/articles/CBMiswJBVV95cUxNLVFlZWZxQ3hFV0tibEwyWkx2WERqZmx4bWlVaHQ5eUtZVUZKcjRIZm0xZkh0LWo1NWhYLVRRb1dVNWZMdU11YnVrTlJiTmRQdTZEcWM4cFY5UTlWSjkyY3JLVXZIZFV5eE0yY3BnRXJ5bTNMRzBrRVQ2LVMwOHRoTmh4VmR0d3U0c0w2ejg5NzJ3aWVuWnFsYThTY3YtaXB1SjFCRlgzNFhiRUd6VGVzaElZMGNvdlNWc0p5SnY1dEx1UkRrclp5eFdWYWduN3ZGYS15bFVVMmZwRUtwd0MwLWotOFR5aXNxT1Faa25sQ3dndUkyaUp4cF9UYjhjV2lNN21kTlprVkR1RHM3OWhfNk9jeVRnOHg4Tzdpby00b00wQmc3WEVOTVd3SVRhMDIwNFpB?oc=5	政治	A
+2026-10-17	美對俄制裁新法生效前 川普豁免多項限制與關稅| 路透社	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdTQ4TVB0d2pDQnFzSTNrRGxBRDJ0Y1RHNEd0VzdUX0lJRHdOOVRFa1lpYnBUelpmNzAzbjRWdDA0VlpTZEh6ZGNoSlljclk4bV94UEVR?oc=5	政治	A
+2026-10-17	美國對俄制裁法案措施生效前 特朗普豁免其中多項關稅及限制	https://news.google.com/rss/articles/CBMiuwNBVV95cUxObnhCZjNsNWg5eFVlcUJZWlZTTWdsdnFZR1BKbk54OXJibDBJdXpOOVc0aXRsRE0xSUljeE1teVhLX1JucnVyb0NVdUlHbW9LVnFEZjBBNlBsTFNXZGZCUEhTYXA0WVZiZHFsSnNpN29TYXBJeWZOTEdoYml5MWpORWtOeWhZcHoxRnpSbW5KVmxrYWIyQnp6YXRiWG9SdXlWbkxJaTlMVUxjbFBTMWFGeldtMVE5WFZKaEtzRjZMQlBqcUdrVDFESUllQVZBLVA1NGZvWERLLUZIOUxFRTZCRkhxRFl1a1B3S2NpamF1WnRjSXp0UThVNFNCSVg5dm5CMG9jUUtWOGJlcWVLeGpGdmJiTmlCbVNGU2pENDBqR2szX1VDa29OR3FKY3JsbUo0UENKYldVejZXZW9FWm9IRktiZl92Vy1lYkRLNjFTTFVRY0RvQnNNYVY1NWdhZ1dQUXkzY3RUbFJMekVPU3BEdUdmeFRVLUdZWDUxUG5Icm5NUG9SeS1hQU1Oc2daRk9Yb1RPemlaZzczYmZjMEgyZWdyUzZ0ZmUxckRkMDdab0MwQlVfMFktLXBuSQ?oc=5	政治	A
+2026-10-17	特朗普簽署豁免令 暫緩對俄多項制裁、限制及關稅	https://news.google.com/rss/articles/CBMi0gJBVV95cUxOajJNMlFVS1ZuekJubjdTZFE4Y1djT1BmYlVyZ0JuVHNxeTBlWUpqR09Bd0V6ZW5IXzRyQkN3TVlCaDRvS01ZNGlubjNOdEJjeGtYT1VVYkRCUjVmVEptd1Qtc3hZRGpvV19ZZ2Z3cFdzUVMxRGJvRFVhWlEwbnljUnBZZ09FU1ZFWl81M2t3by00Rk1DdS1nVWZtdG5yZ3dKaVFOZmJnSWtDSERxYV9FTWlUbXF0M0FUaHFhdGM2WUNhWFFTSXB3WmNJUnNKR2x0Q3ctTF9IVWxZZmt2eVRfV1U3Y2JUQm5XcXpIZ21iQVVXZGdXNkM0ZWJXbkdHTmVWMkZQdG9udE9hZmpVNHVOWFY0TldBUWw4XzJOQ0lnblh0MktacElBaDg1N0xyOERsQzczRlRISFVRRzU2LUM4LTBHN0pmT01GOGNZVW5kU1dQQQ?oc=5	政治	A
+2026-10-17	為了抑制柴油價格拯救期中選情 川普再簽行政命令豁免俄羅斯能源關稅	https://news.google.com/rss/articles/CBMiyANBVV95cUxOSnduOXd5M3Axa3hCLUZEUlpDUzVrRVpXQkFLbXF1Zmo3QjRZenpQTm1YSklMbFhPSFJ5MTQ5dU5XQV9GZHFPbjhYT3BRVlU1VFVQVy1RRmRMd3BHR1NVbUVUN2tmQnBlaE8zUkExa0ZEVVFKcTZqd1Vkb0Z2QWxGcXVJRWVrMkhVLVE0MERvUHVrMnRpZzVWaFJmSVVyOVd5bXd0N3FRYUZ5cmJENGdrMkEyQTl0NTNIR0c5SzlXM19QLThsbjFzZ1NKUzFiUU9UTkd1MGtkWkFtQl9sOWNON3p5dENobnBCd0NIakZWWmZ5VVNtbUJFQTltUTItbGxxN0Zza2I4cTUzQk56U0ZqWXcyZ01DalhFbDluSlBMQlFLZXUyYXY0Q2FfTXBhZFZDTG1GN19fbjZiME5QcjVveHRKZ2Z3RXhWWm85cE9JY2hpdHM0X3dfcG1YRUg4RFRDU3RuRm9ZY0IyME9IRHczOEUzNG9tTk9vdUZxbjhOeEhTcGU3c1AzbEREald6UlhHcl9OdEhrU2ZfMHQ3TWhKTGp4eVEyNEw3R19ObGRkbDdnLXdmX2tLMDRxaGNrb25iZ1pzNDZfMUs?oc=5	政治	A
+2026-10-17	新法生效前夕 特朗普豁免對俄多項制裁和關稅	https://news.google.com/rss/articles/CBMijwFBVV95cUxOQVRKTEx1TkNxX21VZ0VORDdtOC1kRFowcUNZYUs2MDNUM2JUQnBWMkpWWk95cnlOTkpTMDNWM2ppTnNtelFCcTY2Y1pyR3ZXeDBwbzVPQm9lT0xPQTRqMEw5eDBoN3Z3RGt6X3JBODZCdVladFpnU1BuV2stQXBHdVM4TGNsS3dUcEh6TGVDOA?oc=5	政治	A
+2026-10-17	快訊》川普突豁免對俄部分制裁！最高100％關稅喊停- 國際	https://news.google.com/rss/articles/CBMibkFVX3lxTE1qcWhWOEN5RDFrM0dRRVNUSUZaaFZxQ0N3engzd2k5RXE5R1FSU3Zoamx0cTF5UFFaMDlHNWItc0lHTVVBYXJ0UmZ0SXg2U0ZXVEpGT3JKZmZYLW9CM3dwWjc4WDVvdnBQclRfUHZB?oc=5	政治	A
+2026-10-17	川普簽署行政命令 豁免涉俄制裁與關稅法案	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EblJvZHNKekcyZ1haQXBqdjVzTGJ5SVVwRVFiNmxCdW5EOS1GcndIYk03ZWxQaFdwVXBKZUxDN2tYc0wtVjZMWmVqeGdDZkh1QTh5dE9IN3R6TF9kcXI2dg?oc=5	政治	A
+2026-10-17	川普突然喊停對俄羅斯部分制裁！能源買家100％關稅全豁免	https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ea21UYlNWVXZWSWwxVlhWS2MxbkRLbjNjcElFdGlFeVpEdVZJdm5kQ3BhQ1lMMTNUOGIzcG5iRDNDSDZZMS1nbkJMdi1qeGRrd2FoWVk4bGkwaUhqd3BB0gFkQVVfeXFMT3ZPRG5ycXFPMm5TRVFGbURoV21xcnJGNngtYVFpNjBuOWVJTE03RGJWTnluWkxNSFQ3Q2k2QnV1R1FlcTdVZWlRQ2VMN0EyRWtYLVpXdHZIOEltSVlkOHk1eVRHRg?oc=5	政治	A
+2026-10-05	特朗普揚言會課徵最高300%關稅 #特朗普 #關稅 #am730	https://news.google.com/rss/articles/CBMiwgJBVV95cUxOWDd0SFFmUUhXTERhZGdxQVFFaFlTQVVsZEY5T0N4ZmtDbEczVm91ZGFKcjB5VDBwSi11TWVMR0hHVE1jRnl0LWxhbnBhSXRTQlBpNUxvb3RFQUJDVEppVTFtZnFZM2hLSlRyQ1d5OHhVVmpFWDRsZ0xyRU5YS1VFZ0FOLUJOLWlqN19fQzJRdlhhZDEtbWRlSkEtTTdQbG9IUHc4ZFFhVV9tYzZrWUhuNWZFeElXUGg4T2J1ZkY0TUpyMDhrSTZyQ2dqYnhhbXJaVGtDbF9qMFlmZGRjMEczZ1lIMWl3OTZuMVFabjM1a0l5QjJkWFpaamZnc1BhNWVPaHpFUnAwYTRiVkxuM2JpVFB5aDBnNTJVV3M5YTNUU1JpZVJuZ3BTMzRFZmkyRDJZZU95cHoydWtGOTN0WUFpd1Rn?oc=5	政治	A
+2026-09-29	關稅案敗訴後再伸魔爪引用另一法案條文報復特朗普向全球 ...	https://www.todaycommercialnews.com/m/international/65442	政治	A
+2026-09-29	台美關稅簽署!賴清德喊脫胎換骨時刻 輸美平均關稅將至12.33%	https://www.msn.com/zh-tw/news/other/台美關稅簽署賴清德喊脫胎換骨時刻-輸美平均關稅將至1233/ar-AA1Wf2Dj?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	政治	A
+2026-09-23	關稅丨三星LG傳涉逃繳關稅 遭印度調查	https://www.hkej.com/instantnews/international/article/4521924/%E9%97%9C%E7%A8%85%E4%B8%A8%E4%B8%89%E6%98%9FLG%E5%82%B3%E6%B6%89%E9%80%83%E7%B9%B3%E9%97%9C%E7%A8%85+%E9%81%AD%E5%8D%B0%E5%BA%A6%E8%AA%BF%E6%9F%A5	政治	A
+2026-08-21	美加貿易戰正式引爆！特朗普開徵50%關稅	https://www.singtaousa.com/2026/08/21/news/world/us-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-and-canada-says-it-will-retaliate/	政治	A
+2026-08-21	勒布朗表示與美方談判接近達成協議 加美談判代表再次會晤，希望趕及在星期六新的關稅限期前達成協議。 聯邦加美貿易部長勒布朗與美國貿易代表格里爾星期四在華盛頓會唔了三小時，為協議的細節定案。	https://am1320.com/%E7%84%A6%E9%BB%9E%E6%96%B0%E8%81%9E/%E5%8B%92%E5%B8%83%E6%9C%97%E8%A1%A8%E7%A4%BA%E8%88%87%E7%BE%8E%E6%96%B9%E8%AB%87%E5%88%A4%E6%8E%A5%E8%BF%91%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0/	政治	A
+2026-08-14	避關稅丨白宮:中國貨轉運洗產地 40國助避美關稅	https://news.google.com/rss/articles/CBMi6AJBVV95cUxPY0hNNEhtMVBWUmVwMUU5cXFnWWxxYXFQMFB5Z0REeFlZMzZPSzVXWklJMFhKOWpXeFNnak9xX2dJQXF4aG9iSEZpdk5xX2xueWRfNUdXUFpwb1FqMlJpNzZwaEpSUC1SeTFYMTB5T3dnYzY0Zy1uOUk4ODh0YXU4andqdkVFOTdpNWdBcWFvTE12NUpHeVF0c0NkZ3hmN095WHpWVXhfbERxS3RnV2xjOEoxSkxNOHdxYm5RYmctUm5Qb1U3OFR4amtuOWJMVWNiSy13TFZpek5EcUlkME1uekRvWHJHWkNGNHpnSnF1RTVNTlY4ZVVLU1NsU2VzdlBNaHlOOGlSTXZhV3Y5MlRfaGJ5MDYtX3J6SWpzNGI3Q1E3NHJxTnZwZ1RxWTc2a04wdGx2QVBaNnN2c2dxVXFTMDExTldOYnZfVVdvYXg5emNiOHFoQXp5VUUxZkZ3MjhRbno4RUxwQUI?oc=5	政治	A
+2026-07-23	美國關稅｜美國又徵關稅 覆蓋美國99.4%貿易額 中港貨物收12.5%關稅	https://news.google.com/rss/articles/CBMiswJBVV95cUxNY3Y4RVNHSFJrYjF2WDVxYmtQUFVmRVFUMEhOOE1peko2NktDQ2JFZ1p6d1NsSTVLYjhEWTdGSG5ydE0ySlcwZHJUTDFQUFNmcDMxb0hjeUZhWXdfdTVmNTRkQlFNN0ZYdmFTRDZfRDZzUWh2Y1hsNTFXWk5ocUtPT3FTb2MyYl9SU0ZzaU5oNFRkSE85TXpPUUoycmtSMHNfdG9OUFFWMzcyaHlZQWxCQXNZS3FPLTEyNmNwM0M1SnJYWWdrUkZ3Vk9WY1pBelF5TDQxUk1KTFlOUzR5MnVDNWJrSFUzcVNqdng0NnZiUndHcktrdWM4RElQd0toRUxqNGFGNld2MTVkcTcyd3psTWpTVGlPUXA1QmlWZ0c1Q05ZajN4ZnhnM1lfODhvWDhmc25v?oc=5	政治	A
+2026-07-03	白宮股神｜特朗普被批「以權謀私」 加關稅前單日買賣600宗 數字貨幣獲14億美元收入	https://hk.finance.yahoo.com/news/%E7%99%BD%E5%AE%AE%E8%82%A1%E7%A5%9E-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%89%B9-%E4%BB%A5%E6%AC%8A%E8%AC%80%E7%A7%81-%E5%8A%A0%E9%97%9C%E7%A8%85%E5%89%8D%E5%96%AE%E6%97%A5%E8%B2%B7%E8%B3%A3600%E5%AE%97-%E6%95%B8%E5%AD%97%E8%B2%A8%E5%B9%A3%E7%8D%B214%E5%84%84%E7%BE%8E%E5%85%83%E6%94%B6%E5%85%A5-050107318.html	政治	B
+2026-02-22	國際財經- 關稅丨特朗普宣布將全球關稅由10%上調至15%	https://www.hkej.com/instantnews/international/article/4323694/特朗普宣布將全球關稅由10%上調至15%+	政治	A
+2026-02-22	一文讀懂特朗普最新關稅措施：他宣佈的最新全球關稅將如何運作？	https://www.bbc.com/zhongwen/articles/c20zp13zgjro/trad	政治	A
+2026-02-22	【本日焦點】川普課15%關稅僅2國躲過各界反應一次看／日本裸祭爆踩踏3人昏迷不醒／初一摔傷昏迷陳光復「睜眼了」	https://tw.news.yahoo.com/【本日焦點】川普課15關稅僅2國躲過-各界反應一次看／日本裸祭爆踩踏-3人昏迷不醒／初一摔傷昏迷-陳光復「睜眼了」-094110039.html	政治	-
+2025-11-07	特朗普：若關稅裁決失利將是災難 改口認美國人同樣承受關稅	https://www.hk01.com/article/60292267?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-10-17	特朗普：中美已陷入持久貿易戰 若沒有關稅將毫無防備	https://www.hk01.com/article/60286164?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-08-28	關稅戰｜墨西哥據報下月對中國貨加徵關稅 以滿足特朗普的要求	https://www.hk01.com/article/60270826?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-08-12	關稅再次展期90天 只有中美談判才是真正的貿易談判	https://www.hk01.com/article/60265836?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-07-06	貝森特：已接近達成多項貿易協議 逾百未有協議國恢復至4月2關稅	https://www.hk01.com/article/60254139?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-06-05	聯儲局褐皮書稱一半地區經濟活動下降 關稅引致成本上揚壓力	https://www.hk01.com/article/60244931?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-06-04	特朗普簽署行政命令 提高鋼鐵和鋁產品關稅至50%	https://www.hk01.com/article/60244569?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-05-15	美媒：特朗普關稅政策已改逾50次 白宮因支持者受害故降對華關稅	https://www.hk01.com/article/60238583?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-04-21	特朗普關稅｜芝加哥儲銀稱關稅促居民囤貨 憂夏季經濟活動轉慢	https://www.hk01.com/article/60231327?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-04-10	4月5日生效的一般關稅10% 美暫緩對等關稅90天 全球主要國家態度為何？	https://news.pts.org.tw/article/746377	政治	A
+2025-04-05	特朗普關稅｜日本遭加徵24%關稅 任天堂：Switch 2美國預購暫停	https://www.hk01.com/article/60226636?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-04-03	特朗普宣布對等關稅 日韓台同遭殃 越南、柬埔寨關稅比中國更高	https://www.hk01.com/article/60226037?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-02-04	美國對華10%新關稅生效 中國針對美能源領域反制 推至多15%關稅	https://www.hk01.com/article/1099910?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-01-09	美媒：特朗普擬宣布國家經濟緊急狀態 作為廣泛加徵關稅法律依據	https://www.hk01.com/article/1092161?utm_source=01articlecopy&utm_medium=referral	政治	A
+2025-01-09	CNN︰特朗普考慮宣布國家經濟緊急狀態 以推出新關稅計劃	http://www.hk01.com/article/1092183?utm_source=01articlecopy&utm_medium=referral	政治	A
 `;

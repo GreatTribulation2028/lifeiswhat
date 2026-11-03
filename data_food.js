@@ -1,4 +1,4 @@
-// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 146 條
+// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 150 條
 var DATA_FOOD = `
 2026-10-20	阿富汗糧食危機惡化 聯合國估4月前逾1900萬人面臨急性缺糧	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnMTdxQnlXT0ZHdHRhZF9Gcmc2eUoxUzF3N0ZkZnFmNFYzTkw1ZFEwdlhMZGJIRTBVcjdHTm5aWFlZaFhjcnE4ay1COVNkNnJmNmxzc1FpdmNyLTQ0ZE83dA?oc=5	糧食	A
 2026-10-20	聯合國示警阿富汗糧食危機：明年4月前恐達1920萬人面臨嚴重飢餓	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjdTVsbTFBZE0yUHJrSFVoV0JKcTItSVpVd2FScHJpT05wSnVrVDFwRUZfTWl3MGVuMHA4MUxia2ZKWGZhNGZBUXFidzhOaXBFTjNYY01qYW43NHlkWU1Ycg?oc=5	糧食	A
@@ -137,6 +137,7 @@ var DATA_FOOD = `
 2022-08-21	古特雷斯：俄糧須進入市場 否則2023年爆發糧食危機 Hunger	https://www.hk01.com/sns/article/806139	糧荒短缺	A
 2022-08-18	歐洲遇500年大旱，「垂直農場」能解糧食危機嗎？	https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kNjU3ZTBMeWVZdWJ3dDUyX1Nfcmd5X2VOLTJVdV9LSS1xUFRtRW9zV1NFZDF6VUpNXzEyV3B3TURmUmM5UmQ5X3NOdlY?oc=5	糧荒短缺	B
 2022-08-15	玉米小麥失收、牛奶荒來襲 歐洲如何應對500年來最嚴重旱災？ No Water	https://www.hk01.com/sns/article/804127	歉收饑荒	A
+2022-08-11	糧食供應.兒童保護 飢餓三十搶救阿富汗 Hunger	https://news.tvbs.com.tw/life/1873368	糧食	-
 2022-07-25	北韓又見糧食危機！被爆接連餓死人	https://autos.yahoo.com.tw/news/北韓又見糧食危機-被爆接連餓死人-070411976.html	糧荒短缺	B
 2022-05-26	糧食危機：肥料價格飆漲下泰國米農艱難度日	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpUFhxWHhSTGR2Ym5fZ0hTUjlLckxIcTN1WV9MS05jZ0p2cDZQXzE3MG5xNnF2QlI1VjFlODlCbWRaSmVGa0NNOWJ6b05WX09mbUFfdkZZTlc5VmJLVEUycdIBZkFVX3lxTFB1aFRZSmZRUFkwazVvY0NGMUM4VlFxSTRBYWp1WnVER2ZWUUFhWVp1emgzbnpNQzkyVFM3ZEo1STdsVnZ2c1kxWGUtaU9aZnhHakZ0MmhHUnJ2MndFZFdESGRJdm9WZw?oc=5	糧荒短缺	B
 2022-02-10	一片80元雞排背後 糧價新風暴	https://tw.news.yahoo.com/%E7%89%8780%E5%85%83%E9%9B%9E%E6%8E%92%E8%83%8C%E5%BE%8C-%E7%B3%A7%E5%83%B9%E6%96%B0%E9%A2%A8%E6%9A%B4-082330840.html	價格暴漲通脹	B
@@ -145,5 +146,8 @@ var DATA_FOOD = `
 2020-07-09	廣西蝗蟲災情慘！中國將爆糧食危機 農民無奈喊：準備搶糧	https://www.setn.com/news/776824	糧荒短缺	B
 2020-03-03	蝗災：氣候變遷加劇，敲響全球糧食危機的警鐘	https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZ0tYSU1TUHZFcTIzVXpNMmdfQlk5TzMzZ2VoODlRUkJ3eHQyNVlGR182ckR2cVVIYVZVOEdZaVRldHByNkZ5NHFYNS1OTVFmQ0Zqc0ZHOTlPNUVBSy1wSl9MQWVjbV8yZ1E0QndJRDVFVlE4U1BlMUtNSzdzV2l1aUNpUzhxVFRfYTN4UnRGeDZmbTlla0dMZnlGVjA1c1YwbFp4dV85QXlDNEo0c0ZTRXRDbHpKLXJZcF81VTIzanh5anZoaWVacUlxVlF1Vnp1ZDgwMy1lbFU2YmtxZ1lNWG9uaENNVXNXaFUwa3BnaE9DNnItRk9hZTRhbF9ka1EtaVYzSHZPOTc0Ry11VUZtbmo4QURMM1llYTBqV2JzV3ZaLU5VNEVnZmlsSk9lV2hCRzFNWjN1c2NPNHpJelZSeEZYZXFuSFBZYjJnb055ekQ3blpDcHhVdg?oc=5	糧食	B
 2020-02-28	中南海拉警報！蝗蟲大軍侵全球 一天吃掉3.5萬人份糧食	https://www.setn.com/news/698156	其他糧食	B
+2017-07-11	非洲糧食危機2017:工作報告3	https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVZzbW8wZnFUQzlHbXJRWV9XVWtodndtN1lTQWMtOV8xWV9jV3R3aEpXVE9hSWRkdGw5cmowYUZMTmdLYmZjQWs2WE41SFpjMHRQcy04QkVoakJNQUtyREtzejBTa000bzZxbFFqLWJHT3pvZ1gzOTZGU3kyREFvQ2dZUTlZRkRBcHcybXRR?oc=5	糧荒短缺	-
 2016-04-16	熊本強震／領2飯糰排隊2小時當地台僑：糧食開始短缺| 國際	https://www.setn.com/news/138797	糧荒短缺	B
+2026-09-06	喝完酒竟體膚發藍死僵！印度村落爆假酒慘劇至少12死	https://www.setn.com/ampnews/1902558	悲劇	B
+2025-10-09	慘阿!全球因為糧食通膨導致住房合約違約崩盤	https://youtu.be/5jj0L3ylmZU?si=AL1ndDBFeakzshY7	經濟	B
 `;

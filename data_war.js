@@ -1,6 +1,19 @@
-// 戰爭 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 609 條
+// 戰爭 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 625 條
 var DATA_WAR = `
+2026-11-03	陸軍第206旅少校心肌梗塞離世胞姊致函盼外界勿抨擊軍方| 軍事 | 要聞	https://news.google.com/rss/articles/CBMiUkFVX3lxTE83NXE1QXh3VFFhRXFkckhRYzF5c2JLYUgyTjJTUEJINjBJUzUxc1lpOWdVWURDSVk1N2VaQV92WmRhdWdSOFFoc3FVbi00NEVxbVE?oc=5	戰爭	-
+2026-11-03	陸軍半月3起憾事：家屬說盼別藉此抨擊軍方- 政治新聞	https://news.pchome.com.tw/politics/nownews/20261103/index-79368019012476207001.html	未分類	-
+2026-11-03	美期中選舉／伊朗戰爭已歷時八個月 美伊衝突將如何發展？	https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wbWNncjRBbW5uUnpNOHNyUmIwUzNDaWQxb1dERmNIMEVXRU5mU2xxVXdIX28zZ2wwRzdoQUFfeldxQWpDcFcwblNWVExRblV3?oc=5	其他戰事	-
+2026-11-03	美以恐選後再攻伊朗！華郵：中國急展中東外交 爭取區域影響力	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lV1F3LWt2eFBqRnJlU3A3SGwwQWF5N2F3Q2YyUHowX1ZqSUxwQi1OQld2Mk5SeWkyLWZTZzJSTlpjWTYwdWx3cnI1Tnl5WXhodHlF0gFYQVVfeXFMTTUtSVphYjlNeFRYVzlCVUM3dnAwZ0FGeWVKbld5OEFrTURwYV9sdXNLMndOX1VMakZ0dERvRjd0OS1HMVB6XzBET1I2N1cyYnF6aWxGYzJVRA?oc=5	中東戰事	-
+2026-11-03	澤連斯基稱俄軍襲擊扎波羅熱居民區致18死	https://news.rthk.hk/rthk/ch/component/k2/1876308-20261103.htm	其他戰事	-
+2026-11-03	朝中社：日本正快速變為戰爭國家- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTE5sblNZYnNKS1g4djZLems3Z0FmNzJCWlE3MFZ2dFQ3aHc0dlIyM0kzZjc1Z051a3YxMFFRNXVIU1NZbHFoVlhmY1lyRzBoOXU1WEltems1Z3FQWVo5RDhwZzNQZldsUC1Qb2hUdUg4MHlZdE5CWlk0?oc=5	其他戰事	-
+2026-11-03	朝中社:日本正快速變戰爭國家 加劇地區緊張局勢	https://news.google.com/rss/articles/CBMi4AJBVV95cUxPbmwzNzhKa0lhSW5TTzJXOENQb0pGZm1QQlRYUGxpZ1QxajVDOExPNjJMQl9ZLXQwa0x0WUk5bnpDYUxpMktxWDNzZF9UenBpZGl6LW45MjBCZDg4amZaWTV6dGkyei1odjNDQ1dLRUV2d1RxVVZHMGlvQWY1TVI2NDFNU0ZaZE1LdmV4dUxhR2RKQTJYWjFmVkxEQlRxVFhieUxfY2IwV3ZnTmFPM3pwaC1EUnFKanlXZm5TbmNrclVpTWdXTFIxb1NHUTl4VUttWFA3V182ekE3bWgxVHMzNFpfazVoT3ZSbFhEOC15Q1BXNUpjY3JzUmFyLTY3aEYwTTZudGwtWDJScEJON2tXSXJLd3p6Mlo3SjE1YUhLemdRRFV4a1hrZWVST0JidzdYQkZlbm1tN1ExYzc4YUlsb3hBUVZvTVdLQUlFYlVTRkwzN3gtNUV1d2NVWk16RUlx?oc=5	其他戰事	-
+2026-11-03	據華爾街日報：國際能源署（IEA）表示，受伊朗戰爭影響，全球液化天然氣（LNG）供應可能面	https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm5iQWowUVk1a0QyR3I4TnFiR3VJbHJoMFZLdXFIMEVJeVk4WGRHb0RHNHdTQVFmekkxanhoazdCaWRNRmt5em9nMDRJRVNSTmJNR1g1Ukt2dkdpcjFjaGdVd0lxN3ZWV3NGb240TnN6dS0xSUVudXk5anF4NUFPYWFxVVJOYW1tVlJCSjZ3SExZTGktZG9kcTRMOGVnMi0tV2k2Z0lUR1FXUWdVRmRIckNn?oc=5	中東戰事	-
+2026-11-03	俄軍無人機把黑海變致命航域！至少12艘船遇襲、30名海員死傷或失蹤	https://news.google.com/rss/articles/CBMinwNBVV95cUxQMDJnSjBlSWhXZGZkQUdYQUpDV1F6OENKMlN4enJQdV9BVDg4M3ZLXzNJemlmRXlfYnJuNUNQMDVCSnV0dnFydWFuWUFaUVZlS3psaXhZQ1Y2YzNDTlZNekhrVUJzUXoxXzE1MDRheUl3a05WeExTX1ZFYjBVZWF0WXpGeTh0M3JqNDNxdEQtcGZNYV9Jay1HbFNqRWF0WDluLVhYUjRRdTZpMlZLZ1lOVnMwa1RER29LemJWaXlaOUtlWjYtTG5kNlJ0UGhmbUk2VHNreGdRZENHbldkdTZsbloxWGlEX0hJOGlsclZCX0ZvWlJOOWxOZHBWQXlhdjEtXzBvUWxOdm5QbmVOWW5rTE5QOFpZYzVsbms5RlhpRFQ1X2h0Q2tOU2dsOGdmVFVFekVDTnNDVzViYncyd0NMb3Etc1lPdnp4Z1ZrT3Mwc05RZjVLYTZvVVhKRkdDd3l5Z3VHM1E5NU9XMmFFZ3RfWktBMWlpZlV6eWNZYm8yZlAzUEt5RV8ySzlVcG4zREI1WWIyWHVLY1ZUTi1PUUlB?oc=5	戰爭	-
 2026-11-03	俄烏戰爭｜烏分發物資學校遭轟炸造成26死、27人失蹤- 有線寬頻i-CABLE - i-CABLE	https://news.google.com/rss/articles/CBMi2AJBVV95cUxNNXJoajRCQi1KQWJCemxfZ1JqMUotcGljUl9jZ0xnRXFycWxleHVRS09NLWk2YjR0azN5S0x3N2E1X3hBb3c5dllwSjFUV09HekNWT3JDWGhBeHZrQUZpX1FMYlpOQWg1dFJ1dGMzOEYwdlNaNi14RTVlSzA2ZmZuclNHTTFlc0ZYNUJvQzdrNk9CN3NEaV9MLWhoQmdvYXpRSGZJY0pZWVoyaGlrOWVleW01VFB1VHB2Vkt5Y19hNC1XcHJaR0VUTVVmLU5aQjRaREZjWmlfRUxCaHZpSFg5OVYweEJ1NHRpNFdxcGpEVkRCUndfQ3JGTDZya0VIZnI5MDlfZmJTV1F1VjFKY2x1U0E2Q19LV1ZsdWpNazRhalR5MklmTFhJY3Q4T1FNOG9pVWJXcmJ0U0FaM1VnelBIM1dzem14dWJ6WHh3U0lGelc4Q2NQUWtnTQ?oc=5	俄烏戰事	-
+2026-11-03	伊朗議長：伊朗處於最高級別防禦戰備狀態 美方必須阻止戰爭發生	https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0o4UVk3ZkRxcFlFOWF3dy1mQ2ZMQXo4YXJES2l3Y3h6aUhJRmc2MUdreWNJTWJ0RjNGc1V4Z1BmQ2hSV1ZLbUY1dGF4ZG9uZmw4OHpJVFNrV3FUaHNpN3B0UUpQTk1vYjRpZlVyYlV3ajQwZG05V0R5bW5SZXoxUXZadTFmRzA?oc=5	中東戰事	-
+2026-11-03	伊朗局勢｜外交部：希望相關方通過對話談判化解中東爭端	https://news.google.com/rss/articles/CBMihwNBVV95cUxNZ3JKUWtMMUxpNUxJY1dJQUlqbkN4QTZJNTNMNUNDZFpRTENWOFM5b1JMcldTMEZYVWtmLXlxTjhSREhOTGJrZXhnbTdqd3o5YWRfSjZGQUwxSHNvckFRMUF6TVIxMlBlMUxpeVBOdGxLN1NVM09SSDdvT2ExQmZGNUl5Nk5WS21OeWVmeGZnWEsxczJfTG11TTdBOUExX2FreldzU2lIUTlGWC1GWlE3azhHcEJVdG9DQnQwYTZjTjV0bjNlUFoySUFhWl85b0x2OVlUcWZIdGtFMl8tY1QtNl9HVDlTRGdLajEtRHgzQ215NVd1NHVrTEtwbElrTmxwM1RqQkdNSlBGdk5QOVdOMWJKMmVyRTkzb3B2b1NDdjVrcVBGZE03dGpzS3Q4WVVXdURsWEN1U1U2Zm0xZDlDN1JUdWRKMFE3UW9waTNwWElFZ0ZZTnZrb1M3dV85MlQzY0tjSDVoaXBHSWltRi02dk5TWWJ2Qk1zV29kelN1NzRXMUU5NFl3?oc=5	中東戰事	-
+2026-11-03	中東局勢丨伊朗官員稱與美國仍難達成協議	https://news.google.com/rss/articles/CBMizAJBVV95cUxOVmZsM0dMamJaQ2ZMWEN5M0VIRDYwZjR2NnJ4dmdPdEpKQkdxYmxsSkdvWDFFZWtmN25YR3dRYl9nTGNnVjhjR21IaUY4UGFETV94QUhvRVZNS2FzRFpPbWdGMUN0Zmd2cE9scE1rS3JTR0Q2aHdONEx0Qm05MWRETHM5eG14YlhxS0xGSVdUMzNuOG9vdDdDYXNkRUVPOVNWRHliR251YW1WRm4zLXRCYjlIS0hCUXV1T3JZVmZkTG9TcU04WjhUX2hnbFlOU3A1NU5lYTBzMUJ2QUlSVUVmTEM5Z2hDR1o3QnRzQlZyMzZ1WlFlV3A1emNhWEtKZHE2UU5PYms2c2laVmlGaVRQTzdTc0lwWkJ3N3E0SS1rWG5nSGVVUW5MOUkzeDdBM1BYdng5YXVrUE9jX052QWJFaGNmdDlVQkRyVGxUYw?oc=5	中東戰事	-
+2026-11-02	玫瑰戰爭｜相隔17年再合作 陳豪演大老闆幕後操控楊茜堯 (18:46) - 20261102	https://news.google.com/rss/articles/CBMijANBVV95cUxNay1MWWZYSnNsVE5rbThHSmZ1T2c5QUtTLWFMcEw4VG9EMF9HeGJiTEdLdVVOQ2lCY0RwQkF3cl9OemhzaXQyVGM2cDgzSE9RSXB3WUozdmhoTTBPbTNjUHVEbnVRR0VBcnVaSmR6Z3BSSW9GaGxSX2ZDVzRIc3FrMzVYSGhFeF94NzAySnowTTFnR1dGOUFNQTlyZmpKcW5nSDdfd0dSbFdoS2UzRFk2U3hCZ1hRS1pEV0VWM3gxNllOUWVyakI1Qi1NQlNoWHNpZWtVenYxemNZTXB4S0VYamJmdmowU3ZhdjhQWnBFQmxQVEowcjZ1eHhtdHBGMHJfbklPZmdrWFJ0elNBY3VhdmxwQVJrXzBocGJPS3dCNm9uckpTc3NmVnVKOGpVQ2ZmZnNHMXVsSzA2Tjljc3luWVJPTkhENmtYTy1iNDM2R19LNWZYWW5iLUNUWHR6bUE2NjF2N0dQQTdiSGctN1NfcWk0TUJmMk9JR0pFZnVmcC1MWlZBR2tGZzM3SVo?oc=5	其他戰事	-
 2026-10-30	敘利亞戰爭遺留物頻傳爆炸 3童死6童傷	https://news.google.com/rss/articles/CBMif0FVX3lxTE1hV19ZSndsNkkyRV9Rc2tjQ1BvYnI2aEFoYlZEOXZ0NWVMYWdzbnlVcklJSy0teTFyS0txd3VrZVBLRW0yQVlaTHNscjMwV0UtanRGaGRLMGZoUnlQdWJlVkpYWkxfTXEyTlBNSWRJRF9ESm41WVRFNnJCVm5zT03SAWdBVV95cUxNNTc3Y0ppekR6eGc4cTE2eFBzSkg5bVdTbmtDMzBucUpIRFlXUlY2Z0ZwUEJybTQ0cWxjUzJLakIzOHVTQ00xSFo4S0w5MGc5NVNjamVKa09OTzdsVlVld0ZGQVl2SWtz?oc=5	中東戰事	-
 2026-10-30	俄羅斯無人機襲擊烏克蘭火車站 至少14人死亡	https://news.rthk.hk/rthk/ch/component/k2/1875878-20261030.htm	俄烏戰事	-
 2026-10-29	俄羅斯無人機襲擊烏克蘭火車站 至少14人死亡	https://news.google.com/rss/articles/CBMib0FVX3lxTFB2bXJmMWZZN0pORmx6OW5Hb0wxTU1UdlNEaXdhOHk3RkU4cmo3bnVLemdFTGVHM1R1XzV5c1g0Q0x5aWEzLXF2bENac0ZHLVdyV3I4TVZaVTlGWktNZ3AtU0RrOXVUdnZjZ0xZU3BYZw?oc=5	俄烏戰事	-
@@ -454,7 +467,6 @@ var DATA_WAR = `
 2026-08-25	英國允烏克蘭獲取導彈生產數據 俄羅斯斥火上加油	https://www.881903.com/news/amp/international/2646645	俄烏戰事	A
 2026-08-25	海地幫派襲擊農業社區釀多人死亡 聯合國指逾150 萬人流離失所	https://www.bastillepost.com/hongkong/article/16633159-海地幫派襲擊農業社區釀多人死亡-政府譴責稱不會	難民人道	B
 2026-08-24	英國｜貝安德將訪烏克蘭 承諾加強烏遠程導彈發展	https://inews.hket.com/article/4181438	俄烏戰事	A
-2026-08-24	泰國南部周六爆逾50宗縱火炸彈襲擊 一度宵禁 軍方指圖製造不穩 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/497377/%E6%B3%B0%E5%9C%8B%E5%8D%97%E9%83%A8%E5%91%A8%E5%85%AD%E7%88%86%E9%80%BE50%E5%AE%97%E7%B8%B1%E7%81%AB%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E4%B8%80%E5%BA%A6%E5%AE%B5%E7%A6%81-%E8%BB%8D	戰爭	A
 2026-08-22	烏克蘭購物中心遭俄軍無人機襲擊 至少15人死亡	https://www.881903.com/news/international/2646249	空襲導彈	A
 2026-08-22	伊朗局勢｜特朗普指伊朗未準備達成合適協議 佩澤希齊揚稱最好盡早結束戰爭	https://news.tvb.com/tc/1190623-伊朗局勢特朗普指伊朗未準備達成合適協議澤希齊揚稱最好盡早結束戰爭	中東戰事	A
 2026-08-20	俄羅斯導彈襲擊基輔致12死33 傷住宅大廈受損	https://www.bastillepost.com/hongkong/article/16604756-俄羅斯導彈襲擊基輔至少6死33傷-住宅大廈醫療設施	俄烏戰事	A
@@ -501,7 +513,6 @@ var DATA_WAR = `
 2026-07-02	俄攻擊基輔18死 研究：俄軍戰死40萬人	https://www.ntdtv.com/gb/2026/07/02/a104111597.html/amp	俄烏戰事	B
 2026-06-30	摩納哥豪宅遇炸彈襲擊 烏克蘭富商危殆 (14:18) - 20260630 - 國際	https://news.mingpao.com/ins/%E5%9C%8B%E9%9A%9B/article/20260630/s00005/1782800159831/%E6%91%A9%E7%B4%8D%E5%93%A5%E8%B1%AA%E5%AE%85%E9%81%87%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E5%AF%8C%E5%95%86%E5%8D%B1%E6%AE%86	俄烏戰事	B
 2026-06-30	摩納哥公寓遇炸彈襲擊 烏克蘭富商及妻兒受重傷 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/479786/%E6%91%A9%E7%B4%8D%E5%93%A5%E5%85%AC%E5%AF%93%E9%81%87%E7%82%B8%E5%BD%88%E8%A5%B2%E6%93%8A-%E7%83%8F%E5%85%8B%E8%98%AD%E5%AF%8C%E5%95%86%E5%8F%8A%E5%A6%BB%E5%85%92%E5%8F%97%E9%87%8D%E5%82%B7	俄烏戰事	B
-2026-06-25	USB藏病毒日本陸上自衛隊電腦系統遭入侵1年未察覺軍事 ...	https://www.am730.com.hk/國際/1038052/usb藏病毒-日本陸上自衛隊電腦系統遭入侵1年未察覺-軍事指揮等極機密資料恐外洩	戰爭	B
 2026-06-23	伊朗局勢｜美參議院通過決議叫停對伊軍事行動 4共和黨人倒戈 白宮駁斥違憲	https://www.singtao.ca/7544697/2026-06-23/news-伊朗局勢｜美參議院通過決議叫停對伊軍事行動+4共和黨人倒戈+白宮駁斥違憲/	中東戰事	A
 2026-06-19	以色列空襲黎巴嫩南部至少16死 萬斯批不能靠殺戮解決國家安全問題	https://www.orangenews.hk/international/VMyjqd7/以色列空襲黎巴嫩南部至少16死-萬斯批不能靠殺戮解決國家安全問題.shtml	中東戰事	A
 2026-06-17	報復！烏克蘭空襲俄國首都煉油廠 設施爆炸畫面曝光｜#鏡新聞	https://tw.news.yahoo.com/報復-烏克蘭空襲俄國首都煉油廠-設施爆炸畫面曝光-鏡新聞-085909099.html	俄烏戰事	A
@@ -520,7 +531,6 @@ var DATA_WAR = `
 2026-05-10	韓國稱一艘船在霍爾木茲海峽被「不明飛行物」擊中美國-以色列對伊朗的戰爭	https://www.arch-web.com.tw/综合新闻/韓國稱一艘船在霍爾木茲海峽被「不明飛行物」擊/645420/	中東戰事	A
 2026-05-05	七國參與美菲聯合軍演 規模空前 中共緊張	https://hk.epochtimes.com/news/2026-05-05/27582422	軍演集結	B
 2026-05-04	烏克蘭軍方稱多地遭俄羅斯無人機和導彈襲擊 至少10死76傷	https://news.rthk.hk/rthk/ch/component/k2/1853416-20260504.htm	空襲導彈	A
-2026-04-27	馬里國防部長卡馬拉 遇汽車炸彈襲擊身亡	https://news.google.com/rss/articles/CBMiuAJBVV95cUxNd0VCM0VraV9femMtTFByb3hBQ015ZEhIREJpLWtmQ25BemFDSVNfNk1qUDhwTGdBMzcxa3F0cm9LSVJYMVZTUEVRWlRLdGg0YWMyRjBTRW44Y2NLdHdheXdIczRvdncwSDFmczFDRHpPSFlMWDFoeEFZS1ctYkdYSFFXaS0xX2NKTFVkcUVmZllCaHpmV01jRGg3UmR4UUY0WFBXWlJJOUVJZzdxQmJLYmxDd3YyZDRUc1hOeHRjcUZoaklwU3phUnJtVUZEdm9ERW1wbTdhWGc0a2J5blcxdGRpck9BYTZPVjlhbVByNTNKR3BucU1OYTVpTzlfbGdyUEN1N3JINTBkcV81U3l0cllvaHJRZm12XzUtaFd0R0c2ZkRhVWZFMk5RZTNTb0Z4S1BjbUVxcW4?oc=5	戰爭	A
 2026-04-26	烏克蘭指中部城市第聶伯羅受俄軍空襲 至少4死21傷	https://news.tvb.com/sc/world/69ec92cc06f3757d9b4fc800/国际-烏克蘭指中部城市第聶伯羅受俄軍空襲-至少4死21傷	俄烏戰事	A
 2026-04-25	以軍空襲加薩多地 至少12人亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260425/bkn-20260425070029957-0425_00992_001.html	空襲導彈	A
 2026-04-22	以色列襲擊已致黎巴嫩2454人死亡	http://hkcd.com/content_app/2026-04/22/content_8751318.html	中東戰事	A
@@ -535,6 +545,7 @@ var DATA_WAR = `
 2026-04-06	俄軍空襲敖德薩釀3 死烏克蘭反擊俄羅斯石油設施	https://www.bastillepost.com/hongkong/article/15841147-俄軍空襲敖德薩釀3死-烏克蘭反擊俄羅斯石油設施	俄烏戰事	A
 2026-04-04	伊朗戰爭｜阿聯酋攔截飛行物 碎片墜落引設施起火至少1死多傷	https://www.hk01.com/即時國際/60337204/伊朗戰爭-阿聯酋攔截飛行物-碎片墜落引設施起火至少1死多傷	中東戰事	A
 2026-04-03	美情報公司：伊朗藉中港企獲取無人機零件	https://www.ntdtv.com/b5/2026/04/03/a104082818.html/amp	中東戰事	B
+2026-04-03	打詐前線亮紅燈！北檢檢察官疑過勞昏倒 案件爆量釀人力危機	https://tw.news.yahoo.com/打詐前線亮紅燈-北檢檢察官疑過勞昏倒-案件爆量釀人力危機-021700424.html	戰爭	-
 2026-03-30	伊朗局勢｜特朗普：或佔領哈爾克島奪伊朗石油	https://www.am730.com.hk/article/1022200	中東戰事	A
 2026-03-25	俄烏戰爭｜俄羅斯近千架無人機空襲烏克蘭 至8死、50傷	https://www.i-cable.com/新聞資訊/449818/俄烏戰爭-俄羅斯近千架無人機空襲烏克蘭-至8死	俄烏戰事	A
 2026-03-22	不只缺油！伊朗報復點名「海水淡化廠」 威脅中東1億人陷斷水危機	https://www.ettoday.net/news/20260322/3136612.htm	中東戰事	B
@@ -543,6 +554,7 @@ var DATA_WAR = `
 2026-03-18	以色列再斃伊朗高官！國安首長空襲身亡 納坦雅胡：政權崩潰邊	https://globalnewstv.com.tw/202603/234132/	中東戰事	A
 2026-03-15	獨家影音／接軌現代作戰! 來第一視角直擊陸軍FPV 無人機攻擊訓練	https://www.msn.com/zh-tw/news/national/戰略這盤局-獨家影音-接軌現代作戰-來第一視角直擊陸軍fpv無人機攻擊訓練/ar-AA1WEzaj	空襲導彈	B
 2026-03-14	猶太教堂槍手4親人 日前死於以色列空襲	https://www.singtaousa.com/2026/03/14/news/usa/synagogue-shooter-family-killed-israeli-airstrike/	中東戰事	B
+2026-03-14	伊朗新領袖傳遭空襲昏迷、截肢 赫塞斯：臉部或毀容	https://www.worldjournal.com/wj/story/124278/9379713?from=wj_maintab_cate	其他戰事	-
 2026-03-12	以色列持續襲擊黎巴嫩已致634人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/12/AP69b22dc5e4b04d7d56d7fec5.html	中東戰事	A
 2026-03-10	美伊戰爭最新消息！伊朗已逾1200死各國傷亡一次看	https://news.tvbs.com.tw/world/3146853	中東戰事	A
 2026-03-10	中東戰事催化無人機軍備競賽，美伊對峙升級，韓國急起直追	https://n.yam.com/Article/20260310629506	中東戰事	B
@@ -569,6 +581,8 @@ var DATA_WAR = `
 2026-02-07	巴基斯坦清真寺爆炸31死170傷! ISIS背包炸彈客衝入引爆釀重大傷亡 總理譴責	https://tw.news.yahoo.com/巴基斯坦清真寺爆炸31死170傷-isis背包炸彈客衝入引爆釀重大傷亡-總理譴責-043201649.html	戰爭	A
 2026-02-02	烏克蘭礦工巴士遭空襲15死7傷	https://www.tdm.com.mo/zh-hant/news-detail/1173441?lang=zh&isvideo=false&category&shortvideo=0	俄烏戰事	A
 2026-02-02	以巴衝突｜以色列空襲加沙多地至少32死 八國譴責以方違停火協議	https://news.tvb.com/tc/world/697fd48be366b477d9ae8152/國際-以巴衝突｜以色列空襲加沙多地至少32死-八國譴責以方違停火協議	中東戰事	A
+2026-02-02	F-16飛官操演遭G力昏迷 空軍： 持續強化體能及風險評估	https://www.msn.com/zh-tw/news/national/f-16飛官操演遭g力昏迷-空軍-持續強化體能及風險評估/ar-AA1RZ7R6?cvid=ea89f42eb5ec4c28c1c282966b25aec3	戰爭	-
+2026-01-31	生父不捨女兒出養美國想要回法官駁：罹病常暈倒…無力照顧| 法律前線| 社會	https://udn.com/news/amp/story/7321/9300305	戰爭	-
 2026-01-30	（有片）兩港人烏克蘭戰死 鄧炳強：兩人接受軍訓圖日後返港「抗爭」	https://www.tkww.hk/a/202601/30/AP697cb5ffe4b0aa6cbcd3d27a.html	俄烏戰事	A
 2026-01-29	伊朗處決了一名被指控為以色列情報部門從事間諜活動的男子	https://citytimes.tw/資訊/伊朗處決了一名被指控為以色列情報部門從事間諜/592392/	中東戰事	A
 2026-01-23	美軍東太平洋炸毀運毒船釀2死！拘捕馬杜羅後首次開火	https://www.singtaousa.com/2026/01/23/news/world/us-military-strike-vessel-eastern-pacific/	戰爭	A
@@ -579,9 +593,12 @@ var DATA_WAR = `
 2025-12-30	哈馬斯證實下屬武裝派別卡桑旅軍事發言人死亡	https://news.rthk.hk/rthk/ch/component/k2/1837929-20251230.htm	中東戰事	B
 2025-12-30	俄烏戰爭：美國推動和平協議期間，俄軍戰死人數創下記錄	https://www.bbc.com/zhongwen/articles/c79x94217yeo/trad	俄烏戰事	B
 2025-12-29	ISIS涉謀新年恐怖攻擊 與土耳其警交火115人遭逮	https://news.pts.org.tw/article/788161	其他戰事	A
+2025-12-10	F-16V飛官台東訓練驚現昏迷 高G力風險受關注 空軍將檢討訓練流程	https://www.i-meihua.com/Article/Detail/39138	戰爭	-
 2025-12-08	泰柬衝突︱兩國邊境再交火泰軍1死4傷 泰總理今赴前線視察 下令4府民眾緊急撤離	https://std.stheadline.com/realtime-world/3524802/泰柬衝突兩國邊境再交火泰軍1死4傷-泰總理今赴前線視察-下令4府民眾緊急撤離	其他戰事	A
 2025-12-06	阿富汗與巴基斯坦邊境再爆激烈交火 釀4死4傷	https://www.stheadline.com/realtime-world/3524436/阿富汗與巴基斯坦邊境再爆激烈交火-釀4死4傷	戰爭	A
 2025-12-06	阿富汗媒體：阿巴邊境衝突造成阿富汗4死4傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202512/06/AP6933c7bce4b019322230a6f0.html	戰爭	B
+2025-11-22	清晨氣溫驟降！ 國小老師跑操場昏倒命危全校總動員鬼門關前救人	https://www.msn.com/zh-tw/news/other/%E6%B8%85%E6%99%A8%E6%B0%A3%E6%BA%AB%E9%A9%9F%E9%99%8D-%E5%9C%8B%E5%B0%8F%E8%80%81%E5%B8%AB%E8%B7%91%E6%93%8D%E5%A0%B4%E6%98%8F%E5%80%92%E5%91%BD%E5%8D%B1-%E5%85%A8%E6%A0%A1%E7%B8%BD%E5%8B%95%E5%93%A1%E9%AC%BC%E9%96%80%E9%97%9C%E5%89%8D%E6%95%91%E4%BA%BA/ar-AA1QICyO?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	戰爭	-
+2025-09-23	樺加沙｜柴灣四口家觀浪 母子捲走昏迷 父落水救人 獲消防救起	https://www.hk01.com/%E7%AA%81%E7%99%BC/60279183/%E6%A8%BA%E5%8A%A0%E6%B2%99-%E6%9F%B4%E7%81%A3%E5%9B%9B%E5%8F%A3%E5%AE%B6%E8%A7%80%E6%B5%AA-%E6%AF%8D%E5%AD%90%E6%8D%B2%E8%B5%B0%E6%98%8F%E8%BF%B7-%E7%88%B6%E8%90%BD%E6%B0%B4%E6%95%91%E4%BA%BA-%E7%8D%B2%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7	中東戰事	-
 2025-08-27	加薩醫院遇襲5記者亡以色列：他們非目標| 討論牆	https://news.pchome.com.tw/internation/crwant/20250827/index-75626072222113316011.html	中東戰事	B
 2025-08-27	以色列炸死5記者後稱「不是針對他們」 未解釋為何連環空襲 | 太報		中東戰事	A
 2025-08-17	難民應急中心遭民兵炮擊 31人死亡		難民人道	A
@@ -607,6 +624,5 @@ var DATA_WAR = `
 2022-08-06	以空襲加薩 巴武裝組織司令喪生 conflict	https://hk.on.cc/hk/bkn/cnt/intnews/20220806/bkn-20220806021525077-0806_00992_001.html	空襲導彈	A
 2022-08-04	台海軍演｜解放軍環繞台灣軍演 軍事專家：把台獨死死困在島內 conflict	https://www.hk01.com/sns/article/800104	軍演集結	B
 2022-05-26	【俄烏戰爭】俄封黑海阻烏出口引發糧食危機 今稱若西方放寬制裁願解封	https://www.kinliu.hk/news/kinliu/%E3%80%90%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E3%80%91%E4%BF%84%E5%B0%81%E9%BB%91%E6%B5%B7%E9%98%BB%E7%83%8F%E5%87%BA%E5%8F%A3%E5%BC%95%E7%99%BC%E7%B3%A7%E9%A3%9F%E5%8D%B1%E6%A9%9F-%E4%BB%8A%E7%A8%B1%E8%8B%A5%E8%A5%BF%E6%96%B9%E6%94%BE%E5%AF%AC%E5%88%B6%E8%A3%81%E9%A1%98%E8%A7%A3%E5%B0%81/82043.html?id=80&from=channe	俄烏戰事	A
-2021-02-18	抗議軍事政變！緬甸駭客攻擊政府網站 軍方封鎖網路	https://www.setn.com/news/898935	戰爭	B
 2020-08-29	中共軍演向南海發射四枚導彈 網曝一枚竟落在廣西！	https://www.soundofhope.org/post/416335?lang=b5	空襲導彈	B
 `;

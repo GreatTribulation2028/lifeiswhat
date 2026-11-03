@@ -1,5 +1,8 @@
-// 工業意外 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 652 條
+// 工業意外 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 721 條
 var DATA_INDUSTRY = `
+2026-11-03	影／台積電工安意外勞團要求四大基金監督企業| 生活	https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zRW1MR1pZaXE1WTBEWFN3TkdBNDduWHVZVUhoVU1zOUxZUFRWRmJhZm1GLTNENXF3TXpwbURwUGlHY1hsZnBoVEpB?oc=5	其他工安	-
+2026-11-03	台積電工安事故頻傳今年已釀6死 民團批未見改善籲建立股東監督制度	https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5UHFPNVlVdXRTa1hKNnZRQVdLWWRCRmJ1cTdzTkU1Wm9tblV2Y1ctcmNnQTQxaXpEbzdxWDVsV2U2aDdMbW9KcnRld1NCel80T2JxUmM5bDNfdw?oc=5	其他工安	-
+2026-11-03	台積工安意外釀4死 勞動部說話了！	https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96%E9%87%804%E6%AD%BB-%E5%8B%9E%E5%8B%95%E9%83%A8%E8%AA%AA%E8%A9%B1%E4%BA%86-055900813.html	其他工安	-
 2026-11-02	影／死亡工安意外！陸男騎電動代步車駛入施工區 遭壓路機「倒車直接碾過」不治	https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XVjVsTk9acGI2aGhVZ19VRkY3eDdYakVFUzFiN0xSZFdLc3FVMGNaQy1yQ0F2ZExsaGRaU2ZqWFF3QUtlb25OcUdqSFk0QQ?oc=5	其他工安	-
 2026-11-02	傳訊息給家人後墜樓！ 基隆市政府25歲男員工傷重不治	https://news.google.com/rss/articles/CBMiTkFVX3lxTE9naklzSDVySnNqcGI2SWlpN3l4cHRDZVhWRk9yTGdFSTQtXzhPS2Z6Y3p2YU1JRXpsNUI1ZGh2TDIxbXJuSExTWnpJbVpzdw?oc=5	其他工安	-
 2026-10-21	高雄台積電工安事故4死 2包商負責人涉嫌過失致死罪皆100萬交保	https://news.google.com/rss/articles/CBMikwNBVV95cUxOVHNKZ01WMjdlSUZ6S0hJbTA5VmJtM0Y2T3ZFWEEzZXY5SWF0WERkOTdLZEIxVExmazFnallxbUhuNjVJZkVhcFdwbWxINjFsUVpZaXdhcHNjZkVUeXhwT0tKa0RBa2xKOUxIbUtVYkNwbU5yZWZkbzFvNzJ4QXMxS0VPVEw0NmI4MUxsN0J2Qkl3R2JXQ2pPWjF1T3F4QkRDNVlHN1o2QzBaaUZKenlycmxnd2h5alFNWC1BLWpmMVFpNTNlMnR2S2ZFWXFta2VWWks1VTY3c3RGaVdQYTZRNnNQbUhHREdpbUNBekJVTThud0s2R1hXVldsOGdhNFpTVjRjTW41NkJTWkN4UE5wbUFyZ09Db1VtbktDcktydTdCYUhDRDZMU2R1YlJaX25DUkRKc185cU8yTVlvUVNQRzNfTFZleGdBbklzYlRkS01lTnFLNGdJc3RGcWVuQ3NUWGlmbTVzWUFNV2oxb0lMVnozLXVYcTFUbExUU2oweDNRRF9Db0xGSW9CU1VRLTNGV19B?oc=5	其他工安	A
@@ -48,12 +51,11 @@ var DATA_INDUSTRY = `
 2026-10-19	尖沙咀文化中心工業意外 女職員觸電面及手燒傷	https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PMUpoM04xMlh2aHdzbnYwSG5laENZNUktWjdVeGhkdjM4dWxuMG9oeE9kYW43WmhaYjhLaUZwRzcwdk1qM3BTa3Z4Ymw3ZTBtd3JHZHhlZk5RYzA3NjdBSm5NZw?oc=5	觸電	A
 2026-10-15	馬祖猛澳港工安意外 3作業員疑吸入氣體昏迷不治	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vN3RiRUxLWnZyN0RhcFBvLWxHc0VsazhKWXlvQ1p2eDgyQVV5b0E3Y3MtenVabGtZdy0zam9RcWV4cFdSUVFvZjctQXBiX3c?oc=5	中毒洩漏	A
 2026-10-15	馬祖東莒猛澳港工安意外 3工人沼氣中毒送醫不治	https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSFZIVUhWYTJ5emd0NTdCbVUyMHpVMmZBOHo1WXBPLW9TaExmMDVFWkhhSjJhdlhxNGtvSEhwWmVNS3JxUTZRd3cyMTVUX3VWYXNV?oc=5	中毒洩漏	A
-2026-10-15	英特爾工廠爆炸 PC 業警戒 供貨宏碁、華碩等 CPU 產品恐生變	https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xYzhNRGxJaV9WbjMxclRUeHVkbF82RU5tTERFY3ZJNExuVHNETkp2MnJrQTExcExXWFh0cnJTbEFKR1ZVYWo0UFhPaWlwcjlwbTRsSnJIaC1qQdIBX0FVX3lxTFB4YkRNaWtSWkVWaWtzcHdmY1o4UldHYTdxRUtCZDI4SkRqdFN1TC1tUDZiNTZpTEc2dmlBY0hLUks4RTJaYjlHb29jc0N5bnVXRFB6UkItVmxFdWN6VGhr?oc=5	工業意外	B
 2026-10-15	王忠銘召開危機處理會議 全力協助東莒工安事故家屬	https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mdDkxM0c0M0paZ0x4QzBCNGhjUTNuekc3SW5PWmhMeFlVSk9UNl9qRHZMMlphVTVndkgtemhBZkV2YXhkWkxXM1NtTUFDcmw5bTVmcHBGR2tnTTgxd0E?oc=5	其他工安	B
 2026-10-15	影音／馬祖工安事故釀3死！2工人船艙內失去意識 同事救援也喪命	https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tTWdTYnY4ZkRFQUVKczNabjNDV0pBeEh0UGI0b1ZUcjBMbXRvbjFWOTFHNUZ4WklEUXdvTTRIMDA0clRFQ1FHQWpJYXBMMjg?oc=5	其他工安	A
-2026-10-14	英特爾位於以色列工廠爆炸 3人傷	https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CRmpHTVBQTGM4cFd2bi1PSHlRLThGX1R2Y1Y4bGRka0lOREMtNEdLcDZTdW90TkZZLVUwbkJLQXQ4NUZ5bTBaeXk4YnRqZTNsc1R3S0ZHRVlibmpRWXfSAWNBVV95cUxQVmsyNVNlRXo0aWswUElHajRROWk0NDY0RW1JNWcxYmNjZXh5WDEzRG9Nb1MtdEFaQVFyRDBQR3RnMWtjMGttOFJaaDUzS3JaUTh0czNtTzJCRFJOaDVUUFJ3U2M?oc=5	工業意外	B
 2026-10-14	楊梅廠工安事故致死、勒令停工 欣興回應了	https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GMDZWQ08wQURqZVRwUWo4dXJXSUl2S1JyS244emd5Z1l6QkRfZERicEJHWHlTN0wzd1Jic3hONVVKeVRNRFZsaGMzMA?oc=5	其他工安	B
 2026-10-09	快訊／新北土城驚傳工安意外！工人遭鋼筋壓命危 緊急送醫	https://www.ettoday.net/news/20261009/3251873.htm	其他工安	B
+2026-10-09	快訊／土城千歲路建案工地意外！1工人遭鋼筋壓到命危送醫	https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnVzJfSVg0bjdub1JEY1lOd1duN1VFUjY4bXo5c3FBemxsX2doU0JTa05LcFNEbmFZZG51aDlHMzdOYk81STc3TNIBTEFVX3lxTE0xUUZSNEY5REdwZ0lVNW82ank5dnRrNTFhQ1FUVXUyZHZYS211aXhZMVY0aE1wcG9fdTZyN2tGdXBWYUtSSjZZRVNoNEQ?oc=5	其他工安	-
 2026-10-08	東涌致命工業意外｜房署：工人安全帶疑未繫於穩固點已指示停工- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTE9mUEZmT3RSMkE5LTRJZklraGZKek92bnhlRTFVMmVHbUxoTHFPQ3ZiYUc0TnB2endHZ1R5WC1HSmthY0dnaURqVXJZcUFjdHpXMm1UMXRVV1E2TTYxMDkwVTBNR1FRLTA0dUhBRWVxM215LTFaUDRHNTJR?oc=5	其他工安	A
 2026-10-08	東涌致命工業意外房署稱工人安全帶疑未繫於穩固點 已指示停工	https://news.google.com/rss/articles/CBMib0FVX3lxTFBKbzI3UFU1ZW5yb0hBcVNQTkVpT19KQjBNUWxIUXRyRVJFRnBHTE5OTTFhcklvWHB6dkJZWTgxSlhTVVFiSEdLRVFIWUUxQjdua0lta3NxZG16ZW0ydGZPaXJUQlFnMDl3UUgtZzhvaw?oc=5	其他工安	A
 2026-10-08	東涌工傷｜34歲孝順仔喪父後 為改善家境轉職地盤 遺母妹失依靠	https://www.hk01.com/突發/60397407/東涌工傷-34歲孝順仔喪父後-為改善家境轉職地盤-遺母妹失依靠	其他工安	B
@@ -90,10 +92,11 @@ var DATA_INDUSTRY = `
 2026-09-17	電工學徒科學園觸電亡 4公司判罰41.7萬至90.8萬元 工權會：外判工程不等於責任外判	https://thewitnesshk.com/電工學徒科學園觸電亡-4公司判罰41萬至90萬元-工會外/	觸電	A
 2026-09-17	科學園工程電工觸電亡 官斥多層判商均忽視責任 罰4公司314萬	https://www.hk01.com/社會新聞/60391056/科學園工程電工觸電亡-官斥多層判商均忽視責任-罰4公司314萬	觸電	A
 2026-09-17	快訊／台中恐怖工安意外！36歲工人「遭土方重壓」活埋死亡	https://tw.news.yahoo.com/快訊-台中驚傳工安意外-36歲工人墜落鷹架-遭磚頭重壓無心跳了-070600928.html	其他工安	A
+2026-09-17	大角咀發生工業意外 男工人高處墮下昏迷送院	https://news.rthk.hk/rthk/ch/component/k2/1870484-20260917.htm	其他工安	-
 2026-09-16	深水埗工傷｜死者遺妻及子女陷經濟困境 工權會促僱主妥善善後	https://news.google.com/rss/articles/CBMipANBVV95cUxOeVgxT1MtdHdnX09OVFE2SFVWWENycnptUTVUdnRiR1ZuLXhkNXFZNjZDX3Z6bDhpRTQ3OGpRdG5INUc5SEQtVFhGcVBjLV9INDJNd2ZaaWFsWEJ4TU85TVZjUDFpNzM4cUdiVXlhOHpPeUlGbXZkbnRvem5ZblVzVENFemlwXzBoZ1NieHZ6M3JVbkFmLXUyTDBUbTIyZlJENGowM2VQY0I3UE02UkhpcXVhci1GUm83OW94dzJHV2haeG1CVndCQWNYeU1BUTFrNkNRU0h6S3Qzc1pnRU9LV1dVTmQ5cmdkdDNydEIzVG5zbHF2OGp1M2o1a00tWHo0bUJlb3owX2d5Q0VZd0dtWHFoVnNTZ1NXSzlQQXlwWDlWWGt4TUNKTk5lMUwwcUJCQllUSEVLWlAxdzJtZFhGcjJya0lBOTFuR21SdXozckNRQ1NsVVNhV0s5dmo0b0hvZ0Nhb3B4QWhTdEdyUlV1eTIwd1AxMEwwX0d0d2h1ZjRic3hyUFJDbDhydnM3WGxUT1pWR2FVdnRFaEFnRXQ5ZkRiWnI?oc=5	其他工安	B
 2026-09-16	深水埗工傷｜業界指唐樓外牆石屎不穩 高空工作必須用獨立安全繩	https://news.google.com/rss/articles/CBMisANBVV95cUxQeHNMMzZSQlRoeFRNbG9lelBhVkJMU2hMWjF3WHdCYzF2YkQ5WE1kY0hLY21SODM4bmVXaHNtWFN5MUhzcWJ4d0xCZm85MWF6SExiNkdaQ2N6d2hsS21wQ01lRktpR282a3FDRzh5REZrX1VDUUNMUzN4bUJnTGNjY2tqSFJKamZQcjdtVElTT2RCaGFoNGdfYjNZc3czRTBQRlk2c0RXYVBrN1RmQ1ZTaHpnb0dpbWczanVjWEZwdEdScllWREM2NTh0V3FVYWwzWF82bGFDZ1ZEYTZfd0dUbUEtYk1vaU5pd0E0X2ZJdS1YNzVHNnBYNllSb2U3QkU3WFBIVHdWVVpZd0s4OTlaMGFhQTB1SUxGMmptZkkzM1lVck5mQWpYVVFGNUVnYVRGcmE5U2t0UjZiN2NSbl82OUozVVVhVjJWa2RXeFdTWjVkVzIxSVFSNmFvSjUwcGktMlFTbllRUVRZdlUtYUxYdUVjUzMydFg5cDZXT05BaTNZWVVkVjJVWG1rSWoxelp0OGtUQUp3dGdGTVlMUUVZNmg0N1RMSm11QmlzUEtFYVI?oc=5	工地墮樓	B
 2026-09-16	深水埗工傷｜政府承建商男工墮斃 屋宇署命承建商暫停代辦工程	https://news.google.com/rss/articles/CBMipANBVV95cUxQb1pPXzZDN1Jha1lXeGpsS0dwaF9mc2QweG5wNTdkSDVUbFpFd2VEeEdoZVJENmtwY0ZCbW9YQkoxQU83YUlBSnRRUTFkVXZ6c3pRa0FxVUttV3RqWi1SR1g1Zk10MGRqZDZQRC1DS1lydnNlUXNiZllvejI0RV9tTjVFQlYzT2hLM1MzOEQxX19LWFVua25tdEU0YllnNjFNWndGV2hseTAydV9CMmFQcVpxNGRKYlFKbHlUU1ZVVVRya0JCNE1mbDRFRVpYWnZ2TWY1bkZUMFVMNEdwbmJFV2U4VjRZN0ZBQVhDWW1tRU5sUk16bjk3cDZKSHFlY0JvdjVvZ3BlbUl4UVBhZGhWOV9oR3VBU3VZeFNON2NJeXZkdWVQU1V5TFdfWFppRHBEYzIzZjBab205MktmcEYybjN6Mko2UE1TLWZhelNXUUd2Vk4wS2FweE5ranVkbl9tdWR2WFRmSXBpZXRLVDF4NzM3NWFTeGtoRlJBZEZ4VXMxaXA5VjVtc0NTR3F0NEF3emlrVC1lYTgzbEJnc3J2aXQ0ZXY?oc=5	其他工安	A
-2026-09-14	快訊／東京工廠爆炸 疑瓦斯氣爆玻璃噴飛釀3傷	https://news.tvbs.com.tw/world/4021818	工業意外	A
+2026-09-11	深水埗棚架工人疑失足墮平台 頭部重創昏迷	https://hk.news.yahoo.com/深水埗棚架工人疑失足墮平台-頭部重創昏迷-060639770.html	其他工安	-
 2026-09-11	深水埗工傷｜政府承建商男工墮斃 屋宇署命承建商暫停代辦工程	https://www.hk01.com/突發/60389272/深水埗工傷-政府承建商男工墮斃-屋宇署命承建商暫停代辦工程	其他工安	A
 2026-09-11	勞工處派人到場調查深水埗致命工業意外	https://www.bastillepost.com/hongkong/article/16747875-%E5%8B%9E%E5%B7%A5%E8%99%95%E6%B4%BE%E4%BA%BA%E5%88%B0%E5%A0%B4%E8%AA%BF%E6%9F%A5%E6%B7%B1%E6%B0%B4%E5%9F%97%E8%87%B4%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96	其他工安	A
 2026-09-11	勞工處正調查深水埗致命工業意外原因	https://news.rthk.hk/rthk/ch/component/k2/1869686-20260911.htm	其他工安	A
@@ -105,7 +108,6 @@ var DATA_INDUSTRY = `
 2026-09-07	電工學徒3年前觸電亡 遺產管理人入稟提傷亡索償 38歲電工男學徒在科學園進行太陽能板工程時，於倉房觸電死亡，總承辦商等4間公司去年被裁定「沒有採取措施以防止發生電力危險」等傳票罪成。死者遺產管理人昨入稟高等...	https://www.singtao.ca/7620865/2026-09-07/news-%E9%9B%BB%E5%B7%A5%E5%AD%B8%E5%BE%923%E5%B9%B4%E5%89%8D%E8%A7%B8%E9%9B%BB%E4%BA%A1+%E9%81%BA%E7%94%A2%E7%AE%A1%E7%90%86%E4%BA%BA%E5%85%A5%E7%A8%9F%E6%8F%90%E5%82%B7%E4%BA%A1%E7%B4%A2%E5%84%9F/	觸電	A
 2026-09-05	工業意外暫停重鋪跑道 九龍灣運動場延期重開	https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTGxUZWxaR0JtQlROX1hSd0VxdGxNaEJoNGwxQUdQaDVpeE42Mm9nNVlDbHlRSjMzVVdabkEzcFlYLTFYbVZuXzFRSjhJdnNxdzlTU2RuRy01RzRtSjF3Wk5vd1hOTDV6RTJibUlmTVBEa3hTZnpKUUZNa2hqal9sNTJvYXlqZGQ4Y0s0dnZwM1YtR3pYNktNUVFVOTAyNkY1UkRUZGJ0OVBoM1k3c1RSQm9WMjVhbkkza1d4d2l5N2NjaHhIbk11eEdqV3V6RjVBbHBEN0h4dTdBR3AyaGdXS1RxQWhHekk4NkVEYTByVzNocmFfVVl2elZmalNCeEplbG5pb3QwMFhSNkdhU2oxbnpXWTlQbnFJTTE4MnlZenNjRFBfSVFLamVpWjhpMi16VF9JS3VQN3AyZGYwMDFrTDk3S1lmY08xM01ZMDVCdUE?oc=5	其他工安	B
 2026-09-04	去年大埔致命工業意外 承建商被判罰款64萬元	https://www.881903.com/news/local/2648408	其他工安	A
-2026-09-01	俄一帶一路工廠爆炸：慘死的中國工人與普京的小金庫｜Whatsnew	https://theinitium.com/20260901-russian-bri-plant-explosion/	工業意外	B
 2026-08-31	台中死亡工安意外！「工人墜B4」頭部重創亡	https://news.ebc.net.tw/news/society/569047	其他工安	A
 2026-08-31	台中1日2工安意外 1死1命危	https://tw.news.yahoo.com/台中1日2工安意外-1死1命危-201000713.html	其他工安	A
 2026-08-29	南亞塑膠林口廠工安意外！外包工修鐵捲門觸電慘死勞檢處介入釐清責任| 社會	https://www.setn.com/news/1898168	觸電	A
@@ -128,7 +130,6 @@ var DATA_INDUSTRY = `
 2026-08-17	葵涌石籬清潔女工山邊暈倒 送院治理 葵涌發生工業意外。今日（17日）下午1時40分，一名清潔女工在梨貝街16號石籬（一）邨石俊樓對開山邊工作，其間突然暈倒。救護員接報到場，發現女工陷入半昏迷，... 2 小時前aJWbwf href n0jPhd UqSP2b OSrXXb	https://std.stheadline.com/breaking-news/3605201/%E8%91%B5%E6%B6%8C%E7%9F%B3%E7%B1%AC%E6%B8%85%E6%BD%94%E5%A5%B3%E5%B7%A5%E5%B1%B1%E9%82%8A%E6%9A%88%E5%80%92-%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86	其他工安	B
 2026-08-16	葵涌石籬清潔女工山邊暈倒 送院治理 葵涌發生工業意外。今日（17日）下午1時40分，一名清潔女工在梨貝街16號石籬（一）邨石俊樓對開山邊工作，其間突然暈倒。救護員接報到場，發現女工陷入半昏迷，隨即.	https://www.singtao.ca/7599377/2026-08-16/news-%E8%91%B5%E6%B6%8C%E7%9F%B3%E7%B1%AC%E6%B8%85%E6%BD%94%E5%A5%B3%E5%B7%A5%E5%B1%B1%E9%82%8A%E6%9A%88%E5%80%92+%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86/	其他工安	B
 2026-08-16	半山般咸道天降鋁架 工人被砸中肩受傷送院 警列工業意外	https://www.singtao.ca/7598767/2026-08-16/news-%E5%8D%8A%E5%B1%B1%E8%88%AC%E5%92%B8%E9%81%93%E5%A4%A9%E9%99%8D%E9%8B%81%E6%9E%B6+%E5%B7%A5%E4%BA%BA%E8%A2%AB%E7%A0%B8%E4%B8%AD%E8%82%A9%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2+%E8%AD%A6%E5%88%97%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96/	其他工安	A
-2026-08-14	意大利羅馬近郊有軍工廠爆炸 據報所有員工安全疏散	https://news.tvb.com/tc/1188996-%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%85%E9%A6%AC%E8%BF%91%E9%83%8A%E6%9C%89%E8%BB%8D%E5%B7%A5%E5%BB%A0%E7%88%86%E7%82%B8%E6%93%9A%E5%A0%B1%E6%89%80%E6%9C%89%E5%93%A1%E5%B7%A5%E5%AE%89%E5%85%A8%E7%96%8F%E6%95%A3	工業意外	B
 2026-08-10	高雄鋼鐵廠驚傳工安意外！51歲工人15米高處墜落亡	https://n.yam.com/Article/20260810528172	工地墮樓	A
 2026-08-10	驚悚15米高空墜落！燕巢工廠外包工施工失足51歲男當場身亡- 社會新聞- PChome Online 新聞	https://news.pchome.com.tw/society/crwant/20260810/index-78633914340010316002.html	工地墮樓	A
 2026-08-10	恐怖工業意外●有片│男工人被卡切紙機 雙手遭整齊切斷 痛苦掙扎	https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60377606/%E6%81%90%E6%80%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%9C%89%E7%89%87-%E7%94%B7%E5%B7%A5%E4%BA%BA%E8%A2%AB%E5%8D%A1%E5%88%87%E7%B4%99%E6%A9%9F-%E9%9B%99%E6%89%8B%E9%81%AD%E6%95%B4%E9%BD%8A%E5%88%87%E6%96%B7-%E7%97%9B%E8%8B%A6%E6%8E%99%E6%89%8E	其他工安	A
@@ -136,15 +137,16 @@ var DATA_INDUSTRY = `
 2026-08-06	高雄橋頭區工安意外 工人跌落送醫不治 (圖)	https://tw.news.yahoo.com/高雄橋頭區工安意外-工人跌落送醫不治-圖-073423738.html	其他工安	A
 2026-08-06	高雄工安意外！墜3.5M高鋼筋…以為沒事竟「隔夜死亡」	https://www.setn.com/news/1884893	其他工安	A
 2026-08-04	台中港驚悚工安意外！工人遭掉落橫梁活活壓死…負責人1原因獲緩刑免關	https://www.setn.com/news/1883804	其他工安	A
+2026-08-03	九龍城男工人從高處墮下 被困棚架昏迷 消防到場救下	https://www.hk01.com/突發/60376256/九龍城男工人從高處墮下-被困棚架昏迷-消防到場救下	其他工安	-
 2026-08-03	九龍城奪命工傷│勞工處勒令暫時停工 停止使用涉事改建樓宇天台	https://news.google.com/rss/articles/CBMid0FVX3lxTE1pNGN3dmRhSW1WMGprS3RHVUdpbmhCT1dhbi1iTHZkWW1hSVVmMXJUT08zWmZ3VnR2Z1lvYVBjSWlTaFRnNFRxZ2ZKZ043eWxmSGVaVkpISkpLdHBYWEJkWTN6Qy1KNzNxb200MjhOVTBYcUFEZW1Z?oc=5	其他工安	A
 2026-08-03	九龍城地盤致命工業意外 工權會： 死者為安全工作人員遺下妻子及兩小孩	https://www.bastillepost.com/hongkong/article/16494759-%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%9C%B0%E7%9B%A4%E8%87%B4%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%B7%A5%E6%AC%8A%E6%9C%83%EF%BC%9A%E6%AD%BB%E8%80%85%E7%82%BA%E5%AE%89%E5%85%A8%E5%B7%A5%E4%BD%9C	其他工安	B
-2026-08-02	內蒙古年初鋼板材工廠爆炸事故 62人遭問責	https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3TlFhZC1VRVhMSXRLWThIeWF4ZkVxQ2t6WVJEMFEzVzd0TkpBUGdmZFBvRVYtSjh3QlZ0QjE2ZnJTcFFhQ1BpV1J1TEt1RjI2U1Vv0gFYQVVfeXFMTkEyQXp1ak1MOFdDcVl5S1YxT0Q1aTdHcm8tYnRNME1rWWF4YUYwSTVSempVckp5MlR3MmxTUzdKc1pUekJsV0lJbmVGRVRDSno5RmdvVFVVNA?oc=5	工業意外	A
+2026-08-03	九龍城地盤工業意外 男工高處墮下昏迷被困棚架	https://hk.on.cc/hk/bkn/cnt/news/20260803/bkn-20260803125924869-0803_00822_001.html	其他工安	-
+2026-08-03	九龍城地盤工人高處墮下昏迷被困棚架 消防到場救出送院	https://www.bastillepost.com/hongkong/article/16493625-九龍城地盤工人高處墮下昏迷被困棚架-消防到場救	其他工安	-
 2026-07-29	巴黎迪士尼鬼屋觸電奪命案 電工過世10年終開審 非首次工業意外	https://www.hk01.com/熱爆話題/60370752/巴黎迪士尼鬼屋觸電奪命案-電工過世10年終開審-非首次工業意外	觸電	A
 2026-07-29	學徒觸電亡 總承辦商等3公司全數罪成	https://std.stheadline.com/daily-hongkong/3598674/學徒觸電亡-總承辦商等3公司全數罪成	觸電	A
 2026-07-28	科學園電工學徒觸電亡 承建商及分判商涉未採措施裁罪成	https://www.hk01.com/article/60374624	觸電	A
 2026-07-27	工業意外︱六旬飛機維修工人疑失足6米工作區墮下 傷重不治	https://news.hket.com/article/4166763/%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%EF%B8%B1%E5%85%AD%E6%97%AC%E9%A3%9B%E6%A9%9F%E7%B6%AD%E4%BF%AE%E5%B7%A5%E4%BA%BA%E7%96%91%E5%A4%B1%E8%B6%B36%E7%B1%B3%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%A2%AE%E4%B8%8B%E3%80%80%E5%82%B7%E9%87%8D%E4%B8%8D%E6%B2%BB	其他工安	A
 2026-07-25	陝西夫婦在雨中先後觸電身亡	https://www.epochtimes.com/b5/26/7/25/n14817126.htm	觸電	A
-2026-07-25	英國肥料工廠爆炸 當局籲關窗防毒氣危害	https://news.pts.org.tw/article/819339	工業意外	A
 2026-07-23	高雄工安意外！58歲工人高處跌落昏迷 送醫搶救不治	https://www.ettoday.net/news/20260723/3206223.htm	其他工安	A
 2026-07-23	高雄岡山工安意外！58歲工人高處墜落 搶救不治 - 社會新聞 - PChome Online 新聞	https://news.pchome.com.tw/society/ctinews/20260723/index-78477632061860309002.html	工地墮樓	A
 2026-07-19	快訊／台積電F20廠爆工安意外！交管工人遭大貨車輾 胸腹變形亡	https://www.ettoday.net/news/20260719/3203975.htm	其他工安	A
@@ -158,7 +160,6 @@ var DATA_INDUSTRY = `
 2026-07-08	大埔寨乪工傷｜死者獨處受傷 救護耗1小時始尋獲 子：係失救死	https://news.google.com/rss/articles/CBMikANBVV95cUxNTkttMWREMzJrLXFiWFVTRENmMUdlS0hqZS04LWJSX2haTmp3NFBnV3JyMUtPek1mZ2lJWGUtTXV6anFFUEM3QUtvZFluZW1tV2c5MG1hVXM1UFpsdjNidnU5WDVYZ2w4SVVSQW9wSjREaEFKQ1dDcThwZ1l0U010eEhaWmM1bHpiLU4tYm5RMGJNQi0xU0FGczJfTXdoSHZiZ0ZaUWdoUVpVcTlCTEFUZXhobWJmaXpCWFRLVnpGSnlmUzdBQS1zU2p6T09ra29fVkw0Qk5HU05XMzRSUHpLODFEZHdQMDNxemJxbVBYSmRaaGEzLTZTOEk3al9lUTNwRkoxMnVRcGl6S3FNYnRGYlFZNEIwQzhYX1VCTGxfdlZ2UDNrbzc5VXhmVkY2bDNYcUs2dVh2QmcwMTBSR3puVnYzcnpUU0xYQm1kbVdPOVcyTVBvQmJOSmN6TnRkYS1DS0xsNmhzQ05XWE9IM0N4dlBKZFRrTVZFNElhS2NMOXdDamU5M2lBMnNBWm41U1Zf?oc=5	其他工安	A
 2026-07-08	北市驚傳3樓墜落工安意外！54歲工人當場無心跳送醫不治	https://www.pinview.com.tw/News/60408.html	工地墮樓	A
 2026-07-08	兒子相信父親因大動脈被割傷、流血過多失救而死 #大埔 #工業意外 #救護員 #am730	https://www.facebook.com/am730hk/posts/兒子相信父親因大動脈被割傷流血過多失救而死-大埔-工業意外-救護員-am730/1515157707318493/	其他工安	B
-2026-07-07	河北邢台工廠爆炸被夷為平地 消息遭封殺（視頻）	https://www.ntdtv.com/gb/2026/07/06/a104112813.html/amp	工業意外	B
 2026-07-07	大埔工業意外 男工操作角磨機期間割傷大腿 送院後不治	https://www.singtaousa.com/2026/07/07/news/china/worker-dies-angle-grinder-injury-leg/	其他工安	A
 2026-07-07	大埔奪命工傷│死者單獨工作出事 救護逾句鐘尋村屋 兒批僱主失當致父失救	https://news.google.com/rss/articles/CBMi4ANBVV95cUxPMTlINVFfUmFPalVWNlhQM3FVXzFjcnZqM1dQWms5dnE5QkEwcGdKcERvaWlwc3AtQzZsa2M0elBFUFFsd1Q4cW9xVDNjTGltclVVdmlMN1NnTVJfVVI4LXN0T0REa3JGVFJEUDdELWdvQnZoUlU0bUYwVGNacl8zQmNhT1l2MXZHTDJrQUJvZzlNQjg1RmpHODk4NldyMWZ2ODhaYXNPWk9qaEFXOG84bmJCUnR6U3lUei1TME8tNjVYTlM2NHR4Vkt5c0ZkQ1FhUXVnakg2ZTlYQVRYYzkyTHVUcEpXaGVEMEpGcWFKbzVwTi1mVzhVd1pJSWtEUWpDRXVoY3NWQURWTVhtd01MOENEcXF5UGNmZHplTEF5WnRlR21ZZUp3Q2NYell1ZzJyRmR6WS1VZUJCeTlZWGJ5RlVERnlKRzNkOHpuaTk2X3dBWlpKMmdiTGYzTmU0d1FBN18wVXRDdW5zUTR3QUVFVzMtdldBRGJ2cnhOZzdCNmxVOVpQNGVwdFFUZmVsdFd6eFhJSHlBNXdyZENqb1B2NU1DWmNnUm9JVzNueWRWY0pOMHZ0VW5ZZXJTOFF5NjFxX2pjb0tmay05cmtEb2FaOVdoTmlONkNZQWM1ZV8ta3E?oc=5	其他工安	A
 2026-07-04	首半年發生逾十宗致命工業意外 建造業界稱趕工文化致地盤犧牲安全	https://news.tvb.com/tc/1180759-%E9%A6%96%E5%8D%8A%E5%B9%B4%E7%99%BC%E7%94%9F%E9%80%BE%E5%8D%81%E5%AE%97%E8%87%B4%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%E5%BB%BA%E9%80%A0%E6%A5%AD%E7%95%8C%E7%A8%B1%E8%B6%95%E5%B7%A5%E6%96%87%E5%8C%96%E8%87%B4%E5%9C%B0%E7%9B%A4%E7%8A%A7%E7%89%B2%E5%AE%89%E5%85%A8	其他工安	B
@@ -181,36 +182,29 @@ var DATA_INDUSTRY = `
 2026-06-24	苗栗化工廠工安意外！泰籍移工遭爐渣壓埋 搶救不治	https://news.ltn.com.tw/amp/news/society/breakingnews/5482405	其他工安	A
 2026-06-24	屯門青磚圍上周致命工業意外改列誤殺 警拘兩人	https://news.rthk.hk/rthk/ch/component/k2/1859750-20260624.htm	其他工安	A
 2026-06-24	回應竹園道地盤意外水務署：已要求承建商停工並全力協助調查- 港聞	https://www.dotdotnews.com/a/202606/24/AP6a3bced2e4b04b6c5d315a33.html	未分類	A
-2026-06-23	卡塔爾天然氣工廠爆炸已致13人死亡	https://www.hkcd.com.hk/content_app/2026-06/23/content_8761261.html	工業意外	A
-2026-06-22	卡塔爾｜LNG工廠爆炸 54傷18人失蹤	https://inews.hket.com/article/4149910/%E5%8D%A1%E5%A1%94%E7%88%BE%EF%BD%9CLNG%E5%B7%A5%E5%BB%A0%E7%88%86%E7%82%B8%2054%E5%82%B718%E4%BA%BA%E5%A4%B1%E8%B9%A4	工業意外	A
 2026-06-18	青磚圍工傷｜妻叫放假做節 男工堅持上班 遭機器夾至內臟出血亡	https://www.hk01.com/突發/60361567/青磚圍工傷-妻叫放假做節-男工堅持上班-遭機器夾至內臟出血亡	其他工安	A
 2026-06-18	青磚圍奪命工傷│死者為顧家好爸爸妻昨曾要求不上班提早 ...	https://www.stheadline.com/breaking-news/3584454/青磚圍奪命工傷死者為顧家好爸爸-妻昨曾要求不上班提早做節	其他工安	B
 2026-06-17	工業意外｜屯門65歲男工疑遭機器壓腹部 延至傍晚不治 - i-CABLE	https://news.google.com/rss/articles/CBMi7AJBVV95cUxNMFJ6LXNTVjNjTl9FU2Fpd0lmYnJyVHQ1RnZRUDFrQmh3YzA3UWhIQjZQc01PYXk1cmZRbnh5dFpCRzZxR1lKVlJLV3BETURuYVRJUjFWUHFKZ2hDYUxhcVZpNlVXQjhmZnlFc3RwSWhFa2dnSjVlVUlOZ2NMamRuUXg5N3REZ04taVhrN05ZSzZienA5cnpiR1Q5UEdqT1RBMGE4cXdtVEsxRUJ6T3E3eGlTTkFjaGhSZnUzR19zZ3VwTkZId2FycEdPdDVYRVVkZXR2WDJXNnJFMGlQMkRMSEo2dW0tM2VHc0FpcWQwM2paSGwwT2dGNVRaSE9vM1JOQUEyOU9LT3BXOXdDOXpoNjN6bXRfWklEUUlYT2xLMmJGYmhRckN4M1AxUEJ6a2o3eVgwcnh0VzNaVFVTR1Y4MVJYQWVVV1BIamxsaEVQR3h4TUlBSEV4LWJGYnRSYkUxdTNQcURYOVNTbTdr?oc=5	其他工安	A
 2026-06-15	台北文山區死亡工安意外！ 工地內工人遭鋼材壓死	https://sunmedia.tw/news/collaborative/2acUgQRl2gSuldPntgr9btUK4mmfKahkpZSFUMtNIIUC4U3WdIUjKIoe8AxhAA8S3hkS26TR	其他工安	A
 2026-06-15	北市文山區傳工安意外55歲工人慘遭鋼材重壓當場死亡| 時事	https://video.udn.com/news/1324520	其他工安	A
-2026-06-13	高雄工廠爆炸狂燒 市府重罰500萬勒令停工	https://www.mnews.tw/story/20260613sot1121001	工業意外	A
 2026-06-12	快新聞／驚悚！台中神岡爆嚴重工安意外 1工廠作業員遭機台夾傷頭不治	https://www.ftvnews.com.tw/news/detail/2026612W0615	機械夾傷	A
 2026-06-12	台中死亡工安意外！ 工人遭沖壓機夾頭部傷重不治	https://sunmedia.tw/news/collaborative/2acUgQRl2gSuldPntgr9btUK4mmfKahkpZSFUMtNIIUC4U3WdIUjKIoe8AxhAA8S3hg6P0jd	其他工安	A
 2026-06-12	台中工安意外！47歲工人操作沖壓機被夾頭 傷重不治	https://news.nextapple.com/life/20260612/0DFA87B5E6A45CBA07ED851F9FB4EA57	其他工安	A
 2026-06-10	屯門奪命工傷｜男工墮斃妻女失依靠「仁間有愛應急錢計劃」 ...	https://www.stheadline.com/breaking-news/3581702/屯門奪命工傷男工墮斃妻女失依靠-仁間有愛應急錢計劃助渡難關	其他工安	B
 2026-06-09	嘉義驚悚工安意外! 吊車失控傾斜「巨錘砸碎駕駛座」60歲司機當場慘死	https://www.msn.com/zh-tw/news/other/嘉義驚悚工安意外-吊車失控傾斜-巨錘砸碎駕駛座-60歲司機當場慘死/ar-AA24HkKu?cvid=6a1fdfe5377c46f2bb0760171e5e351c	其他工安	A
 2026-06-09	北市工安意外！男跌落砂石場水坑 救起已明顯死亡	https://news.ebc.net.tw/news/society/555757	其他工安	A
-2026-06-08	韓國韓華航空航天工廠爆炸5死2傷 公司CEO被警方禁止出境	https://www.hk01.com/即時國際/60358092/韓國韓華航空航天工廠爆炸5死2傷-公司ceo被警方禁止出境	工業意外	A
 2026-06-08	山東漢返夜更洗地「熱死」 商場門窗緊閉無冷氣 官方認定工傷	https://www.hk01.com/大國小事/60358098/山東漢返夜更洗地-熱死-商場門窗緊閉無冷氣-官方認定工傷	其他工安	A
 2026-06-08	屯門工業意外｜屯門簡約公屋地盤33歲男工墮斃 勞工處向承建商發出「暫時停工通知書」	https://news.hket.com/article/4143292/%E5%B1%AF%E9%96%80%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%EF%BD%9C%E5%B1%AF%E9%96%80%E7%B0%A1%E7%B4%84%E5%85%AC%E5%B1%8B%E5%9C%B0%E7%9B%A433%E6%AD%B2%E7%94%B7%E5%B7%A5%E5%A2%AE%E6%96%83%E3%80%80%E5%8B%9E%E5%B7%A5%E8%99%95%E5%90%91%E6%89%BF%E5%BB%BA%E5%95%86%E7%99%BC%E5%87%BA%E3%80%8C%E6%9A%AB%E6%99%82%E5%81%9C%E5%B7%A5%E9%80%9A%E7%9F%A5%E6%9B%B8%E3%80%8D	其他工安	A
 2026-06-08	勞工處派員調查屯門欣寶路地盤致命工業意外	https://news.rthk.hk/rthk/ch/component/k2/1857692-20260608.htm	其他工安	A
 2026-06-08	【工傷調查】渠務署地盤致命工業意外 發展局：承辦商或致事故已停止承辦商及分判商部分工程投標資格	https://hkfeature.com/local/%E6%B8%A0%E5%8B%99%E7%BD%B2%E5%9C%B0%E7%9B%A4%E8%87%B4%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E7%99%BC%E5%B1%95%E5%B1%80-%E6%89%BF%E8%BE%A6%E5%95%86%E6%88%96%E8%87%B4%E4%BA%8B%E6%95%85/	其他工安	A
 2026-06-07	恐怖工業意外●有片│工人被強行捲入研磨機 攪成肉碎亡 悽厲尖叫	https://www.hk01.com/人氣話題/60349166/恐怖工業意外-有片-工人被強行捲入研磨機-攪成肉碎亡-悽厲尖叫	機械夾傷	A
-2026-06-02	韓華航空航天公司工廠爆炸 集團成立特別應對工作小組善後	https://news.rthk.hk/rthk/ch/component/k2/1856865-20260602.htm	工業意外	B
-2026-06-01	韓華航太工廠爆炸5死2傷 李在明：全力救災	https://hk.news.yahoo.com/韓華航太工廠爆炸5死2傷-李在明-全力救災-052005589.html	工業意外	A
-2026-06-01	韓國韓華航空航天公司工廠爆炸 造成五死兩傷	https://news.rthk.hk/rthk/ch/component/k2/1856803-20260601.htm	工業意外	A
 2026-06-01	嘉義某國中工安意外! 工人「肚子被砸破」 臟器外露亡相驗結果曝	http://www.msn.com/zh-tw/news/other/嘉義某國中工安意外-工人-肚子被砸破-臟器外露亡-相驗結果曝/ar-AA24woGl?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	其他工安	A
-2026-06-01	南韓｜韓華航太工廠爆炸 致5死2傷	https://inews.hket.com/article/4137184	工業意外	A
-2026-06-01	南韓大田市軍工廠爆炸 釀至少5死2傷 料清理火箭推進劑肇禍 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/470061/%E5%8D%97%E9%9F%93%E5%A4%A7%E7%94%B0%E5%B8%82%E8%BB%8D%E5%B7%A5%E5%BB%A0%E7%88%86%E7%82%B8-%E9%87%80%E8%87%B3%E5%B0%915%E6%AD%BB2%E5%82%B7-%E6%96%99%E6%B8%85%E7%90%86%E7%81%AB%E7%AE%AD	工業意外	A
 2026-05-28	深水埗地盤致命工業意外 勞工處稱關注及發出「暫時停工通知書」	https://news.rthk.hk/rthk/ch/component/k2/1856408-20260528.htm	其他工安	A
+2026-05-27	（有片）深水埗地盤吊運工業意外工人遭墮下組件擊中昏迷送院- 香港 - 香港文匯網	https://www.wenweipo.com/a/202605/27/AP6a16586fe4b0b49ad1bceb33.html	其他工安	-
 2026-05-27	韓國首爾傳嚴重工安意外 高架橋崩塌釀3死3傷	https://www.eracom.com.tw/EraNews/Home/WorldNews/m/2026-05-26/2358611.html	其他工安	A
 2026-05-27	工業意外｜深水埗地盤男工被機器擊中頭部 昏迷送院	https://news.tvb.com/sc/local/6a167bf1ae58c953137ec422/%E6%B8%AF%E6%BE%B3-%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%EF%BD%9C%E6%B7%B1%E6%B0%B4%E5%9F%97%E5%9C%B0%E7%9B%A4%E7%94%B7%E5%B7%A5%E8%A2%AB%E6%A9%9F%E5%99%A8%E6%93%8A%E4%B8%AD%E9%A0%AD%E9%83%A8-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	其他工安	B
 2026-05-26	高架橋拆到一半突崩塌 韓國首爾爆工安意外3死3傷 | 國際 | CTWANT	https://www.ctwant.com/amp/article/482767/	其他工安	A
+2026-05-25	新油麻地貨物裝卸區工業意外 男工兩米高墮下頭部重創昏迷	https://www.singtaousa.com/2026/05/25/news/china/worker-falls-platform-head-injury-coma/	其他工安	-
 2026-05-23	荃灣肉類加工場工業意外 兼職男工洗碎肉機遭夾手 清醒送院	https://www.stheadline.com/breaking-news/3575633/%E8%8D%83%E7%81%A3%E8%82%89%E9%A1%9E%E5%8A%A0%E5%B7%A5%E5%A0%B4%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%85%BC%E8%81%B7%E7%94%B7%E5%B7%A5%E6%B4%97%E7%A2%8E%E8%82%89%E6%A9%9F%E9%81%AD%E5%A4%BE%E6%89%8B-%E6%B8%85%E9%86%92%E9%80%81%E9%99%A2	其他工安	A
 2026-05-23	新店工安事故！工人疑從高處墜落 送醫傷重不治	https://tw.news.yahoo.com/新店工安事故-工人疑從高處墜落-送醫傷重不治-052412737.html	工地墮樓	A
 2026-05-22	大角咀凍肉舖工業意外 男工遭切肉機切斷食指	https://www.stheadline.com/breaking-news/3575313/%E5%A4%A7%E8%A7%92%E5%92%80%E5%87%8D%E8%82%89%E8%88%96%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E7%94%B7%E5%B7%A5%E9%81%AD%E5%88%87%E8%82%89%E6%A9%9F%E5%88%87%E6%96%B7%E9%A3%9F%E6%8C%87	其他工安	A
@@ -220,7 +214,9 @@ var DATA_INDUSTRY = `
 2026-05-19	九龍城冷氣工墮樓｜38歲男技工十多樓墮下身亡 勞工處派員到場調查 暫列工業意外	https://news.hket.com/article/4131157/九龍城冷氣工墮樓｜38歲男技工十多樓墮下身亡 勞工處派員到場調查 暫列工業意外?mtc=10012	跳樓墮樓	A
 2026-05-18	北大嶼山醫院地盤致命工傷 寶嘉建築被罰逾15萬元 官：「多重制度失敗」 (18:59) - 20260518 - 港聞	https://news.google.com/rss/articles/CBMi_gNBVV95cUxNS3F4VllTQzVuc1RQWV9CV21Nc2dhZllqM1dwYmMzd1JzRm1tSHl2cTM1c1B4YjFUSEg1ZENYMzNsUEpiamp0aTBBVmdxaDNKV1M3VFNjX0xGWXdwbWRVMUY0YUpzZ1p3VFRqMGo3ZDBveW4yRGhpNTBiM2RsSV9sX2dVUm9pQ3dES2RVbzZsRGVPdklpVGZ1UU5SQjBUUTJkaU43R1dqUVp2V1UtTG0wei1oczhLanJidURKQmo0a2IzQllDOWxqWXIzSExCVDktOHN4bzJSZU9KQl9VeWVMbUpUNlJwMTBKdGpqYUJvYml5N1ZlNkNLN3VVc0lrSy13NkFrM1BCMFZ2S2xSM1V6NjlCZlJKV3hhZEZUR1FCZDFUUDdYV3ZBaE1BUE5fbEd3Ny1zOUNoSm9SZEpwRmdtQzFPQnctS24tVGFITC01MjhmVmJycG9ITVRYVFJKQW5GaWhhWGVJUkRCcmgxYTBPd3lfS0VBejBzRzE5Z0kweUVkYVYwaUdkWFdabWpXYUZ5Q3B0aW9sXzRzM1dmVmhUaXFtcnFSNEJPZHQ0TjBVaWphY1JxbFVTNkh4MzNlMTRkWU9lRk85SUZra3FkdEg3a3pYZGJkNUNWcm1QVGJWWE95U1I0d0JjWndvT3dWbzRDZzI5M2RTZVNpRWZUa2c?oc=5	其他工安	A
 2026-05-16	黃大仙美東邨工業意外 工人遭夾頸昏迷送院	https://www.orangenews.hk/hongkong/1404973/黃大仙美東邨工業意外-工人遭夾頸昏迷送院.shtml	其他工安	B
+2026-05-16	黃大仙公屋地盤疑墮組件 男工遭壓傷頸昏迷送院	https://www.i-cable.com/新聞資訊/465035/黃大仙公屋地盤疑墮組件-男工遭壓傷頸昏迷送院	其他工安	-
 2026-05-16	黃大仙一個地盤發生工業意外 一名工人疑被鐵網夾頸昏迷送院	https://news.rthk.hk/rthk/ch/component/k2/1854938-20260516.htm	其他工安	B
+2026-05-16	美東邨重建地盤工業意外 男工下顎撼工作平台遺血洞 送院命危	https://www.hk01.com/%E7%AA%81%E7%99%BC/60350563/%E7%BE%8E%E6%9D%B1%E9%82%A8%E9%87%8D%E5%BB%BA%E5%9C%B0%E7%9B%A4%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E7%94%B7%E5%B7%A5%E4%B8%8B%E9%A1%8E%E6%92%BC%E5%B7%A5%E4%BD%9C%E5%B9%B3%E5%8F%B0%E9%81%BA%E8%A1%80%E6%B4%9E-%E9%80%81%E9%99%A2%E5%91%BD%E5%8D%B1	其他工安	-
 2026-05-16	深圳福田爆工業意外 疑超重堆料致結構坍塌 兩工人6樓墮亡	https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60350516/%E6%B7%B1%E5%9C%B3%E7%A6%8F%E7%94%B0%E7%88%86%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E7%96%91%E8%B6%85%E9%87%8D%E5%A0%86%E6%96%99%E8%87%B4%E7%B5%90%E6%A7%8B%E5%9D%8D%E5%A1%8C-%E5%85%A9%E5%B7%A5%E4%BA%BA6%E6%A8%93%E5%A2%AE%E4%BA%A1	坍塌爆炸	A
 2026-05-15	浪琴園月初發生奪命工業意外 發展局今停承建商投標資格	https://www.orangenews.hk/hongkong/VJgEV8p/%E6%B5%AA%E7%90%B4%E5%9C%92%E6%9C%88%E5%88%9D%E7%99%BC%E7%94%9F%E5%A5%AA%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E7%99%BC%E5%B1%95%E5%B1%80%E4%BB%8A%E5%81%9C%E6%89%BF%E5%BB%BA%E5%95%86%E6%8A%95%E6%A8%99%E8%B3%87%E6%A0%BC.shtml	其他工安	A
 2026-05-15	浪琴園奪命工傷｜26歲男𨋢槽換纜遭擊斃 發展局停承建商投標資格	https://news.google.com/rss/articles/CBMiqwNBVV95cUxQc0M4U3UzeERhbE5UY1ZSd3lBeDJRZnJtaGttTWx5RGJOcC1rQWpBTDdKMWhHRGdIcHJKRW9rQmRxUExHazZMc0JoWEY4dmlBNjVWZ2NySGpCSExLcmZ1SWFqWGZnWGQyNWVXa3h1TDhDdEhxUWtXcHU5RmVfLWdvX2FXVHVpTmZDNm5rQVBHQ3R5UUdydFVuRGZRdGtZcnBmNWl2eWx3dUFITmFOcUgyOFFUR1RRdzFadjV1ZGx4ZmZPbHdkMGZJUjFzRG9lOUlxaW1YXzlBQ2dHakJBMWtoVGVhRlY2YkNCZ2dyRlI2UU9xenlpazZRNDA4Ull6N0RudEdXQk1Ya28tMkRNbnlaNE1sRVVhX0xQWnFsWkNMMWNDTHBudzhXbHhUd2FSVXlzdF9MaWJ0Yy12QlJrMlA3MlFLWTlpczFUUmR6SllPX1Q2T3RaMEtLdGZiTzdHbU9ZZms1X2R0S2x0VFFYTENKWDBURzBBdUNEUFUwTlhucGpYbGhoMm9mczRwRlEwbkkyTkxXR3pJejY1SDV4Q1VJTEUyT3p0T1VXY0xZ?oc=5	其他工安	A
@@ -255,6 +251,7 @@ var DATA_INDUSTRY = `
 2026-04-03	新北中和驚傳工安意外！工人疑墜落明顯死亡	https://news.ebc.net.tw/news/society/545169	工地墮樓	A
 2026-04-03	中和抽水站工安意外！65歲工人高處墜落 同事發現已死亡	https://news.tvbs.com.tw/local/3169137	工地墮樓	A
 2026-04-01	台電工安意外！鐵塔絕緣裝置「礙子」掉落 1員工頭部重傷亡	https://news.tvbs.com.tw/local/3167490	其他工安	A
+2026-03-30	快訊／台中工地意外！男工人施工中突昏倒鷹架上 命危急救中	https://news.tvbs.com.tw/local/3165283	其他工安	-
 2026-03-26	荃灣發生工業意外 男工人墮地昏迷送院	https://www.881903.com/news/local/2624768	其他工安	B
 2026-03-26	梅窩銀礦灣泳灘地盤工嬉水濕身 摘野莓疑觸燈柱觸電亡	https://www.hkcd.com.hk/hkcdweb/content/2026/03/26/content_8746791.html	觸電	A
 2026-03-26	梅窩度假屋57歲地盤工嬉水後 疑全身濕透摘野莓觸碰燈柱觸電亡	https://hk.news.yahoo.com/梅窩度假屋57歲地盤工嬉水後-疑全身濕透摘野莓觸碰燈柱觸電亡-030600649.html	觸電	A
@@ -292,6 +289,7 @@ var DATA_INDUSTRY = `
 2026-02-13	八鄉地盤男工人觸電 清醒送院治理	https://news.tvb.com/sc/local/698f467bbade8eb62c01be9f/港澳-牛頭角男途人被的士撞倒最終不治	觸電	A
 2026-02-11	圓方地盤兩死工業意外 大判、二判被控誤殺 兩案合併待處理交付高院	https://thewitnesshk.com/圓方地盤兩死工業意外-大判二判被控誤殺-兩案合併/	其他工安	A
 2026-02-10	「中國金都」山東招遠一金礦工安意外致7死 事發企業涉瞞報	https://money.udn.com/money/amp/story/5603/9321019	其他工安	A
+2026-02-08	男疑工地跌倒「鋼筋插眼」 「自行拔出」急送醫搶救	https://www.singtao.ca/7412520/2026-02-08/news-觀塘道六旬婦推紙皮過路捱貨車撞+送院搶救不治/	其他工安	-
 2026-02-02	快訊／台北漁產嚴重工安意外! 17 歲少女捲入保麗龍機台慘死	https://www.ettoday.net/news/20260202/3111975.htm	機械夾傷	A
 2026-02-02	台北漁產驚傳工安意外 17歲少女捲入保麗龍機台身亡	https://tw.news.yahoo.com/台北漁產驚傳工安意外-17歲少女捲入保麗龍機台身亡-092145235.html	機械夾傷	A
 2026-01-29	工業意外去年奪42命 團體促改善工地環境	https://www.tkww.hk/epaper/view/newsDetail/2016578115811282944.html	其他工安	B
@@ -301,7 +299,6 @@ var DATA_INDUSTRY = `
 2026-01-23	卑詩省中部的金礦項目發生工業意外 一人死亡	https://am1320.com/焦點新聞/卑詩省中部的金礦項目發生工業意外-一人死亡/	其他工安	A
 2026-01-21	男工航天城地盤觸電亡 承建商原認7罪共罰26.1萬元、控方申覆核 官改罰52.1萬元	https://thewitnesshk.com/男工航天城地盤觸電亡-承建商原認7罪共罰26-1萬元控/	觸電	A
 2026-01-21	協盛建築男工航天城地盤觸電亡法院覆核裁決提高罰款- 港聞	https://www.dotdotnews.com/a/202601/21/AP6970a09ee4b0c32d4f66a35d.html	觸電	A
-2026-01-20	內蒙古包鋼工廠爆炸釀9死1失聯 國務院安委會掛牌督辦（第二版）	https://china.hket.com/article/4070638/內蒙古包鋼工廠爆炸釀9死1失聯 國務院安委會掛牌督辦（第二版）?mtc=20023	工業意外	A
 2026-01-17	香港政府新聞網- 高度關注接連三宗致命工業意外	https://www.news.gov.hk/chi/2026/01/20260117/20260117_195438_872.html	其他工安	A
 2026-01-16	高雄台塑林園廠工安意外 1人油漆作業昏倒「緊急送氧」	https://news.ttv.com.tw/news/11501160001700W	其他工安	A
 2026-01-16	高雄台塑林園廠傳工安意外 3員工桶槽內昏倒	https://tw.news.yahoo.com/高雄台塑林園廠傳工安意外-3員工桶槽內昏倒搶救中-052224450.html	其他工安	A
@@ -323,6 +320,7 @@ var DATA_INDUSTRY = `
 2026-01-05	沙田威爾斯醫院地盤工業意外 男工人頭部受傷送院	https://news.rthk.hk/rthk/ch/component/k2/1838689-20260105.htm	其他工安	A
 2026-01-05	沙田威爾斯親王醫院地盤意外 男工疑遭機器傷頭 半昏迷一度被困	https://www.hk01.com/突發/60309825/沙田威爾斯親王醫院地盤意外-男工疑遭機器傷頭-半昏迷一度被困	未分類	B
 2026-01-05	新北深坑工安意外 司機卸貨遭鋼板重壓頭胸死亡	https://www.fountmedia.io/article/340309	其他工安	A
+2026-01-05	威院重建地盤男工疑遭機器夾頭 陷半昏迷一度被困	https://www.orangenews.hk/hongkong/V7Q36Q6/威院重建地盤男工疑遭機器夾頭-陷半昏迷一度被困.shtml	其他工安	-
 2026-01-05	威院重建地盤意外 升降台工人撞石屎橫樑 送院搶救情況危殆	https://www.i-cable.com/新聞資訊/426015/威院重建地盤意外-升降台工人撞石屎橫樑-送院	未分類	B
 2025-12-28	港鐵旺角東站工業意外 4裝修工疑吸一氧化碳暈倒送院		其他工安	A
 2025-12-28	工業意外｜旺角東站4名工人吸入二氧化碳暈倒 3人已清醒		其他工安	A
@@ -356,21 +354,24 @@ var DATA_INDUSTRY = `
 2025-12-15	台北仁愛路建案工安意外 66歲女工人21樓墜樓不幸身亡	https://tw.news.yahoo.com/台北仁愛路建案工安意外-66歲女工人21樓墜樓不幸身亡-041604204.html	其他工安	A
 2025-12-15	上水公屋地盤七旬男工亡 房署指無證據顯示涉工業意外	https://www.sundaykiss.com/%E7%86%B1%E8%A9%B1/%E5%B1%AF%E9%96%80-%E9%9B%99%E5%B1%A4%E5%B7%B4%E5%A3%AB-%E6%A0%A1%E5%B7%B4-%E5%8F%B8%E6%A9%9F-%E4%BF%9D%E5%A7%86-%E5%AD%B8%E7%AB%A5-%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96-2327270/	其他工安	B
 2025-12-14	尖沙咀地盤奪命工業意外 男工遭鋼筋壓斃 涉案公司及負責人否認兩項傳票罪	https://www.wenweipo.com/a/202512/14/AP693e9304e4b0ea5e4746ea22.html	其他工安	A
-2025-12-12	韓光州新圖書館地盤工業意外 鐵製構造物坍塌1死3被困 (18:05) - 20251211 - 國際		坍塌爆炸	A
+2025-12-12	打鼓嶺堆填區工人被吊運物擊中 後腦出血及頸椎移位送院搶救 (21:50) - 20251211 - 港聞		其他工安	-
 2025-12-12	工業意外丨​打鼓嶺堆填區擴建地盤55歲男工遭吊運物擊中 後腦受傷腳骨折送院治理		其他工安	A
 2025-12-11	工業意外｜將軍澳地盤女工被剷車夾傷右腳 消防到場救出送院	https://video.udn.com/news/1316283	機械夾傷	A
 2025-12-11	土城工安意外！21歲裝潢工人13樓墜落 頭顱破裂當場死亡	https://udn.com/news/amp/story/7320/9197044	工地墮樓	A
 2025-12-11	中環歐陸貿易中心工傷｜工程師：如設安全裝置 開面板後不會動	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/418643/%E6%B8%AF%E7%94%B7%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%AA%E9%A7%95%E9%81%8A%E8%B6%8A%E7%B7%9A%E6%92%BC%E5%B0%8D%E9%A0%AD%E8%BB%8A-%E6%B6%89%E9%81%8E%E5%A4%B1%E9%A7%95%E9%A7%9B%E8%A2%AB%E6%8D%95	其他工安	B
 2025-12-11	上周五兩宗致命工業意外承建商 被發展局暫停投標要求落實改善措施 中環歐陸貿易中心上周五有一名18歲電梯維修學徒，維修扶手電梯期間意外跌入電梯槽被機器夾困，送院後不治，東涌一名57歲油漆工人同日亦在迎東路一個公屋地盤操作升降台期間，被夾於天花之間身亡。	https://tw.news.yahoo.com/%E5%93%A1%E8%AD%A6%E8%B6%95%E4%B8%8A%E7%8F%AD%E9%A8%8E%E5%BF%AB%E8%BB%8A-%E6%84%8F%E5%A4%96%E6%92%9E%E6%AD%BB%E5%85%AB%E6%97%AC%E5%A9%A6%E6%89%9B%E5%88%91%E8%B2%AC-%E9%8F%A1%E6%96%B0%E8%81%9E-055036554.html	其他工安	A
 2025-12-10	奪命工業意外！維修主管疑誤踩老化易碎屋頂 逾6米高直墮斃命	https://www.hk01.com/%E4%BA%BA%E6%B0%A3%E8%A9%B1%E9%A1%8C/60301220/%E5%A5%AA%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E7%B6%AD%E4%BF%AE%E4%B8%BB%E7%AE%A1%E7%96%91%E8%AA%A4%E8%B8%A9%E8%80%81%E5%8C%96%E6%98%93%E7%A2%8E%E5%B1%8B%E9%A0%82-%E9%80%BE6%E7%B1%B3%E9%AB%98%E7%9B%B4%E5%A2%AE%E6%96%83%E5%91%BD	其他工安	A
+2025-12-10	中環商廈扶手電梯18歲維修工人墮坑槽 被困逾一小時救出昏迷送院	https://www.hk01.com/%E7%AA%81%E7%99%BC/60302124/%E8%A5%BF%E8%B2%A2%E4%B8%83%E4%BA%BA%E8%BB%8A%E8%88%87%E9%9B%BB%E5%96%AE%E8%BB%8A%E7%9B%B8%E6%92%9E-2%E4%BA%BA%E5%8F%97%E5%82%B7%E9%80%81%E9%99%A2%E6%B2%BB%E7%90%86	其他工安	-
 2025-12-09	東涌奪命工傷｜房署：油漆工操作升降台出事 要求有利停工及協助	https://www.orangenews.hk/hongkong/V4s9rz4/3%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E9%9B%BB%E8%BB%8A%E6%92%9E%E6%96%83-%E5%8F%B8%E6%A9%9F%E4%B8%8D%E5%B0%8F%E5%BF%83%E9%A7%95%E9%A7%9B%E7%BD%AA%E6%88%90%E9%82%84%E6%8A%BC%E5%80%99%E5%88%A4.shtml	其他工安	A
 2025-12-08	工業意外｜昂船洲公眾貨物裝卸區男清潔工墮海 昏迷送院搶救惜不治	https://www.marketersgo.com/media-collaboration/202512/%E5%8F%B02%E7%B7%9A%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D%EF%BC%81%E3%80%80%E5%A4%A7%E8%B2%A8%E8%BB%8A%E8%A1%9D%E5%85%A5%E5%B0%8D%E5%90%91%E8%BB%8A%E9%81%93%E9%87%804%E8%BB%8A%E7%9B%B8%E6%92%9E1/	其他工安	A
 2025-12-05	工業意外｜秀茂坪60歲地盤女工遭攪石屎機器夾傷手 清醒送院救治	https://www.bastillepost.com/hongkong/article/15482699-%E7%81%A3%E4%BB%94%E7%99%BC%E7%94%9F%E8%87%B4%E5%91%BD%E4%BA%A4%E9%80%9A%E6%84%8F%E5%A4%96%E3%80%8086%E6%AD%B2%E5%A5%B3%E9%80%94%E4%BA%BA%E6%AD%BB%E4%BA%A1	機械夾傷	A
 2025-12-05	3承建商涉去年致命沙井工業意外 判共罰款近70萬	https://news.rthk.hk/rthk/ch/component/k2/1834765-20251205.htm	其他工安	A
 2025-12-02	打鼓嶺堆填區工業意外 男工人遭硬物擊傷頭	https://std.stheadline.com/society/3523234/%E6%B6%89%E9%A7%95%E8%BC%95%E5%9E%8B%E8%B2%A8%E8%BB%8A%E6%85%88%E9%9B%B2%E5%B1%B1%E6%92%9E%E6%96%83%E9%81%8E%E8%B7%AF%E5%A9%A6-52%E6%AD%B2%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8E%A7%E5%8D%B1%E9%A7%95%E8%87%B4%E4%BB%96%E4%BA%BA%E6%AD%BB%E4%BA%A1%E7%BD%AA	其他工安	A
 2025-12-02	大埔工業邨男工疑吸入氣體 一度暈倒被困機器內 獲救送院	https://www.hk01.com/%E7%AA%81%E7%99%BC/60299710/%E5%A4%A7%E5%9F%94%E5%B7%A5%E6%A5%AD%E9%82%A8%E7%94%B7%E5%B7%A5%E7%96%91%E5%90%B8%E5%85%A5%E6%B0%A3%E9%AB%94-%E4%B8%80%E5%BA%A6%E6%9A%88%E5%80%92%E8%A2%AB%E5%9B%B0%E6%A9%9F%E5%99%A8%E5%85%A7-%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2	中毒洩漏	A
+2025-12-02	大埔工人疑吸入不明氣體暈倒被困機器	https://news.now.com/mobile/editorsChoice/player?newsId=628145	其他工安	-
 2025-12-01	大埔工業邨工人維修機器疑吸入氣體 一度暈倒受困獲救送院	https://www.singtao.ca/7348484/2025-12-01/news-大埔工業邨男工維修機器疑吸入氣體+一度暈倒被困送院/	中毒洩漏	A
 2025-11-30	澳門奪命工業意外 內地外勞安裝冷氣 疑支架斷裂墮斃	https://tw.news.yahoo.com/%E5%8F%88%E6%92%9E%E6%96%BD%E5%B7%A5%E9%98%B2%E6%92%9E%E8%BB%8A-%E5%8F%B061%E4%BC%91%E6%97%85%E8%BB%8A%E5%8D%A1%E8%BB%8A%E5%BA%95-22%E6%AD%B2%E9%A7%95%E9%A7%9B%E5%8F%97%E5%9B%B0-%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB-100051581.html	其他工安	A
+2025-11-29	葵涌男工安裝冷氣期間從外牆棚架墮下 頭部重創昏迷送院	https://www.stheadline.com/breaking-news/3522360/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%A2%85%E5%AD%90%E6%9E%97%E8%B7%AF%E7%94%B7%E5%AD%90%E8%B8%A9%E5%96%AE%E8%BB%8A%E6%92%9E%E5%B1%B1%E9%82%8A-%E6%98%8F%E8%BF%B7%E4%B8%8D%E9%86%92%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類	-
 2025-11-29	工業意外｜大埔18歲男工遭攪麵糰機夾手 送院搶救	https://tw.news.yahoo.com/%E9%87%8D%E6%A9%9F%E7%B6%B2%E7%BE%8E%E9%81%AD%E8%81%AF%E7%B5%90%E8%BB%8A%E8%BC%BE%E6%96%83-%E7%94%9F%E5%89%8Dpo%E6%96%87%E6%88%90%E6%AD%BB%E4%BA%A1%E9%A0%90%E8%A8%80-063223483.html	其他工安	A
 2025-11-26	五股工安意外！30 歲外籍移工疑觸電命危勞檢處介入	https://www.msn.com/zh-tw/news/national/%E4%BA%94%E8%82%A1%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96-30%E6%AD%B2%E5%A4%96%E7%B1%8D%E7%A7%BB%E5%B7%A5%E7%96%91%E8%A7%B8%E9%9B%BB%E5%91%BD%E5%8D%B1-%E5%8B%9E%E6%AA%A2%E8%99%95%E4%BB%8B%E5%85%A5/ar-AA1R2pWJ	觸電	B
 2025-11-25	快訊／高雄前鎮驚傳工安意外 1工人疑從吊車跌落送醫不治	http://www.msn.com/zh-tw/news/other/快訊-高雄前鎮驚傳工安意外-1工人疑從吊車跌落送醫不治/ar-AA1R5yyL?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	其他工安	A
@@ -435,7 +436,6 @@ var DATA_INDUSTRY = `
 2025-10-12	大家樂集團大埔廠房工業意外 女工遭鋸機切斷手指送院救治	https://news.pchome.com.tw/society/crwant/20251012/index-76023466712441316002.html	其他工安	A
 2025-10-12	啟德發生工業意外 女工人被機器夾頭陷入昏迷︱Yahoo	https://www.ctwant.com/amp/article/451133/	其他工安	B
 2025-10-12	4天內第3宗嚴重工業意外 4名工人被鋼筋壓傷	https://guangming.com.my/%E5%8D%97%E5%8C%97%E5%A4%A7%E9%81%93%E8%BF%9E%E7%8E%AF%E6%92%9E-14%E5%B2%81%E5%90%8E%E5%BA%A7%E9%AA%91%E5%A3%AB%E8%A2%AB3%E8%BD%A6%E8%BE%97%E6%AF%99	其他工安	A
-2025-10-11	田納西州軍火工廠爆炸 多人死亡及失蹤		工業意外	A
 2025-10-08	高雄零件工廠驚傳工安意外 2男後腦勺、臉部撕裂傷送醫	https://www.dotdotnews.com/a/202510/08/AP68e5fec1e4b08d2905397565.html	其他工安	A
 2025-10-08	西班牙工安意外 歌劇院附近建築部分倒塌釀4死｜#鏡新聞	https://tw.news.yahoo.com/西班牙工安意外-歌劇院附近建築部分倒塌釀4死-鏡新聞-083100890.html	坍塌爆炸	A
 2025-10-08	柯士甸奪命工傷｜勞工處巡190個地盤密閉空間 發88份書面警告	https://www.orangenews.hk/hongkong/Uz10634/%E4%B9%9D%E5%B7%B4%E5%8F%B8%E6%A9%9F%E7%96%91%E5%B1%AF%E9%96%80%E5%85%AC%E8%B7%AF%E9%A7%95%E9%A7%9B%E9%80%94%E4%B8%AD%E6%9A%88%E5%80%92%E6%92%9E%E8%B7%AF%E7%89%8C-%E4%B8%80%E5%BA%A6%E6%98%8F%E8%BF%B7%E8%A2%AB%E5%9B%B0.shtml	其他工安	A
@@ -450,7 +450,6 @@ var DATA_INDUSTRY = `
 2025-10-07	中九龍幹線地盤工業意外 工人受傷被困25米地道 消防花句鐘救起	https://news.pchome.com.tw/healthcare/healthnews/20251007/index-17598276004012320012.html	其他工安	A
 2025-10-06	工安意外！26歲鐵模工7F墜樓 傷重不治		其他工安	A
 2025-10-04	黃埔花園院舍女職員懷疑觸電 清醒送院治理	https://hk.on.cc/hk/bkn/cnt/news/20251004/bkn-20251004101015053-1004_00822_001.html	觸電	B
-2025-10-04	紅磡院舍女工疑觸電感不適清醒送院(12:08) - 20251004 - 港聞- 即時新聞		觸電	B
 2025-10-04	【工業意外】機場11 Skies地盤男工疑觸電暈倒 昏迷送院搶救	https://health.setn.com/news/1730846	觸電	A
 2025-10-03	颱風夜不平靜！高雄輕熟女查看故障水塔慘遭電擊 急救90 分鐘仍不治		觸電	B
 2025-10-03	澳門蛋工業意外本地漢墮亡	https://www.macaodaily.com/html/2025-10/03/content_1861141.htm	其他工安	A
@@ -468,6 +467,7 @@ var DATA_INDUSTRY = `
 2025-09-26	彰化離奇工安意外！男員工倒脫水機旁叫不醒 送醫搶命「氣管移位」死亡	https://www.setn.com/news/1726270	其他工安	A
 2025-09-26	彰化線西工安意外 工人倒臥脫水機旁死亡	https://www.cna.com.tw/news/asoc/202509260321.aspx	其他工安	A
 2025-09-22	苗栗化工廠工安意外 六工人疑甲苯中毒送醫|社會|CTWANT	https://www.ctwant.com/article/447234/	中毒洩漏	A
+2025-09-21	苗栗婦遭毒蛇「龜殼花」咬傷昏迷 警鳴笛開道搶命	https://news.ebc.net.tw/news/living/513227	未分類	-
 2025-09-21	粉嶺技工維修冷氣觸電亡 機電署: 事主無註冊疑換電掣時未斷電	https://finance730.com.hk/2025/09/21/%E7%B6%AD%E4%BF%AE-%E5%86%B7%E6%B0%A3-%E8%A7%B8%E9%9B%BB-%E6%AD%BB%E4%BA%A1-%E8%A3%9D%E4%BF%AE%E4%BD%AC-%E6%9B%B4%E6%8F%9B-%E9%9B%BB%E6%8E%A3/	觸電	A
 2025-09-18	快訊／北市錦州街工安意外！ 板模工人疑踩空墜樓無心跳送醫搶救		其他工安	A
 2025-09-17	太古城六旬工人誤觸電鋸腳背慘遭割傷濺血送院- 香港 - 香港文匯網		觸電	A
@@ -482,10 +482,12 @@ var DATA_INDUSTRY = `
 2025-09-09	汉服文化推广者陈志奇（子非鱼）因意外事故逝世，终年42岁		未分類	B
 2025-09-09	旺角亞皆老街麥當勞職員報稱觸電 自行由救護車步入醫院檢查	https://www.hk01.com/%E7%AA%81%E7%99%BC/60274539/%E6%97%BA%E8%A7%92%E4%BA%9E%E7%9A%86%E8%80%81%E8%A1%97%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%81%B7%E5%93%A1%E5%A0%B1%E7%A8%B1%E8%A7%B8%E9%9B%BB-%E8%87%AA%E8%A1%8C%E7%94%B1%E6%95%91%E8%AD%B7%E8%BB%8A%E6%AD%A5%E5%85%A5%E9%86%AB%E9%99%A2%E6%AA%A2%E6%9F%A5	觸電	B
 2025-09-07	觀塘工廈中央廚房工業意外 男子遭切肉機切甩兩隻手指	https://www.hk01.com/%E7%AA%81%E7%99%BC/60274075/%E8%A7%80%E5%A1%98%E5%B7%A5%E5%BB%88%E4%B8%AD%E5%A4%AE%E5%BB%9A%E6%88%BF%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E7%94%B7%E5%AD%90%E9%81%AD%E5%88%87%E8%82%89%E6%A9%9F%E5%88%87%E7%94%A9%E5%85%A9%E9%9A%BB%E6%89%8B%E6%8C%87	其他工安	A
+2025-09-06	快訊／鶯歌下水道意外！2工人地下4 米昏厥失去意識搶救中		其他工安	-
 2025-09-04	Foodpanda 8 號風球照送外賣 外賣員工傷獲賠 134 萬 法院裁定平台須負 8 成責任	https://unwire.hk/2025/09/04/foodpanda-typhoon-injury-compensation-case/life-tech/	其他工安	A
 2025-09-02	更換管線遭電擊水電工不治| 討論牆		觸電	A
 2025-08-28	香港機場工安意外男性員工疑遭飛機輪胎輾斃| 討論牆		其他工安	A
 2025-08-24	28歲男深夜線上開會後疑過勞倒地亡 人社局未認定工傷家屬提申訴	https://www.hk01.com/article/60269545?utm_source=01articlecopy&utm_medium=referral	其他工安	A
+2025-08-23	快訊／鶯歌工安意外！2工人下水道施工陷昏迷 1人OHCA		其他工安	A
 2025-08-23	快訊／美國在台協會工安意外 工人遭C 型鋼重壓送醫不治		其他工安	A
 2025-08-22	鶯歌工安意外！2工人昏倒4米深下水道 1人OHCA送醫搶救	https://news.ltn.com.tw/news/society/breakingnews/5153133	其他工安	A
 2025-08-22	新北鶯歌傳工安意外！2移工倒臥下水道吸入沼氣 一人OHCA急救中 | 太報	https://www.taisounds.com/news/content/96/209287	其他工安	A
@@ -504,10 +506,12 @@ var DATA_INDUSTRY = `
 2025-07-11	港珠澳口岸奪命工傷｜陪子中學註冊驚聞噩耗 妻泣：無咗家庭支柱	https://www.hk01.com/%E7%AA%81%E7%99%BC/60255909/%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%8F%A3%E5%B2%B8%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7-%E9%99%AA%E5%AD%90%E4%B8%AD%E5%AD%B8%E8%A8%BB%E5%86%8A%E9%A9%9A%E8%81%9E%E5%99%A9%E8%80%97-%E5%A6%BB%E6%B3%A3-%E7%84%A1%E5%92%97%E5%AE%B6%E5%BA%AD%E6%94%AF%E6%9F%B1	其他工安	A
 2025-07-10	順匯路港珠澳大橋香港口岸地盤意外 疑塌平台及4噸工字鐵1死1傷	https://www.hk01.com/%E7%AA%81%E7%99%BC/60255426/%E9%A0%86%E5%8C%AF%E8%B7%AF%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A9%8B%E9%A6%99%E6%B8%AF%E5%8F%A3%E5%B2%B8%E5%9C%B0%E7%9B%A4%E6%84%8F%E5%A4%96-%E7%96%91%E5%A1%8C%E5%B9%B3%E5%8F%B0%E5%8F%8A4%E5%99%B8%E5%B7%A5%E5%AD%97%E9%90%B51%E6%AD%BB1%E5%82%B7	未分類	A
 2025-07-07	小嫻好友「工安意外驟逝」 人在德國哭了2天！悲喊： 不要再有人犧牲	https://star.setn.com/news/1683694	其他工安	B
+2025-06-09	快訊／高鐵旅客突昏迷⋯無呼吸心跳！ 列車急靠台中站電擊搶救	https://www.msn.com/zh-tw/news/national/%E5%BF%AB%E8%A8%8A-%E9%AB%98%E9%90%B5%E6%97%85%E5%AE%A2%E7%AA%81%E6%98%8F%E8%BF%B7-%E7%84%A1%E5%91%BC%E5%90%B8%E5%BF%83%E8%B7%B3-%E5%88%97%E8%BB%8A%E6%80%A5%E9%9D%A0%E5%8F%B0%E4%B8%AD%E7%AB%99%E9%9B%BB%E6%93%8A%E6%90%B6%E6%95%91/ar-AA1yNRti?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	工業意外	-
 2025-05-26	快訊／台積電嘉義廠工安意外…工人遭「變電箱砸中」！ 搶救無效亡	https://www.ettoday.net/news/20250526/2967224.htm	其他工安	A
 2025-05-07	粉嶺奪命工傷｜六旬男工棚架墮下死亡 親友傷心認屍	https://www.stheadline.com/breaking-news/3453347/%E7%B2%89%E5%B6%BA%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7%E5%85%AD%E6%97%AC%E7%94%B7%E5%B7%A5%E6%A3%9A%E6%9E%B6%E5%A2%AE%E4%B8%8B%E6%AD%BB%E4%BA%A1-%E8%A6%AA%E5%8F%8B%E5%82%B7%E5%BF%83%E8%AA%8D%E5%B1%8D	自然離世	A
 2025-04-16	6年108致命工業意外 揭有工程無安全網 事故後方首次安全審核	https://news.google.com/rss/articles/CBMiqgNBVV95cUxQMm52RGp3dGV0NzBiWXdzWU0zU2VkN1Z3N2FtX1ZhMWJmQXNGRmNsYXI4c2RJRmVicThNMkx1Sm5ZcUEzWU1jUnpYbTVsYXlwMHFvYWdXZnJQaHlYZV9DWXN5bjZKNHZ0YmdxMVFrSW1yR2tmc21TUDRyTl9UZ184SmZGREtfaWExWDZpcm5NRDk4OWRJZHQ3dTR6WllqT3Jkc25oQ3ZCNkZQWXc2eGVqM0NmX3lQVEI3TVNTN3ZVZkRJQVV1QVNlSTRSdlV4bFYydk81U3MzX0lKWGxzWDlNNUVfZURtOHBoeTJMZW9fOHpCcnl5RWUwTG9PY0J2N3pxOExQWl9EWkZEZVpZemlzdl9ESTMyT3V4N1FzbURtclFJSVF6TEE1LU1IWEhnWFJkTHJYY0h5VWdsbG1TTmNwS0Q5eUh1Z05lU1NoUXBrb2l5MUpPMDFEU2RfckMzMTUyQTR0Z0swYlZ0ZzkteVZZMlJhZVN0MDN6YXItOXVaUDhGdGotd0didEdMR0ZhYVdfWmZVVnRSdnR2dng3VnpTdmpZRzY5V3p2YWc?oc=5	其他工安	B
 2025-02-14	粉嶺安樂門街地盤50歲男工操作電炮時暈倒昏迷 警列工業意外跟進	https://tw.news.yahoo.com/%E9%A8%8E%E5%A3%AB%E6%93%A6%E6%92%9E%E6%B1%BD%E8%BB%8A-%E5%99%B4%E5%B0%8D%E5%90%91%E9%81%93-%E6%85%98%E9%81%AD%E9%81%8A%E8%A6%BD%E8%BB%8A%E8%BC%BE%E6%96%83-%E5%AE%B6%E5%B1%AC%E6%B7%9A%E5%B4%A9-151615822.html	其他工安	A
+2025-02-14	昏迷前救全車乘客 司機成植物人卻不屬工傷？ 旅遊巴公司願補償	https://www.hk01.com/article/1103104?utm_source=01articlecopy&utm_medium=referral	工業意外	-
 2025-01-26	奪命工傷｜每150億工程有1人死 張欣宇促明晰權責：勿以人命為價	https://news.ifeng.com/c/8pQGkqvKjSv	其他工安	B
 2024-12-18	台南驚悚工安意外！ 鋼鐵廠男工遭輸送帶捲入身體曲折慘死	https://www.chinatimes.com/realtimenews/20241218001954-260402	機械夾傷	A
 2024-12-18	台南鋼鐵廠工安事故「員工遭輸送帶捲入」 當場身亡未送醫	https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E9%8B%BC%E9%90%B5%E5%BB%A0%E5%B7%A5%E5%AE%89%E4%BA%8B%E6%95%85-%E5%93%A1%E5%B7%A5%E9%81%AD%E8%BC%B8%E9%80%81%E5%B8%B6%E6%8D%B2%E5%85%A5-%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1%E6%9C%AA%E9%80%81%E9%86%AB-061100651.html	機械夾傷	A
@@ -527,6 +531,7 @@ var DATA_INDUSTRY = `
 2024-09-19	前年大埔機械倉庫致命工業意外 公司東主被判罰7.9萬元	https://www.881903.com/news/local/2548713	機械夾傷	A
 2024-09-06	尖沙咀麗晶酒店工業意外 女職員4隻手指遭機器夾近20分鐘	https://www.msn.com/zh-tw/news/world/%E8%BB%8A%E7%A6%8D%E6%98%8F%E8%BF%B7%E6%95%B8%E6%9C%88%E7%AA%81%E6%B8%85%E9%86%92-%E9%A9%9A%E7%88%86-%E4%BA%8B%E6%95%85%E9%9D%9E%E6%84%8F%E5%A4%96%E6%98%AF%E6%87%B7%E5%AD%95%E5%A5%B3%E5%8F%8B%E6%95%85%E6%84%8F%E5%8A%A0%E9%80%9F%E6%92%9E%E6%A8%B9-%E5%BE%8C%E5%8E%BB%E4%B8%96/ar-AA1R1B94?cvid=6925005a777b484495be230fff7305d0&ocid=onepro	其他工安	A
 2024-07-26	葵涌工傷｜劍虹地基涉多宗致命工傷遭家屬索償 今年被銀行提清盤	https://news.google.com/rss/articles/CBMirwNBVV95cUxNdGJ6YXBpRmhyNms0TnFhUUxyeDlHSzhvdDdxN1dUUlU1SVN3MWJnZkR3eGV2V2kzVEFvck5FeTgwdUxjYUNJd0xKNE1WTWR1cHM3OGZ3blB0cTlxMllocE5pMjMteWF6ZDh4NC13MGpQVGVsQTAwOG4weDlORlp1SnFldVFhbldNbENRc3dQZ3ctWmhDOEg4Q2wyNWFBY0xyQnZxWDZQR2dTUUV3RzhxMU9TZ0dPUlUzNDNZUFRZbEFqMkdtaUlBWWYxa3V1YlFxTWVrMDVSay10VmtvSzE4NDVmUmtLbUxNX1ZJaWNiNUtPdDhWSDRhU3YzenZmZWVqWEVVZjM3YXp6cmVCdzJjUmN5REJGaVVlSC1aWjV4Mzh4YVJXcjRrZUlVd2QtdUpyMW14ZTNaTG5HTk9ZMnRyeGZjdXpoMVk0Y3Vla2VkREp0dzdsUHJUVmF1V1VvUjNtUDVPR3BfNFVpNDRXUksxVkV3NXdxalBNSHNVU19seUt5U1VfWU9zX1c4Yno0N0RPemZBSGd0Y2RoLTRpelpoc3hwcnl3MFo1c0FSSUo1VQ?oc=5	其他工安	B
+2024-07-24	葛量洪醫院重建地盤 男工高處墮下一度昏迷 送院治理	https://www.hk01.com/article/1041105?utm_source=01articlecopy&utm_medium=referral	其他工安	-
 2024-06-24	大角咀奪命工傷｜死者遺妻兒及年邁母親 兄盼查真相免他人步後塵	https://www.hk01.com/%E7%AA%81%E7%99%BC/1031905/%E5%A4%A7%E8%A7%92%E5%92%80%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7-%E6%AD%BB%E8%80%85%E9%81%BA%E5%A6%BB%E5%85%92%E5%8F%8A%E5%B9%B4%E9%82%81%E6%AF%8D%E8%A6%AA-%E5%85%84%E7%9B%BC%E6%9F%A5%E7%9C%9F%E7%9B%B8%E5%85%8D%E4%BB%96%E4%BA%BA%E6%AD%A5%E5%BE%8C%E5%A1%B5	其他工安	B
 2024-06-23	勞工處指去年共有24宗致命工業意外 逾八成涉建造業	https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUFVUbVQxaDdZLU0wc0o4RmJsMGp0Wmotd193UHNqX2ZGTDFOQ01YdXhYWDRZY19GZUVnSFgyMkZPMmxJNVNPYy02OFI0SF9YOENwTHhjZmIwR1JVQWdwNW9XZVFtRDZrMGQ4c1VJd05jRFpnQlBjWTY4U1pmbUFaam0tMlMzZVJTcy1IV3d2SEJwcnlCc2hEeXVaOHNHaHh5YjVaR3RkMXdLX1FYNU9Cd3BwU2d3OUMzd1BnNjVsTDZZMjJJMGpBN3ZWWDdPajV0ZFdPeUhqM3pNd0lCU2FoUnYtV04xOTVodzR3Q0FmOXJESDNWcDlsTmlKZjVweWRuRzhBVmJYc3JJSmRZRXBQcmx4bTFHWHpFQ3FDbHhLQ0M3NVQxZWRLdTNsYkhycEhoXzdGeERaNFFCdXVXLXd6ZkszbE4wM1h6aHM1a0ZYZFI?oc=5	其他工安	B
 2024-06-12	西九地盤奪命工業意外｜工地「大判」、「二判」被控誤殺 還柙近9個月後獲准保釋 案件9.13再訊	http://www.msn.com/zh-tw/news/national/%E9%A8%8E%E8%BB%8A%E9%97%96%E7%B4%85%E7%87%88-%E5%B1%8F%E6%9D%B1%E5%A5%B3%E5%A4%A7%E7%94%9F%E8%A1%9D%E6%92%9E%E9%85%92%E9%A7%95%E5%96%AE%E8%BB%8A%E9%A8%8E%E5%A3%AB-8%E6%97%AC%E7%BF%81%E6%90%B6%E6%95%912%E5%A4%A9%E4%B8%8D%E6%B2%BB/ar-AA1FbA3B?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	其他工安	A
@@ -538,9 +543,12 @@ var DATA_INDUSTRY = `
 2024-04-23	沙田奪命工傷｜工人原毋須進沙井工作 渠務署即時暫停同類工程	https://luminews.my/zh/news/3677417	其他工安	A
 2024-04-18	【恐怖工傷】蓮塘口岸升降台疑吊運期間飛墮 壓中女工浴血重創	https://www.hk01.com/article/1011381?utm_source=01articlecopy&utm_medium=referral	其他工安	A
 2024-04-18	【屯門奪命工傷】天降石屎擊中頭部 翠鳴臺地盤37歲測量員不治	https://www.hk01.com/article/1011416?utm_source=01articlecopy&utm_medium=referral	其他工安	A
+2024-04-15	92歲「容姨」譚倩紅在家暈倒 家中工人及時發現要裝心臟起搏器	https://www.hk01.com/article/1010453?utm_source=01articlecopy&utm_medium=referral	其他工安	-
+2024-03-24	工地休息突昏倒 48歲男心室顫動 ｜ 中華日報｜中華新聞雲	https://www.cdns.com.tw/articles/981722	其他工安	-
 2024-03-21	葵涌醫院地盤工業意外｜男工人疑由高處墮下 頭部重創當場不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/1002851/%E8%91%B5%E6%B6%8C%E9%86%AB%E9%99%A2%E5%9C%B0%E7%9B%A4%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E7%94%B7%E5%B7%A5%E4%BA%BA%E7%96%91%E7%94%B1%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E9%A0%AD%E9%83%A8%E9%87%8D%E5%89%B5%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB	其他工安	A
 2024-03-21	葵涌醫院地盤工業意外｜建築署：管工疑墮斃 署長李翹彥深表難過	https://www.hk01.com/%E7%AA%81%E7%99%BC/1002937/%E8%91%B5%E6%B6%8C%E9%86%AB%E9%99%A2%E5%9C%B0%E7%9B%A4%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%BB%BA%E7%AF%89%E7%BD%B2-%E7%AE%A1%E5%B7%A5%E7%96%91%E5%A2%AE%E6%96%83-%E7%BD%B2%E9%95%B7%E6%9D%8E%E7%BF%B9%E5%BD%A5%E6%B7%B1%E8%A1%A8%E9%9B%A3%E9%81%8E	其他工安	A
 2024-03-21	打鼓嶺木廠奪命工業意外細節未明 家屬：還家人一個公道	https://spyan-jour.hkbu.edu.hk/2024/03/21/%E6%89%93%E9%BC%93%E5%B6%BA%E6%9C%A8%E5%BB%A0%E5%A5%AA%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%E7%B4%B0%E7%AF%80%E6%9C%AA%E6%98%8E-%E5%AE%B6%E5%B1%AC%EF%BC%9A%E9%82%84%E5%AE%B6%E4%BA%BA%E4%B8%80/	其他工安	A
+2024-03-21	48歲工人突昏倒無生命跡象 她剛好在隔壁做頭髮！救他一命｜壹蘋新聞網	https://tw.nextapple.com/life/20240321/9EE31AC2A1F53A94703492878148C11A	其他工安	-
 2024-03-18	快訊／新店建案工安意外 工人跌進水泥攪拌機慘死	http://www.msn.com/zh-tw/news/national/18%E6%AD%B2%E5%A5%B3%E9%A8%8E%E5%A3%AB%E9%81%AD%E5%90%8A%E8%BB%8A%E8%BC%BE%E6%96%83-%E8%BA%AB%E5%88%86%E6%9B%9D%E5%85%89%E6%98%AF-%E5%8C%97%E9%83%A8%E5%AE%B6%E6%97%8F%E9%86%AB%E9%99%A2%E6%8E%A5%E7%8F%AD%E4%BA%BA/ar-AA1HcQdp?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	其他工安	A
 2024-03-02	新界西堆填區擴建地盤意外 64歲男工疑昏迷7小時無人發現送院亡	https://www.hk01.com/article/996291?utm_source=01articlecopy&utm_medium=referral	未分類	A
 2024-01-15	鹽水澱粉工廠工安意外 左手臂捲入機台送醫	https://tw.news.yahoo.com/%E5%BD%B0%E5%8C%96%E9%80%A32%E8%BB%8A%E7%A6%8D%E9%87%80%E6%82%B2%E5%8A%87-%E6%A9%9F%E8%BB%8A%E8%87%AA%E6%92%9E17%E6%AD%B2%E5%A5%B3%E4%B9%98%E5%AE%A2%E4%BA%A1-29%E6%AD%B2%E9%A8%8E%E5%A3%AB%E5%8D%A1%E8%BB%8A%E5%BA%95%E9%87%8D%E5%82%B7-134453379.html	機械夾傷	A
@@ -564,7 +572,6 @@ var DATA_INDUSTRY = `
 2023-09-24	西九奪命工業意外｜專家質疑冇人監察2死者地下管道作業：成個制度崩潰咗	https://www.stheadline.com/breaking-news/3275711/%E8%A5%BF%E4%B9%9D%E5%A5%AA%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%E5%B0%88%E5%AE%B6%E8%B3%AA%E7%96%91%E5%86%87%E4%BA%BA%E7%9B%A3%E5%AF%9F2%E6%AD%BB%E8%80%85%E5%9C%B0%E4%B8%8B%E7%AE%A1%E9%81%93%E4%BD%9C%E6%A5%AD%E6%88%90%E5%80%8B%E5%88%B6%E5%BA%A6%E5%B4%A9%E6%BD%B0%E5%92%97	其他工安	B
 2023-09-24	柯士甸工業意外｜港鐵：涉「圓方」冷氣系統海水冷卻喉管更換工程	https://www.hk01.com/%E7%AA%81%E7%99%BC/944369/%E6%9F%AF%E5%A3%AB%E7%94%B8%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E6%B8%AF%E9%90%B5-%E6%B6%89-%E5%9C%93%E6%96%B9-%E5%86%B7%E6%B0%A3%E7%B3%BB%E7%B5%B1%E6%B5%B7%E6%B0%B4%E5%86%B7%E5%8D%BB%E5%96%89%E7%AE%A1%E6%9B%B4%E6%8F%9B%E5%B7%A5%E7%A8%8B	其他工安	A
 2023-09-24	柯士甸工業意外｜兩死者21小時後尋獲 管道上鎖 疑工程經理擅離	https://www.hk01.com/%E7%AA%81%E7%99%BC/944452/%E6%9F%AF%E5%A3%AB%E7%94%B8%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%85%A9%E6%AD%BB%E8%80%8521%E5%B0%8F%E6%99%82%E5%BE%8C%E5%B0%8B%E7%8D%B2-%E7%AE%A1%E9%81%93%E4%B8%8A%E9%8E%96-%E7%96%91%E5%B7%A5%E7%A8%8B%E7%B6%93%E7%90%86%E6%93%85%E9%9B%A2	其他工安	A
-2023-09-22	屏東明揚工廠爆炸24小時，4消防員殉職、98傷，揭廠房工安與消防職安缺失	https://www.twreporter.org/a/pingtung-launch-tech-explosion	工業意外	A
 2023-09-18	工人更換抽水馬達疑觸電 倒臥蓄水池搶救不治	https://news.ltn.com.tw/news/society/breakingnews/4431808	觸電	A
 2023-09-10	科學園38歲男電工疑維修電箱觸電昏迷 送院搶救不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/939387/%E7%A7%91%E5%AD%B8%E5%9C%9238%E6%AD%B2%E7%94%B7%E9%9B%BB%E5%B7%A5%E7%96%91%E7%B6%AD%E4%BF%AE%E9%9B%BB%E7%AE%B1%E8%A7%B8%E9%9B%BB%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB	工業意外	A
 2023-09-09	驚悚！台電外包人員遭電擊掛8米高電塔 送醫搶救不治	https://news.ltn.com.tw/news/society/breakingnews/4422895	觸電	A
@@ -583,6 +590,7 @@ var DATA_INDUSTRY = `
 2022-12-24	奪命工業意外一年26宗 職安修例 不容再等	https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20221224-1224_00176_221/%E5%A5%AA%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%E4%B8%80%E5%B9%B426%E5%AE%97--%E8%81%B7%E5%AE%89%E4%BF%AE%E4%BE%8B--%E4%B8%8D%E5%AE%B9%E5%86%8D%E7%AD%89	其他工安	B
 2022-12-15	工業意外｜三日奪三命 工權會要求徹查﹕不能再承受這樣的痛	https://www.hk01.com/%E7%AA%81%E7%99%BC/847333/%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E4%B8%89%E6%97%A5%E5%A5%AA%E4%B8%89%E5%91%BD-%E5%B7%A5%E6%AC%8A%E6%9C%83%E8%A6%81%E6%B1%82%E5%BE%B9%E6%9F%A5-%E4%B8%8D%E8%83%BD%E5%86%8D%E6%89%BF%E5%8F%97%E9%80%99%E6%A8%A3%E7%9A%84%E7%97%9B	其他工安	B
 2022-12-07	大角咀奪命工傷│26歲孝順仔遭沙磚砸斃 父親筆信謝各界慷慨解囊	https://www.hk01.com/%E7%AA%81%E7%99%BC/844703/%E5%A4%A7%E8%A7%92%E5%92%80%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7-26%E6%AD%B2%E5%AD%9D%E9%A0%86%E4%BB%94%E9%81%AD%E6%B2%99%E7%A3%9A%E7%A0%B8%E6%96%83-%E7%88%B6%E8%A6%AA%E7%AD%86%E4%BF%A1%E8%AC%9D%E5%90%84%E7%95%8C%E6%85%B7%E6%85%A8%E8%A7%A3%E5%9B%8A	其他工安	A
+2022-10-05	工人暈倒在幾十米高塔吊駕駛室 消防到場救助_上海灘_新民網	https://news.xinmin.cn/2022/10/05/32242682.html	其他工安	-
 2022-09-29	建造業奪命工業意外創新高 申訴專員主動調查勞工處屋宇署發展局	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/820105/%E5%BB%BA%E9%80%A0%E6%A5%AD%E5%A5%AA%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%E5%89%B5%E6%96%B0%E9%AB%98-%E7%94%B3%E8%A8%B4%E5%B0%88%E5%93%A1%E4%B8%BB%E5%8B%95%E8%AA%BF%E6%9F%A5%E5%8B%9E%E5%B7%A5%E8%99%95%E5%B1%8B%E5%AE%87%E7%BD%B2%E7%99%BC%E5%B1%95%E5%B1%80	其他工安	B
 2022-08-13	地盤工中暑不治「內臟仿被焗熟」僱主拒認工傷司法追訴4年無果	https://www.hk01.com/sns/article/803551	其他工安	A
 2022-08-11	澳門永利皇宮奪命工業意外 菲籍技工被升降台機件夾爆頭慘死	https://www.hk01.com/%E7%AA%81%E7%99%BC/802929/%E6%BE%B3%E9%96%80%E6%B0%B8%E5%88%A9%E7%9A%87%E5%AE%AE%E5%A5%AA%E5%91%BD%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E8%8F%B2%E7%B1%8D%E6%8A%80%E5%B7%A5%E8%A2%AB%E5%8D%87%E9%99%8D%E5%8F%B0%E6%A9%9F%E4%BB%B6%E5%A4%BE%E7%88%86%E9%A0%AD%E6%85%98%E6%AD%BB	其他工安	A
@@ -641,7 +649,6 @@ var DATA_INDUSTRY = `
 2019-05-01	卸扣飛墮 地盤工傷頭命危	https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWENlTjN6SFI2V0RENkROSHlQV2Vuak5fdHlkWUN0UWtYYktnby1wdi00czBQMjE3QUFJREd1QzR4VkR3RERwME5ZSVJLdmNnRDd2b2RLckdweDJuaElRb0o3Q21lanh3N3ZkYUd1QllBaTlFRGF5ZGxXQmc2MFZGUDdTanpWSFJyVVQ1WmszQzNqUUNpdDlLazBydzBHNUFUTjR5N1ZDT05CVmFiZ1VYYy1oVlRGTUw0S1BULVNyOURDaEF2czZVS2s2MWxNcW9jSG5PVXNvaENLRlo4S3gyNkhnZjQ?oc=5	其他工安	B
 2019-04-30	恐怖直擊！谷歌園區施工意外 起重機高空砸落壓死4人	https://www.setn.com/news/534256	工地墮樓	A
 2019-04-01	貨車司機工傷後被資遣 公司被控搬運輔助設施不佳判賠284萬	https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2akpkOFZiLTRVN2Mycmpvczc3MWgtWnRMc3YwZzc0bE84WnJ6aXBWUExhSk56MFA4aWc1dWNwWVczZVJpYmd3dmt6ZkZIUkR5QjlZR1JMXzAyRzNjLWJjQjdBcXBsNFUy0gFuQVVfeXFMUHBKaDJEckk0SU1fSjFUZE5XOFV1bXJUZlNhWXpKd3R4QzJaa3gxVWZLYzJoSnpFSjdiRWhReXp3cWFSVldWVHlpckxISUxuVF82RktSUE9PQUtrOXZXZkx5cWlqRzYzWkNjUll2cXc?oc=5	其他工安	A
-2019-03-12	【奪命工傷】荃灣冷氣機雪種泵爆炸 29歲技工搶救一日不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/304882/%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7-%E8%8D%83%E7%81%A3%E5%86%B7%E6%B0%A3%E6%A9%9F%E9%9B%AA%E7%A8%AE%E6%B3%B5%E7%88%86%E7%82%B8-29%E6%AD%B2%E6%8A%80%E5%B7%A5%E6%90%B6%E6%95%91%E4%B8%80%E6%97%A5%E4%B8%8D%E6%B2%BB	工業意外	A
 2019-03-02	【觀塘奪命工傷】重建地盤凱滙 前身銀都戲院 發展商發百萬恩恤	https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/301458/%E8%A7%80%E5%A1%98%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7-%E9%87%8D%E5%BB%BA%E5%9C%B0%E7%9B%A4%E5%87%B1%E6%BB%99-%E5%89%8D%E8%BA%AB%E9%8A%80%E9%83%BD%E6%88%B2%E9%99%A2-%E7%99%BC%E5%B1%95%E5%95%86%E7%99%BC%E7%99%BE%E8%90%AC%E6%81%A9%E6%81%A4	其他工安	B
 2019-03-02	【觀塘奪命工傷】月華街重建 凱滙木方重擊工人墮斃 遺三子女	https://www.hk01.com/%E7%AA%81%E7%99%BC/301302/%E8%A7%80%E5%A1%98%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7-%E6%9C%88%E8%8F%AF%E8%A1%97%E9%87%8D%E5%BB%BA-%E5%87%B1%E6%BB%99%E6%9C%A8%E6%96%B9%E9%87%8D%E6%93%8A%E5%B7%A5%E4%BA%BA%E5%A2%AE%E6%96%83-%E9%81%BA%E4%B8%89%E5%AD%90%E5%A5%B3	其他工安	A
 2019-03-02	【觀塘奪命工傷】好爸爸凱滙地盤喪命遺三子 遺孀哭崩﹕對手冰㗎	https://www.hk01.com/%E7%AA%81%E7%99%BC/301495/%E8%A7%80%E5%A1%98%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7-%E5%A5%BD%E7%88%B8%E7%88%B8%E5%87%B1%E6%BB%99%E5%9C%B0%E7%9B%A4%E5%96%AA%E5%91%BD%E9%81%BA%E4%B8%89%E5%AD%90-%E9%81%BA%E5%AD%80%E5%93%AD%E5%B4%A9-%E5%B0%8D%E6%89%8B%E5%86%B0%E3%97%8E	其他工安	B
@@ -652,4 +659,66 @@ var DATA_INDUSTRY = `
 2019-01-16	​奪命工業意外 男子疑墮3米深坑慘死	https://www.exmoo.com/article/92951.html	其他工安	A
 2019-01-12	昂船洲地盤昨日有工人墮下死亡 警暫列工業意外處理	https://news.tvb.com/tc/970127-%E6%98%82%E8%88%B9%E6%B4%B2%E5%9C%B0%E7%9B%A4%E6%98%A8%E6%97%A5%E6%9C%89%E5%B7%A5%E4%BA%BA%E5%A2%AE%E4%B8%8B%E6%AD%BB%E4%BA%A1%E8%AD%A6%E6%9A%AB%E5%88%97%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96%E8%99%95%E7%90%86	自然離世	A
 2019-01-09	【奪命工傷】鑽石山悅庭軒男裝修工 26樓棚架墮下送院亡	https://www.hk01.com/%E7%AA%81%E7%99%BC/280465/%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7-%E9%91%BD%E7%9F%B3%E5%B1%B1%E6%82%85%E5%BA%AD%E8%BB%92%E7%94%B7%E8%A3%9D%E4%BF%AE%E5%B7%A5-26%E6%A8%93%E6%A3%9A%E6%9E%B6%E5%A2%AE%E4%B8%8B%E9%80%81%E9%99%A2%E4%BA%A1	未分類	A
+2026-10-29	港珠澳大橋地盤工人墮地受傷後離世 涉事承建商被罰14萬 (19:20) - 20261029 - 港聞	https://news.google.com/rss/articles/CBMiswNBVV95cUxPV0JYR3hiNFZoeEtUWWViT3d1U014dlNWSGxyZ3JZNHBuQWF1cndob0M2OVB2UEE1R09iMmJQUENlWVdKVmtIcW9DQjVTbGRLV2FzZDd2MDg1OURnWHpqMHB0enhMRzkteS1tNG5zNU11eFBOZG9QdXRWYTFFOXZWWldLRnVqVGk5LWNqa2dJQWtJOE0wYVhlb0NpYnFuVjQyRU1rRGwyNFROX2FEUVYtZktnSjZzRU0yRDlXVUFRemhSeFU3MzZ0dzVzelEwXzZlekFoUHFEV0phcG9IYVh4MWxDbldCVVdHYXFZMk1IYmRRakRZTzFOeFJwMVJQLW1sbmg4US0tUndNc0tLOW5SaHNJUS0zUU5LYnB1ckN5a1NJY0t2VVV2U2NHZDh5TXlITE1tcTFDNTlTU0MxVlJvNlRwQkFHOVhXT0ktSmNSU053ZGFac0xBUHZRbzczajNwRWt3QTFpN3lhRm9oUEtjSXY5dGpfaEpvOC10TXpycnVORlBPcHhMMUYwLW5UUXRkQnphdGZyUDQtNjkxbklDREdFNGNHbGQ5ZXJ2bmFHb3RZWm8?oc=5	離世	-
+2026-09-11	深水埗汝州街工人連狗臂架 由天台棚架墮下平台 送院搶救不治	https://www.hk01.com/突發/60389059/深水埗汝州街工人連狗臂架-由天台棚架墮下平台-送院搶救不治	離世	B
+2026-09-11	深水埗工人連狗臂架從棚架墮下 飛墮平台送院搶救不治	https://hk.news.yahoo.com/深水埗工人連狗臂架從棚架墮下-飛墮平台送院搶救不治-063243506.html	離世	B
+2026-08-05	39歲安全經理視察前富豪東方酒店地盤由棚架墮下死亡 家屬到殮房認屍	https://news.tvb.com/tc/1187197-39%E6%AD%B2%E5%AE%89%E5%85%A8%E7%B6%93%E7%90%86%E8%A6%96%E5%AF%9F%E5%89%8D%E5%AF%8C%E8%B1%AA%E6%9D%B1%E6%96%B9%E9%85%92%E5%BA%97%E5%9C%B0%E7%9B%A4%E7%94%B1%E6%A3%9A%E6%9E%B6%E5%A2%AE%E4%B8%8B%E6%AD%BB%E4%BA%A1%E5%AE%B6%E5%B1%AC%E5%88%B0%E6%AE%AE%E6%88%BF%E8%AA%8D%E5%B1%8D	離世	B
+2026-08-03	九龍城有地盤安全經理疑從棚架墮下 昏迷送院搶救後不治	https://news.tvb.com/tc/1186786-%E4%B9%9D%E9%BE%8D%E5%9F%8E%E6%9C%89%E5%9C%B0%E7%9B%A4%E5%AE%89%E5%85%A8%E7%B6%93%E7%90%86%E7%96%91%E5%BE%9E%E6%A3%9A%E6%9E%B6%E5%A2%AE%E4%B8%8B%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	離世	B
+2026-07-27	赤鱲角工人維修飛機外6米墮下 昏迷送院不治	https://www.hkcd.com.hk/hkcdweb/content/2026/07/27/content_8766816.html	離世	B
+2026-06-17	影／製油廠死亡意外！印度55歲女工清油渣衣服被捲入 「連人帶衣」捲進機台慘死	https://sunmedia.tw/news/collaborative/2acUgQRl2gSuldPntgr9btUK4mmfKahkpZSFUMtNIIUC4U3WdIUjKIoe8AxhAA8S3hpviakL	離世	B
+2026-06-10	旺角私人大廈地盤六旬工人 梯上墮下昏迷送院不治	http://hk.on.cc/hk/bkn/cnt/news/20260610/mobile/bkn-20260610120544264-0610_00822_001.html?editorpickDate=20260611&editorpickUuid=402882b15990b2a90159a58b78f0780f&eventID=402882b15aad00a2015aae03e731261b&eventPath=hk_news	離世	B
+2026-06-08	屯門欣寶路地盤男工墮下昏迷送院惜不治- 港聞	https://www.dotdotnews.com/a/202606/08/AP6a2672c5e4b09ea23317b381.html	離世	B
+2026-05-29	嘉市校園內死亡意外！ 風雨操場施工烤漆板掉落砸死工人	https://sunmedia.tw/news/collaborative/2acUgQRl2gSuldPntgr9btUK4mmfKahkpZSFUMtNIIUC4U3WdIUjKIoe8AxhAA8S2XYGA8X5	離世	A
+2026-05-21	影／印度工安死亡意外！20歲男操作紙板模切機 手部遭捲入慘死機器中	https://sunmedia.tw/news/collaborative/2acUgQRl2gSuldPntgr9btUK4mmfKahkpZSFUMtNIIUC4U3WdIUjKIoe8AxhAA8QNR32ZkWX	離世	A
+2026-03-20	葵涌天秤意外｜大窩口道公屋地盤冧天秤 操作員當場死亡 政府勒令承建商暫時停工	https://news.hket.com/article/4101338/葵涌天秤意外｜大窩口道公屋地盤冧天秤 操作員當場死亡 政府勒令承建商暫時停工	離世	A
+2026-03-19	葵涌公屋地盤天秤倒塌 男操作員墮地死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/03/19/content_8745732.html	離世	A
+2026-03-18	南港工地爆死亡意外 61歲工人19樓墜B5慘死現場	https://n.yam.com/Article/20260318550181	離世	A
+2026-02-24	大埔工業邨食品廠工人3米高墮下 昏迷送院搶救不治	https://hk.on.cc/hk/bkn/cnt/news/20260224/bkn-20260224142141420-0224_00822_001.html	離世	B
+2026-02-24	大埔工業邨男工人疑搭棚期間從3層高墮下 昏迷送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/60324533/%E5%A4%A7%E5%9F%94%E5%B7%A5%E6%A5%AD%E9%82%A8%E7%94%B7%E5%B7%A5%E4%BA%BA%E7%96%91%E6%90%AD%E6%A3%9A%E6%9C%9F%E9%96%93%E5%BE%9E3%E5%B1%A4%E9%AB%98%E5%A2%AE%E4%B8%8B-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	離世	B
+2026-02-23	大埔美心食品廠男工人外牆維修棚架墮下 昏迷送院不治	https://www.singtao.ca/7426185/2026-02-23/news-大埔美心食品廠男工人外牆維修棚架墮下+昏迷送院不治/	離世	B
+2026-02-03	一座用於將被困工人從廢墟中救出的未完工橋樑突然倒塌，造成五人死亡。		離世	A
+2026-01-28	粉嶺安全街地盤 男棚工疑失足從棚架墮下 昏迷送院後不治	https://www.bastillepost.com/hongkong/article/15619012-83%E6%AD%B2%E8%80%81%E7%BF%81%E7%89%9B%E9%A0%AD%E8%A7%92%E9%81%8E%E9%A6%AC%E8%B7%AF%E9%81%AD%E6%92%9E%E5%88%B0%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E3%80%80%E8%AD%A6%E6%8B%9875%E6%AD%B2%E5%B0%8F	離世	B
+2025-11-07	南韓電廠拆除意外搶救第2天 1工人今晨宣告死亡、瓦礫下疑發現殘指	https://today.line.me/tw/v3/article/OpyozrE	離世	A
+2025-11-04	意大利一名工人從部分倒塌的中世紀塔樓中被救出後死亡		離世	A
+2025-11-02	男工疑失足從秀茂坪安禧街地盤棚架墮下死亡	https://news.rthk.hk/rthk/ch/component/k2/1829791-20251102.htm	離世	A
+2025-10-24	大埔食品廠致命意外。工人貨車尾板上墮下。頭部受傷，14日後離世。被判罰款46000元。		離世	A
+2025-10-09	修树全身没伤 工人却当场死亡	https://www.chinapress.com.my/20251009/%E4%BF%AE%E6%A0%91%E5%85%A8%E8%BA%AB%E6%B2%A1%E4%BC%A4-%E5%B7%A5%E4%BA%BA%E5%8D%B4%E5%BD%93%E5%9C%BA%E6%AD%BB%E4%BA%A1/	離世	A
+2025-08-22	長沙灣潤發倉重建地盤 男工梯級上墮下 昏迷送院不治	https://www.singtaousa.com/2025-10-03/%E5%8F%B2%E5%B3%B6%E5%8D%97%E7%81%98%E8%A1%8C%E4%BA%BA%E8%A2%AB%E6%92%9E%E6%96%83-%E8%AD%A6%E8%AD%89%E5%AF%A6%E6%AD%BB%E8%80%85%E6%98%AF%E8%8F%AF%E5%A9%A6/5345511	離世	B
+2025-08-22	錦繡花園工人維修簷篷期間墮下昏迷送院(22:05) - 20250822 - 港聞- 即時新聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20250822/s00001/1755870400233/%E9%8C%A6%E7%B9%A1%E8%8A%B1%E5%9C%92%E5%B7%A5%E4%BA%BA%E7%B6%AD%E4%BF%AE%E7%B0%B7%E7%AF%B7%E6%9C%9F%E9%96%93%E5%A2%AE%E4%B8%8B-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	離世	-
+2025-01-09	北市補蜂工人卡樹上「離奇死亡」 有穿防護衣！ 死因待驗	https://www.msn.com/zh-tw/news/national/%E5%8C%97%E5%B8%82%E8%A3%9C%E8%9C%82%E5%B7%A5%E4%BA%BA%E5%8D%A1%E6%A8%B9%E4%B8%8A-%E9%9B%A2%E5%A5%87%E6%AD%BB%E4%BA%A1-%E6%9C%89%E7%A9%BF%E9%98%B2%E8%AD%B7%E8%A1%A3-%E6%AD%BB%E5%9B%A0%E5%BE%85%E9%A9%97/ar-AA1GWPFz?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	離世	C
+2024-11-08	大圍柏傲莊三期地盤男工被吊籠夾傷送院後死亡 據悉電梯突下墮	https://news.tvb.com/tc/816570-%E5%A4%A7%E5%9C%8D%E6%9F%8F%E5%82%B2%E8%8E%8A%E4%B8%89%E6%9C%9F%E5%9C%B0%E7%9B%A4%E7%94%B7%E5%B7%A5%E8%A2%AB%E5%90%8A%E7%B1%A0%E5%A4%BE%E5%82%B7%E9%80%81%E9%99%A2%E5%BE%8C%E6%AD%BB%E4%BA%A1%E6%93%9A%E6%82%89%E9%9B%BB%E6%A2%AF%E7%AA%81%E4%B8%8B%E5%A2%AE	離世	A
+2023-06-03	本港最少四人中暑其中兩死 勞工處調查確定工人暈倒後離世原因	https://news.tvb.com/tc/847110-本港最少四人中暑其中兩死勞工處調查確定工人暈倒後離世原因	離世	A
+2023-01-30	馬鞍山城大學生宿舍地盤 男工天秤墮下死亡	https://hk.on.cc/hk/bkn/cnt/news/20230130/bkn-20230130181225048-0130_00822_001.html	離世	A
+2021-10-15	嘉市鐵路高架工人墜地死亡 職安署今現勘調查	https://news.google.com/rss/articles/CBMiaEFVX3lxTE15R3NFRXpzd1JhOUZEc3JPTklsNmRoNW9SRFdWQTJQMm1pWktjZUozUF9FTWtlV1E5MnptZ3IyOFFGY2x6cG5VYVYzVUJ2aUFpSzY0TUdpLU5oOWc4blRibmU1TXp2QmNG0gFuQVVfeXFMUEhLUGs1aElid3BhR2c2RnRQWUc1cDNwT1JwWWRBTmlBak8ydHdrSWF6b3M0VDlqem9RU01LTk01M0pDQ0diS3lseEpqZHN4djFpcV9oeFBTNy1wQzVCRXJTaUZOemNzWnFPbVhlWUE?oc=5	離世	A
+2020-06-27	[現場]消防︰啟德有地盤工人遭重約十噸工字鐵擊中 當場死亡	https://news.tvb.com/en/923248-%E7%8F%BE%E5%A0%B4%E6%B6%88%E9%98%B2%E5%95%9F%E5%BE%B7%E6%9C%89%E5%9C%B0%E7%9B%A4%E5%B7%A5%E4%BA%BA%E9%81%AD%E9%87%8D%E7%B4%84%E5%8D%81%E5%99%B8%E5%B7%A5%E5%AD%97%E9%90%B5%E6%93%8A%E4%B8%AD%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1	離世	A
+2019-08-13	助手兒目睹高空吊籃突斷裂 2工人6層樓直墜地面死亡	https://news.ltn.com.tw/news/society/breakingnews/2882805	離世	A
+2026-10-24	新北新莊工地意外2電梯工人墜樓亡| 社會	https://news.google.com/rss/articles/CBMiX0FVX3lxTE12bzhMeWhJRUs0TWdSRHhtcmlVc0RabjVOYXlUMGswNmhJaWdSRTRTR0hPaDBRNURHTmhZM2xUMzJ0V2VGb0pmQjdDRTdlUS1wQlJjQWpNbW5BM2FOWmhB?oc=5	其他方式	-
+2025-11-03	台中大樓工地意外！ 冷氣裝修工人18樓墜樓2樓露台當場死亡	https://www.tcpttw.com/other/other_local/2025/11/03/214748/	其他方式	A
+2025-08-14	屯門新圍苑男工人墮水缸 手臂卡去水口遇溺送院 與死神搏鬥近半月離世	https://www.singtao.ca/7240217/2025-08-14/news-%E5%B1%AF%E9%96%80%E6%96%B0%E5%9C%8D%E8%8B%91%E7%94%B7%E5%B7%A5%E4%BA%BA%E5%A2%AE%E6%B0%B4%E7%BC%B8+%E6%89%8B%E8%87%82%E5%8D%A1%E5%8E%BB%E6%B0%B4%E5%8F%A3%E9%81%87%E6%BA%BA%E9%80%81%E9%99%A2%C2%A0%E8%88%87%E6%AD%BB%E7%A5%9E%E6%90%8F%E9%AC%A5%E8%BF%91%E5%8D%8A%E6%9C%88%E9%9B%A2%E4%B8%96/	自然離世	A
+2026-10-20	屯門內河碼頭貨船意外 男工人從高處墮甲板 昏迷送院搶救	https://news.google.com/rss/articles/CBMijANBVV95cUxQaFdpX1NyZGt0SEppcFRTYUNhOHlCX3lLSHpOaVhjcW5YM1M2MzFXdXJkbDNhVXp2Y211bEZsRUpZUGRYMThESXBibEZjZ2FJVnl4SUVzeVNYazRJWkdvZ1dSaWhlaS1KcDhNWGlpTUZxbkczNWxGNzFvQTNSNWpXOFNjQTdBMGh1dDJXR1NwYVl2eC13R0RGQnFRTGw4X0hPYklReGpFaF81cEZpcDVFeXlPMng1anVZQWFkaVdEbU9SdTBqa2tRSkhvZGoxaXVfcTVkeEMzLXRuUV8yVEJUUDNER0ViX2RodUEyVUt4cmhZeDhabi1WbzI3X0dZSWRHYS1od1ZENzdQRm40b25tSlN6MG10RGotcXd0ek9Tdmh5djE5N1l4YzFLSlJUaUpoMlgyOFR6aUJDZE1VWnhjQlZpckNfLVpKcGZpalNUNVhieW0zQUFMblV3VmJiUTZPc3lKZDhPeGdabHhkeHVnOEc1R3VjNllvYTZ0WkRqWDV0d2xsYjQxWUx0NHk?oc=5	社會	-
+2026-08-14	密室逃脫員工扮吊死鬼意外身亡 業者「職災補償不足」遭罰15萬元 | CTWANT	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sbVF3VTlTM3lGd2NhS2lfbkdueDJubHVNdXllRGlqVW1RUGxkcUhGRWtWeEtuOWphRkpzdXpENGI2YV96c3VhbEFqdkRreWdvSkZVWUdB?oc=5	社會	A
+2026-04-06	石鼓洲工人意外墮下受傷 直升機送院 (23:56) - 20260406 - 港聞	https://news.mingpao.com/ins/港聞/article/20260406/s00001/1775460891236/石鼓洲工人意外墮下受傷-直升機送院	社會	A
+2026-03-21	葵涌警員開槍案｜持刀漢中五槍昏迷送院 警方指疑犯為地盤工疑精神有問題	https://news.tvb.com/sc/local/69bdf50d67ae60978fc94278/港澳-葵涌警員開槍案｜持刀漢中五槍昏迷送院-警方指疑犯為地盤工疑精神有問題	社會	A
+2026-03-19	葵涌地盤天秤倒塌砸毀汽車 操作員高處墮地傷重不治	https://www.orangenews.hk/hongkong/VEIruBi/葵涌地盤天秤倒塌砸毀汽車-操作員高處墮地傷重不治.shtml	社會	A
+2026-03-02	南非約翰內斯堡地盤混凝土板倒塌 至少6死2人被困	https://www.singtao.ca/7432612/2026-03-02/news-南非約翰內斯堡地盤混凝土板倒塌+至少6死2人被困/	社會	A
+2026-01-16	泰國再有起重機倒塌釀2死 揭與昨日意外屬同一承建商		社會	A
+2026-01-15	泰國再發生起重機倒塌意外致2 死與昨日意外涉及同一承建商	https://news.rthk.hk/rthk/ch/component/k2/1840008-20260115.htm	社會	A
+2025-12-25	恐怖工業命案！工廠工人離奇墮入鍋爐慘死 消防員救出證當場身亡	https://www.orangenews.hk/international/V6MDVbu/%E5%88%A9%E6%AF%94%E4%BA%9E%E7%B8%BD%E5%8F%83%E8%AC%80%E9%95%B7%E5%A2%9C%E6%A9%9F%E4%BA%A1--%E9%BB%91%E7%9B%92-%E5%B0%87%E9%80%81%E5%BE%80%E4%B8%AD%E7%AB%8B%E5%9C%8B%E6%AA%A2%E6%9F%A5.shtml	社會	A
+2025-12-23	韓媒：韓國高速公路橋樑工地倒塌 2死5傷3失蹤｜有片	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60306276/%E9%9B%BB%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%92%9E%E6%96%833%E6%AD%B2%E5%A5%B3%E7%AB%A5-%E5%AE%98%E6%8C%87%E7%A2%B0%E6%92%9E%E7%84%A1%E5%8F%AF%E9%81%BF%E5%85%8D%E6%98%AF%E6%B8%9B%E5%88%91%E5%9B%A0%E7%B4%A0-%E5%88%A4%E5%9B%9A4%E6%98%9F%E6%9C%9F	社會	A
+2025-12-05	屯門工人意外墮海失蹤 土拓署：全力配合搜救 嚴肅跟進事故成因	https://m.hkej.com/landing/mobarticle2/id/4267124/%E5%85%AB%E6%97%AC%E5%A9%A6%E7%81%A3%E4%BB%94%E9%81%AD%E6%97%85%E9%81%8A%E5%B7%B4%E6%92%9E%E6%96%83%20%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8D%95	社會	A
+2025-11-21	去年啟德棚架倒塌致兩死 警方改列誤殺案拘捕男管工及棚架男工人	https://news.tvb.com/tc/1135141-%E5%8E%BB%E5%B9%B4%E5%95%9F%E5%BE%B7%E6%A3%9A%E6%9E%B6%E5%80%92%E5%A1%8C%E8%87%B4%E5%85%A9%E6%AD%BB%E8%AD%A6%E6%96%B9%E6%94%B9%E5%88%97%E8%AA%A4%E6%AE%BA%E6%A1%88%E6%8B%98%E6%8D%95%E7%94%B7%E7%AE%A1%E5%B7%A5%E5%8F%8A%E6%A3%9A%E6%9E%B6%E7%94%B7%E5%B7%A5%E4%BA%BA	社會	A
+2025-11-06	高雄燕巢區驚傳工地意外！怪手傾倒壓傷男工人 當場失去意識送醫	https://www.hk01.com/%E7%AA%81%E7%99%BC/60291840/%E7%B2%89%E5%B6%BA%E5%85%A7%E5%9C%B0%E7%94%B7%E9%81%8E%E9%A6%AC%E8%B7%AF%E6%8D%B1%E5%B0%8F%E5%B7%B4%E6%92%9E%E6%98%8F%E8%BF%B7%E5%80%92%E5%9C%B0-%E5%8F%B8%E6%A9%9F%E6%B6%89%E5%8D%B1%E9%A7%95%E8%A2%AB%E6%8D%95	社會	A
+2025-11-02	秀茂坪塌天秤釀9死傷地盤再生意外 搭棚男工9樓墮下亡	https://hk.on.cc/hk/bkn/cnt/news/20251102/bkn-20251102154113758-1102_00822_001.html	社會	A
+2025-10-23	「精進系」旗下地盤涉兩奪命意外 母公司興聯：安排董事突擊巡查工地 對續牌感樂觀	https://guangming.com.my/%E5%A5%B3%E5%AD%90%E8%B7%A8%E8%B6%8A%E5%A4%A7%E9%81%93%E9%81%AD%E6%92%9E%E6%AD%BB-%E8%AD%A6%E8%B0%83%E5%8F%96%E7%94%B5%E7%9C%BC%E6%9F%A5%E6%B6%89%E6%A1%88%E8%BD%A6%E8%BE%86	社會	A
+2025-10-20	政務司司長陳國基:倘有人違法致工人傷亡 必從嚴處理 2022年安達臣道地盤塌天秤意外，造成3死6傷的慘劇，警方昨日以誤殺罪拘捕涉事地盤總承建商一名時任項目經理，並通緝一名外判註冊結構工程師。	https://hk.on.cc/hk/bkn/cnt/news/20251020/mobile/bkn-20251020010103647-1020_00822_001_cn.html	社會	A
+2025-10-09	逾2年前啟德地盤致命意外 涉事承建商等被判罰款最高8.7萬	https://news.pchome.com.tw/society/crwant/20251009/index-75998800060528316002.html	社會	A
+2025-10-08	西班牙馬德里市中心改建中樓宇倒塌 至少2死3傷 2工人失蹤	https://www.hk01.com/即時國際/60283289/西班牙馬德里市中心改建中樓宇倒塌-至少2死3傷-2工人失蹤	社會	A
+2025-09-12	東京港血腥意外！恐怖妖風襲碼頭 工人遭「4噸貨櫃」 活活壓死	https://www.ettoday.net/news/20250912/3032556.htm	社會	A
+2025-08-27	工業意外｜港島西半山慧明苑棚架倒塌 2名工人受傷		社會	A
+2025-08-22	中國青海爆大橋施工意外繩索斷裂工人集體墜落黃河 傳至少7死9失蹤 | 自由電子報	https://news.ltn.com.tw/news/world/breakingnews/5152507	社會	A
+2025-08-15	華營建築涉19年東涌地盤致命意外 被紀律委員會譴責及須付研訊費	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60266875/%E8%8F%AF%E7%87%9F%E5%BB%BA%E7%AF%89%E6%B6%8919%E5%B9%B4%E6%9D%B1%E6%B6%8C%E5%9C%B0%E7%9B%A4%E8%87%B4%E5%91%BD%E6%84%8F%E5%A4%96-%E8%A2%AB%E7%B4%80%E5%BE%8B%E5%A7%94%E5%93%A1%E6%9C%83%E8%AD%B4%E8%B2%AC%E5%8F%8A%E9%A0%88%E4%BB%98%E7%A0%94%E8%A8%8A%E8%B2%BB	社會	A
+2025-08-12	影／賓州鋼鐵工廠「多次爆炸」！1死1失蹤		社會	A
+2024-06-25	日本重大工業意外 新潟縣地下配管工程突爆炸 1死5傷	https://www.hk01.com/article/1030021?utm_source=01articlecopy&utm_medium=referral	社會	A
+2024-02-20	啟德承富里「澐璟」地盤工業意外 大型棚架倒塌 2死3傷	https://www.hk01.com/%E7%AA%81%E7%99%BC/992628/%E5%95%9F%E5%BE%B7%E6%89%BF%E5%AF%8C%E9%87%8C-%E6%BE%90%E7%92%9F-%E5%9C%B0%E7%9B%A4%E5%B7%A5%E6%A5%AD%E6%84%8F%E5%A4%96-%E5%A4%A7%E5%9E%8B%E6%A3%9A%E6%9E%B6%E5%80%92%E5%A1%8C-2%E6%AD%BB3%E5%82%B7	社會	A
+2022-04-27	荃灣海角街地盤三級火兩傷 荃葵青或受煙霧影響籲市民保持鎮定	https://news.tvb.com/tc/873043-%E8%8D%83%E7%81%A3%E6%B5%B7%E8%A7%92%E8%A1%97%E5%9C%B0%E7%9B%A4%E4%B8%89%E7%B4%9A%E7%81%AB%E5%85%A9%E5%82%B7%E8%8D%83%E8%91%B5%E9%9D%92%E6%88%96%E5%8F%97%E7%85%99%E9%9C%A7%E5%BD%B1%E9%9F%BF%E7%B1%B2%E5%B8%82%E6%B0%91%E4%BF%9D%E6%8C%81%E9%8E%AE%E5%AE%9A	社會	A
 `;

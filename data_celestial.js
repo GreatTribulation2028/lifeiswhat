@@ -1,4 +1,4 @@
-// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 52 條
+// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 53 條
 var DATA_CELESTIAL = `
 2026-10-14	有圖／今年最大「超級月亮」點亮夜空 震撼美照曝光	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EdGo4SFNxNnVrV09ZRHc0cGRLTFVCb1ZKZzJ0eGV0eW5JMkJPRzRkY1RFZnpxaXJhMUJ6NmRlbGVxQk1Jb01YMNIBTEFVX3lxTE5STFk2WFdEMlZWRHctZGZELWxqMDRNMS1GUlNSem5Hd1dhZDVUVmkySzJkODNCakJPVElZckQ2U2dpNHk3ejFxYVdkYkM?oc=5	天象	A
 2026-09-29	3月3日的月全食將是2028年除夕前的最後一次月全食	https://citytimes.tw/科技/3月3日的月全食將是2028年除夕前的最後一次月全食/914215/	血月日蝕	A
@@ -46,6 +46,7 @@ var DATA_CELESTIAL = `
 2024-10-24	小行星撞擊預警再度成功，五顆近地小行星今日最靠近地球	https://technews.tw/2024/10/24/asteroid/	彗星隕石	A
 2024-01-30	週五「小行星」飛近地球！大小等同臺北101 天文館：不會撞進來	https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pSmVtVDhzenVxb2U2alR4TlBRSl9vMmp3QkR5b3czWXF6MnpYdlNOMjNjT3BzZ2lIaWFsaDFBX0FNcUoxdXBHeXBEaEXSAVJBVV95cUxQREV5U3pVdVlkNHJ1M3lsMlNDY3AxYXNrc0w1emtwUVJCTXRQZkdrUlpROFRQSmJmSUp3Njc1LURBQXhlYU5lYVVBVURwaUVJc09B?oc=5	彗星隕石	A
 2024-01-30	小行星逼近地球！直徑等同「整座台北101」 天文館回應了	https://news.tvbs.com.tw/life/2382895	彗星隕石	A
+2024-01-29	彗星撞地球？5顆小行星與地球「擦身而過」 最接近時間點曝光	https://www.ftnn.com.tw/news/176381	彗星隕石	A
 2023-02-01	ZTF彗星今最接近地球 錯過恐要等5萬年	https://news.pts.org.tw/article/620718	彗星隕石	A
 2022-04-28	異象頻頻！成都驚現超大日暈北京四月飄雪吉兆還是凶兆？（視頻） | 四川 | 成都 | 日暈| 血色太陽| 血月	https://www.soundofhope.org/post/616078?lang=b5	血月日蝕	B
 2022-01-20	比101大樓大2倍！「小行星7482」掠過地球 北市天文館拍到了	https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mY0JDV3FhY1ctbGNFR1dvSlJCMUVMNUVnNklwbUxWNGhJYjRsd0U0c281Qi1DWWJNWlRXWXN4X1ZOWTNvejZrcjJmSVJrMUREMzl3cElZNVJIbXNNQjdwUWhENXDSAWpBVV95cUxPSUl2REJRaS1PNWFjczNqb0hveXNING9ONlNPeTlySFFXRUkwTjROU3I0Z2dlbGZGUnRCaVJ3RXR1NkJjSldQWUFYVmFDMDR3U3ZDRFVPRTJyQ0kzNVVERGRzS2l6ZV9pNGRn?oc=5	彗星隕石	A
