@@ -1,8 +1,6 @@
-// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 567 條
+// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 551 條
 var DATA_DISASTER = `
 2026-11-03	青山公路洪水桥夺命车祸｜男司机一度不顾而去 其后报警自首	https://global.hk01.com/%E7%AA%81%E5%8F%91/60406423/%E9%9D%92%E5%B1%B1%E5%85%AC%E8%B7%AF%E6%B4%AA%E6%B0%B4%E6%A1%A5%E5%A4%BA%E5%91%BD%E8%BD%A6%E7%A5%B8-%E7%94%B7%E5%8F%B8%E6%9C%BA%E4%B8%80%E5%BA%A6%E4%B8%8D%E9%A1%BE%E8%80%8C%E5%8E%BB-%E5%85%B6%E5%90%8E%E6%8A%A5%E8%AD%A6%E8%87%AA%E9%A6%96	天災	-
-2026-11-03	葵涌石圍角邨6米樹椏折斷飛墮 砸傷女子頭部半昏迷送院	https://www.singtao.ca/7673411/2026-11-02/news-%E8%91%B5%E6%B6%8C%E7%9F%B3%E5%9C%8D%E8%A7%92%E9%82%A86%E7%B1%B3%E6%A8%B9%E6%A4%8F%E6%8A%98%E6%96%B7%E9%A3%9B%E5%A2%AE+%E7%A0%B8%E5%82%B7%E5%A5%B3%E5%AD%90%E9%A0%AD%E9%83%A8%E5%8D%8A%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2/	其他災害	-
-2026-11-03	荃灣石圍角邨塌6 米樹椏老婦遭砸中頭部半昏迷送院	https://www.bastillepost.com/hongkong/article/17105304-%E8%8D%83%E7%81%A3%E7%9F%B3%E5%9C%8D%E8%A7%92%E9%82%A8%E5%A1%8C6%E7%B1%B3%E6%A8%B9%E6%A4%8F-%E8%80%81%E5%A9%A6%E9%81%AD%E7%A0%B8%E4%B8%AD%E9%A0%AD%E9%83%A8%E5%8D%8A%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2	其他災害	-
 2026-11-03	洪水橋婦人遭私家車撞倒不治 司機返家後報案被捕	https://hk.on.cc/hk/bkn/cnt/news/20261103/bkn-20261103015044890-1103_00822_001.html	天災	-
 2026-11-02	青山公路洪水橋段致命車禍54歲女子死亡	https://news.google.com/rss/articles/CBMib0FVX3lxTE5aUVBKbWtmMXNiTVlGektYemFlanE5ZGhVQzVxQ0FDa2Fqd2d1TDVBaE1ibDhOZHloWVNYYkRpM3dNQVVnVkIxbHJwUXU2M01DejBlYmhWQm5fanJqYVprVGNXX3k3eFlHZklRNXJpVQ?oc=5	涉及傷亡	-
 2026-11-02	洪水橋婦人遭私家車撞倒不治 司機返家後報案被捕	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkRWS28xQ1laSExZcm5yMWZ5d0xqT2dCS19aR3VVWXVfZlBuU3dQRDRmdWNja252UTd1bzZrMFFUUW5lMDBnZ2Q0dUJINjRTWnRPWGtfd2ZCdU5NSlFZRWZqU1hsTmdlOFRieDJrdWRlQ3FoWmFYR2JlRFFoN1VkSHpoampPTGR1dHhR?oc=5	天災	-
@@ -58,9 +56,6 @@ var DATA_DISASTER = `
 2026-10-08	呂宋島南部塔阿爾火山噴發 暫無人員傷亡及財產損失報告	https://news.rthk.hk/rthk/ch/component/k2/1873201-20261008.htm	其他災害	A
 2026-09-30	重慶、達州洪水 農村受災嚴重 民被大水捲走	https://www.ntdtv.com/b5/2026/09/29/a104137367.html	水災暴雨	A
 2026-09-30	規模5.9地震「台日一起晃」 日本發布海嘯預報	https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xUlJ2VkpOOXNsT3h5ckxYN3BwX09pSWt6dGJxZHNzQl83Z1hwQzJLbjBUX1VZNjM5OHVpcDEyYXRwYWU0WElWQ1hXel84ZmUta3V3?oc=5	地震	A
-2026-09-29	酷熱天氣警告生效 男子行西貢麥理浩徑昏迷 直升機送院搶救	https://www.hk01.com/突發/60394714/酷熱天氣警告生效-男子行西貢麥理浩徑昏迷-直升機送院搶救	其他災害	-
-2026-09-29	酷熱天氣警告 西貢麥理浩徑青年行山暈倒 一度昏迷送院救治	https://www.stheadline.com/breaking-news/3620509/酷熱天氣警告-西貢麥理浩徑青年行山暈倒-一度昏迷送院救治	其他災害	-
-2026-09-29	越南暴雨女鐵騎士「被雷劈」慘摔昏迷急送醫 驚悚畫面曝光｜有片	https://www.hk01.com/即時國際/60394722/越南暴雨女鐵騎士-被雷劈-慘摔昏迷急送醫-驚悚畫面曝光-有片	天災	-
 2026-09-29	規模6.3地震襲擊阿拉斯加州尼科爾斯基地區 作者 Investing.com	https://hk.investing.com/news/economy-news/article-93CH-1662676	地震	A
 2026-09-29	菲律賓棉蘭老島中級地震, 不會對大馬構成海嘯威脅	https://www.overseaschinesedailynews.com.my/news/125354/	地震	A
 2026-09-29	菲律賓坎拉翁火山爆炸性噴發 火山灰柱高達2500米	https://www.chinesepress.com/archives/129547	其他災害	A
@@ -148,8 +143,6 @@ var DATA_DISASTER = `
 2026-08-28	四川地震丨隆昌市5.1級地震 震源深度13公里	https://www.hkej.com/instantnews/current/article/4496524/四川地震丨隆昌市5.1級地震+震源深度13公里	地震	A
 2026-08-28	印尼塞梅鲁火山六小时内发生21次喷发地震	https://www.shangbaoindonesia.com/read/2026/08/28/kesra-1787880503	其他災害	A
 2026-08-28	印尼勒沃托比火山喷发 火山灰柱高达2500米	https://d.youth.cn/shrgch/202608/t20260828_16838660.htm	其他災害	A
-2026-08-27	紅雨｜將軍澳舢舨六旬漁民暈倒送院亡 疑曾遭雷電擊中（更新） 今日（27日）清晨5時05分，天文台於發出紅色暴雨警告，其後於早上9時20分改發黃色暴雨警告。早上9時14分，紅色暴雨警告生效期間，一名男子於將軍澳跨灣大橋橋底的一艘...	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1049770/%E7%B4%85%E9%9B%A8-%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%88%A2%E8%88%A8%E5%85%AD%E6%97%AC%E6%BC%81%E6%B0%91%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E7%96%91%E6%9B%BE%E9%81%AD%E9%9B%B7%E9%9B%BB%E6%93%8A%E4%B8%AD-%E6%9B%B4%E6%96%B0-	水災暴雨	C
-2026-08-27	紅雨．有片｜將軍澳舢舨上六旬漁民暈倒送院亡 目擊者：冇晒知覺 天文台於今日（27日）清晨5時05分發出紅色暴雨警告，其後於早上9時20分改發黃色暴雨警告。在紅色暴雨警告生效期間，有人在船上暈倒。今早9時14分，	https://www.hk01.com/%E7%AA%81%E7%99%BC/60384073/%E7%B4%85%E9%9B%A8-%E6%9C%89%E7%89%87-%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%88%A2%E8%88%A8%E4%B8%8A%E5%85%AD%E6%97%AC%E6%BC%81%E6%B0%91%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%86%87%E6%99%92%E7%9F%A5%E8%A6%BA	水災暴雨	C
 2026-08-27	暴雨乾旱馬鈴薯縮水 衝擊薯條供應	https://tw.news.yahoo.com/暴雨乾旱馬鈴薯縮水-衝擊薯條供應-230125737.html	水災暴雨	B
 2026-08-27	印尼勒沃托比火山噴發 火山灰柱高達2500米	https://news.google.com/rss/articles/CBMid0FVX3lxTE9ibk5nSVdLQ2o1RDAyVHNUZmZ4ZlkwU2djRGZzblUyZUczaF8xS05McG00ZlJ3RFdQYmYtdmlnbFJSbTBFTFJQUXRNQmxZNWhYZUZCSDlLUDQ5WWdQR1QxVzZ0Z1lSeVlpMThjUThBYXdIeGtGNlFV?oc=5	其他災害	A
 2026-08-25	地震！國家警報響！15:00東南部海域規模5.8地震 最大震度台東4級 雙北有感	https://tw.news.yahoo.com/地震！國家警報響！1500東南部海域規模58地震-最大震度台東4級-雙北有感-070823939.html	地震	A
@@ -175,7 +168,6 @@ var DATA_DISASTER = `
 2026-08-18	短片：歐美多地山火持續 加拿大火勢蔓延 比利時山火失控 (13:26) - 20260818 - 熱點	https://news.mingpao.com/ins/熱點/article/20260818/s00024/1787027277919/短片-歐美多地山火持續-加拿大火勢蔓延-比利時山火失控	大火山火	B
 2026-08-18	山火燒毀奧肯納根果園 農民設法做醬汁守住農業命脈	https://www.singtao.ca/7601019/2026-08-18/news-山火燒毀奧肯納根果園+++農民設法做醬汁守住農業命脈/	其他火警	B
 2026-08-18	乾旱熱浪加劇 德國今年穀物收成恐跌7%低於歷史水準	https://money.udn.com/money/amp/story/5599/9699820	熱浪乾旱	B
-2026-08-17	葵涌清潔女工酷熱天氣警告下暈倒山邊送院救治	https://www.bastillepost.com/hongkong/article/16585775-葵涌清潔女工酷熱天氣警告下暈倒山邊送院救治	其他災害	-
 2026-08-17	緬甸地震中受災的舊日本軍士兵悼念佛塔將重建	https://www.nippon.com/hk/news/yjj2026081700088/	地震	B
 2026-08-17	澳廣視新聞｜比利時東部山火燒毀逾二千公頃土地｜	https://www2.tdm.com.mo/zh-hant/news-detail/1230522?lang=zh-hant&isvideo=&category=all&shortvideo=0	其他火警	B
 2026-08-17	比利時山火逼近德國 希臘調查致命火災 歐洲多國受熱浪侵襲	https://www.bastillepost.com/hongkong/article/16587097-比利時山火逼近德國-希臘調查致命火災-歐洲多國受	大火山火	B
@@ -422,14 +414,11 @@ var DATA_DISASTER = `
 2026-04-20	日本地震後解除海嘯警報 未報告任何損失	https://hk.finance.yahoo.com/news/%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E5%BE%8C%E8%A7%A3%E9%99%A4%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1-%E6%9C%AA%E5%A0%B1%E5%91%8A%E4%BB%BB%E4%BD%95%E6%90%8D%E5%A4%B1-180006195.html	地震	A
 2026-04-17	黃雨期間多區暴雨 離島一度現冰雹 鴨脷洲有棚架倒塌 三人受傷送院	https://www.i-cable.com/新聞資訊/456328/黃雨期間多區暴雨-離島一度現冰雹-鴨脷洲有棚	水災暴雨	A
 2026-04-07	福建暴雨傳重大意外 小客車墜橋釀5死	https://tw.news.yahoo.com/福建暴雨傳重大意外-小客車墜橋釀5死-144400268.html	天災	A
-2026-04-03	詐騙海嘯擋不住！北檢檢察官過勞昏倒 「天天拚到深夜」辦公室倒地送醫	https://tw.news.yahoo.com/詐騙海嘯擋不住-北檢檢察官過勞昏倒-天天拚到深夜-辦公室倒地送醫-021900358.html	天災	-
 2026-04-02	印尼附近海域7.4級地震 當局收到高約0.3米海嘯	https://news.rthk.hk/rthk/ch/component/k2/1849702-20260402.htm	地震	A
 2026-03-24	昆州北部遭颶風襲擊 衛生廳發布致命疾病警報	https://www.epochtimes.com/b5/26/3/23/n14725613.htm	颱風風暴	A
 2026-03-20	美國熱浪破紀錄 氣候變遷致亞利桑那州三月高溫	https://www.singtaousa.com/2026/03/20/news/usa/records-shattered-as-summer-heat-hits-southwest-in-march-this-is-what-climate-change-looks-like/	熱浪乾旱	B
 2026-03-12	澳洲昆士蘭東南部暴雨成災 兩名中國背包客遇洪水死亡	https://news.tvb.com/sc/world/69b276d52dd2502b5898d7de/国际-澳洲昆士蘭東南部暴雨成災-兩名中國背包客遇洪水死亡	水災暴雨	A
 2026-03-12	昆士蘭暴雨成災兩華客駕車穿越洪水區死亡｜即時新聞｜國際	https://hk.on.cc/hk/bkn/cnt/intnews/20260312/bkn-20260312145935410-0312_00992_001.html	水災暴雨	A
-2026-03-08	香港仔行山男失足墮山 直升機吊起昏迷送院	https://hk.on.cc/hk/bkn/cnt/news/20260308/bkn-20260308135427032-0308_00822_001.html	其他災害	-
-2026-03-06	15台登山客北海道遇雪崩 1人受困昏迷送院	https://hk.on.cc/hk/bkn/cnt/intnews/20260306/bkn-20260306140526643-0306_00992_001.html	天災	-
 2026-03-04	日本火山列島爆規模6.0地震 暫未發布海嘯警報	https://hk.news.yahoo.com/日本火山列島爆規模6-0地震-暫未發布海嘯警報-055001558.html	地震	A
 2026-03-02	快訊／日本火山列島規模6.1地震 震源深度10公里	https://news.tvbs.com.tw/world/3139743?from=pulldownmenu_content_國際_快訊／日本火山列島規模6.1地震 震源深度10公里	地震	A
 2026-03-01	李濬榮祈雨成真！客家古道遇35度高溫「颱風級」暴雨	https://tw.news.yahoo.com/李濬榮祈雨成真-客家古道遇35度高溫-颱風級-暴雨-090137533.html	颱風風暴	B
@@ -450,7 +439,6 @@ var DATA_DISASTER = `
 2026-02-23	馬來西亞沙巴外海7.1級地震 無海嘯威脅	https://www.am730.com.hk/國際/1013000/馬來西亞沙巴外海7.1級地震-無海嘯威脅	地震	A
 2026-02-23	快訊／馬來西亞凌晨爆7.1地震！震源逾600公里深 海嘯中心回應了	https://tw.news.yahoo.com/快訊-馬來西亞凌晨爆7-1地震-震源逾600公里深-海嘯中心回應了-000700890.html	地震	A
 2026-02-22	石家庄昨晚突发山火，火势蔓延数座山，山西五台山同日出现火情！多地刮起沙尘暴，“强风吹得人都走不动道”，多家景区关闭	https://www.mrjjxw.com/articles/2026-02-22/4265738.html	森林火警	B
-2026-02-21	北海道雪崩約40歲台灣登山客被困 送院後仍昏迷	https://news.tvb.com/tc/world/69a9634f101d7dfc26f613d0/國際-北海道雪崩約40歲台灣登山客被困-送院後仍昏迷	天災	-
 2026-02-20	阿蘇火山觀光直升機墜毀苦搜1個月終尋獲 家屬忍痛同意放棄救援	https://utravel.com.hk/news/detail/20089721/阿蘇火山觀光直升機墜毀苦搜-個月終尋獲-家屬忍痛同意放棄救援	天災	A
 2026-02-20	本地有感地震│城大教授：無證據顯示香港將發生更頻繁或危險的地震- 香港	https://www.wenweipo.com/a/202602/20/AP699871a5e4b04d7d56d460cc.html	地震	B
 2026-02-20	地震｜廣東陽江錄4級地震 香港天文台：逾百市民報告感數秒震動	https://www.hk01.com/社會新聞/60323632/地震-廣東陽江錄4級地震-香港天文台-逾百市民報告感數秒震動	地震	A
@@ -462,7 +450,6 @@ var DATA_DISASTER = `
 2025-09-26	颱風夜硬闖出門害睪丸遇難！珠海男子颱風夜騎車外出摔傷 送醫手術保住一命 | 國際 | CTWANT	https://news.pchome.com.tw/china/m00361/20250926/index-75881722840167316022.html	颱風風暴	B
 2025-08-22	「錦繡山火」延燒快 河濱縣兩死一重傷 fire	https://www.singtaousa.com/2022-09-07/%E7%88%86%E8%87%B4%E5%91%BD%E3%80%8C%E9%8C%A6%E7%B9%A1%E5%B1%B1%E7%81%AB%E3%80%8D-%E9%80%A0%E6%88%90%E6%B2%B3%E6%BF%B1%E7%B8%A3%E5%85%A9%E5%96%AA%E5%91%BD/4255721	森林火警	A
 2025-08-15	北部暴雨引發洪災 至少56死80失蹤		水災暴雨	A
-2025-08-12	30歲海陸軍人常操練暈倒 竟是多汗症致缺水導致	https://tw.news.yahoo.com/30%E6%AD%B2%E6%B5%B7%E9%99%B8%E8%BB%8D%E4%BA%BA%E5%B8%B8%E6%93%8D%E7%B7%B4%E6%9A%88%E5%80%92-%E7%AB%9F%E6%98%AF%E5%A4%9A%E6%B1%97%E7%97%87%E8%87%B4%E7%BC%BA%E6%B0%B4%E5%B0%8E%E8%87%B4-054445413.html	天災	-
 2025-08-11	愛丁堡地標亞瑟王座爆山火 死火山煙霧沖天	https://www.stheadline.com/realtime-world/3489283/%E6%84%9B%E4%B8%81%E5%A0%A1%E5%9C%B0%E6%A8%99%E4%BA%9E%E7%91%9F%E7%8E%8B%E5%BA%A7%E7%88%86%E5%B1%B1%E7%81%AB-%E6%AD%BB%E7%81%AB%E5%B1%B1%E7%85%99%E9%9C%A7%E6%B2%96%E5%A4%A9	大火山火	B
 2025-08-08	法國南部爆近80年來最嚴重山火 燒毀1.6萬公頃土地 規模超巴黎	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60264688/%E6%B3%95%E5%9C%8B%E5%8D%97%E9%83%A8%E7%88%86%E8%BF%9180%E5%B9%B4%E4%BE%86%E6%9C%80%E5%9A%B4%E9%87%8D%E5%B1%B1%E7%81%AB-%E7%87%92%E6%AF%801-6%E8%90%AC%E5%85%AC%E9%A0%83%E5%9C%9F%E5%9C%B0-%E8%A6%8F%E6%A8%A1%E8%B6%85%E5%B7%B4%E9%BB%8E	其他火警	A
 2025-08-08	世界氣象組織：極端高溫席捲全球 助長暴雨、山火等天災	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60264969/%E4%B8%96%E7%95%8C%E6%B0%A3%E8%B1%A1%E7%B5%84%E7%B9%94-%E6%A5%B5%E7%AB%AF%E9%AB%98%E6%BA%AB%E5%B8%AD%E6%8D%B2%E5%85%A8%E7%90%83-%E5%8A%A9%E9%95%B7%E6%9A%B4%E9%9B%A8-%E5%B1%B1%E7%81%AB%E7%AD%89%E5%A4%A9%E7%81%BD	水災暴雨	A
@@ -483,7 +470,6 @@ var DATA_DISASTER = `
 2024-04-08	403地震各地震度幾級？解析921地震後最大規模強震，餘震超過700起	https://ourisland.pts.org.tw/content/10684	地震	B
 2024-04-04	南丫島對開有山火20多人一度受困 消防處連日接獲多宗山火報告	https://www.am730.com.hk/article/442251	大火山火	B
 2024-04-03	台灣地震：花蓮外海發生7.2級強震，921大地震25年來最大震級	https://www.bbc.com/zhongwen/trad/chinese-news-68720120	地震	A
-2024-01-07	行山男鳳坑村碼頭突抽筋暈倒 政府飛行服務隊出動救援	https://www.hk01.com/article/978588?utm_source=01articlecopy&utm_medium=referral	其他災害	-
 2024-01-04	日本地震｜9.5萬戶斷水災民無奈吃雪 用烏龍茶果汁煮飯	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/977772/%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87-9-5%E8%90%AC%E6%88%B6%E6%96%B7%E6%B0%B4%E7%81%BD%E6%B0%91%E7%84%A1%E5%A5%88%E5%90%83%E9%9B%AA-%E9%83%A8%E4%BB%BD%E4%BA%BA%E7%94%A8%E7%83%8F%E9%BE%8D%E8%8C%B6%E6%9E%9C%E6%B1%81%E7%85%AE%E9%A3%AF	水災暴雨	B
 2024-01-01	【香港地震】本港凌晨現地震 香港樓有沒有抗地震設計？		地震	B
 2023-09-01	颱風蘇拉天氣｜前天文台長指是荷貝後最強颱風 荷貝幾大破壞力？	https://www.hk01.com/%E5%A4%A9%E6%B0%A3/936371/%E9%A2%B1%E9%A2%A8%E8%98%87%E6%8B%89%E5%A4%A9%E6%B0%A3-%E5%89%8D%E5%A4%A9%E6%96%87%E5%8F%B0%E9%95%B7%E6%8C%87%E6%98%AF%E8%8D%B7%E8%B2%9D%E5%BE%8C%E6%9C%80%E5%BC%B7%E9%A2%B1%E9%A2%A8-%E8%8D%B7%E8%B2%9D%E5%B9%BE%E5%A4%A7%E7%A0%B4%E5%A3%9E%E5%8A%9B	颱風風暴	B
@@ -493,7 +479,6 @@ var DATA_DISASTER = `
 2023-02-08	土耳其敘利亞大地震：寒冷、憤怒、無家可歸的災民，港口大火與戰亂中的災區	https://www.bbc.com/zhongwen/trad/world-64564973	大火山火	B
 2023-01-18	印尼摩鹿加群島近海規模7.0地震 發布海嘯警報	https://www.ntdtv.com.tw/b5/20230118/video/355578.html?%E5%8D%B0%E5%B0%BC%E6%91%A9%E9%B9%BF%E5%8A%A0%E7%BE%A4%E5%B3%B6%E8%BF%91%E6%B5%B7%E8%A6%8F%E6%A8%A17.0%E5%9C%B0%E9%9C%87%20%E7%99%BC%E5%B8%83%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1	地震	A
 2023-01-11	圖輯／街道變河道！加州暴雨土石流奪17命 上萬居民逃難│TVBS新聞網	https://news.tvbs.com.tw/world/2014620	水災暴雨	A
-2022-12-18	不畏寒流參加臺北馬！男跑者突一度昏厥無呼吸 CPR搶命│TVBS新聞網	https://news.tvbs.com.tw/local/1993480	天災	-
 2022-12-09	葡萄牙里斯本洪水泛濫成災 居民：像末日	https://tw.news.yahoo.com/%E8%91%A1%E8%90%84%E7%89%99%E9%87%8C%E6%96%AF%E6%9C%AC%E6%B4%AA%E6%B0%B4%E6%B3%9B%E6%BF%AB%E6%88%90%E7%81%BD-%E5%B1%85%E6%B0%91-%E5%83%8F%E6%9C%AB%E6%97%A5-020929809.html	天災	B
 2022-12-04	印尼火山爆發 火山灰噴1.5萬公尺高、日本嚴密監測海嘯可能 quake	https://tw.news.yahoo.com/%E5%BD%B1-%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E7%88%86%E7%99%BC-%E7%81%AB%E5%B1%B1%E7%81%B0%E5%99%B41-5%E8%90%AC%E5%85%AC%E5%B0%BA%E9%AB%98-%E6%97%A5%E6%9C%AC%E5%9A%B4%E5%AF%86%E7%9B%A3%E6%B8%AC%E6%B5%B7%E5%98%AF%E5%8F%AF%E8%83%BD-065431450.html	其他災害	A
 2022-12-03	再次地震 印尼爪哇島發生5.7級地震	https://www.epochtimes.com/b5/22/12/3/n13877944.htm	地震	A
@@ -562,7 +547,6 @@ var DATA_DISASTER = `
 2019-08-07	快訊／日本淺間山活火山噴發！ 氣象廳急發「火山灰預報」	https://www.setn.com/news/582591	其他災害	A
 2019-07-21	朝鮮半島今年最強烈內陸地震！ 芮氏規模3.9撼動南韓	https://news.ltn.com.tw/news/world/breakingnews/2859458	未分類	A
 2018-03-01	北大嶼山發生山火 經撲救後火場面積縮窄	https://news.tvb.com/sc/992263-北大嶼山發生山火經撲救後火場面積縮窄	森林火警	B
-2018-01-10	寒流又害人？嘉市警交通隊長開會突昏倒腦溢血開刀急救| 社會	https://www.setn.com/news/335141	天災	-
 2015-08-09	颱風過後助重建24銀行提供多項天災低利貸款| 財經	https://www.setn.com/news/89124	颱風風暴	B
 2015-01-01	2015首日不平靜！大雪、暴雨襲擊全球天災頻傳| 國際	https://www.setn.com/news/55283	水災暴雨	B
 2014-02-12	天災連環噩夢！ 強震海嘯恐引大火連鎖反應| 國際	https://www.setn.com/news/13305	其他災害	B

@@ -1,4 +1,4 @@
-// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 187 條
+// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 182 條
 var DATA_POLITICS = `
 2026-11-03	波蘭憲政風暴：極右翼法官遭親歐政府停職，在野黨怒轟執政黨發動「政變」	https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPMlB6UUNiUHVBN0ZFaXJLdlA0M3ZGWGxCZ21WcjJZZWpBOTNPWlpwN2RKVWZMcVZla3hkVHdEc3NPQ0tWaXNGYWdlTWFHdklELXZCaA?oc=5	獨裁專政	-
 2026-11-03	助理全涉共諜！高金列國安法被告應訊 「這些問題」全推張俊傑	https://news.ltn.com.tw/news/society/breakingnews/5627823	政策法令	-
@@ -98,7 +98,6 @@ var DATA_POLITICS = `
 2026-09-29	台美關稅簽署!賴清德喊脫胎換骨時刻 輸美平均關稅將至12.33%	https://www.msn.com/zh-tw/news/other/台美關稅簽署賴清德喊脫胎換骨時刻-輸美平均關稅將至1233/ar-AA1Wf2Dj?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	政治	A
 2026-09-23	關稅丨三星LG傳涉逃繳關稅 遭印度調查	https://www.hkej.com/instantnews/international/article/4521924/%E9%97%9C%E7%A8%85%E4%B8%A8%E4%B8%89%E6%98%9FLG%E5%82%B3%E6%B6%89%E9%80%83%E7%B9%B3%E9%97%9C%E7%A8%85+%E9%81%AD%E5%8D%B0%E5%BA%A6%E8%AA%BF%E6%9F%A5	政治	A
 2026-09-22	川普槓上CNN等美媒遭轟「獨裁」！白宮推出24小時「TRUMP TV」 稱：還原真相	https://www.ftnn.com.tw/news/581261	獨裁專政	A
-2026-09-17	習近平傳金磚峰會期間暈倒 印度外交部發聲	https://tw.news.yahoo.com/習近平傳金磚峰會期間暈倒-印度外交部發聲-080055755.html	政治	-
 2026-09-15	逃出獨裁！中國企業家30小時極限逃往歐洲 高喊「共產黨邪惡暴政、推翻中共」	https://ec.ltn.com.tw/article/breakingnews/5574612	獨裁專政	B
 2026-09-14	韓國前防長鄭鎬溶去世，曾參與「雙十二政變」	https://hkcd.com/content_app/2026-09/14/content_8774890.html	獨裁專政	A
 2026-09-11	轟高金素梅瞎扯戒嚴兩大荒謬！律師：共諜直接槍斃！連批「戒嚴」的機會都沒有| 政治	https://newtalk.tw/news/view/2026-09-11/1059245	獨裁專政	B
@@ -136,11 +135,9 @@ var DATA_POLITICS = `
 2026-02-23	戒嚴時期政治檔案解密 國安局一字不遮移交檔案局	https://news.pts.org.tw/article/796055	獨裁專政	A
 2026-02-22	國際財經- 關稅丨特朗普宣布將全球關稅由10%上調至15%	https://www.hkej.com/instantnews/international/article/4323694/特朗普宣布將全球關稅由10%上調至15%+	政治	A
 2026-02-22	一文讀懂特朗普最新關稅措施：他宣佈的最新全球關稅將如何運作？	https://www.bbc.com/zhongwen/articles/c20zp13zgjro/trad	政治	A
-2026-02-22	【本日焦點】川普課15%關稅僅2國躲過各界反應一次看／日本裸祭爆踩踏3人昏迷不醒／初一摔傷昏迷陳光復「睜眼了」	https://tw.news.yahoo.com/【本日焦點】川普課15關稅僅2國躲過-各界反應一次看／日本裸祭爆踩踏-3人昏迷不醒／初一摔傷昏迷-陳光復「睜眼了」-094110039.html	政治	-
 2026-02-20	韓國前總統尹錫悅致歉，但重申當時的“戒嚴令”符合國家利益	https://news.google.com/rss/articles/CBMimgNBVV95cUxNWkpSR1FraW5RMmhSQnpjSndrTm10bWc4NDRDbnZZY3ZtT3h0cjg1OGd6c2NCaEdpTHMwN0ZNRUFGZjlmYWFwRWRkNjZQVEcyX2NPUXgxQ0F3WGVQRHJ0WDBKb3BYQWVZdjJuMFBnekpBNzlvV3g1eVZYY2VmVVdET1ZCSnQzb2Q2NUEwM2RHM3VYNmJfYzVFNzQtOWp2TEtnbFlwV0pMa0ZOMzZGVnQyOUhCVjhpWFZ0ZkR0bjJNSkRhLTRrVFl6WV9rRW1GNDBpeDlWYmJZMmNydUdzNVJreURvWDZJb2xWblJtVG1DanpfLWZ6RHFrUWM0ODZKVUVRbDJhczdOU0l1YW00M2hGN3NlUlhzUVRLaGxoejRjX1Z1MVRTWEtDQjEtanBDbUNoNkR1QkE1dWdPNzhSZW9TaXlzcTJHQjFqbkItZEFkUEVFeUVHOEhlZWp5d1E3bkRsLUhWWFVJZDEtNHVMZjVCbWFLYXgxSlBGc2QtaUlUaVhIMEJaTFlSbmtwUDVsSDNUZzdKWVplWU1lQQ?oc=5	獨裁專政	A
 2026-02-19	戒嚴案尹錫悅內亂罪成立 一審判終身監禁	https://news.pts.org.tw/article/795687	獨裁專政	A
 2026-02-19	南韓戒嚴風波｜尹錫悅發動內亂罪成 一審被判終身監禁	https://news.google.com/rss/articles/CBMibEFVX3lxTE9Gc3pHX1NZYmVvY2gzYm1NSFd3WXpiOW1mVnNiUVNJbVF4NnZhblFsREt2M3RUSEFJZTBMLXZZOHl1MmkyZUstbDNtTHZ3TVBtX0M3eWtCSlBkX0lZblo2elRVSE1wdnEtTW9RcQ?oc=5	獨裁專政	A
-2026-02-12	壽臣山道東獨立屋菲籍傭工昏迷 身旁有漂白水樽 送院搶救後恢復意識	https://www.stheadline.com/breaking-news/3544211/壽臣山道東獨立屋菲籍傭工昏迷-身旁有漂白水樽-送院搶救後恢復意識	政治	-
 2026-02-11	眾院通過「保護台灣法案」中如動武將被制裁	https://www.worldjournal.com/wj/story/124277/9323735	國際關係	A
 2026-02-04	日本沿海地區大風雪釀最少35人死 眾議院選舉日或再有大雪勢影響投票	https://www.singtaousa.com/2026/02/04/news/world/at-least-35-people-died-in-heavy-wind-and-snow-in-coastal-areas-of-japan-heavy-snow-may-affect-voting-on-house-of-representatives-election-day/	大選	A
 2026-02-04	日本大雪至少釀35死、350多傷 周日眾議院選舉逾四成票站或提前結束投票	https://www.i-cable.com/新聞資訊/435548/日本大雪至少釀35死-350多傷-周日眾議院選舉逾四	大選	A
@@ -155,7 +152,6 @@ var DATA_POLITICS = `
 2025-11-13	美國眾議院投票表決結束政府停擺臨時撥款法案	https://www.hk01.com/article/60293915?utm_source=01articlecopy&utm_medium=referral	政策法令	A
 2025-11-07	特朗普：若關稅裁決失利將是災難 改口認美國人同樣承受關稅	https://www.hk01.com/article/60292267?utm_source=01articlecopy&utm_medium=referral	政治	A
 2025-10-17	特朗普：中美已陷入持久貿易戰 若沒有關稅將毫無防備	https://www.hk01.com/article/60286164?utm_source=01articlecopy&utm_medium=referral	政治	A
-2025-10-12	中年漢昏迷大埔獨立屋胞弟揭發報警送院- 香港 - 香港文匯網	https://www.wenweipo.com/s/202510/12/AP68ebc26ce4b0bd44d136b247.html	政治	-
 2025-09-17	博爾索納羅串謀發動政變判囚 身體不適緊急送院	https://hk.on.cc/hk/bkn/cnt/intnews/20250917/bkn-20250917044305295-0917_00992_001.html	獨裁專政	A
 2025-08-28	關稅戰｜墨西哥據報下月對中國貨加徵關稅 以滿足特朗普的要求	https://www.hk01.com/article/60270826?utm_source=01articlecopy&utm_medium=referral	政治	A
 2025-08-12	關稅再次展期90天 只有中美談判才是真正的貿易談判	https://www.hk01.com/article/60265836?utm_source=01articlecopy&utm_medium=referral	政治	A
@@ -184,7 +180,6 @@ var DATA_POLITICS = `
 2024-12-03	南韓戒嚴：1987年以來首次 - Radio-Canada	https://news.google.com/rss/articles/CBMipwFBVV95cUxQVk0tS2xveXBTTGFiaWVGZldHWmFZQXRBUUV0eEtZUTNjZ0NSQU9aNkRRX0dDNWxJb0VZc1JZYjV4SGdNbk8yMEtMblRFTWUxM3pSYjhHbFNnS2lxOVVqRWQ0SzJJdVU3c0gtbmp5aVRqRlJ4TVpxaWpuT1dmTDBnR1Y3aDRtaGltbUtWa2tDb2QyOEVEaWVhb2xlUXdRVWg1eTNNSXJ4OA?oc=5	獨裁專政	A
 2022-11-26	老婦投票後「突暈眩摔破頭」 警、消合力搶救│TVBS新聞網	https://news.tvbs.com.tw/local/1973484	政治	-
 2021-05-13	美國務卿布林肯報告「譴責中國宗教迫害」 再增制裁官員	https://www.setn.com/news/938410	政治	A
-2021-03-01	民主派47人被控違港區國安法 提堂至凌晨有被告不適暈倒	https://news.tvb.com/tc/903787-民主派47人被控違港區國安法提堂至凌晨有被告不適暈倒	政策法令	A
 2018-03-18	總統出席「101年戒嚴時期政治受難者紀念追思儀式」	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vOE53S0dGQWx3UllCYllucEtUbGtmNk1vdVczQ1BrNU03enR5QzJsMXgyQTVGRUR3Y1dJTlpORmlhSjYzcjN1bkR3YWxCRTVl?oc=5	獨裁專政	A
 2018-03-18	副總統主持戒嚴時期十大代表性政治冤案發表會	https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2amRfS0Izem1yNE5ScVlLd2xhOS1ZLWktNHRudF9LME9uWUNHNDE1SklCbEhnNjd2RFIyNG5Ua3plMUU5N3RwcG9sZzhGVmM?oc=5	獨裁專政	A
 `;

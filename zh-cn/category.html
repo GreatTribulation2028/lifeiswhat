@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>末世新聞分類</title>
-<meta name="description" content="末世新闻分类页：19 类灾情报告（猝死、离世、经济、天灾、战争、瘟疫等），按日期走势、事件与地点查阅每一条记录，并可对接 19 格分类导航与事件明细。">
+<meta name="description" content="末世新闻分类页：21 类灾情报告（猝死、离世、经济、天灾、战争、瘟疫等），按日期走势、事件与地点查阅每一条记录，并可对接 19 格分类导航与事件明细。">
 <style>
 /* ============================================================
    category.html v1.0 — 十一類末世新聞通用模板
@@ -272,8 +272,10 @@ const CATS={
   tribulation:{name:"七年大災難",full:"七年大災難記錄",varName:'DATA_TRIBULATION',color:"#e94560"},
   celestial:{name:"天象",full:"天象異常",varName:'DATA_CELESTIAL',color:"#8ecae6"},
   politics:{name:"政治",full:"政治動盪",varName:'DATA_POLITICS',color:"#adb5bd"},
-  /* 中暑昏迷冇獨立資料檔：用猝死檔 + 預設搜尋「中暑」 */
-  heatstroke:{name:"中暑昏迷",full:"中暑、暈倒、昏迷（猝死檔篩選）",varName:'DATA_SUDDEN',file:'sudden',preset:'中暑',color:"#f77f00"},
+  /* ★ 2026-11-03（Ollie：「中暑就中暑，昏迷就係昏迷無死，昏迷後不治就去猝死」）
+     中暑、昏迷各自有獨立資料檔 */
+  heatstroke:{name:"中暑",full:"中暑、熱衰竭、熱痙攣、熱射病、夜中暑",varName:'DATA_HEATSTROKE',file:'heatstroke',color:"#f77f00"},
+  coma:{name:"昏迷",full:"昏迷、暈倒、失去意識（未明示生還）",varName:'DATA_COMA',file:'coma',color:"#8ecae6"},
 };
 const ORDER=Object.keys(CATS);
 

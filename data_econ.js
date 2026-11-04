@@ -1,4 +1,4 @@
-// 經濟 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1399 條
+// 經濟 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1398 條
 var DATA_ECON = `
 2026-11-03	英國央行週四加息幾成定局，後續加幾次？市場與經濟學家分歧明顯 作者 智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTE4tdTZkZ1dkek94aXZsdTlsNVY1M3dJVVF3SHRtRlhoSmFuWE1PUHVpZmpUczBxbW5DSTlMU0tUaC1UVnF6LXhRTlFiUnJfUG1iQi1UYWZWaHdFOGUzNHF5WF9YWEw1OGNISHNvT2VWR0o?oc=5	加息減息	-
 2026-11-03	結業潮｜禾輋美心MX傳下周落閘 陪伴街坊近40載 居民不捨：細個聞到叉燒香就知開飯	https://news.google.com/rss/articles/CBMi7gNBVV95cUxQdy1vVVRSQUQyWmtBd2dscU0tRC00MXVxeVZfd0NqcWpTNWM5N1BMRHhjR3gwdUtyalNlcTEwWXFtUmlkZlhfSUZjakFzaFp4eGxnX3hJdDFpQUQ1UTRFODFaZlBsUklGMUJ3UDE1TUI0YXdCcVd1emQwU2JVS1pXRnk2TUd5ZUh4ejRUeGs4cTVhWmg0cWxPUzltRUdxLWs1eEcwdEFEcE4tSUlmSkRVRkprS2FVUXViNWFYcDZYd0d3cV96ZXJrbVh4OFhVM2xmQ0lVWXZNcTJLcGRhblYxSXVrZjI3dzhwWi1Cb0dQZ0h2TnJtZE9YbmtYRl9tTldZSlRNYW4tX1d0aXl5elBXaGdNQ2ctVTZWQ0F4aTh3aHMyQldZSkNmS1VZWjlMMEV3QkhfYTAwZWkwMU5NVVhvenZqakgzQ3BnNG9KRDRSTjY1eG9jSm5LSl82Mzl3ZkpvVk5tWkF1U1VQRU90T1Z0b2Nyc2w0bzBWWG11bFdEOVROS0hvNExiSHFCVk9UWXJ3dV9tQVhIYzNheHhTRTJtNDlJUkM5eno2d3RodktaRGVqU3FsZ1RYd0NnZEpnak1wN2tpOXJoM3ZvZ3JfU2JHVWZTSzZTbENmZXl4V24xVkROM2p5Vm9Edl9vdS1PUQ?oc=5	結業清單	-
@@ -892,7 +892,6 @@ var DATA_ECON = `
 2025-08-23	台灣1產業爆破產倒閉潮！從北到南陸續停業，專家曝「越賣越虧」 已進入死亡循環	https://www.storm.mg/lifestyle/11062377	結業清單	B
 2025-08-22	結業潮｜博多拉麵別天神2023年起欠供強積金 涉29員工最少$41萬	https://www.hk01.com/article/60269262?utm_source=01articlecopy&utm_medium=referral	結業清單	B
 2025-08-21	建商負債4000萬「撐到交屋才倒閉」 業界警告：中小建商倒閉潮全面來襲	https://extra.rakuya.com.tw/house_news/58235.html	結業清單	B
-2025-08-20	顧客暈倒排隊混亂 人氣女裝店開張即停業	https://hk.on.cc/hk/bkn/cnt/news/20250820/bkn-20250820020123239-0820_00822_001.html	經濟	-
 2025-08-19	結業潮｜馬莎Marks & Spencer旺角店8.24結業 一連七日88折清貨	https://www.hk01.com/article/60267926?utm_source=01articlecopy&utm_medium=referral	結業清單	B
 2025-08-16	裁員潮｜美國首7個月裁員超越去年全年 什麽行業最高危？	https://inews.hket.com/article/3994293/裁員潮｜美國首7個月裁員超越去年全年 什麽行業最高危？	裁員清單	B
 2025-08-12	結業潮｜銅鑼灣美式餐廳Little Vegas結業 開業10年最後營業日8.31	https://topick.hket.com/article/3992125/%E7%B5%90%E6%A5%AD%E6%BD%AE%EF%BD%9C%E9%8A%85%E9%91%BC%E7%81%A3%E7%BE%8E%E5%BC%8F%E9%A4%90%E5%BB%B3Little%20Vegas%E7%B5%90%E6%A5%AD%E3%80%80%E9%96%8B%E6%A5%AD10%E5%B9%B4%E6%9C%80%E5%BE%8C%E7%87%9F%E6%A5%AD%E6%97%A58.31	結業清單	B

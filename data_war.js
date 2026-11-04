@@ -1,4 +1,4 @@
-// 戰爭 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 629 條
+// 戰爭 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 622 條
 var DATA_WAR = `
 2026-11-03	陸軍第206旅少校心肌梗塞離世胞姊致函盼外界勿抨擊軍方| 軍事 | 要聞	https://news.google.com/rss/articles/CBMiUkFVX3lxTE83NXE1QXh3VFFhRXFkckhRYzF5c2JLYUgyTjJTUEJINjBJUzUxc1lpOWdVWURDSVk1N2VaQV92WmRhdWdSOFFoc3FVbi00NEVxbVE?oc=5	戰爭	-
 2026-11-03	陸軍半月3起憾事：家屬說盼別藉此抨擊軍方- 政治新聞	https://news.pchome.com.tw/politics/nownews/20261103/index-79368019012476207001.html	未分類	-
@@ -548,7 +548,6 @@ var DATA_WAR = `
 2026-04-06	俄軍空襲敖德薩釀3 死烏克蘭反擊俄羅斯石油設施	https://www.bastillepost.com/hongkong/article/15841147-俄軍空襲敖德薩釀3死-烏克蘭反擊俄羅斯石油設施	俄烏戰事	A
 2026-04-04	伊朗戰爭｜阿聯酋攔截飛行物 碎片墜落引設施起火至少1死多傷	https://www.hk01.com/即時國際/60337204/伊朗戰爭-阿聯酋攔截飛行物-碎片墜落引設施起火至少1死多傷	中東戰事	A
 2026-04-03	美情報公司：伊朗藉中港企獲取無人機零件	https://www.ntdtv.com/b5/2026/04/03/a104082818.html/amp	中東戰事	B
-2026-04-03	打詐前線亮紅燈！北檢檢察官疑過勞昏倒 案件爆量釀人力危機	https://tw.news.yahoo.com/打詐前線亮紅燈-北檢檢察官疑過勞昏倒-案件爆量釀人力危機-021700424.html	戰爭	-
 2026-03-30	伊朗局勢｜特朗普：或佔領哈爾克島奪伊朗石油	https://www.am730.com.hk/article/1022200	中東戰事	A
 2026-03-25	俄烏戰爭｜俄羅斯近千架無人機空襲烏克蘭 至8死、50傷	https://www.i-cable.com/新聞資訊/449818/俄烏戰爭-俄羅斯近千架無人機空襲烏克蘭-至8死	俄烏戰事	A
 2026-03-22	不只缺油！伊朗報復點名「海水淡化廠」 威脅中東1億人陷斷水危機	https://www.ettoday.net/news/20260322/3136612.htm	中東戰事	B
@@ -557,7 +556,6 @@ var DATA_WAR = `
 2026-03-18	以色列再斃伊朗高官！國安首長空襲身亡 納坦雅胡：政權崩潰邊	https://globalnewstv.com.tw/202603/234132/	中東戰事	A
 2026-03-15	獨家影音／接軌現代作戰! 來第一視角直擊陸軍FPV 無人機攻擊訓練	https://www.msn.com/zh-tw/news/national/戰略這盤局-獨家影音-接軌現代作戰-來第一視角直擊陸軍fpv無人機攻擊訓練/ar-AA1WEzaj	空襲導彈	B
 2026-03-14	猶太教堂槍手4親人 日前死於以色列空襲	https://www.singtaousa.com/2026/03/14/news/usa/synagogue-shooter-family-killed-israeli-airstrike/	中東戰事	B
-2026-03-14	伊朗新領袖傳遭空襲昏迷、截肢 赫塞斯：臉部或毀容	https://www.worldjournal.com/wj/story/124278/9379713?from=wj_maintab_cate	其他戰事	-
 2026-03-12	以色列持續襲擊黎巴嫩已致634人死亡- 國際 - 香港文匯網	https://www.wenweipo.com/a/202603/12/AP69b22dc5e4b04d7d56d7fec5.html	中東戰事	A
 2026-03-10	美伊戰爭最新消息！伊朗已逾1200死各國傷亡一次看	https://news.tvbs.com.tw/world/3146853	中東戰事	A
 2026-03-10	中東戰事催化無人機軍備競賽，美伊對峙升級，韓國急起直追	https://n.yam.com/Article/20260310629506	中東戰事	B
@@ -584,8 +582,6 @@ var DATA_WAR = `
 2026-02-07	巴基斯坦清真寺爆炸31死170傷! ISIS背包炸彈客衝入引爆釀重大傷亡 總理譴責	https://tw.news.yahoo.com/巴基斯坦清真寺爆炸31死170傷-isis背包炸彈客衝入引爆釀重大傷亡-總理譴責-043201649.html	戰爭	A
 2026-02-02	烏克蘭礦工巴士遭空襲15死7傷	https://www.tdm.com.mo/zh-hant/news-detail/1173441?lang=zh&isvideo=false&category&shortvideo=0	俄烏戰事	A
 2026-02-02	以巴衝突｜以色列空襲加沙多地至少32死 八國譴責以方違停火協議	https://news.tvb.com/tc/world/697fd48be366b477d9ae8152/國際-以巴衝突｜以色列空襲加沙多地至少32死-八國譴責以方違停火協議	中東戰事	A
-2026-02-02	F-16飛官操演遭G力昏迷 空軍： 持續強化體能及風險評估	https://www.msn.com/zh-tw/news/national/f-16飛官操演遭g力昏迷-空軍-持續強化體能及風險評估/ar-AA1RZ7R6?cvid=ea89f42eb5ec4c28c1c282966b25aec3	戰爭	-
-2026-01-31	生父不捨女兒出養美國想要回法官駁：罹病常暈倒…無力照顧| 法律前線| 社會	https://udn.com/news/amp/story/7321/9300305	戰爭	-
 2026-01-30	（有片）兩港人烏克蘭戰死 鄧炳強：兩人接受軍訓圖日後返港「抗爭」	https://www.tkww.hk/a/202601/30/AP697cb5ffe4b0aa6cbcd3d27a.html	俄烏戰事	A
 2026-01-29	伊朗處決了一名被指控為以色列情報部門從事間諜活動的男子	https://citytimes.tw/資訊/伊朗處決了一名被指控為以色列情報部門從事間諜/592392/	中東戰事	A
 2026-01-23	美軍東太平洋炸毀運毒船釀2死！拘捕馬杜羅後首次開火	https://www.singtaousa.com/2026/01/23/news/world/us-military-strike-vessel-eastern-pacific/	戰爭	A
@@ -596,12 +592,9 @@ var DATA_WAR = `
 2025-12-30	哈馬斯證實下屬武裝派別卡桑旅軍事發言人死亡	https://news.rthk.hk/rthk/ch/component/k2/1837929-20251230.htm	中東戰事	B
 2025-12-30	俄烏戰爭：美國推動和平協議期間，俄軍戰死人數創下記錄	https://www.bbc.com/zhongwen/articles/c79x94217yeo/trad	俄烏戰事	B
 2025-12-29	ISIS涉謀新年恐怖攻擊 與土耳其警交火115人遭逮	https://news.pts.org.tw/article/788161	其他戰事	A
-2025-12-10	F-16V飛官台東訓練驚現昏迷 高G力風險受關注 空軍將檢討訓練流程	https://www.i-meihua.com/Article/Detail/39138	戰爭	-
 2025-12-08	泰柬衝突︱兩國邊境再交火泰軍1死4傷 泰總理今赴前線視察 下令4府民眾緊急撤離	https://std.stheadline.com/realtime-world/3524802/泰柬衝突兩國邊境再交火泰軍1死4傷-泰總理今赴前線視察-下令4府民眾緊急撤離	其他戰事	A
 2025-12-06	阿富汗與巴基斯坦邊境再爆激烈交火 釀4死4傷	https://www.stheadline.com/realtime-world/3524436/阿富汗與巴基斯坦邊境再爆激烈交火-釀4死4傷	戰爭	A
 2025-12-06	阿富汗媒體：阿巴邊境衝突造成阿富汗4死4傷 - 國際 - 香港文匯網	https://www.wenweipo.com/a/202512/06/AP6933c7bce4b019322230a6f0.html	戰爭	B
-2025-11-22	清晨氣溫驟降！ 國小老師跑操場昏倒命危全校總動員鬼門關前救人	https://www.msn.com/zh-tw/news/other/%E6%B8%85%E6%99%A8%E6%B0%A3%E6%BA%AB%E9%A9%9F%E9%99%8D-%E5%9C%8B%E5%B0%8F%E8%80%81%E5%B8%AB%E8%B7%91%E6%93%8D%E5%A0%B4%E6%98%8F%E5%80%92%E5%91%BD%E5%8D%B1-%E5%85%A8%E6%A0%A1%E7%B8%BD%E5%8B%95%E5%93%A1%E9%AC%BC%E9%96%80%E9%97%9C%E5%89%8D%E6%95%91%E4%BA%BA/ar-AA1QICyO?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	戰爭	-
-2025-09-23	樺加沙｜柴灣四口家觀浪 母子捲走昏迷 父落水救人 獲消防救起	https://www.hk01.com/%E7%AA%81%E7%99%BC/60279183/%E6%A8%BA%E5%8A%A0%E6%B2%99-%E6%9F%B4%E7%81%A3%E5%9B%9B%E5%8F%A3%E5%AE%B6%E8%A7%80%E6%B5%AA-%E6%AF%8D%E5%AD%90%E6%8D%B2%E8%B5%B0%E6%98%8F%E8%BF%B7-%E7%88%B6%E8%90%BD%E6%B0%B4%E6%95%91%E4%BA%BA-%E7%8D%B2%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7	中東戰事	-
 2025-08-27	加薩醫院遇襲5記者亡以色列：他們非目標| 討論牆	https://news.pchome.com.tw/internation/crwant/20250827/index-75626072222113316011.html	中東戰事	B
 2025-08-27	以色列炸死5記者後稱「不是針對他們」 未解釋為何連環空襲 | 太報		中東戰事	A
 2025-08-17	難民應急中心遭民兵炮擊 31人死亡		難民人道	A
