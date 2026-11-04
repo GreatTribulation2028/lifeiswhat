@@ -1,4 +1,4 @@
-// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 25 條
+// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 26 條
 var DATA_TRIBULATION = `
 2026-03-10	末日預言系列“終極之戰”哈米吉多頓	https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4V19za3NwV3RNMWVyOWUwam53RHo1bGVHVmEwdW5HS29jNGRzRzNKRU1sREhLcExTM3A4S0xQNUktdk1rNURjNWRiMS1KbmUwN3pYTktNdl9ZSEpm?oc=5	末日預兆	B
 2026-01-02	2026年11/13世界末日預言「科學死法」難逃？恐比盲眼龍婆還準	https://city.gvm.com.tw/article/127106	末日預兆	B
@@ -7,6 +7,7 @@ var DATA_TRIBULATION = `
 2025-12-10	【未解之謎】預言中的七年大災難要來了嗎？	https://www.ntdtv.com/b5/2025/12/10/a104045700.html	末日預兆	B
 2025-09-24	矽谷天使投資人彼得·蒂爾開宗教講座：敵基督、聖經預言和AI末日	https://news.google.com/rss/articles/CBMijANBVV95cUxOemVQa3NMeTRNdVRTVUFfWU4tTUg0NlZMWFVISndwZU1vMlpXNmFhSEFJcENnTDhKbUVvTi1oUC03UXd3QXBYT25xNUx5RlpJMk5Fd0RpbkwtQlAzMzJ0Q2JnRHh4US0wLXkzS3hmdFZiY2QzOXczRXZIcnRUN1gxYl9wdmVPcG9hLVg4Z2s5dHJoRjFPamhsaGNSTTJmcWpya0t5eUgxdU5uTVRFQjQ0M1RKZG0zWmk5V0wtMEN3SzZoVzJBS3Fvc0RqeURoNWVEWF8xWmpfQmg1aTk1d3NyOXpad05KMWd4RHlOdE5aMlhxMWtVRk43U1g3RUYyNG85bUYwR0dvV1hmMFhjRnpWQTZqcVhtbURMVVNvb25RWERIbmJsQnRYM2w0bnVjVXFPbFRTVUx0OFZCTThsMEVNQ3JBRmxaaHB2NkxicGttX0QtT2FUOEFKcHVrWERwMWNpOU12SmF2NHRDajBldGlnd3RSclBESXZEV3BRU01ic1VTbVpqZ2E2WGVMM1Y?oc=5	末日預兆	B
 2025-08-04	七年大災難 2025-08-04		大災難進程	B
+2025-07-06	日本大地震「末日預言」破功 5,600億經濟損失卻成真	https://news.google.com/rss/articles/CBMizAJBVV95cUxQZy14RnowaEM1TWVvVkR1SXhxTmtuWUtmWnh5bXZFT3Fod0ltZFl6UE1kc0t4amNsb001Y1l6Y2h0UkZXUkpMWUZpdXVncWxPbzZibng0REtXU20tN2Vmck9RcE0wa3Zac3hWZWVxcGlwRGFVTW5vTjZELVJmWG5jQk9MNEdlU241SDYwNFIwTkRHME5TUGNrWjZiNjFpVHlBYlBZazVRN0gwSU9TNVNCR1NQbXpJRmpfT2pFY0FBd19HczRrWW5qS0FMN1RiY2RMc19FN1lzaWhPVnRfNjVJM3RtTWJ5Q0lBOF9hU2xGcjVTWVU5dDdZYjJJbUF1WXZFMHhDZG5DVzlEcHdfaG1KYnJxb3MxallsTFhpNkZ1SUc2NUlHdGtpSk8yemZ0aEttLXM5Q0dtZ3doMkJYX2FVX3RZNkVQODJGSjFLMQ?oc=5	末日預兆	-
 2025-07-05	7/5日本大地震、2012瑪雅世界末日都掀熱議災難預言日期明確易引關注| 國際	https://news.google.com/rss/articles/CBMiX0FVX3lxTE5feTJ0OUJNby1reWJzaVVLMGRfdkNXLThhSWhqVWxPMGZwa2hmQnhwajU3dUM3ZnVGQ0FhUGtINWNOZ2NWbVBodTZtdm94VWRfZ3lUczJDN1JCU1ZucTFJ?oc=5	末日預兆	B
 2025-05-10	[廣東話] [林鍵] 2025.05.10 《等待君王：寶座》 [但以理書 7:1-14]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UWjhKNDFzaUtJN0p1SmJETjh3QjhwQ3ZQcHlPNEhNejZwNzl2MEZ2clNBTU5VMmJnOG1iSHU1NjRFTlEzbXBz?oc=5	其他末世	B
 2025-04-19	[廣東話] [林鍵] 2025.04.19 《等待君王：復活》 [但以理書 6:16-28]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LWmM3NmVlUzFpSi11UE5BWDZSN0pQUGtjaURZMjVORmkyYkdVcnNiU0pTRXFkTC1NUmhnb2hhM3dXNDRkSzFR?oc=5	其他末世	B

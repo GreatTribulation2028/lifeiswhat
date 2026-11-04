@@ -1,5 +1,10 @@
-// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 97 條
+// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 104 條
 var DATA_RELIGION = `
+2026-11-04	印尼林火煙霾重 教會協助受災者	https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ObkdFcWVVN3VJNEhwT0RHY3RTT2FsVDhkdkVrdHZmTUUyWWFfSFgzdEhDcENzUjNRb1RkV1VremVqZTBQTGRCakxhcw?oc=5	其他宗教	-
+2026-11-03	美政要專家譴責中共迫害宗教自由 呼籲制裁（多圖/視頻）	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMdkpPZGJFQ3JaX0ZFaFIwQWVBLVN4ZUE0NGNoeDVidnotTnI3em1TNEZaMVRTOEhpM3ZrMDB0Nk9tRzFCbnhLOFBMcThuREg1UXFDYVVZUUJaVkxpMnZiZl9wZVBGLVU?oc=5	逼迫教會	-
+2026-11-03	沉默並非中立 宗教自由律師談教會的公共責任	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQVlhCcVJTYXRwUFJTelJpWjZNNWZfa0JDR1JSdnJuZ1RUdzdKU1NIYkpYcm1fQnhJbGtaRWEyZjZHOUNTY2FWU1FwNFJQNVZNOEtKU0RLUURJUQ?oc=5	其他宗教	-
+2026-11-03	教宗哀悼庫斯科總主教：忠貞不渝，無私奉獻的牧者- 梵蒂岡新聞網	https://news.google.com/rss/articles/CBMirgFBVV95cUxOWlNPQ21La3ZXdEFTdUlIbWltdjhLRVRHSVJvaHVYQm16UUJlZ2QwYzQ3UVNSdWZoZEh2MUhWV1Vkc0ZWZVIwRXVMZDlGeUw2MVNycTFZTlBHbWlSMU9zM3ZfRm5TaW02MGlLUnp4VkZ6d0ItUDlxTFBRVExVa1JQY1Q3eWZhbmpkR2xWVXQzZnVyM09pMk8zU3RHRnhKZzJGeWlpaTFrck54aGtnaUE?oc=5	未分類	-
+2026-11-03	夏威夷「靈性導師」經營類邪教 三加拿大人獲賠5600萬	https://news.google.com/rss/articles/CBMi9gJBVV95cUxPcms5R2NRbjY5MUxIVF9FS0tJODdkTjJsVWtwY0FXWUcyMUNrVEhRbGF6aEdHQWp5V24zZThhT3EtVkhWdXpiRUNYQXdHZ3RXVDFtc0lWQzE0MEhEM084cnE3VXhWcW5HQ0JLSHlIaGY3ZjROY2tkdzNiNndjWFAwbWhPSGZVeVJMUk5OUG1lUTNlNWZLdTlTVDZjdjlqb0tQRjdzb0JTeC05cFlPcUx3NEtBMW1yeDZ4Zk9BSlhFUHlfVDFreVU5dzltZGtrV3lodTlyRDZBWUJtUlloUllnUk16RXF3M3lCdERSeXRITXlMZVY2cVNkclY0WVZBcC1yMmZVMGZQWXgySTlkSG9FTzRrWnJ3WnlOa0pqejNJMXloVnFOQ1pZN21lNktrd2RqenNLYzdseUxja21jdFZRN2ZnTGZ5ZE1sdXd1NGlRV3Bubkl1cUkyUWRlWDhyS0FDUUM2TW12Nzk3RGwyaFRCckU2ejl4QdIBkgFBVV95cUxNenBDU1d3aTFVZVM4VXcwVGRKenJHdUhZS1MwMG04SC1nRG10c3Y1eFhjUGFkRTZIQzNnakRfUkp0b2lXd09DdnVyQ294dnlPNmd0OGg4U2tQbWZLRHlLZGh3TVlKVWVqLUZHR2FOb2tDODZJaXMtcHJoOElYYkQ3TUhNUU9kbWVKVmFLYWppNFF6UQ?oc=5	異端邪教	-
 2026-10-29	續論天主教與基督教——從贖罪券到因信稱義	https://news.google.com/rss/articles/CBMitwFBVV95cUxQblhDd2F2WjA2bGxJUFdsU1BsRWdvRFRlYWVtYldFN1lXdUZ5R09STUdxdTI3VDVWVUhra2tzOVNHZV8tcUpEaVhCYllUSDdsVVBQbnNkeWkxeVlkS2VScUxqUnMwWnFjeFVsSm8zdHplSGY1SGNYV2JmWkU4OWxDRmtqX2FVWndnVExXT2VLc2pZbko0ZzV4UXlkSEhYNTJSYWU4OTFUMGxodXF1TXVYazVUYjZLSFU?oc=5	其他宗教	-
 2026-10-29	俄州越南裔教授夫婦陳屍家中 31歲兒被拘時稱「正在逃離邪教」	https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxby1IeVJvSVJsbWtlNVlFWVhkSkNTbGRjOXljVmtxbFo2bmdYc0loWGZETjlOM0Q5YlZCRWk5cml1WmN5bHFSNklpNXRvNWJvdnhHZTloaHlEcEtQYW04RC130gFnQVVfeXFMTmhubXVBYjhfWG1vZ2x3V3FkWTdQUk5ETUdDeklyU1lscU9NQ0VWVkJnT0JtWTkzNjE5ejYyeW5wWS05WWhjRE5oY3ZEUzVDb2NHNEIybi10cWd3SklSa0JuUEJuMTNXYw?oc=5	異端邪教	-
 2026-10-24	中華基督教會合一堂香港堂 建堂百週年堂慶感恩聖餐崇拜	https://news.google.com/rss/articles/CBMiW0FVX3lxTFBia1dyN29jRUpCQ2JLUVpVY05zeENiUDhTS1p0M1lwSHhqYXhrNFZfdVB4aEg0OWZfcTl0MGNXbHpVdjdTOWtLOUFKUnVLVkw2Zkg1MTFSSVM3Mzg?oc=5	其他宗教	-
@@ -94,7 +99,9 @@ var DATA_RELIGION = `
 2022-09-26	德州成功培育5頭「紅母牛」送往以色列，「末世訊號」再度引發討論	https://cdn-news.org/news/N2209260003	宗教	B
 2022-05-18	俄羅斯東正教牧首支持出兵烏克蘭，引發教會分裂危機，教宗方濟各：不要淪為普亭的「輔祭男童」	https://www.thenewslens.com/article/167002	其他宗教	A
 2019-04-21	「熱血司祭」開虐T__T 李神父遇害真相曝光| 噓短片	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jdEdpck84YUFVaVRQdmdKMzZ0SmhUV0otdVFYWnZfVmdKOHlFZDE3VlNwM3kxZ3M0VS1ZM3A0UzliNWxwVXdkemhNVDRkdTZ4WGlWZnNZSU4?oc=5	宗教	B
+2019-03-04	中國家庭教會面臨被定為「邪教」的危險- 新聞	https://news.google.com/rss/articles/CBMimwFBVV95cUxQUm9RUXlhQzI5OWhlZUlINzZJazF5OWt6NlVTdzdvRVhmRzRia0NVMGwtMjlKQ2pTU2M4ckRWR01rRW5Na0tTMG9kNW56WDVXaE1SQnpLaU9oYVFVaktpUGlhQmJjLTNLYXY1ck9GbjdtUVRFajh1YklRREEzZm9VWjFZWTNzdkVHODZxeEpCUm5KUU1KLVBmMlBvZw?oc=5	異端邪教	-
 2018-12-16	俄烏東正教會歷史性分裂 基輔自立牧首	https://hk.on.cc/hk/bkn/cnt/aeanews/20181216/bkn-20181216110011088-1216_00912_001.html	其他宗教	A
 2017-01-26	挺同、反同長老教會意見分歧 總會書記：若教會分裂，會有很大傷害 | 謝珮琪 | 新聞	https://www.storm.mg/article/217221	其他宗教	B
 2016-02-13	分裂千年破冰教宗會俄東正教大主教- 2016年02月13日	https://news.pts.org.tw/article/316774	未分類	B
+2006-11-19	非主流教會是否等同異端？	https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TelMwR2N3V3V4UDFLLTNyRV9PTGJwY3dISHBKNE5JTUNCd0pmUGUxMnZMbmYtREVYcTZqMGJqaEl5czVWeGM3Wm1zMk1HX3V5blB6OFduOFg?oc=5	異端邪教	-
 `;

@@ -1,4 +1,4 @@
-// 中暑 | 由 htnl_class_route.py 生成 | 共 14 條
+// 中暑 | 由 htnl_class_route.py 生成 | 共 16 條
 var DATA_HEATSTROKE = `
 2026-10-20	澳廣視新聞｜勞工局: 證實因工中暑視為工傷｜	https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXZrMUVGYTZVc0JjS215alJWZXU2VFpJT1ZFTEFBaXBGYzkwczlzQzFqUFZnVXdWajlJeVZvVHB1bjRfcGNJakFYRXh2bE9mRmlrNVV2RXhFcHprdFR2UktRT3JEcXFBVHY2Z2tDcDhsc2RUR1ppZW5HOG8zbkJZRDRHQQ?oc=5	熱衰竭	B
 2026-10-20	勞工局：證實因工中暑視為工傷 酷熱天氣停工標準因應工種難單一劃一	https://news.google.com/rss/articles/CBMi6wJBVV95cUxQR0MwZmxtUlBkYVFBZ1BkNFVDNzZUM19FOHZWRGM4NFBvbmFmSWdWNDJ2M0N5RGYzY0ZFQ0RqOWpJMUk3UXp5eS16a0ZyWU9VVzZkZk5VZlV0THQ5akZmckZuZnpfamQ1X09hTHVHeFc3UjFzMmswN0RGVUpIUWNwZzFWTXg0dld3M3ZMMDlkOGoxdTl5eWE3VVBYZmZxX0ZlTjBydkdiamxKVFpKT1oxQzc4Wm1zdHBxSHFlQV83UHNkSWN0VFgtTmg0bzB2a0xKWXBOZTJsMmxaODRWbEVCY19hRHJmV213QWgxOC0tV3Vza2ZOVnA5Rk1sU2ozb0xyc1U2S1hObnh2emxFYVFtOTZ3UkFha1k0RDk2dnVZVDMxTENVdFhmLWp5UWxYWTZjMUdiTnNoeHhRSFR2YTJKS1I2emNWQmcxSEJBazIxNnNOcTk5RGR1X29waTBMekxzOXRneXpEZzRRU1k?oc=5	熱衰竭	B
@@ -11,7 +11,9 @@ var DATA_HEATSTROKE = `
 2026-09-27	北市樂業街工地火警鏖戰19小時 1消防員疑熱衰竭晚間送進ICU	https://udn.com/news/story/7320/9780486	熱衰竭	A
 2026-09-27	【台北建案大火消防員累癱！3人不適「1人疑熱衰竭」 議員難過不捨】	https://www.ettoday.net/news/20260927/3244965.htm	熱衰竭	A
 2026-05-13	新北三重公寓頂加火警 消防員「熱衰竭」緊急送醫 | 太報	https://today.line.me/tw/v3/article/VxXPlGl	熱衰竭	A
+2025-11-07	工殤日｜防中暑指引實施近一年 熱壓力工傷仍難確立 追討難上難	https://www.hk01.com/%E7%AA%81%E7%99%BC/60292382/%E4%BD%95%E6%96%87%E7%94%B0%E7%9A%84%E5%A3%AB%E6%8D%B1%E6%92%9E%E5%BE%8C%E5%89%B7%E4%B8%8A%E8%A1%8C%E4%BA%BA%E8%B7%AF%E9%87%803%E5%82%B7-%E7%94%B7%E5%B7%A5%E9%A0%AD%E9%83%A8%E5%8F%97%E5%89%B5-%E7%95%99%E9%86%AB%E4%B8%80%E6%99%9A%E4%B8%8D%E6%B2%BB	熱衰竭	
 2025-10-30	22歲男行深圳「望郎歸」突發熱射病命危 醫生：器官幾乎「燒壞」	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60290063/22%E6%AD%B2%E7%94%B7%E8%A1%8C%E6%B7%B1%E5%9C%B3-%E6%9C%9B%E9%83%8E%E6%AD%B8-%E7%AA%81%E7%99%BC%E7%86%B1%E5%B0%84%E7%97%85%E5%91%BD%E5%8D%B1-%E9%86%AB%E7%94%9F-%E5%99%A8%E5%AE%98%E5%B9%BE%E4%B9%8E-%E7%87%92%E5%A3%9E	熱射病	-
 2023-05-21	女星痛失1歲兒！「熱痙攣心臟驟停」搶救4天無效	https://ent.ltn.com.tw/news/breakingnews/4308478	熱痙攣	-
+2022-08-22	「妳怎麼了」婦路倒疑中暑 好心路人呼救│TVBS新聞網	https://news.tvbs.com.tw/life/1884239	熱衰竭	
 2022-08-04	湖北60歲農民工得熱射病亡曝中暑後仍要工作女兒我的天塌了	https://www.hk01.com/sns/article/800288	熱射病	-
 `;

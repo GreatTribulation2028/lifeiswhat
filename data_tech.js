@@ -1,5 +1,9 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 495 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 499 條
 var DATA_TECH = `
+2026-11-04	香港銀行業多舉措支持數字人民幣發展	https://news.google.com/rss/articles/CBMib0FVX3lxTFBsN1A0WWFydHY5aFlJSjlrTFBVUHhJdmoyT3ZUNjNkYnFlTHZ4OEQzOUdCTExDampsdW5LekFyXzl6T1oyaWljRHRxbE1xRGE2WDhJbGdLVnhFUHNJZzRUVFdKd2pNQVc5TTRhVk1PSQ?oc=5	CBDC數字貨幣	-
+2026-11-04	意大利稱遭網攻超市制冷設備大多使用老舊安全系統	https://news.rthk.hk/rthk/ch/component/k2/1876458-20261104.htm	未分類	-
+2026-11-04	史上最大駭客劫案如何發生？幣安防線毀於一場「假面試」	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uWVdfd01Uc044bjdwQkVhMWtYMjBsaVo5aFhLQU44OVo4bThKQklSdkd4OFNnZWc5Z2FWbU9hUVpTaVkxTFNFNzgzZnVkMGs?oc=5	駭客網攻	-
+2026-11-04	停擺近三天！SEGA旗下街機線上服務遭駭 日玩家頭痛：何時才能回歸	https://news.google.com/rss/articles/CBMifEFVX3lxTE5hTE9VcEZrSEhSM2RFdm9vZDIzYW5lUU5veTEyd08xM1g5bE8xSTNndy1OZGRDVERfWmVfVThhWVBmdnVXejNFYU1MWEJOMVFESjhKWVYyR09yaUlJYU9FRVJrbGpQTVBNZlJmbkpGNksxR0h5VHB3ZmlYa3DSAV9BVV95cUxQMnNSN3pUOXplVnNVaDVJM3lWNU16UmJDZXdSQ0E0Qjd6T3JUOXFITnpxTDRRSl9QbmVVa21iQTdjdnE2VExGbFRUN2RtaUhBWkpYVlg3Z1o4Z0U3NEhPRQ?oc=5	未分類	-
 2026-11-03	陳茂波：純粹擁有AI不再是競爭優勢 關鍵在於圍繞AI革新	https://news.rthk.hk/rthk/ch/component/k2/1876391-20261103.htm	未分類	-
 2026-11-03	全球首創！鷹瞳Airdoc發佈無創光學腦機接口PBM大模型，同時發佈PBM-LED®近視防控6個月臨牀數據	https://news.google.com/rss/articles/CBMiakFVX3lxTFBCVVI5WXdLTG5KSVdjT3A5OFlXUkpjUmtTck1obFlueHJUWVYzUmpZM2tnMjVlRDhYTVRNQUlzZm5BTFJyRDdKalhndUs2WEx0ZmQ2TXRIN1Rya2EtRzFPZWV2ek1kNHZyS2c?oc=5	未分類	-
 2026-11-01	B站舉辦2026超級科學晚，腦機接口、人造太陽等前沿科技亮相	https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUGdwX2pra2g3a01OSV8tZTAyWUpKVjVkMEdsLWp4ZzVKOVFmZy1BRkl6ckNCNlJ5RlczZWxudlZhOEN2ZDZMb3lhLXdxQVdjN2lWY3JTcEp5Vjhq?oc=5	未分類	-
@@ -147,11 +151,11 @@ var DATA_TECH = `
 2026-09-17	Google 狂修 Pixel 手機 200 多個漏洞 官方證實：已遭駭客進攻	https://www.ettoday.net/news/20260917/3238947.htm	駭客網攻	A
 2026-09-17	Chainalysis：國家級駭客助長區塊鏈惡意軟體激增420%	https://finance.biggo.com.tw/news/2f92b392-b564-40c4-8d73-4ec046147f62	駭客網攻	B
 2026-09-16	OpenAI早有機會阻止大規模駭侵！失控AI兩個月前就露出馬腳	https://hk.finance.yahoo.com/news/openai早有機會阻止大規模駭侵-失控ai兩個月前就露出馬腳-132004935.html	未分類	B
-2026-09-15	首個國產AI+腦機接口標準國際領先- 中國	https://news.google.com/rss/articles/CBMidEFVX3lxTE5zS21CTndhNFhERGdPREJNYmo1WEVkc3NuZ1doUHZrOTExVS1YMmpLTy1Ea29LelV1YW11aUI4N1BpVXZTd3oxLWp6MFNnSjZURjY0MXR6ZUtlblZUVkl1RW9nWXZGUkJDRWpNNlA4MmFLTGg2?oc=5	未分類	A
 2026-09-15	陸腦機接口AI標準出爐 讀腦數據品質有解	https://news.google.com/rss/articles/CBMib0FVX3lxTE1sRGlIYk9MWjR3VzRqOTNpOXlIZW9lRlE4OUZRYlpQVVcwdF81TTBLVFdDQ1d2LTJoMENZU3VyNlA4VE02YU5jM0ZtWDlqcjFRVWJGUlp5VVp5aWJwNmp2b0w5Mk53Ml9qdjE4NDhIcw?oc=5	未分類	A
 2026-09-15	美機構揭微信重大漏洞 AI使駭客攻擊更危險	https://www.ntdtv.com/b5/2026/09/14/a104132916.html	駭客網攻	A
 2026-09-15	Twitch 驚傳 4 萬名實況主個資遭竊取兜售！資安媒體研判並非遭駭 疑似遭爬蟲與社交工程收集	https://news.para-daily.com/2026/09/15/twitch-4k-streamers-data-leak/	資料外洩	B
 2026-09-14	網絡安全丨網絡邊界設備成黑客攻擊目標HKCERT籲企業 ...	https://inews.hket.com/article/4193415/網絡安全丨網絡邊界設備成黑客攻擊目標 HKCERT籲企業建立持續監察及風險管理機制	駭客網攻	B
+2026-09-14	國家藥監局發布全球首個AI腦機接口醫療器械標準 明年9月起實施	https://news.google.com/rss/articles/CBMipwNBVV95cUxPSGJoVWFkcldtRl84enNaQ3o0Sk1ldHFXbDZ3ZXg3aXdMd1ZMYV9laHotdTdGejV2VjAzU05ieEJwOVh3VTB0NUpIUWlubDU3RDg5Mm42bGc4di1WM1F3T1RIb0t4U3JWeVk1OU1kNnRaRXduRklfeVJxZHZ2Q2tUMEVVeFkyci1Ua1lkVUFjeGZ3ODdrQ2J1Z1hVN0JfWW0tbTBMQzBzUHo5YTFreUhNOVNYWDNxdm1uY0xWYTZESnJrbDZUWGJ2Z0szU29MckJVUmNPNzFKMGstRm9RY1NXeW10dHpNUmwzclRYSUtFLUxVcXZQY0hOTWJ3TWVETzlQYmg1NFBQLUM4MTZpM2ptZjVLQ0drSzZBSGNESGNBNnVFa2dNdktCRTZRbWkwa3JDZ3d3amItNU1jRzBaTjB6UDZsVHd4RDJxWFNjOGtIdmo0TVVSVGVRZ0pLcHVVR0hVLUV6Y2lPZmJjNTNqa3NhdEpCejlYN2VJN2N3QVYtTjJpWFFPYmh1eEhzUWRsUmdDc2U1YnV0ckdIVl9GQmhYTVR4YU9fajg?oc=5	未分類	-
 2026-09-14	中國發布全球首個AI+腦機接口標準 明年9月起實施	https://news.google.com/rss/articles/CBMib0FVX3lxTE9aWlE2aG1mYnZldS1rd2FIbXNWUGJMRzZiU1V3NlprZjdsRmJxbWRBRmk3NzZpSklDOVk5Rm15Z043ekxrTzVhOWo3S2h3bHloTzlsdmlaQ1Q1VUVpZV9kQ1Zqa05DdFlFOHpwNDl1cw?oc=5	未分類	A
 2026-09-14	中國批出第三項腦機接口醫療器械標準	https://news.google.com/rss/articles/CBMisgJBVV95cUxQS3RMbEFHVGt1RVV0ZkZrTzZaN2lTTHJhaklFaWtmbnUtUTV2Rml5RnhTWUswcTMyR0t0VUJaR29rZElqOXl6QUlNT1lYSkVkNWxMN1ZWdDB2Sk1mMW9hVTVSWFV3Z01uYUpOakxPNGVhd3AydnhpdUUxRXN0b3VnbUxhcy16RVdrMndtSTBiQmxJSkphenl4dGVjdlZTZUR1VkIzTDZ5clRlQVBRNVdnWVdaRGtDV1F2dXhZN1ZIZ3B1RUE4dkFDUktCc3d2UE5odDlfa1JoVWdzOFcyUWFSNnV0T1FUWlFBYUROQlZxcGlLY0M5a2otU0dIR0U2XzE4Ri1rdmo2MllfbWRSS2d0RjE3THUxSmV2M05jb1E5WXNzRzRLSmlvSi1sbEdkTmpVZFE?oc=5	未分類	A
 2026-09-14	Revolut 遭駭客公開客戶資料 勒索 1 萬枚比特幣	https://yellow.com/zh-tw/news/revolut-遭駭客公開客戶檔案-勒索-1-萬枚比特幣	駭客網攻	A

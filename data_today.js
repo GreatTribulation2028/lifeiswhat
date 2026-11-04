@@ -1,7 +1,15 @@
 var DATA_TODAY = `
+2026-11-04	跑步猝死｜24歲少女跑馬拉松籌款距離終點3公里昏倒不治父悲痛揭死因長時間躺平服膽固醇藥高危- 東張+	https://news.google.com/rss/articles/CBMiowVBVV95cUxPM2hsYjR2SFZQSFFzWndwdE9hLUgwWkJHc01lcUNqUHd2dHhVbU4yUEN1NWVTalY0UnE1U3lBT3cxNVVFYlUta0dZb3pocF9VRVRnUEpHa1lIMEhsSHdxN2dCbC1KbTJIek9aQ21USHNPMWJNYTZsLXYtZ0VfYlNrem1RcmdOVDJmdVdmX0xPYkthcVkyaG5kOUVCX3hMRTZlSWQwdkNPWERVWUY5b2ZxWmMwSTRvTjgzSUtIdlVWV21sY19tOWpjNURvVFVRbFJoS0FWMDY0MVZ0aUNtZG4yVl83RUt1UWx4S01zaktXWTlhY3BvMTVTS2RFSnZDYmNwOXhIRWF2VHNaQjBKMS1fa2JtUUFyX2p6aTFHcmlQTXlfU2h5aUZYYUdlMmJNTjlTRWlPY2JhbUY5R28wbC1oZllUVmw1NFpaUVF5ZllrUHJSUHRUdXI5X3YtaWNoZzA5Sm9QUTd0b1k3cHB2YmlxU1ZnLWVnTjFDMkNlbzMzMVJWc3RmTTI5NWUzRVNiNmpmYkFvX3dUUWFzRmtiRk02SFUzWGhkaThjTUxFSExzLVBKckdYN3lhQUFzbmNxaU9uckVqRWY2WGFibVNKeHh5WnVGcmFKQlBZSkJWQ0VCd2dJeEw0eWVIZThncFd1Y1hubmpjZlVYeHppYzhITEp0SHkxczdKcEJqNzJVR2s3SGZzbTlPMl9tX1VlM3hjamtSdWl2allPWHE1YUZDZmgyVVhSNEhPemxCT1Y3bmVjMlJod19ZWVMzOEV2UkRlb1J6ZU4xMWhmdXBZRzlSV25yV3Z3WURxaWx2MnRqeW9qQkF4OTlyTV9ZQS1vdFZ6LWlPY0twQUw4bU9SNkdKa1o5cjU0VVhTdVRvdmhaVTVJTmF3N2s?oc=5	心腦猝死
+2026-11-04	印度男星Anuj Thakur睡夢中癲癇症猝死終年33歲 好友痛悼：無法相信	https://news.google.com/rss/articles/CBMi-wJBVV95cUxPRnF1VEVETDY2YVBMQ1RSU3hqay1OWmd0TjhRMm8zLUsySTI3ZzNGYkZ5b1BSRDkzcXEzV09JN0hJdTVwMDYwNjRKdWIxQnd2a1pYY1p3NDgyMzRkZWk5RWVNUHliZnpiV1R6N3Z3QVRFRXZ6bW4zeFdsTjBvYUwxQ2ZVRXFCYVpOSmtJT3hPUmFDVVhKYnV2S2ZIMS1Gdjk4aF9tSkxIRG1HRjdrTlhDa0NSM2tiY1FabzJXM29SQWpxNEZ0eWtJWW9nWWJmdmpxUTM2emZaR3ZuYk82azBvUjliOXpRS2xtTExWU3BlM21mWWRNQUJGMEJPZzNfQmEwZFVYbVIzUkRPeTBMRFVicEpNS2JLVVptbHhNbV9uUVZ0ek1yREtsNXBzQ21wMEtIMl9ia0N2dGd3TlE4NmhjYjlQOXJCSjRiSENoUGt4LUtORWt6NUgtbDFMSG5qQjVTam42VUMyMVg0akk2dmpKblJ1V1NjX1ktQUdF?oc=5	心腦猝死
+2026-11-04	剩3公里完賽！24歲女跑馬拉松「突倒地亡」 猝逝原因曝光	https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1b2hYbFlHbms5SGsweThHNzl4aUpoWXFKTFN1SjlaNFVLWThhanFpMnZISkphVVc2M0RiQWdYc25WUEhGaVZ3c3dKcHplUWJ6ZkJWVGdtd083bkQ2cHfSAUtBVV95cUxOMkZkR1cxWFlJVExKNlIwZ2VzR19LRnZ2S2JKUEJEUzEtNVRlV0g4VWxoNVl5QzdsTGZ3U2tGemdMd3I4bWNKNGY5ZUU?oc=5	未分類
+2026-11-04	凌晨4點半鬧鐘響！33歲男星爆「睡夢中猝逝」 母進房見眼前畫面崩潰	https://news.google.com/rss/articles/CBMihAFBVV95cUxQa01KTnVMMGJuTVZ5dXo0SkpPWnMzTVV4dnhxM3dQUndXbjlmRkprbDZkUkFXb1lMbGVXUVpVR3ZURDJyeTZVRG15QU9Kdlh1Y1RVSlVaOU5FMHEtUzVhTkVCWWZqanVEWGxDdXhUZ0RCdldXOEw4bmlUZm1UcU5IOE8wbUo?oc=5	未分類
+2026-11-04	上萬魚隻暴斃慈湖 疑氣候暖化釀異常回流	https://news.google.com/rss/articles/CBMirAJBVV95cUxPY2U2UnI5QTY2V0RGTm9HMEt4el9zOVZaZzU0X0YxMVhCTmpQMnE0NjFONW9pU3NDWmU0TlZ1bmp5Z3pmWFNTZ052OVhlV3Vmak0td1I3Vk5TOHgxVUN5NDE0YWJGMjFKVjB0Y3pEYVV4TnRlUllRWWNJYjlaOFduRFJ3MjlNWUJsTjQtQzJXZUs2WUg3YXdzTWQ1ZU9IeHFubkdCdll6b0wwTTMxWmk4VU83RjlJeF95OWZYdlFvN0dxMzZYVFNaaGVUeFNoYUZqYk5DWDFiaW9iNFZ6YmxLUnM0bm5LQ2RWa3dVRktCQTRhaDZ5N1NFQTYwV1cwTFJJUG1yRkUwU0hfVVlSN2I2bGJSb3J2c3Q0TExwS3A0d3BiME1UNl9XaXo1ZW4?oc=5	心腦猝死
 2026-11-03	驚悚！南投武界落石削臉掉出眼球 女山友重創搶救	https://news.ltn.com.tw/news/society/breakingnews/5628058	其他急症
 2026-11-03	老人困電梯遭罵「老棺材」後猝死 物業賠23萬	https://www.ntdtv.com/gb/2026/11/02/a104147165.html	心腦猝死
+2026-11-03	盤點足壇5大致命事故：德米格爾遭膝擊驟逝 心因性猝死防不勝防	https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TRGc5MXhWSGYySU93Qmt4MDh4a0dkaEluaUFvNlpDeG03N0JOdm1lSnlXeUc3bVZwMXZlMDVsdlhNVEtoZGgwSnN0LWrSAVJBVV95cUxPR0xtbk1wU2dEam54OF9WNUE2c0hVclM5T2RtRVJDTlJyRm5GZENNT0xBSU1xcmgySi1uZlpybDZ2bGM3VFBGUHlQcDRuTlVReHpB?oc=5	心腦猝死
 2026-11-03	清水灣泳灘女子游早水遇溺昏迷送院不治- 港聞	https://www.dotdotnews.com/s/202611/02/AP6ae7f1c0e4b02fd1c5f63abe.html	其他猝死
+2026-11-03	有片／心臟驟停！ 西班牙足球前鋒遭對手飛膝猛撞不治| 全球萬象	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WRDBGd1VJbkx6cnBkTW1WSjBFU0REYmo4am1FdXBqYi1XclRoLXBqdWVKR0FiN2x5MEx5ODJCYTFYV2tJQTBhSXZrdk5xMXVBaTd1NGdZZEZaX2xW?oc=5	心腦猝死
+2026-11-03	將軍澳公屋單位傳異味 揭中年男住戶猝死	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0locU5TYWVVd2lqSkFKTGM3M2hSVF9vU1Axcng4S2dneHpETWFvNFVHOW90Z0ZLS1YwWTNnTTVjRVgxZzRxMXlnNUJNc3NtdTg4MjFIUi1UQlpFdlFlbXBOSkVSQkpWaW5xajBvU2xabmVXaTVDMmJNOHQ0ZkdwcW5iM0xob2l3cVBv?oc=5	心腦猝死
 2026-11-03	台湾摇滚教父猝逝爆家丑！生前信件揭女友遭姐夫性骚扰，死因成谜-yeeyi	https://m.yeeyi.com/mobile//////index.php?app=article&act=newscontent&aid=3271393	其他急症
 2026-11-03	受好友陸續心梗離世衝擊 胡歌隨身帶救心丸	https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jU1MyQmxqb1F4c1R0NkNUNmVSMkVqcmQ1MEp6MXlHUkNVY0ZtNFRXZjRSTVU3ZWxSb0VUZ0hmZ1lWZWdOQl9naXU2VlJRQ3ZEYkJLTGk0djJwMWVMa2MyddIBZkFVX3lxTE1YRm9aUnJ1ZlUyMk1wS2pKSUZlSG1CbDhic2dIeW9vMWN2Uk8xYWk2MmFLRFlibk1RWmJqb28wVXFxRk5kMWNfWGVWN1Q0bDV4Tm9RQnZMamVSak1UQU02a1dLMGlLZw?oc=5	心臟病發
 2026-11-03	剝臉皮啃肉殺30女！墨「食人魔」獄中猝逝 地窖驚見4300塊人骨	https://news.tvbs.com.tw/world/4045280	其他急症
@@ -804,7 +812,6 @@ var DATA_TODAY = `
 2025-12-15	葵涌葵盛東邨男子猝死 女兒揭發惜太遲	https://www.hk01.com/突發/60303568/葵涌葵盛東邨男子猝死-女兒揭發惜太遲	心腦猝死
 2025-12-15	葵涌男子家中猝死 女兒發現惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20251215/bkn-20251215002439054-1215_00822_001.html	心腦猝死
 2025-12-14	牛頭角中年漢住所猝死 原因有待調查	https://hk.on.cc/hk/bkn/cnt/news/20251214/bkn-20251214222734793-1214_00822_001.html	心腦猝死
-2025-12-13	昂船洲躉船男工人疑失足墮海 昏迷送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/60303237/%E6%98%82%E8%88%B9%E6%B4%B2%E8%BA%89%E8%88%B9%E7%94%B7%E5%B7%A5%E4%BA%BA%E7%96%91%E5%A4%B1%E8%B6%B3%E5%A2%AE%E6%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	其他猝死
 2025-12-13	吳亦凡服刑4年傳暴斃慘死！「獄中暴肥照」 流出網揭驚人真相	https://www.msn.com/zh-tw/entertainment/news/%E5%90%B3%E4%BA%A6%E5%87%A1%E6%9C%8D%E5%88%914%E5%B9%B4%E5%82%B3%E6%9A%B4%E6%96%83%E6%85%98%E6%AD%BB-%E7%8D%84%E4%B8%AD%E6%9A%B4%E8%82%A5%E7%85%A7-%E6%B5%81%E5%87%BA-%E7%B6%B2%E6%8F%AD%E9%A9%9A%E4%BA%BA%E7%9C%9F%E7%9B%B8/ar-AA1QdD31?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	心腦猝死
 2025-12-12	姊弟的報恩！父猝死沒錢下葬好心人助安葬 她考上國立大學展新生	https://tw.news.yahoo.com/姊弟的報恩-父猝死沒錢下葬好心人助安葬-她考上國立大學展新生-050200085.html	心腦猝死
 2025-12-11	美籍男搭郵輪狂飲33杯酒失控遭保安制伏 拘留期間突暴斃 家屬怒告郵輪公司	https://www.bastillepost.com/hongkong/article/15496063-美籍男搭郵輪狂飲33杯酒失控遭保安制伏-拘留期間	心腦猝死
@@ -812,12 +819,8 @@ var DATA_TODAY = `
 2025-12-11	媒體人直播中「癱軟歪頭」猝死 驚悚畫面全放送	https://tw.news.yahoo.com/媒體人直播中-癱軟歪頭-猝死-驚悚畫面全放送-031156565.html	心腦猝死
 2025-12-11	名人直播中 突全身癱軟猝死..主持人大喊「帶他走」	https://news.ebc.net.tw/news/world/526598	心腦猝死
 2025-12-11	又有“孤独死” 57岁华裔中年在家猝死	https://penang.chinapress.com.my/20251211/%E5%8F%88%E6%9C%89%E5%AD%A4%E7%8B%AC%E6%AD%BB-57%E5%B2%81%E5%8D%8E%E8%A3%94%E4%B8%AD%E5%B9%B4%E5%9C%A8%E5%AE%B6%E7%8C%9D%E6%AD%BB/	心腦猝死
-2025-12-10	高級督察飛虎隊遴選時失去知覺晚上不治 周一鳴：為家人提供協助	https://news.rthk.hk/rthk/ch/component/k2/1835543-20251210.htm	其他猝死
 2025-12-10	英國2青少年疑參加TikTok活動 吸除臭劑暴斃	https://www.soundofhope.org/post/914167?lang=b5	心腦猝死
-2025-12-10	石澳龍脊六旬漢玩滑翔傘時失控墮下昏迷 搶救後不治		其他猝死
 2025-12-09	香港仔石排灣邨單位傳異味 揭53歲男戶主猝死	https://hk.on.cc/hk/bkn/cnt/news/20251209/bkn-20251209190342504-1209_00822_001.html	心腦猝死
-2025-12-09	石澳龍脊六旬漢玩滑翔傘時失控墮下昏迷 搶救後不治	https://www.i-cable.com/新聞資訊/418124/石澳龍脊六旬漢玩滑翔傘時失控墮下昏迷-搶救後	其他猝死
-2025-12-09	灣仔泰籍女不省人事 友人揭發報警 惜送院後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/60301896/%E7%81%A3%E4%BB%94%E6%B3%B0%E7%B1%8D%E5%A5%B3%E4%B8%8D%E7%9C%81%E4%BA%BA%E4%BA%8B-%E5%8F%8B%E4%BA%BA%E6%8F%AD%E7%99%BC%E5%A0%B1%E8%AD%A6-%E6%83%9C%E9%80%81%E9%99%A2%E5%BE%8C%E4%B8%8D%E6%B2%BB	其他猝死
 2025-12-09	印尼男子倒斃工友宿舍 警方列猝死案	https://news.seehua.com/post/1372180	心腦猝死
 2025-12-09	54岁男子脑梗猝死，每天坚持午睡，医生无奈叹息：5 个坏毛病要命	https://www.msn.com/zh-cn/news/other/54%E5%B2%81%E7%94%B7%E5%AD%90%E8%84%91%E6%A2%97%E7%8C%9D%E6%AD%BB-%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E5%8D%88%E7%9D%A1-%E5%8C%BB%E7%94%9F%E6%97%A0%E5%A5%88%E5%8F%B9%E6%81%AF-5%E4%B8%AA%E5%9D%8F%E6%AF%9B%E7%97%85%E8%A6%81%E5%91%BD/ar-AA1Mft0P?cvid=AEBA831CFD7649BB8C5420B73EC24EFD&ocid=hpmsn	心腦猝死
 2025-12-08	工業意外｜昂船洲公眾貨物裝卸區男清潔工墮海 昏迷送院搶救惜不治	https://www.marketersgo.com/media-collaboration/202512/%E5%8F%B02%E7%B7%9A%E6%AD%BB%E4%BA%A1%E8%BB%8A%E7%A6%8D%EF%BC%81%E3%80%80%E5%A4%A7%E8%B2%A8%E8%BB%8A%E8%A1%9D%E5%85%A5%E5%B0%8D%E5%90%91%E8%BB%8A%E9%81%93%E9%87%804%E8%BB%8A%E7%9B%B8%E6%92%9E1/	其他猝死
@@ -870,7 +873,6 @@ var DATA_TODAY = `
 2025-11-17	將軍澳游泳池六旬漢遇溺昏迷 翌日不治	https://www.hk01.com/突發/60295032/將軍澳游泳池六旬漢遇溺昏迷-翌日不治	其他猝死
 2025-11-17	将军澳游泳池六旬汉遇溺昏迷 翌日不治	https://global.hk01.com/突发/60295032/将军澳游泳池六旬汉遇溺昏迷-翌日不治	其他猝死
 2025-11-17	三重男子路倒身亡 身上有大面積挫傷身分待查	https://news.ltn.com.tw/news/society/breakingnews/5248316	其他猝死
-2025-11-15	順天邨男子飛墮天井 昏迷送院搶救不治	https://hk.on.cc/hk/bkn/cnt/news/20251115/bkn-20251115124406512-1115_00822_001.html	其他猝死
 2025-11-15	台中東協廣場附近復古風超商男倒店外猝死- 社會	https://news.ltn.com.tw/news/society/breakingnews/5247229	心腦猝死
 2025-11-14	開心慶生2天後猝死！26歲網紅疑「誤飲假酒」中毒亡 粉絲震驚	https://www.ettoday.net/news/20251114/3067231.htm	心腦猝死
 2025-11-12	快訊／長榮空姐抱病上班猝逝！「治療16天」 病逝就診已呼吸衰竭	https://www.msn.com/zh-tw/news/living/快訊-長榮空姐抱病上班猝逝-治療16天-病逝-就診已呼吸衰竭/ar-AA1OlJoO?cvid=68ecee7dd8614bd5a706a0128f03dd2f	猝死
@@ -879,7 +881,6 @@ var DATA_TODAY = `
 2025-11-09	黃明志供述曝光！「謝侑芯進廁所30分鐘沖洗」突猝逝 網怒：沒事會去沖洗？	https://tw.news.yahoo.com/黃明志供述曝光-謝侑芯進廁所30分鐘沖洗-突猝逝-網怒-沒事會去沖洗-030800160.html	未分類
 2025-11-09	韓國7旬翁來台家族旅遊 溫泉會館房內猝死	https://news.ebc.net.tw/news/society/521358	心腦猝死
 2025-11-09	老翁死于屋旁树下 警方列猝死案	https://penang.chinapress.com.my/20251109/老翁死于屋旁树下-警方列猝死案/	心腦猝死
-2025-11-08	紅磡男子飛墮大廈平台 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20251108/bkn-20251108110348176-1108_00822_001.html	其他猝死
 2025-11-07	黃明志遭捕！謝侑芯猝死家屬申請領回遺體被拒 警方曝原因	https://tw.news.yahoo.com/黃明志遭捕-謝侑芯猝死家屬申請領屍竟被拒-警方曝原因-070200569.html	心腦猝死
 2025-11-07	謝侑芯猝死「2周後才轉謀殺案」！ 大馬官員親揭背後關鍵原因	https://www.ettoday.net/news/20251107/3063348.htm	心腦猝死
 2025-11-07	男客入住台中汽旅驚傳猝死 送早餐沒反應被發現	https://tw.news.yahoo.com/男客入住台中汽旅驚傳猝死-送早餐沒反應被發現-112119034.html	心腦猝死
@@ -896,9 +897,7 @@ var DATA_TODAY = `
 2025-11-03	謝侑芯猝死案重大進展 警方朝「謀殺案」方向偵辦	https://www.worldjournal.com/wj/amp/story/121234/9116084	心腦猝死
 2025-11-02	護理女神謝侑芯浴缸昏迷！黃明志CPR仍不治 否認吸毒驗尿卻陽性	https://www.nownews.com/news/6749488	其他猝死
 2025-11-02	護理女神謝侑芯大馬飯店浴缸猝死 黃明志也在場！持9粒藍藥丸「涉毒」被逮捕	https://tw.news.yahoo.com/護理女神謝侑芯大馬飯店浴缸猝死-黃明志也在場-持9粒藍藥丸-涉毒-被逮捕-065923754.html	心腦猝死
-2025-11-02	大埔三門仔七旬躉船雜工疑踏空 由船上墮海 昏迷送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/60290558/%E5%A4%A7%E5%9F%94%E4%B8%89%E9%96%80%E4%BB%94%E4%B8%83%E6%97%AC%E8%BA%89%E8%88%B9%E9%9B%9C%E5%B7%A5%E7%96%91%E8%B8%8F%E7%A9%BA-%E7%94%B1%E8%88%B9%E4%B8%8A%E5%A2%AE%E6%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	其他猝死
 2025-11-02	嗆問黃明志「到底在隱瞞什麼？」 謝侑芯猝死！經紀人：未見過她碰毒	https://tw.news.yahoo.com/嗆問黃明志-到底在隱瞞什麼-謝侑芯猝死-經紀人-未見過她碰毒-125807631.html	心腦猝死
-2025-11-01	大埔三門仔七旬躉船雜工疑踏空 由船上墮海 昏迷送院搶救後不治	https://www.hk01.com/突發/60290558/大埔三門仔七旬躉船雜工疑踏空-由船上墮海-昏迷送院搶救後不治	其他猝死
 2025-10-31	護理女神被傳「當伴遊、雲頂嗑藥」猝死！大馬警方報告曝 經紀人回應了	https://star.setn.com/news/1744881	心腦猝死
 2025-10-31	英年早逝｜31歲「護理女神」猝逝 11天前仍拍片露臉 好友悲痛證實 透露死因	https://topick.hket.com/article/4030531/%E8%8B%B1%E5%B9%B4%E6%97%A9%E9%80%9D%EF%BD%9C31%E6%AD%B2%E3%80%8C%E8%AD%B7%E7%90%86%E5%A5%B3%E7%A5%9E%E3%80%8D%E7%8C%9D%E9%80%9D%E3%80%8011%E5%A4%A9%E5%89%8D%E4%BB%8D%E6%8B%8D%E7%89%87%E9%9C%B2%E8%87%89%E3%80%80%E5%A5%BD%E5%8F%8B%E6%82%B2%E7%97%9B%E8%AD%89%E5%AF%A6%20%E9%80%8F%E9%9C%B2%E6%AD%BB%E5%9B%A0	猝死
 2025-10-27	韓國人氣貝果店員工疑過勞死 調查指曾連續工作21小時 公司否認	https://www.hk01.com/article/60289170?utm_source=01articlecopy&utm_medium=referral	未分類
@@ -915,12 +914,9 @@ var DATA_TODAY = `
 2025-10-21	前NFL球星侵入住宅遭逮 與警搏鬥後猝死	https://tw.news.yahoo.com/前nfl球星侵入住宅遭逮-與警搏鬥後猝死-054200814.html	心腦猝死
 2025-10-20	長榮爆空服員猝死 吹哨者： 是長期制度問題	https://www.msn.com/zh-tw/news/national/%E9%95%B7%E6%A6%AE%E7%88%86%E7%A9%BA%E6%9C%8D%E5%93%A1%E7%8C%9D%E6%AD%BB-%E5%90%B9%E5%93%A8%E8%80%85-%E6%98%AF%E9%95%B7%E6%9C%9F%E5%88%B6%E5%BA%A6%E5%95%8F%E9%A1%8C/ar-AA1Ol8ja?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	心腦猝死
 2025-10-20	中國「世紀嬰兒」驚傳猝死！25 歲驟逝網唏噓	https://www.msn.com/zh-tw/news/world/%E4%B8%AD%E5%9C%8B-%E4%B8%96%E7%B4%80%E5%AC%B0%E5%85%92-%E9%A9%9A%E5%82%B3%E7%8C%9D%E6%AD%BB-25%E6%AD%B2%E9%A9%9F%E9%80%9D%E7%B6%B2%E5%94%8F%E5%99%93/ar-AA1BxI7D?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	心腦猝死
-2025-10-19	上環中年婦墮海昏迷送院搶救不治救人男腳部受傷送院- 香港	https://www.tkww.hk/a/202510/19/AP68f4fabae4b0f2e74396907d.html	其他猝死
-2025-10-18	獅子山男子疑墮崖昏迷 直升機營救當場不治		其他猝死
 2025-10-18	消拯接投报破门 揭老妇猝死屋内	https://www.kwongwah.com.my/20251018/消拯接投报破门-揭老妇猝死屋内/	心腦猝死
 2025-10-18	学生猝死	https://atvnewsonline.com/tag/%E5%AD%A6%E7%94%9F%E7%8C%9D%E6%AD%BB/	心腦猝死
 2025-10-17	涉120億韓元愛情陷阱！韓美魔女赴柬埔寨做詐騙 猝死4個月無人知	https://www.ettoday.net/news/20251017/3052070.htm	心腦猝死
-2025-10-17	新油麻地避風塘男工人船上3米高甲板墮下昏迷 送院搶救後不治	https://taiwanreports.com/archives/944884	其他猝死
 2025-10-16	老妇擦她毛荫荫的玥户 费中字高清53岁男子性交易前猝死，家属诉卖淫者索赔131万元，一审判了	https://www.aconbio.com/wap/article/20251016_LRDOa.shtml	心腦猝死
 2025-10-16	大埔南坑村老翁路邊猝死 原因待查	https://hk.on.cc/hk/bkn/cnt/news/20251016/bkn-20251016162302300-1016_00822_001.html	心腦猝死
 2025-10-15	女子禁食为丈夫祈福跳舞时瘫倒猝死	https://kan.china.com/article/5933693.html	心腦猝死
@@ -931,7 +927,6 @@ var DATA_TODAY = `
 2025-10-13	深水埗男子猝死街头 无业女认误导警员等两罪判囚5周	https://hk.on.cc/hk/bkn/cnt/news/20251013/mobile/bkn-20251013182032712-1013_00822_001_cn.html	心腦猝死
 2025-10-12	開車聞異味 驚見陌生男猝死後座	http://www.msn.com/zh-tw/news/national/%E9%96%8B%E8%BB%8A%E8%81%9E%E7%95%B0%E5%91%B3-%E9%A9%9A%E8%A6%8B%E9%99%8C%E7%94%9F%E7%94%B7%E7%8C%9D%E6%AD%BB%E5%BE%8C%E5%BA%A7/ar-AA1QQrkg?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	心腦猝死
 2025-10-12	長榮空服員猝逝⋯座艙長發聲還原經過： 說我害她往生太沉重了	https://www.msn.com/zh-tw/news/living/%E9%95%B7%E6%A6%AE%E7%A9%BA%E6%9C%8D%E5%93%A1%E7%8C%9D%E9%80%9D-%E5%BA%A7%E8%89%99%E9%95%B7%E7%99%BC%E8%81%B2%E9%82%84%E5%8E%9F%E7%B6%93%E9%81%8E-%E8%AA%AA%E6%88%91%E5%AE%B3%E5%A5%B9%E5%BE%80%E7%94%9F%E5%A4%AA%E6%B2%89%E9%87%8D%E4%BA%86/ar-AA1OloOm?cvid=9f09b0de45fd42ca9b57df2b81120299&ocid=entnewsntp	猝死
-2025-10-12	沙田九旬翁意外跌落床罅被夾 昏迷送院搶救終不治	https://hk.news.yahoo.com/沙田九旬翁意外跌落床罅被夾-昏迷送院搶救終不治-024233520.html	其他猝死
 2025-10-12	前州议员女儿度假村溺毙 警列猝死案处理	https://www.orientaldaily.com.my/news/society/2025/10/12/768108	心腦猝死
 2025-10-11	屯門六旬漢家中猝死 妻行動不便不知夫亡	https://www.orangenews.hk/hongkong/UzHM5h1/屯門六旬漢家中猝死-妻行動不便不知夫亡.shtml	心腦猝死
 2025-10-10	葵涌工厦男子猝死疑病发所致｜即时新闻｜中港台｜on.cc东网	https://hk.on.cc/cnt/news/20251010/bkn-20251010141459887-1010_00822_001_cn.html	心腦猝死
@@ -943,7 +938,6 @@ var DATA_TODAY = `
 2025-10-07	大埔男子家中猝死 女友揭发惜太迟	https://global.hk01.com/%E7%AA%81%E5%8F%91/60283272/%E5%A4%A7%E5%9F%94%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E7%8C%9D%E6%AD%BB-%E5%A5%B3%E5%8F%8B%E6%8F%AD%E5%8F%91%E6%83%9C%E5%A4%AA%E8%BF%9F	心腦猝死
 2025-10-06	身穿动漫服女子坠楼亡 警方列猝死案调查	https://news.seehua.com/post/1368482	心腦猝死
 2025-10-06	疑點重重！ 桃園8歲男童休克暴斃	https://www.ettoday.net/news/20251006/3045567.htm	心腦猝死
-2025-10-06	男子大埔釣魚期間失足墮海 昏迷送院搶救後不治	https://news.tvb.com/tc/local/68e4ac7a50e07596eb2568a5/港澳-男子大埔釣魚期間失足墮海-昏迷送院搶救後不治	其他猝死
 2025-10-06	桃男童暴斃內幕2／「不乖」就被繼父剃光頭 男童生前際遇曝光令人鼻酸	https://www.mirrormedia.mg/story/20251002soc008	心腦猝死
 2025-10-06	工業意外｜古洞北公屋地盤男工墮下 昏迷送院不治		其他猝死
 2025-10-06	「藝識流」學員猝死！電競玩家曝經歷：像周處除三害 拉下鐵門打人		心腦猝死
@@ -1012,7 +1006,6 @@ var DATA_TODAY = `
 2025-09-19	「陰莖增大」 男暴斃診所內法醫高大成研判問題恐為心肌梗塞	https://www.msn.com/zh-tw/news/other/%E9%99%B0%E8%8E%96%E5%A2%9E%E5%A4%A7-%E7%94%B7%E6%9A%B4%E6%96%83%E8%A8%BA%E6%89%80%E5%85%A7-%E6%B3%95%E9%86%AB%E9%AB%98%E5%A4%A7%E6%88%90%E7%A0%94%E5%88%A4%E5%95%8F%E9%A1%8C%E6%81%90%E7%82%BA%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E/ar-AA1MNln6	心腦猝死
 2025-09-19	(台北溫泉屋雙屍命案 46歲女浸泉猝死 男友心臟病亡)	https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E7%94%B7%E7%A0%B840%E8%90%AC%E5%81%9A%E9%99%B0%E8%8E%96%E5%A2%9E%E5%A4%A7%E8%A1%93%E7%8C%9D%E6%AD%BB-%E9%AB%98%E5%A4%A7%E6%88%90%E5%88%973%E7%96%91%E9%BB%9E-%E6%81%90%E5%BF%83%E8%82%8C%E6%A2%97%E5%A1%9E-135011515.html	猝死
 2025-09-18	陰莖增大手術出包！北市50歲男「術後診間暴斃」 醫護遭檢警帶回	https://www.mirrormedia.mg/story/20250918edi007	心腦猝死
-2025-09-18	佛州男搭環球遊樂場雲霄飛車後昏迷不治 死因出爐	https://www.worldjournal.com/wj/amp/story/121473/9015094	其他猝死
 2025-09-18	50歲男私密整形猝死診所 劣醫丁斌煌100萬交保	https://tw.news.yahoo.com/50歲男私密整形猝死診所-劣醫丁斌煌100萬交保-140941855.html	心腦猝死
 2025-09-18	10分鐘前剛請假…40歲男突暴斃 主管嚇： 明明作息很健康	http://www.msn.com/zh-tw/health/other/10%E5%88%86%E9%90%98%E5%89%8D%E5%89%9B%E8%AB%8B%E5%81%87-40%E6%AD%B2%E7%94%B7%E7%AA%81%E6%9A%B4%E6%96%83-%E4%B8%BB%E7%AE%A1%E5%9A%87-%E6%98%8E%E6%98%8E%E4%BD%9C%E6%81%AF%E5%BE%88%E5%81%A5%E5%BA%B7/ar-AA1Mz3ht?cvid=68c877dc3b1e48779a50015159ffb7d0&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	心腦猝死
 2025-09-17	高雄男住漫畫店6天猝死！竟是惡名昭彰「製毒師傅」 曾躲警跳山崖	https://www.msn.com/zh-tw/news/national/%E9%AB%98%E9%9B%84%E7%94%B7%E4%BD%8F%E6%BC%AB%E7%95%AB%E5%BA%976%E5%A4%A9%E7%8C%9D%E6%AD%BB-%E7%AB%9F%E6%98%AF%E6%83%A1%E5%90%8D%E6%98%AD%E5%BD%B0-%E8%A3%BD%E6%AF%92%E5%B8%AB%E5%82%85-%E6%9B%BE%E8%BA%B2%E8%AD%A6%E8%B7%B3%E5%B1%B1%E5%B4%96/ar-AA1KVa38?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	心腦猝死
@@ -1050,7 +1043,6 @@ var DATA_TODAY = `
 2025-09-08	巫裔男子疑轻生 警列猝死案处理	https://www.chinapress.com.my/20250908/巫裔男子疑轻生-警列猝死案处理/	心腦猝死
 2025-09-04	马国小贩出门90分钟后猝死 家属盼在新加坡工作涉案男子现身	https://inews.setn.com/news/1715350	心腦猝死
 2025-09-04	狂抹痠痛藥膏運動選手中毒暴斃亡| 討論牆	https://m.tech.china.com/redian/2025/0904/092025_1725850.html	心腦猝死
-2025-09-04	古洞北公屋地盤男工鐵籠工作期間墮平台 昏迷送院搶救後不治		其他猝死
 2025-09-04	供毒《老友记》派瑞猝死 “K他命女王”最高判60年	https://www.chinatimes.com/realtimenews/20250904004360-260418?ctrack=mo_main_recmd_p05	心腦猝死
 2025-09-03	广州年轻医生猝死 家属维权不受重视	https://www.kwongwah.com.my/20250903/广州年轻医生猝死-家属维权不受重视/	心腦猝死
 2025-09-02	工大生軍訓猝死｜資深律師：完成第二份驗屍報告 才可申請開死因庭 ｜ 中國報 China Press	https://www.chinapress.com.my/20250902/%E5%B7%A5%E5%A4%A7%E7%94%9F%E5%86%9B%E8%AE%AD%E7%8C%9D%E6%AD%BB%EF%BD%9C%E8%B5%84%E6%B7%B1%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%AE%8C%E6%88%90%E7%AC%AC%E4%BA%8C%E4%BB%BD%E9%AA%8C%E5%B0%B8%E6%8A%A5%E5%91%8A/	心腦猝死
@@ -1109,7 +1101,6 @@ var DATA_TODAY = `
 2025-08-22	法網紅受虐博流量 直播中途猝死	https://www.hkej.com/dailynews/international/article/4171878/法網紅受虐博流量+直播中途猝死	心腦猝死
 2025-08-22	恐怖鬼娃「安娜貝爾」，真的殺人了？調查員巡展時猝死，結果法醫卻說⋯⋯	https://www.singtaousa.com/5322605	心腦猝死
 2025-08-22	吸入過多沼氣！鶯歌下水道傳工安意外 2移工昏迷1人送醫不治	https://tw.news.yahoo.com/%E5%90%B8%E5%85%A5%E9%81%8E%E5%A4%9A%E6%B2%BC%E6%B0%A3-%E9%B6%AF%E6%AD%8C%E4%B8%8B%E6%B0%B4%E9%81%93%E5%82%B3%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96-2%E7%A7%BB%E5%B7%A5%E6%98%8F%E8%BF%B71%E4%BA%BA%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB-131900010.html	其他猝死
-2025-08-22	倒臥泳池旁昏迷送院 疑溺水柏大學生不治	https://www.singtaousa.com/2025-11-20/%E5%80%92%E8%87%A5%E6%B3%B3%E6%B1%A0%E6%97%81%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2-%E7%96%91%E6%BA%BA%E6%B0%B4%E6%9F%8F%E5%A4%A7%E5%AD%B8%E7%94%9F%E4%B8%8D%E6%B2%BB/5382577	其他猝死
 2025-08-22	何文田男子梯間墮下昏迷送院不治	https://www.singtaousa.com/2022-09-19/何文田男子梯間墮下-昏迷送院不治/4271522	其他猝死
 2025-08-22	KK零售店拉封条引揣测 实为缅外劳猝死 - 国内 - 即时国内	https://www.singtaousa.com/2025-08-27/news-teens-parents-sue-openai-after-they-claim-chatgpt-helped-him-commit-suicide/5315148	心腦猝死
 2025-08-22	2大學生墜樓案列猝死 隆總警長：將調查是否涉及霸淩 ｜ 社會	https://www.orientaldaily.com.my/news/society/2025/08/22/756340	跳樓墮樓
@@ -1135,8 +1126,6 @@ var DATA_TODAY = `
 2025-08-18	猝死｜韓星旅行心臟驟停離世！醫生揭心臟驟停4大常見徵狀＋2大高危人士一動作測心臟＋腦血管健康	https://www.tvb.com/varietynews-c/%E7%8C%9D%E6%AD%BB-%E9%9F%93%E6%98%9F%E6%97%85%E8%A1%8C%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E9%9B%A2%E4%B8%96-%E9%86%AB%E7%94%9F%E6%8F%AD%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C4%E5%A4%A7%E5%B8%B8%E8%A6%8B%E5%BE%B5%E7%8B%80-2%E5%A4%A7%E9%AB%98%E5%8D%B1%E4%BA%BA%E5%A3%AB-%E4%B8%80%E5%8B%95%E4%BD%9C%E6%B8%AC%E5%BF%83%E8%87%9F-%E8%85%A6%E8%A1%80%E7%AE%A1%E5%81%A5%E5%BA%B7-1008087	心腦猝死
 2025-08-16	男子深夜腰痛以为腰闪了，两天后猝死，医生惋惜：又是被耽误的	https://cj.sina.cn/articles/view/7879996653/1d5af34ed02001bj4s?froms=ggmp	心腦猝死
 2025-08-15	心肌梗塞年輕化！28歲男胸痛衝急診搶命 醫籲有家族史要當心	https://www.chinatimes.com/realtimenews/20250815003462-260418	其他急症
-2025-08-15	土瓜灣海心公園老翁墮海 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20250815/bkn-20250815063740368-0815_00822_001.html	其他猝死
-2025-08-14	尖沙咀星光大道女子墮海 昏迷送院搶救後不治	https://www.hk01.com/article/60266747?utm_source=01articlecopy&utm_medium=referral	其他猝死
 2025-08-14	多倫多52歲知名外科權威三項鐵人猝死 醫學界嘆痛失人才	https://www.singtao.ca/7240375/2025-08-14/news-%E5%A4%9A%E5%80%AB%E5%A4%9A52%E6%AD%B2%E7%9F%A5%E5%90%8D%E5%A4%96%E7%A7%91%E6%AC%8A%E5%A8%81%E4%B8%89%E9%A0%85%E9%90%B5%E4%BA%BA%E7%8C%9D%E6%AD%BB%2B%2B%2B%E9%86%AB%E5%AD%B8%E7%95%8C%E5%98%86%E7%97%9B%E5%A4%B1%E4%BA%BA%E6%89%8D/?variant=zh-hk	心腦猝死
 2025-08-13	66歲阿伯外遇！啪啪啪完馬上風猝死 陸法院判小三要賠25萬 - 警政時報	https://www.tcpttw.com/other/other_internation/2025/08/13/190199/	心腦猝死
 2025-08-12	高雄66歲臥床女疑猝死！臉部有瘀青 同居人稱「拍臉求回應」遭警帶回｜知新聞	https://knews.com.tw/news/A52952831FB50AC61459F2E57DB01341	心腦猝死
@@ -1163,7 +1152,6 @@ var DATA_TODAY = `
 2025-07-07	拳館教練猝死│Bresson Brel十三年前奪世界拳王 與曹星如屬好友	https://www.hk01.com/article/60254174?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2025-07-03	清潔工猝死｜死者父悲痛認屍 已接觸僱主 工權會促當局介入調查	https://www.hk01.com/article/60253185?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2025-07-01	沙田碩門邨男子客廳猝死 家人揭發惜太遲	https://www.hk01.com/article/60252576?utm_source=01articlecopy&utm_medium=referral	心腦猝死
-2025-06-26	蒲台島對開釣魚男墮海 直升機高空搜索 消防救起昏迷送院後不治	https://www.hk01.com/article/60251270?utm_source=01articlecopy&utm_medium=referral	其他猝死
 2025-06-16	彩園邨男子高處墮下 昏迷送院搶救不治	https://hk.on.cc/hk/bkn/cnt/news/20250616/bkn-20250616085745258-0616_00822_001.html	其他猝死
 2025-06-15	生日變死忌！人妻與孩子捧蛋糕送驚喜慶生 悲揭丈夫喚不醒猝死	https://www.hk01.com/article/60247420?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2025-06-13	尖沙咀緬甸臺男子猝死 原因待查	https://hk.on.cc/hk/bkn/cnt/news/20250613/bkn-20250613213525831-0613_00822_001.html	心腦猝死
@@ -1177,7 +1165,6 @@ var DATA_TODAY = `
 2025-06-10	外國官員疑「天冷猝死」東區街道 全台一氧化碳中毒已釀3死59傷	https://www.msn.com/zh-tw/news/national/%E5%A4%96%E5%9C%8B%E5%AE%98%E5%93%A1%E7%96%91-%E5%A4%A9%E5%86%B7%E7%8C%9D%E6%AD%BB-%E6%9D%B1%E5%8D%80%E8%A1%97%E9%81%93-%E5%85%A8%E5%8F%B0co%E4%B8%AD%E6%AF%92%E5%B7%B2%E9%87%803%E6%AD%BB59%E5%82%B7/ar-AA1wmMCM?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	心腦猝死
 2025-06-10	吻妻臉頰道別…司機員倒列車駕駛室猝死！台鐵：符合休息11 小時規定	https://www.msn.com/zh-tw/news/national/%E5%90%BB%E5%A6%BB%E8%87%89%E9%A0%B0%E9%81%93%E5%88%A5-%E5%8F%B8%E6%A9%9F%E5%93%A1%E5%80%92%E5%88%97%E8%BB%8A%E9%A7%95%E9%A7%9B%E5%AE%A4%E7%8C%9D%E6%AD%BB-%E5%8F%B0%E9%90%B5-%E7%AC%A6%E5%90%88%E4%BC%91%E6%81%AF11%E5%B0%8F%E6%99%82%E8%A6%8F%E5%AE%9A/ar-AA1usA6c?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	心腦猝死
 2025-06-10	印裔工程师深夜猝死 家属痛斥微软 高薪背后血泪	https://today.line.me/tw/v3/reposts/article/YKPlyB	心腦猝死
-2025-06-10	今日（21日）清晨6時許，警方接獲途人報案，指灣仔金紫荊廣場對開約50米海面，有人形物體漂浮。救援人員接報趕至，將一名七旬男子救起，當時他已陷入昏迷，被送往律敦治醫院搶救終不治。 警方經調查確認死者為74歲馮姓男子。現場並無發現遺書，初步相信他因病	https://www.instagram.com/p/DNmh8y4JvVy/	其他猝死
 2025-06-10	中国男子车内偷情猝死	https://info.51.ca/articles/1465478?wyacs=info-article-list	心腦猝死
 2025-06-10	“摇一摇加好友”，男子车内发生关系后猝死，女子未拨打120，尸体9天后被发现……法院判了→	https://www.yeeyi.com/news/details/2797536	心腦猝死
 2025-06-10	DJ音樂太大聲！少年「站在音響前」突暴斃 母崩潰： 大家還在跳舞	https://www.msn.com/zh-tw/news/world/dj%E9%9F%B3%E6%A8%82%E5%A4%AA%E5%A4%A7%E8%81%B2-%E5%B0%91%E5%B9%B4-%E7%AB%99%E5%9C%A8%E9%9F%B3%E9%9F%BF%E5%89%8D-%E7%AA%81%E6%9A%B4%E6%96%83-%E6%AF%8D%E5%B4%A9%E6%BD%B0-%E5%A4%A7%E5%AE%B6%E9%82%84%E5%9C%A8%E8%B7%B3%E8%88%9E/ar-AA1su8iq?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	心腦猝死
@@ -1200,15 +1187,12 @@ var DATA_TODAY = `
 2025-04-25	13歲兒猝逝！母控同儕霸凌、廁所餵毒 解剖出爐終釐清「死亡真相」	https://www.storm.mg/lifestyle/5362867	其他猝死
 2025-04-12	催生「幸福嘉義米」 博士吳永培猝死因公撫卹爭議判決出爐	https://www.msn.com/zh-tw/news/national/%E5%82%AC%E7%94%9F-%E5%B9%B8%E7%A6%8F%E5%98%89%E7%BE%A9%E7%B1%B3-%E5%8D%9A%E5%A3%AB%E5%90%B3%E6%B0%B8%E5%9F%B9%E7%8C%9D%E6%AD%BB-%E5%9B%A0%E5%85%AC%E6%92%AB%E5%8D%B9%E7%88%AD%E8%AD%B0%E5%88%A4%E6%B1%BA%E5%87%BA%E7%88%90/ar-AA1RBEDM	心腦猝死
 2025-03-17	男子搭長途車暴斃！乘客不知情伴屍12小時 司機到站叫喚揭已屍僵	https://www.hk01.com/article/60216848?utm_source=01articlecopy&utm_medium=referral	心腦猝死
-2025-03-15	尖沙咀天星碼頭男子墮海 昏迷送院搶救後不治	https://www.hk01.com/article/60219943?utm_source=01articlecopy&utm_medium=referral	其他猝死
-2025-03-14	西環堅尼地城打卡景點男子墮海 消防撈起昏迷送院不治	https://www.hk01.com/article/60219570?utm_source=01articlecopy&utm_medium=referral	其他猝死
 2025-03-12	老翁出國旅遊猝死 遺體返家「心臟不見了」！ 家屬怒吼求真相	https://www.msn.com/zh-tw/news/world/%E8%80%81%E7%BF%81%E5%87%BA%E5%9C%8B%E6%97%85%E9%81%8A%E7%8C%9D%E6%AD%BB-%E9%81%BA%E9%AB%94%E8%BF%94%E5%AE%B6-%E5%BF%83%E8%87%9F%E4%B8%8D%E8%A6%8B%E4%BA%86-%E5%AE%B6%E5%B1%AC%E6%80%92%E5%90%BC%E6%B1%82%E7%9C%9F%E7%9B%B8/ar-AA1RxsLK	心腦猝死
 2025-03-11	黃明志否認控罪 #黃明志 #謝侑芯 #猝死 #am730	https://www.facebook.com/am730hk/posts/%E9%BB%83%E6%98%8E%E5%BF%97%E5%90%A6%E8%AA%8D%E6%8E%A7%E7%BD%AA-%E9%BB%83%E6%98%8E%E5%BF%97-%E8%AC%9D%E4%BE%91%E8%8A%AF-%E7%8C%9D%E6%AD%BB-am730/1299867552180844/	心腦猝死
 2025-03-10	石鼓洲康復院院友猝死｜自願戒毒 踢波後觀賽時抽筋 院方感遺憾	https://www.hk01.com/article/60218270?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2025-03-10	民安隊員完成年度體適能測試休息時昏迷猝死 胞妹指哥哥無大病	https://www.hk01.com/article/60218164?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2025-03-10	印度“毒咳水”再现致2童猝死 医生为证“安全”亲试即昏迷	https://cacnews.ca/180024.html	心腦猝死
 2025-03-09	【后备军猝死案】传第二次尸检发现可疑伤痕 警总长促予空间完成死因调查	https://today.line.me/hk/v3/posts/list/article/Wonm3g	心腦猝死
-2025-03-02	粉嶺蝴蝶山男子疑失足墮坡 昏迷送院搶救後不治	https://www.hk01.com/article/60215621?utm_source=01articlecopy&utm_medium=referral	其他猝死
 2025-02-28	3歲華裔女童感冒送院被打一堆針猝死 遺言：爸爸我眼睛看不到了	https://www.hk01.com/article/60215057?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2025-02-28	13歲台灣中學生疑遭餵毒突猝死 母親控訴：兒子在校時常被霸淩	https://www.hk01.com/article/60215130?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2025-02-27	筲箕灣劏房獨居男子疑猝死 業主上門尋人揭發	https://hk.on.cc/hk/bkn/cnt/news/20250227/bkn-20250227132211090-0227_00822_001.html	心腦猝死
@@ -1260,7 +1244,6 @@ var DATA_TODAY = `
 2024-08-22	尖沙咀海旁男子游水遇溺昏迷 送院後不治	https://hk.on.cc/hk/bkn/cnt/news/20240822/bkn-20240822110935605-0822_00822_001.html	其他猝死
 2024-08-12	24歲韓男來台旅遊猝死！遊高美濕地後搭計程車突無呼吸心跳…送醫不治	https://tw.news.yahoo.com/24歲韓男來台旅遊猝死-遊高美濕地後搭計程車突無呼吸心跳-送醫不治-070506644.html	心腦猝死
 2024-08-10	休旅車駕駛猝死衝撞北市松山區土魠魚羹店 畫面曝光(翻攝畫面)	https://video.ltn.com.tw/article/IxHHuCKjV_I/PLI7xntdRxhw0r6oz4YWJY9xRScLkoe0Wi	心腦猝死
-2024-08-09	尖沙咀老翁墮海 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20240809/bkn-20240809120230342-0809_00822_001.html	其他猝死
 2024-08-09	將軍澳唐明苑裝修工猝死 一家頓失支柱 工權會籲捐款助度難關	https://www.hk01.com/article/1046283?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2024-07-27	執勤偷猝死男115英鎊 英警員認罪面臨監禁	https://hk.on.cc/hk/bkn/cnt/intnews/20240727/bkn-20240727210116763-0727_00992_001.html	心腦猝死
 2024-07-22	彩虹道街市露宿漢疑猝死平臺 保安揭發報案	https://www.hk01.com/article/1040563?utm_source=01articlecopy&utm_medium=referral	心腦猝死
@@ -1276,10 +1259,8 @@ var DATA_TODAY = `
 2024-06-02	船員猝死美裡酒店 警證實死因無可疑	https://news.seehua.com/post/1115702	心腦猝死
 2024-05-28	國宴名廚入院80天猝死 醫師：肺炎期間心肌梗塞風險增6、7倍	https://news.nextapple.com/life/20240528/13FC9148C1EBB97DD332D85B7A1163D1	心腦猝死
 2024-05-19	男面試到一半突趴下！「尿失禁、瞳孔放大」猝死 面試官：上份工作常加班	https://tw.news.yahoo.com/男面試到-半突趴下-尿失禁-瞳孔放大-猝死-071313357.html	心腦猝死
-2024-05-18	屯門老婦飛墮會所泳池 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20240518/bkn-20240518143100835-0518_00822_001.html	其他猝死
 2024-05-16	屯門的士司機猝死 家人改機票回港 惜未能見最後一面	https://www.hk01.com/article/1019997?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2024-05-10	華爾街銀行家猝死！他生前「1周工作100小時」 同事怒嗆擬罷工	https://www.ctwant.com/article/336013	心腦猝死
-2024-04-20	男子汀九橋墮海 昏迷送院不治 (20:27) - 20240420 - 港聞	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20240420/s00001/1713608808053/%E7%94%B7%E5%AD%90%E6%B1%80%E4%B9%9D%E6%A9%8B%E5%A2%AE%E6%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	其他猝死
 2024-04-15	深圳知名行山目的地 男子七娘山徒步猝死	https://hk.on.cc/hk/bkn/cnt/cnnews/20240415/bkn-20240415170701463-0415_00952_001.html	心腦猝死
 2024-04-15	吉林醫校患病女生被強迫做早操猝死 家屬遭打壓(視頻)	https://www.ntdtv.com/b5/2024/04/15/a103871454.html	心腦猝死
 2024-03-22	將軍澳富寧花園79歲老婦疑吃白粥鯁喉 昏迷送院搶救後不治	https://www.hk01.com/article/1003212?utm_source=01articlecopy&utm_medium=referral	其他猝死
@@ -1288,7 +1269,6 @@ var DATA_TODAY = `
 2024-03-16	美41歲女子客機上神秘暴斃 家人揭或因咳嗽太厲害致死	https://std.stheadline.com/realtime/article/1987264/即時-國際-美41歲女子客機上神秘暴斃-家人揭或因咳嗽太厲害致死	心腦猝死
 2024-03-16	在咖啡廳開店坐到打烊！老翁同姿勢坐足12小時 店員報警揭猝死	https://www.hk01.com/article/1000991?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2024-03-14	啟德體育園男工猝死｜曾抱怨工作經常加班 家屬悲慟：接受唔到	https://www.hk01.com/article/1000600?utm_source=01articlecopy&utm_medium=referral	心腦猝死
-2024-03-14	【突發意外】啟德地盤工人嘔白泡 昏迷送院搶救不治	https://topick.hket.com/article/3723846?r=cpsdlc	其他猝死
 2024-03-13	陸29歲網紅驚傳猝死 2天沒跟母聯繫…上門驚見已「側臥床上」亡	https://tw.news.yahoo.com/陸29歲網紅驚傳猝死-2天沒跟母聯繫-上門驚見已-側臥床上-亡-103222167.html	心腦猝死
 2024-03-09	打羽毛球期間突然倒地 中年男急送院暴斃 警調查案件證死因是…	https://www.hk01.com/article/997854?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2024-03-08	李影離世｜麗的花旦李影上月猝逝 喪禮已在溫哥華低調舉行 ｜ am730	https://www.am730.com.hk/%E5%A8%9B%E6%A8%82/%E6%9D%8E%E5%BD%B1%E9%9B%A2%E4%B8%96-%E9%BA%97%E7%9A%84%E8%8A%B1%E6%97%A6%E6%9D%8E%E5%BD%B1%E4%B8%8A%E6%9C%88%E7%8C%9D%E9%80%9D-%E5%96%AA%E7%A6%AE%E5%B7%B2%E5%9C%A8%E6%BA%AB%E5%93%A5%E8%8F%AF%E4%BD%8E%E8%AA%BF%E8%88%89%E8%A1%8C/435718	猝死
@@ -1310,7 +1290,6 @@ var DATA_TODAY = `
 2024-01-19	英國單親爸心臟病猝死 2歲仔監生餓死蜷縮屍旁	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/982768/%E8%8B%B1%E5%9C%8B%E5%96%AE%E8%A6%AA%E7%88%B8%E5%BF%83%E8%87%9F%E7%97%85%E7%8C%9D%E6%AD%BB-2%E6%AD%B2%E4%BB%94%E7%9B%A3%E7%94%9F%E9%A4%93%E6%AD%BB%E8%9C%B7%E7%B8%AE%E5%B1%8D%E6%97%81	心腦猝死
 2024-01-17	46歲網紅陸醫生「凌晨猝死」！心肌梗塞亡 2天前才拍片	https://news.tvbs.com.tw/entertainment/2369922	心腦猝死
 2024-01-16	46歲網紅麻醉師朱翔猝死 同事：感染新冠病毒	https://www.epochtimes.com/b5/24/1/16/n14159562.htm	心腦猝死
-2024-01-15	北角渡輪碼頭對開七旬翁墮海 獲救昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20240115/bkn-20240115083009062-0115_00822_001.html	其他猝死
 2024-01-12	葵湧安蔭邨42歲男猝死 妻子揭發惜太遲	https://www.hk01.com/article/980295?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2024-01-09	6廳官黨校宿舍豪飲7枝白酒醜態盡露 隔日1人猝死 1人砸門呼救	https://www.hk01.com/article/979203?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2024-01-08	大角咀獨居男單位內猝死 警到場調查	https://www.hk01.com/article/978899?utm_source=01articlecopy&utm_medium=referral	心腦猝死
@@ -1355,7 +1334,6 @@ var DATA_TODAY = `
 2023-10-05	人倫悲劇！板橋7旬婦家中猝逝 兒以為「只是睡著」伴屍2天	https://tw.news.yahoo.com/人倫悲劇-板橋7旬婦家中猝逝-兒以為-只是睡著-伴屍2天-050722010.html	猝死
 2023-10-04	路旁溝渠驚現男屍 警以猝死角度調查 ｜ 社會	https://www.orientaldaily.com.my/news/society/2023/10/04/601213	心腦猝死
 2023-10-03	球員猝死發現台啤球團沒有勞健保 立委質詢轟離譜引關注	https://tw.news.yahoo.com/球員猝死發現台啤球團沒有勞健保-立委質詢轟離譜引關注-080951993.html	心腦猝死
-2023-09-27	巴籍人士遣反回國期間航班上不省人事 航班急降武漢送醫惜不治 - 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/7550698323532/%E5%B7%B4%E7%B1%8D%E4%BA%BA%E5%A3%AB%E9%81%A3%E5%8F%8D%E5%9B%9E%E5%9C%8B%E6%9C%9F%E9%96%93%E8%88%AA%E7%8F%AD%E4%B8%8A%E4%B8%8D%E7%9C%81%E4%BA%BA%E4%BA%8B-%E8%88%AA%E7%8F%AD%E6%80%A5%E9%99%8D%E6%AD%A6%E6%BC%A2%E9%80%81%E9%86%AB%E6%83%9C%E4%B8%8D%E6%B2%BB-	其他猝死
 2023-09-15	同志3P派對期間猝死 男友冒認死者欲掉包被揭 認販毒等罪囚82月	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/941585/%E5%90%8C%E5%BF%973p%E6%B4%BE%E5%B0%8D%E6%9C%9F%E9%96%93%E7%8C%9D%E6%AD%BB-%E7%94%B7%E5%8F%8B%E5%86%92%E8%AA%8D%E6%AD%BB%E8%80%85%E6%AC%B2%E6%8E%89%E5%8C%85%E8%A2%AB%E6%8F%AD-%E8%AA%8D%E8%B2%A9%E6%AF%92%E7%AD%89%E7%BD%AA%E5%9B%9A82%E6%9C%88	心腦猝死
 2023-09-14	新北男花1萬元叫應召妹 隔天猝死摩鐵浴缸	https://www.ettoday.net/news/20230914/2582677.htm	心腦猝死
 2023-09-14	廣西一家7口食用野生菌菇中毒 致2人猝死2人重症	https://www.hk01.com/article/940744?utm_source=01articlecopy&utm_medium=referral	心腦猝死
@@ -1413,7 +1391,6 @@ var DATA_TODAY = `
 2023-02-21	浙江60歲速遞員工淩晨猝死崗位 年齡成工亡賠償阻礙？中通回應	https://www.hk01.com/article/869621?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2023-02-21	入住酒店41天 重慶男被發現在房內暴斃 屍體腐爛死因未明	https://www.hk01.com/article/869747?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2023-02-21	(廈門管理員2年加班2148小時 上班猝死)	https://www.chinatimes.com/realtimenews/20230221004846-260402?chdtv	心腦猝死
-2023-02-10	土瓜灣海心公園女子墮海 昏迷送院不治	https://www.hk01.com/article/865779?utm_source=01articlecopy&utm_medium=referral	其他猝死
 2023-02-01	北角女子與胞兄失聯 報案求助揭猝死家中	https://hk.on.cc/hk/bkn/cnt/news/20230201/bkn-20230201000649385-0201_00822_001.html	心腦猝死
 2023-01-30	離奇！3個月大男嬰送托兒所3小時突猝死 全身無傷痕 警調查保姆	https://www.hk01.com/article/861346?utm_source=01articlecopy&utm_medium=referral	心腦猝死
 2023-01-30	美麗都大廈男子賓館猝死	https://www.hk01.com/article/861706?utm_source=01articlecopy&utm_medium=referral	心腦猝死
@@ -1486,7 +1463,6 @@ var DATA_TODAY = `
 2022-12-01	悚！5歲女兒猝死 媽媽驚慌藏木箱「水泥封屍」 - 國際 - 自由時報電子報	https://news.ltn.com.tw/news/world/breakingnews/4141662	心腦猝死
 2022-11-30	高雄楠梓落選人「謝票完」猝死宮廟樹下	https://tw.news.yahoo.com/快訊-選戰後無緣當里長-高雄楠梓落選人-謝票完-猝死宮廟樹下-041647644.html	心腦猝死
 2022-11-30	快訊/選戰後無緣當裡長！ 高雄楠梓落選人「謝票完」猝死宮廟樹下	https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%81%B8%E6%88%B0%E5%BE%8C%E7%84%A1%E7%B7%A3%E7%95%B6%E9%87%8C%E9%95%B7-%E9%AB%98%E9%9B%84%E6%A5%A0%E6%A2%93%E8%90%BD%E9%81%B8%E4%BA%BA-%E8%AC%9D%E7%A5%A8%E5%AE%8C-%E7%8C%9D%E6%AD%BB%E5%AE%AE%E5%BB%9F%E6%A8%B9%E4%B8%8B-041647644.html	心腦猝死
-2022-11-28	愛東邨男子飛墮平台 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20221128/bkn-20221128074614824-1128_00822_001.html	其他猝死
 2022-11-27	(資深媒體人直播中猝死驚悚一刻畫面全流出)	https://www.worldjournal.com/wj/story/121382/6796627	心腦猝死
 2022-11-26	印度67歲富商偷吃人妻 心臟病發暴斃床上 ｜ 國際	https://www.orientaldaily.com.my/news/international/2022/11/26/529569	心腦猝死
 2022-11-23	譚艾珍老公午睡中猝逝！醫警告「睡眠隱形殺手」：別小看睡覺打呼很危險	https://health.tvbs.com.tw/medical/336381	猝死
@@ -1504,7 +1480,6 @@ var DATA_TODAY = `
 2022-11-06	(8歲兒童猝死 發燒 火炭 肺炎 豐通關 長期病患)	https://guangming.com.my/%E7%81%AB%E7%AE%AD%E6%B4%BB%E8%BA%8D%E9%BB%A8%E5%93%A1%E6%B4%AA%E7%BF%8A%E5%82%94-%E7%AA%81%E7%84%B6%E6%9A%88%E5%80%92%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB	心腦猝死
 2022-11-05	結緍2個月 丈夫在澳暴斃	https://www.sinchew.com.my/20221105/甫结婚2个月-本地女艺人丈夫在澳暴毙/	心腦猝死
 2022-11-05	流浪老漢猝死 倒臥走道逾三小時 ｜ 聯合早報網	https://www.zaobao.com/news/singapore/story20221105-1330110	心腦猝死
-2022-11-04	高鐵車廂內突昏迷無生命跡象 男子送醫搶救仍不治	https://news.ltn.com.tw/news/society/breakingnews/4112128	其他猝死
 2022-11-03	老師網課後猝死家中 女兒哭訴母親遭網暴	https://hk.on.cc/hk/bkn/cnt/cnnews/20221103/bkn-20221103000552637-1103_00952_001.html	心腦猝死
 2022-11-03	MMA格鬥家「吃西瓜猝死」！關鍵疑點曝光 父悲痛：發現時已沒呼吸	https://tw.news.yahoo.com/mma格鬥家-吃西瓜猝死-關鍵疑點曝光-父悲痛-發現時已沒呼吸-232256003.html	心腦猝死
 2022-11-01	眼前突現飛蚊！19歲女大生半年後猝逝 竟是乳癌釀禍	https://tw.news.yahoo.com/眼前突現飛蚊-19歲女大生半年後猝逝-竟是乳癌釀禍-092900199.html	猝死
@@ -1581,7 +1556,6 @@ var DATA_TODAY = `
 2022-08-08	東湧街坊 居港15年助產士搭飛機回英國暴斃機艙 ｜ am730	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/%E6%9D%B1%E6%B6%8C%E8%A1%97%E5%9D%8A-%E5%B1%85%E6%B8%AF15%E5%B9%B4%E5%8A%A9%E7%94%A2%E5%A3%AB%E6%90%AD%E9%A3%9B%E6%A9%9F%E5%9B%9E%E8%8B%B1%E5%9C%8B%E6%9A%B4%E6%96%83%E6%A9%9F%E8%89%99/332625	心腦猝死
 2022-08-08	東涌街坊居港15年助產士搭飛機回英國暴斃機艙	https://www.am730.com.hk/國際/東涌街坊-居港15年助產士搭飛機回英國暴斃機艙/332625	心腦猝死
 2022-08-06	中科院副院長南下出差猝死屏東恆春民宿 死因出爐	https://news.ltn.com.tw/news/politics/breakingnews/4016569	心腦猝死
-2022-08-01	青衣城對開女子墮海 昏迷送院搶救後不治	https://www.hk01.com/sns/article/799053	其他猝死
 2022-07-31	失聯3天飄異味獨居男子房間暴斃	https://guangming.com.my/失聯3天飄異味-獨居男子房間暴斃	心腦猝死
 2022-07-31	(失常男發狂毆母 突跌倒猝死)	https://guangming.com.my/%E5%A4%B1%E8%81%AF3%E5%A4%A9%E9%A3%84%E7%95%B0%E5%91%B3-%E7%8D%A8%E5%B1%85%E7%94%B7%E5%AD%90%E6%88%BF%E9%96%93%E6%9A%B4%E6%96%83	心腦猝死
 2022-07-26	非正常死亡？中國3高官「離奇猝逝」紫光前董座爆失聯	https://tw.news.yahoo.com/%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1-%E4%B8%AD%E5%9C%8B3%E9%AB%98%E5%AE%98-%E9%9B%A2%E5%A5%87%E7%8C%9D%E9%80%9D-%E7%B4%AB%E5%85%89%E5%89%8D%E8%91%A3%E5%BA%A7%E7%88%86%E5%A4%B1%E8%81%AF-095018110.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABpFff4VASl-3uIsjiGLBdLXam1Lkyir_gy81fhcqH3FFkDMIc2RUBNVU8CPYmBi87k-z8zsvAf45Y9zGOuJKdmEo3XfuEMgrlZYi7Y88_tmSoz_qIfe6Wr8yH9BY0WAdTabyeDqXOCoNrPPnjZq1fDGseqdweEfdBLj-zni1Yf-	猝死
@@ -1594,7 +1568,6 @@ var DATA_TODAY = `
 2022-07-08	鴻海前發言人丁祈安腦溢血離世！防中風醫師建議4飲品：血液循環好3成-第3頁	https://edh.tw/articles/qQ6qDPP/3	自然離世
 2022-07-08	曾跟隨郭台銘、尹衍樑！鴻海前發言人丁祈安驚傳「腦溢血」離世	https://finance.ettoday.net/news/2290300	自然離世
 2022-06-23	黃大仙西貢兩小時內兩女傭昏迷 其中一人僱主家中猝死	https://www.hk01.com/sns/article/784725	心腦猝死
-2022-06-16	失蹤男墮城門河昏迷 送院搶救後不治	https://www.hk01.com/sns/article/781992	其他猝死
 2022-06-12	香港仔男子猝死家中	https://www.hk01.com/sns/article/780541	心腦猝死
 2022-06-10	菲傭猝死死因研訊 法醫指解剖後找不到死者致命傷勢	https://hk.on.cc/hk/bkn/cnt/news/20220610/bkn-20220610172153654-0610_00822_001.html	心腦猝死
 2022-05-31	男子猝死跑車內遺體未發現傷口（吉隆坡30日訊）一名28歲的本地男子被人發現死在麥卡倫跑車內，警方受召到場後並沒在其遺體發現任何傷口，目前暫以猝死案處理。	https://guangming.com.my/男子猝死跑車內-遺體未發現傷口	心腦猝死
@@ -1616,18 +1589,14 @@ var DATA_TODAY = `
 2022-02-11	Bilibili審核員猝死引議論 言論審查到過勞？	https://www.ntdtv.com.tw/b5/20220210/video/318667.html?Bilibili%E5%AF%A9%E6%A0%B8%E5%93%A1%E7%8C%9D%E6%AD%BB%E5%BC%95%E8%AD%B0%E8%AB%96%20%E8%A8%80%E8%AB%96%E5%AF%A9%E6%9F%A5%E5%88%B0%E9%81%8E%E5%8B%9E%EF%BC%9F	心腦猝死
 2022-01-10	蕾菈寫真集攝影師「打疫苗猝死」 接噩耗悲痛喊：不是要來婚禮嗎？	https://star.ettoday.net/news/2166216	心腦猝死
 2021-12-28	長沙灣泰籍40多歲女暴斃洗衣店	https://www.hk01.com/突發/717456/長沙灣泰籍女獨居洗衣店-友人登門揭不治	心腦猝死
-2021-12-18	荔景的士司機入油期間昏迷車內 送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/713805/%E8%8D%94%E6%99%AF%E7%9A%84%E5%A3%AB%E5%8F%B8%E6%A9%9F%E5%85%A5%E6%B2%B9%E6%9C%9F%E9%96%93%E6%98%8F%E8%BF%B7%E8%BB%8A%E5%85%A7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	其他猝死
 2021-12-07	真的「被嚇死」！16歲男孩闖鬼屋竟突發心臟病猝死	https://news.housefun.com.tw/news/article/812798319186.html	心腦猝死
-2021-12-03	尖沙咀女子星光大道墮海 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20211203/bkn-20211203213713013-1203_00822_001.html	其他猝死
 2021-10-26	搶救缺血性腦中風 腦部取栓24小時救命	https://www.healthnews.com.tw/article/51703	其他急症
 2021-10-02	香港工時長❶/打兩份工過勞死 基層打工仔悲歌	https://www.tkww.hk/epaper/view/newsDetail/1443999629980078080.html	未分類
 2021-10-02	香港工時長①丨打兩份工過勞死基層打工仔悲歌- 香港	https://www.tkww.hk/a/202110/02/AP6157a9ede4b0fc5353616058.html	未分類
 2021-08-31	中四男生體育課猝死 陪審團一致裁定死於自然	https://www.wenweipo.com/a/202108/31/AP612db234e4b08d3407d77181.html	心腦猝死
 2021-08-25	又一人猝死！40多歲基隆女打高端 張上淳：主動脈剝離	https://www.setn.com/news/987861	心腦猝死
-2021-08-23	青衣女子墮海昏迷 消防救起 由救護車送院後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/667010/%E9%9D%92%E8%A1%A3%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7%E6%98%8F%E8%BF%B7-%E6%B6%88%E9%98%B2%E6%95%91%E8%B5%B7-%E7%94%B1%E6%95%91%E8%AD%B7%E8%BB%8A%E9%80%81%E9%99%A2%E5%BE%8C%E4%B8%8D%E6%B2%BB	其他猝死
 2021-08-12	藍牙耳機突然爆炸 印度男雙耳受傷終心臟驟停不治	https://www.stheadline.com/realtime-world/2142241/%E8%97%8D%E7%89%99%E8%80%B3%E6%A9%9F%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8-%E5%8D%B0%E5%BA%A6%E7%94%B7%E9%9B%99%E8%80%B3%E5%8F%97%E5%82%B7%E7%B5%82%E5%BF%83%E8%87%9F%E9%A9%9F%E5%81%9C%E4%B8%8D%E6%B2%BB	心腦猝死
 2021-08-11	盤點趙本山身邊死去的人 搭檔猝死 6徒弟身亡	https://www.ntdtv.com/b5/2021/08/11/a103187630.html	心腦猝死
-2021-08-02	紅磡女子墮海昏迷 送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/658128/%E7%B4%85%E7%A3%A1%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	其他猝死
 2021-07-29	沙田新城市廣場19歲仔高處墮下 昏迷送院不治	https://www.stheadline.com/article/2137094/%E6%B2%99%E7%94%B0%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B419%E6%AD%B2%E4%BB%94%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	其他猝死
 2021-07-16	高雄工人打完莫德納傍晚回家猝死 妻悲慟：明明很健康的人	https://www.setn.com/news/968197	心腦猝死
 2021-07-04	高雄翁猝死前1小時⋯曾打莫德納！家屬自責：是我們害死他	https://www.setn.com/news/962733	心腦猝死
@@ -1637,13 +1606,10 @@ var DATA_TODAY = `
 2021-06-09	轉職兩個月無假放 麵包師傅開工猝死	https://orientaldaily.on.cc/cnt/news/20210609/mobile/odn-20210609-0609_00174_002.html	心腦猝死
 2021-05-24	凱撒飯店防疫旅館6旬婦猝死 北市衛局︰正在查證	https://news.ltn.com.tw/news/society/breakingnews/3544403	心腦猝死
 2021-05-19	娥眉洲女子出海遇溺昏迷 送院搶救不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/627047/%E5%A8%A5%E7%9C%89%E6%B4%B2%E5%A5%B3%E5%AD%90%E5%87%BA%E6%B5%B7%E9%81%87%E6%BA%BA%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB	其他猝死
-2021-05-15	大角嘴女子墮海昏迷 送院搶救後不治	https://www.stheadline.com/article/2117055/%E5%A4%A7%E8%A7%92%E5%98%B4%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%B5%B7%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	其他猝死
 2021-05-12	美心食品廠男工猝死 家屬黯然認屍	https://www.hk01.com/%E7%AA%81%E7%99%BC/624008/%E7%BE%8E%E5%BF%83%E9%A3%9F%E5%93%81%E5%BB%A0%E7%94%B7%E5%B7%A5%E7%8C%9D%E6%AD%BB-%E5%AE%B6%E5%B1%AC%E9%BB%AF%E7%84%B6%E8%AA%8D%E5%B1%8D	心腦猝死
 2021-05-11	日打兩份工 顧家男首天美心食品廠上班 工作期間猝死	https://www.hk01.com/%E7%AA%81%E7%99%BC/623348/%E6%97%A5%E6%89%93%E5%85%A9%E4%BB%BD%E5%B7%A5-%E9%A1%A7%E5%AE%B6%E7%94%B7%E9%A6%96%E5%A4%A9%E7%BE%8E%E5%BF%83%E9%A3%9F%E5%93%81%E5%BB%A0%E4%B8%8A%E7%8F%AD-%E5%B7%A5%E4%BD%9C%E6%9C%9F%E9%96%93%E7%8C%9D%E6%AD%BB	心腦猝死
-2021-04-30	北角碼頭中年漢墮海昏迷 送院後證實不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/619075/%E5%8C%97%E8%A7%92%E7%A2%BC%E9%A0%AD%E4%B8%AD%E5%B9%B4%E6%BC%A2%E5%A2%AE%E6%B5%B7%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E5%BE%8C%E8%AD%89%E5%AF%A6%E4%B8%8D%E6%B2%BB	其他猝死
 2021-04-18	老翁偷2顆雞蛋猝死！家屬「兩度」怒告超市：求償165萬	https://www.setn.com/news/927030	心腦猝死
 2021-04-15	迷「假仙姑」害兒猝死！母喪禮回「這句」女兒全身發毛| 生活	https://www.setn.com/news/925480	心腦猝死
-2021-04-12	灣仔軒尼詩道八旬老婦捱電車撞 昏迷送院搶救不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/611220/%E7%81%A3%E4%BB%94%E8%BB%92%E5%B0%BC%E8%A9%A9%E9%81%93%E5%85%AB%E6%97%AC%E8%80%81%E5%A9%A6%E6%8D%B1%E9%9B%BB%E8%BB%8A%E6%92%9E-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB	其他猝死
 2021-04-12	消息：上海前市長楊雄猝死 與江澤民長子關係密切	https://www.ntdtv.com/b5/2021/04/12/a103094184.html	心腦猝死
 2021-03-29	麵包師傅工作期間猝死無賠償 勞工法例未清晰定義「過勞」	https://www.hk01.com/%E7%AA%81%E7%99%BC/604890/%E9%BA%B5%E5%8C%85%E5%B8%AB%E5%82%85%E5%B7%A5%E4%BD%9C%E6%9C%9F%E9%96%93%E7%8C%9D%E6%AD%BB%E7%84%A1%E8%B3%A0%E5%84%9F-%E5%8B%9E%E5%B7%A5%E6%B3%95%E4%BE%8B%E6%9C%AA%E6%B8%85%E6%99%B0%E5%AE%9A%E7%BE%A9-%E9%81%8E%E5%8B%9E	心腦猝死
 2021-03-12	龍蝦灣浮潛女子遇溺昏迷 送院搶救無效不治	https://www.stheadline.com/article/2101261/%E9%BE%8D%E8%9D%A6%E7%81%A3%E6%B5%AE%E6%BD%9B%E5%A5%B3%E5%AD%90%E9%81%87%E6%BA%BA%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E7%84%A1%E6%95%88%E4%B8%8D%E6%B2%BB	其他猝死
@@ -1655,7 +1621,6 @@ var DATA_TODAY = `
 2021-02-07	痛心！37歲重案組探員警總晚飯後猝死- 香港	https://www.tkww.hk/a/202102/07/AP601f256ee4b0661d556e2cbd.html	心腦猝死
 2021-02-07	37歲重案組探員 警總內猝死	https://orientaldaily.on.cc/cnt/news/20210207/00176_049.html	心腦猝死
 2021-01-25	常暴飲暴食！19歲網紅驚爆「腦溢血猝死」網驚：沒快樂了	https://star.setn.com/news/887361	心腦猝死
-2021-01-21	屯門八旬翁墮橋 昏迷送院不治	https://www.stheadline.com/article/2089217/%E5%B1%AF%E9%96%80%E5%85%AB%E6%97%AC%E7%BF%81%E5%A2%AE%E6%A9%8B-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	其他猝死
 2021-01-19	馬鞍山女子高處墮下倒臥平台 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20210119/bkn-20210119175617374-0119_00822_001.html	其他猝死
 2021-01-12	【過勞死】拼多多員工加班猝死 無解的拼搏與拼命｜01周報	https://www.hk01.com/%E6%B7%B1%E5%BA%A6%E5%A0%B1%E9%81%93/573405/%E9%81%8E%E5%8B%9E%E6%AD%BB-%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%93%A1%E5%B7%A5%E5%8A%A0%E7%8F%AD%E7%8C%9D%E6%AD%BB-%E7%84%A1%E8%A7%A3%E7%9A%84%E6%8B%BC%E6%90%8F%E8%88%87%E6%8B%BC%E5%91%BD	心腦猝死
 2021-01-09	1天前才回粉絲「一起參與2021」 27歲小雅機上猝死…生前作息曝光	https://star.ettoday.net/news/1894911	心腦猝死
@@ -1690,13 +1655,11 @@ var DATA_TODAY = `
 2020-08-20	西營盤猝死│餐廳經理昏迷女侍應床上 送院亡 袋中檢2樽壯陽藥	https://www.hk01.com/%E7%AA%81%E7%99%BC/513440/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%8C%9D%E6%AD%BB-%E9%A4%90%E5%BB%B3%E7%B6%93%E7%90%86%E6%98%8F%E8%BF%B7%E5%A5%B3%E4%BE%8D%E6%87%89%E5%BA%8A%E4%B8%8A%E9%80%81%E9%99%A2%E4%BA%A1-%E8%A2%8B%E4%B8%AD%E6%AA%A2%E5%A3%AF%E9%99%BD%E8%97%A5-%E5%AD%9F%E5%8A%A0%E6%8B%89%E8%99%8E%E7%8E%8B	心腦猝死
 2020-08-13	金山公所小編疑過勞猝死 侯友宜：從優從寬撫卹	https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xeGtFekc4X2VadUNqMW12eWUyaDc0Y0ZFNU1HMUdTc0dvRmhNQzBSenBYVXZwaW0zYkZWekhUV1NibWVIalZpS0ZTaFl5UjIyWmhwSDdhblVpWTNPTEpkWlk4WDE4Qlp00gFuQVVfeXFMTTdCWUk2cnhjVGVBMFdFNzBIMDlTLUhmV01pWFlfd2ZRelFBcWpwNzhPM3hQRkZ5eURvb1VXM3J3Q05vWGdJSDd1X3ZRVy1maUswODFxenRyRFRPSUFLbXAyaTJuSXg5M01nc2tBV3c?oc=5	心腦猝死
 2020-08-13	過勞？金山區公所小編猝死引爭議區長：封存資料待查| 社會	https://www.setn.com/news/796310	心腦猝死
-2020-08-01	樂華南邨男子高處墮下昏迷 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20200801/bkn-20200801021940000-0801_00822_001.html	其他猝死
 2020-07-06	香港女富商來台抽脂隆乳猝死 「手術中沒呼吸」醫審會鑑定1年結果出爐	https://www.ettoday.net/news/20200706/1754103.htm	心腦猝死
 2020-06-26	名媛胡嘉嘉猝死 初判心因性休克 獨女哀慟無言	https://news.ltn.com.tw/news/society/breakingnews/3210049	心腦猝死
 2020-06-01	4日內第3宗！警員跌倒後猝死	https://www.hkcd.com/content/2020-06/01/content_1195552.html	心腦猝死
 2020-05-31	48歲休班男督察粉嶺寓所昏迷不治 4日3宗警猝死	https://hk.on.cc/hk/bkn/cnt/news/20200531/bkn-20200531115514508-0531_00822_001.html	心腦猝死
 2020-05-30	兩日兩警猝死 管理層痛悲	https://orientaldaily.on.cc/cnt/news/20200530/mobile/odn-20200530-0530_00176_072.html	心腦猝死
-2020-05-19	男子海心公園墮海 昏迷送院不治	https://www.stheadline.com/article/2024798/%E7%94%B7%E5%AD%90%E6%B5%B7%E5%BF%83%E5%85%AC%E5%9C%92%E5%A2%AE%E6%B5%B7-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB	其他猝死
 2020-05-08	中國3學生戴口罩上體育課猝死 多地緊急叫停	https://www.setn.com/news/739298	心腦猝死
 2020-05-02	大嶼山有男子潛水疑遇溺昏迷 送院後證實不治	https://news.tvb.com/tc/928063-%E5%A4%A7%E5%B6%BC%E5%B1%B1%E6%9C%89%E7%94%B7%E5%AD%90%E6%BD%9B%E6%B0%B4%E7%96%91%E9%81%87%E6%BA%BA%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E5%BE%8C%E8%AD%89%E5%AF%A6%E4%B8%8D%E6%B2%BB	其他猝死
 2020-04-16	流浮山老婦泥沼遇溺昏迷 送院搶救不治	https://www.stheadline.com/article/2016292/%E6%B5%81%E6%B5%AE%E5%B1%B1%E8%80%81%E5%A9%A6%E6%B3%A5%E6%B2%BC%E9%81%87%E6%BA%BA%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB	其他猝死
@@ -1704,7 +1667,6 @@ var DATA_TODAY = `
 2020-03-03	桃園「生前有發燒跡象」男子猝死 衛生局：因心臟疾病	https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HX3pFNF9sdGpMNm9xV2draS1NbkJOSTZrUDRBQzNFSG9qbWQyUWZ1d3VuekxDS2tvczVIVHFEaWd1ZHlfUl95T05IclpHeDR4NlZRZ1YyQjNSRGUxTzg2UGU2LWfSAWpBVV95cUxPLS1jbDVhZWdVdzkwS1FXMEpPSmdRanlJMWVOZE5fQlhnUWpGVlJlNnJ3STk3dmVSTmNZc1J6WlZvZTNaeF9vMXlxSnNkTHozV2EtSDN4STc1UVA3RXBXWEhKbzlvd3ZwVWhR?oc=5	心腦猝死
 2020-03-02	長沙灣15歲仔高處墮下 昏迷送院不治	https://hk.on.cc/hk/bkn/cnt/news/20200302/bkn-20200302204830353-0302_00822_001.html	其他猝死
 2020-03-02	最美趙敏息影嫁牧師 猝死3天才曝光	https://tw.news.yahoo.com/%E6%9C%80%E7%BE%8E%E8%B6%99%E6%95%8F%E6%81%AF%E5%BD%B1%E5%AB%81%E7%89%A7%E5%B8%AB-%E7%8C%9D%E6%AD%BB3%E5%A4%A9%E6%89%8D%E6%9B%9D%E5%85%89-081004638.html	猝死
-2020-02-18	駕車疑昏迷撞壆 司機送院不治	http://paper.wenweipo.com/2020/02/18/HK2002180045.htm	其他猝死
 2020-02-18	疫症陰霾下 口罩男九巴上猝死	https://orientaldaily.on.cc/cnt/news/20200218/mobile/odn-20200218-0218_00176_054.html	心腦猝死
 2020-01-16	警員疑工作過勞猝死 市民籌款贈遺孀	https://hkcd.com/content/2020-01/16/content_1174749.html	心腦猝死
 2019-12-09	饒舌新星Juice WRLD猝死 青年時期曾於毒海浮沉	https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/407944/%E9%A5%92%E8%88%8C%E6%96%B0%E6%98%9Fjuice-wrld%E7%8C%9D%E6%AD%BB-%E9%9D%92%E5%B9%B4%E6%99%82%E6%9C%9F%E6%9B%BE%E6%96%BC%E6%AF%92%E6%B5%B7%E6%B5%AE%E6%B2%89	心腦猝死
@@ -1781,7 +1743,6 @@ var DATA_TODAY = `
 2018-04-08	小孩無辜！25歲單親爸疑毒趴暴斃！阿公：兩幼孫該怎麼辦| 社會	https://www.setn.com/news/366249	心腦猝死
 2017-10-31	14歲嫩模走秀猝死…經紀公司撇「奴工」 曝光6關鍵死因	https://www.setn.com/news/309943	心腦猝死
 2017-10-13	台5歲女童機上發燒猝死 彰檢相驗有「腸阻塞」	https://www.setn.com/news/304147	心腦猝死
-2017-01-19	男子大埔新娘潭疑失足墮崖昏迷 送院後不治	https://news.tvb.com/sc/1021266-男子大埔新娘潭疑失足墮崖昏迷送院後不治	其他猝死
 2016-10-17	郭金發心肌梗塞猝死 哪些中藥可顧心血管？	https://www.uho.com.tw/article-55289.html	心腦猝死
 2015-11-25	長榮航空台灣飛雅加達25歲台灣男子抽搐後暴斃| 社會	https://www.setn.com/news/108392	心腦猝死
 2015-03-31	震驚校園！「成績優異乖乖女」竟嗑藥猝死	https://www.setn.com/news/68261?p=0	心腦猝死
