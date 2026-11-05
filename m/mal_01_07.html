@@ -166,16 +166,9 @@ input[type=range]{width:110px;accent-color:currentColor;}
 .gcard li{margin:.24em 0;}
 .gcard li b{color:var(--ink);}
 .gcard .gsub{margin:.25em 0 .15em;font-weight:600;opacity:.8;}
-.tscroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:.6em 0;max-width:100%;}
-.tscroll table{min-width:0;width:100%;table-layout:auto;}
-.ntx table{border-collapse:collapse;width:100%;font-size:.78em;}
-.ntx td,.ntx th{border:1px solid rgba(128,128,128,.35);padding:3px 4px;vertical-align:top;}
 .ntx .subpage{opacity:.75;font-size:.92em;}
 .sn{color:#c62828;font-weight:600;}
 .gcard-h .gid{color:#c62828;font-weight:600;background:rgba(198,40,40,.12);}
-.ntx table.worder td:not(.heb),.ntx table.worder th{white-space:normal;word-break:break-word;overflow-wrap:anywhere;}
-.ntx table.worder td.heb{white-space:nowrap;}
-.ntx table.worder td.sncell,.ntx table.worder th:last-child{width:4.2em;max-width:4.6em;white-space:nowrap;}
 .ntx details.ntfold .dict-sec{margin:.45em 0 .55em;}
 .ntx details.ntfold .dict-sec>strong{display:block;margin-bottom:.25em;color:var(--ink);}
 .ntx details.ntfold ol.dict-ol{margin:.2em 0 .4em;padding-left:1.35em;}
@@ -183,6 +176,10 @@ input[type=range]{width:110px;accent-color:currentColor;}
 .ntx details.ntfold ol.dict-ol ol ol{list-style-type:lower-roman;}
 .ntx details.ntfold ul.dict-meta{margin:.2em 0 .5em;padding-left:1.2em;}
 .ntx details.ntfold .dict-blob{white-space:pre-wrap;font-size:.92em;line-height:1.65;margin:.3em 0;}
+.ntx details.ntfold>summary .heb{font-size:1.12em;}
+.ntx details.ntfold ul.dict-meta{margin:.25em 0 .4em;padding-left:1.2em;}
+.ntx details.ntfold ul.dict-meta li{margin:.18em 0;}
+
 /* 逐節查經區嘅頁面變色掣 */
 .refthemewrap{margin-left:12px;font-size:13px;font-weight:400;opacity:.85;
   display:inline-flex;align-items:center;gap:5px;vertical-align:middle;white-space:nowrap;}
@@ -197,9 +194,6 @@ input[type=range]{width:110px;accent-color:currentColor;}
 .donebar .dt{font-size:20px;font-weight:700;letter-spacing:.04em;margin-bottom:.35em;}
 .donebar .ds{font-size:14px;opacity:.78;line-height:1.7;}
 
-.ntx table.worder{font-size:.78em;}
-.ntx table.worder td.heb{font-size:1.15em;direction:rtl;text-align:right;white-space:nowrap;font-weight:600;}
-.ntx table.worder code{font-size:.92em;opacity:.9;}
 button:disabled,.btn-dis{opacity:.45;cursor:not-allowed;}
 .audio-later{font-size:.84em;opacity:.72;margin-left:6px;}
 #loadbox{display:none!important;}
@@ -347,7 +341,22 @@ button:disabled,.btn-dis{opacity:.45;cursor:not-allowed;}
 <div class="ntcallout"><div class="nticon">🧭</div><div class="ntbody">
 <p>過渡：會幕的桌子上本該是無酵餅（出 25:30），百姓卻帶自己揀的餅上壇；從「獻上祭物」到「藐視那張桌子」，中間壞掉的不是餅，是那張桌子在他們心裡，已經不再是　神的桌子。</p>
 </div></div>
-<details class="fold"><summary>本節詞序（中英）</summary><div class="foldbody"><div class="tscroll"><table class="worder"><thead><tr><th>希伯來</th><th>中文</th><th>English</th><th>音譯</th><th class="sncell">SN</th></tr></thead><tbody><tr><td class="heb">מַגִּישִׁ֤ים</td><td>帶來／獻上（你們正在帶近）</td><td>[you are] bringing near</td><td><code>ma.gi.Shim</code></td><td class="sncell"><span class="sn">H05066</span></td></tr><tr><td class="heb">עַֽל־</td><td>在…上面</td><td>on</td><td><code>'al-</code></td><td class="sncell"><span class="sn">H05921</span></td></tr><tr><td class="heb">מִזְבְּחִ/י֙</td><td>我的祭壇</td><td>altar / my</td><td><code>miz.be.Ch/i</code></td><td class="sncell"><span class="sn">H04196</span></td></tr><tr><td class="heb">לֶ֣חֶם</td><td>麵包、食物</td><td>food</td><td><code>Le.chem</code></td><td class="sncell"><span class="sn">H03899</span></td></tr><tr><td class="heb">מְגֹאָ֔ל</td><td>污穢的／被玷污的</td><td>defiled</td><td><code>me.go.'Al</code></td><td class="sncell"><span class="sn">H01351</span></td></tr><tr><td class="heb">וַ/אֲמַרְתֶּ֖ם</td><td>且你們說</td><td>and / you say</td><td><code>va./'a.mar.Tem</code></td><td class="sncell"><span class="sn">H00559</span></td></tr><tr><td class="heb">בַּ/מֶּ֣ה</td><td>在何事上／怎麼</td><td>/ how?</td><td><code>ba./Meh</code></td><td class="sncell"><span class="sn">H04100</span></td></tr><tr><td class="heb">גֵֽאַלְנ֑וּ/ךָ</td><td>我們污穢了你</td><td>have we defiled / you</td><td><code>ge.'al.Nu./kha</code></td><td class="sncell"><span class="sn">H01351</span></td></tr><tr><td class="heb">בֶּ/אֱמָרְ/כֶ֕ם</td><td>因你們說</td><td>by / saying / you</td><td><code>be./'e.ma.re./Khem</code></td><td class="sncell"><span class="sn">H00559</span></td></tr><tr><td class="heb">שֻׁלְחַ֥ן</td><td>桌子／筵席（附屬形）</td><td>[the] table of</td><td><code>shul.Chan</code></td><td class="sncell"><span class="sn">H07979</span></td></tr><tr><td class="heb">יְהוָ֖ה</td><td>耶和華（雅威）</td><td>Yahweh</td><td><code>Yah.weh</code></td><td class="sncell"><span class="sn">H03068</span></td></tr><tr><td class="heb">נִבְזֶ֥ה</td><td>可藐視的</td><td>[is] despicable</td><td><code>niv.Zeh</code></td><td class="sncell"><span class="sn">H00959</span></td></tr><tr><td class="heb">הֽוּא׃</td><td>他／它</td><td>it</td><td><code>Hu'</code></td><td class="sncell"><span class="sn">H01931</span></td></tr></tbody></table></div><p class="subpage">希伯來詞序（中英對照）。音譯依 OSHB／讀音欄。</p></div></details>
+<details class="fold"><summary>本節詞序（中英）</summary><div class="foldbody">
+<p class="subpage">希伯來詞序（中英對照）。音譯依 OSHB／讀音欄。點開各詞可看詳情。</p>
+<details class="ntfold"><summary><span class="heb">מַגִּישִׁ֤ים</span>　帶來／獻上　<span class="sn">H05066</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：帶來／獻上（你們正在帶近）</li><li>English：[you are] bringing near</li><li>音譯：<code>ma.gi.Shim</code></li><li>SN：<span class="sn">H05066</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">עַֽל־</span>　在…上面　<span class="sn">H05921</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：在…上面</li><li>English：on</li><li>音譯：<code>'al-</code></li><li>SN：<span class="sn">H05921</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">מִזְבְּחִ/י֙</span>　我的祭壇　<span class="sn">H04196</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：我的祭壇</li><li>English：altar / my</li><li>音譯：<code>miz.be.Ch/i</code></li><li>SN：<span class="sn">H04196</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">לֶ֣חֶם</span>　麵包、食物　<span class="sn">H03899</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：麵包、食物</li><li>English：food</li><li>音譯：<code>Le.chem</code></li><li>SN：<span class="sn">H03899</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">מְגֹאָ֔ל</span>　污穢的　<span class="sn">H01351</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：污穢的／被玷污的</li><li>English：defiled</li><li>音譯：<code>me.go.'Al</code></li><li>SN：<span class="sn">H01351</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">וַ/אֲמַרְתֶּ֖ם</span>　且你們說　<span class="sn">H00559</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：且你們說</li><li>English：and / you say</li><li>音譯：<code>va./'a.mar.Tem</code></li><li>SN：<span class="sn">H00559</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">בַּ/מֶּ֣ה</span>　在何事上　<span class="sn">H04100</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：在何事上／怎麼</li><li>English：/ how?</li><li>音譯：<code>ba./Meh</code></li><li>SN：<span class="sn">H04100</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">גֵֽאַלְנ֑וּ/ךָ</span>　我們污穢了你　<span class="sn">H01351</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：我們污穢了你</li><li>English：have we defiled / you</li><li>音譯：<code>ge.'al.Nu./kha</code></li><li>SN：<span class="sn">H01351</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">בֶּ/אֱמָרְ/כֶ֕ם</span>　因你們說　<span class="sn">H00559</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：因你們說</li><li>English：by / saying / you</li><li>音譯：<code>be./'e.ma.re./Khem</code></li><li>SN：<span class="sn">H00559</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">שֻׁלְחַ֥ן</span>　桌子／筵席　<span class="sn">H07979</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：桌子／筵席（附屬形）</li><li>English：[the] table of</li><li>音譯：<code>shul.Chan</code></li><li>SN：<span class="sn">H07979</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">יְהוָ֖ה</span>　耶和華　<span class="sn">H03068</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：耶和華（雅威）</li><li>English：Yahweh</li><li>音譯：<code>Yah.weh</code></li><li>SN：<span class="sn">H03068</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">נִבְזֶ֥ה</span>　可藐視的　<span class="sn">H00959</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：可藐視的</li><li>English：[is] despicable</li><li>音譯：<code>niv.Zeh</code></li><li>SN：<span class="sn">H00959</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="heb">הֽוּא׃</span>　他／它　<span class="sn">H01931</span></summary><div class="ntbody"><ul class="dict-meta"><li>中文：他／它</li><li>English：it</li><li>音譯：<code>Hu'</code></li><li>SN：<span class="sn">H01931</span></li></ul></div></details>
+</div></details>
 <details class="fold"><summary>三、Gematria 數值表</summary><div class="foldbody"><div class="gcards">
 <div class="gcard"><div class="gcard-h"><span class="gw">נָגַשׁ</span><span class="gid"><span class="sn">H05066</span></span></div><ul class="gcard-l"><li><b>中文</b>：接近、靠近</li><li><b>計算</b>：נגש＝353</li><li><b>象徵</b>：喜樂=353；耶和華的奧秘給敬畏祂的人(詩25:14)三詞=353；敬畏(216)+卡巴拉(137)=353；喜樂的源頭是敬畏　神</li></ul></div>
 <div class="gcard"><div class="gcard-h"><span class="gw">גָּאַל</span><span class="gid"><span class="sn">H01351</span></span></div><ul class="gcard-l"><li><b>中文</b>：棄絕、弄髒、褻瀆</li><li><b>計算</b>：גאל＝34</li><li><b>象徵</b>：בָּבֶל(Bavel/巴比倫)=34。創11:9巴別塔=混亂；啟17:5「奧秘哉！大巴比倫」；末世系統的總稱。</li></ul></div>
@@ -389,21 +398,20 @@ button:disabled,.btn-dis{opacity:.45;cursor:not-allowed;}
 </div></div>
 <hr>
 <details class="fold"><summary>附錄：本節 SN 一覽</summary><div class="foldbody">
-<p class="subpage">上表為本節 Strong&#39;s 速覽；下附各字 ①②③… 原文字典（點列／巢狀分類），方便離線對照。</p>
-<div class="tscroll"><table class="worder"><thead><tr><th class="sncell">SN</th><th>原型</th><th>音譯</th><th>簡義／本節形</th></tr></thead><tbody>
-<tr><td class="sncell"><span class="sn">H05066</span></td><td class="heb">נָגַשׁ</td><td><code>nagash</code></td><td>接近、靠近；本節 Hif‘il 分詞複陽 מַגִּישִׁים「帶來／獻上」</td></tr>
-<tr><td class="sncell"><span class="sn">H01351</span></td><td class="heb">גָּאַל</td><td><code>ga&#39;al</code></td><td>玷污、把聖物供俗用；本節 Pu‘al מְגֹאָל／Pi‘el גֵאַלְנוּךָ</td></tr>
-<tr><td class="sncell"><span class="sn">H03899</span></td><td class="heb">לֶחֶם</td><td><code>lechem</code></td><td>麵包、食物</td></tr>
-<tr><td class="sncell"><span class="sn">H04196</span></td><td class="heb">מִזְבֵּחַ</td><td><code>mizbeach</code></td><td>祭壇；本節 מִזְבְּחִי「我的祭壇」</td></tr>
-<tr><td class="sncell"><span class="sn">H00559</span></td><td class="heb">אָמַר</td><td><code>amar</code></td><td>說；本節 וַאֲמַרְתֶּם／בֶּאֱמָרְכֶם</td></tr>
-<tr><td class="sncell"><span class="sn">H04100</span></td><td class="heb">מָה／מַה</td><td><code>mah</code></td><td>什麼、為何；本節 בַּמֶּה</td></tr>
-<tr><td class="sncell"><span class="sn">H07979</span></td><td class="heb">שֻׁלְחָן</td><td><code>shulchan</code></td><td>筵席、桌子；本節附屬形 שֻׁלְחַן</td></tr>
-<tr><td class="sncell"><span class="sn">H03068</span></td><td class="heb">יהוה</td><td><code>YHWH</code></td><td>雅威／耶和華（寫型）；讀型常作 אֲדֹנָי</td></tr>
-<tr><td class="sncell"><span class="sn">H00959</span></td><td class="heb">בָּזָה</td><td><code>bazah</code></td><td>藐視；本節 Nif‘al 分詞 נִבְזֶה</td></tr>
-<tr><td class="sncell"><span class="sn">H01931</span></td><td class="heb">הוּא</td><td><code>hu</code></td><td>他／它</td></tr>
-<tr><td class="sncell"><span class="sn">H05921</span></td><td class="heb">עַל</td><td><code>al</code></td><td>在…上面、關於</td></tr>
-</tbody></table></div>
+<p class="subpage">以下為本節 Strong's 速覽（點開可看音譯與簡義）；再下面是各字 ①②③… 原文字典，方便離線對照。</p>
+<details class="ntfold"><summary><span class="sn">H05066</span>　נָגַשׁ　接近、靠近</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">נָגַשׁ</span></li><li>音譯：<code>nagash</code></li><li>簡義／本節形：接近、靠近；本節 Hif‘il 分詞複陽 מַגִּישִׁים「帶來／獻上」</li><li>SN：<span class="sn">H05066</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H01351</span>　גָּאַל　玷污、把聖物供俗用</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">גָּאַל</span></li><li>音譯：<code>ga'al</code></li><li>簡義／本節形：玷污、把聖物供俗用；本節 Pu‘al מְגֹאָל／Pi‘el גֵאַלְנוּךָ</li><li>SN：<span class="sn">H01351</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H03899</span>　לֶחֶם　麵包、食物</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">לֶחֶם</span></li><li>音譯：<code>lechem</code></li><li>簡義／本節形：麵包、食物</li><li>SN：<span class="sn">H03899</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H04196</span>　מִזְבֵּחַ　祭壇</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">מִזְבֵּחַ</span></li><li>音譯：<code>mizbeach</code></li><li>簡義／本節形：祭壇；本節 מִזְבְּחִי「我的祭壇」</li><li>SN：<span class="sn">H04196</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H00559</span>　אָמַר　說</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">אָמַר</span></li><li>音譯：<code>amar</code></li><li>簡義／本節形：說；本節 וַאֲמַרְתֶּם／בֶּאֱמָרְכֶם</li><li>SN：<span class="sn">H00559</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H04100</span>　מָה／מַה　什麼、為何</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">מָה／מַה</span></li><li>音譯：<code>mah</code></li><li>簡義／本節形：什麼、為何；本節 בַּמֶּה</li><li>SN：<span class="sn">H04100</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H07979</span>　שֻׁלְחָן　筵席、桌子</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">שֻׁלְחָן</span></li><li>音譯：<code>shulchan</code></li><li>簡義／本節形：筵席、桌子；本節附屬形 שֻׁלְחַן</li><li>SN：<span class="sn">H07979</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H03068</span>　יהוה　雅威／耶和華（寫型）</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">יהוה</span></li><li>音譯：<code>YHWH</code></li><li>簡義／本節形：雅威／耶和華（寫型）；讀型常作 אֲדֹנָי</li><li>SN：<span class="sn">H03068</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H00959</span>　בָּזָה　藐視</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">בָּזָה</span></li><li>音譯：<code>bazah</code></li><li>簡義／本節形：藐視；本節 Nif‘al 分詞 נִבְזֶה</li><li>SN：<span class="sn">H00959</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H01931</span>　הוּא　他／它</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">הוּא</span></li><li>音譯：<code>hu</code></li><li>簡義／本節形：他／它</li><li>SN：<span class="sn">H01931</span></li></ul></div></details>
+<details class="ntfold"><summary><span class="sn">H05921</span>　עַל　在…上面、關於</summary><div class="ntbody"><ul class="dict-meta"><li>原型：<span class="heb">עַל</span></li><li>音譯：<code>al</code></li><li>簡義／本節形：在…上面、關於</li><li>SN：<span class="sn">H05921</span></li></ul></div></details>
 <p class="subpage">以下為本節各 Strong's 原文字典（①②③… 點列；CBOL 分類已巢狀排版）。長文摺疊打開後仍按層級閱讀。</p>
+
 <details class="ntfold"><summary><span class="sn">H05066</span> — 接近、靠近｜נָגַשׁ</summary><div class="ntbody">
 <div class="dict-sec"><strong>①基本資料</strong>
 <p><span class="sn">H05066</span>｜נָגַשׁ｜nagash｜動詞｜和合本譯次：挨近14 近前來11 前來10 親近8 來6 就近6 獻5 到3 去4 帶3 上前2 上前來2 來見2 帶到2 拿1 拿過來2 牽2 給2 聲明2 臨近2 進2 進前來2 領2 來到1 出來1 前1 前進1 向前1 向前直往1 帶著1 往前1 拿來1 拿著1 接續1 擺1 燒1 牽了1 獻上1 獻給1 相連1 走到1 近1 退1 運了來1 遞1 鎖住1 陳明1 到...來1 上...來1 拿...來1 追...上1 (123)</p></div>
