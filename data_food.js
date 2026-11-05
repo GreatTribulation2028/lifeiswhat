@@ -112,7 +112,6 @@ var DATA_FOOD = `
 2025-10-23	政府停擺 9州示警：糧食券11月恐發不出來	https://www.worldjournal.com/wj/story/121172/9091269	其他糧食	A
 2025-05-23	全球近3億人面臨糧食危機 聯合國籲全球行動終結飢餓	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wNjhfT2NjQXp2aG9nTEx1c2haeTNDVFkwSHI0NUJIb1VEM2I0UTUwTC1PLXd6ZFJta25PeVVJN2FPM25mcGR4N2Z1QUdXbzQ?oc=5	糧荒短缺	A
 2024-10-16	非洲南部糧食危機嚴重 農糧署出口白米助18個國家地區	https://news.google.com/rss/articles/CBMiT0FVX3lxTFByRmZ1UmVwMmYtcWplNmowSnhoSlh0ZTNnMXpOTlNHSkw5blhmRU1FbVRoTHFCOUMxWDNBUWhiZVZkeUpYSUR3bUVHdjhRVjA?oc=5	糧荒短缺	A
-2023-05-25	德國之聲》日本23項半導體出口禁令，中國跳腳！比被美國禁還嚴重的原因？	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fX1pOcEMxUHEyaVdteG5nX3pUcllMV01Rd3NHNmFqeVhSWTBaUThpY3lXZjhPMEw5QkNSOGhkbEV5NnVyTVg2Y2dyU1NLY3VLQWc0YVFINEJOVFZkR08wSlJCeXBLZw?oc=5	糧食	-
 2023-02-26	英國糧食價格升+蔬果缺貨 部長籲民眾「加班賺錢」捱批	https://www.hk01.com/article/871425?utm_source=01articlecopy&utm_medium=referral	其他糧食	A
 2022-12-17	【財經簡訊】歐洲央行升息0.5% 美國援助25億美元解決非洲糧食危機	https://www.ntdtv.com/b5/2022/12/16/a103599814.html	加息減息	A
 2022-12-12	內地今年糧食產量逾6.86億噸 創新高	https://hk.on.cc/hk/bkn/cnt/cnnews/20221212/bkn-20221212150530976-1212_00952_001.html	其他糧食	B
@@ -122,7 +121,6 @@ var DATA_FOOD = `
 2022-11-21	身陷糧食危機 馬拉威獲IMF緊急資金援助 低收入國家首例 Hunger	https://news.cnyes.com/news/id/5015878	糧荒短缺	A
 2022-11-17	總是吃不飽！古巴糧食短缺引物價飆漲 當地人不敢生孩子：真的太苦了 Hunger	https://www.ftvnews.com.tw/news/detail/2022B17W0041	糧荒短缺	B
 2022-10-30	糧食危機再起！俄「無限期」終止烏國穀物出口協議 Hunger	https://hk.on.cc/hk/bkn/cnt/finance/20221030/bkn-20221030160006395-1030_00842_001.html	糧荒短缺	A
-2022-10-27	出口禁令｜違規向華為出售硬碟 大廠希捷被美國警告及全球裁員	https://news.google.com/rss/articles/CBMipANBVV95cUxQNlZiWDAtQk1XM1psZ1pUaUp2WlNRcWwwQ3BPQW5CbG1vTm9ua1BuYTZZTGxKSmFBV1Y3MXRZUVlKcnNLWm82cUxRc0NUNTBzNWpWT25OVjhWcDRDOWNnWGJLWFc5TzZvZG01UzdTTVljbFJ1MHpUTmdBV0R5WmtUUkpYYmFwUkZ5TkxXbjZERHNHWngyWnhxLS1DODdUcWxKc3RheW1PbmF3bnBxdFRqZXJmNDhjY21MaWdjMjdiRWJzSlFYLU4xcEhDTzVBVnBLTnBDQUJrWnJQLXF5dmlqVDMwR2J0R1JoNlc3Z3pETGNZODV2dDMwNXl3MUppN3F2N0Zvdmx1cXBibWRmSmlGQkx4cnM2MWNhWjA2TXRWdU05aGVPUnI0b2psUy1qano2Ujd2TlM5REtxaDFWMDhpRllNYktING9XNUNQclRfWDRoV1QzMzItNElRV2xCV2RHcWRsMl9nMUtwNHV5N3ZyOXJ5WndLOXRfX1RIMzV6aWhrTmJzaGNmOThMN0NZcnhxUmk3Z0Q2eG0yU1pWRXhmZ2FZQko?oc=5	糧食	-
 2022-10-22	澤連斯基指責俄羅斯阻礙穀物出口 仍堆積約300萬噸糧食 Hunger	https://www.hk01.com/article/828066?utm_source=01articlecopy&utm_medium=referral	其他糧食	A
 2022-10-16	世界糧食日│非洲15歲少女難抵旱災 離家打工日吃一餐 Hunger	https://www.hk01.com/article/825420?utm_source=01articlecopy&utm_medium=referral	其他糧食	B
 2022-10-11	【國際影像】索馬里持續乾旱 糧食失收缺食水 千萬人步向大饑荒 No Water	https://www.hk01.com/article/824202?utm_source=01articlecopy&utm_medium=referral	歉收饑荒	A
@@ -152,4 +150,6 @@ var DATA_FOOD = `
 2020-02-28	中南海拉警報！蝗蟲大軍侵全球 一天吃掉3.5萬人份糧食	https://www.setn.com/news/698156	其他糧食	B
 2017-07-11	非洲糧食危機2017:工作報告3	https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVZzbW8wZnFUQzlHbXJRWV9XVWtodndtN1lTQWMtOV8xWV9jV3R3aEpXVE9hSWRkdGw5cmowYUZMTmdLYmZjQWs2WE41SFpjMHRQcy04QkVoakJNQUtyREtzejBTa000bzZxbFFqLWJHT3pvZ1gzOTZGU3kyREFvQ2dZUTlZRkRBcHcybXRR?oc=5	糧荒短缺	-
 2016-04-16	熊本強震／領2飯糰排隊2小時當地台僑：糧食開始短缺| 國際	https://www.setn.com/news/138797	糧荒短缺	B
+2026-09-06	喝完酒竟體膚發藍死僵！印度村落爆假酒慘劇至少12死	https://www.setn.com/ampnews/1902558	悲劇	B
+2025-10-09	慘阿!全球因為糧食通膨導致住房合約違約崩盤	https://youtu.be/5jj0L3ylmZU?si=AL1ndDBFeakzshY7	經濟	B
 `;
