@@ -207,7 +207,13 @@ details.stats[open] summary::before{content:"▾ "}
     <div class="cards" id="cards"></div>
   </div>
 
-  <details class="stats" id="statsBox">
+    <div class="daystat" id="dayStatBox" style="display:none">
+    <div class="ds-head" id="dsHead">死亡相關新聞</div>
+    <div class="ds-num" id="dsNum">0</div>
+    <div class="ds-date" id="dsDate">—</div>
+    <div class="ds-sub" id="dsSub">當天相關新聞</div>
+  </div>
+<details class="stats" id="statsBox">
     <summary>📊 統計表（月份走勢・子清單分佈）— 撳開/收合</summary>
     <div class="stats-body">
       <h4>月份走勢（全部月份）</h4>
@@ -240,6 +246,7 @@ details.stats[open] summary::before{content:"▾ "}
   </div>
 
   <div class="feed" id="feed"></div>
+  <div class="daylist" id="dayListBox" style="display:none"></div>
   <div class="foot">末世新聞分類 × build_news_js.py ｜ <span id="footCat"></span></div>
 </div>
 
@@ -438,7 +445,7 @@ function initView(){
   document.getElementById('bigTotal').textContent=all.length.toLocaleString();
   const ds=all.map(e=>e.date).filter(Boolean).sort();
   document.getElementById('dateRange').textContent=ds.length?ds[0]+' → '+ds[ds.length-1]:'—';
-  buildCards();buildStats();buildSubChips();render();
+  buildCards();buildStats();buildSubChips();render();renderDayStat();
 }
 
 /* ================= 統計 ================= */
@@ -579,6 +586,74 @@ addEventListener('scroll',()=>{
   document.getElementById('top').style.display=scrollY>500?'block':'none';
 });
 
+/* ===== 當天統計（死亡四類：猝死／昏迷／自殺／離世）2026-11-05 =====
+   全部由前端已載入嘅 data_<cat>.js 即場計：唔改引擎、唔加新資料檔 */
+const DAY_CATS=['sudden','coma','suicide','departure'];
+const HAS_DAY=DAY_CATS.indexOf(cat)>=0;
+const DL_EN=/^en/i.test(document.documentElement.lang||'');
+const DL=DL_EN
+ ?{head:'Death-related news / ',sub:"Today's related news",cnt:'records',
+   ttl:"Today's death records",day:'Today',none:'No new records for this day'}
+ :{head:'死亡相關新聞 / ',sub:'當天相關新聞',cnt:'宗',ttl:'當天死亡記錄',
+   day:'當天',none:'當天未有新記錄'};
+/* 「當天」＝有今日記錄就用今日，否則用資料最新一日（同頁面「今天」篩選同一口徑） */
+function dayKey(){
+  const t=localDateStr(new Date());
+  for(let i=0;i<all.length;i++){if(all[i].date===t)return t;}
+  return all.length?all[0].date:'';
+}
+function fmtDay(dk){
+  if(!dk)return '—';
+  const p=dk.split('-');
+  if(DL_EN){const MN=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return MN[parseInt(p[1],10)-1]+' '+parseInt(p[2],10)+', '+p[0];}
+  return p[0]+'年'+parseInt(p[1],10)+'月'+parseInt(p[2],10)+'日';
+}
+function renderDayStat(){
+  const top=document.getElementById('dayStatBox');
+  const bot=document.getElementById('dayListBox');
+  if(!top||!bot)return;
+  if(!HAS_DAY){top.style.display='none';bot.style.display='none';return;}
+  const dk=dayKey();
+  const recs=dk?all.filter(function(e){return e.date===dk;}):[];
+  const bySub={};
+  recs.forEach(function(e){const s=subOf(e);bySub[s]=(bySub[s]||0)+1;});
+  top.style.display='block';bot.style.display='block';
+  document.getElementById('dsHead').textContent=DL.head+C.name;
+  document.getElementById('dsNum').textContent=recs.length.toLocaleString();
+  document.getElementById('dsDate').textContent=fmtDay(dk);
+  document.getElementById('dsSub').textContent=DL.sub+' · '+recs.length+' '+DL.cnt;
+  /* 小分類卡：加「當天 +N」徽章（第一張＝全部記錄 → 當天總數） */
+  const cards=document.querySelectorAll('#cards .card');
+  for(let i=0;i<cards.length;i++){
+    const c=cards[i],l=c.querySelector('.l');
+    let n=0;
+    if(i===0)n=recs.length;
+    else if(l)n=bySub[l.textContent]||0;
+    let b=c.querySelector('.d');
+    if(!b){b=document.createElement('div');b.className='d';c.appendChild(b);}
+    b.textContent=DL.day+' '+(n>0?('+'+n):'0');
+    if(n===0)b.classList.add('zero');else b.classList.remove('zero');
+  }
+  /* 分類表下：當天記錄清單 */
+  let h='<div class="dl-title">'+DL.ttl+' <span class="hint">'+dk+'（'+recs.length+' '+DL.cnt+'）</span></div>';
+  if(!recs.length){
+    h+='<div class="dl-empty">'+DL.none+'</div>';
+  }else{
+    h+='<div class="dl-list">';
+    for(let i=0;i<recs.length;i++){
+      const e=recs[i];
+      const title=(e.title||'').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+      const url=(e.url||'').trim();
+      const tt=url?('<a class="dl-link" href="'+url+'" target="_blank" rel="noopener">'+title+'</a>')
+                  :('<span class="dl-link">'+title+'</span>');
+      h+='<div class="dl-item"><span class="dl-tag">'+subOf(e)+'</span>'+lvHtml(e.lvl)+
+         '<span class="dl-t">'+tt+'</span></div>';
+    }
+    h+='</div>';
+  }
+  bot.innerHTML=h;
+}
 loadAll();
 </script>
 
@@ -641,5 +716,41 @@ function renderMonthlyV2(){
 document.addEventListener('click',function(){setTimeout(renderMonthlyV2,80)},true);
 setTimeout(renderMonthlyV2,900);
 </script>
+<style id="dayStatCss">
+/* 當天統計（死亡四類：猝死／昏迷／自殺／離世）2026-11-05 */
+.daystat{background:var(--panel);border:1px solid var(--line);border-radius:8px;
+  padding:16px 12px;text-align:center;margin:12px 0;position:relative;overflow:hidden}
+.daystat::before{content:"";position:absolute;inset:0;pointer-events:none;
+  background:radial-gradient(ellipse at 50% -20%,rgba(255,107,53,.20),transparent 62%)}
+.daystat .ds-head{color:var(--acc);font-family:var(--mono);font-size:13px;letter-spacing:1px}
+.daystat .ds-num{font-family:var(--mono);font-size:clamp(40px,9vw,72px);line-height:1.05;
+  color:#ff6b35;text-shadow:0 0 22px rgba(255,107,53,.55)}
+.daystat .ds-date{font-family:var(--mono);font-size:clamp(17px,4.5vw,30px);color:#ffd166;
+  margin-top:6px;letter-spacing:2px}
+.daystat .ds-sub{color:var(--dim);font-size:12px;margin-top:8px;font-family:var(--mono)}
+.card .d{margin-top:6px;font-family:var(--mono);font-size:11px;color:#ffd166;
+  border-top:1px solid var(--line);padding-top:5px}
+.card .d.zero{color:var(--dim)}
+.daylist{background:var(--panel);border:1px solid var(--line);border-radius:8px;
+  padding:14px;margin-top:14px}
+.daylist .dl-title{font-family:var(--mono);font-size:14px;color:#ff6b35;
+  border-bottom:1px solid var(--line);padding-bottom:8px;margin-bottom:6px}
+.daylist .dl-title .hint{color:var(--dim);font-size:11px}
+.daylist .dl-list{max-height:340px;overflow:auto}
+.daylist .dl-item{display:flex;gap:8px;align-items:baseline;padding:7px 0;
+  border-bottom:1px dashed rgba(28,42,56,.7)}
+.daylist .dl-tag{font-size:10px;padding:2px 7px;border-radius:10px;border:1px solid var(--acc);
+  color:var(--acc);white-space:nowrap;flex:0 0 auto}
+.daylist .dl-t{font-size:13px;line-height:1.5;word-break:break-all}
+.daylist .dl-t a{color:var(--txt)}
+.daylist .dl-t a:hover{color:var(--acc);text-decoration:none}
+.daylist .dl-empty{color:var(--dim);font-size:12px;padding:14px 0;text-align:center;
+  font-family:var(--mono)}
+@media(max-width:768px){
+  .daystat .ds-num{font-size:46px}
+  .daystat .ds-date{font-size:19px;letter-spacing:1px}
+  .daylist .dl-t{font-size:14px}
+}
+</style>
 </body>
 </html>
