@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>瑪拉基書 1:07 逐節查經</title>
+<style>
+:root{--bg:#efe9dd;--ink:#3a352d;--fs:18px;--lh:1.85;}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);}
+body{font-family:"Noto Sans HK","Microsoft JhengHei","PingFang HK","Heiti TC",sans-serif;}
+#bar{position:relative;padding:8px 12px;border-bottom:1px solid rgba(128,128,128,.28);background:var(--bg);}
+#bar .row{display:flex;flex-wrap:wrap;align-items:center;gap:7px;margin:3px 0;}
+button{font:inherit;cursor:pointer;border:1px solid rgba(128,128,128,.45);border-radius:7px;padding:5px 11px;background:transparent;color:inherit;}
+button:hover{border-color:rgba(128,128,128,.85);}
+.sw{padding:3px 9px;font-size:.84em;}
+.sw.on{border-width:2px;font-weight:700;}
+.lbl{font-size:.82em;opacity:.72;margin-left:4px;}
+b.num{font-variant-numeric:tabular-nums;font-size:.86em;min-width:2.4em;display:inline-block;}
+#wrap{max-width:46em;margin:0 auto;padding:16px 18px 80px;}
+.badge{display:inline-block;font-size:.78em;opacity:.75;border:1px solid rgba(128,128,128,.4);border-radius:999px;padding:.15em .7em;margin-bottom:.6em;}
+h1.title{font-size:1.45em;margin:.2em 0 .6em;line-height:1.35;}
+.verse-box{border:1px solid rgba(128,128,128,.35);border-radius:12px;padding:1em 1.1em;margin:0 0 1.1em;background:rgba(128,128,128,.07);}
+.verse-box .cuv{font-size:1.08em;line-height:1.85;margin:.2em 0 .6em;}
+.verse-box .heb{font-size:1.15em;line-height:1.9;direction:rtl;text-align:right;margin:.4em 0;}
+.verse-box .eng{font-size:.92em;opacity:.88;line-height:1.7;margin:.35em 0 0;}
+.ntx{background:var(--bg);color:var(--ink);border-radius:12px;padding:1.1em 1.25em;border:1px solid rgba(128,128,128,.35);font-size:var(--fs);line-height:var(--lh);}
+.ntx h2{font-size:1.28em;color:var(--ink);margin:1.1em 0 .45em;font-weight:700;line-height:1.35;}
+.ntx h3{font-size:1.08em;color:var(--ink);margin:.85em 0 .35em;font-weight:600;}
+.ntx p{margin:.25em 0 .65em;color:var(--ink);}
+.ntx blockquote{margin:.55em 0;padding:.15em 0 .15em .9em;border-left:3px solid var(--ink);color:var(--ink);}
+.ntx hr{border:0;border-top:1px solid rgba(128,128,128,.3);margin:1.1em 0;}
+.ntx .ntcallout{display:flex;gap:.6em;background:rgba(128,128,128,.16);border-radius:8px;padding:.85em 1em;margin:.75em 0;}
+.ntx .nticon{font-size:1.15em;line-height:1.55;flex:0 0 auto;}
+.ntx .ntbody{flex:1 1 auto;min-width:0;}
+.ntx .ntbody p{margin:.22em 0;}
+.ntx details.fold{margin:.7em 0;border:1px solid rgba(128,128,128,.3);border-radius:8px;background:rgba(128,128,128,.07);padding:0;}
+.ntx details.fold>summary{cursor:pointer;font-weight:700;font-size:1.02em;padding:.7em .9em;list-style:none;color:var(--ink);}
+.ntx details.fold>summary::-webkit-details-marker{display:none;}
+.ntx details.fold>summary::before{content:"▸ ";opacity:.55;}
+.ntx details.fold[open]>summary::before{content:"▾ ";}
+.ntx .foldbody{padding:.15em .95em .95em;border-top:1px solid rgba(128,128,128,.2);}
+.ntx ul{margin:.3em 0 .7em;padding-left:1.45em;}
+.ntx li{margin:.22em 0;}
+.ntx code{background:rgba(128,128,128,.16);border-radius:3px;padding:.12em .35em;font-family:Consolas,Menlo,monospace;font-size:.9em;}
+.foot{margin-top:22px;padding-top:12px;border-top:1px solid rgba(128,128,128,.28);font-size:.82em;opacity:.8;}
+.foot a{color:inherit;}
+#topbtn{position:fixed;right:12px;bottom:18px;z-index:90;width:44px;height:44px;border-radius:50%;border:2px solid #d8d2c6;background:#3a3530;color:#fff;font-size:18px;cursor:pointer;}
+</style>
+</head>
+<body>
+<div id="bar">
+  <div class="row">
+    <span class="lbl">主題</span>
+    <span id="themes"></span>
+  </div>
+  <div class="row">
+    <span class="lbl">字號</span>
+    <button type="button" class="sw" id="fs-">A−</button>
+    <b class="num" id="fsv">18px</b>
+    <button type="button" class="sw" id="fs+">A+</button>
+    <span class="lbl">行距</span>
+    <button type="button" class="sw" id="lh-">−</button>
+    <b class="num" id="lhv">1.9</b>
+    <button type="button" class="sw" id="lh+">+</button>
+  </div>
+</div>
+<div id="wrap">
+  <div class="badge">無聲靜態版 · 9層金標 · 讀稿／語音後補</div>
+  <h1 class="title">39 瑪拉基書 1:07　原文逐節查經</h1>
+
+  <div class="verse-box">
+    <div class="cuv"><strong>和合本</strong><br>你們將污穢的食物獻在我的壇上，且說：『我們在何事上污穢你呢？』因你們說，耶和華的桌子是可藐視的。</div>
+    <div class="heb">מַגִּישִׁ֤ים עַֽל־ מִזְבְּחִ/י֙ לֶ֣חֶם מְגֹאָ֔ל וַ/אֲמַרְתֶּ֖ם בַּ/מֶּ֣ה גֵֽאַלְנ֑וּ/ךָ בֶּ/אֱמָרְ/כֶ֕ם שֻׁלְחַ֥ן יְהוָ֖ה נִבְזֶ֥ה הֽוּא׃</div>
+    <div class="eng"><strong>WEB</strong><br>You offer polluted bread on my altar. You say, 'How have we polluted you?' In that you say, "Yahweh's table is contemptible."</div>
+  </div>
+
+  <div class="ntx">
+    <div class="ntcallout"><div class="nticon">🔑</div><div class="ntbody">
+      <p><em>污穢的食物仍放在壇上；問題不在有沒有獻，而在獻的是甚麼。</em></p>
+      <h3>污穢的食物／可藐視的桌子</h3>
+      <p>第六節指控祭司藐視耶和華的名；第七節把藐視落到祭壇與桌子上。</p>
+    </div></div>
+
+    <hr>
+    <h2>一、經文對照</h2>
+    <p><strong>希伯來原文</strong></p>
+    <blockquote>מַגִּישִׁ֤ים עַֽל־ מִזְבְּחִ/י֙ לֶ֣חֶם מְגֹאָ֔ל וַ/אֲמַרְתֶּ֖ם בַּ/מֶּ֣ה גֵֽאַלְנ֑וּ/ךָ בֶּ/אֱמָרְ/כֶ֕ם שֻׁלְחַ֥ן יְהוָ֖ה נִבְזֶ֥ה הֽוּא׃</blockquote>
+    <p><strong>和合本</strong></p>
+    <blockquote>你們將污穢的食物獻在我的壇上，且說：『我們在何事上污穢你呢？』因你們說，耶和華的桌子是可藐視的。</blockquote>
+    <p><strong>英文（WEB）</strong></p>
+    <blockquote>You offer polluted bread on my altar. You say, 'How have we polluted you?' In that you say, "Yahweh's table is contemptible."</blockquote>
+
+    <hr>
+    <h2>二、九層解讀</h2>
+    <details class="fold" open>
+<summary>④ 本書用法</summary>
+<div class="foldbody">
+<p>第六節指控祭司藐視耶和華的名，第七節立刻把藐視落到祭壇上：你們將污穢的食物獻在我的壇上。這一節的用處，是把敬拜的品質攤開來看——不是有沒有獻，而是獻的是甚麼。祭司反問「我們在何事上污穢你呢」，卻被神點明：因你們說，耶和華的桌子是可藐視的。壇與桌子同屬神的家；當自己人把桌子說成可藐視，藐視就從外面移到裡面。</p>
+</div>
+</details>
+<details class="fold" open>
+<summary>⑤ 舊約根源</summary>
+<div class="foldbody">
+<p>神不喜悅的獻祭，舊約先知早已講明。以賽亞書 1:11 記「耶和華說：你們所獻的許多祭物與我何益呢？公綿羊的燔祭和肥畜的脂油，我已經彀了；公牛的血，羊羔的血，公山羊的血，我都不喜悅。」阿摩司書 5:22 記「你們雖然向我獻燔祭和素祭，我卻不悅納，也不顧你們用肥畜獻的平安祭；」利未記 22:20 更早立下底線：「凡有殘疾的，你們不可獻上，因為這不蒙悅納。」瑪拉基書 1:7 把這三條線收攏：污穢的食物不是失手，而是當事人根本沒有問過神的喜悅；把許多獻上去，不能代替把對的獻上去。</p>
+</div>
+</details>
+<details class="fold" open>
+<summary>⑥ 經文（粵）</summary>
+<div class="foldbody">
+<p>「你們將污穢的食物獻在我的壇上，且說：『我們在何事上污穢你呢？』因你們說，耶和華的桌子是可藐視的。」今日可問：我擺上主前的那一份，是問過祂喜不喜悅，還是只問自己方不方便？</p>
+</div>
+</details>
+<details class="fold" open>
+<summary>⑥ 和合本遺失</summary>
+<div class="foldbody">
+<p>和合本用「污穢的食物」，說的是狀態；希伯來文 מְגֹאָ֔ל 是被動分詞，語氣更重：不是祭司臨時弄污，而是食物本身成了污穢，洗不回乾淨。「桌子」שֻׁלְחַ֥ן 在原文指向宴席位置，是人與神同桌的所在；把桌子說成可藐視，傷的正是那個同桌關係。</p>
+</div>
+</details>
+<details class="fold" open>
+<summary>⑦ 新約慣用語</summary>
+<div class="foldbody">
+<p>新約談到飲食與敬拜時，希伯來書 13:9 記「你們不要被那諸般怪異的教訓勾引了去；因為人心靠恩得堅固纔是好的，並不是靠飲食。那在飲食上專心的從來沒有得着益處。」希伯來書 13:10 又記「我們有一祭壇，上面的祭物是那些在帳幕中供職的人不可同吃的。」相同之處在於，都指出敬拜不能靠外在飲食撐住；不同之處在於，希伯來書的對象是被教訓勾引的會眾，瑪拉基 1:7 的對象是明知神的名而仍輕慢的祭司。</p>
+</div>
+</details>
+<details class="fold" open>
+<summary>⑧ 語法補充</summary>
+<div class="foldbody">
+<p>מִזְבְּחִ/י֙（名詞·陽性·單數·附屬形），我的祭壇。標準 57，小數 21。附屬形把壇歸在神名下。</p>
+<p>לֶ֣חֶם（名詞·陽性·單數·絕對形），獻上的食物。標準 78，小數 15。食物正是被檢驗的對象。</p>
+<p>מְגֹאָ֔ל（動詞·被動·分詞式·陽性·單數·絕對形），污穢的。此詞形暫時查不到字母值。被動分詞標明狀態，不是臨時失手。</p>
+<p>נִבְזֶ֥ה（動詞·被動·分詞式·陽性·單數·絕對形），可藐視的。字母值暫缺，先保留詞形與本節解讀。分詞式讓藐視停在狀態裏，不是一次口誤。</p>
+</div>
+</details>
+<details class="fold" open>
+<summary>⑨ 經文對照</summary>
+<div class="foldbody">
+<p>希伯來書 13:9 記「你們不要被那諸般怪異的教訓勾引了去；因為人心靠恩得堅固纔是好的，並不是靠飲食。那在飲食上專心的從來沒有得着益處。」這句正對住瑪拉基書 1:7 的診斷：心思放在飲食上就會偏離。羅馬書 12:1 記「所以弟兄們，我以神的慈悲勸你們，將身體獻上，當作活祭，是聖潔的，是神所喜悅的；你們如此事奉乃是理所當然的。」相同之處在於，兩節都談到獻上與喜悅；不同之處在於，羅馬書要的是活的身體，瑪拉基這節面對的是被玷污的食物。</p>
+</div>
+</details>
+<details class="fold" open>
+<summary>⑩ 跨篇深意</summary>
+<div class="foldbody">
+<p>第六節問的是關係，第七節問的是品質。兩節合起來，才看得出祭司的問題有多深：不是不認識神，是不認為神在意所獻的。污穢的食物最可怕之處，是它看起來仍然像食物，仍然放在壇上，仍然照樣獻出去；問題不會在表面顯形，只會在神那邊顯形。神用桌子這個日常物件來講，是因為桌子人人認得；一張被說成可藐視的桌子，背後坐着一整個被輕忽的關係。對讀者來說，這節的提醒是日常的：我們奉上主前的那一份，別只問出席次數，先問它本身配不配。數目再多，方向錯了，獻得越勤，離得越遠；願桌上那一份先經得起神的察看。</p>
+</div>
+</details>
+
+    <hr>
+    <h2>三、本節詞序</h2>
+    <ul>
+    <li><strong>מַגִּישִׁ֤ים</strong>　[you are] bringing near　<code>ma.gi.Shim</code></li>
+<li><strong>עַֽל\־</strong>　on　<code>'al-</code></li>
+<li><strong>מִזְבְּחִ/י֙</strong>　altar/ my　<code>miz.be.Ch/i</code></li>
+<li><strong>לֶ֣חֶם</strong>　food　<code>Le.chem</code></li>
+<li><strong>מְגֹאָ֔ל</strong>　defiled　<code>me.go.'Al</code></li>
+<li><strong>וַ/אֲמַרְתֶּ֖ם</strong>　and/ you say　<code>va./'a.mar.Tem</code></li>
+<li><strong>בַּ/מֶּ֣ה</strong>　&lt;in&gt;/ how?　<code>ba./Meh</code></li>
+<li><strong>גֵֽאַלְנ֑וּ/ךָ</strong>　have we defiled/ you　<code>ge.'al.Nu./kha</code></li>
+<li><strong>בֶּ/אֱמָרְ/כֶ֕ם</strong>　by/ saying/ you　<code>be./'e.ma.re./Khem</code></li>
+<li><strong>שֻׁלְחַ֥ן</strong>　[the] table of　<code>shul.Chan</code></li>
+<li><strong>יְהוָ֖ה</strong>　Yahweh　<code>Yah.weh</code></li>
+<li><strong>נִבְזֶ֥ה</strong>　[is] despicable　<code>niv.Zeh</code></li>
+<li><strong>הֽוּא\׃</strong>　it　<code>Hu'</code></li>
+    </ul>
+
+    <hr>
+    <h2>四、帶走一句</h2>
+    <blockquote>　神問的不是「有沒有獻」，是「獻上的那一份，配不配放在祂的桌子上」。</blockquote>
+    <p>數目再多，方向錯了，獻得越勤，離得越遠。願桌上那一份先經得起　神的察看。</p>
+  </div>
+
+  <div class="foot">
+    <div>上一篇：<a href="mal_01_06.html">瑪拉基書 1:06</a>　｜　下一篇：瑪拉基書 1:08（待補）</div>
+    <div>來源：nt_output/mal_01_07.json（閘 14/14 PASS）· 無語音 · 無讀稿正文</div>
+  </div>
+</div>
+<button type="button" id="topbtn" title="回頂部">↑</button>
+<script>
+var THEME = [
+  ['宣紙', '#efe9dd', '#3a352d'],
+  ['夜書', '#1c1b1f', '#cfcabd'],
+  ['青瓷', '#e4ece7', '#2f3a35'],
+  ['茶褐', '#efe7de', '#4a3f36'],
+  ['藍箋', '#e6ebf1', '#2b3542'],
+  ['暮灰', '#e9e9e9', '#3c3c3c']
+];
+function Gs(k,v){try{localStorage.setItem(k,v);}catch(e){}}
+function Gv(k,d){try{var v=localStorage.getItem(k);return v===null?d:v;}catch(e){return d;}}
+var ti=parseInt(Gv('mal07_ti','0'),10); if(!(ti>=0&&ti<THEME.length)) ti=0;
+var fs=parseFloat(Gv('mal07_fs','18'))||18;
+var lh=parseFloat(Gv('mal07_lh','1.85'))||1.85;
+function apply(){
+  var T=THEME[ti], r=document.documentElement.style;
+  r.setProperty('--bg', T[1]); r.setProperty('--ink', T[2]);
+  r.setProperty('--fs', fs+'px'); r.setProperty('--lh', lh);
+  document.getElementById('fsv').textContent=fs+'px';
+  document.getElementById('lhv').textContent=lh.toFixed(2);
+  var box=document.getElementById('themes');
+  if(box && !box.dataset.ready){
+    THEME.forEach(function(t,i){
+      var b=document.createElement('button'); b.type='button'; b.className='sw'+(i===ti?' on':'');
+      b.textContent=t[0]; b.onclick=function(){ti=i; Gs('mal07_ti',String(i));
+        Array.prototype.forEach.call(box.querySelectorAll('.sw'),function(x,j){x.classList.toggle('on',j===ti);});
+        apply();};
+      box.appendChild(b);
+    });
+    box.dataset.ready='1';
+  }
+}
+document.getElementById('fs-').onclick=function(){fs=Math.max(14,fs-1);Gs('mal07_fs',String(fs));apply();};
+document.getElementById('fs+').onclick=function(){fs=Math.min(28,fs+1);Gs('mal07_fs',String(fs));apply();};
+document.getElementById('lh-').onclick=function(){lh=Math.max(1.4,+(lh-0.05).toFixed(2));Gs('mal07_lh',String(lh));apply();};
+document.getElementById('lh+').onclick=function(){lh=Math.min(2.4,+(lh+0.05).toFixed(2));Gs('mal07_lh',String(lh));apply();};
+document.getElementById('topbtn').onclick=function(){window.scrollTo({top:0,behavior:'smooth'});};
+apply();
+</script>
+</body>
+</html>
