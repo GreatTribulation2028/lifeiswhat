@@ -1,257 +1,7030 @@
 <!doctype html>
 <html lang="zh-Hant">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>39 瑪拉基書1:07 原文逐節查經</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>瑪拉基書 1-07 逐節查經（靜態・無語音）</title>
 <style>
-:root{--bg:#efe9dd;--ink:#3a352d;--fs:18px;--lh:1.85;--ybg:#f5e6a8;--gbg:#e4e4e4;--obg:#f3d9c2;--pbg:#f3d5e0;--brn:#e8d9cc;}
+:root{--bg:#efe9dd;--ink:#3a352d;--fs:19px;--lh:1.9;}
 *{box-sizing:border-box;}
 html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);}
-body{font-family:"Noto Sans HK","Microsoft JhengHei","PingFang HK","Heiti TC",sans-serif;}
-#bar{position:relative;padding:8px 12px;border-bottom:1px solid rgba(128,128,128,.28);background:var(--bg);}
+body{font-family:"Noto Sans HK","Microsoft JhengHei","PingFang HK","Heiti TC",sans-serif;
+     transition:background .18s ease,color .18s ease;}
+#bar{position:sticky;top:0;z-index:9;padding:8px 12px;border-bottom:1px solid rgba(128,128,128,.28);
+     background:var(--bg);}
 #bar .row{display:flex;flex-wrap:wrap;align-items:center;gap:7px;margin:3px 0;}
-button{font:inherit;cursor:pointer;border:1px solid rgba(128,128,128,.45);border-radius:7px;padding:5px 11px;background:transparent;color:inherit;}
+button{font:inherit;cursor:pointer;border:1px solid rgba(128,128,128,.45);border-radius:7px;
+       padding:5px 11px;background:transparent;color:inherit;}
 button:hover{border-color:rgba(128,128,128,.85);}
+.pri{border-width:2px;font-weight:700;}
+.alt{opacity:.85;}
+.tg.on{border-width:2px;font-weight:700;}
+.mini{font-size:.86em;opacity:.9;}
 .sw{padding:3px 9px;font-size:.84em;}
 .sw.on{border-width:2px;font-weight:700;}
+.vb{padding:3px 8px;font-size:.82em;}
+.vb.on{border-width:2px;font-weight:700;}
 .lbl{font-size:.82em;opacity:.72;margin-left:4px;}
-b.num{font-variant-numeric:tabular-nums;font-size:.86em;min-width:2.4em;display:inline-block;}
-#wrap{max-width:46em;margin:0 auto;padding:16px 18px 80px;}
-.badge{display:inline-block;font-size:.78em;opacity:.75;border:1px solid rgba(128,128,128,.4);border-radius:999px;padding:.15em .7em;margin-bottom:.6em;}
-h1.title{font-size:1.4em;margin:.2em 0 .55em;line-height:1.35;}
-.ntx{background:var(--bg);color:var(--ink);border-radius:12px;padding:1.05em 1.15em;border:1px solid rgba(128,128,128,.35);font-size:var(--fs);line-height:var(--lh);}
-.ntx h2{font-size:1.22em;margin:1.05em 0 .4em;font-weight:700;line-height:1.35;}
-.ntx h3{font-size:1.05em;margin:.85em 0 .35em;font-weight:600;}
-.ntx p{margin:.28em 0 .65em;}
-.ntx blockquote{margin:.55em 0;padding:.55em .85em;border-left:3px solid var(--ink);background:rgba(245,230,168,.55);border-radius:0 8px 8px 0;}
-.ntx blockquote.web,.ntx .web-q{background:rgba(220,220,220,.55);}
-.ntx hr{border:0;border-top:1px solid rgba(128,128,128,.3);margin:1.05em 0;}
-.ntx .ntcallout{display:flex;gap:.6em;background:rgba(243,217,194,.55);border-radius:8px;padding:.85em 1em;margin:.75em 0;}
+b{font-variant-numeric:tabular-nums;font-size:.86em;min-width:2.4em;display:inline-block;}
+#meta{font-size:.88em;opacity:.8;min-width:7.5em;font-variant-numeric:tabular-nums;}
+.hint{font-size:.78em;opacity:.6;margin-left:6px;}
+input[type=range]{width:110px;accent-color:currentColor;}
+#wrap{max-width:46em;margin:0 auto;padding:16px 18px 120px;}
+#doc{font-size:var(--fs);line-height:var(--lh);}
+#doc p{margin:0 0 .55em;padding:2px 6px;border-radius:6px;cursor:pointer;transition:background .15s ease;}
+#doc p:hover{background:rgba(128,128,128,.14);}
+#doc p.on{background:rgba(128,128,128,.26);}
+.foot{margin-top:26px;padding-top:12px;border-top:1px solid rgba(128,128,128,.28);font-size:.82em;opacity:.75;}
+.foot a{color:inherit;}
+
+/* ===== 2026-10-25 UI 增強 ===== */
+/* 🔴 「預設：活潑男聲（撳掣切換，會記住）」提示要開新一行，唔好擠爆控制列
+   （Ollie 2026-10-25 20:37 實測）*/
+.hint2{display:block;margin-left:0;margin-top:3px;white-space:normal;line-height:1.4;}
+/* 🔴 #bar 唔做 sticky：模板原樣係 position:sticky，而 bar 內有 4 行掣，
+   手機版約佔半個屏；bar 隨頁面捲走，靠右邊浮球做隨時控制 + 右下「回頂部」浮標。*/
+#bar{position:relative;}
+.vgroup{display:inline-block;white-space:nowrap;vertical-align:middle;}
+.vgroup .mini{margin-left:4px;padding:2px 8px;font-size:13px;line-height:1.5;}
+.vgroup .mini.on{outline:2px solid var(--ac);font-weight:700;}
+#doc p{margin:0 0 .95em;padding-bottom:.85em;border-bottom:1px solid rgba(128,128,128,.22);}
+#doc p:last-child{border-bottom:none;}
+#doc{line-height:1.95;}
+.hint2{font-size:12px;opacity:.72;margin-left:8px;white-space:nowrap;}
+/* 載入遮罩 */
+#loadbox{position:fixed;left:0;right:0;top:0;z-index:999;pointer-events:none;
+  background:rgba(20,18,16,.92);color:#fff;padding:9px 12px;
+  display:flex;flex-direction:column;align-items:center;gap:6px;}
+#loadbox .lbar{width:min(78vw,420px);height:10px;border-radius:999px;background:rgba(255,255,255,.18);overflow:hidden;}
+#loadbar{height:100%;width:0;background:linear-gradient(90deg,#c9a227,#e8d9a0);transition:width .12s linear;}
+#loadtxt{font-size:16px;letter-spacing:.02em;}
+#loadbox .lhint{font-size:13px;opacity:.75;}
+/* 右邊虛浮控制球 */
+#fab{position:fixed;right:10px;top:42%;z-index:98;width:44px;height:44px;border-radius:50%;
+  border:1px solid rgba(128,128,128,.45);background:rgba(60,58,55,.42);color:#fff;font-size:19px;
+  display:flex;align-items:center;justify-content:center;cursor:pointer;backdrop-filter:blur(6px);
+  box-shadow:0 2px 8px rgba(0,0,0,.16);opacity:.62;transition:opacity .18s, transform .18s;}
+/* 🔴 2026-10-25（Ollie：「浮標和回頂部不見了」）—— 實測（Chromium 實機）：
+   浮標用 transform/opacity/backdrop-filter 會變「合成層」→ 一撳開面板就令成頁淨畫得晒頭一段、
+   浮標亦消失（繪製崩潰）。⇒ 改成最樸素寫法：
+     · 唔用 transform / opacity / backdrop-filter（全部會提升成合成層）
+     · 用實色背景（唔用 rgba 透明）＋ 唔用 transition
+     · 用 bottom 定位（唔用 top:%，避免網址欄改變 viewport 高度）
+     · 「滾動淡少少」改用換背景色（唔用 opacity 淡出） */
+#fab{position:fixed;right:12px;bottom:86px;top:auto;z-index:98;width:48px;height:48px;border-radius:50%;
+  border:2px solid #d8d2c6;background:#3a3530;color:#fff;font-size:21px;
+  display:flex;align-items:center;justify-content:center;cursor:pointer;
+  box-shadow:0 2px 8px rgba(0,0,0,.45);
+  /* 🔴 必須顯式清走模板殘留嘅 backdrop-filter／opacity／transition：
+     模板 #fab 規則有 backdrop-filter:blur(6px) → Android Chrome 遇到 fixed + backdrop-filter
+     會成粒唔畫（Ollie 2026-10-25 手機實測：浮標同回頂部同時消失） */
+  backdrop-filter:none;-webkit-backdrop-filter:none;opacity:1;transition:none;}
+#fab.mini{background:#7b746b;}
+#fab.open{background:#1f1c19;}
+#fabpanel{position:fixed;right:70px;bottom:86px;top:auto;z-index:97;display:none;
+  flex-direction:column;gap:7px;padding:12px;border-radius:14px;
+  background:#1c1b19;color:#fff;border:1px solid #55504a;
+  backdrop-filter:none;-webkit-backdrop-filter:none;}
+#fabpanel.open{display:flex;}
+#fabpanel .frow{display:flex;gap:6px;align-items:center;justify-content:center;}
+#fabpanel button{background:#33302c;border:1px solid #5c5751;color:#fff;
+  border-radius:9px;padding:7px 11px;font-size:14px;cursor:pointer;min-width:38px;}
+#fabpanel button:active{background:#4a453f;}
+#fabpanel .fv{font-size:12px;opacity:.8;min-width:44px;text-align:center;}
+/* 男女聲上方嘅聲線標題（字大少少）*/
+#fabpanel .ftitle{font-size:16px;font-weight:700;letter-spacing:.02em;text-align:center;
+  opacity:.95;margin:2px 0 0;padding:0 4px;}
+/* 男女聲下方嘅頁面變色選擇 */
+#fabpanel .frow.theme{flex-wrap:wrap;max-width:200px;gap:5px;}
+#fabpanel .ftsw{min-width:0;padding:5px 8px;font-size:12px;border-radius:7px;border:1px solid #5c5751;}
+#fabpanel .ftsw.on{outline:2px solid #fff;outline-offset:1px;font-weight:700;}
+/* 右下角回頂部浮標 */
+#topFab{position:fixed;right:12px;bottom:24px;z-index:98;width:48px;height:48px;border-radius:50%;
+  border:2px solid #d8d2c6;background:#3a3530;color:#fff;font-size:21px;
+  display:flex;align-items:center;justify-content:center;cursor:pointer;
+  box-shadow:0 2px 8px rgba(0,0,0,.45);
+  backdrop-filter:none;-webkit-backdrop-filter:none;opacity:1;transition:none;}
+#topFab:active{background:#1f1c19;}
+/* 底部逐節查經區 */
+.sepBig{margin:2.6em auto 1.2em;max-width:1000px;border:0;border-top:2px solid rgba(128,128,128,.4);}
+.refhead{max-width:1000px;margin:0 auto .6em;font-size:19px;font-weight:700;}
+.refbox{max-width:1000px;margin:0 auto 1em;border:1px solid rgba(128,128,128,.35);border-radius:10px;
+  background:rgba(128,128,128,.06);}
+.refbox>summary{cursor:pointer;padding:.85em 1em;font-size:16px;list-style:none;}
+.refbox>summary::-webkit-details-marker{display:none;}
+.refbox>summary::before{content:"▸ ";opacity:.6;}
+.refbox[open]>summary::before{content:"▾ ";}
+.refbody{padding:.2em 1.4em 1.4em;font-size:.95em;line-height:1.85;}
+/* ===== Notion 原色資料層（.ntx）→ 完全唔影響上方讀稿 =====
+   🔴 2026-10-25（Ollie：「逐節查經裡能否同樣轉頁色？太白，我眼痛」）
+   → .ntx 改用**頁面主題變數**（--bg/--ink），6 款主題全部跟；色塊用半透明灰，深色主題都睇得清 */
+.ntx{background:var(--bg);color:var(--ink);border-radius:12px;padding:1.1em 1.25em;
+  border:1px solid rgba(128,128,128,.35);font-size:15px;line-height:1.8;}
+.ntx h1{font-size:1.7em;color:var(--ink);margin:.9em 0 .45em;font-weight:700;line-height:1.3;}
+.ntx h2{font-size:1.4em;color:var(--ink);margin:1.15em 0 .5em;font-weight:700;line-height:1.35;}
+.ntx h3{font-size:1.16em;color:var(--ink);margin:.9em 0 .4em;font-weight:600;line-height:1.4;}
+.ntx h4{font-size:1.02em;color:var(--ink);margin:.8em 0 .3em;font-weight:600;}
+.ntx p{margin:.25em 0 .6em;color:var(--ink);}
+.ntx a{color:var(--ink);text-decoration:underline;text-underline-offset:2px;}
+.ntx strong{font-weight:700;}
+.ntx em{font-style:italic;}
+.ntx ul,.ntx ol{margin:.3em 0 .7em;padding-left:1.45em;}
+.ntx li{margin:.22em 0;}
+.ntx blockquote{margin:.55em 0;padding:.1em 0 .1em .9em;border-left:3px solid var(--ink);color:var(--ink);}
+.ntx code{background:rgba(128,128,128,.16);color:var(--ink);border-radius:3px;padding:.12em .35em;
+  font-family:Consolas,Menlo,monospace;font-size:.9em;}
+.ntx pre.ntcode{background:rgba(128,128,128,.16);color:var(--ink);border-radius:4px;padding:.9em 1em;
+  overflow-x:auto;font-size:.9em;line-height:1.6;white-space:pre-wrap;}
+.ntx hr{border:0;border-top:1px solid rgba(128,128,128,.3);margin:1.25em 0;}
+.ntx .ntcallout{display:flex;gap:.6em;background:rgba(128,128,128,.16);border-radius:4px;
+  padding:.85em 1em;margin:.75em 0;}
 .ntx .nticon{font-size:1.15em;line-height:1.55;flex:0 0 auto;}
 .ntx .ntbody{flex:1 1 auto;min-width:0;}
 .ntx .ntbody p{margin:.22em 0;}
-.ntx ul{margin:.3em 0 .7em;padding-left:1.45em;}
-.ntx li{margin:.22em 0;}
-.ntx code{background:rgba(128,128,128,.16);border-radius:3px;padding:.12em .35em;font-family:Consolas,Menlo,monospace;font-size:.88em;}
-.ntx .gold{color:#1a4a8a;font-weight:700;}
-.ntx .hintline{font-size:.88em;opacity:.8;}
-.ntx .table-wrap{overflow-x:auto;margin:.5em 0 1em;-webkit-overflow-scrolling:touch;}
-.ntx table{border-collapse:collapse;width:100%;font-size:.92em;}
-.ntx th,.ntx td{border:1px solid rgba(128,128,128,.35);padding:.4em .55em;vertical-align:top;text-align:left;}
-.ntx thead th{background:rgba(180,210,170,.55);font-weight:700;}
-.ntx td.heb,.ntx th.heb{font-size:1.08em;line-height:1.6;}
-.ntx td.sn,.ntx .sn{color:#b00020;font-weight:600;white-space:nowrap;}
-.ntx table.word-order td:nth-child(1){white-space:nowrap;}
-.foot{margin-top:22px;padding-top:12px;border-top:1px solid rgba(128,128,128,.28);font-size:.82em;opacity:.8;}
-.foot a{color:inherit;}
-#topbtn{position:fixed;right:12px;bottom:18px;z-index:90;width:44px;height:44px;border-radius:50%;border:2px solid #d8d2c6;background:#3a3530;color:#fff;font-size:18px;cursor:pointer;}
+.ntx .ntbody>ul{margin:.25em 0 .5em;}
+.ntx details.ntfold{margin:.55em 0;border:0;padding:0;}
+.ntx details.ntfold>summary{cursor:pointer;font-weight:600;padding:.42em .25em;color:var(--ink);list-style:none;}
+.ntx details.ntfold>summary::-webkit-details-marker{display:none;}
+.ntx details.ntfold>summary::before{content:"▸ ";opacity:.55;}
+.ntx details.ntfold[open]>summary::before{content:"▾ ";}
+.ntx details.ntfold>summary:hover{background:rgba(128,128,128,.12);}
+/* 摺起嘅分節（fold）*/
+.ntx details.fold{margin:.7em 0;border:1px solid rgba(128,128,128,.3);border-radius:8px;
+  background:rgba(128,128,128,.07);padding:0;}
+.ntx details.fold>summary{cursor:pointer;font-weight:700;font-size:1.06em;padding:.7em .9em;
+  list-style:none;color:var(--ink);}
+.ntx details.fold>summary::-webkit-details-marker{display:none;}
+.ntx details.fold>summary::before{content:"▸ ";opacity:.55;}
+.ntx details.fold[open]>summary::before{content:"▾ ";}
+.ntx .foldbody{padding:.1em .95em .95em;border-top:1px solid rgba(128,128,128,.2);}
+/* Gematria：大小標題 ＋ 點列（唔用表格）*/
+.gcards{display:flex;flex-direction:column;gap:.75em;}
+.gcard{border:1px solid rgba(128,128,128,.3);border-radius:9px;padding:.75em .95em;background:rgba(128,128,128,.07);}
+.gcard-h{display:flex;align-items:baseline;gap:.55em;flex-wrap:wrap;margin-bottom:.4em;}
+.gcard-h .gw{font-size:1.3em;font-weight:700;color:var(--ink);line-height:1.3;}
+.gcard-h .gid{font-size:.8em;background:rgba(128,128,128,.2);border-radius:999px;padding:.16em .65em;color:var(--ink);}
+.gcard ul{margin:.15em 0 0;padding-left:1.25em;}
+.gcard li{margin:.24em 0;}
+.gcard li b{color:var(--ink);}
+.gcard .gsub{margin:.25em 0 .15em;font-weight:600;opacity:.8;}
+.tscroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:.6em 0;}
+.tscroll table{min-width:620px;}
+.ntx table{border-collapse:collapse;width:100%;font-size:.86em;}
+.ntx td,.ntx th{border:1px solid rgba(128,128,128,.35);padding:4px 6px;vertical-align:top;}
+.ntx .subpage{opacity:.75;font-size:.92em;}
+/* 逐節查經區嘅頁面變色掣 */
+.refthemewrap{margin-left:12px;font-size:13px;font-weight:400;opacity:.85;
+  display:inline-flex;align-items:center;gap:5px;vertical-align:middle;white-space:nowrap;}
+.rtsw{padding:3px 8px;font-size:12px;border-radius:6px;border:1px solid rgba(128,128,128,.45);
+  cursor:pointer;line-height:1.5;}
+.rtsw.on{outline:2px solid currentColor;font-weight:700;}
+/* 底部導航 ＋「完成，只是草稿」*/
+.footbar{max-width:1000px;margin:1.2em auto 1em;display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
+.footbar .mini{padding:6px 12px;font-size:14px;}
+.donebar{max-width:1000px;margin:.4em auto 3.2em;padding:1em 1.2em;border-radius:12px;
+  border:2px dashed rgba(128,128,128,.45);background:rgba(128,128,128,.07);text-align:center;}
+.donebar .dt{font-size:20px;font-weight:700;letter-spacing:.04em;margin-bottom:.35em;}
+.donebar .ds{font-size:14px;opacity:.78;line-height:1.7;}
+
+.ntx table.worder{font-size:.88em;}
+.ntx table.worder td.heb{font-size:1.15em;direction:rtl;text-align:right;white-space:nowrap;font-weight:600;}
+.ntx table.worder code{font-size:.92em;opacity:.9;}
+button:disabled,.btn-dis{opacity:.45;cursor:not-allowed;}
+.audio-later{font-size:.84em;opacity:.72;margin-left:6px;}
+#loadbox{display:none!important;}
+
 </style>
 </head>
 <body>
 <div id="bar">
-  <div class="row">
-    <span class="lbl">主題</span>
-    <span id="themes"></span>
-  </div>
-  <div class="row">
-    <span class="lbl">字號</span>
-    <button type="button" class="sw" id="fs-">A−</button>
-    <b class="num" id="fsv">18px</b>
-    <button type="button" class="sw" id="fs+">A+</button>
-    <span class="lbl">行距</span>
-    <button type="button" class="sw" id="lh-">−</button>
-    <b class="num" id="lhv">1.85</b>
-    <button type="button" class="sw" id="lh+">+</button>
-  </div>
+<div class="row">
+<button id="pb" class="pri" disabled title="讀稿／語音後補">▶ 全篇播放</button>
+<button id="sb" class="pri alt" disabled>■ 全停</button>
+<button id="fb" class="tg" disabled>跟讀模式</button>
+<span id="meta">讀稿／語音後補</span>
+<span class="vgroup"><span class="lbl">聲線</span><b id="vname">—</b>
+<button id="vs0" class="mini" disabled>可愛女聲</button>
+<button id="vs1" class="mini" disabled>活潑男聲</button>
+<span class="hint2 audio-later">本版先不做讀稿和語音（撳掣會提示後補）</span></span>
+</div>
+<div class="row">
+<span class="lbl">語速</span><button id="rm" class="mini" disabled>−</button><button id="rp" class="mini" disabled>＋</button>
+<input id="rr" type="range" min="0.5" max="2" step="0.1" value="1.2" disabled><b id="rv">—</b>
+<span class="lbl">音量</span><span id="vbx"></span><b id="vv">—</b>
+</div>
+<div class="row">
+<span id="sw"></span>
+<span class="lbl">字</span><input id="fr" type="range" min="15" max="32" step="1" value="19"><b id="fsv">19px</b>
+<span class="lbl">行距</span><input id="lr" type="range" min="1.4" max="2.6" step="0.1" value="1.9"><b id="lhv">1.9</b>
+</div>
+<div class="row">
+<a id="dlAllBar" class="mini" href="#" download="瑪拉基書01_07_逐節查經_靜態版.html">⬇ 下載離線html</a>
+<button id="mb" class="mini">⬇ 下載 .md</button>
+<button id="cb" class="mini">⧉ 複製全文</button>
+<span class="hint">主題／字號可用 ｜ 讀稿語音後補 ｜ 點 ▸ 展開查經</span>
+</div>
 </div>
 <div id="wrap">
-  <div class="badge">無聲靜態版 · Notion 正本 · 無讀稿／無語音</div>
-  <h1 class="title">39 瑪拉基書1:07 原文逐節查經</h1>
-  <div class="ntx">
-<blockquote>舊約最後一卷的第七節， 百姓終於問了， 問的卻不是自己做錯了什麼， 是　神做錯了什麼。</blockquote>
-<p>נִבְזֶה הוּא，（祂是）可藐視的。整節的判決，落在一個形容上。</p>
-<div class="ntcallout"><div class="nticon">📖</div><div class="ntbody"><p>百姓問「我們在何事上污穢你呢」。他們不是問祭物哪裡不對，是反問　神：明明是祢說的。</p><h3>你們在何事上污穢我</h3>
+<article id="doc">
+<p class="audio-later" style="cursor:default;opacity:.75;border-bottom:none;">📖 本頁為瑪拉基書 1:07 逐節查經靜態版 —— 已克隆 1:01 金標外殼；讀稿與雙聲音訊後補。</p>
+</article>
+<hr class="sepBig">
+<div class="refhead">逐節查經<span class="refthemewrap">頁面變色 <span id="reftheme"></span></span></div>
+<details id="refbox" class="refbox" open>
+<summary>▸ 撳一下展開／收起</summary>
+<div class="refbody">
+<div class="ntx">
+<h2 class="ntitle">39 瑪拉基書1:07 原文逐節查經(稿)</h2>
+<blockquote>舊約最後一卷的第七節，
+不是警告，不是判決，
+百姓終於問了 —— 問的卻不是自己做錯了什麼，
+是　神做錯了什麼。</blockquote>
+<p><em>נִבְזֶה הוּא，（祂是）可藐視的。整節的判決，落在一個形容上。</em></p>
+<div class="ntcallout"><div class="nticon">🔑</div><div class="ntbody">
+<p>百姓問「我們在何事上污穢你呢」。他們不是問祭物哪裡不對，是反問　神：明明是祢說的。</p>
+<h3>你們在何事上污穢我</h3>
 <p>第六節　神問「這份分量你放在哪裡」。第七節，百姓答了。答得很實在，答非所問。</p>
-<p>他們污穢的不是餅。他們污穢的是那張桌子。</p></div></div>
+<p>他們污穢的不是餅。他們污穢的是那張桌子。</p>
+<p><em><strong>真正的問題從來不是「我們做得不夠」，
+是「我們把　神放咗喺邊」。</strong></em></p>
+</div></div>
 <hr>
 <h2>一、經文。原文對照</h2>
 <p><strong>希伯來原文</strong></p>
-<blockquote>מַגִּישִים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ בֶּאֱמרְכֶם שֻלְחַן יְהֹוָה נִבְזֶה הוּא׃</blockquote>
+<blockquote>מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ בֶּאֱמָרְכֶם שֻׁלְחַן יְהוָה נִבְזֶה הוּא׃</blockquote>
 <p><strong>和合本</strong></p>
 <blockquote>你們將污穢的食物獻在我的壇上，且說：『我們在何事上污穢你呢？』因你們說，耶和華的桌子是可藐視的。</blockquote>
 <p><strong>英文（WEB）</strong></p>
-<blockquote class="web">You offer polluted bread on my altar. You say, 'How have we polluted you?' In that you say, 'Yahweh's table is contemptible.'</blockquote>
+<blockquote>You offer polluted bread on my altar. You say, 'How have we polluted you?' In that you say, 'Yahweh's table is contemptible.'</blockquote>
 <p><strong>原文直譯</strong></p>
-<blockquote>原文直譯：
-מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל
-你們把污穢的食物獻在我的壇上
-
-וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ
-你們說：我在何事上污穢你呢？
-
-כִּי אֲמַרְתֶּם שֻׁלְחַן יְהוָה נִבְזֶה הוּא
-因你們說，耶和華的桌子是可藐視的</blockquote>
+<blockquote>‎מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל
+你們把污穢的食物獻在我的壇上，
+‎וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ
+卻說：我們在何事上污穢你呢？
+‎בֶּאֱמָרְכֶם שֻׁלְחַן יְהוָה נִבְזֶה הוּא׃
+因你們說，耶和華的桌子是可藐視的。</blockquote>
+<p>（【AI補譯】依 CBOL 詞形分析並參和合本／WEB 補譯）</p>
 <hr>
 <h2>二、逐句剖析</h2>
-<h3>【原文直譯】</h3>
-<p>מַגִּישִׁים עַֽל־ מִזְבְּחִי לֶחֶם מְגֹאָל<br>
-你們把污穢的食物獻在我的壇上</p>
-<p>原文直譯：<br>
-你們把污穢的食物往我的壇上獻</p>
-<h3>【1】你們把污穢的食物獻在我的壇上｜מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל</h3>
-<p>נָגַשׁ（1c 帶近、帶）＋ מִזְבֵּחַ（壇）＋ לֶחֶם（食物）＋ מְגֹאָל（污穢的）。<br>
-四個詞一列排下來，像一份清單。這是一份他們自己寫的清單。</p>
-<h3>【2】你們說：我在何事上污穢你呢｜וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ</h3>
-<p>בַּמֶּה（what／在哪事上）＋ גֵּאַלְנוּךָ（Piel 污穢你）。<br>
-他們把質問掉轉頭。　神沒有答錯，是他們答錯了問題。</p>
-<p>原文直譯：<br>
-你們說：我在何事上污穢你呢？</p>
-<h3>【3】因你們說，耶和華的桌子是可藐視的｜כִּי אֲמַרְתֶּם שֻׁלְחַן יְהוָה נִבְזֶה הוּא</h3>
-<p>這一句是整節的轉折。前兩句是他們說的，這一句是　神指出他們真正說了什麼。<br>
-נִבְזֶה הוּא：（祂是）可藐視的 —— 語氣收在「他」字上，沒有主語。</p>
-<p>過渡：他們問的是哪裡做錯，　神回答的是他們把　神放在了哪裡。</p>
-<h3>【4】照鏡段</h3>
-<p>我們讀到這裡，很容易停在「祭司獻錯了餅」。</p>
-<p>把祭司先放一放。<br>
-把百姓放在這裡。<br>
-那麼這節話，問的其實也是我們。</p>
-<p>我們在　神的桌子上坐下來，吃自己的飯。<br>
-我們覺得那是規矩，那是文化，那是我們的傳統。<br>
-於是那張桌還在，　神卻不在了。</p>
-<h3>【5】總結段</h3>
-<p>那字句是叫人死，深意是叫人活。<br>
-我們熟悉這節經文，熟悉到可以背。<br>
-但熟悉不曉得那張桌還認不認得我們。</p>
-<p>נִבְזֶה הוּא。<br>
-這三個字很輕，輕到我們聽不出它在宣判。<br>
-不是大聲的褻瀆，是安靜的歸檔。</p>
-<p>我們沒有推翻　神。<br>
-我們只是把　神放進了一個可以忽略的位置。</p>
-<p class="gold">神問的不是餅。他問的是：桌子，你還認不認得。</p>
-<h3>【6】收束</h3>
-<p>所以，萬軍之耶和華說：<br>
-你們將污穢的食物獻在我的壇上。<br>
-因你們說，耶和華的桌子是可藐視的。</p>
-<p>百姓問「我們在何事上污穢你」。<br>
-　神答「你們說，耶和華的桌子是可藐視的」。</p>
-<p>同一個問題，兩種問法：<br>
-一個問哪裡做錯了，一個問你在誰那裡。<br>
-第一種問法要找補救。<br>
-第二種問法要找自己。</p>
-<p>你今天，對這一位抬得起這一份嗎。</p>
+<h3>1️⃣ 你們把污穢的食物獻在我的壇上｜מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל</h3>
+<blockquote>‎<em><strong>מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל</strong></em> וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ בֶּאֱמָרְכֶם שֻׁלְחַן יְהוָה נִבְזֶה הוּא׃</blockquote>
+<p><strong>原文直譯：</strong></p>
+<ul><li><strong>你們正在獻上／帶來</strong>（<em>מַגִּישִׁים</em>，Hif‘il 分詞複陽，H05066 ← נָגַשׁ）</li></ul>
+<ul><li><strong>在…上</strong>（<em>עַל־</em>，介系詞，H05921）</li></ul>
+<ul><li><strong>我的祭壇</strong>（<em>מִזְבְּחִי</em>，名詞＋1 單詞尾，H04196）</li></ul>
+<ul><li><strong>食物／餅</strong>（<em>לֶחֶם</em>，名詞陽性單數，H03899）</li></ul>
+<ul><li><strong>被玷污的</strong>（<em>מְגֹאָל</em>，Pu‘al 分詞單陽，H01351 ← גָּאַל）</li></ul>
+<p>נָגַשׁ（Hiphil 帶近）＋ מִזְבֵּחַ（壇）＋ לֶחֶם（食物）＋ מְגֹאָל（污穢的）。四個詞一列排下來，像一份清單。這是一份他們自己寫的清單。</p>
+<p><strong>他們獻上的，不是一份禮物，
+是一份自己也不以為意的清單。</strong></p>
 <hr>
-<div class="ntcallout"><div class="nticon">🧭</div><div class="ntbody"><p>過渡：會幕的桌子上本該是無酵餅（出 25:30），百姓卻帶自己揀的餅上壇（民 15:21）；從「獻上祭物」到「藐視那張桌子」，中間壞掉的不是餅，是那張桌子在他們心裡，已經不再是　神的桌子。</p></div></div>
-<h2>三、Gematria 數值表</h2>
-<table><tr><th>原文</th><th>中文</th><th>Strong's</th><th>計算／數值</th><th>備註（數值象徵）</th></tr><tr><td>נָגַשׁ</td><td>接近、靠近</td><td>H05066</td><td>נגש＝353</td><td>喜樂=353；耶和華的奧秘給敬畏祂的人(詩25:14)三詞=353；敬畏(216)+卡巴拉(137)=353；喜樂=353=耶和華的奧秘給敬畏他的人，喜樂的源頭是敬畏　神</td></tr><tr><td>גָּאַל</td><td>棄絕、弄髒、褻瀆</td><td>H01351</td><td>גאל＝34</td><td>בָּבֶל(Bavel/巴比倫)=34=ב(2)+ב(2)+ל(30)。創11:9巴別塔=混亂(בָּלַל balal)；但以理書四帝國之首(但2章大像金頭)；啟17:5「奧秘哉！大巴比倫，作世上的淫婦和一切可憎之物的母」；啟18:2「巴比倫大城傾倒了」。末世的政治宗教經濟系統的總稱。</td></tr><tr><td>לֶחֶם</td><td>食物、尤指餅或穀物</td><td>H03899</td><td>לחם＝78</td><td>食物；CBOL 1a2) 穀物 是材料，聖殿的餅有形狀有規定，不是泛指。</td></tr><tr><td>מִזְבֵּחַ</td><td>祭壇</td><td>H04196</td><td>מזבח＝57</td><td>祭壇；CBOL ＜解釋＞一：挪亞出方舟後築的第一個壇，壇的定義是「有人為我築的」。</td></tr><tr><td>אָמַר</td><td>說、談話、命令、應許、囑咐、呼召、思想</td><td>H00559</td><td>אמר＝241</td><td>說；舊約最頻密動詞 5,069 次，出 1:3「　神說，要有光」，到這一句。</td></tr><tr><td>שֻׁלְחָן</td><td>桌子、一頓飯</td><td>H07979</td><td>שלחן＝388</td><td>桌子，同時是一頓飯；出 25:23 為餅而造，王上 8:4 為聖禮而設。</td></tr><tr><td>יְהֹוָה</td><td>自有永有的</td><td>H03068</td><td>יהוה＝26</td><td>耶和華；耶和華=26；合一(13)+愛(13)=26；耶和華名字的數字 = 愛(13) + 合一(13)</td></tr><tr><td>בָּזָה</td><td>輕視、鄙視、輕蔑</td><td>H00959</td><td>בזה＝14</td><td>大衛；David大衛=14，意為「手」(Yad)，代表王權與　神的手；馬太福音家譜特意編排為3組14代；大衛=14；亞伯拉罕小數字=14；14和41是鏡像數</td></tr></table>
+<h3>2️⃣ 你們說：我們在何事上污穢你呢｜וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ</h3>
+<blockquote>‎מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל <em><strong>וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ</strong></em> בֶּאֱמָרְכֶם שֻׁלְחַן יְהוָה נִבְזֶה הוּא׃</blockquote>
+<p><strong>原文直譯：</strong></p>
+<ul><li><strong>而你們說</strong>（<em>וַאֲמַרְתֶּם</em>，Qal 連續式 2 複陽，H00559）</li></ul>
+<ul><li><strong>在何事上？</strong>（<em>בַּמֶּה</em>，介系詞＋疑問代名詞，H04100）</li></ul>
+<ul><li><strong>我們污穢了你</strong>（<em>גֵאַלְנוּךָ</em>，Pi‘el 完成式 1 複＋2 單陽詞尾，H01351）</li></ul>
+<p>בַּמֶּה（在哪事上）＋ גֵּאַלְנוּךָ（Piel 污穢你）。他們把質問掉轉頭。　神沒有答錯，是他們答錯了問題。</p>
+<p><strong>反問不是尋求真相，
+是把責任推回給發問的那一位。</strong></p>
 <hr>
-<h3>本節詞序</h3>
-<p class="hintline">希伯來詞序（中英對照）。音譯依 OSHB／讀音欄。</p>
-<div class="table-wrap">
-<table class="word-order">
-<thead><tr><th>希伯來</th><th>中文</th><th>English</th><th>音譯</th><th>SN</th></tr></thead>
-<tbody>
-<tr><td class="heb" dir="rtl">מַגִּישִׁ֤ים</td><td>帶來／獻上（你們正在帶近）</td><td>[you are] bringing near</td><td><code>ma.gi.Shim</code></td><td class="sn">H05066</td></tr>
-<tr><td class="heb" dir="rtl">עַֽל־</td><td>在…上面</td><td>on</td><td><code>'al-</code></td><td class="sn">H05921</td></tr>
-<tr><td class="heb" dir="rtl">מִזְבְּחִ/י֙</td><td>我的祭壇</td><td>altar / my</td><td><code>miz.be.Ch/i</code></td><td class="sn">H04196</td></tr>
-<tr><td class="heb" dir="rtl">לֶ֣חֶם</td><td>麵包、食物</td><td>food</td><td><code>Le.chem</code></td><td class="sn">H03899</td></tr>
-<tr><td class="heb" dir="rtl">מְגֹאָ֔ל</td><td>污穢的／被玷污的</td><td>defiled</td><td><code>me.go.'Al</code></td><td class="sn">H01351</td></tr>
-<tr><td class="heb" dir="rtl">וַ/אֲמַרְתֶּ֖ם</td><td>且你們說</td><td>and / you say</td><td><code>va./'a.mar.Tem</code></td><td class="sn">H00559</td></tr>
-<tr><td class="heb" dir="rtl">בַּ/מֶּ֣ה</td><td>在何事上／怎麼</td><td><in> / how?</td><td><code>ba./Meh</code></td><td class="sn">H04100</td></tr>
-<tr><td class="heb" dir="rtl">גֵֽאַלְנ֑וּ/ךָ</td><td>我們污穢了你</td><td>have we defiled / you</td><td><code>ge.'al.Nu./kha</code></td><td class="sn">H01351</td></tr>
-<tr><td class="heb" dir="rtl">בֶּ/אֱמָרְ/כֶ֕ם</td><td>因你們說</td><td>by / saying / you</td><td><code>be./'e.ma.re./Khem</code></td><td class="sn">H00559</td></tr>
-<tr><td class="heb" dir="rtl">שֻׁלְחַ֥ן</td><td>桌子／筵席（附屬形）</td><td>[the] table of</td><td><code>shul.Chan</code></td><td class="sn">H07979</td></tr>
-<tr><td class="heb" dir="rtl">יְהוָ֖ה</td><td>耶和華（雅威）</td><td>Yahweh</td><td><code>Yah.weh</code></td><td class="sn">H03068</td></tr>
-<tr><td class="heb" dir="rtl">נִבְזֶ֥ה</td><td>可藐視的</td><td>[is] despicable</td><td><code>niv.Zeh</code></td><td class="sn">H00959</td></tr>
-<tr><td class="heb" dir="rtl">הֽוּא׃</td><td>他／它</td><td>it</td><td><code>Hu'</code></td><td class="sn">H01931</td></tr>
-</tbody>
-</table>
-</div>
-
+<h3>3️⃣ 因你們說，耶和華的桌子是可藐視的｜בֶּאֱמָרְכֶם שֻׁלְחַן יְהוָה נִבְזֶה הוּא</h3>
+<blockquote>‎מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ <em><strong>בֶּאֱמָרְכֶם שֻׁלְחַן יְהוָה נִבְזֶה הוּא</strong></em>׃</blockquote>
+<p><strong>原文直譯：</strong></p>
+<ul><li><strong>因你們說</strong>（<em>בֶּאֱמָרְכֶם</em>，介系詞＋不定詞附屬形＋2 複陽詞尾，H00559）</li></ul>
+<ul><li><strong>桌子</strong>（<em>שֻׁלְחַן</em>，名詞附屬形，H07979）</li></ul>
+<ul><li><strong>耶和華</strong>（<em>יְהוָה</em>，立約之　神名，H03068）</li></ul>
+<ul><li><strong>可藐視的</strong>（<em>נִבְזֶה</em>，Nif‘al 分詞單陽，H00959 ← בָּזָה）</li></ul>
+<ul><li><strong>他／它</strong>（<em>הוּא</em>，代名詞 3 單陽，H01931）</li></ul>
+<p>這一句是整節的轉折。前兩句是他們說的，這一句是　神指出他們真正說了什麼。נִבְזֶה הוּא：（祂是）可藐視的 —— 語氣收在「他」字上。</p>
+<blockquote>過渡：他們問的是哪裡做錯，　神回答的是他們把　神放在了哪裡。</blockquote>
 <hr>
+<h3>4️⃣ 照鏡｜我們把　神放在了哪裡</h3>
+<p>我們讀到這裡，很容易停在「祭司獻錯了餅」。把祭司先放一放。把百姓放在這裡。那麼這節話，問的其實也是我們。</p>
+<p>我們在　神的桌子上坐下來，吃自己的飯。我們覺得那是規矩，那是文化，那是我們的傳統。於是那張桌還在，　神卻不在了。</p>
+<p><strong>　神問的不是餅。他問的是：桌子，你還認不認得。</strong></p>
+<hr>
+<h3>5️⃣ 收束</h3>
+<p>所以，萬軍之耶和華說：你們將污穢的食物獻在我的壇上。因你們說，耶和華的桌子是可藐視的。</p>
+<p>百姓問「我們在何事上污穢你」。　神答「你們說，耶和華的桌子是可藐視的」。</p>
+<p>同一個問題，兩種問法：一個問哪裡做錯了，一個問你在誰那裡。第一種問法要找補救。第二種問法要找自己。</p>
+<p><strong>你今天，對這一位抬得起這一份嗎。</strong></p>
+<hr>
+<div class="ntcallout"><div class="nticon">🧭</div><div class="ntbody">
+<p>過渡：會幕的桌子上本該是無酵餅（出 25:30），百姓卻帶自己揀的餅上壇；從「獻上祭物」到「藐視那張桌子」，中間壞掉的不是餅，是那張桌子在他們心裡，已經不再是　神的桌子。</p>
+</div></div>
+<details class="fold"><summary>本節詞序（中英）</summary><div class="foldbody"><div class="tscroll"><table class="worder"><thead><tr><th>希伯來</th><th>中文</th><th>English</th><th>音譯</th><th>SN</th></tr></thead><tbody><tr><td class="heb">מַגִּישִ֤ים</td><td>你們正在獻上／帶來</td><td>[you are] bringing near</td><td><code>ma.gi.Shim</code></td><td>H05066</td></tr><tr><td class="heb">עַֽל־</td><td>在…上</td><td>on</td><td><code>'al-</code></td><td>H05921</td></tr><tr><td class="heb">מִזְבְּחִי</td><td>我的祭壇</td><td>altar / my</td><td><code>miz.be.Ch/i</code></td><td>H04196</td></tr><tr><td class="heb">לֶ֣חֶם</td><td>食物／餅</td><td>food</td><td><code>Le.chem</code></td><td>H03899</td></tr><tr><td class="heb">מְגֹאָ֔ל</td><td>被玷污的</td><td>defiled</td><td><code>me.go.'Al</code></td><td>H01351</td></tr><tr><td class="heb">וַאֲמַרְתֶּ֖ם</td><td>而你們說</td><td>and / you say</td><td><code>va./'a.mar.Tem</code></td><td>H00559</td></tr><tr><td class="heb">בַּמֶּ֣ה</td><td>在何事上？</td><td>&lt;in&gt; / how?</td><td><code>ba./Meh</code></td><td>H04100</td></tr><tr><td class="heb">גֵֽאַלְנוּךָ</td><td>我們污穢了你</td><td>have we defiled / you</td><td><code>ge.'al.Nu./kha</code></td><td>H01351</td></tr><tr><td class="heb">בֶּאֱמָרְכֶ֕ם</td><td>因你們說</td><td>by / saying / you</td><td><code>be./'e.ma.re./Khem</code></td><td>H00559</td></tr><tr><td class="heb">שֻׁלְחַ֥ן</td><td>…的桌子</td><td>[the] table of</td><td><code>shul.Chan</code></td><td>H07979</td></tr><tr><td class="heb">יְהוָ֖ה</td><td>耶和華</td><td>Yahweh</td><td><code>Yah.weh</code></td><td>H03068</td></tr><tr><td class="heb">נִבְזֶ֥ה</td><td>可藐視的</td><td>[is] despicable</td><td><code>niv.Zeh</code></td><td>H00959</td></tr><tr><td class="heb">הֽוּא׃</td><td>他／它</td><td>it</td><td><code>Hu'</code></td><td>H01931</td></tr></tbody></table></div><p class="subpage">詞序依 WLC／用戶對照；中英並列，方便跟讀對詞。</p></div></details>
+<details class="fold"><summary>三、Gematria 數值表</summary><div class="foldbody"><div class="gcards">
+<div class="gcard"><div class="gcard-h"><span class="gw">נָגַשׁ</span><span class="gid">H05066</span></div><ul class="gcard-l"><li><b>中文</b>：接近、靠近</li><li><b>計算</b>：נגש＝353</li><li><b>象徵</b>：喜樂=353；耶和華的奧秘給敬畏祂的人(詩25:14)三詞=353；敬畏(216)+卡巴拉(137)=353；喜樂的源頭是敬畏　神</li></ul></div>
+<div class="gcard"><div class="gcard-h"><span class="gw">גָּאַל</span><span class="gid">H01351</span></div><ul class="gcard-l"><li><b>中文</b>：棄絕、弄髒、褻瀆</li><li><b>計算</b>：גאל＝34</li><li><b>象徵</b>：בָּבֶל(Bavel/巴比倫)=34。創11:9巴別塔=混亂；啟17:5「奧秘哉！大巴比倫」；末世系統的總稱。</li></ul></div>
+<div class="gcard"><div class="gcard-h"><span class="gw">לֶחֶם</span><span class="gid">H03899</span></div><ul class="gcard-l"><li><b>中文</b>：食物、尤指餅或穀物</li><li><b>計算</b>：לחם＝78</li><li><b>象徵</b>：食物；CBOL 1a2) 穀物是材料，聖殿的餅有形狀有規定，不是泛指。</li></ul></div>
+<div class="gcard"><div class="gcard-h"><span class="gw">מִזְבֵּחַ</span><span class="gid">H04196</span></div><ul class="gcard-l"><li><b>中文</b>：祭壇</li><li><b>計算</b>：מזבח＝57</li><li><b>象徵</b>：祭壇；挪亞出方舟後築的第一個壇——壇的定義是「有人為我築的」。</li></ul></div>
+<div class="gcard"><div class="gcard-h"><span class="gw">אָמַר</span><span class="gid">H00559</span></div><ul class="gcard-l"><li><b>中文</b>：說、談話、命令、應許、囑咐、呼召、思想</li><li><b>計算</b>：אמר＝241</li><li><b>象徵</b>：說；舊約最頻密動詞 5,069 次，從「　神說，要有光」，到這一句。</li></ul></div>
+<div class="gcard"><div class="gcard-h"><span class="gw">שֻׁלְחָן</span><span class="gid">H07979</span></div><ul class="gcard-l"><li><b>中文</b>：桌子、一頓飯</li><li><b>計算</b>：שלחן＝388</li><li><b>象徵</b>：桌子，同時是一頓飯；出 25:23 為餅而造，王上 8:4 為聖禮而設。</li></ul></div>
+<div class="gcard"><div class="gcard-h"><span class="gw">יְהֹוָה</span><span class="gid">H03068</span></div><ul class="gcard-l"><li><b>中文</b>：自有永有的</li><li><b>計算</b>：יהוה＝26</li><li><b>象徵</b>：耶和華=26；合一(13)+愛(13)=26；名字的數字 = 愛 + 合一。</li></ul></div>
+<div class="gcard"><div class="gcard-h"><span class="gw">בָּזָה</span><span class="gid">H00959</span></div><ul class="gcard-l"><li><b>中文</b>：輕視、鄙視、輕蔑</li><li><b>計算</b>：בזה＝14</li><li><b>象徵</b>：大衛=14，意為「手」(Yad)；馬太家譜 3 組 14 代；14 與 41 是鏡像數。</li></ul></div>
+</div></div></details>
 <h2>四、對照經文</h2>
-<div class="ntcallout"><div class="nticon">📖</div><div class="ntbody"><p>本節結構
-三個動作排成一列：נָגַשׁ（獻上，1c 帶近）→ גֵּאַלְנוּךָ（污穢你，Piel）→ נִבְזֶה（可藐視的，形容詞）。
-百姓的辯解是：「我們在何事上污穢你？」　神的判決是：「因你們說，耶和華的桌子是可藐視的。」
-轉折在最後三個字：不是餅不潔，是桌子被降為普通。</p></div></div>
-<div class="ntcallout"><div class="nticon">📖</div><div class="ntbody"><p>對照經文
-民 15:21｜獻餅不以為壇主
-利 23:5-6｜無酵餅要帶出帳幕外
-出 16:3｜天降嗎哪
-申 8:3｜人活著不是單靠食物
-尼 5:17｜官長的桌
-但 11:27｜伯沙拔的席
-結 23:27｜污穢的桌子
-王下 18:22｜這是主的壇
-王上 13:1-3｜耶羅波安另築壇
-詩 51:17｜　神不看你</p></div></div>
+<div class="ntcallout"><div class="nticon">🔍</div><div class="ntbody">
+<p><strong>本節結構</strong></p>
+<p>三個動作排成一列：נָגַשׁ（獻上，Hiphil 帶近）→ גֵּאַלְנוּךָ（污穢你，Piel）→ נִבְזֶה（可藐視的，Nifal）。百姓的辯解是：「我們在何事上污穢你？」　神的判決是：「因你們說，耶和華的桌子是可藐視的。」轉折在最後三個字：不是餅不潔，是桌子被降為普通。</p>
+</div></div>
+<div class="ntcallout"><div class="nticon">📖</div><div class="ntbody">
+<p><strong>對照經文</strong></p>
+<ul><li><strong>民 15:21</strong>｜獻餅不以為壇主</li></ul>
+<ul><li><strong>利 23:5-6</strong>｜無酵餅要帶出帳幕外</li></ul>
+<ul><li><strong>出 16:3</strong>｜天降嗎哪</li></ul>
+<ul><li><strong>申 8:3</strong>｜人活著不是單靠食物</li></ul>
+<ul><li><strong>出 25:23-30</strong>｜陳設餅的桌子</li></ul>
+<ul><li><strong>王上 13:1-3</strong>｜耶羅波安另築壇</li></ul>
+<ul><li><strong>結 44:7</strong>｜污穢我的殿</li></ul>
+<ul><li><strong>瑪 1:6</strong>｜我們在何事上藐視你的名呢</li></ul>
+<ul><li><strong>瑪 1:12</strong>｜你們卻褻瀆我的名……說：耶和華的桌子是污穢的</li></ul>
+<ul><li><strong>林前 10:21</strong>｜不能共喝主的杯，又喝鬼的杯</li></ul>
+</div></div>
 <hr>
 <h2>五、語意</h2>
-<div class="ntcallout"><div class="nticon">💔</div><div class="ntbody"><p>全節靈修式語意總結
-
-- 字面：百姓獻餅，說餅不潔；　神說，桌子可藐視。
-- 搜尋：這節的爭議點在壇、在餅、在桌子，不在祭司的人品。
-- 暗示：נִבְזֶה הוּא 是全節唯一的判決，語氣收在「他」字上。
-- 隱藏的意思：שֻׁלְחָן 同時是桌與席。出 25:23 那張桌，是為餅造的；百姓沒有改桌，他們改了自己看桌的方式。
-- 深意：　神不糾正餅，因為餅不是重點。真正的問題是：我們在　神的桌子上，坐下來吃自己的飯。
-
-
-真正的問題從來不是「我們做得不夠」，是「我們把　神放咗喺邊」。</p></div></div>
+<div class="ntcallout"><div class="nticon">💔</div><div class="ntbody">
+<p>讀這一節，可以由五層走進去。</p>
+<ul><li>字面：百姓獻餅，說餅不潔；　神說，桌子可藐視。</li></ul>
+<ul><li>搜尋：這節的爭議點在壇、在餅、在桌子，不在祭司的人品。</li></ul>
+<ul><li>暗示：נִבְזֶה הוּא 是全節唯一的判決，語氣收在「他」字上。</li></ul>
+<ul><li>隱藏的意思：שֻׁלְחָן 同時是桌與席。出 25:23 那張桌，是為餅造的；百姓沒有改桌，他們改了自己看桌的方式。</li></ul>
+<ul><li>深意：　神不糾正餅，因為餅不是重點。真正的問題是：我們在　神的桌子上，坐下來吃自己的飯。</li></ul>
+<p><strong>真正的問題從來不是「我們做得不夠」，是「我們把　神放咗喺邊」。</strong></p>
+</div></div>
 <hr>
-<h2>參考文獻</h2>
-<div class="ntcallout"><div class="nticon">📖</div><div class="ntbody"><p>和合本聖經（　神版）｜World English Bible（WEB）
-CBOL 原文聖經查詢系統：H05066、H01351、H03899、H04196、H00559、H07979、H03068、H00959
-Gematria 數值庫【金石DB】
-BDB／TWOT：נָגַשׁ、גָּאַל、לֶחֶם、מִזְבֵּחַ、שֻׁלְחָן、בָּזָה 條</p></div></div>
+<p>以下子頁收錄本節 8 個 SN 之 ①～⑪ 原文字典：附錄：原文字典</p>
+<details class="fold"><summary>附錄：原文字典</summary><div class="foldbody">
+<p class="subpage">↪ 子頁：附錄：原文字典</p>
 <hr>
+<details class="ntfold"><summary>H05066 — נָגַשׁ「接近、靠近」</summary><div class="ntbody"><ul><li>①基本資料：H05066｜נָגַשׁ｜nagash｜動詞｜出現(make to) approach (nigh), bring (forth, hither, near), (cause to) come (hither, near, nigh), give place, go hard (up), (be, draw, go) near (nigh), offer, overtake, present, put, stand.</li></ul>
+<ul><li>②CBOL分類：1) 拉近, 靠近
+1a) (Qal) 拉近或近前來
+1a1) 人的
+1a1a) 性關係的
+1a2) 無生命的
+1a2a) 彼此接近
+1b) (Niphal) 拉近
+1c) (Hiphil) 向前, 帶近, 帶
+1d) (Hophal) 挨進
+1e) (Hithpael) 拉近
+
+
+
+
+
+【5066】נָגַשׁ
+
+＜音譯＞nagash
+
+＜詞類＞動
+
+＜字義＞接近、靠近
+
+＜字源＞一原形字根
+
+＜　神出＞1297
+創18:23
+
+
+＜譯詞＞挨近14 近前來11 前來10 親近8 來6 就近6 獻5 到3 去4 帶3 上前2 上前來2 來見2 帶到2 拿1 拿過來2 牽2 給2 聲明2 臨近2 進2 進前來2 領2 來到1 出來1 前1 前進1 向前1 向前直往1 帶著1 往前1 拿來1 拿著1 接續1 擺1 燒1 牽了1 獻上1 獻給1 相連1 走到1 近1 退1 運了來1 遞1 鎖住1 陳明1 到...來1 上...來1 拿...來1 追...上1 (123)
+
+＜解釋＞
+
+
+一、Qal
+
+
+未完成式－3單陽יִגַּשׁ
+出24:14
+；יִגָּשׁ
+詩91:7
+。3複陽יִגְּשׁוּ
+賽41:1
+；יִגָּשׁוּ
+出24:2
+；יִגַּשׁוּ
+伯41:16
+。2單陽תִּגַּשׁ
+賽65:5
+。2複陽תִּגַּשׁוּ
+結9:6
+。敘述式3單陽וַיִּגַּשׁ
+創18:23
+。敘述式3單陰וַתִּגַּשׁ
+創33:7
+。敘述式3複陽וַיִּגְּשׁוּ
+耶42:1
+。敘述式3複陰וַתִּגַּשְׁןָ
+創33:6
+。祈願式3單陽יִגַּשׁ
+賽50:8
+。祈願式3複陽יִגְּשׁוּ
+結44:13
+。
+
+
+
+祈使式－單陽גַּשׁ
+撒下1:15
+；גֶּשׁ
+創19:9
+；גְּשָׁה
+創27:21
+。單陰גֹּשִׁי
+得2:14
+。複陽גְּשׁוּ
+創45:4
+。
+
+
+
+不定詞－介לְ+附屬形לָגֶשֶׁת
+士20:23
+。附屬形3單陽詞尾גִּשְׁתּוֹ
+創33:3
+。附屬形3複陽詞尾גִשְׁתָּם
+出28:43
+。
+
+
+
+1.
+拉近
+、
+近前來
+：
+
+
+A. 主詞：人。接אֶל＋人：
+接近
+人，
+創27:22
+
+43:19
+
+44:18
+
+45:4
+；
+親近
+女人，
+出19:15
+（指性行為）；
+出24:2
+
+民32:16
+
+書14:6
+
+出34:30
+
+書21:1
+。擬人化：指瘟疫，這災卻不得
+臨近
+你，
+詩91:7
+。祭司職事：祭司
+親近
+耶和華，
+結44:13
+，比較
+耶30:21
+b；接אֶל＋祭壇，
+出28:43
+
+30:20
+
+利21:23
+；以及獨立用法，
+利21:21
+；接עַד＋人，עַד-אָחִיו
+就近
+他哥哥，
+創33:3
+；＋事物，挨近
+樓門
+，
+士9:52
+；עַל＋人，凡有記號的人不要
+挨近
+他，
+結9:6
+；＋物，
+挨近
+聖物，
+結44:13
+；בְּ＋人，
+賽65:5
+；接לַמִּלְחָמָה（戰爭），上去打仗，
+士20:23
+
+耶46:3
+
+撒下10:13
+＝
+代上19:14
+；後接人作受詞，
+撒上9:18
+
+撒上30:21
+；＋事物受詞，
+民4:19
+；接副詞הֲלֹם，
+上
+這裡
+來
+，
+撒上14:38
+
+得2:14
+；獨立用法，
+創18:23
+
+27:21
+
+29:10
+
+33:6,7
+
+45:4
+
+出24:2
+
+書8:11
+
+創27:26,27
+
+書3:9
+
+撒下1:15
+
+代下29:31
+
+創19:9
+
+利21:21
+
+王下4:27
+。特別注意：
+創19:9
+גֶּשׁ־הָלְאָה字面意思是
+走近
+那裡！即
+走開！滾開！
+比較גְּשָׁה־לִּי וְאֵשֵׁבָה請
+靠近
+我，好讓我可以居住，
+賽49:20
+。
+
+
+
+B. 主詞：無生命的。
+互相緊靠
+，指鱷魚的鱗甲אֶחָד בְּאֶחָד יִגַּשׁוּ
+一一相連
+，
+伯41:16
+。
+
+
+
+
+
+二、Nifal
+
+
+完成式－3單陽נִגַּשׁ
+創33:7
+。3複נִגְּשׁוּ
+出34:32
+。2複陽נִגַּשְׁתֶּם
+撒下11:20,21
+。連續式3單陽וְנִגַּשׁ
+出24:2
+。連續式3單陰וְנִגְּשָׁה
+申25:9
+。連續式3複וְנִגְּשׁוּ
+申21:5
+。
+
+
+
+分詞－複陽נִגָּשִׁים
+出19:22
+。
+
+
+
+
+拉近
+、
+親近
+。接אֶל+人：
+接近
+人，
+申25:9
+
+王上20:13
+
+拉9:1
+。祭司
+親近
+耶和華，
+出19:22
+
+耶30:21
+；אֶל＋事物，אֶל-הָעֲרָפֶל幽暗之中，
+出20:21
+
+24:2
+；
+挨近
+城牆，
+撒下11:20,21
+；וְנִגְּשׁוּ אֶל-הַמִּשְׁפָּט
+來
+聽審判，
+申25:1
+；接בְּ，耕種的必
+接續
+收割的，
+摩9:13
+；לַמִּלְחָמָה戰爭，
+前來
+要打，
+撒上7:10
+；獨立用法，
+創33:7
+
+申20:2
+
+21:5
+
+出34:32
+；比喻敬拜的態度，百姓用他的口
+親近
+我，
+賽29:13
+。
+
+
+
+三、Hifil
+
+
+完成式－3複הִגִּישׁוּ
+撒下17:29
+。2複陽הִגַּשְׁתֶּם
+摩5:25
+。連續式3單陽3單陽詞尾וְהִגִּישׁוֹ
+出21:6,6
+。連續式3單陽3單陰詞尾וְהִגִּישָׁהּ
+利2:8
+。
+
+
+
+未完成式－3單陽יַגֵּשׁ
+伯40:19
+。3單陰תַגִּישׁ
+摩9:10
+。3複陽יַגִּישׁוּ
+賽41:22
+（有祈願的意涵）。2複陽+古代的詞尾תַגִּשׁוּן , ן
+瑪1:8
+。2複陽תַגִּישׁוּ
+瑪1:8
+。敘述式3單陽וַיַּגֶּשׁ
+創27:25
+；וַיַּגַּשׁ
+士6:19
+。敘述式3單陰וַתַּגֵּשׁ
+撒上28:25
+
+撒下13:11
+。敘述式3複陽וַיַּגִּשׁוּ
+出32:6
+。敘述式2複陽+古代的詞尾וַתַּגִּישׁוּן , ן
+摩6:3
+。
+
+
+
+祈使式－單陽הַגִּשָׁה
+創27:25
+。複陽הַגִּשׁוּ
+撒上13:9
+。
+
+
+
+分詞－單陽מַגִּישׁ
+瑪2:12
+。複陽מַגִּישִׁים
+瑪1:7
+。複陽附屬形מַגִּישֵׁי
+瑪3:3
+。
+
+
+
+
+帶近
+、
+使靠近
+、
+獻上
+。接אֶל，通常受詞是物，少數是人：把人
+帶到
+…，
+創48:10,13
+
+出21:6,6
+
+撒上15:32
+
+撒下13:11
+（接不定詞表目的）；
+王下4:5,6
+；後接אֶל-הַמִּזְבֵּחַ
+帶到
+壇前，
+利2:8
+；עַל-מִזְבְּחִי
+獻
+在我的壇上，
+瑪1:7
+；接לְ＋人，
+創27:25,25
+
+撒上30:7
+
+撒下17:29
+。獻祭，
+摩5:25
+
+瑪2:12
+
+3:3
+。לִפְנֵי在人前，
+撒上28:25
+
+代下29:23
+；無介系詞，
+出32:6
+
+撒上14:18,34
+
+23:9
+
+30:7
+
+士6:19
+
+摩6:3
+
+王上4:21
+
+利8:14
+；לִזְבֹּחַ獻祭牲，
+瑪1:8,8
+。比喻用法（呈上案件或證據）：
+賽41:21
+（平行詞קָרַב呈獻）；
+賽41:22
+
+45:21
+；הָעֹשׂוֹ יַגֵּשׁ חַרְבּוֹ創造牠的
+給
+牠刀劍，
+伯40:19
+；災禍必
+追
+不
+上
+我們，
+摩9:10
+。
+
+
+
+
+四、Hofal
+靠近
+。
+
+
+完成式－3複לֹא־לִנְחֻשְׁתַּיִם הֻגָּשׁוּ未曾被腳鐐
+鎖住
+，
+撒下3:34
+。
+
+
+
+分詞－單陽מֻגָּשׁ לִשְׁמִי奉我的名
+燒
+香，
+瑪1:11
+。
+
+
+
+
+五、Hitpael
+拉近
+。
+
+
+祈使式－複陽הִתְנַגְּשׁוּ聚集
+前
+來，
+賽45:20
+。*
+
+
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+05066 nagash {naw-gash'}
+
+a primitive root; TWOT - 1297; v
+
+AV - (come, draw, etc)..near 55, come 14, (come, draw, etc)..nigh 12,
+bring 13, ... hither 7, offer 7, approach 5, forth 3, misc 9; 125
+
+1) to draw near, approach
+1a) (Qal) to draw or come near
+1a1) of humans
+1a1a) of sexual intercourse
+1a2) of inanimate subject
+1a2a) to approach one another
+1b) (Niphal) to draw near
+1c) (Hiphil) to cause to approach, bring near, bring
+1d) (Hophal) to be brought near
+1e) (Hithpael) to draw near
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>②英文定義：[字源] a primitive root;
+to be or come (causatively, bring ) near (for any purpose); euphemistically, to lie with a woman; as an enemy, to attack ; religious to worship ; causatively, to present ; figuratively, to adduce an argument; by reversal, to stand back</li></ul>
+<ul><li>③字根拆解：1) 拉近, 靠近
+1a) (Qal) 拉近或近前來
+1a1) 人的
+1a1a) 性關係的
+1a2) 無生命的
+1a2a) 彼此接近
+1b) (Niphal) 拉近
+1c) (Hiphil) 向前, 帶近, 帶
+1d) (Hophal) 挨進
+1e) (Hithpael) 拉近
+
+
+
+
+
+【5066】נָגַשׁ
+
+＜音譯＞nagash
+
+＜詞類＞動
+
+＜字義＞接近、靠近
+
+＜字源＞一原形字根
+
+＜　神出＞1297
+創18:23
+
+
+＜譯詞＞挨近14 近前來11 前來10 親近8 來6 就近6 獻5 到3 去4 帶3 上前2 上前來2 來見2 帶到2 拿1 拿過來2 牽2 給2 聲明2 臨近2 進2 進前來2 領2 來到1 出來1 前1 前進1 向前1 向前直往1 帶著1 往前1 拿來1 拿著1 接續1 擺1 燒1 牽了1 獻上1 獻給1 相連1 走到1 近1 退1 運了來1 遞1 鎖住1 陳明1 到...來1 上...來1 拿...來1 追...上1 (123)
+
+＜解釋＞
+
+
+一、Qal
+
+
+未完成式－3單陽יִגַּשׁ
+出24:14
+；יִגָּשׁ
+詩91:7
+。3複陽יִגְּשׁוּ
+賽41:1
+；יִגָּשׁוּ
+出24:2
+；יִגַּשׁוּ
+伯41:16
+。2單陽תִּגַּשׁ
+賽65:5
+。2複陽תִּגַּשׁוּ
+結9:6
+。敘述式3單陽וַיִּגַּשׁ
+創18:23
+。敘述式3單陰וַתִּגַּשׁ
+創33:7
+。敘述式3複陽וַיִּגְּשׁוּ
+耶42:1
+。敘述式3複陰וַתִּגַּשְׁןָ
+創33:6
+。祈願式3單陽יִגַּשׁ
+賽50:8
+。祈願式3複陽יִגְּשׁוּ
+結44:13
+。
+
+
+
+祈使式－單陽גַּשׁ
+撒下1:15
+；גֶּשׁ
+創19:9
+；גְּשָׁה
+創27:21
+。單陰גֹּשִׁי
+得2:14
+。複陽גְּשׁוּ
+創45:4
+。
+
+
+
+不定詞－介לְ+附屬形לָגֶשֶׁת
+士20:23
+。附屬形3單陽詞尾גִּשְׁתּוֹ
+創33:3
+。附屬形3複陽詞尾גִשְׁתָּם
+出28:43
+。
+
+
+
+1.
+拉近
+、
+近前來
+：
+
+
+A. 主詞：人。接אֶל＋人：
+接近
+人，
+創27:22
+
+43:19
+
+44:18
+
+45:4
+；
+親近
+女人，
+出19:15
+（指性行為）；
+出24:2
+
+民32:16
+
+書14:6
+
+出34:30
+
+書21:1
+。擬人化：指瘟疫，這災卻不得
+臨近
+你，
+詩91:7
+。祭司職事：祭司
+親近
+耶和華，
+結44:13
+，比較
+耶30:21
+b；接אֶל＋祭壇，
+出28:43
+
+30:20
+
+利21:23
+；以及獨立用法，
+利21:21
+；接עַד＋人，עַד-אָחִיו
+就近
+他哥哥，
+創33:3
+；＋事物，挨近
+樓門
+，
+士9:52
+；עַל＋人，凡有記號的人不要
+挨近
+他，
+結9:6
+；＋物，
+挨近
+聖物，
+結44:13
+；בְּ＋人，
+賽65:5
+；接לַמִּלְחָמָה（戰爭），上去打仗，
+士20:23
+
+耶46:3
+
+撒下10:13
+＝
+代上19:14
+；後接人作受詞，
+撒上9:18
+
+撒上30:21
+；＋事物受詞，
+民4:19
+；接副詞הֲלֹם，
+上
+這裡
+來
+，
+撒上14:38
+
+得2:14
+；獨立用法，
+創18:23
+
+27:21
+
+29:10
+
+33:6,7
+
+45:4
+
+出24:2
+
+書8:11
+
+創27:26,27
+
+書3:9
+
+撒下1:15
+
+代下29:31
+
+創19:9
+
+利21:21
+
+王下4:27
+。特別注意：
+創19:9
+גֶּשׁ־הָלְאָה字面意思是
+走近
+那裡！即
+走開！滾開！
+比較גְּשָׁה־לִּי וְאֵשֵׁבָה請
+靠近
+我，好讓我可以居住，
+賽49:20
+。
+
+
+
+B. 主詞：無生命的。
+互相緊靠
+，指鱷魚的鱗甲אֶחָד בְּאֶחָד יִגַּשׁוּ
+一一相連
+，
+伯41:16
+。
+
+
+
+
+
+二、Nifal
+
+
+完成式－3單陽נִגַּשׁ
+創33:7
+。3複נִגְּשׁוּ
+出34:32
+。2複陽נִגַּשְׁתֶּם
+撒下11:20,21
+。連續式3單陽וְנִגַּשׁ
+出24:2
+。連續式3單陰וְנִגְּשָׁה
+申25:9
+。連續式3複וְנִגְּשׁוּ
+申21:5
+。
+
+
+
+分詞－複陽נִגָּשִׁים
+出19:22
+。
+
+
+
+
+拉近
+、
+親近
+。接אֶל+人：
+接近
+人，
+申25:9
+
+王上20:13
+
+拉9:1
+。祭司
+親近
+耶和華，
+出19:22
+
+耶30:21
+；אֶל＋事物，אֶל-הָעֲרָפֶל幽暗之中，
+出20:21
+
+24:2
+；
+挨近
+城牆，
+撒下11:20,21
+；וְנִגְּשׁוּ אֶל-הַמִּשְׁפָּט
+來
+聽審判，
+申25:1
+；接בְּ，耕種的必
+接續
+收割的，
+摩9:13
+；לַמִּלְחָמָה戰爭，
+前來
+要打，
+撒上7:10
+；獨立用法，
+創33:7
+
+申20:2
+
+21:5
+
+出34:32
+；比喻敬拜的態度，百姓用他的口
+親近
+我，
+賽29:13
+。
+
+
+
+三、Hifil
+
+
+完成式－3複הִגִּישׁוּ
+撒下17:29
+。2複陽הִגַּשְׁתֶּם
+摩5:25
+。連續式3單陽3單陽詞尾וְהִגִּישׁוֹ
+出21:6,6
+。連續式3單陽3單陰詞尾וְהִגִּישָׁהּ
+利2:8
+。
+
+
+
+未完成式－3單陽יַגֵּשׁ
+伯40:19
+。3單陰תַגִּישׁ
+摩9:10
+。3複陽יַגִּישׁוּ
+賽41:22
+（有祈願的意涵）。2複陽+古代的詞尾תַגִּשׁוּן , ן
+瑪1:8
+。2複陽תַגִּישׁוּ
+瑪1:8
+。敘述式3單陽וַיַּגֶּשׁ
+創27:25
+；וַיַּגַּשׁ
+士6:19
+。敘述式3單陰וַתַּגֵּשׁ
+撒上28:25
+
+撒下13:11
+。敘述式3複陽וַיַּגִּשׁוּ
+出32:6
+。敘述式2複陽+古代的詞尾וַתַּגִּישׁוּן , ן
+摩6:3
+。
+
+
+
+祈使式－單陽הַגִּשָׁה
+創27:25
+。複陽הַגִּשׁוּ
+撒上13:9
+。
+
+
+
+分詞－單陽מַגִּישׁ
+瑪2:12
+。複陽מַגִּישִׁים
+瑪1:7
+。複陽附屬形מַגִּישֵׁי
+瑪3:3
+。
+
+
+
+
+帶近
+、
+使靠近
+、
+獻上
+。接אֶל，通常受詞是物，少數是人：把人
+帶到
+…，
+創48:10,13
+
+出21:6,6
+
+撒上15:32
+
+撒下13:11
+（接不定詞表目的）；
+王下4:5,6
+；後接אֶל-הַמִּזְבֵּחַ
+帶到
+壇前，
+利2:8
+；עַל-מִזְבְּחִי
+獻
+在我的壇上，
+瑪1:7
+；接לְ＋人，
+創27:25,25
+
+撒上30:7
+
+撒下17:29
+。獻祭，
+摩5:25
+
+瑪2:12
+
+3:3
+。לִפְנֵי在人前，
+撒上28:25
+
+代下29:23
+；無介系詞，
+出32:6
+
+撒上14:18,34
+
+23:9
+
+30:7
+
+士6:19
+
+摩6:3
+
+王上4:21
+
+利8:14
+；לִזְבֹּחַ獻祭牲，
+瑪1:8,8
+。比喻用法（呈上案件或證據）：
+賽41:21
+（平行詞קָרַב呈獻）；
+賽41:22
+
+45:21
+；הָעֹשׂוֹ יַגֵּשׁ חַרְבּוֹ創造牠的
+給
+牠刀劍，
+伯40:19
+；災禍必
+追
+不
+上
+我們，
+摩9:10
+。
+
+
+
+
+四、Hofal
+靠近
+。
+
+
+完成式－3複לֹא־לִנְחֻשְׁתַּיִם הֻגָּשׁוּ未曾被腳鐐
+鎖住
+，
+撒下3:34
+。
+
+
+
+分詞－單陽מֻגָּשׁ לִשְׁמִי奉我的名
+燒
+香，
+瑪1:11
+。
+
+
+
+
+五、Hitpael
+拉近
+。
+
+
+祈使式－複陽הִתְנַגְּשׁוּ聚集
+前
+來，
+賽45:20
+。*
+
+
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+05066 nagash {naw-gash'}
+
+a primitive root; TWOT - 1297; v
+
+AV - (come, draw, etc)..near 55, come 14, (come, draw, etc)..nigh 12,
+bring 13, ... hither 7, offer 7, approach 5, forth 3, misc 9; 125
+
+1) to draw near, approach
+1a) (Qal) to draw or come near
+1a1) of humans
+1a1a) of sexual intercourse
+1a2) of inanimate subject
+1a2a) to approach one another
+1b) (Niphal) to draw near
+1c) (Hiphil) to cause to approach, bring near, bring
+1d) (Hophal) to be brought near
+1e) (Hithpael) to draw near
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>④本書用法：全節第一個動作。CBOL 1a) 拉近、近前來，1c) 帶近、帶，百姓把「污穢的食物」往壇上「獻／帶近」；動詞前有 מַגִּישִׁים 第三複陽（分詞），主語是百姓</li></ul>
+<ul><li>⑤舊約根源：④本書用法：CBOL 1a1a) 性關係的（創18:23 亞伯拉罕近近　神），1a1) 人的｜1a2) 無生命的；＜　神出＞創 18:23，全舊約譯 123 次</li></ul>
+<ul><li>⑥和合本遗失：⑤舊約根源：和合本譯「將…獻在」；原文 1c) 帶近／1e) 拉近（結語體 Hithpael）那層「靠近」的動作感收走，獻上，本來是一個身體往前伸的動作</li></ul>
+<ul><li>⑦原文對照：⑥和合本遺失：⑦原文對照：【希臘/希伯來】נָגַשׁ　【音譯】nagash</li></ul>
+<ul><li>⑧語法補充：⑦原文對照：動詞・陽・單數；本節用 Hiphil（1c 向前、帶近、帶），主語是 3 複陽分詞 מַגִּישִׁים＝百姓；CBOL 五個語態中本節取 1c，不取 1a</li></ul>
+<ul><li>⑨經文對照：⑧語法補充：創 18:23（亞伯拉罕近近　神）｜民 21:5（百姓向前）｜書 9:5,12（獻餅）｜申 8:3｜出 16:3｜撒上 2:36（無花餅）｜詩 91:7</li></ul>
+<ul><li>⑪深意：⑨經文對照：獻上，本來是一個往前伸手的動作。</li></ul>
+<ul><li>⑫跨節鏈：靠近鏈：創 18:23（近近　神）→ 出 16:3（向前出埃及）→ 書 9:5,12（獻餅）→ 瑪 1:7（獻在壇上）→ 羅 12:1（將身體獻上）</li></ul></div></details>
+<details class="ntfold"><summary>H01351 — גָּאַל「棄絕、弄髒、褻瀆」</summary><div class="ntbody"><ul><li>①基本資料：H01351｜גָּאַל｜ga'al｜動詞｜出現defile, pollute, stain.</li></ul>
+<ul><li>②CBOL分類：1) 污穢, 污染, 玷污
+1a) (Niphal) 被污穢, 被污染
+1b) (Piel) 污染, 玷污
+1c) (Pual) 被算為不潔 (撤銷祭司職)
+1d) (Hiphil) 污染, 沾染
+1e) (Hithpael) 污穢自己 (
+但 1:8
+)
+
+
+
+
+
+【1351】גָּאַל
+
+＜音譯＞ga'al
+
+＜詞類＞動
+
+＜字義＞棄絕、弄髒、褻瀆
+
+＜字源＞一原形字根
+
+＜　神出＞301
+拉2:62
+
+
+＜譯詞＞污穢2 污穢的2 玷污自己2 算為不潔2 污染1 被...沾染1 被...玷污1 (11)
+
+＜解釋＞
+
+
+一、Nifal
+
+
+完成式－3複נְגֹאֲלוּ
+賽59:3
+
+哀4:14
+。
+
+
+
+分詞－單陰נִגְאָלָה
+番3:1
+。
+
+
+
+
+被玷污
+，手上沾滿בַּדָּם鮮血，
+賽59:3
+
+哀4:14
+；
+被污染的
+耶路撒冷，
+番3:1
+。
+
+
+
+
+二、Piel
+
+
+完成式－1複2單陽詞尾גֵאַלְנוּךָ
+污穢
+你，
+瑪1:7
+。
+
+
+
+
+三、Pual
+
+
+未完成式－敘述式3複陽וַיְגֹאֲלוּ מִן־הַכְּהֻנָּה
+算為不潔
+，不能供祭司的職任，
+拉2:62
+＝
+尼7:64
+。
+
+
+
+分詞－單陽מְגֹאָל
+污穢的
+食物，
+瑪1:7,12
+。
+
+
+
+
+四、Hifil完成式－1單אֶגְאָלְתִּי
+污染
+了我，
+賽63:3
+。
+
+
+
+五、Hitpael
+
+
+未完成式－3單陽יִתְגָּאַל
+玷污自己
+，
+但1:8,8
+。*
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+01351 ga'al {gaw-al'}
+
+a primitive root; TWOT - 301; v
+
+AV - pollute 7, defile 3, stain 1; 11
+
+1) to defile, pollute, desecrate
+1a) (Niphal) to be defiled, be polluted
+1b) (Piel) to pollute, desecrate
+1c) (Pual) to be desecrated (of removal from priesthood)
+1d) (Hiphil) to pollute, stain
+1e) (Hithpael) to defile oneself
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>②英文定義：[字源] a primitive root, (rather identified with 1350 , through the idea of freeing , i.e. repudiating );
+to soil or (figuratively) desecrate</li></ul>
+<ul><li>③字根拆解：1) 污穢, 污染, 玷污
+1a) (Niphal) 被污穢, 被污染
+1b) (Piel) 污染, 玷污
+1c) (Pual) 被算為不潔 (撤銷祭司職)
+1d) (Hiphil) 污染, 沾染
+1e) (Hithpael) 污穢自己 (
+但 1:8
+)
+
+
+
+
+
+【1351】גָּאַל
+
+＜音譯＞ga'al
+
+＜詞類＞動
+
+＜字義＞棄絕、弄髒、褻瀆
+
+＜字源＞一原形字根
+
+＜　神出＞301
+拉2:62
+
+
+＜譯詞＞污穢2 污穢的2 玷污自己2 算為不潔2 污染1 被...沾染1 被...玷污1 (11)
+
+＜解釋＞
+
+
+一、Nifal
+
+
+完成式－3複נְגֹאֲלוּ
+賽59:3
+
+哀4:14
+。
+
+
+
+分詞－單陰נִגְאָלָה
+番3:1
+。
+
+
+
+
+被玷污
+，手上沾滿בַּדָּם鮮血，
+賽59:3
+
+哀4:14
+；
+被污染的
+耶路撒冷，
+番3:1
+。
+
+
+
+
+二、Piel
+
+
+完成式－1複2單陽詞尾גֵאַלְנוּךָ
+污穢
+你，
+瑪1:7
+。
+
+
+
+
+三、Pual
+
+
+未完成式－敘述式3複陽וַיְגֹאֲלוּ מִן־הַכְּהֻנָּה
+算為不潔
+，不能供祭司的職任，
+拉2:62
+＝
+尼7:64
+。
+
+
+
+分詞－單陽מְגֹאָל
+污穢的
+食物，
+瑪1:7,12
+。
+
+
+
+
+四、Hifil完成式－1單אֶגְאָלְתִּי
+污染
+了我，
+賽63:3
+。
+
+
+
+五、Hitpael
+
+
+未完成式－3單陽יִתְגָּאַל
+玷污自己
+，
+但1:8,8
+。*
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+01351 ga'al {gaw-al'}
+
+a primitive root; TWOT - 301; v
+
+AV - pollute 7, defile 3, stain 1; 11
+
+1) to defile, pollute, desecrate
+1a) (Niphal) to be defiled, be polluted
+1b) (Piel) to pollute, desecrate
+1c) (Pual) to be desecrated (of removal from priesthood)
+1d) (Hiphil) to pollute, stain
+1e) (Hithpael) to defile oneself
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>④本書用法：第二個動作，是百姓的辯解。CBOL 1b) 污染、玷污（Piel 使動），他們主動把「污穢」加在　神身上；原文是完成式 2 單陽詞尾 גֵאַלְנוּךָ「（我們）污穢了你」，瑪 1:7 正是此義</li></ul>
+<ul><li>⑤舊約根源：④本書用法：CBOL 1a) 被污穢、1b) 污染、1c) 被算為不潔（撤銷祭司職）；＜解釋＞二、Piel 完成式 1 複 2 單陽詞尾 גֵאַלְנוּךָ「污穢你，瑪 1:7」；＜　神出＞拉 2:62，全舊約譯 11 次</li></ul>
+<ul><li>⑥和合本遗失：⑤舊約根源：譯「污穢」；CBOL 1c) 被算為不潔、撤銷祭司職那層收走，他們不只說食物髒，是說這張桌子已經算不得為　神的桌子</li></ul>
+<ul><li>⑦原文對照：⑥和合本遺失：⑦原文對照：【希臘/希伯來】גָּאַל　【音譯】ga'al</li></ul>
+<ul><li>⑧語法補充：⑦原文對照：動詞・陽・單數；本節用 Piel（1b 污染、玷污），完成式 2 單陽＋2 單陽詞尾，直接以 ךָ「你」為賓語；CBOL 1a) 1c) 1d) 1e) 四層本節不取</li></ul>
+<ul><li>⑨經文對照：⑧語法補充：賽 59:3（耶路撒冷被玷污）｜哀 4:14（手上沾滿鮮血）｜番 3:1（被污染的耶路撒冷）｜拉 2:62（算為不潔，不能供祭司的職任）｜尼 7:64</li></ul>
+<ul><li>⑪深意：⑨經文對照：他們不是問祭物哪裡不對，是反問　神：明明是祢說的，我們哪裡錯了。</li></ul>
+<ul><li>⑫跨節鏈：污穢鏈：創 3:16（女人被污穢）→ 拉 2:62（算為不潔）→ 賽 59:3（被玷污）→ 瑪 1:7（污穢你）→ 來 10:29（我們的罪孽）</li></ul></div></details>
+<details class="ntfold"><summary>H03899 — לֶחֶם「食物、尤指餅或穀物」</summary><div class="ntbody"><ul><li>①基本資料：H03899｜לֶחֶם｜lechem｜名詞｜出現(shew-) bread, × eat, food, fruit, loaf, meat, victuals.</li></ul>
+<ul><li>②CBOL分類：1) 麵包, 食物
+1a) 麵包
+1a1) 麵包
+1a2) 穀物 (麵包的材料)
+1b) 食物 (一般而言)
+
+
+
+
+
+【3899】לֶחֶם
+
+＜音譯＞lechem
+
+＜詞類＞名、陽
+
+＜字義＞食物、尤指餅或穀物
+
+＜字源＞來自
+SH3898
+
+
+＜　神出＞1105a
+創3:19
+
+
+＜譯詞＞餅87 食物61 飯57 糧食34 糧14 食11 吃3 飲食3 俸祿2 甚麼2 果子1 筵席1 聖物1 餬口1 麵餅1 (279)
+
+＜解釋＞
+
+
+單陽לֶחֶם
+創3:19
+；לָחֶם
+創31:54
+。單陽附屬形לֶחֶם
+何9:4
+。單陽3單陽詞尾לַחְמוֹ
+賽21:14
+。單陽3單陰詞尾לַחְמָהּ
+詩147:9
+。單陽3複陽詞尾לַחְמָם
+何9:4
+。單陽2單陽詞尾לַחְמְךָ
+俄1:7
+。單陽2複陽詞尾לַחְמְכֶם
+利26:5
+。單陽1單詞尾לַחְמִי
+伯3:24
+。單陽1複詞尾לַחְמֵנוּ
+民14:9
+。
+
+
+
+一、麵包：
+
+
+1. 普通
+麵包
+，日常食物的一部分，
+民21:5
+
+書9:5,12
+
+申8:3
+
+23:4
+
+出16:3
+；כִכַּר־לָחֶם一個圓形的
+餅
+，撒上2:36|；無כִּכָּר（圓形的，כִּכָּר常與數字連用），
+撒上2:36
+
+10:4
+
+16:20
+
+17:17
+
+21:4
+
+25:18
+
+撒下16:1
+
+王上14:3
+
+王下4:42
+；חַלַּת לֶחֶם一塊
+餅
+，
+撒下6:19
+
+出29:23
+。用大麥（שְׂעֹרִים）做的餅，
+士7:13
+
+王下4:42
+；用細麥麵（סֹלֶת חִטִּים）做的，
+出29:2
+；混合做的，
+結4:9
+；烤的，
+賽44:15,19
+
+利26:26
+；פַּת-לָחֶם一點
+餅
+，
+撒上2:36
+
+王上17:11
+
+箴28:21
+
+結13:19
+；作為熱情款待卻語氣謙虛的膳食，
+創18:5
+
+士19:5
+
+撒上28:22
+；有別於肉食，
+創27:17
+
+撒上25:11
+
+王上17:6
+
+出16:8,12
+
+29:32,34
+
+利8:31
+
+23:18
+
+代上12:40
+
+詩78:20
+
+但10:3
+；＝一頓
+飯
+，
+撒上20:27
+；לֶאֱכָל-לָחֶם吃
+飯
+，
+創31:54,54
+
+37:25
+
+43:25,32
+；אוֹכֵל לַחְמִי吃過我
+飯
+的，
+詩41:9
+
+俄1:7
+；עֹשִׂים לֶחֶם
+傳10:19
+；מַטֵּה-לֶחֶם
+糧食
+的杖（維持生命的支撐），
+結4:16
+
+5:16
+
+14:13
+
+利26:26
+
+詩105:16
+；מִשְׁעַן-לֶחֶם倚靠的
+糧食
+，
+賽3:1
+；לֶחֶם חָמֵץ有酵的
+餅
+，
+利7:13
+；לֶחֶם מַצּוֹת無酵
+餅
+，
+出29:2
+；從耶和華面前撤下來的供
+餅
+，陳設
+餅
+，
+撒上21:6
+
+王上7:48
+
+代下4:19
+
+出25:30
+
+35:13
+
+39:36
+；לֶחֶם הַתָּמִיד常設的
+餅
+，
+民4:7
+；לֶחֶם קֹדֶשׁ聖
+餅
+，
+撒上21:4
+；לֶחֶם הַמַּעֲרָכֶת陳設
+餅
+，
+代上9:32
+
+23:29
+
+尼10:33
+；מַעֲרֶכֶת לֶחֶם陳設
+餅
+，
+代下13:11
+；相反於לֶחֶם חֹל普通的
+餅
+，
+撒上21:4
+；לֶחֶם תְּנוּפָה搖祭的
+餅
+，
+利23:17
+；לֶחֶם הַבִּכּוּרִים初熟的
+餅
+，
+利23:20
+；初熟大麥做的
+餅
+，
+王下4:42
+。
+
+
+
+2. 用來製作麵包的
+穀物
+，如大麥、小麥等。
+飯
+，
+創41:54,55
+
+47:12,13,15,17,19
+
+賽28:28
+
+30:23
+
+55:10
+
+耶5:17
+
+結48:18
+
+伯28:5
+
+箴28:3
+
+詩104:14
+。לֶּחֶם הָאָרֶץ那地的
+糧食
+，
+民15:19
+；אֶרֶץ לֶחֶם
+糧食
+之地，
+王下18:32
+＝
+賽36:17
+。
+
+
+
+
+二、日常食物：
+
+
+1. 人的：
+士13:16
+
+撒上14:24,24,28
+
+30:12
+
+箴22:9
+
+27:27
+（山羊奶）；נֹתֵן לֶחֶם לְכָל-בָּשָׂר他賜
+糧食
+給凡有血氣的，
+詩136:25
+。
+
+
+
+2. 動物的：
+箴6:8
+
+30:25
+
+伯24:5
+
+詩147:9
+。
+
+
+
+3. 　神的（祭牲）：לֶחֶם אֱלֹהֵיהֶם　神的
+食物
+，
+利21:6,8,17,21,22,25
+
+民28:2
+
+結16:19
+
+44:7
+；לֶחֶם מְגֹאָל污穢的
+食物
+，
+瑪1:7
+；לֶחֶם אִשֶּׁה
+食物
+火祭，
+利3:11,16
+
+民28:24
+。
+
+
+
+
+三、片語與比喻性用法：לָחֲמוּ לֶחֶם רֶשַׁע以奸惡吃
+餅
+，
+箴4:17
+（לָחֲמוּ לֶחֶם是動詞與同源受詞的結構）；לֶחֶם שָׁקֶר以虛假而得的
+食物
+，
+箴20:17
+；לֶחֶם כְּזָבִים哄人的
+食物
+，
+箴23:3
+；לֶחֶם עַצְלוּת閒
+飯
+，
+箴31:27
+＝懶惰之餅；לֶחֶם חֻקִּי需用的
+飲食
+，
+箴30:8
+；לֶחֶם לַחַץ吃困苦
+餅
+，
+王上22:27
+
+代下18:26
+；לֶחֶם הָעֲצָבִים勞苦得來的
+飯
+，
+詩127:2
+；לֶחֶם אֲנָשִׁים弔喪的
+食物
+，
+結24:17,22
+；שַׁלַּח לַחְמְךָ עַל-פְּנֵי הַמָּיִם當將你的
+糧食
+撒在水面，
+傳11:1
+
+箴31:14
+。
+
+
+
+四、比喻用法：לַחְמֵנוּ הֵם他們是我們的
+食物
+，
+民14:9
+；דִמְעָתִי לֶחֶם以眼淚當
+飲食
+，
+詩42:3
+
+80:5
+。指惡人的行為，他的
+食物
+在肚裡，
+伯20:14
+；עֵץ בְּלַחְמוֹ把樹連
+果子
+都滅了，
+耶11:19
+。
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+03899 lechem {lekh'-em}
+
+from
+03898
+; TWOT - 1105a; n m
+
+AV - bread 237, food 21, meat 18, shewbread + 06440 5, loaves 5,
+shewbread + 04635 3, shewbread 2, victuals 2, eat 1, feast 1,
+fruit 1, provision 1; 297
+
+1) bread, food, grain
+1a) bread
+1a1) bread
+1a2) bread-corn
+1b) food (in general)
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>②英文定義：[字源] from 3898 ; See also 1036
+food (for man or beast), especially bread , or grain (for making it)</li></ul>
+<ul><li>③字根拆解：1) 麵包, 食物
+1a) 麵包
+1a1) 麵包
+1a2) 穀物 (麵包的材料)
+1b) 食物 (一般而言)
+
+
+
+
+
+【3899】לֶחֶם
+
+＜音譯＞lechem
+
+＜詞類＞名、陽
+
+＜字義＞食物、尤指餅或穀物
+
+＜字源＞來自
+SH3898
+
+
+＜　神出＞1105a
+創3:19
+
+
+＜譯詞＞餅87 食物61 飯57 糧食34 糧14 食11 吃3 飲食3 俸祿2 甚麼2 果子1 筵席1 聖物1 餬口1 麵餅1 (279)
+
+＜解釋＞
+
+
+單陽לֶחֶם
+創3:19
+；לָחֶם
+創31:54
+。單陽附屬形לֶחֶם
+何9:4
+。單陽3單陽詞尾לַחְמוֹ
+賽21:14
+。單陽3單陰詞尾לַחְמָהּ
+詩147:9
+。單陽3複陽詞尾לַחְמָם
+何9:4
+。單陽2單陽詞尾לַחְמְךָ
+俄1:7
+。單陽2複陽詞尾לַחְמְכֶם
+利26:5
+。單陽1單詞尾לַחְמִי
+伯3:24
+。單陽1複詞尾לַחְמֵנוּ
+民14:9
+。
+
+
+
+一、麵包：
+
+
+1. 普通
+麵包
+，日常食物的一部分，
+民21:5
+
+書9:5,12
+
+申8:3
+
+23:4
+
+出16:3
+；כִכַּר־לָחֶם一個圓形的
+餅
+，撒上2:36|；無כִּכָּר（圓形的，כִּכָּר常與數字連用），
+撒上2:36
+
+10:4
+
+16:20
+
+17:17
+
+21:4
+
+25:18
+
+撒下16:1
+
+王上14:3
+
+王下4:42
+；חַלַּת לֶחֶם一塊
+餅
+，
+撒下6:19
+
+出29:23
+。用大麥（שְׂעֹרִים）做的餅，
+士7:13
+
+王下4:42
+；用細麥麵（סֹלֶת חִטִּים）做的，
+出29:2
+；混合做的，
+結4:9
+；烤的，
+賽44:15,19
+
+利26:26
+；פַּת-לָחֶם一點
+餅
+，
+撒上2:36
+
+王上17:11
+
+箴28:21
+
+結13:19
+；作為熱情款待卻語氣謙虛的膳食，
+創18:5
+
+士19:5
+
+撒上28:22
+；有別於肉食，
+創27:17
+
+撒上25:11
+
+王上17:6
+
+出16:8,12
+
+29:32,34
+
+利8:31
+
+23:18
+
+代上12:40
+
+詩78:20
+
+但10:3
+；＝一頓
+飯
+，
+撒上20:27
+；לֶאֱכָל-לָחֶם吃
+飯
+，
+創31:54,54
+
+37:25
+
+43:25,32
+；אוֹכֵל לַחְמִי吃過我
+飯
+的，
+詩41:9
+
+俄1:7
+；עֹשִׂים לֶחֶם
+傳10:19
+；מַטֵּה-לֶחֶם
+糧食
+的杖（維持生命的支撐），
+結4:16
+
+5:16
+
+14:13
+
+利26:26
+
+詩105:16
+；מִשְׁעַן-לֶחֶם倚靠的
+糧食
+，
+賽3:1
+；לֶחֶם חָמֵץ有酵的
+餅
+，
+利7:13
+；לֶחֶם מַצּוֹת無酵
+餅
+，
+出29:2
+；從耶和華面前撤下來的供
+餅
+，陳設
+餅
+，
+撒上21:6
+
+王上7:48
+
+代下4:19
+
+出25:30
+
+35:13
+
+39:36
+；לֶחֶם הַתָּמִיד常設的
+餅
+，
+民4:7
+；לֶחֶם קֹדֶשׁ聖
+餅
+，
+撒上21:4
+；לֶחֶם הַמַּעֲרָכֶת陳設
+餅
+，
+代上9:32
+
+23:29
+
+尼10:33
+；מַעֲרֶכֶת לֶחֶם陳設
+餅
+，
+代下13:11
+；相反於לֶחֶם חֹל普通的
+餅
+，
+撒上21:4
+；לֶחֶם תְּנוּפָה搖祭的
+餅
+，
+利23:17
+；לֶחֶם הַבִּכּוּרִים初熟的
+餅
+，
+利23:20
+；初熟大麥做的
+餅
+，
+王下4:42
+。
+
+
+
+2. 用來製作麵包的
+穀物
+，如大麥、小麥等。
+飯
+，
+創41:54,55
+
+47:12,13,15,17,19
+
+賽28:28
+
+30:23
+
+55:10
+
+耶5:17
+
+結48:18
+
+伯28:5
+
+箴28:3
+
+詩104:14
+。לֶּחֶם הָאָרֶץ那地的
+糧食
+，
+民15:19
+；אֶרֶץ לֶחֶם
+糧食
+之地，
+王下18:32
+＝
+賽36:17
+。
+
+
+
+
+二、日常食物：
+
+
+1. 人的：
+士13:16
+
+撒上14:24,24,28
+
+30:12
+
+箴22:9
+
+27:27
+（山羊奶）；נֹתֵן לֶחֶם לְכָל-בָּשָׂר他賜
+糧食
+給凡有血氣的，
+詩136:25
+。
+
+
+
+2. 動物的：
+箴6:8
+
+30:25
+
+伯24:5
+
+詩147:9
+。
+
+
+
+3. 　神的（祭牲）：לֶחֶם אֱלֹהֵיהֶם　神的
+食物
+，
+利21:6,8,17,21,22,25
+
+民28:2
+
+結16:19
+
+44:7
+；לֶחֶם מְגֹאָל污穢的
+食物
+，
+瑪1:7
+；לֶחֶם אִשֶּׁה
+食物
+火祭，
+利3:11,16
+
+民28:24
+。
+
+
+
+
+三、片語與比喻性用法：לָחֲמוּ לֶחֶם רֶשַׁע以奸惡吃
+餅
+，
+箴4:17
+（לָחֲמוּ לֶחֶם是動詞與同源受詞的結構）；לֶחֶם שָׁקֶר以虛假而得的
+食物
+，
+箴20:17
+；לֶחֶם כְּזָבִים哄人的
+食物
+，
+箴23:3
+；לֶחֶם עַצְלוּת閒
+飯
+，
+箴31:27
+＝懶惰之餅；לֶחֶם חֻקִּי需用的
+飲食
+，
+箴30:8
+；לֶחֶם לַחַץ吃困苦
+餅
+，
+王上22:27
+
+代下18:26
+；לֶחֶם הָעֲצָבִים勞苦得來的
+飯
+，
+詩127:2
+；לֶחֶם אֲנָשִׁים弔喪的
+食物
+，
+結24:17,22
+；שַׁלַּח לַחְמְךָ עַל-פְּנֵי הַמָּיִם當將你的
+糧食
+撒在水面，
+傳11:1
+
+箴31:14
+。
+
+
+
+四、比喻用法：לַחְמֵנוּ הֵם他們是我們的
+食物
+，
+民14:9
+；דִמְעָתִי לֶחֶם以眼淚當
+飲食
+，
+詩42:3
+
+80:5
+。指惡人的行為，他的
+食物
+在肚裡，
+伯20:14
+；עֵץ בְּלַחְמוֹ把樹連
+果子
+都滅了，
+耶11:19
+。
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+03899 lechem {lekh'-em}
+
+from
+03898
+; TWOT - 1105a; n m
+
+AV - bread 237, food 21, meat 18, shewbread + 06440 5, loaves 5,
+shewbread + 04635 3, shewbread 2, victuals 2, eat 1, feast 1,
+fruit 1, provision 1; 297
+
+1) bread, food, grain
+1a) bread
+1a1) bread
+1a2) bread-corn
+1b) food (in general)
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>④本書用法：全節的爭議物。CBOL 1a1) 麵包、1a2) 穀物（麵包的材料）、1b) 食物（一般而言），他們獻上的是「食物」，而 1a2) 那層正指向壇上應該是「無酵餅」與「陳麵餅」的分別</li></ul>
+<ul><li>⑤舊約根源：④本書用法：CBOL ＜解釋＞一、麵包：1. 普通麵包，出 16:3、民 21:5、書 9:5,12、申 8:3；כִכַּר־לָחֶם 一個圓形的餅，撒上 2:36；＜　神出＞創 3:19（Adam 靠手口勞力得食），全舊約譯 279 次</li></ul>
+<ul><li>⑥和合本遗失：⑤舊約根源：譯「食物」；原文 1a1) 麵包、1a2) 穀物那兩層收走，聖殿的餅是有形狀、有大小、有備製規定的，不是泛指「食物」</li></ul>
+<ul><li>⑦原文對照：⑥和合本遺失：⑦原文對照：【希臘/希伯來】לֶחֶם　【音譯】lechem</li></ul>
+<ul><li>⑧語法補充：⑦原文對照：名詞・陽・單數，無冠，位於介詞 עַל「在……上」之後、מִזְבְּחִי「我的壇上」之前作受詞；本節取 CBOL 1a1) 不用 1b) 泛稱</li></ul>
+<ul><li>⑨經文對照：</li></ul>
+<ul><li>⑪深意：⑨經文對照：　神要的不是「有東西擺上去」，是照祂定的做。</li></ul>
+<ul><li>⑫跨節鏈：餅鏈：創 3:19（勞力得食）→ 出 16:3（天降嗎哪）→ 民 15:21（獻餅不以為壇主）→ 瑪 1:7（污穢的食物）→ 林前 5:7（我們的逾越節羔羊）</li></ul></div></details>
+<details class="ntfold"><summary>H04196 — מִזְבֵּחַ「祭壇」</summary><div class="ntbody"><ul><li>①基本資料：H04196｜מִזְבֵּחַ｜mizbeach｜名詞｜出現altar.</li></ul>
+<ul><li>②CBOL分類：1) 祭壇
+
+
+
+
+
+【4196】מִזְבֵּחַ
+
+＜音譯＞mizbeach
+
+＜詞類＞名、陽
+
+＜字義＞祭壇
+
+＜字源＞來自
+SH2076
+
+
+＜　神出＞525b
+創8:20
+
+
+＜譯詞＞壇358 祭壇42 (400)
+
+＜解釋＞
+
+
+單陽מִזְבֵּחַ
+王下18:22
+。單陽+表示方向的מִזְבֵּחָה , ָה
+出29:13
+。單陽附屬形מִזְבַּח
+出20:24
+。單陽3單陽詞尾מִזְבְּחוֹ
+士6:31
+。單陽2單陽詞尾מִזְבַּחֲךָ
+王上8:31
+；מִזְבְּחֶךָ
+申33:10
+。單陽1單詞尾מִזְבְּחִי
+出20:26
+。複陰מִזְבְּחֹת
+民23:1
+
+王下21:3
+。複陽3單陽詞尾מִזְבְּחֹתָו
+王下11:18
+。複陽3複陽詞尾מִזְבְּחֹתָם
+出34:13
+。複陽2單陽詞尾מִזְבְּחוֹתֶיךָ
+詩84:3
+。複陽2複陽詞尾מִזְבְּחוֹתֵיכֶם
+結6:4
+。
+
+
+
+一、挪亞出方舟後所築的第一個祭壇，
+創8:20
+；亞伯蘭在示劍築的，
+創12:7
+；伯特利，
+創12:8
+；希伯倫，
+創13:18
+；摩利亞地，
+創22:9
+；以撒在別是巴築的，
+創26:25
+；雅各在伯特利築的，
+創世記35:7
+；摩西為感謝　神使他得勝築的並紀念　神的權能，在利非訂築的，
+出17:15
+，在西乃山，
+出24:4
+；巴蘭要求巴勒在毗斯迦山和毗珥山頂築七座壇，
+民23:1,14,29
+；約書亞在以巴路山築的，
+書8:30
+；基甸在俄弗拉築的，
+士6:24
+；一個　神人在伯特利，
+士21:4
+；撒母耳在拉瑪築的，
+撒上7:17
+；掃羅在亞雅侖築的，
+撒上14:35
+；大衛在阿珥楠的禾場上築的，
+撒下24:25
+＝
+代上21:18
+
+22:1
+；所羅門在基遍築的，
+王上3:4
+，又在耶路撒冷，
+王上6:20
+
+8:64
+；耶羅波安在伯特利築的，
+王上12:32
+；以利亞在迦密山修復了一座古老的祭壇，
+王上18：30
+。
+
+
+
+二、流便人、迦得人和瑪拿西半支派的人在約旦河東建造了一座大祭壇，
+書22:10-34
+，這座祭壇並非用來獻祭，但其目的僅為作見證。在祭司文獻上詳細描述了兩種主要的祭壇：
+
+
+1. מִזְבַּח הָעֹלָה燔祭
+壇
+：
+出30:28
+
+31:9
+
+35:16
+
+38:1
+
+40:6,10,29
+
+利4:7,10,25,25,34
+＝מִכְבַּר הַנְּחֹשֶׁת銅
+壇
+，
+出38:30
+
+39:39
+。這座壇用皂莢木製成，外面包上銅，長、寬皆為五肘，高為三肘。它有四個角和一個銅製的網子，所有用火獻的祭物都獻在其上，
+出27:1,8
+
+38:1-7
+。
+
+
+
+2. מִזְבֵּחַ מִקְטַר קְטֹרֶת燒香的
+壇
+，要用皂莢木做，外面包上金，長、寬皆為一肘，高為二肘，有四個角和金冠，
+出30:1-6
+＝מִזְבַּח הַקְּטֹרֶת香
+壇
+，
+出30:27
+
+31:8
+
+35:15
+
+37:25
+＝מִזְבַּח הַזָּהָב金
+壇
+，
+出39:38
+
+40:5,26
+
+民4:11
+＝מִזְבַּח קְטֹרֶת הַסַּמִּים香
+壇
+，
+利4:7
+；這些祭壇在其他經文中僅出現在歷代志：
+代上6:49
+
+16:40
+
+21:29
+
+代下1:5,6
+。
+
+
+
+
+三、所羅門在耶路撒冷的聖殿築了兩座祭壇：
+
+
+1. מִזְבַּח הַנְּחֹשֶׁת銅
+壇
+，
+王上8:64
+；壇的長、寬皆為二十肘，高為十肘，
+代下4:1
+
+7:7
+
+結9:2
+；＝מִזְבַּח הָעוֹלָה燔祭
+壇
+，
+代下29:18
+，由亞撒重新修築，
+代下15:8
+。
+
+
+
+2. 香柏木
+壇
+，外面包上金，於聖殿內的דְּבִיר (內殿)前面，
+王上6:20,22
+
+7:48
+；＝מִזְבַּח הַזָּהָב金
+壇
+，
+代下4:19
+；＝מִזְבַּח הַקְּטֹרֶת香
+壇
+，
+代上28:18
+
+代下26:16
+。
+
+
+
+
+四、以西結為新聖殿築了兩個祭壇：
+
+
+1. 壇是木頭作的，高三肘，長二肘，
+結41:22
+。
+
+
+
+2. 祭壇是三層重疊、上窄下寬加上底座，共有四層，
+結43:13-17
+。
+
+
+
+
+五、被擄歸回後大祭司耶書亞在聖殿院子裡築了一座壇，
+拉3:2
+。
+
+
+
+六、除了這些敬拜耶和華所使用的祭壇以外，亞哈還在撒瑪利亞為巴力築了一座祭壇，
+王上16:32
+。亞哈斯在樓頂上所築的壇，和猶大其他的王也在兩院子裡築了壇，所有這些都被約西亞王毀壞了，
+王下23:12
+。
+
+
+
+七、築壇常用的動詞：בָּנָה建造，
+創35:7
+
+8:20
+
+申27:5,6
+
+出32:5
+；其他動詞：הָקֵם設立，
+撒下24:18
+
+王上16:32
+
+王下21:3
+
+代上21:18
+
+代下33:3
+；כּוּן建立，
+拉3:3
+；שִׂים置、放，
+耶11:13
+；וַיַּצֶּב安置，
+創33:20
+；עָרַךְ準備，
+民23:4
+；עָשָׂה做，
+創35:1,3
+
+出20:24
+
+創13:4
+
+王上12:33
+
+18:26
+
+出27:1
+
+30:1
+
+37:25
+
+38:1,30
+
+代下4:1,19
+
+7:7
+
+28:24
+。
+
+
+
+八、חֲנֻכַּת הַמִּזְבֵּחַ
+祭壇
+的奉獻禮，
+民7:10,11,84,88
+
+代下7:9
+；會用油מָשַׁח膏抹，
+出40:10
+
+利8:11
+
+民7:10
+。
+
+
+
+九、拆除偶像的
+祭壇
+：
+出34:13
+
+申7:5
+
+士2:2
+
+6:30,31,32
+
+王下11:18
+
+23:12,15
+；נָתַץ拆毀，
+申12:3
+
+代下31:1
+
+34:4,7
+；נֻתַּץ拆毀，
+士6:28
+；הָרַס毀壞，
+士6:25
+
+王上19:10,14
+；שָׁבַר打碎，
+代下23:17
+；הֵסִיר除去，
+王下18:22
+＝
+賽36:7
+
+代下14:3
+
+30:14
+
+32:12
+
+33:15
+。
+
+
+
+十、מִשְׁמֶרֶת הַמִּזְבֵּחַ祭壇的職責，
+民18:5
+
+結40:46
+；מְשָׁרְתֵי מִזְבֵּחַ伺候
+祭壇
+，
+珥1:13
+；עֹמֵד עַל-הַמִּזְבֵּחַ站在
+祭壇
+旁，
+王上13:1
+；獻祭，
+撒上2:28
+
+王上12:33
+；祭物通常在עַל-הַמִּזְבֵּחַ
+祭壇
+上，
+創22:9
+
+申12:27
+。
+
+
+
+十一、祭壇的角是為塗抹贖罪祭牲的血而做的；罪是銘刻在他們的心版וּלְקַרְנוֹת מִזְבְּחוֹתֵיכֶם和
+祭壇
+角上，
+耶17:1
+；用血來淨化，要取公牛的血，用你的指頭וְנָתַתָּה עַל-קַרְנֹת הַמִּזְבֵּחַ抹在
+壇
+的角上，
+出29:12
+
+利4:7,18,25,30,34
+
+8:15
+
+9:9
+
+16:18
+；אִסְרוּ-חַג בַּעֲבֹתִים עַד-קַרְנוֹת הַמִּזְבֵּחַ你們當用繩索把祭牲拴住，牽到
+壇
+角那裡，
+詩118:27
+。
+
+
+
+十二、壇是קֹדֶשׁ קָדָשִׁים至聖所，
+出29:37
+
+40:10
+；向　神獻上聖潔祭物的壇必須保持聖潔，要用血贖壇，
+利8:15
+
+結43:22
+
+利16:20,33
+
+結43:26
+；קָדַשׁ分別為聖，
+出29:44
+
+40:10
+
+利8:15
+
+民7:1
+；טָהֵר潔淨，
+代下29:18
+。
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+04196 mizbeach {miz-bay'-akh}
+
+from
+02076
+; TWOT - 525b; n m
+
+AV - altar 402; 402
+
+1) altar
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>②英文定義：[字源] from 2076 ;
+an altar</li></ul>
+<ul><li>③字根拆解：1) 祭壇
+
+
+
+
+
+【4196】מִזְבֵּחַ
+
+＜音譯＞mizbeach
+
+＜詞類＞名、陽
+
+＜字義＞祭壇
+
+＜字源＞來自
+SH2076
+
+
+＜　神出＞525b
+創8:20
+
+
+＜譯詞＞壇358 祭壇42 (400)
+
+＜解釋＞
+
+
+單陽מִזְבֵּחַ
+王下18:22
+。單陽+表示方向的מִזְבֵּחָה , ָה
+出29:13
+。單陽附屬形מִזְבַּח
+出20:24
+。單陽3單陽詞尾מִזְבְּחוֹ
+士6:31
+。單陽2單陽詞尾מִזְבַּחֲךָ
+王上8:31
+；מִזְבְּחֶךָ
+申33:10
+。單陽1單詞尾מִזְבְּחִי
+出20:26
+。複陰מִזְבְּחֹת
+民23:1
+
+王下21:3
+。複陽3單陽詞尾מִזְבְּחֹתָו
+王下11:18
+。複陽3複陽詞尾מִזְבְּחֹתָם
+出34:13
+。複陽2單陽詞尾מִזְבְּחוֹתֶיךָ
+詩84:3
+。複陽2複陽詞尾מִזְבְּחוֹתֵיכֶם
+結6:4
+。
+
+
+
+一、挪亞出方舟後所築的第一個祭壇，
+創8:20
+；亞伯蘭在示劍築的，
+創12:7
+；伯特利，
+創12:8
+；希伯倫，
+創13:18
+；摩利亞地，
+創22:9
+；以撒在別是巴築的，
+創26:25
+；雅各在伯特利築的，
+創世記35:7
+；摩西為感謝　神使他得勝築的並紀念　神的權能，在利非訂築的，
+出17:15
+，在西乃山，
+出24:4
+；巴蘭要求巴勒在毗斯迦山和毗珥山頂築七座壇，
+民23:1,14,29
+；約書亞在以巴路山築的，
+書8:30
+；基甸在俄弗拉築的，
+士6:24
+；一個　神人在伯特利，
+士21:4
+；撒母耳在拉瑪築的，
+撒上7:17
+；掃羅在亞雅侖築的，
+撒上14:35
+；大衛在阿珥楠的禾場上築的，
+撒下24:25
+＝
+代上21:18
+
+22:1
+；所羅門在基遍築的，
+王上3:4
+，又在耶路撒冷，
+王上6:20
+
+8:64
+；耶羅波安在伯特利築的，
+王上12:32
+；以利亞在迦密山修復了一座古老的祭壇，
+王上18：30
+。
+
+
+
+二、流便人、迦得人和瑪拿西半支派的人在約旦河東建造了一座大祭壇，
+書22:10-34
+，這座祭壇並非用來獻祭，但其目的僅為作見證。在祭司文獻上詳細描述了兩種主要的祭壇：
+
+
+1. מִזְבַּח הָעֹלָה燔祭
+壇
+：
+出30:28
+
+31:9
+
+35:16
+
+38:1
+
+40:6,10,29
+
+利4:7,10,25,25,34
+＝מִכְבַּר הַנְּחֹשֶׁת銅
+壇
+，
+出38:30
+
+39:39
+。這座壇用皂莢木製成，外面包上銅，長、寬皆為五肘，高為三肘。它有四個角和一個銅製的網子，所有用火獻的祭物都獻在其上，
+出27:1,8
+
+38:1-7
+。
+
+
+
+2. מִזְבֵּחַ מִקְטַר קְטֹרֶת燒香的
+壇
+，要用皂莢木做，外面包上金，長、寬皆為一肘，高為二肘，有四個角和金冠，
+出30:1-6
+＝מִזְבַּח הַקְּטֹרֶת香
+壇
+，
+出30:27
+
+31:8
+
+35:15
+
+37:25
+＝מִזְבַּח הַזָּהָב金
+壇
+，
+出39:38
+
+40:5,26
+
+民4:11
+＝מִזְבַּח קְטֹרֶת הַסַּמִּים香
+壇
+，
+利4:7
+；這些祭壇在其他經文中僅出現在歷代志：
+代上6:49
+
+16:40
+
+21:29
+
+代下1:5,6
+。
+
+
+
+
+三、所羅門在耶路撒冷的聖殿築了兩座祭壇：
+
+
+1. מִזְבַּח הַנְּחֹשֶׁת銅
+壇
+，
+王上8:64
+；壇的長、寬皆為二十肘，高為十肘，
+代下4:1
+
+7:7
+
+結9:2
+；＝מִזְבַּח הָעוֹלָה燔祭
+壇
+，
+代下29:18
+，由亞撒重新修築，
+代下15:8
+。
+
+
+
+2. 香柏木
+壇
+，外面包上金，於聖殿內的דְּבִיר (內殿)前面，
+王上6:20,22
+
+7:48
+；＝מִזְבַּח הַזָּהָב金
+壇
+，
+代下4:19
+；＝מִזְבַּח הַקְּטֹרֶת香
+壇
+，
+代上28:18
+
+代下26:16
+。
+
+
+
+
+四、以西結為新聖殿築了兩個祭壇：
+
+
+1. 壇是木頭作的，高三肘，長二肘，
+結41:22
+。
+
+
+
+2. 祭壇是三層重疊、上窄下寬加上底座，共有四層，
+結43:13-17
+。
+
+
+
+
+五、被擄歸回後大祭司耶書亞在聖殿院子裡築了一座壇，
+拉3:2
+。
+
+
+
+六、除了這些敬拜耶和華所使用的祭壇以外，亞哈還在撒瑪利亞為巴力築了一座祭壇，
+王上16:32
+。亞哈斯在樓頂上所築的壇，和猶大其他的王也在兩院子裡築了壇，所有這些都被約西亞王毀壞了，
+王下23:12
+。
+
+
+
+七、築壇常用的動詞：בָּנָה建造，
+創35:7
+
+8:20
+
+申27:5,6
+
+出32:5
+；其他動詞：הָקֵם設立，
+撒下24:18
+
+王上16:32
+
+王下21:3
+
+代上21:18
+
+代下33:3
+；כּוּן建立，
+拉3:3
+；שִׂים置、放，
+耶11:13
+；וַיַּצֶּב安置，
+創33:20
+；עָרַךְ準備，
+民23:4
+；עָשָׂה做，
+創35:1,3
+
+出20:24
+
+創13:4
+
+王上12:33
+
+18:26
+
+出27:1
+
+30:1
+
+37:25
+
+38:1,30
+
+代下4:1,19
+
+7:7
+
+28:24
+。
+
+
+
+八、חֲנֻכַּת הַמִּזְבֵּחַ
+祭壇
+的奉獻禮，
+民7:10,11,84,88
+
+代下7:9
+；會用油מָשַׁח膏抹，
+出40:10
+
+利8:11
+
+民7:10
+。
+
+
+
+九、拆除偶像的
+祭壇
+：
+出34:13
+
+申7:5
+
+士2:2
+
+6:30,31,32
+
+王下11:18
+
+23:12,15
+；נָתַץ拆毀，
+申12:3
+
+代下31:1
+
+34:4,7
+；נֻתַּץ拆毀，
+士6:28
+；הָרַס毀壞，
+士6:25
+
+王上19:10,14
+；שָׁבַר打碎，
+代下23:17
+；הֵסִיר除去，
+王下18:22
+＝
+賽36:7
+
+代下14:3
+
+30:14
+
+32:12
+
+33:15
+。
+
+
+
+十、מִשְׁמֶרֶת הַמִּזְבֵּחַ祭壇的職責，
+民18:5
+
+結40:46
+；מְשָׁרְתֵי מִזְבֵּחַ伺候
+祭壇
+，
+珥1:13
+；עֹמֵד עַל-הַמִּזְבֵּחַ站在
+祭壇
+旁，
+王上13:1
+；獻祭，
+撒上2:28
+
+王上12:33
+；祭物通常在עַל-הַמִּזְבֵּחַ
+祭壇
+上，
+創22:9
+
+申12:27
+。
+
+
+
+十一、祭壇的角是為塗抹贖罪祭牲的血而做的；罪是銘刻在他們的心版וּלְקַרְנוֹת מִזְבְּחוֹתֵיכֶם和
+祭壇
+角上，
+耶17:1
+；用血來淨化，要取公牛的血，用你的指頭וְנָתַתָּה עַל-קַרְנֹת הַמִּזְבֵּחַ抹在
+壇
+的角上，
+出29:12
+
+利4:7,18,25,30,34
+
+8:15
+
+9:9
+
+16:18
+；אִסְרוּ-חַג בַּעֲבֹתִים עַד-קַרְנוֹת הַמִּזְבֵּחַ你們當用繩索把祭牲拴住，牽到
+壇
+角那裡，
+詩118:27
+。
+
+
+
+十二、壇是קֹדֶשׁ קָדָשִׁים至聖所，
+出29:37
+
+40:10
+；向　神獻上聖潔祭物的壇必須保持聖潔，要用血贖壇，
+利8:15
+
+結43:22
+
+利16:20,33
+
+結43:26
+；קָדַשׁ分別為聖，
+出29:44
+
+40:10
+
+利8:15
+
+民7:1
+；טָהֵר潔淨，
+代下29:18
+。
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+04196 mizbeach {miz-bay'-akh}
+
+from
+02076
+; TWOT - 525b; n m
+
+AV - altar 402; 402
+
+1) altar
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>④本書用法：全節被污穢的地方。CBOL ＜解釋＞一：挪亞出方舟後所築的第一個祭壇（創 8:20）；亞伯蘭在示劍、伯特利（創 12:7,8）；希伯倫（創 13:18）；摩利亞地（創 22:9）。壇的定義是「有人為我築的」</li></ul>
+<ul><li>⑤舊約根源：④本書用法：CBOL ＜　神出＞創 8:20，全舊約譯 400 次；＜解釋＞二：燔祭的壇（利 4:7）；贖罪日的血抹在壇的角上（利 16:14），壇是唯一可以流血的石頭</li></ul>
+<ul><li>⑥和合本遗失：⑤舊約根源：譯「壇」；CBOL 複陰 מִזְבְּחֹת（民 23:1、王下 21:3 那種高處祭壇）那層收走，百姓拜的是高處，不是　神的壇</li></ul>
+<ul><li>⑦原文對照：⑥和合本遺失：⑦原文對照：【希臘/希伯來】מִזְבֵּחַ　【音譯】mizbeach</li></ul>
+<ul><li>⑧語法補充：⑦原文對照：名詞・陽・單數，無冠，帶一介詞 לֶ（方向），作 מַגִּישִׁים「你們獻上」動詞的受詞；本節取 CBOL 單陽 1a 不用複陰</li></ul>
+<ul><li>⑨經文對照：⑧語法補充：創 8:20（挪亞築壇）｜創 12:7,8（亞伯蘭築壇）｜利 4:7（燔祭的壇）｜利 16:14（血抹在壇角）｜王下 18:22（這是主的壇）｜王上 13:1-3（耶羅波安立在伯特利築壇）</li></ul>
+<ul><li>⑪深意：⑨經文對照：壇是　神指定的地點，不是人選的地方。</li></ul>
+<ul><li>⑫跨節鏈：壇鏈：創 8:20（挪亞築壇）→ 出 20:24（造壇）→ 利 16:14（血抹角）→ 瑪 1:7（我的壇）→ 希伯來書 9:4（天上的壇）</li></ul></div></details>
+<details class="ntfold"><summary>H00559 — אָמַר「說、談話、命令、應許、囑咐、呼召、思想」</summary><div class="ntbody"><ul><li>①基本資料：H00559｜אָמַר｜'amar｜動詞｜出現answer, appoint, avouch, bid, boast self, call, certify, challenge, charge, (at the, give) command(-ment), commune, consider, declare, demand, × desire, determine, × expressly, × indeed, × intend, name, × plainly, promise, publish, report, require, say, speak (against, of), × still, × suppose, talk, tell, term, × that is, × think, use (speech), utter, × verily, × yet.</li></ul>
+<ul><li>②CBOL分類：1) 說, 講, 發言
+1a) (Qal)
+1a1) (　神) 說
+1a2) 心裡說, 想
+1a3) 應許
+1a4) 命令
+1b) (Niphal) 被告知, 被說出, 被呼叫
+1c) (Hithpael) 自誇, 舉止高傲
+1d) (Hiphil) 公開宣稱, 斷言 (
+申 26:17
+)
+
+
+
+
+
+【0559】אָמַר
+
+＜音譯＞'amar
+
+＜詞類＞動
+
+＜字義＞說、談話、命令、應許、囑咐、呼召、思想
+
+＜字源＞一原形字根
+
+＜　神出＞118
+創1:3
+
+
+＜譯詞＞說4832 吩咐62 告訴39 曉諭15 稱11 想10 應許10 問6 論6 叫5 議論5 指示4 話4 以為3 求3 要3 下令2 傳2 傳說2 回答2 回答說2 報告2 定意2 思想2 想要2 有意2 派定2 認2 說話2 說過2 起誓2 主1 估定1 傳給1 允准1 勸1 命1 命定1 唱1 商議1 回覆1 定1 宣告1 應允1 指給1 提1 王后1 發出1 論說1 警戒1 路得1 陳明1 (5069)
+
+＜解釋＞
+
+
+一、Qal
+
+
+完成式－3單陽אָמַר
+創3:1
+。3複אָמְרוּ
+撒下12:18
+。2單陽אָמַרְתָּ
+民11:21
+。2單陰אָמַרְתְּ
+士17:2
+。2複陽אֲמַרְתֶּם
+民14:31
+。1單אָמַרְתִּי
+民18:24
+。連續式3單陽וְאָמַר
+民5:19
+。連續式3單陰וְאָמְרָה
+民5:22
+。連續式3複וְאָמְרוּ
+民14:14
+。連續式2單陽וְאָמַרְתָּ
+民6:2
+。連續式2單陰וְאָמַרְתְּ
+王上1:13
+。連續式2複陽וַאֲמַרְתֶּם
+利15:2
+。連續式1單וְאָמַרְתִּי
+撒下13:28
+。
+
+
+
+未完成式－3單陽יֹאמַר
+創31:8,8
+。3單陰תֹּאמַר
+創21:12
+；תֹאמֵר
+箴1:21
+。3複陽2單陽詞尾יֹאמְרֻךָ
+詩139:20
+。2單陽תֹּאמַר
+利17:8
+。2複陽תֹּמְרוּ
+撒下19:13
+。2複陽+古代的詞尾תֹאמְרוּן , ן
+撒上11:9
+。1單אֹמַר
+創22:2
+。3複陽יֹאמְרוּ
+出4:1
+。1複נֹאמַר
+撒下12:18
+。敘述式3單陽וַיֹּאמֶר
+創1:3
+；וַיֹּאמֶרו
+撒上15:16
+。敘述式3單陰וַתֹּאמֶר
+士4:9
+。敘述式3複陽וַיֹּאמְרוּ
+民9:7
+；וַיֹּאמְרֻ
+撒上12:10
+。敘述式3複陰וַתֹּאמַרְנָה
+得1:10
+。敘述式2單陰וַתֹּאמְרִי
+賽47:7
+。敘述式2複陽וַתֹּאמְרוּ
+申1:14
+。敘述式1單+詞尾וָאֹמְרָה , ָה
+士6:10
+。敘述式1單וָאוֹמַר
+尼2:7,17,20
+。祈願式3單陽יֹאמַר
+王上1:36
+。祈願式3複陽יֹאמְרוּ
+代上16:31
+。鼓勵式1複נֹאמַר
+賽41:26
+。
+
+
+
+祈使式－單陽אֱמֹר
+創45:17
+。單陰אִמְרִי
+創20:13
+。複陽אִמְרוּ
+王上20:9
+。
+
+
+
+不定詞－獨立形אָמֹר
+出21:5
+。附屬形אֲמֹר
+結25:8
+；הַאֲמֹר
+伯34:18
+。附屬形3複陽詞尾אָמְרָם
+詩42:10
+。附屬形2複陽詞尾אֲמָרְכֶם
+耶23:38
+。附屬形1單詞尾אָמְרִי
+書6:10
+。
+
+
+
+主動分詞－單陽אֹמֵר
+創32:9
+。複陽אֹמְרִים
+撒下21:4
+。複陰אֹמְרוֹת
+耶38:22
+。
+
+
+
+被動分詞－單陽אָמוּר
+彌2:7
+。
+
+
+
+1.
+說
+。主詞　神，
+創3:1,9
+；蛇，
+創3:1
+；人，
+創32:4
+；驢，
+民22:28
+；馬，יֹאמַר הֶאָח牠就
+說
+啊哈，
+伯39:25
+等；無生命的東西，擬人化：深淵、滄海，
+伯28:14,14
+；滅没，
+伯28:22
+等；在比喻或寓言中，
+士9:8
+
+王下14:9
+等；在敘述中，וַיּאֹמֶר 等，
+創4:6
+；大部分緊隨其後的是所說的話，
+創4:6
+
+申27:16
+
+士12:6
+
+創44:16
+
+王上20:14
+。與副詞（如此、這樣）連用：
+創32:4
+
+民20:14
+
+王上20:2,5
+；כֹּה־אָמַר יְהוָה耶和華這樣
+說
+，
+出5:1
+
+7:17
+
+8:1,20
+
+代上17:4
+。說話者透過介系詞אֶל引出受話對象：וַיֹּאמֶר אֶל-הָאִשָּׁה牠對那女人
+說
+，
+創3:1
+
+15:7
+
+22:7
+
+利21:1
+
+撒下3:7
+
+王上12:5,23
+；與介系詞לְ，
+創3:13
+
+4:15
+
+撒上20:2
+
+撒下2:21
+
+王上14:2
+；較罕見的組合是，יֹאמְרוּ בְאָזְנַיִךְ在你的耳朵
+說
+，
+賽49:20
+；וַיֹּאמֶר אֵלָיו לְעֵינֵי在人眼前對他
+說
+，
+申31:7
+
+書10:12
+
+耶28:11
+。＝
+提及
+、
+命名
+、
+指示
+：
+創22:2,3
+
+43:27,29
+
+出32:13
+
+民14:40
+
+撒上10:16
+
+16:3
+
+撒下6:22
+
+尼6:19
+；יֹאמְרֻךָ לִמְזִמָּה他們
+說
+惡言頂撞你，
+詩139:20
+。＝
+告訴
+、
+宣告
+（後面只接直接受詞）：
+詩40:10
+
+結13:7
+。回答問題＝
+回答
+：
+出12:27
+
+書4:7
+
+王上9:9
+
+耶5:19
+
+22:9
+。
+
+
+
+2.
+心裡說
+（＝
+想
+）。אָמַרְתָּ בִּלְבָבֶךָ你心裡
+說
+，
+申8:17
+
+王上12:26
+
+詩10:6,11,13
+
+14:1
+
+傳2:1,15
+
+3:17,18
+
+賽14:13
+
+47:8,10
+
+49:21
+；יֹאמְרוּ לִלְבָבָם在心裡
+說
+，
+何7:2
+；וַיֹּאמֶר אֶל-לִבּוֹ就在他的心裡
+說
+，
+創8:21
+
+撒上27:1
+；אָמְרָה נַפְשִׁי我心裡
+說
+，
+哀3:24
+；אָמַר單獨使用：
+創20:11
+
+26:9
+
+民24:11
+
+得4:4
+
+撒上20:26
+
+撒下5:6
+
+12:22
+
+王下5:11
+。＝
+渴望
+、
+想望
+：מַה-תֹּאמַר נַפְשְׁךָ你心裡所
+說
+（想）的，
+撒上20:4
+
+斯2:13
+。與不定詞連用＝目的：難道你是
+說
+要殺我，像你殺那埃及人嗎，
+出2:14
+
+書22:33
+
+撒上30:6
+
+王上5:5
+
+代下28:10,13
+；
+期待
+，וַיֹּאמֶר לְהַכּוֹת אֶת־דָּוִד他
+說
+要殺大衛，
+撒下21:16
+
+代下13:8
+
+32:1
+。
+
+
+
+3.
+應許
+（後接不定詞），
+代上27:23
+
+代下21:7
+
+斯4:7
+；לְ＋人稱，כַּאֲשֶׁר אָמַר־לוֹ照他所
+應許
+大衛的話，
+王下8:19
+
+尼9:15,23
+。
+
+
+
+4.
+命令
+：אֶל＋人稱，וְאָמַרְתָּ אֲלֵהֶם對他們
+說
+，
+民15:38
+
+書11:9
+
+撒下16:11
+
+王下4:24
+
+代上21:18
+
+伯9:7
+
+詩106:34
+。接不定詞，
+撒上24:10
+
+代上21:17
+
+代下29:27,30
+
+31:11
+
+35:21
+
+斯1:17
+
+4:13,15
+
+6:1
+
+9:14
+。後接直接受詞，王
+吩咐
+將燔祭和贖罪祭為以色列眾人獻上，
+代下29:24
+；
+吩咐
+人為我砍伐黎巴嫩的香柏木，
+王上5:6
+
+斯2:15
+。帶關係代名詞אֲשֶׁר子句：
+尼13:19,22
+；與連接詞כִּי因為，
+伯36:10
+；獨立使用：אָמַר
+撒上16:16
+
+詩105:31,34
+
+107:25
+
+代上14:12
+
+代下24:8
+
+尼13:9,19
+。
+指定
+，
+王上11:18
+＝
+恐嚇
+，
+申9:25
+
+詩106:23
+。
+
+
+
+
+二、Nifal
+
+
+完成式－3單陽נֶאֱמַר
+但8:26
+。
+
+
+
+未完成式－3單陽יֵאָמֵר
+創22:14
+
+賽4:3
+。敘述式3單陽וַיֵּאָמַר
+書2:2
+。
+
+
+
+
+被告知
+、
+被說
+，
+創10:9
+
+22:14
+
+詩87:5
+
+耶4:11
+
+16:14
+；所以書上
+說
+，
+民21:14
+；
+相關
+、
+被告知
+：異象，
+但8:26
+；
+說
+、
+告訴
+：
+書2:2
+
+何2:1
+
+番3:16
+。
+被告知有關
+、
+論及
+，
+民23:23
+
+結13:12
+；你們將
+被稱為
+，
+賽61:6
+；必
+稱
+為，
+賽4:3
+
+19:18
+
+32:5
+
+62:4
+；וְלֹא-יֵאָמֵר עוֹד הַתֹּפֶת不再
+稱
+為陀斐特，
+耶7:32
+；主詞是שֵׁם（名字），
+創32:29
+；כִּי-אֶל-אֵל הֶאָמַר有誰對　神
+說
+，
+伯34:31
+，אֶל־אֵל被置於疑問詞的前面作強調用。
+
+
+
+
+三、Hifil
+
+
+完成式－2單陽הֶאֱמַרְתָּ
+申26:17,18
+。3單陽2單陽詞尾הֶאֱמִירְךָ
+申26:18
+。
+
+
+
+未完成式－敘述式3單陰וַתֹּאמַר
+撒上2:1
+。鼓勵式1單אֹמְרָה
+創46:31
+。
+
+
+
+
+公開宣稱
+、
+斷言
+。אֶת-יְהוָה הֶאֱמַרְתָּ הַיּוֹם לִהְיוֹת לְךָ לֵאלֹהִים你今日
+稱
+耶和華為你的　神，申26:17；וַיהוָה הֶאֱמִירְךָ הַיּוֹם לִהְיוֹת לוֹ לְעַם סְגֻלָּה耶和華今日
+認
+你為祂寶貴的產業的子民，
+申26:18
+
+撒上2:1
+
+斯5:7
+
+箴4:4
+
+7:13
+。
+
+
+
+
+四、Hithpae
+自己誇張
+
+
+
+未完成式－3複陽יִתְאַמְּרוּ作孽的人全都
+誇耀
+自己，
+詩94:4
+。
+
+
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+0559 'amar {aw-mar'}
+
+a primitive root; TWOT - 118; v
+
+AV - said 4874, speak 179, answer 99, command 30, tell 29, call 7,
+promised 6, misc. 84; 5308
+
+1) to say, speak, utter
+1a) (Qal) to say,  to answer, to say in one's heart, to think,
+to command, to promise, to intend
+1b) (Niphal) to be told, to be said, to be called
+1c) (Hithpael) to boast, to act proudly
+1d) (Hiphil) to avow, to avouch
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>②英文定義：[字源] a primitive root;
+to say (used with great latitude)</li></ul>
+<ul><li>③字根拆解：1) 說, 講, 發言
+1a) (Qal)
+1a1) (　神) 說
+1a2) 心裡說, 想
+1a3) 應許
+1a4) 命令
+1b) (Niphal) 被告知, 被說出, 被呼叫
+1c) (Hithpael) 自誇, 舉止高傲
+1d) (Hiphil) 公開宣稱, 斷言 (
+申 26:17
+)
+
+
+
+
+
+【0559】אָמַר
+
+＜音譯＞'amar
+
+＜詞類＞動
+
+＜字義＞說、談話、命令、應許、囑咐、呼召、思想
+
+＜字源＞一原形字根
+
+＜　神出＞118
+創1:3
+
+
+＜譯詞＞說4832 吩咐62 告訴39 曉諭15 稱11 想10 應許10 問6 論6 叫5 議論5 指示4 話4 以為3 求3 要3 下令2 傳2 傳說2 回答2 回答說2 報告2 定意2 思想2 想要2 有意2 派定2 認2 說話2 說過2 起誓2 主1 估定1 傳給1 允准1 勸1 命1 命定1 唱1 商議1 回覆1 定1 宣告1 應允1 指給1 提1 王后1 發出1 論說1 警戒1 路得1 陳明1 (5069)
+
+＜解釋＞
+
+
+一、Qal
+
+
+完成式－3單陽אָמַר
+創3:1
+。3複אָמְרוּ
+撒下12:18
+。2單陽אָמַרְתָּ
+民11:21
+。2單陰אָמַרְתְּ
+士17:2
+。2複陽אֲמַרְתֶּם
+民14:31
+。1單אָמַרְתִּי
+民18:24
+。連續式3單陽וְאָמַר
+民5:19
+。連續式3單陰וְאָמְרָה
+民5:22
+。連續式3複וְאָמְרוּ
+民14:14
+。連續式2單陽וְאָמַרְתָּ
+民6:2
+。連續式2單陰וְאָמַרְתְּ
+王上1:13
+。連續式2複陽וַאֲמַרְתֶּם
+利15:2
+。連續式1單וְאָמַרְתִּי
+撒下13:28
+。
+
+
+
+未完成式－3單陽יֹאמַר
+創31:8,8
+。3單陰תֹּאמַר
+創21:12
+；תֹאמֵר
+箴1:21
+。3複陽2單陽詞尾יֹאמְרֻךָ
+詩139:20
+。2單陽תֹּאמַר
+利17:8
+。2複陽תֹּמְרוּ
+撒下19:13
+。2複陽+古代的詞尾תֹאמְרוּן , ן
+撒上11:9
+。1單אֹמַר
+創22:2
+。3複陽יֹאמְרוּ
+出4:1
+。1複נֹאמַר
+撒下12:18
+。敘述式3單陽וַיֹּאמֶר
+創1:3
+；וַיֹּאמֶרו
+撒上15:16
+。敘述式3單陰וַתֹּאמֶר
+士4:9
+。敘述式3複陽וַיֹּאמְרוּ
+民9:7
+；וַיֹּאמְרֻ
+撒上12:10
+。敘述式3複陰וַתֹּאמַרְנָה
+得1:10
+。敘述式2單陰וַתֹּאמְרִי
+賽47:7
+。敘述式2複陽וַתֹּאמְרוּ
+申1:14
+。敘述式1單+詞尾וָאֹמְרָה , ָה
+士6:10
+。敘述式1單וָאוֹמַר
+尼2:7,17,20
+。祈願式3單陽יֹאמַר
+王上1:36
+。祈願式3複陽יֹאמְרוּ
+代上16:31
+。鼓勵式1複נֹאמַר
+賽41:26
+。
+
+
+
+祈使式－單陽אֱמֹר
+創45:17
+。單陰אִמְרִי
+創20:13
+。複陽אִמְרוּ
+王上20:9
+。
+
+
+
+不定詞－獨立形אָמֹר
+出21:5
+。附屬形אֲמֹר
+結25:8
+；הַאֲמֹר
+伯34:18
+。附屬形3複陽詞尾אָמְרָם
+詩42:10
+。附屬形2複陽詞尾אֲמָרְכֶם
+耶23:38
+。附屬形1單詞尾אָמְרִי
+書6:10
+。
+
+
+
+主動分詞－單陽אֹמֵר
+創32:9
+。複陽אֹמְרִים
+撒下21:4
+。複陰אֹמְרוֹת
+耶38:22
+。
+
+
+
+被動分詞－單陽אָמוּר
+彌2:7
+。
+
+
+
+1.
+說
+。主詞　神，
+創3:1,9
+；蛇，
+創3:1
+；人，
+創32:4
+；驢，
+民22:28
+；馬，יֹאמַר הֶאָח牠就
+說
+啊哈，
+伯39:25
+等；無生命的東西，擬人化：深淵、滄海，
+伯28:14,14
+；滅没，
+伯28:22
+等；在比喻或寓言中，
+士9:8
+
+王下14:9
+等；在敘述中，וַיּאֹמֶר 等，
+創4:6
+；大部分緊隨其後的是所說的話，
+創4:6
+
+申27:16
+
+士12:6
+
+創44:16
+
+王上20:14
+。與副詞（如此、這樣）連用：
+創32:4
+
+民20:14
+
+王上20:2,5
+；כֹּה־אָמַר יְהוָה耶和華這樣
+說
+，
+出5:1
+
+7:17
+
+8:1,20
+
+代上17:4
+。說話者透過介系詞אֶל引出受話對象：וַיֹּאמֶר אֶל-הָאִשָּׁה牠對那女人
+說
+，
+創3:1
+
+15:7
+
+22:7
+
+利21:1
+
+撒下3:7
+
+王上12:5,23
+；與介系詞לְ，
+創3:13
+
+4:15
+
+撒上20:2
+
+撒下2:21
+
+王上14:2
+；較罕見的組合是，יֹאמְרוּ בְאָזְנַיִךְ在你的耳朵
+說
+，
+賽49:20
+；וַיֹּאמֶר אֵלָיו לְעֵינֵי在人眼前對他
+說
+，
+申31:7
+
+書10:12
+
+耶28:11
+。＝
+提及
+、
+命名
+、
+指示
+：
+創22:2,3
+
+43:27,29
+
+出32:13
+
+民14:40
+
+撒上10:16
+
+16:3
+
+撒下6:22
+
+尼6:19
+；יֹאמְרֻךָ לִמְזִמָּה他們
+說
+惡言頂撞你，
+詩139:20
+。＝
+告訴
+、
+宣告
+（後面只接直接受詞）：
+詩40:10
+
+結13:7
+。回答問題＝
+回答
+：
+出12:27
+
+書4:7
+
+王上9:9
+
+耶5:19
+
+22:9
+。
+
+
+
+2.
+心裡說
+（＝
+想
+）。אָמַרְתָּ בִּלְבָבֶךָ你心裡
+說
+，
+申8:17
+
+王上12:26
+
+詩10:6,11,13
+
+14:1
+
+傳2:1,15
+
+3:17,18
+
+賽14:13
+
+47:8,10
+
+49:21
+；יֹאמְרוּ לִלְבָבָם在心裡
+說
+，
+何7:2
+；וַיֹּאמֶר אֶל-לִבּוֹ就在他的心裡
+說
+，
+創8:21
+
+撒上27:1
+；אָמְרָה נַפְשִׁי我心裡
+說
+，
+哀3:24
+；אָמַר單獨使用：
+創20:11
+
+26:9
+
+民24:11
+
+得4:4
+
+撒上20:26
+
+撒下5:6
+
+12:22
+
+王下5:11
+。＝
+渴望
+、
+想望
+：מַה-תֹּאמַר נַפְשְׁךָ你心裡所
+說
+（想）的，
+撒上20:4
+
+斯2:13
+。與不定詞連用＝目的：難道你是
+說
+要殺我，像你殺那埃及人嗎，
+出2:14
+
+書22:33
+
+撒上30:6
+
+王上5:5
+
+代下28:10,13
+；
+期待
+，וַיֹּאמֶר לְהַכּוֹת אֶת־דָּוִד他
+說
+要殺大衛，
+撒下21:16
+
+代下13:8
+
+32:1
+。
+
+
+
+3.
+應許
+（後接不定詞），
+代上27:23
+
+代下21:7
+
+斯4:7
+；לְ＋人稱，כַּאֲשֶׁר אָמַר־לוֹ照他所
+應許
+大衛的話，
+王下8:19
+
+尼9:15,23
+。
+
+
+
+4.
+命令
+：אֶל＋人稱，וְאָמַרְתָּ אֲלֵהֶם對他們
+說
+，
+民15:38
+
+書11:9
+
+撒下16:11
+
+王下4:24
+
+代上21:18
+
+伯9:7
+
+詩106:34
+。接不定詞，
+撒上24:10
+
+代上21:17
+
+代下29:27,30
+
+31:11
+
+35:21
+
+斯1:17
+
+4:13,15
+
+6:1
+
+9:14
+。後接直接受詞，王
+吩咐
+將燔祭和贖罪祭為以色列眾人獻上，
+代下29:24
+；
+吩咐
+人為我砍伐黎巴嫩的香柏木，
+王上5:6
+
+斯2:15
+。帶關係代名詞אֲשֶׁר子句：
+尼13:19,22
+；與連接詞כִּי因為，
+伯36:10
+；獨立使用：אָמַר
+撒上16:16
+
+詩105:31,34
+
+107:25
+
+代上14:12
+
+代下24:8
+
+尼13:9,19
+。
+指定
+，
+王上11:18
+＝
+恐嚇
+，
+申9:25
+
+詩106:23
+。
+
+
+
+
+二、Nifal
+
+
+完成式－3單陽נֶאֱמַר
+但8:26
+。
+
+
+
+未完成式－3單陽יֵאָמֵר
+創22:14
+
+賽4:3
+。敘述式3單陽וַיֵּאָמַר
+書2:2
+。
+
+
+
+
+被告知
+、
+被說
+，
+創10:9
+
+22:14
+
+詩87:5
+
+耶4:11
+
+16:14
+；所以書上
+說
+，
+民21:14
+；
+相關
+、
+被告知
+：異象，
+但8:26
+；
+說
+、
+告訴
+：
+書2:2
+
+何2:1
+
+番3:16
+。
+被告知有關
+、
+論及
+，
+民23:23
+
+結13:12
+；你們將
+被稱為
+，
+賽61:6
+；必
+稱
+為，
+賽4:3
+
+19:18
+
+32:5
+
+62:4
+；וְלֹא-יֵאָמֵר עוֹד הַתֹּפֶת不再
+稱
+為陀斐特，
+耶7:32
+；主詞是שֵׁם（名字），
+創32:29
+；כִּי-אֶל-אֵל הֶאָמַר有誰對　神
+說
+，
+伯34:31
+，אֶל־אֵל被置於疑問詞的前面作強調用。
+
+
+
+
+三、Hifil
+
+
+完成式－2單陽הֶאֱמַרְתָּ
+申26:17,18
+。3單陽2單陽詞尾הֶאֱמִירְךָ
+申26:18
+。
+
+
+
+未完成式－敘述式3單陰וַתֹּאמַר
+撒上2:1
+。鼓勵式1單אֹמְרָה
+創46:31
+。
+
+
+
+
+公開宣稱
+、
+斷言
+。אֶת-יְהוָה הֶאֱמַרְתָּ הַיּוֹם לִהְיוֹת לְךָ לֵאלֹהִים你今日
+稱
+耶和華為你的　神，申26:17；וַיהוָה הֶאֱמִירְךָ הַיּוֹם לִהְיוֹת לוֹ לְעַם סְגֻלָּה耶和華今日
+認
+你為祂寶貴的產業的子民，
+申26:18
+
+撒上2:1
+
+斯5:7
+
+箴4:4
+
+7:13
+。
+
+
+
+
+四、Hithpae
+自己誇張
+
+
+
+未完成式－3複陽יִתְאַמְּרוּ作孽的人全都
+誇耀
+自己，
+詩94:4
+。
+
+
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+0559 'amar {aw-mar'}
+
+a primitive root; TWOT - 118; v
+
+AV - said 4874, speak 179, answer 99, command 30, tell 29, call 7,
+promised 6, misc. 84; 5308
+
+1) to say, speak, utter
+1a) (Qal) to say,  to answer, to say in one's heart, to think,
+to command, to promise, to intend
+1b) (Niphal) to be told, to be said, to be called
+1c) (Hithpael) to boast, to act proudly
+1d) (Hiphil) to avow, to avouch
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>④本書用法：本節出現兩次，兩次都是百姓的辯解。CBOL 1a2) 心裡想、1a3) 應許、1a4) 命令，百姓第二次是心裡想（他們宣稱自己沒想過褻瀆），第一次是想問；1a) 單純「說」</li></ul>
+<ul><li>⑤舊約根源：④本書用法：CBOL ＜解釋＞一、Qal 完成式 3 單陽 אָמַר 創 3:1；＜　神出＞創 1:3（　神說，要有光），全舊約譯 5,069 次，是舊約最頻密的動詞，從第一句到這一句</li></ul>
+<ul><li>⑥和合本遗失：⑤舊約根源：譯「說」；CBOL 1a2) 心裡想那層收走，「我們在何事上污穢你呢」是心裡辯白，不是開口問</li></ul>
+<ul><li>⑦原文對照：⑥和合本遺失：⑦原文對照：【希臘/希伯來】אָמַר　【音譯】'amar</li></ul>
+<ul><li>⑧語法補充：⑦原文對照：動詞・陽・單數；本節出現兩次：第一次完成式 1 複＋2 單陽詞尾，第二次完成式 1 複＋2 單陽詞尾 מֶּה「我們何事」；CBOL 1b) 1c) 1d) 三層本節不取</li></ul>
+<ul><li>⑨經文對照：⑧語法補充：創 1:3（　神說，要有光）｜創 3:1（蛇說）｜民 15:31（藐視耶和華的話）｜摩 3:8（誰能不說預言）｜耶 23:36｜民 20:12（你們問我，我沒有回答）</li></ul>
+<ul><li>⑪深意：⑨經文對照：　神說過的，他們記得；他們說過的，　神問。</li></ul>
+<ul><li>⑫跨節鏈：說話鏈：創 1:3（要有光）→ 創 3:1（蛇的問）→ 申 5:12（耶和華對你們說）→ 摩 3:8（怎麼不說）→ 瑪 1:7（他們說）→ 啟 1:8（我是，我是的那一位）</li></ul></div></details>
+<details class="ntfold"><summary>H07979 — שֻׁלְחָן「桌子、一頓飯」</summary><div class="ntbody"><ul><li>①基本資料：H07979｜שֻׁלְחָן｜shulchan｜名詞｜出現table.</li></ul>
+<ul><li>②CBOL分類：1) 桌子
+1a) 桌子
+1a1) 指國王的桌子, 私人用桌子, 聖禮用桌子
+
+
+
+
+
+【7979】שֻׁלְחָן
+＜音譯＞ shulchan
+＜詞類＞ 名、陽
+＜字義＞ 桌子、一頓飯
+＜字源＞ 來自
+SH7971
+
+＜　神出＞ 2395a
+出25:23
+
+＜譯詞＞ 桌子40 席17 筵席6 桌1 桌案1 (65)
+＜解釋＞
+
+單陽שֻׁלְחָן
+撒上20:34
+。單陽附屬形שֻׁלְחַן
+王上4:27
+。單陽3單陽詞尾שֻׁלְחָנוֹ
+王上10:5
+。單陽3單陰詞尾שֻׁלְחָנָהּ
+箴9:2
+。單陽2單陽詞尾שֻׁלְחָנֶךָ
+撒下19:28
+。單陽1單詞尾שֻׁלְחָנִי
+士1:7
+。複陽שֻׁלְחָנוֹת
+賽28:8
+。複陽附屬形שֻׁלְחֲנוֹת
+代上28:16
+。
+
+
+一、
+桌子
+、
+筵席
+
+
+1. 國王的，
+士1:7
+
+撒上20:29,34
+
+撒下9:7,10,11,13
+
+19:28
+
+王上2:7
+
+4:27
+
+10:5
+
+代下9:4
+
+賽21:5
+
+但11:27
+；官長的，
+尼5:17
+。。
+
+
+2. 私人使用的，
+王上13:20
+
+伯36:16
+
+詩23:5
+
+78:19
+
+128:3
+
+王下4:10
+；醉酒的，
+賽28:8
+
+詩69:22
+（比喻）；智慧（比喻），
+箴9:2
+。
+
+
+3. 聖禮用的：在會幕內，
+出25:23
+（約有十多次）；
+民3:31
+
+4:7
+；精金的
+桌子
+，
+利24:6
+；在所羅門的聖殿，
+王上7:48
+
+代下29:18
+
+4:8,19
+
+13:11
+
+代上28:16
+
+結23:41
+；在以西結的聖殿裡，
+結40:39,39,42
+；木製的祭壇，
+結41:22
+；＝燔祭壇，
+結44:16
+；在第二聖殿裡，שֻׁלְחַן יְהוָה耶和華的
+桌子
+，
+瑪1:7
+； שֻׁלְחַן אֲדֹנָי主的
+桌子
+，
+瑪1:12
+；為拜偶像擺設筵席，
+賽65:11
+；比喻耶和華的筵席，
+結39:20
+（末世論）。
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+07979 shulchan {shool-khawn'}
+
+from
+07971
+; TWOT - 2395a; n m
+
+AV - table 70; 70
+
+1) table
+1a) table
+1a1) of king's table, private use, sacred uses
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>②英文定義：[字源] from 7971 ;
+a table (as spread out); by implication, a meal</li></ul>
+<ul><li>③字根拆解：1) 桌子
+1a) 桌子
+1a1) 指國王的桌子, 私人用桌子, 聖禮用桌子
+
+
+
+
+
+【7979】שֻׁלְחָן
+＜音譯＞ shulchan
+＜詞類＞ 名、陽
+＜字義＞ 桌子、一頓飯
+＜字源＞ 來自
+SH7971
+
+＜　神出＞ 2395a
+出25:23
+
+＜譯詞＞ 桌子40 席17 筵席6 桌1 桌案1 (65)
+＜解釋＞
+
+單陽שֻׁלְחָן
+撒上20:34
+。單陽附屬形שֻׁלְחַן
+王上4:27
+。單陽3單陽詞尾שֻׁלְחָנוֹ
+王上10:5
+。單陽3單陰詞尾שֻׁלְחָנָהּ
+箴9:2
+。單陽2單陽詞尾שֻׁלְחָנֶךָ
+撒下19:28
+。單陽1單詞尾שֻׁלְחָנִי
+士1:7
+。複陽שֻׁלְחָנוֹת
+賽28:8
+。複陽附屬形שֻׁלְחֲנוֹת
+代上28:16
+。
+
+
+一、
+桌子
+、
+筵席
+
+
+1. 國王的，
+士1:7
+
+撒上20:29,34
+
+撒下9:7,10,11,13
+
+19:28
+
+王上2:7
+
+4:27
+
+10:5
+
+代下9:4
+
+賽21:5
+
+但11:27
+；官長的，
+尼5:17
+。。
+
+
+2. 私人使用的，
+王上13:20
+
+伯36:16
+
+詩23:5
+
+78:19
+
+128:3
+
+王下4:10
+；醉酒的，
+賽28:8
+
+詩69:22
+（比喻）；智慧（比喻），
+箴9:2
+。
+
+
+3. 聖禮用的：在會幕內，
+出25:23
+（約有十多次）；
+民3:31
+
+4:7
+；精金的
+桌子
+，
+利24:6
+；在所羅門的聖殿，
+王上7:48
+
+代下29:18
+
+4:8,19
+
+13:11
+
+代上28:16
+
+結23:41
+；在以西結的聖殿裡，
+結40:39,39,42
+；木製的祭壇，
+結41:22
+；＝燔祭壇，
+結44:16
+；在第二聖殿裡，שֻׁלְחַן יְהוָה耶和華的
+桌子
+，
+瑪1:7
+； שֻׁלְחַן אֲדֹנָי主的
+桌子
+，
+瑪1:12
+；為拜偶像擺設筵席，
+賽65:11
+；比喻耶和華的筵席，
+結39:20
+（末世論）。
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+07979 shulchan {shool-khawn'}
+
+from
+07971
+; TWOT - 2395a; n m
+
+AV - table 70; 70
+
+1) table
+1a) table
+1a1) of king's table, private use, sacred uses
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>④本書用法：全節最重的一個詞。CBOL ＜解釋＞一、桌子、筵席 1. 國王的（士 1:7、撒上 20:29,34、撒下 9:7,10,11,13、19:28、王上 2:7、4:27、10:5、但 11:27）；2. 私人使用的（王上 13:20、伯 36:16、詩 23:5,78:19）；3. 聖禮用的（出 25:23；王上 8:4），百姓放棄咗第 3 種，用第 2 種講</li></ul>
+<ul><li>⑤舊約根源：④本書用法：CBOL ＜　神出＞出 25:23（會幕裡的桌子），全舊約譯 65 次；＜解釋＞3. 聖禮用的桌子（出 25:23；王上 8:4 聖桌上的陳設餅），這張桌子一開始是為殿裡的餅造的</li></ul>
+<ul><li>⑥和合本遗失：⑤舊約根源：譯「桌子」；CBOL 1a1) 1a) 之間「一頓飯」那層收走，שֻׁלְחָן 同時是桌同席，百姓輕看的不只是器物，是那張桌子上本該有的一份</li></ul>
+<ul><li>⑦原文對照：⑥和合本遺失：</li></ul>
+<ul><li>⑧語法補充：⑦原文對照：名詞・陽・單數，無冠，位於兩個 הָ 的偏正結構中（שֻׁלְחַן יְהוָה＝耶和華的桌子）；CBOL 1a) 1a1) 桌／國王、私人、聖禮三層，本節落在第 2 層</li></ul>
+<ul><li>⑨經文對照：⑧語法補充：出 25:23（會幕的桌子）｜王上 8:4（聖桌上的餅）｜詩 23:5（祂在你敵人面前為你擺筵席）｜但 11:27（伯沙Baltazar 的席）｜賽 28:8（桌上滿了污穢）｜尼 5:17（官長的桌）｜結 23:27（污穢的桌子）</li></ul>
+<ul><li>⑪深意：⑨經文對照：　神問的不是餅。祂問的是：桌子，你還認不認得。</li></ul>
+<ul><li>⑫跨節鏈：桌鏈：出 25:23（會幕的桌）→ 王上 8:4（聖桌的餅）→ 詩 23:5（為我擺席）→ 尼 5:17（官長的桌）→ 瑪 1:7（耶和華的桌子）→ 路 22:30（為你們預備的國度）</li></ul></div></details>
+<details class="ntfold"><summary>H03068 — יְהֹוָה「自有永有的」</summary><div class="ntbody"><ul><li>①基本資料：H03068｜יְהֹוָה｜Yehovah｜專有名詞｜出現Jehovah, the Lord. Compare 3050 , 3069 .</li></ul>
+<ul><li>②CBOL分類：1) 獨一真　神的專有名詞
+1a) 不發音, 除非加上
+136
+的母音
+
+
+
+
+
+【3068】יהוה
+
+＜音譯＞Yehovah
+
+＜詞類＞名、專、　神名
+
+＜字義＞自有永有的
+
+＜字源＞來自
+SH1961
+
+
+＜　神出＞484a
+創2:4
+
+
+＜譯詞＞耶和華6376 主1 　神1 (6378)
+
+＜解釋＞
+
+
+〔耶和華〕　神名
+
+
+一、
+耶和華
+（Yahweh雅威），以色列之　神的專有名稱。在以下組合中：אדני יהוה（主耶和華）和יהוה אדני（耶和華主），以及與介詞連用的形式 בַּיהוָֺה（在耶和華中）、לַיהוָֺה（向耶和華）和מֵיהוָֺה（從耶和華），未能顯示其原始形式。根據
+出20:7
+與
+利24:11
+，耶和華被視為一個不可言說的聖名，猶太人稱之為 הַשֵּׁם（哈-舍姆，意為「那名」），而撒馬利亞人則稱之為 שׁימא（希瑪）。
+
+
+
+二、יהוה和אֱלֹהִים一起合用：
+
+
+1. 與אֱלֹהֶיךָ合用：יְהוָה אֱלֹהֶיךָ
+耶和華
+你的　神，
+出20:2
+＝
+申5:6
+
+出34:24,26
+
+書1:9,17
+
+9:9,24
+
+士6:26
+
+代上11:2
+
+22:11,12
+
+代下9:8,8
+
+16:7
+
+賽7:11
+
+37:4,4
+
+41:13
+
+43:3
+
+51:15
+
+55:5
+
+耶40:2
+
+何12:9
+
+13:4
+
+14:2
+
+摩9:15
+
+詩81:10
+。
+
+
+
+2. 與אֱלֹהֵיכֶם合用：יְהוָה אֱלֹהֵיכֶם
+耶和華
+你們的　神，
+出23:25
+
+8:28
+
+10:8,16,17
+
+士6:10
+
+撒上12:12,14
+
+王下17:39
+
+23:21
+
+代上22:18
+
+詩76:11
+
+耶13:16
+
+結20:5 ,7,19,20
+
+珥2:13
+
+亞6:15
+。
+
+
+
+3. 與אֱלֹהֵינוּ合用：יהוָה אֱלֹהֵינוּ
+耶和華
+我們的　神，
+出3:18
+
+5:3
+
+8:10
+
+10:25,26
+
+士11:24
+
+撒上7:8
+
+王上8:57,59,61,65
+
+王下18:22
+
+賽36:7
+
+37:20
+
+代上13:2
+
+耶3:22
+
+但9:10,13,14
+。
+
+
+
+4. 與אֱלֹהֵיהֶם合用：יְהוָה אֱלֹהֵיהֶם
+耶和華
+他們的　神，
+出10:7
+
+29:46,46
+
+利26:44
+
+士3:7
+
+8:34
+
+撒上12:9
+
+王上9:9
+
+王下17:7,9,14,16,19
+
+18:12
+
+代下31:6
+
+33:17
+
+34:33
+
+尼9:3,3,4
+
+耶3:21
+
+22:9
+
+30:9
+
+43:1,1
+
+50:4
+
+結28:26
+
+34:30
+
+39:22,28
+
+何1:7
+
+3:5
+
+7:10
+
+番2:7
+
+該1:12,12
+
+亞 9:16
+
+10:6
+。
+
+
+
+5. 與אֱלֹהָיו合用：יְהוָה אֱלֹהָיו
+耶和華
+他的　神，
+民23:21
+
+出32:11
+
+利4:22
+
+申17:19
+
+18:7
+
+撒上30:6
+
+王上5:3
+
+11:4
+
+15:3,4
+
+王下5:11
+
+16:2
+
+代下1:1
+
+彌5:4
+
+耶7:28
+
+詩33:12
+
+144:15
+
+146:5
+
+拿2:1
+。
+
+
+
+6. 與אֱלֹהָי合用：יְהוָה אֱלֹהָי
+耶和華
+我的　神，
+民22:18
+
+申4:5
+
+18:16
+
+26:14
+
+書14:8,9
+
+撒下24:24
+
+王上3:7
+
+5:4,5
+
+8:28
+
+17:20,21
+
+代上21:17
+
+22:6
+
+代下2:4
+
+6:19
+
+拉7:28
+
+9:5
+
+詩7:3
+
+13:3
+
+18:28
+
+30:12
+
+35:24
+
+40:5
+
+104:1
+
+109:26
+
+賽25:1
+
+耶31:18
+
+但9:4,20
+
+拿2:6
+
+哈1:12
+
+亞11:4
+
+13:9
+
+14:5
+。
+
+
+
+7. 與אֱלֹהַיִךְ合用：יְהוָה אֱלֹהַיִךְ
+耶和華
+妳的　神，
+賽60:9
+
+耶2:17,19
+
+3:13
+
+彌7:10
+
+番3:17
+。
+
+
+
+8. 與אֱלֹהִים合用：יְהוָה אֱלֹהִים
+耶和華
+　神，
+創2:4
+
+3:23
+
+出9:30
+
+撒下7:25
+
+代上17:16,17
+
+28:20
+
+29:1
+
+代下1:9
+
+6:41,41
+
+詩72:18
+
+84:11
+
+拿4:6
+。
+
+
+
+
+三、אֲנִי יהוה （我是
+耶和華
+）值得注意：
+
+
+1.  在אָמַר（說）之後單獨出現，
+出6:2,29
+；或在關係子句及其他子句之前出現，
+創28:13
+
+15:7
+
+出6:6
+；與אֱלֹהֵיכֶם（你們的　神）連用，
+士6:10
+
+結20:5
+。
+
+
+
+2.  出現在יָדַע כִּי（你必知道）之後，
+出7:17
+
+10:2
+
+14:4,18
+
+王上20:13,28
+
+耶24:7
+
+結6:7
+（在以西結書有48次）。與אֱלֹהֵיכֶם（你們的　神）連用，
+出6:7
+
+16:12
+
+申29:6
+
+結20:20
+
+珥3:17
+。與אֱלֹהֵיהֶם（他們的　神）連用，
+出29:46
+
+結28:26
+
+34:30
+
+39:22,28
+。出現在關係子句及其他子句之前，
+賽45:3
+
+49:23,26
+
+60:16
+
+結7:9
+
+17:24
+
+22:22
+
+35:12
+
+36:36
+。與קָדַשׁ（聖潔）連用，
+出31:13
+
+結20:12
+
+37:28
+
+39:7
+。與דִּבַּרְתִּי（我說）連用，
+結5:13
+
+17:21
+。
+
+
+
+3. 在כִּי之後的各種組合：
+利11:44,45
+
+民35:34
+
+利20:7,26
+
+21:8,15,23
+
+22:16
+
+24:22
+
+25:17
+
+26:1,44
+
+出15:26
+
+賽41:13
+
+43:3
+
+61:8
+
+耶9:23
+
+結12:25
+
+20:48
+
+亞10:6
+
+瑪3:6
+。
+
+
+
+4. 加強語氣，
+出6:8
+
+12:12
+
+利26:2,45
+
+民3:13,41,45
+
+利18:5,6,21
+
+19:12,14,16,18,28,30,32,37
+
+21:12
+
+22:2,3,8,30,31,33
+
+賽43:15
+；與אֱלֹהֵיהֶם（他們的　神）連用，
+出29:46
+；與אֱלֹהֶיךָ（你的　神）連用，
+賽48:17
+；與אֱלֹהֵיכֶם（你們的　神）連用，
+利23:43
+
+25:38,55
+
+民10:10
+
+15:41,41
+
+結20:7,19
+
+珥2:27
+；與（מְקַדֵּשׁ分別為聖）連用，
+利20:8
+
+22:9,32
+；與（דִּבַּרְתִּי我說）連用，
+民14:35
+
+結5:15
+＋（有11次在以西結書）；與子句，
+賽27:3
+
+41:4,17
+
+42:6,8
+
+45:5,6,7,8,18,19,21
+
+60:22
+
+耶17:10
+
+32:27
+
+結14:4,7,9
+
+34:24
+。
+
+
+
+
+四、　神的名字יְהוָה
+耶和華
+一詞語常與其它語詞合用，組成另一個專有名詞，例如：ְיְהוָה יִרְאֶה耶和華以勒（
+SH3070
+），意為耶和華必有預備，
+創22:14
+；יְהוָה נִסִּי耶和華尼西（
+SH3071
+），意為耶和華是我的旌旗，
+出17:15
+；יְהוָה שָׁלוֹם耶和華沙龍（
+SH3073
+），意為耶和華是平安，
+士6:24
+；יְהוָה צִדְקֵנוּ耶和華我們的義（
+SH3072
+），
+耶23:6
+；יְהוָה שָׁמָּה耶和華沙瑪（
+SH3074
+），意為耶和華在那裡，
+結48:35
+，等等。
+
+
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+03068 Y@hovah {yeh-ho-vaw'}
+
+from
+01961
+; TWOT - 484a; n pr dei
+
+AV - LORD 6510, GOD 4, JEHOVAH 4, variant 1; 6519
+
+Jehovah = "the existing One"
+1) the proper name of the one true God
+1a) unpronounced except with the vowel pointings of 0136
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>②英文定義：[字源] from 1961 ;
+(the) self- Existent or Eternal; Jeho-vah , Jewish national name of God</li></ul>
+<ul><li>③字根拆解：1) 獨一真　神的專有名詞
+1a) 不發音, 除非加上
+136
+的母音
+
+
+
+
+
+【3068】יהוה
+
+＜音譯＞Yehovah
+
+＜詞類＞名、專、　神名
+
+＜字義＞自有永有的
+
+＜字源＞來自
+SH1961
+
+
+＜　神出＞484a
+創2:4
+
+
+＜譯詞＞耶和華6376 主1 　神1 (6378)
+
+＜解釋＞
+
+
+〔耶和華〕　神名
+
+
+一、
+耶和華
+（Yahweh雅威），以色列之　神的專有名稱。在以下組合中：אדני יהוה（主耶和華）和יהוה אדני（耶和華主），以及與介詞連用的形式 בַּיהוָֺה（在耶和華中）、לַיהוָֺה（向耶和華）和מֵיהוָֺה（從耶和華），未能顯示其原始形式。根據
+出20:7
+與
+利24:11
+，耶和華被視為一個不可言說的聖名，猶太人稱之為 הַשֵּׁם（哈-舍姆，意為「那名」），而撒馬利亞人則稱之為 שׁימא（希瑪）。
+
+
+
+二、יהוה和אֱלֹהִים一起合用：
+
+
+1. 與אֱלֹהֶיךָ合用：יְהוָה אֱלֹהֶיךָ
+耶和華
+你的　神，
+出20:2
+＝
+申5:6
+
+出34:24,26
+
+書1:9,17
+
+9:9,24
+
+士6:26
+
+代上11:2
+
+22:11,12
+
+代下9:8,8
+
+16:7
+
+賽7:11
+
+37:4,4
+
+41:13
+
+43:3
+
+51:15
+
+55:5
+
+耶40:2
+
+何12:9
+
+13:4
+
+14:2
+
+摩9:15
+
+詩81:10
+。
+
+
+
+2. 與אֱלֹהֵיכֶם合用：יְהוָה אֱלֹהֵיכֶם
+耶和華
+你們的　神，
+出23:25
+
+8:28
+
+10:8,16,17
+
+士6:10
+
+撒上12:12,14
+
+王下17:39
+
+23:21
+
+代上22:18
+
+詩76:11
+
+耶13:16
+
+結20:5 ,7,19,20
+
+珥2:13
+
+亞6:15
+。
+
+
+
+3. 與אֱלֹהֵינוּ合用：יהוָה אֱלֹהֵינוּ
+耶和華
+我們的　神，
+出3:18
+
+5:3
+
+8:10
+
+10:25,26
+
+士11:24
+
+撒上7:8
+
+王上8:57,59,61,65
+
+王下18:22
+
+賽36:7
+
+37:20
+
+代上13:2
+
+耶3:22
+
+但9:10,13,14
+。
+
+
+
+4. 與אֱלֹהֵיהֶם合用：יְהוָה אֱלֹהֵיהֶם
+耶和華
+他們的　神，
+出10:7
+
+29:46,46
+
+利26:44
+
+士3:7
+
+8:34
+
+撒上12:9
+
+王上9:9
+
+王下17:7,9,14,16,19
+
+18:12
+
+代下31:6
+
+33:17
+
+34:33
+
+尼9:3,3,4
+
+耶3:21
+
+22:9
+
+30:9
+
+43:1,1
+
+50:4
+
+結28:26
+
+34:30
+
+39:22,28
+
+何1:7
+
+3:5
+
+7:10
+
+番2:7
+
+該1:12,12
+
+亞 9:16
+
+10:6
+。
+
+
+
+5. 與אֱלֹהָיו合用：יְהוָה אֱלֹהָיו
+耶和華
+他的　神，
+民23:21
+
+出32:11
+
+利4:22
+
+申17:19
+
+18:7
+
+撒上30:6
+
+王上5:3
+
+11:4
+
+15:3,4
+
+王下5:11
+
+16:2
+
+代下1:1
+
+彌5:4
+
+耶7:28
+
+詩33:12
+
+144:15
+
+146:5
+
+拿2:1
+。
+
+
+
+6. 與אֱלֹהָי合用：יְהוָה אֱלֹהָי
+耶和華
+我的　神，
+民22:18
+
+申4:5
+
+18:16
+
+26:14
+
+書14:8,9
+
+撒下24:24
+
+王上3:7
+
+5:4,5
+
+8:28
+
+17:20,21
+
+代上21:17
+
+22:6
+
+代下2:4
+
+6:19
+
+拉7:28
+
+9:5
+
+詩7:3
+
+13:3
+
+18:28
+
+30:12
+
+35:24
+
+40:5
+
+104:1
+
+109:26
+
+賽25:1
+
+耶31:18
+
+但9:4,20
+
+拿2:6
+
+哈1:12
+
+亞11:4
+
+13:9
+
+14:5
+。
+
+
+
+7. 與אֱלֹהַיִךְ合用：יְהוָה אֱלֹהַיִךְ
+耶和華
+妳的　神，
+賽60:9
+
+耶2:17,19
+
+3:13
+
+彌7:10
+
+番3:17
+。
+
+
+
+8. 與אֱלֹהִים合用：יְהוָה אֱלֹהִים
+耶和華
+　神，
+創2:4
+
+3:23
+
+出9:30
+
+撒下7:25
+
+代上17:16,17
+
+28:20
+
+29:1
+
+代下1:9
+
+6:41,41
+
+詩72:18
+
+84:11
+
+拿4:6
+。
+
+
+
+
+三、אֲנִי יהוה （我是
+耶和華
+）值得注意：
+
+
+1.  在אָמַר（說）之後單獨出現，
+出6:2,29
+；或在關係子句及其他子句之前出現，
+創28:13
+
+15:7
+
+出6:6
+；與אֱלֹהֵיכֶם（你們的　神）連用，
+士6:10
+
+結20:5
+。
+
+
+
+2.  出現在יָדַע כִּי（你必知道）之後，
+出7:17
+
+10:2
+
+14:4,18
+
+王上20:13,28
+
+耶24:7
+
+結6:7
+（在以西結書有48次）。與אֱלֹהֵיכֶם（你們的　神）連用，
+出6:7
+
+16:12
+
+申29:6
+
+結20:20
+
+珥3:17
+。與אֱלֹהֵיהֶם（他們的　神）連用，
+出29:46
+
+結28:26
+
+34:30
+
+39:22,28
+。出現在關係子句及其他子句之前，
+賽45:3
+
+49:23,26
+
+60:16
+
+結7:9
+
+17:24
+
+22:22
+
+35:12
+
+36:36
+。與קָדַשׁ（聖潔）連用，
+出31:13
+
+結20:12
+
+37:28
+
+39:7
+。與דִּבַּרְתִּי（我說）連用，
+結5:13
+
+17:21
+。
+
+
+
+3. 在כִּי之後的各種組合：
+利11:44,45
+
+民35:34
+
+利20:7,26
+
+21:8,15,23
+
+22:16
+
+24:22
+
+25:17
+
+26:1,44
+
+出15:26
+
+賽41:13
+
+43:3
+
+61:8
+
+耶9:23
+
+結12:25
+
+20:48
+
+亞10:6
+
+瑪3:6
+。
+
+
+
+4. 加強語氣，
+出6:8
+
+12:12
+
+利26:2,45
+
+民3:13,41,45
+
+利18:5,6,21
+
+19:12,14,16,18,28,30,32,37
+
+21:12
+
+22:2,3,8,30,31,33
+
+賽43:15
+；與אֱלֹהֵיהֶם（他們的　神）連用，
+出29:46
+；與אֱלֹהֶיךָ（你的　神）連用，
+賽48:17
+；與אֱלֹהֵיכֶם（你們的　神）連用，
+利23:43
+
+25:38,55
+
+民10:10
+
+15:41,41
+
+結20:7,19
+
+珥2:27
+；與（מְקַדֵּשׁ分別為聖）連用，
+利20:8
+
+22:9,32
+；與（דִּבַּרְתִּי我說）連用，
+民14:35
+
+結5:15
+＋（有11次在以西結書）；與子句，
+賽27:3
+
+41:4,17
+
+42:6,8
+
+45:5,6,7,8,18,19,21
+
+60:22
+
+耶17:10
+
+32:27
+
+結14:4,7,9
+
+34:24
+。
+
+
+
+
+四、　神的名字יְהוָה
+耶和華
+一詞語常與其它語詞合用，組成另一個專有名詞，例如：ְיְהוָה יִרְאֶה耶和華以勒（
+SH3070
+），意為耶和華必有預備，
+創22:14
+；יְהוָה נִסִּי耶和華尼西（
+SH3071
+），意為耶和華是我的旌旗，
+出17:15
+；יְהוָה שָׁלוֹם耶和華沙龍（
+SH3073
+），意為耶和華是平安，
+士6:24
+；יְהוָה צִדְקֵנוּ耶和華我們的義（
+SH3072
+），
+耶23:6
+；יְהוָה שָׁמָּה耶和華沙瑪（
+SH3074
+），意為耶和華在那裡，
+結48:35
+，等等。
+
+
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+03068 Y@hovah {yeh-ho-vaw'}
+
+from
+01961
+; TWOT - 484a; n pr dei
+
+AV - LORD 6510, GOD 4, JEHOVAH 4, variant 1; 6519
+
+Jehovah = "the existing One"
+1) the proper name of the one true God
+1a) unpronounced except with the vowel pointings of 0136
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>④本書用法：全節的簽名。CBOL 1a) 不發音，除非加上 136（a）的母音；本節 6 次（污穢你 1、汙穢你 1、耶和華的桌子 1、耶和華 1、祂 1），全是賓格或領格，祂不pronounce 自己，只是被提到</li></ul>
+<ul><li>⑤舊約根源：④本書用法：CBOL ＜解釋＞一：Yahweh 雅威，以色列之　神的專有名稱；猶太人稱之為 הַשֵּׁם（哈-舍姆「那名」）；＜　神出＞創 2:4，全舊約譯 6,378 次，出 20:7 與利 24:11 定其為不可言說的聖名</li></ul>
+<ul><li>⑥和合本遗失：⑤舊約根源：譯「耶和華」是純音譯，讀者只讀到一個名字；CBOL ＜解釋＞一「自有永有」那層時態感收走，祂是將「是」進行到底的那一位</li></ul>
+<ul><li>⑦原文對照：⑥和合本遺失：⑦原文對照：【希臘/希伯來】יְהֹוָה　【音譯】Yehovah</li></ul>
+<ul><li>⑧語法補充：⑦原文對照：專有名詞・四字　神名（Tetragrammaton）；本節作 genitive（耶和華的桌子）與 subject（祂＝祂可藐視的）；通常不發音，誦讀時以阿多乃代之</li></ul>
+<ul><li>⑨經文對照：⑧語法補充：出 3:14（我是自有永有的）｜出 20:7（不可褻瀆　神的名）｜利 24:16｜賽 42:8（我是耶和華，這是我的名）｜約 1:1–3（太初有道）｜瑪 3:1（我必差遣我的使者）</li></ul>
+<ul><li>⑪深意：⑨經文對照：名字一出口，桌子就還是祂的。</li></ul>
+<ul><li>⑫跨節鏈：真名鏈：出 3:14（我是）→ 出 6:2–3（未曾以我的名顯現）→ 出 20:7（不可褻瀆）→ 瑪 1:7（耶和華的桌子）→ 約 1:14（住在我們中間）</li></ul></div></details>
+<details class="ntfold"><summary>H00959 — בָּזָה「輕視、鄙視、輕蔑」</summary><div class="ntbody"><ul><li>①基本資料：H00959｜בָּזָה｜bazah｜動詞｜出現despise, disdain, contemn(-ptible), think to scorn, vile person.</li></ul>
+<ul><li>②CBOL分類：1) 藐視, 輕看, 鄙視
+1a) (Qal) 藐視, 輕看
+1b) (Niphal)
+1b1) 被藐視
+1b2) 可藐視的
+1b3) 卑微, 無價值
+1c) (Hiphil) 使之藐視 (
+斯 1:17
+)
+
+
+
+
+
+【0959】בָּזָה
+
+＜音譯＞bazah
+
+＜詞類＞動
+
+＜字義＞輕視、鄙視、輕蔑
+
+＜字源＞一原形字根
+
+＜　神出＞224
+創25:34
+
+
+＜譯詞＞藐視20 輕看7 被...藐視4 被藐視3 可藐視的2 輕視1 卑鄙1 小事1 被輕看1 下賤1 輕忽1 藐視...的1 輕忽...的1 (44)
+
+＜解釋＞
+
+
+一、Qal
+藐視
+、
+輕視
+。
+
+
+完成式－3單陽בָּזָה
+民15:31
+。2單陽בָּזִיתָ
+撒下12:9
+。2單陰בָּזִית
+結16:59
+。2單陽1單詞尾בְזִתָנִי
+撒下12:10
+。1複
+בָזִינוּ瑪1:6
+。
+
+
+
+未完成式－3單陽1複詞尾וַיִּבְזֻהוּ
+撒上10:27
+。2單陽תִבְזֶה
+詩51:17
+
+73:20
+。敘述式3單陽וַיִּבֶז
+創25:34
+
+斯3:6
+。敘述式3單陽3單陽詞尾וַיִּבְזֵהוּ
+撒上17:42
+。敘述式3單陰וַתִּבֶז
+撒下6:16
+
+代上15:29
+。敘述式3複陽וַיִּבְזוּ
+尼2:19
+。
+
+
+
+主動分詞－單陽בּוֹזֶה
+箴15:20
+
+19:16
+。單陽3單陽詞尾בּוֹזֵהוּ
+箴14:2
+。複陽וּבוֹזִים
+代下36:16
+。複陽附屬形בּוֹזֵי
+瑪1:6
+。複陽1單詞尾בֹזַי
+撒上2:30
+。
+
+
+
+被動分詞－單陽בָּזוּי
+耶49:15
+；單陰בְּזוּיָה
+傳9:16
+。
+
+
+
+1.
+藐視
+、
+輕看
+。長子的名份，
+創25:34
+；　神的話語，
+民15:31
+
+撒下12:9
+
+代下36:16
+；　神的名，
+瑪1:6,6
+；誓言，
+結16:59
+
+17:16,18,19
+；聖物，
+結22:8
+；自己的方式，
+箴19:16
+；受苦的人，
+詩22:24
+；窮人的禱告，
+詩102:17
+；傷心痛悔的心，
+詩51:17
+
+73:20
+；直接受詞是人：掃羅，
+撒上10:27
+；大衛，
+撒上17:42
+參
+箴15:20
+；藐視　神，
+撒上2:30
+
+撒下12:10
+
+箴14:2
+；被囚的人，
+詩69:33
+（主詞是　神）；
+撒下6:16
+＝
+代上15:29
+
+王下19:21
+＝
+賽37:22
+
+尼2:19
+；וַיִּבֶז בְּעֵינָיו לִשְׁלֹח יָד בְּמָרְדֳּכַי לְבַדּוֹ他以為下手害末底改一人是
+小事
+，
+斯3:6
+。
+
+
+
+2. 被動分詞：
+被人藐視的
+，
+詩22:6
+
+傳9:16
+
+耶49:15
+
+俄1:2
+。
+
+
+
+
+二、Nifal
+
+
+分詞－單陽נִבְזֶה
+詩15:4
+。單陰נְמִבְזָה
+撒上15:9
+。複陽נִבְזִים
+瑪2:9
+。
+
+
+
+1.
+被藐視
+。他眼中
+藐視
+匪類，
+詩15:4
+
+119:141
+
+賽53:3,3
+
+耶22:28
+。
+
+
+
+2.
+可藐視的
+，
+撒上15:9
+。
+
+
+
+3.
+卑微
+、
+無價值
+，
+瑪1:7,12
+
+2:9
+。
+
+
+
+
+三、Hifil
+使藐視
+
+
+
+不定詞－附屬形הַבְזוֹת בַּעְלֵיהֶן她們就
+藐視
+自己的丈夫，
+斯1:17
+。
+
+
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+0959 bazah {baw-zaw'}
+
+a primitive root; TWOT - 224; v
+
+AV - despise 36, contemptible 3, contemned 1, disdained 1, vile person 1,
+scorn 1; 43
+
+1) to despise, hold in contempt, disdain
+1a) (Qal) to despise, regard with contempt
+1b) (Niphal)
+1b1) to be despised
+1b2) to be despicable
+1b3) to be vile, worthless
+1c) (Hiphil) to cause to despise
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>②英文定義：[字源] a primitive root;
+to disesteem</li></ul>
+<ul><li>③字根拆解：1) 藐視, 輕看, 鄙視
+1a) (Qal) 藐視, 輕看
+1b) (Niphal)
+1b1) 被藐視
+1b2) 可藐視的
+1b3) 卑微, 無價值
+1c) (Hiphil) 使之藐視 (
+斯 1:17
+)
+
+
+
+
+
+【0959】בָּזָה
+
+＜音譯＞bazah
+
+＜詞類＞動
+
+＜字義＞輕視、鄙視、輕蔑
+
+＜字源＞一原形字根
+
+＜　神出＞224
+創25:34
+
+
+＜譯詞＞藐視20 輕看7 被...藐視4 被藐視3 可藐視的2 輕視1 卑鄙1 小事1 被輕看1 下賤1 輕忽1 藐視...的1 輕忽...的1 (44)
+
+＜解釋＞
+
+
+一、Qal
+藐視
+、
+輕視
+。
+
+
+完成式－3單陽בָּזָה
+民15:31
+。2單陽בָּזִיתָ
+撒下12:9
+。2單陰בָּזִית
+結16:59
+。2單陽1單詞尾בְזִתָנִי
+撒下12:10
+。1複
+בָזִינוּ瑪1:6
+。
+
+
+
+未完成式－3單陽1複詞尾וַיִּבְזֻהוּ
+撒上10:27
+。2單陽תִבְזֶה
+詩51:17
+
+73:20
+。敘述式3單陽וַיִּבֶז
+創25:34
+
+斯3:6
+。敘述式3單陽3單陽詞尾וַיִּבְזֵהוּ
+撒上17:42
+。敘述式3單陰וַתִּבֶז
+撒下6:16
+
+代上15:29
+。敘述式3複陽וַיִּבְזוּ
+尼2:19
+。
+
+
+
+主動分詞－單陽בּוֹזֶה
+箴15:20
+
+19:16
+。單陽3單陽詞尾בּוֹזֵהוּ
+箴14:2
+。複陽וּבוֹזִים
+代下36:16
+。複陽附屬形בּוֹזֵי
+瑪1:6
+。複陽1單詞尾בֹזַי
+撒上2:30
+。
+
+
+
+被動分詞－單陽בָּזוּי
+耶49:15
+；單陰בְּזוּיָה
+傳9:16
+。
+
+
+
+1.
+藐視
+、
+輕看
+。長子的名份，
+創25:34
+；　神的話語，
+民15:31
+
+撒下12:9
+
+代下36:16
+；　神的名，
+瑪1:6,6
+；誓言，
+結16:59
+
+17:16,18,19
+；聖物，
+結22:8
+；自己的方式，
+箴19:16
+；受苦的人，
+詩22:24
+；窮人的禱告，
+詩102:17
+；傷心痛悔的心，
+詩51:17
+
+73:20
+；直接受詞是人：掃羅，
+撒上10:27
+；大衛，
+撒上17:42
+參
+箴15:20
+；藐視　神，
+撒上2:30
+
+撒下12:10
+
+箴14:2
+；被囚的人，
+詩69:33
+（主詞是　神）；
+撒下6:16
+＝
+代上15:29
+
+王下19:21
+＝
+賽37:22
+
+尼2:19
+；וַיִּבֶז בְּעֵינָיו לִשְׁלֹח יָד בְּמָרְדֳּכַי לְבַדּוֹ他以為下手害末底改一人是
+小事
+，
+斯3:6
+。
+
+
+
+2. 被動分詞：
+被人藐視的
+，
+詩22:6
+
+傳9:16
+
+耶49:15
+
+俄1:2
+。
+
+
+
+
+二、Nifal
+
+
+分詞－單陽נִבְזֶה
+詩15:4
+。單陰נְמִבְזָה
+撒上15:9
+。複陽נִבְזִים
+瑪2:9
+。
+
+
+
+1.
+被藐視
+。他眼中
+藐視
+匪類，
+詩15:4
+
+119:141
+
+賽53:3,3
+
+耶22:28
+。
+
+
+
+2.
+可藐視的
+，
+撒上15:9
+。
+
+
+
+3.
+卑微
+、
+無價值
+，
+瑪1:7,12
+
+2:9
+。
+
+
+
+
+三、Hifil
+使藐視
+
+
+
+不定詞－附屬形הַבְזוֹת בַּעְלֵיהֶן她們就
+藐視
+自己的丈夫，
+斯1:17
+。
+
+
+
+
+
+參考底本：《尋根版聖經.原文字典》／Chinese Bible With Strong's Concordance Numbers/Biblical Greek And Hebrew-Chinese Dictionary（浸宣出版社）、梁望惠博士的舊約 parsing，以及希伯來文字典 BDB。意見請聯繫twcbhdic「@」fhl.net 註：＜　神出＞表示TWOT神學辭典編號和此字第一次出處
+
+
+
+
+
+0959 bazah {baw-zaw'}
+
+a primitive root; TWOT - 224; v
+
+AV - despise 36, contemptible 3, contemned 1, disdained 1, vile person 1,
+scorn 1; 43
+
+1) to despise, hold in contempt, disdain
+1a) (Qal) to despise, regard with contempt
+1b) (Niphal)
+1b1) to be despised
+1b2) to be despicable
+1b3) to be vile, worthless
+1c) (Hiphil) to cause to despise
+
+
+
+
+
+
+重新查詢</li></ul>
+<ul><li>④本書用法：全節的結論，也是前六節的判決。CBOL 1a) 藐視、輕看；本節完成式 3 複陽（無詞尾）＋1 複詞尾 בָזִינוּ נִבְזֶה「（你們）藐視了；祂可藐視的」，他們藐視的動作，跟他們污穢的動作是同一個動作</li></ul>
+<ul><li>⑤舊約根源：④本書用法：CBOL 1b2) 可藐視的、1b3) 卑微、無價值；＜　神出＞創 25:34（以實瑪被藐視）；＜解釋＞一、Qal 完成式 1 複＋1 複詞尾 בָזִינוּ 瑪 1:6；全舊約譯 44 次</li></ul>
+<ul><li>⑥和合本遗失：⑤舊約根源：譯「藐視」；CBOL 1b3) 卑微、無價值那層收走，נִבְזֶה「（祂是）可藐視的」不只是一個動詞，是一個形容</li></ul>
+<ul><li>⑦原文對照：⑥和合本遺失：⑦原文對照：【希臘/希伯來】בָּזָה　【音譯】bazah</li></ul>
+<ul><li>⑧語法補充：⑦原文對照：動詞・陽・單數；本節完成式 3 複陽＋1 複詞尾；賓語是代名詞 הוּא「祂」＝耶和華；CBOL 1a) Qal 1b2) 1b3) 三義本節同時活著</li></ul>
+<ul><li>⑨經文對照：⑧語法補充：創 25:34（以實瑪被藐視）｜民 15:31（藐視耶和華的話）｜撒上 17:42（這以色列人藐視他）｜詩 51:17（　神不看你）｜結 16:59（所行的可藐視）｜瑪 1:6（我們藐視了）</li></ul>
+<ul><li>⑪深意：⑨經文對照：藐視不是大聲反對，是照樣過日子。</li></ul>
+<ul><li>⑫跨節鏈：藐視鏈：創 25:34（被藐視）→ 民 15:31（藐視　神的話）→ 詩 51:17（不看你）→ 撒上 17:42（藐視他）→ 瑪 1:7（祂可藐視的）→ 路 23:35（他還 mocked 他）</li></ul></div></details>
+</div></details>
+<hr>
+<div class="ntcallout"><div class="nticon">📚</div><div class="ntbody">
+<p><strong>參考文獻</strong></p>
+<p>和合本聖經（　神版）｜World English Bible（WEB）｜呂振中譯本</p>
+<p>信望愛 CBOL 原文聖經查詢系統：H05066、H01351、H03899、H04196、H00559、H07979、H03068、H00959</p>
+<p>Gematria 數字庫【金石DB】（本頁數值由 PY 預算）</p>
+<p>BDB／TWOT：נָגַשׁ、גָּאַל、לֶחֶם、מִזְבֵּחַ、שֻׁלְחָן、בָּזָה 條</p>
+</div></div>
 <blockquote>他問的不是餅。他問的是：桌子，你還認不認得。</blockquote>
 <hr>
-<h2>總意</h2>
-<p>你們將污穢的食物獻在我的壇上。你們說：我們在何事上污穢你呢。</p>
-<p>這是整本瑪拉基書的轉捩點。前六節，　神一直在問；第七節，百姓終於開口。<br>
-他們答得很實在：他們列出禮儀沒有錯、祭物沒有錯、傳統沒有錯。<br>
-可是他們答錯了問題。　神問的從來不是「哪裡不對」，是「這份分量你放在哪裡」。<br>
-他們給的答覆是：這是我們的壇，我們的餅，我們的規矩。<br>
-於是　神把最後的判決放在他們最不看的地方 —— 不是祭物，是桌子。</p>
-<p>שֻׁלְחָן 這個字，同時是桌，也是席。<br>
-出 25:23，　神在會幕裡造了第一張桌，專門為了在上面放餅。<br>
-那張桌從來不是餐桌，是聖餐桌。<br>
-百姓沒有改變那張桌，他們只是改變了自己看那張桌的方式。</p>
-<p>這就是為什麼　神不糾正他們的餅。<br>
-餅的問題是真的，但餅不是重點。<br>
-真正的問題是：他們在　神的桌子上，坐下來吃自己的飯。</p>
-<p>נִבְזֶה הוּא。（祂是）可藐視的。<br>
-這三個字，是舊約裏最冷的一句判詞。<br>
-不是因為　神被推翻，是因為人把祂放到了一個可以忽略的位置。<br>
-他們不是褻瀆　神，是把　神歸檔了 —— 歸入「不潔」「可藐視」「我們的規矩之外的東西」。</p>
-<p>而這，正是瑪拉基書要問每個讀者的問題。<br>
-不是「你守不守禮儀」，是「你認不認得那張桌」。<br>
-不是「你做得多不多」，是「你把這一份放在哪裡」。<br>
-你今天，對這一位抬得起這一份嗎。</p>
+<h2>總意 - 39 瑪拉基書1:07</h2>
+<p><strong>希伯來文原文</strong></p>
+<blockquote>‎מַגִּישִׁים עַל־מִזְבְּחִי לֶחֶם מְגֹאָל וַאֲמַרְתֶּם בַּמֶּה גֵאַלְנוּךָ בֶּאֱמָרְכֶם שֻׁלְחַן יְהוָה נִבְזֶה הוּא׃</blockquote>
+<p><strong>和合本</strong></p>
+<blockquote>你們將污穢的食物獻在我的壇上，且說：『我們在何事上污穢你呢？』因你們說，耶和華的桌子是可藐視的。</blockquote>
+<p><strong>用原文的意思看，有甚麼不同呢？</strong></p>
+<ul><li><strong>獻上（מַגִּישִׁים／נָגַשׁ）</strong> —— 不是隨手放下，是「帶近」。他們把污穢帶近了壇。</li></ul>
+<ul><li><strong>污穢（גָּאַל）</strong> —— 百姓問「我們污穢了你？」；　神指出，污穢的對象其實是祂的桌子。</li></ul>
+<ul><li><strong>桌子（שֻׁלְחָן）</strong> —— 同時是桌與席；出 25:23 為餅而造。</li></ul>
+<ul><li><strong>可藐視的（נִבְזֶה）</strong> —— Nifal 分詞：不是一次動作，是一種被判定的狀態。</li></ul>
+<p>這是整本瑪拉基書的轉捩點。前六節，　神一直在問；第七節，百姓終於開口。他們答得很實在：禮儀沒有錯、祭物沒有錯、傳統沒有錯。可是他們答錯了問題。　神問的從來不是「哪裡不對」，是「這份分量你放在哪裡」。</p>
+<p>שֻׁלְחָן 這個字，同時是桌，也是席。出 25:23，　神在會幕裡造了第一張桌，專門為了在上面放餅。那張桌從來不是餐桌，是聖餐桌。百姓沒有改變那張桌，他們只是改變了自己看那張桌的方式。</p>
+<p>這就是為什麼　神不糾正他們的餅。餅的問題是真的，但餅不是重點。真正的問題是：他們在　神的桌子上，坐下來吃自己的飯。</p>
+<p><em><strong>נִבְזֶה הוּא。
+（祂是）可藐視的。
+不是因為　神被推翻，
+是因為人把祂放到了一個可以忽略的位置。</strong></em></p>
 <hr>
-<h2>附錄：本節 SN 一覽</h2>
-<p class="hintline">完整 ①～⑪ 原文字典見 Notion 子頁；此處只列本節出現之 Strong's，方便離線對照。</p>
-<div class="table-wrap"><table class="sn-table"><thead><tr><th>SN</th><th>原型</th><th>音譯</th><th>簡義／本節形</th></tr></thead><tbody>
-<tr><td class="sn">H05066</td><td class="heb" dir="rtl">נָגַשׁ</td><td><code>nagash</code></td><td>接近、靠近；本節 Hif‘il 分詞複陽 מַגִּישִׁים「帶來／獻上」</td></tr>
-<tr><td class="sn">H01351</td><td class="heb" dir="rtl">גָּאַל</td><td><code>ga'al</code></td><td>玷污、把聖物供俗用；本節 Pu‘al מְגֹאָל／Pi‘el גֵאַלְנוּךָ</td></tr>
-<tr><td class="sn">H03899</td><td class="heb" dir="rtl">לֶחֶם</td><td><code>lechem</code></td><td>麵包、食物</td></tr>
-<tr><td class="sn">H04196</td><td class="heb" dir="rtl">מִזְבֵּחַ</td><td><code>mizbeach</code></td><td>祭壇；本節 מִזְבְּחִי「我的祭壇」</td></tr>
-<tr><td class="sn">H00559</td><td class="heb" dir="rtl">אָמַר</td><td><code>amar</code></td><td>說；本節 וַאֲמַרְתֶּם／בֶּאֱמָרְכֶם</td></tr>
-<tr><td class="sn">H04100</td><td class="heb" dir="rtl">מָה／מַה</td><td><code>mah</code></td><td>什麼、為何；本節 בַּמֶּה</td></tr>
-<tr><td class="sn">H07979</td><td class="heb" dir="rtl">שֻׁלְחָן</td><td><code>shulchan</code></td><td>筵席、桌子；本節附屬形 שֻׁלְחַן</td></tr>
-<tr><td class="sn">H03068</td><td class="heb" dir="rtl">יהוה</td><td><code>YHWH</code></td><td>雅威／耶和華（寫型）；讀型常作 אֲדֹנָי</td></tr>
-<tr><td class="sn">H00959</td><td class="heb" dir="rtl">בָּזָה</td><td><code>bazah</code></td><td>藐視；本節 Nif‘al 分詞 נִבְזֶה</td></tr>
-<tr><td class="sn">H01931</td><td class="heb" dir="rtl">הוּא</td><td><code>hu</code></td><td>他／它</td></tr>
-<tr><td class="sn">H05921</td><td class="heb" dir="rtl">עַל</td><td><code>al</code></td><td>在…上面、關於</td></tr>
-</tbody></table></div>
-  </div>
-  <div class="foot">
-    <div>上一篇：<a href="mal_01_06.html">瑪拉基書 1:06</a>　｜　下一篇：瑪拉基書 1:08（待補）</div>
-    <div>來源：Notion 瑪拉基書1:07 原文逐節查經(稿) · 無語音 · 無讀稿正文</div>
-  </div>
+<p>總目錄：聖經原文 - 逐節查經 - 目錄 - 稿(未完成)</p>
+<p>其他原文查經：拉比解經首頁。中文</p>
+<p>書卷目錄：39瑪拉基書。原文逐節查經</p>
+<p>上一篇：39 瑪拉基書1:06 原文逐節查經(稿)</p>
+<p>下一篇：39 瑪拉基書1:08 原文逐節查經(稿)</p>
 </div>
-<button type="button" id="topbtn" title="回頂部">↑</button>
+</div>
+</details>
+<nav class="footbar">
+<button id="toTop" class="mini">↑ 回頂部</button>
+<a id="dlAll" class="mini" href="#" download="瑪拉基書01_07_逐節查經_靜態版.html">⬇ 下載本節全部（文字，單一檔）</a>
+</nav>
+<div class="donebar"><div class="dt">完成，只是草稿</div>
+<div class="ds">本節查經靜態版已完成（讀稿／語音後補）；全書逐節製作中，未完。</div></div>
+</div>
+<div id="fabpanel">
+<div class="ftitle">頁面變色</div>
+<div class="frow theme" id="ftheme"></div>
+<div class="ftitle audio-later">讀稿／語音後補</div>
+<div class="frow"><button id="fplay" disabled title="後補">▶</button><button id="fstop" disabled title="後補">■</button></div>
+</div>
+<button id="fab" title="主題／控制">✎</button>
+<button id="topFab" title="回頂部">↑</button>
 <script>
+
+'use strict';
+function el(id){ return document.getElementById(id); }
 var THEME = [
   ['宣紙', '#efe9dd', '#3a352d'],
   ['夜書', '#1c1b1f', '#cfcabd'],
@@ -260,35 +7033,136 @@ var THEME = [
   ['藍箋', '#e6ebf1', '#2b3542'],
   ['暮灰', '#e9e9e9', '#3c3c3c']
 ];
-function Gs(k,v){try{localStorage.setItem(k,v);}catch(e){}}
-function Gv(k,d){try{var v=localStorage.getItem(k);return v===null?d:v;}catch(e){return d;}}
-var ti=parseInt(Gv('mal07_ti','0'),10); if(!(ti>=0&&ti<THEME.length)) ti=0;
-var fs=parseFloat(Gv('mal07_fs','18'))||18;
-var lh=parseFloat(Gv('mal07_lh','1.85'))||1.85;
+var ti = 0, fs = 19, lh = 1.9;
+function Sv(k, v){ try { localStorage.setItem(k, v); } catch (e) {} }
+function Gv(k, d){ try { var v = localStorage.getItem(k); return (v === null) ? d : v; } catch (e) { return d; } }
 function apply(){
-  var T=THEME[ti], r=document.documentElement.style;
-  r.setProperty('--bg', T[1]); r.setProperty('--ink', T[2]);
-  r.setProperty('--fs', fs+'px'); r.setProperty('--lh', lh);
-  document.getElementById('fsv').textContent=fs+'px';
-  document.getElementById('lhv').textContent=lh.toFixed(2);
-  var box=document.getElementById('themes');
-  if(box && !box.dataset.ready){
-    THEME.forEach(function(t,i){
-      var b=document.createElement('button'); b.type='button'; b.className='sw'+(i===ti?' on':'');
-      b.textContent=t[0]; b.onclick=function(){ti=i; Gs('mal07_ti',String(i));
-        Array.prototype.forEach.call(box.querySelectorAll('.sw'),function(x,j){x.classList.toggle('on',j===ti);});
-        apply();};
-      box.appendChild(b);
-    });
-    box.dataset.ready='1';
-  }
+  var T = THEME[ti];
+  var r = document.documentElement.style;
+  r.setProperty('--bg', T[1]);
+  r.setProperty('--ink', T[2]);
+  r.setProperty('--fs', fs + 'px');
+  r.setProperty('--lh', lh);
+  var fsv = el('fsv'), lhv = el('lhv');
+  if (fsv) fsv.textContent = fs + 'px';
+  if (lhv) lhv.textContent = Number(lh).toFixed(1);
+  // sync theme buttons
+  document.querySelectorAll('#sw .sw, #ftheme .ftsw, #reftheme .rtsw').forEach(function(b){
+    var idx = parseInt(b.getAttribute('data-ti'), 10);
+    var on = (idx === ti);
+    if (b.classList.contains('sw')) b.className = 'sw' + (on ? ' on' : '');
+    if (b.classList.contains('ftsw')) { b.className = 'ftsw' + (on ? ' on' : ''); }
+    if (b.classList.contains('rtsw')) { b.className = 'rtsw' + (on ? ' on' : ''); }
+  });
 }
-document.getElementById('fs-').onclick=function(){fs=Math.max(14,fs-1);Gs('mal07_fs',String(fs));apply();};
-document.getElementById('fs+').onclick=function(){fs=Math.min(28,fs+1);Gs('mal07_fs',String(fs));apply();};
-document.getElementById('lh-').onclick=function(){lh=Math.max(1.4,+(lh-0.05).toFixed(2));Gs('mal07_lh',String(lh));apply();};
-document.getElementById('lh+').onclick=function(){lh=Math.min(2.4,+(lh+0.05).toFixed(2));Gs('mal07_lh',String(lh));apply();};
-document.getElementById('topbtn').onclick=function(){window.scrollTo({top:0,behavior:'smooth'});};
+function buildThemeButtons(host, cls){
+  if (!host) return;
+  host.innerHTML = '';
+  THEME.forEach(function(T, idx){
+    var b = document.createElement('button');
+    b.className = cls + (idx === ti ? ' on' : '');
+    b.setAttribute('data-ti', String(idx));
+    b.textContent = T[0];
+    b.style.background = T[1];
+    b.style.color = T[2];
+    b.onclick = function(){ ti = idx; Sv('ti', String(idx)); apply(); };
+    host.appendChild(b);
+  });
+}
+function studyPlain(){
+  var box = document.querySelector('.refbody');
+  return box ? box.innerText.trim() + '\n' : '';
+}
+function saveMD(){
+  var blob = new Blob(['\ufeff' + studyPlain()], {type: 'text/markdown;charset=utf-8'});
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = '瑪拉基書01_07_逐節查經.md';
+  document.body.appendChild(a); a.click();
+  setTimeout(function(){ if (a.parentNode) a.parentNode.removeChild(a); }, 800);
+}
+function copyAll(){
+  var t = studyPlain();
+  if (navigator.clipboard) navigator.clipboard.writeText(t);
+}
+function toastLater(){
+  alert('讀稿／語音後補（本版先做靜態查經殼）');
+}
+
+ti = parseInt(Gv('ti', '0'), 10);
+if (!(ti >= 0 && ti < THEME.length)) ti = 0;
+fs = parseFloat(Gv('fs', '19')) || 19;
+lh = parseFloat(Gv('lh', '1.9')) || 1.9;
+
+buildThemeButtons(el('sw'), 'sw');
+buildThemeButtons(el('ftheme'), 'ftsw');
+buildThemeButtons(el('reftheme'), 'rtsw');
 apply();
+
+var fr = el('fr'), lr = el('lr');
+if (fr) {
+  fr.value = fs;
+  fr.oninput = function(){ fs = parseInt(fr.value, 10); Sv('fs', String(fs)); apply(); };
+}
+if (lr) {
+  lr.value = lh;
+  lr.oninput = function(){ lh = parseFloat(lr.value); Sv('lh', String(lh)); apply(); };
+}
+
+['pb','sb','fb','vs0','vs1','rm','rp','rr'].forEach(function(id){
+  var n = el(id);
+  if (!n) return;
+  n.disabled = true;
+  n.classList.add('btn-dis');
+  n.onclick = toastLater;
+});
+document.querySelectorAll('#vbx .vb, #fabpanel button').forEach(function(b){
+  if (b.id === 'topFab') return;
+  if (b.closest && b.closest('#ftheme')) return;
+  if (b.classList.contains('ftsw') || b.classList.contains('rtsw')) return;
+  if (['fplay','fstop','fminus','fplus','fvolm','fvolp','fv1','fv2'].indexOf(b.id) >= 0) {
+    b.disabled = true;
+    b.onclick = toastLater;
+  }
+});
+
+var mb = el('mb'); if (mb) mb.onclick = saveMD;
+var cb = el('cb'); if (cb) cb.onclick = copyAll;
+
+var fab = el('fab'), fabpanel = el('fabpanel');
+if (fab && fabpanel) {
+  fab.title = '主題／字級（讀稿語音後補）';
+  fab.textContent = '✎';
+  fab.onclick = function(){
+    fabpanel.classList.toggle('open');
+    fab.classList.toggle('open');
+  };
+}
+var topFab = el('topFab');
+if (topFab) topFab.onclick = function(){ window.scrollTo({top:0, behavior:'smooth'}); };
+var tt = el('toTop');
+if (tt) tt.onclick = function(){ window.scrollTo({top:0, behavior:'smooth'}); };
+
+// download current page html
+function wireDl(a){
+  if (!a) return;
+  a.onclick = function(ev){
+    ev.preventDefault();
+    var html = '<!doctype html>\n' + document.documentElement.outerHTML;
+    var blob = new Blob([html], {type: 'text/html;charset=utf-8'});
+    var url = URL.createObjectURL(blob);
+    var x = document.createElement('a');
+    x.href = url;
+    x.download = '瑪拉基書01_07_逐節查經_靜態版.html';
+    document.body.appendChild(x); x.click();
+    setTimeout(function(){ URL.revokeObjectURL(url); if (x.parentNode) x.parentNode.removeChild(x); }, 800);
+  };
+}
+wireDl(el('dlAllBar'));
+wireDl(el('dlAll'));
+
+// open study by default on mobile-friendly: keep closed like gold (user expands)
+
 </script>
 </body>
 </html>
