@@ -1,5 +1,6 @@
-// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 563 條
+// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 564 條
 var DATA_DISASTER = `
+2026-11-05	日本千葉東南海域規模3.4地震！東京也有感 暫無海嘯風險	https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xa29rTE1BbmdNUnY3VjNhcW52MHljMF96aXhnSERJVk93Vm5YOGhZZGRTYnY0TlhqR3JpRmwyd2dwZ2dkQWRvYWxaOWlpWVU?oc=5	地震	-
 2026-11-04	藍色地震撼動美政壇嚇倒亞股！市場憂AI監管加嚴 台灣股匯雙殺	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FZW1pWEhqdERXRzlUME5lMGMwZnMzc1RkeWlNWHJHd0dzVGxzNEk0RWNtRmgzNFNEQkNSYlZmWXRKUmUyb255MnM5NXJlV2laYmx3?oc=5	未分類	-
 2026-11-04	菲律賓提高火山警戒級別，爆發把火山灰送上天空	https://news.google.com/rss/articles/CBMiygJBVV95cUxPLWR0RkdfdkJubVlfWk9TWjdUVWhZOGppSUNqckN6ZFp0cC1KZGpya2lHZWtxS0h4NmJVZnVSLWk5YVdpdHBXaWlYQkkxOGlUUUpkQ0diRVM3QTQzYUNMM21CWDJ0cnlOWEVPeVJVR1FuNXowcGU0U3BhZTBIZG90UVluQ295Z1pUNWVHeG0ySFNoTUNCODVZazIxVGJXMDJ4WkJoYmZrMkFKM0dLQ3dNZmF2Ry1vSnh1THJWSUNHNm52b2V2ajl3NkpjUnJ5cl9pNWlnNWFfcHdPeW5NV1h1dzVpWTJlT1NFUXAyOExfZjdWaTdlaktyam1WeEFWSHlXd0VtYjdCZVpHWmF4Tlc4RUc0TkxodkllY01nbnZtdHJVMzdkNzY4VXhxRDFVby1BUThnVW81eWpFcklWQmkzSUZrNS1fNVZCRGc?oc=5	其他災害	-
 2026-11-04	熱浪乾旱衝擊經濟 歐洲央行籲歐元區加速適應氣候變遷	https://news.google.com/rss/articles/CBMiZkFVX3lxTFBETDVITDJSVjRfN0VNaVBuTS1naEZLX1VhTVZmSGF4T3JJMWZwbDJUWEtYZHlGTXl6YjhkUFI0UVZPMzRQdE9XR2lNMGNMUG9TZjRnM2J0aV9Bc2dqV1dRY2NuZlRnZw?oc=5	熱浪乾旱	-
