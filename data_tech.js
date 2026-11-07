@@ -1,5 +1,6 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 516 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 517 條
 var DATA_TECH = `
+2026-11-07	[朝聞天下]我國&&制定的腦機接口國際標準發佈	https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0ctekllQkVXNU1kSHlVZ19tendiNDE2eWhhS3hkTjdqWXh0dk8ybWhCZi1yZ2t3eXZHLUtOX0JUQUZtZ2lxaG8yT0Z5cFZ6Ukg3TXhsZE5RWmJ5azNHOS1QVTdMbG9zTUdHbVhDS3NQd2ZrNnNXMVB0OE91ZjdzZnpWN29SY0QwcTROcng5bzRVNm9W?oc=5	未分類	-
 2026-11-06	六部門：加快推進具身智能、大語言模型、腦機接口、外骨骼等前沿技術在養老領域應用作者智通財經 - Investing.com 香港	https://news.google.com/rss/articles/CBMicEFVX3lxTFBjMUtMNGFsSjhJYWxFOGFiWUZ5V3NEVVJDckJoVmRrbTY3enp4Wkpud1RFRnIyVVNFV0FXRDZXSFZUMWJES2RaN0xDclM0QzlPYTMya3NabHdubEVCMTFNSkpfeTdwZzhqMF9PQVZQSVM?oc=5	未分類	-
 2026-11-06	AI自學駭客技術 男侵入4網站盜賣23萬筆個資	https://news.ltn.com.tw/news/society/breakingnews/5631652	駭客網攻	-
 2026-11-05	銳眼增AI人臉識別 精準快速尋失蹤者	https://news.google.com/rss/articles/CBMilwJBVV95cUxObWZzSmQ3Q1IzTEctbUtaVWU5b3VaNHNYMTd5ZzROeDRvdkpfd2ZMQTdFbEd4bFlyYm1QV1hNaXJJWUNMRnJlN0t4aDVYRTBsZXYxRTRpTzRmS1RneFlKYXRzNkg0LXRYRERfNnQ0eXV0SFBoXzhRbjBmUGFobFJXbFhpdF91WXJZbC1USUktcnhtZm1YSVdDV3FwMzBnWmVJaHF5OW14TGFWMmN0NndQX2RUVjEyYUZLMDlUaWFNRWxUYmx6ZGJUcHlMTFFhTEh1ZnBIQVFDNDRydXYzdUNraldnay1sT1A4VE91OWwxd29wckxuTS1GLWltLUZGbGlGaHN4ZmJKT3B3d25ZX1ZCZmhDYlNKTmM?oc=5	AI監控	-
