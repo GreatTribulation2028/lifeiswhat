@@ -1,5 +1,8 @@
-// 藥物副作用 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 25 條
+// 藥物副作用 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 28 條
 var DATA_SIDEFX = `
+2026-11-08	食藥署：瘦瘦針疑不良反應通報達63件 非罕見副作用	https://news.google.com/rss/articles/CBMiTEFVX3lxTE01eXp6Mjl3UHg3anBrNll0WHkzeTJnbHduQ3hNcXJIUHBkOEVSVGpScVRvMlhXZmF4ZUNUd3FYVGdzdnpwcUVaeTYtR3A?oc=5	生殖其他	-
+2026-11-08	瘦瘦針副作用通報63件、腸胃不適最多 食藥署要求藥商加強風險監控	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IcHdyUzNaaEhjb1BwSnhMaWRUaVd4VEJXUExLMk5oR2VBWng3dTM2cGgxZlMwYmh1RHBocDlURTVSalNoNWRnLVZCZnk4VnZO0gFWQVVfeXFMUHFjOGExdzg3WHlOQmMwc2wyV3VjRVRLeVFMWXRpRTVHeHcyeGZlMVZUYkZnTUdsS0NJdHlOeVRTSE84dEZLRDc2ekE0aFhBeFlTUGZSZWc?oc=5	生殖其他	-
+2026-11-08	打「瘦瘦針」小心副作用！ 食藥署接獲63件疑似不良反應通報	https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3MUJyYlFwbXV2UWlIV2xYYUNSdjk1Q1RCR2JHc0xmaklfTXFpejdvYmdaSWVXcWdKOTFvenpQZHRlczNhdUcxejgwR0FMZnQ3U0g1SVA3bXNxaFVTXzlKdGlabDI?oc=5	生殖其他	-
 2026-11-06	同樣的藥為何有人有效、有人出現副作用？「藥知道你是誰」特展揭基因祕密	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NZ0ZqMXFOX2xVQy05MlRtYi0xMjV6TVN4cVJUekJrLS1RbXBMc3JjUEdCcjZFcUtQb3lOZDJJV3lVWjd1cFZkbXlYc2lhek0?oc=5	生殖其他	-
 2026-11-06	同樣的藥有人有效、有人卻有副作用？ 科教館特展揭基因影響用藥關鍵	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZeFJzd0NzVjR4WTRJV1JaTTB1TXh6NzNsbVJHSzRkdkVaSEc2T0ROLW5FT2RtaUdvVjJIZVJ6eG41MjdxT1NPRUlaSUdhMGZs0gFWQVVfeXFMTVp3VWw0amRES3cyYlRobjB2UmtUaUJzM3dxUGpmaWVyTG8xNmM5ZF8tTnp3bnI1M0cyUHgxTzhIRDlfNHloenZvWFdYS0xFY0o2UVdfR3c?oc=5	生殖其他	-
 2026-11-03	肺癌治療不只「有效」，更要「走得久」 ALK、ROS1病友面對抗藥與副作用醫師籲：基因檢測、主動溝通是關鍵- 健康新聞	https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnZvLUN2NUdmUHgxdkVqWUJEa2dmeVhzSm5LdkNtcENUNkpMTnc2U3A4NGVJLXVqNFh0VHVTS2FZQ3ZNd0N0b1FRXzNqVWM4MDgwZ1J6X3hyRjVIRUtWY01sakVZUEhRdnExY05RN2REQnJ3OEpDNVdaX3FqUVhXTE1uNjVDRU83NWc?oc=5	生殖其他	-

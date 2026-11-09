@@ -1,4 +1,4 @@
-// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 56 條
+// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 57 條
 var DATA_CELESTIAL = `
 2026-10-14	有圖／今年最大「超級月亮」點亮夜空 震撼美照曝光	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EdGo4SFNxNnVrV09ZRHc0cGRLTFVCb1ZKZzJ0eGV0eW5JMkJPRzRkY1RFZnpxaXJhMUJ6NmRlbGVxQk1Jb01YMNIBTEFVX3lxTE5STFk2WFdEMlZWRHctZGZELWxqMDRNMS1GUlNSem5Hd1dhZDVUVmkySzJkODNCakJPVElZckQ2U2dpNHk3ejFxYVdkYkM?oc=5	天象	A
 2026-09-29	3月3日的月全食將是2028年除夕前的最後一次月全食	https://citytimes.tw/科技/3月3日的月全食將是2028年除夕前的最後一次月全食/914215/	血月日蝕	A
@@ -38,6 +38,7 @@ var DATA_CELESTIAL = `
 2025-12-02	要防彗星撞地球！NASA 用 NEO 太空望遠鏡計畫追蹤近地天體	https://www.inside.com.tw/article/30237-NASA-Near-Earth-Object-Surveyor	彗星隕石	A
 2025-12-01	金色彗星C/2025 K1突然爆炸 罕见画面曝光	https://tech.creaders.net/2025/12/01/2943682.html	彗星隕石	A
 2025-11-30	人類發現的第一顆近地小行星 再次飛掠地球	https://www.epochtimes.com/b5/25/11/30/n14645861.htm	彗星隕石	A
+2025-11-04	2025 最大超級月亮登場 手機攝影必學 5 招輕鬆拍出天文級海狸月	https://news.google.com/rss/articles/CBMi-AJBVV95cUxOQmVBMzl4VXZ0dTJsblNyY1RUeUJSckFZYmZ0QnY2elhpWEFneGo0ZU1IbTNVZHE0NHhBMi1LWHV3ekxjSWotTTM0TmNJRUdEaVZzM1FDVGdvSjdBb0tZdFUzSktOMllhbklrRjhlTTY0WWFhS0tQa05KUGJTTHNIU0lIUkd0QkJMdVBXS29jVjNFSEFzdW1ZOGtwYU5aMlhpUERzUWJmRnFVbWdPeHI2clhLUmFaUHpQcFg2Q0FNVUhRazZZbTlxcy1MYVBaSW02UVZ0SWVZbGQzMEotRlc1Y1ZLMnV2ZTBZX1d0U3dEaXlOenNmZTdhQlhoUmI5Y3RTbk5uMDNOWUo5YlYzTU5SZDFEcnJmZ2I5U0hMa1VWVmY1VDZqaDdqYU9udHFRZV9BVHJFWWpSeVJsS1lYcGN0cjFQUWR0UFkyOHVldXUyQmxUWTVndmVGV1J3TkNjaGJJTG8yaTRJZmQ3R3AzelpObWQ3dzQ3YWJw?oc=5	反常天象	-
 2025-10-24	天文學家在太陽強光中發現高速移動小行星	https://www.epochtimes.com/b5/25/10/24/n14622793.htm	彗星隕石	A
 2025-10-24	哈佛教授：神秘天體3I/ATLAS或為外星探測船 10.29最接近太陽真相揭曉 會否出現彗星撞地球？	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/16135812073098/%E7%94%9F%E6%B4%BB-%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88-%E7%A5%9E%E7%A7%98%E5%A4%A9%E9%AB%943I-ATLAS%E6%88%96%E7%82%BA%E5%A4%96%E6%98%9F%E6%8E%A2%E6%B8%AC%E8%88%B9-10-29%E6%9C%80%E6%8E%A5%E8%BF%91%E5%A4%AA%E9%99%BD%E7%9C%9F%E7%9B%B8%E6%8F%AD%E6%9B%89-%E6%9C%83%E5%90%A6%E5%87%BA%E7%8F%BE%E5%BD%97%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83-	彗星隕石	B
 2025-10-16	兩天前才發現的近地小行星 2025 TP5，今天比月球更接近地球	https://technews.tw/2025/10/16/2025-tp5-asteroid-earth-fly-by/	彗星隕石	A
