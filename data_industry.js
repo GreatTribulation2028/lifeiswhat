@@ -1,4 +1,4 @@
-// 工業意外 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 621 條
+// 工業意外 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 622 條
 var DATA_INDUSTRY = `
 2026-11-05	湖口松下工廠爆炸案2員工仍失聯 出動大鋼牙開挖搜救	https://news.google.com/rss/articles/CBMibkFVX3lxTE9xQnhXUHpyZ1NHcm5mbmMxa3hzWVI4eElXQ1dZY3hxeUJpOV9FNmFmVGxhOFlGSWhsMFVJNWdrdFlhWnhwczNtVVh2RFQxTzhVZmJNMC1OZ0hMQjBNLXdZeXpLdUhYemNBR01yeDJB?oc=5	工業意外	-
 2026-11-05	湖口工廠爆炸！2員工失聯逾24小時 動員大鋼牙緊急開挖	https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ROENtRUJHS28tQ2NGd3NIZDFqOXNfMWwxb1ktSFV1X1NGMVBoV0VvWWxwaWFER3VJWXFMUURTaWs3U0dpZkg1NXhwZ3BYNm8?oc=5	工業意外	-
@@ -482,6 +482,7 @@ var DATA_INDUSTRY = `
 2025-05-26	快訊／台積電嘉義廠工安意外…工人遭「變電箱砸中」！ 搶救無效亡	https://www.ettoday.net/news/20250526/2967224.htm	其他工安	A
 2025-05-07	粉嶺奪命工傷｜六旬男工棚架墮下死亡 親友傷心認屍	https://www.stheadline.com/breaking-news/3453347/%E7%B2%89%E5%B6%BA%E5%A5%AA%E5%91%BD%E5%B7%A5%E5%82%B7%E5%85%AD%E6%97%AC%E7%94%B7%E5%B7%A5%E6%A3%9A%E6%9E%B6%E5%A2%AE%E4%B8%8B%E6%AD%BB%E4%BA%A1-%E8%A6%AA%E5%8F%8B%E5%82%B7%E5%BF%83%E8%AA%8D%E5%B1%8D	自然離世	A
 2025-04-16	6年108致命工業意外 揭有工程無安全網 事故後方首次安全審核	https://news.google.com/rss/articles/CBMiqgNBVV95cUxQMm52RGp3dGV0NzBiWXdzWU0zU2VkN1Z3N2FtX1ZhMWJmQXNGRmNsYXI4c2RJRmVicThNMkx1Sm5ZcUEzWU1jUnpYbTVsYXlwMHFvYWdXZnJQaHlYZV9DWXN5bjZKNHZ0YmdxMVFrSW1yR2tmc21TUDRyTl9UZ184SmZGREtfaWExWDZpcm5NRDk4OWRJZHQ3dTR6WllqT3Jkc25oQ3ZCNkZQWXc2eGVqM0NmX3lQVEI3TVNTN3ZVZkRJQVV1QVNlSTRSdlV4bFYydk81U3MzX0lKWGxzWDlNNUVfZURtOHBoeTJMZW9fOHpCcnl5RWUwTG9PY0J2N3pxOExQWl9EWkZEZVpZemlzdl9ESTMyT3V4N1FzbURtclFJSVF6TEE1LU1IWEhnWFJkTHJYY0h5VWdsbG1TTmNwS0Q5eUh1Z05lU1NoUXBrb2l5MUpPMDFEU2RfckMzMTUyQTR0Z0swYlZ0ZzkteVZZMlJhZVN0MDN6YXItOXVaUDhGdGotd0didEdMR0ZhYVdfWmZVVnRSdnR2dng3VnpTdmpZRzY5V3p2YWc?oc=5	其他工安	B
+2025-02-18	香港工業意外去年奪23人命，修例成效存疑	https://news.google.com/rss/articles/CBMitAJBVV95cUxNVzZVYWMxXy03Tm16TXhLY1ByMDI2NG5Ea0FsY3FtRlRqcVUzeEM2N2pLMXlSOFF5TDJPZlV3cW83VERPblN5SXZzR2FSb1ctMVBGNUNjS2hYUFB3M29tNDdNZWdHbFR2a3gzcGQ3VEUybmhyMVRyUllaQ2M4QXV5S0wyT0dTTGNPOXNMSEp4Q1lXUk5Ma0Q4ci0tMElBQkdxV0NDMkh6amF5dUY1NnNFcnRBNjNBSlFoQ2MxNzJfNV9NRkY5WUEyUjVfcTg4eUxzZ3dXYnlSOWtfMVAwNU1QX0dSUi1udFM4QldCYjUxRUd5N1B0RF9GZkw2VHFKQlhSb09Ka2c5aXFRbTNnRkNFeDd1d3NCWl9WTFNyN0dSUGJlRllwQUhzOWx3aWRSaVdTN3RWcw?oc=5	其他工安	-
 2025-01-26	奪命工傷｜每150億工程有1人死 張欣宇促明晰權責：勿以人命為價	https://news.ifeng.com/c/8pQGkqvKjSv	其他工安	B
 2024-12-18	台南驚悚工安意外！ 鋼鐵廠男工遭輸送帶捲入身體曲折慘死	https://www.chinatimes.com/realtimenews/20241218001954-260402	機械夾傷	A
 2024-12-18	台南鋼鐵廠工安事故「員工遭輸送帶捲入」 當場身亡未送醫	https://tw.news.yahoo.com/%E5%8F%B0%E5%8D%97%E9%8B%BC%E9%90%B5%E5%BB%A0%E5%B7%A5%E5%AE%89%E4%BA%8B%E6%95%85-%E5%93%A1%E5%B7%A5%E9%81%AD%E8%BC%B8%E9%80%81%E5%B8%B6%E6%8D%B2%E5%85%A5-%E7%95%B6%E5%A0%B4%E8%BA%AB%E4%BA%A1%E6%9C%AA%E9%80%81%E9%86%AB-061100651.html	機械夾傷	A
