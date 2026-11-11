@@ -8,20 +8,23 @@
 <style>
  body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
       background:#efe9dd;color:#3a352d;font-family:"Noto Sans HK","Microsoft JhengHei","PingFang HK",sans-serif;text-align:center}
- .c{max-width:620px;padding:28px}
+ .c{max-width:640px;padding:28px}
  h1{font-size:1.6em;margin:0 0 .3em}
  .sub{font-size:.88em;color:#8a6d3b;letter-spacing:.06em;margin:0 0 1.1em;font-weight:700}
- .s{font-size:.85em;color:#7a7264;margin:0 0 1.6em;line-height:1.9}
- .row{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+ .s{font-size:.85em;color:#7a7264;margin:0 0 1.4em;line-height:1.9}
+ .row{display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:10px}
+ .lbl{font-size:.72em;color:#9a917f;margin:.6em 0 .2em;letter-spacing:.05em}
  a.b{display:inline-block;background:#8a6d3b;color:#fff;text-decoration:none;
-      padding:14px 26px;border-radius:10px;font-size:1.02em;font-weight:700}
+      padding:13px 24px;border-radius:10px;font-size:1em;font-weight:700}
  a.b:hover{background:#6f5730}
  a.b2{background:transparent;color:#8a6d3b;border:2px solid #8a6d3b}
  a.b2:hover{background:rgba(138,109,59,.12)}
- .n{margin-top:1.6em;font-size:.75em;color:#7a7264;line-height:1.9}
- .u{margin-top:1.3em;font-size:.68em;color:#9a917f;word-break:break-all;line-height:1.7}
- /* 載入進度 */
- .pg{display:none;margin:1.5em auto 0;max-width:460px;text-align:left}
+ a.b3{background:#4f6b52;color:#fff}
+ a.b3:hover{background:#3d5540}
+ .tag{display:block;font-size:.66em;font-weight:400;opacity:.85;margin-top:3px}
+ .n{margin-top:1.4em;font-size:.75em;color:#7a7264;line-height:1.9}
+ .u{margin-top:1.1em;font-size:.66em;color:#9a917f;word-break:break-all;line-height:1.8}
+ .pg{display:none;margin:1.4em auto 0;max-width:460px;text-align:left}
  .pg.show{display:block}
  .pgbar{height:9px;border-radius:6px;background:#ded5c4;overflow:hidden}
  .pgbar i{display:block;height:100%;width:0;background:#8a6d3b;transition:width .18s linear}
@@ -35,9 +38,11 @@
  <h1>【少女的心聲】</h1>
  <p class="sub">Cutegirl　廣東話</p>
  <p class="s">《永遠歸我》單檔離線版　・　MP4 ＋ 歌曲 MP3（可調速／音量）＋ 粵語讀稿 ＋ 11 張啟發卡片（撳一下換下一張）</p>
+
+ <p class="lbl">網頁版（首次開啟要落完整個檔案）</p>
  <div class="row">
-  <a class="b" id="btnWeb" href="%E6%B0%B8%E9%81%A0%E6%AD%B8%E6%88%91_%E9%9B%A2%E7%B7%9A%E7%89%88.html?v=2">網頁版：開啟離線版</a>
-  <a class="b b2" href="https://github.com/GreatTribulation2028/lifeiswhat/releases/download/mv-forever-betrothed-2026-11-10/forever-betrothed-yue-offline-v7.html">下載離線檔</a>
+  <a class="b web" id="btnHD" href="%E6%B0%B8%E9%81%A0%E6%AD%B8%E6%88%91_%E9%9B%A2%E7%B7%9A%E7%89%88.html?v=2">HD 版<span class="tag">畫質最好，檔案較大</span></a>
+  <a class="b b3 web" id="btnLite" href="%E6%B0%B8%E9%81%A0%E6%AD%B8%E6%88%91_%E9%9B%A2%E7%B7%9A%E7%89%88_%E5%BF%AB%E9%80%9F.html?v=1">快速版<span class="tag">畫質稍低，載入快一倍</span></a>
  </div>
 
  <div class="pg" id="pg">
@@ -47,22 +52,32 @@
    <span id="pgb">—</span>
    <span id="pgs">— MB/s</span>
   </div>
-  <div class="pghint" id="pgh">第一次開啟要落完整個檔案，落咗之後就<b>即刻開到</b>，唔使再等。</div>
+  <div class="pghint" id="pgh">落齊咗就<b>即刻開到</b>，唔使再等。</div>
+ </div>
+
+ <p class="lbl">離線檔（下載咗，唔使再上網）</p>
+ <div class="row">
+  <a class="b b2" href="https://github.com/GreatTribulation2028/lifeiswhat/releases/download/mv-forever-betrothed-2026-11-10/forever-betrothed-yue-offline-v7.html">下載 HD 版<span class="tag">畫質最好</span></a>
+  <a class="b b2" href="https://github.com/GreatTribulation2028/lifeiswhat/releases/download/mv-forever-betrothed-2026-11-10/forever-betrothed-yue-offline-lite.html">下載快速版<span class="tag">檔案細一半</span></a>
  </div>
 
  <p class="n">下載咗就可以離線打開（唔使再上網）<br>何西阿書 第二章</p>
- <p class="u">網頁版　https://greattribulation2028.github.io/lifeiswhat/m/mv.html?v=2<br>下載　　https://github.com/GreatTribulation2028/lifeiswhat/releases/download/mv-forever-betrothed-2026-11-10/forever-betrothed-yue-offline-v7.html</p>
+ <p class="u">
+  網頁版 HD　https://greattribulation2028.github.io/lifeiswhat/m/%E6%B0%B8%E9%81%A0%E6%AD%B8%E6%88%91_%E9%9B%A2%E7%B7%9A%E7%89%88.html?v=2<br>
+  網頁版 快速　https://greattribulation2028.github.io/lifeiswhat/m/%E6%B0%B8%E9%81%A0%E6%AD%B8%E6%88%91_%E9%9B%A2%E7%B7%9A%E7%89%88_%E5%BF%AB%E9%80%9F.html?v=1<br>
+  下載 HD　https://github.com/GreatTribulation2028/lifeiswhat/releases/download/mv-forever-betrothed-2026-11-10/forever-betrothed-yue-offline-v7.html<br>
+  下載 快速　https://github.com/GreatTribulation2028/lifeiswhat/releases/download/mv-forever-betrothed-2026-11-10/forever-betrothed-yue-offline-lite.html
+ </p>
 </div>
 <script>
 (function(){
- var a=document.getElementById('btnWeb'),
-     pg=document.getElementById('pg'),
+ var pg=document.getElementById('pg'),
      fill=document.getElementById('pgfill'),
      n=document.getElementById('pgn'),
      mb=document.getElementById('pgb'),
      sp=document.getElementById('pgs'),
      gh=document.getElementById('pgh');
- var url=a.href, t0=0, got=0, total=0, busy=false;
+ var t0=0, got=0, total=0, busy=false;
 
  function fmt(x){return (x/1048576).toFixed(1);}
  function upd(){
@@ -78,46 +93,48 @@
    var el=(Date.now()-t0)/1000;
    sp.textContent = el>0.4 ? (fmt(got)/el).toFixed(1)+' MB/s' : '— MB/s';
  }
- function go(){ location.href=url; }
 
- a.addEventListener('click',function(e){
-   e.preventDefault();
-   if(busy) return;
-   busy=true;
-   pg.classList.add('show');
-   t0=Date.now(); got=0; total=0;
-   /* 攞總大小：HEAD 冇 Content-Length（Pages 壓縮回應）→ 用 Range 206 嘅 content-range */
-   fetch(url,{headers:{Range:'bytes=0-0'}}).then(function(r){
-     var cr=r.headers.get('content-range')||'';
-     var m=cr.match(/\/(\d+)\s*$/);
-     if(m){ total=Number(m[1]); upd(); }
-   }).catch(function(){});
-   fetch(url,{cache:'default'}).then(function(res){
-     if(!res.ok||!res.body) throw new Error('http '+res.status);
-     var cl=Number(res.headers.get('Content-Length'))||0;
-     if(cl>total){ total=cl; }
-     var rd=res.body.getReader();
-     upd();
-     (function step(){
-       return rd.read().then(function(r){
-         if(r.done){
-           if(total>0){got=total;}
+ document.querySelectorAll('a.web').forEach(function(a){
+   a.addEventListener('click',function(e){
+     e.preventDefault();
+     if(busy) return;
+     busy=true;
+     var url=a.href;
+     pg.classList.add('show');
+     t0=Date.now(); got=0; total=0;
+     /* 攞總大小：HEAD 冇 Content-Length（Pages 壓縮回應）→ 用 Range 206 嘅 content-range */
+     fetch(url,{headers:{Range:'bytes=0-0'}}).then(function(r){
+       var cr=r.headers.get('content-range')||'';
+       var m=cr.match(/\/(\d+)\s*$/);
+       if(m){ total=Number(m[1]); upd(); }
+     }).catch(function(){});
+     fetch(url,{cache:'default'}).then(function(res){
+       if(!res.ok||!res.body) throw new Error('http '+res.status);
+       var cl=Number(res.headers.get('Content-Length'))||0;
+       if(cl>total){ total=cl; }
+       var rd=res.body.getReader();
+       upd();
+       (function step(){
+         return rd.read().then(function(r){
+           if(r.done){
+             if(total>0){got=total;}
+             upd();
+             fill.style.width='100%'; n.textContent='100%';
+             gh.innerHTML='落齊咗，<b>開緊</b>……';
+             setTimeout(function(){location.href=url;},150);
+             return;
+           }
+           got+=r.value.length;
            upd();
-           fill.style.width='100%'; n.textContent='100%';
-           gh.innerHTML='落齊咗，<b>開緊</b>……';
-           setTimeout(go,150);
-           return;
-         }
-         got+=r.value.length;
-         upd();
-         return step();
-       });
-     })();
-   }).catch(function(){
-     gh.innerHTML='落唔到，直接開（可能要等一陣）……';
-     setTimeout(go,400);
+           return step();
+         });
+       })();
+     }).catch(function(){
+       gh.innerHTML='落唔到，直接開（可能要等一陣）……';
+       setTimeout(function(){location.href=url;},400);
+     });
    });
  });
- window.__mvStart=function(){a.click();};
+ window.__mvStart=function(){document.querySelector('a.web').click();};
 })();
 </script></body></html>
