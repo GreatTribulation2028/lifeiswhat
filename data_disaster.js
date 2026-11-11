@@ -1,5 +1,7 @@
-// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 614 條
+// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 616 條
 var DATA_DISASTER = `
+2026-11-11	戰火天災襲加薩 暴雨沖垮沙堤淹沒帳篷至少5死	https://news.google.com/rss/articles/CBMiYEFVX3lxTE90dFdVendGRkxqMVROSXRSODVYVU1RV3U3Nm5PUVlscFVKNEQzN2F6X2stZ3F4WUliWHJLZEVPWTJVa1RxblM2NkdiWm9KOC1ESkFFWl9DcktocXpBcGZBNw?oc=5	水災暴雨	-
+2026-11-10	美選慘遭「藍色海嘯」襲擊！雷倩：川普自欺欺人急甩鍋	https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SYklicWhqNG9wS2w2RUUxYVQ1UnFmMXEyOTJTbk53RUdJd25CN2E4azM5M2VzRmVqYVA4SlVPckVrSWJJM1F2NkRnMGVhcVIyUm9F?oc=5	其他災害	-
 2026-11-10	快訊／罕見跨界颶風越線「強勢變颱風」！對台威脅、最新路徑曝	https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wN1ZzY25IdEh6SE92RU5aUmlZTGZ0eTFNOGJTWTNDOS1Yd2gxMF9vRVV1NDdyeS1LdUtrZVdrTWkwM21ldHVFYjlLWkNCQQ?oc=5	颱風風暴	-
 2026-11-10	以為大地震！鋼鐵廠爆炸多人死傷 恐怖畫面曝	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HUWZGdWJYWENVX0pFb0pZTlpxdnhJT3JFLWlxZlZEX3pSZ3pCa3pZa3Z2Wk5rencxYW9HajAxbjdxTmUwVzQyN044bUNNRURsc1Zr?oc=5	地震	-
 2026-11-09	靜岡地震︱昨凌晨現5.7級地震20多人傷 震央位於南海海槽引關注	https://news.google.com/rss/articles/CBMikgNBVV95cUxOdjlXWmdIb3ZleG9ic2JpN0laNmpWUHhfMEZfZEdseWRaRjIteGdaQTRWOGk5a0k2WEM5T1NKaWtiZ1pEOFN2eG5kTFp2SHk3MUtBaGJzU0NJZXZycEtERWgzMVJMRl9WOVVfbkxhVlR5X3YxQWJYNDBfWnh1MXkzWHk5ckZTVV9IWDF6NnBPMTlTTDRTU2FhQmxkcW1sc09SazNYRGZtdG9zNGRheFFuMmlTU2Q4S3VJYXlRY0poRmdCcWVpTy1MUDJmaHFSd0NNeV80UzFEc2lBckhlb3F6UXVKbk40LXp3QnhacDZZSk1zR2wxNU41a0tEOHBTelNyYkhWRUh6bWxySUtjS3NrRDBIOGdMaTFOZHQxeTZGeG5UQ1V3ODJvRXNTLXYycFhJOHYyT3BYVEZCamhYUmZhbzg2OGhZUjVRY0N0VTF0RTl0YmV2VmlCdWhIbWxta3BSMnFGNzc1NjczcjRFTTJuRDJmbVZuQnBEUGNjNGlBbERYSEp0Ny11a1h0dkFnb2phcXc?oc=5	地震	-

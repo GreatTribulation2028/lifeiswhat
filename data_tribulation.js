@@ -1,5 +1,6 @@
-// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 26 條
+// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 28 條
 var DATA_TRIBULATION = `
+2026-11-10	一場「大災難」改變了一個家庭的形狀！橫跨七十年的《被消失的家園》入選奧斯卡 15 強	https://news.google.com/rss/articles/CBMiREFVX3lxTE5Yb3VyNkJTRTkyZ2FKdlpRVE5hUHNkNFpTUHFJMzZRZGM3RUlqdmtJd3R6Um9wWXgwd3pEUmg4anVmM3Bw?oc=5	大災難進程	-
 2026-03-10	末日預言系列“終極之戰”哈米吉多頓	https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4V19za3NwV3RNMWVyOWUwam53RHo1bGVHVmEwdW5HS29jNGRzRzNKRU1sREhLcExTM3A4S0xQNUktdk1rNURjNWRiMS1KbmUwN3pYTktNdl9ZSEpm?oc=5	末日預兆	B
 2026-01-02	2026年11/13世界末日預言「科學死法」難逃？恐比盲眼龍婆還準	https://city.gvm.com.tw/article/127106	末日預兆	B
 2026-01-01	第145課：但以理書6——從經文中找出福音真理	https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/45-daniel/454-daniel-6?lang=zho	聖經應驗	B
@@ -24,6 +25,7 @@ var DATA_TRIBULATION = `
 2019-10-11	我們怎麼知道哈米吉多頓近了	https://www.jw.org/yue-hant/%E5%A4%9A%E5%AA%92%E9%AB%94%E5%9C%96%E6%9B%B8%E9%A4%A8/%E6%9B%B8%E7%B1%8D/%E5%90%91%E5%81%89%E5%A4%A7%E7%9A%84%E5%B0%8E%E5%B8%AB%E8%80%B6%E7%A9%8C%E5%AD%B8%E7%BF%92/%E6%88%91%E5%80%91%E6%80%8E%E9%BA%BC%E7%9F%A5%E9%81%93%E5%93%88%E7%B1%B3%E5%90%89%E5%A4%9A%E9%A0%93%E8%BF%91%E4%BA%86/	大災難進程	B
 2019-04-23	「至高者在人的國中掌權」 從但以理書學習遠離傲慢	https://www.cdn-news.org/news/17589	其他末世	B
 2018-09-12	【聖經預言】以色列誕生紅色母牛 末日預言或將成真	https://www.exmoo.com/article/79345.html	末日預兆	A
+2018-05-30	皮下晶片是「末日獸印」？上帝國度才是未來焦點	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMRlQ1U2xVOTZGeWYwVXF4eUlWVzl3YXlWdzNUUGlZT2Z5QzFjZUpqU2hmY0lnSy1GQzBBaTN1N0kxcmhQSXdJYXlFdk5uaXNyOUxUTUZ6aThaZw?oc=5	獸印系統	-
 2017-09-18	預言家：9月23日是世界末日	https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWxoc2t3LUUxTU4yUEFCN1o0UmlJcXVla2g5bkZuMUI4ZldUaWVRSFV3dWpsX2VxalNwRXRDTVBzek5mbEE1MGstdVBkYzZqV0tseXdxd0tYVkRPVTMxNnNPX1NicEltSEhTbWNoNUhIOFlfQWNGOGRfTzJUU252QTEyWHhKejVKTFhwOEF4S2JlYWQxTm4xRkxINTlUV1UtVndKaks3akdDZlE?oc=5	末日預兆	B
 2016-04-26	但以理書8章 國語	https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FTGNzYnlwV090aWQtdWplZ3N4NXB1UmpGdC1xc3dEeDVZaGdXRm12SDN1amxXRDB4NTdRUGpxUzBIdw?oc=5	其他末世	B
 `;
