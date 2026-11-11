@@ -490,24 +490,38 @@ window.__LYRICTL__ = [["那時，她佩帶耳環，和別樣妝飾。", 0.0], ["
   /* 開啟卡片按鈕 = 顯示當前張（首次顯示第 1 張） */
   showCard(0);
 
-  /* ===== 循環重溫：重播到下一個段落為止 ===== */
-  document.getElementById('btnLoop').addEventListener('click',function(){
-    var C=window.__CARDS__||[];
-    if(this.dataset.on==='1'){
-      this.dataset.on='0'; this.textContent='⟲ 循環重溫'; vid.removeEventListener('timeupdate',loopWatch); return;
+  /* ===== 循環重溫：撳掣之後嘅片段播到片尾自動跳返原處再播 ===== */
+  /* 2026-11-11 修 bug：舊版跳返「第一張卡時間」(C[0].t=21) 而唔係起點 → 影片永遠卡喺 21 秒 */
+  var loopBtn=document.getElementById('btnLoop');
+  function loopWatch(){
+    if(loopBtn.dataset.on!=='1') return;
+    if(vid.currentTime>=vid.duration-0.08){
+      vid.currentTime=parseFloat(loopBtn.dataset.start);
+      vid.play();
     }
-    var t=vid.currentTime, next=null;
-    for(var k=0;k<C.length;k++){ if(C[k].t>t){ next=C[k].t; break; } }
-    if(next==null){ next=vid.duration; }
-    this.dataset.on='1'; this.textContent='⏹ 停止循環';
-    this.dataset.next=String(next);
+  }
+  function loopEnded(){
+    if(loopBtn.dataset.on!=='1') return;
+    vid.currentTime=parseFloat(loopBtn.dataset.start);
+    vid.play();
+  }
+  loopBtn.addEventListener('click',function(){
+    if(loopBtn.dataset.on==='1'){
+      loopBtn.dataset.on='0';
+      loopBtn.textContent='⟲ 循環重溫';
+      vid.removeEventListener('timeupdate',loopWatch);
+      vid.removeEventListener('ended',loopEnded);
+      return;
+    }
+    var t=vid.currentTime;
+    var st=(t<0.5)?0:t;
+    loopBtn.dataset.on='1';
+    loopBtn.textContent='⏹ 停止循環';
+    loopBtn.dataset.start=String(st);
     vid.addEventListener('timeupdate',loopWatch);
-    function loopWatch(){
-      if(vid.currentTime>=parseFloat(document.getElementById('btnLoop').dataset.next)){
-        vid.currentTime = (C[0]?C[0].t:0);
-        vid.play();
-      }
-    }
+    vid.addEventListener('ended',loopEnded);
+    vid.currentTime=st;
+    vid.play();
   });
 
   /* ===== 設面板同步 ===== */
