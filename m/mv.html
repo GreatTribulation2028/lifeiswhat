@@ -62,14 +62,19 @@
      mb=document.getElementById('pgb'),
      sp=document.getElementById('pgs'),
      gh=document.getElementById('pgh');
- var url=a.href, t0=0, got=0, busy=false;
+ var url=a.href, t0=0, got=0, total=0, busy=false;
 
  function fmt(x){return (x/1048576).toFixed(1);}
- function upd(total){
-   var pct= total>0 ? Math.min(100,Math.round(got/total*100)) : 0;
-   fill.style.width=pct+'%';
-   n.textContent=pct+'%';
-   mb.textContent=fmt(got)+' / '+fmt(total)+' MB';
+ function upd(){
+   if(total>0){
+     var pct=Math.min(100,Math.round(got/total*100));
+     fill.style.width=pct+'%';
+     n.textContent=pct+'%';
+     mb.textContent=fmt(got)+' / '+fmt(total)+' MB';
+   }else{
+     n.textContent='落緊…';
+     mb.textContent=fmt(got)+' MB';
+   }
    var el=(Date.now()-t0)/1000;
    sp.textContent = el>0.4 ? (fmt(got)/el).toFixed(1)+' MB/s' : '— MB/s';
  }
@@ -80,24 +85,28 @@
    if(busy) return;
    busy=true;
    pg.classList.add('show');
-   t0=Date.now(); got=0;
+   t0=Date.now(); got=0; total=0;
+   /* Pages 對大檔用 gzip 回應，GET 冇 Content-Length → 用 HEAD 攞真實總大小 */
+   fetch(url,{method:'HEAD'}).then(function(r){
+     total=Number(r.headers.get('Content-Length'))||0;
+     upd();
+   }).catch(function(){});
    fetch(url,{cache:'default'}).then(function(res){
      if(!res.ok||!res.body) throw new Error('http '+res.status);
-     var total=Number(res.headers.get('Content-Length'))||0;
      var rd=res.body.getReader();
-     upd(total);
+     upd();
      (function step(){
        return rd.read().then(function(r){
          if(r.done){
            if(total>0){got=total;}
-           upd(total);
+           upd();
            fill.style.width='100%'; n.textContent='100%';
            gh.innerHTML='落齊咗，<b>開緊</b>……';
            setTimeout(go,150);
            return;
          }
          got+=r.value.length;
-         upd(total);
+         upd();
          return step();
        });
      })();
