@@ -1,5 +1,6 @@
-// 工業意外 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 622 條
+// 工業意外 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 623 條
 var DATA_INDUSTRY = `
+2026-11-10	工傷4小時2宗 中環女工電鑽傷右食指 新蒲崗女店員刀傷左食指	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnJFQVpKQnhRS3VId29sRDNCR2FFWWJMZnNuM1FqQUwxMzZNUy16NWhKSjJWLWR5dEVUT0VtcUk2aGtGbmJsU3hjaFdnZkZOWUI5eks5SS1NbnV5V0N1MkhCSjlHeE5sZmtyTFhJMXZBZWJHeEo2WVdrREpQVkp6MWdBZGd0SlhIU2M4?oc=5	其他工安	-
 2026-11-05	湖口松下工廠爆炸案2員工仍失聯 出動大鋼牙開挖搜救	https://news.google.com/rss/articles/CBMibkFVX3lxTE9xQnhXUHpyZ1NHcm5mbmMxa3hzWVI4eElXQ1dZY3hxeUJpOV9FNmFmVGxhOFlGSWhsMFVJNWdrdFlhWnhwczNtVVh2RFQxTzhVZmJNMC1OZ0hMQjBNLXdZeXpLdUhYemNBR01yeDJB?oc=5	工業意外	-
 2026-11-05	湖口工廠爆炸！2員工失聯逾24小時 動員大鋼牙緊急開挖	https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ROENtRUJHS28tQ2NGd3NIZDFqOXNfMWwxb1ktSFV1X1NGMVBoV0VvWWxwaWFER3VJWXFMUURTaWs3U0dpZkg1NXhwZ3BYNm8?oc=5	工業意外	-
 2026-11-05	湖口工廠爆炸釀5傷2失聯 4樓尋獲一具遺體、身分待驗 | 鏡新聞	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBncmplUnFmVHl3ZjhDWHNvbEhmbTI4bm9jRkg4QzdxQU5xWTZZYl94Q0hDZVJJdWctZjNidm9VNlZlazZJalEwai1IUG5rdVV5LVhxM3p3?oc=5	工業意外	-

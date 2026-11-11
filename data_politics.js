@@ -1,5 +1,6 @@
-// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 247 條
+// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 248 條
 var DATA_POLITICS = `
+2026-11-10	選戰倒數傳悲劇！彰化候選人拚連任突驟逝 選舉公報緊急應變	https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wV2pyOG1KckdhNW1ObkM4WUhjRUd3ZENZRVB6MzJCWmRaeUpZczVIdDFwSE1BTnpfaC0yMkRKTzZReDZ0TnR6SGZJdnVtbkJjSHEzcHlzcVc0YzdBX3fSAUtBVV95cUxNSFJqWDcySHNFUjNHaW5SS0QzX3h3MEhuQkhvazZpSU1Gbzd6OTNjUUplWFl0bU9oS2JFeVAwU0w5Rm8zR2gxNGFxQUU?oc=5	政治	-
 2026-11-10	獨裁政權的玻璃心心態	https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tcUVCV1JpVHpNT0N6eVBXN0ZCZ0VYa3JLT0JEZTliZDNNTFNXeVU3TnB6SEcwTERWeTFEUWRfdWN3SzZ6aWFHQy1Kc2xqbWhVdEcxbGJJV28?oc=5	獨裁專政	-
 2026-11-09	韓國KOSDAQ指數跌破638點，回到戒嚴衝擊水位…市值蒸發約7.7兆新台幣	https://news.google.com/rss/articles/CBMiekFVX3lxTE12SWZZaUhYSENuVkRFcndkWUR5Q0RoRFN0MXk0VTFZNGtTTVFfZU1Yd3NKS0dqaUJNSUxHTWV5d3I4eTFra2lNSnZXU1NXT3lPZzl4aFFycGhaZjhEWTFJc3NLR1J6d2tMZVk3RmdJUjNoZno3OV81Q3Fn?oc=5	獨裁專政	-
 2026-11-09	蔣萬安遭控帶隊包圍店家 林楚茵揭6起施壓事件：戒嚴DNA現形？	https://news.google.com/rss/articles/CBMiW0FVX3lxTE41UzlSaVlHcXpibUdieF9YZ2pqX2hYVjdLX2wxRHQ3UmRzT1owcjdaM3hXbTZBRWtpanFLTmVrZkE4alN5a3MwaG1adk1WT1BYSVowS0pray0wM2c?oc=5	獨裁專政	-

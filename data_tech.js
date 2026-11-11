@@ -1,5 +1,6 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 528 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 529 條
 var DATA_TECH = `
+2026-11-11	「康橋國際學校」林口校區網路遭駭 家長收勒索信、驚覺個資全外洩	https://news.ltn.com.tw/news/society/breakingnews/5636370	資料外洩	-
 2026-11-10	蘋果AI不再免費用到飽！推出首款AI用量包 一次加購要價50美元	https://ai.ettoday.net/news/3269424	未分類	-
 2026-11-09	黃仁勳出軌事件延燒AI晶片供應鏈｜Megaspeed涉轉運疑雲「13萬顆晶片失蹤」	https://news.google.com/rss/articles/CBMiiwNBVV95cUxOeXYxTERPTHJ0cE5Na3VrdF81T0RPTHNaOXdZOVBzU1JnUF9DQ00yV3UzeFM4dm00YnJMLVJlYUtFQTdqWFBuaURQQ1VIUk4xS1ZuSkRsdHJMbnJzQVJTd093cWs5Nnpmb3ZfVXNRVEI5T1F3X2dfX1I2VXZrd2M5YWdORlFCOThYb29yTi1RRU5qVlRTc2huUl9USzNKYndqYUd6V1ZrVk1YWFM3bnVmOEFSZG4tNm1MWVVRenBRVExOTDJqLW1TRmJpVERhVFNCamw3T0lsNngwMGdtcl9tOFYwcG1CcUJiSy1aYU9MN3JZRUV4QkdxVlFnV3VjSnk1djBtMjB3LTNzRG9IVURYU3l3OWdHWXR2djdPZ0M3dmp4SFA5VzJhbVBJNklRUTNJZHNjOFBIZmIxTk9CS2kwLWg2X1ptMVhvckc3bXVuRDZPVEdDNk9TazlKelpzSVlnbVR0eHl4aHZsWHE1eF9zLUllQk1TWG1idzlVQlc3MkIxb25kYW1LNmJLdw?oc=5	第四次工業革命	-
 2026-11-09	首九個月逾2萬宗科技罪案 不法分子以人工智能輔助發動網絡攻擊	https://news.rthk.hk/rthk/ch/component/k2/1877045-20261109.htm	駭客網攻	-
