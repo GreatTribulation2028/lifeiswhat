@@ -73,7 +73,7 @@
      mb.textContent=fmt(got)+' / '+fmt(total)+' MB';
    }else{
      n.textContent='落緊…';
-     mb.textContent=fmt(got)+' MB';
+     mb.textContent='已落 '+fmt(got)+' MB';
    }
    var el=(Date.now()-t0)/1000;
    sp.textContent = el>0.4 ? (fmt(got)/el).toFixed(1)+' MB/s' : '— MB/s';
@@ -86,13 +86,16 @@
    busy=true;
    pg.classList.add('show');
    t0=Date.now(); got=0; total=0;
-   /* Pages 對大檔用 gzip 回應，GET 冇 Content-Length → 用 HEAD 攞真實總大小 */
-   fetch(url,{method:'HEAD'}).then(function(r){
-     total=Number(r.headers.get('Content-Length'))||0;
-     upd();
+   /* 攞總大小：HEAD 冇 Content-Length（Pages 壓縮回應）→ 用 Range 206 嘅 content-range */
+   fetch(url,{headers:{Range:'bytes=0-0'}}).then(function(r){
+     var cr=r.headers.get('content-range')||'';
+     var m=cr.match(/\/(\d+)\s*$/);
+     if(m){ total=Number(m[1]); upd(); }
    }).catch(function(){});
    fetch(url,{cache:'default'}).then(function(res){
      if(!res.ok||!res.body) throw new Error('http '+res.status);
+     var cl=Number(res.headers.get('Content-Length'))||0;
+     if(cl>total){ total=cl; }
      var rd=res.body.getReader();
      upd();
      (function step(){
