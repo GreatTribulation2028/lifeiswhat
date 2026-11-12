@@ -1,7 +1,8 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 540 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 541 條
 var DATA_TECH = `
 2026-11-12	網站遭駭！逾7萬張護照大頭照外洩 外交部領務局道歉：系統已修復	https://www.ettoday.net/news/20261112/3270706.htm	資料外洩	-
 2026-11-12	工信部：9項腦機接口領域行業標準獲批立項	https://news.google.com/rss/articles/CBMipgFBVV95cUxOaGxEZk93czdtZFFhTERabkhjeGRXc2stSTBsclJZYkhUOU4xbGdiOE91dmx6UmNTcy1BbEJuNHU0V3BaRkJPaVdZOS1Id2wxTVpYZGJFa0RUOHBsX3ZKWHQ4TmVFNEs3SVFTUjNyd0NaWVc0WlZ3WFl6aHVWLWdPTzhvUFg2U09vY293UElKaVU5Sm82a09aQ0ZEY1g5R3FBWURrZ1VR?oc=5	未分類	-
+2026-11-12	不用動手就能操控機器 老外瘋搶中國腦機接口 華強北擠爆	https://news.google.com/rss/articles/CBMiYkFVX3lxTE52cFpuMG1YQU8tS0Y5b0wtZ25pMnAzbkJ1TTFhbUYyX3ZOcm5MSW5WSlVzYV9JLUhyempETkQ1MzZrMGlwN1lhVTVfWHZDT0kzRDI2aW5vd1pjZ3JueXVLTkNn0gFnQVVfeXFMTjRLOTBEQTJ6a29xSTVmaU9LWm5mVTBhVlVXSGktNm0xcEUyYTZMMGphMUVMSmNzWHVpdjZMbU1ldk13ZnF2Rm1TS0dLSlp3VkRfa1FCQmhGbEo4dkRGSTY1NlZEZWJNZw?oc=5	未分類	-
 2026-11-11	紐約州AI安全法上路，劍指OpenAI與Anthropic：重大事故須72小時內通報	https://news.google.com/rss/articles/CBMiekFVX3lxTE9xTXZDVGxrVEtHWWo1U2hzQWg5M1hqaTVPNDg5bGpxeHJaamNhZU55V1dHQXEySGF0OGpfZDY4UFZCRjVrWkVqUUFMNzgtaEI5TnJFcnZLX2dEVHdCcG9EZnV1SDdhYUZhZ0F5RExLTFFtUVZDUERYUWxB?oc=5	未分類	-
 2026-11-11	漢來美食爆資安事件！委外線上商城訂單資料外洩 官方：慎防詐騙 | CTWANT	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZOTlhX3VmRkg2R2JJZ2xoNXFFa3NTaGVSRzJ0bVJBYTdKZlJMSG5ucnZxMXVkVVhERHZrWHFCSEhuRHBkTHJVVWVTcFRBWi1lN1N1bFZB?oc=5	資料外洩	-
 2026-11-11	日本宜得利 3,762 萬筆個資恐外洩，代理式 AI 助長網路攻擊	https://news.google.com/rss/articles/CBMia0FVX3lxTFB5OWNPRHVxcHc1Q293VDBJdTVEVnNlNExkMFBhZjVkamVnUkNxT19KNHFULWUydUY5S2w1RHhZZHZBRW4tTl8yYlY3NjF1T3AzdGtBMTZfZURWMFhQMXNMRE5lWjB2RFZpVWVj?oc=5	資料外洩	-

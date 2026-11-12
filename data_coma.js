@@ -1,4 +1,4 @@
-// 昏迷 | 由 htnl_class_route.py 生成 | 共 1525 條
+// 昏迷 | 由 htnl_class_route.py 生成 | 共 1526 條
 var DATA_COMA = `
 2026-11-11	車禍撞到頭沒昏迷「還詭異比YA咧嘴笑」 急診醫看穿警訊挽救一命	https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lR0JMSThDdG94MzJ5eS1ObS1Vbmh3djhDYndwbUgwcWhtc0UzNlBkRWkwN3F2bmcwSG5aT0R2c2lsa1E1eXBVNExLN3h6ZmwzMmNrVXE2SmpoX03SAWBBVV95cUxOOEdIZ2VZWVh1WkRkRll0eTh1eklDNFhiX2MyOVVmVkVnXy1jaHd6Q2VIUDlocTJtSHlWQ2RzTzhHY0UycjNMN20zU09rVFgwU0R4NVlSR2JvZFR1VmlWdGg?oc=5	昏迷	
 2026-11-11	秀茂坪婦人床上暈倒 丈夫發現救唔番	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYnFIcVNSY2RodElQb0xUNGJzWkN5TDBpUVAzOWlJN2ZheXRuR3p6RlJ1bC1lcTBodFp1b0EtZi10bk5hci1ZRnhwSGthR3oteXc4b2lHUzJSa3JVN0JLVzZMWXRndmpUY29RN1BRNm1HeU05VWNlaHJqakpNaXhsNG5OSzRiRnFXbWpR?oc=5	暈倒	
@@ -438,6 +438,7 @@ var DATA_COMA = `
 2026-05-15	21歲女夜店外拒絕搭訕遭重拳擊倒當場昏迷 狠男被捕竟稱正當防衛	https://www.hk01.com/熱爆話題/60350293/21歲女夜店外拒絕搭訕遭重拳擊倒當場昏迷-狠男被捕竟稱正當防衛	昏迷	-
 2026-05-14	老翁在家中昏迷送醫...住院13天後亡 檢察官追查孫子涉嫌施暴致死聲押	https://udn.com/news/amp/story/7320/9502903	昏迷	A
 2026-05-13	油麻地交匯處鐵騎士轉線失控撞壆 昏迷送院搶救	https://www.singtao.ca/7503119/2026-05-13/news-油麻地交匯處電單車司機倒地+昏迷送院搶救/?variant=zh-hk	昏迷	A
+2026-05-12	新屯門游泳池六旬男泳客疑遇溺 昏迷送院搶救	https://news.google.com/rss/articles/CBMizwJBVV95cUxPNkNqeExocXoxaWxKU2FRRHRwQXllcEhWbjE1Zml6UXBYWWlZLXJDdHVqZEtmRDlKRnp5bS1pNTV5cWVaVF9GckpuZHVwOFhaNFJEUjJYaEdiaGprZ0VMXzdjMlJkTS1nN3d0SWY5aUtKSElZbjVpeF9kZUZDazBpTUpsa1VJZXR0dVlsWWNKSmhzX0lzZ0ZydFFiSzM0YnZaXzBSdG5rXzhSa09xWmpVVDMxUHNxVFQwd1RoR1R2WXhqdWFzUXFmQVQ0bm9KckdUNDhOT1Rlc3A3MGFhd1NIVXNrbFhOSno3NWRnVXZJVkhzVjFneU9BdnVCZWQtTVktNEVzU3hNejhuS2FwT2VObmJ1bDJGdmxhaTltdjBoTmUzWmI3UThORk1yN2VUOFloWFh2WFh5ekp4bnAzOVFUbXoyU0tGTEhZZ3hNeDkyUQ?oc=5	昏迷	
 2026-05-11	人倫慘劇！母親節前夕女兒返家 赫見母頸有勒痕亡、父昏迷	https://udn.com/news/amp/story/7320/9494764	昏迷	A
 2026-05-08	【25歲準律師腦中風昏迷！家屬控醫療疏失「求償2489萬」...判決出爐】 （圖／翻攝GoogleMaps）	https://www.facebook.com/ETtoday/photos/25歲準律師腦中風昏迷家屬控醫療疏失求償2489萬判決出爐圖翻攝googlemaps/1515022750656805/	昏迷	-
 2026-05-07	油塘往東隧入口支路電單車撞壆 鐵騎士頭部大量出血 昏迷送院	https://www.hk01.com/突發/60347331/油塘往東隧入口支路電單車撞壆-鐵騎士頭部大量出血-昏迷送院	昏迷	A

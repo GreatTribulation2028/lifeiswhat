@@ -1,5 +1,6 @@
-// 藥物副作用 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 37 條
+// 藥物副作用 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 38 條
 var DATA_SIDEFX = `
+2026-11-12	瘦瘦針害失明首例引恐慌！醫曝「減重劑量」風險：副作用恐增加| 醫藥健康	https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWQm9zZFdPWU1pZTFFblQ5X0xYOXZBak9ELWgxQjhuSUoyMzZLWkNsMHRKaWVhUEpyakxaaWx3Rk03dnBlcTVlcUM3OEZGcnNsU1NlVXFoYi03SW56?oc=5	生殖其他	-
 2026-11-11	瘦瘦針恐有嚴重副作用，若有減重需求你的態度是？	https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJbW5hemU4Z0M0MFhhQXp5MHpxT3NzemU1aWYxdzU5YTlrMlZfd0ExbTRCTTlaWUhuLUpmMUNPN3F6amdZWm14YlhCNG8xX0dKVWc?oc=5	生殖其他	-
 2026-11-11	痘痘反覆長、吃藥怕副作用？戰痘雷射治療新突破 醫：波長是關鍵	https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XZnVNN202OEhMbURBVTBwaElKV01waGZleFh1RTlkRUpJa0h5Y201Y2FiQUZlNDdCSEdGSC1LWDZBZVFTOFBhWnVHRVk0TEp1TFZJ?oc=5	生殖其他	-
 2026-11-10	瘦瘦針爆嚴重副作用！美FDA點名猛健樂、週纖達 恐害永久失明	https://news.google.com/rss/articles/CBMi-wJBVV95cUxONlNUSTFJckI4MkRWdWNVcHhocHpyS1RWSDY3U3gtS29OTnRTUmJ6QXFyMzZOS0VYZjFubE9TVElhcml6eVpLdi1mUHBjNllITHkwbXRFLU1xN2Rwc0M1bkwtb184eFFTWHl5cm5zVjlUWTZRUnd2X0xNbzVwX1ROYUxTZDNTcS1hMjdyc0tWanV5WFhPeFprc2w5SUd3YlFaWWtqMldBOTI1azJ4bERGVmJVRmhXT3lwNUdvUmJQdDJ2UVNOeHBMSENCVW9QTVlwcjlHRFl5MDZyUFVRd3RfQ1oyb2RhWlVUZHcyNDZWQkVOb0hXeFRpa2wwZ3B0Y0dTVXA5YU9sRkJtX2lEUmlidGF4cEJFellld0dDTVctdi0zRmJJaGFyUS12dnZJNE03Vi1FWjV0RmxBX3psTnZ5VW1jSllBVmt4eG9Yc3FnN1lTc0JsTzN6TkNLWGRSM045U0V1TTFybi1JenJ1WENhakJURVdqa3pLT3VF?oc=5	生殖其他	-

@@ -1,6 +1,7 @@
-// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 257 條
+// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 258 條
 var DATA_POLITICS = `
 2026-11-12	黃清龍預言：民進黨六都「坐三望四看五」 投票率7成沈伯洋一定當選	https://www.ettoday.net/news/20261112/3270695.htm	大選	-
+2026-11-12	謝和弦寫歌嗆羅大佑 狠酸：像活在戒嚴	https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyenZJOG82WW9wdkt1SWV1SF9jYzlBSVhzdVZuWDJIT3dhYkV2Q0JJeldTSjlGVl9HU3R4V1Z4bFJ1R0R6Yy0xTmZJNnh0YVE1THNsYkVxVGVHZXM2eWfSAWJBVV95cUxQek9iMDlPUFZhLXluWlotTmpBYnRsa2laZzYxY0l3azNBdDBWRWhhUUNIRENuVVBvbTRQa2tBVmJLZG1mY1VuSF9PNV9QcVk4QzlqZFM5bjZtQ04yZnZMS0dHQQ?oc=5	獨裁專政	-
 2026-11-11	美國期中選舉民主黨勝出，國會擬收回關稅權限，川普貿易政策面臨「終結的開端」	https://news.google.com/rss/articles/CBMiekFVX3lxTE5xLURjM2NaNzNCOEREVjdLMzNhRU1Wc3pOVHlxelJDbGs1emRhdWpQS0hZUk1BWlUtQ3BhY0RRV3ktSUw3Um5KLTlfSHBNenhsbXoxUFVWVy1wQ0xhVGtqaE5NLTEwdEduQm1nWDFSVThqUE1pT2JWQ09R?oc=5	大選	-
 2026-11-11	智利獨裁強行出養逾萬嬰 母親近40年後終與子重聚	https://news.google.com/rss/articles/CBMiYEFVX3lxTE94U3RUa0cwYTVpQzFlMk45bjQwV05zR2xTbmVMM0VFTGkycnVsOW5sUnBtOHlzTWhqNW1hRFRWMjNYWWhMODlRZGJtWlZwcHdpemYxSkpzSU5lc0dNQ0RKdw?oc=5	獨裁專政	-
 2026-11-11	中客訂房填「中國台灣」被退件 國民黨跟著中共跳腳：獨裁行為	https://news.google.com/rss/articles/CBMiakFVX3lxTE5rZnYwZmNia01YNy1HSUM3UGM4UERsUnhhZ1lyN3BURDJDRjRYWkQ1cmRWVDdMR09vMTVqQ3c3S2pVcnhBS0t4NU1CMzNMN3RmUXVWd3FiVFJ5UlV2NlZXa3UzRzIyeldCRFHSAW9BVV95cUxNUXdxZDF2ZHZiRXdlZ2NCY0FmNzdzS241dUM3aTViMk1ndVdMSFBoMnRFT1YyTkUydENHSlh2WlZfYmpNVjNLNWd4RmpLYmRHLW5TUXZlYVdjNkp2T0xkVktOaUVPazg3eERoWW9KMjA?oc=5	獨裁專政	-
