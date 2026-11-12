@@ -1,5 +1,6 @@
-// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 142 條
+// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 143 條
 var DATA_RELIGION = `
+2026-11-12	造謠女講師「滾床單、創邪教」！女大生刑事判8月定讞 民事免賠百萬逆轉原因曝	https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6WXZIU3NsXzh1QWtEWi1CMXp4Ti1FVEtnVEJaMHFUbGdqeE5IQUUwM3JDZmstQW5QdWdqMDM2NngxWVh5eWEzYkdIY1lMdXZYaEZOVWdSaWZEcVNZRENSYUg5LUbSAWhBVV95cUxOREkyNkRqd2M1dzZ3dngzcjNGejlFbkZHcndEUGx2TnkzUGtBQmV1QmNFaUxFNmRvNnF1WmRmeTJFV2RVczJERU4xaE81SlljNjYtWkotUGFnNVc0NTdQSzNzcEJpY1RPYQ?oc=5	異端邪教	-
 2026-11-11	紐西蘭基督城市政廳為反邪教會議與福音教會同場舉行致歉	https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNVQ0RnNpYV9wd3VXZHhaNm9lMFQybV9oMHZTRXNVMUVvQXZzcUhtMF9UdU5DWDBTT25uMXpHNm5UOEdGR1hRYVBRZE1BQmdIMXBSYUM2S1BVOWNNVVBWQU1hQkdDMTExYllzV3NINXh5Ymh3b1J6TWlVRUtsaW5tbHdNYWttQkE4VW1ubkdCOXdheUYtZGU4YjhaTUkxeUtmRkRWTWdibmNIUQ?oc=5	其他宗教	-
 2026-11-11	宗教自由持續惡化基督徒受迫害更嚴重| 世界萬象| 全球	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aWXBfaERNaHJRbGRseWNRVm4wNWgwVVpCWEFDUnR6OGdBWkxjSkNGM0VDV1Axdk9qZDhKMnNsd3NFWlE4Qm5BVUpmeFZ6T3Nq?oc=5	逼迫教會	-
 2026-11-10	良十四世在布宜諾斯艾利斯主教座堂向方濟各教宗致敬- 梵蒂岡新聞網	https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzhYclU5WDA5czBCSDRZWEhRLVhDdW1aU1FMYlQ1cndJX0NCcU1HbWM3bzJjcFVxdXpYdUViS2VIbDNoSExCcGIybnI0aEp6N3phX1FVVko3bnZJOV9OdnhkZUJ1R1laVmZobDl1azRVQUZFQTFPNW9LaHNXQmtFT05VcjBwcjhOSGFGcko2Sm9IQVdzSnZMQTFFZW9sUlIybTZsemNYWnRtUWow?oc=5	未分類	-

@@ -485,7 +485,6 @@ var DATA_0000 = `
 2022-10-17	黃大煒心臟衰竭險猝逝！「雙腳硬如木頭」驚險急救過程曝光	https://tw.news.yahoo.com/黃大煒心臟衰竭險猝逝！「雙腳硬如木頭」驚險急救過程曝光-040012785.html		-
 2022-10-18	前立委黃義交墜樓身亡! 政界一片哀悼不捨- 政治	https://news.cts.com.tw/cts/politics/202210/202210182099441.html		-
 2022-10-18	泮湧村婦人電線上吊 家人發現救唔番	https://hk.on.cc/hk/bkn/cnt/news/20221018/bkn-20221018165759571-1018_00822_001.html		-
-2022-10-18	竹園南邨9歲仔墮樓 當場不治	https://hk.on.cc/hk/bkn/cnt/news/20221018/bkn-20221018194419331-1018_00822_001.html		-
 2022-10-18	紅磡邨七旬翁墮樓 當場證實不治	https://www.hk01.com/article/826656?utm_source=01articlecopy&utm_medium=referral		-
 2022-10-18	逸東邨女子自縊 送院搶救終不治	https://hk.on.cc/hk/bkn/cnt/news/20221018/bkn-20221018104321606-1018_00822_001.html		-
 2022-10-19	未成年嗑太多猝死！警逮「電競直播主販毒」 搜出116克大麻	https://tw.news.yahoo.com/未成年嗑太多猝死-警逮-電競直播主販毒-搜出116克大麻-053549033.html		-

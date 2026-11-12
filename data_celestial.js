@@ -1,4 +1,4 @@
-// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 57 條
+// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 58 條
 var DATA_CELESTIAL = `
 2026-10-14	有圖／今年最大「超級月亮」點亮夜空 震撼美照曝光	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EdGo4SFNxNnVrV09ZRHc0cGRLTFVCb1ZKZzJ0eGV0eW5JMkJPRzRkY1RFZnpxaXJhMUJ6NmRlbGVxQk1Jb01YMNIBTEFVX3lxTE5STFk2WFdEMlZWRHctZGZELWxqMDRNMS1GUlNSem5Hd1dhZDVUVmkySzJkODNCakJPVElZckQ2U2dpNHk3ejFxYVdkYkM?oc=5	天象	A
 2026-09-29	3月3日的月全食將是2028年除夕前的最後一次月全食	https://citytimes.tw/科技/3月3日的月全食將是2028年除夕前的最後一次月全食/914215/	血月日蝕	A
@@ -42,6 +42,7 @@ var DATA_CELESTIAL = `
 2025-10-24	天文學家在太陽強光中發現高速移動小行星	https://www.epochtimes.com/b5/25/10/24/n14622793.htm	彗星隕石	A
 2025-10-24	哈佛教授：神秘天體3I/ATLAS或為外星探測船 10.29最接近太陽真相揭曉 會否出現彗星撞地球？	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/16135812073098/%E7%94%9F%E6%B4%BB-%E5%93%88%E4%BD%9B%E6%95%99%E6%8E%88-%E7%A5%9E%E7%A7%98%E5%A4%A9%E9%AB%943I-ATLAS%E6%88%96%E7%82%BA%E5%A4%96%E6%98%9F%E6%8E%A2%E6%B8%AC%E8%88%B9-10-29%E6%9C%80%E6%8E%A5%E8%BF%91%E5%A4%AA%E9%99%BD%E7%9C%9F%E7%9B%B8%E6%8F%AD%E6%9B%89-%E6%9C%83%E5%90%A6%E5%87%BA%E7%8F%BE%E5%BD%97%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83-	彗星隕石	B
 2025-10-16	兩天前才發現的近地小行星 2025 TP5，今天比月球更接近地球	https://technews.tw/2025/10/16/2025-tp5-asteroid-earth-fly-by/	彗星隕石	A
+2025-10-06	中秋節賞月｜超級月亮來了！1時間觀賞最震撼｜附10個賞月地點	https://news.google.com/rss/articles/CBMikgNBVV95cUxPRVljOHVmaFFGbVJBMUdHaXpGVzFtbTMtc2ZNc2dhOEFqOXRMYmo1bEJqTUVJZDJnMEZ0SkNzVVdCNE0zS2ItMEVQT3IzaUhqVlE3QllDbms3Q0V6cDd6MVBwS1Nxd1Z5NG92dEQ5SWl3UHBwS0VTMjFPUkRjRkd2NFVja1pVYmR5eXh4SjdUTklNNEtCczR0dGJ6RmEyN1B5bEhjblRrYVYxanJxekowN3ZLb0IyZ05Fb09PVHlnT3Q2ZklBX0FNX1prX241eW9fTVpmQ2s3TkhxRjRZa1JlVFMtY0E5bndPVEJtbFFvRjJTVWJOVVlVUS16NkhKQ2VUbzZTd0ZxaDJVci01aUQ0MUktdVdJcGtZNU1BVDZ3OHJLdEZqQXNnTFc0SXMyaS1WdEplaTBJaVdKOUw4bzFaMG1xTkVpemwweHI3NTBYX2Uwa09fakhfQ2JfX2FsaGRMQnVwN2JxOXVlT3VzeW5IMHpQMnA4RExxQzNIMUhmTHBSRjA5UllYdEpfbU5NaTB4MWc?oc=5	天象	-
 2025-09-07	時隔3年「紅月亮」今晚再登場中國多地可見 專家解「災殃之兆」	https://www.hk01.com/article/60274104?utm_source=01articlecopy&utm_medium=referral	血月日蝕	A
 2025-09-01	2025年9月天象盛宴：紅月月全食來襲 金星昴宿星團共舞觀星必看	https://www.hk01.com/article/60272016?utm_source=01articlecopy&utm_medium=referral	反常天象	A
 2024-10-25	10月小行星：小行星撞擊預警再度成功、5顆近地小行星今日最靠近地球	https://www.natgeomedia.com/science/article/content-17626.html	彗星隕石	A
