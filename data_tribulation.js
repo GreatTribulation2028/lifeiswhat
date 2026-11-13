@@ -1,6 +1,7 @@
-// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 28 條
+// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 29 條
 var DATA_TRIBULATION = `
 2026-11-10	一場「大災難」改變了一個家庭的形狀！橫跨七十年的《被消失的家園》入選奧斯卡 15 強	https://news.google.com/rss/articles/CBMiREFVX3lxTE5Yb3VyNkJTRTkyZ2FKdlpRVE5hUHNkNFpTUHFJMzZRZGM3RUlqdmtJd3R6Um9wWXgwd3pEUmg4anVmM3Bw?oc=5	大災難進程	-
+2026-05-17	7年大災難前最後警號！末世真正的記號Dr Daniel Wu 吳宣倫博士講道末世已到哪一步？中東各國和以色列假和平《亞伯拉罕協定》、敵基督666與主耶穌第二次再來馬太福音24章隱藏預言4K	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WVGNPTFZVUWhyMGlSLUFCTHgtenBxWndpX3JGa2JTamZXT24zSUw0bmxqLWJjZVhINHZuTGVLM2ZpQi1mYm1qSVVtQ3U5LTBucF9ta3ZJT0lnanhj?oc=5	末日預兆	-
 2026-03-10	末日預言系列“終極之戰”哈米吉多頓	https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4V19za3NwV3RNMWVyOWUwam53RHo1bGVHVmEwdW5HS29jNGRzRzNKRU1sREhLcExTM3A4S0xQNUktdk1rNURjNWRiMS1KbmUwN3pYTktNdl9ZSEpm?oc=5	末日預兆	B
 2026-01-02	2026年11/13世界末日預言「科學死法」難逃？恐比盲眼龍婆還準	https://city.gvm.com.tw/article/127106	末日預兆	B
 2026-01-01	第145課：但以理書6——從經文中找出福音真理	https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/45-daniel/454-daniel-6?lang=zho	聖經應驗	B

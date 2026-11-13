@@ -1,5 +1,6 @@
-// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 158 條
+// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 162 條
 var DATA_FOOD = `
+2026-11-13	鎵銻出口禁令暫停期將屆！IET-KY(4971) 原料增額占存貨增額近九成	https://news.google.com/rss/articles/CBMiVkFVX3lxTE14LXpJTHliYUNJVkMyVE1Ea3N0c0UtcEtlN1JpOTg1d0NRbk0xcUVTZDV3LTdTQnhDdHFpY01RR0l3YXpBT2xhbE9Ga2tsYVRUTUJrZTNR?oc=5	糧食	-
 2026-11-08	市場本周注視內地物價及出口表現 以及美國通脹情況	https://news.google.com/rss/articles/CBMi2wJBVV95cUxPRWcwT1NrQmFveDVXUnE0Z0VyQmZBQkxzOVhBTDZSVFRCbEtHNlhpOVF3RnFiM1pjYkRGYTZxU2pZREdOMUVjSE1EdW90WWlfNTdHaS1xYVJlQTJTc1BndVN0bXpiQzlld2FTNWNFemt4dC1LcV9ZbTFUdTdTSkhhUlR5bVJIc2ZVVWpMSTBkWjQzeEV6aE9oaWdGMUR6QjcxQU53R1hxY3M4MS1Edi1nVnhSUFhRRlhha3hNR0hZZ2NSeFhNNzJUekQyY2U2MUgzR0k4QmhTNk5PaUNGVksxSDFaRkNRUW5QLUhsN2tqQk4yMTA0TlpuUFN4U1gtVzFzQzNwVjd4WFdISjJ0QjlEOURpVkMycmxHUlFPc0swMnlRREtJN1BpUm03RExuekFLLWlFNVhnd0NLekxQa3ZWeUw2QnI2bjlneVZrcmR2ZEVhQkt4YS0walRWYw?oc=5	物價暴漲	-
 2026-11-04	英國政府籲民眾備戰潛在攻擊與糧食危機 建議儲備三日應急物資	https://news.google.com/rss/articles/CBMimANBVV95cUxQY2pIXzdsOHdLVGI3TnpncklTZ0VsZmQzUlJXbE1IamtIaXBsQktnSWJQSWwzOGdVR1RfUTJDUlVGd1h1RzlTeTBhalZMekpYSEoyZ2ZkVFZEVkpaVmhSMEdqSU1GUGZGX09Xak03SWtJT0Rsa2dKN3ZKQ0xEZmpXellRVEQxLVdtRTQ4bzFia2VQUzRsNEc4WThNbTN0N19Gam5MbVgxajJ5VHRrbDVUWmlOVXJKM2xyR0hLdDVoSkxwcnlibTlaYnFsMGZQUTZGYlItU1A2UjJWV2w3RjdMT1VNbE1fbEZpYnQ4Q3ZHVXBIdWhiRkFqVFFJckhHcmYwUnVCZm9CM1BLTTA4SUJFSmczbjhxUUpEZjc5UE9JTVlxYlVxU2lPbDdRT0c4cVRxZ2U4Wkg2ZmRFQWEySTJFbmY5WUN5T0EyUDMwMDJyNlJKVFZVbk5RZ0JPUkh1TWxJbHFQaVdpWjQybzc3aHhrd2ViMkdSVG1BNWVrMk9TbWhHYU85Wi1pdk1RQ3FtbUdBckR2cUJnXzY?oc=5	糧荒短缺	-
 2026-10-29	戰火未歇.超強聖嬰 糧荒危機蠢蠢欲動?! ｜公共電視 - 尖鋒對話	https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sRFdMUU42LUp3YU9XSW81WXpPWl94UkJPXzlpbE16VUtNM0hhVzZkRDlaakVFR09qUmc0ZVhZdDE5NWRGY2w4ZFp4TQ?oc=5	糧食	-
@@ -118,7 +119,9 @@ var DATA_FOOD = `
 2025-05-23	全球近3億人面臨糧食危機 聯合國籲全球行動終結飢餓	https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wNjhfT2NjQXp2aG9nTEx1c2haeTNDVFkwSHI0NUJIb1VEM2I0UTUwTC1PLXd6ZFJta25PeVVJN2FPM25mcGR4N2Z1QUdXbzQ?oc=5	糧荒短缺	A
 2024-10-16	非洲南部糧食危機嚴重 農糧署出口白米助18個國家地區	https://news.google.com/rss/articles/CBMiT0FVX3lxTFByRmZ1UmVwMmYtcWplNmowSnhoSlh0ZTNnMXpOTlNHSkw5blhmRU1FbVRoTHFCOUMxWDNBUWhiZVZkeUpYSUR3bUVHdjhRVjA?oc=5	糧荒短缺	A
 2023-08-06	糧食危機下 重探糧政史	https://news.google.com/rss/articles/CBMibkFVX3lxTE56cHRlQVRQNXRXRlFGU3JGTHpuTzc4MEdvWXQ0cjhQNnVxS0JpQ3JMdWh4aGJSMXZrbmFPQmFHSVh3WThEUGZyTVhhYXZnQzh4Y1hic1VEdldraDlMRzdkeTBwaGVXUGlkRHRHcUdB?oc=5	糧荒短缺	-
+2023-07-10	「退林還耕」背後的中國大陸糧食危機	https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kX0tSVERRQ3RCWC1NamQ0S3phUFRhUjVUc2RXYmM4RE9ORjJyS0hwQTFaMldjVGpCTXhQOTJwaVJZQkVrcmlFQS1adDViMmhod3ptQlViaw?oc=5	糧荒短缺	-
 2023-05-25	德國之聲》日本23項半導體出口禁令，中國跳腳！比被美國禁還嚴重的原因？	https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fX1pOcEMxUHEyaVdteG5nX3pUcllMV01Rd3NHNmFqeVhSWTBaUThpY3lXZjhPMEw5QkNSOGhkbEV5NnVyTVg2Y2dyU1NLY3VLQWc0YVFINEJOVFZkR08wSlJCeXBLZw?oc=5	糧食	-
+2023-03-11	彭博社：美國正研究封堵中國浪潮集團出口禁令漏洞	https://news.google.com/rss/articles/CBMi_AJBVV95cUxQLXF1bFJYTXAyeHFkT210TC14X2dhOG1aUGo0ckQ4NFI1QXdQdVg4YlRsVGR5U3MyZjY4a1FweTBGZDJGYU5SS3RwR0RsdjMwTXlSUTFrRXhCSVVKcXVaQkpWOXlvTHE3alhLYnRsOWM2WWJKR3BJUG9SSWpXVDlMemFnQktxRm5NNjdNNE5uSnB5Nk44RUVZSGRuOEtPaTlCN2pLME9MRmtxMDkweloxUWs4QnZPc0ZocmppbWI1MndsVG9TLVNsRndyNDAyYy03bGNudTRmQ1JORmNUcXp3YktJb29tbW4xazdXaEVWSUplbG9XdGw5UG04OW9Nb0VIRTA3QmVnS1ZabXlncGtENmxXZURDOVJEclhxM0JvWS0zdnJpR0tNd21rQy1HSXpPWjJKaEhuZG0ta2VwQXJVNmRqc0YwMXVxMllmX3plaXhnS2hTYzRqbFU4b1Jub1FYT1BkZ1l4eG41NXc4c3NiV2NCU290WnZRNm84NQ?oc=5	糧食	-
 2023-02-26	英國糧食價格升+蔬果缺貨 部長籲民眾「加班賺錢」捱批	https://www.hk01.com/article/871425?utm_source=01articlecopy&utm_medium=referral	其他糧食	A
 2022-12-17	【財經簡訊】歐洲央行升息0.5% 美國援助25億美元解決非洲糧食危機	https://www.ntdtv.com/b5/2022/12/16/a103599814.html	加息減息	A
 2022-12-12	內地今年糧食產量逾6.86億噸 創新高	https://hk.on.cc/hk/bkn/cnt/cnnews/20221212/bkn-20221212150530976-1212_00952_001.html	其他糧食	B
@@ -140,6 +143,7 @@ var DATA_FOOD = `
 2022-09-12	印度稻米出口禁令 恐加劇全球糧食市場波動 Hunger	https://www.epochtimes.com/b5/22/9/12/n13823176.htm	出口禁令	A
 2022-09-10	印限大米出口 勢推高糧價 Hunger	https://www.bastillepost.com/hongkong/article/11300678-%e5%8d%b0%e9%99%90%e5%a4%a7%e7%b1%b3%e5%87%ba%e5%8f%a3-%e5%8b%a2%e6%8e%a8%e9%ab%98%e7%b3%a7%e5%83%b9	價格暴漲通脹	A
 2022-09-08	旱災惡化全球糧價急升 聯國警告索馬里面臨饑荒 Hunger	https://hd.stheadline.com/news/daily/wo/998623/%E6%97%A5%E5%A0%B1-%E5%9C%8B%E9%9A%9B-%E6%97%B1%E7%81%BD%E6%83%A1%E5%8C%96%E5%85%A8%E7%90%83%E7%B3%A7%E5%83%B9%E6%80%A5%E5%8D%87-%E8%81%AF%E5%9C%8B%E8%AD%A6%E5%91%8A%E7%B4%A2%E9%A6%AC%E9%87%8C%E9%9D%A2%E8%87%A8%E9%A5%91%E8%8D%92	歉收饑荒	A
+2022-09-07	北韓再現糧食危機	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KTmh3LUMtTTkxemRpN0FQMWJ6eWpFSlJoSmQxeEJQVGszc0Vwc1dSWGpRV3BaQ2ZiUnQ3SDlxUHBPenNXTmJPVkdEMk1pUHp6cWVZQkJmaDZVSVJlNDg5cQ?oc=5	糧荒短缺	-
 2022-09-03	斯里蘭卡糧食危機 Hunger	https://tw.news.yahoo.com/%E6%96%AF%E9%87%8C%E8%98%AD%E5%8D%A1%E7%B3%A7%E9%A3%9F%E5%8D%B1%E6%A9%9F-201000984.html	糧荒短缺	A
 2022-09-02	全球糧食危機 挨餓女性比男性多出1.5億人	https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLREtUOVBfYXNNMXRidEpMNFdnMzVhRmc3LVRWTk1YcVlFYkRZWV9scmtuWUFwd3VrZ2FEUDgtQXVMUQ?oc=5	糧荒短缺	B
 2022-08-31	金正恩糧食自主夢碎…「低調向國際求米吃」 外媒曝：北韓人民快餓死！ Hunger	https://www.ctwant.com/article/204475	其他糧食	B
