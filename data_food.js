@@ -1,4 +1,4 @@
-// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 162 條
+// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 164 條
 var DATA_FOOD = `
 2026-11-13	鎵銻出口禁令暫停期將屆！IET-KY(4971) 原料增額占存貨增額近九成	https://news.google.com/rss/articles/CBMiVkFVX3lxTE14LXpJTHliYUNJVkMyVE1Ea3N0c0UtcEtlN1JpOTg1d0NRbk0xcUVTZDV3LTdTQnhDdHFpY01RR0l3YXpBT2xhbE9Ga2tsYVRUTUJrZTNR?oc=5	糧食	-
 2026-11-08	市場本周注視內地物價及出口表現 以及美國通脹情況	https://news.google.com/rss/articles/CBMi2wJBVV95cUxPRWcwT1NrQmFveDVXUnE0Z0VyQmZBQkxzOVhBTDZSVFRCbEtHNlhpOVF3RnFiM1pjYkRGYTZxU2pZREdOMUVjSE1EdW90WWlfNTdHaS1xYVJlQTJTc1BndVN0bXpiQzlld2FTNWNFemt4dC1LcV9ZbTFUdTdTSkhhUlR5bVJIc2ZVVWpMSTBkWjQzeEV6aE9oaWdGMUR6QjcxQU53R1hxY3M4MS1Edi1nVnhSUFhRRlhha3hNR0hZZ2NSeFhNNzJUekQyY2U2MUgzR0k4QmhTNk5PaUNGVksxSDFaRkNRUW5QLUhsN2tqQk4yMTA0TlpuUFN4U1gtVzFzQzNwVjd4WFdISjJ0QjlEOURpVkMycmxHUlFPc0swMnlRREtJN1BpUm03RExuekFLLWlFNVhnd0NLekxQa3ZWeUw2QnI2bjlneVZrcmR2ZEVhQkt4YS0walRWYw?oc=5	物價暴漲	-
@@ -79,6 +79,7 @@ var DATA_FOOD = `
 2026-06-30	川普宣布進入國家緊急狀態、對「這物」減免關稅白宮：化肥不足已影響國內糧食安全| 謝駒蕥| 新聞	https://www.storm.mg/article/11145742	其他糧食	A
 2026-06-29	最強聖嬰+疫病+戰禍 UN：全球22國飢荒熱點 | TVBS	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSdEh2TmtBN1NfX1BsX0lPU0hoU014THZqQzF6R3RxaWlIUm5Fcm9xYVVMNFR2ODFNSldNUFprUDhZQWVPUmN4dER5c2JJNS1UYVNDMlBB?oc=5	歉收饑荒	A
 2026-06-26	最強聖嬰+疫病+戰禍 UN：全球22國飢荒熱點	https://news.tvbs.com.tw/world/3241827	歉收饑荒	A
+2026-06-25	逃離達爾富爾：乍得的母親們在樹下面臨飢荒衝突	https://news.google.com/rss/articles/CBMihgNBVV95cUxPc3Y4UWt1SDAwVjhFeDhTRnlScnNPWTZVZTBrMnhKQVlROVJGcVFWMHN4RnhYNVVnbVBDR0h0MEZsb2w1YjR3SzZSSzIwOHk4MzBfeUJBSUJ4Z3MxLTVvdUk4N21jTjBaVV9HX2Y5YzQ1X2M1dVRVdGhPVUNhZnVBSEoxTUs1VU1qTWJ2RHozd0tXbU5DZk1qQmd2TDhPLThGR0dfMkF4M285M2tJSVNiU0Nwa2d5cDdpQi1OMXo3YjJTM3o5ZHFvYXE2SGRIcERIZ2JYSkZwalNlQzgtcUJFbWNyN3RveVoyLUR5Y2ZhMjBSNnZOcElSTURxb2NhTEhpT0tyMDMxY0Vkc0RIc3NVdlVkS3lBZHVVemp2dEpnSDlManVvUmttUnVBR1JRanVYUzZzVjYzZlBqTno3LWhxQm1pMVkzZ2RLcHRScGtvOVNCT1ViV09xcTNMS09HcjlfYVJmOHJscjh1MEI0YXphNWlaZlJHdktabHFmN19ManNkZnR1d3c?oc=5	歉收饑荒	-
 2026-06-20	全球糧食大豐收、庫存滿 將削弱超級聖嬰衝擊	https://www.worldjournal.com/wj/amp/story/121488/9577895	其他糧食	B
 2026-06-18	聯合國糧食機構警告 全球13 熱點飢餓惡化數百萬人恐陷饑荒	https://www.bastillepost.com/hongkong/article/16189289-聯合國糧食機構警告-全球13熱點飢餓惡化-數百萬人	歉收饑荒	A
 2026-06-18	全球援助資金緊縮 報告：逾3億人陷糧食不安全危機	https://turnnewsapp.com/livenews/life/20260618002971-260405	其他糧食	B
@@ -154,6 +155,7 @@ var DATA_FOOD = `
 2022-08-11	糧食供應.兒童保護 飢餓三十搶救阿富汗 Hunger	https://news.tvbs.com.tw/life/1873368	糧食	-
 2022-07-25	北韓又見糧食危機！被爆接連餓死人	https://autos.yahoo.com.tw/news/北韓又見糧食危機-被爆接連餓死人-070411976.html	糧荒短缺	B
 2022-05-26	糧食危機：肥料價格飆漲下泰國米農艱難度日	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpUFhxWHhSTGR2Ym5fZ0hTUjlLckxIcTN1WV9MS05jZ0p2cDZQXzE3MG5xNnF2QlI1VjFlODlCbWRaSmVGa0NNOWJ6b05WX09mbUFfdkZZTlc5VmJLVEUycdIBZkFVX3lxTFB1aFRZSmZRUFkwazVvY0NGMUM4VlFxSTRBYWp1WnVER2ZWUUFhWVp1emgzbnpNQzkyVFM3ZEo1STdsVnZ2c1kxWGUtaU9aZnhHakZ0MmhHUnJ2MndFZFdESGRJdm9WZw?oc=5	糧荒短缺	B
+2022-04-15	糧食危機有多近？台灣拜耳發揮科技力 拉近糧食永續願景	https://news.google.com/rss/articles/CBMiXkFVX3lxTE93RWVpSDhpU2JsUkNoS09Ia0dzMlRndFdpZkZ0WUkxMkpDTmdHaXN3VmROd1k1X01jTjg4c0tnY0dnNDJqcUZWcnB4Q3VoMGI5Yng0R01jMnBVam1LMXfSAWRBVV95cUxOeXo3V1VkMUJsT0pEekdmMXhtLW12U3kwSlVvaENwamhGdlF0VGU4YUNLYm1PTVl4T21DSy1QZFotVFdjTDNaejRvX3ViUEVMVGJ6cUNsU0Y5QzZQRHFWUm9fa2Zl?oc=5	其他糧食	-
 2022-02-10	一片80元雞排背後 糧價新風暴	https://tw.news.yahoo.com/%E7%89%8780%E5%85%83%E9%9B%9E%E6%8E%92%E8%83%8C%E5%BE%8C-%E7%B3%A7%E5%83%B9%E6%96%B0%E9%A2%A8%E6%9A%B4-082330840.html	價格暴漲通脹	B
 2020-08-14	習近平頭很大！中國糧食危機才剛浮現…雲南又慘遭蝗蟲過境	https://www.setn.com/news/796969	糧荒短缺	B
 2020-08-13	中國糧食危機！官方曝今夏小麥減千萬噸 習近平急下令節約	https://www.setn.com/news/796226	糧荒短缺	B
