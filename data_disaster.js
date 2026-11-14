@@ -1,4 +1,4 @@
-// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 624 條
+// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 625 條
 var DATA_DISASTER = `
 2026-11-13	輝達人事地震震撼AI產業！鴻海、廣達、緯穎首當其衝？三大風險一次看	https://news.google.com/rss/articles/CBMib0FVX3lxTE0ySDZmVVNZc1Q1aFdzX0dIZXVBdTY4VzJUNmdHX3pibHhvOWRfVkRuTDhXcThabVpjS1QxWmpoSUNGdGxfbDY4REFKamNZeFAzTW1WZTBRNG1ZQWllSHpyY3RnS3FCVEhmNmY4eG9PQQ?oc=5	未分類	-
 2026-11-13	肯尼亞嚴陣以待厄爾尼諾暴雨 居民憶述洪水損失	https://news.google.com/rss/articles/CBMi4wJBVV95cUxOQ3ZfNmVlN2ppSVBMUUNBdzR1X1hLdXFLd2ZsV1UxRGpZUHRpUTBwVjVFaXZoay1xblRPWjBmOEd1dktpY3pKcDg0OWcyeHhvbGxHUEV4aDh4V19kZy1Oak1ESG1peWRPMlpzM0tUU2YxcldCMlpTU1Z5Rlkta01TbTZVY091WG1RQ2M0S0JkU1RDR2V2NWRiRUdreEpvbXRzRG1rVDVPWU9lTHl0VVpIZW1yRWtUVnF0ZEN6djNWX0k1OGJscmNRekZCZ2FRRElDLWxqcWVQRDRxUkUweGJGeHZpUUszS2o5eEUxOUN6a2hEYlNpWjBoN3EtR01oS2dCa1AyZGNlSzI2ZGtJeGg3UzBacXFhc2Q2aFRBZk55VjdDYUZBbWJNN0RtdWVIMC0yXzB6Y3VlSE9Ba1JWMTNYU0ZPZ1I1cFYtazl3ZXZPQnhuc3Y5Q01pUC1JOS1NNnRoclpj?oc=5	水災暴雨	-
@@ -604,6 +604,7 @@ var DATA_DISASTER = `
 2022-03-05	韓國山火蔓延逾8,500公頃林地燒毀 全國範圍發最高級別火險預警	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/743487/%E9%9F%93%E5%9C%8B%E5%B1%B1%E7%81%AB%E8%94%93%E5%BB%B6%E9%80%BE8-500%E5%85%AC%E9%A0%83%E6%9E%97%E5%9C%B0%E7%87%92%E6%AF%80-%E5%85%A8%E5%9C%8B%E7%AF%84%E5%9C%8D%E7%99%BC%E6%9C%80%E9%AB%98%E7%B4%9A%E5%88%A5%E7%81%AB%E9%9A%AA%E9%A0%90%E8%AD%A6	其他火警	A
 2022-01-15	快訊／太平洋島國火山爆發！紐西蘭急發「國家級海嘯警報」	https://www.setn.com/news/1058148	其他災害	A
 2021-09-16	【時事縱橫】四川瀘州6級地震 人禍還是天災？	https://www.epochtimes.com/b5/21/9/16/n13239895.htm	其他災害	B
+2021-08-17	極端氣候有哪些？熱浪、林火、乾旱、暴雨、霸王級寒流，成為未來的新日常？	https://news.google.com/rss/articles/CBMi2AJBVV95cUxPa2RtRXBHdmRuajRqYU45cWxnYV92dEc5MWFCbzBmZ1VBU2JzQUxWY2lwT3dYNVEzOFdHOGotTGdVVml1Ulc2TURhNklBMmZMN0dOWS1Fek5XVVRzNTZSN243dWRveVAwY29IdWVxWlYwS0xIbTZDWGxqOHFERlVlRFFPOFFoNnA5dEQ3b3lFREp3TU84V3ROSndrcE1TdTkyZTFVanhOakE2WTgxb2otNmlGYTlNNnlINzktdk8yTHN0YzYyZnNqTW9reUJxUEtMV21Mc1RWNXAzRldLNjBTVGZSd0lrVmxnamRBbTF5U0hlNkstLUpNLUd4S1R6UldtbFcydFhpeWJKVEZ4UUhoNWkyT0VfcmwycHI1R2lialJOMEx6T0otbjg0d2RDc0dlaHlibkp5R3B5cmV2akllWE1Uc3NBSlo4eWE0SmZZazdCRjNwOUV1Rw?oc=5	極端天氣	-
 2021-08-07	美國加州「迪克西山火」災場快速擴張 2021年全美最大山火	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/660774/%E7%BE%8E%E5%9C%8B%E5%8A%A0%E5%B7%9E-%E8%BF%AA%E5%85%8B%E8%A5%BF%E5%B1%B1%E7%81%AB-%E7%81%BD%E5%A0%B4%E5%BF%AB%E9%80%9F%E6%93%B4%E5%BC%B5-2021%E5%B9%B4%E5%85%A8%E7%BE%8E%E6%9C%80%E5%A4%A7%E5%B1%B1%E7%81%AB	大火山火	B
 2021-07-23	鄭州暴雨引發洪水，至少33人死亡- 紐約時報中文網	https://cn.nytimes.com/china/20210721/china-flooding-zhengzhou-subway/zh-hant/	水災暴雨	A
 2021-07-21	河南水災：特大暴雨致數十人死亡 最初24小時發生了什麼	https://www.bbc.com/zhongwen/trad/chinese-news-57912990	水災暴雨	A

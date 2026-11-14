@@ -1,5 +1,6 @@
-// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 149 條
+// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 150 條
 var DATA_RELIGION = `
+2026-11-14	輝達如邪教！前員工曝「黃仁勳像神被崇拜」：絕對控制權難挑戰	https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zUkZEaEMwcVZ3dVA3bUd0SzRvNm5VbmdLRTJHZ01iZGJSLTNlZkxkVWw1ZzgwR2RJUzhVZ2tCeWhaME03ck1OUUptY21nRjQ?oc=5	異端邪教	-
 2026-11-13	教宗訪秘魯會晤性侵受害者 梵蒂岡盼推動教會體制改革	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ibVpaZjZsNVVDenRTdFJzcDBjVmwzZ2h0R19BbDBfdlY2TmhUc1djbFBPOHIwSDNPSzIwa29FQ2hRM1VkR1h3Z3E5d1VxTUs1enJJTWI2RU9Lb21DREItRQ?oc=5	其他宗教	-
 2026-11-13	教宗Leo XIV秘魯見虐待受害者 直言教會必須補償	https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zU0Y0b0NlUWlUVzl5eWh6akNLMGU2Ukc4aElfcXBPLXdQSE5odTZjTXh1Q2RiclNieG44RHIzYVQ2VFFZOGtfNXQwZzhhd3FUUGM3TGJHNXVya1BwNnpobQ?oc=5	其他宗教	-
 2026-11-12	造謠女講師「滾床單、創邪教」！女大生刑事判8月定讞 民事免賠百萬逆轉原因曝	https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6WXZIU3NsXzh1QWtEWi1CMXp4Ti1FVEtnVEJaMHFUbGdqeE5IQUUwM3JDZmstQW5QdWdqMDM2NngxWVh5eWEzYkdIY1lMdXZYaEZOVWdSaWZEcVNZRENSYUg5LUbSAWhBVV95cUxOREkyNkRqd2M1dzZ3dngzcjNGejlFbkZHcndEUGx2TnkzUGtBQmV1QmNFaUxFNmRvNnF1WmRmeTJFV2RVczJERU4xaE81SlljNjYtWkotUGFnNVc0NTdQSzNzcEJpY1RPYQ?oc=5	異端邪教	-
