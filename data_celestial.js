@@ -1,4 +1,4 @@
-// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 63 條
+// 天象 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 64 條
 var DATA_CELESTIAL = `
 2026-10-14	有圖／今年最大「超級月亮」點亮夜空 震撼美照曝光	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EdGo4SFNxNnVrV09ZRHc0cGRLTFVCb1ZKZzJ0eGV0eW5JMkJPRzRkY1RFZnpxaXJhMUJ6NmRlbGVxQk1Jb01YMNIBTEFVX3lxTE5STFk2WFdEMlZWRHctZGZELWxqMDRNMS1GUlNSem5Hd1dhZDVUVmkySzJkODNCakJPVElZckQ2U2dpNHk3ejFxYVdkYkM?oc=5	天象	A
 2026-09-29	3月3日的月全食將是2028年除夕前的最後一次月全食	https://citytimes.tw/科技/3月3日的月全食將是2028年除夕前的最後一次月全食/914215/	血月日蝕	A
@@ -45,6 +45,7 @@ var DATA_CELESTIAL = `
 2025-10-06	中秋節賞月｜超級月亮來了！1時間觀賞最震撼｜附10個賞月地點	https://news.google.com/rss/articles/CBMikgNBVV95cUxPRVljOHVmaFFGbVJBMUdHaXpGVzFtbTMtc2ZNc2dhOEFqOXRMYmo1bEJqTUVJZDJnMEZ0SkNzVVdCNE0zS2ItMEVQT3IzaUhqVlE3QllDbms3Q0V6cDd6MVBwS1Nxd1Z5NG92dEQ5SWl3UHBwS0VTMjFPUkRjRkd2NFVja1pVYmR5eXh4SjdUTklNNEtCczR0dGJ6RmEyN1B5bEhjblRrYVYxanJxekowN3ZLb0IyZ05Fb09PVHlnT3Q2ZklBX0FNX1prX241eW9fTVpmQ2s3TkhxRjRZa1JlVFMtY0E5bndPVEJtbFFvRjJTVWJOVVlVUS16NkhKQ2VUbzZTd0ZxaDJVci01aUQ0MUktdVdJcGtZNU1BVDZ3OHJLdEZqQXNnTFc0SXMyaS1WdEplaTBJaVdKOUw4bzFaMG1xTkVpemwweHI3NTBYX2Uwa09fakhfQ2JfX2FsaGRMQnVwN2JxOXVlT3VzeW5IMHpQMnA4RExxQzNIMUhmTHBSRjA5UllYdEpfbU5NaTB4MWc?oc=5	天象	-
 2025-09-07	時隔3年「紅月亮」今晚再登場中國多地可見 專家解「災殃之兆」	https://www.hk01.com/article/60274104?utm_source=01articlecopy&utm_medium=referral	血月日蝕	A
 2025-09-01	2025年9月天象盛宴：紅月月全食來襲 金星昴宿星團共舞觀星必看	https://www.hk01.com/article/60272016?utm_source=01articlecopy&utm_medium=referral	反常天象	A
+2025-03-14	2025首場「血月」月全食3/14登場！睽違7年台灣再現，禁忌＋最佳許願時段曝光	https://news.google.com/rss/articles/CBMifEFVX3lxTFBjSDd0TmpxQ3A2SnlmN01GUzlOU014a3lsRlhPdDRVekhYZVFSZllDV2Y2b3Z0WnQ0TTZwRlV0RnpRY0hvSWp5YkJQUWtBSEFxMm1YelBqUk5MTE9wWWNDa3pfbzdaMW8zZzhvT0ZfeTdlRWFTNFR0UTFFbWw?oc=5	血月日蝕	-
 2024-10-25	10月小行星：小行星撞擊預警再度成功、5顆近地小行星今日最靠近地球	https://www.natgeomedia.com/science/article/content-17626.html	彗星隕石	A
 2024-10-24	小行星撞擊預警再度成功，五顆近地小行星今日最靠近地球	https://technews.tw/2024/10/24/asteroid/	彗星隕石	A
 2024-10-17	超級月亮｜超級月亮今晚出現 今年第三次 屬全年最光 (13:18) - 20241017 - 熱點	https://news.google.com/rss/articles/CBMimwNBVV95cUxQX2tWMEdfUUFYTTNnSzdIVG82Q2FYSU03Sk1oQkF3SGdmVWZ4NUFaQ3d3V3VwQzFnckhOLS0yUXhRcDNhVGkzb1hjbExYVy1BaERCOWtvYUs0c3pJRjJ0dE1WR25ZV3N1czhfc2Y4SDVaSFZ2d0lSbjZGaDlxZjBxU2d2QVFtcWpyN296YmpzM0QyWm1adWpHOElLVThZS2JNa3pTNG9BNEtyeG9zOXdSTWVadDVoZzByRFFGclI5XzNmcVNub0g3S25tekx2MUpuMzY2WUh5RkFJMndvZUhsTWU1WnBXNjBUZElUQkpJVGl6eHJMcHVabVBqNWNEQTRENjB2Q2pPdFRuV2dldHhfX2cycGplMDNTRVFQUm1rOV9sM0hNOGF4RTNvTWhnbTlJNlYyT0RLSG8zM3NSYTF3OUtCazlWWEROUElKUVpsMEQ2cU5tUHZCdnNDTGZqWjh3ZXE0UzlxODR1b3lLNDFZSVZnd3NWV2VlcVZlSUpWaGJfX3dFVlZwYTdXWGxTMklFTTlXTFVLSE0xWmM?oc=5	反常天象	-
