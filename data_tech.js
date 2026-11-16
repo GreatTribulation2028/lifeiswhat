@@ -1,5 +1,10 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 557 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 562 條
 var DATA_TECH = `
+2026-11-16	非法殯葬業者勾結駭客 AI入侵消防系統截聽救護通訊	https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcG9wQVA3b3h0VlNHd2dCQV8zQURvY3U2NXJ6aUVsZXZteEhRbWQ5X2x2bld2am1VSHhISkh2UFFPdmVMSl8xT1E4OTdIWjlqek41Y0gxbHVfOEY1bDRXNHpMdkxrakYzUkJBTFBCTUhJemZITnVZMWJxOXR1RmozU3VSTFh1cXNwdFFWdU5kSl9raVRvcjdWbmw0aGRGZ2oxUDQ0M1Y4dFFMcTdTek9JM2o5TlRBYV9HTE9PbUk3MHZWcWRJTl93X19yWmdzZkRIZm41RllLcVN4VXFSeXJicUJNbEVNRDZIVWJDbzQ4WHpNTkhlWWd3OTc4b1NzRnY5aDFERE9nRWUtWDFBbXp5c0tVQ1RHX3RISktwSG44UDdlRmp3b2J5dlN4VzN1MVpoVURCWkhJd2Q4WGxrVmVqRjBfVTVYOFZXY3lJT3BjUkxxcFJ3NWl2RkxqbzBtbzQ?oc=5	駭客網攻	-
+2026-11-16	股匯雙殺！新台幣逼近33元 彭博揭AI大廠「抱緊美元不換台幣」	https://finance.ettoday.net/news/3273018	第四次工業革命	-
+2026-11-16	深圳APEC｜新聞中心展示AI配眼鏡 設人形機械人操作咖啡機	https://news.rthk.hk/rthk/ch/component/k2/1877974-20261116.htm	未分類	-
+2026-11-16	比疾病、意外更可怕？前OpenAI研究員：AI才是現代人的致命威脅	https://ai.ettoday.net/news/3272930	未分類	-
+2026-11-16	同人創作平台資安事件「停擺17天重啟」！官方籲改密碼 | EBC 東森新聞	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jVXRtV2g1UHZ0dDJmQUF1ZFJkZzI4aFFYQWNwNXh3R1lzRFNmTThfVFJNMW5BQ29zcktqeS1nZmFrdnRwRUduWmtmdDBPQ3cwZ0o4ZXdn?oc=5	其他資安	-
 2026-11-16	《大陸產業》腦虎三全腦機接口搭配AI 連續任務完成率達84%	https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLWhISlJIbFNnYnR5aVdUcDRmWHFtbzVEREZHd1NBR3Z6ZndsNWRYY1lLWURVZHpLejM1WWhmWVB3V0g5Q1I0Q3A3ck9xZmdHczFTQWJXbmJKbUtiVjVuUmZ6NS1FdVJPUm8wOGtqb0JDM3NvMENPd3hNQ240NXA5V1BhdEV1aWZf?oc=5	未分類	-
 2026-11-15	AI資安海嘯數發部籲應變- 日報	https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2ZFpQWFhSODRra0dMZV9ONHpPaE04VC1wck94R3ZuVWM4WENVNWEzenJhQkhrZWVNQ21tZko5UHJUS255VW9ad2hHM2dVY0xka1VyQnRHdXNubjlTbWJR?oc=5	其他資安	-
 2026-11-14	微軟365服務未完全恢復 公司致歉指故障與網絡攻擊或AI無關	https://news.rthk.hk/rthk/ch/component/k2/1877760-20261114.htm	駭客網攻	-

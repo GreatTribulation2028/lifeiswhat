@@ -1,5 +1,6 @@
-// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 410 條
+// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 411 條
 var DATA_TRAGEDY = `
+2026-11-16	南非週末連環重大槍擊案 兩起慘劇奪走17條人命	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jczZ0TE83cEhld0paODFEZHFrRVhEVWlkN3U0bWFEM3dOcU5vZy1PWktPVzRtcGpsdmFDemwyS1FhRS0taVpGMl9ReG5EdEpEVWtQcXRQc0JwampYZ3dhMg?oc=5	其他悲劇	-
 2026-11-15	為何黃仁勳黯然下台的慘劇 不會發生在祖克柏等科技大咖身上？ | 外媒解析 | 國際	https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SmNZdmlERWhab3Y0MVhwVXZmS3UyTktWVXpHdi14Ui1nOWxTbllXSjNhcENGSUdvOXI1VjRrZzVhNnBjdGtBbk50T09kZjh3UV9xY3NCQk1jTldi?oc=5	其他悲劇	-
 2026-11-14	足球》出擊衝撞釀致命悲劇 西班牙足協重罰門將Owono禁賽12場	https://news.google.com/rss/articles/CBMiRkFVX3lxTFBERllTR3BqN2REY0t3YmJ4QmtjRGM1engzR3J4Qms0M3hJMjQyTXJyQ0p4TEI4ZWZfN25WbVc2bVdCR2VCSFE?oc=5	其他悲劇	-
 2026-11-14	觀塘泳池六旬婦遇溺送院搶救 (09:18) - 20261114 - 港聞	https://news.google.com/rss/articles/CBMiqwJBVV95cUxPQ1YzcXh0TXNVYVVWQTdaak5WcktXN0thbTNwU2VXLVVLaS1nMGhtNzN1ODdtYm5ZNUJfUnFuX0hIZWdmeHV3ODgxX1R1aTdaWGFWLVpidld0Mmt0dnRydFBTNUpYeWk3MV9YYW9YcjFhc1c5SE5qd0s1MDVCVnVpclhGQ0t3elVKd0h4YS1sODVaQW9UMlpmT1hRbEVvcWh3cU9GMlowM05JUktaOEFxM2pvcGNyS1NsOFhZS1pmeFFlUUg5TEFtQUhEaURQMWJtU00tek1aRi1kblFYbW5RVTVxRUlFa3JGMXJ2M0piYm5kTVJLeGI3UElFbXVYemoybUJ2ZnRGSF9scnpwT2J2ZWhUZFR5MGdZSkRoVnR5d0l4MTZCdFRlMDBrNA?oc=5	悲劇	-
