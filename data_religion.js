@@ -1,5 +1,6 @@
-// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 159 條
+// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 160 條
 var DATA_RELIGION = `
+2026-11-17	切割？曹興誠稱「罵蔣邪靈和沈無關」 徐巧芯：曹沈關係非說切就切	https://www.ettoday.net/news/20261117/3273756.htm	未分類	-
 2026-11-15	黃仁勳就是神？員工爆輝達如「封建邪教」學穿皮衣 黃敏珊遭控超難搞 黃家人1特權引眾怒	https://news.google.com/rss/articles/CBMiUkFVX3lxTE03R3V1VUUxbmh2cDYxOV9aZ3hEUlViR050LWgzb0s2dERzZTlSNWFLVjlmekM3RW5JRDBaRHZnRDBiLXFtTkFhSzdBOVl3LVRhZGc?oc=5	異端邪教	-
 2026-11-15	輝達內部像邪教？知情人曝黃仁勳「被神化」 愛女遭控難共事、曾與新CEO爆衝突	https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kNzVqM0ZRdEhhcXlkNm9hZTN3aUtVXzJ2ZUgtQlBqNEJ0WWZadmhneGtPNWNiZ3VPLUFOTDFiQjFnaHFqQnd3Uk8wQQ?oc=5	異端邪教	-
 2026-11-15	教宗私人秘書的妹妹：“羅伯特神父”關懷最有需要的人- 梵蒂岡新聞網	https://news.google.com/rss/articles/CBMirgFBVV95cUxQaS04VzRlOW1BdTRFS1ZUTFJreE9STV9UR2xQWERzNjRlSVFFYVJHSThrcjNsQ0UxT2JuZ2RxR1VWcUY5ZmpTb29jbldfaGNNZXBmamhTakk5VkhuMEU0UmpoNXYySGl2UzFsOFZJTERlR2JIVUszTVhYcTlfTzFTMjBxRkltcXREVFN1R1dJN3RINmZqM1UzUE5RcDMwZC0tVzlSUDZZa09OTUdaM2c?oc=5	未分類	-

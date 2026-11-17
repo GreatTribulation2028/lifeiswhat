@@ -1,5 +1,6 @@
-// 離世 | 由 htnl_build_news_js.py + htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 2153 條
+// 離世 | 由 htnl_build_news_js.py + htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 2154 條
 var DATA_DEPARTURE = `
+2026-11-17	41歲抗癌YouTuber病逝！臨終緊握母親手 最後向粉絲道歉惹鼻酸	https://star.ettoday.net/news/3273718	自然離世	-
 2026-11-16	預言金正恩會在2年內離世？ 女巫放話「不準就送千萬韓元」	https://news.google.com/rss/articles/CBMibkFVX3lxTE5VczV6eTJPNGN3MGxUVFVzbWl4OEFZRllCUGEzXzNsQkFkbUdDY3M4Ujh2WXFfYWdYd2prWURUaTBkVE5KVktYVktJVGIwWlppWlF5Sl9hS09EV2kxcVZ0SnZFRDZlTnA2aG15Z0FR?oc=5	自然離世	-
 2026-11-16	蜜月第二天接外婆離世噩耗！丁文琪認「沒送最後一程滿好的」 背後原因惹鼻酸	https://news.google.com/rss/articles/CBMiWkFVX3lxTE80MXlaV0JsZ01fM1N0UGxqZjB4cWYwVmk5clR5VlJDSGJwaDdrbndPaVUyU0NOMmtYeUdjM2J2aFVnLTFkUXZ1clVpelBFWlhVQmpkN0xkZzFEUdIBX0FVX3lxTE51QjgwR0xRWlBZS3l1azhsTnl2Rk9HeXFvbFhBeHZEa29oTU5PWU9PRloxaDN5T1hzQzJTYlNMZjR6SGt2bWthYXB5LThNeE1Ha1RJc0lIUjVsSkU0Yk1v?oc=5	自然離世	-
 2026-11-16	歷經母失智、父病逝 楊婷婭認陷憂鬱低潮	https://news.google.com/rss/articles/CBMibkFVX3lxTE5oMWhMLVgwN0I0NlVscXZ3YXBmc0lXVksteXp6X3JwUnNBU1hfTS1SZGJnMWYtZnQtODVZVnkwbURpX3Z6R3BoY19hMk9hLWZjSzA4c21KdmVQSHpzTy1TOFlvZk1PWlJwYTNzbGt3?oc=5	自然離世	-

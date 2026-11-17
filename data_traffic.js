@@ -1,8 +1,14 @@
-// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2297 條
+// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2303 條
 var DATA_TRAFFIC = `
+2026-11-17	驚險！台1線通霄段轎車過彎撞電桿翻覆 消防破窗救出受困男	https://news.ltn.com.tw/news/society/breakingnews/5643233	翻覆自撞	-
 2026-11-17	驚悚瞬間！嘉義休旅車突左偏撞分隔島...翻覆轉180度側躺路中	https://www.ettoday.net/news/20261117/3273387.htm	翻覆自撞	-
+2026-11-17	駕駛下車送貨 小貨車未熄火滑行......路旁機車如保齡球瓶一一倒下	https://news.ltn.com.tw/news/society/breakingnews/5643579	未分類	-
+2026-11-17	貨車載小雞砸滿地 「呆若木雞」好危險！路人忙搶救	https://news.ltn.com.tw/news/society/breakingnews/5643531	涉及傷亡	-
 2026-11-17	清晨拜拜返家遇劫！花蓮男走193縣道...過馬路遭休旅車撞死	https://www.ettoday.net/news/20261117/3273422.htm	未分類	-
+2026-11-17	快訊／台64線「砂石車、貨車」連環追撞！ 1人搶救無效亡	https://www.ettoday.net/news/20261117/3273650.htm	連環相撞	-
 2026-11-17	廟前驚險畫面曝！機車無減速橫越馬路 撞直行轎車倒地送醫	https://www.ettoday.net/news/20261117/3273382.htm	涉及傷亡	-
+2026-11-17	嘉義女騎士「路口大轉彎」鬼切！下秒被貨車擊落 撞擊瞬間曝光	https://www.ettoday.net/news/20261117/3273749.htm	未分類	-
+2026-11-17	台64線五股段4貨車連環撞 釀1死3傷	https://news.ltn.com.tw/news/society/breakingnews/5643777	連環相撞	-
 2026-11-16	高雄檔車違規左轉撞直行機車畫面曝68歲阿伯當場OHCA送醫不治| 社會萬象| 社會	https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vR3NOZmM5Q2E5WEVQN0poTHNBM1U5c215WnpfclZuLW1qQUN2dnU3LWxqaDFKa1FYcjRqY3ZheldKWkhLbHh1ZV8wdXMyMlp2?oc=5	涉及傷亡	-
 2026-11-16	高雄楠梓死亡車禍！疑未兩段式左轉釀禍 兩騎士對撞1死1昏迷	https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wLTJKTnY4UDRfMWdhUXdMOEI5ck54dVY1dmxwY2tyNVRuZW9raDZUTmMwRktNM2llYW1MaWZTRDdOSWl4NHpXbdIBTEFVX3lxTE9Ld21vYklPOHZvdGhTRFlDaEdYbFB1bnBfYUF6UlV0SVlOd2FGcWRpRlNnTHdpZnh3ekdveWdEZFpBSlQzNWRUWWpJU0E?oc=5	涉及傷亡	-
 2026-11-16	飄香30年成絕響 羅東無名油飯老闆娘車禍身亡 店家無預警熄燈	https://news.ltn.com.tw/news/society/breakingnews/5643003	涉及傷亡	-
