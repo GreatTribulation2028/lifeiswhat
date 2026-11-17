@@ -1,4 +1,4 @@
-// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1476 條
+// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1477 條
 var DATA_SOCIAL = `
 2026-11-16	高雄女子毒駕藏毒遭攔查 毒咖啡包謊稱衛生棉	https://news.ltn.com.tw/news/society/breakingnews/5642034	未分類	-
 2026-11-16	銳眼計劃今起採用人臉識別周一鳴強調不會被濫用：針對罪案及失蹤人士| 獨媒報導	https://news.google.com/rss/articles/CBMi4ANBVV95cUxQLTQ0LWo0ZzhZMklIcjlIcHI3Ri1ZVTRxdzdTYXRHX2RjdEVRWVVMMmtVeEVBN1RNTjYzbDlPOG5CeFBaRmNCM2pPN2ItNWJxWlpVYzNxd1c3MEtJWkxkaXI3VE0zbHdtWVNXTTRGeklhRFB1Q0FGM3RlX0tRWUt4bUZFbVhzNjdMTC1fQ25KbENXOWN0UnJUeXF4T3ZCUkFnM1hmZFU5RG16QzhvczR4M1BUQzByaXZRUGxZOXFjb3hILTF0WUdOMTlpT2g1YkdNRHBuRkFPdWFaUmdydEE4RWxmX29DY2EwVUhjd0RpMm1sNjd4Zzlxa1U4VXZ3ZzFIOW1kS3VRRHpoWHF6TEExMHlxQzhHWlJsOWFmbG12VDA1Nk5heVFHQl9FeTdJY2pXUnlTWU9PR2dabE1CYUREZ0hpeFdLOGhYVldVTjE0V2JSUnhJTXhURUFZUHJTaEUtVWdyVWZmWVBiYUZHOHM1bnVIam5CY0VTbDZGT2k4bUZnR0ZhZ0xpb1l4Vnc2WXpjczFvcFNoLThTNHBfUDFmZ1A3N0RuT2dPUUQ1WDZaWUhtQUhPQV9pNVc4c0NBNk1IN2piNnZLSEk4Rzd4TmtjcGRNOFJyYjYyZmxsc3ZKRkM?oc=5	治安	-
@@ -7,6 +7,7 @@ var DATA_SOCIAL = `
 2026-11-16	瑞芳命案！行竊失風竟殺害獨居老婦 冷血賊竟「替她蓋被裝熟睡」	https://news.google.com/rss/articles/CBMibkFVX3lxTE5FTmY0VWh6eEZrV2ZmeVNnVGtzTkdKUHZ3YnNJWXNTODhCRkRsbXpOajZNMUhPUC1xdHNTR3RkMEVWYnJrNFpRZHE3NDlWRTFEWmk4enI5ZTk5OEpGb0JFaHo1MWlPWllTNTZTNDhB?oc=5	命案兇殺	-
 2026-11-16	法國逾10萬人上街抗議衝突延續第五周經濟社會困局難解歐洲多國民情動盪- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE1zSzdSaXh0cDhRX3NUWjgzWmdmMUZ0N0N0THNtZWc1U1p3eEZxMU9IT3ZLSTFXTzlndGFxWDljeFpwNjBxT3JyQXIzYWpzd011SlZDSF8wWGFSdVNjODBmMDVGU2ZYb1pudGNKN1pzVnpwbjBJYnJWZWxn?oc=5	暴動騷亂	-
 2026-11-16	法國周末示威逾4百人被捕 50名警員及憲兵受傷	https://news.rthk.hk/rthk/ch/component/k2/1877909-20261116.htm	暴動騷亂	-
+2026-11-16	東京都中野區發生持刀傷人事件1人死亡 疑犯被捕	https://news.rthk.hk/rthk/ch/component/k2/1878036-20261116.htm	隨機傷人	-
 2026-11-16	快訊／瑞芳命案！賊行竊失風 獨居老婦慘遭殺害滅口	https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uZHluRU5feHFYM0laZ1EyTVFibzBxLWhDZ0t6ckdpc2gybVRZRW9ma0tJMXBqMl9pMVFzS1ZpOUpNRzA1Z2FHVkNPRjJkNC1KdmR5c1lrX0NqS1ZqWEHSAUtBVV95cUxOLUdXeUhlTjB0TGRhNy0tS1AyM0VWZ2RjSlZWNzM1cUczTTBfeTZNdDh1NHZXRVh2dWVtbWc2TVV5TVh0MmU2ZTNNelE?oc=5	命案兇殺	-
 2026-11-16	前鎮警追查無牌機車闖紅燈 女小吃店用餐露餡、毒品快篩呈陽性 | 勁報	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aWEVKLW5qTE1fVE1KMnFwUkRYV2hUUTdQTG1lRmsxVEpodWdnYjFUUGwyX1ZRcGh2aTctWWhiVFFIUXlwNWVtdzg1NUlsUUJ0d3liOVF3?oc=5	社會	-
 2026-11-16	中國移動香港s/ash聯同反詐騙協調中心 以青年創意“Beat”走騙局	https://news.google.com/rss/articles/CBMikAFBVV95cUxNamUtWnJUel9HY0lkVmFRbXM5VkctaThwUFZwNWpLaWxLdnRSODR5M1ZhWjZ5ZE9RVDlfWVBnbTZLbG1QZU9mRFpwUVpKOG9SOXdBMGhMd1Z0cV9naHI5WWR5ZC1ybm1SZjIxbjBPbkN6TU44enFhRGFGeG5Ib2pOX3J4dmJ0VHJPT0U1M1RUSjk?oc=5	騙案詐騙	-

@@ -1,7 +1,8 @@
-// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2293 條
+// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2294 條
 var DATA_TRAFFIC = `
 2026-11-16	高雄檔車違規左轉撞直行機車畫面曝68歲阿伯當場OHCA送醫不治| 社會萬象| 社會	https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vR3NOZmM5Q2E5WEVQN0poTHNBM1U5c215WnpfclZuLW1qQUN2dnU3LWxqaDFKa1FYcjRqY3ZheldKWkhLbHh1ZV8wdXMyMlp2?oc=5	涉及傷亡	-
 2026-11-16	高雄楠梓死亡車禍！疑未兩段式左轉釀禍 兩騎士對撞1死1昏迷	https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wLTJKTnY4UDRfMWdhUXdMOEI5ck54dVY1dmxwY2tyNVRuZW9raDZUTmMwRktNM2llYW1MaWZTRDdOSWl4NHpXbdIBTEFVX3lxTE9Ld21vYklPOHZvdGhTRFlDaEdYbFB1bnBfYUF6UlV0SVlOd2FGcWRpRlNnTHdpZnh3ekdveWdEZFpBSlQzNWRUWWpJU0E?oc=5	涉及傷亡	-
+2026-11-16	飄香30年成絕響 羅東無名油飯老闆娘車禍身亡 店家無預警熄燈	https://news.ltn.com.tw/news/society/breakingnews/5643003	涉及傷亡	-
 2026-11-16	雲科大側門爆死亡車禍！轎車撞飛機車狂轉360度 19歲男大生慘死輪下 | 社會 | CTWANT	https://news.google.com/rss/articles/CBMiT0FVX3lxTE13V0UtNVc1WDJqOFM1OVZ3M0hmM3hqeC0zaVJZVWpoUWphaFU2RG03LU5tR2VJcnBHVTRuVlFQMS1tYjJkX2VmNXYtX0F2T1HSAVRBVV95cUxPM0NwcDVMenpkT2dsS2tGTDhWU0tWYkFJVzFuekpnX1JWRlJJeDlGVFYwVXNWOHhGdk1senJOUkM2Y3JVRmUtdEtEa0hHbWJBTkVOTmE?oc=5	涉及傷亡	-
 2026-11-16	轎車撞飛機車再衝進水餃店 離租屋處不到百公尺！19歲男大生車禍亡	https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxcmdXcWdPZG8waXNCV2hQakY2cEVLS2kyVDFiTWEzWkZPRGMyU2JjSDF1WElFWFVkUTJxQVYyaFBDdWFucFIyckhfQ2JSRUE10gFWQVVfeXFMUGJUeklBejg2alZpOVhiS1pFV1pQWnN5bDZlUFJGQV83cXJva2VJVVVIZ0lQTnc2dUU3TDNTTVVMQ0l1a2hsaGxoNnZadjdPN3hiQ2hHRmc?oc=5	一般車禍	-
 2026-11-16	車禍理賠差10倍！12萬變125萬 鏡週刊揭制度黑箱奪消費者權益報導獎優勝	https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwa3RMZlpGRkYwaUxldHlZdWZMeXp6ejA0N21vdXViMTNyNUFUd1l5ZmpwN0RqLW1sZUg1T2VmeUFkWnozVnYyeTRQQVVDUkhXdm4ycTlSUXdFNzjSAWBBVV95cUxPSXBVN1VWaEtwZVBEbHlYTTFnVlA5WGRQTEswajRaSnBEVTdEU0ljUGhnWEVpUW5KYlZKVVBrQU9yYXdLVGptSC1oajRWZjk0NHhId3dleTR1SUhLU2txeWo?oc=5	一般車禍	-

@@ -1,5 +1,6 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 562 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 563 條
 var DATA_TECH = `
+2026-11-17	AI代理失控不是第一次！加州政府揭OpenAI「至少發生80起資安事件」	https://ai.ettoday.net/news/3273368	其他資安	-
 2026-11-16	非法殯葬業者勾結駭客 AI入侵消防系統截聽救護通訊	https://news.google.com/rss/articles/CBMi3wJBVV95cUxOcG9wQVA3b3h0VlNHd2dCQV8zQURvY3U2NXJ6aUVsZXZteEhRbWQ5X2x2bld2am1VSHhISkh2UFFPdmVMSl8xT1E4OTdIWjlqek41Y0gxbHVfOEY1bDRXNHpMdkxrakYzUkJBTFBCTUhJemZITnVZMWJxOXR1RmozU3VSTFh1cXNwdFFWdU5kSl9raVRvcjdWbmw0aGRGZ2oxUDQ0M1Y4dFFMcTdTek9JM2o5TlRBYV9HTE9PbUk3MHZWcWRJTl93X19yWmdzZkRIZm41RllLcVN4VXFSeXJicUJNbEVNRDZIVWJDbzQ4WHpNTkhlWWd3OTc4b1NzRnY5aDFERE9nRWUtWDFBbXp5c0tVQ1RHX3RISktwSG44UDdlRmp3b2J5dlN4VzN1MVpoVURCWkhJd2Q4WGxrVmVqRjBfVTVYOFZXY3lJT3BjUkxxcFJ3NWl2RkxqbzBtbzQ?oc=5	駭客網攻	-
 2026-11-16	股匯雙殺！新台幣逼近33元 彭博揭AI大廠「抱緊美元不換台幣」	https://finance.ettoday.net/news/3273018	第四次工業革命	-
 2026-11-16	深圳APEC｜新聞中心展示AI配眼鏡 設人形機械人操作咖啡機	https://news.rthk.hk/rthk/ch/component/k2/1877974-20261116.htm	未分類	-
