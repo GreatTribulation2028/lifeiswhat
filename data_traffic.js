@@ -1,9 +1,13 @@
-// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2342 條
+// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2346 條
 var DATA_TRAFFIC = `
 2026-11-18	高雄救護車執行勤務發生車禍！轎車疑未禮讓 駕駛：沒聽到鳴笛 | CTWANT	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PQ0NETkRLSEY4TVZVM1dGUkhzc3NwX0xnVklub3I0NlJsVUEyeTFtaTlUWHVzc0VFYzc3TzdhMlpQdlNqTko2My1xRDk3VEJvblQySnZ3?oc=5	一般車禍	-
 2026-11-18	金門伯玉路車禍！自小客跨雙黃線撞對向車 2駕駛受傷	https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xRzBHOVRDMGNPdjNfa0haNGZqZUdPeGtkbXhfc0lrd21XRDQzZm92WDVjRXprYkFMVDdYekdESlJuYmdCME5KUlF1Z2NIV1FxaUVZTUxLckhzRUNSNWfSAUtBVV95cUxQaURza2lVeS1hZUI0Y3lsbENES1hfR0lCODlIbmIzV3Iya1Y3Zy1iaVl2dlc4Wl9DeTNnTW5ncXdaNTBIdTlMWm9OeEU?oc=5	涉及傷亡	-
 2026-11-18	載病就醫遇車禍！陪病家屬也遭殃 駕駛：突聞鳴笛來不及	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pb090S2VIVjItR3g2b1kxZ3FXOHhsVm9XaTlEYVdFUHNxWWJiOUkwenRBNWUwS2pUTnM5MWY0TU9oRW96YWlLOWxiQTRfZFk?oc=5	一般車禍	-
+2026-11-18	百萬重機「忍者」遭追撞！緊卡聯結車頭 尾殼翻翹慘破相	https://news.ltn.com.tw/news/society/breakingnews/5645112	連環相撞	-
+2026-11-18	百萬「川崎忍者」遭聯結車碰撞！騎士人沒事...推坑「這可以買」	https://www.ettoday.net/news/20261118/3274381.htm	未分類	-
 2026-11-18	獨家／台中聯結車撞百萬重機！ 車主自嘲「車禍很能扛」	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQTDVkcGVzUkhtWkY4U2FBSmcxSGtYMlZsY3dvY09FLW5CYTZKeTRZdlhvUU42ajVjM0lYQzA2ZDBVWDJGN2V3NUU3ZDhsdzFaY3J6YlV3?oc=5	一般車禍	-
+2026-11-18	汐止水肥車突翻覆四輪朝天 駕駛受困獲救、槽體無外洩	https://news.ltn.com.tw/news/society/breakingnews/5644917	翻覆自撞	-
+2026-11-18	新海橋車禍東向封橋1.5小時 尖峰時段急壞通勤族	https://news.ltn.com.tw/news/society/breakingnews/5644951	一般車禍	-
 2026-11-18	宜蘭賓士男掛假車牌拒檢 倒車撞警連波及2轎車	https://news.ltn.com.tw/news/society/breakingnews/5644386	未分類	-
 2026-11-18	國道1號追撞車禍！小貨車翻覆 後方大塞車	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjMVhwLVA4dEEwOUhNdnEzTnBvSDNrMmY1U0RoUHd4Z2Z0VFFYUXFJV29IdmNMZGpYNUROOFpQRXp5NWVCSkExQWt3cmJ1dG95eUVZZHlR?oc=5	一般車禍	-
 2026-11-18	一車封橋！25歲女新海橋自撞 害上班族塞翻了	https://news.google.com/rss/articles/CBMipAJBVV95cUxNSGNWYzR2NlA5b1VUUVdfMXF5c2M2cWRlaTZRWGRTZmpBWU5SRVREV2hHZUp0MnBTZjlKUkhMbzRZbFJoUVRweVN6UjBHeDd5QXRPRm5vb3BXcjJjTVJOcy1UZ21Qc1dLZlE0TlFza2MzNGxWcUZZNURfb0VyMkNIRFNDZk96MTN6c2pESVNkTUNZOEgxekJ2UVFuOWstWnN1Q0tlYVk3N1MtRDhTUVdPeE8yamdSSUlpUnBVSUw0b3NIUmY1bXJIVUMxVzZkNnpWLUhGLWNCeWJRampNVU1hUV9HN3hFbTJrcld0OThRR0xYam9xamlPOVdCZTRzUE10VDFYMU90UGVLdF9CNjVqZTg4dHp3VkFrTnRNSXpYWmdQWVV3?oc=5	翻覆自撞	-

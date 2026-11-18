@@ -1,6 +1,7 @@
-// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1480 條
+// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1481 條
 var DATA_SOCIAL = `
 2026-11-18	行車壓線被盤查！苗栗男車藏安毒、驗尿呈陽性 毒駕判刑4月	https://news.ltn.com.tw/news/society/breakingnews/5644457	未分類	-
+2026-11-18	熱炒店爆衝突持刀刺人腹部 2嫌涉殺人未遂逃逸	https://news.ltn.com.tw/news/society/breakingnews/5644915	命案兇殺	-
 2026-11-18	淡水命案查獲兇刀 雙煞辯死者毒品交易黑吃黑	https://news.ltn.com.tw/news/society/breakingnews/5644520	命案兇殺	-
 2026-11-17	毒蟲載通緝犯拒檢逃亡5分鐘 吃毒駕官司、吞近40萬元罰單還扣車	https://news.ltn.com.tw/news/society/breakingnews/5643195	未分類	-
 2026-11-17	半年3度毒駕「安毒濃度破6萬」！彰化男駕車拖行員警下場曝	https://www.ettoday.net/news/20261117/3273713.htm	未分類	-
