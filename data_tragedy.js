@@ -1,4 +1,4 @@
-// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 413 條
+// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 414 條
 var DATA_TRAGEDY = `
 2026-11-17	影/新北天倫悲劇！父子吵架「兒子全身陷火海」命危	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZjA1R1ZPVTRKY3Vua3hmdjA2cm9TN3dZWi1qLUItWXFVMUNSQ1g1UWk2S2RQX2pNZnRnRWtVQU1NZ1RadUNXaUVrRmRkS1B6d3lJ?oc=5	悲劇	-
 2026-11-17	南非血腥之夜接連2起槍擊案 釀17死慘劇	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Jd25OazhsNTUtUVV1aktZZXJEaXQxaDVJQzI4cUdDZG51ZEg1VG5ackhvN1lUTTVJdDdzeFpkNEtwRUpDanhMZnBFX0NMSVQ5cjFacFpmdl94bkpseS1aeXdyakEyQdIBa0FVX3lxTE5yZEdGLWVIMVBSbk1RalVrMGpmeGRGMjZxQ3M1cnctQV9zMy1NSkp6NjFkZEUyelBJY0VvSEtDSWh3aVg4ZWhITmZIZDU3LVZKZWl5M1RyNU5yZjRxTS14VEQ0bkJNMzNZZ3lB?oc=5	其他悲劇	-
@@ -370,6 +370,7 @@ var DATA_TRAGEDY = `
 2022-07-24	西貢連續兩日有人遇溺亡 清水灣一灘六旬翁送院不治	https://hk.on.cc/hk/bkn/cnt/news/20220724/bkn-20220724170343757-0724_00822_001.html	遇溺悲劇	A
 2022-07-23	西貢43歲婦遊船河期間遇溺 留醫近一日後不治	https://www.hk01.com/sns/article/795581	遇溺悲劇	A
 2022-07-07	清水灣綠蛋島男子浮潛期間遇溺 送院不治	https://www.hk01.com/sns/article/789911	遇溺悲劇	A
+2022-07-01	土瓜灣老婦疑梯間自焚滾下樓梯頭傷送院亡	https://www.hk01.com/sns/article/787862	悲劇	B
 2022-06-27	女童去年泳池遇溺亡 泳池負責人及救生員認誤導警員被判社服令與感化	https://news.tvb.com/tc/869005-%E5%A5%B3%E7%AB%A5%E5%8E%BB%E5%B9%B4%E6%B3%B3%E6%B1%A0%E9%81%87%E6%BA%BA%E4%BA%A1%E6%B3%B3%E6%B1%A0%E8%B2%A0%E8%B2%AC%E4%BA%BA%E5%8F%8A%E6%95%91%E7%94%9F%E5%93%A1%E8%AA%8D%E8%AA%A4%E5%B0%8E%E8%AD%A6%E5%93%A1%E8%A2%AB%E5%88%A4%E7%A4%BE%E6%9C%8D%E4%BB%A4%E8%88%87%E6%84%9F%E5%8C%96	遇溺悲劇	A
 2022-06-06	內地電視劇《一路向前》2名劇組人員溺亡 暫停拍攝	https://www.hk01.com/sns/article/778175	遇溺悲劇	A
 2022-03-17	去年凱琴居會所女童遇溺亡 負責人及兩救生員涉瞞僅一人當值 被控誤導警務人員罪 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/22389/%E5%8E%BB%E5%B9%B4%E5%87%B1%E7%90%B4%E5%B1%85%E6%9C%83%E6%89%80%E5%A5%B3%E7%AB%A5%E9%81%87%E6%BA%BA%E4%BA%A1-%E8%B2%A0%E8%B2%AC%E4%BA%BA%E5%8F%8A%E5%85%A9%E6%95%91%E7%94%9F%E5%93%A1%E6%B6%89	遇溺悲劇	A

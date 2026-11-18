@@ -721,7 +721,7 @@ var DATA_TODAY = `
 2026-02-25	男网红猝死王牌经纪人豪宅 “扶上床不送医” 判赔18万 猝死 男网红猝死王牌经纪人豪宅 “扶上床不送医” 判赔18万 | 中國報 China Press 0.76	https://www.chinapress.com.my/20260225/男网红猝死王牌经纪人豪宅-扶上床不送医-判赔/	心腦猝死
 2026-02-25	無法接受曹西平猝逝！龍千玉「沒辦法放下」 嘆：學習看淡 猝死 無法接受曹西平猝逝！龍千玉「沒辦法放下」 嘆：學習看淡 1.00	https://tw.news.yahoo.com/無法接受曹西平猝逝-龍千玉-沒辦法放下-嘆-學習看淡-035557108.html	心腦猝死
 2026-02-25	游飈逝世丨游飈猝逝遺下妻女陷經濟困境 好友黃文標發起捐助 古天樂願伸出援手 猝死 游飈逝世丨游飈猝逝遺下妻女陷經濟困境 好友黃文標發起捐助 古天樂願伸出援手 0.95	https://topick.hket.com/article/4089263/游飈逝世丨游飈猝逝遺下妻女陷經濟困境 好友黃文標發起捐助 古天樂願伸出援手	自然離世
-2026-02-24	警察專科學校驚傳墜樓！22歲男學員7 層樓高掉落傷重命危送醫不治 猝死 MSN —	https://www.msn.com/zh-tw/news/national/警察專科學校驚傳墜樓-22歲男學員7層樓高掉落-傷重命危送醫不治/ar-AA1FL61g?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	跳樓墮樓
+2026-02-24	警察專科學校驚傳墜樓！22歲男學員7 層樓高掉落傷重命危送醫不治 猝死 MSN —	https://www.msn.com/zh-tw/news/national/警察專科學校驚傳墜樓-22歲男學員7層樓高掉落-傷重命危送醫不治/ar-AA1FL61g?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	墜樓輕生
 2026-02-24	張榮麟猝逝！「拉桿王子」傅哲偉悲痛發聲 師徒「最後對話」曝光 猝死 MSN —	https://www.msn.com/zh-tw/news/living/張榮麟猝逝-拉桿王子-傅哲偉悲痛發聲-師徒-最後對話-曝光/ar-AA1ICtnV?cvid=69438832e9ec44ea8f5d2753730a6c98&ocid=stripeocid	心腦猝死
 2026-02-24	工程師挑戰「1公升的眼淚」調酒暴斃 店長出庭喊冤：老闆辦的 猝死 —	https://www.ettoday.net/amp/amp_news.php7?news_id=3122268	心腦猝死
 2026-02-24	大埔工業邨食品廠工人3米高墮下 昏迷送院搶救不治	https://hk.on.cc/hk/bkn/cnt/news/20260224/bkn-20260224142141420-0224_00822_001.html	其他猝死
@@ -1164,6 +1164,7 @@ var DATA_TODAY = `
 2025-08-27	19縣市低溫特報跌破10度 全台各地猝死北市3天19人	https://www.am730.com.hk/國際/16歲少年向chatgpt尋-自殺指導-後自縊亡-恐怖對話曝光-父母入稟痛訴/593513	心腦猝死
 2025-08-27	(獨居老翁暴斃住家房 警暫以猝死角度處理)	https://www.arch-web.com.tw/%E7%A7%91%E5%AD%B8%E6%8A%80%E8%A1%93/%E5%8D%97%E6%A5%B5%E7%A0%94%E7%A9%B6%E5%9F%BA%E7%A4%8E%E7%9A%84%E5%A8%81%E8%84%85%E5%8F%AF%E8%83%BD%E6%9C%83%E5%B0%8E%E8%87%B4%E6%9C%88%E7%90%83%E5%95%8F%E9%A1%8C%E3%80%82/28500/	心腦猝死
 2025-08-26	高雄超商前突倒地暴斃！「退休警」身分曝光 暖心助人曾獲表揚	https://today.line.me/tw/v3/article/2DjpZxj	心腦猝死
+2025-08-26	離奇身亡、墜樓連環爆！退休警打完哈欠猝逝…鬼門才開「高雄14hrs內釀4死」 ｜ 陳姿諭 ｜ 全解析	https://www.storm.mg/article/11063001	猝死
 2025-08-26	身分曝光！男打哈欠後猝死超商前 暖心事蹟惹鼻酸 ｜ EBC 東森新聞 ｜ LINE TODAY	https://today.line.me/tw/v3/article/peP0Ga9	心腦猝死
 2025-08-26	討論牆 ｜ 紐約40歲慈善家猝死 生前捐款一查「全是偷來的」得手超過7.5億 ｜ LINE TODAY	https://today.line.me/tw/v3/posts/list/article/60n0356	心腦猝死
 2025-08-26	淡水2個月大男嬰猝死！母與前男友報案 無外傷將解剖釐清	https://www.ettoday.net/news/20250826/3022407.htm	心腦猝死
@@ -1191,7 +1192,7 @@ var DATA_TODAY = `
 2025-08-22	吸入過多沼氣！鶯歌下水道傳工安意外 2移工昏迷1人送醫不治	https://tw.news.yahoo.com/%E5%90%B8%E5%85%A5%E9%81%8E%E5%A4%9A%E6%B2%BC%E6%B0%A3-%E9%B6%AF%E6%AD%8C%E4%B8%8B%E6%B0%B4%E9%81%93%E5%82%B3%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96-2%E7%A7%BB%E5%B7%A5%E6%98%8F%E8%BF%B71%E4%BA%BA%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB-131900010.html	其他猝死
 2025-08-22	何文田男子梯間墮下昏迷送院不治	https://www.singtaousa.com/2022-09-19/何文田男子梯間墮下-昏迷送院不治/4271522	其他猝死
 2025-08-22	KK零售店拉封条引揣测 实为缅外劳猝死 - 国内 - 即时国内	https://www.singtaousa.com/2025-08-27/news-teens-parents-sue-openai-after-they-claim-chatgpt-helped-him-commit-suicide/5315148	心腦猝死
-2025-08-22	2大學生墜樓案列猝死 隆總警長：將調查是否涉及霸淩 ｜ 社會	https://www.orientaldaily.com.my/news/society/2025/08/22/756340	跳樓墮樓
+2025-08-22	2大學生墜樓案列猝死 隆總警長：將調查是否涉及霸淩 ｜ 社會	https://www.orientaldaily.com.my/news/society/2025/08/22/756340	墜樓輕生
 2025-08-21	高雄漫畫店猝死男子竟是製毒師 2年前落網遭判刑10年	https://news.ltn.com.tw/news/Kaohsiung/breakingnews/5151638	心腦猝死
 2025-08-21	為爭舞獅隊名額拚命訓練，老人意外猝死誰擔責？|《現在宣判》	https://portal.sina.com.hk/news-china/sina/2025/08/21/1275147/為爭舞獅隊名額拚命訓練，老人意外猝死誰擔責？/	心腦猝死
 2025-08-21	漫畫店猝死男竟是「高雄毒師」 深山煉3000萬安非他命遭判刑10年 | 社會 | CTWANT	https://www.ctwant.com/article/440121/	心腦猝死
@@ -1631,6 +1632,7 @@ var DATA_TODAY = `
 2022-08-29	火炭駿景園58歲男子猝死	https://www.hk01.com/sns/article/808975	心腦猝死
 2022-08-29	入住防疫旅館沒領餐！63歲男猝死浴室 警初步排除他殺│TVBS新聞網	https://news.tvbs.com.tw/local/1891036	心腦猝死
 2022-08-29	(過勞猝死 廣州程序員案例)	https://www.tbnewswatch.com/local-news/sudden-death-investigation-is-underway-5750975	心腦猝死
+2022-08-28	墜樓猝逝！鮮肉男星「得年22歲」死前3天發文：醒來睏又興奮│TVBS新聞網	https://news.tvbs.com.tw/entertainment/1889913	猝死
 2022-08-28	亲戚喂猫惊见诗巫男子手握哮喘喷雾猝死客厅	https://news.seehua.com/?p=869329	心腦猝死
 2022-08-28	(跟團到土耳其旅遊 2人回程途中猝死)	https://guangming.com.my/%E6%BC%94%E8%AC%9B%E4%B8%AD%E7%AA%81%E6%84%9F%E4%B8%8D%E9%81%A9-%E6%B2%99%E9%84%89%E6%9D%91%E9%83%A8%E9%95%B7%E5%8A%A0%E5%B8%8C%E5%85%A5%E9%99%A2	心腦猝死
 2022-08-25	嫩妹頭痛請假不上課！她睡回籠覺「瞪大雙眼」昏迷腦出血送醫…5天後猝逝	https://tw.news.yahoo.com/嫩妹頭痛請假不上課-她睡回籠覺-瞪大雙眼-昏迷-腦出血送醫-072551277.html	腦血管

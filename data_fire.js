@@ -1,4 +1,4 @@
-// 火警 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2044 條
+// 火警 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2043 條
 var DATA_FIRE = `
 2026-11-18	花壇螺絲工廠清晨大火 廠房、大貨車、堆高機付之一炬	https://news.google.com/rss/articles/CBMibkFVX3lxTE1sZTA4Xzd1R3NVZWF0RkZQcklUbkgxclRtRnU5Q3dSLTNXMFdLZklQeC1OckhRdC1YUVJ5WXdWemRsaVVnSjc2ZjNGNTFKaVFKZy1sMWtJYUZEWHVYY3lxNi1PZjZESkFRVFJqMkpR?oc=5	其他火警	-
 2026-11-18	濃煙太可怕！彰化花壇螺絲工廠火災 延燒食品加工廠、民宅1人嗆傷	https://news.ltn.com.tw/news/society/breakingnews/5644496	工廈火警	-
@@ -1514,13 +1514,12 @@ var DATA_FIRE = `
 2026-01-07	朝阳区一居民家中无人突然起火，物业社区攀梯破窗灭火	https://m.sohu.com/a/973142558_163278?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	其他火警	A
 2026-01-05	香港石硤尾邨火警1死8傷	https://www.tdm.com.mo/en/news-detail/1165314?lang=zh&isvideo=&category=all&shortvideo=0	其他火警	A
 2026-01-05	荃灣中心火警女戶主傷送院 疑點蠟燭燒著雜物肇禍	https://www.hkcd.com.hk/hkcdweb/content/2026/01/05/content_8734051.html	其他火警	A
-2026-01-05	荃灣中心單位起火 女戶主吸入濃煙不適送院 逾百人疏散	https://std.stheadline.com/breaking-news/3532622/荃灣中心單位起火-女戶主吸入濃煙不適送院-逾百人疏散	其他火警	A
+2026-01-05	荃灣中心凌晨有單位起火逾百人疏散63歲女戶主吸入濃煙不適送院- 香港 - 香港文匯網	https://www.wenweipo.com/a/202601/05/AP695b0c37e4b09705957d98a0.html	其他火警	A
 2026-01-05	美如樓21樓起火單位發現一死者 消防循電力故障等調查	https://bau.com.hk/web/article/1457673363534270464/web/content_1457673363534270464.html	其他火警	A
 2026-01-05	疑充電器起火 香港石硤尾邨高樓火災 釀1死8傷	https://udn.com/news/story/7332/9245345?from=udn-referralnews_ch1010artbottom	其他火警	A
 2026-01-05	法國確認9名公民死於瑞士火災另有23名公民受傷- 國際 - 香港文匯網	https://www.wenweipo.com/a/202601/05/AP695b1c3ee4b09705957d9aa0.html	其他火警	A
 2026-01-05	宏福苑大火｜婦人捨身救五命亡 家屬辦告別禮 夫：希望佢會滿意	https://www.hk01.com/社會新聞/60309732/宏福苑大火-婦人捨身救五命亡-家屬辦告別禮-夫-希望佢會滿意	其他火警	A
 2026-01-05	千僧雲集悼念火災逝者 不分地域祈願香港繁榮 祈福法會啟德舉行 萬眾同心共禱和平	https://www.tkww.hk/epaper/view/newsDetail/2007505320099844096.html	其他火警	B
-2026-01-05	充電器起火 石硤尾邨焚宅1死8傷 居民指大廈喉轆無水 消防沒發現不妥籲正確使用 - 20260105 - 港聞	https://news.mingpao.com/pns/港聞/article/20260105/s00002/1767550901248/充電器起火-石硤尾邨焚宅1死8傷-居民指大廈喉轆無水-消防沒發現不妥籲正確使用	其他火警	A
 2026-01-04	荃灣中心有單位起火 一名女子吸入濃煙不適送院	https://news.tvb.com/sc/local/695acbffc26d920e3665bed1/港澳-荃灣中心有單位起火-一名女子吸入濃煙不適送院	其他火警	A
 2026-01-04	荃灣中心單位起火 女戶主吸入濃煙不適送院 逾百人疏散	https://www.singtao.ca/7379009/2026-01-04/news-荃灣中心單位起火+女戶主吸入濃煙送院+逾百人疏散/	其他火警	A
 2026-01-04	石硤尾邨奪命火｜起火樓層天花熏黑地面積水 人員檢查電力裝置	https://www.hk01.com/article/60309557	奪命火警	A
