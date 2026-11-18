@@ -1,5 +1,7 @@
-// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1479 條
+// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1480 條
 var DATA_SOCIAL = `
+2026-11-18	行車壓線被盤查！苗栗男車藏安毒、驗尿呈陽性 毒駕判刑4月	https://news.ltn.com.tw/news/society/breakingnews/5644457	未分類	-
+2026-11-18	淡水命案查獲兇刀 雙煞辯死者毒品交易黑吃黑	https://news.ltn.com.tw/news/society/breakingnews/5644520	命案兇殺	-
 2026-11-17	毒蟲載通緝犯拒檢逃亡5分鐘 吃毒駕官司、吞近40萬元罰單還扣車	https://news.ltn.com.tw/news/society/breakingnews/5643195	未分類	-
 2026-11-17	半年3度毒駕「安毒濃度破6萬」！彰化男駕車拖行員警下場曝	https://www.ettoday.net/news/20261117/3273713.htm	未分類	-
 2026-11-16	高雄女子毒駕藏毒遭攔查 毒咖啡包謊稱衛生棉	https://news.ltn.com.tw/news/society/breakingnews/5642034	未分類	-
@@ -825,7 +827,6 @@ var DATA_SOCIAL = `
 2026-09-11	倫敦持刀襲擊事件4人受傷 7人被捕	https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wQm5UMmxuYVRrb05jczFtY1pmejVoMkZ6M3l5RjJoQURKY2F4ZGhQR2hWN2xYYnBhbzdUUElNTTVEVlItT3dTVXpaNEIxZml4VWJvVVgtalVSaWJWN0HSAWNBVV95cUxNOEl5TDZIT3IwSUxEaUUwMnNfM2ZjU3lUeUtrYUUwT1Q0MEtMa2ZRa0ZBNy1PdzhIOGZ0dWE4eC1LQzFWX2FNdzE1amxIZUVrY3ZLU2lwU1FWNWhTaVNlVzR6MTg?oc=5	隨機傷人	A
 2026-09-10	菲律賓渡輪深夜突失火 5死86失蹤 船身陷火海畫面曝	https://www.worldjournal.com/wj/amp/story/121488/9746044	社會	A
 2026-09-10	泰國東部幼兒園槍擊案一位教師遇害 據報槍手為死者丈夫	https://news.tvb.com/tc/1194330-%E6%B3%B0%E5%9C%8B%E6%9D%B1%E9%83%A8%E5%B9%BC%E5%85%92%E5%9C%92%E6%A7%8D%E6%93%8A%E6%A1%88%E4%B8%80%E4%BD%8D%E6%95%99%E5%B8%AB%E9%81%87%E5%AE%B3%E6%93%9A%E5%A0%B1%E6%A7%8D%E6%89%8B%E7%82%BA%E6%AD%BB%E8%80%85%E4%B8%88%E5%A4%AB	槍擊	A
-2026-09-10	兩內地男涉6宗爆竊案被捕 針對工廈和倉庫偷現金及金器 (16:53) - 20260910 - 港聞	https://news.mingpao.com/ins/港聞/article/20260910/s00001/1789030022541/兩內地男涉6宗爆竊案被捕-針對工廈和倉庫偷現金及金器	其他治安	A
 2026-09-09	海關暑期破424宗跨境販毒 檢6.1噸毒品拘150人	https://news.google.com/rss/articles/CBMid0FVX3lxTE81WDY0ckFzX3hmZ09jOUxMUUZacVBaQzY3a2xxTjhLbDJVTUM5czBVOUNpWUw2VnExamdZT0lzTmdwa2kxMXc0eGhkZFVJQWs1YlgxeW1QNlpGVWNrS3lQYjR6Wk8zbTROUEk0enIwNTEweTZ3MEFB?oc=5	治安	A
 2026-09-08	卖计程车娶越南嫩妻！韩男新婚90天惨死 遗书揭遭家暴真相	https://www.wenxuecity.com/news/2026/09/08/socialnews-269178.html	暴力罪案	A
 2026-09-07	「性愛帳篷」火人祭驚爆2死！去年才發生首起刺殺命案	https://www.ettoday.net/news/20260907/3233052.htm	暴力罪案	A

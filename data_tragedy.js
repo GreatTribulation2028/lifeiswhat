@@ -1,5 +1,7 @@
-// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 411 條
+// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 413 條
 var DATA_TRAGEDY = `
+2026-11-17	影/新北天倫悲劇！父子吵架「兒子全身陷火海」命危	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZjA1R1ZPVTRKY3Vua3hmdjA2cm9TN3dZWi1qLUItWXFVMUNSQ1g1UWk2S2RQX2pNZnRnRWtVQU1NZ1RadUNXaUVrRmRkS1B6d3lJ?oc=5	悲劇	-
+2026-11-17	南非血腥之夜接連2起槍擊案 釀17死慘劇	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Jd25OazhsNTUtUVV1aktZZXJEaXQxaDVJQzI4cUdDZG51ZEg1VG5ackhvN1lUTTVJdDdzeFpkNEtwRUpDanhMZnBFX0NMSVQ5cjFacFpmdl94bkpseS1aeXdyakEyQdIBa0FVX3lxTE5yZEdGLWVIMVBSbk1RalVrMGpmeGRGMjZxQ3M1cnctQV9zMy1NSkp6NjFkZEUyelBJY0VvSEtDSWh3aVg4ZWhITmZIZDU3LVZKZWl5M1RyNU5yZjRxTS14VEQ0bkJNMzNZZ3lB?oc=5	其他悲劇	-
 2026-11-16	南非週末連環重大槍擊案 兩起慘劇奪走17條人命	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jczZ0TE83cEhld0paODFEZHFrRVhEVWlkN3U0bWFEM3dOcU5vZy1PWktPVzRtcGpsdmFDemwyS1FhRS0taVpGMl9ReG5EdEpEVWtQcXRQc0JwampYZ3dhMg?oc=5	其他悲劇	-
 2026-11-15	為何黃仁勳黯然下台的慘劇 不會發生在祖克柏等科技大咖身上？ | 外媒解析 | 國際	https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SmNZdmlERWhab3Y0MVhwVXZmS3UyTktWVXpHdi14Ui1nOWxTbllXSjNhcENGSUdvOXI1VjRrZzVhNnBjdGtBbk50T09kZjh3UV9xY3NCQk1jTldi?oc=5	其他悲劇	-
 2026-11-14	足球》出擊衝撞釀致命悲劇 西班牙足協重罰門將Owono禁賽12場	https://news.google.com/rss/articles/CBMiRkFVX3lxTFBERllTR3BqN2REY0t3YmJ4QmtjRGM1engzR3J4Qms0M3hJMjQyTXJyQ0p4TEI4ZWZfN25WbVc2bVdCR2VCSFE?oc=5	其他悲劇	-
