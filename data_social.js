@@ -1,5 +1,6 @@
-// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1468 條
+// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1469 條
 var DATA_SOCIAL = `
+2026-11-19	10年內5度毒駕還無照！通緝犯車上搜出一堆毒品 最高罰57萬	https://www.ettoday.net/news/20261119/3274684.htm	其他治安	-
 2026-11-18	行車壓線被盤查！苗栗男車藏安毒、驗尿呈陽性 毒駕判刑4月	https://news.ltn.com.tw/news/society/breakingnews/5644457	未分類	-
 2026-11-18	熱炒店爆衝突持刀刺人腹部 2嫌涉殺人未遂逃逸	https://news.ltn.com.tw/news/society/breakingnews/5644915	命案兇殺	-
 2026-11-18	淡水命案查獲兇刀 雙煞辯死者毒品交易黑吃黑	https://news.ltn.com.tw/news/society/breakingnews/5644520	命案兇殺	-

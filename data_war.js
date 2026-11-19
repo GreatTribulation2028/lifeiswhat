@@ -1,5 +1,7 @@
-// 戰爭 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1113 條
+// 戰爭 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1115 條
 var DATA_WAR = `
+2026-11-19	巴基斯坦成功試射「法塔赫－3」超音速巡航導彈	https://news.rthk.hk/rthk/ch/component/k2/1878358-20261119.htm	未分類	-
+2026-11-19	以色列施壓！ 川普擬對伊朗發動新一輪「大規模空襲」	https://www.ettoday.net/news/20261119/3274646.htm	中東戰事	-
 2026-11-18	美軍證實打擊伊朗格什姆島導彈發射場 稱回應革命衛隊侵略行為	https://news.rthk.hk/rthk/ch/component/k2/1878213-20261118.htm	未分類	-
 2026-11-16	黃金在美聯儲鷹派和中東風險支撐美元之際徘徊於年內低點附近	https://news.google.com/rss/articles/CBMi_gFBVV95cUxQODlQbW9CS1c3NVhSTk9lZFFSQWZYN19HTE1UaFZiTTdEWlJKdDhNVHBUQU5GNEUzUlYzaVJsZFZKUXpoTXZPZzQyb0ZoSTkxSEo2b1d3RTU1bE96TmhHZmRxVHFEWFhPMUVHd3NtaUlHdEdTcVM1YlBDTksyS0RwZUFMbUdlUmNWUmpkcmlsTnNRaHk0UWFWaGtKUVdaS0gzdDY3dlBzMl9aQ0t1b195bmhMdVI1c1JYaHhrcEM2Si1aQTJvOTZKVkNnOXloejlYYkt3ajM0ZGJibEttaWhISkNQZmVXYWxpZ1k1bENqdklPRlgxSUVLendCVXUxQQ?oc=5	戰爭	-
 2026-11-16	衝突升級之際，伊朗再次襲擊巴林	https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUjlHbENGQVhYTXR5UEdNZnhLb3dRX3FSM0NmY2FVbEpwV2FBWTV4SkJVcl80OE9TRWxsdGlWdHdUTXN4TnpEUUpNSkRTYjVHbzdhUnRFOU53UEhDTWVaM3RpM0RFSVNnTTFJMmpYZ2thSEVzWUdnS0YycFRwbmNMMi12RHl3d2J3VklVUzRqSUFId1QxVjljaWxKYlozaUVCbmdmTmpobGdWSVl3eXZxZzA2RVhtQzhUbnkzc0c1cUE1WUQwRUd2bjA5X2FmQzI0LURYZEFZbG1fdm9PQlpQczlUdjhvY1RVcFVqVUZEQlFkQVVFMTZN?oc=5	中東戰事	-

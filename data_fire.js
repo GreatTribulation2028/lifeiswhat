@@ -1,5 +1,9 @@
-// 火警 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2043 條
+// 火警 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2049 條
 var DATA_FIRE = `
+2026-11-19	高雄東光國小地下室火警濃煙竄出 師生緊急疏散虛驚	https://news.ltn.com.tw/news/society/breakingnews/5645793	其他火警	-
+2026-11-19	楊湖路廢棄鐵皮檳榔攤起火 消防凌晨撲滅火勢	https://news.ltn.com.tw/news/society/breakingnews/5645861	其他火警	-
+2026-11-19	快訊／高雄市東光國小起火！地下室濃煙狂竄 全校師生急疏散	https://www.ettoday.net/news/20261119/3274670.htm	其他火警	-
+2026-11-19	嘉縣「亞創中心」疑無人機鋰電池引火警 10人嗆傷就醫	https://news.ltn.com.tw/news/society/breakingnews/5645785	其他火警	-
 2026-11-18	花壇螺絲工廠清晨大火 廠房、大貨車、堆高機付之一炬	https://news.google.com/rss/articles/CBMibkFVX3lxTE1sZTA4Xzd1R3NVZWF0RkZQcklUbkgxclRtRnU5Q3dSLTNXMFdLZklQeC1OckhRdC1YUVJ5WXdWemRsaVVnSjc2ZjNGNTFKaVFKZy1sMWtJYUZEWHVYY3lxNi1PZjZESkFRVFJqMkpR?oc=5	其他火警	-
 2026-11-18	濃煙太可怕！彰化花壇螺絲工廠火災 延燒食品加工廠、民宅1人嗆傷	https://news.ltn.com.tw/news/society/breakingnews/5644496	工廈火警	-
 2026-11-18	快訊／高雄左營公寓火警！72歲翁受困1樓客廳驚險獲救	https://www.ettoday.net/news/20261118/3274391.htm	其他火警	-
@@ -7,6 +11,8 @@ var DATA_FIRE = `
 2026-11-18	彰化螺絲工廠大火！鐵皮廠房全面燃燒慘況曝…濃煙狂竄害住戶嗆傷	https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pYzhsS1Iya25SMTFNU3Q1LS10dXBVV3c3bDhOQXAxSFNJSlBDZlJBdGVDTEdqeVJnRDA1a2hJYU1mQm9taUFRS9IBTEFVX3lxTFB6cEw1R0NsSVBSdjBBcmZXa0ZZamhIU0g3TlBvaFlWbkhocmU3R0EzeHhzN0pPSEJnaEYwTmRjaGdRX3FUN0VQaW5jV0M?oc=5	其他火警	-
 2026-11-18	實事大家談-CIA總部突發火警 1117	https://news.google.com/rss/articles/CBMid0FVX3lxTE9lb1cwbWItNEJMZl9ISHBOR0hJcG1Oc25ocEpvWjJYbi1McW43MFF0UE5odUVHX1hmeUdzX05fX2hxbktuVGUyem9OQy1PUXpWYy1MRU1udk9fQS0wUTdId3YwRE1DV19LZ1o3OWN3emdyQ2pPQ3Rn?oc=5	其他火警	-
 2026-11-18	宏福苑大火｜殉職消防員何偉豪浩園立碑	https://news.google.com/rss/articles/CBMipgJBVV95cUxQWnFKWGMwT1pTMnpRMXZOal85dnlQMWdtYTRKLUpkb3FMTzVid3BYYUoyUXpHMG5GQjg3eHZ5ZTlZRG1lZXhzZTVEbnZmaFRNanpDMHlwWGYwNkRBbEdMWW9YejVraE1ZNFRQSzhhMkgtOUZHNG9Ib3kwcGJ2M1hpcHN0V05UaVFvajRBZXRZdFhEVlZ3ZjVIcnd4SEktU3pTUnBwTm43YTMtcUx0QUY1bjhLajhXSWNkaUpMbVJoM1Y4UnlxdEI1UGZRWWZ5VVRBMklNUGZNNXo0cHJmdFVwMnI2cDVZS2hORjluYTJaemY0cEFydXNRU3lHLUJEQy1lVnVqeG83QTd2Vmhyd2wtaE82WXVDcUFyR0FhQXZCb0NFcHZOV0E?oc=5	其他火警	-
+2026-11-18	大埔詹屋村單位疑電器短路引致火警 女子吸濃煙不適送院	https://news.rthk.hk/rthk/ch/component/k2/1878345-20261118.htm	其他火警	-
+2026-11-18	三重民宅竄煙！消防滅火疏散住戶 鄰居9歲男童眼部受傷	https://news.ltn.com.tw/news/society/breakingnews/5645523	未分類	-
 2026-11-18	Bose 喇叭恐起火！全球緊急召回 67 萬顆電池、台灣用戶也遭殃	https://www.ettoday.net/news/20261118/3274099.htm	其他火警	-
 2026-11-17	豐原住宅火警 幸無人傷亡	https://news.ltn.com.tw/news/society/breakingnews/5643171	其他火警	-
 2026-11-17	藍田啟田邨火警疑電路故障引起 消防稱火警起因無可疑	https://news.rthk.hk/rthk/ch/component/k2/1878136-20261117.htm	其他火警	-

@@ -1,5 +1,6 @@
-// 經濟 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1898 條
+// 經濟 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1899 條
 var DATA_ECON = `
+2026-11-19	股后開高跌停！違約交割創新高 融資追繳、斷頭趨緩	https://finance.ettoday.net/news/3274648	未分類	-
 2026-11-18	黃金跌近3,800美元，聯儲局鷹派官員強化加息預期 作者 Investing.com - Investing.com 香港	https://news.google.com/rss/articles/CBMib0FVX3lxTE5faHRfMFFFa09aaktlNUFSalV2RnlfckNXSlpjUnV5QkhTR0RURVpKOHVabENPS1lpVEdSZmxRZEVRTng1eENmakwxaFdILTkxaXBUeXZPWGwzZjVtZERaREpkT2tyOG1ybFAxSDJGbw?oc=5	加息減息	-
 2026-11-18	黃金走勢丨美元走強及加息預期升溫 金價創14個月低	https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRHpFOWZEYmdURlExdDZEbEJGLWtVR0txRGtxcVByM2hKTjJKLUsyMFRXdjNkN3RXRFdIM3Z0NTBuYmtZVHJ0ZUU0S1E1RFQwSHFTZHF6QWVwR1VudGkxMHFXNElYOWpXZUxObXVtV2dESFp0NjQwcnVnTHd6RDFHbGh1SWZhYmhlU3pxTlFPYjFoTzRKeW9Da205bHNEWHVLS0k1YlVYaUlLQmJHT202Tm01TnpjQ04tTUpDY0NZM05RRTM4aUdlTjMyR1pBMDBwQW5TMFVuRkZLczRJcGJfNHVYMGYydkRpWFI5SlQ5d3hUZ1lJbE9vVW1yMjdRMzg2c3JxVjFIMkRkTzJIZGRGSm9uVHFQZXROZzNDUTRGYkdVU0RZd09HekxvTE81OTY3QjRRd0NEZFJZS0ZaeTFuWUdocWhtN2VWZ3R4YmpBdUttbVJOQTNudGY5RTNlNW5WV1pwYzFuUm1uRmdkVGc?oc=5	加息減息	-
 2026-11-18	金價先升後回 美國加息預期打壓需求	https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2cC1VU1ZIeGg5RW4xcDRvV09YV0dSQXVlY1h4UHhmM1gwR3E5TEYweUg0Uld5TXI0dVAzYjlmeFMxYkh5VkhjWHNIRnUtMVJHVGJuOFl4aFBtMmtMOHBtek1QMW8?oc=5	加息減息	-
