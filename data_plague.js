@@ -1,5 +1,6 @@
-// 瘟疫 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1143 條
+// 瘟疫 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1144 條
 var DATA_PLAGUE = `
+2026-11-19	美國麻疹疫情升溫！台灣調旅遊警示至第二級 疾管署：2類人避前往	https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtUndJSi1jN214SlN2eTZjVElPZmJBX0E3UzkzMXc2aUtoeHJELWpXa0dadkFLUC05YjVuQ3lfZHJ2ZkNwenBWVzVLeXNBX1g0Q3c?oc=5	其他瘟疫	-
 2026-11-18	高雄新冠疫苗接種突破24萬人次 庫存僅剩3.2萬劑	https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jWWU0X0xLX1pfdGVwNUxudVVEWjVGZDl4TGIzT3RaSzJxcHQxcTI0emFZY0RJdURvYlZGTE5GbmJudmw0QXhjODFUN3BPZG1LalRuc3BxTGRyQXZHcldjV0p0T1Q?oc=5	疫苗	-
 2026-11-18	美國麻疹根除地位遭取消 疫苗接種率下降致確診數攀升	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QMFJDTjk1M1MzNmZMb01YaVJCdTdaZXNLV040OGZjc0FJRXJ1a0k3TnV4Snlyem9ya1NnSXU1Ry01Y3EwQWlTVC1ualhXMFE1MTluMjFJaXg?oc=5	瘟疫與疫苗	-
 2026-11-18	流感重症本季累計716例、157例死亡 疾管署籲高風險族群儘速接種	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pR1JWQ1hBZm9FUDNDRXFEOEhicUczSmNHNDR3Q2RXM3JTODRDanVvWDJQTW1XVFZyYWNqelUzcVFqWDNSUTZXWG1qc0loZ0U?oc=5	疫苗	-

@@ -1,6 +1,11 @@
-// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2349 條
+// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 2355 條
 var DATA_TRAFFIC = `
 2026-11-19	高雄機車騎士疑自摔險撞公車 網示警：這樣騎早晚出事	https://news.ltn.com.tw/news/society/breakingnews/5645842	未分類	-
+2026-11-19	獨／高雄7歲童躺回收場地上 舅舅開大貨車沒發現輾過奪命！	https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjaTRIMkpzMURpQ2laOUhIY3lrbUFSajZ5T1hlMXJwX0xRWEJWd056bWZTbDE5OTl6N1B4OWNxcWRubVdSUHRDS2xfMkNWSThZWlBRdXpoUDJGRjJEWlHSAUtBVV95cUxONXdvMnpKenpJcUhydXNTTE9WcjNvTzRDVmh6N3lYUWdwUkwteTFwUTFCNm9ja1lFY0tNLTF4eDhqeXhoRnFIYS1yYzQ?oc=5	未分類	-
+2026-11-19	桃小巴深夜遭逆向撞擊 肇事駕駛毒品陽性遭送辦	https://news.ltn.com.tw/news/society/breakingnews/5646039	未分類	-
+2026-11-19	怎麼飄出來的？台中酒駕男硬闖紅燈 撞飛男大生濺血送醫	https://news.ltn.com.tw/news/society/breakingnews/5645957	涉及傷亡	-
+2026-11-19	台中驚悚車禍！砂石車碰撞機車「整台對折」 騎士遭輾命喪輪下	https://news.ltn.com.tw/news/society/breakingnews/5646150	一般車禍	-
+2026-11-19	台中奪命車禍！20多歲男騎士 遭砂石車輾斃慘死	https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SRWszaldlSkxrTkxUN2pjRnFSU3QwazQyX3NLUktlYlJNZEF1UWRDdVlvdzgyRTA1bmdnbzg0WS1fV0ZfbHNKTjdYcUtOdmVOS2NNN0tR?oc=5	一般車禍	-
 2026-11-18	高雄救護車執行勤務發生車禍！轎車疑未禮讓 駕駛：沒聽到鳴笛 | CTWANT	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PQ0NETkRLSEY4TVZVM1dGUkhzc3NwX0xnVklub3I0NlJsVUEyeTFtaTlUWHVzc0VFYzc3TzdhMlpQdlNqTko2My1xRDk3VEJvblQySnZ3?oc=5	一般車禍	-
 2026-11-18	金門伯玉路車禍！自小客跨雙黃線撞對向車 2駕駛受傷	https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xRzBHOVRDMGNPdjNfa0haNGZqZUdPeGtkbXhfc0lrd21XRDQzZm92WDVjRXprYkFMVDdYekdESlJuYmdCME5KUlF1Z2NIV1FxaUVZTUxLckhzRUNSNWfSAUtBVV95cUxQaURza2lVeS1hZUI0Y3lsbENES1hfR0lCODlIbmIzV3Iya1Y3Zy1iaVl2dlc4Wl9DeTNnTW5ncXdaNTBIdTlMWm9OeEU?oc=5	涉及傷亡	-
 2026-11-18	載病就醫遇車禍！陪病家屬也遭殃 駕駛：突聞鳴笛來不及	https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pb090S2VIVjItR3g2b1kxZ3FXOHhsVm9XaTlEYVdFUHNxWWJiOUkwenRBNWUwS2pUTnM5MWY0TU9oRW96YWlLOWxiQTRfZFk?oc=5	一般車禍	-
@@ -14,6 +19,7 @@ var DATA_TRAFFIC = `
 2026-11-18	國道1號追撞車禍！小貨車翻覆 後方大塞車	https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjMVhwLVA4dEEwOUhNdnEzTnBvSDNrMmY1U0RoUHd4Z2Z0VFFYUXFJV29IdmNMZGpYNUROOFpQRXp5NWVCSkExQWt3cmJ1dG95eUVZZHlR?oc=5	一般車禍	-
 2026-11-18	北市復興南路驚悚車禍！閃避前車禮讓行人 76歲騎士倒地遭小黃輾過	https://news.ltn.com.tw/news/society/breakingnews/5645503	一般車禍	-
 2026-11-18	一車封橋！25歲女新海橋自撞 害上班族塞翻了	https://news.google.com/rss/articles/CBMipAJBVV95cUxNSGNWYzR2NlA5b1VUUVdfMXF5c2M2cWRlaTZRWGRTZmpBWU5SRVREV2hHZUp0MnBTZjlKUkhMbzRZbFJoUVRweVN6UjBHeDd5QXRPRm5vb3BXcjJjTVJOcy1UZ21Qc1dLZlE0TlFza2MzNGxWcUZZNURfb0VyMkNIRFNDZk96MTN6c2pESVNkTUNZOEgxekJ2UVFuOWstWnN1Q0tlYVk3N1MtRDhTUVdPeE8yamdSSUlpUnBVSUw0b3NIUmY1bXJIVUMxVzZkNnpWLUhGLWNCeWJRampNVU1hUV9HN3hFbTJrcld0OThRR0xYam9xamlPOVdCZTRzUE10VDFYMU90UGVLdF9CNjVqZTg4dHp3VkFrTnRNSXpYWmdQWVV3?oc=5	翻覆自撞	-
+2026-11-18	「我不喜歡這個名字」竟成奪命導火線？男勒頸搶車 司機遭輾重傷 | 民視新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6SHg1eG5fc3k1M1JvOHNrLUdacVlFWXRndGJFUnk3Z25uVmZ4b2E4WXFEMVRXdlNPNkZWQnczQ2dzd19TVmhEdkJzdE1wOFN1SnFDVmNn?oc=5	未分類	-
 2026-11-17	鳳山深夜傳車禍！轎車疑未禮讓猛撞執勤救護車釀2傷	https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtWXdXQzZiaE1zR0xzdVh6Ri1hVUlSdDN5b24yMHZkVjhYSG9vT2pPbnZIT3JwOXdiRXJaclh2TF9qSzVnc1NSc3N3cWZJeHg2OFp4bnc4VjFFVHBDeTd5ZFo5VXZ0Z1BV0gFuQVVfeXFMT2k1M3J0RldBTXNEYlQxYUt0RDJfS2FQRWE1Mm9MZFpCTm9VZTJnU1hlNGhOQkxUT1pxRzhKUmFrVjlUb0hRUjh6a295dFZmMEZCN1lUeWNRUTBmaV9wQ2Zjb0tIeFpHcFV5LTFtSlE?oc=5	一般車禍	-
 2026-11-17	高球》老虎伍茲相隔兩年復出職業賽今年3月才出車禍- 體育	https://news.google.com/rss/articles/CBMibkFVX3lxTFBabGJpUzNiWHJpaXNzcWlxajJlODM2NnhPTUVjUzhSMVdQQzRWUTVDRGV2c0wzYjZpcXdObXdrQlR6WThZVWxXMlFacE4xWFg1b3NkYlc3RTQ2N0tDaDBBUjh0S0V2NkhJX29zMUVR?oc=5	一般車禍	-
 2026-11-17	驚險！台1線通霄段轎車過彎撞電桿翻覆 消防破窗救出受困男	https://news.ltn.com.tw/news/society/breakingnews/5643233	翻覆自撞	-
