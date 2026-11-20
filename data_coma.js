@@ -1,6 +1,11 @@
-// 昏迷 | 由 htnl_class_route.py 生成 | 共 1585 條
+// 昏迷 | 由 htnl_class_route.py 生成 | 共 1593 條
 var DATA_COMA = `
+2026-11-20	海麗邨男子住所暈倒 兒子揭發昏迷送院	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcmxwbHRJNEZrSTRGY082eEFwLUNVYzROVHRCWW9pOG1Ib1hDd08xYVVOeHZwb1pvWWJEVGZWOTR5WkJkUGs4TjduZC1YMmhpeHBGZVBEd2pTTTVqSUJJN2djXzBrSThjdE9wZV9EbEdscjFsVEt0dHJuYncxSUs5SjBZRWwzVkxJOTZ3?oc=5	昏迷	
+2026-11-20	吃一口直接昏迷！日女製「毒瑪芬蛋糕」報復外遇對象 背後原因超心寒	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oZWdfUVFWa1ozVWpfZUdUb2lwVzJ6cEdsdXRVWjdtSjJGek5IbVpWd2ZSMkVLN0NaLVdxd3hHTGZ3ck9GbkFUR0Fuc1NoSEhRVjhvWlB2VURIZG5ZQzBXbw?oc=5	昏迷	
 2026-11-19	遇關渡造勢昏迷阿伯致謝？沈伯洋澄清「這事」｜#頭家來開講	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1LVVKWEFOOHF0UE52SkxZNERBbFF4M3A1VjFFbFNaU0w2bXVSaWlmRDhxTzBqRFI3b2plQm50bUtmMG1lUGFCa1NDTWs1bkJYNTZsaHU5c0R3Y0NUZF9uQ3MyWjZtSFE?oc=5	昏迷	
+2026-11-19	西貢深涌踩單車意外翻車 男子眼角受傷昏迷送院	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3AtR2U3djNCSUtjYlJWYTRrdXhiSDlkR09ZeFoyamtlaEdrWmUxaDZ5VTdMWC1FTnJyR3JGMnhsYXYtNWdxcXkzVkk2Ul9CX0p6LXVBaVFHZGx0emhkTjM0bVpEVmxWZVl3VmlqUFNtMUhMUWUwbXBmZHNVcUlhSzhoT1FsVFFqZVIw?oc=5	昏迷	
+2026-11-19	索菲亞·懷利：《青春共體》裡幾乎沒有台詞的昏迷少女，迪士尼童星的轉型考驗	https://news.google.com/rss/articles/CBMiuwJBVV95cUxOcFBLSEZCT3ZVYWZFQ05EbmRPOTQyQnZOUDlZV2Y5NzlIanhHcDIzbjUxREFfWmtheGl3enR2QWdYUkRsQkZVOEVTMC10WUFhY3ZGZWFxSEg3ZTQyYUZ5Y0N1T3pqREJTX1dzU0xjNjdIT3lvNGR1T0hRbFZyeXVFOFA0UWRINWhqYUJzN2R3RmJhTlFQNWZXOG84OE5DSUJHNVluM3ZVUUZrODA5WEVoNThwUlBPU0NiSnZqOVpQNlVOcFJRRnJfbDdKSjBDeGl3bzJWaDBZUVIwekZwaldiQlZTU1BMeHBUMW44WUQxSFV4SWtDSElZMjcwdnlRRjBXc1ZUeGM1dnVSQ3dUR2s3S3BYZFFDWUNvUURQOHA1eDNESG02ZlBTcmdxWkRwZzdSN0tFdGQyYXZDbnc?oc=5	昏迷	
+2026-11-19	七旬翁西貢踏單車暈倒送院	https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zZFctTEo0ajdYZUQ4Ykc3UXFkcjg4bHAzVFkyaXY4SmFudF9rWjBkOXFfV0laY3hYVlRDZTZtdWxrQkxzQlZfbWsyYW8tTURPQWNGb2ViZW5OZTBSZmlNTGxB?oc=5	暈倒	
 2026-11-18	馬鞍山利安邨中年漢暈倒 家人發救唔番	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUJKcXNTeG1pZ1dBWTdrdzA2c0VxR05DWVhLcXFyRXlVVjRwWEgyV1RzSEEwSDczRDN1cnR4a3VsOF9FZ19nNi1ickJoVE9DX01NTlNSRHFvek5WRjRTT29WLUY2VjNxOWVySVo3VlNNQ0pONTlfSmxrbWV6ZVJLYU80bEM2aHZUU0ZV?oc=5	暈倒	
 2026-11-18	銀獎科技劇場《電波訊號：昏迷父親連線對話》 明晚廣藝廳免費演出	https://news.google.com/rss/articles/CBMiuwNBVV95cUxPM1VDTEVJQkxqdHZMTTVfNjdNOTNUeEZCUU5RbEdERXRwSlFfdEtsc1VXLUlKbGtmenlTNkpDU2k2eFp4YXAycl9uaFpXc09Vc1J2TG1Sb0hOcHlBVnRFaDdpanQ3Y2tEWUVsaXIxN3hOdVdsV0h0VTQ4VVlmeHVqVVNzaTk4RE5jWEFvNDl5dGNueE9DRXd1b2JDSkhiUl80bncyVUQ4ZXNpbkU5Wm9yekhXTGlySUVIWWliUVpMT09POVZpSy1rYlhXRnBjMjJ1Wm16bFlZVExHQ2ItMmVNTWxENWEtcnVWQ1k0LW1ZbHBrb1ZYNnc2UVoyV01XVGpEODlWWENwNUE0REhPb1dSbzcwMy1TUWVJd0wxb1Y3UWRHbVc4bWVrUnFKM3ZyZndrY3daeU1lcW1lSUU0SXJ2NnJjd2ZMMVlIcGNmTVZJb3ZxbkFrV2Y1dUdyZGVPVEg1bkU5dDM2YnZIZkdxeUItbUhza0hmdW1xMF9oaV9FVzRQZFAxZzVqd3Jna2lDMU05VENzLWNYT1JyRTdvSG95VDFTelBTV1FIODF6dTNZejhnNEstaEJzTTdtNA?oc=5	昏迷	
 2026-11-18	登山客突暈倒！救援小哥「帥氣出手」 網暴動：姊妹們該爬山了- 社會	https://news.google.com/rss/articles/CBMibkFVX3lxTE1NeElpUG9YTHBHeUF4LTIxRXJINU5pRWxBd0RxWC1uQ2h4SFdzdDBDOGQxM0N4S0tUMnJVdEpVaHVpdk94SldhMzNXVDlrM0ZmX2JtOGRYOXpfLW5qdVgwaEV0OW9VN2h5OThBUklR?oc=5	暈倒	
@@ -214,7 +219,9 @@ var DATA_COMA = `
 2026-10-02	屯赤拖頭撞壆 司機被困救出昏迷送院	https://www.stheadline.com/breaking-news/3621640/屯赤拖頭撞壆-司機被困救出昏迷送院	昏迷	-
 2026-10-02	大埔船灣淡水湖水壩跑步比賽 中年男暈倒昏迷送院	https://hk.on.cc/cnt/news/20261001/bkn-20261001101858496-1001_00822_001.html	昏迷	-
 2026-10-02	(有片) 屯赤貨櫃車剷壆掃冧路牌 司機昏迷送院搶救	https://www.wenweipo.com/a/202610/02/AP6abf437ae4b01d54a2859fc8.html	昏迷	A
+2026-09-30	車CAM片｜呈祥道司機昏迷 的士陷無人駕駛、兩度撞壆 4乘客狂拍無反應	https://www.i-cable.com/新聞資訊/508954/車cam片-呈祥道司機昏迷-的士陷無人駕駛-兩度	昏迷	
 2026-09-30	界立建華府抗議習黨魁後昏迷不醒 送醫搶救	https://www.ntdtv.com/b5/2026/09/29/a104137503.html	昏迷	-
+2026-09-30	有片｜呈祥道的士司機暈倒乘客驚惶拍打 無人駕駛半分鐘失控撞壆	https://www.orangenews.hk/hongkong/VWgo1oc/有片-呈祥道的士司機暈倒乘客驚惶拍打-無人駕駛半分鐘失控撞壆.shtml	暈倒	
 2026-09-29	酷熱天氣警告生效 男子行西貢麥理浩徑昏迷 直升機送院搶救	https://www.hk01.com/突發/60394714/酷熱天氣警告生效-男子行西貢麥理浩徑昏迷-直升機送院搶救	昏迷	-
 2026-09-29	酷熱天氣警告 西貢麥理浩徑青年行山暈倒 一度昏迷送院救治	https://www.stheadline.com/breaking-news/3620509/酷熱天氣警告-西貢麥理浩徑青年行山暈倒-一度昏迷送院救治	昏迷	-
 2026-09-29	越南暴雨女鐵騎士「被雷劈」慘摔昏迷急送醫 驚悚畫面曝光｜有片	https://www.hk01.com/即時國際/60394722/越南暴雨女鐵騎士-被雷劈-慘摔昏迷急送醫-驚悚畫面曝光-有片	昏迷	-
@@ -294,6 +301,7 @@ var DATA_COMA = `
 2026-08-28	葵涌興寧路近新都會廣場 女途人捱垃圾車撞當場亡 車底遺手拉車 葵涌發生奪命車禍。今日（28日）早上10時10分，興寧路12號近新都會廣場對開，一輛垃圾車撞倒一名女途人。事主陷入昏迷，救援人員趕抵證實她當場不.	https://www.hk01.com/%E7%AA%81%E7%99%BC/60384467/%E8%91%B5%E6%B6%8C%E8%88%88%E5%AF%A7%E8%B7%AF%E8%BF%91%E6%96%B0%E9%83%BD%E6%9C%83%E5%BB%A3%E5%A0%B4-%E5%A5%B3%E9%80%94%E4%BA%BA%E6%8D%B1%E5%9E%83%E5%9C%BE%E8%BB%8A%E6%92%9E%E7%95%B6%E5%A0%B4%E4%BA%A1-%E8%BB%8A%E5%BA%95%E9%81%BA%E6%89%8B%E6%8B%89%E8%BB%8A	昏迷	A
 2026-08-28	內湖6旬翁開車突昏迷 慢速撞翻5機車「困車內」OHCA送醫急救	https://tw.news.yahoo.com/內湖6旬翁開車突昏迷-慢速撞翻5機車-困車內-ohca送醫急救-020800656.html	昏迷	A
 2026-08-27	荃灣的士與七人車相撞 司機一度昏迷 (16:33) - 20260827 - 港聞	https://news.mingpao.com/ins/港聞/article/20260827/s00001/1787819013465/荃灣的士與七人車相撞-司機一度昏迷	昏迷	A
+2026-08-27	荃灣海安路私家車與的士相撞 多人受傷 的士司機昏迷送院	https://www.hk01.com/突發/60384190/荃灣海安路私家車與的士相撞-多人受傷-的士司機昏迷送院	昏迷	
 2026-08-27	荃灣兩車相撞釀4傷 的士司機一度昏迷	https://www.stheadline.com/breaking-news/3608749/荃灣兩車相撞釀4傷-的士司機一度昏迷	昏迷	A
 2026-08-27	紅雨｜將軍澳舢舨六旬漁民暈倒送院亡 疑曾遭雷電擊中（更新） 今日（27日）清晨5時05分，天文台於發出紅色暴雨警告，其後於早上9時20分改發黃色暴雨警告。早上9時14分，紅色暴雨警告生效期間，一名男子於將軍澳跨灣大橋橋底的一艘...	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1049770/%E7%B4%85%E9%9B%A8-%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%88%A2%E8%88%A8%E5%85%AD%E6%97%AC%E6%BC%81%E6%B0%91%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E7%96%91%E6%9B%BE%E9%81%AD%E9%9B%B7%E9%9B%BB%E6%93%8A%E4%B8%AD-%E6%9B%B4%E6%96%B0-	暈倒	C
 2026-08-27	紅雨．有片｜將軍澳舢舨上六旬漁民暈倒送院亡 目擊者：冇晒知覺 天文台於今日（27日）清晨5時05分發出紅色暴雨警告，其後於早上9時20分改發黃色暴雨警告。在紅色暴雨警告生效期間，有人在船上暈倒。今早9時14分，	https://www.hk01.com/%E7%AA%81%E7%99%BC/60384073/%E7%B4%85%E9%9B%A8-%E6%9C%89%E7%89%87-%E5%B0%87%E8%BB%8D%E6%BE%B3%E8%88%A2%E8%88%A8%E4%B8%8A%E5%85%AD%E6%97%AC%E6%BC%81%E6%B0%91%E6%9A%88%E5%80%92%E9%80%81%E9%99%A2%E4%BA%A1-%E7%9B%AE%E6%93%8A%E8%80%85-%E5%86%87%E6%99%92%E7%9F%A5%E8%A6%BA	暈倒	C

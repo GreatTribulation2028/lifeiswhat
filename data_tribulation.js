@@ -1,4 +1,4 @@
-// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 29 條
+// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 26 條
 var DATA_TRIBULATION = `
 2026-11-10	一場「大災難」改變了一個家庭的形狀！橫跨七十年的《被消失的家園》入選奧斯卡 15 強	https://news.google.com/rss/articles/CBMiREFVX3lxTE5Yb3VyNkJTRTkyZ2FKdlpRVE5hUHNkNFpTUHFJMzZRZGM3RUlqdmtJd3R6Um9wWXgwd3pEUmg4anVmM3Bw?oc=5	大災難進程	-
 2026-05-17	7年大災難前最後警號！末世真正的記號Dr Daniel Wu 吳宣倫博士講道末世已到哪一步？中東各國和以色列假和平《亞伯拉罕協定》、敵基督666與主耶穌第二次再來馬太福音24章隱藏預言4K	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WVGNPTFZVUWhyMGlSLUFCTHgtenBxWndpX3JGa2JTamZXT24zSUw0bmxqLWJjZVhINHZuTGVLM2ZpQi1mYm1qSVVtQ3U5LTBucF9ta3ZJT0lnanhj?oc=5	末日預兆	-
@@ -12,9 +12,6 @@ var DATA_TRIBULATION = `
 2025-07-06	日本大地震「末日預言」破功 5,600億經濟損失卻成真	https://news.google.com/rss/articles/CBMizAJBVV95cUxQZy14RnowaEM1TWVvVkR1SXhxTmtuWUtmWnh5bXZFT3Fod0ltZFl6UE1kc0t4amNsb001Y1l6Y2h0UkZXUkpMWUZpdXVncWxPbzZibng0REtXU20tN2Vmck9RcE0wa3Zac3hWZWVxcGlwRGFVTW5vTjZELVJmWG5jQk9MNEdlU241SDYwNFIwTkRHME5TUGNrWjZiNjFpVHlBYlBZazVRN0gwSU9TNVNCR1NQbXpJRmpfT2pFY0FBd19HczRrWW5qS0FMN1RiY2RMc19FN1lzaWhPVnRfNjVJM3RtTWJ5Q0lBOF9hU2xGcjVTWVU5dDdZYjJJbUF1WXZFMHhDZG5DVzlEcHdfaG1KYnJxb3MxallsTFhpNkZ1SUc2NUlHdGtpSk8yemZ0aEttLXM5Q0dtZ3doMkJYX2FVX3RZNkVQODJGSjFLMQ?oc=5	末日預兆	-
 2025-07-05	7/5日本大地震、2012瑪雅世界末日都掀熱議災難預言日期明確易引關注| 國際	https://news.google.com/rss/articles/CBMiX0FVX3lxTE5feTJ0OUJNby1reWJzaVVLMGRfdkNXLThhSWhqVWxPMGZwa2hmQnhwajU3dUM3ZnVGQ0FhUGtINWNOZ2NWbVBodTZtdm94VWRfZ3lUczJDN1JCU1ZucTFJ?oc=5	末日預兆	B
 2025-05-10	[廣東話] [林鍵] 2025.05.10 《等待君王：寶座》 [但以理書 7:1-14]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE9UWjhKNDFzaUtJN0p1SmJETjh3QjhwQ3ZQcHlPNEhNejZwNzl2MEZ2clNBTU5VMmJnOG1iSHU1NjRFTlEzbXBz?oc=5	其他末世	B
-2025-04-19	[廣東話] [林鍵] 2025.04.19 《等待君王：復活》 [但以理書 6:16-28]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LWmM3NmVlUzFpSi11UE5BWDZSN0pQUGtjaURZMjVORmkyYkdVcnNiU0pTRXFkTC1NUmhnb2hhM3dXNDRkSzFR?oc=5	其他末世	B
-2025-03-29	[廣東話] [林鍵] 2025.03.29 《等待君王：我父》 [但以理書 5:1-24]	https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6VEphUV9QZ2stbjI5Z0t1ZXZLZVVCYXVMaGRKbDgyNFNZNlRTRklaSnlRdGxBd1JQOE5aQzYzRTdudE9JWFNj?oc=5	其他末世	B
-2025-01-18	[廣東話] [林鍵] 2025.01.18 《等待君王：異夢》 [但以理書 2:1-24]	https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EVDNSZHA3Q1VJMWk5dU9iNml4eFNhdzRQQVM2WlZuSGdQQTRLUDJLZUJNN00zMTRsUzdnZ3d5YVFaUDJsZEFF?oc=5	其他末世	B
 2024-09-11	停戰是「預兆」？七年大災難的開始(圖) - 預言未來 - - (移動版)	https://www.secretchina.com/news/b5/2024/09/11/1069219.html	末日預兆	B
 2024-08-12	盲眼龍婆預言末日2025年開始 2024恐面臨3大危機！歐洲被點名	https://utravel.com.hk/news/detail/20021248/%E7%9B%B2%E7%9C%BC%E9%BE%8D%E5%A9%862024%E5%B9%B4%E6%9C%80%E6%96%B0%E9%A0%90%E8%A8%80-%E6%81%90%E9%9D%A2%E8%87%A83%E5%A4%A7%E5%8D%B1%E6%A9%9F-%E6%AD%90%E6%B4%B2%E8%A2%AB%E9%BB%9E%E5%90%8D	末日預兆	B
 2023-10-16	神國預產期近了！需興起末世先鋒，關鍵在於「大衛家三把鑰匙」！	https://news.google.com/rss/articles/CBMiTkFVX3lxTE05RGZ3clR5aVB6aFRrODBtUjkwU2VRTVpjVmxQRjF4Zi1iM0lSOFJDajQwcFJ3NVhldUgyYVd2LUdUd2dxbnRzYmRIa2JQdw?oc=5	末日預兆	B
