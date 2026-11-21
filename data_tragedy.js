@@ -1,5 +1,6 @@
 // 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 246 條
 var DATA_TRAGEDY = `
+2026-11-20	布碌崙塌樓慘劇 5名工人入稟索償	https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWZvLXZveWd1dVk3VzFrWWV6YzRkMUJWb0E2V1Z0SkJ3Mm5yVEJ4N2hVTENLcTFJOHIwbXViWmVpSmFuWUtQV3h4OU14enJ6bmQyNHBLallINEZMQzlXU1FobzJ0SmRfTk5sNURILTJWdTBpc21Ob3IwZDFYNnJ3VGExbjhoYTcxSHc?oc=5	悲劇	-
 2026-11-17	影/新北天倫悲劇！父子吵架「兒子全身陷火海」命危	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZjA1R1ZPVTRKY3Vua3hmdjA2cm9TN3dZWi1qLUItWXFVMUNSQ1g1UWk2S2RQX2pNZnRnRWtVQU1NZ1RadUNXaUVrRmRkS1B6d3lJ?oc=5	悲劇	-
 2026-11-17	南非血腥之夜接連2起槍擊案 釀17死慘劇	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Jd25OazhsNTUtUVV1aktZZXJEaXQxaDVJQzI4cUdDZG51ZEg1VG5ackhvN1lUTTVJdDdzeFpkNEtwRUpDanhMZnBFX0NMSVQ5cjFacFpmdl94bkpseS1aeXdyakEyQdIBa0FVX3lxTE5yZEdGLWVIMVBSbk1RalVrMGpmeGRGMjZxQ3M1cnctQV9zMy1NSkp6NjFkZEUyelBJY0VvSEtDSWh3aVg4ZWhITmZIZDU3LVZKZWl5M1RyNU5yZjRxTS14VEQ0bkJNMzNZZ3lB?oc=5	其他悲劇	-
 2026-11-16	南非週末連環重大槍擊案 兩起慘劇奪走17條人命	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jczZ0TE83cEhld0paODFEZHFrRVhEVWlkN3U0bWFEM3dOcU5vZy1PWktPVzRtcGpsdmFDemwyS1FhRS0taVpGMl9ReG5EdEpEVWtQcXRQc0JwampYZ3dhMg?oc=5	其他悲劇	-
@@ -166,7 +167,6 @@ var DATA_TRAGEDY = `
 2025-08-22	8歲女童被鄰居擅自帶去長江游泳溺亡 家屬批未全力施救索賠109萬	https://www.hk01.com/即時中國/60269091/8歲女童被鄰居擅自帶去長江游泳溺亡-家屬批未全力施救索賠109萬	遇溺悲劇	A
 2025-08-21	湖北襄阳一网红水域有儿童不幸溺亡，救援人员：小孩坐在充气小鸭子上掉下来，家长没抓住	https://i.ifeng.com/c/8lzpNvdGyjh	遇溺悲劇	A
 2025-08-21	士嘉堡一父陪子遊泳遇溺 送院證實死亡	https://www.singtao.ca/7247032/2025-08-21/news-士嘉堡一父陪子遊泳遇溺 送院證實死亡/	自然離世	A
-2025-08-21	(上環14歲女童意外墜海)	https://newstaiwan.net/2025/08/21/350380/	墜樓墜崖	A
 2025-08-14	屯門新圍苑男工人墮水缸 手臂卡去水口遇溺送院 與死神搏鬥近半月離世	https://www.singtao.ca/7240217/2025-08-14/news-%E5%B1%AF%E9%96%80%E6%96%B0%E5%9C%8D%E8%8B%91%E7%94%B7%E5%B7%A5%E4%BA%BA%E5%A2%AE%E6%B0%B4%E7%BC%B8+%E6%89%8B%E8%87%82%E5%8D%A1%E5%8E%BB%E6%B0%B4%E5%8F%A3%E9%81%87%E6%BA%BA%E9%80%81%E9%99%A2%C2%A0%E8%88%87%E6%AD%BB%E7%A5%9E%E6%90%8F%E9%AC%A5%E8%BF%91%E5%8D%8A%E6%9C%88%E9%9B%A2%E4%B8%96/	自然離世	A
 2025-08-13	薄扶林屋苑泳池女子遇溺 送院返魂乏術	https://hk.on.cc/hk/bkn/cnt/news/20250813/bkn-20250813215137271-0813_00822_001.html	遇溺悲劇	A
 2025-08-13	淺水灣泳灘男泳客遇溺身亡	https://www.hk01.com/突發/60266030	遇溺悲劇	A

@@ -545,7 +545,6 @@ var DATA_0000 = `
 2022-12-18	52歲名嘴連出7次車禍 就醫才知「腦癌」病逝	https://tw.news.yahoo.com/52%E6%AD%B2%E5%90%8D%E5%98%B4%E9%80%A3%E5%87%BA7%E6%AC%A1%E8%BB%8A%E7%A6%8D-%E5%B0%B1%E9%86%AB%E6%89%8D%E7%9F%A5-%E8%85%A6%E7%99%8C-%E7%97%85%E9%80%9D-052600227.html		-
 2022-12-18	52歲名嘴連出7次車禍，就醫才知「腦癌」病逝。	https://tw.news.yahoo.com/52歲名嘴連出7次車禍-就醫才知-腦癌-病逝-052600227.html		-
 2022-12-18	印度婚禮多人飲用懷疑假酒，最少37人死亡。	https://www.hk01.com/article/848218?utm_source=01articlecopy&utm_medium=referral		-
-2022-12-19	57歲還押男子公院因病不治 死因裁判法庭將研訊	https://hk.on.cc/hk/bkn/cnt/news/20221219/bkn-20221219213424418-1219_00822_001.html		-
 2022-12-19	中國時隔兩週再次通報兩起冠病死亡病例。	https://www.zaobao.com/realtime/china/story20221219-1344962		-
 2022-12-19	加拿大衛生部的，Adam，Exton，死於疫苗了嗎？！。	https://www.techarp.com/facts/health-canada-adam-exton-die/		-
 2022-12-19	心因性休克致死率可達5成！心因性休克前兆、急救方式5個QA防猝死	https://edh.tw/articles/dHW5R3v		-
@@ -861,7 +860,6 @@ var DATA_0000 = `
 2024-09-27	侵入性乙型鏈球菌感｜確診人數增至70人 3名有長期病患人士不治	https://www.hk01.com/article/1056277?utm_source=01articlecopy&utm_medium=referral		-
 2024-09-30	Acronym 攜手小島秀夫推出全新《死亡擱淺 2》聯名機能夾克	https://hypebeast.com/zh/2024/9/acronym-x-death-stranding-j91-wsdb-jacket-release-info		-
 2024-10-04	天水圍天華邨中年漢墮樓 倒臥地面當場不治	https://hk.on.cc/hk/bkn/cnt/news/20241004/bkn-20241004090747794-1004_00822_001.html		-
-2024-10-08	小欖精神病治療中心64歲男囚犯因病留院不治 死因庭將進行研訊	https://www.hk01.com/article/1064260?utm_source=01articlecopy&utm_medium=referral		-
 2024-10-08	成長的路上，為何走向死亡？國小生自殺通報6年飆升10倍的心靈危機	https://www.twreporter.org/a/elementary-students-suicide		-
 2024-10-08	新北新莊轎車出停車場撞機車馬來西亞輔大女研究生不治- 社會	https://news.ltn.com.tw/news/society/breakingnews/4824034		-
 2024-10-09	疑點多！空軍打靶中彈「臉遭貫穿不治」 高大成分析意外關鍵	https://news.tvbs.com.tw/local/2645495		-
@@ -934,7 +932,6 @@ var DATA_0000 = `
 2025-05-26	天水圍慧景軒女子墮樓 送院搶救後不治	https://hk.on.cc/hk/bkn/cnt/news/20250526/bkn-20250526072156659-0526_00822_001.html		-
 2025-06-03	金正恩再爆死訊！視察腦溢血急救無效 中方指定接班人傳言瘋傳	https://news.ltn.com.tw/news/world/breakingnews/5062562		-
 2025-06-04	彩虹邨男子高處墮下 送院證實不治	https://hk.on.cc/hk/bkn/cnt/news/20250604/bkn-20250604000155316-0604_00822_001.html		-
-2025-06-04	網紅爆腦溢血「搶救14天身亡」！親友痛揭過勞內幕	https://stars.udn.com/star/story/120661/8784713		-
 2025-06-05	絕命終結站！ 男誤觸感應裝置垃圾壓縮機夾斃	https://tw.news.yahoo.com/%E7%B5%95%E5%91%BD%E7%B5%82%E7%B5%90%E7%AB%99-%E7%94%B7%E8%AA%A4%E8%A7%B8%E6%84%9F%E6%87%89%E8%A3%9D%E7%BD%AE%E5%9E%83%E5%9C%BE%E5%A3%93%E7%B8%AE%E6%A9%9F%E5%A4%BE%E6%96%83-145716954.html		-
 2025-06-07	真善美村女子墮樓 送院搶救無效身亡	https://hk.on.cc/hk/bkn/cnt/news/20250607/bkn-20250607040745988-0607_00822_001.html		-
 2025-06-09	花蓮「一天連2起」溺水事件！ 海巡急出動搶救男遊客送醫不治	http://www.msn.com/zh-tw/news/other/%E8%8A%B1%E8%93%AE-%E4%B8%80%E5%A4%A9%E9%80%A32%E8%B5%B7-%E6%BA%BA%E6%B0%B4%E4%BA%8B%E4%BB%B6-%E6%B5%B7%E5%B7%A1%E6%80%A5%E5%87%BA%E5%8B%95%E6%90%B6%E6%95%91-%E7%94%B7%E9%81%8A%E5%AE%A2%E9%80%81%E9%86%AB%E4%B8%8D%E6%B2%BB/ar-AA1BJwQE?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1		-
@@ -950,7 +947,6 @@ var DATA_0000 = `
 2025-06-17	馬鞍山頌安邨78歲婦疑收衫意外墮樓 留醫5日終告不治	https://www.hk01.com/article/60248616?utm_source=01articlecopy&utm_medium=referral		-
 2025-06-20	陝西地產界名人孫茵去世震動商界 傳跳樓身亡	https://www.ntdtv.com/b5/2025/06/20/a103997243.html		-
 2025-06-22	香港仔華富邨婦人墮樓 送院搶救後不治	https://hk.on.cc/hk/bkn/cnt/news/20250622/bkn-20250622115231617-0622_00822_001.html		-
-2025-06-27	14歲女童突心肌炎亡３周前曾接種疫苗 裁死於自然 家屬稱或上訴	https://www.hk01.com/article/60251483?utm_source=01articlecopy&utm_medium=referral		-
 2025-06-30	黃金海岸女保安從高處墮下 當場不治	https://www.hk01.com/article/60252164?utm_source=01articlecopy&utm_medium=referral		-
 2025-07-02	惡夢≠壓力、焦慮！新研究揭「3常見夢」是警訊：中風、心梗、猝死	https://tw.news.yahoo.com/%E6%83%A1%E5%A4%A2-%E5%A3%93%E5%8A%9B-%E7%84%A6%E6%85%AE-%E6%96%B0%E7%A0%94%E7%A9%B6%E6%8F%AD-3%E5%B8%B8%E8%A6%8B%E5%A4%A2-003800743.html		-
 2025-07-03	南航機長傷4人後墜樓身亡 網曝更多隱情	https://www.ntdtv.com/b5/2025/07/02/a104000396.html		-
@@ -1447,7 +1443,6 @@ var DATA_0000 = `
 2025-12-17	黃大仙竹園南邨44歲男猝斃床上 母親揭發惜為時已晚	https://www.hk01.com/突發/60304562/黃大仙竹園南邨44歲男猝斃床上-母親揭發惜為時已晚		-
 2025-12-18	大學生在校內溺亡 疑遊戲時不慎墮湖	https://hk.on.cc/hk/bkn/cnt/news/20251218/bkn-20251218080029484-1218_00822_001.html		-
 2025-12-18	往希臘船隻沉沒埃及人釀14死13失蹤 埃及籲勿偷渡歐洲			A
-2025-12-19	布朗大學槍擊案 涉案男子自戕身亡	https://news.pts.org.tw/article/786772		-
 2025-12-19	廣東27歲女子因「胃萎縮」不治離世 生前體重僅剩17公斤	https://www.hk01.com/article/60305106?utm_source=01articlecopy&utm_medium=referral		-
 2025-12-19	醫療意外 男子打顯影劑暴斃			B
 2025-12-19	高鐵西九上蓋工傷｜助移位斷繩索 1.2噸玻璃幕牆壓斃53歲男工	https://www.881903.com/news/international/2610881		-

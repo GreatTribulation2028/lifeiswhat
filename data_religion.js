@@ -1,5 +1,6 @@
-// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 134 條
+// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 136 條
 var DATA_RELIGION = `
+2026-11-21	「要在你腦子上撒尿」？紐時：黃仁勳辱罵部屬花樣百出以恐懼治理有邪教色彩| 國際焦點	https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwdGxfalpDOU05a0dRNmlBaVFvWnZKUUhpUmlmdmRyN05YX3VvZ29QeWxxeVdRVnljTE5vMVUzOHdFTUtZT2ZHRFFxZmVlVWZnM3ctcDVvZHJUYndk?oc=5	異端邪教	-
 2026-11-17	切割？曹興誠稱「罵蔣邪靈和沈無關」 徐巧芯：曹沈關係非說切就切	https://www.ettoday.net/news/20261117/3273756.htm	未分類	-
 2026-11-15	黃仁勳就是神？員工爆輝達如「封建邪教」學穿皮衣 黃敏珊遭控超難搞 黃家人1特權引眾怒	https://news.google.com/rss/articles/CBMiUkFVX3lxTE03R3V1VUUxbmh2cDYxOV9aZ3hEUlViR050LWgzb0s2dERzZTlSNWFLVjlmekM3RW5JRDBaRHZnRDBiLXFtTkFhSzdBOVl3LVRhZGc?oc=5	異端邪教	-
 2026-11-15	輝達內部像邪教？知情人曝黃仁勳「被神化」 愛女遭控難共事、曾與新CEO爆衝突	https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kNzVqM0ZRdEhhcXlkNm9hZTN3aUtVXzJ2ZUgtQlBqNEJ0WWZadmhneGtPNWNiZ3VPLUFOTDFiQjFnaHFqQnd3Uk8wQQ?oc=5	異端邪教	-
@@ -120,6 +121,7 @@ var DATA_RELIGION = `
 2025-04-22	教宗方濟各逝世｜教廷：死於中風及心臟衰竭 將葬於羅馬聖母大殿	https://www.hk01.com/article/60231511?utm_source=01articlecopy&utm_medium=referral	宗教	A
 2025-01-17	浙江再拆十字架 三自教會分裂 | 鄒思聰 | 風生活	https://www.storm.mg/lifestyle/38771	其他宗教	B
 2024-11-25	教派衝突釀至少82死 政府調停達成停火7天	http://hk.on.cc/hk/bkn/cnt/intnews/20241125/bkn-20241125060525253-1125_00992_001.html	未分類	A
+2023-05-22	肯尼亞邪教領袖的誕生：從的士司機到操控無數教徒生死的恐怖牧師	https://news.google.com/rss/articles/CBMi0ANBVV95cUxOMWNyczRWZW5LM244bTQ4NkRDSWRUbnlzQldkQ1Fwb0EyYXc2RnhDZURXekFzazJzMGZiOFNBeGFSc0JtMkI3SVQtdnd6Mm1pVW8xR2wySV9RMkZkdkdXRE83N1FnQ0NXZko3YWtXaEVQUklRbGp6VnNjenpTWlpiSHU2aEFCM0lqUWFzZWdBdVEweVNKQkFscjg2b1B2X3VaM1lBR2puUUVlbkQxODIzTjBiTDJSUUZ6ODN6Um8tT1NJNEEtMFZ5NlMxR1R2ZnVoTzhJTUUwemdCSUEtR1Z4b1pnMUE3ZWVIMG1XV1RDdExxOGdRZHo3MVZzWWVyN0xqVU5rT1RmM2RGb19FOHJPZ0VoY0k4cktIbk15Q2pMTF9HaGdTYnFNakk4NFN6dkx5T3ZpRU1GbXZwUnM4cmlaVWROZDZva1k1amFHNFVMS1dWWVVaX1FZenU5NVBkMzVwS2pfbjhwWmg3ZmdzS21ZR2duMVNYSEdmdWhNUy03RjYwT2MyQkhtYVBJanpreExKQjBCdjFqc0pHSGx5U0V2VjBjNkdtRHVBVlR4ZkZheTc0bXA5TnRXaEVGUHc2b2VqMHpWeXB5UDJxOGRSNFJrdw?oc=5	異端邪教	-
 2023-01-04	中國取締韓國異端庇哩亞教會 指損害基督教聲譽	https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FYUJkd19XS0wxQk42emlaNWJfOUdJeERRU216UUc0eGdiLWs5Unh5M05DQkdSY0t5Z295OUNqc3ZkNlhkUzJZYS1Rb2V4U0NBVE1pakRocEtUQQ?oc=5	其他宗教	-
 2022-09-26	德州成功培育5頭「紅母牛」送往以色列，「末世訊號」再度引發討論	https://cdn-news.org/news/N2209260003	宗教	B
 2022-05-18	俄羅斯東正教牧首支持出兵烏克蘭，引發教會分裂危機，教宗方濟各：不要淪為普亭的「輔祭男童」	https://www.thenewslens.com/article/167002	其他宗教	A
