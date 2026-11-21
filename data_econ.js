@@ -1,4 +1,4 @@
-// 經濟 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1346 條
+// 經濟 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1345 條
 var DATA_ECON = `
 2026-11-19	股后開高跌停！違約交割創新高 融資追繳、斷頭趨緩	https://finance.ettoday.net/news/3274648	未分類	-
 2026-11-18	黃金走勢丨美元走強及加息預期升溫 金價創14個月低	https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRHpFOWZEYmdURlExdDZEbEJGLWtVR0txRGtxcVByM2hKTjJKLUsyMFRXdjNkN3RXRFdIM3Z0NTBuYmtZVHJ0ZUU0S1E1RFQwSHFTZHF6QWVwR1VudGkxMHFXNElYOWpXZUxObXVtV2dESFp0NjQwcnVnTHd6RDFHbGh1SWZhYmhlU3pxTlFPYjFoTzRKeW9Da205bHNEWHVLS0k1YlVYaUlLQmJHT202Tm01TnpjQ04tTUpDY0NZM05RRTM4aUdlTjMyR1pBMDBwQW5TMFVuRkZLczRJcGJfNHVYMGYydkRpWFI5SlQ5d3hUZ1lJbE9vVW1yMjdRMzg2c3JxVjFIMkRkTzJIZGRGSm9uVHFQZXROZzNDUTRGYkdVU0RZd09HekxvTE81OTY3QjRRd0NEZFJZS0ZaeTFuWUdocWhtN2VWZ3R4YmpBdUttbVJOQTNudGY5RTNlNW5WV1pwYzFuUm1uRmdkVGc?oc=5	加息減息	-
@@ -467,6 +467,7 @@ var DATA_ECON = `
 2026-09-29	全球支付巨頭Visa 擬裁員2600 人，裁員比例達7%	https://news.futunn.com/hk/post/76742557	裁員清單	B
 2026-09-29	內地品牌搶灘 星洲餐飲掀倒閉潮 早年越洋落戶港廚 依仗粵菜神髓守業	https://hk.finance.yahoo.com/news/內地品牌搶灘-星洲餐飲掀倒閉潮-早年越洋落戶港廚-依仗粵菜神髓守業-181600846.html	結業清單	B
 2026-09-29	他爆20％關稅釀倒閉潮 彰化水五金協會「怒打臉」： 一切正常	https://www.msn.com/zh-tw/news/living/他爆20-關稅釀倒閉潮-彰化水五金協會-怒打臉-一切正常/ar-AA1K49ws?cvid=0975A2BF5CB64628AD628CE753C07AAF&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	結業清單	B
+2026-09-29	今年已經有4間酒店結業 #佐敦 #偉晴軒 #酒店 #結業 #am730	https://www.facebook.com/am730hk/posts/今年已經有4間酒店結業佐敦-偉晴軒-酒店-結業-am730/1514539960713601/	結業清單	B
 2026-09-29	三年內三度裁員！eBay裁撤800人 占全球人力6%	http://www.aastocks.com/tc/stocks/news/anue-news/AN6355592/1	裁員清單	B
 2026-09-29	【美日聯手干預匯市】日媒爆料:因日央行暗示9月加息	https://finance.now.com/analysis/study.php?topicId=13&newsId=981660&c=	加息減息	B
 2026-09-29	【歐央行】拉加德:有節制加息應對通脹恰當	https://news.now.com/mobile/finance/player?newsId=664021	加息減息	A
@@ -530,8 +531,6 @@ var DATA_ECON = `
 2026-08-24	【美債危機】聯儲局官員卡什卡利派定心丸：債息飈升反映市場健康惟通脹難短時間回落9月加息取態未明	https://inews.hket.com/article/4181285/【美債危機】聯儲局官員卡什卡利派定心丸：債息飈升反映市場健康 惟通脹難短時間回落 9月加息取態未明	加息減息	A
 2026-08-22	結業潮2025｜7.Mamma Mia Gelato沙田店 意式雪糕店剩餘6間分店		結業清單	B
 2026-08-22	結業潮2025｜69.Mr.cool凍肉舖全線結業 曾獲良心業主兩度減租		結業清單	B
-2026-08-22	結業潮2025｜54.博多拉麵別天神 12年老店不敵3大難關		結業清單	B
-2026-08-22	結業潮2025｜18.八月堂 台灣殿堂級牛角包		結業清單	B
 2026-08-22	日核心通脹升至1.8% 料9月加息	https://www.hkej.com/dailynews/international/article/4490293/日核心通脹升至1.8%+料9月加息	加息減息	A
 2026-08-21	內地法院受理恒大破產清算案- 兩岸	https://www.dotdotnews.com/s/202608/21/AP6a87da4fe4b04b6c5d375e66.html	破產	A
 2026-08-21	【即時新聞】中國恆大(EGRNF)子公司破產清算案獲法院受理，創辦人許家印遭判無期徒刑	https://cmnews.com.tw/article/newsyoudeservetoknow-4f6d0747-9d73-11f1-88b2-6ef19326ba12	破產	A

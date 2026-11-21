@@ -1,6 +1,8 @@
-// 戰爭 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 794 條
+// 戰爭 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 797 條
 var DATA_WAR = `
+2026-11-21	貝森特：面臨伊朗安全威脅 目前仍居住軍事基地	https://news.rthk.hk/rthk/ch/component/k2/1878692-20261121.htm	中東戰事	-
 2026-11-21	美拋俄烏和談「2大劇本」曝光！ 川普稱普丁盼外交停戰	https://www.ettoday.net/news/20261121/3275846.htm	俄烏戰事	-
+2026-11-21	俄軍飛彈、無人機墜波蘭！北約怒斥「侵犯領空」 歐洲軍演爆危機	https://www.ettoday.net/news/20261121/3275884.htm	空襲導彈	-
 2026-11-20	沙特稱首都最高建築遭胡塞武裝襲擊受損	https://news.rthk.hk/rthk/ch/component/k2/1878514-20261120.htm	中東戰事	-
 2026-11-19	德黑蘭促地區國家採取必要措施阻止美國策劃針對伊朗軍事行動	https://news.rthk.hk/rthk/ch/component/k2/1878426-20261119.htm	中東戰事	-
 2026-11-19	巴基斯坦成功試射「法塔赫－3」超音速巡航導彈	https://news.rthk.hk/rthk/ch/component/k2/1878358-20261119.htm	未分類	-
@@ -786,6 +788,7 @@ var DATA_WAR = `
 2025-07-18	加薩教堂遇襲3死 以色列對誤擊深表遺憾	https://hk.on.cc/hk/bkn/cnt/intnews/20250718/bkn-20250718075526905-0718_00992_001.html	中東戰事	A
 2025-07-07	1. 🚢 永恆C號7月7日遭胡塞武裝襲擊	https://t.me/warfareanalysis/163656	中東戰事	B
 2025-05-07	5月7日凌晨引述巴基斯坦三軍新聞局局長稱，印度向巴基斯坦多處地點發射導彈。	https://www.hk01.com/article/60236305?utm_source=01articlecopy&utm_medium=referral	未分類	A
+2025-01-21	台灣空軍基地發生嚴重意外 女士官長遭戰機引擎進氣口吸入身亡	https://citytimes.tw/%E9%81%8B%E5%8B%95%E7%9A%84/%E9%80%99%E5%A0%B4%E5%8F%AF%E6%80%95%E7%9A%84-50-%E8%BC%9B%E8%BB%8A%E7%9B%B8%E6%92%9E%E4%BA%8B%E6%95%85%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%91%E5%85%A9%E4%BA%BA%E6%AD%BB%E4%BA%A1%E4%B8%A6%E5%BC%95/511176/	戰爭	-
 2024-12-19	韓國：朝鮮派1.1萬兵援俄至少100死逾1000傷 陣亡最高級或是將軍	https://www.hk01.com/article/1086417?utm_source=01articlecopy&utm_medium=referral	未分類	A
 2022-10-16	俄「徵兵官員」離奇亡！陳屍自家庭院圍籬旁 曾打過車臣戰爭	https://www.ettoday.net/news/20221016/2359261.htm#ixzz7htVb719d	軍演動員	B
 2022-05-26	【俄烏戰爭】俄封黑海阻烏出口引發糧食危機 今稱若西方放寬制裁願解封	https://www.kinliu.hk/news/kinliu/%E3%80%90%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E3%80%91%E4%BF%84%E5%B0%81%E9%BB%91%E6%B5%B7%E9%98%BB%E7%83%8F%E5%87%BA%E5%8F%A3%E5%BC%95%E7%99%BC%E7%B3%A7%E9%A3%9F%E5%8D%B1%E6%A9%9F-%E4%BB%8A%E7%A8%B1%E8%8B%A5%E8%A5%BF%E6%96%B9%E6%94%BE%E5%AF%AC%E5%88%B6%E8%A3%81%E9%A1%98%E8%A7%A3%E5%B0%81/82043.html?id=80&from=channe	俄烏戰事	A

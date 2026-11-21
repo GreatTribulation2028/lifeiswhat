@@ -1,4 +1,4 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 398 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 399 條
 var DATA_TECH = `
 2026-11-19	OpenAI驚曝AI突破網路隔離！最強模型訓練遭緊急喊停11天	https://ai.ettoday.net/news/3274709	未分類	-
 2026-11-17	AI代理失控不是第一次！加州政府揭OpenAI「至少發生80起資安事件」	https://ai.ettoday.net/news/3273368	其他資安	-
@@ -344,6 +344,7 @@ var DATA_TECH = `
 2026-03-21	FBI：俄駭客正瞄準Signal等即時通訊用戶| 俄羅斯黑客	https://www.epochtimes.com/b5/26/3/20/n14723774.htm/amp	駭客網攻	A
 2026-03-19	千通道探針刺入大腦腦機接口產業駛出實驗室--經濟·科技--人民網	https://news.google.com/rss/articles/CBMidEFVX3lxTE5BcF9SRy11ZS03UDBkY2x4aEVQdktIRXEwS0dzbEZHMXpJbDJJMGpNT3VoUzBkLVNrdzFLbWpuc0RDaTNGUHhRWXFTdkJpeExkUGtTVmFGLVEyN3ViUXV1RmRQaFFIVkk5TTExcDI0Z3F3MkZf?oc=5	第四次工業革命	B
 2026-03-17	理大研發全聲學腦機接口系統 超聲波調控腦部 驅動醫療創新	https://news.google.com/rss/articles/CBMioANBVV95cUxPeUZpblJmOF9FSFlwdEhRZUNpOFhseFVja1F4QUtDUC1CRnRpR3NTa2FONjBiSE1FdVJwR2hYYXdWMl9fd2JYa1NZZ1pic19VQm1ueWZWZmJySkpvYmhnUDl2d3lzTm1YaWhac2lwVDRJZTVzVjRNbkJGLTF4Y0pyVVoyVko0dGhrM3laczVYQ3NIUk4zaHlRNnRldUVGbGtZUTBJQVZuNUJOUE5VU0cyLWxFNG5EN0hXUnRMeEhNeWZORUN1ZFJEQkt6RmFwRXVfMW84UTViaUFZQ01IakdtU29YU1Z3bFN3WWVmVWFSM2tVY2NTMVJFUlRWS0NPRS1yaGtVT1BPRlQ5T3lBd0hCd0dSZE5HZkprV0VmOUlPM04zMTF2NU5BVFQwODlwb3lnczhlN3lqSXF6dDRZZDV6cU50V29QLVo0Y3M1WWdfT0RNY0tPekdOYmE5ai1kNTkweEoxcmRnUlVmVXY4Vl9VWjhtaXA5N3VBb3JtNlF2V1VmWHlBZTA2cld4Q3ZjV2FMR3lub29WbGU5aDJzZ0JQbg?oc=5	未分類	B
+2026-03-07	佛州男子过度迷恋“AI娇妻”自杀身亡 家属起诉谷歌Gemini	https://tech.sina.cn/2026-03-07/detail-inhqcucr5335928.d.html?oid=Trang chủ Bảng xếp hạng Bá Bình(TG:e10838).dca&vt=4	第四次工業革命	-
 2026-02-27	昂坪360系統遭絡網攻擊及勒索年票乘客、供應商及租戶等的 ...	https://news.mingpao.com/ins/港聞/article/20260227/s00001/1772196264267/昂坪360系統遭絡網攻擊及勒索-年票乘客-供應商及租戶等的資料外泄	未分類	A
 2026-02-27	OpenAI曝光中國網軍戰術：AI被用於跨境打壓異議	https://udn.com/news/story/6809/9347652?from=udn-catelistnews_ch2	未分類	A
 2026-02-27	Block 狠砍近半人力轉向 AI 自動化，股價狂飆逾 22%	https://abmedia.io/block-2025-q4-financial-report	未分類	A

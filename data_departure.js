@@ -1,12 +1,10 @@
-// 離世 | 由 htnl_build_news_js.py + htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 1768 條
+// 離世 | 由 htnl_build_news_js.py + htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 1724 條
 var DATA_DEPARTURE = `
 2026-11-20	金馬放映最終場那天 《菲律賓女孩》32歲女主角淋巴瘤病逝	https://star.ettoday.net/news/3275434	自然離世	-
 2026-11-20	費歐娜驚傳死亡 死因曝光	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HN3hfVnV4amhocm1XbmNHS3FnZF9hMF9oSkFEY0xnTzRJNVNNT2VSRXV5cG1nWGMtb0dueC10V1A0Vm9tclphb3M3SjJtTk9JZnVN?oc=5	自然離世	-
-2026-11-20	少棒小將遭球擊中頸部 昏迷半年「13歲生日前」離世	https://news.google.com/rss/articles/CBMi0wJBVV95cUxQMTFza1psV0N3R01uUmFvNzMwazZTUVA1WUM2R0JPYkNSU0ZiYVBRczJyRU1kdjNYSVk1bFhteFNGT2Vkd3VkTEtEa1l0aHFiRUFTNGJUMmJ3cTdmVEZxem9Ma3laMl9fLUl0cTl2azRSVXllVEpoQm1xRHVhMmgyOXU2V0RRc2VEMTZ6SHpuV1pyT3ZVbkxOV3FGSF9WRFFsM3RPV3hhekZUZS14c3M1ZzlxZDRqOEljdXRIbWJQbGRTbDExdkpZamFaMzdNaDhXc1RHVVFwdHlfNHoyTUZ2Y0Y3cmJBTV9qb2MzMVduX2xzSS1Lc3VkQWh2RjhOdEs5M3VXSXIwWXhuSlpJcVZfTHdocHNuQk5ySTVsNGZuMDMxRDRFa2tOU2xyRUxqdWhQUE1DdHJjWkhQd3p0WGllc2d0Z0pobmxlX0ZtNGJralBSZ28?oc=5	自然離世	-
 2026-11-20	《六人行》資深男星外出買晚餐遭撞！原判肋骨骨折無大礙「術前突驟逝」享壽66歲	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rVWtWWHhoTW9fUGlkY3hMME1RYVlDcE95SXVSZFJSdDd0cENKSm85eFZiblotS0ZyQVd0eUpjN0hkX0p4dHhkTDJ6V2xaZHlSRjRXZXJqdjNFWVkt0gFiQVVfeXFMTmVieUNWdV9hN1V3NkMtTGw4QU4yTV9hVlM0bnREcTRQUERsVEVaX0d6UmJwVVFMNFpLTi1vZXhITlVoMXdka2QySGNMRmMyRkxWOTFGWm93Qm9vWTBRNGx5TGc?oc=5	未分類	-
 2026-11-19	造價1.75億「死亡車廂」悄上網賤賣！中捷曝原因 底價18萬	https://www.ettoday.net/news/20261119/3274926.htm	自然離世	-
 2026-11-19	玫瑰戰爭｜女星自殺多年 竟爆出有背後真相 真兇竟是身邊人｜第八集劇集劇情	https://news.google.com/rss/articles/CBMixwNBVV95cUxNMlJvRTB5TTJQZUFzNUpkZ1dPb285aWR6Nkt1LWpvS3JDaHlqVllDLU05eldrRnRuV3NFRFIzbWUyVDJKTDVJTmlYQkhSSkRFbURYa0lONXVlanVmM3hDQnZ0NUNzdHZsRjJzcVpYRm9BMC12RUljX1MzbDlUbDNxc3YyeDVIbDRBcE5hbDlDbXNiVTdVYnJoMlBNbTRndl9vcm5GS2xpRGYtTFNuM0k4WXhmUEtJTVAzWlFlQm5JMG0talNlTzJaWHVoMGpKOWVuRTd1Z0Y4WjNxZU9qeFo1aWVwTVpvVUZYYUdualpuTjgwQXVyUEZtVXdiY1RiYkdDUkdFeTNUQ2l3UDlrT3hwcTFINXJUbE8zU0w5aGZYRXY1RFZJdmstcXBKSlFuSjhKV3ozdV9HQ0VwUHRMdjhVUGdkaUJVQnNmb2NGQ2pldUhOZU12VjFuOXVVMUsyejdpeGxyZUtaRHowcVltazJJUUFmZzUwb3h5eEVJeGJTczl0dDFPaGJDczdqODdMLTRRcTY3TGdMTF9GNW05MmFUR1M3eG8tUGlHY1JOMkcta09BbnNzNTVrUWVMcXJyZnBKaC1aVndjTQ?oc=5	離世	-
-2026-11-18	高雄連2起墜樓！婦陳屍診所前民眾嚇壞 隔天獨居女倒地不治	https://www.ettoday.net/news/20261118/3274209.htm	離世	-
 2026-11-18	陳寶珠仍為谷薇麗離世痛心 台上頻頻抹淚：佢精神陪住大家 白內障術後3個月仍未適應	https://news.google.com/rss/articles/CBMirARBVV95cUxNVG5STGowZGZmeFFQdWdNQ1RWcmdZRVd5NjdKU25FN2F1ZVhBYWpkdnh3Y1ctd2k0TnQ2S2Qzb3ZHaDhoX1NXNVFJcjB0WnB5SF9QVWdNVlZBaDc3dHZ4Zi0xTHpVSzdVVEVfVHRBRDd5eW5Fek5qS25nLWlmQ2d4ZkxYdGt4MFF5dW83bUxObE5DYkxPZnQ5bnVlQmd3OXhmTEFfRkk1Q1Qzemdwbjh2UkZWaU1MR0NOUlpDRVRjbGF1NGhaU3lHRmZwYy1FSTZJMXRXeHh0UzR1eUtxNnhlM2pvX25JWTJhdzdTMzhfRXQyT1FBQ0pqekZKTE1XMG9DQ0NoWUNscWNCUkZYLThwT19UUXE0NVdEVDc3OWdNd0QtNlZ0OVo3NDQ2OGg4SnZJVnlycFlTRHJQUktNdWZfYUYzTmdMMFVNQlBVNG5NQmRKOWpHOHk1VHRBbHpVd2FrSEtDM3VHYUlvNHZGVWhGOHVKWFE1NUhIY0ppNXBFWkhaWnh3NFFsbzg5X1pYQ2lSMGU2YVlKQ0hNM3d4S01ra0twcUNKSlVYNHZDaHhINGE4X2RZdHlNOWYtZUhsZkpnMWJZTEdRSHplcGNrUDNXVkNSNjYzVlVqYnBsajczelpTSFYzbThGSWE4ZEhEb2h5N0x3dEotMnk2R0tnYmxaOWY5T2R3WlIwd1NVc1JpT002U0c2Qm84LTVOZFlCSFBnbW01WGNOQ0ZWQ0Ro0gGMAUFVX3lxTFBzOWVSZC02S0RlTzBtbzBwcFFTOE1GRWhyYVlsYlpFSTJrZ3V2bUpxUWlRUzQzclVGNkdFN3JDSU5WZFp5RnhxRHlhNjRsclJ2bDZ4NjQ3Z3Q2ZjZJVHlPVnBHN1BsalVTU2Y0clNoS1VPNUJUMHFKNTBudnhFa2ZybWZsODcyWHVPYnpK?oc=5	自然離世	-
 2026-11-18	尼日利亞東北部發生襲擊事件 一名中國公民死亡	https://news.rthk.hk/rthk/ch/component/k2/1878229-20261118.htm	自然離世	-
 2026-11-18	好友不幸離世！惡男假意登門慰問 連2天硬上大嫂下場曝光	https://news.google.com/rss/articles/CBMiSEFVX3lxTE53UlpMdnFuN0lxeXRjbW9YTW9HLS1SMUdQUnJ6aUwxODl5bUE0NDRXdEtVMmp0T0VWSzRROE1pSDhfajE2cTZNd9IBTEFVX3lxTFA2ZG83eGVpcjFvbUJIb3ZNTDlZWmVXUnJuQzhSdEZOX05jN21Tb0N2VHdkZ3l1YWhOTW82QnliMnFfSElTMVBLMVN6eEk?oc=5	自然離世	-
@@ -70,7 +68,6 @@ var DATA_DEPARTURE = `
 2026-11-12	俄駐美大使上任年半突病故	https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQW02dWlycFcyREpFZmpUY3hGWHVRR0NjWF9qS3RjNVZhQlZkM2dUZFg2a1E4VFhnaURsT1hjMlNNSlZvR1NqbktrZl84WTYya3F3SEtjQ0w0VnV4YjVGTFRtUVJ1XzExaGVoNnBDdGpiZFFRYlFqdlh2VzU4ak1qNFpPVVBTeTFGY09KUmIzMEZ2dEE2cDRrOWE0V0toOUE0S09SWnVmdThTeTVwaVVEUGFCMUQ5Tnd1TC1lS1hyX3hxMjZfaFVocjN5WVdWcTJLR1ZHZVZoMk00WXN4MmxfRHZXcEJYNG1ZSUw0WFh3eGtRRXBkTHcwdnVjdHp3UQ?oc=5	自然離世	-
 2026-11-12	俄羅斯駐美國大使達爾奇耶夫猝然離世	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpaXNoMTZhR2VNQmgwYXhkTTVCVjA0VlFVLUQtbDZIRm1QVEpfeWUtTjBQY2NXYzQzY214V19mZEZ0V1hTS1dHLU1lZDFVcE1ZcWVvNmtEWlUxWjVHREEwekFmX1J6NzA?oc=5	自然離世	-
 2026-11-12	中國湖南裕能副總經理汪詠梅病逝 年僅47歲 六天前剛卸任職工董事	https://news.google.com/rss/articles/CBMiekFVX3lxTFBKNmhCM2l2c0d3NXFGdjJQeTA1Ni1Vb1daRUxOdzFGakRjcEpEMGJvdUlzUmc2Y3llMnB2bFR3TS1LMU1oYnRrNXNGMXQtdkc1bWd1ZEpiMXRFYVV6cVNUUUpYTUxjYkMxbldZVWNpRVhpY0VhS0tEVXFR?oc=5	自然離世	-
-2026-11-12	【今日當年】江一帆車內昏迷離世 曾與夏萍訂婚一年後解除婚約	https://news.google.com/rss/articles/CBMisANBVV95cUxPWGNyZnFWWmJXSkhiYXhmZjhhUEFiVEFZcWJJcVZvM3lDNmxZVUpkemE1TkkyTFQ0RktUdi1CT0R1NHpEVGpDSU5fS3NEbU5lWGVqUnkzZ1Y3WDY1Q0htTXV2ZDNWdTNTYTU1ZnBkUWFEbFpoZkJCMWJiS01NRVpqUHNhNFl6US1vSXJ0NWE3c1JNTlF6X016eFpUbnhRZWVTZ1JVaU42QTV1YnR3d0NZeXZ0Z2V5MWNCNVR1Sk1LRmg1bnJWVTV1MUtBckd1S0dKQ2s5ZmhJdjRFNENsZ1FlZzFoNFlLZEZnVDZDSldvUkxBNnN4ekZrUnprYTg2WGc0MWg4ZmF3VlV1YW0wVXpTZEpaOGJrY3BsRXF1eTd4dldMUlY4R3h3V3pMbU9sb0VGS2ppOVBRakNZNU1CUE5WYkh5OTN2eFBQb3FSTEpvaXVBeVF1eFpoaHB6ZE1MUXJxZ2dzQ3c2SkxyUTg0TEh0WWw5bHdCaENYODRPVTFFOWg4OGw3UVBJMHBXTnNsdDB3aDlydEs5OXpoOGE3ZnQtenpWOFNIWGE4WFF4WE5sQ1c?oc=5	自然離世	-
 2026-11-12	85歲老翁辭世家境困頓 枋寮警募4.5萬助家屬度難關	https://www.ettoday.net/news/20261112/3270751.htm	自然離世	-
 2026-11-11	陳志新離世｜美荷樓活化推手 青年旅舍協會：無私奉獻受各界敬仰	https://news.google.com/rss/articles/CBMivgNBVV95cUxPNkhKbXU2UEcwdHVEWUxWajg4Um1wVDZpODkyT1ZnbHVyVmhJOC1rTFo5OFhfY2Y3eEI4VDNfWkF2OUpOVVNJYzFCYUcwRjRnQUJibTlSRnphaDgtMFVKUS1zQ25jQ1JEVXZNX0NqX05fM2tNYU91cWNmWkw0VllTQ2pzT0tOM2dCZE5Zenp6NkVBbDZNbFV5ZnRHejl0V0d4Vk1EN2xadHAwSkVhcDRiLXk2WE0xT1BlYXBtTUcxZE1ucFVwS2tyaGRVZWxMeXBFMG54MGJRYUFPY056VWl6clZyb1VmNzl3c3VYN3BiRXRURGk0aVJsSmNwbFQtcHJpU2lzTUd4YmlhQkM3NUUtRGd3clFhWWE5eWFWcUJTZ2hnTU5BS3NNTU9zZnBhUHozZG4yLUJhc3ZkRHhtMWlJTWZqbzhESFBRbDJObU5aTXZMTW9ZT1VuNnJEZmo2NURCZ19FbGJRR3Q0MjVoRXg1ZWxISWxBQ1d4eXlSUkZueG0tTnZjb2FVeUNFOFRGUXRidjVwRzVVdEN2NEt4Zm1kUXBGNWtnSzR3TkFOT0RsOXduRVdZOU84V1JEU29CZw?oc=5	自然離世	-
 2026-11-11	醫界再傳憾事！中山附醫心臟名醫莊維元離世 同事淚憶「藍白拖身影」	https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tVXY3U0xkdEE4QktLbUpiTmt0YXdIYkp3UmdHcnZYYXlFSDgxU1pqSXFFb1ZfZGUyWUdfYjJVU0hBaWhtcU9DcWQwTGJvS0ZxSFYzVWxtT2tnVXPSAWBBVV95cUxQUkpFaXprazlIRzVfTzV0M0swd2ptcHFWazB3T0RHLWlaaTdlQV9LNGF1c0FKeGYtdW1ZZmJLeW9JLVU2cEc3QnVFejBuQVZEX3RURnpfRG5La1pzcG5FR3I?oc=5	自然離世	-
@@ -164,7 +161,6 @@ var DATA_DEPARTURE = `
 2026-11-04	集體死亡！上萬屍體漂慈湖	https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnTURTaHNzRnhua1FUeU12dXFVa2NyY3kzQ0VJcWwyS0VSYkJwRlptWWxyRGljemJ2UkNxQ3NWQW9uMnh3WGJOaW5mVEUzODdEQm1kNg?oc=5	自然離世	-
 2026-11-04	陝西延安大學副教授白保國離世 網傳遺書指考核造假	https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVJad01qclJtd3VQUnRFVmMxSDd2cjE5SlhCMlpWekJMQ2ozMTlsV0N6Z2Rtc21ya1VXMGlyZHVhRi11M01vQU1fRDlpTlJsTkJjTjdxeTRCaHZBbktiYzFlNDdZc1drVjBSSUU1Y3Nsdlk0eXRvNkJjUnpVUy1ZWTBMeW1fenVSVF9CSk1acTVTdFU?oc=5	自然離世	-
 2026-11-04	長輩腰痠背痛別輕忽！骨髓瘤發生率20年來翻倍3成高齡病友「走不到第二線治療就離世」 | 黃天如 | 新聞	https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JSVR5WGx2ZjRZLU42TUpkUTNUNlduMTIxdk9tOEdOa2VtS0RxbFd1VkRFWXJmaExCeTdCU3Y3dFhfcjVId0k2OHRpX2RBQQ?oc=5	自然離世	-
-2026-11-04	足球賽場離奇憾事！西甲乙級前鋒遭撞昏迷 搶救一夜仍傷重離世 | TVBS	https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iNjlKTVB5SDdBVHNmVGZzb3dDVnNVMHQ5T2JEYWFaZjlQV0ZLYUI2RlZsQlRPU2tCaGZpUG1EUi1wTmUxNHNqV1lzQmdyMDk3N0hKRWxR?oc=5	自然離世	-
 2026-11-04	獨家》楊燕悲痛顧安生病逝！心疼胡錦喪夫過來人喊話：妳要勇敢面對- 綜合星聞	https://news.google.com/rss/articles/CBMibkFVX3lxTE1XdWlpZnQzbUxzd3A0Uy0xclNOYkRQR0NzY2JMQzhoR2ZYdEJzekJhTHQ0a1FRQnFEV3k5Y0gzc3d2bE9aSHdGRlJNODBMZnRwVzZnaHJ2amZtdUdKT1pXYmRLcDFRRHMyLWpPSXp3?oc=5	自然離世	-
 2026-11-04	快訊／捷運三鶯線工地命案！水塔內驚見腫脹男屍 ● 自殺防治專線：1925；生命線協談專線：1995	https://news.google.com/rss/articles/CBMigARBVV95cUxQYWFkakZMcElnMGpPdUxrZDRrUWdVYlZkbE00VXZfMHg1Q0lXX2stUWhIRVRpVHdxNGpvY3pSWE51dGl0U21XYS00Yl9QclBRVnZkT2tET3BsYVg5ald0N1lpblBOMW04d3pISDQzaUVGQ3QtN0pNRmdZZE5JZFZMV0ltV05ueVFWaVBDOFQybW9ocGw1YWhoLThHVUpGVWpMOTZpYThFZVRTY09PSWs3VGJlVTlSRUFjNHQxWnZmQjFVMUJQYXVXVms2YTNxa2JtYlE2X2NMV0Rxd1lOSkFRRFdETGk3bU8wNE5zaU9pYnlJQnNYdERja0xFcGwtZzlDSElmcTM2VlZxa1hNYjdfVmw1dUFxVnZZVXdieXdMQ2JMdWpsRFVmdVZERTlDdzhGYnVockt4U1ZOYkxpMVBxMkUxQ2RuZTZ5TzhZMHRGem5WQU54bXphWW9vV3Z6Y0p0VGE4TXNibXphc1FpWlRIV195aS1xVHgySGxKdHBoblVYNXFqX0hQRVQ3QWlqVV9sODdJc1BoZ0pSU21Ed0VBZHpiS2RaQU1SdzJ1M2lqRDBtb1Z4N1hET1lqYTI0NnNSTVpnSHY3UTBhTDJlM1BKU3A0ZHotNEI1Z0FyNHBiVW5UaXRTamxoSE1uc2tuaDlFaEFnUGZsWHJ3X3ZlOFItaw?oc=5	離世	-
 2026-11-04	墨西哥連環殺手獄中病逝坦承屠殺30婦女剝下受害者臉皮吞食- 國際	https://news.google.com/rss/articles/CBMiekFVX3lxTE9BVFJldkJkeEpRTXlMSXF4ZldsSE1BVG1yRDdWMnNvd1JPZG5Ubzk1MnVSSzBRWlZjV2JaQkpENFY1dWdyT3VEaDFldmpZeXYyOXBqTTZPM0tSRm5pdEJBZng5UEdXd19IWXpYVEFZZFFSbXR2aURWWWdR?oc=5	自然離世	-
@@ -183,14 +179,12 @@ var DATA_DEPARTURE = `
 2026-11-03	葛萊美提名男星驚傳離世！「信差合唱團」創始團員全落幕	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRQmZkOVgweHRfOEZzSTdyemU5SmNIcXFWU0pXYjVudDREcXdXMUI0cElNV3pDdGw0QU44U2JfOS1XdU53eXdDNnZQZlNEdkRodXllR2wyaTdDZ9IBX0FVX3lxTFBjNVZOZW9SU3g4VzZ4ZE8tUjVQLVVNekFHbkdpYjJHVk11Vmt3OHpGdmJPTzZrc0hqS1J3VDVhUTRza3R6d1o0TG55Y1dmVEUtY3VBdkZYUEdkdmxoelAw?oc=5	自然離世	-
 2026-11-03	爸爸病逝半年！「台劇女神」拍戲突泛淚：我好想找他 痛悔昔賭氣太多年 | 三立新聞網	https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xdjVUdzFDMUt6LWU4UFNTLWlTVHJDTDlHVzlZWFlCOHRpNlRKS0JSWUVyN3IwNnlfY2ZtVjg1RzhCcDYyalpNNTdTSXZIWDJCckpIbE53?oc=5	自然離世	-
 2026-11-03	無人機配AI科技出殯 故人乘仙鶴「真聲」告別	https://www.exmoo.com/article/267513.html	未分類	-
-2026-11-03	油麻地避風塘男子飄浮海面 救起後證實死亡	https://www.bastillepost.com/hongkong/article/17103676-%E6%B2%B9%E9%BA%BB%E5%9C%B0%E9%81%BF%E9%A2%A8%E5%A1%98%E7%94%B7%E5%AD%90%E9%A3%84%E6%B5%AE%E6%B5%B7%E9%9D%A2-%E6%95%91%E8%B5%B7%E5%BE%8C%E8%AD%89%E5%AF%A6%E6%AD%BB%E4%BA%A1	自然離世	-
 2026-11-03	汪道涵長子汪致遠逝世 享年85歲	https://money.udn.com/money/amp/story/5603/9854311	自然離世	-
 2026-11-03	歌手吾恩離世 與胃癌抗爭近七年	https://news.google.com/rss/articles/CBMigwFBVV95cUxPRjFDTGpEanB6TzRTUUt4bHhOcnYzUFR6Y08xQlVGWXUzb1dGTl9zZW1oODN0QkZsQy00aWJVQ1pDbUtSUFotdjBQS2Vrdk1PeGJKanBTa3VYeTFPMXNOR0tmdy01d3B3bmFMaUUtZjE0TTF6R3hGQVZONHNqZlFBU0dFUQ?oc=5	自然離世	-
 2026-11-03	接連發生3起官兵離世事件 陸軍：與家屬同感傷痛、與檢警釐清真相	https://www.setn.com/ampnews/1932706	自然離世	-
 2026-11-03	張雅琴震驚難過顧安生病逝！ 憶當年5千人搶2缺「他是考官」	https://star.ettoday.net/news/3265705	自然離世	-
 2026-11-03	張雅琴聞顧安生病逝震驚又難過 哀悼「永遠活在我們的記憶中」	https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGJKQkJaVk9IS0cwLW92UlpyQkZESkVuYWRjemhfbERXQWZIeDdEbzEwNV9SaTh0Q1BFSTA5TXdqcy05b0ZXS0k2S2dKTndEOXZ0T1d3aG9DbnNERUNDQXlraG5UTHRNT2NPQlI1X2pLejBCY0FmZXlBQ2lVMHFicVBsQThLNHcxZkE?oc=5	自然離世	-
 2026-11-03	張世華醫生離世丨仁醫張世華英年早逝一生熱愛母校可風中學捐獎學金助學生減輕負擔生前受訪影片曝光：珍惜當下	https://topick.hket.com/article/4218946/%E5%BC%B5%E4%B8%96%E8%8F%AF%E9%86%AB%E7%94%9F%E9%9B%A2%E4%B8%96%E4%B8%A8%E4%BB%81%E9%86%AB%E5%BC%B5%E4%B8%96%E8%8F%AF%E8%8B%B1%E5%B9%B4%E6%97%A9%E9%80%9D%E3%80%80%E4%B8%80%E7%94%9F%E7%86%B1%E6%84%9B%E6%AF%8D%E6%A0%A1%E5%8F%AF%E9%A2%A8%E4%B8%AD%E5%AD%B8%E6%8D%90%E7%8D%8E%E5%AD%B8%E9%87%91%E5%8A%A9%E5%AD%B8%E7%94%9F%E6%B8%9B%E8%BC%95%E8%B2%A0%E6%93%94%20%E3%80%80%E7%94%9F%E5%89%8D%E5%8F%97%E8%A8%AA%E5%BD%B1%E7%89%87%E6%9B%9D%E5%85%89%EF%BC%9A%E7%8F%8D%E6%83%9C%E7%95%B6%E4%B8%8B	自然離世	-
-2026-11-03	廣州8歲女童遭男同學衝撞倒地 頭骨碎裂腦死亡 父控校方延誤	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/60406460/%E5%BB%A3%E5%B7%9E8%E6%AD%B2%E5%A5%B3%E7%AB%A5%E9%81%AD%E7%94%B7%E5%90%8C%E5%AD%B8%E8%A1%9D%E6%92%9E%E5%80%92%E5%9C%B0-%E9%A0%AD%E9%AA%A8%E7%A2%8E%E8%A3%82%E8%85%A6%E6%AD%BB%E4%BA%A1-%E7%88%B6%E6%8E%A7%E6%A0%A1%E6%96%B9%E5%BB%B6%E8%AA%A4	離世	-
 2026-11-03	小S徐熙娣驚現旺角掃地攤貨與檔主講價 歷大S病逝後復出狀態大勇	https://news.google.com/rss/articles/CBMiygNBVV95cUxQR1hJd2lMSmpIa2FuU0VGSWRZcEpHVjFFcTlzeW9hR2pDSGpSQmdORS1JMGs2bUZkUy1qbVJ4UGMtY1VVQTk3VXhkb0hIS1VxVWp6R0FVZTUxckNoQ0tZczFEUU55SVhoc1dydUJsekE1THlqRktSVnJwR0MwRFNXeFpsa18wejFOVTdqX3VHWjVpOFdrZ1JybUlLZDNXY3BjbnJoS3Blb0ZabUtJWlFRc0NZVkNBeG9PSExZQ05IYnRDVkN2WkdNbVV1ckpVVzBXdXlEU0wza0w3VFVweFR5cTY3WVoyUDRDUFZvYmRYN1duWUZBUWtuMXJIWDViZkRNNURYblphU0ROa29ZR1YzNHBkTDIzU1c1N190OU1IS1lQOEJCdy1EZGE0SDZqV2ZDYmtiWGZmSW5HY1hCakRBeHpTcUc4amx3QjBPd216d0NNRlh4SnpNZWR0WUlsMFBlekpaeE1BRWs1aVFvNTFVTS1WRFR2Y2VqeFRiV1o5MVRTVzZWMWxWa1NJODJsRU1nT2F5VDNzcjJGek9JM2MxMmdrWjBuaDlXclJtZmdwLWNvUVZlaGM2b3otMllHNFhxNVlpbjVTVEFHZw?oc=5	自然離世	-
 2026-11-03	半月連3官兵離世 陸軍「同感傷痛」允諾：絕不隱瞞卸責	https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pb2lKLWN5NmFKYTZ1c29pZllUNjNfeE1TWjViV2tFRDV1QVk1WFdvMURhTUFVVmp5Qm9FaDdlZUduY1JEdU1taWlVeDhRM25zMjlN?oc=5	自然離世	-
 2026-11-03	半個月內3官兵離世...206旅失職幹部撤換 陸軍：絕不包庇卸責	https://news.ttv.com.tw/news/11511030001100W	自然離世	-
@@ -297,7 +291,6 @@ var DATA_DEPARTURE = `
 2026-10-16	類鼻疽︱深水埗七旬婦染疫離世 正調查死因 防護中心追查源頭	https://news.google.com/rss/articles/CBMikANBVV95cUxORW9VcXo3NURpM2wwOEI5RWhYbzZ5ZHdZdVdqVWJfWXpra05HR0phZmt5QndJcTMyS0Jxc2R1b3FmTm5faXA3cXBXbW93TGRMNjhnQXp4U0tNblJIQnM3SEVYUjVmLWpRU0doejVZVEMtSUxVNS1ualp2UWt5bWQ3Y3o2ZTRIbmxpSE1NdXBIMHZBRVp0cjEwRmkwUy1tQXNmTEN0OFpnZkxic20zRTgtRGdUcUd1RHRzdTFhalJlbzY3ZnJXOE1zdEs5a3V0TEJJR1diSllxVFVqNU9BbFp0bzB5Zk5hMjcwSVRwa3lMWDNvRjNFa0R4eTZqU3JzMkVMWnBrVElwUnpXTVR1ZkVCOTFqTVlUWmJodHVEZHlOdXhLMGo5ZmMxRHRuV3paV0VsZDJ2T2Z5RVJfaGlEQS1jcXJXSWhSM3hHUmpBQkpDVVhkVy1Nb3IwTWk2SWZjTnBWalg1RUtnekN4LXFGWGk2c2lYdUVydk85RU5hTTdVOVFnZGNIb213dElYVC1kYmd5?oc=5	離世	A
 2026-10-16	深水埗74歲女子感染類鼻疽後上周四離世	https://news.rthk.hk/rthk/ch/component/k2/1874222-20261016.htm	自然離世	B
 2026-10-16	新竹男大生失蹤2天…基隆潮境公園空拍機尋獲已死亡 家屬悲慟	https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5dmgwVFV5WjQxQ2dRRDRqMEdvdlB4bTFEOXlTN2FzUmNrN2tfaDl1eTk0cTN0ZnhnR1VBbnZLZXI1Nnc1QWhrYkNOajQ4TFp00gFWQVVfeXFMUE5JVlJxdUJGT2JUOTAxWGRBaWY4eEhHdjk2RUJWNnFaWjR2NzZDalBDVDlESHZPUERVTi1zYTZEUGtmMXJVRkNUX1VHX3dRX2ZsV2hjdWc?oc=5	自然離世	A
-2026-10-16	女子突發心跳驟停逝世 死前兩天曾胸悶	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTm8zSFY0Z0VmY3RoZGo3WlIzOGVvUG45ejBDNlVOUkRmMTdCMldxczF3ZXlKZkx6UzNnUWM2bzlJNmNOeVd1RVRvV25vLXh1alNfRm9xcjQ1YTIydE9IYkJZS1lIanBsUWJEOHJFNXhqN1NIelpmUFJCcDlJWjR1UW5jMk1WNHZoQkVZ?oc=5	自然離世	B
 2026-10-16	奧勒岡州一小學發生槍擊案，三名兒童和一名教師死亡	https://news.google.com/rss/articles/CBMiggFBVV95cUxOYXhqQ0I0WEFtd2dsMTExOGxWR2lrLUJfc2xQeEZKMEZwOTgzSkJZSW05MTFwZU95bXJyNUk3QVpYamZmbGhCc1d6S1N0Nk5zSllXZVFoRG5VM2pCN2dDX2lkVGUtYks0V3Zma3RuNU54OHpia1dOdEFuVllMTnIzSlZn?oc=5	自然離世	A
 2026-10-16	前苗栗消防局長石德忠病逝 11/8舉行告別式	https://news.ltn.com.tw/news/society/breakingnews/5608689	自然離世	A
 2026-10-16	俄勒岡小學爆槍擊案 4名師生死亡 槍手被擊斃	https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxYms5SkpwSl8xaEdvelV2LTJfd2stVnF3WHFMWTFuOWlneTJYYU54T3VPZnQ5QWoxdDRDeGEtQTI3SXhGMEszYW9yYmV0eUZaZ0NWSkM5eE83WldPWEU2Q9IBZkFVX3lxTE8tdDUyNnF4U1VhMDRqZ2s1eGR1Rl9ZOE5pTnJqSmpyUXlMVU9xMnhvN1dybDkyV0FUdlRRYmh3Z19iS2FEaXJRNk1HMUdQeU5qMXo4VWUwODhBOGQ3UHJYZUtrOUNadw?oc=5	自然離世	A
@@ -308,7 +301,7 @@ var DATA_DEPARTURE = `
 2026-10-15	何如芸悲慟母親病逝	https://news.google.com/rss/articles/CBMiiAFBVV95cUxQel9tQUYzNXFXbmFBR0ZrVVdKX1dZWW1IeDU3d1l6Z0xfSWg3Uzc2aHM0YTN0UlNEODlpN3FIejJSUnBDcU5IU190X0ZULUhJY3E2QmFSb3dlbWt1UjFZSUNWYmlfQzhUdGdoeHhfYWFMUTNYNGc4UlE3ZzBHVjNzOF85VFBzRVkt?oc=5	自然離世	B
 2026-10-15	中大深圳醫學院副院長開會時離世	https://news.google.com/rss/articles/CBMi1wJBVV95cUxPSDhEV3VFaG9HY1d6SHc2Z2o4aHhVS0hzSkRiR2lBdDBqTWg3ck5jVG1BbGY2bXdQbHRra3IzcUtPa1NYOTQyVlRfaUZ5bXc5dWtpVmM1cXR0cEIxVHRtb0d1Q1RuTkdVZDRJRUZjVzJiZ01zSUxXQll1aml3M0w3RjhjRG1KcVFma0Zxdzl1c0U0djQwaDVEb0MzWGlsRDVpMi1vZ2pEbzB4aUNUd2djNmxVV0hVeC1GN0oyRlMyNmM5d2p1NlM3cUZiN2IwV1dGWXJ1aWxZSEVNeUVoc0x0R3hYZFFmOHZYNEQyYjFZdGliWnE1SElGZkV3WTVKRFY5LVF0RXEtaHVkYzlTMWx3TjZwbUc2MzdRTGNjVUgwOUZFWjNUaW5ZeDBDb0JqbjhlUTRJUENjYzBQemJpbE9lcHNuVXBwUFNjLTN5SkU5YkxPUEVjeUhZ?oc=5	自然離世	B
 2026-10-14	變賣名畫被判囚3年 南博原院長徐湖平傳獄中病逝	https://news.google.com/rss/articles/CBMi2gJBVV95cUxQOXBRX2FrM1o4RVViWmdMeXFIVGh1djFKdzk1aHlOX3U4aFFuNjdJaVZYVUZYeGt2YmFmcW80eUR4RTBSODcxMG9aSm5MU3lqVDlWQlFzV1pUYkpkLW54cEZfTzhGbllOTmNCeFYzUlhySGRjREpCNFJTRXQ5aVNVczJFTFBDVmtMNGExYWdqVnZUaGVWaG1rS3VyWW9IVWw4eWZLQUIyZUxZQzNlUURHYWJ1MzJCeU9GRTlxU2hNQ1ljLWh1blRKMXlBWkZCNm5TWTJySXdsX01NbjY1bUFLRWZXQlZyM1dlMHQ2N2JJemdTaFBiSFRIUDdEczUwaHhCazBHVlFxMFFhR2tpU0RqcUd5Z1JZazNjS0ZvbWZNR1o2aUJXQzFreDlCYnpXYXFSOEVkOHhSQ2lCZWZpMVZVMEhQenVUNEhFbEQ3Slhpc1lLWm5Zcy1NMGN3?oc=5	自然離世	D
-2026-10-14	將軍澳女子天台墮下 當場不治	https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWhIMmdwekJvYUxBVjZEUlptaXg4di1KamhTeWtEQzVxN2k2bGFfdGhzbUFObDAwSmtyX3lDYjNLLU5ZVWt6UExuZ29lU2xCSXoxd242dVBuWHRQaHlocGZ1a25fNU9YZ3JRejRzLVFIcVdUSE1idmlhVlQzdDNIZl9DMVYyX051WGw4?oc=5	離世	-
+2026-10-14	淡水驚傳2人1狗3屍命案！女子冷凍櫃內結凍氣絕 男屋主與狗也死亡	https://news.google.com/rss/articles/CBMiUEFVX3lxTE55RGFJTjd1ak1FcHlSa0tGVVF5NzRJNTRva1Q1M2EzZGp2bHd3VkM5UGlWOEJWNU5JNjhQRmM3Z1hpVTB1Rmk0dWx3RXFpWUoz0gFWQVVfeXFMTWs4cGNzUE1MV0xjMU1jNUhjVzhhTjVYQmk3Zl9qa0FxZGEzYXpwMFlKSmpId1JIRzZ6SWIxMVFla0NtY0kzOVJZVHlZUkY0NWhrS1ZFREE?oc=5	離世	A
 2026-10-14	中秋凌晨下田幹活計劃當晚入城與子女過節6旬漢被誤當獵物槍擊死亡- 東張+	https://news.google.com/rss/articles/CBMilARBVV95cUxOYWlGYmM5ajQwNE1TUFZ5UVVFNXB5SEszMXlQS2hiWXlBd0JNWUxKQ3JpbjVRUWpYTE40OTdiVzhYMjRzSzNsc1ppemxMUGQyRUQxMnhqS1pEbkhhN2JNeDZNVHdnaXAwLWRITWVPTnh6X1hhSVFPUzRvcHJfbHlybEpVWTJBVDBxZXBQN2lsbzFoclhmS0dfdC1xRXE0Q1lsLVJ1SEJPOWViRkZxc01Na0JPc05NSE9td0FOWEo2N2pmQVdPTjVNZ1JDWmFIQzdTdUxJU0JfRFhxYTdDbEl6T242Q2Jac2p6UWFOd3BHdTd0Y1BQTmtpZnpZVDZ4V2otUUR3MGVsV2FkbHdUczFiZjBpeElxOFJMLXBWWnhDZmdad1dSOGhuYjRJMGlBR3hmVk1PUjRfX2JlQXh0R2hNWmZ5MG0tWW1wTGdFNmxZb2g2YzliVDVxYXJIVnRiZWU3WHlQd3RQSkFFNHNCVWhOZlBMenVMZGRnUUVBd0JVUVk3MTJuRzFYWnVhbFdBLWJqWU5wMlJYWHhwblhPMll0Y1RXcmJCNTlBektPeFlHU1BWemxYTWpRaUtVdTJiLUJQcVVvSHV6WEJtSFNmMUZxU0w0TkdIaFg2REl1WXlTdWxIeWZtUmJIdnVwM2dYSnB0MUZSSVZnSy1CZ1BuenNHWHNFY0hZLVdoN0FneDhKNnhnU1hz?oc=5	自然離世	B
 2026-10-14	24歲女吃播「幹飯瑩瑩」離世 生前曾長期催吐及體重過輕	https://news.google.com/rss/articles/CBMiiAFBVV95cUxOci1iUEQtM1pTWDJOSDVUaXMzT2FqcmtEaE9kY2NPV0JfUUtFOXE4UEdQWXhfOWMzeFl0X3MtbDdOUTJwTTVrMlhkV1Ztc0pqSllTYVE1cVI2V2dORjhkajIwa1daTGlBelFwS2JXa2ZrMjV3Z3dGVkRxd2JrWkI2dkxzSWczUDlR?oc=5	自然離世	B
 2026-10-13	韓版《Doctor X》演員金賢伊離世 年僅25歲 新劇哀悼死訊才傳開	https://news.google.com/rss/articles/CBMihANBVV95cUxOMkRGTU9ZVGVjMXA3SXhlQ3h4T3ZFVnpfSjUyRHhqU29NN0x1Z2s3Z1d5MkstOXl4bWFZWWliNjNuVVFScXUzOHJFTTJydDhtM01JZkM2ODZLZlpIMHFkVWxyX0poRVQxLTZrZWd0MmJZaDVfWlVxRmJEMEVHRWltcjNWZTZ1THVKU1dJeTZHeEsyUkhmU3lYSnhDRUx1REVuS0kzNS1FZkQyeUdPRjhVdFRwemJuMXJtZ0VMV3BCQjVnYUpCZkh5UEwzNEExdWhBLTl5WVdfajBjUW0yaFk1eEEzWWJHNV9OalJ5Q05sMHloaUFvRUJxMU1yX3d0dGMxSExSakZnQUx3RWFNTV8tZmw4Z2pObEtZdHlaX2ZGN3lQUy1TNmRtczFOOVVUaTZLTVBmd3c3NDRvSkduakp3dnFoaVFIS2JHcUxGZ3loVWVKeW5BcXNZZW8wUnU0RUtvSWFwNUZCVlZqemgxRFAteWhtWGplZTJFaWdPZElmc01FcGp1?oc=5	自然離世	B
@@ -318,7 +311,6 @@ var DATA_DEPARTURE = `
 2026-10-12	美國賓夕法尼亞州大規模槍擊案9死 死者包括2名兒童 疑兇已自盡	https://news.google.com/rss/articles/CBMivwNBVV95cUxQN0dHX2lUUnVCSkdCNFNoT2dHdXFYMWk0SFl1dU9iQ1JQTmkxdU1oWjRETWJsb0xHZktxQkprdjVEVXpUbFNYQXBhTXZTTllNYjhhOHUtRTBhOTd1TERuV0dZMWFTdFBzVHhOb1RkSEswZ3RsazVaTk1JSTdYV3E2X1BublVQQXJVanVyVldvTWQxeEwyT2lHR2p1Q2dnNVJ6SEZ2MV9BUDJ0dzRBODVoRVcxbUFMTGRLNFBvakRiQUxCNHNVNWNNY3NNMDdTV2dteGZBV1ppa25EMjFXZ25nSHBncGtLUWdwbHo5V29hbWJtYkNHM3djV0ttUTNJdmp1QktyVUN1VkZoMjgtcnBESmw4V1lZRWFvMzVFbkF6aDdOempON1JWNkJxYU9JRHpiY3ZXdmRVN1pZeUFKQ1ZxOTMzM0l1VTBoNXk0QXZZU3RqYTNkSzdZd0t5aHNhcG5EVFdoZ1ZoWmtVTWNTZmpNZXlFeEduNk80RWpBdWhiNHFFLUpLSHdHN0R1MFNJSHFDRFltSXp1d0FkbkFBck9CQUkwWnVOX0d4dXBzNllNRnphUWNlQW9BdEpPMzNoRGs?oc=5	離世	A
 2026-10-12	何如芸發文證實母親病逝！買好芋頭蛋糕卻來不及慶生	https://news.google.com/rss/articles/CBMi6AJBVV95cUxNcnljV1I1R1plaG5tbzlESGNtLTdra0tIdkhEeUt0YkJtdWdkLXQ5NHhmUmpyekFGRXdVY25Wb1V6MU9pWWkwSVdaajZ1VmdON21RRGZaWUc5OUNpZF9jZ0xadDNmREFhYTA1MVQ1R2F6c1BUeTV3ZWpzdGFfeGJaS3IzOVFYLWJQSlBuZlIxN01fQ2xfbDFoRDFETzRWR2cyQnpfT3loZGVURjEyeS1ZaHBLRXdvY3p3SUFyS2FzZ05BTGNsbkVZal9iS0FiOUZHeDNqZ3VSUHhEZ1Z0Q3NISldkdmJwSTFLaUlQWWx5emxTd1htRmFDOHZhcl96Y2RxdFM4enhVUERxX2hyalN5Mk9qZ2RVRE5Jc0FfdXcyR1doRnlFQUJpelF6M0prTmxkdGJSMU1xcEhYZjFtWG1DdF9JS3g0bldBRVotQW5oSXJhN1NheFZZVXVWU1Y4UDBOM0RLLXJkXzk?oc=5	自然離世	B
 2026-10-11	音樂人周國豐母親大蓮姐離世 發文悼念：請你再叫我一聲「細佬」	https://news.google.com/rss/articles/CBMisgNBVV95cUxPM0FtZjBIYTh1eGFLUmpRc2l3Y3QtYzN3eWdLTlNxTDRIQlpXUEpZYnUzVVBSX2hBRjNfMUNTajVmOTRPN09mMzRzSk41a3VBQUxQU2ExQjFTYXJ3VmZweEFnOXl0RzJsb0VyMGlLMVV3UWZxYmxFd2JXbWhheWFzOC1XZHBaWlljN0tsN1ZlOVNFZjBlSmdzZ1BRVEpKWGh1ei05VDRtbnJhQmk1SE1nS0Jxb3ZiamIyTHZJaWxteDFOQU45NFppRVZDM2RpLXVzOHluTk5zc0hHNDdoVmFDc0dlamdBQ0IyZjdGY3BGbUVMaWp6YnRuY1ZQNlNqaHNYOVBTM3dJMWp2QjFXSUxGTEw0UTFOUmVqekJpMV9SZnJjdVZQWVFOZThBWU5DbUJtWXAyU0pUby01R1U5bHVlcVFCdHQ2bzZkd0kxYzRuSWJ6amlxVzc4YVZJRlM0ZGd5eFpRS3ZVU1BWU0QySy02azE1Zy13a3JzX2d6eEg3R2JlTXpMTjVlUWZtSVpRRE9OLUN4VlZqSEVUU08wNUFvMTRGYzNobVZxYTRUODcxaDE5UQ?oc=5	自然離世	B
-2026-10-11	鄭州男子連續兩天一夜打機 心跳驟停離世	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWF6UGUzQ2o1WFBBcG95TWpiY2htVDFGaWVQMm5VaEFGMmQwRHJhVHpZcTJyS2tkbzlQd3RtSXFmOUNtVDFUWTNxM3V3VmtWMWNkcFh0RTJRRjdZaUVQM2d2aWx4MUNMbGdoWGxHWTJzMVMwTlVjV2I5T0VpMWtXQi00V0NoXzRUR1Zj?oc=5	自然離世	B
 2026-10-11	美國賓州爆8死滅門槍擊案！凶嫌飲彈自盡 孕婦、2童也受害| 國際焦點	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XQWlldWJWOWc2Sjg2TlRtZXktdmdIbWlFb3F1QmxLRG1LVlhJSl9Ca2dDUW1wU3R1Tk5FYTB0T1g5cGl1M2M3Wlh2eGJLb3g0QXp6WG5FbEk3aGJG?oc=5	離世	A
 2026-10-09	高雄2歲女童死亡身體有瘀青！ 父母否認虐待 指曾2度從樓梯跌落	https://news.ltn.com.tw/news/society/breakingnews/5601248	離世	A
 2026-10-09	西班牙87歲婦人遭驅逐後病逝 再度引爆全國怒火	https://ctinews.com/news/items/D0xdQQ12nY	自然離世	B
@@ -340,18 +332,16 @@ var DATA_DEPARTURE = `
 2026-09-30	姐姐離世當天仍出賽！泰國公主一句「我姊姊大概也是這麼想的」，首談一度崩潰的喪姊之痛	https://www.harpersbazaar.com/tw/celebrity/celebritynews/a73907398/princess-sirivannavari-thailand-sister-bajrakitiyabha-death-interview/	自然離世	B
 2026-09-30	【瓦努阿圖】資深傳媒人Stevenson Liu病逝 南太平洋新聞界同哀 - 20260930 - 國際	https://news.mingpao.com/pns/國際/article/20260930/s00014/1790699472274/【瓦努阿圖】資深傳媒人stevenson-liu病逝-南太平洋新聞界同哀	自然離世	B
 2026-09-29	藍思科技(06613)：獨立非執行董事謝志明逝世 作者 智通財經	https://hk.investing.com/news/stock-market-news/article-1213827	自然離世	B
-2026-09-29	荃灣恒麗園兩歲男童疑從高處墮下 家人自行送醫後不治	https://news.tvb.com/tc/local/69b6348ad45d9a49e83742a4/港澳-荃灣恒麗園兩歲男童疑從高處墮下家人自行送醫後不治	離世	-
 2026-09-29	美国知名UFO研究者当警察面自杀，去世前一天称“度过了艰难一周”。至少10名美国尖端领域研究者接连死亡、失踪，FBI介入调查	https://m.sohu.com/a/1014224668_120952561?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	自然離世	B
 2026-09-29	秀茂坪寶達邨有年長夫婦死亡 警列謀殺及自殺案處理	https://news.tvb.com/sc/local/69fc1c0456e3a93ac75db8a1/港澳-秀茂坪寶達邨有年長夫婦死亡-警列謀殺及自殺案處理	離世	A
 2026-09-29	男人每天上网查阅意外死亡的资料，竟是为了谋杀妻子	https://k.sina.com.cn/article_7879923747_m1d5ae182303301eb6o.html?cre=tianyi&mod=pcent&loc=8&r=0&rfunc=69&tj=cxvertical_pc_ent&tr=12&from=news	離世	B
 2026-09-29	潛教堂行竊不成…頭卡窗遭活活吊死!竊嫌「雙腳懸空」 呈詭異姿態離世	http://www.msn.com/zh-tw/news/world/潛教堂行竊不成-頭卡窗遭活活吊死-竊嫌-雙腳懸空-呈詭異姿態離世/ar-AA20FHJ2?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	自然離世	B
 2026-09-29	剩17kg！9歲女患「腦瘤」到離世僅8個月 媽崩潰：以後不過中秋	https://www.ettoday.net/news/20260929/3245700.htm	自然離世	B
+2026-09-29	分手次日男子自杀身亡，父母起诉女方索赔30万元被驳回，法院：男子结束生命令人惋惜，但死亡结果是其主观故意造成的	https://m.sohu.com/a/1012540557_120952561?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	離世	-
 2026-09-29	【安徽阜阳一服刑人员在监狱突然死亡】 狱警一审因虐待被监管人员罪获刑，检察院重新认定为“非正常死亡” #安徽dou知道	https://m.sohu.com/a/1011925549_121384220/?pvid=000115_3w_a&scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334&spm=smpc.channel_248.block3_308_NDdFbm_1_fd.5.1776657600010DA5oXoZ_324&_trans_=000019_hao123_pc	自然離世	A
 2026-09-29	“果链”巨头独董，53岁突然病逝	https://www.nfnews.com/content/46NdDVz8ym.html	自然離世	B
-2026-09-28	赤柱浪琴園一名男工維修升降機時墮電梯槽 救出後證實死亡	https://news.tvb.com/tc/local/69f857e556e3a93ac73e2f84/港澳-赤柱浪琴園一名男工維修升降機時墮電梯槽-救出後證實死亡	自然離世	A
 2026-09-28	現場滿滿遊客！知名樂園爆死亡意外	https://news.ebc.net.tw/news/society/573302	自然離世	A
 2026-09-28	檢察官病逝	https://www.knews.com.tw/search/檢察官病逝	自然離世	B
-2026-09-28	屯門男子被困渠務設施格柵 救起證實死亡	https://hk.on.cc/hk/bkn/cnt/news/20260928/bkn-20260928160132603-0928_00822_001.html	自然離世	A
 2026-09-28	一个自免新星的非意外“死亡”	https://mp.ofweek.com/biotech/a956714780677	自然離世	B
 2026-09-28	52歲緬甸籍男子到水樂園戲水 意外死亡	https://news.ltn.com.tw/news/Taichung/breakingnews/5588257	離世	A
 2026-09-28	39岁网红“王炸姐”直播时突然死亡，死亡经过曝出，惊醒所有人	https://m.sohu.com/a/995526699_581294?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	自然離世	B
@@ -363,7 +353,6 @@ var DATA_DEPARTURE = `
 2026-09-23	《魔獸世界》傳奇木雕阿北病逝 官方百日辦線上追思會 萬名玩家暴風城列隊送最後一程	https://unwire.hk/2026/09/23/wow-changbin-abei-tribute/game-channel/	自然離世	B
 2026-09-23	AV女優倉木華離世 台灣網站爆「跨海接客」詳列價碼及服務細節	https://www.hk01.com/即時娛樂/60392891/av女優倉木華離世-台灣網站爆-跨海接客-詳列價碼及服務細節	自然離世	B
 2026-09-22	連3天拖行暴打93歲嬤！幾天後離世 家屬怒控印尼籍看護脫不了關係	https://www.setn.com/news/1910978	自然離世	B
-2026-09-22	美國結他手演出時上半身失去知覺 抗病7個月後腦癌逝世	https://www.am730.com.hk/article/1054440	自然離世	B
 2026-09-22	吃播网红“干饭莹莹”逝世 父直播被逼问死因 当场崩溃下跪	https://www.chinapress.com.my/20260922/吃播网红干饭莹莹逝世-父直播被逼问死因-当场/	自然離世	B
 2026-09-21	超模仙蒂歌羅馥長子Presley Gerber 27歲離世 近年公開對抗毒癮與心理困擾	https://www.singtaousa.com/2026/09/21/entertainment/cindy-crawford-son-presley-gerber-passes-away/	自然離世	B
 2026-09-20	討論牆 | 97歲草間彌生病逝 幼年被強迫跟蹤外遇父 用迷幻圓點療癒童年創傷	https://today.line.me/tw/v3/posts/list/article/ML7j7qQ	自然離世	B
@@ -380,6 +369,7 @@ var DATA_DEPARTURE = `
 2026-09-15	夏韶聲暫無意開騷 對雷宇揚病逝感可惜	https://www.singtaousa.com/2026/09/15/entertainment/hsia-shao-sheng-lei-yu-yang/	自然離世	B
 2026-09-15	卡拉OK縱火致5死8傷 台死囚關22年未槍決病逝 曾喊我有病我最大	https://www.hk01.com/台灣新聞/60390130/卡拉ok縱火致5死8傷-台死囚關22年未槍決病逝-曾喊我有病我最大	自然離世	B
 2026-09-14	澳洲一家三口陳屍巴厘島 警方疑父親殺子後自殺	https://www.epochtimes.com/b5/26/9/14/n14849165.htm	離世	A
+2026-09-14	投資失利300萬壓垮31歲偵查佐 三重警分局內自戕身亡	https://news.ltn.com.tw/news/society/breakingnews/5573032	離世	-
 2026-09-14	印度乞討婦病逝 家中挖出30多袋紙鈔、硬幣 估計3萬現金	https://www.worldjournal.com/wj/story/121261/9746291	自然離世	B
 2026-09-14	64歲低收男病逝無錢辦後事 枋寮警募8萬助家屬度難關	https://www.ettoday.net/news/20260914/3237177.htm	自然離世	A
 2026-09-13	董建華離世｜譚耀宗及梁愛詩讚揚有遠見、為人無私	https://news.tvb.com/tc/1194931-%E8%91%A3%E5%BB%BA%E8%8F%AF%E9%9B%A2%E4%B8%96%E8%AD%9A%E8%80%80%E5%AE%97%E5%8F%8A%E6%A2%81%E6%84%9B%E8%A9%A9%E8%AE%9A%E6%8F%9A%E6%9C%89%E9%81%A0%E8%A6%8B%E7%82%BA%E4%BA%BA%E7%84%A1%E7%A7%81	自然離世	A
@@ -415,9 +405,7 @@ var DATA_DEPARTURE = `
 2026-09-02	日本「首位太空人」秋山豐寬病逝 宇宙連線「脫口而出」成經典	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60386106/%E6%97%A5%E6%9C%AC-%E9%A6%96%E4%BD%8D%E5%A4%AA%E7%A9%BA%E4%BA%BA-%E7%A7%8B%E5%B1%B1%E8%B1%90%E5%AF%AC%E7%97%85%E9%80%9D-%E5%AE%87%E5%AE%99%E9%80%A3%E7%B7%9A-%E8%84%AB%E5%8F%A3%E8%80%8C%E5%87%BA-%E6%88%90%E7%B6%93%E5%85%B8	自然離世	B
 2026-09-01	金馬影帝陳松勇病逝5年 贈印尼看護近百萬遺產 傳1年花光再打工	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60385618/%E9%87%91%E9%A6%AC%E5%BD%B1%E5%B8%9D%E9%99%B3%E6%9D%BE%E5%8B%87%E7%97%85%E9%80%9D5%E5%B9%B4-%E8%B4%88%E5%8D%B0%E5%B0%BC%E7%9C%8B%E8%AD%B7%E8%BF%91%E7%99%BE%E8%90%AC%E9%81%BA%E7%94%A2-%E5%82%B31%E5%B9%B4%E8%8A%B1%E5%85%89%E5%86%8D%E6%89%93%E5%B7%A5	自然離世	B
 2026-08-31	（有片）梅媽離世｜梅啟明：打算將母親與阿梅一同安葬- 港聞	https://www.dotdotnews.com/a/202608/31/AP6a950f5ae4b04b6c5d38656c.html	自然離世	B
-2026-08-31	梅艷芳母親離世｜梅啟明駁斥孫仔搞梅媽身後事 或申禁制令爭遺產 質疑亡母非死於自然	https://www.stheadline.com/film-drama/3609967/梅艷芳母親離世梅啟明駁斥孫仔搞梅媽身後事-或申禁制令爭遺產-質疑亡母非死於自然	自然離世	B
 2026-08-31	梅媽離世︱梅艷芳信託基金母親去世後全數捐出梅啟明冇錢分欲動用基金：我係唯一一個仔	https://topick.hket.com/article/4185749/%E6%A2%85%E5%AA%BD%E9%9B%A2%E4%B8%96%EF%B8%B1%E6%A2%85%E8%89%B7%E8%8A%B3%E4%BF%A1%E8%A8%97%E5%9F%BA%E9%87%91%E6%AF%8D%E8%A6%AA%E5%8E%BB%E4%B8%96%E5%BE%8C%E5%85%A8%E6%95%B8%E6%8D%90%E5%87%BA%E3%80%80%E6%A2%85%E5%95%9F%E6%98%8E%E5%86%87%E9%8C%A2%E5%88%86%E6%AC%B2%E5%8B%95%E7%94%A8%E5%9F%BA%E9%87%91%EF%BC%9A%E6%88%91%E4%BF%82%E5%94%AF%E4%B8%80%E4%B8%80%E5%80%8B%E4%BB%94	自然離世	B
-2026-08-30	梅媽覃美金離世｜梅媽疑食流質麥皮時暈倒 梅啟明趕到醫院見最後一面	https://www.singtao.ca/7612917/2026-08-30/news-梅媽覃美金離世｜梅媽疑食流質麥皮時暈倒+梅啟明趕到醫院見最後一面/	自然離世	B
 2026-08-29	網傳肝病返台治療離世？《超偶》徐杰戰友藍德發聲澄清真正死因	https://stars.udn.com/star/amp/story/10088/9721378	自然離世	B
 2026-08-29	珍惜生命｜天水圍婦人危坐外牆5小時游說無果終墮樓不治- 港聞	https://news.google.com/rss/articles/CBMiekFVX3lxTFA2VDNOOERxQVhwRV9nclNzWDJva2ZxMk1Bd0FpNHBwTzdEWmVFUGdHQWV3WmdURllHcHZwdEJlbHB0aFVnajhPMHBrN1pBWFVJS3gxREpqQVo5QmxpelNqekhReUZxQmlSSVZWOFAwNkV6R0g2TFptNk9n?oc=5	離世	-
 2026-08-29	桃莉芭頓離世 歌曲播放量一路暴增 創全球單日新紀錄	https://www.worldjournal.com/wj/amp/story/121232/9721587	自然離世	B
@@ -435,7 +423,6 @@ var DATA_DEPARTURE = `
 2026-08-26	陳盈潔病逝...許常德曝「債主訊息」 一句話引鼻酸：如誓言動人	https://star.setn.com/news/1895709	自然離世	B
 2026-08-26	蒙大拿州滅門慘劇 男子槍殺8人後自盡身亡	https://hk.on.cc/hk/bkn/cnt/intnews/20260826/bkn-20260826170240760-0826_00992_001.html	離世	A
 2026-08-26	東張西望｜網傳何伯8.26出殯爆羅生門 傳子女未領死亡證 何煊家屬揭真相惹關注 何伯身後事何伯喪禮｜79歲何煊（何伯）於7月27日因肝癌離世，網上其後流傳他將於8月26日在世界殯儀館出殯，不過其死亡證及儀式安排均出現矛盾，何伯的後事迅速掀起熱...	https://www.sundaykiss.com/%E7%86%B1%E8%A9%B1/%E4%BD%95%E4%BC%AF-%E4%BD%95%E7%85%8A-%E8%82%9D%E7%99%8C%E9%9B%A2%E4%B8%96-%E5%BE%8C%E4%BA%8B-%E6%AD%BB%E4%BA%A1%E8%AD%89-3000-%E5%96%AA%E7%A6%AE-%E5%87%BA%E6%AE%AF-%E4%BD%95%E5%A4%AA-2427300/	自然離世	B
-2026-08-26	昏迷10年醒來「雙胞胎弟已離世」 千萬暢銷作家張嘉佳新作登台	https://www.ettoday.net/news/20260826/3226216.htm	自然離世	B
 2026-08-25	離家5分鐘找了3個月！張美蘭離奇失蹤離世 監視器遭刪除	https://tw.news.yahoo.com/離家5分鐘找了3個月-張美蘭離奇失蹤離世-監視器遭刪除-062800912.html	自然離世	B
 2026-08-25	醫療事故︱肝癌被誤當胸背痛患者終病逝 東區醫院前醫生涉斷錯症被判除牌1個月緩刑半年	https://topick.hket.com/article/4182068/醫療事故︱肝癌被誤當胸背痛患者終病逝 東區醫院前醫生涉斷錯症被判除牌1個月緩刑半年	自然離世	A
 2026-08-25	老人在棋牌室發病離世 店主好心幫扶反遭勒索（視頻）	https://www.ntdtv.com/b5/2026/08/25/a104127012.html	自然離世	B
@@ -497,7 +484,6 @@ var DATA_DEPARTURE = `
 2026-08-06	黎彼得病逝︱黎彼得「最後身影」明顯消瘦 近年身體欠佳曾透露肺腎功能出問題	https://topick.hket.com/article/4172048/黎彼得病逝︱黎彼得「最後身影」明顯消瘦 近年身體欠佳曾透露肺腎功能出問題	自然離世	B
 2026-08-06	香港5歲男童長期受母親虐待 死亡時僅9.7公斤	https://www.epochtimes.com/b5/26/8/6/n14824466.htm	自然離世	A
 2026-08-06	《唐伯虎》華府老師黎彼得76歲病逝！ 3月中風臥床惡化「5月已無法說話」	https://star.ettoday.net/news/3214430	自然離世	B
-2026-08-06	AI華仔 觀塘那些事幫你全追蹤！觀塘翠屏北邨39歲女子倒閉房間證實死亡	https://www.kinliu.hk/news/AI華仔-觀塘那些事幫你全追蹤-觀塘翠屏北邨39歲女子倒閉房間證實死亡/210037.html	自然離世	A
 2026-08-05	NBA/金恩死因不是家中跌跤？ 公牛傳奇「心血管疾病」離世	https://tw.sports.yahoo.com/news/nba-金恩死因不是家中跌跤-公牛傳奇-心血管疾病-離世-023814035.html	自然離世	B
 2026-08-05	39歲安全經理視察前富豪東方酒店地盤由棚架墮下死亡 家屬到殮房認屍	https://news.tvb.com/tc/1187197-39%E6%AD%B2%E5%AE%89%E5%85%A8%E7%B6%93%E7%90%86%E8%A6%96%E5%AF%9F%E5%89%8D%E5%AF%8C%E8%B1%AA%E6%9D%B1%E6%96%B9%E9%85%92%E5%BA%97%E5%9C%B0%E7%9B%A4%E7%94%B1%E6%A3%9A%E6%9E%B6%E5%A2%AE%E4%B8%8B%E6%AD%BB%E4%BA%A1%E5%AE%B6%E5%B1%AC%E5%88%B0%E6%AE%AE%E6%88%BF%E8%AA%8D%E5%B1%8D	離世	B
 2026-08-04	關於快樂的死亡2｜視后唐詩詠自責為拼事業疏忽家人 爆喊憶母親突嘔血離世留遺憾	https://topick.hket.com/article/4170859/關於快樂的死亡2｜視后唐詩詠自責為拼事業疏忽家人 爆喊憶母親突嘔血離世留遺憾?mtc=10012	自然離世	B
@@ -563,6 +549,7 @@ var DATA_DEPARTURE = `
 2026-07-14	世界盃2026｜荷蘭38歲球證離世 曾因涉性侵案遭FIFA除名	https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60369707/%E4%B8%96%E7%95%8C%E7%9B%832026-%E8%8D%B7%E8%98%AD38%E6%AD%B2%E7%90%83%E8%AD%89%E9%9B%A2%E4%B8%96-%E6%9B%BE%E5%9B%A0%E6%B6%89%E6%80%A7%E4%BE%B5%E6%A1%88%E9%81%ADfifa%E9%99%A4%E5%90%8D	自然離世	B
 2026-07-13	美參議員格雷厄姆訪基輔後離世 美媒：烏克蘭失可直通特朗普盟友	https://www.hk01.com/即時國際/60369399/美參議員格雷厄姆訪基輔後離世-美媒-烏克蘭失可直通特朗普盟友	自然離世	B
 2026-07-13	快訊/巴威颱風首例死亡？新竹剛剛驚傳噩耗	https://ctinews.com/news/items/rbW4gq9jnL	自然離世	B
+2026-07-11	男子聯合國總部外自焚身亡 據傳身帶西藏旗幟	http://www.msn.com/zh-tw/news/world/男子聯合國總部外自焚身亡-據傳身帶西藏旗幟/ar-AA276cT3	離世	-
 2026-07-11	廣西2歲女走失35 年父抱憾離世尋親始知家人住對街	https://www.bastillepost.com/hongkong/article/16337640-廣西2歲女走失35年父抱憾離世-尋親始知家人住對街	自然離世	B
 2026-07-11	【突發】多倫多聖克萊莎莎舞節爆槍擊 兩人當場死亡3人受傷	https://www.singtao.ca/7563167/2026-07-11/news-%E3%80%90%E7%AA%81%E7%99%BC%E3%80%91%E5%A4%9A%E5%80%AB%E5%A4%9A%E8%81%96%E5%85%8B%E8%90%8A%E8%8E%8E%E8%8E%8E%E8%88%9E%E7%AF%80%E7%88%86%E6%A7%8D%E6%93%8A++++%E5%85%A9%E4%BA%BA%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A13%E4%BA%BA%E5%8F%97%E5%82%B7/	自然離世	B
 2026-07-10	西班牙山火死亡人数升至12人 桑切斯：深感悲痛	https://www.chinanews.com.cn/gj/2026/07-10/10656520.shtml	自然離世	A
@@ -595,11 +582,9 @@ var DATA_DEPARTURE = `
 2026-06-29	歐洲熱浪｜法國死亡病例同期增加近1000人巴黎兩殯儀館爆滿- 國際	https://www.dotdotnews.com/a/202606/29/AP6a41f71de4b04b6c5d31ce1c.html	自然離世	A
 2026-06-29	捱過父母離世打擊 絕殺南非助加拿大晉級 異鄉人尤斯達基奧寫下不朽傳奇	https://www.wenweipo.com/epaper/view/newsDetail/2071649648338145280.html	自然離世	B
 2026-06-29	世界盃｜2年內雙親相繼離世！歐斯塔基奧踢進神絕殺 歷史一球獻給天上的父母	https://www.knews.com.tw/news/9DD75992ACCBA746DEFC77C18F8675AF	自然離世	B
-2026-06-29	【倫常慘案】渥太華2男童死亡 其父疑車內自焚身亡 警方列兇殺後自殺案調查	https://www.singtao.ca/7550727/2026-06-29/news-【倫常慘案】渥太華2男童死亡+其父疑車內自焚身亡 警方列兇殺後自殺案調查/	離世	A
 2026-06-29	47人案．獲釋｜胡志偉回家「多謝大家！」 被囚五年父母離世6.12 防暴警前高呼：我要見指揮官！	https://thecollectivehk.com/47人案．獲釋｜胡志偉刑滿 被囚五年父母離世 6-12/	自然離世	B
 2026-06-29	39歲患腦腫瘤男子 入院後染退伍軍人病離世	https://news.tvb.com/tc/1179762-39歲患腦腫瘤男子入院後染退伍軍人病離世	自然離世	B
 2026-06-27	遲來的公道人已走！顏慧欣遭霸凌病逝 蔡詩萍曝這煎熬	https://ctinews.com/news/items/D0xdjzVRWY	自然離世	B
-2026-06-27	大窩口邨老翁高處墮下當場不治- 港聞	https://www.dotdotnews.com/a/202606/27/AP6a3f528de4b04b6c5d319f48.html	離世	-
 2026-06-26	苗金鳳離世｜潘志文難忘對方為自己出山 揭美人面有疤痕	https://hk.on.cc/hk/bkn/cnt/entertainment/20260626/bkn-20260626083026472-0626_00862_001.html	自然離世	B
 2026-06-26	苗金鳳離世 | 關寶慧憶《緣來沒法擋》合作︰永遠懷念 (13:51) - 20260626	https://ol.mingpao.com/ldy/showbiz/latest/20260626/1782452964834/苗金鳳離世-關寶慧憶《緣來沒法擋》合作-永遠懷念	自然離世	B
 2026-06-25	民歌天王離世海葬...「紙船載他航行」 遺孀悲慟：他離開了只剩孤零零的我	https://www.ftnn.com.tw/news/556018	自然離世	B
@@ -613,10 +598,9 @@ var DATA_DEPARTURE = `
 2026-06-23	【長者照護爭議】演算法評為低優先級 九旬老翁離世後才獲批資助	https://www.sbs.com.au/language/chinese/zh-hant/article/aged-care-predictive-tool-under-pressure-government/h7d69mdw1	自然離世	A
 2026-06-22	广州一小区电梯更新发生意外，吴某石（女，38岁）当场死亡，调查报告公布	https://m.sohu.com/a/1039572562_161795?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334	自然離世	A
 2026-06-21	美版「貞子」Daveigh Chase貧民窟病逝 名下百萬存款卻分文未動	https://www.hk01.com/即時娛樂/60362325/美版-貞子-daveigh-chase貧民窟病逝-名下百萬存款卻分文未動	自然離世	B
-2026-06-21	男子疑騎乘電動可移動工具時失控墮下平台不治	https://news.rthk.hk/rthk/ch/component/k2/1859351-20260621.htm	離世	-
 2026-06-21	何寶榮逝世｜家人陪伴下離世 王家衛以其名作《春光乍洩》角色名	https://www.hk01.com/電影/60362474/何寶榮逝世-家人陪伴下離世-王家衛以其名作-春光乍洩-角色名	自然離世	B
 2026-06-20	神曲〈Kiss Me〉樂團貝斯手 Justin Cary 病逝！主唱曬珍貴舊照悲悼好友	https://stars.udn.com/star/story/10092/9577600	自然離世	B
-2026-06-19	多倫多西區男子倒斃後巷 警方列可疑死亡案調查	https://www.singtao.ca/7540838/2026-06-19/news-多倫多西區男子倒斃後巷 警方列可疑死亡案調查/	離世	A
+2026-06-19	多倫多西區男子倒斃後巷 警方列可疑死亡案調查	https://www.singtao.ca/7540838/2026-06-19/news-多倫多西區男子倒斃後巷 警方列可疑死亡案調查/	自然離世	A
 2026-06-19	一名加拿大公民在南非意外中槍死亡	https://am1320.com/%E7%84%A6%E9%BB%9E%E6%96%B0%E8%81%9E/%E4%B8%80%E5%90%8D%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%85%AC%E6%B0%91%E5%9C%A8%E5%8D%97%E9%9D%9E%E6%84%8F%E5%A4%96%E4%B8%AD%E6%A7%8D%E6%AD%BB%E4%BA%A1/	自然離世	B
 2026-06-18	台語歌后張秀卿媽小感冒竟病逝！醫：咳超過「這天數」恐內臟在求救	https://health.tvbs.com.tw/medical/363865	自然離世	B
 2026-06-18	又一巨星殞落！金馬得主驚傳離世 媒體人悲痛證實了	https://www.teepr.com/1901174/karinalu/白鷹/	自然離世	D
@@ -624,6 +608,7 @@ var DATA_DEPARTURE = `
 2026-06-17	母親感冒住院竟病逝！張秀卿頭七撞見粉紅壁虎 喊1句話「照指令轉圈」她當場跪地痛哭	https://www.mirrormedia.mg/external/mirrordaily_67516	自然離世	B
 2026-06-17	憶母親因小感冒離世 頭七張秀卿驚見粉紅壁虎	https://www.epochtimes.com/b5/26/6/17/n14790779.htm/amp	自然離世	B
 2026-06-17	影／製油廠死亡意外！印度55歲女工清油渣衣服被捲入 「連人帶衣」捲進機台慘死	https://sunmedia.tw/news/collaborative/2acUgQRl2gSuldPntgr9btUK4mmfKahkpZSFUMtNIIUC4U3WdIUjKIoe8AxhAA8S3hpviakL	離世	B
+2026-06-17	屯門男工人遭機器壓腹 送院後情況惡化不治	https://hk.on.cc/hk/bkn/cnt/news/20260617/bkn-20260617194722956-0617_00822_001.html	離世	-
 2026-06-16	黃大煒夏威夷離世	https://www.singtaousa.com/2026/06/16/entertainment/huang-da-wei-passes-away-hawaii/	自然離世	B
 2026-06-16	陳敏兒離世｜無綫悼念80年代當家花旦 明晚起重播經典劇《獵鷹》	https://www.am730.com.hk/娛樂/1036412/陳敏兒離世-無綫悼念80年代當家花旦-明晚起重播經典劇-獵鷹-	自然離世	B
 2026-06-16	陳敏兒離世｜TVB明晚重播《獵鷹》悼念 跟劉德華44年摯友緣 最後合照互望極感人	https://www.stheadline.com/film-drama/3583722/陳敏兒離世TVB明晚重播獵鷹悼念-跟劉德華44年摯友緣-最後合照互望極感人	自然離世	B
@@ -633,7 +618,6 @@ var DATA_DEPARTURE = `
 2026-06-15	日本市長上任不久 深夜失蹤排水溝尋獲證實死亡	https://www.am730.com.hk/article/1036331	自然離世	A
 2026-06-13	離家20年「被判死亡」通緝婦走進派出所自首 警一查嚇傻	https://enn.tw/741127/	自然離世	B
 2026-06-13	陳敏兒離世｜李泳豪貼兒時合作舊照發文悼念 原想給驚喜可惜錯過	https://www.hk01.com/即時娛樂/60359902/陳敏兒離世-李泳豪貼兒時合作舊照發文悼念-原想給驚喜可惜錯過	自然離世	B
-2026-06-13	陳敏兒離世｜半個月前陷昏迷 黃日華對廖啟智夫婦先後離開感唏噓	https://www.am730.com.hk/娛樂/1035903/陳敏兒離世-半個月前陷昏迷-黃日華對廖啟智夫婦先後離開感唏噓	自然離世	B
 2026-06-13	陳敏兒離世｜二仔文信感謝大家關心：大家唔使擔心	https://www.am730.com.hk/娛樂/1035960/陳敏兒離世-二仔文信感謝大家關心-大家唔使擔心	自然離世	B
 2026-06-13	陳敏兒離世丨李泳豪發黑白照悲痛悼念 錯過探班成永訣 陳敏兒生前讚豪仔：好戲到不得了	https://www.stheadline.com/film-drama/3582744/陳敏兒離世丨李泳豪發黑白照悲痛悼念-錯過探班成永訣-陳敏兒生前讚豪仔好戲到不得了	自然離世	B
 2026-06-13	貴州一大學生腹瀉入院 6小時後突然死亡	https://www.epochtimes.com/b5/26/6/13/n14787840.htm/amp	自然離世	B
@@ -641,6 +625,7 @@ var DATA_DEPARTURE = `
 2026-06-12	華人家庭2人中槍亡 疑殺人後自殺 網傳死者為知名奶茶店老闆	https://www.worldjournal.com/wj/amp/story/122693/9561972	離世	D
 2026-06-12	曾被看好接班！泰国长公主昏迷3年病逝 王位继承再添变数	https://www.aboluowang.com/amp/2026/0612/2395096.html	自然離世	B
 2026-06-12	加拿大母赴美控告OpenAI 稱ChatGPT誘導女兒輕生| 國際	https://www.cna.com.tw/news/aopl/202606120253.aspx	離世	A
+2026-06-11	疑遭校園霸凌 內蒙13歲腦癱女孩跳樓身亡	https://www.ntdtv.com/b5/2026/06/10/a104104744.html/amp	離世	-
 2026-06-11	吳文忻離世｜同屆港姐向海嵐早有不祥預感 痛悔留1大遺憾：眼淚一直流	https://www.sundaykiss.com/熱話/吳文忻-向海嵐-98年港姐-因愛重生-推薦序-乳癌復發-2397507/	自然離世	B
 2026-06-11	吳文忻病逝｜ 鄭秀文發長文悼念公開最後對話淚憶與文忻奇妙相識緣份「津津」梁珮盈痛別：甘苦與共	https://topick.hket.com/article/4144876/吳文忻病逝｜ 鄭秀文發長文悼念公開最後對話 淚憶與文忻奇妙相識緣份 「津津」梁珮盈痛別：甘苦與共	自然離世	B
 2026-06-10	鄭秀文悼念吳文忻離世 憶最後訊息感觸良多 (13:20) - 20260610	https://ol.mingpao.com/ldy/showbiz/latest/20260610/1781068673801/鄭秀文悼念吳文忻離世-憶最後訊息感觸良多	自然離世	B
@@ -669,6 +654,7 @@ var DATA_DEPARTURE = `
 2026-06-02	空軍T-34墜機「高雄2中校殉職」 陳其邁沉痛發聲：逝者安息	https://news.tvbs.com.tw/local/3219447	未分類	A
 2026-06-02	愛荷華州家庭糾紛釀血案！男槍殺6家人飲彈自盡 2童遇害	https://www.ftnn.com.tw/news/550453	離世	A
 2026-06-02	NBA/曾領姚明豪奪22連勝 千勝名教頭阿德爾曼離世	https://tw.sports.yahoo.com/news/nba-曾領姚明豪奪22連勝-千勝名教頭阿德爾曼離世-015825054.html	自然離世	B
+2026-06-02	Azusa警車內身亡男子被定為意外中暑死亡- 南加社區- 新聞	https://www.chinesedaily.com/article/detail-691529.html	離世	-
 2026-06-01	首通過「鏡子測驗」捲人權爭議 傳奇智慧象Happy高齡55歲離世	https://pets.ettoday.net/news/3175566	自然離世	B
 2026-06-01	飛機空氣動力學家顧誦芬院士逝世 曾主持研製殲-8戰機	https://www.orangenews.hk/china/VLHOkJy/飛機空氣動力學家顧誦芬院士逝世-曾主持研製殲-8戰機.shtml	自然離世	B
 2026-06-01	等不到畢業典禮 吳中純病逝後獲授學位 梅聖旻一句話逼哭眾人	https://ent.ltn.com.tw/amp/news/breakingnews/5456936	自然離世	B
@@ -925,7 +911,6 @@ var DATA_DEPARTURE = `
 2026-03-19	養父母皆離世…她盼「回本家」 親手足反對仍難阻法院判准	https://www.chinatimes.com/realtimenews/20260319001032-260402	自然離世	A
 2026-03-19	葵涌公屋地盤天秤倒塌 男操作員墮地死亡	https://www.hkcd.com.hk/hkcdweb/content/2026/03/19/content_8745732.html	離世	A
 2026-03-19	瑞士中部滑雪場恐怖意外 纜車脫索墜落翻滾 61歲女乘客死亡	https://www.stheadline.com/realtime-world/3554266/瑞士中部滑雪場恐怖意外-纜車脫索墜落翻滾-61歲女乘客死亡	離世	A
-2026-03-19	清遠馬拉松跑手賽中倒地送醫 官方證實離世	https://www.hk01.com/大國小事/60332061/清遠馬拉松跑手賽中倒地送醫-官方證實離世	自然離世	A
 2026-03-19	吳中純離世6天「女兒鬆口心中擔憂」外婆安慰： 醫生沒有惡意	https://www.msn.com/zh-tw/entertainment/news/吳中純離世6天-女兒鬆口心中擔憂-外婆安慰-醫生沒有惡意/ar-AA1XoIto	自然離世	B
 2026-03-19	台灣浴室雙屍命案 疑情侶一方行兇後自殺	https://hk.on.cc/hk/bkn/cnt/news/20260319/bkn-20260319110620029-0319_00822_001.html	離世	A
 2026-03-17	手術引發併發症 「回到未來」資深男星離世	https://www.worldjournal.com/wj/story/121232/9386751	自然離世	B
@@ -954,7 +939,6 @@ var DATA_DEPARTURE = `
 2026-03-10	曾演《捉鬼敢死隊》 Jennifer Runyon病逝	https://www.singtaousa.com/2026/03/10/entertainment/jennifer-runyon-ghostbusters-actress-dies/	自然離世	B
 2026-03-10	日本裸祭爆意外！萬人推擠爭寶木 1男死亡	https://tw.news.yahoo.com/日本裸祭爆意外-萬人推擠爭寶木-1男死亡-094541902.html	自然離世	A
 2026-03-09	丈夫離世2個月！寡婦服藥昏睡遭老爺猥褻 被告狡辯︰是新抱主動	https://www.hk01.com/article/60328195	自然離世	A
-2026-03-09	Google Gemini 遭控誘導使用者輕生，死者父親提告首宗 Gemini 致死案	https://technews.tw/2026/03/09/lawsuit-says-googles-gemini-ai-chatbot-drove-man-to-suicide/	離世	A
 2026-03-09	1800億芯片商「大功臣」離世，瀾起科技直面減值壓力	https://news.futunn.com/hk/post/69767719	自然離世	B
 2026-03-08	植物人哥病逝！妹苦撐多年墊545萬 獨子一席話讓法官也怒了	https://www.chinatimes.com/realtimenews/20260308000796-260402	自然離世	A
 2026-03-07	35歲獨子因腫瘤離世 吉林63 歲高齡產婦為重拾生活希望搏命試管誕下女嬰	https://www.bastillepost.com/hongkong/article/15711889-35歲獨子因腫瘤離世-吉林63歲高齡產婦為重拾生活希	自然離世	B
@@ -985,8 +969,6 @@ var DATA_DEPARTURE = `
 2026-02-23	兒病逝不知所措！桃園87歲父推車運屍棄埔心溪 桃園男失蹤協尋竟成棄屍案	https://www.mirrormedia.mg/external/mirrordaily_46370	自然離世	A
 2026-02-22	釣魚逾60年皮膚曬成朱古力色 老翁病逝	https://hk.on.cc/hk/bkn/cnt/news/20260222/bkn-20260222150237142-0222_00822_001.html	自然離世	B
 2026-02-21	艾瑞克丹恩漸凍症病逝! 輪椅上淚崩留遺言給愛女「妳們是我的全部，晚安」	https://star.ettoday.net/news/3121016	自然離世	B
-2026-02-21	男子攀爬旺角一座大廈外牆棚架 疑失足墮下送院後不治	https://news.tvb.com/tc/local/6999b021060723efc0a6996d/港澳-男子攀爬旺角一座大廈外牆棚架-疑失足墮下送院後不治	離世	-
-2026-02-21	旺角奶路臣街唐樓男子墮下 傷重不治	https://www.i-cable.com/新聞資訊/440263/旺角奶路臣街唐樓男子墮下-傷重不治	離世	-
 2026-02-21	坐檯小姐「脫衣陪酒」遭逮…淪植物人臥床13年病逝 法院最終判決出爐	https://www.mirrormedia.mg/story/20260221web001	自然離世	A
 2026-02-21	去年宣布患漸凍人症 《醫人當自強》Eric病逝	https://www.stheadline.com/daily-entertainment/3546174/去年宣布患漸凍人症-醫人當自強Eric病逝	自然離世	B
 2026-02-20	《超夜》詹老師驚傳病逝「一堆人粉絲認錯」喊一路好走！詹惟中粉專曬片發聲	https://www.ftvnews.com.tw/news/detail/2026220W0142	自然離世	B
@@ -1020,7 +1002,6 @@ var DATA_DEPARTURE = `
 2026-02-05	吳敦病逝！曾告白鄭家榆「最愛的女人」因賈靜雯鬧不愉快	https://tw.news.yahoo.com/吳敦病逝-曾告白鄭家榆-最愛的女人-因賈靜雯鬧不愉快-020929633.html	自然離世	B
 2026-02-04	袁惟仁離世｜外遇13年拋妻棄女意外變植物人後小三全跑光57歲袁惟仁離世前妻千字文淚別：謝謝祢曾愛我	https://topick.hket.com/article/4080000/袁惟仁離世｜外遇13年拋妻棄女意外變植物人後小三全跑光 57歲袁惟仁離世前妻千字文淚別：謝謝祢曾愛我	自然離世	B
 2026-02-04	袁惟仁病逝！大姊以「斷線」思念弟弟 昔轟其子女「寡廉鮮恥」	https://www.ftvnews.com.tw/news/detail/2026204W0129	自然離世	B
-2026-02-04	大S病逝前說「想回台灣」！往機場途中心跳驟停 身體急速衰竭關鍵原因曝光 | 姊妹淘	https://today.line.me/tw/v3/article/EXZj6km?view=topic&referral=topic-Barbie-Hsu	自然離世	B
 2026-02-03	袁惟仁與大S「同一天」病逝 兩人緣分曝光	https://vct.news/news/袁惟仁與大s「同一天」病逝-兩人緣分曝光	自然離世	B
 2026-02-03	袁惟仁臥床8年病逝！《星光》女星聞訊不捨發聲：一個很暖心的爸爸	https://star.setn.com/news/1790220	自然離世	B
 2026-02-03	袁惟仁病逝｜音樂才子曾搶救一度恢復心跳 袁惟仁臨終前聽一句話安心離開	https://topick.hket.com/article/4079245/袁惟仁病逝｜音樂才子曾搶救一度恢復心跳 袁惟仁臨終前聽一句話安心離開?mtc=10012	自然離世	B
@@ -1032,16 +1013,15 @@ var DATA_DEPARTURE = `
 2026-02-02	許仕仁離世| 77歲前政務司司長許仕仁離世涉貪揭花$21萬享法國菜$800萬包養上海情婦- 東張+	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/16698467626249/生活-許仕仁離世---77歲前政務司司長許仕仁離世-涉貪揭花-21萬享法國菜--800萬包養上海情婦	自然離世	B
 2026-02-02	袁惟仁病逝!二姊淚別「他從此自由了」 年後火化與父親合葬	https://star.ettoday.net/news/3112088	自然離世	B
 2026-02-02	袁惟仁病逝 前妻哭腫眼：太多畫面和複雜心情	https://www.worldjournal.com/wj/story/121234/9305289	自然離世	B
-2026-02-02	社署社工暈倒後離世 孫玉菡楊何蓓茵哀痛哀悼	https://www.bastillepost.com/hongkong/article/15633275-社署社工暈倒後離世-孫玉菡楊何蓓茵哀痛哀悼	自然離世	A
 2026-01-31	小鬼當家媽媽病逝！麥考利克金悲痛曬照發文	https://tw.news.yahoo.com/小鬼當家媽媽病逝-麥考利克金悲痛曬照發文-052718879.html	自然離世	B
 2026-01-31	台中母疑餵安眠藥2幼兒死亡 法醫稱幼童臟器不成熟：故意殺人	https://www.hk01.com/台灣新聞/60317981/台中母疑餵安眠藥2幼兒死亡-法醫稱幼童臟器不成熟-故意殺人	自然離世	A
 2026-01-30	長榮空服員病逝案 座艙長記大過、連降2級拔除管理職	https://tw.news.yahoo.com/長榮空服員病逝案-座艙長記大過、連降2級拔除管理職-083023079.html	自然離世	A
 2026-01-30	英年早逝｜剛贏官司擬Solo回歸樂壇27歲女星驚爆離世死因成謎拍檔悲痛：你給我活下去的力量	https://topick.hket.com/article/4076340/英年早逝｜剛贏官司擬Solo回歸樂壇 27歲女星驚爆離世死因成謎 拍檔悲痛：你給我活下去的力量	自然離世	D
 2026-01-30	澳洲珀斯西部發生謀殺及自殺案 釀四死包括兩名少年	https://news.tvb.com/tc/world/697c66dc743cc57937a3ca9a/國際-澳洲珀斯西部發生謀殺及自殺案釀四死包括兩名少年	離世	A
 2026-01-30	昔為趙紫陽智囊王岐山故交翁永曦病逝- 澳洲看新闻网最新澳洲新闻| 中国新闻| 港台新闻| 国际新闻	https://vct.news/news/昔為趙紫陽智囊-王岐山故交翁永曦病逝	自然離世	B
-2026-01-29	順利邨男子走廊墮下 當場不治	https://hk.on.cc/hk/bkn/cnt/news/20260129/bkn-20260129044434382-0129_00822_001.html	離世	-
 2026-01-29	陸「超女教父」病逝！打造「電視湘軍」傳奇 捧紅李宇春、張靚穎	https://tw.news.yahoo.com/陸-超女教父-病逝-打造-電視湘軍-042716181.html	自然離世	B
 2026-01-29	「改革四君子」翁永曦病逝 見證國家開放	https://www.hkej.com/dailynews/cntw/article/4307125/-%E6%94%B9%E9%9D%A9%E5%9B%9B%E5%90%9B%E5%AD%90-%E7%BF%81%E6%B0%B8%E6%9B%A6%E7%97%85%E9%80%9D-%E8%A6%8B%E8%AD%89%E5%9C%8B%E5%AE%B6%E9%96%8B%E6%94%BE	自然離世	B
+2026-01-28	粉嶺安全街地盤 男棚工疑失足從棚架墮下 昏迷送院後不治	https://www.bastillepost.com/hongkong/article/15619012-83%E6%AD%B2%E8%80%81%E7%BF%81%E7%89%9B%E9%A0%AD%E8%A7%92%E9%81%8E%E9%A6%AC%E8%B7%AF%E9%81%AD%E6%92%9E%E5%88%B0%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E3%80%80%E8%AD%A6%E6%8B%9875%E6%AD%B2%E5%B0%8F	離世	B
 2026-01-28	獨家 》前財部次長、前證管會主委戴立寧病逝	https://www.ctee.com.tw/news/20260128700811-430301	自然離世	B
 2026-01-28	沒說安慰卻最暖心 莊秀樹病逝傷友淚別	https://www.mirrormedia.mg/external/setn_1787498	自然離世	B
 2026-01-28	曾因「十信案」頂撞蔣經國遭拔官 前財部次長戴立寧病逝	https://tw.news.yahoo.com/曾因-十信案-頂撞蔣經國遭拔官-前財部次長戴立寧病逝-053733708.html	自然離世	B
@@ -1055,6 +1035,7 @@ var DATA_DEPARTURE = `
 2026-01-27	快訊／鑽石公主號船長「船上病逝！」 副手接手開進基隆港	http://www.msn.com/zh-tw/news/living/%E5%BF%AB%E8%A8%8A-%E9%91%BD%E7%9F%B3%E5%85%AC%E4%B8%BB%E8%99%9F%E8%88%B9%E9%95%B7-%E8%88%B9%E4%B8%8A%E7%97%85%E9%80%9D-%E5%89%AF%E6%89%8B%E6%8E%A5%E6%89%8B%E9%96%8B%E9%80%B2%E5%9F%BA%E9%9A%86%E6%B8%AF/ar-AA1F2w1K?cvid=204e613932644ce5fc94adbc07bb2eca&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	自然離世	B
 2026-01-27	上海53歲男雇主病逝12分鐘 36歲女保母瘋狂轉賬- 中國社會- 新聞	https://www.chinesedaily.com/article/detail-675485.html	自然離世	B
 2026-01-24	洋女婿病逝!賴佩霞悲憤喊「為何這麼好的年輕人離開」： 心裡住了黑猩猩	https://www.setn.com/news/1785678	自然離世	B
+2026-01-23	彩盈邨男子單位飛墮平台 當場證實死亡	https://hk.on.cc/hk/bkn/cnt/news/20260123/bkn-20260123200039099-0123_00822_001.html	自然離世	-
 2026-01-23	南丫海難死因裁決 遺屬：追究13年換來官指「不切實際」 有愧於離世家人	https://thewitnesshk.com/%E5%8D%97%E4%B8%AB%E6%B5%B7%E9%9B%A3%E6%AD%BB%E5%9B%A0%E8%A3%81%E6%B1%BA%E3%80%80%E9%81%BA%E5%B1%AC%EF%BC%9A%E8%BF%BD%E7%A9%B613%E5%B9%B4%E6%8F%9B%E4%BE%86%E5%AE%98%E6%8C%87%E3%80%8C%E4%B8%8D%E5%88%87/	自然離世	A
 2026-01-22	荃官前校長華任復病逝 遺體捐港大作大體老師 校友會：師恩永誌	https://www.hk01.com/社會新聞/60315145/荃官前校長華任復病逝-遺體捐港大作大體老師-校友會-師恩永誌	自然離世	B
 2026-01-22	湯米李瓊斯愛女酒店離世 去年10月已懷孕疑一屍兩命引熱議	https://star.setn.com/news/1784635	自然離世	C
@@ -1071,17 +1052,17 @@ var DATA_DEPARTURE = `
 2026-01-20	SFO一地勤人員意外死亡	https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1dHcVYwNWR0N2s2M2NCb1hFNDJxZ2FRdUl4eGFYcnY5QXpSTUktaUt1LUgtemhjdlNJcG0yUF9UeWdHd2RFTjRDclc3MlNVbE4tbUtIT19LRDFBZEdwVWtDcEtvNFRydjVUT25UdGVUWGFzTXJfemNCS010Wk1XQi0wMA?oc=5	離世	A
 2026-01-19	梁小龍心臟衰竭離世 表妹呂珊憶早年定期見面	https://hk.on.cc/hk/bkn/cnt/entertainment/20260119/bkn-20260119082727348-0119_00862_001.html	自然離世	B
 2026-01-19	77歲「火雲邪神」梁小龍病逝	https://www.hkej.com/dailynews/hknews/article/4299949/77歲「火雲邪神」梁小龍病逝	自然離世	B
+2026-01-19	72歲台女馬來西亞潛水不幸溺亡 船夫目睹急跳海拉上岸救不回	https://tw.news.yahoo.com/72歲台女馬來西亞潛水不幸溺亡-船夫目睹急跳海拉上岸救不回-065903730.html	離世	A
 2026-01-18	梁小龍逝世｜抖音突發「遺言」 本想保密死訊：原諒我不辭而別	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60313931/%E6%A2%81%E5%B0%8F%E9%BE%8D%E9%80%9D%E4%B8%96-%E6%8A%96%E9%9F%B3%E7%AA%81%E7%99%BC-%E9%81%BA%E8%A8%80-%E6%9C%AC%E6%83%B3%E4%BF%9D%E5%AF%86%E6%AD%BB%E8%A8%8A-%E5%8E%9F%E8%AB%92%E6%88%91%E4%B8%8D%E8%BE%AD%E8%80%8C%E5%88%A5	自然離世	B
 2026-01-17	鶼鰈情深!趙學煌癱瘓病逝 愛妻深情守護26年：我在， 你不要怕	https://www.msn.com/zh-tw/entertainment/news/鶼鰈情深-趙學煌癱瘓病逝-愛妻深情守護26年-我在-你不要怕/ar-AA1TY244?cvid=2fe704c67b9441c282966b25aec31a62&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	自然離世	B
 2026-01-17	柯文哲父親病逝 國民黨： 盼柯文哲節哀珍重	https://www.msn.com/zh-tw/news/national/柯文哲父親病逝-國民黨-盼柯文哲節哀珍重/ar-AA1zbpjn?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	自然離世	B
 2026-01-17	曹西平乾兒子「發現離世完整經過」曝光 丁寧揭他無痛苦、掙扎	http://www.msn.com/zh-tw/entertainment/news/%E6%9B%B9%E8%A5%BF%E5%B9%B3%E4%B9%BE%E5%85%92%E5%AD%90-%E7%99%BC%E7%8F%BE%E9%9B%A2%E4%B8%96%E5%AE%8C%E6%95%B4%E7%B6%93%E9%81%8E-%E6%9B%9D%E5%85%89-%E4%B8%81%E5%AF%A7%E6%8F%AD%E4%BB%96%E7%84%A1%E7%97%9B%E8%8B%A6-%E6%8E%99%E6%89%8E/ar-AA1U2gxT?cvid=2e4d880995884e8be331bced2ca1b57d&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	自然離世	B
 2026-01-17	剛從中國回來! 11歲女童買完包子「叫一聲」 離世家屬慟拔管今解剖	http://www.msn.com/zh-tw/news/national/剛從中國回來-11歲女童買完包子-叫一聲-離世-家屬慟拔管今解剖/ar-AA1UdLEx?cvid=431f451306e84596e8d5749c4d38989d&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	自然離世	A
-2026-01-16	小欖七旬男囚因病不治 2002年誤殺罪成被判入院令	https://std.stheadline.com/breaking-news/3536195/小欖七旬男囚因病不治-2002年誤殺罪成被判入院令	自然離世	A
+2026-01-16	小欖七旬男囚因病不治 2002年誤殺罪成被判入院令	https://std.stheadline.com/breaking-news/3536195/小欖七旬男囚因病不治-2002年誤殺罪成被判入院令	離世	A
 2026-01-16	PTU男警遴選飛虎隊身故 今榮譽喪禮出殯安葬浩園 家屬傷心拭淚	https://www.hk01.com/%E7%AA%81%E7%99%BC/60313243/ptu%E7%94%B7%E8%AD%A6%E9%81%B4%E9%81%B8%E9%A3%9B%E8%99%8E%E9%9A%8A%E8%BA%AB%E6%95%85-%E4%BB%8A%E6%A6%AE%E8%AD%BD%E5%96%AA%E7%A6%AE%E5%87%BA%E6%AE%AF%E5%AE%89%E8%91%AC%E6%B5%A9%E5%9C%92-%E5%AE%B6%E5%B1%AC%E5%82%B7%E5%BF%83%E6%8B%AD%E6%B7%9A	未分類	A
 2026-01-16	73歲中國棋聖聶衞平病逝金庸師父 曾連勝日本國手創神話	https://www.hkej.com/dailynews/cntw/article/4298540/73歲中國棋聖聶衞平病逝	自然離世	B
 2026-01-15	賀嬌龍不幸離世意外墜馬致頭部嚴重受傷- 神州 - 香港文匯網	https://www.wenweipo.com/a/202601/15/AP6968224de4b069b7ebf84fe1.html	自然離世	B
 2026-01-15	日本新冠死亡人数居高不下 累计逾15.8万人	https://tchina.kyodonews.net/articles/-/3668	自然離世	A
-2026-01-15	「棋聖」聶衛平逝世 去年因腦梗昏迷12天	https://china.hket.com/article/4068736/「棋聖」聶衛平逝世 去年因腦梗昏迷12天?mtc=20023	自然離世	B
 2026-01-15	「棋聖」聶衛平病逝 與習近平交情深厚 官媒高規格報導	https://newtalk.tw/news/view/2026-01-15/1015155	自然離世	B
 2026-01-15	「棋聖」聶衛平病逝 柯潔發文：「聶老一路走好」	https://www.tkww.hk/a/202601/15/AP69685502e4b0eb9195c1bbe9.html	自然離世	B
 2026-01-14	捷警小隊長涉性侵女兒 開庭前死亡	https://www.worldjournal.com/wj/amp/story/121222/9264343	自然離世	A
@@ -1100,7 +1081,6 @@ var DATA_DEPARTURE = `
 2026-01-09	走私1172塊海洛因磚…竹聯幫「豆漿」腦癌由陸返台投案 昨病逝榮總	https://udn.com/news/story/7315/9254827	自然離世	B
 2026-01-09	犯下台灣「陸上最大宗毒品案」 竹聯幫大哥林秉豐腦癌離世	https://tw.news.yahoo.com/犯下台灣-陸上最大宗毒品案-竹聯幫大哥林秉豐腦癌離世-033200769.html	自然離世	B
 2026-01-09	父病逝兒神隱 姪子代墊62萬喪葬費 精算師法官看「這關鍵」大砍21萬	https://www.mirrormedia.mg/external/mirrordaily_39314	自然離世	A
-2026-01-09	屯門女子高處墮下不治 男友報案後突失聯 重案組接手跟進 附詳細經過	https://www.sundaykiss.com/熱話/屯門友愛邨-愛德樓-36歲-墮樓-男友-失聯-重案組-2337481/	離世	-
 2026-01-09	去年返台投案就醫！史上最大宗海洛因走私案毒梟腦癌病逝| 社會	https://newtalk.tw/news/view/2026-01-09/1014089	自然離世	B
 2026-01-09	伊朗示威持續 特朗普警告：再有人員死亡 將面臨嚴厲打擊	https://www.hk01.com/即時國際/60311155/伊朗示威持續-特朗普警告-再有人員死亡-將面臨嚴厲打擊	自然離世	A
 2026-01-08	與另男圖服藥自殺 馬術教練加控誤殺 - 20260108 - 港聞	https://news.mingpao.com/pns/港聞/article/20260108/s00002/1767808553427/與另男圖服藥自殺-馬術教練加控誤殺	離世	A
@@ -1116,7 +1096,7 @@ var DATA_DEPARTURE = `
 2026-01-07	CIA「超級內鬼」艾姆斯獄中病逝 昔拿10條人命換跑車、豪宅	https://news.tvbs.com.tw/world/3093759	自然離世	B
 2026-01-06	黑豹樂隊創始人郭傳林病逝	https://www.hkej.com/dailynews/cntw/article/4290426/黑豹樂隊創始人郭傳林病逝	自然離世	B
 2026-01-06	賣情報給蘇聯的CIA間諜艾姆斯 獄中逝世	https://www.worldjournal.com/wj/story/121172/9249685	自然離世	B
-2026-01-05	高三男生遭車撞傷昏迷一年離世 鄰居故意殺人罪成一審判死	https://www.hk01.com/大國小事/60309741/高三男生遭車撞傷昏迷一年離世-鄰居故意殺人罪成一審判死	自然離世	A
+2026-01-06	南迴死亡事故慘況曝！遭2連撞呈｢V型｣駕駛座壓縮不見…7旬翁夾困身亡	https://www.setn.com/news/1776789	離世	-
 2026-01-05	澳洲昆士蘭煤礦坍塌 被困地底礦工證實死亡	https://news.tvb.com/tc/world/695b5ba2c26d920e366a5403/國際-澳洲昆士蘭煤礦坍塌被困地底礦工證實死亡	自然離世	A
 2026-01-05	新北深坑鐵工廠驚傳意外！48歲送貨司機遭鋼板砸中 頭部破裂明顯死亡	https://tw.news.yahoo.com/新北深坑鐵工廠驚傳意外-48歲送貨司機遭鋼板砸中-頭部破裂明顯死亡-070100929.html	自然離世	A
 2026-01-05	「國民影帝」安聖基病逝！元旦才過74歲生日 加護病房搶命6天無效	https://stars.udn.com/star/story/10090/9244671	自然離世	B
@@ -1129,7 +1109,6 @@ var DATA_DEPARTURE = `
 2025-12-30	警樂華南邨垃圾房蒐證 據了解查失蹤案揭35歲女子死亡 正追緝一名男子	https://www.i-cable.com/新聞資訊/424408/觀塘樂華南邨大批警員蒐證-據了解查失蹤案揭35歲	自然離世	A
 2025-12-30	警方稱，奧羅拉槍擊案的青少年嫌疑人自殺了	https://citytimes.tw/資訊/警方稱，奧羅拉槍擊案的青少年嫌疑人自殺了/515607/	離世	A
 2025-12-30	曹西平病逝!西門町店5年鄰居憶他「常跟路人閒聊」嘆： 這樣走是幸福的	https://star.setn.com/news/1772922	自然離世	B
-2025-12-30	慈雲山老翁平台晾窗簾疑失足墮下 當場不治	https://www.i-cable.com/新聞資訊/424160/慈雲山老翁平台晾窗簾疑失足墮下-當場不治	離世	-
 2025-12-30	孟加拉「兩后爭霸」落幕！首位女總理吉亞80歲病逝 曾遭宿敵關押17年	https://news.ltn.com.tw/news/world/breakingnews/5293734	自然離世	B
 2025-12-29	阿省男子急診室等待8小時死亡，政府下令審查：“完全可避免”	https://www.chinesepress.com/2025/12/29/%E9%98%BF%E7%9C%81%E7%94%B7%E5%AD%90%E6%80%A5%E8%AF%8A%E5%AE%A4%E7%AD%89%E5%BE%858%E5%B0%8F%E6%97%B6%E6%AD%BB%E4%BA%A1%EF%BC%8C%E6%94%BF%E5%BA%9C%E4%B8%8B%E4%BB%A4%E5%AE%A1%E6%9F%A5%EF%BC%9A/	自然離世	A
 2025-12-28	中国马戏团“死亡飞轮”演出发生意外 演员从高空坠落		自然離世	A
@@ -1145,6 +1124,7 @@ var DATA_DEPARTURE = `
 2025-12-17	快訊／北市長順街堤外停車場死亡事故 1男倒臥賓士車內明顯屍僵	https://news.pchome.com.tw/society/crwant/20251217/index-76595462549858316002.html	自然離世	A
 2025-12-17	圓通裝車工40℃高溫工作離世 家屬要求300萬賠償遭拒：屬正常工亡	https://www.bastillepost.com/hongkong/article/15514767-%E5%AD%95%E5%A9%A6%E9%81%AD%E8%B2%A8%E8%BB%8A%E6%92%9E%E6%96%83-%E5%8F%B8%E6%A9%9F%E8%A2%AB%E6%8E%A7%E5%8D%B1%E9%A7%95-%E6%8E%A7%E8%BE%AF%E5%AE%8C%E6%88%90%E7%B5%90%E6%A1%88%E9%99%B3%E8%A9%9E	自然離世	A
 2025-12-17	1晚6人腦中風送急診! 男吃完薑母鴨「不到2天病逝」ICU 護理師急示警	https://tw.news.yahoo.com/1%E6%99%9A6%E4%BA%BA%E8%85%A6%E4%B8%AD%E9%A2%A8%E9%80%81%E6%80%A5%E8%A8%BA-%E7%94%B7%E5%90%83%E5%AE%8C%E8%96%91%E6%AF%8D%E9%B4%A8-%E4%B8%8D%E5%88%B02%E5%A4%A9%E7%97%85%E9%80%9D-icu%E8%AD%B7%E7%90%86%E5%B8%AB%E6%80%A5%E7%A4%BA%E8%AD%A6-132600580.html	離世	B
+2025-12-16	大埔碗窰村屋男工棚架墮下 昏迷送院搶救	https://www.hk01.com/%E7%AA%81%E7%99%BC/60303959/%E5%A4%A7%E5%9F%94%E7%A2%97%E7%AA%B0%E6%9D%91%E5%B1%8B65%E6%AD%B2%E7%94%B7%E5%B7%A5%E6%A3%9A%E6%9E%B6%E5%A2%AE%E4%B8%8B-%E6%98%8F%E8%BF%B7%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91	未分類	-
 2025-12-15	林光寧病逝 女婿蕭敬騰忍悲工作	https://turnnewsapp.com/tw/390088.html	自然離世	B
 2025-12-14	蕭敬騰岳父林光寧病逝 Summer哀痛： 我沒有爸爸了	https://www.chinatimes.com/realtimenews/20251214002914-260404	自然離世	B
 2025-12-14	奧蘭多環球影城︱男子玩過山車後額頭現傷口喪命 最終報告：意外死亡	https://www.stheadline.com/realtime-world/3526833/%E5%A5%A7%E8%98%AD%E5%A4%9A%E7%92%B0%E7%90%83%E5%BD%B1%E5%9F%8E%E7%94%B7%E5%AD%90%E7%8E%A9%E9%81%8E%E5%B1%B1%E8%BB%8A%E5%BE%8C%E9%A1%8D%E9%A0%AD%E7%8F%BE%E5%82%B7%E5%8F%A3%E5%96%AA%E5%91%BD-%E6%9C%80%E7%B5%82%E5%A0%B1%E5%91%8A%E6%84%8F%E5%A4%96%E6%AD%BB%E4%BA%A1	離世	A
@@ -1179,8 +1159,6 @@ var DATA_DEPARTURE = `
 2025-11-24	摩托車手在意大利“死亡地球”馬戲團事故中喪生		自然離世	A
 2025-11-20	空服員抱病值勤後病逝 勞部認定長榮濫用惰勤考核	https://tw.news.yahoo.com/空服員抱病值勤後病逝-勞部認定長榮濫用惰勤考核-115707911.html	自然離世	A
 2025-11-20	勞動部指長榮空服員病逝「請假文化扭曲」 擬修法保障病假權	https://news.pts.org.tw/article/782177	自然離世	A
-2025-11-18	粉嶺芬園女子高處墮下 當場證實不治	https://hk.on.cc/hk/bkn/cnt/news/20251118/bkn-20251118073742628-1118_00822_001.html	離世	-
-2025-11-18	牛頭角婦人從高處墮下 送院搶救終不治	https://hk.on.cc/hk/bkn/cnt/news/20251118/bkn-20251118062519268-1118_00822_001.html	離世	-
 2025-11-18	没医院肯收？韩国高中生晕倒一小时因无医院可去死亡！	https://www.163.com/dy/article/KEM1LL9A05561HAQ.html	自然離世	B
 2025-11-08	韓發電廠鍋爐崩塌意外 已確認2死、3人推定死亡...另2人下落不明		自然離世	A
 2025-11-08	沙僧扮演者劉大剛病逝 六小齡童發文悼念	https://www.hkcd.com.hk/content_app/2025-11/08/content_8723783.html	自然離世	B
@@ -1207,7 +1185,6 @@ var DATA_DEPARTURE = `
 2025-10-21	空服員病逝！ 白衣跑者集結長榮馬拉松成最溫柔抗爭現場	https://www.chinatimes.com/realtimenews/20251021002106-260405	自然離世	A
 2025-10-21	死亡電梯 突上升 45 歲男踩空跌落電梯井不治	https://cnews.com.tw/204251021a07/	離世	-
 2025-10-21	機場貨機衝落海｜迪拜抵港貨機滑出跑道撞巡邏車 車上兩人墮海死亡(江瓔庭報道)		自然離世	A
-2025-10-21	台中婦「吃芭樂噎到」失去意識 搶救一夜今拔管離世	https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E5%A9%A6-%E5%90%83%E8%8A%AD%E6%A8%82%E5%99%8E%E5%88%B0-%E5%A4%B1%E5%8E%BB%E6%84%8F%E8%AD%98-%E6%90%B6%E6%95%91-%E5%A4%9C%E4%BB%8A%E6%8B%94%E7%AE%A1%E9%9B%A2%E4%B8%96-033000561.html	自然離世	B
 2025-10-21	前 NFL 球員道格·馬丁在加州警方拘留期間死亡	https://mtgamer.com/%E5%85%A8%E7%90%83%E8%B3%87%E8%A8%8A/%E5%89%8D-nfl-%E7%90%83%E5%93%A1%E9%81%93%E6%A0%BC%C2%B7%E9%A6%AC%E4%B8%81%E5%9C%A8%E5%8A%A0%E5%B7%9E%E8%AD%A6%E6%96%B9%E6%8B%98%E7%95%99%E6%9C%9F%E9%96%93%E6%AD%BB%E4%BA%A1/58205/	自然離世	B
 2025-10-20	運輸及物流局對機場貨機意外深表關注對有人離世表示難過- 香港 - 香港文匯網	https://news.rthk.hk/rthk/ch/component/k2/1827896-20251020.htm	自然離世	A
 2025-10-20	機場貨機墮海｜機管局對兩名機場員工離世深表哀痛 盡力支援死者家屬	https://www.stheadline.com/breaking-news/3510154/%E6%A9%9F%E5%A0%B4%E8%B2%A8%E6%A9%9F%E5%A2%AE%E6%B5%B7%E6%A9%9F%E7%AE%A1%E5%B1%80%E5%B0%8D%E5%85%A9%E5%90%8D%E6%A9%9F%E5%A0%B4%E5%93%A1%E5%B7%A5%E9%9B%A2%E4%B8%96%E6%B7%B1%E8%A1%A8%E5%93%80%E7%97%9B-%E7%9B%A1%E5%8A%9B%E6%94%AF%E6%8F%B4%E6%AD%BB%E8%80%85%E5%AE%B6%E5%B1%AC	自然離世	A
@@ -1235,7 +1212,6 @@ var DATA_DEPARTURE = `
 2025-10-13	好友天殘離世！凱莉不捨發聲 悲嘆「全心全意地愛妳」	http://www.msn.com/zh-tw/entertainment/news/%E5%A5%BD%E5%8F%8B%E5%A4%A9%E6%AE%98%E9%9B%A2%E4%B8%96-%E5%87%B1%E8%8E%89%E4%B8%8D%E6%8D%A8%E7%99%BC%E8%81%B2-%E6%82%B2%E5%98%86-%E5%85%A8%E5%BF%83%E5%85%A8%E6%84%8F%E5%9C%B0%E6%84%9B%E5%A6%B3/ar-AA1DbEkO?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	自然離世	B
 2025-10-13	再多一名南京大屠殺幸存者離世 僅剩24人在冊	https://hk.on.cc/hk/bkn/cnt/news/20251013/bkn-20251013210025681-1013_00822_001.html	自然離世	B
 2025-10-13	以色列：一名在新星節哈馬斯屠殺中倖存的年輕人自殺	https://citytimes.tw/資訊/以色列：一名在新星節哈馬斯屠殺中倖存的年輕人/191573/	離世	C
-2025-10-12	沙田九旬老翁疑跌床罅被困 送院搶救後證實死亡	https://hkcd.com/hkcdweb/content/2025/10/12/content_8718489.html	自然離世	A
 2025-10-12	今年首宗兒童染流感死亡 13歲女童入院4日 今情況轉差病逝	https://hk.on.cc/hk/bkn/cnt/news/20251012/bkn-20251012185918909-1012_00822_001.html	離世	A
 2025-10-11	曾操辦「黑道仲裁者」喪禮 中庄幫精神領袖「空董」張忠信病逝	https://news.ltn.com.tw/news/society/breakingnews/5207523	自然離世	B
 2025-10-11	德拉加什煤氣罐爆炸，一名婦女死亡	https://www.gazetaexpress.com/zh-TW/shperthen-bombola-e-gazit-vdes-nje-grua-ne-dragash/	離世	A
@@ -1256,7 +1232,6 @@ var DATA_DEPARTURE = `
 2025-10-06	多瑙河翻船悲劇：中國非法移民越境途中遇險 一人死亡	https://www.dw.com/zh-hant/多瑙河翻船悲劇中國非法移民越境途中遇險-一人死亡/a-74253138	離世	A
 2025-10-03	六旬婦被墮下鐵枝插中頭部死亡 裝修工被控容許物體掉下提堂	https://www.orientaldaily.com.my/news/society/2025/10/03/766003	自然離世	A
 2025-10-02	巴西甲醇毒酒死亡危機蔓延 曝黑市與組織犯罪擴張		自然離世	B
-2025-10-02	52歲地盤工15樓墮下送院不治	https://tw.news.yahoo.com/%E5%85%A5%E5%AD%B8%E6%9C%AA%E6%BB%BF-%E6%9C%88%E9%AD%82%E6%96%B7%E6%A0%A1%E5%9C%92-%E5%B1%8F%E7%A7%91%E5%A4%A7%E6%96%B0%E7%94%9F%E8%87%AA%E6%92%9E%E4%BA%A1-%E6%A0%A1%E5%85%A7%E5%AE%89%E5%85%A8%E5%86%8D%E5%8F%97%E9%97%9C%E6%B3%A8-074938415.html	離世	-
 2025-09-29	送完8跳傘客 飛機高空失控「死亡螺旋」！40年資深教練墜機亡	https://www.ettoday.net/news/20250929/3042018.htm	自然離世	A
 2025-09-29	花蓮馬太鞍溪堰塞湖溢流災情 死亡增為18人	https://www.ntdtv.com.tw/b5/20250929/video/405124.html?%E8%8A%B1%E8%93%AE%E9%A6%AC%E5%A4%AA%E9%9E%8D%E6%BA%AA%E5%A0%B0%E5%A1%9E%E6%B9%96%E6%BA%A2%E6%B5%81%E7%81%BD%E6%83%85%20%E6%AD%BB%E4%BA%A1%E5%A2%9E%E7%82%BA18%E4%BA%BA	自然離世	A
 2025-09-29	同住兒出門工作！媽媽陳屍房間「死亡多時」多天沒擺攤… 友登門才發現		自然離世	B
@@ -1271,12 +1246,10 @@ var DATA_DEPARTURE = `
 2025-09-21	廣東大一女生開學不久在軍訓期間死亡	https://www.epochtimes.com/gb/25/9/21/n14599035.htm/amp	自然離世	A
 2025-09-20	醫美診所爆死亡意外 北市衛生局重罰35萬、移送醫懲會-台視新聞網	https://news.ttv.com.tw/news/11409200000300N	自然離世	A
 2025-09-19	据越南媒体《VN Express》18日报道，台湾一名50多岁的男子花费超过40万台币（1800万韩元）接受"阴茎扩大"手术仅几个小时就死亡。对此,当地警方拘留了主刀手术的外科医生。据VN Expre..	https://www.mk.co.kr/cn/world/11424429	自然離世	B
-2025-09-19	巴西20岁女子长途大巴上突然昏迷后死亡，身上竟粘有26部iPhone	https://www.msn.com/zh-cn/news/national/%E5%B7%B4%E8%A5%BF20%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E9%80%94%E5%A4%A7%E5%B7%B4%E4%B8%8A%E7%AA%81%E7%84%B6%E6%98%8F%E8%BF%B7%E5%90%8E%E6%AD%BB%E4%BA%A1-%E8%BA%AB%E4%B8%8A%E7%AB%9F%E7%B2%98%E6%9C%8926%E9%83%A8iphone/ar-AA1JNN0n?cvid=71B8C72AF1FD48439F73EF8460270493&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	離世	B
 2025-09-19	Palemore Pizza Factory員工在機器人事故中死亡		自然離世	A
 2025-09-18	佐治亞州高中高爾夫球手哈登·凱利（Haden Kelly）突然跌倒後死亡	https://mtgamer.com/%E9%81%8B%E5%8B%95%E7%9A%84/%E4%BD%90%E6%B2%BB%E4%BA%9E%E5%B7%9E%E9%AB%98%E4%B8%AD%E9%AB%98%E7%88%BE%E5%A4%AB%E7%90%83%E6%89%8B%E5%93%88%E7%99%BB%C2%B7%E5%87%B1%E5%88%A9%EF%BC%88haden-kelly%EF%BC%89%E7%AA%81%E7%84%B6%E8%B7%8C/4035/	自然離世	B
 2025-09-18	「整」死人！北市1男醫美手術後死亡 檢警逮人調查	https://www.ftvnews.com.tw/news/detail/2025918W0011	自然離世	A
 2025-09-17	于朦胧母亲公布儿子死亡原因：系饮酒意外坠楼	https://news.cnjiwang.com/gn/202509/3979690.html	自然離世	A
-2025-09-16	藍田女子高處墮下 送院後不治	https://hk.on.cc/hk/bkn/cnt/news/20250916/bkn-20250916011510989-0916_00822_001.html	離世	-
 2025-09-16	快訊／高雄1早驚傳2人落水死亡 警方釐清原因中	https://www.ettoday.net/news/20250916/3034134.htm	自然離世	B
 2025-09-15	象山步道驚見男屍已死亡多日 警方調查中	https://tw.news.yahoo.com/%E8%B1%A1%E5%B1%B1%E6%AD%A5%E9%81%93%E9%A9%9A%E8%A6%8B%E7%94%B7%E5%B1%8D%E5%B7%B2%E6%AD%BB%E4%BA%A1%E5%A4%9A%E6%97%A5-%E8%AD%A6%E6%96%B9%E8%AA%BF%E6%9F%A5%E4%B8%AD-053500868.html	自然離世	C
 2025-09-15	墾丁度假竟成永別！36歲女和男友酒後吵架 負氣離開陳屍沙灘	https://news.pchome.com.tw/society/ctinews/20250915/index-75790502264504309002.html	未分類	A
@@ -1285,7 +1258,6 @@ var DATA_DEPARTURE = `
 2025-09-10	死亡機場！ 南韓15座機場9/19起總罷工 恐衝擊中秋連假航班	https://news.ltn.com.tw/news/world/breakingnews/5172919	離世	B
 2025-09-10	曾參與打造永利澳門與新濠項目 澳洲知名賭場高管Todd Nisbet離世	https://www.exmoo.com/article/251401.html	自然離世	B
 2025-09-10	印度有咳藥水劇毒含量嚴重超標致幼童死亡 世衛擬評估需否發全球警報	http://www.aastocks.com/tc/stocks/news/aafn-con/IC4589596/popular-news/INFOCAST	自然離世	A
-2025-09-09	香港仔老翁高處墮下 當場不治	https://hk.on.cc/hk/bkn/cnt/news/20250909/bkn-20250909015119834-0909_00822_001.html	離世	-
 2025-09-09	男子在廣華醫院急症室等入院期間死亡醫護翌日才發現| 討論牆	https://today.line.me/hk/v3/reposts/article/WxqV1L	自然離世	A
 2025-09-09	普里什蒂納拘留中心懲教所發生死亡事件：屍檢以確定死因	https://www.gazetaexpress.com/zh-TW/%E6%99%AE%E9%87%8C%E4%BB%80%E8%92%82%E7%B4%8D%E6%8B%98%E7%95%99%E4%B8%AD%E5%BF%83%E6%87%B2%E6%95%99%E6%9C%8D%E5%8B%99%E9%83%A8%E9%96%80%E5%B0%87%E5%B0%8D%E4%B8%80%E5%90%8D%E6%AD%BB%E8%80%85%E9%80%B2%E8%A1%8C%E5%B1%8D%E6%AA%A2%E4%BB%A5%E7%A2%BA%E5%AE%9A%E6%AD%BB%E5%9B%A0/	自然離世	C
 2025-09-09	巴西31歲門將比賽中意外死亡：撲出點球後倒在隊友面前	https://news.mydrivers.com/1/1073/1073303.htm	離世	A
@@ -1307,7 +1279,6 @@ var DATA_DEPARTURE = `
 2025-08-26	白石角海濱長廊海面女子漂浮 送院死亡	https://www.stheadline.com/breaking-news/3493523/%E7%99%BD%E7%9F%B3%E8%A7%92%E6%B5%B7%E6%BF%B1%E9%95%B7%E5%BB%8A%E6%B5%B7%E9%9D%A2%E5%A5%B3%E5%AD%90%E6%BC%82%E6%B5%AE-%E9%80%81%E9%99%A2%E6%AD%BB%E4%BA%A1	自然離世	A
 2025-08-26	上周才見面！王思佳化妝師好友離世 心碎曝2人最後互動	https://ctinews.com/news/items/6BalEbEAxQ	自然離世	B
 2025-08-25	消息：習西藏行健康亮紅燈 胡兩秘書因「缺氧」離世 ｜ 習近平 ｜ 胡錦濤 ｜ 去世 ｜ 大紀元	https://www.epochtimes.com/b5/25/8/25/n14580453.htm	自然離世	D
-2025-08-25	屯門男子倒臥橋底 救護員到場證實死亡	https://www.hkcd.com.hk/hkcdweb/content/2025/08/25/content_8710461.html	自然離世	A
 2025-08-24	22歲女喉嚨痛入院5天死亡 膿腫阻塞呼吸道	https://www.am730.com.hk/%E5%9C%8B%E9%9A%9B/22%E6%AD%B2%E5%A5%B3%E5%96%89%E5%9A%A8%E7%97%9B%E5%85%A5%E9%99%A25%E5%A4%A9%E6%AD%BB%E4%BA%A1-%E8%86%BF%E8%85%AB%E9%98%BB%E5%A1%9E%E5%91%BC%E5%90%B8%E9%81%93/592410	自然離世	A
 2025-08-22	湯姆·菲利普斯在逃亡四年後被發現死亡	https://www.singtaousa.com/2025-09-08/world-tom-phillips-children-found-safe-at-very-remote-campsite-urgent-injunction-in-place/5324768	自然離世	B
 2025-08-22	八鄉鄉委會主席郭永昌月初離世 政府今刊憲宣布其區議員席位懸空	https://www.hk01.com/%E6%94%BF%E6%83%85/60269146/%E5%85%AB%E9%84%89%E9%84%89%E5%A7%94%E6%9C%83%E4%B8%BB%E5%B8%AD%E9%83%AD%E6%B0%B8%E6%98%8C%E6%9C%88%E5%88%9D%E9%9B%A2%E4%B8%96-%E6%94%BF%E5%BA%9C%E4%BB%8A%E5%88%8A%E6%86%B2%E5%AE%A3%E5%B8%83%E5%85%B6%E5%8D%80%E8%AD%B0%E5%93%A1%E5%B8%AD%E4%BD%8D%E6%87%B8%E7%A9%BA	自然離世	A
@@ -1315,6 +1286,7 @@ var DATA_DEPARTURE = `
 2025-08-20	馬修培利死亡 毒品拆家認罪有機會被判入獄45年	https://hk.on.cc/hk/bkn/cnt/entertainment/20250820/bkn-20250820230120603-0820_00862_001.html	自然離世	B
 2025-08-20	法國一通過「受虐」博眼球KOL直播時死亡- 國際	https://www.dotdotnews.com/a/202508/20/AP68a592cee4b08d29053392e4.html	自然離世	B
 2025-08-20	單親母家中離世 稚子伴屍數天證無恙	https://hk.on.cc/hk/bkn/cnt/news/20250820/bkn-20250820080058490-0820_00822_001.html	自然離世	B
+2025-08-18	葵涌貨櫃碼頭男工頭暈跌倒 送院後情況惡化不治	https://hk.on.cc/hk/bkn/cnt/news/20250818/bkn-20250818210818869-0818_00822_001.html	離世	-
 2025-08-18	知名面師林自賢辭世 恩師陳金鑫隔日也離世！ 宗教界震驚哀悼	https://www.setn.com/news/1705845	自然離世	B
 2025-08-18	澳門兇殺自殺｜兄弟為錢積怨多年 六旬兄水喉通殺弟兩日後墮樓亡	https://www.hk01.com/article/60267814?utm_source=01articlecopy&utm_medium=referral	離世	A
 2025-08-18	76 歲認知障礙老翁情陷 Meta AI 「大姐姐」邀請約會趕赴途中意外死亡 家屬質疑 Meta 平台責任	https://unwire.hk/2025/08/18/meta-ai-billie-chatbot-death-elderly-man/ai/	離世	A
@@ -1323,8 +1295,6 @@ var DATA_DEPARTURE = `
 2025-08-16	一家五口墜谷「父親救妻小死亡」 意外險400萬不理賠？ 國泰人壽回應了	http://www.msn.com/zh-tw/news/living/一家五口墜谷-父親救妻小死亡-意外險400萬不理賠-國泰人壽回應了/ar-AA1KyS9I?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1	自然離世	A
 2025-08-15	獨子離世！廣東60歲婦再當媽 順利懷孕產2KG男嬰	https://ctinews.com/news/items/ogxwDRm4nG	自然離世	B
 2025-08-15	新竹市東區「烤舖.吧」驚傳老闆離世 將無限期休業	https://ctinews.com/news/items/MyWky8B9x6	自然離世	B
-2025-08-14	彩德邨男子高處墮下 倒斃平台	https://hk.on.cc/hk/bkn/cnt/news/20250814/bkn-20250814055444530-0814_00822_001.html	離世	B
-2025-08-12	世界運動會2025︱義大利定向選手逾30度高溫作賽暈倒 4日後離世	https://www.hk01.com/article/60265823?utm_source=01articlecopy&utm_medium=referral	自然離世	A
 2025-08-11	健康新聞報道 | 中山美穗浸浴亡拆解熱休克 女歌手按摩後死亡 一個部位勿亂按 吃西瓜隨時入ICU？	https://www.mytvsuper.com/tc/scoopplus/healthcare/health/15715629613901/%E5%81%A5%E5%BA%B7%E9%86%AB%E7%BE%8E-%E5%81%A5%E5%BA%B7%E6%96%B0%E8%81%9E%E5%A0%B1%E9%81%93---%E4%B8%AD%E5%B1%B1%E7%BE%8E%E7%A9%97%E6%B5%B8%E6%B5%B4%E4%BA%A1%E6%8B%86%E8%A7%A3%E7%86%B1%E4%BC%91%E5%85%8B-%E5%A5%B3%E6%AD%8C%E6%89%8B%E6%8C%89%E6%91%A9%E5%BE%8C%E6%AD%BB%E4%BA%A1-%E4%B8%80%E5%80%8B%E9%83%A8%E4%BD%8D%E5%8B%BF%E4%BA%82%E6%8C%89-%E5%90%83%E8%A5%BF%E7%93%9C%E9%9A%A8%E6%99%82%E5%85%A5ICU-	自然離世	A
 2025-08-10	戲如人生！ 顏正國戲裡也在中秋離世 巧合惹鼻酸	https://tw.news.yahoo.com/%E6%88%B2%E5%A6%82%E4%BA%BA%E7%94%9F-%E9%A1%8F%E6%AD%A3%E5%9C%8B%E6%88%B2%E8%A3%A1%E4%B9%9F%E5%9C%A8%E4%B8%AD%E7%A7%8B%E9%9B%A2%E4%B8%96-%E5%B7%A7%E5%90%88%E6%83%B9%E9%BC%BB%E9%85%B8-001900902.html	自然離世	B
 2025-08-10	國際航班乘客死亡降落在加國黃刀| 加西網(溫哥華門戶)	https://www.westca.com/News/article/sid=1144644/%E5%9C%8B%E9%9A%9B%E8%88%AA%E7%8F%AD%E4%B9%98%E5%AE%A2%E6%AD%BB%E4%BA%A1_%E9%99%8D%E8%90%BD%E5%9C%A8%E5%8A%A0%E5%9C%8B%E9%BB%83%E5%88%80/lang=tchinese.html	離世	A
@@ -1336,8 +1306,6 @@ var DATA_DEPARTURE = `
 2025-07-15	吳博君離世丨遺孀透露丈夫離世不帶痛苦 張家輝捐六位數人間有情	https://www.hk01.com/article/60257056?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2025-07-15	「撞球之子」楊清順病逝	https://www.setn.com/project/10321	自然離世	B
 2025-07-10	紅磡海面男子墮海 消防救上岸證實已死亡	https://www.stheadline.com/breaking-news/3472189/%E7%B4%85%E7%A3%A1%E6%B5%B7%E9%9D%A2%E7%94%B7%E5%AD%90%E5%A2%AE%E6%B5%B7-%E6%B6%88%E9%98%B2%E6%95%91%E4%B8%8A%E5%B2%B8%E8%AD%89%E5%AF%A6%E5%B7%B2%E6%AD%BB%E4%BA%A1	自然離世	A
-2025-07-10	廣東3歲童扁桃體手術後腦死亡 母親：已昏迷半月醫院稱是小手術	https://www.hk01.com/article/60255610?utm_source=01articlecopy&utm_medium=referral	離世	A
-2025-07-10	37歲速遞員熱射病離世 40℃仍派包裹 家屬：暈倒後口鼻都流血	https://www.hk01.com/article/60255485?utm_source=01articlecopy&utm_medium=referral	自然離世	A
 2025-07-07	智障女遭性侵翌年死亡！男保安以為死無對證 遭2招打臉終罪成	https://www.hk01.com/article/60252632?utm_source=01articlecopy&utm_medium=referral	自然離世	A
 2025-07-04	豐原一家五口命案 疑被騙千萬元輕生 - i-meihua.com	https://www.i-meihua.com/Article/Detail/29695	離世	A
 2025-07-03	台中豐原驚傳5口陳屍家中 疑財務問題輕生	https://news.ltn.com.tw/news/society/breakingnews/5094646	離世	A
@@ -1345,14 +1313,12 @@ var DATA_DEPARTURE = `
 2025-06-28	蔡瀾離別信公開 香港「四大才子」均已離世	https://www.ntdtv.com/b5/2025/06/28/a103999301.html	自然離世	B
 2025-06-27	蔡瀾離世｜生前居酒店公寓 遺九龍塘豪宅 數月前繼承亡妻業權	https://www.hk01.com/article/60251634?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2025-06-22	去年養病請辭 桃園市前秘書長詹榮鋒昨病逝	https://tw.news.yahoo.com/%E5%8E%BB%E5%B9%B4%E9%A4%8A%E7%97%85%E5%8D%B8%E4%BB%BB-%E6%A1%83%E5%9C%92%E5%B8%82%E5%89%8D%E7%A7%98%E6%9B%B8%E9%95%B7%E8%A9%B9%E6%A6%AE%E9%8B%92%E7%97%85%E9%80%9D-071913616.html	自然離世	B
-2025-06-20	黃大仙女子高處墮下 當場不治	https://hk.on.cc/hk/bkn/cnt/news/20250620/bkn-20250620062025409-0620_00822_001.html	離世	-
 2025-06-13	蔡語芯逝世｜閨密下跪求不要拔管 控家屬「人未死已欲賣其手袋」	https://www.hk01.com/article/60247307?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2025-06-10	詳訊：北海道遇襲登山者確認死亡 現場附近3頭棕熊被擊斃	https://tchina.kyodonews.net/news/2025/08/b344bab8d261--3.html	自然離世	A
 2025-06-10	奧地利中學爆槍擊案「釀10死30傷」 疑行凶學生已飲彈自盡	https://news.ttv.com.tw/fifa/news/Views/11406100037600M	離世	A
 2025-06-10	台中19歲女租屋處死亡…驚見「趴臥床邊」已有屍斑 警排除外力介入	https://udn.com/news/story/7320/8981713	自然離世	A
 2025-06-10	30歲阿爾巴尼亞人在馬貝拉被發現死亡	https://www.gazetaexpress.com/zh-TW/30-%E6%AD%B2%E9%98%BF%E7%88%BE%E5%B7%B4%E5%B0%BC%E4%BA%9E%E7%94%B7%E5%AD%90%E5%9C%A8%E9%A6%AC%E8%B2%9D%E6%8B%89%E8%A2%AB%E7%99%BC%E7%8F%BE%E6%AD%BB%E4%BA%A1/	自然離世	B
 2025-06-09	大叔吊床上睡覺離奇死亡！無打鬥痕跡頸有勒痕 警揭超詭異死因	https://www.hk01.com/article/60245433?utm_source=01articlecopy&utm_medium=referral	自然離世	A
-2025-06-05	牛頭角男子行人天橋墮下 當場不治	https://hk.on.cc/hk/bkn/cnt/news/20250605/bkn-20250605062946562-0605_00822_001.html	離世	-
 2025-05-20	安迪食道癌病逝6年！遺體曾冒卍字符號 「觀落陰」 暴哭向妻道歉	https://news.tvbs.com.tw/entertainment/variety/2875864	自然離世	B
 2025-05-16	重病老婦到櫃台提款死亡 銀行否認要求親自辦理	https://hk.on.cc/hk/bkn/cnt/news/20250516/bkn-20250516120042973-0516_00822_001.html	自然離世	A
 2025-05-12	睇波小心身體 皇馬球迷血壓過高死亡	https://hk.on.cc/hk/bkn/cnt/sport/20250512/bkn-20250512220516215-0512_00882_001.html	自然離世	B
@@ -1370,14 +1336,12 @@ var DATA_DEPARTURE = `
 2025-03-09	26 岁男子在戛纳出差期间被发现死亡：已确认身份，已下令尸检	https://today.line.me/tw/v3/reposts/article/jGyrDK	自然離世	B
 2025-03-02	方大同病逝！陸媒曝他臨終前狀態： 將止痛藥說明書折成千紙鶴	https://www.setn.com/news/1616960	自然離世	B
 2025-02-28	北京18歲足球小將腦死亡 被送返國救治兩周 哥哥：醫生說沒希望	https://www.hk01.com/article/60215029?utm_source=01articlecopy&utm_medium=referral	自然離世	B
-2025-02-22	灣仔男子疑高處墮下 倒斃合和中心平台	https://hk.on.cc/hk/bkn/cnt/news/20250222/bkn-20250222110756476-0222_00822_001.html	離世	B
 2025-02-21	網傳「80後」死亡率破5.2% 專家證不實：或是AI計算錯誤	https://www.hk01.com/article/60212801?utm_source=01articlecopy&utm_medium=referral	自然離世	A
 2025-02-20	韓國《無限挑戰》「星級教練」驚傳離世 當日貼自拍照發文：Bye	https://www.hk01.com/article/60212384?utm_source=01articlecopy&utm_medium=referral	自然離世	D
 2025-02-19	和大S接連病逝！《轉角遇到愛》男星家屬沉痛發聲 公開告別式時間	https://news.tvbs.com.tw/entertainment/2784284	自然離世	B
 2025-02-16	歌手詩琳疑患腦膜炎離世 專家：死亡率可達15% 初期病徵似感冒	https://www.hk01.com/article/60211112?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2025-02-16	山西32歲大學女講師病逝 村支書：幼時失雙親，本來已在籌備婚禮	https://www.hk01.com/article/60211049?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2025-02-16	中亞天籟︱烏茲別克20歲歌手詩琳突病逝 多次登央視年初一參加春晚	https://www.stheadline.com/realtime-china/3429283/%E4%B8%AD%E4%BA%9E%E5%A4%A9%E7%B1%9F%E7%83%8F%E8%8C%B2%E5%88%A5%E5%85%8B20%E6%AD%B2%E6%AD%8C%E6%89%8B%E8%A9%A9%E7%90%B3%E7%AA%81%E7%97%85%E9%80%9D-%E5%A4%9A%E6%AC%A1%E7%99%BB%E5%A4%AE%E8%A6%96%E5%B9%B4%E5%88%9D%E4%B8%80%E5%8F%83%E5%8A%A0%E6%98%A5%E6%99%9A	自然離世	B
-2025-02-16	6旬女乘客航班上昏迷離世 家屬尋求真相 川航：已盡救助責任	https://www.hk01.com/article/60211069?utm_source=01articlecopy&utm_medium=referral	離世	A
 2025-02-06	血洗瑞典校園10死 槍手飲彈自盡	https://news.ltn.com.tw/news/world/paper/1690298	離世	A
 2025-02-04	工聯會創始人、東江縱隊老戰士潘江偉病逝 下月初設靈及公祭	https://www.hk01.com/article/1099852?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2025-02-04	內地演員梁祐誠病逝 年僅27歲 知情人：最初以為是普通感冒	https://www.hk01.com/article/1099900?utm_source=01articlecopy&utm_medium=referral	自然離世	B
@@ -1392,14 +1356,12 @@ var DATA_DEPARTURE = `
 2024-12-17	康文署女工修樹期間升降台急墜墮下死亡 裁定死於意外	https://tw.news.yahoo.com/%E6%85%9F-%E6%B0%B4%E6%B3%A5%E8%BB%8A-%E9%81%95%E8%A6%8F%E5%B7%A6%E8%BD%89-%E8%BC%BE%E6%96%83%E6%A9%9F%E8%BB%8A%E7%94%B7-%E5%AE%B6%E5%B1%AC%E8%AA%8D%E5%B1%8D%E5%B4%A9%E6%BD%B0-104153940.html	自然離世	A
 2024-12-12	女歌手做泰式按摩竟半身癱瘓！躺1個月病逝 醫：按摩最怕這1招	https://health.tvbs.com.tw/nutrition/351628	自然離世	B
 2024-12-11	南韓戒嚴｜前防長金龍顯獄中企圖自殺 細節曝光：用內衣褲結繩	https://www.stheadline.com/realtime-world/3409689/%E5%8D%97%E9%9F%93%E6%88%92%E5%9A%B4%E5%89%8D%E9%98%B2%E9%95%B7%E9%87%91%E9%BE%8D%E9%A1%AF%E7%8D%84%E4%B8%AD%E4%BC%81%E5%9C%96%E8%87%AA%E6%AE%BA-%E7%B4%B0%E7%AF%80%E6%9B%9D%E5%85%89%E7%94%A8%E5%85%A7%E8%A1%A3%E8%A4%B2%E7%B5%90%E7%B9%A9	離世	C
-2024-12-09	新婚悲劇！夫婦度蜜月 23天後妻子突昏迷死亡 調查驚揭悲慘內情	https://www.hk01.com/article/1081893?utm_source=01articlecopy&utm_medium=referral	離世	B
 2024-12-08	死亡直擊！女演員婚前遊泰 崖邊做瑜伽遭浪捲走亡 救人男子失蹤	https://www.hk01.com/article/1082466?utm_source=01articlecopy&utm_medium=referral	自然離世	A
 2024-11-30	請病假2天驚變赤裸腐屍！40歲大叔伏屍宿舍 恐怖死亡現場照瘋傳	https://www.hk01.com/article/1079093?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2024-11-19	汪建民眼角膜重生！肺腺癌病逝遺愛人間 癌症末期也可以捐器官嗎？	https://health.tvbs.com.tw/nutrition/351047	自然離世	B
 2024-11-17	台中76小時6條人命 ！ 墜樓、落水還有陳屍摩鐵、公園長椅	https://news.ltn.com.tw/news/society/breakingnews/4865983	離世	A
 2024-11-08	大圍柏傲莊三期地盤男工被吊籠夾傷送院後死亡 據悉電梯突下墮	https://news.tvb.com/tc/816570-%E5%A4%A7%E5%9C%8D%E6%9F%8F%E5%82%B2%E8%8E%8A%E4%B8%89%E6%9C%9F%E5%9C%B0%E7%9B%A4%E7%94%B7%E5%B7%A5%E8%A2%AB%E5%90%8A%E7%B1%A0%E5%A4%BE%E5%82%B7%E9%80%81%E9%99%A2%E5%BE%8C%E6%AD%BB%E4%BA%A1%E6%93%9A%E6%82%89%E9%9B%BB%E6%A2%AF%E7%AA%81%E4%B8%8B%E5%A2%AE	離世	A
 2024-11-07	【悼念】記一代風雲人物香港第一代時尚教父唐書琨離世｜2024	https://theculturist.hk/2024/11/%E6%96%87%E5%8C%96%E8%80%85%E5%B0%88%E8%A8%AA/%E3%80%90%E6%82%BC%E5%BF%B5%E3%80%91%E8%A8%98%E4%B8%80%E4%BB%A3%E9%A2%A8%E9%9B%B2%E4%BA%BA%E7%89%A9%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%80%E4%BB%A3%E6%99%82%E5%B0%9A%E6%95%99%E7%88%B6%E5%94%90%E6%9B%B8/	自然離世	B
-2024-11-04	晶圓代工廠突發事故：2人死亡1人昏迷	https://hao.cnyes.com/post/117702	離世	A
 2024-10-18	台中中年男陳屍路旁 身分不明疑墜樓死亡	https://news.ltn.com.tw/news/society/breakingnews/4835011	離世	C
 2024-10-16	〈春天的花蕊〉作曲家詹宏達病逝 胞兄詹宏志慟別	https://ent.ltn.com.tw/news/breakingnews/4831964	自然離世	B
 2024-10-12	張友驊「跌倒撞到頭」導致離世？妻澄清： 不是致死的原因	https://tw.yahoo.com/news/%E5%BC%B5%E5%8F%8B%E9%A9%8A-%E8%B7%8C%E5%80%92%E6%92%9E%E5%88%B0%E9%A0%AD-%E5%B0%8E%E8%87%B4%E9%9B%A2%E4%B8%96-%E5%A6%BB%E6%BE%84%E6%B8%85-%E4%B8%8D%E6%98%AF%E8%87%B4%E6%AD%BB%E7%9A%84%E5%8E%9F%E5%9B%A0-091600325.html?.tsrc=bell-brknews	自然離世	B
@@ -1412,22 +1374,17 @@ var DATA_DEPARTURE = `
 2024-09-06	慘吞日本7蛋同晚 國足球迷｢桂二牛｣病逝 曾因輸波怒砸17寸電視	https://www.hk01.com/article/1055012?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2024-09-03	死亡直擊！淨身池當泳池 短褲男玩跳水秒斷頸斃命 同伴反應惹議	https://www.hk01.com/article/1032781?utm_source=01articlecopy&utm_medium=referral	離世	B
 2024-08-26	徐少強逝世 細30歲內地妻為亡夫辦身後事期間離世 田雞證實消息：心臟病走咗	https://www.pcmarket.com.hk/devb-4s-label/#google_vignette	自然離世	B
-2024-08-19	渣甸山畢拉山道單位女傭昏迷 現場證實死亡	https://www.hk01.com/article/1049160?utm_source=01articlecopy&utm_medium=referral	離世	A
 2024-08-15	10年死9親人，鄰居疑「詛咒之宅」揭夫妻謀殺後自殺真相 - 東張+	https://www.mytvsuper.com/tc/scoopplus/lifestyle/culture/13724818329673/10年死9親人-鄰居疑-詛咒之宅-揭夫妻謀殺後自殺真相	離世	A
 2024-08-05	巴黎奧運2024｜日本男排催淚時刻！帶著癌症離世戰友藤井直伸遺願征戰巴黎	https://www.tvb.com/olympichot-c/%E5%B7%B4%E9%BB%8E%E5%A5%A7%E9%81%8B2024-%E6%97%A5%E6%9C%AC%E7%94%B7%E6%8E%92%E5%82%AC%E6%B7%9A%E6%99%82%E5%88%BB-%E5%B8%B6%E8%91%97%E7%99%8C%E7%97%87%E9%9B%A2%E4%B8%96%E6%88%B0%E5%8F%8B%E8%97%A4%E4%BA%95%E7%9B%B4%E4%BC%B8%E9%81%BA%E9%A1%98%E5%BE%81%E6%88%B0%E5%B7%B4%E9%BB%8E-1002408	自然離世	B
-2024-07-30	油塘「观塘鱼类批发市场」对开海面 船长船上晕倒昏迷证实死亡 - 东张+	https://www.mytvsuper.com/sc/scoopplus/news/headlines/13647255955274/油塘-觀塘魚類批發市場-對開海面-船長船上暈倒昏迷證實死亡	離世	A
 2024-07-12	升中派位2024丨外婆病逝前許諾努力學習 循道男生年年考第1入男拔立志從醫	https://topick.hket.com/article/3790322/%E5%8D%87%E4%B8%AD%E6%B4%BE%E4%BD%8D2024%E4%B8%A8%E5%A4%96%E5%A9%86%E7%97%85%E9%80%9D%E5%89%8D%E8%A8%B1%E8%AB%BE%E5%8A%AA%E5%8A%9B%E5%AD%B8%E7%BF%92%20%20%20%E5%BE%AA%E9%81%93%E7%94%B7%E7%94%9F%E5%B9%B4%E5%B9%B4%E8%80%83%E7%AC%AC1%E5%85%A5%E7%94%B7%E6%8B%94%E7%AB%8B%E5%BF%97%E5%BE%9E%E9%86%AB	自然離世	B
 2024-07-09	升中派位2024｜呈分試受爸爸病逝打擊一度意志消沉 女生考入真光女書院望當醫生助病童	https://topick.hket.com/article/3788311/%E5%8D%87%E4%B8%AD%E6%B4%BE%E4%BD%8D2024%EF%BD%9C%E5%91%88%E5%88%86%E8%A9%A6%E5%8F%97%E7%88%B8%E7%88%B8%E7%97%85%E9%80%9D%E6%89%93%E6%93%8A%E4%B8%80%E5%BA%A6%E6%84%8F%E5%BF%97%E6%B6%88%E6%B2%89%E3%80%80%E5%A5%B3%E7%94%9F%E8%80%83%E5%85%A5%E7%9C%9F%E5%85%89%E5%A5%B3%E6%9B%B8%E9%99%A2%E6%9C%9B%E7%95%B6%E9%86%AB%E7%94%9F%E5%8A%A9%E7%97%85%E7%AB%A5	自然離世	B
 2024-07-04	獨家》才談資產回台受阻 台商盧泓傑中國收帳疑「被意外」死亡	https://news.ltn.com.tw/news/politics/breakingnews/4726417	自然離世	B
 2024-07-01	[日本] 聲演「小超人帕門／神奇小子1號」57年！配音員三輪勝惠病逝2024年藤子博物館短片料成角色最後演出	https://chinesedora.com/news/81583.htm	自然離世	B
 2024-06-28	蘇州「6‧24」日本人遇襲事件：胡友平見義勇為傷重離世	https://www.dw.com/zh-hant/%E8%98%87%E5%B7%9E624%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%81%87%E8%A5%B2%E4%BA%8B%E4%BB%B6%E8%83%A1%E5%8F%8B%E5%B9%B3%E8%A6%8B%E7%BE%A9%E5%8B%87%E7%82%BA%E5%82%B7%E9%87%8D%E9%9B%A2%E4%B8%96/a-69504943	自然離世	A
-2024-06-28	石壁監獄販毒男囚犯昏迷 送院死亡	https://www.stheadline.com/breaking-news/3358402/%E7%9F%B3%E5%A3%81%E7%9B%A3%E7%8D%84%E8%B2%A9%E6%AF%92%E7%94%B7%E5%9B%9A%E7%8A%AF%E6%98%8F%E8%BF%B7-%E9%80%81%E9%99%A2%E6%AD%BB%E4%BA%A1	離世	A
 2024-06-20	傳奇女演員Anouk Aimée離世，通過這20張照片懷念她的美麗人生	https://www.voguehk.com/zh/article/celebrity/anouk-aimee-died/	自然離世	B
-2024-05-23	12歲女生學校短跑倒地昏迷 留院20多天離世 家長質疑校醫不專業	https://www.hk01.com/article/1022143?utm_source=01articlecopy&utm_medium=referral	自然離世	A
 2024-05-21	英國國安法案37歲被告伏屍公園據報曾企圖自殺 警方將驗屍調查死因	https://news.google.com/rss/articles/CBMipANBVV95cUxPdGs1a1laTmpwUkd3OTdtM1ViMGFLNzJocklrM0dEWllUWWR4SDZWbkNrVFJOWXhfQWZHVWFqdnlUZDdkRzU3SG9rcC0zeEYxbTlhSlItZERSd2k2eEVxYXFneFF3ZEljYUVObVZ5ckxRMkNMUnZ0YlYwTXZweHRCekRBcTF1ZERPQjBWZTRFRUk1R3RtNDdyUWk0WEEwQXJZVU5PaFB0SU1Ld1I1WFVwZXVua2o0alY4MnRyR01QczF0Z3E5TVJ1QTBwdUNRZVFFRjEtaXhCeDZKUmxCWDlnQzBXVWN2VVdzM2pJTDdwbkhGODljc0s5VkltMTVZWDRocTVyY0V1YWpMUXVCZm1WWVoxT1hRNE92bzZWUVZFVnpvbkp0Mmg4UnV0c1ZCWms0MVlHY2tsRkFnUjlRdlE2bEZRc1RtcVlMUjA2OXRoTF9zamlWVzdseE1JX0d4V2p3Ul9GVzl2Q0pOMzRhQ0ZLc3BvcXlaemZQaFpqbkgyREhocXJPWjJDTnZ6WjJ5clI4ajdReElRTFRaaWpxTVgtM1JoaDA?oc=5	離世	A
 2024-05-14	《擁抱太陽的月亮》宋再臨、一世代Liam Payne逝世！2024我們還失去了這些名人	https://www.harpersbazaar.com/tw/celebrity/celebritynews/g60771302/who-died-in2024/	自然離世	B
 2024-05-02	突發丨澄碧邨爆竊匪墮下死亡 警方通緝兩名同黨	https://hkcd.com/content_app/2024-05/02/content_8635579.html	自然離世	A
-2024-04-22	香港50歲男遊客南非死亡 伊麗莎白港潛水時不省人事	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/1012467/%E9%A6%99%E6%B8%AF50%E6%AD%B2%E7%94%B7%E9%81%8A%E5%AE%A2%E5%8D%97%E9%9D%9E%E6%AD%BB%E4%BA%A1-%E4%BC%8A%E9%BA%97%E8%8E%8E%E7%99%BD%E6%B8%AF%E6%BD%9B%E6%B0%B4%E6%99%82%E4%B8%8D%E7%9C%81%E4%BA%BA%E4%BA%8B	自然離世	B
 2024-04-19	小學生上課期間死亡 遺屬控訴校方冷處理	https://hk.on.cc/hk/bkn/cnt/cnnews/20240419/bkn-20240419070301254-0419_00952_001.html	自然離世	A
 2024-04-03	港人在日疑染甲型链球菌死亡 衞生署按程序跟进遗体移送回港	https://news.tvb.com/sc/829518-港人在日疑染甲型链球菌死亡衞生署按程序跟进遗体移送回港	自然離世	B
 2024-03-26	廠商會名譽會長李秀恒病逝 從事鐘錶起家、近年攻地產擁數十億工商廈|香港經濟日報	https://ps.hket.com/article/3731741/%E5%BB%A0%E5%95%86%E6%9C%83%E5%90%8D%E8%AD%BD%E6%9C%83%E9%95%B7%E6%9D%8E%E7%A7%80%E6%81%92%E7%97%85%E9%80%9D%20%20%E5%BE%9E%E4%BA%8B%E9%90%98%E9%8C%B6%E8%B5%B7%E5%AE%B6%E3%80%81%E8%BF%91%E5%B9%B4%E6%94%BB%E5%9C%B0%E7%94%A2%E6%93%81%E6%95%B8%E5%8D%81%E5%84%84%E5%B7%A5%E5%95%86%E5%BB%88	自然離世	-
@@ -1442,10 +1399,8 @@ var DATA_DEPARTURE = `
 2024-01-23	美芝加哥連環槍擊案釀8死 兇嫌與警方槍戰後飲彈自盡	https://news.pts.org.tw/article/677725	離世	A
 2024-01-15	民進黨前主席施明德離世 主張台獨、組美麗島雜誌曾坐25年政治獄	https://www.hk01.com/article/981125?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2024-01-15	施明德病逝 陳文茜3000字悼「反貪腐運動家」全文曝光	https://news.ebc.net.tw/news/politics/400899	自然離世	B
-2024-01-06	沙田五旬男子昏迷住所房間內 救護員到場證實死亡	https://www.hk01.com/article/978488?utm_source=01articlecopy&utm_medium=referral	離世	A
 2024-01-02	趙少康因父母肺癌病逝承諾當選「重視空污」 國健署：空污非唯一風險因子	https://www.healthnews.com.tw/article/60391	自然離世	B
 2023-12-30	我們的2023｜工殤停不了 至少42工友離世 柯士甸道事故釀2死	https://www.hk01.com/%E7%AA%81%E7%99%BC/974857/2023%E5%A4%A7%E4%BA%8B%E5%9B%9E%E9%A1%A7-%E5%B7%A5%E6%AE%A4%E5%81%9C%E4%B8%8D%E4%BA%86-%E8%87%B3%E5%B0%9142%E5%B7%A5%E5%8F%8B%E9%9B%A2%E4%B8%96-%E6%9F%AF%E5%A3%AB%E7%94%B8%E9%81%93%E4%BA%8B%E6%95%85%E9%87%802%E6%AD%BB	自然離世	A
-2023-12-29	箱根驛傳｜19歲長跑好手急性腎衰竭逝世 大賽前與隊友天人永隔	https://www.hk01.com/article/975986?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2023-12-28	上半年145宗職業死亡意外 近3年新高	https://news.google.com/rss/articles/CBMiYkFVX3lxTE02d0U4dUNtR2dvZ3FQRVJlOUNhQk90WG9sRUZkdTRGalp3emc4N3FvdEYyRWkzUlVCX2VWZjI4Q3FtQWxtVW1pam9iRjF1MUhuNGdvT3E1SS12aG5aZW9kREdR?oc=5	自然離世	-
 2023-12-27	內地碩士生交友App應約粉嶺圍派對 被2男注射冰毒後死亡棄屍空地	https://www.hk01.com/%E7%AA%81%E7%99%BC/975158/%E5%85%A7%E5%9C%B0%E7%A2%A9%E5%A3%AB%E7%94%9F%E4%BA%A4%E5%8F%8Bapp%E6%87%89%E7%B4%84%E7%B2%89%E5%B6%BA%E5%9C%8D%E6%B4%BE%E5%B0%8D-%E8%A2%AB2%E7%94%B7%E6%B3%A8%E5%B0%84%E5%86%B0%E6%AF%92%E5%BE%8C%E6%AD%BB%E4%BA%A1%E6%A3%84%E5%B1%8D%E7%A9%BA%E5%9C%B0	自然離世	A
 2023-12-27	《寄生蟲》男主演車內死亡 此前陷吸毒風波	https://www.dw.com/zh-hant/%E5%AF%84%E7%94%9F%E8%9F%B2%E7%94%B7%E4%B8%BB%E6%BC%94%E8%BB%8A%E5%85%A7%E6%AD%BB%E4%BA%A1-%E6%AD%A4%E5%89%8D%E9%99%B7%E5%90%B8%E6%AF%92%E9%A2%A8%E6%B3%A2/a-67831507	自然離世	B
@@ -1463,8 +1418,8 @@ var DATA_DEPARTURE = `
 2023-10-04	赤柱監獄69歲還押漢因病留院 逾一個月後不治 將進行死因研訊	https://www.hk01.com/article/947890?utm_source=01articlecopy&utm_medium=referral	離世	-
 2023-10-02	謝淑薇父親謝子龍病逝生前栽培網壇謝家班| 運動	https://www.cna.com.tw/news/aspt/202310020081.aspx	自然離世	B
 2023-09-06	孫儷主演《理想之城》製片人梁亞斌離世 得年30歲 死因未公佈	https://www.hk01.com/article/938166?utm_source=01articlecopy&utm_medium=referral	自然離世	D
+2023-09-05	海口一男子駕車撞人砍人後 跳樓身亡（慎入）	https://www.ntdtv.com/b5/2023/09/04/a103779310.html	離世	-
 2023-09-01	63歲裝修工頭墮下工作台死亡 勞工局高度關注	https://www.exmoo.com/article/225189.html	自然離世	A
-2023-08-26	馬鞍山男子高處墮下 倒斃行車路	https://hk.on.cc/hk/bkn/cnt/news/20230826/bkn-20230826130355095-0826_00822_001.html	離世	A
 2023-08-15	雲林民宅疑遭縱火 21歲女及5歲男童死亡	https://news.ltn.com.tw/news/society/breakingnews/4396396	自然離世	A
 2023-08-15	前十大泰國富豪Osotspa第三代Petch驚傳離世 得年63歲	https://visionthai.net/article/petch-osathanugrah-pass-away-2023/	自然離世	D
 2023-08-14	日本富山：一名 86歲老人在農場公路上死亡，死因是中暑	http://www.jpchinapress.com/static/content/SH/2023-08-14/1140736698687700992.html	自然離世	A
@@ -1472,18 +1427,17 @@ var DATA_DEPARTURE = `
 2023-07-31	狂飆年代的造像者：台灣攝影家潘小俠（1954-2023）逝世	https://artouch.com/art-news/content-113304.html	自然離世	B
 2023-07-28	秘不發喪 從火箭軍副司令吳國華神秘死亡說起	https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20230727-%E7%A7%98%E4%B8%8D%E7%99%BC%E5%96%AA-%E5%BE%9E%E7%81%AB%E7%AE%AD%E8%BB%8D%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%90%B3%E5%9C%8B%E8%8F%AF%E7%A5%9E%E7%A7%98%E6%AD%BB%E4%BA%A1%E8%AA%AA%E8%B5%B7	自然離世	B
 2023-07-06	CoCo 李玟離世｜永遠的華語天后：親愛的，勇敢去做真實的自己	https://womany.net/read/article/32019	自然離世	B
-2023-06-03	本港最少四人中暑其中兩死 勞工處調查確定工人暈倒後離世原因	https://news.tvb.com/tc/847110-本港最少四人中暑其中兩死勞工處調查確定工人暈倒後離世原因	離世	A
 2023-05-29	24歲研究生扭傷腿後離奇死亡 捐4器官 被指疑點重重	https://www.ntdtv.com/b5/2023/05/28/a103721609.html	自然離世	B
 2023-05-11	重慶姐弟被扔下樓死亡案 生父與情婦二審死刑	https://www.ntdtv.com/b5/2023/05/11/a103709321.html	自然離世	A
 2023-05-06	葵芳閣謀殺案潛逃日本疑犯自殺亡 手機留遺書 指紋證身份	https://hk.on.cc/hk/bkn/cnt/news/20230506/bkn-20230506100051882-0506_00822_001.html	離世	A
 2023-05-06	乙明邨六旬保安員死亡 初步調查指曾與男子因停車場繳費問題爭執	https://news.tvb.com/tc/848722-%E4%B9%99%E6%98%8E%E9%82%A8%E5%85%AD%E6%97%AC%E4%BF%9D%E5%AE%89%E5%93%A1%E6%AD%BB%E4%BA%A1%E5%88%9D%E6%AD%A5%E8%AA%BF%E6%9F%A5%E6%8C%87%E6%9B%BE%E8%88%87%E7%94%B7%E5%AD%90%E5%9B%A0%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%B9%B3%E8%B2%BB%E5%95%8F%E9%A1%8C%E7%88%AD%E5%9F%B7	自然離世	A
 2023-04-18	返照時間的人：當代藝術家王雅慧離世，藝術界眾人不捨緬懷	https://artouch.com/people/content-103550.html	自然離世	B
+2023-03-22	男子旅遊竟遇上死亡意外！ 坐長椅休息後翻無人發現窒息身亡	https://tw.news.yahoo.com/男子旅遊竟遇上死亡意外-坐長椅休息後翻無人發現窒息身亡-114529025.html	離世	-
 2023-03-20	打給媽媽「我不舒服…」竟成最後通話！他咳完再也沒醒來 躺床握手機死亡	https://tw.news.yahoo.com/%E6%89%93%E7%B5%A6%E5%AA%BD%E5%AA%BD-%E6%88%91%E4%B8%8D%E8%88%92%E6%9C%8D-%E7%AB%9F%E6%88%90%E6%9C%80%E5%BE%8C%E9%80%9A%E8%A9%B1-%E4%BB%96%E5%92%B3%E5%AE%8C%E5%86%8D%E4%B9%9F%E6%B2%92%E9%86%92%E4%BE%86-%E8%BA%BA%E5%BA%8A%E6%8F%A1%E6%89%8B%E6%A9%9F%E6%AD%BB%E4%BA%A1-032218238.html	自然離世	B
 2023-03-19	學生訓練死亡 大學賠1400萬美元和解	https://hk.on.cc/hk/bkn/cnt/intnews/20230319/bkn-20230319213022848-0319_00992_001.html	自然離世	A
 2023-03-18	男子露宿荔枝角花園 保安巡經揭發死亡	https://www.stheadline.com/breaking-news/3210767/%E7%94%B7%E5%AD%90%E9%9C%B2%E5%AE%BF%E8%8D%94%E6%9E%9D%E8%A7%92%E8%8A%B1%E5%9C%92-%E4%BF%9D%E5%AE%89%E5%B7%A1%E7%B6%93%E6%8F%AD%E7%99%BC%E6%AD%BB%E4%BA%A1	自然離世	A
 2023-03-10	心酸！3歲女不知母病逝 見生前婚照開心喊媽媽 1童心舉動更催淚	https://www.hk01.com/article/874972?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2023-03-10	36歲男性出現陽痿、胸悶，心衰後死亡，醫生：每個人其實都會出現	https://yes-news.com/yespick/748064/36%E6%AD%B2%E7%94%B7%E6%80%A7%E5%87%BA%E7%8F%BE%E9%99%BD%E7%97%BF%E8%83%B8%E6%82%B6%E5%BF%83%E8%A1%B0%E5%BE%8C%E6%AD%BB%E4%BA%A1%E9%86%AB%E7%94%9F-%E6%AF%8F%E5%80%8B%E4%BA%BA%E5%85%B6%E5%AF%A6%E9%83%BD%E6%9C%83%E5%87%BA%E7%8F%BE	自然離世	B
-2023-03-09	屯門老翁高處墮下 當場不治	https://hk.on.cc/hk/bkn/cnt/news/20230309/bkn-20230309073851582-0309_00822_001.html	離世	-
 2023-03-04	幾周前中風 家人正式宣佈湯沙士摩亞離世	https://hk.on.cc/hk/bkn/cnt/entertainment/20230304/bkn-20230304132244448-0304_00862_001.html	自然離世	B
 2023-03-04	「醉」後離奇死亡！ 男牽車遭壓7小時疑失溫	https://news.tvbs.com.tw/local/2058820	自然離世	B
 2023-03-01	國家公園草創推手王鑫教授辭世 營建署哀悼	https://money.udn.com/money/story/5621/6885268?from=edn_newest_index	自然離世	A
@@ -1493,10 +1447,9 @@ var DATA_DEPARTURE = `
 2023-02-07	雙親先後在家離世 女兒任由遺體腐爛	https://hk.on.cc/hk/bkn/cnt/intnews/20230207/bkn-20230207180647380-0207_00992_001.html	自然離世	B
 2023-01-30	馬鞍山城大學生宿舍地盤 男工天秤墮下死亡	https://hk.on.cc/hk/bkn/cnt/news/20230130/bkn-20230130181225048-0130_00822_001.html	離世	A
 2023-01-29	2女投資糾紛 一女疑先殺人後再畏罪跳樓自殺	https://www.cdns.com.tw/articles/738263	離世	A
-2023-01-18	坐在一米深泳池內突昏厥 七旬翁「下沉又浮起」送醫死亡	https://news.tvbs.com.tw/local/2021287	離世	A
+2023-01-23	美國蒙特瑞公園市槍擊案致10人死亡 72歲亞裔疑犯自戕身亡	https://www.bbc.com/zhongwen/trad/world-64369652	離世	-
 2023-01-17	悲痛新年！鄧紫棋淚訴外公離世 「我愛你，我們在天國相聚」	https://news.tvbs.com.tw/entertainment/2020408	自然離世	B
 2023-01-16	11寶媽肺炎逝世！子女最大20歲 老麼才剛滿月│TVBS新聞網	https://news.tvbs.com.tw/life/2019623	自然離世	B
-2023-01-15	紅磡邨女子高處墮下 壓毀七人車當場不治	https://hk.on.cc/hk/bkn/cnt/news/20230115/bkn-20230115092137451-0115_00822_001.html	離世	-
 2023-01-12	上海交大58歲教授離世 傳染疫轉陰後突然不適	https://hk.epochtimes.com/news/2023-01-12/76164241	離世	B
 2023-01-12	「傻子瓜子」創始人病逝 被譽為中國第一商販 鄧小平曾三度提及	https://www.hk01.com/article/856614?utm_source=01articlecopy&utm_medium=referral	自然離世	B
 2023-01-11	涉鄧桂思肝衰竭死亡事件 2醫生被控誤殺下週一提堂	https://hk.on.cc/hk/bkn/cnt/news/20230111/bkn-20230111001852591-0111_00822_001.html	自然離世	A
@@ -1578,6 +1531,7 @@ var DATA_DEPARTURE = `
 2022-11-08	淡水警罹癌不敵病魔離世 同僚錯愕不捨	https://tw.news.yahoo.com/%E6%B7%A1%E6%B0%B4%E8%AD%A6%E7%BD%B9%E7%99%8C%E4%B8%8D%E6%95%B5%E7%97%85%E9%AD%94%E9%9B%A2%E4%B8%96-%E5%90%8C%E5%83%9A%E9%8C%AF%E6%84%95%E4%B8%8D%E6%8D%A8-030234159.html	自然離世	B
 2022-11-03	丹素華盛頓新片有員工死亡 警方突擊檢查搜出毒品	https://hk.on.cc/hk/bkn/cnt/entertainment/20221103/bkn-20221103110133427-1103_00862_001.html	自然離世	A
 2022-11-02	印度吊橋坍塌事故：一個旅遊景點吊橋如何瞬間成為死亡之橋	https://www.bbc.com/zhongwen/trad/world-63483451	自然離世	A
+2022-10-27	憂鬱症發作？35歲華女法拉盛跳樓身亡	https://tw.news.yahoo.com/憂鬱症發作-35歲華女法拉盛跳樓身亡-063008743.html	離世	-
 2022-10-27	(疑遭5人虐待至暈迷 4歲男童搶救3天逝世)	https://guangming.com.my/%E7%96%91%E7%99%B2%E7%99%87%E7%99%BC%E4%BD%9C-11%E6%AD%B2%E5%A5%B3%E7%94%9F%E7%8C%9D%E6%AD%BB	自然離世	B
 2022-10-25	女子自殺殉情 陳屍出租私家車後座	https://hk.on.cc/hk/bkn/cnt/cnnews/20221025/bkn-20221025030325144-1025_00952_001.html	離世	A
 2022-10-23	灣仔商場保安員巡樓失足 四樓墮下傷重死亡	https://www.hk01.com/article/828295?utm_source=01articlecopy&utm_medium=referral	自然離世	A
@@ -1623,21 +1577,21 @@ var DATA_DEPARTURE = `
 2022-04-12	悲痛！著名表演藝術家方輝逝世，一個月前她因跌倒和骨折住院	https://www.sohu.com/a/613442436_121127676	自然離世	B
 2022-03-31	《與神同行》金香起新戲爆意外 製作人當場死亡	https://ent.ltn.com.tw/news/breakingnews/3878154	自然離世	A
 2022-03-15	影音／勇抗胃癌3年 徐華鳳病逝	https://www.uho.com.tw/article-14011.html	自然離世	B
-2022-03-11	大口環道男子疑由墳場墮下 當場不治	https://hd.stheadline.com/news/realtime/hk/2383591/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E5%A4%A7%E5%8F%A3%E7%92%B0%E9%81%93%E7%94%B7%E5%AD%90%E7%96%91%E7%94%B1%E5%A2%B3%E5%A0%B4%E5%A2%AE%E4%B8%8B-%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB	離世	-
 2022-02-15	「海董」林崑海今過世 三立證實：安詳離世	https://ent.ltn.com.tw/news/breakingnews/3830047	自然離世	B
 2022-02-12	五屆冠軍練馬師簡炳墀家中病逝 將按原居民傳統土葬	https://news.tvb.com/tc/878622-%E4%BA%94%E5%B1%86%E5%86%A0%E8%BB%8D%E7%B7%B4%E9%A6%AC%E5%B8%AB%E7%B0%A1%E7%82%B3%E5%A2%80%E5%AE%B6%E4%B8%AD%E7%97%85%E9%80%9D%E5%B0%87%E6%8C%89%E5%8E%9F%E5%B1%85%E6%B0%91%E5%82%B3%E7%B5%B1%E5%9C%9F%E8%91%AC	自然離世	B
 2022-01-28	蔡頭肝癌病逝	https://star.setn.com/projectnews/8809?utm_campaign=projectid_8809	自然離世	B
 2022-01-24	31歲仔疑焚宅跳樓 累母葬身火海 逾250住戶疏散 警循自殺及誤殺案跟進	https://www.wenweipo.com/epaper/view/newsDetail/1485314269825339392.html	離世	A
+2021-11-30	大陸經濟學家宋清輝12歲兒子跳樓身亡	https://www.epochtimes.com/b5/21/11/30/n13407266.htm	離世	-
 2021-11-19	「劉阿斗」李鐵病亡 《三國演義》已有20多人離世	https://www.ntdtv.com/b5/2021/11/19/a103272569.html	自然離世	B
 2021-10-15	嘉市鐵路高架工人墜地死亡 職安署今現勘調查	https://news.google.com/rss/articles/CBMiaEFVX3lxTE15R3NFRXpzd1JhOUZEc3JPTklsNmRoNW9SRFdWQTJQMm1pWktjZUozUF9FTWtlV1E5MnptZ3IyOFFGY2x6cG5VYVYzVUJ2aUFpSzY0TUdpLU5oOWc4blRibmU1TXp2QmNG0gFuQVVfeXFMUEhLUGs1aElid3BhR2c2RnRQWUc1cDNwT1JwWWRBTmlBak8ydHdrSWF6b3M0VDlqem9RU01LTk01M0pDQ0diS3lseEpqZHN4djFpcV9oeFBTNy1wQzVCRXJTaUZOemNzWnFPbVhlWUE?oc=5	離世	A
 2021-09-11	《紅樓夢》又有一人離世 「賈寶玉」發文悼念	https://www.ntdtv.com/b5/2021/09/11/a103213504.html	自然離世	B
 2021-09-08	尚保羅貝蒙多離世 阿倫狄龍深切哀悼	https://www.wenweipo.com/epaper/view/newsDetail/1435296382897491968.html	自然離世	B
-2021-09-07	荃灣眾安街男子高處墮下 送院後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/673571/%E8%8D%83%E7%81%A3%E7%9C%BE%E5%AE%89%E8%A1%97%E7%94%B7%E5%AD%90%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B-%E9%80%81%E9%99%A2%E5%BE%8C%E4%B8%8D%E6%B2%BB	離世	-
 2021-09-01	【禁聞】文革要案受害者卞仲耘夫王晶垚 抱憾離世	https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wQkNfZ1loVk85TTRCSEFfRTJpcjU4Vmp0dnpRSzB4d1Y0UFN2bEFwa2FnVW1YUTZJSVBSbjdZUXpILV9FYmliVWxVSmE1UVFDal9BWDc0LVB2VEhsckRDTdIBZkFVX3lxTE1GZHBkZWlsN0xUTFVBWENkcHlnUUZYZ21IdU94YnZqZW56ZjdPbERPcFZQVmNXR2dfeURsQW9PZWpHV0tka2FUTy16U0dIUm8xX2FFVVJJXzktSkh4VXduTjZBVlhXZw?oc=5	自然離世	B
 2021-08-25	自強號「銅鑼－三義」死亡事故！台鐵：15時35分恢復雙向通行| 生活	https://newtalk.tw/news/view/2021-08-25/626276	自然離世	A
 2021-08-23	拉丁舞老師抽脂後死亡涉案女西醫誤殺罪成 下月三日判刑	https://news.tvb.com/tc/891681-%E6%8B%89%E4%B8%81%E8%88%9E%E8%80%81%E5%B8%AB%E6%8A%BD%E8%84%82%E5%BE%8C%E6%AD%BB%E4%BA%A1%E6%B6%89%E6%A1%88%E5%A5%B3%E8%A5%BF%E9%86%AB%E8%AA%A4%E6%AE%BA%E7%BD%AA%E6%88%90%E4%B8%8B%E6%9C%88%E4%B8%89%E6%97%A5%E5%88%A4%E5%88%91	自然離世	A
 2021-08-07	硫磺島升星條旗成二戰經典 美陸戰隊軍官102歲離世	https://news.ltn.com.tw/news/world/breakingnews/3630560	自然離世	B
 2021-06-17	曾以「天天開心」走紅 76歲長青心律不整病逝	https://finance.ftvnews.com.tw/news/detail/2021616L23M1	自然離世	B
+2021-06-14	安徽高二女生留5封遺書跳樓身亡 生前曾被老師批評	https://www.soundofhope.org/post/515576?lang=b5	離世	-
 2021-05-25	有片 | 東涌滿東邨發生雙屍命案 警暫列兇殺及自殺案	https://news.google.com/rss/articles/CBMibEFVX3lxTE9TOXhKdTVtc1hDVW1kNXVCaVhyX0RRZ3ItZ1MyRW94cy1ZekNiMjc2b040M1pHVW00YVlkQlBNSjVCWFFPSzVteU0xRktEeE10MDgtVG4zNXRXclBYUEpTSjZSQ1VEYURYemgwNQ?oc=5	離世	A
 2021-05-23	死亡馬拉松》一場比賽竟導致21名選手活活凍死！中國官方：極端天氣肇禍 | 國際中心 | 新聞	https://www.storm.mg/article/3698091	自然離世	A
 2021-05-20	《烙印戰士》日本漫畫家三浦建太郎病逝 代表作《王狼傳》成經典	https://www.hk01.com/%E8%97%9D%E6%96%87/627355/%E7%83%99%E5%8D%B0%E6%88%B0%E5%A3%AB-%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%95%AB%E5%AE%B6%E4%B8%89%E6%B5%A6%E5%BB%BA%E5%A4%AA%E9%83%8E%E7%97%85%E9%80%9D-%E4%BB%A3%E8%A1%A8%E4%BD%9C-%E7%8E%8B%E7%8B%BC%E5%82%B3-%E6%88%90%E7%B6%93%E5%85%B8	自然離世	B
@@ -1676,8 +1630,9 @@ var DATA_DEPARTURE = `
 2020-07-31	李登輝逝世1923～2020	https://www.chinatimes.com/newspapers/20200731000545-260118	自然離世	B
 2020-07-30	李登輝辭世》921大地震發布緊急命令災區民眾仍感念- 政治	https://news.ltn.com.tw/news/politics/breakingnews/3245143	自然離世	B
 2020-06-27	[現場]消防︰啟德有地盤工人遭重約十噸工字鐵擊中 當場死亡	https://news.tvb.com/en/923248-%E7%8F%BE%E5%A0%B4%E6%B6%88%E9%98%B2%E5%95%9F%E5%BE%B7%E6%9C%89%E5%9C%B0%E7%9B%A4%E5%B7%A5%E4%BA%BA%E9%81%AD%E9%87%8D%E7%B4%84%E5%8D%81%E5%99%B8%E5%B7%A5%E5%AD%97%E9%90%B5%E6%93%8A%E4%B8%AD%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1	離世	A
+2020-06-23	疑患病兼情緒困擾 中年漢跳樓身亡	https://www.stheadline.com/article/2033555/%E7%96%91%E6%82%A3%E7%97%85%E5%85%BC%E6%83%85%E7%B7%92%E5%9B%B0%E6%93%BE-%E4%B8%AD%E5%B9%B4%E6%BC%A2%E8%B7%B3%E6%A8%93%E8%BA%AB%E4%BA%A1	離世	-
 2020-06-19	Hans Mezger離世重溫傳奇工程師作品	https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTkVfNTFabk92V3Q1LXVfRjZUNk5Fd25GcEp2aEN4eHF3bjdkOW1fMWx4dFV6VmN5OV81OV96T0pKa2xsTWVNYUNrbHF2bDY3N0prb001WEhGbFJ5b2tkaUZtaW1FNVozM2p1RC1oSFpyeENzaFo5R1VvZE9UZHdtVUtZbDNGalFTVDdFNzl6cU1SUGhDUzJyV1RIZlFQOExKOFBKR2ViNG9TTUpPUFRQMng3TjRDTmhsVENKRXBpbi1ReEdzLU5ZaXZGNDdsT0FYcTNSdWkwUXMwRktVVEw3T1dn?oc=5	自然離世	B
-2020-06-14	秀茂坪男子電梯樓墮下 送院搶救不治	https://www.stheadline.com/article/2031262/%E7%A7%80%E8%8C%82%E5%9D%AA%E7%94%B7%E5%AD%90%E9%9B%BB%E6%A2%AF%E6%A8%93%E5%A2%AE%E4%B8%8B-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB	離世	B
+2020-06-14	秀茂坪男子電梯樓墮下 送院搶救不治	https://www.stheadline.com/article/2031262/%E7%A7%80%E8%8C%82%E5%9D%AA%E7%94%B7%E5%AD%90%E9%9B%BB%E6%A2%AF%E6%A8%93%E5%A2%AE%E4%B8%8B-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB	自然離世	B
 2020-06-04	【長話短說】加度素37歲胞妹因病離世	https://news.google.com/rss/articles/CBMiY0FVX3lxTE56NFZQYzFSV2p0TG54eE9rVE1QMEo4MXVrUmFiNVRfeHo5NG5NU1pPRjlnV09vTUJQVW5oN1lLWExIbWdqRkhVQ2VobVllaklrZ013SmpDWmJRd3lqd1J4ZmFQbw?oc=5	自然離世	B
 2020-04-09	越南移工絞入織布機死亡 事故原因.責任待查	https://news.pts.org.tw/article/473896	自然離世	C
 2020-03-25	壓男嬰窒息死亡首開庭 保母想輕生、父母堅控殺人	https://news.ltn.com.tw/news/society/breakingnews/3111821	離世	A
@@ -1724,17 +1679,16 @@ var DATA_DEPARTURE = `
 2019-06-18	馬鞍山錦泰苑夫婦墮斃 警列謀殺及自殺案	https://hk.on.cc/hk/bkn/cnt/news/20190618/bkn-20190618175600704-0618_00822_001.html	離世	A
 2019-06-12	開國上將王震之子 78歲王軍離世	https://orientaldaily.on.cc/cnt/china_world/20190612/00178_005.html	自然離世	B
 2019-06-04	李兆基病逝遺孀憂喪禮費用	https://orientaldaily.on.cc/cnt/entertainment/20190604/mobile/odn-20190604-0604_00282_035.html	自然離世	B
-2019-06-03	觀塘apm商場有女子墮下受傷 送院搶救後不治	https://news.hket.com/article/2367919/%E8%A7%80%E5%A1%98apm%E5%95%86%E5%A0%B4%E6%9C%89%E5%A5%B3%E5%AD%90%E5%A2%AE%E4%B8%8B%E5%8F%97%E5%82%B7%E3%80%80%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	離世	-
 2019-06-03	李兆基肝癌病逝 妻陪走最後一程	https://orientaldaily.on.cc/cnt/entertainment/20190603/mobile/odn-20190603-0603_00282_009.html	自然離世	B
 2019-05-26	名設計師外遇害小三尋短 為瑪莎拉蒂跑車再告妻子	https://news.google.com/rss/articles/CBMiaEFVX3lxTE82Y1RraWFDRGZ0TFVfZGIzT0I0WDl2dkNGXzZyeEZvLU9HbTlva3h6bTJnVTlBWUZPVDJZR0NHcmhRd3RJYTNwTG1uTHlBdG9taVROYmp6S0VpbDl3emJ0UzBNVUE3c0E10gFuQVVfeXFMUHE3aGtLczhrLThLSzktUVBBNjFZQkdRNG5TdFRYQW9OdGNYbVRuSUQyUzBnb281ajdmaGxTWU8weEk0dVFod0NITy1oa05NY01MSklqT2dlMk9rTEY3MmVxSWRNeXBjd0ZPaDR1dXc?oc=5	離世	A
 2019-05-21	13年冤獄迫害命危 法輪功學員張洪偉離世	https://www.ntdtv.com/b5/2019/05/21/a102583311.html	自然離世	D
 2019-05-11	轎車側撞「U型包住」電線桿 駕駛受困當場死亡	https://news.ltn.com.tw/news/society/breakingnews/2787273	自然離世	A
+2019-04-24	泰山姐弟命案／父疑行兇後跳海亡 警探：真相恐更加難查	https://www.setn.com/news/531699	離世	A
 2019-04-16	男子大鬧醫院被保全員與員警壓制後死亡 檢：濫用毒品所致	https://news.ltn.com.tw/news/Taoyuan/breakingnews/2760425	自然離世	A
 2019-04-05	【梧桐寨死亡自拍】友人失蹤見直升機知不妙 三年四山友拍攝命喪	https://www.hk01.com/%E7%AA%81%E7%99%BC/314788/%E6%A2%A7%E6%A1%90%E5%AF%A8%E6%AD%BB%E4%BA%A1%E8%87%AA%E6%8B%8D-%E5%8F%8B%E4%BA%BA%E5%A4%B1%E8%B9%A4%E8%A6%8B%E7%9B%B4%E5%8D%87%E6%A9%9F%E7%9F%A5%E4%B8%8D%E5%A6%99-%E4%B8%89%E5%B9%B4%E5%9B%9B%E5%B1%B1%E5%8F%8B%E6%8B%8D%E6%94%9D%E5%91%BD%E5%96%AA	自然離世	A
 2019-04-01	港區旗區徽設計者何弢逝世	http://paper.wenweipo.com/2019/04/01/HK1904010033.htm	自然離世	B
 2019-03-29	【墮大峽谷死亡】澳門男隨康泰團遊大峽谷 拍照失足墮千呎崖底	https://www.hk01.com/%E7%AA%81%E7%99%BC/311916/%E5%A2%AE%E5%A4%A7%E5%B3%BD%E8%B0%B7%E6%AD%BB%E4%BA%A1-%E6%BE%B3%E9%96%80%E7%94%B7%E9%9A%A8%E5%BA%B7%E6%B3%B0%E5%9C%98%E9%81%8A%E5%A4%A7%E5%B3%BD%E8%B0%B7-%E6%8B%8D%E7%85%A7%E5%A4%B1%E8%B6%B3%E5%A2%AE%E5%8D%83%E5%91%8E%E5%B4%96%E5%BA%95	自然離世	A
 2019-03-20	飛魚杜敬謙 遽然離世	https://www.hkej.com/dailynews/culture/article/2085384/%25E9%25A3%259B%25E9%25AD%259A%25E6%259D%259C%25E6%2595%25AC%25E8%25AC%2599-%25E9%2581%25BD%25E7%2584%25B6%25E9%259B%25A2%25E4%25B8%2596	自然離世	B
-2019-03-20	進暗黑圈僅8個月... 19歲AV女優嗑藥昏迷11天離世	https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqNV9NS1dSUXphcmMyWW5KYWcybjU0X3NieXo4RlF3WnlZbVE2MTN2MDBEaXVReU0yYTdkSG5mT3BpVE9pNlNTaC1FTm5TbDFXcXNPN1JtVS0tOWRT0gFiQVVfeXFMTmQtV2dwSmExVG0yZVBrSEo2aVhNSXJuOUt1UFVHTm5qSnQ2QnFlMHNRRXQyLTI0Vl84Y0Q1RnFoRFdaTEo4ZkxDbWI5amF2X2MxWGVyZnVxcjY3cHRxcHp2Y1E?oc=5	自然離世	B
 2019-03-20	杜敬謙壯志未酬 溘然離世	http://paper.wenweipo.com/2019/03/20/HK1903200019.htm	自然離世	B
 2019-03-19	【杜敬謙逝世】死因待查 醫生指運動量突增可誘發隱性心臟病	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/307922/%E6%9D%9C%E6%95%AC%E8%AC%99%E9%80%9D%E4%B8%96-%E6%AD%BB%E5%9B%A0%E5%BE%85%E6%9F%A5-%E9%86%AB%E7%94%9F%E6%8C%87%E9%81%8B%E5%8B%95%E9%87%8F%E7%AA%81%E5%A2%9E%E5%8F%AF%E8%AA%98%E7%99%BC%E9%9A%B1%E6%80%A7%E5%BF%83%E8%87%9F%E7%97%85	自然離世	C
 2019-03-14	巴西校園槍擊屠殺8死！2槍手飲彈自盡	https://finance.ftvnews.com.tw/news/detail/2019314I06M1	離世	A
@@ -1751,6 +1705,7 @@ var DATA_DEPARTURE = `
 2019-01-22	女童加油站死亡之謎檢方：未下車但有可能把玩噴槍- 社會	https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FOV9IeUlfNmJsXzR6UEUwUDlGM2xSUFlBVGtDbTF1bW4zT0lZU3JleVdPUEptVXN4V0RSTGxneUZPOFhJeXlaVEhOOFhTSzRRV0V2VFdOZFJ6THJvMjI3QkVhVnY2TjR4?oc=5	自然離世	A
 2019-01-21	「比基尼登山客」墜谷意外 中午尋獲確定死亡	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBydHJkN1V6YklPb1RMbUJYeFZSeTRyZkdnVXdjem1pZnBTSlV6cWQ3VDJsYW5lNTJYcHlZNFJkSzhwV196bV8tdWRQZW9MMnFyNGUzWlREZ3JjX0J2Zl96TWVTZG5NV1Z00gFuQVVfeXFMUG9MaWs4TThIak95aTJZbVNzUG1EMmU4WVZhbV81dWdGbWI0Z21LS2xGOExsY2JmaDQ4eUhaYWJKMnVhREVYT1JwN2xvM0dNaEFFSmF4cHRjOEVhdGQ4V3phbHlUQW5waGlwZ1RTQmc?oc=5	自然離世	A
 2019-01-20	菲華裔首富施至成逝世	http://paper.wenweipo.com/2019/01/20/GJ1901200007.htm	自然離世	B
+2019-01-16	台灣男子在菲律賓舉槍自盡身亡原因待查| 國際	https://www.setn.com/news/485787	離世	C
 2019-01-14	俄警宣佈老婦死亡 殮房「翻生」後仍不治 醫生：直送醫院或有救	https://www.hk01.com/%E7%86%B1%E7%88%86%E8%A9%B1%E9%A1%8C/282501/%E4%BF%84%E8%AD%A6%E5%AE%A3%E4%BD%88%E8%80%81%E5%A9%A6%E6%AD%BB%E4%BA%A1-%E6%AE%AE%E6%88%BF-%E7%BF%BB%E7%94%9F-%E5%BE%8C%E4%BB%8D%E4%B8%8D%E6%B2%BB-%E9%86%AB%E7%94%9F-%E7%9B%B4%E9%80%81%E9%86%AB%E9%99%A2%E6%88%96%E6%9C%89%E6%95%91	離世	-
 2019-01-09	杜月笙女兒杜美霞 台灣病逝	https://orientaldaily.on.cc/cnt/china_world/20190109/mobile/odn-20190109-0109_00178_022.html	自然離世	B
 2019-01-08	男陳屍汽車旅館 套塑膠袋包裹如蠶繭輕生	https://finance.ftvnews.com.tw/news/detail/2019108S11M1	離世	A
@@ -1761,6 +1716,7 @@ var DATA_DEPARTURE = `
 2017-05-29	美國海軍跳傘表演意外1海豹隊員死亡| 國際	https://www.setn.com/news/257221	自然離世	A
 2017-04-20	「Facebook槍手」飲彈自盡	https://www.dw.com/zh-hant/facebook%E6%A7%8D%E6%89%8B%E9%A3%B2%E5%BD%88%E8%87%AA%E7%9B%A1/video-38489371	離世	B
 2016-12-22	20歲男子涉協助及教唆他人自殺 被控誤殺罪	https://news.tvb.com/en/1023107-20歲男子涉協助及教唆他人自殺被控誤殺罪	離世	A
+2016-12-13	男子投宿汽車旅館 舉槍自盡身亡	https://www.chinatimes.com/realtimenews/20161213003602-260402	離世	A
 2015-12-06	涉槍擊主持人夫婦疑兇佛館飲彈自盡- 大公報	https://www.tkww.hk/epaper/view/newsDetail/1363788100848979968.html	離世	A
 2015-05-09	勞永樂病逝 醫學會感激其貢獻高永文感難過	https://news.tvb.com/sc/1063555-勞永樂病逝醫學會感激其貢獻高永文感難過	自然離世	A
 2014-06-01	啟晴邨槍擊案 警方指疑兇疑吞槍自殺	https://news.tvb.com/sc/1089881-啟晴邨槍擊案警方指疑兇疑吞槍自殺	離世	A
