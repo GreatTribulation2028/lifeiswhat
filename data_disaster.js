@@ -1,4 +1,4 @@
-// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 459 條
+// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 458 條
 var DATA_DISASTER = `
 2026-11-20	70級巨浪襲擊！楊子儀出外景遇「奪命海嘯」絕望寫遺書	https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhUUp4dkZncXpaZVhHN25tYlR5a2FZbzloM3RPbzAwN3hjNWE5TzJPTWt5M2J2QUNwT2NLV2RvRDJCbG9MR1lZ?oc=5	其他災害	-
 2026-11-17	大地震週期恐全算錯！中山大學分析深海沉積物 揭古地震「時間差」	https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YV0g5NDZReWtUNlh6YkRXRU5DeUlNQ3lPNHRkVjRHODIyNGZ4bGRzWW5neFNjWHVka2JWWm5hMGNDNFA1SmRCbGZ0aFlQMTZoV3NYRl9oZ0lPZjVkaFVv?oc=5	地震	-
@@ -129,7 +129,6 @@ var DATA_DISASTER = `
 2026-09-29	俄堪察加半島沿海多次地震 當局發海嘯預警	https://www.tdm.com.mo/en/news-detail/1213035?lang=zh&isvideo=&category=all&shortvideo=0	地震	A
 2026-09-29	三颶風齊聚太平洋強烈聖嬰助長極端天氣- 南加社區- 新聞	https://www.chinesedaily.com/article/detail-703795.html	颱風風暴	B
 2026-09-29	【快訊／找到了！阿蘇火山口「發現3人」 疑直升機罹難者】 在阿蘇火山口「發現3人」... (#史蒂芬周)	https://www.facebook.com/ETtoday/posts/快訊找到了阿蘇火山口發現3人-疑直升機罹難者在阿蘇火山口發現3人-史蒂芬周/1357045896454492/	其他災害	A
-2026-09-29	am730. . 好彩冇人受傷 #危地馬拉 #火山爆發 #富埃戈火山 #am730	https://www.facebook.com/am730hk/videos/好彩冇人受傷危地馬拉-火山爆發-富埃戈火山-am730/3357522624451725/	其他災害	B
 2026-09-29	Coquihalla 公路發生貨櫃車意外並引發山火	https://am1320.com/樂鬥樂榜/coquihalla-公路發生貨櫃車意外並引發山火/	天災	B
 2026-09-29	40年最強聖嬰來襲！聯合國示警熱浪、乾旱、暴雨恐全面升級	https://globalnewstv.com.tw/202609/237488/	熱浪乾旱	B
 2026-09-29	"世界最大活火山爆發！噴發大量""火山玻璃絲"" 美國密切關注"	https://autos.yahoo.com.tw/news/世界最大活火山爆發-噴發大量-火山玻璃絲-美國密切關注-061000359.html	其他災害	A
@@ -416,11 +415,11 @@ var DATA_DISASTER = `
 2023-08-21	夏威夷山火｜周圍建築物燒毀「紅頂屋」竟無事 屋主：剛裝修原意防白蟻變「防火」	https://www1.am730.com.hk/%E5%9C%8B%E9%9A%9B/395309/%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%B1%B1%E7%81%AB-%E5%91%A8%E5%9C%8D%E5%BB%BA%E7%AF%89%E7%89%A9%E7%87%92%E6%AF%80-%E7%B4%85%E9%A0%82%E5%B1%8B-%E7%AB%9F%E7%84%A1%E4%BA%8B-%E5%B1%8B%E4%B8%BB-%E5%89%9B%E8%A3%9D%E4%BF%AE%E5%8E%9F%E6%84%8F%E9%98%B2%E7%99%BD%E8%9F%BB%E8%AE%8A-%E9%98%B2%E7%81%AB-	其他火警	B
 2023-07-26	協助撲滅尤比亞島山火 希臘消防飛機墜毀致兩人死亡	https://www.exmoo.com/article/223403.html	涉及傷亡	A
 2023-02-08	土耳其敘利亞大地震：寒冷、憤怒、無家可歸的災民，港口大火與戰亂中的災區	https://www.bbc.com/zhongwen/trad/world-64564973	大火山火	B
-2023-01-11	圖輯／街道變河道！加州暴雨土石流奪17命 上萬居民逃難│TVBS新聞網	https://news.tvbs.com.tw/world/2014620	水災暴雨	A
 2022-12-09	葡萄牙里斯本洪水泛濫成災 居民：像末日	https://tw.news.yahoo.com/%E8%91%A1%E8%90%84%E7%89%99%E9%87%8C%E6%96%AF%E6%9C%AC%E6%B4%AA%E6%B0%B4%E6%B3%9B%E6%BF%AB%E6%88%90%E7%81%BD-%E5%B1%85%E6%B0%91-%E5%83%8F%E6%9C%AB%E6%97%A5-020929809.html	天災	B
 2022-12-03	再次地震 印尼爪哇島發生5.7級地震	https://www.epochtimes.com/b5/22/12/3/n13877944.htm	地震	A
 2022-11-30	陶波5.6级地震后引发了海啸，会不会发生更强烈的地震？ quake	https://www.chineseherald.co.nz/news/new-zealand/expert-weighs-in/	地震	A
 2022-11-22	索羅門群島發生「規模7.0」地震 已發布海嘯警報 quake	https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E7%B4%A2%E7%BE%85%E9%96%80%E7%BE%A4%E5%B3%B6%E7%99%BC%E7%94%9F7-3%E5%9C%B0%E9%9C%87-%E5%B7%B2%E7%99%BC%E5%B8%83%E6%B5%B7%E5%98%AF%E8%AD%A6%E5%A0%B1-023710899.html	地震	A
+2022-11-19	紅河縣凌晨5級地震 多地震感強房屋受損 quake	https://hk.on.cc/hk/bkn/cnt/cnnews/20221119/bkn-20221119092037829-1119_00952_001.html	地震	A
 2022-11-07	乾旱洪水襲巴基斯坦 辣椒之都蒙塵 Hunger	https://udn.com/news/story/6812/6745659?from=udn-catebreaknews_ch2	水災暴雨	B
 2022-10-26	全球怪天氣！埃及下雪、龍捲風襲法 暴雨重創孟加拉、奈及利亞 Warming	https://news.tvbs.com.tw/world/1944524	水災暴雨	B
 2022-10-11	義大利斯特龍伯利火山噴發 4百居民幸未傳傷亡 volcano	https://news.cts.com.tw/cts/international/202210/202210112096519.html	其他災害	A

@@ -1,5 +1,6 @@
 // 戰爭 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 794 條
 var DATA_WAR = `
+2026-11-21	美拋俄烏和談「2大劇本」曝光！ 川普稱普丁盼外交停戰	https://www.ettoday.net/news/20261121/3275846.htm	俄烏戰事	-
 2026-11-20	沙特稱首都最高建築遭胡塞武裝襲擊受損	https://news.rthk.hk/rthk/ch/component/k2/1878514-20261120.htm	中東戰事	-
 2026-11-19	德黑蘭促地區國家採取必要措施阻止美國策劃針對伊朗軍事行動	https://news.rthk.hk/rthk/ch/component/k2/1878426-20261119.htm	中東戰事	-
 2026-11-19	巴基斯坦成功試射「法塔赫－3」超音速巡航導彈	https://news.rthk.hk/rthk/ch/component/k2/1878358-20261119.htm	未分類	-
@@ -519,6 +520,7 @@ var DATA_WAR = `
 2026-10-16	烏克蘭星盾突遭限速 干擾攔截無人機打擊任務	https://news.google.com/rss/articles/CBMiYEFVX3lxTE0za3pFWXNqS1dZQXVONU5fUXBtRC1nRTZqTWJBakFXWm55TmJLdUd4aVR2TEJ4V3lnVDNFTHBMaENDbXFXc3B1b2tGM1dVQmlmR2pqUnR3OUZfcWVNWVc1V9IBZkFVX3lxTE5NZHcyeVBnQTZzaWJFbHRvN0dhMDdpQVl1OS1nMWQyUXZyX2FfNDhuNWdnUjZoRzNKRzJBSHRhUkd5alVwOWMxdUMyWTFHUHJtOWlHZmp2YUhkU0J2QUJ2Rkx4QlN1UQ?oc=5	俄烏戰事	B
 2026-10-16	烏克蘭愛國者飛彈僅剩約2枚！美伊戰爭耗庫存 川普援助態度反覆	https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ITW5OQXVVaTZ0MklPYmpqTlEzMjNfT3hIWmpWQmpFd1dzU1c3T0RDUWlXaHdXd3kyM2tWMWEtNzFvVW0xd296eHJNSVFORXVPR3Itc1dPWERJQdIBX0FVX3lxTFBKRGZsR1pBTlE0UEI0N3BIbTJEMzJVR1g3TmNoa2NZeWhIX05HN1pYQXhmajRsLXZFMXJUVURxT0s5WGQ3bEJLNDNXc2lpS3NaSWo1MjBsMnZPQlZkbmJN?oc=5	俄烏戰事	B
 2026-10-16	烏克蘭恢復攻擊俄能源設施 俄方續空襲烏民居	https://news.google.com/rss/articles/CBMitwJBVV95cUxPXzN2NzJwWTlYUGNNWHBsVlVDM3d1QmZfVXdTR1hoRGMwWUlYRkplM240X1NObVZrWWUzLXRZZUZfMVNfY0ZqN3FwbTNyc0lhdFFQU2ltOTBfNXJScUZteTBWRnhieVFnMndmaFkwTUZxTlVMVVNpaFJFWVlCQ3pQVkRGVlhQTEZZTEZFNFg0VjdqaXVaTWlMaGphRmlYOEFlMy1nQUJDV0hXaWJ2MU41WXZOQlNRZ2NNYzlUd3N4RlEzVGxBSEJ2RUx1N1NZTUQ2NFg5OVUzaXQ4WUtWZkEtcU9CdlljMC1kakpibF83aDFRTlJqZW9DdVFxejhCSWZnQ2lwY3BiUl9yMWdJVEg3T2lPMmt2RjVMaUhjbTZiV1A1RGtmaVhMZU9RMG05QW9tdFhZc09MWQ?oc=5	俄烏戰事	A
+2026-10-16	澤連斯基決定恢復攻擊俄煉油廠！ 川普怒嗆：他不想就結束戰爭達成協議 | Newtalk	https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hdjJMbWhwdGFRNUNRWWFFMDEwbkJ3WVNFOGJ0cjNvbktiWTN2dWNBTTRUbVBYR1dWOEdsNWVqSVF4T0J1ZjRwNzdqNXBJbUxkZ2cwYUZB?oc=5	其他戰事	A
 2026-10-16	沙特稱胡塞武裝本月襲擊利雅得機場致17死逾300傷	https://news.rthk.hk/rthk/ch/component/k2/1874125-20261016.htm	中東戰事	A
 2026-10-16	歐盟委員會主席馮德萊恩：（關於烏克蘭）只要戰爭持續，烏克蘭的財政需求就會持續。	https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTdEdk1GTUFJcUVkWnZjX1FwaWRoc0VLZkRFTFFzX3hhSmwzSFJSMnAwWkl0UXJLNS1sSXZXNUdRSGgyN0VVWm5IX0NUbXBlUjk1RFhlRVhERXlxN1VIR29HRzRUQmwwQTk0S2tLcDFQRXBqNzVkM053WlYwSGdGZkVTWVNNdVpXcmRiUnVQWWoxMWFmYThKVzhMUmpYRjN1V2hHZHBGWU9HZw?oc=5	俄烏戰事	A
 2026-10-16	川普考慮對伊朗採取更多軍事行動 鎖定核設施	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXZTJpa1ZSMG54b1N5bXJyRDN0NW9pam55MUt3Qk93cWtyQ3FCdlNRX2p0NFdsRC14RU9lZnZxa2xLYlMyMHpmVUFNd2loNWs?oc=5	中東戰事	A
@@ -609,7 +611,6 @@ var DATA_WAR = `
 2026-10-01	英國懷疑伊朗策畫費爾福空軍基地的恐怖攻擊- 政治圈	https://www.chinatimes.com/realtimenews/20261001005272-260408	中東戰事	B
 2026-10-01	空中驚魂！以色列防長：杜拜航空是一起「恐怖襲擊未遂事件」	https://news.cnyes.com/news/id/6619246	中東戰事	A
 2026-10-01	伊朗爆發內戰! 當局出動無人機、主戰坦克、火箭彈革命衛隊准將傳陣亡| 國際	https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qVE5FRTFtbWlUVDdzWGdDZFFIcUxCV3lCOUtPa2tqd2NpbmZMWC02SmlDNENYTV9LU2FMbFgtTVhVbnppTDloU0Fja2VYMG9VVHYySDlzQ3NxbEE?oc=5	空襲導彈	B
-2026-10-01	以色列定性為恐怖襲擊 #杜拜航空 #劫機 #阿曼 #am730	https://www.facebook.com/am730hk/posts/%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9A%E6%80%A7%E7%82%BA%E6%81%90%E6%80%96%E8%A5%B2%E6%93%8A%E6%9D%9C%E6%8B%9C%E8%88%AA%E7%A9%BA-%E5%8A%AB%E6%A9%9F-%E9%98%BF%E6%9B%BC-am730/1597833442384252/	中東戰事	B
 2026-09-30	（有片）卡塔爾首相：內塔尼亞胡是戰爭犯- 國際	https://www.dotdotnews.com/a/202609/30/AP6abc94b5e4b02724bdb601df.html	其他戰事	A
 2026-09-30	部隊鍋EP289｜伊朗捕獲Anduril水下載具 談軍備的軟體情報外洩風險	https://vip.udn.com/vip/story/122244/9783074?from=vipudn_newest_index	中東戰事	B
 2026-09-30	路透社：俄羅斯2027年國防支出擬大增27% 創俄烏戰爭以來最高	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60395109/%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%BF%84%E7%BE%85%E6%96%AF2027%E5%B9%B4%E5%9C%8B%E9%98%B2%E6%94%AF%E5%87%BA%E6%93%AC%E5%A4%A7%E5%A2%9E27-%E5%89%B5%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD%E4%BB%A5%E4%BE%86%E6%9C%80%E9%AB%98	俄烏戰事	B
@@ -621,7 +622,6 @@ var DATA_WAR = `
 2026-09-29	美國｜伊朗分別會晤調解人 爭取結束長達7個月戰爭	https://inews.hket.com/article/4201357/%E7%BE%8E%E5%9C%8B%EF%BD%9C%E4%BC%8A%E6%9C%97%E5%88%86%E5%88%A5%E6%9C%83%E6%99%A4%E8%AA%BF%E8%A7%A3%E4%BA%BA%20%E7%88%AD%E5%8F%96%E7%B5%90%E6%9D%9F%E9%95%B7%E9%81%947%E5%80%8B%E6%9C%88%E6%88%B0%E7%88%AD?mtc=20042	中東戰事	A
 2026-09-29	美伊料續談判 特朗普:很快可贏得戰爭	https://m.hkej.com/landing/mobarticle2/id/4526044/%E7%BE%8E%E4%BC%8A%E6%96%99%E7%BA%8C%E8%AB%87%E5%88%A4%20%E7%89%B9%E6%9C%97%E6%99%AE:%E5%BE%88%E5%BF%AB%E5%8F%AF%E8%B4%8F%E5%BE%97%E6%88%B0%E7%88%AD	其他戰事	A
 2026-09-29	美伊強硬！川普重申將贏得戰爭 伊朗稱阿拉伯海將無敵軍蹤影	https://www.cna.com.tw/video/news/4356671	中東戰事	A
-2026-09-29	約2,000名平民被迫食野草充飢 #俄烏戰爭 #奧萊什基 #人道危機 #am730	https://www.facebook.com/am730hk/posts/%E7%B4%842000%E5%90%8D%E5%B9%B3%E6%B0%91%E8%A2%AB%E8%BF%AB%E9%A3%9F%E9%87%8E%E8%8D%89%E5%85%85%E9%A3%A2%E4%BF%84%E7%83%8F%E6%88%B0%E7%88%AD-%E5%A5%A7%E8%90%8A%E4%BB%80%E5%9F%BA-%E4%BA%BA%E9%81%93%E5%8D%B1%E6%A9%9F-am730/1594736406027289/	俄烏戰事	B
 2026-09-29	精神航空 全球航空業中 首因伊朗戰爭倒閉！	https://www.msn.com/zh-tw/news/world/精神航空-全球航空業中-首因伊朗戰爭倒閉/ar-AA22matd	中東戰事	B
 2026-09-29	王毅會見岩屋毅 籲日莫替「戰爭罪犯招魂」糾正涉台言行	https://turnnewsapp.com/livenews/chinav3/20260929001146-260409	其他戰事	A
 2026-09-29	烏克蘭大規模無人機襲擊 俄羅斯三大糧食碼頭受損	https://news.cnyes.com/news/print/6573478	俄烏戰事	A

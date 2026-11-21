@@ -112,7 +112,6 @@ var DATA_0000 = `
 2020-04-17	陸軍楊梅營區一中尉上吊身亡 同袍上網伸冤控長官施壓	https://cnews.com.tw/174200417a01/		-
 2020-04-21	新竹小五女生輕生身亡 校方啟動輔導機制	https://news.ltn.com.tw/news/society/breakingnews/3141328		-
 2020-04-23	青衣長安邨老婦墮樓 送院搶救後不治	https://hk.on.cc/hk/bkn/cnt/news/20200423/bkn-20200423110959894-0423_00822_001.html		-
-2020-05-14	安定邨女子高處墮下送院不治	https://www.stheadline.com/article/2023424/%E5%AE%89%E5%AE%9A%E9%82%A8%E5%A5%B3%E5%AD%90%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B%E9%80%81%E9%99%A2%E4%B8%8D%E6%B2%BB		-
 2020-05-23	《雙層公寓》22歲木村花自殺身亡！生前「每天遭上百酸民辱罵」 絕望留言：不被愛的人生	https://www.cosmopolitan.com/tw/entertainment/celebrity-gossip/g32649141/terrace-house-kimura-hana-dead/		-
 2020-05-25	大角咀男子墮樓 送院後不治	https://hk.on.cc/hk/bkn/cnt/news/20200525/bkn-20200525173407649-0525_00822_001.html		-
 2020-05-26	常是猝死元凶！醫曝心肌梗塞「高危險族群」...點名癮君子當心	https://health.ettoday.net/news/1723013		-
@@ -396,7 +395,6 @@ var DATA_0000 = `
 2022-09-14	增10患者離世均曾打針 5月至今粗略死亡率0.1%	https://hk.on.cc/hk/bkn/cnt/news/20220914/bkn-20220914163002025-0914_00822_001.html		-
 2022-09-14	溫嶺48歲貨運司機猝死路邊，警方排除他殺可能，多名造謠人員被查處教育_杭州網	https://news.hangzhou.com.cn/shxw/content/2022-09/14/content_8353166.htm		-
 2022-09-15	大埔廣福裡女子墮樓倒臥簷篷 當場不治	https://www.hk01.com/sns/article/815217?utm_source=01articlecopy&utm_medium=referral		-
-2022-09-15	男子疑貢寮衝浪失蹤 龍門沙灘尋獲不治 ｜ 中央社 ｜ Newtalk新聞	https://newtalk.tw/news/view/2022-09-15/817060		-
 2022-09-15	秀茂坪邨女子高處墮下 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20220915/bkn-20220915052130595-0915_00822_001.html		-
 2022-09-16	上月自然災害94人死亡失蹤 損失近430億人民幣 Warming	https://hk.on.cc/hk/bkn/cnt/cnnews/20220916/bkn-20220916114535685-0916_00952_001.html		-
 2022-09-16	台今增逾4.1萬宗本土新冠 多46人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20220916/bkn-20220916140144237-0916_00952_001.html		-
@@ -524,7 +522,6 @@ var DATA_0000 = `
 2022-12-01	世界盃｜伊朗示威者慶祝國家隊出局 傳1人中槍身亡 conflict	https://www.hk01.com/article/842314?utm_source=01articlecopy&utm_medium=referral		-
 2022-12-01	移工魂斷異鄉！海邊獨自游泳不幸溺斃 遺體被沖上岸 │TVBS新聞網	https://news.tvbs.com.tw/local/1977774		-
 2022-12-02	74歲老翁自縊 送院後證實不治	https://hk.epochtimes.com/news/2022-12-02/27431751證實不治		-
-2022-12-02	本港新增9996宗染疫11人離世 確診後腦水腫5歲男童不治	https://hk.news.yahoo.com/增9996宗染疫11人離世-確診後腦水腫5歲男童不治-214500724.html		-
 2022-12-02	男子吸廢氣自殺身亡: 疑和家人涉財務糾紛	https://www.chinapress.com.my/20221202/男子吸废气寻死原因-警：疑和家人涉财务纠纷/		-
 2022-12-02	登山客發現風化乾屍 揭死者已失蹤1年	https://hk.on.cc/hk/bkn/cnt/cnnews/20221202/bkn-20221202010002029-1202_00952_001.html		-
 2022-12-02	確診數續降！本土+14019、病歿29 指揮中心：病例比上週少0.8%	https://tw.news.yahoo.com/確診數續降-本土-14019-病歿29-指揮中心-062617801.html		-
@@ -538,7 +535,6 @@ var DATA_0000 = `
 2022-12-05	韓劇熟面孔廉東鉉肝病逝！醫揭「2狀況」跳過肝硬化直達肝癌 脂肪肝是新國病	https://health.tvbs.com.tw/medical/336607		-
 2022-12-06	3人染疫病歿 柔佛報2宗全國居首 ｜ The Malaysian Insight	https://www.themalaysianinsight.com/chinese/s/415619		-
 2022-12-06	本土增1萬6002例 添中重症24例、22人死亡	https://tw.news.yahoo.com/%E6%9C%AC%E5%9C%9F%E5%A2%9E1%E8%90%AC6002%E4%BE%8B-%E6%B7%BB%E4%B8%AD%E9%87%8D%E7%97%8724%E4%BE%8B-22%E4%BA%BA%E6%AD%BB%E4%BA%A1-061746624.html		-
-2022-12-07	32歲莎樂比甸訂婚後猝逝 得獎遺作《上流落水狗》月底香港上映 ｜ am730	https://www.am730.com.hk/%E5%A8%9B%E6%A8%82/32%E6%AD%B2%E8%8E%8E%E6%A8%82%E6%AF%94%E7%94%B8%E8%A8%82%E5%A9%9A%E5%BE%8C%E7%8C%9D%E9%80%9D-%E5%BE%97%E7%8D%8E%E9%81%BA%E4%BD%9C-%E4%B8%8A%E6%B5%81%E8%90%BD%E6%B0%B4%E7%8B%97-%E6%9C%88%E5%BA%95%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%98%A0/351631		-
 2022-12-07	單日染疫又破萬 22病歿 1人曾打4針	https://hk.news.yahoo.com/單日染疫又破萬-22病歿-1人曾打4針-214500662.html		-
 2022-12-07	將軍澳峻瀅女子墮樓 送院不治	https://news.mingpao.com/ins/港聞/article/20221207/s00001/1670395349655/將軍澳峻瀅女子墮樓-送院不治		-
 2022-12-07	本土16694、病歿26 疫情持續下降比上週減5.5%	https://tw.news.yahoo.com/本土16694-病歿26-疫情持續下降比上週減5-5-061926728.html		-
@@ -581,7 +577,6 @@ var DATA_0000 = `
 2022-12-20	中國放棄清零後病亡人數, 專家估1至2百萬人。	https://tw.news.yahoo.com/中國放棄清零後病亡人數-專家估1至2百萬人-123807949.html		-
 2022-12-20	悲！住家水浸, 3姐妹同觸電暴斃死狀悽慘, 家屬揭更驚人死亡內情。	https://www.hk01.com/article/848678?utm_source=01articlecopy&utm_medium=referral		-
 2022-12-21	中國嚴訂「確診死亡」定義！殯儀館遺體大爆滿 官方：7人病亡 ｜ 蕃新聞	https://n.yam.com/Article/20221221132670		-
-2022-12-21	中環域多利皇后街 男子高處墮下倒卧簷篷 送院不治	https://www.hk01.com/article/849339?utm_source=01articlecopy&utm_medium=referral		-
 2022-12-21	六旬男子中環商廈墮樓 送院不治	https://news.mingpao.com/ins/港聞/article/20221221/s00001/1671606175868/六旬男子中環商廈墮樓-送院不治		-
 2022-12-21	本土增1萬9051例，添中重症73例、27人死亡。	https://tw.news.yahoo.com/%E6%9C%AC%E5%9C%9F%E5%A2%9E1%E8%90%AC9051%E4%BE%8B-%E6%B7%BB%E4%B8%AD%E9%87%8D%E7%97%8773%E4%BE%8B-27%E4%BA%BA%E6%AD%BB%E4%BA%A1-061447307.html		-
 2022-12-21	添96宗確診1病歿 當局料1至2周現疫情高峰	https://hk.on.cc/hk/bkn/cnt/news/20221221/bkn-20221221170251574-1221_00822_001.html		-
@@ -678,7 +673,6 @@ var DATA_0000 = `
 2023-01-09	新冠疫歿總數破6萬 僅一個多月增萬人病逝	https://hk.on.cc/hk/bkn/cnt/intnews/20230109/bkn-20230109090008187-0109_00992_001.html		-
 2023-01-09	本港新增新冠確診14113宗: 再多66名患者死亡 其中36名死者死因與新冠有關	https://www.metroradio.com.hk/news/live.aspx?NewsID=20230109035624&subject=%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A2%BA%E8%A8%BA14113%E5%AE%97:%20%E5%86%8D%E5%A4%9A66%E5%90%8D%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1%20%E5%85%B6%E4%B8%AD36%E5%90%8D%E6%AD%BB%E8%80%85%E6%AD%BB%E5%9B%A0%E8%88%87%E6%96%B0%E5%86%A0%E6%9C%89%E9%97%9C		-
 2023-01-10	(女子圖跳海輕生 幸獲消防員勸服)	http://www.macaodaily.com/html/2023-01/10/content_1647007.htm		-
-2023-01-10	24歲網紅驚傳離世！曾嘆「咳到肺出來」10天後重病不治│TVBS新聞網	https://news.tvbs.com.tw/entertainment/2013561		-
 2023-01-10	◤疫纏第四年◢ 國內增383確診 8疫歿 ｜ 中國報 China Press	https://www.chinapress.com.my/20230110/%E2%97%A4%E7%96%AB%E7%BC%A0%E7%AC%AC%E5%9B%9B%E5%B9%B4%E2%97%A2-%E5%9B%BD%E5%86%85%E5%A2%9E383%E7%A1%AE%E8%AF%8A-8%E7%96%AB%E6%AE%81/		-
 2023-01-11	【一線採訪】養老院老人疫亡 死因不寫染疫 ｜ 疫情 ｜ 死亡證明 ｜ 新冠 ｜ 大紀元	https://www.epochtimes.com/gb/23/1/11/n13904494.htm		-
 2023-01-11	六旬漢葵湧行人天橋墮下 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20230111/bkn-20230111000715750-0111_00822_001.html		-
@@ -725,7 +719,6 @@ var DATA_0000 = `
 2023-02-02	何文田老翁墮樓 當場不治	https://hk.on.cc/hk/bkn/cnt/news/20230202/bkn-20230202085445277-0202_00822_001.html		-
 2023-02-07	高市工地吊車翻覆1死1傷駕駛無生命跡象搶救不治- 社會	https://news.ltn.com.tw/news/society/breakingnews/4203743		-
 2023-02-08	珍惜生命︱馬鞍山恆安邨八旬翁危站後墮樓亡	https://www.hk01.com/article/864979?utm_source=01articlecopy&utm_medium=referral		-
-2023-02-09	柴灣中年男子墮海 消防落水救起送院惜不治	https://www.hk01.com/article/865283?utm_source=01articlecopy&utm_medium=referral		-
 2023-02-10	旺角唐樓奪命火疑充電器短路肇禍 女護士搶救不治 醫管局：非常哀痛 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/89879/%E6%97%BA%E8%A7%92%E5%94%90%E6%A8%93%E5%96%AE%E4%BD%8D%E7%81%AB%E8%AD%A6-35%E6%AD%B2%E5%A5%B3%E5%AD%90%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E4%B8%8D%E6%B2%BB-%E7%96%91%E5%85%85%E9%9B%BB		-
 2023-02-12	太古城男子墮樓 送院搶救後不治	https://hk.on.cc/hk/bkn/cnt/news/20230212/bkn-20230212074451332-0212_00822_001.html		-
 2023-02-18	觀塘公眾碼頭中年漢墮海 送院搶救後不治	https://www.hk01.com/article/868527?utm_source=01articlecopy&utm_medium=referral		-
@@ -743,7 +736,6 @@ var DATA_0000 = `
 2023-03-14	山頂凌霄閣女子墮樓 送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/877266/%E5%B1%B1%E9%A0%82%E5%87%8C%E9%9C%84%E9%96%A3%E5%A5%B3%E5%AD%90%E5%A2%AE%E6%A8%93-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB		-
 2023-03-14	山頂淩霄閣女子墮樓 送院搶救後不治	https://www.hk01.com/article/877266?utm_source=01articlecopy&utm_medium=referral		-
 2023-03-15	麗晶花園女生學業問題墮樓 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20230315/bkn-20230315155904051-0315_00822_001.html		-
-2023-03-16	香港仔男子菜刀割腕 送院搶救後不治	https://hk.on.cc/hk/bkn/cnt/news/20230316/bkn-20230316074925668-0316_00822_001.html		-
 2023-03-22	男子旅遊竟遇上死亡意外！ 坐長椅休息後翻無人發現窒息身亡	https://tw.news.yahoo.com/男子旅遊竟遇上死亡意外-坐長椅休息後翻無人發現窒息身亡-114529025.html		-
 2023-04-10	特斯拉自撞分隔島 知名設計師送醫搶救不治	https://news.ltn.com.tw/news/society/breakingnews/4266011		-
 2023-04-14	91歲癌父沒化療病逝！金鐘影后「不願爸爸臨終插管」 牽手陪伴到最後- 營養好食	https://health.tvbs.com.tw/nutrition/338994		-
@@ -806,7 +798,6 @@ var DATA_0000 = `
 2023-09-29	港大百周年校園男生飛墮山坡 當場死亡 張翔到場了解稱難過	https://www.hk01.com/%E7%AA%81%E7%99%BC/946413/%E6%B8%AF%E5%A4%A7%E7%99%BE%E5%91%A8%E5%B9%B4%E6%A0%A1%E5%9C%92%E7%94%B7%E7%94%9F%E9%A3%9B%E5%A2%AE%E5%B1%B1%E5%9D%A1-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1-%E5%BC%B5%E7%BF%94%E5%88%B0%E5%A0%B4%E4%BA%86%E8%A7%A3%E7%A8%B1%E9%9B%A3%E9%81%8E		-
 2023-10-01	九旬老翁疑因患病輕生 家中飲用半瓶洗衣液身亡	https://www.exmoo.com/article/213088.html		-
 2023-10-01	鄭少秋55歲長女傳美國自殺身亡 由母親盧慧茹供養成長父女緣薄	https://www.singtao.ca/6393667/2023-10-01/news-%E9%84%AD%E5%B0%91%E7%A7%8B55%E6%AD%B2%E9%95%B7%E5%A5%B3%E5%82%B3%E7%BE%8E%E5%9C%8B%E8%87%AA%E6%AE%BA%E8%BA%AB%E4%BA%A1+%E5%A4%9A%E5%B9%B4%E6%B2%92%E8%B7%9F%E7%88%B6%E8%81%AF%E7%B5%A1%E7%94%B1%E6%AF%8D%E4%BE%9B%E9%A4%8A%E6%88%90%E9%95%B7/?variant=zh-hk&appedition=vancouver		-
-2023-10-04	赤柱監獄69歲還押漢因病留院 逾一個月後不治 將進行死因研訊	https://www.hk01.com/article/947890?utm_source=01articlecopy&utm_medium=referral		-
 2023-10-05	圓方管道兩工人死亡 大判經理被控誤殺 再被拒保釋	https://thewitnesshk.com/%E5%9C%93%E6%96%B9%E7%AE%A1%E9%81%93%E5%85%A9%E5%B7%A5%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E5%A4%A7%E5%88%A4%E7%B6%93%E7%90%86%E8%A2%AB%E6%8E%A7%E8%AA%A4%E6%AE%BA-%E5%86%8D%E8%A2%AB%E6%8B%92%E4%BF%9D%E9%87%8B/		-
 2023-10-05	屯門湖景邨女子墮樓 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20231005/bkn-20231005223307302-1005_00822_001.html		-
 2023-10-06	常「忘記吃藥」壞膽固醇超標…發現已是「急性心梗」 醫警告：隨時會猝死	https://tw.news.yahoo.com/常-忘記吃藥-壞膽固醇超標-發現已是-急性心梗-034101514.html		-
@@ -868,13 +859,10 @@ var DATA_0000 = `
 2024-05-10	發燒｜5歲女童浸浴溺斃！即睇8大降溫須知 退熱貼、沖涼只能治標	https://www.hk01.com/article/1018262?utm_source=01articlecopy&utm_medium=referral		-
 2024-05-12	獅子山內地男疑失足由25米高墮崖 直升機送院搶救後不治	https://www.hk01.com/article/1018781?utm_source=01articlecopy&utm_medium=referral		-
 2024-05-15	豬哥亮病逝7週年！謝金燕含淚發聲 嘆：像被針扎那麼痛	https://news.tvbs.com.tw/entertainment/2487172		-
-2024-05-20	全家慶母親節住飯店…2歲童離奇「跌進泳池溺水」搶救7天仍不治！ 網紅爸媽悲痛證實	https://www.storm.mg/lifestyle/5128178		-
-2024-05-25	屯門63歲男子離家失蹤一日後 倒臥黃金泳灘岸邊 送院證實不治	https://www.hk01.com/article/1022729?utm_source=01articlecopy&utm_medium=referral		-
 2024-05-27	越野拉力賽自撞身亡！死者是「電商董座」政商數百好友湧入哀悼 致命原因曝光 | 林瑩真 | 風生活	https://www.storm.mg/lifestyle/5135960		-
 2024-05-28	新田公路垃圾車撞甩防撞欄 再撼「龍門架」 六旬司機送院不治 - i-cable.com	https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/231355/%E8%90%BD%E9%A6%AC%E6%B4%B2%E6%96%B0%E7%94%B0%E4%BA%A4%E5%8C%AF%E8%99%95%E5%9E%83%E5%9C%BE%E8%BB%8A%E5%A4%B1%E4%BA%8B%E6%92%9E%E6%AC%84-%E5%8F%B8%E6%A9%9F%E6%98%8F%E8%BF%B7-%E6%96%B0		-
 2024-05-28	男子與同事失聯多日被揭發九龍灣公司內燒炭身亡- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/13298659775246/%E9%87%8D%E9%BB%9E%E6%96%B0%E8%81%9E-%E7%94%B7%E5%AD%90%E8%88%87%E5%90%8C%E4%BA%8B%E5%A4%B1%E8%81%AF%E5%A4%9A%E6%97%A5-%E8%A2%AB%E6%8F%AD%E7%99%BC%E4%B9%9D%E9%BE%8D%E7%81%A3%E5%85%AC%E5%8F%B8%E5%85%A7%E7%87%92%E7%82%AD%E8%BA%AB%E4%BA%A1		-
 2024-05-31	馬鞍山老婦墮樓 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20240531/bkn-20240531210409083-0531_00822_001.html		-
-2024-06-24	男子行山失蹤13小時被尋回延至晚上不治 專家指炎夏行山須量力而為	https://news.tvb.com/tc/824728-男子行山失蹤13小時被尋回延至晚上不治專家指炎夏行山須量力而為		-
 2024-06-26	新北男高樓墜落波及女路人 1死1傷	https://news.ltn.com.tw/news/society/breakingnews/4716795		-
 2024-06-29	撒瑪利亞防止自殺會：去年自殺死亡人數達十年新高 長者佔最多	https://www.hk01.com/article/1033500?utm_source=01articlecopy&utm_medium=referral		-
 2024-07-10	【翻牆必看】大陸大貨車司機上吊的背後	https://www.epochtimes.com/b5/24/7/10/n14287322.htm		-
@@ -894,8 +882,6 @@ var DATA_0000 = `
 2024-08-31	失蹤男被尋回揭藏有毒品 押返石圍角邨搜屋期間墮樓身亡	https://hk.on.cc/hk/bkn/cnt/news/20240831/bkn-20240831052319721-0831_00822_001.html		-
 2024-08-31	荃灣失蹤男被尋獲 車輛有可疑物品 疑搜屋期間墮樓送院不治	https://www.hk01.com/article/1053026?utm_source=01articlecopy&utm_medium=referral		-
 2024-09-04	可愛抱枕、軟床墊⋯都超危險！醫警告「與大人同床」 恐害嬰兒猝死	https://www.uho.com.tw/article-64568.html		-
-2024-09-05	女子倒斃蘇屋邨單位 現場檢獲冰毒死因待查	https://hk.on.cc/hk/bkn/cnt/news/20240905/bkn-20240905000326412-0905_00822_001.html		-
-2024-09-07	屯門瑜翠園對開泳灘男子載浮載沉 救起證實當場不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/1055272/%E5%B1%AF%E9%96%80%E7%91%9C%E7%BF%A0%E5%9C%92%E5%B0%8D%E9%96%8B%E6%B3%B3%E7%81%98%E7%94%B7%E5%AD%90%E8%BC%89%E6%B5%AE%E8%BC%89%E6%B2%89-%E6%95%91%E8%B5%B7%E8%AD%89%E5%AF%A6%E7%95%B6%E5%A0%B4%E4%B8%8D%E6%B2%BB		-
 2024-09-07	高雄某飯店傳女子墜樓 當場身亡	https://news.ltn.com.tw/news/society/breakingnews/4792760		-
 2024-09-09	(老翁尖東遇溺 途人跳海救起 暈迷送院)	https://udn.com/news/story/7320/8216113		-
 2024-09-09	日本富士山明起封山：2024登山季死亡人數增逾2倍 疑涉兩個異常	https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/1055618/%E6%97%A5%E6%9C%AC%E5%AF%8C%E5%A3%AB%E5%B1%B1%E6%98%8E%E8%B5%B7%E5%B0%81%E5%B1%B1-2024%E7%99%BB%E5%B1%B1%E5%AD%A3%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8%E5%A2%9E%E9%80%BE2%E5%80%8D-%E7%96%91%E6%B6%89%E5%85%A9%E5%80%8B%E7%95%B0%E5%B8%B8		-
@@ -1037,8 +1023,6 @@ var DATA_0000 = `
 2025-08-05	結業潮2025｜31.朗豪坊馬莎M&S 屹立十年曾為亞洲最大食品專門店 2025-08-05			B
 2025-08-06	尖沙咀男子發死亡短訊後蹈海 獲救送院治理	https://hk.on.cc/hk/bkn/cnt/news/20250806/bkn-20250806003136150-0806_00822_001.html		-
 2025-08-08	獨家》恆春泳池溺水悲劇鎮公所有疏失 判國賠159萬餘元	https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrWi1DRlR6Z3ZUWlctbVJIcWZRaW45UHFWTHpwakYyMlRvV0FCSjBseGJLdmwzWE1CV3RlUTRjM29kTjV6VDAxek43bXk1dnhoVm1OVkZWQzlvX2t3aV9uWmxyaGZQaXdB0gFuQVVfeXFMUGVrX0JvQTlvbjJ5YUlQNEd0eUZaUnBxMHBTN1ZZZVJybmNFUWFuX1hoTGJxZDBtOGhGdWlwMzhreXVTbzBsV3ZlVWFVTTJ4ZXVDSTFiNTBBUFJySGNVbGM3TU9hazIxMHNOM1E1WWc?oc=5		-
-2025-08-08	結業潮2025｜16.日本金田家拉麵 攻港11年高峰曾開7間分店 2025-08-08			B
-2025-08-08	結業潮2025｜26.銅鑼灣變形金剛餐廳 沉浸式用餐2月結業 2025-08-08			B
 2025-08-09	結業潮2025｜63.泰鳩 Mirror+Error泰國餐廳 2025-08-09			B
 2025-08-10	怪手行老闆花蓮救災感染不治 桃市議會默哀	https://hk.crntt.com/doc/7_0_160169948_1_1008100710.html		-
 2025-08-10	結業潮2025｜1.大班麵包西餅 首創冰皮月餅41年歷史 2025-08-10			B
@@ -1056,10 +1040,8 @@ var DATA_0000 = `
 2025-08-13	體重破百公斤女絆倒！「身軀卡床縫」爬不起來 尪被壓到窒息慘死 | CTWANT	https://today.line.me/tw/v3/article/l2nPREL		-
 2025-08-14	屯門湖景邨男子墮樓 送院不治	https://hk.on.cc/hk/bkn/cnt/news/20250814/bkn-20250814065614486-0814_00822_001.html		-
 2025-08-14	美孚新邨九旬婦疑食糊仔鯁喉 送院搶救不治	https://www.singtao.ca/7240606/2025-08-14/news-美孚新邨九旬婦食糊仔暈倒+送院搶救不治/?variant=zh-hk		-
-2025-08-15	28歲男熬夜打電動突心肌梗塞 騎車送醫途中差點猝死	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uZzZSZlNldVNoV2NoZVl3QW4tcnNPNzhpNXZoLTdscDdjZi1JekJTUkJBdktUMzNvNHZ1RGJLVTRpeWdRYzZaUUZ2d05BdUhEQ2hsZ1k2YkJGMF9QN2M0Mm52TFU?oc=5		-
 2025-08-15	內地續發暴雨黃色預警 雲南泥石流2死2失蹤			-
 2025-08-15	北部暴雨引發洪災 至少56死80失蹤			A
-2025-08-15	最後貼文是朱自清散文！27歲正妹網紅腦溢血猝逝 ｜ 中天新聞網	https://ctinews.com/news/items/yDa2ZrNbaK		-
 2025-08-15	珍惜生命｜外籍男划獨木舟失蹤 浮屍西貢碼頭海面	https://www.stheadline.com/breaking-news/3490529/珍惜生命外籍男划獨木舟失蹤-浮屍西貢碼頭海面		-
 2025-08-15	陸27歲女聲播主腦溢血猝逝 徒弟淚求：下輩子要為自己活	https://tw.news.yahoo.com/陸27歲女聲播主腦溢血猝逝-徒弟淚求-下輩子要為自己活-143433784.html		-
 2025-08-15	離家失蹤八旬翁墮海亡(09:41) - 20250815 - 港聞- 即時新聞	https://news.mingpao.com/ins/港聞/article/20250815/s00001/1755221385673/離家失蹤八旬翁墮海亡		-
@@ -1206,7 +1188,6 @@ var DATA_0000 = `
 2025-09-11	(28歲男熬夜打電動 突心肌梗塞 送醫途中差點猝死)	https://www.ohpama.com/971257/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E7%94%9F%E6%B4%BB%E7%86%B1%E8%A9%B1/%E6%B5%99%E6%B1%9F-%E5%96%AE%E8%A6%AA%E5%AA%BD-%E9%9B%A2%E4%B8%96-2%E6%AD%B2%E5%85%92-%E4%BC%B4%E5%B1%8D/		-
 2025-09-11	來港升學內地女疑遇電騙 墮樓身亡兩親友傷痛認屍	https://hk.on.cc/hk/bkn/cnt/news/20250911/bkn-20250911111310223-0911_00822_001.html		-
 2025-09-11	女趴引擎蓋「遭男友拖行輾斃」！底盤卡毛髮衣物… 媽相驗哭到癱軟			A
-2025-09-12	(外籍少女爬陽台垃圾桶跳樓亡 警方列猝死案)	https://guangming.com.my/%E5%A4%B1%E5%B8%B8%E7%94%B7%E5%8F%91%E7%8B%82%E6%AE%B4%E6%AF%8D-%E7%AA%81%E8%B7%8C%E5%80%92%E7%8C%9D%E6%AD%BB		-
 2025-09-12	37歲《三生三世》于朦朧墜樓身亡！生前最後貼文疑露餡 網全崩潰哭了	https://star.setn.com/news/1719181		-
 2025-09-13	上水一技工校內維修冷氣疑觸電送院亡			-
 2025-09-14	油塘55歲鐵器工首日開工 風煤切工字後 工字鐵下墮 工人慘被工字鐵壓斃	https://www.wenweipo.com/a/202509/14/AP68c6ccb7e4b0427c0511cd9d.html		-
@@ -1337,7 +1318,6 @@ var DATA_0000 = `
 2025-10-14	葵涌拆屋遭石屎壓傷男工今晨不治 家庭失經濟之柱	https://3g.china.com/act/redian/13004758/20251014/48901072.html		-
 2025-10-14	這時間喝咖啡死亡風險低16% 哈佛醫師揭最健康喝法和沖煮方式	https://www.worldjournal.com/wj/story/121240/9069657		-
 2025-10-14	金建希案又一相关官员家中身亡 调查争议再起	https://military.china.com/news/13004177/20251014/48902335.html		-
-2025-10-14	高雄民宅槍響！男子「太陽穴中彈」浴血…一旁還有槍…送醫仍不治	https://tw.news.yahoo.com/快訊-高雄民宅槍響-男倒臥血泊-旁還有槍枝-緊急送醫仍不治-033000286.html		-
 2025-10-15	【禁聞】大陸五知名企業家墜樓身亡 知情人爆內幕	https://www.ntdtv.com/b5/2025/10/14/a104029654.html		-
 2025-10-15	喜馬拉雅山單週釀60人死亡，為什麼在秋季登聖母峰這麼危險？	https://www.thenewslens.com/article/259768		-
 2025-10-15	將軍澳男子遇溺 當場斃命	https://hk.on.cc/hk/bkn/cnt/news/20251015/bkn-20251015101819671-1015_00822_001.html		-
@@ -1378,7 +1358,6 @@ var DATA_0000 = `
 2025-10-30	泰國歷經極端高溫 首季61人中暑身亡	https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20251030/s00001/1761812574126/%E9%83%B5%E6%94%BF%E8%B2%A8%E8%BB%8A%E5%8F%B8%E6%A9%9F%E9%A7%95%E8%BB%8A%E6%92%9E%E6%96%83%E8%81%BE%E5%95%9E%E4%BA%BA%E5%A3%AB-%E5%8D%B1%E9%A7%95%E7%BD%AA%E6%88%90%E5%88%A4%E5%9B%9A%E4%B8%80%E5%B9%B4		-
 2025-10-31	塞爾維亞過千人遊行 悼念車站頂篷倒塌致16死事故			A
 2025-10-31	研究：57%年輕猝死者曾有前兆 熬夜配能量飲成隱形殺手	https://tw.news.yahoo.com/研究-57-年輕猝死者曾有前兆-熬夜配能量飲成隱形殺手-024305756.html		-
-2025-11-01	男友暴斃 女子涉毒品運離酒店被捕 - 20251101 - 港聞	https://news.mingpao.com/pns/港聞/article/20251101/s00002/1761932975426/男友暴斃-女子涉毒品運離酒店被捕		-
 2025-11-02	傳在謝侑芯猝死房內持毒被捕 黃明志反擊了「我被勒索」	https://www.worldjournal.com/wj/story/121478/9112955		-
 2025-11-02	安禧街地盤工墮斃｜死者有戴安全帶遺雙親 房協要求承建商交報告	https://www.hk01.com/%E7%AA%81%E7%99%BC/60290803/%E5%AE%89%E7%A6%A7%E8%A1%97%E5%9C%B0%E7%9B%A4%E5%B7%A5%E5%A2%AE%E6%96%83-%E6%AD%BB%E8%80%85%E6%9C%89%E6%88%B4%E5%AE%89%E5%85%A8%E5%B8%B6%E9%81%BA%E9%9B%99%E8%A6%AA-%E6%88%BF%E5%8D%94%E8%A6%81%E6%B1%82%E6%89%BF%E5%BB%BA%E5%95%86%E4%BA%A4%E5%A0%B1%E5%91%8A		-
 2025-11-02	生前與黃明志共處一室！謝侑芯猝逝內幕曝光 雪碧：我確定她沒吸毒	https://www.setn.com/news/1745571		-
@@ -1419,7 +1398,6 @@ var DATA_0000 = `
 2025-11-15	中化泉州油厂起火 黑烟冲天7伤			A
 2025-11-15	台中驚傳14歲少年墜樓倒臥馬路雙黃線身亡- 社會	https://news.ltn.com.tw/news/society/breakingnews/5247294		-
 2025-11-15	尖沙咀地盤鋼筋壓斃工人 涉案公司及負責人被票控 12.4開審將傳召專家證人	https://www.wenweipo.com/a/202511/15/AP6917dc26e4b06e541e26ccfa.html		-
-2025-11-15	科大訊飛38歲高級工程師在家猝死 家屬阻塞公司大門冀認定為工傷	https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20251115/s00002/1763143603086/%E7%9A%84%E5%A3%AB%E5%95%9F%E5%BE%B7%E5%A4%B1%E6%8E%A7%E6%92%9E%E5%A3%86%E7%BF%BB%E5%81%B4-3%E4%BA%BA%E9%80%81%E9%99%A2		-
 2025-11-15	葵涌停車場男工遭石膏板壓斃 勞工處展開調查 發暫時停工通知書	https://www.hk01.com/%E7%AA%81%E7%99%BC/60294605/%E8%91%B5%E6%B6%8C%E5%81%9C%E8%BB%8A%E5%A0%B4%E7%94%B7%E5%B7%A5%E9%81%AD%E7%9F%B3%E8%86%8F%E6%9D%BF%E5%A3%93%E6%96%83-%E5%8B%9E%E5%B7%A5%E8%99%95%E5%B1%95%E9%96%8B%E8%AA%BF%E6%9F%A5-%E7%99%BC%E6%9A%AB%E6%99%82%E5%81%9C%E5%B7%A5%E9%80%9A%E7%9F%A5%E6%9B%B8		-
 2025-11-15	貨車尾板直插辦公室 女會計險夾斃	https://www.stheadline.com/realtime-world/3518044/%E6%96%AF%E5%BE%B7%E5%93%A5%E7%88%BE%E6%91%A9%E5%B8%82%E4%B8%AD%E5%BF%83%E5%B7%B4%E5%A3%AB%E6%92%9E%E7%AB%99%E4%BA%AD%E9%87%803%E6%AD%BB%E5%A4%9A%E5%82%B7-%E8%AD%A6%E6%96%B9%E7%A8%B1%E7%84%A1%E6%B6%89%E6%81%90%E8%A5%B2		-
 2025-11-16	台1線台南善化段2機車事故 1人搶救不治1重傷	https://news.ltn.com.tw/news/society/breakingnews/5247873		-

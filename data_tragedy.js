@@ -1,4 +1,4 @@
-// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 232 條
+// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 230 條
 var DATA_TRAGEDY = `
 2026-11-17	影/新北天倫悲劇！父子吵架「兒子全身陷火海」命危	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZjA1R1ZPVTRKY3Vua3hmdjA2cm9TN3dZWi1qLUItWXFVMUNSQ1g1UWk2S2RQX2pNZnRnRWtVQU1NZ1RadUNXaUVrRmRkS1B6d3lJ?oc=5	悲劇	-
 2026-11-17	南非血腥之夜接連2起槍擊案 釀17死慘劇	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Jd25OazhsNTUtUVV1aktZZXJEaXQxaDVJQzI4cUdDZG51ZEg1VG5ackhvN1lUTTVJdDdzeFpkNEtwRUpDanhMZnBFX0NMSVQ5cjFacFpmdl94bkpseS1aeXdyakEyQdIBa0FVX3lxTE5yZEdGLWVIMVBSbk1RalVrMGpmeGRGMjZxQ3M1cnctQV9zMy1NSkp6NjFkZEUyelBJY0VvSEtDSWh3aVg4ZWhITmZIZDU3LVZKZWl5M1RyNU5yZjRxTS14VEQ0bkJNMzNZZ3lB?oc=5	其他悲劇	-
@@ -33,7 +33,6 @@ var DATA_TRAGEDY = `
 2026-10-27	討論牆 | 為4百萬元結婚生子竟釀悲劇？作家看河口湖命案嘆：人生很多時候敗給貪念	https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mYl9RRi05Z2hxNjhqNW5BUktyX2VPMFBmMkNHYU4zR0Fvc2lFM0t0Vi1xNjY2WDJPdlo2UFdvWWRndlFyWk82SlJzWFlfVDJWLThGdDdJdWt6eUlOOHFuWFdqTkI?oc=5	悲劇	-
 2026-10-24	郵輪度假悲劇！英2童浮潛被巨浪沖走 母為救子不幸溺斃	https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEMEpZb1dVS2x3Nm5HWHJqTHh5VnpiS1o5S2daV293MkpYNGh2cHA5X3Q0b2RpcXJ2TDgyNm9DREZla0NQZFZSUjAtMTcxWE0?oc=5	悲劇	A
 2026-10-18	印度女神慶典爆踩踏慘劇 釀19死25傷	https://news.google.com/rss/articles/CBMiggJBVV95cUxNNGF0Q3NJTng5cnZHY01NY2U0WldyYXhCZGN3Q2dJRy1mZ1VrcE9RZkNPdzZNd1ZGZ2t4a0RzMTlleDRuQlItRld4Q3ltbkZ1RXpkS2d6Y0RONFBnTkk1V3I2TVRuMzFfZmpfTzRibHJLdVI3YUpuTWJZTHhQVDBFckVYVTZFZlp4eHNnbGdHaTQySjVOcXJyYm9NQm9fNFhzZ2N2X2ZaVHVuOTZSWWtQZkhzeWV0M1l4NDBhM19rUEhrOG95R2J3ZW1YdTh3eGwwaVJxd21UemY5UFhtQzh5MV9EVFNxV29Wb3hmTGVMMWIwX1pNNlhaRzJzZ2V4enlzcHc?oc=5	其他悲劇	B
-2026-10-16	黃金泳灘女子疑遇溺近岸昏迷 送屯門醫院後證實死亡	https://news.google.com/rss/articles/CBMi7wJBVV95cUxNZVpkT1RMZkhaUGEtaVdOeGlTUFRqVExZU0VZQjhNLUVkNWRlQUdqMnQ2VlJhTndnUzhaeUtyZnJKcF8wV0xGa1p0RGhOdEh5MUpXQjAwb09McGk1WEJOY0ZqdkVySUJfbEtZaXFDY2hMeWtfWWE3YUxpQ3F6RFVQRm02WlJTQlktbUJ1N2hvVjBReWNNNloyUG83NUNRZW5zdzk1MFVleFUxR0w3Y0lDWFpMZkdJblpsR0ZIWGhEVkM2MnpnT29EYkNNVFFSRnk3Wld6aDFwa3lGWG9lWXRzTnZNbkRLVEhwTnp0a0NXXy1qa2Ntcnh5akZDVTFHaDVxaXQza2FTWDV0UENZY3hUc1hLX1I0WURjN29KdWtZdF9COUdwN1RhdVg1bU1LVkNha0xreDR1NWVSYjhic0VSOTlIMzU4eUlqczJhcGd2eTl2Mi1ZelFaUUxMVG1LR3VGTHNka1BnZFRhMTdyMVJR?oc=5	自然離世	A
 2026-10-14	西貢滘西洲海面男子遇溺 舢舨救起送院不治	https://news.google.com/rss/articles/CBMiwwJBVV95cUxOUmdJTDA0TXpVX2ZUSUgxZFRHc1ZhZjhmVmNKWXVyZ0lDSnpEZ0JlREZsR2RsZlpOb05iUWtISkpMSm1yZnlYSU8xMU5BWE5qQktOdGxGUGZ0NnlPamlVQzRaNVV1WXBhcFZJUUJwSzFicUlnWDRXYUdwQklYcGU2bEVuZGdWa2ZWN0k5V3VzRk5BSzZDZnpDMUw4Y0Zyc3F3VnZCM1ZiVFgyc0F4UFJpQU0tTFFKWDVOODEyWE1LX05DZm04OEphc0ZJeFJTdFQ4VWpvOFBzaXRYeVRaWGtpVGR1NXYyMTlKd29rVGpBd1NncjFIQnkzUldtNTh4UlpEWjVaOEJQb0hVdXJSS0cyUWxsczFtdTV3dlVDZExSRkNlbTBneWRpenBEYWFwdVItV09BMVhDejVDaDdPc1g2OUxNNA?oc=5	遇溺悲劇	A
 2026-10-09	清水灣晨泳 6旬漢遇溺不治	https://news.google.com/rss/articles/CBMiqwJBVV95cUxOcFJTTjNyZW02bVpjLW13bzFLanM3WGtqQkUxZmtPMTZValdFdncyQXZVaHp0TjZBMDRXU1ByUnF5LUxHeXRrYWl1SUg4ZjkyV0hxSWpqNmczX0Z3cldyam1QTjRRV3Q1NUtMdll1SHJOQVN1WkY5c200UE5VR0c1U0JBRDd6Y2tUYnFyeDhRU2NGNXctWkpfTG01ZENIZG9NQk56T0ItaEtFQ0dtZlhxNERPZ21mNHBQZ21jaUJONkp1YlhtOVBzQmdnTUFGTVAzNVZlT2p5M0NlNXhNRDNsM2VxMTlRRnh3NFR6YkNRUXEtX3VGV1JScVVHNFFyZWNPTzJEVkYxdkFTUll5WEN1dXktdC1MZUU3VmJvSzFueHkxaVNYMFdERW43Yw?oc=5	遇溺悲劇	A
 2026-10-06	降雨引發礦洞漲水 7名盜礦者遇溺亡	https://hk.on.cc/hk/bkn/cnt/news/20261006/bkn-20261006131238205-1006_00822_001.html	遇溺悲劇	A
@@ -141,7 +140,6 @@ var DATA_TRAGEDY = `
 2026-01-16	巴西水上樂園︱救生員幫客撿婚戒 吸入排水口受困15分鐘溺亡	https://std.stheadline.com/realtime-world/3536131/巴西水上樂園救生員幫客撿婚戒-吸入排水口受困15分鐘溺亡	遇溺悲劇	A
 2026-01-09	12歲男孩溫泉池遇溺身亡 門店事後正常營業 家屬悲痛求釐清責任	https://www.hk01.com/大國小事/60311166/12歲男孩溫泉池遇溺身亡-門店事後正常營業-家屬悲痛求釐清責任	遇溺悲劇	A
 2025-12-26	大埔黃宜坳村老婦疑墮魚池遇溺 送院後不治	https://hk.news.yahoo.com/大埔黃宜坳村老婦疑墮魚池遇溺-送院後不治-050854212.html	遇溺悲劇	A
-2025-12-26	大埔六旬婦村屋魚池遇溺 送院證實不治	https://www.i-cable.com/新聞資訊/423231/大埔六旬婦村屋魚池遇溺-送院證實不治	遇溺悲劇	A
 2025-11-27	老妇遭急流冲走溺亡 “别丢下我”成遗言	https://www.8tvnews.my/localnews/laofuzaojiliuchongzouniwang-biediuxiawochengyiyan/	遇溺悲劇	A
 2025-11-23	厦门男泳池溺亡 沉水底30分钟方获捞起 家属质疑救生员延迟施救	https://global.hk01.com/大国小事/60296863/厦门男泳池溺亡-沉水底30分钟方获捞起-家属质疑救生员延迟施救	遇溺悲劇	A
 2025-11-10	【致命慘劇】 墨爾本東南部兩人墮溪溺斃	https://www.sbs.com.au/language/chinese/zh-hant/article/two-dead-including-child-after-drowning-incident-in-dandenong-creek/f36abzcrn	其他悲劇	A

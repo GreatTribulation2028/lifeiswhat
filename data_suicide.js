@@ -1,4 +1,4 @@
-// 自殺 | 由 htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 1387 條
+// 自殺 | 由 htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 1390 條
 var DATA_SUICIDE = `
 2026-11-19	新店23歲男租屋處突墜樓 室友驚見急報案仍搶救不治	https://news.ltn.com.tw/news/society/breakingnews/5646024	跳樓墮樓	-
 2026-11-19	新北警交通小隊長住處墜樓亡 因病請假休養竟發生憾事	https://www.ettoday.net/news/20261119/3274653.htm	跳樓墮樓	-
@@ -144,6 +144,7 @@ var DATA_SUICIDE = `
 2025-12-30	慈雲山老翁疑晾曬窗簾時失足墮樓死亡	https://www.881903.com/news/local/2612277	跳樓墮樓	B
 2025-12-30	8旬婦結束癱兒生命二審開庭 律師爭取改以加工自殺論罪	https://news.pts.org.tw/article/788320	其他方式	A
 2025-12-29	黃大仙下邨六旬婦墮樓 送院證實死亡	https://hk.on.cc/hk/bkn/cnt/news/20251229/bkn-20251229231814862-1229_00822_001.html	跳樓墮樓	B
+2025-12-29	珍惜生命｜灣仔道酒店雙程證女子割腕倒斃廁所 職員揭發報警	https://www.hk01.com/突發/60307837/珍惜生命-灣仔道酒店雙程證女子割腕倒斃廁所-職員揭發報警	未分類	B
 2025-12-29	珍惜生命│沙田38歲失蹤男水泉澳邨墮斃 疑墮樓兩日才被發現	https://www.stheadline.com/breaking-news/3530800/珍惜生命沙田38歲失蹤男水泉澳邨墮斃-疑墮樓兩日才被發現	跳樓墮樓	-
 2025-12-29	東京母子4人離奇死亡 原以為自殺 母親名義所租單位再發現男屍	https://www.hk01.com/article/60306740	其他方式	A
 2025-12-28	珍惜生命│1小時2宗墮樓 2男當場不治	https://www.singtao.ca/7373314/2025-12-28/news-珍惜生命│1小時2宗墮樓+2男當場不治+其中1人為失蹤者/	跳樓墮樓	A
@@ -165,7 +166,6 @@ var DATA_SUICIDE = `
 2025-12-19	珍惜生命｜慈正邨18岁青年上吊 家人解下惜为时已晚	https://global.hk01.com/突发/60305275/珍惜生命-慈正邨18岁青年上吊-家人解下惜为时已晚	上吊懸吊	A
 2025-12-19	【快訊】同一人連環犯案! 捷運中山站驚傳隨機砍殺事件 9人輕重傷 犯嫌疑闖百貨公司墜樓輕生	https://www.taiwannews.com.tw/zh/news/6268831	其他方式	A
 2025-12-19	28歲女教師結婚日跳樓自殺 多少中國青年的人生被催婚擠壓變形？	https://www.hk01.com/中國觀察/60305148/28歲女教師結婚日跳樓自殺-多少中國青年的人生被催婚擠壓變形	跳樓墮樓	B
-2025-12-18	珍惜生命︱大嶼山私家車停泊路邊 揭男司機疑車內燒炭 當場不治	https://www.hk01.com/突發/60304770/珍惜生命-大嶼山私家車停泊路邊-揭男司機疑車內燒炭-當場不治	燒炭一氧化碳	B
 2025-12-18	大嶼山男子車內昏迷 被揭車內燒炭當場氣絕	https://hk.on.cc/hk/bkn/cnt/news/20251218/bkn-20251218134659689-1218_00822_001.html	燒炭一氧化碳	B
 2025-12-17	阿根廷一名哨兵 在總統官邸外自殺	https://www.worldjournal.com/wj/story/121480/9210382	其他方式	C
 2025-12-14	珍惜生命｜九龍灣工廈男子自縊 友人揭發報警惜太遲	https://www.hk01.com/突發/60303496/珍惜生命-九龍灣工廈男子自縊-友人揭發報警惜太遲	其他方式	B
@@ -338,6 +338,7 @@ var DATA_SUICIDE = `
 2025-09-03	珍惜生命｜深水埗東廬大樓七旬翁自縊 女兒揭發惜為時已晚	https://www.hk01.com/article/60272937?utm_source=01articlecopy&utm_medium=referral	其他方式	B
 2025-09-03	波蘭3母女化糞池慘死 疑母殺兩女後自盡	https://www.singtao.ca/7259464/2025-09-03/news-波蘭3母女化糞池慘死++疑母殺兩女後自盡/	其他方式	B
 2025-09-03	250萬遭騙光！汐止老夫妻燒炭雙亡 車手僅輕判1年4月	https://ctinews.com/news/items/v7x35o29Wj	燒炭一氧化碳	A
+2025-09-02	珍惜生命｜新田村路的士司機疑車內燒炭 當場不治	https://www.hk01.com/article/60272406?utm_source=01articlecopy&utm_medium=referral	燒炭一氧化碳	B
 2025-09-02	珍惜生命｜屯門酒店住客房間內自縊 身份待查	https://www.hk01.com/article/60272398?utm_source=01articlecopy&utm_medium=referral	其他方式	C
 2025-09-02	珍惜生命｜屯門怡樂花園單位遭縱火 住客留遺書墮樓亡（更新）	https://www.am730.com.hk/本地/珍惜生命-屯門怡樂花園單位遭縱火-住客留遺書墮樓亡-更新-/595036	跳樓墮樓	A
 2025-09-02	九龍城21歲巴籍男尋友摸門釘 凌晨天台消遣睡覺 意外墮樓亡	https://www.hk01.com/article/60272241?utm_source=01articlecopy&utm_medium=referral	跳樓墮樓	C
@@ -357,6 +358,7 @@ var DATA_SUICIDE = `
 2025-08-27	油麻地中年汉棉绳上吊亡 原因待查	https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/15821539542029/娛樂-成龍前助手段偉倫離世終年67歲-曾為亞視小生客串電影無數-	上吊懸吊	A
 2025-08-26	離奇身亡、墜樓連環爆！退休警打完哈欠猝逝…鬼門才開「高雄14hrs內釀4死」 ｜ 陳姿諭 ｜ 全解析	https://www.storm.mg/article/11063001	跳樓墮樓	B
 2025-08-26	勒索李善均害他輕生！酒店女經理涉毒再判刑 法官怒： 罪責不可輕	https://star.setn.com/news/1709791	其他方式	A
+2025-08-25	珍惜生命｜大埔三門仔村屋男子自縊 家人解下報警送院惜不治	https://www.hk01.com/article/60269984?utm_source=01articlecopy&utm_medium=referral	其他方式	B
 2025-08-25	戀童癖被判死刑「處決前自殺」 美檢察官驚語：幫納稅人省錢	https://www.ettoday.net/news/20250825/3021365.htm	其他方式	A
 2025-08-25	吃了誠實豆沙包？戀童癖性侵犯執行死刑前「自殺」 檢察官：省下大錢	https://tw.nextapple.com/entertainment/20250825/A82333E3C6A76950C16C9F565B44067E	其他方式	A
 2025-08-25	印尼14歲懷孕少女自殺！屍體胸部「可疑抓痕」 男友、親哥落網	https://www.ettoday.net/news/20250825/3021709.htm	其他方式	A
@@ -367,6 +369,7 @@ var DATA_SUICIDE = `
 2025-08-22	涉兒童色情被革職 新州前警吞槍自殺	https://www.singtaousa.com/index.php/5368299	槍械方式	A
 2025-08-22	旺角唐樓劏房冒煙 揭男住客燒炭自殺亡	https://www.singtaousa.com/2022-11-30/旺角唐樓劏房冒煙-揭男住客燒炭自殺亡/4345468	燒炭一氧化碳	B
 2025-08-22	新婚教授跳樓、博導墜亡 教授連環離世！高校「非升即走」真相震撼曝光	https://www.soundofhope.org/post/900132?lang=b5	跳樓墮樓	B
+2025-08-22	找不到女友竟攀牆！大馬25歲男失足墜樓 頭部受創當場亡 | TVBS	https://www.chinesepress.com/2025/08/22/更新！士嘉堡stc购物中心美食广场旁枪击1人死亡/	跳樓墮樓	B
 2025-08-22	女子跳軌遭7號線列車撞擊 疑為自殺身亡	https://www.singtaousa.com/5358551	其他方式	A
 2025-08-21	20歲女生赴大馬留學遭電詐 9天後跳樓自殺	https://www.epochtimes.com/b5/25/8/21/n14578149.htm	跳樓墮樓	B
 2025-08-20	馬頭圍邨男子與家人失聯 被揭家中燒炭亡	https://hk.on.cc/hk/bkn/cnt/news/20250820/bkn-20250820104047622-0820_00822_001.html	燒炭一氧化碳	B
@@ -470,7 +473,6 @@ var DATA_SUICIDE = `
 2025-02-23	祥華邨商場中年婦廁內自縊 送院命殞	https://hk.on.cc/hk/bkn/cnt/news/20250223/bkn-20250223184456157-0223_00822_001.html	其他方式	A
 2025-02-19	北分署公務員遭霸凌輕生 勞動部追頒3等勞動獎章	https://news.pts.org.tw/article/738594	其他方式	A
 2025-02-17	珍惜生命︱上水男子疑車內燒炭 消防破窗救人 事主當場不治	https://www.hk01.com/article/60211454?utm_source=01articlecopy&utm_medium=referral	燒炭一氧化碳	A
-2025-02-15	財困男新蒲崗住所燒炭輕生 送院證實不治	https://hk.on.cc/hk/bkn/cnt/news/20250215/bkn-20250215000503352-0215_00822_001.html	燒炭一氧化碳	B
 2025-02-13	家庭問題困擾 女子屯門住所燒炭亡	https://hk.on.cc/hk/bkn/cnt/news/20250213/bkn-20250213001431798-0213_00822_001.html	燒炭一氧化碳	B
 2025-02-12	西灣河鯉景灣19歲仔墮樓亡 父親情緒激動送院	https://news.google.com/rss/articles/CBMi2wJBVV95cUxPbnY1N2FRQnZ2cHhFV3A3Qnc3RmgtVDFDVzVNVGJJWWllZVU5U3Zjd1JBMFdWTG41QTZfN3Q4SWtfYXM5NlFubXlzd2U2N1V0TUJoeFNnX0xMaVRNY1loNVI0eUVyVmNGdHNObmptcnVhOUtLY09Tck5EejNOTkN3NW5NeXhsRFVteXRUZHkxb0V6V1RvUXhRRXNQM2dqZV9La0lwbFZUSnN3cnZ6czdYaWVlTk96cWttVnY0NG16MEQ1MUdBdzhLcF9lVkMyaGJvQTNSV0w3QVExMFlERHgxelFIMVA1MWZJUEIxVV9ubU1yS1dPcl9TUzZDUDlkSTlsYkNwQlZaM1ptOVZoYm9WQUg2T1c4d0hKX0pCQ1VXc2pDbmo2OU9vX3AwNEVnaFZqQWZLcHVLLTUzWGpOeVFVV1ljVlh5Wmtyd01hYnB6ZVNNWFh2ci1fSnpkVQ?oc=5	跳樓墮樓	-
 2025-02-12	油麻地22歲女電線上吊 兄父合力解下惜太遲	https://news.google.com/rss/articles/CBMitwJBVV95cUxNVmU4T1FHb2lBTEtqRlYzeXZxRFZTZ18xM3htZmNlNjYwM2ROdFItZjEtUHFIUXlwRkl5V1NMS0hTTFRfMlJFampGTjZmdXp5VlQ3ckdSU0pTdExUUGg1bE5uMXFROXd5N2FCbVhqZnlrNnAxWHFkTHZyZEkyelhyQ3ZMVUM5MTZTT3lNMzRfc1o4UEoxRjVtSFhCNFZYYzRZZUtLd1g2V2dVOWQ1S1BnNnRQbUx6bWJYQ2JrcGl4UF9nRmxiMHVYNHBWV1dSN2hrZ0tHNFM5SVZpR2dqS2Uxa0tqRnFDem1OZEE1NlpnVWtmU0lLSS0wdlVMQy1aX3FwNUlKdjZKYkVoN0Z5Zk84anlsYmx0VHo1S2pHalI4SC1pNE14SXdJUE42LW43T0FyeW40NHkzTQ?oc=5	上吊懸吊	-
@@ -695,6 +697,7 @@ var DATA_SUICIDE = `
 2023-03-21	女大生11樓屋外上吊 警消到場時無生命跡象	https://tw.news.yahoo.com/%E5%A5%B3%E5%A4%A7%E7%94%9F11%E6%A8%93%E5%B1%8B%E5%A4%96%E4%B8%8A%E5%90%8A-%E8%AD%A6%E6%B6%88%E5%88%B0%E5%A0%B4%E6%99%82%E7%84%A1%E7%94%9F%E5%91%BD%E8%B7%A1%E8%B1%A1-040524994.html	上吊懸吊	A
 2023-03-21	太湖花園中年婦膠袋笠頭自殺 兒子發現惜太遲	https://hk.on.cc/hk/bkn/cnt/news/20230321/bkn-20230321203354021-0321_00822_001.html	其他方式	B
 2023-03-17	不堪病魔及金錢困擾 富山邨男子上吊亡	https://hk.on.cc/hk/bkn/cnt/news/20230317/bkn-20230317155544292-0317_00822_001.html	上吊懸吊	A
+2023-03-16	香港仔男子菜刀割腕 送院搶救後不治	https://hk.on.cc/hk/bkn/cnt/news/20230316/bkn-20230316074925668-0316_00822_001.html	其他猝死	-
 2023-03-16	台中商辦大樓驚傳墜樓！ 女子闖入搭電梯上26樓墜下當場死亡	https://www.setn.com/news/1265873	其他方式	A
 2023-03-16	台中商辦傳墜樓 女奔26樓墜下亡	https://www.cdns.com.tw/articles/764911	跳樓墮樓	A
 2023-03-15	一個散戶爆倉200萬美元的日記：輕生前留下「我曾以為加密貨幣能賺錢」	https://www.blocktempo.com/tweets-of-a-trader-lost-all-of-funds/	其他方式	D
@@ -719,6 +722,7 @@ var DATA_SUICIDE = `
 2023-01-31	最好看的柯南電影是哪部？「21年前神作」被推爆，鬼才編劇卻在2 年後上吊自殺	https://www.storm.mg/lifestyle/4711641	上吊懸吊	-
 2023-01-29	胡鑫宇失蹤106日尋回遺體 疑樹林上吊自殺	https://hk.on.cc/hk/bkn/cnt/cnnews/20230129/bkn-20230129115846841-0129_00952_001.html	上吊懸吊	-
 2023-01-27	珍惜生命｜葵涌興芳路遊樂場 男子馬騮架吊頸亡	https://www.hk01.com/article/860909?utm_source=01articlecopy&utm_medium=referral	上吊懸吊	A
+2023-01-27	柴灣男子燒炭尋短 送院搶救不治	https://hk.on.cc/hk/bkn/cnt/news/20230127/bkn-20230127092524998-0127_00822_001.html	燒炭一氧化碳	A
 2023-01-27	富泰邨婦人墮樓 當場死亡	https://hk.on.cc/hk/bkn/cnt/news/20230127/bkn-20230127142707791-0127_00822_001.html	跳樓墮樓	A
 2023-01-27	中環堅道七旬婦墮樓 當場死亡	https://www.stheadline.com/breaking-news/3192310/%E4%B8%AD%E7%92%B0%E5%A0%85%E9%81%93%E4%B8%83%E6%97%AC%E5%A9%A6%E5%A2%AE%E6%A8%93-%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1	跳樓墮樓	A
 2023-01-25	香港女子移居英國 疑憂陷財困自殺亡	https://hk.on.cc/hk/bkn/cnt/news/20230125/bkn-20230125203505572-0125_00822_001.html	其他方式	-
@@ -752,11 +756,9 @@ var DATA_SUICIDE = `
 2023-01-03	筲箕灣中年漢生活不如意 向家人發死亡訊息後燒炭斃命	https://hk.on.cc/hk/bkn/cnt/news/20230103/bkn-20230103000614874-0103_00822_001.html	燒炭一氧化碳	B
 2023-01-03	珍惜生命｜中年男子疑因生活問題困擾燒炭亡	https://hk.epochtimes.com/news/2023-01-03/88630605	燒炭一氧化碳	-
 2023-01-03	珍惜生命｜上水七旬翁上吊 昏迷送院搶救	https://www.hk01.com/article/853409?utm_source=01articlecopy&utm_medium=referral	上吊懸吊	-
-2023-01-02	珍惜生命｜護老院七旬院友麻繩上吊 送院後不治 ｜ am730	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E8%AD%B7%E8%80%81%E9%99%A2%E4%B8%83%E6%97%AC%E9%99%A2%E5%8F%8B%E9%BA%BB%E7%B9%A9%E4%B8%8A%E5%90%8A-%E9%80%81%E9%99%A2%E5%BE%8C%E4%B8%8D%E6%B2%BB/355255	上吊懸吊	A
 2023-01-02	珍惜生命｜大埔運頭塘邨男子垃圾站旁自縊 消防解下證身亡	https://www.hk01.com/article/852967?utm_source=01articlecopy&utm_medium=referral	其他方式	A
 2023-01-02	珍惜生命｜元朗大埔2老翁先後自縊亡。	https://hk.epochtimes.com/news/2023-01-02/17001045	其他方式	A
 2023-01-02	內地漢元旦酒店放血亡 七旬翁翌日大樹上吊歿	https://hk.news.yahoo.com/內地漢元旦酒店放血亡-七旬翁翌日大樹上吊歿-143031404.html	上吊懸吊	A
-2023-01-01	珍惜生命｜馬鞍山銀湖天峰及將軍澳健明邨 １男１女高處墮下亡 ｜ am730	https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD-%E9%A6%AC%E9%9E%8D%E5%B1%B1%E9%8A%80%E6%B9%96%E5%A4%A9%E5%B3%B0%E5%85%AD%E6%97%AC%E7%BF%81%E9%AB%98%E8%99%95%E5%A2%AE%E4%B8%8B%E4%BA%A1-%E7%8F%BE%E5%A0%B4%E6%AA%A2%E7%8D%B2%E9%81%BA%E6%9B%B8/355224	未分類	A
 2022-12-30	珍惜生命｜年逾九旬老翁家中自縊亡。	https://hk.epochtimes.com/news/2022-12-30/21236505	其他方式	A
 2022-12-29	18歲女子和30歲男子死於公寓，木炭自殺。	https://news.yahoo.co.jp/articles/15e5130adda488595f31ad43cf610f7257a38b81	其他方式	A
 2022-12-28	獨立中文筆會會員鞏磊墜樓，染疫後感覺生不如死。	https://www.ntdtv.com/b5/2022/12/28/a103608311.html	跳樓墮樓	B
@@ -874,6 +876,7 @@ var DATA_SUICIDE = `
 2022-09-08	燒炭殺末期癌妻 男子判感化	https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20220908-0908_00176_221/%E7%87%92%E7%82%AD%E6%AE%BA%E6%9C%AB%E6%9C%9F%E7%99%8C%E5%A6%BB--%E7%94%B7%E5%AD%90%E5%88%A4%E6%84%9F%E5%8C%96	燒炭一氧化碳	A
 2022-09-08	沙角邨老婦墮樓 當場死亡	https://hk.on.cc/hk/bkn/cnt/news/20220908/bkn-20220908143555441-0908_00822_001.html	跳樓墮樓	A
 2022-09-05	新店公墓驚見女屍 警研判疑墜樓、封鎖現場調查	https://news.ltn.com.tw/news/society/breakingnews/4048460	跳樓墮樓	C
+2022-09-04	珍惜生命】男子住所領呔吊頸送院搶救後不治	https://topick.hket.com/article/3345604/%E3%80%90%E7%8F%8D%E6%83%9C%E7%94%9F%E5%91%BD%E3%80%91%E7%94%B7%E5%AD%90%E4%BD%8F%E6%89%80%E9%A0%98%E5%91%94%E5%90%8A%E9%A0%B8%E3%80%80%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	其他猝死	B
 2022-09-03	27歲演員劉珠恩輕生離世... 親友團「歡樂葬禮合照」掀熱議！網：看完更悲傷了	https://thekdaily.com/article/177391/%E9%9F%93%E5%9C%8B-%E6%BC%94%E5%93%A1-%E5%8A%89%E7%8F%A0%E6%81%A9-%E8%BC%95%E7%94%9F-%E9%9B%A2%E4%B8%96-%E9%81%BA%E6%9B%B8-%E8%91%AC%E7%A6%AE	其他方式	B
 2022-09-02	台東美術館附近樹林驚見男子輕生 警封鎖現場調查	https://news.ltn.com.tw/news/society/breakingnews/4045372	其他方式	C
 2022-08-29	疑因星途不順！27歲韓國女星劉珠恩自殺離世	https://hk.on.cc/hk/bkn/cnt/entertainment/20220829/bkn-20220829120448388-0829_00862_001.html	其他方式	-
@@ -1135,6 +1138,7 @@ var DATA_SUICIDE = `
 2020-05-14	管教不當致小情侶跳樓輕生監院糾正板橋國中- 政治	https://news.ltn.com.tw/news/politics/breakingnews/3165265	跳樓墮樓	B
 2020-05-06	財困女大圍龍柏街車內燒炭亡	https://hk.on.cc/hk/bkn/cnt/news/20200506/bkn-20200506174507544-0506_00822_001.html	燒炭一氧化碳	A
 2020-04-29	陸軍269旅排長輕生案 傳遭同僚輪番羞辱	https://news.pts.org.tw/article/476706	其他方式	B
+2020-04-29	269旅中尉輕生疑遭霸凌3名軍官停職調查| 民視新聞網	https://today.line.me/tw/v3/article/z1PJVP	其他方式	A
 2020-04-29	1年爆3起自殺案 269旅排長上吊被指案情不單純 | 蘇仲泓 | 新聞	https://www.storm.mg/article/2579130	上吊懸吊	B
 2020-04-28	荃灣酒店女子上吊亡 警查原因	https://hk.on.cc/hk/bkn/cnt/news/20200428/bkn-20200428100800734-0428_00822_001.html	上吊懸吊	A
 2020-04-27	行山婦飛鵝山失足魂斷「自殺崖」	https://hk.on.cc/hk/bkn/cnt/news/20200427/bkn-20200427151737392-0427_00822_001.html	其他方式	B
@@ -1230,7 +1234,6 @@ var DATA_SUICIDE = `
 2019-06-09	梨木樹邨女子墮樓殞命	https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN3k5N1RWeWNlTjRoczByRmJhLWtHVnl4NmhmTUJ6SWxPb3Q4MmhvWGhpd1FBQU9RbDlvZm45eWs1ODMtN0ZPTlVuZ0x4NDdVTmRCVHI3V3YwMEI5c3FIREh3SXR4dHZsY3R6RE9KZ1pkLUpUVEZMX3MzVzk0b182eDlKUGo1M0FkYm93?oc=5	跳樓墮樓	A
 2019-05-16	粉嶺男子墮樓斷腳死亡	https://hk.on.cc/hk/bkn/cnt/news/20190516/bkn-20190516132119122-0516_00822_001.html	跳樓墮樓	A
 2019-05-15	台中七期豪宅驚傳墜樓案 23歲女香消玉殞	https://news.ltn.com.tw/news/society/breakingnews/2790768	跳樓墮樓	B
-2019-05-15	「我已經累了」妙齡女留遺書10樓跳下當場死亡| TVBS	https://today.line.me/tw/v3/article/kZVOP1	自然離世	A
 2019-05-13	花東戰車營上尉到湖口訓練 在車內燒炭輕生	https://news.ltn.com.tw/news/society/breakingnews/2789142	燒炭一氧化碳	B
 2019-05-09	元州邨男住客上吊亡	https://hk.on.cc/hk/bkn/cnt/news/20190509/bkn-20190509094455495-0509_00822_001.html	上吊懸吊	A
 2019-05-09	【幫人自殺】女友無力還債欲求死 廣州男助其割腕變罪犯判監10年	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/327087/%E5%B9%AB%E4%BA%BA%E8%87%AA%E6%AE%BA-%E5%A5%B3%E5%8F%8B%E7%84%A1%E5%8A%9B%E9%82%84%E5%82%B5%E6%AC%B2%E6%B1%82%E6%AD%BB-%E5%BB%A3%E5%B7%9E%E7%94%B7%E5%8A%A9%E5%85%B6%E5%89%B2%E8%85%95%E8%AE%8A%E7%BD%AA%E7%8A%AF%E5%88%A4%E7%9B%A310%E5%B9%B4	割腕自殘	A
