@@ -1,5 +1,6 @@
-// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 136 條
+// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 138 條
 var DATA_RELIGION = `
+2026-11-21	援助苦難教會組織：紅光照亮教堂和古跡，銘記受迫害的基督徒- 梵蒂岡新聞網	https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2ZkbURLZi1jbXNIaERBQzBIaW55VXVNYTNOdkkyNk0yamxDM0xORmxwaExxZVp6WEtkbFJ4clZwZE0yOXR1TDRjN0JtSlV0SWdVend4TXMxaC1LRV9RSTlaQ1ZjeDg4NEsxbUpORHVEcUFycFAyaTh6MFVrNVprQU5VZS1XOWxwN2VXNmxZZkJZZEtlNXpRT21IVHYxajZ5NmNHUm9LbkEySEJlSkRkeHQ4WXJIRU1q?oc=5	逼迫教會	-
 2026-11-21	「要在你腦子上撒尿」？紐時：黃仁勳辱罵部屬花樣百出以恐懼治理有邪教色彩| 國際焦點	https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwdGxfalpDOU05a0dRNmlBaVFvWnZKUUhpUmlmdmRyN05YX3VvZ29QeWxxeVdRVnljTE5vMVUzOHdFTUtZT2ZHRFFxZmVlVWZnM3ctcDVvZHJUYndk?oc=5	異端邪教	-
 2026-11-17	切割？曹興誠稱「罵蔣邪靈和沈無關」 徐巧芯：曹沈關係非說切就切	https://www.ettoday.net/news/20261117/3273756.htm	未分類	-
 2026-11-15	黃仁勳就是神？員工爆輝達如「封建邪教」學穿皮衣 黃敏珊遭控超難搞 黃家人1特權引眾怒	https://news.google.com/rss/articles/CBMiUkFVX3lxTE03R3V1VUUxbmh2cDYxOV9aZ3hEUlViR050LWgzb0s2dERzZTlSNWFLVjlmekM3RW5JRDBaRHZnRDBiLXFtTkFhSzdBOVl3LVRhZGc?oc=5	異端邪教	-
@@ -130,6 +131,7 @@ var DATA_RELIGION = `
 2019-04-21	「熱血司祭」開虐T__T 李神父遇害真相曝光| 噓短片	https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jdEdpck84YUFVaVRQdmdKMzZ0SmhUV0otdVFYWnZfVmdKOHlFZDE3VlNwM3kxZ3M0VS1ZM3A0UzliNWxwVXdkemhNVDRkdTZ4WGlWZnNZSU4?oc=5	宗教	B
 2019-03-04	中國家庭教會面臨被定為「邪教」的危險- 新聞	https://news.google.com/rss/articles/CBMimwFBVV95cUxQUm9RUXlhQzI5OWhlZUlINzZJazF5OWt6NlVTdzdvRVhmRzRia0NVMGwtMjlKQ2pTU2M4ckRWR01rRW5Na0tTMG9kNW56WDVXaE1SQnpLaU9oYVFVaktpUGlhQmJjLTNLYXY1ck9GbjdtUVRFajh1YklRREEzZm9VWjFZWTNzdkVHODZxeEpCUm5KUU1KLVBmMlBvZw?oc=5	異端邪教	-
 2018-12-16	俄烏東正教會歷史性分裂 基輔自立牧首	https://hk.on.cc/hk/bkn/cnt/aeanews/20181216/bkn-20181216110011088-1216_00912_001.html	其他宗教	A
+2018-06-03	論教宗、天主教與基督教	https://news.google.com/rss/articles/CBMitAFBVV95cUxQd01MVlBwRjZLSE1RYmFBTlNyb2I3ZXBtQ1owdS02RlBrV1pZVzljbnoxUWdfVEdacDUzYS1sOS1WZF9admJXWVp0TUVFcXBuQUVlVEhNdUh0ZzBxM2xPS3hQSjFzaHNBRnlVNEFYbFI2cWNzaXNaSlZ3eDBONHJ0dnBPX2g4aUNxUG04SWlFeUtZdGlRRjJQbm5lN3Q4bGc5T0l4cXJ0b1pISUtoZ2NNd201RVE?oc=5	其他宗教	-
 2017-08-23	日蝕是「末世警示」﹖寇牧師：聖經不是這樣讀！	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhNTdhcWh2R0RSVm9RcGNyWHN0V21lZkZYMGhIMl9zN2dEaDBxT0U1aW52aG44TG4xeHJTRTRHWFMzLXhpTnhuVnN1aUd0Z0gtVHNtSXFONDRnZw?oc=5	其他宗教	-
 2017-01-26	挺同、反同長老教會意見分歧 總會書記：若教會分裂，會有很大傷害 | 謝珮琪 | 新聞	https://www.storm.mg/article/217221	其他宗教	B
 2016-11-07	梵蒂岡譴責中國神職人員自行祝聖為主教	https://news.google.com/rss/articles/CBMigAFBVV95cUxNSTZiQTZxNk5VNndLVFZncFhSVWJvQkRYSnZ4RVdoWkFQY2RhWTYxbUpUS1BUNVZ2MVNnWGxPQUxKLVgxdV9MU2VoMk1ubHpTYm1ZQ0R0RU90SHEwN3JsQ3lwbk1LV1ptSFV2ZTBVX2hXVE4yNy1OUm13ZkwzdFlBSw?oc=5	未分類	-

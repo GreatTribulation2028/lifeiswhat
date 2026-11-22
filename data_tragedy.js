@@ -1,5 +1,6 @@
-// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 246 條
+// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 247 條
 var DATA_TRAGEDY = `
+2026-11-21	國道2死慘劇！一對男女拋飛、她卡車底喪命…貨車駕駛驚吐：不知道是人	https://news.google.com/rss/articles/CBMiSEFVX3lxTE05OFRhUkxUZUZIWlhMVGJIMzJGS3dteGhmeWstc2N4NHl5RlVoVWxnVGllVG9FMHFXS2RGR3pOWjNRbDhTTTI2V9IBTEFVX3lxTFBCWmtKdWdsNnZTRkw4MHpMVE96N3hDRG4ybjkxLVFoZFdrVmJIM20xMzBNSVBfY1ZIT25vQVFJYy11VUN4TnVFYTVyTVA?oc=5	悲劇	-
 2026-11-20	布碌崙塌樓慘劇 5名工人入稟索償	https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWZvLXZveWd1dVk3VzFrWWV6YzRkMUJWb0E2V1Z0SkJ3Mm5yVEJ4N2hVTENLcTFJOHIwbXViWmVpSmFuWUtQV3h4OU14enJ6bmQyNHBLallINEZMQzlXU1FobzJ0SmRfTk5sNURILTJWdTBpc21Ob3IwZDFYNnJ3VGExbjhoYTcxSHc?oc=5	悲劇	-
 2026-11-17	影/新北天倫悲劇！父子吵架「兒子全身陷火海」命危	https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jZjA1R1ZPVTRKY3Vua3hmdjA2cm9TN3dZWi1qLUItWXFVMUNSQ1g1UWk2S2RQX2pNZnRnRWtVQU1NZ1RadUNXaUVrRmRkS1B6d3lJ?oc=5	悲劇	-
 2026-11-17	南非血腥之夜接連2起槍擊案 釀17死慘劇	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Jd25OazhsNTUtUVV1aktZZXJEaXQxaDVJQzI4cUdDZG51ZEg1VG5ackhvN1lUTTVJdDdzeFpkNEtwRUpDanhMZnBFX0NMSVQ5cjFacFpmdl94bkpseS1aeXdyakEyQdIBa0FVX3lxTE5yZEdGLWVIMVBSbk1RalVrMGpmeGRGMjZxQ3M1cnctQV9zMy1NSkp6NjFkZEUyelBJY0VvSEtDSWh3aVg4ZWhITmZIZDU3LVZKZWl5M1RyNU5yZjRxTS14VEQ0bkJNMzNZZ3lB?oc=5	其他悲劇	-

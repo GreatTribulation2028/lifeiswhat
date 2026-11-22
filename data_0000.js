@@ -644,7 +644,6 @@ var DATA_0000 = `
 2023-01-07	台今增逾2.4萬宗本土新冠 多61人疫歿	https://hk.on.cc/hk/bkn/cnt/cnnews/20230107/bkn-20230107140008336-0107_00952_001.html		-
 2023-01-08	傳奇衝浪手溺斃！遭「4.9km巨浪」擊倒 躺沙灘斷氣│TVBS新聞網	https://news.tvbs.com.tw/world/2012196		-
 2023-01-08	日本新冠病歿者破6萬人！ 短短1個月增1萬人染疫身亡	https://www.ettoday.net/news/20230108/2418596.htm#ixzz7ppBQdq25		-
-2023-01-08	荔枝角五旬男囚不治 死因庭將進行研訊	https://hk.sports.yahoo.com/news/%E8%8D%94%E6%9E%9D%E8%A7%92%E4%BA%94%E6%97%AC%E7%94%B7%E5%9B%9A%E4%B8%8D%E6%B2%BB-%E6%AD%BB%E5%9B%A0%E5%BA%AD%E5%B0%87%E9%80%B2%E8%A1%8C%E7%A0%94%E8%A8%8A-100655334.html		-
 2023-01-09	中共已故中將梁興初之妻任桂蘭病亡	https://www.epochtimes.com/gb/23/1/9/n13902621.htm		-
 2023-01-09	今增11641確診 輸入佔323宗 多64名患者病逝	https://hk.on.cc/hk/bkn/cnt/news/20230109/bkn-20230109161117478-0109_00822_001.html		-
 2023-01-09	內地新增1.4萬宗新冠確診個案 多3名患者死亡	https://www.bastillepost.com/hongkong/article/12040334-內地新增1-4萬宗新冠確診個案 多3名患者死亡		-

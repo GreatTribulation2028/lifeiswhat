@@ -1,6 +1,8 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 408 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 410 條
 var DATA_TECH = `
+2026-11-22	「我不是機器人」變駭客陷阱！照做1動作電腦恐遭入侵 內行：絕對是詐騙	https://news.google.com/rss/articles/CBMiWkFVX3lxTE01RnJYM1l4VE5BeWZ0ZnNhanFhTFdUNzFkVTVkcUpMcm9MaTdrVEVQekxlNktGUXhxb1lVYmFscXRuRVAtazhuTzNSclN4ZXlOS0ZuMjJjUWU5QdIBX0FVX3lxTE96OElmYzhiX1hUSnltS0k1U1JlWkNJd3JobFdzajJOU1RvclViN2ZRNzYta2RBQlI2OGp6MGZVLXFzbUtJaHpWNHphR2Jzb3kyODhRQWgxT2ZzRldmbXNZ?oc=5	駭客網攻	-
 2026-11-21	陸辦AI芯位大學 推腦機接口標準	https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OMU9rR0YzQkp4UFpzdHBLaEtMTHlTVGNwR21ZQ0ZHV2tqZkhNT190MGtSdkMzbWhzN2pGOU4wRjNmQWs5TWNXbzI5V29Ld2s?oc=5	未分類	-
+2026-11-21	腦機接口產業集聚三城市群	https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tbVg0QS05RzR3QVFxVVUzRG9ZWWpNeW5jYlhCWlE1WnVqc3cyZHRVSkhEUGZ6cFo1QWdUYV9uLVVQNW9yVUdDam13Y3ZQbTB3NkhXSXN0RmsxcFNDRDVNUGttOHNmMHNr?oc=5	未分類	-
 2026-11-21	個資外洩恐讓網路釣魚更精準！資安業者警告：1類詐騙更猖狂	https://news.google.com/rss/articles/CBMibkFVX3lxTE5XbFNaNVA4WUZlNFJOeDgwVzVEaEVSZ2FreFlwRC1ibWlBTEQwZ2NMMHEyLWMxLWxFOVlJbUR0eUZVWmFrSTdFWVZKUm0zX3JyOE1NVURIdGVaY3BqbFJMeHhhdGRQV0lMLVpmTXVR0gFfQVVfeXFMT0d6eUpqcDd4THRVMmFMTTJaMWM5M2FGUnhFZ2ZKaVZmZlhMT3Vndy1TT21wYWR0anozcU9xZ2g4RGNqYWp0THRVTFZvejNnUzQ5VmRTaGxGem9vSjlwcVU?oc=5	資料外洩	-
 2026-11-21	AI 讓詐騙信件不再錯字連篇，資安防線轉向驗證流程	https://news.google.com/rss/articles/CBMinAFBVV95cUxOVDREd0JuUUhSY185M21lOW9TUzE0M19zdHRSazhOemZJV2pfYXUxdy1aSUIzVzNLNFJlSndib1JhYy1wVEZvU0ZYTTQzZ3pHUEVlY0hzRFBnMlhLcjNjNnBLZ2hFQWpYOURWVmRCcDVjQ2Q0Vno2eVczUW8xUmNUU0xBSFRnbW1fSFF5cG85ZUROMGc4c08zZ2RkY3A?oc=5	其他資安	-
 2026-11-20	鳳凰旅遊遭駭、部分旅客個資外洩，已發現冒名訂單詐騙活動	https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2ZkJmUlZScmItUW5LMEw4V21zZ2dEQmNTUm4wbDFidzNqdkJ0LXpJUHR5ZXFoT0prT0FiWlhzRVR0bDV6TEdxUUZMSFEzZw?oc=5	資料外洩	-

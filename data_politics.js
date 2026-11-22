@@ -1,6 +1,16 @@
-// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 218 條
+// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 230 條
 var DATA_POLITICS = `
+2026-11-22	黃世杰連2天發文批評張善政 張競辦反擊：拿悲劇當選舉提款機	https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kLWU5amFKbWlJY1lkQ3lQS1ZlRC16Ny1UYkdUN25wd3VaQWIxU0d2cEctZXZSMDlmSS1JcHRwMGNpR2tzTGUybmdKLUg?oc=5	政治	-
+2026-11-22	麥美娟：選舉氣氛熾熱 選民重視和投入選舉	https://news.rthk.hk/rthk/ch/component/k2/1878775-20261122.htm	大選	-
+2026-11-22	陸啟康對投票率逾98%感鼓舞 證明本港選舉制度操作越趨成熟	https://news.rthk.hk/rthk/ch/component/k2/1878802-20261122.htm	大選	-
+2026-11-21	藍營提司法三訴求 批台灣離獨裁統治不遠了	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPaW5hcGdIeDJqbU9sNmxpMElSOEQwUGlIN2NtWUdHaHZaZjZKZ3diWGx3MG9icmU4R0RIamgxd094Z2psMnlOOW90VzM3N1ZMaEJwbFlKaGp1dDkzRjhhM1U1MWNNOW8?oc=5	獨裁專政	-
+2026-11-21	立會強烈不滿美「2026年報告」失實偏頗 譴責美方隻字不提2019年動亂 香港國安法實施方恢復社會秩序	https://news.google.com/rss/articles/CBMid0FVX3lxTFBCV0Jra0hUNlk3R052cFh0ZmJnNmhER0JtcU1YNEphLVBXMndobGUzWFgzTHFIbW1OcGo5OFJKbkRUNTJmM25kaV9ESWZPMnVxZTFhZk5GbUxsRGRuTXhIN25FamQ1NnEtZXJPOUFGZE55YmRHcFJV?oc=5	政策法令	-
+2026-11-20	馬斯克為何聲援黃仁勳？克魯曼批科技業獨裁創辦人症候群	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIeWFMX21nLXBJdy1YeU41S05YV012RDV3NlEwSnNnWHppMUprZmg1QktaV1lINGtfS1RtSDJtU0NfbENzWnBsOHRKTXoteXcwaUpaRDc3OGJYNFM1WlYtZUV30gFnQVVfeXFMTlZXQUtqY2lBOGdsTlVmWkxYVVBERmxNRWg4RnJXMVdKZERwc0t5VDdkbXRHUTJjempCcGtCampuNnpkZldORGNUcGRvNDBtSFdfOEFfNE5JRm54VV9IamltaERQVk1jMA?oc=5	獨裁專政	-
+2026-11-20	美國愈民主 美企愈獨裁?	https://news.google.com/rss/articles/CBMitAJBVV95cUxNREoxR21NemdQT190cUNsOTAwcVAyb0UtX0t4OW9nclhHQkZROHh5NHlOZmpXOFF4NGcwREM1M1VPUzBBUC1QN0UxWHZ1c0VYcDI0UV9DZnhhWUNqNC1xYV9KSldaZ1NnOUpPeEVPNG02MEEzQnZVb1lGcEh0YUJRMHFSSzdlUzRuYjQ2VFJ0dk9TRGxLeHRZWmU1V0o1Qm5SbHdCbnpRSnk2V2pCUWRkWkJrVmRTampVd2ZwbE1NTmVuR19zVVhzbk5iS3ZYSXZrWEJ6QUlBMW9rcGdZNlF1UmZYVFQwMnJCTmNtYzVrZ2RqRHB2Wmw2ZE9sNmtpQ0s1SjRlMGx4eEtJQmhRQ2xIWHc1dTg5LUhRMHVCd1FaYU43eEdCampSR05DblFfa1VpSTBpQw?oc=5	獨裁專政	-
+2026-11-20	朝野兩黨對大法院認定「12·3戒嚴屬於內亂」的判決視而不見| 東亞日報	https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rZ3hURGx3bzNCYUk5UVBZOTJnRDRXdjdsU1NrNGctbmlOeTlmUXZTT3BKU3lTX0g3ZFlicUY2UEtuakdmdGwyeDBtVE5abllNWlVTRHh6c3VnaEV4NWptMzNtNW1hZw?oc=5	獨裁專政	-
+2026-11-20	台灣曾經有宵禁、講台語被掛狗牌！38年戒嚴「這8件事都不能做」， 最嚴重者面臨死刑	https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rUjlmN3lEVkRWNkVPUklXS2RWcHVwLXl3MG4zZjVwTVpVVE05OVNfOUZKcGg0OVV1X3Y2cHQyM0lMMlhmUkFXMU1KS3AxM0I3?oc=5	獨裁專政	-
 2026-11-19	陳佩琪轟賴清德只知搞選舉、罷免 曝柯文哲私下「這樣評價賴」	https://www.ettoday.net/news/20261119/3274691.htm	大選	-
+2026-11-19	美國策劃2014烏克蘭政變？馬斯克「再」論述：毫無疑問	https://news.google.com/rss/articles/CBMiwgJBVV95cUxOLTBVVWd3NzVDWkZsRm1XbGdKaDNoWjREZldRaEdNOWNEbTk0UjhQUzZrbDRnMGt4VlRRbW4wcXRmQ3JERmlHNUlkZEQ3SDhRa2hubXlDRFpZbXl3dkVTX29WeENmUVFiX1hLZjFuVEo5SkJEUUE1dDRGOVpCZVVldklxU21yWVFLQ0xQN1lOUERZOU5kVEZYTVo0R1NramNBdFZKbUN1RnVfR0lXakVWUTJ1eE5Kd0VHaW0tT3Z4dWNpSW9SWVZwNGhuaEdkSEdlTmdkY1VqQkNRcHRHSThSampyOUZKY0Rad05kbjFLa0RaZFpMMEl2eEx5TjZaWGtDSEprZ2tEMzBYcGZEMXhmOTNGQWVoZjU4UzhMM0kzdkVjY09VRXh4YW1xeFViRjBTcFB1WHlNR21WV1I5Nm5qSVNR?oc=5	獨裁專政	-
 2026-11-18	非廢核公投洪毓祥批正方打「恐懼牌」 王守誠：地震不會因公投消失	https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KSWxyZEZpb3cwdTB1N2tYSm1TM1hwNGMxd3FPMXZ3d05IYjM4SmlqRElBWGZxWHBWV3BYZ0FwQ3IyTWQ5LUF3QkdQWmUzdw?oc=5	政治	-
 2026-11-16	整個科技業都挺他！天使投資人批輝達「政變」無正當性：黃仁勳想回歸只需一句話	https://news.google.com/rss/articles/CBMiyANBVV95cUxPaXNidjljd0FvemFrVUFBQ2NuUHZqWEhXajlDYmxfOFgyeVBUS0QycF9pdFp6RkdJN2N5bmstRlFOM01sSE9MNE9vTXJhWFhZakNaMmR0UnlZZlJxb2pETVhGVmJLbklVQ1Fhbkh2Y2NwaFpZUXJkREV2TnFweEhjSHVickJjQVFScjZfZ01hdlV0QlRKclhscGxWYXVnOGwxbWFfQ3VKZTZfQm1sYnJ4MzA0a2ZxVWdnWmcxQUZ4STV4VHlhOVV5dVczYjRGVFpJQTBHSDdsZURYNUo3SWREaElwamxtbXZrWFR6MVVUREk3QmZydHVOV0c1SjVwa2Z6VThKbXJaQWdrZVQzQzRZQXFMcmhzR3NVLVdMLUdZWHMtTEZJYzU5M2lLb3k5QlZrYW9MTnBwcUxPQWFGUVU3TXVDdmljM3VpaUtraXZ5Yy01VHVGcXdNdEdSTGVDX09hcjljRnpIMFVpZUF1cnFKMFNQc1ozS2xMX002RThKbmpBN3ROVnNyOWxmajdxNzRIMTFZSVZZWk9IN2t0X1NKMDBBOGdOam9FRWp3azI2aUFSOFYxT3pOMy1jdmllV2RrSnFGUjJnN2g?oc=5	獨裁專政	-
 2026-11-16	川普期中選舉後神隱內幕 以色列摩薩德警告CIA 伊朗謀畫暗殺	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEVFpIZm5RZ0NUdUttUkJkZGw3eXJlSzNlQWh0RU9TVnZzOXpkMUZLOEdkMXNSOUk5QUUxS29BNTFHaVh2dG5FNm4xVlJTOTB5ZkVuWVJ1bXV4TVpyMG50b2hR0gFnQVVfeXFMTjl3ZFNmck9DZkdjeE44YWxJV3VfcUU4d0N4VC1ldy1vYmdEa1ZUR0pPc1ZROEpGQ0JueVktTW5RanFEaktUYmpZUkNSMnZpTjlpdEtNb3ZOTE1PeUxSQkV1bzZRRGpOZw?oc=5	政治	-
@@ -138,10 +148,12 @@ var DATA_POLITICS = `
 2026-09-15	逃出獨裁！中國企業家30小時極限逃往歐洲 高喊「共產黨邪惡暴政、推翻中共」	https://ec.ltn.com.tw/article/breakingnews/5574612	獨裁專政	B
 2026-09-14	韓國前防長鄭鎬溶去世，曾參與「雙十二政變」	https://hkcd.com/content_app/2026-09/14/content_8774890.html	獨裁專政	A
 2026-09-11	轟高金素梅瞎扯戒嚴兩大荒謬！律師：共諜直接槍斃！連批「戒嚴」的機會都沒有| 政治	https://newtalk.tw/news/view/2026-09-11/1059245	獨裁專政	B
+2026-09-11	兩助理被羈押 台立委高金素梅：想起戒嚴時代	https://news.google.com/rss/articles/CBMib0FVX3lxTE9LaElNdzV6RGM2dzF4bmRoRF9IMnVIZnZ5Ynk0bjZfTFFuNFV6WlBwOVZEdDA2Sm9oXzV5ZE4wYmlaaFZOUGdJWlA3Q0FCN1hDRzZsejhJdzlLR2syd3M0V2dDNnZSVXZpeXBYT3dXdw?oc=5	獨裁專政	-
 2026-09-03	院內選舉盜同事帳密「投票給自己」 呼吸治療師下場曝	https://www.ettoday.net/news/20260903/3230939.htm	大選	A
 2026-08-31	戒嚴時期禁講台語 監察院調查認定侵害人權	https://news.pts.org.tw/article/824915	獨裁專政	A
 2026-08-30	據報冰島公投否決重啟加入歐盟談判 歐盟表示尊重	https://news.tvb.com/tc/1192312-據報冰島公投否決重啟加入歐盟談判歐盟表示尊重	大選	A
 2026-08-28	鞭刑公投不符合《公投法》 洪孟楷批中選會沒收：憑什麼不讓人民表達意見？	https://www.mnews.tw/story/amp/mm-20260828edi039	大選	A
+2026-08-26	《從政客到獨裁者》：興登堡與希特勒的心理戰，如何把威瑪共和推向專制深淵？	https://news.google.com/rss/articles/CBMiVEFVX3lxTE40d1NraGx4ejdzTEJCdlpXc1doalEtTDFfSm1hMHdZSEYwaExtRmtsV0xhcEkyaWRCbDJ3MWN6MXhqRjNqS2x2STdmNmY1eEF5VFFoMg?oc=5	獨裁專政	-
 2026-08-21	美加貿易戰正式引爆！特朗普開徵50%關稅	https://www.singtaousa.com/2026/08/21/news/world/us-imposes-50-tariffs-on-20-billion-worth-of-canadian-products-and-canada-says-it-will-retaliate/	政治	A
 2026-08-21	勒布朗表示與美方談判接近達成協議 加美談判代表再次會晤，希望趕及在星期六新的關稅限期前達成協議。 聯邦加美貿易部長勒布朗與美國貿易代表格里爾星期四在華盛頓會唔了三小時，為協議的細節定案。	https://am1320.com/%E7%84%A6%E9%BB%9E%E6%96%B0%E8%81%9E/%E5%8B%92%E5%B8%83%E6%9C%97%E8%A1%A8%E7%A4%BA%E8%88%87%E7%BE%8E%E6%96%B9%E8%AB%87%E5%88%A4%E6%8E%A5%E8%BF%91%E9%81%94%E6%88%90%E5%8D%94%E8%AD%B0/	政治	A
 2026-08-19	國台辦：賴清德假民主真獨裁惡名遠揚- 兩岸	https://www.dotdotnews.com/a/202608/19/AP6a851a37e4b04b6c5d37191c.html	獨裁專政	A

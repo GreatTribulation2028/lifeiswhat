@@ -1,4 +1,4 @@
-// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 26 條
+// 七年大災難 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 27 條
 var DATA_TRIBULATION = `
 2026-11-10	一場「大災難」改變了一個家庭的形狀！橫跨七十年的《被消失的家園》入選奧斯卡 15 強	https://news.google.com/rss/articles/CBMiREFVX3lxTE5Yb3VyNkJTRTkyZ2FKdlpRVE5hUHNkNFpTUHFJMzZRZGM3RUlqdmtJd3R6Um9wWXgwd3pEUmg4anVmM3Bw?oc=5	大災難進程	-
 2026-05-17	7年大災難前最後警號！末世真正的記號Dr Daniel Wu 吳宣倫博士講道末世已到哪一步？中東各國和以色列假和平《亞伯拉罕協定》、敵基督666與主耶穌第二次再來馬太福音24章隱藏預言4K	https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WVGNPTFZVUWhyMGlSLUFCTHgtenBxWndpX3JGa2JTamZXT24zSUw0bmxqLWJjZVhINHZuTGVLM2ZpQi1mYm1qSVVtQ3U5LTBucF9ta3ZJT0lnanhj?oc=5	末日預兆	-
@@ -17,6 +17,7 @@ var DATA_TRIBULATION = `
 2023-10-16	神國預產期近了！需興起末世先鋒，關鍵在於「大衛家三把鑰匙」！	https://news.google.com/rss/articles/CBMiTkFVX3lxTE05RGZ3clR5aVB6aFRrODBtUjkwU2VRTVpjVmxQRjF4Zi1iM0lSOFJDajQwcFJ3NVhldUgyYVd2LUdUd2dxbnRzYmRIa2JQdw?oc=5	末日預兆	B
 2023-07-21	阿拉伯國家結盟整合快，正應驗以西結書末世預言中歌革和瑪各之戰？	https://cdn-news.org/news/N2307200006	末日預兆	B
 2022-11-27	被提後 30 秒會發生什麼？了解神的末世計畫和救恩密碼 看見被提的榮耀和浪漫	https://news.google.com/rss/articles/CBMiakFVX3lxTE1KY1J1MElsSVZSODdUXzV3VWszemIxMHFmT1VMRkRSZHpGcENQOXQ5anJ2d3RaSlZBUWFVa3RBdGU3b1FHVzdkRWtXNXFabEJLNWdkYkx3NUdLelhVejlTWWlfaDJwdTVzOWc?oc=5	末日預兆	B
+2021-09-20	【IHOPKC回歸 RETURN特會】面對末世大迷惑如何站立得穩？關鍵：誠實檢視內在與神建立親密關係	https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHBXQzJxTUszSDBiYzQ4cncxSlkxYWNFYTlQZmlMLTF5WDBsaWFXOFNnVVdpNW1OYk1wVGNpcG9HRDZQMWZTanNRUzFNY25YZzNFUnJFOUtDcjNDSk5CUFJscm01SWtzSW5iUlpUdXo4bnhoemNHR3p4czVRRXdDVQ?oc=5	末日預兆	-
 2021-01-01	10月31日-11月6日。但以理書第1～6章：「沒有別神能……施行拯救」	https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-sunday-school-old-testament-2022/45?lang=zho	其他末世	B
 2020-03-02	西方預言家：2020末世善惡大決戰大災之年| 預言2020 | 珍妮·迪克遜Jeane Dixon	https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TY05NeTkwbjQ2d3hUZ2dTNE5YeDBRWDJZQlBqVzl0a1BlZzNIUnAxU19lb2xJMk9UMlE4Y0p4YWtlWGQtdlZxLThmNi1PS3N3QkNkTzM0QlBXY3M?oc=5	末日預兆	B
 2020-02-21	但#01. 但以理書簡介 1-3章	https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wNTkxZ0NGTEVWN3ZIZzNUSTAyVFU5OVo0TzBHT01NRmlaakJ3YUNycEV1bVh4ZzZXUFgtRFRaMnRHQQ?oc=5	其他末世	B
