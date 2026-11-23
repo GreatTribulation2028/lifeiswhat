@@ -1,4 +1,4 @@
-// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 247 條
+// 悲劇 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 248 條
 var DATA_TRAGEDY = `
 2026-11-21	國道2死慘劇！一對男女拋飛、她卡車底喪命…貨車駕駛驚吐：不知道是人	https://news.google.com/rss/articles/CBMiSEFVX3lxTE05OFRhUkxUZUZIWlhMVGJIMzJGS3dteGhmeWstc2N4NHl5RlVoVWxnVGllVG9FMHFXS2RGR3pOWjNRbDhTTTI2V9IBTEFVX3lxTFBCWmtKdWdsNnZTRkw4MHpMVE96N3hDRG4ybjkxLVFoZFdrVmJIM20xMzBNSVBfY1ZIT25vQVFJYy11VUN4TnVFYTVyTVA?oc=5	悲劇	-
 2026-11-20	布碌崙塌樓慘劇 5名工人入稟索償	https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWZvLXZveWd1dVk3VzFrWWV6YzRkMUJWb0E2V1Z0SkJ3Mm5yVEJ4N2hVTENLcTFJOHIwbXViWmVpSmFuWUtQV3h4OU14enJ6bmQyNHBLallINEZMQzlXU1FobzJ0SmRfTk5sNURILTJWdTBpc21Ob3IwZDFYNnJ3VGExbjhoYTcxSHc?oc=5	悲劇	-
@@ -217,6 +217,7 @@ var DATA_TRAGEDY = `
 2022-08-16	網傳重慶開州四孩偷到河溝玩水溺亡 政府辦：此事屬實，深感痛惜	https://www.hk01.com/sns/article/804628	遇溺悲劇	A
 2022-07-25	3歲童康樂園遇溺亡 祖父打瞌睡裁疏忽照顧 官稱不幸判得直撤罪	https://www.hk01.com/sns/article/796212	遇溺悲劇	A
 2022-07-24	西貢連續兩日有人遇溺亡 清水灣一灘六旬翁送院不治	https://hk.on.cc/hk/bkn/cnt/news/20220724/bkn-20220724170343757-0724_00822_001.html	遇溺悲劇	A
+2022-07-01	土瓜灣老婦疑梯間自焚滾下樓梯頭傷送院亡	https://www.hk01.com/sns/article/787862	悲劇	B
 2022-06-25	天星小輪婦人墮海 水警救起送院搶救不治	https://hk.on.cc/hk/bkn/cnt/news/20220625/bkn-20220625073911945-0625_00822_001.html	其他悲劇	-
 2022-06-06	內地電視劇《一路向前》2名劇組人員溺亡 暫停拍攝	https://www.hk01.com/sns/article/778175	遇溺悲劇	A
 2022-05-28	城門水塘女子疑遇溺昏迷 當場證實不治	https://www.hk01.com/sns/article/775382	遇溺悲劇	A

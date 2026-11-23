@@ -1,8 +1,10 @@
-// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 230 條
+// 政治 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 232 條
 var DATA_POLITICS = `
+2026-11-23	李家超祝賀當選選委會委員 立法會發言人稱投票過程安全有序高效	https://news.rthk.hk/rthk/ch/component/k2/1878867-20261123.htm	大選	-
 2026-11-22	黃世杰連2天發文批評張善政 張競辦反擊：拿悲劇當選舉提款機	https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kLWU5amFKbWlJY1lkQ3lQS1ZlRC16Ny1UYkdUN25wd3VaQWIxU0d2cEctZXZSMDlmSS1JcHRwMGNpR2tzTGUybmdKLUg?oc=5	政治	-
 2026-11-22	麥美娟：選舉氣氛熾熱 選民重視和投入選舉	https://news.rthk.hk/rthk/ch/component/k2/1878775-20261122.htm	大選	-
 2026-11-22	陸啟康對投票率逾98%感鼓舞 證明本港選舉制度操作越趨成熟	https://news.rthk.hk/rthk/ch/component/k2/1878802-20261122.htm	大選	-
+2026-11-22	選委會選舉｜新界三會80人當選名單	https://news.rthk.hk/rthk/ch/component/k2/1878847-20261122.htm	大選	-
 2026-11-21	藍營提司法三訴求 批台灣離獨裁統治不遠了	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPaW5hcGdIeDJqbU9sNmxpMElSOEQwUGlIN2NtWUdHaHZaZjZKZ3diWGx3MG9icmU4R0RIamgxd094Z2psMnlOOW90VzM3N1ZMaEJwbFlKaGp1dDkzRjhhM1U1MWNNOW8?oc=5	獨裁專政	-
 2026-11-21	立會強烈不滿美「2026年報告」失實偏頗 譴責美方隻字不提2019年動亂 香港國安法實施方恢復社會秩序	https://news.google.com/rss/articles/CBMid0FVX3lxTFBCV0Jra0hUNlk3R052cFh0ZmJnNmhER0JtcU1YNEphLVBXMndobGUzWFgzTHFIbW1OcGo5OFJKbkRUNTJmM25kaV9ESWZPMnVxZTFhZk5GbUxsRGRuTXhIN25FamQ1NnEtZXJPOUFGZE55YmRHcFJV?oc=5	政策法令	-
 2026-11-20	馬斯克為何聲援黃仁勳？克魯曼批科技業獨裁創辦人症候群	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIeWFMX21nLXBJdy1YeU41S05YV012RDV3NlEwSnNnWHppMUprZmg1QktaV1lINGtfS1RtSDJtU0NfbENzWnBsOHRKTXoteXcwaUpaRDc3OGJYNFM1WlYtZUV30gFnQVVfeXFMTlZXQUtqY2lBOGdsTlVmWkxYVVBERmxNRWg4RnJXMVdKZERwc0t5VDdkbXRHUTJjempCcGtCampuNnpkZldORGNUcGRvNDBtSFdfOEFfNE5JRm54VV9IamltaERQVk1jMA?oc=5	獨裁專政	-
