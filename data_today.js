@@ -758,6 +758,7 @@ var DATA_TODAY = `
 2025-12-22	23岁硕士生徒步猝死事发地系封闭区域 违规进入引发悲剧	https://news.china.com/socialgd/10000169/20251222/49099087.html	心腦猝死
 2025-12-21	名嘴直播中突癱軟猝死！1情況身體在「最後掙扎」50歲後建議這項檢查	https://tw.news.yahoo.com/名嘴直播中突癱軟猝死-1情況身體在-最後掙扎-50歲後建議這項檢查-000000028.html	心腦猝死
 2025-12-20	陸客烈嶼用餐猝死！妻兒等6人三小通抵達金門處理後事	https://www.ettoday.net/news/20251220/3087412.htm	心腦猝死
+2025-12-19	金鐘男工升降機槽內遭夾繩器擊頭重創 送院搶救延至今晨不治	https://hk.on.cc/hk/bkn/cnt/news/20251219/bkn-20251219122237752-1219_00822_001.html	其他猝死
 2025-12-19	醫療意外 男子打顯影劑暴斃		心腦猝死
 2025-12-19	男子在家猝死 遗体腐烂 亲戚上门探望始揭发	https://www.chinapress.com.my/20251219/%E7%94%B7%E5%AD%90%E5%9C%A8%E5%AE%B6%E7%8C%9D%E6%AD%BB-%E9%81%97%E4%BD%93%E8%85%90%E7%83%82-%E4%BA%B2%E6%88%9A%E4%B8%8A%E9%97%A8%E6%8E%A2%E6%9C%9B%E5%A7%8B%E6%8F%AD%E5%8F%91/	心腦猝死
 2025-12-19	國盾量子董事長呂品 辦公室內突昏迷不治	https://hk.on.cc/hk/bkn/cnt/news/20251219/bkn-20251219220111000-1219_00822_001.html	其他猝死
@@ -1437,6 +1438,7 @@ var DATA_TODAY = `
 2022-09-15	6旬男突然「聲音嘶啞」竟差一點暴斃！7.7公分大主動脈瘤壓到神經	https://times.hinet.net/news/24138310	心腦猝死
 2022-09-14	太極師傅猝死	https://www.chinapress.com.my/20220914/太极师傅表演后猝死-家人没见到最后一面/	心腦猝死
 2022-09-14	七旬婦城門河獅子橋墮河 送院後不治	https://www.hk01.com/sns/article/814691?utm_source=01articlecopy&utm_medium=referral	其他猝死
+2022-09-12	高雄大寮幫派火拚 26歲男頭部中彈搶救23天拔管不治	https://today.line.me/tw/v2/article/oqkg8y5	其他猝死
 2022-09-12	露宿者猝死柴灣貨物裝卸區公廁旁 海事處職員揭發報警	https://hd.stheadline.com/news/realtime/hk/2391683/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E9%9C%B2%E5%AE%BF%E8%80%85%E7%8C%9D%E6%AD%BB%E6%9F%B4%E7%81%A3%E8%B2%A8%E7%89%A9%E8%A3%9D%E5%8D%B8%E5%8D%80%E5%85%AC%E5%BB%81%E6%97%81-%E6%B5%B7%E4%BA%8B%E8%99%95%E8%81%B7%E5%93%A1%E6%8F%AD%E7%99%BC%E5%A0%B1%E8%AD%A6	心腦猝死
 2022-09-12	墨西哥足球运动员雷耶斯心脏病猝死	https://www.trt.net.tr/chinese/ti-yu-dong-tai/2022/09/12/mo-xi-ge-zu-qiu-yun-dong-yuan-lei-ye-si-xin-zang-bing-cu-si-1878681	心腦猝死
 2022-09-11	麗城花園女子單位內猝死	https://www.hk01.com/sns/article/813706?utm_source=01articlecopy&utm_medium=referral	心腦猝死
@@ -1544,7 +1546,6 @@ var DATA_TODAY = `
 2020-12-17	撐警李偲嫣染疫猝死 網絡沸騰建制派一片沉寂	https://www.epochtimes.com/b5/20/12/17/n12628468.htm	心腦猝死
 2020-12-08	渣馬跑手猝死 遺屬興訟索償	https://orientaldaily.on.cc/cnt/news/20201208/mobile/odn-20201208-1208_00176_041.html	心腦猝死
 2020-12-08	氹仔地下污水管施工釀意外 五旬男外僱被活埋身亡	https://hk.on.cc/hk/bkn/cnt/news/20201208/bkn-20201208215552588-1208_00822_001.html	其他猝死
-2020-12-06	太古城七旬婦倒臥學校操場 送院搶救後不治	https://www.hk01.com/%E7%AA%81%E7%99%BC/558109/%E5%A4%AA%E5%8F%A4%E5%9F%8E%E4%B8%83%E6%97%AC%E5%A9%A6%E5%80%92%E8%87%A5%E5%AD%B8%E6%A0%A1%E6%93%8D%E5%A0%B4-%E9%80%81%E9%99%A2%E6%90%B6%E6%95%91%E5%BE%8C%E4%B8%8D%E6%B2%BB	其他猝死
 2020-12-01	苗栗白牌車司機猝死案3乘客聲押- 社會	https://news.ltn.com.tw/news/society/breakingnews/3368221	心腦猝死
 2020-11-30	奧萬大中巴翻覆男子死亡 與妻天人永隔	https://news.ltn.com.tw/news/society/breakingnews/3366958	交通意外死
 2020-11-26	球王馬納當拿心臟病猝死	https://orientaldaily.on.cc/cnt/china_world/20201126/00180_016.html	心腦猝死

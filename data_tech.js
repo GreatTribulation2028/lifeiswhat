@@ -1,5 +1,6 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 410 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 411 條
 var DATA_TECH = `
+2026-11-23	台南AI機器人親子營5梯次全額滿！ 150人次共學挑戰科技任務	https://www.ettoday.net/news/20261123/3277017.htm	未分類	-
 2026-11-22	「我不是機器人」變駭客陷阱！照做1動作電腦恐遭入侵 內行：絕對是詐騙	https://news.google.com/rss/articles/CBMiWkFVX3lxTE01RnJYM1l4VE5BeWZ0ZnNhanFhTFdUNzFkVTVkcUpMcm9MaTdrVEVQekxlNktGUXhxb1lVYmFscXRuRVAtazhuTzNSclN4ZXlOS0ZuMjJjUWU5QdIBX0FVX3lxTE96OElmYzhiX1hUSnltS0k1U1JlWkNJd3JobFdzajJOU1RvclViN2ZRNzYta2RBQlI2OGp6MGZVLXFzbUtJaHpWNHphR2Jzb3kyODhRQWgxT2ZzRldmbXNZ?oc=5	駭客網攻	-
 2026-11-21	陸辦AI芯位大學 推腦機接口標準	https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OMU9rR0YzQkp4UFpzdHBLaEtMTHlTVGNwR21ZQ0ZHV2tqZkhNT190MGtSdkMzbWhzN2pGOU4wRjNmQWs5TWNXbzI5V29Ld2s?oc=5	未分類	-
 2026-11-21	腦機接口產業集聚三城市群	https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tbVg0QS05RzR3QVFxVVUzRG9ZWWpNeW5jYlhCWlE1WnVqc3cyZHRVSkhEUGZ6cFo1QWdUYV9uLVVQNW9yVUdDam13Y3ZQbTB3NkhXSXN0RmsxcFNDRDVNUGttOHNmMHNr?oc=5	未分類	-

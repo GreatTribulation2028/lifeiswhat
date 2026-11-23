@@ -1,5 +1,6 @@
-// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 138 條
+// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 139 條
 var DATA_RELIGION = `
+2026-11-23	從中信兄弟回到歐力士！後藤駿太吐露心聲 感念平野惠一教會他的事	https://sports.ettoday.net/news/3276977	其他宗教	-
 2026-11-21	援助苦難教會組織：紅光照亮教堂和古跡，銘記受迫害的基督徒- 梵蒂岡新聞網	https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2ZkbURLZi1jbXNIaERBQzBIaW55VXVNYTNOdkkyNk0yamxDM0xORmxwaExxZVp6WEtkbFJ4clZwZE0yOXR1TDRjN0JtSlV0SWdVend4TXMxaC1LRV9RSTlaQ1ZjeDg4NEsxbUpORHVEcUFycFAyaTh6MFVrNVprQU5VZS1XOWxwN2VXNmxZZkJZZEtlNXpRT21IVHYxajZ5NmNHUm9LbkEySEJlSkRkeHQ4WXJIRU1q?oc=5	逼迫教會	-
 2026-11-21	「要在你腦子上撒尿」？紐時：黃仁勳辱罵部屬花樣百出以恐懼治理有邪教色彩| 國際焦點	https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwdGxfalpDOU05a0dRNmlBaVFvWnZKUUhpUmlmdmRyN05YX3VvZ29QeWxxeVdRVnljTE5vMVUzOHdFTUtZT2ZHRFFxZmVlVWZnM3ctcDVvZHJUYndk?oc=5	異端邪教	-
 2026-11-17	切割？曹興誠稱「罵蔣邪靈和沈無關」 徐巧芯：曹沈關係非說切就切	https://www.ettoday.net/news/20261117/3273756.htm	未分類	-

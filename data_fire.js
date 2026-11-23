@@ -1,5 +1,7 @@
-// 火警 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1632 條
+// 火警 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1634 條
 var DATA_FIRE = `
+2026-11-23	駕車突失去動力她急抱嬰兒逃生 底盤瞬間起火燃燒	https://news.ltn.com.tw/news/society/breakingnews/5650410	其他火警	-
+2026-11-23	遊客目擊宜蘭五結露天燒保麗龍引發濃煙惡臭 環局要罰	https://news.ltn.com.tw/news/society/breakingnews/5650426	未分類	-
 2026-11-23	台南安南區連棟鐵皮屋深夜起火 電池零售店、汽修廠受波及	https://www.ettoday.net/news/20261123/3276767.htm	其他火警	-
 2026-11-23	北士科工地頂樓火警 北市請求新北消防支援火勢撲滅	https://news.ltn.com.tw/news/society/breakingnews/5650011	其他火警	-
 2026-11-22	股民心聲》國安基金拿杯水 要救摩天大樓火災？	https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DOF9NcmdURl9oNEJMSE5uVEtsOGpLX0xWZml6NHVKUlppUmx0UXhXaE9PaWo3VTZrU040dG9DMjhTekNwSGh1QlhGMlNfWDZ5YzJ2bkRSVXEyME5MRks40gFkQVVfeXFMUE5tS3hYaC1ZUW5MdVU2Yl9VZVM4R3hqeE5rTG91MnNqMlhOVkp4Wjc3ZkpETko4b2cxUF8zc3E3N01HeVNqRUJLY1B4blRDUS12MWJkenlubU5kejRpRnY1N1l2NA?oc=5	其他火警	-

@@ -1,5 +1,6 @@
-// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1159 條
+// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1162 條
 var DATA_SOCIAL = `
+2026-11-23	假投資詐欺車手遭包抄落網 意外搜出安毒又毒駕	https://news.ltn.com.tw/news/society/breakingnews/5650377	騙案詐騙	-
 2026-11-22	法國連續第6個周六有示威遊行	https://news.rthk.hk/rthk/ch/component/k2/1878748-20261122.htm	抗議暴動	-
 2026-11-22	兩日本人上海餐廳衝突 一人死亡另一人被捕	https://news.rthk.hk/rthk/ch/component/k2/1878742-20261122.htm	暴動騷亂	-
 2026-11-21	被控移除反對黨帳號 Meta印度辦公室遇抗議衝突	https://news.google.com/rss/articles/CBMiWEFVX3lxTE85MlBNZG15eUlhdGlqRzhyb3VTVm5fMktSY254TzlqZEt5anBWMWthVW9OUGlvVDFLVTQ3Z0gtWTU1RVFkVlVHWG9ua002bTJiXzNHOC1hblM?oc=5	暴動騷亂	-
@@ -425,6 +426,7 @@ var DATA_SOCIAL = `
 2026-10-20	成都婦人陷電話詐騙 民警上門拔除SIM卡保住500萬存款	https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdUxmLVlpM2NHbDNYSGg4Q25wUEtVM3dXRHhYSE92eThFOFdfcm1Ha2pNTFppRDVPUGFucDBpNEg0WGVqeC1BOGF2R01pNkF6ajhQNDFxWV85RGY3RmFIcnBjRjAydGdTVFdfYXIxbzFTbklYWm9uclpOWG5YTmFlQzJxMWdKQnVwLUcw?oc=5	騙案詐騙	A
 2026-10-20	意大利米蘭 | 精品店釘板封門 櫥窗商品撤光 防騷亂再起	https://news.google.com/rss/articles/CBMi-gJBVV95cUxNUDBKR0tfZGJkVXFxMl96dFcyWlNkQU05LXJPTGFEdjJBX0l1OHdZbXc3cnRJamJnZmhmTWhuSm1jcTlrOVVhN1pPT2tObGdfSnJ0Szl4ZDdNUVV5dnVlcWdBOE05UGo4NUdKbjFiVUZlX0VUOFlwN3VQZnJnUGZTQTRGX3BXeVBDcGdaNVlwcjU2YkJNUmNvcS1WcVdrYThHTEVhT0NxdjhEc3NoMDZmVVcyRWREYjJteHBEeXJHdHROaG5DMUFpMm5LSGlQTHJSNGRfNk5iSmtQeEg1alNnRVYwU1VFZ2g3d05wajZySG9KeG82WTlSakplTmlDYlF1WTdpVi1LUzBCamNmZGU5OV9uNTBaZU5NWEtvQllvMFN4TFFNcTdOc2tKQmhzckFsemRIVHg3dU1IYm5uSHI1YmRGSi16UzhLUVNJNnFjYXl0anNQdHZZaEJxMER5cG5Wem9VR254Y3M1UEwyVTBKZUtuZ1ZvQUV0QUHSAYwBQVVfeXFMTWlsRVZ6TldkWWZfYXVkS3hfcEgtcDlPY3VRYjlaYUZlc0hiY1AwUGZUZXVjcjhVdWI5SXVGalhZZUpFaDgwSXdZUjYtVXZhUU9tRG5YN09sX0o4aU9ROTc5YkRObm4xYkUwcTRXdkFhUTZ0ODhRT0FGdkM3by1LNVJkbDJBblp1azdqbEU?oc=5	暴動騷亂	B
 2026-10-20	康乃爾大學性侵爭議引發抗議！校園毒品與性暴力問題受關注基督教團契談年輕世代的歸屬感需求	https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHRtclRBV0xNRE9HQlFzU2RWeUZwdXFIbFNCNk1vd2MzSG1Eb25FNjNjbWRoMHlWRU5CSG1HT01PSVJqWXBTX1kyaUNoZXExejk3THZOQnpUVm83cUIzTnp0R3otU3htTXQxU2EwOC1mSXRxaXE5ajREQV9YN3ZsWUZUaXdJRTJDX1BFOFN6S2U2b2xVczlta2x3d2c?oc=5	暴動騷亂	B
+2026-10-20	屯門內河碼頭貨船意外 男工人從高處墮甲板 昏迷送院搶救	https://news.google.com/rss/articles/CBMijANBVV95cUxQaFdpX1NyZGt0SEppcFRTYUNhOHlCX3lLSHpOaVhjcW5YM1M2MzFXdXJkbDNhVXp2Y211bEZsRUpZUGRYMThESXBibEZjZ2FJVnl4SUVzeVNYazRJWkdvZ1dSaWhlaS1KcDhNWGlpTUZxbkczNWxGNzFvQTNSNWpXOFNjQTdBMGh1dDJXR1NwYVl2eC13R0RGQnFRTGw4X0hPYklReGpFaF81cEZpcDVFeXlPMng1anVZQWFkaVdEbU9SdTBqa2tRSkhvZGoxaXVfcTVkeEMzLXRuUV8yVEJUUDNER0ViX2RodUEyVUt4cmhZeDhabi1WbzI3X0dZSWRHYS1od1ZENzdQRm40b25tSlN6MG10RGotcXd0ek9Tdmh5djE5N1l4YzFLSlJUaUpoMlgyOFR6aUJDZE1VWnhjQlZpckNfLVpKcGZpalNUNVhieW0zQUFMblV3VmJiUTZPc3lKZDhPeGdabHhkeHVnOEc1R3VjNllvYTZ0WkRqWDV0d2xsYjQxWUx0NHk?oc=5	社會	-
 2026-10-20	家樂福高管：法國騷亂最大財務影響約2億歐元 10月24日將有新抗議	https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0My1FNGZGQnNGZHB0MFNBQ1d1aG9zUnFmS3lvaGVQQ2dYbE1BZlE0YzVQaUljUVl3Z0xWdFdUWlJSZzZIaVJNdk51aTN5NTdpcnNtVnBlWXJoOE1NellrXzZzMjE?oc=5	暴動騷亂	B
 2026-10-20	同性戀夜店槍擊至少49人亡…空氣都煙硝味 目擊者：槍響很快、槍手又換子彈	https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RTzdEa2Y1blFJaDFONGtQbUhaRFlxYTk3bjNlMTRrMGViUS12VmdCdy01X09nMnBrb1FBTlZRSHhVVm1TYmg1NndOUjZJM1BZdEE00gFYQVVfeXFMT1dtQjRwUThYb09FVzlMeVRaU3I2TjE3ZFV4M1NVUUg5cHZ1dy1UeEtMdGc5bENsb3dvRnh3Vi1SUU1FRHgxejZBdVhUZTNOSG92b0w2SHFGVA?oc=5	槍擊	A
 2026-10-20	台灣女遊客陳屍日本河口湖飯店 同房持刀台女被捕日媒公布身分	https://news.ltn.com.tw/news/society/breakingnews/5611982	命案兇殺	A
@@ -962,6 +964,7 @@ var DATA_SOCIAL = `
 2025-12-28	印尼熱門旅遊點有觀光船惡劣天氣中翻沉 7人獲救4人失蹤	https://news.tvb.com/en/1142221-印尼熱門旅遊點有觀光船惡劣天氣中翻沉7人獲救4人失蹤	意外事故	A
 2025-12-25	恐怖工業命案！工廠工人離奇墮入鍋爐慘死 消防員救出證當場身亡	https://www.orangenews.hk/international/V6MDVbu/%E5%88%A9%E6%AF%94%E4%BA%9E%E7%B8%BD%E5%8F%83%E8%AC%80%E9%95%B7%E5%A2%9C%E6%A9%9F%E4%BA%A1--%E9%BB%91%E7%9B%92-%E5%B0%87%E9%80%81%E5%BE%80%E4%B8%AD%E7%AB%8B%E5%9C%8B%E6%AA%A2%E6%9F%A5.shtml	社會	A
 2025-12-23	韓媒：韓國高速公路橋樑工地倒塌 2死5傷3失蹤｜有片	https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60306276/%E9%9B%BB%E8%BB%8A%E5%8F%B8%E6%A9%9F%E6%92%9E%E6%96%833%E6%AD%B2%E5%A5%B3%E7%AB%A5-%E5%AE%98%E6%8C%87%E7%A2%B0%E6%92%9E%E7%84%A1%E5%8F%AF%E9%81%BF%E5%85%8D%E6%98%AF%E6%B8%9B%E5%88%91%E5%9B%A0%E7%B4%A0-%E5%88%A4%E5%9B%9A4%E6%98%9F%E6%9C%9F	社會	A
+2025-12-19	北車、中山隨機殺人第3死！ 37歲男騎士頸部撕裂傷「搶救不治」	https://www.ftnn.com.tw/news/508941	社會	A
 2025-12-18	往希臘船隻沉沒埃及人釀14死13失蹤 埃及籲勿偷渡歐洲		未分類	A
 2025-12-12	南韓光州興建中圖書館倒塌 至少兩死兩失蹤		社會	A
 2025-12-11	瑞士選美小姐變碎屍命案主角！她遭夫勒斃肢解 還丟進攪拌機與化學液體溶屍	https://news.pchome.com.tw/internation/crwant/20251211/index-76543475570410316011.html	命案兇殺	A
@@ -1080,7 +1083,7 @@ var DATA_SOCIAL = `
 2022-12-30	首揭掘地洞式藏毒 警破今年最大宗可卡因販毒案檢3.66億元毒品拉5名90後毒販	https://www.singtao.ca/6131453/2022-12-30/news-%E9%A6%96%E6%8F%AD%E6%8E%98%E5%9C%B0%E6%B4%9E%E5%BC%8F%E8%97%8F%E6%AF%92+%E8%AD%A6%E7%A0%B4%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%A4%A7%E5%AE%97%E5%8F%AF%E5%8D%A1%E5%9B%A0%E8%B2%A9%E6%AF%92%E6%A1%88%E6%AA%A23.66%E5%84%84%E5%85%83%E6%AF%92%E5%93%81%E6%8B%895%E5%90%8D90%E5%BE%8C%E6%AF%92%E8%B2%A9/?variant=zh-hk	治安	A
 2022-12-29	黃賭毒俱全！ 浙江警方破特大販毒案拘32人 查獲冰毒逾420克	https://www.hk01.com/%E5%A4%A7%E5%9C%8B%E5%B0%8F%E4%BA%8B/851481/%E9%BB%83%E8%B3%AD%E6%AF%92%E4%BF%B1%E5%85%A8-%E6%B5%99%E6%B1%9F%E8%AD%A6%E6%96%B9%E7%A0%B4%E7%89%B9%E5%A4%A7%E8%B2%A9%E6%AF%92%E6%A1%88%E6%8B%9832%E4%BA%BA-%E6%9F%A5%E7%8D%B2%E5%86%B0%E6%AF%92%E9%80%BE420%E5%85%8B?itm_source=universal_search&itm_campaign=hk01&itm_content=articles&itm_medium=web	治安	A
 2022-12-28	油麻地的士遇路障 警檢近$80萬冰毒 司機乘客雙雙被捕	https://www.hk01.com/article/851609?utm_source=01articlecopy&utm_medium=referral	未分類	A
-2022-12-28	失蹤3星期八旬翁 葵湧墮坡身亡	https://www.hk01.com/%E7%AA%81%E7%99%BC/851361/%E5%A4%B1%E8%B9%A43%E6%98%9F%E6%9C%9F%E5%85%AB%E6%97%AC%E7%BF%81-%E8%91%B5%E6%B6%8C%E5%A2%AE%E5%9D%A1%E8%BA%AB%E4%BA%A1	社會	-
+2022-12-28	失蹤3星期八旬翁，葵涌墮坡身亡。	https://www.hk01.com/突發/851361/失蹤3星期八旬翁-葵涌墮坡身亡	社會	-
 2022-12-21	東九龍反黑組掃毒拘22歲金毛男 突搜油塘住所檢$24萬毒品	https://www.hk01.com/article/849633?utm_source=01articlecopy&utm_medium=referral	治安	A
 2022-12-19	重慶大廈屍體發現案 警方拘捕3人檢70萬毒品	https://www.881903.com/news/local/2469161/%E9%87%8D%E6%85%B6%E5%A4%A7%E5%BB%88%E5%B1%8D%E9%AB%94%E7%99%BC%E7%8F%BE%E6%A1%88-%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8D%953%E4%BA%BA%E6%AA%A270%E8%90%AC%E6%AF%92%E5%93%81	其他治安	A
 2022-12-19	重慶大廈命案｜14歲死者疑吸毒過量 15歲友人父子及賓館租客被捕	https://www.hk01.com/article/848434?utm_source=01articlecopy&utm_medium=referral	命案兇殺	A
