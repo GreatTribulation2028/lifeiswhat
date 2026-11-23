@@ -1,5 +1,6 @@
 // 經濟 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1383 條
 var DATA_ECON = `
+2026-11-23	大崩盤！活塞少主康寧漢慘拿本季新低5分 老鷹主場笑擁4連勝	https://sports.ettoday.net/news/3276818	股災金融	-
 2026-11-21	輝達大崩盤！創金融海嘯以來最慘 市值一口氣蒸發「這麼多」	https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Yc0sxWks5X2x0bHlnZlVNZWltb0d3aVRGeVUzR0hzVUxKZk43UldYMlB5S3FJdGcwXy11NW9WbXBBdnE1ejVOUUxRUmFpU0UzZVFBS3d4M3B1NFhXRUh30gFkQVVfeXFMTzFaQlRpemVzLWFwY1pPNmFJa2tsRHh4bWlobFRoYkVlMlpEd3Q1b1BVWnR6SEZEVENIMGJtVmxOVUVKTlF0V2lyekhTZkQyZlh1aUZURkhMWktfcHRlUnJDY2JHWA?oc=5	股災金融	-
 2026-11-21	費城聯儲行長保爾森主張以「審慎」步伐加息 願意考慮連續行動	https://news.google.com/rss/articles/CBMidEFVX3lxTE9UYzJSSVIxSHhaRzdULV9Hc0JIRGFvdDlHTDBoWVB0NmNFUjhCNzZFWEtrek5UVTdFLUxXbHNvU2NvdG5fSVRuWXhXVmY2bjZ0V2NRYXBVMWw4MGV0cU9wV2ZqbjBsaWJrVWJWcFpkNC1XMUt4?oc=5	加息減息	-
 2026-11-21	二手名牌寄賣店疑拖欠款項 股東稱月底結業	https://news.google.com/rss/articles/CBMiuAJBVV95cUxOMFN2QU55d296cy15QmFJNTRRWFdvZlY3d1JXUlFMWXVaa3dTVUQ2X3FsdFE0X2NyNE5mRG5nT3dhUW1VTm5vd1YtdzRmRTlkSGt6TjVoRVBqQjhib1F5RmlfeWxsMHUyTlMzM0hmcTREd2Vpd1NfNWVpYUdQQ0FaM0owd21DLTZvcG1XOGN0TjJQN29WNG02RkZ1VW9FaVhCZ1RDaXVHVHh4TWo2R1pZU1lKNlpyZjRoNDhLNFBuQ0pwcVFhdF9lMXVsRWdfQU5MU0FYOUo5Q2ZES09fN1U5SnFwaVY5aS1Ta19oQ2FnbV9ZZXpGM21mREM3ejhZQjAyYjhiaEpYLTc4OHNLZWpSLWdZUC1QWThKQ3JXcXJRRm5Vdnp3VlJIaHV0MF9NbFFRWlJ0Q2dtbnk?oc=5	結業清單	-
@@ -757,7 +758,6 @@ var DATA_ECON = `
 2026-06-01	滙控大裁員變自廢武功？痛失屈臣氏IPO大單 艾橋智親自落場拉客！	https://businessfocus.io/article/356817/滙豐控股-屈臣氏-艾橋智	裁員清單	B
 2026-06-01	大班麵包結業欠薪 三相關公司判罰款25萬	https://news.google.com/rss/articles/CBMiuAJBVV95cUxQR0FBZVIyWlhuZUFIVTNxZ0V6eVl6d1R2VlF6Wm9kSHhqRmlLWjBsM3dQazI4aTM5NWlXU2tkOEFYWDhyN2FDb0tjeGNVSkwzWVgyU2hCbi1IbXUtSXdPSGlVQ05JbjBIUG5Tdm5WNHFfaTF0SlFSTTZpM0ZEdldYN1owTHpzVzdGanFqb3psMndGMExGYVA5N2RXZlVYOWJHeHFiMjE2Mk5DRVN3NUhObUVSM0FMbkUxVXNSclM3N211TkM4dDJQVnpSQ2lPU0JPa2ViTWNfd0ZNblFHcWtfdXF4SVZoV2g5MWpSYkdwVGJWT096b05TOHpMckM2cTJPN01EVTNMSmlFWXNDcDVrTVN2d25ZaTNkdzBFbkt5enVGbWhQdl9CVG1Ub1B4d3JvUVZFRDhKZV8?oc=5	結業清單	-
 2026-05-31	羅便臣道薈萃苑火｜命危男為劏場大王尹柏權 近年捲官非蝕讓物業	https://www.hk01.com/突發/60355261/羅便臣道薈萃苑火-命危男為劏場大王尹柏權-近年捲官非蝕讓物業	經濟	-
-2026-05-30	結業潮｜大圍38年老字號「港興大飯店」宣布6月底結業 八旬老闆痛心：下一代無意接手	https://topick.hket.com/article/4134225/結業潮｜大圍38年老字號「港興大飯店」宣布6月底結業 八旬老闆痛心：下一代無意接手?mtc=10012	結業清單	B
 2026-05-29	AI引裁員潮？銀行業行內人爆料煞停請新人：高層料3年取代半數人手苦主心酸呻「一早俾人炒咗」	https://hk.ulifestyle.com.hk/topic/detail/20098267/ai%E8%A3%81%E5%93%A1%E6%BD%AE-%E9%8A%80%E8%A1%8C-%E7%85%9E%E5%81%9C%E6%8B%9B%E8%81%98-2026%E8%81%B7%E5%A0%B4-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%96%E4%BB%A3-%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B1%80-%E9%80%A3%E7%99%BB%E7%86%B1%E8%A9%B1-%E5%A4%B1%E6%A5%AD-%E6%90%B5%E5%B7%A5-%E7%95%A2%E6%A5%AD%E7%94%9F	裁員清單	B
 2026-05-28	結業潮｜22年歷史本地連鎖時裝店The Ash全線結業！營業至6月 8分店半價清貨！附門市地址一覽	https://hk.ulifestyle.com.hk/topic/detail/20098231/結業潮-年歷史本地潮帽店the-ash全線結業-營業至-月-分店半價清貨-附門市地址一覽	結業清單	B
 2026-05-22	亞洲電視拖欠債權人741萬元被申請清盤質疑申請涉騙局說法不獲接納高院頒清盤令- 東張+	https://www.mytvsuper.com/tc/scoopplus/news/headlines/17302596413066/重點新聞-亞洲電視拖欠債權人741萬元被申請清盤-質疑申請涉騙局說法不獲接納-高院頒清盤令	破產	A

@@ -1,4 +1,4 @@
-// 瘟疫 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 759 條
+// 瘟疫 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 754 條
 var DATA_PLAGUE = `
 2026-11-22	高雄鼓山登革熱群聚再擴大採檢揪出40多歲男確診- 生活	https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VWV9oRzVoX1pGRVl0MWFGeUQwRXZMLUVNVEpJOWhFMU44Wkpvc0djdFVxdDFINjJucl9UQ2UxR2Jad3RGV0VPMmpYbk5YcGtxY1doSkMzN3VWenNtU1lz?oc=5	新冠相關	-
 2026-11-22	高雄新增登革熱本土群聚事件 鼓山3人發燒、起紅疹就醫確診	https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkcGJxNDNUMVdTTFozenh4UWNHRlUxUUVZdl9wTnkxU2w1SmQ3Ylo0eVlKTUJOcjVrenZzSGl1eEZiemFnQkxKYjJnQzNZZw?oc=5	新冠相關	-
@@ -35,7 +35,6 @@ var DATA_PLAGUE = `
 2026-11-17	衞生防護中心聯同多部門公共衞生演習 模擬本港爆發新型傳染病群組	https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMU01YjF4cmhoX3VjODdHYW16QnNrV09iY2JKRW5UTHF0VU96eHp3cnZCUzF1Qm5GS0xYdkp3azNvT2xYYzlGaklVajlMWVRyWVJQcVlUbDBZUjJTSUczN01yVHVJTEVVaEYtZEp5RmZ3MmNMdGxQSkU2bkVYckVCdzVWUFU1eVZ1bXltOTk5ank3U3gwYm54SGFBNFpxM0V2cnhPZHl3SExSY0RtZkRBYXRtdER2RnRTNHNsWlFSQ2w2aWl0NVR0WGlIaWt5ekVqYXkyQlBFaDhYVW1NUXFoYUljT3RRcE5fMkF4OXhGVElJUzVCbkxCNFFjQnBveWtQUkNwdXRZeUJNYzVQUTgtcEFqWnZyOVJwWVJycTZqaHVGSWVfRFAyT2xSUDlaRUpjeF93UDNNRDlIWm9BQzhhUldTVF9QTVJQMERHZm5ZRU9PcHNkY01CRXhPT28xcVZoTzFXbUJqOU9jYTVEZlRR?oc=5	其他瘟疫	-
 2026-11-17	美國麻疹疫情飆破7700例 幼童接種率驟降痛失消除地位	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iQ253RTNxWmw1d0hQNy1rZ0hnQWRRRlpEUVQ5RXBEWHlvUzVRVWpfWjBzVEVFTjBhdGlXdWNPcUk4Z2RDaUVHckh5MHBPSkpxZkEwWF9iOE1vT0xZUDZVcw?oc=5	瘟疫與疫苗	-
 2026-11-17	美國麻疹旅遊疫情升至二級警示 疾管署研判對台威脅未增	https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYSnBsUU5peEZuV1VVWFV5dThzTDMxSlFKWGJyY0ZTS1RvOXhLS01TWk15WU9NQUEwWjhqTHR6VmpTYktGVnU1aGZvUnc5U2xiRFc5dVhuNUI?oc=5	其他瘟疫	-
-2026-11-17	流感上週增71重症、37死 六旬婦未打疫苗確診2週病逝	https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PdW5meDUybjVydjRWTE1DVjhPbkM1T1BncWE0dWNfbzNRbFJhVkVqYi1NRWJWMnFYUHJjXzI4SkdpRkF5enUwZHFMQ2NGN21v?oc=5	新冠相關	-
 2026-11-17	民主剛果伊波拉疫情失控 華要求入境申報	https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmswcHlwaVoyN1M3YXFaSXpSSG5GM3pFcjdLb0JySjhrRHo5MWotMWU1Z2kxbnVNSzRGZTNjM3NEd056enN6b3hRVnBrSmhybUpkdnN6MzNpN0I4M0ZYdWdrVGlxeWFiaXJlcVJ2dldzeS1uQmlkUFZvR21WVmwxZ0s3UEJ6NDV0ZXVn?oc=5	瘟疫與疫苗	-
 2026-11-17	新冠重症、死亡病例持續增加！97.5％未打本季疫苗 疾管署示警高風險族群	https://news.google.com/rss/articles/CBMifkFVX3lxTE1aNDdSOTV3ajN3ZktncHBWUFVXcTNsY0w3V3BXal9ZQUVWdWEzaE5ia3FJeTlVVU4xQlY0a0QxbFVEVE9FMnh0Y2tTRWxPMlh1SlJwa21wSkt6MkMxWHdJajZpVnpKWTBRN3VCOWE2aDlSSzZfd1J3dHIyQ3pWQQ?oc=5	新冠相關	-
 2026-11-17	幼兒流感疫苗別只打一劑！6.5萬名寶寶還沒補第2劑，11 月新冠疫苗也開放補打	https://news.google.com/rss/articles/CBMiXEFVX3lxTFBITHdlM0pUYm9QWXVGRlRUUEFkZlVDWkIwX2ZqX1hGd2ZMcjBGYVBwRi1meHRPNE9QU2ZZclVWNm9CSk9mMGNSa2ZTQ3NEeUZsRnhPMnVycnNfbENm?oc=5	疫苗	-
@@ -493,7 +492,6 @@ var DATA_PLAGUE = `
 2026-05-18	WHO 宣布剛果伊波拉疫情為國際緊急事件 病毒變異且無疫苗可用	https://health.ftvnews.com.tw/news/detail/2026518W0147	其他瘟疫	A
 2026-05-16	剛果再爆伊波拉疫情 新病毒株現蹤已至少80死	https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jM2hoV1FVWFVPanA2N0tfelIxY3lFRVd3enMtbGt3aXRSTjZBSFRaLWZzemZEUVgzRWlEVmFxSnZhNjVUTkMwc21RaG1vVWJRUWVPY3JWNA?oc=5	其他瘟疫	A
 2026-05-16	伊波拉病毒｜非洲88人感染死亡 世衛列國際突發公共衛生事件	https://www.singtao.ca/7506728/2026-05-16/news-%E4%BC%8A%E6%B3%A2%E6%8B%89%E7%97%85%E6%AF%92%EF%BD%9C%E9%9D%9E%E6%B4%B288%E4%BA%BA%E6%84%9F%E6%9F%93%E6%AD%BB%E4%BA%A1+%E4%B8%96%E8%A1%9B%E5%88%97%E5%9C%8B%E9%9A%9B%E7%AA%81%E7%99%BC%E5%85%AC%E5%85%B1%E8%A1%9B%E7%94%9F%E4%BA%8B%E4%BB%B6/	其他瘟疫	A
-2026-05-16	今年首宗！紅磡肝病男子確診大鼠戊型肝炎感染源頭及途徑未明- 港聞	https://www.dotdotnews.com/a/202605/16/AP6a082e1be4b09ea233157fa4.html	新冠相關	A
 2026-05-15	烏幹達確認伊波拉疫情爆發，一人死亡	https://news.google.com/rss/articles/CBMiygJBVV95cUxPMGhVY2ZEbmZ0c0tSWElqQ3V6cVFNSm53N3VHaU5NSzZONUszUURVZzZEaTUxT2c1YXZ1QlA1ME8xdjM3RHEyU1ZqdFo5LUpUWVQ2NkpoUWVZN3FDQUN3QXVkaVloZUhGS1huVWxSbFpWTGZKTEdqeGljdjcxRFF5SmVFZUJsbzBZSzNRZC1QVDczRWFUMEI2N1FBMEhIY3FuQjVfZHNIRzl2alVPQ0M1bThqUGxDMGxELUZMT1QxUmpZVDA1NnJZZlkwWEk0c1lpX3lyYjFwWkVzY1JXSWkxVjM2VjJBaFJPWTh2U3E5MkNBNmozUHBNZkd3MWZXQjRYMXRGZHJrQ1A5ZDlzM1dmc242QUUweE1YWWZSN0dzYzl0R085dnVyWXFCbGVjLTJ3b2JJQTZPUjV3Xy1jU29nTnpfVW9rdGFzd2c?oc=5	其他瘟疫	-
 2026-05-09	極地郵輪暴發病毒致3死，即將靠港歐洲！這病毒什麼來頭？	https://hao.cnyes.com/post/246403	其他瘟疫	B
 2026-05-07	漢他病毒奪3命！郵輪疫情再拉警報 專家揭「海上密閉空間」最可怕真相	https://health.setn.com/news/1834923	其他瘟疫	B
@@ -538,7 +536,6 @@ var DATA_PLAGUE = `
 2026-02-14	印度立百病毒死亡個案! 女護士染疫數週病逝	https://www.msn.com/zh-tw/news/world/印度立百病毒死亡個案-女護士染疫數週病逝/ar-AA1WeQG8?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	自然離世	A
 2026-02-11	25年首例漢他病毒死亡》台大公衛專家：非人傳人、防鼠關鍵一次看	https://tw.news.yahoo.com/25年首例漢他病毒死亡-台大公衛專家-非人傳人-防鼠關鍵-次看-083051891.html	自然離世	B
 2026-02-08	北市爆漢他病毒死亡案例 她點鼠患3環境…這關鍵文化最易忽略	https://udn.com/news/story/7266/9316148	自然離世	A
-2026-01-30	國內今年首例漢他病毒症候群現蹤北市 大安區七旬老翁染疫爆併發症逝	https://www.taiwanhot.net/news/1126873/國內今年首例漢他病毒症候群現蹤北市+大安區七旬老翁染疫爆併發症逝	新冠相關	A
 2026-01-29	致死率75%!印度爆立百疫情5確診1死 4醫護治療「疑似病例」 中招	https://www.msn.com/zh-tw/news/other/致死率75-印度爆立百疫情5確診1死-4醫護治療-疑似病例-中招/ar-AA1UVs0o?cvid=6975e40304db4f0fac82446a60ffeacb&ocid=hpmsn&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1	新冠相關	A
 2026-01-28	尼帕病毒︱亞洲多地提升機場防疫措施 與新冠肺炎同列世衞重點關注疾病︱Yahoo	https://hk.news.yahoo.com/尼帕病毒︱亞洲多地提升機場防疫措施-與新冠肺炎同列世衞重點關注疾病︱yahoo-083552433.html	新冠相關	A
 2026-01-23	中國人口續降 「疫情後死亡潮」持續蔓延	https://www.epochtimes.com/b5/26/1/22/n14681887.htm/amp	自然離世	A
@@ -594,7 +591,6 @@ var DATA_PLAGUE = `
 2023-03-02	獨家／猴痘爆本土指揮中心急開會！民團倡自費打疫苗或比照香港防治模式	https://www.setn.com/news/1259442	瘟疫與疫苗	A
 2023-02-21	小學緊急停課4天 官方稱學生患流感非新冠	https://hk.on.cc/hk/bkn/cnt/cnnews/20230221/bkn-20230221180134832-0221_00952_001.html	新冠相關	A
 2023-01-29	疫情｜最後一份疫情稿 增3283確診20人死 新增2宗兒童危殆個案	https://www.hk01.com/article/861247?utm_source=01articlecopy&utm_medium=referral	其他瘟疫	A
-2023-01-23	添5新冠患者須隔離 八旬長期病翁染疫亡	https://hk.on.cc/hk/bkn/cnt/news/20230123/bkn-20230123170635382-0123_00822_001.html	新冠相關	A
 2023-01-23	中重症增97例！20多歲男打3劑 確診5日內死亡 指揮中心揭死因	https://times.hinet.net/mobile/news/24373373	自然離世	A
 2023-01-20	疫情．1.20｜新增3789宗確診 學校教職員新年假後返校免快測	https://www.hk01.com/article/859217?utm_source=01articlecopy&utm_medium=referral	新冠相關	A
 2023-01-20	增3789新冠確診 輸入佔93宗 另多42人染疫亡	https://hk.news.yahoo.com/增3789新冠確診-輸入佔93宗-另多42人染疫亡-082511784.html	新冠相關	A
@@ -605,9 +601,9 @@ var DATA_PLAGUE = `
 2023-01-14	流感奪命｜無外遊的4歲女感染甲型流感後亡 為近三年來首宗	https://www.hk01.com/article/857215?utm_source=01articlecopy&utm_medium=referral	其他瘟疫	A
 2023-01-11	日本全境「1個多月萬人確診亡」疫情再飆 專家曝3原因	https://www.ettoday.net/news/20230111/2420773.htm	新冠相關	B
 2023-01-11	A組鏈球菌感染者增 15病亡 ｜ 澳洲 ｜ 大紀元	https://www.epochtimes.com/b5/23/1/11/n13904156.htm	其他瘟疫	A
-2023-01-10	醫管局：昨日新增400名新冠患者留醫 多19人危殆 - 香港商報	http://www.hkcd.com/hkcdweb/content/2023/01/10/content_1381520.html	瘟疫	-
 2023-01-10	新增9379宗確診 多75人染疫亡	https://www.bastillepost.com/hongkong/article/12049286-%E7%96%AB%E6%83%85%EF%BD%9C%E6%9C%AC%E6%B8%AF%E6%96%B0%E5%A2%9E9379%E5%AE%97%E7%A2%BA%E8%A8%BA%E5%80%8B%E6%A1%88-%E5%86%8D%E5%A4%9A75%E4%BA%BA%E7%97%85%E6%AD%BF	新冠相關	A
 2023-01-09	【新冠感染】澳門新增6人染疫亡,其中5人無接種疫苗	https://news.cnyes.com/news/id/5057662	新冠相關	A
+2023-01-08	醫管局：7日新增416名新冠確診病人留醫 多22人危殆 - 香港商報	http://www.hkcd.com/hkcdweb/content/2023/01/08/content_1381205.html	新冠相關	A
 2023-01-08	【新冠肺炎】累計確診502萬9908宗 我國1月4日再有4病亡｜光華網	https://www.kwongwah.com.my/20230108/%E3%80%90%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E3%80%91%E7%B4%AF%E8%AE%A1%E7%A1%AE%E8%AF%8A502%E4%B8%879908%E5%AE%97-%E6%88%91%E5%9B%BD1%E6%9C%884%E6%97%A5%E5%86%8D%E6%9C%894%E7%97%85%E4%BA%A1/	新冠相關	A
 2023-01-08	1/8本土+23080、境外331例、36病歿	https://fongnews.net/breaknews/68783/	瘟疫	A
 2023-01-07	【新冠詳細報告】島根縣1565人感染、鳥取縣1681人、4人死亡、醫療機構等9起群聚7日繼續	https://www.47news.jp/8782426.html	新冠相關	A
@@ -625,7 +621,6 @@ var DATA_PLAGUE = `
 2023-01-03	【新冠肺炎】全國新增360確診1亡例 尚有11807活躍病例｜光華網	https://www.kwongwah.com.my/20230103/%E3%80%90%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E3%80%91%E5%85%A8%E5%9B%BD%E6%96%B0%E5%A2%9E360%E7%A1%AE%E8%AF%8A1%E4%BA%A1%E4%BE%8B-%E5%B0%9A%E6%9C%8911807%E6%B4%BB%E8%B7%83%E7%97%85%E4%BE%8B/	新冠相關	A
 2023-01-03	5人死亡，1372人確診新感染（福島縣）	https://www.fnn.jp/articles/-/466060	新冠相關	A
 2023-01-02	多5名長者染新冠病逝 均患慢性病 當中1人已接種疫苗	https://hk.on.cc/hk/bkn/cnt/news/20230102/bkn-20230102170604883-0102_00822_001.html	疫苗	A
-2023-01-01	多114名新冠患者入住隔離設施另添2名老翁染疫亡。	https://hk.news.yahoo.com/多114名新冠患者入住隔離設施-另添2名老翁染疫亡-112508754.html	新冠相關	A
 2022-12-30	聚集性感染45起...埼玉7402人感染，8人死亡，38人重病。	https://www.47news.jp/8758256.html	其他瘟疫	A
 2022-12-29	澳門添88確診75歲翁染疫亡，珠澳72小時檢測通關要求延至下月7日。	https://hk.news.yahoo.com/添88確診75歲翁染疫亡-珠澳72小時檢測通關要求延至下月7日-114755569.html	新冠相關	A
 2022-12-29	再有16個月大女嬰染疫危殆	https://hk.news.yahoo.com/%E5%86%8D%E6%9C%8916%E5%80%8B%E6%9C%88%E5%A4%A7%E5%A5%B3%E5%AC%B0%E6%9F%93%E7%96%AB%E5%8D%B1%E6%AE%86-214500297.html	新病毒	-
@@ -645,6 +640,7 @@ var DATA_PLAGUE = `
 2022-12-20	奈及利亞南部多個村莊暴發霍亂至少20人死亡——上海熱線新聞頻道	https://news.online.sh.cn/news/gb/content/2022-12/20/content_10007812.htm	瘟疫與疫苗	A
 2022-12-20	增8.75萬宗新冠確診, 近97天來最多。	https://hk.on.cc/hk/bkn/cnt/intnews/20221220/bkn-20221220110029908-1220_00992_001.html	新冠相關	A
 2022-12-19	疫情大爆發 瑞薩北京廠停工	https://tw.news.yahoo.com/%E7%96%AB%E6%83%85%E5%A4%A7%E7%88%86%E7%99%BC-%E7%91%9E%E8%96%A9%E5%8C%97%E4%BA%AC%E5%BB%A0%E5%81%9C%E5%B7%A5-201000735.html	其他瘟疫	B
+2022-12-19	增97患者入住隔離設施 另添2確診者死亡	https://hk.on.cc/hk/bkn/cnt/news/20221219/bkn-20221219144128056-1219_00822_001.html	自然離世	A
 2022-12-18	疫情．12.18｜增16023宗確診 終審法院首席法官張舉能染疫	https://www.hk01.com/article/848162?utm_source=01articlecopy&utm_medium=referral	新冠相關	A
 2022-12-18	增64宗入住隔離治療設施個案 另添兩確診患者死亡	https://hk.on.cc/hk/bkn/cnt/news/20221218/bkn-20221218131148879-1218_00822_001.html	自然離世	A
 2022-12-18	WHO示警：全球霍亂疫情增三成。	https://tw.news.yahoo.com/who示警-全球霍亂疫情增三成-111601383.html	其他瘟疫	A
@@ -701,7 +697,6 @@ var DATA_PLAGUE = `
 2022-08-29	8個月逾9千人病歿！今增22死本土＋20160	https://www.chinatimes.com/realtimenews/20220829002539-260405?ctrack=mo_main_life_p04&chdtv	瘟疫	A
 2022-08-28	疫情｜長者每週開枱變每月一次 雀友染疫亡不夠腳 轉打電子麻雀	https://www.hk01.com/sns/article/808788	新冠相關	A
 2022-08-28	[現場]BA.4或BA.5成本地主流病毒變異株 最新佔感染個案逾五成	https://news.tvb.com/tc/864803-%E7%8F%BE%E5%A0%B4BA4%E6%88%96BA5%E6%88%90%E6%9C%AC%E5%9C%B0%E4%B8%BB%E6%B5%81%E7%97%85%E6%AF%92%E8%AE%8A%E7%95%B0%E6%A0%AA%E6%9C%80%E6%96%B0%E4%BD%94%E6%84%9F%E6%9F%93%E5%80%8B%E6%A1%88%E9%80%BE%E4%BA%94%E6%88%90	其他瘟疫	A
-2022-08-23	再多10名新冠患者離世 只有兩人已打3針疫苗	https://hk.on.cc/hk/bkn/cnt/news/20220823/bkn-20220823163012859-0823_00822_001.html	新冠相關	A
 2022-08-10	疫情｜增4593宗多4死 87歲婦腸臟破裂腹膜炎惡化不治 已打三針	https://www.hk01.com/sns/article/802430	其他猝死	-
 2022-08-04	約30名非洲抵港人士疑感染瘧疾送院 部分要入住深切治療病房	https://www.hk01.com/sns/article/800337	猴痘禽流感	B
 2022-07-28	猴痘抗病毒藥買504人份 莊人祥：疫苗簽約進入最後階段	https://www.setn.com/news/1152800	瘟疫與疫苗	A
