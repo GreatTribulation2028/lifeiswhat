@@ -1,5 +1,6 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 427 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 428 條
 var DATA_TECH = `
+2026-11-25	中國AI假影片「抹黑民進黨候選人」 BBC揭網軍操縱線索	https://www.ettoday.net/news/20261125/3278218.htm	深偽詐騙	-
 2026-11-24	馬斯克旗下腦機接口公司展示新成果 8股獲機構扎堆看好	https://news.google.com/rss/articles/CBMiakFVX3lxTFA0WGlTejNnbGpxYnREUXZFYmFFaU9kS3pyRXBSMVVKazI1a1phY1IzYTExbXNLNGptb0RLTnpaMWxTXzZLeVNfZnRDMlNwZzhnLXBRdlo0ZHdIa0V4eFZmemV1VVRLbTJvOVE?oc=5	未分類	-
 2026-11-24	英偉達和美國腦機接口公司合作 推進腦機接口高性能AI計算	https://news.google.com/rss/articles/CBMiXEFVX3lxTE13MW5fZTVOZ1BVME5KdHJ3dG13Nkx0Z2FSNVZuS0lqMVpxVUMtcTZ4QXJtNzZ2aU9IRm1xR3RwYkVOVXZsY2swbkZybnFLRy05TTdoek5SU0Q4MzM0?oc=5	未分類	-
 2026-11-24	港股腦機接口概念局部異動，腦動極光-B(06681.HK)午後漲超30%。	https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWtOWm1JcXpTRHdXM2pLMS1CYXBnR1F4dG9LLXp0ZkV3MXIwUEhKeFZXR250TEkzX2duUDlvelZRUVhOM3dHQnlYUXplM21PZWZhdE5wd2JJc2oyczcxaG1keUhhRW50bzJoNXJPb2Z0XzVYTU1GZzNtOHZEWU9xbFp0bHQwQ2JBdGsxcVpZeHg5emhhUHloaXJsYVRQaEE?oc=5	未分類	-
