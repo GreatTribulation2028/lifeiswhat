@@ -1,5 +1,6 @@
 var DATA_TODAY = `
 2026-11-25	南韓知名美食奪命！8旬翁吃活章魚窒息送醫不治- 國際	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YdFhfcXRlMmxsQ0NmaXFrcEdTQllKdVBTdTBtZ20tRWxwU1BBakI1V0gwUXlSRGF5dUgzaDU0cHFqNzlhbGt0YWtQcFRWM0hXbmxzVWl6R1BLV1kzUm5LNTZ5Mm8xQQ?oc=5	其他猝死
+2026-11-25	兒子剛去借輪椅就斷氣 73歲翁參觀長照中心途中猝逝公園	https://news.ltn.com.tw/news/society/breakingnews/5653365	心腦猝死
 2026-11-24	獨攀大凍山猝逝！男子倒臥「第一涼亭」接力搶命 抬下山仍斷魂身分待查	https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WdXpxTk9uYkxHX2dxRkJYT0pZLVlnbnc5MFctNHNfY2xWTHpPUVl4bjU2bE9Qb252eWNlMUZ5SXIwTHFnVFBub9IBTEFVX3lxTE1tS0ZTUWEtaElCbExmNTVzWk5jOVRxTy14akp6aG93M0EtSDc0RUZHaEJmZFdtQ01aMVBpUVpEWmVid2dLWUl2ZWp5UDI?oc=5	心腦猝死
 2026-11-24	準備要走紅…東大畢業男星26歲猝逝！ 「身患12種疾病」日吞27顆藥	https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WY0JEU2ZiN2Z2UUVwMms0UTV0aUdOOXN5U2ViVzBKOGZFTXNhVnJuZS0xNGJTRXRKTlJTR3V4Y190Zjhyc084ODcyY0FLOVBtdzM2cDhheExjdjl1WDhJWUpxSQ?oc=5	心腦猝死
 2026-11-24	柴灣翠樂邨單位發現女住戶猝逝 丈夫報警求助	https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWlEY2VhTGd6VmNidUp0ZndlX0x4MmFOTnFZb216SlVRRDgySG1rejVyWm5BMWRiaFJLX1l5cTZwZ3FOZnVfZWYtTWNEWTM2YVJ4eFdtLTFRS0Izdjg0cS1FQjZiUHZ1YnlUb1MtRjZlcXVZMy1CZG9pUjNfaDFEQ0s4U2VxY2pFMFlr?oc=5	心腦猝死

@@ -1,5 +1,6 @@
-// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 145 條
+// 宗教 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 146 條
 var DATA_RELIGION = `
+2026-11-25	堅道天主教座堂為宏福苑亡者舉行追思彌撒	https://news.rthk.hk/rthk/ch/component/k2/1879271-20261125.htm	未分類	-
 2026-11-24	梵蒂岡出版《教宗方濟各的私人日記》 揭方濟各曾見過魔鬼及地獄之門	https://news.google.com/rss/articles/CBMibEFVX3lxTE0xQ3U3SnJBZzZUOE5sTmZ5NjlhZHR2WVAyT2htSTlhNm1QeHNsRWFMX0t3a0stcDhLRlZYWFExNnRGU1VBdHVyLXczZkJnckdxZ0tONnJQZUgxQkZ0c0g3NlpfVjFrcU5DZmdURw?oc=5	未分類	-
 2026-11-24	李在明：應研討解散假借宗教活動實施犯罪的邪教組織	https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2h1MWotT1ZGRkI1RlVQTW1venlNdV84bW9QTmktUktDRjE0UjhES1ZzNFJlNFVTZ3YwQzNtX2ZTMk1IdEp3OXpLR2pWeVBpOGRyUnJhMzNlUEVMSTU3UVRtVDdmSEFpSmpjc3ZyU2RYZjFoMTFxTVc3WHlzRlo1M3lLQU9ONHBTd09ObVRtcGo4VWMtajk0?oc=5	異端邪教	-
 2026-11-23	德國最新宗教自由報告 設章討論「跨國鎮壓」	https://news.google.com/rss/articles/CBMiYkFVX3lxTE10b1ktVXdlcDZVS3ZjUmY2QXBFZXZuTU9qc1EyMG4xTUhWbUh1REtzTmpheGhXLUhKVWNsYXhWb0M1aHZGM2xWR2Q5dXVsRW9acjNwWnluemtwUi1MN2MtN1930gFnQVVfeXFMTXlRTVdEMGNsNDJlYVJkODJ1R01GQ1JhZ0lGQzBPVFhjRXNlMFVnZXVVVWN6cXk1TnZ6dHJiQ2lsVUFwa0RpM2pyeGx5dURMaWlKSFRpcXhDcDBWNkMySGctcHlzcGU4MA?oc=5	未分類	-

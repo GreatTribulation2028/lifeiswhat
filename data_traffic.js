@@ -1,5 +1,10 @@
-// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1784 條
+// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1789 條
 var DATA_TRAFFIC = `
+2026-11-26	快訊／國1彰化段重大車禍3命危16傷 搶救畫面曝光	https://www.ettoday.net/news/20261126/3278628.htm	一般車禍	-
+2026-11-26	影片曝光！遊覽車2度撞擊全毀3死2命危 國一彰化段南下全線封閉5小時	https://news.ltn.com.tw/news/society/breakingnews/5653744	未分類	-
+2026-11-26	國1彰化段連環車禍！3人無生命跡象2命危14傷 南下全線封閉	https://news.ltn.com.tw/news/society/breakingnews/5653629	一般車禍	-
+2026-11-26	嘉義縣台82線快速道路8車連環撞 嚴重回堵數公里	https://news.ltn.com.tw/news/society/breakingnews/5653717	連環相撞	-
+2026-11-25	離奇車禍！金門雙載機車撞路沿「看似無礙」 印尼金僑大一生1死1傷	https://news.ltn.com.tw/news/society/breakingnews/5653362	一般車禍	-
 2026-11-25	車Cam直擊丨深水埗5車連環相撞 紅的猛撞電單車再連環追尾	https://news.google.com/rss/articles/CBMi9wJBVV95cUxNZHdpa0JoaXZ3U1Y1WXI0M2k1b0lfbjdoZDJfRTFHcURxdm5NNWs1T05oRFliOEhlZDJOYVJlb2xtdDZXR1lvcTlOQXVKd1ZWamZ0OU0tS2VOZFUycmJiR3RkNFFrNVJzVk1sWUdCWFJrQ0QyMWJrYS1uSjJrWEw2bzA0bTZmODlSTDI2MHZKdnFkYm9aMWgxakRBSzVRcUVBcVgtOXEzUndobl9MRGVXOVFCbndDS3lQNzFrcVlzdHdEdGVQNjd4UEFIUDVyTElSZHNrM3NwcG9OM2NEWjdSNWVtTW5DSndUU0xZTGxJb09xM1N0N2R2WWJnTEpZLUlNdDBUZk1JNDhMS0c1bnMwVkltUENBWUNnRnVWUUJvZlhsbFJfMTNFeElmNGRVMEJhUTFoU0pmOGh2ei1BUXRKU014dGsyLUNmSndPUTdiUDU1alI5T296Z1BPSWpBN2pHdUxGQ1RQcmtyTFlLZEVGR3ZoM3M5NnM?oc=5	連環相撞	-
 2026-11-25	快訊／台中汽機車路口相撞 騎士撞擋風玻璃噴飛送醫不治	https://www.ettoday.net/news/20261125/3278189.htm	涉及傷亡	-
 2026-11-25	受交通意外影響書局街西行線電車暫停服務- 香港	https://news.google.com/rss/articles/CBMid0FVX3lxTFAwbkNtWUtycENJV3dqQzVubjRJZXhlNnJLb01qX1FuMGdPM3ZUUGdFem11Yjk1Zk5iajJSbWl5LVEyVW5XNFRpbHBLS3Y5WXNkczFqSmc2Y0RFYi14M3pvR0RBSjJBdXdZWXkxbGJ3RmZrZkhFb1Rv?oc=5	車禍	-
