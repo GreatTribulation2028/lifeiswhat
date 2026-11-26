@@ -1,5 +1,8 @@
-// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 471 條
+// 天災 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 479 條
 var DATA_DISASTER = `
+2026-11-26	印尼非法金礦遇洪水 13死13人仍被困	https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUVdiWHZucVd4eEhCMF9kREw2RnNSNE9GZmJHNUNacHZDZlU5Zm5SUmNZMUdudEt0Nm9xV2V5STdqYUI5MUVaWFBQOXlYN2NKX2t0dW4wTGVUb20welpydWJrb1ZaejlsaHZTRjMwcUY0X3RDSHZHaGlZNE1SX2RfcFNxSkloczgxbWo2WFJhNkNFdHpJZVI5bGJxdllWSlhIcDh0SkVNNFhNRm1fd2VTcm43a0NQY1FxanY1bTZoZGxUXzliMThrZFpKREVGRi00VWVlNU9JNA?oc=5	天災	-
+2026-11-26	中央大學更新「台灣地震危害評估」 部分沿海地震危害估值上升	https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tVmNTWFNWZ0JVRTEyYm95YW1QZGNQRXdOSXhheVhoT1V5SUdNX3pHN2R3SlBQU1FPTkJZMUEyZXdOb0tUWmNPcmJsdmxxdFhH0gFWQVVfeXFMT1c2SklDOER2c3FkUUpKenlnN3AxbS1VUVFUZk9nOS02cEhzeU1fc1lKRWFaOUd0OFVTUEJ6WTgxNF9hc19OUHRYRzUxUFRKYkV4d1NZb2c?oc=5	地震	-
+2026-11-25	江美儀目睹泰國海嘯慘狀：心理創傷引發長達20年的海嘯噩夢	https://news.google.com/rss/articles/CBMi-wJBVV95cUxOeC1qalNCaU1tUy14Y0puZERCSlFNeG96RnJwb2NEWlJUTzRrQlBoRjNGQWdHQmxiRkw4Zy05YnVKODdUR0x3d2hrSjZRY1p0dnNTMHZDd2Q4SEh3OF9jeXJJem9hdkl3TVNsamk1SXhKNmYwS1RQTUxOdU5aenpMcEI1Y0I4YzhFa0JhVXhPa2d4VjZOREdjV2pDN2pjVWVlQ044cEc4ZmJfTkxnQ2VJS2RUMDNfOFluY3lFWFV2cjI3bW12Q21MVGQtZGFVX2FQYVpZY0kwQVJkenN0VWs5QUVock51S1kyLW1WX2RnU2J1V2xnYnJnWnpqczlIbU1uREtGR1o1SEkwM09nc0pXcHlJbDJodDVVeGxMWUJ2NjBxQkp0ZzJpSTV2SG9UQ1l4ZVRyaXU2YWE1ZjF0VHVhamtMZzEwVkF0U3JNaTgwUC1saGNIRjFvdUlhWkV2VWMxMi10MzNPcTVMdXpLMmdUNW5VTW5jMnNuZVlR?oc=5	其他災害	-
 2026-11-24	氣候變遷加劇暖化 英格蘭今年夏季熱浪奪5258命	https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TWXVzTTRadDVWLWVaREtWX1p1TWNfaDFuYzBNYlEtTzBUc0d2ZHRiV3hmazJFc1lERjFlYndIcWtkdWJ5anVuci1rdXZZckZkMG0wTGFaZk8?oc=5	極端天氣	-
 2026-11-24	入冬首波寒流襲擊！ 日本暴雪數千戶停電近5天 居民崩潰	https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzRnY4LUttaXZ5TDhvdmxsTmJrdURWTjBUSWdxZFBXUThicmNoZjVWZHZydFItM0Y3VjN0OFJLYTZCc2swOExGZ0xkNW1pZ3haNTBsaU9rVkIwc2NpWXUzQQ?oc=5	極端天氣	-
 2026-11-23	敏熙報氣象／法北利斯河橙色洪水警戒 多處地區遭洪水波及	https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQUJORTZWV2hJYVQyX0NJeElYTUpCNkhkQkVfb1I5cHU2N1NRZ1duTEp0LVhwa2xJc0tEOVJoSmExblhJV3lBT1lGb0VBeTl4SWtUMEtwT3dpMENYNWpsMQ?oc=5	水災暴雨	-
@@ -169,12 +172,15 @@ var DATA_DISASTER = `
 2026-09-07	印尼火山爆發影響航班 山火濃煙波及鄰國 - 20260907 - 國際	https://news.mingpao.com/pns/%E5%9C%8B%E9%9A%9B/article/20260907/s00014/1788716627192/%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E7%88%86%E7%99%BC%E5%BD%B1%E9%9F%BF%E8%88%AA%E7%8F%AD-%E5%B1%B1%E7%81%AB%E6%BF%83%E7%85%99%E6%B3%A2%E5%8F%8A%E9%84%B0%E5%9C%8B	大火山火	B
 2026-09-06	受熱浪等影響悉尼森林大火風險級別升至「極高」 當局頒布戶外全面禁火令	https://news.tvb.com/tc/1193686-%E5%8F%97%E7%86%B1%E6%B5%AA%E7%AD%89%E5%BD%B1%E9%9F%BF%E6%82%89%E5%B0%BC%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB%E9%A2%A8%E9%9A%AA%E7%B4%9A%E5%88%A5%E5%8D%87%E8%87%B3%E6%A5%B5%E9%AB%98%E7%95%B6%E5%B1%80%E9%A0%92%E5%B8%83%E6%88%B6%E5%A4%96%E5%85%A8%E9%9D%A2%E7%A6%81%E7%81%AB%E4%BB%A4	大火山火	A
 2026-09-05	印尼喀拉喀托火山爆發 日本監測海嘯風險	https://www.881903.com/news/international/2648514	其他災害	A
+2026-09-03	颱風「沙德爾」橫穿廣東梅州多條河流洪水預警生效- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTE94VHRtcG9oMDloS0ZEZXFxMEhVV1V6cHJlcHhuU2E0ZnEtQm9KUTYxdHNMdFoweUhZX0NXeTRUWmpoc1Vlbm9wQU81bjVXemRkcjEwTUcwdWU5R3I5aFBKeXpTYTVaUU13eFFUOExIZXAybXNvTmpV?oc=5	颱風風暴	-
 2026-09-01	日本火山喷发现场 樱岛火山多次喷发	https://military.china.com/news/13004177/20260901/49711681.html	其他災害	A
 2026-08-31	印尼錫納朋火山噴發 噴出3500 米高火山灰	https://www.bastillepost.com/hongkong/article/16675418-印尼錫納朋火山噴發-噴出3500米高火山灰	其他災害	A
+2026-08-29	颱風「沙德爾」將深入內陸這些地區將有特大暴雨- 神州	https://news.google.com/rss/articles/CBMid0FVX3lxTE1oUDBkc3lhUkFwdW04RVJkSkl5ZGFYQkJPdU5DcF9MU05ndFhoanQ0RXBJZm9zdkVyWlVuRW5vTkROS3BabEE0WWJzMldwbEtlaFM3LU4xMXVCZzZma1lfTzFlVUhUMkF6NFJxdy1TOFFsVTBTLWFB?oc=5	颱風風暴	-
 2026-08-28	熱浪襲北非 阿爾及利亞154宗山火已致12死	https://hk.epochtimes.com/news/2026-08-28/40033020	大火山火	A
 2026-08-28	敏熙報氣象／歐洲嚴重乾旱熱浪 衝擊供水.能源多重危機	https://www.4gtv.tv/article/2026082804000032?utm_source=popin	熱浪乾旱	B
 2026-08-28	印尼塞梅鲁火山六小时内发生21次喷发地震	https://www.shangbaoindonesia.com/read/2026/08/28/kesra-1787880503	其他災害	A
 2026-08-27	暴雨乾旱馬鈴薯縮水 衝擊薯條供應	https://tw.news.yahoo.com/暴雨乾旱馬鈴薯縮水-衝擊薯條供應-230125737.html	水災暴雨	B
+2026-08-25	已有21個颱風生成！今年颱風為何這麼多？	https://news.google.com/rss/articles/CBMiekFVX3lxTE9IUUhtM2NiMWpmY0h4NWN1Z2t6S1ZEa0twSEYzWUlybUZ1WElGNDJoNzhRQllhUjlfQUgtbmxnMHJySENCZXh3djY1bEd3dEZjREVRQUdCcE5xdjJyNV90MDhWUE9XMTdBV3E4UExSa3RaUmdzRE1xR2Vn?oc=5	颱風風暴	-
 2026-08-25	地震！國家警報響！15:00東南部海域規模5.8地震 最大震度台東4級 雙北有感	https://tw.news.yahoo.com/地震！國家警報響！1500東南部海域規模58地震-最大震度台東4級-雙北有感-070823939.html	地震	A
 2026-08-25	台灣地震｜台灣東南海域發生5.8級極淺層地震 全台有感！	https://www.hk01.com/台灣新聞/60383468/台灣地震-台灣東南海域發生5-8級極淺層地震-全台有感	地震	A
 2026-08-24	西西里島「埃特納火山」連日噴發！遊客瘋朝聖、火山灰導致機場停擺	https://globalnewstv.com.tw/202608/236986/	其他災害	B
@@ -184,11 +190,13 @@ var DATA_DISASTER = `
 2026-08-24	​四川宜賓4.7級地震 成都一機構冒官方名發7.7級錯誤地震預警惹熱議	https://www.orangenews.hk/china/VTC4Li2/四川宜賓4-7級地震-成都一機構冒官方名發7-7級錯誤地震預警惹熱議.shtml	地震	A
 2026-08-24	71.3%地區陷入乾旱...英格蘭繼最乾燥7月後 迎來第5波熱浪、雪上加霜	https://ubrand.udn.com/ubrand/amp/story/123658/9689454	熱浪乾旱	B
 2026-08-22	地震速報！ 08/22 11:40左右 東北地區發生有感地震	https://news.ebc.net.tw/news/living/567547	地震	A
+2026-08-22	中央氣象台發佈颱風和暴雨藍色預警	https://news.google.com/rss/articles/CBMib0FVX3lxTE8yWmEzV0dJNUdyQkJXYUh2TEdZdDlrRFdReDBzN2pzYjc2QTMzNXNnWEh2a3NrbjlrNWxFdWlsZEM4X0JGak5LeEozMEVQRmx2b1Q5by1UYjR4LXRoQUJrV3pxY3NSX1N6WW52WHQ0cw?oc=5	颱風風暴	-
 2026-08-20	颶風「拉拉」過境夏威夷 莫納克亞火山驚現「八月雪」 專家直呼太瘋狂	https://www.bastillepost.com/hongkong/article/16597296-颶風「拉拉」過境夏威夷-莫納克亞火山驚現「八月	颱風風暴	B
 2026-08-20	風災、水災、高溫全進前3...綠色和平：氣候衝擊台南位居6都之首	https://ubrand.udn.com/ubrand/amp/story/123658/9687143	水災暴雨	B
 2026-08-20	歐洲熱浪｜法國今夏已經歷52天熱浪 創近80年紀錄	https://www.hk01.com/article/60381745	極端天氣	B
 2026-08-20	根據美國地質調查所（USGS）資訊，印尼東部20日上午發生規模5.7地震，地震深度僅10公里。 這起地震震央位於印尼佛羅勒斯島（Flores Island）魯滕（Ruteng）東北偏...	https://www.worldjournal.com/wj/amp/story/121488/9703495	地震	A
 2026-08-20	根據數字本省本年山火季節至今已有超過500棟房屋或其他建築物被山火摧毀或損壞	https://am1320.com/%E7%84%A6%E9%BB%9E%E6%96%B0%E8%81%9E/%E6%A0%B9%E6%93%9A%E6%95%B8%E5%AD%97%E6%9C%AC%E7%9C%81%E6%9C%AC%E5%B9%B4%E5%B1%B1%E7%81%AB%E5%AD%A3%E7%AF%80%E8%87%B3%E4%BB%8A%E5%B7%B2%E6%9C%89%E8%B6%85%E9%81%8E500%E6%A3%9F%E6%88%BF%E5%B1%8B/	大火山火	A
+2026-08-20	最強可達超強颱風！颱風「沙德爾」可能登陸我國 最新研判→	https://news.google.com/rss/articles/CBMid0FVX3lxTE1USnhETlZNVk5mM29ueHlYNnJhM1hMQkFEemNDT0FwNHpVdFhmWjdWNjRBbVQ0V1BvY3BsdjNTTnRqTXZkS05tR1NpbUlSZkk0YWdpLXdyM2Z5enNzbmVHWTVKNENqcTRnQ0hZcDlJZnI4ektFQU9B?oc=5	颱風風暴	-
 2026-08-20	印尼東部外海5.7級地震 當地未有發出海嘯警報	https://news.tvb.com/tc/1190165-印尼東部外海5.7級地震當地未有發出海嘯警報	地震	A
 2026-08-19	超人救山火？ 15歲少年奇裝助滅火 稱好過玩手機(有片)	https://www.am730.com.hk/國際/1048278/超人救山火-15歲少年奇裝助滅火-稱好過玩手機-有片-	森林火警	B
 2026-08-18	短片：歐美多地山火持續 加拿大火勢蔓延 比利時山火失控 (13:26) - 20260818 - 熱點	https://news.mingpao.com/ins/熱點/article/20260818/s00024/1787027277919/短片-歐美多地山火持續-加拿大火勢蔓延-比利時山火失控	大火山火	B

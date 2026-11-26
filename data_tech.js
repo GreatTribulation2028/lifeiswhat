@@ -1,5 +1,7 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 428 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 430 條
 var DATA_TECH = `
+2026-11-26	袋鼠金融遭AI駭客攻擊！估1成會員受影響 全站緊急停擺	https://finance.ettoday.net/news/3278957	駭客網攻	-
+2026-11-26	美財政部 FinCEN 遭駭停擺 5 天，資訊長在用 AI 做《文明帝國》	https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVA3N0NGVU56TzlPYzRTdk00N3JDOHdpY3dQT2ZWN0x6ZXRtbzNsRjVLb1FKQlZtUHVCendWMkZ4b29aNU9HZ19HZEZkelk0X0ZRWXNDbjg1QVdBT29hM2d3NUowT3pybld1M2J3dVJCZlR0Q0pIT2kxMHlNSm1pd0s1T214RlZsNlBCM2FuZGxPaEx6amhDZzlSQnA?oc=5	未分類	-
 2026-11-25	中國AI假影片「抹黑民進黨候選人」 BBC揭網軍操縱線索	https://www.ettoday.net/news/20261125/3278218.htm	深偽詐騙	-
 2026-11-24	馬斯克旗下腦機接口公司展示新成果 8股獲機構扎堆看好	https://news.google.com/rss/articles/CBMiakFVX3lxTFA0WGlTejNnbGpxYnREUXZFYmFFaU9kS3pyRXBSMVVKazI1a1phY1IzYTExbXNLNGptb0RLTnpaMWxTXzZLeVNfZnRDMlNwZzhnLXBRdlo0ZHdIa0V4eFZmemV1VVRLbTJvOVE?oc=5	未分類	-
 2026-11-24	英偉達和美國腦機接口公司合作 推進腦機接口高性能AI計算	https://news.google.com/rss/articles/CBMiXEFVX3lxTE13MW5fZTVOZ1BVME5KdHJ3dG13Nkx0Z2FSNVZuS0lqMVpxVUMtcTZ4QXJtNzZ2aU9IRm1xR3RwYkVOVXZsY2swbkZybnFLRy05TTdoek5SU0Q4MzM0?oc=5	未分類	-
