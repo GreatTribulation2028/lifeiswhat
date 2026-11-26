@@ -1,5 +1,6 @@
-// 猝死 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1670 條
+// 猝死 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1671 條
 var DATA_SUDDEN = `
+2026-11-26	胸痛掛急診！40歲男拒住院「2小時後猝死」 護理師：全身紫掉	https://health.ettoday.net/news/3278406	心腦猝死	-
 2026-11-25	南韓知名美食奪命！8旬翁吃活章魚窒息送醫不治- 國際	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YdFhfcXRlMmxsQ0NmaXFrcEdTQllKdVBTdTBtZ20tRWxwU1BBakI1V0gwUXlSRGF5dUgzaDU0cHFqNzlhbGt0YWtQcFRWM0hXbmxzVWl6R1BLV1kzUm5LNTZ5Mm8xQQ?oc=5	其他猝死	-
 2026-11-25	兒子剛去借輪椅就斷氣 73歲翁參觀長照中心途中猝逝公園	https://news.ltn.com.tw/news/society/breakingnews/5653365	心腦猝死	-
 2026-11-24	獨攀大凍山猝逝！男子倒臥「第一涼亭」接力搶命 抬下山仍斷魂身分待查	https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WdXpxTk9uYkxHX2dxRkJYT0pZLVlnbnc5MFctNHNfY2xWTHpPUVl4bjU2bE9Qb252eWNlMUZ5SXIwTHFnVFBub9IBTEFVX3lxTE1tS0ZTUWEtaElCbExmNTVzWk5jOVRxTy14akp6aG93M0EtSDc0RUZHaEJmZFdtQ01aMVBpUVpEWmVid2dLWUl2ZWp5UDI?oc=5	心腦猝死	-

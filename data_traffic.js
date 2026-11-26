@@ -1,7 +1,9 @@
-// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1789 條
+// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1791 條
 var DATA_TRAFFIC = `
+2026-11-26	生死一瞬間！搭客運國道遇劫 生還者嚇壞：2度撞擊飛起來......	https://news.ltn.com.tw/news/society/breakingnews/5653839	未分類	-
 2026-11-26	快訊／國1彰化段重大車禍3命危16傷 搶救畫面曝光	https://www.ettoday.net/news/20261126/3278628.htm	一般車禍	-
 2026-11-26	影片曝光！遊覽車2度撞擊全毀3死2命危 國一彰化段南下全線封閉5小時	https://news.ltn.com.tw/news/society/breakingnews/5653744	未分類	-
+2026-11-26	屯門貨車與輕鐵相撞無人受傷 輕鐵服務一度受影響已逐步回復正常	https://news.rthk.hk/rthk/ch/component/k2/1879334-20261126.htm	涉及傷亡	-
 2026-11-26	國1彰化段連環車禍！3人無生命跡象2命危14傷 南下全線封閉	https://news.ltn.com.tw/news/society/breakingnews/5653629	一般車禍	-
 2026-11-26	嘉義縣台82線快速道路8車連環撞 嚴重回堵數公里	https://news.ltn.com.tw/news/society/breakingnews/5653717	連環相撞	-
 2026-11-25	離奇車禍！金門雙載機車撞路沿「看似無礙」 印尼金僑大一生1死1傷	https://news.ltn.com.tw/news/society/breakingnews/5653362	一般車禍	-

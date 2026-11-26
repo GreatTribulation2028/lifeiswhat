@@ -1,4 +1,4 @@
-// 自殺 | 由 htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 1384 條
+// 自殺 | 由 htnl_suicide_split.py ＋htnl_semantic_reroute.py 生成 | 共 1383 條
 var DATA_SUICIDE = `
 2026-11-25	黃仁勛行情僅撐一天，日韓股市坐上“跳樓機”！	https://news.google.com/rss/articles/CBMiakFVX3lxTE4yYWVLT25WRzFyUE5QYjVmNjN2aGJGZlQ4LTNmZUktc3d2SktYajBYaHRIQlRFU1FuZ25uRTFBcURQaWJYdHQ5eEhCUnprWG52WmhEbGdvdHYyZExiWkFpSDBLbkNKR28tSmc?oc=5	跳樓墮樓	-
 2026-11-25	老翁因病痛跳樓輕生墮三樓平台死瓷磚剝落跌落街兩吃麵男童無辜受傷- 東張+	https://news.google.com/rss/articles/CBMinwRBVV95cUxQZWxJemd5bGZhX05uTW9PT0s2amszMk1jWWhOTnNDeTRuVklEVUFXdVBjcmt4N3RLRGc1dmJhTk1ORE9ZVmRzNnZYNG1Cd3dSM082a3VtNWVaV0xQLWpGRGhab01iX0NzbUJSUkNIdlFCZG02dnhjTnhlTVc2cDJ6STIzMkFLNnE4SGlNSWpIUlhVaXBRWGIzcFRQRzhGMkQ3YXV0c3lWMWhtWmhYd3ZxV0tiaGxBRlVSX2JuV05SdEV5Ti12aVV4UlpBUGxFMjhZZ0ZqcmlfUWVFaXNKTHg1VE1lWE5KY1BEQ3B3SlY2Zi13UEprSTRWZE1yeWlKMWt6Z3VucG9wdDNuZUg0eDY4RWNWdmVPRjdMdk5BNTYzRUxBTzhOaW9mcGVnTVdNYXg2S0I3WU5UQjhnbldEeTVEQ0p6RXBVRm1zdkw0YkpDRFNqRjFaVjVWUlg5YldGWWNPN0hPelQwaDMtbjdicW9JdnIyX0Y1YWRlUHJGWTZ4OWZ2aVgxaEpWU0UweDU1OTZRNUNHTUJpQzdBQ2s2MjRhVS1WY0trYTVNeUUwRTJXemV1SmFDNFIxdnp2cktPUlYyUVZ6UF90b0FVaXg5NlJRZGJzWHVLM2o2am1uZnMteHRSVjJSeTRNcWJZX0RZcjBpYXZobWJZYUQyUEdGTmhTcDVPR0M5UEV2Z2kteldnaDlrSlpaT0had1k4T2VKcmM?oc=5	跳樓墮樓	-
@@ -561,7 +561,6 @@ var DATA_SUICIDE = `
 2024-12-19	「工典甜點」老闆夫妻輕生亡 友人曝：3天前邊吃便當邊流淚	https://news.ltn.com.tw/news/life/breakingnews/4898848	其他方式	B
 2024-12-19	43岁新手妈月初诞下婴儿后患产后抑郁 清水湾寓所上吊亡 附产后抑郁主要病征+预防	https://www.stheadline.com/zh-hans/columnists/stbusiness/501300638/43歲新手媽月初誕下嬰兒後患產後抑鬱-清水灣寓所上吊亡-附產後抑鬱主要病徵預防	上吊懸吊	A
 2024-12-16	珍惜生命︱紅磡鶴園街女子上吊 丈夫解下報案惜太遲	https://www.hk01.com/article/1085483?utm_source=01articlecopy&utm_medium=referral	上吊懸吊	A
-2024-12-12	俞建華猝死 網傳疑涉高層內鬥“飲彈自盡”	https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20241212-%E4%BF%9E%E5%BB%BA%E8%8F%AF%E7%8C%9D%E6%AD%BB-%E7%B6%B2%E5%82%B3%E7%96%91%E6%B6%89%E9%AB%98%E5%B1%A4%E5%85%A7%E9%AC%A5-%E9%A3%B2%E5%BD%88%E8%87%AA%E7%9B%A1	燒炭服毒	D
 2024-12-12	中國海關總署長爆「飲彈自盡」！媒體人揭「輕生導火線」相關報導急下架中共回應了| 古靜兒| 風生活	https://www.storm.mg/lifestyle/5290995	槍械方式	D
 2024-12-11	一位公務員之死／勞動部長：謝宜容有霸凌、輕生與她有關	https://hakkanews.tw/2024/12/11/164552/	其他方式	A
 2024-12-10	深圳61歲地產老闆傳墮樓亡 公司稱是病逝 今年被法院執行8億元	https://www.hk01.com/article/1083570?utm_source=01articlecopy&utm_medium=referral	跳樓墮樓	D
