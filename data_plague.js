@@ -1,5 +1,6 @@
-// 瘟疫 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 784 條
+// 瘟疫 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 785 條
 var DATA_PLAGUE = `
+2026-11-27	英國年度淨移民剔除新冠疫情年份 降至近三十年最低水平	https://news.rthk.hk/rthk/ch/component/k2/1879416-20261127.htm	新冠相關	-
 2026-11-26	長者要打RSV疫苗嗎？自費建議對象與接種前確認四件事	https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DLUdNcHhibjF5S1NUc0RCTXhSc1VoMWZtMDFydVNCb0I2RThORW93a054MkVONmNlbFR2OFhieU0xNk1DcUhjSlU4c1RxMUFGWXc?oc=5	疫苗	-
 2026-11-25	鼻滴mRNA改善記憶！ 新冠疫苗技術跨界瞄準阿茲海默症	https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQmx6R2NDVUJodE5yS0VFek1DNkhTN1RGRVU4SHlVMG9wcGlvQ2QtNDJ1Yk5BYjY1OGQ2Vy0xVFNyMWRaZ005aFd0WlFXS3dFRGJEUmNEazBMRUtldi1vM2J6YjM?oc=5	疫苗	-
 2026-11-25	高雄登革熱再增5例...4例涉鼓山群聚 前鎮區感染源待釐清	https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSdERJV211UWpqNm5EVnFJeFhaSlZCVkN5eVdIcEtCZ3lYX0JZYUF0cnhYSTBocE9OZFZoXzdZcDNiV3RQSjhuQ1poR191N3JT0gFWQVVfeXFMTjVvQlRkWTdKZlZfOXIwRnhyTEptSUJJeXBkZlRQMEZJNjRJczJiN2N0SXhOWjhXaFBFSGxXVmZQdWNLeWtwblZTTXR3RlJldG9TdFNQU3c?oc=5	猴痘禽流感	-

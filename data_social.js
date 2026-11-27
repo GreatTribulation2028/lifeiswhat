@@ -1,6 +1,8 @@
-// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1198 條
+// 社會 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1200 條
 var DATA_SOCIAL = `
+2026-11-27	瑞典召見俄國大使 抗議侵犯波蘭領空並涉嫌策劃丹麥境內謀殺案	https://news.rthk.hk/rthk/ch/component/k2/1879427-20261127.htm	命案兇殺	-
 2026-11-26	桃園男毒駕連撞3車 安非他命快篩呈陽性	https://news.ltn.com.tw/news/society/breakingnews/5654326	未分類	-
+2026-11-26	入境處拘捕兩名男女 涉非法改動特區護照	https://news.rthk.hk/rthk/ch/component/k2/1879415-20261126.htm	未分類	-
 2026-11-25	華埠命案凶嫌被捕38次屢獲釋 ICE早想驅逐	https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sTjVEWWM1bkVHMVFsRXFTNFAzYjhXb1RVQWJPc3FMTmdmemc2SjNFcmtsRGFnLU9XcndhMEpFcHB5S2gzeU84QXBydzlibjlmMUZQWFRsYllFWm9iUVBEY3Vn0gFnQVVfeXFMUEFELWxOTnNucVg1cXdPSVR5ekxUVS1fTFNsWVJkXzZhWGNYdVlJRENjQTlJcl83aUhIaXl2cnZoZ0hIQnVJYUw1V1BOODJ6akVhcEoxRU5LbVdSSl9wSFVYS3VWTDVrYw?oc=5	命案兇殺	-
 2026-11-25	福岡命案丨七旬漢JR車站附近遇刺身亡 兇徒逃逸	https://news.google.com/rss/articles/CBMi3AJBVV95cUxQYlZlZkxDSHN0MG5NSmxMZHV4VHoyaURXWkZSYTZZTUM5VTVYMC1FMUp6bzVvZC1vVEdjc0xkdUR0NG1wMGl0QzZfeXBhdzlncUVxZ2w0UlktR0d4aUdjTVZyUlBpVjVFajltYV93NFRnY1lOUThOT3dfSktzOTJEMjBQMlVvSlVsYy1NcC1UOEdJUTg4VWxBRUt4WC1iNnVNWnp4cW95b0Q3enhUay1naUN3cGx2aW04UmJteTM4U1k5RDNGOE1IQ3hrdlE3ZUtuRU4xZndlbDVUOVRNM1ZVRWk5YmFiVkZDc3puQ0U4UDhiN0JlOWRLZG1YcXRvb0E2VnBHc2J4aXBXQnJNS0E4VWU0RVlYbFJXUzlYNGNNQXRXZVJvMkVDT3E1MHd5Zk5vdFk2THBPRjdueEJiR2ZldlRUMWM2bk1zV1ZRSnNsVkZlLVBYRlVpdVl3S1c?oc=5	社會	-
 2026-11-25	疑未獲授權為兒童病房男病人檢查 威院男醫生涉非禮被捕	https://news.rthk.hk/rthk/ch/component/k2/1879262-20261125.htm	未分類	-

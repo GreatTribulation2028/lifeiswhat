@@ -1,5 +1,6 @@
-// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1810 條
+// 交通 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 1811 條
 var DATA_TRAFFIC = `
+2026-11-27	國道大貨車事故翻覆！雙氧水外洩封閉3車道 一度回堵10公里	https://news.ltn.com.tw/news/society/breakingnews/5655230	翻覆自撞	-
 2026-11-26	近松山隧道交通事故 男鐵騎送院搶救	https://news.google.com/rss/articles/CBMijgFBVV95cUxNRG9fRHVvVjhra3ZUT0xVT0g1UV9zVE9LQ3Qxa2JHY3BoY3JLbHJFMmV2eEcxWks1MXJISHlDalBNMWs2UEtacC1ydzRwczU3Slc3NzdyaEtXUmw3M2pPT0hKazFVWmRYY21DM0RPYXo5V3FNTWU5NFhFOTJqR1FlUVhTTlNCUHBWbUFVN2x3?oc=5	一般車禍	-
 2026-11-26	被告2021年曾有超速記錄及被停牌9個月 #休班警 #危險駕駛 #車禍 #灣仔 #am730	https://news.google.com/rss/articles/CBMitANBVV95cUxNVTJyRDhhMHA4RkY1a05EZkZHOVVoVy1oT2tOTmdrT2ZvV1QzZFd1dXpNTVYtNGlZUk9jekhacUFCODhzSDU2MGVPQWhBWkl2VGpPYlRycUx2OTNyMjZ5cElMOS1MaFl0c2Rtb3luaUl6Rm9JRGtmSE1TbjZwN3hEb3NCOUFMckdOamV0cWJCNTFMWDZzQU5sekxzU2twdUhhb1djanZsYU5ReE5JVW95RnNlWW42VkVVNkxqcGhvRWFjTzNXdFR5WGFuZFFEMFpsZTB5bEY0WkRLSU1VLWI3aXVTUlR1ZV9hNEoxWnNsdVowODB4dXFIa3NHM2dYTTRKdi03RTZMQnM1aDJMMUJ5U0cxc3BSZklTeUhhS0l4S25jbXJSbE81bFJGSFZKdUhUUFFVdk1aaEZsQms0MXJGemVDNnJnYkpyNXZIejdSOC1JdjF2TlUzUjJmd2RSS0tYV2tlNGJUa2VhT2tqRDh1eXljQVZmVGlyQUFNb1BfeTNNV1dsdWpYR1pBVHhUNl9HdW5TNmRTSHRGOTNobnNMWGRoNzF3VGdCdDlkTkdCemhtRWV5?oc=5	一般車禍	-
 2026-11-26	生死一瞬間！搭客運國道遇劫 生還者嚇壞：2度撞擊飛起來......	https://news.ltn.com.tw/news/society/breakingnews/5653839	未分類	-

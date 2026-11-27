@@ -1,5 +1,7 @@
-// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 430 條
+// 第四次工業革命 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 432 條
 var DATA_TECH = `
+2026-11-27	警方：上月至今30宗網絡安全事故 不法份子以AI存取大量資料	https://news.rthk.hk/rthk/ch/component/k2/1879478-20261127.htm	其他資安	-
+2026-11-27	專家指網絡保安事故增加 原因包括黑客以AI無間段掃描嘗試攻擊	https://news.rthk.hk/rthk/ch/component/k2/1879467-20261127.htm	駭客網攻	-
 2026-11-26	袋鼠金融遭AI駭客攻擊！估1成會員受影響 全站緊急停擺	https://finance.ettoday.net/news/3278957	駭客網攻	-
 2026-11-26	美財政部 FinCEN 遭駭停擺 5 天，資訊長在用 AI 做《文明帝國》	https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVA3N0NGVU56TzlPYzRTdk00N3JDOHdpY3dQT2ZWN0x6ZXRtbzNsRjVLb1FKQlZtUHVCendWMkZ4b29aNU9HZ19HZEZkelk0X0ZRWXNDbjg1QVdBT29hM2d3NUowT3pybld1M2J3dVJCZlR0Q0pIT2kxMHlNSm1pd0s1T214RlZsNlBCM2FuZGxPaEx6amhDZzlSQnA?oc=5	未分類	-
 2026-11-25	中國AI假影片「抹黑民進黨候選人」 BBC揭網軍操縱線索	https://www.ettoday.net/news/20261125/3278218.htm	深偽詐騙	-
