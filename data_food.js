@@ -1,5 +1,7 @@
-// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 140 條
+// 糧食 | 由 htnl_build_news_js.py ＋htnl_semantic_reroute.py 生成 | 共 144 條
 var DATA_FOOD = `
+2026-11-27	聯合國示警全球16處飢餓熱區 非洲多國面臨嚴重飢荒威脅	https://news.google.com/rss/articles/CBMiYEFVX3lxTE01VEhkbTRpVzNkRWpDLVNONUoyVFBRYkpDdWFxMFdQZUlWdF9xaWZIWFB2cDFiMWNCc0dqNmZNZ2dSU0NqbkRmY05lOWVQXzZXbjlVY3ByM1l2akxCd1NhSg?oc=5	歉收饑荒	-
+2026-11-27	美計畫擴大ASML對中出口禁令荷蘭擬阻止- 國際	https://news.google.com/rss/articles/CBMiX0FVX3lxTE54eF92aFVaS1lkRUJXX1Y0NEJVenBwS0xma0xMbjJIcjN3NDB1NkVuUWdzaVppc3NLVzVKWVh5UWQwOVdTTG1Fc2lWT28tai1vX2tzNjhkME9DdTZDazlR?oc=5	糧食	-
 2026-11-24	（有片）聯合國秘書長發言人：糧食危機外溢！黑海梗阻衝擊全球供應鏈- 國際	https://news.google.com/rss/articles/CBMid0FVX3lxTFBObzdpaldySDc0LWxVY29aS0R4d3Z2d1BJeUp1dXdyUC1IZl9pVlo2WmpsM25sWVViSU52QVVYRmI1dVp5aXJzcjBjOXJQWlhWWEZEZjRNRERpUHRyM21heXo0RjRuWENfX0dCNHdtcjJFbkk3SzJn?oc=5	糧荒短缺	-
 2026-11-24	騰遠鈷業，大升15%！剛果（金）再發出口禁令	https://news.google.com/rss/articles/CBMiakFVX3lxTE9QVWd1dGlUUGFyUTRqWVJkZTJmYUVSQVRJR05zNzU5TVhmWjlLWnpSU2RoQ3RUcTdFZnJtazNrZzdHQU5KZHRkd3d2NVptZ1FJbHJzWlUzYzcydnNyWlRteW5uN3U0a3pBclE?oc=5	糧食	-
 2026-11-21	糧食危機｜世糧署：全球近2.7億人嚴重捱餓 明年僅能援助9100萬人	https://news.google.com/rss/articles/CBMiiANBVV95cUxQcHlDUE9mVjgtRjJCdlF3ejNJck5CTzdTVjJIdjc2ZlZNZFZXNF8zSy1BSERwM04zSW4xbkJWVFd2cjJ3T2JyQnh0b1o5bkRqck5oVEZYdktVVkxGam1QOW4zNDREWnpHRDVDa1dNa1VtYWRUMHdVRVNUYi15YkNsTXE3UlVzWHR3dDJzZEgxSzZRd3hqNkpaYzBlbkFjbWhpNUxCUTJ3NUpSd0g1VVJ4Ynp0R3NpRlRuaUUxZ0dFVlNGV2NBVEFuNU9ibjhSVEk5U1hjRGxwT0NFcm5wNkxnUzVkQVNxQVYzVGRDRzI0T19aZGU0aG81YmNlQjN1dWpORGRPYkdDSmN5WG43OGprUHl0QUNuM1UydVJsUjFibmljSEFtTU5lcWg5R21OMG1ZdTZxNzQ3YzhuazM3V042eXJ3Y0Y1SU5OLVdtWXU0bVFMbnFLLWMtWUpnWnBDMmpRQ1NsVzFxTUJNcnFjRHVxcm9tRWlidVBUTnk0d05rQjAtNnJ3R3RzTg?oc=5	糧荒短缺	-
@@ -118,6 +120,7 @@ var DATA_FOOD = `
 2022-10-03	飢荒逼近 索馬里180萬兒童嚴重營養不良 Hunger	https://www.hk01.com/article/821457?utm_source=01articlecopy&utm_medium=referral	歉收饑荒	A
 2022-09-25	衝擊亞洲糧食市場！印度祭出稻米出口禁令 Hunger	https://globalnewstv.com.tw/202209/193218/	出口禁令	A
 2022-09-19	氣候變遷釀饑荒 五千萬人陷極飢餓 Hunger	https://tw.news.yahoo.com/%E6%B0%A3%E5%80%99%E8%AE%8A%E9%81%B7%E9%87%80%E9%A5%91%E8%8D%92-%E4%BA%94%E5%8D%83%E8%90%AC%E4%BA%BA%E9%99%B7%E6%A5%B5%E9%A3%A2%E9%A4%93-091036545.html	歉收饑荒	A
+2022-09-16	比爾蓋茲協助研發新型玉米，盼能緩解糧食危機	https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Td1lvNkxwUnp4ZERnelFnd0ZBZHJZVHpNVkM5TlB2VnphQWdOZE9RSUU5d2lsQ0hWdDdJTGdSeDVQV1BnRkxqcWNxSVg?oc=5	糧荒短缺	-
 2022-09-15	俄肥料卡關 全球糧荒危機未解 Hunger	https://www.chinatimes.com/newspapers/20220915000181-260203?chdtv	歉收饑荒	A
 2022-09-10	印限大米出口 勢推高糧價 Hunger	https://www.bastillepost.com/hongkong/article/11300678-%e5%8d%b0%e9%99%90%e5%a4%a7%e7%b1%b3%e5%87%ba%e5%8f%a3-%e5%8b%a2%e6%8e%a8%e9%ab%98%e7%b3%a7%e5%83%b9	價格暴漲通脹	A
 2022-09-07	北韓再現糧食危機	https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KTmh3LUMtTTkxemRpN0FQMWJ6eWpFSlJoSmQxeEJQVGszc0Vwc1dSWGpRV3BaQ2ZiUnQ3SDlxUHBPenNXTmJPVkdEMk1pUHp6cWVZQkJmaDZVSVJlNDg5cQ?oc=5	糧荒短缺	-
@@ -139,5 +142,6 @@ var DATA_FOOD = `
 2019-04-27	飢荒、人口販賣、強制遣返及勞改 脫北者公開苦難經歷	https://news.google.com/rss/articles/CBMi4gJBVV95cUxNMGJzR2Y4bWhuZ2JTU2VZdDNkYXZrcDFXYmF4RnRieExRTkhCYUZkdVctMXJvZDlvNHY4TFFKNENKQVp3bkx5dV9qOXlpWHBrSG05N3QzS1k3eVh4UEVJSjNPUmx6ZktnZGR1YmdFYlJ4d2lHWFZtM3JxZWNaOHFOV0dqOVNqZ3dnMHpBN201ZkFTOUowa3JmemVSd0VSdlB0RTl4TjZ3RWZEalAyQk5FanVhcUtvRzM4VHBHQXBPRzVVU005b3ItR0RkQ0FjMFZWZTdDM0NOWWhkMVdWeHVhWGZnX1BVWm1sWmxHanZEOGF6Y3h6T3BlZHVMQmpOc19kSXFSN09RMG5IVTQ2b2tpS2xla1JKd0pFcEI3WjRLNGlRT0NWS2oydjRjOHBsZjF1VDU0TVB6ZzJWZS1Jb0V3dnJMcmkyYlIwU3JyU0M5YXU0Z3pMS2dLdlBhTTlCNlU5UWc?oc=5	歉收饑荒	-
 2017-07-11	非洲糧食危機2017:工作報告3	https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVZzbW8wZnFUQzlHbXJRWV9XVWtodndtN1lTQWMtOV8xWV9jV3R3aEpXVE9hSWRkdGw5cmowYUZMTmdLYmZjQWs2WE41SFpjMHRQcy04QkVoakJNQUtyREtzejBTa000bzZxbFFqLWJHT3pvZ1gzOTZGU3kyREFvQ2dZUTlZRkRBcHcybXRR?oc=5	糧荒短缺	-
 2016-04-16	熊本強震／領2飯糰排隊2小時當地台僑：糧食開始短缺| 國際	https://www.setn.com/news/138797	糧荒短缺	B
+2014-01-21	圖示解密即將發生的糧食危機Part2	https://news.google.com/rss/articles/CBMiQkFVX3lxTFBzcFAyVXFEclMtYzJCVTNIS21GTFZacG1WcUI3Mi1wSExfYU1SaHkwd096V2puTUJ4Z1pSdVhtRXpNdw?oc=5	糧荒短缺	-
 2008-07-07	世界銀行領袖呼籲G8重視全球糧荒危機	https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYMTZud2dGTVBRSFpqdDZnZ3FoVDRicHF6NDdMdHV5NFRQWmZVOFh2M29ZcGt6NzJ6eGpmRktMb29ac3BpZV81V2htR0w?oc=5	歉收饑荒	-
 `;
